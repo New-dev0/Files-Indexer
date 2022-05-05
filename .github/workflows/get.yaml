@@ -23,6 +23,6 @@ jobs:
          with:
           commit_message: 'Auto: Update Content'
           repository: .
-          commit_user_name: FilesIndexBot
+          commit_user_name: New-dev0
           commit_user_email: Newdev0@outlook.com
-          commit_author: New-Dev0 <Newdev0@outlook.com>
+          commit_author: Devesh Pal <Newdev0@outlook.com>
