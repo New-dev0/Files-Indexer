@@ -1,0 +1,28 @@
+name: "Run file Indexer"
+
+on:
+  schedule:
+    - cron:  '0 */2 * * *' # Every 2 Hours 
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+       - uses: actions/checkout@v2
+       - name: Setup Python
+         uses: actions/setup-python@v1
+         with:
+          python-version: 3.9
+       - name: Install requirements
+         run: pip3 install -r requirements.txt
+       - name: Run File-Indexer
+         run: python3 Files.py
+       - uses: stefanzweifel/git-auto-commit-action@v4
+         continue-on-error: true
+         with:
+          commit_message: 'Auto: Update Content'
+          repository: .
+          commit_user_name: FilesIndexBot
+          commit_user_email: Newdev0@outlook.com
+          commit_author: New-Dev0 <Newdev0@outlook.com>
