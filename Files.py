@@ -3,12 +3,14 @@ import csv
 import asyncio
 import random
 import re
+import string
 from user_agent import generate_user_agent
 from aiohttp import ClientSession
 from bs4 import BeautifulSoup
 
 Words = []
 IgnoreWords = []
+_Processed = []
 Formats = ["pdf", "ppt", "doc", "manifest", "txt", "xml"]
 
 Content = {}
@@ -42,9 +44,10 @@ async def get_random_words_from_api():
 class EndProgram(Exception):
     ...
 
+
 async def fetch_files(word):
-    if len(Words) == MaxWords:
-        raise EndProgram("Limit Reached!")
+    if len(_Processed) == MaxWords:
+        raise EndProgram
     print(f"---> Fetching {word}!")
     if word not in IgnoreWords:
         Words.append(word)
@@ -80,7 +83,11 @@ async def fetch_files(word):
                         print(f"--> GOT ---> FROM WORD --> {word}---> {fileurl}")
                         await asyncio.sleep(2)
                         for word_ in name.split():
-                            if len(word_) > 3 and word_ not in IgnoreWords:
+                            cont = True
+                            for c in word:
+                                if c not in string.ascii_letters:
+                                    cont = False
+                            if cont and len(word_) > 3 and word_ not in IgnoreWords :
                                 print(f"---> Got new word --> {word_}")
                                 new_task.append(fetch_files(word_))
                     except Exception as eR:
@@ -89,6 +96,7 @@ async def fetch_files(word):
                     start += 10
                 await asyncio.sleep(random.randint(5, 12))
                 get_ = await get_page(url + f"&start={start}")
+        _Processed.append(word)
         if new_task:
             await asyncio.gather(*new_task)
 
