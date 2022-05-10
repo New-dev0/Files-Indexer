@@ -4,7 +4,7 @@ on:
   schedule:
     - cron:  '0 */2 * * *' # Every 2 Hours 
   push:
-    - paths: 'Files.py' 
+    paths: 'Files.py' 
   workflow_dispatch:
 
 jobs:
