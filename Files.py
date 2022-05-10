@@ -30,7 +30,7 @@ for key in _Key.keys():
     if os.path.exists(key):
         with open(key, "r") as f:
             _Key[key].extend(f.read().split("\n"))
-        if key == "WordList":
+        if key == "WordList.txt":
             os.remove(key)
 
 
@@ -137,18 +137,18 @@ async def fetch_files(word):
         word = folder + word[1:]
         if not os.path.exists(folder + f"/{word}"):
             os.mkdir(folder + f"/{word}")
-        save_files(Content, path=folder + f"/{folder}{word[1:]}")
+        save_files(Content, path=f"{folder}/{word}/")
     await asyncio.gather(*new_task)
 
 
 async def main():
     print("> Starting UP!")
     await get_random_words_from_api()
-    task = []
+    # task = []
     for word in Words:
-        # await asyncio.sleep(3)
-        task.append(fetch_files(word))
-    await asyncio.gather(*task)
+        await asyncio.sleep(3)
+        await fetch_files(word)
+    # await asyncio.gather(*task)
 
 
 try:
