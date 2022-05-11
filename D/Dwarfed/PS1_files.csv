@@ -1,0 +1,13 @@
+scripts/Windows/install_mingw-w64.ps1 1.0.174 - PowerShell Gallery,https://www.powershellgallery.com/packages/AppVeyorBYOC/1.0.174/Content/scripts%255CWindows%255Cinstall_mingw-w64.ps1
+blazor/CheckSymbols.ps1 at master · dotnet/blazor · GitHub,https://github.com/dotnet/blazor/blob/master/eng/common/CheckSymbols.ps1
+CMSIS-FreeRTOS/Blinky.Debug.cspy.ps1 at develop - GitHub,https://github.com/ARM-software/CMSIS-FreeRTOS/blob/develop/CMSIS/RTOS2/FreeRTOS/Examples/Blinky_IAR/Blinky/settings/Blinky.Debug.cspy.ps1
+ace/Implementations/crypto_aead/aceae128v1/add_mCPU/ace_16 ...,https://lab.las3.de/gitlab/lwc/candidates/blob/ef5a97bf3b4d0b740fd328a0988b8fd99a8b43e7/ace/Implementations/crypto_aead/aceae128v1/add_mCPU/ace_16/ace_16_ad_0_msg_1024/settings/ACE16.Debug.cspy.ps1
+…/09-install-mingw730.ps1 · Gerrit Code Review - Qt Code Review,https://codereview.qt-project.org/c/qt/qt5/%2B/320596/1/coin/provisioning/qtci-windows-10-x86_64/09-install-mingw730.ps1
+eng/common/CheckSymbols.ps1 · feed-update-release/dev16.9 ...,https://gitcode.net/mirrors/dotnet/roslyn/-/blob/feed-update-release/dev16.9/eng/common/CheckSymbols.ps1%3Ffrom_codechina%3Dyes
+…/09-install-mingw810.ps1 · Gerrit Code Review,https://codereview.qt.nokia.com/c/qt/qt5/%2B/301670/4/coin/provisioning/qtci-windows-7-x86/09-install-mingw810.ps1
+…/09-install-mingw730.ps1 · Gerrit Code Review,https://codereview.qt.nokia.com/c/qt/qt5/%2B/301670/6/coin/provisioning/qtci-windows-7-x86/09-install-mingw730.ps1
+df-raw-lookup - git.nwest.xyz,https://209.97.158.98/nwest/df-raw-lookup/blame/commit/e03da5c3deb3947f2d1ec059ff3851490cf2e659/run-rust.ps1
+DI6411-V0500/settings/DI6211-S-D01.Debug.cspy.ps1 ...,http://www.sicdcs.net:18900/root/pas300_io_di6411/blob/54e2452543027f8d87e639eabc5a2d8ec91cfc21/DI6411-V0500/settings/DI6211-S-D01.Debug.cspy.ps1
+settings/myproject.Debug.cspy.ps1 ...,http://www.sicdcs.net:18900/root/pas300_io_di6411/blob/18340db29ce6875be51ed371d6523086965b8338/settings/myproject.Debug.cspy.ps1
+Greenstar/matrix - Litemesh Git Service,http://hub.litemesh.org/Greenstar/matrix/src/8d09073e2f8b74fa2465c81d5e37f89463eee0dc/matrix-testboard/EWARM/settings/matrix-testboard.matrix-testboard.cspy.ps1
+"$saveFolder = ""C:\Users\nwest\scoop\apps\dwarf-fortress\0.47.05 ...",https://209.97.158.98/nwest/df-raw-lookup/raw/commit/122772ac559e87b3ae20681569a2c85ca22cc99e/run-rust.ps1
