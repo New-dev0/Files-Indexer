@@ -1,0 +1,17 @@
+Utils.ps1 2.0.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/PSCoreUpdate/2.0.0/Content/Utils.ps1
+Private/GetUbuntu1604Scripts.ps1 1.0.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/BootstrapPowerShellCore/1.0.0/Content/Private%255CGetUbuntu1604Scripts.ps1
+Chia-Plot-Status/release.ps1 at main · grayfallstown/Chia-Plot ...,https://github.com/grayfallstown/Chia-Plot-Status/blob/main/release.ps1
+Ocaramba/ExecutingTestsOnLinux.ps1 at master · ObjectivityLtd ...,https://github.com/ObjectivityLtd/Ocaramba/blob/master/ExecutingTestsOnLinux.ps1
+deb-python-cassandra-driver/appveyor.ps1 at python-196 - deb ...,https://38.108.68.23:3000/openstack/deb-python-cassandra-driver/src/branch/python-196/appveyor/appveyor.ps1
+opt/vagrant/embedded/gems/gems/vagrant-1.6.2/plugins ... - Gemfury,https://gemfury.com/dictcp/deb:vagrant/1:1.6.2/content/opt/vagrant/embedded/gems/gems/vagrant-1.6.2/plugins/providers/hyperv/scripts/utils/write_messages.ps1
+opt/vagrant/embedded/gems/gems/vagrant-1.6.2/plugins/providers ...,https://gemfury.com/dictcp/deb:vagrant/1:1.6.2/content/opt/vagrant/embedded/gems/gems/vagrant-1.6.2/plugins/providers/hyperv/scripts/stop_vm.ps1
+bootstrap.ps1 · 19dd5c4708fe1526006e02dbbc4bb7db29b0f8cd ...,https://code.stanford.edu/tcgpublic/pbs/-/blob/19dd5c4708fe1526006e02dbbc4bb7db29b0f8cd/bootstrap.ps1
+Private/GetDebian9Scripts.ps1 1.0.6 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/BootstrapPowerShellCore/1.0.6/Content/Private%255CGetDebian9Scripts.ps1
+eng/configure-toolset.ps1 · v3.1.4 - mirrors dotnet - GitCode,https://gitcode.net/mirrors/dotnet/aspnetcore/-/blob/v3.1.4/eng/configure-toolset.ps1
+“O arquivo C:\Users\jukin\AppData\Roaming\npm\yarn.ps1” Code ...,https://www.codegrepper.com/code-examples/shell/O%2Barquivo%2BC%253A%255CUsers%255Cjukin%255CAppData%255CRoaming%255Cnpm%255Cyarn.ps1
+<#PSScriptInfo .VERSION 1.4.2 .GUID 539e5585-7a02-4dd6-b9a6 ...,https://raw.githubusercontent.com/PowerShell/vscode-powershell/master/scripts/Install-VSCode.ps1
+Private/Get-Platform.ps1 2103.305 - PowerShell Gallery,https://40.87.85.101/packages/Evergreen/2103.305/Content/Private%255CGet-Platform.ps1
+Function Get-WUList { <# .SYNOPSIS Get list of available updates ...,https://4kib.com/download/pswindowsupdate/get-wulist.ps1
+.ci/os.ps1 · dbd169afc98686cae1bc72024fad0ca32b272efd ...,https://gitlab.kveer.fr/upstream/elasticsearch/-/blob/dbd169afc98686cae1bc72024fad0ca32b272efd/.ci/os.ps1
+zkj_install_powershell_从linux主控机到linux被控机.ps1 · 谯夫 ... - Gitee,https://gitee.com/qf2008/kasini3000/blob/master/zkj_install_powershell_%25E4%25BB%258Elinux%25E4%25B8%25BB%25E6%258E%25A7%25E6%259C%25BA%25E5%2588%25B0linux%25E8%25A2%25AB%25E6%258E%25A7%25E6%259C%25BA.ps1
+mirrors/chia-blockchain - chia-blockchain - Trustie: Git with trustie,https://code.gitlink.org.cn/mirrors/chia-blockchain/commits/commit/e671af213f1cc37202077fe074ede32d327c9bcc/electron-wix/rebuild-all.ps1

@@ -1,0 +1,3 @@
+src/cmdlets/Get-GraphApplicationCertificate.ps1 0.28.0 - PowerShell ...,https://www.powershellgallery.com/packages/autographps-sdk/0.28.0/Content/src%255Ccmdlets%255CGet-GraphApplicationCertificate.ps1
+src/cmdlets/common/CertificateHelper.ps1 0.27.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/autographps-sdk/0.27.0/Content/src%255Ccmdlets%255Ccommon%255CCertificateHelper.ps1
+src/REST/RESTRequest.ps1 0.28.0 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/autographps-sdk/0.28.0/Content/src%255CREST%255CRESTRequest.ps1
