@@ -1,0 +1,14 @@
+ubuntustudio-21.04-dvd-amd64.manifest - Ubuntu CDimage,https://cdimage.ubuntu.com/ubuntustudio/releases/21.04/release/ubuntustudio-21.04-dvd-amd64.manifest
+a2jmidid 9-2 abgate 1.1.9-2build1 accountsservice 0.6.55 ...,https://cdimage.ubuntu.com/ubuntustudio/releases/20.04.3/release/ubuntustudio-20.04.4-dvd-amd64.manifest
+LiteBSD/rootfs.manifest at master · sergev/LiteBSD · GitHub,https://github.com/sergev/Tilden/blob/master/etc/rootfs.manifest
+Package: base-files Version: 192-r7258-5eb055306f Depends: libc ...,https://downloads.openwrt.org/releases/18.06.1/targets/ramips/mt7620/packages/Packages.manifest
+CentOS-Stream-8-x86_64-latest-dvd1.iso.manifest - Nexril,http://mirror.dal.nexril.net/centos/8-stream/isos/x86_64/CentOS-Stream-8-x86_64-latest-dvd1.iso.manifest
+/EFI /EFI/BOOT /EFI/BOOT/BOOT.conf /EFI/BOOT/BOOTIA32.EFI /EFI ...,http://mirrors.radwebhosting.com/almalinux/8.5/isos/x86_64/AlmaLinux-8.5-x86_64-minimal.iso.manifest
+/boot.catalog /EFI /EFI/BOOT /EFI/BOOT/BOOTAA64.EFI /EFI/BOOT ...,http://mirrors.radwebhosting.com/almalinux/8.4/isos/aarch64/AlmaLinux-8.4-aarch64-minimal.iso.manifest
+.discinfo EULA GPL Packages/LibRaw-0.14.8-5.el7 ...,https://mirrors.dotsrc.org/oracle-linux/OL7/u6/aarch64/OracleLinux-R7-U6-src-dvd2-20181103.iso.MANIFEST
+a2jmidid 9-2 abgate 1.1.9-2.1 ableton-link-utils 3.0.3+dfsg-5 ...,http://ftp.jaist.ac.jp/pub/Linux/ubuntu-cdimage/ubuntustudio/releases/21.10/release/ubuntustudio-21.10-dvd-amd64.manifest
+acl mips64 2.3.1 acl-dev mips64 2.3.1 adwaita-icon-theme noarch ...,https://165.227.188.234/yocto/yocto/yocto-3.4.1/machines/edgerouter/core-image-sato-sdk-edgerouter-20211129235402.rootfs.manifest
+acl ppce300c3 2.2.52 acl-dbg ppce300c3 2.2.52 acl-dev ppce300c3 ...,https://165.227.188.234/yocto/yocto/yocto-2.7/toolchain/i686/poky-glibc-i686-core-image-sato-ppce300c3-mpc8315e-rdb-toolchain-2.7.target.manifest
+Package: base-files Version: 173.1-r3560-79f57e422d Depends ...,https://mgmt.saar.freifunk.net/openwrt/releases/17.01.4/targets/at91/sama5d3/packages/Packages.manifest
+Package: base-files Version: 194.3-r7976-ca47026b7d Depends ...,https://usingpro.com/releases/18.06.7/targets/ar71xx/generic/packages/Packages.manifest
+"Package: 6tunnel Version: 0.11rc2-3 Depends: libc, libssp, libpcap ...",http://downloads.pangubox.com:6380/pandorabox/19.01/packages/mipsel_1004kc_dsp/packages/Packages.manifest
