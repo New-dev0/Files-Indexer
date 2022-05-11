@@ -4,6 +4,7 @@ import asyncio
 import random
 import re
 import string
+import logging
 from user_agent import generate_user_agent
 from aiohttp import ClientSession
 from bs4 import BeautifulSoup
@@ -21,7 +22,11 @@ _Key = {
     "IgnoreWords.txt": IgnoreWords,
 }
 
-MaxWords = 1
+MaxWords = 10
+
+logging.basicConfig(level=logging.INFO)
+
+Log = logging.getLogger("INDEXER: ")
 
 if hasattr(asyncio, "WindowsSelectorEventLoopPolicy"):
     asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
@@ -67,7 +72,7 @@ async def fetch_files(word):
         raise EndProgram
     if word in IgnoreWords:
         return
-    print(f"---> Fetching {word}!")
+    Log.info(f"---> Fetching {word}!")
     IgnoreWords.append(word)
     Content = {}
     folder = word[0].upper()
@@ -108,7 +113,7 @@ async def fetch_files(word):
                             else:
                                 Content.update({filetype: [[name, fileurl]]})
                             IgnoreLinks.append(fileurl)
-                        print(f"--> GOT ---> FROM WORD --> {word}---> {fileurl}")
+                        Log.info(f"--> GOT ---> FROM WORD --> {word}---> {fileurl}")
                         await asyncio.sleep(2)
                         for word_ in name.split():
                             cont = True
@@ -118,11 +123,11 @@ async def fetch_files(word):
                                     break
                             if cont and len(word_) > 3 and word_ not in IgnoreWords:
                                 if word not in Words:
-                                    print(f"---> Got new word --> {word_}")
+                                    Log.info(f"---> Got new word --> {word_}")
                                     Words.append(word)
                     except Exception as eR:
                         # raise eR
-                        print(eR)
+                        Log.error(eR)
                 if len(get_) == 10:
                     start += 10
                 await asyncio.sleep(random.randint(2, 5))
@@ -138,7 +143,7 @@ async def fetch_files(word):
 
 
 async def main():
-    print("> Starting UP!")
+    Log.info("> Starting UP!")
     await get_random_words_from_api()
     # task = []
     while Words:
@@ -153,7 +158,7 @@ except (KeyboardInterrupt, EndProgram):
     pass
 except Exception as er:
     # raise er
-    print(er)
+    Log.info(er)
 
 
 for _ in _Key.keys():
