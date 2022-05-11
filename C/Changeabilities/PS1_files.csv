@@ -1,0 +1,10 @@
+private/Select-DefaultView.ps1 0.0.4 - PowerShell Gallery,https://www.powershellgallery.com/packages/tentools/0.0.4/Content/private%255CSelect-DefaultView.ps1
+Public/Set-JiraUser.ps1 2.4.2 - PowerShell Gallery,https://www.powershellgallery.com/packages/JiraPS/2.4.2/Content/Public%255CSet-JiraUser.ps1
+Misc-PowerShell/Set-Registry.ps1 at master - GitHub,https://github.com/DominikBritz/Misc-PowerShell/blob/master/Scripts/Set-Registry.ps1
+Powermad/Powermad.ps1 at master · Kevin-Robertson/Powermad,https://github.com/Kevin-Robertson/Powermad/blob/master/Powermad.ps1
+5-PS1 Matter and Its Interactions - Next Generation Science Standards,http://www.theproecenter.info/uploads/2/2/5/5/22551316/5.ps1
+param( [string] $VISRV ...,http://hypervisor.free.fr/vCheck/vCheckv505%2B.ps1
+#ps1_sysnative #Requires -RunAsAdministrator #Requires -Version ...,https://download.sureviewsystems.com/SureviewPrep.ps1
+PowerView.ps1 - GitHub,https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/master/Recon/PowerView.ps1
+#This function finds any AppX/AppXProvisioned package and ...,https://raw.githubusercontent.com/Sycnex/Windows10Debloater/master/Windows10Debloater.ps1
+lib/ansible/modules/windows/win_acl.ps1 | Fossies,https://fossies.org/linux/ansible/lib/ansible/modules/windows/win_acl.ps1
