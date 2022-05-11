@@ -14,7 +14,7 @@ IgnoreWords = []
 IgnoreLinks = []
 _Processed = []
 
-Formats = ["pdf", "ppt", "doc", "manifest", "rss", "txt", "xml", "mkv", "mov", "avi", "docx", "pptx", "ogg", "xls", "xlsx", "msi", "ini", "appxbundle", "mpeg", "mpv", "flv", "ps", "jar", "ps1"]
+Formats = ["pdf", "ppt", "doc", "manifest", "rss", "txt", "xml", "mkv", "mov", "avi", "docx", "pptx", "ogg", "xls", "xlsx", "msi", "ini", "appxbundle", "mpeg", "mpv", "flv", "ps", "jar", "ps1", "7z"]
 
 _Key = {
     "WordList.txt": Words,
@@ -22,7 +22,7 @@ _Key = {
     "IgnoreWords.txt": IgnoreWords,
 }
 
-MaxWords = 10
+MaxWords = 15
 
 logging.basicConfig(level=logging.INFO)
 
@@ -39,7 +39,7 @@ for key in _Key.keys():
             os.remove(key)
 
 
-RandomWordsCount = 1
+RandomWordsCount = 10
 
 
 async def get_random_words_from_api():
@@ -77,8 +77,10 @@ async def fetch_files(word):
     Content = {}
     folder = word[0].upper()
     async with ClientSession() as ses:
-        for filetype in Formats:
+
+        async def get_content_from_format(filetype):
             url = f"https://google.com/search?q={word}+filetype:{filetype}"
+
 
             async def get_page(url_):
                 res = await ses.get(
@@ -114,7 +116,6 @@ async def fetch_files(word):
                                 Content.update({filetype: [[name, fileurl]]})
                             IgnoreLinks.append(fileurl)
                         Log.info(f"--> GOT ---> FROM WORD --> {word}---> {fileurl}")
-                        await asyncio.sleep(2)
                         for word_ in name.split():
                             cont = True
                             for c in word_:
@@ -130,8 +131,11 @@ async def fetch_files(word):
                         Log.error(eR)
                 if len(get_) == 10:
                     start += 10
-                await asyncio.sleep(random.randint(2, 5))
                 get_ = await get_page(url + f"&start={start}")
+        task = []
+        for i in Formats:
+            task.append(get_content_from_format(i))
+        await asyncio.gather(*task)
     _Processed.append(word)
     if word in Words:
         Words.remove(word)
@@ -145,10 +149,12 @@ async def fetch_files(word):
 async def main():
     Log.info("> Starting UP!")
     await get_random_words_from_api()
-    # task = []
     while Words:
-        await asyncio.sleep(3)
-        await fetch_files(Words[0])
+        task = []
+        for word in Words[:3]:
+            task.append(fetch_files(word))
+        await asyncio.gather(*task)
+        await asyncio.sleep(2)
     # await asyncio.gather(*task)
 
 
