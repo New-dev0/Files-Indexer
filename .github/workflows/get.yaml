@@ -2,9 +2,7 @@ name: "Run file Indexer"
 
 on:
   schedule:
-    - cron:  '0 */2 * * *' # Every 2 Hours 
-  push:
-    paths: 'Files.py' 
+    - cron:  '0 * * * *' # Every 1 Hour
   workflow_dispatch:
 
 jobs:
@@ -19,7 +17,7 @@ jobs:
        - name: Install requirements
          run: pip3 install -r requirements.txt
        - name: Run File-Indexer
-         run: python3 Files.py
+         run: python3 Files.py && git pull
        - uses: stefanzweifel/git-auto-commit-action@v4
          continue-on-error: true
          with:
