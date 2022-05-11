@@ -22,7 +22,7 @@ _Key = {
     "IgnoreWords.txt": IgnoreWords,
 }
 
-MaxWords = 15
+MaxWords = 50
 
 logging.basicConfig(level=logging.INFO)
 
@@ -39,7 +39,7 @@ for key in _Key.keys():
             os.remove(key)
 
 
-RandomWordsCount = 10
+RandomWordsCount = 35
 
 
 async def get_random_words_from_api():
