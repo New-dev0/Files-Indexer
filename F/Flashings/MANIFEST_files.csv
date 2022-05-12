@@ -1,0 +1,2 @@
+"Package: 6tunnel Version: 0.11rc2-3 Depends: libc, libssp, libpcap ...",http://downloads.pangubox.com:6380/pandorabox/19.02/packages/arm_cortex-a7_neon-vfpv4/packages/Packages.manifest
+"Package: acl Version: 20160519-1 Depends: libc, libacl Source ...",https://usingpro.com/releases/17.01.7/packages/aarch64_armv8-a/packages/Packages.manifest
