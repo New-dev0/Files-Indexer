@@ -1,0 +1,5 @@
+Class Manifest | Java client library | Google Cloud,https://cloud.google.com/java/docs/reference/google-cloud-live-stream/latest/com.google.cloud.video.livestream.v1.Manifest
+Package: UDPspeeder Version: 20210116.0-2 Depends: libc ...,https://mirrors.aliyun.com/openwrt/releases/21.02.1/packages/mipsel_74kc/packages/Packages.manifest
+"Package: acl Version: 20180121-1 Depends: libc, libacl Source ...",https://usingpro.com/releases/18.06.8/packages/x86_64/packages/Packages.manifest
+"Package: 6in4 Version: 23-1 Depends: libc, libssp, kmod-sit Source ...",http://downloads.pangubox.com:6380/pandorabox/19.01/packages/arm_cortex-a15_neon-vfpv4/base/Packages.manifest
+"Package: acl Version: 20180121-1 Depends: libc, libacl Source ...",https://1666999.xyz/releases/packages-18.06/aarch64_generic/packages/Packages.manifest
