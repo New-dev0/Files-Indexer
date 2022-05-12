@@ -1,0 +1,4 @@
+terraform-azurerm-k8s-calico-windows/win-cluster-join.ps1 at master,https://github.com/lippertmarkus/terraform-azurerm-k8s-calico-windows/blob/master/scripts/win-cluster-join.ps1
+functions/SoftwareInstall ... - PowerShell Gallery,https://www.powershellgallery.com/packages/DosInstallUtilities.OnPrem/1.95/Content/functions%255CSoftwareInstall%255CSetupNewMasterNode.ps1
+#Requires -RunAsAdministrator <# .SYNOPSIS Uninstalls the RKE2 ...,https://raw.githubusercontent.com/rancher/rke2/master/bundle/bin/rke2-uninstall.ps1
+#!/usr/bin/env powershell # SPDX-License-Identifier: Apache-2.0 ...,https://raw.githubusercontent.com/youurayy/hyperctl/master/hyperctl.ps1
