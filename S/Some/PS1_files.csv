@@ -1,0 +1,8 @@
+azure-pipelines-task-lib/Write-LoggingCommand.WritesCommand ...,https://github.com/microsoft/azure-pipelines-task-lib/blob/master/powershell/Tests/L0/Write-LoggingCommand.WritesCommand.ps1
+azure-pipelines-tasks/Invoke-MSBuild.OmitsTimelineDetail.ps1 at ...,https://github.com/microsoft/azure-pipelines-tasks/blob/master/Tasks/Common/MSBuildHelpers/Tests/Invoke-MSBuild.OmitsTimelineDetail.ps1
+Tests/Add-PsmData.Tests.ps1 0.2.3 - PowerShell Gallery,https://www.powershellgallery.com/packages/PSModuleBuilder/0.2.3/Content/Tests%255CAdd-PsmData.Tests.ps1
+Examples/Test_Sample_xArchive_CompressArchive.ps1 3.12.0.0,https://www.powershellgallery.com/packages/xPSDesiredStateConfiguration/3.12.0.0/Content/Examples%255CTest_Sample_xArchive_CompressArchive.ps1
+Public/write-in-colour.ps1 0.0.1 - PowerShell Gallery Test,https://www.poshtestgallery.com/packages/Test.Krayola/0.0.1/Content/Public%255Cwrite-in-colour.ps1
+davisdre/PowerShell-Learning: Using this repo to share some of my ...,https://code.davisdre.me/davisdre/PowerShell-Learning/src/branch/master/day-3-learning.ps1
+daniel/QwerteeBots: Some bots to retweet/reblog/... Qwertee posts ...,https://git.dingens.me/daniel/QwerteeBots/src/commit/5525a5fa31625f59aaffb5ca1b10f8183ef77c42/venv/Scripts/Activate.ps1%3Flang%3Dbg-BG
+Public/State.ps1 1.8.3 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/Pode/1.8.3/Content/Public%255CState.ps1
