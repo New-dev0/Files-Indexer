@@ -1,0 +1,5 @@
+src/Pageant.ps1 0.2.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/posh-sshell/0.2.0/Content/src%255CPageant.ps1
+SshUtils.ps1 1.0.0-beta2 - PowerShell Gallery,https://www.powershellgallery.com/packages/posh-git/1.0.0-beta2/Content/SshUtils.ps1
+wsl-ssh-pageant/build.ps1 at golang - GitHub,https://github.com/benpye/wsl-ssh-pageant/blob/golang/build.ps1
+posh-sshell/Pageant.ps1 at master - GitHub,https://github.com/dahlbyk/posh-sshell/blob/master/src/Pageant.ps1
+#Requires -RunAsAdministrator function Write-Error([string ...,https://raw.githubusercontent.com/PromoFaux/.dotfiles/master/install.ps1
