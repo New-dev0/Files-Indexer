@@ -1,0 +1,5 @@
+Public/Add-ExcelChart.ps1 7.0.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/ImportExcel/7.0.0/Content/Public%255CAdd-ExcelChart.ps1
+Public/Add-ExcelChart.ps1 7.1.1 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/ImportExcel/7.1.1/Content/Public%255CAdd-ExcelChart.ps1
+New-ExcelChart.ps1 6.5.2 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/ImportExcel/6.5.2/Content/New-ExcelChart.ps1
+#requires -version 4 <# .SYNOPSIS Convertto-TextASCIIArt converts ...,http://vcloud-lab.com/files/documents/Convertto-TextASCIIArt.ps1
+.SYNOPSIS vCheck is a PowerShell HTML framework script ...,https://raw.githubusercontent.com/Sneddo/vCheck-vSphere/master/vCheck.ps1
