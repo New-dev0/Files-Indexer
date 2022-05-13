@@ -1,0 +1,7 @@
+salt-bootstrap/bootstrap-salt.ps1 at develop · saltstack/salt-bootstrap,https://github.com/saltstack/salt-bootstrap/blob/develop/bootstrap-salt.ps1
+salt-windows-bootstrap/Bootstrap.ps1 at master · vmware-archive ...,https://github.com/saltstack/salt-windows-bootstrap/blob/master/Bootstrap.ps1
+AzureAutomationRunbook/Get-PSCredential.ps1 1.3.1 - PowerShell ...,https://www.powershellgallery.com/packages/AzureAutomationDebug/1.3.1/Content/AzureAutomationRunbook%255CGet-PSCredential.ps1
+Functions/Public/New-OTSSecret.ps1 1.0.1 - PowerShell Gallery,https://www.powershellgallery.com/packages/OneTimeSecret/1.0.1/Content/Functions%255CPublic%255CNew-OTSSecret.ps1
+.SYNOPSIS A simple Powershell script to download and install a salt ...,https://raw.githubusercontent.com/saltstack/salt-bootstrap/stable/bootstrap-salt.ps1
+"""Fossies"" - the Fresh Open Source Software Archive",https://fossies.org/linux/salt/tests/integration/files/windows-firewall-winexe.ps1
+Commands.ps1 4.1.3 - PowerShell Gallery Test,https://www.poshtestgallery.com/packages/ProtectedData/4.1.3/Content/Commands.ps1
