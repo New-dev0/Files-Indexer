@@ -1,0 +1,6 @@
+redshift-scripts/s3-sample.manifest at master - GitHub,https://github.com/ramitsurana/redshift-scripts/blob/master/COPY/s3-sample.manifest
+ubuntu-mate-20.04.4-desktop-amd64.manifest - Ubuntu CDimage,http://cdimage.ubuntu.com/ubuntu-mate/releases/20.04/release/ubuntu-mate-20.04.4-desktop-amd64.manifest
+ubuntu-mate-18.04.5-desktop-amd64.manifest,http://cdimage.ubuntu.com/ubuntu-mate/releases/18.04/release/ubuntu-mate-18.04.5-desktop-amd64.manifest
+accountsservice 22.07.5-2ubuntu1 acl 2.3.1-1 acpi-support 0.144 ...,http://ftp.jaist.ac.jp/pub/Linux/ubuntu-cdimage/ubuntu-mate/daily-live/pending/jammy-desktop-amd64.manifest
+accountsservice 22.07.5-2ubuntu1 acl 2.3.1-1 acpi-support 0.143 ...,http://mirrors.gethosted.online/ubuntu-images/ubuntu-mate/daily-live/current/jammy-desktop-amd64.manifest
+accountsservice 0.6.55-0ubuntu12~20.04.5 acl 2.2.53-6 acpi ...,https://ftp.lysator.liu.se/ubuntu-dvd/ubuntukylin/focal/daily-live/current/focal-desktop-amd64.manifest
