@@ -1,0 +1,1 @@
+"param( [string]$bitness, [string]$fedoraversion, [string]$destindir ...",https://raw.githubusercontent.com/smasherprog/Libvirt_Windows_CSharpDevelopment/2b612203dc20dee5de92f2b251576806c88e5401/Libvirt_Setup.ps1
