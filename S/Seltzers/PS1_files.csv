@@ -1,0 +1,3 @@
+scripts/cohesity-api.ps1 at master - GitHub,https://github.com/bseltz-cohesity/scripts/blob/master/powershell/cohesity-api/cohesity-api.ps1
+PowerShell Module for Cohesity API # Version 2022.02.17 - Brian ...,https://raw.githubusercontent.com/bseltz-cohesity/scripts/master/powershell/cohesity-api/cohesity-api.ps1
+.Synopsis Deploy WAR file to remote Tomcat env. .Description This ...,https://raw.githubusercontent.com/nicseltzer/tomcat-deploy/ababcc70dd08879b61fdad17def518b962ac8e74/deploy-war.ps1
