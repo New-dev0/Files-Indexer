@@ -1,0 +1,3 @@
+/AppStream /AppStream/Packages /AppStream/Packages/389-ds ...,https://mirrors.aliyun.com/centos-vault/8.2.2004/isos/aarch64/CentOS-8.2.2004-aarch64-dvd1.iso.manifest
+/AppStream /AppStream/Packages /AppStream/Packages/389-ds ...,https://mirror.iranserver.com/centos/8-stream/isos/x86_64/CentOS-Stream-8-x86_64-20210916-dvd1.iso.manifest
+/.discinfo /.treeinfo /EFI /EFI/BOOT /EFI/BOOT/BOOT.conf /EFI/BOOT ...,http://mirrors.m247.ro/fedora/development/rawhide/Server/x86_64/iso/Fedora-Server-dvd-x86_64-Rawhide-20190812.n.0.iso.manifest

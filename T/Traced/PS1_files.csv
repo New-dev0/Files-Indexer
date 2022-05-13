@@ -1,0 +1,8 @@
+azure-pipelines-task-lib/TraceFunctions.ps1 at master - GitHub,https://github.com/microsoft/azure-pipelines-task-lib/blob/master/powershell/VstsTaskSdk/TraceFunctions.ps1
+PowerShell-Suite/Trace-Execution.ps1 at master - GitHub,https://github.com/FuzzySecurity/PowerShell-Suite/blob/master/Trace-Execution.ps1
+Trace-Script.ps1 2.0.2 - PowerShell Gallery,https://www.powershellgallery.com/packages/Profiler/2.0.2/Content/Trace-Script.ps1
+modules/Tracing/private/Start-EtwTraceSession.ps1 - PowerShell ...,https://www.powershellgallery.com/packages/SdnDiagnostics/1.2109.77.193729/Content/modules%255CTracing%255Cprivate%255CStart-EtwTraceSession.ps1
+Copyright (c) Microsoft Corporation. # Licensed under the MIT ...,https://raw.githubusercontent.com/Azure/data-landing-zone/main/code/installSHIRGateway.ps1
+"param( [string] $gatewayKey ) # init log setting $logLoc = ""$env ...",https://raw.githubusercontent.com/Azure/azure-quickstart-templates/00b79d2102c88b56502a63041936ef4dd62cf725/101-vms-with-selfhost-integration-runtime/gatewayInstall.ps1
+matlab-cluster/scripts/public_worker_vm_setup.ps1 - GitLab,https://gitlab.rm.ingv.it/azure-dep/azure-quickstart-templates/-/blob/e69c6122a86a6c93b1fc651f7a97c6877715a637/matlab-cluster/scripts/public_worker_vm_setup.ps1
+Get-ScriptPerformanceProfile.ps1 · master · examples / Windows ...,https://resources.oreilly.com/examples/9780596528492/blob/master/Get-ScriptPerformanceProfile.ps1
