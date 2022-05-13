@@ -1,0 +1,17 @@
+Private/Submit-Request.ps1 4.0.0.10 - PowerShell Gallery,https://www.powershellgallery.com/packages/Rubrik/4.0.0.10/Content/Private%255CSubmit-Request.ps1
+Identity/Group/Identity_Group.ps1 2.0.0-beta0009 - PowerShell Gallery,https://www.powershellgallery.com/packages/TfsCmdlets/2.0.0-beta0009/Content/Identity%255CGroup%255CIdentity_Group.ps1
+google-cloud-powershell/Dns.GcdManagedZone.Tests.ps1 at master,https://github.com/GoogleCloudPlatform/google-cloud-powershell/blob/master/Google.PowerShell.IntegrationTests/Dns/Dns.GcdManagedZone.Tests.ps1
+google-cloud-powershell/Dns.GcdChange.Tests.ps1 at master,https://github.com/GoogleCloudPlatform/google-cloud-powershell/blob/master/Google.PowerShell.IntegrationTests/Dns/Dns.GcdChange.Tests.ps1
+Private/Submit-Request.ps1 4.0.0.325 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/Rubrik/4.0.0.325/Content/Private%255CSubmit-Request.ps1
+Functions/Search-HashTable.Tests.ps1 0.3.9 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/BitTitan.Runbooks.Common.Beta/0.3.9/Content/Functions%255CSearch-HashTable.Tests.ps1
+"""Fossies"" - the Fresh Open Source Software Archive",https://fossies.org/linux/PowerShell/test/powershell/engine/Basic/CommandDiscovery.Tests.ps1
+lib/ansible/modules/windows/win_copy.ps1 ... - GitLab,https://code.vt.edu/nis-ansible-roles/upstream-ansible/blob/98934939af06f965182e56bab18049c6c1a68b8d/lib/ansible/modules/windows/win_copy.ps1
+Git/Policy/Git_Policy.ps1 2.0.0-beta0010 - PowerShell Gallery,https://40.87.85.101/packages/TfsCmdlets/2.0.0-beta0010/Content/Git%255CPolicy%255CGit_Policy.ps1
+build.ps1 · 桂新全/aspnetcore - Gitee.com,https://gitee.com/SiYouQingNian/aspnetcore/blob/master/build.ps1
+techinc-infra / techinc-ansible | GitLab,https://git.techinc.nl/techinc-infra/ansible-techinc/blob/1ab2f276559cffd6e914289854b34cf7679c5d7e/build/ansible/lib/ansible/modules/core/windows/win_copy.ps1
+"""$psscriptroot\..\lib\core.ps1"" . ""$psscriptroot\..\lib\install.ps1 ...",https://code.lksz.me/Szcoop/InstallClassic/raw/commit/fd657a5c6e95e00df187109e9dd1574417f05cba/test/Scoop-Core.Tests.ps1
+exports/ProxyCmdletDefinitions.ps1 1.0.2 - PowerShell Gallery Test,https://www.poshtestgallery.com/packages/Az.Migrate/1.0.2/Content/exports%255CProxyCmdletDefinitions.ps1
+#Script for defining a real agent-compliance in McAfee ePO ...,https://raw.githubusercontent.com/LuemmelSec/McAfee-stuff/main/RealAgentCompliance.ps1
+Set-StrictMode -Version Latest $TestScriptRoot = Split-Path ...,https://quad0.com/scripts/wintel/powershell/PowerSploit-master/Tests/CodeExecution.tests.ps1
+B. Stack - GitLab,https://gitlab.com/bgstack15/former-gists/-/blob/master/bitbucketlib.ps1/bitbucketlib.ps1
+Tests/Unit/xExchangeHelper.tests.ps1 1.28.0.0 - PowerShell Gallery,https://168.61.186.235/packages/xExchange/1.28.0.0/Content/Tests%255CUnit%255CxExchangeHelper.tests.ps1
