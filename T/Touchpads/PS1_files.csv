@@ -1,0 +1,7 @@
+Code - GitHub,https://github.com/EriksonBahr/s145.touchpad.fix/blob/main/tools/chocolateyuninstall.ps1
+claire/ASUS-Touchpad - ASUS-Touchpad - code.abettergeek.com,https://blog.abettergeek.com/claire/ASUS-Touchpad/commits/branch/master/elanfix.ps1
+claire/ASUS-Touchpad: A PowerShell script for exposing hidden ...,https://bitfork.net/claire/ASUS-Touchpad/src/commit/f5bf592b135b78caf8665b3c2e703c88595fce71/elanfix.ps1%3Flang%3Dsr-SP
+ResourceDesignerScripts/GenerateDCPP ... - PowerShell Gallery,https://www.powershellgallery.com/packages/DellBIOSProvider/2.1.0/Content/ResourceDesignerScripts%255CGenerateDCPP-POSTBehaviorSchema.ps1
+Private/Cab/New-CabFileDell.ps1 20.6.23.1 - PowerShell Gallery,https://www.powershellgallery.com/packages/OSDDrivers/20.6.23.1/Content/Private%255CCab%255CNew-CabFileDell.ps1
+function New-Hardlink() { New-Item -ItemType HardLink -Force ...,https://raw.githubusercontent.com/grigoryvp/box-cfg/master/configure.ps1
+workstation_windows.ps1 ... - GitLab - BREAKGLASS,https://gitlab.breakglass.io/harry/endpoint/-/blob/f35cdc4605f787d558ac33a8a7473e2a2d2cbe16/workstation_windows.ps1
