@@ -1,0 +1,3 @@
+PowerSharpPack/Invoke-Seatbelt.ps1 at master - GitHub,https://github.com/S3cur3Th1sSh1t/PowerSharpPack/blob/master/PowerSharpBinaries/Invoke-Seatbelt.ps1
+PoshC2_Python/Seatbelt.ps1 at master - GitHub,https://github.com/ZephrFish/PoshC2_Python/blob/master/Modules/Seatbelt.ps1
+function Invoke-Seatbelt { [CmdletBinding()] Param ( [String ...,https://raw.githubusercontent.com/justin-p/Empire/master/data/module_source/situational_awareness/host/Invoke-Seatbelt.ps1
