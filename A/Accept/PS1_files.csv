@@ -1,0 +1,19 @@
+functions/Get-JS7OrderLog.ps1 2.0.7 - PowerShell Gallery,https://www.powershellgallery.com/packages/JS7/2.0.7/Content/functions%255CGet-JS7OrderLog.ps1
+Tests/Get-SubnetSize.tests.ps1 1.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/Posh-SubnetTools/1.0/Content/Tests%255CGet-SubnetSize.tests.ps1
+psPAS/Connect-PASPSMSession.ps1 at master - GitHub,https://github.com/pspete/psPAS/blob/master/psPAS/Functions/Monitoring/Connect-PASPSMSession.ps1
+zaz/SampleAppScript2.ps1 at master · chaliy/zaz - GitHub,https://github.com/chaliy/zaz/blob/master/src/SampleAppScript2.ps1
+DSCResources/POSHOrigin_vSphere_VM ... - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/POSHOrigin_vSphere/1.1.8/Content/DSCResources%255CPOSHOrigin_vSphere_VM%255CProvisioners%255CChef%255Chelpers%255C_InvokeChefRestMethod.ps1
+.SYNOPSIS Exports and imports a COI. .DESCRIPTION The ...,https://public.support.unisys.com/st3/docs/Stealth-4.0/82254186-002/examples/powershell/ExportImport-COI.ps1
+.SYNOPSIS This exploit script leverages Remote command ...,https://vxug.fakedoma.in/archive/Exploits/CVE-2018-10517/CMS-MadeSimple-RCE.ps1
+Import-GPO.ps1 - OSConfig,https://osconfig.osdeploy.com/docs/untitled-1/localpolicy/import-gpo.ps1
+"Param( $LogsArchive = ""C:\LogFolder"", $List = ""D:\IT\Logs\Servers ...",https://content.spiceworksstatic.com/service.community/p/post_attachments/0000166659/5513ed08/attached_file/BackUpAndClearEventLogs.ps1
+"function Do-Next { Write-Host ""What you can do next?`n`n ...",https://githubcontent.aiurs.co/Anduin2017/configuration-script-win/main/install.ps1
+Deploy_Veeam_Linux_Proxy.ps1,https://alt64.se/pwsh/deploy_veeam_linux_proxy.ps1
+QuickBuildAuto.ps1 - Dave Gonzalez - GitLab,https://gitlab.protovate.com/dave/rc4_content_build/-/blob/d31c388d3dc75a18058107aabe1c01391c4d02d3/QuickBuildAuto.ps1
+Public/Authentication/Connect-JCOnline.ps1 ... - PowerShell Gallery,https://40.87.85.101/packages/JumpCloud/1.6.0/Content/Public%255CAuthentication%255CConnect-JCOnline.ps1
+Script Name: backupDisk2VHD.ps1 (Quick Description) # Version ...,https://cit.illinoisstate.edu/downloads/backupdiskexercise.ps1
+Tegile_VMware_Best_Practice_...,http://s1.tegile.com/ps/vmware/Tegile_VMware_Best_Practice_Settings-PowerCLI.ps1
+ansible2/ansible/modules/windows/win_product_facts.ps1 ... - CS@VT,https://version.cs.vt.edu/techstaff/linux-audit/-/blob/386b9b5e3cf8a0101883291ffedd41275aa0d85d/ansible2/ansible/modules/windows/win_product_facts.ps1
+RebootWorkerGroups.ps1 - wingnut1000/CitrixScripts Wiki,https://github-wiki-see.page/m/wingnut1000/CitrixScripts/wiki/RebootWorkerGroups.ps1
+"""Fossies"" - the Fresh Open Source Software Archive",https://fossies.org/windows/misc/desktop-release-2.9.14.zip/desktop-release-2.9.14/script/setup-windows-certificate.ps1
+#IDrac 9 - Info and credentials $hpeilo = '192.168.34.120 ...,http://vcloud-lab.com/files/documents/bccb98de-f8b8-413f-8935-8677fbb22e6f.ps1
