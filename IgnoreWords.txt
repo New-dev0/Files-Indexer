@@ -77,6 +77,7 @@ allocates
 allseeds
 almagest
 almemar
+almoners
 almost
 alpenglow
 alphanumerical
@@ -365,6 +366,7 @@ clerihews
 clinically
 clipped
 cliquing
+clogging
 clostridia
 clotheslined
 cloying
@@ -384,6 +386,7 @@ cocultivated
 coercibly
 coexecutor
 cognations
+coherencies
 coif
 collators
 colonisation
@@ -428,6 +431,7 @@ corbeil
 coresidents
 corgi
 cornballs
+cornbraids
 corollaries
 coronachs
 corporals
@@ -566,13 +570,16 @@ diseur
 disgraced
 dispassionate
 dispensations
+displants
 displuming
 disposable
 disposables
+disregard
 disrupt
 disruptively
 dissaves
 dissed
+distrained
 disulfates
 disuses
 divulses
@@ -789,6 +796,7 @@ freshman
 froghoppers
 frontpaging
 fuels
+fulcrums
 fulfilments
 funnymen
 furuncles
@@ -814,11 +822,13 @@ gassinesses
 gaudier
 gemmology
 generational
+gentlemen
 genua
 geobotanists
 ghastlinesses
 ghoulishness
 ghouls
+gifting
 ginger
 gird
 glad
@@ -1032,6 +1042,7 @@ jiggling
 jimmies
 jitteriness
 jojobas
+joseph
 journalizes
 joylessnesses
 joys
@@ -1054,6 +1065,7 @@ keitloas
 kelly
 keps
 khoums
+kibe
 kilobyte
 kilojoule
 kilos
@@ -1065,6 +1077,7 @@ kleenex
 knightlinesses
 knitter
 knobbly
+kolbasis
 kombus
 kotlin
 laddish
@@ -1134,6 +1147,7 @@ lubricator
 lucarnes
 lucked
 luminance
+lumper
 lustrum
 luteotrophins
 luxuriate
@@ -1251,6 +1265,7 @@ monopolises
 monotints
 monovular
 monuments
+moonily
 morphogenic
 morphs
 morro
@@ -1299,6 +1314,7 @@ neuroanatomists
 neurobiologist
 neurochemical
 nevi
+nevus
 newsgroups
 nielloed
 niftily
@@ -1355,6 +1371,7 @@ oomphs
 opalescent
 opener
 operabilities
+operable
 operativenesses
 operettist
 oppositely
@@ -1382,6 +1399,7 @@ outlaid
 outline
 outmuscle
 outpray
+outranks
 outrebounds
 outseeing
 outsinging
@@ -1449,6 +1467,7 @@ penetrable
 pensil
 pentagon
 pentaploids
+pepino
 pepperboxes
 percaline
 perceptively
@@ -1456,6 +1475,7 @@ perceptually
 percussiveness
 perfectible
 perfects
+perfumery
 perfusates
 perithecial
 perjurious
@@ -1471,6 +1491,7 @@ phalansteries
 pharmacist
 pharmacologist
 phenotypically
+philhellenists
 philologists
 phone
 phonetically
@@ -1611,6 +1632,7 @@ quodlibets
 racisms
 radiation
 radicalize
+radioisotope
 raffinate
 raia
 railcar
@@ -1696,6 +1718,8 @@ responsive
 restaurateur
 restocks
 resultant
+retaking
+retempered
 retems
 retexturing
 reticulums
@@ -1741,6 +1765,7 @@ rumored
 runkling
 rush
 sadisms
+saith
 salicine
 salts
 salutary
@@ -1768,6 +1793,7 @@ schmoose
 scholarships
 scincoid
 scorches
+scorekeepers
 scoured
 scourings
 scrannels
@@ -1779,6 +1805,7 @@ scuzzball
 seacrafts
 seatbelts
 seatworks
+secantly
 seclusivenesses
 secondarily
 sedative
@@ -1917,6 +1944,7 @@ stunner
 stylitic
 stylized
 stylus
+suability
 subas
 subdepartment
 subfixes
@@ -1943,6 +1971,7 @@ superlativeness
 supersecrecy
 superspecialist
 superspies
+supersystem
 superwaves
 supposal
 supposals
@@ -2088,6 +2117,7 @@ typescript
 tyrocidine
 ultimacies
 ultramodernists
+ultravacua
 unambiguous
 unaspirated
 unboned
@@ -2116,6 +2146,7 @@ undivided
 undoers
 unfasten
 ungula
+unhanging
 unhealthinesses
 unhewn
 unhorses
@@ -2140,6 +2171,7 @@ unthinking
 untraveled
 untwisted
 unwariest
+unworldliness
 upbound
 upbow
 upby
@@ -2214,7 +2246,9 @@ whosever
 wilders
 wildfowlings
 wildings
+wimpling
 windiness
+windowing
 windups
 wiretapping
 wisps
@@ -2238,6 +2272,7 @@ wyandotte
 xenophobic
 xylitol
 yahoos
+yald
 yards
 yawed
 yawn
