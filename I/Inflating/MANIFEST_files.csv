@@ -1,0 +1,4 @@
+infinitnet/lede-ar71xx-optimized-archer-c7-v2 · GitHub,https://github.com/infinitnet/lede-ar71xx-optimized-archer-c7-v2/blob/master/openwrt-ar71xx-generic-device-archer-c7-v2.manifest
+Package: base-files Version: 1458-r17965-b7bb176d1c Depends ...,https://downloads.lede-project.org/snapshots/targets/imx6/generic/packages/Packages.manifest
+"Package: arptables-nft Version: 1.8.7-6 Depends: libc, kmod-nft-arp ...",https://downloads.lede-project.org/snapshots/targets/lantiq/xway/packages/Packages.manifest
+Package: base-files Version: 204.2-r11063-85e04e9f46 Depends ...,https://mgmt.saar.freifunk.net/openwrt/releases/19.07.3/targets/lantiq/xway_legacy/packages/Packages.manifest
