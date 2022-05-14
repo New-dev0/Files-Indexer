@@ -130,6 +130,7 @@ antiseptics
 antitrade
 antitragi
 apathetic
+apetalous
 apomict
 appalled
 appeasement
@@ -430,6 +431,7 @@ commercialized
 common
 commove
 commutes
+competing
 completeness
 completion
 comprehended
@@ -457,6 +459,7 @@ contemptibility
 contrabassoon
 contredanses
 convened
+convexes
 conviction
 cope
 coprocessor
@@ -481,10 +484,12 @@ cortexes
 cortisone
 coteries
 counterordering
+counterpart
 countersigning
 countryman
 couplet
 courtesies
+cowardliness
 cowherbs
 coxcombry
 cradler
@@ -543,6 +548,7 @@ dastard
 daunomycins
 dawning
 dawt
+deaconing
 deaerated
 debs
 decaliter
@@ -760,6 +766,7 @@ eutrophy
 evenhanded
 exahertz
 exanimate
+exanthema
 except
 exchanging
 exclusion
@@ -915,6 +922,7 @@ glassmaking
 glint
 glintiest
 globefish
+glucoside
 glutamates
 glycosylations
 gobbed
@@ -1187,6 +1195,7 @@ kotlin
 koumysses
 laddish
 lag
+lakier
 lamellar
 laminator
 languettes
@@ -1259,12 +1268,14 @@ lucarnes
 lucked
 luminance
 lumper
+lunies
 lustrum
 luteotrophins
 luxuriate
 lycopenes
 lynched
 macerator
+macruran
 madams
 mainmasts
 majagua
@@ -1274,6 +1285,7 @@ malemiut
 malfeasance
 malleability
 malmy
+malpractice
 maltoses
 manage
 manches
@@ -1363,6 +1375,7 @@ mislabelling
 mismanagements
 mismeets
 misparses
+misplays
 mispositioning
 mispronounced
 misstyles
@@ -1436,6 +1449,7 @@ nawabs
 necromancy
 negates
 negligee
+neophytes
 neorealisms
 neotenic
 nestle
@@ -1507,6 +1521,7 @@ operabilities
 operable
 operativenesses
 operettist
+operosely
 oppositely
 oppugn
 optimizes
@@ -1515,9 +1530,11 @@ orientalist
 orientals
 orogenetic
 orthodox
+orthotropous
 osmometry
 ossetra
 osteocyte
+other
 otherworld
 outbid
 outbidder
@@ -1630,6 +1647,7 @@ phaeton
 phalansteries
 pharmacist
 pharmacologist
+phenolated
 phenotypically
 philhellenists
 philologists
@@ -1679,10 +1697,12 @@ plush
 plutonic
 pneumaticities
 pneumonitis
+pogonips
 pogromist
 poikilotherms
 polecats
 polemized
+polenta
 polite
 politicises
 polydispersity
@@ -1758,6 +1778,7 @@ psilosis
 psychogenically
 psychotherapist
 ptyalin
+puggries
 pulicide
 punctiliously
 punishing
@@ -1794,6 +1815,7 @@ raper
 rapturousnesses
 ratatat
 ratiocinator
+raucousnesses
 rawhided
 rawin
 razzamatazz
@@ -1866,6 +1888,7 @@ rerolls
 resaddling
 resaws
 resees
+reshined
 resister
 resistors
 resizing
@@ -1898,6 +1921,7 @@ rhododendrons
 rhumb
 richer
 rick
+ridgels
 riflebirds
 rigorism
 rigorousnesses
@@ -1949,6 +1973,7 @@ scars
 scaur
 scavenging
 scenical
+schedular
 schedules
 schmoose
 scholarships
@@ -1958,9 +1983,11 @@ scorekeepers
 scoured
 scourings
 scrannels
+scrawniest
 screaked
 screenlands
 screwiest
+scrives
 sculled
 sculped
 scuzzball
@@ -2057,6 +2084,7 @@ sokol
 solecised
 soleprint
 solidarisms
+solifluction
 solitudes
 solus
 some
@@ -2078,6 +2106,7 @@ splines
 spontaneously
 spoonerisms
 spoons
+sporocarp
 sporozoites
 sportiveness
 spotlighting
@@ -2091,6 +2120,7 @@ stale
 stampless
 stamps
 standdowns
+standoffs
 stannic
 stardom
 starship
@@ -2115,6 +2145,8 @@ straws
 streak
 stressor
 strobila
+strowing
+structure
 studio
 stunner
 stylitic
@@ -2246,6 +2278,7 @@ tontines
 top
 topful
 toppr
+torts
 tortuousness
 touchiness
 touchpads
@@ -2406,6 +2439,7 @@ vial
 viceroyalty
 vicunas
 videlicet
+videttes
 villanelle
 villas
 vinosity
@@ -2455,6 +2489,7 @@ windiness
 windowing
 windups
 wiretapping
+wiselier
 wisps
 wisting
 witchhoods

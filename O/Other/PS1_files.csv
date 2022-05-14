@@ -1,0 +1,6 @@
+functions/other/Invoke-RestPatch.ps1 2.5 - PowerShell Gallery,https://www.powershellgallery.com/packages/Exch-Rest/2.5/Content/functions%255Cother%255CInvoke-RestPatch.ps1
+functions/other/Show-OAuthWindow.ps1 2.5 - PowerShell Gallery,https://www.powershellgallery.com/packages/Exch-Rest/2.5/Content/functions%255Cother%255CShow-OAuthWindow.ps1
+nishang/Set-RemotePSRemoting.ps1 at master - GitHub,https://github.com/samratashok/nishang/blob/master/Backdoors/Set-RemotePSRemoting.ps1
+Other/Get-LatestAdobeReaderInstaller.ps1 at master ... - GitHub,https://github.com/MSEndpointMgr/Other/blob/master/Get-LatestAdobeReaderInstaller.ps1
+Private/Other/ScreenPNG.ps1 21.7.26.2 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/OSD/21.7.26.2/Content/Private%255COther%255CScreenPNG.ps1
+#Requires -Module ActiveDirectory #Requires -Version 4 ...,https://content.spiceworksstatic.com/service.community/p/post_attachments/0000176684/596e1692/attached_file/Get-ActiveDirectoryUserActivity.ps1
