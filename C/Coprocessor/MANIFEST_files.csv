@@ -1,0 +1,10 @@
+Package: base-files Version: 194.2-r7676-cddd7b4c77 Depends ...,https://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/mips74k/packages/Packages.manifest
+"Package: arptables-nft Version: 1.8.7-6 Depends: libc, kmod-nft-arp ...",https://downloads.lede-project.org/snapshots/targets/x86/generic/packages/Packages.manifest
+Package: kmod-3c59x Version: 4.9.214-1 Depends: kernel (=4.9 ...,https://mgmt.saar.freifunk.net/openwrt/releases/18.06.8/targets/mpc85xx/generic/kmods/4.9.214-1-895447a4694b94860fccb19f3c3fc3ef/Packages.manifest
+Package: asterisk13-chan-lantiq Version: 20180215-2 Depends: libc ...,https://mgmt.saar.freifunk.net/openwrt/releases/18.06.8/targets/lantiq/xway/packages/Packages.manifest
+Package: kmod-3c59x Version: 5.4.124-1 Depends: kernel (=5.4 ...,https://mirrors.chapro.xyz/openwrt/releases/21.02.0-rc3/targets/x86/geode/kmods/5.4.124-1-37bf630c92eb2972d47619a871fb3405/Packages.manifest
+Package: base-files Version: 194.3-r8077-7cbbab7246 Depends ...,http://45.154.2.35/18.06.9/targets/apm821xx/nand/packages/Packages.manifest
+Package: base-files Version: 172-r3131-42f3c1f Depends: libc ...,https://usingpro.com/releases/17.01.0-rc2/targets/lantiq/falcon/packages/Packages.manifest
+Package: base-files Version: 173-r3435-65eec8bd5f Depends: libc ...,https://qtest.cc/releases/17.01.2/targets/x86/generic/packages/Packages.manifest
+Package: base-files Version: 194.2-r7835+25-89808e211c ...,https://downloads.ffhb.de/opkg/modules/gluon-ffhb-2019.1%2Bbremen1/x86/64/Packages.manifest
+Package: base-files Version: 194.2-r7794+21-fc1dae5be7 Depends ...,https://downloads.ffhb.de/opkg/modules/gluon-ffhb-2018.2.2%2Bbremen1/x86/geode/Packages.manifest
