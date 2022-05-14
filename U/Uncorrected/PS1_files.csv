@@ -1,0 +1,4 @@
+Function/GetHddSmart.ps1 1.1.5 - PowerShell Gallery,https://www.powershellgallery.com/packages/Systeminfo/1.1.5/Content/Function%255CGetHddSmart.ps1
+smartAttributes.ps1 1.0.2 - PowerShell Gallery,https://www.powershellgallery.com/packages/DiskSmartInfo/1.0.2/Content/smartAttributes.ps1
+ADU/Wellness_Check.ps1 at master · microsoft/ADU · GitHub,https://github.com/microsoft/ADU/blob/master/ADU/AU3%252B/Scripts/Wellness_Checks/Wellness_Check.ps1
+ADU/Storage_Health_Check.ps1 at master · microsoft/ADU - GitHub,https://github.com/microsoft/ADU/blob/master/ADU/AU3%252B/Scripts/Storage/Storage_Health_Check.ps1
