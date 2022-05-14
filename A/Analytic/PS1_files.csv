@@ -1,0 +1,8 @@
+develop - GitHub,https://github.com/zenoss/microsoft.tools/blob/develop/scripts/zenoss-winrm-analytic-logs.ps1
+azure-stream-analytics/runbook.ps1 at master - GitHub,https://github.com/Azure/azure-stream-analytics/blob/master/Samples/Automation/Auto-pause/runbook.ps1
+ComputerManagementDsc - PowerShell Gallery,https://www.powershellgallery.com/packages/ComputerManagementDsc/6.5.0.0/Content/Examples%255CResources%255CWindowsEventlog%255C3-WindowsEventlog_EnableWindowsEventLog_Config.ps1
+test/Advanced-Threat-Analytics.Tests.ps1 0.0.11 - PowerShell Gallery,https://www.powershellgallery.com/packages/Advanced-Threat-Analytics/0.0.11/Content/test%255CAdvanced-Threat-Analytics.Tests.ps1
+AlertMonitoring/LogAnalytics.ps1 4.13.5 - PowerShell Gallery Test,https://www.poshtestgallery.com/packages/AzSKStaging/4.13.5/Content/AlertMonitoring%255CLogAnalytics.ps1
+AlertMonitoring/LogAnalytics.ps1 3.13.3 - PowerShell Gallery Test,https://www.poshtestgallery.com/packages/AzSKStaging/3.13.3/Content/AlertMonitoring%255CLogAnalytics.ps1
+setup.ps1 · 98c302b97c18e4e80ff25aba350fa6131f78b138 ...,https://gitlab.lsonline.fr/SharePoint/sp-dev-fx-webparts/analytics/-/blob/98c302b97c18e4e80ff25aba350fa6131f78b138/setup.ps1
+.DESCRIPTION Onboards the Kubernetes cluster hosted outside ...,https://raw.githubusercontent.com/microsoft/OMS-docker/ci_feature/docs/hybrid/onboarding_azuremonitor_for_containers.ps1
