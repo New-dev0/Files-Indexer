@@ -1,0 +1,13 @@
+Install.ps1 script - community chocolatey,https://community.chocolatey.org/install.ps1
+Code - GitHub,https://github.com/ansible-collections/community.windows/blob/main/plugins/modules/win_psmodule.ps1
+master - GitHub,https://github.com/squaredup/Community.PowerShellMonitoring.MP/blob/master/Samples/Agent%2520Tasks/Get-InstalledSoftware.ps1
+UniversalAutomation.Dashboard - PowerShell Gallery,https://www.powershellgallery.com/packages/UniversalAutomation.Dashboard/1.3.1/Content/UniversalDashboard%255CUniversalDashboard.Community%255CModules%255CUniversalDashboard.MaterialUI%255CScripts%255Ctable.ps1
+tools/end-to-end-test.ps1 · master - windows_exporter - GitCode,https://gitcode.net/mirrors/prometheus-community/windows_exporter/-/blob/master/tools/end-to-end-test.ps1
+UniversalDashboard.Community - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/UniversalDashboard.Community/2.8.0/Content/Modules%255CUniversalDashboard.Materialize%255CScripts%255Ctable.ps1
+#Requires -Version 5 # Automatic Mondoo downloader to be used ...,https://mondoo.com/download.ps1
+install.ps1 - junegunn/fzf - Sourcegraph,https://sourcegraph.com/github.com/junegunn/fzf/-/blob/install.ps1
+win_iis_virtualdirectory.ps1 - ansible/ansible-modules-extras,https://sourcegraph.com/github.com/ansible/ansible-modules-extras/-/blob/windows/win_iis_virtualdirectory.ps1
+$curDir = Split-Path $script:MyInvocation.MyCommand.Path $login ...,https://raw.githubusercontent.com/content-manager-sdk/Community/master/docs/files/101/az_install.ps1
+cassandra/bin/cassandra.ps1 · 2.1 - GitLab,https://gitlab.datafari.com/datafari-community/datafari/-/blob/2.1/cassandra/bin/cassandra.ps1
+Dell DL4000 Appliance User's Guide | Dell Hong Kong,https://www.dell.com/support/manuals/en-hk/powervault-dl4000/dl4000ugpublication/pretransferscript.ps1%3Fguid%3Dguid-35af2be1-7a3b-4c63-b37f-a0d1090222d3%26lang%3Den-us
+libsmraw/builddokan.ps1 at main - GitHub,https://github.nmiku.com/libyal/libsmraw/blob/main/builddokan.ps1
