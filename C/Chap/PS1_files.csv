@@ -1,0 +1,5 @@
+chaps/chaps-powersploit.ps1 at master · cutaway-security/chaps,https://github.com/cutaway-security/chaps/blob/master/chaps-powersploit.ps1
+chaps/chaps.ps1 at master · cutaway-security/chaps - GitHub,https://github.com/cutaway-security/chaps/blob/master/chaps.ps1
+Functions/Public/Enable-VMHostIscsiAdapter.ps1 0.0.1,https://www.powershellgallery.com/packages/VMware.VimAutomation.Custom/0.0.1/Content/Functions%255CPublic%255CEnable-VMHostIscsiAdapter.ps1
+public/Set-FreeNasIscsiPortal.ps1 1.1 - PowerShell Gallery,https://www.powershellgallery.com/packages/FreeNas/1.1/Content/public%255CSet-FreeNasIscsiPortal.ps1
+"Set Variables: $vmhost = ""esx4.vi4book.com"" $VMotionIP = ""10.0 ...",https://cdn.ttgtmedia.com/rms/misc/configureESXi.ps1
