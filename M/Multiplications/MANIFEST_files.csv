@@ -1,0 +1,2 @@
+Package: block-mount Version: 2016-09-31 ...,http://downloads.pangubox.com:6380/pandorabox/19.02/targets/ralink/mt7621/packages/Packages.manifest
+Package: base-files Version: 1451-r17488-64be0eadc1 Depends ...,https://downloads.asu.aparcar.org/selinux/targets/sunxi/cortexa8/packages/Packages.manifest
