@@ -1,0 +1,6 @@
+Start-Stop-VMs-Universally.ps1 2.1.1 - PowerShell Gallery,https://www.powershellgallery.com/packages/Start-Stop-VMs-Universally/2.1.1/Content/Start-Stop-VMs-Universally.ps1
+internal/Register-DbaTeppArgumentCompleter.ps1 0.9.3,https://www.powershellgallery.com/packages/dbatools/0.9.3/Content/internal%255CRegister-DbaTeppArgumentCompleter.ps1
+azure-marketplace-examples/azure_monitor_logstash.ps1 at master ...,https://github.com/elastic/azure-marketplace-examples/blob/master/azure_monitor_logstash/azure_monitor_logstash.ps1
+chocolatey-packages/chocolateyuninstall.ps1 at master - GitHub,https://github.com/giseongeom/chocolatey-packages/blob/master/nanum-gothic-coding-font/tools/chocolateyuninstall.ps1
+eng/common/enable-cross-org-publishing.ps1 ... - GitCode,https://gitcode.net/mirrors/dotnet/sdk/-/blob/3db214c9fbf9243cfb5cbaeef5d49b4a44762dde/eng/common/enable-cross-org-publishing.ps1
+Remove-DuplicateFiles.ps1 #> [CmdletBinding()] Param ...,https://raw.githubusercontent.com/auberginehill/remove-duplicate-files/master/Remove-DuplicateFiles.ps1
