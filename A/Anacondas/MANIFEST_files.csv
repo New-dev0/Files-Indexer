@@ -1,0 +1,4 @@
+.discinfo EULA GPL Packages/389-ds-base-1.3.7.5-21.el7_5.src ...,https://mirrors.dotsrc.org/oracle-linux/OL7/u5/aarch64/OracleLinux-R7-U5-src-dvd1-20180619.iso.MANIFEST
+/.discinfo /.treeinfo /Fedora-Legal-README.txt /LICENSE /Packages ...,http://185.255.55.26/fedora-altarch/development/rawhide/Server/ppc64le/iso/Fedora-Server-dvd-ppc64le-Rawhide-20220503.n.0.iso.manifest
+/.discinfo /.treeinfo /EFI /EFI/BOOT /EFI/BOOT/BOOTAA64.EFI /EFI ...,https://mirror.xtom.jp/fedora-altarch/stage/33_RC-1.1/Server/aarch64/iso/Fedora-Server-dvd-aarch64-33-1.1.iso.manifest
+/.discinfo /.treeinfo /Packages /Packages/a /Packages/a/abrt-2.14.4-5 ...,https://mirror.xtom.jp/fedora-altarch/stage/33_Beta-1.3/Server/s390x/iso/Fedora-Server-dvd-s390x-33_Beta-1.3.iso.manifest
