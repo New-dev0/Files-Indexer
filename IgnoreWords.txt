@@ -224,6 +224,7 @@ bareboned
 baritone
 barograph
 baronetage
+baronetcies
 batteau
 bayberry
 beach
@@ -262,6 +263,7 @@ biked
 bilker
 bimethyls
 bindingnesses
+bioassay
 biodegradations
 biographic
 biohazard
@@ -429,6 +431,7 @@ charmed
 charmeuse
 chaseable
 chawer
+checkbooks
 checkered
 chelicera
 chernozemic
@@ -525,6 +528,7 @@ completion
 comprehended
 compressible
 comprised
+comprising
 compunctious
 comradeships
 conceptualists
@@ -557,6 +561,7 @@ contredanses
 convened
 convexes
 conviction
+cooperatively
 cope
 coprocessor
 coprophiliac
@@ -586,6 +591,7 @@ countersigning
 countryman
 couplet
 courtesies
+covalences
 covetable
 cowardliness
 cowflop
@@ -633,6 +639,7 @@ curtest
 curule
 curveting
 cuspis
+custodian
 cyanamide
 cyber
 cyclecars
@@ -729,6 +736,7 @@ didjeridoo
 dieselizing
 diffraction
 diffusionisms
+diffusivenesses
 dime
 dimercaprols
 dimethyls
@@ -742,6 +750,7 @@ diploblastic
 dipsticks
 dipteran
 directedness
+director
 disables
 disabuse
 disaccharidase
@@ -804,6 +813,7 @@ driverless
 drizzliest
 droid
 drolling
+dropsonde
 drossiest
 drouthiest
 drowns
@@ -843,6 +853,7 @@ effluents
 effuses
 egers
 eggars
+eigenmodes
 einkorn
 ekistics
 elain
@@ -1018,12 +1029,15 @@ fluoresce
 fluoric
 fluorimetries
 fluyts
+flyaways
+flyoff
 flyovers
 foggiest
 fogyish
 foils
 foisted
 folkway
+foolishnesses
 footballs
 footle
 footlockers
@@ -1201,6 +1215,7 @@ hens
 hented
 henting
 herbage
+hesitance
 heterokaryons
 heterologously
 heterophile
@@ -1220,6 +1235,7 @@ holoblastic
 homeomorphic
 homeotherm
 homesteading
+homogenates
 homolog
 homophobia
 honeworts
@@ -1266,6 +1282,7 @@ imbower
 immaculately
 immersion
 immigrates
+immixture
 immobilize
 imparted
 impish
@@ -1702,6 +1719,7 @@ mudslinger
 muffed
 mulcted
 mulling
+mullite
 multicar
 multielectrode
 multimember
@@ -1777,6 +1795,7 @@ nonmunicipal
 nonnecessities
 nonofficials
 nonpareil
+nonplusses
 nonpregnant
 nonprofessional
 nonprossing
@@ -1872,6 +1891,7 @@ overemphasizing
 overestimated
 overevaluations
 overexpose
+overflooding
 overfly
 overgeneralize
 overinflate
@@ -1931,6 +1951,7 @@ peafowl
 pealike
 peccaries
 pecten
+pedagogy
 pedately
 pedicurists
 pedogenic
@@ -1994,6 +2015,7 @@ piggie
 pileate
 pillaged
 pillages
+pillowy
 pintadas
 piolets
 pipelined
@@ -2075,6 +2097,7 @@ pregenital
 prehandle
 preluding
 premold
+prepared
 preprices
 preps
 prepuberties
@@ -2102,6 +2125,7 @@ prodigy
 productivity
 proglottid
 progression
+prolific
 prophase
 propitiated
 propolis
@@ -2195,6 +2219,7 @@ redis
 redocked
 redounded
 redshift
+reducibly
 redwing
 reefable
 reemploy
@@ -2420,6 +2445,7 @@ sevenths
 shadeless
 shaitan
 shammes
+shammos
 sharifs
 shaven
 sheaflike
@@ -2452,6 +2478,7 @@ simulant
 since
 sistroid
 siziness
+skater
 skedaddling
 skellums
 skerries
@@ -2494,8 +2521,10 @@ solidarisms
 solifluction
 solitudes
 solus
+sombreros
 some
 sooty
+sophomore
 sorners
 sortied
 spambot
@@ -2526,6 +2555,7 @@ sportiveness
 spotlighting
 sprattled
 sprattles
+spumy
 squashed
 squooshed
 sradha
@@ -2585,6 +2615,7 @@ subphase
 subreptitiously
 subshrubs
 subsidiarity
+subsidization
 subtilins
 subwriter
 suckle
@@ -2687,6 +2718,7 @@ thermochemists
 thermopile
 thermoregulated
 theropods
+they
 thievery
 thinker
 thinly
@@ -2795,6 +2827,7 @@ tympanic
 typescript
 tyrocidine
 ultimacies
+ultraexclusive
 ultramodernists
 ultravacua
 unaesthetic
@@ -2828,6 +2861,7 @@ undisciplined
 undissociated
 undivided
 undoers
+uneffaced
 unfasten
 ungula
 unhanging
@@ -2839,6 +2873,7 @@ unhygienic
 uniaxial
 unillusioned
 unionizers
+univalved
 universally
 univocals
 unlaces
