@@ -1,0 +1,5 @@
+getstarted-optiga-trust-x/DIGITAL_IO.manifest at master - GitHub,https://github.com/Infineon/getstarted-optiga-trust-x/blob/master/Dave/Model/APPS/DIGITAL_IO/v4_0_16/DIGITAL_IO.manifest
+Package: base-files Version: 173.6-r4030-6028f00df0 Depends: libc ...,https://archive.openwrt.org/releases/17.01.7/targets/ar71xx/nand/packages/Packages.manifest
+Package: kmod-3c59x Version: 5.4.124-1 Depends: kernel (=5.4 ...,https://mirrors.chapro.xyz/openwrt/releases/21.02.0-rc3/targets/armvirt/64/kmods/5.4.124-1-1bd55b367e65f470637dba69b5bef6e4/Packages.manifest
+Package: base-files Version: 194.3-r7978+25-6bfde67581 Depends ...,https://downloads.ffhb.de/opkg/modules/gluon-ffhb-2019.1.2%2Bbremen3/ramips/mt7621/Packages.manifest
+Package: block-mount Version: 2016-09-31 ...,http://downloads.pangubox.com:6380/pandorabox/19.01/targets/ralink/mt7628/packages/Packages.manifest
