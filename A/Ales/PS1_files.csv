@@ -1,0 +1,5 @@
+bootstrap-salt.ps1 - salt-formulas/salt-formulas-scripts - Gitiles,https://gerrit.mcp.mirantis.com/plugins/gitiles/salt-formulas/salt-formulas-scripts/%2Bblame/725d2d47278782c2cdbebefc0fc1df4f6e945186/bootstrap-salt.ps1
+Log - d67695267a204c02ca4c267620c952ab685f484e - salt ...,https://gerrit.mcp.mirantis.com/plugins/gitiles/salt-formulas/salt-formulas-scripts/%2Blog/d67695267a204c02ca4c267620c952ab685f484e/bootstrap-salt.ps1
+useful_powershell_functions/Invoke-Command2.ps1 at master,https://github.com/ztrhgf/useful_powershell_functions/blob/master/Invoke-Command2.ps1
+Function Invoke-adPEAS { <# .SYNOPSIS Author: Alexander Sturz ...,https://raw.githubusercontent.com/61106960/adPEAS/main/adPEAS.ps1
+Seznam příkazů z tutoriálu dálkařů,http://www.cs.vsb.cz/navrat/vyuka/sws/cviceni/VSB_PS_DALKARI.ps1
