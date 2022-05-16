@@ -173,6 +173,7 @@ aphis
 apogamic
 apolog
 apomict
+apomicts
 apostrophic
 appalled
 appeasement
@@ -182,6 +183,7 @@ apperceive
 appetisers
 appetizingly
 apprehended
+appressoria
 approachable
 arabicized
 archaizes
@@ -207,6 +209,7 @@ assents
 assets
 asseverative
 assignat
+assoiling
 asthenosphere
 astraddle
 astringent
@@ -233,6 +236,7 @@ baboos
 babu
 babyishly
 backcasts
+backflows
 backhanders
 backhauls
 backlight
@@ -440,6 +444,7 @@ calottes
 caltrap
 calzone
 camailed
+camases
 cames
 campagna
 campiest
@@ -489,6 +494,7 @@ cataclysm
 catalexis
 cataloger
 catalyses
+catamarans
 catamite
 catchiest
 catechise
@@ -623,6 +629,7 @@ commercialized
 common
 commove
 commune
+communicator
 community
 commutes
 compactions
@@ -672,6 +679,7 @@ controlled
 convened
 convexes
 conviction
+cookstove
 cooperatively
 cope
 coprocessor
@@ -820,6 +828,7 @@ decupling
 defeatures
 defender
 defenselessly
+defibrillations
 defibrinating
 definitenesses
 definitives
@@ -1018,6 +1027,7 @@ ecclesiological
 ecclesiology
 efficacy
 effluents
+effrontery
 effuses
 egers
 eggars
@@ -1207,6 +1217,7 @@ firing
 firm
 fixed
 fizzers
+flagstaffs
 flagstick
 flamboyances
 flamy
@@ -1287,6 +1298,7 @@ friendlier
 frillers
 froghoppers
 frontpaging
+fryable
 fuels
 fulcrums
 fulfilments
@@ -1317,6 +1329,7 @@ garoted
 garroter
 garrulous
 garrulously
+gasification
 gassinesses
 gaudier
 gazpacho
@@ -1516,6 +1529,7 @@ hydroxylases
 hyoidal
 hyperbolae
 hypergols
+hyperpolarized
 hyperpolarizing
 hypoing
 hypostatize
@@ -1864,6 +1878,7 @@ lyssa
 macerator
 mach
 mackintoshes
+macroglobulins
 macruran
 madams
 maestosos
@@ -1884,6 +1899,7 @@ mambo
 manage
 manches
 mandator
+mandibulate
 manifestly
 mannerless
 mannishnesses
@@ -1907,6 +1923,7 @@ mastigophorans
 mattock
 maxing
 mayos
+mazier
 mbaqanga
 meagerness
 meatier
@@ -1938,6 +1955,7 @@ mephitises
 merbromin
 mercenarinesses
 mesclun
+metaling
 metalliferous
 metalworks
 metathoracic
@@ -2021,6 +2039,7 @@ mollification
 mollycoddles
 monadnock
 monarchists
+monaxons
 money
 monkfishes
 monoacids
@@ -2117,6 +2136,7 @@ neums
 neuroanatomists
 neurobiologist
 neurochemical
+neurologies
 nevi
 nevus
 newfangled
@@ -2150,12 +2170,14 @@ nonconform
 nonconsumer
 noncore
 nondescriptive
+nondocumentary
 nonevidences
 nonfinal
 nonfluids
 nonindustry
 nonlives
 nonloving
+nonmen
 nonmunicipal
 nonnecessities
 nonofficials
@@ -2222,6 +2244,7 @@ optimization
 optimizes
 ordinaries
 ordnance
+organiser
 orientalist
 orientals
 orogenetic
@@ -2266,6 +2289,7 @@ ovalness
 overachievement
 overbriefed
 overcompresses
+overcorrecting
 overcrops
 overdrinking
 overemphasizing
@@ -2302,6 +2326,7 @@ pairings
 paladin
 palaestra
 palfrey
+palmer
 paltering
 paludal
 panatella
@@ -2405,6 +2430,7 @@ picrite
 pictorializes
 pietistically
 pigeonites
+pigged
 piggie
 pigmies
 pileate
@@ -2554,6 +2580,7 @@ psychic
 psychogenically
 psychotherapist
 ptyalin
+publisher
 pudibund
 pugginesses
 puggries
@@ -2817,6 +2844,7 @@ salicine
 salicylate
 salients
 salina
+saloon
 salts
 salutary
 salvation
@@ -3024,6 +3052,7 @@ sorners
 sorrier
 sortied
 souvenirs
+spalling
 spambot
 spangles
 spanokopita
@@ -3157,6 +3186,7 @@ supersystem
 superwaves
 supposal
 supposals
+supposed
 supramolecular
 surbased
 surety
@@ -3195,6 +3225,7 @@ tackling
 taconite
 tacts
 tagliatelles
+taker
 talar
 talentless
 talesmen
@@ -3275,6 +3306,8 @@ tineas
 tinily
 tippable
 tipped
+titers
+toadfishes
 toastier
 tobacco
 tobacconists
@@ -3575,6 +3608,7 @@ whidahs
 whiled
 whimpers
 whinnies
+whippier
 whiskered
 whiteflies
 whitens
@@ -3614,6 +3648,7 @@ worked
 workhouse
 workman
 wormroot
+worsts
 wrangle
 wrap
 wreakers
