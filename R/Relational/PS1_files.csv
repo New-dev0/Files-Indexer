@@ -1,0 +1,8 @@
+DataInsightsAsia/PolicyFunctions.ps1 at master · microsoft ... - GitHub,https://github.com/microsoft/DataInsightsAsia/blob/master/Scripts/PolicyBasedManagement/PolicyFunctions.ps1
+arcgis-powershell-dsc/ArcGISDataStore.ps1 at master - GitHub,https://github.com/Esri/arcgis-powershell-dsc/blob/master/Modules/ArcGIS/Configurations-OnPrem/ArcGISDataStore.ps1
+functions/Get-DbaEstimatedCompletionTime ... - PowerShell Gallery,https://www.powershellgallery.com/packages/dbatools/0.9.321/Content/functions%255CGet-DbaEstimatedCompletionTime.ps1
+functions/New-DbaXESession.ps1 0.9.305 - PowerShell Gallery,https://www.powershellgallery.com/packages/dbatools/0.9.305/Content/functions%255CNew-DbaXESession.ps1
+functions/Test-DbaDiskSpeed.ps1 1.0.132 - PowerShell Gallery,https://40.87.85.101/packages/dbatools/1.0.132/Content/functions%255CTest-DbaDiskSpeed.ps1
+functions/Get-DbaDbRecoveryModel.ps1 0.9.329 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/dbatools/0.9.329/Content/functions%255CGet-DbaDbRecoveryModel.ps1
+"function Get-Powerviewhelp { $powerviewhelp = ""#PowerView ...",https://raw.githubusercontent.com/davehardy20/PowerShell-Scripts/master/Get-Powerviewhelp.ps1
+internal/functions/Connect-SqlInstance.ps1 1.0 ... - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/dbatools/1.0.126/Content/internal%255Cfunctions%255CConnect-SqlInstance.ps1
