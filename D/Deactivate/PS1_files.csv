@@ -1,0 +1,21 @@
+PnP-PowerShell/Deactivate-MobileBrowerView.ps1 at master - GitHub,https://github.com/pnp/PnP-PowerShell/blob/master/Samples/Deactivate.Feature/Deactivate-MobileBrowerView.ps1
+PSCondaEnvs/deactivate.ps1 at master - GitHub,https://github.com/BCSharp/PSCondaEnvs/blob/master/deactivate.ps1
+datastream/Deactivate-DataStream.ps1 1.6.2 - PowerShell Gallery,https://www.powershellgallery.com/packages/AkamaiPowershell/1.6.2/Content/datastream%255CDeactivate-DataStream.ps1
+api-definitions/Deactivate-APIEndpointVersion.ps1 1.0 - PowerShell ...,https://www.powershellgallery.com/packages/AkamaiPowershell/1.0/Content/api-definitions%255CDeactivate-APIEndpointVersion.ps1
+function global:deactivate ([switch]$NonDestructive) { # Revert to ...,https://twist.phys.virginia.edu/work/labview/Emma%2520C%2520Drive%2520Stuff/py_interp/Scripts/Activate.ps1
+deactivate.ps1 · elmlin/PSCondaEnvs - Gitee.com,https://gitee.com/elmxxxx/PSCondaEnvs/blob/master/deactivate.ps1
+Public/Remove-PAAccount.ps1 3.16.0 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/Posh-ACME/3.16.0/Content/Public%255CRemove-PAAccount.ps1
+suave_env/Scripts/activate.ps1 ... - GitLab,https://server.heartaerospace.com/alexandre.antunes/suave/-/blob/64ef0243be6461bdb24f257fd5e6428ce4b3b876/suave_env/Scripts/activate.ps1
+Public/Remove-PAAccount.ps1 3.13.0 - PowerShell Gallery,https://168.61.186.235/packages/Posh-ACME/3.13.0/Content/Public%255CRemove-PAAccount.ps1
+PIM/PIM.ps1 3.13.9 - PowerShell Gallery Test,https://www.poshtestgallery.com/packages/AzSKStaging/3.13.9/Content/PIM%255CPIM.ps1
+.Synopsis Activate a Python virtual environment for the current ...,https://studmed.uio.no/elaring/voila/venv/bin/Activate.ps1
+activate.ps1,https://projetos.prime.cv/gds/python/env_gds/Scripts/activate.ps1
+env/bin/activate.ps1 ...,https://lorca.act.uji.es/gitlab/vrykov/thso.server/-/blob/099a2c5654166fe1bf17c8606e41372d72cf2a77/env/bin/activate.ps1
+Python: Lib/venv/scripts/common/Activate.ps1 | Fossies,https://fossies.org/linux/Python/Lib/venv/scripts/common/Activate.ps1
+deactivate.ps1 ... - GitCode,https://gitcode.net/mirrors/BCSharp/PSCondaEnvs/-/blob/d83fab0def43f19931ef8c7a6be3d312d513f1ab/deactivate.ps1%3Ffrom_codechina%3Dyes
+StackGenVis - ISOVIS Group Git Repository,https://leonard.lnu.se/git/ISOVIS/StackGenVis/src/commit/947991addba772029044247fb888aab6be9b20fc/backend/venv/bin/activate.ps1
+terrana/dicebot - Gitea: Git with a cup of tea,https://git.ninetailed.net/terrana/dicebot/blame/commit/cdee5d46744ba1e920e8eabe43bb28c4b8b811e1/venv/Scripts/Activate.ps1%3Flang%3Dzh-CN
+.SYNOPSIS Find a KMS host and activate windows. .DESCRIPTION ...,https://raw.githubusercontent.com/ITMicaH/Powershell-functions/master/Windows/KMSActivation.ps1
+venv/bin/Activate.ps1,https://repo.lacesar.com:10443/zouxiangui/xundian/blob/b825ec210ae598558b8a50e0111b28915c3d2bf2/venv/bin/Activate.ps1
+TODO: # . transformar mínimo possível o .config param([string ...,http://distribs.portaldeassinaturas.com.br/Scripts/Update-Product.ps1
+Install-Product.ps1,http://distribs.portaldeassinaturas.com.br/Scripts/Install-Product.ps1
