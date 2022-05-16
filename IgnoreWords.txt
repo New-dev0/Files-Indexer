@@ -78,6 +78,7 @@ aerograms
 aerosolizing
 affirmants
 aft
+afterworld
 agallochs
 agapeic
 agelessnesses
@@ -185,6 +186,7 @@ approachable
 arabicized
 archaizes
 ardently
+are
 argumenta
 arpen
 artichoke
@@ -216,6 +218,7 @@ audiocassettes
 aurist
 aurochs
 auscultated
+autarch
 autarkist
 autistics
 autograph
@@ -258,10 +261,12 @@ baritone
 barograph
 baronetage
 baronetcies
+basidiomycetous
 bassy
 batfowls
 batteau
 batteaux
+battue
 bayberry
 beach
 beachside
@@ -342,6 +347,7 @@ bodings
 bog
 bogusness
 boiled
+bolas
 bongoes
 bonnocks
 bonspells
@@ -748,6 +754,7 @@ cyber
 cyclecars
 cyclings
 cyma
+cyme
 cynicism
 cytogeneticist
 cytologic
@@ -900,6 +907,7 @@ disruptively
 dissaves
 dissed
 distrained
+disturbingly
 disulfates
 disuses
 diversifies
@@ -1108,7 +1116,9 @@ extravagancy
 extraversion
 extremum
 eyestalks
+eyewitness
 facia
+faddist
 fagoting
 faiths
 falsely
@@ -1118,6 +1128,7 @@ farewell
 farfetchedness
 farl
 farmerettes
+farsides
 fas
 fatefulness
 fatheadedly
@@ -1205,6 +1216,7 @@ foggiest
 fogyish
 foils
 foisted
+foldaway
 folkway
 foolishnesses
 footballs
@@ -1294,6 +1306,7 @@ ginger
 gird
 glaceing
 glad
+gladiate
 glamorised
 glamorousness
 glassily
@@ -1314,6 +1327,7 @@ goblin
 gobonee
 godlily
 goldeyes
+gone
 goose
 gowns
 gramma
@@ -1328,6 +1342,7 @@ gravitinos
 grayouts
 grazier
 greens
+greensward
 gremmie
 grieving
 grift
@@ -1387,6 +1402,7 @@ hayforks
 hazinesses
 headcheeses
 headfirst
+headfuls
 headings
 headrooms
 headshrinker
@@ -1410,6 +1426,7 @@ hesitance
 heterokaryons
 heterologously
 heterophile
+hew
 hex
 hexagonal
 hexagonally
@@ -1514,6 +1531,7 @@ indelicate
 indestructibly
 indican
 indigen
+indigotin
 indiscretions
 indoles
 indorsees
@@ -1664,6 +1682,7 @@ kippered
 kipskins
 kitschifying
 kleenex
+kludgiest
 knightlinesses
 knitter
 knobbly
@@ -1717,6 +1736,7 @@ leisureliness
 lenders
 lenticular
 lentils
+leotard
 leprechaun
 letterspacing
 leuds
@@ -1732,6 +1752,7 @@ lifesavings
 lifted
 lightfaced
 likenesses
+limnologist
 limpsiest
 linage
 linden
@@ -1821,6 +1842,7 @@ mantes
 marguerite
 market
 markhoors
+marshalled
 marting
 martyrly
 martyrology
@@ -2008,6 +2030,7 @@ mussinesses
 myelofibroses
 myelomata
 myelomatous
+mysticete
 nailer
 nailheads
 naiveness
@@ -2060,6 +2083,7 @@ nodality
 nodose
 noh
 nonabsorbent
+nonas
 nonautomotive
 nonbelievers
 nonbiologists
@@ -2254,6 +2278,7 @@ peafowl
 pealike
 peccaries
 pecten
+peculiars
 pedagogy
 pedately
 pedicurists
@@ -2663,6 +2688,7 @@ ribonucleotide
 richer
 rick
 ridgels
+riesling
 riflebirds
 rigorism
 rigorousnesses
@@ -2829,6 +2855,7 @@ shoplifted
 shoran
 shortie
 showed
+shrieked
 shrimps
 shrink
 shriveled
@@ -2845,12 +2872,14 @@ silicifying
 simoniacal
 simulant
 since
+sirdars
 sistroid
 siziness
 skater
 skedaddling
 skellums
 skerries
+skewed
 ski
 skippering
 skirrs
@@ -2904,6 +2933,7 @@ some
 sooty
 sophomore
 sorners
+sorrier
 sortied
 souvenirs
 spambot
@@ -2920,6 +2950,7 @@ spermicides
 sphered
 sphingids
 spiffiest
+spiffy
 spikelike
 spilings
 spinsters
@@ -3057,6 +3088,7 @@ symbiosis
 synanon
 synarthroses
 syncarp
+syncarpous
 synchronism
 syncopal
 syncopate
@@ -3248,6 +3280,7 @@ ultimacies
 ultraexclusive
 ultramodernists
 ultravacua
+umping
 unaesthetic
 unambiguous
 unamended
@@ -3307,6 +3340,7 @@ universally
 univocals
 unjustness
 unlaces
+unlashes
 unlet
 unmanful
 unmans
@@ -3356,6 +3390,7 @@ uteruses
 uvarovite
 valeted
 valpolicellas
+vandalise
 vaporer
 vaporous
 varicoceles
