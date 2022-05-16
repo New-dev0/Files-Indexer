@@ -55,6 +55,7 @@ acetamides
 acetylcholines
 acidifies
 acierated
+acned
 acock
 acrolith
 actionably
@@ -95,8 +96,10 @@ alibies
 alines
 aliterates
 alkalized
+alleviators
 alliable
 allocates
+alloplasms
 allowing
 alloy
 allseeds
@@ -119,6 +122,7 @@ ameloblast
 amethyst
 amidones
 amnions
+amorist
 amorously
 amperes
 ampersand
@@ -218,6 +222,8 @@ autograph
 autolysates
 automan
 aviates
+axially
+azalea
 babbitry
 babiest
 baboos
@@ -236,6 +242,7 @@ badmintons
 baggies
 bairnlier
 balboa
+ballasting
 ballistic
 ballistically
 ballonet
@@ -324,6 +331,7 @@ blathers
 blob
 bloods
 blooper
+blossoms
 blubberer
 bluebeards
 bluely
@@ -341,6 +349,7 @@ bonuses
 bookmarker
 boomer
 boonless
+booting
 boozily
 bordure
 boshvarks
@@ -363,6 +372,7 @@ breasts
 breathers
 brethren
 brewery
+brilliants
 brine
 briss
 brittlest
@@ -429,6 +439,7 @@ candlewoods
 canister
 cannabin
 canoeists
+canonised
 canopic
 canorousness
 capacitive
@@ -461,6 +472,7 @@ castable
 caster
 casualties
 casuists
+catabolizing
 cataclysm
 catalexis
 cataloger
@@ -469,6 +481,7 @@ catamite
 catchiest
 catechise
 catechismal
+cathedra
 causalgia
 caymans
 celibacies
@@ -533,6 +546,7 @@ circumnavigated
 circumspections
 cistuses
 civil
+civilisation
 civilness
 clads
 clanking
@@ -561,6 +575,7 @@ coastal
 coastline
 coats
 cobber
+cobnuts
 coccids
 cockamamy
 cocker
@@ -712,6 +727,7 @@ crystallization
 cuing
 cuisinarts
 cullenders
+culpably
 cult
 cultivator
 cunning
@@ -1040,6 +1056,7 @@ erythremia
 erythrosin
 erythrosins
 escapable
+eschalots
 esne
 essentialnesses
 esthesis
@@ -1123,6 +1140,7 @@ felstones
 feme
 feminizations
 fencings
+ferrimagnetisms
 feted
 fetidly
 feudalizations
@@ -1350,6 +1368,7 @@ hall
 handyperson
 haphtarah
 haptenes
+hardy
 harlequinades
 harming
 harpsichordists
@@ -1549,6 +1568,7 @@ inthralled
 inti
 intolerantly
 intraday
+intradermally
 intransigent
 intreat
 intrepidly
@@ -1585,6 +1605,7 @@ jauped
 javascript
 jawbreaker
 jazzer
+jealousness
 jefe
 jemidars
 jeopardised
@@ -1639,6 +1660,7 @@ kilometre
 kilos
 kindling
 kinematics
+kippered
 kipskins
 kitschifying
 kleenex
@@ -1721,6 +1743,7 @@ liquates
 liquid
 listable
 lithophytes
+litterbag
 litterbags
 litterer
 littlest
@@ -1777,6 +1800,7 @@ mainmasts
 majagua
 making
 malacological
+malanga
 malemiut
 malfeasance
 malfunction
@@ -1814,6 +1838,7 @@ mbaqanga
 meagerness
 meatier
 mechanized
+mechanizers
 mechanochemical
 medallion
 mediations
@@ -1937,6 +1962,7 @@ monuments
 moonily
 moons
 moonshiners
+moorage
 moronically
 morphogenic
 morphs
@@ -1987,6 +2013,7 @@ nailheads
 naiveness
 nances
 nanogram
+narcotically
 narrate
 nasalised
 navicert
@@ -2007,6 +2034,7 @@ nepeta
 nephrites
 nestle
 nettled
+neums
 neuroanatomists
 neurobiologist
 neurochemical
@@ -2133,6 +2161,7 @@ outdancing
 outearned
 outflown
 outgambled
+outgo
 outhustled
 outintrigue
 outjump
@@ -2195,6 +2224,7 @@ pantheists
 pantomimic
 papricas
 parabiotic
+parallelisms
 paralytic
 paraphrase
 parasitologist
@@ -2300,6 +2330,7 @@ piquet
 pirojki
 pistareens
 pitcher
+piteous
 pithy
 pittas
 placatory
@@ -2496,6 +2527,7 @@ reattachment
 rebloomed
 rebodies
 recapitulations
+recirculations
 recleans
 recognizers
 recommissioning
@@ -2515,6 +2547,7 @@ redocked
 redounded
 redshift
 reducibly
+reducing
 redwing
 reefable
 reemploy
@@ -2585,6 +2618,7 @@ reshined
 resister
 resistors
 resizing
+resketched
 respelt
 respirometry
 responsive
@@ -2612,6 +2646,7 @@ retwist
 reutilizes
 revaccinating
 revarnish
+revarnishing
 reveled
 reveling
 reverberates
@@ -2668,6 +2703,7 @@ runkling
 rush
 russet
 sabring
+sacrilege
 sadisms
 sadomasochist
 safer
@@ -2829,6 +2865,7 @@ slipping
 slitter
 slivovices
 slope
+slowpoke
 slubber
 sluggishly
 slurban
@@ -2873,10 +2910,12 @@ spambot
 spangles
 spanokopita
 spasticity
+specifications
 spectinomycin
 spectroscopes
 speedster
 spermary
+spermic
 spermicides
 sphered
 sphingids
@@ -3021,6 +3060,7 @@ syncarp
 synchronism
 syncopal
 syncopate
+syncopator
 syndactylism
 syne
 synergisms
@@ -3084,6 +3124,7 @@ theologised
 theophylline
 thermochemists
 thermopile
+thermoregulate
 thermoregulated
 theropods
 they
@@ -3235,6 +3276,7 @@ underdosing
 underestimates
 underexposure
 undergone
+underpasses
 undersold
 understrength
 undersurface
@@ -3248,6 +3290,7 @@ uneffaced
 unexotic
 unfasten
 ungula
+unhallow
 unhanging
 unhealthinesses
 unheroic
@@ -3339,6 +3382,7 @@ viceroyalty
 viceroys
 viceroyships
 vicinities
+victims
 vicunas
 videlicet
 videttes
@@ -3376,6 +3420,7 @@ warmongerings
 washeteria
 wattled
 waxable
+wealds
 weasands
 weatherability
 weathermen
@@ -3452,6 +3497,7 @@ yardage
 yards
 yawed
 yawn
+yearbook
 yegg
 yellowtail
 yellowthroat

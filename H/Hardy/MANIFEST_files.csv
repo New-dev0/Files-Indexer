@@ -1,0 +1,5 @@
+acl 2.2.45-1 adduser 3.105ubuntu1 alacarte 0.11.5-0ubuntu1 alsa ...,http://ftp.twaren.net/ubuntu-dvd/ports/releases/hardy/release/ubuntu-8.04.1-desktop-powerpc.manifest
+adduser 3.105ubuntu1 apache2 2.2.8-1ubuntu0.11 apache2.2 ...,http://mirrors.dotsrc.org/turnkeylinux/metadata/turnkey-lamp/2009.10-hardy-x86/turnkey-lamp-2009.10-hardy-x86.manifest
+adduser 3.105ubuntu1 apt 0.7.9ubuntu17.2 base-files 4.0.1ubuntu5 ...,https://releases.turnkeylinux.org/turnkey-ec2sdk/2009.10-hardy-x86/turnkey-ec2sdk-2009.10-hardy-x86.manifest
+adduser 3.105ubuntu1 ant 1.7.0-3 antlr 2.7.6-10 apt 0.7.9ubuntu17 ...,https://turnkeylinux.quantum-mirror.hu/metadata/turnkey-appengine/2009.10-hardy-x86/turnkey-appengine-2009.10-hardy-x86.manifest
+acl 2.2.45-1 acpi 0.09-3ubuntu1 acpi-support 0.109-0hardy2 acpid ...,http://repo.ugm.ac.id/iso/ubuntu/releases/kubuntu/8.04/kubuntu-8.04.2-desktop-i386.manifest
