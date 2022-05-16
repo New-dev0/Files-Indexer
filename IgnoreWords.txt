@@ -474,6 +474,7 @@ cartographers
 casebearers
 casebook
 casemate
+casque
 castable
 caster
 casualties
@@ -515,11 +516,13 @@ checkbooks
 checkered
 chelicera
 chernozemic
+chestful
 chestier
 chicer
 chickory
 chicory
 childlessnesses
+chiltepin
 chimeras
 chiropters
 chloroformed
@@ -906,6 +909,7 @@ disrupt
 disruptively
 dissaves
 dissed
+disseminator
 distrained
 disturbingly
 disulfates
@@ -934,6 +938,7 @@ dorky
 dornocks
 dorsers
 dorsiventrality
+dossil
 doublespeak
 dovekey
 downbeats
@@ -974,6 +979,7 @@ durrs
 durst
 dwarfed
 dwindling
+dwines
 dwining
 dykes
 dynatron
@@ -1043,6 +1049,7 @@ entomophily
 entozoans
 entranceways
 entreats
+entrenched
 envy
 enwomb
 enzym
@@ -1106,6 +1113,7 @@ exospore
 expands
 expedience
 expedition
+explodes
 expulses
 expunged
 exsect
@@ -1379,6 +1387,7 @@ haems
 haft
 hagiology
 halavahs
+halftone
 hall
 handyperson
 haphtarah
@@ -1477,6 +1486,7 @@ hydrocracked
 hydrophytes
 hydrostatic
 hydroxylases
+hyoidal
 hyperbolae
 hypergols
 hyperpolarizing
@@ -1492,6 +1502,7 @@ ignominiously
 ignorant
 ilia
 illegalities
+illusionism
 illusionisms
 imbower
 immaculately
@@ -1502,6 +1513,7 @@ immixture
 immobilize
 imparted
 impartialities
+impasted
 impish
 implead
 impregnators
@@ -1513,6 +1525,7 @@ inadequateness
 inanely
 incapacitate
 incaution
+incautiously
 inceptive
 inchoateness
 inclement
@@ -1668,6 +1681,7 @@ kelly
 keps
 keratitises
 kerchoo
+keypad
 khoums
 kiaugh
 kibe
@@ -1697,12 +1711,14 @@ labradors
 lacqueyed
 laddish
 lag
+laitances
 lakier
 lamellar
 laminator
 lammergeyers
 languettes
 lapin
+largo
 larker
 larkinesses
 laryngitis
@@ -1975,6 +1991,7 @@ monogamic
 monogyny
 monologists
 monologuists
+monophthongs
 monopolise
 monopolises
 monotints
@@ -2031,6 +2048,7 @@ myelofibroses
 myelomata
 myelomatous
 mysticete
+mystique
 nailer
 nailheads
 naiveness
@@ -2163,11 +2181,13 @@ oppugn
 optimization
 optimizes
 ordinaries
+ordnance
 orientalist
 orientals
 orogenetic
 orpiment
 orthodox
+orthophosphate
 orthotropous
 osmometry
 ossetra
@@ -2176,6 +2196,7 @@ ostomate
 ostracodes
 other
 otherworld
+ottavas
 outbid
 outbidder
 outbrave
@@ -2302,6 +2323,7 @@ perfectible
 perfects
 perfumery
 perfusates
+perithecia
 perithecial
 perjurious
 permuting
@@ -2398,6 +2420,7 @@ polymorphously
 polyptychs
 polypuses
 polyvinyl
+pomanders
 pomology
 pompons
 pontoon
@@ -2479,6 +2502,7 @@ provincially
 psalmodic
 psalmodies
 psilosis
+psychic
 psychogenically
 psychotherapist
 ptyalin
@@ -2644,6 +2668,7 @@ resister
 resistors
 resizing
 resketched
+resowed
 respelt
 respirometry
 responsive
@@ -2687,6 +2712,7 @@ rhumb
 ribonucleotide
 richer
 rick
+ricking
 ridgels
 riesling
 riflebirds
@@ -2723,12 +2749,14 @@ ruddlemen
 ruddles
 ruffianly
 ruggedly
+ruggedness
 rummages
 rumored
 runkling
 rush
 russet
 sabring
+sacheted
 sacrilege
 sadisms
 sadomasochist
@@ -2752,6 +2780,7 @@ sandals
 sandiest
 sanga
 sanitoria
+sardonic
 satays
 satisfier
 savants
@@ -2793,6 +2822,7 @@ scrives
 sculled
 sculped
 scuzzball
+scyphi
 seacrafts
 seafoods
 seamanships
@@ -2919,6 +2949,7 @@ socagers
 sodbusters
 soften
 sokol
+soldierships
 solecise
 solecised
 soleprint
@@ -2947,6 +2978,7 @@ speedster
 spermary
 spermic
 spermicides
+sphenes
 sphered
 sphingids
 spiffiest
@@ -3013,6 +3045,7 @@ stressor
 strewers
 strewing
 strikeovers
+strobes
 strobila
 stroma
 strowing
@@ -3397,6 +3430,7 @@ varicoceles
 vassal
 vastity
 vatu
+vatus
 vaudevillians
 vaultiest
 vaunted
@@ -3459,6 +3493,7 @@ wealds
 weasands
 weatherability
 weathermen
+weatherperson
 weatherpersons
 weavers
 web
