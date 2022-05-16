@@ -161,8 +161,10 @@ aphis
 apogamic
 apolog
 apomict
+apostrophic
 appalled
 appeasement
+append
 appends
 apperceive
 appetisers
@@ -252,6 +254,7 @@ beano
 beatify
 beauteousnesses
 bedboard
+beekeepings
 beeswings
 beezers
 befit
@@ -596,6 +599,7 @@ conformists
 confrontations
 congas
 conge
+conservatisms
 conservatizing
 consisted
 consortia
@@ -746,6 +750,7 @@ decocts
 decomposers
 decompound
 deconcentration
+decoupled
 decryptions
 decupling
 defeatures
@@ -952,6 +957,7 @@ element
 eleventh
 elevons
 em
+embossments
 embraceries
 embrangling
 emendators
@@ -1017,6 +1023,7 @@ etymologist
 etymons
 eudaemonism
 eupatridae
+euthanize
 eutrophy
 evenhanded
 exahertz
@@ -1029,6 +1036,7 @@ excisional
 exclusion
 excommunicate
 excretory
+excurrent
 excused
 executioners
 exemptions
@@ -1112,6 +1120,7 @@ flamboyances
 flamy
 flashings
 flashover
+flask
 flatfoots
 flatterers
 flay
@@ -1373,6 +1382,7 @@ horehound
 hornist
 horseweed
 horsinesses
+hospitality
 hotspot
 hourglasses
 housefather
@@ -1420,6 +1430,7 @@ improvident
 impugn
 impugned
 inadequateness
+inanely
 incapacitate
 incaution
 inceptive
@@ -1705,6 +1716,7 @@ luxuriance
 luxuriate
 lycopenes
 lynched
+lyssa
 macerator
 mach
 macruran
@@ -1751,6 +1763,7 @@ meatier
 mechanized
 mechanochemical
 medallion
+mediations
 medicaments
 medicate
 medicine
@@ -1874,6 +1887,7 @@ morselling
 mortisers
 mothering
 motorization
+moulages
 mountaintops
 mourns
 mouthy
@@ -1898,6 +1912,7 @@ multiplies
 multiuser
 mundungus
 murmurs
+murrs
 muscadet
 muscovados
 muscularly
@@ -1922,6 +1937,7 @@ necklaces
 necromancy
 negates
 negligee
+neologists
 neophyte
 neophytes
 neorealisms
@@ -1999,6 +2015,7 @@ occlusions
 occupy
 octadic
 octanols
+odic
 odiums
 odorants
 offprinted
@@ -2036,6 +2053,7 @@ osmometry
 ossetra
 osteocyte
 ostomate
+ostracodes
 other
 otherworld
 outbid
@@ -2050,6 +2068,7 @@ outgambled
 outhustled
 outintrigue
 outjump
+outkissed
 outlaid
 outline
 outmuscle
@@ -2061,6 +2080,7 @@ outseeing
 outsinging
 outwardnesses
 outworker
+ovalness
 overachievement
 overbriefed
 overcompresses
@@ -2353,6 +2373,7 @@ putsches
 puttees
 pyramid
 pyrotechnical
+quadrate
 quadrivalents
 quads
 quantitation
@@ -2424,6 +2445,7 @@ reducibly
 redwing
 reefable
 reemploy
+reemployments
 refereed
 references
 refiled
@@ -2513,6 +2535,7 @@ retroreflectors
 retrospects
 retwist
 reutilizes
+revaccinating
 revarnish
 reveled
 reveling
@@ -2645,6 +2668,7 @@ seismological
 seisms
 selcouth
 seltzers
+semens
 semiaquatic
 semidomes
 semidwarves
@@ -2664,6 +2688,7 @@ serpiginously
 servable
 settlements
 sevenths
+shaddocks
 shadeless
 shaitan
 shammes
@@ -2826,6 +2851,7 @@ stratal
 strategic
 strategizes
 straws
+strawworm
 streak
 stressor
 strewers
@@ -2838,6 +2864,7 @@ studio
 stunner
 stylitic
 stylized
+stylizing
 stylus
 suability
 subas
@@ -2927,6 +2954,7 @@ tandem
 tantalates
 tao
 tapeless
+tapper
 tarbushes
 taskworks
 tattle
@@ -3088,6 +3116,7 @@ unamended
 unaspirated
 unattractively
 unboned
+unbottling
 unbuttons
 uncase
 unchain
@@ -3207,6 +3236,7 @@ vesiculation
 vexer
 vial
 viceroyalty
+viceroys
 viceroyships
 vicinities
 vicunas
@@ -3237,6 +3267,7 @@ wainscotted
 walkabouts
 wallopings
 wallpaper
+walrus
 wangler
 wannigan
 warless
@@ -3273,6 +3304,7 @@ wilders
 wildfowlings
 wildings
 wimpling
+windchills
 windiness
 windowing
 windups
@@ -3281,6 +3313,8 @@ wiselier
 wisps
 wisting
 witchhoods
+witchings
+wittiest
 wobbles
 wolfberry
 womenfolk
@@ -3294,6 +3328,7 @@ workhouse
 workman
 wormroot
 wrangle
+wreakers
 wreathe
 wrier
 wring

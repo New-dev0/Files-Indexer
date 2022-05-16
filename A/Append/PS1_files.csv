@@ -1,0 +1,27 @@
+master - GitHub,https://github.com/ReneNyffenegger/.NET-API/blob/master/System/IO/StreamWriter/append.ps1
+network-lists/Append-NetworkList.ps1 1.0.1 - PowerShell Gallery,https://www.powershellgallery.com/packages/AkamaiPowershell/1.0.1/Content/network-lists%255CAppend-NetworkList.ps1
+Private/Get-LogonFailureReason.ps1 0.4.1 - PowerShell Gallery,https://www.powershellgallery.com/packages/PoShEvents/0.4.1/Content/Private%255CGet-LogonFailureReason.ps1
+"param( [string]$switchName = $(throw ""please specify a switch ...",https://raw.githubusercontent.com/Microsoft/SDN/master/Kubernetes/windows/debug/dumpVfpPolicies.ps1
+#Module name: O365AntiCryptoLocker #Author: Jos Lieben (OGD ...,https://www.lieben.nu/liebensraum/wp-content/uploads/2016/06/O365AntiCryptoLocker.ps1
+references/EPS/New-EpsTemplateScript.ps1 ... - GitLab,https://gitlab.lsonline.fr/ps1/psdocgen/-/blob/3b442314387a6af39ccad1b053f76113f6e4ce59/references/EPS/New-EpsTemplateScript.ps1
+#region functions Function Install-NetFx48 () { #Requires -Version ...,https://pimfiles.blob.core.windows.net/scripts/Set-InitialSFConfiguration.ps1
+Staff O365 Full Import For IDB ...,https://voice.unifysolutions.net/uploaded/file/17376/6/0/8d9355323d1e6ec63a0fb372f0f21b16.ps1
+AUTHOR : Marius / Hican - http://www.hican.nl - @hicannl # DATE ...,https://content.spiceworksstatic.com/service.community/p/post_attachments/0000169713/5639b2e7/attached_file/create_ad_users.ps1
+Аудит локальной системы (сбор информации) # Опрос системы ...,http://www.cidc.ru/powershell/audit.ps1
+Open - Perforce Workshop,https://swarm.workshop.perforce.com/projects/robert_cowham-p4v-custom-tools/view/main/Install-P4VTools.ps1
+Combine-Files.ps1 - Declan Bright,https://declanbright.com/downloads/Combine-Files.ps1
+NotMine/get-computers_by_OS.ps1 ...,https://gitlab.ics.muni.cz/143208/mrepo/-/blob/86f1db5ed31256b5b70d7f211c930be213361f27/NotMine/get-computers_by_OS.ps1
+"install.ps1 param($rootPath, $toolsPath, $package, $project ...",https://subversion.assembla.com/svn/thepodproject/tags/Final_1.2.0/packages/MvcSiteMapProvider.Web.4.4.8/tools/install.ps1
+andre/Powershell_Scripts - Template-ActivateKMSwinoffice-w ...,https://git.iut-rodez.fr/andre/Powershell_Scripts/src/commit/d59411c64cb7cc051eb1bf43850c02460088b651/Template-ActivateKMSwinoffice-w-logging.ps1
+Hyper-V VM state # # Script must executed with local administrator ...,https://omd.rhrk.uni-kl.de/windows/plugins/hyperv_vms_guestinfos.ps1
+tools/GenerateHeaderForJson.ps1 - mirrors microsoft - GitCode,https://gitcode.net/mirrors/microsoft/terminal/-/blob/e304c4ed4547529e0ba3563be925cc3676cfd26d/tools/GenerateHeaderForJson.ps1%3Ffrom_codechina%3Dyes
+a1c08e6e8074687bddd87d30f5...,https://git.concat.de/Kai.Buedel/script-share/-/blob/a1c08e6e8074687bddd87d30f56a8170c2c4a3dc/log4j-finder/find-log4j.ps1
+a wrapper script - scip AG,https://www.scip.ch/labs/files/Invoke-MimikatzNetwork.ps1
+KNOXDEV/scoop-backup: Additional functionality for the ... - IRS,https://www.irs.sh/KNOXDEV/scoop-backup/src/commit/eb6f3fc525b11a4a8aa10743e671c38481d4933f/scoop-backup.ps1%3Flang%3Dde-DE
+New-HVHealthReport.txt - Altaro,https://hope.pe.kr/attachment/cfile22.uf%402644EC4457C3BF1810D3C2.ps1
+Generic powershell scripts for utilities and automation of tasks,https://git.cybergav.in/cybergavin/powershell/src/master/viDB.ps1
+Ceph: src/rocksdb/build_tools/run_ci_db_test.ps1 | Fossies,https://fossies.org/linux/ceph/src/rocksdb/build_tools/run_ci_db_test.ps1
+angela/prtg-zendesk-webhook: Automate ticket ... - NotABug.org,https://notabug.org/angela/prtg-zendesk-webhook/src/master/ZendeskWebhook.ps1
+fixing_encoding_and_adding_en...,https://swing.fit.cvut.cz/projects/stx-jv/attachment/ticket/239/fixing_encoding_and_adding_encoding_directive.ps1
+"PowerShell: Karmen Kattai, VõrdleNimekirju.ps1 - ICO wiki","https://wiki.itcollege.ee/index.php/PowerShell:_Karmen_Kattai,_V%25C3%25B5rdleNimekirju.ps1"
+vcenter script update - connect-VIserver - getsnapshotagent.ps1 at ...,https://git.mindu.co.il/mindu/vmware_ps_old_snapshots/src/branch/master/getsnapshotagent.ps1
