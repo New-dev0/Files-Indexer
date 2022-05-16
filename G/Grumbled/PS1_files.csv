@@ -1,0 +1,4 @@
+Based on v 1.7 of the JSON_1.7.psm1 from # # > $Json = Get ...,https://200.217.4.47/arquivo/puppetlabs/puppet/bin/PowershellShim-Helper.ps1
+Invoke-AzureRmVmScript.ps1 0.1.39 - PowerShell Gallery,https://www.powershellgallery.com/packages/WFTools/0.1.39/Content/Invoke-AzureRmVmScript.ps1
+PowerShell/Invoke-AzureRmVmScript.ps1 at master - GitHub,https://github.com/RamblingCookieMonster/PowerShell/blob/master/Invoke-AzureRmVmScript.ps1
+psgist/JSON 1.7.ps1 at master · cromwellryan/psgist · GitHub,https://github.com/cromwellryan/psgist/blob/master/JSON%25201.7.ps1
