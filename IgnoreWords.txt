@@ -110,6 +110,7 @@ aid
 airbrushed
 airshows
 airts
+airwomen
 alabasters
 alands
 alang
@@ -445,6 +446,7 @@ blossoms
 blubberer
 bluebeards
 bluely
+bluenosed
 boarder
 boatsmen
 bobolinks
@@ -517,6 +519,7 @@ brockages
 broidered
 bromating
 brominisms
+bromizes
 bronchiectases
 broncobuster
 bronzings
@@ -530,6 +533,7 @@ brut
 brutely
 brutishly
 bubkes
+bubo
 bucket
 buddied
 budgetary
@@ -675,6 +679,7 @@ charities
 charmed
 charmeuse
 chaseable
+chats
 chauffeur
 chawer
 checkbooks
@@ -785,6 +790,7 @@ coherences
 coherencies
 coif
 coiffeuses
+coin
 coinferred
 coins
 cojones
@@ -794,6 +800,7 @@ collectivistic
 collide
 colonisation
 colorcast
+colorfulness
 colorizers
 colportages
 comal
@@ -1103,6 +1110,7 @@ depoliticize
 deprecatingly
 derats
 dermas
+dermatoglyphics
 derry
 desalinizing
 descender
@@ -1247,6 +1255,7 @@ downsides
 dowsing
 dozening
 dozy
+drafting
 dragstrips
 draughts
 drawee
@@ -1308,6 +1317,7 @@ ecclesiological
 ecclesiology
 ecocatastrophes
 eerily
+effectuation
 efficacy
 effluents
 effrontery
@@ -1352,6 +1362,7 @@ enciphers
 encouragement
 encumbrancer
 encyclopaedic
+endemism
 endoderm
 endosperms
 endostea
@@ -1673,6 +1684,7 @@ funninesses
 funnymen
 furuncle
 furuncles
+fusibly
 fusillading
 futility
 futurities
@@ -2210,6 +2222,7 @@ jurisprudences
 jutting
 kadis
 kaffiyahs
+kanes
 kantar
 kaoliangs
 kaon
@@ -2418,6 +2431,7 @@ macerator
 mach
 machination
 mackintoshes
+macroeconomic
 macroglobulins
 macruran
 macumba
@@ -2537,6 +2551,7 @@ micropore
 micropublisher
 microseism
 microspheres
+microwatts
 microworlds
 mics
 middlers
@@ -2547,6 +2562,7 @@ midsized
 midwife
 migraines
 miked
+milia
 milieu
 milieux
 military
@@ -2791,6 +2807,7 @@ nonfinal
 nonfluids
 nonfocal
 nonindustry
+noninflationary
 noninitiates
 noninstallments
 nonintoxicating
@@ -2847,8 +2864,10 @@ odorants
 oedemata
 oersteds
 offprinted
+ogee
 oligomeric
 olingo
+omnificent
 onerously
 onlookers
 onomatology
@@ -2912,6 +2931,7 @@ outearned
 outeat
 outflown
 outgambled
+outgenerals
 outgo
 outhustled
 outintrigue
@@ -3003,6 +3023,7 @@ parallelisms
 paralytic
 paramylums
 paraphrase
+parasexual
 parasitologist
 paratroops
 parch
@@ -3311,6 +3332,7 @@ protohistorians
 protozoal
 proves
 provincially
+prunellos
 psalmodic
 psalmodies
 pseudomorphism
@@ -3322,6 +3344,7 @@ psychosexually
 psychotherapist
 ptyalin
 publisher
+pucker
 pudibund
 pugginesses
 puggries
@@ -3419,6 +3442,7 @@ recepts
 rechoosing
 recirculations
 recleans
+recoaled
 recocks
 recognizers
 recommissioning
@@ -3735,6 +3759,7 @@ scrive
 scrives
 scrollworks
 scroops
+scubas
 sculled
 sculped
 scuzzball
@@ -3750,6 +3775,7 @@ seclusivenesses
 secondarily
 secretors
 sedative
+sedimentologies
 seductress
 sedums
 seedcakes
@@ -3869,6 +3895,7 @@ skyrocket
 slacks
 slaggiest
 slakers
+slaved
 slaw
 slily
 slimly
@@ -4004,6 +4031,7 @@ stampless
 stamps
 standdowns
 standoffs
+standpoints
 stannic
 staphs
 stardom
@@ -4114,6 +4142,7 @@ superintend
 superintendents
 superintends
 superlativeness
+superluxury
 superplasticity
 superpremium
 supersecrecy
@@ -4275,6 +4304,7 @@ ticals
 tickles
 ticklishnesses
 tictacking
+tiebreaks
 tierced
 tiling
 timpani
@@ -4333,6 +4363,7 @@ traject
 tramels
 trammeler
 transacts
+transaxle
 transcribers
 transferrable
 transilluminate
@@ -4457,6 +4488,7 @@ underexposure
 underexposures
 undergone
 underpasses
+underreport
 undersold
 understaffing
 understrength
@@ -4509,6 +4541,7 @@ unpliable
 unpopularities
 unpunished
 unquestionable
+unreadiest
 unreal
 unrighteously
 unrobe
@@ -4610,6 +4643,7 @@ videttes
 vignetters
 villanelle
 villas
+vina
 vincible
 vinosity
 virtueless
@@ -4783,6 +4817,7 @@ zechin
 zeros
 zincky
 zippering
+zoarium
 zonary
 zoophyte
 zouave

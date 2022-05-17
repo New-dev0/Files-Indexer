@@ -1,0 +1,4 @@
+functions/Get-SqlMaxMemory.ps1 0.8.5.52 - PowerShell Gallery,https://www.powershellgallery.com/packages/dbatools/0.8.5.52/Content/functions%255CGet-SqlMaxMemory.ps1
+functions/Get-DbaMaxMemory.ps1 1.0.75 - PowerShell Gallery,https://www.powershellgallery.com/packages/dbatools/1.0.75/Content/functions%255CGet-DbaMaxMemory.ps1
+functions/Get-DbaMaxMemory.ps1 0.9.329 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/dbatools/0.9.329/Content/functions%255CGet-DbaMaxMemory.ps1
+tests/Get-DbaMaxMemory.Tests.ps1 0.9.86 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/dbatools/0.9.86/Content/tests%255CGet-DbaMaxMemory.Tests.ps1
