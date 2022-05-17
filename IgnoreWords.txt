@@ -94,6 +94,7 @@ afterworld
 agallochs
 agapeic
 agelessnesses
+aglycons
 agnosticisms
 agouti
 aid
@@ -357,6 +358,7 @@ bhut
 biconditional
 biconditionals
 biggies
+bigging
 bigly
 bihourly
 bijection
@@ -375,6 +377,7 @@ bioptic
 biosensor
 biradical
 birdbrain
+birefringent
 bisect
 bisnaga
 bitchery
@@ -485,6 +488,7 @@ burbliest
 burbling
 burglarized
 burlesks
+burlesque
 burlesquer
 burnish
 butterflying
@@ -667,6 +671,7 @@ classico
 classiest
 cleareyed
 clerihews
+clientages
 clinically
 clipped
 cliquing
@@ -785,6 +790,7 @@ contredanses
 contribution
 controlled
 controlment
+convector
 convened
 convexes
 conviction
@@ -864,6 +870,7 @@ crowd
 crowdy
 cruciform
 crumpet
+crumps
 cryostats
 cryotherapies
 cryptozoologies
@@ -1024,6 +1031,7 @@ diffraction
 diffuseness
 diffusionisms
 diffusivenesses
+diligently
 dime
 dimercaprols
 dimethyls
@@ -1264,6 +1272,7 @@ erythremia
 erythrosin
 erythrosins
 escapable
+escapologist
 eschalots
 escheating
 esne
@@ -1363,6 +1372,7 @@ feme
 feminizations
 fencings
 ferrimagnetisms
+feruled
 feted
 fetidly
 feudalizations
@@ -1405,6 +1415,7 @@ flay
 flayer
 flayers
 fleche
+fledged
 fleecer
 flehmens
 fleshless
@@ -1435,6 +1446,7 @@ foils
 foisted
 foldaway
 folkway
+follower
 foolishly
 foolishnesses
 footballs
@@ -1570,6 +1582,7 @@ goldeyes
 gone
 goop
 goose
+gouges
 gowns
 grabbing
 graduations
@@ -1897,6 +1910,7 @@ intrepidly
 introspect
 invention
 invertase
+investigatory
 inviters
 invocated
 inwove
@@ -1920,6 +1934,7 @@ issuers
 italicizes
 iterant
 izars
+jackfruits
 jacobuses
 jalapenos
 jammed
@@ -1975,6 +1990,7 @@ kauris
 keelboat
 keelhale
 keelhauling
+keepings
 keg
 keitloas
 kelly
@@ -2181,6 +2197,7 @@ mannishnesses
 manoeuvres
 manse
 mantes
+manward
 marguerite
 market
 markhoors
@@ -2283,6 +2300,7 @@ minnesingers
 miracidia
 miraculous
 mirex
+misagents
 misallotting
 misbiasses
 misbuilds
@@ -2343,6 +2361,7 @@ monotints
 monotonically
 monovular
 monseigneur
+monthlong
 monuments
 moonily
 moons
@@ -2607,6 +2626,7 @@ ovalness
 overachievement
 overbriefed
 overcompresses
+overcool
 overcorrecting
 overcrops
 overdrinking
@@ -2797,6 +2817,7 @@ pittas
 placatory
 placentation
 placid
+placks
 plainsongs
 plaint
 plaintiveness
@@ -2836,6 +2857,7 @@ polymathy
 polymorphously
 polyptychs
 polypuses
+polystyrenes
 polythenes
 polyvinyl
 pomaded
@@ -3023,6 +3045,7 @@ reattachment
 rebloomed
 rebodies
 recapitulations
+recement
 recepts
 rechoosing
 recirculations
@@ -3071,6 +3094,7 @@ refuge
 refurnish
 regelate
 regeneracies
+regenerately
 regenerator
 reglossing
 regnum
@@ -3220,6 +3244,7 @@ roundtable
 rowlocks
 rubaboo
 rubdown
+rudderpost
 ruddlemen
 ruddles
 ruffianly
@@ -3559,6 +3584,7 @@ stereotypies
 sternutators
 stiffen
 stilbenes
+stingless
 stipulate
 stob
 stoccata
@@ -3576,6 +3602,7 @@ strawworm
 streak
 stressor
 stressors
+stretta
 strewers
 strewing
 strikeovers
@@ -3666,6 +3693,7 @@ swing
 swobbing
 swoony
 swordfishes
+swotted
 sycophantic
 sycophantisms
 symbiosis
@@ -3737,11 +3765,13 @@ tenorites
 tenths
 tentmaker
 tentorial
+tenuity
 tephra
 tepoy
 teratologist
 terete
 terminal
+terrorizations
 testees
 tetherballs
 tetrahedrally
@@ -3804,6 +3834,7 @@ tontines
 toolmakings
 top
 topful
+topmost
 topographers
 toppr
 torpedoes
@@ -3828,6 +3859,7 @@ traipsing
 traject
 tramels
 trammeler
+transacts
 transcribers
 transferrable
 transilluminate
@@ -3859,6 +3891,7 @@ trimotors
 triode
 trioxids
 triples
+tripletail
 tripody
 trochar
 trochilus
@@ -3938,6 +3971,7 @@ underexposures
 undergone
 underpasses
 undersold
+understaffing
 understrength
 undersurface
 undertaking
@@ -4025,6 +4059,7 @@ uroscopies
 uteruses
 uvarovite
 valeted
+validating
 valpolicellas
 vandalise
 vandalisms
