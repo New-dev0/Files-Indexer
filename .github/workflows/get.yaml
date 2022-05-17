@@ -26,5 +26,5 @@ jobs:
           commit_message: 'Auto: Update Content'
           repository: .
           commit_user_name: bot
-          commit_user_email: Newdev0@outlook.com
-          commit_author: AutoUpdate Bot<Newdev0@outlook.com>
+          commit_user_email: xyz@outlook.com
+          commit_author: AutoUpdate Bot<xyz@outlook.com>
