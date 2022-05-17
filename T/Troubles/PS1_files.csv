@@ -1,0 +1,6 @@
+functions/Test-DbaDbOwner.ps1 1.0.97 - PowerShell Gallery,https://www.powershellgallery.com/packages/dbatools/1.0.97/Content/functions%255CTest-DbaDbOwner.ps1
+functions/Test-DbaDatabaseOwner.ps1 0.9.353 - PowerShell Gallery,https://www.powershellgallery.com/packages/dbatools/0.9.353/Content/functions%255CTest-DbaDatabaseOwner.ps1
+powershell-markov-chain-text/markov-words.ps1 at master - GitHub,https://github.com/midnightfreddie/powershell-markov-chain-text/blob/master/markov-words.ps1
+PowerShellLib/DisableAutomaticProxyDetection.ps1 at master,https://github.com/Conroman16/PowerShellLib/blob/master/DisableAutomaticProxyDetection.ps1
+function Set-DbaDbOwner { <# .SYNOPSIS Sets database owners ...,https://raw.githubusercontent.com/sqlcollaborative/dbatools/development/functions/Set-DbaDbOwner.ps1
+Sutanto Kalio | Facebook,https://www.facebook.com/sutanto.ps1

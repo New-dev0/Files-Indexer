@@ -1,0 +1,3 @@
+PowerSploit/Invoke-TokenManipulation.ps1 at master - GitHub,https://github.com/PowerShellMafia/PowerSploit/blob/master/Exfiltration/Invoke-TokenManipulation.ps1
+PSKernel-Primitives/Get-KernelShellCode.ps1 at master - GitHub,https://github.com/FuzzySecurity/PSKernel-Primitives/blob/master/Get-KernelShellCode.ps1
+.SYNOPSIS Stealing passwords every time they change {mitre ...,https://raw.githubusercontent.com/r00t-3xp10it/redpill/main/bin/GetPasswords.ps1
