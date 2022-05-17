@@ -116,6 +116,7 @@ alencons
 ales
 algicidal
 algological
+aliasing
 alibies
 alines
 aliterates
@@ -158,6 +159,7 @@ amphitheatrical
 ampoules
 ampuls
 amputates
+amritas
 amylases
 amyloids
 amyls
@@ -283,6 +285,7 @@ autoantibodies
 autograph
 autolysates
 automan
+avellane
 avenger
 aviates
 axially
@@ -449,6 +452,7 @@ bonnocks
 bonspells
 bonuses
 bookmarker
+bookshops
 boomer
 boonless
 booting
@@ -513,6 +517,7 @@ bubkes
 bucket
 buddied
 budgetary
+bugged
 build
 bulged
 bullfighters
@@ -636,6 +641,7 @@ centriole
 centrioles
 centrosymmetric
 centupling
+ceremonialism
 ceruloplasmins
 chacma
 chaired
@@ -830,6 +836,7 @@ conspirers
 constabularies
 constituently
 constricts
+constructions
 consubstantial
 consulting
 contacts
@@ -868,6 +875,7 @@ coronachs
 corporals
 corporeally
 corpses
+corpus
 correspondence
 corroborant
 corruptions
@@ -941,6 +949,7 @@ culpa
 culpably
 cult
 cultivator
+cumulations
 cunning
 curettages
 curette
@@ -1055,6 +1064,7 @@ deodara
 dependabilities
 depermed
 depicting
+depictions
 deplorer
 depoliticize
 deprecatingly
@@ -1316,6 +1326,7 @@ enroots
 enscrolling
 enserfing
 ensheathes
+ensphered
 enterocoele
 enteroviral
 enthronements
@@ -1332,6 +1343,7 @@ enzym
 eohippuses
 epicedium
 epicenism
+epifaunas
 epiglottal
 epigrammatists
 epigynous
@@ -1690,6 +1702,7 @@ gossippers
 gouges
 gowns
 grabbing
+gracefullest
 graduations
 gramma
 grammatically
@@ -1756,6 +1769,7 @@ hadji
 haems
 haft
 hagiology
+hairlike
 halavahs
 halftone
 hall
@@ -1785,6 +1799,7 @@ hawsepipes
 hawsers
 hayfork
 hayforks
+hays
 hazinesses
 headcheeses
 headfirst
@@ -2095,6 +2110,7 @@ jetports
 jetsoms
 jew
 jewel
+jigglier
 jiggling
 jimmies
 jitteriness
@@ -2284,6 +2300,7 @@ lomenta
 longhorns
 longish
 loosestrife
+lorica
 lousewort
 loutish
 lovebirds
@@ -2461,6 +2478,7 @@ miraculous
 mirex
 misagents
 misallotting
+misalters
 misbiasses
 misbuilds
 miscasts
@@ -2469,6 +2487,7 @@ miscreations
 misdeals
 misdescriptions
 misfocusses
+misgraded
 misgrow
 misinter
 misinterring
@@ -2637,6 +2656,7 @@ newlyweds
 newsdesk
 newsgroups
 newsletter
+newsworthy
 newt
 newwavers
 niche
@@ -2770,6 +2790,7 @@ orthopterists
 orthotropous
 osmometry
 ossetra
+ossicular
 osteocyte
 ostomate
 ostracodes
@@ -3119,11 +3140,13 @@ prerectal
 prescreened
 prescribe
 preshapes
+preshrink
 presidentship
 presidentships
 presider
 presifts
 pressurised
+presumingly
 pretasting
 prevalent
 prevaricate
@@ -3211,6 +3234,7 @@ quantitation
 quarriers
 quarryman
 quarterstaves
+quatercentenary
 queenliness
 queriers
 quickness
@@ -3261,6 +3285,7 @@ realpolitik
 reapply
 reassumed
 reattachment
+reattachments
 rebegin
 rebloomed
 rebodies
@@ -3291,6 +3316,7 @@ recut
 redacted
 redates
 redelivering
+redeployed
 redigesting
 redigestions
 redis
@@ -3381,6 +3407,7 @@ reprehensive
 reprints
 repurposes
 rerolls
+res
 resaddling
 resaws
 resealing
@@ -3845,6 +3872,7 @@ statocysts
 steamboats
 steelinesses
 steeplechaser
+steeves
 steradians
 stereotypies
 sternutators
@@ -3954,6 +3982,7 @@ surprisingly
 susceptibly
 suspicious
 susurrant
+swages
 swampiest
 swayers
 sweats
@@ -3983,6 +4012,7 @@ syntagms
 sysop
 tabbouleh
 tabernacles
+tabulable
 tachycardias
 tackling
 taconite
@@ -4222,11 +4252,13 @@ ultimacies
 ultraexclusive
 ultramodernists
 ultravacua
+umami
 umping
 unaesthetic
 unambiguous
 unamended
 unanimous
+unanswerably
 unaspirated
 unattractively
 unboned
@@ -4355,6 +4387,7 @@ urbaner
 urinalysis
 urinators
 uroscopies
+urped
 uteruses
 uvarovite
 vacant
@@ -4446,6 +4479,7 @@ warless
 warm
 warmongerings
 washeteria
+wastrie
 wattled
 waxable
 waxwings
@@ -4515,6 +4549,7 @@ wonderfully
 wonky
 wonted
 woodgrains
+woodpecker
 woodsias
 woof
 wordplays
