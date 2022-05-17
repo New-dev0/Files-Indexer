@@ -1,0 +1,9 @@
+Public/Utility/Invoke-Retry.ps1 0.1.30 - PowerShell Gallery,https://www.powershellgallery.com/packages/hsdp-iam/0.1.30/Content/Public%255CUtility%255CInvoke-Retry.ps1
+Main/New-RetryPolicy.ps1 2.1.3 - PowerShell Gallery,https://www.powershellgallery.com/packages/xUtility/2.1.3/Content/Main%255CNew-RetryPolicy.ps1
+dev - GitHub,https://github.com/aspnet-contrib/AspNet.Security.OAuth.Extensions/blob/dev/build.ps1
+PSToolset/Utils.ps1 at master - GitHub,https://github.com/microsoft/PSToolset/blob/master/Utils.ps1
+internal/configurations/settings ... - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/dbatools/0.9.329/Content/internal%255Cconfigurations%255Csettings%255Ccomputermanagement.ps1
+Copyright 2019-2022 ActiveState Software Inc. All rights reserved ...,https://platform.activestate.com/dl/cli/install.ps1
+"#Install ElasticBox Bootstrap $targetFolder = ""$env:ProgramFiles ...",http://elasticbox.com/agent/windows/vsphere/template_customization_script.ps1
+guest/perforce_software/sdp/dev/Server/Windows/p4 ... - Swarm,https://swarm.workshop.perforce.com/files/guest/perforce_software/sdp/dev/Server/Windows/p4/common/bin/SDP-functions.ps1%3Fv%3D33
+BB2-Impacket/s.ps1 at main - Codeberg,https://codeberg.org/dark_pyrro/BB2-Impacket/src/branch/main/s.ps1

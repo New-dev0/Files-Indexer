@@ -1,0 +1,10 @@
+[PS] FaCT and iFaCT - CEUR-WS,http://ceur-ws.org/Vol-22/horrocks.ps
+[PS] Ian R. Horrocks References - CEUR-WS,http://ceur-ws.org/Vol-11/FaCT.ps
+[PS] The FaCT System - University of Oxford Department of Computer ...,http://www.cs.ox.ac.uk/ian.horrocks/Publications/download/1998/t98-paper.ps.gz
+[PS] (define fact (lambda (n) (if (zero? n) 1 (* n (fact (sub1 n)))))) (define ...,http://web.cs.ucla.edu/~palsberg/course/purdue/cs565/S97/lectures/notes5.ps
+[PS] DLP and FaCT,http://www.cs.man.ac.uk/~horrocks/Publications/download/1999/dlp-tableaux99.ps.gz
+[PS] (define fact (lambda (n) (if (= n 1) 1 (* n (fact (- n 1)))))) - People,https://people.csail.mit.edu/meyer/6001/FT96/lecture/lec3/lec-processes.ps
+[PS] Digital Signatures with Encryption: Fact and Fiction - DIMACS,http://dimacs.rutgers.edu/archive/Workshops/Security/program2/smolk.ps
+[PS] Figure_18_SEBI indicator fact sheets.eps,https://www.eea.europa.eu/data-and-maps/figures/cumulative-number-of-alien-species-established-in-terrestrial-environment-in-11-countries/figure_18_sebi-indicator-fact-sheets.eps/at_download/file
+[PS] Fact-Alternating Mutex Groups for Classical Planning - Journal of ...,https://jair.org/index.php/jair/article/view/11181/26387
+[PS] A FACT ABOUT LINEAR SPACES ON HYPERSURFACES Let k be ...,https://www.math.stonybrook.edu/~jstarr/papers/appendix3.ps
