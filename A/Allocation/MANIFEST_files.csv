@@ -1,0 +1,8 @@
+VeraCrypt - VeraCrypt,https://www.veracrypt.fr/code/VeraCrypt/commit/src/Mount/Mount.manifest%3Fh%3DVeraCrypt_1.24-Update6%26id%3D6cdcbac305bb34b90d0864879ce940463fae9730
+Illumos/illumos-joyent - illumos-joyent - Gitea: Git with a cup of tea,https://git.wegmueller.it/Illumos/illumos-joyent/commits/branch/release-20180329/boot.manifest
+Packages.manifest - OpenWrt Downloads,https://downloads.openwrt.org/releases/21.02.0/packages/mipsel_74kc/routing/Packages.manifest
+"Package: 464xlat Version: 11 Depends: libc, kmod-nat46, ip Source ...",https://archive.openwrt.org/releases/packages-18.06/arm_cortex-a9_neon/routing/Packages.manifest
+Package: base-files Version: 194.1-r7629+12-eef6bd3393 Depends ...,https://downloads.bremen.freifunk.net/opkg/modules/gluon-ffhb-2018.2%2Bbremen1%2B/x86/64/Packages.manifest
+"Package: acl Version: 20180121-1 Depends: libc, libacl Source ...",https://usingpro.com/releases/packages-18.06/mips_24kc/packages/Packages.manifest
+Package: base-files Version: 194.3-r8067+26-6d94a6eca4 ...,https://downloads.ffhb.de/opkg/modules/gluon-ffhb-2019.1.3%2Bbremen2/x86/generic/Packages.manifest
+"Package: ahcpd Version: 0.53-3 Depends: libc, ip, librt Source ...",https://public.nas.dailylime.kr/openwrt-legacy/packages/aarch64_cortex-a72/routing/Packages.manifest
