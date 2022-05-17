@@ -1,0 +1,5 @@
+Functions/Publish-BcAddin.ps1 1.0.21103.1 - PowerShell Gallery,https://www.powershellgallery.com/packages/FpsBcDeployment/1.0.21103.1/Content/Functions%255CPublish-BcAddin.ps1
+Windows-10-1803-Post-Install-Script/Run_Once.ps1 at master,https://github.com/Gaz2600/Windows-10-1803-Post-Install-Script/blob/master/Run_Once.ps1
+WindowsTimeline/Clippy.ps1 at master · kacos2000 ... - GitHub,https://github.com/kacos2000/WindowsTimeline/blob/master/Clippy.ps1
+function Invoke-Sharpweb { [CmdletBinding()] Param ( [Parameter ...,https://raw.githubusercontent.com/S3cur3Th1sSh1t/PowerSharpPack/master/PowerSharpBinaries/Invoke-Sharpweb.ps1
+"function UACBypass { param( [String] $command, [Int] $number ...",https://raw.githubusercontent.com/S3cur3Th1sSh1t/Creds/master/PowershellScripts/uacbypass.ps1
