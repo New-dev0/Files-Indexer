@@ -100,6 +100,7 @@ afterworld
 agallochs
 agapeic
 agelessnesses
+agglutinogenic
 aglycons
 agnosticisms
 agouti
@@ -137,6 +138,7 @@ almagest
 almemar
 almoners
 almost
+almug
 alodia
 aloofly
 alpenglow
@@ -626,6 +628,7 @@ caster
 castors
 casualties
 casuists
+catabolites
 catabolizing
 cataclysm
 catalexis
@@ -782,6 +785,7 @@ coins
 cojones
 collaterally
 collators
+collectivistic
 collide
 colonisation
 colorcast
@@ -922,6 +926,7 @@ crabstick
 cradler
 craftinesses
 cram
+cramp
 crampfish
 crankiest
 crassness
@@ -956,6 +961,7 @@ cryptozoologies
 crystallization
 cue
 cuing
+cuishes
 cuisinarts
 cullay
 cullenders
@@ -1043,6 +1049,7 @@ decomposers
 decompound
 deconcentration
 decorated
+decorators
 decoupled
 decrescent
 decryptions
@@ -1224,6 +1231,7 @@ dossil
 doublespeak
 dovekey
 downbeats
+downfall
 downloaded
 downrightness
 downshifted
@@ -1577,6 +1585,7 @@ fluyts
 flyaways
 flyoff
 flyovers
+fogbound
 foggiest
 fogyish
 foils
@@ -1584,6 +1593,7 @@ foisted
 foldaway
 folkway
 follower
+followup
 foolishly
 foolishnesses
 footballs
@@ -1742,6 +1752,7 @@ gowns
 grabbing
 gracefullest
 graduations
+graffiting
 gramma
 grammatically
 grandaunt
@@ -1788,6 +1799,7 @@ guldens
 gulf
 gullets
 gulpier
+gumball
 gumboot
 gumdrops
 gummoses
@@ -1809,6 +1821,7 @@ habitualness
 habituating
 habituation
 hadji
+haematin
 haems
 haft
 hagiology
@@ -1889,6 +1902,7 @@ highlighting
 hightops
 hillbilly
 hinder
+hinkier
 hippy
 hoatzines
 hocker
@@ -2041,6 +2055,7 @@ inelegances
 inertially
 inexpedience
 infantilization
+infantilizing
 inferable
 infiltrations
 infinitively
@@ -2116,6 +2131,7 @@ iodinates
 iolite
 ionospheric
 iontophoretic
+ipecac
 ironings
 ironworker
 irradiate
@@ -2249,6 +2265,7 @@ laminator
 lammergeyers
 languettes
 lapin
+lapwings
 largo
 larker
 larkinesses
@@ -2288,6 +2305,7 @@ legislatives
 legitimatizing
 legrooms
 legumes
+leishmaniases
 leisureliness
 lenders
 leniencies
@@ -2364,6 +2382,7 @@ lubes
 lubricator
 lucarnes
 lucked
+lullabied
 luminance
 lummoxes
 lumper
@@ -2567,6 +2586,7 @@ mistuned
 miswording
 mitering
 mitochondrion
+mitrewort
 mitsvoth
 mizzenmasts
 mobcap
@@ -2619,6 +2639,7 @@ mothering
 motorization
 moulages
 mountaintops
+mounted
 mourns
 mouthwash
 mouthy
@@ -2663,6 +2684,7 @@ myotonias
 myrmecologist
 mysticete
 mystique
+mythiest
 myxoma
 nabobish
 nailed
@@ -2716,6 +2738,7 @@ newwavers
 niche
 nicker
 nielloed
+niffering
 niftily
 nightmarish
 nighty
@@ -2760,6 +2783,7 @@ nonmunicipal
 nonnecessities
 nonofficials
 nonpareil
+nonpasts
 nonpliant
 nonplusses
 nonpregnant
@@ -3199,6 +3223,7 @@ prednisolones
 preexposes
 pregenital
 prehandle
+prelegal
 preluding
 prematurenesses
 premold
@@ -3703,6 +3728,7 @@ secretors
 sedative
 seductress
 sedums
+seedcakes
 seeling
 seicento
 seise
@@ -3750,6 +3776,7 @@ shafted
 shaitan
 shammes
 shammos
+shards
 sharifs
 shat
 shaven
@@ -3829,6 +3856,8 @@ slope
 sloughs
 slowpoke
 slubber
+sluffed
+slugged
 sluggishly
 slurban
 smacking
@@ -3842,6 +3871,7 @@ smokepot
 smooshed
 smothers
 smuttier
+snapshotted
 snaring
 snatches
 sneaky
@@ -4039,6 +4069,7 @@ subwriter
 succeeds
 suckle
 suctional
+sugarberries
 suggesters
 suite
 summarizable
@@ -4077,6 +4108,7 @@ suspicious
 susurrant
 swages
 swampiest
+swanpan
 swayers
 sweats
 swede
@@ -4137,6 +4169,7 @@ tarbushes
 tarring
 taskworks
 tassel
+tasteful
 tattle
 tawse
 taxa
@@ -4350,6 +4383,7 @@ tyrocidine
 tzarism
 udometer
 uitlanders
+ulpanim
 ultimacies
 ultraexclusive
 ultramodernists
@@ -4577,6 +4611,7 @@ wallpaper
 walrus
 wandering
 wangler
+wannabee
 wannigan
 warless
 warm
