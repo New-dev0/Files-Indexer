@@ -1,0 +1,7 @@
+Remove-PasswordStateHost.ps1 3.1.1 - PowerShell Gallery,https://www.powershellgallery.com/packages/passwordstate-management/3.1.1/Content/Remove-PasswordStateHost.ps1
+Cmdlets/Invoke-SqlQuery.ps1 1.7.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/SimplySql/1.7.0/Content/Cmdlets%255CInvoke-SqlQuery.ps1
+#!/usr/bin/env pwsh # # This script is meant for quick & easy install ...,https://get.mirantis.com/install.ps1
+Remove-DuplicateItems/Remove-DuplicateItems.ps1 at master,https://github.com/michelderooij/Remove-DuplicateItems/blob/master/Remove-DuplicateItems.ps1
+michelderooij/Remove-MessageClassItems · GitHub,https://github.com/michelderooij/Remove-MessageClassItems/blob/master/Remove-MessageClassItems.ps1
+Join.ps1 3.2.0 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/Join/3.2.0/Content/Join.ps1
+<#PSScriptInfo .VERSION 3.2.1 .GUID 54688e75-298c-4d4b-a2d0 ...,https://raw.githubusercontent.com/iRon7/Join-Object/83a2f33b2d205e70d4840269a11c1b02c8b4ba24/Join-Object.ps1
