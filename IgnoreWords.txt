@@ -63,6 +63,7 @@ acned
 acock
 acred
 acrolith
+acrostics
 actinomorphy
 actionably
 activating
@@ -236,6 +237,7 @@ antitax
 antitrade
 antitragi
 antiviral
+antlered
 apanage
 apathetic
 apetalous
@@ -570,6 +572,7 @@ branchia
 branchier
 brander
 brashnesses
+brawlier
 breading
 breadless
 breakwater
@@ -636,6 +639,7 @@ burlesque
 burlesquer
 burly
 burnish
+burweed
 butterflying
 butteriest
 buttonholer
@@ -731,10 +735,12 @@ casebook
 casemate
 caseworm
 casque
+cassenas
 castable
 caster
 castled
 castors
+castrates
 casualties
 casuists
 catabolites
@@ -923,6 +929,7 @@ coin
 coinferred
 coins
 cojones
+coldcocks
 collaterally
 collators
 collectivistic
@@ -1193,6 +1200,7 @@ dankest
 darbs
 daredeviltries
 daric
+darkies
 dashing
 dastard
 daunomycins
@@ -1389,6 +1397,7 @@ displuming
 disposable
 disposables
 disqualify
+disrated
 disregard
 disregarding
 disrupt
@@ -1552,6 +1561,7 @@ embossments
 embraceries
 embrangling
 emendators
+emirates
 emotionalists
 employability
 employees
@@ -1618,6 +1628,7 @@ epiphytology
 episcopacy
 epithelialized
 epitheliomas
+epizootiologic
 epopees
 epsilonic
 equalizers
@@ -1836,6 +1847,7 @@ flopover
 floppers
 floricane
 flowerful
+fluffer
 fluoresce
 fluoric
 fluorimetries
@@ -2186,6 +2198,7 @@ hemacytometers
 hemerythrins
 hemodialyses
 hemophiliacs
+hempier
 hems
 henotheistic
 hens
@@ -2195,6 +2208,7 @@ herbage
 herringbone
 herringbones
 hesitance
+hetairas
 heterodox
 heterokaryons
 heterologously
@@ -2586,6 +2600,7 @@ khoums
 kiaugh
 kibe
 kiddo
+kidnappers
 kidney
 kidvid
 kill
@@ -2830,6 +2845,7 @@ mantes
 manward
 marblers
 marguerite
+marine
 market
 marketing
 markhoors
@@ -2839,6 +2855,7 @@ martyrly
 martyrologists
 martyrology
 masjids
+masochistically
 mass
 massacrers
 massifs
@@ -2949,6 +2966,7 @@ miked
 milia
 milieu
 milieux
+militarily
 military
 millennium
 millihenry
@@ -3581,6 +3599,7 @@ phenetoles
 phenolated
 phenotypically
 phentolamines
+philanthropy
 philhellenists
 philologists
 phlorizin
@@ -3593,6 +3612,7 @@ phosphorolytic
 phosphoryl
 photoautotroph
 photochemistry
+photomapped
 photonegative
 photoperiodisms
 phototypes
@@ -3692,6 +3712,7 @@ polychromy
 polydispersity
 polygamized
 polymathy
+polymeric
 polymorphously
 polyptychs
 polypuses
@@ -3781,6 +3802,7 @@ presider
 presifts
 pressurised
 presumingly
+presynaptic
 presynaptically
 pretasting
 prevalent
@@ -3925,6 +3947,7 @@ raftered
 raggies
 raia
 railcar
+railer
 railheads
 rainouts
 ramiform
@@ -4265,6 +4288,7 @@ saleable
 salicine
 salicylate
 salients
+salifying
 salina
 salmonellosis
 saloon
@@ -4486,6 +4510,7 @@ sipe
 sirdars
 sirventes
 sistroid
+sitology
 situate
 siziness
 skater
@@ -4707,6 +4732,7 @@ strawworm
 streak
 stressor
 stressors
+stretchiest
 stretta
 strewers
 strewing
@@ -4957,6 +4983,7 @@ theologised
 theophylline
 thermic
 thermochemists
+thermograph
 thermopile
 thermoregulate
 thermoregulated
@@ -4982,6 +5009,7 @@ thromboplastic
 thromboxane
 throughither
 thrusters
+thus
 thymic
 thymiest
 thymol
@@ -5004,6 +5032,7 @@ tippable
 tipped
 tipster
 tipsters
+tirades
 titers
 toadfishes
 toady
@@ -5139,6 +5168,8 @@ turistas
 turnbuckles
 turncoat
 turners
+tussis
+tutting
 tutus
 twelfth
 twerps
@@ -5152,6 +5183,7 @@ tyrocidine
 tzarism
 udometer
 uitlanders
+ulnad
 ulpanim
 ultimacies
 ultraexclusive
@@ -5314,6 +5346,7 @@ upslope
 uptakes
 upturned
 urbaner
+urge
 urinalysis
 urinators
 uroscopies
@@ -5329,6 +5362,7 @@ valpolicellas
 vambraces
 vandalise
 vandalisms
+vanpoolings
 vapidness
 vaporer
 vaporous
@@ -5461,6 +5495,7 @@ whippier
 whipworm
 whirred
 whiskered
+white
 whiteflies
 whitens
 whitewash
