@@ -355,6 +355,7 @@ baptismally
 bareboat
 bareboned
 baritone
+barium
 barny
 barograph
 baronetage
@@ -449,6 +450,7 @@ bizones
 blackberries
 blackbirds
 blackboys
+blackguarded
 blacksmithing
 blacksmithings
 blacktop
@@ -515,6 +517,7 @@ bracelet
 brach
 brachial
 bracingly
+bracketing
 brackish
 bradycardia
 branchia
@@ -689,6 +692,7 @@ ceibas
 celibacies
 censer
 centenarians
+centesimal
 centimorgans
 centriole
 centrioles
@@ -818,6 +822,7 @@ cockered
 cockspur
 cockup
 cocultivated
+cocurators
 coeffect
 coercibly
 coexecutor
@@ -968,6 +973,7 @@ countryman
 couplet
 courtesies
 covalences
+coverage
 covetable
 cowardliness
 cowflop
@@ -1126,6 +1132,7 @@ definitenesses
 definitives
 deflates
 deflation
+deflecting
 defoliate
 defraggers
 degami
@@ -1279,6 +1286,7 @@ dogrobbers
 dogtrot
 dogtrotting
 dolomitized
+doloroso
 dominium
 donating
 dongolas
@@ -1308,6 +1316,7 @@ dozening
 dozy
 drafting
 dragstrips
+dramas
 draughts
 drawee
 drawshave
@@ -1722,6 +1731,7 @@ freckles
 freeholders
 freer
 freewriting
+frena
 freneticism
 frenums
 frequentation
@@ -1733,6 +1743,7 @@ frillers
 friskers
 fritillary
 froghoppers
+froglets
 frontpaging
 fryable
 frybreads
@@ -1872,6 +1883,7 @@ grizzlier
 grocery
 grommeting
 groovier
+groovy
 grotesquenesses
 ground
 groundfish
@@ -2001,6 +2013,7 @@ hillbilly
 hinder
 hinkier
 hippy
+hitchhiking
 hoatzines
 hocker
 hogtied
@@ -2008,6 +2021,7 @@ holddowns
 holdovers
 holistically
 holoblastic
+holotype
 holotypic
 holstered
 homeomorphic
@@ -2166,6 +2180,7 @@ inflammatory
 inflating
 infracting
 infrequent
+infringement
 ingenuousnesses
 inhabitable
 inheritresses
@@ -2276,6 +2291,7 @@ jawbreaker
 jazzer
 jealousness
 jefe
+jelly
 jemidars
 jeopardised
 jessamine
@@ -2290,6 +2306,7 @@ jigglier
 jiggling
 jimmies
 jitteriness
+jointresses
 jojobas
 jollier
 joseph
@@ -2420,6 +2437,7 @@ lees
 leeways
 leg
 legal
+legendarily
 legends
 legislatives
 legitimatizing
@@ -2842,6 +2860,7 @@ navicert
 nawabs
 neap
 nears
+nebulously
 necessitarian
 necker
 necklaces
@@ -3032,6 +3051,7 @@ ottavas
 ourang
 ourself
 outachieves
+outadd
 outbeam
 outbid
 outbidder
@@ -3105,6 +3125,7 @@ overwily
 ovoid
 ovonics
 ownerships
+oxcart
 oxims
 ozonations
 pachyderms
@@ -3375,6 +3396,7 @@ poulter
 poulterer
 pourable
 pouring
+pouters
 practised
 prangs
 preadaptive
@@ -3391,6 +3413,7 @@ preconizing
 predetermine
 predicates
 prednisolones
+preexempts
 preexposes
 pregenital
 prehandle
@@ -3484,6 +3507,7 @@ pudibund
 pugginesses
 puggries
 pulicide
+pullouts
 pulps
 puncher
 punctiliously
@@ -3504,6 +3528,7 @@ pushes
 pussyfoot
 putsches
 puttees
+pycnotic
 pyramid
 pyrotechnical
 quadrate
@@ -3717,6 +3742,7 @@ resister
 resistors
 resizing
 resketched
+resojets
 resowed
 respelt
 respirometry
@@ -3863,7 +3889,9 @@ sapodilla
 sarcology
 sardonic
 satays
+satiating
 satisfier
+saturate
 saunaed
 savagenesses
 savants
@@ -4039,6 +4067,7 @@ simmers
 simoniacal
 simulant
 since
+sipe
 sirdars
 sistroid
 situate
@@ -4144,6 +4173,7 @@ spectinomycin
 spectroscopes
 speedster
 spelean
+spendable
 spermary
 spermic
 spermicides
@@ -4321,6 +4351,7 @@ superlativeness
 superluxury
 superplasticity
 superpremium
+superrealisms
 supersecrecy
 supersleuth
 superspecialist
@@ -4446,14 +4477,17 @@ tepoy
 teratologist
 terete
 terminal
+terne
 territorial
 terrorizations
+tertiaries
 testees
 testudines
 tetherballs
 tetrahedrally
 tetrode
 textbooks
+textures
 thalassaemias
 theatricals
 thenages
@@ -4626,6 +4660,7 @@ turistas
 turncoat
 turners
 tutus
+twelfth
 twerps
 twilight
 twilling

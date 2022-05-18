@@ -1,0 +1,4 @@
+accountsservice 0.6.55-0ubuntu13 acl 2.2.53-8 acpi-support 0.143 ...,https://mirror.coganng.com/ubuntu-cdimage/groovy/ubuntu-20.10-desktop-amd64.manifest
+accountsservice 0.6.55-0ubuntu13 adduser 3.118ubuntu2 alsa ...,https://mirror.iranserver.com/ubuntu-iso/groovy/ubuntu-20.10-live-server-amd64.manifest
+org.eclipse.virgo.util.osgi.manifest for Maven & Gradle - @org ...,https://mavenlibs.com/maven/dependency/org.eclipse.virgo.util/org.eclipse.virgo.util.osgi.manifest
+devtools/build/.build.manifest ...,https://hexang.org/fuchsia-mirror/fuchsia.googlesource.com-third_party-dart-pkg/-/blob/ab1404819412416622d745700b4db0c1e278cbb3/devtools/build/.build.manifest
