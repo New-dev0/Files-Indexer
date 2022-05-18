@@ -1,0 +1,3 @@
+WorkItem/Linking/WorkItem_Linking.ps1 2.0.0-beta0006,https://www.powershellgallery.com/packages/TfsCmdlets/2.0.0-beta0006/Content/WorkItem%255CLinking%255CWorkItem_Linking.ps1
+import-ExchangeURLs.ps1 1.6.1 - PowerShell Gallery,https://www.powershellgallery.com/packages/Import-ExchangeURLs/1.6.1/Content/import-ExchangeURLs.ps1
+Framework/Core/SVT/ADO/ADO.Build.ps1 1.13.0 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/AzSKPreview.ADO/1.13.0/Content/Framework%255CCore%255CSVT%255CADO%255CADO.Build.ps1
