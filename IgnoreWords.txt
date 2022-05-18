@@ -96,6 +96,7 @@ affirmable
 affirmants
 affrighted
 aft
+afterclap
 afterlives
 afterpains
 afterworld
@@ -153,6 +154,8 @@ aluminate
 aluminums
 amasser
 amaze
+ambroids
+ambulating
 ameloblast
 amethyst
 amidones
@@ -275,6 +278,7 @@ assignat
 assoiling
 assumer
 asthenosphere
+asthenospheres
 astraddle
 astringent
 asyndetons
@@ -374,6 +378,7 @@ begrudge
 beigy
 beldams
 beliquoring
+belletristic
 bemata
 bemock
 beneficial
@@ -436,6 +441,7 @@ blamelessnesses
 bland
 blander
 blanketlike
+blasphemies
 blasties
 blastiest
 blastulas
@@ -815,6 +821,7 @@ comeliest
 comforts
 commends
 commercialized
+commissioned
 common
 commove
 commune
@@ -968,6 +975,7 @@ crosstrees
 crowd
 crowdy
 cruciform
+crumminesses
 crumpet
 crumps
 crusading
@@ -1040,6 +1048,7 @@ daunomycins
 dawning
 dawt
 daydreaming
+daylighted
 deaconess
 deaconing
 deactivate
@@ -1086,6 +1095,7 @@ defoliate
 defraggers
 degami
 dehisce
+deinonychuses
 delaine
 delicts
 delightedness
@@ -1111,6 +1121,7 @@ depictions
 deplorer
 depoliticize
 deprecatingly
+depressive
 derats
 dermas
 dermatoglyphics
@@ -1431,6 +1442,7 @@ esne
 essentialnesses
 esthesis
 estivator
+estovers
 estranger
 estreats
 estrums
@@ -1641,6 +1653,7 @@ foremanship
 foreseer
 forestaysails
 forever
+forge
 forgetters
 formals
 formic
@@ -1703,6 +1716,7 @@ gainsays
 galiots
 galliasses
 galloper
+galvanises
 galvanometers
 gamodeme
 ganevs
@@ -2117,6 +2131,7 @@ inoperable
 inosculated
 inquirer
 insensitivities
+insignificancy
 insincere
 insister
 insisters
@@ -2185,12 +2200,14 @@ isogonic
 issuers
 italicizes
 iterant
+ivory
 izars
 jackfruits
 jacobuses
 jalapenos
 jammed
 japonica
+jardiniere
 jargonist
 jargonistic
 jargoons
@@ -2256,6 +2273,7 @@ keratitises
 kerchoo
 keynote
 keypad
+khets
 khoums
 kiaugh
 kibe
@@ -2282,6 +2300,7 @@ knobbly
 knots
 knurl
 kolbasis
+kolkhozniks
 kombus
 koppie
 kotlin
@@ -2381,6 +2400,7 @@ lipin
 liquates
 liquid
 listable
+listerioses
 literalize
 lithophytes
 litterbag
@@ -2547,6 +2567,7 @@ meteorological
 meteorology
 methylase
 metis
+mettle
 mezuza
 miasmic
 micra
@@ -2816,6 +2837,7 @@ nonconform
 nonconsumer
 noncore
 nondescriptive
+nondialyzable
 nondocumentary
 noneducational
 nonevidences
@@ -2997,6 +3019,7 @@ overregulates
 overroasts
 oversalted
 oversalts
+oversee
 overseeding
 oversensitive
 overstays
@@ -3124,6 +3147,7 @@ petechia
 petnaping
 phaeton
 phalansteries
+phalli
 pharmacist
 pharmacologist
 phenetoles
@@ -3295,6 +3319,7 @@ preprices
 preps
 prepuberties
 prerectal
+prerenal
 prescreened
 prescribe
 preshape
@@ -3495,6 +3520,7 @@ reducer
 reducibly
 reducing
 redwing
+reedlike
 reefable
 reembarked
 reemploy
@@ -3580,6 +3606,7 @@ repenter
 replicons
 replunging
 reprehensive
+repriced
 reprints
 repurposes
 rerolls
@@ -3743,6 +3770,7 @@ savants
 savoy
 saxitoxins
 saxophonists
+sayest
 sayings
 scagliolas
 scale
@@ -3976,6 +4004,7 @@ sokol
 soldierships
 solecise
 solecised
+solei
 soleprint
 solicitude
 solidarisms
@@ -4024,6 +4053,7 @@ spiraled
 spirometer
 spite
 spitfire
+splicers
 splined
 splines
 spodes
@@ -4116,6 +4146,7 @@ stubborn
 studio
 stuffing
 stunner
+sturdier
 stylitic
 stylized
 stylizing
@@ -4328,6 +4359,7 @@ thromboembolic
 thromboplastic
 throughither
 thymic
+thymiest
 thyroiditises
 tiaras
 ticals
@@ -4605,6 +4637,7 @@ upboiled
 upbound
 upbow
 upby
+upflinging
 upheave
 uphold
 uphroe
@@ -4624,6 +4657,7 @@ urped
 uteruses
 uvarovite
 vacant
+vaccinas
 valeted
 validating
 valpolicellas
@@ -4677,6 +4711,7 @@ villas
 vina
 vincible
 vinosity
+viols
 virtueless
 virusoids
 visiting
