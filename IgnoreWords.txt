@@ -192,6 +192,7 @@ analytic
 anaphora
 anaphrodisiacs
 anatropous
+ancestored
 ancientries
 androgynous
 angosturas
@@ -580,6 +581,7 @@ bronchiectases
 broncobuster
 bronzings
 broodily
+brosy
 brownstones
 browsed
 brushability
@@ -652,6 +654,7 @@ camerae
 cames
 campagna
 campiest
+campiness
 campo
 canape
 canasta
@@ -738,6 +741,7 @@ centriole
 centrioles
 centrosymmetric
 centupling
+ceps
 ceremonialism
 ceruloplasmins
 chacma
@@ -812,6 +816,7 @@ cinephiles
 circumambulate
 circumlunar
 circumnavigated
+circumscissile
 circumspections
 circumvallate
 circumventions
@@ -985,6 +990,7 @@ cookstove
 cooperatively
 coots
 copartners
+copay
 cope
 coprocessor
 coproducts
@@ -1038,6 +1044,7 @@ crablike
 crabstick
 cradler
 craftinesses
+crafting
 cram
 cramp
 crampfish
@@ -1097,6 +1104,7 @@ curite
 curler
 curragh
 cursivenesses
+curtailers
 curtalax
 curtest
 curule
@@ -1109,6 +1117,7 @@ cutthroats
 cyanamide
 cyanoacrylates
 cyber
+cybernated
 cyclecars
 cyclings
 cyclitol
@@ -1180,6 +1189,7 @@ decrescent
 decryptions
 decrypts
 decupling
+defalcating
 defatted
 defeater
 defeatures
@@ -1289,6 +1299,7 @@ diphosphates
 diphyletic
 diploblastic
 diploid
+dipnoans
 dipsticks
 dipteran
 dipterans
@@ -1352,6 +1363,7 @@ dogmatize
 dogrobbers
 dogtrot
 dogtrotting
+dolomites
 dolomitized
 doloroso
 dominium
@@ -1501,6 +1513,7 @@ endoderm
 endosperms
 endostea
 energetically
+enflaming
 enfolders
 engraft
 engramme
@@ -1757,12 +1770,14 @@ flowerful
 fluoresce
 fluoric
 fluorimetries
+flurry
 fluxional
 fluyts
 flyaways
 flyoff
 flyovers
 fogbound
+fogdogs
 foggiest
 fogyish
 foils
@@ -1840,6 +1855,7 @@ fulfilments
 fulleries
 fumers
 fumigates
+functor
 fundic
 funfairs
 funninesses
@@ -2088,6 +2104,7 @@ hemerythrins
 hemodialyses
 hemophiliacs
 hems
+henotheistic
 hens
 hented
 henting
@@ -2114,6 +2131,7 @@ hightops
 hillbilly
 hinder
 hinkier
+hipbone
 hippy
 hitchhiking
 hoatzines
@@ -2978,6 +2996,7 @@ muskrats
 musquashes
 mussinesses
 mustily
+mycologists
 myelofibroses
 myelomata
 myelomatous
@@ -3031,6 +3050,7 @@ neuroanatomists
 neurobiologist
 neurochemical
 neurologies
+neutrons
 nevi
 nevus
 newfangled
@@ -3132,6 +3152,7 @@ oblateness
 obligato
 obliterator
 obol
+obscured
 obsession
 occlusions
 occupy
@@ -3283,6 +3304,7 @@ oversensitive
 overstays
 overstretches
 overtalking
+overwatch
 overwatched
 overwhelms
 overwily
@@ -3428,6 +3450,7 @@ phalansteries
 phalli
 pharmacist
 pharmacologist
+phenate
 phenetoles
 phenolated
 phenotypically
@@ -3533,6 +3556,7 @@ polenta
 polite
 politicises
 polo
+pols
 polybutadiene
 polychromy
 polydispersity
@@ -3801,6 +3825,7 @@ recement
 reception
 receptivities
 recepts
+rechecked
 rechoosing
 recirculations
 recleans
@@ -4110,6 +4135,7 @@ satays
 satiating
 satisfier
 saturate
+saturators
 saunaed
 savagenesses
 savagery
@@ -4185,6 +4211,7 @@ seductress
 sedums
 seedcakes
 seeling
+seemliest
 seepiest
 seicento
 seise
@@ -4313,6 +4340,7 @@ slacks
 slaggiest
 slakers
 slaved
+slavish
 slaw
 slily
 slimly
@@ -4674,6 +4702,7 @@ tamer
 tamper
 tams
 tandem
+tangibilities
 tangier
 tankless
 tantalates
@@ -4687,6 +4716,7 @@ taskworks
 tassel
 tasteful
 tattle
+taurine
 tawse
 taxa
 taximeter
@@ -4718,6 +4748,7 @@ tentmaker
 tentorial
 tenuity
 tephra
+tephrites
 tepoy
 teratologist
 terete
@@ -4863,6 +4894,7 @@ trichologists
 trichopterans
 trickster
 tricorne
+trifled
 trifocals
 trifold
 triform
@@ -4879,6 +4911,7 @@ triode
 trioxids
 triples
 tripletail
+tripodies
 tripody
 trisome
 tritheistical
@@ -5128,6 +5161,7 @@ verandahed
 verandahs
 verbenas
 verdured
+veritablenesses
 vermilioning
 vesiculae
 vesiculation
@@ -5241,6 +5275,7 @@ wigwagger
 wilders
 wildfowlings
 wildings
+wilinesses
 wimpling
 winched
 windchills

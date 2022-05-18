@@ -1,0 +1,9 @@
+neutron/tox.ini at master - OpenDev: Free Software Needs Free Tools,https://opendev.org/openstack/neutron/src/branch/master/tox.ini
+Euphonic/tox.ini at master - GitHub,https://github.com/pace-neutrons/Euphonic/blob/master/tox.ini
+mantid_total_scattering/tox.ini at next - GitHub,https://github.com/neutrons/mantid_total_scattering/blob/next/tox.ini
+"[tox] envlist = docs,py38,pep8 minversion = 3.18.0 skipsdist = True ...",https://git.openstack.org/cgit/openstack/neutron/plain/tox.ini
+…/ContrailPlugin.ini · Gerrit Code Review,https://gerrit.tungsten.io/r/c/tungstenfabric/tf-neutron-plugin/%2B/58596/1/etc/neutron/plugins/opencontrail/ContrailPlugin.ini
+the Fresh Open Source Software Archive - Fossies,https://fossies.org/linux/misc/openstack/neutron-18.3.0.tar.gz/neutron-18.3.0/etc/oslo-config-generator/macvtap_agent.ini
+the Fresh Open Source Software Archive - Fossies,https://fossies.org/linux/misc/openstack/neutron-18.3.0.tar.gz/neutron-18.3.0/etc/oslo-config-generator/metering_agent.ini
+etc/dhcp_agent.ini - opendev/openstack/neutron - Gitiles,https://gerrit.nordix.org/plugins/gitiles/opendev/openstack/neutron/%2B/05fbc0415edaa285b2c8b2573a72d2bd55925d81/etc/dhcp_agent.ini
+/etc/neutron/vpn_agent.ini - APT Browse,https://www.apt-browse.org/browse/ubuntu/trusty/main/all/neutron-common/1:2014.1-0ubuntu1/file/etc/neutron/vpn_agent.ini
