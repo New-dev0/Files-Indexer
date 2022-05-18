@@ -1,0 +1,2 @@
+version 2022.03.10 # usage: ./backupNow.ps1 -vip mycluster -vip2 ...,https://raw.githubusercontent.com/bseltz-cohesity/scripts/master/powershell/backupNow/backupNow.ps1
+GroupByAndMeasure.ps1 1.4.1 - PowerShell Gallery,https://www.powershellgallery.com/packages/PSKit/1.4.1/Content/GroupByAndMeasure.ps1
