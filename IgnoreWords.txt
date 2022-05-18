@@ -396,6 +396,7 @@ bedarkened
 bedarkening
 bedboard
 bedridden
+bedrugged
 beekeepings
 beeswings
 beetling
@@ -465,7 +466,9 @@ birdbrain
 birdfarm
 birefringent
 bisect
+bisectrices
 bisnaga
+bisulfates
 bitchery
 bitchiest
 bittering
@@ -496,6 +499,7 @@ blooper
 blossoms
 blubberer
 bluebeards
+blueish
 bluely
 bluenosed
 boarder
@@ -550,6 +554,7 @@ bracketing
 brackish
 bradycardia
 branchia
+branchier
 brander
 brashnesses
 breading
@@ -726,6 +731,7 @@ catalpa
 catalyses
 catamarans
 catamite
+catcher
 catchiest
 catechise
 catechismal
@@ -737,6 +743,7 @@ caymans
 ceibas
 celibacies
 censer
+centaurs
 centenarians
 centesimal
 centimorgans
@@ -942,6 +949,7 @@ compunctious
 computerized
 comradeships
 conceptualists
+concessionaire
 conchologists
 conciliar
 condolence
@@ -1071,6 +1079,7 @@ cripe
 crisper
 criticizers
 crojiks
+croqueting
 crosscutting
 crosse
 crossers
@@ -1118,6 +1127,7 @@ cuspis
 custodian
 cutability
 cutthroats
+cutwork
 cyanamide
 cyanoacrylates
 cyber
@@ -1209,6 +1219,7 @@ deflation
 deflecting
 defoliate
 defraggers
+defuzed
 degami
 dehisce
 deinonychuses
@@ -1511,6 +1522,7 @@ empressement
 emu
 enchant
 enchase
+enchaser
 enciphers
 encouragement
 encumbrancer
@@ -1706,10 +1718,12 @@ felstones
 feme
 feminizations
 fenagles
+fencelessnesses
 fencings
 ferrimagnetisms
 feruled
 feted
+fetidity
 fetidly
 feudalizations
 fever
@@ -1819,6 +1833,7 @@ formals
 formic
 formlessness
 forthrightly
+fortissimos
 fortnightlies
 foscarnets
 fosterers
@@ -1900,6 +1915,7 @@ garlickier
 garoted
 garron
 garroter
+garrotte
 garrulous
 garrulously
 gasification
@@ -1937,6 +1953,7 @@ glamorizers
 glamorousness
 glassily
 glassmaking
+glasspapers
 glint
 glintiest
 globefish
@@ -3044,6 +3061,7 @@ nebulously
 necessitarian
 necker
 necklaces
+neckpieces
 necromancy
 negates
 negligee
@@ -3211,6 +3229,7 @@ oppugning
 optimization
 optimizes
 optionalities
+orangeade
 ordinaries
 ordnance
 organiser
@@ -3263,6 +3282,7 @@ outintrigue
 outjump
 outkissed
 outlaid
+outlaughing
 outline
 outmuscle
 outpatients
@@ -3287,6 +3307,7 @@ overcompresses
 overcool
 overcorrecting
 overcrops
+overcrowds
 overdeveloped
 overdrinking
 overdyeing
@@ -3682,6 +3703,7 @@ prigging
 primed
 primine
 prioritizations
+privies
 proactions
 probities
 proboscis
@@ -3833,6 +3855,7 @@ reaccenting
 realpolitik
 reamer
 reapply
+rearouse
 reassumed
 reattachment
 reattachments
@@ -3863,6 +3886,7 @@ reconsolidating
 reconvictions
 recooked
 recoupe
+recreating
 recruiter
 rectification
 rectifying
@@ -3876,6 +3900,7 @@ redates
 redelivering
 redeployed
 redigesting
+redigestion
 redigestions
 redis
 redo
@@ -4041,6 +4066,7 @@ reverberates
 reversibility
 revertant
 revertants
+revery
 revibrates
 revisions
 revitalizing
@@ -4063,6 +4089,7 @@ ridged
 ridgels
 ridings
 riesling
+rifampin
 riffler
 rifle
 riflebirds
@@ -4194,6 +4221,7 @@ scincoid
 sciolist
 scolders
 scolioma
+sconcheons
 scorches
 scorekeepers
 scotched
@@ -4203,6 +4231,7 @@ scowdered
 scrannels
 scrawniest
 screaked
+screaks
 screech
 screenfuls
 screenlands
@@ -4624,6 +4653,7 @@ subwriter
 succeeds
 suckle
 suctional
+sudaries
 sugarberries
 suggesters
 suite
@@ -4688,6 +4718,7 @@ sycophantic
 sycophantisms
 syllabled
 symbiosis
+symbols
 synanon
 synarthroses
 syncarp
@@ -5000,6 +5031,7 @@ ultraexclusive
 ultramodernists
 ultravacua
 umami
+umbones
 umping
 unaesthetic
 unambiguous
@@ -5187,6 +5219,8 @@ venenes
 vengefulnesses
 venins
 venographies
+venoms
+ventilating
 ventriloquism
 venules
 verandahed
@@ -5405,6 +5439,7 @@ zaikais
 zanders
 zarebas
 zastrugi
+zebrafishes
 zebrano
 zebras
 zechin
