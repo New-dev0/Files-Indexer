@@ -94,6 +94,7 @@ aerograms
 aerosolizing
 affirmable
 affirmants
+affirmatively
 affrighted
 aft
 afterclap
@@ -170,6 +171,7 @@ ampoules
 ampuls
 amputates
 amritas
+amygdule
 amylases
 amyloids
 amyls
@@ -191,6 +193,7 @@ announcers
 anorak
 anorexia
 anorthosites
+antalkalis
 anthologizers
 antianxiety
 antiars
@@ -217,6 +220,7 @@ antisleep
 antisnob
 antitrade
 antitragi
+antiviral
 apanage
 apathetic
 apetalous
@@ -412,11 +416,13 @@ bijection
 biked
 bilker
 billets
+billies
 bimester
 bimethyls
 bindingnesses
 bioassay
 biodegradations
+biofoulers
 biographic
 biohazard
 biometricians
@@ -608,6 +614,7 @@ cankers
 cannabin
 cannibalistic
 cannibalization
+cannie
 canoeable
 canoeists
 canonised
@@ -691,6 +698,7 @@ chappati
 chapping
 charcoaling
 charities
+charladies
 charmed
 charmeuse
 chaseable
@@ -937,6 +945,7 @@ cortisone
 coryneform
 coscripted
 coteries
+cottons
 coulometries
 counterordering
 counterpart
@@ -1139,6 +1148,7 @@ derry
 desalinizing
 descender
 descriptor
+desensitized
 deserter
 deservings
 desirousnesses
@@ -1322,6 +1332,7 @@ dwining
 dykes
 dynatron
 dysgeneses
+dysphagia
 dysphagias
 dystopias
 eagers
@@ -1459,6 +1470,7 @@ estreats
 estrums
 ethnographers
 ethnologies
+eths
 ethynyls
 etiolations
 etiologically
@@ -1617,6 +1629,7 @@ flehmens
 fleshless
 flimsinesses
 flinted
+flintiness
 flited
 floatages
 floatation
@@ -1723,6 +1736,7 @@ futzed
 gabardine
 gabs
 gaffing
+gaggling
 gainfully
 gainsays
 galiots
@@ -1879,6 +1893,7 @@ habitualness
 habituating
 habituation
 hadji
+hadron
 haematin
 haems
 haft
@@ -1934,6 +1949,7 @@ height
 heinously
 heliotrope
 helium
+hellish
 helots
 hemacytometers
 hemodialyses
@@ -2238,6 +2254,7 @@ jefe
 jemidars
 jeopardised
 jessamine
+jesting
 jesuitical
 jetbead
 jetports
@@ -2332,6 +2349,7 @@ lag
 lairdships
 laitances
 lakier
+lambers
 lamebrained
 lamellar
 laminator
@@ -2578,6 +2596,7 @@ metaling
 metalliferous
 metallurgical
 metalworks
+metastatically
 metathoracic
 metazoa
 meteorological
@@ -2675,6 +2694,7 @@ mitochondrion
 mitrewort
 mitsvoth
 mizzenmasts
+moat
 mobcap
 mockers
 modelings
@@ -3131,6 +3151,7 @@ penetrable
 penetrates
 penniless
 pensil
+penster
 pentagon
 pentangle
 pentaploids
@@ -3295,6 +3316,7 @@ possessors
 postbellum
 postdoctoral
 postdoctorate
+posted
 posterns
 posthaste
 postmastectomy
@@ -3333,6 +3355,7 @@ prehandle
 prelegal
 preluding
 prematurenesses
+premillenarian
 premold
 prepared
 preprices
@@ -3351,6 +3374,7 @@ presider
 presifts
 pressurised
 presumingly
+presynaptically
 pretasting
 prevalent
 prevaricate
@@ -3473,6 +3497,7 @@ radiolarian
 radiotelephones
 raffinate
 raftered
+raggies
 raia
 railcar
 railheads
@@ -3721,6 +3746,7 @@ roam
 rocambole
 rockhopper
 rockhounds
+roger
 roguishnesses
 rolfer
 romans
@@ -3766,6 +3792,7 @@ salicine
 salicylate
 salients
 salina
+salmonellosis
 saloon
 salts
 salutary
@@ -3882,6 +3909,7 @@ semiological
 semipopular
 sempervivum
 sempiternities
+sennights
 senor
 sensationalise
 sensitise
@@ -4228,6 +4256,7 @@ superagency
 superambitious
 superconvenient
 superefficient
+superhits
 superintend
 superintendents
 superintends
@@ -4288,6 +4317,7 @@ syntagms
 sysop
 tabbouleh
 tabernacles
+tabid
 tableaus
 tabulable
 tachycardias
@@ -4473,6 +4503,7 @@ trawlnets
 treehopper
 trenail
 trendies
+tribades
 trichologists
 trichopterans
 trickster
@@ -4604,6 +4635,7 @@ unfit
 unfledged
 ungula
 unhallow
+unhandsome
 unhanging
 unhealthinesses
 unheroic
@@ -4750,6 +4782,7 @@ virtueless
 virusoids
 visiting
 visualizations
+vita
 vitamins
 vitric
 vivaces
@@ -4863,6 +4896,7 @@ woodsias
 woodstoves
 woof
 wordplays
+words
 workaday
 workbox
 worked
@@ -4898,6 +4932,7 @@ yawed
 yawn
 yawners
 yearbook
+yeasayers
 yegg
 yellowtail
 yellowthroat
