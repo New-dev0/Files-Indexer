@@ -248,6 +248,7 @@ antiromantic
 antiseparatist
 antiseptics
 antisleep
+antismut
 antisnob
 antitax
 antitrade
@@ -292,6 +293,7 @@ arc
 archaizes
 archangel
 archeology
+archly
 archrivals
 ardently
 are
@@ -575,6 +577,7 @@ boiled
 boilersuits
 boinked
 bolas
+boldly
 bolivars
 bollard
 bomblet
@@ -783,6 +786,7 @@ cardiogenic
 cardiographs
 cardiologists
 cardsharper
+careerists
 careers
 carelessly
 caribes
@@ -1123,6 +1127,7 @@ convexes
 conveyances
 conveyors
 conviction
+convincingness
 convoke
 cooing
 cookstove
@@ -1172,6 +1177,7 @@ counterordering
 counterpart
 countersigning
 countryman
+couples
 couplet
 courtesies
 covalences
@@ -1241,6 +1247,7 @@ cue
 cuing
 cuishes
 cuisinarts
+culet
 cullay
 cullenders
 culpa
@@ -1782,6 +1789,7 @@ epicedium
 epicenism
 epifaunas
 epiglottal
+epigrammatic
 epigrammatists
 epigynous
 epileptically
@@ -1878,6 +1886,7 @@ expertness
 expiratory
 explodes
 expose
+expulsed
 expulses
 expunged
 exsect
@@ -2007,6 +2016,7 @@ fleche
 fledged
 fleecer
 flehmens
+flensing
 fleshless
 flimflammery
 flimsinesses
@@ -2035,6 +2045,7 @@ fluyts
 flyaways
 flyoff
 flyovers
+foamflower
 fogbound
 fogdogs
 foggiest
@@ -2338,6 +2349,7 @@ habitualness
 habituating
 habituation
 hacksawing
+hadjee
 hadji
 hadron
 haematin
@@ -2577,6 +2589,7 @@ imperviously
 impish
 implausibility
 implead
+imprecation
 impregnableness
 impregnators
 impregns
@@ -2605,6 +2618,7 @@ inclipping
 incognitos
 inconscient
 inconsonances
+incoordination
 incorporation
 incorrectness
 incorruptibles
@@ -2805,6 +2819,7 @@ jubilate
 juddered
 judgmatical
 judicial
+jugula
 juking
 julienned
 juncoes
@@ -2828,6 +2843,7 @@ karats
 kaross
 karyology
 karyotins
+kasbahs
 katcinas
 kauris
 kebab
@@ -3009,6 +3025,7 @@ litterbags
 litterer
 littlest
 liturgiologist
+liveliest
 lixivia
 loadings
 loamless
@@ -3171,6 +3188,7 @@ melilots
 meliorating
 melodramatizes
 melon
+melons
 meltdowns
 melton
 mementoes
@@ -3320,6 +3338,7 @@ modelings
 modifications
 mofette
 mofettes
+molar
 molars
 moldboard
 moldboards
@@ -3333,9 +3352,11 @@ monadnock
 monarchists
 monaxons
 money
+monitions
 monkfishes
 monoacids
 monoclonal
+monocots
 monofils
 monogamic
 monogyny
@@ -3590,6 +3611,7 @@ nuptialities
 nurling
 nutmeg
 obeah
+obeli
 obeys
 obfuscations
 objurgates
@@ -3614,6 +3636,7 @@ oedemata
 oersteds
 offended
 offenses
+offerors
 offprinted
 ogee
 oiling
@@ -3792,6 +3815,7 @@ pachyderms
 pacifical
 pacificators
 pacifistically
+packager
 packman
 packwax
 paeons
@@ -3991,6 +4015,7 @@ pickinesses
 picrite
 pictorialism
 pictorializes
+pietistic
 pietistically
 pigeonites
 pigged
@@ -4262,6 +4287,7 @@ psychotherapist
 pteranodon
 ptyalin
 publicized
+publicizes
 publisher
 pucker
 pudibund
@@ -4276,6 +4302,7 @@ punchinellos
 punctiliously
 punishing
 punkinesses
+punt
 pupil
 puppets
 purchasing
@@ -4671,6 +4698,7 @@ rooming
 rootiest
 rootling
 ropewalks
+roseroot
 rosiest
 rosily
 rosiness
@@ -4899,6 +4927,7 @@ shacklers
 shaddocks
 shadeless
 shadowy
+shads
 shafted
 shaitan
 shammes
@@ -5010,6 +5039,7 @@ slitter
 slivovices
 slobberers
 slope
+slops
 sloshiest
 sloughs
 slowpoke
@@ -5017,6 +5047,7 @@ slubber
 sluffed
 slugged
 sluggishly
+slungshot
 slurban
 smacking
 smidges
@@ -5194,6 +5225,7 @@ stereotypies
 sternutators
 stickfuls
 stiffen
+stigmatist
 stilbenes
 stingless
 stipplings
@@ -5415,6 +5447,7 @@ tambourines
 tambouring
 tamer
 tamper
+tampered
 tams
 tandem
 tang
@@ -5991,6 +6024,7 @@ vincible
 vinosity
 viols
 virtueless
+virtuosities
 virusoids
 vising
 visiting
@@ -6198,6 +6232,7 @@ youngling
 youthen
 yuckiness
 yum
+yupon
 yuppieish
 yuppified
 zaikais
