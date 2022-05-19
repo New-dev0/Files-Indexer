@@ -661,6 +661,7 @@ brisked
 briskly
 briss
 britt
+brittanias
 brittlest
 broadcasted
 broadleaves
@@ -670,6 +671,7 @@ brochure
 brockages
 broidered
 bromating
+brominated
 brominisms
 bromizes
 bronchiectases
@@ -872,6 +874,7 @@ chamise
 champerty
 changeabilities
 changeovers
+changeup
 chap
 chappati
 chapping
@@ -922,6 +925,7 @@ cholo
 chomped
 chopsocky
 chorial
+chorizos
 choruses
 chowed
 christening
@@ -1011,6 +1015,7 @@ cockspur
 cockup
 cocultivated
 cocurators
+codas
 codders
 codeveloper
 codiscoverer
@@ -1063,6 +1068,7 @@ commissioned
 commodifying
 common
 commove
+communality
 commune
 communicator
 community
@@ -1159,6 +1165,7 @@ cope
 coprocessor
 coproducts
 coprophiliac
+copycat
 coralbells
 corbeil
 corequisites
@@ -1468,6 +1475,7 @@ detection
 detentions
 deterge
 deterministic
+dethatching
 detours
 detoxification
 devilfish
@@ -1505,6 +1513,7 @@ diffusionisms
 diffusivenesses
 digenesis
 digitoxins
+dilation
 dilatoriness
 diligently
 dime
@@ -1947,6 +1956,7 @@ faint
 faiths
 falafels
 falsely
+falsettos
 falters
 familiarises
 fanaticized
@@ -2321,6 +2331,7 @@ grassy
 gratings
 gravitinos
 gravity
+graylag
 grayouts
 grazier
 grazings
@@ -2354,6 +2365,7 @@ grues
 gruesomeness
 grumbled
 grumose
+grumps
 grunions
 gruntled
 guayule
@@ -2477,6 +2489,7 @@ hens
 hented
 henting
 herbage
+herd
 herringbone
 herringbones
 hesitance
@@ -2510,6 +2523,7 @@ hogging
 hogtied
 holddowns
 holdovers
+holidays
 holistically
 holoblastic
 holotype
@@ -2619,6 +2633,7 @@ immigrates
 immitigably
 immixture
 immobilize
+immunochemistry
 impactor
 impainted
 imparted
@@ -2971,6 +2986,7 @@ lamellar
 lamellately
 laminator
 lammergeyers
+lampooners
 landslips
 languettes
 lankier
@@ -3067,6 +3083,7 @@ liroth
 listable
 listerioses
 literalize
+lithenesses
 lithophytes
 litterbag
 litterbags
@@ -3128,6 +3145,7 @@ lunies
 luscious
 lustrations
 lustrum
+lutein
 luteotrophins
 lutfisks
 luthern
@@ -3858,6 +3876,7 @@ overshaded
 overstays
 overstretches
 overtalking
+overusing
 overwarmed
 overwatch
 overwatched
@@ -4240,6 +4259,7 @@ preexposes
 prefabbing
 pregenital
 prehandle
+preinform
 prelegal
 preluding
 premanufactured
@@ -4315,6 +4335,7 @@ pronouncers
 pronto
 proofroom
 proofrooms
+propellant
 propending
 prophase
 prophesy
@@ -4393,7 +4414,9 @@ puttees
 pycnotic
 pyramid
 pyramidal
+pyritic
 pyrotechnical
+qabalahs
 quadrate
 quadrivalents
 quadrumvir
@@ -4652,6 +4675,7 @@ reprints
 repristination
 reprobations
 repurposes
+reregister
 rerolls
 res
 resaddling
@@ -4789,6 +4813,7 @@ roundsmen
 roundtable
 roundtables
 roundtrip
+routinely
 rowlocks
 rubaboo
 rubdown
@@ -4820,9 +4845,11 @@ safer
 safest
 sag
 saggaring
+sailboater
 saith
 salaams
 saleable
+salesclerks
 salesperson
 salicine
 salicylate
@@ -4850,6 +4877,7 @@ sandaling
 sandals
 sandbags
 sandiest
+sandstorm
 sanga
 sanitoria
 sannyasin
@@ -5335,6 +5363,7 @@ straws
 strawworm
 streak
 streeker
+streetwise
 streptothricin
 stressor
 stressors
@@ -5457,6 +5486,7 @@ supramolecular
 surbased
 surety
 surfboarding
+surfboards
 surplus
 surprisingly
 surra
@@ -5615,6 +5645,7 @@ textbooks
 textile
 textures
 thalassaemias
+thearchies
 theatricals
 thenages
 theodolite
@@ -6017,6 +6048,7 @@ untowardness
 untraveled
 untreated
 untwisted
+unusable
 unutilized
 unveil
 unwarier
@@ -6069,6 +6101,7 @@ vandalisms
 vanpoolings
 vapidness
 vaporer
+vaporetto
 vaporous
 varicoceles
 vassal
@@ -6221,6 +6254,7 @@ whistlers
 white
 whiteflies
 whitens
+whiteouts
 whitewash
 whitewashing
 whitherward
@@ -6295,6 +6329,7 @@ wrap
 wrath
 wreakers
 wreathe
+wried
 wrier
 wring
 wristwatch

@@ -1,0 +1,7 @@
+Scripts/Get-WiredConnections.ps1 at master · MattiasC85 ... - GitHub,https://github.com/MattiasC85/Scripts/blob/master/OSD/Get-WiredConnections.ps1
+Install-WLANManager/WLANManager.ps1 at master - GitHub,https://github.com/jchristens/Install-WLANManager/blob/master/WLANManager.ps1
+Public/Monitoring/show-cmd.ps1 0.1.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/PowerArubaIAP/0.1.0/Content/Public%255CMonitoring%255Cshow-cmd.ps1
+Examples/Resources/Firewall/2 ... - PowerShell Gallery,https://www.powershellgallery.com/packages/NetworkingDsc/6.0.0.0/Content/Examples%255CResources%255CFirewall%255C2-Firewall_AddFirewallRule_AllParameters.ps1
+Tests/Integration/MSFT_xFirewall.config.ps1 ... - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/xNetworking/2.11.0.0/Content/Tests%255CIntegration%255CMSFT_xFirewall.config.ps1
+".NOTES Author: John Howard, Microsoft Corporation. (Github ...",https://raw.githubusercontent.com/jhowardmsft/docker-w2wCIScripts/d832d1200ef82ac7dfbf937063578c9066b85669/Prepare-CIImage/Prepare-CIImage.ps1
+#Function to get mounted VHD drive letters. Thanks internet for the ...,https://raw.githubusercontent.com/soccerGB/Tools/46737670bed60e9c7be83ca637dc5e26c6db7d39/Azure/prepAzureVHD/CreateAzureVHD.ps1
