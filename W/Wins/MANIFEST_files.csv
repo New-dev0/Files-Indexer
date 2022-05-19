@@ -1,0 +1,9 @@
+build/win/compatibility.manifest - chromium/src - Git at Google,https://chromium.googlesource.com/chromium/src/%2B/master/build/win/compatibility.manifest
+electron/dist_zip.win.x64.manifest at main - GitHub,https://github.com/electron/electron/blob/main/script/zip_manifests/dist_zip.win.x64.manifest
+libhid-win/libhid.dll.intermediate.manifest at master - GitHub,https://github.com/mcuee/libhid-win/blob/master/libhid/Release/libhid.dll.intermediate.manifest
+testdisk_win.exe.manifest\win - testdisk - CGSecurity git repositories,https://git.cgsecurity.org/cgit/testdisk/tree/win/testdisk_win.exe.manifest
+letsencrypt-win-simple/app.manifest - mirrors Lone-Coder - GitCode,https://gitcode.net/mirrors/Lone-Coder/letsencrypt-win-simple/-/blob/dac2e26ce852cffd99b236a96cbd0538f00a3d18/letsencrypt-win-simple/app.manifest
+madscientist/PKG-SNF-SDK-WIN - MicroNeil Gitea,https://code.microneil.com/madscientist/PKG-SNF-SDK-WIN/src/commit/c27948ed69843fe335216e2812e651653bdd43a9/VS2008-archive/SNFMultiDLLExampleCsharp/SNFMultiDLLExampleCsharp/bin/Debug/SNFMultiDLLExampleCsharp.vshost.exe.manifest%3Flang%3Dzh-CN
+Sobo-Audio-testtool-Win-SW/app.manifest · master - ben.chiu - GitLab,https://git.ampacscorp.com.tw/ben.chiu/sobo-audio-testtool-win-sw/-/blob/master/Sobo-Audio-testtool-Win-SW/app.manifest
+flutter-test01 - gitea.tomaskrejci.com,https://openlasertag.org/njord/flutter-test01/blame/commit/4052668770c01409348bcb4c30e5ab3c85d40889/windows/runner/runner.exe.manifest
+uFCoderSimplest/bin/x86/Release/uFr Simplest.vshost.exe.manifest,https://www.d-logic.com/code/nfc-rfid-reader-sdk/ufr-mf-examples-c_sharp/blob/110820077cd848a60905b2780b3138c22ff2cdc2/uFCoderSimplest/bin/x86/Release/uFr%2520Simplest.vshost.exe.manifest
