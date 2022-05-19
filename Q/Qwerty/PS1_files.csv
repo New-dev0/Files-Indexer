@@ -1,0 +1,6 @@
+internal/functions/Get-StringHash.ps1 4.4.9 - PowerShell Gallery,https://www.powershellgallery.com/packages/passwordstate-management/4.4.9/Content/internal%255Cfunctions%255CGet-StringHash.ps1
+Get-StringHash.ps1 0.0.99 - PowerShell Gallery,https://www.powershellgallery.com/packages/passwordstate-management/0.0.99/Content/Get-StringHash.ps1
+.SYNOPSIS Disable Windows Defender Service (WinDefend) Author ...,https://raw.githubusercontent.com/r00t-3xp10it/redpill/main/bin/DisableDefender.ps1
+magic-chunks-dotnetcore/build.ps1 at master - GitHub,https://github.com/sergeyzwezdin/magic-chunks/blob/master/samples/powershell/build.ps1
+Powershellery/blah.ps1 at master - Brainstorming - GitHub,https://github.com/nullbind/Powershellery/blob/master/Brainstorming/blah.ps1
+public/api/Edit-MBSAPIStorageAccount.ps1 ... - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/msp360/1.26.176/Content/public%255Capi%255CEdit-MBSAPIStorageAccount.ps1

@@ -212,6 +212,7 @@ anatropous
 ancestored
 ancientries
 androgynous
+anele
 angler
 angosturas
 animadverts
@@ -275,6 +276,7 @@ apogamic
 apolog
 apomict
 apomicts
+apostils
 apostrophic
 appalled
 appeasement
@@ -347,6 +349,7 @@ astringent
 asyndetons
 atenolol
 atonally
+atopies
 atrocity
 attachers
 attorneyships
@@ -370,6 +373,7 @@ automan
 avellane
 avenger
 avgases
+aviate
 aviates
 aviatrix
 axially
@@ -426,6 +430,7 @@ baronetage
 baronetcies
 bartisan
 basidiomycetous
+basophilia
 bassy
 baste
 batfowls
@@ -1129,6 +1134,7 @@ contemptibility
 contends
 contingencies
 contrabassoon
+contraries
 contredanses
 contribution
 controlled
@@ -1216,7 +1222,9 @@ crampfish
 crankiest
 crassness
 cravened
+crawls
 crazier
+creampuffs
 creamwares
 creaseless
 creditability
@@ -1535,6 +1543,7 @@ disclaimer
 disconformity
 discontentedly
 discos
+discoursed
 disembarrassing
 disenable
 diseur
@@ -1567,6 +1576,7 @@ dissed
 disseisee
 disseminator
 disses
+dissociability
 dissocial
 dissyllable
 distrained
@@ -1593,6 +1603,7 @@ dogtrotting
 dolomites
 dolomitized
 doloroso
+domineered
 dominium
 donating
 dongolas
@@ -1699,6 +1710,7 @@ eccentricities
 ecclesiae
 ecclesiological
 ecclesiology
+echolalias
 eclipser
 ecocatastrophes
 editrix
@@ -1889,10 +1901,12 @@ exemplify
 exemptions
 exenterated
 exertive
+exhaustive
 exhaustlessly
 exhorts
 exilic
 existent
+exonerating
 exonic
 exorbitances
 exospore
@@ -1912,6 +1926,7 @@ exsiccated
 extemporally
 extendednesses
 externals
+extractives
 extrapyramidal
 extravagance
 extravagancy
@@ -2677,6 +2692,7 @@ inertially
 inexpedience
 infantilization
 infantilizing
+infeoffs
 inferable
 infiltrations
 infinitenesses
@@ -3043,6 +3059,7 @@ linier
 linsangs
 lipin
 lipoid
+lippened
 lippers
 liquates
 liquid
@@ -3078,6 +3095,7 @@ lognormality
 logrolls
 lollers
 lomenta
+longe
 longhorns
 longish
 loosestrife
@@ -3583,6 +3601,7 @@ nonbiologists
 noncentral
 nonclogging
 noncolors
+noncombative
 noncoms
 nonconform
 nonconsumer
@@ -4014,6 +4033,7 @@ phalli
 phanerophyte
 pharmacist
 pharmacologist
+phelonia
 phenate
 phenetoles
 phenolated
@@ -4246,6 +4266,7 @@ presider
 presifts
 preslaughter
 pressurised
+prestored
 presumingly
 presynaptic
 presynaptically
@@ -4337,6 +4358,7 @@ publicizes
 publisher
 pucker
 pudibund
+puerperae
 pugginesses
 puggries
 pulicide
@@ -4396,6 +4418,7 @@ quires
 quite
 quittances
 quodlibets
+qwerty
 rabbiting
 rabidnesses
 racemizing
@@ -4737,6 +4760,7 @@ ritually
 rivulets
 roadhouse
 roadkill
+roadster
 roam
 rocambole
 rockhopper
@@ -4908,6 +4932,7 @@ seacrafts
 seafoods
 sealant
 seamanships
+seaquakes
 seascouts
 seatbelts
 seatings
@@ -5053,6 +5078,7 @@ singalongs
 singlestick
 sipe
 sirdars
+sirvente
 sirventes
 sistroid
 sitology
@@ -5068,6 +5094,7 @@ ski
 skidoo
 skids
 skilled
+skimping
 skinflint
 skippering
 skirrs
@@ -5396,6 +5423,7 @@ sundowning
 sundrops
 superagency
 superambitious
+superbank
 superbomber
 superclasses
 superconvenient
@@ -5623,6 +5651,8 @@ thromboxane
 throughither
 thrummiest
 thrusters
+thudding
+thunderstricken
 thus
 thwarter
 thymic
@@ -5773,6 +5803,7 @@ trochilus
 trocked
 trolley
 tronas
+tropomyosin
 tropotaxis
 troubles
 trouper
@@ -5933,6 +5964,7 @@ univalved
 universally
 univocals
 unjam
+unjamming
 unjustness
 unlaces
 unlashes
@@ -5967,7 +5999,9 @@ unsaintly
 unsaturates
 unscrews
 unsearchably
+unseat
 unsegregated
+unsetting
 unsews
 unsmiling
 unsnapped
@@ -6213,6 +6247,7 @@ windiness
 windowing
 windups
 winger
+winked
 wins
 wiretapping
 wiselier
