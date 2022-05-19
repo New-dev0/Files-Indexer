@@ -1,0 +1,7 @@
+PSBucket/CleanupWPJNotInIntune.ps1 at master · mardahl ... - GitHub,https://github.com/mardahl/PSBucket/blob/master/CleanupWPJNotInIntune.ps1
+WorkplaceAsCode/Detect_WorkplaceHardening.ps1 at master,https://github.com/TristanvanOnselen/WorkplaceAsCode/blob/master/ProActive_Remediation/Detect_WorkplaceHardening.ps1
+Public/Get-NonPSJob.ps1 1.0.0.1 - PowerShell Gallery,https://www.powershellgallery.com/packages/NonPSJob/1.0.0.1/Content/Public%255CGet-NonPSJob.ps1
+functions/Test-AWPInstall.ps1 1.0.0.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/awp/1.0.0.0/Content/functions%255CTest-AWPInstall.ps1
+powershell_scripts/Invoke-UniversalApp.ps1 ... - GitLab,https://gitlab.austinoneil.com/aoneil/pentesting-tools/-/blob/f4350c91e1da4d0ae741ce9a0aea980644a96380/powershell_scripts/Invoke-UniversalApp.ps1
+function global:deactivate ([switch]$NonDestructive) { # Revert to ...,https://git.writebug.com/gjob/pytank/raw/branch/master/venv/Scripts/Activate.ps1
+posh-profile/PowerShell-Profile.ps1 ... - GitLab - building,https://gitlab.kkuhlmann.de/second2050/script-gallery/-/blob/3807b58b74cfd5e500c005da216d2cfdc12f492d/posh-profile/PowerShell-Profile.ps1
