@@ -1,0 +1,3 @@
+PowerShell-Scripts/glassfish-command.ps1 at master - GitHub,https://github.com/quentinproust/PowerShell-Scripts/blob/master/glassfish-command.ps1
+Notes: ## Usually I write the functions I expect to be publicly used in ...,https://raw.githubusercontent.com/nickmeldrum/win-console-environment/c06b409f026b8e5f8eed3fe37899ef66f59db585/scribestar-commands.ps1
+#TODO: ensure that Set-ExecutionPolicy Unrestricted is hooked up ...,https://raw.githubusercontent.com/Iristyle/Tahiti/1c9b83011286edf490f8bd41c79bace95dca2f3c/Vanilla.ps1

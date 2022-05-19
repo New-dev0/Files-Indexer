@@ -1,0 +1,3 @@
+Package: base-files Version: 204.2-r11257-5090152ae3 Depends ...,https://downloads.openwrt.org/releases/19.07.5/targets/ramips/mt7621/packages/Packages.manifest
+Package: base-files Version: 194.2-r7712+20-8de93ce745 ...,https://downloads.ffhb.de/opkg/modules/gluon-ffhb-2018.2.1%2Bbremen1/sunxi/cortexa7/Packages.manifest
+Package: base-files Version: 173.1-r3533-d0bf257c46 Depends ...,https://usingpro.com/releases/17.01.3/targets/zynq/generic/packages/Packages.manifest
