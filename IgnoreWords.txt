@@ -120,6 +120,7 @@ airbrushed
 airshows
 airts
 airwomen
+alabaster
 alabasters
 alands
 alang
@@ -290,6 +291,7 @@ arrest
 artichoke
 articled
 artificialities
+artist
 artistry
 artlessness
 artwork
@@ -330,6 +332,7 @@ audiles
 audiocassette
 audiocassettes
 aught
+aurar
 aurist
 aurochs
 auscultated
@@ -603,6 +606,7 @@ brethren
 brewery
 briarroots
 brickbat
+bridling
 brief
 brilliants
 brine
@@ -981,6 +985,7 @@ combustible
 comeliest
 comforts
 commends
+commentaries
 commercialized
 commissioned
 commodifying
@@ -1099,6 +1104,7 @@ cortexes
 cortisone
 coryneform
 coscripted
+coseismals
 cosmogonic
 coteries
 cottons
@@ -1199,6 +1205,7 @@ cusped
 cuspis
 custodian
 cutability
+cutches
 cutthroats
 cutwork
 cyanamide
@@ -1274,6 +1281,7 @@ decollating
 decomposers
 decompound
 deconcentration
+decongests
 decorated
 decorators
 decoupled
@@ -1318,6 +1326,7 @@ demurrages
 demurrer
 denars
 denitrating
+densely
 dentalia
 dentiform
 denuders
@@ -1837,6 +1846,7 @@ feruled
 feted
 fetidity
 fetidly
+fettuccini
 feudalizations
 fever
 fez
@@ -1998,6 +2008,7 @@ fumers
 fumigates
 functor
 fundic
+fundraises
 funfairs
 funninesses
 funnymen
@@ -2057,6 +2068,7 @@ genitals
 gentlemen
 genua
 geobotanists
+geologist
 geophagia
 geopolitics
 germinability
@@ -2264,6 +2276,7 @@ heister
 helios
 heliotrope
 helium
+hellgrammites
 hellish
 helots
 hemacytometers
@@ -2581,6 +2594,7 @@ isochimes
 isocracies
 isogenic
 isogonic
+isotheres
 issuers
 italianated
 italicizes
@@ -2655,6 +2669,7 @@ kantar
 kaoliangs
 kaon
 kaons
+kapellmeisters
 karabiner
 karats
 karyology
@@ -2709,6 +2724,7 @@ knightlinesses
 knitter
 knobbly
 knots
+knowingnesses
 knurl
 kolbasis
 kolkhoznik
@@ -2885,6 +2901,7 @@ lunies
 luscious
 lustrum
 luteotrophins
+lutfisks
 luthern
 luxuriance
 luxuriate
@@ -2903,6 +2920,7 @@ macumba
 madams
 maestosos
 magnetos
+maieutic
 mainmasts
 majagua
 making
@@ -3009,6 +3027,7 @@ mercenarinesses
 merchantmen
 meringues
 mesclun
+mesne
 mesophyllic
 mestizoes
 metaling
@@ -3482,6 +3501,7 @@ outbid
 outbidder
 outbrave
 outbrazening
+outbuilt
 outcatching
 outcry
 outdancing
@@ -3535,6 +3555,7 @@ overexpose
 overflooding
 overfly
 overgeneralize
+overgeneralizes
 overgild
 overgrows
 overinflate
@@ -3604,6 +3625,7 @@ paphian
 papricas
 parabiotic
 paraboloid
+paradisal
 parainfluenza
 parallelisms
 paralytic
@@ -3748,6 +3770,7 @@ physicals
 physiologist
 physique
 phytols
+pianissimi
 piastre
 picadillos
 picaroon
@@ -3811,6 +3834,7 @@ pleads
 pleasures
 plenists
 pleomorphic
+plex
 plies
 plowmen
 plowshare
@@ -3934,6 +3958,8 @@ presumingly
 presynaptic
 presynaptically
 pretasting
+prettifier
+pretzel
 prevalent
 prevaricate
 previewer
@@ -4486,6 +4512,7 @@ scampish
 scandal
 scandalousness
 scantiest
+scare
 scarlets
 scars
 scatback
@@ -4547,6 +4574,7 @@ sedimentologies
 seductress
 sedums
 seedcakes
+seeing
 seeling
 seemliest
 seepiest
@@ -4667,6 +4695,7 @@ simmers
 simoniacal
 simulant
 since
+singalongs
 singlestick
 sipe
 sirdars
@@ -5101,6 +5130,7 @@ tapaderos
 tapeless
 tapper
 tarbushes
+tarmacadam
 tarring
 taskworks
 tassel
@@ -5407,6 +5437,7 @@ unchairs
 uncinal
 uncivilized
 unclasped
+uncleanlier
 unclinched
 uncoalesced
 uncoatings
@@ -5701,6 +5732,7 @@ whippier
 whipworm
 whirred
 whiskered
+whistlers
 white
 whiteflies
 whitens
@@ -5769,6 +5801,7 @@ workman
 workplace
 wormroot
 worsts
+worthlessly
 wrangle
 wrap
 wrath
@@ -5822,9 +5855,11 @@ zaikais
 zanders
 zarebas
 zastrugi
+zealousness
 zebrafishes
 zebrano
 zebras
+zebrine
 zechin
 zeros
 zincky
