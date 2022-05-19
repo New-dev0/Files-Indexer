@@ -205,6 +205,7 @@ animadverts
 animatronic
 anisogamous
 announcers
+anopheles
 anorak
 anorexia
 anorthosites
@@ -256,6 +257,7 @@ apostrophic
 appalled
 appeasement
 append
+appendicular
 appends
 apperceive
 apperceived
@@ -501,6 +503,7 @@ blacksmithing
 blacksmithings
 blacktop
 blamelessnesses
+blameworthiness
 bland
 blander
 blanketlike
@@ -521,6 +524,7 @@ blueberry
 blueish
 bluely
 bluenosed
+bluffers
 boarder
 boatsmen
 bobolinks
@@ -1195,10 +1199,12 @@ dactylology
 dadaistic
 dado
 daffiest
+daggerlike
 dah
 daidzein
 daimen
 daintinesses
+dalmatics
 daltons
 damosel
 damozels
@@ -1532,6 +1538,7 @@ ecartes
 ecclesiae
 ecclesiological
 ecclesiology
+eclipser
 ecocatastrophes
 educating
 eduction
@@ -1648,10 +1655,12 @@ equalling
 equestrian
 equinox
 equitable
+eradiate
 eradicated
 erasabilities
 eremuruses
 erotism
+eructated
 erysipelases
 erythremia
 erythrosin
@@ -1764,6 +1773,7 @@ farsides
 fas
 fatefulness
 fatheadedly
+fattens
 faucet
 faucial
 fauvism
@@ -2202,6 +2212,7 @@ heatable
 heathendoms
 heavyweight
 hectare
+hectares
 hedonist
 heehaw
 height
@@ -2781,6 +2792,7 @@ loathes
 lobar
 lobotomy
 localising
+localizing
 lockstitches
 locos
 loges
@@ -3094,6 +3106,7 @@ moonily
 moonlight
 moons
 moonshiners
+moonstones
 moorage
 moorages
 moronically
@@ -3158,6 +3171,7 @@ myelomatous
 myotonias
 myrmecologist
 mysticete
+mysticetes
 mystique
 mythicize
 mythiest
@@ -3209,6 +3223,7 @@ neurologies
 neutrons
 nevi
 nevus
+new
 newfangled
 newlyweds
 newsdesk
@@ -3477,6 +3492,7 @@ ovonics
 ownerships
 oxcart
 oxims
+oxygenate
 ozonations
 pachyderms
 pacifical
@@ -3569,6 +3585,7 @@ pendulousnesses
 penetrability
 penetrable
 penetrates
+penknives
 penniless
 pensil
 penster
@@ -3611,6 +3628,7 @@ personifies
 perturbation
 peruke
 pesos
+pestle
 pests
 petechia
 petnaping
@@ -3938,6 +3956,8 @@ pyrotechnical
 quadrate
 quadrivalents
 quads
+quaffer
+quaker
 quantitation
 quarriers
 quarryman
@@ -4001,6 +4021,7 @@ razzmatazz
 reaccenting
 realpolitik
 reamer
+reaming
 reaping
 reapply
 rearouse
@@ -4069,6 +4090,7 @@ reemployments
 reendow
 reenforced
 reenlistments
+reescalation
 reestablish
 reexplains
 refereed
@@ -4210,6 +4232,7 @@ retrogradely
 retroreflectors
 retrospects
 retwist
+reunification
 reutilizes
 revaccinating
 revarnish
@@ -4311,6 +4334,7 @@ safer
 sag
 saggaring
 saith
+salaams
 saleable
 salicine
 salicylate
@@ -4331,6 +4355,7 @@ samizdat
 sampled
 samsaras
 samshu
+sanctifying
 sandaling
 sandals
 sandbags
@@ -4472,6 +4497,7 @@ settlements
 sevenths
 sewer
 sexologist
+sexuality
 shaddocks
 shadeless
 shadowy
@@ -4615,6 +4641,7 @@ socagers
 socialises
 sodbusters
 soddy
+sodomized
 soften
 sokol
 solarium
@@ -4762,6 +4789,7 @@ straws
 strawworm
 streak
 streeker
+streptothricin
 stressor
 stressors
 stretchiest
@@ -4903,6 +4931,7 @@ synarthroses
 syncarp
 syncarpous
 synchronism
+syncoms
 syncopal
 syncopate
 syncopator
@@ -4946,6 +4975,7 @@ tandem
 tang
 tangibilities
 tangier
+tangs
 tankless
 tantalates
 tao
@@ -5142,6 +5172,7 @@ trendies
 trendoid
 triazin
 tribades
+tribes
 trichologists
 trichopterans
 trickster
@@ -5222,11 +5253,13 @@ ulpanim
 ultimacies
 ultraexclusive
 ultramodernists
+ultraroyalist
 ultravacua
 umami
 umbones
 umping
 umteenth
+unactorish
 unaesthetic
 unambiguous
 unamended
@@ -5571,11 +5604,13 @@ wittiest
 wiz
 wobbles
 wolfberry
+wolfishly
 womenfolk
 wonderfully
 wonkiest
 wonky
 wonted
+woo
 woodgrains
 woodpecker
 woodsias
