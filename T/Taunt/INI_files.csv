@@ -1,0 +1,6 @@
+[MQ2Melee] aggro = 1 bash = 1 disarm = 1 enrage = 1 facing = 1 ...,https://fintankelly.github.io/tutorials/mq2-tutorials/mq2-intro/Xais_Vixenary.ini
+[DefaultPlayer] Name=joel Class=Engine.Pawn Character=Rapier ...,http://www3.sympatico.ca/bjvmoffatt/ut2k3/User.ini
+[DefaultPlayer] Name=joel Class=Engine.Pawn Character=Satin ...,http://www3.sympatico.ca/bjvmoffatt/ut2k4/User.ini
+[DefaultPlayer] Name=Solfur Class=Engine.Pawn Character=Axon ...,http://users.telenet.be/vskaders/jurgen/ut/2k4/User.ini
+source/data/ini/object/evilfaction/hordes/isengard/isengardhordes.ini,https://gitlab.com/forlongthefat/rotwk-unofficial-202/blob/ce32047ff02a50a5b71a8dc3839ae2c5c4143708/source/data/ini/object/evilfaction/hordes/isengard/isengardhordes.ini
+Uploader - Group-Office,http://20.68.170.233/comments/includes/servlet/components/com_simpleboard/flashFXP.ini
