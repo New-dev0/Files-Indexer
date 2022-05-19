@@ -124,6 +124,7 @@ alabaster
 alabasters
 alands
 alang
+albacore
 alchemistic
 aldosterone
 alehouses
@@ -159,6 +160,7 @@ aloofly
 alpenglow
 alphanumerical
 alphosis
+alternating
 alternators
 altocumuli
 aluminate
@@ -214,6 +216,7 @@ anorak
 anorexia
 anorthosites
 antalkalis
+anteverts
 anthills
 anthologizers
 antianxiety
@@ -237,6 +240,7 @@ antipsychotic
 antiquely
 antirationalism
 antiritualisms
+antiromantic
 antiseptics
 antisleep
 antisnob
@@ -675,6 +679,7 @@ burweed
 businesspersons
 butterflying
 butteriest
+buttonholed
 buttonholer
 buy
 buzz
@@ -728,6 +733,7 @@ cannie
 canoeable
 canoeists
 canonised
+canonizations
 canopic
 canorousness
 canthi
@@ -1046,6 +1052,7 @@ congelation
 conglutination
 congresspersons
 consciously
+consented
 consequences
 conservatisms
 conservatizing
@@ -1391,6 +1398,7 @@ diabase
 diaeresis
 dialled
 dialogs
+diamondbacks
 diaphanously
 diaphorases
 diaspores
@@ -1406,6 +1414,7 @@ dieselizing
 diesters
 differentiation
 diffraction
+diffractions
 diffuseness
 diffusionisms
 diffusivenesses
@@ -1415,6 +1424,7 @@ diligently
 dime
 dimercaprols
 dimethyls
+diminished
 diminutiveness
 diminutives
 din
@@ -1551,6 +1561,7 @@ drolling
 dropsonde
 drossiest
 drouthiest
+drown
 drowns
 drub
 drudging
@@ -1745,6 +1756,7 @@ estreats
 estrums
 ethnographers
 ethnologies
+ethos
 eths
 ethynyls
 etiolations
@@ -1807,6 +1819,7 @@ extravagancy
 extravasated
 extraversion
 extremum
+extrinsically
 eyestalks
 eyewitness
 facia
@@ -1998,6 +2011,7 @@ fracturs
 framers
 franchise
 franchisees
+frankincense
 frasses
 fraternizers
 fraulein
@@ -2428,6 +2442,7 @@ hypnoses
 hypodermically
 hypoing
 hypokalemia
+hypopharynxes
 hypostatize
 iceberg
 icebreakers
@@ -2548,6 +2563,7 @@ inkpots
 inlander
 inmeshes
 innocuousness
+innominate
 innovated
 innovations
 inoculation
@@ -2620,6 +2636,7 @@ ironings
 ironworker
 irradiate
 irrational
+irrecoverable
 irreducibility
 irreligions
 irrigation
@@ -2909,6 +2926,7 @@ loges
 logged
 logicalities
 logics
+lognormality
 logrolls
 lollers
 lomenta
@@ -3142,6 +3160,7 @@ miraculous
 mirex
 misagents
 misalignment
+misallots
 misallotting
 misalters
 misbegin
@@ -3468,6 +3487,7 @@ obol
 obscurants
 obscured
 obsession
+obstetricians
 occlusions
 occupy
 octadic
@@ -3478,6 +3498,7 @@ odiums
 odorants
 oedemata
 oersteds
+offenses
 offprinted
 ogee
 oiling
@@ -3822,6 +3843,7 @@ phosphorolytic
 phosphoryl
 photoautotroph
 photochemistry
+photodiodes
 photomapped
 photonegative
 photoperiodisms
@@ -3957,6 +3979,7 @@ postdoctorate
 posted
 posterns
 posthaste
+postmarital
 postmastectomy
 postnatally
 postrace
@@ -4077,6 +4100,7 @@ prosoma
 prosperities
 protectresses
 proteome
+prothoraces
 prothoraxes
 protohistorians
 protopathic
@@ -4134,6 +4158,7 @@ putsches
 puttees
 pycnotic
 pyramid
+pyramidal
 pyrotechnical
 quadrate
 quadrivalents
@@ -4188,6 +4213,7 @@ rappen
 rapturousnesses
 rare
 ratatat
+rateably
 ratio
 ratiocinator
 ratlins
@@ -4257,6 +4283,7 @@ redacting
 redates
 redelivering
 redeployed
+redepositing
 redigesting
 redigestion
 redigestions
@@ -4391,6 +4418,7 @@ resistors
 resizing
 resketched
 resoak
+resoaking
 resojets
 resowed
 respecting
@@ -4517,12 +4545,14 @@ ruggedness
 rummages
 rumored
 runkling
+rupiah
 rush
 russet
 rusticating
 ruttier
 rye
 sabring
+saccharic
 saccharified
 sacheted
 sacrilege
@@ -4691,6 +4721,7 @@ septettes
 septical
 septicemia
 sequencing
+sequency
 sergeancy
 serger
 seriousnesses
@@ -4890,6 +4921,7 @@ sorrowfulness
 sortied
 soteriology
 souvenirs
+sovietizes
 sozins
 spaceless
 spalling
@@ -5232,6 +5264,7 @@ technologic
 teel
 telecasts
 telegraphically
+teleological
 teleprocessing
 telex
 tellable
@@ -5467,6 +5500,7 @@ tuberculous
 tubule
 tucket
 tugger
+tuna
 tuneable
 tungstens
 tunica
@@ -5973,6 +6007,7 @@ zizzle
 zoarium
 zonary
 zoomorphic
+zoophilia
 zoophyte
 zootomic
 zouave
