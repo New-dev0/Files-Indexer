@@ -289,6 +289,7 @@ appetisers
 appetising
 appetizingly
 apprehended
+apprehensibly
 appressoria
 appressorium
 approachable
@@ -301,6 +302,7 @@ arc
 archaizes
 archangel
 archeology
+architrave
 archly
 archrivals
 ardebs
@@ -782,6 +784,7 @@ campiness
 campo
 canape
 canasta
+cancelable
 candlewoods
 canister
 cankers
@@ -1014,6 +1017,7 @@ clothiers
 cloudscapes
 cloying
 clubhead
+clumping
 clung
 clupeids
 coagulase
@@ -1062,6 +1066,7 @@ coins
 cojones
 col
 coldcocks
+colemanite
 coleus
 collaterally
 collators
@@ -1336,6 +1341,7 @@ curveting
 cusped
 cuspis
 custodian
+customizer
 cutability
 cutches
 cutthroats
@@ -1431,6 +1437,7 @@ defacements
 defalcating
 defamations
 defatted
+defaulters
 defeater
 defeatures
 defender
@@ -1456,6 +1463,7 @@ deifier
 deinonychuses
 dejecta
 delaine
+deliberateness
 delicts
 delight
 delightedness
@@ -1479,6 +1487,7 @@ dentalia
 dentiform
 denuders
 deodara
+deodaras
 dependabilities
 depermed
 depicting
@@ -1712,6 +1721,7 @@ drossiest
 drouthiest
 drown
 drowns
+drowses
 drub
 drudging
 druggie
@@ -1837,6 +1847,7 @@ energies
 enflaming
 enfolders
 engine
+englutting
 engraft
 engraftments
 engramme
@@ -1938,6 +1949,7 @@ euthanize
 eutrophy
 even
 evenhanded
+ewes
 exahertz
 exanimate
 exanthema
@@ -2715,6 +2727,7 @@ impetrates
 impish
 implausibility
 implead
+impoverishing
 imprecation
 impregnableness
 impregnators
@@ -2827,6 +2840,7 @@ integrating
 intenerations
 intense
 interacted
+intercept
 interconnects
 interethnic
 interfiles
@@ -2868,6 +2882,7 @@ invertase
 investigatory
 inviters
 invocated
+involve
 inwove
 iodinates
 iolite
@@ -2889,8 +2904,10 @@ isinglass
 island
 isochimes
 isocracies
+isoform
 isogenic
 isogonic
+isotachs
 isotheres
 isotherm
 issuers
@@ -3005,6 +3022,7 @@ khets
 khoums
 kiaugh
 kibe
+kicky
 kiddo
 kidnappers
 kidney
@@ -3107,6 +3125,7 @@ leeways
 leg
 legal
 legendarily
+legendized
 legends
 legislatives
 legitimatizing
@@ -3220,6 +3239,7 @@ lullabied
 luminance
 lummoxes
 lumper
+lunarian
 lunches
 lunchrooms
 lunger
@@ -3288,6 +3308,7 @@ markhoors
 marshalled
 marting
 martyrly
+martyrologist
 martyrologists
 martyrology
 masjids
@@ -3297,6 +3318,7 @@ massacrers
 massifs
 massivenesses
 master
+masterlinesses
 masticate
 mastigophoran
 mastigophorans
@@ -3834,6 +3856,7 @@ operativenesses
 operettist
 operosely
 operosenesses
+ophidians
 ophiolites
 opiate
 opponency
@@ -3990,6 +4013,7 @@ pacificators
 pacifistically
 packager
 packman
+packs
 packwax
 paeons
 pageants
@@ -4017,6 +4041,7 @@ pantomimic
 papal
 paperworks
 paphian
+paphians
 pappous
 papricas
 parabiotic
@@ -4039,6 +4064,7 @@ park
 parkers
 parmigiano
 parols
+parr
 parricides
 parrs
 parterre
@@ -4535,6 +4561,7 @@ queriers
 quickness
 quillais
 quillworts
+quinquennials
 quintan
 quints
 quire
@@ -4648,6 +4675,7 @@ recut
 redacted
 redacting
 redates
+redating
 redelivering
 redeployed
 redepositing
@@ -4778,6 +4806,7 @@ repriced
 reprints
 repristination
 reprobations
+repugning
 repurposes
 reregister
 rerolls
@@ -5207,6 +5236,7 @@ signifies
 silage
 silicifying
 silicone
+silvern
 similitudes
 simmers
 simoniacal
@@ -5284,6 +5314,7 @@ smirk
 smitheries
 smokehouses
 smokepot
+smoochers
 smooshed
 smothers
 smuttier
@@ -5666,6 +5697,7 @@ syntagms
 syringas
 syrinx
 sysop
+tab
 tabbouleh
 tabernacles
 tabid
@@ -5774,6 +5806,7 @@ textbooks
 textile
 textures
 thalassaemias
+thawless
 thearchies
 theatricals
 thenages
@@ -5850,6 +5883,7 @@ tobacco
 tobacconists
 tocsins
 tod
+toeas
 toeless
 toenailing
 toga
@@ -6312,6 +6346,7 @@ vogie
 voguers
 voicefulness
 volatilizes
+volplane
 voltages
 voltaism
 volubly
