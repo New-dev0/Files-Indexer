@@ -1,0 +1,5 @@
+User.ps1 1.0.1 - PowerShell Gallery,https://www.powershellgallery.com/packages/MsftGraph/1.0.1/Content/User.ps1
+Users.ps1 1.4.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/Microsoft.Graph.PlusPlus/1.4.0/Content/Users.ps1
+MsftGraph/Users.ps1 at PlusPlus - GitHub,https://github.com/jhoneill/MsftGraph/blob/PlusPlus/Users.ps1
+Chocolatey-for-wine/choc_install.ps1 at main · PietJankbal ... - GitHub,https://github.com/PietJankbal/Chocolatey-for-wine/blob/main/choc_install.ps1
+function set_HKLM_SM_key() <# sets key for HKLM:\\Software ...,https://raw.githubusercontent.com/PietJankbal/Chocolatey-for-wine/master/choc_install.ps1

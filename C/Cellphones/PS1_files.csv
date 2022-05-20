@@ -1,0 +1,4 @@
+ipmo ac* $maxdays=(Get-ADDefaultDomainPasswordPolicy ...,https://content.spiceworksstatic.com/service.community/p/post_attachments/0000161003/533c7a39/attached_file/passwordexpiring.ps1
+Functions/New-QR.ps1 2.2.1.6 - PowerShell Gallery,https://www.powershellgallery.com/packages/PoshFunctions/2.2.1.6/Content/Functions%255CNew-QR.ps1
+Scripts/Start-SyncAADToSPOPnP.ps1 at master · Hobmaier/Scripts ...,https://github.com/Hobmaier/Scripts/blob/master/Start-SyncAADToSPOPnP.ps1
+PoshAnt/sync-Directory365Changes.ps1 at master - GitHub,https://github.com/kevmaitland/PoshAnt/blob/master/sync-Directory365Changes.ps1
