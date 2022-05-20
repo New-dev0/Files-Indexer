@@ -1,0 +1,4 @@
+private/Install-ChocoBinaries.ps1 3.1.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/ChocolateyGet/3.1.0/Content/private%255CInstall-ChocoBinaries.ps1
+Scripts/ExternalSources/ScheduledTasks.ps1 ... - PowerShell Gallery,https://www.powershellgallery.com/packages/Dots/0.0.7/Content/Scripts%255CExternalSources%255CScheduledTasks.ps1
+FC-Config-Generator/Generate-FCConfigs.ps1 at master ... - GitHub,https://github.com/jeffmccollum/FC-Config-Generator/blob/master/Generate-FCConfigs.ps1
+seafile-symlink/seafile-symlink.ps1 at master · IllyaMoskvin/seafile ...,https://github.com/IllyaMoskvin/seafile-symlink/blob/master/seafile-symlink.ps1
