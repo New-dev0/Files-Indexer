@@ -248,6 +248,7 @@ antijamming
 antilynching
 antimetabolic
 antimycin
+antimycins
 antinarrative
 antinomian
 antinucleons
@@ -888,6 +889,7 @@ cats
 causalgia
 caused
 caymans
+cedarbird
 ceibas
 celibacies
 censer
@@ -916,6 +918,7 @@ changeabilities
 changeovers
 changeup
 chap
+chaparejos
 chappati
 chapping
 charcoaling
@@ -1194,6 +1197,7 @@ contacts
 containerless
 contemptibility
 contends
+continently
 contingencies
 contrabassoon
 contraries
@@ -1421,6 +1425,7 @@ daunomycins
 dawning
 dawt
 daydreaming
+daydreamlike
 daylighted
 deaconess
 deaconing
@@ -1564,6 +1569,7 @@ diabase
 diaeresis
 dialled
 dialogs
+diamins
 diamondbacks
 diaphanously
 diaphorases
@@ -1810,6 +1816,7 @@ echinate
 echolalias
 eclipser
 ecocatastrophes
+edges
 editrix
 educating
 eduction
@@ -1843,6 +1850,7 @@ eleventh
 elevons
 em
 emaciate
+emanant
 emancipates
 embark
 embarrass
@@ -1890,6 +1898,7 @@ enlistments
 ennuye
 enravished
 enroots
+ensanguines
 enscrolling
 enserfing
 ensheathes
@@ -1918,6 +1927,7 @@ eparchy
 epicedium
 epicenism
 epifaunas
+epigenist
 epiglottal
 epigrammatic
 epigrammatists
@@ -2122,6 +2132,7 @@ fill
 fillisters
 filmlike
 filterability
+finch
 finer
 finickinesses
 finitude
@@ -2220,6 +2231,7 @@ footmen
 footpaces
 footworks
 fopped
+fording
 forebears
 foreboded
 forefends
@@ -2343,6 +2355,7 @@ gasogenes
 gassinesses
 gastrulation
 gaudier
+gauging
 gawpers
 gaynesses
 gazpacho
@@ -2482,6 +2495,7 @@ gruel
 gruelling
 grues
 gruesomeness
+gruesomest
 grumbled
 grummet
 grumose
@@ -2619,6 +2633,7 @@ herringbones
 hesitance
 hetairas
 heterodox
+heterodoxies
 heterokaryons
 heterologously
 heterophile
@@ -2925,6 +2940,7 @@ interworkings
 inthralled
 inti
 intimates
+intimidator
 intolerantly
 intraday
 intradermally
@@ -3067,6 +3083,7 @@ keelhale
 keelhauling
 keepings
 keg
+kegling
 keitloas
 kelly
 kenches
@@ -3129,6 +3146,7 @@ kyries
 kyte
 labials
 labradors
+labrusca
 lacqueyed
 laddies
 laddish
@@ -3187,6 +3205,7 @@ leeways
 leg
 legal
 legendarily
+legendize
 legendized
 legends
 legislatives
@@ -3379,6 +3398,7 @@ martyrly
 martyrologist
 martyrologists
 martyrology
+masculinity
 masjids
 masochistically
 mass
@@ -3552,6 +3572,7 @@ misimpression
 misinform
 misinter
 misinterring
+miskeep
 mislabelling
 mislives
 mismanagements
@@ -3616,6 +3637,7 @@ monogamic
 monogyny
 monologists
 monologuists
+mononucleoses
 monophthongs
 monopolise
 monopolises
@@ -3629,6 +3651,7 @@ monotonically
 monovular
 monseigneur
 monstera
+montero
 monthlong
 monuments
 moonier
@@ -4047,6 +4070,7 @@ overencouraged
 overestimated
 overevaluations
 overexpose
+overfill
 overflooding
 overfly
 overfocussing
@@ -4859,10 +4883,12 @@ reinventing
 reinvoke
 reissue
 reiterating
+rejections
 rejustifies
 rejuvenated
 rekeying
 reknits
+reknots
 relapsers
 relational
 relaunder
@@ -4885,6 +4911,7 @@ remap
 remarkable
 rematches
 remember
+rememberable
 remises
 remising
 remissible
@@ -5015,6 +5042,7 @@ riffler
 rifle
 riflebirds
 rightmost
+rightnesses
 rigorism
 rigorousnesses
 rijsttafel
@@ -5568,6 +5596,7 @@ squad
 squashed
 squealers
 squeezers
+squelchy
 squinters
 squooshed
 sradha
@@ -5745,6 +5774,7 @@ superintends
 superlativeness
 superluxury
 supermasculine
+supernormality
 superplasticity
 superposes
 superpremium
@@ -5761,6 +5791,7 @@ supine
 supposal
 supposals
 supposed
+supposititious
 suppurate
 supramolecular
 suras
@@ -5889,6 +5920,7 @@ telegraphically
 teleological
 teleprocessing
 telethons
+teletype
 telex
 tellable
 telophases
@@ -6026,6 +6058,7 @@ tomatillo
 tomboyishness
 tommyrot
 tonnish
+tonsured
 tontines
 toolmakings
 toothpaste
@@ -6176,6 +6209,7 @@ twelfth
 twerps
 twilight
 twilling
+twittery
 tympanic
 typefounders
 typescript
@@ -6345,6 +6379,7 @@ unsteadily
 unsupportable
 unsustainable
 unsynchronized
+untenability
 unthinking
 untowardness
 untraveled
