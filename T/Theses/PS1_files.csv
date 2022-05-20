@@ -1,0 +1,7 @@
+Functions/Profile/Install-Profile.ps1 3.4.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/ProfileFever/3.4.0/Content/Functions%255CProfile%255CInstall-Profile.ps1
+PowerSploit/Invoke-DllInjection.ps1 at master - GitHub,https://github.com/PowerShellMafia/PowerSploit/blob/master/CodeExecution/Invoke-DllInjection.ps1
+PowerSploit/Invoke-Shellcode.ps1 at master - GitHub,https://github.com/PowerShellMafia/PowerSploit/blob/master/CodeExecution/Invoke-Shellcode.ps1
+function Invoke-Shellcode { <# .SYNOPSIS Inject shellcode into the ...,https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/2499a39b04d9eec2afc4cde19b56f0631f2affa3/CodeExecution/Invoke--Shellcode.ps1
+function Invoke-DllInjection { <# .SYNOPSIS Injects a Dll into the ...,https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/master/CodeExecution/Invoke-DllInjection.ps1
+Functions/Profile/Install-Profile.ps1 3.6.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/ProfileFever/3.6.0/Content/Functions%255CProfile%255CInstall-Profile.ps1
+ulozenie hodnoty o pocte disabled [int]$AdDisabled = (Get-ADUser ...,https://theses.cz/id/hsf29n/ADUsersDisabledCount.ps1%3Flang%3Den%3Bstahnout%3D1%3Bdk%3DXtdLJvB4

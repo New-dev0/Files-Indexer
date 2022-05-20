@@ -1,0 +1,9 @@
+Download Spice model - UnitedSiC,https://unitedsic.com/spice/UF3C065030B3.txt
+UJ3N120035K3S.txt - UnitedSiC,https://unitedsic.com/spice/UJ3N120035K3S.txt
+TVS_Diode_SMAJxxx_CA_SPIC...,https://m.littelfuse.com/technical-resources/~/media/Electronics_Technical/SPICE_Models/TVS_Diode/TVS_Diode_SMAJxxx_CA_SPICE_Model_txt.txt
+Zener Diodes,https://www.diodes.com/assets/Spice-Models/Discrete-Prodcut-Groups/Zener-Diodes.txt
+SPICE_SMCJxxxCA.txt - Bourns,https://bourns.com/engineering/SMCJ-Q/SPICE_SMCJxxxCA.txt
+SPICE_SMBJxxxCA.txt - Bourns,https://bourns.com/engineering/SMBJ/SPICE_SMBJxxxCA.txt
+XLampXPG3Spice.txt - Cree LED,https://cree-led.com/media/documents/XLampXPG3Spice.txt
+lunar_kernels.txt - naif spice,https://naif.jpl.nasa.gov/naif/lunar_kernels.txt
+Spice/CMakeLists.txt at master · OpenSpace/Spice - GitHub,https://github.com/OpenSpace/Spice/blob/master/CMakeLists.txt
