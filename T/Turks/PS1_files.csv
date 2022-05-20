@@ -1,0 +1,7 @@
+Lib/ArmorUser.ps1 1.0.203 - PowerShell Gallery,https://www.powershellgallery.com/packages/Armor/1.0.203/Content/Lib%255CArmorUser.ps1
+TimeZone-Completer.ps1 1.5.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/LocalToUtc/1.5.0/Content/TimeZone-Completer.ps1
+Textractor/deploy.ps1 at master - GitHub,https://github.com/Artikash/Textractor/blob/master/deploy.ps1
+Office-IT-Pro-Deployment-Scripts/Remove-PreviousOfficeInstalls ...,https://github.com/OfficeDev/Office-IT-Pro-Deployment-Scripts/blob/master/Office-ProPlus-Deployment/Remove-PreviousOfficeInstalls/Remove-PreviousOfficeInstalls.ps1
+HelperFunctions.ps1 2.0.19 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/BcContainerHelper/2.0.19/Content/HelperFunctions.ps1
+Update-MozillaFirefox.ps1 Requires either (a) PowerShell v3 or later ...,https://raw.githubusercontent.com/auberginehill/update-mozilla-firefox/master/Update-MozillaFirefox.ps1
+Get-ComputerInfo.ps1 #> [CmdletBinding()] Param ( [Parameter ...,https://raw.githubusercontent.com/auberginehill/get-computer-info/master/Get-ComputerInfo.ps1
