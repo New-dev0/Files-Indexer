@@ -1,0 +1,5 @@
+WPF/Start-Animation.ps1 1.5 - PowerShell Gallery,https://www.powershellgallery.com/packages/ShowUI/1.5/Content/WPF%255CStart-Animation.ps1
+public/Set-TaskbarAnimations.ps1 1.1.3 - PowerShell Gallery,https://www.powershellgallery.com/packages/CustomizeWindows11/1.1.3/Content/public%255CSet-TaskbarAnimations.ps1
+UDImageFX/example.ps1 at master - GitHub,https://github.com/psDevUK/UDImageFX/blob/master/example.ps1
+win10-script/win10-setup.ps1 at main - win10-script - Codeberg.org,https://codeberg.org/sealeaf/win10-script/src/branch/main/powershell/win10-setup.ps1
+"Start-Job -Name ""Install and Configure Chocolatey"" -ScriptBlock ...",https://raw.githubusercontent.com/simeononsecurity/setup-scripts/main/windows10.ps1
