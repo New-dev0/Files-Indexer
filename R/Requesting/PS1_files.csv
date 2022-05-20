@@ -1,0 +1,7 @@
+Get-AdalToken.ps1 5.2.6.1 - PowerShell Gallery,https://www.powershellgallery.com/packages/ADAL.PS/5.2.6.1/Content/Get-AdalToken.ps1
+Request-Certificate.ps1 1.5.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/Request-Certificate/1.5.0/Content/Request-Certificate.ps1
+chocolatey-package-requests/Compare-Body.ps1 at master - GitHub,https://github.com/chocolatey-community/chocolatey-package-requests/blob/master/scripts/private/validations/Compare-Body.ps1
+chocolatey-package-requests/Format-Checkboxes.ps1 at master,https://github.com/chocolatey-community/chocolatey-package-requests/blob/master/scripts/private/Format-Checkboxes.ps1
+Get-MsalClientApplication.ps1 4.21.0.1 - PowerShell Gallery Test,https://www.poshtestgallery.com/packages/MSAL.PS/4.21.0.1/Content/Get-MsalClientApplication.ps1
+Select-MsalClientApplication.ps1 4.21.0.1 - PowerShell Gallery Test,https://www.poshtestgallery.com/packages/MSAL.PS/4.21.0.1/Content/Select-MsalClientApplication.ps1
+Functions/Public/New-GitHubReviewRequest.ps1 0.15.188,https://psg-prod-centralus.cloudapp.net/packages/PSGitHub/0.15.188/Content/Functions%255CPublic%255CNew-GitHubReviewRequest.ps1
