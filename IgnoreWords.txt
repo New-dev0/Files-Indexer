@@ -288,6 +288,7 @@ apogamic
 apolog
 apomict
 apomicts
+apophthegms
 apostils
 apostrophic
 appalled
@@ -326,6 +327,7 @@ ariboflavinosis
 armour
 armrests
 aroids
+aromas
 aromatizations
 aroused
 arpen
@@ -439,6 +441,7 @@ balconies
 ballasting
 ballerina
 ballerinas
+ballgame
 ballistic
 ballistically
 ballonet
@@ -641,6 +644,7 @@ bonnocks
 bonspells
 bonuses
 bookmarker
+bookshop
 bookshops
 boomer
 boonless
@@ -765,12 +769,14 @@ burthen
 burweed
 businesspersons
 butterball
+butterflies
 butterflying
 butteriest
 buttonholed
 buttonholer
 buxomness
 buy
+buys
 buzz
 byrled
 byroad
@@ -1041,6 +1047,7 @@ clinically
 clipped
 clipper
 cliquing
+clitics
 cloaked
 cloggers
 clogging
@@ -1128,6 +1135,7 @@ combineds
 comblike
 combust
 combustible
+comedically
 comeliest
 comforts
 commends
@@ -1327,6 +1335,7 @@ creolise
 crevice
 criminis
 crimson
+crinites
 cripe
 crisper
 crisscrossing
@@ -1538,6 +1547,7 @@ demulsified
 demurrages
 demurrer
 denars
+denegations
 denitrating
 densely
 dentalia
@@ -1702,6 +1712,7 @@ disseminator
 disses
 dissociability
 dissocial
+dissolves
 dissyllable
 distrained
 distributed
@@ -2178,6 +2189,7 @@ finocchios
 fireback
 fireballer
 firebreak
+fireclays
 firefly
 firepan
 fireplace
@@ -2638,6 +2650,7 @@ headfuls
 headings
 headlessness
 headmasters
+headrest
 headrooms
 headshrinker
 headstone
@@ -2929,12 +2942,14 @@ infracting
 infrequent
 infringement
 ingenuousnesses
+ingrafting
 inhabitable
 inhalers
 inharmony
 inheritresses
 inhibins
 inhomogeneity
+inhumanities
 initial
 initiative
 inkle
@@ -3130,6 +3145,7 @@ katcinas
 kauris
 kebab
 kebbucks
+kecks
 keel
 keelboat
 keelhale
@@ -3144,6 +3160,7 @@ kenos
 kenotrons
 keps
 keratitises
+kerbed
 kerchoo
 kerygmata
 ketogenic
@@ -3213,6 +3230,7 @@ lambers
 lamebrained
 lamellar
 lamellately
+laminal
 laminator
 lammergeyers
 lampooners
@@ -3589,6 +3607,7 @@ middlers
 midfielder
 midlines
 midlists
+midmost
 midsagittal
 midsized
 midwife
@@ -3809,6 +3828,7 @@ myelomata
 myelomatous
 myotonias
 myrmecologist
+mysid
 mysosts
 mysticete
 mysticetes
@@ -4563,6 +4583,7 @@ postrace
 postriders
 posttransfusion
 potable
+poteen
 pothouse
 pothunter
 potstones
@@ -5259,6 +5280,7 @@ sannyasin
 santir
 sapodilla
 saponifier
+saponins
 sapwood
 sarabands
 sarcology
@@ -5301,6 +5323,7 @@ schedules
 schematizes
 schismatize
 schizier
+schlump
 schmoose
 schnauzer
 scholarships
@@ -5443,6 +5466,7 @@ shellier
 shepherdesses
 sherris
 sherrises
+shifting
 shipboard
 shipmaster
 shipment
@@ -5614,6 +5638,7 @@ solidarisms
 solifluction
 solitudes
 solitudinarian
+soloistic
 solstices
 solubilizing
 solus
@@ -5621,6 +5646,7 @@ solves
 somatomedin
 sombreros
 some
+sonograms
 soothsay
 sooty
 sophomore
@@ -5747,6 +5773,7 @@ statocysts
 statutory
 stealing
 steamboats
+steelie
 steelinesses
 steeplechaser
 steepled
@@ -5913,6 +5940,7 @@ supposed
 supposititious
 suppurate
 supramolecular
+supremenesses
 suras
 surbased
 surety
@@ -6270,6 +6298,7 @@ trigraphs
 trihedron
 trilbies
 trilinear
+trimmest
 trimotors
 trinketed
 triode
@@ -6370,6 +6399,7 @@ unappealingly
 unaspirated
 unattractively
 unbloody
+unblushing
 unbolting
 unboned
 unbottling
@@ -6449,6 +6479,7 @@ uniformitarians
 unilingual
 unillusioned
 unionizers
+unipods
 unique
 uniquer
 unisexuality
@@ -6592,6 +6623,7 @@ velites
 velum
 veneers
 venenes
+venge
 vengefulnesses
 venins
 venographies
@@ -6726,6 +6758,7 @@ wheelman
 whey
 whidahs
 whiled
+whimpering
 whimpers
 whinnies
 whippier
@@ -6806,6 +6839,7 @@ workman
 workplace
 wormish
 wormroot
+worse
 worsts
 worthlessly
 wrangle
@@ -6836,6 +6870,7 @@ yahoos
 yald
 yantra
 yardage
+yardarm
 yards
 yashmak
 yawed
