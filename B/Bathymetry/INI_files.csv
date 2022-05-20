@@ -1,0 +1,3 @@
+[general] label = GEBCO xSeamless = true ySeamless = true ...,https://seascope.oceandatalab.com/data/idf_samples/gebco_bathymetry/config.ini
+nidem/NIDEM_configuration.ini at master - GitHub,https://github.com/GeoscienceAustralia/nidem/blob/master/NIDEM_configuration.ini
+Black 0 true #80FFFF MagPhase #80FFFF #606060 true true false ...,ftp://ww4.dnr.wa.gov/aqr/bathymetry/R2Sonic/SonicControl/DefaultSettingsDualHead_SingleSIM.ini
