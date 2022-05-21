@@ -59,6 +59,7 @@ accruable
 accursedness
 accusative
 acerose
+acetabulum
 acetamide
 acetamides
 acetylcholines
@@ -332,6 +333,7 @@ approachable
 aptitudinal
 aquacultural
 arabicized
+arabizes
 arbitrator
 arboretums
 arc
@@ -400,6 +402,7 @@ astringent
 astrometries
 asyndetons
 atenolol
+atomized
 atonally
 atoned
 atopies
@@ -504,6 +507,7 @@ barograph
 baronetage
 baronetcies
 barracudas
+barterer
 bartisan
 baseless
 basements
@@ -1058,6 +1062,7 @@ cheerios
 cheffing
 chelicera
 chemosorbed
+cherimoyas
 chernozemic
 chestful
 chestier
@@ -1199,6 +1204,7 @@ cocker
 cockered
 cockspur
 cockup
+cocoon
 cocoyams
 cocultivated
 cocurators
@@ -1275,6 +1281,7 @@ compactions
 companions
 comparison
 competing
+competitor
 complacently
 complected
 complement
@@ -1954,6 +1961,7 @@ dramas
 drammocks
 draughts
 drawee
+drawknives
 drawshave
 dreamlands
 dreamlessness
@@ -1994,6 +2002,7 @@ dunches
 duncishly
 dupped
 dupping
+durneder
 durrs
 durst
 duumviri
@@ -2090,6 +2099,7 @@ empressement
 emu
 emyds
 encapsulation
+encashment
 encephalograph
 enchant
 enchase
@@ -2174,6 +2184,7 @@ eradiate
 eradicated
 erasabilities
 eremuruses
+eroding
 erotism
 errors
 eructated
@@ -2267,10 +2278,12 @@ expulses
 expunged
 exsect
 exsiccated
+exstrophies
 extemporally
 extendednesses
 exterminating
 externals
+extinctions
 extinguishable
 extractions
 extractives
@@ -3069,6 +3082,7 @@ hysterias
 iceberg
 icebreakers
 ichthyofaunal
+iciest
 icons
 idealism
 idealogue
@@ -3268,6 +3282,7 @@ intermatted
 intermediated
 internationals
 interoceptor
+interparty
 interpermeating
 interpleaded
 interpupillary
@@ -3722,6 +3737,7 @@ lubricative
 lubricator
 lucarnes
 lucked
+lucubrating
 lullabied
 luminance
 luminiferous
@@ -3749,6 +3765,7 @@ lycopenes
 lymphoblast
 lynched
 lyssa
+lytically
 macerator
 mach
 machination
@@ -3959,6 +3976,7 @@ midlines
 midlists
 midmost
 midsagittal
+midshipmen
 midsized
 midwife
 migraines
@@ -3989,6 +4007,8 @@ minnow
 miracidia
 miraculous
 mirex
+mirrored
+misagent
 misagents
 misalignment
 misallots
@@ -4033,6 +4053,7 @@ misprograms
 mispronounced
 misrecord
 misreferences
+missaid
 misspell
 misstyles
 mistaken
@@ -4587,6 +4608,7 @@ overgeneralize
 overgeneralizes
 overgild
 overgrows
+overheaped
 overinflate
 overinform
 overingenious
@@ -5003,6 +5025,7 @@ popliteus
 popsies
 popularly
 pornographies
+port
 portabellas
 possessors
 postbellum
@@ -5150,6 +5173,7 @@ projects
 prolific
 promontories
 promotable
+pronely
 pronota
 pronouncers
 pronto
@@ -5244,6 +5268,7 @@ pyramid
 pyramidal
 pyritic
 pyrotechnical
+pyxides
 qabalahs
 quadrate
 quadrics
@@ -5640,6 +5665,7 @@ richer
 rick
 ricking
 ricks
+riddled
 ridged
 ridgels
 ridicules
@@ -5662,6 +5688,7 @@ riotousness
 riskers
 risus
 ritually
+rivetted
 rivulets
 roadhouse
 roadkill
@@ -5927,6 +5954,7 @@ sensual
 senti
 sentimentally
 separate
+separates
 separating
 septettes
 septical
@@ -6092,6 +6120,7 @@ slipes
 slipforming
 slipping
 slipsheets
+slithered
 slitted
 slitter
 slivovices
@@ -6117,6 +6146,7 @@ smidgin
 smiles
 smirch
 smirk
+smirkers
 smitheries
 smokehouses
 smokepot
@@ -6509,6 +6539,7 @@ surety
 surfboarding
 surfboards
 surnamer
+surpassingly
 surplus
 surprisingly
 surra
@@ -6744,6 +6775,7 @@ thymic
 thymiest
 thymol
 thyroiditises
+tiara
 tiaras
 tibiae
 ticals
@@ -7204,6 +7236,7 @@ vambraces
 vandalise
 vandalisms
 vanpoolings
+vanquishers
 vapidness
 vaporer
 vaporetto
@@ -7425,6 +7458,7 @@ wise
 wiselier
 wisps
 wisting
+wists
 witchhoods
 witching
 witchings
@@ -7549,6 +7583,7 @@ zoologically
 zoomorphic
 zoophilia
 zoophyte
+zoosterol
 zootomic
 zouave
 zymosans
