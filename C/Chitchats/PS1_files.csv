@@ -1,0 +1,2 @@
+botframework-solutions/deploy_cognitive_models.ps1 at master,https://github.com/microsoft/botframework-solutions/blob/master/samples/csharp/assistants/enterprise-assistant/VirtualAssistantSample/Deployment/Scripts/deploy_cognitive_models.ps1
+botframework-solutions/update_cognitive_models.ps1 at master,https://github.com/microsoft/botframework-solutions/blob/master/templates/csharp/VA/VA/Deployment/Scripts/update_cognitive_models.ps1

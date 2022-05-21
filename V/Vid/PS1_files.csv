@@ -1,0 +1,7 @@
+vmware-scripts/queryHostPCIInfo.ps1 at master · lamw/vmware ...,https://github.com/lamw/vghetto-scripts/blob/master/powershell/queryHostPCIInfo.ps1
+vDocumentation/Get-ESXIODevice.ps1 at master - GitHub,https://github.com/arielsanchezmora/vDocumentation/blob/master/powershell/vDocumentation/Public/Get-ESXIODevice.ps1
+rabix/vid - vid - Gitme.fun : 码趣,https://gitme.fun/rabix/vid/blame/commit/564ae4af0f404de4dc475253b0fcb1c3cb12b6d0/bin/progress.ps1
+Public/Get-ESXIODevice.ps1 2.4.7 - PowerShell Gallery,https://www.powershellgallery.com/packages/vDocumentation/2.4.7/Content/Public%255CGet-ESXIODevice.ps1
+Private/HL_Download_Subtitle.ps1 1.1.2 - PowerShell Gallery,https://www.powershellgallery.com/packages/Subscene-API/1.1.2/Content/Private%255CHL_Download_Subtitle.ps1
+io-devices-report.ps1 - GitHub,https://raw.githubusercontent.com/fgrehl/virten-scripts/master/powershell/io-devices-report.ps1
+"param([string] $vmtarget,$delay=""5"") if (!$vmtarget){Write-Host ...",http://hypervisor.free.fr/get-vmlog.ps1
