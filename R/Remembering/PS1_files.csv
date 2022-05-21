@@ -1,0 +1,5 @@
+functions/New-DbaScriptingOption.ps1 0.9.321 - PowerShell Gallery,https://www.powershellgallery.com/packages/dbatools/0.9.321/Content/functions%255CNew-DbaScriptingOption.ps1
+functions/New-DbaDacOption.ps1 1.1.24 - PowerShell Gallery,https://www.powershellgallery.com/packages/dbatools/1.1.24/Content/functions%255CNew-DbaDacOption.ps1
+PoshC2_Old/Get-PassPol.ps1 at master - GitHub,https://github.com/nettitude/PoshC2_Old/blob/master/Modules/Get-PassPol.ps1
+"""Fossies"" - the Fresh Open Source Software Archive",https://fossies.org/linux/ansible/lib/ansible/modules/windows/win_mapped_drive.ps1
+Invoke-HostRecon - GitHub,https://raw.githubusercontent.com/dafthack/HostRecon/master/HostRecon.ps1
