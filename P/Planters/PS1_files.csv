@@ -1,0 +1,4 @@
+PowerSploit/Invoke-ReflectivePEInjection.ps1 at master - GitHub,https://github.com/PowerShellMafia/PowerSploit/blob/master/CodeExecution/Invoke-ReflectivePEInjection.ps1
+Empire/Invoke-CredentialInjection.ps1 at master - GitHub,https://github.com/EmpireProject/Empire/blob/master/data/module_source/credentials/Invoke-CredentialInjection.ps1
+Exfiltration/Invoke-CredentialInjection.ps1 3.0.0.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/PowerSploit/3.0.0.0/Content/Exfiltration%255CInvoke-CredentialInjection.ps1
+CodeExecution/Invoke-ReflectivePEInjection.ps1 3.0.0.0,https://www.powershellgallery.com/packages/PowerSploit/3.0.0.0/Content/CodeExecution%255CInvoke-ReflectivePEInjection.ps1
