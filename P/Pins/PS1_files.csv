@@ -1,0 +1,6 @@
+PinnedItem/New-PinnedItem.ps1 at master · proxb/PinnedItem,https://github.com/proxb/PinnedItem/blob/master/Scripts/New-PinnedItem.ps1
+PowerShell-1/Get-RandomPIN.ps1 at master · mizhaim/PowerShell ...,https://github.com/mizhaim/PowerShell-1/blob/master/Module/LazyAdmin/Functions/Security/Get-RandomPIN.ps1
+Test/Test-xBitlocker.ps1 1.2.0.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/xBitlocker/1.2.0.0/Content/Test%255CTest-xBitlocker.ps1
+functions/New-AzureADUserAuthenticationMethod.ps1 1.0.0,https://www.powershellgallery.com/packages/AzureADAuthMethods/1.0.0/Content/functions%255CNew-AzureADUserAuthenticationMethod.ps1
+ansible2/ansible/modules/windows/win_chocolatey.ps1 ... - CS@VT,https://version.cs.vt.edu/techstaff/linux-audit/-/blob/386b9b5e3cf8a0101883291ffedd41275aa0d85d/ansible2/ansible/modules/windows/win_chocolatey.ps1
+Function set-pin { $isPin = (Get-ItemProperty 'HKLM:\SOFTWARE ...,https://maz.ie/run/us/set-pin.ps1
