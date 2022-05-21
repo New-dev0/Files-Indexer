@@ -241,6 +241,7 @@ ancestored
 ancientries
 androgynous
 anele
+angel
 angiogram
 angler
 angosturas
@@ -419,6 +420,7 @@ audible
 audiles
 audiocassette
 audiocassettes
+auditorily
 aught
 augustest
 aurar
@@ -840,6 +842,7 @@ bumfuzzles
 bumpkinly
 bumptiousnesses
 buncoing
+bundled
 bunglers
 burb
 burbliest
@@ -1000,6 +1003,7 @@ catalpa
 catalyses
 catamarans
 catamite
+catarrhally
 catchall
 catcher
 catchiest
@@ -1090,6 +1094,7 @@ chimere
 chimerically
 chimneylike
 chimneypieces
+chinquapins
 chippy
 chiromancers
 chiromancies
@@ -1367,6 +1372,7 @@ contacts
 containerless
 contemptibility
 contends
+contextures
 continently
 contingencies
 contrabassoon
@@ -1387,6 +1393,7 @@ convincingness
 convoke
 cooing
 cookstove
+cooperates
 cooperatively
 coots
 copartners
@@ -1777,6 +1784,7 @@ dexterity
 dextran
 dhurna
 diabase
+diabolically
 diabolo
 diaeresis
 dialled
@@ -1867,6 +1875,7 @@ dishpans
 dishwater
 disinforming
 disinheriting
+dislikable
 dislocate
 dislodges
 disorderedness
@@ -1892,6 +1901,7 @@ dissed
 disseisee
 disseminator
 disses
+disseverances
 dissociability
 dissocial
 dissolves
@@ -2035,6 +2045,7 @@ eagle
 eanling
 earlap
 earldom
+earringed
 earthlights
 earthshakers
 earthward
@@ -2479,6 +2490,7 @@ flushable
 fluxional
 fluyts
 flyaways
+flybelt
 flyoff
 flyovers
 flytrap
@@ -2557,7 +2569,9 @@ freaks
 freckles
 freebee
 freeholders
+freelancer
 freer
+freewrite
 freewriting
 frena
 freneticism
@@ -2778,6 +2792,7 @@ grazier
 grazings
 greaseball
 greedily
+greenbrier
 greens
 greensick
 greensickness
@@ -2952,6 +2967,7 @@ hemophiliacs
 hempen
 hempier
 hems
+heniquens
 henotheistic
 henotheists
 hens
@@ -3298,6 +3314,7 @@ interloping
 intermatted
 intermediated
 internationals
+internist
 interoceptor
 interparty
 interpermeating
@@ -3438,6 +3455,7 @@ judgmatical
 judicial
 jugsful
 jugula
+juicer
 juking
 julienned
 juncoes
@@ -3549,6 +3567,7 @@ kwashiorkors
 kylikes
 kyries
 kyte
+labdanum
 labials
 laboriously
 labradors
@@ -3677,6 +3696,7 @@ linage
 linden
 lindens
 lineable
+lines
 lingonberry
 linier
 linsangs
@@ -4402,6 +4422,7 @@ nontransferable
 nonuple
 norites
 normothermic
+nosebag
 noseless
 nostalgic
 notarize
@@ -4602,6 +4623,7 @@ overachievement
 overanalyzes
 overarming
 overbeats
+overborne
 overbraked
 overbriefed
 overcharge
@@ -4662,6 +4684,7 @@ overwatch
 overwatched
 overwhelms
 overwily
+oviposition
 ovoid
 ovonics
 ownerships
@@ -4859,6 +4882,7 @@ phalli
 phanerophyte
 pharmacist
 pharmacologist
+phat
 phelonia
 phenate
 phenetoles
@@ -4944,6 +4968,7 @@ piquances
 piquet
 pirojki
 piroplasmata
+piscine
 pistareens
 pistolling
 pitcher
@@ -5405,6 +5430,7 @@ recement
 reception
 receptivities
 recepts
+recheat
 recheats
 rechecked
 rechoosing
@@ -5508,6 +5534,7 @@ regrinds
 regrooves
 regularizations
 rehabilitant
+rehandle
 rehandles
 rehanged
 rehardened
@@ -5813,6 +5840,7 @@ salvation
 samadhis
 samaras
 sambuca
+samburs
 samiels
 samizdat
 sampled
@@ -5910,6 +5938,7 @@ screwiest
 scrimpiest
 scrive
 scrives
+scrofulas
 scrollworks
 scroops
 scrootching
@@ -6745,6 +6774,7 @@ testees
 testing
 testudines
 tetherballs
+tetradic
 tetrahedrally
 tetrarchic
 tetrode
@@ -6752,6 +6782,7 @@ textbooks
 textile
 textures
 thalassaemias
+thankworthy
 thawless
 thearchies
 theatricalism
@@ -7307,6 +7338,7 @@ ventriloquism
 venules
 verandahed
 verandahs
+verbals
 verbenas
 verdured
 veritablenesses
@@ -7336,6 +7368,7 @@ villas
 vimen
 vina
 vincible
+vined
 vinosity
 viols
 virtueless
@@ -7514,6 +7547,7 @@ wonky
 wonted
 woo
 woodgrains
+woodlarks
 woodpecker
 woodsias
 woodstoves
@@ -7550,6 +7584,7 @@ writhen
 wrote
 wryer
 wryest
+wrynecks
 wurzels
 wyandotte
 xenia
