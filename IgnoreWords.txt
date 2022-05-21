@@ -107,6 +107,7 @@ aeration
 aerobiology
 aerodynes
 aerograms
+aerometers
 aerosolizing
 affectivities
 affirmable
@@ -163,6 +164,7 @@ allocation
 alloplasms
 allowing
 alloy
+alloying
 allseeds
 alluding
 allusion
@@ -243,6 +245,7 @@ anorak
 anorexia
 anorthosites
 antalkalis
+antediluvian
 anteverts
 anthills
 anthologizers
@@ -251,12 +254,14 @@ antiars
 antiburglar
 antiepilepsy
 antifascisms
+antiforeigner
 antigenically
 antihumanistic
 antihunter
 antijamming
 antilynching
 antimetabolic
+antimetabolites
 antimycin
 antimycins
 antinarrative
@@ -341,6 +346,7 @@ aromas
 aromatizations
 aroused
 arpen
+arrears
 arrest
 artichoke
 articled
@@ -417,6 +423,7 @@ avgases
 aviate
 aviates
 aviatrix
+avifaunae
 awaited
 axially
 axilla
@@ -863,6 +870,7 @@ canape
 canary
 canasta
 cancelable
+candlesticks
 candlewoods
 caninities
 canister
@@ -889,6 +897,7 @@ captor
 capuchin
 carabin
 caracaras
+caracolling
 caravanning
 carbamino
 carbohydrate
@@ -922,6 +931,7 @@ casebearers
 casebook
 casemate
 caseworm
+cashless
 casque
 cassenas
 castable
@@ -972,6 +982,7 @@ ceps
 ceraceous
 ceremonialism
 ceruloplasmins
+chabouk
 chacma
 chador
 chaetae
@@ -1075,6 +1086,7 @@ citizens
 citolas
 citrons
 civets
+civic
 civil
 civilisation
 civilness
@@ -1221,6 +1233,7 @@ complacently
 complected
 complement
 complementizer
+completed
 completeness
 completion
 compost
@@ -2100,6 +2113,7 @@ erythremia
 erythrosin
 erythrosins
 escapable
+escapee
 escapers
 escapologist
 escarped
@@ -2260,6 +2274,7 @@ feminizations
 fenagles
 fence
 fencelessnesses
+fencer
 fencings
 fenestration
 ferocity
@@ -2312,6 +2327,7 @@ fizgig
 fizzers
 fjeld
 flabbergasting
+flabellate
 flackery
 flaggier
 flagitiously
@@ -2410,12 +2426,14 @@ formats
 formic
 formlessness
 forthrightly
+fortified
 fortissimos
 fortnightlies
 fortuned
 foscarnets
 fosterers
 fosters
+foundries
 fountain
 fourragere
 fovea
@@ -2557,6 +2575,7 @@ giantisms
 gifting
 gingelies
 ginger
+giraffe
 gird
 girders
 glaceing
@@ -3225,6 +3244,7 @@ jackfruits
 jackrabbits
 jacobuses
 jacuzzis
+jaditic
 jalapenos
 jambs
 jammed
@@ -3362,6 +3382,7 @@ kiths
 kitschifying
 kleenex
 klezmers
+klicks
 kludgiest
 knacks
 knightlinesses
@@ -3454,6 +3475,7 @@ lees
 leeways
 leg
 legal
+legalized
 legato
 legendarily
 legendize
@@ -3578,6 +3600,7 @@ lowlifer
 lowlights
 lowrider
 lubes
+lubricative
 lubricator
 lucarnes
 lucked
@@ -3931,6 +3954,7 @@ monoclonal
 monocots
 monofils
 monogamic
+monogamists
 monogyny
 monologists
 monologuists
@@ -4030,6 +4054,7 @@ muskrat
 muskrats
 musquashes
 mussinesses
+mustering
 mustily
 mycoflorae
 mycologists
@@ -4186,6 +4211,7 @@ nonprofessional
 nonprossing
 nonracial
 nonrubber
+nonschool
 nonsecretors
 nonsocialist
 nonsteady
@@ -4375,6 +4401,7 @@ outstudy
 outtowering
 outwardnesses
 outworker
+outwrought
 ovality
 ovalness
 overachievement
@@ -4411,6 +4438,7 @@ overinform
 overingenious
 overjoyed
 overlavish
+overlooking
 overmanning
 overmined
 overpass
@@ -4823,6 +4851,7 @@ posthumously
 postiques
 postmarital
 postmastectomy
+postmillenarian
 postnatally
 postrace
 postriders
@@ -4858,6 +4887,7 @@ precheck
 preciosity
 precocity
 preconizing
+predestining
 predetermine
 predicates
 prednisolones
@@ -5250,6 +5280,7 @@ rehearse
 rehearses
 rehemmed
 rehired
+reidentifies
 reif
 reifying
 reignited
@@ -6145,6 +6176,7 @@ stubborn
 studio
 stuffing
 stulls
+stumper
 stumpiest
 stunner
 sturdier
@@ -6282,6 +6314,7 @@ sweetsops
 swiftness
 swindles
 swing
+swiss
 swobbing
 swoony
 swoopy
@@ -6580,6 +6613,7 @@ trammeler
 transacts
 transaxle
 transcribers
+transfecting
 transferrable
 transhipping
 transilluminate
@@ -7248,6 +7282,7 @@ yuppified
 zaikais
 zanders
 zanyish
+zapateos
 zarebas
 zastrugi
 zealousness
