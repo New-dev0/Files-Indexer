@@ -1,0 +1,5 @@
+azure-pipelines-tasks/RoboCopyJob.ps1 at master - GitHub,https://github.com/microsoft/azure-pipelines-tasks/blob/master/Tasks/WindowsMachineFileCopyV1/RoboCopyJob.ps1
+AppHandling/Publish-BuildOutputToStorage.ps1 2.0.6-preview359,https://www.powershellgallery.com/packages/BcContainerHelper/2.0.6-preview359/Content/AppHandling%255CPublish-BuildOutputToStorage.ps1
+PackageHandling/Publish-BuildOutputToAzureFeed.ps1 2.0.15,https://www.powershellgallery.com/packages/BcContainerHelper/2.0.15/Content/PackageHandling%255CPublish-BuildOutputToAzureFeed.ps1
+BcSaaS/Publish-PerTenantExtensionApps.ps1 2.0.6-preview353,https://psg-prod-centralus.cloudapp.net/packages/BcContainerHelper/2.0.6-preview353/Content/BcSaaS%255CPublish-PerTenantExtensionApps.ps1
+function global:Search-UnifiedLog { <# .SYNOPSIS Use the Search ...,https://raw.githubusercontent.com/IngoGege/Miscellaneous/master/ExchangePowerShell/HelperFunctions.ps1
