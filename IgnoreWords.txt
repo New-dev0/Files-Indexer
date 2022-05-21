@@ -95,6 +95,7 @@ adhesive
 adhesiveness
 adjectively
 adjournments
+adjutants
 admeasuring
 administrants
 administrating
@@ -219,8 +220,10 @@ amputates
 amritas
 amygdule
 amylases
+amyloidosis
 amyloids
 amyls
+anacoluthons
 anacondas
 anaerobia
 anaglyph
@@ -257,6 +260,7 @@ anteverts
 anthills
 anthologizers
 antianxiety
+antiarrhythmic
 antiars
 antiburglar
 antiepilepsy
@@ -334,6 +338,7 @@ aptitudinal
 aquacultural
 arabicized
 arabizes
+arbitrating
 arbitrator
 arboretums
 arc
@@ -682,6 +687,7 @@ blossoms
 blubberer
 bluebeards
 blueberry
+bluecap
 blueish
 bluely
 bluenosed
@@ -853,6 +859,7 @@ butterball
 butterflies
 butterflying
 butteriest
+buttonbush
 buttonholed
 buttonholer
 butylene
@@ -1000,6 +1007,7 @@ catechise
 catechismal
 catechizations
 cathedra
+catholicates
 catjang
 catnapping
 cats
@@ -1126,6 +1134,7 @@ circumnavigated
 circumscissile
 circumspections
 circumvallate
+circumvent
 circumventions
 circumvents
 cistuses
@@ -1216,6 +1225,7 @@ codiscoverer
 codlings
 coeducation
 coeffect
+coelomate
 coercibly
 coexecutor
 coffret
@@ -1858,6 +1868,7 @@ dishwater
 disinforming
 disinheriting
 dislocate
+dislodges
 disorderedness
 disownments
 dispart
@@ -2054,6 +2065,7 @@ effrontery
 effs
 effulgent
 effuses
+egalitarians
 egers
 eggars
 eggnog
@@ -2320,6 +2332,7 @@ fannies
 fanos
 fantasizes
 faradism
+farandoles
 farcers
 farewell
 farfetchedness
@@ -2608,6 +2621,7 @@ galivanted
 galliasses
 galloper
 galvanises
+galvanize
 galvanometers
 gaminess
 gamodeme
@@ -2809,6 +2823,7 @@ guayule
 guesting
 guiles
 guillemet
+guises
 guldens
 gulf
 gullets
@@ -3039,6 +3054,7 @@ huddler
 huffed
 huh
 hulk
+hulks
 humidex
 humitures
 humorlessly
@@ -3226,6 +3242,7 @@ infrequent
 infringement
 ingenuousnesses
 ingrafting
+ingression
 inhabitable
 inhalers
 inharmony
@@ -4292,6 +4309,7 @@ newsgroups
 newshound
 newsiest
 newsletter
+newsmakers
 newsstand
 newsworthy
 newt
@@ -4347,6 +4365,7 @@ nonfinal
 nonfluids
 nonfocal
 nonglare
+nonincumbents
 nonindustry
 noninflationary
 noninitiates
@@ -4665,6 +4684,7 @@ pageants
 paginated
 pagoda
 pagodas
+paiks
 paintbrush
 paintier
 pairings
@@ -5039,6 +5059,7 @@ posthaste
 posthospital
 posthumously
 postiques
+postisolation
 postmarital
 postmastectomy
 postmillenarian
@@ -5147,6 +5168,7 @@ primed
 primine
 princelier
 prioritizations
+prisoners
 privies
 proactions
 probities
@@ -5297,6 +5319,7 @@ quire
 quires
 quite
 quittances
+quixotic
 quodlibets
 qwerty
 rabbiting
@@ -5456,6 +5479,7 @@ refilling
 refinable
 refined
 refire
+reflexivities
 refloat
 reflooding
 refluxed
@@ -5484,6 +5508,7 @@ regrinds
 regrooves
 regularizations
 rehabilitant
+rehandles
 rehanged
 rehardened
 rehearse
@@ -5743,6 +5768,7 @@ runkling
 rupiah
 rush
 russet
+rusticated
 rusticating
 rustproof
 ruttier
@@ -5925,6 +5951,7 @@ seismological
 seisms
 selcouth
 selectiveness
+selectivities
 selenides
 selfheals
 sellable
@@ -6155,6 +6182,7 @@ smooshed
 smothers
 smuttier
 snailed
+snake
 snappers
 snapshotted
 snaring
@@ -6477,6 +6505,7 @@ subtilins
 subunit
 subwriter
 succeeds
+succubi
 suckle
 suctional
 sudaries
@@ -6818,7 +6847,9 @@ token
 tokers
 tokonoma
 tolbutamides
+tollbars
 tollways
+toluole
 tomatillo
 tomboyishness
 tommyrot
@@ -6856,6 +6887,7 @@ towelling
 towellings
 townies
 townwear
+toxaphene
 toxicologists
 traceability
 traced
@@ -6981,6 +7013,7 @@ turners
 turquoises
 tussis
 tussocks
+tutorage
 tutored
 tutting
 tutus
@@ -7206,6 +7239,7 @@ uphold
 uphroe
 upleapt
 upreached
+upriver
 uproariously
 uprose
 upsetters
@@ -7309,6 +7343,7 @@ virtuosities
 virtuous
 virusoids
 viscoelasticity
+viscometers
 vising
 visiting
 visualists
