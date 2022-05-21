@@ -84,6 +84,7 @@ actuarial
 actuator
 acuminates
 acutances
+acutes
 acylate
 ad
 adaptations
@@ -484,6 +485,7 @@ backlight
 backloads
 backsets
 backslapper
+backspace
 backstitches
 backwardnesses
 backwashes
@@ -567,6 +569,7 @@ beetling
 beezers
 befit
 beflagging
+befleck
 beggarly
 begirded
 begirt
@@ -716,6 +719,7 @@ boatsmen
 bobolinks
 bobsleigh
 bodings
+bodyguarding
 bog
 bogusness
 boil
@@ -1540,6 +1544,7 @@ crojiks
 cropped
 croqueted
 croqueting
+crosscut
 crosscutting
 crosse
 crossers
@@ -1564,6 +1569,7 @@ cryotherapies
 cryptanalysis
 cryptozoologies
 crystallization
+crystalloid
 cuatros
 cue
 cuing
@@ -1737,7 +1743,9 @@ defraggers
 defrost
 defuzed
 degami
+degasser
 dehisce
+dehorned
 deifier
 deinonychuses
 dejecta
@@ -2142,6 +2150,7 @@ elaters
 elderlinesses
 electors
 electroacoustic
+electroanalysis
 electrocuted
 electrograms
 electromyogram
@@ -2171,6 +2180,7 @@ empoisoning
 empressement
 emu
 emyds
+enantiomorphism
 encapsulation
 encashment
 encephalograph
@@ -2299,6 +2309,7 @@ etiologically
 etoile
 etymologist
 etymons
+eucrite
 eudaemonism
 eupatridae
 eustele
@@ -2372,6 +2383,7 @@ extraversion
 extremum
 extrinsically
 extubating
+eyes
 eyestalks
 eyewitness
 fabulates
@@ -2411,6 +2423,7 @@ fatefulness
 fatheadedly
 fatherlands
 fattens
+fattest
 faucet
 faucial
 faultfinders
@@ -2619,6 +2632,7 @@ frakturs
 framers
 franchise
 franchisees
+frankfurt
 frankincense
 frasses
 fraternizers
@@ -2967,6 +2981,7 @@ harming
 harpsichordists
 harshened
 harshly
+hartal
 haruspications
 harvesting
 hassled
@@ -3015,6 +3030,7 @@ helios
 heliostat
 heliotrope
 helium
+hellacious
 hellgrammites
 hellish
 helmsmen
@@ -3611,6 +3627,7 @@ klezmers
 klicks
 kludgiest
 knacks
+knelling
 knightlinesses
 knitter
 knobbly
@@ -4297,6 +4314,7 @@ multipack
 multiparameter
 multiplications
 multiplies
+multiproduct
 multistoried
 multiuser
 mumbling
@@ -4305,6 +4323,7 @@ mumping
 mundungus
 munis
 murders
+muricated
 murmurs
 murrs
 muscadet
@@ -4710,6 +4729,7 @@ overcrops
 overcrowding
 overcrowds
 overdeveloped
+overdrawn
 overdrinking
 overdyeing
 overemphasizing
@@ -5298,6 +5318,7 @@ prodigy
 productivity
 profanation
 profaneness
+proffered
 profitabilities
 profitableness
 profiteered
@@ -5333,6 +5354,7 @@ proprietorships
 prosoma
 prospector
 prosperities
+prostate
 protectresses
 proteome
 prothoraces
@@ -5454,6 +5476,7 @@ radiationless
 radicalize
 radioisotope
 radiolarian
+radiologically
 radiomen
 radionuclides
 radiotelephones
@@ -5569,6 +5592,7 @@ redis
 redlined
 redo
 redocked
+redoubtable
 redounded
 redshift
 reducer
@@ -5811,6 +5835,7 @@ rhododendrons
 rhodomontades
 rhombencephala
 rhumb
+ribald
 ribonucleotide
 richer
 rick
@@ -5890,6 +5915,7 @@ ruled
 ruminated
 rummages
 rumored
+runback
 runkling
 rupiah
 rush
@@ -5936,6 +5962,7 @@ salutary
 salutatorian
 salvagers
 salvation
+salvors
 samadhis
 samaras
 sambuca
@@ -6117,6 +6144,7 @@ sentimentally
 separate
 separates
 separating
+sepiolites
 septettes
 septical
 septicemia
@@ -6231,6 +6259,7 @@ simoniacal
 simulant
 simultaneity
 since
+sinew
 singalongs
 singlestick
 sins
@@ -6409,6 +6438,7 @@ spartan
 spasticity
 spathic
 spatzle
+spavies
 speakeasies
 specialising
 specialty
@@ -6536,6 +6566,7 @@ steradians
 stereotypically
 stereotypies
 sternutators
+steroidal
 stickfuls
 stiffen
 stigmatist
@@ -7255,6 +7286,7 @@ underexposure
 underexposures
 undergone
 underinflated
+underlets
 undernourished
 underpasses
 underreport
@@ -7436,6 +7468,7 @@ vapidness
 vaporer
 vaporetto
 vaporous
+vapoured
 varicoceles
 varicose
 vasectomized
@@ -7585,6 +7618,7 @@ warmongerings
 washbowls
 washeteria
 wastrie
+waterdog
 waterinesses
 wattled
 wavers
@@ -7632,6 +7666,7 @@ whitewash
 whitewashing
 whitherward
 whities
+wholesome
 whorishly
 whosever
 whupped
