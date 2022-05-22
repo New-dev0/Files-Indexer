@@ -813,6 +813,7 @@ boundlessnesses
 bouzoukia
 bovine
 bowed
+bowlegged
 bowlike
 boxhauling
 boxiest
@@ -1063,6 +1064,7 @@ casebook
 casemate
 caseworm
 cashless
+casitas
 casque
 cassenas
 castable
@@ -1199,6 +1201,7 @@ cholo
 chomped
 chondrites
 chopsocky
+chopsticks
 chorial
 chorizos
 chorographers
@@ -1304,6 +1307,7 @@ coaxed
 cobber
 cobbles
 cobnuts
+cocarboxylase
 coccidium
 coccids
 coccolith
@@ -1666,6 +1670,7 @@ culpa
 culpably
 cult
 cultivator
+culvert
 cumbersomeness
 cumulations
 cunning
@@ -1945,6 +1950,7 @@ diaeresis
 diagonalizes
 diagonally
 dialled
+dialogically
 dialogs
 diamins
 diamondbacks
@@ -2424,6 +2430,7 @@ estranger
 estreats
 estrums
 etamins
+eterne
 ethnographers
 ethnologies
 ethograms
@@ -3102,6 +3109,7 @@ habitualness
 habituating
 habituation
 habitues
+habus
 hacksawing
 hadjee
 hadji
@@ -3303,6 +3311,7 @@ hosiers
 hospitality
 hotchpotches
 hotelier
+hotheaded
 hothousing
 hotrods
 hotspot
@@ -3400,6 +3409,7 @@ immaterializes
 immersion
 immeshes
 immigrates
+immigration
 immitigably
 immixture
 immobilize
@@ -3710,6 +3720,7 @@ jitteriness
 jobholder
 jobname
 jointresses
+jojoba
 jojobas
 jokes
 jollier
@@ -4251,6 +4262,7 @@ merchantmen
 mercurations
 meringues
 merited
+meropic
 mesclun
 mesne
 mesophyllic
@@ -4584,6 +4596,7 @@ narrate
 narrow
 nasal
 nasalised
+natatoriums
 nativenesses
 naturalize
 navelworts
@@ -4780,6 +4793,7 @@ obscured
 observably
 obsession
 obstetricians
+obturations
 occiputs
 occlusions
 occupy
@@ -4929,6 +4943,7 @@ outmuscle
 outpatients
 outpray
 outpreened
+outpupil
 outranks
 outrebounds
 outrowing
@@ -5159,6 +5174,7 @@ peneplain
 penetrability
 penetrable
 penetrates
+penicillin
 penknives
 penniless
 pennon
@@ -5469,6 +5485,7 @@ postmastectomy
 postmillenarian
 postmortems
 postnatally
+postponer
 postrace
 postriders
 posttransfusion
@@ -5612,6 +5629,7 @@ pronely
 pronota
 pronouncers
 pronto
+proofreads
 proofroom
 proofrooms
 propellant
@@ -5825,7 +5843,9 @@ rebegin
 rebloomed
 rebodies
 rebought
+rebutters
 recalls
+recanting
 recapitulations
 recautioned
 recement
@@ -6079,6 +6099,7 @@ restraints
 resultant
 resummon
 resurfacer
+resurging
 resurrects
 retailored
 retaking
@@ -6181,6 +6202,7 @@ roe
 roger
 roguishnesses
 rolfer
+rollways
 romans
 romanticize
 rondeaux
@@ -6699,6 +6721,7 @@ snuffily
 soapiness
 soar
 sobbingly
+sobs
 socagers
 soccer
 socialises
@@ -6748,6 +6771,7 @@ southwestward
 souvenirs
 sovietizes
 soymilk
+soyuzes
 sozins
 spaceless
 spaded
@@ -7027,6 +7051,7 @@ suckle
 suctional
 sudaries
 sudations
+sues
 suffocation
 sugarberries
 sugarcane
@@ -7213,6 +7238,7 @@ taxa
 taximeter
 tchotchkes
 teaboxes
+teachableness
 teazelling
 teazling
 technical
@@ -7341,6 +7367,7 @@ tickles
 ticklishnesses
 tictac
 tictacking
+tidbit
 tiebreaks
 tierced
 tiling
@@ -7618,6 +7645,7 @@ uncaptioned
 uncase
 unchain
 unchairs
+unchancy
 uncinal
 uncivilized
 unclasped
@@ -7664,6 +7692,7 @@ undersurface
 undertakes
 undertaking
 undertint
+undertints
 undertrick
 underused
 underwool
@@ -7853,8 +7882,10 @@ vatus
 vaudevillians
 vaultiest
 vaunted
+vavs
 vaw
 vealy
+veering
 vegetative
 veiler
 veins
@@ -7882,6 +7913,7 @@ veritablenesses
 vermifuges
 vermilioning
 vernissage
+verso
 vesiculae
 vesiculation
 vespertilian
@@ -7930,6 +7962,7 @@ viticulture
 vitric
 vitrification
 vituperation
+vivace
 vivaces
 vivaria
 vizcacha
@@ -7973,6 +8006,7 @@ wager
 wages
 wailers
 wainscotted
+waits
 wakeboards
 walkabouts
 walkways
@@ -8167,6 +8201,7 @@ yawners
 yclept
 yearbook
 yeasayers
+yecch
 yegg
 yellowtail
 yellowthroat
