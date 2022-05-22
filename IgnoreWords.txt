@@ -287,6 +287,7 @@ anorthosites
 antalkalis
 antediluvian
 anteverts
+antherid
 anthills
 anthologizers
 antiaging
@@ -884,6 +885,7 @@ briarroots
 brickbat
 bridling
 brief
+briefcase
 brilliants
 brine
 briquet
@@ -1188,9 +1190,11 @@ charladies
 charlatanry
 charmed
 charmeuse
+charted
 chartered
 chaseable
 chats
+chattered
 chauffeur
 chawer
 checkbooks
@@ -1482,6 +1486,7 @@ conceptualized
 concessionaire
 conchologists
 conciliar
+concupiscences
 concurred
 condemning
 condolence
@@ -1890,6 +1895,7 @@ defacer
 defalcating
 defamations
 defatted
+defaulter
 defaulters
 defeater
 defeatures
@@ -1918,6 +1924,7 @@ degasser
 dehisce
 dehorned
 deifier
+deifying
 deinonychuses
 dejecta
 dekaliter
@@ -2242,6 +2249,7 @@ downshifted
 downsides
 downsized
 dowsing
+doxies
 dozening
 dozy
 drabnesses
@@ -3020,6 +3028,7 @@ gastrovascular
 gastrulation
 gaudier
 gauging
+gaveled
 gawpers
 gaynesses
 gazelle
@@ -3386,6 +3395,7 @@ hexagonally
 hexameter
 hexaplar
 hexobarbitals
+hexones
 hibernates
 hick
 hidden
@@ -3673,6 +3683,7 @@ inferable
 infiltrations
 infinitenesses
 infinitively
+infixations
 infixing
 inflamers
 inflames
@@ -3778,6 +3789,7 @@ intromitted
 introspect
 intrusively
 intubate
+inurement
 inurnments
 invected
 inveighing
@@ -3804,6 +3816,7 @@ irrational
 irrationalistic
 irrecoverable
 irreducibility
+irrefragably
 irreligions
 irresoluteness
 irrigation
@@ -3921,6 +3934,7 @@ kabab
 kabbala
 kabobs
 kaddishes
+kaddishim
 kadis
 kaffiyahs
 kainits
@@ -4145,6 +4159,7 @@ libellee
 libido
 lichenin
 lichening
+lickspittles
 liefest
 liegeman
 liens
@@ -4326,6 +4341,7 @@ mammary
 mammers
 mammonist
 mammoths
+mamzer
 manage
 mananas
 manches
@@ -4564,6 +4580,7 @@ misallotting
 misalters
 misbegin
 misbiasses
+misbinding
 misbuilds
 miscasts
 miscataloged
@@ -4623,6 +4640,7 @@ mitochondrion
 mitrewort
 mitsvoth
 mizzenmasts
+moaner
 moat
 moats
 mobcap
@@ -4798,6 +4816,7 @@ mythicize
 mythiest
 myxoma
 nabobish
+nacho
 nailbiters
 nailed
 nailer
@@ -4879,12 +4898,14 @@ niche
 nickelous
 nicker
 nidate
+nidified
 nielloed
 niffering
 niftily
 nightmarish
 nighty
 nil
+nimming
 ninebarks
 ninon
 nip
@@ -5298,6 +5319,7 @@ pained
 paintbrush
 paintier
 pairings
+pajama
 paladin
 palaestra
 palatable
@@ -5751,6 +5773,7 @@ pothunter
 potstones
 potterers
 pottiest
+pouch
 poulter
 poulterer
 pounced
@@ -6099,6 +6122,7 @@ razzberry
 razzmatazz
 reaccenting
 realisms
+realize
 realpolitik
 reamer
 reaming
@@ -6451,6 +6475,7 @@ ricks
 riddled
 ridged
 ridgels
+ridiculer
 ridicules
 ridings
 riesling
@@ -6494,6 +6519,7 @@ rollways
 romans
 romanticize
 rondeaux
+rondos
 rooming
 rootiest
 rootling
@@ -6811,6 +6837,7 @@ shadowy
 shads
 shafted
 shaitan
+shako
 shammes
 shammos
 shammosim
@@ -6898,6 +6925,7 @@ silicone
 siliquae
 silvas
 silvern
+silverpoint
 similitudes
 simmers
 simoniacal
@@ -7028,6 +7056,7 @@ snore
 snort
 snowcapped
 snowdrops
+snowplow
 snows
 snowslide
 snub
@@ -7095,6 +7124,7 @@ soyuzes
 sozins
 spaceless
 spaded
+spaeings
 spahis
 spalling
 spambot
@@ -7463,6 +7493,7 @@ susceptibly
 suspensors
 suspicious
 susurrant
+svelteness
 swages
 swaggeringly
 swamp
@@ -7476,6 +7507,7 @@ sweater
 sweats
 swede
 sweenies
+sweeping
 sweetsops
 swiftness
 swindles
@@ -7521,6 +7553,7 @@ tabbouleh
 tabernacles
 tabid
 tableaus
+tablemate
 tabulable
 tachycardias
 tackets
@@ -7756,6 +7789,7 @@ tokers
 tokonoma
 tolbutamides
 tollbars
+tolls
 tollways
 toluole
 tomatillo
@@ -8034,6 +8068,7 @@ underbelly
 underbuying
 undercoating
 underdosing
+underestimated
 underestimates
 underexposure
 underexposures
