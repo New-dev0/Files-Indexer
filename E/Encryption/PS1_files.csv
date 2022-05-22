@@ -1,0 +1,6 @@
+Functions/Invoke-AESEncryption.ps1 4.0.2.3 - PowerShell Gallery,https://www.powershellgallery.com/packages/DRTools/4.0.2.3/Content/Functions%255CInvoke-AESEncryption.ps1
+Encrypt.ps1 1.0.0.77 - PowerShell Gallery,https://www.powershellgallery.com/packages/pf-basic/1.0.0.77/Content/Encrypt.ps1
+Configuring-Encryption-for-Data-at-Rest-in-Microsoft-Azure ... - GitHub,https://github.com/ned1313/Configuring-Encryption-for-Data-at-Rest-in-Microsoft-Azure/blob/master/m6/ProvisionAzureSQLVM.ps1
+ReportingServicesTools/Restore-RsEncryptionKey.ps1 at master,https://github.com/microsoft/ReportingServicesTools/blob/master/ReportingServicesTools/Functions/Admin/Restore-RsEncryptionKey.ps1
+SecureBoot/sb_set_siglists.ps1 - VeraCrypt - Free Open source disk ...,https://www.veracrypt.fr/code/VeraCrypt-DCS/diff/SecureBoot/sb_set_siglists.ps1
+Functions/Admin/Backup-RsEncryptionKey.ps1 0.0.0.13,https://psg-prod-centralus.cloudapp.net/packages/ReportingServicesTools/0.0.0.13/Content/Functions%255CAdmin%255CBackup-RsEncryptionKey.ps1
