@@ -264,6 +264,7 @@ anarchies
 anatomised
 anatropous
 ancestored
+anchoring
 ancientries
 androgeneses
 androgynous
@@ -579,7 +580,9 @@ barny
 barograph
 baronetage
 baronetcies
+barosaurs
 barracudas
+barratries
 barterer
 bartisan
 baseless
@@ -1179,6 +1182,7 @@ chainsaws
 chaired
 chaleh
 challot
+chalumeaus
 chalupas
 chalutz
 cham
@@ -1279,6 +1283,7 @@ chrysolite
 chrysomelids
 chuckle
 chuckler
+chuckwalla
 chuddars
 chumships
 churchianity
@@ -2135,6 +2140,7 @@ disapproval
 disavow
 disbound
 disbranched
+discarder
 discased
 discernable
 disclaimer
@@ -2173,6 +2179,7 @@ displumed
 displuming
 disposable
 disposables
+disposition
 disqualify
 disrated
 disregard
@@ -2322,6 +2329,7 @@ dunches
 duncishly
 dupped
 dupping
+durative
 durneder
 durrs
 durst
@@ -3152,6 +3160,7 @@ godlily
 godmothering
 goldeyes
 golfers
+gomerils
 gone
 gongoristic
 goober
@@ -3205,6 +3214,7 @@ greensick
 greensickness
 greensward
 greenwoods
+greet
 gregariously
 gremials
 gremmie
@@ -3574,6 +3584,7 @@ ideogrammic
 idle
 if
 iffinesses
+iffy
 ifs
 ignitability
 ignited
@@ -3656,6 +3667,7 @@ incentivized
 inceptive
 inchoateness
 incisal
+incited
 incivilities
 inclement
 inclip
@@ -4190,6 +4202,7 @@ libellee
 libido
 lichenin
 lichening
+licit
 lickspittles
 liefest
 liegeman
@@ -4502,6 +4515,7 @@ mercenaries
 mercenarinesses
 merchantmen
 mercurations
+meridians
 meringues
 merited
 meropic
@@ -4824,6 +4838,7 @@ muscadets
 muscovados
 muscularly
 musher
+mushier
 music
 musicologies
 muskrat
@@ -5263,6 +5278,7 @@ overbriefed
 overcharge
 overcompresses
 overcool
+overcools
 overcorrecting
 overcrops
 overcrowding
@@ -5434,6 +5450,7 @@ pasteurizing
 pastor
 pastored
 pastromis
+patcher
 pathetically
 pathologies
 pathos
@@ -5517,6 +5534,7 @@ perithecial
 peritoneal
 peritoneally
 peritonitis
+peritonitises
 peritrichously
 periwinkles
 perjurious
@@ -5670,6 +5688,7 @@ pitcher
 pitching
 piteous
 pithy
+pitiable
 pittas
 placatory
 placentals
@@ -6064,6 +6083,7 @@ pyrotechnical
 pyxides
 qabalahs
 quadrate
+quadrats
 quadrics
 quadrivalents
 quadrumvir
@@ -6165,6 +6185,7 @@ razzamatazz
 razzberry
 razzmatazz
 reaccenting
+reaccepted
 realisms
 realize
 realpolitik
@@ -6286,6 +6307,7 @@ refloat
 reflooding
 refluxed
 refly
+reforests
 reformulating
 reformulation
 refortifies
@@ -6389,9 +6411,11 @@ repapers
 repatriate
 repaving
 repeat
+repegged
 repenter
 repetitious
 repinning
+replica
 replicons
 replunging
 repos
@@ -6552,6 +6576,7 @@ ritually
 rivetted
 rivieras
 rivulets
+roadabilities
 roadhouse
 roadkill
 roadster
@@ -6729,6 +6754,7 @@ scarlets
 scars
 scary
 scatback
+scattershot
 scaur
 scavenging
 scenical
@@ -6792,6 +6818,7 @@ seafoods
 sealant
 seamanships
 seaquakes
+searchingly
 seascouts
 seatbelts
 seatings
@@ -7023,6 +7050,7 @@ skillet
 skimping
 skinflint
 skinners
+skippered
 skippering
 skirmisher
 skirrs
@@ -7076,6 +7104,7 @@ slurban
 smacking
 smaragdite
 smegma
+smelter
 smidges
 smidgin
 smiles
@@ -7110,6 +7139,7 @@ snooker
 snoots
 snore
 snort
+snottily
 snowcapped
 snowdrops
 snowplow
@@ -7691,6 +7721,7 @@ televise
 televisor
 telex
 tellable
+telomere
 telophases
 telotaxis
 tempestuous
@@ -7947,6 +7978,7 @@ trembled
 trenail
 trendies
 trendoid
+trendsetting
 trephines
 trevallies
 triazin
@@ -8382,12 +8414,14 @@ verdured
 veritablenesses
 vermifuges
 vermilioning
+vermuth
 vernissage
 verso
 vesiculae
 vesiculation
 vespertilian
 vested
+vestry
 vetiver
 vetivert
 vexer
@@ -8612,6 +8646,7 @@ wolfishly
 wolflike
 womans
 womenfolk
+womenfolks
 wonderfully
 wonkiest
 wonky
