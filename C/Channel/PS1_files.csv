@@ -1,0 +1,16 @@
+Update-Office365.ps1 1.1.4 - PowerShell Gallery,https://www.powershellgallery.com/packages/Update-Office365/1.1.4/Content/Update-Office365.ps1
+Public/Get-SlackChannel.ps1 0.0.1 - PowerShell Gallery,https://www.powershellgallery.com/packages/PSSlack/0.0.1/Content/Public%255CGet-SlackChannel.ps1
+SlackExtract/SlackExtract.ps1 at master · clr2of8/SlackExtract - GitHub,https://github.com/clr2of8/SlackExtract/blob/master/SlackExtract.ps1
+ConfigMgr/Set-OPPUpdateChannel.ps1 at master - GitHub,https://github.com/MSEndpointMgr/ConfigMgr/blob/master/Compliance%2520Settings/Set-OPPUpdateChannel.ps1
+onig 3.0.0 - Docs.rs,https://docs.rs/crate/onig/3.0.0/source/appveyor_rust_install.ps1
+Private/Parse-SlackChannel.ps1 0.0.2 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/PSSlack/0.0.2/Content/Private%255CParse-SlackChannel.ps1
+.SYNOPSIS Installs or updates Visual Studio on a local developer ...,https://raw.githubusercontent.com/dotnet/aspnetcore/main/eng/scripts/InstallVisualStudio.ps1
+Copyright (c) .NET Foundation and contributors. All rights reserved ...,https://raw.githubusercontent.com/dotnet/cli/rel/1.0.0-preview1/scripts/obtain/dotnet-install.ps1
+node_modules/.bin/atob.ps1 ... - GitLab Community Edition,http://git.jf180.cn/jeecg/channel-web/blob/c695d1be5967b4d8cec52cabecbf91a575e7daae/node_modules/.bin/atob.ps1
+PowerShell: .../PSDiagnostics.Tests.ps1 | Fossies,https://fossies.org/linux/PowerShell/test/powershell/Modules/PSDiagnostics/PSDiagnostics.Tests.ps1
+Public/New-SlackMessage.ps1 0.1.1 - PowerShell Gallery,https://40.87.85.101/packages/PSSlack/0.1.1/Content/Public%255CNew-SlackMessage.ps1
+install.ps1 · master · Platform One / Distros / Rancher Federal ...,https://repo1.dso.mil/platform-one/distros/rancher-federal/rke2/rke2/-/blob/master/install.ps1
+tools/UpdateDotnetRuntime.ps1 · dependabot/nuget/Microsoft ...,https://gitcode.net/mirrors/PowerShell/PowerShell/-/blob/dependabot/nuget/Microsoft.ApplicationInsights-2.16.0/tools/UpdateDotnetRuntime.ps1%3Ffrom_codechina%3Dyes
+post-to-teams.ps1 · drive-letter-fix · engrit-epm / sccm-ts-scripts - GitLab,https://gitlab-beta.engr.illinois.edu/engrit-epm/sccm-ts-scripts/-/blob/drive-letter-fix/post-to-teams.ps1
+appveyor_rust_install.ps1 ...,https://gitlab.enseeiht.fr/tforgione/simplelog/blob/0deca61bba8534bdea58df72191ed9facaadd7ad/appveyor_rust_install.ps1
+new-module -name Omnitruck -scriptblock { [Console ...,https://omnitruck.chef.io/install.ps1
