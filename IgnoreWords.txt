@@ -179,6 +179,7 @@ alifs
 alines
 aliterates
 alkalified
+alkalise
 alkalized
 alkalizing
 allee
@@ -603,6 +604,7 @@ beachside
 beaning
 beano
 bearberries
+beargrasses
 beatify
 beauteousnesses
 beavering
@@ -641,6 +643,7 @@ beldams
 belfried
 beliquoring
 belletristic
+belletrists
 bellflower
 bellworts
 bellyacher
@@ -872,7 +875,9 @@ brander
 brannigan
 brashnesses
 bratwursts
+brava
 brawlier
+brawnier
 brazening
 breading
 breadless
@@ -956,6 +961,7 @@ buncoing
 bundled
 bunglers
 bunk
+bunns
 burb
 burbliest
 burbling
@@ -1104,6 +1110,7 @@ cartwheeling
 casebearers
 casebook
 casemate
+caserns
 caseworm
 cashless
 casitas
@@ -1335,6 +1342,7 @@ cloistered
 clonuses
 closeted
 closeup
+closing
 clostridia
 clotheshorses
 clotheslined
@@ -1383,6 +1391,7 @@ codas
 codders
 coded
 codeveloper
+codirected
 codiscoverer
 codlings
 coeducation
@@ -1832,6 +1841,7 @@ damosel
 damozels
 dampener
 damping
+damselflies
 dankest
 dans
 darbs
@@ -2864,6 +2874,7 @@ follower
 followup
 fonded
 foofaraws
+foolfish
 foolishly
 foolishnesses
 footballs
@@ -3178,6 +3189,7 @@ graveless
 gravenesses
 gravitinos
 gravity
+grayback
 graylag
 grayouts
 grazier
@@ -3365,6 +3377,7 @@ heliotrope
 helium
 hellacious
 hellgrammites
+hellhound
 hellish
 helmsmen
 helots
@@ -3474,6 +3487,7 @@ hornist
 horrid
 horsepox
 horsepoxes
+horseshit
 horseweed
 horsinesses
 hoses
@@ -3612,6 +3626,7 @@ impish
 implausibility
 implead
 importunely
+imposes
 impoverishing
 imprecating
 imprecation
@@ -3656,6 +3671,7 @@ incorruptibles
 incorruptly
 incrossing
 incubates
+inculpated
 incur
 incuriosity
 incusing
@@ -3751,6 +3767,7 @@ integrating
 intenerations
 intense
 interacted
+interarch
 intercept
 intercollegiate
 intercomparing
@@ -4099,6 +4116,7 @@ laryngoscopes
 lastings
 latches
 lati
+latifundios
 latinized
 latu
 laudator
@@ -4368,6 +4386,7 @@ manicured
 manifestly
 manilas
 manna
+mannerist
 mannerless
 mannishnesses
 manoeuvres
@@ -4687,6 +4706,7 @@ monaxons
 money
 moneygrubbing
 mongrel
+monishing
 monitions
 monkfishes
 monoacids
@@ -5044,6 +5064,7 @@ objurgates
 oblateness
 obligation
 obligato
+obliged
 obliquely
 obliterator
 obnubilates
@@ -5339,6 +5360,7 @@ pairings
 pajama
 paladin
 palaestra
+palaestrae
 palatable
 paleae
 paleobiologists
@@ -5353,6 +5375,7 @@ paludal
 pampa
 panatella
 panickiest
+paniculate
 panicums
 panner
 pans
@@ -5412,6 +5435,7 @@ pastor
 pastored
 pastromis
 pathetically
+pathologies
 pathos
 pathoses
 patissier
@@ -5690,6 +5714,7 @@ plex
 plicated
 plies
 pliofilm
+pliskie
 plowmen
 plowshare
 ploys
@@ -6265,6 +6290,7 @@ reformulating
 reformulation
 refortifies
 refractometric
+refracts
 refrained
 refrangible
 refreshers
@@ -6365,6 +6391,7 @@ repaving
 repeat
 repenter
 repetitious
+repinning
 replicons
 replunging
 repos
@@ -6523,6 +6550,7 @@ riskers
 risus
 ritually
 rivetted
+rivieras
 rivulets
 roadhouse
 roadkill
@@ -6559,6 +6587,7 @@ rotls
 rouches
 roughcasting
 roundhouse
+roundlet
 roundsmen
 roundtable
 roundtables
@@ -7315,6 +7344,7 @@ stiffen
 stigmatist
 stilbenes
 stillborn
+stills
 stingless
 stipplings
 stipulate
@@ -7490,6 +7520,7 @@ superpremium
 superrealisms
 supersecrecies
 supersecrecy
+supersessions
 supersleuth
 superspecialist
 superspies
@@ -7959,6 +7990,7 @@ trivialist
 trochar
 trochilus
 trocked
+troke
 trolley
 tronas
 tropomyosin
@@ -8014,6 +8046,7 @@ tutus
 tweezing
 twelfth
 twerps
+twiggiest
 twilight
 twilling
 twinkles
@@ -8032,6 +8065,7 @@ ulnad
 ulpanim
 ultimacies
 ultraexclusive
+ultrafeminine
 ultramodernists
 ultrared
 ultraroyalist
@@ -8054,6 +8088,7 @@ unanswerably
 unappealingly
 unaspirated
 unattractively
+unbacked
 unbloody
 unblushing
 unbolting
