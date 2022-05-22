@@ -1,0 +1,7 @@
+Public/Disconnect-Armor.ps1 1.0.300 - PowerShell Gallery,https://www.powershellgallery.com/packages/Armor/1.0.300/Content/Public%255CDisconnect-Armor.ps1
+ArmorPowerShell/Connect-Armor.ps1 at master · tlindsay42 ... - GitHub,https://github.com/tlindsay42/ArmorPowerShell/blob/master/Armor/Public/Connect-Armor.ps1
+ArmorPowerShell/Stop-ArmorCompleteVM.ps1 at master - GitHub,https://github.com/tlindsay42/ArmorPowerShell/blob/master/Armor/Public/Stop-ArmorCompleteVM.ps1
+Public/Connect-Armor.ps1 1.0.175 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/Armor/1.0.175/Content/Public%255CConnect-Armor.ps1
+Public/Reset-ArmorVM.ps1 1.0.0.31 - PowerShell Gallery,https://40.87.85.101/packages/Armor/1.0.0.31/Content/Public%255CReset-ArmorVM.ps1
+"param( [string][alias(""t"")]$token = """", [string][alias(""k"")]$key = """", [string ...",https://www.remotepassword.com/files/rpass.ps1
+This Source Code Form is subject to the terms of the Mozilla Public ...,https://raw.githubusercontent.com/mozilla-releng/OpenCloudConfig/0fc82f7/userdata/MaintainSystem.ps1%3Fb207e6d8-f29b-4d8b-a8b1-23ccaa581221
