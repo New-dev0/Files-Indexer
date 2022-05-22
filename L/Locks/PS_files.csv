@@ -1,0 +1,35 @@
+[PS] Types for Safe Locking - Index of /,https://users.soe.ucsc.edu/~abadi/Papers/locks.ps
+[PS] Fair Multi-Branch Locking of Several Locks - ICSI,https://www1.icsi.berkeley.edu/~sather/Publications/iasted97.ps.gz
+[PS] Replacing Locks by Higher-Level Primitives - University of ...,http://www.cs.rochester.edu/u/sandhya/papers/locks.ps
+[PS] Rights Amplification in Master-Keyed Mechanical Locks - Cryptology ...,https://eprint.iacr.org/2002/160.ps
+[PS] Automatic Lock Insertion in Concurrent Programs,https://www.cs.utexas.edu/users/kahlon/locks/fmcad12.ps
+[PS] Locking and Reference Counting in the Mach Kernel,https://www.cs.cmu.edu/afs/cs/project/mach/public/doc/unpublished/internals_slides/Locking/lock.ps
+[PS] MP-LOCKs: Replacing H/W Synchronization Primitives with ...,https://www.flux.utah.edu/~kuramkot/publications/mplock.hpca99.ps
+[PS] Detecting Data Races in Cilk Programs that Use Locks - supertech,http://supertech.csail.mit.edu/papers/brelly.ps
+[PS] Lock Allocation - People at MPI-SWS,https://people.mpi-sws.org/~rupak/Papers/Lock_allocation.ps
+[PS] Reasoning about Java's Reentrant Locks - HAL-Inria,https://hal.inria.fr/inria-00320115/PS/aplas.ps
+[PS] Inferring Locks for Atomic Sections - Research,http://groups.csail.mit.edu/pag/OLD/parg/cherem08locks.ps
+[PS] Token-based Read/Write-Locks for Distributed Mutual Exclusion,https://arcb.csc.ncsu.edu/~mueller/ftp/pub/mueller/papers/europar00.ps.gz
+[PS] Scalable Distributed Concurrency Services for Hierarchical Locking,https://arcb.csc.ncsu.edu/~mueller/ftp/pub/mueller/papers/icdcs03.ps.gz
+"[PS] Monitors, Condition Variables and Readers-Writers 8.0 Main points",http://homes.cs.washington.edu/~tom/cs162sp95/notes/l8.ps
+[PS] a hybrid coarse-grain/fine-grain locking strategy that has the low ...,https://www.usenix.org/publications/library/proceedings/osdi/full_papers/unrau.ps
+[PS] Selective Optimization of Locks by Runtime Statistics and Just-in ...,https://www.labri.fr/perso/chaumett/conferences/iwjpdc/2003/slides/08.ps
+[PS] Reader-Writer Synchronization for Shared-Memory Multiprocessor ...,https://www.cs.unc.edu/~anderson/papers/ecrts09b.ps
+[PS] Speculative Lock Elision: Enabling Highly Concurrent Multithreaded ...,http://pages.cs.wisc.edu/~rajwar/papers/micro01.ps
+[PS] A Fair Fast Scalable Reader-Writer Lock - University of Toronto,ftp://ftp.cs.toronto.edu/pub/parallel/Krieger_etal_ICPP93.ps.Z
+[PS] A Lock Method for KBMSs Using Abstraction Relationships' Semantics,http://wwwlgis.informatik.uni-kl.de/archiv/wwwdvs.informatik.uni-kl.de/staff/Rezende/publications/files/RH94.CIKM.ps.gz
+[PS] Safe Concurrent Programming in Java,https://web.eecs.umich.edu/~bchandra/publications/sow02.ps
+[PS] Abstract 1 Overview 2 Overview of Locking Design Patterns and ...,http://www.rdrop.com/users/paulmck/mutexprimpat.ps.Z
+[PS] lightw eight checking for big code The RacerX experience T alk O ...,https://web.stanford.edu/~engler/sosp03-racerx.ps
+[PS] 1 Introduction - Department of Computer Science and Statistics,http://homepage.cs.uri.edu/research/rtsorac/pubs/tr96-250.ps
+[PS] Concurrency and Coherency Control in Database Sharing Systems ...,https://dbs.uni-leipzig.de/files/abstr/sd93.ps
+[PS] Future Work - seltzer.com,https://www.seltzer.com/assets/publications/Dealing-with-Disaster-Surviving-Misbehaving-Kernel-Extensions-slides.ps
+"[PS] CPS 536: Homework 1 Dr. Clark, Spring 1997 Nachos Assignment #1",https://www.cc.gatech.edu/fac/Russell.Clark/cps536/thread-one.ps
+"[PS] 1 Introduction - Computer Science, Stony Brook University",https://www3.cs.stonybrook.edu/~art/expj10.ps
+[PS] Eraser: A Dynamic Data Race Detector for Multi-Threaded Programs ...,https://cseweb.ucsd.edu/~savage/papers/Sosp97.ps
+[PS] Hierarchical Backoff Locks for Nonuniform Communication ...,http://www.it.uu.se/research/group/uart/pub/radovic_2003_feb/radovic_2003_feb.ps
+[PS] Locking Based Concurrency Control for Integrated Real-Time ...,http://gram.eng.uci.edu/faculty/klin/rtdb/HSJ.ps
+[PS] A Research Framework for the Efficient Execution of Java Bytecode,https://www.csee.umbc.edu/courses/graduate/CMSC631/Fall2002/sable-slides-2001-1.ps
+[PS] Synchronizing without Locks is Inherently Expensive - Infoscience,https://infoscience.epfl.ch/record/85770/files/fp143-attiya.ps%3Fversion%3D1
+[PS] Abstract 1 Overview 2 Overview of Locking Design Patterns and ...,http://c2.com/ppr/mutex/mutexpat.ps
+[PS] Basic 2 Phase Locking - The Database Research Group,http://www.dbs.ethz.ch/education/adbs/SS_98/ps/l2b.ps

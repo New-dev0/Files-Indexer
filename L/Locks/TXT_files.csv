@@ -1,0 +1,9 @@
+Mandatory File Locking For The Linux Operating System,https://www.kernel.org/doc/Documentation/filesystems/mandatory-locking.txt
+File Locking Release Notes Andy Walker <andy@lysaker.kvaerner ...,https://www.kernel.org/doc/Documentation/filesystems/locks.txt
+faq-locks.txt - MIT PDOS,https://pdos.csail.mit.edu/6.828/2019/lec/faq-locks.txt
+Multiprocessors and locking - MIT PDOS,https://pdos.csail.mit.edu/6.S081/2020/lec/l-lockv2.txt
+hb/locks.txt at main · vszakats/hb - GitHub,https://github.com/vszakats/hb/blob/main/doc/locks.txt
+libzypp/locks.5.txt at master - GitHub,https://github.com/openSUSE/libzypp/blob/master/doc/locks.5.txt
+adaptive-locks-and-preemption.txt,https://www.cs.dartmouth.edu/~sergey/cs258/adaptive-locks-and-preemption.txt
+sync3-eraser.txt,http://pages.cs.wisc.edu/~thanhdo/qual-notes/sync/sync3-eraser.txt
+Locking and Consistency,http://marcua.net/notes/6.830/lec14_locking_and_consistency.txt
