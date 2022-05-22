@@ -1,0 +1,19 @@
+functions/Copy-DbaSqlServerAgent.ps1 0.9.51 - PowerShell Gallery,https://www.powershellgallery.com/packages/dbatools/0.9.51/Content/functions%255CCopy-DbaSqlServerAgent.ps1
+Public/Users/New-Five9User.ps1 1.0.97 - PowerShell Gallery,https://www.powershellgallery.com/packages/PSFive9Admin/1.0.97/Content/Public%255CUsers%255CNew-Five9User.ps1
+SecretManagement/doBuild.ps1 at master · PowerShell ... - GitHub,https://github.com/PowerShell/SecretManagement/blob/master/doBuild.ps1
+powershell/Copy File to Remote PC.ps1 at master - GitHub,https://github.com/cosine83/powershell/blob/master/Copy%2520File%2520to%2520Remote%2520PC.ps1
+copy-runtime-files.ps1 - ring-client-windows - Gitiles,https://review.jami.net/plugins/gitiles/ring-client-windows/%2B/refs/heads/master/copy-runtime-files.ps1
+copy-runtime-files.ps1 - ring-client-windows - Gitiles - Gerrit Code ...,https://review.jami.net/plugins/gitiles/ring-client-windows/%2B/6019918a518317340f4043c3b6b1666809c39f6c/copy-runtime-files.ps1
+"Param( [switch] $installOnly, [switch] $filesOnly, [string ...",https://raw.githubusercontent.com/microsoft/nav-docker/master/generic/Run/150-new/navinstall.ps1
+liqun/OfficeModel2 · mirrors / microsoft / CNTK - GitCode,https://gitcode.net/mirrors/microsoft/CNTK/-/blob/liqun/OfficeModel2/Tools/make_binary_drop_windows.ps1%3Ffrom_codechina%3Dyes
+lib/ansible/modules/windows/win_robocopy.ps1 | Fossies,https://fossies.org/linux/ansible/lib/ansible/modules/windows/win_robocopy.ps1
+ansible2/ansible/modules/windows/win_msg.ps1 ... - CS@VT,https://version.cs.vt.edu/techstaff/linux-audit/-/blob/ea4bf77c2666f3c45d659ad15169881bc1f529b1/ansible2/ansible/modules/windows/win_msg.ps1
+core/Copy-FilesToRemoteServer/Copy ... - PowerShell Gallery,https://40.87.85.101/packages/PSCI/1.0.11/Content/core%255CCopy-FilesToRemoteServer%255CCopy-FilesToRemoteServer.Tests.ps1
+lib/ansible/modules/windows/win_robocopy.ps1 · master,https://gitlabdev.ics.muni.cz/242618/ansible/-/blob/master/lib/ansible/modules/windows/win_robocopy.ps1
+$Id$ ## @file # VirtualBox Validation Kit - network cleanup script ...,https://www.virtualbox.org/svn/vbox/trunk/src/VBox/ValidationKit/testdriver/win-vbox-net-uninstall.ps1
+Build-PsadtPlus.ps1 · master · CyberMoloch / PSAppDeployToolkit ...,https://gitlab.com/cybermoloch/psappdeploytoolkit-plus/-/blob/master/Build-PsadtPlus.ps1
+windows/setup-lab2.ps1 ... - GitLab - HAW Hamburg,https://git.haw-hamburg.de/adia/setup/-/blob/3eb5b2d4cedb94d9e9f325a186af631008dfb06d/windows/setup-lab2.ps1
+installOnLocalXampp.ps1 · version1 · projekt / freiraum · GitLab,https://gitup.uni-potsdam.de/projekt/freiraum/-/blob/version1/installOnLocalXampp.ps1
+scripts/windows-install-dependencies.ps1 - GitLab Inria,https://gitlab.inria.fr/openvibe/designer/blob/b12ccb94b7ac5690dfd7a7b705e70ff4a228a552/scripts/windows-install-dependencies.ps1
+ansiblePortable/py3/ansible/ansible/modules/windows ... - GitLab,https://git.psuti.ru/ipa-gpo/scripts/-/blob/f79bbebc3788ad0886b68da4c45f96ddf79f1822/ansiblePortable/py3/ansible/ansible/modules/windows/win_regmerge.ps1
+https://omd.rhrk.uni-kl.de/windows/plugins/citrix_...,https://omd.rhrk.uni-kl.de/windows/plugins/citrix_farm.ps1

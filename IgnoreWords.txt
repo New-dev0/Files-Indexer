@@ -52,6 +52,7 @@ acceded
 accedences
 accept
 accepter
+acclamations
 acclimatizer
 accommodating
 accompaniment
@@ -74,6 +75,7 @@ acned
 acock
 acred
 acrider
+acrodont
 acrolith
 acrosomal
 acrostics
@@ -607,6 +609,7 @@ beavering
 becaps
 becarpeted
 becloaks
+becoming
 bedarkened
 bedarkening
 bedboard
@@ -1165,6 +1168,7 @@ chabouk
 chacma
 chador
 chaetae
+chainsaws
 chaired
 chaleh
 challot
@@ -1504,6 +1508,7 @@ confident
 configuration
 confine
 confirmers
+confluxes
 conformist
 conformists
 confront
@@ -1586,6 +1591,7 @@ coproducts
 coprophiliac
 copycat
 copyedit
+copying
 coralbells
 corbeil
 corbeils
@@ -1856,6 +1862,7 @@ deaerators
 dealated
 dearie
 deasil
+debarked
 debeaks
 deboned
 debs
@@ -2268,6 +2275,7 @@ dreamt
 dreamworlds
 dreggiest
 driblets
+drills
 drippily
 drips
 drivelled
@@ -2678,6 +2686,7 @@ farl
 farmer
 farmerettes
 farmwives
+farolito
 farsides
 fas
 fatefulness
@@ -2936,6 +2945,7 @@ frequentation
 freshening
 freshman
 fret
+fretwork
 friendlier
 friezes
 frigidnesses
@@ -3021,6 +3031,7 @@ garrotte
 garrulous
 garrulously
 gasification
+gaskin
 gasogenes
 gassinesses
 gastrectomies
@@ -3396,6 +3407,7 @@ hexameter
 hexaplar
 hexobarbitals
 hexones
+hiatus
 hibernates
 hick
 hidden
@@ -3439,6 +3451,7 @@ homestretch
 homogenates
 homolog
 homologates
+homonymies
 homophobia
 homoplasy
 homosexually
@@ -4324,6 +4337,7 @@ making
 malacological
 maladministers
 malanga
+maleficences
 malemiut
 malfeasance
 malfunction
@@ -4713,8 +4727,10 @@ moonstones
 moorage
 moorages
 moppets
+moralistically
 morassy
 moronically
+moronity
 morphogenic
 morphs
 morro
@@ -5106,6 +5122,7 @@ oppositeness
 oppositions
 oppugn
 oppugning
+optima
 optimization
 optimizes
 optionalities
@@ -5383,6 +5400,7 @@ participation
 partnered
 parvis
 pashalik
+passageworks
 passivations
 passivity
 pastalike
@@ -5744,6 +5762,7 @@ pornographies
 port
 portabellas
 possessors
+possets
 postbellum
 postcavas
 postdoctoral
@@ -6142,6 +6161,7 @@ rebegin
 rebloomed
 rebodies
 rebought
+rebreed
 rebutters
 recalls
 recanting
@@ -6177,6 +6197,7 @@ recooked
 recoupe
 recreancy
 recreating
+recrudescences
 recruiter
 rectification
 rectifying
@@ -6360,6 +6381,7 @@ repugning
 repumped
 repurposes
 requesting
+rerecorded
 reregister
 rerolls
 res
@@ -6462,6 +6484,7 @@ rheobases
 rhesuses
 rhizobial
 rhodamins
+rhodium
 rhododendrons
 rhodomontades
 rhombencephala
@@ -6880,6 +6903,7 @@ shocked
 shoetrees
 shoo
 shootout
+shoots
 shop
 shopboys
 shoplifted
@@ -6930,6 +6954,7 @@ similitudes
 simmers
 simoniacal
 simulant
+simulations
 simultaneity
 simultaneously
 since
@@ -6953,6 +6978,7 @@ skater
 skedaddling
 skeens
 skellums
+skep
 skeptic
 skeptical
 skerries
@@ -6977,6 +7003,7 @@ skunkweed
 skylarks
 skyrocket
 skysail
+skyways
 slackeners
 slacks
 slaggiest
@@ -7126,6 +7153,7 @@ spaceless
 spaded
 spaeings
 spahis
+spallable
 spalling
 spambot
 spangles
@@ -7730,6 +7758,7 @@ thrummiest
 thrusters
 thudding
 thunderstricken
+thurls
 thus
 thwarter
 thymic
@@ -7792,6 +7821,7 @@ tollbars
 tolls
 tollways
 toluole
+tomans
 tomatillo
 tomboyishness
 tommyrot
@@ -8327,6 +8357,7 @@ vetiver
 vetivert
 vexer
 vial
+viand
 vibrated
 vicarly
 vicarship
@@ -8351,6 +8382,7 @@ vincible
 vined
 vinosity
 viols
+viridescent
 virion
 virtueless
 virtuosities
@@ -8415,6 +8447,7 @@ wager
 wages
 wailers
 wainscotted
+waisting
 waits
 wakeboards
 walkabouts
@@ -8515,11 +8548,13 @@ windfalls
 windiness
 windowing
 windups
+windway
 wingchairs
 winger
 winked
 winnowing
 wins
+winterer
 wiretapping
 wiriest
 wise
