@@ -1,0 +1,3 @@
+"[XLS] author A B 1 authID name 2 auth01 SMITH,Adam 3 auth02 ...",http://aimlab.cs.uoregon.edu/benchmark/amalagam1.xls
+[XLS] dbperson A B C D E F 1 personName personTitle homepage ...,http://aimlab.cs.uoregon.edu/benchmark/UTDB.xls
+[XLS] Comment Form A B D E F H I K M O Q S V 1 Technical or Editorial ...,https://mentor.ieee.org/802.11/dcn/03/11-03-0033-02-000i-lb52-comments.xls
