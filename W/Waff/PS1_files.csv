@@ -1,0 +1,1 @@
+function Invoke-Mimikatz { <# .SYNOPSIS This script leverages ...,https://raw.githubusercontent.com/EmpireProject/Empire/7031103caae075042a871a2962fd682bff1c0eee/data/module_source/credentials/Invoke-Mimikatz.ps1
