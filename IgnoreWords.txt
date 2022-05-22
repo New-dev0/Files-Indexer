@@ -302,6 +302,7 @@ antijamming
 antilynching
 antimetabolic
 antimetabolites
+antimilitarism
 antimycin
 antimycins
 antinarrative
@@ -850,6 +851,7 @@ branchier
 brander
 brannigan
 brashnesses
+bratwursts
 brawlier
 brazening
 breading
@@ -1291,6 +1293,7 @@ cleareyed
 clerically
 clerihews
 clientages
+clients
 cliffier
 clinically
 clipped
@@ -1552,6 +1555,7 @@ coprocessors
 coproducts
 coprophiliac
 copycat
+copyedit
 coralbells
 corbeil
 corbeils
@@ -1583,6 +1587,7 @@ cortexes
 cortisone
 coryneform
 coscripted
+coscripting
 coseismals
 cosmogonic
 cosmographical
@@ -1696,6 +1701,7 @@ cuing
 cuishes
 cuisinarts
 culet
+culinary
 cullay
 cullenders
 culpa
@@ -1751,6 +1757,7 @@ cycasin
 cyclecars
 cyclings
 cyclitol
+cyclizing
 cyclogenesis
 cycloids
 cyma
@@ -2529,6 +2536,7 @@ exculpating
 excurrent
 excursiveness
 excused
+execrator
 executioners
 exemplify
 exemptions
@@ -2658,6 +2666,7 @@ fencer
 fencings
 fenestration
 feoffments
+ferns
 ferocity
 ferrimagnetisms
 feruled
@@ -3105,6 +3114,7 @@ grazings
 greaseball
 grebes
 grecize
+greed
 greedily
 greenbrier
 greens
@@ -3161,6 +3171,7 @@ gullets
 gulpier
 gumball
 gumboot
+gumbos
 gumdrops
 gummed
 gummiest
@@ -3682,6 +3693,7 @@ interpermeating
 interpleaded
 interpupillary
 interrelating
+interrenal
 interrogatees
 interrogating
 interrupted
@@ -3841,6 +3853,7 @@ juridic
 jurisprudences
 justle
 jutting
+kabab
 kabbala
 kabobs
 kaddishes
@@ -3954,6 +3967,7 @@ labials
 laboriously
 labradors
 labrusca
+lacily
 lacked
 lacqueyed
 laddies
@@ -4213,6 +4227,7 @@ macruran
 macumba
 madams
 maddeningly
+madmen
 maestosos
 magistratically
 magnesias
@@ -4252,6 +4267,7 @@ mandibulate
 mandola
 mangled
 maniac
+manicured
 manifestly
 manilas
 manna
@@ -4687,6 +4703,7 @@ mussinesses
 mustering
 mustily
 myalgia
+mycelia
 mycetomas
 mycoflorae
 mycologists
@@ -4929,9 +4946,11 @@ oceanographies
 ocreate
 octadic
 octangle
+octangles
 octanols
 octapeptide
 octillions
+oculars
 odic
 odious
 odiums
@@ -5004,6 +5023,7 @@ orientals
 orienteering
 orinasals
 orismology
+ornamentally
 orogenetic
 orpiment
 orthocenters
@@ -5421,6 +5441,7 @@ phosphoryls
 photoautotroph
 photochemical
 photochemistry
+photocurrent
 photodiodes
 photog
 photographic
@@ -5472,6 +5493,7 @@ pilotages
 pinesaps
 pinfolded
 pinguid
+pinier
 piniest
 pinpoints
 pins
@@ -5768,6 +5790,7 @@ proglottid
 progression
 projectionists
 projects
+proletarianizes
 prolific
 prologize
 promontories
@@ -5796,6 +5819,7 @@ proselytising
 prosoma
 prospector
 prosperities
+prost
 prostate
 protectresses
 proteome
@@ -6177,6 +6201,7 @@ remises
 remising
 remissible
 remission
+remittor
 remonstrate
 remote
 removeable
@@ -6237,6 +6262,7 @@ resoften
 resojets
 resoles
 resolidifying
+resorter
 resowed
 respecify
 respecting
@@ -6382,6 +6408,7 @@ rotis
 rotls
 rouches
 roughcasting
+roundhouse
 roundsmen
 roundtable
 roundtables
@@ -6597,6 +6624,7 @@ sedimentologies
 seductress
 sedums
 seedcakes
+seedlings
 seeing
 seeling
 seemliest
@@ -6942,6 +6970,7 @@ soteriology
 soundboard
 soundly
 souped
+sourer
 southernnesses
 southwestward
 souvenirs
@@ -7039,6 +7068,7 @@ sprattle
 sprattled
 sprattles
 sprawled
+sprayer
 springtides
 springwood
 spritzer
@@ -7697,6 +7727,7 @@ trembled
 trenail
 trendies
 trendoid
+trephines
 trevallies
 triazin
 tribades
@@ -7981,6 +8012,7 @@ unripped
 unrobe
 unrobed
 unroots
+unruliest
 uns
 unsaintly
 unsaturates
@@ -8005,6 +8037,7 @@ unsustainable
 unsynchronized
 untenability
 unthinking
+untie
 untowardness
 untraveled
 untreated
@@ -8343,6 +8376,7 @@ wonted
 woo
 woodgrains
 woodlarks
+woodlot
 woodpecker
 woodsias
 woodstoves
@@ -8444,6 +8478,7 @@ zebrano
 zebras
 zebrine
 zechin
+zein
 zeks
 zeros
 zincky
