@@ -583,6 +583,7 @@ baptismal
 baptismally
 bareboat
 bareboned
+barefacedly
 baritone
 barium
 barman
@@ -1090,6 +1091,7 @@ capacitive
 capacitor
 capercaillies
 capering
+capitols
 capsulizes
 captivities
 captor
@@ -1119,6 +1121,7 @@ caribes
 caricatured
 caricatures
 caricaturist
+carioca
 carking
 carnassial
 caroller
@@ -1387,6 +1390,7 @@ clumping
 clumsiest
 clung
 clupeids
+clypeate
 coacervations
 coagulase
 coalescing
@@ -1497,6 +1501,7 @@ community
 commutating
 commutation
 commutes
+commy
 compactions
 companions
 comparison
@@ -1662,6 +1667,7 @@ corsetiere
 corsets
 corslets
 cortexes
+corticotrophin
 cortisone
 corybantes
 coryneform
@@ -1671,6 +1677,7 @@ coseismals
 cosmogonic
 cosmographical
 coteries
+coterminously
 cothurnus
 cottons
 coulibiac
@@ -1936,6 +1943,7 @@ decomposers
 decompound
 deconcentration
 decongests
+decontrols
 decorated
 decorators
 decorum
@@ -1967,6 +1975,7 @@ definitives
 deflates
 deflation
 deflecting
+defocus
 defoliate
 deforces
 deforests
@@ -1981,6 +1990,7 @@ dehorned
 deifier
 deifying
 deinonychuses
+deionizers
 dejecta
 dekaliter
 dekameter
@@ -2506,6 +2516,7 @@ endosperms
 endostea
 energetically
 energies
+energized
 enflaming
 enfolders
 engine
@@ -2519,6 +2530,7 @@ enlargements
 enlistments
 ennuye
 enravished
+enriched
 enrichments
 enroots
 ensanguines
@@ -2796,6 +2808,7 @@ fermate
 ferns
 ferocity
 ferrimagnetisms
+ferromagnetic
 feruled
 fetas
 feted
@@ -3354,6 +3367,7 @@ haematin
 haems
 haft
 hagbushes
+hagiographical
 hagiology
 haircut
 hairinesses
@@ -3426,12 +3440,14 @@ heartbreaker
 heatable
 heathbird
 heathendoms
+heathenish
 heavyweight
 hebephrenic
 hectare
 hectares
 hedonist
 heehaw
+heelless
 height
 heinously
 heister
@@ -3490,6 +3506,7 @@ hick
 hidden
 hideousnesses
 hidings
+hieroglyphical
 hieroglyphics
 highlighting
 hightops
@@ -3612,6 +3629,7 @@ hyperboreans
 hypercautious
 hypergol
 hypergols
+hyperinvolution
 hyperkinesis
 hypermanias
 hypermarkets
@@ -3897,6 +3915,7 @@ intrusively
 intubate
 inurement
 inurnments
+invalided
 invected
 inveighing
 invention
@@ -4025,6 +4044,7 @@ jubilate
 jubile
 juddered
 judgmatical
+judgment
 judicial
 jugsful
 jugula
@@ -4329,6 +4349,7 @@ lixivia
 loading
 loadings
 loamless
+loams
 loanword
 loathed
 loathes
@@ -4892,6 +4913,7 @@ multicar
 multiconductor
 multidialectal
 multielectrode
+multiengine
 multifid
 multigroup
 multimember
@@ -5238,6 +5260,7 @@ ophiolites
 opiate
 opinionated
 opponency
+opportunistic
 oppositely
 oppositeness
 oppositions
@@ -5501,6 +5524,7 @@ parainfluenza
 parallelisms
 paralytic
 paramylums
+paranoiac
 paranoias
 parapeted
 paraphrase
@@ -5590,6 +5614,7 @@ penniless
 pennon
 pensil
 penster
+pentacles
 pentagon
 pentangle
 pentaploids
@@ -6292,6 +6317,7 @@ razzberry
 razzmatazz
 reaccenting
 reaccepted
+reaccreditation
 realisms
 realize
 realpolitik
@@ -6460,6 +6486,7 @@ reinflames
 reinforming
 reinters
 reinventing
+reinvestment
 reinvoke
 reissue
 reiterating
@@ -6760,6 +6787,7 @@ rye
 sabring
 saccharic
 saccharified
+sacculations
 sacheted
 sacrilege
 sades
@@ -6781,6 +6809,7 @@ salesclerks
 salesperson
 salicine
 salicylate
+saliently
 salients
 salifying
 salina
@@ -6868,6 +6897,7 @@ scars
 scary
 scatback
 scattershot
+scaup
 scaur
 scavenging
 scenical
@@ -7426,6 +7456,7 @@ spruces
 spry
 spumy
 spuriousness
+sputter
 squabs
 squad
 squashed
@@ -8072,6 +8103,7 @@ tranny
 transacts
 transaxle
 transcribers
+transfected
 transfecting
 transferals
 transferrable
@@ -8323,6 +8355,7 @@ undivided
 undoers
 undogmatic
 undotted
+undoubted
 undramatized
 undressing
 uneffaced
@@ -8428,6 +8461,7 @@ unsprung
 unstableness
 unstated
 unsteadily
+unstopping
 unsupportable
 unsustainable
 unsynchronized
@@ -8907,6 +8941,7 @@ zings
 zippering
 zizzle
 zoarium
+zoecia
 zonary
 zoologically
 zoomorphic
