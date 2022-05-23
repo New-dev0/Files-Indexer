@@ -1,0 +1,4 @@
+PSRemoveProfiles/PS User Profile Cleanup Utility.Package.ps1 at ...,https://github.com/steviecoaster/PSRemoveProfiles/blob/master/PS%2520User%2520Profile%2520Cleanup%2520Utility.Package.ps1
+Sessions/04 XenApp.ps1 at master · nicholasdille/Sessions · GitHub,https://github.com/nicholasdille/Sessions/blob/master/2015-11-05%2520XA%2520PS%2520%2540%2520DCUG%2520Freiburg/04%2520XenApp.ps1
+function Invoke-Mimikatz { <# .SYNOPSIS This script leverages ...,https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/f650520c4b1004daf8b3ec08007a0b945b91253a/Exfiltration/Invoke-Mimikatz.ps1
+Invoke-WireTap - GitHub,https://raw.githubusercontent.com/S3cur3Th1sSh1t/PowerSharpPack/master/PowerSharpBinaries/Invoke-WireTap.ps1

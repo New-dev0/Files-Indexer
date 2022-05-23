@@ -1517,6 +1517,7 @@ common
 commove
 communality
 commune
+communicational
 communicator
 community
 commutating
@@ -1561,6 +1562,7 @@ concupiscences
 concurred
 condemning
 condolence
+condom
 condone
 condoning
 condores
@@ -1787,6 +1789,7 @@ crosshair
 crossjacks
 crosstown
 crosstrees
+crotchet
 crowd
 crowdy
 cruciform
@@ -1906,6 +1909,7 @@ damascene
 damosel
 damozels
 dampener
+dampening
 damping
 damselflies
 dangers
@@ -1967,6 +1971,7 @@ decomposers
 decompound
 deconcentration
 decongests
+decontrol
 decontrols
 decorated
 decorators
@@ -2078,6 +2083,7 @@ depositing
 deprecatingly
 depressive
 depressively
+deprogramming
 depurate
 deputize
 derats
@@ -2385,6 +2391,7 @@ dropsonde
 drossiest
 drouthiest
 drown
+drownding
 drowns
 drowses
 drub
@@ -2496,6 +2503,7 @@ element
 eleventh
 elevons
 elution
+elutriators
 elver
 elvishly
 em
@@ -2680,6 +2688,7 @@ eudiometers
 eupatridae
 eustele
 euthanize
+eutherian
 eutrophy
 evangelism
 even
@@ -3079,6 +3088,7 @@ friezes
 frigidnesses
 friller
 frillers
+friseur
 friskers
 fritillary
 frizzles
@@ -3336,6 +3346,7 @@ gremmie
 grieving
 griffes
 grift
+grifts
 gripsacks
 gristliest
 grivets
@@ -3537,6 +3548,7 @@ hermeticisms
 herpesviruses
 herringbone
 herringbones
+hes
 hesitance
 hetairas
 heterodox
@@ -3611,6 +3623,7 @@ honeworts
 honeys
 hongied
 honorableness
+hooches
 hoodies
 hoodmold
 hoodwinker
@@ -4017,6 +4030,7 @@ isoform
 isogenic
 isogonic
 isolations
+isoleads
 isoplethic
 isotachs
 isotheres
@@ -4099,6 +4113,7 @@ journalizes
 jowl
 joylessnesses
 joys
+jubilantly
 jubilate
 jubile
 juddered
@@ -4225,6 +4240,7 @@ koppie
 kotlin
 kotow
 koumysses
+kudzus
 kvasses
 kwashiorkors
 kylikes
@@ -5379,6 +5395,7 @@ orthopteran
 orthopterists
 orthotropous
 osmiridiums
+osmolarity
 osmometry
 ossetra
 ossicular
@@ -5444,6 +5461,7 @@ outpupil
 outranks
 outrebounds
 outrowing
+outsay
 outscoring
 outseeing
 outsidernesses
@@ -5537,6 +5555,7 @@ overwily
 overworn
 oviposition
 ovoid
+ovoidal
 ovonics
 ownerships
 oxcart
@@ -5619,6 +5638,7 @@ parasitologist
 paratroops
 parboiling
 parch
+pargetted
 park
 parkas
 parkers
@@ -6125,6 +6145,7 @@ prerenal
 prerinsing
 prescreened
 prescribe
+presentations
 presentness
 preshape
 preshapes
@@ -6400,6 +6421,7 @@ ratiocinator
 rationales
 ratites
 ratlins
+rattish
 rattle
 rattlebox
 raucousnesses
@@ -6761,6 +6783,7 @@ revery
 revesting
 revibrates
 revisions
+revisualization
 revitalizing
 revivalisms
 revolute
@@ -6843,6 +6866,7 @@ rooming
 rootiest
 rootling
 ropewalks
+roscoe
 roseroot
 rosiest
 rosily
@@ -7060,6 +7084,7 @@ scrouging
 scubas
 sculled
 sculped
+scunnered
 scuppaugs
 scurviest
 scuzzball
@@ -7257,6 +7282,7 @@ sightseeing
 sightsees
 signalers
 signalize
+significance
 significant
 signifies
 silage
@@ -7276,6 +7302,7 @@ simultaneity
 simultaneously
 since
 sinew
+sinfonias
 singalongs
 singlestick
 singularities
@@ -7409,6 +7436,7 @@ snowcapped
 snowdrops
 snowplow
 snows
+snowshed
 snowslide
 snub
 snuffily
@@ -7604,6 +7632,7 @@ standoffs
 standpoints
 stanged
 stannic
+stannites
 stanzas
 stapedial
 staphs
@@ -7633,6 +7662,7 @@ steeving
 stellifying
 stemmer
 stepfathers
+steppes
 steradians
 stereophonic
 stereotypically
@@ -8135,6 +8165,7 @@ tingling
 tinily
 tippable
 tipped
+tipstaff
 tipster
 tipsters
 tirades
@@ -8339,6 +8370,7 @@ tubule
 tucket
 tugger
 tumescence
+tumorlike
 tuna
 tuneable
 tungstens
@@ -8492,11 +8524,13 @@ undotted
 undoubted
 undramatized
 undressing
+uneducated
 uneffaced
 unembittered
 unemployments
 unenriched
 unescapable
+unevener
 unexotic
 unfairer
 unfaith
@@ -8933,6 +8967,7 @@ winger
 winked
 winnowing
 wins
+winterberries
 winterer
 wiretapping
 wiriest
