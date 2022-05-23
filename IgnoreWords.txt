@@ -494,6 +494,7 @@ attachers
 atticisms
 attitudinise
 attorneyships
+aucuba
 audible
 audiles
 audiocassette
@@ -727,6 +728,7 @@ bijection
 bijective
 biked
 bilateralisms
+bilharziases
 bilker
 billets
 billies
@@ -869,6 +871,7 @@ bopeep
 bordure
 bored
 borking
+borrows
 borzoi
 boshvarks
 botanic
@@ -1159,6 +1162,7 @@ caseworm
 cashless
 casitas
 casque
+casques
 cassenas
 castable
 castaways
@@ -1211,6 +1215,7 @@ centimorgans
 centraler
 centriole
 centrioles
+centroid
 centrosymmetric
 centupling
 ceps
@@ -1253,6 +1258,7 @@ charted
 chartered
 chaseable
 chats
+chatted
 chattered
 chauffeur
 chawer
@@ -1485,6 +1491,7 @@ collegiality
 collide
 collodion
 colonisation
+colons
 colorcast
 colorfulness
 colorizers
@@ -1569,6 +1576,7 @@ condores
 coneflowers
 conepatls
 confabbed
+confectioners
 conferencings
 conferrable
 conferrence
@@ -1748,6 +1756,7 @@ crawls
 craws
 crazier
 creakiest
+creamers
 creampuffs
 creamwares
 creaseless
@@ -2106,6 +2115,7 @@ desirousnesses
 desmid
 despised
 despiting
+destitution
 destroys
 desuetude
 detachment
@@ -2512,6 +2522,7 @@ emaciations
 emanant
 emanating
 emancipates
+embankments
 embark
 embarrass
 embezzlers
@@ -3422,6 +3433,7 @@ habituation
 habitues
 habus
 hacksawing
+hadj
 hadjee
 hadji
 hadron
@@ -3935,6 +3947,7 @@ intercept
 intercollegiate
 intercomparing
 interconnects
+intercurrent
 interethnic
 interfiles
 interfold
@@ -4756,6 +4769,7 @@ microfossils
 microfungus
 micromanagement
 micromanaging
+micromeres
 micrometeorite
 micromorphology
 micronized
@@ -4957,6 +4971,7 @@ moorages
 moppets
 moralistically
 morassy
+morganites
 moronically
 moronity
 morphogenic
@@ -5024,6 +5039,7 @@ mumbling
 mummeries
 mumping
 mundungus
+municipally
 munis
 murders
 muricated
@@ -5154,6 +5170,7 @@ niftily
 nightmarish
 nighty
 nil
+nimble
 nimming
 ninebarks
 ninon
@@ -5223,6 +5240,7 @@ nonmunicipal
 nonnecessities
 nonofficials
 nonpareil
+nonparties
 nonpasts
 nonpliant
 nonplusses
@@ -5604,6 +5622,7 @@ paltering
 paludal
 pampa
 panatella
+panetellas
 panickiest
 paniculate
 panicums
@@ -5650,6 +5669,7 @@ parols
 parr
 parred
 parricides
+parroted
 parrs
 parterre
 participation
@@ -5700,6 +5720,7 @@ pedagogy
 pedately
 pedicellate
 pedicurists
+pedocals
 pedogenic
 peds
 peduncled
@@ -6067,6 +6088,7 @@ potences
 pothouse
 pothunter
 potstones
+pottage
 potterers
 pottiest
 pouch
@@ -6185,6 +6207,7 @@ primed
 primeness
 primine
 princelier
+printeries
 prioritizations
 priority
 prismoidal
@@ -6301,6 +6324,7 @@ punsters
 punt
 pupil
 puppets
+puppy
 puranic
 purchasing
 purda
@@ -6437,6 +6461,7 @@ razzmatazz
 reaccenting
 reaccepted
 reaccreditation
+readouts
 realisms
 realize
 realpolitik
@@ -7568,6 +7593,7 @@ spite
 spitefullest
 spitfire
 splashing
+splat
 splicers
 splined
 splines
@@ -7612,6 +7638,7 @@ squeezers
 squelchy
 squiggles
 squinters
+squirmers
 squooshed
 sradha
 stab
@@ -7758,6 +7785,7 @@ subah
 suballocations
 subarctic
 subas
+subcellular
 subcenters
 subcommunities
 subcomponents
@@ -7998,6 +8026,7 @@ tapeless
 tapenades
 tapper
 tarbushes
+tarlatans
 tarmacadam
 tarring
 taskworks
@@ -8222,6 +8251,7 @@ topographical
 topos
 toppr
 torpedoes
+torsi
 torso
 torts
 tortuosities
@@ -8235,6 +8265,7 @@ touchiness
 touchpads
 toured
 tourmaline
+touting
 towelette
 towelling
 towellings
@@ -8347,6 +8378,7 @@ tronas
 tropomyosin
 tropotaxis
 troubles
+trouncers
 trouper
 trouveres
 trucker
@@ -8391,6 +8423,7 @@ turncoat
 turners
 turnons
 turquoises
+tussehs
 tussis
 tussocks
 tutorage
@@ -8780,6 +8813,7 @@ vicinage
 vicinages
 vicinities
 victims
+victorias
 vicunas
 vid
 videlicet
@@ -8833,6 +8867,7 @@ voluntary
 voluntaryism
 volunteering
 volunteerisms
+volutes
 vomicae
 vomiter
 voodooism
