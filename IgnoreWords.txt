@@ -190,6 +190,7 @@ alleyway
 alliable
 allocates
 allocation
+allonym
 alloplasms
 allotter
 allowing
@@ -216,6 +217,7 @@ alternators
 alters
 altocumuli
 aluminate
+aluminum
 aluminums
 alveolate
 amasser
@@ -660,6 +662,7 @@ beliquoring
 belletristic
 belletrists
 bellflower
+belligerency
 bellworts
 bellyacher
 bemata
@@ -960,6 +963,7 @@ bryologist
 bryozoans
 bubkes
 bubo
+buckbrushes
 bucket
 buckled
 buckshees
@@ -989,6 +993,7 @@ bunns
 burb
 burbliest
 burbling
+burbly
 burgeons
 burglarized
 burlesks
@@ -1920,6 +1925,7 @@ debarked
 debeaks
 deboned
 debs
+debuggers
 debye
 decagrams
 decaliter
@@ -2252,6 +2258,7 @@ divebombing
 diversifies
 diverting
 dividednesses
+divides
 divined
 divorcee
 divulses
@@ -2723,6 +2730,7 @@ extremum
 extrinsically
 extubating
 exude
+exultancy
 eyes
 eyestalks
 eyewitness
@@ -2829,6 +2837,7 @@ filariases
 filefishes
 filibuster
 fill
+filleting
 fillisters
 filmlike
 filterability
@@ -2863,6 +2872,7 @@ fjeld
 flabbergasting
 flabellate
 flabelliform
+flack
 flackery
 flaggier
 flagitiously
@@ -2980,6 +2990,7 @@ formic
 formlessness
 forthrightly
 fortified
+fortissimi
 fortissimos
 fortnightlies
 fortune
@@ -3044,6 +3055,7 @@ frowzily
 fruiters
 fryable
 frybreads
+fubs
 fuels
 fugu
 fulcrums
@@ -3131,6 +3143,7 @@ gearless
 geckos
 geegaw
 gees
+gelatines
 gelatinously
 gelder
 gelsemium
@@ -3160,6 +3173,7 @@ ghouls
 giantisms
 giftee
 gifting
+gimmick
 gingeley
 gingelies
 gingelli
@@ -3341,6 +3355,7 @@ gunned
 gunnels
 gunshots
 gurged
+gushingly
 guttered
 gybed
 gymkhana
@@ -3515,6 +3530,7 @@ hilted
 hinder
 hinkier
 hipbone
+hippienesses
 hippy
 hircine
 histidins
@@ -3849,6 +3865,7 @@ insignificancy
 insincere
 insister
 insisters
+insolubles
 installs
 instigate
 instrokes
@@ -4147,6 +4164,7 @@ kludgiest
 knacks
 knavishly
 knelling
+knifer
 knightlinesses
 knitter
 knobbly
@@ -4338,6 +4356,7 @@ literalize
 lithenesses
 lithoidal
 lithophytes
+lithotomy
 litterbag
 litterbags
 litterer
@@ -4485,6 +4504,7 @@ mammonist
 mammoths
 mamzer
 manage
+managerships
 mananas
 manches
 mandator
@@ -4517,6 +4537,7 @@ marketing
 markhoors
 marmites
 marrers
+marshalcies
 marshaling
 marshalled
 marting
@@ -4894,6 +4915,7 @@ mousseline
 moussing
 mouthwash
 mouthy
+moviola
 moxie
 mozos
 mucho
@@ -5594,6 +5616,7 @@ pedately
 pedicellate
 pedicurists
 pedogenic
+peds
 peduncled
 peed
 peesweep
@@ -5779,6 +5802,7 @@ pillarless
 pillars
 pillowy
 pilotages
+pinchbug
 pinesaps
 pinfolded
 pinguid
@@ -6016,6 +6040,7 @@ premarketing
 prematurenesses
 premillenarian
 premold
+prenames
 preparatorily
 prepared
 preponderantly
@@ -6866,6 +6891,7 @@ satanists
 satays
 satiating
 satisfier
+satisfies
 saturate
 saturators
 saucepot
@@ -6980,6 +7006,7 @@ sedums
 seedcakes
 seedlings
 seeing
+seek
 seeling
 seemliest
 seepages
@@ -7097,6 +7124,7 @@ shirting
 shirtmaker
 shitless
 shittims
+shittimwoods
 shlub
 shlumpy
 shoaly
@@ -7484,6 +7512,7 @@ standdowns
 standoffs
 standpoints
 stannic
+stanzas
 stapedial
 staphs
 stardom
@@ -7640,6 +7669,7 @@ subreptitiously
 subrogation
 subsampling
 subsatellite
+subscience
 subscriptions
 subshrubs
 subsiders
@@ -7924,6 +7954,7 @@ textbooks
 textile
 textures
 thalassaemias
+thallic
 thankworthy
 thawless
 thearchies
@@ -8144,6 +8175,7 @@ triboelectric
 tribulation
 trichologists
 trichome
+trichopteran
 trichopterans
 trickster
 tricorn
@@ -8289,6 +8321,7 @@ unbonneted
 unbottling
 unbuttons
 uncake
+uncalloused
 uncaptioned
 uncase
 unchain
@@ -8373,6 +8406,7 @@ unfiltered
 unfit
 unfledged
 unfrock
+ungazing
 ungently
 ungula
 ungulate
@@ -8527,6 +8561,7 @@ vacillators
 valeted
 validating
 valorise
+valorizations
 valorized
 valpolicellas
 valvula

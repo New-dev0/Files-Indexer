@@ -1,0 +1,4 @@
+public/Read-RSReport.ps1 1.2.3.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/PSRedSeal/1.2.3.0/Content/public%255CRead-RSReport.ps1
+Public/CloudFormation/Set-ATCFNStackProtectionPolicy.ps1 0.9.0,https://www.powershellgallery.com/packages/aws-toolbox/0.9.0/Content/Public%255CCloudFormation%255CSet-ATCFNStackProtectionPolicy.ps1
+powershell/Ansible-Bridge.ps1 at master · aykay76/powershell ...,https://github.com/aykay76/powershell/blob/master/azure/Ansible-Bridge.ps1
+tests/appveyor.SQL2016.ps1 0.9.202 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/dbatools/0.9.202/Content/tests%255Cappveyor.SQL2016.ps1
