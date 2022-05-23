@@ -1,0 +1,8 @@
+public/Test-AdfCode.ps1 0.93.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/azure.datafactory.tools/0.93.0/Content/public%255CTest-AdfCode.ps1
+functions/Get-DbaDependency.ps1 0.8.944 - PowerShell Gallery,https://www.powershellgallery.com/packages/dbatools/0.8.944/Content/functions%255CGet-DbaDependency.ps1
+Windows_10_VDI_Optimize/1803_VDI_Configuration.ps1 at master ...,https://github.com/TheVDIGuys/Windows_10_VDI_Optimize/blob/master/1803/1803_VDI_Configuration.ps1
+CustomMonitoring/WindowsServerBackup.ps1 at master · N-able ...,https://github.com/N-able/CustomMonitoring/blob/master/Windows%2520Server%2520Backup/WindowsServerBackup.ps1
+Public/Import/Import-QADData.ps1 0.9.25 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/Posh365/0.9.25/Content/Public%255CImport%255CImport-QADData.ps1
+"$scriptName = 'curl.ps1' Write-Host Write-Host ""[$scriptName ...",https://raw.githubusercontent.com/cdaf/windows/b5ba0c0da6072ac3adb006779bdb644c992e23c0/automation/provisioning/curl.ps1
+"$env:Dropbox=""C:\Dropbox"" $env:DropboxTools=""${env:Dropbox ...",https://raw.githubusercontent.com/aburok/mysettings/ec0bdcc930ab07042fa654a6e41095c2dad81776/PowerShell/variables.ps1
+CustomMonitoring/SQLLastBackupDateTime.ps1 at master · N-able ...,https://github.com/N-able/CustomMonitoring/blob/master/Microsoft%2520SQL%2520Server%2520Backups%2520Monitoring%2520(Last%2520Backup%2520Time)/SQLLastBackupDateTime.ps1
