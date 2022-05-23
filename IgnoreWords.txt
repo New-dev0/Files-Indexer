@@ -150,6 +150,7 @@ agilenesses
 aglycons
 agnosticisms
 agouti
+agrafes
 aid
 aiglets
 airbrushed
@@ -574,6 +575,7 @@ ballonet
 ballyhooing
 balminess
 bamboozlements
+banality
 banda
 banded
 banderoles
@@ -788,6 +790,7 @@ blasties
 blastiest
 blastulas
 blathers
+bleacher
 bleat
 bled
 blitzkrieg
@@ -885,6 +888,7 @@ boxhauling
 boxiest
 boyarisms
 boycotters
+boyhood
 brabbles
 bracelet
 braceros
@@ -1008,6 +1012,7 @@ burly
 burnish
 burthen
 burweed
+bushwhackers
 businesspersons
 butterball
 butterflies
@@ -2520,6 +2525,7 @@ enchaser
 enciphers
 enclasped
 encouragement
+encrinite
 encryption
 encumbrancer
 encyclopaedic
@@ -2554,6 +2560,7 @@ enserfing
 ensheathes
 enshrinements
 enshroud
+ensign
 enskyed
 ensphered
 enterocoele
@@ -2801,6 +2808,7 @@ feasters
 featherbrain
 featherheaded
 feats
+featured
 febrility
 feces
 feckless
@@ -2836,6 +2844,7 @@ fetidly
 fettuccini
 feudalizations
 fever
+feverish
 fez
 fibber
 fiberized
@@ -2981,6 +2990,7 @@ foppishly
 fording
 forebears
 foreboded
+forechecks
 forefends
 foregathered
 foreground
@@ -4316,6 +4326,7 @@ lesbians
 lethalities
 letterspacing
 leuds
+leukemics
 leukoplakia
 leukotomies
 levies
@@ -4852,6 +4863,7 @@ mollification
 molluscicidal
 mollycoddles
 molybdenum
+mom
 momently
 momentum
 momus
@@ -5244,6 +5256,7 @@ occiputs
 occluding
 occlusions
 occupy
+occurrents
 oceanographies
 ocreate
 octadic
@@ -5280,7 +5293,9 @@ omnificent
 omnirange
 omnivorously
 omophagias
+oncomings
 onerously
+ongoing
 onlookers
 onomatology
 ontologically
@@ -5515,6 +5530,7 @@ packman
 packs
 packthread
 packwax
+padlocks
 paeons
 paesano
 pageants
@@ -5766,6 +5782,7 @@ phosphatization
 phosphatizes
 phosphatizing
 phosphids
+phosphoresce
 phosphori
 phosphorolytic
 phosphoryl
@@ -6065,6 +6082,7 @@ premillenarian
 premold
 prenames
 preparatorily
+preparators
 prepared
 preponderantly
 preponderations
@@ -6076,6 +6094,7 @@ prepunches
 prerectal
 preregistration
 prerenal
+prerinsing
 prescreened
 prescribe
 presentness
@@ -6280,6 +6299,7 @@ quatercentenary
 quayage
 qubytes
 queenliness
+queerish
 queleas
 queriers
 querists
@@ -6474,6 +6494,7 @@ reestablishment
 reeving
 reexecuted
 reexplains
+reexported
 reexpose
 ref
 refeeling
@@ -6518,6 +6539,7 @@ regrinds
 regrooves
 regularizations
 rehabilitant
+rehabilitants
 rehandle
 rehandles
 rehanged
@@ -6730,6 +6752,7 @@ rhododendrons
 rhodomontades
 rhombencephala
 rhumb
+riantly
 ribald
 ribonucleotide
 richer
@@ -7028,6 +7051,7 @@ secondarily
 secretors
 secularizer
 security
+sedate
 sedative
 sedimentologies
 seductress
@@ -7179,6 +7203,7 @@ shrimps
 shrink
 shriveled
 shrivelling
+shroud
 shrubs
 shuffle
 shunned
@@ -7259,6 +7284,7 @@ skippered
 skippering
 skirmisher
 skirrs
+skirtless
 sklenting
 skoals
 skunkweed
@@ -7308,6 +7334,7 @@ slumping
 slungshot
 slurban
 smacking
+smallholder
 smaragdite
 smegma
 smelter
@@ -7500,6 +7527,7 @@ spores
 sporocarp
 sporozoites
 sportiveness
+spotlessly
 spotlighting
 spoused
 sprattle
@@ -7559,6 +7587,7 @@ statesmanship
 stating
 statocysts
 statutory
+steadings
 stealing
 steamboats
 steelie
@@ -7735,6 +7764,7 @@ summarizers
 summerlike
 summersets
 summerwood
+summerwoods
 sumps
 sumptuous
 sundowning
@@ -8014,6 +8044,7 @@ theurgical
 they
 thievery
 thinker
+thinkingnesses
 thinly
 thinned
 thinnesses
@@ -8035,6 +8066,7 @@ thromboplastic
 thromboxane
 throughither
 thrummiest
+thrumming
 thrusters
 thudding
 thunderstricken
@@ -8493,6 +8525,7 @@ unpledged
 unpliable
 unpopularities
 unprized
+unpropitious
 unpunished
 unquelled
 unquestionable
@@ -8650,6 +8683,7 @@ verandahs
 verbals
 verbenas
 verdured
+veridicalities
 veritablenesses
 vermeil
 vermifuges
@@ -8978,6 +9012,7 @@ yeti
 yieldable
 yirr
 yoctoseconds
+yodlers
 yoga
 yogins
 yoni
