@@ -80,6 +80,7 @@ acrodont
 acrolith
 acrosomal
 acrostics
+actinomorphies
 actinomorphy
 actinomyces
 actionably
@@ -260,6 +261,7 @@ anagnorisis
 analcite
 analogical
 analytic
+analyzations
 anaphora
 anaphrodisiacs
 anarch
@@ -360,6 +362,7 @@ apolog
 apomict
 apomicts
 apophthegms
+apostatizing
 apostils
 apostolic
 apostrophic
@@ -897,6 +900,7 @@ brava
 brawlier
 brawnier
 brazening
+breadbox
 breading
 breadless
 breads
@@ -971,6 +975,7 @@ bulged
 bulgur
 bullace
 bullfighters
+bulwark
 bumelia
 bumfuzzles
 bumpkinly
@@ -1505,6 +1510,7 @@ complementizer
 completed
 completeness
 completion
+compositors
 compost
 compradors
 comprehended
@@ -1709,6 +1715,7 @@ cravened
 crawls
 craws
 crazier
+creakiest
 creampuffs
 creamwares
 creaseless
@@ -1924,6 +1931,7 @@ deckers
 declaimer
 decocts
 decollating
+decomposability
 decomposers
 decompound
 deconcentration
@@ -1998,6 +2006,7 @@ demographer
 demonesses
 demonisms
 demonologies
+demonstrable
 demoralizingly
 demote
 demounts
@@ -2190,6 +2199,7 @@ dishpans
 dishwater
 disinforming
 disinheriting
+diskette
 dislikable
 dislocate
 dislodges
@@ -2408,6 +2418,7 @@ edulcorating
 eerily
 effectuation
 effeminacy
+efferents
 efficacy
 effluents
 effortfulnesses
@@ -2653,6 +2664,7 @@ exenterated
 exertive
 exhaustive
 exhaustlessly
+exhibitionisms
 exhorts
 exilic
 existent
@@ -3178,6 +3190,7 @@ glutaraldehydes
 glutei
 glycans
 glyceridic
+glyceryl
 glycins
 glycols
 glycosylations
@@ -3312,6 +3325,7 @@ gummoses
 gummosis
 gunk
 gunned
+gunnels
 gunshots
 gurged
 guttered
@@ -3637,6 +3651,7 @@ ignites
 ignominiously
 ignorant
 iguanid
+ilex
 ilia
 illegalities
 illimitably
@@ -3808,6 +3823,7 @@ inoperable
 inosculated
 inquirer
 insalubrity
+insatiable
 insemination
 insensitivities
 insheaths
@@ -4093,6 +4109,7 @@ kilojoule
 kilolitres
 kilometre
 kilos
+kindheartedly
 kindling
 kinematically
 kinematics
@@ -4267,6 +4284,7 @@ lifetimes
 lifted
 lightfaced
 lightfast
+likeable
 likenesses
 limb
 limberest
@@ -5158,6 +5176,7 @@ obsessions
 obstetricians
 obturations
 occiputs
+occluding
 occlusions
 occupy
 oceanographies
@@ -5186,6 +5205,7 @@ ogled
 oiling
 oilman
 oldfangled
+olds
 oleic
 oligomeric
 olingo
@@ -5312,6 +5332,7 @@ outliving
 outmastering
 outmuscle
 outpatients
+outpourer
 outpray
 outpreened
 outpupil
@@ -5723,6 +5744,7 @@ pigeonites
 pigged
 piggie
 pigmies
+pigsney
 pikestaff
 pikestaves
 pileate
@@ -5810,6 +5832,7 @@ plowmen
 plowshare
 ploys
 plumpen
+plunks
 plunky
 pluralizing
 plush
@@ -5942,6 +5965,8 @@ preciseness
 precocity
 preconizing
 precooking
+predatism
+predestinators
 predestining
 predetermine
 predicates
@@ -5949,6 +5974,7 @@ prednisolones
 predominating
 preener
 preexempts
+preexilic
 preexposes
 prefabbing
 preformat
@@ -5968,6 +5994,7 @@ premold
 preparatorily
 prepared
 preponderantly
+preponderations
 prepositional
 preprices
 preps
@@ -7152,6 +7179,7 @@ skysail
 skyways
 slackeners
 slacks
+slaggier
 slaggiest
 slagging
 slakers
@@ -7393,6 +7421,7 @@ sprayer
 springtides
 springwood
 spritzer
+spruce
 spruces
 spry
 spumy
@@ -7477,6 +7506,7 @@ stones
 stoper
 stopoff
 stoppered
+storerooms
 stormier
 story
 straitening
@@ -7933,6 +7963,7 @@ tidbit
 tiebreaks
 tierced
 tiling
+timberlines
 timelessness
 timorously
 timpani
@@ -8077,6 +8108,8 @@ trevallies
 triazin
 tribades
 tribes
+triboelectric
+tribulation
 trichologists
 trichome
 trichopterans
@@ -8514,6 +8547,7 @@ verbals
 verbenas
 verdured
 veritablenesses
+vermeil
 vermifuges
 vermilioning
 vermuth
@@ -8810,6 +8844,7 @@ xerophytes
 xiphoids
 xylitol
 xylocarps
+xylographing
 xylyls
 xystoi
 yahoos
