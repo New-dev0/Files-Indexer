@@ -253,6 +253,7 @@ ampoules
 ampuls
 amputates
 amritas
+amygdales
 amygdule
 amylases
 amyloidosis
@@ -824,6 +825,7 @@ blueprints
 bluet
 bluffers
 blumed
+blunger
 boarder
 boatsmen
 bobolinks
@@ -1248,6 +1250,7 @@ chappati
 chapping
 chapt
 charcoaling
+charger
 charities
 charked
 charladies
@@ -1492,6 +1495,7 @@ collide
 collodion
 colonisation
 colons
+colophonies
 colorcast
 colorfulness
 colorizers
@@ -2296,6 +2300,7 @@ disuses
 divebombing
 diversifies
 diverting
+dividedly
 dividednesses
 divides
 divined
@@ -2519,6 +2524,7 @@ elvishly
 em
 emaciate
 emaciations
+email
 emanant
 emanating
 emancipates
@@ -2863,6 +2869,7 @@ fencelessnesses
 fencer
 fencings
 fenestration
+feoffment
 feoffments
 fermate
 ferns
@@ -3128,6 +3135,8 @@ functor
 fundic
 fundraises
 funfairs
+funfest
+fungoids
 funked
 funninesses
 funnymen
@@ -3196,6 +3205,7 @@ gaynesses
 gazelle
 gazetteer
 gazpacho
+gazpachos
 gearless
 geckos
 geegaw
@@ -3230,6 +3240,7 @@ ghouls
 giantisms
 giftee
 gifting
+giftwrap
 gimmick
 gingeley
 gingelies
@@ -3250,6 +3261,7 @@ glassblowing
 glassily
 glassine
 glassmaking
+glasspapered
 glasspapers
 glibber
 glint
@@ -3361,6 +3373,7 @@ grifts
 gripsacks
 gristliest
 grivets
+grizzle
 grizzlers
 grizzlier
 grocery
@@ -3554,6 +3567,7 @@ hens
 hented
 henting
 herbage
+herbier
 herd
 hereditarians
 hermeticisms
@@ -3986,6 +4000,7 @@ intimae
 intimates
 intimidator
 intolerantly
+intracardial
 intraday
 intradermally
 intransigent
@@ -4371,6 +4386,7 @@ leprechaun
 lesbians
 lethalities
 letterspacing
+letting
 leuds
 leukemics
 leukoplakia
@@ -4805,6 +4821,7 @@ millihenry
 milline
 milliseconds
 millrace
+millwright
 milo
 mimed
 mimeographs
@@ -5276,6 +5293,7 @@ nozzles
 nth
 nubbiness
 nucleal
+nucleoids
 nucleonics
 nucleosynthetic
 nuder
@@ -5558,6 +5576,7 @@ oversells
 oversensitive
 oversetting
 overshaded
+oversimplifies
 overspending
 overstays
 overstretches
@@ -5999,6 +6018,7 @@ pneumaticities
 pneumatolytic
 pneumonitis
 poaches
+pochard
 podgiest
 podsols
 poetised
@@ -6131,6 +6151,7 @@ predetermine
 predicates
 prednisolones
 predominating
+preelect
 preener
 preexempts
 preexilic
@@ -6201,6 +6222,7 @@ pricily
 pricklinesses
 priestlinesses
 priestly
+prig
 prigging
 prim
 primed
@@ -6351,6 +6373,7 @@ pyritic
 pyrotechnical
 pyxides
 qabalahs
+qanat
 quadrate
 quadrats
 quadrics
@@ -6473,6 +6496,7 @@ reaping
 reapply
 reappropriate
 rearouse
+rearrested
 reascend
 reassailing
 reassumed
@@ -6706,6 +6730,7 @@ reprehensible
 reprehensibly
 reprehensive
 repress
+repression
 repriced
 reprints
 repristination
@@ -6817,6 +6842,7 @@ rewan
 reweaves
 rewed
 rewiden
+rewires
 rewound
 rheobases
 rhesuses
@@ -6855,6 +6881,7 @@ rigorism
 rigorousnesses
 rijsttafel
 rikishas
+riling
 rimless
 rimpled
 rimrock
@@ -6981,6 +7008,7 @@ salvation
 salvors
 samadhis
 samaras
+sambhurs
 sambuca
 samburs
 samiels
@@ -7331,6 +7359,7 @@ sinfonias
 singalongs
 singlestick
 singularities
+sink
 sins
 sipe
 siphon
@@ -7468,6 +7497,7 @@ snuffily
 soapiness
 soar
 sobbingly
+soberest
 sobs
 socagers
 soccer
@@ -7746,6 +7776,7 @@ strictest
 stridulations
 strikeovers
 stringily
+strings
 stripeless
 strobes
 strobila
@@ -8068,6 +8099,7 @@ temporise
 tempter
 tenaculum
 tendance
+tendencious
 tenderometer
 tendrilous
 tenebrionids
@@ -8259,6 +8291,7 @@ tortuousness
 tossup
 totalisators
 totalism
+totemisms
 toucan
 touchier
 touchiness
@@ -8389,6 +8422,7 @@ truism
 truncations
 trustinesses
 truthfully
+tryptamines
 tsuris
 tuatera
 tubas
@@ -8511,6 +8545,7 @@ unconformably
 unconscionably
 uncorrected
 uncouplers
+uncovers
 uncracked
 uncrated
 uncreates
