@@ -295,6 +295,7 @@ annalist
 annals
 announcers
 anodized
+anodizing
 anopheles
 anorak
 anorexia
@@ -366,6 +367,7 @@ aplombs
 apneas
 apogamic
 apolog
+apologues
 apomict
 apomicts
 apophthegms
@@ -390,6 +392,7 @@ apprehensibly
 appressoria
 appressorium
 approachable
+approximate
 approximation
 aptitudinal
 aquacultural
@@ -844,6 +847,7 @@ boinked
 boisterously
 bolas
 boldly
+bolivar
 bolivars
 bolivianos
 bollard
@@ -971,6 +975,7 @@ brusker
 brusque
 brusquenesses
 brut
+brutalising
 brutely
 brutify
 brutishly
@@ -1223,6 +1228,7 @@ centupling
 ceps
 ceraceous
 ceremonialism
+certifiable
 ceruloplasmins
 chabouk
 chacma
@@ -1485,6 +1491,7 @@ coldcocks
 colemanite
 coleus
 coliphages
+collars
 collaterally
 collators
 collectivise
@@ -1498,6 +1505,7 @@ colons
 colophonies
 colorcast
 colorfulness
+colorization
 colorizers
 colorless
 colpitises
@@ -1752,6 +1760,7 @@ crafting
 cram
 cramp
 crampfish
+crampons
 crankiest
 crankle
 crassness
@@ -1870,6 +1879,7 @@ cuspis
 cussers
 custodian
 custody
+customhouses
 customizer
 customs
 cutability
@@ -1995,6 +2005,7 @@ decrescent
 decryptions
 decrypts
 decupling
+deerskin
 defacements
 defacer
 defalcating
@@ -2094,6 +2105,7 @@ deposal
 deposed
 depositing
 deprecatingly
+depreciation
 depressive
 depressively
 deprogramming
@@ -2136,6 +2148,7 @@ detours
 detoxification
 device
 devilfish
+devitrified
 devotion
 dewaxes
 dewberry
@@ -2209,6 +2222,7 @@ dinars
 dineros
 dinoflagellate
 diocese
+diodes
 diopsidic
 diphasic
 diphosphates
@@ -2237,6 +2251,7 @@ discarder
 discased
 discernable
 disclaimer
+discommends
 disconformity
 discontentedly
 discordant
@@ -2405,6 +2420,7 @@ drones
 dropsonde
 drossiest
 drouthiest
+drouthy
 drown
 drownding
 drowns
@@ -2494,6 +2510,7 @@ egalitarians
 egers
 eggars
 eggnog
+eggshells
 egocentrically
 egrets
 eicosanoid
@@ -2677,6 +2694,7 @@ escot
 esne
 esophagus
 essentialnesses
+estaminets
 estates
 esters
 esthesis
@@ -2957,6 +2975,7 @@ fleecer
 flehmens
 flensing
 fleshless
+fleshly
 flimflammery
 flimsinesses
 fling
@@ -3063,6 +3082,7 @@ fossicks
 fossilizations
 fosterers
 fosters
+foundationless
 foundries
 fountain
 fourragere
@@ -3121,6 +3141,7 @@ fryable
 frybreads
 fubs
 fuels
+fugatos
 fugu
 fulcrums
 fulfilments
@@ -3491,6 +3512,7 @@ harpsichordists
 harry
 harshened
 harshly
+hart
 hartal
 hartebeests
 haruspications
@@ -3525,6 +3547,8 @@ headshrinker
 headstand
 headstone
 heartbreaker
+heartening
+hearths
 heatable
 heathbird
 heathendoms
@@ -3713,6 +3737,7 @@ hydrofoil
 hydrometric
 hydrophytes
 hydrospaces
+hydrospheres
 hydrostatic
 hydroxylase
 hydroxylases
@@ -3749,6 +3774,7 @@ iciest
 icons
 idealism
 idealisms
+idealized
 idealogue
 identifying
 ideogrammic
@@ -3774,6 +3800,7 @@ illumines
 illusionism
 illusionisms
 illusory
+illustriously
 imaginary
 imbalm
 imboldens
@@ -3894,6 +3921,7 @@ infantilization
 infantilize
 infantilizing
 infaunal
+infectivity
 infeoffs
 inferable
 infiltrations
@@ -4082,6 +4110,7 @@ jaditic
 jaguar
 jaguarondis
 jalapenos
+jambing
 jambs
 jammed
 jammer
@@ -4332,6 +4361,7 @@ laughably
 laughed
 laundress
 laureated
+laureateship
 lava
 lawgiver
 lawyering
@@ -4661,6 +4691,7 @@ matey
 matte
 mattings
 mattock
+maturers
 maul
 mausolea
 mawkishly
@@ -4834,6 +4865,7 @@ minifying
 minilab
 minnesingers
 minnow
+minutely
 miracidia
 miraculous
 mirex
@@ -4873,6 +4905,7 @@ misinterpret
 misinterring
 miskeep
 mislabelling
+mislabor
 mislives
 mislocated
 mismanagements
@@ -4888,6 +4921,7 @@ mispositioning
 misprices
 misprograms
 mispronounced
+misquotes
 misrecord
 misreferences
 misrelies
@@ -5127,6 +5161,7 @@ necessitarian
 necker
 necklaces
 neckpieces
+necrologist
 necrology
 necromancy
 necropoleis
@@ -5631,11 +5666,13 @@ palaestrae
 palatable
 paleae
 paleobiologists
+paleoecologic
 palfrey
 pallets
 palling
 palmer
 palmitins
+palmyra
 palter
 paltering
 paludal
@@ -6115,6 +6152,7 @@ pouch
 poulter
 poulterer
 pounced
+pouncers
 pounces
 pourable
 pouring
@@ -6213,6 +6251,7 @@ prettiness
 pretzel
 prevalent
 prevaricate
+prevarication
 previewer
 previous
 preworking
@@ -6495,6 +6534,7 @@ reanoint
 reaping
 reapply
 reappropriate
+rearmost
 rearouse
 rearrested
 reascend
@@ -7027,6 +7067,7 @@ sandworm
 sanga
 sangh
 sanghs
+sanitated
 sanitoria
 sannyasin
 santir
@@ -7292,6 +7333,7 @@ shlub
 shlumpy
 shoaly
 shocked
+shoepac
 shoetrees
 shoo
 shootout
@@ -7425,6 +7467,7 @@ slingshots
 slipes
 slipforming
 slipping
+slipsheeting
 slipsheets
 slithered
 slitted
@@ -7438,6 +7481,7 @@ sloughs
 slowpoke
 slowpokes
 slubber
+slubbered
 slue
 sluffed
 slugged
@@ -7861,6 +7905,7 @@ subsidization
 subskill
 substate
 subtends
+subtext
 subtilins
 subtreasury
 subunit
@@ -7975,6 +8020,7 @@ swoopy
 swordfishes
 swotted
 swum
+sybaritic
 sybaritically
 sycophantic
 sycophantisms
@@ -8193,6 +8239,7 @@ thrummiest
 thrumming
 thrusters
 thudding
+thumbholes
 thunderstricken
 thurls
 thus
@@ -8349,6 +8396,7 @@ traumatization
 traumatizations
 traumatize
 traversable
+travesties
 trawlnets
 treachery
 treehopper
@@ -8397,6 +8445,7 @@ triples
 tripletail
 tripodies
 tripody
+triptanes
 triskeles
 trisome
 tritest
@@ -8478,6 +8527,7 @@ tympanist
 typefounders
 typescript
 typesettings
+typhous
 tyrannizes
 tyrocidine
 tzarism
