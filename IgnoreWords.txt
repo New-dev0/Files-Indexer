@@ -568,6 +568,7 @@ baboos
 babu
 babydoll
 babyishly
+bacalao
 backbone
 backcasts
 backcourts
@@ -742,6 +743,7 @@ bheestie
 bhut
 bias
 bibliophilies
+bichromated
 biconditional
 biconditionals
 bicycling
@@ -869,6 +871,7 @@ bobolinks
 bobsleigh
 bodings
 bods
+bodybuilding
 bodyguarding
 bog
 bogusness
@@ -1675,6 +1678,7 @@ conk
 connectedly
 connubialisms
 connubiality
+conquered
 conscientious
 consciously
 consented
@@ -2321,6 +2325,7 @@ disaccharidase
 disaffiliating
 disappears
 disapproval
+disaster
 disavow
 disbound
 disbranched
@@ -2648,6 +2653,7 @@ embrangling
 emeerate
 emendators
 emigrations
+eminently
 emirates
 emotionalists
 emotionalize
@@ -2785,6 +2791,7 @@ escarped
 eschalots
 escheating
 escot
+escrow
 esne
 esophagus
 essentialnesses
@@ -2847,6 +2854,7 @@ excused
 execrative
 execrator
 executioners
+exemplarinesses
 exemplify
 exemptions
 exenterated
@@ -3065,6 +3073,7 @@ flagstick
 flakier
 flamboyances
 flamy
+flannelette
 flapless
 flashings
 flashover
@@ -3242,6 +3251,7 @@ friseur
 friskers
 fritillary
 frizzles
+frogging
 froghoppers
 froglets
 frontpaging
@@ -3286,6 +3296,7 @@ futility
 futurities
 futzed
 gabardine
+gabble
 gabs
 gaffing
 gaggling
@@ -3460,6 +3471,7 @@ gossippers
 goth
 gouge
 gouges
+gourmets
 gowaned
 gowns
 grabbing
@@ -3769,6 +3781,7 @@ hircine
 histidins
 histologist
 hitchhiking
+hoardings
 hoatzin
 hoatzines
 hoaxers
@@ -4188,6 +4201,7 @@ intuitionist
 inurement
 inurnments
 invalided
+invalidisms
 invected
 inveighing
 invention
@@ -4206,6 +4220,7 @@ iontophoretic
 ipecac
 ireless
 iring
+irising
 ironings
 ironworker
 irradiate
@@ -4848,7 +4863,9 @@ masticate
 mastigophoran
 mastigophorans
 mastlike
+mastodont
 masturbate
+masturbates
 matchless
 matchmakers
 matchstick
@@ -4966,6 +4983,7 @@ metonymies
 metrical
 metronomes
 mettle
+mezes
 mezuza
 miasmic
 miches
@@ -5024,6 +5042,7 @@ millwright
 milo
 mimed
 mimeographs
+mimetic
 minacious
 mincier
 minciest
@@ -5788,6 +5807,7 @@ overinform
 overingenious
 overjoyed
 overlavish
+overlived
 overlooking
 overlords
 overmanned
@@ -5987,6 +6007,7 @@ pedogenic
 peds
 peduncled
 peed
+peered
 peesweep
 pehs
 peins
@@ -6162,6 +6183,7 @@ picrite
 pictographs
 pictorialism
 pictorializes
+pictured
 pierces
 pietistic
 pietistically
@@ -6358,6 +6380,7 @@ postmortems
 postnatally
 postponer
 postrace
+postretirement
 postriders
 posttransfusion
 potable
@@ -6792,6 +6815,7 @@ recement
 reception
 receptivities
 recepts
+rechannelling
 recheat
 recheats
 rechecked
@@ -7169,6 +7193,7 @@ riling
 rimless
 rimpled
 rimrock
+ringhals
 ringmaster
 riotousness
 ripping
@@ -7437,6 +7462,7 @@ scuppaugs
 scurviest
 scuzzball
 scyphi
+scyphus
 seacrafts
 seafoods
 sealant
@@ -7781,6 +7807,7 @@ snaw
 snawing
 sneaky
 sneaps
+snedded
 snickersnee
 sniffishly
 sniffishness
@@ -8102,6 +8129,7 @@ stroke
 stroll
 stroller
 stroma
+stroppers
 strowing
 stroyer
 struck
@@ -8270,6 +8298,7 @@ surpassingly
 surplus
 surprisingly
 surra
+surrey
 susceptibly
 suspensors
 suspicious
@@ -8450,6 +8479,7 @@ tentmaker
 tentorial
 tentorium
 tenuity
+tenuousnesses
 tephra
 tephrites
 tepoy
@@ -8670,6 +8700,7 @@ transfected
 transfecting
 transferals
 transferrable
+transferrer
 transhipping
 transilluminate
 transitiveness
@@ -8730,6 +8761,7 @@ trigraphs
 trihedron
 trilbies
 trilinear
+trilling
 trimmest
 trimotors
 trinketed
@@ -9195,6 +9227,7 @@ vespertilian
 vested
 vestry
 vetiver
+vetivers
 vetivert
 vexer
 vial
@@ -9524,6 +9557,8 @@ yegg
 yellowtail
 yellowthroat
 yelper
+yente
+yes
 yesses
 yeti
 yieldable
