@@ -162,11 +162,13 @@ agrafes
 aid
 aiglets
 airbrushed
+airchecks
 airshows
 airts
 airwomen
 akene
 akinesias
+akinetic
 alabaster
 alabasters
 alamode
@@ -506,6 +508,7 @@ assoils
 assuagement
 assumer
 assumption
+astarboard
 asthenosphere
 asthenospheres
 astonishments
@@ -1226,6 +1229,7 @@ carolling
 carotidal
 carpetbaggers
 carpooling
+carpools
 carrels
 carroch
 carrotin
@@ -1397,6 +1401,7 @@ chloroplastic
 chloroprene
 chock
 chocoholics
+chokecherry
 cholent
 cholesterol
 cholo
@@ -1661,6 +1666,7 @@ comradeships
 concatenate
 concave
 conceives
+conceptualise
 conceptualists
 conceptualized
 concessionaire
@@ -1733,6 +1739,7 @@ consulted
 consulting
 consummative
 consumptively
+contactee
 contacts
 containerless
 contemptibility
@@ -2619,6 +2626,7 @@ echinate
 echolalias
 eclipser
 ecocatastrophes
+ectopic
 ecumenist
 edges
 edgewise
@@ -2653,6 +2661,7 @@ ejectors
 ekistics
 elain
 elatedness
+elater
 elaters
 elations
 elderlinesses
@@ -2817,6 +2826,7 @@ erepsins
 eroding
 erotism
 erring
+erroneous
 errors
 eructated
 eryngos
@@ -2867,6 +2877,7 @@ eudaemonism
 eudiometers
 eupatridae
 eustele
+eutaxy
 euthanize
 eutherian
 eutrophy
@@ -3184,6 +3195,7 @@ flyswatter
 flytrap
 foamflower
 focalizes
+foemen
 fogbound
 fogdogs
 fogged
@@ -3338,6 +3350,7 @@ fungoids
 funked
 funninesses
 funnymen
+furler
 furless
 further
 furuncle
@@ -3419,6 +3432,7 @@ gelatinously
 gelder
 gelsemium
 gemmate
+gemmily
 gemmology
 gen
 generational
@@ -3438,6 +3452,7 @@ georgette
 georgettes
 germander
 germinability
+gesneriad
 geum
 ghastlinesses
 ghoulishness
@@ -3452,6 +3467,7 @@ gingelies
 gingelli
 gingelly
 ginger
+gingkoes
 giraffe
 gird
 girders
@@ -3551,6 +3567,7 @@ grapier
 grassy
 gratings
 graveless
+gravelly
 gravenesses
 gravitinos
 gravity
@@ -3592,6 +3609,7 @@ groovy
 grotesquenesses
 ground
 groundfish
+grovelers
 groveless
 growling
 grown
@@ -3777,6 +3795,7 @@ hemitrope
 hemodialyses
 hemolyzes
 hemophiliacs
+hemorrhaging
 hemostasis
 hempen
 hempier
@@ -3824,6 +3843,7 @@ hidings
 hieroglyphical
 hieroglyphics
 highlighting
+highting
 hightops
 hillbilly
 hilted
@@ -5239,6 +5259,7 @@ mom
 momently
 momentum
 momus
+monad
 monadnock
 monarchists
 monatomic
@@ -5663,6 +5684,7 @@ occluding
 occlusions
 occupy
 occurrents
+oceanic
 oceanographies
 ocreate
 octadic
@@ -6015,6 +6037,7 @@ parabiotic
 paraboloid
 parachutes
 paradisal
+paradropped
 parainfluenza
 parallelisms
 paralytic
@@ -6058,6 +6081,7 @@ pastellist
 pastels
 pasteurises
 pasteurizing
+pasticheurs
 pastor
 pastored
 pastromis
@@ -6129,6 +6153,7 @@ percaline
 perceptional
 perceptively
 perceptually
+percussing
 percussiveness
 perennated
 perfectible
@@ -7011,6 +7036,7 @@ refilling
 refinable
 refined
 refire
+reflectors
 reflexivities
 refloat
 reflooding
@@ -7086,6 +7112,7 @@ reliabilities
 reliantly
 relicensure
 reliers
+reliever
 relievers
 reliquefies
 reliques
@@ -7556,6 +7583,7 @@ scrappage
 scrawniest
 screaked
 screaks
+screamers
 screech
 screenfuls
 screenlands
@@ -7893,6 +7921,7 @@ slubber
 slubbered
 slue
 sluffed
+sluggard
 slugged
 sluggishly
 sluicy
@@ -8051,6 +8080,7 @@ spences
 spendable
 spermacetis
 spermary
+spermatozoid
 spermic
 spermicides
 sperrylites
@@ -8244,6 +8274,7 @@ strict
 strictest
 stridulations
 strikeovers
+stringhalts
 stringily
 strings
 stripeless
@@ -8369,6 +8400,7 @@ sumptuous
 sundowning
 sundrops
 sunket
+sunlands
 superagency
 superambitious
 superathletes
@@ -8463,6 +8495,7 @@ sybaritic
 sybaritically
 sycophantic
 sycophantisms
+syenites
 syllabled
 syllogizes
 symbiosis
@@ -9194,6 +9227,7 @@ unreal
 unrecoverable
 unredeemable
 unremarkably
+unresponsive
 unrighteously
 unrip
 unripped
@@ -9342,6 +9376,7 @@ venographies
 venoms
 ventilating
 ventilatory
+ventriculus
 ventriloquism
 venules
 verandahed
