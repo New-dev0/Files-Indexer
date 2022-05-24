@@ -194,9 +194,11 @@ alkalise
 alkalized
 alkalizing
 allee
+allergenic
 alleviators
 alleyway
 alliable
+alligators
 allocates
 allocation
 allonym
@@ -311,6 +313,7 @@ anorexia
 anorthosites
 antalkalis
 antediluvian
+antefixal
 anteverts
 antherid
 anthills
@@ -769,6 +772,7 @@ billets
 billies
 bimester
 bimethyls
+bimonthly
 bindingness
 bindingnesses
 bindles
@@ -799,9 +803,11 @@ biradical
 birdbath
 birdbrain
 birdfarm
+birdlife
 birefringent
 birthplaces
 bisect
+bisectional
 bisectrices
 bisnaga
 bistred
@@ -823,6 +829,7 @@ blackheart
 blacksmithing
 blacksmithings
 blacktop
+bladeless
 blamelessnesses
 blameworthiness
 bland
@@ -1201,6 +1208,7 @@ carnassial
 caroller
 carolling
 carotidal
+carpetbaggers
 carpooling
 carrels
 carroch
@@ -1266,6 +1274,7 @@ cellphones
 censer
 centaurs
 centenarians
+centenaries
 centesimal
 centimorgans
 centraler
@@ -1733,6 +1742,7 @@ conveyors
 conviction
 convincingness
 convoke
+convulsant
 cooing
 cookstove
 cooperates
@@ -2490,6 +2500,7 @@ draughts
 drawee
 drawknives
 drawshave
+drays
 dreamlands
 dreamlessness
 dreamt
@@ -2830,6 +2841,7 @@ eutrophy
 evangelism
 even
 evenhanded
+eviscerates
 evolute
 ewes
 exacters
@@ -2998,6 +3010,7 @@ fencelessnesses
 fencer
 fencings
 fenestration
+feoffees
 feoffment
 feoffments
 fer
@@ -3254,6 +3267,7 @@ frizzles
 frogging
 froghoppers
 froglets
+fronds
 frontpaging
 frostiness
 frothy
@@ -3302,6 +3316,7 @@ gaffing
 gaggling
 gainable
 gainfully
+gaingiving
 gainsaying
 gainsays
 gaiters
@@ -3671,6 +3686,7 @@ hawsers
 hayfork
 hayforks
 hays
+haziest
 hazinesses
 headcheeses
 headcounts
@@ -3816,6 +3832,7 @@ homophobes
 homophobia
 homoplasy
 homosexually
+homozygous
 honda
 honeworts
 honeys
@@ -3825,6 +3842,7 @@ hooches
 hoodies
 hoodmold
 hoodwinker
+hoodwinkers
 hook
 hookier
 hoopster
@@ -3973,6 +3991,7 @@ immunochemistry
 immunology
 impactor
 impainted
+impalement
 imparted
 impartialities
 impasted
@@ -4290,6 +4309,7 @@ jauped
 javascript
 jawbreaker
 jazzer
+jazzier
 jealousness
 jefe
 jejuneness
@@ -4930,6 +4950,7 @@ meltdowns
 melton
 mementoes
 memetics
+memo
 memorably
 memorialized
 memorising
@@ -5244,6 +5265,7 @@ mountebankeries
 mounted
 mourns
 mousakas
+mousiest
 moussaka
 mousseline
 moussing
@@ -5527,6 +5549,7 @@ nostalgias
 nostalgic
 notarize
 notices
+notochordal
 nounless
 novelizers
 novitiates
@@ -5681,6 +5704,7 @@ orthophosphate
 orthopteran
 orthopterists
 orthotropous
+osetra
 osmiridiums
 osmolarity
 osmometry
@@ -5900,6 +5924,7 @@ palmer
 palmitins
 palmyra
 palter
+paltered
 paltering
 paludal
 pampa
@@ -5957,6 +5982,7 @@ parterre
 participation
 particulate
 partnered
+partygoers
 parvis
 pashalik
 passageworks
@@ -6488,6 +6514,7 @@ prestidigitator
 prestored
 presumes
 presumingly
+presummit
 presynaptic
 presynaptically
 pretasting
@@ -7000,6 +7027,7 @@ remission
 remittor
 remonstrate
 remote
+remotivates
 removeable
 renail
 renascent
@@ -7359,6 +7387,7 @@ sardonically
 sarongs
 saroses
 sashays
+saskatoons
 satanists
 satays
 satiating
@@ -7550,6 +7579,7 @@ seraphims
 sergeancy
 serger
 seriousnesses
+serosas
 serpiginously
 servable
 servitudes
@@ -7611,6 +7641,7 @@ shirtmaker
 shitless
 shittims
 shittimwoods
+shivered
 shlub
 shlumpy
 shoaly
@@ -8245,6 +8276,7 @@ sundrops
 sunket
 superagency
 superambitious
+superathletes
 superbank
 superbomber
 superclasses
@@ -8324,6 +8356,7 @@ swiftness
 swindles
 swing
 swiss
+switchbacks
 swobbing
 swoony
 swoopy
@@ -8671,6 +8704,7 @@ touting
 towelette
 towelling
 towellings
+town
 townies
 townwear
 toxaphene
@@ -9487,6 +9521,7 @@ woorari
 woozily
 wordplays
 words
+wordsmith
 workaday
 workbenches
 workbox
