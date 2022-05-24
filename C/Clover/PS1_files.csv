@@ -1,0 +1,2 @@
+robertbird.devenvironment/Boxstarter-Machine-Build.ps1 at master ...,https://github.com/robertbird/robertbird.devenvironment/blob/master/MachineBuilds/Boxstarter-Machine-Build.ps1
+Boxstarter options $Boxstarter.RebootOk=$true # Allow reboots ...,https://raw.githubusercontent.com/renlesterdg/machinebuilds/34fe7d3269ffcb9f976c3919d7e6ae5e7d08114d/BoxStarter-Machine-Build.ps1
