@@ -1,0 +1,16 @@
+SamplePSReadLineProfile.ps1 2.0.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/PSReadLine/2.0.0/Content/SamplePSReadLineProfile.ps1
+Koans/Foundations/AboutStrings.Koans.ps1 0.50.1 - PowerShell ...,https://www.powershellgallery.com/packages/PSKoans/0.50.1/Content/Koans%255CFoundations%255CAboutStrings.Koans.ps1
+useful_powershell_functions/Quote-String.ps1 at master - GitHub,https://github.com/ztrhgf/useful_powershell_functions/blob/master/Quote-String.ps1
+read the csv in binary $repair = get-content -encoding byte export ...,https://content.spiceworksstatic.com/service.community/p/post_attachments/0000041980/4d668a30/attached_file/convert.ps1
+"quotes.ps1 $name=""Mysil"" Write-Host Hello $name Write-Host ...",https://www.ansatt.hig.no/erikh/tutorial-powershell/quotes.ps1
+check_eset_ver.ps1 ... - GitLab,https://gitlab.lauserco.com/tech/ncpa-plugins/-/blob/f8c49958064bc69181938c725b1004163ccb6ccc/check_eset_ver.ps1
+check_windows_ver.ps1 ... - GitLab,https://gitlab.lauserco.com/tech/ncpa-plugins/-/blob/41cfc258ec6fbeabb6fb889a24ab43f52fd4a9bb/check_windows_ver.ps1
+libewf-legacy/synczlib.ps1 at main - GitHub,https://github.nmiku.com/libyal/libewf-legacy/blob/main/synczlib.ps1
+GTCSRT.ps1 · mirrors_GoogleCloudPlatform/gce-cloud-sql ... - Gitee,https://gitee.com/mirrors_GoogleCloudPlatform/gce-cloud-sql-recommendation-tool/blob/master/GTCSRT.ps1
+Smock Andy Ps | Facebook,https://www.facebook.com/smock.ps1
+install.ps1 1.0.72 - PowerShell Gallery,https://40.87.85.101/packages/dbatools/1.0.72/Content/install.ps1
+functions/Import-DbaCsv.ps1 1.0.48 - PowerShell Gallery,https://168.61.186.235/packages/dbatools/1.0.48/Content/functions%255CImport-DbaCsv.ps1
+mirrors / microsoft / azure-kinect-sensor-sdk - GitCode,https://gitcode.net/mirrors/microsoft/azure-kinect-sensor-sdk/-/blob/v1.3.1-alpha.0-rc/scripts/install-opencv.ps1%3Ffrom_codechina%3Dyes
+PowerShell/New-KrbgtKey/New-KrbtgKey.ps1 - GitLab,https://git.rdr-it.io/root/scripts/-/blob/a5be04cbf90d72b335b78da5ad118dc0ff80ed72/PowerShell/New-KrbgtKey/New-KrbtgKey.ps1
+mj/Windows10Debloater - antipode.info GIT,https://git.antipode.net/mj/Windows10Debloater/commits/branch/master/Windows10DebloaterGUI.ps1%3Flang%3Des-ES
+ContinueYourAutomationAfterRe...,https://gitlab.com/missionimpossiblecode/MissionImpossibleCode/blob/master/ContinueYourAutomationAfterRestartingAHeadlessSystem.ps1

@@ -388,6 +388,7 @@ appendicular
 appends
 apperceive
 apperceived
+appestats
 appetisers
 appetising
 appetizingly
@@ -878,6 +879,7 @@ bonspells
 bonuses
 boogeyman
 bookcase
+bookful
 bookmarker
 bookshop
 bookshops
@@ -1138,6 +1140,7 @@ capacitive
 capacitor
 capercaillies
 capering
+capitalist
 capitols
 capsulizes
 captivities
@@ -1176,6 +1179,7 @@ caroller
 carolling
 carotidal
 carpooling
+carrels
 carroch
 carrotin
 carryout
@@ -1403,6 +1407,7 @@ cladogram
 clads
 clairvoyance
 clamped
+clamping
 clamworms
 clandestinity
 clanking
@@ -1624,6 +1629,7 @@ confidantes
 confident
 configuration
 confine
+confirmands
 confirmers
 confluxes
 conformist
@@ -1688,6 +1694,7 @@ controverters
 contumacy
 convector
 convened
+conveniences
 converses
 convexes
 conveyances
@@ -1844,6 +1851,7 @@ crosstrees
 crotchet
 crowd
 crowdy
+crows
 cruciform
 crumby
 crumhorns
@@ -2076,6 +2084,7 @@ deifier
 deifying
 deinonychuses
 deionizers
+deistically
 dejecta
 dekaliter
 dekameter
@@ -2293,6 +2302,7 @@ discordant
 discos
 discoursed
 discriminant
+disdainfulness
 disembarrassing
 disenable
 disentitled
@@ -2776,6 +2786,7 @@ evolute
 ewes
 exacters
 exahertz
+examinee
 exanimate
 exanthema
 except
@@ -2897,6 +2908,7 @@ fas
 fatefulness
 fatheadedly
 fatherlands
+fathomed
 fattens
 fattest
 faucet
@@ -3701,6 +3713,7 @@ hoatzines
 hoaxers
 hobbledehoy
 hocker
+hocks
 hogging
 hogtied
 holddowns
@@ -3807,6 +3820,7 @@ hyperbola
 hyperbolae
 hyperboreans
 hypercautious
+hypereutectoid
 hypergol
 hypergols
 hyperinvolution
@@ -4037,6 +4051,7 @@ insister
 insisters
 insolubles
 inspectors
+inspects
 installs
 instigate
 instrokes
@@ -4645,6 +4660,7 @@ lyart
 lycopenes
 lymphoblast
 lynched
+lysogen
 lyssa
 lytically
 macacos
@@ -4945,6 +4961,7 @@ miraculous
 mirex
 mirin
 mirrored
+mirzas
 misagent
 misagents
 misaimed
@@ -5234,6 +5251,7 @@ naturalize
 naumachies
 navelworts
 navicert
+navy
 nawabs
 neap
 nears
@@ -5251,6 +5269,7 @@ negates
 negligee
 nelumbos
 nematocysts
+nemertine
 neoliths
 neologists
 neophyte
@@ -5998,10 +6017,12 @@ phonation
 phonations
 phone
 phonetically
+phoneying
 phosphatization
 phosphatizes
 phosphatizing
 phosphids
+phospholipase
 phosphoresce
 phosphori
 phosphorolytic
@@ -6011,6 +6032,7 @@ photoautotroph
 photochemical
 photochemistry
 photocurrent
+photocurrents
 photodiodes
 photog
 photographic
@@ -6048,6 +6070,7 @@ pictorializes
 pierces
 pietistic
 pietistically
+pigeonite
 pigeonites
 pigged
 piggie
@@ -6282,6 +6305,7 @@ precocity
 preconizing
 precooking
 predatism
+predestinations
 predestinators
 predestining
 predetermine
@@ -6374,6 +6398,7 @@ prioritizations
 priority
 prismoidal
 prisoners
+pristinely
 privies
 proactions
 probities
@@ -6512,6 +6537,7 @@ pyramidal
 pyritic
 pyrotechnical
 pyxides
+pyxidium
 qabalahs
 qanat
 quadrate
@@ -6556,6 +6582,7 @@ quittances
 quixotic
 quixotical
 quodlibets
+quotes
 qwerty
 rabbiting
 rabidnesses
@@ -7170,6 +7197,7 @@ samshu
 sanctifying
 sandaling
 sandals
+sandbagging
 sandbags
 sandiest
 sandstorm
@@ -7500,6 +7528,7 @@ significant
 signifies
 silage
 silhouetting
+silicification
 silicifying
 silicone
 siliquae
@@ -8015,6 +8044,7 @@ sublimate
 subliming
 sublingual
 submit
+submitted
 suboptimizes
 suborn
 suboxide
@@ -8224,6 +8254,7 @@ tangibilities
 tangier
 tangs
 tankless
+tannages
 tantalates
 tantalizing
 tanzanite
@@ -8532,6 +8563,7 @@ traversable
 travesties
 trawlnets
 treachery
+trebling
 treehopper
 treenails
 treetops
@@ -8560,6 +8592,7 @@ triers
 trifled
 trifocals
 trifold
+trifoliate
 triform
 trifurcates
 trigeminal
@@ -8882,6 +8915,7 @@ unsews
 unshelling
 unsmiling
 unsnapped
+unsnarling
 unsolved
 unsoundly
 unspeaking
@@ -9155,6 +9189,7 @@ watchable
 waterdog
 waterinesses
 wattled
+wavelengths
 wavers
 waxable
 waxwings
