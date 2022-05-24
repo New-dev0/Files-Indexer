@@ -1,0 +1,5 @@
+internal/Show-Notification.ps1 0.9.24 - PowerShell Gallery,https://www.powershellgallery.com/packages/dbatools/0.9.24/Content/internal%255CShow-Notification.ps1
+Public/Invoke-Clippy.ps1 1.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/PowerClippy/1.0/Content/Public%255CInvoke-Clippy.ps1
+PowerShell/Send-MessagePopUp.ps1 at master - GitHub,https://github.com/nullzeroio/PowerShell/blob/master/Send-MessagePopUp.ps1
+Script to jiggle mouse and keep screen alive until 5pm. Written By ...,https://raw.githubusercontent.com/01000001-01001110/mousejiggler/main/MouseJiggler.ps1
+function Get-OSTokenInformation { <# .SYNOPSIS Get ...,https://raw.githubusercontent.com/r00t-3xp10it/redpill/main/modules/Get-OSTokenInformation.ps1
