@@ -39,6 +39,7 @@ absolvent
 absolves
 absorb
 absorbant
+absterge
 abstracted
 abstracting
 abstractions
@@ -380,6 +381,7 @@ antlered
 anuretic
 anywise
 aortographic
+apaches
 apanage
 apathetic
 apertures
@@ -541,6 +543,7 @@ audiology
 auditorily
 augers
 aught
+augitic
 augustest
 aunts
 aurar
@@ -1489,6 +1492,7 @@ clandestinity
 clanking
 clannishly
 clapboard
+clarifies
 clashes
 classable
 classico
@@ -1741,6 +1745,7 @@ connubiality
 conquered
 conscientious
 consciously
+consecratory
 consented
 consequences
 consequentially
@@ -1857,6 +1862,7 @@ costumier
 coteries
 coterminously
 cothurnus
+cotransductions
 cottons
 coulibiac
 coulibiacs
@@ -2079,6 +2085,7 @@ damselflies
 dangers
 dankest
 dans
+darbies
 darbs
 daredeviltries
 daric
@@ -2111,6 +2118,7 @@ dealated
 dearie
 deasil
 debarked
+debatements
 debating
 debeaks
 deboned
@@ -2911,6 +2919,7 @@ eucrite
 eudaemonism
 eudiometers
 eupatridae
+euphuistically
 eustele
 eutaxy
 euthanize
@@ -3079,6 +3088,7 @@ fed
 federative
 feds
 feedlot
+feijoa
 feldscher
 felicitated
 fellating
@@ -3428,6 +3438,7 @@ galop
 galvanises
 galvanize
 galvanometers
+galyak
 gaminess
 gamodeme
 ganevs
@@ -3504,6 +3515,7 @@ giantisms
 giftee
 gifting
 giftwrap
+gigged
 gimmick
 gingeley
 gingelies
@@ -3839,7 +3851,9 @@ helmsmen
 helots
 helpmates
 hemacytometers
+hematics
 hemerythrins
+hemicellulose
 hemitrope
 hemodialyses
 hemolyzes
@@ -3887,6 +3901,7 @@ hiatus
 hibernates
 hick
 hidden
+hidebound
 hideousnesses
 hidings
 hieroglyphical
@@ -3972,6 +3987,7 @@ hoses
 hoseys
 hosiers
 hospitality
+hostly
 hotchpotches
 hotelier
 hotheaded
@@ -4119,6 +4135,7 @@ implausibility
 implead
 importunely
 imposes
+impossibility
 impoverishing
 imprecating
 imprecation
@@ -4549,6 +4566,7 @@ khoums
 kiaugh
 kibe
 kick
+kickboxed
 kicky
 kiddo
 kidnaper
@@ -4905,6 +4923,7 @@ lytically
 macacos
 macerator
 mach
+machetes
 machination
 mackintoshes
 macrocosms
@@ -4981,6 +5000,7 @@ marblers
 marbly
 marchese
 margays
+marginalizing
 marguerite
 marine
 market
@@ -4991,6 +5011,7 @@ marrers
 marshalcies
 marshaling
 marshalled
+mart
 marting
 martyrly
 martyrologist
@@ -5382,6 +5403,7 @@ morro
 morselling
 mortarboard
 mortgagor
+mortified
 mortisers
 mortmain
 mothered
@@ -5559,6 +5581,7 @@ neuroanatomists
 neurobiologist
 neurochemical
 neurologies
+neurophysiology
 neutrons
 nevi
 nevus
@@ -5690,6 +5713,7 @@ nosebag
 noseless
 nostalgias
 nostalgic
+notably
 notarize
 nother
 notices
@@ -5720,6 +5744,7 @@ nutmeg
 nutritives
 obeah
 obeli
+obelisms
 obeys
 obfuscations
 objectivity
@@ -6854,6 +6879,7 @@ pursuant
 pursuivants
 pushdowns
 pushes
+pusillanimity
 pussyfoot
 putrescence
 putridly
@@ -7050,6 +7076,7 @@ reconfirming
 reconnoiters
 reconquest
 reconsolidating
+reconstructors
 recontacts
 reconvictions
 recooked
@@ -7178,6 +7205,7 @@ reiterating
 rejections
 rejectors
 rejustifies
+rejustify
 rejuvenated
 rekeying
 reknits
@@ -7420,6 +7448,7 @@ ringmaster
 riotousness
 ripping
 riskers
+ristra
 risus
 ritually
 rivetted
@@ -7625,6 +7654,7 @@ scatback
 scattershot
 scaup
 scaur
+scaurs
 scavenging
 scenical
 schedular
@@ -7724,6 +7754,7 @@ seepages
 seepiest
 seicento
 seine
+seining
 seise
 seismological
 seisms
@@ -8248,6 +8279,7 @@ sputter
 squabs
 squad
 squashed
+squawroots
 squealers
 squeezers
 squelchy
@@ -9256,6 +9288,7 @@ unfeignedly
 unfiltered
 unfit
 unfledged
+unfold
 unfrock
 ungazing
 ungenial
@@ -9418,6 +9451,7 @@ urinalysis
 urinators
 uroscopies
 urped
+usurers
 uteruses
 uvarovite
 vacant
@@ -9775,6 +9809,7 @@ workhouse
 workman
 workplace
 worktables
+wormer
 wormish
 wormroot
 worse
