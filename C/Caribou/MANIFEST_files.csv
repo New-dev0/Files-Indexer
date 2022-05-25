@@ -1,0 +1,4 @@
+ubuntu-gnome-16.04.5-desktop-i386.manifest,https://cdimage.ubuntu.com/ubuntu-gnome/releases/16.04/release/ubuntu-gnome-16.04.5-desktop-i386.manifest
+ubuntu-gnome-16.04.5-desktop-amd64.manifest,https://cdimage.ubuntu.com/ubuntu-gnome/releases/16.04/release/ubuntu-gnome-16.04.5-desktop-amd64.manifest
+Resetter/LinuxMint_19_X-Cinnamon_64bit_.manifest at master,https://github.com/gaining/Resetter/blob/master/Resetter/usr/lib/resetter/data/manifests/LinuxMint_19_X-Cinnamon_64bit_.manifest
+accountsservice 0.6.42-0ubuntu2 acl 2.2.52-3build1 acpi-support ...,http://ubuntu.interhost.co.il/17.10.1/ubuntu-17.10-beta2-desktop-amd64.manifest

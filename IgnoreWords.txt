@@ -330,6 +330,7 @@ anthelix
 antherid
 anthills
 anthologizers
+anti
 antiaging
 antianxiety
 antiarrhythmic
@@ -407,6 +408,7 @@ apostrophic
 appalled
 appeasement
 append
+appendants
 appendicular
 appends
 apperceive
@@ -453,6 +455,7 @@ arete
 argumenta
 ariboflavinosis
 ariettas
+armonica
 armor
 armour
 armourers
@@ -1082,6 +1085,7 @@ buhlwork
 build
 bulged
 bulgur
+bulkage
 bullace
 bullfighters
 bulwark
@@ -1235,6 +1239,7 @@ careers
 carelessly
 caressers
 caribes
+caribou
 caricatured
 caricatures
 caricaturist
@@ -1671,6 +1676,7 @@ commy
 compactions
 companions
 comparison
+compassable
 competing
 competitor
 complacently
@@ -1814,6 +1820,7 @@ coots
 copartners
 copay
 cope
+copremia
 coprincipal
 coprocessor
 coprocessors
@@ -1878,6 +1885,7 @@ counterdemands
 counterordering
 counterpart
 counterplay
+counterprotest
 countersigning
 countryman
 couples
@@ -2343,6 +2351,7 @@ diamondiferous
 dianthus
 diaphanously
 diaphorases
+diaphysis
 diarrheic
 diaspores
 diastemata
@@ -3087,6 +3096,7 @@ fauvism
 fava
 favorites
 favors
+fawns
 feasters
 featherbrain
 featherheaded
@@ -3189,6 +3199,7 @@ flack
 flackery
 flaggier
 flagitiously
+flagships
 flagstaffs
 flagstick
 flakier
@@ -3383,6 +3394,7 @@ frizzles
 frogging
 froghoppers
 froglets
+froglike
 fronds
 frontpaging
 frostiness
@@ -3445,6 +3457,7 @@ gales
 galiots
 galivanted
 galliasses
+gallipot
 gallons
 galloper
 galop
@@ -3630,6 +3643,7 @@ grandparents
 grandson
 granita
 granters
+granulates
 granule
 graphemically
 graphitized
@@ -3781,6 +3795,7 @@ handselling
 handyperson
 hangtags
 haphtarah
+happens
 happy
 haptenes
 harangued
@@ -3841,6 +3856,7 @@ heatable
 heathbird
 heathendoms
 heathenish
+heaumes
 heavyweight
 hebephrenic
 heckles
@@ -4033,6 +4049,7 @@ humorlessly
 humouring
 hump
 huntsman
+hurdled
 hutch
 hyaenic
 hydralazines
@@ -4041,6 +4058,7 @@ hydrazines
 hydrid
 hydrocracked
 hydrofoil
+hydrogels
 hydrometric
 hydrophytes
 hydrospaces
@@ -4165,6 +4183,7 @@ impugn
 impugned
 inadequacy
 inadequateness
+inalterably
 inanely
 inanities
 inaudibly
@@ -4195,6 +4214,7 @@ incorruptibles
 incorruptly
 incrossing
 incubates
+incudate
 inculpated
 incur
 incuriosity
@@ -4252,6 +4272,7 @@ infrequent
 infringement
 ingenuousnesses
 ingrafting
+ingrate
 ingression
 inhabitable
 inhalers
@@ -4349,6 +4370,7 @@ intimately
 intimates
 intimidator
 intolerantly
+intoxications
 intracardial
 intraday
 intradermally
@@ -4371,6 +4393,7 @@ invention
 inventivenesses
 invertase
 invertor
+investigations
 investigatory
 invigilators
 inviscid
@@ -5387,6 +5410,7 @@ monophthongs
 monopolise
 monopolises
 monopsonies
+monopsonistic
 monorchid
 monosyllable
 monosynaptic
@@ -6012,6 +6036,7 @@ overencouraged
 overestimated
 overevaluations
 overexpose
+overextend
 overfill
 overflooding
 overfly
@@ -6647,6 +6672,7 @@ pragmatisms
 prancer
 prangs
 prattling
+preachily
 preadaptive
 preadopted
 preadult
@@ -6688,6 +6714,7 @@ preformat
 prefrozen
 prefund
 pregenital
+pregnancies
 pregnancy
 prehandle
 preinform
@@ -7091,6 +7118,7 @@ recocks
 recognizers
 recombing
 recommissioning
+recompensed
 recondenses
 reconditioned
 reconferred
@@ -7869,6 +7897,7 @@ shanghaiers
 shards
 shareabilities
 sharifs
+sharpers
 shat
 shatter
 shaven
@@ -8655,6 +8684,7 @@ syllabled
 syllogizes
 symbiosis
 symbols
+symphonists
 synaestheses
 synanon
 synarthroses
@@ -8673,6 +8703,7 @@ syngenic
 synopsizes
 synoptical
 syntagms
+syphoning
 syringas
 syrinx
 syrinxes
@@ -9209,6 +9240,7 @@ umping
 umteenth
 unabsorbed
 unacademic
+unaccented
 unactorish
 unaesthetic
 unaffecting
@@ -9511,6 +9543,7 @@ vaporous
 vapoured
 varicoceles
 varicose
+variedly
 variousness
 varnishy
 varying
@@ -9916,6 +9949,7 @@ yoctoseconds
 yodlers
 yoga
 yogins
+yohimbines
 yoni
 youngling
 youthen
@@ -9949,6 +9983,7 @@ zizzle
 zoarium
 zoecia
 zonary
+zooks
 zoolater
 zoologically
 zoomorphic
