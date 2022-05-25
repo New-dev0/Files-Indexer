@@ -445,6 +445,7 @@ arbitrating
 arbitrator
 arboretums
 arc
+arced
 archaizes
 archangel
 archeology
@@ -893,6 +894,7 @@ blooming
 blooper
 bloops
 blossoms
+blotting
 blowdown
 blowgun
 blubberer
@@ -934,6 +936,7 @@ bolivars
 bolivianos
 bollard
 bollixing
+bolometers
 bolshies
 bombarder
 bomblet
@@ -1090,6 +1093,7 @@ bugged
 bugle
 buhlwork
 build
+bulbuls
 bulged
 bulgur
 bulkage
@@ -1672,6 +1676,7 @@ commentaries
 commercialisms
 commercialized
 commissioned
+committing
 commodifying
 commodity
 common
@@ -1776,6 +1781,7 @@ consequentially
 conservatisms
 conservatizing
 consisted
+consistences
 consolation
 consortia
 conspirational
@@ -1793,6 +1799,7 @@ consummative
 consumptively
 contactee
 contacts
+containerize
 containerless
 contemplators
 contemptibility
@@ -2707,6 +2714,7 @@ echinate
 echolalias
 eclipser
 ecocatastrophes
+ecological
 economizer
 economizers
 ectopic
@@ -2729,6 +2737,7 @@ effrontery
 effs
 effulgent
 effuses
+egad
 egalitarians
 egers
 eggars
@@ -2743,6 +2752,7 @@ einkorn
 ejaculates
 ejectors
 ekistics
+elaborations
 elain
 elatedness
 elater
@@ -2861,6 +2871,7 @@ entombment
 entomophily
 entozoans
 entranceways
+entrapping
 entreats
 entrenched
 entropic
@@ -3408,6 +3419,7 @@ freshening
 freshman
 fret
 fretwork
+friary
 fricative
 friendlier
 friezes
@@ -4018,6 +4030,7 @@ homosexually
 homozygous
 honda
 honeworts
+honeycombing
 honeys
 hongied
 honorableness
@@ -4096,6 +4109,7 @@ hydrostatic
 hydroxylase
 hydroxylases
 hyoidal
+hypabyssal
 hyperbola
 hyperbolae
 hyperboreans
@@ -4112,6 +4126,7 @@ hyperplasias
 hyperploids
 hyperpolarized
 hyperpolarizing
+hyphenates
 hypnoses
 hypoderma
 hypodermically
@@ -4216,6 +4231,7 @@ inadequateness
 inalterably
 inanely
 inanities
+inapplicable
 inaudibly
 inburst
 incalculable
@@ -4341,6 +4357,7 @@ insignificancy
 insincere
 insister
 insisters
+insolubility
 insolubles
 inspectors
 inspects
@@ -4857,6 +4874,7 @@ linden
 lindens
 lineable
 lines
+lingerie
 lingonberry
 linier
 linoleates
@@ -5194,6 +5212,7 @@ mercenaries
 mercenarinesses
 mercerising
 mercerization
+merchandizes
 merchantmen
 mercurations
 mercy
@@ -5846,6 +5865,7 @@ observably
 obsession
 obsessions
 obstetricians
+obturate
 obturations
 occiputs
 occluding
@@ -5948,6 +5968,7 @@ orienteering
 orinasals
 orismology
 ornamentally
+ornery
 orogenetic
 orpiment
 orthocenters
@@ -6268,6 +6289,7 @@ pathetically
 pathologies
 pathos
 pathoses
+patining
 patissier
 patissiers
 patriarchies
@@ -6435,6 +6457,7 @@ phonations
 phone
 phonetically
 phoneying
+phosgene
 phosphatization
 phosphatizes
 phosphatizing
@@ -6518,6 +6541,7 @@ pinschers
 pintadas
 pintsized
 piolets
+piosity
 pipelined
 pipes
 pipinesses
@@ -6638,6 +6662,7 @@ polymeric
 polymerized
 polymorphously
 polyparies
+polypous
 polyptychs
 polypuses
 polys
@@ -6905,6 +6930,7 @@ prospector
 prosperities
 prost
 prostate
+protectress
 protectresses
 proteome
 prothoraces
@@ -7076,6 +7102,7 @@ rainouts
 raki
 raku
 ramiform
+ramifying
 ramped
 ramshorn
 ranchos
@@ -7114,9 +7141,11 @@ razzberry
 razzmatazz
 reaccenting
 reaccepted
+reacclimatizes
 reaccreditation
 readouts
 reaffirmations
+reaffirms
 realisms
 realize
 realpolitik
@@ -7152,6 +7181,7 @@ recement
 reception
 receptivities
 recepts
+rechanneling
 rechannelling
 recheat
 recheats
@@ -7373,6 +7403,7 @@ repinning
 replica
 replicons
 replunging
+repolarization
 repos
 reprehensible
 reprehensibly
@@ -7564,6 +7595,7 @@ roadhouse
 roadkill
 roadster
 roam
+robbed
 robustest
 rocambole
 rockabilly
@@ -8788,6 +8820,7 @@ taction
 tacts
 taels
 tagliatelles
+tailbone
 taker
 takes
 talar
@@ -8916,6 +8949,7 @@ tetrarchic
 tetrode
 textbooks
 textile
+textless
 textures
 thalassaemias
 thallic
@@ -9915,6 +9949,7 @@ womans
 womenfolk
 womenfolks
 wonderfully
+wonderfulness
 wonderland
 wonkiest
 wonky
