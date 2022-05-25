@@ -1,0 +1,7 @@
+functions/Add-DbaAgDatabase.ps1 0.9.531 - PowerShell Gallery,https://www.powershellgallery.com/packages/dbatools/0.9.531/Content/functions%255CAdd-DbaAgDatabase.ps1
+functions/Invoke-DbaDbMirroring.ps1 0.9.802 - PowerShell Gallery,https://www.powershellgallery.com/packages/dbatools/0.9.802/Content/functions%255CInvoke-DbaDbMirroring.ps1
+PowerShell/enable-crash-dumps.ps1 at master - GitHub,https://github.com/fleschutz/PowerShell/blob/master/Scripts/enable-crash-dumps.ps1
+dbatools/Add-DbaAgDatabase.ps1 at development - GitHub,https://github.com/sqlcollaborative/dbatools/blob/development/functions/Add-DbaAgDatabase.ps1
+Public/Set-RubrikUserRole.ps1 5.3.0-RC1 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/Rubrik/5.3.0-RC1/Content/Public%255CSet-RubrikUserRole.ps1
+functions/Add-DbaAgDatabase.ps1 0.9.823 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/dbatools/0.9.823/Content/functions%255CAdd-DbaAgDatabase.ps1
+function Add-DbaAgDatabase { <# .SYNOPSIS Adds database(s) to ...,https://raw.githubusercontent.com/sqlcollaborative/dbatools/development/functions/Add-DbaAgDatabase.ps1

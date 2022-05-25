@@ -61,6 +61,7 @@ accompaniment
 accorded
 accountants
 accruable
+accumulators
 accurateness
 accursedness
 accusative
@@ -351,6 +352,7 @@ antiepilepsy
 antifascisms
 antiforeigner
 antigenically
+antihero
 antihistamine
 antihumanistic
 antihunter
@@ -851,6 +853,7 @@ biotechnologies
 biotechnologist
 bipinnately
 bipolarizes
+biradial
 biradical
 birdbath
 birdbrain
@@ -896,6 +899,7 @@ bleacher
 bleat
 bled
 blitzkrieg
+blizzards
 blob
 blockier
 blondined
@@ -954,6 +958,7 @@ bolshies
 bombarder
 bomblet
 bombshell
+bombycids
 bonding
 bone
 bongoes
@@ -1399,6 +1404,7 @@ chaperones
 chappati
 chapping
 chapt
+charbroils
 charcoaling
 charger
 charities
@@ -1479,6 +1485,7 @@ chorial
 chorizos
 chorographers
 choruses
+chosen
 chowed
 christening
 chroma
@@ -1673,6 +1680,7 @@ collegiality
 collide
 collodion
 colluviums
+colobus
 cologarithm
 colonisation
 colons
@@ -1920,6 +1928,7 @@ cortexes
 corticotrophin
 cortisone
 corybantes
+corymb
 coryneform
 coscripted
 coscripting
@@ -1951,6 +1960,7 @@ couplet
 courlan
 courtesies
 covalences
+covariance
 coverage
 covetable
 cowardliness
@@ -2183,6 +2193,7 @@ daydreamlike
 daylighted
 daymares
 daysides
+de
 deaconess
 deaconing
 deactivate
@@ -2275,6 +2286,7 @@ defrost
 defuzed
 degami
 degasser
+degassers
 dehisce
 dehorned
 deifier
@@ -2423,6 +2435,7 @@ diaphysis
 diarrheic
 diaspores
 diastemata
+diasters
 diatoms
 diazinons
 diazotizations
@@ -2741,6 +2754,7 @@ dystopias
 eagers
 eagle
 eanling
+eared
 earlap
 earldom
 earringed
@@ -3132,6 +3146,7 @@ facete
 facetious
 facia
 fact
+factionally
 factoidal
 factotums
 faddishness
@@ -3351,6 +3366,7 @@ fluoresce
 fluoric
 fluorimetries
 fluorination
+fluorometries
 flurries
 flurry
 flushable
@@ -3499,6 +3515,7 @@ fronds
 frontpaging
 frostiness
 frothy
+frouncing
 frowzily
 fruiters
 fryable
@@ -3513,6 +3530,7 @@ fulfilments
 fulgent
 fulleries
 fullfaces
+fullmouthed
 fulminic
 fumers
 fumigate
@@ -3559,6 +3577,7 @@ gales
 galiots
 galivanted
 galliasses
+gallican
 gallipot
 gallons
 galloper
@@ -3685,6 +3704,7 @@ gloomy
 glopped
 gloppier
 glorying
+glossiness
 glossolalia
 glover
 glowering
@@ -3962,6 +3982,7 @@ headrooms
 headshrinker
 headstand
 headstone
+hearkeners
 heartbreaker
 heartening
 hearths
@@ -4125,6 +4146,7 @@ hoovers
 hopsacking
 horehound
 hornist
+horologists
 horrid
 horsepox
 horsepoxes
@@ -4261,6 +4283,7 @@ immanent
 immaterializes
 immersion
 immeshes
+immeshing
 immigrates
 immigration
 immitigably
@@ -5510,7 +5533,9 @@ moats
 mobcap
 mockers
 modelings
+models
 moderately
+modernes
 modernly
 modifications
 modistes
@@ -6914,6 +6939,7 @@ pregnancies
 pregnancy
 prehandle
 preinform
+preinterviewed
 prelegal
 prelocates
 preluding
@@ -6924,6 +6950,7 @@ premillenarian
 premoistened
 premold
 prenames
+prenotifying
 preparatorily
 preparators
 prepared
@@ -7103,6 +7130,7 @@ pulicide
 pullouts
 pulps
 pulsed
+pulvillus
 pumicing
 puncher
 punchinellos
@@ -7943,6 +7971,7 @@ schedules
 schematizes
 schismatize
 schizier
+schizophrenics
 schlump
 schmoes
 schmoose
@@ -8183,6 +8212,7 @@ shortia
 shortie
 shortish
 shorty
+shoveling
 showdown
 showed
 shrewed
@@ -8643,6 +8673,7 @@ stereotypically
 stereotypies
 sternutators
 steroidal
+stewbum
 stewing
 stickfuls
 stickums
@@ -8976,6 +9007,7 @@ tackers
 tackets
 tackling
 taconite
+tact
 taction
 tacts
 taels
@@ -9208,6 +9240,7 @@ tineas
 tingliest
 tingling
 tinily
+tinkled
 tippable
 tipped
 tipstaff
@@ -9239,6 +9272,7 @@ toeless
 toenailing
 toga
 togaviruses
+toiletries
 token
 tokers
 tokonoma
@@ -9814,6 +9848,7 @@ varicoceles
 varicose
 variedly
 variousness
+varnas
 varnishy
 varying
 vasectomized
