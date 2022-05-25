@@ -1,0 +1,2 @@
+GitList,http://mirror.fairway.ne.jp/git-repository/ansible/blob/ac620b79dd5d4bc381a2b6fdd5fc160dbb2496fa/lib/ansible/modules/extras/windows/win_uri.ps1
+GitList,http://mirror.fairway.ne.jp/git-repository/ansible/blob/2f8d3fcf41107efafc14d51ab6e14531ca8f8c87/lib/ansible/executor/powershell/bootstrap_wrapper.ps1
