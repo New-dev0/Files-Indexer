@@ -298,6 +298,7 @@ analcimic
 analcite
 analgesic
 analogical
+analogically
 analytic
 analyzations
 anaphora
@@ -724,6 +725,7 @@ beaning
 beano
 bearberries
 beargrasses
+bearings
 beatable
 beatify
 beauteousnesses
@@ -903,6 +905,7 @@ blackheart
 blacksmithing
 blacksmithings
 blacktop
+bladed
 bladeless
 blamelessnesses
 blameworthiness
@@ -1356,12 +1359,14 @@ catalpa
 catalyses
 catamarans
 catamite
+catapult
 catapulted
 catarrhally
 catchall
 catcher
 catchiest
 catchments
+catchwords
 catchy
 catechise
 catechismal
@@ -1381,6 +1386,7 @@ caused
 causers
 cavorts
 caymans
+caziques
 cedarbird
 ceibas
 celibacies
@@ -1388,6 +1394,7 @@ cellphones
 cellulites
 censer
 censors
+censured
 centaurs
 centenarians
 centenaries
@@ -1815,6 +1822,7 @@ conchologists
 conciliar
 concupiscences
 concurred
+concuss
 condemning
 condolence
 condom
@@ -2228,6 +2236,7 @@ damselflies
 dangers
 dankest
 dans
+daphnias
 darbies
 darbs
 daredeviltries
@@ -2392,6 +2401,7 @@ denatured
 denegations
 denitrating
 densely
+density
 dentalia
 dentalium
 dentiform
@@ -2976,6 +2986,7 @@ endogenies
 endorsable
 endosperms
 endostea
+endothelium
 energetically
 energies
 energized
@@ -2995,6 +3006,7 @@ enjoinder
 enlargements
 enlistments
 ennuye
+enow
 enquires
 enravished
 enriched
@@ -3387,6 +3399,7 @@ firm
 fishermen
 fishhooks
 fitches
+fitchets
 fitters
 fixed
 fizgig
@@ -3756,6 +3769,7 @@ germinability
 gesneriad
 geum
 ghastlinesses
+ghettoes
 ghoulishness
 ghouls
 giantisms
@@ -4158,6 +4172,7 @@ hetairas
 heterodox
 heterodoxies
 heterokaryons
+heterokaryoses
 heterologously
 heterophile
 heteroploid
@@ -4181,6 +4196,7 @@ hideousnesses
 hidings
 hieroglyphical
 hieroglyphics
+highballs
 highflyers
 highlighting
 highting
@@ -4301,6 +4317,7 @@ humouring
 hump
 huntsman
 hurdled
+husking
 hutch
 hyaenic
 hydralazines
@@ -4620,6 +4637,7 @@ intermediated
 intermission
 internationals
 internist
+interocean
 interoceptor
 interparty
 interpermeating
@@ -4835,6 +4853,7 @@ kaffiyahs
 kainits
 kalifate
 kalium
+kalmia
 kanes
 kantar
 kaoliangs
@@ -5162,6 +5181,7 @@ lobworms
 localises
 localising
 localizing
+lockdowns
 lockmaker
 locks
 lockstitches
@@ -5380,6 +5400,7 @@ matchless
 matchmakers
 matchstick
 matchsticks
+maternally
 matey
 matte
 mattings
@@ -6287,6 +6308,7 @@ ostracism
 ostracodes
 other
 otherworld
+ototoxicities
 ottavas
 ouabain
 ouch
@@ -6850,6 +6872,7 @@ pigged
 piggie
 pigheadedly
 pigmies
+pigpens
 pigsney
 pikestaff
 pikestaves
@@ -6897,6 +6920,7 @@ pithy
 pitiable
 pittas
 piu
+pivoted
 placated
 placates
 placatory
@@ -7272,6 +7296,7 @@ propagandas
 propellant
 propending
 propene
+propensities
 prophase
 prophesiers
 prophesy
@@ -8055,6 +8080,7 @@ ruminated
 rummages
 rumored
 runback
+runkled
 runkling
 rupiah
 rupiahs
@@ -8332,6 +8358,7 @@ semioticists
 semipopular
 semiquaver
 semiquavers
+semiraw
 semitrucks
 semiurban
 sempervivum
@@ -8399,6 +8426,7 @@ sharpers
 shat
 shatter
 shaven
+shavings
 sheaflike
 sheeniest
 sheepdog
@@ -8451,6 +8479,7 @@ shortia
 shortie
 shortish
 shorty
+shouted
 shoveling
 showdown
 showed
@@ -8533,6 +8562,7 @@ skellums
 skep
 skeptic
 skeptical
+skeptics
 skerries
 skewbald
 skewed
@@ -8577,6 +8607,7 @@ slaw
 sleeky
 sleepiest
 sleepyheads
+slideway
 slily
 slimly
 slingback
@@ -8776,6 +8807,7 @@ sperrylites
 sphenes
 sphenoidal
 sphered
+spherulites
 sphincter
 sphingids
 sphinx
@@ -9029,6 +9061,7 @@ subas
 subcellular
 subcenters
 subclassify
+subclerk
 subcommunities
 subcomponents
 subconsciouses
@@ -9444,6 +9477,7 @@ thinnish
 thiocyanate
 thirams
 thirteenths
+thirtieths
 thongs
 thornier
 thorning
@@ -10241,6 +10275,7 @@ vituperation
 vivace
 vivaces
 vivaria
+vivisectionists
 vizcacha
 vocalist
 vocalnesses

@@ -1,0 +1,4 @@
+Measure-Mass.ps1 0.2.1.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/Formulaic/0.2.1.0/Content/Measure-Mass.ps1
+Public/System/ConvertTo-Image.ps1 1.201.28.1 - PowerShell Gallery,https://www.powershellgallery.com/packages/XpandPwsh/1.201.28.1/Content/Public%255CSystem%255CConvertTo-Image.ps1
+functions/Get-DbaHelpIndex.ps1 0.9.140 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/dbatools/0.9.140/Content/functions%255CGet-DbaHelpIndex.ps1
+"param ($f) $init_location = Get-Location $VERSION = ""v1.1.7 ...",https://raw.githubusercontent.com/amoreaulemay/batch-image-webp/main/windows/jpeg2webp.ps1
