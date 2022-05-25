@@ -159,6 +159,7 @@ agilenesses
 agiotage
 aglycons
 agnosticisms
+agonic
 agouti
 agrafes
 aid
@@ -270,6 +271,7 @@ amping
 ampoules
 ampuls
 amputates
+amputating
 amritas
 amygdales
 amygdule
@@ -505,6 +507,7 @@ aspen
 asperity
 aspidistras
 assaulting
+assaults
 assegaied
 assenters
 assents
@@ -521,6 +524,7 @@ assuagement
 assumer
 assumption
 astarboard
+asternal
 asthenosphere
 asthenospheres
 astonishments
@@ -1580,6 +1584,7 @@ cockade
 cockamamy
 cocker
 cockered
+cockeyedness
 cockspur
 cockup
 cocoon
@@ -1711,6 +1716,7 @@ comradeships
 concatenate
 concave
 conceives
+conceptional
 conceptualise
 conceptualists
 conceptualized
@@ -1865,6 +1871,7 @@ corroborant
 corruptions
 corsair
 corsetiere
+corsetieres
 corsets
 corslets
 cortexes
@@ -1894,6 +1901,7 @@ counterpart
 counterplay
 counterprotest
 countersigning
+countersue
 countryman
 couples
 couplet
@@ -2009,8 +2017,10 @@ cullay
 cullenders
 cullied
 culpa
+culpablenesses
 culpably
 cult
+cultishly
 cultivator
 cultures
 culvert
@@ -2313,6 +2323,7 @@ desexualize
 desiccated
 desirousnesses
 desmid
+desolators
 despised
 despiting
 destitution
@@ -2441,6 +2452,7 @@ discarder
 discased
 discernable
 disclaimer
+discomfort
 discommends
 disconformity
 discontentedly
@@ -2602,6 +2614,7 @@ drawee
 drawknives
 drawshave
 drays
+dreading
 dreamlands
 dreamlessness
 dreamt
@@ -2959,6 +2972,7 @@ evangelism
 evasively
 even
 evenhanded
+everymen
 eviller
 eviscerates
 evolute
@@ -2984,6 +2998,7 @@ excursiveness
 excused
 execrative
 execrator
+executant
 executioners
 exemplarinesses
 exemplify
@@ -3076,6 +3091,7 @@ fanaticized
 fancify
 fanciless
 fancy
+fangless
 fannies
 fanos
 fantasizes
@@ -3235,6 +3251,7 @@ flensing
 fleshers
 fleshless
 fleshly
+fleshpot
 flights
 flimflammery
 flimsinesses
@@ -4161,6 +4178,7 @@ immunochemistry
 immunology
 impactor
 impainted
+impairer
 impalement
 imparted
 impartialities
@@ -5048,6 +5066,7 @@ manse
 manslaughters
 mantels
 mantes
+manually
 manward
 maraca
 marblers
@@ -5173,6 +5192,7 @@ mephitises
 merbromin
 mercenaries
 mercenarinesses
+mercerising
 mercerization
 merchantmen
 mercurations
@@ -5358,6 +5378,7 @@ mistress
 mistruth
 mistuned
 misty
+misunderstands
 miswording
 mitering
 mitigators
@@ -6314,6 +6335,7 @@ perceptually
 percussing
 percussiveness
 perennated
+perennial
 perfectible
 perfects
 perfumery
@@ -6458,6 +6480,7 @@ picholines
 pick
 pickaback
 pickinesses
+picolin
 picrite
 pictographs
 pictorialism
@@ -6643,6 +6666,7 @@ populism
 pornographies
 port
 portabellas
+portieres
 possessors
 possets
 postbellum
@@ -6687,6 +6711,7 @@ pourable
 pouring
 poussetted
 pouters
+poxing
 practised
 pragmatisms
 prancer
@@ -6819,9 +6844,11 @@ priority
 prismoidal
 prisoners
 pristinely
+privatizing
 privies
 proactions
 probities
+problematics
 proboscis
 procedural
 processed
@@ -7525,6 +7552,7 @@ ringmaster
 riotousness
 ripping
 riskers
+risotto
 ristra
 risus
 ritually
@@ -7578,6 +7606,7 @@ routinely
 rowlocks
 rubaboo
 rubbaboos
+rubbishes
 rubdown
 rubying
 rudderpost
@@ -7890,6 +7919,7 @@ sergeancy
 serger
 seriousnesses
 serosas
+serotine
 serpiginously
 servable
 servitudes
@@ -8460,6 +8490,7 @@ strasses
 stratal
 strategic
 strategizes
+stratocracy
 stratovolcanoes
 straws
 strawworm
@@ -9367,6 +9398,7 @@ undotted
 undoubted
 undramatized
 undressing
+unease
 uneducated
 uneffaced
 unembittered
@@ -9625,6 +9657,7 @@ vermifuges
 vermilioning
 vermuth
 vernissage
+versal
 verso
 vertigoes
 vesiculae
@@ -9700,6 +9733,7 @@ vogie
 voguers
 voicefulness
 volatilizes
+volleyed
 volplane
 voltages
 voltaism
@@ -9904,6 +9938,7 @@ wordsmith
 workaday
 workbenches
 workbox
+workboxes
 worked
 workhorses
 workhouse
