@@ -1,0 +1,2 @@
+wifi/WCNSS_qcom_cfg.ini - device/lge/bullhead - Git at Google,https://android.googlesource.com/device/lge/bullhead/%2B/marshmallow-mr2-release/wifi/WCNSS_qcom_cfg.ini
+WCNSS_qcom_cfg.usb.ini - android Git repositories,https://android.googlesource.com/kernel/msm.git/%2B/android-msm-bullhead-3.10-marshmallow-mr1/drivers/staging/qcacld-2.0/firmware_bin/WCNSS_qcom_cfg.usb.ini
