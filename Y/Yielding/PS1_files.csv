@@ -1,0 +1,5 @@
+Get-ReferencedCommand.ps1 1.5 - PowerShell Gallery,https://www.powershellgallery.com/packages/ShowUI/1.5/Content/Get-ReferencedCommand.ps1
+Invoke-Parallel.ps1 1.9.9.4 - PowerShell Gallery,https://www.powershellgallery.com/packages/Pipeworks/1.9.9.4/Content/Invoke-Parallel.ps1
+powershell-for-developers/Get-ReferencedCommand.ps1 at master,https://github.com/dfinke/powershell-for-developers/blob/master/chapter07/ShowUI/Get-ReferencedCommand.ps1
+ManagingModulesPresentation/PSHSummit.ps1 at master - GitHub,https://github.com/KevinMarquette/ManagingModulesPresentation/blob/master/PSHSummit.ps1
+#Requires -RunAsAdministrator Param( [parameter(Mandatory ...,https://raw.githubusercontent.com/microsoft/SDN/master/Kubernetes/windows/debug/collectlogs.ps1

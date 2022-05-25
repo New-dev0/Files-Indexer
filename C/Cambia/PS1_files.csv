@@ -1,0 +1,4 @@
+build/DeployToTesting.ps1 at master · Agrimobile/build - GitHub,https://github.com/Agrimobile/build/blob/master/DeployToTesting.ps1
+AutoRDPwn/Italian.ps1 at master · JoelGMSec/AutoRDPwn · GitHub,https://github.com/JoelGMSec/AutoRDPwn/blob/master/Resources/Languages/Italian.ps1
+BADUSB COMMANDS: # Execute powershell.exe -windowstyle ...,https://raw.githubusercontent.com/alexfrancow/badusb_botnet/master/poc.ps1
+[Console]::OutputEncoding = [System.Text.Encoding]::GetEncoding ...,https://raw.githubusercontent.com/JoelGMSec/AutoRDPwn/master/Resources/Languages/Italian.ps1
