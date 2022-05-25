@@ -40,6 +40,7 @@ absolves
 absorb
 absorbant
 absterge
+abstinences
 abstracted
 abstracting
 abstractions
@@ -218,6 +219,7 @@ allusion
 alluvium
 almagest
 almemar
+almightinesses
 almoners
 almost
 almsgivings
@@ -321,6 +323,7 @@ anopheles
 anorak
 anorexia
 anorthosites
+antagonist
 antagonistic
 antalkalis
 antediluvian
@@ -1112,6 +1115,7 @@ burly
 burnish
 burthen
 burweed
+bushiness
 bushwhackers
 businesspersons
 bustle
@@ -1464,6 +1468,7 @@ churchlier
 chymist
 cibol
 cimbalom
+cinched
 cinematographic
 cinephiles
 cinnamony
@@ -1476,6 +1481,7 @@ circumvallate
 circumvent
 circumventions
 circumvents
+cistern
 cistuses
 citizeness
 citizenesses
@@ -1577,6 +1583,7 @@ cockered
 cockspur
 cockup
 cocoon
+cocounseling
 cocoyams
 cocultivated
 cocurators
@@ -2070,6 +2077,7 @@ cytologically
 cytology
 cytomegalovirus
 cytons
+cytostatics
 cytotaxonomy
 czarevna
 czaritzas
@@ -2174,6 +2182,7 @@ decrescent
 decryptions
 decrypts
 decupling
+deedy
 deerhounds
 deerskin
 defacements
@@ -2539,6 +2548,7 @@ donnerd
 doodlers
 doody
 doohickeys
+doomsayer
 doomsdayers
 doors
 doorstep
@@ -2685,6 +2695,7 @@ echolalias
 eclipser
 ecocatastrophes
 economizer
+economizers
 ectopic
 ecumenist
 edges
@@ -3492,6 +3503,7 @@ gassinesses
 gastrectomies
 gastrovascular
 gastrulation
+gatefolds
 gaudier
 gauffers
 gauging
@@ -4246,6 +4258,7 @@ industriously
 ineffabilities
 inelasticity
 inelegances
+inenarrable
 inerrable
 inertially
 inexpedience
@@ -4829,6 +4842,7 @@ lines
 lingonberry
 linier
 linoleates
+linoleum
 linsangs
 linter
 lipin
@@ -4988,6 +5002,7 @@ maintaining
 majagua
 majuscular
 making
+malachites
 malacological
 maladministers
 malanga
@@ -5102,6 +5117,7 @@ meal
 mealiness
 measures
 meatier
+meats
 mechanized
 mechanizers
 mechanochemical
@@ -5560,6 +5576,7 @@ nailer
 nailheads
 naiveness
 nances
+nancy
 nanogram
 nanometres
 naphtha
@@ -5659,6 +5676,7 @@ nil
 nimble
 nimming
 ninebarks
+ninny
 ninon
 nip
 nitrification
@@ -6178,6 +6196,7 @@ paradisal
 paradropped
 parainfluenza
 parallelisms
+paralysing
 paralytic
 paramylums
 paranoiac
@@ -6496,6 +6515,7 @@ piteous
 pithy
 pitiable
 pittas
+piu
 placated
 placatory
 placentals
@@ -6745,6 +6765,7 @@ prerinsing
 prescreened
 prescribe
 presentations
+presentments
 presentness
 preshape
 preshapes
@@ -6807,6 +6828,7 @@ processed
 proclamation
 proconsulship
 proctologies
+procure
 prodigy
 productivity
 profanation
@@ -7758,6 +7780,7 @@ screech
 screenfuls
 screenlands
 screwiest
+screwinesses
 scrimpiest
 scrive
 scrives
@@ -8034,8 +8057,10 @@ skewbald
 skewed
 skewing
 ski
+skiddoo
 skidoo
 skids
+skidway
 skiffled
 skilled
 skillet
@@ -8243,6 +8268,7 @@ spatzle
 spavies
 spavin
 speakeasies
+spearmen
 specialising
 specialty
 specifications
@@ -8556,6 +8582,7 @@ subunit
 suburbanising
 subwriter
 succeeds
+successful
 succubi
 suckle
 suctional
@@ -8565,6 +8592,7 @@ sues
 suffocation
 sugarberries
 sugarcane
+sugarlike
 suggesters
 suggestions
 suite
@@ -8627,6 +8655,7 @@ supposed
 supposititious
 suppurate
 supramolecular
+suprarenals
 supremenesses
 suras
 surbased
@@ -8775,6 +8804,7 @@ taskworks
 tassel
 tasteful
 tattle
+tattler
 taunt
 taurine
 tautologies
@@ -9548,6 +9578,7 @@ variousness
 varnishy
 varying
 vasectomized
+vasodilatations
 vasotocin
 vassal
 vastity
@@ -9578,6 +9609,7 @@ venographies
 venoms
 ventilating
 ventilatory
+ventricular
 ventriculus
 ventriloquism
 venules
@@ -9688,6 +9720,7 @@ vox
 vulcanized
 vulgarer
 vulgarised
+vulgarization
 vulgarly
 vulturous
 vulvar
@@ -9736,6 +9769,7 @@ waterdog
 waterinesses
 wattled
 wavelengths
+waveringly
 wavers
 wavies
 waxable
@@ -9992,6 +10026,7 @@ zoophyte
 zoosterol
 zootomic
 zouave
+zwitterion
 zygospores
 zymogens
 zymosans
