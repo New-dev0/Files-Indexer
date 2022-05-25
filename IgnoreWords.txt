@@ -140,6 +140,7 @@ affirmable
 affirmants
 affirmative
 affirmatively
+affixal
 affordable
 affrighted
 affront
@@ -247,6 +248,7 @@ alveolate
 amasser
 amaurotic
 amaze
+ambagious
 ambidexterities
 ambient
 ambroids
@@ -836,6 +838,7 @@ bingers
 binomially
 bioassay
 biodegradations
+biodiversities
 biofoulers
 biogeny
 biogeographies
@@ -1388,6 +1391,7 @@ chador
 chaetae
 chainsaws
 chaired
+chairmanning
 chaleh
 challot
 chalumeaus
@@ -1696,6 +1700,7 @@ colorization
 colorize
 colorizers
 colorless
+colostomies
 colpitises
 colportages
 columbaries
@@ -2435,6 +2440,7 @@ dialogs
 diamins
 diamondbacks
 diamondiferous
+diandrous
 dianthus
 diaphanously
 diaphorases
@@ -3362,6 +3368,7 @@ flopover
 floppers
 floricane
 flouted
+flowed
 flowerers
 flowerful
 flubbed
@@ -3682,6 +3689,7 @@ gingelli
 gingelly
 ginger
 gingkoes
+ginner
 giraffe
 gird
 girders
@@ -3745,6 +3753,7 @@ goddamndest
 godlessly
 godlily
 godmothering
+goglet
 goldenness
 goldeyes
 golfers
@@ -3862,6 +3871,7 @@ guggling
 guiles
 guillemet
 guilt
+guiltless
 guises
 guldens
 gulf
@@ -4042,6 +4052,7 @@ henotheists
 hens
 hented
 henting
+heralded
 herbage
 herbier
 herd
@@ -4402,6 +4413,7 @@ indoles
 indorsees
 indurations
 industrial
+industrialism
 industrially
 industriously
 ineffabilities
@@ -4459,6 +4471,7 @@ innovations
 inoculation
 inoperable
 inosculated
+inpour
 inquirer
 insalubrity
 insatiable
@@ -4473,6 +4486,7 @@ insignificancy
 insincere
 insister
 insisters
+insolating
 insolubility
 insolubles
 inspectors
@@ -5067,6 +5081,7 @@ longe
 longhorns
 longicorns
 longish
+looming
 looninesses
 loopinesses
 looses
@@ -5663,6 +5678,7 @@ mousiest
 moussaka
 mousseline
 moussing
+mouthparts
 mouthwash
 mouthy
 moviola
@@ -5675,6 +5691,7 @@ mudpuppies
 mudrooms
 mudslinger
 mueddin
+muezzin
 muffed
 muffs
 mulched
@@ -5689,6 +5706,7 @@ multielectrode
 multiengine
 multifid
 multigroup
+multijet
 multimember
 multimetallic
 multinomials
@@ -5861,6 +5879,7 @@ nimming
 ninebarks
 ninny
 ninon
+niobiums
 nip
 nitrification
 nitrify
@@ -5875,6 +5894,7 @@ noddies
 nodose
 noh
 nohow
+noisemaking
 noisette
 nomads
 nominalists
@@ -5979,6 +5999,7 @@ nubbly
 nucleal
 nucleoids
 nucleonics
+nucleosomes
 nucleosynthetic
 nuder
 nukes
@@ -6442,6 +6463,7 @@ pastels
 pasteurises
 pasteurizing
 pasticheurs
+pastnesses
 pastor
 pastored
 pastromis
@@ -6578,6 +6600,7 @@ pervert
 pesos
 pestle
 pests
+petaloid
 petechia
 petiteness
 petnaping
@@ -6732,6 +6755,7 @@ pitiable
 pittas
 piu
 placated
+placates
 placatory
 placentals
 placentation
@@ -6911,9 +6935,11 @@ pourable
 pouring
 poussetted
 pouters
+poxes
 poxing
 practised
 pragmatisms
+praisers
 prancer
 prangs
 prattling
@@ -6956,6 +6982,7 @@ preexilic
 preexposes
 prefabbing
 preferrers
+prefix
 preformat
 prefrozen
 prefund
@@ -8150,6 +8177,7 @@ septical
 septicemia
 sequencing
 sequency
+sequitur
 seraphims
 sergeancy
 serger
@@ -8220,6 +8248,7 @@ shipsides
 shipwrecked
 shirting
 shirtmaker
+shitakes
 shitless
 shittims
 shittimwoods
@@ -8272,6 +8301,7 @@ siddurs
 side
 sidelining
 siderolite
+sierras
 sightseeing
 sightsees
 signalers
@@ -8470,6 +8500,7 @@ soddy
 sodomized
 soften
 sogginesses
+soilures
 sokol
 solarium
 soldierships
@@ -8562,6 +8593,7 @@ spermic
 spermicides
 sperrylites
 sphenes
+sphenoidal
 sphered
 sphincter
 sphingids
@@ -8695,6 +8727,7 @@ steeves
 steeving
 stellifying
 stemmer
+stencilling
 stepfathers
 stepmothers
 steppes
@@ -9888,6 +9921,7 @@ varnishy
 varying
 vasectomized
 vasodilatations
+vasodilator
 vasotocin
 vassal
 vastity
@@ -10020,6 +10054,7 @@ voluntaryism
 volunteering
 volunteerisms
 volutes
+volvox
 vomicae
 vomiter
 voodooism
