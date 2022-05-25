@@ -701,6 +701,7 @@ bayberry
 beach
 beachside
 beading
+beakless
 beaning
 beano
 bearberries
@@ -721,6 +722,7 @@ bedridden
 bedrivel
 bedrugged
 bedsonias
+bedwarf
 beekeepings
 beeping
 beeswings
@@ -743,6 +745,7 @@ behowl
 beigy
 bejewel
 belaced
+belay
 beldams
 belfried
 beliquoring
@@ -1229,6 +1232,7 @@ canonizations
 canopic
 canorousness
 canthi
+canvasing
 capacitation
 capacitive
 capacitor
@@ -1326,6 +1330,7 @@ catechizations
 cathedra
 cathepsin
 catholicates
+catholicoses
 catjang
 catlings
 catnapping
@@ -1545,6 +1550,7 @@ clientages
 clients
 cliffier
 clime
+clingy
 clinically
 clipped
 clipper
@@ -1698,6 +1704,7 @@ commodity
 common
 commove
 communality
+communalize
 commune
 communicational
 communicator
@@ -2222,6 +2229,7 @@ decupling
 deedy
 deerhounds
 deerskin
+deerstalker
 defacements
 defacer
 defalcating
@@ -2592,6 +2600,7 @@ doody
 doohickeys
 doomsayer
 doomsdayers
+doormen
 doors
 doorstep
 doorways
@@ -3593,6 +3602,7 @@ genua
 geobotanists
 geologist
 geologize
+geometers
 geometrise
 geophagia
 geophysics
@@ -3786,6 +3796,7 @@ grumps
 grungy
 grunions
 gruntled
+guardedly
 guayule
 guerdons
 guesting
@@ -4053,6 +4064,7 @@ homestretch
 homogenates
 homolog
 homologates
+homologizes
 homonymies
 homophobes
 homophobia
@@ -4223,6 +4235,7 @@ immixture
 immobilize
 immodest
 immodesty
+immolating
 immunoblots
 immunochemistry
 immunology
@@ -4573,6 +4586,7 @@ jemidars
 jeopardised
 jessamine
 jesting
+jests
 jesuitical
 jetbead
 jetlags
@@ -4894,6 +4908,7 @@ lifesaving
 lifesavings
 lifetimes
 lifted
+light
 lightfaced
 lightfaces
 lightfast
@@ -5642,6 +5657,7 @@ myelomatous
 myelopathic
 myopically
 myotonias
+myriopods
 myrmecologist
 mysid
 mysosts
@@ -5844,6 +5860,7 @@ nonrubber
 nonschool
 nonsecretors
 nonsocialist
+nonstarter
 nonsteady
 nontobacco
 nontotalitarian
@@ -6010,6 +6027,7 @@ organza
 orientalist
 orientals
 orienteering
+orienting
 orinasals
 orismology
 ornamentally
@@ -6091,6 +6109,7 @@ outpatients
 outpourer
 outpray
 outpreened
+outpresses
 outpupil
 outrageously
 outranks
@@ -6140,6 +6159,7 @@ overemphasizing
 overencouraged
 overestimated
 overevaluations
+overexpectation
 overexpose
 overextend
 overfill
@@ -6261,6 +6281,7 @@ paludal
 pampa
 panatella
 panetellas
+panically
 panickiest
 paniculate
 panicums
@@ -6391,6 +6412,7 @@ pensil
 penster
 pentacles
 pentagon
+pentamidines
 pentangle
 pentaploids
 pentoses
@@ -6548,6 +6570,7 @@ picaroon
 picholines
 pick
 pickaback
+picketer
 pickinesses
 picolin
 picrite
@@ -6646,6 +6669,7 @@ pleaders
 pleads
 pleasures
 plebs
+pledget
 plena
 plenists
 plentifulness
@@ -6747,6 +6771,7 @@ postcavas
 postdoctoral
 postdoctorate
 posted
+posterities
 posterns
 postgraduation
 posthaste
@@ -7462,6 +7487,7 @@ reprehensibly
 reprehensive
 repress
 repression
+repressive
 repriced
 reprints
 repristination
@@ -7684,6 +7710,7 @@ rouches
 roughcasting
 roundhouse
 roundlet
+roundnesses
 roundsmen
 roundtable
 roundtables
@@ -7862,6 +7889,7 @@ schmoose
 schnauzer
 scholarships
 scholasticates
+scholium
 schoolwork
 schticks
 sciaticas
@@ -8030,6 +8058,7 @@ shadeless
 shadowy
 shads
 shafted
+shagging
 shaitan
 shako
 shammes
@@ -8140,6 +8169,7 @@ silviculturally
 similitudes
 simmers
 simoniacal
+simplisms
 simulant
 simulations
 simultaneity
@@ -8670,11 +8700,13 @@ subgenera
 subgovernment
 subgrade
 subheading
+subheadings
 subheads
 subinfeuds
 subitems
 subjectivised
 subjugator
+sublessee
 sublibrarians
 sublimate
 subliming
@@ -8885,6 +8917,7 @@ tacts
 taels
 tagliatelles
 tailbone
+take
 taker
 takes
 talar
@@ -8959,6 +8992,7 @@ teleology
 teleprocessing
 telethons
 teletype
+teletypewriters
 televise
 television
 televisor
@@ -9075,6 +9109,7 @@ thrumming
 thrusters
 thudding
 thumbholes
+thunderbirds
 thunderstricken
 thunks
 thurls
