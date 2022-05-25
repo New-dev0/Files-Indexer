@@ -310,6 +310,7 @@ anchoring
 ancientries
 androgeneses
 androgynous
+anecdotage
 anele
 anesthetizing
 angel
@@ -1029,6 +1030,7 @@ brackish
 bradycardia
 brail
 brailled
+brainpan
 brainpans
 brakemen
 branchia
@@ -1232,6 +1234,7 @@ canasta
 cancelable
 candidnesses
 candlelighter
+candlestick
 candlesticks
 candlewoods
 caninities
@@ -1373,6 +1376,7 @@ centenarians
 centenaries
 centering
 centesimal
+centesimos
 centimorgans
 centraler
 centrings
@@ -1392,9 +1396,11 @@ chabouk
 chacma
 chador
 chaetae
+chafed
 chainsaws
 chaired
 chairmanning
+chalazae
 chaleh
 challot
 chalumeaus
@@ -1496,6 +1502,7 @@ chopsticks
 chorial
 chorizos
 chorographers
+chortle
 choruses
 chosen
 chowed
@@ -1516,6 +1523,7 @@ chuckler
 chuckwalla
 chuddars
 chumships
+chunkier
 churchianity
 churchlier
 chymist
@@ -1888,6 +1896,7 @@ conveyances
 conveyors
 conviction
 convincingness
+convocation
 convoke
 convulsant
 cooing
@@ -1924,6 +1933,7 @@ cornmeals
 corns
 corollaries
 coronachs
+coronally
 corporals
 corporeally
 corpses
@@ -1966,6 +1976,7 @@ counselings
 counterdemands
 counterordering
 counterpart
+counterplan
 counterplay
 counterprotest
 countersigning
@@ -2071,6 +2082,7 @@ cryobiologist
 cryogenics
 cryostats
 cryotherapies
+cryptal
 cryptanalysis
 cryptococcosis
 cryptozoologies
@@ -2477,6 +2489,7 @@ differentiation
 diffraction
 diffractions
 diffuseness
+diffusionism
 diffusionisms
 diffusivenesses
 diffusor
@@ -2546,6 +2559,7 @@ discos
 discoursed
 discriminant
 disdainfulness
+disease
 disembarrassing
 disenable
 disendowed
@@ -2834,6 +2848,7 @@ egrets
 eicosanoid
 eidos
 eigenmodes
+eightvo
 einkorn
 ejaculates
 ejectors
@@ -2985,6 +3000,7 @@ epigrammatists
 epigynous
 epilating
 epileptically
+epilimnion
 epiloguing
 epimers
 epiphyses
@@ -3545,6 +3561,7 @@ frostiness
 frothy
 frouncing
 frowzily
+froze
 fruiters
 fryable
 frybreads
@@ -3709,6 +3726,7 @@ girders
 glaceing
 glad
 gladiate
+gladsomer
 glairier
 glamorised
 glamorizers
@@ -3983,6 +4001,7 @@ hartebeests
 haruspications
 harvested
 harvesting
+harvestmen
 hassled
 hatboxes
 hatcheling
@@ -5111,6 +5130,8 @@ losses
 lotoses
 louche
 loudliest
+loudspeakers
+loungers
 loungy
 lousewort
 lousier
@@ -5188,6 +5209,7 @@ magnesias
 magnetising
 magnetos
 magot
+maharishis
 maieutic
 mailmen
 mainlands
@@ -5541,6 +5563,7 @@ misoneist
 mispackaging
 misparses
 misparted
+misplans
 misplays
 mispositioning
 misprices
@@ -5609,6 +5632,7 @@ monadnock
 monarchists
 monatomic
 monaxons
+monellins
 monetization
 money
 moneygrubbing
@@ -6181,6 +6205,7 @@ ostentations
 osteoclasts
 osteocyte
 ostomate
+ostracism
 ostracodes
 other
 otherworld
@@ -6644,6 +6669,7 @@ pharmacologist
 phat
 phatter
 phelonia
+phenacite
 phenate
 pheneticist
 phenetoles
@@ -6793,6 +6819,7 @@ planeside
 planetaria
 planetology
 planimetrically
+planishers
 planking
 plankters
 planters
@@ -7263,6 +7290,7 @@ quads
 quaffer
 quailing
 quaker
+qualitatively
 quangos
 quant
 quanting
@@ -7329,6 +7357,7 @@ rafted
 raftered
 rafting
 raggies
+raggy
 raia
 railcar
 railer
@@ -7572,6 +7601,7 @@ reimports
 reinflames
 reinforming
 reinspecting
+reinstates
 reinters
 reinventing
 reinvestment
@@ -7754,6 +7784,7 @@ reunited
 reutilizes
 reutter
 revaccinating
+revalorize
 revarnish
 revarnishing
 revehent
@@ -8960,6 +8991,7 @@ sundowning
 sundrops
 sunket
 sunlands
+sunproof
 superagency
 superambitious
 superathletes
@@ -9416,6 +9448,7 @@ totalisators
 totalism
 totemisms
 toucan
+touch
 touchier
 touchiness
 touchpads
@@ -9650,6 +9683,7 @@ unambiguous
 unamended
 unamused
 unanimous
+unanimously
 unannoyed
 unanswerably
 unappealingly
@@ -9666,6 +9700,7 @@ unbottling
 unbuttons
 uncake
 uncalloused
+uncapped
 uncaptioned
 uncase
 unchain
