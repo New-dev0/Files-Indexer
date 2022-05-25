@@ -1,0 +1,5 @@
+operations-mediawiki-config/tox.ini at master - GitHub,https://github.com/wikimedia/operations-mediawiki-config/blob/master/tox.ini
+operations-deployment-charts/tox.ini at master - GitHub,https://github.com/wikimedia/operations-deployment-charts/blob/master/tox.ini
+mac80211/ti-utils/ini_files/128x/TQS_D_1.7.ini,https://android.googlesource.com/platform/hardware/ti/wlan/%2B/refs/heads/tools_r20/mac80211/ti-utils/ini_files/128x/TQS_D_1.7.ini
+mac80211/ti-utils/ini_files/127x/TQS_D_1.0.ini,https://android.googlesource.com/platform/hardware/ti/wlan/%2B/refs/heads/tools_r20/mac80211/ti-utils/ini_files/127x/TQS_D_1.0.ini
+[PATHS] demoPath= testPath= helpPath=english\scanner07a.chm ...,http://www.civil.ist.utl.pt/~loforte/HP/cd1/media/languages/english.ini
