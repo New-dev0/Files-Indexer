@@ -1,0 +1,3 @@
+ergo-dex-backend/build.ps1 at master · ergolabs/ergo-dex ... - GitHub,https://github.com/ergolabs/ergo-dex-backend/blob/master/build.ps1
+"$installDir = ""$Env:UserProfile\Ergo"" $downloadTo = ""$Env:TEMP ...",https://raw.githubusercontent.com/cristianoliveira/ergo/master/install.ps1
+Public/Update-AccountFiles.ps1 0.2.4.1 - PowerShell Gallery,https://www.powershellgallery.com/packages/OCHAutotaskForm/0.2.4.1/Content/Public%255CUpdate-AccountFiles.ps1
