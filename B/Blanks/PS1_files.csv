@@ -1,0 +1,11 @@
+Classes/Blank.ps1 0.50.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/PSKoans/0.50.0/Content/Classes%255CBlank.ps1
+Examples/ConditionalFormatting/ContainsBlanks.ps1 7.2.2,https://www.powershellgallery.com/packages/ImportExcel/7.2.2/Content/Examples%255CConditionalFormatting%255CContainsBlanks.ps1
+Enums/Chart.ps1 0.5.11 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/PSWriteWord/0.5.11/Content/Enums%255CChart.ps1
+#!/usr/bin/env pwsh # # This script is meant for quick & easy install ...,https://get.mirantis.com/install_1_0_5.ps1
+function Get-GPPPassword { <# .SYNOPSIS Retrieves the plaintext ...,https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/master/Exfiltration/Get-GPPPassword.ps1
+"""Fossies"" - the Fresh Open Source Software Archive",https://fossies.org/windows/misc/terminal-1.13.11431.0.zip/terminal-1.13.11431.0/tools/GenerateAppxFromManifest.ps1
+Azure Security Center Baseline Rules Windows ...,https://pimfiles.blob.core.windows.net/scripts/Set-ASCBP-RegistryPolicy.ps1
+Test ManagementActivityAPI.ps1 - David-Barrett-MS/PowerShell ...,https://github-wiki-see.page/m/David-Barrett-MS/PowerShell-EWS-Scripts/wiki/Test-ManagementActivityAPI.ps1
+powershell_scripts/NetShell-Import-Firewall-Blocklist.ps1 - GitLab,https://gitlab.austinoneil.com/aoneil/sec-toolkit/-/blob/6fd42989794946f67d1fdd7b54f59bd7fc51c669/powershell_scripts/NetShell-Import-Firewall-Blocklist.ps1
+Invoke-Thanos.ps1 · Gitee 极速下载/Thanos-sh - Gitee.com,https://gitee.com/mirrors/Thanos-sh/blob/master/Invoke-Thanos.ps1
+execute.ps1_rancher_NowcoderGit_牛客网,https://git.nowcoder.com/11000160/rancher/blob/2cf1e90b2227cb72dd5d817bb24807f1e004501c/package/windows/execute.ps1
