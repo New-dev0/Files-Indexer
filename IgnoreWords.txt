@@ -125,6 +125,7 @@ adularias
 advanced
 adverbial
 advertent
+advertize
 advises
 aeonic
 aeration
@@ -150,6 +151,7 @@ affront
 aft
 afterclap
 afterlives
+aftermarkets
 afterpains
 aftershaves
 afterwords
@@ -174,6 +176,7 @@ aiglets
 aiolis
 airbrushed
 airchecks
+airliner
 airshows
 airts
 airwomen
@@ -332,6 +335,7 @@ anisotropically
 annalist
 annals
 announcers
+annunciate
 anodized
 anodizing
 anomalously
@@ -734,6 +738,7 @@ beano
 bearberries
 beargrasses
 bearings
+beasts
 beatable
 beatify
 beauteousnesses
@@ -775,6 +780,7 @@ beigy
 bejewel
 belaced
 belay
+beldam
 beldams
 belfried
 beliquoring
@@ -890,6 +896,7 @@ biradial
 biradical
 birdbath
 birdbrain
+birders
 birdfarm
 birdlife
 birefringent
@@ -1334,6 +1341,7 @@ caroches
 caroller
 carolling
 carotidal
+carpentering
 carpetbaggers
 carpooling
 carpools
@@ -1480,6 +1488,7 @@ chatted
 chattered
 chauffeur
 chawer
+cheapskates
 checkbooks
 checkered
 cheeking
@@ -1639,6 +1648,7 @@ cloaked
 cloggers
 clogging
 cloistered
+clone
 clonuses
 closest
 closeted
@@ -1808,6 +1818,7 @@ competing
 competitor
 complacently
 complaint
+complect
 complected
 complement
 complementizer
@@ -2049,6 +2060,7 @@ cowherbs
 cowhide
 cowy
 coxcombry
+coxing
 coziness
 crablike
 crabstick
@@ -2294,6 +2306,7 @@ deasil
 debarked
 debatements
 debating
+debauched
 debeaks
 deboned
 debs
@@ -2366,6 +2379,7 @@ defleaed
 deflecting
 defocus
 defoliate
+defoliation
 deforces
 deforests
 defragged
@@ -2900,6 +2914,7 @@ ectopic
 ecumenicism
 ecumenist
 eczemas
+edentulous
 edges
 edgewise
 edging
@@ -2926,6 +2941,7 @@ egers
 eggars
 eggnog
 eggshells
+ego
 egocentrically
 egrets
 eicosanoid
@@ -3626,6 +3642,8 @@ frauds
 fraulein
 freaks
 freckles
+free
+freebases
 freebee
 freebie
 freeholders
@@ -3971,6 +3989,7 @@ grieving
 griffes
 grift
 grifts
+grilse
 gripsacks
 gristliest
 griths
@@ -4317,6 +4336,7 @@ hoopster
 hoosgow
 hootenanny
 hoovers
+hope
 hopsacking
 horehound
 hornist
@@ -4600,6 +4620,7 @@ inflames
 inflammatory
 inflating
 informality
+informative
 infracting
 infraspecific
 infrequent
@@ -4676,6 +4697,7 @@ interfiles
 interfold
 interindividual
 interiorise
+interjectory
 interlibrary
 interlinear
 interlined
@@ -4832,6 +4854,7 @@ jefe
 jejuneness
 jelly
 jemidars
+jemmy
 jeopardised
 jessamine
 jesting
@@ -5058,6 +5081,7 @@ largo
 larker
 larkinesses
 larkspur
+larkspurs
 larruping
 laryngals
 larynges
@@ -5248,6 +5272,7 @@ logarithmic
 loges
 logged
 logicalities
+logicizing
 logics
 logjam
 lognormality
@@ -5620,6 +5645,7 @@ middlers
 midfielder
 midlines
 midlists
+midlives
 midmost
 midsagittal
 midshipmen
@@ -5828,6 +5854,7 @@ monseigneur
 monstera
 montero
 monthlong
+monticule
 monuments
 moonier
 moonily
@@ -5870,6 +5897,7 @@ mountebankeries
 mounted
 mourns
 mousakas
+mouse
 mousiest
 moussaka
 mousseline
@@ -6361,6 +6389,7 @@ osmolarity
 osmometry
 ossetra
 ossicular
+ossifying
 osteal
 osteitides
 ostentations
@@ -6431,6 +6460,7 @@ outpreened
 outpresses
 outpupil
 outrageously
+outrance
 outranks
 outrated
 outrebounds
@@ -6955,6 +6985,7 @@ pillarless
 pillars
 pillowy
 pilotages
+pinballed
 pinchbug
 pinesaps
 pinfolded
@@ -8607,6 +8638,7 @@ sightseeing
 sightsees
 signalers
 signalize
+signalment
 significance
 significant
 signifies
@@ -8807,6 +8839,7 @@ soften
 sogginesses
 soilures
 sokol
+solanins
 solarium
 soldierships
 solecise
@@ -10439,6 +10472,7 @@ walkways
 wallopings
 wallpaper
 walrus
+waltzer
 wamuses
 wandering
 wangans
@@ -10468,6 +10502,7 @@ wavelengths
 waveringly
 wavers
 wavies
+wawl
 waxable
 waxwings
 wayfarings
