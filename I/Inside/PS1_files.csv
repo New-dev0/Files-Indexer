@@ -1,0 +1,9 @@
+Functions/It.ps1 3.2.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/Pester/3.2.0/Content/Functions%255CIt.ps1
+functions/New-DBOPackage.ps1 0.5.8 - PowerShell Gallery,https://www.powershellgallery.com/packages/dbops/0.5.8/Content/functions%255CNew-DBOPackage.ps1
+Configs/profile.ps1 at master · Code-Inside/Configs - GitHub,https://github.com/Code-Inside/Configs/blob/master/profile.ps1
+functions/get-d365lcsdatabasebackups.ps1 0.6.50 - PowerShell ...,https://168.61.186.235/packages/d365fo.tools/0.6.50/Content/functions%255Cget-d365lcsdatabasebackups.ps1
+functions/add-d365lcsenvironment.ps1 0.6.26 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/d365fo.tools/0.6.26/Content/functions%255Cadd-d365lcsenvironment.ps1
+birds/docker.ps1 · master · sase / lecture / lecture-challenges ...,https://extgit.iaik.tugraz.at/sase/lecture/lecture-challenges-upstream/-/blob/master/birds/docker.ps1
+function Invoke-MalDoc { <# .SYNOPSIS A module to ...,https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1204.002/src/Invoke-MalDoc.ps1
+Param ( [Parameter(ParameterSetName='ContainerNative')] [Switch ...,https://raw.githubusercontent.com/Microsoft/Virtualization-Documentation/master/windows-container-samples/nodejs/HybridInstaller.ps1
+Public/PermissionsAPI.ps1 1.9.0.0 - PowerShell Gallery,https://40.87.85.101/packages/DatabricksPS/1.9.0.0/Content/Public%255CPermissionsAPI.ps1

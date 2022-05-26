@@ -1,0 +1,8 @@
+(ns exercises-test (:use clojure.test exercises)) (deftest test-collatz (is ...,https://www.cis.upenn.edu/~matuszek/cis554-2012/Assignments/clojure-01-exercises.tests.txt
+monkeylib-test-framework/notes.txt at master · gigamonkey ... - GitHub,https://github.com/gigamonkey/monkeylib-test-framework/blob/master/notes.txt
+vim-config/completions-clojure.test.txt at master · micha/vim-config ...,https://github.com/micha/vim-config/blob/master/.vim/ftplugin/clojure/completions-clojure.test.txt
+From 4a6eabf615d6b82d4dc570afe801833dd03295ff Mon Sep 17 ...,https://lists.gnu.org/archive/html/emacs-devel/2021-01/txt4lTkQZi8tu.txt
+Tests/ModuleDefinition/CMakeLists.txt · master · Basil Fierz / CMake,https://gitlab.kitware.com/bfierz/cmake/-/blob/master/Tests/ModuleDefinition/CMakeLists.txt
+.vim/bundle/clojure.vim/ftplugin/clojure/completions-clojure.test.txt ...,https://gitlab.onlime.ch/paladisco/dotfiles/-/blob/master/.vim/bundle/clojure.vim/ftplugin/clojure/completions-clojure.test.txt
+diff --git a/src/jvm/clojure/lang/Compiler.java b/src/jvm/clojure/lang ...,https://archive.clojure.org/design-wiki/download/attachments/5242904/metadata-patch1.txt
+string1.py,http://blog.csit.org.il/UpLoad/FilesUpload/string1.txt

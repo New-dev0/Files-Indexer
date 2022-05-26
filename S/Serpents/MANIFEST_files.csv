@@ -1,0 +1,1 @@
+acl core2_32 2.2.52 acl-dbg core2_32 2.2.52 acl-dev core2_32 2.2 ...,https://165.227.188.234/yocto/yocto/yocto-2.7/toolchain/i686/poky-glibc-i686-core-image-sato-core2-32-genericx86-toolchain-2.7.target.manifest
