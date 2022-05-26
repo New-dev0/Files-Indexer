@@ -1,0 +1,3 @@
+kubuntu-18.04.5-desktop-i386.manifest - Ubuntu CDimage,http://cdimage.ubuntu.com/kubuntu/releases/18.04/release/kubuntu-18.04.5-desktop-i386.manifest
+focal-desktop-amd64.manifest - Ubuntu CDimage,https://cdimage.ubuntu.com/kubuntu/focal/daily-live/current/focal-desktop-amd64.manifest
+accountsservice 22.07.5-2ubuntu1 acl 2.3.1-1 adduser 3.118 ...,https://ftp-stud.hs-esslingen.de/Mirrors/cdimage.ubuntu.com/kubuntu/daily-live/20220514/kinetic-desktop-amd64.manifest

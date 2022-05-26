@@ -401,6 +401,7 @@ antisleep
 antismut
 antisnob
 antisocialists
+antistory
 antitax
 antitrade
 antitragi
@@ -498,6 +499,7 @@ aroids
 aromas
 aromatizations
 aroused
+arpeggios
 arpen
 arranges
 arrayals
@@ -1177,6 +1179,7 @@ bullheaded
 bulwark
 bumelia
 bumfuzzles
+bumkin
 bumpkinly
 bumptiousnesses
 buncoing
@@ -1407,6 +1410,7 @@ catjang
 catlings
 catnapping
 cats
+caucuses
 cauld
 cauliflowerets
 causalgia
@@ -1454,6 +1458,7 @@ chainsaws
 chaired
 chairmanning
 chalazae
+chalcocite
 chaleh
 challot
 chalumeaus
@@ -1746,6 +1751,7 @@ coin
 coinferred
 coins
 coir
+cojoins
 cojones
 col
 coldcocks
@@ -1783,6 +1789,7 @@ comaking
 comal
 comanaged
 combativenesses
+combatting
 combes
 combineds
 comblike
@@ -2137,6 +2144,7 @@ crosstrees
 crotchet
 crowd
 crowdy
+crowfoot
 crows
 cruciform
 crumby
@@ -2397,6 +2405,7 @@ defuzed
 degami
 degasser
 degassers
+degums
 dehisce
 dehorned
 deifier
@@ -2500,6 +2509,7 @@ desiccated
 desirousnesses
 desmid
 desolators
+desperateness
 despised
 despiting
 destitution
@@ -2853,6 +2863,7 @@ drumroll
 drupelets
 druses
 dubiousness
+ducting
 dudgeons
 duennaships
 duet
@@ -3203,6 +3214,7 @@ eutaxy
 euthanize
 eutherian
 eutrophy
+evacuator
 evangelism
 evasively
 even
@@ -3540,6 +3552,8 @@ fluorometries
 flurries
 flurry
 flushable
+flutterboard
+fluviatile
 fluxional
 fluyts
 flyaways
@@ -4598,6 +4612,8 @@ indigotin
 indiscretions
 indispose
 indistinctness
+individualised
+individualism
 individualizes
 individuations
 indoles
@@ -4736,6 +4752,7 @@ intertwine
 intertwines
 interurban
 interval
+intervals
 intervene
 interwork
 interworkings
@@ -4956,6 +4973,7 @@ karyology
 karyotins
 kasbahs
 katcinas
+katydid
 kauris
 kebab
 kebbucks
@@ -5068,6 +5086,7 @@ laddish
 ladybird
 ladykins
 lag
+lagging
 lairdships
 laitances
 lakier
@@ -6932,6 +6951,7 @@ phosphatase
 phosphatization
 phosphatizes
 phosphatizing
+phosphene
 phosphids
 phospholipase
 phosphoresce
@@ -7083,6 +7103,7 @@ playpens
 playwrightings
 pleaders
 pleads
+pleasantest
 pleasures
 plebs
 pledget
@@ -7922,6 +7943,7 @@ remaking
 remanning
 remap
 remarkable
+remarketing
 rematches
 remember
 rememberable
@@ -7951,6 +7973,7 @@ repairability
 repand
 repaneled
 repapers
+repasses
 repasting
 repatriate
 repaving
@@ -8672,6 +8695,7 @@ significance
 significant
 signifies
 silage
+silences
 silhouetting
 silicification
 silicifying
@@ -8762,6 +8786,7 @@ slaw
 sleeky
 sleepiest
 sleepyheads
+slenderizes
 slideway
 slily
 slimly
@@ -8945,6 +8970,8 @@ spearmen
 specialising
 specialty
 specifications
+spectacles
+spectator
 spectinomycin
 spectrographic
 spectroscopes
@@ -9136,6 +9163,7 @@ stomas
 stomodaea
 stomodaeums
 stones
+stoopballs
 stoper
 stopoff
 stoppered
@@ -9459,6 +9487,7 @@ tack
 tackers
 tackets
 tackling
+tacks
 tacnode
 taconite
 tact
@@ -9577,6 +9606,7 @@ tentorium
 tenuity
 tenuousnesses
 tephra
+tephrite
 tephrites
 tepoy
 teratologist
@@ -9595,6 +9625,7 @@ testees
 testing
 testudines
 tetherballs
+tetracycline
 tetradic
 tetrahedrally
 tetrarchic
@@ -9679,6 +9710,7 @@ thymiest
 thymol
 thyratrons
 thyroiditises
+thyroids
 tiara
 tiaras
 tibiae
@@ -9805,6 +9837,7 @@ tradable
 tradeable
 tradecraft
 traditional
+trafficker
 trafficking
 trailerings
 trainee
@@ -9833,6 +9866,7 @@ transmittances
 transplantable
 transshipment
 transude
+transvalue
 trapeze
 trapnesting
 trapped
@@ -10541,6 +10575,7 @@ wawl
 waxable
 waxwings
 wayfarings
+waywardnesses
 wazoos
 wealds
 weasands
