@@ -114,6 +114,7 @@ adhesive
 adhesiveness
 adjectively
 adjournments
+adjunct
 adjutants
 admeasuring
 administrants
@@ -695,6 +696,7 @@ backset
 backsets
 backslapper
 backspace
+backstage
 backstitches
 backwardnesses
 backwashes
@@ -1197,6 +1199,7 @@ bromizes
 bronchiectases
 broncobuster
 bronzings
+brooders
 broodily
 brooding
 brooklet
@@ -1259,6 +1262,7 @@ burbling
 burbly
 burgeons
 burglarized
+burial
 burlesks
 burlesque
 burlesquer
@@ -1300,6 +1304,7 @@ cachepots
 cacklers
 cacodemons
 cacomixls
+cadaverines
 caddisworms
 cadenzas
 cadis
@@ -1312,6 +1317,7 @@ calcinations
 calcinosis
 calctufa
 calculable
+calculate
 calendered
 calflike
 calicos
@@ -1391,6 +1397,7 @@ caracaras
 caracolling
 caravanning
 carbamino
+carbineers
 carbohydrate
 carbora
 carboxyls
@@ -1417,6 +1424,7 @@ caricaturist
 carioca
 carking
 carlines
+carloads
 carnassial
 caroches
 caroller
@@ -2024,6 +2032,7 @@ conjectures
 conjoiner
 conk
 connectedly
+conniving
 connubialisms
 connubiality
 conquered
@@ -2292,11 +2301,13 @@ cryostats
 cryotherapies
 cryptal
 cryptanalysis
+cryptococci
 cryptococcosis
 cryptozoologies
 crystallization
 crystalloid
 cuatros
+cubicities
 cue
 cuing
 cuishes
@@ -2595,6 +2606,7 @@ denars
 denatured
 denegations
 denitrating
+denouement
 densely
 density
 dentalia
@@ -3922,6 +3934,7 @@ frowzily
 froze
 frugs
 fruiters
+fruitfuller
 fryable
 frybreads
 fubs
@@ -4749,6 +4762,7 @@ ileac
 ilex
 ilia
 illegalities
+illiberalness
 illimitably
 illuminati
 illuminative
@@ -4930,6 +4944,7 @@ inhalers
 inharmony
 inheritresses
 inhibins
+inhibiters
 inhomogeneity
 inhuman
 inhumanities
@@ -4985,6 +5000,7 @@ integrating
 intend
 intenerations
 intense
+intensivenesses
 interacted
 interarch
 intercalations
@@ -5351,6 +5367,7 @@ kolbasis
 kolkhoznik
 kolkhozniks
 kombus
+komondorock
 kookinesses
 kopjes
 koppie
@@ -5520,6 +5537,7 @@ libretti
 licensures
 lichenin
 lichening
+liches
 licit
 lickerishness
 lickspittles
@@ -5891,6 +5909,7 @@ medulla
 medusa
 meekly
 meetness
+megadose
 megadynes
 megalomanias
 megalomanic
@@ -6067,6 +6086,7 @@ misallots
 misallotting
 misalters
 misanalysis
+misassumption
 misbegin
 misbehaviors
 misbiasses
@@ -6450,6 +6470,7 @@ nephrites
 nescients
 nestle
 nestler
+nestlike
 netlike
 nettable
 nettled
@@ -6461,6 +6482,7 @@ neurobiologist
 neurochemical
 neurologies
 neurophysiology
+neurosis
 neutrons
 nevi
 nevus
@@ -6494,6 +6516,7 @@ nightshade
 nightspots
 nighttime
 nighty
+nihilists
 nil
 nilgai
 nimble
@@ -6645,6 +6668,7 @@ nuptialities
 nurling
 nutmeg
 nutritives
+obdurateness
 obeah
 obeli
 obelisms
@@ -7058,6 +7082,7 @@ paleae
 paleobiologists
 paleoecologic
 paleographer
+paler
 palfrey
 pallets
 palling
@@ -8415,6 +8440,7 @@ remissible
 remission
 remittor
 remonstrate
+remonstrator
 remote
 remotivates
 removeable
@@ -9095,6 +9121,7 @@ shammosim
 shanghaiers
 shards
 shareabilities
+sharias
 sharifs
 sharpers
 shat
@@ -9115,6 +9142,7 @@ shellbarks
 shellers
 shellfishery
 shellier
+sheltas
 shelty
 shepherdesses
 shereef
@@ -10527,6 +10555,7 @@ trouper
 trouveres
 trucker
 truckers
+truckmasters
 truculencies
 truculently
 truism
@@ -10546,6 +10575,7 @@ tubulates
 tubule
 tucket
 tugger
+tularemias
 tullibees
 tumescence
 tumorlike
@@ -10569,6 +10599,7 @@ turnbuckles
 turncoat
 turners
 turnips
+turnoffs
 turnons
 turquoises
 tussehs
@@ -10576,6 +10607,7 @@ tussis
 tussocks
 tutorage
 tutored
+tutties
 tutting
 tutus
 tweezing
@@ -10833,6 +10865,7 @@ unredeemable
 unremarkably
 unrepressed
 unresponsive
+unrevised
 unrighteously
 unrip
 unripped
@@ -10980,6 +11013,7 @@ vaw
 vealy
 veejay
 veering
+vegetal
 vegetarians
 vegetative
 veggie
@@ -11178,6 +11212,7 @@ wastrie
 watchable
 waterdog
 waterinesses
+waterlogs
 waterski
 waterweed
 wattled
