@@ -1,0 +1,6 @@
+functions/Get-DbaNetworkCertificate.ps1 0.9.18 - PowerShell Gallery,https://www.powershellgallery.com/packages/dbatools/0.9.18/Content/functions%255CGet-DbaNetworkCertificate.ps1
+functions/Get-DbaRegistryRoot.ps1 0.9.802 - PowerShell Gallery,https://www.powershellgallery.com/packages/dbatools/0.9.802/Content/functions%255CGet-DbaRegistryRoot.ps1
+dbatools/Enable-DbaForceNetworkEncryption.ps1 at development,https://github.com/sqlcollaborative/dbatools/blob/development/functions/Enable-DbaForceNetworkEncryption.ps1
+powershell/seinfeldtrivia.ps1 at master - GitHub,https://github.com/cwtopel/powershell/blob/master/FVTC/seinfeldtrivia.ps1
+functions/Get-DbaForceNetworkEncryption.ps1 0.9.503,https://psg-prod-centralus.cloudapp.net/packages/dbatools/0.9.503/Content/functions%255CGet-DbaForceNetworkEncryption.ps1
+functions/Remove-DbaNetworkCertificate.ps1 1.1.76 - PowerShell ...,https://psg-prod-centralus.cloudapp.net/packages/dbatools/1.1.76/Content/functions%255CRemove-DbaNetworkCertificate.ps1
