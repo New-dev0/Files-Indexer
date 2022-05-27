@@ -1,0 +1,4 @@
+Private/Get-ManagedCredential.ps1 9.1 - PowerShell Gallery,https://www.powershellgallery.com/packages/Office365.Connect/9.1/Content/Private%255CGet-ManagedCredential.ps1
+Misc-PowerShell/Invoke-WdigestDowngrade.ps1 at master - GitHub,https://github.com/HarmJ0y/Misc-PowerShell/blob/master/Invoke-WdigestDowngrade.ps1
+PowerShell/Demo-ScheduledJob.ps1 at master - GitHub,https://github.com/kevintfrench/PowerShell/blob/master/Demo-ScheduledJob.ps1
+function Invoke-LockWorkStation { # region define P/Invoke types ...,https://raw.githubusercontent.com/HarmJ0y/Misc-PowerShell/master/Invoke-WdigestDowngrade.ps1
