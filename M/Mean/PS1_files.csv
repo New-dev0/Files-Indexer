@@ -1,0 +1,4 @@
+PSClasses/AggregatorClassMean.ps1 0.7.1 - PowerShell Gallery,https://www.powershellgallery.com/packages/PowerShellPivot/0.7.1/Content/PSClasses%255CAggregatorClassMean.ps1
+mean-crud/semver.ps1 at master · gerges12/mean-crud · GitHub,https://github.com/gerges12/mean-crud/blob/master/backend/node_modules/.bin/semver.ps1
+k-means-parallel/disp_system_thread_count-win64.ps1 at master,https://github.com/AndreasKaratzas/k-means-parallel/blob/master/disp_system_thread_count-win64.ps1
+#Requires -RunAsAdministrator function Test-Administrator { $user ...,https://raw.githubusercontent.com/google/assetMG/master/scripts/setup_windows.ps1
