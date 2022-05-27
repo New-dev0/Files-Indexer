@@ -153,6 +153,7 @@ affirmative
 affirmatively
 affixal
 affordable
+afforests
 affraying
 affrighted
 affront
@@ -584,6 +585,7 @@ aspidistras
 assaulting
 assaults
 assegaied
+assemblages
 assented
 assenters
 assents
@@ -667,6 +669,7 @@ autoradiogram
 avellane
 avenger
 averse
+averseness
 avgases
 aviate
 aviates
@@ -706,6 +709,7 @@ backhanders
 backhauls
 backlight
 backloads
+backmost
 backouts
 backrushes
 backset
@@ -787,6 +791,7 @@ bathmats
 bathroom
 bathymetry
 batiks
+batrachians
 batteau
 batteaux
 battener
@@ -1432,6 +1437,7 @@ carburizing
 carcases
 carcinogenic
 cardboards
+cardia
 cardings
 cardiogenic
 cardiographs
@@ -1448,6 +1454,7 @@ caribou
 caricatured
 caricatures
 caricaturist
+carillonneur
 carioca
 carking
 carlines
@@ -2195,6 +2202,7 @@ corpulently
 corpus
 corpuscle
 corrades
+corral
 correctable
 corrector
 correspondence
@@ -2307,6 +2315,7 @@ criminologies
 crimson
 crimsoned
 cringle
+cringles
 crinites
 cripe
 crisp
@@ -2684,6 +2693,7 @@ depilators
 deplore
 deplorer
 deployers
+deployments
 depolarization
 depoliticize
 depolymerizing
@@ -2716,6 +2726,7 @@ desensitized
 deserter
 deservings
 desexualize
+desexualizes
 desiccated
 desirousnesses
 desmid
@@ -4158,6 +4169,7 @@ gentler
 genua
 geobotanists
 geodesies
+geologic
 geologist
 geologize
 geometers
@@ -4218,6 +4230,7 @@ glasswork
 glaucous
 gleesome
 glibber
+glibness
 glint
 glintiest
 gloater
@@ -4288,6 +4301,7 @@ gracefullest
 graded
 graduations
 graffiting
+gram
 gramercies
 gramma
 grammatically
@@ -4775,6 +4789,7 @@ humouring
 hump
 huntsman
 hurdled
+hushing
 husking
 hutch
 hyaenic
@@ -4819,6 +4834,7 @@ hyperploids
 hyperpneic
 hyperpolarized
 hyperpolarizing
+hypersthene
 hyphenates
 hypnoses
 hypochondriacal
@@ -4904,6 +4920,7 @@ impartialities
 impasted
 impawned
 impeach
+impeccant
 impecuniosities
 impedes
 imperfection
@@ -5192,6 +5209,7 @@ invected
 inveighing
 invention
 inventivenesses
+inverity
 inversed
 invertase
 invertor
@@ -5221,10 +5239,12 @@ irradiate
 irrational
 irrationalistic
 irrecoverable
+irredeemably
 irreducibility
 irrefragably
 irreligionist
 irreligions
+irresolutely
 irresoluteness
 irrigation
 irritative
@@ -6055,6 +6075,7 @@ megs
 melancholiacs
 melanian
 melanoses
+melanous
 melilots
 meliorating
 melodramatizes
@@ -6193,6 +6214,7 @@ millennium
 millicuries
 millihenry
 milline
+millionths
 milliseconds
 millrace
 millwright
@@ -6274,6 +6296,7 @@ misparses
 misparted
 misplans
 misplays
+mispoising
 mispositioning
 misprices
 misprograms
@@ -6338,6 +6361,7 @@ molluscicidal
 mollycoddles
 molybdenum
 mom
+momentarily
 momently
 momentum
 momus
@@ -6861,6 +6885,7 @@ octanols
 octapeptide
 octillions
 oculars
+odahs
 oddball
 odic
 odious
@@ -7042,6 +7067,7 @@ outlaid
 outlaughing
 outline
 outliving
+outloves
 outmastering
 outmuscle
 outpace
@@ -7918,6 +7944,7 @@ predictably
 prednisolones
 predominating
 preelect
+preemergent
 preener
 preexempts
 preexilic
@@ -8505,6 +8532,7 @@ reestablishment
 reeving
 reexecuted
 reexplains
+reexport
 reexported
 reexpose
 ref
@@ -9889,6 +9917,7 @@ stavudines
 steadings
 stealing
 steamboats
+steamed
 steatopygia
 steelie
 steelinesses
@@ -10719,6 +10748,7 @@ trendoid
 trendsetting
 trephines
 trevallies
+triangulation
 triazin
 tribades
 tribes
@@ -10786,6 +10816,7 @@ truckmasters
 truculencies
 truculently
 truism
+truncating
 truncations
 trustinesses
 truthfully
@@ -10986,6 +11017,7 @@ undertrick
 underused
 underwool
 underworks
+underwriters
 undisciplined
 undissociated
 undivided
@@ -11109,6 +11141,7 @@ unround
 unruliest
 uns
 unsaintly
+unsalable
 unsaturates
 unscrews
 unsearchably
@@ -11263,6 +11296,7 @@ velites
 vellicates
 velum
 velverets
+veneered
 veneers
 venenes
 venge
@@ -11287,6 +11321,7 @@ veridicalities
 verily
 veritablenesses
 vermeil
+vermiculate
 vermifuges
 vermilioning
 vermuth

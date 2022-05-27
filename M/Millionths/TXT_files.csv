@@ -1,0 +1,10 @@
+NAUTEL-NV-MIB DEFINITIONS ::= BEGIN IMPORTS MODULE ...,http://www3.nautel.com/pub/SNMP_MIBs/NAUTEL-NV4.1-MIB.txt
+text file - Solar Cycle Science Discover the Sun!,http://solarcyclescience.com/AR_Database/format.txt
+<DOCUMENT> <TYPE>EX-4.5 <SEQUENCE>6 <FILENAME>ex4-5 ...,https://www.sec.gov/Archives/edgar/data/42293/000095014900001502/ex4-5.txt
+"BEGIN PRIVACY-ENHANCED MESSAGE----- Proc-Type: 2001,MIC ...",https://www.sec.gov/Archives/edgar/data/806085/0000806085-94-000008.txt
+format.txt,https://solarscience.msfc.nasa.gov/greenwch/format.txt
+Intro ...,http://people.ucalgary.ca/~rjacobso/W_PAPERS/autocarto05/notes_for_talk.txt
+SunspotAreaMetadata.txt,ftp://ftp.ngdc.noaa.gov/STP/SOLAR_DATA/SUNSPOT_REGIONS/USAF_MWL/docs/SunspotAreaMetadata.txt
+SFO K-line Facular Data The K-line data presented here were ...,ftp://ftp.ngdc.noaa.gov/STP/SOLAR_DATA/SOLAR_CALCIUM/DATA/SFO_Facular/sfo_facular.txt
+csgd.txt,http://rwcc.bao.ac.cn:8001/share/csgd/note/csgd.txt
+EXHIBIT (4)(xv) FLOATING RATE GLOBAL MEDIUM-TERM NOTE ...,https://investor.bankofamerica.com/regulatory-and-other-filings/all-sec-filings/content/0000950130-95-000571/EX-4_15.txt
