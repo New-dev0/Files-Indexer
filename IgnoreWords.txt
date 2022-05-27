@@ -101,6 +101,7 @@ acutances
 acutes
 acylate
 ad
+adaptation
 adaptations
 adapters
 adaptivity
@@ -178,6 +179,7 @@ agrafes
 agraphia
 aid
 aiglets
+ain
 aiolis
 airbrushed
 airchecks
@@ -471,6 +473,7 @@ appropriations
 approximate
 approximation
 apropos
+apsides
 aptest
 aptitudinal
 aquacultural
@@ -537,6 +540,7 @@ arvo
 asbestosis
 ascariasis
 ascarides
+ascenders
 ascent
 asceticisms
 ascomycete
@@ -585,6 +589,7 @@ asyndetons
 ataghans
 atenolol
 atherogenic
+atomizations
 atomized
 atonally
 atoned
@@ -622,6 +627,7 @@ autarchical
 autarkies
 autarkist
 autistics
+autists
 autoantibodies
 autobahns
 autoerotic
@@ -831,6 +837,7 @@ benefited
 bennets
 benny
 bens
+bepainting
 berberines
 berberis
 bereavers
@@ -890,6 +897,7 @@ biliary
 bilker
 billets
 billies
+billionaires
 billons
 bilobed
 bimbette
@@ -923,6 +931,7 @@ biospheric
 biosynthesis
 biotechnologies
 biotechnologist
+biphasic
 bipinnately
 bipolarizes
 biradial
@@ -1027,6 +1036,7 @@ boinked
 boisterously
 bolas
 boldly
+boldness
 bolivar
 bolivars
 bolivianos
@@ -1074,6 +1084,7 @@ bothriums
 bottomlands
 botulinal
 boubou
+boudoirs
 boughless
 bouldering
 bouldery
@@ -1664,6 +1675,7 @@ citolas
 citrons
 civets
 civic
+civie
 civil
 civilisation
 civilities
@@ -1686,6 +1698,7 @@ clashes
 classable
 classico
 classiest
+classists
 claymore
 cleaning
 cleanly
@@ -1750,6 +1763,7 @@ coaxed
 cobber
 cobbles
 cobblestones
+cobby
 cobnuts
 cocaptains
 cocarboxylase
@@ -1797,6 +1811,7 @@ coherences
 coherencies
 cohesiveness
 coho
+cohosh
 cohosting
 coif
 coiffeuses
@@ -1825,6 +1840,7 @@ collegial
 collegiality
 collide
 collodion
+colloquials
 colluviums
 colobus
 cologarithm
@@ -2003,6 +2019,7 @@ containerless
 contemplators
 contemptibility
 contends
+contentednesses
 conterminously
 contes
 contextures
@@ -2184,6 +2201,7 @@ crests
 crevice
 cribs
 criminis
+criminologies
 crimson
 crimsoned
 cringle
@@ -2812,6 +2830,7 @@ disturbingly
 disulfates
 disulfide
 disuses
+dit
 divebombing
 diversifies
 diverting
@@ -2935,6 +2954,7 @@ drizzliest
 droid
 drolling
 drones
+droppings
 dropsonde
 drossiest
 drouthiest
@@ -2950,6 +2970,7 @@ drumroll
 drupelets
 druses
 dubiousness
+ductile
 ducting
 dudgeons
 duennaships
@@ -2983,6 +3004,7 @@ dwindling
 dwines
 dwining
 dybbukim
+dyer
 dykes
 dynamotors
 dynatron
@@ -3113,6 +3135,7 @@ embraceor
 embraceries
 embrangling
 embruted
+eme
 emeerate
 emendators
 emigrations
@@ -3178,6 +3201,7 @@ enquires
 enravished
 enriched
 enrichments
+enrollees
 enroots
 ensanguines
 enscrolling
@@ -3311,6 +3335,7 @@ eudiometers
 eupatridae
 euphonies
 euphuistically
+eustasy
 eustele
 eutaxy
 euthanize
@@ -3490,6 +3515,7 @@ fava
 favorites
 favors
 fawns
+fayalite
 feasters
 featherbrain
 featherheaded
@@ -3653,6 +3679,7 @@ flubbed
 flubber
 fluffer
 fluidity
+fluking
 flummeries
 flung
 fluoresce
@@ -3711,6 +3738,7 @@ footstall
 footworks
 fopped
 foppishly
+forbearing
 forcemeats
 fording
 forebears
@@ -3961,6 +3989,7 @@ generousnesses
 genetical
 genitals
 gentlemen
+gentler
 genua
 geobotanists
 geologist
@@ -3974,6 +4003,7 @@ georgette
 georgettes
 germander
 germinability
+gerontologists
 gesneriad
 gestating
 geum
@@ -4017,6 +4047,7 @@ glassmaking
 glasspapered
 glasspapers
 glasswork
+glaucous
 gleesome
 glibber
 glint
@@ -4099,6 +4130,7 @@ grandpapa
 grandparenthood
 grandparents
 grandson
+grangerisms
 granita
 granters
 granulates
@@ -4167,6 +4199,7 @@ groyne
 grudging
 gruel
 gruelling
+gruels
 grues
 gruesomeness
 gruesomest
@@ -4231,6 +4264,7 @@ hadj
 hadjee
 hadji
 hadron
+haecceity
 haematin
 haems
 haft
@@ -4363,6 +4397,7 @@ helots
 helpmates
 hemacytometers
 hematics
+hematoxylins
 hemerythrins
 hemicellulose
 hemitrope
@@ -4593,6 +4628,7 @@ hyperpolarized
 hyperpolarizing
 hyphenates
 hypnoses
+hypochondriacal
 hypoderma
 hypodermically
 hypoing
@@ -4638,6 +4674,7 @@ illuminati
 illuminative
 illuminator
 illumines
+illuminism
 illusionism
 illusionisms
 illusory
@@ -4689,6 +4726,7 @@ impossibility
 impoverishing
 imprecating
 imprecation
+impreciseness
 impregnableness
 impregnated
 impregnators
@@ -4801,6 +4839,7 @@ informative
 infracting
 infraspecific
 infrequent
+infringed
 infringement
 ingenuousnesses
 ingrafting
@@ -4896,12 +4935,14 @@ interoceptor
 interparty
 interpermeating
 interpleaded
+interpolating
 interpupillary
 interrelating
 interrenal
 interrogatees
 interrogating
 interrupted
+intersex
 intersexual
 interstitially
 intertwine
@@ -4934,6 +4975,7 @@ intrusively
 intubate
 intuitionist
 intumesces
+inundates
 inurement
 inurnments
 invalided
@@ -5073,6 +5115,7 @@ jiveass
 jobholder
 jobname
 jockette
+jocund
 joinings
 jointresses
 jojoba
@@ -5140,6 +5183,7 @@ katydid
 kauris
 kebab
 kebbucks
+keckles
 kecks
 keel
 keelboat
@@ -5206,6 +5250,7 @@ klicks
 kludgiest
 knacks
 knavishly
+kneeing
 knelling
 knifer
 knightlinesses
@@ -5243,6 +5288,7 @@ laboriously
 labradors
 labrusca
 labyrinthine
+lacewings
 lacily
 lacked
 lacqueyed
@@ -5313,6 +5359,7 @@ lazars
 leaches
 lead
 leadening
+leadenly
 leadenness
 leadsmen
 leadwork
@@ -5479,6 +5526,7 @@ logicizing
 logics
 logjam
 lognormality
+logrolled
 logrolls
 logs
 lollers
@@ -5529,6 +5577,7 @@ lullabies
 luminance
 luminiferous
 lummoxes
+lumpen
 lumper
 lunacy
 lunarian
@@ -5629,6 +5678,7 @@ manches
 mandator
 mandibulate
 mandola
+manganites
 mangled
 mangold
 maniac
@@ -5701,6 +5751,7 @@ mateys
 matte
 mattings
 mattock
+maturational
 maturers
 maul
 mausolea
@@ -5976,6 +6027,7 @@ misquotes
 misrecord
 misreferences
 misrelies
+misroutes
 missaid
 misspell
 misstated
@@ -6151,6 +6203,7 @@ muftis
 mulched
 mulcted
 muled
+mullen
 mulling
 mullite
 multicar
@@ -6185,6 +6238,7 @@ mundungus
 municipally
 munis
 murders
+muriates
 muricated
 murmuring
 murmurs
@@ -6256,6 +6310,7 @@ nativenesses
 naturalize
 natured
 naumachies
+nausea
 navelworts
 navicert
 navy
@@ -6674,6 +6729,7 @@ outbuilt
 outbulges
 outburn
 outcapering
+outcatches
 outcatching
 outcharm
 outcry
@@ -6736,6 +6792,7 @@ outsulked
 outtowering
 outwardnesses
 outwearing
+outweeping
 outworker
 outwrought
 ovality
@@ -6988,6 +7045,7 @@ pathetically
 pathologies
 pathos
 pathoses
+patience
 patining
 patissier
 patissiers
@@ -6999,6 +7057,7 @@ patronly
 patterer
 patters
 pattypans
+paucities
 pauperize
 pavisses
 pawing
@@ -7210,6 +7269,7 @@ photospheric
 phototypes
 phrasemakers
 phyleses
+phyllite
 phyllome
 phyllotactic
 physed
@@ -7240,6 +7300,7 @@ pictorialism
 pictorializes
 pictured
 pierces
+pieta
 pietistic
 pietistically
 pigeonite
@@ -7319,6 +7380,7 @@ plankters
 planters
 plantlike
 plasma
+plasmatic
 plasmoid
 plasmolysis
 plasticene
@@ -7626,6 +7688,7 @@ priapisms
 pricily
 prickliness
 pricklinesses
+pricks
 priestlinesses
 priestly
 prig
@@ -7640,6 +7703,7 @@ princelier
 printeries
 prioritizations
 priority
+prisere
 prismoidal
 prisoners
 pristinely
@@ -7836,6 +7900,7 @@ quant
 quanting
 quantitation
 quantitative
+quarantined
 quarriers
 quarryman
 quarterstaves
@@ -7998,6 +8063,7 @@ recement
 reception
 receptivities
 recepts
+rechanged
 rechanneling
 rechannelling
 rechargeable
@@ -8071,6 +8137,7 @@ redocked
 redoubtable
 redounded
 redshift
+redtop
 redtops
 reducer
 reducibly
@@ -8079,6 +8146,7 @@ reductions
 reductor
 reduplicates
 redwing
+reedit
 reedlike
 reefable
 reembarked
@@ -8180,6 +8248,7 @@ rejuvenated
 rekeying
 reknits
 reknots
+relacquered
 relapsers
 relational
 relaunder
@@ -8278,12 +8347,14 @@ rerolls
 res
 resaddling
 resaws
+rescind
 rescoring
 resculpting
 resealing
 reseason
 resees
 reselecting
+resell
 resetters
 reshined
 reshuffled
@@ -8437,11 +8508,13 @@ riling
 rimless
 rimpled
 rimrock
+rin
 ringbarks
 ringbolt
 ringhals
 ringmaster
 ringside
+ringtosses
 riotousness
 ripping
 riskers
@@ -8499,6 +8572,7 @@ roundtables
 roundtrip
 roustabouts
 routinely
+routinists
 rowlocks
 rubaboo
 rubbaboos
@@ -8633,6 +8707,7 @@ satirists
 satisfier
 satisfies
 saturate
+saturates
 saturators
 saucepot
 saunaed
@@ -8643,6 +8718,7 @@ savannas
 savants
 savers
 savories
+savouries
 savoy
 saxes
 saxitoxins
@@ -8715,6 +8791,7 @@ scrambles
 scrannels
 scrap
 scrappage
+scrappily
 scrawniest
 screaked
 screaks
@@ -8888,6 +8965,7 @@ shatter
 shaven
 shavings
 sheaflike
+sheaved
 sheeniest
 sheepdog
 sheerness
@@ -9004,6 +9082,7 @@ sinew
 sinewed
 sinfonias
 singalongs
+singers
 singlestick
 singularities
 sink
@@ -9058,6 +9137,7 @@ skunkweed
 skylarks
 skyrocket
 skysail
+skywalks
 skyways
 slack
 slackeners
@@ -9095,6 +9175,7 @@ slitted
 slitter
 slivovices
 slobberers
+sloops
 slope
 slops
 sloshiest
@@ -9414,6 +9495,7 @@ starvation
 starwort
 stateliness
 statesmanship
+staticky
 stating
 statocysts
 statutory
@@ -9421,10 +9503,12 @@ stavudines
 steadings
 stealing
 steamboats
+steatopygia
 steelie
 steelinesses
 steelmaker
 steelmakings
+steelyards
 steeplechaser
 steepled
 steerable
@@ -9564,6 +9648,7 @@ subcomponents
 subconsciouses
 subcooled
 subcortex
+subcutis
 subdepartment
 subdevelopment
 subdividable
@@ -9656,6 +9741,7 @@ sundrops
 sunket
 sunlands
 sunproof
+superadds
 superagency
 superambitious
 superathletes
@@ -10129,6 +10215,7 @@ torpedoes
 torpor
 torsi
 torso
+tortile
 torts
 tortuosities
 tortuousness
@@ -10338,6 +10425,7 @@ twilight
 twilling
 twinkles
 twittery
+twofold
 tyin
 tympanic
 tympanist
@@ -10422,6 +10510,7 @@ unconceivable
 unconfined
 unconformably
 unconscionably
+unconsciously
 uncorrected
 uncouplers
 uncovers
@@ -10511,6 +10600,7 @@ unhanging
 unhealthinesses
 unheroic
 unhewn
+unhoped
 unhorses
 unhousing
 unhygienic
@@ -10557,6 +10647,7 @@ unmuffle
 unorganized
 unpatentable
 unplaced
+unpleasantly
 unpledged
 unpliable
 unpopularities
@@ -10700,6 +10791,7 @@ variousness
 varnas
 varnishy
 varying
+vasa
 vascula
 vasectomized
 vasodilatations
@@ -10749,6 +10841,7 @@ verandas
 verbals
 verbenas
 verdured
+verglas
 veridicalities
 veritablenesses
 vermeil
@@ -10913,6 +11006,7 @@ wastrie
 watchable
 waterdog
 waterinesses
+waterski
 waterweed
 wattled
 waul
@@ -10951,6 +11045,7 @@ wharves
 wheatlands
 wheelbarrow
 wheelman
+whelky
 whelming
 whey
 whidahs
@@ -11178,6 +11273,7 @@ zizzle
 zoarium
 zoecia
 zonary
+zonetimes
 zooks
 zoolater
 zoologically
