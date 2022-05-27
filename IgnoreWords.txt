@@ -164,6 +164,7 @@ agallochs
 agapeic
 agars
 agelessnesses
+agendas
 agers
 agglutinogenic
 aggravates
@@ -293,6 +294,7 @@ amphiprostyles
 amphisbaenas
 amphitheatrical
 amping
+ampoule
 ampoules
 ampuls
 amputates
@@ -600,6 +602,7 @@ atopies
 atresic
 atrocity
 attachers
+attentional
 atticisms
 attitudinise
 attorneyships
@@ -1387,6 +1390,7 @@ cardiographs
 cardiologists
 cardsharper
 career
+careerism
 careerists
 careers
 carelessly
@@ -1457,6 +1461,7 @@ catchiest
 catchments
 catchwords
 catchy
+catecheses
 catechise
 catechismal
 catechizations
@@ -1480,6 +1485,8 @@ cavorts
 caymans
 caziques
 cedarbird
+cedary
+cedis
 ceibas
 celibacies
 cellphones
@@ -1559,6 +1566,7 @@ chats
 chatted
 chattered
 chauffeur
+chauffeured
 chawer
 cheapskates
 checkbooks
@@ -1705,6 +1713,8 @@ classable
 classico
 classiest
 classists
+clavi
+clawhammer
 claymore
 cleaning
 cleanly
@@ -1825,6 +1835,7 @@ coilers
 coin
 coinferred
 coins
+coinventor
 coir
 cojoins
 cojones
@@ -1836,6 +1847,7 @@ coleoptera
 coleus
 colicines
 coliphages
+colistins
 collars
 collaterally
 collators
@@ -2682,6 +2694,7 @@ dibromide
 dicasts
 dichasial
 dichotomizes
+dicing
 dickens
 dickies
 dicotyledonous
@@ -3015,6 +3028,7 @@ dwining
 dybbukim
 dyer
 dykes
+dynamometers
 dynamotors
 dynatron
 dynel
@@ -3172,6 +3186,7 @@ enchase
 enchaser
 enciphers
 enclasped
+encomiast
 encouragement
 encrinite
 encroachment
@@ -3238,6 +3253,7 @@ entreats
 entrenched
 entropic
 envelopment
+envelops
 envenomed
 environmental
 envy
@@ -3506,6 +3522,7 @@ farmer
 farmerette
 farmerettes
 farmwives
+farmworker
 farolito
 farsides
 fas
@@ -3663,6 +3680,7 @@ fleshers
 fleshless
 fleshly
 fleshpot
+flickery
 flights
 flimflammery
 flimsinesses
@@ -4225,6 +4243,7 @@ grumps
 grungy
 grunions
 gruntled
+grutching
 guardedly
 guayule
 guerdons
@@ -4301,6 +4320,7 @@ hallucinator
 haloid
 halterbreaking
 hamadryads
+hamal
 hames
 hammams
 hammed
@@ -4348,6 +4368,7 @@ hatcheling
 hatchers
 hatchery
 hating
+hatting
 haughtier
 haunches
 haunted
@@ -5386,6 +5407,7 @@ leant
 leaped
 leapers
 leathered
+leathernecks
 lectern
 ledger
 leech
@@ -5820,6 +5842,7 @@ meetness
 megadynes
 megalomanias
 megalomanic
+megaproject
 megaspore
 megs
 melancholiacs
@@ -6313,6 +6336,7 @@ nances
 nancy
 nanogram
 nanometres
+napalming
 naphtha
 napkin
 naproxen
@@ -6857,6 +6881,7 @@ overgenerous
 overgild
 overgrows
 overheaped
+overheat
 overhuntings
 overinflate
 overinform
@@ -6976,6 +7001,7 @@ palsies
 palter
 paltered
 paltering
+paltrier
 paludal
 pampa
 panatella
@@ -7288,6 +7314,7 @@ photosensitizes
 photospheric
 phototypes
 phrasemakers
+phthalocyanine
 phyleses
 phyllite
 phyllome
@@ -7399,6 +7426,7 @@ planking
 plankters
 planters
 plantlike
+plantocracy
 plasma
 plasmatic
 plasmoid
@@ -7749,6 +7777,7 @@ profaneness
 professorial
 proffered
 proficiencies
+profiled
 profitabilities
 profitableness
 profiteered
@@ -8127,6 +8156,7 @@ recruiter
 rectification
 rectifying
 recto
+rectrix
 recumbencies
 recuperated
 recurred
@@ -9306,6 +9336,7 @@ solitudinarian
 soloistic
 solonchak
 solstices
+solubilising
 solubilizing
 solus
 solves
@@ -9773,6 +9804,7 @@ superambitious
 superathletes
 superbank
 superbomber
+superbright
 superclasses
 superconduct
 superconducts
@@ -10161,6 +10193,7 @@ tictacking
 tidbit
 tiebreaks
 tierced
+tiering
 tikes
 tiling
 timberlines
@@ -10482,6 +10515,7 @@ ultrasmall
 ultravacua
 umami
 umbones
+umbrageously
 umping
 umteenth
 unabsorbed
@@ -11111,6 +11145,7 @@ whump
 whupped
 wickers
 wicking
+widders
 wideband
 widebody
 widener
