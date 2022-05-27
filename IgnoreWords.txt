@@ -293,6 +293,7 @@ amorously
 amortizes
 amperes
 ampersand
+amphibians
 amphibole
 amphiprostyles
 amphisbaenas
@@ -342,6 +343,7 @@ anesthetizing
 angel
 angiogram
 angler
+anglicism
 angosturas
 animadverts
 animalian
@@ -1155,6 +1157,7 @@ brashy
 brattier
 bratwursts
 brava
+braved
 brawlier
 brawnier
 brazening
@@ -1434,6 +1437,7 @@ carolling
 carotidal
 carpentering
 carpetbaggers
+carpeting
 carpooling
 carpools
 carracks
@@ -1958,6 +1962,7 @@ compassable
 competing
 competitor
 complacently
+complained
 complaint
 complect
 complected
@@ -2092,6 +2097,7 @@ contribution
 controlled
 controlment
 controverters
+controverts
 contumacy
 convector
 convened
@@ -2144,6 +2150,7 @@ corollaries
 coronachs
 coronally
 coronel
+corotation
 corporals
 corporeally
 corpses
@@ -2848,6 +2855,7 @@ dishwater
 disinforming
 disinheriting
 disinterestedly
+disinviting
 diskette
 dislikable
 dislocate
@@ -2900,6 +2908,7 @@ diversifies
 diverting
 dividedly
 dividednesses
+dividers
 divides
 divined
 divorcee
@@ -3050,6 +3059,7 @@ dumped
 dumpster
 dunches
 duncishly
+dunelike
 dunlin
 dunting
 duopsonies
@@ -4118,6 +4128,7 @@ gingelies
 gingelli
 gingelly
 ginger
+gingerroots
 gingkoes
 ginner
 giraffe
@@ -4546,6 +4557,7 @@ hexameter
 hexaplar
 hexapods
 hexobarbitals
+hexokinase
 hexones
 hey
 hiatus
@@ -4574,6 +4586,7 @@ histidins
 histologist
 hitchhiking
 hoardings
+hoarsest
 hoatzin
 hoatzines
 hoaxers
@@ -4872,6 +4885,7 @@ inclip
 inclipping
 incognitos
 inconscient
+inconsiderate
 inconsonances
 incoordination
 incorporation
@@ -5291,6 +5305,7 @@ kappa
 karabiner
 karakul
 karats
+karmic
 kaross
 karyology
 karyotins
@@ -5462,6 +5477,7 @@ lather
 lati
 latifundios
 latinized
+latitudes
 latu
 laudator
 laudators
@@ -5532,9 +5548,11 @@ leprechaun
 les
 lesbians
 lethalities
+lethargy
 lettermen
 letterspacing
 letting
+leucines
 leuds
 leukemics
 leukoplakia
@@ -5632,6 +5650,7 @@ loathed
 loathes
 lobar
 lobotomy
+lobstick
 lobworms
 localises
 localising
@@ -5837,6 +5856,7 @@ marine
 market
 marketing
 markhoors
+markka
 marmites
 marrers
 marshalcies
@@ -6488,6 +6508,7 @@ nepeta
 nephelometers
 nephrisms
 nephrites
+nervier
 nescients
 nestle
 nestler
@@ -6901,6 +6922,7 @@ outgallops
 outgambled
 outgeneraling
 outgenerals
+outglared
 outgo
 outguesses
 outhaul
@@ -7209,6 +7231,7 @@ pathetically
 pathologies
 pathos
 pathoses
+pathway
 patience
 patining
 patissier
@@ -7623,6 +7646,7 @@ polenta
 poliomyelitis
 polite
 politicises
+politicked
 pollen
 pollution
 polo
@@ -7745,6 +7769,7 @@ preanal
 prearm
 prearming
 prearranged
+prebend
 preboiled
 prebound
 prebudgets
@@ -8046,6 +8071,7 @@ putsches
 puttees
 pycnosis
 pycnotic
+pyknics
 pyramid
 pyramidal
 pyranosides
@@ -8797,6 +8823,7 @@ rusticating
 rustproof
 ruttier
 rye
+sabal
 sabring
 saccharic
 saccharified
@@ -9583,6 +9610,7 @@ spiccato
 spice
 spicery
 spicily
+spicular
 spicy
 spiderweb
 spiegeleisens
@@ -9700,6 +9728,7 @@ starriest
 starship
 starters
 starvation
+starveling
 starwort
 stateliness
 statesmanship
@@ -10410,6 +10439,7 @@ tomahawked
 tomans
 tomatillo
 tomboyishness
+tomfooleries
 tommyrot
 tone
 tonicities
@@ -10718,6 +10748,7 @@ uncase
 uncataloged
 unchain
 unchairs
+unchallengeable
 unchancy
 unchlorinated
 uncinal
@@ -10921,6 +10952,7 @@ unshelling
 unsmiling
 unsnapped
 unsnarling
+unsociable
 unsolved
 unsoundly
 unspeaking
@@ -11226,10 +11258,12 @@ wandering
 wangans
 wangled
 wangler
+wanguns
 wannabee
 wannigan
 wannigans
 wanting
+wardenries
 warfares
 wariness
 warisons
@@ -11244,6 +11278,7 @@ washeteria
 washwomen
 wastrie
 watchable
+watchman
 waterdog
 waterinesses
 waterlogs

@@ -1,0 +1,6 @@
+AADInternals/MFA_utils.ps1 at master - GitHub,https://github.com/Gerenios/AADInternals/blob/master/MFA_utils.ps1
+Log4PowerShell/Log4ShellPoC.ps1 at master · aalex954 ... - GitHub,https://github.com/aalex954/Log4PowerShell/blob/master/Log4ShellPoC.ps1
+MFA_utils.ps1 0.4.1 - PowerShell Gallery,https://www.powershellgallery.com/packages/AADInternals/0.4.1/Content/MFA_utils.ps1
+Public/Navigation.ps1 0.8.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/Pode.Web/0.8.0/Content/Public%255CNavigation.ps1
+ET4771.U1.PS1 - StudyLib,https://studylib.net/doc/25229364/et4771.u1.ps1
+$Workspace = Split-Path -Parent $MyInvocation.MyCommand ...,https://raw.githubusercontent.com/Cyanashi/AutoTaskScripts/master/Common/GetStreamLink/GetStreamLink.ps1
