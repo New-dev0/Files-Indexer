@@ -128,6 +128,7 @@ adoptionist
 adorning
 adsorber
 adularias
+adumbrate
 advanced
 adventive
 adverbial
@@ -310,6 +311,7 @@ amphitheatrical
 amping
 ampoule
 ampoules
+ampulla
 ampullae
 ampuls
 amputates
@@ -735,6 +737,7 @@ balconies
 balded
 baldpates
 balkanization
+balkier
 ballasting
 ballerina
 ballerinas
@@ -1128,6 +1131,7 @@ borking
 borrows
 borzoi
 boshvarks
+boskage
 botanic
 botels
 both
@@ -1186,6 +1190,7 @@ brattier
 bratwursts
 brava
 braved
+bravo
 brawlier
 brawnier
 brazening
@@ -1414,6 +1419,7 @@ canonises
 canonizations
 canopic
 canorousness
+canted
 canthi
 canvasing
 capabler
@@ -2332,6 +2338,7 @@ cringles
 crinites
 cripe
 crisp
+crispate
 crisper
 crisscrossing
 criticism
@@ -2767,6 +2774,7 @@ dethatching
 detours
 detoxicates
 detoxification
+detoxified
 deuteriums
 device
 devilfish
@@ -3354,6 +3362,7 @@ engramme
 engravers
 engs
 engulfment
+enigmatic
 enjoinder
 enlargements
 enlistments
@@ -3409,6 +3418,7 @@ epicedium
 epicenism
 epicontinental
 epidemiologic
+epidote
 epifaunas
 epigenist
 epiglottal
@@ -3799,6 +3809,7 @@ fitters
 fixed
 fizgig
 fizzers
+fizzle
 fjeld
 flabbergasting
 flabellate
@@ -4018,6 +4029,7 @@ freneticism
 frenums
 frequentation
 freshening
+freshes
 freshman
 fret
 fretwork
@@ -4505,6 +4517,7 @@ hammams
 hammed
 hammily
 hamulate
+handbags
 handballs
 handbarrows
 handclaps
@@ -4687,6 +4700,7 @@ hightops
 hillbilly
 hilted
 hinder
+hindrance
 hinkier
 hipbone
 hippienesses
@@ -5838,6 +5852,7 @@ lorica
 lornness
 losses
 lossless
+lostness
 lotoses
 louche
 loudliest
@@ -5852,6 +5867,7 @@ lovebirds
 lovefests
 loveliness
 lovemaking
+lowlanders
 lowlifer
 lowlights
 lowrider
@@ -6143,6 +6159,7 @@ mercenarinesses
 mercerising
 mercerization
 mercerized
+mercery
 merchandizes
 merchantmen
 mercurations
@@ -6157,6 +6174,7 @@ meropic
 merrinesses
 mesclun
 mesenteron
+mesmerise
 mesmerizing
 mesne
 mesocarp
@@ -6170,6 +6188,7 @@ metallizing
 metallographer
 metallurgical
 metalworks
+metaphoric
 metastatically
 metathoracic
 metazoa
@@ -6662,6 +6681,7 @@ nemertine
 neocolonialist
 neoliths
 neologists
+neonatologies
 neophyte
 neophytes
 neorealisms
@@ -6746,6 +6766,7 @@ noddies
 nodose
 noh
 nohow
+noil
 noisemaking
 noisette
 nomads
@@ -6913,6 +6934,7 @@ occupy
 occurrents
 oceanic
 oceanographies
+ocker
 ocrea
 ocreate
 octadic
@@ -8362,6 +8384,7 @@ radiomen
 radionuclides
 radiotelephones
 radiothoriums
+radishes
 raffinate
 rafted
 raftered
@@ -8404,6 +8427,7 @@ ratified
 ratifies
 ratio
 ratiocinator
+ration
 rationales
 ratites
 ratlins
@@ -8548,6 +8572,7 @@ redlined
 redliners
 redo
 redocked
+redouble
 redoubtable
 redounded
 redrew
@@ -9657,8 +9682,10 @@ smegma
 smelter
 smidges
 smidgin
+smilers
 smiles
 smirch
+smirched
 smirk
 smirkers
 smitheries
@@ -9751,6 +9778,7 @@ sonicated
 sonobuoy
 sonograms
 sonorousnesses
+soother
 soothly
 soothsay
 sootier
@@ -9811,6 +9839,7 @@ spearmen
 specialising
 specialty
 specifications
+speciousness
 spectacles
 spectator
 spectinomycin
@@ -9875,6 +9904,7 @@ splicers
 splined
 splines
 spodes
+spodosols
 spondylitises
 sponsal
 sponsorship
@@ -10000,6 +10030,7 @@ steradians
 stereophonic
 stereotypically
 stereotypies
+sternocostal
 sternutators
 sternway
 steroidal
@@ -11274,6 +11305,7 @@ upreached
 upriver
 uproariously
 uprose
+upscales
 upsetters
 upshifted
 upslope
@@ -11588,6 +11620,7 @@ weensiest
 weevers
 weird
 weldor
+well
 welterweight
 wending
 westernised
@@ -11742,6 +11775,7 @@ wrestlers
 wried
 wrier
 wring
+wrinklier
 wristwatch
 writerly
 writhen
@@ -11812,6 +11846,7 @@ zaikais
 zanders
 zanyish
 zapateos
+zaptiahs
 zarebas
 zastrugi
 zealousness
