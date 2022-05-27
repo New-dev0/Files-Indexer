@@ -1,0 +1,12 @@
+windows-path-enumerate/Windows_Path_Enumerate.ps1 - GitHub,https://github.com/VectorBCO/windows-path-enumerate/blob/development/Windows_Path_Enumerate.ps1
+Enum-AllTokens.ps1 1.1.1 - PowerShell Gallery,https://www.powershellgallery.com/packages/HackSql/1.1.1/Content/Enum-AllTokens.ps1
+Functions/Get-Enum.ps1 2.2.4 - PowerShell Gallery,https://www.powershellgallery.com/packages/PoshFunctions/2.2.4/Content/Functions%255CGet-Enum.ps1
+PS DS-LUN-v4.ps1 - vWiki,https://vwiki.co.uk/PS_DS-LUN-v4.ps1
+AzureAD/Create-AadUsersInNavContainer.ps1 1.0.14-preview261,https://psg-prod-centralus.cloudapp.net/packages/BcContainerHelper/1.0.14-preview261/Content/AzureAD%255CCreate-AadUsersInNavContainer.ps1
+powerup.ps1 — Blog - ComplexSec,https://complexsecurity.io/try-hack-me/tag/powerup.ps1
+function Get-BrowserInformation { <# .SYNOPSIS Dumps Browser ...,https://raw.githubusercontent.com/S3cur3Th1sSh1t/Creds/master/PowershellScripts/Get-BrowserInformation.ps1
+"Determine the replacement parameters $rootDSE = ([ADSI]""LDAP ...",https://stash.kopano.io/projects/KC/repos/kopano-ads-source/raw/mmc-plugin/KopanoADS/KopanoADS/Install/InstallTemplate.ps1%3Fat%3Drefs%252Fheads%252Fmaster
+Invoke-NetSessionEnum.ps1 · oooooshen/PowerShell-Suite - Gitee,https://gitee.com/oooooshen/PowerShell-Suite/blob/master/Invoke-NetSessionEnum.ps1
+ansible2/ansible/modules/windows/win_chocolatey_source.ps1 ...,https://version.cs.vt.edu/techstaff/linux-audit/-/blob/337dfa77208713d6a5a05d4874ebe0e7397a8818/ansible2/ansible/modules/windows/win_chocolatey_source.ps1
+functions/Get-DbaDbDetachedFileInfo.ps1 - dbatools - GitCode,https://gitcode.net/mirrors/sqlcollaborative/dbatools/-/blob/d8bef0bbb36cf6dfbebbae884f637a5110becac9/functions/Get-DbaDbDetachedFileInfo.ps1%3Ffrom_codechina%3Dyes
+Show-Object.ps1 · master · examples / Windows PowerShell ...,https://resources.oreilly.com/examples/0636920024132/blob/master/Show-Object.ps1
