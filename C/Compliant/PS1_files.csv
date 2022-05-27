@@ -1,0 +1,13 @@
+Pages/home.ps1 0.0.2 - PowerShell Gallery,https://www.powershellgallery.com/packages/DscDashboard/0.0.2/Content/Pages%255Chome.ps1
+Get-CMClientBaselineEvaluation.ps1 1.7.3 - PowerShell Gallery,https://www.powershellgallery.com/packages/CMClient/1.7.3/Content/Get-CMClientBaselineEvaluation.ps1
+Windows-10/Detect_OfficeMgmtCOM.ps1 at master - GitHub,https://github.com/byteben/Windows-10/blob/master/Detect_OfficeMgmtCOM.ps1
+functions/Test-DbaBuild.ps1 1.0.1 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/dbatools/1.0.1/Content/functions%255CTest-DbaBuild.ps1
+functions/Test-DbaSqlBuild.ps1 0.9.390 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/dbatools/0.9.390/Content/functions%255CTest-DbaSqlBuild.ps1
+public/Get-DbsAuditOnFailure.ps1 0.1.7 - PowerShell Gallery,https://40.87.85.101/packages/dbadisa/0.1.7/Content/public%255CGet-DbsAuditOnFailure.ps1
+public/Disable-DbsOleAutomation.ps1 0.1.7 - PowerShell Gallery,https://40.87.85.101/packages/dbadisa/0.1.7/Content/public%255CDisable-DbsOleAutomation.ps1
+AzSKADOInfo/AzSKADOInfo.ps1 1.2.5 - PowerShell Gallery Test,https://www.poshtestgallery.com/packages/AzSKStaging.ADO/1.2.5/Content/AzSKADOInfo%255CAzSKADOInfo.ps1
+get-intuneConfigurationReport.ps1 · master · kwelaye-gl ... - GitLab,https://gitlab.com/kwelaye-gl/assortedFunctions/-/blob/master/get-intuneConfigurationReport.ps1
+"#ASD Hardening Microsoft Windows 10, version 1709 Workstations ...",https://raw.githubusercontent.com/cottinghamd/HardeningAuditor/master/ASD1709HardeningComplianceCheck.ps1
+scripts/nuget_build.ps1 · master · Karabo / pugiXml · GitLab - Projects,https://git.xfel.eu/Karabo/pugixml/blob/master/scripts/nuget_build.ps1
+samples/memfs_test.ps1 ... - GitCode,https://gitcode.net/mirrors/dokan-dev/dokany/-/blob/7c1981577a521f956b3167348f2ee93421578934/samples/memfs_test.ps1
+build.ps1 - AspNet.Security.OAuth.Providers - GitCode,https://gitcode.net/mirrors/aspnet-contrib/AspNet.Security.OAuth.Providers/-/blob/d8bd3eb07ef8307e84add579b0b6f0a3c95d74e1/build.ps1
