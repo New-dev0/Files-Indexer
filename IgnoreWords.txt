@@ -122,6 +122,7 @@ adhesivenesses
 adjectively
 adjournments
 adjunct
+adjutant
 adjutants
 admeasuring
 administrants
@@ -323,6 +324,7 @@ amperes
 ampersand
 amphibians
 amphibole
+amphiploids
 amphiprostyles
 amphisbaenas
 amphitheatrical
@@ -710,6 +712,7 @@ autolyzes
 automan
 automobilist
 autoradiogram
+autunites
 avellane
 avenger
 averse
@@ -736,6 +739,7 @@ azines
 azotemia
 azure
 babbitry
+babblement
 babesias
 babiest
 baboos
@@ -861,6 +865,7 @@ beaning
 beano
 beanstalks
 bearberries
+beardedness
 beargrasses
 bearings
 beasts
@@ -881,6 +886,7 @@ bedevil
 bedposts
 bedridden
 bedrivel
+bedroom
 bedrugged
 bedsonias
 bedwarf
@@ -922,6 +928,7 @@ bellies
 belligerency
 bellworts
 bellyacher
+bellybands
 belter
 bemata
 bemoans
@@ -995,6 +1002,7 @@ biliary
 bilker
 billets
 billies
+billingsgate
 billionaires
 billons
 billowed
@@ -1148,6 +1156,7 @@ boilerplate
 boilersuits
 boinked
 boisterously
+boites
 bolas
 bolder
 boldly
@@ -1294,6 +1303,7 @@ britt
 brittanias
 brittlest
 broadcasted
+broadened
 broadleaves
 brocatels
 brochettes
@@ -1507,6 +1517,7 @@ capabler
 capacitation
 capacitive
 capacitor
+capacity
 capercaillies
 capering
 capitalising
@@ -2458,6 +2469,7 @@ creosol
 crest
 crests
 crevice
+crews
 cribs
 criminis
 criminologies
@@ -2606,6 +2618,7 @@ cyclitol
 cyclizing
 cyclogenesis
 cycloids
+cyeses
 cyma
 cymbal
 cyme
@@ -3206,6 +3219,7 @@ doohickeys
 doomsayer
 doomsdayers
 doormen
+doorpost
 doors
 doorstep
 doorways
@@ -3390,6 +3404,7 @@ economizer
 economizers
 economizing
 ecoterrorism
+ecotourisms
 ectopic
 ecumenicism
 ecumenist
@@ -3546,6 +3561,7 @@ enforceable
 engagers
 engine
 engineries
+enginous
 englutting
 engraft
 engraftments
@@ -3695,6 +3711,7 @@ estranger
 estreats
 estrums
 etamins
+eternalizing
 eterne
 ethanolamine
 ethnographers
@@ -4183,6 +4200,7 @@ foreground
 forejudge
 forejudges
 foremanship
+forepaw
 foreseeability
 foreseer
 foreskin
@@ -4530,6 +4548,7 @@ glaucous
 gleesome
 glibber
 glibness
+glidepath
 glint
 glintiest
 gloater
@@ -4726,6 +4745,7 @@ gummed
 gummiest
 gummoses
 gummosis
+gumweeds
 gunk
 gunned
 gunnels
@@ -5127,6 +5147,7 @@ hurdled
 hurricanes
 hushing
 hushpuppies
+huskinesses
 husking
 hutch
 hyaenic
@@ -5659,6 +5680,7 @@ isotypic
 issuers
 italianated
 italicizes
+item
 iterant
 iterations
 ivory
@@ -5681,6 +5703,7 @@ jambing
 jambs
 jammed
 jammer
+jangles
 janglier
 japanize
 japery
@@ -6490,6 +6513,7 @@ medakas
 medallion
 medevacs
 mediad
+medials
 mediations
 mediatrices
 medicaments
@@ -6575,6 +6599,7 @@ mesozoan
 messiah
 mestizoes
 metaling
+metalinguistic
 metalliferous
 metallizes
 metallizing
@@ -7010,6 +7035,7 @@ mustinesses
 mutants
 mutative
 mutined
+muzzler
 myalgia
 mycelia
 mycetomas
@@ -7237,6 +7263,7 @@ nonintellectual
 noninterest
 nonintoxicating
 nonirrigated
+nonirritant
 nonlawyers
 nonlives
 nonloving
@@ -7780,6 +7807,7 @@ paleobiologists
 paleoecologic
 paleographer
 paleographic
+paleozoologists
 paler
 palfrey
 pallets
@@ -8613,6 +8641,7 @@ primeness
 primine
 primitivism
 primogenitor
+prims
 primus
 princelier
 printeries
@@ -9219,6 +9248,7 @@ reinspecting
 reinstates
 reinters
 reinventing
+reinvesting
 reinvestment
 reinvoke
 reissue
@@ -9489,6 +9519,7 @@ ricercari
 richer
 ricin
 rick
+rickeys
 ricking
 ricks
 riddled
@@ -9860,6 +9891,7 @@ scuzzball
 scyphi
 scyphus
 seaboot
+seacocks
 seacrafts
 seafoods
 seagoing
@@ -11829,6 +11861,7 @@ unfitted
 unfledged
 unflexed
 unfold
+unfreezes
 unfrock
 ungainlinesses
 ungazing
@@ -12022,6 +12055,7 @@ urinators
 uroscopies
 urped
 usurers
+usuriousnesses
 uteruses
 utilitarianism
 uvarovite
@@ -12345,6 +12379,7 @@ whelky
 whelming
 whey
 whidahs
+whiffer
 whiled
 whimpering
 whimpers
