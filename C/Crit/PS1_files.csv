@@ -1,0 +1,6 @@
+ZPki-Functions.ps1 0.1.7996.26535 - PowerShell Gallery,https://www.powershellgallery.com/packages/ZPki/0.1.7996.26535/Content/ZPki-Functions.ps1
+check_pagefile.ps1 ... - GitLab,https://gitlab.lauserco.com/tech/ncpa-plugins/-/blob/41cfc258ec6fbeabb6fb889a24ab43f52fd4a9bb/check_pagefile.ps1
+nagios_checks/check_veeam_license_expiration.ps1 at master,https://github.com/mmeseguer/nagios_checks/blob/master/check_veeam_license_expiration.ps1
+check_wsus/wsus_stacking.ps1 at master - GitHub,https://github.com/Goldie2009/check_wsus/blob/master/wsus_stacking.ps1
+Local check for check_mk to track the citrix sessions in an MK pool ...,https://exchange.icinga.com/Deep911/Citrix%2520Catalog%2520Sessions/files/12091/citrix_mk_sessions.ps1
+".Synopsis Get list of printers added to the system and returns 0, 1, 2 ...",https://exchange.icinga.com/pablodav/check_win_printers/files/1563/check_win_printers.ps1

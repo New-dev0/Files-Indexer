@@ -380,6 +380,7 @@ annalist
 annals
 annotative
 announcers
+annuitants
 annunciate
 anodized
 anodizing
@@ -640,6 +641,7 @@ ataghans
 ataractic
 atenolol
 atherogenic
+athetoid
 atomizations
 atomized
 atonally
@@ -771,6 +773,7 @@ ballistic
 ballistically
 ballonet
 ballyhooing
+ballyrags
 balminess
 bamboozlements
 banality
@@ -1172,6 +1175,7 @@ botels
 both
 bothriums
 bottomlands
+bottommost
 botulinal
 boubou
 boudoirs
@@ -1408,6 +1412,7 @@ calicos
 califates
 californiums
 caliginous
+call
 callaloos
 callbacks
 callees
@@ -1709,6 +1714,7 @@ cheesiness
 cheesinesses
 cheffing
 chelicera
+chemoautotrophy
 chemosorbed
 cheongsams
 cherimoyas
@@ -1975,6 +1981,7 @@ cogged
 cogitates
 cognac
 cognations
+cognitional
 cognizing
 cognomina
 cohabitants
@@ -2412,8 +2419,10 @@ crispate
 crispbread
 crisper
 crisscrossing
+crit
 criticism
 criticizers
+croc
 croft
 crojiks
 crone
@@ -2778,6 +2787,7 @@ denegations
 denitrating
 denouement
 densely
+densified
 density
 dentalia
 dentalium
@@ -4128,6 +4138,7 @@ fozinesses
 fractures
 fracturs
 fragmentary
+frailly
 frakturs
 framers
 frameworks
@@ -4619,6 +4630,7 @@ gustable
 guttered
 gybed
 gymkhana
+gynaecia
 gynaecologies
 gynecocratic
 gynecological
@@ -4887,6 +4899,7 @@ hoisters
 hokeynesses
 holddowns
 holdovers
+holdups
 holidays
 holistically
 hollowness
@@ -5222,6 +5235,7 @@ indelicate
 indemonstrable
 indenture
 indentures
+indescribably
 indestructibly
 indeterministic
 indican
@@ -5265,6 +5279,7 @@ infaunal
 infectivity
 infeoffs
 inferable
+infernally
 infidelic
 infights
 infiltrations
@@ -5807,6 +5822,7 @@ lampooners
 lampooning
 lanai
 landslips
+langrels
 languettes
 lankest
 lankier
@@ -5847,6 +5863,7 @@ laundrettes
 laureated
 laureateship
 lava
+laving
 lawbooks
 lawgiver
 lawyering
@@ -7081,6 +7098,7 @@ nonplusses
 nonpossession
 nonpregnant
 nonprofessional
+nonprofits
 nonprossing
 nonracial
 nonrecombinant
@@ -7140,6 +7158,7 @@ nuptialities
 nurling
 nutmeg
 nutritives
+nystagmic
 obdurateness
 obeah
 obeli
@@ -7262,6 +7281,7 @@ ophidians
 ophiolites
 opiate
 opinionated
+opioids
 opponency
 opportunistic
 oppositely
@@ -7560,6 +7580,7 @@ packs
 packthread
 packwax
 paddleballs
+paddles
 padlocks
 paeons
 paesano
@@ -7629,6 +7650,7 @@ parachutes
 paradisal
 paradisiac
 paradropped
+paragraphic
 parainfluenza
 parallelisms
 paralysing
@@ -7817,6 +7839,7 @@ permuting
 perniciousness
 pernods
 peroxisomes
+peroxy
 perpetrators
 perpetual
 perpetuations
@@ -7832,6 +7855,7 @@ personalty
 personated
 personator
 personhood
+personhoods
 personifier
 personifies
 persuader
@@ -7840,6 +7864,7 @@ pertains
 perturbation
 perturber
 peruke
+pervasively
 pervert
 pesos
 pessary
@@ -8122,6 +8147,7 @@ poisoned
 poisoner
 poke
 pokiest
+polarimetric
 polariscopic
 polarities
 polarity
@@ -8659,6 +8685,7 @@ racer
 racetrackers
 racewalkers
 racialize
+raciness
 racing
 racisms
 racketed
@@ -9074,6 +9101,7 @@ replicons
 replunging
 repolarization
 repos
+repossessors
 repoured
 reprehensible
 reprehensibly
@@ -9683,6 +9711,7 @@ seminude
 semiological
 semioticists
 semipalmated
+semipolitical
 semipopular
 semiquaver
 semiquavers
@@ -10247,6 +10276,7 @@ spitefullest
 spitfire
 spitting
 spittlebug
+splash
 splashing
 splat
 splicers
@@ -10292,6 +10322,7 @@ sprucing
 spry
 spumy
 spuriousness
+sputa
 sputter
 squabs
 squad
@@ -11559,6 +11590,7 @@ unhorses
 unhousing
 unhygienic
 uniaxial
+unific
 uniformitarians
 unilingual
 unillusioned
@@ -11951,6 +11983,7 @@ waffie
 waftage
 wageless
 wager
+wagers
 wages
 wailers
 wainscotted
@@ -12008,6 +12041,7 @@ wayfarings
 waywardnesses
 wazoos
 wealds
+weaponry
 weasands
 weatherability
 weathermen
@@ -12030,6 +12064,7 @@ welterweight
 wending
 westernised
 wetbacks
+whacks
 whales
 whaps
 wharfage
