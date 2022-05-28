@@ -154,6 +154,7 @@ affirmable
 affirmants
 affirmative
 affirmatively
+affirmer
 affixal
 affordable
 afforests
@@ -457,6 +458,7 @@ anywise
 aortographic
 apaches
 apanage
+apanages
 apathetic
 apatosaur
 apertures
@@ -800,6 +802,7 @@ basophilia
 basseted
 bassy
 baste
+baster
 bateau
 batfowling
 batfowls
@@ -1493,6 +1496,7 @@ carnassial
 caroches
 caroller
 carolling
+carotenoid
 carotidal
 carpentering
 carpetbaggers
@@ -2013,6 +2017,7 @@ commands
 commencers
 commends
 commentaries
+commentating
 commercialisms
 commercialized
 commissioned
@@ -2291,6 +2296,7 @@ countersigning
 countersue
 countian
 countryman
+countrysides
 couplements
 couples
 couplet
@@ -2633,6 +2639,7 @@ deedy
 deerhounds
 deerskin
 deerstalker
+deerweeds
 defacements
 defacer
 defalcating
@@ -2942,6 +2949,7 @@ disclosed
 discomfort
 discommends
 disconformity
+disconsolation
 discontentedly
 discontinuities
 discordant
@@ -2987,6 +2995,7 @@ displuming
 disposable
 disposables
 disposition
+disproof
 disqualify
 disrated
 disregard
@@ -3421,6 +3430,7 @@ ensign
 enskyed
 ensnare
 ensphered
+enteric
 enterocoele
 enteroviral
 enthronements
@@ -3543,6 +3553,7 @@ ethynyls
 etiolations
 etiologically
 etoile
+etoiles
 etymologised
 etymologist
 etymons
@@ -4074,6 +4085,7 @@ fremd
 fremituses
 frena
 freneticism
+frenula
 frenums
 frequentation
 freshening
@@ -4168,6 +4180,7 @@ gainsaying
 gainsays
 gaiters
 galabiyah
+galateas
 galeas
 galenites
 gales
@@ -4249,6 +4262,7 @@ generalises
 generational
 generousnesses
 genetical
+genitalic
 genitals
 gentlemen
 gentler
@@ -4776,6 +4790,7 @@ hocker
 hocks
 hogging
 hogtied
+hoisters
 hokeynesses
 holddowns
 holdovers
@@ -4877,6 +4892,7 @@ humanist
 humanization
 humanizing
 humannesses
+humbleness
 humidex
 humidistat
 humitures
@@ -4913,6 +4929,7 @@ hyoids
 hypabyssal
 hyperbola
 hyperbolae
+hyperboloidal
 hyperboreans
 hypercautious
 hypereutectoid
@@ -4970,6 +4987,7 @@ ignited
 ignites
 ignobility
 ignominiously
+ignoramuses
 ignorant
 iguanid
 ileac
@@ -5345,6 +5363,7 @@ ionospheric
 iontophoretic
 ipecac
 ireless
+irides
 iring
 irising
 ironclad
@@ -5843,6 +5862,7 @@ linoleum
 linsangs
 linter
 linting
+lintols
 lipin
 lipogeneses
 lipoid
@@ -6259,6 +6279,7 @@ mesmerizing
 mesne
 mesocarp
 mesophyllic
+mesozoan
 messiah
 mestizoes
 metaling
@@ -6849,6 +6870,7 @@ nocturnally
 nocturnes
 nodality
 noddies
+nodding
 nodose
 noh
 nohow
@@ -7094,6 +7116,7 @@ operable
 operagoing
 operand
 operativenesses
+opercula
 operettist
 operosely
 operosenesses
@@ -7121,6 +7144,7 @@ orchestraters
 orderless
 ordinaries
 ordnance
+ordonnances
 oreodonts
 organicities
 organiser
@@ -8240,6 +8264,7 @@ procrastinated
 proctologies
 procure
 prodigy
+producers
 productivity
 profanation
 profane
@@ -8378,6 +8403,7 @@ purda
 purebreds
 pureeing
 purfled
+purgeable
 purled
 purpleheart
 purposively
@@ -8520,6 +8546,7 @@ rants
 raper
 rapers
 rapids
+rappels
 rappen
 rapturousnesses
 rare
@@ -8717,6 +8744,7 @@ reexport
 reexported
 reexpose
 ref
+refall
 refeeling
 refereed
 references
@@ -10004,6 +10032,7 @@ spiffy
 spikelike
 spiks
 spilings
+spilling
 spilths
 spindle
 spinifexes
@@ -10089,6 +10118,7 @@ stagehand
 stages
 stagier
 stagiest
+staig
 stainers
 staircases
 stalactitic
@@ -10265,6 +10295,7 @@ styptics
 suability
 suable
 subadults
+subaerially
 subagency
 subah
 suballocations
@@ -10447,6 +10478,7 @@ surpassingly
 surplus
 surprised
 surprisingly
+surprizes
 surra
 surrey
 susceptibly
@@ -10610,6 +10642,7 @@ taximeters
 tchotchkes
 teaboxes
 teachableness
+teardrops
 tearstains
 teaselled
 teazelling
@@ -11238,6 +11271,7 @@ undernourished
 underpasses
 underreport
 undersecretary
+underset
 undersign
 undersold
 understaffing
@@ -11310,6 +11344,7 @@ unionizers
 unipods
 unique
 uniquer
+unirrigated
 unisexuality
 unisonant
 unitization
