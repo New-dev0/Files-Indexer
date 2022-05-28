@@ -137,6 +137,7 @@ advanced
 adventive
 adverbial
 advertent
+advertisement
 advertize
 advises
 advowson
@@ -763,6 +764,7 @@ bacterium
 badged
 badmintons
 baggies
+bails
 bairnlier
 bakemeats
 balboa
@@ -1822,6 +1824,7 @@ chunkier
 churchianity
 churchlier
 churr
+chutes
 chutists
 chymist
 cibol
@@ -1946,6 +1949,7 @@ coappears
 coaptation
 coarsest
 coastal
+coastings
 coastline
 coats
 coattail
@@ -2442,6 +2446,7 @@ criticalities
 criticism
 criticizers
 croc
+crockpot
 croft
 crojiks
 crone
@@ -2668,6 +2673,7 @@ decadences
 decadencies
 decagrams
 decaliter
+decameter
 decanting
 decapitations
 decarbonates
@@ -2707,6 +2713,7 @@ decrescent
 decryptions
 decrypts
 decupling
+deduction
 deedy
 deerhounds
 deerskin
@@ -3759,6 +3766,7 @@ expropriates
 expulsed
 expulses
 expunged
+expurgatorial
 exsanguination
 exsect
 exsiccated
@@ -3950,6 +3958,7 @@ finitude
 finked
 finks
 finless
+finning
 finocchios
 fipple
 fireback
@@ -4040,6 +4049,8 @@ flopover
 floppers
 floras
 floricane
+floruits
+flossie
 flouted
 flowed
 flowerers
@@ -4824,6 +4835,7 @@ hedonist
 heeder
 heehaw
 heelless
+heelpost
 hegemons
 height
 heinously
@@ -5656,6 +5668,7 @@ jockette
 jocund
 joinder
 joinings
+joint
 jointresses
 jojoba
 jojobas
@@ -6115,6 +6128,7 @@ logrolls
 logs
 logy
 lollers
+lollipops
 lomenta
 longe
 longhorns
@@ -6147,6 +6161,7 @@ loungy
 lousewort
 lousier
 loutish
+lovages
 lovebirds
 lovefests
 loveliness
@@ -6303,6 +6318,7 @@ manually
 manufactories
 manward
 manwise
+maplelike
 maraca
 marblers
 marbly
@@ -7124,6 +7140,7 @@ nonfluids
 nonfocal
 nonghetto
 nonglare
+nongreen
 nonhumans
 nonincumbents
 nonindustry
@@ -7299,6 +7316,7 @@ older
 oldfangled
 olds
 oldsquaws
+oldsters
 oleic
 oligomeric
 olingo
@@ -7361,6 +7379,7 @@ opusculum
 orangeade
 orbicularly
 orchestraters
+order
 orderless
 ordinaries
 ordnance
@@ -8341,6 +8360,7 @@ poxes
 poxing
 poxviruses
 practised
+praenomen
 pragmatisms
 praisers
 prancer
@@ -8361,6 +8381,7 @@ prebend
 preboiled
 prebound
 prebudgets
+precancer
 precensoring
 precessional
 precessions
@@ -8492,6 +8513,7 @@ primed
 primeness
 primine
 primitivism
+primogenitor
 primus
 princelier
 printeries
@@ -8797,6 +8819,7 @@ raillery
 rainouts
 raki
 raku
+ramie
 ramiform
 ramifying
 ramped
@@ -8955,6 +8978,7 @@ redacted
 redacting
 redates
 redating
+redbirds
 redefining
 redelivering
 redeployed
@@ -9093,6 +9117,7 @@ reinvestment
 reinvoke
 reissue
 reiterating
+rejectees
 rejections
 rejectors
 rejustifies
@@ -9461,6 +9486,7 @@ rubying
 rudderpost
 ruddlemen
 ruddles
+rudiments
 ruffed
 ruffes
 ruffian
@@ -9851,6 +9877,7 @@ sewed
 sewer
 sexologist
 sexploitation
+sextile
 sexuality
 sexy
 shacklers
@@ -10695,6 +10722,7 @@ substate
 subtended
 subtends
 subtext
+subtilin
 subtilins
 subtreasury
 subunit
@@ -10747,6 +10775,7 @@ superambitious
 superathletes
 superbank
 superbomber
+superbombers
 superbright
 superclasses
 superconduct
@@ -11342,6 +11371,7 @@ travesties
 trawlnets
 trayful
 treachery
+treading
 treasurership
 treaty
 trebling
@@ -11480,6 +11510,7 @@ tutored
 tutties
 tutting
 tutus
+tuxedoed
 tweezing
 twelfth
 twerps
@@ -11769,6 +11800,7 @@ uns
 unsaintly
 unsalable
 unsaturates
+unschooled
 unscrews
 unsearchably
 unseasonably
@@ -11792,6 +11824,7 @@ unstated
 unsteadily
 unstopping
 unsupportable
+unsurprisingly
 unsustainable
 unsynchronized
 untangle
@@ -12032,6 +12065,7 @@ vituperation
 vivace
 vivaces
 vivaria
+vivisect
 vivisectionists
 vizcacha
 vocalist
@@ -12402,6 +12436,7 @@ yuppieish
 yuppified
 zacaton
 zaikais
+zamindaris
 zanders
 zanyish
 zanzas
