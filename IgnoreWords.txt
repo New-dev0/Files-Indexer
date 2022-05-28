@@ -315,6 +315,7 @@ ammunition
 amnions
 amorist
 amorously
+amorphism
 amortizes
 amperes
 ampersand
@@ -589,6 +590,7 @@ artificialness
 artist
 artistry
 artlessness
+arts
 artwork
 arvo
 asbestosis
@@ -647,6 +649,7 @@ asymptotically
 asyndetons
 ataghans
 ataractic
+atemporal
 atenolol
 atherogenic
 athetoid
@@ -797,6 +800,7 @@ banksides
 banquette
 baptismal
 baptismally
+barbiturates
 bareboat
 bareboned
 barefacedly
@@ -1071,6 +1075,7 @@ blameworthiness
 blaming
 bland
 blander
+blanketflower
 blanketlike
 blanks
 blasphemies
@@ -1305,6 +1310,7 @@ brosy
 brownnoser
 brownstones
 browsed
+browsers
 brushability
 brushiest
 brusker
@@ -1484,6 +1490,7 @@ canopic
 canorousness
 canted
 canthi
+cantic
 canticle
 canvasing
 capabler
@@ -2037,6 +2044,7 @@ collators
 collectivise
 collectivist
 collectivistic
+collectorship
 collegial
 collegiality
 collide
@@ -2375,6 +2383,7 @@ courtlier
 covalences
 covariance
 coverage
+coves
 covetable
 cowardliness
 cowflop
@@ -2417,6 +2426,7 @@ credentialling
 credible
 creditability
 creds
+cremates
 cremator
 cremators
 cremes
@@ -2918,6 +2928,7 @@ diabolo
 diaconates
 diaeresis
 diagnosable
+diagnostics
 diagonalizes
 diagonally
 dial
@@ -4257,6 +4268,7 @@ fruitage
 fruiters
 fruitfuller
 fruiting
+fruition
 fryable
 frybreads
 fubs
@@ -4537,6 +4549,7 @@ goose
 gooseberries
 gossippers
 goth
+gothicize
 gouge
 gouges
 gourmets
@@ -4885,6 +4898,7 @@ herby
 herd
 hereditarians
 hermeticisms
+hermetists
 herniae
 herpesviruses
 herries
@@ -5451,6 +5465,7 @@ interlibrary
 interlinear
 interlined
 interliner
+interlock
 interloping
 intermats
 intermatted
@@ -6626,6 +6641,7 @@ misanalysis
 misassumption
 misbegin
 misbehaviors
+misbiases
 misbiasses
 misbinding
 misbuilds
@@ -7150,6 +7166,7 @@ noninitiates
 noninsect
 noninstallments
 nonintellectual
+noninterest
 nonintoxicating
 nonirrigated
 nonlawyers
@@ -7320,6 +7337,7 @@ oldsters
 oleic
 oligomeric
 olingo
+olivine
 olympiads
 omber
 ombres
@@ -7998,6 +8016,7 @@ philosophic
 philosophize
 philosophizes
 philtering
+philtred
 phlorizin
 phlorizins
 phlyctena
@@ -8135,6 +8154,7 @@ pitching
 piteous
 pithy
 pitiable
+pitiableness
 pittas
 piu
 pivoted
@@ -8342,6 +8362,7 @@ potentiality
 potheads
 pothouse
 pothunter
+potshards
 potstones
 pottage
 potterers
@@ -8494,6 +8515,7 @@ pretzel
 prevalent
 prevaricate
 prevarication
+preventiveness
 previewer
 previous
 preworking
@@ -8908,6 +8930,7 @@ rebloomed
 rebodies
 rebought
 rebreed
+rebuker
 rebuking
 rebutters
 recalculated
@@ -8984,6 +9007,7 @@ redelivering
 redeployed
 redepositing
 redhorse
+redialing
 redictating
 redigesting
 redigestion
@@ -9040,6 +9064,7 @@ refeeling
 refereed
 references
 refights
+refigure
 refiled
 refilling
 refinable
@@ -9157,6 +9182,7 @@ rematches
 remember
 rememberable
 remembering
+remints
 remises
 remising
 remissible
@@ -9459,6 +9485,7 @@ rosily
 rosiness
 rosinweed
 rotates
+rotaviruses
 rotes
 rotis
 rotls
@@ -9957,6 +9984,7 @@ shopboys
 shoplifted
 shoppe
 shoran
+shorthands
 shortia
 shortie
 shortish
@@ -10338,9 +10366,11 @@ spectroscopes
 speedballed
 speedboat
 speedboatings
+speeding
 speedster
 speedsters
 speirs
+speises
 spelean
 spences
 spendable
@@ -11076,6 +11106,7 @@ terminal
 terminator
 terne
 terneplates
+terra
 terraces
 territorial
 territorials
@@ -11492,8 +11523,10 @@ turfmen
 turfskiing
 turgors
 turistas
+turkoises
 turks
 turmoiling
+turmoils
 turnbuckles
 turncoat
 turners
@@ -12253,6 +12286,7 @@ wifelier
 wigeons
 wigs
 wigwagger
+wigwam
 wildcatter
 wilders
 wildfowlings
@@ -12397,6 +12431,7 @@ yardage
 yardarm
 yards
 yarmelke
+yarrows
 yashmak
 yaup
 yawed
