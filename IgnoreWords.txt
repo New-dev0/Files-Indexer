@@ -92,6 +92,7 @@ acrodont
 acrolith
 acrosomal
 acrostics
+acrotisms
 actinomorphies
 actinomorphy
 actinomyces
@@ -117,6 +118,7 @@ adenosines
 adenoviruses
 adhesive
 adhesiveness
+adhesivenesses
 adjectively
 adjournments
 adjunct
@@ -188,6 +190,7 @@ aggravates
 agilenesses
 agiotage
 agisted
+aglow
 aglycons
 agnate
 agnosticisms
@@ -1218,6 +1221,7 @@ branchier
 branching
 brander
 brannigan
+brasher
 brashnesses
 brashy
 brattier
@@ -1296,6 +1300,7 @@ brutishly
 bruxisms
 bryologist
 bryozoans
+bubbled
 bubkes
 bubo
 buckbrushes
@@ -1645,6 +1650,7 @@ chainsaws
 chaired
 chairmanning
 chalazae
+chalazions
 chalcocite
 chaleh
 challot
@@ -1682,6 +1688,7 @@ chartered
 chartularies
 charwomen
 chaseable
+chasers
 chasings
 chastest
 chatelaine
@@ -2252,6 +2259,7 @@ copublish
 copycat
 copyedit
 copying
+copywriter
 coralbells
 corals
 corbeil
@@ -2909,6 +2917,7 @@ dictum
 dictums
 dicynodont
 didact
+didacticism
 didacticisms
 didjeridoo
 dieselizing
@@ -3075,6 +3084,7 @@ dividednesses
 dividers
 divides
 divined
+divisions
 divorcee
 divulses
 divulsing
@@ -3680,6 +3690,7 @@ exhorts
 exilic
 existent
 exoduses
+exogen
 exonerating
 exonic
 exorbitances
@@ -4308,6 +4319,7 @@ gauging
 gavel
 gaveled
 gawpers
+gaydar
 gaynesses
 gazelle
 gazetteer
@@ -4678,6 +4690,7 @@ happens
 happy
 haptenes
 harangued
+harangues
 hardwire
 hardy
 harissa
@@ -5052,6 +5065,7 @@ icebreakers
 ichthyofaunal
 iciest
 icons
+idealise
 idealism
 idealisms
 idealized
@@ -5647,6 +5661,7 @@ kasbahs
 katcinas
 katydid
 kauris
+kayaking
 kebab
 kebbucks
 keckles
@@ -6234,6 +6249,7 @@ marshalled
 mart
 marting
 martyrize
+martyrized
 martyrly
 martyrologist
 martyrologists
@@ -6812,6 +6828,7 @@ muskrats
 musquashes
 mussinesses
 mustering
+mustier
 mustily
 mustinesses
 mutants
@@ -7522,6 +7539,7 @@ oxeye
 oxidate
 oxidizers
 oxims
+oxters
 oxy
 oxygenate
 oxygenations
@@ -7591,6 +7609,7 @@ panickiest
 paniculate
 panicums
 panner
+panoplied
 panorama
 pans
 pantheists
@@ -8048,6 +8067,7 @@ platinoid
 platitudinize
 platterful
 plausibleness
+plausibly
 playlet
 playlike
 playpens
@@ -8427,6 +8447,7 @@ prolific
 prologize
 promontories
 promotable
+prompt
 promptitudes
 pronely
 pronota
@@ -9108,6 +9129,7 @@ resojets
 resoles
 resolidifying
 resorter
+resounded
 resowed
 respecify
 respecifying
@@ -9381,6 +9403,7 @@ sagier
 sailboards
 sailboater
 sainted
+saintships
 saith
 salaams
 salamandrine
@@ -9840,6 +9863,7 @@ signalize
 signalment
 significance
 significant
+signifiers
 signifies
 silage
 silences
@@ -10151,6 +10175,7 @@ spargers
 sparkish
 spartan
 spasticity
+spat
 spathic
 spatzle
 spavies
@@ -10255,6 +10280,7 @@ sprattled
 sprattles
 sprawled
 sprayer
+sprightliness
 springer
 springtides
 springwood
@@ -10532,6 +10558,7 @@ subsatellite
 subscience
 subscriber
 subscriptions
+subsectors
 subsequences
 subshrubs
 subsiders
@@ -10659,6 +10686,7 @@ surprizes
 surra
 surrey
 susceptibly
+suspenders
 suspenser
 suspensors
 suspicious
@@ -10989,6 +11017,7 @@ thunks
 thurls
 thus
 thwarter
+thymectomizing
 thymic
 thymiest
 thymol
@@ -11094,6 +11123,7 @@ topographical
 topos
 toppr
 topsoiling
+toras
 toro
 torpedoes
 torpor
@@ -11211,6 +11241,7 @@ trickster
 tricorn
 tricorne
 tricotines
+trident
 triennials
 triers
 trifled
@@ -11274,6 +11305,7 @@ tsuris
 tuatera
 tubas
 tubbers
+tubbiness
 tuberculoses
 tuberculous
 tubiform
@@ -11777,6 +11809,7 @@ ventilatory
 ventricular
 ventriculus
 ventriloquism
+venule
 venules
 verandahed
 verandahs
@@ -11996,6 +12029,7 @@ well
 welterweight
 wending
 westernised
+wetbacks
 whales
 whaps
 wharfage
@@ -12138,6 +12172,7 @@ wormer
 wormish
 wormroot
 worse
+worsets
 worship
 worsting
 worsts
