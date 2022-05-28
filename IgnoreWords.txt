@@ -569,6 +569,7 @@ arsino
 artefacts
 artfulnesses
 arthralgias
+arthritis
 artichoke
 articled
 artificialities
@@ -617,6 +618,7 @@ assistances
 assistive
 assoiling
 assoils
+assort
 assuagement
 assumer
 assumption
@@ -644,6 +646,7 @@ atresic
 atrocity
 attaboy
 attachers
+attachment
 attempers
 attentional
 atticisms
@@ -896,6 +899,7 @@ bemata
 bemoans
 bemock
 beneficial
+beneficiated
 benefited
 bennets
 benny
@@ -1164,6 +1168,7 @@ bottomlands
 botulinal
 boubou
 boudoirs
+bouffe
 boughless
 bouldering
 bouldery
@@ -1718,6 +1723,7 @@ chimbleys
 chimeras
 chimere
 chimerically
+chimerism
 chimneylike
 chimneypieces
 chinchilla
@@ -3475,6 +3481,7 @@ enumerate
 envelopment
 envelops
 envenomed
+enviers
 environmental
 envy
 enwheeling
@@ -3623,6 +3630,7 @@ excerpt
 exchanging
 excisional
 excitation
+exclaim
 exclaimers
 exclusion
 exclusive
@@ -3902,6 +3910,7 @@ flabellate
 flabelliform
 flack
 flackery
+flagellations
 flaggier
 flagitiously
 flagships
@@ -4161,6 +4170,7 @@ fruiting
 fryable
 frybreads
 fubs
+fuchsin
 fuchsine
 fudging
 fuels
@@ -4278,6 +4288,7 @@ gawpers
 gaynesses
 gazelle
 gazetteer
+gazillions
 gazpacho
 gazpachos
 gearcase
@@ -4690,6 +4701,7 @@ headfirst
 headfuls
 heading
 headings
+headlamp
 headlessness
 headman
 headmasters
@@ -4714,6 +4726,7 @@ hebephrenic
 heckles
 hectare
 hectares
+hedonic
 hedonist
 heeder
 heehaw
@@ -4761,6 +4774,7 @@ herbage
 herbalist
 herbicidal
 herbier
+herbivory
 herby
 herd
 hereditarians
@@ -5049,6 +5063,7 @@ illusionism
 illusionisms
 illusory
 illustriously
+imager
 imaginary
 imamates
 imbalm
@@ -5293,6 +5308,7 @@ insulin
 insupportable
 insurability
 integralities
+integrals
 integrating
 intemperance
 intend
@@ -5319,6 +5335,7 @@ interlinear
 interlined
 interliner
 interloping
+intermats
 intermatted
 intermediated
 intermission
@@ -5529,6 +5546,7 @@ jobholder
 jobname
 jockette
 jocund
+joinder
 joinings
 jointresses
 jojoba
@@ -6237,6 +6255,7 @@ meadow
 meagerness
 meal
 mealiness
+mealless
 mean
 measures
 meatier
@@ -6422,6 +6441,7 @@ milkmaid
 millennialisms
 millennium
 millicuries
+millier
 millihenry
 milline
 millionths
@@ -7086,6 +7106,7 @@ obole
 obovoid
 obscurants
 obscured
+obsecrates
 observably
 obsession
 obsessions
@@ -7757,6 +7778,7 @@ persuader
 persuasively
 pertains
 perturbation
+perturber
 peruke
 pervert
 pesos
@@ -8397,6 +8419,7 @@ prosperities
 prost
 prostate
 prostatism
+protectiveness
 protectress
 protectresses
 proteome
@@ -8577,6 +8600,7 @@ radiale
 radiating
 radiation
 radiationless
+radicalise
 radicalize
 radicals
 radicating
@@ -8852,6 +8876,8 @@ refuge
 refurbishers
 refurnish
 refusenik
+refuses
+regardfulnesses
 regelate
 regeneracies
 regenerately
@@ -9096,6 +9122,7 @@ reunification
 reunited
 reutilizes
 reutter
+revaccinate
 revaccinating
 revalorize
 revarnish
@@ -10291,6 +10318,7 @@ stipplings
 stipulate
 stob
 stoccata
+stockading
 stoked
 stokehold
 stomaching
@@ -10396,6 +10424,7 @@ subclerk
 subcommunities
 subcomponents
 subconsciouses
+subcontracts
 subcooled
 subcortex
 subcutis
@@ -10669,6 +10698,7 @@ taels
 tagliatelles
 tailbone
 taillamps
+takable
 take
 taker
 takes
@@ -10745,6 +10775,7 @@ teel
 teethe
 teflon
 teg
+tektites
 telecaster
 telecasts
 telegraphically
@@ -11022,6 +11053,7 @@ touchdown
 touchier
 touchiness
 touchpads
+touchtone
 tourbillons
 toured
 tourmaline
@@ -11039,6 +11071,7 @@ traceability
 traced
 tracheostomies
 trachoma
+tracing
 tradable
 tradeable
 tradecraft
@@ -11204,6 +11237,7 @@ turbanned
 turbeth
 turbidities
 turbinals
+turfmen
 turfskiing
 turgors
 turistas
@@ -11586,6 +11620,7 @@ upturned
 uraemia
 uranologies
 urbaner
+urbanise
 urbanises
 urceolate
 urge
