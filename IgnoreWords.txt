@@ -205,6 +205,7 @@ ain
 aiolis
 airbrushed
 airchecks
+airfields
 airliner
 airshows
 airstrikes
@@ -934,6 +935,7 @@ beshrouding
 besmoking
 besnowed
 bespangles
+besting
 bestudding
 bet
 betokening
@@ -1010,6 +1012,7 @@ biometricians
 biomorphic
 bioptic
 bioregionalisms
+bioregions
 bioscientists
 biosensor
 biosolid
@@ -1023,6 +1026,7 @@ bipinnately
 bipolarizes
 biradial
 biradical
+bird
 birdbath
 birdbrain
 birders
@@ -1672,6 +1676,7 @@ chalupas
 chalutz
 cham
 chamise
+chamois
 champerty
 chancroid
 changeabilities
@@ -1822,6 +1827,7 @@ chymist
 cibol
 cimbalom
 cinched
+cinchona
 cinematographic
 cinephiles
 cinnabar
@@ -1912,6 +1918,7 @@ closeted
 closeup
 closeups
 closing
+closings
 clostridia
 clotheshorses
 clotheslined
@@ -2087,6 +2094,7 @@ communicant
 communicational
 communicator
 community
+communizes
 commutating
 commutation
 commutator
@@ -3070,6 +3078,7 @@ displuming
 disposable
 disposables
 disposition
+dispositive
 disproof
 disprove
 disqualify
@@ -3208,6 +3217,7 @@ dramaturges
 drammocks
 draughts
 drawee
+drawer
 drawknives
 drawshave
 drawstring
@@ -3339,6 +3349,7 @@ ectopic
 ecumenicism
 ecumenist
 eczemas
+edaphically
 edentulous
 edges
 edgewise
@@ -3461,6 +3472,7 @@ enchaser
 enciphers
 enclasped
 encomiast
+encompassment
 encouragement
 encrinite
 encroachment
@@ -4267,6 +4279,7 @@ funked
 funks
 funninesses
 funnymen
+furcate
 furler
 furless
 furnishes
@@ -4410,6 +4423,7 @@ ghoulishness
 ghouls
 giantisms
 gies
+giftednesses
 giftee
 gifting
 giftwrap
@@ -4627,6 +4641,7 @@ guayule
 guerdons
 guesting
 guggling
+guidance
 guiles
 guillemet
 guilt
@@ -4667,6 +4682,7 @@ gyrostats
 habiliment
 habilitated
 habitan
+habitants
 habitualness
 habituating
 habituation
@@ -5343,6 +5359,7 @@ inhibiters
 inhomogeneity
 inhuman
 inhumanities
+iniquitous
 initial
 initialisms
 initiative
@@ -5771,6 +5788,7 @@ kingside
 kippered
 kipperers
 kipskins
+kirigami
 kiths
 kitschifying
 kittel
@@ -6132,6 +6150,7 @@ loutish
 lovebirds
 lovefests
 loveliness
+lovelocks
 lovemaking
 lowballing
 lowlanders
@@ -6225,6 +6244,7 @@ maintaining
 maintenance
 majagua
 majaguas
+majoritarian
 majorly
 majuscular
 making
@@ -7425,6 +7445,7 @@ outeat
 outfence
 outflown
 outfool
+outfooling
 outgains
 outgallops
 outgambled
@@ -7738,6 +7759,7 @@ partygoers
 parvis
 pashalik
 passageworks
+passerines
 passivations
 passivity
 passport
@@ -8363,6 +8385,7 @@ predictably
 prednisolones
 predominating
 preelect
+preelecting
 preemergent
 preener
 preexempts
@@ -8415,6 +8438,7 @@ prerinsing
 prescreened
 prescribe
 presentations
+presentient
 presentments
 presentness
 preservability
@@ -8722,6 +8746,7 @@ quite
 quittances
 quixotic
 quixotical
+quizzers
 quodlibets
 quotes
 qwerty
@@ -8786,6 +8811,7 @@ rapers
 rapids
 rappels
 rappen
+raptness
 rapturousnesses
 rare
 rasbora
@@ -8845,6 +8871,7 @@ rearouse
 rearrested
 reascend
 reassailing
+reassorting
 reassumed
 reassumes
 reata
@@ -9024,6 +9051,7 @@ regelate
 regeneracies
 regenerately
 regenerator
+regicide
 regilding
 regilt
 regimentation
@@ -9450,6 +9478,7 @@ runkled
 runkling
 rupiah
 rupiahs
+ruralises
 rush
 russet
 rusticated
@@ -10103,6 +10132,7 @@ smallholder
 smaragdite
 smaragdites
 smattering
+smatterings
 smegma
 smelter
 smidges
@@ -10510,6 +10540,7 @@ stoppered
 storerooms
 stormier
 story
+stowed
 stowing
 straitening
 stramashes
@@ -10963,6 +10994,7 @@ telegraphically
 teleological
 teleology
 teleprocessing
+telescoped
 telethons
 teletype
 teletypewriters
@@ -10979,6 +11011,7 @@ tempestuous
 templars
 temporise
 temporises
+temporizer
 temporizes
 tempter
 tenaculum
@@ -12038,6 +12071,7 @@ vulgarly
 vulturous
 vulvar
 vulvate
+wack
 wackes
 wackier
 wacky
@@ -12306,6 +12340,7 @@ wrynecks
 wurzels
 wyandotte
 xantheins
+xanthone
 xenia
 xenophobic
 xerophilous
