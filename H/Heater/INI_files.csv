@@ -1,0 +1,3 @@
+App::Heater:auth<cpan:JMASLAK> dist.ini - Raku Modules Directory,https://modules.raku.org/dist/App::Heater:cpan:JMASLAK/dist.ini
+Tasmota-Pool-Pump-and-Heater/platformio.ini at development ...,https://github.com/DelroyTaylor/Tasmota-Pool-Pump-and-Heater/blob/development/platformio.ini
+[profile] layer_height = 0.25 wall_thickness = 1 retraction_enable ...,https://raw.githubusercontent.com/HACManchester/cura-settings/master/PLA%2520-%25200.25MM%2520-%2520Mendel90.ini
