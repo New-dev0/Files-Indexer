@@ -245,6 +245,7 @@ ales
 alexin
 algae
 algicidal
+algidity
 algological
 algology
 aliasing
@@ -396,6 +397,7 @@ ani
 animadverts
 animalian
 animalism
+animation
 animations
 animatronic
 animistic
@@ -1337,6 +1339,7 @@ brisked
 briskly
 briss
 bristling
+britches
 britt
 brittanias
 brittlest
@@ -1718,6 +1721,7 @@ censer
 censors
 censured
 centaurs
+centaury
 centenarians
 centenaries
 centering
@@ -1875,6 +1879,7 @@ choline
 cholo
 chomped
 chondrites
+chondrocraniums
 choosier
 choppier
 chopsocky
@@ -2137,6 +2142,7 @@ colluviums
 colobus
 cologarithm
 colonelcies
+colonialisms
 colonialistic
 colonisation
 colons
@@ -2305,6 +2311,7 @@ consequential
 consequentially
 conservatisms
 conservatizing
+consign
 consisted
 consistences
 consolation
@@ -2566,6 +2573,7 @@ croqueting
 crossarms
 crosscut
 crosscutting
+crosscuttings
 crosse
 crossers
 crosshair
@@ -2813,6 +2821,7 @@ declared
 declaw
 decocts
 decollating
+decoloured
 decomposability
 decomposers
 decompound
@@ -3163,6 +3172,7 @@ disaster
 disavow
 disbound
 disbranched
+disburden
 discarder
 discased
 discernable
@@ -4111,6 +4121,7 @@ fiduciary
 fieldfare
 fiend
 fiendishness
+fieriness
 filariases
 filched
 filefishes
@@ -4740,6 +4751,7 @@ gooseberries
 gossippers
 goth
 gothicize
+gothicizes
 gouge
 gouges
 gourmets
@@ -4938,6 +4950,7 @@ halavahs
 halftone
 halidom
 hall
+hallmark
 hallucinator
 hallways
 haloid
@@ -5181,6 +5194,7 @@ holdups
 holidays
 holistically
 hollowness
+holmic
 holoblastic
 holocaust
 holocene
@@ -5380,6 +5394,7 @@ identifying
 identities
 ideogrammic
 ideography
+idiom
 idle
 idolize
 if
@@ -5659,6 +5674,7 @@ inside
 insight
 insignificancy
 insincere
+insincerely
 insister
 insisters
 insolating
@@ -5804,6 +5820,7 @@ iontophoretic
 ipecac
 ireless
 irides
+iridescences
 iring
 irising
 ironclad
@@ -6692,6 +6709,7 @@ meal
 mealiness
 mealless
 mean
+meaninglessly
 measures
 meatier
 meatmen
@@ -7746,6 +7764,7 @@ osiers
 osmiridiums
 osmolarity
 osmometry
+osmunda
 ossetra
 ossicular
 ossifying
@@ -7888,6 +7907,7 @@ overdeveloped
 overdoses
 overdrawn
 overdrinking
+overdrives
 overdyeing
 overemotional
 overemphasizing
@@ -8182,6 +8202,7 @@ pectic
 peculiars
 pedagogy
 pedately
+pedestal
 pedicellate
 pedicurists
 pedocals
@@ -8397,6 +8418,7 @@ phyllome
 phyllotactic
 physed
 physiatries
+physiatrists
 physicalness
 physicals
 physiognomies
@@ -8928,6 +8950,7 @@ progressivists
 project
 projectionists
 projects
+prolans
 proletarianizes
 proliferations
 prolific
@@ -9627,6 +9650,7 @@ rerecorded
 reregister
 rerepeat
 rerolls
+reroute
 res
 resaddling
 resaws
@@ -9676,6 +9700,7 @@ restationed
 restaurants
 restaurateur
 restfulness
+restitute
 restock
 restocks
 restrainer
@@ -10311,6 +10336,7 @@ shaddocks
 shadeless
 shadowy
 shads
+shaft
 shafted
 shagging
 shaitan
@@ -10883,6 +10909,7 @@ sputter
 squabble
 squabs
 squad
+squamates
 squamation
 squareness
 squashed
@@ -11010,6 +11037,7 @@ stoped
 stoper
 stopoff
 stoppered
+stopwatch
 storerooms
 stormier
 story
@@ -11439,6 +11467,7 @@ tantalizing
 tanzanite
 tao
 tapaderos
+taped
 tapeless
 tapenades
 tapetal
@@ -11558,6 +11587,7 @@ tetracycline
 tetradic
 tetrahedrally
 tetrarchic
+tetraspores
 tetrazoliums
 tetrode
 textbooks
@@ -11825,6 +11855,7 @@ transmittances
 transmitters
 transplantable
 transshipment
+transsonic
 transude
 transvalue
 trapesing
@@ -12417,6 +12448,7 @@ vapoured
 varicoceles
 varicose
 variedly
+variety
 variousness
 varnas
 varnishy
@@ -12596,6 +12628,7 @@ voodooism
 voraciousness
 vorlages
 vorticist
+vorticity
 voudoun
 vox
 vugh
@@ -12864,6 +12897,7 @@ worsting
 worsts
 worthlessly
 wove
+wrackful
 wrangle
 wrap
 wrapped
@@ -12890,6 +12924,7 @@ wyandotte
 xantheins
 xanthone
 xenia
+xenophobia
 xenophobic
 xerophilous
 xerophily
