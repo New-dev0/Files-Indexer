@@ -1,0 +1,2 @@
+PSToolbelt/Edit-FileHex.ps1 at master · scrthq/PSToolbelt · GitHub,https://github.com/scrthq/PSToolbelt/blob/master/Public/Edit-FileHex.ps1
+function Edit-FileHex { Param ( [parameter(Mandatory=$true ...,https://raw.githubusercontent.com/nferrell/PSToolbelt/master/Public/Edit-FileHex.ps1
