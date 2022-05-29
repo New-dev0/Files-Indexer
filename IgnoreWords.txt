@@ -1357,6 +1357,7 @@ brickbat
 bridling
 brief
 briefcase
+bries
 brigaded
 brightwork
 brilliants
@@ -2506,6 +2507,7 @@ counselings
 counterdemands
 countereffort
 counterfeiting
+counterflow
 counterordering
 counterpart
 counterplan
@@ -2680,6 +2682,7 @@ cumbered
 cumbersomeness
 cumulates
 cumulations
+cuneatic
 cunning
 cupboard
 cuprous
@@ -3030,6 +3033,7 @@ deposal
 deposed
 depositing
 deprecatingly
+depreciates
 depreciation
 depresses
 depressive
@@ -3443,6 +3447,7 @@ drawer
 drawknives
 drawshave
 drawstring
+drawtube
 dray
 drays
 dreadfully
@@ -3903,6 +3908,7 @@ estrums
 etamins
 eternalizing
 eterne
+eternised
 ethanolamine
 ethnographers
 ethnologies
@@ -4077,6 +4083,7 @@ fagoting
 fagots
 faineance
 faint
+fairishly
 fairleaders
 fairway
 faiths
@@ -4243,6 +4250,7 @@ fireproofs
 fireside
 firing
 firm
+firmnesses
 fishermen
 fisheye
 fishhook
@@ -4463,6 +4471,7 @@ fourragere
 fourteeners
 fovea
 foveate
+foveoles
 foveolet
 foxier
 foxtail
@@ -4748,6 +4757,7 @@ gigged
 gigolos
 gilt
 gimballing
+gimlets
 gimmick
 gingeley
 gingelies
@@ -5167,6 +5177,7 @@ hebephrenic
 heckles
 hectare
 hectares
+hedgehops
 hedonic
 hedonist
 heeder
@@ -5338,6 +5349,7 @@ honeworts
 honeycombing
 honeydew
 honeys
+honeysuckle
 hongied
 honorableness
 honorand
@@ -6909,6 +6921,7 @@ menazon
 mend
 menisci
 menorrhea
+menstruations
 mensurations
 mental
 mentalist
@@ -7323,6 +7336,7 @@ mouthwash
 mouthy
 moving
 moviola
+mow
 moxie
 mozos
 mozzetta
@@ -8076,6 +8090,7 @@ overdrawn
 overdrinking
 overdrives
 overdyeing
+overedited
 overemotional
 overemphasizing
 overencouraged
@@ -8313,6 +8328,7 @@ partygoers
 parvis
 pashalik
 passageworks
+passementerie
 passerines
 passivations
 passivity
@@ -8695,6 +8711,7 @@ pizzalike
 placated
 placates
 placatory
+placements
 placentals
 placentation
 placid
@@ -8862,6 +8879,7 @@ pornographies
 porpoise
 port
 portabellas
+porterage
 portieres
 posited
 possessednesses
@@ -9183,6 +9201,7 @@ prospects
 prosperities
 prost
 prostate
+prostatectomies
 prostatism
 protectiveness
 protectress
@@ -9250,6 +9269,7 @@ pulsed
 pulvillus
 pumicing
 pumicites
+pumpers
 pumping
 puncher
 punchinellos
@@ -9512,6 +9532,7 @@ rebuking
 rebutters
 recalculated
 recalls
+recanalizes
 recanting
 recapitulations
 recapped
@@ -9660,6 +9681,7 @@ refloat
 reflooding
 refluxed
 refly
+refocusing
 reforesting
 reforests
 reformulating
@@ -9785,6 +9807,7 @@ remote
 remotivates
 removeable
 remudas
+remunerators
 renail
 renascent
 renatures
@@ -10161,6 +10184,7 @@ sacheted
 sackbuts
 sacrilege
 sacrums
+saddlebred
 saddlecloths
 sades
 sadisms
@@ -10293,6 +10317,7 @@ scalpers
 scammed
 scampish
 scandal
+scandalise
 scandalousness
 scantiest
 scare
@@ -11168,6 +11193,7 @@ standoffs
 standpoint
 standpoints
 stanged
+stanks
 stannic
 stannites
 stanzas
@@ -11419,6 +11445,7 @@ subsidiarity
 subsidization
 subsister
 subskill
+subsoiler
 subspecializes
 substantivizing
 substate
@@ -11650,6 +11677,7 @@ taconite
 tact
 taction
 tacts
+tactually
 taels
 tagliatelles
 tailbone
@@ -11798,6 +11826,7 @@ terne
 terneplates
 terra
 terraces
+terrella
 territorial
 territorials
 terrorisms
@@ -12177,6 +12206,7 @@ trochilus
 trocked
 troke
 trolley
+trolleybuses
 tronas
 trophies
 tropomyosin
@@ -12263,6 +12293,7 @@ twilling
 twinkles
 twittery
 twofold
+twosome
 tyin
 tympanic
 tympanist
@@ -12282,6 +12313,7 @@ ubiquitous
 udometer
 ufologies
 uitlanders
+ukeleles
 ulnad
 ulpanim
 ultimacies
@@ -12477,6 +12509,7 @@ unilingual
 unillusioned
 unilobed
 unimportant
+uninstructed
 uninterests
 unionizers
 unipods
@@ -12805,6 +12838,7 @@ villas
 vimen
 vina
 vincible
+vindictive
 vindictiveness
 vined
 vinosity
@@ -13206,6 +13240,7 @@ yellowtail
 yellowthroat
 yelper
 yente
+yeomen
 yes
 yesses
 yeti
