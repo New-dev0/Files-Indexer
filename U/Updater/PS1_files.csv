@@ -1,0 +1,6 @@
+selenium-powershell/Selenium-Binary-Updater.ps1 at master - GitHub,https://github.com/adamdriscoll/selenium-powershell/blob/master/Selenium-Binary-Updater.ps1
+Cloud-GPU-Updater/Updater.ps1 at master · parsec-cloud ... - GitHub,https://github.com/parsec-cloud/Cloud-GPU-Updater/blob/master/Updater.ps1
+Selenium-Binary-Updater.ps1 2.3.1 - PowerShell Gallery,https://www.powershellgallery.com/packages/Selenium/2.3.1/Content/Selenium-Binary-Updater.ps1
+windows-updater-using-WUA-API.ps1 1.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/windows-updater-using-WUA-API/1.0/Content/windows-updater-using-WUA-API.ps1
+Start-Transcript update.log | Out-Null # アップデートチャンネル ...,https://raw.githubusercontent.com/anoyetta/ACT.Hojoring/master/source/ACT.Hojoring.Updater/update_hojoring.ps1
+"param([switch]$InstallTask, [switch]$UninstallTask, [switch ...",https://raw.githubusercontent.com/hatharry/Emby.ServerUpdater/master/EmbyServiceUpdater.ps1

@@ -1,0 +1,7 @@
+gi|399346|sp|Q03030|DCOA_SALTY OXALOACETATE ...,http://people.biology.ucsd.edu/nyang/text/3.0/3.B/3.B.01.01/3.B.01.01.s01_FASTA.txt
+ID 1.1.1.40 DE Malate dehydrogenase (oxaloacetate ...,https://enzyme.expasy.org/EC/1.1.1.40.txt
+-REACTIONS 1 : D-Glucose[Extracellular] 0.67 beta-D-Glucose ...,http://biomet-toolbox.chalmers.se/models/rxnGene/ANIGER_RXNS.txt
+-REACTIONS AAC1 : ADP[C] + phosphate[C] + ATP[Mitochondrion ...,http://biomet-toolbox.chalmers.se/models/rxnGene/iRL766_RXNS.txt
+KINETIC AND THERMODYNAMIC CONTRIBUTIONS TO AN ...,https://thescholarship.ecu.edu/bitstream/10342/5890/7/WESTERHOLD-MASTERSTHESIS-2016.pdf.txt
+Reactant Enzyme Product Location1 Location2 OXALOACETATE ...,http://bioschool.iitd.ac.in/NeuroDNet/DB_SBML/pathway/Path0017_TCA_cycle.txt
+ss00409 PyK Pyruvate kinase (EC 2.7.1.40) ss00409 PpS ...,https://sequedex.readthedocs.io/en/latest/_downloads/si_0077.txt
