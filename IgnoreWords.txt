@@ -519,6 +519,7 @@ apperceived
 appestats
 appetisers
 appetising
+appetitive
 appetizingly
 applesauces
 applicator
@@ -1209,6 +1210,7 @@ bopeep
 bordure
 bored
 borking
+borneol
 borrows
 borzoi
 boshvarks
@@ -1794,6 +1796,7 @@ childlessnesses
 chiliast
 chillest
 chiltepin
+chiltepins
 chimbleys
 chimeras
 chimere
@@ -1823,6 +1826,7 @@ chlorobenzene
 chloroformed
 chloroplastic
 chloroprene
+chlorpromazine
 chock
 chocoholics
 chokecherry
@@ -2238,6 +2242,7 @@ congealments
 congelation
 conglutination
 congresspersons
+conical
 conidiophores
 conjectures
 conjoiner
@@ -2916,6 +2921,7 @@ derepressions
 derided
 dermas
 dermatoglyphics
+derms
 derry
 desalinizing
 descanted
@@ -3033,6 +3039,7 @@ diffusiveness
 diffusivenesses
 diffusor
 digamies
+digamma
 digenesis
 digitoxins
 digressively
@@ -3247,6 +3254,7 @@ dorky
 dormice
 dormins
 dornocks
+dorsals
 dorsers
 dorsiventral
 dorsiventrality
@@ -4200,6 +4208,7 @@ foolproof
 footballs
 footboy
 footcloths
+footdraggers
 footle
 footlockers
 footmen
@@ -4568,6 +4577,7 @@ glasspapered
 glasspapers
 glasswork
 glaucous
+gleeked
 gleesome
 glibber
 glibness
@@ -4745,6 +4755,7 @@ grunions
 gruntled
 grutching
 guardedly
+guardhouses
 guayule
 guerdons
 guesting
@@ -4919,6 +4930,7 @@ hearkeners
 heartbreaker
 heartening
 hearths
+heartsome
 heatable
 heater
 heathbird
@@ -5000,6 +5012,7 @@ heterodoxies
 heterokaryons
 heterokaryoses
 heterologously
+heterolysis
 heterophile
 heteroploid
 heteroploids
@@ -5166,6 +5179,7 @@ humitures
 humorlessly
 humouring
 hump
+humpless
 hunched
 huntsman
 hurdled
@@ -5826,6 +5840,7 @@ judoka
 jugsful
 jugula
 juicer
+jujube
 juking
 julienned
 jumpers
@@ -6489,6 +6504,7 @@ masculinity
 masjids
 masochistically
 mass
+massa
 massacred
 massacrers
 massifs
@@ -7221,6 +7237,7 @@ niftily
 nightmarish
 nightshade
 nightspots
+nightstands
 nighttime
 nighty
 nihilists
@@ -7342,6 +7359,7 @@ nonsocialist
 nonstarter
 nonsteady
 nonsuiting
+nontechnical
 nontherapeutic
 nontobacco
 nontotalitarian
@@ -7387,6 +7405,7 @@ numerologies
 numerousness
 nuptialities
 nurling
+nurls
 nutmeg
 nutritives
 nystagmic
@@ -7860,6 +7879,7 @@ palmation
 palmer
 palmitins
 palmyra
+palpi
 palsies
 palter
 paltered
@@ -8271,6 +8291,7 @@ pinchbug
 pinesaps
 pinfolded
 pinguid
+pinheadedness
 pinier
 piniest
 pinpoints
@@ -8573,6 +8594,7 @@ predestinations
 predestinators
 predestining
 predetermine
+predevelopment
 predicates
 predictably
 prednisolones
@@ -8877,6 +8899,7 @@ pushes
 pusillanimity
 pussyfoot
 putrescence
+putridity
 putridly
 putsches
 puttees
@@ -9083,7 +9106,9 @@ reattachment
 reattachments
 reattempted
 reavers
+rebaptisms
 rebegin
+rebelling
 reblended
 rebloomed
 rebodies
@@ -9461,6 +9486,7 @@ restatements
 restationed
 restaurants
 restaurateur
+restfulness
 restock
 restocks
 restrainer
@@ -9484,6 +9510,7 @@ retexturing
 rethinkers
 reticulately
 reticulation
+reticulum
 reticulums
 retighten
 retiled
@@ -9929,12 +9956,14 @@ scrootching
 scrouging
 scroungiest
 scruffy
+scrutinises
 scrying
 scuba
 scubas
 sculled
 sculls
 sculped
+scummer
 scunnered
 scuppaugs
 scurviest
@@ -10942,6 +10971,7 @@ subverters
 subwriter
 succeeds
 successful
+successional
 succours
 succubi
 suckle
@@ -10961,6 +10991,7 @@ suite
 suiters
 suitors
 sulfitic
+sulfonamides
 sulfuryls
 sulphides
 sulphurise
@@ -11673,6 +11704,7 @@ truculently
 truism
 truncating
 truncations
+truss
 trustinesses
 truthfully
 tryptamines
@@ -11727,6 +11759,7 @@ tussehs
 tussis
 tussocks
 tutorage
+tutorages
 tutored
 tutties
 tutting
@@ -11797,6 +11830,7 @@ unarmed
 unaspirated
 unattractively
 unbacked
+unbenign
 unbitted
 unblended
 unbloody
@@ -12698,6 +12732,7 @@ zings
 zippering
 zizzle
 zoarium
+zocalos
 zoecia
 zonary
 zonetimes
