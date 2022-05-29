@@ -494,6 +494,7 @@ antismut
 antisnob
 antisocialists
 antistory
+antistudent
 antitax
 antitrade
 antitragi
@@ -910,6 +911,7 @@ battlers
 battue
 bawtie
 bayberry
+bays
 beach
 beachside
 beading
@@ -2653,6 +2655,7 @@ cruciform
 cruisers
 crumby
 crumhorns
+crummies
 crumminesses
 crump
 crumpet
@@ -3176,6 +3179,7 @@ didact
 didacticism
 didacticisms
 didjeridoo
+die
 dieselizing
 diesters
 diestocks
@@ -3196,6 +3200,7 @@ digressively
 dilation
 dilatometers
 dilatoriness
+dilettantisms
 diligently
 diluting
 dilutor
@@ -3659,6 +3664,7 @@ electors
 electroacoustic
 electroanalysis
 electrocuted
+electrodeposits
 electrograms
 electroless
 electrometer
@@ -3929,6 +3935,7 @@ estranger
 estreats
 estrums
 etamins
+eternal
 eternalizing
 eterne
 eternised
@@ -4231,6 +4238,7 @@ fibromatous
 fibrous
 fiches
 fickly
+fiddlehead
 fiduciary
 fieldfare
 fiend
@@ -4352,12 +4360,14 @@ flocculate
 flocculations
 floccule
 flockier
+flokati
 flooding
 floodlighted
 floorshow
 flopover
 floppers
 floras
+floriated
 floricane
 floruits
 flossie
@@ -4387,6 +4397,8 @@ flurry
 flushable
 flusteredly
 flutterboard
+flutterer
+flutterers
 fluviatile
 fluxional
 fluyts
@@ -6593,6 +6605,7 @@ loges
 logged
 loggia
 logicalities
+logicalnesses
 logicizing
 logics
 logjam
@@ -6809,6 +6822,7 @@ maraca
 marblers
 marbly
 marchese
+margarites
 margays
 marginalizing
 marguerite
@@ -7241,6 +7255,7 @@ mofette
 mofettes
 moffette
 moggies
+mohawk
 moidore
 moire
 molar
@@ -7791,6 +7806,7 @@ numerousness
 nuptialities
 nurling
 nurls
+nursemaid
 nutmeg
 nutritives
 nuzzlers
@@ -7855,6 +7871,7 @@ odiousnesses
 odiums
 odonates
 odorants
+odyles
 oedemata
 oeillade
 oersteds
@@ -7911,6 +7928,7 @@ oomphs
 oophytes
 ooziest
 opalescent
+opalesces
 opaquer
 ope
 openable
@@ -8135,6 +8153,7 @@ overdyeing
 overedited
 overemotional
 overemphasizing
+overemphatic
 overencouraged
 overestimated
 overevaluations
@@ -8419,6 +8438,7 @@ peacekeeper
 peached
 peachy
 peafowl
+peakless
 peaky
 pealike
 pearlescence
@@ -8461,6 +8481,7 @@ pendulum
 peneplain
 penetrability
 penetrable
+penetrated
 penetrates
 penetrometers
 penicillin
@@ -8669,6 +8690,7 @@ pianissimi
 piastre
 picadillos
 picaroon
+picholine
 picholines
 pick
 pickaback
@@ -9299,6 +9321,7 @@ publicized
 publicizes
 publisher
 pucker
+puckered
 puckish
 pudibund
 puerperae
@@ -9792,6 +9815,7 @@ reignited
 reimaging
 reimportation
 reimports
+reindustrialize
 reinflames
 reinforming
 reinspecting
@@ -9960,6 +9984,7 @@ resounded
 resowed
 respecify
 respecifying
+respectfully
 respecting
 respelt
 respirometry
@@ -9981,6 +10006,7 @@ restrainer
 restraints
 restressed
 restrictionisms
+rests
 restudies
 restyling
 resubmitted
@@ -10152,6 +10178,7 @@ rockhounds
 rodents
 roe
 roger
+roguing
 roguishnesses
 rolfer
 rollways
@@ -10340,6 +10367,7 @@ satays
 satem
 satiating
 satirists
+satisfiable
 satisfier
 satisfies
 saturable
@@ -10522,6 +10550,7 @@ seepages
 seeped
 seepiest
 seicento
+seidels
 seine
 seining
 seise
@@ -11019,6 +11048,7 @@ solubilizing
 solus
 solvate
 solves
+somatically
 somatomedin
 sombreros
 some
@@ -11036,6 +11066,7 @@ sooty
 sophomore
 soppinesses
 sora
+sorbabilities
 sorbitol
 soricine
 sorners
@@ -11383,6 +11414,7 @@ stringcourses
 stringhalts
 stringily
 strings
+striped
 stripeless
 strobes
 strobila
@@ -12394,6 +12426,7 @@ umami
 umbo
 umbones
 umbrageously
+umlauting
 umping
 umteenth
 unabsorbed
@@ -12434,6 +12467,7 @@ uncapped
 uncaptioned
 uncase
 uncataloged
+uncaused
 unchain
 unchairs
 unchallengeable
@@ -12805,6 +12839,7 @@ vatus
 vaudevillians
 vaultiest
 vaunted
+vaunters
 vavs
 vaw
 vealy
