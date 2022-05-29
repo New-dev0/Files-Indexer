@@ -59,6 +59,7 @@ acceded
 accedences
 accept
 accepter
+accessible
 acclamations
 acclimatizer
 acclimatizes
@@ -254,6 +255,7 @@ alkalified
 alkalise
 alkalized
 alkalizing
+alkyds
 allee
 allegorize
 allergenic
@@ -330,6 +332,7 @@ amperes
 ampersand
 amphibians
 amphibole
+amphidiploidies
 amphiploids
 amphiprostyles
 amphisbaenas
@@ -385,6 +388,7 @@ angiogram
 angler
 anglicism
 angosturas
+angulations
 ani
 animadverts
 animalian
@@ -1615,6 +1619,7 @@ carrottop
 carryout
 carted
 cartelising
+cartelize
 carthorses
 cartographers
 cartwheeling
@@ -1631,6 +1636,7 @@ casque
 casques
 cassenas
 cassenes
+cassino
 castable
 castaways
 caste
@@ -2049,6 +2055,7 @@ cockspur
 cockup
 cocoon
 cocounseling
+cocounselled
 cocoyams
 cocultivated
 cocurators
@@ -2634,6 +2641,7 @@ curule
 curvature
 curveting
 cusped
+cuspids
 cuspis
 cussers
 custodian
@@ -2785,6 +2793,7 @@ decimates
 deckers
 declaimer
 declared
+declaw
 decocts
 decollating
 decomposability
@@ -3159,6 +3168,7 @@ disentitled
 diseur
 disfigure
 disgraced
+disgruntlement
 dishabille
 dishclouts
 dishful
@@ -3833,6 +3843,7 @@ exahertz
 examinee
 exanimate
 exanthema
+exanthemata
 except
 exceptionalisms
 excerpt
@@ -4198,6 +4209,7 @@ flowerers
 flowerful
 flubbed
 flubber
+flued
 fluffer
 fluidises
 fluidity
@@ -4531,6 +4543,7 @@ gauffers
 gauging
 gavel
 gaveled
+gavot
 gawpers
 gaydar
 gaynesses
@@ -5743,6 +5756,7 @@ involve
 inwall
 inwards
 inwove
+iodate
 iodinates
 iodizers
 iolite
@@ -6362,6 +6376,7 @@ longicorns
 longish
 longitudinally
 longship
+looby
 looming
 looninesses
 loopinesses
@@ -6498,6 +6513,7 @@ malacological
 maladjustment
 maladministers
 malanga
+malaromas
 maleficences
 malemiut
 malfeasance
@@ -7030,6 +7046,7 @@ monorchid
 monosyllable
 monosynaptic
 monotheist
+monotheistic
 monotints
 monotonically
 monovular
@@ -7177,6 +7194,7 @@ mutined
 muzzler
 myalgia
 mycelia
+mycelium
 mycetomas
 mycobacterium
 mycoflorae
@@ -7198,6 +7216,7 @@ mystique
 mythicize
 mythiest
 myxoma
+nabbing
 nabobish
 nacho
 nailbiters
@@ -7496,6 +7515,7 @@ nurling
 nurls
 nutmeg
 nutritives
+nuzzlers
 nystagmic
 obdurateness
 obeah
@@ -7721,6 +7741,7 @@ outburn
 outcapering
 outcatches
 outcatching
+outcaught
 outcharm
 outcry
 outdancing
@@ -7859,6 +7880,7 @@ overmine
 overmined
 overpass
 overpay
+overproduction
 overprograming
 overprotect
 overreacher
@@ -8093,6 +8115,7 @@ pauperize
 pavisses
 pawing
 pawl
+pawnbroker
 pawning
 pazazzes
 peacekeeper
@@ -8891,6 +8914,7 @@ proprietorships
 proptoses
 prosaisms
 prose
+prosecution
 proselytising
 prosoma
 prosopopoeia
@@ -9216,6 +9240,7 @@ reblended
 rebloomed
 rebodies
 rebought
+rebranching
 rebreed
 rebuker
 rebuking
@@ -9915,6 +9940,7 @@ sandaling
 sandals
 sandbagging
 sandbags
+sandblasted
 sandiest
 sands
 sandstorm
@@ -10197,6 +10223,7 @@ sergeancy
 serger
 sericulturists
 seriousnesses
+seronegativity
 serosas
 serotine
 serpents
@@ -10204,6 +10231,7 @@ serpiginously
 servable
 servants
 served
+servicing
 servitudes
 sesquiterpene
 sestertium
@@ -10999,6 +11027,7 @@ stylizing
 stylography
 stylolites
 stylus
+styluses
 styptics
 suability
 suable
@@ -11128,6 +11157,7 @@ sundowning
 sundrops
 sunket
 sunlands
+sunnily
 sunproof
 sunroofs
 superadds
@@ -11400,6 +11430,7 @@ television
 televisor
 telex
 tellable
+telome
 telomere
 telophases
 telotaxis
@@ -12289,6 +12320,7 @@ usuriousnesses
 uteruses
 utilitarianism
 uvarovite
+uvulars
 vacant
 vaccinas
 vaccinia
@@ -12312,6 +12344,7 @@ vantage
 vapidness
 vaporer
 vaporetto
+vaporizing
 vaporous
 vapoured
 varicoceles
@@ -12638,6 +12671,7 @@ whitherward
 whities
 whitish
 whizzy
+whodunits
 wholesome
 whoopee
 whorishly
@@ -12721,6 +12755,7 @@ wonkiest
 wonky
 wonted
 woo
+woodchoppers
 woodcutting
 woodennesses
 woodgrains
