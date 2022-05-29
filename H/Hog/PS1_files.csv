@@ -1,0 +1,3 @@
+Framework/Models/AzSKEvent.ps1 1.4.2 - PowerShell Gallery Test,https://www.poshtestgallery.com/packages/AzSKStaging.ADO/1.4.2/Content/Framework%255CModels%255CAzSKEvent.ps1
+Invoke-Mimikatz.ps1 - GitHub,https://raw.githubusercontent.com/mattifestation/PowerSploit/master/Exfiltration/Invoke-Mimikatz.ps1
+function Invoke-Mimikatz { <# .SYNOPSIS This script leverages ...,https://raw.githubusercontent.com/justin-p/Empire/master/data/module_source/credentials/Invoke-Mimikatz.ps1
