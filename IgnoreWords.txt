@@ -798,6 +798,7 @@ backouts
 backrushes
 backset
 backsets
+backshore
 backslapper
 backspace
 backstage
@@ -1184,6 +1185,7 @@ blumed
 blunderbusses
 blunger
 boarder
+boatnecks
 boatsmen
 bobolinks
 bobsleigh
@@ -1816,6 +1818,7 @@ chattered
 chauffeur
 chauffeured
 chawer
+cheapened
 cheapness
 cheapskates
 checkbooks
@@ -2324,6 +2327,7 @@ consequential
 consequentially
 conservatisms
 conservatizing
+considerably
 consign
 consisted
 consistences
@@ -2680,6 +2684,7 @@ curtest
 curule
 curvature
 curveting
+curvetted
 cusped
 cuspids
 cuspis
@@ -2766,6 +2771,7 @@ darbies
 darbs
 daredeviltries
 daric
+dark
 darken
 darkener
 darkies
@@ -2989,6 +2995,7 @@ deployers
 deployments
 depolarization
 depoliticize
+depoliticizes
 depolymerizing
 deportable
 deposal
@@ -3206,6 +3213,7 @@ discordant
 discos
 discoursed
 discriminant
+discussions
 disdainfulness
 disease
 disembarrassing
@@ -3746,6 +3754,7 @@ entrenched
 entropic
 enumerate
 envelopment
+envelopments
 envelops
 envenomed
 enviers
@@ -4072,6 +4081,7 @@ fatshedera
 fatsoes
 fattens
 fattest
+fauces
 faucet
 faucial
 fault
@@ -4192,10 +4202,12 @@ fisheye
 fishhook
 fishhooks
 fishmongers
+fissiped
 fitches
 fitchets
 fitters
 fittingnesses
+fixations
 fixed
 fizgig
 fizzers
@@ -4254,6 +4266,7 @@ floatages
 floatation
 floaty
 flocculate
+flocculations
 floccule
 flockier
 flooding
@@ -4356,6 +4369,7 @@ forejudge
 forejudges
 foremanship
 forepaw
+forequarter
 foreseeability
 foreseer
 foreskin
@@ -4702,6 +4716,7 @@ glamorised
 glamorizers
 glamorousness
 glandular
+glaring
 glary
 glassblowing
 glassily
@@ -4941,6 +4956,7 @@ gynecomastia
 gypsydoms
 gyrofrequency
 gyrostats
+habdalahs
 habiliment
 habilitated
 habitan
@@ -5054,6 +5070,7 @@ hawsers
 hayfork
 hayforks
 hays
+hazier
 haziest
 hazinesses
 headcheeses
@@ -5102,6 +5119,7 @@ heinously
 heister
 helicoidal
 heliconia
+heliolatries
 helios
 heliostat
 heliotrope
@@ -5277,6 +5295,7 @@ hoovers
 hope
 hopsacking
 hopsacks
+hoptoad
 horehound
 horniest
 horninesses
@@ -5334,6 +5353,7 @@ humorlessly
 humouring
 hump
 humpless
+hunch
 hunched
 huntsman
 hurdled
@@ -5457,6 +5477,7 @@ imager
 imaginary
 imamates
 imbalm
+imbedding
 imboldens
 imbower
 immaculately
@@ -5620,6 +5641,7 @@ inertially
 inexcusably
 inexpedience
 inexpensive
+infallibility
 infancies
 infantilization
 infantilize
@@ -5777,6 +5799,7 @@ intersession
 intersex
 intersexual
 interstation
+intersterile
 interstitially
 intertwine
 intertwines
@@ -6703,6 +6726,7 @@ massifs
 massivenesses
 master
 masterlinesses
+masterminded
 masterpieces
 masters
 masticate
@@ -7079,6 +7103,7 @@ models
 moderately
 modern
 modernes
+modernising
 modernly
 modifications
 modistes
@@ -9428,6 +9453,7 @@ recooked
 recoupe
 recreancy
 recreating
+recrowning
 recrudescences
 recruiter
 rectification
@@ -9765,6 +9791,7 @@ restrainer
 restraints
 restressed
 restrictionisms
+restudies
 restyling
 resubmitted
 resultant
@@ -9789,6 +9816,7 @@ retighten
 retiled
 retinacula
 retinoid
+retinting
 retinue
 retirees
 retool
@@ -9935,6 +9963,7 @@ roger
 roguishnesses
 rolfer
 rollways
+romanos
 romans
 romanticize
 rondeaux
@@ -10175,6 +10204,7 @@ schizophrenics
 schlump
 schmoes
 schmoose
+schmoozers
 schnauzer
 scholarships
 scholasticates
@@ -10363,6 +10393,7 @@ seraphims
 sergeancy
 serger
 sericulturists
+serifed
 seriousnesses
 seronegativity
 serosas
@@ -11085,6 +11116,7 @@ stills
 stingless
 stipplings
 stipulate
+stitchery
 stob
 stoccata
 stockading
@@ -11170,6 +11202,7 @@ stulls
 stumper
 stumpiest
 stunner
+stuntednesses
 stuntman
 sturdier
 stylar
@@ -11839,6 +11872,7 @@ top
 tope
 topful
 tophe
+toploftiness
 topmost
 topographers
 topographical
@@ -12591,6 +12625,7 @@ vernissage
 versal
 versatileness
 verso
+versts
 verticality
 vertigoes
 vesiculae
