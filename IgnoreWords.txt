@@ -707,6 +707,7 @@ assumer
 assuming
 assumption
 astarboard
+asterias
 asternal
 asthenosphere
 asthenospheres
@@ -901,6 +902,7 @@ baritone
 barium
 barmaid
 barman
+barnstorming
 barny
 barograph
 barographic
@@ -2254,6 +2256,7 @@ collators
 collectivise
 collectivist
 collectivistic
+collectivities
 collectorship
 collegers
 collegial
@@ -2831,6 +2834,7 @@ custodian
 custody
 customhouses
 customizer
+customizes
 customs
 cutability
 cutches
@@ -3616,6 +3620,7 @@ drolling
 drones
 drongos
 drooliest
+droopy
 dropkick
 droppable
 droppings
@@ -3628,6 +3633,7 @@ drown
 drownding
 drowns
 drowses
+drowsiness
 drowsinesses
 drub
 drubbings
@@ -4461,6 +4467,7 @@ flagitiously
 flagships
 flagstaffs
 flagstick
+flail
 flakier
 flaky
 flamboyances
@@ -4526,6 +4533,7 @@ flouted
 flowed
 flowerers
 flowerful
+flowingly
 flubbed
 flubber
 flued
@@ -4714,6 +4722,7 @@ frenula
 frenums
 frequentation
 freshening
+fresher
 freshes
 freshman
 fret
@@ -4741,6 +4750,7 @@ froghoppers
 froglets
 froglike
 fronds
+frontpage
 frontpaging
 frostfish
 frostiness
@@ -4925,6 +4935,7 @@ gentler
 genua
 geobotanists
 geodesies
+geoids
 geologic
 geologist
 geologize
@@ -4947,6 +4958,7 @@ ghastlinesses
 ghastly
 ghettoes
 ghosted
+ghostwriting
 ghoulishness
 ghouls
 giantisms
@@ -6228,6 +6240,7 @@ ischaemia
 isinglass
 island
 islander
+isocaloric
 isocarboxazid
 isochimes
 isochrone
@@ -6305,6 +6318,7 @@ jelly
 jemidars
 jemmy
 jeopardised
+jerseyed
 jessamine
 jesters
 jesting
@@ -6475,6 +6489,7 @@ kinematically
 kinematics
 kingbirds
 kingside
+kinkajou
 kippered
 kipperers
 kipskins
@@ -6592,6 +6607,7 @@ laryngals
 larynges
 laryngitis
 laryngoscopes
+lassoes
 lastings
 lasts
 latches
@@ -7740,6 +7756,7 @@ myxoma
 nabbing
 nabobish
 nacho
+naevi
 nailbiters
 nailed
 nailer
@@ -8516,6 +8533,7 @@ oxygenic
 oxyphiles
 oystercatcher
 ozonations
+pachinko
 pachyderms
 pacifical
 pacification
@@ -8848,6 +8866,7 @@ pessary
 pestiferousness
 pestle
 pests
+pesty
 petaloid
 petechia
 petiteness
@@ -9008,6 +9027,7 @@ pinguid
 pinheadedness
 pinier
 piniest
+pinnace
 pinpoints
 pins
 pinschers
@@ -9508,6 +9528,7 @@ proglottid
 progression
 progressivists
 project
+projectable
 projectionists
 projects
 prolans
@@ -9675,6 +9696,7 @@ puttees
 puttying
 pycnosis
 pycnotic
+pyelonephritis
 pyknics
 pyorrheas
 pyramid
@@ -10526,6 +10548,7 @@ rotls
 rouches
 roughcasting
 roughdry
+roughed
 roundhouse
 roundlet
 roundnesses
@@ -10890,6 +10913,7 @@ seise
 seismological
 seisms
 selcouth
+selective
 selectiveness
 selectivities
 selectly
@@ -11793,6 +11817,7 @@ struggled
 strummer
 stubborn
 stuccoer
+stuccoworks
 studiers
 studio
 studlier
@@ -11847,6 +11872,7 @@ subdominant
 subdual
 subduce
 subduced
+subduers
 subeditors
 subfixes
 subfreezing
@@ -11861,6 +11887,7 @@ subitems
 subjacent
 subjectivised
 subjugator
+sublated
 sublessee
 sublibrarians
 sublimate
@@ -12233,6 +12260,7 @@ teg
 tektites
 telecaster
 telecasts
+teleconferences
 telegraphically
 teleological
 teleology
@@ -12310,6 +12338,7 @@ testaceans
 testees
 testing
 testudines
+testudo
 tetherballs
 tetracycline
 tetradic
@@ -12351,6 +12380,7 @@ thermograph
 thermopile
 thermoregulate
 thermoregulated
+thermoses
 thermotropisms
 theropods
 theses
@@ -12421,6 +12451,7 @@ ticklishnesses
 tictac
 tictacking
 tidbit
+tidemarks
 tiebreaks
 tierced
 tiering
@@ -12983,6 +13014,7 @@ ungulate
 unhallow
 unhandsome
 unhanging
+unharmed
 unhatched
 unhealthinesses
 unheroic
@@ -13019,6 +13051,7 @@ unjamming
 unjustness
 unjustnesses
 unkindness
+unlace
 unlaces
 unladen
 unlashes
@@ -13344,10 +13377,12 @@ villanelle
 villas
 vimen
 vina
+vinal
 vincible
 vindictive
 vindictiveness
 vined
+vinegarish
 vinosity
 violoncellists
 viols
