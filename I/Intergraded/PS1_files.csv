@@ -1,0 +1,6 @@
+Learn-PowerShell-Code-Examples/EP4 - PowerhShell ... - GitHub,https://github.com/techthoughts2/Learn-PowerShell-Code-Examples/blob/master/LearnPowerShell/EP4%2520-%2520PowerhShell%2520Development.ps1
+Tests/Integration/MSFT_WinsSetting.Integration.Tests.ps1 7.3.0.0,https://www.powershellgallery.com/packages/NetworkingDsc/7.3.0.0/Content/Tests%255CIntegration%255CMSFT_WinsSetting.Integration.Tests.ps1
+Tests/Integration/MSFT_NetAdapterRdma.Integration.Tests.ps1 7.3.0.0,https://www.powershellgallery.com/packages/NetworkingDsc/7.3.0.0/Content/Tests%255CIntegration%255CMSFT_NetAdapterRdma.Integration.Tests.ps1
+Tests/Integration/BMD_cFSRMFileScreenTemplateAction ...,https://psg-prod-centralus.cloudapp.net/packages/cFSRM/2.0.1.48/Content/Tests%255CIntegration%255CBMD_cFSRMFileScreenTemplateAction.Integration.Tests.ps1
+Tests/Integration/MSFT_xDisk.Integration.Tests.ps1 2.9.0.0,https://psg-prod-centralus.cloudapp.net/packages/xStorage/2.9.0.0/Content/Tests%255CIntegration%255CMSFT_xDisk.Integration.Tests.ps1
+Tests/Integration/MSFT_SqlServerEndPoint.config.ps1 13.1.0.0,https://40.87.85.101/packages/SqlServerDsc/13.1.0.0/Content/Tests%255CIntegration%255CMSFT_SqlServerEndPoint.config.ps1
