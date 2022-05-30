@@ -1,0 +1,1 @@
+WSL setup options [CmdletBinding()] param ( # desired wsl user ...,https://raw.githubusercontent.com/justinsantoro/dev-env-setup/main/setup.ps1
