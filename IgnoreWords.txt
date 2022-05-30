@@ -43,6 +43,7 @@ absorb
 absorbant
 absterge
 abstinences
+abstinently
 abstracted
 abstracting
 abstractions
@@ -170,6 +171,7 @@ aerosolizing
 affaires
 affectivities
 affidavits
+affinity
 affirm
 affirmable
 affirmants
@@ -463,6 +465,7 @@ antiars
 antibiotically
 antiburglar
 antically
+anticlines
 anticyclone
 antiepilepsy
 antifascisms
@@ -576,6 +579,7 @@ approximations
 appulses
 apropos
 apsides
+apt
 aptest
 aptitudinal
 aquacultural
@@ -796,6 +800,7 @@ aweigh
 awing
 awnings
 axially
+axil
 axilla
 axisymmetry
 axseed
@@ -1270,6 +1275,7 @@ bombshell
 bombycids
 bonding
 bone
+bonehead
 bongoes
 bonnocks
 bonspells
@@ -1454,6 +1460,7 @@ bryozoans
 bubbled
 bubkes
 bubo
+buckaroos
 buckbrushes
 bucket
 buckled
@@ -1817,6 +1824,7 @@ centrosymmetric
 centupling
 ceps
 ceraceous
+cerebroside
 cered
 ceremonialism
 cerises
@@ -2194,6 +2202,7 @@ cognations
 cognitional
 cognizing
 cognomina
+cogs
 cohabitants
 coherences
 coherencies
@@ -2842,6 +2851,7 @@ cytostatics
 cytotaxonomy
 czarevna
 czaritzas
+dachas
 dacoit
 dactylology
 dactylus
@@ -3119,6 +3129,7 @@ depredatory
 depresses
 depressive
 depressively
+depressors
 depressurizes
 deprogramming
 depurate
@@ -3178,6 +3189,7 @@ devas
 devastations
 device
 devilfish
+deviousnesses
 devitrified
 devoir
 devoted
@@ -3371,6 +3383,7 @@ dispart
 dispassion
 dispassionate
 dispatch
+dispatchers
 dispensations
 dispersedly
 dispersiveness
@@ -3416,6 +3429,7 @@ distributed
 disturbingly
 disulfates
 disulfide
+disulfoton
 disuses
 dit
 ditsinesses
@@ -3476,6 +3490,7 @@ doody
 doohickeys
 doomsayer
 doomsdayers
+doorjamb
 doormen
 doorpost
 doors
@@ -3768,6 +3783,7 @@ embalmment
 embankments
 embark
 embarrass
+embassage
 embeds
 embezzlers
 embitters
@@ -4069,6 +4085,7 @@ exanimate
 exanthema
 exanthemata
 exaptive
+exarchates
 exarchy
 except
 exceptionalisms
@@ -4271,6 +4288,7 @@ feces
 feckless
 fecundations
 fed
+federal
 federative
 feds
 feedlot
@@ -4318,6 +4336,7 @@ fez
 fibber
 fiberized
 fiberizes
+fibroblastic
 fibromatous
 fibrous
 fiches
@@ -4734,6 +4753,7 @@ futileness
 futility
 futurities
 futzed
+fuzzes
 fytte
 gabardine
 gabble
@@ -5505,6 +5525,7 @@ hoodwinker
 hoodwinkers
 hook
 hookier
+hoopless
 hoopster
 hoosgow
 hootenanny
@@ -5970,6 +5991,7 @@ instated
 instigate
 institutionally
 instrokes
+instructor
 insubordinately
 insularity
 insulator
@@ -7695,6 +7717,7 @@ necrology
 necromancy
 necropoleis
 necrose
+necrotizes
 needless
 needleworker
 negates
@@ -8013,6 +8036,7 @@ odious
 odiousnesses
 odiums
 odonates
+odontoglossum
 odorants
 odyles
 oedemata
@@ -8055,6 +8079,7 @@ omnipotently
 omnirange
 omnivorously
 omophagias
+oncidium
 oncomings
 onerously
 ongoing
@@ -9499,6 +9524,7 @@ pugginesses
 puggries
 pugilist
 pugilists
+pujahs
 pula
 pule
 pulicide
@@ -10525,6 +10551,7 @@ sandiest
 sands
 sandstorm
 sandworm
+sandworms
 sanga
 sangh
 sanghs
@@ -10581,6 +10608,7 @@ savoy
 saxes
 saxitoxins
 saxophonists
+sayeds
 sayest
 sayings
 sayyids
@@ -11525,6 +11553,7 @@ steelyards
 steepens
 steeplechaser
 steepled
+steeples
 steerable
 steerers
 steeves
@@ -11542,6 +11571,7 @@ steppes
 stepstool
 steradians
 stereograms
+stereology
 stereophonic
 stereotypical
 stereotypically
@@ -12935,6 +12965,7 @@ unsnapped
 unsnarling
 unsociable
 unsolved
+unsonsie
 unsoundly
 unspeaking
 unsphere
@@ -12967,7 +12998,9 @@ unveil
 unwarier
 unwariest
 unwieldiness
+unwinding
 unwise
+unwiser
 unworldlier
 unworldliness
 unworldlinesses
@@ -13310,6 +13343,7 @@ washeteria
 washwomen
 wast
 wastrie
+watap
 watchable
 watchman
 waterdog
@@ -13621,6 +13655,7 @@ zanders
 zanyish
 zanzas
 zapateos
+zappy
 zaptiahs
 zarebas
 zastrugi
