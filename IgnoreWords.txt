@@ -230,6 +230,7 @@ airfields
 airlifting
 airliner
 airshows
+airspace
 airstrikes
 airts
 airwomen
@@ -248,6 +249,7 @@ albacore
 albinisms
 alcaldes
 alchemistic
+alcidine
 alcoholically
 aldosterone
 alegars
@@ -799,6 +801,7 @@ awaited
 aweigh
 awing
 awnings
+axemen
 axially
 axil
 axilla
@@ -924,6 +927,7 @@ bateau
 batfowling
 batfowls
 bathmats
+batholiths
 bathroom
 bathymetry
 bathysphere
@@ -939,6 +943,7 @@ bawtie
 bayberry
 bays
 beach
+beachballs
 beachside
 beading
 beadroll
@@ -1260,6 +1265,7 @@ boisterously
 boites
 bolas
 bolder
+boldfaces
 boldly
 boldness
 bolivar
@@ -1568,6 +1574,7 @@ calculable
 calculate
 calculation
 calendered
+calenders
 calflike
 calicos
 califates
@@ -2245,6 +2252,7 @@ collegiality
 collide
 collodion
 colloquials
+colluvium
 colluviums
 colobus
 cologarithm
@@ -2365,6 +2373,7 @@ concuss
 condemning
 condensations
 condolence
+condolers
 condom
 condone
 condoned
@@ -2516,6 +2525,7 @@ copublish
 copycat
 copyedit
 copying
+copyrighted
 copywriter
 coralbells
 corals
@@ -2598,6 +2608,7 @@ counterplays
 counterprotest
 countersigning
 countersue
+countervails
 countian
 countryman
 countrysides
@@ -2618,6 +2629,7 @@ cowflop
 cowgirl
 cowherbs
 cowhide
+cowrote
 cowy
 coxcombry
 coxing
@@ -3060,6 +3072,7 @@ delineations
 deliveryman
 delly
 delouses
+delve
 demagnetization
 demagoguing
 demandable
@@ -3308,6 +3321,7 @@ diphyletic
 diploblastic
 diploid
 dipnoans
+dipsomania
 dipsos
 dipsticks
 dipteran
@@ -3579,6 +3593,7 @@ drizzliest
 droid
 drolling
 drones
+drongos
 drooliest
 dropkick
 droppable
@@ -4319,6 +4334,7 @@ fer
 fermate
 ferns
 ferocity
+ferriferous
 ferrimagnetisms
 ferromagnetic
 ferromanganese
@@ -4553,6 +4569,7 @@ footpaces
 footstall
 footworks
 fopped
+fopperies
 foppishly
 forbearing
 forceless
@@ -4741,6 +4758,7 @@ funninesses
 funnymen
 furcate
 furler
+furlers
 furless
 furnishes
 furrieries
@@ -5130,6 +5148,7 @@ grungy
 grunions
 gruntled
 grutching
+guanabanas
 guaranies
 guardedly
 guardhouses
@@ -5368,6 +5387,7 @@ hematoxylins
 hemerythrins
 hemicellulose
 hemitrope
+hemochromatosis
 hemodialyses
 hemolyzes
 hemophiliacs
@@ -5625,6 +5645,7 @@ hydrospheres
 hydrostatic
 hydroxylase
 hydroxylases
+hygrometer
 hygroscopicity
 hymeniums
 hyoidal
@@ -5769,6 +5790,7 @@ imping
 impish
 implausibility
 implead
+importance
 importunely
 imposes
 impossibility
@@ -6114,6 +6136,7 @@ investigations
 investigative
 investigatory
 invigilators
+inviolable
 inviscid
 inviters
 invocated
@@ -6203,6 +6226,7 @@ jaguar
 jaguarondis
 jalapenos
 jam
+jambalaya
 jambing
 jambs
 jammed
@@ -7416,6 +7440,7 @@ moggies
 mohawk
 moidore
 moire
+moisture
 molar
 molars
 moldboard
@@ -8866,6 +8891,7 @@ phytol
 phytols
 piaffing
 pianissimi
+pianists
 piastre
 picadillos
 picaroon
@@ -8956,6 +8982,7 @@ pittas
 piu
 pivoted
 pizzalike
+placard
 placated
 placates
 placatory
@@ -9074,6 +9101,7 @@ poliomyelitis
 polite
 politicises
 politicked
+politicly
 pollard
 pollen
 pollution
@@ -9863,6 +9891,7 @@ recrowning
 recrudescences
 recruiter
 rectification
+rectified
 rectifying
 recto
 rectrix
@@ -10719,6 +10748,7 @@ scrying
 scuba
 scubas
 sculled
+sculler
 sculls
 sculped
 scummer
@@ -11817,6 +11847,7 @@ suiters
 suitors
 sulfitic
 sulfonamides
+sulfones
 sulfuretted
 sulfuryls
 sulphides
@@ -12078,6 +12109,7 @@ tartinesses
 taskworks
 tassel
 tasteful
+tastelessness
 tattle
 tattler
 taunt
@@ -12157,6 +12189,7 @@ tentorial
 tentorium
 tenuity
 tenuousnesses
+tepals
 tepefies
 tephra
 tephrite
@@ -12393,6 +12426,7 @@ torpedoes
 torpor
 torsi
 torso
+torsos
 tortile
 torts
 tortuosities
@@ -12846,6 +12880,7 @@ ungainlinesses
 ungazing
 ungenial
 ungently
+ungracious
 ungraded
 ungula
 ungulate
