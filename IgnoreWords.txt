@@ -1214,6 +1214,7 @@ blacktop
 bladdery
 bladed
 bladeless
+blamefully
 blamelessnesses
 blameworthiness
 blaming
@@ -1602,6 +1603,7 @@ caestus
 caesura
 cafes
 cage
+caging
 cakes
 calamaries
 calcinations
@@ -1958,6 +1960,7 @@ cheerios
 cheesiness
 cheesinesses
 cheffing
+chelatable
 chelicera
 chemisms
 chemoautotrophy
@@ -1995,6 +1998,7 @@ chimneypieces
 chinchilla
 chinked
 chinquapins
+chionodoxas
 chipotle
 chippers
 chippy
@@ -2380,6 +2384,7 @@ companions
 companionships
 comparison
 compassable
+competent
 competing
 competitor
 complacently
@@ -3125,6 +3130,7 @@ degassers
 degaussers
 degenerative
 deglamorizing
+degradative
 degums
 dehisce
 dehorned
@@ -3645,6 +3651,7 @@ downloaded
 downrightness
 downscaled
 downshifted
+downshifts
 downsides
 downsized
 downstates
@@ -4026,6 +4033,7 @@ enshrinements
 enshroud
 ensign
 enskyed
+enslaves
 ensnare
 ensorcel
 ensphered
@@ -4193,6 +4201,7 @@ eutaxy
 euthanize
 euthanizing
 eutherian
+eutrophications
 eutrophy
 euxenite
 evacuator
@@ -4482,6 +4491,7 @@ fez
 fibber
 fiberized
 fiberizes
+fibrefill
 fibroblastic
 fibromatous
 fibrous
@@ -4753,6 +4763,7 @@ formic
 formicas
 forming
 formlessness
+formulator
 formulators
 fornicates
 forthrightly
@@ -4800,6 +4811,7 @@ frasses
 fraternities
 fraternizers
 frauds
+fraught
 fraulein
 freakinesses
 freaks
@@ -4894,6 +4906,7 @@ fumigates
 fumitories
 fumy
 fun
+functionalities
 functor
 fundic
 funding
@@ -5791,6 +5804,7 @@ hunched
 huntsman
 hurdled
 hurricanes
+hurtling
 hushed
 hushing
 hushpuppies
@@ -5916,6 +5930,7 @@ imager
 imaginary
 imamates
 imbalm
+imbarking
 imbedding
 imboldens
 imbower
@@ -7458,6 +7473,7 @@ microforms
 microfossils
 microfungus
 microinjected
+microloan
 micromanagement
 micromanagers
 micromanaging
@@ -7553,6 +7569,7 @@ misbiases
 misbiasses
 misbinding
 misbuilds
+miscallers
 miscasts
 miscataloged
 misclassifies
@@ -7571,6 +7588,7 @@ misevaluated
 misfiled
 misfocusses
 misfortunes
+misframed
 misfunctions
 misgraded
 misgrow
@@ -7887,6 +7905,7 @@ mustier
 mustily
 mustiness
 mustinesses
+mutability
 mutants
 mutative
 mutined
@@ -8201,6 +8220,7 @@ nonuple
 nonurban
 noontides
 norites
+normalities
 normality
 normalizers
 normothermic
@@ -8912,6 +8932,7 @@ peart
 pearter
 peccaries
 peck
+peckerwood
 peckier
 peckish
 pecky
@@ -8961,6 +8982,7 @@ pennon
 pennywise
 pensil
 penster
+penstock
 pentacles
 pentagon
 pentamidines
@@ -9731,6 +9753,7 @@ projectable
 projectionists
 projects
 prolans
+proleg
 proletarianizes
 proliferations
 prolific
@@ -9761,6 +9784,7 @@ propitiated
 propitiousness
 propolis
 proponing
+proportionality
 proportionally
 propretor
 proprietorial
@@ -9886,6 +9910,7 @@ pursers
 pursiness
 pursuances
 pursuant
+pursuits
 pursuivants
 pushdowns
 pushes
@@ -9921,6 +9946,7 @@ quadrate
 quadrats
 quadrics
 quadrille
+quadrillions
 quadrivalents
 quadrumvir
 quads
@@ -10026,6 +10052,7 @@ railed
 railer
 railheads
 raillery
+raininess
 rainouts
 raised
 raki
@@ -10333,6 +10360,7 @@ regretfulnesses
 regrinds
 regrooves
 regularizations
+regularly
 regulate
 rehabilitant
 rehabilitants
@@ -11174,6 +11202,7 @@ sempiternities
 sennight
 sennights
 senor
+sensately
 sensating
 sensationalise
 senselessness
@@ -11330,6 +11359,7 @@ shoveling
 showdown
 showed
 showplace
+showy
 shrewed
 shrieked
 shrimps
@@ -11969,6 +11999,7 @@ stimulant
 stingless
 stipplings
 stipulate
+stipulator
 stitchery
 stivers
 stob
@@ -12466,6 +12497,7 @@ tarbushes
 tariffing
 tarlatans
 tarmacadam
+tarries
 tarring
 tartinesses
 taskworks
@@ -12784,6 +12816,7 @@ toothpaste
 tootled
 top
 tope
+toper
 topful
 tophe
 topis
@@ -13536,6 +13569,7 @@ vasectomized
 vasodilatations
 vasodilator
 vasotocin
+vasotomies
 vassal
 vastity
 vaticinators
@@ -13854,6 +13888,7 @@ whiffer
 whiled
 whimpering
 whimpers
+whining
 whinnies
 whinny
 whippier
