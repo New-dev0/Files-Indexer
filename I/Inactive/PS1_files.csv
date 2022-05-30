@@ -1,0 +1,9 @@
+Random-PowerShell-Work/Get-Inactive-Ad-Users.ps1 at master,https://github.com/adbertram/Random-PowerShell-Work/blob/master/ActiveDirectory/Get-Inactive-Ad-Users.ps1
+Random-PowerShell-Work/Get-Inactive-GPO-Settings.ps1 at master,https://github.com/adbertram/Random-PowerShell-Work/blob/master/ActiveDirectory/Get-Inactive-GPO-Settings.ps1
+Public/Reports/Get-ZoomActiveInactiveHostReports.ps1 1.1.0,https://www.powershellgallery.com/packages/PSZoom/1.1.0/Content/Public%255CReports%255CGet-ZoomActiveInactiveHostReports.ps1
+Public/Get-InactiveUser.ps1 0.2.6 - PowerShell Gallery,https://www.powershellgallery.com/packages/JBOADS/0.2.6/Content/Public%255CGet-InactiveUser.ps1
+Public/Organization/Get-OrgsByPage.ps1 0.1.35 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/hsdp-iam/0.1.35/Content/Public%255COrganization%255CGet-OrgsByPage.ps1
+######Script Start###### #load Active Directory module# import ...,https://content.spiceworksstatic.com/service.community/p/post_attachments/0000167229/55414613/attached_file/ADReportNoEmailV3.ps1
+public/Zone.ps1 0.2.9 - PowerShell Gallery,https://40.87.85.101/packages/OktaPosh/0.2.9/Content/public%255CZone.ps1
+Powershell scripts - Peter Daniš,https://www.peterdanis.sk/scripts/Get-Set-LocalPolicies.ps1
+Public/Get-JiraGroupMember.ps1 1.2.5.251 - PowerShell Gallery,https://168.61.186.235/packages/PSJira/1.2.5.251/Content/Public%255CGet-JiraGroupMember.ps1
