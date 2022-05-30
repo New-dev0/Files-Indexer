@@ -269,6 +269,7 @@ algology
 aliasing
 alibies
 alibiing
+alicyclic
 alif
 alifs
 alines
@@ -638,6 +639,7 @@ armrests
 aroids
 aromas
 aromatizations
+arose
 aroused
 arpeggios
 arpen
@@ -1020,6 +1022,7 @@ behowl
 beigy
 bejewel
 belaced
+beladying
 belay
 belayed
 beldam
@@ -1411,6 +1414,7 @@ breadbox
 breading
 breadless
 breads
+breadwinning
 breakwater
 breasts
 breathers
@@ -2227,6 +2231,7 @@ coenure
 coequality
 coercibly
 coexecutor
+coffing
 coffret
 cogged
 cogitates
@@ -2953,6 +2958,7 @@ darnel
 dashing
 dashis
 dastard
+dating
 daubes
 daubing
 daunomycins
@@ -3963,6 +3969,7 @@ enjoinder
 enlargements
 enlistments
 enmeshes
+enneadic
 ennobler
 ennuye
 enow
@@ -4180,6 +4187,7 @@ exceptionalisms
 excerpt
 excerpting
 exchanging
+excide
 excisional
 excitation
 exclaim
@@ -4372,6 +4380,7 @@ fayalite
 feasters
 featherbrain
 featherheaded
+feathering
 feats
 featured
 febrility
@@ -4424,6 +4433,7 @@ fetidity
 fetidly
 fettuccini
 feudalizations
+feuilleton
 fever
 feverish
 fez
@@ -4883,6 +4893,7 @@ galabiyah
 galabiyahs
 galateas
 galeas
+galenical
 galenites
 gales
 galiots
@@ -5694,6 +5705,7 @@ housefather
 housemaster
 housepainters
 housewares
+houseworks
 housing
 hovels
 however
@@ -5709,6 +5721,7 @@ hulks
 hulled
 humanist
 humanization
+humanizers
 humanizing
 humannesses
 humbleness
@@ -6157,11 +6170,13 @@ intercorrelated
 intercropped
 intercurrent
 interethnic
+interferer
 interfiles
 interflow
 interfold
 intergraded
 interindividual
+interinvolving
 interiorise
 interjectory
 interlaid
@@ -6651,6 +6666,7 @@ laminal
 laminator
 lammergeyers
 lamp
+lampblack
 lampooners
 lampooning
 lanai
@@ -6684,6 +6700,7 @@ lateener
 laterally
 laterize
 lather
+lathier
 lathing
 lati
 latifundios
@@ -6933,6 +6950,7 @@ looby
 looming
 looney
 looninesses
+loons
 loopinesses
 looses
 loosestrife
@@ -7120,6 +7138,7 @@ mannerist
 mannerless
 mannishnesses
 manoeuvres
+manometries
 manse
 manslaughters
 mansuetude
@@ -7315,6 +7334,7 @@ meropic
 merrinesses
 mesclun
 mesenteron
+mesically
 mesmerise
 mesmerizing
 mesne
@@ -7534,6 +7554,7 @@ misroutes
 missaid
 missenses
 misspell
+misstarting
 misstated
 misstyles
 mistaken
@@ -7935,6 +7956,7 @@ neurohormonal
 neurologies
 neurophysiology
 neurosis
+neutral
 neutralises
 neutrons
 nevi
@@ -7966,6 +7988,7 @@ nidified
 nielloed
 niffering
 niftily
+nighs
 nightmarish
 nightshade
 nightspots
@@ -8455,6 +8478,7 @@ outrigged
 outrowing
 outrows
 outsaid
+outsailed
 outsay
 outscoring
 outseeing
@@ -8567,6 +8591,7 @@ oversanguine
 oversecretions
 oversee
 overseeding
+overseen
 oversells
 oversensitive
 oversetting
@@ -11246,6 +11271,7 @@ siddurs
 side
 sidelining
 siderolite
+siderotic
 sideslips
 sierras
 sightless
@@ -12847,6 +12873,7 @@ trocked
 troke
 trolley
 trolleybuses
+trommel
 tronas
 trophies
 tropicals
@@ -13042,6 +13069,7 @@ unconformably
 unconscionably
 unconsciously
 uncontrollably
+unconvincingly
 uncorrected
 uncouplers
 uncovers
@@ -13097,6 +13125,7 @@ undertrick
 underused
 underwool
 underworks
+underwrite
 underwriters
 undeveloped
 undisciplined
@@ -13152,6 +13181,7 @@ unhealthinesses
 unheroic
 unhewn
 unhirable
+unhood
 unhoped
 unhorses
 unhousing
@@ -13182,6 +13212,7 @@ unjam
 unjamming
 unjustness
 unjustnesses
+unkent
 unkindness
 unlace
 unlaces
@@ -13350,8 +13381,10 @@ urinalysis
 urination
 urinators
 urn
+urns
 uroscopies
 urped
+usherette
 usurers
 usuriousnesses
 uteruses
@@ -13694,6 +13727,7 @@ weenies
 weensiest
 weevers
 weird
+weirdnesses
 welcomenesses
 weldor
 well
@@ -13783,6 +13817,7 @@ wingchairs
 winger
 wining
 winked
+winnowers
 winnowing
 wins
 winterberries
