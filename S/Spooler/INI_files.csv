@@ -1,0 +1,9 @@
+restpie3/uwsgi.ini at master · tomimick/restpie3 · GitHub,https://github.com/tomimick/restpie3/blob/master/conf/uwsgi.ini
+skale-watchdog/uwsgi.ini at develop - GitHub,https://github.com/skalenetwork/skale-watchdog/blob/develop/uwsgi.ini
+Lines preceded by a semicolon are comments ( i.e. this line is ; a ...,https://fox.cs.vt.edu/VAD1/WPL/WIN.INI
+sammko/roztrojka: Projekt roztrojka ... - Git@sammserver.com,https://git.sammserver.com/sammko/roztrojka/src/119822fce502361c33fee7c0d6175a29f7bd67a5/uwsgi_production.ini
+[uwsgi] http = :5000 master = true module = wsgi:dev_app spooler ...,https://git.sammserver.com/sammko/roztrojka/raw/119822fce502361c33fee7c0d6175a29f7bd67a5/uwsgi_dev.ini
+deployment.ini in web/old – Gutenbach,http://gutenbach.mit.edu/browser/web/old/deployment.ini%3Frev%3Dce2abc5b3d0f21e3ba1b4cfb8e693f55bb957284%26order%3Dsize%26desc%3DTrue
+development.ini in gutenbach-web/old – Gutenbach,http://gutenbach.mit.edu/browser/gutenbach-web/old/development.ini%3Frev%3D27ee337ff8bc3e4965680157d86d64a4ded721e1%26order%3Ddate
+uwsgi.ini - isso (0.4) - Jelmer's Repos,https://www.jelmer.uk/code/isso/blame/0.4/uwsgi.ini
+uwsgi.ini - isso (0.10.3) - Jelmer's Repos,https://www.jelmer.uk/code/isso/blame/0.10.3/uwsgi.ini
