@@ -1,0 +1,8 @@
+internal/functions/Get-DscResourceTypeInformation.ps1 0.1.0,https://www.powershellgallery.com/packages/Puppet.Dsc/0.1.0/Content/internal%255Cfunctions%255CGet-DscResourceTypeInformation.ps1
+functions/ConvertTo-PuppetResourceApi.ps1 0.1.0 - PowerShell ...,https://www.powershellgallery.com/packages/Puppet.Dsc/0.1.0/Content/functions%255CConvertTo-PuppetResourceApi.ps1
+LatestUpdate/Save-LatestUpdate.ps1 at master - GitHub,https://github.com/aaronparker/LatestUpdate/blob/master/LatestUpdate/Public/Save-LatestUpdate.ps1
+psPAS/Get-PASParameter.ps1 at master - GitHub,https://github.com/pspete/psPAS/blob/master/psPAS/Private/Get-PASParameter.ps1
+Framework/Core/AzSKInfo ... - PowerShell Gallery Test,https://www.poshtestgallery.com/packages/AzSKStaging/4.3.2/Content/Framework%255CCore%255CAzSKInfo%255CComplianceInfo.ps1
+tst/Pester.Runtime.ResultObject.ts.ps1 · 5.3.2 · mirrors ... - GitCode,https://gitcode.net/mirrors/pester/Pester/-/blob/5.3.2/tst/Pester.Runtime.ResultObject.ts.ps1
+tests/pester.ps1 1.0.127 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/D365FOLBDAdmin/1.0.127/Content/tests%255Cpester.ps1
+Functions/PesterState.Tests.ps1 3.3.7 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/Pester/3.3.7/Content/Functions%255CPesterState.Tests.ps1
