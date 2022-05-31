@@ -1,0 +1,7 @@
+IRO/build_verbose.ps1 at master · IT-rolling-out/IRO - GitHub,https://github.com/IT-rolling-out/IRO/blob/master/build_verbose.ps1
+Powershell/Rolling_Cluster_Reboot.ps1 at master - GitHub,https://github.com/thombrown/Powershell/blob/master/Rolling_Cluster_Reboot.ps1
+exports/hybrid-2019-03-01/Stop ... - PowerShell Gallery Test,https://www.poshtestgallery.com/packages/Az.Compute/4.0.1-preview/Content/exports%255Chybrid-2019-03-01%255CStop-AzVmssRollingUpgrade.ps1
+"#Requires -Version 7.1 $ErrorActionPreference = ""Stop"" # exit when ...",https://raw.githubusercontent.com/LunarVim/LunarVim/rolling/utils/installer/install.ps1
+Update-AADToolkitApplicationCredentials.ps1 1.0.742766,https://psg-prod-centralus.cloudapp.net/packages/AzureADToolkit/1.0.742766/Content/Update-AADToolkitApplicationCredentials.ps1
+functions/Set-DbaDatabaseState.ps1 0.9.22 - PowerShell Gallery,https://40.87.85.101/packages/dbatools/0.9.22/Content/functions%255CSet-DbaDatabaseState.ps1
+Commit History · sblake/PatreonOauthFileserver - Gogs,https://repo.technically.fun/sblake/PatreonOauthFileserver/commits/f49a63105f1351ed10d6592cb5b21c70b2dec60a/src/PatreonOAuth/Make.ps1
