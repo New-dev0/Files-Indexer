@@ -1250,6 +1250,7 @@ blats
 bleacher
 bleat
 bled
+blend
 bless
 blitzkrieg
 blizzards
@@ -1292,6 +1293,7 @@ blunderbusses
 blunger
 blungers
 boarder
+boardinghouses
 boatnecks
 boatsmen
 bobolinks
@@ -2162,6 +2164,7 @@ claught
 claver
 clavi
 clawhammer
+claying
 claymore
 cleaning
 cleanly
@@ -2414,6 +2417,7 @@ compactions
 compactly
 companions
 companionships
+comparator
 comparison
 compassable
 competent
@@ -3557,6 +3561,7 @@ dispensations
 dispersedly
 dispersiveness
 dispersoids
+displace
 displants
 disploded
 displume
@@ -3627,6 +3632,7 @@ doblas
 dobras
 dobsons
 docile
+docility
 docking
 dockyard
 documented
@@ -3975,6 +3981,7 @@ emaciations
 email
 emanant
 emanating
+emancipated
 emancipates
 emasculations
 embalmment
@@ -4143,6 +4150,7 @@ ephedrines
 ephors
 epiblasts
 epicardial
+epicarp
 epicedia
 epicedium
 epicenism
@@ -5284,6 +5292,7 @@ gongoristic
 goniff
 goober
 goof
+goofs
 googlies
 goop
 goose
@@ -5406,6 +5415,7 @@ gruels
 grues
 gruesomeness
 gruesomest
+gruffest
 gruffs
 grumbled
 grumblingly
@@ -5465,6 +5475,7 @@ gynecocratic
 gynecological
 gynecomastia
 gyniatries
+gyp
 gypsydoms
 gyrofrequency
 gyrostats
@@ -5589,6 +5600,7 @@ hautboy
 havdalah
 hawsepipes
 hawsers
+hayfield
 hayfork
 hayforks
 haymows
@@ -6113,6 +6125,7 @@ impregns
 impressures
 improbably
 impropernesses
+improve
 improvements
 improvident
 improvisatori
@@ -6784,6 +6797,7 @@ kitchen
 kiths
 kitschifying
 kittel
+kittler
 kittles
 kleenex
 klezmers
@@ -7396,6 +7410,7 @@ masjids
 masochistically
 mass
 massa
+massacre
 massacred
 massacrers
 massifs
@@ -7546,6 +7561,7 @@ mesclun
 mesenteron
 mesically
 mesmerise
+mesmerisms
 mesmerizing
 mesne
 mesocarp
@@ -7760,6 +7776,7 @@ misoriented
 mispackaging
 misparses
 misparted
+misplaces
 misplans
 misplays
 mispoising
@@ -7808,6 +7825,7 @@ moaningly
 moat
 moats
 mobcap
+mobilises
 mobilization
 mockable
 mockers
@@ -8008,6 +8026,7 @@ multimetallic
 multinomials
 multipack
 multiparameter
+multiples
 multiplexed
 multiplications
 multiplicity
@@ -8700,6 +8719,7 @@ outkicked
 outkissed
 outlaid
 outlaughing
+outlier
 outline
 outliver
 outliving
@@ -8731,6 +8751,7 @@ outscooping
 outscoring
 outseeing
 outsidernesses
+outsin
 outsinging
 outsinned
 outsized
@@ -8759,6 +8780,7 @@ overassessments
 overbeats
 overbills
 overborne
+overborrow
 overbraked
 overbriefed
 overbrowsing
@@ -9063,6 +9085,7 @@ patining
 patissier
 patissiers
 patriarchies
+patricians
 patriciates
 patristic
 patristics
@@ -9232,6 +9255,7 @@ pesos
 pessary
 pestiferousness
 pestle
+pestled
 pests
 pesty
 petaloid
@@ -9545,6 +9569,7 @@ poikilotherms
 poilu
 pointillism
 pointillist
+pointy
 poisoned
 poisoner
 poke
@@ -9776,6 +9801,7 @@ preinterviewed
 prelegal
 prelocates
 preluding
+prelusory
 premanufactured
 premarketing
 prematureness
@@ -10265,6 +10291,7 @@ rathskeller
 ratified
 ratifies
 ratio
+ratiocinative
 ratiocinator
 ration
 rationales
@@ -11014,6 +11041,7 @@ ruled
 rules
 rumbaing
 ruminated
+ruminating
 rummages
 rumored
 runabouts
@@ -11214,6 +11242,7 @@ schizier
 schizophrenics
 schlump
 schmoes
+schmoos
 schmoose
 schmoozers
 schnauzer
@@ -12095,6 +12124,7 @@ squelchy
 squiggles
 squinters
 squintest
+squintingly
 squirmers
 squooshed
 sradha
@@ -12271,6 +12301,7 @@ strikeovers
 stringcourses
 stringhalts
 stringily
+stringing
 strings
 striped
 stripeless
@@ -12563,6 +12594,7 @@ swampiest
 swankest
 swanpan
 swartness
+swashbuckled
 swaybacks
 swayers
 swearing
@@ -13220,6 +13252,7 @@ triptanes
 triskeles
 triskelion
 trisome
+tristich
 tritest
 tritheistical
 trivialised
@@ -13253,6 +13286,7 @@ truss
 trustinesses
 truthfully
 tryptamines
+tsetses
 tsuris
 tuatera
 tubas
@@ -13525,6 +13559,7 @@ unfit
 unfitted
 unfledged
 unflexed
+unflinching
 unfold
 unfreezes
 unfrock

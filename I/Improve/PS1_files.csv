@@ -1,0 +1,6 @@
+Modules/WindowsTask.ps1 1.4.1 - PowerShell Gallery,https://www.powershellgallery.com/packages/Invoke-Install/1.4.1/Content/Modules%255CWindowsTask.ps1
+Get-PublishedModuleVersion.ps1 1.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/UpdateInstalledModule/1.0/Content/Get-PublishedModuleVersion.ps1
+check_eset_ver.ps1 ... - GitLab,https://gitlab.lauserco.com/tech/ncpa-plugins/-/blob/41cfc258ec6fbeabb6fb889a24ab43f52fd4a9bb/check_eset_ver.ps1
+Files · b4f963b9217d9f34e67190c5c5b8f4ea3189c1d1 · vamp ...,https://git.scicore.unibas.ch/vamp/auto-tx/-/blob/b4f963b9217d9f34e67190c5c5b8f4ea3189c1d1/AutoTx/Resources/Make-Package.ps1
+tools/appveyor/install.ps1 ...,https://git.informatik.uni-hamburg.de/OpenDISCO/open62541/-/blob/05667bbb061f93daa25bef215ac1539be88aacf6/tools/appveyor/install.ps1
+Flo/scripts-MediaPC: misc scripts to improve my MediaPC - git ...,https://git.flokra.at/Flo/scripts-MediaPC/src/master/MQTTmsgOnShutdown/onShutdown.ps1%3Flang%3Dde-DE
