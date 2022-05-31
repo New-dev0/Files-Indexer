@@ -324,6 +324,7 @@ alpenglow
 alphanumerical
 alphas
 alphosis
+alphyls
 alterity
 alternating
 alternators
@@ -621,6 +622,7 @@ arced
 archaizes
 archangel
 archeology
+archfoes
 archine
 architrave
 archivolt
@@ -800,6 +802,7 @@ autobahns
 autoerotic
 autograph
 autographically
+autohypnosis
 autolysates
 autolyzes
 automaker
@@ -2122,6 +2125,7 @@ citizenesses
 citizens
 citolas
 citoles
+citronellol
 citrons
 cittern
 civets
@@ -2940,6 +2944,7 @@ cutest
 cuteys
 cutpurses
 cutthroats
+cuttlefish
 cutups
 cutwork
 cyanamide
@@ -3434,6 +3439,7 @@ digressively
 dilation
 dilatometers
 dilatoriness
+dilettantes
 dilettantisms
 diligently
 diluting
@@ -3628,6 +3634,7 @@ dodgems
 dodges
 dodo
 dodoes
+dogdoms
 dogleg
 doglegged
 dogmatism
@@ -3681,6 +3688,7 @@ dorsiventrality
 dosshouses
 dossil
 dotage
+doters
 dotingly
 doublespeak
 doubters
@@ -4330,6 +4338,7 @@ exhorting
 exhorts
 exilic
 existent
+exodermises
 exodontias
 exoduses
 exogen
@@ -4340,6 +4349,7 @@ exorcising
 exoskeleton
 exosphere
 exospore
+exoticism
 exoticist
 exoticnesses
 expands
@@ -4394,6 +4404,7 @@ extravasated
 extraversion
 extremum
 extrications
+extrinsic
 extrinsically
 extruders
 extrusions
@@ -4609,6 +4620,7 @@ firebombing
 firebreak
 fireclays
 firefly
+firehall
 firepan
 fireplace
 firepots
@@ -4852,6 +4864,7 @@ foscarnets
 fossicks
 fossilised
 fossilizations
+fossilized
 fosterers
 fosters
 foundationless
@@ -5436,6 +5449,7 @@ gumweeds
 gunk
 gunned
 gunnels
+gunnysack
 gunshots
 gurged
 gurglets
@@ -5889,6 +5903,7 @@ humitures
 humorlessly
 humouring
 hump
+humped
 humpless
 hunch
 hunched
@@ -5998,6 +6013,7 @@ if
 iffinesses
 iffy
 ifs
+ignescents
 ignitability
 ignited
 ignites
@@ -6391,6 +6407,7 @@ intersexual
 interstation
 intersterile
 interstitially
+intertribal
 intertwine
 intertwines
 interurban
@@ -6742,6 +6759,7 @@ kidney
 kidvid
 kill
 kills
+kilobars
 kilobyte
 kilojoule
 kilolitres
@@ -6955,6 +6973,7 @@ legrooms
 legumes
 lehuas
 leishmaniases
+leistered
 leisureliness
 lek
 lekythos
@@ -7111,6 +7130,7 @@ logarithmic
 loges
 logged
 loggia
+loggias
 logicalities
 logicalnesses
 logicizing
@@ -7688,6 +7708,7 @@ misbinding
 misbuilds
 miscallers
 miscasts
+miscatalog
 miscataloged
 misclassifies
 miscoin
@@ -8287,6 +8308,7 @@ nonghetto
 nonglare
 nongreen
 nonhumans
+nonimmune
 nonincumbents
 nonindustry
 noninfective
@@ -8545,6 +8567,7 @@ opinionated
 opioids
 opponency
 opportunistic
+opposabilities
 oppositely
 oppositeness
 oppositions
@@ -8625,6 +8648,7 @@ ouabain
 ouch
 ouph
 ourang
+ourari
 ourself
 outachieves
 outadd
@@ -8813,6 +8837,7 @@ overs
 oversalted
 oversalts
 oversanguine
+oversave
 oversecretions
 oversee
 overseeding
@@ -9803,6 +9828,7 @@ pressurised
 pressurization
 prestidigitator
 prestored
+prestressed
 presumes
 presumingly
 presummit
@@ -10623,6 +10649,7 @@ renown
 rentabilities
 reoccupied
 reopens
+reordered
 reorientates
 reorients
 repairability
@@ -10927,6 +10954,7 @@ rondeaux
 rondos
 rooftops
 rooming
+roorback
 rooser
 rootages
 rootiest
@@ -11126,6 +11154,7 @@ saturates
 saturators
 saucepot
 saucers
+saucier
 saunaed
 saurischians
 savagenesses
@@ -12114,6 +12143,7 @@ starvation
 starveling
 starwort
 stateliness
+staters
 statesmanship
 staticky
 stating
@@ -12539,12 +12569,14 @@ swearing
 sweat
 sweatband
 sweatbox
+sweatboxes
 sweater
 sweats
 swede
 sweenies
 sweeping
 sweetened
+sweetshop
 sweetsops
 swidden
 swiftness
@@ -14250,8 +14282,10 @@ worsets
 worship
 worsting
 worsts
+worthinesses
 worthlessly
 worths
+wounded
 wove
 wrackful
 wrangle
@@ -14286,6 +14320,7 @@ xenia
 xenias
 xenophobia
 xenophobic
+xerographies
 xerophilous
 xerophily
 xerophytes
