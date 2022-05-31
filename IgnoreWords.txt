@@ -557,6 +557,7 @@ apomict
 apomicts
 apophthegms
 apophyllite
+aposiopetic
 apospories
 apostatizing
 apostils
@@ -1062,6 +1063,7 @@ bens
 bepainting
 berberines
 berberis
+bereaved
 bereavers
 beriberi
 berthas
@@ -2330,6 +2332,7 @@ colorless
 colostomies
 colpitises
 colportages
+cols
 coltish
 columbaries
 columels
@@ -3547,6 +3550,7 @@ disulfide
 disulfoton
 disuses
 dit
+ditchdiggers
 ditsinesses
 divebombing
 diversifies
@@ -4281,6 +4285,7 @@ exorcising
 exoskeleton
 exosphere
 exospore
+exoticist
 exoticnesses
 expands
 expatiate
@@ -4334,6 +4339,7 @@ extremum
 extrications
 extrinsically
 extruders
+extrusions
 extubating
 exude
 exultances
@@ -4488,6 +4494,7 @@ feuilleton
 fever
 feverish
 fez
+fianchettoed
 fibber
 fiberized
 fiberizes
@@ -5563,6 +5570,7 @@ helots
 helpmates
 hemacytometers
 hematics
+hematomas
 hematoxylins
 hemerythrins
 hemicellulose
@@ -5666,6 +5674,7 @@ hoaxers
 hobbledehoy
 hocker
 hocks
+hocus
 hog
 hogget
 hogging
@@ -5709,6 +5718,7 @@ homophobes
 homophobia
 homoplasy
 homosexually
+homozygosities
 homozygous
 honda
 honeworts
@@ -5719,6 +5729,7 @@ honeysuckle
 hongied
 honkers
 honorableness
+honorably
 honorand
 honorer
 hooches
@@ -5803,6 +5814,7 @@ hunch
 hunched
 huntsman
 hurdled
+hurleys
 hurricanes
 hurtling
 hushed
@@ -5934,6 +5946,7 @@ imbarking
 imbedding
 imboldens
 imbower
+imines
 immaculately
 immanent
 immaterialists
@@ -6604,6 +6617,7 @@ kegling
 keitloas
 kelly
 kelping
+kenafs
 kenches
 kenos
 kenotrons
@@ -6753,6 +6767,7 @@ languorously
 languors
 lankest
 lankier
+lanugo
 lapdogs
 lapin
 lapwings
@@ -7837,7 +7852,9 @@ muezzin
 muffed
 muffs
 muftis
+mugfuls
 mugging
+muktuks
 mulched
 mulcted
 muled
@@ -8209,6 +8226,7 @@ nonsexual
 nonsocialist
 nonstarter
 nonsteady
+nonsteroid
 nonsugars
 nonsuiting
 nontechnical
@@ -9001,6 +9019,7 @@ perceptional
 perceptively
 perceptually
 perchers
+percoids
 percolated
 percussing
 percussiveness
@@ -9563,7 +9582,9 @@ precipitins
 precipitousness
 preciseness
 precleaned
+precleans
 precocity
+precommitment
 preconizes
 preconizing
 precooking
@@ -9576,6 +9597,7 @@ predestinators
 predestines
 predestining
 predetermine
+predetermines
 predevelopment
 predicates
 predictably
@@ -10827,6 +10849,7 @@ rumbaing
 ruminated
 rummages
 rumored
+runabouts
 runback
 runkled
 runkling
@@ -11199,6 +11222,7 @@ semitrucks
 semiurban
 sempervivum
 sempiternities
+senhoritas
 sennight
 sennights
 senor
@@ -11406,6 +11430,7 @@ signifiers
 signifies
 silage
 silences
+silent
 silesias
 silhouetting
 silicification
@@ -11648,6 +11673,7 @@ soften
 softheaded
 sogginesses
 soignee
+soiling
 soilures
 sokol
 solanins
@@ -12120,6 +12146,7 @@ subarctic
 subas
 subbasements
 subcellular
+subcenter
 subcenters
 subclassify
 subclerk
@@ -12129,6 +12156,7 @@ subconsciouses
 subcontracts
 subcooled
 subcortex
+subcounties
 subcutis
 subcutises
 subdepartment
@@ -12169,6 +12197,7 @@ subnational
 subnuclear
 suboptimizes
 suborbicular
+suborder
 suborn
 suboxide
 subphase
@@ -12247,6 +12276,7 @@ summerwood
 summerwoods
 sumps
 sumptuous
+sundecks
 sundowning
 sundrops
 sunket
@@ -12462,6 +12492,7 @@ tallaisim
 tallitim
 tallowy
 talmudism
+taluk
 tamable
 tamarind
 tamarisk
@@ -12616,6 +12647,7 @@ testees
 testing
 testudines
 testudo
+tetanizations
 tetherballs
 tetracycline
 tetradic
@@ -12658,6 +12690,7 @@ thermopile
 thermoregulate
 thermoregulated
 thermoses
+thermotactic
 thermotropisms
 theropods
 theses
@@ -12849,6 +12882,7 @@ touch
 touchdown
 touchier
 touchiness
+touchlines
 touchpads
 touchtone
 toupee
@@ -13970,6 +14004,7 @@ wiriest
 wirra
 wise
 wiselier
+wishes
 wishfulnesses
 wisp
 wisping

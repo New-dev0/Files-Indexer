@@ -1,0 +1,8 @@
+silent-install/SilentInstall.ps1 at master - GitHub,https://github.com/TimMangan/silent-install/blob/master/SilentInstall.ps1
+git-powershell-silent-install/git-silent-uninstall.ps1 at master - GitHub,https://github.com/Limech/git-powershell-silent-install/blob/master/git-silent-uninstall.ps1
+Get-WURebootStatus.ps1 1.5.2.2 - PowerShell Gallery,https://www.powershellgallery.com/packages/PSWindowsUpdate/1.5.2.2/Content/Get-WURebootStatus.ps1
+internal/Stop-Function.ps1 0.9.30 - PowerShell Gallery,https://www.powershellgallery.com/packages/dbatools/0.9.30/Content/internal%255CStop-Function.ps1
+Get-WURebootStatus.ps1 #1 - Perforce Workshop,https://swarm.workshop.perforce.com/files/guest/jen_bottom/vagrant/win10/PSWindowsUpdate/Get-WURebootStatus.ps1%3Fv%3D1
+internal/classes/DBOpsLog.class.ps1 0.6.2 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/dbops/0.6.2/Content/internal%255Cclasses%255CDBOpsLog.class.ps1
+EndPointCMClient/Private/Invoke-EPCMClientRepair.ps1 · master ...,https://git.cas.unt.edu/posh/EndPoint-CM-Client-Actions/-/blob/master/EndPointCMClient/Private/Invoke-EPCMClientRepair.ps1
+"param($sourceFileUrl="""", $destinationFolder="""", $labName ...",https://cloudworkshop.blob.core.windows.net/building-resilient-iaas-architecture/lab-resources/configure-win-vm-image.ps1
