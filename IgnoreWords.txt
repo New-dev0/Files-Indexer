@@ -215,6 +215,7 @@ agglutinogenic
 aggrade
 aggraded
 aggravates
+aggregateness
 agilenesses
 agiotage
 agisted
@@ -755,6 +756,7 @@ atrocity
 attaboy
 attachers
 attachment
+attagirl
 attempers
 attentional
 atticisms
@@ -1342,6 +1344,7 @@ boondoggler
 boonless
 boorishness
 boost
+boosterisms
 booties
 booting
 bootlick
@@ -1574,6 +1577,7 @@ butterball
 butterflies
 butterflying
 butteriest
+buttonballs
 buttonbush
 buttonholed
 buttonholer
@@ -1706,6 +1710,7 @@ captivities
 captopril
 captor
 capuchin
+caput
 carabin
 caracaras
 caracolling
@@ -2248,6 +2253,7 @@ cocurators
 codas
 codders
 coded
+codependencies
 codeveloper
 codex
 codirected
@@ -2808,6 +2814,7 @@ crosstown
 crosstrees
 crotchet
 crotchety
+crouching
 crowd
 crowdy
 crowfoot
@@ -2914,6 +2921,7 @@ cutest
 cuteys
 cutpurses
 cutthroats
+cutups
 cutwork
 cyanamide
 cyanin
@@ -3194,6 +3202,7 @@ demounts
 demulsified
 demurrages
 demurrer
+demythologized
 demythologizer
 denars
 denatured
@@ -3242,6 +3251,7 @@ depressive
 depressively
 depressors
 depressurizes
+deprivations
 deprogramming
 depurate
 deputize
@@ -3582,6 +3592,7 @@ dobie
 doblas
 dobras
 dobsons
+docile
 docking
 dockyard
 documented
@@ -3591,6 +3602,7 @@ dodo
 dodoes
 dogleg
 doglegged
+dogmatism
 dogmatize
 dogrobbers
 dogtrot
@@ -3679,6 +3691,7 @@ dragstrips
 drails
 drainpipe
 drainpipes
+drake
 dramas
 dramaturges
 drammocks
@@ -3980,6 +3993,7 @@ encomiast
 encomium
 encompassment
 encouragement
+encrimsoning
 encrinite
 encroachment
 encryption
@@ -4051,6 +4065,7 @@ ensorcel
 ensphered
 enteric
 enterocoele
+enterons
 enteroviral
 enthronements
 enthuses
@@ -4486,8 +4501,10 @@ fer
 fermate
 ferns
 ferocity
+ferrelled
 ferriferous
 ferrimagnetisms
+ferrocyanides
 ferromagnetic
 ferromanganese
 ferrying
@@ -4602,6 +4619,7 @@ flammabilities
 flamy
 flannelette
 flannelly
+flaperons
 flapless
 flashings
 flashover
@@ -5905,6 +5923,7 @@ icebergs
 iceboating
 icebreakers
 icekhanas
+ichthyofauna
 ichthyofaunal
 iciest
 icons
@@ -5918,6 +5937,7 @@ identifying
 identities
 ideogrammic
 ideography
+ides
 idiom
 idiotypes
 idle
@@ -6007,6 +6027,7 @@ impetrates
 imphees
 imping
 impish
+implantation
 implausibility
 implead
 importance
@@ -6088,6 +6109,7 @@ incurving
 incusing
 indecent
 indecision
+indecomposable
 indefeasible
 indefectibly
 indefensible
@@ -6288,6 +6310,7 @@ interloping
 intermats
 intermatted
 intermeddler
+intermeddles
 intermediated
 intermezzi
 intermission
@@ -7250,6 +7273,7 @@ mansuetude
 mantels
 mantes
 manually
+manubriums
 manufactories
 manward
 manwise
@@ -7380,6 +7404,7 @@ megahertz
 megalomania
 megalomanias
 megalomanic
+megalopolises
 megalopses
 megaproject
 megaspore
@@ -7612,6 +7637,7 @@ misdiagnosed
 misdivision
 misdo
 misdoer
+misdoes
 mise
 misemploy
 misesteem
@@ -8013,6 +8039,7 @@ navicert
 navy
 nawabs
 nay
+nazification
 neap
 nears
 nebulosities
@@ -9431,6 +9458,7 @@ polecats
 polemized
 polemizing
 polenta
+poleyn
 poliomyelitis
 polite
 politicises
@@ -9737,6 +9765,7 @@ primed
 primeness
 primine
 primitivism
+primitivity
 primogenitor
 prims
 primus
@@ -10324,6 +10353,7 @@ reedit
 reedlike
 reedlings
 reefable
+reel
 reeled
 reembarked
 reemerges
@@ -10387,6 +10417,7 @@ refusenik
 refuses
 regardfulnesses
 regelate
+regelated
 regeneracies
 regenerately
 regenerator
@@ -11889,6 +11920,7 @@ sponsal
 sponsorship
 spontaneities
 spontaneously
+spoof
 spoofer
 spoofing
 spools
@@ -12004,6 +12036,7 @@ steamed
 steatopygia
 steelie
 steelinesses
+steeling
 steelmaker
 steelmakings
 steelyards
@@ -13020,6 +13053,7 @@ trichologists
 trichome
 trichopteran
 trichopterans
+trickish
 trickster
 tricorn
 tricorne
@@ -14145,6 +14179,7 @@ wyandotte
 xantheins
 xanthone
 xenia
+xenias
 xenophobia
 xenophobic
 xerophilous
