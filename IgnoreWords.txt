@@ -638,6 +638,7 @@ archaizes
 archangel
 archeology
 archfoes
+archimandrites
 archine
 architrave
 archivolt
@@ -725,6 +726,7 @@ assaults
 assegaied
 assemblages
 assemble
+assemblymen
 assented
 assenters
 assents
@@ -983,6 +985,7 @@ bassy
 bastardises
 baste
 baster
+bastinadoed
 bateau
 batfowling
 batfowls
@@ -1655,6 +1658,7 @@ caesura
 cafes
 caffeinic
 cage
+cagiest
 caging
 cajeput
 cakes
@@ -2024,6 +2028,7 @@ checkmarked
 cheeking
 cheerers
 cheerios
+cheerless
 cheerlessness
 cheesiness
 cheesinesses
@@ -2485,6 +2490,7 @@ completeness
 completion
 compliant
 complin
+comported
 compositors
 compost
 compradors
@@ -2958,6 +2964,7 @@ cuneatic
 cunning
 cupboard
 cuprous
+cuprum
 curablenesses
 curaghs
 curanderos
@@ -3533,6 +3540,7 @@ diodes
 dionysiac
 diopsidic
 dioritic
+dip
 diphasic
 diphenyls
 diphosphates
@@ -3719,6 +3727,7 @@ dogmatism
 dogmatize
 dogrobbers
 dogtrot
+dogtrots
 dogtrotting
 dogvanes
 doings
@@ -4111,6 +4120,7 @@ enchained
 enchant
 enchase
 enchaser
+enchasing
 enciphers
 enclasped
 encomiast
@@ -4459,6 +4469,7 @@ expiratory
 explantation
 explicates
 explodes
+explosiveness
 expose
 expressages
 expropriates
@@ -4561,6 +4572,7 @@ farandoles
 farcers
 farewell
 farewelling
+farewells
 farfetchedness
 farl
 farmer
@@ -5457,6 +5469,7 @@ grebes
 grecize
 greed
 greedily
+greenbacker
 greenbrier
 greenest
 greenfields
@@ -5543,6 +5556,7 @@ guises
 guising
 guldens
 gulf
+gullably
 gullets
 gulpier
 gumball
@@ -5973,6 +5987,7 @@ horsinesses
 hoses
 hoseys
 hosiers
+hospitalises
 hospitality
 hostelries
 hostly
@@ -7253,6 +7268,7 @@ lockdowns
 lockmaker
 locks
 lockstitches
+locoism
 locos
 locules
 locustae
@@ -7301,6 +7317,7 @@ lordlier
 lordliness
 lorica
 lornness
+losings
 losses
 lossless
 lostness
@@ -7358,6 +7375,7 @@ lungfuls
 lungs
 lunies
 lunting
+lurching
 lurkers
 luscious
 lustrations
@@ -7474,6 +7492,7 @@ maniac
 manicured
 manifestly
 manilas
+manipulability
 manipulatory
 manna
 mannerist
@@ -8872,6 +8891,7 @@ outpreened
 outpresses
 outpupil
 outrageously
+outraise
 outrance
 outranks
 outrated
@@ -9185,6 +9205,7 @@ parlando
 parlays
 parles
 parmigiano
+parodoi
 parols
 parr
 parred
@@ -9909,6 +9930,7 @@ prebound
 prebudgets
 precancer
 precensoring
+precensors
 preceptors
 precessional
 precessions
@@ -9925,6 +9947,7 @@ precommitment
 preconizes
 preconizing
 precooking
+precursors
 predatism
 predeceases
 prededucted
@@ -10419,6 +10442,7 @@ raggies
 raggy
 ragworts
 raia
+raids
 railcar
 railed
 railer
@@ -11327,6 +11351,7 @@ sandstorm
 sandworm
 sandworms
 sanga
+sangarees
 sangh
 sanghs
 sanitated
@@ -11500,6 +11525,7 @@ scrutinises
 scrying
 scuba
 scubas
+scuffer
 sculled
 sculler
 sculls
@@ -11607,6 +11633,7 @@ semitrucks
 semiurban
 sempervivum
 sempiternities
+senatorships
 senhoritas
 sennight
 sennights
@@ -11687,6 +11714,7 @@ shagging
 shaitan
 shako
 shammes
+shammied
 shamming
 shammos
 shammosim
@@ -11981,6 +12009,7 @@ slumism
 slumping
 slungshot
 slurban
+slyness
 slynesses
 smacking
 smallclothes
@@ -12250,6 +12279,7 @@ spiremes
 spiritism
 spiritist
 spiritualnesses
+spirochetes
 spirogyra
 spirometer
 spite
@@ -12313,6 +12343,7 @@ squabble
 squabs
 squad
 squadron
+squalider
 squamate
 squamates
 squamation
@@ -13460,6 +13491,7 @@ trijugous
 trilbies
 trilinear
 trilling
+trillion
 trimmest
 trimotors
 trinary
@@ -13911,6 +13943,7 @@ unruliest
 uns
 unsaintly
 unsalable
+unsatisfied
 unsaturates
 unschooled
 unscrews
@@ -14216,6 +14249,7 @@ visiting
 visualists
 visualizations
 vita
+vitae
 vitality
 vitals
 vitamins
@@ -14558,6 +14592,7 @@ worminesses
 wormish
 wormroot
 worse
+worsen
 worsets
 worship
 worsting

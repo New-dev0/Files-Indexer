@@ -1,0 +1,2 @@
+turnkey-core-15.0rc1-stretch-amd64.manifest,https://releases.turnkeylinux.org/turnkey-core/15.0rc1-stretch-amd64/turnkey-core-15.0rc1-stretch-amd64.manifest
+acpi-support-base 0.142-8 acpid 1:2.0.28-1+b1 adduser 3.115 apt ...,http://releases.turnkeylinux.org/turnkey-tkldev/15.0rc1-stretch-amd64/turnkey-tkldev-15.0rc1-stretch-amd64.manifest
