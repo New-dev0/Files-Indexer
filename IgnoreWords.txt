@@ -81,6 +81,7 @@ accumulators
 accurateness
 accursedness
 accusative
+acerber
 acerola
 acerose
 acetabulum
@@ -688,6 +689,7 @@ arrayals
 arrears
 arrest
 arrhizal
+arrowlike
 arrowworm
 arsenides
 arsino
@@ -919,10 +921,12 @@ backwardnesses
 backwashes
 backwoods
 bacterium
+bacteriurias
 badged
 badmintons
 baggies
 baguet
+bahts
 bails
 bairnlier
 baitfishes
@@ -949,16 +953,20 @@ balminess
 baloney
 bamboozlements
 banality
+banausic
 banda
+bandannas
 banded
 banderoles
 bandoliers
+bandsaws
 bandwidth
 bangkok
 banians
 bankside
 banksides
 banquette
+banzai
 baptismal
 baptismally
 barbarically
@@ -1116,6 +1124,7 @@ bemocking
 beneficial
 beneficiated
 benefited
+benevolentness
 bennets
 benny
 bens
@@ -1483,6 +1492,7 @@ branchia
 branchier
 branching
 brander
+brandings
 brandying
 brannigan
 brasher
@@ -2068,6 +2078,7 @@ cheesinesses
 cheffing
 chelatable
 chelicera
+cheloid
 chemisms
 chemoautotrophy
 chemosorbed
@@ -2576,6 +2587,7 @@ condoning
 condores
 coneflowers
 conepatls
+confab
 confabbed
 confectioners
 conferencings
@@ -2611,6 +2623,7 @@ conglomerative
 conglutination
 congresspersons
 congruously
+congruousnesses
 conical
 conics
 conidiophores
@@ -3483,6 +3496,7 @@ dexterity
 dexterousness
 dextran
 dextro
+dextrorse
 dhurna
 diabase
 diabolically
@@ -3989,6 +4003,7 @@ dyskinesia
 dyspepsy
 dysphagia
 dysphagias
+dystocias
 dystopias
 eagers
 eagle
@@ -4153,6 +4168,7 @@ embraceries
 embrangling
 embrocates
 embruted
+embryos
 eme
 emeerate
 emendators
@@ -4571,6 +4587,7 @@ extrapyramidal
 extravagance
 extravagancy
 extravasated
+extravehicular
 extraversion
 extremisms
 extremum
@@ -4695,6 +4712,7 @@ federative
 feds
 feedlot
 feeling
+feelings
 feijoa
 feldscher
 felicitated
@@ -5972,6 +5990,7 @@ hippies
 hippodrome
 hippy
 hircine
+hirsels
 histidins
 histologist
 histologists
@@ -6863,6 +6882,7 @@ jobholder
 jobname
 jockette
 jocund
+johnnycake
 joinder
 joinings
 joint
@@ -8690,6 +8710,7 @@ nucleonics
 nucleosides
 nucleosomes
 nucleosynthetic
+nucleotidases
 nuder
 nukes
 null
@@ -9825,6 +9846,7 @@ playwrightings
 pleaders
 pleads
 pleasantest
+pleasingness
 pleasures
 plebs
 pledget
@@ -10069,6 +10091,7 @@ precancer
 precensoring
 precensors
 preceptors
+precessing
 precessional
 precessions
 precheck
@@ -10369,6 +10392,7 @@ psittacosis
 psoraleas
 pst
 psyche
+psychiatry
 psychic
 psychobiography
 psychogenically
@@ -10439,6 +10463,7 @@ purges
 purled
 purlin
 purpleheart
+purportedly
 purposively
 purr
 purser
@@ -11142,6 +11167,7 @@ restrainer
 restraints
 restressed
 restrictionisms
+restring
 rests
 restudies
 restyling
@@ -11571,6 +11597,7 @@ sayings
 sayyids
 scagliolas
 scalariformly
+scalations
 scale
 scallywags
 scalpers
@@ -11668,6 +11695,7 @@ screenlands
 screwiest
 screwinesses
 scrimpiest
+scrimshanders
 scrive
 scrives
 scrod
@@ -12052,6 +12080,7 @@ sinusoid
 sipe
 siphon
 sirdars
+siring
 sirvente
 sirventes
 sistroid
@@ -12316,6 +12345,7 @@ soppinesses
 sora
 sorbabilities
 sorbitol
+sorcerous
 soricine
 sorners
 sorosises
@@ -12571,6 +12601,7 @@ starvation
 starveling
 starwort
 stashes
+stat
 stateliness
 staters
 statesmanship
@@ -13880,6 +13911,7 @@ unbelievers
 unbenign
 unbitted
 unblended
+unblest
 unbloody
 unblushing
 unbolting
@@ -14100,6 +14132,7 @@ unmovable
 unmoved
 unmuffle
 unorganized
+unpack
 unpatentable
 unplaced
 unpleasantly
@@ -14635,6 +14668,7 @@ wheelbarrow
 wheelman
 whelky
 whelming
+whenever
 whey
 whidahs
 whiffer
@@ -14834,6 +14868,7 @@ wrote
 wryer
 wryest
 wrynecks
+wulfenite
 wurzels
 wyandotte
 xantheins

@@ -1,0 +1,9 @@
+source-unpack.txt - Debian,http://ftp.debian.org/debian/doc/source-unpack.txt
+"=over =item unpack TEMPLATE,EXPR X<unpack> =item unpack ...",https://perldoc.perl.org/functions/unpack.txt
+"=over =item unpack TEMPLATE,EXPR X<unpack> =item unpack ...",https://perldoc.perl.org/5.18.3/functions/unpack.txt
+htmldocs/git-unpack-objects.txt at gh-pages · git/htmldocs · GitHub,https://github.com/git/htmldocs/blob/gh-pages/git-unpack-objects.txt
+git/git-unpack-file.txt at master - GitHub,https://github.com/git/git/blob/master/Documentation/git-unpack-file.txt
+sssd-dep8-update-sasl.txt - Ubuntu,http://people.ubuntu.com/~ahasenack/sssd-dep8-update-sasl.txt
+Ubuntu Security Notice USN-5446-2 - Packet Storm,https://packetstormsecurity.com/files/167319/USN-5446-2.txt
+Ubuntu Security Notice USN-5446-1 - Packet Storm,https://packetstormsecurity.com/files/167266/USN-5446-1.txt
+pack: Bare-Bones Version # # Synopsis: pack files along with all ...,https://linuxgazette.net/135/misc/tag/unpack.txt
