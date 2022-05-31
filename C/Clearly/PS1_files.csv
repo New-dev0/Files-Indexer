@@ -1,0 +1,9 @@
+Protect-CredentialsToFile.ps1 1.0.1 - PowerShell Gallery,https://www.powershellgallery.com/packages/Protect-CredentialsToFile/1.0.1/Content/Protect-CredentialsToFile.ps1
+Get-OsVersion.ps1 1.0.1 - PowerShell Gallery,https://www.powershellgallery.com/packages/GroupPolicyHelper/1.0.1/Content/Get-OsVersion.ps1
+TerminalAttractMode/AttractMode.ps1 at Main · shanselman ... - GitHub,https://github.com/shanselman/TerminalAttractMode/blob/Main/AttractMode.ps1
+master - GitHub,https://github.com/microsoft/DSCConfiguration.Tests/blob/master/.Build.ps1
+functions/Add-DbaCmsRegServer.ps1 0.9.708 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/dbatools/0.9.708/Content/functions%255CAdd-DbaCmsRegServer.ps1
+functions/Add-DbaRegServer.ps1 1.0.130 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/dbatools/1.0.130/Content/functions%255CAdd-DbaRegServer.ps1
+clean_cache.ps1 · main · mirrors / IdentityServer ... - GitCode,https://gitcode.net/mirrors/IdentityServer/IdentityServer4/-/blob/main/clean_cache.ps1
+Get-InstalledPrograms.ps1 #> $path = $env:temp $computer = $env ...,https://raw.githubusercontent.com/auberginehill/get-installed-programs/master/Get-InstalledPrograms.ps1
+.SYNOPSIS Script to test an IIS website for the most common setup ...,https://raw.githubusercontent.com/hahndorf/Test-WebSite/master/Test-WebSite.ps1

@@ -1,0 +1,1 @@
+quiet=0 action=browser timer=30 url=https://www.raspberrypi.com ...,https://raw.githubusercontent.com/elihuihms/raspi-kiosk/master/config.ini

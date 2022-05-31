@@ -884,6 +884,7 @@ balbriggan
 balconies
 balded
 baldpates
+baldrick
 balkanization
 balkier
 ballasting
@@ -916,6 +917,7 @@ barbwires
 bareboat
 bareboned
 barefacedly
+barehanding
 barhops
 baritone
 barium
@@ -1054,6 +1056,7 @@ belter
 bemata
 bemoans
 bemock
+bemocking
 beneficial
 beneficiated
 benefited
@@ -2143,6 +2146,7 @@ cleaning
 cleanly
 cleanses
 cleareyed
+clearly
 clearwings
 clencher
 clenches
@@ -2478,6 +2482,7 @@ congelation
 conglobates
 conglutination
 congresspersons
+congruously
 conical
 conics
 conidiophores
@@ -2630,6 +2635,7 @@ corrades
 corral
 correctable
 corrector
+correlatives
 correspondence
 corrigibility
 corrivals
@@ -2714,6 +2720,7 @@ crabstick
 crackajacks
 crackle
 cradler
+craftiest
 craftinesses
 crafting
 cram
@@ -2884,6 +2891,7 @@ curtailers
 curtailments
 curtalax
 curtalaxes
+curter
 curtest
 curule
 curvature
@@ -4995,6 +5003,7 @@ garaging
 garbing
 garblers
 garbs
+gargety
 garlic
 garlickier
 garlicky
@@ -5269,6 +5278,7 @@ grecize
 greed
 greedily
 greenbrier
+greenest
 greenfly
 greenishnesses
 greens
@@ -5423,6 +5433,7 @@ hall
 hallmark
 hallucinator
 hallways
+halo
 haloid
 halterbreaking
 haltless
@@ -5739,6 +5750,7 @@ hoodwinker
 hoodwinkers
 hook
 hookier
+hooligans
 hoopless
 hoopster
 hoosgow
@@ -6275,6 +6287,7 @@ interlock
 interloping
 intermats
 intermatted
+intermeddler
 intermediated
 intermezzi
 intermission
@@ -7441,6 +7454,7 @@ metalliferous
 metallizes
 metallizing
 metallographer
+metallographic
 metallurgical
 metalworks
 metaphoric
@@ -7588,12 +7602,14 @@ miscallers
 miscasts
 miscataloged
 misclassifies
+miscoin
 misconnection
 miscreated
 miscreations
 misdeals
 misdescriptions
 misdiagnosed
+misdivision
 misdo
 misdoer
 mise
@@ -7869,6 +7885,7 @@ multidialectal
 multielectrode
 multiengine
 multiethnics
+multifaceted
 multifid
 multiflash
 multigroup
@@ -8135,6 +8152,7 @@ nominalists
 nominee
 nonabsorbent
 nonantibiotic
+nonarguments
 nonas
 nonautomotive
 nonbacterial
@@ -9303,6 +9321,7 @@ placentation
 placid
 placks
 placoderm
+plagiarizes
 plainsman
 plainsongs
 plaint
@@ -9338,6 +9357,7 @@ platterful
 plausibilities
 plausibleness
 plausibly
+playbook
 playgoers
 playlet
 playlike
@@ -9891,6 +9911,7 @@ pula
 pule
 pulicide
 pullbacks
+pulled
 pullouts
 pulpers
 pulps
@@ -10093,6 +10114,7 @@ rants
 raper
 rapers
 rapids
+rappeling
 rappels
 rappen
 raptness
@@ -10490,6 +10512,7 @@ renown
 rentabilities
 reoccupied
 reopens
+reorientates
 reorients
 repairability
 repand
@@ -10510,6 +10533,7 @@ replica
 replicons
 replunging
 repolarization
+repolls
 repos
 repossessors
 repoured
@@ -10536,6 +10560,7 @@ repugning
 repumped
 repurposes
 requesting
+reread
 rerecorded
 reregister
 rerepeat
@@ -11250,6 +11275,7 @@ septicities
 sequels
 sequencing
 sequency
+sequestered
 sequitur
 seraphims
 sergeancy
@@ -11459,6 +11485,7 @@ singers
 singlestick
 singularities
 sink
+sinologists
 sins
 sinters
 sinusoid
@@ -11836,6 +11863,7 @@ spinless
 spins
 spinsters
 spinto
+spinulose
 spiraled
 spiremes
 spiritism
@@ -12641,6 +12669,7 @@ terrorisms
 terrorizations
 terrorless
 tertiaries
+tessellating
 testable
 testaceans
 testees
@@ -12706,6 +12735,7 @@ thinned
 thinnesses
 thinnish
 thiocyanate
+thionate
 thirams
 thirteenths
 thirtieths
@@ -13120,6 +13150,7 @@ tutties
 tutting
 tutus
 tuxedoed
+tweedles
 tweezing
 twelfth
 twerps
@@ -13452,6 +13483,7 @@ unscrews
 unsearchably
 unseasonably
 unseat
+unseeing
 unsegregated
 unsetting
 unsews
@@ -13848,6 +13880,7 @@ warmest
 warming
 warmongerings
 warmups
+warranted
 warsle
 washbowls
 washeteria
@@ -14080,6 +14113,7 @@ worship
 worsting
 worsts
 worthlessly
+worths
 wove
 wrackful
 wrangle
@@ -14101,6 +14135,7 @@ wristwatch
 writerly
 writhen
 writs
+wrongheadedly
 wrote
 wryer
 wryest
