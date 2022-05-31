@@ -308,6 +308,7 @@ allocators
 allonym
 alloplasms
 allotter
+allowancing
 allowing
 alloy
 alloying
@@ -441,6 +442,7 @@ angler
 anglicism
 angosturas
 angulations
+anhydrides
 ani
 animadverts
 animalian
@@ -816,6 +818,7 @@ autarch
 autarchical
 autarkies
 autarkist
+authenticators
 autistics
 autists
 autoantibodies
@@ -1282,6 +1285,7 @@ bleat
 bled
 blend
 bless
+blissfully
 blitzkrieg
 blizzards
 blizzardy
@@ -1572,6 +1576,7 @@ buffeter
 buffos
 bugged
 bugle
+bugler
 buhlwork
 build
 builds
@@ -2012,6 +2017,7 @@ chasers
 chasings
 chassis
 chastest
+chatchke
 chatelaine
 chats
 chatted
@@ -2401,6 +2407,7 @@ colluviums
 colobus
 cologarithm
 colonelcies
+coloni
 colonialisms
 colonialistic
 colonisation
@@ -2566,6 +2573,7 @@ conge
 congealed
 congealments
 congelation
+congenial
 conglobates
 conglomerative
 conglutination
@@ -2642,6 +2650,7 @@ contrabassoon
 contractibility
 contractual
 contradicts
+contraindicate
 contralateral
 contraries
 contredanses
@@ -3265,6 +3274,7 @@ delaine
 delectably
 delegate
 deliberateness
+delicious
 delicts
 delight
 delighted
@@ -3474,6 +3484,7 @@ dicasts
 dichasial
 dichondras
 dichotomizes
+dichotomously
 dichromat
 dicing
 dickens
@@ -3558,6 +3569,7 @@ dipterocarp
 directedness
 directer
 director
+dirges
 disability
 disables
 disabuse
@@ -4746,6 +4758,7 @@ fisheye
 fishhook
 fishhooks
 fishmongers
+fissionability
 fissiped
 fissural
 fitches
@@ -4762,6 +4775,7 @@ fizziest
 fizzle
 fjeld
 flabbergasting
+flabbergasts
 flabellate
 flabelliform
 flack
@@ -5677,6 +5691,7 @@ hardy
 harissa
 harl
 harlequinades
+harlotries
 harm
 harmful
 harming
@@ -6305,6 +6320,7 @@ incrossing
 incubates
 incudate
 inculpated
+incumbents
 incur
 incuriosity
 incurrence
@@ -6943,6 +6959,7 @@ knightlinesses
 knitter
 knobbly
 knobkerries
+knops
 knots
 knowingnesses
 knuckleballs
@@ -7642,6 +7659,7 @@ megalomanias
 megalomanic
 megalopolises
 megalopses
+megaplexes
 megaproject
 megaspore
 megs
@@ -8081,6 +8099,7 @@ moppets
 moralistically
 morassy
 mordantly
+mordents
 morenesses
 morganites
 morion
@@ -8151,6 +8170,7 @@ muktuks
 mulched
 mulcted
 muled
+mullah
 mullen
 mulling
 mullite
@@ -9826,8 +9846,10 @@ poops
 popedom
 popliteus
 popsies
+popularise
 popularly
 populism
+porisms
 pornographies
 porpoise
 port
@@ -9835,6 +9857,7 @@ portabellas
 porterage
 portieres
 porting
+poshness
 posited
 positing
 posits
@@ -10283,6 +10306,7 @@ punsters
 punt
 pupfishes
 pupil
+puppetries
 puppets
 pupping
 puppy
@@ -10396,6 +10420,7 @@ quixotic
 quixotical
 quizzers
 quizzicalities
+quodlibet
 quodlibets
 quotes
 qwerty
@@ -10685,6 +10710,7 @@ reek
 reel
 reeled
 reembarked
+reembraces
 reemerges
 reemploy
 reemployments
@@ -10898,6 +10924,7 @@ replunging
 repolarization
 repolls
 repos
+reposeful
 repossessors
 repoured
 reprehensible
@@ -11143,6 +11170,7 @@ ringside
 ringtosses
 riotousness
 ripping
+ripplet
 riprapped
 riskers
 risotto
@@ -12471,6 +12499,7 @@ stiffen
 stigmatist
 stilbenes
 stillborn
+stillest
 stills
 stimulant
 stingless
@@ -12657,6 +12686,7 @@ suborder
 suborn
 suboxide
 subphase
+subpopulations
 subreptitiously
 subrogation
 subsampling
@@ -12785,6 +12815,7 @@ superspecialist
 superspies
 superstars
 superstition
+superstitiously
 supersystem
 superwaves
 superwide
@@ -13349,6 +13380,7 @@ tortuosities
 tortuousness
 tossup
 totalisators
+totalised
 totalism
 totality
 toted
@@ -13457,6 +13489,7 @@ trephines
 trevallies
 triacetates
 trialogue
+triangulated
 triangulation
 triazin
 tribades
@@ -13626,6 +13659,7 @@ typhlitis
 typhous
 typography
 typologists
+tyrannising
 tyrannizes
 tyres
 tyrocidine
@@ -14720,6 +14754,7 @@ zeros
 zeugmas
 zincky
 zincy
+zine
 zingano
 zinged
 zings
