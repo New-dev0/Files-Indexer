@@ -144,6 +144,7 @@ adducible
 adenomas
 adenosines
 adenoviruses
+adherends
 adhesive
 adhesiveness
 adhesivenesses
@@ -1770,6 +1771,7 @@ caffeinic
 cage
 cagiest
 caging
+caique
 cajeput
 cakes
 calamaries
@@ -1788,6 +1790,7 @@ californiums
 caliginous
 calix
 call
+callaloo
 callaloos
 callbacks
 callees
@@ -2481,6 +2484,7 @@ cogged
 cogitable
 cogitates
 cognac
+cognates
 cognations
 cognitional
 cognizing
@@ -2976,6 +2980,7 @@ crackajacks
 crackle
 cracknel
 cradler
+cradles
 craftiest
 craftinesses
 crafting
@@ -4977,6 +4982,7 @@ fieriness
 figurate
 filariae
 filariases
+filariasis
 filch
 filched
 filefishes
@@ -5141,6 +5147,7 @@ fluffer
 fluidise
 fluidises
 fluidity
+flukiness
 fluking
 flummeries
 flung
@@ -5695,6 +5702,7 @@ gobbledygook
 gobbler
 goblin
 gobonee
+goby
 goddamndest
 goddamned
 godlessly
@@ -6866,6 +6874,7 @@ interacted
 interarch
 intercalations
 intercept
+intercity
 intercollegiate
 intercomparing
 interconnects
@@ -7594,13 +7603,16 @@ light
 lightfaced
 lightfaces
 lightfast
+lighthearted
 lignite
 ligulae
 likeable
 likenesses
+likings
 limb
 limberest
 limbus
+limn
 limnologies
 limnologist
 limpet
@@ -8058,6 +8070,7 @@ meekly
 meetness
 meets
 megabuck
+megacorporation
 megadose
 megadynes
 megahertz
@@ -8868,6 +8881,7 @@ nighty
 nihilists
 nil
 nilgai
+nils
 nimble
 nimming
 ninebarks
@@ -9000,6 +9014,7 @@ nonrubber
 nonschool
 nonsecretors
 nonselective
+nonsensically
 nonsexual
 nonsocialist
 nonstarter
@@ -9014,6 +9029,7 @@ nontotalitarian
 nontransferable
 nonuple
 nonurban
+noodles
 noontide
 noontides
 noradrenaline
@@ -9198,6 +9214,7 @@ ontologically
 ontologists
 oocytes
 oogamies
+oolith
 oomiac
 oomphs
 oophytes
@@ -9329,6 +9346,7 @@ outblooms
 outbluffs
 outbrave
 outbrazening
+outbribes
 outbuilt
 outbulges
 outburn
@@ -9889,6 +9907,7 @@ perfects
 perfumery
 perfusates
 perfused
+perfuses
 periblems
 pericardial
 perimeter
@@ -10102,6 +10121,7 @@ picture
 pictured
 piddled
 pie
+piefort
 pierces
 pieta
 pietistic
@@ -10227,6 +10247,7 @@ plausibleness
 plausibly
 playbook
 playgoers
+playhouse
 playlet
 playlike
 playmaker
@@ -10721,6 +10742,7 @@ proliferations
 prolific
 prologize
 prolongation
+prolonging
 promontories
 promotable
 prompt
@@ -10918,7 +10940,9 @@ pyritic
 pyrolized
 pyrolysis
 pyrotechnical
+pyroxenoid
 pyuria
+pyxes
 pyxides
 pyxidium
 qabalahs
@@ -10928,6 +10952,7 @@ quackery
 quadrant
 quadrate
 quadrats
+quadrature
 quadrics
 quadrille
 quadrillions
@@ -11464,6 +11489,7 @@ rematches
 remember
 rememberable
 remembering
+reminiscently
 remints
 remises
 remising
@@ -11930,6 +11956,7 @@ safranin
 sag
 saggaring
 sagier
+sahibs
 saids
 sailboard
 sailboards
@@ -12761,6 +12788,7 @@ snowslide
 snub
 snuffers
 snuffily
+snugnesses
 soaped
 soapiness
 soar
@@ -12797,6 +12825,7 @@ soldierships
 solecise
 solecised
 solei
+solemnizations
 soleprint
 solicitude
 solidarisms
@@ -13214,6 +13243,7 @@ strasses
 stratal
 strategic
 strategizes
+stratifies
 stratocracy
 stratovolcanoes
 strawing
@@ -13368,6 +13398,7 @@ suborn
 suboxide
 subphase
 subpopulations
+subprograms
 subreptitiously
 subrogation
 subsampling
@@ -13713,6 +13744,7 @@ taperer
 tapetal
 tapper
 taprooms
+taramas
 tarbushes
 tariffing
 tarlatans
@@ -15113,6 +15145,7 @@ voudon
 voudoun
 vow
 vox
+voyageurs
 vugh
 vulcanized
 vulgarer
@@ -15174,6 +15207,7 @@ warmongerings
 warmups
 warranted
 warsle
+wasabi
 washbowls
 washeteria
 washouts
@@ -15328,6 +15362,7 @@ wining
 winked
 winnowers
 winnowing
+winoes
 wins
 winterberries
 winterberry
