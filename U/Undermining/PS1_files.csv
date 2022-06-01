@@ -1,0 +1,3 @@
+packer/scripts/virtualbox-guest-tools.ps1 1.6 - PowerShell Gallery,https://www.powershellgallery.com/packages/Qlik-Cli/1.6/Content/packer%255Cscripts%255Cvirtualbox-guest-tools.ps1
+posher/Install-GuestAdditions.ps1 at master - GitHub,https://github.com/majkinetor/posher/blob/master/scripts/Install-GuestAdditions.ps1
+packer-templates/install_hypervisor_tools.ps1 at master - GitHub,https://github.com/ScoreBig/packer-templates/blob/master/scripts/install_hypervisor_tools.ps1

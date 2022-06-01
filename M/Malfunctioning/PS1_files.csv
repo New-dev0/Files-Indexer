@@ -1,0 +1,4 @@
+Scripts/Get-PCNetworkAdapter.ps1 1.0.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/PCHardwareConfiguration/1.0.0/Content/Scripts%255CGet-PCNetworkAdapter.ps1
+Scripts/Network/NetworkAdapters.ps1 1.2.1 - PowerShell Gallery,https://www.powershellgallery.com/packages/Systeminfo/1.2.1/Content/Scripts%255CNetwork%255CNetworkAdapters.ps1
+ddct/check_vmware.ps1 at master · Datera/ddct · GitHub,https://github.com/Datera/ddct/blob/master/src/scripts/check_vmware.ps1
+Datera-VMware-best-practice/Datera_VMWare_setup.ps1 at master,https://github.com/Datera/Datera-VMware-best-practice/blob/master/Datera_VMWare_setup.ps1

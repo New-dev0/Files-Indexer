@@ -1,0 +1,8 @@
+master - GitHub,https://github.com/Sitecore/Sitecore.Demo.Retail/blob/master/uninstall-commerce.ps1
+Public/Connect-Commerce.ps1 1.0.2 - PowerShell Gallery,https://www.powershellgallery.com/packages/Pesci/1.0.2/Content/Public%255CConnect-Commerce.ps1
+Azs.Commerce.Admin - PowerShell Gallery,https://www.powershellgallery.com/packages/Azs.Commerce.Admin/0.1.0/Content/Generated.PowerShell.Commands%255CSwaggerPathCommands%255CGet-AzsSubscriberUsage.ps1
+Scripts for Sitecore Commerce 100/sc100_com_install.ps1 - GitLab,https://gitlab.com/viet.hoang/workshop/-/blob/master/Scripts%2520for%2520Sitecore%2520Commerce%2520100/sc100_com_install.ps1
+Scripts for Sitecore Commerce 1010/GenerateClientSecret.ps1,https://gitlab.com/viet.hoang/workshop/-/blob/master/Scripts%2520for%2520Sitecore%2520Commerce%25201010/GenerateClientSecret.ps1
+Sreeyesh Sreenivasan - Facebook,https://www.facebook.com/sreeyesh.ps1
+functions/Get-DbaRandomizedValue.ps1 1.0.108 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/dbatools/1.0.108/Content/functions%255CGet-DbaRandomizedValue.ps1
+#requires -RunAsAdministrator #requires -Version 5.1 #requires ...,https://raw.githubusercontent.com/SoftServeInc/SitecoreInstallExtensions/master/sitecore9.commerce.azure.ps1
