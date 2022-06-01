@@ -1,0 +1,5 @@
+scripts/Shelf.ps1 3.4.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/HPEAlletra6000andNimbleStoragePowerShellToolkit/3.4.0/Content/scripts%255CShelf.ps1
+GitTabExpansion.ps1 1.0.0-beta4 - PowerShell Gallery,https://www.powershellgallery.com/packages/posh-git/1.0.0-beta4/Content/GitTabExpansion.ps1
+posh-git/GitTabExpansion.ps1 at master - GitHub,https://github.com/dahlbyk/posh-git/blob/master/src/GitTabExpansion.ps1
+playto-tools/playto-tools.ps1 at master · riverar/playto-tools · GitHub,https://github.com/riverar/playto-tools/blob/master/playto-tools.ps1
+"set-alias nant ""C:\Program Files\NAnt\bin.net-2.0\nant.exe""; nant ""-f ...",https://svn.re-motion.org/svn/Remotion/shelves/MK%2520ReflectionUtility%2520Type%2520Ascribing/Build-CommonsLocalDoc.ps1

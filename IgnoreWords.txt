@@ -63,6 +63,7 @@ acalephs
 acanthi
 acarologies
 acceded
+accedence
 accedences
 accelerates
 accept
@@ -929,6 +930,7 @@ babu
 babydoll
 babyishly
 bacalao
+bacchanals
 bacchantes
 bachelorhood
 back
@@ -1089,6 +1091,7 @@ beasts
 beatable
 beatify
 beauteousnesses
+beaux
 beavering
 becaps
 becarpeted
@@ -1199,6 +1202,7 @@ beths
 betokening
 betroths
 bettering
+bevelled
 bevomiting
 bevor
 bewailer
@@ -1561,6 +1565,7 @@ brava
 braved
 bravely
 bravo
+bravoes
 brawlier
 brawnier
 brazening
@@ -2931,6 +2936,7 @@ counterplay
 counterplays
 counterprotest
 counterpunching
+counterreaction
 countersigning
 countersue
 countervails
@@ -3529,6 +3535,7 @@ deposal
 deposed
 deposes
 depositing
+depositors
 deprecatingly
 depreciates
 depreciation
@@ -3772,6 +3779,7 @@ disapproval
 disarmament
 disaster
 disavow
+disbelieves
 disbound
 disbranched
 disburden
@@ -3858,6 +3866,7 @@ disrated
 disregard
 disregarding
 disrelishes
+disrepute
 disrupt
 disruptively
 disruptor
@@ -4300,6 +4309,7 @@ em
 emaciate
 emaciations
 email
+emails
 emanant
 emanating
 emancipated
@@ -4743,6 +4753,7 @@ extemporally
 extendednesses
 extensity
 extents
+extenuator
 exteriorised
 exterminating
 extermination
@@ -4928,6 +4939,7 @@ ferriferous
 ferrimagnetisms
 ferrocyanides
 ferromagnetic
+ferromagnetisms
 ferromanganese
 ferrying
 feruled
@@ -5751,6 +5763,7 @@ graphemically
 graphitized
 graphs
 grapier
+grassless
 grassy
 grated
 grateless
@@ -6066,6 +6079,7 @@ hearkeners
 hearsays
 heartbreaker
 heartening
+heartfelt
 hearths
 heartsome
 heatable
@@ -6163,6 +6177,7 @@ hesitance
 hetairas
 heterodox
 heterodoxies
+heterodyning
 heterogeny
 heterokaryons
 heterokaryoses
@@ -6408,6 +6423,7 @@ hydromels
 hydrometer
 hydrometric
 hydroperoxide
+hydrophones
 hydrophytes
 hydrosere
 hydrospaces
@@ -6969,6 +6985,7 @@ inverity
 inversed
 invertase
 invertor
+invest
 investigations
 investigative
 investigatory
@@ -7171,6 +7188,7 @@ judgment
 judicial
 judoists
 judoka
+jughead
 jugsful
 jugula
 juicer
@@ -7585,6 +7603,7 @@ limberest
 limbus
 limnologies
 limnologist
+limpet
 limpidnesses
 limpsiest
 limy
@@ -8037,6 +8056,7 @@ medulla
 medusa
 meekly
 meetness
+meets
 megabuck
 megadose
 megadynes
@@ -8252,6 +8272,7 @@ minicar
 minicomputer
 minifying
 minilab
+minimax
 miniski
 miniskis
 ministerial
@@ -8358,6 +8379,7 @@ misrecord
 misreferences
 misrelated
 misrelies
+misrepresents
 misroutes
 missaid
 missenses
@@ -9088,6 +9110,7 @@ obturate
 obturations
 obtusity
 obverting
+occidentally
 occiputs
 occluding
 occlusions
@@ -9613,6 +9636,7 @@ palmer
 palmitins
 palmyra
 palpi
+palpitated
 palsied
 palsies
 palter
@@ -9624,6 +9648,7 @@ paludal
 pampa
 panatella
 pancetta
+pancratiums
 pandemonium
 panetella
 panetellas
@@ -9706,6 +9731,7 @@ participations
 particulate
 partlet
 partnered
+partnership
 partygoers
 parvis
 pashalik
@@ -9891,6 +9917,7 @@ perjurious
 perkish
 permanently
 permian
+permitter
 permuting
 perniciousness
 pernods
@@ -10302,6 +10329,7 @@ polybutadiene
 polycarbonates
 polychromy
 polydactyly
+polydipsias
 polydispersity
 polygamized
 polygamizes
@@ -10398,6 +10426,7 @@ postriders
 postsynaptic
 posttransfusion
 posttreatment
+postulant
 pot
 potable
 poteen
@@ -11613,6 +11642,7 @@ reticulation
 reticulum
 reticulums
 retighten
+retile
 retiled
 retinacula
 retinoid
@@ -12305,6 +12335,7 @@ serosity
 serotine
 serpents
 serpiginously
+serriedly
 servable
 servants
 served
@@ -12378,6 +12409,7 @@ shellfishery
 shellier
 sheltas
 shelty
+shelved
 shelving
 shepherdesses
 shereef
@@ -12622,6 +12654,7 @@ slipsheets
 slithered
 slitted
 slitter
+sliverer
 sliverers
 slivovic
 slivovices
@@ -12756,6 +12789,7 @@ soignee
 soiling
 soilures
 sokol
+solanines
 solanins
 solarium
 soldan
@@ -15188,6 +15222,7 @@ webworms
 wedder
 wedelns
 weekday
+weenier
 weenies
 weensiest
 weevers
