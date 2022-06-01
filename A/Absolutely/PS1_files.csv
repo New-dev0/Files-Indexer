@@ -1,0 +1,7 @@
+Private/Get-ShortDateTime.ps1 1.0.2 - PowerShell Gallery,https://www.powershellgallery.com/packages/PackerBaseAMI/1.0.2/Content/Private%255CGet-ShortDateTime.ps1
+web-dev-environment-setup/setup-windows-dev-env.ps1 at master ...,https://github.com/duluca/web-dev-environment-setup/blob/master/setup-windows-dev-env.ps1
+"$ErrorActionPreference = ""Stop"" $WarningActionPreference = ""Stop ...",https://raw.githubusercontent.com/Microsoft/nav-arm-templates/master/CleanupAfterDocker.ps1
+internal/functions/Invoke-DbaDbCorruption.ps1 1.1.4 - PowerShell ...,https://psg-prod-centralus.cloudapp.net/packages/dbatools/1.1.4/Content/internal%255Cfunctions%255CInvoke-DbaDbCorruption.ps1
+NewRemoteAddress.ps1 · master · Petar Rahnev / Powershell ...,https://git.oblak.bg/rahnev/powershell-scripts/-/blob/master/NewRemoteAddress.ps1
+Files · 4fe9cd3145b74fe590a78bf1c64f5df5a0c46dc2 · vamp / auto ...,https://git.scicore.unibas.ch/vamp/auto-tx/-/blob/4fe9cd3145b74fe590a78bf1c64f5df5a0c46dc2/AutoTx/Resources/Make-Package.ps1
+mj/Windows10Debloater - Windows10Debloater - antipode.info GIT,https://git.antipode.net/mj/Windows10Debloater/blame/commit/8f95557ee009f9342878d83513316476ac48e63d/Windows10Debloater.ps1
