@@ -169,6 +169,7 @@ adularias
 adulteresses
 adumbrate
 advanced
+advancement
 adventive
 adverbial
 advertent
@@ -540,6 +541,7 @@ antinucleons
 antiozonant
 antiphons
 antiplague
+antipolitical
 antipolitics
 antipollution
 antipollutions
@@ -738,6 +740,7 @@ asceticisms
 ascomycete
 ascorbate
 ascorbic
+ash
 ashfall
 ashier
 ashinesses
@@ -755,6 +758,7 @@ asperity
 asphalt
 aspidistras
 aspirational
+aspish
 assaulting
 assaults
 assegai
@@ -1291,6 +1295,7 @@ biradical
 bird
 birdbath
 birdbrain
+birdcages
 birders
 birdfarm
 birdies
@@ -1479,6 +1484,7 @@ boskage
 botanic
 botanized
 botanizer
+botanizers
 botels
 both
 bothriums
@@ -2020,6 +2026,7 @@ celibacies
 cellar
 cellphones
 cellulites
+cense
 censer
 censors
 censured
@@ -2957,6 +2964,7 @@ crambe
 cramp
 crampfish
 crampons
+cranberries
 craniosacral
 craniotomy
 cranker
@@ -3256,6 +3264,7 @@ darkly
 darkness
 darnedests
 darnel
+dartle
 dashing
 dashis
 dastard
@@ -3845,6 +3854,7 @@ disseminator
 dissents
 dissertators
 disserting
+disserviceable
 disses
 disseverances
 dissimilatory
@@ -4299,6 +4309,7 @@ embrangling
 embrittle
 embrocates
 embruted
+embryologies
 embryos
 eme
 emeerate
@@ -4952,6 +4963,7 @@ finbacks
 finch
 finer
 fines
+fingerpickings
 fingerposts
 fingerprintings
 finickinesses
@@ -5506,6 +5518,7 @@ gemot
 gen
 generalises
 generalizable
+generation
 generational
 generosities
 generousnesses
@@ -5580,6 +5593,7 @@ gladiate
 gladsomer
 glairier
 glamorised
+glamorized
 glamorizers
 glamorousness
 glandular
@@ -5670,6 +5684,7 @@ goop
 goose
 gooseberries
 gorbellies
+gorditas
 gossippers
 goth
 gothicize
@@ -6836,6 +6851,7 @@ interliner
 interlinked
 interlock
 interloping
+intermarry
 intermats
 intermatted
 intermeddler
@@ -7996,6 +8012,7 @@ megalomanic
 megalopolises
 megalopses
 megaplexes
+megapod
 megaproject
 megaspore
 megs
@@ -8903,6 +8920,7 @@ nonparties
 nonpasts
 nonpliant
 nonplusses
+nonpoint
 nonporous
 nonpossession
 nonpregnant
@@ -9456,6 +9474,7 @@ overtalk
 overtalkative
 overtalking
 overteach
+overthick
 overtnesses
 overtoiled
 overtrain
@@ -9499,6 +9518,7 @@ pacification
 pacificators
 pacifistically
 packabilities
+package
 packager
 packed
 packers
@@ -9776,6 +9796,7 @@ penults
 pep
 pepino
 pepperboxes
+peptizes
 peptonizes
 percaline
 perceivers
@@ -9911,6 +9932,7 @@ philistinisms
 philologists
 philomelas
 philosophic
+philosophical
 philosophize
 philosophizes
 philosophizing
@@ -10033,6 +10055,7 @@ pillars
 pillows
 pillowy
 pilotages
+pimpmobile
 pinballed
 pinchbug
 pinesaps
@@ -10186,6 +10209,7 @@ pock
 pockmarks
 pocosin
 podgiest
+podium
 podocarp
 podsols
 poetised
@@ -10793,6 +10817,7 @@ pushes
 pusillanimity
 pussyfoot
 putrescence
+putridities
 putridity
 putridly
 putsches
@@ -11191,6 +11216,7 @@ reemployments
 reendow
 reendowed
 reenforced
+reenlarges
 reenlistment
 reenlistments
 reentered
@@ -11216,6 +11242,7 @@ refiled
 refilling
 refinable
 refined
+refiners
 refire
 refixed
 reflectors
@@ -12717,6 +12744,7 @@ soppinesses
 sora
 sorbabilities
 sorbitol
+sorbs
 sorcerous
 soricine
 sorners
@@ -13084,6 +13112,7 @@ strake
 stramashes
 strandednesses
 stranders
+strangle
 strass
 strasses
 stratal
@@ -13300,6 +13329,7 @@ suggestions
 suite
 suiters
 suitors
+sulfhydryls
 sulfitic
 sulfonamides
 sulfones
@@ -14470,6 +14500,7 @@ unfledged
 unflexed
 unflinching
 unfold
+unfossiliferous
 unfreezes
 unfrock
 unfurls
@@ -14845,9 +14876,11 @@ vermiculate
 vermifuges
 vermilioning
 vermuth
+vernicles
 vernissage
 versal
 versatileness
+versatility
 versifying
 verso
 versts
@@ -14890,6 +14923,7 @@ vigilantisms
 vignerons
 vignetters
 vilest
+vilifiers
 villages
 villanelle
 villas
@@ -15058,6 +15092,7 @@ waterweed
 wattled
 waul
 wavelengths
+wavelike
 waveringly
 wavers
 wavies

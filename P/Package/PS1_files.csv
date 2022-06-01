@@ -1,0 +1,8 @@
+src/public/Get-Package.ps1 1.2.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/Chocolatier/1.2.0/Content/src%255Cpublic%255CGet-Package.ps1
+ReDistribute-Package.ps1 1.0.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/ReDistribute-Package/1.0.0/Content/ReDistribute-Package.ps1
+master - GitHub,https://github.com/PentiaLabs/Package.Installer/blob/master/powershell-scripts/Install-packages.ps1
+ci/build-package.ps1 at master · atom/ci - GitHub,https://github.com/atom/ci/blob/master/build-package.ps1
+PSDependScripts/Package.ps1 0.1.40 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/PSDepend/0.1.40/Content/PSDependScripts%255CPackage.ps1
+package.ps1 - activemq-nms-openwire - Git at Google,https://apache.googlesource.com/activemq-nms-openwire/%2B/0ccbe7e8c68d41709375fe6bcbff75dbc8e917fd/package.ps1
+tools/Sign-Package.ps1 · FixDotnetUpdate - PowerShell - GitCode,https://gitcode.net/mirrors/PowerShell/PowerShell/-/blob/FixDotnetUpdate/tools/Sign-Package.ps1
+Pendant.CodeAnalysis/Pendant.CodeAnalysis.Package/tools ...,https://gitlab.cs.ksu.edu/cse/pendant.codeanalysis/-/blob/6d0d4507178e75ecda86c08fe613031cbcf87510/Pendant.CodeAnalysis/Pendant.CodeAnalysis.Package/tools/uninstall.ps1
