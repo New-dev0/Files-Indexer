@@ -147,6 +147,7 @@ adjacencies
 adjectively
 adjournments
 adjudge
+adjudications
 adjunct
 adjutant
 adjutants
@@ -2030,6 +2031,7 @@ ceremonialism
 cerises
 certifiable
 ceruloplasmins
+cessation
 chabouk
 chacma
 chador
@@ -2761,6 +2763,7 @@ convector
 convened
 conveniences
 conventiclers
+conventionality
 conversancy
 converses
 convexes
@@ -3438,6 +3441,7 @@ demythologizer
 denars
 denatured
 denegations
+deniable
 denitrating
 denominates
 denouement
@@ -3628,6 +3632,7 @@ didact
 didacticism
 didacticisms
 didjeridoo
+didjeridu
 didymous
 die
 dieselizing
@@ -3687,6 +3692,7 @@ diphyletic
 diploblastic
 diploid
 diplomacies
+diplomate
 dipnoans
 dipsomania
 dipsos
@@ -4246,6 +4252,7 @@ embarrass
 embassage
 embeds
 embezzlers
+embitter
 embitters
 emblazoner
 emblemized
@@ -4465,6 +4472,7 @@ eradicable
 eradicated
 erasabilities
 erase
+erective
 eremuruses
 erepsins
 ergo
@@ -5714,6 +5722,7 @@ grift
 grifts
 grilse
 grim
+grimily
 gripsacks
 griskins
 gristliest
@@ -6217,6 +6226,7 @@ hope
 hoplites
 hopsacking
 hopsacks
+hopscotched
 hoptoad
 horehound
 horniest
@@ -6224,6 +6234,7 @@ horninesses
 hornist
 horologists
 horrid
+horsebeans
 horsepox
 horsepoxes
 horseshit
@@ -6701,6 +6712,7 @@ inosculated
 inpour
 inputting
 inquirer
+insalubrities
 insalubrity
 insatiable
 inscroll
@@ -7640,6 +7652,7 @@ lucarnes
 luck
 lucked
 lucubrating
+luger
 lullabied
 lullabies
 lumberjacks
@@ -8204,6 +8217,7 @@ misidentifying
 misimpression
 misimpressions
 misinform
+misinforms
 misinter
 misinterpret
 misinterred
@@ -8324,6 +8338,7 @@ monellins
 monetization
 money
 moneygrubbing
+moneyworts
 mongrel
 moniliform
 monishing
@@ -8704,6 +8719,7 @@ newwavers
 niche
 nickelous
 nicker
+nictitant
 nictitates
 nidate
 nidates
@@ -8896,6 +8912,7 @@ nth
 nubbiness
 nubbly
 nucleal
+nucleates
 nucleoids
 nucleonics
 nucleosides
@@ -8952,6 +8969,7 @@ obstetricians
 obstinatenesses
 obstructions
 obstruent
+obtundents
 obturate
 obturations
 obtusity
@@ -9328,6 +9346,7 @@ overhuntings
 overinflate
 overinform
 overingenious
+overingenuity
 overissuances
 overjoyed
 overlavish
@@ -10058,6 +10077,7 @@ playwrightings
 pleaders
 pleads
 pleasantest
+pleaser
 pleasingness
 pleasures
 plebs
@@ -10951,6 +10971,7 @@ rebegin
 rebelling
 reblended
 rebloomed
+rebodied
 rebodies
 rebought
 rebranching
@@ -11099,6 +11120,7 @@ reenforced
 reenlistment
 reenlistments
 reentered
+reerecting
 reescalation
 reestablish
 reestablishment
@@ -12313,6 +12335,7 @@ silvern
 silverpoint
 silverware
 silviculturally
+simile
 similitudes
 simmers
 simoniacal
@@ -13691,6 +13714,7 @@ thriftinesses
 thrive
 thriven
 throbbed
+thrombi
 thromboembolic
 thromboplastic
 thromboxane
@@ -14071,6 +14095,7 @@ tubule
 tucket
 tuffet
 tugger
+tuitional
 tularemias
 tullibees
 tumefying
@@ -14486,6 +14511,7 @@ unsegregated
 unsetting
 unsews
 unshelling
+unslings
 unsmiling
 unsnapped
 unsnarling
@@ -14615,6 +14641,7 @@ valorized
 valpolicellas
 valuablenesses
 valuta
+valvar
 valvula
 valvules
 vambraces
