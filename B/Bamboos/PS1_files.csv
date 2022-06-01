@@ -1,0 +1,5 @@
+packer-bamboo/SetUpWinRM.ps1 at master - GitHub,https://github.com/SkeltonThatcher/packer-bamboo/blob/master/scripts/SetUpWinRM.ps1
+packer-bamboo/InstallBambooServer.ps1 at master - GitHub,https://github.com/SkeltonThatcher/packer-bamboo/blob/master/scripts/InstallBambooServer.ps1
+Functions/BuildResult/Get-BambooResult.ps1 2.0.0.0 - PowerShell ...,https://www.powershellgallery.com/packages/PsBamboo/2.0.0.0/Content/Functions%255CBuildResult%255CGet-BambooResult.ps1
+Functions/BuildLog/Get-BambooBuildLog.ps1 3.1.0.58 - PowerShell ...,https://www.powershellgallery.com/packages/PsBamboo/3.1.0.58/Content/Functions%255CBuildLog%255CGet-BambooBuildLog.ps1
+Source of jira-example.ps1 - Powershell - Bitbucket,https://bitbucket.cprime.io/projects/CAP/repos/powershell/browse/jira-example.ps1
