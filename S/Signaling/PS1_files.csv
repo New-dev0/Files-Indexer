@@ -1,0 +1,5 @@
+dash-live-source-simulator-drm-data-generator/Generate.ps1 - GitHub,https://github.com/Dash-Industry-Forum/dash-live-source-simulator-drm-data-generator/blob/master/Generate.ps1
+azure-pipelines-tasks/Publish-UpgradedServiceFabricApplication ...,https://github.com/microsoft/azure-pipelines-tasks/blob/master/Tasks/ServiceFabricDeployV1/ServiceFabricSDK/Publish-UpgradedServiceFabricApplication.ps1
+mediantdoc.ps1 0.0.1 - PowerShell Gallery,https://www.powershellgallery.com/packages/mediantdoc/0.0.1/Content/mediantdoc.ps1
+[cmdletbinding()] param ( [switch]$Timing ) #https://sysadmins.lv ...,https://raw.githubusercontent.com/argiesen/Get-CsReport/master/Get-CsReport.ps1
+ServiceFabric/Windows/Infrastructure/eShopOnServiceFabricSql/Sql ...,https://git.unclev.ru/docker/eShopOnContainers/-/blob/5e9c12e5c39adc36c520d474d92b566afe15b63c/ServiceFabric/Windows/Infrastructure/eShopOnServiceFabricSql/Sql/Scripts/Deploy-FabricApplication.ps1

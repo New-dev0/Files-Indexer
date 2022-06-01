@@ -1,0 +1,2 @@
+PSBucket/aad_controlled_localadmins.ps1 at master - GitHub,https://github.com/mardahl/MyScripts-iphase.dk/blob/master/aad_controlled_localadmins.ps1
+This script is executed on every boot. Even though we lack even ...,https://raw.githubusercontent.com/bazelbuild/continuous-integration/d127ed562c7dbec9f6d688ccee231900e0b3dda7/gce/jenkins-slave-windows.ps1
