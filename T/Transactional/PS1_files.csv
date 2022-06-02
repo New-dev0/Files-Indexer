@@ -1,0 +1,7 @@
+Functions/Install-MsmqMessageQueue.ps1 2.8.1 - PowerShell Gallery,https://www.powershellgallery.com/packages/Carbon/2.8.1/Content/Functions%255CInstall-MsmqMessageQueue.ps1
+functions/Get-DbaRepPublication.ps1 0.9.708 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/dbatools/0.9.708/Content/functions%255CGet-DbaRepPublication.ps1
+rubrik-scripts-for-powershell/get_all_backup_events.ps1 at master,https://github.com/rubrikinc/rubrik-scripts-for-powershell/blob/master/Reporting/get_all_backup_events.ps1
+BizTalk-Server-Resources/Create-MSMQ.ps1 at master · sandroasp ...,https://github.com/sandroasp/BizTalk-Server-Resources/blob/master/PowerShell-scripts/MSMQ-Create-MSMQ/Create-MSMQ.ps1
+functions/Test-DbaRepLatency.ps1 1.1.5 - PowerShell Gallery,https://40.87.85.101/packages/dbatools/1.1.5/Content/functions%255CTest-DbaRepLatency.ps1
+Framework/Core/SVT ... - PowerShell Gallery Test,https://www.poshtestgallery.com/packages/AzSKStaging/3.0.13/Content/Framework%255CCore%255CSVT%255CServicesSecurityStatus.ps1
+Created: 2018-02-01 Version: 1.0 Author Dave Kawula MVP ...,https://raw.githubusercontent.com/dkawula/Operations/master/System%2520Center/Install-SCOM-Hyper-V.PS1

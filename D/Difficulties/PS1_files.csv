@@ -1,0 +1,2 @@
+Use-Git.ps1 0.1.6 - PowerShell Gallery,https://www.powershellgallery.com/packages/ugit/0.1.6/Content/Use-Git.ps1
+using module ..\Modules\Include.psm1 param( [PSCustomObject ...,https://raw.githubusercontent.com/RainbowMiner/RainbowMiner/master/Pools/Icemining.ps1
