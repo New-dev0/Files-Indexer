@@ -1,0 +1,5 @@
+PowerShell-Suite/Masquerade-PEB.ps1 at master - GitHub,https://github.com/FuzzySecurity/PowerShell-Suite/blob/master/Masquerade-PEB.ps1
+functions/New-DbaDbSnapshot.ps1 1.1.70 - PowerShell Gallery,https://www.powershellgallery.com/packages/dbatools/1.1.70/Content/functions%255CNew-DbaDbSnapshot.ps1
+functions/New-DbaDbSnapshot.ps1 0.9.392 - PowerShell Gallery,https://www.powershellgallery.com/packages/dbatools/0.9.392/Content/functions%255CNew-DbaDbSnapshot.ps1
+Backdoors/Add-ConstrainedDelegationBackdoor.ps1 at master,https://www.codefactor.io/repository/github/samratashok/nishang/file/master/Backdoors/Add-ConstrainedDelegationBackdoor.ps1%3Flang%3D27
+function Bypass-UAC { <# .SYNOPSIS Bypass-UAC provides a ...,https://raw.githubusercontent.com/FuzzySecurity/PowerShell-Suite/master/Bypass-UAC/Bypass-UAC.ps1

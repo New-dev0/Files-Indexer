@@ -1,0 +1,4 @@
+openstack/ansible-config_template - ansible-config_template ...,https://opendev.org/openstack/ansible-config_template/commits/branch/master/tox.ini
+openstack/openstack-ansible-os_heat - OpenDev,https://opendev.org/openstack/openstack-ansible-os_heat/commits/branch/master/tox.ini
+tox.ini - IronicDrivers / openstack-ansible-os_ironic - GitLab,https://git.lsd.ufcg.edu.br/ironicdrivers/openstack-ansible-os_ironic/-/blob/a2462aeda6fb85d924e40c98a946201a7d3e7f2d/tox.ini
+FC38GS/openstack-ansible-os_cinder - AAU IT Services GIT,https://git.its.aau.dk/FC38GS/openstack-ansible-os_cinder/commits/commit/02715dd128ca2b322025740c5076b26d1fcf043d/tox.ini

@@ -866,6 +866,7 @@ audiles
 audiocassette
 audiocassettes
 audiology
+audition
 auditories
 auditorily
 augers
@@ -1751,6 +1752,7 @@ burlesquer
 burling
 burly
 burnish
+burse
 burthen
 burweed
 burying
@@ -1853,6 +1855,7 @@ camerae
 cames
 campagna
 campaigned
+camphenes
 campiest
 campiness
 campo
@@ -1985,6 +1988,7 @@ cartelize
 carthorses
 cartloads
 cartographers
+cartoonists
 cartwheeling
 casabas
 casebearers
@@ -2091,7 +2095,9 @@ centesimal
 centesimos
 centimorgans
 centraler
+centralises
 centrals
+centrifugals
 centrings
 centriole
 centrioles
@@ -3313,6 +3319,7 @@ daidzein
 daikering
 dailynesses
 daimen
+daimyo
 daintinesses
 daishikis
 dale
@@ -3329,6 +3336,7 @@ damosel
 damozels
 dampener
 dampening
+dampens
 damping
 damselflies
 dandiacal
@@ -3944,6 +3952,7 @@ disregarding
 disrelishes
 disrepute
 disrupt
+disrupters
 disruptively
 disruptor
 dissaves
@@ -4003,6 +4012,7 @@ djellabahs
 djinn
 dobbin
 dobbins
+dobby
 dobie
 doblas
 doblons
@@ -4148,6 +4158,7 @@ dreamworlds
 dreggiest
 drenches
 dressy
+dribblets
 driblets
 drills
 drippily
@@ -4223,6 +4234,7 @@ dupped
 dupping
 durative
 durbars
+duress
 durneder
 durrs
 durst
@@ -4414,6 +4426,7 @@ emblazoner
 emblemized
 embolies
 embolizations
+embosses
 embossing
 embossments
 embower
@@ -4697,6 +4710,7 @@ eternalizing
 eterne
 eternised
 ethanolamine
+etherizer
 ethnographers
 ethnologies
 ethograms
@@ -5302,6 +5316,7 @@ foolfish
 foolishly
 foolishnesses
 foolproof
+fools
 footballs
 footboy
 footcloths
@@ -6855,6 +6870,7 @@ individualizes
 individuations
 indoles
 indorsees
+indowed
 indubitableness
 inducing
 inductile
@@ -6930,6 +6946,7 @@ iniquitous
 iniquitousness
 initial
 initialisms
+initializing
 initiated
 initiative
 injudiciously
@@ -7431,6 +7448,7 @@ kerries
 kerygmata
 ketenes
 ketogenic
+kettle
 kettledrums
 keynote
 keypad
@@ -7465,6 +7483,7 @@ kindling
 kinematically
 kinematics
 kinetically
+kineticists
 kingbirds
 kingside
 kinins
@@ -7586,6 +7605,7 @@ lankest
 lankier
 lankness
 lanugo
+lapboards
 lapdogs
 lapin
 lapwings
@@ -8405,6 +8425,7 @@ midsized
 midtowns
 midwife
 mightily
+mightinesses
 migraines
 migs
 miked
@@ -9147,6 +9168,7 @@ noninsect
 noninstallments
 nonintellectual
 noninterest
+nonintersecting
 nonintoxicating
 nonirrigated
 nonirritant
@@ -10220,6 +10242,7 @@ phenotypically
 phentolamines
 phenylalanines
 phenylketonuric
+phenylthioureas
 phi
 philanthropy
 philatelically
@@ -10380,6 +10403,7 @@ piosity
 pipelined
 pipes
 pipinesses
+pipingly
 pipkin
 pipping
 piquances
@@ -10698,6 +10722,7 @@ praisers
 prancer
 pranging
 prangs
+prankishly
 pratfall
 prattle
 prattling
@@ -12268,6 +12293,7 @@ sannyasin
 santir
 santoor
 sapheaded
+saphenae
 sapid
 sapodilla
 saponaceousness
@@ -12522,6 +12548,7 @@ selectivities
 selectly
 selenide
 selenides
+seleniferous
 selfheals
 sellable
 sellotaping
@@ -13038,6 +13065,7 @@ snows
 snowshed
 snowslide
 snub
+snuff
 snuffers
 snuffily
 snugnesses
@@ -13656,6 +13684,7 @@ subnuclear
 suboptimizes
 suborbicular
 suborder
+subordinator
 suborn
 suboxide
 subphase
@@ -14066,6 +14095,7 @@ teeterboards
 teethe
 teflon
 teg
+teiglach
 tektites
 telecaster
 telecasts
@@ -14255,6 +14285,7 @@ throughither
 thrummer
 thrummiest
 thrumming
+thruputs
 thrusters
 thudding
 thumbhole
@@ -14855,6 +14886,7 @@ underbuying
 underclothing
 undercoating
 underdosing
+undereats
 underestimated
 underestimates
 underestimation
@@ -15018,6 +15050,7 @@ unmuffle
 unorganized
 unpack
 unpatentable
+unperceptive
 unplaced
 unpleasantly
 unpledged
@@ -15299,6 +15332,7 @@ venules
 verandahed
 verandahs
 verandas
+veratrin
 verbals
 verbenas
 verbiles
@@ -15894,6 +15928,7 @@ zechin
 zein
 zeks
 zenith
+zeppelins
 zeros
 zeugmas
 zigzagged
