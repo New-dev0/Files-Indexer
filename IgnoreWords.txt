@@ -262,6 +262,7 @@ airchecks
 airfields
 airlifting
 airliner
+airpowers
 airshows
 airspace
 airstrikes
@@ -496,6 +497,7 @@ anodized
 anodizing
 anomalously
 anonyms
+anoopsia
 anopheles
 anorak
 anorexia
@@ -1074,6 +1076,7 @@ bastinadoed
 bateau
 batfowling
 batfowls
+bathless
 bathmats
 batholiths
 bathroom
@@ -2720,6 +2723,7 @@ conepatls
 confab
 confabbed
 confectioners
+confederacy
 confederated
 conferencings
 conferrable
@@ -3410,6 +3414,7 @@ deconcentration
 decongests
 decontrol
 decontrols
+decorate
 decorated
 decorators
 decortications
@@ -4089,6 +4094,7 @@ dozy
 drabness
 drabnesses
 drafting
+dragline
 dragnet
 dragstrips
 drails
@@ -4121,6 +4127,7 @@ driblets
 drills
 drippily
 drips
+driveline
 drivelled
 driverless
 driveshafts
@@ -4484,6 +4491,7 @@ ennuye
 enow
 enquires
 enravished
+enregister
 enriched
 enrichments
 enrobe
@@ -4794,6 +4802,7 @@ explantation
 explicates
 explodes
 explosiveness
+exportability
 expose
 expressages
 expropriates
@@ -4915,6 +4924,7 @@ farmerette
 farmerettes
 farmwives
 farmworker
+faro
 farolito
 farsides
 fas
@@ -5109,6 +5119,7 @@ fizzers
 fizziest
 fizzle
 fjeld
+fjords
 flabbergasting
 flabbergasts
 flabellate
@@ -5253,6 +5264,7 @@ foliations
 folkway
 follower
 followup
+fon
 fonded
 foofaraws
 foolfish
@@ -5341,6 +5353,7 @@ fossilizations
 fossilized
 fosterers
 fosters
+fouled
 foulings
 foundationless
 foundries
@@ -6112,6 +6125,7 @@ hatcheling
 hatchers
 hatchery
 hating
+hatrack
 hatracks
 hatting
 haughtier
@@ -6151,6 +6165,7 @@ headrooms
 headshrinker
 headstand
 headstone
+heaps
 hearkeners
 hearsays
 heartbreaker
@@ -8309,6 +8324,7 @@ micromeres
 micrometeorite
 micromorphology
 micronized
+microphotometer
 micropore
 micropublisher
 microseism
@@ -9576,6 +9592,7 @@ overcool
 overcooling
 overcools
 overcorrecting
+overcoy
 overcropped
 overcrops
 overcrowding
@@ -9619,6 +9636,7 @@ overingenuity
 overissuances
 overjoyed
 overlavish
+overlengthens
 overletting
 overliteral
 overlived
@@ -9683,6 +9701,7 @@ overweighting
 overwhelmed
 overwhelms
 overwily
+overwithholds
 overworn
 overzeal
 ovicide
@@ -9831,6 +9850,7 @@ paranoias
 parapeted
 paraphrase
 parasailing
+parasang
 parasexual
 parashahs
 parasitologist
@@ -10253,6 +10273,7 @@ pigged
 piggie
 pigheadedly
 pigmies
+pignolis
 pigpens
 pigsney
 pikes
@@ -10494,6 +10515,7 @@ polysyndeton
 polythenes
 polytonalities
 polytonality
+polyvalence
 polyvinyl
 polyzoic
 pomaded
@@ -10920,6 +10942,7 @@ protectiveness
 protectress
 protectresses
 proteome
+prothonotary
 prothoraces
 prothoraxes
 protocol
@@ -11375,6 +11398,7 @@ recrowning
 recrudescences
 recruiter
 recrystallizing
+rectangular
 rectification
 rectified
 rectifying
@@ -11961,6 +11985,7 @@ roam
 roar
 roaster
 robbed
+robed
 robustest
 rocambole
 rockabilly
@@ -12718,6 +12743,7 @@ sinew
 sinewed
 sinfonias
 singalongs
+singeing
 singers
 singlestick
 singularities
@@ -12892,6 +12918,7 @@ smothers
 smuttier
 snailed
 snake
+snakebites
 snakiest
 snappers
 snapshot
@@ -13366,6 +13393,7 @@ stomachs
 stomas
 stomodaea
 stomodaeums
+stonemason
 stones
 stoopballs
 stoped
@@ -13631,6 +13659,7 @@ summerwood
 summerwoods
 sumps
 sumptuous
+sunburned
 sundecks
 sundowning
 sundrops
@@ -13911,6 +13940,7 @@ tarries
 tarring
 tarsia
 tartinesses
+tartuffe
 taskworks
 tassel
 tasteful
@@ -13939,6 +13969,7 @@ teazling
 techies
 techiest
 technical
+technocrat
 technologic
 technologized
 teel
@@ -14248,6 +14279,7 @@ tomboyishness
 tomfooleries
 tommyrot
 tone
+tonettes
 tonicities
 tonnage
 tonnish
@@ -14362,6 +14394,7 @@ transliterates
 transmissivity
 transmittances
 transmitters
+transpersonal
 transplantable
 transpontine
 transshipment
@@ -14460,6 +14493,7 @@ trisoctahedra
 trisome
 tristich
 trisulfides
+tritely
 tritest
 tritheistical
 tritone
@@ -15341,6 +15375,7 @@ wageless
 wager
 wagers
 wages
+waifs
 wailed
 wailers
 wainscotted
