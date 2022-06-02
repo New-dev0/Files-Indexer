@@ -1,0 +1,4 @@
+tools/lib/dx.jar - platform/prebuilts/sdk - Git at Google,https://android.googlesource.com/platform/prebuilts/sdk/%2B/master/tools/lib/dx.jar%3Fautodive%3D0%252F
+sdk/tools/lib/emma_device.jar - android_tools - Git at Google,https://chromium.googlesource.com/android_tools/%2B/882ee91503f28d1fd60ba939c5b37db6b9d4ad29/sdk/tools/lib/emma_device.jar%3Fautodive%3D0%252F%252F
+gridsim.jar in gms/trunk/lib,https://www.ac.upc.edu/projects/gms/browser/gms/trunk/lib/gridsim.jar%3Frev%3D14%26order%3Ddate
+Source of iTextAsian.jar - itextpdf - iText Bitbucket,https://git.itextsupport.com/projects/I5J/repos/itextpdf/browse/itext/lib/iTextAsian.jar%3Fat%3D803ccb0452528b06b8b589cbb5fef1c1fb56b860

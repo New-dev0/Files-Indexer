@@ -83,6 +83,7 @@ accordance
 accorded
 accountants
 accruable
+accruals
 accumulators
 accurateness
 accursedness
@@ -679,6 +680,7 @@ arc
 arced
 archaebacteria
 archaeologies
+archaisms
 archaizes
 archangel
 archeology
@@ -1405,6 +1407,7 @@ bloops
 blossoms
 blotting
 blotty
+blousier
 blowdown
 blowgun
 blowjobs
@@ -2249,6 +2252,8 @@ chlorpromazine
 chock
 chockful
 chocoholics
+chocolate
+choicely
 chokecherry
 cholent
 cholesterol
@@ -2394,6 +2399,7 @@ clinically
 clipped
 clipper
 clips
+cliquiest
 cliquing
 clitics
 cloaked
@@ -3976,6 +3982,7 @@ docile
 docility
 docking
 dockyard
+documentarians
 documented
 dodgems
 dodges
@@ -4076,6 +4083,7 @@ downstates
 downtrending
 dowsing
 doxies
+doyens
 dozening
 dozy
 drabness
@@ -4514,6 +4522,7 @@ entreat
 entreats
 entrenched
 entropic
+entwined
 enumerate
 envelopment
 envelopments
@@ -5124,6 +5133,7 @@ flannelette
 flannelly
 flaperons
 flapless
+flapped
 flashings
 flashover
 flask
@@ -5383,6 +5393,7 @@ freeware
 freewheel
 freewrite
 freewriting
+freezers
 fremd
 fremituses
 frena
@@ -5573,6 +5584,7 @@ gastrovascular
 gastrulation
 gatefolds
 gatehouse
+gaucho
 gaudier
 gauffered
 gauffers
@@ -5739,6 +5751,7 @@ glycins
 glycols
 glycosylations
 gnat
+gnathic
 gnattier
 gneisses
 gneissose
@@ -5842,6 +5855,7 @@ grazings
 greaseball
 grebes
 grecize
+grecized
 greed
 greedily
 greenbacker
@@ -6036,6 +6050,7 @@ hammams
 hammed
 hammerkop
 hammily
+hammock
 hamstring
 hamulate
 handbag
@@ -7168,6 +7183,7 @@ japanize
 japery
 japing
 japonica
+jar
 jardiniere
 jargonist
 jargonistic
@@ -7985,6 +8001,7 @@ mandator
 mandibulate
 mandola
 manful
+mangabeys
 mangaby
 manganese
 manganites
@@ -8337,6 +8354,7 @@ millennium
 millicuries
 millier
 millihenry
+millimho
 milline
 million
 millionths
@@ -8532,6 +8550,7 @@ moldboard
 moldboards
 molders
 moldwarps
+molesting
 mollification
 mollifier
 molls
@@ -8926,6 +8945,7 @@ new
 newfangled
 newlyweds
 newness
+newsdealers
 newsdesk
 newsgirl
 newsgroups
@@ -9058,6 +9078,7 @@ nonintoxicating
 nonirrigated
 nonirritant
 nonlawyers
+nonlinearity
 nonlives
 nonloving
 nonlyric
@@ -9623,6 +9644,7 @@ overroasted
 overroasts
 overrule
 overs
+oversale
 oversalted
 oversalts
 oversanguine
@@ -9657,12 +9679,14 @@ overvoltages
 overwarmed
 overwatch
 overwatched
+overweighting
 overwhelmed
 overwhelms
 overwily
 overworn
 overzeal
 ovicide
+oviposited
 oviposition
 ovoid
 ovoidal
@@ -9790,6 +9814,7 @@ paradise
 paradisiac
 paradropped
 paraffin
+paraglide
 paraglides
 paragraphic
 parainfluenza
@@ -10985,6 +11010,7 @@ punkinesses
 punky
 punsters
 punt
+pupated
 pupfishes
 pupil
 puppetries
@@ -11255,6 +11281,7 @@ reanoint
 reaping
 reapply
 reappropriate
+rearmice
 rearmost
 rearouse
 rearrested
@@ -11667,6 +11694,7 @@ reprivatizes
 reprivatizing
 repro
 reproaching
+reprobating
 reprobations
 reproducer
 reproductives
@@ -12150,6 +12178,7 @@ saprobes
 sapwood
 sarabands
 sarcology
+sarcomere
 sardonic
 sardonically
 sarongs
@@ -12763,6 +12792,7 @@ slaggier
 slaggiest
 slagging
 slakers
+slanderous
 slants
 slashings
 slatiness
@@ -12800,6 +12830,7 @@ slivovic
 slivovices
 slobberers
 slobs
+sloganize
 sloops
 slope
 slops
@@ -13184,6 +13215,7 @@ squamate
 squamates
 squamation
 squareness
+squares
 squaring
 squashed
 squattest
@@ -13709,6 +13741,7 @@ swampier
 swampiest
 swankest
 swanpan
+swarmer
 swartness
 swashbuckled
 swaybacks
@@ -13816,6 +13849,7 @@ tactually
 taels
 tagboards
 tagliatelles
+tagrag
 tailbone
 taillamps
 taillights
@@ -15389,6 +15423,7 @@ weathers
 weavers
 web
 webers
+webpage
 webworms
 wedder
 wedelns
