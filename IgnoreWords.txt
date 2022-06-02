@@ -116,6 +116,7 @@ acrider
 acritarch
 acrodont
 acrolith
+acropetal
 acrosomal
 acrostics
 acrotisms
@@ -200,6 +201,7 @@ aerometers
 aerophobe
 aerosolizing
 affaires
+affectabilities
 affectivities
 affenpinschers
 affidavits
@@ -294,6 +296,7 @@ alchemistic
 alcidine
 alcoholically
 aldosterone
+aleatory
 alegars
 alehouses
 alencons
@@ -1257,6 +1260,7 @@ bewig
 bewigging
 bewilderedly
 bewitches
+bewrap
 beylics
 bezazzes
 bezzants
@@ -1806,6 +1810,7 @@ buzzwords
 byrled
 byroad
 bytes
+cabbageworms
 cabbalist
 cabbed
 cabbies
@@ -1866,6 +1871,7 @@ calottes
 caltrap
 calumnies
 calumnious
+calumniously
 calzone
 camailed
 camases
@@ -2175,6 +2181,7 @@ changeabilities
 changeovers
 changeup
 channel
+channelizing
 chap
 chaparejos
 chapati
@@ -2190,6 +2197,7 @@ charcoaling
 chargehand
 charger
 charinesses
+charismas
 charities
 charked
 charladies
@@ -4259,6 +4267,7 @@ dubiousness
 ductile
 ducting
 dudgeons
+due
 duellist
 duennaships
 duet
@@ -4955,6 +4964,7 @@ exude
 exultances
 exultancy
 exurbanite
+exuviates
 eyehooks
 eyes
 eyestalks
@@ -5447,6 +5457,7 @@ formularizes
 formulator
 formulators
 fornicates
+fort
 forthrightly
 fortified
 fortissimi
@@ -5771,6 +5782,7 @@ geoids
 geologic
 geologist
 geologize
+geomantic
 geometers
 geometrics
 geometrise
@@ -5965,6 +5977,7 @@ grantsmanships
 granulates
 granule
 granulomatous
+granulosis
 grapevines
 graphemically
 graphitized
@@ -6131,6 +6144,7 @@ gypsydoms
 gyrofrequency
 gyroscopically
 gyrostats
+gyved
 habdalahs
 habiliment
 habilitated
@@ -7173,6 +7187,7 @@ intersession
 intersessions
 intersex
 intersexual
+interspaced
 interspacing
 interstation
 intersterile
@@ -7638,6 +7653,7 @@ kummel
 kvass
 kvasses
 kwashiorkors
+kyanizing
 kylikes
 kymographies
 kyries
@@ -7655,6 +7671,7 @@ lackadaisically
 lacked
 lacqueyed
 lactates
+lactiferous
 laddies
 laddish
 laden
@@ -7686,6 +7703,7 @@ lampblack
 lampooners
 lampooning
 lanai
+lands
 landslips
 langouste
 langrels
@@ -7826,6 +7844,7 @@ leukemics
 leukocytic
 leukomas
 leukoplakia
+leukopoietic
 leukotomies
 levies
 levigating
@@ -8632,6 +8651,7 @@ misdiagnosed
 misdivision
 misdo
 misdoer
+misdoers
 misdoes
 mise
 misemploy
@@ -9580,6 +9600,7 @@ oppugnant
 oppugning
 opsin
 opsonized
+opted
 optima
 optimization
 optimizes
@@ -9829,6 +9850,7 @@ overgeneralizes
 overgenerous
 overgild
 overgrows
+overhandling
 overheaped
 overheat
 overhuntings
@@ -10490,6 +10512,7 @@ picture
 pictured
 piddled
 pie
+piece
 piefort
 pierces
 pieta
@@ -10629,6 +10652,7 @@ playwrightings
 pleaders
 pleads
 pleasantest
+pleasantness
 pleaser
 pleasingness
 pleasures
@@ -11505,6 +11529,7 @@ ratatat
 rateably
 ratfinks
 rathskeller
+ratification
 ratified
 ratifies
 ratio
@@ -11839,6 +11864,7 @@ reincarnate
 reindustrialize
 reinfection
 reinflames
+reinflates
 reinforming
 reinspecting
 reinstates
@@ -12157,6 +12183,7 @@ reynard
 rezero
 rhabdom
 rhabdomancy
+rhaphae
 rhemes
 rhenium
 rheobases
@@ -12375,6 +12402,7 @@ saddlecloths
 sades
 sadisms
 sadistic
+sadly
 sadomasochist
 sae
 safer
@@ -12791,6 +12819,7 @@ serendipitous
 sergeancy
 sergeant
 serger
+seriates
 seriatim
 sericulture
 sericulturists
@@ -12859,6 +12888,7 @@ shaving
 shavings
 shawing
 sheaflike
+shears
 sheaved
 sheds
 sheeniest
@@ -12890,6 +12920,7 @@ shibah
 shibboleths
 shifting
 shininesses
+shinning
 shipboard
 shipboards
 shipmaster
@@ -14029,6 +14060,7 @@ supramolecular
 suprarenals
 suprematist
 supremenesses
+supremest
 sura
 sural
 suras
@@ -14141,6 +14173,7 @@ syntactical
 syntactics
 syntagma
 syntagms
+synthpop
 syphoning
 syringas
 syrinx
@@ -14733,6 +14766,7 @@ traumatizations
 traumatize
 traversable
 travesties
+trawley
 trawlnets
 trayful
 treachery
@@ -15777,6 +15811,7 @@ wattled
 wauchting
 waul
 wavelengths
+wavelet
 wavelike
 waveringly
 wavers
