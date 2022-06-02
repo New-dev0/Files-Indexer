@@ -77,7 +77,9 @@ acclimatizer
 acclimatizes
 accommodating
 accommodational
+accommodator
 accompaniment
+accompanists
 accomplishments
 accordance
 accorded
@@ -330,6 +332,7 @@ allocation
 allocators
 allonym
 alloplasms
+allosteries
 allotments
 allotter
 allowancing
@@ -1052,6 +1055,7 @@ barographic
 baronetage
 baronetcies
 barosaurs
+barquentine
 barracks
 barracudas
 barranco
@@ -2413,6 +2417,7 @@ cliquing
 clitics
 cloaked
 clobbering
+clocker
 clocks
 cloggers
 clogging
@@ -2801,6 +2806,7 @@ consistences
 consolation
 consortia
 conspirational
+conspirator
 conspired
 conspirers
 constabularies
@@ -2872,6 +2878,7 @@ convincingness
 convocation
 convoke
 convulsant
+cooee
 cooees
 cooing
 cook
@@ -2885,6 +2892,7 @@ copartners
 copay
 cope
 coped
+copped
 copperas
 copra
 copremia
@@ -3278,6 +3286,7 @@ cyprians
 cyprinoid
 cyprus
 cytogeneticist
+cytokinesis
 cytologic
 cytologically
 cytology
@@ -4239,6 +4248,7 @@ dyskinesia
 dyspepsy
 dysphagia
 dysphagias
+dyspnoea
 dystocias
 dystopias
 eagers
@@ -5389,6 +5399,7 @@ foxier
 foxtail
 foziness
 fozinesses
+fractious
 fractures
 fracturs
 fragmentary
@@ -5822,6 +5833,7 @@ goofs
 googlies
 gooky
 goop
+goopiest
 goose
 gooseberries
 gorbellies
@@ -6099,6 +6111,7 @@ handicapping
 handmaid
 handoff
 handselling
+handsful
 handyperson
 hangtags
 hankerers
@@ -6688,6 +6701,7 @@ immolating
 immovables
 immunoblots
 immunochemistry
+immunologist
 immunology
 impactor
 impainted
@@ -7168,6 +7182,7 @@ irritative
 isallobar
 isarithm
 ischaemia
+ischia
 isinglass
 island
 islander
@@ -7330,6 +7345,7 @@ juiceless
 juicer
 jujube
 juking
+jukus
 julienned
 jumbo
 jumpers
@@ -7470,6 +7486,7 @@ kleenex
 klezmers
 klicks
 kludgiest
+knackery
 knacks
 knavishly
 kneeing
@@ -8387,6 +8404,7 @@ midshipmen
 midsized
 midtowns
 midwife
+mightily
 migraines
 migs
 miked
@@ -9199,6 +9217,7 @@ normality
 normalizers
 normothermic
 northers
+nos
 nosebag
 nosed
 noseguards
@@ -9257,6 +9276,7 @@ obelisms
 obeys
 obfuscation
 obfuscations
+objected
 objectivity
 objects
 objurgates
@@ -9438,6 +9458,7 @@ oreodonts
 organicities
 organiser
 organises
+organising
 organismal
 organismically
 organizers
@@ -9723,6 +9744,7 @@ overspins
 overstaff
 overstates
 overstays
+overstrained
 overstretches
 overtalk
 overtalkative
@@ -10262,6 +10284,7 @@ photovoltaic
 phots
 phrasemakers
 phthalocyanine
+phycomycetes
 phylaxises
 phyleses
 phyllite
@@ -10809,6 +10832,7 @@ preshrink
 presidentship
 presidentships
 presider
+presidia
 presifts
 presignifying
 preslaughter
@@ -11112,6 +11136,7 @@ pursuivants
 pushdowns
 pushes
 pusillanimity
+pusleys
 pussyfoot
 putrescence
 putridities
@@ -11259,6 +11284,7 @@ raggy
 ragworts
 raia
 raids
+railbuses
 railcar
 railed
 railer
@@ -12483,6 +12509,7 @@ segmenting
 segs
 seicento
 seidels
+seigniors
 seine
 seining
 seise
@@ -12776,6 +12803,7 @@ silicifying
 silicone
 siliquae
 siliques
+siliquose
 silvas
 silvern
 silverpoint
@@ -13335,6 +13363,7 @@ staminodies
 stammerers
 stampless
 stamps
+standardizing
 standbys
 standdowns
 standoffs
@@ -13946,6 +13975,7 @@ take
 taker
 takes
 talar
+talcking
 talcs
 talcums
 talentless
@@ -14438,6 +14468,7 @@ transactional
 transacts
 transaxle
 transcribers
+transducer
 transepts
 transfected
 transfecting
@@ -15039,6 +15070,7 @@ unseeing
 unsegregated
 unsetting
 unsews
+unsexing
 unshelling
 unskilful
 unslings
@@ -15048,6 +15080,7 @@ unsnarling
 unsociable
 unsolved
 unsonsie
+unsounded
 unsoundly
 unspeaking
 unsphere
@@ -15501,6 +15534,7 @@ waterlogs
 waterski
 waterweed
 wattled
+wauchting
 waul
 wavelengths
 wavelike
@@ -15673,6 +15707,7 @@ wiz
 wizes
 wobbler
 wobbles
+woful
 wolfberry
 wolfishly
 wolflike
