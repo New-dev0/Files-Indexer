@@ -1,0 +1,6 @@
+functions/Get-DbaInstanceAudit.ps1 1.0.54 - PowerShell Gallery,https://www.powershellgallery.com/packages/dbatools/1.0.54/Content/functions%255CGet-DbaInstanceAudit.ps1
+functions/Copy-SqlAudit.ps1 0.8.2.9 - PowerShell Gallery,https://www.powershellgallery.com/packages/dbatools/0.8.2.9/Content/functions%255CCopy-SqlAudit.ps1
+Windows-Workstation-and-Server-Audit/Audit.ps1 at master - GitHub,https://github.com/alanrenouf/Windows-Workstation-and-Server-Audit/blob/master/Audit.ps1
+Intune-PowerShell-Management/Auditing_Get.ps1 at master - GitHub,https://github.com/microsoft/Intune-PowerShell-Management/blob/master/Samples/Auditing/Auditing_Get.ps1
+functions/Copy-DbaServerAudit.ps1 0.9.749 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/dbatools/0.9.749/Content/functions%255CCopy-DbaServerAudit.ps1
+ansible2/ansible/modules/windows/win_iis_website.ps1 - CS@VT,https://version.cs.vt.edu/techstaff/linux-audit/-/blob/337dfa77208713d6a5a05d4874ebe0e7397a8818/ansible2/ansible/modules/windows/win_iis_website.ps1
