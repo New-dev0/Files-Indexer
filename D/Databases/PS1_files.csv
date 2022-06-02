@@ -1,0 +1,5 @@
+lib/databases.ps1 2.0.11.407 - PowerShell Gallery,https://www.powershellgallery.com/packages/CosmosDB/2.0.11.407/Content/lib%255Cdatabases.ps1
+lib/databases.ps1 1.0.9.100 - PowerShell Gallery,https://www.powershellgallery.com/packages/CosmosDB/1.0.9.100/Content/lib%255Cdatabases.ps1
+CSS-Exchange/Get-Databases.ps1 at main - GitHub,https://github.com/microsoft/CSS-Exchange/blob/main/Databases/VSSTester/ExchangeInformation/Get-Databases.ps1
+azucar/Get-AzSQLDatabases.ps1 at master - GitHub,https://github.com/nccgroup/azucar/blob/master/Plugins/Databases/SQLDatabases/Get-AzSQLDatabases.ps1
+#Requires -RunAsAdministrator <# .SYNOPSIS Create Databases ...,https://raw.githubusercontent.com/UiPath/ai-customer-scripts/master/database/createDatabases.ps1
