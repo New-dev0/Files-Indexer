@@ -161,6 +161,7 @@ adjunct
 adjutant
 adjutants
 admeasuring
+administrable
 administrants
 administrating
 administrator
@@ -362,6 +363,7 @@ alphosis
 alphyls
 also
 alterity
+alternants
 alternating
 alternators
 alters
@@ -508,6 +510,7 @@ anorak
 anorexia
 anorthic
 anorthosites
+anosmic
 antagonist
 antagonistic
 antalkalis
@@ -615,6 +618,7 @@ apoenzymes
 apogamic
 apolog
 apologetics
+apologist
 apologues
 apomict
 apomicts
@@ -1109,6 +1113,7 @@ beach
 beachballs
 beachside
 beading
+beadings
 beadroll
 beakless
 beaning
@@ -1448,6 +1453,7 @@ blunger
 blungers
 boarder
 boardinghouses
+boarfish
 boatnecks
 boatsmen
 bobolinks
@@ -2130,6 +2136,7 @@ chagrining
 chained
 chainsaws
 chaired
+chairmanned
 chairmanning
 chairmanship
 chalazae
@@ -2326,6 +2333,7 @@ chunkier
 churchianity
 churchlier
 churchwomen
+churlishly
 churr
 chutes
 chutists
@@ -3072,6 +3080,7 @@ craterings
 cravened
 craver
 crawfishes
+crawling
 crawls
 craws
 crazier
@@ -3569,6 +3578,7 @@ demilunes
 demobilize
 demographer
 demonesses
+demonic
 demonisms
 demonizing
 demonologies
@@ -4358,6 +4368,7 @@ effulgent
 effuses
 egad
 egalitarian
+egalitarianism
 egalitarians
 egers
 eggars
@@ -4514,6 +4525,7 @@ endostea
 endosteum
 endostyles
 endothelium
+endpapers
 energetically
 energies
 energized
@@ -5842,6 +5854,7 @@ gneisses
 gneissose
 gnomic
 gnomons
+gnosticisms
 gobang
 gobbed
 gobbet
@@ -6241,6 +6254,7 @@ headstand
 headstone
 heaps
 hearkeners
+hearkening
 hearsays
 heartbreaker
 heartening
@@ -7925,6 +7939,7 @@ longish
 longitudinally
 longship
 looby
+lookup
 looming
 looney
 looninesses
@@ -8350,6 +8365,7 @@ meromorphic
 meropic
 merrinesses
 mesclun
+mesdemoiselles
 mesenteron
 mesically
 mesmerise
@@ -8419,6 +8435,7 @@ microfiches
 microforms
 microfossils
 microfungus
+microgram
 microinch
 microinjected
 microloan
@@ -10263,6 +10280,7 @@ pettinesses
 phaeton
 phage
 phalangeal
+phalanges
 phalansteries
 phalli
 phanerophyte
@@ -10372,6 +10390,7 @@ phytols
 phytosterol
 piaffing
 pianissimi
+pianistic
 pianists
 piastre
 picadillos
@@ -10383,6 +10402,7 @@ pick
 pickaback
 pickadil
 pickaroon
+pickaxe
 picketer
 pickinesses
 picolin
@@ -10726,6 +10746,7 @@ postponer
 postrace
 postretirement
 postriders
+postriot
 postsynaptic
 posttransfusion
 posttreatment
@@ -10740,6 +10761,7 @@ potheads
 pothouse
 pothunter
 potshards
+potshot
 potstones
 pottage
 potterers
@@ -11233,6 +11255,7 @@ pyrenes
 pyrexic
 pyritic
 pyrolized
+pyrolyses
 pyrolysis
 pyrotechnical
 pyroxenes
@@ -11886,6 +11909,7 @@ repugning
 repumped
 repurposes
 requesting
+requite
 reread
 rerecorded
 reregister
@@ -12208,6 +12232,7 @@ router
 routinely
 routinists
 roving
+row
 rowlocks
 rubaboo
 rubbaboos
@@ -12216,6 +12241,7 @@ rubdown
 rubefacient
 rubeolas
 rubying
+ruction
 rudderpost
 ruddlemen
 ruddles
@@ -13443,6 +13469,7 @@ staig
 stainer
 stainers
 staircases
+staked
 stalactitic
 stalags
 stale
@@ -13782,6 +13809,7 @@ subtext
 subtilin
 subtilins
 subtitling
+subtler
 subtleties
 subtreasury
 subunit
@@ -13877,6 +13905,7 @@ superluxury
 supermasculine
 supernates
 supernormality
+superorganic
 superorganisms
 superplasticity
 superposes
@@ -14152,6 +14181,7 @@ teazling
 techies
 techiest
 technical
+technicalizes
 technocrat
 technologic
 technologized
@@ -14631,8 +14661,10 @@ triangulated
 triangulation
 triazin
 tribades
+tribadic
 tribes
 triboelectric
+tribologists
 tribulation
 trichologists
 trichome
@@ -14943,6 +14975,7 @@ uncustomarily
 undeceiving
 undecillion
 undeciphered
+undefended
 underachieving
 underarms
 underbakes
@@ -15484,6 +15517,7 @@ virion
 virtueless
 virtuosities
 virtuous
+virulencies
 virus
 virusoids
 viscerally
@@ -15532,6 +15566,7 @@ volplane
 voltages
 voltaism
 volubly
+voluming
 voluntary
 voluntaryism
 voluntaryists
