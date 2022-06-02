@@ -144,6 +144,7 @@ adducible
 adenomas
 adenosines
 adenoviruses
+adequacies
 adherends
 adhesive
 adhesiveness
@@ -204,6 +205,7 @@ affirmative
 affirmatively
 affirmer
 affixal
+affixtures
 affordable
 afforests
 affraying
@@ -455,6 +457,7 @@ ancipital
 androgeneses
 androgynous
 andrologies
+androsterones
 anecdotage
 anecdotists
 anele
@@ -980,6 +983,7 @@ bakemeats
 balboa
 balbriggan
 balconies
+baldaquins
 balded
 baldpates
 baldrick
@@ -1016,6 +1020,7 @@ banquette
 banzai
 baptismal
 baptismally
+baptizers
 barbarically
 barbiturates
 barbwires
@@ -1352,6 +1357,7 @@ blacktop
 bladdery
 bladed
 bladeless
+blameful
 blamefully
 blamelessnesses
 blameworthiness
@@ -1431,6 +1437,7 @@ bodybuilding
 bodyguarding
 bog
 bogusness
+bohemianisms
 bohemias
 boil
 boiled
@@ -2459,6 +2466,7 @@ cockapoo
 cocker
 cockered
 cockeyedness
+cockily
 cockleburs
 cockspur
 cockup
@@ -3705,6 +3713,7 @@ dickens
 dickies
 dicotyledonous
 dicotyls
+dicoumarol
 dictating
 dictionaries
 dictum
@@ -3952,6 +3961,7 @@ dobbin
 dobbins
 dobie
 doblas
+doblons
 dobras
 dobsons
 docile
@@ -4847,7 +4857,9 @@ faithfuls
 faiths
 fakery
 falafels
+falconries
 falderal
+falderol
 falsely
 falsettos
 falsework
@@ -5324,6 +5336,7 @@ fozinesses
 fractures
 fracturs
 fragmentary
+fragmenting
 frailly
 frakturs
 framers
@@ -5603,6 +5616,7 @@ geologic
 geologist
 geologize
 geometers
+geometrics
 geometrise
 geophagia
 geophysics
@@ -6328,6 +6342,7 @@ homozygosities
 homozygous
 honda
 honeworts
+honeybuns
 honeycombing
 honeydew
 honeys
@@ -6423,6 +6438,7 @@ humidifications
 humidistat
 humitures
 humorlessly
+humorousnesses
 humouring
 hump
 humped
@@ -7610,6 +7626,7 @@ liberalizers
 liberated
 liberty
 libido
+librarianship
 librated
 libretti
 licensures
@@ -8325,6 +8342,7 @@ minimax
 miniski
 miniskis
 ministerial
+minivans
 minnesingers
 minnow
 minutely
@@ -9032,6 +9050,7 @@ nonmunicipal
 nonnatural
 nonnecessities
 nonobjectivism
+nonobscene
 nonobvious
 nonofficials
 nonpapal
@@ -10145,6 +10164,7 @@ phytochrome
 phytoid
 phytol
 phytols
+phytosterol
 piaffing
 pianissimi
 pianists
@@ -10156,6 +10176,7 @@ picholine
 picholines
 pick
 pickaback
+pickadil
 pickaroon
 picketer
 pickinesses
@@ -10729,6 +10750,7 @@ primus
 princelier
 principles
 printeries
+printmakings
 prioritizations
 priority
 prisere
@@ -10977,6 +10999,7 @@ putridly
 putsches
 puttees
 puttying
+pycnometer
 pycnosis
 pycnotic
 pyelonephritis
@@ -11355,6 +11378,7 @@ reducer
 reducibly
 reducing
 reductions
+reductivenesses
 reductor
 reduplicates
 redwing
@@ -11738,6 +11762,7 @@ retroaction
 retroactions
 retrograded
 retrogradely
+retrogressing
 retrogressive
 retroreflectors
 retrospects
@@ -12388,6 +12413,7 @@ sentiencies
 sentimentally
 separability
 separate
+separately
 separates
 separating
 sepiolites
@@ -12796,6 +12822,7 @@ smirk
 smirkers
 smiter
 smitheries
+smockings
 smokehouses
 smokepot
 smokily
@@ -12915,6 +12942,7 @@ sonobuoy
 sonograms
 sonorousnesses
 soother
+soothes
 soothly
 soothsay
 sootier
@@ -13111,6 +13139,7 @@ spritzer
 spruce
 spruces
 sprucing
+sprues
 spry
 spumy
 spurgall
@@ -13184,6 +13213,7 @@ starkness
 starriest
 starship
 starters
+startup
 starvation
 starveling
 starwort
@@ -13609,6 +13639,7 @@ supposals
 supposed
 supposititious
 suppurate
+suppurations
 supramolecular
 suprarenals
 suprematist
@@ -13934,6 +13965,7 @@ terrorisms
 terrorizations
 terrorless
 tertiaries
+tertiary
 tessellating
 testable
 testaceans
@@ -14429,6 +14461,7 @@ tungstens
 tungstic
 tunic
 tunica
+tuppenny
 tuque
 turacous
 turbanned
@@ -14465,6 +14498,7 @@ tutties
 tutting
 tutus
 tuxedoed
+tweak
 tweedles
 tweener
 tweezing
@@ -14660,6 +14694,7 @@ undertrick
 underused
 underwool
 underworks
+underworlds
 underwrite
 underwriters
 undeveloped
