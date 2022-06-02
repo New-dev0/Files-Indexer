@@ -1,0 +1,5 @@
+functions/secrets/Set-TssSecretSecurity.ps1 0.60.5 - PowerShell ...,https://www.powershellgallery.com/packages/Thycotic.SecretServer/0.60.5/Content/functions%255Csecrets%255CSet-TssSecretSecurity.ps1
+exports/latest-2019-04-30/Get-AzADApplicationOwner.ps1,https://www.powershellgallery.com/packages/Az.Resources/4.0.1-preview/Content/exports%255Clatest-2019-04-30%255CGet-AzADApplicationOwner.ps1
+Office365itpros/ReportSPOSiteStorageUsage.PS1 at master - GitHub,https://github.com/12Knocksinna/Office365itpros/blob/master/ReportSPOSiteStorageUsage.PS1
+KillChain.ps1 0.4.5 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/AADInternals/0.4.5/Content/KillChain.ps1
+Get-FileEncoding.ps1 · master · examples / Windows PowerShell ...,https://resources.oreilly.com/examples/0636920024132/blob/master/Get-FileEncoding.ps1
