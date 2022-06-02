@@ -924,6 +924,7 @@ avo
 avocado
 avoid
 avouched
+avulsion
 avulsions
 awaited
 aweigh
@@ -1847,6 +1848,7 @@ calumnious
 calzone
 camailed
 camases
+camber
 cambia
 cambric
 cameleers
@@ -2436,6 +2438,7 @@ closedowns
 closefisted
 closest
 closeted
+closetful
 closeup
 closeups
 closing
@@ -2775,6 +2778,7 @@ congenial
 conglobates
 conglomerative
 conglutination
+congregating
 congresspersons
 congruously
 congruousnesses
@@ -2786,6 +2790,7 @@ conjectures
 conjoiner
 conjoiners
 conjugate
+conjurors
 conk
 conker
 connectedly
@@ -3290,6 +3295,7 @@ cynicism
 cypres
 cyprians
 cyprinoid
+cyproheptadine
 cyprus
 cytogeneticist
 cytokinesis
@@ -3991,6 +3997,7 @@ disuses
 dit
 ditchdiggers
 ditsinesses
+ditziest
 divebombing
 diversifiers
 diversifies
@@ -5182,6 +5189,7 @@ flam
 flamboyances
 flamens
 flammabilities
+flammable
 flamy
 flanerie
 flannelette
@@ -5686,6 +5694,7 @@ generational
 generosities
 generousnesses
 genetical
+genip
 genitalic
 genitals
 genomes
@@ -7010,6 +7019,7 @@ insufflations
 insularity
 insulator
 insulin
+insulter
 insupportable
 insurability
 integralities
@@ -7980,6 +7990,7 @@ lunting
 lurching
 lurkers
 luscious
+lusciously
 lustrations
 lustring
 lustrum
@@ -8077,6 +8088,7 @@ mambo
 mamboes
 mammalities
 mammary
+mammati
 mammers
 mammonist
 mammoths
@@ -8107,6 +8119,7 @@ manna
 mannerist
 mannerless
 mannishnesses
+mannite
 manoeuvres
 manometries
 manse
@@ -8495,6 +8508,7 @@ misallotting
 misalters
 misanalysis
 misapplied
+misapprehending
 misassumption
 misatoning
 misbegin
@@ -8875,6 +8889,7 @@ musicologies
 muskrat
 muskrats
 musquashes
+mussily
 mussinesses
 mustang
 mustering
@@ -9135,6 +9150,7 @@ nonconcurrence
 nonconform
 nonconsumer
 noncore
+noncritical
 nondancer
 nondegenerate
 nondeliveries
@@ -9759,6 +9775,7 @@ oversensitive
 oversets
 oversetting
 overshaded
+overshirts
 oversimplifies
 overskirt
 overspending
@@ -10013,6 +10030,7 @@ patriciates
 patristic
 patristics
 patronly
+pattamar
 patterer
 patters
 pattypans
@@ -10056,6 +10074,7 @@ pedocals
 pedogenic
 peds
 peduncled
+pedunculate
 peed
 peels
 peered
@@ -10099,6 +10118,7 @@ penstock
 pentacles
 pentagon
 pentagonals
+pentameters
 pentamidines
 pentangle
 pentangles
@@ -10228,6 +10248,7 @@ pharisaically
 pharmacist
 pharmacokinetic
 pharmacologist
+phasmids
 phat
 phatter
 phelonia
@@ -10517,6 +10538,7 @@ plowmen
 plowshare
 ploys
 plumerias
+plumier
 plummy
 plumpen
 plundered
@@ -10765,6 +10787,7 @@ precommitment
 preconizes
 preconizing
 precooking
+precreasing
 precursors
 predatism
 predeceases
@@ -10782,6 +10805,7 @@ predictably
 predictively
 prednisolones
 predominating
+preedited
 preelect
 preelecting
 preemergent
@@ -10821,6 +10845,7 @@ premold
 premunitions
 prenames
 prenotifying
+prenumbers
 preordering
 preparatives
 preparatorily
@@ -11244,6 +11269,7 @@ quiescence
 quietudes
 quillais
 quillworts
+quinaries
 quinquennials
 quinquennium
 quintan
@@ -11557,6 +11583,7 @@ reductions
 reductivenesses
 reductor
 reduplicates
+redwares
 redwing
 redwood
 reeded
@@ -11825,6 +11852,7 @@ reproductives
 reptilian
 republicanize
 republicanizing
+repugnantly
 repugning
 repumped
 repurposes
@@ -12319,6 +12347,7 @@ saskatoons
 satanists
 satays
 satem
+satiable
 satiating
 satirists
 satisfiable
@@ -12911,6 +12940,7 @@ skirrs
 skirtless
 sklenting
 skoals
+skunking
 skunkweed
 skylarks
 skyrocket
@@ -13698,6 +13728,7 @@ subscience
 subscriber
 subscriptions
 subsectors
+subsenses
 subsequences
 subshaft
 subshrubs
@@ -14054,6 +14085,8 @@ tarbushes
 tariffing
 tarlatans
 tarmacadam
+tarmacked
+tarried
 tarries
 tarring
 tarsia
@@ -15426,6 +15459,7 @@ vising
 visited
 visiting
 visualists
+visualities
 visualizations
 vita
 vitae
@@ -15820,6 +15854,7 @@ wrested
 wrestlers
 wried
 wrier
+wrights
 wring
 wrinklier
 wristwatch
