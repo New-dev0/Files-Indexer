@@ -436,6 +436,7 @@ anaerobia
 anaglyph
 anagnorisis
 anagrammatizes
+anagrammatizing
 analcimic
 analcite
 analgesic
@@ -1547,6 +1548,7 @@ bowlegged
 bowlike
 bowshot
 boxberries
+boxcar
 boxhaul
 boxhauling
 boxiest
@@ -2226,6 +2228,7 @@ chimneypieces
 chinchilla
 chines
 chinked
+chinking
 chinquapins
 chints
 chionodoxas
@@ -2508,6 +2511,7 @@ cods
 coeducation
 coeffect
 coelomate
+coenamor
 coenure
 coequality
 coercibly
@@ -2853,6 +2857,7 @@ conventiclers
 conventionality
 conversancy
 converses
+converter
 convexes
 conveyancer
 conveyances
@@ -3339,6 +3344,7 @@ dating
 daubes
 daubing
 daunomycins
+daven
 dawning
 dawt
 daydreamed
@@ -3387,6 +3393,7 @@ decay
 decayless
 decedent
 decemvirate
+decennials
 decenter
 decentred
 decentres
@@ -3407,6 +3414,7 @@ decolletages
 decoloured
 decomposability
 decomposers
+decomposes
 decompound
 decompress
 deconcentrate
@@ -3694,6 +3702,7 @@ diagonalizes
 diagonally
 dial
 dialectically
+dialectician
 dialled
 dialogically
 dialogs
@@ -3783,6 +3792,7 @@ dimidiating
 diminished
 diminutiveness
 diminutives
+dimly
 dimorphic
 din
 dinars
@@ -4610,6 +4620,7 @@ eradicable
 eradicated
 erasabilities
 erase
+erectilities
 erective
 eremuruses
 erepsins
@@ -5140,11 +5151,13 @@ flamboyances
 flamens
 flammabilities
 flamy
+flanerie
 flannelette
 flannelly
 flaperons
 flapless
 flapped
+flashed
 flashings
 flashover
 flask
@@ -6460,6 +6473,7 @@ houseworks
 housing
 hovels
 hovered
+hoverfly
 however
 howked
 hubbub
@@ -6729,6 +6743,7 @@ inarguably
 inarms
 inaudibly
 inauspiciously
+inbreeders
 inburst
 incalculable
 incanted
@@ -6964,6 +6979,7 @@ intensivenesses
 interacted
 interarch
 intercalations
+interceders
 intercept
 intercity
 intercollegiate
@@ -7227,6 +7243,7 @@ jemidars
 jemmies
 jemmy
 jeopardised
+jerks
 jerseyed
 jessamine
 jesters
@@ -7884,6 +7901,7 @@ luger
 lullabied
 lullabies
 lumberjacks
+luminaires
 luminance
 luminiferous
 lummoxes
@@ -8737,6 +8755,7 @@ mullen
 mulling
 mullite
 multibillion
+multibladed
 multicar
 multichambered
 multiconductor
@@ -9747,6 +9766,7 @@ packwax
 paddleballs
 paddles
 paddocked
+padishah
 padlocks
 padronism
 paeons
@@ -10014,6 +10034,7 @@ pentamidines
 pentangle
 pentangles
 pentaploids
+pentlandites
 pentoses
 penuchles
 penuckle
@@ -11265,6 +11286,7 @@ rattish
 rattle
 rattlebox
 ratton
+rattrap
 raucousness
 raucousnesses
 ravenously
@@ -11649,6 +11671,7 @@ remising
 remissible
 remission
 remittor
+remobilizes
 remodeling
 remonstrate
 remonstrator
@@ -12076,6 +12099,7 @@ rules
 rumbaing
 ruminated
 ruminating
+ruminations
 rummages
 rumored
 runabouts
@@ -12125,6 +12149,7 @@ sailing
 sainted
 saintships
 saith
+sajous
 salaams
 salabilities
 salably
@@ -13068,6 +13093,7 @@ souvenirs
 sovietizes
 sovietizing
 soviets
+sovranty
 soymilk
 soyuzes
 sozins
@@ -13832,6 +13858,7 @@ syncopal
 syncopate
 syncopator
 syncope
+syncretists
 syndactylism
 syndromic
 syne
@@ -14229,6 +14256,7 @@ tipsters
 tipstocks
 tiptops
 tirades
+tireder
 tiring
 tissuing
 titanias
@@ -14395,6 +14423,7 @@ transmissivity
 transmittances
 transmitters
 transpersonal
+transpierce
 transplantable
 transpontine
 transshipment
@@ -14466,6 +14495,7 @@ triform
 trifurcates
 trigeminal
 triggered
+trignesses
 trigonometries
 trigraphs
 trihedron
@@ -14654,6 +14684,7 @@ ultraroyalist
 ultrasharp
 ultrasmall
 ultravacua
+ultraviolences
 umami
 umbering
 umbo
@@ -14977,6 +15008,7 @@ unsegregated
 unsetting
 unsews
 unshelling
+unskilful
 unslings
 unsmiling
 unsnapped
@@ -15233,6 +15265,7 @@ vestry
 vetiver
 vetivers
 vetivert
+vets
 vexer
 vexers
 vial
@@ -15417,6 +15450,7 @@ wasabi
 washbowls
 washeteria
 washouts
+washstand
 washwoman
 washwomen
 wast
@@ -15808,6 +15842,7 @@ zoecia
 zombiisms
 zonary
 zonetimes
+zoogeographical
 zooks
 zoolater
 zoologically

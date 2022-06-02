@@ -1,0 +1,4 @@
+BaseEncoder.Tests.ps1 1.0.0.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/BaseEncoder/1.0.0.0/Content/BaseEncoder.Tests.ps1
+Aks.Autorest\internal\ProxyCmdletDefinitions.ps1 - PowerShell Gallery,https://www.powershellgallery.com/packages/Az.Aks/3.1.3/Content/Aks.Autorest%255Cinternal%255CProxyCmdletDefinitions.ps1
+.build.ps1 · Co1a/tidb - Gitee.com,https://gitee.com/Co1a/tidb/blob/master/.build.ps1
+function Invoke-PSInject { <# .SYNOPSIS Taskes a PowerShell ...,https://raw.githubusercontent.com/EmpireProject/Empire/master/data/module_source/management/Invoke-PSInject.ps1
