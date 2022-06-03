@@ -1,0 +1,1 @@
+function Invoke-Mimikatz { <# .SYNOPSIS This script leverages ...,https://raw.githubusercontent.com/b4rtik/PowerTheShell/master/Scripts/Invoke-Mimikatz.ps1
