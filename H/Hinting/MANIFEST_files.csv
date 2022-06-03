@@ -1,0 +1,1 @@
+binutils-cross-canadian-powerpc x86_64_nativesdk 2.32.0 gcc ...,https://165.227.188.234/yocto/yocto/yocto-2.7.1/toolchain/x86_64/poky-glibc-x86_64-core-image-sato-ppc7400-qemuppc-toolchain-2.7.1.host.manifest

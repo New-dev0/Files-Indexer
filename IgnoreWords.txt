@@ -388,6 +388,7 @@ although
 altocumuli
 alum
 aluminate
+aluminized
 aluminum
 aluminums
 alveolate
@@ -508,6 +509,7 @@ animistic
 aniseeds
 anisogamous
 anisotropically
+ankh
 annalist
 annals
 annelid
@@ -871,6 +873,7 @@ atenolol
 atherogenic
 athetoid
 athleticism
+atlatl
 atomizations
 atomized
 atomizing
@@ -1402,6 +1405,7 @@ birdseed
 birefringent
 birthmark
 birthplaces
+birthstones
 bisect
 bisectional
 bisectrices
@@ -1528,6 +1532,7 @@ boilerplate
 boilersuits
 boinked
 boisterously
+boite
 boites
 bolas
 bolder
@@ -1614,6 +1619,7 @@ boulles
 bouncer
 boundaries
 boundlessnesses
+bounties
 bourgs
 bouzoukia
 bovine
@@ -2869,6 +2875,7 @@ conferrence
 confervae
 conferval
 confervas
+confessed
 confessionally
 confidantes
 confident
@@ -2896,6 +2903,7 @@ congenial
 conglobates
 conglomerative
 conglutination
+congratulates
 congregating
 congresspersons
 congruously
@@ -3776,6 +3784,7 @@ depravedness
 deprecatingly
 depreciates
 depreciation
+depredator
 depredatory
 depresses
 depressive
@@ -4970,6 +4979,7 @@ evictees
 eviction
 eviller
 evilness
+evince
 eviscerates
 evolute
 ewes
@@ -5083,6 +5093,7 @@ exterminator
 exterminators
 externals
 externship
+exteroceptors
 extinctions
 extinguishable
 extinguisher
@@ -5323,6 +5334,7 @@ filariasis
 filch
 filched
 filefishes
+filibeg
 filibegs
 filibuster
 filicide
@@ -5914,6 +5926,7 @@ gazetteer
 gazillions
 gazpacho
 gazpachos
+gear
 gearcase
 gearless
 geckos
@@ -6247,6 +6260,7 @@ grown
 growthiness
 growthinesses
 groyne
+grubstakes
 grudging
 gruel
 gruelling
@@ -6269,6 +6283,7 @@ guanabanas
 guaranies
 guardedly
 guardedness
+guardhouse
 guardhouses
 guayule
 guerdons
@@ -6293,6 +6308,7 @@ gulpier
 gulping
 gumball
 gumboot
+gumboots
 gumbos
 gumdrops
 gummed
@@ -6656,6 +6672,7 @@ hilted
 hinder
 hindrance
 hinkier
+hinting
 hipbone
 hippienesses
 hippies
@@ -8143,6 +8160,7 @@ limbus
 limn
 limnologies
 limnologist
+limns
 limpet
 limpidnesses
 limpsiest
@@ -8432,6 +8450,7 @@ malfed
 malformations
 malfunction
 malfunctioning
+mallard
 malleability
 mallee
 mallemuck
@@ -9317,6 +9336,7 @@ myopically
 myotonias
 myriopods
 myrmecologist
+myrtles
 mysid
 mysosts
 mystagogies
@@ -9570,6 +9590,7 @@ nondescriptive
 nondialyzable
 nondocumentary
 nondrip
+nondrying
 noneditorial
 noneducational
 nonego
@@ -11000,6 +11021,7 @@ plenteous
 plentifulness
 pleomorphic
 pleopods
+pleuras
 pleuron
 plex
 plicated
@@ -11861,6 +11883,7 @@ rainless
 rainouts
 raised
 raisers
+rakes
 raki
 raku
 rallyists
@@ -12354,6 +12377,7 @@ repeat
 repegged
 repenter
 repenters
+repeopling
 repetitious
 repigmented
 repinning
@@ -12424,6 +12448,7 @@ reseeks
 resees
 reselecting
 resell
+resensitize
 reserving
 reservist
 resetter
@@ -12788,6 +12813,7 @@ russet
 rusticated
 rusticating
 rustproof
+rutins
 ruttier
 rye
 ryot
@@ -12912,6 +12938,7 @@ sarcology
 sarcomere
 sardonic
 sardonically
+sardonyx
 sarongs
 saroses
 sarsaparillas
@@ -13003,6 +13030,7 @@ schmoos
 schmoose
 schmoozers
 schnauzer
+schnorrer
 schnoz
 scholarships
 scholasticates
@@ -13113,6 +13141,7 @@ seawares
 secantly
 seclusion
 seclusivenesses
+second
 secondarily
 secretively
 secretor
@@ -13880,6 +13909,7 @@ spermatogeneses
 spermatozoid
 spermic
 spermicides
+spermiogeneses
 sperrylites
 sphenes
 sphenoidal
@@ -13971,6 +14001,7 @@ sprigger
 sprightliness
 springalds
 springer
+springers
 springtides
 springwood
 sprinklered
@@ -14010,6 +14041,7 @@ squinters
 squintest
 squintingly
 squirmers
+squirters
 squooshed
 sradha
 stab
@@ -14324,6 +14356,7 @@ subheading
 subheadings
 subheads
 subinfeuds
+subirrigates
 subitems
 subjacent
 subjectivised
@@ -15396,6 +15429,7 @@ tullibees
 tumefying
 tumescence
 tumorlike
+tumping
 tumultuousness
 tuna
 tuneable
@@ -16360,6 +16394,7 @@ weensiest
 weevers
 weevily
 weird
+weirdies
 weirdnesses
 welcomenesses
 weldor
