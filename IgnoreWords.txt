@@ -137,6 +137,7 @@ acuminates
 acupuncturist
 acutances
 acuteness
+acutenesses
 acutes
 acylate
 acylated
@@ -148,6 +149,7 @@ adaptivity
 addles
 addresses
 adducible
+adenines
 adenomas
 adenosines
 adenoviruses
@@ -205,6 +207,7 @@ aerometers
 aerophobe
 aerosolizing
 aesthesia
+affability
 affaires
 affectabilities
 affectivities
@@ -297,6 +300,7 @@ alaska
 alated
 albacore
 albinisms
+albumins
 alcaldes
 alchemistic
 alcidine
@@ -513,6 +517,7 @@ annulation
 annunciate
 anodized
 anodizing
+anointer
 anomalously
 anonyms
 anoopsia
@@ -1770,6 +1775,7 @@ builds
 buildups
 bulbuls
 bulged
+bulges
 bulgur
 bulkage
 bullace
@@ -2149,12 +2155,14 @@ ceibas
 celibacies
 cellar
 cellphones
+cellular
 cellulites
 cenobite
 cense
 censer
 censors
 censured
+centares
 centaurs
 centaury
 centenarians
@@ -3197,6 +3205,7 @@ crest
 crests
 crevice
 crews
+cribbings
 cribs
 cricoid
 criminis
@@ -3465,6 +3474,7 @@ darkener
 darkies
 darkly
 darkness
+darndest
 darnedests
 darnel
 dartle
@@ -4446,6 +4456,7 @@ ecocatastrophes
 ecologic
 ecological
 economic
+economists
 economizer
 economizers
 economizing
@@ -4478,6 +4489,7 @@ effeminacy
 efferents
 efficacy
 effluents
+effluviums
 effortfulnesses
 effrontery
 effs
@@ -4546,6 +4558,7 @@ eloigned
 eloped
 elucidated
 elution
+elutriating
 elutriators
 elver
 elvishly
@@ -5123,6 +5136,7 @@ fanos
 fantasizers
 fantasizes
 fantoccini
+fantom
 fanzine
 faradism
 farandoles
@@ -5290,6 +5304,7 @@ fingerpickings
 fingerposts
 fingerprintings
 finickinesses
+finings
 finishing
 finitude
 finked
@@ -5814,6 +5829,7 @@ garlickier
 garlicky
 garoted
 garotes
+garottes
 garotting
 garpikes
 garron
@@ -6100,6 +6116,7 @@ grated
 grateless
 gratings
 graveless
+gravelike
 gravelly
 gravels
 gravenesses
@@ -6364,6 +6381,7 @@ harmlessly
 harmonized
 harped
 harpings
+harpooning
 harpsichordists
 harry
 harshened
@@ -6470,6 +6488,7 @@ heliostat
 heliotrope
 helium
 hellacious
+hellbenders
 hellboxes
 hellgrammites
 hellhound
@@ -6521,6 +6540,7 @@ herd
 herdic
 hereditarians
 heresies
+heretrixes
 hermeticisms
 hermetists
 herniae
@@ -7297,6 +7317,7 @@ intermarry
 intermats
 intermatted
 intermeddler
+intermeddlers
 intermeddles
 intermediated
 intermezzi
@@ -8456,6 +8477,7 @@ masters
 masticate
 mastigophoran
 mastigophorans
+mastitic
 mastlike
 mastodont
 masturbate
@@ -8545,6 +8567,7 @@ megapod
 megaproject
 megaspore
 megs
+melamed
 melancholiacs
 melanian
 melanogeneses
@@ -9131,6 +9154,7 @@ multiengine
 multiethnics
 multifaceted
 multifid
+multifilament
 multiflash
 multigroup
 multijet
@@ -9820,6 +9844,7 @@ orientalist
 orientals
 orientating
 orienteering
+orienteers
 orienting
 orinasals
 orismology
@@ -10174,6 +10199,7 @@ paddocked
 padishah
 padlocks
 padronism
+paeans
 paeons
 paesano
 paganizing
@@ -10897,6 +10923,7 @@ plumerias
 plumier
 plummy
 plumpen
+plumule
 plumules
 plundered
 plunker
@@ -12183,6 +12210,7 @@ remints
 remises
 remising
 remissible
+remissibly
 remission
 remittor
 remobilizes
@@ -13576,6 +13604,7 @@ soccer
 socialises
 socialist
 socialize
+socializer
 socializes
 sociolinguistic
 socket
@@ -13835,6 +13864,7 @@ sprucing
 sprues
 spry
 spumy
+spunkies
 spurgall
 spurgalled
 spuriousness
@@ -13971,6 +14001,7 @@ stereotypically
 stereotypies
 sternocostal
 sternutators
+sternward
 sternway
 steroidal
 stewarding
@@ -14082,6 +14113,7 @@ stroll
 stroller
 stroma
 strongest
+strongman
 stropped
 stroppers
 strops
@@ -14224,6 +14256,7 @@ substantivizing
 substate
 substrata
 subtenancies
+subtend
 subtended
 subtends
 subtext
@@ -14528,6 +14561,7 @@ take
 taker
 takes
 talar
+talcing
 talcking
 talcs
 talcums
@@ -16535,6 +16569,7 @@ zinnias
 zippering
 zizzle
 zoarium
+zocalo
 zocalos
 zoecia
 zombiisms
