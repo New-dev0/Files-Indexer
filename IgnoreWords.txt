@@ -91,6 +91,7 @@ accurateness
 accursedness
 accusative
 acerber
+acerbity
 acerola
 acerose
 acetabulum
@@ -1885,6 +1886,7 @@ callousing
 callus
 calomel
 calorically
+calorimeters
 calos
 calottes
 calpac
@@ -2526,6 +2528,7 @@ clypeate
 coacervations
 coadmire
 coagulase
+coagulate
 coalescing
 coalified
 coalifying
@@ -3432,6 +3435,7 @@ dangers
 dankest
 dans
 daphnias
+dapperly
 darbies
 darbs
 daredevilry
@@ -3474,6 +3478,7 @@ deadheaded
 deadlift
 deaerated
 deaerators
+deaired
 dealated
 deaned
 dearie
@@ -3608,6 +3613,7 @@ degradative
 degums
 dehisce
 dehorned
+deice
 deifier
 deifying
 deindustrialize
@@ -3940,6 +3946,7 @@ diploblastic
 diploid
 diplomacies
 diplomate
+diplomats
 dipnoans
 dipsomania
 dipsos
@@ -4049,6 +4056,7 @@ disposable
 disposables
 disposition
 dispositive
+dispossession
 disproof
 disprove
 disqualify
@@ -4168,6 +4176,7 @@ dongolas
 donne
 donnerd
 donnert
+donsie
 donsy
 doodlers
 doody
@@ -5195,6 +5204,7 @@ fetas
 feted
 fetidity
 fetidly
+fetoscopies
 fetterer
 fettuccini
 feudalizations
@@ -5930,6 +5940,7 @@ gledes
 gleeked
 gleesome
 glibber
+glibbest
 glibness
 glidepath
 glint
@@ -6194,6 +6205,7 @@ gunshots
 gurged
 gurglets
 gurnard
+gurnet
 gushingly
 gustable
 gusto
@@ -6283,6 +6295,7 @@ handbarrows
 handclaps
 handcrafting
 handicapping
+handled
 handmaid
 handoff
 handselling
@@ -6372,6 +6385,7 @@ headings
 headlamp
 headlessness
 headliners
+headlock
 headman
 headmasters
 headmistresses
@@ -6439,6 +6453,7 @@ hemic
 hemicellulose
 hemiplegics
 hemitrope
+hemochromatoses
 hemochromatosis
 hemodialyses
 hemolyzes
@@ -6566,6 +6581,7 @@ holdovers
 holdups
 holidaying
 holidays
+holier
 holistically
 hollowness
 holmic
@@ -6792,6 +6808,7 @@ hypochondriacal
 hypocritical
 hypoderma
 hypodermically
+hypoed
 hypoing
 hypokalemia
 hypopharynxes
@@ -7540,6 +7557,7 @@ judicial
 judoists
 judoka
 jughead
+jugs
 jugsful
 jugula
 juiceless
@@ -7623,6 +7641,7 @@ kenafs
 kenches
 kenos
 kenotrons
+kens
 keps
 keratitises
 kerbed
@@ -8931,6 +8950,7 @@ monopolise
 monopolises
 monopsonies
 monopsonistic
+monopsony
 monorchid
 monosyllable
 monosynaptic
@@ -9178,6 +9198,7 @@ narcoma
 narcotically
 narine
 narrate
+narrated
 narrator
 narrow
 nasal
@@ -9463,6 +9484,7 @@ nonsecretors
 nonselective
 nonsensically
 nonsexual
+nonsmokers
 nonsocialist
 nonstarter
 nonsteady
@@ -9526,6 +9548,7 @@ null
 nulling
 numbats
 numerators
+numeric
 numerologies
 numerousness
 nuptialities
@@ -9884,6 +9907,7 @@ outsing
 outsinging
 outsinned
 outsized
+outsmelt
 outsoles
 outspell
 outspread
@@ -10375,6 +10399,7 @@ pentoses
 penuchles
 penuckle
 penults
+penumbra
 pep
 peperomia
 pepino
@@ -10931,6 +10956,7 @@ portabellas
 porterage
 portieres
 porting
+portionless
 poshness
 posited
 positing
@@ -11342,6 +11368,7 @@ protectiveness
 protectress
 protectresses
 proteome
+protestation
 prothonotary
 prothoraces
 prothoraxes
@@ -11702,6 +11729,7 @@ reaccenting
 reaccepted
 reacclimatizes
 reaccreditation
+reacquiring
 reacted
 reactionaries
 reactor
@@ -11793,6 +11821,7 @@ recocks
 recodifications
 recodify
 recognizable
+recognizer
 recognizers
 recombing
 recommendatory
@@ -12280,6 +12309,7 @@ retracks
 retractile
 retractility
 retraction
+retransfers
 retrials
 retributory
 retroaction
@@ -14332,6 +14362,7 @@ symbols
 sympathetics
 sympathised
 symphonists
+symposiarch
 synaestheses
 synaesthesia
 synagog
@@ -14766,6 +14797,7 @@ tiring
 tissuing
 titanias
 titers
+tithing
 tithings
 titlist
 titrators
@@ -15411,6 +15443,7 @@ unhanging
 unharmed
 unhatched
 unhealthinesses
+unhelms
 unheroic
 unhewn
 unhirable
@@ -15899,6 +15932,7 @@ voguers
 voicefulness
 volatilizations
 volatilizes
+voled
 volleyed
 volplane
 voltage
@@ -16382,6 +16416,7 @@ zein
 zeks
 zenith
 zeppelins
+zeppole
 zeros
 zeugmas
 zigzagged

