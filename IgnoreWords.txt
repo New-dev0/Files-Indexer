@@ -139,6 +139,7 @@ acutances
 acuteness
 acutes
 acylate
+acylated
 ad
 adaptation
 adaptations
@@ -1862,6 +1863,7 @@ caesura
 cafes
 caffeinic
 cage
+cagelings
 cagiest
 caging
 caique
@@ -2134,6 +2136,7 @@ causeless
 causers
 causeys
 cauterants
+cavalry
 cavendishes
 cavilled
 cavorts
@@ -2700,6 +2703,7 @@ colportages
 cols
 coltish
 columbaries
+columella
 columels
 columneas
 colure
@@ -3367,6 +3371,7 @@ cyanogenic
 cyber
 cybernate
 cybernated
+cybernaut
 cybernetical
 cyberneticists
 cybersexes
@@ -3777,6 +3782,7 @@ desmid
 desolators
 desperateness
 despised
+despising
 despiting
 destituteness
 destitution
@@ -4382,6 +4388,7 @@ dwindle
 dwindling
 dwines
 dwining
+dyable
 dybbukim
 dyer
 dykes
@@ -5030,6 +5037,7 @@ externship
 extinctions
 extinguishable
 extinguisher
+extracellular
 extractions
 extractives
 extractor
@@ -6278,12 +6286,14 @@ hagiographical
 hagiologic
 hagiology
 hagrides
+hails
 hailstorm
 haircut
 hairinesses
 hairlessnesses
 hairlike
 hairlock
+hairsplittings
 halakhic
 halakic
 halavah
@@ -7567,6 +7577,7 @@ jones
 joseph
 josephs
 joshers
+jostling
 jounced
 jouncier
 journaleses
@@ -7627,6 +7638,7 @@ kaiserism
 kaisers
 kakiemon
 kaleidoscopes
+kaleidoscopic
 kalewives
 kalifate
 kalium
@@ -7942,6 +7954,7 @@ legendize
 legendized
 legends
 legislatives
+legislators
 legitimation
 legitimatizing
 legitimator
@@ -8541,6 +8554,7 @@ melaphyres
 melee
 melilots
 meliorating
+melodiously
 melodramatizes
 melon
 melongene
@@ -9021,6 +9035,7 @@ moppets
 moralistically
 moralizing
 morassy
+morays
 mordantly
 mordents
 morenesses
@@ -9031,6 +9046,7 @@ moronity
 morphinic
 morphogenic
 morphologically
+morphometries
 morphs
 morro
 morselling
@@ -10082,6 +10098,7 @@ overshirts
 oversights
 oversimplifies
 overskirt
+overslipping
 overspending
 overspins
 overstaff
@@ -10282,6 +10299,7 @@ parlays
 parles
 parmigiano
 parodoi
+paroling
 parols
 parr
 parrakeet
@@ -10515,6 +10533,7 @@ perplexer
 perry
 persecuting
 persecutive
+persecutory
 perseverance
 perseverating
 persistent
@@ -10688,6 +10707,7 @@ pickaback
 pickadil
 pickaroon
 pickaxe
+picketboat
 picketer
 pickinesses
 picolin
@@ -10856,6 +10876,7 @@ plena
 plenaries
 plenishes
 plenists
+plenteous
 plentifulness
 pleomorphic
 pleopods
@@ -11054,6 +11075,7 @@ potatobug
 poteen
 potences
 potentiality
+potentiating
 potheads
 pothouse
 pothunter
@@ -11528,6 +11550,7 @@ purda
 purebreds
 puree
 pureeing
+pureness
 purfled
 purgeable
 purges
@@ -11715,6 +11738,7 @@ raised
 raisers
 raki
 raku
+rallyists
 ramie
 ramiform
 ramifying
@@ -12327,6 +12351,7 @@ restudies
 restyling
 resubmitted
 resultant
+results
 resummon
 resurfacer
 resurfacers
@@ -12340,6 +12365,7 @@ retastes
 retear
 retempered
 retems
+retentions
 retextured
 retexturing
 rethinkers
@@ -12534,6 +12560,7 @@ romanticize
 rondeaux
 rondos
 rooftops
+roomie
 rooming
 roorback
 rooser
@@ -12962,6 +12989,7 @@ sedilia
 sedimentologies
 seducive
 seductress
+sedulousnesses
 sedums
 see
 seedcakes
@@ -12991,6 +13019,7 @@ selective
 selectiveness
 selectivities
 selectly
+selects
 selenide
 selenides
 seleniferous
@@ -13845,6 +13874,7 @@ stactes
 stagehand
 stages
 stagey
+staggerer
 stagier
 stagiest
 staig
@@ -14442,6 +14472,7 @@ syndromic
 syne
 synergisms
 syngenic
+synonymously
 synopsizes
 synoptical
 syntactical
@@ -15425,6 +15456,7 @@ underglazes
 undergone
 undergrads
 underinflated
+underinvestment
 underlaid
 underlets
 undermining
@@ -16163,6 +16195,7 @@ well
 welterweight
 wending
 westernised
+westmost
 wetbacks
 wetness
 whacks
@@ -16199,6 +16232,7 @@ whistlers
 white
 whitecomb
 whiteflies
+whiteners
 whitens
 whiteouts
 whitewash
@@ -16424,6 +16458,7 @@ yarrows
 yashmak
 yaup
 yawed
+yawl
 yawn
 yawners
 yclept
