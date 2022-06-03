@@ -1,0 +1,9 @@
+Get-SvnWorkingCopy.ps1 1.2.2 - PowerShell Gallery,https://www.powershellgallery.com/packages/Subversion/1.2.2/Content/Get-SvnWorkingCopy.ps1
+Update-SvnWorkingCopy.ps1 1.2.2 - PowerShell Gallery,https://www.powershellgallery.com/packages/Subversion/1.2.2/Content/Update-SvnWorkingCopy.ps1
+Powershell-Misc/New-GitSvnAuthorsFile.ps1 at master - GitHub,https://github.com/beatcracker/Powershell-Misc/blob/master/New-GitSvnAuthorsFile.ps1
+virtual-environments/Install-VS.ps1 at main - GitHub,https://github.com/actions/virtual-environments/blob/main/images/win/scripts/Installers/Install-VS.ps1
+ChrisCompleteCodeTrunk - XP-Dev.com,https://xp-dev.com/sc/249280/HEAD/%252FActionTireCo%252Fpackages%252FMicrosoft.Web.Infrastructure.1.0.0.0%252Ftools%252FUninstall.ps1
+"param($installPath, $toolsPath, $package, $project) function Invoke ...",https://subversion.assembla.com/svn/raveengine/trunk/packages/EntityFramework.5.0.0-rc/tools/install.ps1
+test/scripts/distrib_windows.ps1 · gemmlowp · mirrors / halide ...,https://gitcode.net/mirrors/halide/Halide/-/blob/gemmlowp/test/scripts/distrib_windows.ps1%3Ffrom_codechina%3Dyes
+"trap { Write-Error $_; Exit 1 } $downloadDir = ""C:/Downloads"" New ...",https://raw.githubusercontent.com/scikit-build/scikit-ci-addons/master/windows/install-svn.ps1
+history dkcode/trunk/Web_KMS/packages/jQuery.1.10.2 ... - FishEye,http://120.78.229.205:8060/browse/dkcode/trunk/Web_KMS/packages/jQuery.1.10.2/Tools/common.ps1
