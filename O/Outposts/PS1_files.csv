@@ -1,0 +1,3 @@
+aws-tools-for-powershell/CopyModularAWSPowerShell.ps1 at ...,https://github.com/aws/aws-tools-for-powershell/blob/master/buildtools/CopyModularAWSPowerShell.ps1
+malware-samples/posh-coinminer.ps1 at master - GitHub,https://github.com/itsKindred/malware-samples/blob/master/powershell/posh-coinminer.ps1
+.SYNOPSIS List common security processes running! Author: r00t ...,https://raw.githubusercontent.com/r00t-3xp10it/redpill/main/bin/GetCounterMeasures.ps1
