@@ -18,7 +18,6 @@ Formats = ["pdf", "ppt", "doc", "manifest", "rss", "txt", "xml", "mkv", "mov", "
 
 _Key = {
     "WordList.txt": Words,
-    "IgnoreLinks.txt": IgnoreLinks,
     "IgnoreWords.txt": IgnoreWords,
 }
 
@@ -40,6 +39,11 @@ for key in _Key.keys():
 
 
 RandomWordsCount = 35
+
+def judge_content(text) -> bool:
+    if any(_[::-1] in text.lower() for _ in ["xes", "nrop", "soedivx"]):
+        return False
+    return True
 
 
 async def get_random_words_from_api():
@@ -107,7 +111,7 @@ async def fetch_files(word):
                             .split("&ved=")[0]
                             .strip()
                         )
-                        if fileurl not in IgnoreLinks:
+                        if judge_content(fileurl) and judge_content(name) and fileurl not in IgnoreLinks:
                             if not os.path.exists(folder):
                                 os.mkdir(folder)
                             if Content.get(filetype):
