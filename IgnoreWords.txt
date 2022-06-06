@@ -229,6 +229,7 @@ afforests
 affraying
 affrighted
 affront
+afraid
 aft
 aftercares
 afterclap
@@ -361,6 +362,7 @@ alls
 allseeds
 alluding
 allusion
+alluvia
 alluvium
 almagest
 almemar
@@ -662,6 +664,7 @@ appanage
 apparel
 appeasement
 appellees
+appels
 append
 appendants
 appendicular
@@ -724,6 +727,7 @@ arc
 arced
 archaebacteria
 archaeologies
+archaeopteryxes
 archaisms
 archaizes
 archangel
@@ -985,6 +989,7 @@ axiality
 axially
 axil
 axilla
+axillars
 axisymmetry
 axseed
 ay
@@ -993,6 +998,7 @@ azimuths
 azines
 azotemia
 azure
+baal
 baaskaps
 babbitry
 babblement
@@ -1124,6 +1130,7 @@ barriers
 bartender
 barterer
 bartisan
+bas
 baseless
 basements
 baseplates
@@ -1193,6 +1200,7 @@ becoming
 becrawled
 bedarkened
 bedarkening
+bedazzlement
 bedazzling
 bedboard
 bedcovering
@@ -2074,6 +2082,7 @@ caricatured
 caricatures
 caricaturist
 carillonneur
+carillons
 carioca
 carking
 carless
@@ -2724,6 +2733,7 @@ colicines
 colinearities
 coliphages
 colistins
+collages
 collarless
 collars
 collateralizing
@@ -2765,6 +2775,7 @@ cols
 coltish
 columbaries
 columella
+columellar
 columels
 columneas
 colure
@@ -4078,6 +4089,7 @@ disaffiliate
 disaffiliating
 disaffirms
 disappears
+disappoint
 disappointing
 disappoints
 disapproval
@@ -4502,6 +4514,7 @@ dyspepsy
 dysphagia
 dysphagias
 dyspnoea
+dysrhythmia
 dystocias
 dystopias
 eagerly
@@ -4740,6 +4753,7 @@ encyclopaedic
 endamage
 endameba
 endarch
+endarchies
 endeared
 endemism
 endoderm
@@ -4918,6 +4932,7 @@ eradiate
 eradiating
 eradicable
 eradicated
+eradicators
 erasabilities
 erase
 erect
@@ -5049,6 +5064,7 @@ exanthemata
 exaptive
 exarchates
 exarchy
+exasperate
 except
 exceptionalisms
 excerpt
@@ -5083,6 +5099,7 @@ exenterated
 exenterates
 exertive
 exfoliated
+exhaled
 exhaustive
 exhaustlessly
 exhibiters
@@ -6541,7 +6558,9 @@ hart
 hartal
 hartals
 hartebeests
+hartshorn
 haruspications
+harvest
 harvested
 harvesting
 harvestmen
@@ -6694,6 +6713,7 @@ heresies
 heretrixes
 hermeticisms
 hermetists
+hermitism
 herniae
 herniation
 herpesviruses
@@ -7048,6 +7068,7 @@ idealized
 idealogue
 ideas
 identic
+identifiably
 identifying
 identities
 ideogrammic
@@ -8383,6 +8404,7 @@ loosestrife
 looting
 loping
 lopsided
+lopsidedness
 lopsidednesses
 lordings
 lordlier
@@ -8595,6 +8617,7 @@ manito
 manna
 mannerist
 mannerless
+mannishness
 mannishnesses
 mannite
 manoeuvres
@@ -8704,6 +8727,7 @@ mbaqanga
 meadow
 meadowlands
 meagerness
+meagernesses
 meal
 mealiness
 mealless
@@ -9527,6 +9551,7 @@ needleworker
 needling
 negates
 negligee
+negligently
 negritude
 nelumbiums
 nelumbos
@@ -9770,6 +9795,7 @@ nonrandom
 nonrecombinant
 nonreflecting
 nonresponse
+nonretractile
 nonrubber
 nonschool
 nonsecretors
@@ -10047,6 +10073,7 @@ ordnance
 ordonnances
 oreodonts
 organa
+organelles
 organicities
 organiser
 organises
@@ -10459,6 +10486,7 @@ palfrey
 palier
 palindromes
 pallets
+pallid
 palling
 palmation
 palmer
@@ -10560,6 +10588,7 @@ parred
 parricides
 parroted
 parrs
+parsley
 partakes
 parterre
 parthenocarpies
@@ -12095,6 +12124,7 @@ reactor
 reactors
 readouts
 reaffirmations
+reaffirming
 reaffirms
 realisms
 realities
@@ -12724,6 +12754,7 @@ revertants
 revery
 revesting
 revibrates
+reviewers
 revilement
 revisions
 revisualization
@@ -12754,6 +12785,7 @@ rhenium
 rheobases
 rheometer
 rhesuses
+rhetoric
 rheumatically
 rheumatoid
 rheumier
@@ -13588,6 +13620,7 @@ shunners
 shunt
 shusher
 shuted
+shutoffs
 shutter
 shuttered
 shuttlecocking
@@ -14654,6 +14687,7 @@ sunwards
 superabundances
 superadds
 superagency
+superagent
 superambitious
 superathletes
 superbank
@@ -14729,6 +14763,7 @@ surbased
 surceasing
 surenesses
 surety
+surfbird
 surfboarding
 surfboards
 surfed
