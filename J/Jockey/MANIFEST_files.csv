@@ -1,0 +1,8 @@
+acpi-support 0.132 acpid 1.0.10-5ubuntu2 adduser 3.112ubuntu1 ...,http://ftp.twaren.net/ubuntu-dvd/kubuntu/releases/10.04/alpha-3/lucid-desktop-i386.manifest
+abootimg 0.6-1 ac100-tarball-installer 0.22 accountsservice 0.6.15 ...,https://mirrors.aliyun.com/oldubuntu-releases/releases/12.04.0/ubuntu-12.04-preinstalled-desktop-armhf%2Bac100.manifest
+accountsservice 0.6.15-2ubuntu9.7 acl 2.2.51-5ubuntu1 acpi ...,https://mirrors.aliyun.com/oldubuntu-releases/releases/12.04.0/ubuntu-12.04.4-desktop-amd64.manifest
+acl 2.2.45-1 acpi 0.09-3ubuntu1 acpi-support 0.109-0hardy2 acpid ...,http://repo.ugm.ac.id/iso/ubuntu/releases/kubuntu/8.04/kubuntu-8.04.2-desktop-i386.manifest
+acl 2.2.47-2 acpi 1.1-1ubuntu1 acpi-support 0.114 acpid 1.0.6 ...,https://mirrors.xtom.ee/ubuntu-old-releases/releases/intrepid/ubuntu-8.10-desktop-i386.manifest
+casper/filesystem.manifest · master · examples / Linux AllinOne For ...,https://199.27.144.213/examples/9780470770191/blob/master/casper/filesystem.manifest
+accountsservice 0.6.15-2ubuntu9 acl 2.2.51-5ubuntu1 acpi-support ...,https://mirrors.skyshe.cn/ubuntu-old-releases/releases/releases/12.04/release/ubuntu-12.04-dvd-i386.manifest
+acl 2.2.47-2 acpi-support 0.121 acpid 1.0.6-9ubuntu4 adduser 3.110 ...,http://cdimage.blankonlinux.or.id/rilis/5.0/blankon-5.0-cdlive-i386.manifest

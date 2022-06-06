@@ -1,0 +1,26 @@
+PowerSploit/Get-GPPPassword.ps1 at master - GitHub,https://github.com/PowerShellMafia/PowerSploit/blob/master/Exfiltration/Get-GPPPassword.ps1
+PSSE/Search-Local-Passwords.ps1 at master - GitHub,https://github.com/ahhh/PSSE/blob/master/Search-Local-Passwords.ps1
+Resources/Passwords.ps1 2.0.5 - PowerShell Gallery,https://www.powershellgallery.com/packages/ITGlueAPI/2.0.5/Content/Resources%255CPasswords.ps1
+functions/private/New-SWRandomPassword.ps1 8.1.0.2,https://www.powershellgallery.com/packages/SMBBlueprint/8.1.0.2/Content/functions%255Cprivate%255CNew-SWRandomPassword.ps1
+ipmo ac* $maxdays=(Get-ADDefaultDomainPasswordPolicy ...,https://content.spiceworksstatic.com/service.community/p/post_attachments/0000161003/533c7a39/attached_file/passwordexpiring.ps1
+Functions/Passwords/New-PVPassword.ps1 ... - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/PoShPACLI/2.1.27/Content/Functions%255CPasswords%255CNew-PVPassword.ps1
+Resources/Passwords.ps1 2.1.0 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/ITGlueAPI/2.1.0/Content/Resources%255CPasswords.ps1
+.SYNOPSIS Updates an adminstrator user description field and ...,https://public.support.unisys.com/st3/docs/Stealth-4.0/82254186-002/examples/powershell/Update-AdminUser.ps1
+"$systems = @{ local = @{ url = ""https://eics.intermedix.local ...",https://bitbucket.juvare.com/projects/POC/repos/tomas.madajevas/raw/invoke_eics_rest_method.ps1%3Fat%3Drefs%252Fheads%252Fmaster
+.SYNOPSIS PoC PowerShell script to demo how to perform ...,https://raw.githubusercontent.com/r00t-3xp10it/redpill/main/modules/Spray-Passwords.ps1
+public/ethuser/Reset-ETHUserPassword.ps1 ... - gitlab@ETH,https://gitlab.ethz.ch/aurels/iam-powershell/-/blob/002470b26b0f25290aa0a452ee19f3a1e695c475/public/ethuser/Reset-ETHUserPassword.ps1
+DomainPasswordSpray.ps1 · Guuu/工具 - Gitee.com,https://gitee.com/hackergu/tool/blob/master/DomainPasswordSpray.ps1
+fusionpbx-install.sh/new-password.ps1 at ...,https://gitea.ad-host.ru/manchelsi/fusionpbx-install.sh/src/commit/159dc6546b2d02f14af93a4292e0d940a6140129/windows/resources/new-password.ps1
+lib/ansible/modules/windows/win_service.ps1 - Fossies,https://fossies.org/linux/ansible/lib/ansible/modules/windows/win_service.ps1
+ad-auth-check.ps1 #1 - Perforce Workshop,https://swarm.workshop.perforce.com/files/guest/perforce_software/sdp/main/Server/Windows/p4/common/bin/triggers/ad-auth-check.ps1%3Fv%3D1
+#ps1_sysnative #Requires -RunAsAdministrator #Requires -Version ...,https://download.sureviewsystems.com/SureviewPrep.ps1
+docs/iis/Multi-SiteExample.ps1 ... - InterWorks GitLab,https://gitlab.interworks.com/IntegrationServices/InstallMaster/-/blob/68288de1ccdf47ab5a0f5968af0f05e4fcf9c59e/docs/iis/Multi-SiteExample.ps1
+ansible2/ansible/modules/windows/win_certificate_store.ps1 ...,https://version.cs.vt.edu/techstaff/linux-audit/-/blob/337dfa77208713d6a5a05d4874ebe0e7397a8818/ansible2/ansible/modules/windows/win_certificate_store.ps1
+tacticalrmm/Win_User_Create.ps1 at ... - Leffler.Media Git,https://git.leffler.media/MyFavMirrors/tacticalrmm/src/commit/6a6446bfcb28cb6b1fff220debbd6eefd42be07e/scripts/Win_User_Create.ps1
+sp2013serviceaccounts.ps1 · master - CodePlex - GitLab,https://gitlab.lsonline.fr/CodePlex/SPServiceAccounts/-/blob/master/sp2013serviceaccounts.ps1
+function Invoke-PasswordRoll { <# .SYNOPSIS 이 스크립트를 사용 ...,https://www.delmaster.net/attachment/cfile4.uf%40272EB94255DD32D5053579.ps1
+functions/get-d365lcsapitoken.ps1 0.5.41 - PowerShell Gallery,https://168.61.186.235/packages/d365fo.tools/0.5.41/Content/functions%255Cget-d365lcsapitoken.ps1
+File name PSService.ps1 # # # # Description A sample service in a ...,http://jf.larvoire.free.fr/progs/PSService.ps1
+SessionGopher.ps1 - Kali Linux / Packages / redsnarf - GitLab,https://gitlab.com/kalilinux/packages/redsnarf/blob/kali/master/SessionGopher.ps1
+reboot-cells-os-level.ps1 · master · Brandon Bazan / blogpost files,https://gitlab.com/brandon.bazan/blogpost-files/blob/master/reboot-cells-os-level.ps1
+MountPrinter.ps1 - BAZIN Jean-Noel - GitLab,https://gitlab.imt-atlantique.fr/jnbazin/script-windows/-/blob/35a4b9b12fef1d17bd95cef5ef2f6b23a32e0df2/MountPrinter.ps1

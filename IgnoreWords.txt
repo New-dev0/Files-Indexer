@@ -306,6 +306,7 @@ albinisms
 albumins
 alcaldes
 alchemistic
+alchemize
 alcidine
 alcoholically
 aldosterone
@@ -1175,6 +1176,7 @@ bawtie
 bayard
 bayberry
 bays
+bazooka
 beach
 beachballs
 beachside
@@ -1523,6 +1525,7 @@ blousier
 blowdown
 blowgun
 blowjobs
+blowtorch
 blubberer
 blubbering
 bludgeon
@@ -1991,6 +1994,7 @@ canary
 canasta
 cancelable
 candidnesses
+candies
 candlelighter
 candlestick
 candlesticks
@@ -2378,6 +2382,7 @@ childbed
 childishly
 childlessnesses
 chiliast
+chilidogs
 chillest
 chiltepin
 chiltepins
@@ -2526,6 +2531,7 @@ civisms
 clabbers
 clachan
 cladode
+cladodes
 cladogram
 clads
 clag
@@ -3293,6 +3299,7 @@ crescents
 crest
 crests
 crevice
+crewmate
 crews
 cribbings
 cribs
@@ -3781,6 +3788,7 @@ demerara
 demic
 demigoddess
 demilunes
+demits
 demobilize
 demographer
 demonesses
@@ -4037,6 +4045,7 @@ diffusor
 digamies
 digamma
 digenesis
+digitately
 digitoxins
 digressively
 dihedral
@@ -4150,6 +4159,7 @@ disendowed
 disentailed
 disenthrals
 disentitled
+disequilibrated
 diseur
 diseuses
 disfigure
@@ -4866,6 +4876,7 @@ entozoans
 entranceways
 entrapping
 entreat
+entreated
 entreats
 entrecotes
 entrenched
@@ -5235,6 +5246,7 @@ facilities
 fact
 factionally
 factoidal
+factorable
 factotums
 faddishness
 faddist
@@ -6917,6 +6929,7 @@ horninesses
 hornist
 horologists
 horrid
+horrifically
 horsebeans
 horseflesh
 horsepox
@@ -7185,6 +7198,7 @@ impartialities
 impartially
 impasted
 impawned
+impawns
 impeach
 impeccant
 impecuniosities
@@ -7804,6 +7818,7 @@ jo
 jobholder
 jobname
 jockette
+jockey
 jocund
 johnnycake
 joinder
@@ -7906,6 +7921,7 @@ katcinas
 kathodes
 katydid
 kauris
+kayak
 kayaking
 kbars
 kebab
@@ -7915,6 +7931,7 @@ kecks
 keel
 keelboat
 keelhale
+keelhaling
 keelhauling
 keener
 keepings
@@ -8269,6 +8286,7 @@ librarianship
 librated
 libretti
 licensures
+licentiates
 lichenin
 lichening
 lichenose
@@ -8908,6 +8926,7 @@ metallographic
 metallurgical
 metalworks
 metaphoric
+metaplasm
 metastatically
 metathoracic
 metazoa
@@ -9345,6 +9364,7 @@ mothered
 motherhouse
 mothering
 mothproof
+motific
 motion
 motivate
 motorboater
@@ -9421,6 +9441,7 @@ multifilament
 multiflash
 multigroup
 multijet
+multilane
 multimember
 multimetallic
 multinomials
@@ -9583,6 +9604,7 @@ necropoleis
 necrose
 necrotizes
 nectarous
+needier
 needless
 needleworker
 needling
@@ -10653,6 +10675,7 @@ passerines
 passivations
 passivity
 passport
+passwords
 pastalike
 pastas
 pastellist
@@ -10666,6 +10689,7 @@ pastor
 pastoralnesses
 pastored
 pastromis
+patagium
 patcher
 patelliform
 pathetically
@@ -11200,6 +11224,7 @@ playmaker
 playpens
 playsuits
 playwrightings
+pleaching
 pleaders
 pleads
 pleasantest
@@ -11378,6 +11403,7 @@ possessors
 possets
 post
 postattack
+postbase
 postbellum
 postcava
 postcavas
@@ -12508,6 +12534,7 @@ rejudge
 rejustifies
 rejustify
 rejuvenated
+rejuvenates
 rekeying
 reknits
 reknots
@@ -14096,6 +14123,7 @@ soviets
 sovranty
 soymilk
 soyuzes
+sozines
 sozins
 space
 spaceless
@@ -14537,6 +14565,7 @@ structuralisms
 structure
 struggled
 strummer
+strung
 stubbier
 stubborn
 stuccoer
@@ -14720,6 +14749,7 @@ sulfones
 sulfureted
 sulfuretted
 sulfurized
+sulfurousnesses
 sulfuryls
 sulphides
 sulphurise
@@ -14874,6 +14904,7 @@ sweenies
 sweepbacks
 sweeping
 sweetened
+sweetens
 sweetshop
 sweetsops
 swidden
@@ -14966,6 +14997,7 @@ tackets
 tackling
 tacks
 tacnode
+taco
 taconite
 tact
 taction
@@ -15332,6 +15364,7 @@ tiling
 tiltrotor
 timbales
 timberlines
+timbrel
 timelessness
 timeliness
 timorously
@@ -16155,6 +16188,7 @@ unsegregated
 unsetting
 unsews
 unsexing
+unshamed
 unshelling
 unskilful
 unslings
@@ -16476,6 +16510,7 @@ viridescent
 viridity
 virion
 virtueless
+virtuose
 virtuosities
 virtuous
 virulencies
