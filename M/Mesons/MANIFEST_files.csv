@@ -1,0 +1,4 @@
+Packages.manifest - OpenWrt Downloads,https://downloads.openwrt.org/releases/19.07.3/packages/arm_cortex-a9_vfpv3-d16/packages/Packages.manifest
+kalekale/taisei: Mirror of the taisei-project git repo. A free and open ...,https://code.gensokyo.social/kalekale/taisei/src/commit/2b84c8b0658d74f84885a8384092b589643288bc/src/taisei.manifest
+xz-native x86_64-linux 5.2.4 automake-native x86_64-linux 1.16.1 ...,https://165.227.188.234/yocto/yocto/yocto-2.7.1/toolchain/x86_64/poky-glibc-x86_64-core-image-sato-armv7vet2hf-neon-qemuarm-toolchain-ext-2.7.1.host.manifest
+qemu-helper-native x86_64-linux 1.0 xtrans-native x86_64-linux 1.3 ...,https://165.227.188.234/yocto/yocto/yocto-2.7.1/toolchain/x86_64/poky-glibc-x86_64-core-image-sato-mips32r2-qemumips-toolchain-ext-2.7.1.host.manifest
