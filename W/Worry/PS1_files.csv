@@ -1,0 +1,17 @@
+build-module.ps1 1.0.16 - PowerShell Gallery,https://www.powershellgallery.com/packages/Nutanix/1.0.16/Content/build-module.ps1
+functions/import/Export-PSFModuleClass.ps1 1.5.170 - PowerShell ...,https://www.powershellgallery.com/packages/PSFramework/1.5.170/Content/functions%255Cimport%255CExport-PSFModuleClass.ps1
+Vocola2/publish_package_pypi.ps1 at master · dictation-toolbox ...,https://github.com/dictation-toolbox/Vocola2/blob/master/publish_package_pypi.ps1
+Vocola2/build_package.ps1 at master · dictation-toolbox ... - GitHub,https://github.com/dictation-toolbox/Vocola2/blob/master/build_package.ps1
+Public/ImportExcel/Import-PoshCsv.ps1 0.9.169 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/Posh365/0.9.169/Content/Public%255CImportExcel%255CImport-PoshCsv.ps1
+tests/Remove-SqlOrphanUser.Tests.ps1 0.8.950 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/dbatools/0.8.950/Content/tests%255CRemove-SqlOrphanUser.Tests.ps1
+AUTHOR : Marius / Hican - http://www.hican.nl - @hicannl # DATE ...,https://content.spiceworksstatic.com/service.community/p/post_attachments/0000169713/5639b2e7/attached_file/create_ad_users.ps1
+lib/ansible/modules/windows/win_shell.ps1 · master · Tomáš ...,https://gitlabdev.ics.muni.cz/242618/ansible/-/blob/master/lib/ansible/modules/windows/win_shell.ps1
+function Convert-WindowsImage { #Requires -Version 3.0 ...,https://raw.githubusercontent.com/microsoft/MSLab/master/Tools/Convert-WindowsImage.ps1
+lib/ansible/modules/windows/win_shell.ps1 - Fossies,https://fossies.org/linux/ansible/lib/ansible/modules/windows/win_shell.ps1
+src/Public/Invoke-GpoTracking.ps1 - Devin Rich - GitLab,https://gitlab.com/devirich/trackgpo/-/blob/44ee33727892c10a0ffb2bb42874c7e227edf6ee/src/Public/Invoke-GpoTracking.ps1
+mj/Windows10Debloater - Windows10Debloater - antipode.info GIT,https://git.antipode.net/mj/Windows10Debloater/commits/commit/55131f2c21cb4ee66a73066a15d7abc393b4ed45/Windows10SysPrepDebloater.ps1
+.NOTES Copyright (c) Microsoft Corporation. All rights reserved. Use ...,https://hyperv.tistory.com/attachment/cfile25.uf%400233B54751AD2DB91D6661.ps1
+function Invoke-ReflectivePEInjection { <# .SYNOPSIS This script ...,https://vxug.fakedoma.in/archive/Exploits/CVE-2014-4113/Invoke-SystemShell.ps1
+whx/pentest_tools: My pentest tools - post_exploitation/priv_esc ...,https://git.stefan.works/whx/pentest_tools/src/commit/7b33c61fecff702ce7192bf7de9ec6ec6ec9ce7d/post_exploitation/priv_esc/privesc-scripts/PowerUp.ps1
+Phoenix.ps - गृहपृष्‍ठ | Facebook,https://ne-np.facebook.com/phoenix.ps1
+function Invoke-Mimikatz { <# .SYNOPSIS This script leverages ...,http://www.seemelist.com/Invoke-Mimikatz.ps1

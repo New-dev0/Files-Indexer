@@ -1,0 +1,2 @@
+/AppStream /AppStream/Packages /AppStream/Packages/389-ds ...,https://mirrors.xtom.jp/almalinux/8.5/isos/x86_64/AlmaLinux-8.5-x86_64-dvd.iso.manifest
+/EFI /EFI/BOOT /EFI/BOOT/BOOT.conf /EFI/BOOT/BOOTIA32.EFI /EFI ...,http://mirrors.radwebhosting.com/almalinux/8.5/isos/x86_64/AlmaLinux-8.5-x86_64-minimal.iso.manifest
