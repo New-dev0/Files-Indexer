@@ -1,0 +1,5 @@
+functions/support/Set-DcnPermission.ps1 0.10.12 - PowerShell Gallery,https://www.powershellgallery.com/packages/dbaclone/0.10.12/Content/functions%255Csupport%255CSet-DcnPermission.ps1
+functions/support/Convert-DcnUncPathToLocalPath.ps1 0.10.12,https://www.powershellgallery.com/packages/dbaclone/0.10.12/Content/functions%255Csupport%255CConvert-DcnUncPathToLocalPath.ps1
+idh/Invoke-HoneyCreds-IDH.ps1 at master · chrissanders/idh - GitHub,https://github.com/chrissanders/idh/blob/master/Invoke-HoneyCreds-IDH.ps1
+functions/Get-DbaAgentJobCategory.ps1 0.9.503 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/dbatools/0.9.503/Content/functions%255CGet-DbaAgentJobCategory.ps1
+functions/Get-DbaRandomizedDataset.ps1 1.0.136 - PowerShell ...,https://psg-prod-centralus.cloudapp.net/packages/dbatools/1.0.136/Content/functions%255CGet-DbaRandomizedDataset.ps1

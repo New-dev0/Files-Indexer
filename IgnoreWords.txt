@@ -923,6 +923,7 @@ audiles
 audiocassette
 audiocassettes
 audiology
+audiometric
 audition
 auditories
 auditorily
@@ -1040,6 +1041,7 @@ backloads
 backmost
 backouts
 backrushes
+backscatters
 backset
 backsets
 backshore
@@ -1146,6 +1148,7 @@ bartisan
 bas
 baseless
 basements
+basenesses
 baseplates
 baserunnings
 bashed
@@ -1550,6 +1553,7 @@ blueshifts
 bluet
 bluewood
 bluffers
+bluffs
 blumed
 blunderbusses
 blunger
@@ -2031,6 +2035,7 @@ canonizations
 canoodled
 canopic
 canorousness
+cantaloupes
 canted
 canthi
 cantic
@@ -2439,6 +2444,7 @@ chocolate
 choicely
 chokecherry
 cholent
+choler
 cholesterol
 choline
 cholo
@@ -2601,6 +2607,7 @@ cloggers
 clogging
 cloistered
 clomb
+clomiphene
 clomping
 clone
 clonuses
@@ -3391,6 +3398,7 @@ cryobiologist
 cryobiology
 cryogenics
 cryoprotectant
+cryoscopes
 cryostats
 cryotherapies
 cryptal
@@ -4631,6 +4639,7 @@ edulcorating
 eerily
 effacing
 effector
+effectuating
 effectuation
 effeminacy
 efferents
@@ -4651,6 +4660,7 @@ egalitarians
 egers
 eggars
 eggnog
+eggnogs
 eggshells
 ego
 egocentrically
@@ -4900,6 +4910,7 @@ entrenched
 entropic
 entwined
 enumerate
+enunciates
 envelopment
 envelopments
 envelops
@@ -5309,6 +5320,7 @@ fanfaronades
 fangless
 fannies
 fanos
+fantasia
 fantasizers
 fantasizes
 fantoccini
@@ -5985,6 +5997,7 @@ galenical
 galenites
 gales
 galiots
+galipot
 galivanted
 galliasses
 gallican
@@ -6690,6 +6703,7 @@ heathbird
 heathendoms
 heathenish
 heathenries
+heathens
 heaumes
 heavyweight
 hebephrenic
@@ -6939,6 +6953,7 @@ hoosgow
 hootenanny
 hoovers
 hope
+hopeful
 hoplites
 hopsacking
 hopsacks
@@ -7779,6 +7794,7 @@ janglier
 japanize
 japery
 japing
+japonaiserie
 japonica
 jar
 jardiniere
@@ -8447,6 +8463,7 @@ logicizing
 logics
 logisticians
 logjam
+lognormal
 lognormality
 logotypies
 logrolled
@@ -9264,6 +9281,7 @@ mohawk
 moidore
 moire
 moisture
+moisturises
 molar
 molars
 moldboard
@@ -9517,6 +9535,7 @@ musquashes
 mussily
 mussinesses
 mustang
+mustelids
 mustering
 mustier
 mustily
@@ -9919,6 +9938,7 @@ nosed
 noseguards
 noseless
 nosher
+nosology
 nostalgias
 nostalgic
 notably
@@ -10016,6 +10036,7 @@ occupy
 occurrents
 oceanic
 oceanographies
+ochry
 ocker
 ocrea
 ocreate
@@ -10182,6 +10203,7 @@ ornamentally
 ornery
 orogenetic
 orpiment
+orrices
 orrises
 orrisroot
 orthocenters
@@ -11707,6 +11729,7 @@ pricks
 priestlinesses
 priestly
 prig
+priggery
 prigging
 prill
 prim
@@ -11790,6 +11813,7 @@ proletarianizes
 proliferations
 prolific
 prologize
+prologues
 prolongation
 prolongations
 prolonging
@@ -12106,6 +12130,7 @@ racer
 racetrackers
 racewalkers
 racialize
+racializes
 raciness
 racing
 racisms
@@ -12448,6 +12473,7 @@ reexplains
 reexport
 reexported
 reexpose
+reexpressed
 ref
 refall
 refeeling
@@ -12489,6 +12515,7 @@ refresher
 refreshers
 refuge
 refurbishers
+refurbishes
 refurnish
 refusenik
 refuses
@@ -12682,6 +12709,7 @@ reprehensibly
 reprehensive
 representer
 repress
+repressing
 repression
 repressive
 repressurize
@@ -13199,6 +13227,7 @@ sandals
 sandbagging
 sandbags
 sandblasted
+sanders
 sandiest
 sandlot
 sands
@@ -13811,6 +13840,7 @@ sinfonias
 singalongs
 singeing
 singers
+singles
 singlestick
 singularities
 sink
@@ -14010,6 +14040,7 @@ sneaky
 sneap
 sneaps
 snedded
+sneerier
 snickersnee
 sniffishly
 sniffishness
@@ -14210,6 +14241,7 @@ speeding
 speedster
 speedsters
 speirs
+speise
 speises
 spelean
 spellers
@@ -14836,6 +14868,7 @@ superintend
 superintendents
 superintends
 superintensity
+superiorities
 superjumbo
 superlativeness
 superlunar
@@ -16358,6 +16391,7 @@ vagabond
 vagabondism
 vagaries
 valeted
+valiant
 validating
 valorise
 valorizations
@@ -16747,6 +16781,7 @@ weekday
 weenier
 weenies
 weensiest
+weepies
 weevers
 weevily
 weird
