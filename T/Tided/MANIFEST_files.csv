@@ -1,0 +1,7 @@
+SA-RBA/app.manifest at master - GitHub,https://github.com/apger/SA-RBA/blob/master/app.manifest
+meta-intel-edison/edison-image-edison.manifest at master - GitHub,https://github.com/edison-fw/meta-intel-edison/blob/master/docs/edison-image-edison.manifest
+Packages.manifest - OpenWrt Downloads,https://downloads.openwrt.org/releases/19.07.3/packages/arm_cortex-a9_vfpv3-d16/packages/Packages.manifest
+Packages.manifest - OpenWrt Downloads,https://downloads.openwrt.org/releases/17.01.0/packages/mipsel_24kc/packages/Packages.manifest
+CentOS-Stream-8-aarch64-latest-dvd1.iso.manifest - Nexril,http://mirror.dal.nexril.net/centos/8-stream/isos/aarch64/CentOS-Stream-8-aarch64-latest-dvd1.iso.manifest
+Package: UDPspeeder Version: 20210116.0-2 Depends: libc ...,http://46.137.236.134/releases/21.02.0-rc3/packages/arm_cortex-a9/packages/Packages.manifest
+"Package: UDPspeeder Version: 20210116.0-3 Depends: libc, librt ...",https://downloads.lede-project.org/snapshots/packages/arc_archs/packages/Packages.manifest

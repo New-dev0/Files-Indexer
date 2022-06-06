@@ -1,0 +1,6 @@
+Public/SecurityOption.ps1 2.2.8 - PowerShell Gallery,https://www.powershellgallery.com/packages/poshspec/2.2.8/Content/Public%255CSecurityOption.ps1
+Set-Privilege.ps1 1.1.2 - PowerShell Gallery,https://www.powershellgallery.com/packages/Set-Privilege/1.1.2/Content/Set-Privilege.ps1
+PowerShell-Compliance-Scripts/Compliance.ps1 at master - GitHub,https://github.com/OrganizedMayhem/PowerShell-Compliance-Scripts/blob/master/Compliance.ps1
+os-harderning-scripts/CSBP_WindowsServer2012_R2.ps1 at ...,https://github.com/Cloudneeti/os-harderning-scripts/blob/master/WindowsServer2012R2/CSBP_WindowsServer2012_R2.ps1
+.SYNOPSIS DSC script to harden Windows Server 2019 VM ...,https://raw.githubusercontent.com/Cloudneeti/os-harderning-scripts/master/WindowsServer2019/CSBP_WindowsServer2019.ps1
+.SYNOPSIS DSC script to harden Windows Server 2016 VM ...,https://raw.githubusercontent.com/Cloudneeti/os-harderning-scripts/master/WindowsServer2016/CSBP_WindowsServer2016.ps1

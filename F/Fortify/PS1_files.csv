@@ -1,0 +1,4 @@
+Public/Import-FODDynamicScan.ps1 1.0.0.8 - PowerShell Gallery,https://www.powershellgallery.com/packages/PowerShellForFOD/1.0.0.8/Content/Public%255CImport-FODDynamicScan.ps1
+Private/Parse-FODError.ps1 1.0.0.9 - PowerShell Gallery,https://www.powershellgallery.com/packages/PowerShellForFOD/1.0.0.9/Content/Private%255CParse-FODError.ps1
+IWAPharmacyDirect/fortify-sca.ps1 at master · fortify-presales ...,https://github.com/mfdemo/IWA/blob/master/bin/fortify-sca.ps1
+IWAPharmacyDirect/fortify-fod.ps1 at master · fortify-presales ...,https://github.com/mfdemo/IWA/blob/master/bin/fortify-fod.ps1

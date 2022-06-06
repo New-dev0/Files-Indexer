@@ -1588,6 +1588,7 @@ bonding
 bone
 boneblacks
 bonehead
+boneset
 bongoes
 bonitas
 bonnocks
@@ -1912,6 +1913,7 @@ cachucha
 cacklers
 cacodemons
 cacomixls
+caconym
 cadaverines
 caddisworms
 caddying
@@ -2446,6 +2448,7 @@ chowed
 chowing
 christening
 chroma
+chromates
 chromaticism
 chromatids
 chrominance
@@ -2971,6 +2974,7 @@ connectedly
 conning
 conniving
 connoted
+connotes
 connubialisms
 connubiality
 conquered
@@ -3500,7 +3504,9 @@ cypres
 cyprians
 cyprinoid
 cyproheptadine
+cyproterones
 cyprus
+cysteine
 cytogeneticist
 cytokinesis
 cytologic
@@ -4063,6 +4069,7 @@ diodes
 dionysiac
 diopsidic
 dioritic
+dioxans
 dip
 diphasic
 diphenyls
@@ -4167,6 +4174,7 @@ diskette
 dislikable
 dislocate
 dislodges
+dismasting
 disorderedness
 disownments
 dispart
@@ -5328,6 +5336,7 @@ feathering
 featherweights
 feats
 featured
+feaze
 febrility
 feces
 feckless
@@ -5730,6 +5739,7 @@ forsooth
 fort
 forthrightly
 fortified
+fortify
 fortissimi
 fortissimos
 fortitudes
@@ -6820,6 +6830,7 @@ hoisters
 hokeynesses
 hoking
 holddowns
+holdings
 holdovers
 holdups
 holidaying
@@ -6888,6 +6899,7 @@ hook
 hookier
 hooligan
 hooligans
+hooplas
 hoopless
 hoopster
 hoosgow
@@ -8007,6 +8019,7 @@ knurl
 kola
 kolbasis
 kolkhoznik
+kolkhozniki
 kolkhozniks
 kolkhozy
 kombus
@@ -8218,6 +8231,7 @@ lentils
 leotard
 lepidopterology
 leprechaun
+leptins
 leptotene
 les
 lesbians
@@ -8744,6 +8758,7 @@ mazier
 mbaqanga
 meadow
 meadowlands
+meadowlarks
 meagerness
 meagernesses
 meal
@@ -8790,6 +8805,7 @@ megadose
 megadynes
 megahertz
 megahit
+megakaryocytic
 megalomania
 megalomaniacal
 megalomanias
@@ -8968,6 +8984,7 @@ mid
 middlebrows
 middlers
 midfielder
+midis
 midlines
 midlists
 midlives
@@ -9739,6 +9756,7 @@ noncritical
 nondancer
 nondegenerate
 nondeliveries
+nondemands
 nondescriptive
 nondialyzable
 nondocumentary
@@ -10306,6 +10324,7 @@ overcrops
 overcrowding
 overcrowds
 overcut
+overdecorations
 overdeveloped
 overdosed
 overdoses
@@ -10881,6 +10900,7 @@ petechia
 petiteness
 petitioners
 petnaping
+petrifier
 petrifying
 petrochemicals
 petrolatum
@@ -11559,6 +11579,7 @@ preppiest
 preprices
 preps
 prepuberties
+prepuce
 prepunches
 prequalify
 preradio
@@ -11904,6 +11925,7 @@ pursuances
 pursuant
 pursuits
 pursuivants
+purveys
 pushdowns
 pushes
 pusillanimity
@@ -12841,6 +12863,7 @@ rick
 rickeys
 ricking
 ricks
+rickshas
 rid
 riddled
 ride
@@ -13031,6 +13054,7 @@ sabayons
 sabbats
 sabring
 saccades
+saccharase
 saccharic
 saccharified
 sacculations
@@ -13324,6 +13348,7 @@ sculled
 sculler
 sculls
 sculped
+sculpturally
 scummer
 scunnered
 scuppaugs
@@ -13476,6 +13501,7 @@ sequestered
 sequitur
 seraphic
 seraphims
+serendipities
 serendipitous
 sergeancy
 sergeant
@@ -13769,12 +13795,14 @@ ski
 skibobs
 skiddoo
 skidoo
+skidproof
 skids
 skidway
 skiey
 skiffled
 skilled
 skillet
+skimboards
 skimobiles
 skimping
 skinflint
@@ -14753,6 +14781,7 @@ supermasculine
 supernates
 supernormality
 superorganic
+superorganism
 superorganisms
 superphosphates
 superplasticity
@@ -14842,6 +14871,7 @@ sweater
 sweats
 swede
 sweenies
+sweepbacks
 sweeping
 sweetened
 sweetshop
@@ -15289,6 +15319,7 @@ tictac
 tictacking
 tidbit
 tiddler
+tided
 tidemarks
 tiebreaks
 tiepins
@@ -15826,6 +15857,7 @@ unbolting
 unboned
 unbonneted
 unbottling
+unbraided
 unburden
 unbuttons
 uncake
@@ -15932,9 +15964,11 @@ underworlds
 underwrite
 underwriters
 undeveloped
+undigested
 undisciplined
 undissociated
 undivided
+undock
 undoers
 undogmatic
 undotted
@@ -16349,6 +16383,7 @@ venographies
 venoms
 ventilating
 ventilatory
+venting
 ventricular
 ventriculus
 ventriloquism
