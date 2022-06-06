@@ -88,6 +88,7 @@ accountant
 accountants
 accruable
 accruals
+accruement
 accumulators
 accurateness
 accursedness
@@ -1179,6 +1180,7 @@ bassy
 bastardises
 baste
 baster
+bastinado
 bastinadoed
 bateau
 batfowling
@@ -2092,6 +2094,7 @@ capitulary
 cappers
 capriccio
 caprifigs
+caprioled
 capsulizes
 captain
 captivities
@@ -2511,6 +2514,7 @@ chromates
 chromaticism
 chromatids
 chrominance
+chromomeres
 chromomeric
 chromoplasts
 chromoproteins
@@ -3765,6 +3769,7 @@ defacements
 defacer
 defalcating
 defamations
+defat
 defatted
 defaulter
 defaulters
@@ -4156,6 +4161,7 @@ dip
 diphasic
 diphenyls
 diphosphates
+diphtheria
 diphthongizes
 diphthongs
 diphyletic
@@ -4288,6 +4294,7 @@ dispositive
 dispossession
 disproof
 disprove
+dispute
 disqualify
 disrated
 disregard
@@ -4761,6 +4768,7 @@ electromyogram
 electropositive
 electrotypes
 elegiacal
+elegiacs
 elegies
 elegising
 elegizing
@@ -5453,6 +5461,7 @@ feces
 feckless
 fecundations
 fed
+fedayee
 federal
 federative
 feds
@@ -5741,6 +5750,7 @@ flutterer
 flutterers
 fluviatile
 fluxional
+fluxions
 fluyts
 flyaways
 flybelt
@@ -5919,6 +5929,7 @@ freebases
 freebee
 freebie
 freeform
+freehanded
 freeheartedly
 freeholders
 freelancer
@@ -6077,6 +6088,7 @@ gallican
 gallipot
 gallivanted
 gallons
+galloons
 galloper
 galop
 galvanises
@@ -6364,6 +6376,7 @@ googlies
 gooky
 goop
 goopiest
+goos
 goose
 gooseberries
 gorbellies
@@ -6534,6 +6547,7 @@ guesstimates
 guesting
 guggling
 guidance
+guiders
 guildships
 guiles
 guillemet
@@ -6670,6 +6684,7 @@ handoff
 handselling
 handsful
 handyperson
+hang
 hangtags
 hankerers
 hankie
@@ -6969,6 +6984,7 @@ holidaying
 holidays
 holier
 holistically
+holked
 hollowness
 holmic
 holoblastic
@@ -7354,6 +7370,7 @@ imposes
 impossibility
 impossible
 impoverishing
+imprecates
 imprecating
 imprecation
 impreciseness
@@ -7542,6 +7559,7 @@ ingraft
 ingrafting
 ingrate
 ingression
+ingroup
 inhabitable
 inhalers
 inharmony
@@ -7590,6 +7608,7 @@ insalubrities
 insalubrity
 insatiable
 inscroll
+insculp
 insemination
 insensitivities
 insentiences
@@ -8413,6 +8432,7 @@ lewisson
 lewissons
 lexicographer
 lexicographers
+lexicologies
 ley
 lezzy
 libelers
@@ -8515,6 +8535,7 @@ literalize
 lithenesses
 lithoidal
 lithophytes
+lithospheres
 lithotomy
 litterbag
 litterbags
@@ -9494,6 +9515,7 @@ moorages
 mopboards
 mopish
 moppets
+mora
 moralistically
 moralizing
 morassy
@@ -10421,6 +10443,7 @@ outgenerals
 outgiving
 outglared
 outgo
+outgoingnesses
 outguesses
 outhaul
 outhustled
@@ -10442,6 +10465,7 @@ outliving
 outloves
 outmarching
 outmastering
+outmasters
 outmuscle
 outpace
 outpatients
@@ -10495,6 +10519,7 @@ outwearing
 outweeping
 outwit
 outworker
+outwriting
 outwrought
 oval
 ovality
@@ -10935,6 +10960,7 @@ pedately
 peddling
 pedestal
 pedicellate
+pedicular
 pedicurists
 pedimented
 pediments
@@ -10999,6 +11025,7 @@ penuchles
 penuckle
 penults
 penumbra
+peopleless
 pep
 peperomia
 pepino
@@ -11053,6 +11080,7 @@ peritonitises
 peritrichously
 periwinkles
 perjurious
+perkiest
 perkish
 permanently
 permian
@@ -11173,6 +11201,7 @@ phoneying
 phonic
 phosgene
 phosphatase
+phosphatidyl
 phosphatization
 phosphatizes
 phosphatizing
@@ -11439,6 +11468,7 @@ pliofilm
 pliskie
 plisse
 plop
+plosions
 plotzes
 ploughs
 plowmen
@@ -13277,6 +13307,7 @@ ruminations
 rummages
 rumored
 runabouts
+runaround
 runback
 runkled
 runkling
@@ -14479,6 +14510,7 @@ splash
 splashiness
 splashing
 splat
+splendiferous
 splicers
 splined
 splines
@@ -15125,6 +15157,7 @@ suture
 sutures
 svedberg
 svelteness
+swacked
 swages
 swaggeringly
 swamp
@@ -15361,6 +15394,7 @@ technologized
 teel
 teemers
 teeterboards
+teetering
 teethe
 teetotalists
 teetotum
@@ -16394,6 +16428,7 @@ unmuffle
 unorganized
 unpack
 unpatentable
+unpegging
 unperceptive
 unplaced
 unpleasantly
