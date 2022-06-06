@@ -616,6 +616,7 @@ antismoking
 antismut
 antisnob
 antisocialists
+antistate
 antistory
 antistudent
 antitax
@@ -995,6 +996,7 @@ avulsion
 avulsions
 awaited
 awaynesses
+awe
 aweigh
 awfullest
 awing
@@ -1280,6 +1282,7 @@ beleaguers
 belfried
 beliers
 beliquoring
+belleeks
 belles
 belletristic
 belletrists
@@ -1878,6 +1881,7 @@ bunglers
 bunk
 bunns
 burb
+burble
 burbliest
 burbling
 burbly
@@ -1926,6 +1930,7 @@ byrled
 byroad
 bytes
 cabbageworms
+cabbaging
 cabbalist
 cabbed
 cabbies
@@ -2064,6 +2069,7 @@ capacity
 capercaillies
 capercailzie
 capering
+capital
 capitalising
 capitalist
 capitols
@@ -4105,6 +4111,7 @@ dimers
 dimethyls
 dimidiating
 diminished
+diminishing
 diminutiveness
 diminutives
 dimly
@@ -4286,7 +4293,9 @@ dissolves
 dissyllable
 distaff
 distains
+distempered
 distention
+distilleries
 distrained
 distraught
 distressfulness
@@ -4649,6 +4658,7 @@ edentulous
 edges
 edgewise
 edging
+edified
 ediles
 editorials
 editrix
@@ -5045,6 +5055,7 @@ erythrosins
 escapable
 escapee
 escapers
+escapologies
 escapologist
 escarped
 eschalots
@@ -6333,6 +6344,7 @@ gowns
 grabbing
 gracefullest
 graded
+graduated
 graduations
 graffitied
 graffiting
@@ -6818,6 +6830,7 @@ hermitism
 herniae
 herniation
 herpesviruses
+herpetic
 herpetologists
 herries
 herringbone
@@ -6872,6 +6885,7 @@ hilted
 hinder
 hindrance
 hinkier
+hinky
 hinting
 hipbone
 hippienesses
@@ -7710,6 +7724,7 @@ investigative
 investigatory
 inveteracy
 invigilators
+invigoration
 inviolable
 inviscid
 inviters
@@ -8349,6 +8364,7 @@ lewisson
 lewissons
 lexicographer
 lexicographers
+ley
 lezzy
 libelers
 libellee
@@ -9442,6 +9458,7 @@ morro
 morselling
 mortar
 mortarboard
+mortarmen
 mortgagor
 mortified
 mortisers
@@ -10106,6 +10123,7 @@ odorants
 odyles
 oedemata
 oeillade
+oenophiles
 oersteds
 offed
 offended
@@ -10686,6 +10704,7 @@ pantaloon
 pantheists
 panto
 pantomimic
+pantropic
 pants
 pantyhose
 papal
@@ -11671,6 +11690,7 @@ preholiday
 preinform
 preinserts
 preinterviewed
+preinvite
 prelegal
 prelives
 prelocates
@@ -12075,6 +12095,7 @@ pycnotic
 pyelonephritis
 pyknics
 pyorrheas
+pyorrhoeas
 pyramid
 pyramidal
 pyranosides
@@ -12380,6 +12401,7 @@ recheat
 recheats
 rechecked
 rechoosing
+rechose
 reciprocities
 recirculations
 recisions
@@ -12451,6 +12473,7 @@ redating
 redbaiters
 redbirds
 redbones
+redbreasts
 reddles
 redefecting
 redefining
@@ -14613,6 +14636,7 @@ stoppered
 stopwatch
 storekeeper
 storerooms
+storksbills
 stormier
 story
 stowaway
@@ -14854,6 +14878,7 @@ suction
 suctional
 sudaries
 sudations
+sudsier
 sues
 sufflates
 suffocation
@@ -15182,6 +15207,7 @@ tankless
 tannages
 tantalates
 tantalizing
+tanuki
 tanzanite
 tao
 tapaderos
@@ -15199,6 +15225,7 @@ tariffing
 tarlatans
 tarmacadam
 tarmacked
+tarot
 tarried
 tarries
 tarring
@@ -15541,6 +15568,7 @@ tobaccos
 toccatas
 tocsins
 tod
+toddled
 tods
 toeas
 toeless
@@ -15672,6 +15700,7 @@ traipsing
 traject
 tramels
 trammeler
+tranche
 tranny
 transactional
 transacts
@@ -16099,6 +16128,7 @@ undergirt
 underglazes
 undergone
 undergrads
+undergraduates
 underinflated
 underinvestment
 underlaid
@@ -16202,6 +16232,7 @@ unhousing
 unhurried
 unhygienic
 uniaxial
+unicameral
 unific
 uniformitarians
 unilingual
@@ -16245,6 +16276,7 @@ unliberated
 unlikable
 unlikelihoods
 unlively
+unloads
 unloosed
 unloved
 unlovely
@@ -16312,6 +16344,7 @@ unsanctioned
 unsatisfied
 unsaturates
 unschooled
+unscrambling
 unscrews
 unsearchably
 unseasonably
@@ -16495,6 +16528,7 @@ varioles
 variousness
 varnas
 varnishy
+varoomed
 varying
 vasa
 vascula
@@ -17164,6 +17198,7 @@ youngling
 youpon
 youthen
 ytterbic
+yttrias
 yuckiness
 yuks
 yum

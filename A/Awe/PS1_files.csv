@@ -1,0 +1,7 @@
+kernel32/VirtualAllocEx.ps1 1.1 - PowerShell Gallery,https://www.powershellgallery.com/packages/PSReflect-Functions/1.1/Content/kernel32%255CVirtualAllocEx.ps1
+internal/functions/Get-SqlDefaultSpConfigure.ps1 0.9.707,https://www.powershellgallery.com/packages/dbatools/0.9.707/Content/internal%255Cfunctions%255CGet-SqlDefaultSpConfigure.ps1
+PoshC2_Old/C2-Server.ps1 at master - GitHub,https://github.com/nettitude/PoshC2_Old/blob/master/C2-Server.ps1
+redteam/JuicyPotato32.ps1 at master - privilege-escalation - GitHub,https://github.com/d0nkeys/redteam/blob/master/privilege-escalation/JuicyPotato32.ps1
+functions/Get-DbaSpConfigure.ps1 1.0.38 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/dbatools/1.0.38/Content/functions%255CGet-DbaSpConfigure.ps1
+$clrtypesrc ...,https://raw.githubusercontent.com/m8r0wn/OffensiveDLR/master/Invoke-IronKatz.ps1
+"$Setup = ""0M8R4KGxGuEAAAAAAAAAAAAAAAAAAAAAPgAEAP7 ...",https://raw.githubusercontent.com/JoelGMSec/AutoRDPwn/master/Resources/Scripts/Invoke-RDPwrap.ps1
