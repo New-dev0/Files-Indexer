@@ -1,0 +1,6 @@
+public/Invoke-WorkdayRequest.ps1 2.2.5 - PowerShell Gallery,https://www.powershellgallery.com/packages/WorkdayApi/2.2.5/Content/public%255CInvoke-WorkdayRequest.ps1
+public/Set-WorkdayWorkerUserId.ps1 2.3.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/WorkdayApi/2.3.0/Content/public%255CSet-WorkdayWorkerUserId.ps1
+powershell_module_workdayapi/Sync_Workday_to_AD.ps1 at ...,https://github.com/treestryder/powershell_module_workdayapi/blob/master/source/samples/Sync_Workday_to_AD.ps1
+powershell_module_workdayapi/Invoke-WorkdayRequest.ps1 at ...,https://github.com/treestryder/powershell_module_workdayapi/blob/master/source/public/Invoke-WorkdayRequest.ps1
+internal/New-JcSdkInternalWorkday.ps1 0.0.30 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/JumpCloud.SDK.V2/0.0.30/Content/internal%255CNew-JcSdkInternalWorkday.ps1
+exports/New-JcSdkWorkday.ps1 0.0.1 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/JumpCloud.SDK.V2/0.0.1/Content/exports%255CNew-JcSdkWorkday.ps1
