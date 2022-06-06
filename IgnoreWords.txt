@@ -525,6 +525,7 @@ ani
 animadverts
 animalian
 animalism
+animate
 animation
 animations
 animatronic
@@ -617,6 +618,7 @@ antipyretics
 antiquely
 antirachitic
 antirationalism
+antirationalist
 antirationality
 antiritualisms
 antiroll
@@ -1923,6 +1925,7 @@ burlesquer
 burling
 burly
 burnish
+burnt
 burse
 burthen
 burweed
@@ -2505,6 +2508,7 @@ choicely
 chokecherry
 cholent
 choler
+cholers
 cholesterol
 choline
 cholo
@@ -2916,6 +2920,7 @@ commodity
 common
 commonality
 commove
+commoves
 communality
 communalize
 communalizes
@@ -3045,6 +3050,7 @@ congenial
 conglobates
 conglomerative
 conglutination
+congoes
 congratulates
 congregating
 congresspeople
@@ -3438,6 +3444,7 @@ crosscutting
 crosscuttings
 crosse
 crossers
+crossest
 crosshair
 crosshatching
 crossheads
@@ -3776,6 +3783,7 @@ decontrol
 decontrols
 decorate
 decorated
+decorates
 decorators
 decortications
 decorum
@@ -4159,6 +4167,7 @@ dihedral
 dilation
 dilatometers
 dilatoriness
+dilatorinesses
 dilettantes
 dilettantisms
 diligently
@@ -4494,6 +4503,7 @@ dourest
 dournesses
 douroucouli
 dovekey
+dovekies
 dowagers
 doweled
 dowering
@@ -4943,6 +4953,7 @@ enfolders
 enforceable
 enforced
 engagers
+engagingly
 engine
 engineries
 enginous
@@ -5551,6 +5562,7 @@ ferromagnetisms
 ferromanganese
 ferrying
 feruled
+festiveness
 fetas
 feted
 fetidity
@@ -5585,6 +5597,7 @@ fiendishness
 fiercer
 fieriness
 figurate
+figuratively
 filariae
 filariases
 filariasis
@@ -6120,6 +6133,7 @@ galabia
 galabiyah
 galabiyahs
 galateas
+galax
 galeas
 galenical
 galenites
@@ -6202,6 +6216,7 @@ gauntry
 gauziest
 gavel
 gaveled
+gavelocks
 gavot
 gawpers
 gaydar
@@ -6270,6 +6285,7 @@ gerontologists
 gesneriad
 gestating
 gestations
+gesturing
 geum
 ghastfully
 ghastlinesses
@@ -6435,6 +6451,7 @@ gouge
 gouges
 gourmets
 governessy
+governmentally
 gowaned
 gowns
 grabbing
@@ -7832,6 +7849,7 @@ inveigles
 invention
 inventiveness
 inventivenesses
+inventresses
 inverity
 inversed
 invertase
@@ -8099,6 +8117,7 @@ kadi
 kadis
 kaffiyahs
 kaiak
+kail
 kainits
 kaiserism
 kaisers
@@ -9230,6 +9249,7 @@ microseism
 microsomes
 microspheres
 microsporangium
+microswitch
 microwatts
 microwavable
 microworlds
@@ -9864,6 +9884,7 @@ needling
 negates
 negligee
 negligently
+negligibly
 negritude
 nelumbiums
 nelumbos
@@ -11662,6 +11683,7 @@ polyvinyl
 polyzoic
 pomaded
 pomanders
+pommels
 pomologies
 pomologists
 pomology
@@ -12117,6 +12139,7 @@ proprietorships
 props
 proptoses
 prosaisms
+prosateur
 prosauropods
 prose
 prosecution
@@ -12654,6 +12677,7 @@ rectifying
 recto
 rectrix
 recumbencies
+recuperate
 recuperated
 recurred
 recursions
@@ -13008,6 +13032,7 @@ repumped
 repurposes
 requesting
 requite
+reradiations
 reread
 rerecorded
 reregister
@@ -13126,6 +13151,7 @@ retinitides
 retinoid
 retinting
 retinue
+retire
 retirees
 retool
 retracks
@@ -14277,6 +14303,7 @@ slubbings
 slue
 slued
 sluffed
+slugfests
 sluggard
 slugged
 sluggishly
@@ -14321,6 +14348,7 @@ smoochers
 smooshed
 smoothbores
 smoothen
+smoothens
 smothers
 smuttier
 snailed
@@ -14451,6 +14479,7 @@ soothly
 soothsay
 sootier
 sooty
+sopaipillas
 sopapilla
 sophomore
 sopor
@@ -14956,6 +14985,7 @@ studlier
 stuffing
 stulls
 stumbled
+stumbling
 stummed
 stumper
 stumpiest
@@ -16228,6 +16258,7 @@ typical
 typier
 typography
 typologists
+tyrannised
 tyrannising
 tyrannizes
 tyres
@@ -16498,6 +16529,7 @@ unimportant
 uninstructed
 uninsulated
 uninterests
+unionized
 unionizers
 unipods
 unique
@@ -16768,6 +16800,7 @@ vandalise
 vandalised
 vandalisms
 vanguards
+vanned
 vanpoolings
 vanquishers
 vantage
@@ -17274,6 +17307,7 @@ wins
 winterberries
 winterberry
 winterer
+winterly
 wintertide
 wintriness
 wirelessed
@@ -17373,6 +17407,7 @@ worsts
 worthinesses
 worthlessly
 worths
+wotting
 wounded
 wove
 wrackful

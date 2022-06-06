@@ -1,0 +1,6 @@
+public/Out-Animate.ps1 1.0.3 - PowerShell Gallery,https://www.powershellgallery.com/packages/PS.Tools.Utility/1.0.3/Content/public%255COut-Animate.ps1
+PSOfficeConstants/PowerPoint.ps1 at master - GitHub,https://github.com/MikeShepard/PSOfficeConstants/blob/master/PowerPoint.ps1
+PSWriteHTML/Parameters.Configuration.ps1 at master - GitHub,https://github.com/EvotecIT/PSWriteHTML/blob/master/Private/Parameters.Configuration.ps1
+#!/usr/bin/env pwsh $IMAGE_FILE_MACHINE_AMD64 = 0x8664 ...,https://raw.githubusercontent.com/YJBeetle/ccpatch/generic/run.ps1
+$currentPrincipal = New-Object Security.Principal.WindowsPrincipal ...,https://raw.githubusercontent.com/YJBeetle/ccpatch/2020/run.ps1
+File C:\Users\umesh\AppData\Roaming\npm\yarn.ps1 Code Example,https://www.codegrepper.com/code-examples/css/File%2BC%253A%255CUsers%255Cumesh%255CAppData%255CRoaming%255Cnpm%255Cyarn.ps1
