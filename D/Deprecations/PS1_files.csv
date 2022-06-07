@@ -1,0 +1,7 @@
+Sign up - GitHub,https://github.com/ansible-collections/community.windows/blob/main/plugins/modules/win_psmodule.ps1
+ci/test_windows.ps1 · v12.0.0-rc1 - gitlab-runner,https://gitlab.com/gitlab-org/gitlab-runner/-/blob/v12.0.0-rc1/ci/test_windows.ps1
+bootstrap.ps1 · master · tobico / dotfiles · GitLab,https://gitlab.com/tobico/dotfiles/-/blob/master/bootstrap.ps1
+GitList,http://mirror.fairway.ne.jp/git-repository/ansible/blob/bc806ff4790d6a4923892981d1b2392045057f48/lib/ansible/module_utils/powershell.ps1
+lib/ansible/modules/windows/win_shell.ps1,https://gitlab.ics.muni.cz/242618/ansible/-/blob/d7975462da90ffdb19f24800b7eb92107bde7ba5/lib/ansible/modules/windows/win_shell.ps1
+examples/scripts/ConfigureRemotingForAnsible.ps1,https://gitlab.ics.muni.cz/242618/ansible/-/blob/4ac0c23db642614654cc18388db434c1ab5685b4/examples/scripts/ConfigureRemotingForAnsible.ps1
+examples/scripts/ConfigureRemotingForAnsible.ps1 · v2.6.0a1,https://codechina.csdn.net/mirrors/ansible/ansible/-/blob/v2.6.0a1/examples/scripts/ConfigureRemotingForAnsible.ps1

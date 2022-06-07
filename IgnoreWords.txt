@@ -716,6 +716,7 @@ appends
 apperceive
 apperceived
 appestats
+appetency
 appetisers
 appetising
 appetitive
@@ -1369,6 +1370,7 @@ beneficiated
 benefited
 benempt
 benevolentness
+benignancy
 bennets
 benny
 bens
@@ -1439,6 +1441,7 @@ bidding
 bidi
 bidirectional
 bifacially
+biffing
 biffins
 bifoliate
 bifurcating
@@ -1811,6 +1814,7 @@ bratwursts
 brava
 braved
 bravely
+bravi
 bravo
 bravoes
 brawlier
@@ -1863,6 +1867,7 @@ brittling
 broadcasted
 broadened
 broadleaves
+brocading
 brocatelles
 brocatels
 brochettes
@@ -1977,10 +1982,12 @@ burlesks
 burlesque
 burlesquely
 burlesquer
+burlesquers
 burling
 burly
 burned
 burnish
+burnishers
 burnt
 burse
 burthen
@@ -1988,6 +1995,7 @@ burweed
 burying
 busheler
 bushelmen
+bushfires
 bushiness
 bushinesses
 bushtit
@@ -2133,6 +2141,7 @@ canister
 cankerous
 cankers
 cannabin
+cannelloni
 cannelon
 cannibalistic
 cannibalization
@@ -2490,6 +2499,7 @@ checkbooks
 checkered
 checkmarked
 checkouts
+checkpoints
 cheeking
 cheerers
 cheerios
@@ -2733,6 +2743,7 @@ clinally
 clingers
 clingy
 clinically
+clinometers
 clipped
 clipper
 clips
@@ -3578,6 +3589,7 @@ cruzeiros
 cryobiologist
 cryobiology
 cryogenics
+cryogeny
 cryoprotectant
 cryoscopes
 cryostats
@@ -3631,6 +3643,7 @@ curanderos
 curators
 curbstone
 curdling
+curet
 curettages
 curette
 curettes
@@ -4023,6 +4036,7 @@ demounts
 dempster
 demulsified
 demurrages
+demurral
 demurrer
 demyelinating
 demythologized
@@ -4078,6 +4092,7 @@ depositors
 depravedness
 deprecates
 deprecatingly
+deprecations
 depreciates
 depreciation
 depredator
@@ -4843,6 +4858,7 @@ echinate
 echinoderms
 echoic
 echolalias
+echoviruses
 eclipser
 ecocatastrophes
 ecologic
@@ -5280,6 +5296,7 @@ erythremia
 erythroblasts
 erythrosin
 erythrosins
+escalates
 escapable
 escapee
 escapers
@@ -5506,6 +5523,7 @@ extracellular
 extractions
 extractives
 extractor
+extraditable
 extragalactic
 extrapyramidal
 extravagance
@@ -6121,6 +6139,7 @@ frameworks
 franchise
 franchisees
 frangipane
+frankest
 frankfurt
 frankincense
 franking
@@ -7266,6 +7285,7 @@ homogenizations
 homoiotherm
 homolog
 homologates
+homologations
 homologized
 homologizes
 homologizing
@@ -8872,6 +8892,7 @@ lobstick
 lobworms
 localises
 localising
+localizers
 localizing
 location
 lockdowns
@@ -11216,6 +11237,7 @@ paranoiac
 paranoias
 parapeted
 paraphrase
+paraphs
 parasailing
 parasang
 parasexual
@@ -11421,6 +11443,7 @@ pep
 peperomia
 pepino
 pepperboxes
+peptid
 peptizes
 peptonizes
 percaline
@@ -11944,6 +11967,7 @@ politicked
 politicks
 politicly
 pollard
+pollees
 pollen
 pollenosis
 pollex
@@ -11967,6 +11991,7 @@ polygamizes
 polygonally
 polyhistor
 polymathy
+polymerases
 polymeric
 polymerized
 polymorphic
@@ -12202,6 +12227,7 @@ prefund
 pregenital
 pregnancies
 pregnancy
+preguided
 prehandle
 preholiday
 preinform
@@ -12467,6 +12493,7 @@ prostatectomies
 prostatism
 prostrate
 protecter
+protections
 protectiveness
 protectress
 protectresses
@@ -12672,6 +12699,7 @@ quant
 quanta
 quantifies
 quanting
+quantitate
 quantitation
 quantitative
 quarantined
@@ -14650,6 +14678,7 @@ slops
 sloshed
 sloshiest
 slotbacks
+slouchiest
 sloughs
 slovenlier
 slovens
@@ -16269,6 +16298,7 @@ tonsured
 tontines
 tool
 toolhead
+toolheads
 toolmakings
 toothpaste
 toothpicks
@@ -16505,6 +16535,7 @@ tristful
 tristich
 trisulfides
 tritely
+triter
 tritest
 tritheistical
 tritone
@@ -16568,6 +16599,7 @@ tugger
 tuitional
 tularemias
 tullibees
+tumefies
 tumefying
 tumescence
 tumorlike
@@ -16738,6 +16770,7 @@ uncalloused
 uncapped
 uncaptioned
 uncase
+uncases
 uncataloged
 uncaused
 unchain
@@ -16942,6 +16975,7 @@ universally
 univocals
 unjam
 unjamming
+unjoints
 unjustness
 unjustnesses
 unkent
@@ -17756,6 +17790,7 @@ woful
 wolfberry
 wolfishly
 wolflike
+womanishness
 womans
 wombed
 womenfolk
