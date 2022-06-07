@@ -1,0 +1,10 @@
+Empire/Find-TrustedDocuments.ps1 at master - GitHub,https://github.com/EmpireProject/Empire/blob/master/data/module_source/situational_awareness/host/Find-TrustedDocuments.ps1
+SelfSigned-Cert-Creator/load-trusted-root.ps1 at master - GitHub,https://github.com/TotallyInformation/SelfSigned-Cert-Creator/blob/master/load-trusted-root.ps1
+Functions/TrustedHost/Remove-TrustedHost.ps1 2.5.0 - PowerShell ...,https://www.powershellgallery.com/packages/SecurityFever/2.5.0/Content/Functions%255CTrustedHost%255CRemove-TrustedHost.ps1
+Functions/Get-SiteToZoneAssignment.ps1 0.1.8 - PowerShell Gallery,https://www.powershellgallery.com/packages/ModernWorkplaceClientCenter/0.1.8/Content/Functions%255CGet-SiteToZoneAssignment.ps1
+Functions/Clear-TrustedHost.ps1 2.5.0 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/Carbon/2.5.0/Content/Functions%255CClear-TrustedHost.ps1
+Posh-SSH-master/Trust.ps1 1.7.4 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/Posh-SSH/1.7.4/Content/Posh-SSH-master%255CTrust.ps1
+trusted-launch.ps1 - GitHub,https://raw.githubusercontent.com/bhatts11/Trusted-Launch-VM-Azure/main/trusted-launch.ps1
+.SYNOPSIS This script checks for non self-signed trusted root or self ...,https://exchange.icinga.com/cstan/check_ss_certs/files/1697/check_ss_certs.ps1
+Systems-Administration/add-trusted-host.ps1 at main ...,https://myip.diwork.com/EvolvingSysadmin/Systems-Administration/blob/main/tools/hosts/add-trusted-host.ps1
+PowerShell EndPoint CM Client - CAS GitLab,https://git.cas.unt.edu/posh/EndPoint-CM-Client-Actions/-/blob/master/.gitlab/ci/Publish.ps1

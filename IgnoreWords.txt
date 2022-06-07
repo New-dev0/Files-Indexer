@@ -428,6 +428,7 @@ ambipolar
 ambitiousnesses
 ambroids
 ambulating
+ambulatory
 ambuscading
 ambusher
 ameloblast
@@ -874,6 +875,7 @@ asperity
 asphalt
 aspidistras
 aspirational
+aspired
 aspish
 assassinator
 assaulting
@@ -1100,6 +1102,7 @@ backstitches
 backwardnesses
 backwashes
 backwoods
+backyards
 bacteriostasis
 bacterium
 bacteriurias
@@ -1265,6 +1268,7 @@ beavering
 beblood
 becaps
 becarpeted
+beckoned
 becloaks
 beclothe
 becoming
@@ -1348,6 +1352,7 @@ beneficial
 beneficiate
 beneficiated
 benefited
+benempt
 benevolentness
 bennets
 benny
@@ -1534,6 +1539,7 @@ blackbirds
 blackboys
 blackbucks
 blackfaces
+blackfish
 blackguarded
 blackguardisms
 blackheart
@@ -2238,6 +2244,7 @@ cartographers
 cartoonists
 cartwheeling
 casabas
+casebearer
 casebearers
 casebook
 casemate
@@ -3042,6 +3049,7 @@ concretisms
 concretists
 concupiscences
 concurred
+concurrent
 concurrently
 concuss
 condemning
@@ -3928,10 +3936,12 @@ deinonychuses
 deionizers
 deistically
 dejecta
+dejeuners
 dekaliter
 dekameter
 delaine
 delectably
+delectate
 delegate
 deliberateness
 delicious
@@ -4152,6 +4162,7 @@ dial
 dialectically
 dialectician
 dialectics
+dialects
 dialled
 dialogically
 dialogs
@@ -4576,6 +4587,7 @@ dovekies
 dowagers
 doweled
 dowering
+dowers
 dowie
 downbeats
 downcast
@@ -5978,6 +5990,7 @@ forestaller
 forestaysails
 forever
 foreword
+forfended
 forgathered
 forge
 forgeries
@@ -6197,6 +6210,7 @@ fusees
 fusibly
 fusillading
 fussbudgets
+fustics
 futileness
 futility
 futurities
@@ -6407,6 +6421,7 @@ ginger
 gingerbreads
 gingerroots
 ginghams
+gingilis
 gingkoes
 ginner
 giraffe
@@ -7387,6 +7402,7 @@ hypersecretions
 hypersthene
 hypervirulent
 hyphenates
+hypnology
 hypnoses
 hypochondriacal
 hypocritical
@@ -7974,6 +7990,7 @@ invigilators
 invigoration
 inviolable
 inviscid
+inviter
 inviters
 invocated
 involve
@@ -8414,6 +8431,7 @@ kwashiorkor
 kwashiorkors
 kyanizing
 kylikes
+kylix
 kymographies
 kyries
 kyte
@@ -9151,6 +9169,7 @@ mauves
 mawkishly
 maxillary
 maxim
+maximalist
 maximizing
 maxing
 maybushes
@@ -9221,6 +9240,7 @@ megapod
 megaproject
 megaspore
 megasse
+megasses
 megs
 melamed
 melancholiacs
@@ -10149,6 +10169,7 @@ nippy
 nirvanic
 nitrification
 nitrify
+nitrobenzene
 nitrofuran
 nitromethanes
 nitrous
@@ -10380,6 +10401,7 @@ obdurateness
 obeah
 obeli
 obelisms
+obeyer
 obeys
 obfuscation
 obfuscations
@@ -10805,6 +10827,7 @@ overcools
 overcorrecting
 overcoy
 overcropped
+overcropping
 overcrops
 overcrowding
 overcrowds
@@ -11038,6 +11061,7 @@ pancetta
 pancratiums
 pandemonium
 panelled
+panellings
 panetella
 panetellas
 panically
@@ -11582,6 +11606,7 @@ piggie
 pigheadedly
 pigmies
 pignolis
+pigouts
 pigpens
 pigsney
 pikes
@@ -13063,6 +13088,7 @@ reinsures
 reinters
 reinvent
 reinventing
+reinvestigating
 reinvesting
 reinvestment
 reinvoke
@@ -13814,6 +13840,7 @@ sayeds
 sayest
 sayings
 sayyids
+scabbily
 scabby
 scagliolas
 scalariformly
@@ -15173,6 +15200,7 @@ strobila
 strobilus
 stroboscopic
 stroke
+stroked
 stroll
 stroller
 stroma
@@ -16095,6 +16123,7 @@ tomahawked
 tomahawking
 tomans
 tomatillo
+tombolas
 tomboyishness
 tomfooleries
 tommyrot
@@ -16198,6 +16227,7 @@ trafficking
 tragicomedies
 tragus
 trailerings
+trainability
 trainee
 trainmen
 trainway
@@ -16381,6 +16411,7 @@ trump
 truncating
 truncations
 truss
+trusted
 trustinesses
 truthfully
 tryptamines
@@ -17261,6 +17292,7 @@ vociferous
 vodkas
 vodoun
 vogie
+voguer
 voguers
 voicefulness
 volatilizations
@@ -17404,6 +17436,7 @@ waxwork
 wayfarings
 waywardnesses
 wazoos
+weaklings
 wealds
 wealthier
 weaponry
@@ -17537,6 +17570,7 @@ windscreens
 windthrow
 windups
 windway
+wineglass
 winemakers
 wingchairs
 winger
@@ -17751,6 +17785,7 @@ yoga
 yogins
 yohimbines
 yokozuna
+yokozunas
 yoni
 youngling
 youpon
