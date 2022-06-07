@@ -1,0 +1,4 @@
+Source of install_pxar.ps1 - eudaq2s - DESY Stash,https://stash.desy.de/projects/A/repos/eudaq2s/browse/appveyor/install_pxar.ps1
+Resource/Resource.ps1 1.0.21250.37231 - PowerShell Gallery,https://www.powershellgallery.com/packages/Resource.Manifest/1.0.21250.37231/Content/Resource%255CResource.ps1
+src/scriptclass.ps1 0.13.7 - PowerShell Gallery,https://www.powershellgallery.com/packages/scriptclass/0.13.7/Content/src%255Cscriptclass.ps1
+X2ModBuildCommon/build_common.ps1 at main - GitHub,https://github.com/X2CommunityCore/X2ModBuildCommon/blob/main/build_common.ps1

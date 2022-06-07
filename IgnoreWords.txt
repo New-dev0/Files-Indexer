@@ -520,6 +520,7 @@ angels
 angiogram
 angler
 anglicism
+anglicization
 angosturas
 angrinesses
 angulations
@@ -756,6 +757,7 @@ arboretums
 arborize
 arbutus
 arc
+arcana
 arced
 archaebacteria
 archaeologies
@@ -1395,6 +1397,7 @@ bibliothecal
 biblists
 bicentenary
 bichromated
+bicomponent
 biconditional
 biconditionals
 bicycling
@@ -1458,6 +1461,7 @@ biographic
 biohazard
 biomathematics
 biome
+biometers
 biometricians
 biomorphic
 bioptic
@@ -1988,6 +1992,7 @@ cacklers
 cacodemons
 cacomixls
 caconym
+cacophonous
 cadaverines
 caddisworms
 caddying
@@ -3885,6 +3890,7 @@ degums
 dehisce
 dehorned
 deice
+deicer
 deifier
 deifying
 deindustrialize
@@ -4061,6 +4067,7 @@ deterge
 detergencies
 deterges
 deteriorating
+deterioration
 determent
 deterministic
 dethatching
@@ -4900,6 +4907,7 @@ embosses
 embossing
 embossments
 embowel
+embowels
 embower
 embraceor
 embraceries
@@ -4966,6 +4974,7 @@ endemism
 endoderm
 endogenies
 endomitoses
+endomorphs
 endorsable
 endosmoses
 endosperms
@@ -6507,6 +6516,7 @@ gramp
 granadilla
 grandames
 grandaunt
+grandaunts
 granddads
 grandpapa
 grandparenthood
@@ -6635,6 +6645,7 @@ grungy
 grunions
 gruntled
 grutching
+guaiacols
 guanabanas
 guaranies
 guarddog
@@ -6646,6 +6657,7 @@ guayule
 guerdons
 guesstimates
 guesting
+guggles
 guggling
 guidance
 guiders
@@ -7238,6 +7250,7 @@ humidex
 humidifications
 humidistat
 humitures
+hummocks
 humorlessly
 humorousnesses
 humouring
@@ -7632,6 +7645,7 @@ infantilizing
 infantry
 infatuations
 infaunal
+infecters
 infectivity
 infeoffs
 inferable
@@ -8352,7 +8366,9 @@ labellers
 labializes
 labials
 laboriously
+labourers
 labradors
+labret
 labrusca
 labyrinthine
 lacewings
@@ -8429,6 +8445,7 @@ lasts
 latches
 lateener
 laterally
+laterborn
 laterize
 lather
 lathier
@@ -8620,6 +8637,7 @@ linage
 linden
 lindens
 lineable
+linearized
 lines
 lingerie
 lingonberry
@@ -9242,6 +9260,7 @@ meteoroidal
 meteorological
 meteorology
 meterages
+methanations
 methane
 methaqualone
 methicillins
@@ -9592,6 +9611,7 @@ moniliform
 monishing
 monitions
 monitored
+monkeypod
 monkfishes
 monoacids
 monochasial
@@ -9657,6 +9677,7 @@ mopboards
 mopish
 moppets
 mora
+morales
 moralistically
 moralizing
 morassy
@@ -9937,6 +9958,7 @@ necrose
 necrotizes
 nectarous
 needier
+neediness
 needless
 needleworker
 needling
@@ -10108,6 +10130,7 @@ noncommercial
 noncomparable
 noncoms
 nonconcerns
+nonconcurred
 nonconcurrence
 nonconform
 nonconsumer
@@ -10455,6 +10478,7 @@ opiate
 opinionated
 opioids
 opponency
+opportunely
 opportunistic
 opposabilities
 oppositely
@@ -10673,6 +10697,7 @@ outstudy
 outsulked
 outtalked
 outtowering
+outvoices
 outwardnesses
 outwearing
 outweeping
@@ -10960,6 +10985,7 @@ pantropic
 pants
 pantyhose
 papal
+paperwork
 paperworks
 paphian
 paphians
@@ -11779,6 +11805,7 @@ popularly
 populism
 porisms
 pornographies
+poromerics
 porpoise
 port
 portabellas
@@ -12769,6 +12796,7 @@ redbreasts
 reddles
 redefecting
 redefining
+redefinition
 redelivering
 redeployed
 redepositing
@@ -12866,6 +12894,7 @@ refluxed
 refly
 refocusing
 refolds
+reforestations
 reforesting
 reforests
 reformer
@@ -13150,6 +13179,7 @@ resistibility
 resistor
 resistors
 resizing
+resketch
 resketched
 resoak
 resoaking
@@ -13835,6 +13865,7 @@ sculpturally
 scummer
 scunnered
 scuppaugs
+scuppered
 scurrying
 scurviest
 scute
@@ -14158,6 +14189,7 @@ shrewed
 shrieked
 shrimps
 shrink
+shris
 shriveled
 shrivelling
 shriven
@@ -14784,6 +14816,7 @@ spunkies
 spurgall
 spurgalled
 spuriousness
+spurrer
 sputa
 sputter
 squabble
@@ -16351,6 +16384,7 @@ typefounders
 typescript
 typesettings
 typhlitis
+typhlitises
 typhous
 typical
 typier
@@ -17269,6 +17303,7 @@ wayfarings
 waywardnesses
 wazoos
 wealds
+wealthier
 weaponry
 wearisomenesses
 weasands
