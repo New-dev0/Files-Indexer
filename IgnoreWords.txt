@@ -345,6 +345,7 @@ alienisms
 alienist
 alif
 alifs
+aliment
 alines
 aliterates
 alkalified
@@ -478,6 +479,7 @@ amyloidosis
 amyloids
 amyloses
 amyls
+anabatic
 anaclises
 anacoluthons
 anacondas
@@ -877,6 +879,7 @@ aspidistras
 aspirational
 aspired
 aspish
+assagai
 assassinator
 assaulting
 assaults
@@ -917,6 +920,7 @@ astraddle
 astringent
 astrometries
 astronomer
+astronomical
 asymptotically
 asyndetically
 asyndetons
@@ -2134,6 +2138,7 @@ canted
 canthi
 cantic
 canticle
+canulated
 canvaser
 canvasing
 capabler
@@ -2340,6 +2345,7 @@ cedarbird
 cedary
 cedis
 ceibas
+celiacs
 celibacies
 cellar
 cellphones
@@ -2680,6 +2686,7 @@ clashes
 classable
 classico
 classiest
+classing
 classists
 claught
 claver
@@ -2832,6 +2839,7 @@ coeducation
 coeducationally
 coeffect
 coelomate
+coemploys
 coenamor
 coenure
 coequality
@@ -3332,6 +3340,7 @@ cosmographical
 cosmonauts
 cosmopolises
 costumier
+coted
 coteries
 coterminously
 cothurnus
@@ -3590,6 +3599,7 @@ cumulations
 cuneatic
 cunning
 cupboard
+cupolas
 cuprous
 cuprum
 curablenesses
@@ -3994,6 +4004,7 @@ demythologized
 demythologizer
 denars
 denatured
+dendrologist
 denegations
 deniabilities
 deniable
@@ -5268,6 +5279,7 @@ estreats
 estrums
 etamins
 etatist
+etceteras
 etcher
 eternal
 eternalizing
@@ -5440,6 +5452,7 @@ extensity
 extents
 extenuator
 exteriorised
+exteriorities
 exterminating
 extermination
 exterminator
@@ -5753,6 +5766,7 @@ fireside
 firing
 firm
 firmnesses
+firms
 fishermen
 fisheye
 fishhook
@@ -5935,6 +5949,7 @@ follower
 followup
 fon
 fonded
+fonder
 fondness
 fondue
 foofaraws
@@ -5978,6 +5993,7 @@ foreignisms
 forejudge
 forejudges
 foremanship
+foremost
 foreordained
 forepaw
 forepeak
@@ -6281,6 +6297,7 @@ garbing
 garblers
 garbs
 gargety
+gargoyles
 garlic
 garlickier
 garlicky
@@ -6764,6 +6781,7 @@ gushingly
 gustable
 gusto
 guttered
+guy
 gybed
 gymkhana
 gynaecia
@@ -6957,6 +6975,7 @@ headliners
 headlock
 headman
 headmasters
+headmistress
 headmistresses
 headrest
 headrooms
@@ -7084,6 +7103,7 @@ heterolysis
 heterophile
 heteroploid
 heteroploids
+heterotopic
 hew
 hex
 hexade
@@ -7172,8 +7192,10 @@ holoblastic
 holocaust
 holocene
 hologynies
+holometabolism
 holotype
 holotypic
+holp
 hols
 holstered
 holystoned
@@ -7412,6 +7434,7 @@ hypoed
 hypoing
 hypokalemia
 hypopharynxes
+hypopituitarism
 hypostatize
 hypothecation
 hypsometric
@@ -8307,6 +8330,7 @@ kenos
 kenotrons
 kens
 keps
+keramic
 keratitises
 keratotic
 kerbed
@@ -8526,6 +8550,7 @@ laterize
 lather
 lathier
 lathing
+lathings
 lati
 latifundios
 latinized
@@ -9188,6 +9213,7 @@ mealiness
 mealless
 mean
 meaninglessly
+meaningly
 measures
 meatier
 meatmen
@@ -9745,6 +9771,7 @@ montero
 montes
 monthlong
 monticule
+monumental
 monuments
 moods
 moonier
@@ -11125,6 +11152,7 @@ parasang
 parasexual
 parashahs
 parashioth
+parasitise
 parasitologist
 parasitologists
 paratroops
@@ -13620,7 +13648,9 @@ rubbling
 rubdown
 rubefacient
 rubeolas
+rubier
 rubying
+ruching
 ruction
 ructions
 rudderpost
@@ -14017,6 +14047,7 @@ secretively
 secretor
 secretors
 sect
+sectorial
 secularizer
 securitizes
 security
@@ -14506,6 +14537,7 @@ slink
 slip
 slipes
 slipforming
+slipknots
 slipping
 slipsheeting
 slipsheets
@@ -15475,6 +15507,7 @@ supernormality
 superorganic
 superorganism
 superorganisms
+superorgasm
 superphosphates
 superplasticity
 superposes
@@ -17794,6 +17827,7 @@ ytterbic
 yttrias
 yuckiness
 yuks
+yules
 yum
 yummiest
 yupon
@@ -17818,6 +17852,7 @@ zebrano
 zebras
 zebrine
 zechin
+zedoary
 zein
 zeks
 zenith
