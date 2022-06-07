@@ -417,6 +417,7 @@ aluminate
 aluminized
 aluminum
 aluminums
+alumstones
 alveolate
 amadous
 amarelles
@@ -2514,6 +2515,7 @@ chattered
 chauffeur
 chauffeured
 chawer
+chays
 cheapened
 cheapness
 cheapskates
@@ -2830,6 +2832,7 @@ coanchor
 coappears
 coaptation
 coarsenesses
+coarsens
 coarsest
 coastal
 coastally
@@ -3365,6 +3368,7 @@ corrades
 corral
 correctable
 corrector
+correctors
 correlatives
 correlators
 correspondence
@@ -3838,6 +3842,7 @@ databases
 dating
 daubes
 daubing
+daunomycin
 daunomycins
 daven
 dawning
@@ -3846,6 +3851,7 @@ daydreamed
 daydreaming
 daydreamlike
 daylighted
+daylit
 daymares
 daysides
 de
@@ -4233,6 +4239,7 @@ dexterousness
 dextran
 dextro
 dextrorse
+dextroses
 dhurna
 diabase
 diabolically
@@ -4383,6 +4390,7 @@ dipterocarp
 directedness
 directer
 director
+directories
 direfully
 dirges
 dirndl
@@ -5437,6 +5445,7 @@ evilness
 evince
 eviscerates
 evolute
+ewe
 ewes
 exacters
 exahertz
@@ -6111,6 +6120,7 @@ foresighted
 foreskin
 forestaller
 forestaysails
+foretops
 forever
 foreword
 forfended
@@ -6472,6 +6482,7 @@ gelatines
 gelatinously
 gelder
 geldings
+gelignite
 gelsemium
 geminate
 gemmate
@@ -6993,6 +7004,7 @@ handcrafting
 handedness
 handicapping
 handled
+handless
 handmaid
 handoff
 handselling
@@ -7928,6 +7940,7 @@ inkle
 inklings
 inkpots
 inlander
+inlayers
 inmate
 inmeshed
 inmeshes
@@ -8435,6 +8448,7 @@ karakul
 karats
 karmic
 kaross
+karting
 karyology
 karyotins
 kasbahs
@@ -9269,6 +9283,7 @@ margays
 marginalizing
 margination
 marguerite
+mariculturists
 marinades
 marination
 marine
@@ -9621,11 +9636,13 @@ militarily
 militarizations
 militarized
 military
+milkless
 milkmaid
 mill
 millennialisms
 millennium
 millepede
+millesimal
 millicuries
 millier
 millihenry
@@ -11057,6 +11074,7 @@ overgeneralize
 overgeneralizes
 overgenerous
 overgild
+overgilds
 overglaze
 overgrows
 overhandling
@@ -11320,6 +11338,7 @@ paranoias
 parapeted
 paraphrase
 paraphs
+paraquets
 parasailing
 parasang
 parasexual
@@ -11599,6 +11618,7 @@ perry
 persecuting
 persecutive
 persecutory
+perses
 perseverance
 perseverating
 persistent
@@ -11909,6 +11929,7 @@ plainsongs
 plaint
 plaintiveness
 plaitings
+plaits
 planeside
 planetaria
 planetological
@@ -12019,6 +12040,7 @@ podgiest
 podium
 podocarp
 podsols
+podzolizations
 poetised
 poetize
 poetized
@@ -12116,6 +12138,7 @@ ponying
 ponytail
 poolhall
 poolrooms
+poontangs
 poops
 popedom
 poplar
@@ -12611,6 +12634,7 @@ proxemic
 prune
 prunellos
 prussianise
+psalming
 psalmists
 psalmodic
 psalmodies
@@ -12711,6 +12735,7 @@ pureness
 purfled
 purgeable
 purges
+puristic
 purled
 purlin
 purpleheart
@@ -14266,6 +14291,7 @@ secretively
 secretor
 secretors
 sect
+sectaries
 sectorial
 secularizer
 securitizes
@@ -14530,6 +14556,7 @@ shocked
 shod
 shoddies
 shoelaces
+shoemakers
 shoepac
 shoepack
 shoetree
@@ -14642,6 +14669,7 @@ simile
 similitudes
 simmers
 simoniacal
+simpleness
 simplisms
 simulant
 simulated
@@ -14729,6 +14757,7 @@ skyrocket
 skysail
 skywalks
 skyways
+skywriting
 slabbing
 slack
 slackeners
@@ -15628,6 +15657,7 @@ subspecializing
 substantivizing
 substate
 substrata
+subsumption
 subtenancies
 subtend
 subtended
@@ -15822,6 +15852,7 @@ svelteness
 swacked
 swages
 swaggeringly
+swaggers
 swamp
 swampier
 swampiest
@@ -16268,6 +16299,7 @@ thriftily
 thriftinesses
 thrive
 thriven
+thrivingly
 throbbed
 thrombi
 thromboembolic
@@ -16516,6 +16548,7 @@ trainway
 traipsing
 traject
 tramels
+tramlines
 trammeler
 tranche
 tranny
@@ -16720,6 +16753,7 @@ tuffet
 tugger
 tuitional
 tularemias
+tulips
 tullibees
 tumefies
 tumefying
@@ -17879,6 +17913,7 @@ windups
 windway
 wineglass
 winemakers
+wingbacks
 wingchairs
 winger
 wingman
