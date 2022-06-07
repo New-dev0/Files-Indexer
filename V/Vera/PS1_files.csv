@@ -1,0 +1,5 @@
+diff - VeraCrypt - Free Open source disk encryption with strong ...,https://www.veracrypt.fr/code/VeraCrypt-DCS/diff/SecureBoot/sb_set_siglists.ps1
+SecureBoot/sb_set_siglists.ps1 - VeraCrypt - Free Open source disk ...,https://veracrypt.fr/code/VeraCrypt-DCS/tree/SecureBoot/sb_set_siglists.ps1%3Fid%3D541c619dcccaf6702e96b73a30a5621e0ccef285
+internal/scripts/updateTeppAsync.ps1 1.0.85 - PowerShell Gallery,https://www.powershellgallery.com/packages/dbatools/1.0.85/Content/internal%255Cscripts%255CupdateTeppAsync.ps1
+netcoreapp3.1/exports/Get ... - PowerShell Gallery,https://www.powershellgallery.com/packages/MicrosoftTeams/2.6.0/Content/netcoreapp3.1%255Cexports%255CGet-CsOnlineDialInConferencingTenantSettings.ps1
+Created: 04/03/2020 14:44:29 $jobs = @{} function ForceRegKey ...,https://raw.githubusercontent.com/DBHeise/VM_Setup/master/Everything.ps1
