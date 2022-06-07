@@ -1,0 +1,5 @@
+BlogPosts/MinerKiller.ps1 at master - GitHub,https://github.com/MinervaLabsResearch/BlogPosts/blob/master/MinerKiller/MinerKiller.ps1
+MultiPoolMiner/Convert-LegacyMiners.ps1 at master - GitHub,https://github.com/MultiPoolMiner/MultiPoolMiner/blob/master/Convert-LegacyMiners.ps1
+Public/Get-rvnMiner.ps1 1.0.3 - PowerShell Gallery,https://www.powershellgallery.com/packages/PSRavenMinerPool/1.0.3/Content/Public%255CGet-rvnMiner.ps1
+"files, directories $ConfigFile = [io.path]::combine($PSScriptRoot ...",https://raw.githubusercontent.com/gradinkov/rudehash/aa5fde6e7f970f74bdc89ecfd18789af7508f2a4/rudehash.ps1
+using module ..\Modules\Include.psm1 param( [PSCustomObject ...,https://raw.githubusercontent.com/RainbowMiner/RainbowMiner/master/Miners/CcminerYescrypt.ps1
