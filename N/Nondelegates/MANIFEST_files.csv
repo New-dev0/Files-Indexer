@@ -1,0 +1,8 @@
+openwrt/Packages.manifest at master - GitHub,https://github.com/Edragon/openwrt/blob/master/JS9331/AR9331-1/firmware/IPK%2520packages/packages/mips_24kc/base/Packages.manifest
+Packages.manifest - OpenWrt Downloads,https://downloads.openwrt.org/releases/19.07.7/packages/x86_64/base/Packages.manifest
+Packages.manifest - OpenWRT,https://archive.openwrt.org/releases/packages-18.06/arm_arm1176jzf-s_vfp/base/Packages.manifest
+"Package: 6in4 Version: 25-1 Depends: libc, kmod-sit, uclient-fetch ...",http://www.markur.dk/releases/18.06.4/packages/arm_cortex-a9_vfpv3/base/Packages.manifest
+Packages.manifest - PandoraBox,http://downloads.pangubox.com:6380/pandorabox/19.02/packages/mipsel_1004kc_dsp/base/Packages.manifest
+"Package: 6in4 Version: 23-1 Depends: libc, libssp, kmod-sit Source ...",http://downloads.pangubox.com:6380/pandorabox/19.01/packages/arm_xscale/base/Packages.manifest
+"Package: 6in4 Version: 25-1 Depends: libc, kmod-sit, uclient-fetch ...",https://usingpro.com/releases/18.06.0-rc1/packages/arm_mpcore_vfp/base/Packages.manifest
+"Package: 6in4 Version: 24-1 Depends: libc, kmod-sit, uclient-fetch ...",https://usingpro.com/releases/packages-17.01/arm_cortex-a9/base/Packages.manifest
