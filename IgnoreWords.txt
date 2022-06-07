@@ -1577,6 +1577,7 @@ blackberries
 blackbirds
 blackboys
 blackbucks
+blackcaps
 blackfaces
 blackfish
 blackguarded
@@ -3350,6 +3351,7 @@ corals
 corbeil
 corbeils
 corbels
+cordilleran
 cordlesses
 cordons
 cordwains
@@ -5012,6 +5014,7 @@ elater
 elaters
 elations
 elderlinesses
+eldest
 elected
 electioneer
 electors
@@ -5594,6 +5597,7 @@ exteroceptors
 extinctions
 extinguishable
 extinguisher
+extolment
 extracellular
 extractions
 extractives
@@ -5797,6 +5801,7 @@ fermate
 fermented
 ferns
 ferocity
+ferreled
 ferrelled
 ferreters
 ferriferous
@@ -6300,6 +6305,7 @@ frontpage
 frontpaging
 frostfish
 frostiness
+frostworks
 frothy
 frotteur
 frouncing
@@ -6378,6 +6384,7 @@ futurities
 futzed
 fuzzes
 fytte
+gab
 gabardine
 gabble
 gabs
@@ -6562,6 +6569,7 @@ ghastfully
 ghastlinesses
 ghastly
 ghettoes
+ghettoizing
 ghosted
 ghostwriting
 ghoulish
@@ -6711,6 +6719,7 @@ goniff
 gonium
 goober
 goof
+goofballs
 goofs
 googlies
 gooky
@@ -6768,6 +6777,7 @@ granulomatous
 granulosis
 grapevines
 graphemically
+graphical
 graphitized
 graphs
 grapier
@@ -7109,6 +7119,7 @@ hausfrau
 hautboy
 havdalah
 havior
+hawkweed
 hawsepipes
 hawsers
 hay
@@ -7224,6 +7235,7 @@ henotheists
 hens
 hented
 henting
+hepatitis
 hepatizes
 hepatoma
 hepatomegaly
@@ -7432,6 +7444,7 @@ hopsacks
 hopscotched
 hoptoad
 horehound
+hornbooks
 horniest
 horninesses
 hornist
@@ -9416,6 +9429,7 @@ mealless
 mean
 meaninglessly
 meaningly
+meanness
 measures
 meatier
 meatmen
@@ -9800,6 +9814,7 @@ misinterpret
 misinterred
 misinterring
 miskeep
+misknown
 mislabelling
 mislabor
 mislived
@@ -11270,6 +11285,7 @@ pagurians
 paiks
 pained
 painfully
+paintable
 paintbrush
 painterly
 paintier
@@ -11368,6 +11384,7 @@ paralysing
 paralysis
 paralytic
 paramagnet
+paramagnetic
 paramattas
 parameterizing
 parametrizes
@@ -12438,6 +12455,7 @@ prescreened
 prescribe
 prescripts
 presentations
+presentencing
 presentient
 presentments
 presentness
@@ -12551,6 +12569,7 @@ procrastinated
 procrustean
 proctologies
 procure
+procurement
 prodigy
 producers
 productivity
@@ -12709,6 +12728,7 @@ psychotherapist
 psylliums
 pteranodon
 pteridological
+ptisan
 ptyalin
 pubescent
 publication
@@ -12748,6 +12768,7 @@ pumicites
 pumpers
 pumping
 pumpkins
+pumps
 puncher
 punchinellos
 punctiliously
@@ -14426,6 +14447,7 @@ semitrucks
 semiurban
 sempervivum
 sempiternities
+sempstresses
 senatorships
 senhoritas
 sennight
@@ -14673,6 +14695,7 @@ siddurs
 side
 sidehill
 sidehills
+sidelight
 sidelining
 siderolite
 siderotic
@@ -15232,6 +15255,7 @@ splendiferous
 splicers
 splined
 splines
+splotchy
 spodes
 spodosols
 spondylitises
@@ -15322,6 +15346,7 @@ stablishments
 stacked
 stactes
 staffing
+stagecoach
 stagehand
 stages
 stagey
@@ -15800,9 +15825,11 @@ superachievers
 superadds
 superagency
 superagent
+superagents
 superambitious
 superathletes
 superbank
+superbest
 superbomber
 superbombers
 superbright
@@ -15835,6 +15862,7 @@ superluxury
 supermasculine
 supernates
 supernormality
+superordinate
 superorganic
 superorganism
 superorganisms
@@ -16589,6 +16617,7 @@ tracheostomies
 trachled
 trachoma
 tracing
+track
 tracks
 tradable
 tradeable
@@ -16792,6 +16821,7 @@ trump
 truncating
 truncations
 truss
+trust
 trusted
 trustinesses
 truthfully
@@ -17150,6 +17180,7 @@ unfriendliness
 unfrock
 unfurls
 ungainlinesses
+ungalled
 ungazing
 ungenial
 ungently
@@ -17392,6 +17423,7 @@ upleapt
 uplinking
 uppers
 uppings
+uppity
 upraise
 upreached
 upriver
@@ -17565,6 +17597,7 @@ verandas
 veratrin
 verbals
 verbenas
+verbicides
 verbiles
 verdured
 verglas
@@ -17843,6 +17876,7 @@ waxwork
 wayfarings
 waywardnesses
 wazoos
+weakliest
 weaklings
 wealds
 wealthier
@@ -17887,6 +17921,7 @@ whacks
 whales
 whaps
 wharfage
+wharfmasters
 wharves
 wheatlands
 wheelbarrow
