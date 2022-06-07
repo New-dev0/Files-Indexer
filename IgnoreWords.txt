@@ -1545,6 +1545,7 @@ birdman
 birds
 birdseed
 birefringent
+birlers
 birthmark
 birthplaces
 birthstones
@@ -1866,6 +1867,7 @@ briefcase
 briefing
 bries
 brigaded
+brigadier
 brighteners
 brightwork
 brilliantines
@@ -1938,6 +1940,7 @@ buckaroos
 buckbrushes
 bucket
 buckled
+bucklering
 buckshees
 bucktooth
 budder
@@ -1991,6 +1994,7 @@ bunk
 bunns
 burb
 burble
+burblers
 burbliest
 burbling
 burbly
@@ -2635,6 +2639,7 @@ chortled
 choruses
 chosen
 chowed
+chowhounds
 chowing
 chresard
 christening
@@ -3311,6 +3316,7 @@ copartners
 copay
 cope
 coped
+coplanar
 copolymer
 copped
 copperas
@@ -3697,6 +3703,7 @@ curtest
 curule
 curvature
 curveballs
+curvet
 curveting
 curvetted
 cusped
@@ -3972,6 +3979,7 @@ defenselessly
 deferrables
 deferred
 defibrillations
+defibrillators
 defibrinating
 defier
 definitely
@@ -4172,6 +4180,7 @@ desexed
 desexualize
 desexualizes
 desiccated
+desiccative
 desirableness
 desiring
 desirousnesses
@@ -5240,6 +5249,7 @@ environmental
 envois
 envy
 enwheel
+enwheeled
 enwheeling
 enwomb
 enwreathes
@@ -5377,6 +5387,7 @@ estimating
 estivator
 estivators
 estovers
+estradiols
 estranger
 estreats
 estrums
@@ -5481,6 +5492,7 @@ excuses
 execrative
 execrator
 executant
+executants
 executioners
 executory
 exemplarinesses
@@ -6577,6 +6589,7 @@ gitting
 giveaway
 glaceing
 glad
+gladdeners
 gladiate
 gladsomer
 glairier
@@ -7541,6 +7554,7 @@ hyperbolae
 hyperboloidal
 hyperboreans
 hypercautious
+hypercorrectly
 hypereutectoid
 hyperfine
 hypergol
@@ -8679,6 +8693,7 @@ lanugo
 lap
 lapboards
 lapdogs
+lapidify
 lapin
 lapsable
 lapwings
@@ -8942,6 +8957,7 @@ lithenesses
 lithic
 lithographer
 lithographing
+lithographs
 lithoidal
 lithophytes
 lithospheres
@@ -10219,6 +10235,7 @@ natured
 natures
 naumachies
 nausea
+nauseously
 nautch
 nautches
 navelworts
@@ -12251,6 +12268,7 @@ prancer
 pranging
 prangs
 prankishly
+prankster
 pratfall
 pratiques
 prattle
@@ -12317,6 +12335,7 @@ predetermines
 predevelopment
 predicates
 predictably
+predictive
 predictively
 predischarge
 prednisolones
@@ -12711,6 +12730,7 @@ punctiliously
 pungs
 punishing
 punji
+punkas
 punkinesses
 punky
 punsters
@@ -12777,6 +12797,7 @@ pyrexic
 pyritic
 pyroclastic
 pyrolized
+pyrolizing
 pyrolyses
 pyrolysis
 pyrolyzers
@@ -13614,6 +13635,7 @@ retear
 retempered
 retems
 retentions
+retestify
 retextured
 retexturing
 rethinkers
@@ -13961,6 +13983,7 @@ safest
 safranin
 safranines
 sag
+sagebrushes
 saggaring
 sagier
 sahibs
@@ -14471,6 +14494,7 @@ shaft
 shafted
 shagging
 shaitan
+shaken
 shako
 shammes
 shammied
@@ -15317,6 +15341,7 @@ starters
 startup
 starvation
 starveling
+starvelings
 starwort
 stashes
 stat
@@ -15455,6 +15480,7 @@ stratal
 strategic
 strategizes
 stratifies
+stratocracies
 stratocracy
 stratovolcanoes
 strawing
@@ -15716,6 +15742,8 @@ sulphides
 sulphurise
 sultaness
 summand
+summands
+summarist
 summarizable
 summarizer
 summarizers
@@ -15725,6 +15753,7 @@ summerwood
 summerwoods
 sumps
 sumptuous
+sunbaths
 sunburned
 sundecks
 sundowning
@@ -15737,6 +15766,7 @@ sunroofs
 sunshine
 sunwards
 superabundances
+superachievers
 superadds
 superagency
 superagent
@@ -16633,6 +16663,7 @@ tribalism
 tribes
 triboelectric
 tribologists
+tribrach
 tribulation
 trichologists
 trichome
@@ -16741,6 +16772,7 @@ tuateras
 tubas
 tubbers
 tubbiness
+tubeless
 tuberculoses
 tuberculous
 tubfuls
@@ -16925,6 +16957,7 @@ unbudging
 unburden
 unbuttons
 uncake
+uncalculating
 uncalloused
 uncapped
 uncaptioned
@@ -16933,6 +16966,7 @@ uncases
 uncataloged
 uncaused
 unchain
+unchair
 unchairing
 unchairs
 unchallengeable
@@ -17181,6 +17215,7 @@ unpack
 unpatentable
 unpegging
 unperceptive
+unpicking
 unplaced
 unpleasantly
 unpledged
