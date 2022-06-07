@@ -501,6 +501,7 @@ analgesic
 analogical
 analogically
 analogousnesses
+analphabets
 analytic
 analyzations
 anaphor
@@ -711,6 +712,7 @@ apostils
 apostolic
 apostrophic
 apothece
+app
 appalled
 appaloosas
 appanage
@@ -1678,6 +1680,7 @@ boatsmen
 bobolinks
 bobsleigh
 bobwhites
+bodega
 bodings
 bods
 bodybuilding
@@ -2966,6 +2969,7 @@ coleworts
 colicines
 colicky
 colinearities
+coliphage
 coliphages
 colistins
 collages
@@ -3329,6 +3333,7 @@ cope
 coped
 coplanar
 copolymer
+copout
 copped
 copperas
 copra
@@ -3683,6 +3688,7 @@ cumulations
 cuneatic
 cunning
 cupboard
+cupferron
 cupolas
 cuprous
 cuprum
@@ -3982,6 +3988,7 @@ defeasances
 defeater
 defeatures
 defecator
+defect
 defection
 defections
 defectors
@@ -4192,6 +4199,7 @@ deservings
 desexed
 desexualize
 desexualizes
+deshabille
 desiccated
 desiccative
 desirableness
@@ -4380,6 +4388,7 @@ din
 dinars
 dineros
 dingdong
+dinger
 dinnertime
 dinoflagellate
 diocese
@@ -5043,6 +5052,7 @@ element
 elephantine
 eleventh
 elevons
+elicitation
 eligible
 eliminators
 elints
@@ -5694,6 +5704,7 @@ fanos
 fantasia
 fantasizers
 fantasizes
+fantasticated
 fantastics
 fantoccini
 fantom
@@ -7012,6 +7023,7 @@ halidom
 halidomes
 hall
 hallmark
+halloos
 hallucinator
 hallways
 halo
@@ -7171,6 +7183,7 @@ heathendoms
 heathenish
 heathenries
 heathens
+heathless
 heaumes
 heavyweight
 hebephrenic
@@ -7254,6 +7267,7 @@ hereditarians
 heresies
 heretrixes
 hermeticisms
+hermetist
 hermetists
 hermitism
 herniae
@@ -7331,7 +7345,9 @@ hirsels
 histidins
 histologist
 histologists
+historiographer
 hitchhiking
+hitherto
 hoardings
 hoarsening
 hoarsest
@@ -7419,6 +7435,7 @@ honorableness
 honorably
 honorand
 honorer
+honorific
 hooches
 hoodies
 hoodmold
@@ -7760,6 +7777,7 @@ importance
 importunely
 imposable
 imposes
+impossibilities
 impossibility
 impossible
 impoverishing
@@ -7902,6 +7920,7 @@ industrialism
 industrially
 industriously
 inebriate
+inebriating
 ineffabilities
 inefficients
 inelasticity
@@ -8076,6 +8095,7 @@ intercooler
 intercorrelated
 intercropped
 intercurrent
+interdigitation
 interepidemic
 interethnic
 interfaculty
@@ -8141,6 +8161,7 @@ intertwine
 intertwines
 interurban
 interval
+intervallic
 intervals
 intervene
 interviewees
@@ -8552,6 +8573,7 @@ khets
 khoums
 kiaugh
 kibbe
+kibbi
 kibbitzing
 kibe
 kick
@@ -9873,6 +9895,7 @@ mistuned
 misty
 misunderstands
 miswording
+miswrit
 miswriting
 mitering
 mitigable
@@ -10260,6 +10283,7 @@ narrow
 nasal
 nasalised
 nasalized
+naseberry
 natal
 natatoriums
 nationally
@@ -10934,6 +10958,7 @@ ourself
 outachieves
 outadd
 outasked
+outbacks
 outbaked
 outbalancing
 outbargains
@@ -11100,6 +11125,7 @@ overcrowds
 overcut
 overdecorations
 overdeveloped
+overdeveloping
 overdosed
 overdoses
 overdramatize
@@ -11114,6 +11140,7 @@ overemotional
 overemphasizing
 overemphatic
 overencouraged
+overentertained
 overestimated
 overevaluations
 overexpectation
@@ -11379,6 +11406,7 @@ paraglide
 paraglides
 paragraphic
 parainfluenza
+parallaxes
 parallelisms
 paralysing
 paralysis
@@ -11419,6 +11447,7 @@ parles
 parmigiano
 parochial
 parodoi
+paroled
 paroling
 parols
 parr
@@ -12395,6 +12424,7 @@ preferrers
 prefix
 prefocussing
 preformat
+prefranked
 prefrozen
 prefund
 pregenital
@@ -12761,6 +12791,7 @@ pulpers
 pulps
 pulsated
 pulsed
+pulverizations
 pulverulent
 pulvillus
 pumicing
@@ -15267,6 +15298,7 @@ spontaneously
 spoof
 spoofer
 spoofing
+spoofs
 spooler
 spools
 spoonerism
@@ -15452,6 +15484,7 @@ stereograms
 stereographic
 stereology
 stereophonic
+stereotactic
 stereotypical
 stereotypically
 stereotypies
@@ -17315,6 +17348,7 @@ unrevised
 unrighteously
 unrip
 unripped
+unroasted
 unrobe
 unrobed
 unroots
@@ -17549,6 +17583,7 @@ vealy
 vedalias
 vee
 veejay
+veepees
 veering
 vees
 vegetal
