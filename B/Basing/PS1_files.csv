@@ -1,0 +1,5 @@
+modules/deploy/PrivateHelpers/Configuration ... - PowerShell Gallery,https://www.powershellgallery.com/packages/PSCI/1.0.4/Content/modules%255Cdeploy%255CPrivateHelpers%255CConfiguration%255CStart-DeploymentPlanEntryLocally.ps1
+modules/deploy/DeployPackage/Deploy ... - PowerShell Gallery,https://www.powershellgallery.com/packages/PSCI/1.0.4/Content/modules%255Cdeploy%255CDeployPackage%255CDeploy-SSASPackage.ps1
+Posh-ACME/AutoDNS.ps1 at main - GitHub,https://github.com/rmbolger/Posh-ACME/blob/main/Posh-ACME/Plugins/AutoDNS.ps1
+Objectivity.TeamcityMetarunners/New-JMeterAggregateReport.ps1 ...,https://github.com/ObjectivityLtd/Objectivity.TeamcityMetarunners/blob/master/Objectivity.TeamcityMetarunners/Public/JMeter/New-JMeterAggregateReport.ps1
+Public/utils/New-MsDeployDestinationString ... - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/PSCI/1.1.3/Content/Public%255Cutils%255CNew-MsDeployDestinationString.ps1
