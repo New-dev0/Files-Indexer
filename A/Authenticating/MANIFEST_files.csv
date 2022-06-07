@@ -1,0 +1,10 @@
+inqlude-data/o2.2012-06-09.manifest at master - GitHub,https://github.com/cornelius/inqlude-data/blob/master/o2/o2.2012-06-09.manifest
+Packages.manifest - OpenWRT,https://archive.openwrt.org/releases/17.01.0/packages/arm_cortex-a15_neon-vfpv4/telephony/Packages.manifest
+Package: asterisk11-app-alarmreceiver Version: 11.22.0-2 Depends ...,https://archive.openwrt.org/releases/17.01.6/packages/i386_i486/telephony/Packages.manifest
+Package: asterisk11-app-alarmreceiver Version: 11.22.0-3 Depends ...,https://usingpro.com/releases/packages-17.01/arm_fa526/telephony/Packages.manifest
+"Package: acl Version: 20160519-1 Depends: libc, libacl Source ...",http://www.markur.dk/releases/17.01.4/packages/powerpc_464fp/packages/Packages.manifest
+Package: UDPspeeder Version: 20210116.0-2 Depends: libc ...,https://mirrors.aliyun.com/openwrt/releases/21.02.1/packages/mipsel_74kc/packages/Packages.manifest
+hotmail,http://210.242.147.143/comments/m2f/Resources.zip.manifest
+"Package: 6tunnel Version: 0.11rc2-3 Depends: libc, libssp, libpcap ...",http://downloads.pangubox.com:6380/pandorabox/19.02/packages/arm_cortex-a7_neon-vfpv4/packages/Packages.manifest
+"Package: acme Version: 2.8.7-5 Depends: libc, wget-ssl, ca-bundle ...",https://public.nas.dailylime.kr/openwrt-legacy/packages/aarch64_cortex-a72/packages/Packages.manifest
+"Package: UDPspeeder Version: 20210116.0-3 Depends: libc, librt ...",https://downloads.lede-project.org/snapshots/packages/arc_archs/packages/Packages.manifest

@@ -1,0 +1,20 @@
+Public/Authenticate.ps1 1.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/PSFPLInfo/1.0/Content/Public%255CAuthenticate.ps1
+Public/Authenticate.ps1 1.1 - PowerShell Gallery,https://www.powershellgallery.com/packages/PSFPLInfo/1.1/Content/Public%255CAuthenticate.ps1
+PowerProvider/PowerProvider.ps1 at master - GitHub,https://github.com/0xbadjuju/PowerProvider/blob/master/PowerProvider.ps1
+Random/Get-LdapCurrentUser.ps1 at master - GitHub,https://github.com/leechristensen/Random/blob/master/PowerShellScripts/Get-LdapCurrentUser.ps1
+Source of Send-Inbox.ps1 - tomas.madajevas - Juvare Bitbucket,https://bitbucket.juvare.com/projects/POC/repos/tomas.madajevas/diff/notify/federal/Send-Inbox.ps1%3FautoSincePath%3Dfalse%26since%3D8058584b6dfb5b5a74e107dabf7e7e1b5686b95b%26until%3D7916a910374c142cdbb82b20bd06b8f22cecb71b%26at%3Dmaster
+BcSaaS/Publish-PerTenantExtensionApps.ps1 2.0.6-preview353,https://psg-prod-centralus.cloudapp.net/packages/BcContainerHelper/2.0.6-preview353/Content/BcSaaS%255CPublish-PerTenantExtensionApps.ps1
+infra/initialize/azurerm-backend-setup.ps1 · master · Platform One ...,https://repo1.dso.mil/platform-one/big-bang/bootstraps/azure-bootstrap/-/blob/master/infra/initialize/azurerm-backend-setup.ps1
+Ribbon/Initialize-RibbonRESTAuth.ps1 · master · Harry / uc · GitLab,https://gitlab.breakglass.io/harry/uc/-/blob/master/Ribbon/Initialize-RibbonRESTAuth.ps1
+Functions/Authentication/New ... - PowerShell Gallery,https://40.87.85.101/packages/psPAS/1.2.0/Content/Functions%255CAuthentication%255CNew-PASSAMLSession.ps1
+.SYNOPSIS This is a sample script to deploy the required resources ...,https://raw.githubusercontent.com/Azure/RDS-Templates/wvd_scaling/wvd-templates/wvd-scaling-script/CreateOrUpdateAzLogicApp.ps1
+.SYNOPSIS Validate the input and prerequisite resources ...,https://wvdportalstorageblob.blob.core.windows.net/galleryartifacts/EBRunbookScripts_2021-07-30/ExistingSubscriptionInputValidation.ps1
+Update Folders.ps1 - David-Barrett-MS/PowerShell-EWS-Scripts Wiki,https://github-wiki-see.page/m/David-Barrett-MS/PowerShell-EWS-Scripts/wiki/Update-Folders.ps1
+add-batchToGroup.ps1 · master · Jos / assortedFunctions - GitLab,https://gitlab.com/Lieben/assortedFunctions/-/blob/master/add-batchToGroup.ps1
+minikube: hack/jenkins/common.ps1 | Fossies,https://fossies.org/linux/minikube/hack/jenkins/common.ps1
+DomainPasswordSpray.ps1 · Guuu/工具 - Gitee.com,https://gitee.com/hackergu/tool/blob/master/DomainPasswordSpray.ps1
+ConfigureRemotingForAnsible.ps1,https://img.cs.montana.edu/windows/ConfigureRemotingForAnsible.ps1
+functions/get-d365lcsapitoken.ps1 0.5.41 - PowerShell Gallery,https://168.61.186.235/packages/d365fo.tools/0.5.41/Content/functions%255Cget-d365lcsapitoken.ps1
+profile.ps1 · master · 20_HI009L_책에 대한 소감을 공유하는 플랫폼 ...,https://lab.hanium.or.kr/20_hi009l/renosh-function/blob/master/profile.ps1
+"$WorkBaseServer = ""ServerName:1540"" $IBNameWorkBase ...",https://rarus.ru/downloads/3957/PerezapuskRabochikhProtsessov.ps1
+Bastian Gerweck / Kerberos-Master-key · GitLab - Fischer ...,https://git.itfischer.de/bgerweck/Kerberos-Master-key/-/blob/d052ca6c64e03a2a088714de1d0fd8c04b2423aa/Reset-KrbtgtKeyInteractive.ps1
