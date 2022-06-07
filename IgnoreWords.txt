@@ -1138,6 +1138,7 @@ banians
 bankrolled
 bankside
 banksides
+bannocks
 banquette
 banshie
 banzai
@@ -1894,6 +1895,7 @@ buildups
 bulbuls
 bulged
 bulges
+bulging
 bulgur
 bulkage
 bullace
@@ -2159,6 +2161,7 @@ cardings
 cardiogenic
 cardiographs
 cardiologists
+cardiomyopathy
 cardplayer
 cardsharper
 career
@@ -2584,6 +2587,7 @@ cinchona
 cinematic
 cinematographic
 cinephiles
+cinerary
 cinnabar
 cinnamony
 circuitousness
@@ -2799,6 +2803,7 @@ coequality
 coercibly
 coercivities
 coexecutor
+coextends
 coffeepot
 coffing
 coffret
@@ -3097,6 +3102,7 @@ consequences
 consequential
 consequentially
 conservational
+conservatism
 conservatisms
 conservatizing
 considerably
@@ -3297,6 +3303,7 @@ coulibiac
 coulibiacs
 coulis
 coulometries
+coumaric
 counselee
 counselings
 counterargue
@@ -3755,6 +3762,7 @@ decadencies
 decagrams
 decaliter
 decameter
+decamps
 decanting
 decapitations
 decarbonates
@@ -5184,6 +5192,7 @@ esoteric
 espadrilles
 espaliering
 especial
+esperances
 essayer
 essentialities
 essentialnesses
@@ -6037,6 +6046,7 @@ fret
 fretwork
 friary
 fricative
+friedcakes
 friend
 friendlier
 friezes
@@ -6322,6 +6332,7 @@ ghoulishness
 ghouls
 giantisms
 giantlike
+gibbed
 gies
 giftednesses
 giftee
@@ -7090,6 +7101,7 @@ holotype
 holotypic
 hols
 holstered
+holystoned
 homaging
 homebrews
 homegrown
@@ -7728,6 +7740,7 @@ insolubility
 insolubles
 inspectors
 inspects
+inspiration
 installs
 instated
 instigate
@@ -7979,6 +7992,7 @@ item
 itemize
 iterant
 iterations
+ivermectins
 ivories
 ivory
 izars
@@ -8685,6 +8699,7 @@ lockmaker
 locks
 lockstitches
 locoism
+locomotors
 locos
 locules
 locustae
@@ -9483,6 +9498,7 @@ misroutes
 missaid
 missenses
 missioners
+misspeaks
 misspell
 misstarting
 misstated
@@ -9584,6 +9600,7 @@ monoclinic
 monoclonal
 monocots
 monocrystals
+monocytic
 monodic
 monodies
 monofils
@@ -9663,6 +9680,7 @@ morselling
 mortar
 mortarboard
 mortarmen
+mortgage
 mortgagor
 mortified
 mortisers
@@ -9736,6 +9754,7 @@ multibillion
 multibladed
 multicar
 multichambered
+multicolor
 multiconductor
 multidialectal
 multidiscipline
@@ -11267,6 +11286,7 @@ pertains
 perturbation
 perturber
 peruke
+pervaded
 pervasively
 pervert
 perverters
@@ -11390,6 +11410,7 @@ photovoltaic
 phots
 phrasemakers
 phthalocyanine
+phycoerythrins
 phycomycetes
 phylaxises
 phyleses
@@ -11773,6 +11794,7 @@ posole
 possessednesses
 possessors
 possets
+possibility
 post
 postattack
 postbase
@@ -12174,6 +12196,7 @@ prophesiers
 prophesy
 propitiate
 propitiated
+propitiously
 propitiousness
 propolis
 proponing
@@ -13457,6 +13480,7 @@ rubefacient
 rubeolas
 rubying
 ruction
+ructions
 rudderpost
 ruddlemen
 ruddles
@@ -13911,6 +13935,7 @@ semifluid
 semiformal
 semilethal
 semillons
+semimat
 seminomata
 seminude
 semiological
@@ -13960,6 +13985,7 @@ septicities
 sequels
 sequencing
 sequency
+sequential
 sequestered
 sequitur
 seraphic
@@ -14100,6 +14126,7 @@ shoaly
 shoat
 shocked
 shoddies
+shoelaces
 shoepac
 shoepack
 shoetree
@@ -14810,6 +14837,7 @@ stale
 stalemated
 stalworths
 stamineal
+staminodia
 staminodies
 stammerers
 stampless
@@ -15104,6 +15132,7 @@ subdual
 subduce
 subduced
 subduers
+subedited
 subeditors
 suberizing
 subfixes
@@ -15909,6 +15938,7 @@ tobacco
 tobacconists
 tobaccos
 toccatas
+tochering
 tocsins
 tod
 toddled
@@ -16034,6 +16064,7 @@ traducing
 trafficable
 trafficker
 trafficking
+tragicomedies
 tragus
 trailerings
 trainee
@@ -16516,6 +16547,7 @@ undeveloped
 undid
 undigested
 undisciplined
+undisguised
 undissociated
 undivided
 undock
@@ -16538,6 +16570,7 @@ unenjoyed
 unenriched
 unescapable
 unessential
+unestablished
 unevener
 unexotic
 unfairer
@@ -16663,6 +16696,7 @@ unpliable
 unplowed
 unpopularities
 unprincipled
+unprivileged
 unprized
 unprofessed
 unpronounceable
@@ -16811,6 +16845,7 @@ upslope
 upsoaring
 upstarting
 upstroke
+upsurges
 uptakes
 uptempos
 upturned

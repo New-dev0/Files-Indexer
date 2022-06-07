@@ -1,0 +1,50 @@
+no_new_privs.txt - The Linux Kernel Archives,https://www.kernel.org/doc/Documentation/prctl/no_new_privs.txt
+A deep root in Linux's filesystem layer (CVE-2021-33909) - Qualys,https://www.qualys.com/2021/07/20/cve-2021-33909/sequoia-local-privilege-escalation-linux.txt
+CVE-2013-4277-advisory.txt - Apache Subversion,https://subversion.apache.org/security/CVE-2013-4277-advisory.txt
+CVE-2013-4262 - Apache Subversion,https://subversion.apache.org/security/CVE-2013-4262-advisory.txt
+clevis/meson_options.txt at master · latchset/clevis - GitHub,https://github.com/latchset/clevis/blob/master/meson_options.txt
+tang/meson_options.txt at master · latchset/tang - GitHub,https://github.com/latchset/tang/blob/master/meson_options.txt
+ubuntuoverlay-exec.txt,https://dl.packetstormsecurity.net/1506-exploits/ubuntuoverlay-exec.txt
+"""Dirty Cow"" Linux Kernel Vulnerability (CVE-2016-5195) - Aruba ...",https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2016-011.txt
+DESIGN.txt,https://security.appspot.com/vsftpd/DESIGN.txt
+BRLTTY on Linux ~~~~~~~~~~~~~~~ .. include:: prologue.rst ...,https://brltty.app/doc/Linux.txt
+VSR Security Advisory http://www.vsecurity.com ...,https://vsecurity.com/download/advisories/20101019-1.txt
+Technical Advisory – Bomgar Remote Support – Local Privilege ...,https://www.vsecurity.com/download/advisories/20171026-1.txt
+FreeBSD-SA-15:22.openssh,https://packetstormsecurity.com/files/download/133334/FreeBSD-SA-15.22.openssh.txt
+tsr-2016-0003-disclosure - cPanel news,https://news.cpanel.com/wp-content/uploads/2016/05/TSR-2016-0003-disclosure.txt
+BUILD and INSTALL.txt,https://packages.vmware.com/photon/2.0/photon_srpms_2.0_x86_64/BUILD%2520and%2520INSTALL.txt
+The U.S. Department of Energy Computer Incident Advisory ...,ftp://ftp.cerias.purdue.edu/pub/advisories/ciac/r-fy07/r-328.Local.Priv.Esc.vul.txt
+l02.txt,https://sites.cs.ucsb.edu/~trinabh/classes/w19/lectures/l02.txt
+advisory-102.txt,https://xenbits.xen.org/xsa/advisory-102.txt
+early_userspace_support.rst - The Linux Kernel Archives,https://source-code.2.dengxiaci.com/Linux/Documentation/output/_sources/driver-api/early-userspace/early_userspace_support.rst.txt
+FreeBSD Security Advisory - FreeBSD-SA-18:04.vt,https://cve.report/CVE-2018-6917/3b3271e1.txt
+Ubuntu Security Notice USN-1649-1 - Packet Storm,http://packetstormsecurity.org/files/118483/USN-1649-1.txt
+From tabbott at ksplice.com Sat Feb 26 08:22:42 2011 From: tabbott ...,https://oss.oracle.com/pipermail/ksplice-ubuntu-9.10-updates/2011-February.txt
+FreeBSD-SA-10:06.nfsclient,http://d3c0der.persiangig.com/document/Free%2520bsd/2.txt
+index.txt - PyMOTW,https://pymotw.com/2/_sources/pwd/index.txt
+TKADV2008-007.txt - trapkit.de,https://www.trapkit.de/advisories/TKADV2008-007.txt
+advisory-391.txt - Xen Project,https://xenbits.xenproject.org/xsa/advisory-391.txt
+technical-advisory-coda-filesystem-kernel-memory-disclosure.txt,https://www.nccgroup.com/globalassets/files/technical-advisory-coda-filesystem-kernel-memory-disclosure.txt
+pcunix.txt,http://www0.mi.infn.it/~abaldini/online/personal/fun/memorabili/pcunix.txt
+sni_10_filehandles.txt - OpenBSD,http://www.openbsd.org/advisories/sni_10_filehandles.txt
+sae-side-channel-attacks.txt - hostapd and wpa_supplicant,https://w1.fi/security/2019-1/sae-side-channel-attacks.txt
+change history - FreeRTOS,https://www.freertos.org/History.txt
+35437bc3b0337e631e044c0d95...,https://git.parrotsec.org/packages/tools/exploitdb-papers/-/blob/35437bc3b0337e631e044c0d955fcf5d50393198/exploits/json/webapps/48858.txt
+UserIds.txt - Apple Open Source,https://opensource.apple.com/source/dovecot/dovecot-239.4/dovecot/doc/wiki/UserIds.txt
+KL-001-2021-009: CyberArk Credential Provider Race ... - KoreLogic,https://korelogic.com/Resources/Advisories/KL-001-2021-009.txt
+unpar-2021-0 - Unparalleled IT Service eU,https://unparalleled.eu/publications/2021/advisory-unpar-2021-0.txt
+doc/run-rootless.txt - fail2ban - Fossies,https://fossies.org/linux/fail2ban/doc/run-rootless.txt
+Notes.txt - StudyLib,https://studylib.net/doc/8314627/notes.txt
+SYSS-2021-045.txt,https://www.syss.de/fileadmin/dokumente/Publikationen/Advisories/SYSS-2021-045.txt
+Linux kernel - ISEC,https://isec.pl/en/vulnerabilities/isec-0024-death-signal.txt
+ejudge-2.1.44.NEWS.txt,https://ejudge.ru/download/ejudge-2.1.44.NEWS.txt
+microstack - OpenDev: Free Software Needs Free Tools,https://opendev.org/x/microstack/commits/branch/master/test-requirements.txt
+Documentation/printk-formats.txt - kernel/msm - Git at Google,https://android.googlesource.com/kernel/msm/%2B/android-msm-bullhead-3.10-marshmallow-dr/Documentation/printk-formats.txt
+VMware Horizon Client 4.8.0 for ThinPro 6.2 & 6.2.1 4.8.0 ...,ftp://ftp.hp.com/pub/tcdebian/updates/6.2/service_packs/HorizonClient-4.8.0hp1b-ThinPro-6.2_6.2.1.txt
+daemonizing.txt,http://www.pythondoc.com/celery-3.1.11/_sources/tutorials/daemonizing.txt
+IBM,http://www.porcupine.org/satan/bulletins/ibm.txt
+OPENAFS-SA-2016-001.txt,https://www.openafs.org/pages/security/OPENAFS-SA-2016-001.txt
+Nping's to-do list - Nmap,https://svn.nmap.org/nmap/todo/nping.txt
+draft-touch-tsvwg-usr-exp-00.txt - IETF Tools,https://tools.ietf.org/id/draft-touch-tsvwg-usr-exp-00.txt
+silver-mobile-advisory-2013-05-08_tcm8-18595.txt - TIBCO Software,https://www.tibco.com/sites/tibco/files/2017-01/silver-mobile-advisory-2013-05-08_tcm8-18595.txt
+shepherd.txt - GNU.org,https://www.gnu.org/software/shepherd/manual/shepherd.txt
