@@ -1,0 +1,10 @@
+Scripts/get-mpbinfo.ps1 1.0.2016.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/SMLets/1.0.2016.0/Content/Scripts%255Cget-mpbinfo.ps1
+Invoke-Phant0m/Invoke-Phant0m.ps1 at master - GitHub,https://github.com/olafhartong/Invoke-Phant0m/blob/master/Invoke-Phant0m.ps1
+psVaultUtils/Unprotect-Vault.ps1 at master · wayfair/psVaultUtils ...,https://github.com/wayfair-contribs/psVaultUtils/blob/master/psVaultUtils/Public/Server/Unprotect-Vault.ps1
+Petitpotam - GitHub,https://raw.githubusercontent.com/S3cur3Th1sSh1t/Creds/master/PowershellScripts/Invoke-Petitpotam.ps1
+Set-StrictMode -Version 2 $DoIt = @' function ...,http://tools.cmdhack.com/hacktools/man.ps1
+PSSwaggerUtility/PSSwaggerNetUtilities ... - PowerShell Gallery Test,https://www.poshtestgallery.com/packages/Azs.Compute.Admin/0.1.1/Content/PSSwaggerUtility%255CPSSwaggerNetUtilities.Core.Code.ps1
+Public/New-ScriptblockCallback.ps1 0.1.0 - PowerShell Gallery Test,https://www.poshtestgallery.com/packages/PSGTest-Polaris/0.1.0/Content/Public%255CNew-ScriptblockCallback.ps1
+lib/ansible/modules/windows/win_user_right.ps1 - Fossies,https://fossies.org/linux/ansible/lib/ansible/modules/windows/win_user_right.ps1
+function Invoke-ReflectivePEInjection { <# .SYNOPSIS This script ...,https://vxug.fakedoma.in/archive/Exploits/CVE-2014-4113/Invoke-SystemShell.ps1
+OneDrive_utils.ps1 0.4.3 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/AADInternals/0.4.3/Content/OneDrive_utils.ps1
