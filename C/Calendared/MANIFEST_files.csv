@@ -1,0 +1,3 @@
+Packages.manifest - OpenWRT,https://archive.openwrt.org/releases/17.01.0/packages/arm_cortex-a15_neon-vfpv4/telephony/Packages.manifest
+Package: asterisk11-app-alarmreceiver Version: 11.22.0-2 Depends ...,https://archive.openwrt.org/releases/17.01.6/packages/i386_i486/telephony/Packages.manifest
+Package: asterisk11-app-alarmreceiver Version: 11.22.0-3 Depends ...,https://usingpro.com/releases/packages-17.01/arm_fa526/telephony/Packages.manifest

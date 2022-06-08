@@ -1,0 +1,16 @@
+habitat/wait_origin_build_jobs.ps1 at main · habitat-sh/habitat · GitHub,https://github.com/habitat-sh/habitat/blob/master/.expeditor/scripts/end_to_end/wait_origin_build_jobs.ps1
+Public/Get-Exchange.ps1 1.8.1 - PowerShell Gallery,https://www.powershellgallery.com/packages/AdminToolbox.Exchange/1.8.1/Content/Public%255CGet-Exchange.ps1
+Public/Get-CGMMTargetGroup.ps1 0.0.2.24 - PowerShell Gallery,https://www.powershellgallery.com/packages/CGMM/0.0.2.24/Content/Public%255CGet-CGMMTargetGroup.ps1
+function Invoke-SMBAutoBrute { <# .SYNOPSIS Performs smart ...,https://raw.githubusercontent.com/Shellntel/scripts/master/Invoke-SMBAutoBrute.ps1
+TeamsFunctions - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/TeamsFunctions/21.11/Content/Public%255CFunctions%255CResourceAccount%255CGet-TeamsResourceAccountAssociation.ps1
+#Requires -Version 2.0 <# .SYNOPSIS Push exchange 2007 (or ...,https://content.spiceworksstatic.com/service.community/p/post_attachments/0000170741/56aa2b77/attached_file/exchange_push_to_spiceworks.ps1
+.SYNOPSIS Prints information about node maps. .DESCRIPTION ...,https://public.support.unisys.com/st3/docs/Stealth-5.0/82254186-003/examples/powershell/List-NodeMap.ps1
+Public/Get-CCMPrimaryUser.ps1 0.2.1 - PowerShell Gallery,https://40.87.85.101/packages/PSCCMClient/0.2.1/Content/Public%255CGet-CCMPrimaryUser.ps1
+Szcoop/InstallClassic: A mirror of lukesampson/scoop - libexec ...,https://code.lksz.me/Szcoop/InstallClassic/src/commit/3d67b7d37c4a2714e8942724d4677dcbd3678f01/libexec/scoop-virustotal.ps1%3Flang%3Dpl-PL
+Install.ps1 script - community chocolatey,https://community.chocolatey.org/install.ps1
+".SYNOPSIS This script finds all logon, logoff and total active session ...",http://ares.mavms.be/Dload/KAREL/check.ps1
+payloads/library/credentials/Roaster/invoke-kerberoast.ps1 - GitLab,https://git.nathanspride.com/NoHomeLacey/bashbunny-payloads/-/blob/dabde35526b0e7b4a680e19be67c1622b42e33db/payloads/library/credentials/Roaster/invoke-kerberoast.ps1
+payloads/library/credentials/Roaster/invoke-kerberoast.ps1 at ...,https://git.nixheads.co.uk/TheDragonkeeper/bashbunny-payloads/src/commit/1e1e9cfcb1c753b841ad64028ac0241ee7bc00b6/payloads/library/credentials/Roaster/invoke-kerberoast.ps1
+#requires -version 2 <# PowerSploit File: PowerView.ps1 Author ...,http://www.puckiestyle.nl/ps/powerview.ps1
+commands.ps1 0.5.15 - PowerShell Gallery,https://168.61.186.235/packages/d365fo.tools/0.5.15/Content/commands.ps1
+Update FolderItems.ps1 - David-Barrett-MS/PowerShell-EWS ...,https://github-wiki-see.page/m/David-Barrett-MS/PowerShell-EWS-Scripts/wiki/Update-FolderItems.ps1
