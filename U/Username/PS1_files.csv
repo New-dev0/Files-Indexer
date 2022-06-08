@@ -1,0 +1,22 @@
+New-Username.ps1 1.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/New-Username/1.0/Content/New-Username.ps1
+Private/Get-Username.ps1 1.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/adamcook-mycicdtestrepo/1.0/Content/Private%255CGet-Username.ps1
+PowerShell-Modules/Split-UserName.ps1 at master - GitHub,https://github.com/michaellwest/PowerShell-Modules/blob/master/CorpApps/Split-UserName.ps1
+poweradmin/Find-Username.ps1 at master · a118n/poweradmin ...,https://github.com/a118n/poweradmin/blob/master/Find-Username.ps1
+Function MapDrive { Param ( [Parameter(Mandatory=$true)] [string ...,https://content.spiceworksstatic.com/service.community/p/post_attachments/0000114111/507efaf8/attached_file/MapDriveWithCred.ps1
+p4loginhash ## aaron bockelie <# .SYNOPSIS Logs user into depot ...,https://swarm.workshop.perforce.com/view/guest/aaron_bockelie/p4powershell/lib/loginhash.ps1%3Fv%3D1
+.SYNOPSIS Queries the Stealth Management Server which global ...,https://public.support.unisys.com/st3/docs/Stealth-5.0/82254186-003/examples/powershell/Get-IsolatedEntities.ps1
+"Select-MimikatzPasswords.ps1 Author: Eleanore Young, Michael ...",https://www.scip.ch/labs/files/Select-MimikatzPasswords.ps1
+Public/Connectivity/Connect-WinService.ps1 0.0.31 - PowerShell ...,https://psg-prod-centralus.cloudapp.net/packages/PSSharedGoods/0.0.31/Content/Public%255CConnectivity%255CConnect-WinService.ps1
+lib/ansible/modules/windows/win_service.ps1 - Fossies,https://fossies.org/linux/ansible/lib/ansible/modules/windows/win_service.ps1
+get-conditionalAccessPolicySettings.ps1 - assortedFunctions - GitLab,https://gitlab.com/Lieben/assortedFunctions/-/blob/080a92aa07ac749fc1bb5f45fbb1f0ff7ec38060/get-conditionalAccessPolicySettings.ps1
+tpez0/SIDTranslator.ps1 repository - Issues Antenna,https://issueantenna.com/repo/tpez0/SIDTranslator.ps1
+scripts/win_startup.ps1 - buildbot.git - Git at Google,https://skia.googlesource.com/buildbot.git/%2B/refs/heads/main/scripts/win_startup.ps1
+ansible2/ansible/modules/windows/win_user.ps1 - CS@VT,https://version.cs.vt.edu/techstaff/linux-audit/-/blob/6cc5a526f7e985a28d4646c57d83111212a0ce99/ansible2/ansible/modules/windows/win_user.ps1
+ActiveDirectory\Set-DCShadowPermissions.ps1 - CodeFactor,https://www.codefactor.io/repository/github/samratashok/nishang/source/master/ActiveDirectory/Set-DCShadowPermissions.ps1
+tacticalrmm/Win_User_Create.ps1 at ... - Leffler.Media Git,https://git.leffler.media/MyFavMirrors/tacticalrmm/src/commit/6a6446bfcb28cb6b1fff220debbd6eefd42be07e/scripts/Win_User_Create.ps1
+#ILO details and credentials $hpeilo = '1921.68.34.125' $username ...,https://vcloud-lab.com/files/documents/488af1a3-4fe3-461e-ac93-8e5e32a5f2f7.ps1
+example - WhoisXML API,https://www.whoisxmlapi.com/code/bulk.whois/powershell/bulk_whois_api.ps1
+Functions/Public/Remove-UserProfile.ps1 1.0.0 - PowerShell Gallery,https://40.87.85.101/packages/HelpDesk/1.0.0/Content/Functions%255CPublic%255CRemove-UserProfile.ps1
+"PowerShell: Andres Kahk, Kasutaja-Sessioon.ps1 - ICO wiki","https://wiki.itcollege.ee/index.php/PowerShell:_Andres_Kahk,_Kasutaja-Sessioon.ps1"
+Get the user credentials $credential=Get-Credential $username ...,http://se-note.blog.jp/RemovePermissions/RemovePermissions.ps1
+Install-Product.ps1,http://distribs.portaldeassinaturas.com.br/Scripts/Install-Product.ps1

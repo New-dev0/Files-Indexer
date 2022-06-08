@@ -69,6 +69,7 @@ acceded
 accedence
 accedences
 accelerates
+accentuation
 accept
 acceptable
 accepter
@@ -1285,6 +1286,7 @@ bazooka
 beach
 beachballs
 beachgoers
+beachier
 beachside
 beading
 beadings
@@ -1355,6 +1357,7 @@ begirt
 begorrah
 begrimmed
 begrudge
+beguilers
 begulfing
 behinds
 behoove
@@ -1425,12 +1428,14 @@ besiege
 besmiles
 besmoking
 besmoothed
+besmudges
 besnowed
 bespangles
 bespattering
 besting
 bestudding
 bet
+betelnut
 beths
 betokening
 betroths
@@ -1455,6 +1460,7 @@ bheestie
 bhut
 bias
 biblike
+bibliographies
 bibliophilies
 bibliothecal
 biblists
@@ -2659,6 +2665,7 @@ chorizos
 chorographer
 chorographers
 chorographic
+choroids
 chortle
 chortled
 choruses
@@ -2726,6 +2733,7 @@ circumvents
 cissies
 cistern
 cistuses
+citation
 cithrens
 citizeness
 citizenesses
@@ -3349,6 +3357,7 @@ cope
 coped
 coplanar
 copolymer
+copolymerize
 copout
 copped
 copperas
@@ -3521,6 +3530,7 @@ cram
 crambe
 cramp
 crampfish
+crampiest
 crampons
 cranberries
 craniosacral
@@ -3681,6 +3691,7 @@ cuffing
 cuing
 cuishes
 cuisinarts
+cuisines
 culet
 culinary
 cullay
@@ -4264,6 +4275,7 @@ detrainments
 deuteriums
 devas
 devastations
+developers
 deverbal
 deviationisms
 device
@@ -4302,6 +4314,7 @@ diagnosable
 diagnostics
 diagonalizes
 diagonally
+diagrams
 dial
 dialectically
 dialectician
@@ -5200,6 +5213,7 @@ endpapers
 endured
 energetically
 energies
+energize
 energized
 energizers
 enfacing
@@ -7846,11 +7860,13 @@ impugned
 inactive
 inadequacy
 inadequateness
+inalienability
 inalterability
 inalterableness
 inalterably
 inamorato
 inanely
+inanimatenesses
 inanities
 inapplicable
 inarguably
@@ -8164,6 +8180,7 @@ interlined
 interliner
 interlinked
 interlock
+interlocutor
 interloping
 intermarry
 intermats
@@ -8603,6 +8620,7 @@ kerchoo
 kerosine
 kerplunking
 kerries
+kerseymeres
 kerygmata
 kestrels
 ketchup
@@ -8677,6 +8695,7 @@ knacks
 knavishly
 kneeing
 knelling
+knifepoint
 knifer
 knightlinesses
 knitter
@@ -11101,6 +11120,7 @@ outpourer
 outpowers
 outpray
 outpreened
+outpress
 outpresses
 outpromised
 outpupil
@@ -11373,6 +11393,7 @@ paginated
 pagoda
 pagodas
 pagurians
+pagurids
 paiks
 pained
 painfully
@@ -11999,6 +12020,7 @@ pikestaves
 pilaffs
 pilau
 pileate
+pilgrimages
 pilis
 pillaged
 pillages
@@ -12170,6 +12192,7 @@ ploys
 plumerias
 plumier
 plummy
+plumped
 plumpen
 plumule
 plumules
@@ -13157,6 +13180,7 @@ ratton
 rattrap
 raucousness
 raucousnesses
+raunch
 ravenously
 raves
 rawest
@@ -13236,6 +13260,7 @@ rebut
 rebutters
 recalculated
 recalls
+recanalized
 recanalizes
 recanting
 recapitulations
@@ -13513,6 +13538,7 @@ reindustrialize
 reinfection
 reinflames
 reinflates
+reinforcing
 reinforming
 reinspecting
 reinstates
@@ -14174,6 +14200,7 @@ salina
 salinizing
 saliva
 salivators
+salliers
 sallowest
 salmonellosis
 salon
@@ -14508,6 +14535,7 @@ segmenting
 segs
 seicento
 seidels
+seigniorages
 seigniors
 seine
 seining
@@ -15639,6 +15667,7 @@ storerooms
 storksbills
 stormier
 story
+storyboarded
 stoutening
 stowaway
 stowed
@@ -15702,6 +15731,7 @@ stripeless
 stript
 strobes
 strobila
+strobilations
 strobilus
 stroboscopic
 stroke
@@ -16400,6 +16430,7 @@ term
 terminably
 terminal
 terminator
+termitarium
 ternate
 terne
 terneplates
@@ -16575,6 +16606,7 @@ tiering
 tigerlike
 tightfistedness
 tikes
+tilaks
 tiling
 tiltrotor
 timbales
@@ -17596,6 +17628,7 @@ urns
 uroscopies
 urped
 urtications
+username
 usherette
 usurers
 usuriousnesses
@@ -17895,6 +17928,7 @@ vortical
 vorticist
 vorticity
 votaress
+voucher
 voudon
 voudoun
 vow
@@ -18074,6 +18108,7 @@ whimpering
 whimpers
 whimsicalnesses
 whin
+whinges
 whining
 whinnies
 whinny

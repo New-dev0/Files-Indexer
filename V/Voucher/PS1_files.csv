@@ -1,0 +1,2 @@
+PS-Script-Send-Outlook-Email/SendEmail.ps1 at master - GitHub,https://github.com/larrelandin/PS-Script-Send-Outlook-Email/blob/master/SendEmail.ps1
+[Console]::OutputEncoding = [System.Text.Encoding]::GetEncoding ...,https://raw.githubusercontent.com/JoelGMSec/Cloudtopolis/master/Resources/Client/Cloudtopolis_Client.ps1
