@@ -744,6 +744,7 @@ appendicular
 appends
 apperceive
 apperceived
+appestat
 appestats
 appetency
 appetisers
@@ -1334,6 +1335,7 @@ beavering
 beblood
 becaps
 becarpeted
+bechamels
 beckoned
 becloaks
 beclothe
@@ -1429,6 +1431,7 @@ bennets
 benny
 bens
 benumbing
+benzocaines
 benzoic
 bepainting
 berberines
@@ -2071,6 +2074,7 @@ burned
 burnish
 burnishers
 burnt
+bursa
 burse
 burthen
 burweed
@@ -2301,6 +2305,7 @@ carboxyls
 carburetting
 carburizing
 carcases
+carcasses
 carcels
 carcinogenic
 cardboards
@@ -2494,6 +2499,7 @@ centrings
 centriole
 centrioles
 centrist
+centrists
 centroid
 centrosymmetric
 centums
@@ -2836,6 +2842,7 @@ claver
 clavers
 clavi
 clavichordist
+clavichords
 clavieristic
 clawhammer
 claying
@@ -3113,6 +3120,7 @@ combust
 combustible
 combustibles
 comedically
+comedown
 comedy
 comeliest
 comfortingly
@@ -4236,6 +4244,7 @@ dentalities
 dentalium
 dentaliums
 dentiform
+dentifrices
 denturists
 denuders
 denying
@@ -4601,6 +4610,7 @@ discussions
 disdainfulness
 disease
 diseased
+diseasing
 disembarrassing
 disembodies
 disenable
@@ -5615,6 +5625,7 @@ evacuator
 evanescences
 evangelism
 evangelists
+evaporation
 evaporators
 evasively
 even
@@ -6037,6 +6048,7 @@ fill
 fille
 filleting
 filling
+filliping
 fillisters
 filmed
 filmlands
@@ -6149,6 +6161,7 @@ flask
 flatfoots
 flatliners
 flatterers
+flatulency
 flatus
 flauntingly
 flavanol
@@ -6184,6 +6197,7 @@ flited
 flitting
 floatages
 floatation
+floating
 floaty
 flocculate
 flocculated
@@ -6502,6 +6516,7 @@ fruiting
 fruition
 fryable
 frybreads
+fub
 fubs
 fuchsin
 fuchsine
@@ -6805,6 +6820,7 @@ glad
 gladdeners
 gladiate
 gladsomer
+glady
 glairier
 glamorised
 glamorizations
@@ -7660,6 +7676,7 @@ hopsacks
 hopscotched
 hoptoad
 horehound
+horn
 hornbooks
 horniest
 horninesses
@@ -10167,6 +10184,7 @@ miswriting
 mitering
 mitigable
 mitigators
+mitigatory
 mitochondrion
 mitosis
 mitrewort
@@ -10182,6 +10200,7 @@ mobilises
 mobilization
 mobocrat
 mockable
+mocker
 mockers
 modelings
 models
@@ -10338,6 +10357,7 @@ mortgagor
 mortified
 mortisers
 mortmain
+mosaiclike
 mothered
 motherhouse
 mothering
@@ -10738,6 +10758,7 @@ nitrify
 nitrobenzene
 nitrofuran
 nitromethanes
+nitrosamine
 nitrous
 nittier
 nixies
@@ -11594,6 +11615,7 @@ packed
 packers
 packing
 packman
+packness
 packs
 packthread
 packwax
@@ -11791,6 +11813,7 @@ pastalike
 pastas
 pastellist
 pastels
+pasteups
 pasteurises
 pasteurizing
 pasticheurs
@@ -13716,6 +13739,7 @@ refluxed
 refly
 refocusing
 refolds
+reforestation
 reforestations
 reforesting
 reforests
@@ -13803,6 +13827,7 @@ reinflates
 reinforcing
 reinforming
 reinless
+reinoculation
 reinspecting
 reinstates
 reinsurances
@@ -14087,6 +14112,7 @@ retear
 retempered
 retems
 retentions
+retestified
 retestify
 retextured
 retexturing
@@ -15439,6 +15465,7 @@ snows
 snowshed
 snowslide
 snub
+snuck
 snuff
 snuffers
 snuffily
@@ -15509,6 +15536,7 @@ some
 somewhere
 somnambulates
 somnambulist
+sone
 songsmith
 songwriters
 sonicate
@@ -15884,6 +15912,7 @@ steepled
 steeples
 steerable
 steerers
+steers
 steeves
 steeving
 stelene
@@ -16619,6 +16648,7 @@ tartrated
 tartuffe
 taskworks
 tassel
+tassies
 tasteful
 tastelessness
 tattle
@@ -16736,6 +16766,7 @@ tephrite
 tephrites
 tepoy
 terabyte
+teraohm
 teratogens
 teratologist
 teratomas
@@ -17239,6 +17270,7 @@ trilbies
 trilinear
 trilling
 trillion
+trilobal
 trilobed
 trimmer
 trimmest
@@ -17399,6 +17431,7 @@ twerps
 twiggier
 twiggiest
 twilight
+twilights
 twilling
 twinkles
 twinset
@@ -18297,6 +18330,7 @@ wageless
 wager
 wagers
 wages
+wagons
 waifs
 wailed
 wailers
@@ -18358,6 +18392,7 @@ watchable
 watchdogged
 watchman
 waterdog
+waterfalls
 waterinesses
 waterlogging
 waterlogs
