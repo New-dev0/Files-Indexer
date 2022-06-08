@@ -1,0 +1,2 @@
+Package: asterisk13-app-adsiprog Version: 13.20.0-6 Depends: libc ...,https://downloads.openwrt.org/releases/18.06.9/packages/arm_arm1176jzf-s_vfp/telephony/Packages.manifest
+Package: asterisk13-app-adsiprog Version: 13.20.0-5 Depends: libc ...,https://archive.openwrt.org/releases/packages-18.06/aarch64_generic/telephony/Packages.manifest
