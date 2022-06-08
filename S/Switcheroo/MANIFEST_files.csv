@@ -1,0 +1,10 @@
+accountsservice 22.07.5-2ubuntu1 acl 2.3.1-1 acpi-support 0.143 ...,https://releases.ubuntu.com/22.04/ubuntu-22.04-beta-desktop-amd64.manifest
+ubuntu-22.04-desktop-amd64.manifest - Ubuntu Releases,https://releases.ubuntu.com/jammy/ubuntu-22.04-desktop-amd64.manifest
+accountsservice 0.6.55-3ubuntu6 acl 2.3.1-1 acpi-support 0.143 ...,http://ftp.uni-kl.de/pub/linux/ubuntu-dvd/daily-canary/current/jammy-desktop-canary-amd64.manifest
+accountsservice 0.6.55-0ubuntu12~20.04.5 acl 2.2.53-6 acpi ...,http://ftp.jaist.ac.jp/pub/Linux/ubuntu-cdimage/focal/daily-live/current/focal-desktop-amd64%2Bintel-iot.manifest
+CentOS-Stream-8-aarch64-latest-dvd1.iso.manifest - Nexril,http://mirror.dal.nexril.net/centos/8-stream/isos/aarch64/CentOS-Stream-8-aarch64-latest-dvd1.iso.manifest
+CentOS-Stream-8-x86_64-latest-dvd1.iso.manifest - Nexril,http://mirror.dal.nexril.net/centos/8-stream/isos/x86_64/CentOS-Stream-8-x86_64-latest-dvd1.iso.manifest
+accountsservice 0.6.55-0ubuntu13.2 acl 2.2.53-10ubuntu1 acpi ...,http://ubuntu.interhost.co.il/impish/ubuntu-21.10-beta-desktop-amd64.manifest
+accountsservice 0.6.55-0ubuntu10 acl 2.2.53-6 acpi-support 0.143 ...,http://ubuntu.interhost.co.il/focal/ubuntu-20.04-beta-desktop-amd64.manifest
+accountsservice 0.6.55-0ubuntu13 acl 2.2.53-8 acpi-support 0.143 ...,https://mirror.coganng.com/ubuntu-cdimage/groovy/ubuntu-20.10-desktop-amd64.manifest
+accountsservice 22.08.8-1ubuntu1 acl 2.3.1-1 adduser 3.121 ...,https://91.189.91.124/ubuntu/daily-preinstalled/20220602/kinetic-preinstalled-desktop-arm64%2Braspi.manifest
