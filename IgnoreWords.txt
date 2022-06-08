@@ -1279,6 +1279,7 @@ battue
 baulk
 bawtie
 bayard
+bayberries
 bayberry
 bayou
 bays
@@ -1893,6 +1894,7 @@ bries
 brigaded
 brigadier
 brighteners
+brighter
 brightwork
 brilliantines
 brilliants
@@ -2086,6 +2088,7 @@ cabochons
 cabstands
 cachalots
 cachepots
+caching
 cachucha
 cacklers
 cacodemons
@@ -2443,6 +2446,7 @@ centaury
 centenarians
 centenaries
 centering
+centerings
 centesimal
 centesimos
 centimorgans
@@ -2514,6 +2518,7 @@ chapati
 chapatis
 chaperonage
 chaperones
+chapes
 chapiter
 chappati
 chapping
@@ -2580,6 +2585,7 @@ chernozemic
 chestful
 chestier
 chestily
+chevalet
 chevying
 chewiness
 chicer
@@ -2720,6 +2726,7 @@ cinnabar
 cinnamony
 circuitousness
 circumambulate
+circumfluent
 circumlocutions
 circumlunar
 circumnavigated
@@ -3443,6 +3450,7 @@ coscripted
 coscripting
 coseismals
 cosie
+cosine
 cosmogonic
 cosmographical
 cosmonauts
@@ -4868,6 +4876,7 @@ dryadic
 dryish
 dubber
 dubiousness
+ducklings
 ductile
 ducting
 dudgeons
@@ -5635,6 +5644,7 @@ exsect
 exsiccated
 exstrophies
 extemporally
+extemporaneity
 extendednesses
 extensity
 extents
@@ -6880,6 +6890,7 @@ greenbrier
 greenest
 greenfields
 greenfly
+greenies
 greenishnesses
 greenness
 greens
@@ -7836,6 +7847,7 @@ imposes
 impossibilities
 impossibility
 impossible
+impotently
 impoverishing
 imprecates
 imprecating
@@ -8503,6 +8515,7 @@ jousting
 jowl
 joylessnesses
 joyous
+joypopping
 joyridden
 joys
 jubhah
@@ -9481,6 +9494,7 @@ masturbates
 matchless
 matchmakers
 matchmark
+matchmarks
 matchstick
 matchsticks
 materially
@@ -10119,11 +10133,13 @@ moralizing
 morassy
 morays
 mordantly
+mordent
 mordents
 morello
 morenesses
 morganites
 morion
+morions
 moronically
 moronity
 morphinic
@@ -10763,6 +10779,7 @@ nursemaid
 nutmeg
 nutritives
 nuzzlers
+nylghais
 nystagmic
 oak
 oar
@@ -10783,6 +10800,7 @@ oblateness
 obligation
 obligato
 obliged
+obliqued
 obliquely
 obliterative
 obliterator
@@ -10890,6 +10908,7 @@ omnisciences
 omnivorously
 omophagias
 oncidium
+oncological
 oncomings
 onerously
 ongoing
@@ -11005,6 +11024,7 @@ orthopteran
 orthopterists
 orthopteroid
 orthotropous
+os
 osetra
 osiers
 osmiridiums
@@ -12336,6 +12356,7 @@ porpoise
 port
 portabellas
 porterage
+porticoed
 portieres
 porting
 portionless
@@ -13386,6 +13407,7 @@ redonning
 redouble
 redoubtable
 redounded
+redouts
 redpolls
 redrew
 redshift
@@ -13477,6 +13499,7 @@ refrangible
 refreeze
 refresher
 refreshers
+refries
 refuge
 refurbishers
 refurbishes
@@ -13487,6 +13510,7 @@ regaled
 regaling
 regardfulnesses
 regathers
+regauge
 regelate
 regelated
 regeneracies
@@ -13650,6 +13674,7 @@ repapers
 repasses
 repasting
 repatriate
+repaved
 repaving
 repeat
 repegged
@@ -14485,6 +14510,7 @@ sealant
 seamanships
 seaquakes
 searchingly
+searobins
 seascouts
 seasickness
 seatbelts
@@ -14552,6 +14578,7 @@ selenide
 selenides
 seleniferous
 selfheals
+selfs
 sellable
 sellotaping
 seltzers
@@ -15797,6 +15824,7 @@ suballocations
 subarctic
 subas
 subbasements
+subbass
 subcellular
 subcenter
 subcenters
@@ -15919,6 +15947,7 @@ succinctly
 succours
 succubi
 succulent
+sucker
 suckle
 sucres
 suction
@@ -16130,6 +16159,7 @@ swindles
 swing
 swiss
 switchbacks
+swither
 swiving
 swobbing
 swooned
@@ -16158,6 +16188,7 @@ symbiosis
 symbols
 sympathetics
 sympathised
+sympetalous
 symphonists
 symposiarch
 synaestheses
@@ -17034,6 +17065,7 @@ turbeth
 turbidities
 turbinals
 turbulencies
+turbulently
 turfmen
 turfskiing
 turgidities
@@ -17050,6 +17082,7 @@ turning
 turnips
 turnoffs
 turnons
+turntable
 turpentine
 turquoises
 turtleback
@@ -18180,6 +18213,7 @@ windages
 windchills
 windfalls
 windiness
+windmills
 windowing
 windrower
 windrowers
@@ -18452,6 +18486,7 @@ zenith
 zeppelins
 zeppole
 zeros
+zestiest
 zeugmas
 zigzagged
 zillions
