@@ -1,0 +1,9 @@
+Get-NAVServerInstanceDetails.ps1 1.0.0.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/Cloud.Ready.Software.NAV/1.0.0.0/Content/Get-NAVServerInstanceDetails.ps1
+MSRC-Microsoft-Security-Updates-API/ParseJsonString.ps1 at main,https://github.com/microsoft/MSRC-Microsoft-Security-Updates-API/blob/master/src/MsrcSecurityUpdates/Private/ParseJsonString.ps1
+PowerShell/Invoke-HuntSQLServers.ps1 at master - GitHub,https://github.com/NetSPI/PowerShell/blob/master/Invoke-HuntSQLServers.ps1
+"#Requires -RunAsAdministrator #For a custom username, add ...",https://raw.githubusercontent.com/microsoft/Windows-Sandbox-Utilities/master/Folding%2520In%2520Sandbox/install_folding_sandbox_on_host.ps1
+tools/install-powershell.ps1 · revert-13325-revert-13321-TravisEz13 ...,https://gitcode.net/mirrors/PowerShell/PowerShell/-/blob/revert-13325-revert-13321-TravisEz13-patch-2/tools/install-powershell.ps1%3Ffrom_codechina%3Dyes
+luke/video-in-place-hevc-converter: This is a simple script that will ...,https://code.michu-it.com/luke/video-in-place-hevc-converter/src/commit/c95c1f38e0660d1330021e3bcbbaeb28cd528547/convert_Videos.ps1
+osquery: .../install_openssl_formula_dependencies.ps1 | Fossies,https://fossies.org/linux/osquery/tools/ci/scripts/install_openssl_formula_dependencies.ps1
+tools/win-setup.ps1 - Wireshark Foundation - GitLab,https://gitlab.com/wireshark/wireshark/-/blob/00d266145904cfa08045984853aecf06a55115c8/tools/win-setup.ps1
+openspades/mkpak.ps1 at master - openspades - Final Minetest,https://git.minetest.org:3002/yvt/openspades/src/branch/master/Resources/mkpak.ps1
