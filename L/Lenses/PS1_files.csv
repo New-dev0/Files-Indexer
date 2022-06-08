@@ -1,0 +1,10 @@
+exports/ProxyCmdletDefinitions.ps1 0.1.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/Az.Portal/0.1.0/Content/exports%255CProxyCmdletDefinitions.ps1
+internal/ProxyCmdletDefinitions.ps1 0.1.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/Az.Portal/0.1.0/Content/internal%255CProxyCmdletDefinitions.ps1
+ImportExcel/Example.ps1 at master - GitHub,https://github.com/dfinke/ImportExcel/blob/master/Examples/SQL%252BFillColumns%252BPivot/Example.ps1
+win10_simplifier/custom-lists.ps1 at master - GitHub,https://github.com/mattreecebentley/win10_simplifier/blob/master/custom-lists.ps1
+bootstrap.ps1 · 19dd5c4708fe1526006e02dbbc4bb7db29b0f8cd ...,https://code.stanford.edu/tcgpublic/pbs/-/blob/19dd5c4708fe1526006e02dbbc4bb7db29b0f8cd/bootstrap.ps1
+#This function finds any AppX/AppXProvisioned package and ...,https://raw.githubusercontent.com/Sycnex/Windows10Debloater/f269dbbee37afc2398cc0780e9b86ba24e9bef74/Windows10Debloater.ps1
+#This will self elevate the script so with a UAC prompt since this ...,https://raw.githubusercontent.com/Sycnex/Windows10Debloater/d6387e7275ab2a78ba89dcc69330c5d84083a649/Windows10DebloaterGUI.ps1
+Windows10Debloater - antipode.info GIT,https://git.antipode.net/mj/Windows10Debloater/src/commit/ba61ea102afa4fefc54d7a5687b4faed287a3ab3/Windows10DebloaterGUI.ps1
+Microsoft.PowerShell_profile.ps1 Code Example - Code Grepper,https://www.codegrepper.com/code-examples/whatever/Microsoft.PowerShell_profile.ps1
+win10script - Git Mirror @ Filander.eu,https://mirror01.git.filander.eu/mirror/win10script/blame/commit/89de942584565e856c175dab8558c22e57e58758/win10debloat.ps1

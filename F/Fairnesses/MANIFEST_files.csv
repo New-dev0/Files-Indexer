@@ -1,0 +1,2 @@
+Packages.manifest - OpenWrt Downloads,https://downloads.openwrt.org/snapshots/targets/x86/64/packages/Packages.manifest
+"Package: arptables-nft Version: 1.8.7-6 Depends: libc, kmod-nft-arp ...",https://mgmt.saar.freifunk.net/openwrt/snapshots/targets/ipq806x/generic/packages/Packages.manifest
