@@ -816,6 +816,7 @@ armadas
 armagnacs
 armature
 armiger
+armlock
 armonica
 armor
 armory
@@ -985,6 +986,7 @@ attuning
 aubade
 auburn
 aucuba
+audaciousness
 audible
 audiences
 audiles
@@ -1287,6 +1289,7 @@ beaked
 beakless
 beaning
 beano
+beanstalk
 beanstalks
 bearberries
 beardedness
@@ -3796,6 +3799,7 @@ cytology
 cytomegalic
 cytomegalovirus
 cytons
+cytoplast
 cytostatics
 cytotaxonomy
 czarevna
@@ -3894,6 +3898,7 @@ deaerators
 deaired
 dealated
 deaned
+deanship
 dearie
 deasil
 deathbed
@@ -4386,6 +4391,7 @@ dimly
 dimorphic
 din
 dinars
+dined
 dineros
 dingdong
 dinger
@@ -5370,6 +5376,7 @@ err
 errantries
 erring
 erroneous
+erroneousnesses
 errors
 eructated
 eructed
@@ -5505,6 +5512,7 @@ excisional
 excitation
 exclaim
 exclaimers
+exclave
 exclusion
 exclusive
 excommunicate
@@ -5573,6 +5581,7 @@ experimentally
 expertness
 expiratory
 explantation
+explanted
 explicates
 explodes
 explosiveness
@@ -5998,6 +6007,7 @@ fledged
 fledges
 fleecer
 fleers
+flees
 flehmens
 flensing
 fleshers
@@ -6567,6 +6577,7 @@ geopolitics
 georgette
 georgettes
 gerbils
+german
 germander
 germiest
 germinability
@@ -7972,6 +7983,7 @@ infrequent
 infringed
 infringement
 infringes
+ingate
 ingenuousnesses
 inglenooks
 ingraft
@@ -8561,6 +8573,7 @@ kerplunking
 kerries
 kerygmata
 kestrels
+ketchup
 ketene
 ketenes
 ketogenic
@@ -9679,6 +9692,7 @@ micturated
 mid
 middlebrows
 middlers
+middlingly
 midfielder
 midis
 midlines
@@ -9780,6 +9794,7 @@ misapprehending
 misarticulated
 misassumption
 misatoning
+misattribute
 misaward
 misbegin
 misbehaviors
@@ -10471,6 +10486,7 @@ noddies
 nodding
 nodi
 nodose
+noggin
 noh
 nohow
 noil
@@ -10879,6 +10895,7 @@ orangeade
 orangerie
 orbicularly
 orchestraters
+orchestrators
 orchil
 order
 orderless
@@ -11033,6 +11050,7 @@ outmuscle
 outpace
 outpatients
 outpoints
+outpoliticks
 outposts
 outpourer
 outpowers
@@ -11539,6 +11557,7 @@ peacekeeper
 peached
 peachy
 peafowl
+peags
 peakless
 peaky
 pealike
@@ -12041,6 +12060,7 @@ plasmolysis
 plasmons
 plaster
 plasticene
+plasticity
 plastisols
 plastocyanin
 platanes
@@ -12239,6 +12259,7 @@ populism
 porisms
 pornographies
 poromerics
+porphyropsins
 porpoise
 port
 portabellas
@@ -12708,6 +12729,7 @@ prothonotary
 prothoraces
 prothoraxes
 protocol
+protocolling
 protohistorians
 protons
 protopathic
@@ -12938,6 +12960,7 @@ quercetin
 queriers
 querists
 questioned
+quezales
 quicker
 quicklime
 quickness
@@ -13183,6 +13206,7 @@ rechecked
 rechoosing
 rechose
 reciprocities
+recirculating
 recirculations
 recisions
 recitation
@@ -13635,6 +13659,7 @@ reservist
 resetter
 resetters
 reshined
+reshingle
 reshipped
 reshipping
 reshowered
@@ -13843,6 +13868,7 @@ ridgel
 ridgels
 ridgetops
 ridiculer
+ridiculers
 ridicules
 ridings
 riesling
@@ -13931,6 +13957,7 @@ roominesses
 rooming
 roorback
 rooser
+rooses
 rootages
 rooter
 rootiest
@@ -13940,6 +13967,7 @@ ropewalks
 roscoe
 roseate
 roseately
+roseries
 roseroot
 rosiest
 rosily
@@ -14275,6 +14303,7 @@ schoolwork
 schticks
 sciatica
 sciaticas
+sciential
 scientism
 scimitar
 scimiter
@@ -14794,6 +14823,7 @@ singularities
 sink
 sinner
 sinologists
+sinopia
 sins
 sinter
 sinters
@@ -15188,6 +15218,7 @@ spat
 spathic
 spatzle
 spavies
+spaviet
 spavin
 spavins
 speakeasies
@@ -16318,6 +16349,7 @@ territorials
 terrorisms
 terrorizations
 terrorless
+terseness
 tertiaries
 tertiary
 tessellating
@@ -16561,6 +16593,7 @@ tombolas
 tomboyishness
 tomfooleries
 tommyrot
+tomograms
 tomograph
 tone
 tonettes
@@ -18183,6 +18216,7 @@ wreathy
 wreckers
 wreckful
 wrested
+wrestled
 wrestlers
 wried
 wrier
@@ -18202,6 +18236,7 @@ wryer
 wryest
 wrynecks
 wulfenite
+wulfenites
 wurzels
 wyandotte
 xantheins
