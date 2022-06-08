@@ -1,0 +1,10 @@
+Public/Delegation/Get-GSGmailDelegate.ps1 2.15.3 - PowerShell ...,https://www.powershellgallery.com/packages/PSGSuite/2.15.3/Content/Public%255CDelegation%255CGet-GSGmailDelegate.ps1
+delegate.ps1 1.0.0.2 - PowerShell Gallery,https://www.powershellgallery.com/packages/poke/1.0.0.2/Content/delegate.ps1
+FastTrack/Find-MailboxDelegates.ps1 at master - GitHub,https://github.com/microsoft/FastTrack/blob/master/scripts/Find-MailboxDelegates/Find-MailboxDelegates.ps1
+Get-Delegate/Get-Delegate.ps1 at master · MCSMLab/Get ... - GitHub,https://github.com/MCSMLab/Get-Delegate/blob/master/Get-Delegate.ps1
+$parameters = $args[0] $subscriptionId = $parameters ...,https://raw.githubusercontent.com/microsoft/sql-server-samples/master/samples/manage/azure-sql-db-managed-instance/delegate-subnet/delegateSubnet.ps1
+Generated.PowerShell.Commands ... - PowerShell Gallery Test,https://www.poshtestgallery.com/packages/Azs.Subscriptions.Admin/0.3.3/Content/Generated.PowerShell.Commands%255CSwaggerPathCommands%255CMove-AzsSubscription.ps1
+Examples/Resources/AADApplication/1 ... - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/Microsoft365DSC/1.21.1222.1/Content/Examples%255CResources%255CAADApplication%255C1-ConfigureAADApplication.ps1
+src/cmdlets/Get-GraphConnection.ps1 0.27.0 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/autographps-sdk/0.27.0/Content/src%255Ccmdlets%255CGet-GraphConnection.ps1
+GetPlansForUser-DeviceCode.PS1 · master · mirrors ... - GitCode,https://gitcode.net/mirrors/12Knocksinna/Office365itpros/-/blob/master/GetPlansForUser-DeviceCode.PS1%3Ffrom_codechina%3Dyes
+angela/prtg-zendesk-webhook: Automate ticket creation when PRTG ...,https://notabug.org/angela/prtg-zendesk-webhook/src/master/ZendeskWebhook.ps1
