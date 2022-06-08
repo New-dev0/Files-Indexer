@@ -493,6 +493,7 @@ amygdule
 amylases
 amyloidosis
 amyloids
+amyloplasts
 amyloses
 amyls
 anabatic
@@ -622,6 +623,7 @@ anticyclone
 antiepilepsy
 antifascisms
 antiforeigner
+antifriction
 antigenically
 antigun
 antihero
@@ -887,6 +889,7 @@ artwork
 arvo
 asbestosis
 ascariasis
+ascarid
 ascarides
 ascenders
 ascent
@@ -1506,6 +1509,7 @@ bigeneric
 biggies
 bigging
 bigly
+bigotedly
 bihourly
 bijection
 bijective
@@ -1606,6 +1610,7 @@ bitchiest
 bittering
 bitternuts
 bittock
+bituminizations
 biunique
 bivouac
 bizarres
@@ -2175,6 +2180,7 @@ calos
 calottes
 calpac
 caltrap
+calumniations
 calumnies
 calumnious
 calumniously
@@ -2566,6 +2572,7 @@ charladies
 charlatanry
 charmed
 charmeuse
+charmingly
 charted
 chartered
 chartularies
@@ -3105,6 +3112,7 @@ combustibles
 comedically
 comedy
 comeliest
+comfortingly
 comforts
 commandants
 commanding
@@ -4429,6 +4437,7 @@ dichotomously
 dichromat
 dicing
 dickens
+dicker
 dickies
 dicotyledonous
 dicotyls
@@ -5797,6 +5806,7 @@ factoidal
 factorable
 factotums
 factual
+factualisms
 faddishness
 faddist
 faddists
@@ -6198,6 +6208,7 @@ flubber
 fluctuating
 flued
 fluffer
+fluffinesses
 fluidise
 fluidises
 fluidity
@@ -7625,6 +7636,7 @@ hoodwinkers
 hooey
 hook
 hookier
+hooking
 hooligan
 hooligans
 hooplas
@@ -7906,6 +7918,7 @@ immeshing
 immigrates
 immigration
 immitigably
+immittance
 immittances
 immixture
 immobilisms
@@ -7949,6 +7962,7 @@ impertinence
 imperturbable
 impervious
 imperviously
+impetrate
 impetrates
 imphees
 imping
@@ -9093,6 +9107,7 @@ leu
 leucines
 leucocyte
 leuds
+leukemias
 leukemics
 leukocytic
 leukomas
@@ -9824,6 +9839,7 @@ metallographic
 metallurgical
 metalworks
 metaphoric
+metaphysician
 metaplasm
 metastatically
 metathoracic
@@ -10467,6 +10483,7 @@ mycobacterium
 mycoflorae
 mycologists
 mycophagy
+mycoplasmal
 mycorhiza
 myelofibroses
 myelomata
@@ -10988,6 +11005,7 @@ oceanic
 oceanographies
 ochry
 ocker
+ocotillo
 ocrea
 ocreate
 octadic
@@ -11264,6 +11282,7 @@ outgoingnesses
 outguesses
 outhaul
 outhearing
+outhomering
 outhustled
 outintrigue
 outjump
@@ -12155,6 +12174,7 @@ pianistic
 pianists
 piastre
 picadillos
+picaro
 picaroon
 piceous
 picholine
@@ -12435,6 +12455,7 @@ poleyn
 policers
 poliomyelitis
 polisher
+politburos
 polite
 politicises
 politicked
@@ -12767,6 +12788,7 @@ preregistration
 prerenal
 prerequire
 prerinsing
+prescheduled
 prescreened
 prescribe
 prescripts
@@ -13228,6 +13250,7 @@ queenliness
 queerish
 queernesses
 queleas
+quenched
 quercetin
 queried
 queriers
@@ -13321,6 +13344,7 @@ railed
 railer
 railheads
 raillery
+rainbirds
 raininess
 rainless
 rainouts
@@ -13464,6 +13488,7 @@ recalls
 recanalized
 recanalizes
 recanting
+recapitulated
 recapitulations
 recapped
 recapturing
@@ -13618,6 +13643,7 @@ reeligible
 reembarked
 reembraces
 reemerges
+reemits
 reemploy
 reemployments
 reendow
@@ -13643,6 +13669,7 @@ reexpressed
 ref
 refall
 refeeling
+refencing
 refereed
 references
 refights
@@ -14261,11 +14288,13 @@ rootiest
 rootling
 ropewalkers
 ropewalks
+rosaceas
 roscoe
 roseate
 roseately
 roseries
 roseroot
+roshis
 rosiest
 rosily
 rosiness
@@ -14563,6 +14592,7 @@ scarifiers
 scarious
 scarlets
 scarpered
+scarred
 scars
 scary
 scatback
@@ -16432,6 +16462,7 @@ syngenic
 synonymously
 synopsizes
 synoptical
+synostosis
 syntactical
 syntactics
 syntagma
@@ -17117,6 +17148,7 @@ treed
 treehopper
 treenails
 treetops
+tremble
 trembled
 tremor
 trenail
@@ -17751,6 +17783,7 @@ unruliest
 uns
 unsaintly
 unsalable
+unsalvageable
 unsanctioned
 unsatisfied
 unsaturates
@@ -18423,6 +18456,7 @@ wickers
 wickets
 wicking
 widders
+widdle
 wideband
 widebody
 widener
@@ -18487,6 +18521,7 @@ wiriest
 wirra
 wise
 wiselier
+wisest
 wishes
 wishfulnesses
 wisp
