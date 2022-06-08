@@ -1,0 +1,10 @@
+accountsservice 0.6.55-0ubuntu12~20.04.5 adduser 3.118ubuntu2 ...,https://cdimage.ubuntu.com/ubuntu-server/focal/daily-live/pending/focal-live-server-s390x.manifest
+lubuntu-18.04.5-desktop-i386.manifest - Ubuntu CDimage,https://cdimage.ubuntu.com/lubuntu/releases/18.04/release/lubuntu-18.04.5-desktop-i386.manifest
+ubuntu-18.04.2-preinstalled-server-armhf+raspi3.manifest,https://mirrors.aliyun.com/oldubuntu-releases/releases/18.04.3/ubuntu-18.04.2-preinstalled-server-armhf%2Braspi3.manifest
+accountsservice 0.6.45-1ubuntu1 acl 2.2.52-3build1 acpid 1:2.0.28 ...,http://mirrors.aliyun.com/oldubuntu-releases/releases/18.04.4/ubuntu-18.04.4-preinstalled-server-armhf%2Braspi3.manifest
+accountsservice 0.6.40-2ubuntu11.3 acl 2.2.52-3 acpi-support 0.142 ...,http://ftp.dei.uc.pt/pub/linux/xubuntu/releases/16.04/release/xubuntu-16.04.2-desktop-i386.manifest
+abiword 2.4.4-0ubuntu5 abiword-common 2.4.4-0ubuntu5 abiword ...,http://ftp.twaren.net/ubuntu-dvd/xubuntu/releases/dapper/release/xubuntu-6.06-desktop-powerpc.manifest
+acl 2.2.45-1 acpi 0.09-3ubuntu1 acpi-support 0.109-0hardy2 acpid ...,http://repo.ugm.ac.id/iso/ubuntu/releases/kubuntu/8.04/kubuntu-8.04.2-desktop-amd64.manifest
+ubuntu-18.04.4-live-server-amd64.manifest,http://ubuntu.interhost.co.il/18.04/ubuntu-18.04.4-live-server-amd64.manifest
+ubuntu-20.04-live-server-amd64.manifest - Ubuntu Releases,http://ubuntu.interhost.co.il/20.04/ubuntu-20.04-live-server-amd64.manifest
+Resetter/Ubuntu_18.04_ubuntu:GNOME_64bit_.manifest at master,https://github.com/gaining/Resetter/blob/master/Resetter/usr/lib/resetter/data/manifests/Ubuntu_18.04_ubuntu:GNOME_64bit_.manifest
