@@ -1,0 +1,14 @@
+Office-IT-Pro-Deployment-Scripts/New-OfficeAppLockGPO.ps1 at ...,https://github.com/OfficeDev/Office-IT-Pro-Deployment-Scripts/blob/master/Office-ProPlus-Deployment/Lock-OfficeApps/New-OfficeAppLockGPO.ps1
+Private/Parse-SlackError.ps1 0.0.33 - PowerShell Gallery,https://www.powershellgallery.com/packages/PSSlack/0.0.33/Content/Private%255CParse-SlackError.ps1
+src/cmdlets/Set-GraphLocation.ps1 0.23.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/autographps/0.23.0/Content/src%255Ccmdlets%255CSet-GraphLocation.ps1
+Source of twilio_csv_to_user_consents.ps1 - tomas.madajevas ...,https://bitbucket.juvare.com/projects/POC/repos/tomas.madajevas/browse/notify/twilio_csv_to_user_consents.ps1%3Fat%3D7916a910374c142cdbb82b20bd06b8f22cecb71b
+windows/setup-lab2.ps1 ... - GitLab - HAW Hamburg,https://git.haw-hamburg.de/adia/setup/-/blob/24f8ed2256a624ccb018c0252c0f45e5a5867e78/windows/setup-lab2.ps1
+Tools/devInstall/Windows/DevInstall.ps1 · master - CNTK - GitLab,https://gitlab.com/inverseai/Microsoft/CNTK/-/blob/master/Tools/devInstall/Windows/DevInstall.ps1
+PowerShell: .../CheckRestrictedlanguage.Tests.ps1 | Fossies,https://fossies.org/linux/PowerShell/test/powershell/Language/Scripting/CheckRestrictedlanguage.Tests.ps1
+functions/Remove-DbaComputerCertificate.ps1 ... - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/dbatools/1.0.53/Content/functions%255CRemove-DbaComputerCertificate.ps1
+internal/functions/Get-SqlDefaultSpConfigure.ps1 0.9.159,https://psg-prod-centralus.cloudapp.net/packages/dbatools/0.9.159/Content/internal%255Cfunctions%255CGet-SqlDefaultSpConfigure.ps1
+Azure Security Center Baseline Rules Windows ...,https://pimfiles.blob.core.windows.net/scripts/Set-ASCBP-RegistryPolicy.ps1
+PocketMine-MP - Point808 Git,https://git.point808.com/Mirrors/PocketMine-MP/src/commit/8f7d8347ee859130f6b4fad36fc29c4cb76ab37a/start.ps1
+Tools/devInstall/Windows/DevInstall.ps1 · liqun/scan7 ... - GitCode,https://gitcode.net/mirrors/microsoft/CNTK/-/blob/liqun/scan7/Tools/devInstall/Windows/DevInstall.ps1%3Ffrom_codechina%3Dyes
+.SYNOPSIS DSC script to harden Windows Server 2016 VM ...,https://raw.githubusercontent.com/Cloudneeti/os-harderning-scripts/master/WindowsServer2016/CIS_Benchmark_WindowsServer2016_v100.ps1
+"Start-Job -Name ""Install and Configure Chocolatey"" -ScriptBlock ...",https://raw.githubusercontent.com/simeononsecurity/setup-scripts/main/windows10-miningrig.ps1
