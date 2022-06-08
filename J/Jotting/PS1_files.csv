@@ -1,0 +1,5 @@
+OffensiveDLR/Invoke-ClearScript.ps1 at master - GitHub,https://github.com/byt3bl33d3r/OffensiveDLR/blob/master/Invoke-ClearScript.ps1
+ChameleonMini/ChameleonGUI.ps1 at master - GitHub,https://github.com/GEPewitt/ChameleonMini/blob/master/PowerShell/ChameleonGUI.ps1
+function Invoke-Mimikatz { <# .SYNOPSIS This script leverages ...,https://raw.githubusercontent.com/BC-SECURITY/Empire/master/empire/server/data/module_source/credentials/Invoke-Mimikatz.ps1
+function Invoke-Mimikatz { <# .SYNOPSIS This script leverages ...,https://raw.githubusercontent.com/b4rtik/PowerTheShell/master/Scripts/Invoke-Mimikatz.ps1
+Function Get-ChromeDump{ <# .SYNOPSIS This function returns ...,https://git.nixheads.co.uk/TheDragonkeeper/bashbunny-payloads/raw/commit/d4599a959cc1aae9f02a4d2369a2622bc61ac2f4/payloads/library/credentials/DumpCreds/PS/Get-ChromeCreds.ps1
