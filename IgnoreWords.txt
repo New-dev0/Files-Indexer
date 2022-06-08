@@ -113,6 +113,7 @@ acetyls
 achondrite
 acidifiers
 acidifies
+acidify
 acidities
 acidophils
 acidy
@@ -588,6 +589,7 @@ anodized
 anodizing
 anointer
 anomalously
+anomalousnesses
 anonyms
 anoopsia
 anopheles
@@ -1893,6 +1895,7 @@ branchier
 branching
 brander
 brandings
+brandished
 brandying
 brannigan
 brasher
@@ -2892,6 +2895,7 @@ clinometers
 clipped
 clipper
 clips
+clipt
 cliquiest
 cliquing
 clitics
@@ -3781,6 +3785,7 @@ cryptanalysis
 cryptarithm
 cryptococci
 cryptococcosis
+cryptologies
 cryptozoologies
 crystalize
 crystallization
@@ -5950,6 +5955,7 @@ fathers
 fathomed
 fatigable
 fatigues
+fatness
 fatshedera
 fatsoes
 fattens
@@ -6262,6 +6268,7 @@ floruits
 flossie
 flourisher
 flouted
+flow
 flowed
 flowerers
 flowerful
@@ -6788,6 +6795,7 @@ genomes
 gentlemen
 gentler
 genua
+genuinenesses
 genuses
 geobotanists
 geochemists
@@ -7031,6 +7039,7 @@ granita
 granitelike
 granolith
 granters
+grants
 grantsmanships
 granulates
 granule
@@ -7900,6 +7909,7 @@ hyphenates
 hypnology
 hypnoses
 hypocalcemias
+hypochlorites
 hypochondriacal
 hypocritical
 hypoderma
@@ -8013,6 +8023,7 @@ immunoblots
 immunochemistry
 immunologist
 immunology
+impactions
 impactor
 impainted
 impairer
@@ -8164,6 +8175,7 @@ indecomposable
 indefeasible
 indefectibly
 indefensible
+indefinables
 indehiscences
 indelicate
 indemonstrable
@@ -8264,6 +8276,7 @@ infringes
 ingate
 ingenuousnesses
 inglenooks
+ingloriousness
 ingraft
 ingrafting
 ingrafts
@@ -9006,6 +9019,7 @@ labradors
 labret
 labrusca
 labyrinthine
+laccolith
 lacewings
 lacily
 lackadaisically
@@ -9377,6 +9391,7 @@ lockmaker
 locks
 lockstitches
 locoism
+locomotes
 locomotors
 locos
 locules
@@ -9802,6 +9817,7 @@ mechanochemical
 medaillon
 medakas
 medallion
+meddler
 meddlers
 medevacs
 mediad
@@ -10942,6 +10958,7 @@ nonmen
 nonmetric
 nonmetropolitan
 nonmigrant
+nonminority
 nonmodern
 nonmunicipal
 nonnatural
@@ -11084,6 +11101,7 @@ oblateness
 obligation
 obligato
 obliged
+obligingness
 obliqued
 obliquely
 obliterative
@@ -11209,6 +11227,7 @@ onside
 ontogenic
 ontologically
 ontologists
+onus
 oocytes
 oogamies
 oolith
@@ -11761,6 +11780,7 @@ paltering
 paltrier
 paludal
 pampa
+pamphleteered
 panatella
 pancetta
 pancratiums
@@ -12281,6 +12301,7 @@ phyleses
 phyllite
 phyllome
 phyllotactic
+phylogenetic
 physed
 physiatries
 physiatrists
@@ -12520,7 +12541,9 @@ pliskie
 plisse
 plop
 plosions
+plotzed
 plotzes
+ploughers
 ploughs
 plowmen
 plowshare
@@ -13685,6 +13708,7 @@ recontaminates
 recontouring
 reconvicted
 reconvictions
+reconvicts
 recooked
 recordations
 recoupe
@@ -14114,6 +14138,7 @@ reserving
 reservist
 resetter
 resetters
+resews
 reshined
 reshingle
 reshipped
@@ -14211,6 +14236,7 @@ retighten
 retile
 retiled
 retinacula
+retine
 retinitides
 retinoid
 retinting
@@ -14842,6 +14868,7 @@ scrofulous
 scrollworks
 scroops
 scrootching
+scrota
 scrouging
 scroungiest
 scruffy
@@ -15365,6 +15392,7 @@ skimobiles
 skimping
 skinflint
 skink
+skinked
 skinned
 skinners
 skippered
@@ -16529,6 +16557,7 @@ swacked
 swages
 swaggeringly
 swaggers
+swallow
 swamp
 swampier
 swampiest
@@ -16611,6 +16640,7 @@ syncopate
 syncopator
 syncope
 syncretists
+syndactyl
 syndactylism
 syndromic
 syne
@@ -17901,6 +17931,7 @@ unmourned
 unmovable
 unmoved
 unmuffle
+unnails
 unnaturalness
 unorganized
 unpack
@@ -17918,6 +17949,7 @@ unprincipled
 unprivileged
 unprized
 unprofessed
+unprompted
 unpronounceable
 unpropitious
 unpunished
@@ -17931,6 +17963,7 @@ unreadiest
 unreal
 unreally
 unreason
+unrebuked
 unrecoverable
 unrecovered
 unredeemable
@@ -18496,6 +18529,7 @@ watap
 watchable
 watchdogged
 watchman
+watercrafts
 waterdog
 waterfalls
 waterinesses
@@ -18753,6 +18787,7 @@ woops
 woopses
 woorari
 woozily
+woozinesses
 wops
 wordage
 wordless

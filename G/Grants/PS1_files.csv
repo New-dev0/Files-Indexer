@@ -1,0 +1,9 @@
+Functions/Security/Grant-RsCatalogItemRole.ps1 0.0.1.1,https://www.powershellgallery.com/packages/ReportingServicesTools/0.0.1.1/Content/Functions%255CSecurity%255CGrant-RsCatalogItemRole.ps1
+Functions/Security/Grant-RsSystemRole.ps1 0.0.1.6 - PowerShell ...,https://www.powershellgallery.com/packages/ReportingServicesTools/0.0.1.6/Content/Functions%255CSecurity%255CGrant-RsSystemRole.ps1
+ReportingServicesTools/Grant-RsCatalogItemRole.ps1 at master,https://github.com/microsoft/ReportingServicesTools/blob/master/ReportingServicesTools/Functions/Security/Grant-RsCatalogItemRole.ps1
+Functions/Grant-MsmqMessageQueuePermission.ps1 2.5.3,https://psg-prod-centralus.cloudapp.net/packages/Carbon/2.5.3/Content/Functions%255CGrant-MsmqMessageQueuePermission.ps1
+guest/aaron_bockelie/p4powershell/lib/tempauth.ps1 - Swarm,https://swarm.workshop.perforce.com/files/guest/aaron_bockelie/p4powershell/lib/tempauth.ps1
+exports/hybrid-2019-03-01/Grant ... - PowerShell Gallery Test,https://www.poshtestgallery.com/packages/Az.Compute/4.0.1-preview/Content/exports%255Chybrid-2019-03-01%255CGrant-AzSnapshotAccess.ps1
+Tenant/Get-HawkTenantOauthConsentGrants ... - PowerShell Gallery,https://40.87.85.101/packages/HAWK/1.12.1/Content/Tenant%255CGet-HawkTenantOauthConsentGrants.ps1
+lib/ansible/modules/windows/win_acl.ps1 - Fossies,https://fossies.org/linux/ansible/lib/ansible/modules/windows/win_acl.ps1
+"#!powershell # This file is part of Ansible # Copyright 2015, Hans ...",http://enos.irisa.fr/html/wan_g5k/cpt10/enos/venv/lib/python2.7/site-packages/ansible/modules/extras/windows/win_share.ps1
