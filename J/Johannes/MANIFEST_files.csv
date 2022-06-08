@@ -1,0 +1,10 @@
+devide.johannes/patch.exe.manifest at master · ivoflipse/devide ...,https://github.com/ivoflipse/devide.johannes/blob/master/patches/patch.exe.manifest
+bin/patch.exe.manifest ... - GitCode,https://gitcode.net/mirrors/msysgit/msysgit/-/blob/600c5ae12d41d2115395f9dd187ffdadff36640d/bin/patch.exe.manifest
+bin/git-update-index.exe.manifest ... - GitCode,https://gitcode.net/mirrors/msysgit/msysgit/-/blob/600c5ae12d41d2115395f9dd187ffdadff36640d/bin/git-update-index.exe.manifest
+"Package: acl Version: 2.2.53-1 Depends: libc, libssp, libacl Source ...",https://downloads.openwrt.org/releases/19.07.8/packages/arc_arc700/packages/Packages.manifest
+Packages.manifest - OpenWrt Downloads,https://downloads.openwrt.org/releases/19.07-SNAPSHOT/packages/arm_mpcore/packages/Packages.manifest
+"Package: acl Version: 20160519-1 Depends: libc, libacl Source ...",http://www.markur.dk/releases/17.01.4/packages/powerpc_464fp/packages/Packages.manifest
+Package: UDPspeeder Version: 20210116.0-2 Depends: libc ...,https://mirrors.aliyun.com/openwrt/releases/21.02.1/packages/mipsel_74kc/packages/Packages.manifest
+hanez/leo-search - leo-search - git.unixpeople.org,https://git.unixpeople.org/hanez/leo-search/commits/branch/master/chrome.manifest%3Flang%3Duk-UA
+"Package: 6tunnel Version: 0.11rc2-3 Depends: libc, libssp, libpcap ...",http://downloads.pangubox.com:6380/pandorabox/19.02/packages/arm_cortex-a7_neon-vfpv4/packages/Packages.manifest
+"Package: acl Version: 20180121-1 Depends: libc, libacl Source ...",https://usingpro.com/releases/packages-18.06/arm_cortex-a5_neon-vfpv4/packages/Packages.manifest
