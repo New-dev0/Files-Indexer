@@ -1,0 +1,18 @@
+Set-AadConsent.ps1 0.2.6 - PowerShell Gallery,https://www.powershellgallery.com/packages/AadSupport/0.2.6/Content/Set-AadConsent.ps1
+internal/functions/Register-EWSGuiApp.ps1 2.0.6 - PowerShell Gallery,https://www.powershellgallery.com/packages/ewsgui/2.0.6/Content/internal%255Cfunctions%255CRegister-EWSGuiApp.ps1
+kmd-logic-consent-client/build.ps1 at master · kmdlogic/kmd-logic ...,https://github.com/kmdlogic/kmd-logic-consent-client/blob/master/build.ps1
+kmd-logic-consent-client/setup.ps1 at master · kmdlogic/kmd-logic ...,https://github.com/kmdlogic/kmd-logic-consent-client/blob/master/setup.ps1
+src/graphservice/ApplicationAPI.ps1 0.12.0 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/autographps-sdk/0.12.0/Content/src%255Cgraphservice%255CApplicationAPI.ps1
+exports/latest-2019-04-30/New ... - PowerShell Gallery Test,https://www.poshtestgallery.com/packages/Az.Resources/4.0.0-preview/Content/exports%255Clatest-2019-04-30%255CNew-AzADApplication.ps1
+$curDir = Split-Path $script:MyInvocation.MyCommand.Path $login ...,https://raw.githubusercontent.com/content-manager-sdk/Community/master/docs/files/101/az_install.ps1
+Tenant/Get-HawkTenantOauthConsentGrants ... - PowerShell Gallery,https://40.87.85.101/packages/HAWK/1.12.1/Content/Tenant%255CGet-HawkTenantOauthConsentGrants.ps1
+PopulateOrgContacts.PS1 · master - mirrors 12Knocksinna - GitCode,https://gitcode.net/mirrors/12Knocksinna/Office365itpros/-/blob/master/PopulateOrgContacts.PS1%3Ffrom_codechina%3Dyes
+invite-guestUser.ps1 · master · Jos / assortedFunctions - GitLab,https://gitlab.com/Lieben/assortedFunctions/-/blob/master/invite-guestUser.ps1
+Grant-OAuth2PermissionsToApp.ps1 - GitLab,https://gitlab.com/Lieben/assortedFunctions/-/blob/a59384382461916b82ea173893e19e226ac1efac/Grant-OAuth2PermissionsToApp.ps1
+Test ManagementActivityAPI.ps1 - David-Barrett-MS/PowerShell ...,https://github-wiki-see.page/m/David-Barrett-MS/PowerShell-EWS-Scripts/wiki/Test-ManagementActivityAPI.ps1
+#!/usr/bin/env sh # Copyright 2018 ActiveState Software Inc. All ...,https://platform.activestate.com/dl/cli/pdli01/legacy-install.ps1
+Add-AppxDevPackage.ps1 is a PowerShell script designed to install ...,https://mirrors.dotsrc.org/vlc/vlc-winrt/3.0.1/VLC.Universal_3.0.1.0_x64_Test/Add-AppDevPackage.ps1
+Azure Security Center Baseline Rules Windows ...,https://pimfiles.blob.core.windows.net/scripts/Set-ASCBP-RegistryPolicy.ps1
+Aquinas,https://aquinas.cc/la/en/~Psalm.Ps1
+Jithin Ps - World Photographers Club,https://www.worldphotographersclub.com/jithin.ps1
+function Invoke-GlobalMailSearch{ <# .SYNOPSIS This module will ...,https://dd0ngsbrk.tistory.com/attachment/cfile6.uf%40990982375B7E0D42325AB1.ps1
