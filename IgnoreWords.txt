@@ -97,6 +97,7 @@ accumulators
 accurateness
 accursedness
 accusative
+accustomation
 acerber
 acerbity
 acerola
@@ -642,6 +643,7 @@ antipsychotic
 antipyretic
 antipyretics
 antiquely
+antiquing
 antirachitic
 antirationalism
 antirationalist
@@ -1355,6 +1357,7 @@ begat
 beggarly
 begirded
 begirt
+beglamor
 begorrah
 begrimmed
 begrudge
@@ -1521,6 +1524,7 @@ binomially
 bins
 bioassay
 biodegradations
+biodegrades
 biodiversities
 bioethical
 biofouler
@@ -2588,6 +2592,7 @@ chestily
 chevalet
 chevying
 chewiness
+chic
 chicer
 chickadees
 chickory
@@ -2722,6 +2727,7 @@ cinematic
 cinematographic
 cinephiles
 cinerary
+cingular
 cinnabar
 cinnamony
 circuitousness
@@ -2808,6 +2814,7 @@ cleverer
 clientages
 clients
 cliffier
+climates
 climaxes
 clime
 clinally
@@ -3019,6 +3026,7 @@ collegiality
 collembolan
 collide
 collodion
+colloids
 colloquials
 colluvium
 colluviums
@@ -3066,6 +3074,7 @@ comedically
 comedy
 comeliest
 comforts
+commandants
 commanding
 commands
 commencers
@@ -3368,6 +3377,7 @@ copolymerize
 copout
 copped
 copperas
+coppiced
 copra
 coprahs
 copremia
@@ -3580,6 +3590,7 @@ cremes
 crenelating
 creodont
 creolise
+creolises
 creolizations
 creosol
 crescents
@@ -3756,6 +3767,7 @@ curtest
 curule
 curvature
 curveballs
+curvedly
 curvet
 curveting
 curvetted
@@ -4096,6 +4108,7 @@ delectate
 delegate
 delegated
 deliberateness
+deliberative
 delicious
 delicts
 delight
@@ -4178,6 +4191,7 @@ depersonalize
 depicting
 depictions
 depilators
+depletions
 deplore
 deplorer
 deployers
@@ -4443,6 +4457,7 @@ dioxans
 dip
 diphasic
 diphenyls
+diphosgene
 diphosphates
 diphtheria
 diphthongizes
@@ -5497,6 +5512,7 @@ etymons
 eucrite
 eudaemonism
 eudiometers
+eulogizer
 euonymuses
 eupatridae
 eupatrids
@@ -5667,6 +5683,7 @@ extractions
 extractives
 extractor
 extraditable
+extraditing
 extragalactic
 extrapyramidal
 extravagance
@@ -7121,6 +7138,7 @@ handedness
 handicapping
 handled
 handless
+handmade
 handmaid
 handoff
 handselling
@@ -7820,6 +7838,7 @@ impeccant
 impecuniosities
 impedes
 impercipiences
+impercipient
 imperfection
 imperfects
 imperialist
@@ -8323,6 +8342,7 @@ ireless
 irenical
 irides
 iridescences
+iridium
 iring
 irising
 ironclad
@@ -9289,6 +9309,7 @@ lysogen
 lysosomal
 lyssa
 lytically
+lyttae
 macacos
 macadamias
 macaronies
@@ -9501,6 +9522,7 @@ materially
 maternally
 matey
 mateys
+matronizes
 matte
 mattings
 mattock
@@ -10174,6 +10196,7 @@ motorising
 motorization
 motorizing
 mott
+motts
 moufflons
 moulages
 moulded
@@ -10256,6 +10279,7 @@ multiplicity
 multiplies
 multiproduct
 multistoried
+multisyllabic
 multitiered
 multiuser
 multiversity
@@ -10479,6 +10503,7 @@ neurohormonal
 neurohypophysis
 neurologies
 neurophysiology
+neuroscientists
 neurosis
 neutral
 neutralises
@@ -12135,6 +12160,7 @@ plangencies
 planimeter
 planimetrically
 planishers
+planked
 planking
 plankters
 plankton
@@ -13692,6 +13718,7 @@ replicons
 replied
 replunging
 repolarization
+repolish
 repolls
 repopularized
 repopulations
@@ -15267,6 +15294,7 @@ sorbabilities
 sorbitol
 sorbs
 sorcerous
+sorghums
 soricine
 sorners
 soroses
@@ -15587,6 +15615,7 @@ statocysts
 statuesquely
 statutory
 stavudines
+stay
 stead
 steadfastnesses
 steadings
@@ -17164,6 +17193,7 @@ ultrared
 ultraroyalist
 ultrasharp
 ultrasmall
+ultrasmart
 ultravacua
 ultraviolences
 umami
@@ -17589,6 +17619,7 @@ unwarier
 unwariest
 unweetingly
 unwetted
+unwieldiest
 unwieldiness
 unwinding
 unwise
@@ -17749,6 +17780,7 @@ vealy
 vedalias
 vee
 veejay
+veep
 veepees
 veering
 vees
@@ -18127,6 +18159,7 @@ wharfage
 wharfmasters
 wharves
 wheatlands
+wheedled
 wheelbarrow
 wheelman
 whelky
@@ -18473,6 +18506,7 @@ zappy
 zaptiahs
 zarebas
 zastrugi
+zazens
 zealousness
 zebrafishes
 zebrano
@@ -18524,5 +18558,6 @@ zouave
 zounds
 zwitterion
 zygospores
+zymogenic
 zymogens
 zymosans
