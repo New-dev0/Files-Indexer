@@ -1232,6 +1232,7 @@ bacteriostasis
 bacterium
 bacteriurias
 bacterizations
+baddest
 badged
 badmintons
 bafflements
@@ -1365,6 +1366,7 @@ bathmats
 batholiths
 bathroom
 bathymetry
+bathyscaphs
 bathysphere
 batiks
 batrachians
@@ -1546,6 +1548,7 @@ besmudges
 besnowed
 bespangles
 bespattering
+besprinkled
 bestiary
 besting
 bestudding
@@ -3247,6 +3250,7 @@ collegial
 collegiality
 collembolan
 collide
+collinsias
 collodion
 colloids
 colloquials
@@ -4413,6 +4417,8 @@ delectably
 delectate
 delegate
 delegated
+deleing
+delf
 deliberateness
 deliberative
 delicious
@@ -4863,6 +4869,7 @@ discounting
 discouragers
 discouraging
 discoursed
+discreditable
 discrete
 discriminant
 discrowned
@@ -5096,6 +5103,7 @@ doorways
 doozers
 dopamines
 dopier
+doppelganger
 dorkinesses
 dorky
 dormice
@@ -5114,6 +5122,7 @@ doters
 dotingly
 dottily
 dottle
+dottrels
 doublespeak
 doubters
 doubtlessly
@@ -5458,6 +5467,7 @@ eked
 ekistics
 elaborations
 elain
+elapse
 elasmobranch
 elatedness
 elater
@@ -7425,6 +7435,7 @@ gregariously
 greiges
 gremials
 gremmie
+greyhound
 gridlocking
 griever
 grieves
@@ -7897,6 +7908,7 @@ herringbone
 herringbones
 hes
 hesitance
+hetaeric
 hetairas
 heterodox
 heterodoxies
@@ -8589,6 +8601,7 @@ inebriate
 inebriates
 inebriating
 ineffabilities
+inefficiently
 inefficients
 inelasticity
 inelegances
@@ -8865,6 +8878,7 @@ intimately
 intimates
 intimidator
 intines
+intitling
 intitule
 intolerantly
 intombing
@@ -9394,6 +9408,7 @@ kummel
 kurbash
 kvass
 kvasses
+kwachas
 kwashiorkor
 kwashiorkors
 kyanizing
@@ -9449,6 +9464,7 @@ lamellately
 lamentable
 lamentableness
 lamentably
+lamenting
 lamer
 laminal
 laminar
@@ -9651,6 +9667,7 @@ libeled
 libelers
 libellee
 libels
+liberalising
 liberalizers
 liberated
 liberty
@@ -10595,6 +10612,7 @@ misanalysis
 misapplied
 misapprehending
 misarticulated
+misassign
 misassumption
 misatoning
 misattribute
@@ -10751,6 +10769,7 @@ modifiability
 modifications
 modistes
 modularities
+module
 mofette
 mofettes
 moffette
@@ -10952,6 +10971,7 @@ moxie
 mozos
 mozzetta
 mucho
+muckier
 mucor
 mucosas
 mucous
@@ -11542,6 +11562,7 @@ nubbly
 nubby
 nucleal
 nucleates
+nucleins
 nucleoids
 nucleonics
 nucleophile
@@ -11566,6 +11587,7 @@ nuptials
 nurling
 nurls
 nursemaid
+nutgall
 nutmeg
 nutritives
 nuzzlers
@@ -11672,6 +11694,7 @@ offloads
 offprinted
 often
 oftenest
+ogam
 ogee
 ogled
 ogreish
@@ -12204,6 +12227,7 @@ oxaloacetate
 oxcart
 oxen
 oxeye
+oxidant
 oxidate
 oxidations
 oxidizers
@@ -12211,6 +12235,7 @@ oxims
 oxpeckers
 oxters
 oxy
+oxycodones
 oxygenate
 oxygenated
 oxygenations
@@ -12538,6 +12563,7 @@ pedunculate
 peebeen
 peed
 peels
+peeping
 peered
 peesweep
 peeve
@@ -14049,6 +14075,7 @@ quotes
 qwerty
 rabatos
 rabbiting
+rabid
 rabidity
 rabidnesses
 racemes
@@ -14685,6 +14712,7 @@ repetitious
 repigment
 repigmented
 repinning
+replaceable
 repled
 repletes
 replica
@@ -14740,6 +14768,7 @@ requite
 reradiations
 reread
 rerecorded
+reredos
 reregister
 rerepeat
 rerolls
@@ -15103,6 +15132,7 @@ rosiest
 rosily
 rosiness
 rosinweed
+rotameter
 rotates
 rotatively
 rotaviruses
@@ -15479,6 +15509,7 @@ scootched
 scopulate
 scorbutic
 scorches
+scorecard
 scorekeepers
 scorned
 scornfully
@@ -15902,6 +15933,7 @@ showplace
 showy
 shrewed
 shrewishly
+shrewmouse
 shrieked
 shriller
 shrimps
@@ -16682,6 +16714,7 @@ stannites
 stanza
 stanzas
 stapedial
+stapes
 staphs
 staphylinid
 starboards
@@ -17055,6 +17088,7 @@ subsocieties
 subsoiler
 subspecializes
 subspecializing
+substantivize
 substantivizing
 substate
 substrata
@@ -19178,6 +19212,7 @@ viscidity
 viscoelasticity
 viscometers
 viscounts
+viscus
 vising
 visited
 visiting
