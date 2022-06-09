@@ -1,0 +1,10 @@
+[program:monarch-server] command=node lib/monarch/web ...,http://nif-crawler.neuinfo.org/monarch/service-scripts/monarch-server.ini
+[program:monarch-mme] command=/home/bamboo/monarch-mme ...,http://nif-crawler.neuinfo.org/monarch/service-scripts/monarch-mme.ini
+pickit.ini concept created by ackmed@gotwalls.com ; Revised for ...,http://www.angelfire.com/falcon/barrysite/zpickit.ini
+xadreco/engines.ini at master - GitHub,https://github.com/drbeco/xadreco/blob/master/engines.ini
+Mephbot/Pickit-Conversions.ini at master · mikegogulski/Mephbot ...,https://github.com/mikegogulski/Mephbot/blob/master/Pickit-Conversions.ini
+Microsoft Software upd?t? Services,http://103.106.74.51/yabb/Members/includes/php.ini
+Dell Remote Access Controller - WebLogic Server,http://103.86.103.40/login/.git/perl/php.ini
+Miva - WebLogic Server,http://103.86.103.40/embed/netscape.ini
+please login,http://210-242-148-168.hinet-ip.hinet.net/login/log/includes/sources/php.ini
+[system] version=5.0.3131 [enu] CONTEXT_CONFIG_PRINTER ...,http://190.145.105.98/DavidM/Software/Kyocera%2520fs1035/Kx630909_UPD_en/Utility/Status%2520Monitor/KDSSTMS.ini
