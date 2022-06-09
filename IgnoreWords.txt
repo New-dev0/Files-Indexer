@@ -296,6 +296,7 @@ aglycons
 agnate
 agnosticisms
 agonic
+agorot
 agouti
 agrafe
 agrafes
@@ -473,6 +474,7 @@ ammonifying
 ammoniums
 ammunition
 amnesiac
+amnia
 amnions
 amorist
 amorously
@@ -675,6 +677,7 @@ antipollutions
 antipsychotic
 antipyretic
 antipyretics
+antiquarks
 antiquely
 antiquing
 antirachitic
@@ -1292,6 +1295,7 @@ barred
 barretors
 barriers
 bartender
+bartending
 barterer
 bartisan
 bas
@@ -1352,6 +1356,7 @@ beadings
 beadroll
 beaked
 beakless
+beamishly
 beaning
 beano
 beanstalk
@@ -1706,6 +1711,7 @@ bleat
 bled
 bleepers
 blend
+blesbuck
 bless
 blissfully
 blithesome
@@ -2118,6 +2124,7 @@ burlesquer
 burlesquers
 burling
 burly
+burnables
 burned
 burnish
 burnishers
@@ -3005,6 +3012,7 @@ coats
 coattail
 coattest
 coaxed
+coaxing
 cobber
 cobbles
 cobblestones
@@ -3148,6 +3156,7 @@ colonelcies
 coloni
 colonialisms
 colonialistic
+colonialists
 colonisation
 colons
 colophonies
@@ -3376,6 +3385,7 @@ connotes
 connubialisms
 connubiality
 conquered
+conquerors
 conscientious
 consciously
 consciousnesses
@@ -4288,6 +4298,7 @@ delly
 delouses
 delve
 demagnetization
+demagogueries
 demagoguing
 demandable
 demandingness
@@ -4856,6 +4867,7 @@ divisionisms
 divisions
 divorcee
 divorcing
+divulgates
 divulses
 divulsing
 djellabahs
@@ -5127,6 +5139,7 @@ duress
 durneder
 durrs
 durst
+dustman
 duumviri
 dwarfed
 dwarfishly
@@ -5507,6 +5520,7 @@ ensorcellments
 ensphere
 ensphered
 entailers
+entasis
 enteric
 enterocoele
 enterokinase
@@ -5825,6 +5839,7 @@ exercise
 exertive
 exfoliated
 exhaled
+exhaustion
 exhaustive
 exhaustlessly
 exhausts
@@ -7238,6 +7253,7 @@ groovy
 grotesquenesses
 grottier
 ground
+groundburst
 grounded
 groundfish
 groundlessness
@@ -7730,6 +7746,7 @@ hirable
 hircine
 hirsels
 histidins
+histochemistry
 histologist
 histologists
 historiographer
@@ -7786,6 +7803,7 @@ homegrown
 homelike
 homemakers
 homeomorphic
+homeomorphism
 homeopath
 homeotherm
 homeplaces
@@ -7804,6 +7822,7 @@ homologations
 homologized
 homologizes
 homologizing
+homomorphism
 homonymies
 homophobes
 homophobia
@@ -8142,6 +8161,7 @@ immolating
 immovables
 immunoblots
 immunochemistry
+immunodeficient
 immunologist
 immunology
 impactions
@@ -9215,6 +9235,7 @@ lapin
 lapsable
 lapwings
 largenesses
+larger
 largo
 larker
 larkinesses
@@ -9481,6 +9502,7 @@ listable
 listenership
 listerioses
 litas
+lite
 literalities
 literality
 literalize
@@ -10501,6 +10523,7 @@ monocrystals
 monocytic
 monodic
 monodies
+monodisperse
 monody
 monofils
 monogamic
@@ -11444,6 +11467,7 @@ optimization
 optimizes
 optionalities
 opusculum
+opuses
 orangeade
 orangerie
 orbicularly
@@ -11624,6 +11648,7 @@ outpressed
 outpresses
 outpromised
 outpupil
+outquoting
 outrageously
 outraise
 outrance
@@ -11763,6 +11788,7 @@ overlavish
 overlay
 overleap
 overleaps
+overlearns
 overlengthens
 overletting
 overliteral
@@ -12634,6 +12660,7 @@ placard
 placated
 placates
 placatory
+placeholders
 placekickers
 placeman
 placements
@@ -13312,6 +13339,7 @@ promotable
 prompt
 promptitudes
 pronely
+pronominally
 pronota
 pronouncers
 pronounces
@@ -13704,6 +13732,7 @@ raggy
 ragworts
 raia
 raids
+railbus
 railbuses
 railcar
 railed
@@ -14224,6 +14253,7 @@ remittent
 remittor
 remobilizes
 remodeling
+remodelling
 remonstrate
 remonstrator
 remote
@@ -15723,6 +15753,7 @@ sludged
 slue
 slued
 sluffed
+sluffing
 slugfests
 sluggard
 slugged
@@ -16737,6 +16768,7 @@ supersecrecy
 supersedes
 supersell
 supersessions
+supershow
 supersleuth
 superspecialist
 superspies
@@ -17747,6 +17779,7 @@ tubiform
 tubocurarines
 tubulates
 tubule
+tuckers
 tucket
 tuffet
 tugger
@@ -17829,6 +17862,7 @@ twilling
 twinkles
 twinset
 twirling
+twister
 twittery
 twofold
 twosome
@@ -18248,6 +18282,7 @@ unroasted
 unrobe
 unrobed
 unroots
+unroped
 unround
 unruliest
 uns
