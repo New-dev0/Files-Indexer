@@ -989,6 +989,7 @@ assumer
 assuming
 assumption
 astarboard
+asteria
 asterias
 asternal
 asthenosphere
@@ -1561,6 +1562,7 @@ bifacially
 biffing
 biffins
 bifoliate
+bifunctional
 bifurcating
 bifurcations
 bigeminal
@@ -1714,6 +1716,7 @@ blastiest
 blastopore
 blastulas
 blastulations
+blather
 blathered
 blathers
 blats
@@ -2111,6 +2114,7 @@ bumelia
 bumfuzzles
 bumkin
 bumpkinly
+bumptiousness
 bumptiousnesses
 buncoing
 bundled
@@ -2141,6 +2145,7 @@ burned
 burnish
 burnishers
 burnt
+burrow
 bursa
 burse
 burthen
@@ -3673,6 +3678,7 @@ couples
 couplet
 courier
 courlan
+courseware
 courteousness
 courtesies
 courtezans
@@ -3750,6 +3756,7 @@ creatinines
 creationists
 creatively
 creaturehoods
+credentialism
 credentialling
 credible
 creditability
@@ -3782,6 +3789,7 @@ criminologies
 criminy
 crimson
 crimsoned
+cringer
 cringle
 cringles
 crinites
@@ -4338,6 +4346,7 @@ demilitarize
 demilunes
 demises
 demits
+demiurgical
 demobilize
 demographer
 demonesses
@@ -4659,6 +4668,7 @@ dined
 dineros
 dingdong
 dinger
+dinkums
 dinnertime
 dinoflagellate
 diocese
@@ -4784,6 +4794,7 @@ dishpans
 dishwater
 disincentive
 disinclination
+disinfestation
 disinforming
 disinheriting
 disinhibit
@@ -5044,6 +5055,7 @@ drafters
 drafting
 dragline
 dragnet
+dragonheads
 dragstrips
 drails
 drainpipe
@@ -5182,6 +5194,7 @@ dwindling
 dwines
 dwining
 dyable
+dyadics
 dybbukim
 dyer
 dykes
@@ -5930,6 +5943,7 @@ expulses
 expunged
 expurgation
 expurgatorial
+exquisites
 exsanguination
 exsect
 exsiccated
@@ -8218,6 +8232,7 @@ imparking
 imparted
 impartialities
 impartially
+impassibly
 impasted
 impawned
 impawns
@@ -8731,6 +8746,7 @@ invigilated
 invigilators
 invigoration
 inviolable
+invirile
 inviscid
 inviter
 inviters
@@ -8865,6 +8881,7 @@ jar
 jardiniere
 jargonist
 jargonistic
+jargonize
 jargoons
 jarlsberg
 jarovized
@@ -9219,6 +9236,7 @@ labret
 labrusca
 labyrinthine
 laccolith
+lacer
 lacewings
 lacily
 lackadaisically
@@ -9330,6 +9348,7 @@ lav
 lava
 laved
 laving
+lawbook
 lawbooks
 lawgiver
 lawsuit
@@ -9643,6 +9662,7 @@ longicorns
 longish
 longitudinally
 longship
+longways
 looby
 loofahs
 loofas
@@ -10008,6 +10028,7 @@ mayos
 mazaedium
 mazelike
 mazier
+mazily
 mbaqanga
 meadow
 meadowlands
@@ -10552,6 +10573,7 @@ momzers
 monad
 monadnock
 monarchists
+monarchy
 monasticism
 monatomic
 monaxons
@@ -10956,6 +10978,7 @@ nelumbiums
 nelumbos
 nematocysts
 nemertine
+neoclassicists
 neocolonialist
 neoliberalism
 neoliths
@@ -11286,12 +11309,14 @@ noxiously
 nozzles
 nth
 nubbiness
+nubbles
 nubbly
 nubby
 nucleal
 nucleates
 nucleoids
 nucleonics
+nucleophile
 nucleosides
 nucleosomes
 nucleosynthetic
@@ -12124,12 +12149,14 @@ paratroops
 parboiled
 parboiling
 parch
+pards
 parenthesizing
 pareve
 pargetted
 park
 parkas
 parkers
+parlance
 parlando
 parlays
 parles
@@ -13930,6 +13957,7 @@ reata
 reattachment
 reattachments
 reattempted
+reattribution
 reavers
 reavows
 rebaptisms
@@ -15174,6 +15202,7 @@ scrapies
 scrappage
 scrappers
 scrappily
+scrapping
 scrawniest
 screaked
 screaks
@@ -15654,6 +15683,7 @@ similitudes
 simmers
 simoniacal
 simpleness
+simplest
 simplisms
 simulant
 simulated
@@ -16200,6 +16230,7 @@ splat
 spleenwort
 splendiferous
 splicers
+spline
 splined
 splines
 splotchy
@@ -16950,6 +16981,7 @@ swillers
 swindles
 swing
 swishers
+swishing
 swiss
 switchbacks
 switcheroo
@@ -17546,6 +17578,7 @@ tontines
 tool
 toolhead
 toolheads
+toolmaking
 toolmakings
 toothpaste
 toothpicks
@@ -17668,6 +17701,7 @@ transferals
 transferrable
 transferrer
 transfixt
+transformation
 transgresses
 transhipping
 transilluminate
@@ -17786,6 +17820,7 @@ trimmest
 trimotors
 trinary
 trinketed
+trinocular
 triode
 trioxids
 triples
