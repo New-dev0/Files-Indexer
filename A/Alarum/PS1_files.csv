@@ -1,0 +1,1 @@
+function Write-Title { param ( [string]$message ) write-host ...,https://raw.githubusercontent.com/nickmeldrum/win-console-environment/c06b409f026b8e5f8eed3fe37899ef66f59db585/shell-commands.ps1
