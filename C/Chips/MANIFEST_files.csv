@@ -1,0 +1,17 @@
+flutter9.github.io/.build.manifest at master · flutter9/flutter9.github.io ...,https://github.com/flutter9/flutter9.github.io/blob/master/.build.manifest
+Package: base-files Version: 194.2-r7676-cddd7b4c77 Depends ...,https://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/mips74k/packages/Packages.manifest
+Package: base-files Version: 192-r7258-5eb055306f Depends: libc ...,https://downloads.openwrt.org/releases/18.06.1/targets/ramips/mt7620/packages/Packages.manifest
+acl 2.2.45-1 acpi 0.09-3ubuntu1 acpi-support 0.109-0hardy2 acpid ...,https://mirrors.aliyun.com/oldubuntu-releases/releases/8.04.3/ubuntu-8.04.4-desktop-amd64.manifest
+Package: kmod-3c59x Version: 4.9.214-1 Depends: kernel (=4.9 ...,https://mgmt.saar.freifunk.net/openwrt/releases/18.06.8/targets/mpc85xx/generic/kmods/4.9.214-1-895447a4694b94860fccb19f3c3fc3ef/Packages.manifest
+abiword 2.4.4-0ubuntu5 abiword-common 2.4.4-0ubuntu5 abiword ...,http://ftp.twaren.net/ubuntu-dvd/xubuntu/releases/dapper/release/xubuntu-6.06-desktop-amd64.manifest
+Package: kmod-3c59x Version: 5.4.124-1 Depends: kernel (=5.4 ...,https://mirrors.chapro.xyz/openwrt/releases/21.02.0-rc3/targets/x86/geode/kmods/5.4.124-1-37bf630c92eb2972d47619a871fb3405/Packages.manifest
+"Package: acl Version: 20160519-1 Depends: libc, libacl Source ...",http://www.markur.dk/releases/17.01.4/packages/powerpc_464fp/packages/Packages.manifest
+Package: base-files Version: 173-r3435-65eec8bd5f Depends: libc ...,https://qtest.cc/releases/17.01.2/targets/x86/generic/packages/Packages.manifest
+Package: base-files Version: 172-r3131-42f3c1f Depends: libc ...,https://usingpro.com/releases/17.01.0-rc2/targets/lantiq/falcon/packages/Packages.manifest
+Package: UDPspeeder Version: 20210116.0-2 Depends: libc ...,http://46.137.236.134/releases/21.02.0-rc3/packages/arm_cortex-a9/packages/Packages.manifest
+acl 2.2.45-1 acpi 0.09-3ubuntu1 acpi-support 0.109-0hardy2 acpid ...,http://repo.ugm.ac.id/iso/ubuntu/releases/kubuntu/8.04/kubuntu-8.04.2-desktop-amd64.manifest
+"Package: arptables-nft Version: 1.8.7-6 Depends: libc, kmod-nft-arp ...",https://downloads.lede-project.org/snapshots/targets/x86/generic/packages/Packages.manifest
+Packages.manifest - PandoraBox,http://downloads.pangubox.com:6380/pandorabox/19.02/targets/qualcomm/ipq806x/packages/Packages.manifest
+ChangeLog for /middleware-offline/trunk/_src/eidmw/minidriver/Src ...,https://svn.gov.pt/projects/ccidadao/log/middleware-offline/trunk/_src/eidmw/minidriver/Src/res/pteidmdrv32.dll.manifest%3Fformat%3Dchangelog%26rev%3D210%26limit%3D100%26mode%3Dstop_on_copy
+ubuntu-5.10-live-i386.manifest,https://mirrors.xtom.ee/ubuntu-old-releases/releases/breezy/ubuntu-5.10-live-i386.manifest
+ubuntu-10.10-netbook-i386.manifest - xTom Open Source Software ...,https://mirrors.xtom.ee/ubuntu-old-releases/releases/10.10/ubuntu-10.10-netbook-i386.manifest

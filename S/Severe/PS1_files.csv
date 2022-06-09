@@ -1,0 +1,10 @@
+Set-AlertRules.ps1 0.0.3 - PowerShell Gallery,https://www.powershellgallery.com/packages/Pinja.Azure.Alerts/0.0.3/Content/Set-AlertRules.ps1
+public/Add-LoggingLevel.ps1 2.9.1 - PowerShell Gallery,https://www.powershellgallery.com/packages/Logging/2.9.1/Content/public%255CAdd-LoggingLevel.ps1
+MSRC-Microsoft-Security-Updates-API/Get ... - GitHub,https://github.com/microsoft/MSRC-Microsoft-Security-Updates-API/blob/master/src/MsrcSecurityUpdates/Public/Get-MsrcSecurityBulletinHtml.ps1
+JsonApiDotNetCore/Build.ps1 at master · json-api-dotnet ... - GitHub,https://github.com/json-api-dotnet/JsonApiDotNetCore/blob/master/Build.ps1
+Scripts/Utility/CSLog.ps1 1.4.0 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/Cohesity.PowerShell.Core/1.4.0/Content/Scripts%255CUtility%255CCSLog.ps1
+rules/Azure.VirtualMachine.Rule.ps1 0.4.0 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/PSRule.Rules.Azure/0.4.0/Content/rules%255CAzure.VirtualMachine.Rule.ps1
+[CmdletBinding()] param () $Error.Clear() # Create output directory if ...,https://raw.githubusercontent.com/microsoft/sql-server-samples/master/samples/manage/sql-assessment-api/RHEL/runassessment.ps1
+Invoke-HardeningKitty.ps1 - windows_hardening - GitCode,https://gitcode.net/mirrors/0x6d69636b/windows_hardening/-/blob/8123d89b0a7e8ae30ac99e2f33de4449ef291453/Invoke-HardeningKitty.ps1
+VI-DB db-base-data-v1.2.ps1 - vWiki,https://vwiki.co.uk/VI-DB_db-base-data-v1.2.ps1
+param( [string] $VISRV ...,http://hypervisor.free.fr/vCheck/vCheckv505%2B.ps1
