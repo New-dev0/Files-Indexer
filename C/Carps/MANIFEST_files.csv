@@ -1,0 +1,9 @@
+license/medusa-image-4.0.0.24-2018-01-17-170310 ... - GitHub,https://github.com/stromerbike/license/blob/master/medusa-image-4.0.0.24-2018-01-17-170310-269a383b.manifest
+meta-intel-edison/edison-image-edison.manifest at master - GitHub,https://github.com/edison-fw/meta-intel-edison/blob/master/docs/edison-image-edison.manifest
+/boot /boot/grub /boot/grub/grub.cfg /boot/grub/powerpc-ieee1275 ...,https://mirrors.aliyun.com/centos-vault/8.2.2004/isos/ppc64le/CentOS-8.2.2004-ppc64le-minimal.iso.manifest
+CentOS-Stream-8-aarch64-latest-dvd1.iso.manifest - Nexril,http://mirror.dal.nexril.net/centos/8-stream/isos/aarch64/CentOS-Stream-8-aarch64-latest-dvd1.iso.manifest
+/EFI /EFI/BOOT /EFI/BOOT/BOOT.conf /EFI/BOOT/BOOTIA32.EFI /EFI ...,http://mirrors.radwebhosting.com/almalinux/8.5/isos/x86_64/AlmaLinux-8.5-x86_64-minimal.iso.manifest
+binutils-cross-canadian-x86-64 x86_64_nativesdk 2.32.0 gcc-cross ...,https://165.227.188.234/yocto/yocto/yocto-2.7.1/toolchain/x86_64/poky-glibc-x86_64-core-image-sato-core2-64-qemux86-64-toolchain-2.7.1.host.manifest
+binutils-cross-canadian-mips64 i686_nativesdk 2.32.0 gcc-cross ...,https://165.227.188.234/yocto/yocto/yocto-2.7.4/toolchain/i686/poky-glibc-i686-core-image-sato-mips64r2-qemumips64-toolchain-2.7.4.host.manifest
+/.discinfo /.treeinfo /Fedora-Legal-README.txt /LICENSE /Packages ...,http://185.255.55.26/fedora-altarch/development/rawhide/Server/ppc64le/iso/Fedora-Server-dvd-ppc64le-Rawhide-20220503.n.0.iso.manifest
+/AppStream /AppStream/Packages /AppStream/Packages/389-ds ...,https://mirrors.xtom.jp/almalinux/8.5/isos/x86_64/AlmaLinux-8.5-x86_64-dvd.iso.manifest
