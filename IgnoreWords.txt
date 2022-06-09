@@ -398,6 +398,7 @@ alloplasms
 allosteries
 allotments
 allotter
+allow
 allowancing
 allowing
 alloy
@@ -487,6 +488,7 @@ amorist
 amorously
 amorphism
 amortizes
+amortizing
 amperes
 ampersand
 amphibians
@@ -563,6 +565,7 @@ anecdotalists
 anecdotic
 anecdotists
 anele
+anenst
 anesthetizing
 angel
 angelically
@@ -620,6 +623,7 @@ anosmic
 anovulatory
 antagonist
 antagonistic
+antagonized
 antalkalis
 antecede
 anteceded
@@ -1268,6 +1272,7 @@ banshie
 banzai
 baptismal
 baptismally
+baptisms
 baptizers
 barbal
 barbarically
@@ -1517,6 +1522,7 @@ besmudges
 besnowed
 bespangles
 bespattering
+bestiary
 besting
 bestudding
 bet
@@ -1657,6 +1663,7 @@ birdman
 birds
 birdseed
 birefringent
+birkies
 birlers
 birthmark
 birthplaces
@@ -2075,6 +2082,7 @@ bucket
 buckled
 bucklering
 buckshees
+buckshot
 bucktooth
 budder
 buddied
@@ -2969,6 +2977,7 @@ climates
 climaxes
 clime
 clinally
+clinches
 clingers
 clingy
 clinically
@@ -3564,6 +3573,7 @@ copublish
 copycat
 copydesk
 copyedit
+copyedits
 copying
 copyrighted
 copywriter
@@ -4127,6 +4137,7 @@ dashis
 dastard
 dastardliness
 databases
+datedness
 dating
 datura
 daubes
@@ -4207,6 +4218,7 @@ declared
 declassing
 declaw
 declawing
+decliner
 declines
 decocts
 decodes
@@ -5070,6 +5082,7 @@ drabnesses
 draffy
 drafters
 drafting
+dragged
 dragline
 dragnet
 dragonheads
@@ -5086,6 +5099,7 @@ drammed
 drammocks
 dratted
 draughts
+drawbar
 drawee
 drawer
 drawknives
@@ -8650,6 +8664,7 @@ interfold
 intergraded
 intergrades
 intergrowths
+interim
 interindividual
 interinvolving
 interiorise
@@ -8857,6 +8872,7 @@ isophotal
 isophotes
 isoplethic
 isostacy
+isostatic
 isotachs
 isotheres
 isotherm
@@ -10159,6 +10175,7 @@ melphalans
 meltdowns
 melters
 melton
+meltons
 membership
 mementoes
 memetics
@@ -10366,6 +10383,7 @@ millesimal
 millicuries
 millier
 millihenry
+millimes
 millimho
 milline
 million
@@ -10684,6 +10702,7 @@ monuments
 moods
 moonier
 moonily
+moonless
 moonlight
 moons
 moonshine
@@ -10972,6 +10991,7 @@ natured
 natures
 naumachies
 nausea
+nauseatingly
 nauseously
 nautch
 nautches
@@ -12506,6 +12526,7 @@ peruke
 pervaded
 pervasively
 pervert
+pervertedly
 perverters
 pesos
 pessaries
@@ -12756,6 +12777,7 @@ pintos
 pintsized
 pinworms
 piolets
+pion
 piosity
 pipelined
 piperazine
@@ -14264,6 +14286,7 @@ refresher
 refreshers
 refries
 refuge
+refunds
 refurbishers
 refurbishes
 refurnish
@@ -14324,6 +14347,7 @@ reimaging
 reimportation
 reimports
 reincarnate
+reincarnates
 reindustrialize
 reinfection
 reinflames
@@ -14879,6 +14903,7 @@ rotis
 rotls
 rotors
 rottweilers
+rotunda
 rouches
 roues
 roughcasting
@@ -15172,6 +15197,7 @@ scarifiers
 scarious
 scarlets
 scarpered
+scarping
 scarred
 scars
 scary
@@ -15353,6 +15379,7 @@ sedilia
 sedimentologies
 seducive
 seductress
+sedulousness
 sedulousnesses
 sedums
 see
@@ -15637,6 +15664,7 @@ shopboys
 shoplifted
 shoppe
 shoran
+shorthairs
 shorthands
 shortia
 shortias
@@ -15679,6 +15707,7 @@ shutterless
 shuttle
 shuttlecocking
 shvartzes
+sialidan
 sibs
 siccative
 sices
@@ -16874,6 +16903,7 @@ summerwoods
 sumps
 sumptuous
 sunbaths
+sunbonnets
 sunburned
 sundecks
 sundowning
@@ -17467,6 +17497,7 @@ thiocyanate
 thionate
 thirams
 thirteenths
+thirties
 thirtieths
 thongs
 thoracotomy
@@ -17735,6 +17766,7 @@ tradeable
 tradecraft
 traditional
 traducements
+traducer
 traducing
 trafficable
 trafficked
@@ -17806,6 +17838,7 @@ traumatize
 traversable
 travesties
 trawley
+trawleys
 trawlnets
 trayful
 treachery
@@ -18544,6 +18577,7 @@ untraditionally
 untrained
 untraveled
 untreated
+untrusses
 untucking
 untwisted
 ununbium
@@ -18916,6 +18950,7 @@ voguers
 voicefulness
 volatilizations
 volatilizes
+volcanologists
 voled
 volleyed
 volplane

@@ -1,0 +1,4 @@
+decline-WSUSUpdatesTypes.ps1 1.4 - PowerShell Gallery,https://www.powershellgallery.com/packages/decline-WSUSUpdatesTypes/1.4/Content/decline-WSUSUpdatesTypes.ps1
+Scripts/Deny-PoshWSUSUpdate.ps1 2.2.2 - PowerShell Gallery,https://www.powershellgallery.com/packages/PoshWSUS/2.2.2/Content/Scripts%255CDeny-PoshWSUSUpdate.ps1
+PoshWSUS/Deny-PSWSUSUpdate.ps1 at master - GitHub,https://github.com/proxb/PoshWSUS/blob/master/Scripts/Deny-PSWSUSUpdate.ps1
+ConfigMgrScripts/Decline-OtherUpdatesWithExclusionPeriod.ps1 at ...,https://github.com/jason4tw/ConfigMgrScripts/blob/master/SoftwareUpdates/Decline-OtherUpdatesWithExclusionPeriod.ps1
