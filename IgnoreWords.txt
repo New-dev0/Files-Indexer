@@ -416,6 +416,7 @@ alloplasms
 allosteries
 allotments
 allotter
+allotypies
 allow
 allowancing
 allowing
@@ -1929,6 +1930,7 @@ bombycids
 bonding
 bone
 boneblacks
+bonefishing
 bonehead
 boneset
 bongoes
@@ -2892,6 +2894,7 @@ chicks
 chicory
 chiefest
 chiefships
+chiffchaffs
 childbearings
 childbed
 childbirths
@@ -3777,6 +3780,7 @@ corbeil
 corbeils
 corbels
 cordages
+cordialities
 cordilleran
 cordlesses
 cordons
@@ -4512,6 +4516,7 @@ defibrillations
 defibrillators
 defibrinating
 defier
+definement
 definitely
 definitenesses
 definitives
@@ -4849,6 +4854,7 @@ diaphysis
 diapositives
 diarchic
 diaristic
+diarrhea
 diarrheic
 diaspores
 diastemata
@@ -5045,6 +5051,7 @@ discrete
 discriminant
 discrowned
 discursiveness
+discussible
 discussions
 disdainfulness
 disease
@@ -5447,6 +5454,7 @@ drupelets
 druses
 dryadic
 dryish
+dualistically
 dubber
 dubiousness
 ducklings
@@ -5968,6 +5976,7 @@ epicardial
 epicarp
 epicedia
 epicedium
+epicene
 epicenism
 epicenters
 epicentrum
@@ -6015,6 +6024,7 @@ epoxy
 epsilonic
 equalizers
 equalling
+equates
 equerry
 equestrian
 equilibrated
@@ -7362,6 +7372,7 @@ genetical
 genip
 genitalic
 genitals
+genocidal
 genomes
 gentlemen
 gentler
@@ -7490,11 +7501,13 @@ glintiest
 glitter
 gloater
 gloaters
+globalizes
 globbiest
 globefish
 globose
 gloggs
 glom
+glomeruli
 glomming
 gloomed
 gloomier
@@ -7730,6 +7743,7 @@ groundburst
 grounded
 groundfish
 groundlessness
+groundlings
 groundmass
 groundwood
 grouting
@@ -8634,6 +8648,7 @@ illegalities
 illiberalness
 illimitable
 illimitably
+illogicalities
 illuded
 illuminati
 illuminative
@@ -9674,6 +9689,7 @@ kippered
 kipperers
 kipskins
 kirigami
+kirsch
 kissed
 kissing
 kitchen
@@ -10292,6 +10308,7 @@ lullabied
 lullabies
 lumbars
 lumberjacks
+lumbricals
 luminaires
 luminance
 luminiferous
@@ -10724,6 +10741,7 @@ mense
 menstruations
 mensurations
 mental
+mentalism
 mentalist
 mentees
 mentioned
@@ -10789,6 +10807,7 @@ metaphysician
 metaplasm
 metastatically
 metathoracic
+metaxylem
 metazoa
 meteorites
 meteoritic
@@ -10898,6 +10917,7 @@ migs
 mihrabs
 miked
 mikvos
+mil
 milages
 mildening
 mileposts
@@ -11594,6 +11614,7 @@ needier
 neediness
 needlelike
 needless
+needlessly
 needleworker
 needling
 negates
@@ -11958,6 +11979,7 @@ nubbiness
 nubbles
 nubbly
 nubby
+nuchals
 nucleal
 nucleates
 nucleins
@@ -13774,6 +13796,7 @@ posted
 posterior
 posterities
 posterns
+postexperience
 postgraduates
 postgraduation
 posthaste
@@ -14361,6 +14384,7 @@ puncher
 punchinello
 punchinellos
 punctiliously
+puncturing
 pung
 pungs
 punishing
@@ -14711,6 +14735,7 @@ reactor
 reactors
 readerly
 readier
+reading
 readmitting
 readorning
 readouts
@@ -15182,6 +15207,7 @@ rendered
 renderers
 reneger
 renegers
+renegotiable
 renests
 renewer
 rennin
@@ -16421,6 +16447,7 @@ shinning
 shipboard
 shipboards
 shipmaster
+shipmasters
 shipmates
 shipment
 ships
@@ -17132,6 +17159,7 @@ spinto
 spinulose
 spiny
 spiraled
+spirant
 spiremes
 spires
 spiritism
@@ -18007,6 +18035,7 @@ syndactyly
 syndromic
 syne
 synergisms
+synergist
 syngenic
 synonymously
 synopsizes
@@ -18465,6 +18494,7 @@ tidemarks
 tiderips
 tidiest
 tiebreaks
+tieless
 tiepins
 tierced
 tiering
@@ -18688,6 +18718,7 @@ tramels
 tramlines
 trammeler
 trammelers
+trampiest
 trampish
 tranche
 tranny
@@ -18793,6 +18824,7 @@ tribulation
 trichologists
 trichome
 trichomic
+trichomonacide
 trichopteran
 trichopterans
 trichosis
@@ -19123,6 +19155,7 @@ uncalculating
 uncalloused
 uncapped
 uncaptioned
+uncapturable
 uncase
 uncases
 uncataloged
@@ -19842,6 +19875,7 @@ vinegarish
 vinosity
 violoncellists
 viols
+vireonines
 viridescent
 viridity
 virion
@@ -20218,6 +20252,7 @@ windrower
 windrowers
 windrows
 windscreens
+windsurfings
 windthrow
 windups
 windway
