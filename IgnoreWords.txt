@@ -334,6 +334,7 @@ airshows
 airspace
 airstrikes
 airts
+airward
 airwomen
 ajuga
 akees
@@ -684,6 +685,7 @@ anticorrosives
 anticyclone
 antiemetics
 antiepilepsy
+antiepileptics
 antifascisms
 antifat
 antiforeigner
@@ -704,6 +706,7 @@ antilynching
 antimetabolic
 antimetabolites
 antimilitarism
+antimonic
 antimycin
 antimycins
 antinarrative
@@ -824,6 +827,7 @@ appetisers
 appetising
 appetitive
 appetizingly
+applecarts
 applesauces
 applicator
 appraisers
@@ -1068,6 +1072,7 @@ atherogenic
 athetoid
 athleticism
 atlatl
+atomistic
 atomizations
 atomized
 atomizer
@@ -1148,6 +1153,7 @@ autocatalytic
 autocoid
 autocross
 autoerotic
+autogiro
 autografted
 autograph
 autographically
@@ -2477,6 +2483,7 @@ caprifications
 caprifigs
 caprioled
 caprioling
+caprolactam
 capstans
 capsulizes
 captain
@@ -2989,6 +2996,7 @@ chromoplasts
 chromoprotein
 chromoproteins
 chronaxy
+chronogram
 chronologists
 chronometrical
 chronon
@@ -3267,6 +3275,7 @@ coenamor
 coenocytic
 coenure
 coequality
+coercers
 coercibly
 coercivities
 coexecutor
@@ -3646,6 +3655,7 @@ contactee
 contacting
 contacts
 contain
+contained
 containerize
 containerless
 containerships
@@ -3756,6 +3766,7 @@ corals
 corbeil
 corbeils
 corbels
+cordages
 cordilleran
 cordlesses
 cordons
@@ -4249,6 +4260,7 @@ cyproterones
 cyprus
 cypselae
 cysteine
+cytochalasin
 cytogeneticist
 cytokinesis
 cytologic
@@ -5329,6 +5341,7 @@ dozening
 dozy
 drabness
 drabnesses
+draffiest
 draffy
 drafters
 drafting
@@ -5742,6 +5755,7 @@ emoting
 emotionalists
 emotionalize
 empaneled
+emphasis
 emplaced
 emplanes
 employability
@@ -7285,6 +7299,7 @@ gauging
 gauntly
 gauntry
 gauziest
+gauzy
 gavel
 gaveled
 gavelock
@@ -7461,6 +7476,7 @@ gloaters
 globbiest
 globefish
 globose
+gloggs
 glom
 glomming
 gloomed
@@ -7702,6 +7718,7 @@ grouting
 grovelers
 groveless
 grow
+growlers
 growling
 grown
 growthiness
@@ -7959,6 +7976,7 @@ harvest
 harvested
 harvesting
 harvestmen
+hashheads
 hassled
 hatboxes
 hatchable
@@ -9141,6 +9159,7 @@ intervallic
 intervals
 intervene
 interviewees
+interweaved
 interwork
 interworkings
 interworks
@@ -10411,6 +10430,7 @@ manches
 mandator
 mandibulate
 mandola
+mandrel
 mandrils
 maneuverable
 manful
@@ -10434,6 +10454,7 @@ manito
 manna
 mannerist
 mannerless
+mannerlinesses
 mannishness
 mannishnesses
 mannite
@@ -10780,6 +10801,7 @@ mezuza
 mezuzoth
 miaou
 miaowed
+miaowing
 miasmatic
 miasmic
 miaul
@@ -11260,6 +11282,7 @@ mortarmen
 mortgage
 mortgagor
 mortified
+mortifies
 mortisers
 mortmain
 mosaiclike
@@ -13280,6 +13303,7 @@ phytoid
 phytol
 phytols
 phytophagous
+phytoplankton
 phytosterol
 piaffing
 pianissimi
@@ -13819,6 +13843,7 @@ preact
 preadaptive
 preadmit
 preadmitted
+preadolescent
 preadopted
 preadult
 preaged
@@ -14170,6 +14195,7 @@ proportion
 proportionality
 proportionally
 proportionates
+propositi
 propretor
 proprietorial
 proprietorship
@@ -14597,6 +14623,7 @@ ransoms
 rants
 raper
 rapers
+raphide
 rapids
 rappeling
 rappels
@@ -15448,6 +15475,7 @@ rheumatologist
 rheumier
 rhizobial
 rhizoids
+rhizoplane
 rhizopus
 rhodamins
 rhodium
@@ -15641,6 +15669,7 @@ rowlocks
 rubaboo
 rubbaboos
 rubberized
+rubberizes
 rubbishes
 rubbling
 rubdown
@@ -16487,6 +16516,7 @@ signalmen
 signalment
 signboard
 significance
+significances
 significant
 signifieds
 signifiers
@@ -16775,6 +16805,7 @@ sneap
 sneaps
 snedded
 sneerier
+sneering
 sneezer
 snickersnee
 sniffier
@@ -18272,6 +18303,7 @@ thearchies
 theatergoers
 theatricalism
 theatricalities
+theatricalize
 theatricals
 theft
 thegnly
@@ -19078,6 +19110,7 @@ unclearest
 unclinched
 uncloak
 uncloaking
+unclothed
 unclutter
 uncoalesced
 uncoalescing
@@ -20059,6 +20092,7 @@ whenever
 whey
 whidahs
 whiffer
+whigs
 whiled
 whiles
 whimpering
@@ -20200,6 +20234,7 @@ witherods
 witnessers
 wittiest
 wiz
+wizened
 wizes
 wobbler
 wobbles
