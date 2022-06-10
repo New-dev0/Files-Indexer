@@ -1182,6 +1182,7 @@ avouching
 avulsion
 avulsions
 awaited
+awakeners
 awash
 awaynesses
 awe
@@ -1582,6 +1583,7 @@ besmoking
 besmoothed
 besmudges
 besnowed
+besotted
 bespangles
 bespattering
 besprinkled
@@ -1876,6 +1878,7 @@ bodybuilding
 bodybuildings
 bodyguarding
 bog
+bogginesses
 bogusness
 bogwoods
 bohemia
@@ -2268,6 +2271,7 @@ butterflying
 butteriest
 buttering
 butterless
+butterwort
 buttonballs
 buttonbush
 buttonholed
@@ -2573,6 +2577,7 @@ cash
 cashing
 cashless
 casitas
+casky
 casque
 casques
 cassenas
@@ -2852,6 +2857,7 @@ chickory
 chicks
 chicory
 chiefest
+chiefships
 childbearings
 childbed
 childishly
@@ -2933,6 +2939,7 @@ choosier
 choppier
 chopsocky
 chopsticks
+choreatic
 chorial
 chorions
 chorizos
@@ -4029,6 +4036,7 @@ crows
 cruces
 cruciform
 cruddy
+crudities
 cruds
 cruisers
 crullers
@@ -4161,6 +4169,7 @@ cutches
 cuteness
 cutest
 cuteys
+cutlas
 cutpurses
 cutthroats
 cuttlefish
@@ -4251,6 +4260,7 @@ daimyo
 daintinesses
 daishikis
 dale
+daledh
 dales
 dalmatics
 daltons
@@ -4330,6 +4340,7 @@ deaerated
 deaerators
 deaired
 dealated
+dealerships
 deaned
 deanship
 dearie
@@ -4943,6 +4954,7 @@ disassociated
 disaster
 disavow
 disbelieves
+disbosom
 disbound
 disbranched
 disburden
@@ -5521,6 +5533,7 @@ ecumenism
 ecumenist
 eczemas
 edaphically
+eddies
 edentulous
 edges
 edgewise
@@ -5792,6 +5805,7 @@ ennobler
 ennuye
 enokitakes
 enow
+enplaned
 enquires
 enravished
 enregister
@@ -6480,6 +6494,7 @@ fetoscopies
 fetterer
 fettuccini
 feudalizations
+feudatory
 feuilleton
 fever
 feverish
@@ -6640,6 +6655,7 @@ flappers
 flapping
 flared
 flashbacks
+flashcard
 flashed
 flashings
 flashover
@@ -7036,6 +7052,7 @@ fuchsine
 fuci
 fudging
 fuelers
+fueller
 fuels
 fugatos
 fuggier
@@ -9128,6 +9145,7 @@ invents
 inverity
 inversed
 invertase
+invertebrates
 invertor
 invest
 investigations
@@ -9824,6 +9842,7 @@ legendarily
 legendize
 legendized
 legends
+legerdemain
 leges
 legislatives
 legislators
@@ -9898,6 +9917,7 @@ liberalising
 liberalism
 liberalizers
 liberated
+libertine
 liberty
 libido
 librarianship
@@ -10438,6 +10458,7 @@ masterpieces
 masters
 masticate
 masticating
+mastication
 mastigophoran
 mastigophorans
 mastitic
@@ -10457,6 +10478,7 @@ maternally
 matey
 mateys
 matronizes
+matt
 matte
 mattings
 mattock
@@ -12949,6 +12971,7 @@ perfuses
 periblems
 pericardial
 pericope
+perigyny
 perimeter
 perimetries
 perimorph
@@ -13039,6 +13062,7 @@ pests
 pesty
 petalled
 petaloid
+petasos
 petcocks
 petechia
 petiteness
@@ -14465,6 +14489,7 @@ raillery
 rainbirds
 raininess
 rainless
+rainmaker
 rainouts
 raised
 raisers
@@ -14701,7 +14726,9 @@ recrystallizing
 rectangular
 rectification
 rectified
+rectifiers
 rectifying
+rectitudinous
 recto
 rectrix
 recumbencies
@@ -15390,6 +15417,7 @@ rijsttafel
 rikishas
 riling
 rimless
+rimosely
 rimpled
 rimrock
 rin
@@ -15520,6 +15548,7 @@ routinists
 roving
 row
 rowanberry
+rowelled
 rowels
 rower
 rowlocks
@@ -15586,6 +15615,7 @@ rutabaga
 rutins
 ruttier
 rye
+ryegrass
 ryot
 sabal
 sabayons
@@ -16655,6 +16685,7 @@ sneap
 sneaps
 snedded
 sneerier
+sneezer
 snickersnee
 sniffier
 sniffish
@@ -17203,6 +17234,7 @@ stickums
 stiffed
 stiffen
 stiffness
+stiffnesses
 stigmatist
 stilbenes
 stillborn
@@ -18712,6 +18744,7 @@ tubas
 tubbers
 tubbiness
 tubeless
+tuberculated
 tuberculoses
 tuberculous
 tubfuls
@@ -19291,6 +19324,7 @@ unsteadier
 unsteadily
 unstopper
 unstopping
+unsubdued
 unsupportable
 unsurprisingly
 unsustainable
@@ -19618,6 +19652,7 @@ videodisks
 videographer
 videolands
 videttes
+viewiest
 vigilantisms
 vignerons
 vignetters
