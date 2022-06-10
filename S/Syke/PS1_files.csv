@@ -1,0 +1,7 @@
+examples/ShowChart.ps1 1.1.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/OutTabulatorView/1.1.0/Content/examples%255CShowChart.ps1
+attack-arsenal/wipe.ps1 at master - GitHub,https://github.com/mitre-attack/attack-arsenal/blob/master/adversary_emulation/APT29/Emulation_Plan/Day%25202/payloads/wipe.ps1
+git/MimiLite64.ps1 at master · sinmygit/git · GitHub,https://github.com/sinmygit/git/blob/master/MimiLite64.ps1
+Invoke-Mimikatz - GitHub,https://raw.githubusercontent.com/PowerShellEmpire/Empire/master/data/module_source/credentials/Invoke-Mimikatz.ps1
+function Invoke-Mimikatz { <# .SYNOPSIS This script loads Mimikatz ...,https://raw.githubusercontent.com/samratashok/nishang/master/Gather/Invoke-Mimikatz.ps1
+function Invoke-Mimikatz { <# .SYNOPSIS This script leverages ...,http://www.seemelist.com/Invoke-Mimikatz.ps1
+Invoke-Vnc.ps1 · 2ae1cee838c9295619147499c4a9b1e09bc61f39,https://gitlab.com/kalilinux/packages/redsnarf/-/blob/2ae1cee838c9295619147499c4a9b1e09bc61f39/Invoke-Vnc.ps1%3Fexpanded%3Dtrue%26viewer%3Dsimple
