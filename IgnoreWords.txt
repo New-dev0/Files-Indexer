@@ -140,6 +140,7 @@ acrogens
 acrolith
 acropetal
 acrosomal
+acrosomes
 acrostics
 acrotisms
 actinia
@@ -347,6 +348,7 @@ alands
 alang
 alanin
 alans
+alarmist
 alarum
 alarums
 alaska
@@ -597,6 +599,7 @@ anglicism
 anglicization
 angosturas
 angrinesses
+angry
 angulations
 anhydrides
 ani
@@ -1013,6 +1016,7 @@ assentation
 assented
 assenters
 assents
+asserting
 assertor
 assets
 asseverates
@@ -2106,6 +2110,7 @@ broadcasted
 broadened
 broadening
 broadleaves
+broadly
 brocading
 brocatelles
 brocatels
@@ -2360,6 +2365,7 @@ callings
 callosities
 callouses
 callousing
+callow
 callus
 calomel
 calorically
@@ -2381,11 +2387,13 @@ camases
 camber
 cambia
 cambric
+camel
 cameleers
 camellia
 camerae
 cames
 camlet
+camouflageable
 campagna
 campaigned
 campesinos
@@ -2634,6 +2642,7 @@ catecholamine
 categorising
 catenaries
 cater
+catercorner
 cathedra
 cathepsin
 cathodally
@@ -2695,6 +2704,7 @@ centerings
 centesimal
 centesimos
 centimes
+centimeter
 centimorgans
 centraler
 centralises
@@ -2815,6 +2825,7 @@ cheapened
 cheapness
 cheapnesses
 cheapskates
+chechako
 checkbooks
 checkered
 checkers
@@ -3326,6 +3337,7 @@ collide
 collinsias
 collodion
 colloids
+colloquial
 colloquials
 colluvium
 colluviums
@@ -3360,6 +3372,7 @@ columella
 columellar
 columels
 columneas
+columnists
 colure
 comaking
 comal
@@ -4201,6 +4214,7 @@ cyclizing
 cyclogenesis
 cycloids
 cyclopaedias
+cyclopedia
 cyclopropane
 cyeses
 cylinder
@@ -4844,6 +4858,7 @@ diffraction
 diffractions
 diffractometer
 diffractometers
+diffs
 diffuseness
 diffuser
 diffusionism
@@ -5826,6 +5841,7 @@ ensign
 enskyed
 enslaves
 ensnare
+ensnaring
 ensorcel
 ensorcellments
 ensphere
@@ -7102,6 +7118,7 @@ furnishes
 furore
 furrieries
 further
+furtively
 furuncle
 furuncles
 fusees
@@ -7781,6 +7798,7 @@ hadji
 hadron
 haecceity
 haematin
+haemic
 haems
 hafizes
 haft
@@ -8123,6 +8141,7 @@ hexagonally
 hexameter
 hexaplar
 hexapods
+hexarchies
 hexed
 hexer
 hexobarbitals
@@ -8263,6 +8282,7 @@ honeydew
 honeys
 honeysuckle
 hongied
+honied
 honkers
 honorableness
 honorably
@@ -8813,6 +8833,7 @@ inefficiently
 inefficients
 inelasticity
 inelegances
+ineligibles
 inenarrable
 ineptnesses
 inerrable
@@ -10861,6 +10882,7 @@ minutely
 miracidia
 miraculous
 mirandize
+mirepoix
 mirex
 miri
 mirin
@@ -11116,6 +11138,7 @@ monologuists
 monomaniac
 monomaniacally
 monometallist
+monometer
 mononucleoses
 monophthongs
 monopode
@@ -11393,6 +11416,7 @@ mysticetes
 mystique
 mythicize
 mythiest
+mythologer
 mythologize
 mythology
 myxoma
@@ -11729,6 +11753,7 @@ nonintoxicating
 nonirrigated
 nonirritant
 nonkosher
+nonlanguages
 nonlawyers
 nonlinearity
 nonlives
@@ -14161,6 +14186,7 @@ psalter
 psephite
 pseudomorphism
 pseudopregnant
+pseudorandom
 psilophyte
 psilosis
 psittacines
@@ -14334,6 +14360,7 @@ pyxidium
 qabalahs
 qabalas
 qanat
+qats
 qiviut
 quackery
 quadrant
@@ -14608,6 +14635,7 @@ reappropriate
 rearers
 rearmice
 rearmost
+rearmouse
 rearouse
 rearrested
 reascend
@@ -15510,6 +15538,7 @@ roshis
 rosiest
 rosily
 rosiness
+rosinesses
 rosinweed
 rotameter
 rotates
@@ -16059,6 +16088,7 @@ selects
 selenide
 selenides
 seleniferous
+selenologist
 selfheals
 selfs
 sellable
@@ -16388,6 +16418,7 @@ sierras
 sifters
 sightings
 sightless
+sightly
 sightseeing
 sightsees
 signalers
@@ -16776,6 +16807,7 @@ solipsists
 solitons
 solitudes
 solitudinarian
+solitudinarians
 sollerets
 soloistic
 solonchak
@@ -17064,6 +17096,7 @@ spurgall
 spurgalled
 spuriousness
 spurrer
+spurtle
 sputa
 sputter
 squabble
@@ -19601,6 +19634,7 @@ vermiculate
 vermifuges
 vermilioning
 vermuth
+vernacularism
 vernicles
 vernissage
 versal
@@ -19759,6 +19793,7 @@ voraciousness
 vorlages
 vortical
 vorticist
+vorticists
 vorticity
 votaress
 voucher
