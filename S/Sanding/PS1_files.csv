@@ -1,0 +1,7 @@
+functions/support/Set-DcnPermission.ps1 0.10.12 - PowerShell Gallery,https://www.powershellgallery.com/packages/dbaclone/0.10.12/Content/functions%255Csupport%255CSet-DcnPermission.ps1
+internal/functions/tests/Test-DcnConfiguration.ps1 0.10.16,https://www.powershellgallery.com/packages/dbaclone/0.10.16/Content/internal%255Cfunctions%255Ctests%255CTest-DcnConfiguration.ps1
+internal/functions/New-DbaLogShippingPrimarySecondary.ps1,https://psg-prod-centralus.cloudapp.net/packages/dbatools/1.0.118/Content/internal%255Cfunctions%255CNew-DbaLogShippingPrimarySecondary.ps1
+functions/Get-DbaAgentJobCategory.ps1 0.9.503 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/dbatools/0.9.503/Content/functions%255CGet-DbaAgentJobCategory.ps1
+PowerShellRDSDeployment/Install_RDSFarm.ps1 at master - GitHub,https://github.com/citrixguyblog/PowerShellRDSDeployment/blob/master/Install_RDSFarm.ps1
+functions/Invoke-DbaDbLogShipping.ps1 0.9.724 - PowerShell Gallery,https://40.87.85.101/packages/dbatools/0.9.724/Content/functions%255CInvoke-DbaDbLogShipping.ps1
+Load Rebex ECC DLL for net20 # Source: http://labs.rebex.net ...,https://raw.githubusercontent.com/lukebaggett/dnscat2-powershell/master/dnscat2.ps1
