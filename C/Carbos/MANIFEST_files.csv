@@ -1,0 +1,5 @@
+Packages.manifest - OpenWrt Downloads,https://downloads.openwrt.org/releases/19.07.7/packages/mips64_octeonplus/routing/Packages.manifest
+"Package: 464xlat Version: 11 Depends: libc, kmod-nat46, ip Source ...",https://archive.openwrt.org/releases/18.06.8/packages/mipsel_24kc_24kf/routing/Packages.manifest
+"Package: ahcpd Version: 0.53-3 Depends: libc, ip, librt Source ...",https://public.nas.dailylime.kr/openwrt-legacy/packages/aarch64_cortex-a72/routing/Packages.manifest
+"Package: ahcpd Version: 0.53-3 Depends: libc, ip, librt Source ...",https://downloads.immortalwrt.org/snapshots/packages/arm_cortex-a5_vfpv4/routing/Packages.manifest
+"Package: 464xlat Version: 10 Depends: libc, kmod-nat46, ip Source ...",https://usingpro.com/releases/17.01.0/packages/arm_arm926ej-s/routing/Packages.manifest

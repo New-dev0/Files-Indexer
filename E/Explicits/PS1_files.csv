@@ -1,0 +1,10 @@
+Cmdlet/Convert-MSOLUserLIcenseToExplict.ps1 2.0.4 - PowerShell ...,https://www.powershellgallery.com/packages/MSOLLicenseManagement/2.0.4/Content/Cmdlet%255CConvert-MSOLUserLIcenseToExplict.ps1
+SmbScanner/smbscanner.ps1 at master · vletoux/SmbScanner,https://github.com/vletoux/SmbScanner/blob/master/smbscanner.ps1
+functional/functional.tests.ps1 at master · chriskuech/functional ...,https://github.com/chriskuech/functional/blob/master/functional.tests.ps1
+Install.ps1 script - community chocolatey,https://community.chocolatey.org/install.ps1
+Private/Update-PAOrder.ps1 4.3.2 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/Posh-ACME/4.3.2/Content/Private%255CUpdate-PAOrder.ps1
+lib/ansible/modules/windows/win_robocopy.ps1 · master,https://gitlabdev.ics.muni.cz/242618/ansible/-/blob/master/lib/ansible/modules/windows/win_robocopy.ps1
+TestResults.ps1 in branches/2929_PrioritizedGrammarEnumeration ...,https://dev.heuristiclab.com/trac.fcgi/browser/branches/2929_PrioritizedGrammarEnumeration/HeuristicLab.Algorithms.DataAnalysis.PGE/3.3/TestResults.ps1%3Frev%3D16620
+FUNCTIONS -------------#> Function Set-SwisConnection { Param ...,https://raw.githubusercontent.com/Mesverrum/MyPublicWork/master/ViewExporter.ps1
+#!/usr/bin/env pwsh # # This script is meant for quick & easy install ...,https://get.mirantis.com/install.ps1
+ansible2/ansible/modules/windows/win_lineinfile.ps1 ... - CS@VT,https://version.cs.vt.edu/techstaff/linux-audit/-/blob/6cc5a526f7e985a28d4646c57d83111212a0ce99/ansible2/ansible/modules/windows/win_lineinfile.ps1
