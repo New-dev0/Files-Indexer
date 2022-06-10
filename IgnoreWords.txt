@@ -242,6 +242,7 @@ aerograms
 aerolitic
 aeromechanics
 aerometers
+aeronautical
 aeronautics
 aerophobe
 aerophobes
@@ -3321,6 +3322,7 @@ cohostess
 cohosting
 coif
 coiffeuses
+coiffures
 coilers
 coin
 coinable
@@ -3778,6 +3780,7 @@ coralbells
 corals
 corbeil
 corbeils
+corbelling
 corbels
 cordages
 cordialities
@@ -4715,6 +4718,7 @@ deray
 derepresses
 derepressions
 derided
+derisivenesses
 deriver
 derm
 dermas
@@ -5003,6 +5007,7 @@ disaffects
 disaffiliate
 disaffiliating
 disaffirms
+disaggregated
 disallowed
 disappearance
 disappears
@@ -5053,6 +5058,7 @@ discrowned
 discursiveness
 discussible
 discussions
+disdain
 disdainfulness
 disease
 diseased
@@ -6837,6 +6843,7 @@ fluoric
 fluorimeter
 fluorimetries
 fluorination
+fluorites
 fluorocarbons
 fluorographies
 fluorometries
@@ -7462,6 +7469,7 @@ gitting
 giveaway
 glaceing
 glaciating
+glaciers
 glad
 gladdeners
 gladiate
@@ -8531,6 +8539,7 @@ hydrospaces
 hydrosphere
 hydrospheres
 hydrostatic
+hydroxylapatite
 hydroxylase
 hydroxylases
 hygrometer
@@ -8922,6 +8931,7 @@ ineligibles
 inenarrable
 ineptnesses
 inerrable
+inertial
 inertially
 inerts
 inexcusably
@@ -9180,6 +9190,7 @@ intersex
 intersexual
 interspaced
 interspacing
+interstate
 interstation
 intersterile
 interstitially
@@ -9341,6 +9352,7 @@ isogenic
 isogonic
 isolations
 isoleads
+isoleucines
 isophotal
 isophotes
 isoplethic
@@ -9580,6 +9592,7 @@ karakul
 karats
 karmic
 kaross
+karst
 karting
 karyology
 karyotins
@@ -9888,6 +9901,7 @@ laughablenesses
 laughably
 laughed
 laughlines
+launched
 laundress
 laundrettes
 laureated
@@ -10338,6 +10352,7 @@ lurkers
 luscious
 lusciously
 lusher
+lusterwares
 lustrations
 lustring
 lustrum
@@ -10381,6 +10396,7 @@ macrocosms
 macrocyclic
 macroeconomic
 macroevolution
+macroevolutions
 macroglobulins
 macron
 macronuclei
@@ -10991,6 +11007,7 @@ mirror
 mirrored
 mirzas
 misadds
+misadjust
 misagent
 misagents
 misaimed
@@ -11221,6 +11238,7 @@ monkfishes
 monoacids
 monochasial
 monochasium
+monochromats
 monoclinic
 monoclonal
 monocots
@@ -11343,6 +11361,7 @@ motorising
 motorization
 motorizing
 mott
+mottling
 motts
 moufflons
 moulages
@@ -11953,6 +11972,7 @@ noseguards
 noseless
 nosher
 noshes
+nosologies
 nosology
 nostalgias
 nostalgic
@@ -12759,6 +12779,7 @@ palmer
 palmisters
 palmitins
 palmyra
+palominos
 palpi
 palpitated
 palsied
@@ -14540,6 +14561,7 @@ quercetin
 queried
 queriers
 querists
+querulousness
 questioned
 quezales
 quicker
@@ -15525,6 +15547,7 @@ rheumatically
 rheumatoid
 rheumatologist
 rheumier
+rheumiest
 rhizobial
 rhizoids
 rhizoplane
@@ -15984,6 +16007,7 @@ scagliolas
 scalariformly
 scalations
 scale
+scallop
 scallywags
 scalpers
 scammed
@@ -16143,6 +16167,7 @@ scuppered
 scurrying
 scurviest
 scute
+scuttering
 scutworks
 scuzzball
 scyphi
@@ -16299,6 +16324,7 @@ separate
 separately
 separates
 separating
+sepic
 sepiolites
 seppuku
 septal
@@ -16309,6 +16335,7 @@ septical
 septicemia
 septicities
 septics
+septimes
 sequels
 sequencing
 sequency
@@ -16603,6 +16630,7 @@ simmers
 simoniacal
 simpleness
 simplest
+simplexes
 simplisms
 simulant
 simulated
@@ -16838,6 +16866,7 @@ smothers
 smutchier
 smuts
 smuttier
+snackers
 snacks
 snailed
 snake
@@ -17005,6 +17034,7 @@ sorely
 sorer
 sorghums
 soricine
+sorned
 sorners
 soroses
 sorosises
@@ -17138,6 +17168,7 @@ spicy
 spiderweb
 spiderworts
 spiegeleisens
+spiel
 spieled
 spiffies
 spiffiest
@@ -18320,6 +18351,7 @@ terrella
 territorial
 territorialized
 territorials
+terrorising
 terrorisms
 terrorizations
 terrorless
@@ -18451,6 +18483,7 @@ thruputs
 thrusted
 thrusters
 thudding
+thug
 thumbhole
 thumbholes
 thump
@@ -18836,6 +18869,7 @@ tricorn
 tricorne
 tricotines
 trident
+trienes
 triennials
 triers
 trifled
@@ -19784,6 +19818,7 @@ vera
 verandahed
 verandahs
 verandas
+veratridines
 veratrin
 veratrums
 verbalizing
