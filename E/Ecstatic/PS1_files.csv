@@ -1,0 +1,4 @@
+pOSINT/Search-Censys.ps1 at master · ecstatic-nobel/pOSINT ...,https://github.com/ecstatic-nobel/pOSINT/blob/master/Search-Censys.ps1
+pOSINT/Search-GreyNoise.ps1 at master · ecstatic-nobel/pOSINT ...,https://github.com/ecstatic-nobel/pOSINT/blob/master/Search-GreyNoise.ps1
+Tools/NameGenerator.ps1 0.27.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/Pode/0.27.0/Content/Tools%255CNameGenerator.ps1
+cd $HOME mkdir -p ecstatic-nobel\ansible-N-vagrant cd ecstatic ...,https://raw.githubusercontent.com/ecstatic-nobel/ansible-N-vagrant/master/windows_setup/windows_setup.ps1

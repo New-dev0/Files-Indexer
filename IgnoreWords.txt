@@ -136,6 +136,7 @@ acridnesses
 acritarch
 acrobatics
 acrodont
+acrogens
 acrolith
 acropetal
 acrosomal
@@ -414,6 +415,7 @@ allowing
 alloy
 alloying
 alls
+allseed
 allseeds
 alluding
 allusion
@@ -878,6 +880,7 @@ archivolt
 archly
 archnesses
 archons
+archosaurian
 archrivals
 arcuations
 ardeb
@@ -2419,6 +2422,7 @@ capriccio
 caprifications
 caprifigs
 caprioled
+caprioling
 capsulizes
 captain
 captivities
@@ -2828,6 +2832,7 @@ chimp
 chinaberries
 chinchiest
 chinchilla
+chine
 chines
 chinked
 chinking
@@ -2923,6 +2928,7 @@ chuckler
 chuckwalla
 chuddah
 chuddars
+chukkas
 chummier
 chumships
 chunkier
@@ -3287,6 +3293,7 @@ colossal
 colostomies
 colpitises
 colportages
+colporteur
 cols
 coltish
 colugo
@@ -3631,6 +3638,7 @@ copartners
 copay
 cope
 coped
+copihue
 coplanar
 copolymer
 copolymerize
@@ -3663,6 +3671,7 @@ corbels
 cordilleran
 cordlesses
 cordons
+corduroyed
 cordwains
 core
 corequisites
@@ -3853,6 +3862,7 @@ craws
 craze
 crazier
 creakiest
+creaky
 creamers
 creaming
 creampuffs
@@ -4366,6 +4376,7 @@ defect
 defection
 defections
 defectors
+defenceman
 defender
 defensed
 defenseless
@@ -4720,6 +4731,7 @@ dichotomies
 dichotomizes
 dichotomously
 dichromat
+dichromic
 dicing
 dickens
 dicker
@@ -4748,6 +4760,7 @@ differentiation
 difficulties
 diffraction
 diffractions
+diffractometer
 diffractometers
 diffuseness
 diffuser
@@ -4954,6 +4967,7 @@ displace
 displaced
 displants
 displayable
+displeasures
 disploded
 displume
 displumed
@@ -5415,6 +5429,7 @@ ecospheres
 ecoterrorism
 ecotourisms
 ecru
+ecstatic
 ectases
 ectopic
 ectype
@@ -6916,6 +6931,7 @@ fudging
 fuelers
 fuels
 fugatos
+fuggier
 fugled
 fugu
 fulcrums
@@ -7405,6 +7421,7 @@ granulates
 granule
 granulomatous
 granulosis
+granum
 grapevines
 graphemically
 graphical
@@ -8024,6 +8041,7 @@ hocks
 hocus
 hodad
 hodoscopes
+hoelike
 hog
 hogget
 hogging
@@ -8282,6 +8300,7 @@ hypercorrectly
 hypereutectoid
 hyperfine
 hypergol
+hypergolic
 hypergolically
 hypergols
 hyperinvolution
@@ -8738,6 +8757,7 @@ innocuousness
 innominate
 innovated
 innovations
+innovativeness
 innovator
 inoculation
 inoperable
@@ -9691,6 +9711,7 @@ leukoma
 leukomas
 leukoplakia
 leukopoietic
+leukorrhea
 leukotomies
 levanter
 leveling
@@ -10303,6 +10324,7 @@ meaninglessly
 meaningly
 meanness
 meantime
+measly
 measures
 meatier
 meatmen
@@ -12431,6 +12453,7 @@ paradisal
 paradise
 paradisiac
 paradropped
+paraesthesias
 paraffin
 paraglide
 paraglides
@@ -12483,6 +12506,7 @@ parodoi
 paroled
 paroling
 parols
+parotitic
 parous
 parr
 parrakeet
@@ -12545,6 +12569,7 @@ pathway
 patience
 patients
 patining
+patins
 patissier
 patissiers
 patootie
@@ -14305,6 +14330,7 @@ reaped
 reaping
 reapply
 reappropriate
+rearers
 rearmice
 rearmost
 rearouse
@@ -14399,6 +14425,7 @@ reconfirming
 reconnoiters
 reconquest
 reconsolidating
+reconstituted
 reconstructors
 reconsulting
 recontacts
@@ -15494,6 +15521,7 @@ scampish
 scandal
 scandalise
 scandalizing
+scandalous
 scandalousness
 scantiest
 scapegoat
@@ -16313,6 +16341,7 @@ smoothbores
 smoothen
 smoothens
 smothers
+smutchier
 smuttier
 snacks
 snailed
@@ -16326,6 +16355,7 @@ snapshotted
 snaring
 snarliest
 snatches
+snatching
 snathe
 snaw
 snawing
@@ -16336,6 +16366,7 @@ snedded
 sneerier
 snickersnee
 sniffier
+sniffish
 sniffishly
 sniffishness
 sniffs
@@ -16644,6 +16675,7 @@ splicers
 spline
 splined
 splines
+sploshes
 splotchy
 spodes
 spodosols
@@ -16675,6 +16707,7 @@ spotlessly
 spotlighting
 spoused
 spousing
+sprag
 sprattle
 sprattled
 sprattles
@@ -17412,6 +17445,7 @@ swillers
 swindles
 swing
 swingletrees
+swinneys
 swishers
 swishing
 swiss
@@ -18897,6 +18931,7 @@ unseasonably
 unseat
 unseeing
 unseemlier
+unseen
 unsegregated
 unsetting
 unsews
