@@ -1,0 +1,10 @@
+extendr/ci-cargo.ps1 at master - GitHub,https://github.com/extendr/extendr/blob/master/ci-cargo.ps1
+cargo-sweep/before_deploy.ps1 at master · holmgr/cargo-sweep ...,https://github.com/holmgr/cargo-sweep/blob/master/ci/before_deploy.ps1
+scripts/Windows/install_rust.ps1 1.0.170 - PowerShell Gallery,https://www.powershellgallery.com/packages/AppVeyorBYOC/1.0.170/Content/scripts%255CWindows%255Cinstall_rust.ps1
+onig 3.0.0 - Docs.rs,https://docs.rs/crate/onig/3.0.0/source/appveyor_rust_install.ps1
+_build/cargo-make.ps1 · juniper_graphql_ws-0.2.1 ... - GitCode,https://gitcode.net/mirrors/graphql-rust/juniper/-/blob/juniper_graphql_ws-0.2.1/_build/cargo-make.ps1
+"param ( [switch]$Format, [switch]$Build, [switch]$Clean, [switch ...",https://raw.githubusercontent.com/smurawski/vsts_rust_build/master/build.ps1
+"Licensed under the Apache License, Version 2.0 <LICENSE ...",https://raw.githubusercontent.com/Fireforge/rustup-powershell/master/rustup.ps1
+install.ps1 · c9af02130ef8bcc3f5c970677789e5c26fd3783a · Max ...,https://code.up8.edu/max/rustlings/-/blob/c9af02130ef8bcc3f5c970677789e5c26fd3783a/install.ps1
+rust/install.ps1 at main - rust - sseneca's gitea,https://git.ssene.ca/sseneca/rust/src/branch/main/rustlings/install.ps1
+Nushell: install-all.ps1 | Fossies,https://fossies.org/linux/nushell/install-all.ps1
