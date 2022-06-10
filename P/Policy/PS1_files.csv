@@ -1,0 +1,10 @@
+Policy/Policy.ps1 2.0.0-beta0009 - PowerShell Gallery,https://www.powershellgallery.com/packages/TfsCmdlets/2.0.0-beta0009/Content/Policy%255CPolicy.ps1
+Public/cmdb/firewall/policy.ps1 0.4.1 - PowerShell Gallery,https://www.powershellgallery.com/packages/PowerFGT/0.4.1/Content/Public%255Ccmdb%255Cfirewall%255Cpolicy.ps1
+powershell-intune-samples/DeviceConfiguration_Add_Assign.ps1 ...,https://github.com/microsoftgraph/powershell-intune-samples/blob/master/DeviceConfiguration/DeviceConfiguration_Add_Assign.ps1
+PowerFGT/policy.ps1 at master - GitHub,https://github.com/FortiPower/PowerFGT/blob/master/PowerFGT/Public/cmdb/firewall/policy.ps1
+68bbd248661a7b8f858288741d...,https://gitlab.engr.illinois.edu/engrit-epm/sccm-ts-scripts/-/blob/68bbd248661a7b8f858288741d28d288d959975a/smsts-post-action.ps1
+1ToDo/Add-DeviceConfigurationPolicy.ps1 0.2.1.1 - PowerShell ...,https://psg-prod-centralus.cloudapp.net/packages/UnofficialIntuneManagement/0.2.1.1/Content/1ToDo%255CAdd-DeviceConfigurationPolicy.ps1
+Internal/Collector/AzureAD/Get-AADPolicy.ps1 3.0.3 - PowerShell ...,https://psg-prod-centralus.cloudapp.net/packages/M365Documentation/3.0.3/Content/Internal%255CCollector%255CAzureAD%255CGet-AADPolicy.ps1
+"Set Variables: $vmhost = ""esx4.vi4book.com"" $VMotionIP = ""10.0 ...",https://cdn.ttgtmedia.com/rms/misc/configureESXi.ps1
+PolicySetup/PolicySetup.ps1 4.1.9 - PowerShell Gallery Test,https://www.poshtestgallery.com/packages/AzSKStaging/4.1.9/Content/PolicySetup%255CPolicySetup.ps1
+1e47c432f9382e4f69a88d1da57...,https://git.cas.unt.edu/posh/Initiate-ConfigMgrClientActions/-/blob/1e47c432f9382e4f69a88d1da5701a9f54efbe59/Initiate-ConfigMgrClientActions.ps1

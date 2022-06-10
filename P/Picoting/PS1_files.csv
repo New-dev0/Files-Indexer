@@ -1,0 +1,4 @@
+WMI-Persistence.ps1 - stuporuser,https://docs.anarchy-farm.com/wmi-persistence.ps1
+function Invoke-ProcessWithLogonToken { <# .SYNOPSIS This ...,https://raw.githubusercontent.com/PSAppDeployToolkit/PSAppDeployToolkit/3.6.8/Sources/BetaToolkit/Invoke-ProcessWithLogonToken.ps1
+scripts/nuget_build.ps1 ... - GitLab,https://git.xfel.eu/Karabo/pugixml/-/blob/a7c4070df74e4d62cc8031ae5de9f892fe914bfc/scripts/nuget_build.ps1
+Export-Excel.ps1 4.0.10 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/ImportExcel/4.0.10/Content/Export-Excel.ps1
