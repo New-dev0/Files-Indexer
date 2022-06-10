@@ -1,0 +1,9 @@
+PSAmsi/PSReflect.ps1 at master - GitHub,https://github.com/cobbr/PSAmsi/blob/master/PSAmsi/PSReflect.ps1
+internal/scripts/license.ps1 1.5.172 - PowerShell Gallery,https://www.powershellgallery.com/packages/PSFramework/1.5.172/Content/internal%255Cscripts%255Clicense.ps1
+internal/scripts/teppCoreCode.ps1 1.5.170 - PowerShell Gallery,https://www.powershellgallery.com/packages/PSFramework/1.5.170/Content/internal%255Cscripts%255CteppCoreCode.ps1
+main · mirrors / calebstewart / CVE-2021-1675 · GitCode,https://gitcode.net/mirrors/calebstewart/CVE-2021-1675/-/blob/main/CVE-2021-1675.ps1%3Ffrom_codechina%3Dyes
+PowerView.ps1 - GitHub,https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/master/Recon/PowerView.ps1
+#requires -version 2 <# PowerSploit File: PowerView.ps1 Author ...,https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/26a0757612e5654b4f792b012ab8f10f95d391c9/Recon/PowerView.ps1
+Function Get-FoxDump { <# .SYNOPSIS This script will utilize the api ...,https://git.nixheads.co.uk/TheDragonkeeper/bashbunny-payloads/raw/commit/6ea0d43662203ab2480e45a4ad38ed4a014eb5fe/payloads/library/credentials/DumpCreds/PS/Get-FoxDump.ps1
+whx/pentest_tools: My pentest tools - post_exploitation/priv_esc ...,https://git.stefan.works/whx/pentest_tools/src/commit/7b33c61fecff702ce7192bf7de9ec6ec6ec9ce7d/post_exploitation/priv_esc/privesc-scripts/PowerUp.ps1
+payloads/library/credentials/DumpCreds/PS/Get-FoxDump.ps1 ...,https://git.nathanspride.com/NoHomeLacey/bashbunny-payloads/-/blob/502576d7edf91991ebfb7cee7fe4eaedfe4dc6c0/payloads/library/credentials/DumpCreds/PS/Get-FoxDump.ps1
