@@ -695,6 +695,7 @@ antiforeigner
 antifriction
 antigenically
 antigun
+antihelixes
 antihero
 antihistamine
 antihistaminics
@@ -713,6 +714,7 @@ antimonic
 antimycin
 antimycins
 antinarrative
+antinodes
 antinomian
 antinomianism
 antinucleons
@@ -1172,6 +1174,7 @@ automaticities
 automobilist
 autopsied
 autoradiogram
+autotomic
 autumn
 autunites
 avant
@@ -3206,6 +3209,7 @@ clung
 clunking
 clupeids
 clustering
+clustery
 clypeate
 cnidae
 coacervations
@@ -3233,6 +3237,7 @@ coattail
 coattest
 coaxed
 coaxing
+cobaltite
 cobber
 cobbles
 cobblestones
@@ -3794,6 +3799,7 @@ cordons
 corduroyed
 cordwains
 core
+corepressors
 corequisites
 coresidents
 corgi
@@ -4448,6 +4454,7 @@ decidability
 decided
 decidua
 deciduae
+deciduate
 decile
 decimates
 deckers
@@ -5417,6 +5424,7 @@ dressy
 dribblets
 driblets
 drills
+drippiest
 drippily
 drips
 driveline
@@ -5592,6 +5600,7 @@ echoic
 echolalias
 echoviruses
 eclipser
+ecliptic
 ecocatastrophes
 ecologic
 ecological
@@ -7475,6 +7484,7 @@ gingilis
 gingkoes
 ginner
 giraffe
+giraffes
 gird
 girders
 girdled
@@ -8088,6 +8098,7 @@ headman
 headmasters
 headmistress
 headmistresses
+headquartering
 headrest
 headrooms
 headshrinker
@@ -8380,6 +8391,7 @@ homophobia
 homoplasy
 homosexually
 homozygosities
+homozygotes
 homozygous
 honda
 honeworts
@@ -8605,6 +8617,7 @@ hypha
 hyphenates
 hypnology
 hypnoses
+hypnotize
 hypocalcemias
 hypochlorites
 hypochondriacal
@@ -9275,6 +9288,7 @@ inveigles
 invention
 inventiveness
 inventivenesses
+inventress
 inventresses
 invents
 inverity
@@ -10251,6 +10265,7 @@ loincloth
 loins
 lollers
 lollipops
+lollygagged
 lollypops
 lomein
 lomeins
@@ -10593,6 +10608,7 @@ mascarpones
 masculinised
 masculinises
 masculinity
+masher
 masjids
 masochistically
 mass
@@ -10690,6 +10706,7 @@ medevacs
 mediad
 mediaeval
 medials
+median
 mediastina
 mediations
 mediatrices
@@ -12340,6 +12357,7 @@ osmol
 osmolarity
 osmometry
 osmose
+osmosis
 osmotically
 osmunda
 osmunds
@@ -13094,6 +13112,7 @@ penetrability
 penetrable
 penetrated
 penetrates
+penetrative
 penetrometers
 penicillin
 penitence
@@ -13314,6 +13333,7 @@ philtering
 philtred
 phlebotomists
 phlegmiest
+phlogiston
 phlorizin
 phlorizins
 phlyctena
@@ -13351,6 +13371,7 @@ photochromic
 photocurrent
 photocurrents
 photodiodes
+photodissociate
 photog
 photogeologic
 photogrammetry
@@ -13392,6 +13413,7 @@ physicals
 physiognomies
 physiologist
 physique
+physiqued
 physostigmine
 phytochrome
 phytoid
@@ -13546,6 +13568,7 @@ placatory
 placeboes
 placeholders
 placekickers
+placekicks
 placeman
 placements
 placentals
@@ -14163,6 +14186,7 @@ prilling
 prim
 primed
 primeness
+primer
 primeval
 primine
 primitivism
@@ -14352,6 +14376,7 @@ proxemic
 prune
 prunellos
 prussianise
+prutot
 psalming
 psalmists
 psalmodic
@@ -15683,6 +15708,7 @@ robbed
 robed
 robotism
 robustest
+robustiously
 robustiousness
 rocambole
 rockabilly
@@ -15763,6 +15789,7 @@ roundup
 rousements
 rousingly
 roustabouts
+route
 router
 routinely
 routinists
@@ -16051,6 +16078,7 @@ scandalizing
 scandalous
 scandalousness
 scantiest
+scantinesses
 scapegoat
 scare
 scareder
@@ -16756,6 +16784,7 @@ sklenting
 skoals
 skunking
 skunkweed
+skybox
 skylarks
 skyrocket
 skysail
@@ -18187,6 +18216,7 @@ tamable
 tamarind
 tamarisk
 tamboured
+tambourer
 tambourines
 tambouring
 tambur
@@ -18928,6 +18958,7 @@ trimmer
 trimmest
 trimotors
 trinary
+trindled
 trinketed
 trinocular
 triode
@@ -19053,6 +19084,7 @@ turbulently
 turfmen
 turfski
 turfskiing
+turfskiings
 turgidities
 turgors
 turistas
@@ -19126,6 +19158,7 @@ typhlitises
 typhous
 typical
 typier
+typographed
 typography
 typologists
 tyrannised
@@ -20268,6 +20301,7 @@ whities
 whitish
 whiz
 whizzy
+whoa
 whodunits
 wholesaled
 wholesome
@@ -20401,6 +20435,7 @@ woodcutting
 woodennesses
 woodenware
 woodgrains
+woodlark
 woodlarks
 woodlot
 woodpecker
