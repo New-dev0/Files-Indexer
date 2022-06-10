@@ -220,6 +220,7 @@ advancement
 adventitiously
 adventive
 adventure
+adventurist
 adverbial
 advertent
 advertisement
@@ -579,6 +580,7 @@ anchoring
 ancientries
 ancipital
 ancone
+ancresses
 androgeneses
 androgynous
 andrologies
@@ -1855,6 +1857,7 @@ bluenosed
 bluenoses
 blueprints
 blueshifts
+bluesman
 bluet
 blueweeds
 bluewood
@@ -2362,6 +2365,7 @@ callaloo
 callaloos
 callbacks
 callees
+calligraphers
 callings
 callosities
 callouses
@@ -2834,6 +2838,7 @@ checkbooks
 checkered
 checkers
 checkmarked
+checkmarking
 checkouts
 checkpoint
 checkpoints
@@ -2876,6 +2881,7 @@ chiefest
 chiefships
 childbearings
 childbed
+childbirths
 childishly
 childlessnesses
 chiliast
@@ -4576,6 +4582,7 @@ demigoddess
 demilitarize
 demilunes
 demises
+demissions
 demits
 demiurgical
 demobilize
@@ -4607,6 +4614,7 @@ denegations
 deniabilities
 deniable
 deniers
+denitrated
 denitrating
 denominates
 denouement
@@ -5746,6 +5754,7 @@ emu
 emyds
 enactors
 enalaprils
+enamellers
 enamoured
 enantiomorphism
 enatic
@@ -5778,6 +5787,7 @@ endarchies
 endeared
 endemial
 endemism
+endocardial
 endoderm
 endogenies
 endomitoses
@@ -5922,6 +5932,7 @@ eparchial
 eparchy
 ephedras
 ephedrines
+ephemeris
 ephori
 ephors
 epiblasts
@@ -5986,6 +5997,7 @@ equinox
 equipollence
 equitable
 equivocality
+equivoke
 eradiate
 eradiating
 eradicable
@@ -6158,6 +6170,7 @@ exchanging
 excide
 excisional
 excitation
+excites
 exclaim
 exclaimers
 exclave
@@ -6635,6 +6648,7 @@ fissiped
 fissural
 fistfights
 fisticuffs
+fists
 fitches
 fitchets
 fitfully
@@ -6966,6 +6980,7 @@ foxier
 foxtail
 foziness
 fozinesses
+fractionated
 fractious
 fractures
 fracturs
@@ -7590,6 +7605,7 @@ granum
 grapevines
 graphemically
 graphical
+graphitization
 graphitized
 graphs
 grapier
@@ -10216,6 +10232,7 @@ lovesicknesses
 lowballing
 lowbred
 lowercasing
+lowered
 lowlanders
 lowlifer
 lowlights
@@ -10285,6 +10302,7 @@ lymphomatoses
 lynched
 lyophilizer
 lyophilizes
+lyricise
 lysine
 lysogen
 lysosomal
@@ -10698,6 +10716,7 @@ merriness
 merrinesses
 mesclun
 mesdemoiselles
+meseems
 mesenteron
 mesically
 mesmerise
@@ -11030,6 +11049,7 @@ misspeaks
 misspell
 misstarting
 misstated
+misstopped
 misstyles
 mistaken
 mistbow
@@ -12940,6 +12960,7 @@ pellagrous
 pelleted
 pelletizer
 pelletizers
+peloric
 pelorus
 pelt
 peltation
@@ -13219,10 +13240,12 @@ photographic
 photolyze
 photomapped
 photometers
+photomontages
 photonegative
 photooxidized
 photoperiodisms
 photophases
+photoreceptors
 photoreduce
 photosensitizes
 photospheric
@@ -14332,6 +14355,7 @@ purr
 purser
 pursers
 pursiness
+pursing
 pursuances
 pursuant
 pursue
@@ -14680,6 +14704,7 @@ reattribution
 reavers
 reavows
 rebaptisms
+rebaptized
 rebegin
 rebelling
 rebirths
@@ -14746,6 +14771,7 @@ recognizer
 recognizers
 recombinant
 recombing
+recommences
 recommendatory
 recommissioning
 recompensed
@@ -15178,6 +15204,7 @@ repro
 reproaching
 reprobating
 reprobations
+reprocess
 reproducer
 reproductives
 reprovers
@@ -16356,6 +16383,7 @@ shlumpy
 shoaly
 shoat
 shocked
+shocking
 shod
 shoddies
 shoelaces
@@ -16460,6 +16488,7 @@ signalment
 signboard
 significance
 significant
+signifieds
 signifiers
 signifies
 signior
@@ -17041,6 +17070,7 @@ spins
 spinsters
 spinto
 spinulose
+spiny
 spiraled
 spiremes
 spires
@@ -17149,6 +17179,7 @@ squeezers
 squelches
 squelchy
 squiggles
+squinny
 squinters
 squintest
 squintingly
@@ -17283,6 +17314,7 @@ stereotypies
 sterigma
 sterilising
 sterilize
+sterilizers
 sternocostal
 sternutators
 sternward
@@ -17649,6 +17681,7 @@ sulfuryls
 sully
 sulphides
 sulphurise
+sultanate
 sultaness
 summand
 summands
@@ -18588,6 +18621,7 @@ traject
 tramels
 tramlines
 trammeler
+trammelers
 trampish
 tranche
 tranny
@@ -20410,6 +20444,7 @@ zeros
 zestiest
 zeugmas
 zibeline
+zidovudine
 zigzagged
 zillions
 zincky
