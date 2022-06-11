@@ -801,9 +801,11 @@ apneas
 apocalyptisms
 apochromatic
 apocopated
+apocrine
 apodosis
 apoenzymes
 apogamic
+apogeic
 apolog
 apologetics
 apologist
@@ -1752,6 +1754,7 @@ biosyntheses
 biosynthesis
 biotechnologies
 biotechnologist
+biotical
 bioturbed
 biphasic
 bipinnately
@@ -2012,6 +2015,7 @@ boskage
 bossing
 botanic
 botanica
+botanically
 botanized
 botanizer
 botanizers
@@ -2396,9 +2400,11 @@ calctufa
 calculable
 calculate
 calculation
+calculus
 calendared
 calendered
 calenders
+calendric
 calendrical
 calflike
 calicos
@@ -3856,6 +3862,7 @@ cornelian
 cornerways
 cornfield
 cornify
+corniness
 cornmeals
 corns
 corollaries
@@ -4660,6 +4667,7 @@ delightedness
 delights
 delightsome
 delimiter
+delineates
 delineations
 deliquescing
 deliverance
@@ -6981,6 +6989,7 @@ foamed
 foamflower
 focalizes
 foemen
+foes
 foetus
 fogbound
 fogdogs
@@ -7046,6 +7055,7 @@ forecasters
 forechecks
 foredate
 forefends
+forefinger
 foregathered
 foreground
 foreguts
@@ -7718,8 +7728,10 @@ goose
 gooseberries
 gorbellies
 gorditas
+gorgeousnesses
 gorm
 gormandising
+gossip
 gossippers
 gossypols
 goth
@@ -7916,6 +7928,7 @@ guayule
 guayules
 gudgeoning
 guerdons
+guesstimated
 guesstimates
 guesting
 guggles
@@ -8169,6 +8182,7 @@ haying
 haylages
 haymows
 hays
+hazarders
 hazardousness
 hazier
 haziest
@@ -8654,6 +8668,7 @@ hydrocrackings
 hydrocracks
 hydrofoil
 hydrogels
+hydrography
 hydromechanical
 hydromedusa
 hydromels
@@ -8777,6 +8792,7 @@ ignescents
 ignitability
 ignited
 ignites
+ignitors
 ignobility
 ignominiously
 ignoramuses
@@ -9073,6 +9089,7 @@ inerts
 inexcusably
 inexpedience
 inexpensive
+inexpressibly
 inextricability
 infallibility
 infancies
@@ -9311,6 +9328,7 @@ interoceptor
 interoceptors
 interparty
 interpermeating
+interphase
 interpleaded
 interpolating
 interposing
@@ -10689,6 +10707,7 @@ maplelike
 mara
 maraca
 marathoner
+marathons
 marble
 marbleizing
 marblers
@@ -11084,6 +11103,7 @@ middlers
 middlingly
 midfielder
 midis
+midlands
 midlines
 midlists
 midlives
@@ -11471,6 +11491,7 @@ monticule
 monumental
 monuments
 moods
+mooners
 moonier
 moonily
 mooninesses
@@ -12613,6 +12634,7 @@ outlined
 outliver
 outliving
 outloves
+outmaneuver
 outmarching
 outmastering
 outmasters
@@ -12866,6 +12888,7 @@ overwily
 overwithholds
 overworn
 overzeal
+ovibos
 ovicide
 oviparity
 oviposited
@@ -12995,6 +13018,7 @@ pancetta
 panchax
 pancratiums
 pandemonium
+panegyric
 panelled
 panellings
 panetella
@@ -13575,6 +13599,7 @@ physiologist
 physique
 physiqued
 physostigmine
+phytochemically
 phytochrome
 phytoid
 phytol
@@ -15800,6 +15825,7 @@ rhodomontades
 rhombencephala
 rhumb
 rhymer
+rhythmic
 rialtos
 riantly
 riatas
@@ -16268,6 +16294,7 @@ scandalise
 scandalizing
 scandalous
 scandalousness
+scansion
 scantiest
 scantinesses
 scapegoat
@@ -17549,6 +17576,7 @@ squabble
 squabs
 squad
 squadron
+squalene
 squalid
 squalider
 squamate
@@ -17773,6 +17801,7 @@ story
 storyboarded
 stoury
 stoutening
+stowable
 stowaway
 stowed
 stowing
@@ -17954,6 +17983,7 @@ subheading
 subheadings
 subheads
 subindustry
+subinfeudates
 subinfeuded
 subinfeuds
 subirrigates
@@ -18720,6 +18750,7 @@ theses
 thesp
 theurgical
 they
+thiamine
 thickenings
 thicker
 thicksets
@@ -19208,6 +19239,7 @@ tristful
 tristich
 trisulfides
 tritely
+triteness
 triter
 tritest
 tritheistical
@@ -19328,6 +19360,7 @@ turnons
 turnstiles
 turnstone
 turntable
+turnvereins
 turpentine
 turquoises
 turtleback
@@ -20407,6 +20440,7 @@ watap
 watchable
 watchdogged
 watchman
+watercooler
 watercrafts
 waterdog
 waterfalls
@@ -20488,6 +20522,7 @@ whaps
 wharfage
 wharfmasters
 wharves
+wheals
 wheatlands
 wheedled
 wheelbarrow
