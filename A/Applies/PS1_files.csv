@@ -1,0 +1,32 @@
+New-ConditionalText.ps1 5.3.2 - PowerShell Gallery,https://www.powershellgallery.com/packages/ImportExcel/5.3.2/Content/New-ConditionalText.ps1
+New-ConditionalText.ps1 5.4.5 - PowerShell Gallery,https://www.powershellgallery.com/packages/ImportExcel/5.4.5/Content/New-ConditionalText.ps1
+AaronLocker/ApplyPolicyToLocalGPO.ps1 at main · microsoft ...,https://github.com/microsoft/AaronLocker/blob/master/AaronLocker/LocalConfiguration/ApplyPolicyToLocalGPO.ps1
+libcloud/apply-patch.ps1 at trunk - GitHub,https://github.com/apache/libcloud/blob/trunk/contrib/apply-patch.ps1
+Public/Import/Import-EXOGroupPermissions.ps1 0.8.5.8,https://psg-prod-centralus.cloudapp.net/packages/Posh365/0.8.5.8/Content/Public%255CImport%255CImport-EXOGroupPermissions.ps1
+Source of apply-msi-transformation.ps1 - EESSI AS4.NET,https://ec.europa.eu/cefdigital/code/projects/EDELIVERY/repos/eessi-as4.net/browse/scripts/apply-msi-transformation.ps1%3Fat%3Dab298e5da39c2a1ce0a2cb17e8f8089207ecffd1
+IntelliFlash-Windows-Host-Validation.ps1,http://s1.tegile.com/ps/windows/IntelliFlash-Windows-Host-Validation.ps1
+Import-GPO.ps1 - OSConfig,https://osconfig.osdeploy.com/docs/untitled-1/localpolicy/import-gpo.ps1
+runbooks/apply-certificate.ps1 · master · HSL Reference Platforms ...,https://gitlab.hsl.fi/platforms/public-resources/-/blob/master/runbooks/apply-certificate.ps1
+This script uses Powershell 3.0 to organize files and folders located ...,https://content.spiceworksstatic.com/service.community/p/post_attachments/0000152154/5283ecd0/attached_file/Spiceworks-1.2.ps1
+exports/hybrid-2019-03-01/New ... - PowerShell Gallery Test,https://www.poshtestgallery.com/packages/Az.Storage/4.0.1-preview/Content/exports%255Chybrid-2019-03-01%255CNew-AzStorageAccountSASToken.ps1
+Powershell_Scripts - Gitea: Git with a cup of tea - IUT Rodez,https://git.iut-rodez.fr/andre/Powershell_Scripts/src/commit/fe0a982699c94bca68237c4922fc892cecad27ed/SCCM/RegenerateBootImageWinPE10-v7.ps1
+get-intuneConfigurationReport.ps1 · master · kwelaye-gl ... - GitLab,https://gitlab.com/kwelaye-gl/assortedFunctions/-/blob/master/get-intuneConfigurationReport.ps1
+Seznam příkazů z tutoriálu dálkařů,http://www.cs.vsb.cz/navrat/vyuka/sws/cviceni/VSB_PS_DALKARI.ps1
+knox's installable powershell configuration - knxcon.ps1 at ... - IRS,https://www.irs.sh/KNOXDEV/knox-console/src/commit/644d066babe2a93ca2d7b1a34a53cf866821632f/knxcon.ps1%3Flang%3Dde-DE
+.SYNOPSIS Starts adhoc Session Host Backups. .DESCRIPTION ...,https://raw.githubusercontent.com/Azure/RDS-Templates/master/EnableBackupScript/Start-SessionHostBackup.ps1
+this PowerShell script - GitHub,https://raw.githubusercontent.com/Azure/azure-powershell/master/src/Compute/Compute/Extension/AzureDiskEncryption/Scripts/Find_1passAdeVersion_VM.ps1
+[PS] Scaling,http://people.ee.duke.edu/~krish/teaching/scaling.ps1
+"Copyright 2017 - 2020 Chocolatey Software, Inc, and the # original ...",https://community.chocolatey.org/Install-LastPoshClient.ps1
+https://bitbucket.org/dzimchuk/azuresettingsupdate...,https://bitbucket.org/dzimchuk/azuresettingsupdatesample/src/fa1a98c1c248e7d162a1b9b0bee951fefaf03b12/TestWebRole/Startup/Apply-BindingRedirect.ps1%3Fat%3Dmaster
+w10install - Gitea,https://www.presenzeonline.it/WINDOWS/w10install/src/commit/d2cdd1274316de61d981682a3ba29cd1820c31c6/scripts/cleanup-tiles.ps1
+PowerView's last major overhaul is detailed here: http://www ...,https://git.stefan.works/whx/pentest_tools/raw/commit/edb74c88ef225321098092d50abdf1cb7f77fdb6/active_directory/powerview.ps1
+#ps1_sysnative #Requires -RunAsAdministrator #Requires -Version ...,https://download.sureviewsystems.com/SureviewPrep.ps1
+Azure Security Center Baseline Rules Windows ...,https://pimfiles.blob.core.windows.net/scripts/Set-ASCBP-RegistryPolicy.ps1
+".SYNOPSIS Applies a projection on a given data table, defined by ...",https://bitbucket.it-economics.de/users/cschaefer/repos/dataprocessingsuite/raw/Set-Projection.ps1%3Fat%3Drefs%252Fheads%252Fmain
+PowerShell: demos/DSC/dsc-demo.ps1 - Fossies,https://fossies.org/linux/PowerShell/demos/DSC/dsc-demo.ps1
+Microsoft SharePoint JavaScript Custom Actions - GitLab,https://gitlab.lsonline.fr/SharePoint/javascript-customactions/-/blob/6da229f3d1e3260cd0893d8cd608a0f145b4ee13/SharePoint.MA/SPMA.ps1
+DomainPasswordSpray.ps1 · Guuu/工具 - Gitee.com,https://gitee.com/hackergu/tool/blob/master/DomainPasswordSpray.ps1
+"param([string]$template = ""ITCS104"") ########### Adds script ...",http://169.55.124.4/repos/windows/branches/latest/scripts/itcs104.ps1
+Cisco-REST-API-PowerShell/ACSrest.ps1 at ... - vACC Ukraine GIT,https://git.vacc-ua.org/prox/Cisco-REST-API-PowerShell/src/commit/0d1b705ef33d5ff5c491b198ac147ac46027db4f/ACSrest.ps1
+Profile production apps in Azure with Application Insights Profiler,https://serviceprofiler.azurewebsites.net/content/downloads/InstallNetFx46.ps1
+Invoke-WindowsApi.ps1 · master · examples / Windows PowerShell ...,https://resources.oreilly.com/examples/9780596528492/blob/master/Invoke-WindowsApi.ps1
