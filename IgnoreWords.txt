@@ -120,6 +120,7 @@ acidifiers
 acidifies
 acidify
 acidities
+acidity
 acidophils
 acidy
 acierated
@@ -182,6 +183,7 @@ adenoviruses
 adequacies
 adherends
 adhesive
+adhesively
 adhesiveness
 adhesivenesses
 adjacencies
@@ -2036,6 +2038,7 @@ botanizer
 botanizers
 botels
 both
+bothering
 bothriums
 bottomland
 bottomlands
@@ -2301,6 +2304,7 @@ burbling
 burbly
 burgeons
 burglarized
+burgomasters
 burial
 burlesks
 burlesque
@@ -2821,6 +2825,7 @@ ceremonialism
 ceric
 cerises
 certifiable
+certifiably
 ceruloplasmins
 cessation
 cestos
@@ -3629,6 +3634,7 @@ condoners
 condoning
 condores
 conductance
+conductive
 coneflowers
 conepatls
 confab
@@ -3950,6 +3956,7 @@ coterminously
 cothurnus
 cotinga
 cotransductions
+cottager
 cottons
 cougar
 coulibiac
@@ -4943,6 +4950,7 @@ dial
 dialectically
 dialectician
 dialectics
+dialectology
 dialects
 dialled
 dialogically
@@ -6044,6 +6052,7 @@ ensorcellments
 ensphere
 ensphered
 entailers
+entasia
 entasis
 enteric
 enterocoele
@@ -6416,6 +6425,7 @@ exospore
 exoticism
 exoticist
 exoticnesses
+expanded
 expands
 expatiate
 expedience
@@ -6663,6 +6673,7 @@ febrility
 feces
 feckless
 fecula
+fecund
 fecundations
 fed
 fedayee
@@ -6858,6 +6869,7 @@ fixations
 fixed
 fixer
 fizgig
+fizzer
 fizzers
 fizziest
 fizzle
@@ -8299,6 +8311,7 @@ hegemons
 height
 heinously
 heister
+helicity
 helicoidal
 heliconia
 heliolatries
@@ -8433,6 +8446,7 @@ hiddenites
 hiddenness
 hiddennesses
 hidebound
+hideously
 hideousnesses
 hidings
 hieroglyphical
@@ -9642,6 +9656,7 @@ jargonist
 jargonistic
 jargonize
 jargoons
+jarina
 jarlsberg
 jarovized
 jarveys
@@ -9880,6 +9895,7 @@ keynote
 keynotes
 keypad
 keypunches
+khalif
 khedas
 kheth
 khets
@@ -10038,6 +10054,7 @@ ladykins
 lag
 lagging
 lagnappe
+laichs
 lairdships
 laitances
 lakeshore
@@ -10759,6 +10776,7 @@ manometries
 manse
 manslaughters
 mansuetude
+mantelet
 mantels
 mantes
 mantillas
@@ -11418,6 +11436,7 @@ miswords
 miswrit
 miswriting
 mitering
+mitiest
 mitigable
 mitigators
 mitigatory
@@ -14457,6 +14476,7 @@ preying
 priapisms
 pricily
 pricked
+prickings
 prickliness
 pricklinesses
 pricks
@@ -15435,6 +15455,7 @@ regauge
 regelate
 regelated
 regelating
+regency
 regeneracies
 regenerately
 regenerator
@@ -15561,6 +15582,7 @@ remember
 rememberable
 remembering
 remilitarizes
+reminded
 reminiscently
 remints
 remises
@@ -15857,6 +15879,7 @@ reutter
 revaccinate
 revaccinating
 revalorize
+revampers
 revarnish
 revarnishing
 reveals
@@ -16042,6 +16065,7 @@ rollways
 romanos
 romans
 romanticize
+romeos
 rondeaux
 rondos
 rooftops
@@ -16813,6 +16837,7 @@ sharifs
 sharpers
 shat
 shatter
+shaughs
 shaved
 shaven
 shavies
@@ -16824,6 +16849,7 @@ sheafs
 shears
 sheaved
 sheds
+sheen
 sheeniest
 sheeny
 sheepdog
@@ -16847,6 +16873,7 @@ shelving
 shepherdesses
 sherds
 shereef
+sheroots
 sherpas
 sherries
 sherris
@@ -17346,6 +17373,7 @@ socialize
 socializer
 socializes
 sociolinguistic
+socioreligious
 socket
 sodbusters
 soddy
@@ -18885,6 +18913,7 @@ thinnish
 thiocyanate
 thionate
 thirams
+thirsters
 thirteenths
 thirties
 thirtieths
@@ -19016,6 +19045,7 @@ titrators
 tittup
 titularly
 toad
+toadeaters
 toadfishes
 toadflaxes
 toadish
@@ -19822,6 +19852,7 @@ ungalled
 ungazing
 ungenial
 ungently
+ungirds
 ungracious
 ungraded
 unguardednesses
@@ -20045,6 +20076,7 @@ unutilized
 unuttered
 unveil
 unveiled
+unveilings
 unwarier
 unwariest
 unwed
@@ -20236,6 +20268,7 @@ vees
 vegetal
 vegetarians
 vegetates
+vegetating
 vegetative
 veggie
 vegie
@@ -20256,6 +20289,7 @@ veneered
 veneers
 venenes
 venerably
+venerations
 venerator
 venesection
 venge
@@ -20732,6 +20766,7 @@ wideout
 widowhood
 wielders
 wifelier
+wifeys
 wigeons
 wigglers
 wiggly

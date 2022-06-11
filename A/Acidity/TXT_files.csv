@@ -1,0 +1,9 @@
+Run information === Scheme:weka.classifiers.rules.JRip -F 3 -N 2.0 ...,http://d-scholarship.pitt.edu/19601/2/SuppA2_RIPPER_winequality_ICA_notrim_k%3D20_10bins.txt
+"{'""alcohol""': {0: {'""volatile acidity""': {0: {'""volatile acidity""': {0: {'""residual ...",https://github.itap.purdue.edu/wang3702/18ML_Cource/raw/master/HW1/decision_Tree/decision_tree_prun_accu_0.txt
+Apple Juice Concentrate - Agricultural Marketing Service,https://www.ams.usda.gov/mnreports/ya_fv196.txt
+156 So1L AND Crop SCIENCE SOCIETY OF FLORIDA Further ...,https://ufdcimages.uflib.ufl.edu/AA/00/06/72/43/00020/00166.txt
+TXT - National Science Foundation,https://www.nsf.gov/pubs/stis1996/tip60816/tip60816.txt
+"Atmospheric Environment Vol. 26A, No. 6, pp. 987-995, 1992. 0004 ...",https://deepblue.lib.umich.edu/bitstream/2027.42/30142/3/0000519.pdf.txt
+1126674.txt - Veterans Affairs,http://www.va.gov/vetapp11/files3/1126674.txt
+Greenland Ice Core Project,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/greenland/summit/grip/chem/gripacid.txt
+Wine Quality Info - Amazon S3,https://s3.amazonaws.com/udacity-hosted-downloads/ud651/wineQualityInfo.txt
