@@ -872,6 +872,7 @@ applecarts
 applesauces
 applicator
 applies
+appositive
 appraisers
 appraising
 apprehended
@@ -1275,6 +1276,7 @@ azines
 azotemia
 azure
 baal
+baaskaap
 baaskaps
 babassus
 babbitry
@@ -1528,6 +1530,7 @@ beckoning
 becloaks
 beclothe
 beclothed
+beclowned
 becoming
 becrawled
 bedarkened
@@ -1879,6 +1882,7 @@ blanks
 blaring
 blaspheme
 blasphemies
+blastema
 blasties
 blastiest
 blastopore
@@ -3345,6 +3349,7 @@ coamings
 coanchor
 coappears
 coaptation
+coarctations
 coarsenesses
 coarsens
 coarsest
@@ -4267,6 +4272,7 @@ crumpet
 crumply
 crumps
 crusading
+cruses
 crusets
 crushing
 cruzeiros
@@ -4789,6 +4795,7 @@ demarking
 demeanours
 dementednesses
 demerara
+demeton
 demic
 demigoddess
 demilitarize
@@ -5730,6 +5737,7 @@ dwining
 dyable
 dyadics
 dybbukim
+dyeable
 dyer
 dykes
 dynamometers
@@ -5869,6 +5877,7 @@ eggnogs
 eggshells
 ego
 egocentrically
+egocentricity
 egressions
 egrets
 eicosanoid
@@ -6153,6 +6162,7 @@ enticers
 entitle
 entitled
 entoblast
+entomb
 entombment
 entomophily
 entourages
@@ -6211,6 +6221,7 @@ epicedium
 epicene
 epicenism
 epicenters
+epicentra
 epicentrum
 epichlorohydrin
 epicontinental
@@ -6253,6 +6264,7 @@ epizootiologic
 eponyms
 epopees
 epos
+epoxidizing
 epoxy
 epsilonic
 equalizers
@@ -6422,6 +6434,7 @@ everymen
 everywhere
 evictees
 eviction
+evidenced
 eviller
 evilness
 evils
@@ -6555,6 +6568,7 @@ exquisites
 exsanguination
 exsect
 exsiccated
+exsiccation
 exstrophies
 exstrophy
 extemporally
@@ -7651,6 +7665,7 @@ gemmates
 gemmating
 gemmier
 gemmily
+gemmologies
 gemmology
 gemot
 gen
@@ -8000,6 +8015,7 @@ greek
 greenbacker
 greenbrier
 greenest
+greenfield
 greenfields
 greenfly
 greenies
@@ -8328,6 +8344,7 @@ harvesting
 harvestmen
 hashheads
 hassled
+hasty
 hatboxes
 hatchable
 hatchel
@@ -8411,6 +8428,7 @@ heathless
 heaumes
 heavyweight
 hebephrenic
+heckler
 heckles
 hectare
 hectares
@@ -9288,6 +9306,7 @@ inerrable
 inertial
 inertially
 inerts
+inexact
 inexcusably
 inexpedience
 inexpensive
@@ -9323,6 +9342,7 @@ inflating
 inflations
 inflexibility
 inflicting
+influenceable
 influents
 informality
 informants
@@ -9595,6 +9615,7 @@ intraday
 intradermally
 intranets
 intransigent
+intransigents
 intreat
 intrenching
 intrepidity
@@ -10068,6 +10089,7 @@ kilometre
 kilos
 kilty
 kimono
+kindergarteners
 kindergartners
 kindheartedly
 kindheartedness
@@ -11430,6 +11452,7 @@ mineralizable
 mineralizations
 miners
 minestrone
+miniaturization
 minicar
 minicomputer
 minifying
@@ -12326,6 +12349,7 @@ noncore
 noncritical
 noncultivation
 nondancer
+nondancers
 nondegenerate
 nondelegates
 nondeliveries
@@ -12379,6 +12403,7 @@ nonloving
 nonlyric
 nonmalignant
 nonmalleable
+nonmembers
 nonmemberships
 nonmen
 nonmetric
@@ -12834,6 +12859,7 @@ osteoblastic
 osteoclasts
 osteocyte
 ostomate
+ostraca
 ostracism
 ostracodes
 other
@@ -16624,6 +16650,7 @@ saunaed
 saurischians
 saury
 sautes
+savage
 savagenesses
 savagery
 savannah
@@ -17071,6 +17098,7 @@ shamming
 shammos
 shammosim
 shampooer
+shanghaied
 shanghaiers
 shannies
 shantytowns
@@ -17525,6 +17553,7 @@ smirch
 smirched
 smirk
 smirkers
+smite
 smiter
 smitheries
 smockings
@@ -18030,6 +18059,7 @@ stalactitic
 stalags
 stale
 stalemated
+stalwartnesses
 stalworths
 stamineal
 staminodia
@@ -19674,6 +19704,7 @@ triteness
 triter
 tritest
 tritheistical
+tritium
 tritone
 trivialised
 trivialist
@@ -20646,6 +20677,7 @@ vertigoes
 vesiculae
 vesiculation
 vespertilian
+vespiaries
 vesseled
 vested
 vestry
@@ -20909,6 +20941,7 @@ wastrie
 watap
 watchable
 watchdogged
+watches
 watchman
 watercooler
 watercrafts
@@ -20971,6 +21004,7 @@ weepies
 weevers
 weevily
 weighman
+weightiness
 weird
 weirdies
 weirdnesses
@@ -21330,6 +21364,7 @@ yawl
 yawn
 yawners
 yclept
+yeaning
 yearbook
 yeasayers
 yecch
