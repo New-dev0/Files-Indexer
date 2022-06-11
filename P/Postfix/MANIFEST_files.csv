@@ -1,0 +1,10 @@
+acpi-support-base 0.140-5 acpid 1:2.0.16-1+deb7u1 adduser 3.113 ...,http://mirrors.dotsrc.org/turnkeylinux/metadata/turnkey-lamp/13.0-wheezy-i386/turnkey-lamp-13.0-wheezy-i386.manifest
+acpid 1:2.0.7-1squeeze4 adduser 3.112+nmu2 apache2 2.2.16-6+ ...,https://mirrors.dotsrc.org/turnkeylinux/metadata/turnkey-sencha/12.0-squeeze-x86/turnkey-sencha-12.0-squeeze-x86.manifest
+Commits - nfc-rfid-reader-sdk,https://www.d-logic.com/code/nfc-rfid-reader-sdk/ufr-mf-examples-c_sharp/commits/c0275d06eb9b623822e4297ae77685599d935c35/uFR_RGB_LED_Disp/ProductionTest/bin/x64/Debug/uFR_RGB_LED_Disp.vshost.exe.manifest
+454e544a5f83337067fa4dc9f6df...,https://www.d-logic.com/code/nfc-rfid-reader-sdk/ufr-multi_readers-example-c_sharp/blob/454e544a5f83337067fa4dc9f6dfa4581c513a8d/bin/Debug/uFR_multiDLL_tester.vshost.exe.manifest
+acpi-support-base 0.142-8 acpid 1:2.0.28-1+b1 adduser 3.115 apt ...,http://releases.turnkeylinux.org/turnkey-tkldev/15.0rc1-stretch-amd64/turnkey-tkldev-15.0rc1-stretch-amd64.manifest
+adduser 3.105ubuntu1 apache2 2.2.8-1ubuntu0.11 apache2.2 ...,https://releases.turnkeylinux.org/turnkey-lamp/2009.10-hardy-x86/turnkey-lamp-2009.10-hardy-x86.manifest
+aalib1 1.4p5-22 adduser 3.59 alien 8.50 alsa-base 1.0.8-4ubuntu4 ...,http://mirrors.aliyun.com/oldubuntu-releases/releases/hoary/ubuntu-5.04-live-powerpc.manifest
+/boot /boot/grub /boot/grub/grub.cfg /boot/grub/powerpc-ieee1275 ...,https://mirrors.aliyun.com/centos-vault/8.2.2004/isos/ppc64le/CentOS-8.2.2004-ppc64le-minimal.iso.manifest
+acpid 1.0.10-5ubuntu2.1 adduser 3.112ubuntu1 apache2 2.2.14 ...,https://turnkeylinux.quantum-mirror.hu/metadata/turnkey-trac/11.0rc-lucid-x86/turnkey-trac-11.0rc-lucid-x86.manifest
+acpi-support-base 0.142-8 acpid 1:2.0.28-1+b1 adduser 3.115 ...,https://turnkeylinux.quantum-mirror.hu/metadata/turnkey-trac/15.1-stretch-amd64/turnkey-trac-15.1-stretch-amd64.manifest

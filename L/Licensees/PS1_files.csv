@@ -1,0 +1,4 @@
+qt5/06-msvc_2017_build_tools.ps1 at master · Ultimaker/qt5 - GitHub,https://github.com/Ultimaker/qt5/blob/master/coin/pre-provisioning/qtci-windows-10-x86_64/06-msvc_2017_build_tools.ps1
+qt5/msvc2015_update.ps1 at master · Ultimaker/qt5 · GitHub,https://github.com/Ultimaker/qt5/blob/master/coin/pre-provisioning/qtci-windows-10-x86/msvc2015_update.ps1
+Copyright (C) 2017 The Qt Company Ltd. ## Contact: https://www.qt ...,https://code.qt.io/cgit/qt/qt5.git/plain/coin/provisioning/common/windows/allow-remote-desktop-access.ps1
+coin/provisioning/qtci-windows-10-x86_64/25-winlibs.ps1 - Qt Code ...,https://codereview.qt-project.org/c/qt/qt5/%2B/315802/12/coin/provisioning/qtci-windows-10-x86_64/25-winlibs.ps1

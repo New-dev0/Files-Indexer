@@ -1,0 +1,2 @@
+"#Log -logPath C:\users\adam.sulik\spree.log -content ""!!! Script ...",https://raw.githubusercontent.com/asulik1988/Powershell/f6dc4a50cd5071cedffba0e5344c03995ea4b2de/NewSpreeClientWithRESTFULAPI.ps1
+"function Log($logPath, $content, $overwrite){ # If overwrite is $TRUE ...",https://raw.githubusercontent.com/asulik1988/Powershell/f6dc4a50cd5071cedffba0e5344c03995ea4b2de/Release_Promotion.ps1
