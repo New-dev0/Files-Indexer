@@ -1,0 +1,10 @@
+draft-ietf-ldapbis-syntaxes-01 - IETF Datatracker,https://datatracker.ietf.org/doc/html/draft-ietf-ldapbis-syntaxes-01.txt
+draft-ietf-ldapbis-syntaxes-07.txt,https://www.ietf.org/proceedings/59/I-D/draft-ietf-ldapbis-syntaxes-07.txt
+RFC 1488,https://www.rfc-editor.org/rfc/rfc1488.txt
+optional.md.txt - MyST Markdown,https://myst-parser.readthedocs.io/en/v0.15.1/_sources/syntax/optional.md.txt
+substitutions: key1: I'm a **substitution** key2: | ```{note} {{ key1 ...,https://myst-parser.readthedocs.io/en/v0.13.3/_sources/using/syntax-optional.md.txt
+vim/syntax.txt at master · vim/vim - GitHub,https://github.com/vim/vim/blob/master/runtime/doc/syntax.txt
+syntax_semantics_student.txt - UCSD CSE,https://cseweb.ucsd.edu/classes/sp05/cse130/lecture_notes/syntax_semantics_student.txt
+ascii - The Library of Congress,ftp://ftp.loc.gov/pub/z3950/official/part3.txt
+"Full text of ""Syntaxes Artis Mirabilis, In Libros XL. Digestae""",https://archive.org/stream/bub_gb_Rik8AAAAcAAJ/bub_gb_Rik8AAAAcAAJ_djvu.txt
+AD-Syntaxes.txt,https://ftp.samba.org/pub/unpacked/samba_next/source4/ldap_server/devdocs/AD-Syntaxes.txt

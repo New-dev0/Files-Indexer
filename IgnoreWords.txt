@@ -328,6 +328,7 @@ aiolis
 airbrushed
 airchecks
 airfields
+airflow
 airlifting
 airliner
 airpowers
@@ -891,6 +892,7 @@ arbutus
 arc
 arcana
 arced
+archaeal
 archaebacteria
 archaeologies
 archaeopteryxes
@@ -1319,6 +1321,7 @@ ballonet
 ballpark
 bally
 ballyhooing
+ballyrag
 ballyrags
 balminess
 baloney
@@ -1449,6 +1452,7 @@ beachier
 beachside
 beading
 beadings
+beadledoms
 beadroll
 beaked
 beakless
@@ -1526,6 +1530,7 @@ begladded
 beglamor
 begoggled
 begorrah
+begrime
 begrimmed
 begrudge
 beguilers
@@ -2044,6 +2049,7 @@ braceros
 brach
 brachial
 brachiating
+brachiation
 bracingly
 bracket
 bracketing
@@ -2179,6 +2185,7 @@ brusque
 brusquenesses
 brut
 brutalising
+brutalized
 brutely
 brutify
 brutishly
@@ -2576,6 +2583,7 @@ carless
 carlines
 carloads
 carnassial
+caroche
 caroches
 caroller
 carolling
@@ -2720,6 +2728,7 @@ celiacs
 celibacies
 cellar
 cellarage
+cellobiose
 cellphones
 cellular
 cellulites
@@ -3672,6 +3681,7 @@ conspirers
 constabularies
 constellating
 constituently
+constitutes
 constricts
 constructional
 constructions
@@ -6328,6 +6338,7 @@ expeditor
 expendabilities
 experimentalist
 experimentally
+experiments
 expertism
 expertness
 expiation
@@ -9431,6 +9442,7 @@ isotachs
 isotheres
 isotherm
 isothermally
+isotopically
 isotypic
 issuers
 isthmus
@@ -9612,6 +9624,7 @@ juleps
 julienned
 jumbo
 jumpers
+jumpingly
 juncoes
 juniorates
 junkyards
@@ -10397,6 +10410,7 @@ lumberjacks
 lumbricals
 luminaires
 luminance
+luminary
 luminiferous
 lummoxes
 lumpen
@@ -10835,6 +10849,7 @@ mensurations
 mental
 mentalism
 mentalist
+mentations
 mentees
 mentioned
 mentored
@@ -11013,6 +11028,7 @@ mikvos
 mil
 milages
 mildening
+mildest
 mileposts
 milesian
 milia
@@ -11528,6 +11544,7 @@ multiparty
 multipion
 multiples
 multiplexed
+multiplexor
 multiplications
 multiplicity
 multiplies
@@ -11811,6 +11828,7 @@ niches
 nickeling
 nickelous
 nicker
+nickling
 nictitant
 nictitates
 nidate
@@ -12842,6 +12860,7 @@ paintier
 pairings
 paisas
 pajama
+pajamaed
 pakeha
 paladin
 palaestra
@@ -12951,6 +12970,7 @@ paramylums
 parangs
 paranoiac
 paranoias
+paranormals
 parapeted
 paraphrase
 paraphs
@@ -13195,6 +13215,7 @@ pepperboxes
 peptid
 peptizes
 peptonizes
+perambulate
 percaline
 perceivers
 perceptional
@@ -15352,6 +15373,7 @@ rentabilities
 renunciatory
 reoccupied
 reoccur
+reoils
 reopens
 reordered
 reorientates
@@ -15816,6 +15838,7 @@ rosily
 rosiness
 rosinesses
 rosinweed
+rostrate
 rotameter
 rotates
 rotatively
@@ -15928,6 +15951,7 @@ sabal
 sabayons
 sabbats
 sabe
+sabot
 saboteur
 sabring
 saccades
@@ -16725,6 +16749,7 @@ signifieds
 signifiers
 signifies
 signior
+signiories
 silage
 sild
 silence
@@ -17084,6 +17109,7 @@ soilures
 sojourners
 sojourns
 sokol
+solanine
 solanines
 solanins
 solarium
@@ -17409,6 +17435,8 @@ squalider
 squamate
 squamates
 squamation
+squamosals
+squanderers
 squareness
 squares
 squaring
@@ -17855,6 +17883,7 @@ subshrubs
 subsiders
 subsidiarity
 subsidization
+subsidizes
 subsister
 subskill
 subsocial
@@ -17888,6 +17917,7 @@ succahs
 succeeds
 successful
 successional
+successor
 succinctly
 succours
 succubi
@@ -18129,6 +18159,7 @@ swing
 swingletrees
 swinneys
 swishers
+swishes
 swishing
 swiss
 switchbacks
@@ -18203,6 +18234,7 @@ syntactical
 syntactics
 syntagma
 syntagms
+syntaxes
 synthpop
 syphoning
 syringas
@@ -20066,6 +20098,7 @@ viscoelasticity
 viscometers
 viscounts
 viscus
+viseed
 vising
 visited
 visiting
@@ -20332,6 +20365,7 @@ whelky
 whelming
 whenever
 whey
+wheys
 whidahs
 whiffer
 whigs
@@ -20500,6 +20534,7 @@ wonkiest
 wonky
 wonted
 woo
+woodbin
 woodchoppers
 woodcutting
 woodennesses
