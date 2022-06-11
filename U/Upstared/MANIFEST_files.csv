@@ -1,0 +1,15 @@
+ubuntu-14.04.6-desktop-i386.manifest - Ubuntu Releases,https://releases.ubuntu.com/14.04/ubuntu-14.04.6-desktop-i386.manifest
+ubuntu-base-14.04.2-core-armhf.manifest,http://cdimage.ubuntu.com/ubuntu-base/releases/14.04/release/ubuntu-base-14.04.2-core-armhf.manifest
+acl 2.2.45-1 acpi 0.09-3ubuntu1 acpi-support 0.109-0hardy2 acpid ...,https://mirrors.aliyun.com/oldubuntu-releases/releases/8.04.3/ubuntu-8.04.4-desktop-amd64.manifest
+acl 2.2.45-1 acpi 0.09-3ubuntu1 acpi-support 0.109-0hardy2 acpid ...,http://repo.ugm.ac.id/iso/ubuntu/releases/kubuntu/8.04/kubuntu-8.04.2-desktop-amd64.manifest
+abiword 3.0.0-4ubuntu1.1 abiword-common 3.0.0-4ubuntu1.1 ...,http://ftp.dei.uc.pt/pub/linux/xubuntu/releases/14.04/release/xubuntu-14.04.2-desktop-i386.manifest
+acpid 1.0.10-5ubuntu2.1 adduser 3.112ubuntu1 ant 1.7.1-4ubuntu1 ...,https://mirrors.dotsrc.org/mirrors/turnkeylinux/metadata/turnkey-tomcat/11.2-lucid-x86/turnkey-tomcat-11.2-lucid-x86.manifest
+abiword 2.9.2+svn20120603-8 abiword-common 2.9.2+ ...,http://ftp.ntua.gr/mirror/GNOME/misc/ubuntu-gnome-remix/ubuntu-gnome-12.10.1-desktop-amd64.manifest
+resetter-cli/eos-0.4.1.manifest at master · gaining/resetter-cli · GitHub,https://github.com/gaining/resetter-cli/blob/master/resetter-cli/data/manifests/eos-0.4.1.manifest
+docker-ubuntu-lucid/ubuntu-lucid-core-cloudimg.manifest at master ...,https://github.com/dovyden/docker-ubuntu-lucid/blob/master/ubuntu-lucid-core-cloudimg.manifest
+abootimg 0.6-1 account-plugin-facebook 0.12+15.04.20150325~rtm ...,http://ftp.uni-kl.de/pub/linux/ubuntu-dvd/ubuntu-touch/ubuntu-rtm/14.09/daily-preinstalled/20150504/14.09-preinstalled-touch-i386.manifest
+Packages.manifest - OpenWrt Downloads,https://downloads.openwrt.org/releases/17.01.0/packages/mipsel_24kc/packages/Packages.manifest
+"Package: acl Version: 20160519-1 Depends: libc, libacl Source ...",https://downloads.openwrt.org/releases/17.01.6/packages/i386_i486/packages/Packages.manifest
+adduser 3.112ubuntu1 apt 0.7.25.3ubuntu9.3 base-files 5.0 ...,https://turnkeylinux.quantum-mirror.hu/metadata/turnkey-bootstrap/11.0rc-lucid-x86/turnkey-bootstrap-11.0rc-lucid-x86.manifest
+acpid 1.0.10-5ubuntu2.1 adduser 3.112ubuntu1 apache2 2.2.14 ...,https://turnkeylinux.quantum-mirror.hu/metadata/turnkey-trac/11.0rc-lucid-x86/turnkey-trac-11.0rc-lucid-x86.manifest
+"Package: 6tunnel Version: 0.11rc2-3 Depends: libc, libssp, libpcap ...",http://downloads.pangubox.com:6380/pandorabox/19.01/packages/mipsel_1004kc_dsp/packages/Packages.manifest

@@ -73,6 +73,7 @@ accedences
 accelerates
 accentuation
 accept
+acceptability
 acceptable
 accepter
 accessible
@@ -188,6 +189,7 @@ adhesiveness
 adhesivenesses
 adjacencies
 adjectively
+adjoins
 adjournments
 adjudge
 adjudications
@@ -491,6 +493,7 @@ amadous
 amalgamate
 amarelles
 amasser
+amassments
 amaurotic
 amaze
 ambagious
@@ -658,6 +661,7 @@ annunciate
 anodized
 anodizing
 anointer
+anomalous
 anomalously
 anomalousnesses
 anonyms
@@ -712,6 +716,7 @@ antifat
 antiforeigner
 antifriction
 antigenically
+antigraft
 antigun
 antihelixes
 antihero
@@ -2200,6 +2205,7 @@ brominated
 brominisms
 bromizes
 bronchiectases
+bronchoscopists
 bronchospasms
 broncobuster
 bronzings
@@ -2704,6 +2710,7 @@ catachresis
 cataclysm
 catalases
 catalectics
+catalepsies
 cataleptic
 catalexis
 cataloger
@@ -3613,6 +3620,7 @@ conceives
 concentrators
 conceptacles
 conceptional
+concepts
 conceptualise
 conceptualists
 conceptualized
@@ -3784,6 +3792,7 @@ continue
 continuities
 contort
 contrabands
+contrabassists
 contrabassoon
 contractibility
 contractilities
@@ -3793,6 +3802,7 @@ contraindicate
 contralateral
 contraptions
 contraries
+contrarieties
 contravene
 contredanses
 contribution
@@ -3985,6 +3995,7 @@ counterdemands
 countereffort
 counterfeiting
 counterflow
+counterinstance
 countermanded
 countermove
 counterordering
@@ -6769,6 +6780,7 @@ fiberized
 fiberizes
 fibrefill
 fibrillar
+fibrillations
 fibroblastic
 fibromatous
 fibrous
@@ -6841,6 +6853,7 @@ fireback
 fireballer
 firebombing
 firebreak
+firebreaks
 fireclay
 fireclays
 firefly
@@ -7761,6 +7774,7 @@ gobbed
 gobbet
 gobbledygook
 gobbler
+gobbles
 goblin
 gobonee
 goby
@@ -8407,6 +8421,7 @@ hermetists
 hermitic
 hermitism
 herniae
+hernias
 herniation
 heroine
 herpesviruses
@@ -9019,6 +9034,7 @@ improvisatori
 improvised
 impugn
 impugned
+impulsiveness
 imputer
 inactions
 inactive
@@ -9469,6 +9485,7 @@ intombing
 intonating
 intoxications
 intracardial
+intracity
 intracompany
 intraday
 intradermally
@@ -10436,6 +10453,7 @@ lithotomy
 litterbag
 litterbags
 litterer
+littler
 littlest
 littlish
 liturgiologist
@@ -10453,6 +10471,7 @@ loadings
 loafed
 loamless
 loams
+loamy
 loanword
 loathed
 loathes
@@ -11226,6 +11245,7 @@ midwife
 miffing
 mightily
 mightinesses
+mignonette
 migraines
 migs
 mihrabs
@@ -11704,6 +11724,7 @@ mow
 moxie
 mozos
 mozzetta
+mridangams
 mucho
 muckier
 mucoproteins
@@ -13052,6 +13073,7 @@ ozocerite
 ozokerite
 ozonations
 pablum
+pacas
 paced
 pachinko
 pachyderms
@@ -13211,6 +13233,7 @@ paramattas
 parament
 parameterizing
 parametrizes
+paramos
 paramylums
 parangs
 paranoiac
@@ -14760,6 +14783,7 @@ publisher
 pucker
 puckered
 puckish
+puddly
 pudibund
 puerperae
 puerperium
@@ -16955,6 +16979,7 @@ shopboys
 shoplifted
 shoppe
 shoran
+shore
 shorthairs
 shorthands
 shortia
@@ -17763,6 +17788,7 @@ squealers
 squeezers
 squelches
 squelchy
+squidding
 squiggles
 squinny
 squinters
@@ -18246,6 +18272,7 @@ successional
 successor
 succinctly
 succours
+succuba
 succubi
 succulent
 such
@@ -18776,6 +18803,7 @@ telome
 telomere
 telophases
 telotaxis
+temblor
 temperas
 temperate
 tempestuous
@@ -19175,6 +19203,7 @@ torso
 torsos
 torta
 tortile
+tortonis
 tortrix
 torts
 tortuosities
@@ -19275,6 +19304,7 @@ transgresses
 transhipping
 transilluminate
 transitiveness
+translated
 transliterated
 transliterates
 transmissivity
@@ -19463,6 +19493,7 @@ trump
 truncating
 truncations
 truss
+trussed
 trust
 trusted
 trustinesses
@@ -20168,6 +20199,7 @@ upshifted
 upslope
 upsoaring
 upsprings
+upstared
 upstarting
 upstroke
 upsurges
@@ -20979,6 +21011,7 @@ wreathe
 wreathy
 wreckers
 wreckful
+wrens
 wrested
 wrestle
 wrestled
@@ -21001,6 +21034,7 @@ wrongheadedly
 wrote
 wryer
 wryest
+wryneck
 wrynecks
 wulfenite
 wulfenites
@@ -21032,6 +21066,7 @@ xystoi
 yabbie
 yabby
 yacked
+yahoo
 yahoos
 yahrzeit
 yald
