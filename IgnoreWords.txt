@@ -490,6 +490,7 @@ amasser
 amaurotic
 amaze
 ambagious
+ambassadors
 amberinas
 ambidexterities
 ambient
@@ -913,6 +914,7 @@ archaizes
 archangel
 archduchy
 archeology
+archerfishes
 archfoes
 archimandrites
 archine
@@ -1742,6 +1744,7 @@ biogeographies
 biographee
 biographic
 biohazard
+biomarkers
 biomathematics
 biome
 biometers
@@ -1762,6 +1765,7 @@ biotechnologist
 biotical
 bioturbed
 biphasic
+bipinnate
 bipinnately
 bipolar
 bipolarizes
@@ -2957,6 +2961,7 @@ chicory
 chiefest
 chiefships
 chiffchaffs
+chignoned
 childbearings
 childbed
 childbirths
@@ -4162,6 +4167,7 @@ crouching
 croutons
 crowd
 crowdy
+crowers
 crowfoot
 crows
 cruces
@@ -5397,6 +5403,7 @@ doorways
 doozers
 dopamines
 dopier
+doping
 doppelganger
 dorkinesses
 dorky
@@ -5963,6 +5970,7 @@ energies
 energize
 energized
 energizers
+enervations
 enfacing
 enfever
 enflamed
@@ -6700,6 +6708,7 @@ ferrocyanides
 ferromagnetic
 ferromagnetisms
 ferromanganese
+ferrosilicons
 ferrying
 fertilenesses
 fertilizes
@@ -8807,6 +8816,7 @@ ideograms
 ideography
 ides
 idiom
+idiomatically
 idiotypes
 idle
 idler
@@ -8980,6 +8990,7 @@ inanely
 inanimatenesses
 inanities
 inapplicable
+inaptitude
 inarguably
 inarms
 inaudibly
@@ -9473,6 +9484,7 @@ inviters
 invocated
 involve
 inwall
+inwardnesses
 inwards
 inweaving
 inwove
@@ -10617,6 +10629,7 @@ madams
 maddeningly
 madmen
 madness
+maenadism
 maestosos
 mafiosos
 magazine
@@ -10767,6 +10780,7 @@ markka
 marlstone
 marmites
 marplot
+marplots
 marrers
 marsh
 marshalcies
@@ -10965,6 +10979,7 @@ memorialized
 memorised
 memorising
 memorizations
+memorizers
 menazon
 mend
 mendelevium
@@ -11524,6 +11539,7 @@ monstrosity
 montero
 montes
 monthlong
+months
 monticule
 monumental
 monuments
@@ -11584,6 +11600,7 @@ mortifies
 mortisers
 mortmain
 mosaiclike
+moseyed
 mothered
 motherhouse
 mothering
@@ -11915,6 +11932,7 @@ nephrite
 nephrites
 nephrologist
 nervier
+nesciences
 nescients
 nestle
 nestler
@@ -11948,6 +11966,7 @@ nevi
 nevus
 new
 newfangled
+newlywed
 newlyweds
 newness
 newsdealers
@@ -12010,6 +12029,7 @@ niobiums
 nip
 nippy
 nirvanic
+nitriding
 nitrification
 nitrify
 nitrobenzene
@@ -12280,6 +12300,7 @@ nylghais
 nystagmic
 oak
 oar
+oasthouses
 obdurately
 obdurateness
 obeah
@@ -12790,6 +12811,7 @@ overcrowding
 overcrowds
 overcut
 overdecorations
+overdependence
 overdeveloped
 overdeveloping
 overdosed
@@ -14115,6 +14137,7 @@ postimperial
 postin
 postiques
 postisolation
+postlaunch
 postmarital
 postmastectomy
 postmedieval
@@ -14815,6 +14838,7 @@ quadrature
 quadrics
 quadrille
 quadrillions
+quadrivalent
 quadrivalents
 quadrivial
 quadrumvir
@@ -15574,6 +15598,7 @@ repenters
 repeopling
 reperked
 repetitious
+rephotograph
 repigment
 repigmented
 repinning
@@ -16636,6 +16661,7 @@ senecios
 senhoritas
 sennight
 sennights
+sennits
 senor
 sensately
 sensating
@@ -16902,6 +16928,7 @@ sibs
 siccative
 sices
 sickening
+sickishness
 sickliest
 sickliness
 sickly
@@ -17784,6 +17811,7 @@ stereographic
 stereology
 stereophonic
 stereotactic
+stereotaxic
 stereotypical
 stereotypically
 stereotypies
@@ -18137,6 +18165,7 @@ succulent
 such
 sucker
 suckle
+sucky
 sucres
 suction
 suctional
@@ -19685,11 +19714,13 @@ understandable
 understating
 understrength
 undersurface
+undertaken
 undertakes
 undertaking
 undertint
 undertints
 undertrick
+underuse
 underused
 underweights
 underwings
@@ -19987,6 +20018,7 @@ unwariest
 unwed
 unweetingly
 unwetted
+unwhipped
 unwieldiest
 unwieldiness
 unwifely
@@ -20265,6 +20297,7 @@ vibratos
 vicarage
 vicarate
 vicariant
+vicariate
 vicarly
 vicarship
 vice
@@ -21034,7 +21067,9 @@ zootomic
 zouave
 zounds
 zwitterion
+zygosities
 zygospores
+zymases
 zymogenic
 zymogens
 zymosans
