@@ -1,0 +1,9 @@
+Get-AllowAndBlockListings.ps1 2.0.1 - PowerShell Gallery,https://www.powershellgallery.com/packages/Get-AllowAndBlockListings/2.0.1/Content/Get-AllowAndBlockListings.ps1
+Public/Vaults/Set-DSVaultUsers.ps1 2021.5.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/Devolutions.Server/2021.5.0/Content/Public%255CVaults%255CSet-DSVaultUsers.ps1
+jlouros/PowerShell-toolbox - IIS - GitHub,https://github.com/jlouros/PowerShell-toolbox/blob/master/IIS/IIS-ServerSettings-EnableOnlyKnownMimeTypes.ps1
+PowerShellUserGroups/New-UserGroupEntry.ps1 at master - GitHub,https://github.com/PowerShellOrg/PowerShellUserGroups/blob/master/New-UserGroupEntry.ps1
+Public/EOP/Add-ContentFilterPolicyDetail.ps1 0.5.4 - PowerShell ...,https://psg-prod-centralus.cloudapp.net/packages/Posh365/0.5.4/Content/Public%255CEOP%255CAdd-ContentFilterPolicyDetail.ps1
+Source of twilio_csv_to_user_consents.ps1 - tomas.madajevas ...,https://bitbucket.juvare.com/projects/POC/repos/tomas.madajevas/browse/notify/twilio_csv_to_user_consents.ps1%3Fat%3D7916a910374c142cdbb82b20bd06b8f22cecb71b
+function GetSiteUrl([string] $webUrl) { $webUrl = $webUrl.ToLower ...,https://storage.infowisesolutions.com/apps/InfowiseUltimateFormsInstallation.ps1
+"prtg citrix licensing server monitor # mar 14, 2013 # jsanders ...",https://content.spiceworksstatic.com/service.community/p/how_to_step_attachments/0000066559/535749c1/attached_file/b9af250b6ed951c8fe9cde1dfd6ff97933b358129e29f9ba46203299a10d5503_Lockstep_-_Citrix_Licensing_Monitor_-_withlookup.ps1
+ace/Implementations/crypto_aead/aceae128v1/add_mCPU/ace_16 ...,https://lab.las3.de/gitlab/lwc/candidates/blob/ef5a97bf3b4d0b740fd328a0988b8fd99a8b43e7/ace/Implementations/crypto_aead/aceae128v1/add_mCPU/ace_16/ace_16_ad_0_msg_1024/settings/ACE16.Debug.cspy.ps1

@@ -1,0 +1,10 @@
+Private/Import-CmxCollections.ps1 1.0.6 - PowerShell Gallery,https://www.powershellgallery.com/packages/CMBuild/1.0.6/Content/Private%255CImport-CmxCollections.ps1
+CfnOutput.ps1 0.8.0.4 - PowerShell Gallery,https://www.powershellgallery.com/packages/AwsCfn/0.8.0.4/Content/CfnOutput.ps1
+chocolatey/Install-ChocolateyFileAssociation.ps1 at master - GitHub,https://github.com/chocolatey-archive/chocolatey/blob/master/src/helpers/functions/Install-ChocolateyFileAssociation.ps1
+ChocolateyPackages/chocolateyInstall.ps1 at master · bcurran3 ...,https://github.com/bcurran3/ChocolateyPackages/blob/master/irfanview/tools/chocolateyInstall.ps1
+$parameters = $args[0] $subscriptionId = $parameters ...,https://raw.githubusercontent.com/microsoft/sql-server-samples/master/samples/manage/azure-sql-db-managed-instance/delegate-subnet/delegateSubnet.ps1
+Rapid Recovery 6.0 on DL Appliances User's Guide - Dell,https://www.dell.com/support/manuals/en-nz/dell-software-dl1300/dlappliance_user_guide/postexportscript.ps1%3Fguid%3Dguid-f91ce037-cb88-479a-9a49-be428b0a5399%26lang%3Den-us
+ansible2/ansible/modules/windows/win_eventlog.ps1 ... - CS@VT,https://version.cs.vt.edu/techstaff/linux-audit/-/blob/cde8721d3fb5ab8fa00c8de8db8fd694c5e0a601/ansible2/ansible/modules/windows/win_eventlog.ps1
+functions/New-SPRList.ps1 0.0.28 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/SPReplicator/0.0.28/Content/functions%255CNew-SPRList.ps1
+lib/ansible/modules/windows/win_eventlog.ps1 - Fossies,https://fossies.org/linux/ansible/lib/ansible/modules/windows/win_eventlog.ps1
+"Written by John Brearley, 2013 - 2017 # email: brearley@bell.net ...",http://www3.bell.net/brearley/public/test-apps.ps1
