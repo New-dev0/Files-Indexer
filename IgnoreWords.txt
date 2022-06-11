@@ -365,6 +365,7 @@ albumins
 alcaldes
 alchemistic
 alchemize
+alchemizes
 alcidine
 alcoholically
 aldosterone
@@ -408,6 +409,7 @@ allergy
 alleviators
 alley
 alleyway
+allheals
 alliable
 allies
 alligators
@@ -2115,6 +2117,7 @@ brighter
 brightwork
 brilliantines
 brilliants
+brimstony
 brine
 briquet
 brisked
@@ -2537,6 +2540,7 @@ carcasses
 carcels
 carcinogenic
 cardboards
+carders
 cardia
 cardinalship
 cardings
@@ -2715,6 +2719,7 @@ celestite
 celiacs
 celibacies
 cellar
+cellarage
 cellphones
 cellular
 cellulites
@@ -3147,6 +3152,7 @@ clearly
 clearwings
 clencher
 clenches
+clepes
 clerically
 clerihews
 clerkships
@@ -3383,6 +3389,7 @@ collegial
 collegiality
 collembolan
 collide
+collier
 collinsias
 collodion
 colloids
@@ -5646,6 +5653,7 @@ editors
 editorship
 editrix
 edits
+educables
 educating
 educe
 educed
@@ -5662,6 +5670,7 @@ efferents
 efficacity
 efficacy
 effluents
+effluvial
 effluviums
 effortfulnesses
 effrontery
@@ -6219,6 +6228,7 @@ evictees
 eviction
 eviller
 evilness
+evils
 evince
 eviscerates
 evolute
@@ -7627,6 +7637,7 @@ gongoristic
 goniff
 gonium
 goober
+goobers
 goof
 goofballs
 goofs
@@ -7734,6 +7745,7 @@ grecized
 grecizes
 greed
 greedily
+greek
 greenbacker
 greenbrier
 greenest
@@ -8511,6 +8523,7 @@ huddler
 huffed
 huh
 hulk
+hulked
 hulkier
 hulks
 hulled
@@ -8582,6 +8595,7 @@ hydrospaces
 hydrosphere
 hydrospheres
 hydrostatic
+hydroxyapatite
 hydroxylapatite
 hydroxylase
 hydroxylases
@@ -8753,6 +8767,7 @@ immolating
 immortally
 immovables
 immunoblots
+immunochemical
 immunochemistry
 immunodeficient
 immunologist
@@ -8922,6 +8937,7 @@ indefectibly
 indefensible
 indefinables
 indehiscences
+indelicacies
 indelicate
 indemonstrable
 indenting
@@ -9190,6 +9206,7 @@ interjectory
 interlaid
 interlarded
 interlayered
+interleave
 interlends
 interlibrary
 interlinear
@@ -9273,6 +9290,7 @@ intracardial
 intracompany
 intraday
 intradermally
+intranets
 intransigent
 intreat
 intrenching
@@ -11189,6 +11207,7 @@ misspeaks
 misspell
 misstarting
 misstated
+missteered
 misstopped
 misstyles
 mistaken
@@ -11208,6 +11227,7 @@ mistuned
 misty
 misunderstands
 miswording
+miswords
 miswrit
 miswriting
 mitering
@@ -12542,6 +12562,7 @@ outsmelt
 outsoles
 outspell
 outspread
+outsprints
 outstated
 outstrides
 outstripped
@@ -12651,6 +12672,7 @@ overingenious
 overingenuity
 overissuances
 overjoyed
+overkill
 overladen
 overlavish
 overlay
@@ -13060,6 +13082,7 @@ payrolls
 pazazzes
 peaceableness
 peacekeeper
+peacekeepers
 peached
 peachy
 peafowl
@@ -13159,6 +13182,7 @@ pentangles
 pentaploids
 pentlandites
 pentoses
+penuchi
 penuchles
 penuckle
 penults
@@ -13582,6 +13606,7 @@ pitiableness
 pittas
 piu
 pivoted
+pixieish
 pizazzes
 pizzalike
 pizzle
@@ -14194,6 +14219,7 @@ prewiring
 preworking
 prewrapped
 prewritings
+preying
 priapisms
 pricily
 pricked
@@ -14306,6 +14332,7 @@ prologues
 prolongation
 prolongations
 prolonging
+promo
 promontories
 promotable
 prompt
@@ -15244,6 +15271,7 @@ relacquered
 relapsers
 relational
 relaunder
+relaxable
 releasing
 relegating
 relending
@@ -15278,6 +15306,7 @@ remarriage
 remastered
 rematch
 rematches
+rematerializes
 remember
 rememberable
 remembering
@@ -15777,6 +15806,7 @@ rosaceas
 roscoe
 roseate
 roseately
+rosefishes
 roseries
 roseroot
 roseroots
@@ -16525,6 +16555,7 @@ shears
 sheaved
 sheds
 sheeniest
+sheeny
 sheepdog
 sheering
 sheerness
@@ -17508,6 +17539,7 @@ stemmer
 stencilling
 stencils
 stenographies
+stenography
 stenosis
 stepfathers
 stepmothers
@@ -17641,6 +17673,7 @@ strewers
 strewing
 strict
 strictest
+stridulation
 stridulations
 stridulous
 strifes
@@ -18040,6 +18073,7 @@ surra
 surrejoinder
 surrey
 surveillants
+surveying
 susceptibly
 suspect
 suspenders
@@ -20253,6 +20287,7 @@ weatherpersons
 weathers
 weavers
 web
+webcams
 webers
 webpage
 webworms
