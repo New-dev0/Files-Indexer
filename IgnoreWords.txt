@@ -291,6 +291,7 @@ agave
 agaves
 agaze
 ageisms
+ageist
 agelessnesses
 agendas
 agential
@@ -313,6 +314,7 @@ aglycons
 agnate
 agnosticisms
 agonic
+agonise
 agorot
 agouti
 agrafe
@@ -332,6 +334,7 @@ airflow
 airlifting
 airliner
 airpowers
+airproofing
 airshed
 airshows
 airspace
@@ -2498,6 +2501,7 @@ capercailzie
 capering
 capes
 capital
+capitalised
 capitalising
 capitalist
 capitols
@@ -3282,6 +3286,7 @@ cockered
 cockeyedness
 cockily
 cockleburs
+cockscomb
 cockshy
 cockspur
 cockup
@@ -4898,6 +4903,7 @@ diarchic
 diaristic
 diarrhea
 diarrheic
+diarthrosis
 diaspores
 diastemata
 diasters
@@ -5282,6 +5288,7 @@ dogdoms
 dogie
 dogleg
 doglegged
+doglegging
 doglike
 dogmatism
 dogmatize
@@ -5383,6 +5390,7 @@ downfall
 downhiller
 downlight
 downloaded
+downplays
 downrightness
 downscaled
 downshifted
@@ -6426,6 +6434,7 @@ fabber
 fables
 fabulates
 fabulously
+faces
 facete
 facetious
 facia
@@ -6556,6 +6565,7 @@ fayalite
 faying
 fazing
 feasters
+featest
 featherbrain
 featherheaded
 feathering
@@ -6859,6 +6869,7 @@ flooding
 floodlighted
 floodlighting
 floorshow
+flophouse
 flopover
 floppers
 floras
@@ -6975,6 +6986,7 @@ footstall
 footstones
 footworks
 foozler
+foozling
 fopped
 fopperies
 foppishly
@@ -8594,6 +8606,7 @@ hydrocrackings
 hydrocracks
 hydrofoil
 hydrogels
+hydromechanical
 hydromedusa
 hydromels
 hydrometer
@@ -9814,6 +9827,7 @@ knockwursts
 knop
 knops
 knots
+knower
 knowingnesses
 knuckleballs
 knucklier
@@ -10209,6 +10223,7 @@ linters
 linting
 lintols
 lionisers
+lions
 lipin
 lipins
 lipogeneses
@@ -10421,6 +10436,7 @@ lunately
 lunatic
 luncheonette
 lunches
+lunchmeat
 lunchrooms
 lunet
 lunettes
@@ -10517,6 +10533,7 @@ mainlands
 mainmasts
 maintaining
 maintenance
+maisonette
 maists
 majagua
 majaguas
@@ -10645,6 +10662,7 @@ marsh
 marshalcies
 marshaling
 marshalled
+marshalship
 marshy
 mart
 marting
@@ -11003,6 +11021,7 @@ microworlds
 mics
 micturated
 mid
+midcult
 middlebrows
 middlers
 middlingly
@@ -12889,6 +12908,7 @@ palmisters
 palmitins
 palmyra
 palominos
+palped
 palpi
 palpitated
 palsied
@@ -13216,6 +13236,7 @@ peptid
 peptizes
 peptonizes
 perambulate
+percale
 percaline
 perceivers
 perceptional
@@ -13495,6 +13516,7 @@ piaffing
 pianissimi
 pianistic
 pianists
+pianoforte
 piastre
 picadillos
 pical
@@ -14540,6 +14562,7 @@ pungs
 punishing
 punji
 punkas
+punkier
 punkinesses
 punky
 punsters
@@ -15012,6 +15035,7 @@ reconditioned
 reconferred
 reconfines
 reconfirming
+reconnection
 reconnoiters
 reconquest
 reconsolidating
@@ -16408,6 +16432,7 @@ semen
 semens
 semiangles
 semiaquatic
+semiaridities
 semiautomatics
 semicylindrical
 semideserts
@@ -16537,6 +16562,7 @@ sextile
 sexuality
 sexy
 shacklers
+shackoes
 shaddocks
 shadeless
 shadowboxed
@@ -16803,6 +16829,7 @@ sins
 sinter
 sinters
 sinuous
+sinuously
 sinusoid
 sipe
 siphon
@@ -16981,6 +17008,7 @@ smallholder
 smaragdite
 smaragdites
 smash
+smashers
 smattering
 smatterings
 smatters
@@ -17023,6 +17051,7 @@ snakiest
 snappers
 snapshot
 snapshotted
+snarers
 snaring
 snarler
 snarliest
@@ -17488,6 +17517,7 @@ stamineal
 staminodia
 staminodies
 stammerers
+stampeding
 stampless
 stamps
 standardizing
@@ -17658,6 +17688,7 @@ strabismic
 straggling
 straighter
 straightjacket
+straiten
 straitening
 straitjacketing
 strake
@@ -18108,6 +18139,7 @@ susceptibly
 suspect
 suspenders
 suspenser
+suspensions
 suspensors
 suspicious
 susurrant
@@ -18119,6 +18151,7 @@ svedberg
 svelteness
 swabbie
 swacked
+swag
 swages
 swaggeringly
 swaggers
@@ -20283,6 +20316,7 @@ waterfalls
 waterinesses
 waterlogging
 waterlogs
+waterproofness
 waterski
 waterweed
 wattled
@@ -20719,6 +20753,7 @@ yoni
 youngling
 youpon
 youthen
+youthfulness
 ytterbic
 yttrias
 yuckiness
