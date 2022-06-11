@@ -1,0 +1,9 @@
+Citrix/Show PVS audit trail.ps1 at master - GitHub,https://github.com/guyrleech/Citrix/blob/master/Show%2520PVS%2520audit%2520trail.ps1
+aws-cloudtrail-powershell/02-create-trail-cloudwatch.ps1 at master ...,https://github.com/cbttrevor/aws-cloudtrail-powershell/blob/master/07-Enable%2520Integration%2520with%2520CloudWatch%2520Logs%2520from%2520AWS%2520CloudTrail/02-create-trail-cloudwatch.ps1
+Get-SecretAudit.ps1 1.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/SecretServer/1.0/Content/Get-SecretAudit.ps1
+Public/Resource Property Types/Add ... - PowerShell Gallery,https://www.powershellgallery.com/packages/VaporShell/2.0.3/Content/Public%255CResource%2520Property%2520Types%255CAdd-VSCloudTrailTrailEventSelector.ps1
+Public/Resource Property Types/Add ... - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/VaporShell/2.2.0/Content/Public%255CResource%2520Property%2520Types%255CAdd-VSCloudTrailTrailDataResource.ps1
+Public/Administration/Get-CIAuditTrail.ps1 0.1.4 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/VMware.Cloud.Director.Community/0.1.4/Content/Public%255CAdministration%255CGet-CIAuditTrail.ps1
+examples/scripts/ConfigureRemotingForAnsible.ps1 ...,https://gitlab.loreto.ac.uk/loreto/ansible/-/blob/3a244c5533e585760c034781a0394cc529e384dd/examples/scripts/ConfigureRemotingForAnsible.ps1
+This file is part of Invoke-CradleCrafter. # # Copyright 2018 Daniel ...,https://raw.githubusercontent.com/danielbohannon/Invoke-CradleCrafter/master/Invoke-CradleCrafter.ps1
+Created: 04/03/2020 14:44:29 $jobs = @{} function ForceRegKey ...,https://raw.githubusercontent.com/DBHeise/VM_Setup/master/Everything.ps1

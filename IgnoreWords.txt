@@ -2990,6 +2990,7 @@ chestily
 chevalet
 chevying
 chewiness
+chibouque
 chic
 chicer
 chickadees
@@ -3167,6 +3168,7 @@ circumvent
 circumventions
 circumvents
 circuses
+cirrus
 cislunar
 cissies
 cistern
@@ -3653,6 +3655,7 @@ concurrently
 concuss
 condemning
 condensations
+condign
 condole
 condolence
 condolers
@@ -3762,6 +3765,7 @@ conspirator
 conspired
 conspirers
 constabularies
+constantan
 constellating
 constituently
 constitutes
@@ -3810,6 +3814,7 @@ contrabassoon
 contractibility
 contractilities
 contractual
+contradictor
 contradicts
 contraindicate
 contralateral
@@ -4746,6 +4751,7 @@ deliverance
 deliveryman
 delly
 delouses
+delusters
 delve
 demagnetization
 demagogueries
@@ -5645,6 +5651,7 @@ duennaships
 duet
 dueting
 duffel
+duits
 dulcetly
 dulcifies
 duller
@@ -6192,6 +6199,7 @@ epilimnion
 epiloguing
 epimers
 epinasties
+epineuria
 epiphyses
 epiphytologies
 epiphytology
@@ -6365,6 +6373,7 @@ evaginates
 evanescences
 evangelism
 evangelists
+evanishes
 evaporation
 evaporators
 evasively
@@ -6837,6 +6846,7 @@ filibuster
 filicide
 filigreed
 fill
+fillable
 fille
 filleting
 filling
@@ -7106,6 +7116,7 @@ folderol
 folia
 foliar
 foliations
+folklorist
 folkway
 follow
 follower
@@ -7593,6 +7604,7 @@ gelignite
 gelsemium
 geminate
 gemmate
+gemmates
 gemmating
 gemmier
 gemmily
@@ -8518,6 +8530,7 @@ highting
 hightops
 hillbilly
 hilled
+hilloas
 hilted
 hinder
 hindrance
@@ -10147,6 +10160,7 @@ laminal
 laminar
 laminating
 laminator
+lammergeiers
 lammergeyers
 lamp
 lampblack
@@ -10368,6 +10382,7 @@ libido
 librarianship
 librated
 libretti
+librettist
 libriform
 licensees
 licensures
@@ -10411,10 +10426,12 @@ likableness
 likeable
 likenesses
 likings
+lily
 limb
 limberest
 limbus
 limbuses
+limens
 limn
 limner
 limnologies
@@ -10787,6 +10804,7 @@ malfed
 malformations
 malfunction
 malfunctioning
+maligning
 mallard
 malleability
 mallee
@@ -10871,6 +10889,7 @@ maraca
 marathoner
 marathons
 marble
+marbleize
 marbleizing
 marblers
 marbly
@@ -11662,6 +11681,7 @@ monticule
 monumental
 monuments
 moods
+moolah
 mooners
 moonier
 moonily
@@ -11826,6 +11846,7 @@ multiplications
 multiplicity
 multiplies
 multiproduct
+multiscreen
 multistoried
 multisyllabic
 multitiered
@@ -12178,6 +12199,7 @@ noil
 noisemaking
 noisette
 nomads
+nombrils
 nominal
 nominalists
 nominee
@@ -12781,6 +12803,7 @@ outdressed
 outdriving
 outearned
 outeat
+outfeast
 outfence
 outfencing
 outfight
@@ -14869,6 +14892,7 @@ pumping
 pumpkins
 pumpkinseed
 pumps
+punchball
 puncher
 punchinello
 punchinellos
@@ -14966,6 +14990,7 @@ pyrosises
 pyrotechnic
 pyrotechnical
 pyroxenes
+pyroxenitic
 pyroxenoid
 pyrrole
 pyuria
@@ -15117,6 +15142,7 @@ raffinate
 rafted
 raftered
 rafting
+ragamuffin
 ragamuffins
 raggedier
 raggies
@@ -15293,6 +15319,7 @@ rebuking
 rebut
 rebutters
 recalculated
+recall
 recalls
 recanalized
 recanalizes
@@ -17975,6 +18002,7 @@ stenographies
 stenography
 stenosis
 stepfathers
+stepladder
 stepmothers
 steppes
 stepstool
@@ -18198,6 +18226,7 @@ subah
 subahdars
 suballocations
 subarctic
+subarctics
 subas
 subbasements
 subbass
@@ -19332,6 +19361,7 @@ trafficker
 trafficking
 tragicomedies
 tragus
+trail
 trailerings
 trainability
 trainee
@@ -20455,6 +20485,7 @@ verbenas
 verbicide
 verbicides
 verbiles
+verdure
 verdured
 verglas
 veridicalities
@@ -20528,6 +20559,7 @@ vignettist
 vilest
 vilifiers
 villages
+villainousness
 villanelle
 villas
 vimen
@@ -20616,6 +20648,7 @@ voltages
 voltaism
 volubly
 volumed
+volumetrically
 voluming
 voluntary
 voluntaryism
@@ -20949,6 +20982,7 @@ winnowers
 winnowing
 winoes
 wins
+winsomenesses
 winterberries
 winterberry
 winterer
@@ -21050,6 +21084,7 @@ workman
 workpiece
 workplace
 worktables
+workup
 worldbeat
 wormer
 worminesses

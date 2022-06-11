@@ -1,0 +1,10 @@
+account-plugin-aim 3.8.6-0ubuntu9.2 account-plugin-facebook 0.11 ...,http://cdimage.ubuntu.com/releases/14.04.6/release/ubuntu-14.04.5-desktop-amd64%2Bmac.manifest
+acl 2.2.45-1 acpi 0.09-3ubuntu1 acpi-support 0.109-0hardy2 acpid ...,https://mirrors.aliyun.com/oldubuntu-releases/releases/8.04.3/ubuntu-8.04.3-desktop-amd64.manifest
+abiword 2.9.2+svn20120603-8 abiword-common 2.9.2+ ...,http://ftp.ntua.gr/mirror/GNOME/misc/ubuntu-gnome-remix/ubuntu-gnome-12.10.1-desktop-amd64.manifest
+acpi-support 0.132 acpid 1.0.10-5ubuntu2 adduser 3.112ubuntu1 ...,http://ftp.twaren.net/ubuntu-dvd/kubuntu/releases/10.04/alpha-3/lucid-desktop-i386.manifest
+abiword 2.4.4-0ubuntu5 abiword-common 2.4.4-0ubuntu5 abiword ...,http://ftp.twaren.net/ubuntu-dvd/xubuntu/releases/dapper/release/xubuntu-6.06-desktop-i386.manifest
+abiword 3.0.0-4ubuntu1 abiword-common 3.0.0-4ubuntu1 abiword ...,http://ftp.dei.uc.pt/pub/linux/xubuntu/releases/14.04/release/xubuntu-14.04-desktop-amd64.manifest
+abiword 3.0.0-4ubuntu1.1 abiword-common 3.0.0-4ubuntu1.1 ...,http://ftp.dei.uc.pt/pub/linux/xubuntu/releases/14.04/release/xubuntu-14.04.2-desktop-i386.manifest
+acl 2.2.45-1 acpi 0.09-3ubuntu1 acpi-support 0.109-0hardy2 acpid ...,http://repo.ugm.ac.id/iso/ubuntu/releases/kubuntu/8.04/kubuntu-8.04.2-desktop-amd64.manifest
+turnkey-bitkey-14.2.0-jessie-amd64.manifest,https://releases.turnkeylinux.org/turnkey-bitkey/14.2.0-jessie-amd64/turnkey-bitkey-14.2.0-jessie-amd64.manifest
+Resetter/Parrot_4.7_MATE_64bit_.manifest at master - GitHub,https://github.com/gaining/Resetter/blob/master/Resetter/usr/lib/resetter/data/manifests/Parrot_4.7_MATE_64bit_.manifest
