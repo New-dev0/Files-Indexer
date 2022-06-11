@@ -1,0 +1,7 @@
+PowerSploit/Invoke-TokenManipulation.ps1 at master - GitHub,https://github.com/PowerShellMafia/PowerSploit/blob/master/Exfiltration/Invoke-TokenManipulation.ps1
+PowerShell/Invoke-ImpersonatedCommand.ps1 at master - GitHub,https://github.com/nicholasdille/PowerShell/blob/master/Impersonation/Invoke-ImpersonatedCommand.ps1
+Invoke-TokenManipulation.ps1 1.1.1 - PowerShell Gallery,https://www.powershellgallery.com/packages/HackSql/1.1.1/Content/Invoke-TokenManipulation.ps1
+scripts/Invoke-TokenManipulation.ps1 1.0.0.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/PowerUpSQL/1.0.0.0/Content/scripts%255CInvoke-TokenManipulation.ps1
+function Invoke-InternalMonologue { <# .SYNOPSIS Retrieves ...,https://raw.githubusercontent.com/paranoidninja/Pandoras-Box/master/powershell/Invoke-InternalMonologue.ps1
+#requires -version 2 <# File: PowerUpSQL.ps1 Author: Scott ...,https://raw.githubusercontent.com/S3cur3Th1sSh1t/Creds/master/PowershellScripts/PowerUpSQL.ps1
+#requires -version 2 <# PowerSploit File: PowerView.ps1 Author ...,http://www.puckiestyle.nl/ps/powerview.ps1
