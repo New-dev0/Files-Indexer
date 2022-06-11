@@ -485,6 +485,7 @@ aluminums
 alumstones
 alveolate
 amadous
+amalgamate
 amarelles
 amasser
 amaurotic
@@ -1388,6 +1389,7 @@ barhops
 barites
 baritone
 barium
+barkers
 barmaid
 barman
 barmy
@@ -1464,6 +1466,7 @@ bayberry
 bayou
 bays
 bazooka
+bazooms
 beach
 beachballs
 beachgoers
@@ -1500,6 +1503,7 @@ beckoned
 beckoning
 becloaks
 beclothe
+beclothed
 becoming
 becrawled
 bedarkened
@@ -2394,6 +2398,7 @@ caesura
 cafes
 caffeinic
 cage
+cagefuls
 cagelings
 cagiest
 caging
@@ -2600,6 +2605,7 @@ careers
 carelessly
 carer
 caressers
+caretaking
 caretakings
 carex
 cargoes
@@ -3816,6 +3822,7 @@ cookoff
 cookstove
 cookware
 cooncan
+cooperages
 cooperates
 cooperatively
 coordinators
@@ -4254,6 +4261,7 @@ cunning
 cupboard
 cupferron
 cupolas
+cuppa
 cuprous
 cuprum
 curablenesses
@@ -4999,6 +5007,7 @@ didjeridu
 didymous
 didynamy
 die
+diemaker
 dieselizing
 diesters
 diestocks
@@ -5648,6 +5657,7 @@ dysfunction
 dysgeneses
 dysgenesis
 dyskinesia
+dyslectic
 dyspepsy
 dyspeptic
 dysphagia
@@ -5777,6 +5787,7 @@ egressions
 egrets
 eicosanoid
 eide
+eiderdown
 eidos
 eigenmodes
 eight
@@ -7146,6 +7157,7 @@ fortnightlies
 fortressed
 fortune
 fortuned
+forward
 forwarding
 foscarnets
 fossicks
@@ -7271,6 +7283,7 @@ froglike
 frogman
 fronds
 frontcourt
+frontman
 frontpage
 frontpaging
 frostfish
@@ -7338,6 +7351,7 @@ funks
 funninesses
 funnymen
 furcate
+furcately
 furcraea
 furler
 furlers
@@ -8129,6 +8143,7 @@ handmaid
 handoff
 handselling
 handsful
+handshake
 handsomely
 handyperson
 hang
@@ -9030,6 +9045,7 @@ incomparable
 incompatibility
 incompatible
 inconnu
+inconnus
 inconscient
 inconsiderate
 inconsonances
@@ -9106,6 +9122,7 @@ inducer
 inducing
 inductile
 inductive
+indued
 indurations
 industrial
 industrialism
@@ -10199,6 +10216,7 @@ lekythos
 lekythus
 lenders
 lending
+lends
 lengthen
 lengthener
 leniencies
@@ -11106,6 +11124,7 @@ mickles
 micra
 microanatomies
 microbalance
+microbar
 microbial
 microbic
 microbreweries
@@ -11823,6 +11842,7 @@ nances
 nancy
 nanogram
 nanometres
+napalmed
 napalming
 naphtha
 naphthols
@@ -12413,6 +12433,7 @@ ogreish
 ogresses
 oiling
 oilman
+oilpapers
 oilskins
 older
 oldfangled
@@ -12593,6 +12614,7 @@ ossicular
 ossifying
 osteal
 osteitides
+ostensorium
 ostentations
 osteoblastic
 osteoclasts
@@ -12777,6 +12799,7 @@ ovality
 ovalness
 ovately
 ovenbird
+ovenproof
 ovens
 overachievement
 overachieving
@@ -13052,6 +13075,7 @@ paler
 palfrey
 palier
 palindromes
+palisading
 pallets
 pallid
 palling
@@ -13127,6 +13151,7 @@ paradisiac
 paradropped
 paraesthesias
 paraffin
+paraffining
 paraglide
 paraglides
 paragraphic
@@ -13783,6 +13808,7 @@ pipping
 piquances
 piquet
 piragua
+piratically
 pirojki
 piroplasmata
 piroques
@@ -13981,6 +14007,7 @@ poisonwoods
 poke
 pokeweeds
 pokiest
+poky
 polarimetric
 polariscopic
 polarises
@@ -15896,6 +15923,7 @@ rhodium
 rhododendrons
 rhodomontades
 rhombencephala
+rhomboidal
 rhumb
 rhymer
 rhythmic
@@ -17416,6 +17444,7 @@ sorrier
 sorrowfulness
 sortied
 soteriology
+soubrettes
 souchongs
 soudan
 soughed
@@ -17595,6 +17624,7 @@ splotchy
 spodes
 spodosols
 spondylitises
+sponge
 sponsal
 sponsorship
 spontaneities
@@ -18287,6 +18317,7 @@ superrealisms
 superromantic
 supersecrecies
 supersecrecy
+supersedeas
 supersedes
 supersell
 supersessions
@@ -18932,6 +18963,7 @@ tiddler
 tided
 tidemarks
 tiderips
+tides
 tidiest
 tiebreaks
 tieless
@@ -20116,6 +20148,7 @@ vacant
 vacate
 vaccinas
 vaccinia
+vacillate
 vacillators
 vagabond
 vagabondism
@@ -20567,6 +20600,7 @@ waxable
 waxwings
 waxwork
 wayfarings
+waypoint
 waywardnesses
 wazoos
 weakliest
@@ -21001,6 +21035,7 @@ yuppiedoms
 yuppieish
 yuppified
 zacaton
+zaffars
 zaikais
 zamindar
 zamindaris

@@ -1,0 +1,9 @@
+poky/bitbake-user-manual-fetching.xml at master · Xilinx/poky · GitHub,https://github.com/Xilinx/poky/blob/master/bitbake/doc/bitbake-user-manual/bitbake-user-manual-fetching.xml
+poky/bitbake-user-manual.xml at morty · nedap/poky - GitHub,https://github.com/nedap/poky/blob/morty/bitbake/doc/bitbake-user-manual/bitbake-user-manual.xml
+Introduction What is Poky? Poky is an open source platform build ...,https://git.yoctoproject.org/poky/plain/handbook/introduction.xml%3Fh%3D1.1_M1%26id%3D90208115c07a0e8c4cbffce0a846db920619c7c2
+Using Poky - Yocto git,https://git.yoctoproject.org/poky/plain/handbook/usingpoky.xml%3Fh%3Dpurple
+handbook/usingpoky.xml ... - GitLab,https://git.congatec.com/yocto-1-5/poky/-/blob/1d52fa5269da078a0be23fcbee42e76c5328b919/handbook/usingpoky.xml
+documentation/dev-manual/dev-manual-common-tasks.xml ... - GitLab,https://git.congatec.com/yocto-1-5/poky/blob/ba9fc8aaf3597fb4ea128cb965d973f3ee831550/documentation/dev-manual/dev-manual-common-tasks.xml
+poky/documentation/ref-manual/ref-devtool-reference.xml ...,https://gerrit.openbmc-project.xyz/plugins/gitiles/openbmc/openbmc/%2B/79641f25e882b55af6a647cfc0bf6bcc025661a5/poky/documentation/ref-manual/ref-devtool-reference.xml
+import-layers/yocto-poky/documentation/ref-manual/ref-features.xml ...,https://gerrit.openbmc-project.xyz/plugins/gitiles/openbmc/openbmc/%2B/3c4c45d1e9a2324191a8640b22df1b71f15f3037/import-layers/yocto-poky/documentation/ref-manual/ref-features.xml
+yocto-poky/documentation/ref-manual/migration.xml - OpenBMC Gerrit,https://gerrit.openbmc.org/plugins/gitiles/openbmc/openbmc/%2B/3445365503e1e4d5601acf7c05609cc9673ec414/yocto-poky/documentation/ref-manual/migration.xml

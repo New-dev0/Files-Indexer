@@ -1,0 +1,2 @@
+linux-libc-headers aarch64-poky-linux 5.0 libgcc aarch64-poky-linux ...,https://165.227.188.234/yocto/yocto/yocto-2.7.4/toolchain/x86_64/poky-glibc-x86_64-core-image-minimal-aarch64-qemuarm64-toolchain-ext-2.7.4.target.manifest
+glibc core2-64-poky-linux 2.29 binutils-cross-x86_64 x86_64-poky ...,https://165.227.188.234/yocto/yocto/yocto-2.7.1/toolchain/x86_64/poky-glibc-x86_64-core-image-minimal-core2-64-qemux86-64-toolchain-ext-2.7.1.target.manifest
