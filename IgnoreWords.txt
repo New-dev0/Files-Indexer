@@ -941,6 +941,7 @@ arbored
 arboretums
 arborist
 arborize
+arbors
 arbutus
 arc
 arcana
@@ -1023,6 +1024,7 @@ arsenides
 arshins
 arsino
 artefacts
+artels
 arteriolar
 artfulnesses
 arthralgias
@@ -1806,6 +1808,7 @@ binged
 bingers
 binomially
 bins
+bioacoustics
 bioassay
 biodegradations
 biodegrades
@@ -2884,6 +2887,7 @@ cavorts
 caymans
 cayuse
 caziques
+ceasefires
 cecum
 cedarbird
 cedary
@@ -3640,6 +3644,7 @@ comaking
 comal
 comanaged
 combatant
+combativeness
 combativenesses
 combatting
 combed
@@ -5094,6 +5099,7 @@ detached
 detachedness
 detachment
 detachments
+detailednesses
 detaining
 detect
 detection
@@ -5331,6 +5337,7 @@ dipterans
 dipterocarp
 directedness
 directer
+directives
 director
 directorate
 directories
@@ -5458,6 +5465,7 @@ dislocate
 dislodgements
 dislodges
 dismasting
+disobliges
 disorderedness
 disownments
 dispart
@@ -5512,6 +5520,7 @@ disserting
 disserviceable
 disses
 disseverances
+dissimilated
 dissimilatory
 dissimulation
 dissimulators
@@ -5553,6 +5562,7 @@ divebombing
 diversifiers
 diversifies
 diversity
+diverted
 divertimentos
 diverting
 divests
@@ -5851,6 +5861,7 @@ duet
 dueting
 duffel
 duits
+dukedoms
 dulcetly
 dulcifies
 duller
@@ -6185,6 +6196,7 @@ emits
 emoting
 emotionalists
 emotionalize
+emotionlessness
 empaneled
 empathizing
 emphasis
@@ -6795,6 +6807,7 @@ extractor
 extraditable
 extraditing
 extragalactic
+extralimital
 extrapyramidal
 extravagance
 extravagancy
@@ -7807,6 +7820,7 @@ gargantuan
 gargety
 gargled
 gargoyles
+garigues
 garlic
 garlickier
 garlicky
@@ -8160,6 +8174,7 @@ gowaned
 gowns
 grabbing
 gracefullest
+gracile
 graded
 graduated
 graduations
@@ -9307,6 +9322,7 @@ immaculately
 immanent
 immaterialists
 immaterializes
+immersible
 immersion
 immeshes
 immeshing
@@ -9431,12 +9447,14 @@ inarguably
 inarms
 inaudibly
 inauspiciously
+inbound
 inbreeders
 inburst
 incalculable
 incandescent
 incanted
 incapacitate
+incapacitation
 incarcerations
 incaution
 incautions
@@ -9786,6 +9804,7 @@ interindividual
 interinvolving
 interiorise
 interjectory
+interknitting
 interlaid
 interlarded
 interlayered
@@ -10031,6 +10050,7 @@ isotachs
 isotheres
 isotherm
 isothermally
+isotopic
 isotopically
 isotypic
 isozymic
@@ -10201,6 +10221,7 @@ juddered
 judgmatical
 judgment
 judicial
+judicious
 judoists
 judoka
 jughead
@@ -10809,6 +10830,7 @@ limberest
 limbus
 limbuses
 limens
+limina
 limn
 limner
 limnologies
@@ -12186,6 +12208,7 @@ mounded
 mountaintops
 mountebankeries
 mounted
+mounter
 mountings
 mourned
 mourning
@@ -12939,6 +12962,7 @@ obsessions
 obsessors
 obstetricians
 obstinatenesses
+obstructionism
 obstructions
 obstruent
 obtundents
@@ -14074,6 +14098,7 @@ perimorph
 perimorphs
 perinatally
 perinea
+perineuria
 periodontology
 peripetia
 peripetias
@@ -14855,6 +14880,7 @@ pourable
 pouring
 poussetted
 pouters
+powdered
 powderers
 power
 poxes
@@ -15594,6 +15620,7 @@ quintessences
 quintins
 quints
 quintuplet
+quipster
 quire
 quires
 quitch
@@ -15981,6 +16008,7 @@ redintegration
 redirected
 redis
 rediscounted
+rediscover
 rediscovered
 redistributions
 redlined
@@ -16507,6 +16535,7 @@ retextured
 retexturing
 rethinkers
 rethreaded
+reticulate
 reticulately
 reticulation
 reticulum
@@ -18008,6 +18037,7 @@ snailed
 snake
 snakebites
 snakefishes
+snakes
 snakiest
 snappers
 snapshot
@@ -18980,6 +19010,7 @@ suctional
 sudaries
 sudations
 sudsier
+suers
 sues
 sufflates
 suffocation
@@ -21004,6 +21035,7 @@ utterance
 uvarovite
 uvulars
 uxoriously
+uxoriousnesses
 vacant
 vacate
 vaccinas
@@ -21314,6 +21346,7 @@ voguer
 voguers
 voicefulness
 voiceover
+volante
 volatilizations
 volatilizes
 volcanologists
@@ -21689,6 +21722,7 @@ wiselier
 wisest
 wishes
 wishfulnesses
+wishless
 wisp
 wisping
 wisps
@@ -21975,6 +22009,7 @@ zibeline
 zidovudine
 zigzagged
 zillions
+zincking
 zincky
 zincy
 zine

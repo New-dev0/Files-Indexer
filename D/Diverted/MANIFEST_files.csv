@@ -1,0 +1,4 @@
+Packages.manifest - OpenWRT,https://archive.openwrt.org/releases/17.01.0/packages/arm_cortex-a15_neon-vfpv4/telephony/Packages.manifest
+Package: asterisk11-app-alarmreceiver Version: 11.22.0-3 Depends ...,https://archive.openwrt.org/releases/packages-17.01/x86_64/telephony/Packages.manifest
+goodbyedpi.exe.manifest - b4tman.ru,https://gitea.b4tman.ru/mirrors/goodbyedpi/src/commit/1e8835cfe5dacc80f8cd6a21ca75a3d234f7e5b9/goodbyedpi.exe.manifest
+"Package: 6tunnel Version: 0.11rc2-3 Depends: libc, libssp, libpcap ...",http://downloads.pangubox.com:6380/pandorabox/19.01/packages/mipsel_1004kc_dsp/packages/Packages.manifest

@@ -1,0 +1,5 @@
+Public/Create-RootCA.ps1 1.1.2 - PowerShell Gallery,https://www.powershellgallery.com/packages/MiniLab/1.1.2/Content/Public%255CCreate-RootCA.ps1
+Public/New-RootCA.ps1 0.9.9 - PowerShell Gallery,https://www.powershellgallery.com/packages/MiniLab/0.9.9/Content/Public%255CNew-RootCA.ps1
+MyPublicWork/DiscoverFilterImport.ps1 at master · Mesverrum ...,https://github.com/Mesverrum/MyPublicWork/blob/master/DiscoverFilterImport.ps1
+misc-powershell/New-SubordinateCA.ps1 at master - GitHub,https://github.com/pldmgg/misc-powershell/blob/master/MyFunctions/New-SubordinateCA.ps1
+Function ExecCommand($command) { $r = [regex]::match ...,https://raw.githubusercontent.com/crowbar/crowbar-core/44d0178cc2bb44b6c9c52c4facca6a439c53bcc1/chef/cookbooks/provisioner/files/default/crowbar_join.ps1
