@@ -1,0 +1,10 @@
+lubuntu-18.04.5-desktop-i386.manifest - Ubuntu CDimage,https://cdimage.ubuntu.com/lubuntu/releases/18.04/release/lubuntu-18.04.5-desktop-i386.manifest
+xubuntu-18.04.5-desktop-amd64.manifest - Ubuntu CDimage,https://cdimage.ubuntu.com/xubuntu/releases/18.04/release/xubuntu-18.04.5-desktop-amd64.manifest
+accountsservice 0.6.40-2ubuntu11.3 acl 2.2.52-3 acpi-support 0.142 ...,http://ftp.dei.uc.pt/pub/linux/xubuntu/releases/16.04/release/xubuntu-16.04.2-desktop-i386.manifest
+accountsservice 0.6.15-2ubuntu9 acl 2.2.51-5ubuntu1 activity-log ...,https://mirrors.aliyun.com/oldubuntu-releases/releases/12.04.4/ubuntu-12.04-preinstalled-desktop-armhf%2Bmx5.manifest
+resetter-cli/eos-0.4.1.manifest at master · gaining/resetter-cli · GitHub,https://github.com/gaining/resetter-cli/blob/master/resetter-cli/data/manifests/eos-0.4.1.manifest
+accountsservice 0.6.55-3ubuntu6 acl 2.3.1-1 acpi-support 0.143 ...,http://ftp.uni-kl.de/pub/linux/ubuntu-dvd/daily-canary/current/jammy-desktop-canary-amd64.manifest
+accountsservice 0.6.55-0ubuntu12~20.04.5 acl 2.2.53-6 acpi ...,http://ftp.jaist.ac.jp/pub/Linux/ubuntu-cdimage/focal/daily-live/current/focal-desktop-amd64%2Bintel-iot.manifest
+abiword 2.9.2+svn20120603-8 abiword-common 2.9.2+ ...,http://ftp.ntua.gr/mirror/GNOME/misc/ubuntu-gnome-remix/ubuntu-gnome-12.10.1-desktop-amd64.manifest
+CentOS-Stream-8-aarch64-latest-dvd1.iso.manifest - Nexril,http://mirror.dal.nexril.net/centos/8-stream/isos/aarch64/CentOS-Stream-8-aarch64-latest-dvd1.iso.manifest
+accountsservice 0.6.55-0ubuntu12~20.04.5 acl 2.2.53-6 acpi ...,https://mirror.steadfast.net/ubuntu-releases/20.04/ubuntu-20.04.4-desktop-amd64.manifest
