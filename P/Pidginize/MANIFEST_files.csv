@@ -1,0 +1,10 @@
+xubuntu-16.04.6-desktop-amd64.manifest - Ubuntu CDimage,http://cdimage.ubuntu.com/xubuntu/releases/16.04/release/xubuntu-16.04.6-desktop-amd64.manifest
+xubuntu-18.04.5-desktop-i386.manifest - Ubuntu CDimage,http://cdimage.ubuntu.com/xubuntu/releases/18.04/release/xubuntu-18.04.5-desktop-i386.manifest
+accountsservice 0.6.40-2ubuntu11.3 acl 2.2.52-3 acpi-support 0.142 ...,http://ftp.uni-kl.de/pub/linux/ubuntu-dvd/xubuntu/releases/16.04/release/xubuntu-16.04.6-desktop-i386.manifest
+acl 2.2.45-1 acpi 0.09-3ubuntu1 acpi-support 0.109-0hardy2 acpid ...,https://mirrors.aliyun.com/oldubuntu-releases/releases/8.04.3/ubuntu-8.04.4-desktop-amd64.manifest
+acl 2.2.45-1 acpi 0.09-3ubuntu1 acpi-support 0.109 acpid 1.0.4 ...,https://mirrors.aliyun.com/oldubuntu-releases/releases/8.04.3/ubuntu-8.04.1-desktop-i386.manifest
+acl 2.2.47-2 adduser 3.110ubuntu5 alacarte 0.11.10-0ubuntu1 alsa ...,http://ftp.twaren.net/ubuntu-dvd/ports/releases/9.04/release/ubuntu-9.04-desktop-powerpc.manifest
+acl 2.2.47-2 acpi 1.1-1ubuntu1 acpi-support 0.114 acpid 1.0.6 ...,https://mirrors.xtom.ee/ubuntu-old-releases/releases/intrepid/ubuntu-8.10-desktop-i386.manifest
+CentOS-Stream-8-x86_64-latest-dvd1.iso.manifest - Nexril,http://mirror.dal.nexril.net/centos/8-stream/isos/x86_64/CentOS-Stream-8-x86_64-latest-dvd1.iso.manifest
+abiword 3.0.0-4ubuntu1 abiword-common 3.0.0-4ubuntu1 ...,http://repo.ugm.ac.id/iso/lubuntu/14.04.3/release/lubuntu-14.04-desktop-powerpc.manifest
+abiword 3.0.0-4ubuntu1 abiword-common 3.0.0-4ubuntu1 ...,http://repo.ugm.ac.id/iso/lubuntu/14.04/release/lubuntu-14.04.1-desktop-powerpc.manifest

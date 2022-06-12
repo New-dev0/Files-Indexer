@@ -479,6 +479,7 @@ alodia
 aloft
 aloofly
 alpenglow
+alphabet
 alphanumerical
 alphas
 alphosis
@@ -554,6 +555,7 @@ amoebas
 amoks
 amorist
 amorously
+amorousnesses
 amorphism
 amortizes
 amortizing
@@ -1768,6 +1770,7 @@ biddability
 bidding
 bidi
 bidirectional
+bield
 biennium
 bifacially
 biffing
@@ -2163,6 +2166,7 @@ bounds
 bountied
 bounties
 bourgs
+bourrides
 bouzoukia
 bovine
 bowdlerised
@@ -3103,6 +3107,7 @@ cheloid
 chelonian
 chemisms
 chemoautotrophy
+chemoreceptor
 chemosorbed
 cheongsams
 chequers
@@ -3804,6 +3809,7 @@ conchologists
 concierge
 conciliar
 conciliators
+concisenesses
 concluding
 concourses
 concretisms
@@ -3924,6 +3930,7 @@ consign
 consisted
 consistences
 consolation
+consonant
 consortia
 conspirational
 conspirator
@@ -4205,6 +4212,7 @@ counterprotest
 counterpunching
 counterreaction
 countersigning
+countersink
 countersinking
 counterspy
 countersue
@@ -4458,6 +4466,7 @@ crystalloid
 cuatros
 cubbyhole
 cubicities
+cuboid
 cuddler
 cue
 cueing
@@ -4782,6 +4791,7 @@ decentres
 decentring
 deceptional
 deceptiveness
+decerned
 dechlorination
 decidability
 decided
@@ -5281,6 +5291,7 @@ didymous
 didynamy
 die
 diemaker
+dieoff
 dieselizing
 diesters
 diestocks
@@ -6049,6 +6060,7 @@ ecstatic
 ectases
 ectopic
 ectype
+ecumenically
 ecumenicism
 ecumenicity
 ecumenism
@@ -6616,6 +6628,7 @@ etcher
 eternal
 eternalizing
 eternalness
+eternals
 eterne
 eternised
 eternities
@@ -7155,6 +7168,7 @@ fieldfare
 fiend
 fiendishness
 fiercer
+fieriest
 fieriness
 fiery
 fifes
@@ -7393,6 +7407,7 @@ fluidity
 fluidization
 flukiness
 fluking
+fluky
 flummeries
 flung
 fluoresce
@@ -7780,6 +7795,7 @@ furtively
 furuncle
 furuncles
 fusees
+fusibility
 fusibly
 fusil
 fusillading
@@ -8182,6 +8198,7 @@ gobonee
 goby
 goddamndest
 goddamned
+goddams
 godlessly
 godlily
 godmothering
@@ -10123,6 +10140,7 @@ isotachs
 isotheres
 isotherm
 isothermally
+isotone
 isotopic
 isotopically
 isotypic
@@ -10291,6 +10309,7 @@ jubilate
 jubilating
 jubile
 juddered
+judgement
 judgmatical
 judgment
 judicial
@@ -10550,6 +10569,7 @@ krone
 krummhorns
 kuchen
 kudzus
+kukri
 kultur
 kummel
 kurbash
@@ -11833,6 +11853,7 @@ milkless
 milkmaid
 milkwort
 mill
+millage
 millefiori
 millennialisms
 millennium
@@ -12290,6 +12311,7 @@ moufflons
 moujik
 moulages
 moulded
+moundbirds
 mounded
 mountaintops
 mountebankeries
@@ -13729,6 +13751,7 @@ oxygenate
 oxygenated
 oxygenations
 oxygenic
+oxymoronically
 oxyphiles
 oystercatcher
 oysters
@@ -14183,6 +14206,7 @@ percolated
 percussing
 percussiveness
 perdie
+perdurably
 perdy
 perennated
 perennial
@@ -14347,6 +14371,7 @@ phi
 philanthropoids
 philanthropy
 philatelically
+philhellenisms
 philhellenists
 philistinisms
 philologists
@@ -14490,6 +14515,7 @@ picture
 pictured
 picturesque
 piddled
+pidginize
 pie
 piece
 piefort
@@ -14752,6 +14778,7 @@ podium
 podocarp
 podsols
 podzolizations
+poeticize
 poetised
 poetize
 poetized
@@ -14816,6 +14843,7 @@ poltroonery
 polyandry
 polybutadiene
 polycarbonates
+polychaete
 polychetes
 polychromy
 polydactyly
@@ -15293,6 +15321,7 @@ privies
 privity
 prizefighters
 prizefights
+proa
 proactions
 probabilist
 probationally
@@ -16686,6 +16715,7 @@ retractility
 retraction
 retransferring
 retransfers
+retread
 retrials
 retributory
 retroaction
@@ -17324,6 +17354,7 @@ scholium
 schoolman
 schoolmaster
 schoolwork
+schottisches
 schticks
 schuss
 sciatica
@@ -19980,6 +20011,7 @@ timberlines
 timbrel
 timelessness
 timeliness
+timing
 timorously
 timpani
 tincted
@@ -20964,6 +20996,7 @@ unmourned
 unmovable
 unmoved
 unmuffle
+unmuffling
 unnails
 unnaturalness
 unorganized
@@ -21380,6 +21413,7 @@ versts
 verticality
 verticillate
 vertigoes
+verts
 vesiculae
 vesiculation
 vespertilian
@@ -21445,6 +21479,7 @@ vined
 vinegarish
 vineyard
 vinosity
+vinous
 violoncellists
 viols
 vireonines
