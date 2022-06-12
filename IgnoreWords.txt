@@ -96,6 +96,7 @@ accordance
 accorded
 accountant
 accountants
+accreditations
 accredited
 accruable
 accruals
@@ -810,6 +811,7 @@ apathetic
 apatosaur
 apertures
 apetalous
+aphasics
 aphis
 aphonics
 aphorises
@@ -979,6 +981,7 @@ armrest
 armrests
 aroids
 aromas
+aromatherapies
 aromatization
 aromatizations
 arose
@@ -1879,6 +1882,7 @@ blanker
 blanketflower
 blanketlike
 blanks
+blare
 blaring
 blaspheme
 blasphemies
@@ -1903,6 +1907,7 @@ blesbuck
 bless
 blessedly
 blimy
+blinkard
 blissfully
 blithesome
 blitzkrieg
@@ -2227,6 +2232,7 @@ broidered
 brokenhearted
 brokenness
 broker
+brokers
 bromated
 bromating
 brominated
@@ -2661,6 +2667,7 @@ caribou
 caricatured
 caricatures
 caricaturist
+carillonned
 carillonneur
 carillonneurs
 carillons
@@ -4481,6 +4488,7 @@ daffodils
 dafter
 daggas
 daggerlike
+daggers
 dagoes
 dah
 dahabiah
@@ -4857,6 +4865,7 @@ deodara
 deodaras
 deoxidizes
 departing
+departs
 dependabilities
 dependability
 dependance
@@ -5852,6 +5861,7 @@ effacing
 effector
 effectuating
 effectuation
+effectuations
 effeminacy
 efferents
 efficacity
@@ -6006,6 +6016,7 @@ emigrations
 eminently
 emirates
 emissaries
+emissary
 emits
 emoting
 emotionalists
@@ -6418,6 +6429,7 @@ euxenite
 evacuates
 evacuator
 evaginates
+evaluate
 evanescences
 evangelism
 evangelists
@@ -7317,6 +7329,7 @@ fractionated
 fractious
 fractures
 fracturs
+fragmentally
 fragmentary
 fragmentating
 fragmenting
@@ -8060,6 +8073,7 @@ grizzlers
 grizzles
 grizzlier
 grocery
+grody
 groin
 grommeting
 groovier
@@ -9183,6 +9197,7 @@ incautiously
 incentive
 incentivized
 incentivizes
+incepted
 inceptive
 inchoateness
 inchoatives
@@ -9738,6 +9753,7 @@ islander
 isle
 isled
 isoantigen
+isoantigenic
 isocaloric
 isocarboxazid
 isochimes
@@ -10067,6 +10083,7 @@ khoums
 kiaugh
 kibbe
 kibbi
+kibbis
 kibbitzing
 kibe
 kick
@@ -10490,6 +10507,7 @@ lier
 lifeguarded
 lifeless
 lifelikenesses
+lifemanship
 lifesaving
 lifesavings
 lifespans
@@ -10890,6 +10908,7 @@ maleficences
 malemiut
 malenesses
 malfeasance
+malfeasances
 malfed
 malformations
 malfunction
@@ -11245,6 +11264,7 @@ meridians
 meringues
 merited
 merlin
+merls
 meromorphic
 meropic
 merrily
@@ -11262,6 +11282,7 @@ mesne
 mesocarp
 mesons
 mesophyllic
+mesoscale
 mesozoan
 messiah
 mestizoes
@@ -11418,6 +11439,7 @@ milkless
 milkmaid
 milkwort
 mill
+millefiori
 millennialisms
 millennium
 millepede
@@ -11448,6 +11470,7 @@ minacity
 minces
 mincier
 minciest
+mind
 mineralizable
 mineralizations
 miners
@@ -11850,6 +11873,7 @@ motorcar
 motorcyclist
 motorising
 motorization
+motorize
 motorizing
 mott
 mottling
@@ -12097,6 +12121,7 @@ natures
 naumachies
 nausea
 nauseatingly
+nauseous
 nauseously
 nautch
 nautches
@@ -12110,6 +12135,7 @@ nay
 nazification
 neap
 nears
+nearshore
 neats
 nebulose
 nebulosities
@@ -14941,6 +14967,7 @@ psalmodies
 psalms
 psalter
 psephite
+psephites
 pseudomorphism
 pseudopregnant
 pseudorandom
@@ -15813,6 +15840,7 @@ reliers
 reliever
 relievers
 religionless
+religiosity
 relinking
 reliquefies
 reliques
@@ -18167,6 +18195,7 @@ sterigma
 sterilising
 sterilize
 sterilizers
+stern
 sternocostal
 sternutators
 sternward
@@ -18208,6 +18237,7 @@ stogey
 stoked
 stokehold
 stolidest
+stollens
 stomachaches
 stomaching
 stomachs
@@ -18935,6 +18965,7 @@ tankless
 tannages
 tantalates
 tantalizing
+tantrism
 tanuki
 tanzanite
 tao
@@ -19306,6 +19337,7 @@ tikes
 tilaks
 tiling
 tiltrotor
+tilts
 timbales
 timberline
 timberlines
@@ -19653,6 +19685,7 @@ trident
 trienes
 triennials
 triers
+tries
 trifled
 trifocals
 trifold
@@ -20762,6 +20795,7 @@ viscounts
 viscus
 viseed
 vising
+visionally
 visited
 visiting
 visored
@@ -20804,6 +20838,7 @@ vogueings
 voguer
 voguers
 voicefulness
+voiceover
 volatilizations
 volatilizes
 volcanologists

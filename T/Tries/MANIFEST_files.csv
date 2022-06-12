@@ -1,0 +1,12 @@
+inqlude-data/qtkeychain.2014-09-01.manifest at master - GitHub,https://github.com/cornelius/inqlude-data/blob/master/qtkeychain/qtkeychain.2014-09-01.manifest
+examples/high-availability/kube-scheduler.manifest ...,https://gitlab.cncf.ci/kubernetes/kubernetes/blob/b15a5ae8deefa2605ee7d0bc86192a97059aba45/examples/high-availability/kube-scheduler.manifest
+.shadow-cljs/jar-manifest/google-closure-library-third-party ... - GitLab,https://git.inonit.no/achim/rn-cljs-interop/-/blob/20b321e70b38edf93d71299b06bd2d2e600c648a/.shadow-cljs/jar-manifest/google-closure-library-third-party-0.0-20201211-3e6c510d.jar.edcb415db3c88ada448cfbf65b021f12c7b131e9.manifest
+Packages.manifest - OpenWRT,https://archive.openwrt.org/releases/19.07.2/packages/mipsel_74kc/base/Packages.manifest
+"Package: 464xlat Version: 12 Depends: libc, kmod-nat46, ip Source ...",https://downloads.openwrt.org/releases/19.07.7/packages/aarch64_cortex-a53/base/Packages.manifest
+Java Examples for java.util.jar.Manifest - Javatips.net,https://www.javatips.net/api/java.util.jar.manifest
+"Package: acl Version: 20160519-1 Depends: libc, libacl Source ...",http://www.markur.dk/releases/17.01.4/packages/powerpc_464fp/packages/Packages.manifest
+"Package: 6in4 Version: 25-1 Depends: libc, kmod-sit, uclient-fetch ...",http://www.markur.dk/releases/18.06.4/packages/arm_cortex-a9_vfpv3/base/Packages.manifest
+Package: UDPspeeder Version: 20210116.0-2 Depends: libc ...,https://mirrors.aliyun.com/openwrt/releases/21.02.1/packages/mipsel_74kc/packages/Packages.manifest
+"Package: 6in4 Version: 25-1 Depends: libc, kmod-sit, uclient-fetch ...",https://usingpro.com/releases/18.06.0-rc1/packages/arm_mpcore_vfp/base/Packages.manifest
+Packages.manifest - PandoraBox,http://downloads.pangubox.com:6380/pandorabox/19.02/packages/mipsel_1004kc_dsp/base/Packages.manifest
+"Package: UDPspeeder Version: 20210116.0-3 Depends: libc, librt ...",https://downloads.lede-project.org/snapshots/packages/arc_archs/packages/Packages.manifest
