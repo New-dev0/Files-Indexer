@@ -1,0 +1,9 @@
+Manifest of the start-up - elodees,https://elodees.com/EN.Manifest
+Package: base-files Version: 192-r7258-5eb055306f Depends: libc ...,https://downloads.openwrt.org/releases/18.06.1/targets/ramips/mt7620/packages/Packages.manifest
+Package: base-files Version: 173.6-r4030-6028f00df0 Depends: libc ...,https://archive.openwrt.org/releases/17.01.7/targets/ar71xx/nand/packages/Packages.manifest
+Package: kmod-3c59x Version: 5.10.82-1 Depends: kernel (=5.10 ...,https://mgmt.saar.freifunk.net/openwrt/snapshots/targets/bcm27xx/bcm2711/kmods/5.10.82-1-cae79ca9e99fa6837d4a3aefc9768088/Packages.manifest
+Package: kmod-3c59x Version: 5.4.124-1 Depends: kernel (=5.4 ...,https://mirrors.chapro.xyz/openwrt/releases/21.02.0-rc3/targets/x86/geode/kmods/5.4.124-1-37bf630c92eb2972d47619a871fb3405/Packages.manifest
+Package: base-files Version: 204.2-r11257-5090152ae3 Depends ...,https://www.qtest.cc/releases/19.07.5/targets/x86/64/packages/Packages.manifest
+Package: base-files Version: 173-r3435-65eec8bd5f Depends: libc ...,https://qtest.cc/releases/17.01.2/targets/x86/generic/packages/Packages.manifest
+Package: base-files Version: 204.2-r11257-5090152ae3 Depends ...,https://usingpro.com/releases/19.07.5/targets/arc770/generic/packages/Packages.manifest
+Package: base-files Version: 1463-r18673-b21bc3479d Depends ...,https://downloads.asu.aparcar.org/selinux/targtes/bcm47xx/mips74k/packages/Packages.manifest

@@ -1,0 +1,15 @@
+accountsservice 22.07.5-2ubuntu1 acl 2.3.1-1 acpi-support 0.143 ...,https://releases.ubuntu.com/22.04/ubuntu-22.04-beta-desktop-amd64.manifest
+xubuntu-18.04.5-desktop-amd64.manifest - Ubuntu CDimage,https://cdimage.ubuntu.com/xubuntu/releases/18.04/release/xubuntu-18.04.5-desktop-amd64.manifest
+acl 2.2.45-1 acpi 0.09-3ubuntu1 acpi-support 0.109-0hardy2 acpid ...,https://mirrors.aliyun.com/oldubuntu-releases/releases/8.04.3/ubuntu-8.04.3-desktop-amd64.manifest
+accountsservice 0.6.15-2ubuntu9 acl 2.2.51-5ubuntu1 activity-log ...,https://mirrors.aliyun.com/oldubuntu-releases/releases/12.04.4/ubuntu-12.04-preinstalled-desktop-armhf%2Bmx5.manifest
+abiword 2.4.4-0ubuntu5 abiword-common 2.4.4-0ubuntu5 abiword ...,http://ftp.twaren.net/ubuntu-dvd/xubuntu/releases/dapper/release/xubuntu-6.06-desktop-powerpc.manifest
+accountsservice 0.6.40-2ubuntu11.3 acl 2.2.52-3 acpi-support 0.142 ...,http://ftp.uni-kl.de/pub/linux/ubuntu-dvd/xubuntu/releases/16.04/release/xubuntu-16.04.6-desktop-i386.manifest
+Packages.manifest - OpenWrt Downloads,https://downloads.openwrt.org/releases/19.07.7/packages/mips64_octeonplus/routing/Packages.manifest
+resetter-cli/eos-0.4.1.manifest at master · gaining/resetter-cli · GitHub,https://github.com/gaining/resetter-cli/blob/master/resetter-cli/data/manifests/eos-0.4.1.manifest
+abiword 2.9.2+svn20120603-8 abiword-common 2.9.2+ ...,http://ftp.ntua.gr/mirror/GNOME/misc/ubuntu-gnome-remix/ubuntu-gnome-12.10.1-desktop-amd64.manifest
+acl 2.2.45-1 acpi 0.09-3ubuntu1 acpi-support 0.109-0hardy2 acpid ...,http://repo.ugm.ac.id/iso/ubuntu/releases/kubuntu/8.04/kubuntu-8.04.2-desktop-amd64.manifest
+turnkey-bitkey-14.2.0-jessie-amd64.manifest,https://releases.turnkeylinux.org/turnkey-bitkey/14.2.0-jessie-amd64/turnkey-bitkey-14.2.0-jessie-amd64.manifest
+"Package: 6tunnel Version: 0.11rc2-3 Depends: libc, libssp, libpcap ...",http://downloads.pangubox.com:6380/pandorabox/19.01/packages/mipsel_1004kc_dsp/packages/Packages.manifest
+ubuntu-5.10-live-i386.manifest,https://mirrors.xtom.ee/ubuntu-old-releases/releases/breezy/ubuntu-5.10-live-i386.manifest
+"Package: arptables-nft Version: 1.8.7-6 Depends: libc, kmod-nft-arp ...",https://downloads.lede-project.org/snapshots/targets/x86/generic/packages/Packages.manifest
+"Package: acl Version: 20180121-1 Depends: libc, libacl Source ...",https://usingpro.com/releases/packages-18.06/mips_24kc/packages/Packages.manifest
