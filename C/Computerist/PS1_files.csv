@@ -1,0 +1,1 @@
+[Console]::OutputEncoding = [System.Text.Encoding]::GetEncoding ...,https://raw.githubusercontent.com/JoelGMSec/AutoRDPwn/master/Resources/Languages/German.ps1
