@@ -1,0 +1,8 @@
+Public/Close-ExcelPackage.ps1 7.0.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/ImportExcel/7.0.0/Content/Public%255CClose-ExcelPackage.ps1
+psPAS/Close-PASSession.ps1 at master - GitHub,https://github.com/pspete/psPAS/blob/master/psPAS/Functions/Authentication/Close-PASSession.ps1
+Functions/Authentication/Close-PASSession.ps1 3.2.34,https://psg-prod-centralus.cloudapp.net/packages/psPAS/3.2.34/Content/Functions%255CAuthentication%255CClose-PASSession.ps1
+internal/Close-AzsAlert.ps1 0.9.1-preview - PowerShell Gallery Test,https://www.poshtestgallery.com/packages/Azs.Infrastructureinsights.Admin/0.9.1-preview/Content/internal%255CClose-AzsAlert.ps1
+here - Synology,https://global.download.synology.com/download/Addons/MailPlus/ExchangeConfigExport.ps1
+param( [parameter(Mandatory=$true)] [ValidateNotNullOrEmpty ...,https://support.delphix.com/%40api/deki/files/1302/getMsiVersion.ps1%3Frevision%3D1
+cipd.ps1 - chromium/tools/depot_tools.git - Git at Google,https://chromium.googlesource.com/chromium/tools/depot_tools.git/%2B/refs/heads/chrome/3865/cipd.ps1
+.DESCRIPTION Onboards the Kubernetes cluster hosted outside ...,https://raw.githubusercontent.com/microsoft/OMS-docker/ci_feature/docs/hybrid/onboarding_azuremonitor_for_containers.ps1
