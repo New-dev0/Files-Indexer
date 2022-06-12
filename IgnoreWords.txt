@@ -147,6 +147,7 @@ acrodont
 acrogens
 acrolith
 acropetal
+acrophobia
 acrosomal
 acrosomes
 acrostics
@@ -423,6 +424,7 @@ alkyds
 allantois
 allee
 allegorize
+allegretto
 allergenic
 allergins
 allergy
@@ -517,6 +519,7 @@ ambipolar
 ambitiousnesses
 amblygonites
 ambroids
+ambry
 ambulating
 ambulators
 ambulatory
@@ -701,6 +704,7 @@ antecede
 anteceded
 anteceding
 antecessors
+anted
 antediluvian
 antefixal
 anteverts
@@ -1524,6 +1528,7 @@ beachballs
 beachgoers
 beachier
 beachside
+beadiest
 beading
 beadings
 beadledoms
@@ -1557,6 +1562,7 @@ bechamels
 beckoned
 beckoning
 becloaks
+beclogs
 beclothe
 beclothed
 beclowned
@@ -2350,6 +2356,7 @@ buggering
 bugle
 bugler
 buhlwork
+buhr
 build
 builds
 buildups
@@ -2538,6 +2545,7 @@ callbacks
 callees
 calligraphers
 callings
+calloses
 callosities
 callouses
 callousing
@@ -2940,6 +2948,7 @@ cerises
 certifiable
 certifiably
 ceruloplasmins
+ceruminous
 cessation
 cestos
 cetaceous
@@ -4608,6 +4617,7 @@ daledh
 dales
 dalmatics
 daltons
+damageabilities
 damaging
 damans
 damascene
@@ -4833,6 +4843,7 @@ defleaed
 deflecting
 deflector
 defloration
+deflowering
 deflowers
 defoamed
 defocus
@@ -6091,6 +6102,7 @@ elegising
 elegizing
 elegy
 element
+elenchic
 elephantine
 eleventh
 elevons
@@ -6337,6 +6349,7 @@ entomophily
 entourages
 entozoan
 entozoans
+entrainment
 entranceways
 entrapment
 entrapping
@@ -6579,6 +6592,7 @@ euphonies
 euphoniousness
 euphuistically
 euryokies
+eurytopic
 eustasy
 eustele
 eutaxy
@@ -7469,6 +7483,7 @@ formulator
 formulators
 fornicates
 forsooth
+forsworn
 fort
 forthrightly
 fortified
@@ -7815,6 +7830,7 @@ gasogenes
 gassiest
 gassinesses
 gastight
+gastnesses
 gastrectomies
 gastroscopist
 gastroscopy
@@ -8655,6 +8671,7 @@ heckler
 heckles
 hectare
 hectares
+hectoliter
 hectors
 hedgehops
 hedgepig
@@ -8826,6 +8843,7 @@ hightops
 hillbilly
 hilled
 hilloas
+hillslope
 hilted
 hinder
 hindrance
@@ -8978,6 +8996,7 @@ hopsacking
 hopsacks
 hopscotched
 hoptoad
+hordein
 horehound
 horn
 hornbooks
@@ -10329,6 +10348,7 @@ kibbitzing
 kibe
 kick
 kickboxed
+kickier
 kicky
 kiddo
 kidnaper
@@ -13140,6 +13160,7 @@ origamis
 orinasals
 orismology
 ornamentally
+ornamentation
 ornaments
 ornery
 ornithine
@@ -13965,6 +13986,7 @@ pelorus
 pelt
 peltation
 pemolines
+pemphixes
 penal
 penalise
 pencel
@@ -14354,6 +14376,7 @@ piglets
 pigmies
 pignolis
 pigouts
+pigpen
 pigpens
 pigsney
 pikes
@@ -15652,6 +15675,7 @@ railer
 railheads
 raillery
 railways
+rainbands
 rainbirds
 raininess
 rainless
@@ -15944,6 +15968,7 @@ redeployed
 redeployments
 redepositing
 redhorse
+redial
 redialing
 redictating
 redigesting
@@ -16016,6 +16041,7 @@ reestablishment
 reeve
 reeving
 reexecuted
+reexhibiting
 reexhibits
 reexplains
 reexport
@@ -16474,6 +16500,7 @@ retear
 retempered
 retems
 retentions
+retentiveness
 retestified
 retestify
 retextured
@@ -16554,6 +16581,7 @@ revivified
 revivifies
 revolute
 revolutionaries
+revulsive
 revving
 rewan
 rewaxed
@@ -17501,6 +17529,7 @@ sharecrops
 sharias
 sharifs
 sharpers
+sharpies
 shat
 shatter
 shaughs
@@ -18046,6 +18075,7 @@ sobbingly
 soberer
 soberest
 sobering
+sobersidedness
 sobs
 soca
 socager
@@ -18982,6 +19012,7 @@ sulphides
 sulphurise
 sultanate
 sultaness
+sulu
 summand
 summands
 summarist
@@ -20587,6 +20618,7 @@ undissociated
 undistributed
 undivided
 undock
+undocking
 undoers
 undogmatic
 undogmatically
@@ -21678,6 +21710,7 @@ wizes
 wobbler
 wobbles
 woful
+wofuller
 wolfberry
 wolfishly
 wolflike
@@ -21862,6 +21895,7 @@ yellowthroat
 yelper
 yenta
 yente
+yeoman
 yeomen
 yerked
 yes
@@ -21974,6 +22008,7 @@ zoophyte
 zooplanktons
 zoosterol
 zootomic
+zootomist
 zouave
 zounds
 zwitterion
