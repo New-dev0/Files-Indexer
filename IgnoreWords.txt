@@ -581,6 +581,7 @@ amus
 amygdales
 amygdule
 amylases
+amylenes
 amyloidosis
 amyloids
 amyloplasts
@@ -3436,6 +3437,7 @@ clustery
 clypeate
 cnidae
 coacervations
+coadjutor
 coadmire
 coadmits
 coagulability
@@ -4112,6 +4114,7 @@ corrosion
 corrosive
 corruptions
 corruptnesses
+corsage
 corsair
 corsetiere
 corsetieres
@@ -4810,6 +4813,7 @@ deduction
 deeding
 deedy
 deepest
+deepfreezes
 deerhounds
 deerskin
 deerstalker
@@ -5124,6 +5128,7 @@ deterioration
 determent
 determines
 deterministic
+detestable
 dethatching
 detours
 detoxicated
@@ -5285,6 +5290,7 @@ digressively
 dihedral
 dikdiks
 dilation
+dilatometer
 dilatometers
 dilatoriness
 dilatorinesses
@@ -5383,6 +5389,7 @@ disassociated
 disassociations
 disaster
 disavow
+disbanding
 disbelieves
 disbosom
 disbound
@@ -6558,6 +6565,7 @@ espiegleries
 essayer
 essentialities
 essentialnesses
+establish
 establishment
 estaminets
 estates
@@ -6680,6 +6688,7 @@ exchanging
 excide
 excisional
 excitation
+excitatory
 excites
 exclaim
 exclaimers
@@ -8038,6 +8047,7 @@ glamorised
 glamorizations
 glamorized
 glamorizers
+glamorizes
 glamorousness
 glandular
 glandules
@@ -8069,6 +8079,7 @@ glidepath
 gliders
 glint
 glintiest
+glisten
 glitter
 gloater
 gloaters
@@ -8266,6 +8277,7 @@ gravure
 grayback
 graylag
 grayouts
+grazable
 grazier
 grazings
 greaseball
@@ -8376,6 +8388,7 @@ guaiacols
 guanabanas
 guanacos
 guaranies
+guaranty
 guarddog
 guardedly
 guardedness
@@ -9866,6 +9879,7 @@ interpleaded
 interpolating
 interposing
 interpretable
+interpretations
 interpupillary
 interrelated
 interrelating
@@ -10862,6 +10876,7 @@ limpest
 limpet
 limpidnesses
 limpsiest
+limulus
 limy
 linage
 linden
@@ -11479,6 +11494,7 @@ mediations
 mediatrices
 medicaments
 medicate
+medicates
 medication
 medicine
 medico
@@ -12544,6 +12560,7 @@ neophytes
 neoprenes
 neorealisms
 neorealistic
+neostigmines
 neotenic
 neotropic
 nepeta
@@ -12752,6 +12769,7 @@ noneducational
 nonego
 nonelections
 nonenergy
+nonethnic
 nonets
 nonevidences
 nonexempts
@@ -12993,8 +13011,10 @@ obtundents
 obturate
 obturates
 obturations
+obtuser
 obtusity
 obverting
+occidentalizing
 occidentally
 occiputs
 occluding
@@ -13084,6 +13104,7 @@ omber
 ombre
 ombres
 omelets
+omits
 omitters
 omitting
 omnicompetences
@@ -14674,6 +14695,7 @@ podzolizations
 poetised
 poetize
 poetized
+poetless
 pogonips
 pogroming
 pogromist
@@ -15815,6 +15837,7 @@ rawhided
 rawin
 rayah
 razees
+razers
 razzamatazz
 razzberry
 razzmatazz
@@ -16559,6 +16582,7 @@ retentions
 retentiveness
 retestified
 retestify
+retexture
 retextured
 retexturing
 rethinkers
@@ -16612,6 +16636,7 @@ revalorize
 revampers
 revarnish
 revarnishing
+reveal
 reveals
 revehent
 revelation
@@ -17189,6 +17214,7 @@ scaur
 scaurs
 scavengers
 scavenging
+scenas
 scenical
 scepter
 schadenfreudes
@@ -17247,6 +17273,7 @@ scorches
 scorecard
 scored
 scorekeepers
+scorifies
 scorned
 scornfully
 scorpaenid
@@ -17710,6 +17737,7 @@ shrewishly
 shrewmouse
 shrieked
 shriller
+shrillnesses
 shrimps
 shrining
 shrink
@@ -17859,6 +17887,7 @@ sittings
 situate
 situses
 sixteens
+sixty
 siziness
 sizzler
 skaldship
@@ -17945,6 +17974,7 @@ sleek
 sleekness
 sleeky
 sleepiest
+sleepings
 sleepyheads
 sleeting
 slenderizes
@@ -19225,6 +19255,7 @@ surrejoinder
 surrey
 surveillants
 surveying
+survivers
 susceptibly
 suspect
 suspenders
@@ -19381,6 +19412,7 @@ tableaus
 tablecloths
 tabled
 tablemate
+tables
 tabooing
 tabulable
 tacamahac
@@ -19745,6 +19777,7 @@ thinnesses
 thinnish
 thiocyanate
 thionate
+thionine
 thirams
 thirsters
 thirteenths
@@ -20976,6 +21009,7 @@ unwieldiest
 unwieldiness
 unwifely
 unwinding
+unwisdoms
 unwise
 unwiser
 unworldlier
@@ -21489,6 +21523,7 @@ wannigan
 wannigans
 wanting
 wardenries
+warding
 wareroom
 warfares
 wariness
