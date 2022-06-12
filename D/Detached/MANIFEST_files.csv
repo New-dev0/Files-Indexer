@@ -1,0 +1,7 @@
+asio/boost_asio.manifest at master · chriskohlhoff/asio - GitHub,https://github.com/chriskohlhoff/asio/blob/master/asio/boost_asio.manifest
+asio/asio.manifest at master · chriskohlhoff/asio - GitHub,https://github.com/chriskohlhoff/asio/blob/master/asio/asio.manifest
+Packages.manifest - OpenWRT,https://archive.openwrt.org/releases/19.07.2/packages/mipsel_74kc/base/Packages.manifest
+Packages.manifest - OpenWrt Downloads,https://downloads.openwrt.org/releases/packages-19.07/mips_24kc/base/Packages.manifest
+Packages.manifest - PandoraBox,http://downloads.pangubox.com:6380/pandorabox/19.02/packages/mipsel_1004kc_dsp/base/Packages.manifest
+"Package: 6tunnel Version: 0.11rc2-3 Depends: libc, libssp, libpcap ...",http://downloads.pangubox.com:6380/pandorabox/19.01/packages/mipsel_1004kc_dsp/packages/Packages.manifest
+"Package: 464xlat Version: 12 Depends: libc, kmod-nat46, ip Source ...",https://usingpro.com/snapshots/packages/mips_24kc/base/Packages.manifest
