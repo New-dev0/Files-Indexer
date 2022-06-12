@@ -1,0 +1,4 @@
+Packages.manifest - OpenWRT,https://archive.openwrt.org/releases/packages-19.07/mips64_octeonplus/telephony/Packages.manifest
+Package: UDPspeeder Version: 20210116.0-2 Depends: libc ...,http://46.137.236.134/releases/21.02.0-rc3/packages/arm_cortex-a9/packages/Packages.manifest
+"Package: 6tunnel Version: 0.11rc2-3 Depends: libc, libssp, libpcap ...",http://downloads.pangubox.com:6380/pandorabox/19.01/packages/mipsel_1004kc_dsp/packages/Packages.manifest
+"Package: UDPspeeder Version: 20210116.0-3 Depends: libc, librt ...",https://downloads.lede-project.org/snapshots/packages/arc_archs/packages/Packages.manifest
