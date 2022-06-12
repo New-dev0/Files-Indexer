@@ -1,0 +1,7 @@
+functions/configuration/Import-PSFConfig.ps1 0.10.30.165,https://www.powershellgallery.com/packages/PSFramework/0.10.30.165/Content/functions%255Cconfiguration%255CImport-PSFConfig.ps1
+functions/configuration/Import-DbatoolsConfig.ps1 0.9.802,https://www.powershellgallery.com/packages/dbatools/0.9.802/Content/functions%255Cconfiguration%255CImport-DbatoolsConfig.ps1
+playtime-random-game/RandomGame.ps1 at master · viperdc ...,https://github.com/viperdc/playtime-random-game/blob/master/RandomGame.ps1
+VM_Setup/Everything.ps1 at master - GitHub,https://github.com/DBHeise/VM_Setup/blob/master/Everything.ps1
+Rock-Paper-Scissors.ps1 #> [CmdletBinding()] Param ( [Parameter ...,https://raw.githubusercontent.com/auberginehill/rock-paper-scissors/master/Rock-Paper-Scissors.ps1
+functions/configuration/Import-DbatoolsConfig.ps1 0.9.731,https://www.powershellgallery.com/packages/dbatools/0.9.731/Content/functions%255Cconfiguration%255CImport-DbatoolsConfig.ps1
+Created: 04/03/2020 14:44:29 $jobs = @{} function ForceRegKey ...,https://raw.githubusercontent.com/DBHeise/VM_Setup/master/Everything.ps1
