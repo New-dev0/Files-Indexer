@@ -1,0 +1,7 @@
+Set-RegDWord.ps1 1.0.0.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/PSRemoteRegistry/1.0.0.0/Content/Set-RegDWord.ps1
+Set-RegQWord.ps1 1.0.0.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/PSRemoteRegistry/1.0.0.0/Content/Set-RegQWord.ps1
+SysToolsLib/ShadowCopy.ps1 at master - PowerShell - GitHub,https://github.com/JFLarvoire/SysToolsLib/blob/master/PowerShell/ShadowCopy.ps1
+functions/Set-DbaSpn.ps1 0.9.329 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/dbatools/0.9.329/Content/functions%255CSet-DbaSpn.ps1
+functions/Remove-DbaSpn.ps1 0.9.385 - PowerShell Gallery,https://40.87.85.101/packages/dbatools/0.9.385/Content/functions%255CRemove-DbaSpn.ps1
+Get-Windows10LockScreenWallpapers.ps1 # Credit: robledosm ...,https://raw.githubusercontent.com/auberginehill/get-windows-10-lock-screen-wallpapers/master/Get-Windows10LockScreenWallpapers.ps1
+Java-Update.ps1 Please Note: - It's assumed that a 64-bit Java is ...,https://raw.githubusercontent.com/auberginehill/java-update/master/Java-Update.ps1

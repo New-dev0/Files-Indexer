@@ -90,6 +90,7 @@ accommodating
 accommodation
 accommodational
 accommodator
+accompanies
 accompaniment
 accompanists
 accomplishments
@@ -865,6 +866,7 @@ apostrophizes
 apothece
 app
 appalled
+appallingly
 appaloosas
 appanage
 apparel
@@ -1423,6 +1425,7 @@ bannering
 bannocks
 banquette
 banshie
+banter
 banzai
 baptismal
 baptismally
@@ -2026,6 +2029,7 @@ bog
 bogginesses
 bogusness
 bogwoods
+boheas
 bohemia
 bohemianisms
 bohemias
@@ -2270,6 +2274,7 @@ broach
 broadbill
 broadcasted
 broadened
+broadener
 broadening
 broadleaves
 broadly
@@ -3312,12 +3317,14 @@ cladodes
 cladogram
 clads
 clag
+clairaudience
 clairvoyance
 clamped
 clamping
 clamworms
 clandestinity
 clangers
+clangours
 clanking
 clannishly
 clapboard
@@ -3412,6 +3419,7 @@ clowning
 clowns
 cloying
 cloys
+club
 clubbiest
 clubbish
 clubfooted
@@ -3818,6 +3826,7 @@ configurations
 confine
 confined
 confirmands
+confirmations
 confirmers
 conflation
 confluxes
@@ -4596,6 +4605,7 @@ czaritzas
 dachas
 dacoit
 dacquoises
+dacron
 dactylic
 dactylology
 dactylus
@@ -5202,6 +5212,7 @@ diaspores
 diastemata
 diasters
 diatessaron
+diathermic
 diatomaceous
 diatoms
 diazinons
@@ -5268,6 +5279,7 @@ digitoxigenins
 digitoxins
 diglot
 diglots
+dignitary
 dignities
 digressively
 dihedral
@@ -5557,6 +5569,7 @@ ditchdiggers
 ditchers
 ditsinesses
 ditziest
+diuresis
 divans
 divebombing
 diversifiers
@@ -5687,6 +5700,7 @@ dotingly
 dottily
 dottle
 dottrels
+doublenesses
 doublespeak
 doubters
 doubtlessly
@@ -6144,6 +6158,7 @@ emanant
 emanating
 emancipated
 emancipates
+emasculate
 emasculations
 embalmment
 embanked
@@ -7078,6 +7093,7 @@ fianchettoed
 fibber
 fiberized
 fiberizes
+fibreboard
 fibrefill
 fibrillar
 fibrillations
@@ -7593,6 +7609,7 @@ freezers
 fremd
 fremituses
 frena
+frenetic
 frenetically
 freneticism
 freneticisms
@@ -7915,6 +7932,7 @@ genitalic
 genitals
 genocidal
 genomes
+genteelness
 gentlemen
 gentler
 genua
@@ -7943,6 +7961,7 @@ german
 germander
 germiest
 germinability
+germinal
 gerontocratic
 gerontologists
 gesneriad
@@ -8366,6 +8385,7 @@ guayule
 guayules
 gudgeoning
 guerdons
+gueridons
 guesstimated
 guesstimates
 guesting
@@ -10624,6 +10644,7 @@ laughably
 laughed
 laughlines
 launched
+launching
 laundress
 laundrettes
 laureated
@@ -11064,6 +11085,7 @@ loyalest
 lubber
 lube
 lubes
+lubing
 lubricative
 lubricator
 lucarnes
@@ -11284,6 +11306,7 @@ mannite
 manoeuvres
 manometries
 manse
+manses
 manslaughters
 mansuetude
 mantelet
@@ -12662,6 +12685,7 @@ noise
 noisemaking
 noisette
 nomads
+nomas
 nombrils
 nominal
 nominalists
@@ -13405,6 +13429,7 @@ outsworn
 outtalked
 outthanked
 outtowering
+outtrick
 outvie
 outvoices
 outwardnesses
@@ -13649,6 +13674,7 @@ package
 packager
 packed
 packers
+packets
 packing
 packman
 packness
@@ -14293,6 +14319,7 @@ photocurrent
 photocurrents
 photodiodes
 photodissociate
+photoelectrons
 photog
 photogeologic
 photogrammetry
@@ -14937,6 +14964,7 @@ precheck
 prechecking
 precieux
 preciosity
+precipice
 precipitated
 precipitins
 precipitously
@@ -16907,6 +16935,7 @@ rusticated
 rusticating
 rustles
 rustproof
+rustproofed
 rutabaga
 rutins
 ruttier
@@ -17477,6 +17506,7 @@ seraphic
 seraphims
 serendipities
 serendipitous
+serenest
 sergeancy
 sergeant
 serger
@@ -19746,6 +19776,7 @@ thromboplastic
 thromboxane
 throned
 throttles
+through
 throughither
 thrummer
 thrummiest
@@ -19982,6 +20013,7 @@ touchiness
 touchlines
 touchpads
 touchtone
+touchtones
 toupee
 tourbillons
 toured
@@ -20415,6 +20447,7 @@ tyrannised
 tyrannising
 tyrannizes
 tyres
+tyrocidin
 tyrocidine
 tyrosines
 tzarism
@@ -20481,6 +20514,7 @@ unappetizing
 unarmed
 unaspirated
 unathletic
+unattenuated
 unattractively
 unbacked
 unbalances
@@ -21675,6 +21709,7 @@ wince
 winched
 windages
 windblast
+windburnt
 windchills
 windfalls
 windiness

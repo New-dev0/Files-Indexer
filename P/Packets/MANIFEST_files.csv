@@ -1,0 +1,16 @@
+splunk-app-pvs/app.manifest at master - GitHub,https://github.com/tenable/splunk-app-pvs/blob/master/pvs/app.manifest
+cedadev/ceda-di · GitHub,https://github.com/cedadev/ceda-di/blob/master/eg_files/sentinel/S1A_EW_GRDM_1SDH_20160101T144136_20160101T144236_009302_00D6FE_49DF.manifest
+"Package: acl Version: 20180121-1 Depends: libc, libacl Source ...",http://downloads.openwrt.org/releases/18.06.5/packages/i386_pentium/packages/Packages.manifest
+Package: base-files Version: 192-r7258-5eb055306f Depends: libc ...,https://downloads.openwrt.org/releases/18.06.1/targets/ramips/mt7620/packages/Packages.manifest
+"Package: 6in4 Version: 25-1 Depends: libc, kmod-sit, uclient-fetch ...",http://www.markur.dk/releases/18.06.4/packages/arm_cortex-a9_vfpv3/base/Packages.manifest
+Package: kmod-3c59x Version: 5.10.82-1 Depends: kernel (=5.10 ...,https://mgmt.saar.freifunk.net/openwrt/snapshots/targets/bcm27xx/bcm2711/kmods/5.10.82-1-cae79ca9e99fa6837d4a3aefc9768088/Packages.manifest
+Package: kmod-3c59x Version: 5.4.124-1 Depends: kernel (=5.4 ...,https://mirrors.chapro.xyz/openwrt/releases/21.02.0-rc3/targets/x86/geode/kmods/5.4.124-1-37bf630c92eb2972d47619a871fb3405/Packages.manifest
+Package: base-files Version: 173-r3435-65eec8bd5f Depends: libc ...,https://qtest.cc/releases/17.01.2/targets/x86/generic/packages/Packages.manifest
+Packages.manifest - PandoraBox,http://downloads.pangubox.com:6380/pandorabox/19.02/targets/qualcomm/ipq806x/packages/Packages.manifest
+Package: base-files Version: 204.2-r11257-5090152ae3 Depends ...,https://usingpro.com/releases/19.07.5/targets/arc770/generic/packages/Packages.manifest
+Package: UDPspeeder Version: 20210116.0-2 Depends: libc ...,http://46.137.236.134/releases/21.02.0-rc3/packages/arm_cortex-a9/packages/Packages.manifest
+"Package: arptables-nft Version: 1.8.7-6 Depends: libc, kmod-nft-arp ...",https://downloads.lede-project.org/snapshots/targets/lantiq/xway/packages/Packages.manifest
+Package: base-files Version: 1458-r17965-b7bb176d1c Depends ...,https://downloads.lede-project.org/snapshots/targets/imx6/generic/packages/Packages.manifest
+site.manifest Code Example,https://www.codegrepper.com/code-examples/html/site.manifest
+Package: base-files Version: 145-r7877-53df97e789 Depends: libc ...,https://downloads.asu.aparcar.org/immortalwrt/targets/ar71xx/generic/packages/Packages.manifest
+Package: base-files Version: 194.3-r8067+26-6d94a6eca4 ...,https://downloads.ffhb.de/opkg/modules/gluon-ffhb-2019.1.3%2Bbremen2/x86/geode/Packages.manifest
