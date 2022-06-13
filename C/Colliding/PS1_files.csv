@@ -1,0 +1,4 @@
+functions/Register-StringMapping.ps1 1.0.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/ResolveString/1.0.0/Content/functions%255CRegister-StringMapping.ps1
+functions/Clear-StringMapping.ps1 1.0.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/ResolveString/1.0.0/Content/functions%255CClear-StringMapping.ps1
+demo-csharp/Test-SauceConnectState.Tests.ps1 at main ... - GitHub,https://github.com/saucelabs-training/demo-csharp/blob/main/Test-SauceConnectState.Tests.ps1
+STL/create-vmss.ps1 at main · microsoft/STL - GitHub,https://github.com/microsoft/STL/blob/master/azure-devops/create-vmss.ps1

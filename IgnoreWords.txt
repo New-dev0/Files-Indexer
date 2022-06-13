@@ -696,6 +696,7 @@ annuluses
 annunciate
 anodized
 anodizing
+anodynic
 anointer
 anomalous
 anomalously
@@ -820,6 +821,7 @@ antitechnology
 antithetically
 antitoxin
 antitrade
+antitraditional
 antitragi
 antituberculous
 antiviral
@@ -1581,6 +1583,7 @@ becarpeted
 bechamels
 beckoned
 beckoning
+beclasps
 becloaks
 beclogs
 beclothe
@@ -3640,6 +3643,7 @@ collegial
 collegiality
 collembolan
 collide
+colliding
 collier
 collinsias
 collodion
@@ -4785,6 +4789,7 @@ decamps
 decanting
 decapitations
 decarbonates
+decarboxylase
 decasyllabic
 decasyllabics
 decay
@@ -4838,6 +4843,7 @@ decontrols
 decorate
 decorated
 decorates
+decoration
 decorators
 decortications
 decorum
@@ -5502,6 +5508,7 @@ disgruntle
 disgruntlement
 disgruntling
 disgust
+disgustful
 dishabille
 disharmonious
 dishclouts
@@ -6936,6 +6943,7 @@ faddist
 faddists
 fadeaways
 faded
+fadeless
 fadeouts
 fadlike
 fagoting
@@ -7935,6 +7943,7 @@ gastroscopist
 gastroscopy
 gastrovascular
 gastrulation
+gasworks
 gatefolds
 gatehouse
 gaucho
@@ -8333,6 +8342,7 @@ gravidae
 gravimetrically
 gravitas
 gravitation
+gravitations
 gravitinos
 gravity
 gravure
@@ -8498,6 +8508,7 @@ gumdrops
 gummed
 gummier
 gummiest
+gumminesses
 gumming
 gummoses
 gummosis
@@ -8524,6 +8535,7 @@ gymkhana
 gymnast
 gynaecia
 gynaecologies
+gynandromorphy
 gynecocratic
 gynecological
 gynecomastia
@@ -9167,6 +9179,7 @@ hovered
 hoverfly
 howdie
 however
+howffs
 howked
 hoydened
 hubbub
@@ -9759,6 +9772,7 @@ inhibiters
 inhomogeneity
 inhuman
 inhumanities
+inhumations
 inhume
 inhumes
 iniquitous
@@ -10427,6 +10441,7 @@ keeling
 keener
 keepings
 keets
+kefir
 keg
 kegelers
 kegling
@@ -11084,6 +11099,7 @@ logisticians
 logjam
 lognormal
 lognormality
+logographically
 logotypies
 logrolled
 logrolls
@@ -11275,6 +11291,7 @@ macronuclei
 macrophage
 macrophyte
 macruran
+macula
 macumba
 madams
 maddeningly
@@ -11504,6 +11521,7 @@ materially
 maternally
 matey
 mateys
+mathematized
 matrimonies
 matronizes
 matt
@@ -11880,6 +11898,7 @@ millesimal
 millicuries
 millier
 millihenry
+milliluxes
 millimes
 millimho
 milline
@@ -12867,6 +12886,7 @@ nonfactual
 nonfamily
 nonfarmer
 nonfictions
+nonfigurative
 nonfinal
 nonfinancial
 nonfluids
@@ -13344,6 +13364,7 @@ orthopteroid
 orthotropous
 oryxes
 os
+oscillography
 osetra
 osiers
 osmiridiums
@@ -13565,6 +13586,7 @@ ovens
 overachievement
 overachieving
 overanalyzes
+overanalyzing
 overarming
 overassertion
 overassessments
@@ -15357,6 +15379,7 @@ prochoice
 proclamation
 proconsulship
 procrastinated
+procreator
 procrustean
 proctologies
 procure
@@ -15650,6 +15673,7 @@ purser
 pursers
 pursiness
 pursing
+purslane
 pursuances
 pursuant
 pursue
@@ -17562,6 +17586,7 @@ seicento
 seidels
 seigniorages
 seigniors
+seignories
 seine
 seining
 seise
@@ -18496,6 +18521,7 @@ speakable
 speakeasies
 speaking
 speaning
+spearheading
 spearmen
 spearmints
 specialising
@@ -19174,6 +19200,7 @@ subskill
 subsocial
 subsocieties
 subsoiler
+subspecialist
 subspecializes
 subspecializing
 substantivize
@@ -19946,6 +19973,7 @@ thornbushes
 thornier
 thorning
 thoroughly
+thoroughwort
 thorps
 thowless
 thraldoms
@@ -20048,6 +20076,7 @@ tincted
 tincts
 tinctured
 tineas
+tinging
 tingliest
 tingling
 tinily
@@ -20718,6 +20747,7 @@ unbecomingness
 unbelievers
 unbelievingly
 unbelted
+unbelts
 unbenign
 unbitted
 unblended
@@ -21072,6 +21102,7 @@ unregenerate
 unremarkably
 unrepressed
 unresponsive
+unrestored
 unretouched
 unrevised
 unrighteously
@@ -21157,6 +21188,7 @@ untraveled
 untreated
 untrusses
 untucking
+untune
 untwisted
 ununbium
 unusable
@@ -21375,6 +21407,7 @@ vegetative
 veggie
 vegie
 vehemences
+vehement
 veiler
 veinlike
 veins
@@ -21963,6 +21996,7 @@ wiriest
 wirra
 wise
 wiselier
+wisely
 wisest
 wishes
 wishfulnesses
@@ -22297,4 +22331,5 @@ zygospores
 zymases
 zymogenic
 zymogens
+zymosan
 zymosans
