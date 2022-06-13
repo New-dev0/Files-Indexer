@@ -211,6 +211,7 @@ adjutants
 admeasuring
 administrable
 administrants
+administrates
 administrating
 administrator
 admiralties
@@ -698,6 +699,7 @@ annalist
 annalists
 annals
 annelid
+annihilatory
 annotative
 announcers
 annuitants
@@ -2284,6 +2286,7 @@ brashnesses
 brashy
 brasseries
 brattier
+brattle
 bratwursts
 brava
 braved
@@ -2716,6 +2719,7 @@ cannibalistic
 cannibalization
 cannibalizing
 cannie
+cannoli
 cannonading
 cannonballed
 canoeable
@@ -4215,6 +4219,7 @@ coronographs
 corotation
 corporals
 corporeally
+corps
 corpses
 corpulently
 corpus
@@ -4490,6 +4495,7 @@ crossabilities
 crossarms
 crossbandings
 crossbones
+crossbred
 crossbreed
 crosscut
 crosscutting
@@ -4869,6 +4875,7 @@ debating
 debauch
 debauched
 debeaks
+debits
 deboned
 debs
 debuggers
@@ -5147,6 +5154,7 @@ dentifrices
 denturists
 denuder
 denuders
+denumerability
 denying
 deodands
 deodara
@@ -5437,6 +5445,7 @@ diglot
 diglots
 dignitary
 dignities
+digraphs
 digressively
 dihedral
 dikdiks
@@ -5530,6 +5539,7 @@ disallowed
 disappearance
 disappears
 disappoint
+disappointed
 disappointing
 disappointments
 disappoints
@@ -5738,6 +5748,7 @@ diversifiers
 diversifies
 diversity
 diverted
+diverticulosis
 divertimentos
 diverting
 divests
@@ -6021,6 +6032,7 @@ drumroll
 drumsticks
 drunkard
 drupelets
+druse
 druses
 dryadic
 dryish
@@ -6444,6 +6456,7 @@ endogenies
 endomitoses
 endomorphs
 endorsable
+endorse
 endorsive
 endosmoses
 endosperms
@@ -7768,6 +7781,7 @@ foziness
 fozinesses
 fractionated
 fractious
+fractur
 fractures
 fracturs
 fragmentally
@@ -8150,6 +8164,7 @@ generational
 generosities
 generousnesses
 genetical
+geniality
 genip
 genitalic
 genitals
@@ -8997,6 +9012,7 @@ helmsmen
 helots
 helped
 helpmates
+hem
 hemacytometers
 hemagogs
 hematics
@@ -10401,6 +10417,7 @@ jangles
 janglier
 japanize
 japanizes
+japanner
 japery
 japing
 japonaiserie
@@ -10918,6 +10935,7 @@ lastings
 lasts
 latches
 lateener
+laterad
 laterally
 laterborn
 laterize
@@ -12325,6 +12343,7 @@ mistuned
 misty
 misunderstands
 misvalue
+misword
 miswording
 miswords
 miswrit
@@ -13270,6 +13289,7 @@ noxiously
 nozzles
 nth
 nubbiness
+nubble
 nubbles
 nubbly
 nubby
@@ -13662,6 +13682,7 @@ outbid
 outbidder
 outblooming
 outblooms
+outbluffed
 outbluffs
 outbrags
 outbrave
@@ -14635,6 +14656,7 @@ pettedly
 pettifoggings
 pettinesses
 petulancy
+petulant
 pew
 peytrel
 phaeton
@@ -15220,6 +15242,7 @@ poppycock
 popsies
 popularise
 popularity
+popularizing
 popularly
 populism
 porcini
@@ -15291,6 +15314,7 @@ postmortems
 postnatally
 postorbital
 postpollination
+postponed
 postponer
 postrace
 postretirement
@@ -15993,6 +16017,7 @@ pyrolized
 pyrolizing
 pyrolyses
 pyrolysis
+pyrolyze
 pyrolyzers
 pyrosises
 pyrotechnic
@@ -16491,6 +16516,7 @@ redintegrate
 redintegrates
 redintegration
 redirected
+redirects
 redis
 rediscounted
 rediscover
@@ -16610,6 +16636,7 @@ refresher
 refreshers
 refries
 refuge
+refulgence
 refunds
 refurbishers
 refurbishes
@@ -17083,6 +17110,7 @@ reutilizes
 reutter
 revaccinate
 revaccinating
+revalidated
 revalorize
 revalue
 revampers
@@ -17186,6 +17214,7 @@ ridged
 ridgel
 ridgels
 ridgetops
+ridicule
 ridiculer
 ridiculers
 ridicules
@@ -18072,6 +18101,7 @@ sexologist
 sexologists
 sexploitation
 sextile
+sexto
 sexuality
 sexy
 sha
@@ -20030,6 +20060,7 @@ tangibilities
 tangier
 tangs
 tankless
+tankships
 tannages
 tantalates
 tantalizing
@@ -20091,6 +20122,7 @@ teacup
 team
 teams
 teardrops
+tearful
 tearstains
 teaselled
 teawares
@@ -21857,6 +21889,7 @@ vermifuges
 vermilioning
 vermuth
 vernacularism
+vernal
 vernicles
 vernissage
 versal
@@ -22010,6 +22043,7 @@ voicefulness
 voiceover
 volante
 volatilizations
+volatilize
 volatilizes
 volcanological
 volcanologists
@@ -22349,6 +22383,7 @@ windblast
 windburnt
 windchills
 windfalls
+windigo
 windiness
 windless
 windmills
