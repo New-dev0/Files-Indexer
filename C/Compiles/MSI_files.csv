@@ -1,0 +1,3 @@
+Downloading File /Imagine Picture Viewer/Version 2.2.2 ... - OSDN,https://es.osdn.net/projects/sfnet_open-imagine/downloads/Imagine%2520Picture%2520Viewer/Version%25202.2.2/SetupImagine_2.2.2.msi
+Téléchargement du fichier /Imagine Picture Viewer/Version 2.2.3 ...,https://fr.osdn.net/projects/sfnet_open-imagine/downloads/Imagine%2520Picture%2520Viewer/Version%25202.2.3/setupImagine_2.2.3.msi
+$ wine64 msiexec /i SOFTWARE_NAME.msi Code Example,https://www.codegrepper.com/code-examples/whatever/%2524%2Bwine64%2Bmsiexec%2B%252Fi%2BSOFTWARE_NAME.msi

@@ -1,0 +1,4 @@
+Public/Uninstall-Program.ps1 1.0.1 - PowerShell Gallery,https://www.powershellgallery.com/packages/programmanagement/1.0.1/Content/Public%255CUninstall-Program.ps1
+Powershell/WordFunctions.ps1 at master · zloeber ... - GitHub,https://github.com/zloeber/Powershell/blob/master/Supplemental/WordFunctions.ps1
+ConPtyShell/Invoke-ConPtyShell.ps1 at master - GitHub,https://github.com/antonioCoco/ConPtyShell/blob/master/Invoke-ConPtyShell.ps1
+function Invoke-ConPtyShell { <# .SYNOPSIS ConPtyShell - Fully ...,https://raw.githubusercontent.com/antonioCoco/ConPtyShell/master/Invoke-ConPtyShell.ps1

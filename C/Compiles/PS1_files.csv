@@ -1,0 +1,9 @@
+Pak192.Comic/COMPILE.ps1 at Standard · Flemmbrav/Pak192 ...,https://github.com/Flemmbrav/Pak192.Comic/blob/Standard/COMPILE.ps1
+Public/Compile-SourceScript.ps1 2.0.2 - PowerShell Gallery,https://www.powershellgallery.com/packages/Compile-SourceScript/2.0.2/Content/Public%255CCompile-SourceScript.ps1
+Public/Invoke-BicepBuild.ps1 1.0.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/Bicep/1.0.0/Content/Public%255CInvoke-BicepBuild.ps1
+Examples/xPSEndpoint_NewConfig.ps1 8.10.0.0 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/xPSDesiredStateConfiguration/8.10.0.0/Content/Examples%255CxPSEndpoint_NewConfig.ps1
+.SYNOPSIS Download\Compile\Execute CS scripts On-The-Fly ...,https://raw.githubusercontent.com/r00t-3xp10it/redpill/main/bin/CsOnTheFly.ps1
+DSC/Examples/Resources/PSModule/5 ... - PowerShell Gallery Test,https://www.poshtestgallery.com/packages/PowerShellGet/23.0.0/Content/DSC%255CExamples%255CResources%255CPSModule%255C5-PSModule_InstallModuleWithinVersionRangeConfig.ps1
+Templates/Sampler/Sampler/Examples ... - PowerShell Gallery,https://40.87.85.101/packages/Sampler/0.105.2-preview0002/Content/Templates%255CSampler%255CSampler%255CExamples%255CResources%255CFolder%255C1-DscResourceTemplate_CreateFolderAsSystemConfig.ps1
+#Define constants (*) $fullControl=[System.Security.AccessControl ...,http://apollo.humber.ca/~king/CENG214/ACLDemo.ps1
+Python: Tools/msi/make_appx.ps1 | Fossies,https://fossies.org/linux/Python/Tools/msi/make_appx.ps1
