@@ -1,0 +1,4 @@
+functions/Get-DbcReleaseNote.ps1 1.1.149 - PowerShell Gallery,https://www.powershellgallery.com/packages/dbachecks/1.1.149/Content/functions%255CGet-DbcReleaseNote.ps1
+AADInternals/ProvisioningAPI.ps1 at master - GitHub,https://github.com/Gerenios/AADInternals/blob/master/ProvisioningAPI.ps1
+BlogSupportingContent/ADF Checker Script v0.1.ps1 at master,https://github.com/mrpaulandrew/BlogSupportingContent/blob/master/Best%2520Practices%2520for%2520Implementing%2520Azure%2520Data%2520Factory%2520-%2520Auto%2520Checker%2520Script%2520v0.1/ADF%2520Checker%2520Script%2520v0.1.ps1
+param ([string]$path) $script = $myinvocation.mycommand.definition ...,https://raw.githubusercontent.com/mattou07/iis-builder/master/IIS-Builder.ps1
