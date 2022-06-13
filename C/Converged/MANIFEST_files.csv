@@ -1,0 +1,7 @@
+ubuntukylin-16.04.7-desktop-amd64.manifest - Ubuntu CDimage,http://cdimage.ubuntu.com/ubuntukylin/releases/16.04/release/ubuntukylin-16.04.7-desktop-amd64.manifest
+a11y-profile-manager 0.1.11-0ubuntu3 a11y-profile-manager ...,https://mirror.thehost.ua/ubuntu/ubuntu-cd/16.10/ubuntu-16.10-desktop-i386.manifest
+Packages.manifest - OpenWrt Downloads,https://downloads.openwrt.org/releases/19.07.7/packages/mips64_octeonplus/routing/Packages.manifest
+"Package: ahcpd Version: 0.53-3 Depends: libc, ip, librt Source ...",https://downloads.openwrt.org/snapshots/packages/i386_pentium-mmx/routing/Packages.manifest
+Package: kmod-3c59x Version: 5.10.82-1 Depends: kernel (=5.10 ...,https://mgmt.saar.freifunk.net/openwrt/snapshots/targets/bcm27xx/bcm2711/kmods/5.10.82-1-cae79ca9e99fa6837d4a3aefc9768088/Packages.manifest
+Package: base-files Version: 1458-r17965-b7bb176d1c Depends ...,https://downloads.lede-project.org/snapshots/targets/imx6/generic/packages/Packages.manifest
+Package: base-files Version: 1463-r18673-b21bc3479d Depends ...,https://downloads.asu.aparcar.org/selinux/targtes/bcm47xx/mips74k/packages/Packages.manifest

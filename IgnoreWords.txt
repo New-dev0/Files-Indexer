@@ -241,6 +241,7 @@ adverbial
 advertent
 advertisement
 advertize
+advisements
 advises
 advowson
 adynamias
@@ -809,6 +810,7 @@ antirationalism
 antirationalist
 antirationality
 antirealism
+antiritualism
 antiritualisms
 antiroll
 antiromantic
@@ -1331,6 +1333,7 @@ axially
 axil
 axilla
 axillars
+axiologies
 axiomatically
 axisymmetry
 axseed
@@ -1459,6 +1462,7 @@ bandsaws
 bandwidth
 bangkok
 banians
+banjaxed
 bankrolled
 bankside
 banksides
@@ -2650,6 +2654,7 @@ calumnies
 calumnious
 calumniously
 calvarias
+calycle
 calypsos
 calzone
 camailed
@@ -4091,6 +4096,7 @@ convened
 conveniences
 conventiclers
 conventionality
+converged
 conversancy
 conversazioni
 converses
@@ -4402,6 +4408,7 @@ created
 creatinines
 creationists
 creatively
+creativenesses
 creaturehoods
 credentialism
 credentialling
@@ -5574,6 +5581,7 @@ disdainfulness
 disease
 diseased
 diseasing
+disembark
 disembarrassing
 disembodies
 disenable
@@ -5815,6 +5823,7 @@ donsy
 doodlers
 doody
 doohickeys
+dooly
 doomsayer
 doomsdayers
 doorjamb
@@ -6209,6 +6218,7 @@ effeminacy
 efferents
 efficacity
 efficacy
+efficiencies
 efflorescence
 effluents
 effluvial
@@ -6478,6 +6488,7 @@ enlistments
 enlists
 enmeshes
 enmeshment
+enmities
 enneadic
 ennobler
 ennuye
@@ -6787,6 +6798,7 @@ eupatrids
 euphausiids
 euphonies
 euphoniousness
+euphrasy
 euphuistically
 euryokies
 eurytopic
@@ -6863,6 +6875,7 @@ excrescency
 excreters
 excretory
 exculpating
+exculpation
 excurrent
 excursiveness
 excused
@@ -7604,6 +7617,7 @@ fomite
 fon
 fonded
 fonder
+fondest
 fondness
 fondue
 foofaraws
@@ -7727,6 +7741,7 @@ foughten
 fouled
 foulings
 foundation
+foundationally
 foundationless
 founded
 foundries
@@ -8017,6 +8032,7 @@ ganjah
 ganjahs
 ganjas
 gantlopes
+gantries
 ganymedes
 gaoler
 gape
@@ -8155,6 +8171,7 @@ geophysics
 geopolitics
 georgette
 georgettes
+geotropisms
 geranial
 gerbils
 german
@@ -8205,6 +8222,7 @@ gimlets
 gimmick
 gingeley
 gingelies
+gingelis
 gingelli
 gingelly
 ginger
@@ -9379,6 +9397,7 @@ husking
 hutch
 hutching
 hutzpahs
+huzzaed
 hyaenic
 hyalites
 hybridizing
@@ -10343,6 +10362,7 @@ izars
 jabberwocky
 jabs
 jacked
+jackers
 jacketed
 jacketless
 jackets
@@ -10555,6 +10575,7 @@ kalifate
 kalium
 kalmia
 kalsomined
+kalsomines
 kanes
 kantar
 kantars
@@ -10806,6 +10827,7 @@ laden
 ladle
 ladlefuls
 ladybird
+ladyfish
 ladykins
 lag
 lagging
@@ -11113,6 +11135,7 @@ likableness
 likeable
 likenesses
 likings
+lilliputian
 lily
 limb
 limberest
@@ -11302,6 +11325,7 @@ looseness
 looses
 loosestrife
 looting
+lophophores
 loping
 lopsided
 lopsidedness
@@ -12011,6 +12035,7 @@ microseism
 microsomes
 microspheres
 microsporangium
+microspore
 microswitch
 microwatts
 microwavable
@@ -12626,6 +12651,7 @@ multitiered
 multiuser
 multivariate
 multiversity
+multiwall
 mumbling
 mummeries
 mummify
@@ -13243,6 +13269,7 @@ nucleosynthetic
 nucleotidases
 nucleuses
 nuder
+nudie
 nukes
 null
 nulling
@@ -13543,6 +13570,7 @@ ornery
 ornithine
 ornithopter
 orogenetic
+orotundity
 orphanhoods
 orpiment
 orrices
@@ -16745,6 +16773,7 @@ renewer
 rennin
 renotifies
 renounced
+renouncement
 renovating
 renovations
 renown
@@ -16924,6 +16953,7 @@ responsive
 responsiveness
 responsory
 resprang
+resprouting
 restable
 restack
 restartable
@@ -17335,6 +17365,7 @@ ruffle
 ruffled
 ruffs
 rugate
+rugby
 ruggedly
 ruggedness
 ruining
@@ -19615,6 +19646,7 @@ superbest
 superbomber
 superbombers
 superbright
+supercharges
 supercity
 superclasses
 superconduct
@@ -20377,6 +20409,7 @@ tincted
 tincts
 tinctured
 tineas
+tineid
 tinging
 tingliest
 tingling
@@ -21113,6 +21146,7 @@ uncoalescing
 uncoatings
 uncoerced
 uncoffins
+uncollectibles
 uncompassionate
 uncompensated
 uncomprehended
@@ -22483,6 +22517,7 @@ xanthone
 xanthophyll
 xenia
 xenias
+xenogeny
 xenograft
 xenophile
 xenophobia
