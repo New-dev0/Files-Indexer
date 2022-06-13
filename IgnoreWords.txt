@@ -658,6 +658,7 @@ anesthetizing
 angel
 angelically
 angels
+anginous
 angiogram
 angler
 anglicism
@@ -2356,6 +2357,7 @@ brochette
 brochettes
 brochure
 brockages
+brogues
 broider
 broidered
 brokenhearted
@@ -2552,6 +2554,7 @@ buy
 buys
 buzz
 buzzwords
+bynames
 byrled
 byroad
 bytes
@@ -2938,6 +2941,7 @@ categorising
 catenaries
 cater
 catercorner
+caterer
 cathedra
 cathepsin
 cathodally
@@ -4363,6 +4367,7 @@ crampiest
 crampon
 crampons
 cranberries
+cranberry
 craniosacral
 craniotomy
 cranker
@@ -6177,6 +6182,7 @@ edges
 edgewise
 edging
 edgings
+edifications
 edifice
 edified
 ediles
@@ -7374,6 +7380,7 @@ fissility
 fissionability
 fissiped
 fissural
+fistfight
 fistfights
 fisticuffs
 fists
@@ -7716,6 +7723,7 @@ fosterages
 fosterers
 fosters
 fou
+foughten
 fouled
 foulings
 foundation
@@ -7753,6 +7761,7 @@ frameworks
 franchise
 franchisees
 frangipane
+franker
 frankest
 frankfurt
 frankincense
@@ -8202,6 +8211,7 @@ ginger
 gingerbreads
 gingerroots
 ginghams
+gingili
 gingilis
 gingkoes
 ginner
@@ -8671,6 +8681,7 @@ gypseian
 gypsophila
 gypsydoms
 gyrofrequency
+gyron
 gyroscopically
 gyrostats
 gyved
@@ -9664,6 +9675,7 @@ impresses
 impressures
 improbably
 impropernesses
+improvable
 improve
 improvements
 improvident
@@ -9901,6 +9913,7 @@ ingrate
 ingression
 ingroup
 ingulfing
+inhabit
 inhabitable
 inhalers
 inharmony
@@ -11309,6 +11322,7 @@ lostness
 lot
 lotahs
 lotoses
+lotuslands
 louche
 loudliest
 loudspeakers
@@ -11815,6 +11829,7 @@ melton
 meltons
 membership
 mementoes
+memes
 memetics
 memo
 memorably
@@ -13881,6 +13896,7 @@ overoperate
 overpass
 overpay
 overpersuade
+overplanned
 overpressures
 overproduction
 overprograming
@@ -14011,6 +14027,7 @@ packs
 packthread
 packwax
 paddleballs
+paddleboard
 paddles
 paddocked
 padishah
@@ -14183,6 +14200,7 @@ parboiled
 parboiling
 parbuckling
 parch
+parchesis
 pards
 parenthesizing
 parenthoods
@@ -14441,6 +14459,7 @@ percolated
 percussing
 percussiveness
 perdie
+perditions
 perdurably
 perdy
 perennated
@@ -14456,6 +14475,7 @@ pericardial
 pericope
 perigyny
 perilymph
+perilymphs
 perimeter
 perimetries
 perimorph
@@ -14648,6 +14668,7 @@ phosphore
 phosphoresce
 phosphorescent
 phosphori
+phosphorolysis
 phosphorolytic
 phosphors
 phosphoryl
@@ -14757,6 +14778,7 @@ pidginize
 pie
 piece
 piefort
+pier
 pierces
 pieta
 pietistic
@@ -16010,6 +16032,7 @@ quietudes
 quillais
 quillworts
 quinaries
+quinate
 quinolone
 quinquennials
 quinquennium
@@ -16750,6 +16773,7 @@ repaving
 repeat
 repegged
 repellants
+repentantly
 repenter
 repenters
 repeopling
@@ -17327,6 +17351,7 @@ rummer
 rummers
 rummies
 rumored
+rumpled
 rumpuses
 runabouts
 runaround
@@ -17789,6 +17814,7 @@ secretor
 secretors
 sect
 sectaries
+sections
 sectorial
 secularizer
 securitize
@@ -18799,6 +18825,7 @@ speedballed
 speedboat
 speedboatings
 speeding
+speedo
 speedster
 speedsters
 speirs
@@ -18943,10 +18970,12 @@ springer
 springers
 springinesses
 springlike
+springtide
 springtides
 springwood
 sprinklered
 sprinters
+spritsails
 spritzer
 sprouting
 spruce
@@ -20129,6 +20158,7 @@ terpinols
 terra
 terraces
 terrella
+terrine
 territorial
 territorialized
 territorials
@@ -20433,6 +20463,7 @@ tone
 tonearms
 tonetics
 tonettes
+tonguelike
 tonic
 tonicities
 tonnage
@@ -20605,6 +20636,7 @@ transpersonal
 transpierce
 transplantable
 transpontine
+transshaping
 transshipment
 transsonic
 transudates
@@ -20968,6 +21000,7 @@ uitlanders
 ukeleles
 ulcers
 ulnad
+ulpan
 ulpanim
 ulsters
 ultimacies
@@ -21116,6 +21149,7 @@ undeciphered
 undecorated
 undefended
 underachieving
+underarm
 underarms
 underbakes
 underbelly
@@ -21471,6 +21505,7 @@ untreated
 untrusses
 untucking
 untune
+untunes
 untwisted
 ununbium
 unusable

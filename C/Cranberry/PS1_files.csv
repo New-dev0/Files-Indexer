@@ -1,0 +1,2 @@
+powershell_ui_samples/treeview_cb1.ps1 at master · sergueik ...,https://github.com/sergueik/powershell_ui_samples/blob/master/treeview_cb1.ps1
+Function Install-WinGet { param( [Parameter(Mandatory = $true ...,https://raw.githubusercontent.com/TrisBits/Install-WinApps/main/src/Install-WinApps.ps1
