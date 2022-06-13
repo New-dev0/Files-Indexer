@@ -1,0 +1,7 @@
+modules/Utilities/private/Test-Ping.ps1 2.2203 ... - PowerShell Gallery,https://www.powershellgallery.com/packages/SdnDiagnostics/2.2203.258.145258/Content/modules%255CUtilities%255Cprivate%255CTest-Ping.ps1
+modules/Server/public/Test ... - PowerShell Gallery,https://www.powershellgallery.com/packages/SdnDiagnostics/2.2203.258.145258/Content/modules%255CServer%255Cpublic%255CTest-SdnProviderAddressConnectivity.ps1
+oci-powershell-modules/Waiter_Core.ps1 at master - GitHub,https://github.com/oracle/oci-powershell-modules/blob/master/Examples/Waiter_Core.ps1
+cloud-asset-appsul-terraform-samples/env-vars.ps1 at master - GitHub,https://github.com/oracle/cloud-asset-appsul-terraform-samples/blob/master/JDEdwards/env-vars.ps1
+to source this file run: # Set-ExecutionPolicy Bypass -Scope Process ...,https://raw.githubusercontent.com/cloud-partners/oci-prerequisites/master/env-vars.ps1
+Created: 04/03/2020 14:44:29 $jobs = @{} function ForceRegKey ...,https://raw.githubusercontent.com/DBHeise/VM_Setup/master/Everything.ps1
+modules/Server/public/Test ... - PowerShell Gallery,https://www.powershellgallery.com/packages/SdnDiagnostics/1.2109.77.193729/Content/modules%255CServer%255Cpublic%255CTest-SdnProviderAddressConnectivity.ps1

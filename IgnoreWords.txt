@@ -128,6 +128,7 @@ achondrite
 acidifiers
 acidifies
 acidify
+acidimeter
 acidities
 acidity
 acidophils
@@ -859,6 +860,7 @@ apathetic
 apatosaur
 apertures
 apetalous
+aphasias
 aphasics
 aphis
 aphonics
@@ -1163,6 +1165,7 @@ astarboard
 asteria
 asterias
 asternal
+asthenia
 asthenosphere
 asthenospheres
 asthmas
@@ -3628,6 +3631,7 @@ codependencies
 codesigns
 codeveloper
 codex
+codgers
 codicology
 codirected
 codiscoverer
@@ -3646,6 +3650,7 @@ coequality
 coercers
 coercibly
 coercivities
+coevolution
 coexecutor
 coextends
 coffeepot
@@ -3846,6 +3851,7 @@ companions
 companionships
 comparator
 comparison
+compartment
 compassable
 compatibilities
 compatriot
@@ -3890,6 +3896,7 @@ computerising
 computerist
 computerized
 comradeships
+comsymps
 concatenate
 concave
 conceives
@@ -6508,6 +6515,7 @@ engrossment
 engs
 engulfment
 enhalos
+enhanced
 enhancers
 enigmatic
 enjoinder
@@ -6575,6 +6583,7 @@ entoblast
 entomb
 entombment
 entomophily
+entourage
 entourages
 entozoan
 entozoans
@@ -6982,6 +6991,7 @@ expertizing
 expertness
 expiation
 expiratory
+expirers
 explanatorily
 explantation
 explanted
@@ -7760,6 +7770,7 @@ fortune
 fortuned
 forward
 forwarding
+forzandi
 foscarnets
 fossicks
 fossilised
@@ -7927,6 +7938,7 @@ fugatos
 fuggier
 fugled
 fuglemen
+fugles
 fugu
 fulcrums
 fulfil
@@ -9167,6 +9179,7 @@ hilloas
 hillslope
 hilted
 hinder
+hindering
 hindrance
 hinkier
 hinky
@@ -9526,6 +9539,7 @@ hypervirulent
 hypha
 hyphenates
 hypnoid
+hypnologies
 hypnology
 hypnoses
 hypnotize
@@ -9654,6 +9668,7 @@ immobilize
 immodest
 immodesty
 immolating
+immoralism
 immortalizer
 immortally
 immovables
@@ -10403,6 +10418,7 @@ ivory
 izars
 jabberwocky
 jabs
+jack
 jacked
 jackers
 jacketed
@@ -10619,6 +10635,7 @@ kalium
 kalmia
 kalsomined
 kalsomines
+kamaainas
 kanes
 kantar
 kantars
@@ -11427,6 +11444,7 @@ lubber
 lube
 lubes
 lubing
+lubricates
 lubrication
 lubricative
 lubricator
@@ -11730,6 +11748,7 @@ massacre
 massacred
 massacrers
 masseteric
+masseters
 massifs
 massivenesses
 massless
@@ -11771,6 +11790,7 @@ mattrass
 mattresses
 maturational
 maturers
+maudlin
 maul
 maun
 maunderers
@@ -12072,6 +12092,7 @@ micromeres
 micrometeorite
 micromorphology
 micronized
+micronucleus
 microphotometer
 micropore
 micropublisher
@@ -13477,6 +13498,7 @@ oilpapers
 oilskins
 older
 oldfangled
+oldish
 olds
 oldsquaws
 oldsters
@@ -13709,6 +13731,7 @@ outbluffs
 outbrags
 outbrave
 outbrazening
+outbribe
 outbribes
 outbuilt
 outbulges
@@ -14799,6 +14822,7 @@ phots
 phrasemakers
 phrasemongering
 phthalocyanine
+phycocyanins
 phycoerythrins
 phycomycetes
 phylaxises
@@ -15081,6 +15105,7 @@ plenists
 plenteous
 plentifulness
 pleomorphic
+pleonasms
 pleopods
 pleuras
 pleuron
@@ -16006,9 +16031,11 @@ pursuivants
 purveys
 pushdowns
 pushes
+pushiness
 pusillanimity
 pusleys
 pussyfoot
+putrefied
 putrescence
 putridities
 putridity
@@ -16282,6 +16309,7 @@ rathskeller
 ratification
 ratified
 ratifies
+ratine
 ratio
 ratiocinative
 ratiocinator
@@ -16628,6 +16656,7 @@ refiners
 refinishers
 refire
 refixed
+reflating
 reflectors
 reflexions
 reflexivities
@@ -17686,6 +17715,7 @@ save
 savers
 saviors
 savories
+savour
 savouries
 savoy
 savoys
@@ -18060,6 +18090,7 @@ sepiolites
 sepoys
 seppuku
 septal
+septenaries
 septennially
 septentrion
 septettes
@@ -19377,6 +19408,7 @@ strandednesses
 stranders
 strangest
 strangle
+straphangs
 strass
 strasses
 stratal
@@ -21438,6 +21470,7 @@ unilingual
 unillusioned
 unilobed
 unimportant
+uninstalling
 uninstructed
 uninsulated
 uninterests
@@ -21757,6 +21790,7 @@ uxoriously
 uxoriousnesses
 vacant
 vacate
+vacationlands
 vaccinas
 vaccinia
 vacillate
@@ -21885,6 +21919,7 @@ vengefulnesses
 venins
 venireman
 venographies
+venology
 venoms
 ventifact
 ventilating
