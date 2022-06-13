@@ -1,0 +1,10 @@
+ubuntu-21.10-live-server-amd64.manifest - Ubuntu Releases,https://releases.ubuntu.com/21.10/ubuntu-21.10-live-server-amd64.manifest
+ubuntu-16.04.7-server-amd64.manifest - Ubuntu Releases,https://releases.ubuntu.com/16.04/ubuntu-16.04.7-server-amd64.manifest
+adduser 3.116ubuntu1 apt 1.6.11 apt-utils 1.6.11 base-files 10.1 ...,http://mirrors.aliyun.com/oldubuntu-releases/releases/18.04.4/ubuntu-18.04.3-server-ppc64el.manifest
+adduser 3.113+nmu3ubuntu4 apt 1.2.27 apt-utils 1.2.27 base-files ...,https://mirrors.aliyun.com/oldubuntu-releases/releases/16.04.1/ubuntu-16.04.5-server-amd64.manifest
+adduser 3.118ubuntu5 apparmor 3.0.4-2ubuntu2 apport 2.20.11 ...,http://ftp.uni-kl.de/pub/linux/ubuntu-dvd/ubuntu-server/daily-preinstalled/current/jammy-preinstalled-server-arm64%2Braspi.manifest
+adduser 3.118ubuntu5 apparmor 3.0.4-2ubuntu1 apport 2.20.11 ...,http://ftp.jaist.ac.jp/pub/Linux/ubuntu-cdimage/ubuntu-server/daily-live/current/jammy-live-server-s390x.manifest
+acpi-support-base 0.140-5 acpid 1:2.0.16-1+deb7u1 adduser 3.113 ...,http://mirrors.dotsrc.org/turnkeylinux/metadata/turnkey-openvpn/13.0-wheezy-i386/turnkey-openvpn-13.0-wheezy-i386.manifest
+acpid 1.0.10-5ubuntu2.1 adduser 3.112ubuntu1 ant 1.7.1-4ubuntu1 ...,https://mirrors.dotsrc.org/mirrors/turnkeylinux/metadata/turnkey-tomcat/11.2-lucid-x86/turnkey-tomcat-11.2-lucid-x86.manifest
+adduser 3.113+nmu3ubuntu4 apt 1.2.27 apt-utils 1.2.27 base-files ...,http://mirror.rise.ph/ubuntu-iso/16.04/ubuntu-16.04.5-server-i386.manifest
+acpid 1:2.0.16-1 adduser 3.113+nmu3 apt 0.9.7.7 base-files 7.1 ...,http://releases.turnkeylinux.org/turnkey-core/13.0rc-wheezy-i386/turnkey-core-13.0rc-wheezy-i386.manifest
