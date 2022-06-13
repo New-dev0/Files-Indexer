@@ -791,6 +791,7 @@ antiozonant
 antiphons
 antiplague
 antipodal
+antipodean
 antipolitical
 antipolitics
 antipollution
@@ -968,6 +969,7 @@ arboretums
 arborist
 arborize
 arbors
+arbovirus
 arbutus
 arc
 arcana
@@ -1328,6 +1330,7 @@ axially
 axil
 axilla
 axillars
+axiomatically
 axisymmetry
 axseed
 ay
@@ -1685,6 +1688,7 @@ bejumbles
 beknots
 belaced
 beladying
+belaud
 belauds
 belay
 belayed
@@ -1919,6 +1923,7 @@ birdseed
 birefringent
 birkies
 birlers
+birthed
 birthmark
 birthplaces
 birthstones
@@ -2170,6 +2175,7 @@ borking
 borneol
 borons
 borough
+borrowing
 borrowings
 borrows
 borzoi
@@ -2322,6 +2328,7 @@ brilliants
 brimstony
 brine
 bringer
+brinier
 briquet
 brisked
 briskly
@@ -3402,6 +3409,7 @@ clads
 clag
 clairaudience
 clairvoyance
+clamming
 clamped
 clamping
 clamworms
@@ -3524,6 +3532,7 @@ cnidae
 coacervations
 coadjutor
 coadmire
+coadmires
 coadmits
 coagulability
 coagulase
@@ -4113,6 +4122,7 @@ cooperages
 cooperates
 cooperations
 cooperatively
+cooperatives
 coordinators
 coots
 copartners
@@ -4239,6 +4249,7 @@ cosmonauts
 cosmopolises
 cosmos
 cosseted
+costers
 costivenesses
 costumier
 cotangent
@@ -4604,6 +4615,7 @@ curliest
 curlinesses
 curls
 curragh
+curriculums
 currycombing
 cursivenesses
 cursors
@@ -7736,6 +7748,7 @@ frailly
 frails
 frakturs
 framers
+frameshift
 frameworks
 franchise
 franchisees
@@ -8038,6 +8051,7 @@ gassinesses
 gastight
 gastnesses
 gastrectomies
+gastronomical
 gastroscopist
 gastroscopy
 gastrovascular
@@ -8266,6 +8280,7 @@ gloomy
 glopped
 gloppier
 gloried
+glorify
 glorioles
 glorying
 glossemes
@@ -8337,6 +8352,7 @@ golfers
 golosh
 gomerils
 gomphosis
+gondola
 gone
 gonging
 gongoristic
@@ -9408,6 +9424,7 @@ hyperboloidal
 hyperboreans
 hypercautious
 hypercorrectly
+hypercube
 hypereutectoid
 hyperfine
 hyperfunctional
@@ -10360,6 +10377,7 @@ jasmin
 jaspery
 jato
 jaunced
+jaunt
 jauped
 javascript
 jawans
@@ -10926,6 +10944,7 @@ leapers
 leathered
 leatherlike
 leathernecks
+leavy
 lecherously
 lectern
 lectin
@@ -11386,6 +11405,7 @@ luxuriance
 luxuriate
 lyart
 lyases
+lycea
 lycopenes
 lymphoblast
 lymphomatoses
@@ -12126,6 +12146,7 @@ misbiasses
 misbinding
 misbuilds
 miscallers
+miscarry
 miscasts
 miscatalog
 miscataloged
@@ -12262,6 +12283,7 @@ mitigable
 mitigators
 mitigatory
 mitochondrion
+mitogenicities
 mitosis
 mitrewort
 mitring
@@ -12686,6 +12708,7 @@ mythiest
 mythologer
 mythologize
 mythology
+myxedematous
 myxoma
 myxomycete
 nabbing
@@ -12821,6 +12844,7 @@ neotropic
 nepeta
 nepetas
 nephelometers
+nephridial
 nephrisms
 nephrite
 nephrites
@@ -14048,6 +14072,7 @@ palmitins
 palmyra
 palominos
 paloverdes
+palpators
 palped
 palpi
 palpitated
@@ -14226,6 +14251,7 @@ pasteurizing
 pasticheurs
 pastinas
 pastinesses
+pastitsos
 pastnesses
 pastor
 pastoralism
@@ -14824,6 +14850,7 @@ pitcher
 pitchforks
 pitching
 pitchpoles
+pitchpoling
 piteous
 pithecanthropi
 pithier
@@ -16940,6 +16967,7 @@ reticulation
 reticulum
 reticulums
 retighten
+retightens
 retile
 retiled
 retinacula
@@ -17299,6 +17327,7 @@ rummer
 rummers
 rummies
 rumored
+rumpuses
 runabouts
 runaround
 runback
@@ -17621,6 +17650,7 @@ scientism
 scimitar
 scimiter
 scincoid
+scincoids
 scintigraphy
 scintilla
 sciolist
@@ -17891,6 +17921,7 @@ separates
 separating
 sepic
 sepiolites
+sepoys
 seppuku
 septal
 septennially
@@ -18063,6 +18094,7 @@ shipsides
 shipwrecked
 shirking
 shirrings
+shirtdresses
 shirting
 shirtmaker
 shitakes
@@ -18423,6 +18455,7 @@ sluggard
 sluggardness
 slugged
 sluggishly
+sluggishness
 sluicy
 slumbering
 slumberous
@@ -18724,6 +18757,7 @@ spargers
 sparingly
 sparkish
 sparklets
+sparkplug
 sparky
 sparrows
 sparsities
@@ -20528,6 +20562,7 @@ trainee
 trainmen
 trainway
 traipsing
+trait
 traject
 tramels
 tramlines
