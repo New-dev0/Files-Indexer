@@ -448,6 +448,7 @@ alleyway
 allheals
 alliable
 allies
+alligator
 alligators
 allocates
 allocation
@@ -1532,6 +1533,7 @@ barrel
 barrelheads
 barretors
 barretries
+barricadoes
 barriers
 bartender
 bartending
@@ -2292,6 +2294,7 @@ brakemen
 branchia
 branchier
 branching
+branchline
 branchlines
 brander
 brandings
@@ -4321,6 +4324,7 @@ counselorship
 countenancers
 counterargue
 counterattacks
+counterchange
 counterdemand
 counterdemands
 countereffort
@@ -4333,6 +4337,7 @@ counterordering
 counterpart
 counterplan
 counterplay
+counterplayer
 counterplays
 counterposed
 counterprotest
@@ -4446,6 +4451,7 @@ creationists
 creatively
 creativenesses
 creaturehoods
+credendum
 credentialism
 credentialling
 credible
@@ -5108,6 +5114,7 @@ delightsome
 delimiter
 delineates
 delineations
+deliquesced
 deliquescing
 deliverance
 deliveryman
@@ -5144,6 +5151,7 @@ demonizing
 demonologies
 demonstrable
 demonstrably
+demonstratively
 demoralizations
 demoralizes
 demoralizingly
@@ -6452,6 +6460,7 @@ enantiomorphism
 enatic
 encapsulation
 encashment
+encephalitogens
 encephalograph
 enchain
 enchained
@@ -6794,6 +6803,7 @@ estates
 esters
 esthesis
 esthetic
+esthetician
 estimating
 estivator
 estivators
@@ -7199,6 +7209,7 @@ farmwives
 farmworker
 faro
 farolito
+farrieries
 farsides
 farther
 fas
@@ -7307,6 +7318,7 @@ ferocity
 ferreled
 ferrelled
 ferreters
+ferried
 ferriferous
 ferrimagnetisms
 ferroconcrete
@@ -8721,6 +8733,7 @@ gumbos
 gumbotil
 gumdrops
 gummed
+gummers
 gummier
 gummiest
 gumminesses
@@ -11005,6 +11018,7 @@ latinized
 latitudes
 latosol
 latu
+lauan
 laudanum
 laudator
 laudators
@@ -12239,6 +12253,7 @@ minnow
 minster
 minutely
 miracidia
+miracidium
 miraculous
 mirandize
 mirepoix
@@ -12631,6 +12646,7 @@ mortmain
 morular
 mosaiclike
 moseyed
+motets
 mothered
 motherhouse
 mothering
@@ -12835,6 +12851,7 @@ myelomatous
 myelopathic
 myopically
 myosote
+myotic
 myotonias
 myriopods
 myrmecologist
@@ -13121,6 +13138,7 @@ noddies
 nodding
 nodi
 nodose
+nodous
 noel
 noggin
 noh
@@ -14534,6 +14552,7 @@ pemolines
 pemphixes
 penal
 penalise
+penalty
 pencel
 pencels
 penciled
@@ -14606,6 +14625,7 @@ perennated
 perennial
 perfectible
 perfects
+perforation
 perfumery
 perfusates
 perfused
@@ -17040,6 +17060,7 @@ resetter
 resetters
 resews
 reshined
+reshines
 reshingle
 reshipped
 reshipping
@@ -17207,6 +17228,7 @@ reveled
 reveling
 reverberant
 reverberates
+reverencer
 reverences
 reversibility
 revert
@@ -18145,6 +18167,7 @@ serenest
 sergeancy
 sergeant
 serger
+serial
 serializing
 seriates
 seriatim
@@ -18191,6 +18214,7 @@ sextile
 sexto
 sexuality
 sexy
+sforzandi
 sha
 shacklers
 shackoes
@@ -18770,6 +18794,7 @@ snowpacks
 snowplow
 snows
 snowshed
+snowshoer
 snowslide
 snub
 snuck
@@ -19405,6 +19430,7 @@ stonemasonry
 stones
 stonish
 stoolie
+stoolies
 stoopballs
 stoped
 stoper
@@ -20000,6 +20026,7 @@ syllabize
 syllabled
 syllabuses
 syllogist
+syllogistically
 syllogizes
 sylvanite
 sylvites
@@ -20268,6 +20295,7 @@ television
 televisor
 telex
 telic
+telium
 tellable
 tellingly
 tells
@@ -20553,6 +20581,7 @@ tiling
 tiltrotor
 tilts
 timbales
+timberheads
 timberline
 timberlines
 timbrel
@@ -20655,6 +20684,7 @@ tonettes
 tonguelike
 tonic
 tonicities
+tonicity
 tonnage
 tonnish
 tonometer
@@ -21506,6 +21536,7 @@ unimportant
 uninstalling
 uninstructed
 uninsulated
+unintelligible
 uninterests
 uninvoked
 unionism
@@ -21677,6 +21708,7 @@ unstated
 unsteadier
 unsteadily
 unsteeling
+unstoppable
 unstopper
 unstopping
 unsubdued
@@ -22072,6 +22104,7 @@ vinegarish
 vineyard
 vinosity
 vinous
+violoncellist
 violoncellists
 viols
 vireonines
@@ -22344,6 +22377,7 @@ weavers
 web
 webcams
 webers
+weblog
 webpage
 webworms
 wedder
@@ -22692,6 +22726,7 @@ xanthone
 xanthophyll
 xenia
 xenias
+xenogamy
 xenogeny
 xenograft
 xenophile

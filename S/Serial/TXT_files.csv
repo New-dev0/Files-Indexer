@@ -1,0 +1,9 @@
+Documentation/devicetree/bindings/tty/serial/of-serial.txt - kernel/msm,https://android.googlesource.com/kernel/msm/%2B/android-msm-bullhead-3.10-marshmallow-dr/Documentation/devicetree/bindings/tty/serial/of-serial.txt
+Documentation/serial-console.txt - kernel/omap - Git at Google,https://android.googlesource.com/kernel/omap/%2B/glass-omap-xrr02/Documentation/serial-console.txt
+serial-rs485.txt - The Linux Kernel Archives,https://www.kernel.org/doc/Documentation/serial/serial-rs485.txt
+USB Gadget Serial documentation - The Linux Kernel Archives,https://www.kernel.org/doc/Documentation/usb/gadget_serial.txt
+serial protocol - monome,https://monome.org/docs/serialosc/serial.txt
+linux/usb-serial.txt at master · spotify/linux - GitHub,https://github.com/spotify/linux/blob/master/Documentation/usb/usb-serial.txt
+neotrellis-monome/Monome Serial Protocol.txt at master - GitHub,https://github.com/okyeron/neotrellis-monome/blob/master/Monome%2520Serial%2520Protocol.txt
+SER_README.txt,https://www.naic.edu/~phil/hardware/byuPhasedAr/rfischercode/SER_README.txt
+Normally any serial and parallel I/O ports can be supported by BIOS ...,https://install.spotpos.com/Drivers/IO/OLD%2520IO/MultiIO%2520(OTHER)/220e-1/dos/README.TXT
