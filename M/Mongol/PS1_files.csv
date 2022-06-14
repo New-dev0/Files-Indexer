@@ -1,0 +1,6 @@
+library/languages.ps1 1.1.22 - PowerShell Gallery,https://www.powershellgallery.com/packages/kbupdate/1.1.22/Content/library%255Clanguages.ps1
+Office-IT-Pro-Deployment-Scripts/Remove-PreviousOfficeInstalls ...,https://github.com/OfficeDev/Office-IT-Pro-Deployment-Scripts/blob/master/Office-ProPlus-Deployment/Remove-PreviousOfficeInstalls/Remove-PreviousOfficeInstalls.ps1
+Office-IT-Pro-Deployment-Scripts/Edit-OfficeConfigurationFile.ps1 at ...,https://github.com/OfficeDev/Office-IT-Pro-Deployment-Scripts/blob/master/Office-ProPlus-Deployment/Deploy-OfficeClickToRun/Edit-OfficeConfigurationFile.ps1
+[CmdletBinding(SupportsShouldProcess=$true)] param( [Parameter ...,https://raw.githubusercontent.com/OfficeDev/Office-IT-Pro-Deployment-Scripts/master/Office-ProPlus-Deployment/Remove-PreviousOfficeInstalls/Remove-PreviousOfficeInstalls.ps1
+[String]$global:saveLastConfigFile = $NULL [String]$global ...,https://raw.githubusercontent.com/officedev/Office-IT-Pro-Deployment-Scripts/master/Office-ProPlus-Deployment/Deploy-OfficeClickToRun/Edit-OfficeConfigurationFile.ps1
+powershell create profile.ps1 Code Example - Code Grepper,https://www.codegrepper.com/code-examples/whatever/powershell%2Bcreate%2Bprofile.ps1

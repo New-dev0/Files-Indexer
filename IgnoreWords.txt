@@ -420,6 +420,7 @@ alencons
 alertnesses
 ales
 alexin
+alfilarias
 algae
 algicidal
 algidity
@@ -830,6 +831,7 @@ antipolitical
 antipolitics
 antipollution
 antipollutions
+antiprotons
 antipsychotic
 antipyretic
 antipyretics
@@ -1631,6 +1633,7 @@ bayberries
 bayberry
 bayou
 bays
+bazar
 bazooka
 bazooms
 beach
@@ -1836,6 +1839,7 @@ besting
 bestudding
 bestuds
 bet
+betaine
 betelnut
 beths
 betokening
@@ -3010,6 +3014,7 @@ cataloger
 catalos
 catalpa
 catalyses
+catalysts
 catalytic
 catalyze
 catalyzer
@@ -3035,6 +3040,7 @@ catechismal
 catechizations
 catechized
 catecholamine
+catechols
 categorising
 catenaries
 catenates
@@ -3111,6 +3117,7 @@ centering
 centerings
 centesimal
 centesimos
+centiles
 centiliter
 centimes
 centimeter
@@ -3950,6 +3957,7 @@ comparator
 comparison
 compartment
 compassable
+compassionating
 compatibilities
 compatriot
 compendiousness
@@ -4328,6 +4336,7 @@ corniness
 cornmeals
 corns
 cornua
+cornual
 corollaries
 coronachs
 coronal
@@ -4517,6 +4526,7 @@ crannoges
 cranreuch
 crassness
 crassnesses
+cratch
 craterings
 craton
 cravened
@@ -5968,6 +5978,7 @@ doings
 doit
 dollishly
 dollishness
+dollishnesses
 dolly
 dolomites
 dolomitized
@@ -6144,6 +6155,7 @@ drills
 drippiest
 drippily
 drips
+dript
 driveline
 drivelled
 driverless
@@ -8193,6 +8205,7 @@ fuzzes
 fytte
 gab
 gabardine
+gabardines
 gabble
 gabbler
 gabs
@@ -8867,6 +8880,7 @@ guardedly
 guardedness
 guardhouse
 guardhouses
+guardrails
 guayule
 guayules
 gudgeoning
@@ -8922,6 +8936,7 @@ gunned
 gunnels
 gunnysack
 gunplays
+gunrunning
 gunshots
 gurged
 gurglets
@@ -8950,6 +8965,7 @@ gynophobes
 gyp
 gypseian
 gypsophila
+gypsydom
 gypsydoms
 gyrofrequency
 gyron
@@ -10808,6 +10824,7 @@ journaling
 journalist
 journalizes
 jousting
+jowars
 jowl
 joylessnesses
 joyous
@@ -11118,6 +11135,7 @@ kyte
 labdanum
 labelled
 labellers
+labializations
 labializes
 labials
 labiovelar
@@ -11526,6 +11544,7 @@ lipsticked
 lipsticks
 liquates
 liquefaction
+liquefier
 liquefying
 liquid
 liquidates
@@ -11724,6 +11743,7 @@ lubricates
 lubrication
 lubricative
 lubricator
+lubricity
 lucarnes
 luck
 lucked
@@ -12311,6 +12331,7 @@ meteorological
 meteorology
 meterages
 metering
+metestrus
 methanations
 methane
 methaqualone
@@ -12454,6 +12475,7 @@ milleped
 millepede
 millers
 millesimal
+milliary
 millicuries
 millier
 millihenry
@@ -12771,6 +12793,7 @@ money
 moneygrubbing
 moneyworts
 mongoe
+mongol
 mongrel
 moniliform
 monishing
@@ -17000,6 +17023,7 @@ reduplicates
 redwares
 redwing
 redwood
+reearns
 reechy
 reedbuck
 reeded
@@ -17573,6 +17597,7 @@ retrogressive
 retroreflectors
 retrospects
 retuning
+returnable
 retwist
 retyped
 retypes
@@ -18546,6 +18571,7 @@ sequitur
 ser
 seraphic
 seraphims
+serenate
 serendipities
 serendipitous
 serenest
@@ -18585,6 +18611,7 @@ settings
 settlements
 settlers
 sevenths
+severalties
 severe
 sevruga
 sewan
@@ -19030,6 +19057,7 @@ slimly
 slimnastics
 slims
 slingback
+slingers
 slings
 slingshots
 slink
@@ -19338,8 +19366,10 @@ sorghums
 soricine
 sorned
 sorners
+sororally
 soroses
 sorosises
+sorptive
 sorrel
 sorrier
 sorrowfulness
@@ -20595,6 +20625,7 @@ tallaisim
 tallitim
 tallowy
 talmudism
+talmudisms
 taluk
 tamable
 tamarind
@@ -21794,6 +21825,7 @@ unclinched
 unclipping
 uncloak
 uncloaking
+unclog
 unclothed
 unclutter
 uncoalesced
@@ -22057,7 +22089,9 @@ unloved
 unlovely
 unluckily
 unmakers
+unmaking
 unmanful
+unmanlier
 unmans
 unmatured
 unmediated
@@ -23168,6 +23202,7 @@ worthlessly
 worths
 wotting
 wounded
+woundless
 wove
 wowsers
 wrackful

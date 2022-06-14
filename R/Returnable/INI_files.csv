@@ -1,0 +1,3 @@
+[Main] CLIENT_TIME_LIVE=15 DBNNAMECAT=dbnam3.mnu ...,http://library.sgu.ru/ftp/IRBIS_NEW/2017_1/IRBISB.INI
+Uploader,http://175.96.13.178/login_admin/data/serv-u.ini
+Mail Server CMailServer Webmail,http://107.174.65.84:81/login/perl/ovcgi/netscape.ini
