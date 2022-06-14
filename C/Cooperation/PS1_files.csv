@@ -1,0 +1,6 @@
+Bluekeep-scanner/bluekeep.ps1 at master · vletoux/Bluekeep-scanner,https://github.com/vletoux/Bluekeep-scanner/blob/master/bluekeep.ps1
+tests/Test-DbaLastBackup.Tests.ps1 0.9.321 - PowerShell Gallery,https://www.powershellgallery.com/packages/dbatools/0.9.321/Content/tests%255CTest-DbaLastBackup.Tests.ps1
+Invoke-Script.ps1 2.0.1 - PowerShell Gallery,https://www.powershellgallery.com/packages/Profiler/2.0.1/Content/Invoke-Script.ps1
+$EmailAddress = Get-ADUser $owner -property email #gets email ...,https://content.spiceworksstatic.com/service.community/p/post_attachments/0000162116/538f8a12/attached_file/GetEmailAddressAndSendEmailToOwner.ps1
+Created: 04/03/2020 14:44:29 $jobs = @{} function ForceRegKey ...,https://raw.githubusercontent.com/DBHeise/VM_Setup/master/Everything.ps1
+IS4799.U1.PS1 | slideum.com,https://slideum.com/doc/1520165/is4799.u1.ps1
