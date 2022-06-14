@@ -224,6 +224,7 @@ admissibilities
 admittance
 admix
 admonitions
+adolescent
 adolescents
 adopt
 adoptionist
@@ -2347,6 +2348,7 @@ breakages
 breakfast
 breakfaster
 breakwater
+breastfeed
 breastpins
 breasts
 breathers
@@ -2801,6 +2803,7 @@ capitols
 capitulary
 cappers
 capriccio
+caprices
 caprifications
 caprifigs
 caprioled
@@ -6536,6 +6539,7 @@ endemial
 endemism
 endocardial
 endoderm
+endogenic
 endogenies
 endomitoses
 endomorphs
@@ -7435,6 +7439,7 @@ filariases
 filariasis
 filch
 filched
+filches
 filefishes
 filibeg
 filibegs
@@ -7920,6 +7925,7 @@ fraulein
 freakinesses
 freaks
 freckles
+frecklier
 free
 freebases
 freebee
@@ -8419,6 +8425,7 @@ glibbest
 glibness
 glidepath
 gliders
+glimpse
 glint
 glintiest
 glisten
@@ -9406,10 +9413,12 @@ honors
 hooches
 hoodies
 hoodiest
+hooding
 hoodmold
 hoodwink
 hoodwinker
 hoodwinkers
+hoodwinking
 hooey
 hook
 hookier
@@ -9862,6 +9871,7 @@ improvs
 impugn
 impugned
 impulsiveness
+imputably
 imputer
 inactions
 inactive
@@ -11054,6 +11064,7 @@ languorously
 languors
 lankest
 lankier
+lankiness
 lankness
 lanugo
 lap
@@ -11106,6 +11117,7 @@ lauan
 laudanum
 laudator
 laudators
+lauders
 laughablenesses
 laughably
 laughed
@@ -11469,6 +11481,7 @@ logisticians
 logjam
 lognormal
 lognormality
+logogrammatic
 logographically
 logotypies
 logrolled
@@ -11639,6 +11652,7 @@ lyophilizes
 lyricise
 lysine
 lysogen
+lysogenies
 lysogenise
 lysosomal
 lyssa
@@ -11691,6 +11705,7 @@ magnetos
 magnifier
 magniloquent
 magot
+maharajas
 maharishis
 maieutic
 maigre
@@ -12169,6 +12184,7 @@ methylations
 metical
 metis
 metonymies
+metopes
 metrical
 metrologist
 metronidazole
@@ -13741,6 +13757,7 @@ oppugn
 oppugnant
 oppugning
 opsin
+opsins
 opsonized
 opted
 opticist
@@ -13789,6 +13806,7 @@ orientating
 orienteering
 orienteers
 orienting
+orients
 origamis
 orinasals
 orismology
@@ -14145,6 +14163,7 @@ overleaps
 overlearns
 overlengthens
 overletting
+overlighted
 overliteral
 overlived
 overlooking
@@ -14872,6 +14891,7 @@ phantasmagoric
 pharisaically
 pharmacist
 pharmacodynamic
+pharmacognosy
 pharmacokinetic
 pharmacologist
 pharmacology
@@ -15405,6 +15425,7 @@ polymerized
 polymorphic
 polymorphously
 polyol
+polyolefins
 polyparies
 polypores
 polypous
@@ -16329,6 +16350,7 @@ quillais
 quillworts
 quinaries
 quinate
+quinoa
 quinolone
 quinquennials
 quinquennium
@@ -16660,6 +16682,7 @@ recognizer
 recognizers
 recombinant
 recombing
+recommencement
 recommences
 recommendatory
 recommissioning
@@ -16729,6 +16752,7 @@ redefecting
 redefining
 redefinition
 redelivering
+redemption
 redeployed
 redeployments
 redepositing
@@ -16789,6 +16813,7 @@ reek
 reel
 reeled
 reeligible
+reels
 reembarked
 reembraces
 reemerges
@@ -16905,6 +16930,7 @@ regreeting
 regretfulnesses
 regrinds
 regroomed
+regrooms
 regrooves
 regularities
 regularization
@@ -16943,6 +16969,7 @@ reinforcing
 reinforming
 reinjections
 reinless
+reinoculating
 reinoculation
 reinspecting
 reinstates
@@ -17309,6 +17336,7 @@ retighten
 retightens
 retile
 retiled
+retiming
 retinacula
 retine
 retinitides
@@ -17840,6 +17868,7 @@ saponaceousness
 saponifier
 saponine
 saponins
+sapphism
 sappiness
 sappinesses
 sapraemias
@@ -18387,6 +18416,7 @@ sharecrops
 sharias
 sharifs
 sharpers
+sharpest
 sharpies
 shat
 shatter
@@ -20083,6 +20113,7 @@ surnamer
 surnamers
 surpassingly
 surplus
+surplusages
 surprised
 surprisingly
 surprizes
@@ -20753,6 +20784,7 @@ timing
 timorously
 timpani
 tincted
+tinctorially
 tincts
 tinctured
 tineas
@@ -20763,6 +20795,7 @@ tingling
 tinily
 tinker
 tinkled
+tinkler
 tinner
 tip
 tipcart
@@ -21173,6 +21206,7 @@ tritheistical
 tritium
 tritone
 triunity
+trivial
 trivialised
 trivialist
 troak
@@ -23027,6 +23061,7 @@ zappers
 zappy
 zaptiahs
 zarebas
+zareeba
 zastrugi
 zazens
 zealousness
