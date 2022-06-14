@@ -1,0 +1,7 @@
+CheckSolution.ps1 9.1.0.2 - PowerShell Gallery,https://www.powershellgallery.com/packages/Xrm.Framework.CI.PowerShell.Cmdlets/9.1.0.2/Content/CheckSolution.ps1
+Set-BlueLight.ps1 1.0.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/Set-BlueLight/1.0.0/Content/Set-BlueLight.ps1
+dyn365-ce-vsts-tasks/CheckSolution.ps1 at master - GitHub,https://github.com/WaelHamze/dyn365-ce-vsts-tasks/blob/master/BuildTools/Xrm.CI.Framework.BuildTools/Lib/xRMCIFramework/9.0.0/CheckSolution.ps1
+Scripts/ExchangeOnlineGetMailboxLocations.ps1 at master - GitHub,https://github.com/chrisdee/Scripts/blob/master/PowerShell/Working/o365/ExchangeOnline/ExchangeOnlineGetMailboxLocations.ps1
+functions/Invoke-DbaDbPiiScan.ps1 1.0.60 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/dbatools/1.0.60/Content/functions%255CInvoke-DbaDbPiiScan.ps1
+Get-CultureTables.ps1 #> # Set the common parameters $path ...,https://raw.githubusercontent.com/auberginehill/get-culture-tables/master/Get-CultureTables.ps1
+Microsoft.PowerShell_profile.ps1 Code Example - Code Grepper,https://www.codegrepper.com/code-examples/whatever/Microsoft.PowerShell_profile.ps1
