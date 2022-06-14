@@ -1,0 +1,6 @@
+Penetration-Testing-Tools/Disable-Amsi.ps1 at master - GitHub,https://github.com/mgeeky/Penetration-Testing-Tools/blob/master/red-teaming/Disable-Amsi.ps1
+Penetration-Testing-Tools/Disable-ScriptLogging.ps1 at master,https://github.com/mgeeky/Penetration-Testing-Tools/blob/master/red-teaming/Disable-ScriptLogging.ps1
+Recon/Invoke-ReverseDnsLookup.ps1 1.0.0.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/PowerSploit/1.0.0.0/Content/Recon%255CInvoke-ReverseDnsLookup.ps1
+Module/Rule/Convert/Functions.ps1 4.5.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/PowerSTIG/4.5.0/Content/Module%255CRule%255CConvert%255CFunctions.ps1
+Invoke-HostRecon - GitHub,https://raw.githubusercontent.com/dafthack/HostRecon/master/HostRecon.ps1
+function Resolve-DnsDomainValidationToken { <# .SYNOPSIS This ...,https://raw.githubusercontent.com/NetSPI/PowerShell/master/Resolve-DnsDomainValidationToken.ps1

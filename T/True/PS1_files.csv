@@ -1,0 +1,9 @@
+Functions/Assert-True.ps1 0.15.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/Blade/0.15.0/Content/Functions%255CAssert-True.ps1
+src/Boolean/Assert-True.ps1 0.9.5 - PowerShell Gallery,https://www.powershellgallery.com/packages/Assert/0.9.5/Content/src%255CBoolean%255CAssert-True.ps1
+azure-pipelines-task-lib/Test-Rooted.ps1 at master - GitHub,https://github.com/microsoft/azure-pipelines-task-lib/blob/master/powershell/Tests/L0/Test-Rooted.ps1
+AADInternals/AzureManagementAPI.ps1 at master - GitHub,https://github.com/Gerenios/AADInternals/blob/master/AzureManagementAPI.ps1
+Tests\cOctopusServerUsernamePasswordAuthentication.Tests.ps1,https://psg-prod-centralus.cloudapp.net/packages/OctopusDSC/4.0.357/Content/Tests%255CcOctopusServerUsernamePasswordAuthentication.Tests.ps1
+SecureBoot/sb_set_siglists.ps1 - VeraCrypt - Free Open source disk ...,https://veracrypt.fr/code/VeraCrypt-DCS/tree/SecureBoot/sb_set_siglists.ps1%3Fid%3D541c619dcccaf6702e96b73a30a5621e0ccef285
+Install-AxAgentMsi.ps1 - Automox,https://patch.automox.com/rs/923-VQX-349/images/Install-AxAgentMsi.ps1
+INPUT # $auth # $protocol # $publicDnsName # $ServiceTierFolder ...,https://raw.githubusercontent.com/microsoft/nav-docker/master/generic/Run/SetupConfiguration.ps1
+lib/ansible/modules/windows/win_region.ps1 - Fossies,https://fossies.org/linux/ansible/lib/ansible/modules/windows/win_region.ps1
