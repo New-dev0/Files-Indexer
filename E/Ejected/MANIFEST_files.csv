@@ -1,0 +1,10 @@
+ubuntu-16.04.6-server-i386.manifest - Ubuntu Releases,https://releases.ubuntu.com/16.04/ubuntu-16.04.6-server-i386.manifest
+ubuntu-14.04.6-server-i386.manifest - Ubuntu Releases,https://releases.ubuntu.com/14.04/ubuntu-14.04.6-server-i386.manifest
+ubuntu-18.04.1-server-s390x.manifest,https://mirrors.aliyun.com/oldubuntu-releases/releases/18.04.3/ubuntu-18.04.1-server-s390x.manifest
+adduser 3.113+nmu3ubuntu4 apt 1.2.29ubuntu0.1 apt-utils 1.2 ...,https://mirrors.aliyun.com/oldubuntu-releases/releases/16.04.4/ubuntu-16.04.6-server-amd64.manifest
+Resetter/LinuxMint_19_X-Cinnamon_64bit_.manifest at master,https://github.com/gaining/Resetter/blob/master/Resetter/usr/lib/resetter/data/manifests/LinuxMint_19_X-Cinnamon_64bit_.manifest
+Resetter/Ubuntu_18.04_ubuntu:GNOME_64bit_.manifest at master,https://github.com/gaining/Resetter/blob/master/Resetter/usr/lib/resetter/data/manifests/Ubuntu_18.04_ubuntu:GNOME_64bit_.manifest
+turnkey-bitkey-14.2.0-jessie-amd64.manifest,https://releases.turnkeylinux.org/turnkey-bitkey/14.2.0-jessie-amd64/turnkey-bitkey-14.2.0-jessie-amd64.manifest
+ubuntu-18.04.2-live-server-amd64.manifest - Ubuntu Releases,http://ubuntu.interhost.co.il/18.04/ubuntu-18.04.2-live-server-amd64.manifest
+ubuntu-20.04-live-server-amd64.manifest - Ubuntu Releases,http://ubuntu.interhost.co.il/20.04/ubuntu-20.04-live-server-amd64.manifest
+"Package: 464xlat Version: 12 Depends: libc, kmod-nat46, ip Source ...",https://downloads.openwrt.org/releases/19.07.7/packages/x86_64/base/Packages.manifest
