@@ -1,0 +1,17 @@
+snippets/ProxyFunction.Begin.ps1 1.0.6.19 - PowerShell Gallery,https://www.powershellgallery.com/packages/SnippetPx/1.0.6.19/Content/snippets%255CProxyFunction.Begin.ps1
+snippets/ProxyFunction.Begin.ps1 1.0.4.16 - PowerShell Gallery,https://www.powershellgallery.com/packages/SnippetPx/1.0.4.16/Content/snippets%255CProxyFunction.Begin.ps1
+EUCMonitoring/Begin-EUCMonitor.ps1 at master - GitHub,https://github.com/dbretty/EUCMonitoring/blob/master/DashboardConfig/Begin-EUCMonitor.ps1
+azure-pipelines-task-lib/OutFunctions.ps1 at master - GitHub,https://github.com/microsoft/azure-pipelines-task-lib/blob/master/powershell/VstsTaskSdk/OutFunctions.ps1
+"param( [pscredential]$credential = $(Get-Credential), [Parameter ...",https://git.sunshine.moe/michael/migrate-groups-to-o365/raw/branch/execute-process-updates/Start-GroupMIgration.ps1
+Dependencies\EPS\0.5.0\Each.ps1 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/InvokeAbilityHelpers/0.0.1/Content/Dependencies%255CEPS%255C0.5.0%255CEach.ps1
+"function Send-Mail{ param($smtpServer,$from,$to,$subject,$body ...",https://content.spiceworksstatic.com/service.community/p/post_attachments/0000077109/4f2bd57e/attached_file/CleansedPasswordExpiry.ps1
+RecordPoint 4.0 - Confluence - Atlassian.net,https://recordpointdocumentation.atlassian.net/wiki/spaces/R4/pages/396109/RecordPoint.Import.ActiveQueueTimerJobs.ps1
+https://raw.githubusercontent.com/waldo1001/Cloud....,https://raw.githubusercontent.com/waldo1001/Cloud.Ready.Software.PowerShell/master/PSScripts/NAV%2520Extensions/3_CreateWebServices_WithCodeunit.ps1
+functions/SelectFunctions.ps1 2.14.0 - PowerShell Gallery,https://40.87.85.101/packages/PSScriptTools/2.14.0/Content/functions%255CSelectFunctions.ps1
+New-CommandWrapper.ps1 ... - O'Reilly Resources - O'Reilly Media,https://resources.oreilly.com/examples/0636920024132/blob/61f69f13b7883b70e8fe202e091676481790a28f/New-CommandWrapper.ps1
+venv-windows/Scripts/Activate.ps1 - GitLab,https://git.cs.usask.ca/kak110/alphatech/-/blob/a244f819ae4f96de6f308d5bdf7e5c67a0cb44f1/venv-windows/Scripts/Activate.ps1
+exports/ProxyCmdletDefinitions.ps1 1.0.1 - PowerShell Gallery Test,https://www.poshtestgallery.com/packages/Azs.Subscriptions/1.0.1/Content/exports%255CProxyCmdletDefinitions.ps1
+Copyright 2019-2022 ActiveState Software Inc. All rights reserved ...,https://platform.activestate.com/dl/cli/AS70/install.ps1
+https://omd.rhrk.uni-kl.de/windows/plugins/mk_orac...,https://omd.rhrk.uni-kl.de/windows/plugins/mk_oracle.ps1
+Function Enable-RDP { <# .SYNOPSIS Remotly enable RDP on ...,https://soka.gitlab.io/blog/post/2020-01-03-ps-habilitar-rdp-y-reglas-firewall/src/Enable-RDP.ps1
+update.ps1 · master · Andrew / winsysupdate · GitLab,https://gitlab.com/banzr/winsysupdate/-/blob/master/update.ps1
