@@ -1073,6 +1073,7 @@ arrowhead
 arrowlike
 arrowworm
 arsenides
+arsenite
 arshins
 arsino
 arsphenamine
@@ -1868,6 +1869,7 @@ bigeneric
 biggies
 bigging
 bigly
+bignonias
 bigotedly
 bihourly
 bijection
@@ -2111,6 +2113,7 @@ blunderbusses
 blunged
 blunger
 blungers
+bo
 boarder
 boardinghouses
 boarfish
@@ -2994,6 +2997,7 @@ catechized
 catecholamine
 categorising
 catenaries
+catenates
 cater
 catercorner
 caterer
@@ -3510,6 +3514,7 @@ cleanses
 cleareyed
 clearly
 clearwings
+cleistogamy
 clencher
 clenches
 clepes
@@ -3967,6 +3972,7 @@ concurred
 concurrent
 concurrently
 concuss
+condemnation
 condemning
 condensations
 condign
@@ -5021,6 +5027,7 @@ decreases
 decreers
 decrepitate
 decrescent
+decrials
 decryptions
 decrypts
 decupling
@@ -6388,6 +6395,7 @@ elegist
 elegizing
 elegy
 element
+elementals
 elenchic
 elephantine
 eleventh
@@ -8570,6 +8578,7 @@ grandaunt
 grandaunts
 granddads
 granddaughters
+grandmamas
 grandnephew
 grandpapa
 grandparenthood
@@ -8810,6 +8819,7 @@ gustable
 gusto
 gutsiest
 guttered
+gutting
 guy
 gybed
 gymkhana
@@ -9017,6 +9027,7 @@ hautboy
 haute
 havdalah
 havior
+hawking
 hawkweed
 hawsepipes
 hawsers
@@ -9366,6 +9377,7 @@ homologized
 homologizes
 homologizing
 homomorphism
+homonuclear
 homonymies
 homophobes
 homophobia
@@ -9812,6 +9824,7 @@ implausibility
 implead
 impletions
 implodes
+implored
 impone
 importance
 importation
@@ -9947,6 +9960,7 @@ indecomposable
 indefeasible
 indefectibly
 indefensible
+indefensibly
 indefinables
 indehiscences
 indelicacies
@@ -10285,6 +10299,7 @@ interpolating
 interposing
 interpretable
 interpretations
+interpreted
 interpupillary
 interrelated
 interrelating
@@ -10605,6 +10620,7 @@ jetports
 jetsoms
 jew
 jewel
+jewelries
 jewfish
 jibbed
 jibbers
@@ -10851,6 +10867,7 @@ kilometre
 kilos
 kilty
 kimono
+kinder
 kindergarteners
 kindergartners
 kindheartedly
@@ -11356,6 +11373,7 @@ lipolytic
 lippened
 lippers
 lipreading
+lipstick
 lipsticked
 lipsticks
 liquates
@@ -11668,6 +11686,7 @@ magistratically
 magnesias
 magnetise
 magnetising
+magnetizing
 magnetos
 magnifier
 magniloquent
@@ -13082,6 +13101,7 @@ neotenic
 neotropic
 nepeta
 nepetas
+nephelinic
 nephelometers
 nephoscopes
 nephridial
@@ -13167,6 +13187,7 @@ niffering
 niftily
 nighs
 night
+nightlifes
 nightmarish
 nightscope
 nightshade
@@ -13602,6 +13623,7 @@ offertory
 offhand
 offhanded
 officeholders
+officiants
 officinal
 offishness
 offloads
@@ -14008,6 +14030,7 @@ outtowering
 outtrick
 outvie
 outvoices
+outvotes
 outwardnesses
 outwearing
 outwearying
@@ -14473,6 +14496,7 @@ parroted
 parrs
 parsley
 parsleyed
+parsnips
 partakers
 partakes
 parterre
@@ -14876,6 +14900,7 @@ philanthropy
 philatelically
 philhellenisms
 philhellenists
+philistine
 philistinisms
 philologists
 philomelas
@@ -16209,6 +16234,7 @@ pyrexic
 pyridoxin
 pyritic
 pyroclastic
+pyrogenic
 pyrolas
 pyrolized
 pyrolizing
@@ -16418,6 +16444,7 @@ ramifying
 rammier
 ramped
 ramshorn
+ramtil
 ranched
 ranchos
 rancour
@@ -16488,6 +16515,7 @@ rawin
 rayah
 razees
 razers
+razorbill
 razzamatazz
 razzberry
 razzmatazz
@@ -16705,6 +16733,7 @@ redeployed
 redeployments
 redepositing
 redetermination
+redhead
 redhorse
 redial
 redialing
@@ -16780,6 +16809,7 @@ reestablish
 reestablishment
 reeve
 reeving
+reexamine
 reexecuted
 reexhibiting
 reexhibits
@@ -16982,6 +17012,7 @@ remastered
 rematch
 rematches
 rematerializes
+remeasuring
 remember
 rememberable
 remembering
@@ -17266,6 +17297,7 @@ retestify
 retexture
 retextured
 retexturing
+rethinker
 rethinkers
 rethreaded
 reticulate
@@ -17844,6 +17876,7 @@ satirists
 satisfiable
 satisfier
 satisfies
+satsumas
 saturable
 saturate
 saturates
@@ -18053,6 +18086,7 @@ scrouging
 scroungiest
 scrubwoman
 scruffy
+scrutinise
 scrutinises
 scrying
 scuba
@@ -18278,6 +18312,7 @@ sericulture
 sericulturists
 serifed
 seriousnesses
+sermonizer
 seronegativity
 serosas
 serosity
@@ -18478,6 +18513,7 @@ shrewed
 shrewishly
 shrewmouse
 shrieked
+shrieve
 shriller
 shrillnesses
 shrimps
@@ -18524,6 +18560,7 @@ sickouts
 sics
 siddurs
 side
+sidednesses
 sidehill
 sidehills
 sidelight
@@ -18832,6 +18869,7 @@ smite
 smiter
 smitheries
 smockings
+smogless
 smokehouses
 smokepot
 smokily
@@ -18960,6 +18998,7 @@ solecised
 solei
 solemnization
 solemnizations
+solemnnesses
 soleplate
 soleprint
 soliciting
@@ -19960,6 +19999,7 @@ superhighway
 superhits
 superhumanities
 superinduction
+superinfects
 superintend
 superintendents
 superintends
@@ -20544,6 +20584,7 @@ thankworthy
 thawless
 thearchies
 theatergoers
+theatres
 theatricalism
 theatricalities
 theatricalize
@@ -20825,6 +20866,7 @@ tootled
 top
 topcross
 tope
+toped
 toper
 topful
 tophe
@@ -22499,6 +22541,7 @@ wealthier
 weaponry
 wearisomenesses
 weasands
+weasons
 weatherability
 weathercast
 weatherglass
