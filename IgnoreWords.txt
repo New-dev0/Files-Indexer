@@ -1767,6 +1767,7 @@ begrimmed
 begrudge
 beguilers
 begulfing
+behaves
 behinds
 beholds
 behoove
@@ -2074,6 +2075,7 @@ blacktop
 bladdery
 bladed
 bladeless
+blaff
 blameful
 blamefully
 blameless
@@ -3896,6 +3898,7 @@ colonialisms
 colonialistic
 colonialists
 colonisation
+colonizers
 colonnade
 colons
 colophonies
@@ -5187,6 +5190,7 @@ defections
 defector
 defectors
 defenceman
+defencing
 defender
 defensed
 defenseless
@@ -5228,6 +5232,7 @@ defrost
 defrosters
 deftest
 defuelled
+defuser
 defuzed
 degami
 degasser
@@ -6493,6 +6498,7 @@ eggars
 eggnog
 eggnogs
 eggshells
+eglantines
 ego
 egocentrically
 egocentricity
@@ -7505,6 +7511,7 @@ federal
 federating
 federative
 feds
+feedgrains
 feedlot
 feeling
 feelings
@@ -7659,6 +7666,7 @@ fingerposts
 fingerprintings
 finickinesses
 finings
+finishes
 finishing
 finitude
 finked
@@ -7766,6 +7774,7 @@ flared
 flashbacks
 flashcard
 flashed
+flashgun
 flashings
 flashover
 flask
@@ -8562,6 +8571,7 @@ gigue
 gilt
 gimballing
 gimlets
+gimmals
 gimmick
 gingeley
 gingelies
@@ -8996,6 +9006,7 @@ guillemet
 guilt
 guiltless
 guimpes
+guineas
 guises
 guising
 guldens
@@ -9552,6 +9563,7 @@ hogging
 hogmenays
 hogtied
 hoisters
+hokey
 hokeynesses
 hoking
 hokums
@@ -9874,6 +9886,7 @@ hyperresponsive
 hypersecretions
 hypersonic
 hypersthene
+hypertonia
 hypertypical
 hyperuricemia
 hyperventilate
@@ -10326,6 +10339,7 @@ informality
 informants
 information
 informative
+infos
 infotainments
 infracting
 infraspecific
@@ -12721,11 +12735,13 @@ misdoer
 misdoers
 misdoes
 mise
+miseducates
 misemploy
 misenrolls
 misesteem
 misevaluated
 misfiled
+misfire
 misfiring
 misfocuses
 misfocusses
@@ -13644,6 +13660,7 @@ nondescriptive
 nondialyzable
 nondocumentary
 nondollar
+nondominant
 nondrip
 nondrying
 noneconomic
@@ -13936,6 +13953,7 @@ octillions
 octogenarians
 octoploid
 octrois
+octyl
 oculars
 odahs
 oddball
@@ -14368,6 +14386,7 @@ outsmelt
 outsmoked
 outsoles
 outspell
+outspokenness
 outspread
 outsprints
 outstated
@@ -14492,6 +14511,7 @@ overimaginative
 overindulge
 overinflate
 overinform
+overinforms
 overingenious
 overingenuity
 overissuances
@@ -15565,6 +15585,7 @@ placekickers
 placekicks
 placeman
 placements
+placental
 placentals
 placentation
 placid
@@ -16007,6 +16028,7 @@ preadolescent
 preadopted
 preadult
 preaged
+preallots
 prealter
 preanal
 prearm
@@ -16036,6 +16058,7 @@ precipitously
 precipitousness
 precisely
 preciseness
+precisians
 precleaned
 precleans
 preclearances
@@ -16734,6 +16757,7 @@ quercetin
 queried
 queriers
 querists
+quern
 querulousness
 questioned
 quezales
@@ -17194,6 +17218,7 @@ redonning
 redouble
 redoubtable
 redounded
+redout
 redouts
 redpolls
 redrew
@@ -17876,6 +17901,7 @@ rheumier
 rheumiest
 rhinestoned
 rhizobial
+rhizoidal
 rhizoids
 rhizoma
 rhizoplane
@@ -17895,6 +17921,7 @@ riatas
 ribald
 ribaldry
 ribands
+ribbers
 ribonucleotide
 ribosomes
 ricercari
@@ -18295,6 +18322,7 @@ sanga
 sangarees
 sangh
 sanghs
+sanguinarias
 sanitated
 sanitoria
 sannyasin
@@ -19997,6 +20025,7 @@ steelmaker
 steelmakings
 steelwork
 steelyards
+steenbucks
 steepens
 steepest
 steeplechaser
@@ -20269,6 +20298,7 @@ subarctics
 subas
 subbasements
 subbass
+subcavity
 subcellular
 subcenter
 subcenters
@@ -20681,6 +20711,7 @@ swidden
 swifter
 swiftness
 swillers
+swimmily
 swindles
 swing
 swinges
@@ -21526,6 +21557,7 @@ tragicomedies
 tragus
 trail
 trailerings
+trainabilities
 trainability
 trainee
 trainmen
@@ -22128,6 +22160,7 @@ underbrush
 underbuying
 underclothing
 undercoating
+underdosed
 underdosing
 undereats
 underestimated
@@ -22594,6 +22627,7 @@ ureter
 ureteric
 urge
 urial
+urinalyses
 urinalysis
 urination
 urinators
@@ -23077,6 +23111,7 @@ warming
 warmongerings
 warmups
 warped
+warplane
 warranted
 warrantor
 warren
