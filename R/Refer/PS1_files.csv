@@ -1,0 +1,28 @@
+Get-ADFsmoRole.ps1 1.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/Get-ADFsmoRole/1.0/Content/Get-ADFsmoRole.ps1
+Public/Get-UserSessions.ps1 1.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/PSSysAdminToolkit/1.0/Content/Public%255CGet-UserSessions.ps1
+DevOpsKit-docs/PIMSampleScript.ps1 at master · azsk ... - GitHub,https://github.com/azsk/DevOpsKit-docs/blob/master/01-Subscription-Security/PIMSampleScript.ps1
+azure-pipelines-tasks/AzurePowerShell.ps1 at master - GitHub,https://github.com/microsoft/azure-pipelines-tasks/blob/master/Tasks/AzurePowerShellV4/AzurePowerShell.ps1
+ansible2/ansible_test/_data/sanity/validate-modules ... - CS@VT,https://version.cs.vt.edu/techstaff/linux-audit/-/blob/master/ansible2/ansible_test/_data/sanity/validate-modules/validate_modules/ps_argspec.ps1
+Public/Intrinsic Functions/Add-FnRef.ps1 1.0.0 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/VaporShell/1.0.0/Content/Public%255CIntrinsic%2520Functions%255CAdd-FnRef.ps1
+.SYNOPSIS Deletes an endpoint package. .DESCRIPTION This ...,https://public.support.unisys.com/st3/docs/Stealth-3.4/82059494-004/examples/powershell/Delete-EndpointPackage.ps1
+Install-AxAgentMsi.ps1 - Automox,https://patch.automox.com/rs/923-VQX-349/images/Install-AxAgentMsi.ps1
+.DESCRIPTION This script scans for updates on the device. Steps to ...,https://raw.githubusercontent.com/anoobbacker/storsimpledevicemgmttools/master/Get-DeviceUpdateAvailability.ps1
+Manage-CloudSnapshots.ps1 - GitHub,https://raw.githubusercontent.com/anoobbacker/storsimpledevicemgmttools/master/Manage-CloudSnapshots.ps1
+AzSKADOInfo/AzSKADOInfo.ps1 1.2.5 - PowerShell Gallery Test,https://www.poshtestgallery.com/packages/AzSKStaging.ADO/1.2.5/Content/AzSKADOInfo%255CAzSKADOInfo.ps1
+examples/scripts/upgrade_to_ps3.ps1 ...,https://gitlab.ics.muni.cz/242618/ansible/-/blob/e2f03df2b2653f3ec0136f1b4babc3986df27d6e/examples/scripts/upgrade_to_ps3.ps1
+Ansible: examples/scripts/upgrade_to_ps3.ps1 | Fossies,https://fossies.org/linux/ansible/examples/scripts/upgrade_to_ps3.ps1
+文件 · develop · mirrors / mRemoteNG / mRemoteNG · GitCode,https://gitcode.net/mirrors/mRemoteNG/mRemoteNG/-/blob/develop/Tools/rename_installer_with_version.ps1
+"#Though this could be run as a script, run the commands ...",http://apollo.humber.ca/~king/CENG214/ssh-install.ps1
+Updater/Update-Service.ps1 - sciCORE GitLab,https://git.scicore.unibas.ch/vamp/auto-tx/-/blob/1e41897f1ca1cf1d32e39d5dce2564ca02ec3782/Updater/Update-Service.ps1
+ThirdParty/SQLPSX/WPK/Set-Resource.ps1 ... - GitLab,https://git.davewentzel.com/dwentzel/performancecollector/-/blob/539e54c8692e81fa312fbffe076261a7b1e56160/ThirdParty/SQLPSX/WPK/Set-Resource.ps1
+"#target device, modbus port is always 502 $IPAddr = ""192.168.0.125 ...",https://frickcontrolsblob.file.core.windows.net/frickweb1/blobstorage/ECS-CONTROLS/Modbus%2520Sample%2520Code.ps1%3Fsv%3D2018-03-28%26si%3Dfrickweb1-174C1294FA7%26sr%3Df%26sig%3DPF8NiGHAKCPxm8nz2OhgXu1qhZuRO7MSlkMmFrCUjcs%253D
+eng/scripts/InstallVisualStudio.ps1 - dotnet - 登录,https://jihulab.com/dotnet/aspnetcore/-/blob/212f6069e4f62ddc11a3bb93362bc19bf0a53cc5/eng/scripts/InstallVisualStudio.ps1
+Generic powershell scripts for utilities and automation of tasks,https://git.cybergav.in/cybergavin/powershell/src/master/esxXtremIO.ps1
+The purpose of this program is to run a series of information ...,https://content.spiceworksstatic.com/service.community/p/post_attachments/0000173862/58139e75/attached_file/AD_Enviroment_Rpt.ps1
+“O arquivo C:\Users\jukin\AppData\Roaming\npm\yarn.ps1” Code ...,https://www.codegrepper.com/code-examples/shell/O%2Barquivo%2BC%253A%255CUsers%255Cjukin%255CAppData%255CRoaming%255Cnpm%255Cyarn.ps1
+.NOTES Copyright (c) Microsoft Corporation. All rights reserved. Use ...,https://hyperv.tistory.com/attachment/cfile25.uf%400233B54751AD2DB91D6661.ps1
+#requires -version 2 <# PowerSploit File: PowerView.ps1 Author ...,http://www.puckiestyle.nl/ps/powerview.ps1
+Django/Scripts/activate.ps1 ... - GitLab,https://mygit.th-deg.de/hg09218/fearless-and-far/-/blob/ca83d4d6d845913807aacd57fbbbd78e52389ba2/Django/Scripts/activate.ps1
+docgenerator.ps1 · master - PowerShell - GitLab,https://gitlab.lsonline.fr/ps1/docgenerator/-/blob/master/docgenerator.ps1
+scripts/docker/install-docker.ps1 - GitLab,https://grot.geeks.org/tanner/packer-windows/blob/2202d4ad153e336db58de9a360e12da4ded0b76c/scripts/docker/install-docker.ps1
+hyperv-packer-windows/make_unattend_iso.ps1 - GitHub - Innominds,https://github.innominds.com/rjmorse/hyperv-packer-windows/blob/master/make_unattend_iso.ps1
