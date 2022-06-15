@@ -496,6 +496,7 @@ allseeds
 alluding
 allusion
 alluvia
+alluvion
 alluvium
 allyl
 allyls
@@ -928,6 +929,7 @@ apiculate
 apiculi
 apicultural
 apiculturist
+apishnesses
 aplombs
 apneas
 apocalyptisms
@@ -1658,6 +1660,7 @@ bathymetry
 bathyscaphs
 bathysphere
 batiks
+batlike
 batrachians
 batsmen
 batteau
@@ -1790,6 +1793,7 @@ begrudge
 beguilers
 begulfing
 behaves
+beheader
 behinds
 beholds
 behoove
@@ -1848,6 +1852,7 @@ benny
 bens
 benthon
 benumbing
+benzidines
 benzocaines
 benzoic
 bepainting
@@ -2249,6 +2254,7 @@ bolivianos
 bollard
 bollixing
 bolometers
+bolometrically
 bolshies
 boltlike
 boltropes
@@ -2608,6 +2614,7 @@ bullhead
 bullheaded
 bullheadedness
 bulling
+bullnecked
 bullpen
 bullweed
 bullyragging
@@ -2685,6 +2692,7 @@ busty
 busying
 busynesses
 butanes
+butenes
 butler
 butterball
 butterflies
@@ -4042,10 +4050,12 @@ communicational
 communicative
 communicator
 communises
+communisms
 community
 communizes
 commutating
 commutation
+commutative
 commutator
 commuted
 commutes
@@ -4200,6 +4210,7 @@ congealments
 congelation
 congenial
 congest
+conglobated
 conglobates
 conglobe
 conglobed
@@ -4314,6 +4325,7 @@ contrabassists
 contrabassoon
 contractibility
 contractilities
+contracting
 contractual
 contradictor
 contradicts
@@ -5377,6 +5389,7 @@ demandingness
 demarcated
 demarked
 demarking
+demeaning
 demeanours
 dementednesses
 demerara
@@ -5496,6 +5509,7 @@ depriving
 deprogramming
 depurate
 depurated
+depurator
 deputations
 deputize
 derailleurs
@@ -6417,6 +6431,7 @@ duopsonies
 duplicator
 dupped
 dupping
+durations
 durative
 durbars
 dure
@@ -8477,6 +8492,7 @@ galloons
 galloper
 galop
 galoshed
+galvanic
 galvanises
 galvanize
 galvanized
@@ -8805,6 +8821,7 @@ glossators
 glossemes
 glossiness
 glossolalia
+glottic
 glout
 glouted
 glover
@@ -10335,6 +10352,7 @@ inclipping
 incognitos
 income
 incommensurably
+incommoded
 incomparable
 incompatibility
 incompatible
@@ -11079,6 +11097,7 @@ jimper
 jingko
 jingoisms
 jinni
+jinx
 jitterbugs
 jitteriness
 jiveass
@@ -11200,6 +11219,7 @@ kalmia
 kalsomined
 kalsomines
 kamaainas
+kamacite
 kanes
 kantar
 kantars
@@ -11978,6 +11998,7 @@ longheads
 longhorns
 longicorns
 longish
+longitudes
 longitudinally
 longship
 longways
@@ -12712,6 +12733,7 @@ microbar
 microbial
 microbic
 microbreweries
+microcap
 microcopy
 microcosms
 microcrystal
@@ -13469,6 +13491,7 @@ mutants
 mutative
 mutedly
 mutest
+mutilators
 mutined
 mutineers
 mutinies
@@ -14344,6 +14367,7 @@ optimization
 optimizers
 optimizes
 optionalities
+optionals
 opusculum
 opuses
 orangeade
@@ -14405,6 +14429,7 @@ orthoclase
 orthodontias
 orthodox
 orthogenetic
+orthonormal
 orthopedist
 orthophosphate
 orthopteran
@@ -14446,6 +14471,7 @@ ostracodes
 other
 otherworld
 otocystic
+otolaryngology
 otosclerosis
 otoscope
 ototoxicities
@@ -14862,6 +14888,7 @@ overzeal
 ovibos
 ovicide
 oviparity
+oviposit
 oviposited
 oviposition
 ovoid
@@ -16510,6 +16537,7 @@ preventability
 preventive
 preventiveness
 previewer
+previews
 previous
 prewarns
 prewiring
@@ -16667,6 +16695,7 @@ propending
 propene
 propensities
 properdins
+propers
 prophase
 prophasic
 prophesiers
@@ -18232,6 +18261,7 @@ ridicule
 ridiculer
 ridiculers
 ridicules
+ridiculously
 ridings
 ridotto
 riesling
@@ -18331,6 +18361,8 @@ romeos
 rondeaux
 rondos
 rooftops
+room
+roomed
 roomie
 roominesses
 rooming
@@ -20400,6 +20432,7 @@ stichomythia
 stickers
 stickfuls
 stickled
+stickling
 stickout
 stickums
 stiffed
@@ -22016,6 +22049,7 @@ trendsetter
 trendsetting
 trepanations
 trephines
+trepidant
 treponemal
 tressiest
 trevallies
@@ -22404,6 +22438,7 @@ unaspirated
 unathletic
 unattenuated
 unattractively
+unavoidably
 unbacked
 unbalances
 unbecomingness
