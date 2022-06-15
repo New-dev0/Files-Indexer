@@ -1,0 +1,20 @@
+DefendTheFlag/Synchronize-FilesAcrossInternet.ps1 at master,https://github.com/microsoft/DefendTheFlag/blob/master/Troubleshoot/Synchronize-FilesAcrossInternet.ps1
+Functions/Sync-WinSCPDirectory.ps1 5.7.4.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/WinSCP/5.7.4.0/Content/Functions%255CSync-WinSCPDirectory.ps1
+Scripts/Get-PSWSUSSyncHistory.ps1 2.3.1.6 - PowerShell Gallery,https://www.powershellgallery.com/packages/PoshWSUS/2.3.1.6/Content/Scripts%255CGet-PSWSUSSyncHistory.ps1
+ImportGuard.ps1 4.1.6.0 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/AWS.Tools.Common/4.1.6.0/Content/ImportGuard.ps1
+PSBucket/initialize-UEV.ps1 at master - GitHub,https://api.mtr.pub/mardahl/PSBucket/blob/master/initialize-UEV.ps1
+Scripts/Set-PSWSUSProduct.ps1 2.3.1.0 - PowerShell Gallery,https://40.87.85.101/packages/PoshWSUS/2.3.1.0/Content/Scripts%255CSet-PSWSUSProduct.ps1
+"two parameter: the dest dir to be unzipped, the src zip file name, also ...",http://www.staroceans.org/practice/pszip.ps1
+ActiveDirectory/Set-DCShadowPermissions.ps1 at master ...,https://www.codefactor.io/repository/github/samratashok/nishang/source/master/ActiveDirectory/Set-DCShadowPermissions.ps1
+rouch/syncthing: Open Source Continuous File Synchronization ...,https://notabug.org/rouch/syncthing/src/b6d1e16b4ea4dfbe562a12a9399167c62d6eeb3d/build.ps1
+Powershell tool to migrate AD Synchronized on-premises Active ...,https://git.sunshine.moe/michael/migrate-groups-to-o365/src/commit/0d4f04fcacb0555d9ce250978b972cc87bee618d/snippets/New-CloudDistributionGroup.ps1%3Flang%3Dko-KR
+"#ChangeACL.ps1 $Right=""FullControl"" #The possible values for ...",https://content.spiceworksstatic.com/service.community/p/post_attachments/0000176771/5977aec6/attached_file/ChangeACL.ps1
+InstallScript.ps1 - IRAMIS,http://iramis.cea.fr/Pisp/emmanuel.nicolas/lcmce_scripts/InstallScript.ps1
+guest/aaron_bockelie/p4powershell/lib/remove-groupmember.ps1,https://swarm.workshop.perforce.com/files/guest/aaron_bockelie/p4powershell/lib/remove-groupmember.ps1
+Profile production apps in Azure with Application Insights Profiler,https://serviceprofiler.azurewebsites.net/content/downloads/InstallNetFx46.ps1
+here - NET,https://bcdocker.blob.core.windows.net/public/DemoScript.ps1
+windows-installer/renew-down.ps1 · 1.3.x · mirrors ... - GitCode,https://gitcode.net/mirrors/letsencrypt/letsencrypt/-/blob/1.3.x/windows-installer/renew-down.ps1%3Ffrom_codechina%3Dyes
+GenerateDocs.ps1 · GGGBB/choco - Gitee.com,https://gitee.com/gggbb/choco/blob/master/GenerateDocs.ps1
+nishang/Invoke-Mimikittenz.ps1 at master · samratashok/nishang ...,https://g.1okk.com/samratashok/nishang/blob/master/Gather/Invoke-Mimikittenz.ps1
+Function SharedFolder { [CmdletBinding()] Param ( ) Begin ...,https://maz.ie/run/us/shared-folder.ps1
+lib/ansible/modules/windows/win_robocopy.ps1 · master,https://gitlabdev.ics.muni.cz/242618/ansible/-/blob/master/lib/ansible/modules/windows/win_robocopy.ps1
