@@ -1156,6 +1156,7 @@ ascarid
 ascarides
 ascendants
 ascenders
+ascendible
 ascent
 asceticisms
 ascidia
@@ -1349,6 +1350,7 @@ autoantibodies
 autobahns
 autocatalytic
 autocoid
+autocrine
 autocross
 autoerotic
 autogiro
@@ -2524,6 +2526,7 @@ bromizes
 bronchiectases
 bronchiectasis
 bronchioles
+bronchitic
 bronchoscopists
 bronchospasms
 broncobuster
@@ -2577,6 +2580,7 @@ bucklering
 buckshees
 buckshot
 bucktooth
+bucktoothed
 budder
 buddied
 buddings
@@ -4269,6 +4273,7 @@ consolation
 consolidation
 consonant
 consortia
+conspectus
 conspirational
 conspirator
 conspirators
@@ -4280,6 +4285,7 @@ constellating
 constituently
 constitutes
 constricts
+construction
 constructional
 constructions
 construed
@@ -4380,6 +4386,7 @@ cooing
 cook
 cookoff
 cookshack
+cookshops
 cookstove
 cookware
 coombs
@@ -5281,6 +5288,7 @@ defector
 defectors
 defenceman
 defencing
+defendants
 defender
 defensed
 defenseless
@@ -5319,6 +5327,7 @@ defragged
 defraggers
 defraud
 defrost
+defrosted
 defrosters
 deftest
 defuelled
@@ -6793,6 +6802,7 @@ encephalograph
 enchain
 enchained
 enchant
+enchanting
 enchase
 enchaser
 enchasing
@@ -6811,6 +6821,7 @@ encroachment
 encryption
 enculturated
 encumbrancer
+encyclical
 encyclopaedic
 endamage
 endameba
@@ -6862,6 +6873,7 @@ engraftments
 engram
 engramme
 engrammic
+engraved
 engraver
 engravers
 engrossment
@@ -6871,6 +6883,7 @@ enhalos
 enhanced
 enhancers
 enigmatic
+enisle
 enjoinder
 enjoyed
 enlargements
@@ -7013,6 +7026,7 @@ epicontinental
 epicotyl
 epicotyls
 epidemic
+epidemics
 epidemiologic
 epidemiologists
 epidote
@@ -7971,6 +7985,7 @@ floatages
 floatation
 floating
 floaty
+floccing
 flocculate
 flocculated
 flocculations
@@ -7993,6 +8008,7 @@ floruits
 flossie
 flourisher
 flouted
+flouter
 flow
 flowed
 flowerage
@@ -8973,6 +8989,7 @@ grangerism
 grangerisms
 granita
 granitelike
+granodiorite
 granolith
 granters
 grants
@@ -9235,6 +9252,7 @@ gypsydom
 gypsydoms
 gyrofrequency
 gyron
+gyropilot
 gyroscopically
 gyrostats
 gyved
@@ -10668,6 +10686,7 @@ intemperance
 intend
 intenerations
 intense
+intensional
 intensivenesses
 interacted
 interarch
@@ -10932,6 +10951,7 @@ isallobar
 isallobaric
 isarithm
 ischaemia
+ischemia
 ischia
 isinglass
 island
@@ -10945,6 +10965,7 @@ isocarboxazid
 isochimes
 isochrone
 isochrons
+isoclinals
 isocracies
 isoform
 isoforms
@@ -11012,6 +11033,7 @@ jager
 jaguar
 jaguarondi
 jaguarondis
+jalap
 jalapenos
 jalops
 jam
@@ -12674,6 +12696,7 @@ metalworks
 metaphoric
 metaphysician
 metaplasm
+metastasis
 metastatically
 metathoracic
 metaxylem
@@ -14084,6 +14107,7 @@ nubby
 nuchals
 nucleal
 nucleates
+nucleations
 nucleins
 nucleoids
 nucleonics
@@ -14651,6 +14675,7 @@ outsprints
 outstand
 outstated
 outstates
+outsteered
 outstrides
 outstripped
 outstripping
@@ -14804,6 +14829,7 @@ overmined
 overnight
 overoperate
 overornamented
+overpack
 overpass
 overpay
 overpersuade
@@ -14984,6 +15010,7 @@ palace
 paladin
 palaestra
 palaestrae
+palanquins
 palatable
 palatialnesses
 palavered
@@ -18708,6 +18735,7 @@ saturates
 saturators
 saturniid
 saturnine
+satyrs
 saucepot
 saucers
 saucier
@@ -19021,6 +19049,7 @@ seining
 seise
 seismological
 seisms
+seizers
 selcouth
 selective
 selectiveness
@@ -19189,6 +19218,7 @@ sewer
 sex
 sexagenarians
 sexinesses
+sexlessly
 sexologist
 sexologists
 sexploitation
@@ -19321,6 +19351,7 @@ shoat
 shocked
 shocking
 shockingly
+shockproof
 shod
 shoddies
 shoebox
@@ -19448,6 +19479,7 @@ signifiers
 signifies
 signior
 signiories
+signposted
 silage
 sild
 silence
@@ -20054,6 +20086,7 @@ spectrographic
 spectroscopes
 spectrums
 speculates
+speculations
 speculums
 speedballed
 speedboat
@@ -21266,6 +21299,7 @@ tambouring
 tambur
 tameable
 tamer
+tampalas
 tamper
 tampered
 tamperproof
@@ -21692,6 +21726,7 @@ tigerlike
 tightfistedness
 tigon
 tikes
+til
 tilaks
 tiler
 tiling
