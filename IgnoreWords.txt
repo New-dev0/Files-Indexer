@@ -117,6 +117,7 @@ accursedness
 accusative
 accustomation
 accustoms
+acentric
 acerber
 acerbity
 acerola
@@ -600,6 +601,7 @@ ammunition
 amnesiac
 amnia
 amnions
+amniotic
 amoebas
 amoks
 amorettos
@@ -1087,6 +1089,7 @@ arduously
 are
 areca
 arenaceous
+arenites
 arete
 argentums
 argons
@@ -1420,6 +1423,7 @@ awfully
 awing
 awlworts
 awnings
+awny
 axal
 axed
 axemen
@@ -2557,6 +2561,7 @@ broomballer
 broomed
 broomsticks
 broos
+broses
 brosy
 browband
 browed
@@ -3460,6 +3465,7 @@ chimneylike
 chimneypieces
 chimp
 chinaberries
+chinbone
 chinchiest
 chinchilla
 chine
@@ -5618,6 +5624,7 @@ destitution
 destroys
 desuetude
 desugaring
+desulfurizing
 detached
 detachedness
 detachers
@@ -6015,6 +6022,7 @@ disinclination
 disinfestation
 disinflations
 disinforming
+disinherited
 disinheriting
 disinhibit
 disintegrations
@@ -6042,6 +6050,7 @@ dispatch
 dispatchers
 dispensational
 dispensations
+dispeopled
 dispersedly
 dispersiveness
 dispersoids
@@ -6550,6 +6559,7 @@ earringed
 earthiest
 earthing
 earthlights
+earthlike
 earthset
 earthsets
 earthshakers
@@ -7491,6 +7501,7 @@ extinctions
 extinguishable
 extinguisher
 extirpators
+extolls
 extolment
 extracellular
 extractions
@@ -7656,6 +7667,7 @@ fastbacks
 fastballers
 fatalist
 fatalists
+fatefully
 fatefulness
 fatefulnesses
 fatheadedly
@@ -9379,6 +9391,7 @@ halfbeak
 halftone
 halid
 halidom
+halidome
 halidomes
 hall
 hallmark
@@ -10899,6 +10912,7 @@ intoxications
 intracardial
 intracity
 intracompany
+intractably
 intraday
 intradermally
 intranets
@@ -12845,6 +12859,7 @@ microbalance
 microbar
 microbial
 microbic
+microbiological
 microbreweries
 microcap
 microcopy
@@ -13117,6 +13132,7 @@ mislives
 mislocated
 mislocations
 mismanagements
+mismanages
 mismates
 mismeets
 mismove
@@ -14102,6 +14118,7 @@ nonparties
 nonpasserine
 nonpasts
 nonpayment
+nonperformance
 nonphonetic
 nonpliant
 nonplusses
@@ -14396,6 +14413,7 @@ olivary
 olive
 olivine
 ololiuqui
+ololiuquis
 olympiads
 omber
 ombre
@@ -14831,6 +14849,7 @@ overbook
 overborne
 overborrow
 overbraked
+overbrakes
 overbriefed
 overbrowsing
 overburdening
@@ -15209,6 +15228,7 @@ paperwork
 paperworks
 paphian
 paphians
+papillate
 papillote
 papillotes
 papisms
@@ -15316,6 +15336,7 @@ partied
 partlet
 partnered
 partnership
+partridge
 partygoers
 parvis
 pashalik
@@ -16394,6 +16415,7 @@ potences
 potentiality
 potentiating
 potheads
+potheen
 pothouse
 pothunter
 potshards
@@ -16537,6 +16559,7 @@ prefabbing
 prefabricates
 prefaded
 preferrers
+prefigurement
 prefix
 prefixes
 prefixions
@@ -17601,6 +17624,7 @@ reconvicts
 recooked
 recopying
 recordations
+recorks
 recounter
 recoupe
 recoups
@@ -17901,6 +17925,7 @@ rejuvenated
 rejuvenates
 rekeyboarded
 rekeying
+rekindled
 reknits
 reknots
 relacquered
@@ -18125,6 +18150,7 @@ resees
 reselecting
 resell
 resembled
+resends
 resensitize
 reservicing
 reserving
@@ -18348,6 +18374,7 @@ rewaxed
 reweaves
 rewed
 reweighing
+rewetted
 rewiden
 rewires
 rewoke
@@ -19293,6 +19320,7 @@ septettes
 septical
 septicemia
 septicities
+septicity
 septics
 septimes
 sequelae
@@ -19374,6 +19402,7 @@ shacks
 shaddocks
 shadeless
 shadowboxed
+shadowed
 shadowgraphies
 shadowy
 shads
@@ -19455,6 +19484,7 @@ shibah
 shibboleths
 shiel
 shiest
+shiftable
 shiftinesses
 shifting
 shillelah
@@ -19757,6 +19787,7 @@ skunking
 skunkweed
 skybox
 skycaps
+skydived
 skydives
 skylarks
 skyman
@@ -20330,6 +20361,7 @@ splashiness
 splashing
 splat
 splatted
+splaying
 spleenwort
 splendiferous
 splenetics
@@ -20555,6 +20587,7 @@ steelmakings
 steelwork
 steelyards
 steenbucks
+steepened
 steepens
 steepest
 steeplechaser
@@ -24286,6 +24319,7 @@ yupon
 yuppiedoms
 yuppieish
 yuppified
+yuppifying
 zacaton
 zaffars
 zagging
@@ -24332,6 +24366,7 @@ zingano
 zinged
 zings
 zingy
+zinnia
 zinnias
 zippering
 zipping
