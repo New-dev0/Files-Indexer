@@ -1096,6 +1096,7 @@ armors
 armory
 armour
 armourers
+armouries
 armours
 armrest
 armrests
@@ -2115,6 +2116,7 @@ blare
 blaring
 blaspheme
 blasphemies
+blaspheming
 blastema
 blasties
 blastiest
@@ -2477,6 +2479,7 @@ briskly
 brislings
 briss
 bristle
+bristliest
 bristling
 britches
 britt
@@ -4293,6 +4296,7 @@ contemplators
 contempt
 contemptibility
 contends
+contentedly
 contentednesses
 contentiously
 conterminously
@@ -4451,6 +4455,7 @@ coronachs
 coronal
 coronally
 coronals
+coronations
 coronel
 coronographs
 corotation
@@ -5307,6 +5312,7 @@ deftest
 defuelled
 defuser
 defuzed
+defuzing
 degami
 degasser
 degassers
@@ -7797,6 +7803,7 @@ fireback
 fireballer
 firebase
 firebombing
+firebombs
 firebreak
 firebreaks
 fireclay
@@ -10134,6 +10141,7 @@ illumines
 illuminism
 illusionism
 illusionisms
+illusive
 illusory
 illustriously
 imaged
@@ -10925,6 +10933,7 @@ isoforms
 isogamete
 isogeneic
 isogenic
+isogon
 isogones
 isogonic
 isolationists
@@ -11455,6 +11464,7 @@ laddies
 laddish
 laden
 ladle
+ladleful
 ladlefuls
 ladybird
 ladyfish
@@ -11504,6 +11514,7 @@ landslips
 langouste
 langrels
 langshans
+languages
 languettes
 languorously
 languors
@@ -11773,6 +11784,7 @@ lightfaced
 lightfaces
 lightfast
 lighthearted
+lightplane
 lignan
 lignite
 lignosulfonates
@@ -12897,6 +12909,7 @@ misbinding
 misbuilds
 miscallers
 miscarry
+miscast
 miscasts
 miscatalog
 miscataloged
@@ -12941,6 +12954,7 @@ misgrew
 misgrow
 misguessed
 misguides
+misguiding
 mishanters
 mishmash
 mishmosh
@@ -13963,6 +13977,7 @@ nonrelativistic
 nonrenewable
 nonresponse
 nonretractile
+nonrival
 nonrubber
 nonschool
 nonscientist
@@ -14006,6 +14021,7 @@ nosebag
 nosed
 noseguards
 noseless
+nosh
 nosher
 noshes
 nosologies
@@ -14316,6 +14332,7 @@ oppositions
 oppugn
 oppugnant
 oppugning
+ops
 opsin
 opsins
 opsonized
@@ -14657,6 +14674,7 @@ overborrow
 overbraked
 overbriefed
 overbrowsing
+overburdening
 overcharge
 overchilled
 overcold
@@ -14706,6 +14724,7 @@ overexplained
 overexploited
 overexpose
 overextend
+overfast
 overfill
 overfilled
 overfishes
@@ -15386,6 +15405,7 @@ periodontology
 peripetia
 peripetias
 peripety
+peripherally
 periphery
 periphrasis
 periphyton
@@ -15689,6 +15709,7 @@ picture
 pictured
 picturesque
 piddled
+pidginization
 pidginize
 pie
 piece
@@ -17306,6 +17327,7 @@ rebuker
 rebukes
 rebuking
 rebut
+rebutter
 rebutters
 recalculated
 recalibrated
@@ -17983,6 +18005,7 @@ restatements
 restationed
 restaurants
 restaurateur
+restful
 restfulness
 restitched
 restitute
@@ -18050,6 +18073,7 @@ retiled
 retiming
 retinacula
 retine
+retinites
 retinitides
 retinoid
 retinting
@@ -18302,6 +18326,7 @@ rollways
 romanos
 romans
 romanticize
+romeo
 romeos
 rondeaux
 rondos
@@ -20428,6 +20453,7 @@ stoopballs
 stoped
 stoper
 stopoff
+stopoffs
 stoppered
 stopping
 stopwatch
@@ -20626,6 +20652,7 @@ subeditors
 suberic
 suberize
 suberizing
+suberose
 subfixes
 subframe
 subfreezing
@@ -20808,6 +20835,7 @@ sunbonnets
 sunburned
 sunburns
 sundecks
+sundogs
 sundowning
 sundrops
 sunket
@@ -21391,6 +21419,7 @@ tenths
 tentmaker
 tentorial
 tentorium
+tenues
 tenuity
 tenuousnesses
 teopans
@@ -21489,6 +21518,7 @@ theophany
 theophylline
 therein
 thermic
+thermidor
 thermites
 thermochemists
 thermoduric
@@ -21619,6 +21649,7 @@ tidemarks
 tiderips
 tides
 tidiest
+tidiness
 tiebreaks
 tieless
 tiepins
@@ -22009,11 +22040,13 @@ tribulation
 trichologists
 trichome
 trichomic
+trichomonacidal
 trichomonacide
 trichopteran
 trichopterans
 trichosis
 tricing
+trickinesses
 trickish
 trickle
 trickster
@@ -23254,6 +23287,7 @@ viridescent
 viridity
 virion
 virologic
+virtu
 virtueless
 virtuose
 virtuosities
@@ -23924,6 +23958,7 @@ xystoi
 yabbie
 yabby
 yacked
+yags
 yahoo
 yahoos
 yahrzeit
