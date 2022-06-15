@@ -1,0 +1,30 @@
+PoshPAIG/Options.ps1 at master - GitHub,https://github.com/proxb/PoshPAIG/blob/master/Options.ps1
+options/list.ps1 0.1.2 - PowerShell Gallery,https://www.powershellgallery.com/packages/yarn-completion/0.1.2/Content/options%255Clist.ps1
+options/unplug.ps1 0.1.2 - PowerShell Gallery,https://www.powershellgallery.com/packages/yarn-completion/0.1.2/Content/options%255Cunplug.ps1
+Src/Private/Options.ps1 0.7.17.75 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/PScribo/0.7.17.75/Content/Src%255CPrivate%255COptions.ps1
+$currentLocation = Get-Location Set-Location C:\Projects\notify\lib ...,https://bitbucket.juvare.com/projects/POC/repos/tomas.madajevas/raw/work_in_progress/migrate.ps1%3Fat%3D25547c68f00dfdb24cac9fd1722689781899db1a
+game/node_modules/readline-sync/lib/read.ps1 ... - GitLab,https://git.cs.slu.edu/weastv/software_engineering/-/blob/5b5b036c6129cd86c0191bc18cb6fdd58687a479/game/node_modules/readline-sync/lib/read.ps1
+TabExpansion.ps1 · master · examples / Windows PowerShell ...,https://resources.oreilly.com/examples/0636920024132/blob/master/TabExpansion.ps1
+class-options.ps1 · master · Dividi / Parxshell · GitLab,https://gitlab.com/dividi/parxshell/-/blob/master/class-options.ps1
+SharePoint_VSS_backup.ps1 - ITOM Practitioner Portal - Micro Focus,https://docs.microfocus.com/itom/Data_Protector:10.04/Use/cli_reference/1/SharePoint_VSS_backup.ps1
+FixEGScheduleScripts.ps1 -path <path> [-no_backup] [-recurse ...,http://ftp.sas.com/techsup/download/eguide/FixEGScheduleScripts.ps1
+ansible2/ansible/modules/windows/win_inet_proxy.ps1 · master ...,https://version.cs.vt.edu/techstaff/linux-audit/-/blob/master/ansible2/ansible/modules/windows/win_inet_proxy.ps1
+Open - Perforce Workshop,https://swarm.workshop.perforce.com/projects/robert_cowham-p4v-custom-tools/view/main/Install-P4VTools.ps1
+read.ps1,https://opensource.netapp.com/XCP/1.6.2/fa/readline-sync/lib/read.ps1
+https://content.spiceworksstatic.com/service.commu...,https://content.spiceworksstatic.com/service.community/p/how_to_step_attachments/0000066559/535749c1/attached_file/b9af250b6ed951c8fe9cde1dfd6ff97933b358129e29f9ba46203299a10d5503_Lockstep_-_Citrix_Licensing_Monitor_-_withlookup.ps1
+PowerShell: .../Set-Alias.Tests.ps1 | Fossies,https://fossies.org/linux/PowerShell/test/powershell/Modules/Microsoft.PowerShell.Utility/Set-Alias.Tests.ps1
+https://docs.oracle.com/cd/E97706_01/Content/Resou...,https://docs.oracle.com/cd/E97706_01/Content/Resources/Assets/secondary_vnic_windows_configure.ps1
+Profile production apps in Azure with Application Insights Profiler,https://serviceprofiler.azurewebsites.net/content/downloads/InstallNetFx46.ps1
+IntelliFlash-Windows-Host-Validation.ps1,http://s1.tegile.com/ps/windows/IntelliFlash-Windows-Host-Validation.ps1
+Repository - GitLab,https://git.kpi.fei.tuke.sk/jj364kq/myHealth-server/-/blob/4426d896483dc068a306eae093f008085111c66b/wildfly-10.1.0.Final/bin/domain.conf.ps1
+https://raw.githubusercontent.com/Azure/iotedge/1....,https://raw.githubusercontent.com/Azure/iotedge/1.0.8/scripts/windows/setup/IotEdgeSecurityDaemon.ps1
+Backdoors/Add-RegBackdoor.ps1 at master - samratashok/nishang,https://www.codefactor.io/repository/github/samratashok/nishang/source/master/Backdoors/Add-RegBackdoor.ps1
+Install-AxAgentMsi.ps1 - Automox,https://patch.automox.com/rs/923-VQX-349/images/Install-AxAgentMsi.ps1
+chocolatey-packages/update_all.ps1 at master - GitHub,https://www.biothera.far.br/pascalberger/chocolatey-packages/blob/master/update_all.ps1
+GenerateDocs.ps1 · GGGBB/choco - Gitee.com,https://gitee.com/gggbb/choco/blob/master/GenerateDocs.ps1
+self-test.ps1 - iMacros,https://wiki.imacros.net/self-test.ps1
+Dell DL4000 Appliance User's Guide,https://www.dell.com/support/manuals/en-us/powervault-dl4000/dl4000ugpublication/postexportscript.ps1%3Fguid%3Dguid-59f7caac-8903-4085-b478-8282b0b541c3%26lang%3Den-us
+Christian Leyrer / shell-solarized-colors-and-fonts · GitLab,http://git.fox-ray.info/darkray/shell-solarized-colors-and-fonts/-/blob/f2579af4bc6c49b89cf87e4e91113ce180c5fa02/Set-SolarizedLightColorDefaults.ps1
+https://stash.phytec.com/projects/TIRTOS/repos/bui...,https://stash.phytec.com/projects/TIRTOS/repos/build-phytec/raw/am65xx/x509CertificateGen.ps1%3Fat%3Drefs%252Fheads%252Fmaster
+https://get.mirantis.com/install.ps1,https://get.mirantis.com/install.ps1
+examples/scripts/ConfigureRemotingForAnsible.ps1,https://gitlab.ics.muni.cz/242618/ansible/-/blob/4ac0c23db642614654cc18388db434c1ab5685b4/examples/scripts/ConfigureRemotingForAnsible.ps1
