@@ -635,6 +635,7 @@ amus
 amusements
 amusingness
 amygdales
+amygdalin
 amygdule
 amylases
 amylenes
@@ -698,6 +699,7 @@ anecdotic
 anecdotically
 anecdotists
 anele
+anemophilous
 anenst
 anesthetizing
 angel
@@ -1806,6 +1808,7 @@ beleaguers
 belfried
 belgas
 beliers
+believabilities
 believed
 believers
 beliquoring
@@ -3081,6 +3084,7 @@ catalyses
 catalysts
 catalytic
 catalyze
+catalyzed
 catalyzer
 catamarans
 catamite
@@ -3658,6 +3662,7 @@ cleistogamy
 clencher
 clenches
 clepes
+clepsydra
 clerically
 clerihews
 clerkships
@@ -4079,6 +4084,7 @@ compositors
 compost
 compradors
 comprehended
+compresses
 compressible
 comprised
 comprising
@@ -4734,6 +4740,7 @@ croqueting
 croquignoles
 crossabilities
 crossarms
+crossbanding
 crossbandings
 crossbones
 crossbred
@@ -5204,6 +5211,7 @@ decorate
 decorated
 decorates
 decoration
+decoratively
 decorators
 decortications
 decorum
@@ -5768,6 +5776,7 @@ dinger
 dingiest
 dinkums
 dinnertime
+dino
 dinoflagellate
 dinothere
 diocese
@@ -6378,6 +6387,7 @@ dumbs
 dummying
 dumortierite
 dumped
+dumpling
 dumpster
 dumpy
 dunches
@@ -7348,6 +7358,7 @@ expose
 expounders
 expressages
 expressionisms
+expressionist
 expressionless
 expropriates
 expulsed
@@ -8498,6 +8509,7 @@ gargety
 gargled
 gargoyles
 garigues
+garland
 garlic
 garlickier
 garlicky
@@ -8892,6 +8904,7 @@ grabbing
 grabby
 gracefullest
 gracile
+graciousness
 grad
 graded
 graduated
@@ -12335,6 +12348,7 @@ masseteric
 masseters
 massifs
 massing
+massive
 massivenesses
 massless
 master
@@ -12571,6 +12585,7 @@ merrinesses
 mesclun
 mesdemoiselles
 meseems
+mesentera
 mesenteron
 mesically
 mesmerise
@@ -12941,6 +12956,7 @@ misoriented
 mispackaging
 misparses
 misparted
+misperceiving
 misplaces
 misplans
 misplays
@@ -14023,6 +14039,7 @@ null
 nulling
 numbats
 numeracy
+numeral
 numerators
 numeric
 numerologies
@@ -14152,6 +14169,7 @@ offerors
 offertory
 offhand
 offhanded
+office
 officeholders
 officiants
 officinal
@@ -14465,6 +14483,7 @@ outgain
 outgains
 outgallops
 outgambled
+outgaze
 outgeneral
 outgeneraling
 outgenerals
@@ -14541,6 +14560,7 @@ outrivalling
 outroared
 outrowing
 outrows
+outrun
 outsaid
 outsailed
 outsay
@@ -14632,6 +14652,7 @@ overcrowding
 overcrowds
 overcut
 overdecorations
+overdemanding
 overdependence
 overdeveloped
 overdeveloping
@@ -15603,6 +15624,7 @@ phytosterol
 piaffing
 pianissimi
 pianistic
+pianistically
 pianists
 pianoforte
 pianos
@@ -16193,6 +16215,7 @@ praenomen
 pragmatisms
 praiser
 praisers
+pralines
 pram
 prancer
 pranging
@@ -16235,6 +16258,7 @@ preceptors
 precessing
 precessional
 precessions
+precharges
 precheck
 prechecking
 precieux
@@ -16621,6 +16645,7 @@ proprietorship
 proprietorships
 props
 proptoses
+propylaea
 prorogations
 prosaisms
 prosateur
@@ -17089,6 +17114,7 @@ ramifying
 rammier
 ramose
 ramped
+rampikes
 ramshorn
 ramtil
 ranched
@@ -18376,6 +18402,7 @@ rummer
 rummers
 rummies
 rumored
+rumouring
 rumpled
 rumpuses
 runabout
@@ -18403,6 +18430,7 @@ rutabaga
 rutherfordium
 rutins
 ruttier
+ruttiness
 rye
 ryegrass
 ryot
@@ -19465,6 +19493,7 @@ skoals
 skunking
 skunkweed
 skybox
+skycaps
 skydives
 skylarks
 skyman
@@ -20166,6 +20195,7 @@ stagehand
 stages
 stagey
 staggerer
+staggiest
 stagier
 stagiest
 staig
@@ -20693,6 +20723,7 @@ sudations
 sudsier
 suers
 sues
+sufficiencies
 sufflates
 suffocation
 suffocations
@@ -21202,6 +21233,7 @@ tattler
 taunt
 taurine
 tautest
+tautness
 tautologies
 tawdries
 tawnier
@@ -21528,6 +21560,7 @@ thymectomy
 thymic
 thymiest
 thymol
+thymols
 thyratrons
 thyristor
 thyroiditises
@@ -22869,6 +22902,7 @@ upsurges
 uptakes
 uptempos
 uptosses
+uptossing
 upturned
 upwelling
 upwellings
@@ -23923,6 +23957,7 @@ youpon
 yous
 youthen
 youthfulness
+youthquake
 yowing
 ytterbic
 ytterbiums
