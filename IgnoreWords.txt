@@ -419,6 +419,7 @@ alchemistic
 alchemize
 alchemizes
 alcidine
+alcids
 alcoholically
 aldosterone
 aleatory
@@ -894,6 +895,7 @@ antlered
 antra
 anuretic
 anuses
+anxiousness
 anxiousnesses
 anywise
 aortas
@@ -3530,6 +3532,7 @@ cinchona
 cinematic
 cinematographic
 cinephiles
+cinerarias
 cinerary
 cingular
 cinnabar
@@ -3815,6 +3818,7 @@ coercivities
 coevolution
 coexecutor
 coextends
+cofeaturing
 coffeemakers
 coffeepot
 coffeepots
@@ -4768,6 +4772,7 @@ cryoscopes
 cryostats
 cryotherapies
 cryotron
+crypt
 cryptal
 cryptanalysis
 cryptarithm
@@ -5854,6 +5859,7 @@ disembarrassing
 disembodies
 disenable
 disenchantingly
+disenchants
 disendowed
 disengages
 disentailed
@@ -6365,6 +6371,7 @@ duumviri
 dwarfed
 dwarfest
 dwarfishly
+dwarfisms
 dweebish
 dweebs
 dwells
@@ -6675,6 +6682,7 @@ emoting
 emotionalists
 emotionalize
 emotionlessness
+empanel
 empaneled
 empathizing
 emphasis
@@ -7707,6 +7715,7 @@ finitude
 finked
 finks
 finless
+finmark
 finniest
 finning
 finocchios
@@ -8233,6 +8242,7 @@ froglike
 frogman
 fronds
 frontcourt
+frontispieces
 frontman
 frontpage
 frontpaging
@@ -8684,6 +8694,7 @@ gliders
 glimpse
 glint
 glintiest
+gliomata
 glisten
 glitter
 gloater
@@ -8733,6 +8744,7 @@ glycerol
 glyceryl
 glycins
 glycols
+glycosidases
 glycosylations
 gnarls
 gnarrs
@@ -8805,6 +8817,7 @@ gorgeousnesses
 gorm
 gormandising
 gormandize
+gorp
 gossip
 gossippers
 gossypols
@@ -9558,6 +9571,7 @@ hightops
 hillbilly
 hilled
 hilloas
+hillos
 hillslope
 hilt
 hilted
@@ -10814,6 +10828,7 @@ isochrone
 isochrons
 isocracies
 isoform
+isoforms
 isogamete
 isogeneic
 isogenic
@@ -11514,6 +11529,7 @@ lectin
 lectured
 lederhosen
 ledger
+ledgy
 leech
 leer
 lees
@@ -11942,6 +11958,7 @@ lumbars
 lumberjacks
 lumbricals
 luminaires
+luminal
 luminance
 luminary
 luminiferous
@@ -12307,6 +12324,7 @@ mazelike
 mazes
 mazier
 mazily
+mazzard
 mbaqanga
 meadow
 meadowlands
@@ -13720,6 +13738,7 @@ nondelegates
 nondeliveries
 nondemands
 nondescriptive
+nondiabetics
 nondialyzable
 nondocumentary
 nondollar
@@ -13758,6 +13777,7 @@ noninflationary
 noninitiates
 noninsect
 noninstallments
+noninstrumental
 nonintellectual
 nonintercourses
 noninterest
@@ -14529,6 +14549,7 @@ overdecorations
 overdependence
 overdeveloped
 overdeveloping
+overdominant
 overdosed
 overdoses
 overdramatize
@@ -14605,6 +14626,7 @@ overmine
 overmined
 overnight
 overoperate
+overornamented
 overpass
 overpay
 overpersuade
@@ -14810,6 +14832,7 @@ palominos
 paloverdes
 palpators
 palpebral
+palpebras
 palped
 palpi
 palpitated
@@ -14872,6 +14895,7 @@ papillotes
 papisms
 pappous
 papricas
+papyrologists
 parabiotic
 paraboloid
 parachutes
@@ -15932,6 +15956,7 @@ ponytail
 poolhall
 poolrooms
 poontangs
+poop
 poops
 popedom
 popinjays
@@ -18133,6 +18158,7 @@ rootages
 rooter
 rootiest
 rootling
+ropers
 ropewalkers
 ropewalks
 ropiest
@@ -19425,6 +19451,7 @@ slubber
 slubbered
 slubbings
 sludged
+sludgy
 slue
 slued
 sluffed
@@ -19873,6 +19900,7 @@ spinulose
 spiny
 spiraled
 spirant
+spired
 spiremes
 spires
 spiritism
@@ -20312,6 +20340,7 @@ stripeless
 stript
 strobes
 strobila
+strobilae
 strobilations
 strobilus
 stroboscopic
@@ -20419,6 +20448,7 @@ subduers
 subedited
 subeditors
 suberic
+suberize
 suberizing
 subfixes
 subframe
@@ -20581,6 +20611,7 @@ sultaness
 sulu
 summand
 summands
+summarises
 summarist
 summarizable
 summarizer
@@ -20770,6 +20801,7 @@ swampier
 swampiest
 swankest
 swanpan
+swans
 swarmer
 swartness
 swashbuckled
@@ -21047,6 +21079,7 @@ tattle
 tattler
 taunt
 taurine
+tautest
 tautologies
 tawdries
 tawnier
@@ -22506,6 +22539,7 @@ unprompted
 unpronounceable
 unpropitious
 unpunished
+unpurged
 unpuzzle
 unpuzzles
 unquelled
@@ -22741,6 +22775,7 @@ urped
 urtications
 usefulness
 username
+ushered
 usherette
 usurers
 usuriousnesses
