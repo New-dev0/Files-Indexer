@@ -1623,6 +1623,7 @@ barosaurs
 barquentine
 barracks
 barracudas
+barraged
 barranco
 barrators
 barratries
@@ -1775,6 +1776,7 @@ beduin
 beduncing
 bedwarf
 beechwood
+beefalo
 beefcake
 beefiness
 beekeepings
@@ -2034,6 +2036,7 @@ biome
 biometers
 biometricians
 biomorphic
+biopic
 bioptic
 bioregionalisms
 bioregions
@@ -2709,6 +2712,7 @@ bushpig
 bushtit
 bushwhackers
 businesspersons
+busk
 bustard
 buster
 busticates
@@ -2799,6 +2803,7 @@ calabazas
 calamaries
 calamondin
 calcanei
+calceate
 calcedony
 calcinations
 calcine
@@ -3161,6 +3166,7 @@ caterer
 cathedra
 cathepsin
 cathodally
+catholicate
 catholicates
 catholicity
 catholicizing
@@ -3562,6 +3568,7 @@ chromaticism
 chromatids
 chromiest
 chrominance
+chromite
 chromomeres
 chromomeric
 chromoplasts
@@ -4138,6 +4145,7 @@ compos
 composednesses
 compositors
 compost
+compounded
 compradors
 comprehended
 compresses
@@ -4865,6 +4873,7 @@ crustaceans
 crutching
 crux
 cruzeiros
+cryingly
 cryobiologist
 cryobiology
 cryogenics
@@ -4920,6 +4929,7 @@ cult
 cultic
 cultishly
 cultivator
+culturally
 cultures
 culvert
 cumarin
@@ -5028,6 +5038,7 @@ cyclecars
 cycler
 cyclings
 cyclitol
+cyclizes
 cyclizing
 cyclogenesis
 cycloids
@@ -6106,6 +6117,7 @@ dissociability
 dissocial
 dissolved
 dissolves
+dissuasively
 dissuasiveness
 dissyllable
 dissyllables
@@ -6584,6 +6596,7 @@ ecclesiological
 ecclesiologist
 ecclesiology
 ecdysis
+echelon
 echeloning
 echinate
 echinoderm
@@ -7244,6 +7257,7 @@ eternised
 eternities
 etesians
 ethanolamine
+etherealization
 etherealnesses
 etherizer
 ethinyls
@@ -7257,6 +7271,7 @@ ethnologies
 ethograms
 ethos
 ethoxies
+ethoxyl
 eths
 ethynyls
 etiolating
@@ -9525,6 +9540,7 @@ haute
 havdalah
 havior
 hawking
+hawkmoths
 hawkweed
 hawsepipes
 hawsers
@@ -9638,6 +9654,7 @@ helots
 helped
 helpmates
 hem
+hemacytometer
 hemacytometers
 hemagogs
 hematics
@@ -9726,6 +9743,7 @@ heterokaryons
 heterokaryoses
 heterologously
 heterolysis
+heteromorphic
 heterophile
 heteroploid
 heteroploids
@@ -9878,6 +9896,7 @@ homoeroticism
 homogenates
 homogeneities
 homogenizations
+homograft
 homoiotherm
 homolog
 homologates
@@ -10571,6 +10590,7 @@ inexact
 inexcusably
 inexpedience
 inexpensive
+inexpiably
 inexplainable
 inexpressibly
 inextricability
@@ -10664,6 +10684,7 @@ initially
 initiated
 initiative
 initiatory
+injectables
 injudiciously
 injudiciousness
 injury
@@ -11036,6 +11057,7 @@ irretrievable
 irrigably
 irrigation
 irrigators
+irritatingly
 irritative
 irruptions
 isallobar
@@ -12977,6 +12999,7 @@ milliseconds
 millrace
 millwright
 milo
+milpa
 mimed
 mimeographs
 mimesises
@@ -14369,6 +14392,7 @@ ofay
 offed
 offended
 offenses
+offensives
 offering
 offerings
 offerors
@@ -15529,6 +15553,7 @@ pentamidines
 pentangle
 pentangles
 pentaploids
+penthouses
 pentlandites
 pentoses
 penuchi
@@ -15540,6 +15565,7 @@ peopleless
 pep
 peperomia
 pepino
+peponium
 pepperboxes
 peptid
 peptizes
@@ -15562,6 +15588,7 @@ percussing
 percussiveness
 perdie
 perditions
+perdurability
 perdurably
 perdy
 perennated
@@ -17601,6 +17628,7 @@ recommissioning
 recompensed
 reconceived
 reconcilable
+reconciliations
 recondenses
 recondensing
 reconditioned
@@ -20179,6 +20207,7 @@ soulfulnesses
 soundboard
 soundly
 souped
+soupiest
 sourer
 sourwoods
 southbound
@@ -21115,6 +21144,7 @@ superbest
 superbomber
 superbombers
 superbright
+supercabinets
 supercharges
 supercity
 superclasses
@@ -21916,6 +21946,7 @@ tierced
 tiering
 tigerlike
 tightfistedness
+tightrope
 tigon
 tikes
 til
@@ -22360,6 +22391,7 @@ triploidies
 tripodies
 tripody
 tripolis
+trips
 triptanes
 triskele
 triskeles
@@ -22600,6 +22632,7 @@ tzetzes
 tzigane
 tzitzit
 ubiquitous
+ubiquitousness
 udometer
 ufologies
 uglification
@@ -22719,6 +22752,7 @@ uncinal
 uncinarias
 uncivilized
 unclasped
+unclawed
 uncleanlier
 unclearest
 unclinched
@@ -23178,6 +23212,7 @@ unwinding
 unwisdoms
 unwise
 unwiser
+unwitted
 unworldlier
 unworldliness
 unworldlinesses
