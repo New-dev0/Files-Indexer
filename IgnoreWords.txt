@@ -225,6 +225,7 @@ adjutants
 admeasuring
 administrable
 administrants
+administrate
 administrates
 administrating
 administrator
@@ -309,6 +310,7 @@ afforests
 affraying
 affrighted
 affront
+affronts
 aflatoxins
 afraid
 aft
@@ -1719,6 +1721,7 @@ beasties
 beasts
 beatable
 beaten
+beatific
 beatifically
 beatify
 beau
@@ -1852,6 +1855,7 @@ beneficial
 beneficiary
 beneficiate
 beneficiated
+beneficiating
 benefit
 benefited
 benempt
@@ -3242,6 +3246,7 @@ centrums
 centums
 centuple
 centupling
+century
 cephalically
 cephalothin
 ceps
@@ -3369,6 +3374,7 @@ cheapnesses
 cheapskates
 chebec
 chechako
+check
 checkbooks
 checkered
 checkers
@@ -3381,6 +3387,7 @@ checkpoints
 checkrooms
 checkup
 cheechakos
+cheekier
 cheekily
 cheeking
 cheerers
@@ -3540,6 +3547,7 @@ chowed
 chowhounds
 chowing
 chresard
+chresards
 chrismons
 christening
 chroma
@@ -3604,6 +3612,7 @@ circulates
 circulation
 circumambulate
 circumambulates
+circumflex
 circumfluent
 circumlocutions
 circumlunar
@@ -3842,6 +3851,7 @@ cockscomb
 cockshy
 cockspur
 cockup
+cocomat
 cocoon
 cocottes
 cocounsel
@@ -5561,9 +5571,11 @@ derm
 dermas
 dermatoglyphics
 dermatological
+dermatoses
 dermic
 derms
 derry
+desalination
 desalinizing
 descant
 descanted
@@ -6391,6 +6403,7 @@ droppings
 dropsical
 dropsonde
 dropsy
+dropwort
 droshkies
 dross
 drossiest
@@ -7702,6 +7715,7 @@ feedgrains
 feedlot
 feeling
 feelings
+feeze
 feezed
 feijoa
 feist
@@ -8675,6 +8689,7 @@ geed
 geegaw
 geekinesses
 gees
+gegenscheins
 geisha
 gelati
 gelatines
@@ -10559,6 +10574,7 @@ infaunal
 infecters
 infecting
 infectivity
+infectors
 infelicitous
 infeoffs
 inferable
@@ -10751,6 +10767,7 @@ intercalations
 interceders
 intercept
 intercity
+intercoastal
 intercollegiate
 intercomparing
 interconnect
@@ -10774,6 +10791,7 @@ interfold
 interfolds
 intergraded
 intergrades
+intergrowth
 intergrowths
 interim
 interindividual
@@ -10831,6 +10849,7 @@ interrelating
 interrenal
 interrogatees
 interrogating
+interrogator
 interrupted
 interrupting
 intersegmental
@@ -11736,6 +11755,7 @@ leant
 leaped
 leapers
 leathered
+leathering
 leatherlike
 leathernecks
 leavy
@@ -12971,6 +12991,7 @@ minifying
 minikin
 minilab
 minimalists
+minimals
 minimax
 mining
 miniscule
@@ -13487,6 +13508,7 @@ mullah
 mullen
 mullers
 mulling
+mullions
 mullite
 multibillion
 multibladed
@@ -13847,6 +13869,7 @@ newsstand
 newsworthy
 newt
 newwavers
+niccolites
 niche
 niches
 nickeling
@@ -14855,6 +14878,7 @@ overentertained
 overestimated
 overestimates
 overevaluations
+overexertions
 overexpectation
 overexplained
 overexploited
@@ -15835,6 +15859,7 @@ pickaxed
 picketboat
 picketer
 pickinesses
+pickled
 picolin
 picomole
 picoting
@@ -16083,6 +16108,7 @@ pleuron
 plex
 pliably
 plicated
+plicately
 plies
 pliofilm
 pliskie
@@ -17833,6 +17859,7 @@ reidentifies
 reif
 reifying
 reignited
+reignition
 reimaging
 reimportation
 reimports
@@ -18008,6 +18035,7 @@ repinning
 replaceable
 replasters
 repled
+repleteness
 repletes
 replica
 replicabilities
@@ -18203,6 +18231,7 @@ retaken
 retaking
 retaliating
 retallied
+retallies
 retarder
 retastes
 retax
@@ -18489,6 +18518,7 @@ romeo
 romeos
 rondeaux
 rondos
+rooftop
 rooftops
 room
 roomed
@@ -20365,6 +20395,7 @@ springtides
 springwaters
 springwood
 sprinklered
+sprinklering
 sprinted
 sprinters
 spritsails
@@ -20402,6 +20433,7 @@ squareness
 squares
 squaring
 squashed
+squashes
 squattest
 squatty
 squawroots
@@ -21578,6 +21610,7 @@ temporises
 temporize
 temporizer
 temporizes
+temptations
 tempter
 tenaculum
 tenailles
@@ -23063,6 +23096,7 @@ unstopper
 unstopping
 unsubdued
 unsupportable
+unsurpassed
 unsurprisingly
 unsustainable
 unswear
@@ -23427,6 +23461,7 @@ vetoes
 vets
 vexer
 vexers
+vexilla
 vial
 viand
 viands
