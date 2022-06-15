@@ -1,0 +1,5 @@
+private/Write-Weather.ps1 1.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/makl.weather/1.0/Content/private%255CWrite-Weather.ps1
+public/Set-DaikinAirCon.ps1 1.10.3 - PowerShell Gallery,https://www.powershellgallery.com/packages/pstools.daikin/1.10.3/Content/public%255CSet-DaikinAirCon.ps1
+"param ( [string]$Location = ""japaneast"", [Parameter(Mandatory ...",https://raw.githubusercontent.com/lowndesc/industryx/main/sandbox/SimulatedDevices/SimulatorCloudRunner.ps1
+Terminal-Icons/glyphs.ps1 at main - GitHub,https://github.com/devblackops/Terminal-Icons/blob/main/Terminal-Icons/Data/glyphs.ps1
+get-exif-data/Get-ExifData.ps1 at master - GitHub,https://github.com/auberginehill/get-exif-data/blob/master/Get-ExifData.ps1
