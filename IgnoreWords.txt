@@ -165,6 +165,7 @@ acrosomal
 acrosomes
 acrostics
 acrotisms
+acrylonitrile
 actinia
 actinias
 actinomorphies
@@ -2190,6 +2191,7 @@ boatyard
 bobolinks
 bobsleigh
 bobwhites
+bodacious
 bodega
 bodings
 bods
@@ -3719,6 +3721,7 @@ coadmire
 coadmires
 coadmits
 coagulability
+coagulants
 coagulase
 coagulate
 coalescing
@@ -4533,6 +4536,7 @@ courtezans
 courtlier
 courtroom
 courtrooms
+cousin
 couture
 covalences
 covariance
@@ -4621,6 +4625,7 @@ creativenesses
 creaturehoods
 credendum
 credentialism
+credentialisms
 credentialling
 credible
 creditability
@@ -5584,6 +5589,7 @@ dialects
 dialled
 dialogically
 dialogs
+dialogue
 dialyzes
 diamantes
 diamins
@@ -5597,6 +5603,7 @@ diaphanous
 diaphanously
 diaphones
 diaphorases
+diaphoreses
 diaphragming
 diaphyseal
 diaphysis
@@ -5746,6 +5753,7 @@ diplomacies
 diplomate
 diplomates
 diplomats
+diplopias
 dipnoans
 dippy
 dipsomania
@@ -7633,6 +7641,7 @@ fiches
 ficin
 fickly
 fico
+fictional
 fictionalised
 fictionist
 fiddlehead
@@ -9417,6 +9426,7 @@ hemagogs
 hematics
 hematinics
 hematomas
+hematopoietic
 hematoxylins
 hemerythrins
 hemic
@@ -10784,6 +10794,7 @@ irretrievable
 irrigation
 irrigators
 irritative
+irruptions
 isallobar
 isallobaric
 isarithm
@@ -11176,6 +11187,7 @@ kidnappers
 kidney
 kidskins
 kidvid
+kilim
 kill
 killdeers
 kills
@@ -11317,6 +11329,7 @@ lacewings
 lacily
 lackadaisically
 lacked
+lackering
 lacquer
 lacqueyed
 lactases
@@ -11659,6 +11672,7 @@ limberest
 limbos
 limbus
 limbuses
+limekiln
 limens
 limericks
 limina
@@ -12390,6 +12404,7 @@ melee
 melilots
 meliorating
 mellower
+melodicas
 melodiously
 melodised
 melodramatizes
@@ -12836,6 +12851,7 @@ misplaces
 misplans
 misplays
 mispoise
+mispoised
 mispoising
 mispositioning
 misprices
@@ -12966,6 +12982,8 @@ momus
 momzer
 momzers
 monad
+monadal
+monades
 monadnock
 monarch
 monarchical
@@ -13619,6 +13637,7 @@ nitrous
 nittier
 nixies
 nobbiest
+nobility
 noble
 nobody
 noctambulist
@@ -13805,6 +13824,7 @@ nonresponse
 nonretractile
 nonrubber
 nonschool
+nonscientist
 nonsecretors
 nonselective
 nonsensically
@@ -14295,6 +14315,7 @@ outbluffed
 outbluffs
 outbrags
 outbrave
+outbrazened
 outbrazening
 outbribe
 outbribes
@@ -14895,6 +14916,7 @@ parasang
 parasexual
 parashahs
 parashioth
+parashot
 parasitise
 parasitologist
 parasitologists
@@ -16784,6 +16806,7 @@ quanting
 quantitate
 quantitation
 quantitative
+quantized
 quarantined
 quarreler
 quarrelsomeness
@@ -16971,6 +16994,7 @@ rappeling
 rappels
 rappen
 rapping
+rapt
 raptness
 rapturousnesses
 rare
@@ -19470,6 +19494,7 @@ smuts
 smuttier
 snackers
 snacks
+snail
 snailed
 snake
 snakebites
@@ -19560,6 +19585,7 @@ socialize
 socializer
 socializes
 sociolinguistic
+sociometry
 socioreligious
 socket
 sodbusters
@@ -19598,6 +19624,7 @@ solider
 solifluction
 soliloquies
 solion
+solipsistically
 solipsists
 solitaries
 solitons
@@ -19769,6 +19796,7 @@ spectinomycin
 spectres
 spectrographic
 spectroscopes
+spectrums
 speculates
 speculums
 speedballed
@@ -21445,6 +21473,7 @@ toady
 toadying
 toastier
 toastmaster
+toastmistresses
 tobacco
 tobacconists
 tobaccos
@@ -22025,6 +22054,7 @@ typewriter
 typhlitis
 typhlitises
 typhous
+typic
 typical
 typier
 typographed
@@ -23092,6 +23122,7 @@ vow
 vox
 voyageurs
 vrouw
+vuggier
 vuggs
 vugh
 vulcanisations
@@ -23181,8 +23212,10 @@ warmups
 warped
 warplane
 warranted
+warrantied
 warrantor
 warren
+warrens
 warship
 warsle
 wartless
@@ -23399,6 +23432,7 @@ wildings
 wilinesses
 willet
 willingly
+williwaw
 willy
 wimpling
 wince
@@ -23670,6 +23704,7 @@ yawners
 yclept
 yeaning
 yearbook
+yeasayer
 yeasayers
 yecch
 yegg
