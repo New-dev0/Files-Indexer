@@ -1,0 +1,8 @@
+Public/ConvertTo-NamingArray.ps1 1.1.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/configuration-substitution/1.1.0/Content/Public%255CConvertTo-NamingArray.ps1
+Model/StdLocalizableMessage.ps1 1.0.103.18633200 - PowerShell ...,https://www.powershellgallery.com/packages/VMware.Sdk.vSphere.vCenter.ISO/1.0.103.18633200/Content/Model%255CStdLocalizableMessage.ps1
+Out-FINcodedCommand/Out-FINcodedCommand.ps1 at master ...,https://github.com/danielbohannon/Out-FINcodedCommand/blob/master/Out-FINcodedCommand.ps1
+PowerShell-Configuration-Substitution/deploy.psdeploy.ps1 at master,https://github.com/tosoikea/PowerShell-Configuration-Substitution/blob/master/deploy.psdeploy.ps1
+Private/deploy/Configuration/Resolve-Token.ps1 1.1.2 - PowerShell ...,https://psg-prod-centralus.cloudapp.net/packages/PSCI/1.1.2/Content/Private%255Cdeploy%255CConfiguration%255CResolve-Token.ps1
+functions/Import-DbaPfDataCollectorSetTemplate.ps1 0.9.200,https://psg-prod-centralus.cloudapp.net/packages/dbatools/0.9.200/Content/functions%255CImport-DbaPfDataCollectorSetTemplate.ps1
+function Out-FINcodedCommand { <# .SYNOPSIS Out ...,https://raw.githubusercontent.com/danielbohannon/Out-FINcodedCommand/master/Out-FINcodedCommand.ps1
+functions/Import ... - PowerShell Gallery,https://40.87.85.101/packages/dbatools/0.9.480/Content/functions%255CImport-DbaPfDataCollectorSetTemplate.ps1
