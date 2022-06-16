@@ -524,6 +524,7 @@ almsgivings
 almuds
 almug
 alodia
+aloe
 aloft
 aloofly
 alpenglow
@@ -707,6 +708,7 @@ androgeneses
 androgynous
 andrologies
 androsterones
+anecdota
 anecdotage
 anecdotalists
 anecdotic
@@ -1555,6 +1557,7 @@ balkily
 ballasting
 ballerina
 ballerinas
+balletomania
 ballgame
 ballistic
 ballistically
@@ -2494,6 +2497,7 @@ breathy
 brecciation
 brecciations
 brechan
+brechans
 breechloaders
 brents
 brethren
@@ -2998,6 +3002,7 @@ caracaras
 caracolling
 caramel
 carangoid
+carate
 caravanned
 caravanning
 carb
@@ -3426,6 +3431,7 @@ cheerios
 cheerleading
 cheerless
 cheerlessness
+cheesecloths
 cheesiness
 cheesinesses
 cheffing
@@ -6050,6 +6056,7 @@ diseur
 diseuses
 disfigure
 disfrock
+disgrace
 disgraced
 disgracefulness
 disgruntle
@@ -6455,6 +6462,7 @@ drizzliest
 droid
 drolling
 dromon
+droned
 drones
 drongos
 droningly
@@ -6558,6 +6566,7 @@ durst
 dusks
 dustheaps
 dustman
+dutiable
 duumviri
 dwarfed
 dwarfest
@@ -7205,6 +7214,7 @@ equitable
 equivalencies
 equivocality
 equivoke
+era
 eradiate
 eradiating
 eradicable
@@ -7421,6 +7431,7 @@ excerpting
 excerpts
 exchanging
 excide
+excises
 excisional
 excitation
 excitatory
@@ -7461,6 +7472,7 @@ exercise
 exertive
 exfoliated
 exfoliating
+exhalant
 exhaled
 exhaustion
 exhaustive
@@ -7676,6 +7688,7 @@ falterers
 falters
 familiarises
 familistic
+faming
 famishment
 fanatical
 fanaticized
@@ -8811,6 +8824,7 @@ genitals
 genocidal
 genomes
 genteelness
+gentian
 gentlemen
 gentler
 genua
@@ -9975,6 +9989,7 @@ homologizes
 homologizing
 homomorphism
 homonuclear
+homonymic
 homonymies
 homophobes
 homophobia
@@ -10292,6 +10307,7 @@ iconicity
 iconoclasm
 icons
 icosahedra
+icosahedral
 idealise
 idealism
 idealisms
@@ -10468,6 +10484,7 @@ impreciseness
 imprecision
 impregnableness
 impregnated
+impregnates
 impregnators
 impregns
 impresses
@@ -10482,6 +10499,7 @@ improvements
 improvident
 improvisatori
 improvised
+improvisers
 improvs
 impugn
 impugned
@@ -11041,6 +11059,7 @@ inurnments
 invalided
 invaliding
 invalidisms
+invalidity
 invariable
 invected
 inveighing
@@ -11571,6 +11590,7 @@ kingships
 kingside
 kinins
 kinkajou
+kinkinesses
 kiosks
 kippered
 kipperers
@@ -14375,6 +14395,7 @@ nuptialities
 nuptials
 nurling
 nurls
+nursed
 nursemaid
 nutgall
 nutmeg
@@ -16124,6 +16145,7 @@ pipping
 piquances
 piquet
 piragua
+piraguas
 piratically
 pirojki
 piroplasmata
@@ -16193,6 +16215,7 @@ plangencies
 planimeter
 planimetrically
 planishers
+planisphere
 planked
 planking
 plankters
@@ -16695,6 +16718,7 @@ preedited
 preelect
 preelecting
 preemergent
+preeminence
 preener
 preeners
 preexempts
@@ -16748,6 +16772,7 @@ premoistened
 premold
 premunitions
 prenames
+prenotification
 prenotifying
 prenumbers
 preordering
@@ -17111,6 +17136,7 @@ psalms
 psalter
 psephite
 psephites
+pseudomonas
 pseudomorphism
 pseudopregnant
 pseudorandom
@@ -18003,6 +18029,7 @@ regimentation
 reginae
 regionalists
 regiving
+reglorified
 reglossing
 reglow
 reglowed
@@ -18183,6 +18210,7 @@ renown
 rentabilities
 renunciative
 renunciatory
+renvoi
 reobtains
 reoccupied
 reoccur
@@ -18912,6 +18940,7 @@ sagier
 sahibs
 saice
 saids
+sailable
 sailboard
 sailboards
 sailboater
@@ -20346,6 +20375,7 @@ sorrier
 sorrowfulness
 sortied
 soteriology
+sotols
 soubrettes
 souchongs
 soudan
@@ -21435,6 +21465,7 @@ suspenser
 suspensions
 suspensors
 suspicious
+sustain
 susurrant
 susurration
 suttees
@@ -22142,6 +22173,7 @@ tinging
 tingliest
 tingling
 tinily
+tininess
 tinker
 tinkled
 tinkler
@@ -24031,6 +24063,7 @@ weakliest
 weaklings
 wealds
 wealthier
+weaponizes
 weaponry
 wearisomenesses
 weasands
@@ -24061,6 +24094,7 @@ weepies
 weevers
 weevily
 weighman
+weighted
 weightiness
 weightinesses
 weird
@@ -24148,6 +24182,7 @@ whizzer
 whizzy
 whoa
 whodunits
+whodunnit
 wholesaled
 wholesome
 whomping
