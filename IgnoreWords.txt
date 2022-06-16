@@ -2709,6 +2709,7 @@ burgh
 burglarized
 burglarproof
 burgomasters
+burgundies
 burial
 burlesks
 burlesque
@@ -4348,6 +4349,7 @@ consequentially
 conservational
 conservatism
 conservatisms
+conservative
 conservatizing
 considerably
 consign
@@ -4634,6 +4636,7 @@ coulibiac
 coulibiacs
 coulis
 coulometries
+coulters
 coumaric
 councilwomen
 counselee
@@ -5858,6 +5861,7 @@ diestocks
 diestrous
 differentiated
 differentiation
+difficile
 difficulties
 diffraction
 diffractions
@@ -6555,6 +6559,7 @@ duncishly
 dunderheads
 dunelike
 dunlin
+dunnite
 duns
 dunting
 dunts
@@ -7704,6 +7709,7 @@ faming
 famishment
 fanatical
 fanaticized
+fanatics
 fancify
 fanciless
 fanciness
@@ -8023,8 +8029,10 @@ fishery
 fisheye
 fishhook
 fishhooks
+fishings
 fishmongers
 fishtails
+fishways
 fissility
 fissionability
 fissiped
@@ -8824,6 +8832,7 @@ gemot
 gemots
 gen
 genders
+genealogically
 generalises
 generalizable
 generation
@@ -9111,6 +9120,7 @@ gorbellies
 gorcock
 gorditas
 gorgeousnesses
+gorillas
 gorm
 gormandising
 gormandize
@@ -9819,6 +9829,7 @@ hermitism
 herniae
 hernias
 herniation
+heroes
 heroine
 herpesviruses
 herpetic
@@ -10990,6 +11001,7 @@ interpreted
 interpupillary
 interrelated
 interrelating
+interrelation
 interrenal
 interrogatees
 interrogating
@@ -11162,6 +11174,7 @@ irrelevance
 irreligionist
 irreligions
 irreligious
+irrepressible
 irresolutely
 irresoluteness
 irretrievable
@@ -12034,6 +12047,7 @@ librated
 libretti
 librettist
 libriform
+licensable
 licensees
 licensures
 licentiates
@@ -12313,6 +12327,7 @@ loud
 loudliest
 loudspeakers
 lough
+loughs
 louis
 lounged
 loungers
@@ -12564,6 +12579,7 @@ mangabeys
 mangaby
 manganese
 manganites
+manginess
 mangled
 mango
 mangold
@@ -12700,11 +12716,13 @@ matchmarks
 matchstick
 matchsticks
 matchwood
+materialist
 materially
 maternally
 matey
 mateys
 mathematized
+matriarchs
 matrimonies
 matronizes
 matt
@@ -13711,6 +13729,7 @@ multipion
 multiples
 multiplexed
 multiplexor
+multiplexors
 multiplications
 multiplicity
 multiplies
@@ -13942,6 +13961,7 @@ neediness
 needlelike
 needless
 needlessly
+needlessnesses
 needleworker
 needling
 negates
@@ -14429,6 +14449,7 @@ oasthouses
 obdurately
 obdurateness
 obeah
+obeahism
 obeli
 obelisms
 obeyer
@@ -15011,6 +15032,7 @@ overanalyzes
 overanalyzing
 overarming
 overassertion
+overassertive
 overassessments
 overbeats
 overbejeweled
@@ -16123,6 +16145,7 @@ pillowy
 pilonidal
 pilotages
 piloting
+pimpernel
 pimply
 pimpmobile
 pinballed
@@ -17016,6 +17039,7 @@ prognosticators
 programed
 progression
 progressivists
+prohibits
 project
 projectable
 projected
@@ -17186,6 +17210,7 @@ psychoneurotics
 psychosexual
 psychosexuality
 psychosexually
+psychosynthesis
 psychotherapies
 psychotherapist
 psylliums
@@ -17227,6 +17252,7 @@ pullouts
 pullulates
 pulpers
 pulps
+pulsant
 pulsars
 pulsated
 pulsed
@@ -19317,6 +19343,7 @@ scroops
 scrootching
 scrota
 scrouge
+scrouged
 scrouging
 scroungiest
 scrubwoman
@@ -19679,6 +19706,7 @@ sheerness
 sheetings
 sheetrock
 sheets
+sheikhdom
 sheilas
 shellack
 shellback
@@ -20267,6 +20295,7 @@ soberer
 soberest
 sobering
 sobersidedness
+sobriquets
 sobs
 soca
 socager
@@ -21174,6 +21203,7 @@ subliminally
 subliming
 sublimity
 sublingual
+subliterature
 submarined
 submarkets
 submenu
@@ -21658,6 +21688,7 @@ tabanids
 tabbouleh
 taber
 tabernacles
+tabers
 tabid
 tableaus
 tablecloths
@@ -22753,6 +22784,7 @@ turbeth
 turbidities
 turbinal
 turbinals
+turbocharger
 turbulencies
 turbulently
 turfmen
@@ -23524,6 +23556,7 @@ uraninite
 uraninites
 uranologies
 urase
+urases
 urbaner
 urbanest
 urbanise
@@ -24443,12 +24476,14 @@ wrangle
 wrangling
 wrap
 wrapped
+wrasse
 wrastled
 wrath
 wreakers
 wreaking
 wreathe
 wreathes
+wreaths
 wreathy
 wreckers
 wreckful

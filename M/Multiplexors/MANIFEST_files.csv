@@ -1,0 +1,4 @@
+Package: asterisk13-app-adsiprog Version: 13.20.0-6 Depends: libc ...,https://downloads.openwrt.org/releases/18.06.9/packages/arm_arm1176jzf-s_vfp/telephony/Packages.manifest
+Package: asterisk16-app-adsiprog Version: 16.25.2-1 Depends: libc ...,https://downloads.openwrt.org/releases/packages-19.07/mips_24kc/telephony/Packages.manifest
+Package: asterisk11-app-alarmreceiver Version: 11.22.0-3 Depends ...,https://usingpro.com/releases/packages-17.01/arm_fa526/telephony/Packages.manifest
+Package: asterisk11-app-alarmreceiver Version: 11.22.0-2 Depends ...,https://archive.openwrt.org/releases/17.01.6/packages/i386_i486/telephony/Packages.manifest
