@@ -267,6 +267,7 @@ advertize
 advisements
 advises
 advocacy
+advocator
 advowson
 adynamias
 aeonic
@@ -1226,6 +1227,7 @@ aspartates
 aspect
 aspen
 asperity
+aspersors
 asphalt
 aspidistra
 aspidistras
@@ -1249,6 +1251,7 @@ assenters
 assents
 asserting
 assertor
+asset
 assets
 asseverates
 asseverative
@@ -1329,6 +1332,7 @@ attaches
 attachment
 attagirl
 attain
+attainting
 attempers
 attended
 attendee
@@ -3234,6 +3238,7 @@ catenates
 cater
 catercorner
 caterer
+cathects
 cathedra
 cathepsin
 cathodally
@@ -3770,6 +3775,7 @@ clapping
 clarifies
 clarioned
 claros
+clashers
 clashes
 clasping
 classable
@@ -4671,6 +4677,7 @@ cosine
 cosmochemist
 cosmogonic
 cosmographical
+cosmolining
 cosmonauts
 cosmopolises
 cosmos
@@ -6056,6 +6063,7 @@ disaffiliating
 disaffirms
 disaggregate
 disaggregated
+disagreeable
 disagreement
 disallowed
 disappearance
@@ -6934,6 +6942,7 @@ email
 emails
 emanant
 emanating
+emanator
 emancipated
 emancipates
 emasculate
@@ -8127,6 +8136,7 @@ fishbolts
 fishermen
 fishery
 fisheye
+fisheyes
 fishhook
 fishhooks
 fishings
@@ -8281,6 +8291,7 @@ floricane
 florid
 floruits
 flossie
+flotillas
 flourisher
 flouted
 flouter
@@ -8320,6 +8331,7 @@ fluorographies
 fluorometers
 fluorometries
 fluorometry
+fluoroscopes
 flurries
 flurry
 flushable
@@ -8423,6 +8435,7 @@ forechecks
 foreclosure
 foredate
 foredecks
+foreface
 forefends
 forefinger
 foregathered
@@ -9058,6 +9071,7 @@ glabellae
 glaceing
 glaciating
 glaciers
+glacises
 glad
 gladdeners
 gladiate
@@ -9310,6 +9324,7 @@ grapevines
 graphemically
 graphical
 graphically
+graphite
 graphites
 graphitizable
 graphitization
@@ -9715,6 +9730,7 @@ harmfulness
 harming
 harmlessly
 harmonic
+harmonize
 harmonized
 harped
 harpings
@@ -9843,6 +9859,7 @@ hectoliter
 hectors
 hedgehops
 hedgepig
+hedgier
 hedonic
 hedonist
 hedonists
@@ -10303,6 +10320,7 @@ hunch
 hunched
 hungers
 hunkey
+hunters
 huntsman
 huppah
 hurdled
@@ -10621,6 +10639,7 @@ implored
 impone
 importance
 importation
+importunateness
 importunely
 importuner
 imposable
@@ -11776,6 +11795,7 @@ kittenishness
 kittenishnesses
 kittler
 kittles
+klatsch
 kleenex
 klephtic
 kleptomaniac
@@ -14705,6 +14725,7 @@ octoploid
 octrois
 octyl
 oculars
+oculomotor
 odahs
 oddball
 oddish
@@ -16588,6 +16609,7 @@ poetless
 pogonips
 pogroming
 pogromist
+poignancies
 poignantly
 poikilothermic
 poikilotherms
@@ -18393,6 +18415,7 @@ reliers
 reliever
 relievers
 religionless
+religiose
 religiosity
 relinking
 relinquish
@@ -18816,6 +18839,7 @@ revolute
 revolutionaries
 revulsive
 revving
+rewakening
 rewan
 rewashing
 rewaxed
@@ -18976,6 +19000,7 @@ rockery
 rockhopper
 rockhounds
 rodents
+rodeos
 roe
 rogatory
 roger
@@ -19270,6 +19295,7 @@ samsaras
 samshu
 sanatorium
 sanctification
+sanctifies
 sanctifying
 sandaling
 sandals
@@ -19431,6 +19457,7 @@ scarred
 scars
 scary
 scatback
+scatterbrain
 scatterbrained
 scatterbrains
 scatterguns
@@ -19469,6 +19496,7 @@ scholasticates
 scholium
 schoolman
 schoolmaster
+schoolroom
 schoolwork
 schottisches
 schticks
@@ -19580,6 +19608,7 @@ sculled
 sculler
 sculls
 sculped
+sculping
 sculpturally
 scummer
 scunnered
@@ -19716,6 +19745,7 @@ semidwarfs
 semidwarves
 semierect
 semifinalist
+semifinals
 semifluid
 semiformal
 semilethal
@@ -19833,6 +19863,7 @@ servable
 servantless
 servants
 served
+service
 servicing
 servitudes
 sesquiterpene
@@ -21439,6 +21470,7 @@ subjecting
 subjectivised
 subjectivizes
 subjoin
+subjugations
 subjugator
 sublated
 sublation
@@ -24462,6 +24494,7 @@ wetbacks
 wetness
 wetnesses
 whacks
+whaleman
 whales
 whaps
 wharfage
@@ -24588,6 +24621,7 @@ windiness
 windless
 windmills
 windowing
+windpipes
 windrower
 windrowers
 windrows
@@ -24895,6 +24929,7 @@ yokozuna
 yokozunas
 yolk
 yoni
+yonic
 youngling
 youpon
 yous
