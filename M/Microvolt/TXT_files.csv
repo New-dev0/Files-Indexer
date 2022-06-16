@@ -1,0 +1,10 @@
+Documentation/devicetree/bindings/regulator/regulator.txt - Google Git,https://android.googlesource.com/kernel/tegra.git/%2B/2ce2576c4a8fb4942cc3c75d4f81a32138a98f0e/Documentation/devicetree/bindings/regulator/regulator.txt
+Documentation/devicetree/bindings/regulator/max8952.txt - Google Git,https://android.googlesource.com/kernel/msm/%2B/android-7.1.0_r0.2/Documentation/devicetree/bindings/regulator/max8952.txt
+sun50i-nvmem-cpufreq.txt,https://www.kernel.org/doc/Documentation/devicetree/bindings/opp/sun50i-nvmem-cpufreq.txt
+opp.txt,https://www.kernel.org/doc/Documentation/devicetree/bindings/opp/opp.txt
+linux-xlnx/mt6323-regulator.txt at master - GitHub,https://github.com/Xilinx/linux-xlnx/blob/master/Documentation/devicetree/bindings/regulator/mt6323-regulator.txt
+https://community.nxp.com/pwmxy87654/attachments/p...,https://community.nxp.com/pwmxy87654/attachments/pwmxy87654/imx-processors/173978/1/i2c_sgment_dts.txt
+Documentation/devicetree/bindings/regulator/tps6586x.txt · mainline ...,https://gitlab.sdu.dk/sdurobotics/linux-kernels/kernel/-/blob/mainline/Documentation/devicetree/bindings/regulator/tps6586x.txt
+https://e2e.ti.com/cfs-file/__key/communityserver-...,https://e2e.ti.com/cfs-file/__key/communityserver-discussions-components-files/791/lix2019_2D00_idk_2D00_common.dtsi.txt
+Documentation/devicetree/bindings/regulator/mt6323-regulator.txt ...,https://source.puri.sm/guido.gunther/linux-imx8/-/blob/c50006c1536f9f57827c5466ca7764440686b154/Documentation/devicetree/bindings/regulator/mt6323-regulator.txt
+opp.txt - Yocto git,http://git.yoctoproject.org/cgit/cgit.cgi/linux-yocto-4.6/plain/Documentation/devicetree/bindings/opp/opp.txt
