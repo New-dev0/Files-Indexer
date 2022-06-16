@@ -769,6 +769,7 @@ aniseeds
 anisogamous
 anisotropically
 ankh
+anklet
 ankylosauruses
 ankylose
 ankylosis
@@ -934,6 +935,7 @@ antitraditional
 antitragi
 antituberculous
 antitussive
+antitypes
 antiviral
 antiwelfare
 antlered
@@ -1196,6 +1198,8 @@ artlessness
 arts
 artwork
 arvo
+arvos
+arytenoids
 asbestosis
 ascariasis
 ascarid
@@ -1334,6 +1338,7 @@ attacher
 attachers
 attaches
 attachment
+attackmen
 attagirl
 attain
 attainting
@@ -2009,6 +2014,7 @@ bicornes
 bicycling
 biddabilities
 biddability
+bidder
 bidding
 bidi
 bidirectional
@@ -2088,6 +2094,7 @@ biome
 biometers
 biometricians
 biomorphic
+bionts
 biopic
 bioplasms
 bioptic
@@ -2970,6 +2977,7 @@ canape
 canary
 canasta
 cancelable
+cancelation
 candider
 candidnesses
 candies
@@ -4008,6 +4016,7 @@ cofeaturing
 coffeemakers
 coffeepot
 coffeepots
+coffered
 coffing
 coffret
 cofounders
@@ -4163,6 +4172,7 @@ comeliest
 comfortably
 comfortingly
 comforts
+comitial
 commandants
 commanding
 commands
@@ -6295,6 +6305,7 @@ distresses
 distressfulness
 distributed
 distributor
+disturbers
 disturbingly
 disulfates
 disulfide
@@ -6380,6 +6391,7 @@ dogvanes
 dogwatches
 doings
 doit
+dolling
 dollishly
 dollishness
 dollishnesses
@@ -9493,6 +9505,7 @@ grungy
 grunions
 gruntled
 grutching
+gryphon
 guaiacols
 guanabanas
 guanacos
@@ -10165,6 +10178,7 @@ homilies
 homoeroticism
 homogenates
 homogeneities
+homogenization
 homogenizations
 homograft
 homoiotherm
@@ -10762,6 +10776,7 @@ incomparable
 incompatibility
 incompatible
 incompetency
+incomplete
 inconnu
 inconnus
 inconscient
@@ -10793,6 +10808,7 @@ incur
 incuriosity
 incurrence
 incurving
+incuse
 incusing
 indebted
 indecency
@@ -11532,6 +11548,7 @@ jigsawing
 jimmies
 jimper
 jingko
+jingling
 jingoisms
 jinkers
 jinni
@@ -12057,6 +12074,7 @@ laughed
 laughlines
 launched
 launching
+launchpads
 laundress
 laundrettes
 laureated
@@ -12663,6 +12681,7 @@ madness
 maenadism
 maestosos
 maffick
+mafficks
 mafia
 mafiosos
 magazine
@@ -13693,6 +13712,7 @@ monochromats
 monoclinic
 monoclonal
 monocots
+monocotyl
 monocrystals
 monocularly
 monocytic
@@ -14091,6 +14111,7 @@ naphtha
 naphthols
 napkin
 nappas
+napper
 naproxen
 narcissisms
 narcissists
@@ -14246,6 +14267,7 @@ neurochemical
 neurohormonal
 neurohypophysis
 neurologies
+neurologist
 neurophysiology
 neuroradiology
 neuroscientists
@@ -14565,6 +14587,7 @@ nontransferable
 nonuple
 nonurban
 nonwork
+nonwriters
 noodles
 nooks
 noontide
@@ -15941,6 +15964,7 @@ penknives
 penman
 penniless
 pennon
+pennoncel
 pennycress
 pennywise
 pensil
@@ -16415,6 +16439,7 @@ pinworms
 piolets
 pion
 piosity
+pipal
 pipelined
 piperazine
 piperonals
@@ -16524,6 +16549,7 @@ platanes
 plateaus
 platelet
 platen
+platforms
 platies
 platiest
 platinoid
@@ -17743,6 +17769,7 @@ quixotical
 quixotism
 quizzers
 quizzicalities
+quizzing
 quodlibet
 quodlibets
 quomodo
@@ -18082,6 +18109,7 @@ recommencement
 recommences
 recommendatory
 recommissioning
+recommitments
 recompensed
 reconceived
 reconcilable
@@ -18978,6 +19006,7 @@ ringbarks
 ringbolt
 ringers
 ringhals
+ringlike
 ringmaster
 ringside
 ringtoss
@@ -19461,6 +19490,7 @@ scaloppine
 scalpers
 scammed
 scamped
+scamperers
 scampish
 scandal
 scandalise
@@ -19966,6 +19996,7 @@ shapeups
 shards
 shareabilities
 sharecrops
+sharewares
 sharias
 sharifs
 sharpers
@@ -21493,6 +21524,7 @@ subindustry
 subinfeudates
 subinfeuded
 subinfeuds
+subinterval
 subirrigates
 subitems
 subjacent
@@ -23020,6 +23052,7 @@ trompe
 tromps
 tronas
 trophies
+trophy
 tropic
 tropicals
 tropomyosin
@@ -23659,6 +23692,7 @@ unnaturalness
 unnervingly
 unorganized
 unpack
+unpardonable
 unpatentable
 unpegging
 unperceptive
@@ -23720,6 +23754,7 @@ unsalvageable
 unsanctioned
 unsatisfied
 unsaturates
+unsaved
 unschooled
 unscrambling
 unscrews
