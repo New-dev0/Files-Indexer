@@ -1,0 +1,10 @@
+LiteBSD/rootfs.manifest at master · sergev/LiteBSD · GitHub,https://github.com/sergev/Tilden/blob/master/etc/rootfs.manifest
+avim/chrome.manifest at master · 1ec5/avim - GitHub,https://github.com/1ec5/avim/blob/master/chrome.manifest
+Packages.manifest - OpenWrt Downloads,https://downloads.openwrt.org/releases/18.06.2/packages/mips_24kc/packages/Packages.manifest
+Packages.manifest - OpenWrt Downloads,https://downloads.openwrt.org/releases/18.06.1/packages/mips_24kc/base/Packages.manifest
+"Package: acl Version: 20160519-1 Depends: libc, libacl Source ...",http://www.markur.dk/releases/17.01.4/packages/powerpc_464fp/packages/Packages.manifest
+"Package: 6in4 Version: 25-1 Depends: libc, kmod-sit, uclient-fetch ...",http://www.markur.dk/releases/18.06.4/packages/arm_cortex-a9_vfpv3/base/Packages.manifest
+https://165.227.188.234/yocto/yocto/yocto-3.4.1/ma...,https://165.227.188.234/yocto/yocto/yocto-3.4.1/machines/genericx86-alt/core-image-full-cmdline-genericx86-20211130000350.rootfs.manifest
+acl cortexa8hf_neon 2.2.53 at cortexa8hf_neon 3.2.1 attr ...,https://165.227.188.234/yocto/yocto/yocto-3.3.2/machines/beaglebone-yocto-alt/core-image-full-cmdline-beaglebone-yocto.manifest
+"Package: 464xlat Version: 12 Depends: libc, kmod-nat46, ip Source ...",https://downloads.immortalwrt.org/snapshots/packages/mipsel_24kc_24kf/base/Packages.manifest
+"Package: acme Version: 2.8.7-5 Depends: libc, wget-ssl, ca-bundle ...",https://public.nas.dailylime.kr/openwrt-legacy/packages/aarch64_cortex-a72/packages/Packages.manifest
