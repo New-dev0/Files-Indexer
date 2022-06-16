@@ -45,6 +45,7 @@ absolutists
 absolvent
 absolves
 absorb
+absorbancies
 absorbant
 abstainers
 abstemiousness
@@ -555,6 +556,7 @@ alveolate
 amadous
 amah
 amalgamate
+amalgamators
 amarelles
 amassable
 amasser
@@ -909,6 +911,7 @@ antitrade
 antitraditional
 antitragi
 antituberculous
+antitussive
 antiviral
 antiwelfare
 antlered
@@ -1524,6 +1527,7 @@ bagatelle
 baggies
 bagginesses
 bagpipes
+bagpiping
 baguet
 bahts
 bails
@@ -2256,6 +2260,7 @@ bodybuildings
 bodyguarding
 boffola
 bog
+bogeyman
 bogginesses
 boggy
 bogusness
@@ -2601,6 +2606,7 @@ bryologist
 bryophyllums
 bryozoans
 bubbled
+bubbler
 bubkes
 bubo
 buccal
@@ -3456,6 +3462,7 @@ chiefest
 chiefships
 chiffchaffs
 chignoned
+chilblain
 childbearings
 childbed
 childbirths
@@ -4075,6 +4082,7 @@ commandants
 commanding
 commands
 commemoratively
+commencement
 commencer
 commencers
 commendation
@@ -4947,6 +4955,7 @@ cultic
 cultishly
 cultivator
 culturally
+culture
 cultures
 culvert
 cumarin
@@ -8092,6 +8101,7 @@ fling
 flinging
 flinted
 flintiness
+flite
 flited
 flitter
 flittered
@@ -9517,8 +9527,10 @@ hardhat
 hardiest
 hardihoods
 hardly
+hardnoses
 hardwire
 hardy
+haring
 harissa
 harkeners
 harl
@@ -9608,6 +9620,7 @@ headful
 headfuls
 headhunt
 headhunts
+headily
 heading
 headings
 headlamp
@@ -9705,6 +9718,7 @@ hemerythrins
 hemic
 hemicellulose
 hemiplegics
+hemispheric
 hemitrope
 hemochromatoses
 hemochromatosis
@@ -10053,6 +10067,7 @@ housecoats
 housefather
 housemaster
 housepainters
+houserooms
 housewares
 houseworks
 housing
@@ -11626,6 +11641,7 @@ kurbash
 kvases
 kvass
 kvasses
+kvetch
 kvetchier
 kwachas
 kwashiorkor
@@ -11654,6 +11670,7 @@ labyrinthine
 laccolith
 lacer
 lacewings
+lachrymosely
 lacily
 lackadaisically
 lacked
@@ -12342,6 +12359,7 @@ lycopenes
 lymphoblast
 lymphomatoses
 lynched
+lyophilises
 lyophilizer
 lyophilizes
 lyricise
@@ -13822,6 +13840,7 @@ nautches
 nautili
 nautilus
 navaids
+naval
 navel
 navelworts
 navicert
@@ -16000,6 +16019,7 @@ pierces
 pieta
 pietistic
 pietistically
+pigeonholer
 pigeonholing
 pigeonite
 pigeonites
@@ -16647,6 +16667,7 @@ preelect
 preelecting
 preemergent
 preener
+preeners
 preexempts
 preexilic
 preexposes
@@ -17460,6 +17481,7 @@ raku
 rally
 rallyists
 ramble
+ramees
 ramie
 ramies
 ramiform
@@ -18032,6 +18054,7 @@ rekeyboarded
 rekeying
 rekindled
 reknits
+reknitting
 reknots
 relacquered
 relapsers
@@ -18128,6 +18151,7 @@ renovating
 renovations
 renown
 rentabilities
+renunciative
 renunciatory
 reobtains
 reoccupied
@@ -18325,6 +18349,7 @@ restaurants
 restaurateur
 restful
 restfulness
+restiform
 restitched
 restitute
 restock
@@ -19524,6 +19549,7 @@ shagging
 shaitan
 shakeable
 shaken
+shakiest
 shako
 shamble
 shammes
@@ -19793,6 +19819,7 @@ simile
 similitudes
 simioid
 simmers
+simoniac
 simoniacal
 simpleness
 simplest
@@ -20160,6 +20187,7 @@ socagers
 soccer
 socialises
 socialist
+socialities
 socialize
 socializer
 socializes
@@ -20201,6 +20229,7 @@ soliciting
 solicitude
 solidarisms
 solider
+solidity
 solifluction
 soliloquies
 solion
@@ -21201,6 +21230,7 @@ summarist
 summarizable
 summarizer
 summarizers
+summed
 summerlike
 summersets
 summerwood
@@ -21312,6 +21342,7 @@ supine
 supinely
 supplantations
 supplementary
+supplementation
 supportive
 supports
 supposal
@@ -21928,6 +21959,7 @@ these
 theses
 thesp
 theurgical
+thewiest
 they
 thiamine
 thickenings
@@ -22231,6 +22263,7 @@ tortures
 torulae
 tossing
 tossup
+tost
 tot
 total
 totalisators
@@ -22280,6 +22313,7 @@ trachled
 trachoma
 tracing
 track
+trackmen
 tracks
 tradable
 trade
@@ -23235,6 +23269,7 @@ unsexing
 unsexual
 unshamed
 unshelling
+unsights
 unskilful
 unslings
 unslung
