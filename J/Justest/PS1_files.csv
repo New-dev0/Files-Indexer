@@ -1,0 +1,4 @@
+master - GitHub,https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks/blob/master/dotnet-install.ps1
+Build/Helpers/dotnet-install.ps1 0.5.0-beta010 - PowerShell Gallery,https://www.powershellgallery.com/packages/PowerCD/0.5.0-beta010/Content/Build%255CHelpers%255Cdotnet-install.ps1
+Framework/Core/ContinuousAssurance/CAAutomation.ps1 3.11.0,https://www.powershellgallery.com/packages/AzSK/3.11.0/Content/Framework%255CCore%255CContinuousAssurance%255CCAAutomation.ps1
+Private/dotnet-install.ps1 1.192.15 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/XpandPwsh/1.192.15/Content/Private%255Cdotnet-install.ps1
