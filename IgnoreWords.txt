@@ -2569,6 +2569,7 @@ broadener
 broadening
 broadleaves
 broadly
+broadtails
 brocading
 brocatelles
 brocatels
@@ -2635,6 +2636,7 @@ brutalized
 brutely
 brutify
 brutishly
+bruts
 bruxisms
 bryologist
 bryophyllums
@@ -3301,6 +3303,7 @@ centimeter
 centimorgans
 centraler
 centralises
+centralizing
 centrals
 centrifugals
 centrings
@@ -5088,6 +5091,7 @@ customhouses
 customizer
 customizes
 customs
+customshouse
 cutability
 cutback
 cutches
@@ -5172,6 +5176,7 @@ cytoplast
 cytostatics
 cytotaxonomic
 cytotaxonomy
+cytotoxins
 czarevna
 czaritzas
 dachas
@@ -5515,6 +5520,7 @@ delegated
 deleing
 delf
 deliberateness
+deliberations
 deliberative
 delicious
 delicts
@@ -6374,6 +6380,7 @@ doozers
 dopamines
 dopier
 doping
+dopings
 doppelganger
 dorkinesses
 dorky
@@ -6656,6 +6663,7 @@ dysgeneses
 dysgenesis
 dyskinesia
 dyslectic
+dyslexic
 dyspepsy
 dyspeptic
 dyspeptically
@@ -7842,6 +7850,7 @@ faunlike
 fauvism
 fauvist
 fava
+favas
 favorites
 favors
 fawns
@@ -9152,6 +9161,7 @@ gomerils
 gomphosis
 gondola
 gone
+goner
 gonging
 gongoristic
 goniff
@@ -9203,6 +9213,7 @@ grabbing
 grabby
 gracefullest
 gracile
+gracilis
 graciousness
 grad
 gradate
@@ -9989,6 +10000,7 @@ histidins
 histochemistry
 histologist
 histologists
+histone
 historiographer
 hitchhiking
 hitherto
@@ -10718,6 +10730,7 @@ indexing
 indican
 indicants
 indicates
+indications
 indicatives
 indicia
 indifferent
@@ -11206,6 +11219,7 @@ ioniums
 ionogenic
 ionones
 ionospheric
+iontophoresis
 iontophoretic
 ipecac
 irade
@@ -12766,6 +12780,7 @@ masseters
 massifs
 massing
 massive
+massively
 massivenesses
 massless
 master
@@ -12846,6 +12861,7 @@ meaninglessly
 meaningly
 meanness
 meantime
+measled
 measly
 measures
 meatier
@@ -12979,6 +12995,7 @@ mentored
 meow
 mephitises
 merbromin
+merbromins
 mercenaries
 mercenarinesses
 mercerising
@@ -13251,6 +13268,7 @@ miniaturization
 minibike
 minicar
 minicomputer
+minidisc
 minifying
 minikin
 minilab
@@ -13287,6 +13305,7 @@ misagent
 misagents
 misaimed
 misalignment
+misalignments
 misalliances
 misallocate
 misallots
@@ -13788,6 +13807,7 @@ multibladed
 multicar
 multichambered
 multicolor
+multicolored
 multiconductor
 multidialectal
 multidiscipline
@@ -16060,6 +16080,7 @@ phonal
 phonation
 phonations
 phone
+phonemics
 phonetically
 phoney
 phoneying
@@ -16759,6 +16780,7 @@ poxes
 poxing
 poxviruses
 praams
+practicability
 practised
 praenomen
 pragmatisms
@@ -17160,6 +17182,7 @@ prolonging
 promo
 promontories
 promotable
+promotiveness
 prompt
 promptitudes
 pronely
@@ -19089,6 +19112,7 @@ sadomasochist
 sae
 safer
 safest
+safety
 safranin
 safranines
 sag
@@ -19940,6 +19964,7 @@ shrieked
 shrieve
 shriller
 shrillnesses
+shrimping
 shrimps
 shrining
 shrink
@@ -20122,6 +20147,7 @@ sketchpads
 skew
 skewbald
 skewed
+skewer
 skewing
 skewness
 ski
@@ -21069,6 +21095,7 @@ stob
 stoccata
 stockading
 stockiest
+stockists
 stocktaking
 stogey
 stoked
@@ -21913,6 +21940,7 @@ tankships
 tannages
 tantalates
 tantalizing
+tantalum
 tantrism
 tanuki
 tanzanite
@@ -22227,6 +22255,7 @@ thinker
 thinkingnesses
 thinly
 thinned
+thinness
 thinnesses
 thinnish
 thiocyanate
@@ -22874,6 +22903,7 @@ tuberculoses
 tuberculous
 tubfuls
 tubiform
+tubists
 tubocurarines
 tubulates
 tubule
@@ -22883,6 +22913,7 @@ tuffet
 tugger
 tuitional
 tularemias
+tule
 tulips
 tullibees
 tumefies
@@ -23389,6 +23420,7 @@ uninsulated
 unintelligible
 uninterests
 uninvoked
+unionise
 unionism
 unionized
 unionizers
@@ -23593,6 +23625,7 @@ untrained
 untraveled
 untreated
 untrusses
+untrustworthy
 untucking
 untune
 untunes
@@ -24522,6 +24555,7 @@ wofuller
 wolfberry
 wolfishly
 wolflike
+wolfsbane
 womanishness
 womanliness
 womans
@@ -24705,6 +24739,7 @@ yards
 yardstick
 yarmelke
 yarrows
+yashmac
 yashmak
 yatters
 yaup
