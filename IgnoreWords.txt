@@ -36,6 +36,7 @@ abruptions
 abscisin
 absconder
 absentee
+absenters
 absentmindedly
 absinth
 absolutely
@@ -980,6 +981,7 @@ apomict
 apomicts
 apophthegms
 apophyllite
+apoptosis
 aposiopetic
 apospories
 apostatizing
@@ -989,6 +991,7 @@ apostolic
 apostrophic
 apostrophizes
 apothece
+apothems
 app
 appalled
 appallingly
@@ -1952,6 +1955,7 @@ betokening
 betroths
 bettering
 between
+beveling
 bevelled
 bevomiting
 bevor
@@ -2479,6 +2483,7 @@ branchlines
 brander
 brandings
 brandished
+brandlings
 brandying
 brannigan
 brasher
@@ -3353,6 +3358,7 @@ chainsaws
 chaired
 chairmanned
 chairmanning
+chairmans
 chairmanship
 chalazae
 chalazions
@@ -6171,6 +6177,7 @@ dispatch
 dispatchers
 dispensational
 dispensations
+dispensing
 dispeopled
 dispersedly
 dispersiveness
@@ -6563,6 +6570,7 @@ drumbeaters
 drumbeatings
 drumbling
 drumheads
+drumliest
 drummers
 drumroll
 drumsticks
@@ -6976,6 +6984,7 @@ empressement
 empresses
 emptying
 emu
+emulators
 emyds
 enactment
 enactors
@@ -7040,6 +7049,7 @@ endostyles
 endothelium
 endpapers
 endured
+enemata
 energetically
 energies
 energize
@@ -7943,6 +7953,7 @@ ferrosilicons
 ferrying
 fertilenesses
 fertilizes
+ferulas
 feruled
 festiveness
 festoons
@@ -8140,6 +8151,7 @@ flam
 flamboyances
 flamelike
 flamens
+flamier
 flammabilities
 flammable
 flamy
@@ -9205,6 +9217,7 @@ gouges
 gourmandisms
 gourmets
 governessy
+government
 governmentally
 governmentese
 gowaned
@@ -10316,6 +10329,7 @@ hydroxylase
 hydroxylases
 hygrometer
 hygroscopicity
+hylozoism
 hylozoisms
 hymeniums
 hymenopteron
@@ -10826,6 +10840,7 @@ inflating
 inflationary
 inflations
 inflexibility
+inflexions
 inflicting
 influenceable
 influents
@@ -11321,6 +11336,7 @@ istle
 italianated
 italicizes
 itching
+itchings
 item
 itemize
 iterant
@@ -12359,6 +12375,7 @@ lomein
 lomeins
 loment
 lomenta
+lonesome
 longe
 longes
 longhair
@@ -12668,6 +12685,7 @@ manganese
 manganites
 manginess
 mangled
+mangler
 mango
 mangold
 mangosteen
@@ -13115,6 +13133,7 @@ micell
 micellar
 miches
 mickles
+micklest
 micra
 microanatomies
 microbalance
@@ -14041,6 +14060,7 @@ near
 nearly
 nears
 nearshore
+neath
 neats
 nebulose
 nebulosities
@@ -14567,6 +14587,7 @@ obfuscation
 obfuscations
 obfuscatory
 objected
+objectivists
 objectivity
 objects
 objurgates
@@ -14684,6 +14705,7 @@ ogled
 ogreish
 ogresses
 ohmages
+oilcups
 oiling
 oilman
 oilpapers
@@ -15918,6 +15940,7 @@ peritoneums
 peritonitis
 peritonitises
 peritrichously
+periwigs
 periwinkles
 perjures
 perjurious
@@ -17168,6 +17191,7 @@ projectile
 projectionists
 projects
 prokaryotic
+prolan
 prolans
 proleg
 proletarianizes
@@ -19008,6 +19032,7 @@ rubefacient
 rubeolas
 rubier
 rubouts
+rubrician
 rubying
 ruching
 ruction
@@ -19638,6 +19663,7 @@ semilethal
 semillons
 semilog
 semimat
+semina
 seminomas
 seminomata
 seminude
@@ -19950,6 +19976,7 @@ shotguns
 shouted
 shovelful
 shoveling
+showable
 showboat
 showdown
 showed
@@ -20594,6 +20621,7 @@ souths
 southwestward
 souvenirs
 sovietization
+sovietize
 sovietizes
 sovietizing
 soviets
@@ -20808,6 +20836,7 @@ spoons
 sporangial
 spores
 sporocarp
+sporopollenins
 sporozoites
 sporter
 sportively
@@ -20976,6 +21005,7 @@ station
 statistically
 statocysts
 statuesquely
+statutable
 statutory
 staurolitic
 stavudines
@@ -21112,6 +21142,7 @@ stomodeal
 stonemason
 stonemasonry
 stones
+stonewashed
 stonish
 stoolie
 stoolies
@@ -21351,6 +21382,7 @@ sublease
 sublessee
 sublibrarians
 sublimate
+sublimely
 subliminally
 subliming
 sublimity
@@ -21698,6 +21730,7 @@ swampiest
 swankest
 swanpan
 swans
+swarajism
 swarmer
 swartness
 swashbuckled
@@ -22565,6 +22598,7 @@ touchlines
 touchpads
 touchtone
 touchtones
+toughness
 toupee
 tourbillons
 toured
@@ -23849,6 +23883,7 @@ vasotomies
 vassal
 vastitudes
 vastity
+vatfuls
 vaticinating
 vaticinators
 vatu
