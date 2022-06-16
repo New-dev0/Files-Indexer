@@ -188,6 +188,7 @@ acutances
 acuteness
 acutenesses
 acutes
+acyclovir
 acylate
 acylated
 ad
@@ -464,6 +465,7 @@ alkalized
 alkalizing
 alkyds
 allantois
+allayed
 allee
 alleger
 allegorize
@@ -485,6 +487,7 @@ allocation
 allocators
 allonym
 allopathies
+allopatrically
 alloplasms
 allosteries
 allotments
@@ -1116,6 +1119,7 @@ armrests
 aroids
 aromas
 aromatherapies
+aromatics
 aromatization
 aromatizations
 arose
@@ -3700,6 +3704,7 @@ classable
 classicists
 classico
 classiest
+classifications
 classing
 classists
 clattered
@@ -4061,6 +4066,7 @@ comedically
 comedown
 comedy
 comeliest
+comfortably
 comfortingly
 comforts
 commandants
@@ -4082,6 +4088,7 @@ commercialities
 commercialized
 commissariat
 commissioned
+commit
 committing
 commixt
 commodifying
@@ -4271,6 +4278,7 @@ conglutination
 congoes
 congratulates
 congregating
+congresses
 congresspeople
 congresspersons
 congruously
@@ -5236,6 +5244,7 @@ decadent
 decagrams
 decaliter
 decameter
+decampments
 decamps
 decanting
 decapitations
@@ -5969,6 +5978,7 @@ disclosed
 discomfort
 discommends
 discommode
+disconformities
 disconformity
 disconsolately
 disconsolation
@@ -6557,6 +6567,7 @@ dyspepsy
 dyspeptic
 dysphagia
 dysphagias
+dyspnea
 dyspnoea
 dysrhythmia
 dystocias
@@ -6654,6 +6665,7 @@ ediles
 editorials
 editors
 editorship
+editrices
 editrix
 edits
 educables
@@ -6897,6 +6909,7 @@ encryption
 enculturated
 encumbrancer
 encyclical
+encyclics
 encyclopaedic
 endamage
 endameba
@@ -8231,6 +8244,7 @@ forceless
 forcemeats
 fording
 fordless
+fordone
 forebears
 foreboded
 forecasters
@@ -8963,6 +8977,7 @@ glyceryl
 glycins
 glycols
 glycosidases
+glycosylating
 glycosylations
 gnarls
 gnarrs
@@ -9821,6 +9836,7 @@ hipbone
 hippienesses
 hippies
 hippodrome
+hippopotami
 hippy
 hirable
 hircine
@@ -10229,6 +10245,7 @@ ichthyofauna
 ichthyofaunal
 ichthyophagous
 iciest
+iconicity
 iconoclasm
 icons
 icosahedra
@@ -11508,6 +11525,7 @@ kingships
 kingside
 kinins
 kinkajou
+kiosks
 kippered
 kipperers
 kipskins
@@ -12326,6 +12344,7 @@ macerater
 macerates
 maceration
 macerator
+macers
 mach
 machetes
 machination
@@ -13796,6 +13815,7 @@ nay
 naysaid
 nazification
 neap
+near
 nearly
 nears
 nearshore
@@ -14314,8 +14334,10 @@ obelisms
 obeyer
 obeys
 obfuscated
+obfuscates
 obfuscation
 obfuscations
+obfuscatory
 objected
 objectivity
 objects
@@ -14796,6 +14818,7 @@ outposts
 outpourer
 outpowers
 outpray
+outpreached
 outpreened
 outpress
 outpressed
@@ -16736,6 +16759,7 @@ pretest
 pretheater
 pretorial
 pretournament
+pretrials
 pretrim
 prettification
 prettifier
@@ -17079,6 +17103,7 @@ pulicide
 pullbacks
 pulled
 pullouts
+pullulates
 pulpers
 pulps
 pulsars
@@ -17570,6 +17595,7 @@ rebaptized
 rebegin
 rebelling
 rebid
+rebidding
 rebirths
 reblended
 rebloomed
@@ -19375,6 +19401,7 @@ septentrion
 septettes
 septical
 septicemia
+septicemias
 septicities
 septicity
 septics
@@ -19402,6 +19429,7 @@ serializing
 seriates
 seriatim
 sericulture
+sericulturist
 sericulturists
 serifed
 seriousnesses
@@ -19645,6 +19673,7 @@ shuffle
 shunned
 shunners
 shunning
+shunpike
 shunt
 shusher
 shushers
@@ -19734,6 +19763,7 @@ silverware
 silviculturally
 simile
 similitudes
+simioid
 simmers
 simoniacal
 simpleness
@@ -21115,10 +21145,12 @@ suing
 suite
 suiters
 suitors
+sulfas
 sulfhydryls
 sulfitic
 sulfonamides
 sulfones
+sulfonyl
 sulfureted
 sulfuretted
 sulfuring
@@ -21303,6 +21335,7 @@ susceptibility
 susceptibly
 suspect
 suspenders
+suspense
 suspenser
 suspensions
 suspensors
@@ -21930,6 +21963,7 @@ thudding
 thug
 thumbhole
 thumbholes
+thumbing
 thump
 thumpers
 thunderbirds
@@ -22863,6 +22897,7 @@ underexposures
 underfeeds
 undergirt
 underglazes
+undergo
 undergods
 undergone
 undergrads
