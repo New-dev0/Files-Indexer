@@ -1,0 +1,8 @@
+examples/TransactSetup.MariaDB.Example.ps1 0.1.0 - PowerShell ...,https://www.powershellgallery.com/packages/Ephesoft.Transact.DSC/0.1.0/Content/examples%255CTransactSetup.MariaDB.Example.ps1
+examples/TransactSetup.SQL.Example.ps1 0.2.1 - PowerShell Gallery,https://www.powershellgallery.com/packages/Ephesoft.Transact.DSC/0.2.1/Content/examples%255CTransactSetup.SQL.Example.ps1
+PowerShell/Invoke-Sqlcmd2.ps1 at master - GitHub,https://github.com/RamblingCookieMonster/PowerShell/blob/master/Invoke-Sqlcmd2.ps1
+functions/Get-DbaDbccSessionBuffer.ps1 1.0.118 - PowerShell ...,https://psg-prod-centralus.cloudapp.net/packages/dbatools/1.0.118/Content/functions%255CGet-DbaDbccSessionBuffer.ps1
+functions/Invoke-DbaDbccDropCleanBuffer ... - PowerShell Gallery,https://168.61.186.235/packages/dbatools/1.1.32/Content/functions%255CInvoke-DbaDbccDropCleanBuffer.ps1
+Invoke-Sqlcmd2 - GitHub,https://raw.githubusercontent.com/RamblingCookieMonster/PowerShell/master/Invoke-Sqlcmd2.ps1
+functions/Get-DbaDbccProcCache.ps1 1.0.132 - PowerShell Gallery,https://40.87.85.101/packages/dbatools/1.0.132/Content/functions%255CGet-DbaDbccProcCache.ps1
+rightlink_scripts/mssql-monitor.ps1 at master · flexera-public ...,https://github.com/rightscale/rightlink_scripts/blob/master/rlw-examples/attachments/mssql-monitor.ps1
