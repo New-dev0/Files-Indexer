@@ -726,6 +726,7 @@ anemophilous
 anenst
 anesthetizing
 angel
+angelfishes
 angelically
 angels
 anginous
@@ -1862,6 +1863,7 @@ beldams
 beleaguers
 belfried
 belgas
+belied
 beliers
 believabilities
 believed
@@ -2836,6 +2838,7 @@ cadenzas
 cadetship
 cadis
 cads
+caespitose
 caestus
 caesura
 cafes
@@ -3003,6 +3006,7 @@ capitalising
 capitalist
 capitols
 capitulary
+cappelletti
 cappers
 capriccio
 caprices
@@ -3413,6 +3417,7 @@ charmingly
 charrier
 charted
 chartered
+chartreuse
 chartularies
 charwomen
 chaseable
@@ -3891,7 +3896,9 @@ coastline
 coats
 coattail
 coattest
+coauthoring
 coaxed
+coaxer
 coaxing
 cobaltite
 cobber
@@ -4362,6 +4369,7 @@ conquered
 conquerors
 conscientious
 conscionable
+consciouses
 consciously
 consciousnesses
 conscripted
@@ -4381,6 +4389,7 @@ considerably
 consign
 consisted
 consistences
+consociate
 consolation
 consolidation
 consonant
@@ -5214,6 +5223,7 @@ dampens
 damping
 damselflies
 dandiacal
+daneworts
 dangerously
 dangers
 dankest
@@ -6526,6 +6536,7 @@ droshkies
 dross
 drossiest
 droughtier
+droughtiness
 drouthiest
 drouthy
 drown
@@ -8662,6 +8673,7 @@ furthering
 furtively
 furuncle
 furuncles
+fusaria
 fusees
 fusibility
 fusibly
@@ -8738,6 +8750,7 @@ galyak
 gambesons
 gambier
 gambolled
+gamekeeper
 gamester
 gametogenesis
 gaminess
@@ -8886,6 +8899,7 @@ genitalic
 genitals
 genocidal
 genomes
+genotype
 genteelness
 gentian
 gentlemen
@@ -9343,6 +9357,7 @@ groovy
 groped
 gropingly
 grosze
+grotesque
 grotesquenesses
 grottier
 ground
@@ -9616,6 +9631,7 @@ hanseatic
 hanselling
 haphtarah
 hapkido
+happened
 happens
 happy
 haptenes
@@ -9710,6 +9726,7 @@ hazier
 haziest
 haziness
 hazinesses
+headbands
 headcheeses
 headcounts
 headdresses
@@ -10441,6 +10458,7 @@ illusionism
 illusionisms
 illusive
 illusory
+illustrations
 illustriously
 imaged
 imager
@@ -12663,6 +12681,7 @@ mannite
 manoeuvres
 manometries
 manque
+manropes
 manse
 manses
 manslaughters
@@ -12937,6 +12956,7 @@ memorised
 memorising
 memorizations
 memorizers
+memsahibs
 menacers
 menazon
 mend
@@ -13415,6 +13435,7 @@ missuses
 mistaken
 mistbow
 misted
+misthinks
 mistinesses
 mistrace
 mistraces
@@ -13562,6 +13583,7 @@ monogamists
 monogyny
 monolayer
 monolingual
+monolith
 monologists
 monologuing
 monologuists
@@ -14305,6 +14327,7 @@ nonfinal
 nonfinancial
 nonfluids
 nonfocal
+nonfulfillments
 nonghetto
 nonglare
 nongreen
@@ -15096,6 +15119,7 @@ overachieving
 overanalyzes
 overanalyzing
 overarming
+overarranging
 overassertion
 overassertive
 overassessments
@@ -15480,6 +15504,7 @@ pantropic
 pants
 panty
 pantyhose
+papacy
 papains
 papal
 paperhangers
@@ -16210,6 +16235,7 @@ pillages
 pillarless
 pillars
 pillories
+pillorying
 pillows
 pillowy
 pilonidal
@@ -17526,6 +17552,7 @@ queried
 queriers
 querists
 quern
+querulous
 querulousness
 questioned
 quetzals
@@ -19140,6 +19167,7 @@ sanctification
 sanctifying
 sandaling
 sandals
+sandarac
 sandbagging
 sandbags
 sandblasted
@@ -19161,12 +19189,14 @@ sanitated
 sanitoria
 sannyasin
 santalols
+santimu
 santir
 santoor
 sapajous
 sapheaded
 saphenae
 sapid
+saplessnesses
 sapodilla
 saponaceousness
 saponated
@@ -19251,6 +19281,7 @@ saxophonists
 sayeds
 sayest
 sayings
+says
 sayyids
 scabbily
 scabby
@@ -20729,6 +20760,7 @@ spodosols
 spokespeople
 spondylitises
 sponge
+sponginess
 sponsal
 sponson
 sponsons
@@ -21258,6 +21290,7 @@ subduedly
 subduers
 subedited
 subeditors
+subentries
 suberic
 suberize
 suberizing
@@ -21286,6 +21319,7 @@ subjectivizes
 subjoin
 subjugator
 sublated
+sublation
 sublease
 sublessee
 sublibrarians
@@ -24272,6 +24306,7 @@ weightiness
 weightinesses
 weird
 weirdies
+weirdly
 weirdnesses
 weisenheimers
 welcomenesses
