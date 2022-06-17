@@ -562,6 +562,7 @@ aluminate
 aluminized
 aluminum
 aluminums
+alumna
 alumstones
 alveolate
 amadous
@@ -2216,6 +2217,7 @@ blacktop
 bladdery
 bladed
 bladeless
+blaeberries
 blaff
 blameful
 blamefully
@@ -2477,6 +2479,7 @@ boundlessnesses
 bounds
 bountied
 bounties
+bourgeon
 bourgs
 bourrides
 bouzoukia
@@ -4598,6 +4601,7 @@ convoker
 convoking
 convoys
 convulsant
+cooch
 cooee
 cooees
 cooing
@@ -7972,6 +7976,7 @@ farrieries
 farsides
 farther
 fas
+fascicled
 fascinator
 fascines
 fascistic
@@ -8016,6 +8021,7 @@ fawns
 faxes
 fayalite
 faying
+fazenda
 fazing
 feasters
 featest
@@ -10156,6 +10162,7 @@ hexagonal
 hexagonally
 hexameter
 hexamine
+hexapla
 hexaplar
 hexapods
 hexarchies
@@ -11218,6 +11225,7 @@ insupportable
 insurability
 inswathe
 intangibilities
+integers
 integralities
 integrally
 integrals
@@ -11283,6 +11291,7 @@ interliner
 interlinked
 interlock
 interlocutor
+interloped
 interloping
 interlude
 intermarry
@@ -11563,6 +11572,7 @@ itching
 itchings
 item
 itemize
+itemizer
 iterant
 iteration
 iterations
@@ -11603,6 +11613,7 @@ jambing
 jambs
 jammed
 jammer
+jampacked
 jangles
 janglier
 japanize
@@ -12818,6 +12829,7 @@ macron
 macronuclei
 macrophage
 macrophyte
+macrostructural
 macruran
 macula
 macumba
@@ -13103,6 +13115,7 @@ maxim
 maximalist
 maximizing
 maxing
+may
 maybushes
 mayest
 mayo
@@ -13472,6 +13485,7 @@ mihrabs
 miked
 mikvos
 mil
+miladis
 milages
 mildening
 mildest
@@ -14183,6 +14197,7 @@ mustiness
 mustinesses
 mutability
 mutable
+mutagen
 mutagenicities
 mutagenicity
 mutants
@@ -14867,6 +14882,7 @@ objected
 objectivists
 objectivity
 objects
+objets
 objurgates
 oblasts
 oblate
@@ -17005,6 +17021,7 @@ porting
 portionless
 portraying
 posed
+poseurs
 poshness
 posited
 positing
@@ -17272,6 +17289,7 @@ premeditative
 premeds
 premenopausal
 premiered
+premiering
 premillenarian
 premiums
 premoistened
@@ -17668,6 +17686,7 @@ psyche
 psychedelics
 psychiatry
 psychic
+psychical
 psyching
 psychoanalyzes
 psychobiography
@@ -17849,6 +17868,7 @@ pyrolyzers
 pyrosises
 pyrotechnic
 pyrotechnical
+pyroxene
 pyroxenes
 pyroxenitic
 pyroxenoid
@@ -19080,6 +19100,7 @@ reveled
 reveling
 revenge
 reverberant
+reverberantly
 reverberates
 reverenced
 reverencer
@@ -19638,6 +19659,7 @@ sashays
 sashing
 saskatoons
 sassaby
+satanically
 satanists
 satays
 satem
@@ -19658,6 +19680,7 @@ saturators
 saturniid
 saturnine
 satyrs
+saucepan
 saucepot
 saucers
 saucier
@@ -20203,6 +20226,7 @@ shaitan
 shakeable
 shaken
 shakiest
+shakiness
 shako
 shamble
 shammes
@@ -20224,6 +20248,7 @@ sharecrops
 sharewares
 sharias
 sharifs
+sharklike
 sharpers
 sharpest
 sharpies
@@ -20890,6 +20915,7 @@ solanines
 solanins
 solarium
 soldan
+soldiership
 soldierships
 solecise
 solecised
@@ -21774,6 +21800,7 @@ subjacent
 subject
 subjecting
 subjectivised
+subjectivist
 subjectivizes
 subjoin
 subjugations
@@ -22200,6 +22227,7 @@ swounds
 swum
 sybaritic
 sybaritically
+sycophancies
 sycophantic
 sycophantisms
 syenites
@@ -22340,6 +22368,7 @@ talcs
 talcums
 talentless
 talesmen
+talisman
 talkathon
 talkier
 talky
@@ -22419,6 +22448,7 @@ tartar
 tartinesses
 tartrated
 tartuffe
+tasking
 taskworks
 tassel
 tassies
@@ -22648,6 +22678,7 @@ theatres
 theatricalism
 theatricalities
 theatricalize
+theatricalizes
 theatricals
 theft
 thegnly
@@ -23126,6 +23157,7 @@ transshipment
 transsonic
 transudates
 transude
+transudes
 transvaluations
 transvalue
 transvalues
@@ -23928,6 +23960,7 @@ unlikable
 unlikelihoods
 unlively
 unloads
+unlocks
 unloosed
 unloved
 unlovely
@@ -24291,6 +24324,7 @@ vapourer
 vara
 varia
 variable
+variance
 varicellas
 varicoceles
 varicose
@@ -24557,6 +24591,7 @@ vituperation
 vivace
 vivaces
 vivaciousness
+vivaciousnesses
 vivaria
 vivid
 vivisect
