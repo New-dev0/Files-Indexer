@@ -158,6 +158,7 @@ acquaint
 acquiesce
 acquirement
 acquisitive
+acquittance
 acred
 acrider
 acridnesses
@@ -1663,6 +1664,7 @@ banausic
 banda
 bandager
 bandagers
+bandages
 bandannas
 banded
 banderilleros
@@ -1754,6 +1756,7 @@ baserunnings
 bashed
 basidiomycetes
 basidiomycetous
+basilar
 basinfuls
 basing
 bask
@@ -1968,6 +1971,7 @@ below
 belter
 bemata
 bemingles
+bemisting
 bemixt
 bemoans
 bemock
@@ -2299,6 +2303,7 @@ blend
 blesbuck
 bless
 blessedly
+blethered
 blimy
 blinkard
 blissfully
@@ -2368,6 +2373,7 @@ boarfish
 boarhound
 boas
 boatbuilding
+boated
 boatnecks
 boatsmen
 boatyard
@@ -2649,6 +2655,7 @@ brigandage
 brigantines
 brighteners
 brighter
+brightest
 brightwork
 brilliantines
 brilliants
@@ -2952,6 +2959,7 @@ caddisworms
 caddying
 cadenzas
 cadetship
+cadger
 cadis
 cadmium
 cads
@@ -3212,6 +3220,7 @@ caretakings
 carex
 cargo
 cargoes
+carhop
 caribes
 caribou
 caricatured
@@ -4320,6 +4329,7 @@ commercialistic
 commercialities
 commercialized
 commissariat
+commissariats
 commissioned
 commit
 committing
@@ -4628,6 +4638,7 @@ contingencies
 continuant
 continuators
 continue
+continuer
 continuities
 contort
 contrabands
@@ -6302,6 +6313,7 @@ disbursals
 discardable
 discarder
 discased
+disced
 discepts
 discernable
 discerner
@@ -8689,6 +8701,7 @@ foolproof
 fools
 footballs
 footboy
+footbridge
 footcloths
 footdraggers
 footings
@@ -10328,6 +10341,7 @@ hesitance
 hetaeric
 hetairas
 heterocyclic
+heterocyst
 heterocysts
 heterodox
 heterodoxies
@@ -11647,6 +11661,7 @@ invalidity
 invariable
 invected
 inveighing
+inveiglements
 inveigles
 invention
 inventiveness
@@ -11737,6 +11752,7 @@ irrepressible
 irresolutely
 irresoluteness
 irretrievable
+irrevocable
 irrigably
 irrigation
 irrigators
@@ -12132,6 +12148,7 @@ kerbed
 kerbs
 kerchieves
 kerchoo
+kerne
 kerosine
 kerplunking
 kerries
@@ -13115,6 +13132,7 @@ magisterially
 magistratically
 magistrature
 magnesias
+magnetics
 magnetise
 magnetising
 magnetizing
@@ -13908,6 +13926,7 @@ miscasts
 miscatalog
 miscataloged
 mischannelled
+mischarging
 misclaimed
 misclassifies
 miscoin
@@ -16334,6 +16353,7 @@ pastalike
 pastas
 pastellist
 pastels
+pasters
 pasteups
 pasteurises
 pasteurizing
@@ -16439,6 +16459,7 @@ peddling
 pedestal
 pedestrians
 pedicellate
+pedicle
 pedicular
 pedicures
 pedicurist
@@ -18143,6 +18164,7 @@ puncturing
 pung
 pungs
 punishing
+punition
 punji
 punkas
 punkier
@@ -18287,6 +18309,7 @@ quagga
 quagmire
 quagmiriest
 quailing
+quainter
 quake
 quaker
 quakers
@@ -18831,6 +18854,7 @@ redouts
 redpolls
 redrew
 redshift
+redshifted
 redskin
 redtop
 redtops
@@ -19343,6 +19367,7 @@ resoak
 resoaking
 resoften
 resojets
+resole
 resoles
 resolidifying
 resorter
@@ -19386,6 +19411,7 @@ restrainer
 restraints
 restressed
 restrictionisms
+restrictionists
 restrictively
 restrictives
 restring
@@ -20031,6 +20057,7 @@ sanitoria
 sannyasin
 sansculottism
 santalols
+santera
 santimu
 santir
 santoor
@@ -20694,6 +20721,7 @@ sheeniest
 sheening
 sheeny
 sheepdog
+sheerest
 sheering
 sheerness
 sheetings
@@ -21179,6 +21207,7 @@ smacks
 smallclothes
 smallholder
 smallholding
+smalts
 smaragdite
 smaragdites
 smash
@@ -22388,7 +22417,9 @@ sufflates
 suffocation
 suffocations
 suffuse
+suffusion
 sugarberries
+sugarbush
 sugarcane
 sugarcanes
 sugarcoated
@@ -22407,6 +22438,7 @@ sulfitic
 sulfonamides
 sulfones
 sulfonyl
+sulfur
 sulfureted
 sulfuretted
 sulfuring
@@ -22720,6 +22752,7 @@ sympathised
 sympathizer
 sympatico
 sympetalous
+symphonically
 symphonists
 symposiarch
 synaestheses
@@ -23294,6 +23327,7 @@ tibiofibulas
 ticals
 tick
 ticked
+ticket
 tickings
 tickles
 ticklish
@@ -23549,6 +23583,7 @@ towpaths
 towsack
 toxaphene
 toxemic
+toxical
 toxicologists
 toxics
 toxoplasmic
