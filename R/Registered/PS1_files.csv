@@ -1,0 +1,20 @@
+Public/Register-PSRepositoryFix.ps1 3.0.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/FC_Core/3.0.0/Content/Public%255CRegister-PSRepositoryFix.ps1
+functions/Export-DbaRegServer.ps1 1.0.59 - PowerShell Gallery,https://www.powershellgallery.com/packages/dbatools/1.0.59/Content/functions%255CExport-DbaRegServer.ps1
+SampleMsalAuthorizationCodeFl...,https://github.com/keithbabinec/SampleMsalAuthorizationCodeFlow/blob/master/setup-scripts/new-app-registration.ps1
+chocolatey-packages/Register-Application.ps1 at master - GitHub,https://github.com/chocolatey-community/chocolatey-coreteampackages/blob/master/extensions/chocolatey-core.extension/extensions/Register-Application.ps1
+functions/Add-DbaRegServer.ps1 1.0.130 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/dbatools/1.0.130/Content/functions%255CAdd-DbaRegServer.ps1
+update-windows-post-ts/update-windows-post-ts.ps1 ... - GitLab,https://gitlab.engr.illinois.edu/engrit-epm/sccm-ts-scripts/-/blob/68bbd248661a7b8f858288741d28d288d959975a/update-windows-post-ts/update-windows-post-ts.ps1
+guest/jen_bottom/vagrant/win10/PSWindowsUpdate/Add ... - Swarm,https://swarm.workshop.perforce.com/files/guest/jen_bottom/vagrant/win10/PSWindowsUpdate/Add-WUOfflineSync.ps1%3Fv%3D1
+Read-HostWithPrompt.ps1 · master - O'Reilly Resources,https://resources.oreilly.com/examples/9780596528492/-/blob/master/Read-HostWithPrompt.ps1
+Set-RemoteRegistryKeyProperty.ps1 · master · examples / Windows ...,https://resources.oreilly.com/examples/9780596528492/blob/master/Set-RemoteRegistryKeyProperty.ps1
+functions/Export-DbaCmsRegServer.ps1 0.9.520 - PowerShell Gallery,https://40.87.85.101/packages/dbatools/0.9.520/Content/functions%255CExport-DbaCmsRegServer.ps1
+https://raw.githubusercontent.com/AnOldStory/Setti...,https://raw.githubusercontent.com/AnOldStory/Setting/master/Setting-Manager/Setting-Manager_anoldstory.ps1
+https://cloudworkshop.blob.core.windows.net/line-o...,https://cloudworkshop.blob.core.windows.net/line-of-business-application-migration/BootstrapSmartHotelHost.ps1
+https://4kib.com/download/restore-certificates.ps1,https://4kib.com/download/restore-certificates.ps1
+.SYNOPSIS Runs a T-SQL Query and optional outputs results to a ...,https://svn.python.org/projects/external/Pygments-1.6/tests/examplefiles/test.ps1
+Test ManagementActivityAPI.ps1 - David-Barrett-MS/PowerShell ...,https://github-wiki-see.page/m/David-Barrett-MS/PowerShell-EWS-Scripts/wiki/Test-ManagementActivityAPI.ps1
+deployment/psFunctions.ps1 · master · Services / AI-Based ... - GitLab,https://code.omilab.org/services/assessment-service/-/blob/master/deployment/psFunctions.ps1
+AZ-204 Exam Dumps | You need to ensure the security policies are ...,https://www.freecram.net/question/Microsoft.AZ-204.v2021-07-23.q78/you-need-to-ensure-the-security-policies-are-met-what-code-do-you-add-at-line-cs07-of-configuresse.ps1
+lib/ansible/modules/windows/win_psmodule.ps1 - Fossies,https://fossies.org/linux/ansible/lib/ansible/modules/windows/win_psmodule.ps1
+https://get.mirantis.com/install_1_0_5.ps1,https://get.mirantis.com/install_1_0_5.ps1
+Get-PSSnapin -registered | Add-PSSnapin -passthru -ErrorAction ...,https://www.ntpro.nl/blog/uploads/vmbsd.ps1
