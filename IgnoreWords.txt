@@ -461,6 +461,7 @@ algidity
 algological
 algology
 algometers
+algometry
 aliases
 aliasing
 alibies
@@ -575,6 +576,7 @@ aluminums
 alumna
 alumstones
 alveolate
+am
 amadous
 amah
 amalgamate
@@ -681,6 +683,7 @@ amygdalin
 amygdule
 amylases
 amylenes
+amylogen
 amyloidosis
 amyloids
 amyloplasts
@@ -1835,6 +1838,7 @@ becaps
 becarpeted
 becarpets
 bechamels
+becharm
 beckoned
 beckoning
 beclasps
@@ -2386,6 +2390,7 @@ boiled
 boilerplate
 boilersuits
 boinked
+boiseries
 boisterously
 boite
 boites
@@ -4805,6 +4810,7 @@ cortexes
 corticotrophin
 cortisone
 corulers
+corundums
 corvinas
 corybantes
 corymb
@@ -4825,6 +4831,7 @@ cosseted
 costars
 costers
 costivenesses
+costrels
 costumier
 cotangent
 coted
@@ -7651,6 +7658,7 @@ ethion
 ethionine
 ethionines
 ethmoid
+ethmoidal
 ethnarchies
 ethnocentrism
 ethnographers
@@ -7873,6 +7881,7 @@ explodes
 explosiveness
 exportability
 expose
+exposits
 expounders
 expressages
 expressionisms
@@ -8217,6 +8226,7 @@ ferromagnetic
 ferromagnetisms
 ferromanganese
 ferrosilicons
+ferruginous
 ferrying
 fertilenesses
 fertilizes
@@ -9672,6 +9682,7 @@ gremials
 gremmie
 greyhound
 gridlocking
+grieved
 griever
 grieves
 grieving
@@ -9919,6 +9930,7 @@ halavah
 halavahs
 halbert
 halfbeak
+halfpence
 halftone
 halid
 halidom
@@ -10373,6 +10385,7 @@ hoatzin
 hoatzines
 hoaxers
 hoaxing
+hobbed
 hobblebush
 hobbledehoy
 hoboing
@@ -10424,6 +10437,7 @@ hols
 holstered
 holystoned
 homaging
+homburgs
 homebrews
 homebuilt
 homecoming
@@ -11782,6 +11796,7 @@ jambing
 jambs
 jammed
 jammer
+jammies
 jampacked
 jangles
 janglier
@@ -11837,6 +11852,7 @@ jerks
 jerricans
 jerseyed
 jessamine
+jessant
 jesters
 jesting
 jests
@@ -12262,6 +12278,7 @@ lacily
 lackadaisically
 lacked
 lackering
+laconisms
 lacquer
 lacqueyed
 lactases
@@ -12742,6 +12759,7 @@ liver
 livers
 lixivia
 lixiviate
+llama
 loaded
 loading
 loadings
@@ -13294,6 +13312,7 @@ maul
 maun
 maunderers
 mausolea
+mausolean
 mauves
 mavie
 mawkishly
@@ -13463,6 +13482,7 @@ mental
 mentalism
 mentalist
 mentations
+mentee
 mentees
 mentioned
 mentored
@@ -13518,6 +13538,7 @@ mestees
 mestiza
 mestizoes
 metabolically
+metabolisms
 metacarpus
 metafiction
 metafictionists
@@ -13604,6 +13625,7 @@ microbiological
 microbreweries
 microcap
 microcopy
+microcosm
 microcosms
 microcrystal
 microcyte
@@ -15057,6 +15079,7 @@ nukes
 null
 nulling
 numbats
+numbfish
 numeracy
 numeral
 numerators
@@ -15073,6 +15096,7 @@ nursed
 nursemaid
 nutgall
 nutmeg
+nutritionally
 nutritives
 nuts
 nuzzlers
@@ -15543,6 +15567,7 @@ outfitters
 outfitting
 outflown
 outflows
+outfly
 outfool
 outfooling
 outgain
@@ -17360,6 +17385,7 @@ poteen
 potences
 potentiality
 potentiating
+potentiators
 potheads
 potheen
 pothouse
@@ -18371,6 +18397,7 @@ ramie
 ramies
 ramiform
 ramifying
+rammer
 rammier
 ramona
 ramose
@@ -20775,6 +20802,7 @@ sightlessnesses
 sightly
 sightseeing
 sightsees
+sigma
 sigmoidal
 signalers
 signaling
@@ -21179,6 +21207,7 @@ snowslide
 snowy
 snub
 snubbier
+snubs
 snuck
 snuff
 snuffers
@@ -21551,6 +21580,7 @@ splines
 sploshes
 splotches
 splotchy
+splutters
 spodes
 spodosols
 spokespeople
@@ -21945,6 +21975,7 @@ stratal
 strategic
 strategical
 strategizes
+strathspeys
 stratifies
 stratocracies
 stratocracy
@@ -21972,6 +22003,7 @@ streptothricin
 stressfully
 stressor
 stressors
+stretch
 stretchiest
 stretchy
 stretta
@@ -24185,6 +24217,7 @@ undocking
 undoers
 undogmatic
 undogmatically
+undone
 undotted
 undoubles
 undoubted
@@ -24756,6 +24789,7 @@ veiler
 veining
 veinlike
 veins
+velarization
 velate
 veldts
 veligers
@@ -24848,6 +24882,7 @@ vetivers
 vetivert
 vetoes
 vets
+vexedness
 vexer
 vexers
 vexilla
