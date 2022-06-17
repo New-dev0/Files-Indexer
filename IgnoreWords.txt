@@ -790,6 +790,7 @@ animists
 anis
 aniseeds
 anisogamous
+anisometropia
 anisotropically
 ankh
 anklet
@@ -1625,6 +1626,7 @@ bailsman
 bairnlier
 bairns
 baitfishes
+bakeapple
 bakemeats
 bakeshop
 bakshishing
@@ -2504,6 +2506,7 @@ botanically
 botanized
 botanizer
 botanizers
+botel
 botels
 both
 bothering
@@ -2765,6 +2768,7 @@ bubbler
 bubkes
 bubo
 buccal
+buccaneering
 buckaroos
 buckbrushes
 bucket
@@ -3253,6 +3257,7 @@ carpetbaggers
 carpeting
 carpooling
 carpools
+carpophores
 carps
 carpus
 carracks
@@ -4491,6 +4496,7 @@ configuration
 configurations
 confine
 confined
+confinement
 confirmands
 confirmations
 confirmers
@@ -6692,6 +6698,7 @@ dourah
 dourest
 dournesses
 douroucouli
+douzeper
 dovecots
 dovekey
 dovekies
@@ -7198,6 +7205,7 @@ embarrass
 embarring
 embassage
 embassies
+embay
 embeds
 embezzlers
 embitter
@@ -7813,6 +7821,7 @@ excide
 excises
 excisional
 excitation
+excitations
 excitatory
 excites
 exclaim
@@ -8141,6 +8150,7 @@ fascicled
 fascinator
 fascines
 fascistic
+fascistically
 fascists
 fashed
 fashing
@@ -9082,6 +9092,7 @@ gabble
 gabbler
 gabbroic
 gabs
+gadgetries
 gadid
 gadwalls
 gaffing
@@ -9177,6 +9188,7 @@ garblers
 garbs
 garcons
 gardai
+gardens
 gargantuan
 gargety
 gargled
@@ -9258,6 +9270,7 @@ gegenscheins
 geisha
 gelati
 gelatines
+gelatinized
 gelatinously
 gelder
 geldings
@@ -9583,6 +9596,7 @@ gooseherds
 gorbellies
 gorcock
 gorditas
+gorgeousness
 gorgeousnesses
 gorillas
 gorm
@@ -10147,6 +10161,7 @@ haying
 haylages
 hayloft
 haymows
+hayrick
 hays
 hazarders
 hazardousness
@@ -13377,6 +13392,7 @@ mathematized
 matriarchs
 matrimonies
 matronizes
+matsutakes
 matt
 matte
 mattings
@@ -13855,6 +13871,7 @@ minestrone
 mingiest
 miniaturization
 minibike
+minibiker
 minicar
 minicomputer
 minidisc
@@ -14486,6 +14503,7 @@ mushiest
 music
 musical
 musicologies
+musicology
 muskmelon
 muskrat
 muskrats
@@ -15075,6 +15093,7 @@ nonsteroid
 nonstick
 nonsugars
 nonsuiting
+nonsyllabic
 nontarget
 nontechnical
 nontherapeutic
@@ -15182,6 +15201,7 @@ nursed
 nursemaid
 nutgall
 nutmeg
+nutpick
 nutritionally
 nutritives
 nuts
@@ -15618,6 +15638,7 @@ outbribe
 outbribes
 outbuilt
 outbulges
+outbullying
 outburn
 outbuying
 outcapering
@@ -15786,8 +15807,10 @@ outtrick
 outvie
 outvoices
 outvotes
+outwalks
 outwardnesses
 outwearing
+outwears
 outwearying
 outweeping
 outwhirls
@@ -15952,6 +15975,7 @@ overregulates
 overreported
 overroasted
 overroasts
+overrode
 overruffed
 overrule
 overrunning
@@ -16253,6 +16277,7 @@ paramagnetic
 paramattas
 parament
 parameterizing
+parametrized
 parametrizes
 paramos
 paramylums
@@ -17168,6 +17193,7 @@ pledget
 pleiades
 plena
 plenaries
+plenarily
 plenishes
 plenists
 plenteous
@@ -17621,6 +17647,7 @@ predilections
 predischarge
 prednisolones
 predominating
+predomination
 preed
 preedited
 preelect
@@ -17938,6 +17965,7 @@ promotable
 promotiveness
 prompt
 promptitudes
+pronation
 pronely
 pronged
 pronominally
@@ -19206,6 +19234,7 @@ reordered
 reorientates
 reorients
 reoxidation
+repacified
 repack
 repainted
 repairability
@@ -19298,6 +19327,7 @@ requesting
 requests
 requiescat
 requite
+requiters
 reradiations
 reread
 rerecorded
@@ -23699,6 +23729,7 @@ traumatizations
 traumatize
 travels
 traversable
+travertine
 travesties
 travestying
 trawley
@@ -23785,6 +23816,7 @@ trifurcates
 trigeminal
 triggered
 triggerfishes
+trigly
 triglyph
 trignesses
 trigonometries
@@ -24187,6 +24219,7 @@ uncase
 uncases
 uncast
 uncataloged
+uncatchy
 uncaused
 uncertainnesses
 unchain
@@ -24948,6 +24981,7 @@ venge
 vengefulnesses
 venins
 venireman
+venires
 venographies
 venology
 venoms
@@ -25325,6 +25359,7 @@ watchable
 watchdogged
 watches
 watchman
+waterages
 watercooler
 watercrafts
 waterdog

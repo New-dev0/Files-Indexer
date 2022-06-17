@@ -1,0 +1,4 @@
+ubuntukylin-18.04.5-desktop-amd64.manifest - Ubuntu CDimage,http://cdimage.ubuntu.com/ubuntukylin/releases/18.04/release/ubuntukylin-18.04.5-desktop-amd64.manifest
+https://www.cdimage.ubuntu.com/ubuntukylin/focal/d...,https://www.cdimage.ubuntu.com/ubuntukylin/focal/daily-live/current/focal-desktop-amd64.manifest
+dotfiles/gcloud-deps.manifest at master · gyaresu/dotfiles · GitHub,https://github.com/gyaresu/dotfiles/blob/master/_bin/google-cloud-sdk/.install/.backup/.install/gcloud-deps.manifest
+accountsservice 22.08.8-1ubuntu1 acl 2.3.1-1 adduser 3.118 ...,http://ftp.uni-kl.de/pub/linux/ubuntu-dvd/ubuntukylin/daily-live/pending/kinetic-desktop-arm64.manifest
