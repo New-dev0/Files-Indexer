@@ -1567,6 +1567,7 @@ backstage
 backstamps
 backstitches
 backstreet
+backstretches
 backwardnesses
 backwashes
 backwoods
@@ -1811,6 +1812,7 @@ beblood
 becalmed
 becaps
 becarpeted
+becarpets
 bechamels
 beckoned
 beckoning
@@ -2373,6 +2375,7 @@ bolivars
 bolivianos
 bollard
 bollixing
+bolographs
 bolometers
 bolometrically
 bolshies
@@ -2906,6 +2909,7 @@ caddying
 cadenzas
 cadetship
 cadis
+cadmium
 cads
 caespitose
 caestus
@@ -3079,6 +3083,7 @@ capitalising
 capitalist
 capitols
 capitulary
+caponier
 cappelletti
 cappers
 capriccio
@@ -3717,6 +3722,7 @@ chrominance
 chromite
 chromomeres
 chromomeric
+chromonematic
 chromoplasts
 chromoprotein
 chromoproteins
@@ -3837,6 +3843,7 @@ clanking
 clannishly
 clapboard
 clapping
+clarification
 clarifies
 clarioned
 claros
@@ -4072,6 +4079,7 @@ coffeepots
 coffered
 coffing
 coffret
+cofinanced
 cofounders
 cogged
 cogitable
@@ -4579,6 +4587,7 @@ contumacy
 convector
 convened
 conveniences
+conventicler
 conventiclers
 conventionality
 converged
@@ -4727,6 +4736,7 @@ correspondence
 corrigibility
 corrivals
 corroborant
+corroborator
 corroded
 corrody
 corrosion
@@ -6491,6 +6501,7 @@ dominancies
 dominations
 domineered
 dominicker
+dominies
 dominium
 donates
 donating
@@ -8062,6 +8073,7 @@ feelings
 feeze
 feezed
 feijoa
+feinted
 feist
 feldscher
 feldschers
@@ -8141,6 +8153,7 @@ feverish
 fez
 fiancee
 fianchettoed
+fiars
 fibber
 fiberized
 fiberizes
@@ -9133,6 +9146,7 @@ geometricians
 geometrics
 geometrise
 geophagia
+geophone
 geophysics
 geopolitics
 georgette
@@ -10995,6 +11009,7 @@ indite
 indites
 individualised
 individualism
+individuality
 individualizes
 individuated
 individuations
@@ -11660,6 +11675,7 @@ jazzer
 jazzier
 jazziness
 jazzing
+jazzman
 jazzmen
 jazzy
 jealousness
@@ -12119,6 +12135,7 @@ lag
 lagging
 lagnappe
 laichs
+laicizes
 lairdships
 laitances
 lakes
@@ -12730,6 +12747,7 @@ lowlifer
 lowlights
 lowrider
 loxodromes
+loyaler
 loyalest
 lubber
 lube
@@ -12745,6 +12763,7 @@ luck
 lucked
 lucubrating
 luger
+luggages
 lullabied
 lullabies
 lumbars
@@ -13727,6 +13746,7 @@ mispoising
 mispositioning
 misprices
 misprints
+misprizes
 misprograms
 mispronounced
 misquotes
@@ -14816,6 +14836,7 @@ notchers
 note
 nother
 nothing
+nothingnesses
 notices
 notionality
 notochordal
@@ -14991,6 +15012,7 @@ oersteds
 oes
 oestrin
 ofay
+off
 offed
 offended
 offenses
@@ -15874,7 +15896,9 @@ pantropic
 pants
 panty
 pantyhose
+pap
 papacy
+papadom
 papains
 papal
 paperhangers
@@ -16644,6 +16668,7 @@ pinier
 piniest
 pink
 pinkishnesses
+pinkroot
 pinnace
 pinpoints
 pins
@@ -17517,6 +17542,7 @@ produced
 producers
 productivity
 profanation
+profanatory
 profane
 profaneness
 professor
@@ -17722,6 +17748,7 @@ psychoneurotics
 psychosexual
 psychosexuality
 psychosexually
+psychosocial
 psychosynthesis
 psychotherapies
 psychotherapist
@@ -20328,6 +20355,7 @@ shiatzu
 shibah
 shibboleths
 shiel
+shielders
 shiest
 shiftable
 shiftinesses
@@ -21215,6 +21243,7 @@ spinsters
 spinto
 spinulose
 spiny
+spiraeas
 spiraled
 spirant
 spired
@@ -21561,6 +21590,7 @@ stilts
 stimulant
 stinging
 stingless
+stipel
 stipplings
 stipular
 stipulate
@@ -21576,6 +21606,7 @@ stockading
 stockage
 stockiest
 stockists
+stockpiled
 stocktaking
 stogey
 stoked
@@ -22191,6 +22222,7 @@ swallow
 swamp
 swampier
 swampiest
+swanherds
 swankest
 swanpan
 swans
@@ -22651,6 +22683,7 @@ terneplates
 terpinols
 terra
 terraces
+terraforming
 terrazzo
 terrella
 terrine
@@ -22701,6 +22734,7 @@ thanages
 thankfully
 thankfulness
 thankworthy
+that
 thawless
 thearchies
 theatergoers
@@ -23406,6 +23440,7 @@ trustinesses
 trustingly
 truthful
 truthfully
+truthless
 tryout
 tryptamines
 tsatske
