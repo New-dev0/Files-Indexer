@@ -1258,6 +1258,7 @@ ashlars
 ashless
 ashplant
 aside
+ask
 askew
 askewnesses
 askoi
@@ -1496,6 +1497,7 @@ avisos
 avo
 avocado
 avoid
+avos
 avouched
 avouching
 avouchments
@@ -2217,6 +2219,7 @@ bit
 bitchery
 bitchiest
 biter
+bitmap
 bitted
 bitterbrushes
 bittering
@@ -2617,6 +2620,7 @@ breakwater
 breastfeed
 breastpins
 breasts
+breathed
 breathers
 breathy
 brecciation
@@ -2641,6 +2645,7 @@ briefing
 bries
 brigaded
 brigadier
+brigandage
 brigantines
 brighteners
 brighter
@@ -2854,6 +2859,7 @@ burned
 burnish
 burnishers
 burnt
+burqas
 burrow
 bursa
 burse
@@ -2892,6 +2898,7 @@ butteriest
 buttering
 butterless
 butterwort
+buttheads
 buttonballs
 buttonbush
 buttonholed
@@ -3037,6 +3044,7 @@ camouflageable
 camouflaging
 campagna
 campaigned
+camped
 campesinos
 camphenes
 camphire
@@ -5502,6 +5510,7 @@ deactivate
 deactivations
 deactivator
 deadened
+deadfall
 deadheaded
 deadlier
 deadlift
@@ -5737,6 +5746,7 @@ delectably
 delectate
 delegate
 delegated
+delegators
 deleing
 delf
 delft
@@ -6048,6 +6058,7 @@ diaeresis
 diagnosable
 diagnostics
 diagonalizable
+diagonalization
 diagonalizes
 diagonally
 diagrammatic
@@ -6553,6 +6564,7 @@ documentalist
 documentarians
 documented
 dodderer
+doddering
 doddery
 dodgems
 dodges
@@ -6589,6 +6601,7 @@ doloroso
 dolorous
 dolors
 dolts
+dome
 domestications
 domestics
 domiciling
@@ -8090,6 +8103,7 @@ faradizers
 farandoles
 farced
 farcers
+farcy
 fard
 farded
 farding
@@ -8304,6 +8318,7 @@ fieriest
 fieriness
 fiery
 fifes
+figged
 fight
 fighting
 figurate
@@ -8546,6 +8561,7 @@ flooding
 floodlighted
 floodlighting
 floodplain
+floodtides
 floorshow
 floosie
 flophouse
@@ -8984,6 +9000,7 @@ fulguration
 fulleries
 fullfaces
 fullmouthed
+fullness
 fulminic
 fumers
 fumette
@@ -11055,6 +11072,7 @@ inamorato
 inanely
 inanimatenesses
 inanities
+inapparently
 inapplicable
 inaptitude
 inaptness
@@ -12126,6 +12144,7 @@ ketenes
 ketogenic
 kettle
 kettledrums
+kewpies
 keybutton
 keynote
 keynotes
@@ -12541,6 +12560,7 @@ legendized
 legends
 legerdemain
 leges
+leggins
 legislatives
 legislators
 legitimation
@@ -12785,6 +12805,7 @@ litterer
 littler
 littlest
 littlish
+liturgiologies
 liturgiologist
 livabilities
 livability
@@ -13669,6 +13690,7 @@ microcopy
 microcosm
 microcosms
 microcrystal
+microcrystals
 microcyte
 microearthquake
 microelectrodes
@@ -13911,6 +13933,7 @@ misemploy
 misenrolls
 misesteem
 misevaluated
+misfeasance
 misfiled
 misfire
 misfiring
@@ -14901,6 +14924,7 @@ nondegenerate
 nondelegates
 nondeliveries
 nondemands
+nondemocratic
 nondepartmental
 nondescriptive
 nondiabetics
@@ -15381,6 +15405,7 @@ operable
 operagoing
 operand
 operatic
+operationalists
 operationisms
 operative
 operativenesses
@@ -16081,6 +16106,7 @@ palanquins
 palatable
 palatialnesses
 palavered
+palaverers
 paleae
 paleness
 paleobiologists
@@ -16930,6 +16956,7 @@ pillows
 pillowy
 pilonidal
 pilotages
+pilothouses
 piloting
 pimpernel
 pimply
@@ -20115,6 +20142,7 @@ scallop
 scallywag
 scallywags
 scaloppine
+scalpels
 scalpers
 scammed
 scamped
@@ -21365,6 +21393,7 @@ somatically
 somatomedin
 sombreros
 some
+somersault
 somewhere
 somnambulates
 somnambulist
@@ -21834,6 +21863,7 @@ starvelings
 starwort
 stashes
 stat
+statecraft
 stateliness
 staters
 statesmanship
@@ -22284,6 +22314,7 @@ subsectors
 subsenses
 subsequences
 subshaft
+subshrub
 subshrubs
 subsiders
 subsidiarity
@@ -22596,6 +22627,7 @@ swallow
 swamp
 swampier
 swampiest
+swamping
 swanherds
 swankest
 swanpan
@@ -22912,6 +22944,7 @@ tchotchkes
 teaboxes
 teachableness
 teacup
+teahouses
 team
 teams
 teardrops
@@ -25018,6 +25051,7 @@ vireonines
 virginalist
 viridescent
 viridity
+virilizes
 virion
 virologic
 virtu
@@ -25884,6 +25918,7 @@ zombielike
 zombification
 zombifications
 zombiisms
+zona
 zonary
 zonated
 zonetimes
