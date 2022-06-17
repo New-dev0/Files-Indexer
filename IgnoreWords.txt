@@ -104,6 +104,7 @@ accommodator
 accompanies
 accompaniment
 accompanists
+accompanying
 accomplice
 accomplishments
 accordance
@@ -1071,6 +1072,7 @@ appressorium
 apprise
 approachable
 approbates
+appropriated
 appropriations
 approximate
 approximation
@@ -1326,6 +1328,7 @@ astir
 astonishments
 astrachan
 astraddle
+astragal
 astringent
 astrometries
 astronomer
@@ -3062,6 +3065,7 @@ cane
 canellas
 caners
 canful
+canine
 caninities
 canister
 cankerous
@@ -4214,6 +4218,7 @@ colliding
 collier
 collimations
 collinsias
+collocational
 collodion
 colloids
 colloquial
@@ -4551,6 +4556,7 @@ considerably
 consign
 consisted
 consistences
+consistent
 consociate
 consolation
 consolidation
@@ -4895,6 +4901,7 @@ coupes
 couplements
 couples
 couplet
+coupons
 courier
 courlan
 courseware
@@ -6456,6 +6463,7 @@ dissociability
 dissocial
 dissolved
 dissolves
+dissuaders
 dissuasively
 dissuasiveness
 dissyllable
@@ -7542,6 +7550,7 @@ equitable
 equivalencies
 equivocality
 equivoke
+equivoques
 era
 eradiate
 eradiating
@@ -7563,6 +7572,7 @@ ergo
 ergograph
 eroding
 eros
+erosible
 erosional
 erosiveness
 erosivities
@@ -8170,6 +8180,7 @@ feeling
 feelings
 feeze
 feezed
+feigner
 feijoa
 feinted
 feist
@@ -8430,6 +8441,7 @@ flagships
 flagstaffs
 flagstick
 flail
+flake
 flakier
 flaky
 flam
@@ -8711,6 +8723,7 @@ foreskin
 forestaller
 forestaysail
 forestaysails
+forester
 forestland
 foretime
 foretops
@@ -8742,6 +8755,7 @@ formularizes
 formulator
 formulators
 formulism
+formyls
 fornicates
 forsooth
 forsworn
@@ -8987,6 +9001,7 @@ fungicidal
 fungoids
 funked
 funks
+funnelform
 funninesses
 funnymen
 furcate
@@ -9579,6 +9594,7 @@ granadilla
 grandames
 grandaunt
 grandaunts
+granddad
 granddads
 granddaughters
 grandfatherly
@@ -11123,6 +11139,7 @@ indefensibly
 indefinables
 indehiscences
 indelicacies
+indelicacy
 indelicate
 indemnities
 indemonstrable
@@ -11288,6 +11305,7 @@ inhumes
 iniquitous
 iniquitousness
 initial
+initialism
 initialisms
 initialize
 initializing
@@ -11716,6 +11734,7 @@ isochimes
 isochrone
 isochrons
 isoclinals
+isoclinics
 isocracies
 isoenzymes
 isoform
@@ -11769,6 +11788,7 @@ jack
 jacked
 jackers
 jacketed
+jacketing
 jacketless
 jackets
 jackfishes
@@ -11918,6 +11938,7 @@ journaleses
 journaling
 journalist
 journalizes
+journeyed
 jousting
 jowars
 jowl
@@ -11955,6 +11976,7 @@ juiceheads
 juiceless
 juicer
 jujube
+jujuist
 jujutsus
 juking
 jukus
@@ -14604,6 +14626,7 @@ needling
 negates
 negatived
 negativenesses
+negatron
 negligee
 negligently
 negligibly
@@ -14979,6 +15002,7 @@ nonscientist
 nonsecretors
 nonselective
 nonsensically
+nonsentences
 nonsexual
 nonshrink
 nonsmokers
@@ -15559,6 +15583,7 @@ outfawning
 outfeast
 outfence
 outfencing
+outfield
 outfight
 outfights
 outfigured
@@ -15903,6 +15928,7 @@ overstays
 overstimulation
 overstrained
 overstretches
+overstride
 overstudies
 oversubtle
 oversweetens
@@ -16457,6 +16483,7 @@ pep
 peperomia
 pepino
 peponium
+pepperbox
 pepperboxes
 peptid
 peptizes
@@ -17914,6 +17941,7 @@ prost
 prostate
 prostatectomies
 prostatism
+prosthodontics
 prostrate
 protamines
 protecter
@@ -19332,6 +19360,7 @@ reswallowed
 retackle
 retailored
 retaken
+retaker
 retaking
 retaliating
 retaliatory
@@ -20503,6 +20532,7 @@ serpents
 serpiginous
 serpiginously
 serriedly
+serrying
 servable
 servantless
 servants
@@ -21523,6 +21553,7 @@ spieled
 spiffies
 spiffiest
 spiffy
+spik
 spikelike
 spiks
 spiky
@@ -22021,6 +22052,7 @@ strikeovers
 striker
 stringcourses
 stringhalts
+stringiest
 stringily
 stringing
 strings
@@ -23080,6 +23112,7 @@ thermochemists
 thermoduric
 thermoform
 thermograph
+thermojunctions
 thermoperiodism
 thermophilous
 thermopile
@@ -23178,6 +23211,7 @@ thunk
 thunks
 thurls
 thus
+thwacks
 thwarter
 thymectomizing
 thymectomy
@@ -24668,6 +24702,7 @@ utilitarianism
 utopistic
 utterance
 uvarovite
+uveitic
 uvulars
 uxoriously
 uxoriousnesses
