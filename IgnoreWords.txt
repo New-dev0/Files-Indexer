@@ -986,6 +986,7 @@ apathetic
 apatosaur
 apertures
 apetalous
+aphaeretic
 aphasias
 aphasics
 aphis
@@ -1188,6 +1189,7 @@ aromatization
 aromatizations
 arose
 arousals
+arouse
 aroused
 aroynt
 arpeggios
@@ -1216,6 +1218,7 @@ arteriolar
 artfulnesses
 arthralgias
 arthritis
+arthrodesis
 artichoke
 articled
 articulate
@@ -3262,6 +3265,7 @@ casebearer
 casebearers
 casebook
 casein
+caseinate
 casemate
 caserns
 casette
@@ -6321,6 +6325,7 @@ discriminant
 discriminator
 discrowned
 discursiveness
+discusses
 discussible
 discussions
 disdain
@@ -7201,6 +7206,7 @@ emeerate
 emendators
 emends
 emerald
+emigration
 emigrations
 eminently
 emirates
@@ -7570,6 +7576,7 @@ erepsins
 erg
 ergo
 ergograph
+ergotamine
 eroding
 eros
 erosible
@@ -8019,6 +8026,7 @@ faineance
 faint
 faintest
 fair
+fairgoers
 fairground
 fairishly
 fairleaders
@@ -8547,6 +8555,7 @@ floras
 floriated
 floriations
 floricane
+floricultures
 florid
 floruits
 flossie
@@ -9502,6 +9511,7 @@ goddamned
 goddams
 godlessly
 godlily
+godly
 godmothering
 godroon
 godships
@@ -10767,6 +10777,7 @@ hyperpolarizing
 hyperresponsive
 hypersecretions
 hypersonic
+hyperspace
 hypersthene
 hypertonia
 hypertypical
@@ -10977,6 +10988,7 @@ impetrates
 imphees
 imping
 impish
+implantable
 implantation
 implausibility
 implead
@@ -10996,6 +11008,7 @@ impossibilities
 impossibility
 impossible
 impost
+impostumes
 impotently
 impoverishing
 imprecates
@@ -12154,6 +12167,7 @@ kilojoule
 kilolitres
 kilometre
 kilos
+kilotons
 kilty
 kimono
 kinder
@@ -12236,6 +12250,7 @@ komondorock
 koodoo
 kookie
 kookinesses
+kopeck
 koph
 kopjes
 koppie
@@ -12444,6 +12459,7 @@ launching
 launchpads
 laundress
 laundrettes
+laundryman
 laureated
 laureateship
 laurel
@@ -12894,6 +12910,7 @@ lordoses
 lore
 lorica
 loricae
+loriners
 lornness
 losings
 losses
@@ -13366,6 +13383,7 @@ meal
 mealiness
 mealless
 mean
+meaners
 meaningless
 meaninglessly
 meaningly
@@ -13475,6 +13493,7 @@ melters
 melton
 meltons
 membership
+membranous
 mementoes
 memes
 memetics
@@ -15813,6 +15832,7 @@ overexplained
 overexploited
 overexpose
 overextend
+overfamiliarity
 overfast
 overfill
 overfilled
@@ -16215,6 +16235,7 @@ paratroops
 parboiled
 parboiling
 parbuckling
+parcel
 parch
 parchesis
 pards
@@ -16366,6 +16387,7 @@ peaky
 pealike
 pearl
 pearlescence
+pearliest
 pearlized
 pearls
 peart
@@ -18292,6 +18314,7 @@ quid
 quiescence
 quiescent
 quietudes
+quietuses
 quillais
 quillworts
 quinaries
@@ -18307,6 +18330,7 @@ quintins
 quints
 quintuple
 quintuplet
+quippiest
 quipster
 quire
 quires
@@ -19268,6 +19292,7 @@ reshingle
 reshipped
 reshipping
 reshowered
+reshowing
 reshuffled
 residence
 residua
@@ -19584,6 +19609,7 @@ rights
 rigorism
 rigorousness
 rigorousnesses
+rijstafels
 rijsttafel
 rikishas
 riling
@@ -19801,6 +19827,7 @@ rummer
 rummers
 rummies
 rumored
+rumors
 rumouring
 rumpled
 rumpuses
@@ -20417,6 +20444,7 @@ semifinals
 semifluid
 semiformal
 semilethal
+semillon
 semillons
 semilog
 semimat
@@ -20607,6 +20635,7 @@ shanghaied
 shanghaiers
 shannies
 shantytowns
+shapeup
 shapeups
 shards
 shareabilities
@@ -21353,6 +21382,7 @@ sonneteering
 sonneteers
 sonobuoy
 sonograms
+sonorous
 sonorousnesses
 sons
 sonsie
@@ -21434,6 +21464,7 @@ spacer
 spacially
 spaciest
 spaciously
+spaciousnesses
 spaded
 spaeings
 spaghettilike
@@ -23775,6 +23806,7 @@ trouper
 trouveres
 trove
 truancies
+trucked
 trucker
 truckers
 truckman
@@ -24426,6 +24458,7 @@ unpegging
 unperceived
 unperceptive
 unpicking
+unpile
 unplaced
 unpleasantly
 unpledged
@@ -24437,6 +24470,7 @@ unprincipled
 unprivileged
 unprized
 unprofessed
+unprogrammed
 unprompted
 unpronounceable
 unpropitious
@@ -25835,6 +25869,7 @@ zingano
 zinged
 zings
 zingy
+zinky
 zinnia
 zinnias
 zippering
