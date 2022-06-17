@@ -1,0 +1,9 @@
+vcpkg-tool/versions.ps1 at main - GitHub,https://github.com/microsoft/vcpkg-tool/blob/main/azure-pipelines/end-to-end-tests-dir/versions.ps1
+arm-ttk/apiVersions-Should-Be-Recent.test.ps1 at master - GitHub,https://github.com/Azure/arm-ttk/blob/master/arm-ttk/testcases/deploymentTemplate/apiVersions-Should-Be-Recent.test.ps1
+ImportGuard.ps1 4.1.12.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/AWSPowerShell/4.1.12.0/Content/ImportGuard.ps1
+ImportGuard.ps1 3.3.618.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/AWS.Tools.Common/3.3.618.0/Content/ImportGuard.ps1
+ImportGuard.ps1 4.1.6.0 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/AWS.Tools.Common/4.1.6.0/Content/ImportGuard.ps1
+Profile production apps in Azure with Application Insights Profiler,https://serviceprofiler.azurewebsites.net/content/downloads/InstallNetFx46.ps1
+bjubes/scoop: A command-line installer for Windows. - test/Scoop ...,https://git.bjubes.com/bjubes/scoop/src/commit/0e76db8735ae201a4c2b15d8697c55d1ee0e5a9a/test/Scoop-Versions.Tests.ps1
+nuspec/update-nuspec-versions.ps1 ... - GitLab,https://git.gloriumdev.com/mishchenko/MvvmCross-Plugins/-/blob/eb1cd221758834e0f15c8edf3f2dcc78175ea664/nuspec/update-nuspec-versions.ps1
+https://raw.githubusercontent.com/Microsoft/vsts-t...,https://raw.githubusercontent.com/Microsoft/vsts-tasks/master/Tasks/SqlAzureDacpacDeploymentV1/FindSqlPackagePath.ps1

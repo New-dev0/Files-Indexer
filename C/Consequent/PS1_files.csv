@@ -1,0 +1,5 @@
+functions/Update-DbaInstance.ps1 0.9.707 - PowerShell Gallery,https://www.powershellgallery.com/packages/dbatools/0.9.707/Content/functions%255CUpdate-DbaInstance.ps1
+Framework/Helpers/RemoteApiHelper.ps1 1.1.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/AzSKPreview.ADO/1.1.0/Content/Framework%255CHelpers%255CRemoteApiHelper.ps1
+dbatools/Update-DbaInstance.ps1 at development - GitHub,https://github.com/sqlcollaborative/dbatools/blob/development/functions/Update-DbaInstance.ps1
+tests/Select-DbaBackupInformation.Tests.ps1 0.9.181 - PowerShell ...,https://psg-prod-centralus.cloudapp.net/packages/dbatools/0.9.181/Content/tests%255CSelect-DbaBackupInformation.Tests.ps1
+functions/Update-DbaInstance.ps1 1.0.52 - PowerShell Gallery,https://168.61.186.235/packages/dbatools/1.0.52/Content/functions%255CUpdate-DbaInstance.ps1
