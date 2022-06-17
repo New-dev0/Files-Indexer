@@ -1350,6 +1350,7 @@ attaboy
 attacher
 attachers
 attaches
+attaching
 attachment
 attackmen
 attagirl
@@ -1409,6 +1410,7 @@ auscultated
 ausform
 auspicated
 auspicates
+auspiciousness
 autacoids
 autarch
 autarchical
@@ -2381,6 +2383,7 @@ bombardier
 bomblet
 bombshell
 bombycids
+bonded
 bondholders
 bonding
 bone
@@ -3679,6 +3682,7 @@ chondrites
 chondrocraniums
 chondroma
 chook
+chooks
 choosier
 chophouse
 choppier
@@ -3742,6 +3746,7 @@ churchlier
 churchmen
 churchwomen
 churlishly
+churnings
 churr
 chute
 chutes
@@ -4849,6 +4854,7 @@ cowhided
 cowpat
 cowriting
 cowrote
+cows
 cowslip
 cowy
 coxcombry
@@ -4945,6 +4951,7 @@ creolised
 creolises
 creolizations
 creosol
+crescendi
 crescents
 crest
 crestal
@@ -5896,6 +5903,7 @@ detrainments
 deuteriums
 devas
 devastations
+develop
 developers
 deverbal
 deviationisms
@@ -9262,6 +9270,7 @@ glintiest
 gliomata
 glisten
 glister
+glistering
 glitter
 gloamings
 gloater
@@ -10263,6 +10272,7 @@ holidays
 holier
 holily
 holistically
+holk
 holked
 hollaed
 hollering
@@ -11336,6 +11346,7 @@ interrogating
 interrogator
 interrupted
 interrupting
+intersect
 intersegmental
 intersession
 intersessions
@@ -12116,6 +12127,7 @@ lakier
 lam
 lambda
 lambdoid
+lambencies
 lambers
 lambies
 lambiest
@@ -12520,6 +12532,7 @@ liquidates
 liquidity
 liquifying
 liroth
+lissomenesses
 listable
 listened
 listenership
@@ -13323,6 +13336,7 @@ mesoscale
 mesozoan
 messiah
 messiahships
+mestees
 mestiza
 mestizoes
 metabolically
@@ -13873,6 +13887,7 @@ monitored
 monkeypod
 monkfishes
 monoacids
+monoamines
 monocarpic
 monochasial
 monochasium
@@ -14387,6 +14402,7 @@ nelumbiums
 nelumbos
 nematocysts
 nemertine
+neoclassicisms
 neoclassicists
 neocolonialist
 neoliberalism
@@ -14824,6 +14840,7 @@ nubbly
 nubby
 nuchals
 nucleal
+nuclear
 nucleates
 nucleations
 nucleins
@@ -15000,6 +15017,7 @@ ogives
 ogled
 ogreish
 ogresses
+ohed
 ohm
 ohmages
 oilcups
@@ -15671,6 +15689,7 @@ overwhelms
 overwily
 overwinding
 overwithholds
+overworking
 overworn
 overzeal
 ovibos
@@ -15975,6 +15994,7 @@ partied
 partlet
 partnered
 partnership
+partons
 partridge
 partygoers
 parvis
@@ -16951,6 +16971,7 @@ polyneuritises
 polyol
 polyolefins
 polyparies
+polyphagies
 polypores
 polypous
 polyptychs
@@ -16995,6 +17016,7 @@ popinjays
 poplar
 popliteus
 popover
+poppadoms
 popper
 poppled
 poppycock
@@ -17371,6 +17393,7 @@ presynaptically
 pretaping
 pretasting
 pretelling
+pretense
 pretensionless
 pretensions
 preterits
@@ -17854,6 +17877,7 @@ pyramidal
 pyranosides
 pyrenes
 pyrexic
+pyric
 pyridoxin
 pyritic
 pyroclastic
@@ -18189,6 +18213,7 @@ reactionaries
 reactivation
 reactor
 reactors
+readapted
 readapts
 readerly
 readier
@@ -21473,6 +21498,7 @@ stellifying
 stellite
 stemmas
 stemmer
+stemware
 stenchier
 stencilling
 stencils
@@ -21515,6 +21541,7 @@ stichomythy
 stickers
 stickfuls
 stickled
+sticklers
 stickling
 stickout
 stickseed
@@ -21822,6 +21849,7 @@ submarined
 submarkets
 submenu
 submergences
+submetacentric
 submicrogram
 subminiature
 subministers
@@ -21868,6 +21896,8 @@ subsoiler
 subspecialist
 subspecializes
 subspecializing
+subspecies
+substantialness
 substantivize
 substantivizing
 substate
@@ -23654,6 +23684,7 @@ unbuttons
 uncake
 uncalculating
 uncalloused
+uncap
 uncapped
 uncaptioned
 uncapturable
@@ -23982,6 +24013,7 @@ unmoored
 unmourned
 unmovable
 unmoved
+unmown
 unmuffle
 unmuffling
 unnails
@@ -24471,6 +24503,7 @@ vespertilian
 vespiaries
 vesseled
 vested
+vestibule
 vestry
 vetiver
 vetivers
@@ -24687,6 +24720,7 @@ waeful
 wafering
 waff
 waffie
+waffle
 waffled
 waffling
 waftage
@@ -25236,6 +25270,7 @@ xylitol
 xylocarp
 xylocarps
 xylographical
+xylographies
 xylographing
 xylographs
 xylophage
