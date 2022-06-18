@@ -1,0 +1,9 @@
+GO:0005739 mitochondrion AnnotationPropagation C GO:0070125 ...,http://skyhook.berkeleybop.org/issue-go-site-1434-add-xenbase/reports/aspgd-prediction-report.txt
+region regionname length 1 apical 0.033 1 apical 0.021 1 apical ...,http://faculty.etsu.edu/seier/data/ONEONION.txt
+plant reproduction - CSUN,http://www.csun.edu/science/biology/AP_biology/text%2520files/plant_reproduction.txt
+GO:0005739 mitochondrion AnnotationPropagation C GO:0070125 ...,http://release.geneontology.org/2018-07-02/reports/aspgd-prediction-report.txt
+Planets,http://hea-www.harvard.edu/~pgreen/educ/concep/planets.txt
++------+ 54: gcf_DESHAF__WP_011459896.1 MULTISPECIES ...,http://docs.slimsuite.unsw.edu.au/research/dcmf/proteins/ATW24338.1.tree.txt
++-------------------+ 22: A0A0J1I4N3_9FIRM__A0A0J1I4N3 RecName ...,http://docs.slimsuite.unsw.edu.au/research/dcmf/proteins/Ga0180325_114556.tree.txt
+ID Gene Name Species CHROMOSOME ...,https://david.ncifcrf.gov/data/download/grf_A2E158B6AB8C1651684347319.txt
+TranslationTranscriptionFactors.txt,https://www.cmbl.uga.edu/software/TranslationTranscriptionFactors.txt

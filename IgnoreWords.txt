@@ -512,6 +512,7 @@ allocation
 allocators
 allonym
 allopathies
+allopatric
 allopatrically
 alloplasms
 allosteries
@@ -1059,6 +1060,7 @@ appetency
 appetisers
 appetising
 appetitive
+appetizing
 appetizingly
 applecarts
 applesauce
@@ -1187,6 +1189,7 @@ armours
 armrest
 armrests
 aroids
+aroma
 aromas
 aromatherapies
 aromatics
@@ -1208,6 +1211,7 @@ arrest
 arrhizal
 arrivers
 arroba
+arrogated
 arrowhead
 arrowlike
 arrowworm
@@ -1399,6 +1403,7 @@ attitudinise
 attorneyship
 attorneyships
 attract
+attrite
 attrites
 attritted
 attuned
@@ -1574,6 +1579,7 @@ backcrossed
 backfields
 backfilling
 backfitting
+backflip
 backflows
 backgrounders
 backgrounds
@@ -2378,6 +2384,7 @@ boardlike
 boarfish
 boarhound
 boas
+boaster
 boasting
 boatbuilding
 boated
@@ -3604,6 +3611,7 @@ chays
 cheapened
 cheapness
 cheapnesses
+cheapskate
 cheapskates
 chebec
 chechako
@@ -3750,6 +3758,7 @@ chockful
 chocoholics
 chocolate
 choicely
+choirboy
 chokecherry
 chokes
 cholangiograms
@@ -3772,6 +3781,7 @@ chophouse
 choppier
 chopsocky
 chopsticks
+chorale
 choreatic
 choreographies
 chorial
@@ -5156,6 +5166,7 @@ crossjacks
 crossness
 crossruffs
 crosstown
+crosstree
 crosstrees
 crostini
 crotchet
@@ -6814,6 +6825,7 @@ drips
 dript
 driveline
 drivelled
+driven
 driverless
 driveshafts
 drizzliest
@@ -7190,6 +7202,7 @@ elitisms
 ells
 elocution
 eloigned
+elongation
 elope
 eloped
 elucidated
@@ -7296,6 +7309,7 @@ enamoured
 enantiomorphism
 enatic
 encapsulation
+encapsuling
 encasements
 encash
 encashment
@@ -9088,6 +9102,7 @@ furnishers
 furnishes
 furore
 furrieries
+furry
 further
 furthering
 furtively
@@ -9532,6 +9547,7 @@ glueynesses
 glugged
 glum
 glunches
+gluons
 glut
 glutamates
 glutamine
@@ -10172,6 +10188,7 @@ haulyard
 haunches
 haunt
 haunted
+haunts
 hausfrau
 hausfrauen
 hautboy
@@ -10300,6 +10317,7 @@ helotries
 helots
 helped
 helpmates
+helpmeets
 hem
 hemacytometer
 hemacytometers
@@ -11449,6 +11467,7 @@ inorganic
 inosculated
 inosine
 inpour
+inputs
 inputting
 inquiets
 inquietudes
@@ -11774,6 +11793,7 @@ irids
 iring
 irising
 ironclad
+ironicalnesses
 ironings
 ironlike
 ironman
@@ -14159,6 +14179,7 @@ modelings
 models
 moderately
 moderating
+moderators
 modern
 modernes
 modernising
@@ -14533,6 +14554,7 @@ muscadet
 muscadets
 muscadines
 muscatels
+muscling
 muscovados
 muscularly
 museologies
@@ -17645,6 +17667,7 @@ prebuying
 precancer
 precensoring
 precensors
+precenting
 preceptors
 precessing
 precession
@@ -18562,6 +18585,7 @@ rainbirds
 raininess
 rainless
 rainmaker
+rainout
 rainouts
 raised
 raisers
@@ -20490,6 +20514,7 @@ seclusivenesses
 second
 secondarily
 seconding
+seconds
 secretively
 secretor
 secretors
@@ -20736,6 +20761,7 @@ sexlessly
 sexologist
 sexologists
 sexploitation
+sextans
 sextant
 sextile
 sexto
@@ -20758,6 +20784,7 @@ shads
 shaft
 shafted
 shagging
+shairns
 shaitan
 shakeable
 shaken
@@ -20765,6 +20792,7 @@ shakiest
 shakiness
 shako
 shamble
+shammed
 shammes
 shammied
 shamming
@@ -21614,6 +21642,7 @@ spacially
 spaciest
 spaciously
 spaciousnesses
+spackles
 spaded
 spaeings
 spaghettilike
@@ -22192,6 +22221,7 @@ stratifies
 stratocracies
 stratocracy
 stratovolcanoes
+stratum
 strawing
 straws
 strawworm
@@ -23041,6 +23071,7 @@ tarriest
 tarring
 tarsia
 tartar
+tartest
 tartinesses
 tartrated
 tartuffe
@@ -23403,6 +23434,7 @@ thunk
 thunks
 thurls
 thus
+thuya
 thwacks
 thwarter
 thymectomizing
@@ -23561,6 +23593,7 @@ tomahawked
 tomahawking
 tomans
 tomatillo
+tombac
 tombola
 tombolas
 tomboyishness
@@ -25329,6 +25362,7 @@ wackes
 wackier
 wacky
 wadded
+wadder
 wadders
 waddled
 waddying
@@ -25391,6 +25425,7 @@ warding
 warehousers
 wareroom
 warfares
+warhorse
 wariness
 warisons
 warless
