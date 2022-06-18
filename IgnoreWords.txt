@@ -1680,6 +1680,7 @@ bakeapple
 bakemeats
 bakeshop
 bakshishing
+balancer
 balboa
 balbriggan
 balconies
@@ -1693,6 +1694,7 @@ balkanization
 balkier
 balkily
 ballasting
+ballcarriers
 ballerina
 ballerinas
 balletomania
@@ -1808,6 +1810,7 @@ baseplates
 baserunning
 baserunnings
 bashed
+basicity
 basidiomycetes
 basidiomycetous
 basilar
@@ -2670,6 +2673,7 @@ brashnesses
 brashy
 brasilins
 brasseries
+brassiest
 brattier
 brattle
 bratwursts
@@ -3369,10 +3373,12 @@ cartloads
 cartographers
 cartoonists
 carts
+cartulary
 cartwheeling
 casabas
 cascabel
 cascade
+cascading
 casebearer
 casebearers
 casebook
@@ -3690,6 +3696,7 @@ chauffeured
 chawer
 chays
 cheapened
+cheapest
 cheapness
 cheapnesses
 cheapskate
@@ -4240,6 +4247,7 @@ codicology
 codirected
 codiscoverer
 codlings
+codrive
 codriver
 cods
 coeducation
@@ -4568,6 +4576,7 @@ conciliar
 conciliators
 concisenesses
 concluding
+concomitances
 concourses
 concreting
 concretisms
@@ -5125,6 +5134,7 @@ craftsmanships
 craggier
 cram
 crambe
+crambos
 cramp
 cramped
 crampfish
@@ -6000,6 +6010,7 @@ deniable
 deniers
 denigratory
 denimed
+denitrate
 denitrated
 denitrating
 denominates
@@ -7122,6 +7133,7 @@ dyspeptic
 dyspeptically
 dysphagia
 dysphagias
+dysphasic
 dyspnea
 dyspnoea
 dyspnoeas
@@ -9303,6 +9315,7 @@ gabardine
 gabardines
 gabble
 gabbler
+gabbles
 gabbroic
 gabs
 gadgetries
@@ -9428,6 +9441,7 @@ garrotte
 garrulity
 garrulous
 garrulously
+gasconader
 gaseities
 gasholders
 gasification
@@ -9459,6 +9473,7 @@ gauging
 gaum
 gauntly
 gauntry
+gauss
 gauziest
 gauzy
 gavel
@@ -9624,6 +9639,7 @@ ginghams
 gingili
 gingilis
 gingkoes
+ginks
 ginner
 giraffe
 giraffes
@@ -10155,6 +10171,7 @@ gusto
 gutsiest
 guttered
 gutting
+guttles
 guy
 guyots
 guzzler
@@ -10830,6 +10847,7 @@ honkers
 honorableness
 honorably
 honorand
+honoree
 honorer
 honorific
 honors
@@ -11226,6 +11244,7 @@ imbrowns
 imbruting
 imbued
 imines
+imitate
 imitativenesses
 immaculately
 immanent
@@ -14281,6 +14300,7 @@ misdeal
 misdeals
 misdescriptions
 misdiagnosed
+misdiagnosis
 misdivision
 misdo
 misdoer
@@ -14634,6 +14654,7 @@ morenesses
 morganites
 morion
 morions
+morn
 moronically
 moronity
 morose
@@ -16282,6 +16303,7 @@ overgrows
 overhandling
 overheaped
 overheat
+overhunting
 overhuntings
 overidealizes
 overimaginative
@@ -16877,6 +16899,7 @@ peed
 peeking
 peelers
 peels
+peens
 peeping
 peered
 peesweep
@@ -16927,6 +16950,7 @@ pennon
 pennoncel
 pennycress
 pennywise
+pens
 pensil
 pensions
 penster
@@ -19342,6 +19366,7 @@ reemployments
 reendow
 reendowed
 reenforced
+reenlarge
 reenlarges
 reenlistment
 reenlistments
@@ -19776,6 +19801,7 @@ resealing
 researchable
 researches
 reseason
+reseated
 reseau
 reseeks
 resees
@@ -20079,6 +20105,7 @@ ria
 rialtos
 riantly
 riatas
+rib
 ribald
 ribaldry
 ribands
@@ -21997,6 +22024,7 @@ soundboard
 soundly
 souped
 soupiest
+sourdine
 sourer
 sourwoods
 southbound
@@ -22444,6 +22472,7 @@ steepened
 steepening
 steepens
 steepest
+steeplechase
 steeplechaser
 steepled
 steeples
@@ -23717,6 +23746,7 @@ that
 thawless
 thearchies
 theatergoers
+theatergoings
 theatres
 theatricalism
 theatricalities
@@ -23987,6 +24017,7 @@ togaviruses
 toggler
 toiletries
 tokamaks
+toked
 token
 tokers
 tokonoma
@@ -25226,6 +25257,7 @@ unthinking
 untidied
 untidily
 untie
+untiringly
 untouched
 untowardness
 untraditionally
@@ -25571,6 +25603,7 @@ verrucas
 versal
 versatileness
 versatility
+versifications
 versifying
 versions
 verso
@@ -26084,6 +26117,7 @@ whomping
 whoopee
 whopper
 whorishly
+whorts
 whosever
 whoso
 whosoever
@@ -26474,6 +26508,7 @@ yowling
 ytterbic
 ytterbiums
 yttrias
+yuck
 yuckiness
 yukky
 yuks
