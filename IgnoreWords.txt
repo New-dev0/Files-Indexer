@@ -432,6 +432,7 @@ alands
 alang
 alanin
 alans
+alarmisms
 alarmist
 alarum
 alarums
@@ -513,6 +514,7 @@ alliterates
 allocates
 allocation
 allocators
+allogeneic
 allonym
 allopathies
 allopatric
@@ -609,6 +611,7 @@ amblygonites
 ambos
 ambroids
 ambry
+ambulacral
 ambulated
 ambulating
 ambulatories
@@ -1219,6 +1222,7 @@ arroba
 arrogated
 arrowhead
 arrowlike
+arrowwoods
 arrowworm
 arsenides
 arsenite
@@ -1877,6 +1881,7 @@ beclothed
 beclowned
 becoming
 becrawled
+becriming
 becudgeled
 bedabbles
 bedarkened
@@ -3350,6 +3355,7 @@ catalepsies
 cataleptic
 catalexis
 cataloger
+catalogues
 catalos
 catalpa
 catalyses
@@ -3448,6 +3454,7 @@ cellarage
 cellobiose
 cellphones
 cellular
+cellulars
 cellulites
 cementers
 cemeteries
@@ -3456,6 +3463,7 @@ cense
 censer
 censors
 censured
+censused
 centares
 centaurs
 centaury
@@ -3492,6 +3500,7 @@ cephalically
 cephalothin
 ceps
 ceraceous
+ceramics
 cerated
 cere
 cerebration
@@ -4908,6 +4917,7 @@ coterminously
 cothurni
 cothurnus
 cotinga
+cotransduction
 cotransductions
 cottager
 cottons
@@ -4939,6 +4949,7 @@ countermanded
 countermove
 counterordering
 counterpart
+counterpetition
 counterplan
 counterplay
 counterplayer
@@ -5379,6 +5390,7 @@ cutups
 cutwork
 cyanamide
 cyanamides
+cyanamids
 cyanin
 cyanins
 cyanite
@@ -9205,10 +9217,12 @@ gambesons
 gambier
 gambling
 gambolled
+gambusia
 gamekeeper
 gamester
 gametogenesis
 gaminess
+gaminesses
 gamins
 gammed
 gammier
@@ -9218,6 +9232,7 @@ gamodeme
 gandering
 ganevs
 gangbanged
+gangbusters
 ganged
 ganglial
 ganglioside
@@ -9307,6 +9322,7 @@ gawsie
 gaydar
 gaydars
 gaynesses
+gazehounds
 gazelle
 gazette
 gazetteer
@@ -9466,6 +9482,7 @@ girdled
 girliest
 gite
 gitting
+give
 giveaway
 gizmos
 glabellae
@@ -10481,6 +10498,7 @@ highballs
 highchairs
 highflyers
 highlighting
+highths
 highting
 hightops
 hilariousnesses
@@ -11541,6 +11559,7 @@ instrumental
 insubordinately
 insufflations
 insulants
+insularisms
 insularity
 insulator
 insulin
@@ -12157,6 +12176,7 @@ kainits
 kaiserism
 kaisers
 kakiemon
+kakis
 kaleidoscopes
 kaleidoscopic
 kalewives
@@ -12394,6 +12414,7 @@ kremlinologies
 kremlinologists
 krimmer
 krimmers
+kris
 krone
 krummhorns
 krypton
@@ -13106,6 +13127,7 @@ luger
 luggages
 lullabied
 lullabies
+lumbar
 lumbars
 lumberjacks
 lumbricals
@@ -14412,6 +14434,7 @@ mortmains
 morular
 mosaiclike
 moseyed
+mosquito
 motets
 mothered
 motherhouse
@@ -17632,6 +17655,7 @@ pound
 pounding
 pourable
 pouring
+pourpoints
 pours
 poussetted
 pouters
@@ -19410,6 +19434,7 @@ repro
 reproaching
 reprobating
 reprobations
+reprobes
 reprocess
 reprocessing
 reproducer
@@ -20955,6 +20980,7 @@ shootout
 shoots
 shop
 shopboys
+shophroth
 shoplifted
 shoppe
 shopwindows
@@ -21340,6 +21366,7 @@ slumberous
 slumgullions
 slumism
 slummed
+slummiest
 slumping
 slungshot
 slurban
@@ -22214,6 +22241,7 @@ storksbills
 stormier
 story
 storyboarded
+storyboarding
 stotin
 stoury
 stoutening
@@ -23290,6 +23318,7 @@ territorialized
 territorials
 terrorising
 terrorisms
+terrorists
 terrorizations
 terrorless
 terseness
@@ -23516,6 +23545,7 @@ tiling
 tiltrotor
 tilts
 timbales
+timbals
 timberheads
 timberline
 timberlines
@@ -24280,6 +24310,7 @@ umbo
 umbonate
 umbones
 umbrageously
+umbral
 umlauting
 umping
 umpired
@@ -24424,6 +24455,7 @@ uncustomarily
 undanceable
 undated
 undeceiving
+undecidable
 undecillion
 undeciphered
 undecorated
@@ -24608,6 +24640,7 @@ unimportant
 uninstalling
 uninstructed
 uninsulated
+uninsurable
 unintelligible
 uninterests
 uninvoked
@@ -25430,6 +25463,7 @@ waitlist
 waits
 wakeboards
 wakefulness
+waken
 wakes
 walkabout
 walkabouts
@@ -25495,6 +25529,7 @@ wast
 wastrie
 watap
 watchable
+watchband
 watchdogged
 watches
 watchman
