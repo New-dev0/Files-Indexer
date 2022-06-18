@@ -1899,6 +1899,7 @@ bedazzling
 bedboard
 bedcovering
 bedcovers
+bedding
 bedevil
 bedews
 bedfellow
@@ -2449,6 +2450,7 @@ bolder
 boldfaces
 boldly
 boldness
+boleti
 bolivar
 bolivars
 bolivianos
@@ -3093,6 +3095,7 @@ cameleers
 camellia
 camerae
 cames
+camisa
 camlet
 camouflageable
 camouflaging
@@ -3122,6 +3125,7 @@ candider
 candidnesses
 candies
 candlelighter
+candlelit
 candlesnuffers
 candlestick
 candlesticks
@@ -3425,6 +3429,7 @@ catling
 catlings
 catnapping
 cats
+cattaloes
 cattie
 catty
 caucuses
@@ -3811,6 +3816,7 @@ chondroma
 chook
 chooks
 choosier
+choosing
 chophouse
 choppier
 chopsocky
@@ -4330,6 +4336,7 @@ colorization
 colorize
 colorizers
 colorless
+colormen
 colossal
 colostomies
 colpitises
@@ -4435,6 +4442,7 @@ compassionating
 compatibilities
 compatriot
 compendiousness
+compensating
 competent
 competing
 competitor
@@ -5128,6 +5136,7 @@ creolises
 creolizations
 creolize
 creosol
+crepitate
 crescendi
 crescents
 crest
@@ -6001,6 +6010,7 @@ depurated
 depurator
 deputations
 deputize
+deputizes
 derailleurs
 derate
 derats
@@ -6447,6 +6457,7 @@ disenchanters
 disenchantingly
 disenchants
 disendowed
+disenfranchise
 disengages
 disentailed
 disentails
@@ -7929,6 +7940,7 @@ execrator
 execs
 executant
 executants
+executes
 executioners
 executory
 exegetics
@@ -9506,6 +9518,7 @@ gird
 girders
 girdled
 girliest
+gismos
 gite
 gitting
 give
@@ -9638,6 +9651,7 @@ gnomic
 gnomons
 gnosticisms
 gnotobiotic
+goaltenders
 goalward
 goannas
 gobang
@@ -9932,6 +9946,7 @@ grumbled
 grumblingly
 grummet
 grumose
+grumphies
 grumpily
 grumpiness
 grumps
@@ -10025,6 +10040,7 @@ guttered
 gutting
 guy
 guyots
+guzzler
 gybed
 gymkhana
 gymnast
@@ -11220,6 +11236,7 @@ inamorato
 inanely
 inanimatenesses
 inanities
+inanition
 inapparently
 inapplicable
 inaptitude
@@ -11235,6 +11252,7 @@ inbreeders
 inburst
 incalculable
 incandescent
+incandescents
 incanted
 incapable
 incapacitate
@@ -11816,6 +11834,7 @@ invest
 investigations
 investigative
 investigatory
+investors
 inveteracy
 inviability
 invigilated
@@ -13260,6 +13279,7 @@ macronuclei
 macrophage
 macrophyte
 macrostructural
+macrostructure
 macruran
 macula
 macumba
@@ -14101,6 +14121,7 @@ misdo
 misdoer
 misdoers
 misdoes
+misdoubting
 mise
 miseducates
 misemploy
@@ -14397,6 +14418,7 @@ monovular
 monseigneur
 monstera
 monstrosity
+monstrousness
 monteith
 montero
 montes
@@ -14957,6 +14979,8 @@ newt
 newwavers
 niblick
 niccolites
+nice
+nicer
 niche
 niches
 nickeling
@@ -16315,6 +16339,7 @@ paleographic
 paleographies
 paleozoologists
 paler
+palestrae
 palfrey
 palier
 palimonies
@@ -16403,6 +16428,7 @@ papillate
 papillote
 papillotes
 papisms
+papovaviruses
 pappous
 papricas
 papyrologists
@@ -16455,6 +16481,7 @@ parashahs
 parashioth
 parashot
 parasitise
+parasitisms
 parasitologist
 parasitologists
 parasol
@@ -18455,6 +18482,7 @@ pyrenes
 pyrexic
 pyric
 pyridoxin
+pyridoxines
 pyritic
 pyroclastic
 pyrogenic
@@ -18947,6 +18975,7 @@ recommendatory
 recommissioning
 recommitments
 recompensed
+recompenses
 reconceived
 reconcilable
 reconciliations
@@ -19633,6 +19662,7 @@ resultantly
 results
 resummon
 resupinate
+resupine
 resupplied
 resurfaced
 resurfacer
@@ -22023,6 +22053,7 @@ squadron
 squalene
 squalid
 squalider
+squalors
 squamate
 squamates
 squamation
@@ -22495,6 +22526,7 @@ subduce
 subduced
 subduedly
 subduers
+subdwarf
 subedited
 subeditors
 subentries
@@ -23024,6 +23056,7 @@ syndactylism
 syndactyly
 syndromic
 syne
+synecologies
 synergisms
 synergist
 syngenic
@@ -24161,6 +24194,7 @@ tsatske
 tsetses
 tsunamic
 tsuris
+tuatara
 tuatera
 tuateras
 tubas
@@ -24458,6 +24492,7 @@ unchairing
 unchairs
 unchallengeable
 unchancy
+uncharges
 uncharging
 unchecked
 unchlorinated
