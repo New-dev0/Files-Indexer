@@ -1,0 +1,4 @@
+focal-desktop-amd64.manifest - Ubuntu CDimage,https://cdimage.ubuntu.com/kubuntu/focal/daily-live/current/focal-desktop-amd64.manifest
+kubuntu-21.04-desktop-amd64.manifest - Ubuntu CDimage,http://cdimage.ubuntu.com/kubuntu/releases/21.04/release/kubuntu-21.04-desktop-amd64.manifest
+https://ftp-stud.hs-esslingen.de/Mirrors/cdimage.u...,https://ftp-stud.hs-esslingen.de/Mirrors/cdimage.ubuntu.com/kubuntu/daily-live/20220514/kinetic-desktop-amd64.manifest
+ftp.uni-kl.de/pub/linux/ubuntu-dvd/ubuntustudio/dv...,http://ftp.uni-kl.de/pub/linux/ubuntu-dvd/ubuntustudio/dvd/pending/kinetic-dvd-amd64.manifest
