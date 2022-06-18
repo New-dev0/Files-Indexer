@@ -50,6 +50,7 @@ absorbancies
 absorbant
 absorbants
 abstainers
+abstaining
 abstemiousness
 absterge
 abstinence
@@ -3032,6 +3033,7 @@ buys
 buzz
 buzzword
 buzzwords
+bwanas
 bynames
 byrled
 byroad
@@ -4580,6 +4582,7 @@ computerise
 computerising
 computerist
 computerized
+computerphobias
 comradeships
 comsymps
 concatenate
@@ -4775,6 +4778,7 @@ construction
 constructional
 constructions
 construed
+construers
 construes
 consubstantial
 consul
@@ -5683,6 +5687,7 @@ darnation
 darndest
 darnedests
 darnel
+dart
 dartboards
 darter
 dartle
@@ -5887,6 +5892,7 @@ defensed
 defenseless
 defenselessly
 defenseman
+deference
 deferrables
 deferred
 defervescences
@@ -7843,6 +7849,7 @@ eradicated
 eradicators
 erasabilities
 erase
+erasers
 ere
 erect
 erectilities
@@ -8868,6 +8875,7 @@ floriations
 floricane
 floricultures
 florid
+floridness
 floruits
 flossie
 flotillas
@@ -9077,6 +9085,7 @@ formicaries
 formicas
 forming
 formlessness
+formularizer
 formularizes
 formulator
 formulators
@@ -9617,6 +9626,7 @@ geochemists
 geocoronas
 geodesies
 geographically
+geohydrologic
 geoids
 geologic
 geologist
@@ -10537,6 +10547,7 @@ heartening
 heartfelt
 hearths
 heartsome
+heartsomely
 heatable
 heater
 heathbird
@@ -11211,6 +11222,7 @@ hypostatize
 hypotenuse
 hypothecation
 hypothermias
+hypothyroidism
 hypoxemia
 hypsometric
 hysons
@@ -11235,6 +11247,7 @@ icosahedral
 idealise
 idealism
 idealisms
+ideality
 idealized
 idealogue
 ideas
@@ -13211,6 +13224,7 @@ liquid
 liquidates
 liquidity
 liquifying
+liras
 liroth
 lissomenesses
 listable
@@ -13293,6 +13307,7 @@ locos
 locules
 locustae
 locution
+lodestar
 lodgement
 lodicules
 lofty
@@ -13732,6 +13747,7 @@ marishes
 maritime
 markedly
 market
+marketeer
 marketing
 markhoor
 markhoors
@@ -13740,6 +13756,7 @@ marlstone
 marmites
 marplot
 marplots
+marque
 marquisate
 marquisates
 marrers
@@ -14708,6 +14725,7 @@ monumental
 monuments
 monzonite
 moods
+mool
 moolah
 mooleys
 mooners
@@ -14836,6 +14854,7 @@ mozzetta
 mridangams
 muchachos
 mucho
+muckamucks
 muckier
 muckle
 mucoproteins
@@ -15459,6 +15478,7 @@ nongreen
 nonhistone
 nonhomogeneous
 nonhumans
+nonidentities
 nonimmune
 nonimportation
 nonincumbents
@@ -19227,6 +19247,7 @@ reascends
 reascent
 reassailing
 reassembling
+reasserted
 reassertions
 reassignments
 reassorting
@@ -19334,6 +19355,7 @@ recommitments
 recompensed
 recompenses
 reconceived
+reconcilability
 reconcilable
 reconciled
 reconciliations
@@ -19374,6 +19396,7 @@ recrudescences
 recruiter
 recrystallizing
 rectangular
+rectifiable
 rectification
 rectified
 rectifiers
@@ -19480,6 +19503,7 @@ reels
 reembarked
 reembraces
 reemerges
+reemerging
 reemits
 reemphasized
 reemploy
@@ -20168,6 +20192,7 @@ revitalizing
 revivalisms
 revivified
 revivifies
+revoiced
 revolute
 revolutionaries
 revulsive
@@ -21362,6 +21387,7 @@ sheen
 sheeniest
 sheening
 sheeny
+sheepcot
 sheepdog
 sheerest
 sheering
@@ -22923,6 +22949,7 @@ subchapters
 subclassify
 subclerk
 subclusters
+subcommission
 subcommunities
 subcomponents
 subconsciouses
@@ -23796,6 +23823,7 @@ tenet
 tenia
 tenias
 tennises
+tennists
 tenorites
 tenors
 tenours
@@ -24295,6 +24323,7 @@ tourmaline
 tourney
 touses
 touting
+touts
 tovarich
 towelette
 towelling
@@ -24466,6 +24495,7 @@ trepanations
 trephines
 trepidant
 treponemal
+tresses
 tressiest
 trevallies
 triacetates
@@ -25340,6 +25370,7 @@ unrobed
 unroots
 unroped
 unround
+unrounded
 unruliest
 uns
 unsaintly
@@ -25545,6 +25576,7 @@ uredinia
 ureter
 ureteric
 urge
+urgently
 urial
 urinalyses
 urinalysis
@@ -25587,6 +25619,7 @@ vacuoles
 vagabond
 vagabondism
 vagaries
+vagile
 vaguer
 valeted
 valiancy
@@ -26105,6 +26138,7 @@ washwoman
 washwomen
 wast
 wasteland
+wastewater
 wastrie
 watap
 watchable
@@ -26602,6 +26636,7 @@ xylyls
 xystoi
 yabbie
 yabby
+yachtsman
 yacked
 yags
 yahoo
