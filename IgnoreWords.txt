@@ -71,6 +71,7 @@ abused
 abusivenesses
 academicians
 academicisms
+academism
 acalephs
 acanthi
 acarologies
@@ -403,6 +404,7 @@ airbrushed
 airchecks
 airfields
 airflow
+airfreight
 airlifting
 airliner
 airpowers
@@ -440,6 +442,7 @@ albertite
 albicores
 albinisms
 albinistic
+albumens
 albumins
 alcaldes
 alchemistic
@@ -723,6 +726,7 @@ analyzations
 anankes
 anaphor
 anaphora
+anaphorically
 anaphrodisiacs
 anarch
 anarchies
@@ -1113,6 +1117,7 @@ arabizes
 araks
 arames
 arbalest
+arbiter
 arbitraged
 arbitragers
 arbitrarinesses
@@ -2402,6 +2407,7 @@ bodybuilders
 bodybuilding
 bodybuildings
 bodyguarding
+bodysurfed
 boffola
 bog
 bogeyman
@@ -2658,6 +2664,7 @@ brewery
 briarroots
 bribee
 brickbat
+bridal
 bridewells
 bridge
 bridges
@@ -3059,6 +3066,7 @@ camarillas
 camases
 camber
 cambia
+cambogias
 cambric
 camel
 cameleers
@@ -4717,6 +4725,7 @@ convey
 conveyancer
 conveyancers
 conveyances
+conveyor
 conveyorize
 conveyors
 conviction
@@ -4878,6 +4887,7 @@ coscripting
 coseismals
 cosie
 cosine
+cosmeticize
 cosmochemist
 cosmogonic
 cosmographical
@@ -4921,6 +4931,7 @@ counterchange
 counterdemand
 counterdemands
 countereffort
+counterexamples
 counterfeiting
 counterflow
 counterinstance
@@ -5200,6 +5211,7 @@ crump
 crumpet
 crumply
 crumps
+crunchinesses
 crusaded
 crusading
 crusadoes
@@ -6228,6 +6240,7 @@ dihedral
 dikdiks
 dilatancy
 dilater
+dilating
 dilation
 dilatometer
 dilatometers
@@ -7498,6 +7511,7 @@ entreated
 entreating
 entreats
 entrecotes
+entrench
 entrenched
 entropic
 entwined
@@ -8113,6 +8127,7 @@ falderol
 falderols
 fallacies
 fallaleries
+fallible
 falsely
 falsest
 falsettos
@@ -9429,6 +9444,7 @@ gimballing
 gimlets
 gimmals
 gimmick
+gimmicks
 gingeley
 gingelies
 gingelis
@@ -9964,6 +9980,7 @@ gutsiest
 guttered
 gutting
 guy
+guyots
 gybed
 gymkhana
 gymnast
@@ -10328,6 +10345,7 @@ hematomas
 hematopoietic
 hematoxylins
 hematuric
+hemelytron
 hemerythrins
 hemic
 hemicellulose
@@ -10578,6 +10596,7 @@ homestead
 homesteading
 homestretch
 homilies
+hominians
 homoeroticism
 homogenates
 homogeneities
@@ -10605,6 +10624,7 @@ homozygotes
 homozygous
 honda
 hondle
+hondled
 hondles
 honeworts
 honeybuns
@@ -12303,6 +12323,7 @@ kirigami
 kirsch
 kissed
 kissing
+kists
 kitchen
 kiths
 kitschifying
@@ -13388,6 +13409,7 @@ marshalled
 marshalship
 marshy
 mart
+martellos
 marting
 martyrize
 martyrized
@@ -14416,6 +14438,7 @@ moufflons
 moujik
 moulages
 moulded
+moulted
 moundbirds
 mounded
 mountaintops
@@ -15168,6 +15191,7 @@ nonuple
 nonurban
 nonviewers
 nonwork
+nonwoven
 nonwriters
 noodles
 nooks
@@ -18945,6 +18969,7 @@ redis
 rediscounted
 rediscover
 rediscovered
+redisposition
 redistributions
 redlined
 redliners
@@ -20152,6 +20177,7 @@ sandiest
 sanding
 sandlot
 sands
+sandstones
 sandstorm
 sandworm
 sandworms
@@ -21027,6 +21053,7 @@ sieged
 sieging
 sierras
 sifters
+siganid
 sightings
 sightless
 sightlessnesses
@@ -21467,6 +21494,7 @@ sociably
 socialises
 socialist
 socialities
+socializations
 socialize
 socializer
 socializes
@@ -22716,6 +22744,7 @@ suprarenals
 suprematist
 supremenesses
 supremest
+supremos
 sura
 sural
 suras
@@ -23587,6 +23616,7 @@ tolidins
 tollbars
 tolls
 tollways
+toluate
 toluenes
 toluole
 tomahawked
@@ -23767,6 +23797,7 @@ transacted
 transactional
 transacts
 transaxle
+transcended
 transcribers
 transcriptional
 transducer
@@ -24104,6 +24135,7 @@ turkoises
 turks
 turmoiling
 turmoils
+turnarounds
 turnbuckles
 turncoat
 turners
@@ -24316,6 +24348,7 @@ uncapped
 uncaptioned
 uncapturable
 uncase
+uncased
 uncases
 uncast
 uncataloged
@@ -24396,6 +24429,7 @@ undeciphered
 undecorated
 undefeated
 undefended
+undelegated
 underachieve
 underachieving
 underage
@@ -24656,6 +24690,7 @@ unpardonable
 unpastoral
 unpatentable
 unpegging
+unpeopled
 unperceived
 unperceptive
 unpicking
