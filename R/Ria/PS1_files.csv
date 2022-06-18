@@ -1,0 +1,6 @@
+goatlydotnet/loadposts.ps1 at master · mikegoatly ... - GitHub,https://github.com/mikegoatly/goatlydotnet/blob/master/loadposts.ps1
+functions/Remove-DbaDbRoleMember.ps1 1.0 ... - PowerShell Gallery,https://www.powershellgallery.com/packages/dbatools/1.0.162/Content/functions%255CRemove-DbaDbRoleMember.ps1
+functions/Remove-DbaFirewallRule.ps1 1.1.30 - PowerShell Gallery,https://www.powershellgallery.com/packages/dbatools/1.1.30/Content/functions%255CRemove-DbaFirewallRule.ps1
+function Invoke-Grouper2 { [CmdletBinding()] Param ( [String ...,https://raw.githubusercontent.com/S3cur3Th1sSh1t/PowerSharpPack/master/PowerSharpBinaries/Invoke-Grouper2.ps1
+https://raw.githubusercontent.com/S3cur3Th1sSh1t/P...,https://raw.githubusercontent.com/S3cur3Th1sSh1t/PowerSharpPack/master/PowerSharpPack.ps1
+Install-Product.ps1,http://distribs.portaldeassinaturas.com.br/Scripts/Install-Product.ps1
