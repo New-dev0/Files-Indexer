@@ -1263,6 +1263,7 @@ artwork
 arvo
 arvos
 arytenoids
+asbestos
 asbestosis
 ascariasis
 ascarid
@@ -3466,6 +3467,7 @@ cauterants
 cautioners
 cavaliered
 cavalry
+cavatine
 cavelike
 cavendishes
 cavilled
@@ -4388,6 +4390,7 @@ combos
 combust
 combustible
 combustibles
+comeback
 comedically
 comedown
 comedy
@@ -5890,6 +5893,7 @@ delightsome
 delime
 delimiter
 delineates
+delineation
 delineations
 deliquesced
 deliquescing
@@ -6170,6 +6174,7 @@ dewclawed
 dewfalls
 dewiest
 dewily
+dewlap
 dewool
 dewormer
 dews
@@ -7202,6 +7207,7 @@ efflorescence
 effluents
 effluvial
 effluviums
+effort
 effortfulnesses
 effrontery
 effs
@@ -7212,6 +7218,7 @@ egad
 egalitarian
 egalitarianism
 egalitarians
+egalites
 egers
 eggars
 eggnog
@@ -7807,6 +7814,7 @@ esthesis
 esthetic
 esthetician
 estimably
+estimate
 estimating
 estivator
 estivators
@@ -8017,8 +8025,10 @@ exoenzyme
 exogen
 exon
 exonerating
+exoneration
 exonic
 exonumists
+exonym
 exorbitances
 exorcising
 exoskeleton
@@ -8330,6 +8340,7 @@ fazing
 feasters
 featest
 featherbrain
+featheredges
 featherheaded
 feathering
 feathers
@@ -8521,6 +8532,7 @@ financially
 finbacks
 finch
 fineness
+finenesses
 finer
 fines
 fingerpickings
@@ -9525,6 +9537,7 @@ giantisms
 giantlike
 gibbed
 gibbering
+gibbing
 giddying
 gies
 giftednesses
@@ -10453,6 +10466,7 @@ hematics
 hematinics
 hematomas
 hematopoietic
+hematoxylin
 hematoxylins
 hematuric
 hemelytron
@@ -10652,6 +10666,7 @@ hoelike
 hog
 hogget
 hogging
+hogmenay
 hogmenays
 hogtied
 hoisted
@@ -11325,6 +11340,7 @@ incentivizes
 incepted
 inceptive
 inceptively
+incepts
 inchoateness
 inchoatives
 incinerate
@@ -12250,6 +12266,7 @@ juking
 jukus
 juleps
 julienned
+jumblers
 jumbo
 jumpers
 jumpingly
@@ -12389,6 +12406,7 @@ keynote
 keynotes
 keypad
 keypunches
+keysters
 keyword
 khaddar
 khalif
@@ -13046,6 +13064,7 @@ lithotomy
 litterbag
 litterbags
 litterer
+litterers
 littler
 littlest
 littlish
@@ -13304,6 +13323,7 @@ lymphoblast
 lymphomatoses
 lynched
 lyophilises
+lyophilizations
 lyophilizer
 lyophilizes
 lyricise
@@ -13540,6 +13560,7 @@ marlstone
 marmites
 marplot
 marplots
+marquisates
 marrers
 marrieds
 marsh
@@ -15728,6 +15749,7 @@ opticist
 optima
 optimalities
 optimization
+optimizations
 optimizers
 optimizes
 optionalities
@@ -18423,6 +18445,7 @@ puff
 puffily
 puggarees
 pugginesses
+puggish
 puggree
 puggries
 pugilist
@@ -19058,6 +19081,7 @@ recompensed
 recompenses
 reconceived
 reconcilable
+reconciled
 reconciliations
 recondenses
 recondensing
@@ -19129,6 +19153,7 @@ redefining
 redefinition
 redelivering
 redemption
+redenying
 redeployed
 redeployments
 redepositing
@@ -19810,6 +19835,7 @@ retractility
 retraction
 retransferring
 retransfers
+retransform
 retransforms
 retread
 retrials
@@ -19909,6 +19935,7 @@ rhemes
 rhenium
 rheobases
 rheometer
+rheophiles
 rhesuses
 rhetoric
 rheumatically
@@ -20090,6 +20117,7 @@ ropers
 ropewalkers
 ropewalks
 ropiest
+roque
 roqueted
 rosaceas
 roscoe
@@ -20281,6 +20309,7 @@ safety
 safranin
 safranines
 sag
+sagamores
 saganashes
 sagebrushes
 saggared
@@ -23637,6 +23666,7 @@ thorough
 thoroughly
 thoroughwort
 thorps
+thousand
 thowless
 thraldoms
 thralled
@@ -24301,6 +24331,7 @@ tubeless
 tuberculated
 tuberculoses
 tuberculous
+tubeworks
 tubfuls
 tubiform
 tubists
@@ -25796,6 +25827,7 @@ weavers
 web
 webcams
 webers
+webfed
 weblog
 webpage
 webworms
@@ -25827,6 +25859,7 @@ welterweight
 wending
 wends
 werewolves
+wergelds
 westernised
 westmost
 westward
@@ -26105,6 +26138,7 @@ workboxes
 workday
 worked
 workfares
+workforce
 workhorses
 workhour
 workhouse
@@ -26368,6 +26402,7 @@ zoantharians
 zoarium
 zocalo
 zocalos
+zoeae
 zoecia
 zombielike
 zombification
