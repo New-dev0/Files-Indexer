@@ -247,6 +247,7 @@ admissibilities
 admittance
 admix
 admonitions
+adnouns
 adolescent
 adolescents
 adopt
@@ -888,6 +889,7 @@ anticensorship
 anticholinergic
 anticivic
 anticlines
+anticommunisms
 anticorrosives
 anticyclone
 antiemetics
@@ -995,6 +997,7 @@ anviled
 anviltops
 anxiousness
 anxiousnesses
+any
 anyplace
 anywise
 aortas
@@ -1456,6 +1459,7 @@ augitic
 augurers
 auguring
 augustest
+auklets
 aunts
 aura
 auralities
@@ -1480,6 +1484,7 @@ autarkist
 authenticating
 authenticators
 authored
+authority
 autistics
 autists
 autoantibodies
@@ -2567,6 +2572,7 @@ bottlers
 bottomland
 bottomlands
 bottommost
+botulin
 botulinal
 boubou
 boudoirs
@@ -2690,6 +2696,7 @@ brecciations
 brechan
 brechans
 breechloaders
+breezed
 brents
 brethren
 brevet
@@ -3928,6 +3935,7 @@ cinerary
 cingular
 cinnabar
 cinnamony
+cinnamyls
 ciphering
 circuitousness
 circularised
@@ -4637,8 +4645,10 @@ congruousnesses
 conical
 conics
 conidiophores
+coniine
 conjectural
 conjectures
+conjoined
 conjoiner
 conjoiners
 conjugate
@@ -4701,6 +4711,7 @@ constantan
 constellating
 constituently
 constitutes
+constrainedly
 constricts
 constringe
 construction
@@ -6011,6 +6022,7 @@ depilators
 depletions
 deplore
 deplorer
+deployable
 deployers
 deployments
 depluming
@@ -6328,6 +6340,7 @@ digressively
 dihedral
 dikdiks
 dilatancy
+dilatational
 dilater
 dilating
 dilation
@@ -7859,6 +7872,7 @@ ethionines
 ethmoid
 ethmoidal
 ethnarchies
+ethnically
 ethnocentrism
 ethnographers
 ethnohistorian
@@ -10852,6 +10866,7 @@ hospitalised
 hospitalises
 hospitality
 hostelries
+hostilely
 hostility
 hostler
 hostly
@@ -11376,6 +11391,7 @@ inclipping
 incognitos
 income
 incommensurably
+incommensurate
 incommoded
 incomparable
 incompatibility
@@ -12239,6 +12255,7 @@ jouncier
 journaleses
 journaling
 journalist
+journalize
 journalizes
 journeyed
 jousting
@@ -12543,6 +12560,7 @@ kolkhozy
 kombus
 komondorock
 koodoo
+kookaburra
 kookie
 kookinesses
 kopeck
@@ -15833,6 +15851,7 @@ ornery
 ornithine
 ornithopter
 orogenetic
+orography
 orotundity
 orphanhoods
 orpiment
@@ -15925,6 +15944,7 @@ outbrags
 outbrave
 outbrazened
 outbrazening
+outbreaks
 outbribe
 outbribes
 outbuilt
@@ -16916,6 +16936,7 @@ perennated
 perennial
 perfectible
 perfects
+perforate
 perforating
 perforation
 perfumery
@@ -18338,6 +18359,7 @@ props
 proptoses
 propulsive
 propylaea
+prorated
 prorogations
 prosaisms
 prosateur
@@ -18620,6 +18642,7 @@ pyrolyses
 pyrolysis
 pyrolyze
 pyrolyzers
+pyrometrically
 pyrosises
 pyrotechnic
 pyrotechnical
@@ -18667,6 +18690,7 @@ quainter
 quake
 quaker
 quakers
+quakier
 qualitatively
 qualms
 quangos
@@ -19818,6 +19842,7 @@ retaliating
 retaliatory
 retallied
 retallies
+retally
 retarder
 retastes
 retax
@@ -19883,6 +19908,7 @@ retwist
 retyped
 retypes
 reunification
+reunions
 reunited
 reused
 reuses
@@ -20124,6 +20150,7 @@ rollings
 rollways
 romanos
 romans
+romanticization
 romanticize
 romeo
 romeos
@@ -21505,6 +21532,7 @@ slatches
 slatier
 slatiest
 slatiness
+slaughterer
 slaughtering
 slaughters
 slaved
@@ -21517,6 +21545,7 @@ slays
 sleazebag
 sleazo
 sleek
+sleekened
 sleekness
 sleeky
 sleepiest
@@ -22042,6 +22071,7 @@ spiceless
 spicery
 spicier
 spicily
+spiculae
 spicular
 spicy
 spiderweb
@@ -22263,6 +22293,7 @@ stalactitic
 stalags
 stale
 stalemated
+stalky
 stalwartnesses
 stalworths
 stamineal
@@ -23277,6 +23308,7 @@ tafferels
 tagboards
 tagliatelles
 tagrag
+tagrags
 tahsildar
 tailbacks
 tailbone
@@ -24587,6 +24619,7 @@ unadventurous
 unaesthetic
 unaffecting
 unaffordable
+unagile
 unallayed
 unambiguous
 unamended
@@ -25023,6 +25056,7 @@ unreal
 unrealized
 unreally
 unreason
+unreasoningly
 unrebuked
 unrecoverable
 unrecovered
@@ -25691,6 +25725,7 @@ vulgarised
 vulgarization
 vulgarly
 vulnerability
+vulnerableness
 vulturous
 vulvar
 vulvate

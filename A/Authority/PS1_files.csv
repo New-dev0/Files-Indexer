@@ -1,0 +1,20 @@
+Get-IssuedCertificates.ps1 1.6 - PowerShell Gallery,https://www.powershellgallery.com/packages/PKITools/1.6/Content/Get-IssuedCertificates.ps1
+Get-CertificateAuthority.ps1 1.6 - PowerShell Gallery,https://www.powershellgallery.com/packages/PKITools/1.6/Content/Get-CertificateAuthority.ps1
+Scripts/BackupCertificateAuthority.ps1 at master - GitHub,https://github.com/chrisdee/Scripts/blob/master/PowerShell/Working/certificates/BackupCertificateAuthority.ps1
+functions/get-d365exposedservice.ps1 0.5.38 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/d365fo.tools/0.5.38/Content/functions%255Cget-d365exposedservice.ps1
+https://raw.githubusercontent.com/microsoft/nav-do...,https://raw.githubusercontent.com/microsoft/nav-docker/master/generic/Run/SetupDatabase.ps1
+Untitled,https://bindplane.bluemedora.com/collectors/windows_install.ps1
+https://content.spiceworksstatic.com/service.commu...,https://content.spiceworksstatic.com/service.community/p/post_attachments/0000176684/596e1692/attached_file/Get-ActiveDirectoryUserActivity.ps1
+windows.ps1 - pinecrypt-gateway-frontend - Gitea,https://git.k-space.ee/pinecrypt/frontend/src/commit/1ea20850e90c5079bff5900b7cdc59fbacf19e4e/templates/snippets/windows.ps1
+"#Install ElasticBox Bootstrap $targetFolder = ""$env:ProgramFiles ...",https://cam.ctl.io/agent/windows/vsphere/template_customization_script.ps1
+"#Install ElasticBox Bootstrap $targetFolder = ""$env:ProgramFiles ...",https://elasticbox.com/agent/windows/cloudstack/template_customization_script.ps1
+"Start-Transcript ""C:\BootstrapSmartHotelHost_log.txt ...",https://cloudworkshop.blob.core.windows.net/line-of-business-application-migration/sept-2020/BootstrapSmartHotelHost.ps1
+https://cloudworkshop.blob.core.windows.net/line-o...,https://cloudworkshop.blob.core.windows.net/line-of-business-application-migration/BootstrapSmartHotelHost.ps1
+Get-TokenPrivs.ps1 · oooooshen/PowerShell-Suite - Gitee.com,https://gitee.com/oooooshen/PowerShell-Suite/blob/master/Get-TokenPrivs.ps1
+Framework/Helpers/SecurityCenterHelper ... - PowerShell Gallery Test,https://www.poshtestgallery.com/packages/AzSKStaging/3.10.0/Content/Framework%255CHelpers%255CSecurityCenterHelper.ps1
+Framework/Helpers/WebRequestHelper ... - PowerShell Gallery Test,https://www.poshtestgallery.com/packages/AzSKStaging/3.7.4/Content/Framework%255CHelpers%255CWebRequestHelper.ps1
+lib/ansible/modules/windows/win_whoami.ps1 - Fossies,https://fossies.org/linux/ansible/lib/ansible/modules/windows/win_whoami.ps1
+install.ps1 - buildkite/agent - Sourcegraph,https://sourcegraph.com/github.com/buildkite/agent/-/blob/install.ps1
+lib/ansible/modules/windows/win_acl.ps1 ...,https://gitlabdev.ics.muni.cz/242618/ansible/-/blob/c9a79f12b4181018172a99839b240a85c5846f02/lib/ansible/modules/windows/win_acl.ps1
+Add-AppxDevPackage.ps1 is a PowerShell script designed to install ...,https://mirrors.dotsrc.org/vlc/vlc-winrt/3.0.1/VLC.Universal_3.0.1.0_x64_Test/Add-AppDevPackage.ps1
+installabsolutelatest.ps1 - community chocolatey,https://community.chocolatey.org/InstallAbsoluteLatest.ps1
