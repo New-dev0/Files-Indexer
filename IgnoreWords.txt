@@ -786,6 +786,7 @@ angiosperm
 angler
 anglice
 anglicism
+anglicisms
 anglicization
 anglicized
 angosturas
@@ -1742,6 +1743,7 @@ bandwidth
 banefully
 bangkok
 banians
+banister
 banjaxed
 banjaxes
 bankrolled
@@ -2618,11 +2620,13 @@ bourgeon
 bourgs
 bourrides
 boutonniere
+boutonnieres
 bouzoukia
 bovine
 bowdlerised
 bowdlerising
 bowed
+bowhead
 bowheads
 bowlegged
 bowlike
@@ -2685,6 +2689,7 @@ brasher
 brashnesses
 brashy
 brasilins
+brassbound
 brasseries
 brassiest
 brattier
@@ -2997,6 +3002,7 @@ busy
 busying
 busynesses
 butanes
+butch
 butenes
 butler
 butterball
@@ -3530,6 +3536,7 @@ ceders
 cedis
 ceibas
 ceilings
+ceils
 celery
 celestite
 celestites
@@ -4229,6 +4236,7 @@ coccolith
 cochair
 cochairman
 cochairperson
+cochairpersons
 cochairwoman
 cockade
 cockamamy
@@ -5523,6 +5531,7 @@ cuttling
 cutup
 cutups
 cutwork
+cyan
 cyanamide
 cyanamides
 cyanamids
@@ -6011,6 +6020,7 @@ demits
 demiurgical
 demobilize
 demographer
+demolishment
 demonesses
 demonic
 demonisms
@@ -7737,6 +7747,7 @@ eparchy
 ephebe
 ephedras
 ephedrines
+ephemeralities
 ephemeris
 ephori
 ephors
@@ -7774,6 +7785,7 @@ epilation
 epileptically
 epilimnion
 epilogue
+epilogues
 epiloguing
 epimers
 epinasties
@@ -9359,6 +9371,7 @@ fytte
 gab
 gabardine
 gabardines
+gabbards
 gabble
 gabbler
 gabbles
@@ -10063,6 +10076,7 @@ grim
 grimacing
 grimily
 grimly
+grinds
 gringa
 gripsacks
 griskins
@@ -10132,6 +10146,7 @@ grumps
 grungy
 grunions
 gruntled
+grushie
 grutching
 gryphon
 guacamoles
@@ -10944,6 +10959,7 @@ horning
 hornist
 horologists
 horrible
+horribly
 horrid
 horrifically
 horror
@@ -13942,6 +13958,7 @@ melee
 melilots
 meliorating
 mellower
+melodic
 melodicas
 melodiously
 melodised
@@ -14461,6 +14478,7 @@ misrefers
 misregistration
 misrelated
 misrelies
+misreported
 misrepresents
 misroutes
 missaid
@@ -14521,6 +14539,7 @@ mitsvoth
 mizuna
 mizunas
 mizzenmasts
+mizzly
 moaner
 moaningly
 moat
@@ -14545,6 +14564,7 @@ modernes
 modernising
 modernly
 modernness
+modester
 modifiability
 modifications
 modistes
@@ -15493,6 +15513,7 @@ nonpasserine
 nonpasts
 nonpayment
 nonperformance
+nonperforming
 nonphonetic
 nonpliant
 nonplusses
@@ -15829,6 +15850,7 @@ olivine
 ololiuqui
 ololiuquis
 olympiads
+omasum
 omber
 ombre
 ombres
@@ -19346,6 +19368,7 @@ recoups
 recrate
 recreancy
 recreating
+recrossing
 recrowning
 recrudescences
 recruiter
@@ -20058,6 +20081,7 @@ retinacula
 retine
 retinites
 retinitides
+retinoblastomas
 retinoid
 retinting
 retinue
@@ -21480,6 +21504,7 @@ shrivelling
 shriven
 shroffs
 shroud
+shrublands
 shrubs
 shrunk
 shrunken
@@ -21647,6 +21672,7 @@ sixty
 siziness
 sizzler
 skaldship
+skankier
 skater
 skedaddling
 skeens
@@ -21821,6 +21847,7 @@ sluggardness
 slugged
 sluggishly
 sluggishness
+sluicing
 sluicy
 slumbering
 slumberous
@@ -22610,6 +22637,7 @@ stemware
 stenchier
 stencilling
 stencils
+stenographer
 stenographies
 stenography
 stenosis
@@ -23948,6 +23976,7 @@ thorough
 thoroughly
 thoroughwort
 thorps
+thoued
 thousand
 thowless
 thraldoms
@@ -24751,6 +24780,7 @@ twofold
 twoonies
 twosome
 tyin
+tying
 tyke
 tympanic
 tympanist
@@ -25103,6 +25133,7 @@ unestablished
 unevener
 unevenly
 uneventful
+unexceptionably
 unexotic
 unfairer
 unfaith
@@ -25835,6 +25866,7 @@ virion
 virologic
 virtu
 virtueless
+virtues
 virtuose
 virtuosities
 virtuosity
@@ -25906,6 +25938,7 @@ voguers
 voguishly
 voicefulness
 voiceover
+void
 volante
 volatilizations
 volatilize
@@ -26006,6 +26039,7 @@ waits
 wakeboards
 wakefulness
 waken
+wakening
 wakes
 walkabout
 walkabouts
@@ -26593,6 +26627,7 @@ yawed
 yawl
 yawn
 yawners
+ycleped
 yclept
 yeaning
 yearbook
