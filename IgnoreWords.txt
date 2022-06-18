@@ -321,6 +321,7 @@ affirmatively
 affirmer
 affixal
 affixtures
+afflicters
 affordable
 afforests
 affraying
@@ -763,6 +764,7 @@ angler
 anglice
 anglicism
 anglicization
+anglicized
 angosturas
 angrinesses
 angry
@@ -2374,6 +2376,7 @@ boardlike
 boarfish
 boarhound
 boas
+boasting
 boatbuilding
 boated
 boatnecks
@@ -2441,6 +2444,7 @@ bonefishes
 bonefishing
 bonehead
 boneset
+bongo
 bongoes
 bonitas
 bonnocks
@@ -2583,6 +2587,7 @@ brainpan
 brainpans
 brainwash
 brakemen
+brambled
 branchia
 branchier
 branching
@@ -3080,6 +3085,7 @@ candider
 candidnesses
 candies
 candlelighter
+candlesnuffers
 candlestick
 candlesticks
 candlewoods
@@ -4516,6 +4522,7 @@ confusednesses
 congas
 conge
 congealed
+congealer
 congealments
 congelation
 congenial
@@ -4824,6 +4831,7 @@ correctors
 correlatives
 correlators
 correspondence
+corridas
 corrigibility
 corrivals
 corroborant
@@ -5065,6 +5073,7 @@ crescendi
 crescents
 crest
 crestal
+crestings
 crests
 cretinism
 crevice
@@ -5412,6 +5421,7 @@ cytotaxonomic
 cytotaxonomy
 cytotoxins
 czarevna
+czarists
 czaritzas
 dachas
 dacoit
@@ -5988,6 +5998,7 @@ despising
 despiting
 despoiler
 despoliation
+despumate
 destitute
 destituteness
 destitution
@@ -7295,6 +7306,7 @@ enchasing
 encipherer
 enciphers
 enclasped
+enclave
 encomiast
 encomium
 encompassment
@@ -7900,6 +7912,7 @@ exoticism
 exoticist
 exoticnesses
 expanded
+expanding
 expands
 expatiate
 expedience
@@ -8220,6 +8233,7 @@ federative
 feds
 feedgrains
 feedlot
+feeds
 feeling
 feelings
 feeze
@@ -8280,6 +8294,7 @@ ferrocyanides
 ferromagnetic
 ferromagnetisms
 ferromanganese
+ferromanganeses
 ferrosilicons
 ferruginous
 ferrying
@@ -8560,6 +8575,7 @@ flimsy
 fling
 flinging
 flinted
+flintiest
 flintiness
 flite
 flited
@@ -9016,6 +9032,7 @@ fulcrums
 fulfil
 fulfills
 fulfilments
+fulfils
 fulgent
 fulgurated
 fulgurates
@@ -9687,6 +9704,7 @@ graphitized
 graphs
 grapier
 grapline
+grapy
 grassless
 grassy
 grated
@@ -9924,6 +9942,7 @@ gybed
 gymkhana
 gymnast
 gynaecia
+gynaecium
 gynaecologies
 gynandromorphy
 gynecocratic
@@ -10990,6 +11009,7 @@ immunoblots
 immunochemical
 immunochemistry
 immunodeficient
+immunogenetics
 immunologist
 immunology
 immunotherapy
@@ -11083,6 +11103,7 @@ improvisers
 improvs
 impugn
 impugned
+impugning
 impulsion
 impulsiveness
 imputably
@@ -11674,6 +11695,7 @@ invaliding
 invalidisms
 invalidity
 invariable
+invasivenesses
 invected
 inveighing
 inveiglements
@@ -12753,6 +12775,7 @@ limns
 limonitic
 limpest
 limpet
+limpid
 limpidnesses
 limpsiest
 limulus
@@ -15231,6 +15254,7 @@ objectivity
 objects
 objets
 objurgates
+oblast
 oblasts
 oblate
 oblateness
@@ -15354,6 +15378,7 @@ ogresses
 ohed
 ohm
 ohmages
+oidioid
 oilcups
 oiling
 oilman
@@ -15505,6 +15530,7 @@ ordonnances
 oreodonts
 organa
 organelles
+organically
 organicities
 organise
 organised
@@ -19598,6 +19624,7 @@ reweaves
 rewed
 reweighed
 reweighing
+reweld
 rewetted
 rewiden
 rewires
@@ -19840,6 +19867,7 @@ roundsmen
 roundtable
 roundtables
 roundtrip
+roundtrips
 roundup
 rousements
 rousingly
@@ -20486,6 +20514,7 @@ seine
 seined
 seining
 seise
+seism
 seismological
 seisms
 seizers
@@ -21428,6 +21457,7 @@ solidity
 solifluction
 soliloquies
 solion
+solions
 solipsistically
 solipsists
 solitaries
@@ -22867,6 +22897,7 @@ tacnode
 taco
 taconite
 tact
+tactics
 taction
 tactlessness
 tacts
@@ -23097,6 +23128,7 @@ tempter
 tenaculum
 tenailles
 tenantries
+tenants
 tench
 tendance
 tendencies
@@ -24159,6 +24191,7 @@ unabusive
 unacademic
 unaccented
 unactorish
+unadeptly
 unadventurous
 unaesthetic
 unaffecting
@@ -24992,6 +25025,7 @@ venting
 ventricular
 ventriculus
 ventriloquism
+venturousness
 venule
 venules
 vera
@@ -25296,6 +25330,7 @@ wakefulness
 wakes
 walkabout
 walkabouts
+walkingstick
 walkover
 walkways
 wallopings
