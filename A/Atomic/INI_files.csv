@@ -1,0 +1,9 @@
+atomic/tox.ini at master · mitre/atomic - GitHub,https://github.com/mitre/atomic/blob/master/tox.ini
+slicers/Atomic PLA.ini at master · railcore/slicers · GitHub,https://github.com/railcore/slicers/blob/master/KISS/_materials/Atomic%2520PLA.ini
+tests/quick/se/02.insttest/ref/riscv/linux-rv64d/simple-atomic/config.ini,https://gem5.googlesource.com/public/gem5/%2B/cc076757e1471b1080df5c5a0130d96b9c35fb2f/tests/quick/se/02.insttest/ref/riscv/linux-rv64d/simple-atomic/config.ini
+[DEFAULT] outputdir = # workdir = # srcdir = os.path.join(os.path ...,http://mirror.centos.org/centos/7/atomic/x86_64/repo/config.ini
+svn.apache.org/repos/asf/planet/committers.ini?p=8...,http://svn.apache.org/repos/asf/planet/committers.ini%3Fp%3D820841
+versioningit/tox.ini at master - GitHub,https://api.mtr.pub/jwodder/versioningit/blob/master/tox.ini
+tox-podman.ini · stable-4.0 · tang liyu / ceph-ansible · GitLab,https://git.ustc.edu.cn/tlyrics/ceph-ansible/-/blob/stable-4.0/tox-podman.ini
+[DEFAULT] outputdir = /home/fedora/workstation-ostree-config ...,https://kojipkgs.fedoraproject.org/compose//branched/Fedora-36-20220425.n.0/work/ostree-6/config_repo/config.ini
+fscacher/tox.ini at master · con/fscacher · GitHub,http://47.57.228.104/con/fscacher/blob/master/tox.ini

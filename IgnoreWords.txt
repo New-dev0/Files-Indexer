@@ -124,6 +124,7 @@ accreditations
 accredited
 accruable
 accruals
+accrue
 accruement
 accumulators
 accurateness
@@ -247,6 +248,7 @@ adjunctive
 adjuration
 adjutant
 adjutants
+adman
 admeasuring
 administrable
 administrants
@@ -1433,6 +1435,7 @@ ataractic
 ataraxics
 ataraxy
 ataxias
+atelectasis
 atemporal
 atenolol
 atherogenic
@@ -1444,6 +1447,7 @@ athwartship
 atlantes
 atlatl
 atmospherically
+atomic
 atomies
 atomistic
 atomizations
@@ -2958,6 +2962,7 @@ bucktoothed
 budder
 buddied
 buddings
+buddleia
 budger
 budgetary
 budless
@@ -4172,6 +4177,7 @@ classicalities
 classicists
 classico
 classiest
+classification
 classifications
 classing
 classists
@@ -4930,6 +4936,7 @@ contentednesses
 contentiously
 conterminously
 contes
+contestants
 contextures
 continently
 contingencies
@@ -6562,8 +6569,10 @@ digamies
 digamma
 digenesis
 digestible
+digitalins
 digitally
 digitately
+digitize
 digitoxigenins
 digitoxins
 diglot
@@ -6692,6 +6701,7 @@ disassociated
 disassociations
 disaster
 disavow
+disavowing
 disbanding
 disbelieves
 disbosom
@@ -6935,6 +6945,7 @@ diversifiers
 diversifies
 diversity
 diverted
+diverter
 diverticulosis
 divertimentos
 diverting
@@ -7444,6 +7455,7 @@ ectoplasms
 ectype
 ecumenically
 ecumenicism
+ecumenicities
 ecumenicity
 ecumenism
 ecumenist
@@ -11210,6 +11222,7 @@ horniest
 horninesses
 horning
 hornist
+hornworm
 horologists
 horrible
 horribly
@@ -11353,6 +11366,7 @@ hybridoma
 hydathodes
 hydralazines
 hydranths
+hydrastis
 hydrator
 hydraulics
 hydrazide
@@ -12131,6 +12145,7 @@ insulin
 insulter
 insupportable
 insurability
+insurances
 inswathe
 intake
 intangibilities
@@ -12596,6 +12611,7 @@ jazzman
 jazzmen
 jazzy
 jealousness
+jeer
 jeers
 jefe
 jejuneness
@@ -13088,6 +13104,7 @@ lakes
 lakeshore
 lakier
 lam
+lambasted
 lambda
 lambdoid
 lambencies
@@ -13722,6 +13739,7 @@ lowlanders
 lowlifer
 lowlights
 lowrider
+loxodrome
 loxodromes
 loyaler
 loyalest
@@ -15012,6 +15030,7 @@ mononucleoses
 monophagies
 monophonically
 monophthongs
+monophylies
 monoplanes
 monopode
 monopody
@@ -15965,6 +15984,7 @@ nother
 nothing
 nothingnesses
 notices
+notifying
 notionality
 notochordal
 nounless
@@ -16040,6 +16060,7 @@ obdurately
 obdurateness
 obeah
 obeahism
+obeahisms
 obeli
 obelisks
 obelisms
@@ -19353,6 +19374,7 @@ quaternaries
 quayage
 qubytes
 queenliness
+queenly
 queenside
 queerish
 queernesses
@@ -19504,6 +19526,7 @@ rainproof
 rainspouts
 raised
 raisers
+raita
 rajahs
 raked
 rakehell
@@ -19717,6 +19740,7 @@ recalls
 recanalization
 recanalized
 recanalizes
+recanes
 recanter
 recanting
 recapitulated
@@ -20249,6 +20273,7 @@ renegers
 renegotiable
 renests
 renewer
+rennase
 rennin
 renotifies
 renotify
@@ -21188,6 +21213,7 @@ saplessnesses
 sapodilla
 saponaceousness
 saponated
+saponification
 saponifier
 saponine
 saponins
@@ -22172,6 +22198,7 @@ sinusoid
 sipe
 siphon
 siphonage
+siphonal
 sippers
 sirdars
 siring
@@ -22198,6 +22225,7 @@ skaldship
 skankier
 skater
 skedaddling
+skeed
 skeens
 skeets
 skeining
@@ -22545,6 +22573,7 @@ socializations
 socialize
 socializer
 socializes
+societally
 socioeconomic
 sociolinguistic
 sociometry
@@ -22635,6 +22664,7 @@ songwriters
 sonicate
 sonicated
 sonicates
+sonication
 sonneteering
 sonneteers
 sonobuoy
@@ -23382,6 +23412,7 @@ striped
 stripeless
 stript
 stripy
+strive
 strobes
 strobila
 strobilae
@@ -23398,6 +23429,7 @@ strongman
 stropped
 stroppers
 strops
+strouds
 strowing
 stroyer
 struck
@@ -24921,6 +24953,7 @@ tradable
 trade
 tradeable
 tradecraft
+trademarked
 traditional
 traditor
 traducements
@@ -25134,6 +25167,7 @@ trinketed
 trinketries
 trinocular
 triode
+trios
 trioxid
 trioxids
 tripacks
@@ -25542,6 +25576,7 @@ uncatchy
 uncaused
 uncertainnesses
 unchain
+unchained
 unchair
 unchairing
 unchairs
