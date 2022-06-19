@@ -1479,6 +1479,7 @@ audiles
 audiobook
 audiocassette
 audiocassettes
+audiologic
 audiology
 audiometric
 auditees
@@ -1559,6 +1560,7 @@ ave
 avellane
 avenger
 avenging
+aventurine
 averments
 averse
 averseness
@@ -2597,6 +2599,7 @@ booties
 booting
 bootlick
 bootlickers
+booty
 boozily
 bop
 bopeep
@@ -3188,6 +3191,7 @@ calumniously
 calvarias
 calycle
 calypsos
+calypters
 calzone
 camailed
 camarillas
@@ -4359,6 +4363,7 @@ cofounder
 cofounders
 cogged
 cogitable
+cogitated
 cogitates
 cognac
 cognate
@@ -5261,6 +5266,7 @@ cravened
 craver
 cravings
 crawfishes
+crawled
 crawling
 crawls
 craws
@@ -7462,6 +7468,7 @@ electroacoustic
 electroanalysis
 electrocuted
 electrodeposits
+electrodialytic
 electroform
 electrogenic
 electrogram
@@ -9377,6 +9384,7 @@ frugs
 fruitage
 fruiters
 fruitfuller
+fruitfulness
 fruitier
 fruiting
 fruition
@@ -10022,6 +10030,7 @@ goopiest
 goos
 goose
 gooseberries
+goosegrasses
 gooseherds
 gorbellies
 gorcock
@@ -11388,6 +11397,7 @@ ideologizes
 ides
 idiom
 idiomatically
+idiotical
 idiotypes
 idle
 idler
@@ -13644,6 +13654,7 @@ lustring
 lustrum
 lusty
 luteal
+lutefisk
 lutein
 luteotrophins
 luteotropic
@@ -14333,6 +14344,7 @@ microelements
 microfarads
 microfauna
 microfiches
+microfilmed
 microflorae
 microforms
 microfossils
@@ -14876,6 +14888,7 @@ monotonically
 monovular
 monseigneur
 monstera
+monstrosities
 monstrosity
 monstrousness
 monteith
@@ -16303,6 +16316,7 @@ outblooming
 outblooms
 outbluffed
 outbluffs
+outboasts
 outbrags
 outbrave
 outbrazened
@@ -16576,6 +16590,7 @@ overenrolled
 overentertained
 overestimated
 overestimates
+overestimations
 overevaluations
 overexertions
 overexpectation
@@ -16708,6 +16723,7 @@ oversweetens
 overtalk
 overtalkative
 overtalking
+overtax
 overteach
 overteaching
 overthick
@@ -18359,6 +18375,7 @@ precocity
 precommitment
 preconizes
 preconizing
+preconstructed
 precooked
 precooking
 precools
@@ -18798,6 +18815,7 @@ prostate
 prostatectomies
 prostatism
 prosthodontics
+prostitute
 prostrate
 prostrations
 protamines
@@ -19528,6 +19546,7 @@ recheats
 rechecked
 rechoosing
 rechose
+reciprocating
 reciprocities
 recirculating
 recirculations
@@ -19889,6 +19908,7 @@ reincarnate
 reincarnates
 reincarnations
 reindustrialize
+reined
 reinfection
 reinfestation
 reinflames
@@ -19900,6 +19920,7 @@ reinless
 reinoculates
 reinoculating
 reinoculation
+reinspected
 reinspecting
 reinspire
 reinstates
@@ -21139,6 +21160,7 @@ schticks
 schuss
 schussboomer
 schussboomers
+schusser
 sciatica
 sciaticas
 sciential
@@ -21514,6 +21536,7 @@ seronegativity
 serosas
 serosity
 serotine
+serovars
 serpentinely
 serpents
 serpiginous
@@ -22336,6 +22359,7 @@ solei
 solemnify
 solemnization
 solemnizations
+solemnized
 solemnnesses
 soleplate
 soleprint
@@ -22818,6 +22842,7 @@ stalworths
 stamineal
 staminodia
 staminodies
+stammer
 stammerers
 stamp
 stampeding
@@ -23280,6 +23305,7 @@ sublimate
 sublimely
 subliminally
 subliming
+sublimits
 sublimity
 sublingual
 subliterature
@@ -23305,6 +23331,7 @@ suborn
 suboxide
 subparallel
 subphase
+subpoena
 subpopulations
 subprograms
 subprojects
@@ -24551,6 +24578,7 @@ toponymists
 topos
 topped
 toppr
+topsides
 topsoiling
 toras
 torchy
@@ -25164,6 +25192,7 @@ ultramontanism
 ultrarare
 ultrararefied
 ultrared
+ultraromantic
 ultraroyalist
 ultrasharp
 ultrasmall
@@ -25796,6 +25825,7 @@ unyoung
 upbears
 upbeat
 upboiled
+upboiling
 upbound
 upbow
 upbraid
@@ -26045,6 +26075,7 @@ veneered
 veneers
 venenes
 venerably
+venerates
 venerations
 venerator
 venesection
@@ -26166,6 +26197,7 @@ videolands
 videotexes
 videttes
 viewiest
+viewy
 vigilante
 vigilantisms
 vignerons
@@ -26389,6 +26421,7 @@ walkabouts
 walkingstick
 walkover
 walkways
+walleye
 wallopings
 wallops
 wallpaper
@@ -26499,6 +26532,7 @@ weakliest
 weaklings
 wealds
 wealthier
+weaponed
 weaponizes
 weaponry
 wearable
@@ -26679,6 +26713,7 @@ willie
 willingly
 williwaw
 willy
+wimpish
 wimpling
 wince
 winced
