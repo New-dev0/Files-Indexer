@@ -76,6 +76,7 @@ academicisms
 academism
 acalephs
 acanthi
+acarboses
 acaridans
 acarologies
 acceded
@@ -87,6 +88,7 @@ accentuation
 accept
 acceptability
 acceptable
+acceptance
 accepter
 accessible
 accessibly
@@ -941,6 +943,7 @@ antikings
 antileft
 antileprosy
 antilibertarian
+antilife
 antilogarithms
 antilynching
 antimacassars
@@ -1555,6 +1558,7 @@ autophytes
 autopsied
 autoradiogram
 autosuggested
+autotetraploidy
 autotomic
 autumn
 autunites
@@ -1614,6 +1618,7 @@ axiological
 axiologies
 axiomatically
 axisymmetry
+axites
 axseed
 ay
 ays
@@ -2316,6 +2321,7 @@ birefringent
 birkies
 birlers
 birthed
+birthings
 birthmark
 birthplace
 birthplaces
@@ -2764,6 +2770,7 @@ breadwinning
 breakages
 breakfast
 breakfaster
+breakup
 breakwater
 breastfeed
 breastpins
@@ -3573,6 +3580,7 @@ caused
 causeless
 causerie
 causers
+causewayed
 causey
 causeys
 cauterants
@@ -4430,6 +4438,7 @@ colemanite
 coleoptera
 coleopterists
 coleus
+colewort
 coleworts
 colicines
 colicky
@@ -4459,6 +4468,7 @@ collide
 collides
 colliding
 collier
+collieshangies
 collimations
 collinsias
 collocational
@@ -4720,6 +4730,7 @@ conferval
 confervas
 confessed
 confessionally
+confessionals
 confessors
 confidantes
 confident
@@ -5332,6 +5343,7 @@ crest
 crestal
 crestings
 crests
+cresyls
 cretinism
 crevice
 crewmate
@@ -8035,6 +8047,7 @@ essayer
 essentialities
 essentialnesses
 establish
+established
 establishment
 estaminets
 estates
@@ -8991,6 +9004,7 @@ floosie
 flophouse
 flopover
 floppers
+floppiness
 floras
 floriated
 floriations
@@ -10886,6 +10900,7 @@ hey
 heydey
 heydeys
 hiatus
+hiatuses
 hibernates
 hick
 hidden
@@ -11259,6 +11274,7 @@ hydraulics
 hydrazide
 hydrazines
 hydrid
+hydride
 hydrocarbons
 hydrocracked
 hydrocrackings
@@ -11417,6 +11433,7 @@ idiotical
 idiotypes
 idle
 idler
+idol
 idolatrousness
 idolize
 ids
@@ -12003,8 +12020,10 @@ inspectors
 inspects
 inspiration
 installs
+instances
 instated
 instauration
+insteps
 instigate
 instillers
 institutes
@@ -12273,6 +12292,7 @@ inwinding
 inwove
 iodate
 iodations
+iodin
 iodinates
 iodine
 iodizers
@@ -14963,6 +14983,7 @@ morn
 moronically
 moronity
 morose
+moroseness
 morphinic
 morphins
 morphogenic
@@ -16315,6 +16336,7 @@ ottavas
 ouabain
 ouch
 oughted
+ouistiti
 ouph
 ourang
 ourari
@@ -16727,6 +16749,7 @@ oversimplified
 oversimplifies
 overskirt
 overslipping
+overspeculate
 overspenders
 overspending
 overspins
@@ -16786,6 +16809,7 @@ oxeye
 oxidant
 oxidate
 oxidations
+oxidative
 oxides
 oxidizers
 oximetry
@@ -18930,6 +18954,7 @@ psychosynthesis
 psychotherapies
 psychotherapist
 psychotropic
+psychotropics
 psylliums
 pteranodon
 pteridological
@@ -20617,6 +20642,7 @@ rivaled
 riverbank
 riverbeds
 riverweeds
+riveted
 rivetted
 rivieras
 rivulets
@@ -21105,6 +21131,7 @@ scallywags
 scaloppine
 scalpels
 scalpers
+scalps
 scammed
 scamped
 scamperers
@@ -21427,6 +21454,7 @@ sellable
 sellotaping
 sellout
 seltzers
+semainiers
 semanticists
 semantics
 semaphoring
@@ -22486,6 +22514,7 @@ sorrier
 sorrowfulness
 sortied
 soteriology
+sotol
 sotols
 soubrettes
 souchongs
@@ -22919,6 +22948,7 @@ station
 stational
 statistically
 statocysts
+statuesque
 statuesquely
 statutable
 statutory
@@ -22960,6 +22990,7 @@ steerers
 steers
 steeves
 steeving
+stegosauruses
 stelene
 steles
 stelic
@@ -23204,6 +23235,7 @@ stubbier
 stubblier
 stubborn
 stuccoer
+stuccoes
 stuccoworks
 stud
 studiers
@@ -24180,6 +24212,7 @@ tephrites
 tepoy
 terabyte
 teraohm
+teratisms
 teratogenicity
 teratogens
 teratologist
@@ -24621,6 +24654,7 @@ torosity
 torpedoes
 torpor
 torquers
+torrid
 torsi
 torso
 torsos
@@ -26524,6 +26558,7 @@ watchable
 watchband
 watchdogged
 watches
+watchfulnesses
 watchman
 waterages
 watercooler
