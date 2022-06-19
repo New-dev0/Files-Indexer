@@ -1,0 +1,9 @@
+Stemming without a lexicon (Porter),http://faculty.cs.niu.edu/~freedman/657/porter.txt
+PorterStemmer in Java - Tartarus,https://tartarus.org/martin/PorterStemmer/java.txt
+An algorithm for suffix stripping - Tartarus,https://tartarus.org/martin/PorterStemmer/def.txt
+morfologik-stemming/README.txt at master - GitHub,https://github.com/morfologik/morfologik-stemming/blob/master/README.txt
+morfologik-stemming/CHANGES.txt at master - GitHub,https://github.com/morfologik/morfologik-stemming/blob/master/CHANGES.txt
+kstem-doc.txt - Lexical Research,http://lexicalresearch.com/kstem-doc.txt
+harj1.txt,https://www.cs.helsinki.fi/group/doremi/courses/ir08/harj1.txt
+"Stemming, variations, and accent folding ...",http://eggs.galaxyproject.org/Whoosh/Whoosh-2.4.1/docs/build/html/_sources/stemming.txt
+lucene/licenses/morfologik-stemming-NOTICE.txt ... - ANU GitLab,https://gitlab.cecs.anu.edu.au/tsujamin/lucene-solr/-/blob/6849fe328687d3677e924549860e93b7e2b71e3a/lucene/licenses/morfologik-stemming-NOTICE.txt
