@@ -1,0 +1,13 @@
+meta-intel-edison/edison-image-edison.manifest at master - GitHub,https://github.com/edison-fw/meta-intel-edison/blob/master/docs/edison-image-edison.manifest
+openwrt/Packages.manifest at master - GitHub,https://github.com/Edragon/openwrt/blob/master/JS9331/AR9331-1/firmware/IPK%2520packages/packages/mips_24kc/base/Packages.manifest
+https://165.227.188.234/yocto/yocto/yocto-3.4.1/ma...,https://165.227.188.234/yocto/yocto/yocto-3.4.1/machines/genericx86-alt/core-image-full-cmdline-genericx86-20211130000350.rootfs.manifest
+https://downloads.openwrt.org/releases/18.06.1/tar...,https://downloads.openwrt.org/releases/18.06.1/targets/ramips/mt7620/packages/Packages.manifest
+https://downloads.openwrt.org/releases/18.06.9/pac...,https://downloads.openwrt.org/releases/18.06.9/packages/arm_arm1176jzf-s_vfp/telephony/Packages.manifest
+https://mgmt.saar.freifunk.net/openwrt/releases/18...,https://mgmt.saar.freifunk.net/openwrt/releases/18.06.8/targets/ipq806x/generic/packages/Packages.manifest
+https://mgmt.saar.freifunk.net/openwrt/snapshots/t...,https://mgmt.saar.freifunk.net/openwrt/snapshots/targets/bcm27xx/bcm2711/kmods/5.10.82-1-cae79ca9e99fa6837d4a3aefc9768088/Packages.manifest
+https://downloads.asu.aparcar.org/immortalwrt/targ...,https://downloads.asu.aparcar.org/immortalwrt/targets/ar71xx/generic/packages/Packages.manifest
+https://qtest.cc/releases/17.01.2/targets/x86/gene...,https://qtest.cc/releases/17.01.2/targets/x86/generic/packages/Packages.manifest
+Packages.manifest - PandoraBox,http://downloads.pangubox.com:6380/pandorabox/19.02/targets/qualcomm/ipq806x/packages/Packages.manifest
+https://usingpro.com/releases/packages-17.01/arm_c...,https://usingpro.com/releases/packages-17.01/arm_cortex-a9/base/Packages.manifest
+https://downloads.lede-project.org/snapshots/targe...,https://downloads.lede-project.org/snapshots/targets/imx6/generic/packages/Packages.manifest
+https://downloads.lede-project.org/snapshots/targe...,https://downloads.lede-project.org/snapshots/targets/lantiq/xway/packages/Packages.manifest

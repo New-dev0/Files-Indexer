@@ -115,6 +115,7 @@ accordance
 accorded
 accountant
 accountants
+accountings
 accreditations
 accredited
 accruable
@@ -716,6 +717,7 @@ amylogen
 amyloidosis
 amyloids
 amyloplasts
+amylose
 amyloses
 amyls
 anabatic
@@ -2455,6 +2457,7 @@ bluffers
 bluffs
 blumed
 blunderbusses
+blunge
 blunged
 blunger
 blungers
@@ -3502,6 +3505,7 @@ catenates
 cater
 catercorner
 caterer
+catharsis
 cathect
 cathects
 cathedra
@@ -3528,6 +3532,7 @@ cauliflowers
 cauline
 causable
 causalgia
+causalgic
 causally
 causation
 caused
@@ -5547,6 +5552,7 @@ customizes
 customs
 customshouse
 cutability
+cutaneous
 cutback
 cutches
 cutdowns
@@ -5571,6 +5577,7 @@ cyanin
 cyanins
 cyanite
 cyanoacrylates
+cyanocobalamin
 cyanocobalamine
 cyanogeneses
 cyanogenic
@@ -6788,6 +6795,7 @@ disulfoton
 disuse
 disuses
 dit
+ditchdigger
 ditchdiggers
 ditchers
 ditsinesses
@@ -8868,6 +8876,7 @@ flights
 flimflammers
 flimflammery
 flimsier
+flimsies
 flimsinesses
 flimsy
 fling
@@ -8899,6 +8908,7 @@ floodlighting
 floodplain
 floodtides
 floorshow
+floorshows
 floosie
 flophouse
 flopover
@@ -9464,6 +9474,7 @@ gallicized
 gallipot
 gallivanted
 galliwasp
+gallnuts
 gallons
 galloons
 galloper
@@ -9824,6 +9835,7 @@ gloaters
 globalizes
 globbiest
 globefish
+globelike
 globose
 gloggs
 glom
@@ -10258,6 +10270,7 @@ gummite
 gummoses
 gummosis
 gummy
+gumptions
 gumptious
 gumtree
 gumweeds
@@ -10617,6 +10630,7 @@ hegemons
 height
 heinously
 heired
+heishi
 heister
 helicity
 helicoidal
@@ -10674,6 +10688,7 @@ hemorrhaging
 hemostasis
 hempen
 hempier
+hempseeds
 hems
 henge
 heniquens
@@ -11029,6 +11044,7 @@ hosiers
 hospitalised
 hospitalises
 hospitality
+hosteller
 hostelries
 hostilely
 hostility
@@ -11340,6 +11356,7 @@ illumines
 illuminism
 illusionism
 illusionisms
+illusionistic
 illusive
 illusory
 illustrations
@@ -13746,6 +13763,7 @@ mannishly
 mannishness
 mannishnesses
 mannite
+mannoses
 manoeuvres
 manometries
 manque
@@ -13837,6 +13855,7 @@ masher
 masjids
 masochistically
 masoned
+masquerading
 mass
 massa
 massacre
@@ -16049,6 +16068,7 @@ orchestraters
 orchestrating
 orchestrators
 orchil
+orcinol
 order
 orderless
 ordinaries
@@ -16363,6 +16383,7 @@ outsulked
 outsworn
 outtalked
 outthanked
+outthinks
 outtowering
 outtrick
 outvie
@@ -17535,6 +17556,7 @@ picketboat
 picketer
 pickinesses
 pickled
+pickles
 picolin
 picomole
 picoting
@@ -17660,6 +17682,7 @@ piroplasmata
 piroques
 piscine
 piscivore
+pishogue
 pisiforms
 pistareens
 pistolling
@@ -18491,6 +18514,7 @@ printmakings
 prioritizations
 priority
 prise
+prised
 prisere
 prises
 prismatic
@@ -19506,6 +19530,7 @@ redefining
 redefinition
 redelivering
 redemption
+redenies
 redenying
 redeployed
 redeployments
@@ -21109,6 +21134,7 @@ scuppered
 scurfy
 scurrying
 scurviest
+scutched
 scute
 scuts
 scuttering
@@ -21392,6 +21418,7 @@ sewed
 sewer
 sex
 sexagenarians
+sexes
 sexinesses
 sexlessly
 sexologist
@@ -21429,6 +21456,7 @@ shaken
 shakiest
 shakiness
 shako
+shamanic
 shamble
 shameable
 shammed
@@ -23262,6 +23290,7 @@ sulfuring
 sulfurized
 sulfurousnesses
 sulfuryls
+sulkiest
 sully
 sulphides
 sulphurise
@@ -23363,6 +23392,7 @@ superorganism
 superorganisms
 superorgasm
 superphosphates
+superplane
 superplasticity
 superpolite
 superposes
@@ -24163,6 +24193,7 @@ thyratrons
 thyristor
 thyroiditises
 thyroids
+thyrotrophin
 tiara
 tiaras
 tibiae
@@ -24351,6 +24382,7 @@ topcross
 tope
 toped
 toper
+topes
 topful
 tophe
 topics
@@ -25340,6 +25372,7 @@ unionise
 unionism
 unionized
 unionizers
+unions
 unipods
 unipotent
 unique
@@ -25623,6 +25656,7 @@ uphoarded
 uphoards
 uphold
 uphroe
+uplanders
 upleapt
 uplinking
 uppers
@@ -26034,6 +26068,7 @@ vitalistic
 vitalists
 vitality
 vitals
+vitamines
 vitamins
 vitellin
 vitiate
