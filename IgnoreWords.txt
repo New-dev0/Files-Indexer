@@ -70,6 +70,7 @@ abuilding
 abundant
 abusable
 abused
+abusers
 abusivenesses
 abuttal
 academicians
@@ -378,6 +379,7 @@ ageisms
 ageist
 agelessnesses
 agendas
+agenizing
 agential
 agentings
 agers
@@ -2405,6 +2407,7 @@ blacksmithings
 blacksmiths
 blackthorn
 blacktop
+blacktopped
 bladdery
 bladed
 bladeless
@@ -5164,6 +5167,7 @@ corticotrophin
 cortisone
 corulers
 corundums
+corvids
 corvinas
 corybantes
 corymb
@@ -5308,6 +5312,7 @@ cracknel
 cradler
 cradles
 craftiest
+craftily
 craftinesses
 crafting
 craftsmanships
@@ -5332,6 +5337,7 @@ crankle
 crankles
 crannoges
 cranreuch
+crappiest
 crassness
 crassnesses
 cratch
@@ -5610,6 +5616,7 @@ cunning
 cunningnesses
 cupboard
 cupferron
+cupidity
 cupolas
 cuppa
 cuprous
@@ -6187,6 +6194,7 @@ demises
 demissions
 demits
 demiurgical
+demob
 demobilize
 demographer
 demographic
@@ -6341,6 +6349,7 @@ descry
 descrying
 desecrations
 desegregated
+desegregates
 desensitization
 desensitized
 desensitizes
@@ -6473,6 +6482,7 @@ dialectician
 dialectics
 dialectology
 dialects
+diallages
 dialled
 dialogically
 dialogs
@@ -7358,6 +7368,7 @@ dyable
 dyadics
 dyarchy
 dybbukim
+dyeability
 dyeable
 dyer
 dykes
@@ -7848,6 +7859,7 @@ enregister
 enriched
 enrichments
 enrobe
+enrobing
 enrollees
 enroots
 ens
@@ -7916,6 +7928,7 @@ entreated
 entreating
 entreats
 entrecotes
+entree
 entrench
 entrenched
 entropic
@@ -10433,6 +10446,7 @@ gueridons
 guesstimated
 guesstimates
 guesting
+guggle
 guggles
 guggling
 guidance
@@ -11357,6 +11371,7 @@ hurriers
 hurtling
 hurts
 husbanders
+husbandries
 hushed
 hushing
 hushpuppies
@@ -12461,6 +12476,7 @@ irrefragably
 irregulars
 irrelatively
 irrelevance
+irreligion
 irreligionist
 irreligions
 irreligious
@@ -13140,6 +13156,7 @@ laminar
 laminarian
 laminating
 laminator
+lammergeier
 lammergeiers
 lammergeyers
 lamp
@@ -13174,6 +13191,7 @@ lapdogs
 lapides
 lapidify
 lapin
+lapises
 lappered
 lapsable
 lapwings
@@ -14423,6 +14441,7 @@ mestees
 mestiza
 mestizo
 mestizoes
+met
 metabolically
 metabolisms
 metabolized
@@ -15708,6 +15727,7 @@ ninny
 ninon
 niobite
 niobiums
+niobous
 nip
 nippers
 nippy
@@ -17119,6 +17139,7 @@ pancaked
 pancetta
 panchax
 pancratiums
+pandemic
 pandemonium
 pandoors
 pandore
@@ -17748,6 +17769,7 @@ philhellenists
 philistine
 philistinisms
 philologists
+philomel
 philomelas
 philosophic
 philosophical
@@ -18237,6 +18259,7 @@ pogeys
 pogonips
 pogroming
 pogromist
+poh
 poignancies
 poignantly
 poikilothermic
@@ -18428,6 +18451,7 @@ postcava
 postcavas
 postcollege
 postcrash
+postdoc
 postdoctoral
 postdoctorate
 posted
@@ -18702,6 +18726,7 @@ premoistened
 premold
 premunitions
 prenames
+prenomen
 prenotification
 prenotifying
 prenumbers
@@ -18937,6 +18962,7 @@ proglottid
 prognose
 prognosticating
 prognosticators
+prognostics
 programed
 progression
 progressivists
@@ -19924,6 +19950,7 @@ redictating
 redigesting
 redigestion
 redigestions
+redigress
 redigressed
 redintegrate
 redintegrates
@@ -20040,6 +20067,7 @@ refixed
 reflating
 reflectors
 reflexions
+reflexively
 reflexivities
 refloat
 reflooding
@@ -21612,6 +21640,7 @@ security
 sedate
 sedative
 sedilia
+sedimentable
 sedimentologies
 seducive
 seductress
@@ -21921,6 +21950,7 @@ shavings
 shawing
 sheaflike
 sheafs
+shearing
 shearlegs
 shears
 sheaved
@@ -22149,6 +22179,7 @@ signalment
 signboard
 significance
 significances
+significancy
 significant
 signifieds
 signifiers
@@ -23199,6 +23230,7 @@ steals
 stealth
 steamboats
 steamed
+steamfitter
 steamroll
 steatopygia
 steeked
@@ -24817,6 +24849,7 @@ tog
 toga
 togaviruses
 toggler
+togglers
 toiletries
 tokamaks
 toked
@@ -25174,6 +25207,7 @@ trifled
 trifocals
 trifold
 trifoliate
+trifoliums
 triform
 trifurcates
 trigeminal
@@ -27013,6 +27047,7 @@ whodunnit
 wholesaled
 wholesome
 whomping
+whoop
 whoopee
 whopper
 whorishly
