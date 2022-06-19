@@ -1,0 +1,6 @@
+Private/Notifiers/Invoke-NotifierSlack.ps1 1.1.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/Watchmen/1.1.0/Content/Private%255CNotifiers%255CInvoke-NotifierSlack.ps1
+Public/New-SlackMessageAttachment.ps1 0.0.16 - PowerShell Gallery,https://www.powershellgallery.com/packages/PSSlack/0.0.16/Content/Public%255CNew-SlackMessageAttachment.ps1
+EASTroubleshooter/Start-EASTroubleshooter.ps1 at master - GitHub,https://github.com/cunninghamp/EASTroubleshooter/blob/master/Start-EASTroubleshooter.ps1
+powershell/CaseMessage.ps1 at master - GitHub,https://github.com/gsherman/powershell/blob/master/slack/CaseMessage.ps1
+Public/Send-SlackMessage.ps1 0.0.23 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/PSSlack/0.0.23/Content/Public%255CSend-SlackMessage.ps1
+Public/New-SlackMessage.ps1 0.1.1 - PowerShell Gallery,https://40.87.85.101/packages/PSSlack/0.1.1/Content/Public%255CNew-SlackMessage.ps1
