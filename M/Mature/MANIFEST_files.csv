@@ -1,0 +1,7 @@
+inqlude-data/qtilities.2013-05-30.manifest at master - GitHub,https://github.com/cornelius/inqlude-data/blob/master/qtilities/qtilities.2013-05-30.manifest
+Package: asterisk16-app-adsiprog Version: 16.25.2-1 Depends: libc ...,https://downloads.openwrt.org/releases/packages-19.07/mips_24kc/telephony/Packages.manifest
+"Package: acl Version: 2.2.53-1 Depends: libc, libacl Source: feeds ...",https://downloads.openwrt.org/releases/19.07-SNAPSHOT/packages/arm_mpcore/packages/Packages.manifest
+Package: UDPspeeder Version: 20210116.0-2 Depends: libc ...,https://mirrors.aliyun.com/openwrt/releases/21.02.1/packages/mipsel_74kc/packages/Packages.manifest
+"Package: 6tunnel Version: 0.11rc2-3 Depends: libc, libssp, libpcap ...",http://downloads.pangubox.com:6380/pandorabox/19.02/packages/arm_cortex-a7_neon-vfpv4/packages/Packages.manifest
+downloads.pangubox.com:6380/pandorabox/19.01/packa...,http://downloads.pangubox.com:6380/pandorabox/19.01/packages/mipsel_1004kc_dsp/packages/Packages.manifest
+Package: asterisk11-app-alarmreceiver Version: 11.22.0-3 Depends ...,https://usingpro.com/releases/packages-17.01/arm_fa526/telephony/Packages.manifest

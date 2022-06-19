@@ -299,6 +299,7 @@ advocacy
 advocator
 advowson
 adynamias
+aedile
 aeonic
 aeration
 aerations
@@ -347,6 +348,7 @@ affixtures
 afflicters
 affordable
 afforests
+affrayers
 affraying
 affrighted
 affront
@@ -864,6 +866,7 @@ annihilates
 annihilatory
 annotative
 announcers
+annualize
 annuitants
 annularly
 annulation
@@ -1405,6 +1408,7 @@ assuming
 assumpsit
 assumption
 assurable
+asswaged
 astarboard
 asteria
 asterias
@@ -1429,6 +1433,7 @@ astronomical
 astrophysics
 asymptotically
 asynapsis
+asynchronies
 asyndetically
 asyndetons
 atabal
@@ -1920,6 +1925,7 @@ batteau
 batteaux
 batten
 battener
+battlegrounds
 battlers
 battue
 baud
@@ -2318,6 +2324,7 @@ biosensor
 biosensors
 biosolid
 biospheric
+biostrome
 biosyntheses
 biosynthesis
 biotechnologies
@@ -3608,6 +3615,7 @@ cattaloes
 cattie
 catty
 caucuses
+caucusing
 cauld
 cauliflowerets
 cauliflowers
@@ -3930,6 +3938,7 @@ chiltepins
 chimb
 chimbley
 chimbleys
+chimera
 chimeras
 chimere
 chimerically
@@ -3972,6 +3981,7 @@ chitchats
 chitties
 chivalrous
 chivvy
+chlamydospores
 chloraloses
 chlorate
 chlorinators
@@ -5826,6 +5836,7 @@ dandiacal
 daneworts
 dangerously
 dangers
+dangliest
 dankest
 dans
 daphnias
@@ -5852,6 +5863,7 @@ darnel
 dart
 dartboards
 darter
+darters
 dartle
 dashing
 dashis
@@ -6022,6 +6034,7 @@ deedless
 deedy
 deepest
 deepfreezes
+deerflies
 deerhounds
 deerskin
 deerstalker
@@ -7034,6 +7047,7 @@ dogvanes
 dogwatches
 doings
 doit
+dollhouses
 dolling
 dollishly
 dollishness
@@ -7553,6 +7567,7 @@ eighteen
 eighties
 eightvo
 einkorn
+eisteddfodic
 ejaculates
 ejected
 ejective
@@ -7634,6 +7649,7 @@ emaciations
 email
 emails
 emanant
+emanated
 emanating
 emanator
 emancipated
@@ -9377,6 +9393,7 @@ foveate
 foveolate
 foveoles
 foveolet
+foxfish
 foxgloves
 foxhunting
 foxhuntings
@@ -9663,6 +9680,7 @@ galax
 galeas
 galenas
 galenical
+galenite
 galenites
 gales
 galettes
@@ -10280,6 +10298,7 @@ gratings
 graupel
 graveless
 gravelike
+gravelled
 gravelly
 gravels
 gravenesses
@@ -11275,6 +11294,7 @@ hosiers
 hospitalised
 hospitalises
 hospitality
+hospitia
 hosteller
 hostelries
 hostilely
@@ -12529,6 +12549,7 @@ isolationists
 isolations
 isoleads
 isoleucines
+isopachs
 isophotal
 isophotes
 isoplethic
@@ -12796,6 +12817,7 @@ jutting
 juvenility
 juxtaposing
 kabab
+kabalas
 kabayas
 kabbala
 kabobs
@@ -14200,6 +14222,7 @@ mattock
 mattrass
 mattresses
 maturational
+mature
 maturers
 maudlin
 maul
@@ -14492,6 +14515,7 @@ methylase
 methylations
 metical
 metis
+metisse
 metonymies
 metope
 metopes
@@ -15124,6 +15148,7 @@ moonwalking
 moorage
 moorages
 mopboards
+moper
 mopey
 mopish
 moppets
@@ -18673,6 +18698,7 @@ prefabricates
 prefaces
 prefaded
 preferential
+preferments
 preferrers
 prefigurement
 prefiring
@@ -19106,6 +19132,7 @@ protozoal
 protozoic
 protozoologies
 protractive
+protrusions
 protuberantly
 provenances
 proves
@@ -20584,6 +20611,7 @@ resubmitted
 resultant
 resultantly
 results
+resumed
 resummon
 resupinate
 resupine
@@ -20606,6 +20634,7 @@ retaliatory
 retallied
 retallies
 retally
+retallying
 retarder
 retastes
 retax
@@ -21434,6 +21463,7 @@ schizophrenics
 schizzier
 schlub
 schlump
+schmalziest
 schmatte
 schmoes
 schmoos
@@ -23947,6 +23977,7 @@ suppurate
 suppurations
 supramolecular
 suprarenals
+supremacies
 suprematist
 supremenesses
 supremest
@@ -26229,6 +26260,7 @@ uprighting
 upriver
 uproarious
 uproariously
+uprootal
 uprootedness
 uprootednesses
 uprooting
@@ -26348,6 +26380,7 @@ vanguards
 vanities
 vanned
 vanpoolings
+vanpools
 vanquishers
 vantage
 vapid
@@ -26618,6 +26651,7 @@ virusoids
 viscerally
 viscidities
 viscidity
+viscoelastic
 viscoelasticity
 viscometers
 viscounts
@@ -26865,6 +26899,7 @@ watchdogged
 watches
 watchfulnesses
 watchman
+watchword
 waterages
 watercooler
 watercrafts
