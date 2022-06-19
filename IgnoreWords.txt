@@ -243,6 +243,7 @@ adjudge
 adjudications
 adjunct
 adjunctions
+adjunctive
 adjuration
 adjutant
 adjutants
@@ -506,6 +507,7 @@ alines
 aliquots
 aliterates
 alkalified
+alkalifies
 alkalinization
 alkalise
 alkalises
@@ -1437,6 +1439,8 @@ atheroma
 athetoid
 athleticism
 athodyd
+athwartship
+atlantes
 atlatl
 atmospherically
 atomies
@@ -2176,6 +2180,7 @@ bewig
 bewigging
 bewilderedly
 bewitcheries
+bewitchery
 bewitches
 bewrap
 bewrapt
@@ -2196,6 +2201,7 @@ bibliothecal
 biblists
 bicameralism
 bicameralisms
+bice
 bicentenary
 bichromated
 bicipital
@@ -3803,6 +3809,7 @@ chatter
 chattered
 chatterers
 chatters
+chattiness
 chauffeur
 chauffeured
 chawer
@@ -4357,6 +4364,7 @@ cocreate
 cocultivated
 cocultivation
 cocurators
+cod
 codas
 codders
 coded
@@ -6015,6 +6023,7 @@ defections
 defectiveness
 defector
 defectors
+defeminize
 defenceman
 defencing
 defendants
@@ -7866,6 +7875,7 @@ entozoans
 entrained
 entrainment
 entrance
+entrancements
 entranceways
 entrapment
 entrapping
@@ -9477,6 +9487,7 @@ fuchsin
 fuchsine
 fuci
 fucoses
+fucoxanthin
 fudging
 fuelers
 fueller
@@ -9738,6 +9749,7 @@ gaum
 gaumed
 gauntly
 gauntry
+gaurs
 gauss
 gausses
 gauziest
@@ -14596,6 +14608,7 @@ minciest
 mind
 mindedness
 mindful
+mineral
 mineralised
 mineralizable
 mineralizations
@@ -15233,6 +15246,7 @@ multiversity
 multiwall
 mumbling
 mummeries
+mummification
 mummify
 mumper
 mumping
@@ -15261,6 +15275,7 @@ muscling
 muscovados
 muscularly
 museologies
+museology
 muser
 musher
 mushier
@@ -15315,6 +15330,7 @@ mycophagy
 mycophile
 mycoplasmal
 mycorhiza
+mydriases
 myelin
 myelofibroses
 myeloid
@@ -15763,6 +15779,7 @@ nonethnic
 nonets
 nonevidences
 nonexempts
+nonexploitive
 nonfactual
 nonfamily
 nonfarmer
@@ -16725,6 +16742,7 @@ overexplained
 overexploited
 overexpose
 overextend
+overfamiliar
 overfamiliarity
 overfast
 overfill
@@ -16772,6 +16790,7 @@ overletting
 overlighted
 overliteral
 overlived
+overloads
 overlooking
 overlords
 overly
@@ -19291,6 +19310,7 @@ quantitation
 quantitative
 quantized
 quarantined
+quare
 quarreler
 quarrelsomeness
 quarriers
@@ -19517,6 +19537,7 @@ raspberries
 raspier
 raspingly
 rassle
+rataplans
 ratatat
 rateably
 ratfinks
@@ -20333,6 +20354,7 @@ rerepeat
 rerolls
 rerose
 reroute
+reroutes
 res
 resaddling
 resailed
@@ -21030,6 +21052,7 @@ sailboard
 sailboards
 sailboater
 sailing
+sails
 sainted
 saintships
 saith
@@ -22048,6 +22071,7 @@ signifiers
 signifies
 signior
 signiories
+signory
 signposted
 silage
 sild
@@ -22323,6 +22347,7 @@ slumbering
 slumberous
 slumgullions
 slumism
+slumlords
 slummed
 slummiest
 slumping
@@ -23175,6 +23200,7 @@ stiffens
 stiffness
 stiffnesses
 stigmatist
+stigmatized
 stilbenes
 stillbirth
 stillborn
@@ -23215,6 +23241,7 @@ stomas
 stomodaea
 stomodaeums
 stomodeal
+stomping
 stonemason
 stonemasonry
 stones
@@ -23898,6 +23925,7 @@ sweetheart
 sweethearts
 sweetshop
 sweetsops
+sweptback
 swerve
 swidden
 swifter
@@ -25571,6 +25599,7 @@ underbrush
 underbuying
 underclothing
 undercoating
+undercools
 undercutting
 underdosed
 underdosing
@@ -25873,6 +25902,7 @@ unrecovered
 unredeemable
 unreel
 unreels
+unreeves
 unregenerate
 unremarkably
 unrepressed
@@ -25898,6 +25928,7 @@ unsalable
 unsalvageable
 unsanctioned
 unsatisfied
+unsaturated
 unsaturates
 unsaved
 unschooled
@@ -26202,6 +26233,7 @@ variety
 variola
 variolates
 varioles
+varioloid
 variousness
 varnas
 varnisher
@@ -26622,6 +26654,7 @@ walkabouts
 walkingstick
 walkover
 walkways
+wallaby
 walleye
 wallopings
 wallops
@@ -26711,6 +26744,7 @@ wattled
 wattles
 wattless
 wauchting
+wauks
 waul
 waved
 wavelengths
@@ -27091,6 +27125,7 @@ wormer
 worminesses
 wormish
 wormroot
+worries
 worrited
 worry
 worse
