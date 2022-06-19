@@ -1,0 +1,20 @@
+[PPT] Register Pressure Guided Loop Optimization - CAPSL,http://www.capsl.udel.edu/conferences/open64/2008/Slides/104.ppt
+[PPT] PowerPoint,https://my.eng.utah.edu/~cs6810/pres/12-6810-06.ppt
+"[PPT] LD F0,0(R1) 2 ADDD F4,F0,F2 3 SUBI R1,R1,8 4 BNEZ R1,Loop",https://people.eecs.berkeley.edu/~kubitron/courses/cs252-S11/lectures/lec05-schedscore.ppt
+[PPT] Loop Unrolling CSCE430/830 Computer Architecture Lecturer,http://cse.unl.edu/~jiang/cse430/Lecture%2520Notes/reference-ppt-slides/ILP_LoopUnroll.ppt
+[PPT] SOFTWARE PIPELINING & LOOP UNROLLING,https://www.cse.unsw.edu.au/~cs4211/seminars/w06.ppt
+[PPT] CS 5513 Lecture 5,https://people.engr.tamu.edu/djimenez/utsa/cs5513/lecture5.ppt
+[PPT] Slide 1,http://www.hipersoft.rice.edu/looptool/poster/lacsi02.ppt
+[PPT] Learning A Better Compiler,http://www.cs.cmu.edu/~745/papers/slides/LearningCompiler.ppt
+[PPT] Loop Transformations for Clustered VLIW Architectures,https://arcb.csc.ncsu.edu/~mueller/pact02/slides/qian119.ppt
+[PPT] CS 211: Computer Architecture,https://www.seas.gwu.edu/~mlancast/cs211al/ppt/CALecture3Module2.ppt
+[PPT] Recursion Unrolling - People,https://people.csail.mit.edu/rinard/presentation/lcpc00.ppt
+"[PPT] i++) A[i] = f(A[i-1]); B[i] = g(in[i]); for (j=0; j<N; j++) C[i] = h(B[i],A[N])",http://www.es.ele.tue.nl/~heco/courses/PlatformDesign/loop-trafos.ppt
+[PPT] Eliminating Overhead & Helping Locality,http://booksite.elsevier.com/9780120884780/Graduate_Lecture_Slides/Optimizations/29Loop.ppt
+[PPT] EECC 551,http://meseec.ce.rit.edu/eecc551-fall2011/551-10-11-2011.ppt
+[PPT] 483L8 - University of Michigan,http://web.eecs.umich.edu/~mahlke/courses/483f06/lectures/483L21.ppt
+[PPT] 投影片 1,https://www.csie.ntu.edu.tw/~cyy/courses/assembly/09fall/lectures/handouts/lec11_ARMoptimize.ppt
+[PPT] Fast Effective Dynamic Compilation - Purdue Engineering,https://engineering.purdue.edu/~eigenman/EE663/DynamicComp.ppt
+[PPT] 1.75X performance difference!,https://www.seas.upenn.edu/~cis565/LECTURES/Advanced-Features.ppt
+[PPT] Practical Path Profiling for Dynamic Optimizers - Ohio State ...,https://web.cse.ohio-state.edu/~mikebond/ppp-cgo-2005-talk.ppt
+[PPT] Introduction to CUDA Programming,https://www.eecg.utoronto.ca/~moshovos/CUDA11/lib/exe/fetch.php%3Fmedia%3D005_-_reduction.ppt

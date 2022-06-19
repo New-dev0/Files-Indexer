@@ -1,0 +1,5 @@
+Public/Get-VSTeamProfile.ps1 6.2.6 - PowerShell Gallery,https://www.powershellgallery.com/packages/VSTeam/6.2.6/Content/Public%255CGet-VSTeamProfile.ps1
+functions/Invoke-TssRestApi.ps1 0.10.0-beta - PowerShell Gallery,https://www.powershellgallery.com/packages/Thycotic.SecretServer/0.10.0-beta/Content/functions%255CInvoke-TssRestApi.ps1
+Functions/Assertions/Be.ps1 4.0.6 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/Pester/4.0.6/Content/Functions%255CAssertions%255CBe.ps1
+ntfs-hardlink-backup/ntfs-hardlink-backup.ps1 at master - GitHub,https://github.com/jatubio/ntfs-hardlink-backup/blob/master/ntfs-hardlink-backup.ps1
+chocolatey-ansible/win_chocolatey_source.ps1 at master - GitHub,https://github.com/chocolatey/chocolatey-ansible/blob/master/chocolatey/plugins/modules/win_chocolatey_source.ps1
