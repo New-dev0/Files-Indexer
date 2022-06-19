@@ -1,0 +1,6 @@
+"Package: 6in4 Version: 24-1 Depends: libc, kmod-sit, uclient-fetch ...",https://downloads.openwrt.org/releases/17.01.6/packages/arm_cortex-a9_neon/base/Packages.manifest
+"Package: 6in4 Version: 25-1 Depends: libc, kmod-sit, uclient-fetch ...",https://archive.openwrt.org/releases/packages-18.06/arm_arm1176jzf-s_vfp/base/Packages.manifest
+UIX-R/jarvik.manifest at master · OpenMW/UIX-R - GitHub,https://github.com/OpenMW/UIX-R/blob/master/Manifests/jarvik.manifest
+"Package: 6in4 Version: 23-1 Depends: libc, libssp, kmod-sit Source ...",http://downloads.pangubox.com:6380/pandorabox/19.01/packages/arm_xscale/base/Packages.manifest
+Packages.manifest - PandoraBox,http://downloads.pangubox.com:6380/pandorabox/19.01/packages/arm_cortex-a7_neon-vfpv4/base/Packages.manifest
+"Package: 464xlat Version: 12 Depends: libc, kmod-nat46, ip Source ...",https://usingpro.com/releases/packages-19.07/mipsel_24kc/base/Packages.manifest
