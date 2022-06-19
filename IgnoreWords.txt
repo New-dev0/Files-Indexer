@@ -243,6 +243,7 @@ adjudge
 adjudications
 adjunct
 adjunctions
+adjuration
 adjutant
 adjutants
 admeasuring
@@ -505,6 +506,7 @@ alines
 aliquots
 aliterates
 alkalified
+alkalinization
 alkalise
 alkalises
 alkalized
@@ -1543,6 +1545,7 @@ autocatalytic
 autocoid
 autocrine
 autocross
+autoecism
 autoerotic
 autogiro
 autografted
@@ -4566,6 +4569,7 @@ comforts
 comitial
 commandants
 commanding
+commando
 commands
 commemoratively
 commencement
@@ -5093,6 +5097,7 @@ coronel
 coronographs
 corotation
 corporals
+corporative
 corporeally
 corps
 corpses
@@ -5686,6 +5691,7 @@ cycloids
 cyclopaedias
 cyclopedia
 cyclopropane
+cyclotron
 cyeses
 cygnet
 cygnets
@@ -6789,6 +6795,7 @@ dislocate
 dislocating
 dislodgements
 dislodges
+disloyalty
 dismasting
 disobeys
 disobliges
@@ -6902,6 +6909,7 @@ ditchers
 ditsinesses
 ditziest
 diuresis
+diurnal
 divans
 divebombed
 divebombing
@@ -7230,6 +7238,7 @@ druse
 druses
 dryadic
 dryish
+drywells
 dualistically
 dubber
 dubbin
@@ -7561,6 +7570,7 @@ eloigned
 elongation
 elope
 eloped
+eloper
 elucidated
 elution
 elutriating
@@ -8227,6 +8237,7 @@ exasperate
 excellently
 except
 exceptionalisms
+exceptionality
 excerpt
 excerpting
 excerpts
@@ -8343,6 +8354,7 @@ expiation
 expiratory
 expirers
 explanative
+explanatively
 explanatorily
 explantation
 explanted
@@ -9418,6 +9430,7 @@ frisky
 frith
 fritillaria
 fritillary
+frivolled
 frizers
 frizzing
 frizzles
@@ -10733,6 +10746,7 @@ headshrinker
 headstand
 headstone
 headwaiters
+heady
 healers
 heaps
 hearkeners
@@ -12559,6 +12573,7 @@ jeers
 jefe
 jejuneness
 jejunities
+jellify
 jelly
 jellyfishes
 jellyroll
@@ -12896,6 +12911,7 @@ kissed
 kissing
 kists
 kitchen
+kite
 kiths
 kitschifying
 kittel
@@ -13025,6 +13041,7 @@ lactose
 lacunars
 laddies
 laddish
+lade
 laden
 ladle
 ladleful
@@ -13772,6 +13789,7 @@ lysine
 lysogen
 lysogenies
 lysogenise
+lysogenizing
 lysosomal
 lyssa
 lytically
@@ -15066,6 +15084,7 @@ mortisers
 mortmain
 mortmains
 morular
+mosaicist
 mosaiclike
 moseyed
 mosquito
@@ -15079,6 +15098,7 @@ moths
 motific
 motion
 motivate
+motoneuron
 motorbiked
 motorboater
 motorbus
@@ -15475,6 +15495,7 @@ neoclassicisms
 neoclassicists
 neocolonialist
 neoliberalism
+neolith
 neoliths
 neologies
 neologist
@@ -17025,6 +17046,7 @@ panellings
 panetella
 panetellas
 pangene
+pangens
 panically
 panickiest
 paniculate
@@ -17545,6 +17567,7 @@ persuasively
 pertains
 pertinence
 perturbation
+perturbational
 perturber
 peruke
 pervaded
@@ -18959,6 +18982,7 @@ protocol
 protocolling
 protogalaxies
 protohistorians
+protohistories
 protonematal
 protons
 protopathic
@@ -20607,6 +20631,7 @@ rheophiles
 rhesuses
 rhetoric
 rheumatically
+rheumatism
 rheumatoid
 rheumatologist
 rheumier
@@ -21104,6 +21129,7 @@ santimu
 santir
 santoor
 sapajous
+sapanwoods
 sapheaded
 saphenae
 sapid
@@ -21237,6 +21263,7 @@ scar
 scare
 scareder
 scarf
+scarfed
 scarifiers
 scarious
 scarlatinal
@@ -22651,6 +22678,7 @@ spallable
 spalling
 spambot
 spammed
+spangle
 spangles
 spanked
 spankings
@@ -23433,6 +23461,7 @@ subinfeuded
 subinfeuds
 subinterval
 subirrigates
+subirrigations
 subitems
 subjacency
 subjacent
@@ -24067,6 +24096,7 @@ tallowy
 tallyman
 talmudism
 talmudisms
+taloned
 talons
 taluk
 tamable
@@ -24531,6 +24561,7 @@ tiara
 tiaras
 tibiae
 tibiofibulas
+tic
 ticals
 tick
 ticked
@@ -25138,6 +25169,7 @@ truthfully
 truthless
 tryout
 tryptamines
+tsardoms
 tsatske
 tsetses
 tsunamic
@@ -25874,6 +25906,7 @@ unscrews
 unsearchably
 unseasonably
 unseat
+unseeable
 unseeing
 unseemlier
 unseen
@@ -26014,6 +26047,7 @@ uphold
 uphroe
 uplanders
 upleapt
+uplifters
 uplinking
 uppers
 uppings
@@ -26864,6 +26898,7 @@ wideners
 wideout
 widowerhood
 widowhood
+widows
 wielders
 wifelier
 wifeys
