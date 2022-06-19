@@ -885,6 +885,7 @@ antecessors
 anted
 antediluvian
 antefixal
+antependium
 antepenultimas
 anteverts
 anthelia
@@ -1213,6 +1214,7 @@ areca
 arenaceous
 arenes
 arenites
+areole
 arete
 argentums
 argons
@@ -1376,6 +1378,7 @@ assoils
 assort
 assorter
 assuagement
+assume
 assumer
 assumers
 assuming
@@ -1399,6 +1402,7 @@ astrachan
 astraddle
 astragal
 astringent
+astringing
 astrometries
 astronomer
 astronomical
@@ -1800,6 +1804,7 @@ barefacedly
 barehanding
 barfed
 bargees
+barhop
 barhopped
 barhops
 barites
@@ -2077,6 +2082,7 @@ bemoans
 bemock
 bemocking
 bemusedly
+bendable
 beneficial
 beneficiary
 beneficiate
@@ -2402,6 +2408,7 @@ blathers
 blats
 blaxploitation
 bleacher
+bleachers
 bleaches
 bleat
 bleated
@@ -2981,6 +2988,7 @@ bunging
 bungle
 bunglers
 bunk
+bunkmate
 bunns
 bunrakus
 bunters
@@ -3171,6 +3179,7 @@ calligraphers
 callings
 calloses
 callosities
+callosity
 callouses
 callousing
 callow
@@ -3848,6 +3857,7 @@ chicory
 chiefest
 chiefships
 chiffchaffs
+chiffon
 chignoned
 chilblain
 childbearings
@@ -5797,6 +5807,7 @@ daylit
 daymares
 daysides
 daysmen
+daze
 de
 deaconess
 deaconing
@@ -7001,6 +7012,7 @@ dotingly
 dottily
 dottle
 dottrels
+double
 doubleheader
 doublenesses
 doublespeak
@@ -7604,6 +7616,7 @@ empressement
 empresses
 emptying
 emu
+emulating
 emulators
 emyds
 enactment
@@ -7721,6 +7734,7 @@ enigmatic
 enisle
 enisling
 enjoinder
+enjoinders
 enjoyed
 enlargements
 enlarges
@@ -7747,6 +7761,7 @@ enroots
 ens
 ensanguines
 enscrolling
+ensemble
 enserfed
 enserfing
 ensheathe
@@ -10984,6 +10999,7 @@ holotype
 holotypic
 holp
 hols
+holsteins
 holstered
 holystoned
 homaging
@@ -11754,6 +11770,7 @@ individualised
 individualism
 individuality
 individualizes
+individualizing
 individuated
 individuations
 indoles
@@ -12455,6 +12472,7 @@ jaunced
 jaunt
 jauped
 javascript
+javelin
 jawans
 jawbreaker
 jawlines
@@ -14389,6 +14407,7 @@ middlers
 middlingly
 midfielder
 midfielders
+midge
 midinettes
 midis
 midlands
@@ -15654,6 +15673,7 @@ nonghetto
 nonglare
 nongreen
 nonhistone
+nonhome
 nonhomogeneous
 nonhumans
 nonidentities
@@ -18212,6 +18232,7 @@ posterities
 posterns
 postexperience
 postfix
+postglacial
 postgraduates
 postgraduation
 posthaste
@@ -18652,6 +18673,7 @@ privity
 prizefighters
 prizefights
 proa
+proabortion
 proactions
 probabilist
 probationally
@@ -19489,6 +19511,7 @@ reattachments
 reattempted
 reattribution
 reavers
+reaving
 reavows
 rebaptisms
 rebaptized
@@ -19648,6 +19671,7 @@ recut
 recyclables
 redacted
 redacting
+redargued
 redates
 redating
 redbaiters
@@ -19878,6 +19902,7 @@ regularly
 regulate
 regulated
 reguline
+regurgitated
 rehabilitant
 rehabilitants
 rehabilitation
@@ -22775,6 +22800,7 @@ squadron
 squalene
 squalid
 squalider
+squallish
 squalors
 squamate
 squamates
@@ -22959,6 +22985,7 @@ stepstool
 steradians
 stereogram
 stereograms
+stereographed
 stereographic
 stereology
 stereophonic
@@ -23362,6 +23389,7 @@ subskill
 subsocial
 subsocieties
 subsoiler
+subsolar
 subspecialist
 subspecializes
 subspecializing
@@ -23851,6 +23879,7 @@ tablemate
 tables
 tabooing
 taboulehs
+tabour
 tabulable
 tacamahac
 tachisms
@@ -24410,6 +24439,7 @@ til
 tilaks
 tiler
 tiling
+tilters
 tiltrotor
 tilts
 timbales
@@ -24821,6 +24851,7 @@ triazoles
 tribades
 tribadic
 tribadisms
+tribal
 tribalism
 tribes
 triboelectric
@@ -25753,6 +25784,7 @@ unstated
 unsteadier
 unsteadily
 unsteeling
+unsteps
 unstoppable
 unstopper
 unstopping
@@ -25784,6 +25816,7 @@ untraditionally
 untrained
 untraveled
 untreated
+untrod
 untrusses
 untrustworthy
 untucking
@@ -26206,6 +26239,7 @@ vignettist
 vilest
 vilifiers
 villages
+villainies
 villainousness
 villanelle
 villas
@@ -26659,6 +26693,7 @@ whitherward
 whities
 whitish
 whittle
+whittret
 whiz
 whizzer
 whizzy
