@@ -466,6 +466,7 @@ alcidine
 alcids
 alcoholically
 aldosterone
+aleatoric
 aleatory
 alegars
 alehouses
@@ -505,6 +506,7 @@ alkalizer
 alkalizing
 alkie
 alkyds
+allantoin
 allantois
 allayed
 allee
@@ -768,6 +770,7 @@ ancestress
 anchoress
 anchoring
 ancientries
+ancillary
 ancipital
 ancone
 ancresses
@@ -2323,6 +2326,7 @@ biter
 bitmap
 bitted
 bitterbrushes
+bittered
 bittering
 bitternuts
 bittersweet
@@ -3372,6 +3376,7 @@ carex
 cargo
 cargoes
 carhop
+carhopping
 caribes
 caribou
 caricatured
@@ -3823,6 +3828,7 @@ chiaroscurists
 chiasmic
 chibouque
 chic
+chicanes
 chicaning
 chicer
 chickadees
@@ -4334,6 +4340,7 @@ coevolution
 coexecutor
 coextends
 cofeaturing
+coffee
 coffeemakers
 coffeepot
 coffeepots
@@ -4359,6 +4366,7 @@ cogwheel
 cohabitants
 coheading
 coheiress
+cohere
 coherences
 coherencies
 cohesiveness
@@ -5574,6 +5582,7 @@ cuteys
 cutinised
 cutlas
 cutout
+cutouts
 cutpurses
 cutthroats
 cuttlefish
@@ -8447,6 +8456,7 @@ fantoccini
 fantod
 fantom
 fanzine
+faradaic
 faradic
 faradising
 faradism
@@ -9231,6 +9241,7 @@ frameshift
 frameworks
 franchise
 franchisees
+francized
 frangipane
 franker
 frankest
@@ -9399,6 +9410,7 @@ funders
 fundic
 funding
 fundraises
+funerary
 funfairs
 funfest
 fungal
@@ -9626,6 +9638,7 @@ gaydar
 gaydars
 gaynesses
 gazars
+gaze
 gazehounds
 gazelle
 gazette
@@ -10007,6 +10020,7 @@ gouge
 gouges
 gourmandisms
 gourmets
+governess
 governessy
 government
 governmentally
@@ -11564,6 +11578,7 @@ inappetences
 inapplicable
 inaptitude
 inaptness
+inaptnesses
 inarguably
 inarms
 inaudibly
@@ -13373,6 +13388,7 @@ loamy
 loanword
 loathed
 loathes
+loathful
 loathsomeness
 lobar
 lobeline
@@ -15714,6 +15730,7 @@ normalizers
 normless
 normothermic
 northers
+northwester
 nos
 nosebag
 nosed
@@ -15813,6 +15830,7 @@ obdurateness
 obeah
 obeahism
 obeli
+obelisks
 obelisms
 obeyer
 obeys
@@ -17535,6 +17553,7 @@ phots
 phrasemaker
 phrasemakers
 phrasemongering
+phreaker
 phthalocyanine
 phycocyanins
 phycoerythrins
@@ -17946,6 +17965,7 @@ pointillism
 pointillisms
 pointillist
 pointmen
+points
 pointy
 poisoned
 poisoner
@@ -18224,6 +18244,7 @@ praenomen
 pragmatisms
 praiser
 praisers
+praiseworthily
 pralines
 pram
 prancer
@@ -19750,6 +19771,7 @@ refutes
 regaled
 regaler
 regaling
+regalnesses
 regardfulnesses
 regathered
 regathers
@@ -21064,6 +21086,7 @@ schoolwork
 schottisches
 schticks
 schuss
+schussboomer
 schussboomers
 sciatica
 sciaticas
@@ -21239,6 +21262,7 @@ sections
 sectorial
 secularization
 secularizer
+securement
 securitize
 securitizes
 security
@@ -21453,6 +21477,7 @@ servitudes
 sesquiterpene
 sestertium
 setiform
+setouts
 sets
 setter
 setting
@@ -21762,6 +21787,7 @@ sightlessnesses
 sightly
 sightseeing
 sightsees
+sigloi
 sigma
 sigmoidal
 signalers
@@ -21924,6 +21950,7 @@ sklenting
 skoals
 skunking
 skunkweed
+skyborne
 skybox
 skycaps
 skydived
@@ -22574,6 +22601,7 @@ spline
 splined
 splines
 sploshes
+splotch
 splotches
 splotchy
 splutters
@@ -23275,6 +23303,7 @@ subtilins
 subtitling
 subtler
 subtleties
+subtly
 subtreasury
 subunit
 suburban
@@ -24287,7 +24316,9 @@ tieless
 tiepins
 tierced
 tiering
+tigereye
 tigerlike
+tigers
 tightfistedness
 tightrope
 tigon
@@ -25555,6 +25586,7 @@ unrebuked
 unrecoverable
 unrecovered
 unredeemable
+unreel
 unreels
 unregenerate
 unremarkably
@@ -25755,6 +25787,7 @@ upstroke
 upsurges
 uptakes
 uptempos
+upthrusting
 uptosses
 uptossing
 upturned
@@ -26094,6 +26127,7 @@ violable
 violoncellist
 violoncellists
 viols
+viperish
 vireonines
 virginalist
 viridescent
@@ -26275,6 +26309,7 @@ wainscottings
 wairs
 waisting
 waists
+waitered
 waitlist
 waits
 wakeboards
