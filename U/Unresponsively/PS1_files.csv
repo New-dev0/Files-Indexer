@@ -1,0 +1,9 @@
+Public/Find-Service.ps1 1.0.2 - PowerShell Gallery,https://www.powershellgallery.com/packages/PSSysAdminToolkit/1.0.2/Content/Public%255CFind-Service.ps1
+functions/Set-DbaAvailabilityGroup.ps1 0.9.825 - PowerShell Gallery,https://www.powershellgallery.com/packages/dbatools/0.9.825/Content/functions%255CSet-DbaAvailabilityGroup.ps1
+PoSh-EasyWin/PoSh-EasyWin.ps1 at master · high101bro ... - GitHub,https://github.com/high101bro/PoSh-EasyWin/blob/master/PoSh-EasyWin.ps1
+#Create An Excel File $excel = New-Object -ComObject excel ...,https://raw.githubusercontent.com/01000001-01001110/CollateTextToXLSX/main/initialize.ps1
+Public/Test-OracleConnection.ps1 1.2.3 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/PSTK/1.2.3/Content/Public%255CTest-OracleConnection.ps1
+eng/custom-cibuild.ps1 ... - 登录,https://jihulab.com/dotnet/winforms/-/blob/51031ed1691bc770048752fa8990a6be1d743145/eng/custom-cibuild.ps1
+eng/scripts/KillProcesses.ps1 ... - GitCode,https://gitcode.net/mirrors/aspnet/AspNetCore/-/blob/fd3871bfe217f2a0224e6dea74744d499fcebcb1/eng/scripts/KillProcesses.ps1
+functions/New-DbaAvailabilityGroup.ps1 1.1.32 - PowerShell Gallery,https://168.61.186.235/packages/dbatools/1.1.32/Content/functions%255CNew-DbaAvailabilityGroup.ps1
+Nmap-Scan.PS1 | Security Testing library - kandi - Open Weaver,https://kandi.openweaver.com/powershell/e-sterling/Nmap-Scan.PS1
