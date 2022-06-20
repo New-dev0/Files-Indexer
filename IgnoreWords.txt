@@ -132,6 +132,7 @@ accumulators
 accurateness
 accursedness
 accusative
+accusatory
 accustomation
 accustoms
 acentric
@@ -971,6 +972,7 @@ antilife
 antilogarithms
 antilynching
 antimacassars
+antimarket
 antimetabolic
 antimetabolites
 antimilitarism
@@ -2461,6 +2463,7 @@ blastulations
 blatant
 blather
 blathered
+blathering
 blathers
 blats
 blaxploitation
@@ -3654,6 +3657,7 @@ cautioners
 cavaliered
 cavalry
 cavatine
+caved
 cavelike
 cavendishes
 cavie
@@ -5137,6 +5141,7 @@ corepressors
 corequisites
 coresidents
 corgi
+corkscrew
 cormoid
 cornball
 cornballs
@@ -5548,6 +5553,7 @@ cruisers
 crullers
 crumbers
 crumby
+crumhorn
 crumhorns
 crummier
 crummies
@@ -5675,6 +5681,7 @@ curet
 curettages
 curette
 curettes
+curious
 curiousness
 curite
 curler
@@ -6620,6 +6627,7 @@ diestrous
 diestrums
 differentiated
 differentiation
+differently
 difficile
 difficulties
 diffraction
@@ -6800,6 +6808,7 @@ discomfitures
 discomfort
 discommends
 discommode
+disconcertments
 disconformities
 disconformity
 disconsolately
@@ -6912,6 +6921,7 @@ dispensations
 dispensing
 dispeopled
 dispersedly
+dispersion
 dispersiveness
 dispersoids
 displace
@@ -7759,6 +7769,7 @@ emissaries
 emissary
 emits
 emmet
+emmetrope
 emoting
 emotionalists
 emotionalize
@@ -8036,6 +8047,7 @@ ephebe
 ephedras
 ephedrines
 ephemeralities
+ephemeras
 ephemeris
 ephori
 ephors
@@ -10651,6 +10663,7 @@ habitues
 habus
 hacker
 hackers
+hacking
 hacks
 hacksawing
 hadj
@@ -11767,6 +11780,7 @@ immunogenetics
 immunologist
 immunology
 immunotherapy
+imp
 impactions
 impactor
 impainted
@@ -12500,6 +12514,7 @@ invention
 inventiveness
 inventivenesses
 inventories
+inventors
 inventress
 inventresses
 invents
@@ -13443,6 +13458,7 @@ legal
 legalistically
 legalists
 legalizations
+legalize
 legalized
 legally
 legateships
@@ -16209,6 +16225,7 @@ numbats
 numbfish
 numeracy
 numeral
+numerating
 numerators
 numeric
 numerologies
@@ -17253,6 +17270,7 @@ palling
 palmation
 palmer
 palmers
+palmette
 palmisters
 palmitins
 palmyra
@@ -18361,6 +18379,7 @@ plowshare
 ploys
 plumbers
 plumerias
+plumes
 plumier
 plummet
 plummy
@@ -19259,6 +19278,7 @@ protozoal
 protozoic
 protozoologies
 protractive
+protrusion
 protrusions
 protuberantly
 provenances
@@ -19616,6 +19636,7 @@ quinone
 quinquennials
 quinquennium
 quintan
+quintans
 quintessences
 quintins
 quints
@@ -20030,6 +20051,7 @@ reconfines
 reconfirming
 reconnection
 reconnoiters
+reconnoitred
 reconquest
 reconsolidating
 reconstituted
@@ -20375,6 +20397,7 @@ reinvoke
 reissue
 reitbok
 reiterating
+reived
 rejectees
 rejections
 rejectors
@@ -20736,6 +20759,7 @@ restrictionists
 restrictively
 restrictives
 restring
+restructured
 rests
 restudies
 restuffs
@@ -20997,6 +21021,7 @@ riffler
 rifle
 riflebirds
 rifling
+right
 righter
 rightists
 rightmost
@@ -21255,6 +21280,7 @@ runway
 rupiah
 rupiahs
 ruralises
+ruralist
 ruralite
 rush
 rusher
@@ -21389,6 +21415,7 @@ samiels
 samizdat
 samosas
 samovar
+samovars
 sampan
 sampled
 samsara
@@ -21787,6 +21814,7 @@ seatings
 seatmate
 seatmates
 seatworks
+seawants
 seaward
 seawares
 secantly
@@ -22043,6 +22071,7 @@ severalties
 severe
 seviches
 sevruga
+sewage
 sewan
 sewed
 sewer
@@ -22545,6 +22574,7 @@ slanderous
 slants
 slashings
 slatches
+slaters
 slatier
 slatiest
 slatiness
@@ -22612,6 +22642,7 @@ sloshed
 sloshiest
 slotback
 slotbacks
+slotter
 slouchers
 slouchiest
 slouchily
@@ -23852,6 +23883,7 @@ subpoena
 subpopulations
 subprograms
 subprojects
+subrents
 subreptitiously
 subrogating
 subrogation
@@ -24256,6 +24288,7 @@ swingling
 swinneys
 swipples
 swirl
+swirled
 swishers
 swishes
 swishing
@@ -26751,6 +26784,7 @@ vicarly
 vicarship
 vice
 vicegeral
+vicenary
 viceroyalty
 viceroys
 viceroyships
@@ -27111,6 +27145,7 @@ wayfarings
 waypoint
 waywardnesses
 wazoos
+weaken
 weakliest
 weaklings
 wealds
