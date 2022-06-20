@@ -201,6 +201,7 @@ action
 actionably
 activating
 activistic
+activizing
 actualities
 actualization
 actuarial
@@ -614,6 +615,7 @@ altarpiece
 altercated
 alterity
 alternants
+alternated
 alternating
 alternators
 alters
@@ -1602,6 +1604,7 @@ autogiro
 autografted
 autograph
 autographically
+autoharps
 autohypnosis
 autoimmune
 autoloading
@@ -2046,6 +2049,8 @@ bedboard
 bedcovering
 bedcovers
 bedding
+bedeafening
+bedeck
 bedevil
 bedews
 bedfellow
@@ -2181,6 +2186,7 @@ benzocaines
 benzoic
 bepainting
 berated
+berberin
 berberines
 berberis
 berdache
@@ -3073,6 +3079,7 @@ bullheadedness
 bulling
 bullishness
 bullnecked
+bullnose
 bullpen
 bullweed
 bullwhip
@@ -3269,6 +3276,7 @@ calculation
 calculus
 calendared
 calendered
+calenderers
 calenders
 calendric
 calendrical
@@ -4314,6 +4322,7 @@ clerically
 clerihews
 clerkships
 cleverer
+clew
 clientages
 clients
 cliffier
@@ -6093,6 +6102,7 @@ decidua
 deciduae
 deciduate
 decile
+decimate
 decimates
 decipherment
 deciphers
@@ -6261,6 +6271,7 @@ deice
 deicer
 deifier
 deiform
+deify
 deifying
 deindustrialize
 deinonychuses
@@ -6773,6 +6784,7 @@ diminishing
 diminutiveness
 diminutives
 dimly
+dimnesses
 dimorphic
 din
 dinar
@@ -6908,6 +6920,7 @@ discouragement
 discouragers
 discouraging
 discoursed
+discovered
 discreditable
 discrete
 discriminant
@@ -7632,6 +7645,7 @@ economizing
 ecospheres
 ecoterrorism
 ecotourisms
+ecotours
 ecru
 ecstatic
 ectases
@@ -9810,6 +9824,7 @@ funnymen
 furcate
 furcately
 furcraea
+furcraeas
 furler
 furlers
 furless
@@ -10175,6 +10190,7 @@ giglets
 gigolos
 gigots
 gigue
+gillies
 gilt
 gimballing
 gimlets
@@ -13660,6 +13676,7 @@ lends
 lengthen
 lengthener
 leniencies
+lenitively
 lenses
 lensless
 lent
@@ -14030,6 +14047,7 @@ lorica
 loricae
 loriners
 lornness
+losablenesses
 losings
 losses
 lossless
@@ -15021,6 +15039,7 @@ mining
 miniscule
 miniscules
 miniski
+miniskirt
 miniskis
 ministerial
 minium
@@ -17996,6 +18015,7 @@ permutational
 permuting
 perniciousness
 pernods
+perorating
 perorator
 peroxisomes
 peroxy
@@ -18630,6 +18650,7 @@ podophyllin
 podsols
 podzolizations
 podzols
+poesies
 poetasters
 poeticize
 poetised
@@ -20808,6 +20829,7 @@ replicabilities
 replicons
 replied
 replots
+replumbing
 replunging
 repolarization
 repolish
@@ -21557,6 +21579,7 @@ saccharified
 sacculations
 sachemic
 sacheted
+sack
 sackbuts
 sacrificers
 sacrilege
@@ -22858,6 +22881,7 @@ sleeky
 sleepiest
 sleepings
 sleepyheads
+sleetier
 sleeting
 slenderizes
 slenderness
@@ -23118,6 +23142,7 @@ soddy
 sodomitic
 sodomized
 sodomizing
+sods
 soever
 sofa
 soften
@@ -23717,6 +23742,7 @@ steamroll
 steamship
 steatopygia
 steeked
+steelhead
 steelie
 steelier
 steelinesses
@@ -25071,6 +25097,7 @@ thankfully
 thankfulness
 thankworthy
 that
+thaumaturgies
 thawless
 thearchies
 theatergoers
@@ -25691,6 +25718,7 @@ triboelectric
 tribologists
 tribrach
 tribulation
+trichites
 trichologists
 trichome
 trichomic
@@ -25840,6 +25868,7 @@ trust
 trustabilities
 trusted
 trustees
+trusteeship
 trustinesses
 trustingly
 truthful
@@ -25962,6 +25991,7 @@ tuxedoed
 tuyer
 tuyeres
 tweak
+tweaky
 tweed
 tweedles
 tweener
@@ -26595,6 +26625,7 @@ unsatisfied
 unsaturated
 unsaturates
 unsaved
+unsavoury
 unschooled
 unscrambling
 unscrews
@@ -26836,6 +26867,7 @@ utricles
 utterance
 uvarovite
 uveitic
+uvula
 uvulars
 uxoriously
 uxoriousnesses
@@ -27028,6 +27060,7 @@ verifiers
 verily
 verists
 veritablenesses
+verity
 vermeil
 vermiculate
 vermifuges
@@ -27206,6 +27239,7 @@ vizirate
 vocabs
 vocabular
 vocalically
+vocalised
 vocalist
 vocalnesses
 vocationally
@@ -27487,6 +27521,7 @@ weenier
 weenies
 weensiest
 weepies
+weest
 weevers
 weevily
 weighman
