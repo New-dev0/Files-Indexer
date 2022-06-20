@@ -1,0 +1,12 @@
+ubuntu-22.04-live-server-amd64.manifest - Ubuntu Releases,https://releases.ubuntu.com/jammy/ubuntu-22.04-live-server-amd64.manifest
+adduser 3.118ubuntu5 apparmor 3.0.4-2ubuntu2 apport 2.20.11 ...,https://cdimage.ubuntu.com/ubuntu-server/daily-live/current/jammy-live-server-arm64.manifest
+ubuntu-18.04.2-preinstalled-server-armhf+raspi2.manifest,http://mirrors.aliyun.com/oldubuntu-releases/releases/18.04.4/ubuntu-18.04.2-preinstalled-server-armhf%2Braspi2.manifest
+ubuntu-20.04.2-preinstalled-server-arm64+raspi.manifest,http://mirrors.aliyun.com/oldubuntu-releases/releases/20.04.0/ubuntu-20.04.2-preinstalled-server-arm64%2Braspi.manifest
+kinetic-live-server-ppc64el.manifest,http://ftp.jaist.ac.jp/pub/Linux/ubuntu-cdimage/ubuntu-server/daily-live/current/kinetic-live-server-ppc64el.manifest
+adduser 3.118ubuntu5 apparmor 3.0.4-2ubuntu1 apport 2.20.11 ...,http://ftp.jaist.ac.jp/pub/Linux/ubuntu-cdimage/ubuntu-server/daily-live/current/jammy-live-server-s390x.manifest
+ubuntu-18.04.2-live-server-amd64.manifest - Ubuntu Releases,http://ubuntu.interhost.co.il/18.04/ubuntu-18.04.2-live-server-amd64.manifest
+ubuntu-20.04-live-server-amd64.manifest - Ubuntu Releases,http://ubuntu.interhost.co.il/20.04/ubuntu-20.04-live-server-amd64.manifest
+accountsservice 0.6.45-1ubuntu1 acl 2.2.52-3build1 acpid 1:2.0.28 ...,http://mirror.rise.ph/ubuntu-iso/bionic/ubuntu-18.04.1-live-server-amd64.manifest
+https://mirrors.xtom.ee/ubuntu-old-releases/releas...,https://mirrors.xtom.ee/ubuntu-old-releases/releases/17.10/ubuntu-17.10-preinstalled-server-armhf%252Braspi2.manifest
+ubuntu-gke-1804-1-16-v20201116,https://storage.googleapis.com/ubuntu-os-gke-cloud/ubuntu-gke-1804-1-16-v20201116.manifest
+https://storage.googleapis.com/ubuntu-os-gke-cloud...,https://storage.googleapis.com/ubuntu-os-gke-cloud/ubuntu-gke-1804-1-16-v20200330.manifest
