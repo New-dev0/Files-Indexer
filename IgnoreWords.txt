@@ -875,6 +875,7 @@ anisometropias
 anisotropically
 ankh
 anklet
+ankylosaurs
 ankylosauruses
 ankylose
 ankylosis
@@ -1979,6 +1980,7 @@ baud
 baulk
 bawtie
 bayard
+bayards
 bayberries
 bayberry
 bayou
@@ -1998,6 +2000,7 @@ beadings
 beadle
 beadledoms
 beadroll
+beadrolls
 beadwork
 beaked
 beakless
@@ -4482,6 +4485,7 @@ cockade
 cockamamy
 cockapoo
 cockatrices
+cockboats
 cocker
 cockered
 cockeyedness
@@ -5939,6 +5943,7 @@ daggerlike
 daggers
 daggled
 dagoes
+daguerreotypist
 dah
 dahabiah
 daidzein
@@ -8806,6 +8811,7 @@ falderol
 falderols
 fallacies
 fallaleries
+faller
 fallible
 falsely
 falsest
@@ -9805,6 +9811,7 @@ fugles
 fugu
 fulcrums
 fulfil
+fulfillment
 fulfills
 fulfilments
 fulfils
@@ -10016,6 +10023,7 @@ garland
 garlic
 garlickier
 garlicky
+garote
 garoted
 garotes
 garotters
@@ -10274,6 +10282,7 @@ glamorized
 glamorizers
 glamorizes
 glamorousness
+glamors
 glancers
 glandular
 glandules
@@ -10658,6 +10667,7 @@ groovy
 groped
 gropingly
 grosze
+grot
 grotesque
 grotesquenesses
 grottier
@@ -11277,6 +11287,7 @@ heterodox
 heterodoxies
 heterodyning
 heteroecism
+heterogameties
 heterogeny
 heterogony
 heterokaryons
@@ -11664,9 +11675,11 @@ humper
 humph
 humpless
 hunch
+hunchbacks
 hunched
 hungers
 hunkey
+hunkeys
 hunters
 huntsman
 huppah
@@ -12451,6 +12464,7 @@ insalubrities
 insalubrity
 insanitations
 insatiable
+inscribes
 inscroll
 insculp
 insecureness
@@ -13135,6 +13149,7 @@ juridic
 jurisprudences
 juster
 justest
+justiciable
 justificatory
 justifying
 justle
@@ -13638,6 +13653,7 @@ laxative
 laxness
 laxnesses
 layoff
+layover
 lays
 layup
 lazars
@@ -13665,6 +13681,7 @@ leans
 leant
 leaped
 leapers
+leastways
 leathered
 leathering
 leatherlike
@@ -13728,6 +13745,7 @@ lending
 lends
 lengthen
 lengthener
+leniences
 leniencies
 lenitively
 lenses
@@ -13928,6 +13946,7 @@ liquefying
 liquid
 liquidates
 liquidity
+liquidly
 liquifying
 lira
 liras
@@ -14495,6 +14514,7 @@ marplots
 marque
 marquisate
 marquisates
+marquises
 marrers
 marrieds
 marsh
@@ -16090,6 +16110,7 @@ newsstand
 newsworthy
 newt
 newwavers
+niacinamides
 niblick
 niccolites
 nice
@@ -17138,6 +17159,7 @@ outslick
 outsmelt
 outsmoked
 outsoles
+outsources
 outspell
 outspokenness
 outspread
@@ -17486,6 +17508,7 @@ packness
 packs
 packthread
 packwax
+paclitaxel
 pacs
 paddleballs
 paddleboard
@@ -17769,6 +17792,7 @@ passages
 passageworks
 passe
 passed
+passee
 passementerie
 passerines
 passional
@@ -18575,6 +18599,7 @@ plaits
 planar
 planeside
 planetaria
+planetoid
 planetological
 planetology
 planets
@@ -21417,6 +21442,7 @@ riveted
 rivetted
 rivieras
 rivulets
+roached
 roaches
 roaching
 roadabilities
@@ -21782,6 +21808,7 @@ sanders
 sandhog
 sandiest
 sanding
+sandlings
 sandlot
 sandpit
 sands
@@ -22703,6 +22730,7 @@ shuttle
 shuttlecocking
 shvartzes
 shylock
+shynesses
 sialidan
 sials
 sibs
@@ -23187,6 +23215,7 @@ snows
 snowshed
 snowshoer
 snowslide
+snowstorm
 snowy
 snub
 snubbier
@@ -24066,6 +24095,7 @@ stridulation
 stridulations
 stridulous
 strifes
+strike
 strikebreakers
 strikeouts
 strikeovers
@@ -24423,6 +24453,7 @@ summarist
 summarizable
 summarizer
 summarizers
+summating
 summed
 summerlike
 summersets
@@ -24642,6 +24673,7 @@ swanherds
 swankest
 swanpan
 swans
+swappers
 swarajism
 swarmer
 swartness
@@ -24739,6 +24771,7 @@ sympetalous
 symphonically
 symphonists
 symposiarch
+symptomatologic
 synaestheses
 synaesthesia
 synagog
@@ -24772,6 +24805,7 @@ synergisms
 synergist
 synergistic
 syngenic
+synonymize
 synonymously
 synopsizes
 synoptical
@@ -27578,6 +27612,7 @@ wavers
 wavicle
 wavies
 wavily
+waviness
 wawl
 waws
 waxable
