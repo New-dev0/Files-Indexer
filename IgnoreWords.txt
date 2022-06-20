@@ -471,6 +471,7 @@ alands
 alang
 alanin
 alans
+alarmed
 alarmisms
 alarmist
 alarum
@@ -1277,6 +1278,7 @@ arete
 argentums
 argons
 argosy
+arguer
 argumenta
 argumentations
 argumentative
@@ -2168,6 +2170,7 @@ bellybands
 beloveds
 below
 belter
+beltline
 bemata
 bemingles
 bemisting
@@ -3019,6 +3022,7 @@ bruising
 bruited
 brumby
 brushability
+brushed
 brushiest
 brushoff
 brushwoods
@@ -3256,6 +3260,7 @@ cadaverines
 caddis
 caddised
 caddisworms
+caddy
 caddying
 cadenzas
 cadetship
@@ -3540,6 +3545,7 @@ caressers
 caresses
 caretaking
 caretakings
+caretook
 carex
 cargo
 cargoes
@@ -4471,6 +4477,7 @@ coatees
 coats
 coattail
 coattest
+coattesting
 coauthoring
 coaxed
 coaxer
@@ -4999,6 +5006,7 @@ connectedly
 connectedness
 connections
 conning
+connivers
 conniving
 connoted
 connotes
@@ -7826,6 +7834,7 @@ electrophorese
 electropositive
 electrotypes
 elegiacal
+elegiacally
 elegiacs
 elegies
 elegising
@@ -8033,6 +8042,7 @@ endothelium
 endpapers
 endurable
 endurably
+endurances
 endured
 enemata
 energetically
@@ -8980,6 +8990,7 @@ federal
 federals
 federating
 federative
+fedexing
 feds
 feedgrains
 feedlot
@@ -10784,6 +10795,7 @@ guilt
 guiltless
 guimpes
 guineas
+guipures
 guises
 guising
 guldens
@@ -10886,6 +10898,7 @@ habus
 hacker
 hackers
 hacking
+hackneys
 hacks
 hacksawing
 hadj
@@ -11003,6 +11016,7 @@ hanselling
 haphtara
 haphtarah
 hapkido
+haplopia
 happened
 happens
 happy
@@ -12896,6 +12910,7 @@ isoantigenic
 isocaloric
 isocarboxazid
 isochimes
+isochores
 isochrone
 isochrons
 isoclinals
@@ -13342,6 +13357,7 @@ kidnappers
 kidney
 kidskins
 kidvid
+kief
 kilim
 kill
 killdeers
@@ -14833,6 +14849,7 @@ meow
 mephitises
 merbromin
 merbromins
+mercantilism
 mercenaries
 mercenarinesses
 mercerising
@@ -18861,6 +18878,7 @@ pollard
 pollees
 pollen
 pollenate
+pollenates
 pollenosis
 pollex
 pollination
@@ -19143,6 +19161,7 @@ prearranged
 prearranging
 prebend
 prebendaries
+prebidden
 preblessing
 preboiled
 prebook
@@ -19766,6 +19785,7 @@ puggries
 pugilist
 pugilists
 pugnaciously
+puissances
 pujah
 pujahs
 pula
@@ -19832,6 +19852,7 @@ purblindly
 purchase
 purchasing
 purda
+purdahs
 purebreds
 puree
 pureeing
@@ -20472,6 +20493,7 @@ reconvicted
 reconvicting
 reconvictions
 reconvicts
+reconvincing
 recooked
 recopying
 recordations
@@ -21029,6 +21051,7 @@ reprocess
 reprocessing
 reproducer
 reproductives
+reprogrammable
 reprovers
 reptilian
 republicanize
@@ -21198,6 +21221,7 @@ resurfacing
 resurging
 resurrect
 resurrects
+resuscitations
 reswallowed
 retackle
 retailored
@@ -21228,6 +21252,7 @@ rethinkers
 rethreaded
 reticulate
 reticulately
+reticulates
 reticulation
 reticulum
 reticulums
@@ -21406,6 +21431,7 @@ ribbers
 ribbing
 ribonucleotide
 ribosomes
+ribworts
 ricercari
 richen
 richer
@@ -23047,6 +23073,7 @@ slavocrats
 slaw
 slays
 sleazebag
+sleazes
 sleazo
 sleek
 sleekened
@@ -23162,6 +23189,7 @@ smashers
 smattering
 smatterings
 smatters
+smearier
 smegma
 smell
 smelter
@@ -23832,6 +23860,7 @@ staig
 stainer
 stainers
 staircases
+stairheads
 stairlike
 stairwells
 staithe
@@ -24799,6 +24828,7 @@ swordfishes
 swordmen
 swordtails
 swotted
+swotting
 swounds
 swum
 sybaritic
@@ -25003,6 +25033,7 @@ tannages
 tanned
 tanners
 tantalates
+tantalises
 tantalizing
 tantalum
 tantrism
@@ -26506,6 +26537,7 @@ undergone
 undergrads
 undergraduates
 underhand
+underheat
 underheating
 underinflated
 underinvestment
@@ -26718,6 +26750,7 @@ unlevels
 unliberated
 unlikable
 unlikelihoods
+unlived
 unlively
 unloads
 unlocks
@@ -26840,6 +26873,7 @@ unseeing
 unseemlier
 unseen
 unsegregated
+unselling
 unsensational
 unserved
 unsetting
@@ -27411,6 +27445,7 @@ visored
 visualists
 visualities
 visualizations
+visualized
 vita
 vitae
 vitalistic
