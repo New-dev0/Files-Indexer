@@ -448,6 +448,7 @@ airbrushed
 airchecks
 airfields
 airflow
+airframes
 airfreight
 airlifting
 airliner
@@ -1243,6 +1244,7 @@ arborize
 arbors
 arbovirus
 arbutus
+arbutuses
 arc
 arcadian
 arcana
@@ -1987,6 +1989,7 @@ bathysphere
 batiks
 batlike
 batmen
+baton
 batrachians
 batsman
 batsmen
@@ -2245,6 +2248,7 @@ beshroud
 beshrouded
 beshrouding
 besiege
+besieger
 besmiles
 besmoking
 besmoothed
@@ -3703,6 +3707,7 @@ catamaran
 catamarans
 catamite
 catamounts
+cataphylls
 catapult
 catapulted
 catarrh
@@ -4385,6 +4390,7 @@ clencher
 clenches
 clepes
 clepsydra
+clergywomen
 clerically
 clerihews
 clerkships
@@ -7617,6 +7623,7 @@ duncishly
 dunderheads
 dunelike
 dunlin
+dunner
 dunnite
 duns
 dunting
@@ -8307,6 +8314,7 @@ epichlorohydrin
 epicontinental
 epicotyl
 epicotyls
+epicuticular
 epidemic
 epidemics
 epidemiologic
@@ -8651,6 +8659,7 @@ excursionists
 excursiveness
 excused
 excuses
+execrates
 execrative
 execrator
 execs
@@ -10123,6 +10132,7 @@ garcons
 gardai
 gardeners
 gardens
+garderobe
 gargantuan
 gargety
 gargled
@@ -10321,6 +10331,7 @@ ghosted
 ghostwriting
 ghoulish
 ghoulishness
+ghoulishnesses
 ghouls
 giantesses
 giantisms
@@ -10898,6 +10909,7 @@ gumboots
 gumbos
 gumbotil
 gumdrops
+gumlines
 gummed
 gummer
 gummers
@@ -11292,6 +11304,7 @@ heinously
 heired
 heishi
 heister
+hektare
 helicity
 helicoidal
 heliconia
@@ -11902,6 +11915,7 @@ hymeniums
 hymenopteron
 hymens
 hymnbooks
+hymning
 hymnless
 hymnodist
 hyoidal
@@ -13044,6 +13058,7 @@ isoplethic
 isospories
 isostacy
 isostatic
+isotach
 isotachs
 isotactic
 isotheres
@@ -13063,6 +13078,7 @@ italicizes
 itching
 itchings
 item
+itemises
 itemize
 itemizer
 iterant
@@ -13108,6 +13124,7 @@ jammed
 jammer
 jammies
 jampacked
+jane
 jangles
 janglier
 japanize
@@ -14401,6 +14418,7 @@ luscious
 lusciously
 lusher
 lusterwares
+lustily
 lustrations
 lustring
 lustrum
@@ -16262,6 +16280,7 @@ neuritic
 neuroanatomists
 neurobiologist
 neurochemical
+neurocoel
 neurohormonal
 neurohypophysis
 neurologies
@@ -16411,6 +16430,7 @@ nonacids
 nonaddicts
 nonadmirer
 nonadults
+nonaffiliated
 nonages
 nonagricultural
 nonantibiotic
@@ -17387,6 +17407,7 @@ outthanked
 outthinks
 outtowering
 outtrick
+outturns
 outvie
 outvoice
 outvoices
@@ -17685,6 +17706,7 @@ oxygenic
 oxymoronically
 oxyphiles
 oystercatcher
+oystermen
 oysters
 ozocerite
 ozokerite
@@ -17844,6 +17866,7 @@ pans
 pantaloon
 pantechnicons
 pantheist
+pantheistically
 pantheists
 panting
 panto
@@ -18394,6 +18417,7 @@ petal
 petalled
 petaloid
 petasos
+petasus
 petasuses
 petcocks
 petechia
@@ -18580,6 +18604,7 @@ physiologist
 physique
 physiqued
 physostigmine
+physostigmines
 phytochemically
 phytochrome
 phytoid
@@ -19155,6 +19180,7 @@ poshness
 posited
 positing
 position
+positions
 positivistic
 posits
 posole
@@ -19614,6 +19640,7 @@ primitivity
 primness
 primnesses
 primogenitor
+primp
 primroses
 prims
 primus
@@ -21519,6 +21546,7 @@ revery
 revesting
 revibrates
 revibrating
+revictual
 revictuals
 reviewed
 reviewers
@@ -22233,6 +22261,7 @@ scare
 scareder
 scarf
 scarfed
+scarfpin
 scarfpins
 scarifiers
 scarious
@@ -22261,6 +22290,7 @@ scepter
 schadenfreudes
 schedular
 schedules
+schematization
 schematizes
 scherzo
 schillers
@@ -22871,6 +22901,7 @@ shiftable
 shiftily
 shiftinesses
 shifting
+shiftlessnesses
 shikaree
 shillelah
 shim
@@ -25567,6 +25598,7 @@ thermic
 thermidor
 thermites
 thermochemists
+thermocouples
 thermoduric
 thermoform
 thermograph
@@ -26109,6 +26141,7 @@ traumatism
 traumatization
 traumatizations
 traumatize
+traveler
 travels
 traversable
 travertine
@@ -26216,6 +26249,7 @@ trilinear
 trilingual
 trilling
 trillion
+trillium
 trilobal
 trilobed
 trimers
@@ -26619,6 +26653,7 @@ unbelted
 unbelting
 unbelts
 unbenign
+unbent
 unbitted
 unblended
 unblest
