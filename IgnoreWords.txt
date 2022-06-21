@@ -513,6 +513,7 @@ alertnesses
 ales
 alewives
 alexin
+alfaquis
 alfilarias
 algae
 algebras
@@ -966,6 +967,7 @@ antiarrhythmic
 antiars
 antiarthritic
 antiasthma
+antibacterial
 antibiotically
 antiburglar
 antically
@@ -1080,6 +1082,7 @@ antitussive
 antitypes
 antiviral
 antiwelfare
+antler
 antlered
 antra
 anuretic
@@ -3507,6 +3510,7 @@ canvaser
 canvasing
 canzonas
 capabler
+capablest
 capacitation
 capacitive
 capacitively
@@ -4016,6 +4020,7 @@ chatter
 chattered
 chatterers
 chatters
+chattily
 chattiness
 chauffeur
 chauffeured
@@ -4283,6 +4288,7 @@ chute
 chutes
 chutists
 chymist
+chymists
 cibol
 ciboules
 cicatrization
@@ -4892,6 +4898,7 @@ compiles
 complacently
 complain
 complained
+complains
 complaint
 complect
 complected
@@ -4921,6 +4928,7 @@ comprising
 comprized
 compting
 comptrollers
+compulsive
 compulsively
 compulsiveness
 compulsorily
@@ -4931,6 +4939,7 @@ computerise
 computerises
 computerising
 computerist
+computerize
 computerized
 computerphobias
 computists
@@ -10066,6 +10075,7 @@ fussbudgets
 fustics
 futileness
 futility
+futures
 futurities
 futzed
 fuzed
@@ -13917,6 +13927,7 @@ lays
 layup
 lazars
 lazying
+lazyish
 leachates
 leaches
 lead
@@ -15164,6 +15175,7 @@ meteoritic
 meteoroidal
 meteorological
 meteorology
+meter
 meterages
 metering
 metestrus
@@ -16519,6 +16531,7 @@ nomads
 nomarch
 nomas
 nombrils
+nomenclator
 nomenclatorial
 nominal
 nominalists
@@ -17562,6 +17575,7 @@ overbriefed
 overbrowsing
 overbuild
 overburdening
+overcalled
 overcharge
 overchilled
 overcold
@@ -17653,6 +17667,7 @@ overingenuity
 overissuances
 overjoyed
 overkill
+overkilled
 overladen
 overlavish
 overlay
@@ -18691,6 +18706,7 @@ phthalocyanine
 phycocyanins
 phycoerythrins
 phycomycetes
+phylaxis
 phylaxises
 phyle
 phyleses
@@ -18805,6 +18821,7 @@ pigskins
 pigsney
 pikes
 pikestaff
+pikestaffs
 pikestaves
 pilaffs
 pilau
@@ -19661,6 +19678,7 @@ presidentships
 presider
 presidia
 presifts
+presignalling
 presignifying
 preslaughter
 presolves
@@ -21506,6 +21524,7 @@ restaffed
 restartable
 restatements
 restationed
+restations
 restaurant
 restaurants
 restaurateur
@@ -22217,6 +22236,7 @@ sanctioning
 sandaling
 sandals
 sandarac
+sandbaggers
 sandbagging
 sandbags
 sandblasted
@@ -22478,6 +22498,7 @@ scirrhi
 scissor
 sclaffing
 sclerites
+scleritis
 sclerose
 scolder
 scolders
@@ -24068,6 +24089,7 @@ splatted
 splaying
 spleenwort
 spleeny
+splendidest
 splendiferous
 splendour
 splenetics
@@ -26311,6 +26333,7 @@ trawlnets
 trayful
 treachery
 treacliest
+treader
 treading
 treasurership
 treasuring
@@ -27458,6 +27481,7 @@ uprighting
 upriver
 uproarious
 uproariously
+uproariousness
 uprootal
 uprootedness
 uprootednesses
@@ -27960,6 +27984,7 @@ voluntaryists
 volunteering
 volunteerisms
 volutes
+volutins
 volvox
 vomicae
 vomiter
@@ -28360,6 +28385,7 @@ wilded
 wilders
 wildfire
 wildfowlings
+wildfowls
 wildings
 wilinesses
 willers
@@ -28753,6 +28779,7 @@ yuppieish
 yuppified
 yuppifying
 yurt
+ywis
 zacaton
 zaffars
 zagging
