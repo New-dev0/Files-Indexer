@@ -1,0 +1,5 @@
+ioBroker.vis/cache.manifest at master · ioBroker/ioBroker.vis · GitHub,https://github.com/ioBroker/ioBroker.vis/blob/master/www/cache.manifest
+jHzmgxE5E3LbLo9Drp1UD+DKelHAEf6Srs7AXcyV2Iw=,http://sdrongxin.net/Windows/winsxs/Manifests/amd64_microsoft-windows-m..layer-vis.resources_31bf3856ad364e35_6.1.7600.16385_zh-cn_bb77f41b15769a8e.manifest
+"Package: 464xlat Version: 11 Depends: libc, kmod-nat46, ip Source ...",https://downloads.openwrt.org/releases/18.06.5/packages/mips_24kc/routing/Packages.manifest
+"Package: ahcpd Version: 0.53-3 Depends: libc, ip, librt Source ...",https://downloads.immortalwrt.org/snapshots/packages/arm_cortex-a5_vfpv4/routing/Packages.manifest
+"Package: 464xlat Version: 10 Depends: libc, kmod-nat46, ip Source ...",https://usingpro.com/releases/17.01.0/packages/arm_arm926ej-s/routing/Packages.manifest
