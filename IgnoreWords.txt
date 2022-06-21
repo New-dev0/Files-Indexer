@@ -156,6 +156,7 @@ achenial
 achlorhydria
 achondrite
 achromatize
+achromats
 acidifiers
 acidifies
 acidify
@@ -693,6 +694,7 @@ amethyst
 amianthus
 amianthuses
 amiantuses
+amide
 amidine
 amidogens
 amidones
@@ -2193,6 +2195,7 @@ bemoans
 bemock
 bemocking
 bemuddling
+bemurmured
 bemusedly
 bendable
 beneficial
@@ -2640,6 +2643,7 @@ boated
 boatnecks
 boatsmen
 boatyard
+bobbery
 bobolinks
 bobsleigh
 bobwhites
@@ -3036,6 +3040,7 @@ brosy
 brouhaha
 browband
 browed
+browned
 brownnosed
 brownnoser
 brownstones
@@ -3159,6 +3164,7 @@ bunrakus
 bunter
 bunters
 buoyance
+buppies
 buppy
 burans
 burb
@@ -6431,6 +6437,7 @@ demic
 demigoddess
 demilitarize
 demilunes
+demise
 demises
 demissions
 demits
@@ -6631,6 +6638,7 @@ destituteness
 destitutes
 destitution
 destroys
+destruction
 desuetude
 desugaring
 desulfurizing
@@ -7052,6 +7060,7 @@ disentitled
 disequilibrated
 diseur
 diseuses
+disfavors
 disfigure
 disfrock
 disgrace
@@ -8193,6 +8202,7 @@ enstatite
 enswathed
 entailers
 entameba
+entamoeba
 entasia
 entasis
 enter
@@ -9451,6 +9461,7 @@ floosie
 flophouse
 flopover
 floppers
+floppiest
 floppiness
 floras
 floriated
@@ -10698,6 +10709,7 @@ grazier
 grazings
 greaseball
 greaseproofs
+greatcoats
 greatheartedly
 grebes
 grecize
@@ -12124,6 +12136,7 @@ immunogenetics
 immunologist
 immunology
 immunotherapy
+immure
 imp
 impactions
 impactor
@@ -14306,6 +14319,7 @@ louted
 loutish
 loutishnesses
 lovages
+loveably
 lovebirds
 lovebugs
 lovefests
@@ -14656,6 +14670,7 @@ marination
 marine
 marishes
 maritime
+mark
 markedly
 market
 marketeer
@@ -14803,6 +14818,7 @@ mealiness
 mealless
 mean
 meaners
+meanest
 meaningless
 meaninglessly
 meaningly
@@ -15153,6 +15169,7 @@ micturated
 mid
 midcult
 middlebrows
+middleman
 middlers
 middlingly
 midfielder
@@ -15455,6 +15472,7 @@ misrepresents
 misroutes
 missaid
 missenses
+missing
 missioners
 missionized
 missionizes
@@ -15489,6 +15507,7 @@ mistryst
 mists
 mistune
 mistuned
+mistutor
 misty
 misunderstands
 misvalue
@@ -15646,6 +15665,7 @@ monologuists
 monomaniac
 monomaniacally
 monomeric
+monometallic
 monometallist
 monometer
 monomorphemic
@@ -15924,6 +15944,7 @@ munched
 mundane
 mundungus
 municipally
+municipals
 munificently
 munis
 muralled
@@ -17905,6 +17926,7 @@ parashioth
 parashot
 parasitise
 parasitisms
+parasitologic
 parasitologist
 parasitologists
 parasol
@@ -17970,6 +17992,7 @@ partnered
 partnership
 partons
 partridge
+parts
 parturitions
 partygoers
 parvis
@@ -19470,6 +19493,7 @@ prerectal
 preregistration
 prerenal
 prerequire
+prerinsed
 prerinsing
 presbyters
 prescheduled
@@ -20816,6 +20840,7 @@ refinable
 refinancing
 refined
 refiners
+refinish
 refinishers
 refire
 refit
@@ -21435,6 +21460,7 @@ retransferring
 retransfers
 retransform
 retransforms
+retransmission
 retread
 retrials
 retributory
@@ -21656,6 +21682,7 @@ riprapped
 ripsnorter
 riskers
 risotto
+rissole
 ristra
 risus
 ritards
@@ -21961,6 +21988,7 @@ saimin
 sainted
 saintships
 saith
+saiyid
 saiyids
 sajous
 sakes
@@ -23963,6 +23991,7 @@ sprues
 sprug
 spry
 spumy
+spunk
 spunkies
 spunks
 spurgall
@@ -24565,6 +24594,7 @@ suborder
 subordinately
 subordinator
 suborn
+suborning
 suboxide
 subparallel
 subphase
@@ -26632,6 +26662,7 @@ unchallengeable
 unchancy
 uncharges
 uncharging
+unchastest
 unchecked
 unchlorinated
 unchoked
@@ -27298,6 +27329,7 @@ usurers
 usuriousnesses
 usurper
 uteruses
+utilisers
 utilitarianism
 utilitarianisms
 utopistic
@@ -27324,6 +27356,7 @@ vagabondism
 vagaries
 vagile
 vaguer
+vagus
 valeted
 valiancy
 valiant
@@ -28037,6 +28070,7 @@ whinges
 whining
 whinnies
 whinny
+whipcord
 whipcords
 whiplike
 whippier
@@ -28266,6 +28300,7 @@ woodwaxen
 woof
 woolgathering
 woolhat
+wooliness
 wools
 woolwork
 woomeras
