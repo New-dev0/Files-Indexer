@@ -1241,6 +1241,7 @@ arbors
 arbovirus
 arbutus
 arc
+arcadian
 arcana
 arced
 archaeal
@@ -1711,6 +1712,7 @@ ays
 ayurveda
 azalea
 azaleas
+azeotropies
 azimuths
 azines
 azotemia
@@ -2595,6 +2597,7 @@ blubberer
 blubbering
 bludgeon
 bludgeoned
+bludgeoning
 bluebeards
 blueberry
 bluecap
@@ -2992,6 +2995,7 @@ broider
 broidered
 brokenhearted
 brokenness
+brokennesses
 broker
 brokers
 bromals
@@ -3000,6 +3004,7 @@ bromating
 bromeliad
 brominated
 brominations
+bromine
 brominisms
 bromizes
 bronchiectases
@@ -3015,6 +3020,7 @@ brooders
 broodily
 brooding
 brookie
+brookies
 brookites
 brooklet
 brooks
@@ -4563,6 +4569,8 @@ codlings
 codrive
 codriver
 cods
+codswallop
+coeds
 coeducation
 coeducationally
 coeffect
@@ -4608,6 +4616,7 @@ cogwheel
 cohabitants
 coheading
 coheiress
+coheirs
 cohere
 coherences
 coherencies
@@ -5085,6 +5094,7 @@ constringe
 construction
 constructional
 constructions
+constructivisms
 construed
 construers
 construes
@@ -7443,6 +7453,7 @@ drake
 dramas
 dramatizations
 dramaturges
+dramedies
 drammed
 drammocks
 drapery
@@ -9404,6 +9415,7 @@ flintiness
 flirted
 flite
 flited
+flits
 flitter
 flittered
 flitting
@@ -9712,6 +9724,7 @@ foxgloves
 foxhunting
 foxhuntings
 foxier
+foxiest
 foxinesses
 foxtail
 foxtrotted
@@ -9897,6 +9910,7 @@ fulleries
 fullfaces
 fullmouthed
 fullness
+fulminated
 fulminic
 fulsomenesses
 fumers
@@ -11454,6 +11468,7 @@ hillos
 hillslope
 hilt
 hilted
+hindbrains
 hinder
 hindering
 hindrance
@@ -11477,6 +11492,7 @@ histologist
 histologists
 histone
 historiographer
+hitchhiker
 hitchhiking
 hitherto
 hitters
@@ -13460,6 +13476,7 @@ kipperers
 kipskin
 kipskins
 kirigami
+kirn
 kirsch
 kissed
 kissing
@@ -14360,6 +14377,7 @@ lusty
 luteal
 lutefisk
 lutein
+luteinizing
 luteotrophins
 luteotropic
 lutfisks
@@ -14834,6 +14852,7 @@ megahit
 megakaryocytic
 megalomania
 megalomaniacal
+megalomaniacs
 megalomanias
 megalomanic
 megalopolises
@@ -17702,6 +17721,7 @@ palatialnesses
 palavered
 palaverers
 paleae
+paleface
 paleness
 paleobiologists
 paleoecologic
@@ -20563,6 +20583,7 @@ recommissioning
 recommitments
 recompensed
 recompenses
+recomputed
 reconceived
 reconcilability
 reconcilable
@@ -21163,6 +21184,7 @@ repugnantly
 repugning
 repump
 repumped
+repurchased
 repurposes
 repursue
 repursued
@@ -21561,6 +21583,7 @@ ridicules
 ridiculously
 ridings
 ridotto
+rids
 riesling
 rifampin
 riffing
@@ -22525,6 +22548,7 @@ semiprecious
 semiquaver
 semiquavers
 semiraw
+semises
 semitonal
 semitrucks
 semiurban
@@ -22788,6 +22812,7 @@ shiel
 shielders
 shiest
 shiftable
+shiftily
 shiftinesses
 shifting
 shillelah
@@ -23280,6 +23305,7 @@ slumgullions
 slumism
 slumlords
 slummed
+slummier
 slummiest
 slumping
 slungshot
@@ -23394,6 +23420,7 @@ snooker
 snookering
 snooted
 snoots
+snooziest
 snore
 snored
 snort
@@ -23878,6 +23905,7 @@ sprayer
 sprees
 sprigger
 sprightliness
+sprightlinesses
 springalds
 springer
 springers
@@ -26001,6 +26029,7 @@ trapball
 trapdoor
 trapesing
 trapeze
+trapezohedra
 trapezoids
 trapnesting
 trapped
@@ -26087,6 +26116,7 @@ tricing
 trickinesses
 trickish
 trickle
+trickling
 trickly
 trickster
 tricorn
@@ -26395,6 +26425,7 @@ tympanic
 tympanist
 tympany
 tynes
+typefaces
 typefounders
 typescript
 typescripts
@@ -27567,6 +27598,7 @@ viscidity
 viscoelastic
 viscoelasticity
 viscometers
+viscosimeter
 viscounts
 viscus
 viseed
@@ -28158,9 +28190,11 @@ wolfishly
 wolflike
 wolfsbane
 womanishness
+womanlike
 womanliness
 womans
 wombed
+wombs
 womenfolk
 womenfolks
 womenkind
@@ -28482,6 +28516,7 @@ zidovudine
 zigzagged
 zillahs
 zillions
+zincate
 zincking
 zincky
 zincy
