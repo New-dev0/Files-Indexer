@@ -1241,6 +1241,7 @@ aquiline
 aquilinities
 ar
 arabicas
+arabicization
 arabicize
 arabicized
 arabize
@@ -3944,6 +3945,7 @@ ceruloplasmins
 ceruminous
 cervelases
 cervix
+cesarian
 cessation
 cessations
 cesspit
@@ -4203,6 +4205,7 @@ chirpily
 chirred
 chirrs
 chirus
+chis
 chiselers
 chiselled
 chital
@@ -5337,6 +5340,7 @@ copay
 cope
 copeck
 coped
+copers
 copes
 copihue
 coplanar
@@ -8102,6 +8106,7 @@ embeds
 embezzlers
 embitter
 embitters
+emblazoned
 emblazoner
 emblemize
 emblemized
@@ -8195,6 +8200,7 @@ enchase
 enchaser
 enchasing
 encipherer
+enciphering
 enciphers
 enclasped
 enclave
@@ -8315,6 +8321,7 @@ enolic
 enorm
 enosis
 enow
+enows
 enplaned
 enquires
 enravished
@@ -8465,6 +8472,7 @@ epigenists
 epiglottal
 epigrammatic
 epigrammatists
+epigrapher
 epigraphy
 epigynous
 epilate
@@ -8486,6 +8494,7 @@ episcopacy
 episcopally
 epistemology
 epistolary
+epistyles
 epitaxially
 epithelial
 epithelialized
@@ -11272,11 +11281,13 @@ handlist
 handmade
 handmaid
 handoff
+handsaw
 handselling
 handsful
 handshake
 handshakes
 handsomely
+handy
 handyperson
 hang
 hangtags
@@ -11302,6 +11313,7 @@ hardboard
 hardhat
 hardiest
 hardihoods
+hardinesses
 hardly
 hardnoses
 hardtops
@@ -12186,6 +12198,7 @@ hypospadiases
 hypostatize
 hypostomes
 hypotenuse
+hypothecates
 hypothecation
 hypothermias
 hypothyroidism
@@ -12330,6 +12343,7 @@ immolate
 immolating
 immolator
 immoralism
+immoralisms
 immortalization
 immortalizer
 immortally
@@ -12517,6 +12531,7 @@ inclip
 inclipping
 incognitos
 income
+incoming
 incommensurably
 incommensurate
 incommoded
@@ -12685,6 +12700,7 @@ infelicitous
 infeoffs
 inferable
 inferably
+inferior
 infernally
 infidelic
 infighters
@@ -13609,6 +13625,7 @@ kazillions
 kbars
 keas
 kebab
+kebbocks
 kebbucks
 kebob
 keckles
@@ -13653,6 +13670,7 @@ kerbed
 kerbs
 kerchieves
 kerchoo
+kerfed
 kerne
 kerosine
 kerplunking
@@ -14824,6 +14842,7 @@ manage
 managerships
 mananas
 manches
+manchineel
 mandamus
 mandamuses
 mandating
@@ -16435,6 +16454,7 @@ near
 nearly
 nears
 nearshore
+nearside
 neaten
 neath
 neats
@@ -16874,6 +16894,7 @@ nonrailroad
 nonrandom
 nonrecombinant
 nonreducing
+nonrefillable
 nonreflecting
 nonrelativistic
 nonrenewable
@@ -17302,8 +17323,10 @@ operosenesses
 ophidians
 ophiolites
 ophite
+ophiuroids
 opiate
 opiating
+opined
 opinionated
 opioids
 opisthobranch
@@ -19572,6 +19595,7 @@ potheen
 pothouse
 pothunter
 potlache
+pots
 potshards
 potshot
 potstones
@@ -19771,6 +19795,7 @@ prejudiced
 prekindergarten
 prelegal
 prelives
+prelocate
 prelocates
 prelude
 preluding
@@ -20431,6 +20456,7 @@ pyramidal
 pyranosides
 pyrenes
 pyrexic
+pyrheliometric
 pyric
 pyridoxin
 pyridoxines
@@ -20772,6 +20798,7 @@ ration
 rationales
 rationalists
 ratites
+ratlike
 ratlins
 ratoons
 ratos
@@ -22048,6 +22075,7 @@ ripplet
 riprapped
 ripsnorter
 riskers
+risorgimento
 risotto
 rissole
 ristra
@@ -22324,6 +22352,7 @@ sacrosanctities
 sacrums
 saddhus
 saddlebred
+saddlebreds
 saddlecloths
 saddletrees
 sades
@@ -25407,6 +25436,7 @@ sweatboxes
 sweater
 sweatpants
 sweats
+sweatshirts
 swede
 sweeney
 sweenies
@@ -26596,6 +26626,7 @@ trialogue
 triangle
 triangulated
 triangulation
+triarchies
 triaxial
 triazin
 triazoles
@@ -27329,6 +27360,7 @@ unflinching
 unflinchingly
 unfold
 unfossiliferous
+unfreed
 unfreezes
 unfriendliness
 unfrock
@@ -27673,6 +27705,7 @@ unworldly
 unwove
 unyoking
 unyoung
+unzipping
 upbears
 upbeat
 upboiled
@@ -28039,6 +28072,7 @@ vexilla
 vial
 viand
 viands
+viatica
 viator
 viators
 vibrated
@@ -28111,6 +28145,7 @@ viridescent
 viridity
 virilizes
 virion
+viroids
 virologic
 virtu
 virtueless
