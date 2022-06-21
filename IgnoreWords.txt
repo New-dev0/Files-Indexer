@@ -947,6 +947,7 @@ antecede
 anteceded
 antecedents
 anteceding
+antecessor
 antecessors
 anted
 antediluvian
@@ -2242,6 +2243,7 @@ beneficiated
 beneficiating
 benefit
 benefited
+benefitted
 benempt
 benevolentness
 benignancy
@@ -2273,6 +2275,7 @@ berthas
 berthed
 berylliums
 bescorches
+bescreen
 beseeches
 beseeching
 beseem
@@ -2768,6 +2771,7 @@ bonuses
 boob
 boobie
 boobird
+boobish
 boodler
 boodling
 boogermen
@@ -3068,6 +3072,7 @@ bronchitic
 bronchoscopists
 bronchospasms
 broncobuster
+bronzer
 bronzing
 bronzings
 brooders
@@ -3118,6 +3123,7 @@ brutify
 brutishly
 bruts
 bruxisms
+bryologies
 bryologist
 bryophyllums
 bryozoans
@@ -3156,6 +3162,7 @@ buggeries
 buggering
 bugle
 bugler
+bugloss
 buhlwork
 buhr
 build
@@ -3549,6 +3556,7 @@ capitalist
 capitols
 capitulary
 caponier
+capotes
 cappelletti
 cappers
 capriccio
@@ -3826,6 +3834,7 @@ caused
 causeless
 causerie
 causers
+causes
 causewayed
 causey
 causeys
@@ -4118,6 +4127,7 @@ chevying
 chewiness
 chiaroscurists
 chias
+chiasmatic
 chiasmic
 chibouque
 chic
@@ -5035,6 +5045,7 @@ coneflowers
 conepatls
 confab
 confabbed
+confectioner
 confectioners
 confederacy
 confederated
@@ -5669,6 +5680,7 @@ creek
 creepages
 creeped
 creese
+creeshes
 cremates
 cremator
 cremators
@@ -5975,6 +5987,7 @@ cusped
 cuspids
 cuspis
 cussers
+cussword
 custodian
 custodianships
 custody
@@ -5990,6 +6003,7 @@ cutches
 cutdowns
 cutely
 cuteness
+cutes
 cutest
 cuteys
 cutinised
@@ -6173,6 +6187,7 @@ dartboards
 darter
 darters
 dartle
+dasheens
 dashing
 dashis
 dastard
@@ -6819,6 +6834,7 @@ diabolically
 diabolist
 diabolo
 diaconates
+diadelphous
 diademing
 diaeresis
 diagnosable
@@ -8199,6 +8215,7 @@ endemial
 endemism
 ending
 endleafs
+endnote
 endobiotic
 endocardial
 endoderm
@@ -11310,6 +11327,7 @@ harvestable
 harvested
 harvesting
 harvestmen
+has
 hashheads
 hassled
 hastately
@@ -11903,6 +11921,7 @@ hotchpotches
 hotelier
 hotelman
 hotheaded
+hotheadedly
 hothousing
 hotly
 hotrods
@@ -12400,6 +12419,7 @@ improvable
 improve
 improvements
 improvident
+improving
 improvisatori
 improvised
 improvisers
@@ -13038,6 +13058,7 @@ intrepidity
 intrepidly
 intriguant
 introit
+intromission
 intromit
 intromitted
 introspect
@@ -13570,6 +13591,7 @@ kbars
 keas
 kebab
 kebbucks
+kebob
 keckles
 kecks
 kedges
@@ -14215,6 +14237,7 @@ lifting
 ligative
 ligers
 light
+lightbulbs
 lightfaced
 lightfaces
 lightfast
@@ -14878,6 +14901,7 @@ marine
 marishes
 maritime
 mark
+markas
 markedly
 market
 marketeer
@@ -15675,6 +15699,7 @@ mispoising
 mispositioning
 misprices
 misprints
+misprized
 misprizes
 misprograms
 mispronounced
@@ -17765,6 +17790,7 @@ overglaze
 overgrows
 overhandling
 overheaped
+overheaping
 overheat
 overhunting
 overhuntings
@@ -18843,6 +18869,7 @@ physicals
 physician
 physiognomies
 physiologist
+physiotherapies
 physique
 physiqued
 physostigmine
@@ -20738,6 +20765,7 @@ raunch
 ravened
 ravenously
 ravenousnesses
+ravens
 raves
 ravioli
 rawest
@@ -22722,6 +22750,7 @@ scrouge
 scrouged
 scrouging
 scroungiest
+scrounging
 scroungy
 scrubwoman
 scruffy
@@ -23791,6 +23820,7 @@ sneerier
 sneering
 sneezer
 sneezeweeds
+snell
 snickersnee
 sniffier
 sniffish
@@ -23949,6 +23979,7 @@ sombreros
 some
 somersault
 somewhere
+somewheres
 somnambulates
 somnambulist
 somnifacients
@@ -24346,6 +24377,7 @@ squadron
 squalene
 squalid
 squalider
+squalidly
 squallish
 squalors
 squamate
@@ -25715,6 +25747,7 @@ teetotalists
 teetotum
 teflon
 teg
+tegumina
 teiglach
 tektites
 telco
@@ -26944,6 +26977,7 @@ ultraviolences
 umami
 umbellets
 umbellifer
+umbellifers
 umbering
 umbilici
 umbo
@@ -28458,6 +28492,7 @@ wheys
 whidahs
 whiffer
 whifflers
+whiffles
 whigs
 whiled
 whiles
