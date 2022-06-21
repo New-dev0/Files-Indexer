@@ -1449,6 +1449,7 @@ assenters
 assents
 asserting
 assertor
+asserts
 asset
 assets
 asseverates
@@ -1709,6 +1710,7 @@ away
 awaynesses
 awe
 aweigh
+awesomeness
 awfullest
 awfully
 awing
@@ -2374,6 +2376,7 @@ bijective
 biked
 bikini
 bilabiate
+bilanders
 bilateralisms
 bilaterally
 bilbo
@@ -4447,6 +4450,7 @@ clients
 cliffier
 climates
 climatize
+climatological
 climax
 climaxes
 clime
@@ -4922,6 +4926,7 @@ completion
 complexified
 compliant
 complicated
+complice
 complin
 compo
 comported
@@ -5319,6 +5324,7 @@ copremias
 coprincipal
 coprocessor
 coprocessors
+coproduced
 coproduct
 coproducts
 coprophiliac
@@ -5426,6 +5432,7 @@ cortisone
 corulers
 corundums
 coruscant
+coruscated
 corvids
 corvinas
 corybantes
@@ -5906,6 +5913,7 @@ curablenesses
 curaghs
 curanderos
 curares
+curarization
 curators
 curbings
 curbstone
@@ -5928,6 +5936,7 @@ curragh
 curriculums
 currycombing
 cursing
+cursive
 cursivenesses
 cursors
 curt
@@ -7108,6 +7117,7 @@ discrete
 discriminant
 discriminator
 discrowned
+discursively
 discursiveness
 discusses
 discussible
@@ -8714,6 +8724,7 @@ except
 exceptionalisms
 exceptionality
 excerpt
+excerpter
 excerpting
 excerpts
 exchanging
@@ -9934,6 +9945,7 @@ fretwork
 friary
 fribbler
 fricative
+frictionally
 friedcakes
 friend
 friended
@@ -10119,6 +10131,7 @@ gabbroic
 gabs
 gadgetries
 gadid
+gadroon
 gadwalls
 gaffing
 gage
@@ -10569,6 +10582,7 @@ gloried
 glorify
 glorioles
 glorying
+glossator
 glossators
 glossemes
 glossiness
@@ -10669,6 +10683,7 @@ gonging
 gongoristic
 goniff
 gonium
+gonofs
 gonophores
 gonorrhea
 goober
@@ -10982,6 +10997,7 @@ guidance
 guideposts
 guiders
 guideway
+guiding
 guilders
 guildships
 guiles
@@ -11520,6 +11536,7 @@ herpesvirus
 herpesviruses
 herpetic
 herpetologists
+herrenvolks
 herries
 herringbone
 herringbones
@@ -11983,6 +12000,7 @@ hydathodes
 hydralazines
 hydranths
 hydrastis
+hydrate
 hydrator
 hydraulics
 hydrazide
@@ -12520,6 +12538,7 @@ indigenizations
 indign
 indigotin
 indiscernible
+indisciplines
 indiscretions
 indispose
 indistinctness
@@ -13548,6 +13567,7 @@ kenafs
 kenches
 kennings
 kenos
+kenotic
 kenotrons
 kens
 kep
@@ -13997,6 +14017,7 @@ leavy
 lebensraum
 lecherously
 lecithin
+lecithinase
 lectern
 lectin
 lectured
@@ -15948,6 +15969,7 @@ mosaiclike
 moseyed
 mosh
 mosquito
+motet
 motets
 mothered
 motherhouse
@@ -16120,6 +16142,7 @@ murine
 murines
 murmuring
 murmurs
+murr
 murras
 murreys
 murrs
@@ -20262,6 +20285,7 @@ pursue
 pursuits
 pursuivants
 purveys
+push
 pushdowns
 pushes
 pushiness
@@ -20510,6 +20534,7 @@ radiochemists
 radioisotope
 radioisotopes
 radiolarian
+radiolarians
 radiologically
 radiolyses
 radiomen
@@ -22764,6 +22789,7 @@ seine
 seined
 seining
 seise
+seisers
 seism
 seismological
 seismologists
@@ -23198,6 +23224,7 @@ showdown
 showed
 showerers
 showier
+showily
 showplace
 showroom
 showy
@@ -23379,6 +23406,7 @@ siphon
 siphonage
 siphonal
 sippers
+sips
 sirdars
 siring
 sirvente
@@ -24897,6 +24925,7 @@ substantivizing
 substate
 substituted
 substrata
+substructural
 subsumption
 subsurfaces
 subsystems
@@ -25368,6 +25397,7 @@ synergisms
 synergist
 synergistic
 syngenic
+synod
 synonymize
 synonymously
 synopsizes
@@ -25793,6 +25823,7 @@ thairms
 thalassaemias
 thalassocracies
 thallic
+thallophyte
 thanages
 thankers
 thankfully
@@ -26111,6 +26142,7 @@ tolls
 tollways
 toluate
 toluenes
+toluids
 toluole
 toluyls
 tomahawked
@@ -26590,6 +26622,7 @@ truism
 trumeau
 trump
 trumpeted
+trumpeter
 truncating
 truncations
 truss
@@ -27925,6 +27958,7 @@ vindictiveness
 vined
 vinegarish
 vineyard
+vining
 vinosity
 vinous
 violable
@@ -28434,6 +28468,7 @@ wideband
 widebody
 widener
 wideners
+widens
 wideout
 widowerhood
 widowhood
