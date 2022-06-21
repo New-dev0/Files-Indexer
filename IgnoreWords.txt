@@ -175,6 +175,7 @@ acned
 acock
 acquaint
 acquiesce
+acquired
 acquirement
 acquisitive
 acquittance
@@ -260,6 +261,7 @@ adjuration
 adjutant
 adjutants
 adman
+admasses
 admeasuring
 administrable
 administrants
@@ -497,6 +499,7 @@ albumens
 albumins
 alcaldes
 alcazars
+alchemical
 alchemistic
 alchemize
 alchemizes
@@ -1928,6 +1931,7 @@ barefacedly
 barehanding
 barfed
 barfing
+barged
 bargees
 barhop
 barhopped
@@ -2128,6 +2132,7 @@ bedrugged
 bedsonias
 bedsprings
 bedstand
+bedtick
 beduin
 beduncing
 bedwarf
@@ -2572,6 +2577,7 @@ blastema
 blasties
 blastiest
 blastoderms
+blastomycoses
 blastopore
 blastulas
 blastulations
@@ -3521,6 +3527,7 @@ canvasing
 canzonas
 capabler
 capablest
+capacitate
 capacitation
 capacitive
 capacitively
@@ -4269,6 +4276,7 @@ chromoplasts
 chromoprotein
 chromoproteins
 chronaxy
+chronicled
 chronicler
 chronogram
 chronograms
@@ -4749,6 +4757,7 @@ collectivise
 collectivist
 collectivistic
 collectivities
+collectivizing
 collectorship
 collegers
 collegial
@@ -5272,6 +5281,7 @@ convoker
 convoking
 convoys
 convulsant
+convulsants
 convulsively
 cooch
 cooee
@@ -6675,6 +6685,7 @@ descender
 descendible
 descried
 descriers
+descries
 descriptor
 descry
 descrying
@@ -7062,6 +7073,7 @@ disarmament
 disarmer
 disarticulated
 disassembling
+disassociate
 disassociated
 disassociations
 disaster
@@ -8222,6 +8234,7 @@ enfold
 enfolders
 enforceable
 enforced
+enforcements
 enframed
 enframement
 engaged
@@ -8886,6 +8899,7 @@ extend
 extendabilities
 extendednesses
 extensity
+extensor
 extents
 extenuator
 exteriorised
@@ -10815,6 +10829,7 @@ graupel
 graveless
 gravelike
 gravelled
+gravelling
 gravelly
 gravels
 gravenesses
@@ -11531,6 +11546,7 @@ herniates
 herniation
 heroes
 heroicize
+heroin
 heroine
 herpesvirus
 herpesviruses
@@ -12435,6 +12451,7 @@ incepted
 inceptive
 inceptively
 incepts
+inchoate
 inchoateness
 inchoatives
 incinerate
@@ -12737,6 +12754,7 @@ innovative
 innovativeness
 innovator
 innumeracies
+innumerate
 inoculation
 inoculum
 inoperable
@@ -13564,6 +13582,7 @@ kelly
 kelping
 kelvins
 kenafs
+kench
 kenches
 kennings
 kenos
@@ -13912,6 +13931,7 @@ larkspur
 larkspurs
 larrupers
 larruping
+larvas
 larvicide
 laryngals
 larynges
@@ -13941,6 +13961,7 @@ latifundios
 latinized
 latitudes
 latosol
+latter
 latu
 lauan
 laudanum
@@ -14657,6 +14678,7 @@ magdalene
 maggot
 magic
 magisterially
+magisterium
 magistratical
 magistratically
 magistrature
@@ -16652,6 +16674,7 @@ nonconcerns
 nonconcurred
 nonconcurrence
 nonconcurrences
+nonconfidential
 nonconform
 nonconformed
 nonconformisms
@@ -16993,6 +17016,7 @@ obsecrates
 observably
 obsession
 obsessions
+obsessive
 obsessively
 obsessors
 obstetricians
@@ -17082,6 +17106,7 @@ offhanded
 office
 officeholders
 officiants
+officiaries
 officinal
 offishness
 offloads
@@ -17149,6 +17174,7 @@ omnivorously
 omophagias
 once
 oncidium
+oncidiums
 oncogenicities
 oncological
 oncomings
@@ -17689,6 +17715,7 @@ overenrolled
 overentertained
 overestimated
 overestimates
+overestimation
 overestimations
 overevaluations
 overexertions
@@ -19159,6 +19186,7 @@ plunker
 plunkers
 plunks
 plunky
+pluralists
 pluralizing
 plush
 plushiness
@@ -20529,6 +20557,7 @@ radicating
 radicles
 radioautographs
 radiobiologic
+radiobiologies
 radiobiologist
 radiochemists
 radioisotope
@@ -21946,6 +21975,7 @@ riverbank
 riverbeds
 riverheads
 riverweeds
+rivet
 riveted
 rivetted
 rivieras
@@ -22572,6 +22602,7 @@ sciolistic
 sciroccos
 scirrhi
 scissor
+sciurine
 sclaffing
 sclerites
 scleritis
@@ -22631,6 +22662,7 @@ scrapple
 scratches
 scrawniest
 screaked
+screaking
 screaks
 screamers
 screams
@@ -26023,6 +26055,7 @@ tigereye
 tigerlike
 tigers
 tightfistedness
+tightly
 tightrope
 tigon
 tikes
@@ -28474,6 +28507,7 @@ widowerhood
 widowhood
 widows
 wielders
+wifedom
 wifelier
 wifeys
 wigeons
@@ -28668,6 +28702,7 @@ workforce
 workhorses
 workhour
 workhouse
+workloads
 workman
 workpiece
 workplace
