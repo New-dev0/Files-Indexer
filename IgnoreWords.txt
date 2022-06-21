@@ -1937,6 +1937,7 @@ barrel
 barrelheads
 barretors
 barretries
+barrettes
 barricadoes
 barriers
 bartender
@@ -2079,6 +2080,7 @@ bedarkening
 bedazzlement
 bedazzling
 bedboard
+bedchamber
 bedcovering
 bedcovers
 bedding
@@ -2422,6 +2424,7 @@ biostatistical
 biostrome
 biosyntheses
 biosynthesis
+biosystematics
 biotechnologies
 biotechnologist
 biotical
@@ -3047,6 +3050,7 @@ browed
 browned
 brownnosed
 brownnoser
+browns
 brownstones
 browsed
 browsers
@@ -4223,6 +4227,7 @@ chromoplasts
 chromoprotein
 chromoproteins
 chronaxy
+chronicler
 chronogram
 chronologists
 chronometrical
@@ -7632,6 +7637,7 @@ duodecillions
 duodecimals
 duodena
 duopsonies
+dup
 dupery
 duplicator
 dupped
@@ -8013,6 +8019,7 @@ emoting
 emotionalists
 emotionalize
 emotionlessness
+emotivity
 empanel
 empaneled
 empathizing
@@ -9855,6 +9862,7 @@ frigidnesses
 friller
 frillers
 fringing
+frisbees
 friseur
 friskers
 frisks
@@ -11053,6 +11061,7 @@ hall
 hallmark
 halloos
 hallucinator
+hallucinogens
 hallux
 hallways
 halo
@@ -11521,6 +11530,7 @@ hippopotami
 hippy
 hirable
 hircine
+hirselled
 hirsels
 histidins
 histochemistry
@@ -12431,6 +12441,7 @@ inductile
 inductive
 indued
 indulge
+indulgers
 indurations
 industrial
 industrialism
@@ -14133,6 +14144,7 @@ lissomenesses
 listable
 listened
 listenership
+listeria
 listerioses
 litas
 lite
@@ -14185,6 +14197,7 @@ loafed
 loamless
 loams
 loamy
+loaning
 loanword
 loathed
 loathes
@@ -15037,6 +15050,7 @@ mesozoan
 messenger
 messiah
 messiahships
+messuages
 mestees
 mestiza
 mestizo
@@ -16113,6 +16127,7 @@ nappas
 napper
 naprapathies
 naproxen
+narceine
 narcissisms
 narcissists
 narcoma
@@ -16414,6 +16429,7 @@ noil
 noise
 noisemaking
 noisette
+noisier
 noisy
 nomads
 nomarch
@@ -17020,6 +17036,7 @@ operationisms
 operative
 operativenesses
 opercula
+opercular
 operettas
 operettist
 operosely
@@ -18871,6 +18888,7 @@ plasmons
 plaster
 plasticene
 plasticity
+plastisol
 plastisols
 plastocyanin
 platanes
@@ -18914,6 +18932,7 @@ pleasures
 plebeianly
 plebs
 pledget
+pledgors
 pleiades
 plena
 plenaries
@@ -19076,6 +19095,7 @@ polychaete
 polychetes
 polychromy
 polydactyly
+polydipsia
 polydipsias
 polydispersity
 polyene
@@ -20246,6 +20266,7 @@ quinolone
 quinone
 quinquennials
 quinquennium
+quintain
 quintan
 quintans
 quintessences
@@ -20676,6 +20697,7 @@ reconnection
 reconnoiters
 reconnoitred
 reconquest
+reconsecrating
 reconsolidating
 reconstituted
 reconstitutions
@@ -22723,6 +22745,7 @@ serifed
 seriousnesses
 sermonizer
 sermonizers
+serologists
 seronegativity
 serosas
 serosity
@@ -23930,6 +23953,7 @@ splat
 splatted
 splaying
 spleenwort
+spleeny
 splendiferous
 splendour
 splenetics
@@ -24071,6 +24095,7 @@ squirters
 squirting
 squishing
 squooshed
+squooshes
 sradha
 sri
 stab
@@ -24334,6 +24359,7 @@ stoped
 stoper
 stopoff
 stopoffs
+stopped
 stoppered
 stopping
 stopwatch
@@ -24355,6 +24381,7 @@ stowing
 stows
 strabismic
 straggling
+straightedge
 straighter
 straightjacket
 straightly
@@ -24907,6 +24934,7 @@ superwaves
 superwide
 supine
 supinely
+supped
 supplantations
 supplementary
 supplementation
@@ -26094,6 +26122,7 @@ transformation
 transgresses
 transgressive
 transhipping
+transients
 transilluminate
 transitiveness
 translated
@@ -26716,6 +26745,7 @@ unclips
 uncloak
 uncloaking
 unclog
+unclogs
 unclothed
 uncloud
 unclutter
@@ -27023,6 +27053,7 @@ unloosed
 unloosened
 unloved
 unlovely
+unloving
 unluckily
 unmakers
 unmaking
@@ -27214,6 +27245,7 @@ untraveled
 untreated
 untrod
 untrusses
+untrusting
 untrustworthy
 untucking
 untune
@@ -27678,6 +27710,7 @@ violoncellists
 viols
 viperish
 vireonines
+vires
 virginalist
 viridescent
 viridity
@@ -28103,6 +28136,7 @@ whin
 whines
 whinges
 whining
+whinnier
 whinnies
 whinny
 whipcord
@@ -28186,6 +28220,7 @@ wildcats
 wildcatter
 wilded
 wilders
+wildfire
 wildfowlings
 wildings
 wilinesses
