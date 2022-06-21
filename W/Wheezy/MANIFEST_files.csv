@@ -1,0 +1,4 @@
+releases.turnkeylinux.org/turnkey-core/13.0rc-whee...,http://releases.turnkeylinux.org/turnkey-core/13.0rc-wheezy-i386/turnkey-core-13.0rc-wheezy-i386.manifest
+scaleway-image-tools/public-images.manifest at master · ben0x539 ...,https://github.com/ben0x539/scaleway-image-tools/blob/master/public-images.manifest
+mirrors.dotsrc.org/turnkeylinux/metadata/turnkey-o...,http://mirrors.dotsrc.org/turnkeylinux/metadata/turnkey-openvpn/13.0-wheezy-i386/turnkey-openvpn-13.0-wheezy-i386.manifest
+https://turnkeylinux.quantum-mirror.hu/metadata/tu...,https://turnkeylinux.quantum-mirror.hu/metadata/turnkey-couchdb/13.0-wheezy-i386/turnkey-couchdb-13.0-wheezy-i386.manifest

@@ -1,0 +1,7 @@
+#!/usr/bin/env pwsh $basedir=Split-Path $MyInvocation ...,https://creative.colorado.edu/~trha0779/bigdataproject/node_modules/.bin/needle.ps1
+serviceGratIotApp/needle.ps1 at master · brennanngo1292000 ...,https://github.com/brennanngo1292000/serviceGratIotApp/blob/master/node_modules/.bin/needle.ps1
+Debloat-Windows-10/experimental_unfuckery.ps1 at master - GitHub,https://github.com/W4RH4WK/Debloat-Windows-10/blob/master/scripts/experimental_unfuckery.ps1
+Assert-Contains.ps1 0.16.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/Blade/0.16.0/Content/Assert-Contains.ps1
+Public/Remove-SnipeitModel.ps1 1.8.167 - PowerShell Gallery,https://www.powershellgallery.com/packages/SnipeitPS/1.8.167/Content/Public%255CRemove-SnipeitModel.ps1
+Spanzuratoarea v.ps1 | Calin Iancu - Academia.edu,https://www.academia.edu/23308629/Spanzuratoarea_v.ps1
+Created: 04/03/2020 14:44:29 $jobs = @{} function ForceRegKey ...,https://raw.githubusercontent.com/DBHeise/VM_Setup/master/Everything.ps1
