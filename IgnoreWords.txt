@@ -1911,6 +1911,7 @@ banquette
 banshie
 banter
 banzai
+baps
 baptismal
 baptismally
 baptisms
@@ -2000,6 +2001,7 @@ baste
 baster
 bastinado
 bastinadoed
+bat
 bate
 bateau
 batfowler
@@ -2798,6 +2800,7 @@ boot
 booties
 booting
 bootlick
+bootlicked
 bootlickers
 booty
 boozily
@@ -4243,6 +4246,7 @@ chorale
 chording
 choreatic
 choreographies
+choreography
 chorial
 choriamb
 chorions
@@ -6995,6 +6999,7 @@ dingdong
 dinger
 dinghies
 dingiest
+dinking
 dinkums
 dinnertime
 dino
@@ -8026,6 +8031,7 @@ elint
 elints
 elitisms
 ells
+elmy
 elocution
 eloigned
 elongation
@@ -9238,6 +9244,7 @@ ferrel
 ferreled
 ferrelled
 ferreters
+ferriages
 ferried
 ferriferous
 ferrimagnetisms
@@ -9794,6 +9801,7 @@ forgetters
 forgiveness
 forgoer
 forgoers
+forkless
 forlornness
 formaldehydes
 formalised
@@ -10047,6 +10055,7 @@ fugles
 fugu
 fulcrums
 fulfil
+fulfiller
 fulfillment
 fulfills
 fulfilments
@@ -12072,6 +12081,7 @@ hyper
 hyperaware
 hyperbola
 hyperbolae
+hyperboles
 hyperboloidal
 hyperboreans
 hypercautious
@@ -12144,6 +12154,7 @@ hypothecation
 hypothermias
 hypothyroidism
 hypoxemia
+hypsometer
 hypsometric
 hysons
 hysterias
@@ -14770,6 +14781,7 @@ manage
 managerships
 mananas
 manches
+mandamus
 mandamuses
 mandating
 mandator
@@ -14905,6 +14917,7 @@ marvel
 mascarpones
 masculinised
 masculinises
+masculinist
 masculinity
 masher
 masjids
@@ -14925,6 +14938,7 @@ massive
 massively
 massivenesses
 massless
+mastabas
 mastectomies
 master
 masterlinesses
@@ -15285,6 +15299,7 @@ metrical
 metrologist
 metronidazole
 metronomes
+metrorrhagia
 mettle
 mettles
 mew
@@ -15401,6 +15416,7 @@ mignonette
 migraines
 migs
 mihrabs
+mikados
 miked
 mikvos
 mil
@@ -15408,6 +15424,7 @@ miladis
 milages
 milded
 mildening
+mildens
 mildest
 mileposts
 miler
@@ -16982,6 +16999,7 @@ obfuscations
 obfuscatory
 obit
 objected
+objection
 objectivism
 objectivists
 objectivity
@@ -17374,6 +17392,7 @@ osmunds
 ossatures
 ossetra
 ossicular
+ossific
 ossification
 ossifying
 osteal
@@ -18057,6 +18076,7 @@ panchax
 pancratiums
 pandemic
 pandemonium
+pandered
 pandoors
 pandore
 panegyric
@@ -18649,6 +18669,7 @@ petrochemicals
 petrogenetic
 petrographic
 petrolatum
+petrolatums
 petrologies
 petrols
 pettedly
@@ -18758,15 +18779,18 @@ phosphors
 phosphoryl
 phosphorylated
 phosphoryls
+photics
 photoautotroph
 photochemical
 photochemistry
 photochromic
+photocomposes
 photocurrent
 photocurrents
 photodiodes
 photodissociate
 photoelectrons
+photofinisher
 photofinishings
 photog
 photogeologic
@@ -18998,6 +19022,7 @@ piscine
 piscivore
 pishogue
 pisiforms
+pistareen
 pistareens
 pistolling
 pistons
@@ -19093,6 +19118,7 @@ plasticity
 plastisol
 plastisols
 plastocyanin
+platane
 platanes
 plateaus
 platelet
@@ -19548,6 +19574,7 @@ prattling
 praxises
 prayerfulness
 preabsorbing
+preaccuse
 preacher
 preachified
 preachily
@@ -20652,6 +20679,7 @@ rants
 rapacities
 raper
 rapers
+raphes
 raphide
 rapids
 rapini
@@ -21923,6 +21951,7 @@ riffler
 rifle
 riflebirds
 rifling
+rigamarole
 right
 righter
 rightists
@@ -22135,6 +22164,7 @@ rubouts
 rubrician
 rubying
 ruching
+rucked
 ruction
 ructions
 rudderpost
@@ -22841,6 +22871,7 @@ selenologist
 selfheals
 selfnesses
 selfs
+selfsameness
 sellable
 sellotaping
 sellout
@@ -24041,6 +24072,7 @@ spanworms
 spar
 sparable
 sparables
+sparge
 spargers
 sparingly
 sparkish
@@ -24576,6 +24608,7 @@ stirs
 stitch
 stitchery
 stitching
+stitchwort
 stithy
 stivers
 stob
@@ -25351,6 +25384,7 @@ switcheroos
 switchyard
 swither
 swiving
+swizzle
 swobbing
 swooned
 swoony
@@ -28062,6 +28096,7 @@ vitric
 vitrification
 vittled
 vituperation
+vituperations
 vivace
 vivaces
 vivaciousness
