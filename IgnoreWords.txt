@@ -277,6 +277,7 @@ adolescents
 adopt
 adoptionist
 adorableness
+adoringly
 adorning
 ados
 adrenal
@@ -1677,6 +1678,7 @@ avulsion
 avulsions
 awaited
 awakeners
+awarders
 awash
 away
 awaynesses
@@ -2174,6 +2176,7 @@ bellpulls
 bellworts
 bellyacher
 bellybands
+belon
 beloveds
 below
 belter
@@ -3604,6 +3607,7 @@ carrells
 carrels
 carrier
 carroch
+carronade
 carrotin
 carrotins
 carrots
@@ -5066,8 +5070,10 @@ conspirators
 conspired
 conspirers
 constabularies
+constant
 constantan
 constellating
+consternate
 constituently
 constitutes
 constrainedly
@@ -5216,6 +5222,7 @@ coped
 copes
 copihue
 coplanar
+coplanarity
 copolymer
 copolymerize
 copout
@@ -5253,6 +5260,7 @@ corbelling
 corbels
 cordages
 cordialities
+cordially
 cordilleran
 cordlesses
 cordons
@@ -5447,6 +5455,7 @@ coverage
 covering
 coves
 covetable
+covins
 cowardliness
 cowboying
 cowflop
@@ -6324,6 +6333,7 @@ deglamorize
 deglamorizing
 degradations
 degradative
+degrader
 degressive
 degums
 dehisce
@@ -6679,6 +6689,7 @@ dextrorse
 dextroses
 dhurna
 diabase
+diabolic
 diabolically
 diabolist
 diabolo
@@ -7223,6 +7234,7 @@ dobbin
 dobbins
 dobby
 dobie
+dobla
 doblas
 doblons
 dobras
@@ -10135,6 +10147,7 @@ gaveled
 gavelock
 gavelocks
 gavot
+gawking
 gawkishly
 gawpers
 gawsie
@@ -11212,6 +11225,7 @@ heckles
 hectare
 hectares
 hecticly
+hectograms
 hectoliter
 hectors
 hedgehops
@@ -11688,6 +11702,7 @@ houseclean
 housecoat
 housecoats
 housefather
+houselling
 housemaster
 housepainters
 houserooms
@@ -11735,6 +11750,7 @@ humidities
 humiture
 humitures
 hummocks
+humorists
 humorlessly
 humorlessness
 humorousnesses
@@ -12388,6 +12404,7 @@ infantilizing
 infantry
 infatuations
 infaunal
+infeasible
 infecters
 infecting
 infectivity
@@ -12882,6 +12899,7 @@ iridology
 irids
 iring
 irising
+irksomeness
 ironclad
 ironicalnesses
 ironings
@@ -13621,6 +13639,7 @@ lampooners
 lampooning
 lanai
 lanais
+lancelet
 lancinates
 landaulets
 landgraves
@@ -15736,6 +15755,7 @@ mourning
 mourns
 mousakas
 mouse
+mousers
 mousetrapped
 mousiest
 moussaka
@@ -15998,6 +16018,7 @@ naphthols
 napkin
 nappas
 napper
+naprapathies
 naproxen
 narcissisms
 narcissists
@@ -16402,6 +16423,7 @@ nonfigurative
 nonfinal
 nonfinancial
 nonfluids
+nonflying
 nonfocal
 nonfulfillments
 nonghetto
@@ -17857,6 +17879,7 @@ parodoi
 paroled
 paroling
 parols
+paroquets
 parotitic
 parous
 paroxysms
@@ -18457,6 +18480,7 @@ phyleses
 phylesises
 phyllite
 phyllome
+phyllomes
 phyllotactic
 phylogenetic
 physed
@@ -18844,6 +18868,7 @@ pochard
 pock
 pocketers
 pockmarks
+pocky
 pocosin
 podagrous
 podgiest
@@ -19563,6 +19588,7 @@ profanation
 profanatory
 profane
 profaneness
+professedly
 professor
 professorial
 proffered
@@ -20448,6 +20474,7 @@ recanes
 recanter
 recanting
 recapitulated
+recapitulation
 recapitulations
 recapped
 recapturing
@@ -20798,6 +20825,7 @@ reglow
 reglowed
 regma
 regnum
+regoliths
 regorging
 regrated
 regreeting
@@ -22316,6 +22344,7 @@ seagoing
 sealant
 sealery
 sealift
+sealifts
 seamanships
 seapieces
 seaquakes
@@ -23181,6 +23210,7 @@ sloppiest
 slops
 sloshed
 sloshiest
+sloshing
 slotback
 slotbacks
 slothful
@@ -24277,6 +24307,7 @@ struck
 structuralisms
 structuration
 structure
+structureless
 struggled
 strummer
 strung
@@ -24709,6 +24740,7 @@ supersell
 supersessions
 supershow
 supersleuth
+supersonically
 superspecialist
 superspies
 superstars
@@ -25342,6 +25374,7 @@ terseness
 tertiaries
 tertiary
 tessellating
+tessera
 tessiture
 testable
 testaceans
@@ -25710,6 +25743,7 @@ tonearms
 tonetics
 tonettes
 tonga
+tongue
 tonguelike
 tonic
 tonicities
@@ -28102,6 +28136,7 @@ wonderfulness
 wonderland
 wonkiest
 wonky
+wont
 wonted
 woo
 woodbin
