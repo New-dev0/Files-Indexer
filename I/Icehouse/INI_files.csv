@@ -1,0 +1,9 @@
+charm-neutron-api/ml2_conf.ini at master - GitHub,https://github.com/openstack/charm-neutron-api/blob/master/templates/icehouse/ml2_conf.ini
+charm-cinder/api-paste.ini at master - GitHub,https://github.com/openstack/charm-cinder/blob/master/templates/icehouse/api-paste.ini
+vmware-nsx/plugins.ini at ... - OpenDev,https://opendev.org/x/vmware-nsx/src/commit/2b4016b8e6ac63621fc890a25fd410c877e0110b/etc/plugins.ini
+puppet-neutron - OpenDev: Free Software Needs Free Tools,https://opendev.org/openstack/puppet-neutron/src/commit/3f019235b9309bf5d51911db1b9266c7dad1385c/tox.ini
+…/contrail-webui-middleware.ini · Gerrit Code Review,https://review.opencontrail.org/c/Juniper/contrail-packaging/%2B/960/2/common/control_files/contrail-webui-middleware.ini
+https://api.jujucharms.com/charmstore/v5/neutron-g...,https://api.jujucharms.com/charmstore/v5/neutron-gateway-252/archive/templates/icehouse/fwaas_driver.ini
+GitList,http://mirror.fairway.ne.jp/git-repository/devstack/blob/liberty-eol/tox.ini
+tox.ini · rinchat/devstack - Gitee.com,https://gitee.com/rinchat/devstack/blob/master/tox.ini
+x/vmware-nsx: A set of Neutron drivers for the VMware NSX. - etc/api ...,https://opendev.org/x/vmware-nsx/src/commit/682ded34c4ed86fad0b9b35f560186a0eab938b6/etc/api-paste.ini
