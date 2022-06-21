@@ -1,0 +1,9 @@
+samples/generate/definitions/VARIANTS.ps1 ... - PowerShell Gallery,https://www.powershellgallery.com/packages/Generate-DockerImageVariants/0.4.0/Content/samples%255Cgenerate%255Cdefinitions%255CVARIANTS.ps1
+functions/public/Add-QualysUser.ps1 1.4.5 - PowerShell Gallery,https://www.powershellgallery.com/packages/UofIQualys/1.4.5/Content/functions%255Cpublic%255CAdd-QualysUser.ps1
+xPSDesiredStateConfiguration/Resolve-Dependency.ps1 at main,https://github.com/dsccommunity/xPSDesiredStateConfiguration/blob/main/Resolve-Dependency.ps1
+sample-pi_core-deployment_on_prem-powershell/Install-PIServer.ps1,https://github.com/osisoft/sample-pi_core-deployment_on_prem-powershell/blob/main/Install-PIServer.ps1
+Install-AxAgentMsi.ps1 - Automox,https://patch.automox.com/rs/923-VQX-349/images/Install-AxAgentMsi.ps1
+Set-FTPConnection.ps1 1.7.1.1 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/PSFTP/1.7.1.1/Content/Set-FTPConnection.ps1
+Public/Sync-XliffTranslations.ps1 1.0.0.0 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/XliffSync/1.0.0.0/Content/Public%255CSync-XliffTranslations.ps1
+Ftp-AddItem.ps1 - NET,https://salvozshue1gen01.blob.core.windows.net/public/blog-post-content/20XX/PowerShellScripts/Ftp-AddItem.ps1
+https://raw.githubusercontent.com/Azure/hpcpack-te...,https://raw.githubusercontent.com/Azure/hpcpack-template/master/Scripts/CreateHpcKeyVaultCertificate.ps1

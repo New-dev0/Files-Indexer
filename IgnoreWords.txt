@@ -614,6 +614,7 @@ almsgiver
 almsgivings
 almuds
 almug
+alnicos
 alodia
 aloe
 aloft
@@ -1731,6 +1732,7 @@ azaleas
 azeotropies
 azimuths
 azines
+azoles
 azotemia
 azoturia
 azure
@@ -2589,6 +2591,7 @@ blithesome
 blitzkrieg
 blizzards
 blizzardy
+bloat
 blob
 blockheads
 blockier
@@ -3339,6 +3342,7 @@ cahoots
 caique
 cairds
 cajeput
+cajones
 cakes
 caky
 calabazas
@@ -4598,6 +4602,7 @@ codders
 coded
 codependences
 codependencies
+codependent
 codesigns
 codeveloper
 codex
@@ -5394,6 +5399,7 @@ corsetieres
 corsets
 corslets
 cortexes
+cortically
 corticotrophin
 cortisone
 corulers
@@ -5575,6 +5581,7 @@ crankles
 crannoges
 cranreuch
 crappiest
+crassitudes
 crassness
 crassnesses
 cratch
@@ -5593,6 +5600,7 @@ crazier
 creakiest
 creaky
 creamers
+creaminesses
 creaming
 creampuffs
 creamware
@@ -5804,6 +5812,7 @@ cubbyhole
 cubicities
 cuboid
 cuckolding
+cuckolds
 cuckooing
 cucurbit
 cud
@@ -5886,6 +5895,7 @@ curet
 curettages
 curette
 curettes
+curiosa
 curious
 curiousness
 curite
@@ -7139,6 +7149,7 @@ disinhibit
 disintegrations
 disintegrator
 disinterestedly
+disinters
 disintoxication
 disinvite
 disinviting
@@ -7254,6 +7265,7 @@ distresses
 distressfulness
 distributed
 distributor
+distrusted
 disturbers
 disturbingly
 disulfates
@@ -9886,6 +9898,7 @@ fret
 fretters
 fretwork
 friary
+fribbler
 fricative
 friedcakes
 friend
@@ -10489,6 +10502,7 @@ glibbest
 glibness
 glidepath
 gliders
+glides
 glimed
 glimpse
 glint
@@ -11585,6 +11599,7 @@ hitchhiker
 hitchhiking
 hitherto
 hitters
+hoarders
 hoardings
 hoarsening
 hoarsest
@@ -12227,6 +12242,7 @@ impeach
 impeccant
 impecuniosities
 impedes
+impenitent
 imperatorial
 impercipiences
 impercipient
@@ -12388,6 +12404,7 @@ inconnus
 inconscient
 inconsiderate
 inconsonances
+inconsonant
 inconstancy
 incontinent
 inconvincible
@@ -12588,6 +12605,7 @@ ingrafts
 ingrate
 ingression
 ingroup
+inguinal
 ingulf
 ingulfing
 ingurgitate
@@ -12720,6 +12738,7 @@ insteps
 instigate
 instillers
 instills
+institute
 institutes
 institutionally
 instrokes
@@ -12757,6 +12776,7 @@ intense
 intensional
 intensivenesses
 intensives
+intentional
 interacted
 interarch
 interbranch
@@ -15026,6 +15046,7 @@ memetics
 memo
 memorably
 memorialising
+memorialists
 memorialized
 memorised
 memorising
@@ -16002,6 +16023,7 @@ multimember
 multimetallic
 multinomials
 multipack
+multipacks
 multiparameter
 multiparty
 multipath
@@ -19953,6 +19975,7 @@ proteinurias
 proteoglycan
 proteome
 protestation
+protests
 prothonotary
 prothoraces
 prothoraxes
@@ -23920,6 +23943,7 @@ specialisms
 specialty
 specifications
 specified
+specifies
 speciousness
 speckle
 speckles
@@ -24252,6 +24276,7 @@ stapedial
 stapes
 staphs
 staphylinid
+star
 starboards
 stardom
 starflower
@@ -24440,6 +24465,7 @@ stomping
 stonemason
 stonemasonry
 stones
+stonewallers
 stonewashed
 stonish
 stoolie
@@ -24708,6 +24734,7 @@ subjectivizes
 subjoin
 subjugations
 subjugator
+subjunctive
 sublated
 sublation
 sublease
@@ -24968,6 +24995,7 @@ superhighway
 superhits
 superhumanities
 superinduction
+superinfected
 superinfects
 superintend
 superintendents
@@ -25177,6 +25205,7 @@ swishing
 swiss
 switchbacks
 switcheroo
+switcheroos
 switchyard
 swither
 swiving
@@ -25195,6 +25224,7 @@ swounds
 swum
 sybaritic
 sybaritically
+sybaritisms
 sycophancies
 sycophantic
 sycophantisms
@@ -26276,6 +26306,7 @@ travesties
 travestying
 trawley
 trawleys
+trawlnet
 trawlnets
 trayful
 treachery
@@ -27812,6 +27843,7 @@ violoncellist
 violoncellists
 viols
 viperish
+vireonine
 vireonines
 vires
 virginalist
@@ -28026,6 +28058,7 @@ wallopings
 wallops
 wallowed
 wallpaper
+wallpapers
 wallydrags
 walrus
 waltzer
@@ -28133,6 +28166,7 @@ waxable
 waxiest
 waxwings
 waxwork
+waybills
 wayfarer
 wayfarings
 waypoint
@@ -28737,6 +28771,7 @@ zareeba
 zastrugi
 zazens
 zealousness
+zeatins
 zebrafishes
 zebrano
 zebras
