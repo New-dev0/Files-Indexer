@@ -250,6 +250,7 @@ adjournment
 adjournments
 adjudge
 adjudications
+adjudicator
 adjunct
 adjunctions
 adjunctive
@@ -303,6 +304,7 @@ advertize
 advisements
 advises
 advocacy
+advocate
 advocator
 advowson
 adynamias
@@ -2504,6 +2506,7 @@ bland
 blander
 blandishing
 blanker
+blankest
 blanketflower
 blanketflowers
 blanketlike
@@ -2635,6 +2638,7 @@ bodybuilding
 bodybuildings
 bodyguarding
 bodysurfed
+bodyworks
 boffola
 bog
 bogeyman
@@ -2837,6 +2841,7 @@ brackishness
 brackishnesses
 bracted
 bradycardia
+braided
 braidings
 braids
 brail
@@ -4495,6 +4500,7 @@ cocarboxylase
 coccidia
 coccidium
 coccids
+coccoid
 coccoids
 coccolith
 cochair
@@ -5432,6 +5438,7 @@ covalences
 covariance
 coved
 coverage
+covering
 coves
 covetable
 cowardliness
@@ -5590,6 +5597,7 @@ crinoline
 crinolined
 cripe
 crippled
+cripples
 crisp
 crispate
 crispbread
@@ -7664,6 +7672,7 @@ easiest
 easterners
 easters
 easting
+easygoing
 easygoingness
 eaten
 eatery
@@ -10301,6 +10310,7 @@ giveaway
 givers
 gizmos
 glabellae
+glaceed
 glaceing
 glaciating
 glaciers
@@ -10855,6 +10865,7 @@ guttered
 gutting
 guttles
 guy
+guyline
 guyots
 guzzler
 gybed
@@ -11096,6 +11107,7 @@ hausfrau
 hausfrauen
 hautboy
 haute
+havarti
 havdalah
 havior
 hawking
@@ -11389,6 +11401,7 @@ highballs
 highchairs
 highflier
 highflyers
+highlander
 highlighting
 highths
 highting
@@ -13422,11 +13435,13 @@ klutzinesses
 knackery
 knacks
 knavishly
+kneecappings
 kneeing
 kneels
 knelling
 knifepoint
 knifer
+knighting
 knightlinesses
 knightly
 knitter
@@ -14093,6 +14108,7 @@ lodicules
 loftlike
 lofty
 logarithmic
+logbooks
 loges
 logged
 loggia
@@ -15566,6 +15582,7 @@ monotheistic
 monotheistical
 monotints
 monotonically
+monovalent
 monovular
 monseigneur
 monstera
@@ -16148,6 +16165,7 @@ neverminds
 nevi
 nevus
 new
+newbies
 newfangled
 newlywed
 newlyweds
@@ -17060,6 +17078,7 @@ outblooms
 outbluffed
 outbluffs
 outblushed
+outboard
 outboasts
 outbrags
 outbrave
@@ -17838,6 +17857,7 @@ parthenocarpies
 participating
 participation
 participations
+participator
 participatory
 particulate
 partied
@@ -19198,6 +19218,7 @@ precleans
 preclearances
 precocity
 precommitment
+preconception
 preconizes
 preconizing
 preconstructed
@@ -19716,6 +19737,7 @@ psephite
 psephites
 pseudomonas
 pseudomorphism
+pseudopodia
 pseudopregnant
 pseudorandom
 psi
@@ -19734,6 +19756,7 @@ psychiatry
 psychic
 psychical
 psyching
+psychoanalyzed
 psychoanalyzes
 psychobiography
 psychogenically
@@ -20755,6 +20778,7 @@ regorging
 regrated
 regreeting
 regretfulnesses
+regretted
 regrinds
 regroomed
 regrooms
@@ -20786,6 +20810,7 @@ rehypnotizing
 reidentifies
 reif
 reifications
+reifies
 reifying
 reign
 reignited
@@ -22367,6 +22392,7 @@ sellable
 sellotaping
 sellout
 seltzers
+selva
 semainiers
 semanticists
 semantics
@@ -24478,6 +24504,7 @@ sucky
 sucres
 suction
 suctional
+suctorian
 sudaries
 sudations
 sudd
@@ -24930,6 +24957,7 @@ tablecloths
 tabled
 tablemate
 tables
+tabletop
 tabooing
 taboulehs
 tabour
@@ -25729,6 +25757,7 @@ totalism
 totality
 toted
 totemisms
+tottered
 toucan
 touch
 touchdown
@@ -25837,6 +25866,7 @@ transferals
 transferrable
 transferred
 transferrer
+transferrins
 transfixt
 transformation
 transgresses
@@ -25990,6 +26020,7 @@ trihedron
 trijugous
 trilbies
 trilinear
+trilingual
 trilling
 trillion
 trilobal
@@ -26062,6 +26093,7 @@ trophies
 trophy
 tropic
 tropicals
+tropism
 tropomyosin
 tropotaxis
 troubles
@@ -26206,6 +26238,7 @@ tuskers
 tussahs
 tussehs
 tussis
+tussling
 tussocks
 tutelars
 tutor
@@ -26940,6 +26973,7 @@ untie
 untilled
 untiringly
 untouched
+untoward
 untowardness
 untraditionally
 untrained
@@ -27514,6 +27548,7 @@ volubly
 volumed
 volumetrically
 voluming
+voluminosity
 voluntary
 voluntaryism
 voluntaryists
