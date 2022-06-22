@@ -763,6 +763,7 @@ amphibious
 amphibole
 amphibolite
 amphibolites
+amphictyony
 amphidiploidies
 amphimixes
 amphiploids
@@ -810,6 +811,7 @@ anacondas
 anadiplosis
 anaerobia
 anaerobioses
+anaesthesias
 anaglyph
 anagnorises
 anagnorisis
@@ -1326,6 +1328,7 @@ ardebs
 ardently
 arduously
 are
+areae
 areca
 arenaceous
 arenes
@@ -1403,6 +1406,7 @@ arthritis
 arthrodeses
 arthrodesis
 artichoke
+artichokes
 articled
 articulate
 artificial
@@ -3786,6 +3790,7 @@ casabas
 cascabel
 cascade
 cascading
+cascara
 caseation
 casebearer
 casebearers
@@ -3899,6 +3904,7 @@ cattlemen
 catty
 caucuses
 caucusing
+caudex
 cauld
 cauliflowerets
 cauliflowers
@@ -5505,6 +5511,7 @@ cornerways
 cornerwise
 cornfield
 cornify
+cornily
 corniness
 cornmeals
 cornrow
@@ -6190,6 +6197,7 @@ cypres
 cyprians
 cyprinoid
 cyproheptadine
+cyproterone
 cyproterones
 cyprus
 cypselae
@@ -7702,6 +7710,7 @@ downtrending
 dowries
 dowsing
 doxies
+doxologies
 doxorubicins
 doyens
 doyly
@@ -7841,6 +7850,7 @@ dubber
 dubbin
 dubiousness
 duchy
+duckbills
 ducker
 duckers
 duckies
@@ -8272,6 +8282,7 @@ emerita
 emeriti
 emigration
 emigrations
+eminency
 eminently
 emirates
 emissaries
@@ -9870,6 +9881,7 @@ flytrap
 foamable
 foamed
 foamflower
+foaminess
 fobbed
 focalizations
 focalizes
@@ -10716,6 +10728,7 @@ gingilis
 gingkoes
 ginks
 ginner
+ginners
 giraffe
 giraffes
 gird
@@ -10908,6 +10921,7 @@ goitrogens
 golconda
 goldenness
 goldeyes
+goldsmith
 golfers
 goliard
 golosh
@@ -11326,6 +11340,7 @@ gynecological
 gynecomastia
 gyniatries
 gynogeneses
+gynogenesis
 gynophobe
 gynophobes
 gyp
@@ -11333,6 +11348,7 @@ gypseian
 gypsophila
 gypsydom
 gypsydoms
+gyrating
 gyrofrequency
 gyron
 gyrons
@@ -12749,6 +12765,7 @@ incomparable
 incompatibility
 incompatible
 incompetency
+incompetents
 incomplete
 inconnu
 inconnus
@@ -13504,6 +13521,7 @@ isolationists
 isolations
 isoleads
 isoleucines
+isolines
 isomerous
 isopachs
 isophotal
@@ -14514,6 +14532,7 @@ lifted
 lifters
 liftgates
 lifting
+ligaments
 ligative
 ligers
 light
@@ -14986,6 +15005,7 @@ madcaps
 maddeningly
 madmen
 madness
+madreporian
 mae
 maenadism
 maestosos
@@ -16900,6 +16920,7 @@ nicker
 nickering
 nickling
 nickname
+nicotiana
 nictitant
 nictitates
 nidate
@@ -16969,6 +16990,7 @@ noctambulist
 noctilucas
 nocturnally
 nocturnes
+nodalities
 nodality
 noddies
 nodding
@@ -17552,6 +17574,7 @@ omelet
 omelets
 omenta
 omits
+omitted
 omitters
 omitting
 omnicompetences
@@ -17990,6 +18013,7 @@ outsized
 outslick
 outsmelt
 outsmoked
+outsoars
 outsoles
 outsources
 outspell
@@ -18147,6 +18171,7 @@ overglamorize
 overglaze
 overgreat
 overgrows
+overgrowths
 overhandling
 overheaped
 overheaping
@@ -19472,6 +19497,7 @@ pizzle
 pizzles
 placard
 placated
+placaters
 placates
 placatory
 placeboes
@@ -20188,8 +20214,10 @@ preponderations
 preportion
 preportioning
 prepositional
+prepositive
 preppiest
 preprices
+preprocessor
 preprocessors
 preps
 prepuberties
@@ -20486,6 +20514,7 @@ propitiate
 propitiated
 propitiously
 propitiousness
+propjet
 propman
 propolis
 proponing
@@ -21392,6 +21421,7 @@ reconciliatory
 recondenses
 recondensing
 reconditioned
+reconducted
 reconferred
 reconfines
 reconfirming
@@ -21599,6 +21629,7 @@ refinish
 refinishers
 refire
 refit
+refits
 refixed
 reflating
 reflectorized
@@ -22415,6 +22446,7 @@ riffler
 rifle
 riflebirds
 rifling
+rigadoon
 rigamarole
 right
 righter
@@ -25419,6 +25451,7 @@ subfusc
 subgenera
 subgovernment
 subgrade
+subhead
 subheading
 subheadings
 subheads
@@ -26745,6 +26778,7 @@ toenailing
 toes
 tog
 toga
+togas
 togaviruses
 toggler
 togglers
@@ -29548,6 +29582,7 @@ yodlers
 yodles
 yoga
 yoghs
+yogin
 yogins
 yogis
 yohimbines
