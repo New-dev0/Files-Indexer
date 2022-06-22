@@ -1,0 +1,5 @@
+cyclecloud-hpcpack/setup_cert.ps1 at master - GitHub,https://github.com/Azure/cyclecloud-hpcpack/blob/master/setup_cert.ps1
+Install-SecureMfaOtpProvider.ps1 2.0.0.6 - PowerShell Gallery,https://www.powershellgallery.com/packages/SecureMFA_OTP/2.0.0.6/Content/Install-SecureMfaOtpProvider.ps1
+Reset-xOTP.ps1 1.0.0.7 - PowerShell Gallery,https://www.powershellgallery.com/packages/SecureMFA/1.0.0.7/Content/Reset-xOTP.ps1
+lib/ansible/modules/windows/win_nssm.ps1 - Fossies,https://fossies.org/linux/ansible/lib/ansible/modules/windows/win_nssm.ps1
+https://raw.githubusercontent.com/madbomb122/Black...,https://raw.githubusercontent.com/madbomb122/BlackViperScript/master/BlackViper-Win10.ps1
