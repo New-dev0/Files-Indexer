@@ -665,6 +665,7 @@ amalgamate
 amalgamators
 amarelles
 amaryllises
+amas
 amassable
 amasser
 amassments
@@ -1150,6 +1151,7 @@ apologetics
 apologist
 apologists
 apologues
+apolunes
 apomict
 apomicts
 apophthegms
@@ -1741,6 +1743,7 @@ axils
 axiological
 axiologies
 axiomatically
+axions
 axisymmetry
 axites
 axseed
@@ -1875,6 +1878,7 @@ ballistic
 ballistically
 ballonet
 ballpark
+ballparks
 bally
 ballyhooing
 ballyrag
@@ -1937,6 +1941,7 @@ bards
 bareboat
 bareboned
 barefacedly
+barehanded
 barehanding
 barfed
 barfing
@@ -2887,6 +2892,7 @@ bovine
 bowdlerised
 bowdlerising
 bowed
+bowfront
 bowhead
 bowheads
 bowlegged
@@ -3902,6 +3908,7 @@ censused
 centares
 centaurs
 centaury
+centavos
 centenarians
 centenaries
 centering
@@ -4719,6 +4726,7 @@ cognations
 cognises
 cognitional
 cognizing
+cognomens
 cognomina
 cogs
 cogwheel
@@ -7628,6 +7636,7 @@ drammocks
 drapery
 dratted
 draughts
+drave
 drawable
 drawbar
 drawee
@@ -8131,6 +8140,7 @@ emblemized
 emblems
 embolies
 embolizations
+embonpoint
 embosses
 embossing
 embossments
@@ -9177,6 +9187,7 @@ fashing
 fashions
 fastbacks
 fastballers
+fastidiously
 fatalist
 fatalists
 fatefully
@@ -10699,6 +10710,7 @@ glutei
 glutethimides
 gluteus
 glutinous
+glutted
 gluttonies
 glycans
 glyceridic
@@ -11510,6 +11522,7 @@ hedonist
 hedonists
 heeder
 heehaw
+heeled
 heelless
 heelpost
 hefts
@@ -12539,6 +12552,7 @@ incepted
 inceptive
 inceptively
 incepts
+incessancies
 inchoate
 inchoateness
 inchoatives
@@ -12890,6 +12904,7 @@ insignias
 insignificancy
 insincere
 insincerely
+insinuated
 insinuatingly
 insister
 insisters
@@ -13765,6 +13780,7 @@ kilty
 kimono
 kinder
 kindergarteners
+kindergartens
 kindergartners
 kindheartedly
 kindheartedness
@@ -13976,6 +13992,7 @@ laminating
 laminator
 lammergeier
 lammergeiers
+lammergeyer
 lammergeyers
 lamp
 lampblack
@@ -14444,6 +14461,7 @@ livability
 liveability
 lived
 liveliest
+liveliness
 liven
 livening
 liver
@@ -15357,6 +15375,7 @@ metaplasia
 metaplasm
 metastasis
 metastatically
+metatarsus
 metathoracic
 metaxylem
 metazoa
@@ -16361,6 +16380,7 @@ myelomata
 myelomatous
 myelopathic
 myoelectric
+myoinositols
 myopically
 myoses
 myosote
@@ -17583,6 +17603,7 @@ outcaught
 outcavils
 outcharm
 outclimbs
+outcoach
 outcomes
 outcounted
 outcrawling
@@ -17783,6 +17804,7 @@ overarming
 overarranging
 overassertion
 overassertive
+overasserts
 overassessments
 overbeats
 overbejeweled
@@ -18906,6 +18928,7 @@ photocurrent
 photocurrents
 photodiodes
 photodissociate
+photoed
 photoelectrons
 photofinisher
 photofinishings
@@ -19299,6 +19322,7 @@ pliably
 plicated
 plicately
 plies
+plimsol
 pliofilm
 pliskie
 plisse
@@ -21531,6 +21555,7 @@ removeable
 remudas
 remunerators
 renail
+renal
 renascent
 renationalizes
 renaturation
@@ -22173,6 +22198,7 @@ rogatory
 roger
 rogueries
 roguing
+roguishly
 roguishnesses
 rolfer
 rolfers
@@ -22224,6 +22250,8 @@ rosiness
 rosinesses
 rosinous
 rosinweed
+rostella
+rostellums
 rostrate
 rotameter
 rotates
@@ -23248,6 +23276,7 @@ shampooer
 shamrocks
 shamuses
 shandygaffs
+shanghai
 shanghaied
 shanghaiers
 shannies
@@ -24684,6 +24713,7 @@ stenography
 stenosis
 stepbrothers
 stepfathers
+stephanotises
 stepladder
 stepmothers
 steppes
@@ -26300,6 +26330,7 @@ tireder
 tires
 tiresomely
 tiring
+tisane
 tissuing
 titanias
 titers
@@ -26580,6 +26611,7 @@ transferrable
 transferred
 transferrer
 transferrins
+transfiguring
 transfixt
 transformation
 transgresses
@@ -26594,6 +26626,7 @@ transliterates
 transmigrated
 transmissivity
 transmittances
+transmitted
 transmitters
 transmutative
 transnational
@@ -28168,6 +28201,7 @@ vid
 videlicet
 videodisks
 videographer
+videographies
 videolands
 videotexes
 videttes
@@ -28388,6 +28422,7 @@ waffled
 waffling
 waftage
 wafter
+wafts
 wageless
 wager
 wagered
