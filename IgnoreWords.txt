@@ -1123,6 +1123,7 @@ apanage
 apanages
 apathetic
 apatosaur
+aperiodically
 apertures
 apetalous
 aphaeretic
@@ -3277,6 +3278,7 @@ burlesquer
 burlesquers
 burling
 burly
+burnable
 burnables
 burned
 burner
@@ -3451,6 +3453,7 @@ callings
 calloses
 callosities
 callosity
+calloused
 callouses
 callousing
 callow
@@ -3612,6 +3615,7 @@ captain
 captivities
 captopril
 captor
+captured
 capuche
 capuchin
 caput
@@ -3913,6 +3917,7 @@ cellular
 cellulars
 cellulites
 cellulitis
+cembalo
 cementers
 cemeteries
 cenobite
@@ -3961,6 +3966,7 @@ cephalothin
 ceps
 ceraceous
 ceramics
+ceramist
 cerated
 cere
 cerebration
@@ -4385,6 +4391,7 @@ cinerarias
 cinerary
 cingular
 cinnabar
+cinnamons
 cinnamony
 cinnamyls
 ciphering
@@ -8862,6 +8869,7 @@ exclave
 excluded
 exclusion
 exclusive
+excogitate
 excommunicate
 excommunicated
 excrescency
@@ -9724,6 +9732,7 @@ flowerful
 floweriest
 flowingly
 flowstone
+flowstones
 flub
 flubbed
 flubber
@@ -9741,6 +9750,7 @@ fluking
 fluky
 flummeries
 flung
+flunked
 fluoresce
 fluorescein
 fluoric
@@ -11543,6 +11553,7 @@ heathenries
 heathens
 heathless
 heaumes
+heavily
 heavyweight
 hebephrenia
 hebephrenic
@@ -13639,6 +13650,7 @@ junto
 jupons
 juridic
 jurisprudences
+jurywoman
 juster
 justest
 justiciable
@@ -14879,6 +14891,7 @@ maisonette
 maists
 majagua
 majaguas
+majesty
 majoritarian
 majorly
 majuscular
@@ -15138,6 +15151,7 @@ mathematization
 mathematized
 mathematizes
 matriarchs
+matriculates
 matrilineally
 matrimonies
 matronizes
@@ -15642,6 +15656,7 @@ mimbars
 mimed
 mimeographs
 mimes
+mimesis
 mimesises
 mimetic
 mimic
@@ -16362,6 +16377,7 @@ murr
 murras
 murreys
 murrs
+musca
 muscadet
 muscadets
 muscadines
@@ -16382,6 +16398,7 @@ musicology
 muskmelon
 muskrat
 muskrats
+musky
 muspike
 musquashes
 mussed
@@ -17994,6 +18011,7 @@ overlewd
 overlighted
 overliteral
 overlived
+overloaded
 overloads
 overlooking
 overlords
@@ -18393,6 +18411,7 @@ parasitologist
 parasitologists
 parasol
 paratroops
+parawings
 parboiled
 parboiling
 parbuckling
@@ -18783,6 +18802,7 @@ perkiest
 perkish
 permanently
 permeably
+permeate
 permian
 permitter
 permutational
@@ -19412,6 +19432,7 @@ plowshare
 ploys
 plumb
 plumbers
+plumbings
 plumerias
 plumes
 plumier
@@ -20559,6 +20580,7 @@ pursuant
 pursue
 pursuits
 pursuivants
+purulences
 purveys
 push
 pushdowns
@@ -22279,6 +22301,7 @@ roguishly
 roguishnesses
 rolfer
 rolfers
+rolfing
 rollaway
 rolling
 rollings
@@ -22676,6 +22699,7 @@ sarcous
 sardonic
 sardonically
 sardonyx
+sardonyxes
 sarodes
 sarongs
 saroses
@@ -22699,6 +22723,7 @@ satisfaction
 satisfiable
 satisfier
 satisfies
+satisfyingly
 satsumas
 saturable
 saturate
@@ -23404,6 +23429,7 @@ sheepdog
 sheerest
 sheering
 sheerness
+sheers
 sheetings
 sheetrock
 sheetrocks
@@ -23531,6 +23557,7 @@ shouted
 shoveled
 shovelful
 shoveling
+shoving
 showable
 showboat
 showdown
@@ -23721,6 +23748,7 @@ siphonal
 sippers
 sips
 sirdars
+sirens
 siring
 sirvente
 sirventes
@@ -23830,6 +23858,7 @@ slakers
 slaking
 slanderers
 slanderous
+slanting
 slants
 slashings
 slatches
@@ -24001,6 +24030,7 @@ smokepot
 smokily
 smoocher
 smoochers
+smoochy
 smooshed
 smoothbores
 smoothen
@@ -25171,6 +25201,7 @@ subjectivise
 subjectivised
 subjectivist
 subjectivizes
+subjectless
 subjoin
 subjugations
 subjugator
@@ -25956,6 +25987,7 @@ team
 teams
 teardrops
 tearful
+tearfulnesses
 tearing
 tearstains
 teasable
@@ -27026,6 +27058,7 @@ tularemias
 tule
 tulips
 tullibees
+tumbler
 tumefies
 tumefying
 tumescence
@@ -27941,6 +27974,7 @@ upraise
 uprating
 upreached
 uprighting
+uprises
 upriver
 uproarious
 uproariously
@@ -28160,6 +28194,7 @@ vehement
 veiler
 veiling
 veining
+veinlet
 veinlike
 veins
 velarization
