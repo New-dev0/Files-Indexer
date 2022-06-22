@@ -35,6 +35,7 @@ abridgments
 abruptions
 abscisin
 absconder
+abseils
 absentee
 absenters
 absentmindedly
@@ -1907,6 +1908,7 @@ bandogs
 bandoleers
 bandoliers
 bandsaws
+bandshells
 bandwidth
 banefully
 bangkok
@@ -2249,6 +2251,7 @@ bemuddling
 bemurmured
 bemusedly
 bendable
+benedictions
 beneficial
 beneficiary
 beneficiate
@@ -2489,6 +2492,7 @@ biphasic
 bipinnate
 bipinnately
 bipolar
+bipolarities
 bipolarizes
 biradial
 biradical
@@ -2573,6 +2577,7 @@ bladed
 bladeless
 blaeberries
 blaff
+blaggings
 blameful
 blamefully
 blameless
@@ -3026,6 +3031,7 @@ brigandage
 brigantines
 brighten
 brighteners
+brightens
 brighter
 brightest
 brights
@@ -6303,6 +6309,7 @@ decadencies
 decadent
 decagrams
 decaliter
+decaliters
 decameter
 decampments
 decamps
@@ -7088,6 +7095,7 @@ diplomats
 diplopias
 dipnetted
 dipnoans
+dipped
 dippy
 dipsomania
 dipsos
@@ -7906,9 +7914,11 @@ ecclesiological
 ecclesiologist
 ecclesiology
 ecdysis
+ecdyson
 echelon
 echeloning
 echinate
+echini
 echinoderm
 echinoderms
 echoic
@@ -8130,6 +8140,7 @@ embassies
 embay
 embed
 embeds
+embezzlements
 embezzlers
 embitter
 embitters
@@ -9261,6 +9272,7 @@ feelings
 feeze
 feezed
 feigner
+feigns
 feijoa
 feinted
 feist
@@ -9370,6 +9382,7 @@ fibrous
 fices
 fiches
 ficin
+ficklest
 fickly
 fico
 fictional
@@ -11485,6 +11498,7 @@ hearsed
 heartaches
 heartbreaker
 heartbreaking
+heartburning
 heartening
 heartens
 heartfelt
@@ -11542,6 +11556,7 @@ helios
 heliostat
 heliotrope
 heliotropisms
+heliotyping
 helipad
 helistop
 helium
@@ -11728,6 +11743,7 @@ highths
 highting
 hightops
 hijab
+hijra
 hilariousnesses
 hillbilly
 hilled
@@ -12015,6 +12031,7 @@ houstonia
 hovels
 hovered
 hoverfly
+hovering
 howdie
 however
 howffs
@@ -14199,6 +14216,7 @@ legumes
 lehua
 lehuas
 leiomyomas
+leiomyomata
 leishmania
 leishmaniases
 leistered
@@ -15777,6 +15795,7 @@ misnumbering
 misogyny
 misoneism
 misoneist
+misordered
 misoriented
 mispackaging
 misparses
@@ -15930,6 +15949,7 @@ moldwarps
 molecules
 molesting
 mollification
+mollified
 mollifier
 molls
 molluscicidal
@@ -16269,6 +16289,7 @@ multiplications
 multiplicity
 multiplies
 multiproduct
+multirange
 multiscreen
 multistoried
 multisyllabic
@@ -16467,6 +16488,7 @@ nastiest
 nastily
 nasturtium
 natal
+natations
 natatoriums
 nationally
 nationhood
@@ -17037,6 +17059,7 @@ notochordal
 nounless
 nourishment
 nouvelle
+nouvelles
 novae
 novelizer
 novelizers
@@ -17824,6 +17847,7 @@ overburdening
 overcalled
 overcharge
 overchilled
+overclassified
 overcold
 overcompensate
 overcompresses
@@ -17916,6 +17940,7 @@ overissuances
 overjoyed
 overkill
 overkilled
+overlade
 overladen
 overlavish
 overlay
@@ -17932,6 +17957,7 @@ overlived
 overloads
 overlooking
 overlords
+overloved
 overly
 overmanned
 overmanning
@@ -19192,6 +19218,7 @@ pixels
 pixieish
 pizazzes
 pizzalike
+pizzelle
 pizzelles
 pizzle
 pizzles
@@ -22408,6 +22435,7 @@ saboteur
 saboteurs
 sabring
 sacahuiste
+sacatons
 saccades
 saccharase
 saccharases
@@ -23302,6 +23330,7 @@ shavies
 shaving
 shavings
 shawing
+sheaf
 sheaflike
 sheafs
 shearing
@@ -25016,6 +25045,7 @@ subas
 subatom
 subbasement
 subbasements
+subbasin
 subbass
 subcavity
 subcellular
@@ -25101,6 +25131,7 @@ sublimits
 sublimity
 sublingual
 subliterature
+sublunary
 subluxations
 submarined
 submarkets
@@ -25631,6 +25662,7 @@ syncopal
 syncopate
 syncopator
 syncope
+syncretised
 syncretists
 syndactyl
 syndactylism
@@ -26316,6 +26348,7 @@ tinkler
 tinner
 tinniest
 tint
+tinted
 tip
 tipcart
 tippable
@@ -27444,6 +27477,7 @@ unfastening
 unfeigned
 unfeignedly
 unfettered
+unfetters
 unfiltered
 unfit
 unfitted
@@ -27480,6 +27514,7 @@ unhands
 unhandsome
 unhanging
 unharmed
+unharnesses
 unhatched
 unhealthinesses
 unhelms
