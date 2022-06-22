@@ -183,6 +183,7 @@ acquisitive
 acquittance
 acred
 acrider
+acridine
 acridnesses
 acrimonies
 acritarch
@@ -763,6 +764,7 @@ amping
 ampler
 ampoule
 ampoules
+amps
 ampulla
 ampullae
 ampuls
@@ -855,6 +857,7 @@ anecdotic
 anecdotically
 anecdotists
 anele
+anemologies
 anemophilous
 anenst
 anesthesia
@@ -2966,6 +2969,7 @@ brasilins
 brassbound
 brasseries
 brassiest
+brattice
 brattier
 brattle
 bratwursts
@@ -3399,6 +3403,7 @@ cairds
 cajeput
 cajones
 cakes
+cakinesses
 caky
 calabazas
 caladiums
@@ -4331,6 +4336,7 @@ chronon
 chrysolite
 chrysomelids
 chubbiest
+chubby
 chuckies
 chuckle
 chuckleheaded
@@ -5263,6 +5269,7 @@ conterminously
 contes
 contestants
 contextures
+continentals
 continently
 contingencies
 continuant
@@ -6520,6 +6527,7 @@ dehydrating
 dehydrators
 deice
 deicer
+deictics
 deifier
 deiform
 deify
@@ -7072,6 +7080,7 @@ diodes
 dioecisms
 dionysiac
 diopsidic
+dioptases
 diorites
 dioritic
 dioxans
@@ -9082,6 +9091,7 @@ faded
 fadeless
 fadeouts
 fadlike
+fagged
 fagoting
 fagots
 failing
@@ -9350,6 +9360,7 @@ fests
 fetas
 feted
 fetial
+fetials
 feticidal
 fetidity
 fetidly
@@ -10450,6 +10461,7 @@ gelatinized
 gelatinously
 gelder
 geldings
+gelidnesses
 gelignite
 gels
 gelsemia
@@ -10763,6 +10775,7 @@ gobbler
 gobbles
 goblin
 gobonee
+gobony
 goby
 goddammed
 goddamndest
@@ -10826,6 +10839,7 @@ gormandising
 gormandize
 gormands
 gorp
+gosling
 gossip
 gossippers
 gossypols
@@ -12697,6 +12711,7 @@ induced
 inducement
 inducer
 inducing
+inductee
 inductees
 inductile
 inductive
@@ -16857,6 +16872,7 @@ nondeliveries
 nondemands
 nondemocratic
 nondepartmental
+nondeposition
 nondescriptive
 nondiabetics
 nondialyzable
@@ -17545,6 +17561,7 @@ osmosis
 osmotically
 osmunda
 osmunds
+ossa
 ossatures
 ossetra
 ossicular
@@ -18441,6 +18458,7 @@ pasteups
 pasteurises
 pasteurizing
 pasticheurs
+pastilles
 pastinas
 pastinesses
 pastitsos
@@ -18996,6 +19014,7 @@ phyle
 phyleses
 phylesises
 phyllite
+phyllo
 phyllome
 phyllomes
 phyllotactic
@@ -19886,6 +19905,7 @@ preinterviewed
 preinvite
 prejudiced
 prekindergarten
+prelaw
 prelegal
 prelives
 prelocate
@@ -20309,6 +20329,7 @@ protoxid
 protozoal
 protozoic
 protozoologies
+protozoologist
 protractive
 protrusion
 protrusions
@@ -20571,6 +20592,7 @@ pyroxene
 pyroxenes
 pyroxenitic
 pyroxenoid
+pyrrhic
 pyrrole
 pyuria
 pyurias
@@ -22748,6 +22770,7 @@ scars
 scarting
 scary
 scatback
+scats
 scatterbrain
 scatterbrained
 scatterbrains
@@ -22824,6 +22847,7 @@ sciurine
 sclaffing
 sclerites
 scleritis
+scleromas
 sclerose
 scolder
 scolders
@@ -22994,6 +23018,7 @@ sectoral
 sectorial
 secularization
 secularizer
+securely
 securement
 securitize
 securitizes
@@ -24826,6 +24851,7 @@ stockman
 stockpiled
 stocktaking
 stogey
+stoichiometric
 stoked
 stokehold
 stolidest
@@ -25489,6 +25515,7 @@ surprisal
 surprised
 surprisingly
 surprizes
+surprizing
 surra
 surrealist
 surrejoinder
@@ -25889,6 +25916,7 @@ taximeters
 tazzas
 tchotchkes
 teaboxes
+teacakes
 teachableness
 teacup
 teahouses
@@ -26486,6 +26514,7 @@ topograph
 topographers
 topographical
 topographically
+topologically
 topologists
 toponymies
 toponymists
@@ -26582,6 +26611,7 @@ trachled
 trachoma
 tracing
 track
+trackers
 trackmen
 tracks
 tradable
@@ -27087,6 +27117,7 @@ twosome
 tyin
 tying
 tyke
+tymbal
 tympanic
 tympanist
 tympany
@@ -27771,6 +27802,7 @@ unsurpassed
 unsurprisingly
 unsustainable
 unswear
+unswears
 unswerving
 unswore
 unsymmetrically
@@ -28365,6 +28397,7 @@ vogueings
 voguer
 voguers
 voguishly
+voiceful
 voicefulness
 voiceover
 voiceovers
@@ -28540,6 +28573,7 @@ warwork
 warworks
 wasabi
 washables
+washateria
 washbasins
 washboard
 washbowls
@@ -28877,6 +28911,7 @@ wishbones
 wished
 wishes
 wishfulnesses
+wishing
 wishless
 wisp
 wisping
