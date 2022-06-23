@@ -242,6 +242,7 @@ adding
 addles
 addressable
 addresses
+adducer
 adducible
 adenines
 adenomas
@@ -2307,6 +2308,7 @@ beloveds
 below
 belter
 beltline
+bemadams
 bemata
 bemingles
 bemisting
@@ -3126,6 +3128,7 @@ bridling
 brief
 briefcase
 briefing
+briefless
 bries
 brigaded
 brigadier
@@ -5864,6 +5867,7 @@ cratch
 craterings
 craton
 cravened
+cravening
 craver
 cravings
 crawfishes
@@ -6671,6 +6675,7 @@ defibrillators
 defibrinating
 defier
 definement
+definite
 definitely
 definitenesses
 definitively
@@ -6852,6 +6857,7 @@ denimed
 denitrate
 denitrated
 denitrating
+denning
 denominates
 denouement
 dense
@@ -7022,6 +7028,7 @@ detachers
 detachment
 detachments
 detailednesses
+detainers
 detaining
 detect
 detection
@@ -9762,6 +9769,7 @@ finer
 fines
 fingerboards
 fingerer
+fingerpicked
 fingerpickings
 fingerposts
 fingerprintings
@@ -9810,6 +9818,7 @@ firer
 fireship
 fireside
 firing
+firkins
 firm
 firmnesses
 firms
@@ -10131,6 +10140,7 @@ foolishnesses
 foolproof
 fools
 footballs
+footboards
 footboy
 footbridge
 footcloths
@@ -11008,6 +11018,7 @@ glasswork
 glaucous
 glazier
 glaziery
+glazily
 gleamier
 gleamy
 gledes
@@ -11727,6 +11738,7 @@ haphtarah
 haphtarot
 hapkido
 haplopia
+haplopias
 happened
 happens
 happy
@@ -12985,6 +12997,7 @@ inbreathes
 inbreeder
 inbreeders
 inburst
+inbye
 incalculable
 incandescent
 incandescents
@@ -16020,6 +16033,7 @@ microfungus
 microgram
 micrograms
 micrographic
+microhms
 microinch
 microinjected
 microloan
@@ -16963,6 +16977,7 @@ mydriases
 myelin
 myelofibroses
 myeloid
+myeloma
 myelomata
 myelomatous
 myelopathic
@@ -18154,6 +18169,7 @@ osmose
 osmosis
 osmotically
 osmunda
+osmundas
 osmunds
 ossa
 ossatures
@@ -19446,6 +19462,7 @@ perspicuity
 persuade
 persuader
 persuades
+persuading
 persuasively
 pertains
 pertinence
@@ -19563,6 +19580,7 @@ philosophical
 philosophize
 philosophizes
 philosophizing
+philosophy
 philtering
 philtred
 philtres
@@ -20927,6 +20945,7 @@ propene
 propensities
 properdin
 properdins
+properer
 propers
 prophase
 prophasic
@@ -21004,6 +21023,7 @@ protectresses
 proteinurias
 proteoglycan
 proteome
+proteomic
 protestation
 protests
 prothonotary
@@ -22250,6 +22270,7 @@ rekindled
 reknits
 reknitting
 reknots
+relabelled
 relacquered
 relapsers
 relational
@@ -22982,6 +23003,7 @@ roar
 roaster
 roasts
 robbed
+robberies
 robed
 robotism
 robotization
@@ -23323,6 +23345,7 @@ saltwater
 salutary
 salutatorian
 salute
+salvageability
 salvagers
 salvation
 salvational
@@ -24795,6 +24818,7 @@ smuts
 smuttier
 snackers
 snacks
+snaffles
 snail
 snailed
 snake
@@ -25111,6 +25135,7 @@ spackles
 spaded
 spadework
 spaeings
+spaes
 spaghettilike
 spahis
 spallable
@@ -25692,6 +25717,7 @@ stockists
 stockman
 stockpiled
 stocktaking
+stocktakings
 stogey
 stoichiometric
 stoked
@@ -26137,6 +26163,7 @@ sufferableness
 sufferances
 sufficiencies
 sufflates
+suffocates
 suffocation
 suffocations
 suffuse
@@ -26442,6 +26469,7 @@ sweater
 sweatpants
 sweats
 sweatshirts
+sweatsuit
 swede
 sweeney
 sweenies
@@ -26546,6 +26574,7 @@ synchronises
 synchronism
 synchronize
 synchronized
+synchronous
 synchronously
 syncoms
 syncopal
@@ -26658,6 +26687,7 @@ talcing
 talcking
 talcs
 talcums
+talebearer
 talentless
 talesmen
 talion
@@ -26900,6 +26930,7 @@ tendencious
 tendered
 tenderest
 tendering
+tenderloin
 tenderly
 tenderometer
 tendrilled
@@ -26963,6 +26994,7 @@ terrains
 terrazzo
 terrella
 terrine
+terrines
 territorial
 territorialized
 territorials
@@ -28144,6 +28176,7 @@ unaffecting
 unaffordable
 unagile
 unallayed
+unalterable
 unambiguous
 unamended
 unamortized
@@ -28674,6 +28707,7 @@ unsaturated
 unsaturates
 unsaved
 unsavoury
+unsayables
 unschooled
 unscrambling
 unscrews
@@ -30002,6 +30036,7 @@ wormroot
 worries
 worrited
 worry
+worrywart
 worse
 worsen
 worsets
