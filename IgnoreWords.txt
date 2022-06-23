@@ -850,11 +850,13 @@ anaphor
 anaphora
 anaphorically
 anaphrodisiacs
+anaphylactoid
 anarch
 anarchies
 anarthrias
 anastrophes
 anathemas
+anatomic
 anatomised
 anatomized
 anatropous
@@ -2024,6 +2026,7 @@ barosaurs
 barquentine
 barracks
 barracudas
+barrage
 barraged
 barramundi
 barranco
@@ -2803,6 +2806,7 @@ bodyguarding
 bodysurfed
 bodyworks
 boffola
+boffos
 bog
 bogeyman
 bogginesses
@@ -3836,6 +3840,7 @@ carrots
 carrottop
 carryout
 carted
+cartelise
 cartelising
 cartelize
 cartes
@@ -4568,6 +4573,7 @@ clachan
 clad
 cladode
 cladodes
+cladodial
 cladogram
 clads
 clag
@@ -4727,6 +4733,7 @@ clypeate
 cnidae
 coacervations
 coachwork
+coactive
 coadjutor
 coadmire
 coadmires
@@ -5101,6 +5108,7 @@ commutes
 commy
 comorbid
 compacter
+compacting
 compactions
 compactly
 companions
@@ -5895,6 +5903,7 @@ cremator
 cremators
 creme
 cremes
+crenature
 crenelating
 creodont
 creole
@@ -7101,6 +7110,7 @@ dialectology
 dialects
 diallages
 dialled
+dialling
 dialogically
 dialogs
 dialogue
@@ -7310,6 +7320,7 @@ dipnoans
 dipped
 dippy
 dipsomania
+dipsomaniacs
 dipsos
 dipsticks
 diptera
@@ -8598,6 +8609,7 @@ enisling
 enjoinder
 enjoinders
 enjoyed
+enkephalin
 enlargements
 enlarges
 enlistments
@@ -9597,6 +9609,7 @@ fermate
 fermented
 fermi
 ferns
+ferociousness
 ferocity
 ferrel
 ferreled
@@ -10926,6 +10939,7 @@ girder
 girders
 girdled
 girliest
+girt
 gismos
 gite
 gitting
@@ -11735,6 +11749,7 @@ harpooning
 harpsichord
 harpsichordists
 harries
+harrumphed
 harrumphing
 harry
 harshened
@@ -12620,6 +12635,7 @@ hypnotherapists
 hypnotically
 hypnotize
 hypocalcemias
+hypochlorite
 hypochlorites
 hypochondriacal
 hypochondriases
@@ -13865,6 +13881,7 @@ jarina
 jarl
 jarlsberg
 jarovized
+jars
 jarveys
 jasmin
 jaspery
@@ -14357,6 +14374,7 @@ kukri
 kultur
 kummel
 kurbash
+kurrajongs
 kvases
 kvass
 kvasses
@@ -15384,6 +15402,7 @@ mammoths
 mamzer
 manacling
 manage
+managed
 managements
 managerships
 mananas
@@ -15985,6 +16004,7 @@ micromanaging
 micromeres
 micrometeorite
 micrometeoritic
+micrometer
 micromorphology
 micronized
 micronucleus
@@ -16579,6 +16599,7 @@ monthlong
 months
 monticule
 monumental
+monumentalizing
 monuments
 monzonite
 moods
@@ -18643,6 +18664,7 @@ overwhelms
 overwily
 overwinding
 overwinters
+overwithhold
 overwithholds
 overworking
 overworn
@@ -19053,6 +19075,7 @@ pastromis
 pastures
 patagium
 patcher
+patchworks
 pate
 patelliform
 patentability
@@ -20211,6 +20234,7 @@ popularity
 popularization
 popularizing
 popularly
+populational
 populations
 populism
 porcini
@@ -20237,6 +20261,7 @@ portraying
 posed
 poseurs
 poshness
+posingly
 posited
 positing
 position
@@ -21349,6 +21374,7 @@ quietuses
 quillais
 quillback
 quillworts
+quilting
 quinaries
 quinate
 quinina
@@ -22354,6 +22380,7 @@ rephotograph
 rephotographed
 repigment
 repigmented
+repinned
 repinning
 replaceable
 replasters
@@ -22935,6 +22962,7 @@ rocambole
 rockabilly
 rocker
 rockery
+rocketeer
 rockhopper
 rockhounds
 rockwork
@@ -25542,6 +25570,7 @@ stenographer
 stenographies
 stenography
 stenosis
+stenotherms
 stepbrothers
 stepfathers
 stephanotises
@@ -27253,6 +27282,7 @@ tog
 toga
 togas
 togaviruses
+toggled
 toggler
 togglers
 toiletries
@@ -27525,6 +27555,7 @@ transnational
 transpersonal
 transpierce
 transpirations
+transpire
 transplantable
 transpontine
 transsexualism
@@ -27738,6 +27769,7 @@ trochanters
 trochar
 trochilus
 trocked
+trocking
 troilism
 troilites
 troke
@@ -28027,6 +28059,7 @@ ultraconvenient
 ultradense
 ultraexclusive
 ultrafeminine
+ultrahip
 ultrahot
 ultraleftists
 ultramarathons
@@ -30053,6 +30086,7 @@ yaps
 yar
 yardage
 yardarm
+yarder
 yards
 yardstick
 yarmelke
@@ -30070,6 +30104,7 @@ ycleped
 yclept
 yeaning
 yearbook
+yearend
 yeasayer
 yeasayers
 yecch

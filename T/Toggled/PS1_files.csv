@@ -1,0 +1,5 @@
+Intune-PowerShell-Management/ConvertTo-IntuneFirewallRule.ps1 ...,https://github.com/microsoft/Intune-PowerShell-Management/blob/master/Scenario%2520Modules/IntuneFirewallRulesMigration/IntuneFirewallRulesMigration/Public/ConvertTo-IntuneFirewallRule.ps1
+Intune-PowerShell-Management/Export-NetFirewallRule.ps1 at master,https://github.com/microsoft/Intune-PowerShell-Management/blob/master/Scenario%2520Modules/IntuneFirewallRulesMigration/IntuneFirewallRulesMigration/Public/Export-NetFirewallRule.ps1
+Public/Set-RubrikSupportTunnel.ps1 4.0.0.281 - PowerShell Gallery,https://www.powershellgallery.com/packages/Rubrik/4.0.0.281/Content/Public%255CSet-RubrikSupportTunnel.ps1
+https://raw.githubusercontent.com/TheWoodsy/Pause-...,https://raw.githubusercontent.com/TheWoodsy/Pause-Process/master/process-pause.ps1
+https://raw.githubusercontent.com/auberginehill/re...,https://raw.githubusercontent.com/auberginehill/remove-duplicate-files/master/Remove-DuplicateFiles.ps1
