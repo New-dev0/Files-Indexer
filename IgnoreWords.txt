@@ -330,6 +330,7 @@ aeonic
 aeration
 aerations
 aerator
+aerify
 aero
 aerobatic
 aerobes
@@ -1018,6 +1019,7 @@ anticlines
 anticommunisms
 anticorrosives
 anticyclone
+antidotal
 antiemetics
 antiepilepsy
 antiepileptics
@@ -1156,6 +1158,7 @@ aphis
 aphonics
 aphorises
 aphorists
+aphorized
 apiaceous
 apian
 apiculate
@@ -3403,6 +3406,7 @@ butterball
 butterflies
 butterflyers
 butterflying
+butterier
 butteriest
 buttering
 butterless
@@ -6063,6 +6067,7 @@ crystallized
 crystalloid
 cuatros
 cubbyhole
+cubed
 cubicities
 cuboid
 cuckolding
@@ -6199,6 +6204,7 @@ customizer
 customizes
 customs
 customshouse
+custumals
 cutability
 cutaneous
 cutback
@@ -8027,6 +8033,7 @@ durneder
 durning
 durrs
 durst
+dusk
 dusks
 dustheaps
 dustman
@@ -8215,6 +8222,7 @@ efferents
 efficacity
 efficacy
 efficiencies
+effigies
 efflorescence
 effluents
 effluvial
@@ -9219,6 +9227,7 @@ expurgator
 expurgatorial
 exquisites
 exsanguination
+exscind
 exsect
 exsiccated
 exsiccation
@@ -9380,6 +9389,7 @@ famishment
 fanatical
 fanaticized
 fanatics
+fanciers
 fancify
 fanciless
 fanciness
@@ -9746,6 +9756,7 @@ firehall
 firepan
 fireplace
 fireplug
+fireplugs
 firepots
 firepower
 fireproofing
@@ -9855,6 +9866,7 @@ flatfoots
 flatliners
 flattens
 flatterers
+flattery
 flatulency
 flatus
 flaunted
@@ -11004,6 +11016,7 @@ gloxinias
 glucans
 glucinic
 gluconeogeneses
+glucosidase
 glucoside
 glueynesses
 glugged
@@ -11752,6 +11765,7 @@ havdalah
 havior
 hawking
 hawkmoths
+hawknose
 hawks
 hawkweed
 hawsepipes
@@ -12995,6 +13009,7 @@ incur
 incurables
 incuriosity
 incurrence
+incurves
 incurving
 incuse
 incusing
@@ -13045,6 +13060,7 @@ indiscretions
 indispose
 indistinctness
 indite
+inditers
 indites
 individualised
 individualism
@@ -13282,6 +13298,7 @@ insemination
 insensible
 insensitivities
 insentiences
+inset
 insets
 insheathes
 insheaths
@@ -14012,6 +14029,7 @@ juxtaposing
 kabab
 kabala
 kabalas
+kabalisms
 kabayas
 kabbala
 kabobs
@@ -17486,7 +17504,9 @@ nonsugars
 nonsuiting
 nonsyllabic
 nontarget
+nontaxable
 nontechnical
+nonterminals
 nontherapeutic
 nonthreatening
 nontobacco
@@ -18092,6 +18112,7 @@ ourang
 ourari
 ourself
 outachieves
+outacting
 outadd
 outarguing
 outasked
@@ -19315,6 +19336,7 @@ persecutive
 persecutory
 perses
 perseverance
+perseverances
 perseverating
 persistence
 persistent
@@ -19498,6 +19520,7 @@ photochemical
 photochemistry
 photochromic
 photocomposes
+photocopying
 photocurrent
 photocurrents
 photodiodes
@@ -19778,6 +19801,7 @@ pixels
 pixieish
 pizazzes
 pizzalike
+pizzazzy
 pizzelle
 pizzelles
 pizzle
@@ -20432,6 +20456,7 @@ preferential
 preferments
 preferrers
 prefigurement
+prefile
 prefiled
 prefiring
 prefix
@@ -20459,6 +20484,7 @@ preimposing
 preinform
 preinserts
 preinterviewed
+preinvasion
 preinvite
 prejudiced
 prekindergarten
@@ -23053,6 +23079,7 @@ runaround
 runback
 runkled
 runkling
+runt
 runway
 rupiah
 rupiahs
@@ -24165,6 +24192,7 @@ showily
 showplace
 showroom
 showy
+shredders
 shrewed
 shrewishly
 shrewlike
@@ -24481,6 +24509,7 @@ slaveries
 slavish
 slavocrats
 slaw
+slayable
 slays
 sleazebag
 sleazes
@@ -24612,6 +24641,7 @@ smatters
 smearier
 smegma
 smell
+smelliest
 smelter
 smelteries
 smelters
@@ -25118,6 +25148,7 @@ spired
 spireme
 spiremes
 spires
+spirilla
 spirited
 spiritism
 spiritist
@@ -26173,6 +26204,7 @@ supped
 supplantations
 supplementary
 supplementation
+suppletory
 supportive
 supports
 supposal
@@ -28741,6 +28773,7 @@ urinalyses
 urinalysis
 urination
 urinators
+urinemia
 urinogenital
 urn
 urns
@@ -29335,6 +29368,7 @@ wannabee
 wannigan
 wannigans
 wanting
+wantoner
 wardenries
 warding
 warehousers
@@ -29664,6 +29698,7 @@ windrower
 windrowers
 windrows
 windscreens
+windsurfing
 windsurfings
 windthrow
 windups
