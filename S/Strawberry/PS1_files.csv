@@ -1,0 +1,9 @@
+scripts/Windows/install_perl.ps1 1.0.174 - PowerShell Gallery,https://www.powershellgallery.com/packages/AppVeyorBYOC/1.0.174/Content/scripts%255CWindows%255Cinstall_perl.ps1
+guest/perforce_software/p4perl/main/install_strawberry_p4perl.ps1,https://swarm.workshop.perforce.com/files/guest/perforce_software/p4perl/main/install_strawberry_p4perl.ps1
+base/appveyor-tool.ps1 at master · rwinlib/base - GitHub,https://github.com/rwinlib/base/blob/master/scripts/appveyor-tool.ps1
+osquery/install_openssl_formula_dependencies.ps1 at master,https://github.com/osquery/osquery/blob/master/tools/ci/scripts/install_openssl_formula_dependencies.ps1
+Rakudo: tools/build/binary-release/build-windows.ps1 | Fossies,https://fossies.org/linux/rakudo/tools/build/binary-release/build-windows.ps1
+osquery: .../install_openssl_formula_dependencies.ps1 | Fossies,https://fossies.org/linux/osquery/tools/ci/scripts/install_openssl_formula_dependencies.ps1
+MongoDB:auth<cpan:MARTIMM> t/Appveyor/install-all.ps1 - Raku ...,https://modules.raku.org/dist/MongoDB:cpan:MARTIMM/t/Appveyor/install-all.ps1
+https://raw.githubusercontent.com/orbital-transfer...,https://raw.githubusercontent.com/orbital-transfer/launch-site/master/script/ci/appveyor-orbital.ps1
+ci/run.ps1 · master · mirrors / mesonbuild / meson · GitCode,https://gitcode.net/mirrors/mesonbuild/meson/-/blob/master/ci/run.ps1
