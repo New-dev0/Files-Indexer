@@ -497,6 +497,7 @@ alabasters
 alack
 alackaday
 alacrities
+alacrity
 alamode
 alamodes
 alands
@@ -816,6 +817,7 @@ amyloplasts
 amylose
 amyloses
 amyls
+anabaena
 anabatic
 anachronism
 anaclises
@@ -1008,6 +1010,7 @@ anthraquinones
 anti
 antiaging
 antiaircraft
+antialcohol
 antianxiety
 antiarmor
 antiarrhythmic
@@ -1657,6 +1660,7 @@ aubretia
 auburn
 aucuba
 audaciousness
+audacity
 audad
 audibility
 audible
@@ -2467,6 +2471,7 @@ biffing
 biffins
 bifid
 bifoliate
+biformed
 bifunctional
 bifurcating
 bifurcations
@@ -3283,6 +3288,7 @@ buckbrushes
 bucket
 buckled
 bucklering
+bucko
 buckshees
 buckshot
 bucktooth
@@ -4054,6 +4060,7 @@ cellulites
 cellulitis
 cembalo
 cementers
+cementitious
 cemeteries
 cenobite
 cense
@@ -4746,6 +4753,7 @@ cloying
 cloys
 club
 clubbiest
+clubbing
 clubbish
 clubfoot
 clubfooted
@@ -4914,6 +4922,7 @@ cognates
 cognations
 cognises
 cognitional
+cognizers
 cognizing
 cognomens
 cognomina
@@ -5289,6 +5298,7 @@ confederated
 conferencings
 conferrable
 conferrence
+conferrences
 confervae
 conferval
 confervas
@@ -6540,6 +6550,7 @@ debauch
 debauched
 debauchee
 debeaks
+debilitation
 debits
 deboned
 debriefed
@@ -7240,6 +7251,7 @@ diehards
 dieing
 diemaker
 dieoff
+dieseling
 dieselizing
 diesters
 diestocks
@@ -9241,6 +9253,7 @@ exilic
 existed
 existent
 existentially
+exocrines
 exocytosis
 exodermises
 exodontias
@@ -9267,9 +9280,11 @@ exoticnesses
 expanded
 expanding
 expands
+expansional
 expansionists
 expatiate
 expatiated
+expatriatisms
 expedience
 expedients
 expedition
@@ -11461,6 +11476,7 @@ groovy
 grope
 groped
 gropingly
+grossing
 grossness
 grosze
 grot
@@ -12134,6 +12150,7 @@ heterodoxies
 heterodyning
 heteroecism
 heterogameties
+heterogenies
 heterogeny
 heterogony
 heterokaryons
@@ -14184,6 +14201,7 @@ kaifs
 kail
 kainits
 kaiserism
+kaiserisms
 kaisers
 kajeputs
 kakiemon
@@ -14351,6 +14369,7 @@ kimono
 kinder
 kindergarteners
 kindergartens
+kindergartner
 kindergartners
 kindheartedly
 kindheartedness
@@ -14383,6 +14402,7 @@ kists
 kitchen
 kite
 kiths
+kitsch
 kitschifying
 kittel
 kittenishness
@@ -16038,6 +16058,7 @@ methylamines
 methylase
 methylations
 metical
+meticulosity
 metis
 metisse
 metonymies
@@ -16753,6 +16774,7 @@ mordents
 morello
 moreness
 morenesses
+moresques
 morganites
 morion
 morions
@@ -17368,6 +17390,7 @@ nidgets
 nidi
 nidicolous
 nidified
+nidifies
 niellists
 nielloed
 nieve
@@ -18273,6 +18296,7 @@ otalgias
 other
 others
 otherworld
+otiosities
 otocystic
 otolaryngology
 otoscleroses
@@ -21345,6 +21369,7 @@ purslane
 pursuances
 pursuant
 pursue
+pursuer
 pursuits
 pursuivants
 purulences
@@ -23690,6 +23715,7 @@ scavenging
 scenas
 scenical
 scepter
+sceptic
 schadenfreudes
 schav
 schedular
@@ -24301,6 +24327,7 @@ sheets
 sheikhdom
 sheilas
 shellack
+shellacking
 shellback
 shellbarks
 shellers
@@ -25812,6 +25839,7 @@ stinging
 stingless
 stinkier
 stipel
+stippled
 stipplings
 stipular
 stipulate
@@ -27194,6 +27222,7 @@ theobromines
 theodolite
 theologically
 theologised
+theologising
 theologue
 theophany
 theophylline
@@ -27413,6 +27442,7 @@ tinkled
 tinkler
 tinner
 tinniest
+tinselling
 tint
 tinted
 tip
@@ -27676,6 +27706,7 @@ trafficable
 trafficked
 trafficker
 trafficking
+tragacanths
 tragicomedies
 tragus
 trail
@@ -27819,6 +27850,7 @@ tremor
 trenail
 trendies
 trendiest
+trendiness
 trendoid
 trendsetter
 trendsetting
@@ -27826,6 +27858,7 @@ trepanations
 trephines
 trepidant
 treponemal
+tressel
 tresses
 tressiest
 trevallies
@@ -28508,6 +28541,7 @@ underpasses
 underplot
 underreacting
 underreport
+underreports
 undersecretary
 undersell
 undersells
@@ -30302,6 +30336,7 @@ yarmelke
 yarrows
 yashmac
 yashmak
+yasmaks
 yattering
 yatters
 yaup
