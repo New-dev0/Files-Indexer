@@ -85,6 +85,7 @@ acanthi
 acapnia
 acarboses
 acaridans
+acarids
 acarologies
 acarus
 acceded
@@ -164,6 +165,7 @@ achlorhydria
 achondrite
 achromatize
 achromats
+aciculum
 acidifiers
 acidifies
 acidify
@@ -1802,6 +1804,7 @@ azimuths
 azines
 azoles
 azotemia
+azotes
 azoturia
 azure
 baal
@@ -3010,6 +3013,7 @@ brackishness
 brackishnesses
 bracted
 bradycardia
+braggart
 braided
 braidings
 braids
@@ -6581,6 +6585,7 @@ deedless
 deedy
 deepest
 deepfreezes
+deeps
 deerflies
 deerhounds
 deerskin
@@ -6680,6 +6685,7 @@ deglamorize
 deglamorizing
 degradations
 degradative
+degradedly
 degrader
 degressive
 degums
@@ -6960,6 +6966,7 @@ despising
 despiting
 despoiler
 despoliation
+despondence
 despondently
 despumate
 destitute
@@ -7665,6 +7672,7 @@ doglike
 dogmatism
 dogmatize
 dogrobbers
+dogsledder
 dogtrot
 dogtrots
 dogtrotting
@@ -11895,6 +11903,7 @@ hemagogs
 hematics
 hematinics
 hematomas
+hematopoiesis
 hematopoietic
 hematoxylin
 hematoxylins
@@ -12224,6 +12233,7 @@ homosocialities
 homozygosities
 homozygotes
 homozygous
+homozygously
 honcho
 honda
 hondle
@@ -13630,6 +13640,7 @@ iridology
 irids
 iring
 irising
+irk
 irksomeness
 ironclad
 ironicalnesses
@@ -14056,6 +14067,7 @@ katas
 katcinas
 kathodes
 katydid
+kauries
 kauris
 kavas
 kayak
@@ -14164,6 +14176,7 @@ kidvid
 kief
 kilim
 kill
+killable
 killdeers
 kills
 kiln
@@ -14964,6 +14977,7 @@ logrolls
 logs
 logways
 logy
+loided
 loincloth
 loins
 lollers
@@ -15319,6 +15333,7 @@ mammoths
 mamzer
 manacling
 manage
+managements
 managerships
 mananas
 manches
@@ -15590,6 +15605,7 @@ measures
 meatier
 meatmen
 meats
+meaty
 mechanical
 mechanization
 mechanized
@@ -16518,6 +16534,7 @@ mooners
 moonier
 moonily
 mooninesses
+mooning
 moonless
 moonlight
 moonlighter
@@ -17226,6 +17243,7 @@ nodding
 nodi
 nodose
 nodous
+nodulous
 noel
 noggin
 noh
@@ -18405,6 +18423,7 @@ overfast
 overfill
 overfilled
 overfish
+overfished
 overfishes
 overfishing
 overflooding
@@ -19446,6 +19465,7 @@ phonal
 phonation
 phonations
 phone
+phonematic
 phonemics
 phonetically
 phoney
@@ -19645,6 +19665,7 @@ pikestaves
 pilaffs
 pilau
 pileate
+pileous
 pilfered
 pilferers
 pilgrimages
@@ -20601,6 +20622,7 @@ preworking
 prewrapped
 prewritings
 preyed
+preyer
 preying
 priapisms
 pricily
@@ -21623,6 +21645,7 @@ rebutter
 rebutters
 recalculated
 recalibrated
+recalibrates
 recall
 recalls
 recanalization
@@ -21827,6 +21850,7 @@ redout
 redouts
 redpolls
 redraft
+redresses
 redressors
 redrew
 redroot
@@ -22146,6 +22170,7 @@ remap
 remapping
 remarkable
 remarketing
+remarque
 remarriage
 remarriages
 remastered
@@ -22877,6 +22902,7 @@ rootages
 rooter
 rootiest
 rootling
+ropedancers
 ropers
 ropewalkers
 ropewalks
@@ -23000,6 +23026,7 @@ ruggedness
 rugosa
 rugosities
 ruinable
+ruinate
 ruined
 ruining
 ruled
@@ -23722,6 +23749,7 @@ semicured
 semicylindrical
 semideaf
 semideserts
+semidomed
 semidomes
 semidwarfs
 semidwarves
@@ -27485,6 +27513,7 @@ triacetates
 triaging
 trialogue
 triangle
+triangles
 triangulated
 triangulation
 triarchies
@@ -27535,6 +27564,7 @@ trifoliums
 triform
 trifurcates
 trigeminal
+trigeminals
 triggered
 triggerfishes
 trigly
@@ -27574,6 +27604,7 @@ tripinnate
 triples
 tripletail
 triplicated
+triplications
 triplite
 triploidies
 tripodies
@@ -27705,6 +27736,7 @@ tularemias
 tule
 tulips
 tullibees
+tumbled
 tumbler
 tumefies
 tumefying
@@ -27819,6 +27851,7 @@ twilling
 twined
 twinflowers
 twinge
+twinkler
 twinkles
 twinset
 twinship
@@ -27909,6 +27942,7 @@ ultrarealistic
 ultrared
 ultraromantic
 ultraroyalist
+ultras
 ultrasharp
 ultrasmall
 ultrasmart
@@ -29373,6 +29407,7 @@ waterweed
 wattled
 wattles
 wattless
+watts
 wauchting
 wauks
 waul
