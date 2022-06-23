@@ -560,6 +560,7 @@ aline
 alines
 aliquant
 aliquots
+alit
 aliterates
 aliyas
 alkalified
@@ -913,6 +914,7 @@ animalian
 animalic
 animalism
 animalizing
+animally
 animate
 animation
 animations
@@ -2200,6 +2202,7 @@ bedtick
 beduin
 beduncing
 bedwarf
+bedwarfing
 beechwood
 beefalo
 beefcake
@@ -2821,6 +2824,7 @@ bolivar
 bolivars
 bolivianos
 bollard
+bollards
 bollixing
 bolognas
 bolographs
@@ -2876,6 +2880,7 @@ bookmarking
 bookshop
 bookshops
 boomer
+boomingly
 boomkin
 boon
 boondoggler
@@ -3641,10 +3646,12 @@ canoodled
 canopic
 canorousness
 cantaloupes
+cantdog
 canted
 canthi
 cantic
 canticle
+cantilevers
 canulated
 canvaser
 canvasing
@@ -4814,6 +4821,7 @@ coeducationally
 coeffect
 coelacanth
 coelomate
+coelostats
 coemploys
 coenamor
 coenocytic
@@ -5147,6 +5155,7 @@ computerize
 computerized
 computerphobias
 computists
+comrade
 comradeships
 comsymps
 concatenate
@@ -6086,6 +6095,7 @@ cullises
 culminations
 culming
 culpa
+culpabilities
 culpablenesses
 culpably
 cult
@@ -9176,6 +9186,7 @@ explantation
 explanted
 explicates
 explicating
+explications
 explicit
 explicits
 explodes
@@ -9631,6 +9642,7 @@ fiendishness
 fiendishnesses
 fiercer
 fieriest
+fierily
 fieriness
 fiery
 fifes
@@ -9788,6 +9800,7 @@ flabellate
 flabelliform
 flack
 flackery
+flag
 flagellation
 flagellations
 flagellin
@@ -11139,6 +11152,7 @@ graded
 gradiometer
 graduated
 graduations
+graecizes
 graffitied
 graffiting
 graftage
@@ -11654,6 +11668,7 @@ hardihoods
 hardinesses
 hardly
 hardnoses
+hardpans
 hardtops
 hardwire
 hardy
@@ -12369,6 +12384,7 @@ humanist
 humanities
 humanization
 humanizers
+humanizes
 humanizing
 humankind
 humannesses
@@ -13838,6 +13854,7 @@ jessant
 jesters
 jesting
 jests
+jesuitic
 jesuitical
 jetbead
 jetlags
@@ -15645,6 +15662,7 @@ megass
 megasse
 megasses
 megatheres
+megavitamin
 megs
 melamed
 melancholiacs
@@ -16231,6 +16249,7 @@ misrecorded
 misrecords
 misreferences
 misrefers
+misregisters
 misregistration
 misrelated
 misrelies
@@ -16797,6 +16816,7 @@ mutedly
 mutest
 mutilators
 mutined
+mutineering
 mutineers
 mutinies
 mutinying
@@ -16889,6 +16909,7 @@ napalming
 naphtha
 naphthols
 napkin
+nappa
 nappas
 napper
 naprapathies
@@ -17318,6 +17339,7 @@ nonentities
 nonethnic
 nonets
 nonevidences
+nonexecutives
 nonexempts
 nonexploitive
 nonfactual
@@ -18283,6 +18305,7 @@ ova
 oval
 ovality
 ovalness
+ovariectomies
 ovately
 ovenbird
 ovenproof
@@ -18314,6 +18337,7 @@ overbrowsing
 overbuild
 overburdening
 overcalled
+overcautions
 overcharge
 overchilled
 overclassified
@@ -20519,6 +20543,7 @@ pressureless
 pressurised
 pressurization
 prestidigitator
+prestore
 prestored
 prestressed
 prestrike
@@ -22802,6 +22827,7 @@ roasts
 robbed
 robed
 robotism
+robotization
 robustest
 robustiously
 robustiousness
@@ -23030,6 +23056,7 @@ sabayons
 sabbath
 sabbats
 sabe
+sabin
 sabot
 saboteur
 saboteurs
@@ -25305,6 +25332,7 @@ staphs
 staphylinid
 star
 starboards
+starchier
 stardom
 starflower
 starkness
@@ -25337,6 +25365,7 @@ statuesquely
 statutable
 statutory
 staurolitic
+staved
 stavudines
 stay
 staysails
@@ -26108,6 +26137,7 @@ supertight
 supervisory
 superwaves
 superwide
+superwomen
 supinated
 supine
 supinely
@@ -26332,6 +26362,7 @@ synched
 synchronises
 synchronism
 synchronize
+synchronized
 synchronously
 syncoms
 syncopal
@@ -28413,6 +28444,7 @@ unregenerate
 unrelenting
 unremarkably
 unrepressed
+unreserve
 unresponsive
 unresponsively
 unrestored
@@ -28478,6 +28510,7 @@ unsonsie
 unsophisticated
 unsounded
 unsoundly
+unsoured
 unsown
 unspeakably
 unspeaking
@@ -28721,6 +28754,7 @@ vagaries
 vagile
 vaguer
 vagus
+vair
 valeted
 valiancy
 valiant
@@ -29342,6 +29376,7 @@ wattless
 wauchting
 wauks
 waul
+wave
 waved
 wavelengths
 wavelet

@@ -1,0 +1,10 @@
+PkiHelper/Types/PkiInternals.ps1 1.1.65 - PowerShell Gallery,https://www.powershellgallery.com/packages/AutomatedLab.Common/1.1.65/Content/PkiHelper%255CTypes%255CPkiInternals.ps1
+functions/Enable-DbaTraceFlag.ps1 0.9.60 - PowerShell Gallery,https://www.powershellgallery.com/packages/dbatools/0.9.60/Content/functions%255CEnable-DbaTraceFlag.ps1
+PowerShell/Check-Flags.ps1 at master - GitHub,https://github.com/gangstanthony/PowerShell/blob/master/Check-Flags.ps1
+psutils/touch.ps1 at master · lukesampson/psutils - GitHub,https://github.com/lukesampson/psutils/blob/master/touch.ps1
+ansible2/ansible/modules/windows/win_user.ps1 ...,https://version.cs.vt.edu/techstaff/linux-audit/-/blob/ea4bf77c2666f3c45d659ad15169881bc1f529b1/ansible2/ansible/modules/windows/win_user.ps1
+podman: completions/powershell/podman.ps1 | Fossies,https://fossies.org/linux/podman/completions/powershell/podman.ps1
+"Set-StrictMode -Off; $usage = ""usage: touch [-A [-][[hh]mm]SS] [-acm ...",https://raw.githubusercontent.com/lukesampson/psutils/3290c04d7653ea8183a5e11d3d5a4e46716035d1/touch.ps1
+FixEGScheduleScripts.ps1 -path <path> [-no_backup] [-recurse ...,http://ftp.sas.com/techsup/download/eguide/FixEGScheduleScripts.ps1
+functions/Enable-DbaTraceFlag.ps1 0.9.198 - PowerShell Gallery,https://40.87.85.101/packages/dbatools/0.9.198/Content/functions%255CEnable-DbaTraceFlag.ps1
+Deploy-StaticContent.ps1 · add-feature-flag-survey ... - GitCode,https://gitcode.net/mirrors/NuGet/NuGetGallery/-/blob/add-feature-flag-survey-banner/Deploy-StaticContent.ps1%3Ffrom_codechina%3Dyes

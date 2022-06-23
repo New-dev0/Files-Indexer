@@ -1,0 +1,9 @@
+Lake Erie,https://tgftp.nws.noaa.gov/data/raw/fz/fzus61.kcle.glf.le.txt
+Lake Ontario,https://tgftp.nws.noaa.gov/data/raw/fz/fzus61.kbuf.glf.lo.txt
+hfreyes.txt - National Weather Service,https://weather.gov/media/marine/hfreyes.txt
+hfhi.txt - National Weather Service,https://www.weather.gov/media/marine/hfhi.txt
+ncep_opn.txt,https://www.ncl.ucar.edu/Document/Manuals/Ref_Manual/ncep_opn.txt
+cps_programs.txt,http://www.eas.slu.edu/eqc/eqc_cps/cps_programs.txt
+Data Depot - DesignSafe-CI,https://www.designsafe-ci.org/data/browser/public/designsafe.storage.published/PRJ-2911%252F170720_DSSc_BM6.txt
+sw4/wave.txt at master · geodynamics/sw4 - GitHub,https://github.com/geodynamics/sw4/blob/master/wave.txt
+wave/CMakeLists.txt at develop · boostorg/wave - GitHub,https://github.com/boostorg/wave/blob/develop/CMakeLists.txt
