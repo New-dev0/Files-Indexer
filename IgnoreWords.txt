@@ -1134,6 +1134,7 @@ antiterrorist
 antithetic
 antithetically
 antitoxin
+antitoxins
 antitrade
 antitraditional
 antitragi
@@ -1530,6 +1531,7 @@ assents
 asserting
 assertor
 asserts
+assessed
 asset
 assets
 asseverates
@@ -1950,6 +1952,7 @@ balkier
 balkily
 balladists
 ballads
+ballasters
 ballasting
 ballcarriers
 ballerina
@@ -2828,6 +2831,7 @@ bobsleigh
 bobwhites
 bodacious
 boddhisattva
+boddhisattvas
 bodega
 bodement
 bodices
@@ -3520,6 +3524,7 @@ caddised
 caddisworms
 caddy
 caddying
+cadencing
 cadenzas
 cadetship
 cadger
@@ -3714,6 +3719,7 @@ canthi
 cantic
 canticle
 cantilevers
+cantor
 canulated
 canvaser
 canvasing
@@ -4204,6 +4210,7 @@ changeovers
 changeup
 channel
 channelizing
+chanting
 chap
 chaparajos
 chaparejos
@@ -4317,6 +4324,7 @@ chemism
 chemisms
 chemisorptions
 chemoautotrophy
+chemokines
 chemoreceptor
 chemosorb
 chemosorbed
@@ -4635,6 +4643,7 @@ cladogram
 clads
 clag
 clairaudience
+clairaudient
 clairvoyance
 clamming
 clamped
@@ -5263,6 +5272,7 @@ conceptional
 concepts
 conceptualise
 conceptualists
+conceptuality
 conceptualized
 conceptually
 conceptus
@@ -5396,6 +5406,7 @@ conjoiner
 conjoiners
 conjugate
 conjugationally
+conjunctional
 conjurors
 conk
 conker
@@ -8446,6 +8457,7 @@ electronic
 electrophorese
 electropositive
 electrotypes
+electrowinning
 elegiacal
 elegiacally
 elegiacs
@@ -8837,6 +8849,7 @@ enumerabilities
 enumerate
 enunciate
 enunciates
+envelopers
 envelopes
 envelopment
 envelopments
@@ -9029,6 +9042,7 @@ escalates
 escalators
 escallops
 escapable
+escaped
 escapee
 escapees
 escapers
@@ -9728,6 +9742,7 @@ fencings
 fenderless
 fenestrate
 fenestration
+fentanyl
 fentanyls
 fenthions
 feoffee
@@ -11486,6 +11501,7 @@ greiges
 gremials
 gremmie
 greyhound
+gridder
 gridlocking
 grieved
 griever
@@ -11831,6 +11847,7 @@ handclaps
 handcrafting
 handedness
 handfasts
+handhelds
 handicapping
 handled
 handless
@@ -13060,6 +13077,7 @@ impossible
 impost
 impostumes
 impotently
+impounded
 impoverishing
 imprecates
 imprecating
@@ -13322,6 +13340,7 @@ inequivalve
 inerrable
 inertial
 inertially
+inertias
 inerts
 inevitableness
 inexact
@@ -13330,6 +13349,7 @@ inexpedience
 inexpensive
 inexpiably
 inexplainable
+inexplicit
 inexpressibly
 inextricability
 infallibility
@@ -13403,6 +13423,7 @@ ingrafts
 ingrate
 ingratiated
 ingression
+ingressive
 ingroup
 ingrownness
 inguinal
@@ -15242,6 +15263,7 @@ loins
 lollers
 lollipops
 lollop
+lollops
 lolls
 lollygagged
 lollypops
@@ -16045,6 +16067,7 @@ merer
 merging
 meridians
 meringues
+meristically
 merited
 merlin
 merls
@@ -18259,6 +18282,7 @@ orangeade
 orangerie
 oratress
 orbicularly
+orbs
 orchard
 orchestraters
 orchestrating
@@ -20463,6 +20487,7 @@ pone
 poniards
 pons
 pontifex
+pontificals
 pontoon
 ponying
 ponytail
@@ -21121,6 +21146,7 @@ proletarianizes
 proletarians
 proliferations
 prolific
+prolixities
 prologize
 prologues
 prolongation
@@ -22445,6 +22471,7 @@ reignited
 reignition
 reimaging
 reimagining
+reimburses
 reimport
 reimportation
 reimports
@@ -25596,6 +25623,7 @@ sponsal
 sponsions
 sponson
 sponsons
+sponsor
 sponsorship
 spontaneities
 spontaneity
@@ -25852,6 +25880,7 @@ steeling
 steelmaker
 steelmakings
 steelwork
+steelyard
 steelyards
 steenbucks
 steepened
@@ -26619,6 +26648,7 @@ supinely
 supinenesses
 supped
 supplantations
+supplants
 supplementary
 supplementation
 suppletory
@@ -27454,6 +27484,7 @@ thruputs
 thrushes
 thrusted
 thrusters
+thruways
 thudding
 thug
 thumbhole
@@ -27942,6 +27973,7 @@ traumatization
 traumatizations
 traumatize
 traveler
+traveling
 travels
 traversable
 travertine
@@ -28372,6 +28404,7 @@ typhous
 typic
 typical
 typier
+typiest
 typographed
 typography
 typologic
@@ -29897,6 +29930,7 @@ watchable
 watchband
 watchdogged
 watches
+watchful
 watchfulnesses
 watchman
 watchword
@@ -30171,6 +30205,7 @@ windiness
 windless
 windmills
 windowing
+windows
 windpipes
 windrowed
 windrower

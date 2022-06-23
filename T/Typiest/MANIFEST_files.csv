@@ -1,0 +1,9 @@
+lubuntu-18.04.5-desktop-i386.manifest - Ubuntu CDimage,https://cdimage.ubuntu.com/lubuntu/releases/18.04/release/lubuntu-18.04.5-desktop-i386.manifest
+xubuntu-18.04.5-desktop-amd64.manifest - Ubuntu CDimage,https://cdimage.ubuntu.com/xubuntu/releases/18.04/release/xubuntu-18.04.5-desktop-amd64.manifest
+ftp.dei.uc.pt/pub/linux/xubuntu/releases/16.04/rel...,http://ftp.dei.uc.pt/pub/linux/xubuntu/releases/16.04/release/xubuntu-16.04.2-desktop-i386.manifest
+ubuntu-12.04-preinstalled-desktop-armhf+omap4.manifest,https://mirrors.aliyun.com/oldubuntu-releases/releases/12.04.0/ubuntu-12.04-preinstalled-desktop-armhf%2Bomap4.manifest
+resetter-cli/eos-0.4.1.manifest at master · gaining/resetter-cli · GitHub,https://github.com/gaining/resetter-cli/blob/master/resetter-cli/data/manifests/eos-0.4.1.manifest
+ftp.jaist.ac.jp/pub/Linux/ubuntu-cdimage/focal/dai...,http://ftp.jaist.ac.jp/pub/Linux/ubuntu-cdimage/focal/daily-live/current/focal-desktop-amd64%2Bintel-iot.manifest
+ftp.ntua.gr/mirror/GNOME/misc/ubuntu-gnome-remix/u...,http://ftp.ntua.gr/mirror/GNOME/misc/ubuntu-gnome-remix/ubuntu-gnome-12.10.1-desktop-amd64.manifest
+ftp.uni-kl.de/pub/linux/ubuntu-dvd/daily-canary/cu...,http://ftp.uni-kl.de/pub/linux/ubuntu-dvd/daily-canary/current/jammy-desktop-canary-amd64.manifest
+ubuntu-20.04.4-desktop-amd64.manifest - Steadfast Mirror,https://mirror.steadfast.net/ubuntu-releases/20.04/ubuntu-20.04.4-desktop-amd64.manifest
