@@ -1,0 +1,8 @@
+Public/New-DatabricksBearerToken.ps1 2.2.5308-preview,https://www.powershellgallery.com/packages/azure.databricks.cicd.tools/2.2.5308-preview/Content/Public%255CNew-DatabricksBearerToken.ps1
+Public/Get-DatabricksSparkVersions.ps1 2.2.5308-preview,https://www.powershellgallery.com/packages/azure.databricks.cicd.tools/2.2.5308-preview/Content/Public%255CGet-DatabricksSparkVersions.ps1
+master - GitHub,https://github.com/DataThirstLtd/azure.databricks.cicd.tools/blob/master/Public/Start-DatabricksJob.ps1
+Public/Get-DatabricksInstancePool.ps1 2.1.2915-preview,https://psg-prod-centralus.cloudapp.net/packages/azure.databricks.cicd.tools/2.1.2915-preview/Content/Public%255CGet-DatabricksInstancePool.ps1
+Public/Get-DatabricksServicePrincipals.ps1 2.1.2915-preview,https://psg-prod-centralus.cloudapp.net/packages/azure.databricks.cicd.tools/2.1.2915-preview/Content/Public%255CGet-DatabricksServicePrincipals.ps1
+Public/Start-DatabricksCluster.ps1 2.0.52 - PowerShell Gallery,https://168.61.186.235/packages/azure.databricks.cicd.tools/2.0.52/Content/Public%255CStart-DatabricksCluster.ps1
+Public/Restart-DatabricksCluster.ps1 2.0.62 - PowerShell Gallery,https://40.87.85.101/packages/azure.databricks.cicd.tools/2.0.62/Content/Public%255CRestart-DatabricksCluster.ps1
+https://raw.githubusercontent.com/DBHeise/VM_Setup...,https://raw.githubusercontent.com/DBHeise/VM_Setup/master/Everything.ps1
