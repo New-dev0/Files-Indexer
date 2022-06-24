@@ -335,6 +335,7 @@ advocate
 advocator
 advowson
 adynamias
+adytum
 aedile
 aeonic
 aeration
@@ -590,6 +591,7 @@ alkalises
 alkalized
 alkalizer
 alkalizing
+alkane
 alkie
 alkyds
 allantoin
@@ -2274,6 +2276,7 @@ beechwood
 beefalo
 beefcake
 beefcakes
+beefiest
 beefiness
 beekeepings
 beeline
@@ -2881,6 +2884,7 @@ boffola
 boffos
 bog
 bogeyman
+boggier
 bogginesses
 boggy
 bogusness
@@ -2970,6 +2974,7 @@ bookmarker
 bookmarking
 bookshop
 bookshops
+bookstand
 boomer
 boomingly
 boomkin
@@ -3402,6 +3407,7 @@ bullnecked
 bullnose
 bullpen
 bullrushes
+bulls
 bullweed
 bullwhip
 bullyrag
@@ -3428,6 +3434,7 @@ bungle
 bunglers
 bunk
 bunkmate
+bunkums
 bunns
 bunrakus
 bunter
@@ -5798,6 +5805,7 @@ correctives
 corrector
 correctors
 correlatives
+correlator
 correlators
 correspondence
 corridas
@@ -7734,6 +7742,7 @@ dispersion
 dispersiveness
 dispersoids
 dispiritedly
+dispiteous
 displace
 displaced
 displanted
@@ -8988,6 +8997,7 @@ eosinophilic
 eparchial
 eparchy
 epergne
+epexegesis
 ephebe
 ephedras
 ephedrines
@@ -11050,6 +11060,7 @@ geekinesses
 gees
 gegenscheins
 geisha
+gel
 gelati
 gelatines
 gelatinized
@@ -11438,6 +11449,7 @@ gonorrhea
 goober
 goobers
 goodby
+goodman
 goof
 goofballs
 goofs
@@ -11829,6 +11841,7 @@ gushingly
 gustable
 gustily
 gusto
+gustoes
 gutlessness
 gutsiest
 gutta
@@ -12640,6 +12653,7 @@ hoodwinker
 hoodwinkers
 hoodwinking
 hooey
+hoofed
 hoofers
 hook
 hookier
@@ -12987,6 +13001,7 @@ hypothermias
 hypothyroidism
 hypoxemia
 hypsometer
+hypsometers
 hypsometric
 hysons
 hysterias
@@ -13280,6 +13295,7 @@ inalterableness
 inalterably
 inamorato
 inanely
+inanes
 inanimatenesses
 inanities
 inanition
@@ -13343,6 +13359,7 @@ inclip
 inclipping
 inclips
 inclosing
+inclusivenesses
 incognitos
 income
 incoming
@@ -13619,6 +13636,7 @@ initiative
 initiatory
 injectables
 injection
+injectors
 injudiciously
 injudiciousness
 injury
@@ -13748,6 +13766,7 @@ insulter
 insupportable
 insurability
 insurances
+insurrection
 inswathe
 intake
 intangibilities
@@ -15316,6 +15335,7 @@ lira
 liras
 liroth
 lissomenesses
+list
 listable
 listened
 listenership
@@ -15612,6 +15632,7 @@ lungfuls
 lungs
 lungworms
 lunies
+lunkers
 lunks
 lunting
 lunule
@@ -16911,6 +16932,7 @@ molasseses
 moldboard
 moldboards
 molders
+moldinesses
 moldwarps
 moldy
 molecules
@@ -17087,6 +17109,7 @@ mordantly
 mordent
 mordents
 morello
+morellos
 moreness
 morenesses
 moresques
@@ -19469,6 +19492,7 @@ parashahs
 parashioth
 parashot
 parasitise
+parasitising
 parasitisms
 parasitologic
 parasitologist
@@ -19708,6 +19732,7 @@ peed
 peeking
 peelers
 peels
+peening
 peens
 peeping
 peered
@@ -19858,6 +19883,7 @@ perinea
 perineuria
 periodates
 periodontology
+periosteal
 peripetia
 peripetias
 peripety
@@ -21804,6 +21830,7 @@ pyrenes
 pyrexic
 pyrheliometric
 pyric
+pyridic
 pyridoxin
 pyridoxines
 pyritic
@@ -23505,6 +23532,7 @@ ringtoss
 ringtosses
 rinsable
 rinsing
+riotously
 riotousness
 ripener
 riping
@@ -23728,6 +23756,7 @@ rugby
 ruggeder
 ruggedly
 ruggedness
+ruggers
 rugosa
 rugosities
 ruinable
@@ -25474,6 +25503,7 @@ snowdrops
 snowfall
 snowlands
 snowless
+snowmobile
 snowpacks
 snowplow
 snows
@@ -26567,6 +26597,7 @@ subcellular
 subcenter
 subcenters
 subchapters
+subclans
 subclassify
 subclerk
 subclusters
@@ -26876,6 +26907,7 @@ sunspot
 suntans
 sunwards
 superably
+superabound
 superabundances
 superachievers
 superadds
@@ -27436,6 +27468,7 @@ tattle
 tattler
 tattoos
 taunt
+tauntingly
 taurine
 taus
 tautest
@@ -27947,6 +27980,7 @@ tip
 tipcart
 tippable
 tipped
+tippet
 tipstaff
 tipster
 tipsters
@@ -29506,6 +29540,7 @@ untucking
 untune
 untunes
 untutored
+untwined
 untwisted
 untwisting
 ununbium
