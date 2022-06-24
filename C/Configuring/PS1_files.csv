@@ -1,0 +1,39 @@
+azure-pipelines-extensions/ConfigureWinRM.ps1 at master - GitHub,https://github.com/microsoft/azure-pipelines-extensions/blob/master/TaskModules/powershell/WinRM/WinRM-Http-Https/ConfigureWinRM.ps1
+Configure-ClientSizeLimits/Configure-ClientSizeLimits.ps1 at master,https://github.com/michelderooij/Configure-ClientSizeLimits/blob/master/Configure-ClientSizeLimits.ps1
+Functions/Set-OSServerConfig.ps1 2.2.0.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/Outsystems.SetupTools/2.2.0.0/Content/Functions%255CSet-OSServerConfig.ps1
+Examples/Sample_xWebAppPoolDefaults.ps1 1.18.0.0,https://www.powershellgallery.com/packages/xWebAdministration/1.18.0.0/Content/Examples%255CSample_xWebAppPoolDefaults.ps1
+Dell DL4000 Appliance User's Guide,https://www.dell.com/support/manuals/en-us/powervault-dl4000/dl4000ugpublication/postexportscript.ps1%3Fguid%3Dguid-59f7caac-8903-4085-b478-8282b0b541c3%26lang%3Den-us
+Configure Remoting for Ansible - GitHub,https://raw.githubusercontent.com/ansible/ansible/devel/examples/scripts/ConfigureRemotingForAnsible.ps1
+https://raw.githubusercontent.com/Microsoft/dotnet...,https://raw.githubusercontent.com/Microsoft/dotnet-core-sample-templates/master/dotnet-core-music-windows/scripts/configure-music-app.ps1
+Profile production apps in Azure with Application Insights Profiler,https://serviceprofiler.azurewebsites.net/content/downloads/InstallNetFx46.ps1
+SampleScripts/iam/iamConfigureVsphere.ps1 1.4.0,https://psg-prod-centralus.cloudapp.net/packages/PowerValidatedSolutions/1.4.0/Content/SampleScripts%255Ciam%255CiamConfigureVsphere.ps1
+PowerShell/Exchange/ConfigureExchangeURLs.ps1 ...,https://git.rdr-it.io/root/scripts/-/blob/b70d7b307c70d5b0d13bbe2ebdc8ed26ad536750/PowerShell/Exchange/ConfigureExchangeURLs.ps1
+PSBucket/invoke-selfSignedCertificateForAzAutomationAppReg.ps1,https://api.mtr.pub/mardahl/PSBucket/blob/master/invoke-selfSignedCertificateForAzAutomationAppReg.ps1
+https://dynamicinternet.com/files/dyniNETVPN.ps1,https://dynamicinternet.com/files/dyniNETVPN.ps1
+eng/configure-toolset.ps1 - dotnet / winforms · GitLab - 登录,https://jihulab.com/dotnet/winforms/-/blob/51031ed1691bc770048752fa8990a6be1d743145/eng/configure-toolset.ps1
+eng/configure-toolset.ps1 - dotnet / aspnetcore · GitLab - 登录,https://jihulab.com/dotnet/aspnetcore/-/blob/14534df7cf103e2f47c73c39f8d78bfa59d5609f/eng/configure-toolset.ps1
+Aston-HyperV-Code/Create-ALL.ps1 at refacto_bootstrap - Aston ...,https://forge.chapril.org/Winston_Smith/Aston-HyperV-Code/src/branch/refacto_bootstrap/Host/Create-ALL.ps1
+Untitled,https://bindplane.bluemedora.com/collectors/windows_install.ps1
+packer-templates/configure-windows-local-policy.ps1 at ...,https://git.zelnet.de/jochen/packer-templates/src/commit/bdb1bb6a5a22ff7d57d1b865f89a047f19933cc0/scripts/configure-windows-local-policy.ps1
+https://public.support.unisys.com/st3/docs/Stealth...,https://public.support.unisys.com/st3/docs/Stealth-6.0/ecoapi-docs/examples/powershell/Monitor-Endpoint.ps1
+windows/setup-lab2.ps1 ... - GitLab - HAW Hamburg,https://git.haw-hamburg.de/adia/setup/-/blob/3eb5b2d4cedb94d9e9f325a186af631008dfb06d/windows/setup-lab2.ps1
+PowerShell script - MSNOOB,https://content.spiceworksstatic.com/service.community/p/how_to_step_attachments/0000116627/5880fa8b/attached_file/OMAlert.ps1
+https://cloudworkshop.blob.core.windows.net/line-o...,https://cloudworkshop.blob.core.windows.net/line-of-business-application-migration/BootstrapSmartHotelHost.ps1
+Releases/v4.07.ps1 · master · Jos / OnedriveMapper_V3 - GitLab,https://gitlab.com/Lieben/OnedriveMapper_V3/-/blob/master/Releases/v4.07.ps1
+"Powershell: Ulvar Petmanson, BootUSB.ps1 - ICO wiki","https://wiki.itcollege.ee/index.php/Powershell:_Ulvar_Petmanson,_BootUSB.ps1"
+https://download.sureviewsystems.com/SureviewPrep.ps1,https://download.sureviewsystems.com/SureviewPrep.ps1
+vcloud-lab.com/files/documents/a7bde1a4-5f1d-4345-...,http://vcloud-lab.com/files/documents/a7bde1a4-5f1d-4345-9d6a-bb3cfa5a7f65.ps1
+169.55.124.4/repos/windows/branches/latest/files/c...,http://169.55.124.4/repos/windows/branches/latest/files/citrix/Enable-VdaSSL.ps1
+buildkite/startup-windows-pdssd.ps1 - continuous-integration,https://bazel.googlesource.com/continuous-integration/%2B/refs/heads/master/buildkite/startup-windows-pdssd.ps1
+https://githubcontent.aiurs.co/Anduin2017/configur...,https://githubcontent.aiurs.co/Anduin2017/configuration-script-win/main/install.ps1
+Tegile_VMware_Best_Practice_...,http://s1.tegile.com/ps/vmware/Tegile_VMware_Best_Practice_Settings-PowerCLI.ps1
+create-hpc-cluster/HPCHNPrepare.ps1 - azure-dep - GitLab,https://gitlab.rm.ingv.it/azure-dep/azure-quickstart-templates/-/blob/50ebd9bb4a590f88a3403042b35e955ceef05599/create-hpc-cluster/HPCHNPrepare.ps1
+remove-files-older-than-60-days.ps1 in main/adopters/tools ...,https://trac.ibisph.org/trac/browser/main/adopters/tools/powershell_file_delete_scripts/remove-files-older-than-60-days.ps1%3Frev%3D20068%26order%3Dauthor
+AZ-204 Exam Dumps | You need to ensure the security policies are ...,https://www.freecram.net/question/Microsoft.AZ-204.v2021-07-23.q78/you-need-to-ensure-the-security-policies-are-met-what-code-do-you-add-at-line-cs07-of-configuresse.ps1
+package/windows/bootstrap.ps1 - Rancher - Fossies,https://fossies.org/linux/rancher/package/windows/bootstrap.ps1
+Swarm - guest/jen_bottom/vagrant/ldap/windows-domain-controller ...,https://swarm.public.perforce.com/files/guest/jen_bottom/vagrant/ldap/windows-domain-controller-vagrant/provision/provision-base.ps1%3Fv%3D1
+Powershell script to download and configure the APM SITL ...,https://code.ihub.org.cn/projects/316/repository/revisions/master/entry/Tools/environment_install/install-prereqs-windows-andAPMSource.ps1
+Various PowerShell and Bash Scripts for automation tasks. - Gogs,https://git.darren.lol/Humanitarian/Powershell_Scripts/src/master/DSC/Implement%2520Powershell%2520Desired%2520State%2520Configuration.ps1%3Flang%3Dja-JP
+lib/ansible/modules/windows/win_scheduled_task.ps1 · master,https://gitlabdev.ics.muni.cz/242618/ansible/-/blob/master/lib/ansible/modules/windows/win_scheduled_task.ps1
+Enable-RemotePsRemoting.ps1 · master · examples / Windows ...,https://resources.oreilly.com/examples/0636920024132/blob/master/Enable-RemotePsRemoting.ps1
+Install.ps1 script - community chocolatey,https://community.chocolatey.org/install.ps1
