@@ -733,6 +733,7 @@ ambry
 ambulacral
 ambulated
 ambulating
+ambulator
 ambulatories
 ambulators
 ambulatory
@@ -1931,6 +1932,7 @@ backwoods
 backyards
 bacteriocins
 bacteriologist
+bacteriolytic
 bacteriostasis
 bacterium
 bacteriurias
@@ -3357,6 +3359,7 @@ bucket
 buckled
 bucklering
 bucko
+buckramed
 buckshees
 buckshot
 bucktooth
@@ -4109,6 +4112,7 @@ causeys
 cauterants
 cautioners
 cavaliered
+cavaliers
 cavalry
 cavatine
 caved
@@ -6276,6 +6280,7 @@ crystallization
 crystallized
 crystalloid
 cuatros
+cub
 cubbyhole
 cubed
 cubicities
@@ -7377,6 +7382,7 @@ dichotomizes
 dichotomously
 dichromat
 dichromic
+dichroscopes
 diciest
 dicing
 dickens
@@ -8228,6 +8234,7 @@ druses
 dryadic
 dryish
 dryly
+drywall
 drywells
 duad
 dualistically
@@ -8691,6 +8698,7 @@ emends
 emerald
 emerita
 emeriti
+emersed
 emigration
 emigrations
 eminency
@@ -10089,6 +10097,7 @@ firms
 firstborns
 firstling
 fisc
+fiscally
 fishbolts
 fishermen
 fishery
@@ -10185,6 +10194,7 @@ flatliners
 flattens
 flatterers
 flattery
+flattop
 flatulency
 flatus
 flatwashes
@@ -10785,6 +10795,7 @@ fumigated
 fumigates
 fuming
 fumitories
+fumuli
 fumy
 fun
 functionalities
@@ -11154,6 +11165,7 @@ geophone
 geophones
 geophysics
 geopolitics
+geoponics
 georgette
 georgettes
 geotropisms
@@ -11452,6 +11464,7 @@ gomphosis
 gondola
 gone
 goner
+gonfalon
 gonging
 gongoristic
 goniff
@@ -13128,6 +13141,7 @@ imbalm
 imbarking
 imbecilities
 imbedding
+imbiber
 imbibers
 imbodied
 imboldens
@@ -14996,6 +15010,7 @@ laudanum
 laudator
 laudators
 lauders
+lauding
 laugh
 laughablenesses
 laughably
@@ -16635,6 +16650,7 @@ miniskis
 ministerial
 minium
 minivans
+minivers
 minnesingers
 minnow
 minster
@@ -18089,6 +18105,7 @@ nonuple
 nonurban
 nonvenomous
 nonviewers
+nonwage
 nonwork
 nonwoven
 nonwriters
@@ -18310,6 +18327,7 @@ occlusive
 occlusives
 occultation
 occultists
+occupants
 occupies
 occupy
 occurrents
@@ -18585,6 +18603,7 @@ organismal
 organismically
 organizable
 organizational
+organize
 organizers
 organza
 orgasm
@@ -19287,6 +19306,7 @@ padlocks
 padronism
 paeans
 paedogenic
+paedomorphisms
 paella
 paeons
 paesano
@@ -20842,6 +20862,7 @@ porting
 portion
 portionless
 portraying
+portress
 posed
 poseurs
 poshness
@@ -22752,6 +22773,7 @@ regorging
 regrated
 regreeting
 regretfulnesses
+regrettable
 regretted
 regrinds
 regroom
@@ -23361,6 +23383,7 @@ revalidation
 revalorization
 revalorize
 revalorizing
+revaluates
 revalue
 revaluing
 revampers
@@ -23701,6 +23724,7 @@ roughcasting
 roughdry
 roughed
 roughen
+roughened
 roughens
 roughies
 roughleg
@@ -23998,6 +24022,7 @@ sandpit
 sands
 sandstones
 sandstorm
+sandwich
 sandworm
 sandworms
 sanga
@@ -24165,6 +24190,7 @@ scanties
 scantiest
 scantinesses
 scapegoat
+scapose
 scar
 scare
 scareder
@@ -25445,6 +25471,7 @@ smoothen
 smoothens
 smooths
 smothers
+smothery
 smudging
 smug
 smuggles
@@ -25655,6 +25682,7 @@ solvate
 solves
 somatically
 somatomedin
+somatopleure
 sombreros
 some
 somersault
@@ -27431,6 +27459,7 @@ tangles
 tanglier
 tangs
 tankas
+tanker
 tankinis
 tankless
 tankships
@@ -27522,6 +27551,7 @@ teacup
 teahouses
 team
 teams
+teardrop
 teardrops
 tearer
 tearful
@@ -28019,6 +28049,7 @@ tirades
 tireder
 tires
 tiresomely
+tirewomen
 tiring
 tisane
 tissuing
@@ -28159,6 +28190,7 @@ toppr
 topsides
 topsoiling
 toras
+torchlike
 torchy
 toreadors
 torics
@@ -29239,6 +29271,7 @@ unfreed
 unfreezes
 unfriendliness
 unfrock
+unfroze
 unfurls
 ungainlinesses
 ungalled
@@ -30080,6 +30113,7 @@ virilizes
 virion
 viroids
 virologic
+virology
 virtu
 virtueless
 virtues
@@ -30735,6 +30769,7 @@ wobbler
 wobbles
 woful
 wofuller
+wolfberries
 wolfberry
 wolfishly
 wolflike
