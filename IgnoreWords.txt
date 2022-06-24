@@ -705,6 +705,7 @@ amadous
 amah
 amalgamate
 amalgamators
+amanitin
 amarelles
 amaryllises
 amas
@@ -1320,6 +1321,7 @@ aquarellist
 aquaria
 aquarian
 aquarium
+aquifer
 aquifers
 aquilegias
 aquiline
@@ -1717,6 +1719,7 @@ auditees
 audition
 auditories
 auditorily
+auditory
 audits
 augers
 aught
@@ -2650,6 +2653,7 @@ birdbath
 birdbrain
 birdcage
 birdcages
+birddogged
 birders
 birdfarm
 birdfarms
@@ -5926,6 +5930,7 @@ counterdemands
 countereffort
 counterexamples
 counterfeit
+counterfeiters
 counterfeiting
 counterflow
 counterinstance
@@ -6408,6 +6413,7 @@ curtalax
 curtalaxes
 curter
 curtest
+curtilage
 curtseying
 curule
 curvature
@@ -6446,6 +6452,7 @@ cuteys
 cutinised
 cutinizes
 cutlas
+cutler
 cutout
 cutouts
 cutpurses
@@ -7355,6 +7362,7 @@ diandrous
 dianthus
 diapauses
 diapedeses
+diaphaneities
 diaphanous
 diaphanously
 diaphones
@@ -10080,6 +10088,7 @@ finocchios
 fioraturae
 fipple
 fireback
+firebacks
 fireballer
 firebase
 firebirds
@@ -10184,6 +10193,7 @@ flammabilities
 flammable
 flamy
 flanerie
+flanger
 flanging
 flannelets
 flannelette
@@ -10499,6 +10509,7 @@ foreseeability
 foreseer
 foreshows
 foresighted
+foresights
 foreskin
 forestaller
 forestaysail
@@ -10840,6 +10851,7 @@ funks
 funnelform
 funninesses
 funnymen
+furbelowed
 furcate
 furcately
 furcraea
@@ -11271,6 +11283,7 @@ ginks
 ginner
 ginners
 ginnier
+gipper
 giraffe
 giraffes
 gird
@@ -11632,6 +11645,7 @@ gravels
 gravenesses
 graver
 gravesides
+graveyard
 gravidae
 gravimetrically
 gravitas
@@ -11665,6 +11679,7 @@ greenest
 greenfield
 greenfields
 greenfly
+greenhouses
 greenies
 greenishnesses
 greenness
@@ -11784,6 +11799,7 @@ grumpiness
 grumps
 grungy
 grunions
+grunter
 gruntled
 grushie
 grutching
@@ -12780,6 +12796,7 @@ hotheaded
 hotheadedly
 hothoused
 hothousing
+hotline
 hotly
 hotness
 hotrods
@@ -14146,6 +14163,7 @@ irreality
 irreclaimably
 irrecoverable
 irredeemably
+irredentas
 irreducibility
 irrefragable
 irrefragably
@@ -14733,6 +14751,7 @@ kissing
 kists
 kitchen
 kite
+kitelike
 kiths
 kitsch
 kitschifying
@@ -15005,6 +15024,7 @@ lasts
 latches
 latching
 lateener
+latens
 laterad
 lateral
 laterally
@@ -15608,6 +15628,7 @@ lout
 louted
 loutish
 loutishnesses
+lovage
 lovages
 loveably
 lovebirds
@@ -17051,6 +17072,7 @@ monocytic
 monodic
 monodies
 monodisperse
+monodrama
 monody
 monofils
 monogamic
@@ -18256,6 +18278,7 @@ nuttiest
 nuzzlers
 nylghais
 nymphets
+nympholepsies
 nystagmic
 oak
 oar
@@ -19333,6 +19356,7 @@ paella
 paeons
 paesano
 pagan
+pagandom
 paganizing
 pageants
 pages
@@ -19857,6 +19881,7 @@ pennycress
 pennywise
 pens
 pensil
+pensioning
 pensions
 penster
 penstock
@@ -21502,6 +21527,7 @@ prokaryotic
 prolan
 prolans
 proleg
+proleptically
 proletarianizes
 proletarians
 proliferations
@@ -22204,6 +22230,7 @@ ranched
 ranchos
 rancour
 randan
+randinesses
 ranid
 ranis
 rankers
@@ -22620,6 +22647,7 @@ redout
 redouts
 redpolls
 redraft
+redreams
 redresses
 redressors
 redrew
@@ -24977,6 +25005,7 @@ shopboys
 shophroth
 shoplifted
 shoppe
+shoppers
 shoptalk
 shopwindows
 shoran
@@ -25056,6 +25085,7 @@ sialidan
 sials
 sibling
 sibs
+sibyl
 siccative
 siccing
 sices
@@ -26913,6 +26943,7 @@ sugarberries
 sugarbush
 sugarcane
 sugarcanes
+sugarcoat
 sugarcoated
 sugarcoating
 sugarer
@@ -27571,6 +27602,7 @@ tawnier
 tawse
 taxa
 taxably
+taxicab
 taxidermic
 taximeter
 taximeters
@@ -28133,6 +28165,8 @@ togaviruses
 toggled
 toggler
 togglers
+toil
+toileted
 toiletries
 tokamaks
 toked
@@ -29029,6 +29063,7 @@ unblushingly
 unbolting
 unboned
 unbonneted
+unbottle
 unbottling
 unbracing
 unbraided
