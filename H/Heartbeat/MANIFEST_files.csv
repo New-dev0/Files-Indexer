@@ -1,0 +1,10 @@
+openwrt-orange-pi-r1/openwrt-sunxi-cortexa7-device-sun8i-h2-plus ...,https://github.com/jayanta525/openwrt-orange-pi-r1/blob/master/openwrt-sunxi-cortexa7-device-sun8i-h2-plus-orangepi-r1.manifest
+build-openwrt-nanopi-r1/openwrt-sunxi-cortexa7 ... - GitHub,https://github.com/jayanta525/build-openwrt-nanopi-r1/blob/master/openwrt-sunxi-cortexa7-friendlyarm_nanopi-r1.manifest
+downloads.pangubox.com:6380/pandorabox/19.01/targe...,http://downloads.pangubox.com:6380/pandorabox/19.01/targets/ralink/mt7620/PandoraBox-ralink-mt7620.manifest
+https://downloads.pangubox.com:63443/old_site/pand...,https://downloads.pangubox.com:63443/old_site/pandorabox-16-10-stable/targets/ralink/mt7620/PandoraBox-ralink-mt7620.manifest
+https://downloads.openwrt.org/releases/18.06.1/tar...,https://downloads.openwrt.org/releases/18.06.1/targets/ramips/mt7620/packages/Packages.manifest
+https://downloads.openwrt.org/releases/19.07.5/tar...,https://downloads.openwrt.org/releases/19.07.5/targets/ramips/mt7621/packages/Packages.manifest
+https://mgmt.saar.freifunk.net/openwrt/releases/18...,https://mgmt.saar.freifunk.net/openwrt/releases/18.06.8/targets/ipq806x/generic/packages/Packages.manifest
+https://downloads.bremen.freifunk.net/opkg/modules...,https://downloads.bremen.freifunk.net/opkg/modules/gluon-ffhb-2019.1.1%2Bbremen1/ramips/mt7621/Packages.manifest
+https://qtest.cc/releases/17.01.2/targets/x86/gene...,https://qtest.cc/releases/17.01.2/targets/x86/generic/packages/Packages.manifest
+https://usingpro.com/releases/packages-17.01/arm_f...,https://usingpro.com/releases/packages-17.01/arm_fa526/telephony/Packages.manifest
