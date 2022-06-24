@@ -743,6 +743,7 @@ amens
 amerce
 amercers
 amerciable
+amesace
 amethyst
 amianthus
 amianthuses
@@ -974,6 +975,7 @@ annualize
 annuitants
 annularly
 annulation
+annulment
 annuluses
 annunciate
 annunciating
@@ -1398,6 +1400,7 @@ armadas
 armagnacs
 armature
 armiger
+armistices
 armlock
 armonica
 armor
@@ -1825,6 +1828,7 @@ axal
 axed
 axemen
 axenically
+axial
 axiality
 axially
 axil
@@ -1978,6 +1982,7 @@ ballonet
 ballpark
 ballparks
 bally
+ballyhoo
 ballyhooing
 ballyrag
 ballyragged
@@ -3426,6 +3431,7 @@ burbliest
 burbling
 burbly
 burgeons
+burgesses
 burgh
 burglarized
 burglarproof
@@ -4322,6 +4328,7 @@ cheapskate
 cheapskates
 chebec
 chechako
+chechakos
 check
 checkbooks
 checkerberry
@@ -4758,6 +4765,7 @@ climatize
 climatological
 climax
 climaxes
+climbable
 climbdown
 clime
 clinally
@@ -7243,6 +7251,7 @@ dextro
 dextrorotary
 dextrorse
 dextroses
+dexy
 dhootis
 dhurna
 diabase
@@ -7335,6 +7344,7 @@ dicking
 dicotyledonous
 dicotyls
 dicoumarol
+dictated
 dictating
 dictionally
 dictionaries
@@ -11344,6 +11354,7 @@ gnotobiotic
 goaltenders
 goalward
 goannas
+goatee
 goatherds
 goatskin
 gob
@@ -11814,6 +11825,7 @@ gynophobes
 gyp
 gypseian
 gypsophila
+gypsophilas
 gypsydom
 gypsydoms
 gyrating
@@ -14611,6 +14623,7 @@ kiths
 kitsch
 kitschifying
 kittel
+kitten
 kittenishness
 kittenishnesses
 kittler
@@ -14648,6 +14661,7 @@ knockwursts
 knop
 knops
 knots
+knotting
 knottings
 knower
 knowingnesses
@@ -16257,6 +16271,7 @@ metallographic
 metallurgical
 metalworks
 metaphoric
+metaphosphates
 metaphysician
 metaplasia
 metaplasm
@@ -16289,6 +16304,7 @@ methoxides
 methylamines
 methylase
 methylations
+methylphenidate
 metical
 meticulosity
 metis
@@ -16306,6 +16322,7 @@ metrorrhagia
 mettle
 mettles
 mew
+mewler
 mezereon
 mezes
 mezquite
@@ -17731,6 +17748,7 @@ nomenclator
 nomenclatorial
 nominal
 nominalists
+nominating
 nominee
 nomographic
 nonabsorbent
@@ -17763,6 +17781,7 @@ nonbreeding
 noncandidacy
 noncapitalists
 noncareer
+noncarriers
 noncelebrities
 noncellular
 noncentral
@@ -20420,6 +20439,7 @@ pleasingness
 pleasurableness
 pleasures
 plebeianly
+plebiscites
 plebs
 pledget
 pledgors
@@ -20978,6 +20998,7 @@ preferrers
 prefigurement
 prefile
 prefiled
+prefire
 prefiring
 prefix
 prefixes
@@ -23049,6 +23070,7 @@ respirometric
 respirometry
 resplendencies
 resplendent
+resplit
 responder
 responsa
 response
@@ -24840,6 +24862,7 @@ shylock
 shynesses
 sialidan
 sials
+sibling
 sibs
 siccative
 siccing
@@ -24889,6 +24912,7 @@ signalize
 signalmen
 signalment
 signboard
+signer
 significance
 significances
 significancy
@@ -25719,6 +25743,7 @@ sphenoidal
 sphered
 spherulites
 sphincter
+sphincteric
 sphincters
 sphingids
 sphingosines
@@ -26867,6 +26892,7 @@ supplants
 supplementary
 supplementation
 suppletory
+supporting
 supportive
 supports
 supposal
@@ -27316,6 +27342,7 @@ tatami
 tattie
 tattle
 tattler
+tattoos
 taunt
 taurine
 taus
@@ -27838,6 +27865,7 @@ tiring
 tisane
 tissuing
 titanias
+titanite
 titers
 tithing
 tithings
@@ -28069,6 +28097,7 @@ track
 trackers
 trackmen
 tracks
+tractors
 tradable
 trade
 tradeable
@@ -28695,6 +28724,7 @@ ultrasmall
 ultrasmart
 ultrasmooth
 ultravacua
+ultravacuums
 ultraviolences
 umami
 umbellets
@@ -28984,6 +29014,7 @@ undistributed
 undivided
 undock
 undocking
+undocks
 undoers
 undogmatic
 undogmatically
@@ -29080,6 +29111,7 @@ unhorses
 unhostile
 unhoused
 unhousing
+unhung
 unhurried
 unhygienic
 uniaxial
@@ -29902,6 +29934,7 @@ vising
 visionally
 visit
 visitable
+visitant
 visited
 visiting
 visored
@@ -30415,6 +30448,7 @@ wigwam
 wildcats
 wildcatter
 wilded
+wildered
 wilders
 wildfire
 wildflowers
@@ -30555,6 +30589,7 @@ woodbin
 woodblocks
 woodchoppers
 woodcutting
+woodenheaded
 woodenness
 woodennesses
 woodenware
