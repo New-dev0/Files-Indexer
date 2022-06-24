@@ -1,0 +1,15 @@
+checks/MaintenanceSolution.Tests.ps1 1.1.121 - PowerShell Gallery,https://www.powershellgallery.com/packages/dbachecks/1.1.121/Content/checks%255CMaintenanceSolution.Tests.ps1
+internal/functions/Get-JobList.ps1 1.1.70 - PowerShell Gallery,https://www.powershellgallery.com/packages/dbatools/1.1.70/Content/internal%255Cfunctions%255CGet-JobList.ps1
+dbatools/Find-DbaAgentJob.ps1 at development - GitHub,https://github.com/sqlcollaborative/dbatools/blob/development/functions/Find-DbaAgentJob.ps1
+backup-exec-powershell/Veritas_BackupExec.ps1 at master - GitHub,https://github.com/smatechnologies/backup-exec-powershell/blob/master/Veritas_BackupExec.ps1
+https://content.spiceworksstatic.com/service.commu...,https://content.spiceworksstatic.com/service.community/p/post_attachments/0000172974/57a39474/attached_file/SQLAgentJobMerged_mylene.ps1
+Public/Get-DatabricksJobId.ps1 2.1.2651-preview - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/azure.databricks.cicd.tools/2.1.2651-preview/Content/Public%255CGet-DatabricksJobId.ps1
+functions/Copy-DbaAgentJob.ps1 1.0.100 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/dbatools/1.0.100/Content/functions%255CCopy-DbaAgentJob.ps1
+https://raw.githubusercontent.com/OfficeDev/PnP-Pa...,https://raw.githubusercontent.com/OfficeDev/PnP-Partner-Pack/master/scripts/Provision-GovernanceTimerJobs.ps1
+eng/scripts/FinishDumpCollectionForHangingBuilds.ps1 ... - 登录,https://jihulab.com/dotnet/aspnetcore/-/blob/6c8c602981a3c2ab2ac122116f4551e50b429a9c/eng/scripts/FinishDumpCollectionForHangingBuilds.ps1
+https://omd.rhrk.uni-kl.de/windows/plugins/veeam_b...,https://omd.rhrk.uni-kl.de/windows/plugins/veeam_backup_status.ps1
+tg-powershell-modules/monitor-ups - Monitor-UPS.ps1 at ...,https://git.teamgolding.org/tg-powershell-modules/monitor-ups/src/commit/1cfdf954346823464bd6a9b0f14232db34cb5e67/Monitor-UPS.ps1%3Flang%3Dcs-CZ
+functions/Set-DbaAgentJobOwner.ps1 1.0.84 - PowerShell Gallery,https://40.87.85.101/packages/dbatools/1.0.84/Content/functions%255CSet-DbaAgentJobOwner.ps1
+horizon.ps1 · main · opspublic / Horizon Update · GitLab,https://code.riverford.co.uk/opspublic/horizon-update/-/blob/main/horizon.ps1
+agents/windows/plugins/veeam_backup_status.ps1 · master - GitLab,https://git.onesystems.ch/Monitoring/check_mk/-/blob/master/agents/windows/plugins/veeam_backup_status.ps1
+SQLWATCH-Deploy.ps1 · feature-query-problems ... - GitCode,https://gitcode.net/mirrors/marcingminski/sqlwatch/-/blob/feature-query-problems/SQLWATCH-Deploy.ps1

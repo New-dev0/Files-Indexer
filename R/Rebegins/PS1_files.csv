@@ -1,0 +1,10 @@
+functions/Restart-DbaSqlService.ps1 0.9.380 - PowerShell Gallery,https://www.powershellgallery.com/packages/dbatools/0.9.380/Content/functions%255CRestart-DbaSqlService.ps1
+functions/restart-d365environment.ps1 0.6.37 - PowerShell Gallery,https://www.powershellgallery.com/packages/d365fo.tools/0.6.37/Content/functions%255Crestart-d365environment.ps1
+runbooks/Restart-ServiceFromAzureAlert.ps1 at master - GitHub,https://github.com/azureautomation/runbooks/blob/master/Utility/ARM/Restart-ServiceFromAzureAlert.ps1
+navcontainerhelper/Restart-NavContainer.ps1 at master - GitHub,https://github.com/microsoft/navcontainerhelper/blob/master/ContainerHandling/Restart-NavContainer.ps1
+functions/Restart-D365LBDSFAppServers.ps1 2.1.8,https://psg-prod-centralus.cloudapp.net/packages/D365FOLBDAdmin/2.1.8/Content/functions%255CRestart-D365LBDSFAppServers.ps1
+Get-WURebootStatus.ps1 #1 - Perforce Workshop,https://swarm.workshop.perforce.com/files/guest/jen_bottom/vagrant/win10/PSWindowsUpdate/Get-WURebootStatus.ps1%3Fv%3D1
+Script - GitHub,https://raw.githubusercontent.com/Microsoft/Virtualization-Documentation/master/windows-server-container-tools/Install-ContainerHost/Install-ContainerHost.ps1
+https://raw.githubusercontent.com/Microsoft/Virtua...,https://raw.githubusercontent.com/Microsoft/Virtualization-Documentation/067b4688d540f2b374e1635d201a9500eb52690d/windows-server-container-tools/Install-ContainerHost/Install-ContainerHost.ps1
+https://content.spiceworksstatic.com/service.commu...,https://content.spiceworksstatic.com/service.community/p/post_attachments/0000154482/52a109f1/attached_file/Logmein_delete_reg_files_12Dec_v0.2.ps1
+cr.openjdk.java.net/~serb/tmp/CleanupWindows10.ps1,http://cr.openjdk.java.net/~serb/tmp/CleanupWindows10.ps1
