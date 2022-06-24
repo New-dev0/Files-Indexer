@@ -814,6 +814,7 @@ amsinckia
 amtrac
 amtrack
 amtracks
+amtracs
 amus
 amusements
 amusingness
@@ -2033,6 +2034,7 @@ barbarism
 barbarities
 barbarous
 barbiturates
+barbless
 barbwires
 barchan
 bards
@@ -2539,6 +2541,7 @@ billionaires
 billons
 billow
 billowed
+billowing
 bilobed
 biltong
 bimas
@@ -2546,6 +2549,7 @@ bimbette
 bimboes
 bimensal
 bimester
+bimethyl
 bimethyls
 bimodal
 bimonthly
@@ -3360,6 +3364,7 @@ buildups
 bulbed
 bulbuls
 bulged
+bulgers
 bulges
 bulging
 bulgur
@@ -4713,6 +4718,7 @@ clatterer
 clattery
 claught
 claughted
+claustrum
 claver
 clavers
 clavi
@@ -4728,6 +4734,7 @@ claymore
 cleaning
 cleanly
 cleanses
+clearer
 cleareyed
 clearly
 clearwings
@@ -7390,6 +7397,7 @@ digitize
 digitizer
 digitoxigenins
 digitoxins
+diglossias
 diglot
 diglots
 dignitary
@@ -8320,6 +8328,7 @@ earthiest
 earthing
 earthlights
 earthlike
+earthpeas
 earthset
 earthsets
 earthshakers
@@ -9681,6 +9690,7 @@ faro
 farolito
 farrieries
 farsides
+farsightedly
 farther
 fas
 fascicled
@@ -10359,6 +10369,7 @@ foozling
 fopped
 fopperies
 foppishly
+forays
 forbearing
 forbears
 forbids
@@ -12385,6 +12396,7 @@ hillslope
 hillslopes
 hilt
 hilted
+hims
 hindbrains
 hinder
 hindering
@@ -12742,6 +12754,7 @@ humpless
 hunch
 hunchbacks
 hunched
+hung
 hungers
 hunkey
 hunkeys
@@ -14799,6 +14812,7 @@ lancinates
 landaulets
 landgraves
 landloper
+landlordism
 landlubberly
 landlubbers
 lands
@@ -15602,6 +15616,7 @@ macers
 mach
 machetes
 machination
+machineries
 machismo
 machismos
 mackintoshes
@@ -15944,6 +15959,7 @@ mathematization
 mathematized
 mathematizes
 matriarchs
+matriculant
 matriculates
 matriculation
 matrilineally
@@ -16434,6 +16450,7 @@ mill
 millage
 millefiori
 millennialisms
+millennialists
 millennium
 milleped
 millepede
@@ -16534,6 +16551,7 @@ mirzas
 misaddressed
 misadds
 misadjust
+misadvise
 misagent
 misagents
 misaimed
@@ -16983,6 +17001,7 @@ mopboards
 moper
 mopey
 mopish
+moppers
 moppets
 mora
 morae
@@ -17325,6 +17344,7 @@ mystifications
 mystified
 mystique
 mythicize
+mythicized
 mythicizes
 mythiest
 mythologer
@@ -17743,6 +17763,7 @@ nonbreeding
 noncandidacy
 noncapitalists
 noncareer
+noncelebrities
 noncellular
 noncentral
 noncereal
@@ -19619,6 +19640,7 @@ peignoirs
 peining
 peins
 peised
+pejoratively
 pejoratives
 pekoes
 pellagrous
@@ -20827,6 +20849,7 @@ praisers
 praiseworthily
 pralines
 pram
+pranced
 prancer
 prances
 pranging
@@ -23433,6 +23456,7 @@ rockabilly
 rocker
 rockery
 rocketeer
+rocketers
 rockhopper
 rockhounds
 rockwork
@@ -23536,6 +23560,7 @@ roundtables
 roundtrip
 roundtrips
 roundup
+rouseabouts
 rousements
 rousingly
 roustabouts
@@ -24448,6 +24473,7 @@ sequency
 sequential
 sequester
 sequestered
+sequins
 sequitur
 ser
 serapes
@@ -25116,6 +25142,7 @@ slimly
 slimnastics
 slims
 slingback
+slinger
 slingers
 slings
 slingshots
@@ -27751,6 +27778,7 @@ tikes
 tikka
 til
 tilaks
+tilde
 tiler
 tiling
 tillites
@@ -28364,6 +28392,7 @@ tromps
 tronas
 trones
 trophies
+trophoblast
 trophy
 tropic
 tropicals
@@ -28382,6 +28411,7 @@ trouper
 trouser
 trouveres
 trove
+troweller
 truancies
 trucked
 trucker
@@ -28865,6 +28895,7 @@ underbelly
 underbred
 underbrush
 underbuying
+underclassmen
 underclothing
 undercoating
 undercools
@@ -29486,6 +29517,7 @@ urn
 urns
 uroliths
 urological
+urology
 uropod
 uropygiums
 uroscopies
@@ -29913,6 +29945,7 @@ vizirate
 vocabs
 vocabular
 vocalically
+vocalise
 vocalised
 vocalist
 vocalnesses
@@ -30806,6 +30839,7 @@ yurt
 ywis
 zacaton
 zacatons
+zaffar
 zaffars
 zagging
 zaikais
@@ -30831,6 +30865,7 @@ zebrano
 zebras
 zebrine
 zebroid
+zecchini
 zechin
 zedoary
 zein
