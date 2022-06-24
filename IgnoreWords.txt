@@ -2334,6 +2334,7 @@ begrimmed
 begrudge
 beguilers
 begulfing
+behalves
 behaves
 beheader
 behinds
@@ -3338,6 +3339,7 @@ brownshirts
 brownstones
 browsed
 browsers
+brr
 brucellas
 bruising
 bruited
@@ -3405,6 +3407,7 @@ buggeries
 buggering
 bugle
 bugler
+bugling
 bugloss
 buhlwork
 buhr
@@ -3732,6 +3735,7 @@ camphol
 campiest
 campily
 campiness
+camping
 campo
 campongs
 camporee
@@ -3811,6 +3815,7 @@ cantor
 canulated
 canvaser
 canvasing
+canyoning
 canyons
 canzonas
 capabler
@@ -8266,6 +8271,7 @@ drumroll
 drumstick
 drumsticks
 drunkard
+drupaceous
 drupelets
 druse
 druses
@@ -8351,6 +8357,7 @@ durrs
 durst
 dusk
 dusks
+dustcover
 dustheaps
 dustman
 dustpan
@@ -9772,6 +9779,7 @@ fantoccini
 fantod
 fantom
 fanzine
+fanzines
 faradaic
 faradic
 faradising
@@ -9978,6 +9986,7 @@ fests
 fetas
 feted
 fetial
+fetiales
 fetials
 feticidal
 fetidity
@@ -10008,6 +10017,7 @@ fibrillar
 fibrillations
 fibrinopeptides
 fibroblastic
+fibroid
 fibromatous
 fibrous
 fices
@@ -12736,6 +12746,7 @@ hooches
 hoodies
 hoodiest
 hooding
+hoodlumism
 hoodmold
 hoodooed
 hoodooisms
@@ -12998,6 +13009,7 @@ hydroxyapatite
 hydroxylapatite
 hydroxylase
 hydroxylases
+hyenas
 hygrometer
 hygroscopicity
 hylozoism
@@ -13554,6 +13566,7 @@ indigenizations
 indign
 indigotin
 indiscernible
+indiscipline
 indisciplines
 indiscretions
 indispose
@@ -14440,6 +14453,7 @@ jigglier
 jiggling
 jigsawing
 jihad
+jillions
 jimmies
 jimper
 jimsonweed
@@ -17347,6 +17361,7 @@ mucor
 mucosas
 mucous
 mudcat
+mudder
 muddly
 muddy
 mudflow
@@ -17837,6 +17852,7 @@ newsworthy
 newt
 newwavers
 niacinamides
+nibble
 niblick
 niccolites
 nice
@@ -19133,6 +19149,7 @@ overemphasizes
 overemphasizing
 overemphatic
 overencouraged
+overencourages
 overenrolled
 overentertained
 overestimated
@@ -20125,6 +20142,7 @@ pest
 pestering
 pestiferous
 pestiferousness
+pestilences
 pestilently
 pestle
 pestled
@@ -20248,6 +20266,7 @@ phoney
 phoneying
 phonic
 phonocardiogram
+phonographic
 phoronids
 phosgene
 phosphatase
@@ -20766,6 +20785,7 @@ podocarp
 podomere
 podophyllin
 podsols
+podzolization
 podzolizations
 podzols
 poesies
@@ -21115,6 +21135,7 @@ pralines
 pram
 pranced
 prancer
+prancers
 prances
 pranging
 prangs
@@ -21362,6 +21383,7 @@ presettles
 preshape
 preshapes
 preshaping
+preshowing
 preshrink
 preshrunk
 presidentship
@@ -21485,6 +21507,7 @@ printery
 printing
 printmaking
 printmakings
+prion
 prioritization
 prioritizations
 priority
@@ -21912,6 +21935,7 @@ puree
 pureeing
 pureness
 purfled
+purgative
 purgatory
 purgeable
 purges
@@ -22342,6 +22366,7 @@ ratiocinator
 ration
 rationales
 rationalists
+rations
 ratites
 ratlike
 ratlins
@@ -22928,6 +22953,7 @@ reifying
 reign
 reignited
 reignition
+reimage
 reimaging
 reimagining
 reimburses
@@ -23832,6 +23858,7 @@ roti
 rotis
 rotisseries
 rotls
+roto
 rotors
 rottweilers
 rotunda
@@ -23963,6 +23990,7 @@ ruralite
 rush
 rushed
 rusher
+rushers
 rusks
 russet
 rusticals
@@ -25630,6 +25658,7 @@ sneakiness
 sneaky
 sneap
 sneaps
+snecks
 snedded
 sneerier
 sneering
@@ -26591,6 +26620,7 @@ stragglers
 straggling
 straightedge
 straighter
+straightforward
 straightjacket
 straightly
 straiten
@@ -26734,6 +26764,7 @@ stunner
 stuntednesses
 stunting
 stuntman
+stunts
 stupefying
 sturdier
 sturdinesses
@@ -29984,10 +30015,12 @@ varactor
 varia
 variable
 variance
+variationally
 varicellas
 varicoceles
 varicose
 variedly
+variegated
 variety
 variola
 variolates
@@ -30659,6 +30692,7 @@ wending
 wends
 werewolves
 wergelds
+wert
 westernised
 westmost
 westward
@@ -31285,6 +31319,7 @@ zinnia
 zinnias
 zippering
 zipping
+zitherist
 zizzle
 zizzled
 zoantharians
