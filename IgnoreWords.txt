@@ -112,6 +112,7 @@ accipitrine
 accipitrines
 acclaiming
 acclamations
+acclimated
 acclimatised
 acclimatising
 acclimatize
@@ -2371,6 +2372,7 @@ bemuddling
 bemurmured
 bemusedly
 bendable
+bendwise
 benedictions
 beneficial
 beneficiary
@@ -4665,6 +4667,7 @@ cirque
 cirrus
 cislunar
 cissies
+cist
 cistern
 cistron
 cistuses
@@ -5279,6 +5282,7 @@ complementizer
 completed
 completeness
 completion
+complexest
 complexified
 compliant
 complicated
@@ -5583,6 +5587,7 @@ continentals
 continently
 contingencies
 continuant
+continuate
 continuators
 continue
 continuer
@@ -5690,6 +5695,7 @@ copers
 copes
 copihue
 copingstones
+copiousnesses
 coplanar
 coplanarity
 copolymer
@@ -5868,6 +5874,7 @@ couldst
 coulibiac
 coulibiacs
 coulis
+coulometrically
 coulometries
 coulometry
 coulters
@@ -8759,6 +8766,7 @@ endeared
 endeavored
 endemial
 endemic
+endemicities
 endemism
 ending
 endleafs
@@ -9785,6 +9793,7 @@ featherweights
 feats
 featured
 feaze
+feazes
 febricity
 febrility
 feces
@@ -10352,6 +10361,7 @@ folkie
 folkishnesses
 folklorist
 folkmote
+folksong
 folkway
 folliculitises
 follow
@@ -12018,6 +12028,7 @@ hardinesses
 hardly
 hardnoses
 hardpans
+hardship
 hardtops
 hardwire
 hardy
@@ -13676,6 +13687,7 @@ insatiable
 inscribes
 inscroll
 insculp
+inseams
 insecureness
 insemination
 insensible
@@ -13866,6 +13878,7 @@ interrelated
 interrelating
 interrelation
 interrenal
+interrex
 interrogatees
 interrogating
 interrogator
@@ -14409,6 +14422,7 @@ junk
 junketeer
 junkyards
 junto
+jupes
 jupons
 juridic
 jurisprudences
@@ -14600,6 +14614,7 @@ kilim
 kill
 killable
 killdeers
+killies
 kills
 kiln
 kilobars
@@ -16150,6 +16165,7 @@ megalopses
 megaplexes
 megapod
 megaproject
+megaprojects
 megascopic
 megaspore
 megasporophylls
@@ -16158,6 +16174,7 @@ megasse
 megasses
 megatheres
 megavitamin
+megillahs
 megs
 melamed
 melancholiacs
@@ -20143,6 +20160,7 @@ phyleses
 phylesises
 phyllite
 phyllo
+phyllodium
 phyllome
 phyllomes
 phyllotactic
@@ -20371,6 +20389,7 @@ pittances
 pittas
 pittosporum
 piu
+pivotable
 pivoted
 pixel
 pixels
@@ -22069,6 +22088,7 @@ raki
 raku
 rally
 rallyists
+ralphed
 ramble
 ramees
 ramie
@@ -22198,6 +22218,7 @@ readablenesses
 readapted
 readapts
 readerly
+readied
 readier
 reading
 readmitting
@@ -22858,6 +22879,7 @@ remix
 remobilizes
 remodeling
 remodelling
+remoistens
 remolades
 remonstrate
 remonstration
@@ -23248,6 +23270,7 @@ retouching
 retracks
 retractile
 retractility
+retracting
 retraction
 retral
 retransferring
@@ -23364,6 +23387,7 @@ rhabdomancy
 rhabdomes
 rhabdovirus
 rhaphae
+rhaphes
 rhemes
 rhenium
 rheobases
@@ -24340,6 +24364,7 @@ seatworks
 seawants
 seaward
 seawares
+seborrhea
 secantly
 secern
 secludedly
@@ -26297,6 +26322,7 @@ stockpiled
 stocktaking
 stocktakings
 stockyard
+stodgier
 stogey
 stoically
 stoichiometric
@@ -26773,6 +26799,7 @@ sugarier
 sugarlike
 suggesters
 suggestions
+suggestive
 suicided
 suing
 suitably
@@ -26807,6 +26834,7 @@ sulphury
 sultanas
 sultanate
 sultaness
+sultrier
 sultrily
 sulu
 summand
@@ -26855,6 +26883,7 @@ superagency
 superagent
 superagents
 superambitious
+superannuation
 superathletes
 superbank
 superbest
@@ -27276,6 +27305,7 @@ tailbacks
 tailbone
 tailcoated
 taillamps
+taille
 tailless
 taillights
 tailplane
@@ -27776,6 +27806,7 @@ thrilled
 thrive
 thriven
 thrivingly
+throatlatch
 throbbed
 thrombi
 thromboembolic
@@ -28567,6 +28598,7 @@ tuckers
 tucket
 tuffet
 tugger
+tui
 tuitional
 tularemias
 tule
@@ -28857,6 +28889,7 @@ unbenign
 unbent
 unbilled
 unbitted
+unbitten
 unblended
 unblest
 unblooded
@@ -29780,6 +29813,7 @@ vehemences
 vehement
 veiler
 veiling
+veinier
 veining
 veinlet
 veinlike
@@ -30086,6 +30120,7 @@ volumed
 volumetrically
 voluming
 voluminosity
+voluntarisms
 voluntary
 voluntaryism
 voluntaryists

@@ -1,0 +1,3 @@
+functions/logging/Import-PSFLoggingProvider.ps1 1.6.181,https://www.powershellgallery.com/packages/PSFramework/1.6.181/Content/functions%255Clogging%255CImport-PSFLoggingProvider.ps1
+Scripting/Test-AllVirtualMemory.ps1 at master · K2/Scripting · GitHub,https://github.com/K2/Scripting/blob/master/Test-AllVirtualMemory.ps1
+https://raw.githubusercontent.com/crowbar/crowbar-...,https://raw.githubusercontent.com/crowbar/crowbar-core/44d0178cc2bb44b6c9c52c4facca6a439c53bcc1/chef/cookbooks/provisioner/files/default/crowbar_join.ps1
