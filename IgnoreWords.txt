@@ -276,6 +276,7 @@ adjournments
 adjudge
 adjudications
 adjudicator
+adjudicators
 adjunct
 adjunctions
 adjunctive
@@ -479,6 +480,7 @@ agrypnia
 aguacate
 ahem
 ahing
+ahoy
 aid
 aiglets
 aigrette
@@ -1688,6 +1690,7 @@ attempers
 attended
 attendee
 attending
+attent
 attentional
 attentively
 attestations
@@ -3921,6 +3924,7 @@ cardiologists
 cardiomyopathy
 cardplayer
 cardsharper
+cared
 career
 careering
 careerism
@@ -4696,6 +4700,7 @@ cinnamyls
 ciphering
 circa
 circle
+circuit
 circuitousness
 circularised
 circulates
@@ -5172,6 +5177,7 @@ collie
 collier
 collieshangies
 collimations
+collins
 collinsias
 collocational
 collodion
@@ -5829,6 +5835,7 @@ corned
 cornelian
 cornerways
 cornerwise
+cornet
 cornfield
 cornify
 cornily
@@ -6157,6 +6164,7 @@ creosol
 creosols
 crepitate
 crepuscles
+crepuscular
 crescendi
 crescents
 cresols
@@ -7311,6 +7319,7 @@ detoxification
 detoxifications
 detoxified
 detrainments
+deuterides
 deuteriums
 devas
 devastations
@@ -8679,6 +8688,7 @@ elhi
 elicitation
 elided
 eligible
+eliminations
 eliminators
 elint
 elints
@@ -9318,6 +9328,7 @@ eternals
 eterne
 eternised
 eternities
+eternity
 etesians
 ethane
 ethanolamine
@@ -12448,6 +12459,7 @@ hepatizes
 hepatoma
 hepatomas
 hepatomegaly
+hepcats
 heptachlor
 heptane
 heralded
@@ -12788,6 +12800,7 @@ hoofers
 hook
 hookier
 hooking
+hooklike
 hooligan
 hooligans
 hooplas
@@ -12881,6 +12894,7 @@ houseclean
 housecoat
 housecoats
 housefather
+housekeep
 houselling
 housemaids
 housemaster
@@ -13043,6 +13057,7 @@ hygroscopicity
 hylozoism
 hylozoisms
 hymeniums
+hymenoptera
 hymenopteron
 hymens
 hymnbooks
@@ -13509,6 +13524,7 @@ incompetency
 incompetent
 incompetents
 incomplete
+incompletely
 inconnu
 inconnus
 inconscient
@@ -13608,6 +13624,7 @@ individualism
 individuality
 individualizes
 individualizing
+individuals
 individuated
 individuations
 indoles
@@ -13726,6 +13743,7 @@ infrequencies
 infrequent
 infringed
 infringement
+infringers
 infringes
 infuriations
 infused
@@ -15936,6 +15954,7 @@ majagua
 majaguas
 majesty
 majolica
+majoring
 majoritarian
 majorly
 majuscular
@@ -16077,6 +16096,7 @@ manubriums
 manufactories
 manufacturings
 manward
+manwards
 manwise
 many
 manyfold
@@ -16609,6 +16629,7 @@ microfiches
 microfilament
 microfilmed
 microflorae
+microfloral
 microforms
 microfossils
 microfungus
@@ -18100,6 +18121,7 @@ nondrying
 noneconomic
 noneditorial
 noneducational
+noneffective
 nonego
 nonelections
 nonenergy
@@ -18174,6 +18196,7 @@ nonmetropolitan
 nonmigrant
 nonminority
 nonmodern
+nonmotility
 nonmunicipal
 nonnatural
 nonnecessities
@@ -18711,6 +18734,7 @@ optima
 optimalities
 optimization
 optimizations
+optimize
 optimizers
 optimizes
 optionalities
@@ -19009,6 +19033,7 @@ outpatients
 outpointing
 outpoints
 outpoliticks
+outpolls
 outposts
 outpourer
 outpowers
@@ -22123,6 +22148,7 @@ quaere
 quaffer
 quag
 quagga
+quaggy
 quagmire
 quagmiriest
 quailing
@@ -23023,6 +23049,7 @@ reinflames
 reinflates
 reinforcing
 reinforming
+reinitiated
 reinjections
 reinless
 reinoculates
@@ -23138,6 +23165,7 @@ remising
 remissible
 remissibly
 remission
+remitment
 remittent
 remittor
 remix
@@ -24544,6 +24572,7 @@ scrappage
 scrapped
 scrappers
 scrappily
+scrappinesses
 scrapping
 scrapple
 scratches
@@ -25144,6 +25173,7 @@ shoetree
 shoetrees
 shofroth
 shoo
+shooks
 shools
 shootout
 shoots
@@ -25363,6 +25393,7 @@ sinopia
 sins
 sinsemillas
 sinter
+sintered
 sinters
 sinuous
 sinuously
@@ -26101,6 +26132,7 @@ speired
 speirs
 speise
 speises
+speiss
 spelean
 speleologist
 spellers
@@ -28252,6 +28284,7 @@ tingly
 tinily
 tininess
 tinker
+tinkered
 tinkled
 tinkler
 tinner
@@ -30244,6 +30277,7 @@ verticality
 verticillate
 vertigoes
 verts
+vervain
 vesicates
 vesiculae
 vesiculation
@@ -30411,6 +30445,7 @@ vivaciousness
 vivaciousnesses
 vivaria
 vivid
+vivider
 vivifies
 vivisect
 vivisectionists
