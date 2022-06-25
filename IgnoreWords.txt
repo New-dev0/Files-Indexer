@@ -1140,6 +1140,7 @@ antirationalism
 antirationalist
 antirationality
 antirealism
+antirejection
 antiritualism
 antiritualisms
 antiroll
@@ -1622,6 +1623,7 @@ astraddle
 astragal
 astringent
 astringing
+astrological
 astrometric
 astrometries
 astronomer
@@ -3371,6 +3373,7 @@ brutely
 brutifies
 brutify
 brutishly
+brutism
 bruts
 bruxisms
 bryologies
@@ -3433,6 +3436,7 @@ bulkage
 bullace
 bullbriers
 bulldoggings
+bullet
 bulleted
 bulletined
 bulletining
@@ -3825,6 +3829,7 @@ cantor
 canulated
 canvaser
 canvasing
+canvaslike
 canyoning
 canyons
 canzonas
@@ -4175,6 +4180,7 @@ cedis
 ceibas
 ceilings
 ceils
+celeriac
 celery
 celestite
 celestites
@@ -4692,6 +4698,7 @@ cinematography
 cinephiles
 cinerarias
 cinerary
+cingula
 cingular
 cinnabar
 cinnamons
@@ -6539,6 +6546,7 @@ cyclitol
 cyclizes
 cyclizing
 cyclogenesis
+cycloid
 cycloids
 cyclopaedias
 cyclopedia
@@ -8928,6 +8936,7 @@ enforced
 enforcements
 enframed
 enframement
+engage
 engaged
 engagers
 engagingly
@@ -11709,6 +11718,7 @@ grassy
 grated
 grateless
 gratifier
+gratinees
 gratings
 graupel
 graveless
@@ -11801,6 +11811,7 @@ gripsacks
 griskins
 grislier
 gristliest
+gristliness
 griths
 grits
 grivets
@@ -11838,6 +11849,7 @@ groundlessness
 groundlings
 groundmass
 groundmasses
+groundwaters
 groundwood
 groutier
 grouting
@@ -12235,6 +12247,7 @@ hatcheling
 hatchers
 hatchery
 hatchet
+haters
 hating
 hatrack
 hatracks
@@ -12638,6 +12651,7 @@ hoarders
 hoardings
 hoariness
 hoarsening
+hoarsens
 hoarsest
 hoatzin
 hoatzines
@@ -12853,6 +12867,7 @@ horseshit
 horseshits
 horseweed
 horsinesses
+hoselike
 hosen
 hoses
 hoseys
@@ -13491,6 +13506,7 @@ inceptive
 inceptively
 incepts
 incessancies
+incessant
 inchoate
 inchoateness
 inchoatives
@@ -14125,6 +14141,7 @@ intradermally
 intranets
 intransigent
 intransigents
+intrapersonal
 intreat
 intrenching
 intrepidity
@@ -14321,6 +14338,7 @@ isogon
 isogones
 isogonic
 isolate
+isolating
 isolationists
 isolations
 isoleads
@@ -16613,6 +16631,7 @@ microbic
 microbiological
 microbreweries
 microcap
+microcomputers
 microcopy
 microcosm
 microcosms
@@ -16945,6 +16964,7 @@ mislaboring
 mislain
 misleader
 misleading
+misleads
 mislike
 mislived
 mislives
@@ -19184,6 +19204,7 @@ overcools
 overcorrecting
 overcoy
 overcrammed
+overcritical
 overcrop
 overcropped
 overcropping
@@ -21691,6 +21712,7 @@ prologize
 prologues
 prolongation
 prolongations
+prolonged
 prolonging
 promo
 promontories
@@ -22589,6 +22611,7 @@ rebooked
 rebought
 rebranching
 rebreed
+rebuffs
 rebuilding
 rebuker
 rebukes
@@ -23073,6 +23096,7 @@ reinvoke
 reissue
 reitbok
 reiterating
+reive
 reived
 rejectees
 rejections
@@ -23182,6 +23206,7 @@ remorsefulness
 remote
 remotions
 remotivates
+remotivating
 removeable
 remudas
 remunerators
@@ -23625,6 +23650,7 @@ reverberates
 reverenced
 reverencer
 reverences
+reveries
 reversibility
 revert
 revertant
@@ -26418,6 +26444,7 @@ stagiest
 staig
 stainer
 stainers
+stainlessly
 staircases
 stairheads
 stairlike
@@ -27559,6 +27586,7 @@ syncretists
 syndactyl
 syndactylism
 syndactyly
+syndetic
 syndicated
 syndromic
 syne
@@ -27723,6 +27751,7 @@ tanners
 tanrecs
 tantalates
 tantalises
+tantalites
 tantalizing
 tantalum
 tantrism
@@ -27736,6 +27765,7 @@ tapeless
 tapenades
 taperer
 tapestried
+tapestries
 tapetal
 tapiocas
 tapir
@@ -27890,6 +27920,8 @@ telium
 tellable
 tellingly
 tells
+tellurions
+tellurium
 telome
 telomere
 telophases
@@ -28223,6 +28255,7 @@ tictac
 tictacking
 tictacs
 tidbit
+tiddledywinks
 tiddler
 tided
 tidemarks
@@ -28236,6 +28269,7 @@ tiemannites
 tiepins
 tierced
 tiering
+tiffs
 tigereye
 tigerlike
 tigers
@@ -30022,6 +30056,7 @@ uropygiums
 uroscopies
 urostyles
 urped
+urticates
 urtications
 usefulness
 username
