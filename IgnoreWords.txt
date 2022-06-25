@@ -1006,6 +1006,7 @@ annelid
 annihilates
 annihilatory
 annotative
+annotators
 announcers
 annualize
 annuitants
@@ -3676,6 +3677,7 @@ cabbies
 cabers
 cabestros
 cabezones
+cabinmate
 cablecasting
 cabochons
 cabrestos
@@ -3915,6 +3917,7 @@ canvaslike
 canyoning
 canyons
 canzonas
+capablenesses
 capabler
 capablest
 capacitate
@@ -5042,6 +5045,7 @@ coagulability
 coagulants
 coagulase
 coagulate
+coalas
 coalescing
 coaliest
 coalified
@@ -5370,6 +5374,7 @@ commandants
 commanding
 commando
 commands
+commemorating
 commemoratively
 commencement
 commencer
@@ -5390,6 +5395,7 @@ comminuting
 commissariat
 commissariats
 commissars
+commissionaires
 commissioned
 commit
 committing
@@ -6301,6 +6307,7 @@ crests
 cresyls
 cretinism
 crevasse
+crevassed
 crevice
 crewmate
 crews
@@ -6578,6 +6585,7 @@ curragh
 currant
 curriculums
 currycombing
+cursers
 cursing
 cursive
 cursivenesses
@@ -7423,6 +7431,7 @@ despiting
 despoiler
 despoliation
 despondence
+despondent
 despondently
 despumate
 destitute
@@ -10191,6 +10200,7 @@ feoffee
 feoffees
 feoffment
 feoffments
+feoffor
 fer
 ferbam
 ferlies
@@ -11040,6 +11050,7 @@ froglets
 froglike
 frogman
 frolicker
+frolickers
 fronds
 front
 frontcourt
@@ -11713,6 +11724,7 @@ glossiness
 glossitis
 glossolalia
 glottic
+glottides
 glout
 glouted
 glover
@@ -11803,6 +11815,7 @@ goldeyes
 goldsmith
 golfers
 goliard
+gollywog
 golosh
 gomerils
 gomphosis
@@ -12520,6 +12533,7 @@ haunted
 haunts
 hausfrau
 hausfrauen
+haustorium
 hautboy
 haute
 havarti
@@ -12634,6 +12648,7 @@ hedonic
 hedonist
 hedonists
 heeder
+heedlessly
 heehaw
 heeled
 heelless
@@ -13031,6 +13046,7 @@ homonymies
 homophobes
 homophobia
 homoplasy
+homosexual
 homosexually
 homosocialities
 homozygosities
@@ -13767,6 +13783,7 @@ inbreeders
 inburst
 inbye
 incalculable
+incandesce
 incandescent
 incandescents
 incantations
@@ -14645,6 +14662,7 @@ isoglossic
 isogon
 isogones
 isogonic
+isohels
 isolate
 isolating
 isolationists
@@ -15772,6 +15790,7 @@ ligulae
 likableness
 likeable
 likenesses
+liking
 likings
 lilliputian
 lily
@@ -16849,6 +16868,7 @@ merengue
 merengues
 merer
 merganser
+mergers
 merging
 meridians
 meringues
@@ -18801,6 +18821,7 @@ numerators
 numeric
 numerologies
 numerologist
+numerology
 numerously
 numerousness
 nummular
@@ -19307,6 +19328,7 @@ otherworld
 otiosities
 otocystic
 otolaryngology
+otoplasties
 otoscleroses
 otosclerosis
 otoscope
@@ -19466,6 +19488,7 @@ outplace
 outpointing
 outpoints
 outpoliticks
+outpoll
 outpolls
 outposts
 outpourer
@@ -21381,6 +21404,7 @@ polarises
 polarising
 polarities
 polarity
+polarizable
 polarized
 polder
 polecats
@@ -22335,6 +22359,7 @@ protrusion
 protrusions
 protuberantly
 proudest
+proudful
 provenances
 proves
 providences
@@ -22342,6 +22367,7 @@ provinces
 provincially
 provitamin
 prow
+prowesses
 prowl
 proxemic
 prudishly
@@ -23637,6 +23663,7 @@ relaxable
 relaxants
 relaxation
 relaxed
+relearned
 releasing
 relegating
 relegations
@@ -25423,6 +25450,7 @@ sennights
 sennits
 senopia
 senor
+senoritas
 sensately
 sensating
 sensationalise
@@ -25500,6 +25528,7 @@ sericulture
 sericulturist
 sericulturists
 serifed
+serigraphs
 serine
 seriousnesses
 sermonizer
@@ -27624,6 +27653,7 @@ subliming
 sublimits
 sublimity
 sublingual
+subliterate
 subliterature
 sublunary
 subluxations
@@ -28006,6 +28036,7 @@ surfings
 surfs
 surgery
 suricate
+surimi
 surname
 surnamer
 surnamers
@@ -28330,6 +28361,7 @@ tall
 tallaisim
 tallithes
 tallitim
+tallits
 tallows
 tallowy
 tallyman
@@ -31140,6 +31172,7 @@ visualizations
 visualized
 vita
 vitae
+vitalising
 vitalistic
 vitalists
 vitality
@@ -31355,6 +31388,7 @@ wannigans
 wanting
 wantoner
 wantonly
+wantonnesses
 wardenries
 warding
 warehousers
@@ -31911,6 +31945,7 @@ wreathe
 wreathes
 wreaths
 wreathy
+wrecker
 wreckers
 wreckful
 wrens
