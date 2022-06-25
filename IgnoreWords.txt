@@ -222,6 +222,7 @@ actinias
 actinomorphies
 actinomorphy
 actinomyces
+actinon
 action
 actionably
 activating
@@ -2921,6 +2922,7 @@ blunge
 blunged
 blunger
 blungers
+blunges
 blunging
 blurt
 bo
@@ -6639,6 +6641,7 @@ cyclopaedias
 cyclopedia
 cyclopes
 cyclopropane
+cyclostyled
 cyclotron
 cyeses
 cygnet
@@ -7426,6 +7429,7 @@ detoxication
 detoxification
 detoxifications
 detoxified
+detract
 detrainments
 deuced
 deuterides
@@ -7968,6 +7972,7 @@ disproof
 disprove
 disputatious
 dispute
+disputed
 disqualify
 disquiet
 disrated
@@ -8425,6 +8430,7 @@ drumroll
 drumstick
 drumsticks
 drunkard
+drunken
 drupaceous
 drupelets
 druse
@@ -9166,6 +9172,7 @@ enticed
 enticement
 enticers
 enticingly
+entireness
 entities
 entitle
 entitled
@@ -11282,6 +11289,7 @@ gaslit
 gasogene
 gasogenes
 gasohol
+gasps
 gassiest
 gassinesses
 gastight
@@ -12160,6 +12168,7 @@ gutsiest
 gutta
 guttered
 gutting
+guttlers
 guttles
 guy
 guyline
@@ -12724,8 +12733,10 @@ heterozygoses
 heterozygosis
 heterozygosity
 heth
+heuristics
 hew
 hex
+hexachords
 hexade
 hexagon
 hexagonal
@@ -12751,6 +12762,7 @@ heydey
 heydeys
 hiatus
 hiatuses
+hibernated
 hibernates
 hibernators
 hick
@@ -14247,6 +14259,7 @@ intermediated
 intermezzi
 intermingles
 intermission
+intermits
 intermixtures
 internal
 internality
@@ -14836,6 +14849,7 @@ junctions
 juniorates
 juniority
 junk
+junkers
 junketeer
 junkyards
 junto
@@ -15111,6 +15125,7 @@ knacks
 knars
 knavishly
 kneader
+kneecap
 kneecappings
 kneeing
 kneels
@@ -16285,6 +16300,7 @@ mandola
 mandolins
 mandrel
 mandrils
+manducated
 maneuverable
 manful
 manfulness
@@ -17334,6 +17350,7 @@ mitosis
 mitrewort
 mitring
 mitsvoth
+mittens
 mixedly
 mixup
 mizuna
@@ -19029,6 +19046,7 @@ opsonized
 opt
 opted
 opticist
+optics
 optima
 optimalities
 optimization
@@ -20242,6 +20260,7 @@ pecten
 pectic
 pectinaceous
 peculiars
+pecuniary
 pedagogy
 pedaler
 pedalled
@@ -21312,6 +21331,7 @@ polypous
 polyptychs
 polypuses
 polys
+polysaccharide
 polystyrenes
 polysulfides
 polysyndeton
@@ -21408,6 +21428,7 @@ posits
 posole
 posoles
 posologic
+possessedly
 possessednesses
 possessively
 possessors
@@ -21960,6 +21981,7 @@ procedures
 proceeds
 processability
 processed
+procession
 prochoice
 proclamation
 proconsulates
@@ -22472,6 +22494,7 @@ qiviuts
 quackery
 quacks
 quad
+quadding
 quadplexes
 quadrant
 quadraphonic
@@ -22929,6 +22952,7 @@ rebaptisms
 rebaptized
 rebegin
 rebegins
+rebel
 rebelling
 rebid
 rebidding
@@ -23627,6 +23651,7 @@ repercussion
 reperked
 reperks
 repetitious
+repetitiously
 rephotograph
 rephotographed
 repigment
@@ -23819,6 +23844,7 @@ resplendencies
 resplendent
 resplit
 responder
+responding
 responsa
 response
 responsive
@@ -24293,6 +24319,7 @@ rootages
 rooter
 rootiest
 rootling
+rooty
 ropedancers
 ropers
 ropewalkers
@@ -25038,6 +25065,7 @@ scurrying
 scurviest
 scutched
 scute
+scutiform
 scuts
 scuttering
 scuttled
@@ -25585,6 +25613,7 @@ shootout
 shoots
 shop
 shopboys
+shophars
 shophroth
 shoplifted
 shoppe
@@ -26234,6 +26263,7 @@ snuffers
 snuffily
 snufflier
 snuffliest
+snugly
 snugnesses
 soaks
 soaped
@@ -27460,6 +27490,7 @@ subsatellites
 subsaturations
 subscience
 subscriber
+subscribing
 subscriptions
 subsectors
 subsenses
@@ -27862,6 +27893,7 @@ swarajism
 swarmer
 swartness
 swashbuckled
+swashbuckler
 swathers
 swaybacks
 swayers
@@ -30509,6 +30541,7 @@ usuriousnesses
 usurper
 uteruses
 utilisers
+utilises
 utilitarianism
 utilitarianisms
 utopistic
@@ -30640,6 +30673,7 @@ vavs
 vaw
 vawards
 vealy
+vectorial
 vedalias
 vee
 veejay
@@ -31021,6 +31055,7 @@ vulcanizer
 vulcanology
 vulgarer
 vulgarised
+vulgarism
 vulgarization
 vulgarly
 vulnerability
