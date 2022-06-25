@@ -1,0 +1,3 @@
+rivet.ps1 0.12.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/Rivet/0.12.0/Content/rivet.ps1
+Migrations/00000000000001_RivetInitializeDatabase.ps1 0.12.0 ...,https://www.powershellgallery.com/packages/Rivet/0.12.0-beta233/Content/Migrations%255C00000000000001_RivetInitializeDatabase.ps1
+PSO2WinstoreFix/pso2_winstore_fix.ps1 at master · Arks-Layer ...,https://github.com/Arks-Layer/PSO2WinstoreFix/blob/master/pso2_winstore_fix.ps1
