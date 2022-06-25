@@ -403,6 +403,7 @@ afterbirth
 aftercares
 afterclap
 afterdeck
+afterglow
 afterlives
 aftermarkets
 aftermaths
@@ -449,6 +450,7 @@ agilenesses
 agings
 agiotage
 agisted
+agitatedly
 agitating
 agleam
 aglow
@@ -698,6 +700,7 @@ altruist
 alum
 aluminate
 aluminized
+alumins
 aluminum
 aluminums
 alumna
@@ -1247,6 +1250,7 @@ apoplexies
 apoptosis
 aposiopetic
 apospories
+apospory
 apostasies
 apostatizing
 apostils
@@ -1945,6 +1949,7 @@ backshore
 backslapper
 backslappers
 backspace
+backspaced
 backstabbings
 backstage
 backstamps
@@ -2192,6 +2197,7 @@ battlers
 battue
 baud
 baulk
+bawdier
 bawdy
 bawtie
 bayamo
@@ -3213,6 +3219,7 @@ breading
 breadless
 breadnuts
 breads
+breadstuffs
 breadwinning
 breakages
 breakfast
@@ -4673,6 +4680,7 @@ chukkas
 chummier
 chumships
 chunkier
+chunking
 churchianity
 churchings
 churchlier
@@ -6761,6 +6769,7 @@ dearths
 deasil
 deathbed
 deathlessness
+deathlessnesses
 deaved
 debagged
 debarked
@@ -7055,6 +7064,7 @@ deliverance
 deliveryman
 delly
 delouses
+delphiniums
 delusters
 delve
 delver
@@ -7613,6 +7623,7 @@ diphosgene
 diphosphates
 diphtheria
 diphthong
+diphthonged
 diphthongizes
 diphthongs
 diphyletic
@@ -7702,6 +7713,7 @@ discernments
 dischargees
 disclaimer
 disclike
+disclimax
 disclosed
 discographic
 discomfiting
@@ -7820,6 +7832,7 @@ dislocating
 dislodgements
 dislodges
 disloyalty
+dismantles
 dismasting
 disobeyer
 disobeys
@@ -10545,6 +10558,7 @@ footnoting
 footpaces
 footpad
 footpath
+footrest
 footsoreness
 footstall
 footstones
@@ -10622,6 +10636,7 @@ forgiveness
 forgivingnesses
 forgoer
 forgoers
+forgoing
 forint
 forkless
 forlornness
@@ -13970,6 +13985,7 @@ integrate
 integrating
 integrationists
 integrators
+intellective
 intellectively
 intelligently
 intemperance
@@ -14969,6 +14985,7 @@ kouprey
 koussos
 kremlinologies
 kremlinologists
+kreplach
 kreutzers
 krimmer
 krimmers
@@ -15232,6 +15249,7 @@ layup
 lazars
 lazying
 lazyish
+lazzaroni
 leachability
 leachates
 leaches
@@ -15751,6 +15769,7 @@ losses
 lossless
 lostness
 lot
+lota
 lotahs
 lotoses
 lotto
@@ -15976,6 +15995,7 @@ maharajas
 maharanis
 maharishis
 mahjongs
+mahlstick
 maieutic
 maigre
 mailmen
@@ -16798,6 +16818,7 @@ mills
 millwright
 milo
 milpa
+mimbar
 mimbars
 mimed
 mimeographs
@@ -16809,6 +16830,7 @@ mimic
 mimical
 mimicking
 mimicry
+mimics
 minacious
 minacity
 minced
@@ -17609,6 +17631,7 @@ mustily
 mustiness
 mustinesses
 musts
+musty
 mutability
 mutable
 mutagen
@@ -18631,6 +18654,7 @@ oiling
 oilman
 oilpapers
 oilskins
+oilway
 olden
 older
 oldfangled
@@ -20143,6 +20167,7 @@ pericope
 peridotites
 perigyny
 perillas
+perilling
 perilymph
 perilymphs
 perimeter
@@ -20261,6 +20286,7 @@ pestle
 pestled
 pests
 pesty
+petabytes
 petal
 petalled
 petaloid
@@ -20771,6 +20797,7 @@ plasticity
 plastisol
 plastisols
 plastocyanin
+plastoquinones
 platane
 platanes
 plateaus
@@ -22142,6 +22169,7 @@ pyrolysis
 pyrolyze
 pyrolyzers
 pyrometrically
+pyromorphites
 pyrosises
 pyrotechnic
 pyrotechnical
@@ -22328,6 +22356,7 @@ rachial
 rachitides
 racialize
 racializes
+racially
 racier
 raciness
 racing
@@ -22773,6 +22802,7 @@ recreancy
 recreating
 recrossing
 recrowning
+recrowns
 recrudescences
 recruiter
 recrystallizing
@@ -23783,6 +23813,7 @@ ribands
 ribbands
 ribbers
 ribbing
+riboflavins
 ribonucleotide
 ribosomes
 ribworts
@@ -25164,6 +25195,7 @@ shielders
 shiest
 shiftable
 shiftily
+shiftiness
 shiftinesses
 shifting
 shiftlessnesses
@@ -26210,6 +26242,7 @@ spermiogeneses
 sperrylites
 spessartite
 spewing
+sphene
 sphenes
 sphenoidal
 sphered
@@ -30159,6 +30192,7 @@ vandalisms
 vandals
 vandyke
 vandykes
+vang
 vanguards
 vanities
 vanned
@@ -30436,6 +30470,7 @@ viniferas
 vining
 vinosity
 vinous
+vintagers
 violable
 violates
 violoncellist
