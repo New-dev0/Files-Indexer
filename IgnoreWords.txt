@@ -1992,6 +1992,7 @@ bairnlier
 bairns
 baitfishes
 bakeapple
+baked
 bakemeats
 bakeshop
 bakshishing
@@ -2357,6 +2358,7 @@ beguilers
 begulfing
 behalves
 behaves
+behavior
 beheader
 behinds
 beholds
@@ -3622,6 +3624,7 @@ cablecasting
 cabochons
 cabrestos
 cabstands
+cachalot
 cachalots
 cachepots
 caching
@@ -5618,6 +5621,7 @@ conservatizing
 conservatorial
 considerably
 consign
+consigned
 consisted
 consistences
 consistent
@@ -5738,6 +5742,7 @@ convergences
 conversances
 conversancy
 conversazioni
+converse
 converses
 converter
 convertiplane
@@ -7224,6 +7229,7 @@ deprecates
 deprecatingly
 deprecations
 depreciates
+depreciatingly
 depreciation
 depredations
 depredator
@@ -7384,7 +7390,9 @@ devoices
 devoir
 devoted
 devotedly
+devotednesses
 devotion
+devotionally
 dewans
 dewaters
 dewaxes
@@ -8536,6 +8544,7 @@ easygoingness
 eaten
 eatery
 eath
+ebony
 ecartes
 eccentricities
 ecclesiae
@@ -9196,6 +9205,7 @@ epilimnion
 epilogue
 epilogues
 epiloguing
+epimere
 epimeric
 epimers
 epimysia
@@ -9534,6 +9544,7 @@ excommunicate
 excommunicated
 excrescency
 excreters
+excretes
 excretory
 exculpating
 exculpation
@@ -12975,6 +12986,7 @@ housewares
 houseworks
 housing
 houstonia
+hovel
 hovels
 hovered
 hoverfly
@@ -13015,6 +13027,7 @@ humblingly
 humbuggeries
 humdingers
 humerals
+humid
 humidex
 humidifications
 humidistat
@@ -14281,6 +14294,7 @@ invitatories
 inviter
 inviters
 invocated
+invoke
 involucra
 involve
 invulnerability
@@ -14308,6 +14322,7 @@ ionospheric
 iontophoreses
 iontophoresis
 iontophoretic
+iotacism
 iotacisms
 ipecac
 irade
@@ -16290,6 +16305,7 @@ mastabas
 mastectomies
 master
 masterlinesses
+mastermind
 masterminded
 masterpieces
 masters
@@ -16322,6 +16338,7 @@ mateys
 mathematization
 mathematized
 mathematizes
+matilda
 matriarchs
 matriculant
 matriculates
@@ -16592,6 +16609,7 @@ mesmerists
 mesmerizing
 mesne
 mesocarp
+mesocarps
 mesomorph
 mesons
 mesophyllic
@@ -17608,6 +17626,7 @@ mummify
 mumper
 mumping
 munched
+munchies
 mundane
 mundungus
 municipally
@@ -17628,6 +17647,7 @@ murmurs
 murr
 murras
 murreys
+murrha
 murrs
 musca
 muscadet
@@ -17990,6 +18010,7 @@ nevi
 nevus
 new
 newbies
+newer
 newfangled
 newlywed
 newlyweds
@@ -18359,6 +18380,7 @@ nonsteady
 nonsteroid
 nonstick
 nonstory
+nonsubsidized
 nonsugars
 nonsuiting
 nonsyllabic
@@ -19526,6 +19548,7 @@ owns
 owse
 ox
 oxaloacetate
+oxbows
 oxcart
 oxen
 oxeye
@@ -20320,6 +20343,7 @@ pessaries
 pessary
 pest
 pestering
+pesticides
 pestiferous
 pestiferousness
 pestilences
@@ -20822,6 +20846,7 @@ planked
 planking
 plankters
 plankton
+planlessnesses
 plantain
 planters
 plantigrade
@@ -21563,6 +21588,7 @@ prescheduled
 prescience
 prescreened
 prescribe
+prescribing
 prescripts
 presentations
 presentencing
@@ -23382,6 +23408,7 @@ repayable
 repeat
 repegged
 repellants
+repelled
 repellencies
 repentantly
 repenter
@@ -24477,6 +24504,7 @@ satires
 satirists
 satisfaction
 satisfiable
+satisficed
 satisfier
 satisfies
 satisfyingly
@@ -25272,6 +25300,7 @@ shingles
 shininesses
 shinleaves
 shinning
+shins
 shinsplints
 shipboard
 shipboards
@@ -25445,6 +25474,7 @@ sierras
 siestas
 sifters
 siganid
+sighter
 sightings
 sightless
 sightlessnesses
@@ -26740,6 +26770,7 @@ stereotypies
 sterigma
 sterilise
 sterilising
+sterilization
 sterilize
 sterilizers
 sterling
@@ -27387,6 +27418,7 @@ superbomber
 superbombers
 superbright
 supercabinets
+supercargoes
 supercharges
 supercilious
 supercity
@@ -28537,6 +28569,7 @@ tolerantly
 tolerators
 tolidins
 tollbars
+tollmen
 tolls
 tollways
 toluate
@@ -29006,6 +29039,7 @@ tristich
 trisulfides
 tritely
 triteness
+tritenesses
 triter
 tritest
 tritheistical
@@ -29528,6 +29562,7 @@ uncurably
 uncurbs
 uncurling
 uncustomarily
+uncynically
 undanceable
 undated
 undebatable
