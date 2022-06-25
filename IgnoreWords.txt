@@ -1860,6 +1860,7 @@ avo
 avocado
 avocados
 avoid
+avoided
 avos
 avouched
 avouching
@@ -2009,6 +2010,7 @@ bagpiping
 baguet
 bahts
 bahuvrihis
+bailee
 bails
 bailsman
 bairnlier
@@ -2855,6 +2857,7 @@ bleat
 bleated
 bled
 bleepers
+blenched
 blend
 blesbuck
 bless
@@ -2989,6 +2992,7 @@ boilable
 boiled
 boilermakers
 boilerplate
+boilers
 boilersuits
 boils
 boinked
@@ -4523,6 +4527,7 @@ chemisms
 chemisorptions
 chemoautotrophy
 chemokines
+chemoreception
 chemoreceptor
 chemosorb
 chemosorbed
@@ -6733,6 +6738,7 @@ daggled
 dagoes
 daguerreotypist
 dah
+dahabeahs
 dahabiah
 daidzein
 daiker
@@ -9323,6 +9329,7 @@ epimysia
 epinasties
 epineuria
 epineurium
+epiphenomenon
 epiphyses
 epiphytically
 epiphytologies
@@ -9615,6 +9622,7 @@ evolutionist
 ewe
 ewes
 exacters
+exactness
 exaggeratedness
 exaggerator
 exahertz
@@ -10717,6 +10725,7 @@ footpaces
 footpad
 footpath
 footrest
+footslogger
 footsoreness
 footstall
 footstones
@@ -11299,6 +11308,7 @@ garland
 garlic
 garlickier
 garlicky
+garmenting
 garote
 garoted
 garotes
@@ -11499,6 +11509,7 @@ gesturer
 gesturing
 getting
 geum
+gewgawed
 geyserites
 gharris
 ghastfully
@@ -11579,6 +11590,7 @@ giveaway
 givers
 gizmos
 glabellae
+glabrate
 glaceed
 glaceing
 glaciating
@@ -14598,6 +14610,7 @@ isogamete
 isogeneic
 isogenic
 isogenies
+isoglossic
 isogon
 isogones
 isogonic
@@ -16287,6 +16300,7 @@ malarkeys
 malarky
 malaromas
 maldistribution
+maledictory
 malefactors
 maleficences
 malemiut
@@ -18133,6 +18147,7 @@ necrose
 necrosing
 necrotizes
 nectarine
+nectarines
 nectarous
 needier
 neediness
@@ -18301,6 +18316,7 @@ nielloed
 nieve
 niffering
 niftily
+niggarding
 nigglers
 nighest
 nighs
@@ -18974,6 +18990,7 @@ oldwife
 oleaginous
 oleanders
 oleaster
+olefine
 olefines
 oleic
 olestras
@@ -20031,6 +20048,7 @@ panty
 pantyhose
 panzer
 pap
+papa
 papacy
 papadom
 papains
@@ -20300,6 +20318,7 @@ peaky
 pealike
 pearl
 pearlescence
+pearlescent
 pearliest
 pearlites
 pearlized
@@ -21669,6 +21688,7 @@ prearranged
 prearranging
 prebend
 prebendaries
+prebiblical
 prebidden
 preblessing
 preboiled
@@ -21797,6 +21817,7 @@ prejudiced
 prekindergarten
 prelaw
 prelegal
+prelibation
 prelives
 prelocate
 prelocates
@@ -22061,6 +22082,7 @@ procreating
 procreator
 procrustean
 proctologies
+proctored
 proctors
 procure
 procurement
@@ -25195,6 +25217,7 @@ secondarily
 seconder
 seconding
 seconds
+secretion
 secretively
 secretor
 secretors
@@ -25229,6 +25252,7 @@ seedbeds
 seedcakes
 seedily
 seedlings
+seedstock
 seedtime
 seedy
 seeing
@@ -25424,6 +25448,7 @@ sericulture
 sericulturist
 sericulturists
 serifed
+serine
 seriousnesses
 sermonizer
 sermonizers
@@ -26368,6 +26393,7 @@ soccer
 sociably
 socialises
 socialist
+socialistic
 socialities
 socializations
 socialize
@@ -26735,6 +26761,7 @@ spindlier
 spined
 spinifexes
 spinless
+spinnaker
 spinnerets
 spinney
 spins
@@ -26756,6 +26783,7 @@ spirited
 spiritism
 spiritist
 spiritualnesses
+spirituous
 spirochetes
 spirogyra
 spirometer
@@ -27365,6 +27393,7 @@ stroller
 stroma
 strongest
 strongman
+strongyloidosis
 stropped
 stroppers
 strops
@@ -28736,6 +28765,7 @@ thromboembolic
 thromboembolism
 thromboplastic
 thromboxane
+thromboxanes
 throned
 throttles
 through
@@ -29111,6 +29141,7 @@ townish
 townscapes
 townwear
 towpaths
+towplanes
 towsack
 toxaphene
 toxemic
@@ -29277,6 +29308,7 @@ treacliest
 treader
 treading
 treasurership
+treasuries
 treasuring
 treasury
 treatises
@@ -29796,6 +29828,7 @@ unabsorbed
 unabusive
 unacademic
 unaccented
+unaccrued
 unactorish
 unadeptly
 unadulteratedly
@@ -30869,6 +30902,7 @@ verity
 vermeil
 vermiculate
 vermifuges
+vermilion
 vermilioning
 vermuth
 vernacularism
@@ -31103,6 +31137,7 @@ volcanological
 volcanologists
 voled
 volitive
+volkslieder
 volleyed
 volplane
 voltage
