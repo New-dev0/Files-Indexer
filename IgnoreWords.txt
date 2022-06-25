@@ -380,6 +380,7 @@ affectivities
 affenpinschers
 affiance
 affiche
+affiches
 afficionado
 affidavits
 affinity
@@ -1772,6 +1773,7 @@ auscultated
 ausform
 auspicated
 auspicates
+auspicating
 auspiciousness
 austerity
 autacoids
@@ -1984,6 +1986,7 @@ badinages
 badman
 badmen
 badmintons
+badmouth
 bafflements
 bagatelle
 baggies
@@ -2147,6 +2150,7 @@ barterer
 bartisan
 bas
 basaltes
+baseboards
 baseless
 baseliners
 basely
@@ -2987,6 +2991,7 @@ bolognas
 bolographs
 bolometers
 bolometrically
+bolos
 bolshevized
 bolshies
 boltlike
@@ -4144,6 +4149,7 @@ catechizations
 catechized
 catecholamine
 catechols
+categorised
 categorising
 catenaries
 catenates
@@ -11344,6 +11350,7 @@ genomes
 genotype
 genteel
 genteelness
+genteelnesses
 gentian
 gentlemanliness
 gentlemen
@@ -12163,6 +12170,7 @@ hadjee
 hadji
 hadron
 haecceity
+haemal
 haematin
 haemic
 haemoid
@@ -12258,6 +12266,7 @@ handcrafting
 handedness
 handfasts
 handhelds
+handhold
 handicapping
 handkerchieves
 handled
@@ -13051,6 +13060,7 @@ hoydening
 hubbub
 hubby
 huddler
+hueless
 huffed
 huffing
 hugger
@@ -13686,6 +13696,7 @@ incorrigible
 incorrupted
 incorruptibles
 incorruptly
+incredibly
 incross
 incrossing
 incrustations
@@ -13977,6 +13988,7 @@ innovations
 innovative
 innovativeness
 innovator
+innuendo
 innumeracies
 innumerate
 inoculation
@@ -14384,6 +14396,7 @@ ipecac
 irade
 ire
 ireless
+irenic
 irenical
 irides
 iridescences
@@ -15644,6 +15657,7 @@ linters
 linting
 lintols
 lintwhites
+lionhearted
 lionisers
 lions
 lip
@@ -16275,6 +16289,7 @@ marble
 marbleize
 marbleizing
 marblers
+marbling
 marbly
 marches
 marchese
@@ -16519,6 +16534,7 @@ medulla
 medullar
 medullated
 medusa
+medusae
 meekly
 meetness
 meets
@@ -16653,6 +16669,7 @@ merls
 meromorphic
 meropic
 merrily
+merriments
 merriness
 merrinesses
 mesclun
@@ -16782,6 +16799,7 @@ microbic
 microbiological
 microbreweries
 microcap
+microclimate
 microcomputers
 microcopy
 microcosm
@@ -16976,6 +16994,7 @@ minimalists
 minimals
 minimax
 mining
+minipills
 miniscule
 miniscules
 miniski
@@ -17460,6 +17479,7 @@ moorage
 moorages
 moored
 moorfowls
+mooriest
 mopboards
 moper
 mopey
@@ -17682,6 +17702,7 @@ multiuser
 multivariate
 multiversity
 multiwall
+mumbled
 mumbling
 mummeries
 mummification
@@ -18089,6 +18110,7 @@ newsletter
 newsmakers
 newsman
 newsmongers
+newspersons
 newsstand
 newsworthy
 newt
@@ -18383,6 +18405,7 @@ nonminority
 nonmodern
 nonmotility
 nonmunicipal
+nonnatives
 nonnatural
 nonnecessities
 nonnoble
@@ -18898,6 +18921,7 @@ opined
 opinionated
 opioids
 opisthobranch
+opiums
 oppilate
 opponency
 opportunely
@@ -19140,6 +19164,7 @@ outdodge
 outdoers
 outdressed
 outdriving
+outdueling
 outearned
 outeat
 outfabling
@@ -22547,6 +22572,7 @@ radiolarians
 radiologically
 radiolyses
 radiomen
+radiometer
 radionuclides
 radiophone
 radioprotection
@@ -22632,6 +22658,7 @@ rankled
 ransomer
 ransomers
 ransoms
+rant
 rants
 rapacities
 raper
@@ -25779,6 +25806,7 @@ skywriting
 slabbing
 slack
 slackeners
+slackest
 slacks
 slaggier
 slaggiest
@@ -26311,6 +26339,7 @@ spacially
 spaciest
 spaciously
 spaciousnesses
+spackle
 spackles
 spaded
 spadework
@@ -26457,6 +26486,7 @@ spiks
 spiky
 spilings
 spilling
+spillover
 spilths
 spinachy
 spindle
@@ -26777,6 +26807,7 @@ stavudines
 stay
 staysails
 stead
+steadfastly
 steadfastnesses
 steadings
 stealers
@@ -27730,6 +27761,7 @@ sweetened
 sweetens
 sweetheart
 sweethearts
+sweetly
 sweetshop
 sweetsops
 sweptback
@@ -30888,6 +30920,7 @@ wagered
 wagering
 wagers
 wages
+waggery
 wagonages
 wagons
 wags
@@ -30948,6 +30981,7 @@ wareroom
 warfares
 warhorse
 wariness
+warison
 warisons
 warless
 warlike
@@ -31579,6 +31613,7 @@ yantra
 yaps
 yar
 yardage
+yardages
 yardarm
 yarder
 yards
