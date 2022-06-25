@@ -1108,6 +1108,7 @@ antilynching
 antimacassars
 antimarket
 antimeres
+antimeric
 antimetabolic
 antimetabolites
 antimilitarism
@@ -1323,6 +1324,7 @@ approbates
 appropriated
 appropriations
 approximate
+approximated
 approximation
 approximations
 appulses
@@ -1535,6 +1537,7 @@ ascomycete
 ascorbate
 ascorbic
 ascribable
+ascribe
 ash
 ashcake
 ashcakes
@@ -2014,6 +2017,7 @@ balers
 balkanization
 balkier
 balkily
+balkiness
 balladists
 ballads
 ballasters
@@ -2235,6 +2239,7 @@ beadrolls
 beadwork
 beaked
 beakless
+beamed
 beamishly
 beaning
 beano
@@ -2445,6 +2450,7 @@ benzidines
 benzoates
 benzocaines
 benzoic
+benzoles
 bepainting
 berated
 berberin
@@ -3006,6 +3012,7 @@ bongoes
 bonhomies
 bonitas
 bonnocks
+bonsai
 bonspells
 bonuses
 boob
@@ -4355,6 +4362,7 @@ champleve
 chance
 chancellorship
 chanciest
+chancres
 chancroid
 chandelled
 chandlers
@@ -5020,6 +5028,7 @@ cobber
 cobbles
 cobblestones
 cobby
+cobnut
 cobnuts
 cocainization
 cocaptains
@@ -5242,6 +5251,7 @@ coloni
 colonialisms
 colonialistic
 colonialists
+colonies
 colonisation
 colonised
 colonization
@@ -6994,6 +7004,7 @@ definitenesses
 definitively
 definitives
 definitizing
+deflagrations
 deflates
 deflation
 deflations
@@ -8240,6 +8251,7 @@ doxorubicins
 doyens
 doyly
 dozening
+doziness
 dozy
 drabness
 drabnesses
@@ -9546,6 +9558,7 @@ excerpt
 excerpter
 excerpting
 excerpts
+excess
 exchanging
 excide
 excised
@@ -10147,6 +10160,7 @@ fico
 fictional
 fictionalised
 fictionist
+fictitious
 fiddlehead
 fiduciaries
 fiduciary
@@ -10554,6 +10568,7 @@ foetus
 fogbound
 fogdog
 fogdogs
+fogeyisms
 fogged
 foggiest
 fogyish
@@ -11100,6 +11115,7 @@ galenical
 galenite
 galenites
 gales
+galette
 galettes
 galingale
 galiots
@@ -11538,6 +11554,7 @@ glisten
 glister
 glistering
 glitter
+glittered
 gloamings
 gloater
 gloaters
@@ -11693,6 +11710,7 @@ gooseberries
 goosegrasses
 gooseherds
 gorbellies
+gorblimy
 gorcock
 gorditas
 gorgeousness
@@ -12887,6 +12905,7 @@ honeysuckle
 hongied
 honied
 honkers
+honkies
 honorableness
 honorably
 honorand
@@ -14252,6 +14271,7 @@ intradermally
 intranets
 intransigent
 intransigents
+intraocular
 intrapersonal
 intreat
 intrenching
@@ -16201,6 +16221,7 @@ manifestly
 manifoldnesses
 manilas
 manilla
+maniocas
 maniocs
 maniple
 manipulability
@@ -16932,6 +16953,7 @@ minciest
 mind
 mindedness
 mindful
+mindless
 mineral
 mineralised
 mineralizable
@@ -17346,6 +17368,7 @@ monodies
 monodisperse
 monodrama
 monody
+monoecious
 monofils
 monogamic
 monogamies
@@ -19558,6 +19581,7 @@ overtnesses
 overtoiled
 overtrain
 overturn
+overuse
 overusing
 overvoltages
 overwarmed
@@ -19900,6 +19924,7 @@ paratroops
 parawings
 parboiled
 parboiling
+parbuckle
 parbuckling
 parcel
 parch
@@ -21656,6 +21681,7 @@ presidentship
 presidentships
 presider
 presidia
+presidiary
 presifts
 presignaling
 presignalling
@@ -21801,6 +21827,7 @@ probabilist
 probationally
 probationary
 probe
+probenecid
 probities
 problem
 problematics
@@ -21830,6 +21857,7 @@ prodigy
 prodromata
 produced
 producers
+produces
 productivity
 profanation
 profanatory
@@ -24517,6 +24545,7 @@ sapraemias
 sapremias
 saprobe
 saprobes
+sapropel
 sapropels
 sapwood
 sarabands
@@ -27006,6 +27035,7 @@ streetwise
 strengthen
 strengthener
 strenuosities
+streptobacilli
 streptolysin
 streptothricin
 stressfully
@@ -28880,6 +28910,7 @@ transfixt
 transformation
 transgresses
 transgressive
+transgressor
 transhipping
 transients
 transilluminate
@@ -29921,6 +29952,7 @@ unloads
 unlocks
 unloosed
 unloosened
+unloosening
 unloved
 unloveliest
 unlovely
@@ -30637,6 +30669,7 @@ vindictiveness
 vined
 vinegarish
 vineyard
+vinicultures
 viniferas
 vining
 vinosity
@@ -31101,6 +31134,7 @@ whenever
 whensoever
 whereinto
 whereto
+wherewiths
 whether
 whey
 wheys
@@ -31539,6 +31573,7 @@ yahrzeit
 yaird
 yald
 yammer
+yammering
 yang
 yantra
 yaps
