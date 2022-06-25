@@ -2245,6 +2245,7 @@ beadledoms
 beadroll
 beadrolls
 beadwork
+beady
 beaked
 beakless
 beamed
@@ -2352,6 +2353,7 @@ befingered
 befingering
 befit
 beflagging
+beflea
 befleck
 befringe
 befuddle
@@ -6911,6 +6913,7 @@ deciduate
 decile
 decimate
 decimates
+decimation
 decipherment
 deciphers
 deckers
@@ -9132,6 +9135,7 @@ ensnare
 ensnaring
 ensorcel
 ensorcellments
+ensouled
 ensphere
 ensphered
 enstatite
@@ -9899,6 +9903,7 @@ faiths
 fakery
 fakirs
 falafels
+falbalas
 falconries
 falderal
 falderals
@@ -10308,6 +10313,7 @@ firebrick
 fireclay
 fireclays
 firefanged
+fireflies
 firefly
 firehall
 firepan
@@ -12689,6 +12695,7 @@ hes
 hesitance
 hetaeric
 hetairas
+heterocycles
 heterocyclic
 heterocyst
 heterocysts
@@ -13421,6 +13428,7 @@ ilex
 ilia
 illegalities
 illegibility
+illegitimacies
 illiberalness
 illicitly
 illimitable
@@ -13772,6 +13780,7 @@ incusing
 indebted
 indecency
 indecent
+indecipherable
 indecision
 indecisiveness
 indecomposable
@@ -15530,6 +15539,7 @@ lentil
 lentils
 leotard
 lepers
+lepidopteran
 lepidopterology
 lepidotes
 leprechaun
@@ -15647,6 +15657,7 @@ lightfaces
 lightfast
 lighthearted
 lightplane
+lightwave
 lignan
 lignite
 lignosulfonates
@@ -16051,6 +16062,7 @@ lunies
 lunkers
 lunks
 lunting
+lunulated
 lunule
 lupulins
 lurching
@@ -17244,6 +17256,7 @@ misprograms
 mispronounced
 mispronounces
 misquotes
+misrated
 misreckons
 misrecord
 misrecorded
@@ -17693,6 +17706,7 @@ mudflow
 mudpuppies
 mudrooms
 mudslinger
+mudslinging
 mudslingings
 mueddin
 muenster
@@ -17978,6 +17992,7 @@ nasturtium
 natal
 natations
 natatoriums
+nationalised
 nationally
 nationhood
 native
@@ -18748,6 +18763,7 @@ obsessions
 obsessive
 obsessively
 obsessors
+obsolescence
 obstetricians
 obstinately
 obstinatenesses
@@ -19716,6 +19732,7 @@ oxbows
 oxcart
 oxen
 oxeye
+oxfords
 oxidable
 oxidant
 oxidate
@@ -20566,6 +20583,7 @@ phalansteries
 phalli
 phallisms
 phallists
+phallus
 phanerophyte
 phantasmagoric
 pharisaic
@@ -21622,6 +21640,7 @@ predestining
 predetermine
 predetermines
 predevelopment
+predicaments
 predicates
 predictably
 predictive
@@ -22942,6 +22961,7 @@ recalls
 recanalization
 recanalized
 recanalizes
+recaned
 recanes
 recanter
 recanting
@@ -23810,6 +23830,7 @@ ressentiments
 restable
 restack
 restaffed
+restaged
 restartable
 restatements
 restationed
@@ -24059,6 +24080,7 @@ rheumatoid
 rheumatologist
 rheumier
 rheumiest
+rhinal
 rhinencephalon
 rhinestoned
 rhizobial
@@ -24097,6 +24119,7 @@ ribosomes
 ribworts
 ricercari
 richen
+richened
 richer
 riches
 ricin
@@ -24573,6 +24596,7 @@ salts
 saltwater
 salutary
 salutatorian
+salutatories
 salute
 salvageability
 salvagers
@@ -24699,6 +24723,7 @@ satiate
 satiating
 satires
 satirists
+satirize
 satisfaction
 satisfiable
 satisficed
@@ -24939,6 +24964,7 @@ scraighed
 scrambles
 scrannels
 scrap
+scrapbooks
 scrapheaps
 scrapies
 scrappage
@@ -25001,6 +25027,7 @@ sculls
 sculped
 sculping
 sculpturally
+sculpturesque
 scummer
 scummers
 scunnered
@@ -25508,6 +25535,7 @@ shipmaster
 shipmasters
 shipmates
 shipment
+shipping
 ships
 shipsides
 shipwrecked
@@ -25723,6 +25751,7 @@ siliques
 siliquose
 silkalines
 silkiest
+silkweed
 silliness
 silurid
 silvas
@@ -25804,6 +25833,7 @@ sitosterols
 sitting
 sittings
 situate
+situated
 situp
 situses
 sixteens
@@ -26049,6 +26079,7 @@ smallage
 smallclothes
 smallholder
 smallholding
+smallmouth
 smallswords
 smalts
 smaragdite
@@ -27863,6 +27894,7 @@ sweetsops
 sweptback
 swerve
 swidden
+swiddens
 swifter
 swiftness
 swig
@@ -27913,6 +27945,7 @@ sycophantisms
 syenites
 syenitic
 syke
+syllabi
 syllabicated
 syllabisms
 syllabize
@@ -29858,6 +29891,7 @@ underpart
 underpasses
 underpins
 underplot
+underpropping
 underreacting
 underreport
 underreports
@@ -30901,6 +30935,7 @@ vizcacha
 vizirate
 vocabs
 vocabular
+vocalese
 vocalically
 vocalise
 vocalised
