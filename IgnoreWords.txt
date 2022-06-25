@@ -478,6 +478,7 @@ agraphia
 agree
 agreement
 agreements
+agribusinessman
 agribusinessmen
 agriculturists
 agroforester
@@ -879,6 +880,7 @@ analgesic
 analgetics
 analogical
 analogically
+analogizing
 analogousness
 analogousnesses
 analogs
@@ -2608,6 +2610,7 @@ bilobed
 biltong
 bimas
 bimbette
+bimbo
 bimboes
 bimensal
 bimester
@@ -3327,6 +3330,7 @@ bromals
 bromated
 bromating
 bromeliad
+bromelin
 brominated
 brominations
 bromine
@@ -4661,6 +4665,7 @@ chresards
 chrestomathies
 chrismons
 christening
+christies
 chroma
 chromates
 chromaticism
@@ -4980,6 +4985,7 @@ coagulants
 coagulase
 coagulate
 coalescing
+coaliest
 coalified
 coalifying
 coaly
@@ -5498,6 +5504,7 @@ conductive
 conductivity
 coneflower
 coneflowers
+conenose
 conepatls
 confab
 confabbed
@@ -6815,6 +6822,7 @@ debits
 deboned
 debriefed
 debs
+debtors
 debuggers
 debunker
 debye
@@ -7716,6 +7724,7 @@ disapproval
 disapprover
 disarmament
 disarmer
+disarmingly
 disarticulated
 disassembling
 disassociate
@@ -8433,6 +8442,7 @@ duologue
 duopsonies
 dup
 dupery
+duplexers
 duplicator
 dupped
 dupping
@@ -8506,6 +8516,7 @@ dyspnea
 dyspnoea
 dyspnoeas
 dysrhythmia
+dysthymia
 dystocias
 dystopias
 dystrophy
@@ -10618,6 +10629,7 @@ forays
 forbearing
 forbears
 forbids
+forby
 force
 forceless
 forcemeats
@@ -11082,6 +11094,7 @@ galactosemia
 galateas
 galax
 galeas
+galeate
 galenas
 galenical
 galenite
@@ -13683,6 +13696,7 @@ indecent
 indecision
 indecisiveness
 indecomposable
+indecorums
 indefeasible
 indefectible
 indefectibly
@@ -14611,6 +14625,7 @@ jewelries
 jewfish
 jezail
 jibbed
+jibber
 jibbers
 jibes
 jiff
@@ -16797,6 +16812,7 @@ microsporangia
 microsporangium
 microspore
 microswitch
+microtechnique
 microvolt
 microwatts
 microwavable
@@ -19180,6 +19196,7 @@ outmuscle
 outmuscled
 outpace
 outpatients
+outplace
 outpointing
 outpoints
 outpoliticks
@@ -20145,6 +20162,7 @@ pemphixes
 pen
 penal
 penalise
+penalized
 penalty
 pencel
 pencels
@@ -21072,6 +21090,7 @@ polarises
 polarising
 polarities
 polarity
+polarized
 polder
 polecats
 polemics
@@ -22478,6 +22497,7 @@ radars
 radarscopes
 raddles
 radiale
+radiancies
 radiating
 radiation
 radiationless
@@ -22861,6 +22881,8 @@ recommendable
 recommendatory
 recommissioning
 recommitments
+recommits
+recommitting
 recompensed
 recompenses
 recomputed
@@ -23787,6 +23809,7 @@ retypes
 reunification
 reunions
 reunited
+reupholstering
 reused
 reuses
 reutilizes
@@ -24623,6 +24646,7 @@ scanties
 scantiest
 scantinesses
 scapegoat
+scaping
 scapose
 scar
 scare
@@ -24655,6 +24679,7 @@ scaurs
 scavengers
 scavenging
 scenas
+scenery
 scenical
 scepter
 sceptic
@@ -25413,6 +25438,7 @@ shovelful
 shoveling
 shoving
 showable
+showbizzes
 showboat
 showdown
 showed
@@ -25664,6 +25690,7 @@ skerries
 skerry
 sketchpads
 skew
+skewbacks
 skewbald
 skewed
 skewer
@@ -25777,6 +25804,7 @@ slily
 slim
 slimly
 slimmed
+slimming
 slimnastics
 slims
 slingback
@@ -27561,6 +27589,7 @@ supremenesses
 supremest
 supremos
 sura
+surahs
 sural
 suras
 surbased
@@ -27696,6 +27725,7 @@ swishes
 swishing
 swiss
 switchbacks
+switchboards
 switcheroo
 switcheroos
 switchyard
@@ -27894,6 +27924,7 @@ talkier
 talky
 tall
 tallaisim
+tallithes
 tallitim
 tallows
 tallowy
@@ -28113,6 +28144,7 @@ tellingly
 tells
 tellurions
 tellurium
+tellurometers
 telome
 telomere
 telophases
@@ -29138,6 +29170,7 @@ trueloves
 truism
 trumeau
 trump
+trumperies
 trumpeted
 trumpeter
 truncating
@@ -29673,6 +29706,7 @@ undersized
 undersold
 understaffing
 understandable
+understatements
 understates
 understating
 understrength
@@ -31514,6 +31548,7 @@ yardarm
 yarder
 yards
 yardstick
+yare
 yarmelke
 yarrows
 yashmac
