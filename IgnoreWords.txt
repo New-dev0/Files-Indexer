@@ -460,6 +460,7 @@ agnosticisms
 agonal
 agonic
 agonise
+agonize
 agorae
 agoraphobia
 agoras
@@ -1074,6 +1075,7 @@ antifat
 antiforeigner
 antifouling
 antifriction
+antigang
 antigenic
 antigenically
 antigraft
@@ -1704,6 +1706,7 @@ attitudinised
 attorneyship
 attorneyships
 attract
+attractants
 attrite
 attrites
 attritted
@@ -2887,6 +2890,7 @@ bo
 boarder
 boardinghouses
 boardlike
+boardrooms
 boarfish
 boarhound
 boas
@@ -2944,6 +2948,7 @@ boite
 boites
 bolas
 bolder
+boldfaced
 boldfaces
 boldly
 boldness
@@ -3684,6 +3689,7 @@ caliginous
 calipee
 caliph
 calix
+calkers
 calking
 call
 callaloo
@@ -7054,6 +7060,7 @@ delve
 delver
 demagnetization
 demagnetizing
+demagog
 demagogically
 demagogueries
 demagoguing
@@ -8237,6 +8244,7 @@ drenched
 drenches
 dressy
 dribblets
+dribbly
 driblets
 driegh
 driftage
@@ -8544,6 +8552,7 @@ ectoplasms
 ectype
 ecumenically
 ecumenicism
+ecumenicist
 ecumenicities
 ecumenicity
 ecumenism
@@ -10332,6 +10341,7 @@ fleshpot
 fleuron
 flextimes
 flexuose
+fley
 flickery
 flights
 flimflammers
@@ -11244,6 +11254,7 @@ genotype
 genteel
 genteelness
 gentian
+gentlemanliness
 gentlemen
 gentler
 gentoo
@@ -11775,6 +11786,7 @@ greensick
 greensickness
 greenstuffs
 greensward
+greenths
 greenwing
 greenwoods
 grees
@@ -11987,6 +11999,7 @@ gurshes
 gushingly
 gustable
 gustily
+gustinesses
 gusto
 gustoes
 gutlessness
@@ -12146,6 +12159,7 @@ handedness
 handfasts
 handhelds
 handicapping
+handkerchieves
 handled
 handless
 handlist
@@ -12927,6 +12941,7 @@ howdie
 however
 howffs
 howked
+hoya
 hoydened
 hoydening
 hubbub
@@ -12962,6 +12977,7 @@ humidex
 humidifications
 humidistat
 humidities
+humidnesses
 humiture
 humitures
 hummocks
@@ -13566,6 +13582,7 @@ incrossing
 incrustations
 incrusted
 incubates
+incubations
 incubators
 incudate
 inculcators
@@ -15372,6 +15389,7 @@ ley
 lezzes
 lezzy
 liaise
+lianes
 libecchio
 libeled
 libelers
@@ -16442,6 +16460,7 @@ memes
 memetics
 memo
 memorably
+memorialises
 memorialising
 memorialists
 memorialized
@@ -17246,6 +17265,7 @@ monopody
 monopolies
 monopolise
 monopolises
+monopolist
 monopsonies
 monopsonistic
 monopsony
@@ -18470,6 +18490,7 @@ obliged
 obligingness
 obliqued
 obliquely
+obliterated
 obliterative
 obliterator
 obnubilates
@@ -19988,6 +20009,7 @@ peesweep
 peeve
 peewees
 peglike
+pegmatites
 pehs
 peignoir
 peignoirs
@@ -20905,6 +20927,7 @@ poinded
 pointillism
 pointillisms
 pointillist
+pointlessly
 pointmen
 points
 pointy
@@ -22343,6 +22366,7 @@ radiomen
 radionuclides
 radiophone
 radioprotection
+radiosensitive
 radiotelephones
 radiothoriums
 radishes
@@ -22697,6 +22721,7 @@ recombinational
 recombing
 recommencement
 recommences
+recommendable
 recommendatory
 recommissioning
 recommitments
@@ -23421,6 +23446,7 @@ reshowing
 reshuffled
 reshuffling
 residence
+resident
 residua
 residuals
 resighting
@@ -23495,6 +23521,7 @@ restiform
 restimulated
 restitched
 restitute
+restlessness
 restock
 restocked
 restocks
@@ -23559,6 +23586,7 @@ retexturing
 rethinker
 rethinkers
 rethreaded
+retiarii
 reticulate
 reticulately
 reticulates
@@ -23682,6 +23710,7 @@ revolutionaries
 revolve
 revulsive
 revving
+rewaken
 rewakening
 rewakes
 rewan
@@ -23908,6 +23937,7 @@ rollaway
 rolling
 rollings
 rollways
+rom
 romanos
 romans
 romanticises
@@ -25888,6 +25918,7 @@ soften
 softens
 softheaded
 softies
+sogged
 sogginesses
 soignee
 soiling
@@ -25936,6 +25967,7 @@ solitudinarians
 sollerets
 soloistic
 solonchak
+solonetz
 solonetzes
 solstices
 solubilise
@@ -26900,6 +26932,7 @@ stylizing
 stylography
 stylolites
 stylopodia
+stylopodium
 stylus
 styluses
 stymie
@@ -28137,6 +28170,7 @@ thicksets
 thievery
 thimble
 thindowns
+thingamabob
 thinkably
 thinker
 thinkingnesses
@@ -29066,6 +29100,7 @@ turnvereins
 turpentine
 turquoises
 turtleback
+tusker
 tuskers
 tuskless
 tussahs
