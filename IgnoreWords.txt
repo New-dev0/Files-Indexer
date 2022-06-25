@@ -295,6 +295,7 @@ administrator
 admiral
 admirals
 admiralties
+admirer
 admissibilities
 admittance
 admix
@@ -4170,6 +4171,7 @@ causeys
 cauterants
 cautioners
 cavaliered
+cavalierly
 cavaliers
 cavalry
 cavatine
@@ -5676,6 +5678,7 @@ conterminously
 contes
 contestants
 contextures
+contiguously
 continentals
 continently
 contingencies
@@ -7389,6 +7392,7 @@ dextrorotary
 dextrorse
 dextroses
 dexy
+dhoolies
 dhootis
 dhurna
 diabase
@@ -8758,6 +8762,7 @@ embalming
 embalmment
 embanked
 embankments
+embanks
 embargoing
 embark
 embarking
@@ -10333,6 +10338,7 @@ flax
 flay
 flayer
 flayers
+fleahopper
 fleaworts
 fleche
 fleches
@@ -10368,6 +10374,7 @@ flinging
 flinted
 flintiest
 flintiness
+flintlock
 flirted
 flite
 flited
@@ -10965,6 +10972,7 @@ furcraeas
 furler
 furlers
 furless
+furmity
 furnace
 furnaced
 furnishers
@@ -11304,6 +11312,7 @@ geopolitics
 geoponics
 georgette
 georgettes
+geosynclinal
 geotropisms
 gerah
 geranial
@@ -12676,6 +12685,7 @@ hitchhiker
 hitchhiking
 hitherto
 hitters
+hiveless
 hoarders
 hoardings
 hoariness
@@ -13383,6 +13393,7 @@ imparking
 imparted
 impartialities
 impartially
+impassable
 impassibilities
 impassibly
 impasted
@@ -13456,6 +13467,7 @@ impregnators
 impregns
 impresses
 impressibility
+impression
 impressiveness
 impressures
 imprint
@@ -14843,6 +14855,7 @@ kickboxed
 kickier
 kickstarted
 kicky
+kidders
 kiddo
 kidnaper
 kidnappees
@@ -15669,6 +15682,7 @@ locution
 lodestar
 lodestars
 lodgement
+lodger
 lodging
 lodicule
 lodicules
@@ -16182,6 +16196,7 @@ margins
 margravate
 marguerite
 mariculturists
+marinade
 marinades
 marination
 marine
@@ -18054,6 +18069,7 @@ nitrosamine
 nitrous
 nittier
 nixies
+nob
 nobbiest
 nobility
 noble
@@ -19319,6 +19335,7 @@ overgild
 overgilds
 overglamorize
 overglaze
+overgrazed
 overgreat
 overgrows
 overgrowths
@@ -19655,6 +19672,7 @@ paly
 pampa
 pampeans
 pamphleteered
+pams
 panatella
 pancaked
 pancetta
@@ -20118,6 +20136,7 @@ pepino
 peponium
 pepperbox
 pepperboxes
+peppertrees
 peppiness
 peptid
 peptizes
@@ -20393,6 +20412,7 @@ phlogiston
 phlogistons
 phlorizin
 phlorizins
+phloxes
 phlyctena
 phobia
 phonal
@@ -20541,6 +20561,7 @@ pickaninnies
 pickaroon
 pickaxe
 pickaxed
+pickerels
 picketboat
 picketer
 pickinesses
@@ -21326,6 +21347,7 @@ prebuilds
 prebuying
 precancer
 precede
+precensor
 precensoring
 precensors
 precenting
@@ -21554,6 +21576,7 @@ prestrike
 presumes
 presumingly
 presummit
+presurveys
 presweetening
 presymptomatic
 presynaptic
@@ -21808,6 +21831,7 @@ prophetical
 prophylaxes
 propitiate
 propitiated
+propitiators
 propitiously
 propitiousness
 propjet
@@ -21927,6 +21951,7 @@ psalms
 psalter
 psephite
 psephites
+pseudocoels
 pseudomonas
 pseudomorphism
 pseudopodia
@@ -24005,6 +24030,7 @@ roseate
 roseately
 rosefishes
 rosehip
+roseolas
 roseries
 roseroot
 roseroots
@@ -24243,6 +24269,7 @@ sailboater
 sailing
 sails
 saimin
+saintdom
 sainted
 saintliest
 saintships
@@ -24934,6 +24961,7 @@ senselessness
 sensibler
 sensiblest
 sensitise
+sensitizing
 sensual
 sensualize
 sensualized
@@ -25094,6 +25122,7 @@ shakiest
 shakiness
 shako
 shall
+shallower
 shallows
 shamanic
 shamble
@@ -28353,6 +28382,7 @@ tilde
 tiler
 tiling
 tillites
+tilted
 tilters
 tiltrotor
 tilts
@@ -28565,6 +28595,7 @@ torquers
 torrefies
 torrentially
 torrid
+torrifying
 torsi
 torso
 torsos
@@ -29156,6 +29187,7 @@ tuxedos
 tuyer
 tuyeres
 twaes
+twattle
 tweak
 tweaky
 tweed
@@ -29783,6 +29815,7 @@ unmuffling
 unnails
 unnaturalness
 unnervingly
+unobservable
 unorganized
 unpack
 unpainful
@@ -29834,6 +29867,7 @@ unredeemable
 unreel
 unreels
 unreeves
+unreeving
 unregenerate
 unrelenting
 unremarkably
@@ -31278,6 +31312,7 @@ wrasse
 wrastled
 wrath
 wrathiest
+wrathily
 wreakers
 wreaking
 wreaks
