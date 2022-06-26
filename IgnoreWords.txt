@@ -2695,6 +2695,7 @@ biomathematics
 biome
 biometers
 biometricians
+biomolecules
 biomorphic
 bionts
 biophysics
@@ -5121,6 +5122,7 @@ cockleburs
 cockscomb
 cockshy
 cockspur
+cocktail
 cockup
 cocomat
 cocoon
@@ -5753,6 +5755,7 @@ consultancies
 consultantships
 consulted
 consulting
+consumer
 consumes
 consummative
 consumptively
@@ -6145,6 +6148,7 @@ couplet
 coupons
 courier
 courlan
+courlans
 courseware
 courteousness
 courtesies
@@ -7344,6 +7348,7 @@ depravedness
 deprecates
 deprecatingly
 deprecations
+deprecatorily
 depreciates
 depreciatingly
 depreciation
@@ -8482,6 +8487,7 @@ drubbings
 drudging
 druggie
 druggier
+druggist
 druggy
 drumbeaters
 drumbeatings
@@ -11873,6 +11879,7 @@ gormandising
 gormandize
 gormands
 gormed
+gormless
 gorp
 gosling
 gossip
@@ -12460,6 +12467,7 @@ haptenes
 harangued
 harangues
 harboring
+hard
 hardboard
 hardhat
 hardiest
@@ -12776,6 +12784,7 @@ heresy
 heretrixes
 heritor
 hermaean
+hermetic
 hermeticisms
 hermetist
 hermetists
@@ -13189,6 +13198,7 @@ hotly
 hotness
 hotrods
 hotspot
+hotspots
 hourglasses
 houri
 houseboater
@@ -13207,6 +13217,7 @@ housemaids
 housemaster
 housepainters
 houserooms
+housesits
 housewares
 houseworks
 housing
@@ -13406,6 +13417,7 @@ hyperkinesis
 hypermania
 hypermanias
 hypermarkets
+hypermetabolic
 hypermetropia
 hypermodernist
 hypermodernists
@@ -13665,6 +13677,7 @@ impeccant
 impecuniosities
 impedance
 impedes
+impellors
 impenetrable
 impenitent
 imperatorial
@@ -15487,6 +15500,7 @@ laryngitis
 laryngoscope
 laryngoscopes
 lasagnes
+lashes
 lasses
 lassoes
 lasters
@@ -15672,7 +15686,9 @@ lenten
 lenticular
 lentil
 lentils
+lentivirus
 leotard
+leotarded
 lepers
 lepidopteran
 lepidopterology
@@ -15850,6 +15866,7 @@ linguists
 lingy
 linier
 linkmen
+links
 linkups
 linnet
 linoleate
@@ -16798,6 +16815,7 @@ melanoses
 melanosome
 melanous
 melaphyres
+melatonin
 melders
 melding
 melee
@@ -17912,6 +17930,7 @@ multiparameter
 multiparty
 multipath
 multipion
+multipiston
 multiplayer
 multiples
 multiplexed
@@ -19804,6 +19823,7 @@ overreactions
 overregulate
 overregulates
 overreported
+override
 overroasted
 overroasts
 overrode
@@ -20174,6 +20194,7 @@ parallelisms
 paralysing
 paralysis
 paralytic
+paralyzers
 paramagnet
 paramagnetic
 paramattas
@@ -20280,6 +20301,7 @@ partridge
 parts
 parturitions
 partygoers
+parvenue
 parvis
 pasha
 pashalik
@@ -21112,6 +21134,7 @@ piolets
 pion
 piosity
 pipal
+pipeline
 pipelined
 piperazine
 piperonals
@@ -22743,6 +22766,7 @@ quarterstaves
 quarto
 quasicrystal
 quasiparticles
+quasiperiodic
 quassia
 quatercentenary
 quaternaries
@@ -23526,6 +23550,7 @@ refresher
 refreshers
 refreshments
 refries
+refroze
 refuge
 refulgence
 refunds
@@ -23644,6 +23669,7 @@ reinstates
 reinstating
 reinsurances
 reinsures
+reintegrations
 reinters
 reinvent
 reinventing
@@ -24473,6 +24499,7 @@ rockabilly
 rocker
 rockery
 rocketeer
+rocketeers
 rocketers
 rockhopper
 rockhounds
@@ -24617,6 +24644,7 @@ rubdown
 rubefacient
 rubeolas
 rubes
+rubicundities
 rubier
 rubiest
 rubouts
@@ -27344,6 +27372,7 @@ stoically
 stoichiometric
 stoked
 stokehold
+stokesias
 stolidest
 stolidities
 stollens
@@ -27517,6 +27546,7 @@ structuration
 structure
 structureless
 struggled
+struggles
 strummer
 strung
 strunts
@@ -28235,6 +28265,7 @@ symbologies
 symbols
 sympathetics
 sympathised
+sympathize
 sympathizer
 sympatico
 sympetalous
@@ -29487,6 +29518,7 @@ tribrach
 tribulation
 trichinoses
 trichites
+trichocyst
 trichologists
 trichome
 trichomic
@@ -29782,6 +29814,7 @@ turnvereins
 turpentine
 turquoises
 turtleback
+turtles
 tusker
 tuskers
 tuskless
@@ -30083,6 +30116,7 @@ uncoined
 uncollectibles
 uncombed
 uncomfortably
+uncomic
 uncompassionate
 uncompensated
 uncomprehended
@@ -30297,6 +30331,7 @@ unfold
 unfossiliferous
 unfreed
 unfreezes
+unfreezing
 unfriendliness
 unfrock
 unfroze
