@@ -36,6 +36,7 @@ abridgments
 abruptions
 abruptnesses
 abscisin
+abscond
 absconder
 abseils
 absentee
@@ -696,6 +697,7 @@ aloft
 aloofly
 alpenglow
 alphabet
+alphabetizing
 alphanumerical
 alphas
 alphosis
@@ -2518,6 +2520,7 @@ benzocaines
 benzoic
 benzoles
 bepainting
+bepaints
 berated
 berberin
 berberines
@@ -2901,6 +2904,7 @@ bleaches
 bleat
 bleated
 bled
+bleedings
 bleepers
 blenched
 blend
@@ -3628,6 +3632,7 @@ burlesque
 burlesquely
 burlesquer
 burlesquers
+burleys
 burling
 burly
 burnable
@@ -4276,6 +4281,7 @@ cattlemen
 catty
 caucuses
 caucusing
+caudation
 caudex
 cauld
 cauliflowerets
@@ -4950,6 +4956,7 @@ clashes
 clasping
 classable
 classicalities
+classicality
 classicists
 classico
 classiest
@@ -6498,6 +6505,7 @@ crumminesses
 crummy
 crump
 crumpet
+crumpets
 crumply
 crumps
 crunchinesses
@@ -6561,6 +6569,7 @@ cudgels
 cuds
 cue
 cueing
+cuestas
 cuffing
 cufflink
 cuif
@@ -6995,6 +7004,7 @@ decagrams
 decaliter
 decaliters
 decameter
+decametric
 decampments
 decamps
 decane
@@ -7224,6 +7234,7 @@ deindustrialize
 deinonychuses
 deionizers
 deistically
+deity
 dejecta
 dejeuners
 dekaliter
@@ -9189,6 +9200,7 @@ endosperms
 endostea
 endosteum
 endostyles
+endothelia
 endothelioma
 endothelium
 endotoxins
@@ -10050,6 +10062,7 @@ fadeless
 fadeouts
 fadlike
 fados
+faeries
 fagged
 faggotry
 faggots
@@ -13750,8 +13763,10 @@ immersible
 immersion
 immeshes
 immeshing
+immigrant
 immigrates
 immigration
+imminently
 immitigable
 immitigably
 immittance
@@ -13863,6 +13878,7 @@ impostumes
 impotently
 impound
 impounded
+impounds
 impoverishing
 imprecates
 imprecating
@@ -13880,6 +13896,7 @@ impressibility
 impression
 impressiveness
 impressures
+imprimis
 imprint
 imprinter
 improbably
@@ -15668,6 +15685,7 @@ lateral
 laterally
 laterborn
 laterize
+latest
 lather
 latherer
 lathier
@@ -16116,6 +16134,7 @@ liverishness
 liverleaf
 livers
 liverwurst
+lividnesses
 lixivia
 lixiviate
 lixiviations
@@ -16445,6 +16464,7 @@ macerator
 macers
 mach
 machetes
+machinability
 machination
 machineries
 machismo
@@ -16813,6 +16833,7 @@ matilda
 matriarchs
 matriculant
 matriculates
+matriculating
 matriculation
 matrilineally
 matrimonies
@@ -17026,6 +17047,7 @@ menadiones
 menazon
 mend
 mendelevium
+menhir
 meningococcus
 menisci
 menorrhea
@@ -17846,6 +17868,7 @@ monoplanes
 monoploids
 monopode
 monopody
+monopoles
 monopolies
 monopolise
 monopolises
@@ -18807,6 +18830,7 @@ nonflying
 nonfocal
 nonfulfillments
 nonghetto
+nonglamorous
 nonglare
 nongreen
 nonguests
@@ -19270,6 +19294,7 @@ oilcups
 oiling
 oilman
 oilpapers
+oilskin
 oilskins
 oilway
 olden
@@ -19348,6 +19373,7 @@ onyx
 oocytes
 oogamies
 oogonia
+oogonium
 oolith
 oologists
 oomiac
@@ -19357,6 +19383,7 @@ oomphs
 oophytes
 ooralis
 oosperms
+oospores
 oothecae
 ooze
 oozed
@@ -24217,6 +24244,7 @@ requiters
 reradiations
 reran
 reread
+rerebraces
 rerecorded
 reredos
 reregister
@@ -24764,6 +24792,7 @@ rocketeers
 rocketers
 rockhopper
 rockhounds
+rockshaft
 rockwork
 rode
 rodents
@@ -24890,6 +24919,7 @@ rowanberry
 rowdiest
 rowelled
 rowels
+rowen
 rower
 rowlocks
 rowths
@@ -27420,6 +27450,7 @@ stainlessly
 staircases
 stairheads
 stairlike
+stairstepping
 stairwells
 staithe
 staithes
@@ -28170,6 +28201,7 @@ suite
 suiters
 suitors
 sulfas
+sulfatases
 sulfhydryls
 sulfitic
 sulfonamides
@@ -28394,6 +28426,7 @@ surfs
 surgery
 suricate
 surimi
+surlily
 surname
 surnamer
 surnamers
@@ -29525,6 +29558,7 @@ topped
 toppr
 topsides
 topsoiling
+tora
 toras
 torchlike
 torchy
@@ -30331,6 +30365,7 @@ unanimous
 unanimously
 unannoyed
 unanswerably
+unanswered
 unappealingly
 unappetizing
 unarmed
