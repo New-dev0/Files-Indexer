@@ -1073,6 +1073,7 @@ anthodia
 anthologizers
 anthracene
 anthraquinones
+anthropoid
 anti
 antiaging
 antiaircraft
@@ -1105,6 +1106,7 @@ antifashionable
 antifashions
 antifat
 antiforeigner
+antiformalist
 antifouling
 antifriction
 antigang
@@ -1307,6 +1309,7 @@ appealingly
 appease
 appeasement
 appeasers
+appellative
 appellees
 appellors
 appels
@@ -4208,6 +4211,7 @@ catamounts
 cataphylls
 catapult
 catapulted
+catapulting
 catarrh
 catarrhally
 catboats
@@ -4505,6 +4509,7 @@ chaseable
 chasers
 chasings
 chasmed
+chassepot
 chassis
 chastener
 chaster
@@ -6723,6 +6728,7 @@ cyborg
 cycas
 cycasin
 cyclecars
+cycled
 cycler
 cyclings
 cyclitol
@@ -7732,6 +7738,7 @@ diffusive
 diffusiveness
 diffusivenesses
 diffusor
+diffusors
 digamies
 digamma
 digenesis
@@ -8903,6 +8910,7 @@ eldest
 elected
 electing
 electioneer
+electioneered
 electors
 electresses
 electroacoustic
@@ -9883,6 +9891,7 @@ explicit
 explicits
 explodes
 exploitative
+explores
 explosively
 explosiveness
 exportability
@@ -10377,6 +10386,7 @@ fighting
 fights
 figurate
 figuratively
+figured
 figurer
 fil
 filariae
@@ -10386,6 +10396,7 @@ filch
 filched
 filches
 filefishes
+filets
 filiates
 filibeg
 filibegs
@@ -12839,6 +12850,7 @@ hepatizes
 hepatoma
 hepatomas
 hepatomegaly
+hepatotoxicity
 hepcats
 heptachlor
 heptane
@@ -13456,6 +13468,7 @@ hydroxylase
 hydroxylases
 hyenas
 hygrometer
+hygrometers
 hygroscopicity
 hylozoism
 hylozoisms
@@ -14185,6 +14198,7 @@ ingloriousness
 ingraft
 ingrafting
 ingrafts
+ingrained
 ingrate
 ingratiated
 ingression
@@ -15761,6 +15775,7 @@ lek
 lekythos
 lekythus
 lemminglike
+lemonish
 lenders
 lending
 lends
@@ -16170,6 +16185,7 @@ loofas
 looie
 lookup
 looming
+looms
 loon
 looney
 looninesses
@@ -16869,6 +16885,7 @@ medullar
 medullated
 medusa
 medusae
+medusans
 meekly
 meetness
 meets
@@ -17419,9 +17436,11 @@ miscatalog
 miscataloged
 mischannelled
 mischarging
+mischievous
 misclaimed
 misclassified
 misclassifies
+misclassify
 miscoin
 miscolored
 misconduct
@@ -17706,6 +17725,7 @@ monatomic
 monaxial
 monaxons
 monellins
+monetarism
 monetization
 monetizing
 money
@@ -18514,6 +18534,7 @@ nidified
 nidifies
 niellists
 nielloed
+nielloing
 nieve
 niffering
 niftily
@@ -19072,6 +19093,7 @@ obstructionism
 obstructionisms
 obstructionists
 obstructions
+obstructs
 obstruent
 obtainers
 obtrusive
@@ -20433,6 +20455,7 @@ parturitions
 partygoers
 parvenue
 parvis
+parvolin
 pasha
 pashalik
 pasquinades
@@ -20574,6 +20597,7 @@ peculiars
 pecuniary
 pedagogy
 pedaler
+pedalier
 pedalled
 pedalling
 pedately
@@ -20885,6 +20909,7 @@ petcocks
 petechia
 petiteness
 petitioners
+petnapers
 petnaping
 petnapper
 petrale
@@ -21201,6 +21226,7 @@ pigpen
 pigpens
 pigskins
 pigsney
+pigweeds
 pikes
 pikestaff
 pikestaffs
@@ -21303,6 +21329,7 @@ pistareens
 pistolling
 pistons
 pitapat
+pitas
 pitayas
 pitcher
 pitchforks
@@ -22145,6 +22172,7 @@ prescribe
 prescribing
 prescripts
 presentations
+presented
 presentencing
 presentient
 presentments
@@ -23954,6 +23982,7 @@ renatures
 rended
 rendered
 renderers
+renditions
 renegading
 reneger
 renegers
@@ -24599,6 +24628,7 @@ riping
 ripping
 ripplet
 riprapped
+ripraps
 ripsnorter
 risker
 riskers
@@ -24861,6 +24891,7 @@ runaround
 runback
 runkled
 runkling
+running
 runoffs
 runt
 runway
@@ -24959,6 +24990,7 @@ saimin
 saintdom
 sainted
 saintliest
+saintlinesses
 saintships
 saith
 saiyid
@@ -27399,6 +27431,7 @@ steamboats
 steamed
 steamfitter
 steamroll
+steamrolling
 steamship
 stearates
 steatopygia
@@ -28021,6 +28054,7 @@ sudsier
 sudsy
 suers
 sues
+sufferable
 sufferableness
 sufferances
 sufficiencies
@@ -29262,6 +29296,7 @@ titanite
 titers
 tithing
 tithings
+titivate
 titivated
 titling
 titlist
