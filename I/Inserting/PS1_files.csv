@@ -1,0 +1,10 @@
+functions/Import-FileSegment.ps1 1.1.3 - PowerShell Gallery,https://www.powershellgallery.com/packages/SysAdminsFriends/1.1.3/Content/functions%255CImport-FileSegment.ps1
+Cmdlets/Invoke-SqlBulkCopy.ps1 1.0.3 - PowerShell Gallery,https://www.powershellgallery.com/packages/SimplySql/1.0.3/Content/Cmdlets%255CInvoke-SqlBulkCopy.ps1
+PowerLine/Add-PowerLineBlock.ps1 at master - GitHub,https://github.com/Jaykul/PowerLine/blob/master/Source/Public/Add-PowerLineBlock.ps1
+PScribo/Example31.ps1 at dev - GitHub,https://github.com/iainbrighton/PScribo/blob/dev/Examples/Example31.ps1
+Internal/ConvertTo-JiraUser.ps1 1.2.5.156 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/PSJira/1.2.5.156/Content/Internal%255CConvertTo-JiraUser.ps1
+nishang/Out-Word.ps1 at master,https://api.mtr.pub/samratashok/nishang/blob/master/Client/Out-Word.ps1
+Internal/ConvertTo-JiraWorklogitem.ps1 2.4.0 - PowerShell Gallery,https://40.87.85.101/packages/JiraPS/2.4.0/Content/Internal%255CConvertTo-JiraWorklogitem.ps1
+functions/Import-DbaCsv.ps1 1.0.48 - PowerShell Gallery,https://168.61.186.235/packages/dbatools/1.0.48/Content/functions%255CImport-DbaCsv.ps1
+eng/common/SetupNugetSources.ps1 ... - 登录,https://jihulab.com/dotnet/aspnetcore/-/blob/241a42804a90099388a6d7ae51f343c3dd572c84/eng/common/SetupNugetSources.ps1
+functions/ConvertTo-DbaDataTable.ps1 · v1.1.13 · mirrors ... - GitCode,https://gitcode.net/mirrors/sqlcollaborative/dbatools/-/blob/v1.1.13/functions/ConvertTo-DbaDataTable.ps1%3Ffrom_codechina%3Dyes

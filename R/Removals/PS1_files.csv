@@ -1,0 +1,12 @@
+Functions/Remove-WinSCPItem.ps1 5.7.3.2 - PowerShell Gallery,https://www.powershellgallery.com/packages/WinSCP/5.7.3.2/Content/Functions%255CRemove-WinSCPItem.ps1
+Functions/Sync-WinSCPPath.ps1 5.7.5.3 - PowerShell Gallery,https://www.powershellgallery.com/packages/WinSCP/5.7.5.3/Content/Functions%255CSync-WinSCPPath.ps1
+silent-install/SilentInstall_Utilities.ps1 at master - GitHub,https://github.com/TimMangan/silent-install/blob/master/SilentInstall_Utilities.ps1
+environment-scripts/AD_Sync.ps1 at main · controlup/environment ...,https://github.com/controlup/environment-scripts/blob/main/Environment_Synchronization_Scripts/AD_Sync.ps1
+https://raw.githubusercontent.com/Skatterbrainz/Ch...,https://raw.githubusercontent.com/Skatterbrainz/Chocolatey/master/Invoke-FudgePack.ps1
+get-bitlockerEscrowStatusForAzureADDevices.ps1 - GitLab,https://gitlab.com/Lieben/assortedFunctions/-/blob/3bd1cf1a3f67e3bee09e1e14c2b35a5113d00416/get-bitlockerEscrowStatusForAzureADDevices.ps1
+set-MDATPCustomTags.ps1 · master · Jos / assortedFunctions - GitLab,https://gitlab.com/Lieben/assortedFunctions/-/blob/master/set-MDATPCustomTags.ps1
+public/helper/Send ... - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/PSTwitterAPI/0.0.9/Content/public%255Chelper%255CSend-TwitterLists_MembersDestroyAll.ps1
+ansible2/ansible/modules/windows ... - CS@VT,https://version.cs.vt.edu/techstaff/linux-audit/-/blob/master/ansible2/ansible/modules/windows/win_domain_group_membership.ps1
+lib/ansible/modules/windows/win_domain_group_membership.ps1 ...,https://gitlabdev.ics.muni.cz/242618/ansible/-/blob/cf92ed2ca43e8b3c88a0ceefb1f46f1047fbf5a7/lib/ansible/modules/windows/win_domain_group_membership.ps1
+"""Fossies"" - the Fresh Open Source Software Archive",https://fossies.org/linux/ansible/lib/ansible/modules/windows/win_group_membership.ps1
+"""Fossies"" - the Fresh Open Source Software Archive",https://fossies.org/linux/ansible/lib/ansible/modules/windows/win_domain_group_membership.ps1
