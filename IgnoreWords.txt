@@ -175,6 +175,7 @@ acetyls
 achenial
 achlorhydria
 achondrite
+achromat
 achromatize
 achromats
 achromous
@@ -587,6 +588,7 @@ alibies
 alibiing
 alicyclic
 alien
+alienable
 alienate
 aliening
 alienisms
@@ -601,6 +603,7 @@ aliquots
 alit
 aliterates
 aliyas
+aliyot
 alkalified
 alkalifies
 alkalimeter
@@ -752,6 +755,7 @@ ambos
 ambroids
 ambrosia
 ambrosias
+ambrotype
 ambry
 ambulacral
 ambulated
@@ -1387,6 +1391,7 @@ arbored
 arboretums
 arborist
 arborize
+arborizing
 arbors
 arbovirus
 arbutean
@@ -2135,6 +2140,7 @@ barfing
 barflies
 barged
 bargees
+barguests
 barhop
 barhopped
 barhops
@@ -2639,6 +2645,7 @@ bilharziases
 biliary
 bilker
 billabongs
+billboarded
 billbugs
 billets
 billiard
@@ -6585,6 +6592,7 @@ curious
 curiousness
 curite
 curler
+curlers
 curliest
 curlinesses
 curls
@@ -8121,6 +8129,7 @@ ditchdiggers
 ditchers
 ditsinesses
 ditziest
+ditzinesses
 diuresis
 diuretic
 diurnal
@@ -8508,6 +8517,7 @@ druses
 dryadic
 dryish
 dryly
+drysalters
 drywall
 drywells
 duad
@@ -8881,6 +8891,7 @@ elegiacs
 elegies
 elegising
 elegist
+elegized
 elegizing
 elegy
 element
@@ -10816,6 +10827,7 @@ foremasts
 foremost
 forenoon
 foreordained
+foreordaining
 forepaw
 forepeak
 forequarter
@@ -12139,6 +12151,7 @@ grudging
 gruel
 grueling
 grueller
+gruellers
 gruelling
 gruels
 grues
@@ -13603,6 +13616,7 @@ imbrowns
 imbruting
 imbued
 imide
+imids
 imines
 imitate
 imitation
@@ -15356,6 +15370,7 @@ labials
 labiovelar
 laboriously
 labourers
+labouring
 labradors
 labret
 labrets
@@ -15827,6 +15842,7 @@ limbos
 limbus
 limbuses
 limekiln
+limelight
 limens
 limericks
 limina
@@ -16542,6 +16558,7 @@ marination
 marine
 marishes
 maritime
+marjorams
 mark
 markas
 markedly
@@ -16571,6 +16588,7 @@ marshalship
 marshy
 mart
 martellos
+martially
 marting
 martingal
 martingals
@@ -16690,6 +16708,7 @@ maybushes
 mayed
 mayest
 mayo
+mayor
 mayos
 mazaedium
 mazard
@@ -17033,6 +17052,7 @@ miches
 mickles
 micklest
 micra
+microanalysts
 microanatomies
 microbalance
 microbar
@@ -17167,6 +17187,7 @@ millennialists
 millennium
 milleped
 millepede
+millepore
 millers
 millesimal
 milliary
@@ -17859,6 +17880,7 @@ muchachos
 mucho
 muckamucks
 muckier
+mucking
 muckle
 muclucs
 mucopeptides
@@ -18723,6 +18745,7 @@ nonskater
 nonsmokers
 nonsocialist
 nonstarter
+nonstatic
 nonsteady
 nonsteroid
 nonstick
@@ -19133,6 +19156,7 @@ onlooking
 onomatology
 onside
 ontogenic
+ontological
 ontologically
 ontologists
 onus
@@ -21791,6 +21815,7 @@ preallots
 prealter
 preanal
 preapplies
+preapprove
 prearm
 prearming
 prearranged
@@ -23130,6 +23155,7 @@ reaped
 reaping
 reappearing
 reapply
+reappointing
 reappointments
 reappraised
 reappropriate
@@ -23320,6 +23346,7 @@ recounter
 recoupe
 recoups
 recrate
+recrates
 recreancy
 recreating
 recrossing
@@ -24182,6 +24209,7 @@ retinoid
 retinting
 retinue
 retire
+retirednesses
 retiree
 retirees
 retool
@@ -24846,6 +24874,7 @@ salpiform
 salsa
 saltarello
 saltatorial
+saltatory
 saltbush
 salter
 saltish
@@ -26143,6 +26172,7 @@ skewer
 skewing
 skewness
 ski
+skibob
 skibobs
 skidding
 skiddoo
@@ -28603,6 +28633,7 @@ tegumina
 teiglach
 tektites
 telco
+telecasted
 telecaster
 telecasting
 telecasts
@@ -29409,6 +29440,7 @@ transpersonal
 transpierce
 transpirations
 transpire
+transpiring
 transplantable
 transpontine
 transsexualism
@@ -30026,6 +30058,7 @@ unbarred
 unbasted
 unbated
 unbearably
+unbecomingly
 unbecomingness
 unbelievers
 unbelievingly
@@ -31870,6 +31903,7 @@ witherite
 witherods
 withers
 withouts
+withstood
 witnessers
 wittiest
 wiz
@@ -32271,6 +32305,7 @@ zoantharians
 zoarium
 zocalo
 zocalos
+zodiacal
 zoeae
 zoecia
 zombielike

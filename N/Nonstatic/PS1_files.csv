@@ -1,0 +1,5 @@
+lib/Classes/Public/TMTask.ps1 2.3.1.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/TransitionManager/2.3.1.0/Content/lib%255CClasses%255CPublic%255CTMTask.ps1
+lib/Classes/Public/TMSetting.ps1 2.3.1.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/TransitionManager/2.3.1.0/Content/lib%255CClasses%255CPublic%255CTMSetting.ps1
+PSKernel-Primitives/Stage-HmValidateHandleBitmap.ps1 at master,https://github.com/FuzzySecurity/PSKernel-Primitives/blob/master/Stage-HmValidateHandleBitmap.ps1
+HackSysTeam-PSKernelPwn/Kernel_RS2_WWW_GDI_64.ps1,https://github.com/FuzzySecurity/HackSysTeam-PSKernelPwn/blob/master/Kernel_RS2_WWW_GDI_64.ps1
+https://raw.githubusercontent.com/auberginehill/ge...,https://raw.githubusercontent.com/auberginehill/get-powershell-aliases-table/master/Get-PowerShellAliasesTable.ps1
