@@ -1,0 +1,6 @@
+functions/private/New-SWRandomPassword.ps1 8.1.0.2,https://www.powershellgallery.com/packages/SMBBlueprint/8.1.0.2/Content/functions%255Cprivate%255CNew-SWRandomPassword.ps1
+AzureKeyvaultHelpers.ps1 1.5.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/DevOpsFlex.Automation.PowerShell/1.5.0/Content/AzureKeyvaultHelpers.ps1
+useful_powershell_functions/Get-IntuneEnrollmentStatus.ps1 at ...,https://github.com/ztrhgf/useful_powershell_functions/blob/master/INTUNE/Get-IntuneEnrollmentStatus.ps1
+Toast-Notification-Script/New-ToastNotification.ps1 at master - GitHub,https://github.com/imabdk/Toast-Notification-Script/blob/master/New-ToastNotification.ps1
+customData/customData.ps1 2.3.2 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/NameIT/2.3.2/Content/customData%255CcustomData.ps1
+internal/latest-2019-04-30/New-AzVmss.ps1 4.0.2-preview,https://psg-prod-centralus.cloudapp.net/packages/Az.Compute/4.0.2-preview/Content/internal%255Clatest-2019-04-30%255CNew-AzVmss.ps1
