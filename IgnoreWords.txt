@@ -349,6 +349,7 @@ advocator
 advowson
 adynamias
 adytum
+aecia
 aedile
 aeonic
 aeration
@@ -1234,6 +1235,7 @@ apanages
 apathetic
 apatosaur
 aperiodically
+apers
 apertures
 apetalous
 aphaeretic
@@ -2167,6 +2169,7 @@ baronetage
 baronetcies
 barosaurs
 barquentine
+barracking
 barracks
 barracudas
 barrage
@@ -2526,6 +2529,7 @@ beseeches
 beseeching
 beseem
 beseeming
+beseems
 beshames
 beshouts
 beshroud
@@ -3216,6 +3220,7 @@ boxhauls
 boxiest
 boxthorn
 boyarisms
+boyars
 boycotters
 boyfriends
 boyhood
@@ -3437,6 +3442,7 @@ brouhaha
 browband
 browed
 browned
+brownnesses
 brownnosed
 brownnoser
 browns
@@ -7958,6 +7964,7 @@ disequilibrated
 diseur
 diseuses
 disfavors
+disfavoured
 disfigure
 disfrock
 disgrace
@@ -10124,6 +10131,7 @@ fatefully
 fatefulness
 fatefulnesses
 fatheadedly
+fatherland
 fatherlands
 fatherless
 fathers
@@ -10663,6 +10671,7 @@ flowerettes
 flowerful
 floweriest
 flowingly
+flows
 flowstone
 flowstones
 flub
@@ -11262,6 +11271,7 @@ gadid
 gadroon
 gadroons
 gadwalls
+gadzooks
 gaffing
 gage
 gagger
@@ -11404,6 +11414,7 @@ gasconader
 gaseities
 gasholders
 gasification
+gasifications
 gaskin
 gaslit
 gasogene
@@ -11660,6 +11671,7 @@ girder
 girders
 girdled
 girliest
+girolles
 girt
 gismos
 gite
@@ -12554,6 +12566,7 @@ harvesting
 harvestmen
 has
 hashheads
+hassel
 hassled
 hastately
 hasten
@@ -13900,6 +13913,7 @@ incompetent
 incompetents
 incomplete
 incompletely
+incompressible
 inconnu
 inconnus
 inconscient
@@ -15410,6 +15424,7 @@ lacewings
 lachrymal
 lachrymosely
 lacily
+laciniation
 lackadaisically
 lacked
 lackering
@@ -17438,6 +17453,7 @@ mislain
 misleader
 misleading
 misleads
+misleared
 mislike
 mislived
 mislives
@@ -18662,6 +18678,7 @@ nonexploitive
 nonfactual
 nonfamily
 nonfarmer
+nonfeminists
 nonfictions
 nonfigurative
 nonfinal
@@ -19039,6 +19056,7 @@ occupants
 occupies
 occupy
 occurrents
+oceanaut
 oceanic
 oceanographies
 ochering
@@ -19356,6 +19374,7 @@ ornithopter
 ornithopters
 orogenetic
 orography
+orology
 orotundities
 orotundity
 orphanhoods
@@ -20931,8 +20950,11 @@ phonetically
 phoney
 phoneying
 phonic
+phonics
+phonies
 phonocardiogram
 phonographic
+phonolite
 phoronids
 phosgene
 phosphatase
@@ -21277,6 +21299,7 @@ placeman
 placements
 placental
 placentals
+placentas
 placentation
 placid
 placks
@@ -21497,6 +21520,7 @@ points
 pointy
 poisoned
 poisoner
+poisonous
 poisonwoods
 poke
 poked
@@ -21514,6 +21538,7 @@ polarities
 polarity
 polarizable
 polarized
+polarons
 polder
 polecats
 polemics
@@ -25176,6 +25201,7 @@ scarting
 scary
 scatback
 scats
+scatted
 scatterbrain
 scatterbrained
 scatterbrains
@@ -25873,6 +25899,7 @@ shimmying
 shindys
 shingle
 shingles
+shinily
 shininesses
 shinleaves
 shinning
@@ -26599,6 +26626,7 @@ soaped
 soapiness
 soapsudsy
 soar
+sobas
 sobbingly
 soberer
 soberest
@@ -27564,6 +27592,7 @@ streetwise
 strengthen
 strengthener
 strenuosities
+strep
 streptobacilli
 streptolysin
 streptothricin
@@ -29391,6 +29420,7 @@ townees
 townies
 townish
 townscapes
+townships
 townwear
 towpaths
 towplanes
@@ -29614,6 +29644,7 @@ triboelectric
 tribologists
 tribrach
 tribulation
+tribunate
 trichinoses
 trichites
 trichocyst
@@ -29821,6 +29852,7 @@ tubeless
 tuberculated
 tuberculoses
 tuberculous
+tuberous
 tubeworks
 tubfuls
 tubiform
@@ -29940,6 +29972,7 @@ twattle
 tweak
 tweaky
 tweed
+tweediness
 tweedles
 tweener
 tweeners
@@ -31244,6 +31277,7 @@ vicinities
 vicinity
 viciously
 victims
+victor
 victorias
 vicunas
 vid
@@ -31728,6 +31762,7 @@ werewolves
 wergelds
 wert
 westernised
+westernize
 westmost
 westward
 wetbacks
