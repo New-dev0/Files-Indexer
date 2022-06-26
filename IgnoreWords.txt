@@ -800,6 +800,7 @@ amino
 aminoacidurias
 amirates
 ammine
+ammino
 ammoniacal
 ammoniacs
 ammoniating
@@ -1837,7 +1838,9 @@ autistics
 autists
 autoantibodies
 autobahns
+autobiographer
 autocatalytic
+autocephalies
 autocoid
 autocrine
 autocross
@@ -3610,6 +3613,7 @@ burblers
 burbliest
 burbling
 burbly
+burdocks
 burgeons
 burgesses
 burgh
@@ -4147,6 +4151,7 @@ carts
 cartulary
 cartwheeling
 caruncle
+caryopses
 casabas
 cascabel
 cascade
@@ -4393,6 +4398,7 @@ cerebration
 cerebroside
 cerebrums
 cered
+cerements
 ceremonialism
 ceremonialists
 ceric
@@ -6743,6 +6749,7 @@ cyclizing
 cyclogenesis
 cycloid
 cycloids
+cyclonically
 cyclopaedias
 cyclopedia
 cyclopes
@@ -6858,6 +6865,7 @@ dampening
 dampens
 dampers
 damping
+dampnesses
 damselflies
 dandiacal
 dandified
@@ -8981,6 +8989,7 @@ eloped
 eloper
 eloquences
 elucidated
+eluding
 elusory
 elute
 elution
@@ -10779,6 +10788,7 @@ flyovers
 flypapers
 flyswatter
 flytrap
+foal
 foamable
 foamed
 foamflower
@@ -12152,6 +12162,7 @@ greenwoods
 grees
 greet
 greetings
+greets
 gregarines
 gregariously
 greiges
@@ -13012,6 +13023,7 @@ highths
 highting
 hightops
 hijab
+hijacking
 hijra
 hilariousnesses
 hillbilly
@@ -13271,6 +13283,7 @@ horrifically
 horror
 horse
 horsebeans
+horsefeathers
 horseflesh
 horsefleshes
 horsehairs
@@ -13494,6 +13507,7 @@ hydroxylapatite
 hydroxylase
 hydroxylases
 hyenas
+hyenine
 hygrometer
 hygrometers
 hygroscopicity
@@ -14074,6 +14088,7 @@ indigen
 indigences
 indigenization
 indigenizations
+indigenize
 indign
 indigotin
 indiscernible
@@ -14279,6 +14294,7 @@ inklings
 inkpot
 inkpots
 inkwell
+inky
 inlace
 inland
 inlander
@@ -14450,6 +14466,7 @@ intercurrent
 interdentally
 interdependence
 interdict
+interdiffused
 interdiffusion
 interdigitate
 interdigitation
@@ -15454,6 +15471,7 @@ krone
 krummhorns
 krypton
 kuchen
+kuchens
 kudzus
 kukri
 kultur
@@ -15735,6 +15753,7 @@ leaker
 leakily
 leaned
 leanest
+leaning
 leans
 leant
 leaped
@@ -17157,6 +17176,7 @@ metre
 metred
 metrical
 metrologist
+metrology
 metronidazole
 metronomes
 metrorrhagia
@@ -18233,6 +18253,7 @@ myelomata
 myelomatous
 myelopathic
 myoelectric
+myoglobin
 myoinositols
 myologies
 myopically
@@ -18362,6 +18383,7 @@ nautiloids
 nautilus
 navaids
 naval
+nave
 navel
 navelworts
 navicert
@@ -18824,6 +18846,7 @@ nonliterate
 nonlives
 nonloving
 nonlyric
+nonmainstream
 nonmalignant
 nonmalleable
 nonmembers
@@ -19969,6 +19992,7 @@ overlay
 overleap
 overleaps
 overlearns
+overlearnt
 overlengthening
 overlengthens
 overletting
@@ -20743,6 +20767,7 @@ pentagon
 pentagonals
 pentahedrons
 pentameters
+pentamidine
 pentamidines
 pentangle
 pentangles
@@ -22064,7 +22089,9 @@ predaceous
 predate
 predatism
 predeceases
+prededuct
 prededucted
+predefining
 predesignate
 predestinations
 predestinators
@@ -22841,6 +22868,7 @@ pursuivants
 purulences
 purveys
 push
+pushcarts
 pushdowns
 pushes
 pushiness
@@ -26010,6 +26038,7 @@ shelty
 shelved
 shelves
 shelving
+sheol
 shepherdesses
 sherberts
 sherds
@@ -28401,6 +28430,7 @@ suspicious
 sustain
 susurrant
 susurration
+sutlers
 suttees
 suturally
 suture
@@ -28714,6 +28744,7 @@ tambur
 tameable
 tamer
 tames
+tammie
 tampalas
 tamper
 tampered
@@ -30145,6 +30176,7 @@ twiddles
 twiggen
 twiggier
 twiggiest
+twigs
 twilight
 twilights
 twilling
@@ -30255,6 +30287,7 @@ ultrasmooth
 ultravacua
 ultravacuums
 ultraviolences
+ululant
 umami
 umbellets
 umbellifer
@@ -31919,6 +31952,7 @@ weirdnesses
 weisenheimers
 welcomenesses
 weldor
+welkin
 well
 welshing
 weltanschauungs
@@ -32538,6 +32572,7 @@ zealot
 zealously
 zealousness
 zeatins
+zebec
 zebrafishes
 zebrano
 zebras
