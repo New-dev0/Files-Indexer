@@ -698,6 +698,7 @@ alphyl
 alphyls
 also
 altarpiece
+alterability
 altercated
 alterities
 alterity
@@ -1438,6 +1439,7 @@ arcuations
 ardeb
 ardebs
 ardently
+ardor
 arduously
 are
 areae
@@ -2974,6 +2976,7 @@ boaster
 boasting
 boatbuilding
 boated
+boater
 boatnecks
 boatsmen
 boatyard
@@ -3099,6 +3102,7 @@ bookstand
 boomer
 boomingly
 boomkin
+boomy
 boon
 boondoggler
 boondoggling
@@ -4703,6 +4707,7 @@ cholla
 cholo
 chomped
 chondrites
+chondritic
 chondrocraniums
 chondroma
 chook
@@ -7394,6 +7399,7 @@ derepressions
 derided
 deriders
 deriding
+derisible
 derisively
 derisivenesses
 deriver
@@ -8594,6 +8600,7 @@ duplicator
 dupped
 dupping
 durably
+duralumins
 durations
 durative
 durbars
@@ -10223,6 +10230,7 @@ fencer
 fencible
 fencings
 fenderless
+fenestra
 fenestrate
 fenestration
 fentanyl
@@ -11028,6 +11036,7 @@ freewill
 freewrite
 freewriting
 freezers
+freezes
 fremd
 fremituses
 frena
@@ -11731,6 +11740,7 @@ glister
 glistering
 glitter
 glittered
+glitteringly
 gloamings
 gloater
 gloaters
@@ -12623,6 +12633,7 @@ headily
 heading
 headings
 headlamp
+headless
 headlessness
 headliners
 headlock
@@ -13852,6 +13863,7 @@ inceptively
 incepts
 incessancies
 incessant
+incessantly
 inchoate
 inchoateness
 inchoatives
@@ -15036,6 +15048,7 @@ kabalas
 kabalisms
 kabayas
 kabbala
+kabbalist
 kabobs
 kaddishes
 kaddishim
@@ -15827,6 +15840,7 @@ lifters
 liftgates
 lifting
 ligaments
+ligation
 ligative
 ligatures
 ligers
@@ -16034,6 +16048,7 @@ locomotors
 locos
 locules
 loculicidal
+locust
 locustae
 locution
 lodestar
@@ -16796,6 +16811,7 @@ medievalisms
 medievalists
 medievally
 medievals
+mediocre
 meditation
 medivacked
 medley
@@ -17018,6 +17034,7 @@ methacrylate
 methanations
 methane
 methaqualone
+methedrine
 methemoglobin
 methicillins
 methionine
@@ -17181,6 +17198,7 @@ milded
 mildening
 mildens
 mildest
+milding
 mileposts
 miler
 milesian
@@ -17242,6 +17260,7 @@ mimical
 mimicking
 mimicry
 mimics
+miming
 minacious
 minacity
 minced
@@ -19325,6 +19344,7 @@ oriflammes
 origamis
 originator
 orinasals
+orismological
 orismology
 ornamentally
 ornamentation
@@ -20801,6 +20821,7 @@ petitioners
 petnaping
 petnapper
 petrale
+petrels
 petrifier
 petrifying
 petrochemicals
@@ -22952,6 +22973,7 @@ radioisotopic
 radiolarian
 radiolarians
 radiologically
+radiologist
 radiolyses
 radiomen
 radiometer
@@ -24098,6 +24120,7 @@ resocialize
 resoften
 resojets
 resole
+resoled
 resoles
 resolidifying
 resorter
@@ -24218,6 +24241,7 @@ reticulates
 reticulation
 reticulum
 reticulums
+retied
 retighten
 retightens
 retile
@@ -24312,6 +24336,7 @@ revert
 revertant
 revertants
 reverters
+revertive
 revery
 revesting
 revibrates
@@ -25344,6 +25369,7 @@ sculpturally
 sculpturesque
 scummer
 scummers
+scungilli
 scunnered
 scuppaugs
 scuppered
@@ -25931,6 +25957,7 @@ shortsightedly
 shorty
 shotguns
 shouted
+shoved
 shoveled
 shovelful
 shoveling
@@ -26958,6 +26985,7 @@ spinless
 spinnaker
 spinnerets
 spinney
+spinny
 spins
 spinsterhood
 spinsters
@@ -28025,6 +28053,7 @@ supercargoes
 supercharges
 supercilious
 supercity
+superclass
 superclasses
 superclusters
 superconduct
@@ -28587,6 +28616,7 @@ tastable
 tasteful
 tastelessness
 tatami
+tatars
 tattie
 tattle
 tattler
@@ -29294,6 +29324,7 @@ torosity
 torpedoes
 torpid
 torpor
+torqued
 torquers
 torrefies
 torrentially
@@ -30165,6 +30196,7 @@ unclawed
 uncleanlier
 unclearer
 unclearest
+unclenches
 unclinched
 unclipping
 unclips
@@ -30245,6 +30277,7 @@ underbelly
 underbred
 underbrush
 underbuying
+undercharging
 underclassmen
 underclothing
 undercoating
@@ -31497,6 +31530,7 @@ walkabout
 walkabouts
 walkingstick
 walkover
+walkway
 walkways
 wallaby
 walleye
@@ -31525,6 +31559,7 @@ wanting
 wantoner
 wantonly
 wantonnesses
+warbonnets
 wardenries
 warding
 warehousers
