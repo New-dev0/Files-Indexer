@@ -2383,6 +2383,7 @@ bedposts
 bedraggled
 bedridden
 bedrivel
+bedriveling
 bedroom
 bedrugged
 bedsonias
@@ -5045,6 +5046,7 @@ clitics
 clitoridectomy
 clivias
 cloaked
+cloakroom
 clobbering
 clocker
 clocks
@@ -6023,6 +6025,7 @@ corbeils
 corbelling
 corbels
 cordages
+corder
 cordialities
 cordially
 cordilleran
@@ -6372,6 +6375,7 @@ cremators
 creme
 cremes
 crenature
+crenelated
 crenelating
 crenels
 creodont
@@ -8538,6 +8542,7 @@ dribbly
 driblets
 driegh
 driftage
+drillmaster
 drills
 drippers
 drippiest
@@ -10109,6 +10114,7 @@ fagots
 failing
 failles
 fails
+fain
 faineance
 faineants
 faint
@@ -11546,6 +11552,7 @@ gassinesses
 gastight
 gastnesses
 gastrectomies
+gastrocnemii
 gastronomical
 gastroscopist
 gastroscopy
@@ -11648,6 +11655,7 @@ geniality
 genip
 genitalic
 genitals
+genitives
 genocidal
 genocides
 genome
@@ -12251,6 +12259,7 @@ grimly
 grinds
 gringa
 grinner
+grins
 griots
 griped
 gripsacks
@@ -13650,6 +13659,7 @@ hypnopompic
 hypnoses
 hypnotherapists
 hypnotically
+hypnotizable
 hypnotize
 hypocalcemias
 hypochlorite
@@ -14309,6 +14319,7 @@ infringed
 infringement
 infringers
 infringes
+infundibulum
 infuriations
 infused
 ingate
@@ -15685,6 +15696,7 @@ landloper
 landlordism
 landlubberly
 landlubbers
+landman
 lands
 landslid
 landslips
@@ -16053,6 +16065,7 @@ lightfaced
 lightfaces
 lightfast
 lighthearted
+lightheartedly
 lightplane
 lightwave
 lignan
@@ -16720,6 +16733,7 @@ manhunt
 maniac
 manic
 manicured
+manifester
 manifestly
 manifoldnesses
 manilas
@@ -17531,6 +17545,7 @@ minster
 minters
 minutely
 minutiae
+mir
 miracidia
 miracidium
 miraculous
@@ -18727,6 +18742,7 @@ nimming
 nincompoopery
 ninebarks
 nines
+ninety
 ninny
 ninon
 niobite
@@ -18858,6 +18874,7 @@ nonconfidential
 nonconform
 nonconformed
 nonconformisms
+nonconnection
 nonconsumer
 noncontact
 nonconventional
@@ -19240,6 +19257,7 @@ obole
 obovoid
 obscener
 obscenest
+obscurant
 obscurants
 obscuration
 obscured
@@ -19694,6 +19712,7 @@ ototoxicity
 ottar
 ottavas
 ouabain
+ouabains
 ouch
 ouds
 oughted
@@ -20888,6 +20907,7 @@ pentangles
 pentaploids
 penthouses
 pentlandites
+pentodes
 pentoses
 penuchi
 penuchle
@@ -21495,6 +21515,7 @@ pipinesses
 pipingly
 pipkin
 pipping
+pipy
 piquances
 piquet
 piracy
@@ -21998,6 +22019,7 @@ postcollege
 postcrash
 postcrisis
 postdating
+postdiluvian
 postdoc
 postdoctoral
 postdoctorate
@@ -22069,6 +22091,7 @@ pothouse
 pothunter
 potlache
 pots
+potshard
 potshards
 potshot
 potstones
@@ -24134,6 +24157,7 @@ remarkable
 remarkableness
 remarketing
 remarque
+remarques
 remarriage
 remarriages
 remastered
@@ -25600,6 +25624,7 @@ scorecard
 scored
 scorekeepers
 scoriae
+scorifiers
 scorifies
 scorned
 scornfully
@@ -26039,6 +26064,7 @@ several
 severalties
 severalty
 severe
+severest
 severities
 seviches
 sevruga
@@ -26702,6 +26728,7 @@ slipforming
 slipknots
 slipping
 slippy
+slipsheet
 slipsheeting
 slipsheets
 slithered
@@ -28466,6 +28493,7 @@ superphosphates
 superplane
 superplastic
 superplasticity
+superplayers
 superpolite
 superposes
 superpowers
@@ -30235,6 +30263,7 @@ tumidity
 tumoral
 tumorlike
 tumping
+tumulose
 tumultuary
 tumultuousness
 tuna
@@ -30833,6 +30862,7 @@ unfreezing
 unfriendliness
 unfrock
 unfroze
+unfurling
 unfurls
 ungainlinesses
 ungalled
@@ -31327,6 +31357,7 @@ uroliths
 urological
 urology
 uropod
+uropodal
 uropygiums
 uroscopies
 urostyles
@@ -31380,6 +31411,7 @@ valiant
 valiantly
 validating
 valises
+valleculae
 valorise
 valorizations
 valorized
@@ -31669,6 +31701,7 @@ vigilantisms
 vignerons
 vignetters
 vignettist
+vigours
 vilest
 vilifiers
 villages
@@ -32199,6 +32232,7 @@ whips
 whipstitching
 whiptail
 whipworm
+whirled
 whirlers
 whirlpool
 whirlybird
@@ -32612,6 +32646,7 @@ yabby
 yachting
 yachtsman
 yacked
+yaffing
 yags
 yahoo
 yahoos
