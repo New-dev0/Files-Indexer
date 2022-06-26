@@ -240,6 +240,7 @@ actuator
 acuities
 aculeated
 acuminates
+acupunctures
 acupuncturist
 acutances
 acuteness
@@ -509,6 +510,7 @@ airflow
 airframes
 airfreight
 airlifting
+airline
 airliner
 airpowers
 airproofing
@@ -925,6 +927,7 @@ ancillary
 ancipital
 ancone
 ancresses
+ancylostomiasis
 andesitic
 andouillette
 androgeneses
@@ -1295,6 +1298,7 @@ apparel
 appareling
 appealer
 appealingly
+appease
 appeasement
 appeasers
 appellees
@@ -3257,6 +3261,7 @@ brandished
 brandlings
 brandying
 brannigan
+bras
 brasher
 brashnesses
 brashy
@@ -4822,6 +4827,7 @@ circulates
 circulation
 circumambulate
 circumambulates
+circumcised
 circumference
 circumflex
 circumfluent
@@ -6788,6 +6794,7 @@ daintinesses
 dainty
 daishikis
 dal
+dalapons
 dale
 daledh
 dales
@@ -7469,6 +7476,7 @@ detailednesses
 detainers
 detaining
 detect
+detected
 detection
 detectors
 detention
@@ -8923,6 +8931,7 @@ eloped
 eloper
 eloquences
 elucidated
+elusory
 elute
 elution
 elutriating
@@ -11159,6 +11168,7 @@ fumitories
 fumuli
 fumy
 fun
+functionalisms
 functionalities
 functionless
 functor
@@ -11564,6 +11574,7 @@ gest
 gestalt
 gestating
 gestations
+gesticulators
 gesturer
 gesturing
 getting
@@ -12948,6 +12959,7 @@ hissing
 hissy
 histidins
 histochemistry
+histoid
 histologist
 histologists
 histone
@@ -13904,6 +13916,7 @@ incrusted
 incubates
 incubations
 incubators
+incubatory
 incudate
 inculcators
 inculpable
@@ -14097,6 +14110,7 @@ informative
 infos
 infotainments
 infracting
+infractors
 infraspecific
 infrequences
 infrequencies
@@ -16592,6 +16606,7 @@ martially
 marting
 martingal
 martingals
+martini
 martyrize
 martyrized
 martyrizes
@@ -17123,6 +17138,7 @@ micturated
 mid
 midcult
 middlebrows
+middled
 middleman
 middlers
 middleweight
@@ -17456,6 +17472,7 @@ misrelies
 misreported
 misrepresents
 misroutes
+missable
 missaid
 missenses
 missing
@@ -18129,6 +18146,7 @@ nae
 naevi
 nagged
 naggier
+naiads
 nail
 nailbiter
 nailbiters
@@ -19249,6 +19267,7 @@ options
 optometers
 opusculum
 opuses
+oral
 orangeade
 orangerie
 oratress
@@ -19600,6 +19619,7 @@ outsized
 outslick
 outsmelt
 outsmoked
+outsoared
 outsoars
 outsoles
 outsources
@@ -20852,6 +20872,7 @@ philanthropical
 philanthropoids
 philanthropy
 philatelically
+philatelist
 philatelists
 philhellenisms
 philhellenists
@@ -21125,6 +21146,7 @@ pinched
 pincushion
 pinelike
 pinesaps
+pinewood
 pinewoods
 pinfeather
 pinfolded
@@ -22260,6 +22282,7 @@ programs
 progression
 progressivists
 prohibits
+proinsulin
 project
 projectable
 projected
@@ -23369,6 +23392,7 @@ recumbencies
 recuperate
 recuperated
 recurred
+recursion
 recursions
 recusants
 recused
@@ -23821,6 +23845,7 @@ remote
 remotions
 remotivates
 remotivating
+remoulade
 removeable
 remudas
 remunerators
@@ -24867,6 +24892,7 @@ sallowest
 sally
 salmonellae
 salmonellosis
+salols
 salon
 saloon
 saloops
@@ -25222,6 +25248,7 @@ scorches
 scorecard
 scored
 scorekeepers
+scoriae
 scorifies
 scorned
 scornfully
@@ -25945,6 +25972,7 @@ shrubs
 shrunk
 shrunken
 shticky
+shuck
 shuffle
 shunned
 shunners
@@ -27724,6 +27752,7 @@ subjugations
 subjugator
 subjunctive
 subkingdoms
+sublanguage
 sublated
 sublation
 sublease
@@ -28016,6 +28045,7 @@ superhelix
 superhighway
 superhits
 superhumanities
+superinduces
 superinduction
 superinfected
 superinfects
@@ -28430,6 +28460,7 @@ tailwater
 tains
 takable
 take
+takeoffs
 takeovers
 taker
 takes
@@ -28446,6 +28477,7 @@ talisman
 talismanically
 talkathon
 talkier
+talking
 talky
 tall
 tallaisim
@@ -28488,6 +28520,7 @@ tangier
 tangles
 tanglier
 tangs
+tanistry
 tankas
 tanker
 tankinis
@@ -29187,6 +29220,7 @@ tombacks
 tombola
 tombolas
 tomboyishness
+tombstones
 tomfooleries
 tomming
 tommyrot
@@ -29523,6 +29557,7 @@ trepanations
 trephines
 trepidant
 treponemal
+treponematoses
 tressel
 tresses
 tressiest
