@@ -260,6 +260,7 @@ adding
 addles
 addressable
 addresses
+adduced
 adducer
 adducible
 adenines
@@ -1642,6 +1643,7 @@ assoils
 assonantal
 assort
 assorter
+assortment
 assuagement
 assumably
 assume
@@ -4033,6 +4035,7 @@ carboxylic
 carboxyls
 carburetting
 carburettor
+carburize
 carburizing
 carcases
 carcasses
@@ -4554,6 +4557,7 @@ cheekily
 cheeking
 cheerers
 cheerfully
+cheerfulness
 cheerios
 cheerleading
 cheerless
@@ -4715,6 +4719,7 @@ cholestasis
 cholesterol
 choline
 cholines
+cholinesterases
 cholla
 cholo
 chomped
@@ -5056,6 +5061,7 @@ clubbing
 clubbish
 clubfoot
 clubfooted
+clubhands
 clubhauling
 clubhead
 clubroot
@@ -5395,6 +5401,7 @@ combos
 combust
 combustible
 combustibles
+combusting
 comeback
 comedically
 comedies
@@ -6841,6 +6848,7 @@ dampers
 damping
 damselflies
 dandiacal
+dandified
 dandlers
 daneworts
 dangerously
@@ -9229,6 +9237,7 @@ ennobler
 ennuye
 enokitakes
 enolic
+enological
 enorm
 enosis
 enow
@@ -10280,6 +10289,7 @@ ferriages
 ferried
 ferriferous
 ferrimagnetisms
+ferrite
 ferroconcrete
 ferrocyanides
 ferromagnetic
@@ -10791,6 +10801,7 @@ fon
 fonded
 fonder
 fondest
+fonding
 fondness
 fondue
 fondueing
@@ -12220,6 +12231,7 @@ grungy
 grunions
 grunter
 gruntled
+gruntling
 grushie
 grutching
 gryphon
@@ -12556,6 +12568,7 @@ harmlessly
 harmonic
 harmonize
 harmonized
+harmony
 harped
 harpings
 harpooning
@@ -12605,6 +12618,7 @@ hatters
 hatting
 haughtier
 hauler
+haulmiest
 haulyard
 haunches
 haunt
@@ -13478,6 +13492,7 @@ hypergols
 hyperinvolution
 hyperkeratosis
 hyperkinesis
+hyperlink
 hypermania
 hypermanias
 hypermarkets
@@ -13792,6 +13807,7 @@ impost
 imposter
 impostumes
 impotently
+impound
 impounded
 impoverishing
 imprecates
@@ -14978,6 +14994,7 @@ joisted
 jojoba
 jojobas
 jokes
+joking
 jollier
 jollyboats
 jolter
@@ -15366,6 +15383,7 @@ koodoo
 kookaburra
 kookie
 kookinesses
+kooks
 kopeck
 koph
 kopjes
@@ -16993,6 +17011,7 @@ merrily
 merriments
 merriness
 merrinesses
+mescal
 mesclun
 mesdemoiselles
 meseems
@@ -17138,6 +17157,7 @@ microelectrodes
 microelements
 microfarads
 microfauna
+microfibrils
 microfiches
 microfilament
 microfilmed
@@ -17378,6 +17398,7 @@ misassumption
 misatoned
 misatoning
 misattribute
+misattributions
 misaward
 misawarding
 misbegin
@@ -18586,6 +18607,7 @@ nominal
 nominalists
 nominating
 nominee
+nomogram
 nomographic
 nonabsorbent
 nonabsorptive
@@ -18868,6 +18890,7 @@ northwester
 nos
 nosebag
 nosed
+nosedives
 noseguards
 noseless
 nosh
@@ -20389,6 +20412,7 @@ parsleyed
 parsnips
 partakers
 partakes
+partans
 parterre
 parthenocarpies
 participating
@@ -25145,6 +25169,7 @@ savage
 savagenesses
 savageries
 savagery
+savagest
 savannah
 savannas
 savants
@@ -25246,6 +25271,7 @@ sceptic
 schadenfreudes
 schav
 schedular
+scheduled
 schedules
 schematization
 schematizes
@@ -25599,6 +25625,7 @@ semilog
 semimat
 semimild
 semina
+seminomads
 seminomas
 seminomata
 seminude
@@ -25680,6 +25707,7 @@ septicities
 septicity
 septics
 septimes
+septum
 sepulchral
 sequelae
 sequelizes
@@ -25962,6 +25990,7 @@ shlub
 shlump
 shlumpy
 shmoozes
+shoalest
 shoaly
 shoat
 shockable
@@ -27102,6 +27131,7 @@ splutters
 spodes
 spodosols
 spokespeople
+spokeswomen
 spondylitises
 sponge
 sponginess
@@ -27370,6 +27400,7 @@ steamed
 steamfitter
 steamroll
 steamship
+stearates
 steatopygia
 steeked
 steelhead
@@ -28088,6 +28119,7 @@ sunroofs
 sunscreening
 sunshine
 sunspot
+suntanned
 suntans
 sunwards
 superably
@@ -30047,6 +30079,7 @@ tympany
 tynes
 typefaces
 typefounders
+types
 typescript
 typescripts
 typesettings
@@ -31760,6 +31793,7 @@ webers
 webfed
 weblog
 webpage
+webwork
 webworms
 wedder
 wedelns
@@ -31964,6 +31998,7 @@ windburnt
 windchills
 windfalls
 windflowers
+windgalls
 windigo
 windiness
 windjammers
