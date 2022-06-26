@@ -1,0 +1,5 @@
+exports/Initialize-SysManApplication.ps1 3.1 ... - PowerShell Gallery,https://www.powershellgallery.com/packages/SysMan.WebApi/3.1.19149.1/Content/exports%255CInitialize-SysManApplication.ps1
+functions/New-DbaAgentProxy.ps1 1.0.153 - PowerShell Gallery,https://www.powershellgallery.com/packages/dbatools/1.0.153/Content/functions%255CNew-DbaAgentProxy.ps1
+DataMigrationAssistantHelper/DMA_Processor_V5.0.ps1 at master,https://github.com/enriquecatala/DataMigrationAssistantHelper/blob/master/DataMigrationAssistantHelper/DMA_Processor_V5.0.ps1
+AMBROSIA/UpdateAmbrosiaForNugetRelease.ps1 at master - GitHub,https://github.com/microsoft/AMBROSIA/blob/master/UpdateAmbrosiaForNugetRelease.ps1
+functions/Set-DbaAgentJobStep.ps1 1.1.10 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/dbatools/1.1.10/Content/functions%255CSet-DbaAgentJobStep.ps1
