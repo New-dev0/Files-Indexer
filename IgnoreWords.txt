@@ -521,6 +521,7 @@ airliner
 airpowers
 airproofing
 airshed
+airsheds
 airshows
 airspace
 airstrikes
@@ -7455,6 +7456,7 @@ derate
 derats
 deray
 derepresses
+derepression
 derepressions
 derided
 deriders
@@ -8128,6 +8130,7 @@ dispute
 disputed
 disqualify
 disquiet
+disquiets
 disrated
 disregard
 disregarding
@@ -9850,6 +9853,7 @@ exhaled
 exhausting
 exhaustion
 exhaustive
+exhaustless
 exhaustlessly
 exhausts
 exhibiters
@@ -10409,6 +10413,7 @@ fictionalised
 fictionist
 fictitious
 fiddlehead
+fiddler
 fiduciaries
 fiduciary
 fiefdom
@@ -12108,6 +12113,7 @@ graph
 graphemically
 graphical
 graphically
+graphics
 graphite
 graphites
 graphitizable
@@ -12735,6 +12741,7 @@ haziest
 haziness
 hazinesses
 hazzanim
+headachier
 headbands
 headcheeses
 headcounts
@@ -12749,6 +12756,7 @@ headgears
 headhunt
 headhunts
 headily
+headiness
 heading
 headings
 headlamp
@@ -13935,6 +13943,7 @@ impugned
 impugning
 impulsion
 impulsiveness
+impurest
 imputably
 imputed
 imputer
@@ -14821,6 +14830,7 @@ irrepressible
 irresolutely
 irresoluteness
 irretrievable
+irretrievably
 irrevocable
 irrigably
 irrigation
@@ -14923,6 +14933,7 @@ ivory
 izars
 jabberwocky
 jabs
+jacana
 jacinthes
 jack
 jackassery
@@ -15471,6 +15482,7 @@ knuckleballs
 knucklier
 knurl
 knurled
+koine
 kola
 kolbasis
 kolkhoznik
@@ -15812,6 +15824,7 @@ lecithin
 lecithinase
 lectern
 lectin
+lection
 lectured
 lederhosen
 ledger
@@ -16279,6 +16292,7 @@ looming
 looms
 loon
 looney
+loonie
 looninesses
 loons
 loopinesses
@@ -16535,6 +16549,7 @@ magnetics
 magnetise
 magnetising
 magnetisms
+magnetites
 magnetize
 magnetizing
 magnetos
@@ -16628,6 +16643,7 @@ mammons
 mammoths
 mamzer
 mamzers
+man
 manacling
 manage
 managed
@@ -16646,6 +16662,7 @@ mandola
 mandolins
 mandrel
 mandrils
+manducate
 manducated
 maneuverable
 manful
@@ -17368,6 +17385,7 @@ milding
 mileposts
 miler
 milesian
+milestones
 milia
 milieu
 milieux
@@ -19907,6 +19925,7 @@ overassertion
 overassertive
 overasserts
 overassessments
+overbearingly
 overbeats
 overbejeweled
 overbilled
@@ -20937,6 +20956,7 @@ permanently
 permeably
 permeate
 permian
+permillages
 permitter
 permutational
 permuting
@@ -21243,6 +21263,7 @@ physicality
 physicalness
 physicals
 physician
+physicked
 physiognomies
 physiologist
 physiotherapies
@@ -24288,6 +24309,7 @@ reroutes
 res
 resaddling
 resailed
+resaw
 resaws
 rescale
 reschool
@@ -24700,6 +24722,7 @@ rid
 riddled
 riddler
 ride
+rideable
 riders
 ridged
 ridgel
@@ -27531,6 +27554,7 @@ star
 starboards
 starchier
 stardom
+starfishes
 starflower
 starkness
 starnose
@@ -27850,6 +27874,7 @@ stretta
 streusels
 strewers
 strewing
+strewn
 strict
 strictest
 stridden
@@ -28512,6 +28537,7 @@ swages
 swaggeringly
 swaggers
 swaggies
+swagging
 swallow
 swamp
 swampier
@@ -29187,6 +29213,7 @@ theins
 themed
 thenages
 theobromines
+theocratical
 theodolite
 theologically
 theologised
@@ -29199,6 +29226,7 @@ thereafter
 therein
 thermic
 thermidor
+thermionics
 thermites
 thermochemists
 thermocouples
@@ -30090,6 +30118,7 @@ truthfully
 truthless
 tryout
 tryptamines
+tsaddik
 tsardoms
 tsatske
 tsetses
@@ -30273,6 +30302,7 @@ tympanic
 tympanist
 tympany
 tynes
+typebars
 typefaces
 typefounders
 types
@@ -30611,6 +30641,7 @@ undermining
 undernourished
 underpants
 underpart
+underparts
 underpasses
 underpins
 underplot
@@ -30903,6 +30934,7 @@ unpliable
 unplowed
 unpopularities
 unpressured
+unpressurized
 unprincipled
 unprivileged
 unprized
@@ -30938,6 +30970,7 @@ unregenerate
 unrelenting
 unremarkably
 unrepressed
+unrequited
 unreserve
 unresponsive
 unresponsively
@@ -31403,6 +31436,7 @@ veinlet
 veinlike
 veins
 velarization
+velarizing
 velate
 veldts
 veliger
@@ -32465,6 +32499,7 @@ wulfenites
 wurtzites
 wurzels
 wushu
+wussier
 wyandotte
 wytes
 xantheins
