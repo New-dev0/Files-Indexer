@@ -1,0 +1,4 @@
+functions/Get-ScsmPxRelatedObject.ps1 1.0.8.45 - PowerShell Gallery,https://www.powershellgallery.com/packages/ScsmPx/1.0.8.45/Content/functions%255CGet-ScsmPxRelatedObject.ps1
+helpers/Add-ClassHierarchyToTypeNameList ... - PowerShell Gallery,https://www.powershellgallery.com/packages/ScsmPx/1.0.15.58/Content/helpers%255CAdd-ClassHierarchyToTypeNameList.ps1
+ScsmPx/Add-ScsmPxTroubleTicketComment.ps1 at master - GitHub,https://github.com/KirkMunro/ScsmPx/blob/master/functions/Add-ScsmPxTroubleTicketComment.ps1
+Tips/Tips - Check of DNS for specific old records.ps1 at master,https://github.com/myusefulrepo/Tips/blob/master/Tips%2520-%2520Check%2520of%2520DNS%2520for%2520specific%2520old%2520records.ps1
