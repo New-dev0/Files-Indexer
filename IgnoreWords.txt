@@ -205,6 +205,7 @@ acned
 acock
 acquaint
 acquiesce
+acquiescences
 acquired
 acquirement
 acquisitive
@@ -280,6 +281,7 @@ adenosines
 adenosis
 adenoviruses
 adequacies
+adherence
 adherends
 adheres
 adhesive
@@ -2417,6 +2419,7 @@ bedcovering
 bedcovers
 bedding
 bedeafening
+bedeafens
 bedeck
 bedevil
 bedews
@@ -3994,6 +3997,7 @@ canalising
 canalization
 canalizing
 canalled
+canalling
 canape
 canard
 canary
@@ -9571,6 +9575,7 @@ enteroviral
 enterprising
 enthronement
 enthronements
+enthused
 enthuses
 enthusing
 enthymemes
@@ -10481,6 +10486,7 @@ faucet
 faucial
 fault
 faultfinders
+faunal
 faunlike
 fauvism
 fauvist
@@ -10818,6 +10824,7 @@ fissural
 fistfight
 fistfights
 fisticuffs
+fisting
 fists
 fitches
 fitchets
@@ -11776,6 +11783,7 @@ garlic
 garlickier
 garlicky
 garmenting
+garnered
 garote
 garoted
 garotes
@@ -11874,6 +11882,7 @@ gelatinized
 gelatinizes
 gelatinously
 gelation
+gelcaps
 gelder
 geldings
 gelidnesses
@@ -12285,6 +12294,7 @@ gonging
 gongoristic
 goniff
 gonium
+gonococcal
 gonofs
 gonophores
 gonorrhea
@@ -13848,6 +13858,7 @@ hydrocrackings
 hydrocracks
 hydrofoil
 hydrogels
+hydrogen
 hydrography
 hydrolyzes
 hydromechanical
@@ -16523,6 +16534,7 @@ liroth
 lissomenesses
 list
 listable
+listels
 listened
 listenership
 listeria
@@ -17652,6 +17664,7 @@ methemoglobin
 methicillins
 methionine
 methodic
+methodised
 methodising
 methodized
 methoxides
@@ -18196,6 +18209,7 @@ mitrewort
 mitring
 mitsvoth
 mittens
+mity
 mixedly
 mixup
 mizuna
@@ -18835,6 +18849,7 @@ naiads
 nail
 nailbiter
 nailbiters
+nailbrush
 nailed
 nailer
 nailheads
@@ -19117,6 +19132,7 @@ niches
 nickeling
 nickelous
 nicker
+nickered
 nickering
 nickers
 nickling
@@ -19652,6 +19668,7 @@ obeahisms
 obeli
 obelisks
 obelisms
+obesities
 obeyer
 obeys
 obfuscated
@@ -19764,6 +19781,7 @@ octillions
 octogenarians
 octoploid
 octopods
+octothorp
 octrois
 octyl
 oculars
@@ -19921,6 +19939,7 @@ oompahs
 oomphs
 oophytes
 ooralis
+oorie
 oosperms
 oospores
 oothecae
@@ -22378,6 +22397,7 @@ polyol
 polyolefins
 polyparies
 polyphagies
+polyphonies
 polypores
 polypous
 polyptychs
@@ -23013,6 +23033,7 @@ primp
 primroses
 prims
 primus
+prince
 princelier
 princesse
 principalships
@@ -23038,6 +23059,7 @@ prisoners
 prissy
 pristine
 pristinely
+privatize
 privatizing
 privies
 privity
@@ -23348,6 +23370,7 @@ psychoanalyzed
 psychoanalyzes
 psychobiography
 psychobiologic
+psychodramas
 psychodynamic
 psychogenically
 psychologise
@@ -24394,6 +24417,7 @@ reenlarge
 reenlarges
 reenlistment
 reenlistments
+reenslaves
 reenslaving
 reentered
 reentrance
@@ -25281,6 +25305,7 @@ rheometer
 rheophiles
 rhesuses
 rhetoric
+rhetorically
 rheumatically
 rheumatism
 rheumatoid
@@ -26182,6 +26207,7 @@ scopolamine
 scopulate
 scorbutic
 scorches
+scoreboard
 scorecard
 scored
 scorekeepers
@@ -26276,6 +26302,7 @@ scudding
 scuffer
 scufflers
 sculches
+scull
 sculled
 sculler
 sculls
@@ -27470,6 +27497,7 @@ snarlers
 snarliest
 snatches
 snatching
+snath
 snathe
 snaw
 snawing
@@ -28715,6 +28743,7 @@ subcontracts
 subcooled
 subcortex
 subcortexes
+subcostals
 subcounties
 subcultured
 subcutis
@@ -28924,6 +28953,7 @@ suctorian
 sudaries
 sudations
 sudd
+suddenness
 sudsier
 sudsy
 suers
@@ -29118,6 +29148,7 @@ supersecrecy
 supersedeas
 supersedes
 supersell
+supersells
 supersessions
 supershow
 supersleuth
@@ -30523,6 +30554,7 @@ transcribers
 transcribing
 transcriptional
 transducer
+transducers
 transected
 transection
 transects
@@ -30542,6 +30574,7 @@ transgresses
 transgressive
 transgressor
 transhipping
+transience
 transients
 transilluminate
 transitiveness
@@ -31955,6 +31988,7 @@ uplifters
 uplighting
 uplinking
 upped
+uppercut
 uppercutting
 uppers
 uppings
@@ -32304,6 +32338,7 @@ versifications
 versifying
 versions
 verso
+verst
 versts
 verticality
 verticillate
