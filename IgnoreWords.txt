@@ -33,6 +33,7 @@ Wildlife
 Zoo
 abridgers
 abridgments
+abrogated
 abruptions
 abruptnesses
 abscisin
@@ -361,6 +362,7 @@ advowson
 adynamias
 adytum
 aecia
+aeciospores
 aedile
 aeonic
 aeration
@@ -5274,6 +5276,7 @@ cockleburs
 cockscomb
 cockshy
 cockspur
+cocksuckers
 cocktail
 cockup
 cocomat
@@ -5884,6 +5887,7 @@ consistences
 consistent
 consociate
 consolation
+consolidated
 consolidates
 consolidation
 consonant
@@ -6337,6 +6341,7 @@ cousin
 couture
 couturiers
 covalences
+covalent
 covariance
 coved
 coverage
@@ -6804,11 +6809,13 @@ curvet
 curveting
 curvetted
 cushats
+cushiness
 cuspated
 cusped
 cuspids
 cuspis
 cussers
+cussos
 cussword
 custodian
 custodianships
@@ -7718,6 +7725,7 @@ devilfish
 devilish
 devilling
 devils
+deviltries
 deviltry
 deviousnesses
 devisee
@@ -8100,6 +8108,7 @@ discomforting
 discommends
 discommode
 discompose
+discomposures
 disconcerted
 disconcertingly
 disconcertments
@@ -9862,6 +9871,7 @@ eucaryotes
 eucharises
 eucrite
 eudaemonism
+eudaimonism
 eudiometers
 eudiometric
 eugeosyncline
@@ -10950,6 +10960,7 @@ fluffinesses
 fluidally
 fluidise
 fluidises
+fluidities
 fluidity
 fluidization
 flukiness
@@ -11668,6 +11679,7 @@ garbagy
 garbing
 garbler
 garblers
+garboils
 garbology
 garbs
 garcons
@@ -12368,6 +12380,7 @@ grazier
 grazings
 greaseball
 greaseproofs
+greasers
 greatcoats
 greatheartedly
 grebes
@@ -12735,6 +12748,7 @@ halavah
 halavahs
 halbert
 halfbeak
+halflives
 halfpence
 halftone
 halftrack
@@ -13572,6 +13586,7 @@ hostel
 hosteller
 hostelries
 hostilely
+hostilities
 hostility
 hostler
 hostly
@@ -14278,6 +14293,7 @@ inconnu
 inconnus
 inconscient
 inconsiderate
+inconsistencies
 inconsonances
 inconsonant
 inconstancy
@@ -15996,6 +16012,7 @@ latifundio
 latifundios
 latillas
 latinized
+latitude
 latitudes
 latosol
 latte
@@ -16578,6 +16595,7 @@ loonie
 looninesses
 loons
 loopinesses
+loosely
 looseness
 looses
 loosestrife
@@ -17791,6 +17809,7 @@ minivers
 minnesingers
 minnow
 minster
+minstrels
 minters
 minutely
 minutiae
@@ -18306,6 +18325,7 @@ moralizing
 morassy
 moratoria
 morays
+mordancy
 mordantly
 mordent
 mordents
@@ -18537,6 +18557,7 @@ munched
 munchies
 mundane
 mundungus
+municipalizes
 municipally
 municipals
 munificently
@@ -19161,6 +19182,7 @@ noncooperative
 noncore
 noncreative
 noncritical
+noncrossover
 noncultivation
 nondancer
 nondancers
@@ -20249,6 +20271,7 @@ outwalked
 outwalks
 outwardnesses
 outwatching
+outwear
 outwearing
 outwears
 outwearying
@@ -20756,6 +20779,7 @@ pandemonium
 pandered
 pandoors
 pandore
+pandours
 pandying
 panegyric
 panegyrist
@@ -22446,6 +22470,7 @@ powerlessly
 poxes
 poxing
 poxviruses
+poyous
 praams
 practicability
 practicalness
@@ -22802,6 +22827,7 @@ preventiveness
 previewer
 previews
 previous
+prevised
 prevuing
 prewarns
 prewiring
@@ -23129,6 +23155,7 @@ provenances
 proves
 providences
 provinces
+provincialize
 provincially
 provitamin
 prow
@@ -27553,6 +27580,7 @@ sostenuto
 soteriology
 sotol
 sotols
+soubrette
 soubrettes
 souchongs
 soudan
@@ -29016,6 +29044,7 @@ suspenser
 suspensions
 suspensors
 suspicious
+suspirations
 sustain
 susurrant
 susurration
@@ -29025,6 +29054,7 @@ suturally
 suture
 sutured
 sutures
+svaraj
 svedberg
 svelteness
 svelter
@@ -29113,6 +29143,7 @@ switchbacks
 switchboards
 switcheroo
 switcheroos
+switching
 switchyard
 swither
 swiving
@@ -31133,6 +31164,7 @@ underbred
 underbrush
 underbuying
 undercharging
+underclasses
 underclassmen
 underclothing
 undercoating
@@ -31844,6 +31876,7 @@ vaguer
 vagus
 vair
 valeted
+valgoid
 valiancy
 valiant
 valiantly
@@ -33231,6 +33264,7 @@ zarzuelas
 zastrugi
 zazens
 zealot
+zealotries
 zealously
 zealousness
 zeatins
@@ -33293,6 +33327,7 @@ zombiisms
 zona
 zonary
 zonated
+zoneless
 zonetimes
 zoochores
 zoogeographer
