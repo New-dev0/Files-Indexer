@@ -1641,6 +1641,7 @@ assais
 assassinator
 assaulting
 assaults
+assays
 assegai
 assegaied
 assemblages
@@ -3962,6 +3963,7 @@ canasta
 cancelable
 cancelation
 cancroid
+candelabrum
 candider
 candidnesses
 candies
@@ -4912,6 +4914,7 @@ chylous
 chymist
 chymists
 cibol
+cibols
 ciboules
 cicatrization
 cicatrizing
@@ -5399,6 +5402,7 @@ coleus
 colewort
 coleworts
 colicines
+colickiest
 colicky
 colinearities
 coliphage
@@ -5709,6 +5713,7 @@ condemner
 condemning
 condensate
 condensations
+condenser
 condign
 conditioner
 condole
@@ -6388,6 +6393,7 @@ crankle
 crankles
 crannoges
 cranreuch
+crapola
 crappers
 crappiest
 crassitudes
@@ -7145,6 +7151,7 @@ decile
 decimate
 decimates
 decimation
+decipherers
 decipherment
 deciphers
 deckers
@@ -7436,6 +7443,7 @@ demount
 demounts
 dempster
 demulsified
+demurely
 demurrages
 demurral
 demurrals
@@ -9604,6 +9612,7 @@ epiphytology
 epiphytotic
 episcopacy
 episcopally
+epistemological
 epistemology
 epistolary
 epistyles
@@ -9710,6 +9719,7 @@ escalades
 escalates
 escalators
 escallops
+escaloping
 escapable
 escaped
 escapee
@@ -10325,6 +10335,7 @@ farsightedly
 farther
 fas
 fascicled
+fasciculus
 fascinator
 fascines
 fascistic
@@ -10793,6 +10804,7 @@ flax
 flay
 flayer
 flayers
+flea
 fleahopper
 fleaworts
 fleche
@@ -10995,6 +11007,7 @@ folkmote
 folksong
 folkway
 folliculitises
+follies
 follow
 follower
 followup
@@ -12119,6 +12132,7 @@ goggles
 goglet
 goglets
 gogos
+goitrogenicity
 goitrogens
 golconda
 goldenness
@@ -13546,6 +13560,7 @@ houseclean
 housecoat
 housecoats
 housefather
+houseguest
 housekeep
 houselling
 housemaids
@@ -14723,6 +14738,7 @@ interindustry
 interinvolving
 interiorise
 interiorises
+interiorizes
 interiors
 interject
 interjectory
@@ -17456,6 +17472,7 @@ metopes
 metre
 metred
 metrical
+metricates
 metrologist
 metrology
 metronidazole
@@ -17816,6 +17833,7 @@ misfiled
 misfire
 misfiring
 misfocuses
+misfocusing
 misfocusses
 misfocussing
 misfortunes
@@ -18868,6 +18886,7 @@ newsmakers
 newsman
 newsmongers
 newspersons
+newsrooms
 newsstand
 newsworthy
 newswriting
@@ -21837,6 +21856,7 @@ plankters
 plankton
 planlessnesses
 plantain
+plantations
 planters
 plantigrade
 plantigrades
@@ -22774,6 +22794,7 @@ pristinely
 privatizing
 privies
 privity
+prizefight
 prizefighters
 prizefights
 proa
@@ -23038,6 +23059,7 @@ prudishly
 prune
 prunellos
 pruriences
+pruriency
 prussianise
 prutot
 prutoth
@@ -23257,6 +23279,7 @@ pusleys
 pussyfoot
 pussyfooters
 pustulant
+putoff
 putrefied
 putrescence
 putrescent
@@ -25255,6 +25278,7 @@ rotates
 rotations
 rotatively
 rotaviruses
+rotches
 rotes
 roti
 rotis
@@ -25335,6 +25359,7 @@ rudderpost
 ruddled
 ruddlemen
 ruddles
+rudds
 rudery
 rudesbies
 rudiment
@@ -25556,6 +25581,7 @@ sambuca
 sambucas
 samburs
 samiels
+samisens
 samizdat
 samosas
 samovar
@@ -25766,6 +25792,7 @@ scapose
 scar
 scare
 scareder
+scaremongers
 scarf
 scarfed
 scarfpin
@@ -27654,6 +27681,7 @@ spireme
 spiremes
 spires
 spirilla
+spirillum
 spirited
 spiritism
 spiritist
@@ -27752,6 +27780,7 @@ sprawly
 sprayer
 sprees
 sprigger
+spriggers
 sprightliness
 sprightlinesses
 springalds
@@ -28408,6 +28437,7 @@ subdwarf
 subedited
 subeditors
 subentries
+subentry
 suberic
 suberize
 suberizing
@@ -29605,6 +29635,7 @@ theologue
 theophany
 theophylline
 theoretic
+theorize
 thereafter
 therein
 thermel
@@ -29989,6 +30020,7 @@ topis
 topkicks
 toploftily
 toploftiness
+toplofty
 topmost
 topograph
 topographers
@@ -31352,6 +31384,7 @@ unpuzzles
 unquelled
 unquestionable
 unquestioningly
+unquiet
 unravels
 unreached
 unreadiest
@@ -32918,6 +32951,7 @@ wussier
 wyandotte
 wytes
 xantheins
+xanthene
 xanthomata
 xanthone
 xanthophyll
@@ -33169,6 +33203,7 @@ zoonotic
 zoophilia
 zoophyte
 zooplanktons
+zoosperm
 zoosterol
 zootomic
 zootomist
