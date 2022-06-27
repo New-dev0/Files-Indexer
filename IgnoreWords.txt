@@ -1135,6 +1135,7 @@ antifascisms
 antifashionable
 antifashions
 antifat
+antifog
 antiforeigner
 antiformalist
 antifouling
@@ -3075,6 +3076,7 @@ bodement
 bodices
 bodings
 bods
+bodyboarded
 bodybuilders
 bodybuilding
 bodybuildings
@@ -6647,6 +6649,7 @@ crumbers
 crumby
 crumhorn
 crumhorns
+crummie
 crummier
 crummies
 crumminesses
@@ -7143,6 +7146,7 @@ debating
 debauch
 debauched
 debauchee
+debauchery
 debeaks
 debilitation
 debits
@@ -8087,6 +8091,7 @@ disaggregated
 disagreeable
 disagreement
 disallowed
+disambiguations
 disappearance
 disappears
 disappoint
@@ -8569,6 +8574,7 @@ dotage
 dotation
 doters
 dotingly
+dottier
 dottily
 dottle
 dottrels
@@ -9896,6 +9902,7 @@ etna
 etoile
 etoiles
 etudes
+etui
 etyma
 etymologised
 etymologising
@@ -11026,6 +11033,7 @@ fluorosis
 flurries
 flurry
 flushable
+flushes
 flusteredly
 flutterboard
 flutterer
@@ -11260,6 +11268,7 @@ forwards
 forzandi
 foscarnet
 foscarnets
+fossettes
 fossicked
 fossicks
 fossilised
@@ -11664,6 +11673,7 @@ gallnuts
 gallons
 galloons
 galloper
+galluses
 galop
 galoshed
 galvanic
@@ -11957,6 +11967,7 @@ ghastlinesses
 ghastly
 ghat
 ghees
+gherao
 ghettoes
 ghettoizes
 ghettoizing
@@ -12132,6 +12143,7 @@ glorying
 glossator
 glossators
 glossemes
+glossinas
 glossiness
 glossitis
 glossolalia
@@ -15008,6 +15020,7 @@ intruders
 intrusively
 intrusting
 intubate
+intubation
 intuiting
 intuition
 intuitionist
@@ -16042,6 +16055,7 @@ laryngitis
 laryngoscope
 laryngoscopes
 lasagnes
+lasher
 lashes
 lasses
 lassoes
@@ -16878,6 +16892,7 @@ macron
 macronuclei
 macrophage
 macrophyte
+macroscales
 macroscopic
 macrostructural
 macrostructure
@@ -16971,6 +16986,7 @@ malfed
 malformations
 malfunction
 malfunctioning
+malignance
 maligner
 maligning
 mallard
@@ -17882,6 +17898,7 @@ mioses
 mir
 miracidia
 miracidium
+miracles
 miraculous
 mirandize
 mirepoix
@@ -18408,6 +18425,7 @@ moronically
 moronity
 morose
 moroseness
+morphemics
 morphinic
 morphins
 morphogenic
@@ -21099,6 +21117,7 @@ patchworking
 patchworks
 pate
 patelliform
+patentabilities
 patentability
 path
 pathetically
@@ -22072,6 +22091,7 @@ plausive
 playbills
 playbook
 playdown
+playfulnesses
 playgoers
 playhouse
 playlet
@@ -23581,6 +23601,7 @@ qualms
 quangos
 quant
 quanta
+quantal
 quantifies
 quanting
 quantitate
@@ -24057,6 +24078,7 @@ recapitulated
 recapitulation
 recapitulations
 recapped
+recaptured
 recapturing
 recarpet
 recarpets
@@ -24081,6 +24103,7 @@ rechecked
 rechoosing
 rechose
 recipe
+reciprocal
 reciprocally
 reciprocating
 reciprocities
@@ -24515,6 +24538,7 @@ reinforcing
 reinforming
 reinitiated
 reinjections
+reinjure
 reinless
 reinoculates
 reinoculating
@@ -24728,6 +24752,7 @@ repellants
 repelled
 repellencies
 repentantly
+repented
 repenter
 repenters
 repeopling
@@ -26631,6 +26656,7 @@ shapeups
 shards
 shareabilities
 sharecrops
+shareholders
 sharewares
 sharias
 sharifs
@@ -27559,6 +27585,7 @@ solions
 solipsistically
 solipsists
 solitaries
+solitarily
 solitons
 solitudes
 solitudinarian
@@ -27929,6 +27956,7 @@ splotchy
 splutters
 spodes
 spodosols
+spokesmanships
 spokespeople
 spokeswomen
 spondylitises
@@ -28499,6 +28527,7 @@ stringhalts
 stringiest
 stringily
 stringing
+stringpieces
 strings
 striped
 stripeless
@@ -29342,6 +29371,7 @@ syntagms
 syntaxes
 syntheses
 synthesist
+synthesize
 synthpop
 syntony
 syphers
@@ -29587,6 +29617,7 @@ tearfulnesses
 tearing
 tearstains
 teasable
+teased
 teaselled
 teaspoonful
 teaspoons
@@ -29906,6 +29937,7 @@ thinnish
 thiocyanate
 thionate
 thionine
+thiotepas
 thirams
 thirst
 thirster
@@ -30536,6 +30568,7 @@ tremble
 trembled
 tremor
 trenail
+trenching
 trendies
 trendiest
 trendiness
@@ -31750,6 +31783,7 @@ untangle
 unteaching
 untechnical
 untenability
+untenable
 untested
 unthinking
 untidied
@@ -32989,6 +33023,7 @@ wisp
 wisping
 wisps
 wissed
+wistfulness
 wisting
 wists
 witches
