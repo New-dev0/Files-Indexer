@@ -825,6 +825,7 @@ amnia
 amnio
 amnions
 amniotic
+amobarbital
 amoebas
 amoks
 amorettos
@@ -2304,6 +2305,7 @@ battlers
 battue
 baud
 baulk
+baulkiest
 bauxitic
 bawdier
 bawdy
@@ -2850,6 +2852,7 @@ bitchery
 bitchiest
 biteable
 biter
+bites
 bitmap
 bitmapped
 bitted
@@ -4776,6 +4779,7 @@ chiselers
 chiselled
 chital
 chitchats
+chittering
 chitties
 chivalrous
 chivvy
@@ -5670,6 +5674,7 @@ comsymps
 concatenate
 concave
 concealers
+conceders
 conceive
 conceives
 concentrators
@@ -7425,6 +7430,7 @@ democracies
 demographer
 demographic
 demography
+demolishers
 demolishment
 demonesses
 demonic
@@ -10669,6 +10675,7 @@ firefanged
 fireflies
 firefly
 firehall
+firemanic
 firepan
 fireplace
 fireplug
@@ -10986,6 +10993,7 @@ fogged
 foggiest
 fogyish
 foibles
+foiling
 foils
 foin
 foins
@@ -11302,6 +11310,7 @@ freneticism
 freneticisms
 frenula
 frenums
+frenzying
 frequentation
 frequently
 frescoist
@@ -11997,6 +12006,7 @@ gleeked
 gleesome
 gleetiest
 gleization
+glengarry
 glibber
 glibbest
 glibness
@@ -12954,6 +12964,7 @@ headwaiters
 heady
 healers
 heaps
+hearings
 hearkeners
 hearkening
 hearsays
@@ -13422,6 +13433,7 @@ honda
 hondle
 hondled
 hondles
+honestest
 honesties
 honestly
 honeworts
@@ -14696,6 +14708,7 @@ intercoastal
 intercollegiate
 intercomparing
 interconnect
+interconnecting
 interconnection
 interconnects
 intercooler
@@ -14962,6 +14975,7 @@ inwardnesses
 inwards
 inweaving
 inwinding
+inwound
 inwove
 iodate
 iodation
@@ -15114,6 +15128,7 @@ isthmian
 isthmus
 istle
 italianated
+italianizing
 italicizes
 itching
 itchings
@@ -15283,6 +15298,7 @@ jingoisms
 jinkers
 jinni
 jinx
+jipijapas
 jitterbugs
 jitteriness
 jiveass
@@ -15762,6 +15778,7 @@ labellum
 labializations
 labializes
 labials
+labiodental
 labiovelar
 laboriously
 labourers
@@ -16087,6 +16104,7 @@ leistered
 leisureliness
 leitmotiv
 lek
+lekvar
 lekythos
 lekythus
 lemminglike
@@ -16173,6 +16191,7 @@ liberalising
 liberalism
 liberalizers
 liberated
+liberationists
 libertine
 liberty
 libidinously
@@ -17758,6 +17777,7 @@ misalignment
 misalignments
 misalliances
 misallocate
+misallocation
 misallots
 misallotting
 misalters
@@ -17932,6 +17952,7 @@ missioner
 missioners
 missionized
 missionizes
+missound
 misspeaks
 misspell
 misstarting
@@ -18576,6 +18597,7 @@ myelomata
 myelomatous
 myelopathic
 myoelectric
+myogenic
 myoglobin
 myoinositols
 myologies
@@ -19384,6 +19406,7 @@ nulling
 numbats
 numbfish
 numbness
+numbnesses
 numbskull
 numeracy
 numeral
@@ -19644,6 +19667,7 @@ olivine
 ololiuqui
 ololiuquis
 olympiads
+omasa
 omasum
 omber
 ombre
@@ -21419,6 +21443,7 @@ phereses
 phi
 phial
 philanthropical
+philanthropoid
 philanthropoids
 philanthropy
 philatelically
@@ -22373,6 +22398,7 @@ practicability
 practicalness
 practised
 praenomen
+praesidium
 praetorian
 pragmatisms
 prairie
@@ -22413,6 +22439,7 @@ preaged
 preallots
 preallotting
 prealter
+preamplifier
 preanal
 preapplies
 preapprove
@@ -25542,6 +25569,7 @@ saliva
 salivator
 salivators
 salliers
+sallow
 sallowest
 sally
 salmonellae
@@ -26304,6 +26332,7 @@ serial
 serializing
 seriates
 seriatim
+sericin
 sericulture
 sericulturist
 sericulturists
@@ -27273,6 +27302,7 @@ soapsudsy
 soar
 sobas
 sobbingly
+sober
 soberer
 soberest
 sobering
@@ -27344,6 +27374,7 @@ solemnized
 solemnnesses
 soleplate
 soleprint
+solfeggio
 soliciting
 solicitude
 solidarisms
@@ -28133,6 +28164,7 @@ stithy
 stivers
 stob
 stoccata
+stoccatas
 stockading
 stockage
 stockiest
@@ -29214,6 +29246,7 @@ talcums
 talebearer
 talentless
 talesmen
+taleysim
 talion
 talisman
 talismanically
@@ -31106,6 +31139,7 @@ underuse
 underused
 undervests
 underweights
+underwhelms
 underwings
 underwool
 underworks
@@ -31860,6 +31894,7 @@ veering
 vees
 veganism
 vegetal
+vegetarian
 vegetarians
 vegetates
 vegetating
