@@ -621,6 +621,7 @@ aliening
 alienisms
 alienist
 alif
+aliform
 alifs
 aliment
 aline
@@ -985,6 +986,7 @@ anesthetically
 anesthetizing
 anga
 angel
+angeled
 angelfishes
 angelically
 angelologies
@@ -1318,6 +1320,7 @@ apogamic
 apogeic
 apolog
 apologetics
+apologies
 apologist
 apologists
 apologues
@@ -1391,6 +1394,7 @@ appreciatory
 apprehended
 apprehends
 apprehensibly
+apprentice
 appressoria
 appressorium
 apprise
@@ -1523,6 +1527,7 @@ armada
 armadas
 armagnacs
 armature
+armed
 armiger
 armistices
 armlock
@@ -1925,6 +1930,7 @@ autotetraploidy
 autotomic
 autumn
 autunites
+avail
 availing
 avant
 avaunt
@@ -3271,6 +3277,7 @@ bothriums
 botrytis
 bottle
 bottlers
+bottlings
 bottomland
 bottomlands
 bottommost
@@ -3825,6 +3832,7 @@ by
 bynames
 byrled
 byroad
+bystreet
 bytes
 bywork
 cabalist
@@ -4396,6 +4404,7 @@ catlings
 catnapping
 catoptric
 cats
+cattalo
 cattaloes
 cattie
 cattlemen
@@ -5327,6 +5336,7 @@ cocker
 cockered
 cockeye
 cockeyedness
+cockhorse
 cockhorses
 cockily
 cockleburs
@@ -7791,6 +7801,7 @@ detrainments
 deuced
 deuterides
 deuteriums
+devaluations
 devas
 devastated
 devastations
@@ -9036,9 +9047,11 @@ eatery
 eath
 eavesdropper
 ebony
+ebulliences
 ecartes
 eccentricities
 ecclesiae
+ecclesiasticism
 ecclesiastics
 ecclesiological
 ecclesiologist
@@ -9336,6 +9349,7 @@ embrues
 embruted
 embryologies
 embryologist
+embryologists
 embryos
 eme
 emeerate
@@ -10283,6 +10297,7 @@ extractions
 extractives
 extractor
 extraditable
+extradite
 extraditing
 extragalactic
 extralimital
@@ -10410,6 +10425,7 @@ falterers
 falters
 familiar
 familiarises
+familiarity
 familiarize
 familistic
 faming
@@ -14596,6 +14612,7 @@ ineptnesses
 inequity
 inequivalve
 inerrable
+inerrancy
 inertial
 inertially
 inertias
@@ -15691,6 +15708,7 @@ karyotins
 kasbahs
 kashruth
 kashruths
+katakana
 katas
 katcinas
 kathodes
@@ -16038,6 +16056,7 @@ ladyhood
 ladykins
 ladylove
 lag
+laggardnesses
 lagger
 lagging
 lagnappe
@@ -16160,6 +16179,7 @@ lassoes
 lasters
 lastings
 lasts
+lat
 latches
 latching
 lateener
@@ -18249,6 +18269,7 @@ misty
 misunderstand
 misunderstands
 misvalue
+misvalued
 misword
 miswording
 miswords
@@ -22636,6 +22657,7 @@ postorbital
 postpollination
 postponed
 postponement
+postponements
 postponer
 postpositively
 postproductions
@@ -23191,6 +23213,7 @@ profanation
 profanatory
 profane
 profaneness
+profaning
 professedly
 professor
 professorial
@@ -23266,6 +23289,7 @@ proofreading
 proofreads
 proofroom
 proofrooms
+prop
 propaganda
 propagandas
 propagandizes
@@ -24023,6 +24047,7 @@ rapists
 rappeling
 rappels
 rappen
+rapper
 rapping
 rapt
 raptness
@@ -25669,6 +25694,7 @@ roto
 rotors
 rottweilers
 rotunda
+rotundness
 rouches
 roues
 roughbacks
@@ -27207,6 +27233,7 @@ singles
 singlestick
 singlet
 singletons
+sings
 singularities
 sink
 sinking
@@ -28338,6 +28365,7 @@ stamp
 stampeding
 stampless
 stamps
+stance
 stanchers
 standardizing
 standardless
@@ -28802,6 +28830,7 @@ suability
 suable
 suably
 suasivenesses
+suave
 suaver
 subadults
 subaerially
@@ -30147,6 +30176,7 @@ thirty
 thirtyish
 thongs
 thoracotomy
+thorium
 thornback
 thornbushes
 thornier
@@ -30190,6 +30220,7 @@ thrown
 thrummer
 thrummiest
 thrumming
+thrummy
 thruputs
 thrushes
 thrusted
@@ -30206,6 +30237,7 @@ thump
 thumpers
 thunderbirds
 thunderbolts
+thunderclaps
 thunderclouds
 thunderstricken
 thunderstruck
@@ -30270,6 +30302,7 @@ tightly
 tightrope
 tightwires
 tigon
+tigons
 tigresses
 tikes
 tikka
@@ -31705,6 +31738,7 @@ unhorses
 unhostile
 unhoused
 unhousing
+unhumorous
 unhung
 unhurried
 unhygienic
@@ -33663,6 +33697,7 @@ zipping
 zitherist
 zizzle
 zizzled
+zoa
 zoantharians
 zoarium
 zocalo
