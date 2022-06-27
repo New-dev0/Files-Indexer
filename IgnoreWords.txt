@@ -215,6 +215,7 @@ acrimonies
 acritarch
 acrobatics
 acrodont
+acrogenic
 acrogens
 acrolith
 acromia
@@ -1787,6 +1788,7 @@ attitudinise
 attitudinised
 attorneyship
 attorneyships
+attornments
 attract
 attractants
 attrite
@@ -2266,6 +2268,7 @@ bastinade
 bastinado
 bastinadoed
 bat
+batcher
 bate
 bateau
 batfowler
@@ -2854,6 +2857,7 @@ bittered
 bittering
 bitternuts
 bittersweet
+bitterweed
 bittiest
 bittock
 bittocks
@@ -5876,6 +5880,7 @@ constantan
 constellating
 consternate
 consternation
+consternations
 constituently
 constituents
 constitutes
@@ -6288,6 +6293,7 @@ countian
 countryfied
 countryman
 countrysides
+countrywomen
 coupes
 couplements
 couples
@@ -6957,6 +6963,7 @@ damiana
 damnableness
 damnably
 damosel
+damosels
 damozels
 damped
 dampener
@@ -8472,6 +8479,7 @@ dorsers
 dorsiventral
 dorsiventrality
 dorsiventrally
+dorty
 dosimeter
 dosimetries
 dossals
@@ -9234,6 +9242,7 @@ emu
 emulating
 emulators
 emyds
+enabled
 enactment
 enactors
 enalaprils
@@ -10176,6 +10185,7 @@ factored
 factotums
 factual
 factualisms
+factualist
 facture
 faculty
 faddishness
@@ -12373,6 +12383,7 @@ grizzlers
 grizzles
 grizzlier
 grocer
+groceries
 grocers
 grocery
 grody
@@ -12893,6 +12904,7 @@ headful
 headfuls
 headgears
 headhunt
+headhunter
 headhunts
 headily
 headiness
@@ -13900,6 +13912,7 @@ illustrations
 illustriously
 illustriousness
 illuviums
+image
 imaged
 imager
 imaginably
@@ -16721,6 +16734,7 @@ mafiosos
 magazine
 magdalene
 maggot
+magi
 magic
 magisterially
 magisterium
@@ -16803,6 +16817,7 @@ malleolus
 malmier
 malmy
 malnutritions
+malocclusions
 malodor
 maloti
 malposition
@@ -17855,6 +17870,7 @@ mispoised
 mispoising
 mispositioning
 misprices
+misprinted
 misprints
 misprized
 misprizes
@@ -18032,6 +18048,7 @@ monadal
 monades
 monadnock
 monarch
+monarchial
 monarchical
 monarchists
 monarchy
@@ -18264,6 +18281,7 @@ motorman
 mott
 mottling
 motts
+mouchoir
 moufflons
 moujik
 moulages
@@ -18483,6 +18501,7 @@ mutable
 mutagen
 mutagenicities
 mutagenicity
+mutagens
 mutants
 mutative
 mutedly
@@ -20025,6 +20044,7 @@ outmuscled
 outpace
 outpatients
 outplace
+outplacement
 outpointing
 outpoints
 outpoliticks
@@ -20576,6 +20596,7 @@ palladia
 palladium
 pallet
 palletised
+palletizer
 pallets
 pallid
 pallier
@@ -21688,6 +21709,7 @@ pipes
 pipestem
 pipinesses
 pipingly
+pipits
 pipkin
 pipping
 pipy
@@ -21935,6 +21957,7 @@ poaches
 pochard
 pock
 pocketers
+pocketing
 pocketknife
 pockmarks
 pocky
@@ -22091,6 +22114,7 @@ polyvinyl
 polywaters
 polyzoary
 polyzoic
+pomade
 pomaded
 pomanders
 pomegranates
@@ -22345,6 +22369,7 @@ preadopted
 preadult
 preaged
 preallots
+preallotting
 prealter
 preanal
 preapplies
@@ -23721,6 +23746,7 @@ reappointing
 reappointments
 reappraised
 reappropriate
+reappropriated
 rearers
 rearmament
 rearmaments
@@ -23904,6 +23930,7 @@ recooked
 recopying
 recordations
 recordist
+recordists
 recorks
 recounter
 recoupe
@@ -24766,6 +24793,7 @@ retexturing
 rethinker
 rethinkers
 rethreaded
+retia
 retiarii
 reticulate
 reticulately
@@ -25031,6 +25059,8 @@ rightists
 rightmost
 rightnesses
 rights
+rigidification
+rigidity
 rigorism
 rigorousness
 rigorousnesses
@@ -26835,6 +26865,7 @@ skinned
 skinners
 skintight
 skip
+skiplanes
 skippered
 skippering
 skippets
@@ -30103,11 +30134,13 @@ transcribers
 transcribing
 transcriptional
 transducer
+transected
 transection
 transects
 transepts
 transfected
 transfecting
+transfections
 transferals
 transferrable
 transferred
@@ -32103,6 +32136,7 @@ voluntaryism
 voluntaryists
 volunteering
 volunteerisms
+voluptuously
 volutes
 volutins
 volvox
@@ -32589,6 +32623,7 @@ windjammers
 windless
 windmills
 windowing
+windowpanes
 windows
 windpipes
 windrowed
