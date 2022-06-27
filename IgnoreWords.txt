@@ -3703,6 +3703,7 @@ burse
 burthen
 burweed
 burying
+busbar
 busboys
 bushbucks
 busheler
@@ -3900,6 +3901,7 @@ calorimetry
 calos
 calottes
 calpac
+calpacks
 caltrap
 calumniations
 calumnies
@@ -5763,6 +5765,7 @@ conflict
 confluent
 confluxes
 conformance
+conformer
 conformist
 conformists
 confraternities
@@ -6803,6 +6806,7 @@ cuteness
 cutes
 cutest
 cuteys
+cutin
 cutinised
 cutinizes
 cutlas
@@ -7413,6 +7417,7 @@ demobilize
 democracies
 demographer
 demographic
+demography
 demolishment
 demonesses
 demonic
@@ -8498,6 +8503,7 @@ doublenesses
 doublespeak
 doubters
 doubtlessly
+douched
 douches
 doughboy
 doughiest
@@ -9447,6 +9453,7 @@ entasis
 enter
 enterer
 enteric
+enteritises
 enterococcus
 enterocoele
 enterokinase
@@ -10993,6 +11000,7 @@ follower
 followup
 fomite
 fon
+fondants
 fonded
 fonder
 fondest
@@ -11321,6 +11329,7 @@ frized
 frizers
 frizzing
 frizzles
+frizzlier
 frogged
 frogging
 froghoppers
@@ -11773,6 +11782,7 @@ genteelness
 genteelnesses
 gentian
 gentlemanliness
+gentlemanly
 gentlemen
 gentler
 gentoo
@@ -13011,6 +13021,7 @@ hellacious
 hellbenders
 hellboxes
 helled
+hellers
 hellgrammites
 hellhound
 hellions
@@ -16205,6 +16216,7 @@ lightfaces
 lightfast
 lighthearted
 lightheartedly
+lightning
 lightplane
 lightwave
 lignan
@@ -16218,6 +16230,7 @@ liking
 likings
 lilliputian
 lily
+limacine
 limb
 limberest
 limbic
@@ -17208,6 +17221,7 @@ meets
 meg
 megabuck
 megacorporation
+megacycle
 megadose
 megadynes
 megahertz
@@ -18167,6 +18181,7 @@ monumental
 monumentalizing
 monuments
 monzonite
+moodily
 moods
 mool
 moolah
@@ -18276,6 +18291,7 @@ motorically
 motorising
 motorization
 motorize
+motorized
 motorizing
 motorman
 mott
@@ -18473,6 +18489,7 @@ mushier
 mushiest
 music
 musical
+musicality
 musicologies
 musicology
 muskegs
@@ -18827,6 +18844,7 @@ neutralises
 neutralist
 neutrons
 neutrophil
+neve
 neverminds
 nevi
 nevus
@@ -21658,6 +21676,7 @@ pimpernel
 pimply
 pimpmobile
 pinafored
+pinata
 pinballed
 pinch
 pinchbug
@@ -21683,6 +21702,7 @@ pinkroot
 pinna
 pinnace
 pinocytosis
+pinon
 pinpoints
 pins
 pinschers
@@ -22245,6 +22265,7 @@ postisolation
 postlaunch
 postmarital
 postmastectomy
+postmaster
 postmasters
 postmedieval
 postmenopausal
@@ -22256,6 +22277,7 @@ postnatally
 postorbital
 postpollination
 postponed
+postponement
 postponer
 postpositively
 postproductions
@@ -22390,6 +22412,7 @@ prebudgets
 prebuilds
 prebuying
 precancer
+precariousness
 precede
 precensor
 precensoring
@@ -23077,6 +23100,7 @@ psylliums
 pteranodon
 pteridological
 pteridophyte
+pteridophytes
 ptisan
 ptyalin
 puberulent
@@ -23291,6 +23315,7 @@ pyroxenoid
 pyrrhic
 pyrrole
 pyrroles
+pythons
 pyuria
 pyurias
 pyxes
@@ -25988,6 +26013,7 @@ sealery
 sealift
 sealifts
 seamanships
+seamstress
 seapieces
 seaquakes
 searchingly
@@ -28036,6 +28062,7 @@ stichomythy
 sticker
 stickers
 stickfuls
+stickhandling
 stickled
 sticklers
 stickling
@@ -28132,6 +28159,7 @@ storyboarded
 storyboarding
 stotin
 stoup
+stourie
 stoury
 stoutening
 stover
@@ -28558,6 +28586,7 @@ sucker
 suckfishes
 suckle
 suckler
+suckless
 sucky
 sucres
 suction
@@ -28943,6 +28972,7 @@ swillers
 swimmily
 swindles
 swing
+swingers
 swinges
 swingletrees
 swingling
@@ -29184,6 +29214,7 @@ tambourines
 tambouring
 tambur
 tameable
+tamenesses
 tamer
 tames
 tammie
@@ -29497,6 +29528,7 @@ terrorisms
 terrorists
 terrorizations
 terrorless
+tersely
 terseness
 tertiaries
 tertiary
@@ -29575,6 +29607,7 @@ theophylline
 theoretic
 thereafter
 therein
+thermel
 thermic
 thermidor
 thermionics
@@ -31705,6 +31738,7 @@ vandyke
 vandykes
 vang
 vanguards
+vanillins
 vanities
 vanned
 vanpoolings
@@ -32175,6 +32209,7 @@ vulcanized
 vulcanizer
 vulcanology
 vulgarer
+vulgarian
 vulgarised
 vulgarism
 vulgarization
