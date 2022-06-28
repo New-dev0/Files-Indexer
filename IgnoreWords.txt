@@ -1207,6 +1207,7 @@ antipolitical
 antipolitics
 antipollution
 antipollutions
+antipoverty
 antiprotons
 antipsychotic
 antipyretic
@@ -1389,6 +1390,7 @@ applies
 applying
 appoint
 appointing
+appointive
 appositive
 appraisees
 appraisers
@@ -1747,6 +1749,7 @@ astringing
 astrological
 astrometric
 astrometries
+astronautics
 astronomer
 astronomical
 astrophysics
@@ -1920,6 +1923,7 @@ autolysed
 autolyzes
 automaker
 automan
+automat
 automatically
 automaticities
 automatizes
@@ -3032,6 +3036,7 @@ bloodlettings
 bloodlust
 bloods
 bloodshed
+bloodstock
 bloodstones
 blooming
 blooper
@@ -3966,6 +3971,7 @@ callouses
 callousing
 callow
 callus
+calm
 calmly
 calomel
 calorically
@@ -4955,6 +4961,7 @@ chroma
 chromates
 chromaticism
 chromatids
+chromatography
 chromiest
 chrominance
 chromite
@@ -5462,6 +5469,7 @@ cohoshes
 cohostess
 cohosting
 coif
+coiffed
 coiffes
 coiffeuses
 coiffures
@@ -7120,6 +7128,7 @@ dangers
 dangliest
 dankest
 dans
+dap
 daphnias
 dapperly
 dappled
@@ -7636,6 +7645,7 @@ departs
 dependabilities
 dependability
 dependance
+dependant
 dependent
 depermed
 deperming
@@ -8917,6 +8927,7 @@ dulcifies
 duller
 dulness
 dumbed
+dumbfounder
 dumbfoundered
 dumbfoundering
 dumbs
@@ -9170,6 +9181,7 @@ effectuation
 effectuations
 effeminacy
 efferents
+effete
 efficacity
 efficacy
 efficiencies
@@ -10168,6 +10180,7 @@ exempts
 exenterated
 exenterates
 exercise
+exercisers
 exercitations
 exergues
 exertive
@@ -10518,6 +10531,7 @@ farmer
 farmerette
 farmerettes
 farmhouse
+farmwife
 farmwives
 farmworker
 faro
@@ -10862,6 +10876,7 @@ firebreaks
 firebrick
 fireclay
 fireclays
+firedamp
 firefanged
 fireflies
 firefly
@@ -11120,6 +11135,7 @@ fluctuating
 flued
 flues
 fluffer
+fluffiest
 fluffinesses
 fluidally
 fluidise
@@ -13025,6 +13041,7 @@ hankies
 hanks
 hanseatic
 hanselling
+haole
 haphtara
 haphtarah
 haphtarot
@@ -13469,6 +13486,7 @@ hibernated
 hibernates
 hibernators
 hick
+hid
 hidden
 hiddenites
 hiddenness
@@ -18035,6 +18053,7 @@ minciest
 mind
 mindedness
 mindful
+mindfulnesses
 mindless
 mineral
 mineralised
@@ -19753,6 +19772,7 @@ nucleosynthetic
 nucleotidases
 nucleuses
 nuder
+nudes
 nudest
 nudie
 nudists
@@ -20711,6 +20731,7 @@ overgreat
 overgrows
 overgrowths
 overhandling
+overhate
 overheaped
 overheaping
 overhear
@@ -21494,6 +21515,7 @@ pelorus
 pelt
 peltation
 pelycosaurs
+pemoline
 pemolines
 pemphixes
 pen
@@ -23131,6 +23153,7 @@ prettily
 prettiness
 pretype
 pretyped
+pretyping
 pretzel
 preunions
 prevailers
@@ -23626,6 +23649,7 @@ pumpkinseed
 pumps
 punas
 punchball
+punchboards
 puncheon
 puncher
 punches
@@ -26712,6 +26736,7 @@ sempiternities
 sempstresses
 senatorships
 senecios
+senescent
 senhoritas
 sennight
 sennights
@@ -27778,6 +27803,7 @@ snufflier
 snuffliest
 snugly
 snugnesses
+snye
 soaks
 soaped
 soapiness
@@ -28033,6 +28059,7 @@ spallable
 spalling
 spambot
 spammed
+spammers
 spancelling
 spangle
 spangles
@@ -28922,6 +28949,7 @@ subagency
 subah
 subahdars
 suballocations
+subaltern
 subarctic
 subarctics
 subas
@@ -29243,6 +29271,7 @@ summed
 summerlike
 summersaulting
 summersets
+summertime
 summerwood
 summerwoods
 summiteer
@@ -29327,6 +29356,7 @@ superiorities
 superjumbo
 superjumbos
 superlativeness
+superlies
 superliners
 superloyalists
 superlunar
@@ -29908,6 +29938,7 @@ taxidermic
 taximeter
 taximeters
 taxol
+tazza
 tazzas
 tchotchkes
 teaberry
@@ -30241,6 +30272,7 @@ thicksets
 thievery
 thimble
 thindowns
+thing
 thingamabob
 thinkably
 thinker
@@ -31250,6 +31282,7 @@ turpentine
 turquoises
 turtleback
 turtles
+tushed
 tusker
 tuskers
 tuskless
@@ -32749,6 +32782,7 @@ vitiations
 viticulture
 vitrains
 vitric
+vitrics
 vitrification
 vittled
 vituperation
@@ -33622,6 +33656,7 @@ yahoo
 yahoos
 yahrzeit
 yaird
+yaks
 yald
 yammer
 yammering
