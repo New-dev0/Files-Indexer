@@ -239,6 +239,7 @@ actinoid
 actinomorphies
 actinomorphy
 actinomyces
+actinomycetous
 actinon
 action
 actionably
@@ -1410,6 +1411,7 @@ approximated
 approximation
 approximations
 appulses
+appurtenant
 apropos
 apses
 apsides
@@ -3093,6 +3095,7 @@ boasting
 boatbuilding
 boated
 boater
+boathouses
 boatnecks
 boatsmen
 boatyard
@@ -3932,6 +3935,7 @@ calendric
 calendrical
 calesas
 calflike
+calicles
 calicoes
 calicos
 califates
@@ -5260,6 +5264,7 @@ clunking
 clupeids
 clustering
 clustery
+clutching
 clypeate
 cnidae
 coacervations
@@ -5269,6 +5274,7 @@ coadjutor
 coadjutrices
 coadmire
 coadmires
+coadmiring
 coadmits
 coagulability
 coagulants
@@ -6685,6 +6691,7 @@ crotchet
 crotchety
 crouching
 croupe
+croutes
 croutons
 crowd
 crowders
@@ -7460,6 +7467,7 @@ deify
 deifying
 deindustrialize
 deinonychuses
+deionizer
 deionizers
 deistically
 deity
@@ -7890,6 +7898,7 @@ dialectics
 dialectologist
 dialectology
 dialects
+dialist
 diallages
 dialled
 diallers
@@ -10041,6 +10050,7 @@ evanishes
 evaporation
 evaporations
 evaporators
+evasive
 evasively
 even
 evenest
@@ -10067,6 +10077,7 @@ eviscerating
 eviting
 evolute
 evolutionist
+evulsions
 ewe
 ewes
 exacters
@@ -10357,10 +10368,12 @@ fabulates
 fabulating
 fabulously
 facer
+facers
 faces
 facete
 facetious
 facia
+faciends
 facilitators
 facilities
 facsimiles
@@ -10929,6 +10942,7 @@ flake
 flakier
 flaky
 flam
+flambes
 flamboyances
 flamelike
 flamens
@@ -11359,6 +11373,7 @@ fortressed
 fortresses
 fortune
 fortuned
+forum
 forward
 forwarding
 forwards
@@ -14489,6 +14504,7 @@ incorrupted
 incorruptibles
 incorruptly
 increate
+incredibilities
 incredibly
 incrimination
 incross
@@ -15741,6 +15757,7 @@ kebbocks
 kebbuck
 kebbucks
 kebob
+kecking
 keckles
 kecks
 kedges
@@ -16698,6 +16715,7 @@ lobotomizing
 lobotomy
 lobscouse
 lobstick
+lobsticks
 lobworms
 localises
 localising
@@ -17443,6 +17461,7 @@ mayest
 mayo
 mayor
 mayos
+mayweeds
 mazaedium
 mazard
 mazelike
@@ -18744,6 +18763,7 @@ multiformities
 multigroup
 multijet
 multilane
+multileveled
 multilobes
 multimedia
 multimember
@@ -18782,6 +18802,7 @@ mumbled
 mumbling
 mummeries
 mummification
+mummifications
 mummify
 mumper
 mumping
@@ -21233,6 +21254,7 @@ participation
 participations
 participator
 participatory
+particularities
 particulate
 partied
 parting
@@ -22047,6 +22069,7 @@ pilaffs
 pilau
 pileate
 pileous
+piles
 pilfered
 pilferers
 pilgrimages
@@ -23463,6 +23486,7 @@ psalms
 psalter
 psephite
 psephites
+psephology
 pseudocoels
 pseudomonas
 pseudomorphism
@@ -23613,6 +23637,7 @@ pupil
 puppeteer
 puppetries
 puppets
+puppies
 pupping
 puppy
 pur
@@ -26520,6 +26545,7 @@ sectaries
 sections
 sectoral
 sectorial
+secularise
 secularization
 secularizer
 securely
@@ -26673,6 +26699,7 @@ sensately
 sensating
 sensationalise
 sensationalized
+senseis
 senselessness
 sensibler
 sensiblest
@@ -26921,6 +26948,7 @@ sheetrocks
 sheets
 sheikhdom
 sheilas
+shelfful
 shellack
 shellacking
 shellback
@@ -27202,6 +27230,7 @@ silage
 sild
 silence
 silences
+sileni
 silent
 silesias
 silhouetting
@@ -27862,6 +27891,7 @@ sonicate
 sonicated
 sonicates
 sonication
+sonicator
 sonneteering
 sonneteers
 sonobuoy
@@ -28909,6 +28939,7 @@ subduedly
 subduers
 subdwarf
 subedited
+subeditor
 subeditors
 subentries
 subentry
@@ -32155,6 +32186,7 @@ upleapt
 uplifters
 uplighting
 uplinking
+uploads
 upped
 uppercut
 uppercutting
@@ -32304,6 +32336,7 @@ valvula
 valvules
 vambraces
 vamped
+vampirish
 van
 vandal
 vandalise
@@ -33407,6 +33440,7 @@ workboxes
 workday
 worked
 workfares
+workflow
 workforce
 workhorses
 workhour
@@ -33440,6 +33474,7 @@ worthiest
 worthinesses
 worthlessly
 worths
+worthwhileness
 wotting
 wounded
 woundless
