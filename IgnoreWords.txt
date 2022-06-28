@@ -201,6 +201,7 @@ acidy
 acierated
 acini
 acinose
+ackee
 ackees
 acknowledgments
 acned
@@ -1474,6 +1475,7 @@ arbitrations
 arbitrator
 arboreally
 arbored
+arborescences
 arboretums
 arborist
 arborize
@@ -3691,6 +3693,7 @@ bucko
 buckramed
 buckshees
 buckshot
+buckteeth
 bucktooth
 bucktoothed
 budder
@@ -5049,6 +5052,7 @@ chronicled
 chronicler
 chronogram
 chronograms
+chronographies
 chronologists
 chronometrical
 chronon
@@ -5156,6 +5160,7 @@ citizenesses
 citizens
 citolas
 citoles
+citrins
 citronellals
 citronellol
 citrons
@@ -6285,6 +6290,7 @@ coproduct
 coproducts
 coprophiliac
 coprophilous
+copse
 copublish
 copulates
 copycat
@@ -7339,6 +7345,7 @@ debs
 debtors
 debuggers
 debugging
+debunk
 debunker
 debye
 decadence
@@ -8464,6 +8471,7 @@ dislodged
 dislodgements
 dislodges
 disloyalty
+dismalest
 dismals
 dismantles
 dismasting
@@ -8912,6 +8920,7 @@ dreamfully
 dreaming
 dreamlands
 dreamlessness
+dreamlessnesses
 dreamt
 dreamworlds
 drecky
@@ -9608,6 +9617,7 @@ encrimsoning
 encrinite
 encroacher
 encroachment
+encrusting
 encryption
 enculturated
 encumbrancer
@@ -10987,6 +10997,7 @@ fineness
 finenesses
 finer
 fines
+finfoots
 fingerboards
 fingerer
 fingerpicked
@@ -13979,6 +13990,7 @@ horseweed
 horsinesses
 hoselike
 hosen
+hosepipe
 hoses
 hoseys
 hosiers
@@ -15894,6 +15906,7 @@ jumblers
 jumbo
 jumpable
 jumpers
+jumpiness
 jumpingly
 juncoes
 junctions
@@ -16585,6 +16598,7 @@ lectern
 lectin
 lection
 lectured
+led
 lederhosen
 ledger
 ledgy
@@ -17031,6 +17045,7 @@ lognormality
 logogrammatic
 logographically
 logotypies
+logotypy
 logrolled
 logrolls
 logs
@@ -17289,6 +17304,7 @@ maceration
 macerator
 macers
 mach
+maches
 machetes
 machinability
 machination
@@ -17645,9 +17661,11 @@ mastermind
 masterminded
 masterpieces
 masters
+mastheaded
 masticate
 masticating
 mastication
+masticatory
 mastiche
 mastigophoran
 mastigophorans
@@ -20387,6 +20405,7 @@ opencast
 opened
 opener
 opening
+opennesses
 operabilities
 operable
 operagoing
@@ -20522,6 +20541,7 @@ ornithine
 ornithischians
 ornithopter
 ornithopters
+orogeneses
 orogenetic
 orography
 orology
@@ -22564,6 +22584,7 @@ plagiarizes
 plainchants
 plainclothes
 plained
+plainness
 plainsman
 plainsongs
 plainspoken
@@ -23344,6 +23365,7 @@ premold
 premunitions
 prenames
 prenomen
+prenomens
 prenotification
 prenotifying
 prenumbers
@@ -23424,6 +23446,7 @@ preslaughter
 presolves
 presorts
 pressboard
+pressruns
 pressureless
 pressurised
 pressurization
@@ -23836,6 +23859,7 @@ prudishly
 prune
 prunellos
 pruriences
+pruriencies
 pruriency
 prussianise
 prutot
@@ -24160,6 +24184,7 @@ quadrivia
 quadrivial
 quadrumvir
 quadrumvirates
+quadruped
 quadruplicities
 quads
 quaere
@@ -24755,6 +24780,7 @@ recondensing
 reconditioned
 reconducted
 reconferred
+reconfine
 reconfines
 reconfirming
 reconnection
@@ -25440,6 +25466,7 @@ reprovers
 reptilian
 republicanize
 republicanizing
+republished
 republishes
 repugnantly
 repugning
@@ -25783,11 +25810,13 @@ reverters
 revertive
 revery
 revesting
+revetment
 revibrates
 revibrating
 revictual
 revictuals
 review
+reviewal
 reviewed
 reviewers
 revilement
@@ -26670,6 +26699,7 @@ scatted
 scatterbrain
 scatterbrained
 scatterbrains
+scattergrams
 scatterguns
 scattershot
 scaup
@@ -27476,6 +27506,8 @@ shoetrees
 shofroth
 shoo
 shooks
+shooled
+shooling
 shools
 shootout
 shoots
@@ -29725,6 +29757,7 @@ supercity
 superclass
 superclasses
 superclusters
+supercoiled
 superconduct
 superconducts
 supercontinents
@@ -30973,6 +31006,7 @@ tokonoma
 tolan
 tolanes
 tolarjev
+tolbutamide
 tolbutamides
 tole
 tolerantly
@@ -31115,6 +31149,7 @@ totalism
 totality
 toted
 totemisms
+totems
 tottered
 toucan
 touch
@@ -31443,6 +31478,7 @@ trijugous
 trilbies
 trilinear
 trilingual
+triliths
 trillers
 trilling
 trillion
@@ -32005,6 +32041,7 @@ unclasped
 unclassifiable
 unclawed
 uncleanlier
+unclear
 unclearer
 unclearest
 unclench
@@ -32319,6 +32356,7 @@ uninsulated
 uninsurable
 unintelligible
 uninterests
+unintimidated
 uninvoked
 unionisation
 unionise
@@ -32335,6 +32373,7 @@ uniquer
 unirrigated
 unisexuality
 unisonant
+unities
 unitization
 unitizing
 unitrust
@@ -33574,6 +33613,7 @@ webfed
 weblog
 webpage
 webwork
+webworm
 webworms
 wedder
 wedelns
@@ -34204,6 +34244,7 @@ yows
 ytterbic
 ytterbiums
 yttrias
+yuch
 yuck
 yuckiest
 yuckiness

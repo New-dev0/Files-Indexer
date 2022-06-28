@@ -1,0 +1,10 @@
+Documentation/devicetree/bindings/gpio/led.txt - kernel/msm,https://android.googlesource.com/kernel/msm/%2B/android-msm-flo-3.4-kitkat-mr1/Documentation/devicetree/bindings/gpio/led.txt
+Documentation/leds/leds-class.txt - kernel/msm - Git at Google,https://android.googlesource.com/kernel/msm/%2B/android-msm-marlin-3.18-nougat-dr1/Documentation/leds/leds-class.txt
+leds-gpio.txt - The Linux Kernel Archives,https://www.kernel.org/doc/Documentation/devicetree/bindings/leds/leds-gpio.txt
+leds-pwm.txt - The Linux Kernel Archives,https://www.kernel.org/doc/Documentation/devicetree/bindings/leds/leds-pwm.txt
+LED-Segment-ASCII/14-Segment-ASCII_HEX.txt at master - GitHub,https://github.com/dmadison/LED-Segment-ASCII/blob/master/14-Segment/14-Segment-ASCII_HEX.txt
+ChameleonMini/LED.txt at master - GitHub,https://github.com/emsec/ChameleonMini/blob/master/Doc/DoxygenPages/LED.txt
+How does an LED emit light? - Science Hobbyist,http://amasci.com/amateur/led.txt
+XLamp-XHP70-Spice.txt - Cree LED,https://cree-led.com/media/documents/XLamp-XHP70-Spice.txt
+iQ-LED API changelog(txt) - Image Engineering,https://www.image-engineering.de/content/products/software/led/data/iQ-LED_API_changelog.txt
+u-boot/leds-gpio.txt at master - GitHub,https://github.com/qemu/u-boot/blob/master/doc/device-tree-bindings/leds/leds-gpio.txt
