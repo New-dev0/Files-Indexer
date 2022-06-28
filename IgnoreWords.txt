@@ -963,6 +963,7 @@ ancillary
 ancipital
 ancone
 ancresses
+ancylostomiases
 ancylostomiasis
 andesitic
 andouillette
@@ -2421,6 +2422,7 @@ becoming
 becrawled
 becriming
 becrowds
+becrusting
 becudgeled
 bedabbles
 bedarkened
@@ -2971,6 +2973,7 @@ blastema
 blasties
 blastiest
 blastoderms
+blastodiscs
 blastomycoses
 blastopore
 blastulas
@@ -3835,6 +3838,7 @@ byroad
 bystreet
 bytes
 bywork
+cabal
 cabalist
 caballeros
 cabbageworms
@@ -4162,6 +4166,7 @@ carbamino
 carbineers
 carbinols
 carbohydrate
+carbolics
 carbolizing
 carbonaras
 carbonations
@@ -4685,6 +4690,7 @@ chatterers
 chatters
 chattily
 chattiness
+chatting
 chaufers
 chauffeur
 chauffeured
@@ -5139,6 +5145,7 @@ claymore
 cleaning
 cleanly
 cleanses
+clearcutting
 clearer
 cleareyed
 clearly
@@ -7343,6 +7350,7 @@ defalcates
 defalcating
 defalcators
 defamations
+defamer
 defat
 defatted
 default
@@ -7797,6 +7805,7 @@ detoxification
 detoxifications
 detoxified
 detract
+detractor
 detrainments
 deuced
 deuterides
@@ -9800,6 +9809,7 @@ equilibrants
 equilibrated
 equilibrations
 equilibrist
+equilibrium
 equines
 equinox
 equipollence
@@ -13322,6 +13332,7 @@ heralded
 heraldist
 herbage
 herbalist
+herbalists
 herbicidal
 herbier
 herbivory
@@ -13360,6 +13371,7 @@ herrenvolks
 herries
 herringbone
 herringbones
+herrying
 herstories
 hes
 hesitance
@@ -14217,6 +14229,7 @@ immolating
 immolator
 immoralism
 immoralisms
+immoralities
 immortalities
 immortality
 immortalization
@@ -17054,6 +17067,7 @@ magnetites
 magnetize
 magnetizing
 magnetos
+magnificently
 magnifier
 magniloquent
 magot
@@ -17936,6 +17950,7 @@ millepede
 millepore
 millers
 millesimal
+milliard
 milliary
 millibar
 millicuries
@@ -18306,6 +18321,7 @@ mobilises
 mobilization
 mobocrat
 mobocratic
+mobocrats
 mockable
 mocker
 mockers
@@ -18770,6 +18786,7 @@ mummify
 mumper
 mumping
 mums
+munch
 munched
 munchies
 mundane
@@ -19275,6 +19292,7 @@ nippers
 nippiness
 nippy
 nirvanic
+nitrided
 nitrides
 nitriding
 nitrification
@@ -19400,6 +19418,7 @@ nonconforming
 nonconformisms
 nonconnection
 nonconsumer
+nonconsumptions
 noncontact
 nonconventional
 noncooperative
@@ -19924,6 +19943,7 @@ ogee
 ogees
 ogives
 ogled
+ogles
 ogreish
 ogresses
 ohed
@@ -24930,6 +24950,7 @@ repegged
 repellants
 repelled
 repellencies
+repentances
 repentant
 repentantly
 repented
@@ -25211,7 +25232,9 @@ resuscitations
 reswallowed
 resynthesizes
 retackle
+retacks
 retailored
+retainers
 retaken
 retaker
 retaking
@@ -27040,6 +27063,7 @@ shoved
 shoveled
 shovelful
 shoveling
+shoves
 shoving
 showable
 showbiz
@@ -29933,6 +29957,7 @@ telophases
 telotaxis
 temblor
 temped
+tempehs
 temperas
 temperate
 tempestuous
@@ -30062,6 +30087,7 @@ tetrarchic
 tetraspores
 tetrazoliums
 tetrode
+tetroxid
 textbooks
 textile
 textless
@@ -30106,6 +30132,7 @@ theologically
 theologised
 theologising
 theologue
+theomachies
 theophany
 theophylline
 theoretic
@@ -30373,6 +30400,7 @@ tiring
 tisane
 tissuing
 titanias
+titanism
 titanite
 titers
 tithing
@@ -30608,6 +30636,7 @@ town
 townees
 townies
 townish
+townlets
 townscapes
 townships
 townwear
@@ -30631,6 +30660,7 @@ trachoma
 tracing
 track
 trackers
+tracking
 trackmen
 tracks
 tractors
@@ -30992,6 +31022,7 @@ tropism
 tropomyosin
 tropotaxis
 trot
+trotting
 trotyls
 troubles
 troubleshot
@@ -32662,6 +32693,7 @@ vivaria
 vivid
 vivider
 vivifies
+viviparity
 vivisect
 vivisectionists
 vivisections
@@ -32831,6 +32863,7 @@ walkway
 walkways
 wallaby
 walleye
+walleyes
 wallopings
 wallops
 wallowed
@@ -32975,6 +33008,7 @@ weaponry
 wearable
 wearisomenesses
 weasands
+weaselly
 weasons
 weatherability
 weathercast
@@ -33044,6 +33078,7 @@ wharfmasters
 wharves
 whatchamacallit
 whatsises
+whatsoever
 wheals
 wheatlands
 wheedled
