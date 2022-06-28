@@ -1337,6 +1337,7 @@ apogeic
 apolog
 apologetics
 apologies
+apologise
 apologist
 apologists
 apologues
@@ -1807,11 +1808,13 @@ atomized
 atomizer
 atomizing
 atonally
+atone
 atoned
 atonicity
 atonics
 atony
 atopies
+atrabilious
 atresic
 atretic
 atrociousnesses
@@ -3142,6 +3145,7 @@ bobbery
 bobolinks
 bobsleigh
 bobwhites
+boccie
 boccis
 bodacious
 boddhisattva
@@ -3289,6 +3293,7 @@ booze
 boozily
 bop
 bopeep
+borating
 bordel
 bordering
 bordure
@@ -3339,6 +3344,7 @@ boudoirs
 bouffe
 bough
 boughless
+bouillabaisse
 bouldering
 bouldery
 boule
@@ -5522,9 +5528,11 @@ coheirs
 cohere
 coherences
 coherencies
+cohesions
 cohesiveness
 coho
 cohobate
+coholder
 cohomology
 cohorts
 cohosh
@@ -6859,6 +6867,7 @@ crystalloid
 cuatros
 cub
 cubbyhole
+cubeb
 cubed
 cubicities
 cuboid
@@ -7757,6 +7766,7 @@ deportments
 deposal
 deposed
 deposes
+depositary
 depositing
 depositors
 depot
@@ -8899,6 +8909,7 @@ dreidls
 dreks
 drenched
 drenches
+dressmakers
 dressmaking
 dressy
 dribblets
@@ -9888,6 +9899,7 @@ epilate
 epilating
 epilation
 epileptically
+epileptics
 epilimnion
 epilogue
 epilogues
@@ -11323,6 +11335,7 @@ foaminess
 fobbed
 focalizations
 focalizes
+foehn
 foemen
 foes
 foetus
@@ -11642,6 +11655,7 @@ freeing
 freelancer
 freelances
 freemasonry
+freemen
 freer
 freethinkers
 freeware
@@ -11941,6 +11955,7 @@ gallicized
 gallinules
 galliots
 gallipot
+gallivant
 gallivanted
 galliwasp
 gallnuts
@@ -15629,6 +15644,7 @@ jackfruits
 jackknifing
 jacklight
 jackrabbits
+jackrolled
 jackstone
 jacobin
 jacobuses
@@ -16073,6 +16089,7 @@ kidney
 kidskins
 kidvid
 kief
+kielbasi
 kilim
 kill
 killable
@@ -16084,6 +16101,7 @@ kilobars
 kilobyte
 kilojoule
 kilolitres
+kilometers
 kilometre
 kilos
 kilotons
@@ -16768,6 +16786,7 @@ likings
 lilliputian
 lily
 limacine
+limans
 limb
 limberest
 limbic
@@ -17776,6 +17795,7 @@ medusae
 medusans
 medusas
 meekly
+meetinghouses
 meetness
 meets
 meg
@@ -18259,6 +18279,7 @@ mineralised
 mineralizable
 mineralizations
 mineralizing
+mineralogic
 mineralogically
 miners
 minestrone
@@ -19229,6 +19250,7 @@ naivetes
 naiveties
 nalas
 nameable
+namely
 nana
 nanas
 nances
@@ -21133,6 +21155,7 @@ ovoidal
 ovoli
 ovonics
 owed
+ownership
 ownerships
 owns
 owse
@@ -21522,6 +21545,7 @@ partakes
 partans
 parterre
 parthenocarpies
+parthenogeneses
 participating
 participation
 participations
@@ -22246,6 +22270,7 @@ physostigmine
 physostigmines
 phytanes
 phytochemically
+phytochemistry
 phytochrome
 phytoid
 phytol
@@ -22446,6 +22471,7 @@ piratically
 pirojki
 piroplasmata
 piroques
+pis
 piscine
 piscivore
 pishogue
@@ -24859,6 +24885,7 @@ reearns
 reechy
 reedbuck
 reeded
+reedifies
 reedit
 reeditions
 reedlike
@@ -25430,6 +25457,7 @@ rescind
 rescoring
 rescuer
 resculpting
+resealable
 resealing
 researchable
 researches
@@ -25443,6 +25471,7 @@ resell
 resembled
 resends
 resensitize
+reserve
 reserviced
 reservicing
 reserving
@@ -26749,6 +26778,7 @@ scrapbooks
 scrapheaps
 scrapies
 scrappage
+scrappages
 scrapped
 scrappers
 scrappily
@@ -27024,6 +27054,7 @@ semiquaver
 semiquavers
 semiraw
 semises
+semisolids
 semitonal
 semitrucks
 semiurban
@@ -27774,6 +27805,7 @@ sklent
 sklenting
 skoals
 skulked
+skullduggeries
 skunking
 skunkweed
 skyborne
@@ -28257,6 +28289,7 @@ songbirds
 songfulness
 songsmith
 songwriters
+sonic
 sonicate
 sonicated
 sonicates
@@ -28737,6 +28770,7 @@ squirmers
 squirters
 squirting
 squishing
+squoosh
 squooshed
 squooshes
 sradha
@@ -32766,6 +32800,7 @@ value
 valuta
 valvar
 valveless
+valving
 valvula
 valvules
 vambraces
