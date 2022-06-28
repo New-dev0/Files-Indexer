@@ -344,6 +344,7 @@ adsorber
 adularias
 adulating
 adulterant
+adulterants
 adulteresses
 adulthood
 adultress
@@ -3267,6 +3268,7 @@ bootlick
 bootlicked
 bootlickers
 booty
+booze
 boozily
 bop
 bopeep
@@ -4683,6 +4685,7 @@ chapt
 chapter
 chaptered
 charabanc
+character
 characterizing
 charbroiled
 charbroils
@@ -6073,6 +6076,7 @@ containerships
 contaminates
 conte
 contemplate
+contemplatively
 contemplatives
 contemplators
 contempt
@@ -6273,6 +6277,7 @@ cornball
 cornballs
 cornbraiding
 cornbraids
+corncakes
 corncribs
 corned
 cornelian
@@ -6617,6 +6622,7 @@ cremes
 crenature
 crenelated
 crenelating
+creneled
 crenels
 creodont
 creole
@@ -11751,6 +11757,7 @@ fungicidal
 fungistatic
 fungistats
 fungoids
+funguses
 funiculi
 funked
 funks
@@ -12327,6 +12334,7 @@ gloamings
 gloater
 gloaters
 globalist
+globalize
 globalizes
 globbiest
 globefish
@@ -12656,6 +12664,7 @@ grecizes
 grecizing
 greed
 greedily
+greedy
 greek
 greenbacker
 greenbelts
@@ -13487,6 +13496,7 @@ herrying
 herstories
 hes
 hesitance
+hessonites
 hetaeric
 hetairas
 heterocycles
@@ -13532,6 +13542,7 @@ hexameter
 hexamine
 hexapla
 hexaplar
+hexapodies
 hexapods
 hexapody
 hexarchies
@@ -16074,6 +16085,7 @@ knobkerries
 knoblike
 knockabouts
 knockwursts
+knolled
 knop
 knops
 knots
@@ -17812,6 +17824,7 @@ meringues
 meristically
 merited
 merk
+merl
 merlin
 merls
 meromorphic
@@ -18047,6 +18060,7 @@ midsole
 midsummers
 midtowns
 midwife
+midwiferies
 midwinter
 midwinters
 midwiving
@@ -18201,6 +18215,7 @@ mirker
 mirror
 mirrored
 mirthlessly
+mirths
 mirzas
 misact
 misaddressed
@@ -19441,6 +19456,7 @@ ninety
 ninny
 ninon
 niobite
+niobium
 niobiums
 niobous
 nip
@@ -19977,6 +19993,7 @@ obscurant
 obscurants
 obscuration
 obscured
+obscureness
 obsecrate
 obsecrates
 observably
@@ -22032,6 +22049,7 @@ photoautotroph
 photochemical
 photochemistry
 photochromic
+photochromisms
 photocomposer
 photocomposes
 photocopying
@@ -22201,6 +22219,7 @@ piggie
 pigheadedly
 piglets
 pigmentary
+pigmentations
 pigmented
 pigments
 pigmies
@@ -22936,6 +22955,7 @@ practicalness
 practised
 praenomen
 praesidium
+praetorial
 praetorian
 pragmatisms
 prairie
@@ -24478,6 +24498,7 @@ recaptured
 recapturing
 recarpet
 recarpets
+recarrying
 recautioned
 recces
 receded
@@ -25206,6 +25227,7 @@ reprehensibly
 reprehensive
 representer
 repress
+represses
 repressing
 repression
 repressionist
@@ -25789,6 +25811,7 @@ ritualist
 ritually
 rival
 rivaled
+riven
 riverbank
 riverbeds
 riverheads
@@ -26185,6 +26208,7 @@ sallow
 sallowest
 sallownesses
 sally
+salmagundis
 salmonellae
 salmonellosis
 salols
@@ -26787,6 +26811,7 @@ seisers
 seism
 seismological
 seismologists
+seismometers
 seisms
 seizers
 selcouth
@@ -27021,6 +27046,7 @@ sewage
 sewan
 sewed
 sewer
+sewings
 sex
 sexagenarians
 sexes
@@ -27121,6 +27147,7 @@ shears
 sheaved
 sheds
 sheen
+sheened
 sheeniest
 sheening
 sheeny
@@ -28322,6 +28349,7 @@ sphinx
 sphygmographs
 spiccato
 spice
+spicebushes
 spiceless
 spicery
 spicier
@@ -28379,6 +28407,7 @@ spirillum
 spirited
 spiritism
 spiritist
+spirits
 spiritualnesses
 spirituous
 spirochetes
@@ -29377,6 +29406,7 @@ suing
 suitably
 suite
 suiters
+suitlike
 suitors
 sulfas
 sulfatases
@@ -29663,6 +29693,7 @@ sutures
 svaraj
 svedberg
 svelteness
+sveltenesses
 svelter
 swabbie
 swabbies
@@ -31380,6 +31411,7 @@ tumping
 tumulose
 tumultuary
 tumultuousness
+tun
 tuna
 tunable
 tunableness
@@ -31954,6 +31986,7 @@ unembittered
 unemotionally
 unemployments
 unendearing
+unendingly
 unenforceable
 unenjoyed
 unenriched
@@ -33122,6 +33155,7 @@ waitlist
 waitron
 waits
 waivers
+wakames
 wake
 wakeboards
 wakefulness
@@ -33209,6 +33243,7 @@ wast
 wastefulnesses
 wasteland
 waster
+wasters
 wastewater
 wastrie
 watap
