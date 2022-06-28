@@ -531,6 +531,7 @@ ain
 aiolis
 airbrushed
 airchecks
+airdrop
 airfields
 airflow
 airframes
@@ -2330,6 +2331,7 @@ baster
 bastinade
 bastinado
 bastinadoed
+bastions
 bat
 batcher
 bate
@@ -2751,6 +2753,7 @@ bifacially
 biffing
 biffins
 bifid
+bifocaled
 bifoliate
 biformed
 bifunctional
@@ -2840,6 +2843,7 @@ biologist
 biomarkers
 biomathematics
 biome
+biomes
 biometers
 biometricians
 biomolecules
@@ -2899,6 +2903,7 @@ birds
 birdseed
 birdseyes
 birdsongs
+birefringences
 birefringent
 birkies
 birlers
@@ -3744,6 +3749,7 @@ bulrush
 bulwark
 bulwarks
 bumbershoot
+bumbershoots
 bumblers
 bumblingly
 bumelia
@@ -4592,6 +4598,7 @@ century
 ceorlish
 cephalically
 cephalothin
+cephalous
 ceps
 ceraceous
 ceramics
@@ -6048,6 +6055,7 @@ consolation
 consolidated
 consolidates
 consolidation
+consomme
 consonant
 consortia
 conspectus
@@ -7035,6 +7043,7 @@ cyan
 cyanamide
 cyanamides
 cyanamids
+cyanic
 cyanin
 cyanins
 cyanite
@@ -7857,6 +7866,7 @@ despondence
 despondent
 despondently
 despumate
+destabilizes
 destitute
 destituteness
 destitutes
@@ -8701,6 +8711,7 @@ donations
 donator
 dongola
 dongolas
+donkeys
 donne
 donned
 donnerd
@@ -8753,6 +8764,7 @@ dotage
 dotation
 doters
 dotingly
+dottels
 dottier
 dottily
 dottle
@@ -9299,6 +9311,7 @@ eglantines
 ego
 egocentrically
 egocentricity
+egoless
 egressions
 egrets
 eicosanoid
@@ -14018,6 +14031,7 @@ hulks
 hulled
 hulloas
 hulloed
+hum
 humaner
 humanist
 humanities
@@ -14040,6 +14054,7 @@ humidifications
 humidistat
 humidities
 humidnesses
+humidors
 humiture
 humitures
 hummocks
@@ -14235,6 +14250,7 @@ hypocritical
 hypoderma
 hypodermically
 hypoed
+hypogeal
 hypoing
 hypokalemia
 hypokalemic
@@ -14271,6 +14287,7 @@ icemaker
 ichneumon
 ichthyofauna
 ichthyofaunal
+ichthyofaunas
 ichthyophagous
 iciest
 iconicity
@@ -14613,6 +14630,7 @@ incapable
 incapacitate
 incapacitation
 incarcerations
+incarnadining
 incaution
 incautions
 incautiously
@@ -15050,6 +15068,7 @@ inset
 insets
 insheathes
 insheaths
+inshrined
 inside
 insider
 insight
@@ -16104,6 +16123,7 @@ kipperers
 kipskin
 kipskins
 kirigami
+kirkman
 kirn
 kirned
 kirsch
@@ -18218,6 +18238,7 @@ mimesises
 mimetic
 mimic
 mimical
+mimicked
 mimicking
 mimicry
 mimics
@@ -18418,6 +18439,7 @@ misleader
 misleading
 misleads
 misleared
+mislearned
 mislighting
 mislike
 mislived
@@ -18439,6 +18461,7 @@ misoneism
 misoneist
 misordered
 misoriented
+mispackages
 mispackaging
 misparses
 misparted
@@ -20222,6 +20245,7 @@ oldie
 oldish
 olds
 oldsquaws
+oldster
 oldsters
 oldwife
 oleaginous
@@ -20346,6 +20370,7 @@ ophiuroids
 opiate
 opiating
 opined
+opinion
 opinionated
 opioids
 opisthobranch
@@ -21572,6 +21597,7 @@ pathologists
 pathophysiology
 pathos
 pathoses
+paths
 pathway
 patience
 patients
@@ -22697,6 +22723,7 @@ poikilothermic
 poikilotherms
 poilu
 poinded
+pointier
 pointillism
 pointillisms
 pointillist
@@ -25472,6 +25499,7 @@ resole
 resoled
 resoles
 resolidifying
+resonates
 resorter
 resorters
 resounded
@@ -25727,6 +25755,7 @@ revolutionaries
 revolutionises
 revolve
 revolver
+revoting
 revues
 revulsive
 revving
@@ -27375,6 +27404,7 @@ shod
 shoddier
 shoddies
 shoe
+shoeblacks
 shoebox
 shoehorns
 shoelaces
@@ -27560,6 +27590,7 @@ signora
 signory
 signposted
 silage
+silane
 sild
 silence
 silences
@@ -28731,6 +28762,7 @@ stagey
 stagflation
 staggerbush
 staggerer
+staggie
 staggiest
 stagier
 stagiest
@@ -29640,6 +29672,7 @@ superefficient
 superelite
 supereminences
 supereminent
+superfine
 superfluousness
 supergovernment
 superhelices
@@ -30504,6 +30537,7 @@ thacked
 thairms
 thalassaemias
 thalassocracies
+thalidomide
 thallic
 thallophyte
 thanages
@@ -33353,6 +33387,7 @@ warplane
 warranted
 warrantied
 warrantor
+warrantying
 warren
 warrens
 warship
