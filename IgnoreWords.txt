@@ -627,6 +627,7 @@ alienist
 alif
 aliform
 alifs
+alikeness
 aliment
 aline
 alines
@@ -4925,6 +4926,7 @@ chivvy
 chlamydospores
 chloasmata
 chloral
+chloralose
 chloraloses
 chlorate
 chlorinators
@@ -4973,6 +4975,7 @@ chooks
 choosier
 choosing
 chophouse
+choppering
 choppier
 choppiness
 chopsocky
@@ -4980,6 +4983,7 @@ chopsticks
 chorale
 chording
 choreatic
+choreic
 choreographies
 choreography
 chorial
@@ -6895,6 +6899,7 @@ cult
 cultches
 cultic
 cultishly
+cultivation
 cultivator
 cultivators
 culturally
@@ -7274,6 +7279,7 @@ deaerators
 deafened
 deaired
 dealated
+dealation
 dealerships
 deaned
 deanship
@@ -7681,6 +7687,7 @@ denitrate
 denitrated
 denitrating
 denning
+denominate
 denominates
 denouement
 dense
@@ -8519,6 +8526,7 @@ dissociable
 dissocial
 dissociate
 dissolutely
+dissolve
 dissolved
 dissolves
 dissuaders
@@ -9824,6 +9832,7 @@ epaulets
 epergne
 epexegesis
 ephebe
+ephebic
 ephedras
 ephedrines
 ephemeralities
@@ -9893,6 +9902,7 @@ epitaxially
 epithelial
 epithelialize
 epithelialized
+epithelializing
 epitheliomas
 epithelizing
 epithet
@@ -10278,6 +10288,7 @@ exergues
 exertive
 exes
 exfoliated
+exfoliates
 exfoliating
 exhalant
 exhaled
@@ -10332,6 +10343,7 @@ expanding
 expands
 expansional
 expansionists
+expat
 expatiate
 expatiated
 expatriatisms
@@ -11531,6 +11543,7 @@ founded
 founders
 foundries
 fountain
+fountaining
 fourdrinier
 fourplex
 fourragere
@@ -12246,6 +12259,7 @@ giftwrap
 gigged
 giggler
 giggling
+gigglingly
 giglets
 gigolos
 gigots
@@ -12458,6 +12472,7 @@ gnomic
 gnomons
 gnosticisms
 gnotobiotic
+goading
 goaltenders
 goalward
 goannas
@@ -13025,6 +13040,7 @@ hadjee
 hadjees
 hadji
 hadron
+hadrosaurs
 haecceity
 haemal
 haematin
@@ -14011,6 +14027,7 @@ humanizes
 humanizing
 humankind
 humannesses
+humanoids
 humblebees
 humbleness
 humblingly
@@ -14274,6 +14291,7 @@ ideative
 identic
 identicalnesses
 identifiably
+identifies
 identify
 identifying
 identities
@@ -14458,6 +14476,7 @@ imperfection
 imperfects
 imperialist
 imperialists
+imperials
 imperiling
 imperishability
 impersonal
@@ -14735,6 +14754,7 @@ indifferent
 indifferently
 indigen
 indigences
+indigene
 indigenization
 indigenizations
 indigenize
@@ -15387,6 +15407,7 @@ invisibilities
 invitatories
 inviter
 inviters
+inviting
 invocated
 invoke
 involucra
@@ -21302,6 +21323,7 @@ paniculate
 panicums
 panier
 panmixis
+panned
 panner
 panniers
 panocha
@@ -21433,6 +21455,7 @@ parenthoods
 pares
 paresis
 pareve
+parfleches
 pargets
 pargetted
 parians
@@ -21448,6 +21471,7 @@ parles
 parlor
 parmigiano
 parochial
+parodistic
 parodoi
 paroled
 paroling
@@ -22153,6 +22177,7 @@ photosetting
 photospheres
 photospheric
 photostat
+photosynthetic
 phototaxes
 phototypes
 photovoltaic
@@ -23117,6 +23142,7 @@ precommitment
 preconception
 preconizes
 preconizing
+preconquest
 preconsonantal
 preconstructed
 precooked
@@ -24983,6 +25009,7 @@ regularly
 regulate
 regulated
 regulates
+regulator
 reguline
 regulus
 regurgitated
@@ -25960,6 +25987,7 @@ romans
 romanticises
 romanticization
 romanticize
+romantics
 romeo
 romeos
 rondeaux
@@ -26685,6 +26713,7 @@ scraggy
 scraichs
 scraighed
 scrambles
+scrannel
 scrannels
 scrap
 scrapbooks
@@ -28776,6 +28805,7 @@ starvelings
 starwort
 stash
 stashes
+stasima
 stat
 statecraft
 stateliness
@@ -28941,6 +28971,7 @@ stipplings
 stipular
 stipulate
 stipulator
+stipulatory
 stirs
 stitch
 stitchery
@@ -29635,6 +29666,7 @@ superlunar
 superluxury
 supermasculine
 superminds
+supernatant
 supernates
 supernormality
 superordinate
@@ -31854,6 +31886,7 @@ unchairing
 unchairs
 unchallengeable
 unchancy
+unchangeable
 uncharges
 uncharging
 unchastest
@@ -33202,6 +33235,7 @@ vulgarly
 vulnerability
 vulnerableness
 vulnerably
+vultures
 vulturous
 vulvar
 vulvate
@@ -33276,6 +33310,7 @@ wallpaper
 wallpapers
 wallydrags
 walrus
+walruses
 waltzer
 wamefuls
 wamuses

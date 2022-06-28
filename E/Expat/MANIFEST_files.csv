@@ -1,0 +1,10 @@
+xubuntu-18.04.5-desktop-amd64.manifest - Ubuntu CDimage,http://cdimage.ubuntu.com/xubuntu/releases/18.04.5/release/xubuntu-18.04.5-desktop-amd64.manifest
+mythbuntu-16.04.6-desktop-i386.manifest - Ubuntu CDimage,https://cdimage.ubuntu.com/mythbuntu/releases/16.04/release/mythbuntu-16.04.6-desktop-i386.manifest
+license/medusa-image-4.0.0.24-2018-01-17-170310 ... - GitHub,https://github.com/stromerbike/license/blob/master/medusa-image-4.0.0.24-2018-01-17-170310-269a383b.manifest
+mirrors.aliyun.com/oldubuntu-releases/releases/10....,http://mirrors.aliyun.com/oldubuntu-releases/releases/10.04.0/ubuntu-10.04.1-desktop-i386.manifest
+ftp.dei.uc.pt/pub/linux/xubuntu/releases/18.10/rel...,http://ftp.dei.uc.pt/pub/linux/xubuntu/releases/18.10/release/xubuntu-18.10-desktop-i386.manifest
+ftp.twaren.net/ubuntu-dvd/kubuntu/releases/10.04/a...,http://ftp.twaren.net/ubuntu-dvd/kubuntu/releases/10.04/alpha-3/lucid-desktop-amd64.manifest
+https://165.227.188.234/yocto/yocto/yocto-2.7.1/to...,https://165.227.188.234/yocto/yocto/yocto-2.7.1/toolchain/x86_64/poky-glibc-x86_64-core-image-sato-i586-qemux86-toolchain-ext-2.7.1.host.manifest
+https://165.227.188.234/yocto/yocto/yocto-2.7.1/to...,https://165.227.188.234/yocto/yocto/yocto-2.7.1/toolchain/x86_64/poky-glibc-x86_64-core-image-sato-armv7vet2hf-neon-qemuarm-toolchain-ext-2.7.1.host.manifest
+CentOS-Stream-8-aarch64-latest-dvd1.iso.manifest,https://mirror.phx1.us.spryservers.net/centos/8-stream/isos/aarch64/CentOS-Stream-8-aarch64-latest-dvd1.iso.manifest
+Packages.manifest - OpenWrt Downloads,https://downloads.openwrt.org/releases/17.01.0/packages/mipsel_24kc/packages/Packages.manifest
