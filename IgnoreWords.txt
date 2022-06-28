@@ -2865,6 +2865,7 @@ biotitic
 bioturbed
 biparentally
 bipartisanisms
+bipedalisms
 biphasic
 bipinnate
 bipinnately
@@ -3072,6 +3073,7 @@ blown
 blowsier
 blowsy
 blowtorch
+blubber
 blubberer
 blubbering
 bludgeon
@@ -3150,6 +3152,7 @@ bog
 bogeyman
 boggier
 bogginesses
+bogging
 boggy
 bogusness
 bogwoods
@@ -3200,6 +3203,7 @@ bombarder
 bombardier
 bombinates
 bomblet
+bombloads
 bombproofs
 bombshell
 bombsights
@@ -3484,6 +3488,7 @@ breeziness
 brents
 brethren
 brevet
+breviaries
 brewery
 briarroots
 bribee
@@ -5070,6 +5075,7 @@ cinnamons
 cinnamony
 cinnamyls
 ciphering
+ciphonies
 circa
 circle
 circuit
@@ -5520,6 +5526,7 @@ coinsurer
 cointerring
 cointreaus
 coinventor
+coinvestigator
 coir
 coirs
 cojoined
@@ -7568,6 +7575,7 @@ deliquescence
 deliquescing
 deliriously
 deliriousnesses
+deliverable
 deliverance
 deliveryman
 delly
@@ -8385,6 +8393,7 @@ disinhibit
 disintegrations
 disintegrator
 disinterestedly
+disinterments
 disinterring
 disinters
 disintoxication
@@ -8501,6 +8510,7 @@ dissuasiveness
 dissyllable
 dissyllables
 distaff
+distaffs
 distains
 distal
 distasted
@@ -9651,6 +9661,7 @@ enneadic
 ennobler
 ennuye
 enokitakes
+enolase
 enolic
 enological
 enorm
@@ -9860,6 +9871,7 @@ epistolary
 epistyles
 epitaxially
 epithelial
+epithelialize
 epithelialized
 epitheliomas
 epithelizing
@@ -10680,6 +10692,7 @@ fecundations
 fed
 fedayee
 federal
+federalized
 federals
 federating
 federative
@@ -11781,6 +11794,7 @@ furnishers
 furnishes
 furore
 furrieries
+furrily
 furriner
 furry
 further
@@ -12000,6 +12014,7 @@ gatefolds
 gatehouse
 gateless
 gaters
+gauchest
 gaucho
 gaudier
 gauffered
@@ -12504,6 +12519,7 @@ gorditas
 gorgeousness
 gorgeousnesses
 gorgers
+gorgeted
 gorgonizes
 gorillas
 gorm
@@ -15164,6 +15180,7 @@ internality
 internationals
 internecine
 internist
+internments
 interns
 interobserver
 interocean
@@ -16434,6 +16451,7 @@ leaguers
 leak
 leaker
 leakily
+leakinesses
 leaned
 leanest
 leaning
@@ -18423,6 +18441,7 @@ mistaken
 mistbow
 misteaches
 misted
+mistending
 misthinks
 mistiest
 mistime
@@ -20666,6 +20685,7 @@ outsing
 outsinging
 outsinned
 outsized
+outskated
 outslick
 outsmelt
 outsmoked
@@ -22383,6 +22403,7 @@ placeboes
 placeholders
 placekickers
 placekicks
+placeless
 placeman
 placements
 placental
@@ -22978,6 +22999,7 @@ prattle
 prattling
 praxises
 prayerfulness
+preabsorb
 preabsorbing
 preaccuse
 preacher
@@ -23460,6 +23482,7 @@ profitwise
 profligacies
 profound
 profoundly
+profuseness
 progeny
 progestin
 proglottid
@@ -24551,6 +24574,7 @@ recocks
 recoded
 recodifications
 recodify
+recodifying
 recognizable
 recognizer
 recognizers
@@ -24569,6 +24593,7 @@ recompensed
 recompenses
 recomputed
 reconceived
+reconcentrate
 reconcilability
 reconcilable
 reconciled
@@ -25626,6 +25651,7 @@ revolute
 revolutionaries
 revolutionises
 revolve
+revolver
 revulsive
 revving
 rewaken
@@ -26531,6 +26557,7 @@ schoolmasters
 schoolroom
 schoolwork
 schottisches
+schrod
 schticks
 schuss
 schussboomer
@@ -27217,6 +27244,7 @@ shingle
 shingles
 shinily
 shininesses
+shinleaf
 shinleaves
 shinning
 shins
@@ -27355,6 +27383,7 @@ shrunken
 shtetel
 shticky
 shuck
+shucker
 shuffle
 shunned
 shunners
@@ -29895,6 +29924,7 @@ syntaxes
 syntheses
 synthesist
 synthesize
+synthesizes
 synthpop
 syntony
 syphers
@@ -30330,6 +30360,7 @@ terrella
 terrifies
 terrine
 terrines
+territ
 territorial
 territorialized
 territorials
@@ -30389,6 +30420,7 @@ thankfulness
 thankworthy
 that
 thaumaturgies
+thawer
 thawless
 thearchies
 theatergoers
@@ -32491,6 +32523,7 @@ upstared
 upstarting
 upstroke
 upsurges
+upsweeps
 uptakes
 uptempos
 upthrusting
@@ -32828,6 +32861,7 @@ vested
 vestibule
 vestibuling
 vestigia
+vestigial
 vestigially
 vestry
 vestrymen
@@ -33630,6 +33664,7 @@ withers
 withouts
 withstood
 witnessers
+witnesses
 wittiest
 wiz
 wizards
