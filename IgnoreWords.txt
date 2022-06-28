@@ -433,6 +433,7 @@ aflatoxins
 afraid
 aft
 afterbirth
+afterbirths
 aftercares
 afterclap
 afterdeck
@@ -488,6 +489,7 @@ agitating
 agleam
 aglow
 agly
+aglycone
 aglycons
 agmas
 agnate
@@ -797,6 +799,7 @@ ambulator
 ambulatories
 ambulators
 ambulatory
+ambulette
 ambuscader
 ambuscading
 ambushed
@@ -1702,6 +1705,7 @@ assignat
 assigning
 assimilator
 assistances
+assister
 assistive
 associating
 associational
@@ -3175,6 +3179,7 @@ bolometrically
 bolos
 bolshevized
 bolshies
+bolting
 boltlike
 boltropes
 bombarder
@@ -4344,6 +4349,7 @@ castoreum
 castors
 castrates
 castratos
+casually
 casualnesses
 casualties
 casuarinas
@@ -4636,6 +4642,7 @@ changeful
 changeovers
 changeup
 channel
+channelers
 channelizing
 chanting
 chap
@@ -5355,6 +5362,7 @@ cockapoo
 cockatrices
 cockbill
 cockbilling
+cockbills
 cockboats
 cocker
 cockered
@@ -7877,6 +7885,7 @@ dewormer
 dews
 dexterity
 dexterousness
+dextral
 dextran
 dextro
 dextrorotary
@@ -9448,6 +9457,7 @@ enamels
 enamoured
 enantiomorphism
 enatic
+encapsulated
 encapsulation
 encapsuling
 encasements
@@ -10208,6 +10218,7 @@ exiles
 exilic
 existed
 existent
+existential
 existentially
 exocrines
 exocytosis
@@ -10282,6 +10293,7 @@ exportability
 expose
 exposits
 expounders
+expressage
 expressages
 expressionisms
 expressionist
@@ -11037,6 +11049,7 @@ fleetnesses
 flehmens
 flenching
 flensing
+flesh
 fleshers
 fleshes
 fleshless
@@ -11764,6 +11777,7 @@ gadzooks
 gaffing
 gage
 gagger
+gaggles
 gaggling
 gaging
 gagmen
@@ -13439,6 +13453,7 @@ heterokaryoses
 heterologously
 heterolysis
 heteromorphic
+heterophil
 heterophile
 heteroploid
 heteroploids
@@ -14350,6 +14365,7 @@ impings
 impish
 implantable
 implantation
+implanted
 implausibility
 implead
 impletions
@@ -14690,6 +14706,7 @@ inexpiably
 inexplainable
 inexplicit
 inexpressibly
+inexpugnable
 inextricability
 infallibility
 infallibly
@@ -14924,6 +14941,7 @@ inspectors
 inspects
 inspheres
 inspiration
+inspirit
 installed
 installs
 instances
@@ -15993,6 +16011,7 @@ knobblier
 knobbly
 knobkerries
 knoblike
+knockabouts
 knockwursts
 knop
 knops
@@ -17167,6 +17186,7 @@ malarkeys
 malarky
 malaromas
 maldistribution
+maledict
 maledictory
 malefactors
 maleficences
@@ -17960,6 +17980,7 @@ midtowns
 midwife
 midwinter
 midwinters
+midwiving
 miffing
 mightily
 mightinesses
@@ -18923,6 +18944,7 @@ mutants
 mutative
 mutedly
 mutest
+mutilating
 mutilators
 mutined
 mutineering
@@ -21494,6 +21516,7 @@ peeries
 peesweep
 peeve
 peewees
+peg
 peglike
 pegmatites
 pehs
@@ -21567,6 +21590,7 @@ pentamidines
 pentangle
 pentangles
 pentaploids
+pentathlon
 penthouses
 pentlandites
 pentodes
@@ -23040,6 +23064,7 @@ prenotification
 prenotifying
 prenumbers
 preordering
+prepackage
 preparatively
 preparatives
 preparatorily
@@ -24168,6 +24193,7 @@ ratiocinator
 ration
 rationales
 rationalists
+rationalizes
 rations
 ratites
 ratlike
@@ -24555,6 +24581,7 @@ redoubtable
 redounded
 redout
 redouts
+redpoll
 redpolls
 redraft
 redreams
@@ -29173,6 +29200,7 @@ successful
 successional
 successor
 succinctly
+succinic
 succours
 succuba
 succubi
@@ -29305,6 +29333,7 @@ superably
 superabound
 superabundances
 superachievers
+superactivity
 superadds
 superagency
 superagent
@@ -29674,6 +29703,7 @@ synchronously
 syncoms
 syncopal
 syncopate
+syncopated
 syncopator
 syncope
 syncretised
@@ -31760,6 +31790,7 @@ undisguised
 undissociated
 undistributed
 undivided
+undo
 undock
 undocking
 undocks
@@ -32765,6 +32796,7 @@ visualists
 visualities
 visualizations
 visualized
+visualizer
 vita
 vitae
 vitalising
@@ -32802,6 +32834,7 @@ vivisections
 vixens
 vizcacha
 vizirate
+vizors
 vocabs
 vocabular
 vocalese
@@ -33089,6 +33122,7 @@ wawl
 waws
 wax
 waxable
+waxes
 waxiest
 waxwings
 waxwork
@@ -33429,6 +33463,7 @@ wizened
 wizes
 wobbler
 wobbles
+wobblier
 woful
 wofuller
 wolfberries
