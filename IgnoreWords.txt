@@ -605,6 +605,7 @@ alertnesses
 ales
 alewives
 alexin
+alfaqui
 alfaquis
 alfilarias
 algae
@@ -1202,6 +1203,7 @@ antimonic
 antimycin
 antimycins
 antinarrative
+antinationalist
 antinepotism
 antineutrons
 antinodes
@@ -3279,6 +3281,7 @@ bookmarking
 bookshop
 bookshops
 bookstand
+boomboxes
 boomer
 boomingly
 boomkin
@@ -4109,6 +4112,7 @@ canary
 canasta
 cancelable
 cancelation
+cancha
 cancroid
 candelabrum
 candider
@@ -4203,6 +4207,7 @@ capitalising
 capitalist
 capitols
 capitulary
+capitulations
 capo
 caponier
 capotes
@@ -6352,6 +6357,7 @@ cornelian
 cornerways
 cornerwise
 cornet
+cornettists
 cornfield
 cornify
 cornily
@@ -6858,6 +6864,7 @@ crusading
 crusadoes
 cruses
 crusets
+crushable
 crushing
 crustaceans
 crustaceous
@@ -7765,6 +7772,7 @@ deodara
 deodaras
 deoxidizes
 departing
+departmentally
 departs
 dependabilities
 dependability
@@ -8037,6 +8045,7 @@ diagonals
 diagrammatic
 diagrams
 dial
+dialectical
 dialectically
 dialectician
 dialectics
@@ -9241,6 +9250,7 @@ ecdysis
 ecdyson
 echelon
 echeloning
+echeveria
 echinate
 echini
 echinoderm
@@ -10141,6 +10151,7 @@ eterne
 eternised
 eternities
 eternity
+eternizations
 etesians
 ethane
 ethanolamine
@@ -10910,6 +10921,7 @@ fetoscopies
 fetterer
 fettuccini
 feudal
+feudalists
 feudalizations
 feudatory
 feuded
@@ -12449,8 +12461,10 @@ glibness
 glidepath
 gliders
 glides
+glim
 glimed
 glimpse
+glimpsing
 glint
 glintiest
 gliomata
@@ -13518,6 +13532,7 @@ hellbenders
 hellboxes
 helled
 hellers
+hellfire
 hellgrammites
 hellhound
 hellions
@@ -14386,6 +14401,7 @@ ideologizes
 ides
 idiom
 idiomatically
+idiopathies
 idiotical
 idiotypes
 idle
@@ -16090,6 +16106,7 @@ kerfed
 kerne
 kerosine
 kerplunking
+kerria
 kerries
 kerseymeres
 kerygmata
@@ -17427,6 +17444,7 @@ malachites
 malacological
 malacologist
 maladjustment
+maladministered
 maladministers
 malanga
 malapertness
@@ -18924,6 +18942,7 @@ moronity
 morose
 moroseness
 morphemics
+morphias
 morphinic
 morphins
 morphogenic
@@ -21379,6 +21398,7 @@ palier
 palimonies
 palimpsest
 palindromes
+palisades
 palisading
 palladia
 palladium
@@ -24542,6 +24562,7 @@ rassle
 rataplans
 ratatat
 rateably
+ratels
 ratfinks
 rathe
 rathskeller
@@ -25610,6 +25631,7 @@ resistibility
 resistor
 resistors
 resiting
+resizes
 resizing
 resketch
 resketched
@@ -25735,6 +25757,7 @@ retems
 retentions
 retentiveness
 retestified
+retestifies
 retestify
 retexture
 retextured
@@ -26143,6 +26166,7 @@ rollings
 rollways
 rom
 romaine
+romanises
 romanos
 romans
 romanticises
@@ -26491,6 +26515,7 @@ saltbush
 salter
 saltish
 saltpeter
+saltpetre
 salts
 saltwater
 saltwort
@@ -27084,6 +27109,7 @@ seining
 seise
 seisers
 seism
+seismographic
 seismological
 seismologists
 seismometers
@@ -28070,6 +28096,7 @@ slue
 slued
 sluffed
 sluffing
+slugabeds
 slugfests
 sluggard
 sluggardness
@@ -28141,6 +28168,7 @@ smogless
 smokehouses
 smokepot
 smokily
+smokinesses
 smoocher
 smoochers
 smoochy
@@ -28325,6 +28353,7 @@ sojourners
 sojourns
 sokol
 solacing
+solanders
 solanine
 solanines
 solanins
@@ -28678,6 +28707,7 @@ spinnaker
 spinnerets
 spinney
 spinny
+spinosely
 spins
 spinsterhood
 spinsters
@@ -30547,6 +30577,7 @@ telneting
 telome
 telomere
 telophases
+telos
 telotaxis
 temblor
 temped
@@ -30561,6 +30592,7 @@ temporises
 temporize
 temporizer
 temporizes
+temps
 temptations
 tempter
 tenaciously
@@ -31178,6 +31210,7 @@ torpor
 torqued
 torquers
 torrefies
+torrefying
 torrentially
 torrid
 torrify
@@ -33286,6 +33319,7 @@ virulencies
 virus
 virusoids
 vis
+viscera
 viscerally
 viscidities
 viscidity
@@ -34121,6 +34155,7 @@ wrangling
 wrap
 wrapped
 wrasse
+wrasses
 wrastled
 wrath
 wrathiest
