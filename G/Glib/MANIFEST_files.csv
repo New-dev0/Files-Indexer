@@ -1,0 +1,20 @@
+focal-preinstalled-server-armhf+raspi.manifest - Ubuntu CDimage,https://cdimage.ubuntu.com/ubuntu-server/focal/daily-preinstalled/current/focal-preinstalled-server-armhf%2Braspi.manifest
+ubuntu-21.10-preinstalled-server-arm64+raspi.manifest,https://cdimage.ubuntu.com/ubuntu/releases/21.10/release/ubuntu-21.10-preinstalled-server-arm64%2Braspi.manifest
+ubuntu-20.04-live-server-amd64.manifest - Ubuntu Releases,http://ubuntu.interhost.co.il/20.04/ubuntu-20.04-live-server-amd64.manifest
+turnkey-bitkey-14.1.0-jessie-amd64.manifest,https://releases.turnkeylinux.org/turnkey-bitkey/14.1.0-jessie-amd64/turnkey-bitkey-14.1.0-jessie-amd64.manifest
+kinetic-preinstalled-server-arm64+raspi.manifest,http://ftp.jaist.ac.jp/pub/Linux/ubuntu-cdimage/ubuntu-server/daily-preinstalled/pending/kinetic-preinstalled-server-arm64%2Braspi.manifest
+kinetic-live-server-ppc64el.manifest,http://ftp.jaist.ac.jp/pub/Linux/ubuntu-cdimage/ubuntu-server/daily-live/current/kinetic-live-server-ppc64el.manifest
+ubuntu-12.04-preinstalled-server-armhf+omap.manifest,https://mirrors.aliyun.com/oldubuntu-releases/releases/12.04.4/ubuntu-12.04-preinstalled-server-armhf%2Bomap.manifest
+ubuntu-16.04-preinstalled-server-armhf+raspi2.manifest,https://mirrors.aliyun.com/oldubuntu-releases/releases/16.04.4/ubuntu-16.04-preinstalled-server-armhf%2Braspi2.manifest
+ftp.dei.uc.pt/pub/linux/xubuntu/releases/14.04/rel...,http://ftp.dei.uc.pt/pub/linux/xubuntu/releases/14.04/release/xubuntu-14.04.2-desktop-amd64.manifest
+resetter-cli/eos-0.4.1.manifest at master · gaining/resetter-cli · GitHub,https://github.com/gaining/resetter-cli/blob/master/resetter-cli/data/manifests/eos-0.4.1.manifest
+ftp.ntua.gr/mirror/GNOME/misc/ubuntu-gnome-remix/u...,http://ftp.ntua.gr/mirror/GNOME/misc/ubuntu-gnome-remix/ubuntu-gnome-12.10.1-desktop-amd64.manifest
+ftp.uni-kl.de/pub/linux/ubuntu-dvd/ubuntukylin/dai...,http://ftp.uni-kl.de/pub/linux/ubuntu-dvd/ubuntukylin/daily-live/pending/kinetic-desktop-arm64.manifest
+repo.ugm.ac.id/iso/ubuntu-mate/16.04/release/ubunt...,http://repo.ugm.ac.id/iso/ubuntu-mate/16.04/release/ubuntu-mate-16.04.1-desktop-amd64.manifest
+CentOS-Stream-8-aarch64-latest-dvd1.iso.manifest,https://mirror.phx1.us.spryservers.net/centos/8-stream/isos/aarch64/CentOS-Stream-8-aarch64-latest-dvd1.iso.manifest
+Packages.manifest - OpenWrt Downloads,https://downloads.openwrt.org/snapshots/packages/arm_cortex-a15_neon-vfpv4/packages/Packages.manifest
+Packages.manifest - OpenWrt Downloads,https://downloads.openwrt.org/releases/17.01.0/packages/mipsel_24kc/packages/Packages.manifest
+downloads.pangubox.com:6380/pandorabox/19.01/packa...,http://downloads.pangubox.com:6380/pandorabox/19.01/packages/mipsel_1004kc_dsp/packages/Packages.manifest
+https://downloads.lede-project.org/snapshots/packa...,https://downloads.lede-project.org/snapshots/packages/arc_archs/packages/Packages.manifest
+ubuntu-gke-1804-1-16-v20201116,https://storage.googleapis.com/ubuntu-os-gke-cloud/ubuntu-gke-1804-1-16-v20201116.manifest
+https://storage.googleapis.com/ubuntu-os-gke-cloud...,https://storage.googleapis.com/ubuntu-os-gke-cloud/ubuntu-gke-1804-1-16-v20200330.manifest
