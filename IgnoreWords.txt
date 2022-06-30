@@ -116,6 +116,7 @@ acceptor
 accessible
 accessibly
 accessorized
+accidentalness
 accipiters
 accipitrine
 accipitrines
@@ -2206,6 +2207,7 @@ ballcarriers
 ballerina
 ballerinas
 balletomania
+balletomanias
 ballets
 ballgame
 ballistic
@@ -3555,6 +3557,7 @@ brecciations
 brechan
 brechans
 breechloaders
+breedings
 breezed
 breezeless
 breeziness
@@ -4125,6 +4128,7 @@ camouflagic
 camouflaging
 campagna
 campaigned
+campanology
 camped
 campesinos
 camphenes
@@ -4215,6 +4219,7 @@ canthi
 cantic
 canticle
 cantilevers
+cantillations
 cantor
 canulated
 canvaser
@@ -7328,6 +7333,7 @@ daphnias
 dapperly
 dappled
 darbar
+darbars
 darbies
 darbs
 daredevilry
@@ -11835,6 +11841,7 @@ fraulein
 frazzling
 freakinesses
 freakishness
+freakout
 freaks
 freckles
 frecklier
@@ -11977,6 +11984,7 @@ fueller
 fuellers
 fuels
 fuelwoods
+fugato
 fugatos
 fuggier
 fugios
@@ -15308,6 +15316,7 @@ inscroll
 inscrutable
 insculp
 inseams
+insecurely
 insecureness
 insemination
 insensible
@@ -15772,6 +15781,7 @@ irritative
 irruptions
 isallobar
 isallobaric
+isallobars
 isarithm
 isatin
 isatines
@@ -15824,6 +15834,7 @@ isophotal
 isophotes
 isoplethic
 isoprenoid
+isopropyls
 isospories
 isostacy
 isostatic
@@ -16318,10 +16329,12 @@ kibbitz
 kibbitzing
 kibbutzim
 kibe
+kibitzers
 kibosh
 kick
 kickboxed
 kickier
+kickshaw
 kickstarted
 kicky
 kidders
@@ -16846,6 +16859,7 @@ legendized
 legendries
 legends
 legerdemain
+legerities
 leges
 legging
 leggins
@@ -18405,6 +18419,7 @@ micropore
 micropublisher
 micropulsations
 micropyle
+microradiograph
 microseism
 microsomes
 microspheres
@@ -18596,6 +18611,7 @@ miracidia
 miracidium
 miracles
 miraculous
+mirages
 mirandize
 mirepoix
 mirex
@@ -18704,6 +18720,7 @@ misfocusses
 misfocussing
 misfortunes
 misframed
+misfunction
 misfunctions
 misgivings
 misgraded
@@ -19980,6 +19997,7 @@ noncarriers
 noncelebrations
 noncelebrities
 noncellular
+noncellulosic
 noncentral
 noncereal
 nonchalance
@@ -20475,6 +20493,7 @@ oceanaut
 oceanic
 oceanographies
 ochering
+ochre
 ochrous
 ochry
 ocker
@@ -22597,6 +22616,7 @@ physicality
 physicalness
 physicals
 physician
+physicist
 physicked
 physiognomies
 physiologist
@@ -23248,6 +23268,7 @@ poops
 popedom
 popinjays
 poplar
+poplin
 popliteus
 popover
 poppadoms
@@ -24823,6 +24844,7 @@ rataplans
 ratatat
 rateably
 ratels
+ratepayer
 ratfinks
 rathe
 rathskeller
@@ -25572,6 +25594,7 @@ relinquish
 reliquefies
 reliques
 reliquiae
+relishable
 relishing
 relist
 reloaders
@@ -26228,6 +26251,7 @@ rhaphes
 rhemes
 rhenium
 rheobases
+rheologically
 rheometer
 rheophiles
 rhesuses
@@ -27235,6 +27259,7 @@ scrofulous
 scrolled
 scrollworks
 scrooched
+scrooches
 scroop
 scroops
 scrootching
@@ -27506,6 +27531,7 @@ sensate
 sensately
 sensating
 sensationalise
+sensationalist
 sensationalized
 senseis
 senselessness
@@ -27612,6 +27638,7 @@ serriedly
 serriedness
 serrying
 sers
+serum
 servable
 servantless
 servants
@@ -28057,6 +28084,7 @@ signior
 signiories
 signora
 signoras
+signorine
 signory
 signposted
 silage
@@ -28907,6 +28935,7 @@ specialty
 species
 specifications
 specified
+specifier
 specifies
 specify
 speciousness
@@ -30904,6 +30933,7 @@ temperas
 temperate
 tempestuous
 templars
+temporalized
 temporalizing
 temporise
 temporises
@@ -30978,6 +31008,7 @@ term
 terminably
 terminal
 terminator
+terminators
 termitarium
 ternate
 terne
@@ -31343,6 +31374,7 @@ tippet
 tipstaff
 tipster
 tipsters
+tipstock
 tipstocks
 tiptops
 tirades
@@ -31662,6 +31694,7 @@ traipsing
 trait
 traitors
 traject
+trajection
 tramels
 tramlines
 trammeler
@@ -33123,6 +33156,7 @@ unworldly
 unworried
 unworthy
 unwove
+unwrap
 unyeaned
 unyoking
 unyoung
@@ -33981,6 +34015,7 @@ watchman
 watchword
 waterages
 waterbeds
+waterbus
 watercooler
 watercrafts
 waterdog
