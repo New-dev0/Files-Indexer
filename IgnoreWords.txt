@@ -1966,6 +1966,7 @@ automan
 automat
 automatically
 automaticities
+automating
 automatizes
 automobiles
 automobilist
@@ -2160,6 +2161,7 @@ baguet
 bahts
 bahuvrihis
 bailee
+bailiffship
 bails
 bailsman
 bairnlier
@@ -4725,6 +4727,7 @@ chamfrons
 chamise
 chamiso
 chamois
+chamoised
 champacas
 champerty
 champignons
@@ -5393,6 +5396,7 @@ clubs
 clumping
 clumsiest
 clung
+clunkiest
 clunking
 clupeids
 clustering
@@ -5906,6 +5910,7 @@ computerized
 computerphobias
 computists
 comrade
+comradery
 comradeships
 comsymps
 concatenate
@@ -5927,6 +5932,7 @@ conceptually
 conceptus
 concernments
 concertgoer
+concertinos
 concertize
 concertmasters
 concerto
@@ -7630,6 +7636,7 @@ degradations
 degradative
 degradedly
 degrader
+degrees
 degressive
 degums
 dehisce
@@ -7638,6 +7645,7 @@ dehumanizations
 dehumanizes
 dehydrating
 dehydrators
+dehydrogenated
 deice
 deicer
 deictics
@@ -8505,6 +8513,7 @@ dishelmed
 disherit
 dishevel
 disheveled
+disheveling
 dishful
 dishiest
 dishing
@@ -9657,6 +9666,7 @@ emulators
 emulous
 emyds
 enabled
+enabling
 enactment
 enactors
 enalaprils
@@ -10180,6 +10190,7 @@ establishable
 established
 establishment
 estaminets
+estated
 estates
 esterify
 esters
@@ -10440,6 +10451,7 @@ exhaustive
 exhaustless
 exhaustlessly
 exhausts
+exhibited
 exhibiters
 exhibitionisms
 exhibitory
@@ -11054,6 +11066,7 @@ figured
 figurer
 fil
 filariae
+filarian
 filariases
 filariasis
 filch
@@ -15806,6 +15819,7 @@ jackstone
 jacobin
 jacobus
 jacobuses
+jaconet
 jaculated
 jacuzzis
 jadednesses
@@ -15879,6 +15893,7 @@ jealousness
 jeer
 jeers
 jefe
+jehad
 jejuna
 jejuneness
 jejunities
@@ -15946,6 +15961,7 @@ jiveass
 jivey
 jo
 jobholder
+joblessness
 jobname
 jobnames
 jockette
@@ -16764,6 +16780,7 @@ leges
 legging
 leggins
 legibilities
+legionnaire
 legislatives
 legislators
 legists
@@ -18790,6 +18807,7 @@ mockable
 mocker
 mockers
 mockingbird
+mod
 modalities
 modals
 modelings
@@ -19088,6 +19106,7 @@ moths
 motific
 motion
 motivate
+motivated
 motoneuron
 motorbiked
 motorboater
@@ -21067,6 +21086,7 @@ ovenproof
 ovens
 overachievement
 overachieving
+overages
 overanalyzes
 overanalyzing
 overanxieties
@@ -22108,6 +22128,7 @@ perfects
 perforate
 perforating
 perforation
+performability
 perfumer
 perfumery
 perfusates
@@ -22743,6 +22764,7 @@ placated
 placaters
 placates
 placatory
+placebo
 placeboes
 placeholders
 placekickers
@@ -24416,6 +24438,7 @@ quarryings
 quarryman
 quarterbacking
 quartered
+quartering
 quarterly
 quarterstaff
 quarterstaves
@@ -24595,6 +24618,7 @@ ragas
 raggedier
 raggies
 raggy
+ragouts
 ragworts
 raia
 raids
@@ -24715,6 +24739,7 @@ ratlike
 ratlins
 ratoons
 ratos
+rattail
 ratteen
 rattening
 rattish
@@ -24759,6 +24784,7 @@ reaccenting
 reaccepted
 reacclimatize
 reacclimatizes
+reacclimatizing
 reaccredit
 reaccreditation
 reacquiring
@@ -25477,6 +25503,7 @@ remediation
 remember
 rememberable
 remembering
+remigial
 remilitarizes
 reminded
 reminiscently
@@ -25814,6 +25841,7 @@ response
 responsive
 responsiveness
 responsory
+respots
 resprang
 resprouting
 ressentiments
@@ -26226,6 +26254,7 @@ riprapped
 ripraps
 rips
 ripsnorter
+ripsnorting
 risker
 riskers
 risorgimento
@@ -27703,6 +27732,7 @@ shlepp
 shlub
 shlump
 shlumpy
+shmear
 shmoozes
 shnapps
 shnooks
@@ -28309,6 +28339,7 @@ smirched
 smirching
 smirk
 smirkers
+smirks
 smite
 smiter
 smitheries
@@ -30195,6 +30226,7 @@ swag
 swages
 swaggeringly
 swaggers
+swaggie
 swaggies
 swagging
 swags
@@ -31207,6 +31239,7 @@ titivated
 titling
 titlist
 titrators
+tittivated
 tittup
 titularly
 toad
@@ -31301,6 +31334,7 @@ tonettes
 tonga
 tongue
 tonguelike
+tonguing
 tonic
 tonicities
 tonicity
@@ -32052,6 +32086,7 @@ twilling
 twined
 twinflowers
 twinge
+twinjets
 twinkler
 twinkles
 twinset
