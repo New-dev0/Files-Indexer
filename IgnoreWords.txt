@@ -387,6 +387,7 @@ aeration
 aerations
 aerator
 aerify
+aerifying
 aero
 aerobatic
 aerobes
@@ -1013,6 +1014,7 @@ anesthesia
 anesthetically
 anesthetizing
 anethol
+aneuploid
 anga
 angel
 angeled
@@ -2511,6 +2513,7 @@ beclothed
 beclowned
 becoming
 becrawled
+becrime
 becriming
 becrowds
 becrusting
@@ -5070,6 +5073,7 @@ chockful
 chockfull
 chocoholics
 chocolate
+chocolatiers
 choicely
 choir
 choirboy
@@ -5557,6 +5561,7 @@ cockhorse
 cockhorses
 cockily
 cockleburs
+cockleshell
 cockscomb
 cockshy
 cockspur
@@ -6352,6 +6357,7 @@ convocation
 convoke
 convoker
 convoking
+convolved
 convoys
 convulsant
 convulsants
@@ -6608,6 +6614,7 @@ counterargue
 counterattack
 counterattacks
 counterbalance
+counterbid
 counterchange
 countercoups
 counterdemand
@@ -7993,6 +8000,7 @@ derm
 dermas
 dermatoglyphics
 dermatological
+dermatome
 dermatomes
 dermatoses
 dermic
@@ -8774,6 +8782,7 @@ distributed
 distributor
 distrust
 distrusted
+distrustfully
 disturbers
 disturbingly
 disulfates
@@ -9097,6 +9106,7 @@ drawtubes
 dray
 drayages
 drays
+dread
 dreadfully
 dreading
 dreadlocks
@@ -10043,6 +10053,7 @@ enumerabilities
 enumerate
 enunciate
 enunciates
+enunciation
 envelopers
 envelopes
 envelopment
@@ -10426,6 +10437,7 @@ evaluate
 evanescences
 evangelism
 evangelists
+evanished
 evanishes
 evaporates
 evaporation
@@ -10869,6 +10881,7 @@ fanes
 fanfare
 fanfaron
 fanfaronades
+fanfarons
 fangas
 fangless
 fannies
@@ -10969,6 +10982,7 @@ fauvism
 fauvist
 fava
 favas
+favorably
 favorites
 favors
 fawnlike
@@ -12357,6 +12371,7 @@ gatefolds
 gatehouse
 gateless
 gaters
+gauchely
 gauchest
 gaucho
 gaudier
@@ -13153,6 +13168,7 @@ grown
 growthiness
 growthinesses
 groyne
+grubbing
 grubstakes
 grudging
 gruel
@@ -15549,6 +15565,7 @@ interiorizes
 interiors
 interject
 interjectory
+interjoins
 interknitting
 interlacing
 interlaid
@@ -16583,6 +16600,7 @@ krimmers
 kris
 krone
 krummhorns
+kryolites
 krypton
 kuchen
 kuchens
@@ -17939,6 +17957,7 @@ marque
 marquisate
 marquisates
 marquises
+marram
 marrers
 marrieds
 marsh
@@ -18084,6 +18103,7 @@ mayos
 mayweeds
 mazaedium
 mazard
+mazedly
 mazelike
 mazes
 mazier
@@ -20565,6 +20585,7 @@ obstructionists
 obstructions
 obstructs
 obstruent
+obtained
 obtainers
 obtrusive
 obtundents
@@ -20837,6 +20858,7 @@ opposabilities
 oppositely
 oppositeness
 oppositions
+opprobrious
 oppugn
 oppugnant
 oppugning
@@ -21267,6 +21289,7 @@ outthanked
 outthinks
 outthought
 outtowering
+outtraveled
 outtrick
 outturns
 outvaunted
@@ -21802,6 +21825,7 @@ pancaked
 pancetta
 panchax
 pancratiums
+pancreases
 pancreatins
 pandemic
 pandemonium
@@ -22934,6 +22958,7 @@ pipkin
 pipping
 pipy
 piquances
+piquancies
 piquet
 piracy
 piragua
@@ -23713,6 +23738,7 @@ predictively
 predigest
 predilections
 predischarge
+predisposed
 prednisolone
 prednisolones
 predominating
@@ -24823,6 +24849,7 @@ radiating
 radiation
 radiationless
 radicalise
+radicalisms
 radicalize
 radicals
 radicating
@@ -25964,6 +25991,7 @@ republisher
 republishes
 repugnantly
 repugning
+repugns
 repump
 repumped
 repurchased
@@ -27730,6 +27758,7 @@ sequestered
 sequins
 sequitur
 ser
+seral
 serapes
 seraph
 seraphic
@@ -28194,6 +28223,7 @@ sierras
 siestas
 sifters
 siganid
+sigh
 sighter
 sightings
 sightless
@@ -28276,6 +28306,7 @@ simulated
 simulations
 simulcasts
 simultaneity
+simultaneous
 simultaneously
 since
 sinew
@@ -29250,6 +29281,7 @@ sploshes
 splotch
 splotches
 splotchy
+splurgy
 splutters
 spodes
 spodosols
@@ -29831,6 +29863,7 @@ strict
 strictest
 strictures
 stridden
+stride
 stridulated
 stridulation
 stridulations
@@ -30147,6 +30180,7 @@ subtenancies
 subtend
 subtended
 subtends
+subterranean
 subtext
 subthreshold
 subtilin
@@ -34302,6 +34336,7 @@ wends
 werewolves
 wergelds
 wert
+westbound
 westernised
 westernize
 westmost
