@@ -1609,6 +1609,7 @@ arpeggios
 arpen
 arpens
 arpent
+arracks
 arranges
 arrases
 arrayals
@@ -1648,6 +1649,7 @@ artichokes
 articled
 articulacies
 articulate
+articulated
 artifacts
 artificial
 artificialities
@@ -2199,6 +2201,7 @@ balconies
 baldaquins
 balded
 baldies
+baldnesses
 baldpates
 baldrick
 bale
@@ -2578,6 +2581,7 @@ befuddle
 befuddlement
 beg
 begat
+beggaries
 beggarly
 begin
 begirded
@@ -3360,6 +3364,7 @@ booze
 boozily
 bop
 bopeep
+bopper
 borating
 bordel
 bordering
@@ -4610,6 +4615,7 @@ cavie
 caviled
 cavilled
 cavils
+caving
 cavorts
 caymans
 cayuse
@@ -5811,6 +5817,7 @@ comedies
 comedown
 comedy
 comeliest
+comfiness
 comfort
 comfortably
 comfortingly
@@ -6046,6 +6053,7 @@ confectioner
 confectioners
 confederacy
 confederated
+confederates
 conferencings
 conferrable
 conferrence
@@ -6188,6 +6196,7 @@ consolidates
 consolidation
 consomme
 consonant
+consonants
 consortia
 consorts
 conspectus
@@ -7097,6 +7106,7 @@ curaghs
 curanderos
 curares
 curarization
+curarizing
 curators
 curbings
 curbstone
@@ -17288,6 +17298,7 @@ lobotomise
 lobotomizing
 lobotomy
 lobscouse
+lobstermen
 lobstick
 lobsticks
 lobworms
@@ -17941,6 +17952,7 @@ marvel
 mascarpones
 masculinised
 masculinises
+masculinising
 masculinist
 masculinity
 masher
@@ -18475,6 +18487,7 @@ micromeres
 micrometeorite
 micrometeoritic
 micrometer
+micromethods
 micromorphology
 micronized
 microns
@@ -18879,6 +18892,7 @@ misrepresents
 misroutes
 missable
 missaid
+misseats
 missenses
 missing
 missioner
@@ -19274,6 +19288,7 @@ motoneuron
 motorbiked
 motorboater
 motorbus
+motorcades
 motorcar
 motorcyclist
 motorically
@@ -20149,6 +20164,7 @@ nonexploitive
 nonfactual
 nonfamily
 nonfarmer
+nonfatty
 nonfeminists
 nonfictions
 nonfigurative
@@ -20311,6 +20327,7 @@ nonwoven
 nonwriters
 noo
 noodles
+noogies
 nooks
 noonday
 noontide
@@ -22265,6 +22282,7 @@ penuckle
 penultima
 penults
 penumbra
+penuriousnesses
 peones
 peopleless
 peoples
@@ -22517,6 +22535,7 @@ pharmacokinetic
 pharmacologist
 pharmacology
 pharyngals
+pharynx
 phasmids
 phat
 phatter
@@ -22543,6 +22562,7 @@ phenylthioureas
 phereses
 phi
 phial
+phials
 philanthropical
 philanthropoid
 philanthropoids
@@ -23962,6 +23982,7 @@ prims
 primus
 prince
 princelier
+princeship
 princesse
 principalships
 principle
@@ -24193,6 +24214,7 @@ proselytizes
 proselytizing
 prosody
 prosoma
+prosomal
 prosopography
 prosopopoeia
 prospector
@@ -24241,6 +24263,7 @@ protomartyr
 protonematal
 protons
 protopathic
+protosteles
 prototrophies
 prototypic
 protoxid
@@ -25694,6 +25717,7 @@ remaining
 remakers
 remakes
 remaking
+remanding
 remanning
 remap
 remapping
@@ -26775,6 +26799,7 @@ russet
 rusticals
 rusticated
 rusticating
+rusticities
 rustles
 rustproof
 rustproofed
@@ -26837,6 +26862,7 @@ safety
 safranin
 safranines
 sag
+sagamen
 sagamores
 saganashes
 sagebrushes
@@ -27432,6 +27458,7 @@ seatworks
 seawants
 seaward
 seawares
+seaworthinesses
 seborrhea
 sebums
 secantly
@@ -29199,6 +29226,7 @@ spodosols
 spokesmanships
 spokespeople
 spokeswomen
+spoking
 spondylitises
 sponge
 sponginess
@@ -29605,6 +29633,7 @@ stilts
 stimulant
 stinginess
 stinging
+stingingly
 stingless
 stinkier
 stipel
@@ -29835,6 +29864,7 @@ stubblier
 stubborn
 stucco
 stuccoer
+stuccoers
 stuccoes
 stuccoworks
 stud
@@ -31951,6 +31981,7 @@ tresses
 tressiest
 tressures
 trestle
+tret
 trevallies
 triacetates
 triaging
@@ -33003,6 +33034,7 @@ unmew
 unmingle
 unmistakable
 unmitre
+unmix
 unmolded
 unmoored
 unmourned
@@ -33297,6 +33329,7 @@ uplinking
 uploads
 upped
 uppercut
+uppercuts
 uppercutting
 uppers
 uppings
@@ -34260,6 +34293,7 @@ wheatlands
 wheedled
 wheelbarrow
 wheelman
+wheels
 wheeples
 wheezed
 wheezy
@@ -34774,6 +34808,7 @@ yawn
 yawners
 ycleped
 yclept
+yeaned
 yeaning
 yearbook
 yearend
