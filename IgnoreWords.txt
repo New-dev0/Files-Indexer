@@ -2049,6 +2049,7 @@ ays
 ayurveda
 azalea
 azaleas
+azedarachs
 azeotropies
 azimuths
 azines
@@ -2949,6 +2950,7 @@ bistered
 bistoury
 bistred
 bistres
+bistro
 bisulfates
 bisulfide
 bit
@@ -5002,6 +5004,7 @@ chockfull
 chocoholics
 chocolate
 choicely
+choir
 choirboy
 chokeberries
 chokecherry
@@ -6513,6 +6516,7 @@ counselings
 counselorship
 countenancers
 counterargue
+counterattack
 counterattacks
 counterbalance
 counterchange
@@ -7610,6 +7614,7 @@ degassers
 degauss
 degaussers
 degendered
+degenerate
 degenerative
 deglaciated
 deglamorize
@@ -8585,6 +8590,7 @@ disquiets
 disrated
 disregard
 disregarding
+disregards
 disrelished
 disrelishes
 disrepute
@@ -8899,6 +8905,7 @@ downcourt
 downer
 downfall
 downfield
+downgraded
 downhiller
 downlight
 download
@@ -10096,8 +10103,10 @@ errantries
 erratic
 erring
 erroneous
+erroneousness
 erroneousnesses
 errors
+errs
 eructated
 eructed
 eructs
@@ -11627,6 +11636,7 @@ fornicates
 forrit
 forsooth
 forsworn
+forsythia
 fort
 fortepianos
 forthcoming
@@ -12095,6 +12105,7 @@ gammier
 gammon
 gammoning
 gamodeme
+gamut
 gandering
 ganevs
 gangbanged
@@ -14481,6 +14492,7 @@ ignominiously
 ignoramuses
 ignorances
 ignorant
+ignorantnesses
 iguanid
 ileac
 ilex
@@ -17110,6 +17122,7 @@ lockets
 lockmaker
 locks
 lockstitches
+lockup
 locoism
 locomotes
 locomotors
@@ -18994,6 +19007,7 @@ moratoria
 morays
 mordancy
 mordantly
+mordants
 mordent
 mordents
 morello
@@ -19555,6 +19569,7 @@ negotiability
 negotiating
 negritude
 neifs
+neighborly
 neighbouring
 nektonic
 nelsons
@@ -19701,6 +19716,7 @@ nidi
 nidicolous
 nidified
 nidifies
+nidifying
 niellists
 nielloed
 nielloing
@@ -19753,6 +19769,7 @@ nitrides
 nitriding
 nitrification
 nitrify
+nitrile
 nitro
 nitrobenzene
 nitrofuran
@@ -20076,6 +20093,7 @@ nonvalidity
 nonvenomous
 nonviewers
 nonvirgin
+nonvoting
 nonwage
 nonwork
 nonwoven
@@ -20793,6 +20811,7 @@ outbulges
 outbullying
 outburn
 outbuying
+outbye
 outcapering
 outcatches
 outcatching
@@ -21991,6 +22010,7 @@ pens
 pensil
 pensioning
 pensions
+pensive
 penstemon
 penster
 penstock
@@ -23630,6 +23650,7 @@ pretyped
 pretyping
 pretzel
 preunions
+prevailed
 prevailers
 prevailing
 prevails
@@ -24443,6 +24464,7 @@ quitclaim
 quite
 quittances
 quiverers
+quixotes
 quixotic
 quixotical
 quixotism
@@ -24604,6 +24626,7 @@ rancour
 randan
 randinesses
 randomizer
+range
 ranid
 ranis
 rankers
@@ -25395,6 +25418,7 @@ relishing
 relist
 reloans
 relock
+relooks
 relubricated
 relubrication
 reluctance
@@ -25755,6 +25779,7 @@ respirometric
 respirometry
 resplendencies
 resplendent
+resplicing
 resplit
 responder
 responding
@@ -25959,6 +25984,7 @@ reverenced
 reverencer
 reverencers
 reverences
+reverie
 reveries
 reversibility
 revert
@@ -26814,6 +26840,7 @@ scalations
 scale
 scales
 scallop
+scalls
 scallywag
 scallywags
 scaloppine
@@ -27075,6 +27102,7 @@ scunnered
 scuppaugs
 scuppered
 scurfy
+scurry
 scurrying
 scurviest
 scutched
@@ -29414,6 +29442,7 @@ streetlamp
 streetscapes
 streetwalker
 streetwise
+strength
 strengthen
 strengthener
 strenuosities
@@ -30553,6 +30582,7 @@ tautest
 tautness
 tautologies
 tautonym
+taverna
 tawdries
 tawnier
 tawse
@@ -32112,6 +32142,7 @@ umbonate
 umbones
 umbrageously
 umbral
+umbrettes
 umiac
 umlauting
 umping
@@ -32987,6 +33018,7 @@ urbanises
 urbanising
 urbanisms
 urbanizations
+urbanologies
 urbanology
 urceolate
 uredinia
@@ -33869,8 +33901,10 @@ wetting
 whacks
 whaleman
 whales
+whangee
 whaps
 wharfage
+wharfinger
 wharfmasters
 wharves
 whatchamacallit
@@ -33928,6 +33962,7 @@ whirlers
 whirlpool
 whirlybird
 whirred
+whirrs
 whiskered
 whiskery
 whiskies
