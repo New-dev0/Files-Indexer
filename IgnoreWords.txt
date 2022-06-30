@@ -1974,6 +1974,7 @@ automat
 automatically
 automaticities
 automating
+automatized
 automatizes
 automobiles
 automobilist
@@ -2636,6 +2637,7 @@ bemocking
 bemuddling
 bemurmured
 bemusedly
+bemusements
 bendable
 bendwise
 benedictions
@@ -2724,6 +2726,7 @@ betelnut
 bethanked
 beths
 betokening
+betrotheds
 betroths
 bettering
 between
@@ -4383,6 +4386,7 @@ carpools
 carpophores
 carps
 carpus
+carrack
 carracks
 carrells
 carrels
@@ -4684,6 +4688,7 @@ certainest
 certifiable
 certifiably
 certification
+certifiers
 ceruloplasmins
 ceruminous
 cervelases
@@ -6253,6 +6258,7 @@ controlled
 controlment
 controverters
 controverts
+contumaciously
 contumacy
 convector
 convened
@@ -6745,6 +6751,7 @@ creepages
 creeped
 creese
 creeshes
+cremate
 cremates
 cremator
 cremators
@@ -7710,6 +7717,7 @@ delineated
 delineates
 delineation
 delineations
+deliquesce
 deliquesced
 deliquescence
 deliquescing
@@ -8133,6 +8141,7 @@ dialogically
 dialogs
 dialogue
 dialyzes
+diamante
 diamantes
 diamins
 diamond
@@ -8252,6 +8261,7 @@ digamma
 digenesis
 digenetic
 digestible
+digests
 digitalins
 digitally
 digitately
@@ -8841,6 +8851,7 @@ donates
 donating
 donations
 donator
+donenesses
 dongola
 dongolas
 donkeys
@@ -9101,6 +9112,7 @@ drowsinesses
 drub
 drubbed
 drubbings
+drudgeries
 drudging
 druggie
 druggier
@@ -9557,6 +9569,7 @@ eloper
 eloquences
 eluant
 elucidated
+elucidating
 eluding
 elusory
 elute
@@ -10599,6 +10612,7 @@ extensity
 extensor
 extents
 extenuator
+extenuators
 exteriorised
 exteriorities
 exterminate
@@ -10685,6 +10699,7 @@ facilitators
 facilities
 facsimiles
 fact
+faction
 factionally
 factoidal
 factorable
@@ -10945,6 +10960,7 @@ fellmongerings
 fellmongers
 fellowships
 felon
+feloniousness
 felstones
 feme
 feminacies
@@ -11299,6 +11315,7 @@ flask
 flasks
 flatfoots
 flatliners
+flatlong
 flattens
 flatterers
 flattery
@@ -13218,6 +13235,7 @@ gyron
 gyrons
 gyropilot
 gyroplane
+gyroscope
 gyroscopically
 gyrostats
 gyved
@@ -13297,6 +13315,7 @@ halavah
 halavahs
 halbert
 haled
+hales
 halfbeak
 halflives
 halfpence
@@ -14169,6 +14188,7 @@ hostly
 hotbeds
 hotching
 hotchpotches
+hotdogged
 hotelier
 hotelman
 hotheaded
@@ -14394,6 +14414,7 @@ hyperboloids
 hyperboreans
 hypercautious
 hypercorrectly
+hypercritical
 hypercube
 hyperesthetic
 hypereutectoid
@@ -14558,9 +14579,11 @@ iguanid
 ileac
 ilex
 ilia
+illatively
 illegalities
 illegibility
 illegitimacies
+illiberality
 illiberalness
 illicitly
 illimitable
@@ -16877,6 +16900,7 @@ leu
 leucemia
 leucines
 leucite
+leucitic
 leucocyte
 leuds
 leukemia
@@ -17108,6 +17132,7 @@ literalities
 literality
 literalize
 literarinesses
+literatus
 lithenesses
 lither
 lithic
@@ -19288,6 +19313,7 @@ multiples
 multiplexed
 multiplexor
 multiplexors
+multiplication
 multiplications
 multiplicity
 multiplies
@@ -21477,6 +21503,7 @@ ozonations
 ozonides
 ozonise
 ozonizers
+ozonizes
 pablum
 pacas
 paced
@@ -22030,6 +22057,7 @@ peels
 peening
 peens
 peeping
+peeps
 peered
 peeries
 peesweep
@@ -22425,6 +22453,7 @@ philtering
 philtred
 philtres
 phlebotomists
+phlegmier
 phlegmiest
 phlogiston
 phlogistons
@@ -23282,6 +23311,7 @@ posterns
 postexperience
 postfix
 postglacial
+postgrad
 postgraduates
 postgraduation
 posthaste
@@ -23378,6 +23408,7 @@ pours
 poussetted
 poussetting
 pouters
+poutiest
 powdered
 powderers
 power
@@ -25298,6 +25329,7 @@ reflowering
 refluxed
 refly
 refocusing
+refocussing
 refolds
 reforest
 reforestation
@@ -27865,6 +27897,7 @@ showerers
 showerheads
 showier
 showily
+showiness
 showplace
 showroom
 showy
@@ -29101,6 +29134,7 @@ sprucy
 sprue
 sprues
 sprug
+sprugs
 spry
 spumy
 spunk
@@ -34313,6 +34347,7 @@ wolfsbane
 womanises
 womanish
 womanishness
+womanize
 womanlike
 womanliness
 womans
