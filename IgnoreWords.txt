@@ -1910,6 +1910,7 @@ audiocassettes
 audiologic
 audiology
 audiometric
+audiotaped
 auditees
 audition
 auditories
@@ -1920,6 +1921,7 @@ augers
 aught
 augite
 augitic
+augured
 augurer
 augurers
 auguring
@@ -4530,6 +4532,7 @@ catarrh
 catarrhally
 catboats
 catcall
+catcalling
 catchall
 catcher
 catchier
@@ -5306,6 +5309,7 @@ clapping
 claptraps
 clarification
 clarifies
+clarion
 clarioned
 claros
 clashers
@@ -5460,9 +5464,11 @@ clupeids
 clustering
 clustery
 clutching
+cluttering
 cluttery
 clypeate
 cnidae
+cnidarian
 coacervations
 coachwork
 coactive
@@ -5596,6 +5602,7 @@ coelacanth
 coelomate
 coelostat
 coelostats
+coemploying
 coemploys
 coenamor
 coenocytic
@@ -9108,6 +9115,7 @@ drenched
 drenches
 dressmakers
 dressmaking
+dressmakings
 dressy
 dribblets
 dribbly
@@ -9831,6 +9839,7 @@ endleafs
 endnote
 endobiotic
 endocardial
+endocarditises
 endoderm
 endoenzymes
 endogenic
@@ -11737,6 +11746,7 @@ forestial
 forestland
 forestry
 forests
+foretasted
 foretime
 foretops
 forever
@@ -13069,6 +13079,7 @@ griffs
 grift
 grifts
 grille
+grillers
 grilse
 grim
 grimacing
@@ -13369,6 +13380,7 @@ hagiographers
 hagiographical
 hagiologic
 hagiology
+hagridden
 hagrides
 hagrode
 hahnium
@@ -17458,6 +17470,7 @@ loungers
 loungy
 loupe
 lour
+loured
 lousewort
 louseworts
 lousier
@@ -17503,6 +17516,7 @@ lubricity
 lucarnes
 luck
 lucked
+luckless
 lucrativeness
 lucubrating
 luger
@@ -17783,6 +17797,7 @@ man
 manacling
 manage
 managed
+management
 managements
 managerships
 mananas
@@ -20343,6 +20358,7 @@ normless
 normothermic
 northers
 northing
+northwest
 northwester
 nos
 nosebag
@@ -20646,6 +20662,7 @@ officers
 officiants
 officiaries
 officinal
+offish
 offishness
 offloads
 offprinted
@@ -21818,6 +21835,7 @@ panochas
 panoches
 panoplied
 panorama
+panpipes
 pans
 pansexuality
 pantaloon
@@ -22677,6 +22695,7 @@ photosetting
 photospheres
 photospheric
 photostat
+photosynthesis
 photosynthetic
 phototaxes
 phototypes
@@ -23215,6 +23234,7 @@ pointlessly
 pointmen
 points
 pointy
+poisers
 poisoned
 poisoner
 poisonous
@@ -24706,6 +24726,7 @@ quicknesses
 quid
 quiescence
 quiescent
+quietistic
 quietudes
 quietuses
 quillais
@@ -24846,6 +24867,7 @@ ragas
 raggedier
 raggies
 raggy
+ragouted
 ragouts
 ragworts
 raia
@@ -24994,6 +25016,7 @@ ravens
 raves
 ravining
 ravioli
+ravishers
 rawest
 rawhided
 rawin
@@ -27482,6 +27505,7 @@ sect
 sectaries
 sections
 sectoral
+sectored
 sectorial
 secularise
 secularization
@@ -27869,6 +27893,7 @@ sharklike
 sharpers
 sharpest
 sharpies
+sharpy
 shat
 shatter
 shatterers
@@ -27921,6 +27946,7 @@ shelter
 shelterbelt
 shelterers
 shelty
+shelve
 shelved
 shelves
 shelving
@@ -28111,6 +28137,7 @@ shunned
 shunners
 shunning
 shunpike
+shunpikes
 shunt
 shusher
 shushers
@@ -28469,6 +28496,7 @@ slieves
 slightnesses
 slily
 slim
+slimeball
 slimly
 slimmed
 slimming
@@ -28903,6 +28931,7 @@ soothsay
 soothsayings
 soothsays
 sootier
+sootily
 sootinesses
 sooty
 sopaipillas
@@ -29138,6 +29167,7 @@ spiel
 spieled
 spiffies
 spiffiest
+spiffing
 spiffy
 spik
 spiked
@@ -31164,6 +31194,7 @@ tersely
 terseness
 tertiaries
 tertiary
+tesselate
 tessellating
 tessera
 tessiture
@@ -31431,6 +31462,7 @@ tieless
 tiemannites
 tiepins
 tierced
+tiercels
 tiering
 tiffs
 tigereye
@@ -32579,6 +32611,7 @@ unboned
 unbonneted
 unbottle
 unbottling
+unbowdlerized
 unbowed
 unbracing
 unbraided
@@ -34077,6 +34110,7 @@ wangans
 wangled
 wangler
 wanguns
+wanigan
 wanion
 wannabee
 wannigan
@@ -34542,6 +34576,7 @@ wiz
 wizards
 wizened
 wizes
+woalds
 wobbler
 wobbles
 wobblier
