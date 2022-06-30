@@ -317,6 +317,7 @@ adjutant
 adjutants
 adman
 admasses
+admeasures
 admeasuring
 administrable
 administrants
@@ -2895,6 +2896,7 @@ binomials
 bins
 bioacoustics
 bioassay
+biodegradation
 biodegradations
 biodegrades
 biodiversities
@@ -7150,6 +7152,7 @@ cursers
 cursing
 cursive
 cursivenesses
+cursoriness
 cursors
 curt
 curtailers
@@ -7460,6 +7463,7 @@ deadlier
 deadlift
 deadlined
 deadlining
+deadpan
 deaerated
 deaerator
 deaerators
@@ -8585,6 +8589,7 @@ disenchants
 disendowed
 disenfranchise
 disenfranchised
+disengagement
 disengages
 disentailed
 disentails
@@ -8890,6 +8895,7 @@ dogmatize
 dognapped
 dogrobbers
 dogsledder
+dogsleds
 dogtrot
 dogtrots
 dogtrotting
@@ -9757,6 +9763,7 @@ empaneled
 empanelling
 empathizing
 empennages
+emperor
 emperors
 emphasis
 emphasise
@@ -9887,6 +9894,7 @@ energumens
 enervations
 enervator
 enfacing
+enfeoffing
 enfever
 enflamed
 enflaming
@@ -10435,6 +10443,7 @@ evacuator
 evaginates
 evaluate
 evanescences
+evangel
 evangelism
 evangelists
 evanished
@@ -11055,6 +11064,7 @@ fellowships
 felon
 feloniousness
 felstones
+felt
 feme
 feminacies
 feminacy
@@ -14869,6 +14879,7 @@ impletions
 imploded
 implodes
 implored
+imploringly
 impone
 importance
 importation
@@ -15220,6 +15231,7 @@ infantilization
 infantilize
 infantilizing
 infantry
+infare
 infatuations
 infaunal
 infeasible
@@ -15781,6 +15793,7 @@ inviolable
 invirile
 inviscid
 invisibilities
+invitations
 invitatories
 inviter
 inviters
@@ -16073,6 +16086,7 @@ jehad
 jejuna
 jejuneness
 jejunities
+jellaba
 jellify
 jelly
 jellyfishes
@@ -16127,6 +16141,7 @@ jimsonweed
 jingko
 jingling
 jingoisms
+jinker
 jinkers
 jinni
 jinx
@@ -17802,6 +17817,7 @@ malversations
 mambo
 mamboes
 mammalities
+mammals
 mammary
 mammati
 mammers
@@ -17853,6 +17869,7 @@ manhunt
 maniac
 manic
 manicured
+manicures
 manifester
 manifestly
 manifoldnesses
@@ -17923,6 +17940,7 @@ margarites
 margays
 margented
 marginalities
+marginalizes
 marginalizing
 marginating
 margination
@@ -18161,6 +18179,7 @@ median
 mediastina
 mediations
 mediatize
+mediatizes
 mediatrices
 medicable
 medicaid
@@ -20157,6 +20176,7 @@ noncontact
 nonconventional
 noncooperative
 noncore
+noncorroding
 noncreative
 noncritical
 noncrossover
@@ -20181,6 +20201,7 @@ nondrip
 nondrying
 noneconomic
 noneditorial
+noneducation
 noneducational
 noneffective
 nonego
@@ -21424,6 +21445,7 @@ overexploited
 overexpose
 overexposing
 overextend
+overextensions
 overfamiliar
 overfamiliarity
 overfar
@@ -21864,6 +21886,7 @@ pans
 pansexuality
 pantaloon
 pantechnicons
+pantheism
 pantheist
 pantheistically
 pantheists
@@ -22226,6 +22249,7 @@ pedunculate
 peebeen
 peed
 peeking
+peelable
 peelers
 peels
 peening
@@ -22650,6 +22674,7 @@ phoney
 phoneying
 phonic
 phonics
+phonier
 phonies
 phonocardiogram
 phonographic
@@ -23838,6 +23863,7 @@ prenomens
 prenotification
 prenotifying
 prenumbers
+preobtain
 preordering
 prepackage
 preparatively
@@ -24610,6 +24636,7 @@ pyridoxamine
 pyridoxin
 pyridoxines
 pyritic
+pyro
 pyroclastic
 pyrogenic
 pyrolas
@@ -26495,6 +26522,7 @@ rifampins
 riffing
 riffled
 riffler
+riffs
 rifle
 riflebirds
 rifling
@@ -27526,6 +27554,7 @@ seconds
 secretins
 secretion
 secretively
+secretly
 secretor
 secretors
 secs
@@ -28037,6 +28066,7 @@ shirrings
 shirtdresses
 shirting
 shirtmaker
+shitake
 shitakes
 shitless
 shittims
@@ -29268,6 +29298,7 @@ spleenwort
 spleeny
 splendidest
 splendiferous
+splendor
 splendour
 splenectomize
 splenetically
@@ -29374,6 +29405,7 @@ sprue
 sprues
 sprug
 sprugs
+sprung
 spry
 spumy
 spunk
@@ -29692,6 +29724,7 @@ stiller
 stillest
 stills
 stilts
+stimes
 stimulant
 stinginess
 stinging
@@ -29764,6 +29797,7 @@ stopoffs
 stopped
 stoppered
 stopping
+stoppled
 stopwatch
 storekeeper
 storerooms
@@ -34744,6 +34778,7 @@ wrang
 wrangle
 wrangling
 wrap
+wraparounds
 wrapped
 wrasse
 wrasses
