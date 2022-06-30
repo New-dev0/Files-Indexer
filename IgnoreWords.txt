@@ -681,6 +681,7 @@ allergenic
 allergins
 allergy
 allethrins
+alleviations
 alleviators
 alley
 alleyway
@@ -1096,6 +1097,7 @@ annuity
 annularly
 annulation
 annulment
+annulus
 annuluses
 annunciate
 annunciating
@@ -1317,6 +1319,7 @@ anviltops
 anxiousness
 anxiousnesses
 any
+anybodies
 anyplace
 anywise
 aortae
@@ -2186,6 +2189,7 @@ bagginesses
 bagpipes
 bagpiping
 baguet
+bah
 bahts
 bahuvrihis
 bailee
@@ -3546,6 +3550,7 @@ brassieres
 brassiest
 brattice
 brattier
+brattinesses
 brattle
 bratwursts
 brava
@@ -4815,6 +4820,7 @@ changeup
 channel
 channeler
 channelers
+channelized
 channelizing
 chanting
 chap
@@ -5189,6 +5195,7 @@ chummier
 chumships
 chunkier
 chunking
+churchgoers
 churchianity
 churchings
 churchlier
@@ -5816,6 +5823,7 @@ comaking
 comal
 comanaged
 combatant
+combatants
 combativeness
 combativenesses
 combatting
@@ -6445,6 +6453,7 @@ copying
 copyist
 copyrighted
 copywriter
+coquilles
 coracles
 coracoid
 coralbells
@@ -6765,6 +6774,7 @@ crankiest
 crankinesses
 crankle
 crankles
+crannog
 crannoges
 cranreuch
 crapola
@@ -7067,6 +7077,7 @@ cuffing
 cufflink
 cuif
 cuing
+cuish
 cuishes
 cuisinarts
 cuisine
@@ -7405,6 +7416,7 @@ darbs
 daredevilry
 daredeviltries
 daric
+daringnesses
 dark
 darken
 darkened
@@ -8483,6 +8495,7 @@ disabuse
 disaccharidase
 disaccorded
 disaccording
+disaccustoms
 disaffects
 disaffiliate
 disaffiliating
@@ -8915,6 +8928,7 @@ dogvanes
 dogwatches
 doings
 doit
+doll
 dollhouses
 dolling
 dollishly
@@ -8957,6 +8971,7 @@ donnikers
 donors
 donsie
 donsy
+doodads
 doodlers
 doody
 doohickeys
@@ -9179,6 +9194,7 @@ drool
 drooliest
 droopy
 dropforges
+drophead
 dropkick
 dropkicker
 droppable
@@ -9458,6 +9474,7 @@ eclampsias
 eclipse
 eclipser
 ecliptic
+ecliptics
 ecocatastrophes
 ecologic
 ecological
@@ -10422,6 +10439,7 @@ eudiometric
 eugenicist
 eugeosyncline
 euglenid
+euglenids
 euglobulin
 eukaryotes
 eukaryotic
@@ -10606,6 +10624,7 @@ exhortative
 exhorting
 exhorts
 exigently
+exiguousnesses
 exiles
 exilic
 existed
@@ -11528,6 +11547,7 @@ floodlighted
 floodlighting
 floodplain
 floodtides
+floors
 floorshow
 floorshows
 floorwalkers
@@ -12352,6 +12372,7 @@ garlickier
 garlicky
 garmenting
 garnered
+garnishing
 garote
 garoted
 garotes
@@ -12932,6 +12953,7 @@ gothicize
 gothicizes
 gouge
 gouges
+goulashes
 gourdes
 gourmandisms
 gourmets
@@ -13136,6 +13158,7 @@ gripier
 gripsacks
 griskins
 grislier
+grister
 gristliest
 gristliness
 griths
@@ -14343,6 +14366,7 @@ hotness
 hotrods
 hotspot
 hotspots
+hotties
 hourglasses
 houri
 houseboater
@@ -16660,6 +16684,7 @@ kwashiorkors
 kyacks
 kyak
 kyanizing
+kybosh
 kylikes
 kylix
 kymograph
@@ -16913,6 +16938,7 @@ lawmaking
 lawsuit
 lawyering
 laxative
+laxest
 laxness
 laxnesses
 layoff
@@ -20039,6 +20065,7 @@ nightstands
 nighttime
 nighty
 nigrosines
+nihil
 nihilists
 nil
 nilgai
@@ -20993,6 +21020,7 @@ oriflammes
 origamis
 originator
 orinasals
+orioles
 orismological
 orismology
 orle
@@ -21694,6 +21722,7 @@ oxidate
 oxidations
 oxidative
 oxides
+oxidiser
 oxidizers
 oximes
 oximetry
@@ -22287,6 +22316,7 @@ peeries
 peesweep
 peeve
 peewees
+peewit
 peg
 peglike
 pegmatites
@@ -24218,6 +24248,7 @@ proletarians
 proliferations
 prolific
 prolixities
+prolixity
 prologize
 prologues
 prolongation
@@ -26195,6 +26226,7 @@ resprang
 resprouting
 ressentiments
 restable
+restabled
 restack
 restaffed
 restaged
@@ -26556,6 +26588,7 @@ riffler
 riffs
 rifle
 riflebirds
+riflers
 rifling
 rigadoon
 rigadoons
@@ -26570,6 +26603,7 @@ rightnesses
 rights
 rigidification
 rigidity
+rigor
 rigorism
 rigorousness
 rigorousnesses
@@ -26966,6 +27000,7 @@ sadly
 sadomasochist
 sadomasochistic
 sae
+safariing
 safer
 safest
 safety
@@ -28471,6 +28506,7 @@ ski
 skiascopies
 skibob
 skibobs
+skiddiest
 skidding
 skiddoo
 skiddoos
@@ -28538,6 +28574,7 @@ slagging
 slags
 slakers
 slaking
+slamdanced
 slanderers
 slanderous
 slanting
@@ -29203,6 +29240,7 @@ speeding
 speedo
 speedster
 speedsters
+speedwell
 speired
 speirs
 speise
@@ -29385,6 +29423,7 @@ sporocarp
 sporogenesis
 sporopollenins
 sporozoites
+sported
 sporter
 sportively
 sportiveness
@@ -30517,6 +30556,7 @@ superspies
 superstars
 superstition
 superstitiously
+superstocks
 superstructure
 supersurgeon
 supersystem
@@ -31390,6 +31430,7 @@ thermocouples
 thermoduric
 thermoform
 thermograph
+thermographs
 thermojunctions
 thermolabile
 thermoperiodism
@@ -31949,6 +31990,7 @@ trailerings
 trailless
 trainabilities
 trainability
+trainable
 trainee
 trainmen
 trainway
@@ -32326,6 +32368,7 @@ trumpeted
 trumpeter
 truncating
 truncations
+truncheon
 truss
 trussed
 trussings
@@ -32952,6 +32995,7 @@ undisciplined
 undiscovered
 undisguised
 undissociated
+undistorted
 undistributed
 undivided
 undo
@@ -33684,6 +33728,7 @@ varying
 varyingly
 vasa
 vascula
+vascularity
 vascularization
 vasectomized
 vasodilatation
@@ -33880,6 +33925,7 @@ vicarship
 vice
 vicegeral
 vicenary
+vicennial
 viceroyalty
 viceroys
 viceroyships
@@ -34240,6 +34286,7 @@ warm
 warmest
 warming
 warmongerings
+warmouth
 warmups
 warped
 warplane
@@ -35133,6 +35180,7 @@ zoonosis
 zoonotic
 zoophilia
 zoophyte
+zooplankter
 zooplanktons
 zoosperm
 zoosterol
