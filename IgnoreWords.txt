@@ -734,6 +734,7 @@ aloof
 aloofly
 alpenglow
 alphabet
+alphabetize
 alphabetizing
 alphanumerical
 alphas
@@ -1858,6 +1859,7 @@ attending
 attent
 attentional
 attentively
+attestant
 attestations
 attesting
 atticisms
@@ -1900,6 +1902,7 @@ auditory
 audits
 augers
 aught
+augite
 augitic
 augurer
 augurers
@@ -3405,6 +3408,7 @@ boutonniere
 boutonnieres
 bouzoukia
 bouzoukis
+bovids
 bovine
 bowdlerised
 bowdlerising
@@ -4894,6 +4898,7 @@ cheshires
 chessboards
 chessman
 chessmen
+chest
 chestful
 chestier
 chestily
@@ -8807,6 +8812,7 @@ doloroso
 dolorous
 dolors
 dolts
+domains
 dome
 domelike
 domes
@@ -8990,6 +8996,7 @@ draughts
 drave
 drawable
 drawbar
+drawbore
 drawee
 drawer
 drawknives
@@ -9104,6 +9111,7 @@ drupaceous
 drupelets
 druse
 druses
+dryable
 dryadic
 dryish
 dryly
@@ -9887,6 +9895,7 @@ enterotoxin
 enterotoxins
 enteroviral
 enterprising
+enthralled
 enthronement
 enthronements
 enthused
@@ -10130,6 +10139,7 @@ erroneousness
 erroneousnesses
 errors
 errs
+ersatzes
 eructated
 eructed
 eructs
@@ -11572,6 +11582,7 @@ forbears
 forbids
 forby
 force
+forcefulnesses
 forceless
 forcemeats
 fording
@@ -12660,6 +12671,7 @@ goats
 goatskin
 gob
 gobang
+gobans
 gobbed
 gobbet
 gobbledegooks
@@ -13349,6 +13361,7 @@ handy
 handyperson
 hang
 hangnail
+hangnails
 hangtags
 hankerer
 hankerers
@@ -15492,6 +15505,7 @@ interval
 intervallic
 intervals
 intervene
+intervenes
 interviewed
 interviewees
 interweaved
@@ -19202,6 +19216,7 @@ mugging
 muhly
 mujiks
 muktuks
+mulatto
 mulch
 mulched
 mulcted
@@ -20275,6 +20290,7 @@ nuttiest
 nuzzlers
 nylghais
 nymph
+nymphalid
 nymphets
 nympholepsies
 nystagmic
@@ -20858,6 +20874,7 @@ outcatching
 outcaught
 outcavils
 outcharm
+outcheat
 outclimbs
 outcoach
 outcomes
@@ -21423,6 +21440,7 @@ oxymoronically
 oxymorons
 oxyphiles
 oxyphils
+oyes
 oystercatcher
 oysterer
 oysterers
@@ -21649,6 +21667,7 @@ paphians
 papillate
 papillote
 papillotes
+papism
 papisms
 papovaviruses
 pappooses
@@ -24665,6 +24684,7 @@ rammy
 ramona
 ramose
 rampages
+rampantly
 ramped
 rampikes
 ramshorn
@@ -25566,6 +25586,7 @@ renovations
 renown
 rentabilities
 rente
+renumbers
 renunciative
 renunciatory
 renvoi
@@ -25734,6 +25755,7 @@ reroutes
 res
 resaddling
 resailed
+resaluted
 resaw
 resaws
 rescale
@@ -26257,6 +26279,7 @@ ripsnorter
 ripsnorting
 risker
 riskers
+riskily
 risorgimento
 risotto
 rissole
@@ -26673,6 +26696,7 @@ sallowest
 sallownesses
 sally
 salmagundis
+salmonberry
 salmonellae
 salmonellosis
 salols
@@ -27180,6 +27204,7 @@ seacrafts
 seafloors
 seafoods
 seagoing
+seahorses
 sealant
 sealeries
 sealery
@@ -27373,6 +27398,7 @@ semiurban
 semivowels
 semiworks
 sempervivum
+sempiternally
 sempiternities
 sempstresses
 senatorships
@@ -27644,6 +27670,7 @@ sheetrocks
 sheets
 sheikhdom
 sheilas
+shekel
 shelfful
 shellack
 shellacking
@@ -28176,6 +28203,7 @@ slaveholding
 slaverers
 slaveries
 slavish
+slavocracy
 slavocrats
 slaw
 slayable
@@ -28859,6 +28887,7 @@ spicily
 spiculae
 spicular
 spicy
+spiderlike
 spiders
 spiderweb
 spiderworts
@@ -30288,6 +30317,7 @@ swig
 swillers
 swimmily
 swindles
+swinepox
 swing
 swingers
 swinges
@@ -31690,6 +31720,7 @@ tressel
 tresses
 tressiest
 tressures
+trestle
 trevallies
 triacetates
 triaging
@@ -32681,6 +32712,7 @@ universalness
 univocals
 unjam
 unjamming
+unjoint
 unjoints
 unjust
 unjustness
@@ -33005,6 +33037,7 @@ upbraid
 upbraider
 upbraiders
 upby
+upchucks
 upclimbs
 upcountries
 upcurling
@@ -33225,6 +33258,7 @@ varicellas
 varicoceles
 varicose
 variedly
+variegate
 variegated
 variety
 variola
@@ -34397,6 +34431,7 @@ wristband
 wristbands
 wristwatch
 wristwatches
+writer
 writerly
 writhen
 writs
