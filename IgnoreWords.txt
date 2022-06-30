@@ -1077,6 +1077,7 @@ annalists
 annals
 annatto
 annelid
+annelids
 annexe
 annihilates
 annihilatory
@@ -1294,6 +1295,7 @@ antitragi
 antituberculous
 antitussive
 antitypes
+antiuniversity
 antiviolence
 antiviral
 antiwelfare
@@ -2406,6 +2408,7 @@ batteau
 batteaux
 batten
 battener
+battlefield
 battleground
 battlegrounds
 battlement
@@ -3082,6 +3085,7 @@ bleat
 bleated
 bled
 bleedings
+bleeped
 bleepers
 blenched
 blend
@@ -3287,6 +3291,7 @@ bongo
 bongoes
 bonhomies
 bonitas
+bonkers
 bonne
 bonnocks
 bonsai
@@ -3740,6 +3745,7 @@ buckled
 bucklering
 bucko
 buckramed
+buckrams
 buckshees
 buckshot
 buckteeth
@@ -3959,6 +3965,7 @@ bystreet
 bytes
 bywork
 cabal
+cabaletta
 cabalist
 caballeros
 cabbageworms
@@ -4251,6 +4258,7 @@ capital
 capitalised
 capitalising
 capitalist
+capitals
 capitols
 capitulary
 capitulations
@@ -4816,6 +4824,7 @@ charrier
 charring
 charted
 chartered
+charterers
 chartreuse
 chartularies
 charwomen
@@ -5256,6 +5265,7 @@ cladodes
 cladodial
 cladogram
 clads
+clafoutis
 clag
 clairaudience
 clairaudient
@@ -5460,6 +5470,7 @@ coannexing
 coappears
 coaptation
 coarctations
+coarseness
 coarsenesses
 coarsens
 coarsest
@@ -7254,6 +7265,7 @@ cytotaxonomic
 cytotaxonomy
 cytotoxins
 czarevna
+czarisms
 czarists
 czaritzas
 dachas
@@ -7562,6 +7574,7 @@ deducts
 deeding
 deedless
 deedy
+deejaying
 deepest
 deepfreezes
 deeps
@@ -7960,6 +7973,7 @@ descendible
 descried
 descriers
 descries
+descriptive
 descriptor
 descry
 descrying
@@ -12921,6 +12935,7 @@ graptolite
 grapy
 grasshopper
 grassier
+grasslands
 grassless
 grassy
 grated
@@ -13024,6 +13039,7 @@ grinner
 grins
 griots
 griped
+gripier
 gripsacks
 griskins
 grislier
@@ -13053,6 +13069,7 @@ groovy
 grope
 groped
 gropingly
+groschen
 grossing
 grossness
 grosze
@@ -13305,6 +13322,7 @@ hagbushes
 haggadahs
 haggadic
 haggardness
+haggle
 haggles
 hagiographers
 hagiographical
@@ -16154,6 +16172,7 @@ justiciable
 justificatory
 justifying
 justle
+justled
 jut
 juts
 jutting
@@ -16411,6 +16430,7 @@ kists
 kitchen
 kite
 kitelike
+kites
 kiths
 kitsch
 kitschifying
@@ -17556,6 +17576,7 @@ machismo
 machismos
 machzors
 mackintoshes
+macled
 macrocosms
 macrocyclic
 macroeconomic
@@ -17852,6 +17873,7 @@ marrers
 marrieds
 marsh
 marshalcies
+marshaled
 marshaling
 marshalled
 marshalship
@@ -20768,6 +20790,7 @@ orbicularly
 orbs
 orchard
 orchestraters
+orchestrates
 orchestrating
 orchestrators
 orchidaceous
@@ -20889,6 +20912,7 @@ osteoblastic
 osteoclasts
 osteocyte
 osteocytes
+osteological
 osteomalacia
 osteomyelitises
 ostomate
@@ -22658,6 +22682,7 @@ picholine
 picholines
 pick
 pickaback
+pickabacks
 pickadil
 pickaninnies
 pickaroon
@@ -24159,6 +24184,7 @@ protogalaxies
 protohistorian
 protohistorians
 protohistories
+protomartyr
 protonematal
 protons
 protopathic
@@ -27247,6 +27273,7 @@ screenlands
 screwdriver
 screwiest
 screwinesses
+scribbler
 scribes
 scrimpiest
 scrimshanders
@@ -27426,6 +27453,7 @@ seined
 seining
 seise
 seisers
+seisins
 seism
 seismographic
 seismological
@@ -27446,6 +27474,7 @@ seleniferous
 selenitic
 selenologist
 selfheals
+selfless
 selfnesses
 selfs
 selfsameness
@@ -30125,6 +30154,7 @@ summarizable
 summarizer
 summarizers
 summating
+summational
 summed
 summerlike
 summersaulting
@@ -31148,6 +31178,7 @@ theropods
 these
 theses
 thesp
+thespians
 theurgical
 thewiest
 they
@@ -33303,6 +33334,7 @@ utilises
 utilitarianism
 utilitarianisms
 utilize
+utilizing
 utopianism
 utopistic
 utricles
@@ -33972,6 +34004,7 @@ warmups
 warped
 warplane
 warranted
+warranter
 warrantied
 warrantor
 warrantying
@@ -33979,6 +34012,7 @@ warren
 warrens
 warship
 warsle
+wartime
 wartless
 warwork
 warworks
@@ -34786,6 +34820,7 @@ zebrine
 zebroid
 zecchini
 zechin
+zed
 zedoary
 zein
 zeks
