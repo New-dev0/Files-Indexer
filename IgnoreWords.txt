@@ -282,6 +282,7 @@ addresses
 adduced
 adducer
 adducible
+adducts
 adenines
 adenomas
 adenosines
@@ -885,6 +886,7 @@ amphitheatrical
 amphoteric
 amping
 ampler
+amplify
 amplifying
 ampoule
 ampoules
@@ -1138,6 +1140,7 @@ antiaging
 antiaircraft
 antialcohol
 antianxiety
+antiaphrodisiac
 antiarmor
 antiarrhythmic
 antiars
@@ -1594,6 +1597,7 @@ arranges
 arrases
 arrayals
 arrayers
+arrays
 arrears
 arrest
 arrhizal
@@ -1626,6 +1630,7 @@ arthrodesis
 artichoke
 artichokes
 articled
+articulacies
 articulate
 artifacts
 artificial
@@ -2784,6 +2789,7 @@ bigeminies
 bigeneric
 biggies
 bigging
+bighted
 bigly
 bignonias
 bigot
@@ -3108,6 +3114,7 @@ blowtorch
 blubber
 blubberer
 blubbering
+blubbers
 bludgeon
 bludgeoned
 bludgeoning
@@ -4546,6 +4553,7 @@ cavelike
 cavendishes
 caverns
 cavie
+caviled
 cavilled
 cavils
 cavorts
@@ -4574,6 +4582,7 @@ cellar
 cellarage
 cellarette
 cellobiose
+cellophanes
 cellphones
 cellular
 cellulars
@@ -6330,6 +6339,7 @@ copyist
 copyrighted
 copywriter
 coracles
+coracoid
 coralbells
 corals
 corbeil
@@ -6392,6 +6402,7 @@ coronographs
 corotation
 corporals
 corporative
+corporator
 corporeality
 corporeally
 corps
@@ -7340,6 +7351,7 @@ deadheaded
 deadlier
 deadlift
 deadlined
+deadlining
 deaerated
 deaerator
 deaerators
@@ -7878,6 +7890,7 @@ derogatory
 derry
 desalination
 desalinizing
+desalts
 descant
 descanted
 descender
@@ -7946,6 +7959,7 @@ detachedness
 detachers
 detachment
 detachments
+detailedness
 detailednesses
 detainers
 detaining
@@ -8381,6 +8395,7 @@ dischargees
 discharger
 discipled
 discipliner
+discipliners
 disclaimer
 disclike
 disclimax
@@ -8596,6 +8611,7 @@ disserved
 disserviceable
 disses
 disseverances
+dissevering
 dissimilated
 dissimilatory
 dissimilitudes
@@ -8940,6 +8956,7 @@ dramaturges
 dramedies
 drammed
 drammocks
+drapeable
 drapery
 dratted
 draughts
@@ -10309,6 +10326,7 @@ exahertz
 exahertzes
 exalters
 examinee
+examining
 exanimate
 exanthema
 exanthemas
@@ -10912,6 +10930,7 @@ ferriferous
 ferrimagnetisms
 ferrite
 ferroconcrete
+ferroconcretes
 ferrocyanides
 ferromagnetic
 ferromagnetisms
@@ -14429,6 +14448,7 @@ identities
 ideogrammic
 ideograms
 ideography
+ideologically
 ideologizes
 ides
 idiom
@@ -14581,6 +14601,7 @@ impacts
 impainted
 impairer
 impairers
+impairments
 impalement
 impales
 impanelling
@@ -14782,6 +14803,7 @@ inclipping
 inclips
 inclosing
 inclosure
+including
 inclusivenesses
 incognitos
 income
@@ -16230,6 +16252,7 @@ kindling
 kinematically
 kinematics
 kines
+kineses
 kinetically
 kineticists
 kingbirds
@@ -18056,6 +18079,7 @@ mergers
 merging
 meridians
 meringues
+merises
 meristically
 merited
 merk
@@ -18210,6 +18234,7 @@ microbiological
 microbreweries
 microcap
 microclimate
+micrococci
 microcomputers
 microcopy
 microcosm
@@ -19360,6 +19385,7 @@ nabobesses
 nabobish
 nabobisms
 nacho
+nacre
 nae
 naevi
 nagged
@@ -19554,6 +19580,7 @@ neonatology
 neoned
 neophyte
 neophytes
+neoplastic
 neoprenes
 neorealisms
 neorealistic
@@ -20982,6 +21009,7 @@ outwears
 outwearying
 outweeping
 outwhirls
+outwished
 outwit
 outworker
 outwriting
@@ -21300,6 +21328,7 @@ ovoid
 ovoidal
 ovoli
 ovonics
+ovotestis
 owed
 ownership
 ownerships
@@ -24905,6 +24934,7 @@ reconfirming
 reconnection
 reconnoiters
 reconnoitred
+reconquer
 reconquest
 reconsecrating
 reconsolidating
@@ -25342,6 +25372,7 @@ relending
 reletter
 relettering
 reletting
+releve
 reliabilities
 reliables
 reliances
@@ -25530,6 +25561,7 @@ replicable
 replicons
 replied
 replots
+replow
 replumbing
 replunging
 repolarization
@@ -27001,6 +27033,7 @@ scrives
 scrod
 scrofulas
 scrofulous
+scrolled
 scrollworks
 scrooched
 scroop
@@ -29081,6 +29114,7 @@ stashes
 stasima
 stat
 statecraft
+statecrafts
 stateliness
 staters
 statesmanship
@@ -33528,6 +33562,7 @@ vows
 vox
 voyageurs
 voyeur
+voyeuristic
 vrouw
 vuggier
 vuggs
