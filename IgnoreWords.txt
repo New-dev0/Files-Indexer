@@ -245,6 +245,7 @@ actinomorphies
 actinomorphy
 actinomyces
 actinomycetous
+actinomycotic
 actinon
 action
 actionably
@@ -5103,6 +5104,7 @@ chocolatiers
 choicely
 choir
 choirboy
+choired
 chokeberries
 chokecherry
 choker
@@ -5903,6 +5905,7 @@ commodity
 common
 commonality
 commonsensible
+commonweal
 commove
 commoves
 communality
@@ -11287,12 +11290,14 @@ filliping
 fillisters
 filmable
 filmed
+filmily
 filming
 filmis
 filmlands
 filmlike
 filmmakers
 filmsetter
+filmy
 filterabilities
 filterability
 filthily
@@ -13624,6 +13629,7 @@ haring
 harissa
 harkeners
 harl
+harlequin
 harlequinades
 harlotries
 harm
@@ -13641,6 +13647,7 @@ harpies
 harpings
 harpoon
 harpooned
+harpooners
 harpooning
 harpsichord
 harpsichordists
@@ -13735,6 +13742,7 @@ headbands
 headcheeses
 headcounts
 headdresses
+headends
 header
 headfirst
 headfish
@@ -13955,6 +13963,7 @@ hermitic
 hermitism
 herniae
 hernias
+herniated
 herniates
 herniation
 heroes
@@ -14827,6 +14836,7 @@ imbowered
 imbricates
 imbrications
 imbrowns
+imbrued
 imbruting
 imbued
 imide
@@ -16162,6 +16172,7 @@ jeer
 jeers
 jefe
 jehad
+jehus
 jejuna
 jejuneness
 jejunities
@@ -16396,6 +16407,7 @@ kantars
 kaoliangs
 kaon
 kaons
+kapa
 kapellmeisters
 kappa
 karabiner
@@ -17529,6 +17541,7 @@ loofahs
 loofas
 looie
 lookdowns
+lookers
 looksism
 lookup
 looming
@@ -17958,6 +17971,7 @@ manicured
 manicures
 manifester
 manifestly
+manifoldness
 manifoldnesses
 manilas
 manilla
@@ -18072,6 +18086,7 @@ marshalled
 marshalship
 marshlike
 marshy
+marsupials
 mart
 martellos
 martially
@@ -18588,6 +18603,7 @@ microbial
 microbic
 microbiological
 microbreweries
+microbrews
 microcap
 microclimate
 micrococci
@@ -19285,6 +19301,7 @@ monopolies
 monopolise
 monopolises
 monopolist
+monopolists
 monopsonies
 monopsonistic
 monopsony
@@ -19336,6 +19353,7 @@ moonlighter
 moons
 moonshine
 moonshined
+moonshiner
 moonshiners
 moonstones
 moonwalking
@@ -19931,6 +19949,7 @@ negotiability
 negotiating
 negritude
 neifs
+neighboring
 neighborly
 neighbouring
 nektonic
@@ -21593,6 +21612,7 @@ overlavish
 overlay
 overleap
 overleaps
+overlearning
 overlearns
 overlearnt
 overlengthening
@@ -23764,6 +23784,7 @@ preacher
 preachified
 preachifying
 preachily
+preaching
 preachments
 preact
 preadaptive
@@ -23931,6 +23952,7 @@ prejudges
 prejudiced
 prekindergarten
 prelapsarian
+prelatisms
 prelaw
 prelegal
 prelibation
@@ -24863,6 +24885,7 @@ quatercentenary
 quaternaries
 quaternity
 quatrefoils
+quaveringly
 quayage
 qubytes
 queenliness
@@ -25781,6 +25804,7 @@ rehearses
 reheeled
 rehemmed
 rehired
+rehumanizes
 rehypnotizing
 reidentifies
 reif
@@ -26156,6 +26180,7 @@ rerecorded
 reredos
 reregister
 reregistered
+reregistrations
 rereleasing
 reremice
 rerepeat
@@ -26350,6 +26375,7 @@ retallied
 retallies
 retally
 retallying
+retardation
 retarder
 retastes
 retax
@@ -26488,6 +26514,7 @@ revetment
 revibrates
 revibrating
 revictual
+revictualled
 revictuals
 review
 reviewal
@@ -26670,6 +26697,7 @@ rimless
 rimosely
 rimpled
 rimrock
+rimrocks
 rin
 ringbarks
 ringbolt
@@ -31102,6 +31130,7 @@ taped
 tapeless
 tapenades
 taperer
+taperers
 tapestried
 tapestries
 tapetal
@@ -31189,6 +31218,7 @@ tearer
 tearful
 tearfulnesses
 tearing
+tearooms
 tearstains
 teasable
 teased
@@ -31483,6 +31513,7 @@ theorize
 thereafter
 therein
 thereon
+thermalization
 thermel
 thermic
 thermidor
@@ -32113,6 +32144,8 @@ transhipping
 transience
 transients
 transilluminate
+transitions
+transitive
 transitiveness
 transitivity
 translated
@@ -32594,6 +32627,7 @@ tuxedos
 tuyer
 tuyeres
 twaes
+twanged
 twattle
 tweak
 tweaky
@@ -34137,6 +34171,7 @@ viviparity
 vivisect
 vivisectionists
 vivisections
+vivisectors
 vixens
 vizcacha
 vizirate
