@@ -179,6 +179,7 @@ acetate
 acetazolamide
 acetic
 acetified
+acetonic
 acetoxyls
 acetum
 acetylcholines
@@ -814,6 +815,7 @@ ambient
 ambients
 ambiguousnesses
 ambipolar
+ambisexuals
 ambitions
 ambitiousnesses
 ambles
@@ -1483,6 +1485,7 @@ approximation
 approximations
 appulses
 appurtenant
+aproning
 apropos
 apses
 apsides
@@ -2456,6 +2459,7 @@ bathymetry
 bathyscaphs
 bathysphere
 batiks
+batistes
 batlike
 batmen
 baton
@@ -2657,6 +2661,7 @@ behowl
 beigy
 being
 bejewel
+bejewels
 bejumbles
 beknots
 belabors
@@ -3359,6 +3364,7 @@ boneblacks
 bonefishes
 bonefishing
 bonehead
+boneheaded
 boneset
 bongo
 bongoes
@@ -5589,6 +5595,7 @@ coannexed
 coannexing
 coappears
 coaptation
+coarctation
 coarctations
 coarseness
 coarsenesses
@@ -5909,6 +5916,7 @@ combatting
 combed
 combes
 combinable
+combinatorics
 combineds
 combiners
 combing
@@ -6040,6 +6048,7 @@ complexities
 compliant
 complicated
 complice
+complimentary
 complin
 compo
 comported
@@ -7323,6 +7332,7 @@ cutlines
 cutout
 cutouts
 cutpurses
+cuttable
 cutthroats
 cuttlefish
 cuttling
@@ -7651,6 +7661,7 @@ decay
 decayless
 decedent
 deceitful
+decelerate
 decelerated
 decelerations
 deceleron
@@ -9428,6 +9439,7 @@ duncishly
 dunderheaded
 dunderheads
 dunelike
+dungeoning
 dunlin
 dunner
 dunnite
@@ -11517,6 +11529,7 @@ fisheyes
 fishhook
 fishhooks
 fishings
+fishmeal
 fishmeals
 fishmongers
 fishtails
@@ -12633,6 +12646,7 @@ gazpachos
 gear
 gearcase
 gearless
+gearshifts
 geckos
 geds
 geed
@@ -13717,6 +13731,7 @@ handhelds
 handhold
 handicapping
 handicrafts
+handinesses
 handkerchieves
 handled
 handless
@@ -13746,6 +13761,7 @@ hanks
 hanseatic
 hanselling
 haole
+hap
 haphtara
 haphtarah
 haphtarot
@@ -15789,6 +15805,7 @@ intercooler
 intercorrelate
 intercorrelated
 intercostal
+intercostals
 intercropped
 intercurrent
 interdentally
@@ -16591,6 +16608,7 @@ kaross
 karroo
 karst
 karting
+karyokineses
 karyology
 karyotins
 kasbahs
@@ -17185,6 +17203,7 @@ leadening
 leadenly
 leadenness
 leader
+leadman
 leadoff
 leadscrew
 leadsmen
@@ -17991,6 +18010,7 @@ maddeningly
 madmen
 madness
 madreporian
+madronos
 mae
 maenadism
 maestosos
@@ -19722,6 +19742,7 @@ mridangams
 muchachos
 muchly
 mucho
+mucilaginously
 muckamucks
 muckier
 mucking
@@ -19753,6 +19774,7 @@ muffs
 muftis
 mugfuls
 mugging
+muggurs
 muhly
 mujiks
 muktuks
@@ -21152,6 +21174,7 @@ oologists
 oomiac
 oomiaks
 oompahs
+oomph
 oomphs
 oophytes
 ooralis
@@ -22136,6 +22159,7 @@ paleographic
 paleographies
 paleozoologists
 paler
+palestra
 palestrae
 palfrey
 palier
@@ -24580,6 +24604,7 @@ prolongation
 prolongations
 prolonged
 prolonging
+prom
 promisees
 promising
 promisors
@@ -25349,6 +25374,7 @@ raked
 rakehell
 rakes
 raki
+rakishness
 raku
 rally
 rallyists
@@ -27119,6 +27145,7 @@ ropedancers
 ropers
 ropewalkers
 ropewalks
+ropier
 ropiest
 roque
 roqueted
@@ -27927,6 +27954,7 @@ scunnered
 scuppaugs
 scuppered
 scurfy
+scurried
 scurry
 scurrying
 scurviest
@@ -28899,6 +28927,7 @@ skids
 skidway
 skiey
 skiffled
+skijorers
 skijoring
 skilled
 skillet
@@ -29785,6 +29814,7 @@ spokesmanships
 spokespeople
 spokeswomen
 spoking
+spoliations
 spondylitises
 sponge
 sponginess
@@ -30677,6 +30707,7 @@ subspecialist
 subspecializes
 subspecializing
 subspecies
+subspecific
 substantialness
 substantives
 substantivize
@@ -30857,6 +30888,7 @@ sunroofs
 sunscreening
 sunshine
 sunspot
+suntan
 suntanned
 suntans
 sunwards
@@ -34449,6 +34481,7 @@ vinegarish
 vineyard
 vinicultures
 viniferas
+vinifications
 vining
 vinosity
 vinous
@@ -35307,6 +35340,7 @@ worklessness
 workloads
 workman
 workmanly
+workmanship
 workpiece
 workplace
 worktables
@@ -35347,6 +35381,7 @@ wrangling
 wrap
 wraparounds
 wrapped
+wrapping
 wrasse
 wrasses
 wrastled
