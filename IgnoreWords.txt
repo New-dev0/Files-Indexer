@@ -1019,6 +1019,7 @@ androsterone
 androsterones
 anecdota
 anecdotage
+anecdotalism
 anecdotalists
 anecdote
 anecdotic
@@ -2277,6 +2278,7 @@ ballgame
 ballistic
 ballistically
 ballonet
+ballooning
 ballpark
 ballparks
 bally
@@ -2905,6 +2907,7 @@ bigly
 bignonias
 bigot
 bigotedly
+bigwigs
 bihourly
 bijection
 bijective
@@ -3065,6 +3068,7 @@ bistoury
 bistred
 bistres
 bistro
+bisulfate
 bisulfates
 bisulfide
 bit
@@ -4410,6 +4414,7 @@ capuche
 capuchin
 caput
 capybara
+carabid
 carabin
 carabines
 carabiniers
@@ -6670,6 +6675,7 @@ correlator
 correlators
 correspondence
 correspondency
+correspondent
 corridas
 corrigibility
 corrivals
@@ -7745,6 +7751,7 @@ declaws
 declinations
 decliner
 declines
+declivitous
 deco
 decocts
 decoder
@@ -8257,6 +8264,7 @@ destitutions
 destroys
 destruction
 desuetude
+desugar
 desugaring
 desulfurizing
 detached
@@ -8284,6 +8292,7 @@ deteriorating
 deterioration
 determent
 determinably
+determinantal
 determinate
 determines
 deterministic
@@ -9618,6 +9627,7 @@ easiest
 easterners
 easters
 easting
+eastward
 easygoing
 easygoingness
 eaten
@@ -10961,6 +10971,7 @@ exterminations
 exterminator
 exterminators
 external
+externalizes
 externals
 externship
 externships
@@ -12041,6 +12052,7 @@ forestland
 forestry
 forests
 foresworn
+foretaste
 foretasted
 foretime
 foretops
@@ -13234,6 +13246,7 @@ graftage
 grahams
 grain
 gram
+gramaries
 gramercies
 gramma
 grammarians
@@ -13848,6 +13861,7 @@ hardihoods
 hardinesses
 hardly
 hardnoses
+hardpack
 hardpans
 hardship
 hardtops
@@ -14300,6 +14314,7 @@ hieroglyphical
 hieroglyphics
 hierophantic
 hierurgy
+highball
 highballs
 highchairs
 highflier
@@ -14578,6 +14593,7 @@ horninesses
 horning
 hornist
 hornswoggles
+horntail
 hornworm
 horological
 horologists
@@ -15169,6 +15185,7 @@ impeccant
 impecuniosities
 impedance
 impedes
+impellent
 impellors
 impenetrable
 impenitent
@@ -15769,6 +15786,7 @@ insentiences
 inserting
 inset
 insets
+insetter
 insheathes
 insheaths
 inshrined
@@ -15793,6 +15811,7 @@ insolubilizes
 insolubles
 insomniac
 insouciance
+insouciant
 inspectors
 inspects
 inspheres
@@ -16061,6 +16080,7 @@ intreat
 intrenching
 intrepidity
 intrepidly
+intrigants
 intriguant
 introit
 introject
@@ -17187,6 +17207,7 @@ lasher
 lashes
 lasses
 lassoes
+lastborn
 lasters
 lastings
 lasts
@@ -18675,6 +18696,7 @@ melodic
 melodicas
 melodiously
 melodised
+melodizers
 melodramatizes
 melon
 melongene
@@ -20769,6 +20791,7 @@ nonquota
 nonracial
 nonrailroad
 nonrandom
+nonreactive
 nonrecombinant
 nonreducing
 nonrefillable
@@ -21804,6 +21827,7 @@ ovately
 ovenbird
 ovenproof
 ovens
+overabundant
 overachievement
 overachieving
 overages
@@ -22538,6 +22562,7 @@ partnered
 partnership
 partons
 partridge
+partridgeberry
 parts
 parturitions
 partygoers
@@ -22996,6 +23021,7 @@ persuades
 persuading
 persuasively
 pertains
+pertest
 pertinence
 perturbation
 perturbational
@@ -26326,6 +26352,7 @@ reliantly
 relicensure
 relied
 reliers
+relies
 reliever
 relievers
 relieves
@@ -26352,6 +26379,7 @@ reluctate
 reluctation
 relumines
 relumining
+remailed
 remaining
 remakers
 remakes
@@ -27062,6 +27090,7 @@ ribbing
 riboflavins
 ribonucleotide
 ribosomes
+ribozyme
 ribworts
 ricercari
 richen
@@ -28448,6 +28477,7 @@ served
 service
 servicing
 servitudes
+servo
 sesquiterpene
 sestertium
 setiform
@@ -29587,6 +29617,7 @@ somnambulates
 somnambulist
 somnifacients
 soms
+sonance
 sonances
 sondes
 sone
@@ -29719,6 +29750,7 @@ spalling
 spambot
 spammed
 spammers
+spancelled
 spancelling
 spangle
 spangles
@@ -30224,6 +30256,7 @@ statuesque
 statuesquely
 statutable
 statutory
+staunched
 staurolitic
 staved
 stavudines
@@ -31838,6 +31871,7 @@ temporalizing
 temporise
 temporises
 temporize
+temporized
 temporizer
 temporizes
 temps
@@ -34283,6 +34317,7 @@ utilitarianisms
 utilize
 utilizing
 utopianism
+utopisms
 utopistic
 utricles
 utterance
