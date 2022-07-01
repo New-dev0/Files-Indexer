@@ -1273,6 +1273,7 @@ antipollution
 antipollutions
 antipoverty
 antiprotons
+antipruritic
 antipsychotic
 antipyretic
 antipyretics
@@ -2219,6 +2220,7 @@ badman
 badmen
 badmintons
 badmouth
+bafflegab
 bafflements
 bagatelle
 bagged
@@ -2598,6 +2600,7 @@ bedposts
 bedraggled
 bedridden
 bedrivel
+bedriveled
 bedriveling
 bedroom
 bedrugged
@@ -2735,6 +2738,7 @@ beneficiated
 beneficiating
 benefit
 benefited
+benefiter
 benefitted
 benempt
 benevolentness
@@ -3159,6 +3163,7 @@ blathered
 blathering
 blathers
 blats
+blawn
 blaxploitation
 blazes
 bleacher
@@ -5879,6 +5884,7 @@ collimations
 collins
 collinsias
 collision
+collocating
 collocational
 collodion
 colloids
@@ -9421,6 +9427,7 @@ drystone
 drywall
 drywells
 duad
+dualisms
 dualistically
 duals
 dubber
@@ -10107,6 +10114,7 @@ energumens
 enervations
 enervator
 enfacing
+enfeebles
 enfeoffing
 enfever
 enflamed
@@ -11563,6 +11571,7 @@ firmnesses
 firms
 firstborns
 firstling
+firsts
 fisc
 fiscally
 fishbolts
@@ -11622,6 +11631,7 @@ flagellation
 flagellations
 flagellin
 flaggier
+flaggingly
 flagitiously
 flagmen
 flagships
@@ -12778,6 +12788,7 @@ geodetic
 geodetics
 geographically
 geohydrologic
+geohydrologies
 geoidal
 geoids
 geologic
@@ -14180,6 +14191,7 @@ hermetist
 hermetists
 hermitic
 hermitism
+hermitisms
 herniae
 hernias
 herniated
@@ -14228,6 +14240,7 @@ heteroploid
 heteroploids
 heteros
 heterosexual
+heterosexuals
 heterosis
 heterotopic
 heterotrophic
@@ -15179,6 +15192,7 @@ imperturbable
 impervious
 imperviously
 impetrate
+impetrated
 impetrates
 imphees
 imping
@@ -16841,6 +16855,7 @@ kineses
 kinetic
 kinetically
 kineticists
+kinetins
 kingbirds
 kingfisher
 kinging
@@ -18576,6 +18591,7 @@ medicate
 medicates
 medication
 medicine
+medick
 medico
 medicolegal
 medics
@@ -18696,6 +18712,7 @@ menhir
 meninges
 meningococcus
 menisci
+meno
 menorrhea
 mensal
 mensas
@@ -19341,6 +19358,7 @@ misrelies
 misreported
 misrepresents
 misroutes
+misrule
 missable
 missaid
 misseats
@@ -20107,6 +20125,7 @@ naissance
 naiveness
 naivetes
 naiveties
+nakedly
 nalas
 nameable
 namely
@@ -21797,6 +21816,7 @@ overassertion
 overassertive
 overasserts
 overassessments
+overawing
 overbearingly
 overbeats
 overbejeweled
@@ -23081,6 +23101,7 @@ phenetoles
 phenobarbital
 phenobarbitals
 phenolated
+phenolics
 phenolphthalein
 phenomenally
 phenomenologist
@@ -23820,6 +23841,7 @@ pollenosis
 pollex
 pollination
 pollinator
+pollster
 pollsters
 pollution
 polo
@@ -23947,6 +23969,7 @@ porpoise
 porringer
 port
 portabellas
+portals
 portapaks
 portcullis
 portend
@@ -24078,6 +24101,7 @@ pots
 potshard
 potshards
 potshot
+potsies
 potstones
 pottage
 potterers
@@ -25679,6 +25703,7 @@ rearrests
 reascend
 reascends
 reascent
+reasonlessly
 reassailing
 reassembles
 reassembling
@@ -27355,6 +27380,7 @@ rubrician
 rubying
 ruching
 rucked
+ruckus
 ruction
 ructions
 rudderpost
@@ -28010,6 +28036,7 @@ screwiest
 screwinesses
 scribbler
 scribes
+scries
 scrimpiest
 scrimshanders
 scrimshaw
@@ -29816,6 +29843,7 @@ spiccato
 spice
 spicebushes
 spiceless
+spicers
 spicery
 spicier
 spicily
@@ -31039,6 +31067,7 @@ superclass
 superclasses
 superclusters
 supercoiled
+supercollider
 superconduct
 superconducts
 supercontinents
@@ -32399,6 +32428,7 @@ toolhead
 toolheads
 toolmaking
 toolmakings
+toonie
 toothing
 toothpaste
 toothpicks
@@ -32509,6 +32539,7 @@ toughness
 toupee
 tourbillons
 toured
+tourers
 tourmaline
 tourney
 touse
@@ -32901,6 +32932,7 @@ tritium
 tritone
 triumphalism
 triumphs
+triune
 triunity
 trivial
 trivialised
@@ -33134,6 +33166,7 @@ tuyer
 tuyeres
 twaes
 twanged
+twasome
 twattle
 tweak
 tweaky
@@ -33230,6 +33263,7 @@ udometer
 ufologies
 ufology
 uglification
+uglifier
 uglifiers
 ugsome
 uitlanders
@@ -33763,6 +33797,7 @@ uniquer
 unirrigated
 unisexuality
 unisonant
+unitarianism
 unities
 unitization
 unitizing
