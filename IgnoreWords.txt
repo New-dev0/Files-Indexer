@@ -400,6 +400,7 @@ aerobicized
 aerobics
 aerobiological
 aerobiology
+aerobiosis
 aerodromes
 aerodynes
 aeroelasticity
@@ -1739,6 +1740,7 @@ aspish
 asrama
 assagai
 assais
+assassinating
 assassinator
 assaulting
 assaults
@@ -4847,6 +4849,7 @@ champleve
 chance
 chancellorship
 chanciest
+chancinesses
 chancres
 chancroid
 chandelled
@@ -5287,6 +5290,7 @@ circuitousness
 circularised
 circulates
 circulation
+circulator
 circumambulate
 circumambulates
 circumcised
@@ -5402,6 +5406,7 @@ clavier
 clavieristic
 clawhammer
 claying
+clayish
 claymore
 cleaning
 cleanly
@@ -5711,6 +5716,7 @@ cognomina
 cogs
 cogwheel
 cohabitants
+cohabitation
 coheading
 coheiress
 coheirs
@@ -7415,6 +7421,7 @@ dahabieh
 daidzein
 daiker
 daikering
+daikers
 dailynesses
 daimen
 daimyo
@@ -8613,6 +8620,7 @@ discipled
 discipliner
 discipliners
 disclaimer
+disclaimers
 disclike
 disclimax
 disclosed
@@ -10177,6 +10185,7 @@ enumerate
 enunciate
 enunciates
 enunciation
+envelope
 envelopers
 envelopes
 envelopment
@@ -10278,6 +10287,7 @@ epiphytology
 epiphytotic
 episcopacy
 episcopally
+episcopate
 epistemological
 epistemology
 epistolary
@@ -11117,6 +11127,7 @@ fauvism
 fauvist
 fava
 favas
+favelas
 favorably
 favorites
 favors
@@ -13574,6 +13585,7 @@ haint
 hairball
 hairballs
 haircut
+hairdressings
 hairinesses
 hairlessnesses
 hairlike
@@ -14465,6 +14477,7 @@ hosiers
 hospice
 hospitalised
 hospitalises
+hospitalising
 hospitality
 hospitia
 hostel
@@ -15320,6 +15333,7 @@ indiscipline
 indisciplines
 indiscretions
 indispose
+indisposing
 indistinctness
 indite
 inditers
@@ -16120,6 +16134,7 @@ isolations
 isoleads
 isoleucines
 isolines
+isomerize
 isomerous
 isopachs
 isophotal
@@ -17325,6 +17340,7 @@ liefest
 liegeman
 liens
 lier
+lieu
 lieve
 lifeguarded
 lifeless
@@ -17405,6 +17421,7 @@ lineally
 linearized
 linebackings
 linebreedings
+lined
 lines
 linesmen
 lingam
@@ -17875,6 +17892,7 @@ machinability
 machination
 machineable
 machineries
+machinists
 machismo
 machismos
 machzors
@@ -18157,6 +18175,7 @@ mariculturists
 marinade
 marinades
 marination
+marinations
 marine
 marishes
 maritime
@@ -18580,6 +18599,7 @@ meseems
 mesentera
 mesenteron
 meshiest
+meshing
 mesically
 mesmerise
 mesmerisms
@@ -18967,6 +18987,7 @@ mirins
 mirker
 mirror
 mirrored
+mirthless
 mirthlessly
 mirths
 mirzas
@@ -19622,6 +19643,7 @@ mozos
 mozzetta
 mridangams
 muchachos
+muchly
 mucho
 muckamucks
 muckier
@@ -20861,6 +20883,7 @@ occlusives
 occultation
 occultists
 occupants
+occupier
 occupies
 occupy
 occurrents
@@ -21615,6 +21638,7 @@ overcalled
 overcautions
 overcharge
 overchilled
+overclass
 overclassified
 overclouds
 overcold
@@ -22353,6 +22377,7 @@ pastromis
 pastures
 patagium
 patcher
+patches
 patchworking
 patchworks
 pate
@@ -26319,6 +26344,7 @@ requesting
 requests
 requiescat
 requires
+requisitioning
 requite
 requiters
 reradiations
@@ -27476,6 +27502,7 @@ saucepan
 saucepot
 saucers
 saucier
+sauerbraten
 saul
 saunaed
 saunters
@@ -28022,6 +28049,7 @@ sempiternally
 sempiternities
 sempstresses
 senatorships
+sendoffs
 senecios
 senescent
 senhoritas
@@ -28787,6 +28815,7 @@ skippering
 skippets
 skirmisher
 skirrs
+skirters
 skirtless
 sklent
 sklenting
@@ -30290,6 +30319,7 @@ strychnic
 stubbier
 stubblier
 stubborn
+stubbornness
 stucco
 stuccoer
 stuccoers
@@ -30467,6 +30497,7 @@ submarined
 submarkets
 submenu
 submergences
+submerges
 submetacentric
 submicrogram
 subminiature
@@ -30840,6 +30871,7 @@ supinenesses
 supped
 supplantations
 supplants
+suppled
 supplementary
 supplementation
 suppletory
@@ -32887,6 +32919,7 @@ typographed
 typography
 typologic
 typologists
+typps
 tyrannic
 tyrannical
 tyrannised
@@ -33997,6 +34030,7 @@ vaporish
 vaporizes
 vaporizing
 vaporous
+vapory
 vapoured
 vapourer
 vara
@@ -35514,3 +35548,4 @@ zymogenic
 zymogens
 zymosan
 zymosans
+zymosis
