@@ -2211,6 +2211,7 @@ balancer
 balboa
 balbriggan
 balconies
+baldachin
 baldaquins
 balded
 baldies
@@ -4309,6 +4310,7 @@ capitulations
 capo
 caponier
 capotes
+capped
 cappelletti
 cappers
 capriccio
@@ -9180,6 +9182,7 @@ driegh
 driftage
 drillmaster
 drills
+drip
 drippers
 drippiest
 drippily
@@ -9290,6 +9293,7 @@ due
 duel
 duelists
 duellist
+duendes
 duennaships
 duet
 dueting
@@ -10657,6 +10661,7 @@ exonerated
 exonerating
 exoneration
 exonic
+exonuclease
 exonumists
 exonym
 exorbitances
@@ -11808,6 +11813,7 @@ forequarter
 forereaching
 foreseeability
 foreseer
+foreshadow
 foreshock
 foreshows
 foresighted
@@ -12090,6 +12096,7 @@ frotteur
 frotteurs
 frouncing
 frowns
+frows
 frowzily
 froze
 frozenly
@@ -13209,6 +13216,7 @@ grot
 grotesque
 grotesquenesses
 grottier
+grotty
 ground
 groundburst
 grounded
@@ -13271,6 +13279,7 @@ guanabanas
 guanacos
 guanays
 guanidine
+guanidins
 guaranies
 guaranty
 guarddog
@@ -14858,6 +14867,7 @@ immolator
 immoralism
 immoralisms
 immoralities
+immortalising
 immortalities
 immortality
 immortalization
@@ -14931,6 +14941,7 @@ impetrate
 impetrates
 imphees
 imping
+impingements
 impings
 impish
 implantable
@@ -15992,6 +16003,7 @@ isogamete
 isogeneic
 isogenic
 isogenies
+isogeny
 isoglossic
 isogon
 isogones
@@ -16155,6 +16167,7 @@ jejuneness
 jejunities
 jellaba
 jellify
+jelling
 jelly
 jellyfishes
 jellyroll
@@ -17731,6 +17744,7 @@ lyttae
 macacos
 macadamias
 macaronies
+maccabaw
 macer
 macerater
 macerates
@@ -17845,6 +17859,7 @@ malarky
 malaromas
 maldistribution
 maledict
+maledicting
 maledictory
 malefactors
 maleficences
@@ -19437,6 +19452,7 @@ moulded
 moulted
 moundbirds
 mounded
+mountainside
 mountaintops
 mountebankeries
 mounted
@@ -20920,6 +20936,7 @@ operable
 operagoing
 operand
 operatic
+operation
 operationalists
 operationisms
 operative
@@ -22153,6 +22170,7 @@ pashalik
 pasquinades
 passages
 passageworks
+passalong
 passe
 passed
 passee
@@ -22441,6 +22459,7 @@ pepperinesses
 peppertrees
 peppiness
 peptid
+peptidase
 peptides
 peptizes
 peptonizes
@@ -22846,6 +22865,7 @@ phylesises
 phyllite
 phyllo
 phyllodium
+phylloids
 phyllome
 phyllomes
 phyllotactic
@@ -23868,6 +23888,7 @@ prefaces
 prefaded
 preferential
 preferments
+preferrer
 preferrers
 prefigurement
 prefile
@@ -23930,6 +23951,7 @@ premedieval
 premeditative
 premeds
 premenopausal
+premier
 premiered
 premiering
 premillenarian
@@ -24034,6 +24056,7 @@ prestored
 prestressed
 prestrike
 presumable
+presumably
 presumes
 presumingly
 presummit
@@ -24439,6 +24462,7 @@ protrusions
 protuberantly
 proudest
 proudful
+provenance
 provenances
 proves
 providences
@@ -25105,6 +25129,7 @@ rasbora
 raspberries
 raspier
 raspingly
+rasps
 rassle
 rataplans
 ratatat
@@ -25365,6 +25390,7 @@ recoal
 recoaled
 recocks
 recoded
+recodification
 recodifications
 recodify
 recodifying
@@ -25718,6 +25744,7 @@ regma
 regnum
 regoliths
 regorging
+regranting
 regrated
 regreeting
 regretfulnesses
@@ -27192,6 +27219,7 @@ sapanwoods
 sapheaded
 saphenae
 sapid
+sapiencies
 saplessnesses
 sapodilla
 saponaceousness
@@ -27614,6 +27642,7 @@ sealift
 sealifts
 seamanship
 seamanships
+seamlessness
 seamstress
 seapieces
 seaquakes
@@ -29583,6 +29612,7 @@ stablings
 stablish
 stablishments
 stacked
+stacking
 stactes
 stadium
 stadtholder
@@ -30531,6 +30561,7 @@ superhelix
 superhighway
 superhits
 superhumanities
+superimposition
 superinduces
 superinduction
 superinfected
@@ -31284,6 +31315,7 @@ tendencious
 tendered
 tenderest
 tendering
+tenderizer
 tenderloin
 tenderly
 tenderometer
@@ -31878,6 +31910,7 @@ topologists
 toponymies
 toponymists
 topos
+topotype
 topped
 toppr
 topsides
@@ -32921,6 +32954,7 @@ undelegated
 underachieve
 underachieving
 underage
+underages
 underarm
 underarms
 underbakes
@@ -34853,6 +34887,7 @@ workhorses
 workhour
 workhouse
 workings
+worklessness
 workloads
 workman
 workmanly
