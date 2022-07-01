@@ -977,6 +977,7 @@ analogs
 analphabets
 analyses
 analytic
+analytical
 analyzations
 ananke
 anankes
@@ -1195,6 +1196,7 @@ anticult
 anticults
 anticyclone
 antidepressant
+antidogmatic
 antidotal
 antidraft
 antiemetics
@@ -1209,6 +1211,7 @@ antiforeigner
 antiformalist
 antifouling
 antifriction
+antifungals
 antigang
 antigenic
 antigenically
@@ -2075,6 +2078,7 @@ awash
 away
 awaynesses
 awe
+awed
 aweigh
 awesomeness
 awfullest
@@ -3473,6 +3477,7 @@ bouldering
 bouldery
 boule
 boulevardier
+bouleversement
 boulles
 bounce
 bounced
@@ -3616,6 +3621,7 @@ breads
 breadstuffs
 breadwinning
 breakages
+breaker
 breakfast
 breakfaster
 breakout
@@ -6070,6 +6076,7 @@ comrade
 comradery
 comradeships
 comsymps
+conative
 concatenate
 concave
 concealers
@@ -6600,6 +6607,7 @@ corpuscle
 corpuscles
 corrades
 corral
+corralled
 corrasion
 correctable
 corrective
@@ -9591,6 +9599,7 @@ economizing
 ecophysiology
 ecospheres
 ecoterrorism
+ecoterrorist
 ecotourisms
 ecotours
 ecru
@@ -10021,6 +10030,7 @@ endurable
 endurably
 endurances
 endured
+enduring
 enemata
 energetically
 energies
@@ -10044,6 +10054,7 @@ enforced
 enforcements
 enframed
 enframement
+eng
 engage
 engaged
 engagers
@@ -10275,6 +10286,7 @@ epifaunas
 epigenist
 epigenists
 epiglottal
+epiglottic
 epigrammatic
 epigrammatists
 epigrapher
@@ -11907,6 +11919,7 @@ foredate
 foredecks
 foreface
 forefaces
+forefending
 forefends
 forefinger
 foregathered
@@ -13052,6 +13065,7 @@ goobers
 goodby
 goodbys
 goodman
+goodness
 goof
 goofballs
 goofs
@@ -14653,6 +14667,7 @@ huskinesses
 husking
 hutch
 hutching
+hutzpa
 hutzpahs
 huzzaed
 huzzah
@@ -14832,6 +14847,7 @@ hyssop
 hysterias
 iatrical
 ibex
+ibidem
 iceberg
 icebergs
 iceblink
@@ -14983,6 +14999,7 @@ immersion
 immersions
 immeshes
 immeshing
+immies
 immigrant
 immigrates
 immigration
@@ -15040,6 +15057,7 @@ imparking
 imparted
 impartialities
 impartially
+impartments
 impassable
 impassibilities
 impassibly
@@ -17581,6 +17599,7 @@ loathed
 loathes
 loathful
 loathsomeness
+lob
 lobar
 lobbed
 lobeline
@@ -17588,6 +17607,7 @@ lobotomise
 lobotomizing
 lobotomy
 lobscouse
+lobstering
 lobstermen
 lobstick
 lobsticks
@@ -18166,6 +18186,7 @@ mantels
 mantes
 mantillas
 mantises
+mantles
 manually
 manubriums
 manufactories
@@ -20793,6 +20814,7 @@ nuncios
 nuncupative
 nunnation
 nunnery
+nunnish
 nuptialities
 nuptials
 nurling
@@ -21213,6 +21235,7 @@ orchidaceous
 orchil
 orcinol
 order
+ordered
 orderless
 ordinaries
 ordnance
@@ -22215,6 +22238,7 @@ papillote
 papillotes
 papism
 papisms
+papistic
 papovaviruses
 pappooses
 pappous
@@ -30497,6 +30521,7 @@ suberic
 suberize
 suberizing
 suberose
+subfiles
 subfixes
 subframe
 subfreezing
@@ -30784,6 +30809,7 @@ sumps
 sumpters
 sumptuous
 sunbaths
+sunblock
 sunbonnets
 sunburned
 sunburns
@@ -30826,6 +30852,7 @@ superbombers
 superbright
 supercabinets
 supercargoes
+supercharger
 supercharges
 supercilious
 supercity
@@ -31367,6 +31394,7 @@ tandem
 tandems
 tandoori
 tang
+tangerine
 tangibilities
 tangier
 tangles
@@ -32646,6 +32674,7 @@ trios
 trioxid
 trioxids
 tripacks
+triphthongal
 tripinnate
 triples
 tripletail
@@ -33460,6 +33489,7 @@ unfreezes
 unfreezing
 unfriendliness
 unfrock
+unfrocked
 unfroze
 unfurling
 unfurls
@@ -33816,6 +33846,7 @@ untoward
 untowardness
 untraditionally
 untrained
+untranslatable
 untraveled
 untread
 untreaded
@@ -34545,6 +34576,7 @@ voodooed
 voodooism
 voraciousness
 vorlages
+vortex
 vortical
 vorticist
 vorticists
@@ -34726,6 +34758,7 @@ washstand
 washups
 washwoman
 washwomen
+wassailing
 wast
 wastebasket
 wastefulnesses
@@ -35031,6 +35064,7 @@ wildfowlings
 wildfowls
 wildings
 wilinesses
+willemite
 willers
 willet
 willie
@@ -35312,6 +35346,7 @@ wristband
 wristbands
 wristwatch
 wristwatches
+writ
 writer
 writerly
 writhen
