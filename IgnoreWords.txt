@@ -289,6 +289,7 @@ addresses
 adduced
 adducer
 adducible
+adductive
 adducts
 adenines
 adenomas
@@ -363,6 +364,7 @@ adulteresses
 adulthood
 adultress
 adumbrate
+adumbration
 adumbratively
 advanced
 advancement
@@ -515,6 +517,7 @@ aglycone
 aglycons
 agmas
 agnate
+agnized
 agnosticisms
 agonal
 agonic
@@ -1384,6 +1387,7 @@ apishnesses
 aplenty
 aplombs
 apneas
+apnoeal
 apocalyptically
 apocalyptisms
 apochromatic
@@ -1707,6 +1711,7 @@ asbestosis
 ascariasis
 ascarid
 ascarides
+ascarids
 ascendancy
 ascendants
 ascenders
@@ -4113,6 +4118,7 @@ cacomixls
 caconym
 cacophonous
 cacophonously
+cadastre
 cadaverines
 caddis
 caddised
@@ -4382,6 +4388,7 @@ capitalised
 capitalising
 capitalist
 capitals
+capitella
 capitols
 capitulary
 capitulations
@@ -5431,6 +5438,7 @@ clankier
 clanking
 clannishly
 clapboard
+clapboards
 clapping
 claptraps
 clarification
@@ -6727,6 +6735,7 @@ cosmopolite
 cosmos
 cossack
 cosseted
+costard
 costars
 costers
 costivenesses
@@ -7199,6 +7208,7 @@ cub
 cubbyhole
 cubeb
 cubed
+cubical
 cubicities
 cuboid
 cuckold
@@ -7734,6 +7744,7 @@ decimation
 decipherers
 decipherment
 deciphers
+decisioning
 deckers
 decks
 declaim
@@ -8243,6 +8254,7 @@ desktop
 desmid
 desmoids
 desolators
+desorb
 desperateness
 despicable
 despised
@@ -10137,6 +10149,7 @@ enforced
 enforcements
 enframed
 enframement
+enfranchisement
 eng
 engage
 engaged
@@ -10500,6 +10513,7 @@ ersatzes
 eructated
 eructed
 eructs
+erugos
 erupted
 ervils
 eryngos
@@ -11496,6 +11510,7 @@ filliping
 fillisters
 filmable
 filmed
+filmically
 filmily
 filming
 filmis
@@ -11886,6 +11901,7 @@ flyoff
 flyovers
 flypapers
 flyswatter
+flyting
 flytrap
 foal
 foamable
@@ -12986,6 +13002,7 @@ glaziery
 glazily
 gleamier
 gleamy
+gleanable
 gledes
 gleeked
 gleesome
@@ -13847,6 +13864,7 @@ happened
 happening
 happens
 happier
+happinesses
 happy
 haptenes
 harangued
@@ -14464,6 +14482,7 @@ homemakers
 homeomorphic
 homeomorphism
 homeopath
+homeopathically
 homeopathies
 homeotherm
 homeotic
@@ -15329,6 +15348,7 @@ inbreeders
 inburst
 inbye
 incalculable
+incalescences
 incandesce
 incandescent
 incandescents
@@ -15425,6 +15445,7 @@ incubations
 incubators
 incubatory
 incudate
+inculcator
 inculcators
 inculpable
 inculpated
@@ -17476,6 +17497,7 @@ lezzes
 lezzy
 liaise
 lianes
+libationary
 libecchio
 libeled
 libelers
@@ -21077,6 +21099,7 @@ obstructionists
 obstructions
 obstructs
 obstruent
+obtainable
 obtained
 obtainers
 obtrusive
@@ -22571,6 +22594,7 @@ parvis
 parvolin
 pasha
 pashalik
+pasquil
 pasquinades
 passages
 passageworks
@@ -22643,6 +22667,7 @@ patrician
 patricians
 patriciates
 patriotically
+patriotisms
 patristic
 patristics
 patrolling
@@ -22891,6 +22916,7 @@ percussing
 percussiveness
 perdie
 perditions
+perdue
 perdurability
 perdurably
 perdy
@@ -23123,6 +23149,7 @@ phenacite
 phenate
 pheneticist
 pheneticists
+phenetole
 phenetoles
 phenobarbital
 phenobarbitals
@@ -24667,6 +24694,7 @@ procrastinating
 procreating
 procreator
 procrustean
+procryptic
 proctologies
 proctored
 proctors
@@ -25076,6 +25104,7 @@ punctually
 punctuate
 puncture
 puncturing
+punditic
 pung
 pungently
 pungs
@@ -25185,6 +25214,7 @@ pycnosis
 pycnotic
 pyelonephritis
 pygmean
+pygmy
 pyknics
 pyodermas
 pyorrheas
@@ -26855,6 +26885,7 @@ rethinkers
 rethreaded
 retia
 retiarii
+reticently
 reticulate
 reticulately
 reticulates
@@ -29771,6 +29802,7 @@ sparklets
 sparklier
 sparkplug
 sparky
+sparred
 sparrows
 sparse
 sparsities
@@ -31996,6 +32028,7 @@ tetradynamous
 tetragrammaton
 tetrahedrally
 tetramer
+tetrameters
 tetrapod
 tetrarchic
 tetraspores
@@ -33085,6 +33118,7 @@ tubulates
 tubule
 tuckers
 tucket
+tucks
 tuffet
 tuftier
 tugger
@@ -33614,6 +33648,7 @@ underlaid
 underlapped
 underlets
 underline
+underlips
 underlyingly
 undermining
 undernourished
