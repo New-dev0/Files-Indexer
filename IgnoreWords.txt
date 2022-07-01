@@ -1261,6 +1261,7 @@ antiobscenity
 antiozonant
 antipersonnel
 antiperspirants
+antiphlogistic
 antiphons
 antiplague
 antipodal
@@ -4727,6 +4728,7 @@ cedarbird
 cedarbirds
 cedary
 ceders
+ceding
 cedis
 ceibas
 ceilings
@@ -4749,6 +4751,7 @@ cellular
 cellulars
 cellulites
 cellulitis
+celluloses
 celts
 cembalo
 cementers
@@ -5072,6 +5075,7 @@ chibouque
 chic
 chicanes
 chicaning
+chicanos
 chicer
 chichis
 chickadees
@@ -5849,6 +5853,7 @@ collars
 collateralizes
 collateralizing
 collaterally
+collations
 collators
 collectivise
 collectivised
@@ -6410,6 +6415,7 @@ contention
 contentiously
 conterminously
 contes
+contest
 contestants
 contextures
 contiguously
@@ -6994,6 +7000,7 @@ cretinism
 crevasse
 crevassed
 crevice
+crewels
 crewmate
 crews
 cribbages
@@ -8411,6 +8418,7 @@ diarchic
 diaristic
 diarrhea
 diarrheic
+diarthroses
 diarthrosis
 diary
 diaspores
@@ -8425,6 +8433,7 @@ diatribe
 diazinons
 diazoniums
 diazotizations
+diazotizes
 dib
 dibromide
 dicamba
@@ -9309,6 +9318,7 @@ dreidls
 dreks
 drenched
 drenches
+dressed
 dressmakers
 dressmaking
 dressmakings
@@ -9443,6 +9453,7 @@ duffel
 duits
 dukedoms
 dulcetly
+dulcified
 dulcifies
 duller
 dulness
@@ -10707,6 +10718,7 @@ exahertz
 exahertzes
 exalters
 examinee
+examines
 examining
 exanimate
 exanthema
@@ -10718,6 +10730,7 @@ exarchates
 exarchy
 exasperate
 excavate
+excelled
 excellently
 except
 exceptionalisms
@@ -12835,6 +12848,7 @@ giantesses
 giantisms
 giantlike
 gibbed
+gibbered
 gibbering
 gibbing
 gibed
@@ -14531,6 +14545,7 @@ hoovers
 hop
 hope
 hopeful
+hopelessness
 hoplites
 hopsacking
 hopsacks
@@ -14691,6 +14706,7 @@ humidnesses
 humidors
 humiture
 humitures
+hummer
 hummocks
 humongous
 humorists
@@ -15309,6 +15325,7 @@ inchoate
 inchoateness
 inchoatives
 incinerate
+incipit
 incisal
 incise
 incises
@@ -15993,6 +16010,7 @@ interweaved
 interwork
 interworkings
 interworks
+interwove
 intestacy
 intestinally
 inthralled
@@ -18163,6 +18181,7 @@ malpractice
 maltases
 malteds
 maltier
+maltols
 maltoses
 maltreater
 maltreaters
@@ -18177,6 +18196,7 @@ mammary
 mammati
 mammers
 mammillated
+mammocked
 mammonist
 mammons
 mammoths
@@ -19639,6 +19659,7 @@ moorages
 moored
 moorfowls
 mooriest
+moosebird
 moot
 mopboards
 moper
@@ -20776,6 +20797,7 @@ nontobacco
 nontotalitarian
 nontransferable
 nontruths
+nonuniform
 nonuple
 nonurban
 nonvalidity
@@ -21069,6 +21091,7 @@ octoploid
 octopods
 octothorp
 octrois
+octuples
 octyl
 oculars
 oculomotor
@@ -21282,6 +21305,7 @@ opioids
 opisthobranch
 opiums
 oppilate
+oppilating
 opponency
 opportunely
 opportunenesses
@@ -21595,6 +21619,7 @@ outhearing
 outhits
 outhomering
 outhowled
+outhunt
 outhustled
 outintrigue
 outjinxes
@@ -22546,6 +22571,7 @@ patches
 patchworking
 patchworks
 pate
+patellae
 patelliform
 patentabilities
 patentability
@@ -23334,6 +23360,7 @@ pigpen
 pigpens
 pigskins
 pigsney
+pigtailed
 pigweeds
 pikers
 pikes
@@ -23725,6 +23752,7 @@ poikilothermic
 poikilotherms
 poilu
 poinded
+pointedness
 pointier
 pointillism
 pointillisms
@@ -24008,6 +24036,7 @@ postponed
 postponement
 postponements
 postponer
+postposed
 postpositively
 postproductions
 postrace
@@ -24780,6 +24809,7 @@ protamines
 protea
 protect
 protecter
+protectionists
 protections
 protectiveness
 protector
@@ -26388,6 +26418,7 @@ renovations
 renown
 rentabilities
 rente
+renumber
 renumbers
 renunciative
 renunciatory
@@ -27858,6 +27889,7 @@ schnecke
 schnorrer
 schnorrers
 schnoz
+schnozz
 scholars
 scholarships
 scholasticates
@@ -33040,6 +33072,7 @@ turbinal
 turbinals
 turbine
 turbocar
+turbocars
 turbocharger
 turbulencies
 turbulently
@@ -33725,6 +33758,7 @@ unipod
 unipods
 unipotent
 unique
+uniqueness
 uniquer
 unirrigated
 unisexuality
@@ -34252,6 +34286,7 @@ valises
 valleculae
 valonia
 valorise
+valorising
 valorizations
 valorized
 valpolicellas
