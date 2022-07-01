@@ -186,6 +186,7 @@ acetyls
 achenial
 achlorhydria
 achondrite
+achondroplasias
 achromat
 achromatize
 achromats
@@ -719,6 +720,7 @@ alls
 allseed
 allseeds
 alluding
+alluringly
 allusion
 alluvia
 alluvion
@@ -1870,6 +1872,7 @@ atretic
 atrociousnesses
 atrocity
 attaboy
+attached
 attacher
 attachers
 attaches
@@ -3600,6 +3603,7 @@ breadwinning
 breakages
 breakfast
 breakfaster
+breakout
 breakup
 breakwater
 breastfeed
@@ -6046,6 +6050,7 @@ conceive
 conceives
 concelebrant
 concentrators
+concentrically
 conceptacles
 conceptional
 concepts
@@ -6063,6 +6068,7 @@ concertmasters
 concerto
 concessionaire
 concessionary
+concha
 conchoidal
 conchologists
 concierge
@@ -8231,6 +8237,7 @@ dewclawed
 dewfalls
 dewiest
 dewily
+dewiness
 dewlap
 dewool
 dewormer
@@ -8899,6 +8906,7 @@ dividendless
 dividends
 dividers
 divides
+dividual
 divinatory
 divined
 divisionism
@@ -10404,6 +10412,7 @@ esprit
 espy
 essayed
 essayer
+essayistic
 essentialities
 essentialnesses
 establish
@@ -11588,6 +11597,7 @@ flintiest
 flintiness
 flintinesses
 flintlock
+flirtatiously
 flirted
 flite
 flited
@@ -11869,6 +11879,7 @@ foreseer
 foreshadow
 foreshock
 foreshows
+foresight
 foresighted
 foresightful
 foresights
@@ -12091,6 +12102,7 @@ fret
 fretters
 fretwork
 friary
+fribble
 fribbler
 fricative
 frictionally
@@ -13225,6 +13237,7 @@ grilse
 grim
 grimacing
 grimily
+griminesses
 grimly
 grinds
 gringa
@@ -13394,6 +13407,7 @@ gumbos
 gumbotil
 gumdrops
 gumlines
+gummatous
 gummed
 gummer
 gummers
@@ -17811,6 +17825,7 @@ lyophilizer
 lyophilizes
 lyricalness
 lyricise
+lysed
 lysimetric
 lysine
 lysogen
@@ -19442,6 +19457,7 @@ moot
 mopboards
 moper
 mopey
+mopinesses
 mopish
 moppers
 moppets
@@ -19734,6 +19750,7 @@ muscatels
 muscling
 muscovados
 muscularly
+muse
 museologies
 museology
 muser
@@ -19814,8 +19831,10 @@ myeloma
 myelomata
 myelomatous
 myelopathic
+mynas
 myoclonuses
 myoelectric
+myoelectrical
 myogenic
 myoglobin
 myoinositols
@@ -22656,6 +22675,7 @@ perjurious
 perkiest
 perkish
 permanently
+permanganate
 permeably
 permeate
 permian
@@ -23589,6 +23609,7 @@ polynomials
 polyol
 polyolefins
 polyparies
+polyparium
 polyphagies
 polyphonies
 polypores
@@ -24698,6 +24719,7 @@ pujahs
 pula
 pule
 pulicide
+pull
 pullback
 pullbacks
 pulled
@@ -24744,6 +24766,7 @@ punishing
 punition
 punitiveness
 punji
+punka
 punkas
 punkier
 punkinesses
@@ -25387,6 +25410,7 @@ reascend
 reascends
 reascent
 reassailing
+reassembles
 reassembling
 reasserted
 reassertions
@@ -26242,6 +26266,7 @@ reprobes
 reprocess
 reprocessing
 reproducer
+reproducing
 reproductives
 reprogrammable
 reprographies
@@ -26816,6 +26841,7 @@ riping
 ripostes
 ripping
 ripplet
+ripplets
 riprapped
 ripraps
 rips
@@ -28443,6 +28469,7 @@ shroud
 shrublands
 shrubs
 shrugging
+shrugs
 shrunk
 shrunken
 shtetel
@@ -28918,6 +28945,7 @@ slushed
 slushiest
 slyness
 slynesses
+smack
 smacking
 smacks
 small
@@ -29300,6 +29328,7 @@ sorrowfulness
 sortied
 sortieing
 sostenuto
+sot
 soteriology
 sotol
 sotols
@@ -30268,6 +30297,7 @@ stylets
 styli
 styliform
 stylitic
+stylitism
 stylized
 stylizer
 stylizers
@@ -30377,6 +30407,7 @@ subjectivise
 subjectivised
 subjectivist
 subjectivizes
+subjectivizing
 subjectless
 subjoin
 subjugating
@@ -32173,6 +32204,7 @@ toyos
 traceability
 traced
 tracheary
+tracheitis
 tracheostomies
 tracheotomy
 trachled
@@ -33590,6 +33622,7 @@ unsoldierly
 unsolvable
 unsolved
 unsonsie
+unsonsy
 unsophisticated
 unsounded
 unsoundly
@@ -33762,6 +33795,7 @@ uprose
 uprouse
 uprushed
 upscales
+upsends
 upsent
 upsetters
 upshifted
@@ -33868,6 +33902,7 @@ vaccinia
 vacillate
 vacillators
 vacuoles
+vacuous
 vagabond
 vagabondism
 vagaries
