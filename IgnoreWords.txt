@@ -1775,6 +1775,7 @@ assort
 assorter
 assortment
 assuagement
+assuagements
 assumably
 assume
 assumed
@@ -5404,6 +5405,7 @@ clepes
 clepsydra
 clergywomen
 clericalism
+clericalist
 clerically
 clerihews
 clerkships
@@ -5828,6 +5830,7 @@ colorably
 colorcast
 colorcasted
 colorfulness
+colorimeters
 colorization
 colorize
 colorizers
@@ -6233,6 +6236,7 @@ consecratory
 consecutive
 consent
 consented
+consents
 consequences
 consequent
 consequential
@@ -8073,6 +8077,7 @@ dermatoses
 dermic
 derms
 derogatory
+derries
 derry
 desalination
 desalinizing
@@ -9308,6 +9313,7 @@ dubber
 dubbin
 dubiousness
 dubitation
+duchies
 duchy
 duckbills
 ducker
@@ -9960,6 +9966,7 @@ endothelia
 endothelioma
 endothelium
 endotoxins
+endozoic
 endpapers
 endrins
 endurable
@@ -10355,6 +10362,7 @@ erythorbate
 erythremia
 erythremias
 erythroblasts
+erythroid
 erythromycin
 erythropoietin
 erythrosin
@@ -10629,6 +10637,7 @@ excurrent
 excursionists
 excursiveness
 excused
+excuser
 excusers
 excuses
 execrates
@@ -11045,6 +11054,7 @@ fascistically
 fascists
 fashed
 fashing
+fashionableness
 fashions
 fastbacks
 fastballers
@@ -12112,6 +12122,7 @@ frizzing
 frizzles
 frizzlier
 frogged
+froggier
 froggiest
 frogging
 froghoppers
@@ -12241,6 +12252,7 @@ funks
 funnelform
 funninesses
 funnymen
+fur
 furanoside
 furbelowed
 furcate
@@ -13910,6 +13922,7 @@ hellhound
 hellions
 hellish
 hellishly
+helloing
 helmless
 helmsmen
 helotisms
@@ -14544,6 +14557,7 @@ hung
 hungers
 hunkey
 hunkeys
+huns
 hunters
 huntings
 huntsman
@@ -15420,6 +15434,7 @@ infringers
 infringes
 infundibulum
 infuriations
+infuscate
 infused
 ingate
 ingenuousnesses
@@ -15728,6 +15743,7 @@ interloped
 interloping
 interlude
 intermarry
+intermarrying
 intermat
 intermats
 intermatted
@@ -16817,6 +16833,7 @@ laconisms
 lacquer
 lacqueyed
 lactases
+lactate
 lactates
 lactational
 lactiferous
@@ -17870,6 +17887,7 @@ magistrature
 magnesias
 magnetics
 magnetise
+magnetises
 magnetising
 magnetisms
 magnetites
@@ -18130,6 +18148,7 @@ marquises
 marram
 marrers
 marrieds
+marrowfats
 marsh
 marshalcies
 marshaled
@@ -18186,6 +18205,7 @@ master
 masterlinesses
 mastermind
 masterminded
+masterminds
 masterpieces
 masters
 mastheaded
@@ -20342,6 +20362,7 @@ nonconsumptions
 noncontact
 nonconventional
 noncooperative
+noncooperators
 noncore
 noncorroding
 noncreative
@@ -21652,6 +21673,7 @@ overheat
 overholds
 overhunting
 overhuntings
+overhype
 overidealizes
 overimaginative
 overindulge
@@ -21790,6 +21812,7 @@ overthin
 overtness
 overtnesses
 overtoiled
+overtop
 overtrain
 overturn
 overuse
@@ -23338,6 +23361,7 @@ pleaser
 pleasingness
 pleasurableness
 pleasures
+pleb
 plebeianly
 plebiscites
 plebs
@@ -24989,6 +25013,7 @@ quillworts
 quilting
 quinaries
 quinate
+quincunx
 quinina
 quinoa
 quinolone
@@ -25823,6 +25848,7 @@ reges
 reggae
 regicide
 regilding
+regilds
 regilt
 regimentation
 reginae
@@ -28005,6 +28031,7 @@ septillions
 septimes
 septum
 sepulchral
+sequel
 sequelae
 sequelizes
 sequels
@@ -31607,6 +31634,7 @@ thermalization
 thermel
 thermic
 thermidor
+thermionic
 thermionics
 thermites
 thermochemists
@@ -31747,6 +31775,7 @@ thwacks
 thwarter
 thwarting
 thylacines
+thymectomized
 thymectomizing
 thymectomy
 thymic
@@ -32375,6 +32404,7 @@ tribologists
 tribrach
 tribulation
 tribunate
+tricarboxylic
 trichinas
 trichinoses
 trichites
@@ -32649,6 +32679,7 @@ tunnel
 tunneler
 tunny
 tuns
+tupped
 tuppenny
 tuque
 turacous
@@ -34091,6 +34122,7 @@ vesseled
 vestals
 vested
 vestibule
+vestibuled
 vestibuling
 vestigia
 vestigial
@@ -34183,6 +34215,7 @@ vinosity
 vinous
 vintagers
 violable
+violableness
 violates
 violoncellist
 violoncellists
@@ -34545,6 +34578,7 @@ watercrafts
 waterdog
 waterdogs
 waterfalls
+waterhen
 waterhens
 waterinesses
 waterlogging
@@ -34680,6 +34714,7 @@ wheals
 wheatlands
 wheedled
 wheelbarrow
+wheelies
 wheelman
 wheels
 wheeples
