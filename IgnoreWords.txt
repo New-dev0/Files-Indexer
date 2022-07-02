@@ -251,6 +251,7 @@ actinomycotic
 actinon
 action
 actionably
+actionless
 activating
 activism
 activistic
@@ -308,6 +309,7 @@ adhesivenesses
 adhibit
 adieux
 adjacencies
+adjective
 adjectively
 adjoins
 adjournment
@@ -442,6 +444,7 @@ affirmants
 affirmative
 affirmatively
 affirmer
+affixable
 affixal
 affixtures
 afflicters
@@ -2063,6 +2066,7 @@ aventurine
 averments
 averse
 averseness
+aversenesses
 avgases
 aviate
 aviates
@@ -4517,6 +4521,7 @@ carlings
 carlins
 carloads
 carmakers
+carnalities
 carnallites
 carnassial
 carnaubas
@@ -5696,6 +5701,7 @@ cockeyedness
 cockhorse
 cockhorses
 cockily
+cockiness
 cockleburs
 cockleshell
 cockscomb
@@ -5997,6 +6003,7 @@ commensally
 commensurate
 commentaries
 commentating
+commentators
 commerced
 commercialises
 commercialisms
@@ -7174,6 +7181,7 @@ crushing
 crustaceans
 crustaceous
 crustily
+crustose
 crutching
 crux
 cruzeiros
@@ -7182,6 +7190,7 @@ cryobiologist
 cryobiology
 cryogenics
 cryogeny
+cryopreserve
 cryoprotectant
 cryoscopes
 cryostats
@@ -9250,6 +9259,7 @@ downcourt
 downer
 downfall
 downfield
+downforce
 downgraded
 downhiller
 downlight
@@ -9754,6 +9764,7 @@ effete
 efficacity
 efficacy
 efficiencies
+efficient
 effigies
 efflorescence
 effluences
@@ -9921,6 +9932,7 @@ embargoing
 embark
 embarking
 embarrass
+embarrassable
 embarring
 embassage
 embassies
@@ -12158,6 +12170,7 @@ foundationless
 founded
 founders
 foundries
+foundry
 fount
 fountain
 fountaining
@@ -12835,6 +12848,7 @@ geopolitics
 geoponics
 georgette
 georgettes
+geostationary
 geosynclinal
 geotropisms
 gerah
@@ -13283,6 +13297,7 @@ grandiloquently
 grandmamas
 grandnephew
 grandpapa
+grandparent
 grandparenthood
 grandparents
 grandsirs
@@ -14688,6 +14703,7 @@ houseclean
 housecoat
 housecoats
 housefather
+housefathers
 houseguest
 housekeep
 houselling
@@ -15218,6 +15234,7 @@ imperialists
 imperials
 imperiling
 imperishability
+impermissibly
 impersonal
 impersonalities
 impersonalized
@@ -18314,6 +18331,7 @@ maniocs
 maniple
 maniples
 manipulability
+manipulates
 manipulative
 manipulators
 manipulatory
@@ -19680,6 +19698,7 @@ monotonically
 monovalent
 monovular
 monseigneur
+monsieur
 monsignor
 monstera
 monstrosities
@@ -20043,6 +20062,7 @@ muskrat
 muskrats
 musky
 muspike
+musquash
 musquashes
 mussed
 mussily
@@ -21059,6 +21079,7 @@ obligated
 obligation
 obligato
 obligator
+obligatorily
 obligatos
 obliged
 obligingness
@@ -21985,6 +22006,7 @@ overhate
 overheaped
 overheaping
 overhear
+overheard
 overheat
 overholds
 overhunting
@@ -22248,6 +22270,7 @@ padlocks
 padrone
 padronism
 pads
+paean
 paeans
 paedogenic
 paedomorphisms
@@ -23230,6 +23253,7 @@ phosphatizing
 phosphene
 phosphids
 phospholipase
+phosphoprotein
 phosphore
 phosphoresce
 phosphorescent
@@ -26062,6 +26086,7 @@ redskins
 redtop
 redtops
 reducer
+reducers
 reducibly
 reducing
 reductions
@@ -26397,6 +26422,7 @@ reliquiae
 relishable
 relishing
 relist
+relived
 reloaders
 reloans
 relock
@@ -27255,6 +27281,7 @@ roadhouses
 roadkill
 roadkills
 roadster
+roadworks
 roadworthiness
 roam
 roamer
@@ -27625,6 +27652,7 @@ saladangs
 salals
 salamandrine
 salariats
+salary
 saleable
 saleratus
 salesclerks
@@ -28858,6 +28886,7 @@ shrugs
 shrunk
 shrunken
 shtetel
+shtick
 shticky
 shuck
 shucker
@@ -29126,6 +29155,7 @@ skijorers
 skijoring
 skilled
 skillet
+skillets
 skillfulness
 skimboard
 skimboards
@@ -29552,6 +29582,7 @@ sociometry
 socioreligious
 socket
 sodbusters
+soddened
 soddy
 sodomies
 sodomitic
@@ -30271,6 +30302,7 @@ stat
 statecraft
 statecrafts
 stateliness
+stateroom
 staters
 statesmanship
 statewide
@@ -33205,6 +33237,7 @@ turntable
 turntables
 turnvereins
 turpentine
+turpentined
 turquoises
 turtleback
 turtleheads
@@ -34767,6 +34800,7 @@ viscoelastic
 viscoelasticity
 viscometers
 viscosimeter
+viscosities
 viscounts
 viscus
 viseed
@@ -34982,6 +35016,7 @@ wakefulness
 waken
 wakening
 wakes
+waled
 walkabout
 walkabouts
 walkingstick
