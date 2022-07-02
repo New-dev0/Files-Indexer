@@ -1,0 +1,4 @@
+Module/Rule/Convert/Functions.ps1 4.6.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/PowerSTIG/4.6.0/Content/Module%255CRule%255CConvert%255CFunctions.ps1
+internal/scripts/license.ps1 1.3.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/Dracoon/1.3.0/Content/internal%255Cscripts%255Clicense.ps1
+vmware-stig-powercli/VMware_5.x_STIG_Check_ESXi_All.ps1,https://github.com/rlakey/vmware-stig-powercli/blob/master/VMware_5.x_STIG_Check_ESXi_All.ps1
+vmware-stig-powercli/VMware_6.0_STIG_Check_ESXi_All.ps1,https://github.com/rlakey/vmware-stig-powercli/blob/master/VMware_6.0_STIG_Check_ESXi_All.ps1
