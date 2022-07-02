@@ -523,6 +523,7 @@ aglycons
 agmas
 agnate
 agnized
+agnomina
 agnosticisms
 agonal
 agonic
@@ -640,6 +641,7 @@ alfaqui
 alfaquis
 alfilarias
 algae
+algaecide
 algebra
 algebras
 algicidal
@@ -702,6 +704,7 @@ allergenic
 allergins
 allergy
 allethrins
+alleviants
 alleviations
 alleviators
 alley
@@ -2187,6 +2190,7 @@ backcasts
 backcountries
 backcourts
 backcrossed
+backdate
 backfields
 backfilling
 backfired
@@ -2981,6 +2985,7 @@ bimbo
 bimboes
 bimensal
 bimester
+bimetals
 bimethyl
 bimethyls
 bimodal
@@ -3359,6 +3364,7 @@ bogeyman
 boggier
 bogginesses
 bogging
+boggish
 boggy
 bogusness
 bogwoods
@@ -8378,6 +8384,7 @@ deteriorating
 deterioration
 determent
 determinably
+determinacies
 determinantal
 determinate
 determines
@@ -8504,6 +8511,7 @@ diamondbacks
 diamondiferous
 diandrous
 dianthus
+diapause
 diapauses
 diapedeses
 diaphaneities
@@ -10045,6 +10053,7 @@ embraceor
 embraceries
 embracery
 embracing
+embrangles
 embrangling
 embrittle
 embrocates
@@ -10850,6 +10859,7 @@ exanimate
 exanthema
 exanthemas
 exanthemata
+exanthems
 exaptive
 exarchate
 exarchates
@@ -12634,6 +12644,7 @@ gainsaying
 gainsays
 gaiters
 galabia
+galabieh
 galabiyah
 galabiyahs
 galabiyas
@@ -12989,6 +13000,7 @@ ghettoes
 ghettoizes
 ghettoizing
 ghosted
+ghostly
 ghostwriting
 ghoulish
 ghoulishness
@@ -13285,6 +13297,7 @@ gollywog
 golosh
 gomerils
 gomphosis
+gonadial
 gondola
 gone
 goner
@@ -13384,6 +13397,7 @@ grain
 gram
 gramaries
 gramercies
+gramineous
 gramma
 grammarians
 grammaticality
@@ -16059,6 +16073,7 @@ intercorrelate
 intercorrelated
 intercostal
 intercostals
+intercourses
 intercropped
 intercurrent
 interdentally
@@ -16868,6 +16883,7 @@ karst
 karting
 karyokineses
 karyology
+karyosome
 karyotins
 karyotype
 kasbahs
@@ -19035,6 +19051,7 @@ metatarsus
 metathoracic
 metaxylem
 metazoa
+metempsychoses
 meteorites
 meteoritic
 meteoroidal
@@ -19792,6 +19809,7 @@ monogamic
 monogamies
 monogamist
 monogamists
+monograms
 monogyny
 monolayer
 monolingual
@@ -21185,6 +21203,7 @@ nurls
 nursed
 nursemaid
 nutgall
+nutmeat
 nutmeg
 nutpick
 nutriment
@@ -21266,6 +21285,7 @@ obsecrate
 obsecrates
 observably
 observation
+observing
 obsession
 obsessions
 obsessive
@@ -22136,6 +22156,7 @@ overexpose
 overexposing
 overextend
 overextensions
+overextravagant
 overfamiliar
 overfamiliarity
 overfar
@@ -22395,6 +22416,7 @@ ozokerite
 ozonations
 ozonides
 ozonise
+ozonize
 ozonizers
 ozonizes
 pablum
@@ -22682,6 +22704,7 @@ paraph
 paraphrase
 paraphraser
 paraphs
+paraplegics
 paraquet
 paraquets
 parasailing
@@ -22873,6 +22896,7 @@ patters
 patting
 pattypans
 paucities
+paunched
 paunchier
 paunchy
 pauperize
@@ -25087,6 +25111,7 @@ prost
 prostate
 prostatectomies
 prostatism
+prostatisms
 prosthodontics
 prostitute
 prostrate
@@ -25989,6 +26014,7 @@ reattribution
 reavers
 reaving
 reavows
+reawoke
 reawoken
 rebaptisms
 rebaptized
@@ -27344,6 +27370,7 @@ riboflavins
 ribonucleotide
 ribosomes
 ribozyme
+ribs
 ribworts
 ricercari
 richen
@@ -27442,6 +27469,7 @@ ripsnorting
 risker
 riskers
 riskily
+riskiness
 risorgimento
 risotto
 rissole
@@ -28185,6 +28213,7 @@ scheduled
 schedules
 schematization
 schematizes
+scherzando
 scherzo
 schillers
 schismatize
@@ -32014,6 +32043,7 @@ tattooing
 tattoos
 taunt
 tauntingly
+tauon
 taurine
 taus
 tautest
@@ -32171,6 +32201,7 @@ tenaciously
 tenaculum
 tenailles
 tenantries
+tenantry
 tenants
 tench
 tendance
@@ -33871,6 +33902,7 @@ undeciphered
 undecorated
 undefeated
 undefended
+undefiled
 undelegated
 underachieve
 underachieving
@@ -34395,6 +34427,7 @@ unswear
 unswears
 unswerving
 unswore
+unsworn
 unsymmetrically
 unsynchronized
 untacks
@@ -34511,6 +34544,7 @@ upleapt
 uplifters
 uplighting
 uplinking
+uplinks
 uploads
 upped
 uppercut
@@ -35931,6 +35965,7 @@ wretcheder
 wricked
 wried
 wrier
+wries
 wrights
 wring
 wringing
