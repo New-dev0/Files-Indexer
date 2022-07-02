@@ -629,6 +629,7 @@ aleatoric
 aleatory
 alee
 alegars
+alehouse
 alehouses
 alencons
 alertnesses
@@ -920,6 +921,7 @@ amphiploids
 amphiprostyles
 amphisbaenas
 amphitheatrical
+amphoral
 amphoteric
 amping
 ampler
@@ -2083,6 +2085,7 @@ aviators
 aviatrix
 aviculture
 aviculturist
+avifauna
 avifaunae
 avisos
 avo
@@ -2149,6 +2152,7 @@ azlons
 azoles
 azotemia
 azotes
+azotised
 azotises
 azoturia
 azulejos
@@ -2219,6 +2223,7 @@ backstamps
 backstitches
 backstreet
 backstretches
+backtracked
 backwardnesses
 backwashes
 backwaters
@@ -4116,6 +4121,7 @@ buzzwords
 bwanas
 by
 bynames
+bypass
 byres
 byrled
 byroad
@@ -4334,6 +4340,7 @@ candider
 candidnesses
 candies
 candleberries
+candlefishes
 candlelighter
 candlelit
 candlesnuffers
@@ -6512,6 +6519,7 @@ contractibility
 contractilities
 contracting
 contractual
+contradictable
 contradictor
 contradicts
 contraindicate
@@ -8427,6 +8435,7 @@ dewaxes
 dewberry
 dewclawed
 dewfalls
+dewier
 dewiest
 dewily
 dewiness
@@ -11177,6 +11186,7 @@ fadeless
 fadeouts
 fadlike
 fados
+faecal
 faeries
 fagged
 faggotry
@@ -11515,6 +11525,7 @@ feuded
 feuilleton
 fever
 feverish
+fewer
 fez
 fezes
 fiancee
@@ -12941,6 +12952,7 @@ geranial
 gerbils
 gerents
 gerfalcons
+geriatrician
 german
 germander
 germanizing
@@ -13966,6 +13978,7 @@ hankies
 hanks
 hanseatic
 hanselling
+hanting
 haole
 hap
 haphtara
@@ -15997,6 +16010,7 @@ insulter
 insupportable
 insurability
 insurances
+insurgencies
 insurrection
 inswathe
 intake
@@ -17301,6 +17315,7 @@ landslid
 landslips
 landsman
 landward
+lang
 langouste
 langoustines
 langrels
@@ -18932,6 +18947,7 @@ merchant
 merchantmen
 mercurating
 mercurations
+mercurialnesses
 mercy
 merengue
 merengues
@@ -19143,12 +19159,14 @@ micronized
 microns
 micronucleus
 microphotometer
+micropipets
 microplankton
 micropore
 micropublisher
 micropulsations
 micropyle
 microradiograph
+microscopical
 microseism
 microsomes
 microspheres
@@ -20720,6 +20738,7 @@ noggin
 noh
 nohow
 noil
+noils
 noise
 noisemaking
 noisette
@@ -22538,6 +22557,7 @@ pancreatins
 pandemic
 pandemonium
 pandered
+pandit
 pandoors
 pandore
 pandours
@@ -24187,6 +24207,7 @@ popularity
 popularization
 popularizing
 popularly
+populated
 populational
 populations
 populism
@@ -24306,6 +24327,7 @@ posttransfusion
 posttreatment
 posttrial
 postulant
+postulational
 postvaccination
 postvagotomy
 pot
@@ -25612,6 +25634,7 @@ quodlibet
 quodlibets
 quomodo
 quomodos
+quotable
 quotas
 quote
 quoters
@@ -26018,6 +26041,7 @@ recapitulated
 recapitulation
 recapitulations
 recapped
+recapping
 recaptured
 recapturing
 recarpet
@@ -26948,6 +26972,7 @@ reslating
 resoak
 resoaking
 resocialize
+resocialized
 resocializes
 resoften
 resojets
@@ -27236,6 +27261,7 @@ rewaken
 rewakening
 rewakes
 rewan
+reward
 rewarded
 rewashing
 rewaxed
@@ -28152,6 +28178,7 @@ scenical
 scepter
 sceptic
 schadenfreudes
+schatchen
 schav
 schedular
 scheduled
@@ -28228,6 +28255,7 @@ sclerose
 scolder
 scolders
 scolioma
+scollops
 scolopendras
 sconcheons
 scoopers
@@ -28679,6 +28707,7 @@ serialized
 serializing
 seriates
 seriatim
+seriations
 sericin
 sericulture
 sericulturist
@@ -30567,6 +30596,7 @@ stellas
 stellifying
 stellite
 stemmas
+stemmata
 stemmer
 stemming
 stemware
@@ -31816,6 +31846,7 @@ tacts
 tactually
 taels
 tafferels
+taffrails
 tafia
 tagboards
 tagliatelles
@@ -32504,6 +32535,7 @@ tictacs
 tidbit
 tiddledywinks
 tiddler
+tiddly
 tided
 tidemarks
 tiderips
@@ -32628,6 +32660,7 @@ toadstool
 toady
 toadying
 toastier
+toasting
 toastmaster
 toastmistresses
 toasty
@@ -34605,6 +34638,7 @@ uxoriously
 uxoriousnesses
 vacant
 vacate
+vacates
 vacationlands
 vaccinas
 vaccinators
@@ -34920,6 +34954,7 @@ vicinages
 vicinities
 vicinity
 viciously
+vicissitudinous
 victims
 victor
 victorias
