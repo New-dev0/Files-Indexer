@@ -1,0 +1,5 @@
+cdimage.ubuntu.com/ubuntukylin/daily-live/pending/...,http://cdimage.ubuntu.com/ubuntukylin/daily-live/pending/jammy-desktop-amd64.manifest
+https://cdimage.ubuntu.com/ubuntu-mate/daily-live/...,https://cdimage.ubuntu.com/ubuntu-mate/daily-live/20220419/jammy-desktop-amd64.manifest
+https://ftp.nluug.nl/os/Linux/distr/ubuntu-release...,https://ftp.nluug.nl/os/Linux/distr/ubuntu-releases/.manifest
+https://mirrors.cloudbalkan.com/ubuntu/jammy/ubunt...,https://mirrors.cloudbalkan.com/ubuntu/jammy/ubuntu-22.04-beta-desktop-amd64.manifest
+mirror.0-1.cloud/ubuntu-dvd/ubuntu-mate/daily-live...,http://mirror.0-1.cloud/ubuntu-dvd/ubuntu-mate/daily-live/20211119/jammy-desktop-amd64.manifest
