@@ -912,6 +912,7 @@ amphibious
 amphibole
 amphibolite
 amphibolites
+amphictyonic
 amphictyony
 amphidiploidies
 amphimixes
@@ -1703,6 +1704,7 @@ artificial
 artificialities
 artificialness
 artilleryman
+artiness
 artiodactyl
 artisanships
 artist
@@ -2836,6 +2838,7 @@ besprinkled
 bestialities
 bestiary
 besting
+bestrid
 bestudding
 bestuds
 beswarmed
@@ -3155,6 +3158,7 @@ bladeless
 blaeberries
 blaff
 blaggings
+blameable
 blameful
 blamefully
 blameless
@@ -3916,6 +3920,7 @@ buffos
 bugged
 buggeries
 buggering
+bughouses
 bugle
 bugler
 bugling
@@ -4598,6 +4603,7 @@ cartloads
 cartographers
 cartographies
 cartoonists
+cartoonlike
 carts
 cartulary
 cartwheeling
@@ -4931,6 +4937,7 @@ chalumeaus
 chalupas
 chalutz
 cham
+chamade
 chambers
 chambray
 chameleonic
@@ -5762,6 +5769,7 @@ cod
 codas
 codders
 coded
+codefendant
 codependences
 codependencies
 codependent
@@ -7124,6 +7132,7 @@ criticizers
 critique
 croaker
 croc
+crocine
 crockery
 crockets
 crockpot
@@ -8235,6 +8244,7 @@ depurate
 depurated
 depurator
 deputations
+deputizations
 deputize
 deputizes
 deracinated
@@ -9949,6 +9959,7 @@ elmy
 elocution
 elocutionists
 eloigned
+eloinment
 elongation
 elope
 eloped
@@ -10808,6 +10819,7 @@ evince
 eviscerates
 eviscerating
 eviting
+evocators
 evolute
 evolutionist
 evulsed
@@ -11938,6 +11950,7 @@ flukily
 flukiness
 fluking
 fluky
+fluming
 flummeries
 flung
 flunk
@@ -12979,6 +12992,7 @@ gibbing
 gibed
 giddying
 gies
+giftedly
 giftednesses
 giftee
 gifting
@@ -13379,6 +13393,7 @@ grandpapa
 grandparent
 grandparenthood
 grandparents
+grandsire
 grandsirs
 grandson
 grangerism
@@ -13872,6 +13887,7 @@ haling
 halitus
 hall
 hallmark
+hallmarked
 halloos
 hallucinator
 hallucinogens
@@ -15246,6 +15262,7 @@ immigrant
 immigrates
 immigration
 imminently
+immiscible
 immitigable
 immitigably
 immittance
@@ -15743,6 +15760,7 @@ infixing
 inflamers
 inflames
 inflammatory
+inflate
 inflating
 inflationary
 inflations
@@ -17853,6 +17871,7 @@ liverishness
 liverleaf
 livers
 liverwurst
+liverwursts
 lividnesses
 lixivia
 lixiviate
@@ -18573,6 +18592,7 @@ masculinises
 masculinising
 masculinist
 masculinity
+masers
 masher
 mashgichim
 masjids
@@ -20032,6 +20052,7 @@ muffed
 muffs
 muftis
 mugfuls
+mugged
 mugging
 muggurs
 muhly
@@ -20820,6 +20841,7 @@ nondisjunctions
 nondocumentary
 nondollar
 nondominant
+nondormant
 nondrip
 nondrying
 noneconomic
@@ -20925,6 +20947,7 @@ nonowners
 nonpapal
 nonparasitic
 nonpareil
+nonparents
 nonparticipants
 nonparties
 nonpasserine
@@ -22393,6 +22416,7 @@ pads
 paean
 paeans
 paedogenic
+paedomorphism
 paedomorphisms
 paella
 paeons
@@ -23201,6 +23225,7 @@ pertest
 pertinence
 perturbation
 perturbational
+perturbations
 perturber
 peruke
 pervaded
@@ -25010,6 +25035,7 @@ propylaea
 prorated
 prorates
 proreform
+prorogated
 prorogations
 prosaisms
 prosateur
@@ -25031,6 +25057,7 @@ prosopography
 prosopopoeia
 prospector
 prospects
+prospering
 prosperities
 prosperity
 prosperousness
@@ -27434,6 +27461,7 @@ roasts
 robbed
 robberies
 robed
+robes
 robotism
 robotization
 robustest
@@ -27857,6 +27885,7 @@ sambo
 sambuca
 sambucas
 samburs
+sameness
 samiels
 samisens
 samizdat
@@ -28028,6 +28057,7 @@ savouries
 savoy
 savoys
 sawbucks
+sawed
 sawfly
 sawing
 sawney
@@ -28102,6 +28132,7 @@ scarted
 scarting
 scary
 scatback
+scathed
 scats
 scatted
 scatterbrain
@@ -29241,6 +29272,7 @@ sisterhoods
 sistroid
 sistrums
 sitcoms
+siting
 sitology
 sitosterol
 sitosterols
@@ -29583,11 +29615,13 @@ smouldering
 smudging
 smudgy
 smug
+smuggled
 smuggler
 smuggles
 smutchier
 smuts
 smuttier
+snacker
 snackers
 snacks
 snaffles
@@ -31294,6 +31328,7 @@ suntan
 suntanned
 suntans
 sunwards
+supe
 superably
 superabound
 superabundances
