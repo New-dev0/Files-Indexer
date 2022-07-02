@@ -312,6 +312,7 @@ adieux
 adjacencies
 adjective
 adjectively
+adjoin
 adjoins
 adjournment
 adjournments
@@ -1053,6 +1054,7 @@ anenst
 anergias
 anesthesia
 anesthetically
+anesthetist
 anesthetizing
 anethol
 aneuploid
@@ -3109,6 +3111,7 @@ birefringences
 birefringent
 birkies
 birlers
+birrotch
 birthed
 birthings
 birthmark
@@ -3541,6 +3544,7 @@ boshvarks
 boskage
 boskages
 bossing
+bossy
 boston
 botanic
 botanica
@@ -8128,6 +8132,7 @@ deliquescence
 deliquescing
 deliriously
 deliriousnesses
+deliriums
 deliverable
 deliverance
 deliveryman
@@ -8203,6 +8208,7 @@ demyelinating
 demythologized
 demythologizer
 denars
+denationalize
 denationalized
 denationalizes
 denatured
@@ -8310,6 +8316,7 @@ depressors
 depressurized
 depressurizes
 deprivations
+deprive
 depriving
 deprogramming
 depurate
@@ -10415,6 +10422,7 @@ enswathed
 enswathes
 entailers
 entameba
+entamebae
 entamoeba
 entasia
 entasis
@@ -12560,6 +12568,7 @@ frustules
 fryable
 frybread
 frybreads
+fryer
 fub
 fubbed
 fubs
@@ -12841,6 +12850,7 @@ gargled
 garglers
 gargoyles
 garigues
+garish
 garland
 garlic
 garlickier
@@ -13632,6 +13642,7 @@ greensickness
 greenstuffs
 greensward
 greenths
+greenwash
 greenwing
 greenwoods
 grees
@@ -14327,6 +14338,7 @@ heckler
 heckles
 hectare
 hectares
+hectical
 hecticly
 hectograms
 hectoliter
@@ -17338,6 +17350,7 @@ labdanum
 labelled
 labellers
 labellum
+labels
 labializations
 labializes
 labials
@@ -19780,6 +19793,7 @@ mistutor
 misty
 misunderstand
 misunderstands
+misusing
 misvalue
 misvalued
 misword
@@ -19876,6 +19890,7 @@ molars
 molasseses
 moldboard
 moldboards
+molded
 molders
 moldinesses
 moldwarps
@@ -20237,6 +20252,7 @@ mueslis
 muezzin
 muffed
 muffs
+mufti
 muftis
 mugfuls
 mugged
@@ -21984,6 +22000,7 @@ outcaught
 outcavils
 outcharm
 outcheat
+outcheating
 outclimbs
 outcoach
 outcomes
@@ -22253,6 +22270,7 @@ overburdening
 overburned
 overcalled
 overcautions
+overcentralized
 overcharge
 overchilled
 overclass
@@ -22456,6 +22474,7 @@ overseer
 overselling
 oversells
 oversensitive
+overservice
 oversets
 oversetting
 oversewing
@@ -25067,6 +25086,7 @@ pristinely
 privatize
 privatizing
 privies
+privilege
 privity
 prizefight
 prizefighters
@@ -25444,6 +25464,7 @@ pteranodon
 pteridological
 pteridophyte
 pteridophytes
+pterygoid
 ptisan
 ptyalin
 puberulent
@@ -25797,6 +25818,7 @@ quicker
 quicklime
 quickness
 quicknesses
+quickstep
 quid
 quiescence
 quiescent
@@ -26037,6 +26059,7 @@ rapt
 raptness
 rapturousnesses
 rare
+rarefactions
 rareness
 rares
 rasbora
@@ -28620,6 +28643,7 @@ scurry
 scurrying
 scurviest
 scutched
+scutches
 scute
 scutiform
 scuts
@@ -29342,6 +29366,7 @@ shtick
 shticky
 shuck
 shucker
+shuddering
 shuffle
 shunned
 shunners
@@ -31376,6 +31401,7 @@ suboval
 suboxide
 subparallel
 subphase
+subphases
 subphylum
 subpoena
 subpoenaing
@@ -32082,6 +32108,7 @@ tachismes
 tachisms
 tachometers
 tachycardias
+tachylites
 tachylytes
 tachyon
 tack
@@ -32226,6 +32253,7 @@ tarantist
 tarboosh
 tarbushes
 tardigrade
+targetable
 tariffing
 tarlatans
 tarletan
@@ -32911,6 +32939,7 @@ titularly
 toad
 toadeater
 toadeaters
+toadfish
 toadfishes
 toadflaxes
 toadish
@@ -33981,6 +34010,7 @@ unbecomingly
 unbecomingness
 unbelievers
 unbelievingly
+unbelligerent
 unbelted
 unbelting
 unbelts
@@ -34013,6 +34043,7 @@ unbudgeably
 unbudging
 unburden
 unburied
+unburnable
 unbusted
 unbuttons
 uncaging
@@ -34044,6 +34075,7 @@ uncharges
 uncharging
 unchastest
 unchecked
+unchic
 unchlorinated
 unchoked
 unchronicled
@@ -34924,6 +34956,7 @@ vagile
 vaguer
 vagus
 vair
+valances
 valeted
 valgoid
 valiancy
@@ -35001,6 +35034,7 @@ variolates
 varioles
 varioloid
 variousness
+varistor
 varix
 varnas
 varnisher
@@ -35140,6 +35174,7 @@ verdure
 verdured
 verglas
 veridicalities
+veriest
 verifiers
 verily
 verists
