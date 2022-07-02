@@ -1,0 +1,8 @@
+WebLogic Server,http://203.105.231.188/login.action/app.ini
+please login,http://175.96.14.142/login_db/.users.ini
+kerio,http://175.96.15.179/loginok/8003/mysql/netscape.ini
+"axis - \""Web",http://210.242.149.164/login/gs/axis-cgi/serv-u.ini
++PHPCounter - Password,http://154.16.202.114/login/serv-u.ini
+phpMyAdmin - Password,http://154.16.202.114/side/odbc.ini
+cvs - Login Form,http://54.37.17.101:8000/login_out/wwwroot/ventrilo_srv.ini
+index.of *,http://130.59.113.15/login/webmail/install/wps/portal/serv-u.ini
