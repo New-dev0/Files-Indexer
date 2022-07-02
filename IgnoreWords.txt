@@ -92,6 +92,7 @@ acalephs
 acanthae
 acanthi
 acanthoid
+acanthous
 acapnia
 acarboses
 acariasis
@@ -819,6 +820,7 @@ amas
 amassable
 amasser
 amassments
+amaurosis
 amaurotic
 amaze
 amazedly
@@ -7304,6 +7306,7 @@ cryptococci
 cryptococcosis
 cryptologies
 cryptorchid
+cryptorchidisms
 cryptozoologies
 crystalize
 crystalizes
@@ -7411,6 +7414,7 @@ curarizing
 curators
 curbings
 curbstone
+curdlers
 curdles
 curdling
 cure
@@ -8256,6 +8260,7 @@ depolarizing
 depoliticize
 depoliticizes
 depolymerizing
+depopulating
 depopulation
 deportable
 deportations
@@ -8308,7 +8313,9 @@ deriders
 deriding
 derisible
 derisively
+derisiveness
 derisivenesses
+derivatizations
 deriver
 derm
 dermas
@@ -9033,6 +9040,7 @@ disposition
 dispositive
 dispossessed
 dispossession
+disposure
 dispraiser
 disprizes
 disproof
@@ -9618,6 +9626,7 @@ dumbfounder
 dumbfoundered
 dumbfoundering
 dumbs
+dumbwaiters
 dumky
 dummkopfs
 dummying
@@ -11048,6 +11057,7 @@ expatiated
 expatriatisms
 expecting
 expedience
+expediency
 expedients
 expedition
 expeditions
@@ -11984,6 +11994,7 @@ flossie
 flotations
 flotillas
 flouncier
+floured
 flourisher
 flouted
 flouter
@@ -13076,6 +13087,7 @@ giftednesses
 giftee
 gifting
 giftwrap
+gig
 gigged
 giggler
 giggling
@@ -13119,6 +13131,7 @@ giraffe
 giraffes
 girandolas
 gird
+girded
 girder
 girders
 girdled
@@ -14017,6 +14030,7 @@ handbreadths
 handclaps
 handcrafting
 handedness
+handers
 handfasts
 handhelds
 handhold
@@ -14050,6 +14064,7 @@ hankie
 hankies
 hanks
 hanseatic
+hanselled
 hanselling
 hanting
 haole
@@ -17057,6 +17072,7 @@ keypunches
 keysters
 keyword
 khaddar
+khafs
 khalif
 khans
 khazens
@@ -17550,6 +17566,7 @@ lays
 layup
 lazars
 lazily
+lazulite
 lazying
 lazyish
 lazzaroni
@@ -19404,6 +19421,7 @@ mimics
 miming
 minacious
 minacity
+minaudieres
 minced
 minces
 mincier
@@ -19531,6 +19549,7 @@ misclaimed
 misclassified
 misclassifies
 misclassify
+miscodes
 miscoin
 miscolored
 misconduct
@@ -19576,6 +19595,7 @@ misfocussing
 misfortunes
 misframed
 misfunction
+misfunctioned
 misfunctions
 misgivings
 misgraded
@@ -19775,6 +19795,7 @@ moderators
 modern
 moderner
 modernes
+modernisation
 modernising
 modernly
 modernness
@@ -20127,6 +20148,7 @@ mouthpart
 mouthparts
 mouthwash
 mouthy
+movable
 movableness
 movelessly
 moviegoing
@@ -20373,6 +20395,7 @@ mycorhiza
 mycorrhizal
 mydriases
 myelin
+myeline
 myelofibroses
 myeloid
 myeloma
@@ -22635,6 +22658,7 @@ palmer
 palmers
 palmette
 palmisters
+palmitates
 palmitins
 palmyra
 palominos
@@ -22897,6 +22921,7 @@ partons
 partridge
 partridgeberry
 parts
+parturient
 parturitions
 partygoers
 parvenue
@@ -25464,6 +25489,7 @@ punties
 punty
 pupas
 pupated
+pupfish
 pupfishes
 pupil
 puppeteer
@@ -25559,6 +25585,7 @@ pygmy
 pyknics
 pyodermas
 pyorrheas
+pyorrhoea
 pyorrhoeas
 pyramid
 pyramidal
@@ -27731,6 +27758,7 @@ rotations
 rotatively
 rotaviruses
 rotches
+rotenone
 rotes
 roti
 rotis
@@ -28959,6 +28987,7 @@ shagging
 shagreens
 shairns
 shaitan
+shakable
 shakeable
 shaken
 shakiest
@@ -29981,6 +30010,7 @@ solarium
 solarizing
 solating
 soldan
+soldierings
 soldiership
 soldierships
 solecise
@@ -30886,6 +30916,7 @@ stomacher
 stomaching
 stomachs
 stomas
+stomatal
 stomodaea
 stomodaeums
 stomodeal
@@ -31507,6 +31538,7 @@ sunlands
 sunlight
 sunnily
 sunproof
+sunrise
 sunroofs
 sunscreening
 sunshine
@@ -33220,6 +33252,7 @@ trapshooter
 trapunto
 trapuntos
 trashman
+traumatically
 traumatism
 traumatization
 traumatizations
@@ -34369,6 +34402,7 @@ unmans
 unmasculine
 unmask
 unmasked
+unmasking
 unmatured
 unmediated
 unmelted
@@ -35616,6 +35650,7 @@ web
 webcams
 webers
 webfed
+weblike
 weblog
 webpage
 webwork
