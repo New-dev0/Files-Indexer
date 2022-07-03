@@ -3264,6 +3264,7 @@ blather
 blathered
 blathering
 blathers
+blatherskite
 blats
 blawn
 blaxploitation
@@ -3315,6 +3316,7 @@ bloodlike
 bloodlust
 bloods
 bloodshed
+bloodstains
 bloodstock
 bloodstones
 bloomers
@@ -3688,6 +3690,7 @@ brackish
 brackishness
 brackishnesses
 bracted
+brad
 bradycardia
 braggart
 braggers
@@ -7269,6 +7272,7 @@ critically
 criticised
 criticism
 criticizers
+criticizing
 critique
 croaker
 croc
@@ -7655,6 +7659,7 @@ cygnet
 cygnets
 cylinder
 cylindered
+cylindering
 cylix
 cyma
 cymars
@@ -7749,6 +7754,7 @@ dalesmen
 dally
 dalmatics
 daltonian
+daltonism
 daltons
 damageabilities
 damages
@@ -8890,6 +8896,7 @@ diplopias
 dipnetted
 dipnoans
 dipped
+dipper
 dippy
 dipsomania
 dipsomaniacs
@@ -9768,6 +9775,7 @@ dunderheaded
 dunderheads
 dunelike
 dungeoning
+dunging
 dunlin
 dunner
 dunnite
@@ -10009,6 +10017,7 @@ educible
 eduction
 eductor
 edulcorating
+eelgrass
 eeliest
 eely
 eerily
@@ -11447,6 +11456,7 @@ falterers
 falters
 familiar
 familiarises
+familiarities
 familiarity
 familiarize
 familistic
@@ -13417,6 +13427,7 @@ gloomy
 glopped
 gloppier
 gloppiest
+gloppy
 glops
 gloried
 glorify
@@ -13789,6 +13800,7 @@ gremmie
 greyhound
 greylag
 gridder
+gridders
 gridlocking
 grieved
 griever
@@ -14660,6 +14672,7 @@ heterodoxies
 heterodyning
 heteroecism
 heterogameties
+heterogeneous
 heterogenies
 heterogeny
 heterogony
@@ -15329,6 +15342,7 @@ hypermania
 hypermanias
 hypermarkets
 hypermetabolic
+hypermeters
 hypermetropia
 hypermodernist
 hypermodernists
@@ -15833,6 +15847,7 @@ incoming
 incommensurably
 incommensurate
 incommoded
+incommoding
 incomparable
 incompatibility
 incompatible
@@ -17791,6 +17806,7 @@ lazulite
 lazying
 lazyish
 lazzaroni
+lea
 leachability
 leachates
 leaches
@@ -18148,6 +18164,7 @@ lionising
 lions
 lip
 lipa
+lipides
 lipin
 lipins
 lipogeneses
@@ -19927,6 +19944,7 @@ misprizes
 misprograms
 mispronounced
 mispronounces
+misquoters
 misquotes
 misrated
 misreckons
@@ -20752,6 +20770,7 @@ napalming
 naphtha
 naphthenes
 naphthols
+naphtol
 napkin
 nappa
 nappas
@@ -20788,6 +20807,7 @@ natations
 natatoriums
 natheless
 nationalised
+nationalisms
 nationally
 nationhood
 native
@@ -22087,6 +22107,7 @@ ornithopter
 ornithopters
 orogeneses
 orogenetic
+orogeny
 orography
 orology
 orotundities
@@ -23610,6 +23631,7 @@ periodizations
 periodontology
 perionychium
 periosteal
+peripeteia
 peripetia
 peripetias
 peripety
@@ -23675,6 +23697,7 @@ perses
 perseverance
 perseverances
 perseverating
+perseverative
 persistence
 persistent
 persnicketiness
@@ -25161,6 +25184,7 @@ presages
 presbyter
 presbyters
 prescheduled
+preschoolers
 prescience
 prescreened
 prescribe
@@ -26124,6 +26148,7 @@ quitclaim
 quite
 quittances
 quiverers
+quivery
 quixotes
 quixotic
 quixotical
@@ -27075,6 +27100,7 @@ reitbok
 reiterating
 reive
 reived
+rejackets
 rejectees
 rejections
 rejective
@@ -27978,6 +28004,7 @@ risotto
 rissole
 ristra
 risus
+ritardando
 ritards
 ritualism
 ritualist
@@ -28348,6 +28375,7 @@ safariing
 safer
 safest
 safety
+safetyman
 safranin
 safranines
 sag
@@ -29218,6 +29246,7 @@ sepoys
 seppuku
 seppukus
 septal
+septarium
 septenaries
 septennially
 septentrion
@@ -29482,6 +29511,7 @@ shepherdesses
 sherberts
 sherds
 shereef
+shergottites
 sheroots
 sherpas
 sherries
@@ -31232,6 +31262,7 @@ sterilization
 sterilize
 sterilizers
 sterling
+sterlingness
 stern
 sterner
 sternocostal
@@ -32966,6 +32997,7 @@ theomachies
 theophany
 theophylline
 theoretic
+theoretically
 theorize
 thereafter
 therein
@@ -33469,6 +33501,7 @@ tossing
 tossup
 tost
 tot
+totable
 total
 totalisators
 totalised
@@ -35596,6 +35629,7 @@ vets
 vexedness
 vexer
 vexers
+vexil
 vexilla
 vial
 viand
@@ -36657,6 +36691,7 @@ xanthomata
 xanthone
 xanthophyll
 xenia
+xenial
 xenias
 xenobiotics
 xenodiagnostic
