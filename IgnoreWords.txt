@@ -355,6 +355,7 @@ adopt
 adoptees
 adoptionist
 adorableness
+adorer
 adoringly
 adorning
 ados
@@ -395,6 +396,7 @@ advocator
 advowson
 adynamias
 adytum
+adzes
 aecia
 aeciospores
 aedile
@@ -5708,6 +5710,7 @@ cloakroom
 clobbering
 clocker
 clocks
+cloddishnesses
 clodpoll
 clofibrates
 clog
@@ -5838,6 +5841,7 @@ cobblestones
 cobby
 cobnut
 cobnuts
+cobwebbing
 cocainization
 cocaptains
 cocarboxylase
@@ -6514,6 +6518,7 @@ connoted
 connotes
 connubialisms
 connubiality
+conodonts
 conquered
 conquerers
 conquerors
@@ -7255,6 +7260,7 @@ criminates
 criminis
 criminologies
 criminy
+crimp
 crimping
 crimson
 crimsoned
@@ -7794,6 +7800,7 @@ damselflies
 dandiacal
 dandified
 dandlers
+dandling
 daneworts
 dangerously
 dangers
@@ -7876,6 +7883,7 @@ deactivated
 deactivations
 deactivator
 deadened
+deader
 deadfall
 deadheaded
 deadlier
@@ -8571,6 +8579,7 @@ detestable
 dethatching
 detours
 detoxicants
+detoxicate
 detoxicated
 detoxicates
 detoxication
@@ -10329,6 +10338,7 @@ emulous
 emyds
 enabled
 enabling
+enacted
 enactment
 enactors
 enalaprils
@@ -10835,6 +10845,7 @@ erythema
 erythorbate
 erythremia
 erythremias
+erythroblast
 erythroblasts
 erythroid
 erythromycin
@@ -11083,6 +11094,7 @@ exarchy
 exasperate
 excavate
 excelled
+excellence
 excellently
 except
 exceptionalisms
@@ -11677,6 +11689,7 @@ felt
 feme
 feminacies
 feminacy
+feminines
 feministic
 feminity
 feminizations
@@ -11885,6 +11898,7 @@ fingerpicked
 fingerpickings
 fingerposts
 fingerprintings
+finical
 finicalnesses
 finickiest
 finickiness
@@ -12659,6 +12673,7 @@ friendlier
 friendship
 friezes
 frighten
+frightful
 frightfulness
 frigidness
 frigidnesses
@@ -14570,6 +14585,7 @@ hellhound
 hellions
 hellish
 hellishly
+helloes
 helloing
 helmless
 helmsmen
@@ -16732,6 +16748,7 @@ ironicalnesses
 ironings
 ironlike
 ironman
+ironmongers
 ironworker
 irradiate
 irradiates
@@ -17372,6 +17389,7 @@ kidskins
 kidvid
 kief
 kielbasi
+kiers
 kilim
 kill
 killable
@@ -17902,6 +17920,7 @@ leech
 leer
 leerinesses
 lees
+leewardly
 leeway
 leeways
 left
@@ -18002,6 +18021,7 @@ leukaemias
 leukemia
 leukemias
 leukemics
+leukemogeneses
 leukocytic
 leukoma
 leukomas
@@ -18222,6 +18242,7 @@ liquid
 liquidates
 liquidity
 liquidly
+liquidnesses
 liquifying
 lira
 liras
@@ -18986,6 +19007,7 @@ marquisate
 marquisates
 marquises
 marram
+marred
 marrers
 marrieds
 marrowfats
@@ -19896,6 +19918,7 @@ misesteem
 misevaluate
 misevaluated
 misfeasance
+misfields
 misfiled
 misfire
 misfiring
@@ -21219,6 +21242,7 @@ nomogram
 nomographic
 nonabsorbent
 nonabsorptive
+nonacid
 nonacids
 nonaction
 nonaddicts
@@ -21378,6 +21402,7 @@ nonincumbents
 nonindustry
 noninfective
 noninflationary
+noninformation
 noninitiates
 noninsect
 noninsecticidal
@@ -21690,6 +21715,7 @@ obeli
 obelisks
 obelisms
 obesities
+obesity
 obeyer
 obeys
 obfuscated
@@ -21949,6 +21975,7 @@ omnirange
 omnisciences
 omnivorously
 omophagias
+omophagic
 onanists
 once
 oncidium
@@ -23950,6 +23977,7 @@ phorate
 phoronids
 phosgene
 phosphatase
+phosphates
 phosphatidyl
 phosphatization
 phosphatizes
@@ -24665,6 +24693,7 @@ polygamized
 polygamizes
 polygonally
 polygraph
+polygraphic
 polygynous
 polyhistor
 polylysine
@@ -24811,6 +24840,7 @@ postattack
 postaxial
 postbase
 postbellum
+postcards
 postcava
 postcavas
 postclassic
@@ -34792,6 +34822,7 @@ unfettered
 unfetters
 unfiltered
 unfit
+unfitness
 unfitted
 unfixing
 unfledged
@@ -35550,6 +35581,7 @@ veenas
 veep
 veepees
 veering
+veeringly
 vees
 veganism
 vegetal
@@ -35689,6 +35721,7 @@ vestigially
 vestry
 vestrymen
 vetches
+vetchling
 vetiver
 vetivers
 vetivert
@@ -35873,6 +35906,7 @@ vivid
 vivider
 vivifies
 viviparity
+viviparously
 vivisect
 vivisectionists
 vivisections
@@ -36208,6 +36242,7 @@ weaklings
 wealds
 wealthier
 weaponed
+weaponized
 weaponizes
 weaponry
 wearable
