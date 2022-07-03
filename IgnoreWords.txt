@@ -1406,6 +1406,7 @@ apathetic
 apatosaur
 aperiodically
 apers
+aperture
 apertures
 apetalous
 aphaeretic
@@ -1890,6 +1891,7 @@ astragal
 astray
 astringent
 astringing
+astrodomes
 astrological
 astrometric
 astrometries
@@ -2380,6 +2382,7 @@ bandies
 bandinesses
 banditry
 bandogs
+bandoleer
 bandoleers
 bandoliers
 bandsaws
@@ -2635,6 +2638,7 @@ beauts
 beaux
 beaverboard
 beavering
+beavers
 bebeerus
 beblood
 becalmed
@@ -2817,6 +2821,7 @@ bemixt
 bemoans
 bemock
 bemocking
+bemuddle
 bemuddling
 bemurmured
 bemusedly
@@ -5343,6 +5348,7 @@ chittering
 chitties
 chivalrous
 chivvy
+chlamydes
 chlamydospores
 chloasmata
 chloral
@@ -5848,6 +5854,7 @@ cobaltite
 cobber
 cobbles
 cobblestones
+cobbling
 cobby
 cobnut
 cobnuts
@@ -6127,6 +6134,7 @@ colorimeters
 colorization
 colorize
 colorizers
+colorizes
 colorless
 colormen
 colossal
@@ -8705,6 +8713,7 @@ dialogistic
 dialogs
 dialogue
 dialyzes
+diamagnetic
 diamante
 diamantes
 diamin
@@ -8714,6 +8723,7 @@ diamondbacks
 diamondiferous
 diandrous
 dianthus
+dianthuses
 diapause
 diapauses
 diapedeses
@@ -10409,6 +10419,7 @@ encyclical
 encyclics
 encyclopaedic
 encysted
+encysting
 endamage
 endameba
 endangering
@@ -12241,6 +12252,7 @@ fluidises
 fluidities
 fluidity
 fluidization
+fluidly
 flukily
 flukiness
 fluking
@@ -16367,6 +16379,7 @@ inspirit
 installed
 installs
 instances
+instantaneous
 instarring
 instated
 instauration
@@ -16425,6 +16438,7 @@ intentional
 intentions
 interabangs
 interacted
+interallelic
 interarch
 interbasin
 interbranch
@@ -17158,6 +17172,7 @@ judgmatical
 judgment
 judicatories
 judicial
+judicially
 judicious
 judoist
 judoists
@@ -17777,6 +17792,7 @@ largenesses
 larger
 largesses
 largo
+lariating
 larine
 lark
 larker
@@ -18130,6 +18146,7 @@ liefest
 liegeman
 liens
 lier
+liers
 lieu
 lieve
 lifeguarded
@@ -18179,6 +18196,7 @@ limacine
 limans
 limb
 limberest
+limbi
 limbic
 limbier
 limbos
@@ -19383,6 +19401,7 @@ meningococcus
 menisci
 meno
 menorrhea
+mensae
 mensal
 mensas
 mense
@@ -20428,6 +20447,7 @@ morose
 moroseness
 morphemics
 morphias
+morphing
 morphinic
 morphins
 morphogenic
@@ -20858,6 +20878,7 @@ nanas
 nances
 nancy
 nandinas
+nandins
 nanisms
 nannyish
 nanogram
@@ -22205,6 +22226,7 @@ orioles
 orismological
 orismology
 orle
+ormolus
 ornamentally
 ornamentation
 ornaments
@@ -22303,6 +22325,7 @@ ottar
 ottavas
 ouabain
 ouabains
+oubliettes
 ouch
 ouds
 oughted
@@ -24411,6 +24434,7 @@ placentation
 placid
 placks
 placoderm
+plafond
 plagiarise
 plagiaristic
 plagiarizes
@@ -24438,6 +24462,7 @@ planetoid
 planetological
 planetology
 planets
+planform
 plangencies
 planimeter
 planimetrically
@@ -25876,6 +25901,7 @@ pterygoid
 ptisan
 ptomain
 ptomainic
+ptosis
 ptyalin
 puberulent
 pubescent
@@ -26051,6 +26077,7 @@ putrefied
 putrefier
 putrescence
 putrescent
+putrescines
 putridities
 putridity
 putridly
@@ -26644,6 +26671,7 @@ reassignments
 reassorting
 reassumed
 reassumes
+reassuring
 reata
 reattachment
 reattachments
@@ -28829,6 +28857,7 @@ scallywag
 scallywags
 scaloppine
 scaloppines
+scalpel
 scalpels
 scalper
 scalpers
@@ -28997,6 +29026,7 @@ scorpaenid
 scorpion
 scotched
 scotching
+scotia
 scotopia
 scoured
 scourges
@@ -31878,6 +31908,7 @@ sublimity
 sublingual
 subliterate
 subliterature
+sublittorals
 sublunary
 subluxations
 submarined
@@ -32629,6 +32660,7 @@ tack
 tacker
 tackers
 tackets
+tackily
 tackling
 tacks
 tacnode
@@ -33949,6 +33981,7 @@ triangles
 triangulated
 triangulation
 triarchies
+triathletes
 triaxial
 triazin
 triazoles
@@ -34688,6 +34721,7 @@ uncredited
 uncrossed
 uncrosses
 uncrowns
+uncrushable
 unction
 unctuousnesses
 uncuffs
@@ -35146,6 +35180,7 @@ unreserve
 unresponsive
 unresponsively
 unrestored
+unrestraints
 unretouched
 unreturnable
 unrevised
