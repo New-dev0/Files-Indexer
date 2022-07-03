@@ -1,0 +1,3 @@
+org.eclipse.emf.refactor.comrel.editor_0.9.0.jar « plugins «,https://git.eclipse.org/c/refactor/org.eclipse.emf.refactor.build.git/tree/org.eclipse.emf.refactor.build.all/build/updatesite/plugins/org.eclipse.emf.refactor.comrel.editor_0.9.0.jar%3Fid%3D706d2153e6d54393870dc7748b429cc5348c7ec8
+https://bazel.googlesource.com/bazel/+/refs/tags/6...,https://bazel.googlesource.com/bazel/%2B/refs/tags/6.0.0-pre.20220407.1/third_party/netty/netty-handler-4.1.69.Final.jar%3Fformat%3DTEXT
+https://bazel.googlesource.com/bazel/+/master/thir...,https://bazel.googlesource.com/bazel/%2B/master/third_party/netty/netty-transport-4.1.75.Final.jar%3Fformat%3DTEXT
