@@ -224,6 +224,7 @@ acrider
 acridine
 acridnesses
 acrimonies
+acrimoniousness
 acritarch
 acrobatics
 acrodont
@@ -2368,6 +2369,7 @@ banefully
 bangkok
 bangs
 banians
+banishing
 banishments
 banister
 banjaxed
@@ -2406,6 +2408,7 @@ bareboat
 bareboned
 barefacedly
 bareges
+barehand
 barehanded
 barehanding
 baresark
@@ -2579,6 +2582,7 @@ beamed
 beamishly
 beaning
 beano
+beans
 beanstalk
 beanstalks
 bearable
@@ -4392,6 +4396,7 @@ cancelation
 cancha
 cancroid
 candelabrum
+candidature
 candider
 candidnesses
 candies
@@ -4483,6 +4488,7 @@ capes
 capeskins
 capework
 capful
+capillarities
 capita
 capital
 capitalised
@@ -7222,6 +7228,7 @@ crista
 crit
 criticalities
 critically
+criticised
 criticism
 criticizers
 critique
@@ -7788,6 +7795,7 @@ dawning
 dawsonite
 dawt
 day
+daycares
 daydreamed
 daydreaming
 daydreamlike
@@ -8600,6 +8608,7 @@ diallers
 dialling
 dialog
 dialogically
+dialogistic
 dialogs
 dialogue
 dialyzes
@@ -10326,6 +10335,7 @@ endorsable
 endorse
 endorsive
 endoscopic
+endoscopically
 endosmoses
 endosperms
 endostea
@@ -11367,6 +11377,7 @@ fallacies
 fallaleries
 faller
 fallible
+fallibly
 falsely
 falsest
 falsettos
@@ -11459,6 +11470,7 @@ fasciculus
 fascination
 fascinator
 fascines
+fascioliasis
 fascistic
 fascistically
 fascists
@@ -11503,6 +11515,7 @@ fava
 favas
 favelas
 favorably
+favorite
 favorites
 favors
 fawnlike
@@ -12524,6 +12537,7 @@ freezes
 fremd
 fremituses
 frena
+frenches
 frenetic
 frenetically
 freneticism
@@ -14084,6 +14098,7 @@ hall
 hallmark
 hallmarked
 halloos
+halluces
 hallucinator
 hallucinogens
 hallux
@@ -14717,6 +14732,7 @@ hitchhiking
 hitherto
 hitters
 hiveless
+hives
 ho
 hoarders
 hoardings
@@ -14870,6 +14886,7 @@ honeworts
 honeybuns
 honeycombing
 honeydew
+honeydews
 honeys
 honeysuckle
 honeysuckles
@@ -16275,6 +16292,7 @@ intercurrent
 interdentally
 interdependence
 interdict
+interdiffuse
 interdiffused
 interdiffusion
 interdigitate
@@ -17449,6 +17467,7 @@ lacked
 lackering
 laconisms
 lacquer
+lacquerer
 lacqueyed
 lactases
 lactate
@@ -17695,6 +17714,7 @@ leachability
 leachates
 leaches
 lead
+leaded
 leadening
 leadenly
 leadenness
@@ -18384,6 +18404,7 @@ luminarias
 luminaries
 luminary
 luminesced
+luminescence
 luminiferous
 lummoxes
 lumpen
@@ -20045,6 +20066,7 @@ monocots
 monocotyl
 monocrystals
 monocularly
+monocycle
 monocycles
 monocytic
 monodic
@@ -21158,6 +21180,7 @@ nonevidences
 nonexecutives
 nonexempts
 nonexistences
+nonexistent
 nonexploitive
 nonfactual
 nonfading
@@ -21606,6 +21629,7 @@ oceanic
 oceanographies
 ochering
 ochre
+ochreae
 ochrous
 ochry
 ocker
@@ -22223,6 +22247,7 @@ outpromised
 outpupil
 outpushed
 outputs
+outquotes
 outquoting
 outrageously
 outrageousness
@@ -24134,6 +24159,7 @@ plainchants
 plainclothes
 plained
 plainer
+plaining
 plainness
 plainsman
 plainsongs
@@ -24505,6 +24531,7 @@ poniards
 pons
 pontifex
 pontificals
+pontificating
 pontoon
 ponying
 ponytail
@@ -26386,6 +26413,7 @@ recaned
 recanes
 recanter
 recanting
+recants
 recapitalize
 recapitulated
 recapitulation
@@ -28745,6 +28773,7 @@ scrutinise
 scrutinises
 scrying
 scuba
+scubaed
 scubas
 scudding
 scuffer
@@ -29896,6 +29925,7 @@ slinkier
 slip
 sliped
 slipes
+slipform
 slipforming
 slipknots
 slipping
@@ -30206,6 +30236,7 @@ sodbusters
 soddened
 soddy
 sodomies
+sodomists
 sodomitic
 sodomized
 sodomizing
@@ -31502,6 +31533,7 @@ sublease
 sublessee
 sublets
 sublibrarians
+sublicensing
 sublieutenant
 sublimate
 sublimely
@@ -34143,6 +34175,7 @@ unappealingly
 unappetizing
 unarmed
 unaspirated
+unassailability
 unassailably
 unassimilable
 unathletic
@@ -36553,6 +36586,7 @@ yielder
 yielding
 yipes
 yippies
+yipping
 yirr
 ylems
 yob
@@ -36638,6 +36672,7 @@ zebec
 zebrafishes
 zebrano
 zebras
+zebrawood
 zebrine
 zebroid
 zecchini
