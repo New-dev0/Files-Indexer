@@ -1,0 +1,12 @@
+kinetic-desktop-amd64.manifest - Ubuntu CDimage,https://cdimage.ubuntu.com/kubuntu/daily-live/pending/kinetic-desktop-amd64.manifest
+focal-desktop-amd64.manifest - Ubuntu CDimage,https://cdimage.ubuntu.com/kubuntu/focal/daily-live/current/focal-desktop-amd64.manifest
+sdrongxin.net/Windows/winsxs/Manifests/amd64_micro...,http://sdrongxin.net/Windows/winsxs/Manifests/amd64_microsoft-windows-els-hyphenation-etw_31bf3856ad364e35_6.3.9600.16428_none_c2f792c3d3bc4b20.manifest
+mirrors.aliyun.com/oldubuntu-releases/releases/hoa...,http://mirrors.aliyun.com/oldubuntu-releases/releases/hoary/ubuntu-5.04-live-powerpc.manifest
+ftp.twaren.net/ubuntu-dvd/edubuntu/releases/9.10/r...,http://ftp.twaren.net/ubuntu-dvd/edubuntu/releases/9.10/release/edubuntu-9.10-dvd-amd64.manifest
+repo.ugm.ac.id/iso/ubuntu/releases/kubuntu/8.04/ku...,http://repo.ugm.ac.id/iso/ubuntu/releases/kubuntu/8.04/kubuntu-8.04.2-desktop-i386.manifest
+repo.ugm.ac.id/iso/ubuntu-mate/16.04/release/ubunt...,http://repo.ugm.ac.id/iso/ubuntu-mate/16.04/release/ubuntu-mate-16.04.1-desktop-amd64.manifest
+mirror.rise.ph/ubuntu-iso/16.04/ubuntu-16.04.5-des...,http://mirror.rise.ph/ubuntu-iso/16.04/ubuntu-16.04.5-desktop-i386.manifest
+https://mirror.thehost.ua/ubuntu/ubuntu-cd/16.10/u...,https://mirror.thehost.ua/ubuntu/ubuntu-cd/16.10/ubuntu-16.10-desktop-i386.manifest
+ubuntu-8.04.4-desktop-i386.manifest,https://mirrors.xtom.ee/ubuntu-old-releases/releases/8.04.4/ubuntu-8.04.4-desktop-i386.manifest
+Untitled,http://cdimage.blankonlinux.or.id/rilis/5.0/blankon-5.0-cdlive-i386.manifest
+chrome.manifest - chrome - windows - izabela_kubis - Chomikuj.pl,"https://chomikuj.pl/izabela_kubis/Podr*c4*99czniki%2BJ*c4*99zyk%2BAngielski/Liceum/English%2BFile%2BIntermediate/English_File_Intermediate_3e_iTools_DVD/dist/default/program_files_windows/windows/chrome/chrome,6846278086.manifest"
