@@ -1494,6 +1494,7 @@ applicatively
 applicator
 applies
 applique
+apply
 applying
 appoint
 appointing
@@ -2609,6 +2610,7 @@ beauticians
 beautifiers
 beauts
 beaux
+beaverboard
 beavering
 bebeerus
 beblood
@@ -4836,6 +4838,7 @@ causey
 causeys
 cauterants
 cautioners
+cautious
 cavaliered
 cavalierly
 cavaliers
@@ -5299,6 +5302,7 @@ chloral
 chloralose
 chloraloses
 chlorate
+chlorin
 chlorinators
 chlorobenzene
 chloroformed
@@ -6244,6 +6248,7 @@ compositors
 compost
 composures
 compounded
+comprador
 compradors
 comprehended
 comprehending
@@ -6947,6 +6952,7 @@ counterfeiting
 counterflow
 counterinstance
 countermanded
+countermelodies
 countermines
 countermove
 counterordering
@@ -7051,6 +7057,7 @@ crabmeat
 crabstick
 crackajacks
 crackback
+crackerjack
 crackle
 cracklier
 cracknel
@@ -7241,6 +7248,7 @@ crockery
 crockets
 crockpot
 croft
+crojik
 crojiks
 crone
 crook
@@ -7877,6 +7885,7 @@ decagrams
 decaliter
 decaliters
 decameter
+decameters
 decametric
 decampments
 decamps
@@ -11110,6 +11119,7 @@ existentially
 exocrines
 exocytosis
 exodermises
+exodoi
 exodontias
 exoduses
 exoenzyme
@@ -12420,6 +12430,7 @@ fossilises
 fossilization
 fossilizations
 fossilized
+foster
 fosterages
 fosterers
 fosters
@@ -12488,6 +12499,7 @@ francized
 frangipane
 franker
 frankest
+frankfort
 frankfurt
 frankincense
 franking
@@ -15697,6 +15709,7 @@ inarguably
 inarms
 inarticulates
 inattentively
+inaudibility
 inaudibly
 inaugurate
 inauspiciously
@@ -16447,6 +16460,7 @@ inthralled
 inthralls
 inthroned
 inti
+intimacy
 intimae
 intimal
 intimately
@@ -18589,6 +18603,7 @@ mahjongs
 mahlstick
 maieutic
 maigre
+mailer
 mailmen
 mainlands
 mainmasts
@@ -19909,6 +19924,7 @@ misword
 miswording
 miswords
 miswrit
+miswrite
 miswriting
 misyoking
 mitering
@@ -21425,6 +21441,7 @@ novelizations
 novelizer
 novelizers
 novelizing
+novellas
 novenae
 novitiates
 now
@@ -21661,6 +21678,7 @@ oculomotor
 odahs
 oddball
 oddish
+oddment
 odic
 odious
 odiousnesses
@@ -22350,6 +22368,7 @@ ova
 oval
 ovality
 ovalness
+ovals
 ovariectomies
 ovately
 ovenbird
@@ -22404,6 +22423,7 @@ overcompensate
 overcompresses
 overconfident
 overconsume
+overconsuming
 overcontrolling
 overcool
 overcooling
@@ -23405,6 +23425,7 @@ pentaploids
 pentathlon
 penthouses
 pentlandites
+pentobarbital
 pentodes
 pentoses
 penuchi
@@ -24379,6 +24400,7 @@ poignantly
 poikilothermic
 poikilotherms
 poilu
+poilus
 poinded
 pointedness
 pointier
@@ -25053,6 +25075,7 @@ presented
 presentencing
 presentient
 presentimental
+presentism
 presently
 presentments
 presentness
@@ -25603,6 +25626,7 @@ pteridophytes
 pterygoid
 ptisan
 ptomain
+ptomainic
 ptyalin
 puberulent
 pubescent
@@ -25878,6 +25902,7 @@ quadrumvir
 quadrumvirates
 quadruped
 quadruplicities
+quadrupling
 quads
 quaere
 quaffer
@@ -25927,6 +25952,7 @@ quasicrystal
 quasiparticles
 quasiperiodic
 quassia
+quassin
 quatercentenary
 quaternaries
 quaternity
@@ -26388,6 +26414,7 @@ rebloomed
 reblooming
 rebodied
 rebodies
+reboiling
 rebooked
 rebop
 rebought
@@ -27415,6 +27442,7 @@ restatements
 restationed
 restations
 restaurant
+restauranteurs
 restaurants
 restaurateur
 restful
@@ -29403,6 +29431,7 @@ shirtmaker
 shitake
 shitakes
 shitless
+shittah
 shittims
 shittimwoods
 shivas
@@ -31555,6 +31584,7 @@ submediants
 submenu
 submergences
 submerges
+submergible
 submetacentric
 submicrogram
 subminiature
@@ -32371,6 +32401,7 @@ tambourer
 tambourines
 tambouring
 tambur
+tamburas
 tameable
 tamenesses
 tamer
@@ -33670,6 +33701,7 @@ trigonometries
 trigos
 trigraph
 trigraphs
+trigs
 trihedron
 trijugate
 trijugous
@@ -35030,6 +35062,7 @@ uprooting
 uprose
 uprouse
 uprushed
+upsadaisy
 upscales
 upsends
 upsent
@@ -35628,6 +35661,7 @@ vogueings
 voguer
 voguers
 voguishly
+voice
 voiceful
 voicefulness
 voiceover
@@ -35810,6 +35844,7 @@ warbonnets
 wardenries
 wardenship
 warding
+wardships
 warehousers
 wareroom
 warfares
