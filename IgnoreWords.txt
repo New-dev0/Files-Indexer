@@ -482,6 +482,7 @@ afterwards
 afterwords
 afterworld
 agallochs
+agamete
 agapanthuses
 agapeic
 agars
@@ -1737,6 +1738,7 @@ artifacts
 artificial
 artificialities
 artificialness
+artillerist
 artilleryman
 artiness
 artiodactyl
@@ -2347,6 +2349,7 @@ ballonet
 ballooning
 ballpark
 ballparks
+balls
 bally
 ballyhoo
 ballyhooing
@@ -3019,6 +3022,7 @@ bilbo
 bilby
 bilharziases
 biliary
+bilk
 bilker
 bilkers
 billabongs
@@ -3999,6 +4003,7 @@ buddings
 buddleia
 budged
 budger
+budgerigars
 budgetary
 budgeteer
 budgeting
@@ -4034,6 +4039,7 @@ bulgur
 bulimia
 bulkage
 bullace
+bullaces
 bullbriers
 bulldoggings
 bullet
@@ -5887,6 +5893,7 @@ cockspur
 cocksuckers
 cocktail
 cockup
+cocobolas
 cocomat
 cocoon
 cocoplum
@@ -6227,6 +6234,7 @@ communisms
 community
 communizations
 communizes
+commutates
 commutating
 commutation
 commutative
@@ -7430,6 +7438,7 @@ cryptorchidisms
 cryptozoologies
 crystalize
 crystalizes
+crystallinities
 crystallites
 crystallization
 crystallized
@@ -11156,6 +11165,7 @@ exemplarinesses
 exemplary
 exemplification
 exemplify
+exemplum
 exempted
 exemptions
 exempts
@@ -12464,6 +12474,7 @@ forgoer
 forgoers
 forgoing
 forint
+forkfuls
 forkless
 forlornest
 forlornness
@@ -14079,6 +14090,7 @@ guttations
 guttered
 guttersnipes
 gutting
+guttler
 guttlers
 guttles
 guy
@@ -14164,6 +14176,7 @@ haggadahs
 haggadic
 haggardness
 haggle
+haggled
 haggles
 hagiographers
 hagiographical
@@ -14662,6 +14675,7 @@ herbage
 herbalist
 herbalists
 herbicidal
+herbicidally
 herbier
 herbivory
 herby
@@ -17223,6 +17237,7 @@ kalifate
 kalium
 kaliums
 kalmia
+kalong
 kalsomined
 kalsomines
 kamaainas
@@ -17711,6 +17726,7 @@ landward
 lang
 langouste
 langoustines
+langrage
 langrels
 langshans
 langsynes
@@ -18953,6 +18969,7 @@ maraschinos
 marathoner
 marathons
 marauding
+marauds
 marble
 marbleize
 marbleizing
@@ -19709,6 +19726,7 @@ millepede
 millepore
 millers
 millesimal
+millhouses
 milliard
 milliary
 millibar
@@ -20236,6 +20254,7 @@ monocarpic
 monochasial
 monochasium
 monochromats
+monocles
 monoclines
 monoclinic
 monoclonal
@@ -22466,6 +22485,7 @@ outrebounds
 outreckoning
 outrigged
 outrigger
+outrigs
 outrivalling
 outroared
 outrolling
@@ -23792,6 +23812,7 @@ personifies
 perspicuity
 perspiration
 persuade
+persuaded
 persuader
 persuades
 persuading
@@ -24805,6 +24826,7 @@ portapaks
 portcullis
 portend
 porterage
+porterhouses
 porticoed
 porticos
 portieres
@@ -26182,6 +26204,7 @@ querulous
 querulousness
 questioned
 quetzals
+queues
 quezales
 quicker
 quicklime
@@ -27892,6 +27915,7 @@ revolutionaries
 revolutionises
 revolve
 revolver
+revotes
 revoting
 revues
 revulsive
@@ -28958,6 +28982,7 @@ scowling
 scows
 scrabbliest
 scragged
+scraggily
 scragglier
 scraggly
 scraggy
@@ -29551,6 +29576,7 @@ shearing
 shearings
 shearlegs
 shears
+sheas
 sheaved
 sheds
 sheen
@@ -30541,6 +30567,7 @@ soldierships
 solecise
 solecised
 solecises
+solecistic
 solei
 solely
 solemnify
@@ -32171,6 +32198,7 @@ superorganism
 superorganisms
 superorgasm
 superovulates
+superoxides
 superphosphates
 superplane
 superplastic
@@ -33826,6 +33854,7 @@ traverse
 travertine
 travesties
 travestying
+travoises
 trawley
 trawleys
 trawlnet
@@ -34228,6 +34257,7 @@ turning
 turnips
 turnoffs
 turnons
+turnouts
 turnovers
 turnsoles
 turnstiles
@@ -34538,6 +34568,7 @@ uncast
 uncataloged
 uncatchy
 uncaused
+unceremonious
 uncertainly
 uncertainnesses
 unchain
@@ -35293,6 +35324,7 @@ upheavers
 uphoarded
 uphoards
 uphold
+uphove
 uphroe
 uplanders
 upleapt
@@ -35440,6 +35472,7 @@ vacillate
 vacillators
 vacuoles
 vacuous
+vacuousness
 vagabond
 vagabondism
 vagaries
@@ -36046,6 +36079,7 @@ waffling
 waftage
 wafter
 wafts
+wag
 wageless
 wager
 wagered
@@ -36291,6 +36325,7 @@ weightiness
 weightinesses
 weird
 weirdies
+weirding
 weirdly
 weirdnesses
 weisenheimers
