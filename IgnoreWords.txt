@@ -880,6 +880,7 @@ amerciable
 americium
 amesace
 amethyst
+amia
 amiabilities
 amiable
 amianthus
@@ -1919,6 +1920,7 @@ atemporal
 atenolol
 atherogenic
 atheroma
+atherosclerotic
 athetoid
 athleticism
 athletics
@@ -2026,6 +2028,7 @@ augurers
 auguring
 augustest
 auklets
+auld
 aulder
 auntlier
 aunts
@@ -2707,6 +2710,7 @@ beduncing
 bedwarf
 bedwarfing
 bedwetters
+beech
 beechwood
 beefalo
 beefcake
@@ -4646,6 +4650,7 @@ carelessness
 carer
 caressers
 caresses
+caretaken
 caretaking
 caretakings
 caretook
@@ -9232,6 +9237,7 @@ disrelished
 disrelishes
 disrepute
 disreputes
+disrobe
 disrobed
 disrupt
 disrupters
@@ -9609,6 +9615,7 @@ draggiest
 dragline
 dragnet
 dragonheads
+dragrope
 dragstrips
 drails
 drainpipe
@@ -10030,6 +10037,7 @@ ecumenicism
 ecumenicist
 ecumenicities
 ecumenicity
+ecumenics
 ecumenism
 ecumenist
 eczemas
@@ -12220,6 +12228,7 @@ flossie
 flotations
 flotillas
 flouncier
+flounders
 floured
 flourisher
 flouted
@@ -15398,6 +15407,7 @@ hyoidean
 hyoids
 hypabyssal
 hyper
+hyperacidity
 hyperaware
 hyperbola
 hyperbolae
@@ -15994,6 +16004,7 @@ incurving
 incuse
 incusing
 indagates
+indagators
 indebted
 indecency
 indecent
@@ -17293,6 +17304,7 @@ karyosome
 karyotins
 karyotype
 kasbahs
+kasha
 kashruth
 kashruths
 katakana
@@ -17740,6 +17752,7 @@ lancinates
 landaulets
 landgraves
 landholder
+landladies
 landloper
 landlordism
 landlubberly
@@ -18242,6 +18255,7 @@ linger
 lingerie
 lingo
 lingonberry
+linguist
 linguistical
 linguists
 lingy
@@ -20156,6 +20170,7 @@ mixup
 mizuna
 mizunas
 mizzenmasts
+mizzle
 mizzly
 moaner
 moaningly
@@ -20351,6 +20366,7 @@ monopsonistic
 monopsony
 monorchid
 monorchids
+monosaccharide
 monostich
 monostome
 monosyllabic
@@ -20381,6 +20397,7 @@ monticule
 monumental
 monumentalizing
 monuments
+mony
 monzonite
 moodily
 moods
@@ -22244,6 +22261,7 @@ orotundities
 orotundity
 orphanhoods
 orphaning
+orphans
 orphreyed
 orpiment
 orra
@@ -23260,6 +23278,7 @@ paragraphic
 parainfluenza
 parajournalism
 parakeets
+paraldehydes
 parallaxes
 parallelisms
 paralysing
@@ -23505,6 +23524,7 @@ paydays
 paymasters
 payment
 payoffs
+payors
 payouts
 payrolls
 pazazzes
@@ -24327,6 +24347,7 @@ pinpoints
 pins
 pinschers
 pinsetters
+pintada
 pintadas
 pintado
 pintadoes
@@ -25487,6 +25508,7 @@ prims
 primus
 prince
 princelier
+princes
 princeship
 princesse
 principalships
@@ -26511,6 +26533,7 @@ rarefactions
 rareness
 rares
 rasbora
+rasers
 rashest
 raspberries
 raspier
@@ -27762,6 +27785,7 @@ restrictionists
 restrictively
 restrictives
 restring
+restrooms
 restructured
 rests
 restudies
@@ -28536,10 +28560,12 @@ sadis
 sadisms
 sadistic
 sadly
+sadness
 sadomasochist
 sadomasochistic
 sae
 safariing
+safe
 safer
 safest
 safety
@@ -29915,6 +29941,7 @@ sicklier
 sickliest
 sickliness
 sickly
+sickness
 sickos
 sickouts
 sics
@@ -32101,6 +32128,7 @@ sulfas
 sulfatases
 sulfhydryls
 sulfitic
+sulfonamide
 sulfonamides
 sulfonate
 sulfones
@@ -32168,6 +32196,7 @@ sunket
 sunkets
 sunlands
 sunlight
+sunned
 sunnily
 sunproof
 sunrise
@@ -32217,6 +32246,7 @@ superconvenient
 supercops
 supercriminal
 supercriminals
+superdiplomat
 superefficiency
 superefficient
 superelite
@@ -33854,6 +33884,7 @@ transients
 transilluminate
 transitions
 transitive
+transitively
 transitiveness
 transitivity
 translated
@@ -34849,6 +34880,7 @@ underwrite
 underwriters
 undesignated
 undesirable
+undesirably
 undesired
 undeterminable
 undeterred
@@ -35170,6 +35202,7 @@ unreel
 unreels
 unreeves
 unreeving
+unrefrigerated
 unregenerate
 unrelenting
 unremarkably
@@ -36115,6 +36148,7 @@ vulgarian
 vulgarised
 vulgarism
 vulgarization
+vulgarized
 vulgarly
 vulnerability
 vulnerableness
@@ -36986,6 +37020,7 @@ yeasayer
 yeasayers
 yecch
 yegg
+yelling
 yellowed
 yellowtail
 yellowthroat
