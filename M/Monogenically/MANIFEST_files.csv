@@ -1,0 +1,8 @@
+ubuntu-22.04-desktop-amd64.manifest - Ubuntu Releases,https://releases.ubuntu.com/22.04/ubuntu-22.04-desktop-amd64.manifest
+https://cdimage.ubuntu.com/ubuntu-mate/releases/im...,https://cdimage.ubuntu.com/ubuntu-mate/releases/impish/release/ubuntu-mate-21.10-desktop-amd64.manifest
+ftp.jaist.ac.jp/pub/Linux/ubuntu-cdimage/focal/dai...,http://ftp.jaist.ac.jp/pub/Linux/ubuntu-cdimage/focal/daily-live/current/focal-desktop-amd64%2Bintel-iot.manifest
+mirrors.aliyun.com/oldubuntu-releases/releases/20....,http://mirrors.aliyun.com/oldubuntu-releases/releases/20.04.0/ubuntu-20.04.1-desktop-amd64.manifest
+dotfiles/gcloud-deps.manifest at master · gyaresu/dotfiles · GitHub,https://github.com/gyaresu/dotfiles/blob/master/_bin/google-cloud-sdk/.install/.backup/.install/gcloud-deps.manifest
+ftp.uni-kl.de/pub/linux/ubuntu-dvd/ubuntukylin/dai...,http://ftp.uni-kl.de/pub/linux/ubuntu-dvd/ubuntukylin/daily-live/pending/kinetic-desktop-arm64.manifest
+https://mirror.coganng.com/ubuntu-cdimage/groovy/u...,https://mirror.coganng.com/ubuntu-cdimage/groovy/ubuntu-20.10-desktop-amd64.manifest
+https://mirrors.cloudbalkan.com/ubuntu/jammy/ubunt...,https://mirrors.cloudbalkan.com/ubuntu/jammy/ubuntu-22.04-beta-desktop-amd64.manifest
