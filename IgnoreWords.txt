@@ -903,6 +903,7 @@ ammunition
 amnesiac
 amnia
 amnio
+amniocentesis
 amnions
 amniotic
 amobarbital
@@ -1953,6 +1954,7 @@ attachment
 attackmen
 attagirl
 attain
+attainable
 attainting
 attempers
 attemptable
@@ -2472,6 +2474,7 @@ barricadoes
 barriers
 barrooms
 bartender
+bartenders
 bartending
 barterer
 bartisan
@@ -3605,6 +3608,7 @@ bottlings
 bottomland
 bottomlands
 bottommost
+botts
 botulin
 botulinal
 boubou
@@ -4098,6 +4102,7 @@ burblers
 burbliest
 burbling
 burbly
+burdeners
 burdens
 burdocks
 bureaucracy
@@ -4214,6 +4219,7 @@ byroad
 bystreet
 bytes
 bywork
+byworks
 cabal
 cabalas
 cabaletta
@@ -4803,6 +4809,7 @@ catechise
 catechismal
 catechizations
 catechized
+catechizer
 catechol
 catecholamine
 catechols
@@ -5613,6 +5620,7 @@ clashers
 clashes
 clasping
 classable
+classed
 classicalities
 classicality
 classicists
@@ -10071,6 +10079,7 @@ egocentrically
 egocentricity
 egocentrisms
 egoless
+egregiously
 egressions
 egrets
 eicosanoid
@@ -11762,6 +11771,7 @@ fiancee
 fianchettoed
 fianchettos
 fiars
+fiascos
 fibber
 fiberglassed
 fiberized
@@ -11841,6 +11851,7 @@ filling
 filliping
 fillisters
 filmable
+filmdoms
 filmed
 filmically
 filmily
@@ -13405,6 +13416,7 @@ glides
 glim
 glimed
 glimpse
+glimpsed
 glimpsing
 glint
 glintiest
@@ -13453,6 +13465,7 @@ glossolalia
 glossy
 glottic
 glottides
+glottises
 glout
 glouted
 glover
@@ -13652,6 +13665,7 @@ graduations
 graecizes
 graffitied
 graffiting
+graffito
 graftage
 grahams
 grain
@@ -14229,6 +14243,7 @@ handbarrows
 handbreadths
 handclaps
 handcrafting
+handcuffs
 handedness
 handers
 handfasts
@@ -14358,6 +14373,7 @@ hasteful
 hasten
 hasteners
 hasty
+hatable
 hatboxes
 hatchabilities
 hatchable
@@ -14613,6 +14629,7 @@ hens
 hented
 henting
 heparin
+hepatics
 hepatitis
 hepatizes
 hepatoma
@@ -15627,6 +15644,7 @@ immunotherapy
 immure
 imp
 impactful
+impacting
 impactions
 impactive
 impactor
@@ -17373,6 +17391,7 @@ kilovolts
 kiltie
 kilty
 kimchee
+kimchis
 kimono
 kinder
 kindergarteners
@@ -17423,6 +17442,7 @@ kite
 kitelike
 kites
 kiths
+kiting
 kitsch
 kitschifying
 kittel
@@ -18015,6 +18035,7 @@ lezzes
 lezzy
 liaise
 lianes
+liard
 libationary
 libecchio
 libeled
@@ -20787,6 +20808,7 @@ nanometres
 nanotube
 napalmed
 napalming
+napery
 naphtha
 naphthenes
 naphthols
@@ -22416,6 +22438,7 @@ outrebounded
 outrebounds
 outreckoning
 outrigged
+outrigger
 outrivalling
 outroared
 outrolling
@@ -23153,6 +23176,7 @@ paralysing
 paralysis
 paralytic
 paralyzers
+paralyzing
 paramagnet
 paramagnetic
 paramattas
@@ -24182,6 +24206,7 @@ pinch
 pinchbug
 pinchecks
 pinched
+pinchpenny
 pincushion
 pinelike
 pinene
@@ -27115,6 +27140,7 @@ reinsurances
 reinsures
 reintegrations
 reinters
+reintroduction
 reinvent
 reinventing
 reinvestigating
@@ -27308,6 +27334,7 @@ reopening
 reopens
 reoperate
 reordered
+reorganized
 reorientates
 reorients
 reoxidation
@@ -27589,6 +27616,7 @@ responsiveness
 responsory
 respots
 resprang
+resprouted
 resprouting
 ressentiments
 restable
@@ -28686,6 +28714,7 @@ sawbucks
 sawed
 sawfly
 sawing
+sawlog
 sawney
 saxes
 saxhorn
@@ -29784,6 +29813,7 @@ sidelining
 sidepieces
 siderolite
 siderotic
+sideshows
 sideslips
 sidestepped
 sidestrokes
@@ -32836,6 +32866,7 @@ temperas
 temperate
 tempestuous
 templars
+template
 temporalized
 temporalizing
 temporise
@@ -34934,6 +34965,7 @@ unmitre
 unmix
 unmodernized
 unmolded
+unmolten
 unmoored
 unmourned
 unmovable
@@ -35074,6 +35106,7 @@ unslick
 unslings
 unslung
 unsmiling
+unsnagged
 unsnap
 unsnapped
 unsnarling
@@ -35722,6 +35755,7 @@ vigours
 vilenesses
 vilest
 vilifiers
+villagers
 villages
 villainies
 villainousness
@@ -35748,6 +35782,7 @@ vintagers
 violable
 violableness
 violates
+violinistic
 violoncellist
 violoncellists
 violones
