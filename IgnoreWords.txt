@@ -571,6 +571,7 @@ agreements
 agribusinessman
 agribusinessmen
 agriculturists
+agrochemical
 agroforester
 agroforestries
 agrologic
@@ -2332,6 +2333,7 @@ bacterizations
 bacterize
 baddest
 badged
+badgerly
 badinages
 badman
 badmen
@@ -5771,6 +5773,7 @@ clearer
 cleareyed
 clearly
 clearwings
+cleaves
 cleistogamy
 clencher
 clenches
@@ -6185,6 +6188,7 @@ collegial
 collegiality
 collembolan
 collembolous
+collet
 collide
 collides
 colliding
@@ -6371,6 +6375,7 @@ compellable
 compelled
 compendiousness
 compensating
+compensation
 compering
 competent
 competing
@@ -6538,6 +6543,7 @@ confervae
 conferval
 confervas
 confessed
+confession
 confessionally
 confessionals
 confessor
@@ -7589,6 +7595,7 @@ cuboid
 cuckold
 cuckolding
 cuckolds
+cuckoo
 cuckooing
 cucurbit
 cud
@@ -7905,6 +7912,7 @@ daidzein
 daiker
 daikering
 daikers
+dailinesses
 dailynesses
 daimen
 daimyo
@@ -8840,6 +8848,7 @@ dialled
 diallers
 dialling
 dialog
+dialogers
 dialogically
 dialogistic
 dialogs
@@ -9690,6 +9699,7 @@ douroucouli
 douzeper
 dovecots
 dovekey
+dovekie
 dovekies
 dovening
 dovetail
@@ -9781,6 +9791,7 @@ drawbar
 drawbore
 drawee
 drawer
+drawerful
 drawknives
 draws
 drawshave
@@ -11716,6 +11727,7 @@ fangless
 fanglike
 fannies
 fanos
+fans
 fantasia
 fantasises
 fantasizers
@@ -13087,6 +13099,7 @@ fusels
 fusibility
 fusibly
 fusil
+fusiliers
 fusillades
 fusillading
 fussbudgets
@@ -13563,6 +13576,7 @@ gingelly
 ginger
 gingerbreads
 gingerroots
+gingersnap
 gingersnaps
 ginghams
 gingili
@@ -14234,6 +14248,7 @@ gudgeoning
 guerdoned
 guerdons
 gueridons
+guessable
 guesstimated
 guesstimates
 guesting
@@ -15312,6 +15327,7 @@ hoodwinker
 hoodwinkers
 hoodwinking
 hooey
+hoof
 hoofed
 hoofers
 hoofing
@@ -17520,6 +17536,7 @@ kaffiyahs
 kaftan
 kahuna
 kaiak
+kaiaks
 kaifs
 kail
 kainits
@@ -17774,6 +17791,7 @@ kirned
 kirsch
 kis
 kismat
+kissable
 kissed
 kissing
 kists
@@ -18022,6 +18040,7 @@ lanais
 lancelet
 lancelets
 lancinates
+lancinating
 landaulets
 landgraves
 landholder
@@ -20659,6 +20678,7 @@ monomeric
 monometallic
 monometallist
 monometer
+monomials
 monomorphemic
 mononucleate
 mononucleoses
@@ -21029,6 +21049,7 @@ munched
 munchies
 mundane
 mundungus
+municipalize
 municipalizes
 municipally
 municipals
@@ -23103,6 +23124,7 @@ overfamiliar
 overfamiliarity
 overfar
 overfast
+overfearing
 overfill
 overfilled
 overfish
@@ -23926,6 +23948,7 @@ pearwoods
 peasantries
 peascod
 pease
+pebbling
 peccadilloes
 peccaries
 peck
@@ -24080,6 +24103,7 @@ peopleless
 peoples
 pep
 peperomia
+peperomias
 pepino
 peponium
 pepperbox
@@ -29168,6 +29192,7 @@ sanitaries
 sanitated
 sanitised
 sanitoria
+sanjak
 sannups
 sannyasin
 sannyasis
@@ -29512,6 +29537,7 @@ scourges
 scouring
 scourings
 scoutcraft
+scouter
 scoutings
 scoutmaster
 scoutmasters
@@ -29679,6 +29705,7 @@ secludedly
 secludes
 seclusion
 seclusivenesses
+seconals
 second
 secondarily
 seconder
@@ -30996,6 +31023,7 @@ sniffly
 sniffs
 sniffy
 sniggle
+sniper
 snippet
 snippetier
 snippetiest
@@ -32078,6 +32106,7 @@ stonemason
 stonemasonry
 stones
 stonewallers
+stoneware
 stonewashed
 stoniest
 stonish
@@ -32223,6 +32252,7 @@ stringing
 stringpieces
 strings
 stringy
+strip
 striped
 stripeless
 stript
@@ -33243,6 +33273,7 @@ taillamps
 taille
 tailless
 taillights
+tailpiece
 tailplane
 tailskids
 tailslide
@@ -33685,6 +33716,7 @@ tetherballs
 tetracycline
 tetradic
 tetradynamous
+tetragons
 tetragrammaton
 tetrahedrally
 tetramer
@@ -35073,6 +35105,7 @@ ulpan
 ulpanim
 ulsters
 ultimacies
+ultimatenesses
 ultimates
 ultimogeniture
 ultraclean
@@ -35409,6 +35442,7 @@ underpropping
 underreacting
 underreport
 underreports
+underripe
 underscored
 underscores
 undersecretary
@@ -36156,6 +36190,7 @@ vagabond
 vagabondism
 vagaries
 vagile
+vaginal
 vaguer
 vagus
 vair
