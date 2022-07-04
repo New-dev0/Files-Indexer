@@ -532,6 +532,7 @@ aggregateness
 aggregating
 aggregational
 aggressed
+aggressive
 agha
 agilenesses
 agings
@@ -1035,6 +1036,7 @@ analogizing
 analogousness
 analogousnesses
 analogs
+analphabetism
 analphabets
 analyses
 analytic
@@ -1222,6 +1224,7 @@ antecessors
 anted
 antediluvian
 antefixal
+antenuptial
 antependium
 antepenultimas
 anteverts
@@ -1440,6 +1443,7 @@ aphaeretic
 aphasias
 aphasics
 aphides
+aphids
 aphis
 apholates
 aphonics
@@ -2092,6 +2096,7 @@ autarchical
 autarkies
 autarkist
 auteurs
+authentically
 authenticating
 authenticators
 authored
@@ -4464,6 +4469,7 @@ camases
 camber
 cambia
 cambiums
+cambogia
 cambogias
 cambric
 camel
@@ -5620,6 +5626,7 @@ circle
 circuit
 circuitousness
 circularised
+circularness
 circulates
 circulation
 circulator
@@ -5653,6 +5660,7 @@ cissies
 cissoid
 cist
 cistern
+cisterns
 cistron
 cistuses
 citadels
@@ -6218,6 +6226,7 @@ colorcast
 colorcasted
 colorfulness
 colorimeters
+colorimetry
 colorization
 colorize
 colorizers
@@ -9935,6 +9944,7 @@ duendes
 duennaships
 duet
 dueting
+duettist
 duffel
 dugouts
 duh
@@ -13525,6 +13535,7 @@ giftee
 gifting
 giftwrap
 gig
+gigantisms
 gigged
 giggler
 giggling
@@ -15057,6 +15068,7 @@ highlighting
 highths
 highting
 hightops
+hights
 hijab
 hijacking
 hijra
@@ -15188,6 +15200,7 @@ hologynies
 holometabolism
 holotype
 holotypic
+holozoic
 holp
 hols
 holsteins
@@ -15869,6 +15882,7 @@ imbued
 imide
 imids
 imines
+imitable
 imitate
 imitation
 imitativenesses
@@ -15888,6 +15902,7 @@ immigrant
 immigrates
 immigration
 imminently
+immingles
 immiscible
 immitigable
 immitigably
@@ -16470,6 +16485,7 @@ ingulfing
 ingurgitate
 inhabit
 inhabitable
+inhabitancy
 inhalers
 inharmonious
 inharmony
@@ -16975,6 +16991,7 @@ invigilation
 invigilators
 invigorates
 invigoration
+invincibly
 inviolable
 invirile
 inviscid
@@ -17339,6 +17356,7 @@ jiff
 jigger
 jiggered
 jigglier
+jiggliest
 jiggling
 jigsawing
 jihad
@@ -19216,6 +19234,7 @@ manginess
 mangled
 mangler
 mango
+mangoes
 mangold
 mangosteen
 manhunt
@@ -20244,6 +20263,7 @@ misclassify
 miscodes
 miscoin
 miscolored
+misconceive
 misconduct
 misconducts
 misconnection
@@ -21485,6 +21505,7 @@ newt
 newwavers
 niacinamides
 nibble
+nibbled
 niblick
 niccolites
 nice
@@ -23755,6 +23776,7 @@ parvenue
 parvenus
 parvis
 parvolin
+paseo
 pasha
 pashalik
 pasquil
@@ -24873,6 +24895,7 @@ plasmatic
 plasmogamy
 plasmoid
 plasmolysis
+plasmolytic
 plasmons
 plaster
 plasticene
@@ -26684,6 +26707,7 @@ quietudes
 quietuses
 quillais
 quillback
+quillwork
 quillworts
 quilting
 quinaries
@@ -27306,6 +27330,7 @@ recuperated
 recurred
 recursion
 recursions
+recusals
 recusants
 recused
 recut
@@ -27450,6 +27475,7 @@ reescalation
 reescalations
 reestablish
 reestablishment
+reesting
 reeve
 reeving
 reexamine
@@ -27491,6 +27517,7 @@ reflating
 reflations
 reflectorized
 reflectors
+reflet
 reflexions
 reflexively
 reflexivenesses
@@ -28959,6 +28986,7 @@ sackbuts
 sackcloths
 sacralizing
 sacrificers
+sacrificially
 sacrilege
 sacrosanctities
 sacrums
@@ -29560,6 +29588,7 @@ scroungy
 scrubwoman
 scruffy
 scrunch
+scrupulosity
 scrutinise
 scrutinises
 scrying
@@ -32959,6 +32988,7 @@ swarmer
 swartness
 swashbuckled
 swashbuckler
+swashed
 swathers
 swaybacks
 swayers
@@ -33691,6 +33721,7 @@ thankworthy
 that
 thatching
 thaumaturgies
+thaw
 thawer
 thawless
 thearchies
@@ -34490,6 +34521,7 @@ treasuries
 treasuring
 treasury
 treatises
+treatments
 treaty
 trebled
 trebling
@@ -34534,6 +34566,7 @@ triangle
 triangles
 triangulated
 triangulation
+triangulations
 triarchies
 triathletes
 triaxial
@@ -34623,6 +34656,7 @@ trilobal
 trilobed
 trilogies
 trim
+trimer
 trimers
 trimetric
 trimmer
@@ -36135,6 +36169,7 @@ validating
 valises
 valleculae
 valonia
+valor
 valorise
 valorising
 valorizations
