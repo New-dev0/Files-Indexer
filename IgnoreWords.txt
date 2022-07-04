@@ -1260,6 +1260,7 @@ antidepressant
 antidogmatic
 antidotal
 antidraft
+antielectron
 antiemetics
 antiepilepsy
 antiepileptics
@@ -1932,6 +1933,7 @@ ataractic
 ataraxics
 ataraxy
 ataxias
+ate
 atelectasis
 atemporal
 atenolol
@@ -6452,6 +6454,7 @@ concreting
 concretisms
 concretists
 concretize
+concupiscence
 concupiscences
 concurred
 concurrent
@@ -6541,6 +6544,7 @@ congealed
 congealer
 congealing
 congealments
+congeals
 congelation
 congenial
 congest
@@ -7888,6 +7892,7 @@ damnably
 damosel
 damosels
 damozels
+damp
 damped
 dampener
 dampening
@@ -9349,6 +9354,7 @@ dissimilitudes
 dissimulation
 dissimulators
 dissipate
+dissipations
 dissociability
 dissociable
 dissocial
@@ -15829,6 +15835,7 @@ immobile
 immobilisms
 immobilizations
 immobilize
+immoderation
 immodest
 immodesty
 immolate
@@ -16116,6 +16123,7 @@ inconsiderate
 inconsistencies
 inconsonances
 inconsonant
+inconspicuously
 inconstancy
 incontinent
 inconvenience
@@ -17007,6 +17015,7 @@ isarithm
 isatin
 isatines
 ischaemia
+ischaemias
 ischemia
 ischemic
 ischia
@@ -17739,6 +17748,7 @@ knuckleballs
 knucklier
 knurl
 knurled
+knurlier
 koine
 kola
 kolbasis
@@ -19252,6 +19262,7 @@ marmites
 marplot
 marplots
 marque
+marquetries
 marquisate
 marquisates
 marquises
@@ -19357,6 +19368,7 @@ mathematized
 mathematizes
 matilda
 matriarchs
+matrices
 matriculant
 matriculates
 matriculating
@@ -19440,6 +19452,7 @@ measly
 measurements
 measures
 meatier
+meatless
 meatmen
 meats
 meaty
@@ -19596,6 +19609,7 @@ menazon
 menazons
 mend
 mendelevium
+mendicants
 menhaden
 menhir
 meninges
@@ -21850,6 +21864,7 @@ northers
 northing
 northwest
 northwester
+nortriptylines
 nos
 nosebag
 nosed
@@ -22984,6 +22999,7 @@ overgilding
 overgilds
 overglamorize
 overglaze
+overgoads
 overgrazed
 overgreat
 overgrown
@@ -23209,6 +23225,7 @@ oxidizers
 oximes
 oximetry
 oxims
+oxlips
 oxpeckers
 oxters
 oxy
@@ -24130,6 +24147,7 @@ pessaries
 pessary
 pessimisms
 pest
+pesterer
 pestering
 pesticides
 pestiferous
@@ -24158,6 +24176,7 @@ petnaping
 petnapper
 petrale
 petrels
+petrifaction
 petrifier
 petrifying
 petrochemicals
@@ -24596,6 +24615,7 @@ pintsized
 pinwheel
 pinworms
 piny
+piolet
 piolets
 pion
 piosity
@@ -25826,6 +25846,7 @@ procreating
 procreator
 procrustean
 procryptic
+proctitises
 proctologies
 proctored
 proctors
@@ -29276,6 +29297,7 @@ schusser
 schwa
 sciatica
 sciaticas
+sciences
 sciential
 scientism
 scientisms
@@ -30665,6 +30687,7 @@ sluggishness
 sluice
 sluicing
 sluicy
+slumbered
 slumbering
 slumberous
 slumgullions
@@ -30827,6 +30850,7 @@ snoozles
 snore
 snored
 snort
+snorted
 snorting
 snottily
 snowbanks
@@ -31897,6 +31921,7 @@ stoppled
 stopwatch
 storekeeper
 storerooms
+storeships
 storksbills
 stormier
 story
@@ -32485,10 +32510,12 @@ summerwood
 summerwoods
 summiteer
 summoned
+summoners
 sumps
 sumpters
 sumptuous
 sunbaths
+sunbird
 sunblock
 sunbonnets
 sunburned
@@ -32538,6 +32565,7 @@ superbombers
 superbright
 supercabinets
 supercargoes
+supercars
 supercharger
 supercharges
 supercilious
@@ -33074,6 +33102,7 @@ talmudisms
 taloned
 talons
 taluk
+taluses
 tamable
 tamarind
 tamarinds
@@ -33255,6 +33284,7 @@ technologized
 technophiles
 technopop
 tectites
+tectonics
 teddered
 tedders
 teddy
@@ -33601,6 +33631,7 @@ thionate
 thionine
 thioridazine
 thiotepas
+thioureas
 thirams
 thirst
 thirster
@@ -34493,6 +34524,7 @@ trochanters
 trochar
 trochilus
 trochleas
+trochophore
 trocked
 trocking
 troilism
@@ -35206,6 +35238,7 @@ undertrick
 underuse
 underused
 undervests
+underwater
 underweights
 underwhelmed
 underwhelms
@@ -35270,6 +35303,7 @@ unentered
 unescapable
 unessential
 unestablished
+unevaded
 unevener
 unevenly
 uneventful
@@ -36687,6 +36721,7 @@ waterweed
 wattled
 wattles
 wattless
+wattmeters
 watts
 wauchted
 wauchting
