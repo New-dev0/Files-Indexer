@@ -227,6 +227,7 @@ acquiescences
 acquiescing
 acquired
 acquirement
+acquirer
 acquisitive
 acquittance
 acred
@@ -3203,6 +3204,7 @@ biquadratic
 biradial
 biradical
 biradicals
+birched
 bird
 birdbath
 birdbrain
@@ -4426,6 +4428,7 @@ califates
 californiums
 caliginous
 calipee
+calipees
 caliph
 caliphal
 calix
@@ -5175,6 +5178,7 @@ chanciest
 chancinesses
 chancres
 chancroid
+chandelier
 chandelled
 chandlers
 chang
@@ -5223,6 +5227,7 @@ charked
 charladies
 charlatanry
 charley
+charlotte
 charmed
 charmeuse
 charmeuses
@@ -7219,6 +7224,7 @@ covalent
 covariance
 coved
 covenantors
+cover
 coverage
 covering
 coves
@@ -7840,6 +7846,7 @@ cyclopes
 cyclopropane
 cyclorama
 cyclosporine
+cyclosporines
 cyclostyled
 cyclotron
 cyeses
@@ -8142,6 +8149,7 @@ decelerated
 decelerations
 deceleron
 decemvirate
+decemvirates
 decennials
 decenniums
 decenter
@@ -9620,6 +9628,7 @@ domains
 dome
 domelike
 domes
+domestic
 domestications
 domestics
 domically
@@ -10535,6 +10544,7 @@ empales
 empanel
 empaneled
 empanelling
+empanels
 empathizing
 empennages
 emperor
@@ -12642,6 +12652,7 @@ foppishly
 fora
 forays
 forbear
+forbearance
 forbearing
 forbears
 forbids
@@ -13135,6 +13146,7 @@ fusil
 fusiliers
 fusillades
 fusillading
+fusionists
 fussbudgets
 fussily
 fustics
@@ -13362,6 +13374,7 @@ gauchest
 gaucho
 gauchos
 gaudier
+gaudily
 gauffered
 gauffers
 gauges
@@ -14758,6 +14771,7 @@ hays
 hazanim
 hazarders
 hazardousness
+hazelhen
 hazier
 haziest
 haziness
@@ -15989,6 +16003,7 @@ immortally
 immovables
 immunises
 immunoblots
+immunoblotting
 immunochemical
 immunochemistry
 immunodeficient
@@ -17296,6 +17311,7 @@ jaguarondis
 jailing
 jalap
 jalapenos
+jaloppy
 jalops
 jam
 jambalaya
@@ -21267,6 +21283,7 @@ nabobisms
 nacho
 nacre
 nada
+nadirs
 nae
 naevi
 nagged
@@ -23365,6 +23382,7 @@ overtnesses
 overtoiled
 overtop
 overtrain
+overtrimming
 overturn
 overuse
 overusing
@@ -23910,6 +23928,7 @@ paten
 patentabilities
 patentability
 paternalistic
+paternoster
 path
 pathetically
 pathognomonic
@@ -24560,6 +24579,7 @@ photofinisher
 photofinishings
 photog
 photogeologic
+photogeologist
 photogrammetry
 photographic
 photographs
@@ -24598,6 +24618,7 @@ phrasemaker
 phrasemakers
 phrasemongering
 phreaker
+phreakers
 phreatophytic
 phthalate
 phthalocyanine
@@ -24747,6 +24768,7 @@ pigskins
 pigsney
 pigtailed
 pigweeds
+pikemen
 pikers
 pikes
 pikestaff
@@ -24979,6 +25001,7 @@ plasmogamy
 plasmoid
 plasmolysis
 plasmolytic
+plasmolyzing
 plasmons
 plaster
 plasticene
@@ -25386,6 +25409,7 @@ posada
 posed
 poseurs
 poshness
+poshnesses
 posing
 posingly
 posited
@@ -26142,6 +26166,7 @@ prolific
 prolixities
 prolixity
 prologize
+prologized
 prologues
 prolongation
 prolongations
@@ -27200,6 +27225,7 @@ reassailing
 reassails
 reassembles
 reassembling
+reassembly
 reasserted
 reassertions
 reassignments
@@ -28759,6 +28785,7 @@ roadworks
 roadworthiness
 roam
 roamer
+roamers
 roar
 roaster
 roasts
@@ -28964,6 +28991,7 @@ ruddled
 ruddlemen
 ruddles
 rudds
+rudenesses
 rudery
 rudesbies
 rudiment
@@ -29239,6 +29267,7 @@ sandbaggers
 sandbagging
 sandbags
 sandblasted
+sandblasting
 sanders
 sandglasses
 sandhog
@@ -30137,6 +30166,7 @@ sextant
 sextile
 sexto
 sextodecimo
+sextos
 sexual
 sexuality
 sexualizes
@@ -30887,6 +30917,7 @@ slingshot
 slingshots
 slink
 slinkier
+slinking
 slip
 sliped
 slipes
@@ -31977,6 +32008,7 @@ statives
 statocysts
 statuesque
 statuesquely
+statusy
 statutable
 statutory
 staunched
@@ -32793,6 +32825,7 @@ summands
 summarises
 summarist
 summarizable
+summarized
 summarizer
 summarizers
 summating
@@ -33471,6 +33504,7 @@ tapers
 tapestried
 tapestries
 tapetal
+taphonomic
 tapiocas
 tapir
 tapper
@@ -36616,6 +36650,7 @@ vicissitudinous
 victims
 victor
 victorias
+victoriously
 victualed
 vicunas
 vid
