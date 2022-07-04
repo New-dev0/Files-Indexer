@@ -68,6 +68,7 @@ abstracting
 abstractionist
 abstractionists
 abstractions
+abstractnesses
 abstractor
 abstractors
 abstruseness
@@ -4249,6 +4250,7 @@ buttering
 butterless
 butterwort
 buttheads
+butting
 buttinskies
 buttonballs
 buttonbush
@@ -9341,6 +9343,7 @@ disrepute
 disreputes
 disrobe
 disrobed
+disroots
 disrupt
 disrupters
 disruptively
@@ -11474,6 +11477,7 @@ exstrophies
 exstrophy
 extemporally
 extemporaneity
+extemporarily
 extend
 extendabilities
 extendednesses
@@ -13252,6 +13256,7 @@ gasogene
 gasogenes
 gasohol
 gasometer
+gasp
 gasps
 gassiest
 gassinesses
@@ -13370,6 +13375,7 @@ generous
 generousnesses
 genesis
 genetical
+genetically
 geniality
 genip
 genitalic
@@ -15008,6 +15014,7 @@ hiddennesses
 hidebound
 hideously
 hideousnesses
+hideout
 hidings
 hidrosis
 hieroglyphic
@@ -15034,6 +15041,7 @@ hilarity
 hillbilly
 hilled
 hillinesses
+hilloaing
 hilloas
 hillos
 hillslope
@@ -15086,6 +15094,7 @@ hoarders
 hoardings
 hoariness
 hoars
+hoarsened
 hoarsening
 hoarsens
 hoarsest
@@ -15217,6 +15226,7 @@ homoousians
 homophobes
 homophobia
 homoplasy
+homosex
 homosexual
 homosexually
 homosocialities
@@ -16922,6 +16932,7 @@ inversed
 invertase
 invertases
 invertebrates
+inverting
 invertor
 invest
 investigations
@@ -19175,6 +19186,7 @@ mango
 mangold
 mangosteen
 manhunt
+manhunts
 maniac
 manic
 manicured
@@ -19584,6 +19596,7 @@ megillahs
 megs
 meiny
 melamed
+melancholia
 melancholiacs
 melanian
 melanist
@@ -21786,6 +21799,7 @@ nonnatural
 nonnecessities
 nonnoble
 nonnovel
+nonobjective
 nonobjectivism
 nonobscene
 nonobvious
@@ -21993,6 +22007,7 @@ nudie
 nudists
 nudities
 nudzhed
+nuked
 nukes
 null
 nulling
@@ -22423,6 +22438,7 @@ oppositely
 oppositeness
 oppositions
 opprobrious
+opprobriums
 oppugn
 oppugnant
 oppugning
@@ -23468,6 +23484,7 @@ pandying
 panegyric
 panegyrist
 panel
+paneling
 panelled
 panellings
 panetelas
@@ -23826,6 +23843,7 @@ peafowl
 peag
 peags
 peahen
+peakedness
 peakiest
 peakless
 peaky
@@ -24114,6 +24132,7 @@ permeate
 permian
 permillages
 permitter
+permitting
 permutational
 permuting
 perniciousness
@@ -25152,6 +25171,7 @@ pontificating
 pontoon
 ponying
 ponytail
+poofter
 pooler
 poolhall
 poolhalls
@@ -29169,6 +29189,7 @@ sauerbraten
 saul
 saunaed
 saunters
+saurischian
 saurischians
 sauropods
 saury
@@ -30000,6 +30021,7 @@ sharifs
 sharklike
 sharpers
 sharpest
+sharpie
 sharpies
 sharpy
 shat
@@ -30101,6 +30123,7 @@ shindys
 shiners
 shingle
 shingles
+shiniest
 shinily
 shininesses
 shinleaf
@@ -30802,6 +30825,7 @@ smite
 smiter
 smitheries
 smithies
+smiths
 smockings
 smocks
 smogless
@@ -30831,6 +30855,7 @@ smuggles
 smutchier
 smuts
 smuttier
+smuttiest
 snacker
 snackers
 snacks
@@ -30892,6 +30917,7 @@ snippiest
 snitcher
 sniveling
 snivellers
+snobbery
 snooded
 snooker
 snookering
@@ -31633,6 +31659,7 @@ stablenesses
 stables
 stablings
 stablish
+stablishing
 stablishments
 stacked
 stacking
@@ -32842,6 +32869,7 @@ sveltenesses
 svelter
 swabbie
 swabbies
+swabby
 swacked
 swag
 swagers
@@ -33567,6 +33595,7 @@ tetrahedrally
 tetramer
 tetrameters
 tetrapod
+tetrapods
 tetrarchic
 tetraspores
 tetrazoliums
@@ -33595,6 +33624,7 @@ thankfully
 thankfulness
 thankworthy
 that
+thatching
 thaumaturgies
 thawer
 thawless
@@ -33668,6 +33698,7 @@ thewiest
 they
 thiamine
 thiazole
+thick
 thickenings
 thicker
 thickhead
@@ -34005,6 +34036,7 @@ toluate
 toluenes
 toluides
 toluids
+toluol
 toluole
 toluyls
 tomahawked
@@ -34250,6 +34282,7 @@ trainways
 traipse
 traipsing
 trait
+traitorously
 traitors
 traject
 trajection
@@ -37200,6 +37233,7 @@ womanises
 womanish
 womanishness
 womanize
+womanliest
 womanlike
 womanliness
 womans
@@ -37617,6 +37651,7 @@ zincky
 zincy
 zine
 zingano
+zingara
 zinged
 zings
 zingy
