@@ -1117,6 +1117,7 @@ angiogram
 angiosperm
 angle
 angler
+angleworm
 angleworms
 anglice
 anglicism
@@ -1166,6 +1167,7 @@ anisometropias
 anisotropically
 ankh
 anklet
+ankus
 ankylosaurs
 ankylosauruses
 ankylose
@@ -1331,6 +1333,7 @@ antinarrative
 antinationalist
 antinepotism
 antineutrons
+antinodal
 antinodes
 antinomian
 antinomianism
@@ -1933,6 +1936,7 @@ astonishments
 astrachan
 astraddle
 astragal
+astrally
 astray
 astringent
 astringing
@@ -2455,6 +2459,7 @@ banishments
 banister
 banjaxed
 banjaxes
+bankbook
 bankrolled
 bankrupting
 banks
@@ -3827,6 +3832,7 @@ brandished
 brandlings
 brandying
 brannigan
+brantails
 bras
 brasher
 brashnesses
@@ -6318,6 +6324,7 @@ comforts
 comical
 comicality
 comitial
+comities
 commandants
 commanding
 commando
@@ -6924,6 +6931,7 @@ copay
 cope
 copeck
 coped
+copen
 copers
 copes
 copihue
@@ -7606,6 +7614,7 @@ cryptarithm
 cryptically
 cryptococci
 cryptococcosis
+cryptological
 cryptologies
 cryptorchid
 cryptorchidisms
@@ -7627,6 +7636,7 @@ cubed
 cubical
 cubicities
 cuboid
+cuboidal
 cuckold
 cuckolding
 cuckolds
@@ -8254,6 +8264,7 @@ decrepitate
 decrepitating
 decrescent
 decrials
+decried
 decriminalized
 decriminalizing
 decryptions
@@ -9718,6 +9729,7 @@ dossals
 dosshouses
 dossil
 dotage
+dotard
 dotation
 doters
 dotingly
@@ -10590,6 +10602,7 @@ emulators
 emulous
 emyds
 enabled
+enables
 enabling
 enacted
 enactment
@@ -10794,6 +10807,7 @@ enrooting
 enroots
 ens
 ensanguines
+enscrolled
 enscrolling
 ensemble
 enserfed
@@ -12031,6 +12045,7 @@ fertilizes
 ferula
 ferulas
 feruled
+fesswise
 festally
 festiveness
 festoonery
@@ -13279,6 +13294,7 @@ galyac
 galyak
 gambesons
 gambier
+gambles
 gambling
 gambolled
 gambusia
@@ -15670,6 +15686,7 @@ hybristic
 hydathodes
 hydralazines
 hydranths
+hydras
 hydrastis
 hydrate
 hydrator
@@ -16286,6 +16303,7 @@ incommensurably
 incommensurate
 incommoded
 incommoding
+incompact
 incomparable
 incompatibility
 incompatible
@@ -18286,6 +18304,7 @@ lawgivings
 lawlike
 lawmaker
 lawmaking
+lawny
 lawsuit
 lawyering
 laxative
@@ -21241,6 +21260,7 @@ mutined
 mutineering
 mutineers
 mutinies
+mutinousnesses
 mutiny
 mutinying
 mutt
@@ -21528,6 +21548,7 @@ neomorphs
 neonatologies
 neonatology
 neoned
+neophilia
 neophyte
 neophytes
 neoplastic
@@ -22029,6 +22050,7 @@ nonrefillable
 nonreflecting
 nonrelativistic
 nonrenewable
+nonresidence
 nonrespondents
 nonresponse
 nonretractile
@@ -24161,6 +24183,7 @@ pen
 penal
 penalise
 penalized
+penalizes
 penalty
 pencel
 pencels
@@ -24208,6 +24231,7 @@ pentamidines
 pentangle
 pentangles
 pentaploids
+pentathlete
 pentathlon
 penthouses
 pentlandites
@@ -29331,6 +29355,7 @@ sanding
 sandlings
 sandlot
 sandpapery
+sandpeeps
 sandpit
 sands
 sandstones
@@ -29446,6 +29471,7 @@ satyrlike
 satyrs
 saucepan
 saucepot
+saucepots
 saucers
 saucier
 sauciers
@@ -30712,6 +30738,7 @@ simulant
 simulated
 simulations
 simulator
+simulcasted
 simulcasts
 simultaneity
 simultaneous
@@ -30830,6 +30857,7 @@ skiddiest
 skidding
 skiddoo
 skiddoos
+skiddy
 skidoo
 skidproof
 skids
@@ -30930,6 +30958,7 @@ slavocracy
 slavocrats
 slaw
 slayable
+slaying
 slays
 sleazebag
 sleazes
@@ -31958,11 +31987,13 @@ stablishments
 stacked
 stacking
 stacks
+stackups
 stactes
 stadium
 stadtholder
 staffing
 stagecoach
+stagecoaches
 stagehand
 stages
 stagey
@@ -32558,6 +32589,7 @@ subcenters
 subchapters
 subclans
 subclassify
+subclause
 subclerk
 subclusters
 subcode
@@ -37650,6 +37682,7 @@ workbenches
 workbox
 workboxes
 workday
+workdays
 worked
 workfares
 workflow
@@ -37690,6 +37723,7 @@ worthinesses
 worthlessly
 worths
 worthwhileness
+worthy
 wots
 wotting
 wounded
@@ -37833,6 +37867,7 @@ yardstick
 yare
 yarmelke
 yarmelkes
+yarning
 yarrows
 yashmac
 yashmak
