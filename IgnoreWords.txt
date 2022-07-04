@@ -224,6 +224,7 @@ acock
 acquaint
 acquiesce
 acquiescences
+acquiescing
 acquired
 acquirement
 acquisitive
@@ -1800,6 +1801,7 @@ ascarides
 ascarids
 ascendancy
 ascendants
+ascendence
 ascenders
 ascendible
 ascent
@@ -1836,6 +1838,7 @@ aspartate
 aspartates
 aspect
 aspen
+aspergilla
 asperity
 asperses
 aspersors
@@ -7154,6 +7157,7 @@ counterplays
 counterplot
 counterpointing
 counterpoising
+counterpose
 counterposed
 counterpowers
 counterprojects
@@ -11576,6 +11580,7 @@ extremum
 extrications
 extrinsic
 extrinsically
+extrudabilities
 extruders
 extrusions
 extrusive
@@ -12257,6 +12262,7 @@ flambes
 flamboyances
 flamelike
 flamens
+flameproofed
 flamier
 flamiest
 flammabilities
@@ -12412,6 +12418,7 @@ florid
 floridness
 floruits
 flossie
+flotation
 flotations
 flotillas
 flouncier
@@ -12973,6 +12980,7 @@ fruiting
 fruition
 fruitlessnesses
 frumpiest
+frusta
 frustules
 fryable
 frybread
@@ -13589,6 +13597,7 @@ ginned
 ginner
 ginners
 ginnier
+ginzo
 gipper
 giraffe
 giraffes
@@ -13947,6 +13956,7 @@ gramaries
 gramercies
 gramineous
 gramma
+grammarian
 grammarians
 grammaticality
 grammatically
@@ -14062,6 +14072,7 @@ grecizes
 grecizing
 greed
 greedily
+greedsome
 greedy
 greek
 greenbacker
@@ -14267,6 +14278,7 @@ guiles
 guillemet
 guilt
 guiltless
+guilty
 guimpes
 guineas
 guipures
@@ -16929,6 +16941,7 @@ intransigent
 intransigents
 intraocular
 intrapersonal
+intrastate
 intreat
 intrenching
 intrepidity
@@ -18241,6 +18254,7 @@ leakinesses
 leaned
 leanest
 leaning
+leanly
 leans
 leant
 leaped
@@ -18277,6 +18291,7 @@ leewardly
 leeway
 leeways
 left
+lefter
 leftisms
 leg
 legal
@@ -18760,6 +18775,7 @@ lognormal
 lognormality
 logogrammatic
 logographically
+logomachy
 logotypies
 logotypy
 logrolled
@@ -18887,6 +18903,7 @@ lovelocks
 lovemaking
 lovemakings
 lovesicknesses
+lowballed
 lowballing
 lowbred
 lowdowns
@@ -20047,6 +20064,7 @@ midship
 midshipmen
 midsized
 midsole
+midspace
 midsummers
 midtowns
 midwife
@@ -21364,6 +21382,7 @@ necrologist
 necrology
 necromancy
 necromantic
+necrophiliacs
 necropoleis
 necrose
 necrosing
@@ -21563,6 +21582,7 @@ nieve
 niffering
 niftily
 niggarding
+niggardliness
 nigglers
 nighest
 nighs
@@ -22488,6 +22508,7 @@ operationalists
 operationisms
 operative
 operativenesses
+operatives
 opercula
 opercular
 opercules
@@ -22728,6 +22749,7 @@ ourself
 outachieves
 outacting
 outadd
+outages
 outarguing
 outasked
 outbacks
@@ -23466,6 +23488,7 @@ painterly
 paintier
 pairings
 paisas
+paisley
 pajama
 pajamaed
 pakeha
@@ -26575,6 +26598,7 @@ pyridoxamine
 pyridoxin
 pyridoxines
 pyritic
+pyritical
 pyro
 pyroclastic
 pyrogenic
@@ -26753,6 +26777,7 @@ quintins
 quints
 quintuple
 quintuplet
+quintuplicate
 quippiest
 quipster
 quire
@@ -26960,6 +26985,7 @@ rapidities
 rapids
 rapini
 rapists
+rappel
 rappeling
 rappels
 rappen
@@ -27311,6 +27337,7 @@ recontacts
 recontaminates
 recontouring
 reconverts
+reconveys
 reconvicted
 reconvicting
 reconvictions
@@ -29098,6 +29125,7 @@ sallowest
 sallownesses
 sally
 salmagundis
+salmi
 salmonberry
 salmonellae
 salmonellosis
@@ -31375,6 +31403,7 @@ spancelled
 spancelling
 spangle
 spangles
+spaniel
 spanked
 spankings
 spanokopita
@@ -32286,6 +32315,7 @@ structuralisms
 structuration
 structure
 structureless
+strudel
 struggled
 struggles
 strummer
@@ -32808,6 +32838,7 @@ superhelix
 superhighway
 superhits
 superhumanities
+superimposable
 superimposition
 superinduces
 superinduction
@@ -34055,6 +34086,7 @@ tinkled
 tinkler
 tinner
 tinniest
+tinning
 tinseling
 tinselling
 tint
@@ -34256,6 +34288,7 @@ toreadors
 tores
 torics
 tories
+tormentors
 torments
 tornado
 toro
@@ -34330,6 +34363,7 @@ touses
 touting
 touts
 tovarich
+tovarish
 towelette
 towelettes
 towelling
@@ -37673,6 +37707,7 @@ yielding
 yipes
 yippies
 yipping
+yird
 yirr
 ylems
 yob
