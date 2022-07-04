@@ -439,6 +439,7 @@ aerophobe
 aerophobes
 aerosolizing
 aesthesia
+aesthetes
 aestheticism
 aestivating
 aethereal
@@ -599,6 +600,7 @@ airpowers
 airproofing
 airshed
 airsheds
+airshot
 airshows
 airspace
 airstrikes
@@ -1035,6 +1037,7 @@ analyses
 analytic
 analytical
 analyzations
+anamnesis
 ananke
 anankes
 anaphor
@@ -1349,6 +1352,7 @@ antiquated
 antiquations
 antiquely
 antiquing
+antiquities
 antiquity
 antirachitic
 antiracisms
@@ -2564,6 +2568,7 @@ baster
 bastinade
 bastinado
 bastinadoed
+bastioned
 bastions
 bat
 batcher
@@ -2776,6 +2781,7 @@ befuddle
 befuddlement
 beg
 begat
+begets
 beggaries
 beggarly
 begin
@@ -3181,6 +3187,7 @@ bipolarizing
 biquadratic
 biradial
 biradical
+biradicals
 bird
 birdbath
 birdbrain
@@ -4429,6 +4436,7 @@ calomel
 calorically
 calorimeters
 calorimetry
+calory
 calos
 calottes
 calpac
@@ -4641,6 +4649,7 @@ carabin
 carabines
 carabiniers
 caracaras
+caracoling
 caracolling
 caramel
 carangoid
@@ -6518,6 +6527,7 @@ confervas
 confessed
 confessionally
 confessionals
+confessor
 confessors
 confidantes
 confident
@@ -7984,6 +7994,7 @@ dawdled
 dawning
 dawsonite
 dawt
+dawted
 day
 daycares
 daydreamed
@@ -12733,6 +12744,7 @@ fountaining
 fourdrinier
 fourgons
 fourplex
+fourplexes
 fourragere
 fourteener
 fourteeners
@@ -17619,6 +17631,7 @@ keynoted
 keynotes
 keypad
 keypunches
+keypunching
 keysters
 keyword
 khaddar
@@ -18258,6 +18271,7 @@ lek
 lekvar
 lekythos
 lekythus
+lemmatizing
 lemminglike
 lemonish
 lemurine
@@ -18332,6 +18346,7 @@ levitates
 levulose
 levying
 lewd
+lewises
 lewisson
 lewissons
 lexes
@@ -18495,6 +18510,7 @@ linguistical
 linguists
 lingy
 linier
+linkman
 linkmen
 links
 linkups
@@ -19352,6 +19368,7 @@ masher
 mashgichim
 masjids
 masker
+masklike
 masochistically
 masoned
 masquerading
@@ -22434,6 +22451,7 @@ opportunely
 opportunenesses
 opportunistic
 opposabilities
+opposite
 oppositely
 oppositeness
 oppositions
@@ -22471,6 +22489,7 @@ oral
 orangeade
 orangerie
 oratress
+orb
 orbicularly
 orbit
 orbs
@@ -22749,6 +22768,7 @@ outguides
 outhandles
 outhaul
 outhearing
+outhears
 outhits
 outhomering
 outhowled
@@ -25420,6 +25440,7 @@ prayerfulness
 preabsorb
 preabsorbing
 preaccuse
+preached
 preacher
 preachified
 preachifying
@@ -25438,6 +25459,7 @@ preaged
 preallots
 preallotting
 prealter
+prealtering
 preamplifier
 preanal
 preapplied
@@ -27010,6 +27032,7 @@ reaped
 reaping
 reappearing
 reapplications
+reapplied
 reapply
 reappointing
 reappointments
@@ -28274,6 +28297,7 @@ reuses
 reutilizations
 reutilizes
 reutter
+reuttered
 revaccinate
 revaccinating
 revalidated
@@ -28986,6 +29010,7 @@ saliently
 salients
 salifying
 salina
+salinizations
 salinizing
 saliva
 salivator
@@ -29086,6 +29111,7 @@ sangh
 sanghs
 sanguinarias
 sanidines
+sanitaries
 sanitated
 sanitised
 sanitoria
@@ -29268,6 +29294,7 @@ scandalous
 scandalousness
 scandium
 scansion
+scansions
 scant
 scanted
 scanties
@@ -29682,6 +29709,7 @@ seismometers
 seisms
 seizers
 selcouth
+select
 selective
 selectiveness
 selectivities
@@ -29956,6 +29984,7 @@ sexualizes
 sexually
 sexy
 sforzandi
+sforzandos
 sha
 shacklers
 shackoes
@@ -30199,6 +30228,7 @@ shooks
 shooled
 shooling
 shools
+shootdown
 shootout
 shoots
 shop
@@ -30656,6 +30686,7 @@ slays
 sleazebag
 sleazes
 sleazo
+sledding
 sleek
 sleekened
 sleekness
@@ -31009,6 +31040,7 @@ societally
 society
 socioeconomic
 sociogram
+sociohistorical
 sociolinguistic
 sociologists
 sociometry
@@ -31817,6 +31849,7 @@ steepened
 steepening
 steepens
 steepest
+steeplebush
 steeplechase
 steeplechaser
 steepled
@@ -36671,6 +36704,7 @@ wagers
 wages
 waggery
 wagonages
+wagonload
 wagons
 wags
 waifs
@@ -37042,6 +37076,7 @@ whodunits
 whodunnit
 wholesaled
 wholesome
+whomped
 whomping
 whomsoever
 whoofing
