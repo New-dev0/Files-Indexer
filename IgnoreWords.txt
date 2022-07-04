@@ -1914,6 +1914,7 @@ assumers
 assuming
 assumpsit
 assumption
+assumptions
 assurable
 assures
 assuror
@@ -2037,6 +2038,7 @@ attorneyships
 attornments
 attract
 attractants
+attributional
 attributions
 attrit
 attrite
@@ -2346,6 +2348,7 @@ bacteriurias
 bacterizations
 bacterize
 baddest
+baddie
 badged
 badgerly
 badinages
@@ -2610,6 +2613,7 @@ bathless
 bathmat
 bathmats
 batholiths
+bathos
 bathrobes
 bathroom
 bathyal
@@ -2927,6 +2931,7 @@ benzocaines
 benzoic
 benzole
 benzoles
+benzophenone
 bepainting
 bepaints
 berated
@@ -3657,6 +3662,7 @@ bootlickers
 booty
 booze
 boozily
+booziness
 bop
 bopeep
 bopper
@@ -4031,6 +4037,7 @@ brosy
 brotherhoods
 broths
 brouhaha
+browallias
 browband
 browbeats
 browed
@@ -8321,6 +8328,7 @@ defencing
 defendable
 defendants
 defender
+defenestration
 defenestrations
 defensed
 defenseless
@@ -9326,6 +9334,7 @@ disgracefulness
 disgruntle
 disgruntlement
 disgruntling
+disguiser
 disgust
 disgustful
 dishabille
@@ -9454,6 +9463,7 @@ disruptively
 disruptor
 disruptors
 dissaves
+dissect
 dissed
 disseisee
 disseize
@@ -10312,6 +10322,7 @@ eerily
 effacing
 effect
 effector
+effectualness
 effectuating
 effectuation
 effectuations
@@ -11017,6 +11028,7 @@ episcopally
 episcopate
 epistemological
 epistemology
+epistle
 epistolary
 epistyles
 epitaxially
@@ -11277,6 +11289,7 @@ eugeosyncline
 euglenid
 euglenids
 euglobulin
+eukaryote
 eukaryotes
 eukaryotic
 eulachan
@@ -12275,6 +12288,7 @@ fisheye
 fisheyes
 fishhook
 fishhooks
+fishily
 fishings
 fishmeal
 fishmeals
@@ -12374,6 +12388,7 @@ flask
 flasks
 flatcar
 flatfoots
+flatlands
 flatliners
 flatlong
 flattens
@@ -12424,6 +12439,7 @@ fleshly
 fleshpot
 fleuron
 flexagon
+flextimer
 flextimes
 flexuose
 fley
@@ -13220,6 +13236,7 @@ gabble
 gabbler
 gabbles
 gabbroic
+gabbroid
 gabions
 gables
 gabs
@@ -13622,6 +13639,7 @@ ghettoes
 ghettoizes
 ghettoizing
 ghosted
+ghostliest
 ghostly
 ghostwriting
 ghoulish
@@ -20812,6 +20830,7 @@ monologuing
 monologuists
 monomaniac
 monomaniacally
+monomaniacs
 monomeric
 monometallic
 monometallist
@@ -24528,6 +24547,7 @@ phallisms
 phallists
 phallus
 phanerophyte
+phantasmagoria
 phantasmagoric
 pharisaic
 pharisaically
@@ -24563,6 +24583,7 @@ phenotypically
 phentolamines
 phenylalanines
 phenylbutazone
+phenylene
 phenylketonuria
 phenylketonuric
 phenylthioureas
@@ -25412,6 +25433,7 @@ polytonalities
 polytonality
 polytypic
 polyvalence
+polyvalent
 polyvinyl
 polywaters
 polyzoary
@@ -26890,6 +26912,7 @@ queenliness
 queenly
 queenside
 queerish
+queerly
 queernesses
 queleas
 quenched
@@ -28586,6 +28609,7 @@ revarnish
 revarnishing
 reveal
 revealment
+revealments
 reveals
 revehent
 revelation
@@ -29245,7 +29269,9 @@ saganashes
 sagebrushes
 saggared
 saggaring
+sagger
 sagier
+sagos
 sahibs
 saice
 saids
@@ -29352,6 +29378,7 @@ sampling
 samsara
 samsaras
 samshu
+samurai
 sanatorium
 sancta
 sanctification
@@ -29627,6 +29654,7 @@ scaurs
 scavengers
 scavenging
 scenas
+scend
 scenery
 scenical
 scepter
@@ -29649,6 +29677,7 @@ schiziest
 schizophrenic
 schizophrenics
 schizzier
+schlemiels
 schlemihl
 schlub
 schlump
@@ -30184,6 +30213,7 @@ serger
 serial
 serialized
 serializing
+seriated
 seriates
 seriatim
 seriations
@@ -30733,6 +30763,7 @@ silkalines
 silkie
 silkiest
 silkweed
+silkweeds
 silliness
 silurid
 silvas
@@ -31049,6 +31080,7 @@ slobs
 sloganeered
 sloganize
 slojd
+sloop
 sloops
 slope
 sloppiest
@@ -32464,6 +32496,7 @@ stridden
 stride
 stridulate
 stridulated
+stridulating
 stridulation
 stridulations
 stridulous
@@ -34584,6 +34617,7 @@ touting
 touts
 tovarich
 tovarish
+towable
 towelette
 towelettes
 towelling
@@ -38052,6 +38086,7 @@ zenith
 zep
 zeppelins
 zeppole
+zeptosecond
 zerk
 zeros
 zester
