@@ -160,6 +160,7 @@ accrue
 accruement
 acculturates
 accumulators
+accurately
 accurateness
 accursed
 accursedness
@@ -208,6 +209,7 @@ acidity
 acidophil
 acidophils
 acidulated
+acidulation
 acidy
 acierated
 acini
@@ -1488,6 +1490,7 @@ apparel
 appareling
 appealer
 appealingly
+appearances
 appease
 appeasement
 appeasers
@@ -3189,6 +3192,7 @@ birthings
 birthmark
 birthplace
 birthplaces
+birthstone
 birthstones
 biryani
 bisect
@@ -3679,6 +3683,7 @@ bourgeon
 bourgeoned
 bourgs
 bourrides
+bouses
 boutiquey
 boutonniere
 boutonnieres
@@ -6414,6 +6419,7 @@ conceptualized
 conceptually
 conceptus
 concernments
+concerns
 concertgoer
 concertinos
 concertize
@@ -6574,6 +6580,7 @@ connation
 connectedly
 connectedness
 connecter
+connecters
 connecting
 connections
 conning
@@ -6663,6 +6670,7 @@ construes
 consubstantial
 consul
 consultancies
+consultantship
 consultantships
 consulted
 consulting
@@ -6831,6 +6839,7 @@ copers
 copes
 copihue
 copingstones
+copiously
 copiousnesses
 coplanar
 coplanarity
@@ -7372,6 +7381,7 @@ crockery
 crockets
 crockpot
 croft
+crofters
 crojik
 crojiks
 crone
@@ -7553,6 +7563,7 @@ cullay
 cullenders
 cullied
 cullises
+culminate
 culminations
 culming
 culpa
@@ -10004,6 +10015,7 @@ earldom
 earlier
 earlock
 earlship
+earmarked
 earringed
 earsplitting
 earthbound
@@ -12023,6 +12035,7 @@ finked
 finks
 finless
 finmark
+finnickier
 finniest
 finning
 finocchios
@@ -14217,6 +14230,7 @@ guttles
 guy
 guyline
 guyots
+guzzle
 guzzler
 gybed
 gymkhana
@@ -15298,6 +15312,7 @@ houseboater
 houseboaters
 houseboats
 houseboy
+housebreakers
 housebreaks
 housebroke
 housebroken
@@ -15463,6 +15478,7 @@ hydrography
 hydrolyzes
 hydromechanical
 hydromedusa
+hydromel
 hydromels
 hydrometer
 hydrometric
@@ -15865,6 +15881,7 @@ impertinence
 imperturbable
 impervious
 imperviously
+impetiginous
 impetrate
 impetrated
 impetrates
@@ -16972,6 +16989,7 @@ isoantigenic
 isocaloric
 isocarboxazid
 isocarboxazids
+isocheim
 isochimes
 isochores
 isochrone
@@ -17746,6 +17764,7 @@ kyacks
 kyak
 kyanizing
 kybosh
+kyes
 kylikes
 kylix
 kymograph
@@ -17973,6 +17992,7 @@ lathier
 lathing
 lathings
 lati
+laticifers
 latifundio
 latifundios
 latillas
@@ -19919,6 +19939,7 @@ millimho
 millimolar
 millimole
 milline
+milliohms
 million
 millions
 millionths
@@ -20130,6 +20151,7 @@ misframed
 misfunction
 misfunctioned
 misfunctions
+misgave
 misgivings
 misgraded
 misgrafting
@@ -20487,6 +20509,7 @@ monophylies
 monophyly
 monoplanes
 monoploids
+monopod
 monopode
 monopody
 monopoles
@@ -21526,6 +21549,7 @@ nonconcerns
 nonconcurred
 nonconcurrence
 nonconcurrences
+noncondensable
 nonconfidence
 nonconfidential
 nonconform
@@ -23617,6 +23641,7 @@ patchworks
 pate
 patellae
 patelliform
+paten
 patentabilities
 patentability
 paternalistic
@@ -26135,6 +26160,7 @@ pugnaciously
 puissances
 pujah
 pujahs
+pukes
 pula
 pule
 pulicide
@@ -26267,6 +26293,7 @@ pushiness
 pusillanimity
 pusillanimous
 pusleys
+puss
 pussyfoot
 pussyfooters
 pustulant
@@ -26625,6 +26652,7 @@ railbuses
 railcar
 railed
 railer
+railhead
 railheads
 railing
 raillery
@@ -26704,6 +26732,7 @@ rappels
 rappen
 rapper
 rapping
+rappini
 rapt
 raptness
 rapturousnesses
@@ -27826,6 +27855,7 @@ resculpting
 resealable
 resealing
 researchable
+researcher
 researches
 reseason
 reseated
@@ -28460,6 +28490,7 @@ rollings
 rollways
 rom
 romaine
+romancing
 romanises
 romanos
 romans
@@ -30858,6 +30889,7 @@ solecise
 solecised
 solecises
 solecistic
+solecizing
 solei
 solely
 solemnify
@@ -33136,6 +33168,7 @@ tearstains
 teasable
 teased
 teaselled
+teashop
 teaspoonful
 teaspoons
 teataster
@@ -35226,6 +35259,7 @@ ungraspable
 unguardednesses
 ungula
 ungulate
+unhairs
 unhallow
 unhandled
 unhands
@@ -37303,6 +37337,7 @@ yodles
 yoga
 yoghs
 yogin
+yogini
 yogins
 yogis
 yohimbines
