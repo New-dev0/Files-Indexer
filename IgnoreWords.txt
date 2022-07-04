@@ -464,6 +464,7 @@ affirmatively
 affirmer
 affixable
 affixal
+affixment
 affixtures
 afflicters
 affordable
@@ -1050,6 +1051,7 @@ anatomised
 anatomized
 anatropous
 ancestored
+ancestors
 ancestress
 anchoress
 anchoring
@@ -1773,6 +1775,7 @@ artlessness
 arts
 artwork
 arugolas
+arugula
 arvo
 arvos
 arytenoids
@@ -3861,6 +3864,7 @@ briarroots
 bribee
 brickbat
 brickfield
+bricklaying
 bricks
 bridal
 bride
@@ -7785,6 +7789,7 @@ cyclopedia
 cyclopes
 cyclopropane
 cyclorama
+cyclosporine
 cyclostyled
 cyclotron
 cyeses
@@ -9459,6 +9464,7 @@ divorcee
 divorcers
 divorcing
 divulgates
+divulgating
 divulgences
 divulges
 divulses
@@ -10034,6 +10040,7 @@ dysrhythmia
 dysthymia
 dystocias
 dystopias
+dystrophic
 dystrophy
 dysurias
 eagerly
@@ -10284,6 +10291,7 @@ electrodeposits
 electrodialysis
 electrodialytic
 electroform
+electroforming
 electrogenic
 electrogram
 electrograms
@@ -12603,6 +12611,7 @@ forereaching
 foreseeability
 foreseer
 foreshadow
+foresheet
 foreshock
 foreshows
 foresight
@@ -13049,6 +13058,7 @@ fussily
 fustics
 futile
 futileness
+futilitarianism
 futility
 futures
 futuristically
@@ -13517,6 +13527,7 @@ gingersnaps
 ginghams
 gingili
 gingilis
+gingivae
 gingivitis
 gingkoes
 ginks
@@ -14581,6 +14592,7 @@ harvestable
 harvested
 harvesting
 harvestmen
+harvesttime
 has
 hashheads
 hashishes
@@ -18350,6 +18362,7 @@ licencing
 licensable
 licensees
 licenses
+licensors
 licensures
 licentiates
 lichenin
@@ -18576,6 +18589,7 @@ liverleaf
 livers
 liverwurst
 liverwursts
+liverymen
 lividnesses
 lixivia
 lixiviate
@@ -18824,6 +18838,7 @@ lucking
 luckless
 lucrativeness
 lucubrating
+lugeing
 luger
 luggages
 lugubriousness
@@ -19540,6 +19555,7 @@ megacorporation
 megacycle
 megadeath
 megadose
+megadoses
 megadynes
 megagametophyte
 megahertz
@@ -20733,6 +20749,7 @@ moseyed
 mosh
 moshing
 mosquito
+mossy
 motet
 motets
 motherboard
@@ -20774,6 +20791,7 @@ moulders
 moulted
 moundbirds
 mounded
+mountaineer
 mountainside
 mountaintops
 mountebankeries
@@ -21343,6 +21361,7 @@ nestle
 nestler
 nestlike
 nestors
+netherworld
 netlike
 netop
 nettable
@@ -21749,6 +21768,7 @@ nonlyric
 nonmainstream
 nonmalignant
 nonmalleable
+nonmanual
 nonmembers
 nonmemberships
 nonmen
@@ -21985,6 +22005,7 @@ numbnesses
 numbskull
 numeracy
 numeral
+numerals
 numerating
 numerators
 numeric
@@ -22008,6 +22029,7 @@ nurls
 nursed
 nursemaid
 nursemaids
+nurturances
 nutgall
 nutmeat
 nutmeg
@@ -24383,6 +24405,7 @@ photolyze
 photomapped
 photometers
 photomontages
+photomurals
 photonegative
 photooxidized
 photoperiodism
@@ -27376,6 +27399,7 @@ reexpressed
 ref
 refall
 refashioned
+refect
 refections
 refeeling
 refencing
@@ -28250,6 +28274,7 @@ reveals
 revehent
 revelation
 reveled
+reveler
 reveling
 revenge
 revenging
@@ -29486,6 +29511,7 @@ scungilli
 scunnered
 scuppaugs
 scuppered
+scurfier
 scurfy
 scurried
 scurry
@@ -30191,6 +30217,7 @@ showdown
 showed
 showerers
 showerheads
+showers
 showier
 showily
 showiness
@@ -30905,6 +30932,7 @@ snowsuit
 snowy
 snub
 snubbier
+snubness
 snubs
 snuck
 snuff
@@ -31742,6 +31770,7 @@ steamfitter
 steamroll
 steamrolling
 steamship
+steamy
 stearates
 steatopygia
 steatopygias
@@ -32242,6 +32271,7 @@ suberic
 suberize
 suberizing
 suberose
+subfile
 subfiles
 subfixes
 subframe
@@ -32376,6 +32406,7 @@ subsolar
 subspecialist
 subspecializes
 subspecializing
+subspecialty
 subspecies
 subspecific
 substantialness
@@ -33558,6 +33589,7 @@ thalidomide
 thallic
 thallophyte
 thanages
+thanes
 thankers
 thankfully
 thankfulness
@@ -34184,6 +34216,7 @@ trackmen
 trackpad
 tracks
 tract
+tractability
 tractors
 tradable
 trade
@@ -34334,6 +34367,7 @@ traumatization
 traumatizations
 traumatize
 traveler
+travelers
 traveling
 travels
 traversable
@@ -35874,6 +35908,7 @@ upsends
 upsent
 upsetters
 upshifted
+upshifts
 upslope
 upsoared
 upsoaring
