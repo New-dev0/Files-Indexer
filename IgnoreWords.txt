@@ -1086,6 +1086,7 @@ anesthetist
 anesthetizing
 anethol
 aneuploid
+aneurysm
 anga
 angel
 angeled
@@ -2383,6 +2384,7 @@ ballyhooing
 ballyrag
 ballyragged
 ballyrags
+balm
 balminess
 baloney
 baloneys
@@ -2757,6 +2759,7 @@ befingering
 befit
 beflagging
 beflea
+befleaed
 befleck
 befringe
 befuddle
@@ -6234,6 +6237,7 @@ comedies
 comedown
 comedy
 comeliest
+comet
 comfiness
 comfort
 comfortably
@@ -7124,6 +7128,7 @@ countryfied
 countryman
 countrysides
 countrywomen
+coup
 coupes
 couplements
 couples
@@ -7232,6 +7237,7 @@ crannog
 crannoges
 cranreuch
 crapola
+crapped
 crappers
 crappiest
 craps
@@ -7296,6 +7302,7 @@ cremator
 cremators
 creme
 cremes
+crenately
 crenature
 crenelated
 crenelating
@@ -8801,6 +8808,7 @@ dianthuses
 diapause
 diapauses
 diapedeses
+diapedesis
 diaphaneities
 diaphanous
 diaphanously
@@ -9248,6 +9256,7 @@ dismals
 dismantles
 dismasting
 disobeyer
+disobeying
 disobeys
 disobliges
 disorderedness
@@ -9439,6 +9448,7 @@ divulses
 divulsing
 divvy
 diwan
+dizening
 djellabahs
 djinn
 dobbin
@@ -9470,6 +9480,7 @@ dodderer
 doddering
 doddery
 dodecaphonies
+dodecaphonist
 dodgems
 dodgers
 dodges
@@ -9657,6 +9668,7 @@ downshifted
 downshifts
 downsides
 downsized
+downslide
 downspin
 downspout
 downstages
@@ -9773,6 +9785,7 @@ driveshafts
 drizzlier
 drizzliest
 droid
+drollery
 drolling
 dromon
 droned
@@ -10569,6 +10582,7 @@ energise
 energize
 energized
 energizers
+energizes
 energumens
 enervations
 enervator
@@ -10866,6 +10880,7 @@ epithelialize
 epithelialized
 epithelializing
 epitheliomas
+epithelium
 epithelizing
 epithet
 epitome
@@ -11126,6 +11141,7 @@ euonymuses
 eupatridae
 eupatrids
 euphausiids
+euphemise
 euphemisms
 euphonies
 euphoniousness
@@ -11745,6 +11761,7 @@ favors
 fawnlike
 fawns
 faxes
+faxing
 fayalite
 faying
 fazenda
@@ -12482,6 +12499,7 @@ foolishly
 foolishnesses
 foolproof
 fools
+footage
 footballs
 footboard
 footboards
@@ -13535,6 +13553,7 @@ glamorousnesses
 glamors
 glancers
 glandular
+glandularly
 glandules
 glares
 glaring
@@ -13816,6 +13835,7 @@ grabbled
 grabby
 gracefullest
 gracile
+graciles
 gracilis
 gracioso
 graciousness
@@ -13992,6 +14012,7 @@ greylag
 gridder
 gridders
 gridlocking
+grief
 grieved
 griever
 grieves
@@ -17575,6 +17596,7 @@ kibitzers
 kibosh
 kick
 kickboxed
+kickboxers
 kickier
 kickshaw
 kickstarted
@@ -18414,6 +18436,7 @@ linger
 lingerie
 lingo
 lingonberry
+linguinis
 linguist
 linguistical
 linguists
@@ -20363,6 +20386,7 @@ mocker
 mockers
 mockingbird
 mocktail
+mockup
 mod
 modalities
 modals
@@ -23311,6 +23335,7 @@ paleozoologists
 paler
 palestra
 palestrae
+palette
 palfrey
 palier
 palimonies
@@ -24367,6 +24392,7 @@ phylogenetic
 physed
 physiatries
 physiatrists
+physiatry
 physicality
 physicalness
 physicals
@@ -25424,6 +25450,7 @@ preed
 preedited
 preelect
 preelecting
+preelectric
 preemergence
 preemergent
 preeminence
@@ -25718,6 +25745,7 @@ primitively
 primitivism
 primitivist
 primitivity
+primmest
 primness
 primnesses
 primogenitor
@@ -29591,6 +29619,7 @@ semiaquatic
 semiarid
 semiaridities
 semiautomatics
+semicolons
 semicured
 semicylindrical
 semideaf
@@ -30208,6 +30237,7 @@ sidelight
 sideliners
 sidelining
 sidepieces
+siderites
 siderolite
 siderotic
 sideshows
@@ -30850,6 +30880,7 @@ sober
 soberer
 soberest
 sobering
+sobernesses
 sobersidedness
 sobriquets
 sobs
@@ -31583,6 +31614,7 @@ standoffs
 standpoint
 standpoints
 stanged
+stanine
 staning
 stanks
 stannic
@@ -31789,6 +31821,7 @@ stinging
 stingingly
 stingless
 stinkier
+stinky
 stipel
 stippled
 stipplings
@@ -32694,6 +32727,7 @@ susceptibility
 susceptibly
 suspect
 suspenders
+suspends
 suspense
 suspensefulness
 suspenser
@@ -36913,6 +36947,7 @@ wifehood
 wifelier
 wifes
 wifeys
+wifing
 wifty
 wigeons
 wigglers
