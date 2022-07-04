@@ -2029,6 +2029,7 @@ attornments
 attract
 attractants
 attributions
+attrit
 attrite
 attrites
 attritted
@@ -4630,6 +4631,7 @@ capitols
 capitularies
 capitulary
 capitulations
+capless
 capo
 caponier
 capotes
@@ -5782,6 +5784,7 @@ clencher
 clenches
 clepes
 clepsydra
+clergywoman
 clergywomen
 clericalism
 clericalist
@@ -7946,6 +7949,7 @@ dames
 damiana
 damnableness
 damnably
+damndest
 damosel
 damosels
 damozels
@@ -8172,6 +8176,7 @@ declawing
 declaws
 declinations
 decliner
+decliners
 declines
 declivitous
 deco
@@ -8717,6 +8722,7 @@ detachment
 detachments
 detailedness
 detailednesses
+detainees
 detainers
 detaining
 detains
@@ -9218,6 +9224,7 @@ discovered
 discreditable
 discrete
 discriminant
+discriminants
 discriminator
 discrowned
 discursively
@@ -10331,6 +10338,7 @@ electioneered
 electors
 electresses
 electret
+electricians
 electroacoustic
 electroanalysis
 electrocuted
@@ -11477,6 +11485,7 @@ explanatively
 explanatorily
 explantation
 explanted
+explicable
 explicates
 explicating
 explications
@@ -11769,6 +11778,7 @@ farfetchedness
 farinha
 farl
 farle
+farles
 farmer
 farmerette
 farmerettes
@@ -13310,6 +13320,7 @@ gasogene
 gasogenes
 gasohol
 gasometer
+gasometers
 gasp
 gasps
 gassiest
@@ -13791,6 +13802,7 @@ gnawingly
 gnawn
 gneisses
 gneissose
+gnocchi
 gnomic
 gnomons
 gnosticisms
@@ -13899,6 +13911,7 @@ gorm
 gormandised
 gormandising
 gormandize
+gormandizers
 gormands
 gormed
 gormless
@@ -23515,6 +23528,7 @@ paleographer
 paleographers
 paleographic
 paleographies
+paleosols
 paleozoologists
 paler
 palestra
@@ -24512,6 +24526,7 @@ photochemical
 photochemistry
 photochromic
 photochromisms
+photocomposed
 photocomposer
 photocomposes
 photocopying
@@ -24566,6 +24581,7 @@ phreaker
 phreatophytic
 phthalate
 phthalocyanine
+phthisics
 phycocyanins
 phycoerythrins
 phycomycetes
@@ -25045,6 +25061,7 @@ plumb
 plumbable
 plumbers
 plumbings
+plumelets
 plumerias
 plumes
 plumier
@@ -25316,6 +25333,7 @@ populations
 populism
 porcini
 porcupine
+pore
 pored
 poriferal
 porisms
@@ -26171,6 +26189,7 @@ proponing
 proportion
 proportionality
 proportionally
+proportionate
 proportionates
 proposers
 propositi
@@ -27323,6 +27342,7 @@ reconfine
 reconfines
 reconfirming
 reconnection
+reconning
 reconnoiters
 reconnoitred
 reconquer
@@ -29424,6 +29444,7 @@ scarious
 scarlatinal
 scarlets
 scarpered
+scarphs
 scarping
 scarred
 scars
@@ -30542,6 +30563,7 @@ silhouetting
 silicification
 silicifying
 siliciums
+silicle
 silicone
 siliquae
 siliques
@@ -31060,6 +31082,7 @@ snippiest
 snitcher
 sniveling
 snivellers
+snob
 snobbery
 snooded
 snooker
@@ -31292,6 +31315,7 @@ soothes
 soothingnesses
 soothly
 soothsay
+soothsaying
 soothsayings
 soothsays
 sootier
@@ -31494,6 +31518,7 @@ spelaean
 spelean
 speleologist
 spellbinds
+spelled
 spellers
 spelunked
 spences
@@ -31671,6 +31696,7 @@ spoons
 sporangial
 spores
 sporocarp
+sporocarps
 sporogenesis
 sporopollenins
 sporozoites
@@ -32776,6 +32802,7 @@ sunproof
 sunrise
 sunroofs
 sunscreening
+sunseekers
 sunshine
 sunspot
 suntan
@@ -33150,6 +33177,7 @@ syllabuses
 syllogist
 syllogistically
 syllogizes
+sylph
 sylvan
 sylvanite
 sylvine
@@ -33309,6 +33337,7 @@ tailplane
 tailskids
 tailslide
 tailwater
+tailwaters
 tains
 takable
 take
@@ -34072,6 +34101,7 @@ tincted
 tinctorially
 tincts
 tinctured
+tinctures
 tineas
 tineid
 tinging
@@ -34240,6 +34270,7 @@ toolheads
 toolmaking
 toolmakings
 toonie
+toot
 toothing
 toothpaste
 toothpicks
@@ -34839,6 +34870,7 @@ trucker
 truckers
 truckman
 truckmasters
+trucks
 truculencies
 truculently
 true
@@ -35055,6 +35087,7 @@ twilling
 twined
 twinflowers
 twinge
+twinged
 twinjets
 twinkler
 twinkles
@@ -36193,6 +36226,7 @@ utilisers
 utilises
 utilitarianism
 utilitarianisms
+utility
 utilize
 utilizing
 utopianism
@@ -36231,6 +36265,7 @@ vair
 valances
 valeted
 valgoid
+valiances
 valiancy
 valiant
 valiantly
