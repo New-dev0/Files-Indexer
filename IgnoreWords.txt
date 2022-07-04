@@ -55,6 +55,7 @@ absorb
 absorbancies
 absorbant
 absorbants
+absorptances
 abstainers
 abstaining
 abstemiousness
@@ -247,6 +248,7 @@ acrospires
 acrostics
 acrotisms
 acrylate
+acrylics
 acrylonitrile
 actinia
 actinias
@@ -722,6 +724,7 @@ allegretto
 allegrettos
 alleles
 allergenic
+allergenicity
 allergins
 allergy
 allethrins
@@ -2454,6 +2457,7 @@ barbwires
 barchan
 barding
 bards
+bareback
 bareboat
 bareboned
 barefacedly
@@ -3161,6 +3165,7 @@ biotitic
 bioturbed
 biparentally
 bipartisanisms
+biparty
 bipedalisms
 biphasic
 bipinnate
@@ -3632,6 +3637,7 @@ bos
 boshvarks
 boskage
 boskages
+bosoms
 bossing
 bossy
 boston
@@ -4949,6 +4955,7 @@ cavendishes
 caverns
 cavie
 caviled
+caviler
 cavilled
 cavils
 caving
@@ -5308,6 +5315,7 @@ cheviot
 chevying
 chewier
 chewiness
+chews
 chiaroscurists
 chias
 chiasmatic
@@ -6959,6 +6967,7 @@ corotation
 corporals
 corporative
 corporator
+corporators
 corporeality
 corporeally
 corposants
@@ -7391,6 +7400,7 @@ criticism
 criticizers
 criticizing
 critique
+critiques
 croaker
 croc
 crocine
@@ -7645,6 +7655,7 @@ curet
 curettages
 curette
 curettes
+curetting
 curiosa
 curious
 curiousness
@@ -10508,6 +10519,7 @@ enciphering
 enciphers
 enclasped
 enclave
+enclaves
 enclosers
 encoded
 encomiast
@@ -11403,6 +11415,7 @@ expertness
 expiation
 expiratory
 expirers
+explainers
 explanative
 explanatively
 explanatorily
@@ -11658,6 +11671,7 @@ fanfaronades
 fanfarons
 fangas
 fangless
+fanglike
 fannies
 fanos
 fantasia
@@ -12433,6 +12447,7 @@ flysheets
 flyswatter
 flyting
 flytrap
+flyweight
 foal
 foamable
 foamed
@@ -13822,6 +13837,7 @@ gothic
 gothicism
 gothicize
 gothicizes
+gothites
 gouge
 gouges
 goulashes
@@ -15844,6 +15860,7 @@ immolator
 immoralism
 immoralisms
 immoralities
+immortalises
 immortalising
 immortalities
 immortality
@@ -17766,6 +17783,7 @@ kooks
 kopeck
 koph
 kopjes
+koppas
 koppie
 korun
 koshers
@@ -18280,6 +18298,7 @@ levanter
 levanting
 levatores
 leveling
+levelled
 levellers
 levelnesses
 leviable
@@ -19699,6 +19718,7 @@ mesons
 mesophyllic
 mesoscale
 mesozoan
+messaged
 messages
 messenger
 messiah
@@ -21122,6 +21142,7 @@ nanometres
 nanotube
 napalmed
 napalming
+nape
 napery
 naphtha
 naphthenes
@@ -23972,6 +23993,7 @@ peptonizing
 perambulate
 percale
 percaline
+percalines
 perceivers
 perceptional
 perceptive
@@ -24744,6 +24766,7 @@ planform
 plangencies
 planimeter
 planimetrically
+planish
 planishers
 planisphere
 planked
@@ -25028,6 +25051,7 @@ polybutadiene
 polycarbonates
 polychaete
 polychetes
+polychotomy
 polychromy
 polycythemias
 polydactyly
@@ -26987,6 +27011,7 @@ reawoke
 reawoken
 rebaptisms
 rebaptized
+rebatos
 rebegin
 rebegins
 rebel
@@ -28352,6 +28377,7 @@ rhombencephala
 rhomboidal
 rhumb
 rhymer
+rhymester
 rhyming
 rhyolitic
 rhyta
@@ -28706,6 +28732,7 @@ rubes
 rubicundities
 rubier
 rubiest
+rubles
 rubouts
 rubrician
 rubying
@@ -29262,6 +29289,7 @@ schiziest
 schizophrenic
 schizophrenics
 schizzier
+schlemihl
 schlub
 schlump
 schmaltz
@@ -31635,6 +31663,7 @@ standbys
 standdowns
 standing
 standoffs
+standpipe
 standpoint
 standpoints
 stanged
@@ -32385,6 +32414,7 @@ subtropics
 subtunics
 subunit
 suburban
+suburbanise
 suburbanising
 subvassal
 subversions
@@ -33162,6 +33192,7 @@ tapeless
 tapenades
 taperer
 taperers
+tapers
 tapestried
 tapestries
 tapetal
@@ -34544,6 +34575,7 @@ trones
 trophallaxis
 trophies
 trophoblast
+trophoblasts
 trophy
 tropic
 tropicals
@@ -35409,6 +35441,7 @@ unintimidated
 uninvoked
 unionisation
 unionise
+unionises
 unionism
 unionized
 unionizers
@@ -35529,6 +35562,7 @@ unperceptive
 unpersuasive
 unpicking
 unpile
+unpins
 unplaced
 unpleasantly
 unpledged
@@ -36764,6 +36798,7 @@ weaponized
 weaponizes
 weaponry
 wearable
+wearinesses
 wearisomenesses
 weasands
 weaselly
