@@ -1845,6 +1845,7 @@ assenters
 assents
 asserter
 asserting
+assertion
 assertor
 asserts
 assessed
@@ -2466,6 +2467,7 @@ barguests
 barhop
 barhopped
 barhops
+baric
 barites
 baritone
 barium
@@ -4477,6 +4479,7 @@ canary
 canasta
 cancelable
 cancelation
+cancerous
 cancha
 cancroid
 candelabrum
@@ -4536,6 +4539,7 @@ canonizations
 canonized
 canoodled
 canopic
+canopy
 canorousness
 cantaloupes
 cantatrice
@@ -5610,6 +5614,7 @@ circuses
 cires
 cirque
 cirrus
+cisco
 ciscoes
 cislunar
 cissies
@@ -7335,6 +7340,7 @@ cricketer
 cricketers
 cricoid
 criminalization
+criminalize
 criminalized
 criminates
 criminis
@@ -8679,6 +8685,7 @@ detoxifications
 detoxified
 detract
 detractor
+detraining
 detrainments
 deuced
 deuteranope
@@ -8800,6 +8807,7 @@ diaphanously
 diaphones
 diaphorases
 diaphoreses
+diaphoretics
 diaphragming
 diaphyseal
 diaphysis
@@ -10382,6 +10390,7 @@ embrittle
 embrocates
 embrocations
 embroiling
+embrown
 embrues
 embruted
 embryologies
@@ -10471,6 +10480,7 @@ enchant
 enchanter
 enchanting
 enchantress
+enchants
 enchase
 enchaser
 enchasing
@@ -13115,6 +13125,7 @@ gammier
 gammon
 gammoning
 gamodeme
+gamodemes
 gamut
 gandering
 ganevs
@@ -14392,6 +14403,7 @@ hammerkop
 hammerless
 hammerlocks
 hammers
+hammertoes
 hammily
 hammock
 hampering
@@ -15955,6 +15967,7 @@ improvisatori
 improvised
 improvisers
 improvs
+impudently
 impugn
 impugned
 impugning
@@ -17626,6 +17639,7 @@ kingposts
 kings
 kingships
 kingside
+kingsnake
 kinins
 kinkajou
 kinked
@@ -17847,6 +17861,7 @@ lairing
 laitances
 lakes
 lakeshore
+lakh
 lakier
 lam
 lambasted
@@ -18469,6 +18484,7 @@ literality
 literalize
 literarinesses
 literatus
+lithemia
 lithenesses
 lither
 lithic
@@ -18718,6 +18734,7 @@ lovebirds
 lovebugs
 lovefests
 lovelier
+lovelies
 loveliness
 lovelocks
 lovemaking
@@ -19660,6 +19677,7 @@ metabolism
 metabolisms
 metabolized
 metacarpus
+metacenters
 metacercarial
 metafiction
 metafictionists
@@ -20976,6 +20994,7 @@ mycoplasmas
 mycorhiza
 mycorrhizal
 mydriases
+mydriatic
 myelin
 myeline
 myelofibroses
@@ -21430,6 +21449,7 @@ nitroglycerine
 nitroglycerines
 nitromethanes
 nitrosamine
+nitrosyls
 nitrous
 nits
 nittier
@@ -24325,6 +24345,7 @@ phrasemakers
 phrasemongering
 phreaker
 phreatophytic
+phthalate
 phthalocyanine
 phycocyanins
 phycoerythrins
@@ -25619,6 +25640,7 @@ pretensions
 preterits
 pretermination
 pretermission
+preternaturally
 pretest
 pretexts
 pretheater
@@ -26170,6 +26192,7 @@ pullback
 pullbacks
 pulled
 pullouts
+pullover
 pullulates
 pulpers
 pulps
@@ -27836,6 +27859,7 @@ reremice
 rerepeat
 rerises
 rerolls
+reroofs
 rerose
 reroute
 reroutes
@@ -27848,6 +27872,7 @@ resaws
 rescale
 reschool
 rescind
+rescinding
 rescoring
 rescuer
 resculpted
@@ -29825,6 +29850,7 @@ shaft
 shafted
 shagging
 shagreens
+shah
 shairns
 shaitan
 shakable
@@ -30153,6 +30179,7 @@ shylock
 shynesses
 sialidan
 sials
+sibilate
 sibilation
 sibling
 sibs
@@ -30288,6 +30315,7 @@ sinewed
 sinewless
 sinewy
 sinfonias
+sinfonie
 singalongs
 singeing
 singers
@@ -30316,6 +30344,7 @@ sinuously
 sinuousnesses
 sinuslike
 sinusoid
+sinusoidally
 sipe
 siphon
 siphonage
@@ -31071,6 +31100,7 @@ space
 spaceless
 spaceman
 spacer
+spacesuit
 spacially
 spaciest
 spaciously
@@ -31976,6 +32006,7 @@ stroked
 stroll
 stroller
 stroma
+strongboxes
 strongest
 strongman
 strongyloidosis
@@ -33152,6 +33183,7 @@ teaberry
 teaboxes
 teacakes
 teachableness
+teachably
 teacup
 teahouses
 team
@@ -33578,6 +33610,7 @@ thrilled
 thrive
 thriven
 thrivingly
+throat
 throatlatch
 throbbed
 thrombi
@@ -34022,6 +34055,7 @@ townish
 townlets
 townscapes
 townships
+townswoman
 townwear
 towpaths
 towplanes
@@ -35205,6 +35239,7 @@ unestablished
 unevener
 unevenly
 uneventful
+unexamined
 unexceptionably
 unexcitable
 unexotic
