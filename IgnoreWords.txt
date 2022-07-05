@@ -481,6 +481,7 @@ affixtures
 afflicters
 afflictive
 affordable
+afforested
 afforests
 affrayers
 affraying
@@ -808,6 +809,7 @@ alnicos
 alodia
 aloe
 aloft
+alogical
 aloof
 aloofly
 alpenglow
@@ -935,6 +937,7 @@ ammine
 ammino
 ammoniacal
 ammoniacs
+ammoniates
 ammoniating
 ammonification
 ammonifying
@@ -3404,6 +3407,7 @@ bleachers
 bleaches
 bleakly
 blearier
+blearily
 bleat
 bleated
 bled
@@ -5722,6 +5726,7 @@ circumference
 circumflex
 circumfluent
 circumfusion
+circumlocution
 circumlocutions
 circumlunar
 circumnavigated
@@ -7370,6 +7375,7 @@ crammer
 cramp
 cramped
 crampfish
+crampier
 crampiest
 crampon
 crampons
@@ -8459,6 +8465,7 @@ degradations
 degradative
 degradedly
 degrader
+degranulation
 degrees
 degressive
 degums
@@ -8571,6 +8578,7 @@ demiurgical
 demob
 demobilize
 democracies
+democratized
 democratizers
 demographer
 demographic
@@ -11854,6 +11862,7 @@ fakirs
 falafels
 falbalas
 falcate
+falces
 falconries
 falderal
 falderals
@@ -13828,6 +13837,7 @@ glacises
 glad
 gladdened
 gladdeners
+gladdening
 gladding
 gladiate
 glads
@@ -15341,6 +15351,7 @@ hinge
 hinkier
 hinky
 hinny
+hinter
 hinterland
 hinting
 hipbone
@@ -15582,6 +15593,7 @@ hoosegow
 hoosgow
 hoot
 hootenanny
+hoover
 hoovers
 hop
 hope
@@ -15971,6 +15983,7 @@ hypoing
 hypokalemia
 hypokalemic
 hypomagnesemia
+hypomorphs
 hypopharynxes
 hypopituitarism
 hypoplasias
@@ -16129,6 +16142,7 @@ imbower
 imbowered
 imbricates
 imbrications
+imbroglio
 imbrowns
 imbrued
 imbruting
@@ -18253,6 +18267,7 @@ laic
 laichs
 laicizations
 laicizes
+laird
 lairdships
 lairing
 laitances
@@ -19134,6 +19149,7 @@ louie
 louis
 lounged
 loungers
+loungewears
 loungy
 loupe
 lour
@@ -20901,6 +20917,7 @@ monarchical
 monarchists
 monarchy
 monasticism
+monasticisms
 monatomic
 monaxial
 monaxons
@@ -23247,6 +23264,7 @@ outrowing
 outrows
 outrun
 outrushed
+outrushes
 outsaid
 outsailed
 outsavors
@@ -24194,6 +24212,7 @@ patchworking
 patchworks
 pate
 patellae
+patellate
 patelliform
 paten
 patentabilities
@@ -24242,6 +24261,7 @@ paunched
 paunchier
 paunchy
 pauperize
+pauperized
 pausers
 pavilioned
 paviser
@@ -25844,6 +25864,7 @@ pound
 pounding
 pour
 pourable
+poured
 pouring
 pourpoints
 pours
@@ -26487,6 +26508,7 @@ pronephra
 pronephros
 pronged
 prongs
+pronominal
 pronominally
 pronota
 pronounced
@@ -26653,6 +26675,7 @@ proves
 providences
 provinces
 provincialize
+provincialized
 provincially
 provisory
 provitamin
@@ -26715,6 +26738,7 @@ psychodramas
 psychodynamic
 psychogenically
 psychologise
+psychologises
 psychologists
 psychologize
 psychoneurotic
@@ -27191,6 +27215,7 @@ rabidnesses
 raccoon
 race
 racemes
+racemized
 racemizing
 racer
 racetrack
@@ -29176,6 +29201,7 @@ roommates
 roorback
 rooser
 rooses
+root
 rootages
 rooter
 rootiest
@@ -32457,6 +32483,7 @@ stenography
 stenosis
 stenotherms
 stepbrothers
+stepdaughters
 stepfathers
 stephanotises
 stepladder
@@ -32680,6 +32707,7 @@ stratum
 stravaig
 straw
 strawberry
+strawhat
 strawing
 straws
 strawworm
@@ -33408,6 +33436,7 @@ supposals
 supposed
 suppositions
 supposititious
+suppositories
 suppressors
 suppurate
 suppurations
@@ -35648,6 +35677,7 @@ ulceration
 ulcerogenic
 ulcers
 ulnad
+ulnae
 ulpan
 ulpanim
 ulsters
@@ -36054,6 +36084,7 @@ undo
 undock
 undocking
 undocks
+undoer
 undoers
 undogmatic
 undogmatically
@@ -36759,6 +36790,7 @@ vaginal
 vaguer
 vagus
 vair
+vakeel
 valances
 valeted
 valgoid
@@ -37671,6 +37703,7 @@ wheals
 wheatlands
 wheedled
 wheelbarrow
+wheeler
 wheelies
 wheelman
 wheels
@@ -37749,6 +37782,7 @@ whities
 whitish
 whits
 whittle
+whittles
 whittret
 whiz
 whizzer
@@ -37780,6 +37814,7 @@ whoso
 whosoever
 whump
 whupped
+wicked
 wickedest
 wickednesses
 wicker
