@@ -194,6 +194,7 @@ acetum
 acetylcholines
 acetyls
 achenial
+achiral
 achlorhydria
 achondrite
 achondroplasias
@@ -2262,6 +2263,7 @@ azotises
 azoturia
 azulejos
 azure
+azygoses
 baal
 baaskaap
 baaskaps
@@ -2282,6 +2284,7 @@ bacalao
 baccalaureate
 bacchanalian
 bacchanals
+bacchante
 bacchantes
 bachelorhood
 back
@@ -2794,6 +2797,7 @@ beefs
 beefwoods
 beekeepings
 beeline
+beelines
 beelining
 beep
 beeping
@@ -3930,6 +3934,7 @@ bride
 bridewells
 bridge
 bridges
+bridles
 bridling
 brief
 briefcase
@@ -5238,6 +5243,7 @@ chapbooks
 chaperonage
 chaperone
 chaperones
+chaperoning
 chapes
 chapiter
 chapman
@@ -6041,6 +6047,7 @@ cocker
 cockered
 cockering
 cockeye
+cockeyedly
 cockeyedness
 cockhorse
 cockhorses
@@ -6195,6 +6202,7 @@ coky
 col
 cola
 colatitudes
+colby
 colchicines
 coldblood
 coldcocks
@@ -8000,6 +8008,7 @@ dales
 dalesmen
 dally
 dalmatics
+dalton
 daltonian
 daltonism
 daltons
@@ -9745,6 +9754,7 @@ dorkinesses
 dorky
 dormice
 dormins
+dornicks
 dornocks
 dorsal
 dorsals
@@ -11030,6 +11040,7 @@ epimere
 epimeric
 epimers
 epimysia
+epinaos
 epinasties
 epineuria
 epineurium
@@ -11192,6 +11203,7 @@ esoteric
 esotericism
 espadrilles
 espaliering
+espanol
 esparto
 especial
 esperances
@@ -13576,6 +13588,7 @@ gentoo
 gentrifying
 genua
 genuinenesses
+genus
 genuses
 geobotanists
 geochemical
@@ -14628,6 +14641,7 @@ halituses
 hall
 hallmark
 hallmarked
+halloa
 halloos
 halluces
 hallucinator
@@ -14983,6 +14997,7 @@ heirlooms
 heishi
 heister
 hektare
+helically
 helicity
 helicoidal
 heliconia
@@ -15990,6 +16005,7 @@ ignorances
 ignorant
 ignorantnesses
 iguanid
+ihrams
 ileac
 ilex
 ilia
@@ -18306,6 +18322,7 @@ latens
 latent
 laterad
 lateral
+lateralling
 laterally
 laterborn
 laterize
@@ -18536,6 +18553,7 @@ leptospiral
 leptotene
 les
 lesbians
+letch
 lethalities
 lethargy
 lettermen
@@ -20715,6 +20733,7 @@ mockers
 mockingbird
 mocktail
 mockup
+mocs
 mod
 modalities
 modals
@@ -20860,6 +20879,7 @@ monolingual
 monolith
 monologists
 monologue
+monologues
 monologuing
 monologuists
 monomaniac
@@ -21432,6 +21452,7 @@ nakedly
 nalas
 nameable
 namely
+naming
 nana
 nanas
 nances
@@ -23302,6 +23323,7 @@ overdress
 overdrinking
 overdriven
 overdrives
+overdrove
 overdubbing
 overdyed
 overdyeing
@@ -23482,6 +23504,7 @@ oversewing
 overshaded
 overshirts
 overshoe
+oversides
 oversights
 oversimplified
 oversimplifies
@@ -25207,6 +25230,7 @@ pleaching
 pleaders
 pleads
 pleas
+pleasant
 pleasantest
 pleasantness
 please
@@ -26150,6 +26174,7 @@ preying
 priapean
 priapisms
 pricily
+pricing
 pricked
 prickets
 prickings
@@ -27521,6 +27546,7 @@ recleaned
 recleans
 reclinate
 recliners
+reclines
 reclosable
 reclothes
 recoal
@@ -27713,6 +27739,7 @@ reducer
 reducers
 reducibly
 reducing
+reductase
 reductions
 reductivenesses
 reductor
@@ -31618,6 +31645,7 @@ sorrel
 sorrels
 sorrier
 sorrowfulness
+sorrows
 sortied
 sortieing
 sostenuto
@@ -31686,6 +31714,7 @@ spammed
 spammers
 spancelled
 spancelling
+spandex
 spangle
 spangles
 spaniel
@@ -31970,6 +31999,7 @@ sportiveness
 sportivenesses
 sportscasters
 sportsmanly
+sportswomen
 sporulates
 spotlessly
 spotlighting
@@ -34224,6 +34254,7 @@ thousand
 thowless
 thraldoms
 thralled
+thrave
 thrawing
 threads
 thready
@@ -34755,6 +34786,7 @@ trainabilities
 trainability
 trainable
 trainee
+traineeship
 trainmen
 trainway
 trainways
@@ -35991,6 +36023,7 @@ unilingual
 unillusioned
 unilobed
 unimportant
+uninhibitedly
 uninitiate
 uninstalling
 uninstructed
@@ -36784,6 +36817,7 @@ verbiles
 verbless
 verdure
 verdured
+verger
 verglas
 veridicalities
 veriest
@@ -37845,6 +37879,7 @@ worminesses
 wormish
 wormroot
 worries
+worrit
 worrited
 worry
 worrywart
