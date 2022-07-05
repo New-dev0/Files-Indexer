@@ -1650,6 +1650,7 @@ arbored
 arborescences
 arboretums
 arborist
+arborizations
 arborize
 arborizing
 arbors
@@ -2966,6 +2967,7 @@ benzidins
 benzoates
 benzocaines
 benzoic
+benzoins
 benzole
 benzoles
 benzophenone
@@ -3958,6 +3960,7 @@ breviaries
 brewery
 briard
 briarroots
+briarwoods
 bribee
 brickbat
 brickfield
@@ -6329,6 +6332,7 @@ colonialistic
 colonialists
 colonies
 colonisation
+colonise
 colonised
 colonization
 colonizers
@@ -7120,6 +7124,7 @@ coronation
 coronations
 coronel
 coronographs
+corotates
 corotation
 corporals
 corporative
@@ -8949,6 +8954,7 @@ dewier
 dewiest
 dewily
 dewiness
+dewinesses
 dewlap
 dewool
 dewormer
@@ -9980,6 +9986,7 @@ dreaming
 dreamlands
 dreamlessness
 dreamlessnesses
+dreams
 dreamt
 dreamworlds
 drecky
@@ -10105,6 +10112,7 @@ dubber
 dubbin
 dubiousness
 dubitation
+ducats
 duchies
 duchy
 duckbills
@@ -12250,6 +12258,7 @@ fictitious
 fiddlehead
 fiddler
 fideists
+fidelista
 fiduciaries
 fiduciary
 fiefdom
@@ -12951,6 +12960,7 @@ formyls
 fornicates
 forrit
 forsooth
+forswearing
 forsworn
 forsythia
 fort
@@ -13224,6 +13234,7 @@ fucoses
 fucoxanthin
 fucus
 fudging
+fuehrer
 fuehrers
 fuelers
 fueller
@@ -13448,6 +13459,7 @@ galyac
 galyak
 gambesons
 gambier
+gambiers
 gambles
 gambling
 gambolled
@@ -13472,6 +13484,7 @@ gangbusters
 ganged
 ganglial
 ganglioside
+gangrenes
 gangstas
 ganjah
 ganjahs
@@ -14269,6 +14282,7 @@ grapline
 graplins
 graptolite
 grapy
+graspingnesses
 grasshopper
 grassier
 grasslands
@@ -14414,6 +14428,7 @@ groovier
 groovy
 grope
 groped
+gropers
 gropingly
 groschen
 grossing
@@ -15718,6 +15733,7 @@ hotrods
 hotspot
 hotspots
 hotties
+houdahs
 hourglasses
 houri
 houseboater
@@ -15937,6 +15953,7 @@ hyoidal
 hyoidean
 hyoids
 hypabyssal
+hypabyssally
 hyper
 hyperacidity
 hyperaware
@@ -16650,6 +16667,7 @@ indulge
 indulgers
 indults
 indurations
+indurative
 industrial
 industrialism
 industrialisms
@@ -17967,6 +17985,7 @@ keratoma
 keratotic
 kerbed
 kerbs
+kerchiefed
 kerchieves
 kerchoo
 kerfed
@@ -18146,6 +18165,7 @@ kneecappings
 kneeing
 kneels
 knelling
+knickerbockers
 knifepoint
 knifer
 knighting
@@ -18910,6 +18930,7 @@ linting
 lintols
 lints
 lintwhites
+linuron
 lionhearted
 lionisers
 lionising
@@ -19369,6 +19390,7 @@ lytically
 lyttae
 macacos
 macadamias
+macadamizing
 macaronies
 maccabaw
 maccoboys
@@ -19912,6 +19934,7 @@ measly
 measurements
 measures
 meatier
+meatiest
 meatless
 meatmen
 meats
@@ -23206,6 +23229,7 @@ outgaze
 outgeneral
 outgeneraling
 outgenerals
+outgive
 outgiving
 outglared
 outglares
@@ -25010,6 +25034,7 @@ physicked
 physiognomies
 physiologist
 physiotherapies
+physiotherapy
 physique
 physiqued
 physostigmine
@@ -25466,6 +25491,7 @@ plowlands
 plowmen
 plowshare
 ploys
+plug
 plugger
 plumb
 plumbable
@@ -26528,6 +26554,7 @@ project
 projectable
 projected
 projectile
+projection
 projectionists
 projects
 prokaryotic
@@ -30114,6 +30141,7 @@ scribbler
 scribes
 scries
 scrimpiest
+scrimpily
 scrimshanders
 scrimshaw
 scrive
@@ -30336,6 +30364,7 @@ selfless
 selfnesses
 selfs
 selfsameness
+selfsamenesses
 sellable
 sellotaping
 sellout
@@ -32345,6 +32374,7 @@ sradha
 sri
 stab
 stabilises
+stabilising
 stabilization
 stabilizing
 stablenesses
@@ -33503,6 +33533,7 @@ supposed
 suppositions
 supposititious
 suppositories
+suppression
 suppressors
 suppurate
 suppurations
@@ -34712,6 +34743,7 @@ titivate
 titivated
 titling
 titlist
+titmen
 titrators
 tittivated
 tittup
@@ -35077,6 +35109,7 @@ transected
 transection
 transects
 transepts
+transeunt
 transfected
 transfecting
 transfections
@@ -37792,6 +37825,7 @@ whey
 wheys
 whidahs
 whiffer
+whiffler
 whifflers
 whiffles
 whigs
@@ -38127,6 +38161,7 @@ workaday
 workaholisms
 workbag
 workbenches
+workboat
 workbox
 workboxes
 workday
