@@ -679,6 +679,7 @@ alertnesses
 ales
 alewives
 alexin
+alexins
 alfaqui
 alfaquis
 alfilarias
@@ -1990,6 +1991,7 @@ ataghans
 ataractic
 ataraxics
 ataraxy
+atavistically
 ataxias
 ate
 atelectasis
@@ -2826,6 +2828,7 @@ beefiness
 beefs
 beefwoods
 beekeepings
+beelike
 beeline
 beelines
 beelining
@@ -8129,6 +8132,7 @@ darken
 darkened
 darkener
 darkies
+darking
 darkle
 darkling
 darkly
@@ -8904,6 +8908,7 @@ deterministic
 deterrer
 detestable
 dethatching
+deticks
 detours
 detoxicants
 detoxicate
@@ -11134,6 +11139,7 @@ epilimnion
 epilogue
 epilogues
 epiloguing
+epimerases
 epimere
 epimeric
 epimers
@@ -11401,6 +11407,7 @@ etoile
 etoiles
 etudes
 etui
+etuis
 etyma
 etymologised
 etymologising
@@ -13957,6 +13964,7 @@ glibness
 glidepath
 gliders
 glides
+gliff
 glim
 glimed
 glimpse
@@ -14073,6 +14081,7 @@ goalmouths
 goaltenders
 goalward
 goannas
+goat
 goatee
 goatherds
 goats
@@ -14422,6 +14431,7 @@ gristliest
 gristliness
 griths
 grits
+gritty
 grivets
 grizzle
 grizzlers
@@ -14690,6 +14700,7 @@ habitualness
 habituating
 habituation
 habitues
+haboobs
 habus
 haciendado
 hacker
@@ -15555,6 +15566,7 @@ homeschooler
 homeschoolers
 homeschooling
 homesickness
+homesites
 homespun
 homestead
 homesteading
@@ -16318,6 +16330,7 @@ impecuniosities
 impedance
 impedes
 impellent
+impelling
 impellors
 impenetrable
 impenitent
@@ -16377,6 +16390,7 @@ impossibility
 impossible
 impost
 imposter
+imposthume
 impostor
 impostumes
 impotently
@@ -16725,6 +16739,7 @@ inevitably
 inexact
 inexcusably
 inexistence
+inexorableness
 inexpedience
 inexpediently
 inexpensive
@@ -17769,6 +17784,7 @@ joking
 jollier
 jollyboats
 jolter
+joltier
 jones
 joseph
 josephs
@@ -17961,6 +17977,7 @@ kebob
 kecking
 keckles
 kecks
+kedgerees
 kedges
 keel
 keelboat
@@ -18001,6 +18018,7 @@ kept
 keramic
 keratinization
 keratitises
+keratoid
 keratoma
 keratotic
 kerbed
@@ -18495,6 +18513,7 @@ latching
 lateener
 latens
 latent
+later
 laterad
 lateral
 lateralling
@@ -19416,6 +19435,7 @@ macadamizing
 macaronies
 maccabaw
 maccoboys
+mace
 macer
 macerater
 macerates
@@ -19859,6 +19879,7 @@ matchsticks
 matchwood
 materialist
 materialities
+materializer
 materially
 maternally
 maternities
@@ -20702,6 +20723,7 @@ misdoer
 misdoers
 misdoes
 misdoubting
+misdrew
 mise
 misease
 miseducates
@@ -25456,6 +25478,7 @@ playlike
 playmaker
 playpens
 playsuits
+playthings
 playwrightings
 plaza
 pleaching
@@ -25761,6 +25784,7 @@ poms
 ponces
 ponding
 pone
+poniard
 poniarding
 poniards
 pons
@@ -27258,6 +27282,7 @@ quicker
 quicklime
 quickness
 quicknesses
+quicksand
 quickstep
 quid
 quiescence
@@ -27621,6 +27646,7 @@ reaffirming
 reaffirms
 reaffix
 reafforested
+reaggregated
 realer
 realign
 realisms
@@ -27907,6 +27933,7 @@ recusants
 recused
 recut
 recyclables
+recycler
 redacted
 redacting
 redargued
@@ -28024,6 +28051,7 @@ reembraces
 reemerged
 reemerges
 reemerging
+reemissions
 reemits
 reemphasis
 reemphasize
@@ -29378,6 +29406,7 @@ rotunda
 rotundness
 rouches
 roues
+roughage
 roughbacks
 roughcasting
 roughdry
@@ -29432,6 +29461,7 @@ rubaiyat
 rubbaboos
 rubberized
 rubberizes
+rubbings
 rubbishes
 rubbling
 rubdown
@@ -30078,12 +30108,14 @@ sciroccos
 scirrhi
 scissor
 sciurine
+sciuroid
 sclaffing
 sclerites
 scleritis
 scleroma
 scleromas
 sclerose
+sclerotic
 scolder
 scolders
 scolioma
@@ -32306,6 +32338,7 @@ spriggiest
 sprightliness
 sprightlinesses
 springalds
+springbok
 springer
 springers
 springinesses
@@ -36469,6 +36502,7 @@ unobservable
 unobtainable
 unoffered
 unorganized
+unostentatious
 unpack
 unpainful
 unpalatability
@@ -37789,6 +37823,7 @@ weest
 weever
 weevers
 weevily
+weighers
 weighman
 weighted
 weightiness
