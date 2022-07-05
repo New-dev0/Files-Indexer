@@ -129,6 +129,7 @@ accipitrine
 accipitrines
 acclaimer
 acclaiming
+acclamation
 acclamations
 acclimated
 acclimatised
@@ -1364,6 +1365,7 @@ antiperspirants
 antiphlogistic
 antiphons
 antiplague
+antiplaque
 antipodal
 antipodals
 antipodean
@@ -6173,6 +6175,7 @@ coemploys
 coenamor
 coenocytic
 coenure
+coenzymatic
 coequal
 coequality
 coercers
@@ -6244,6 +6247,7 @@ coin
 coinable
 coincides
 coinferred
+coinfers
 coinhere
 coinheres
 coinmates
@@ -8257,6 +8261,7 @@ decadence
 decadences
 decadencies
 decadent
+decagram
 decagrams
 decaliter
 decaliters
@@ -9362,6 +9367,7 @@ disclaimers
 disclike
 disclimax
 disclosed
+disclosures
 discographic
 discomfiting
 discomfitures
@@ -11057,6 +11063,7 @@ entwist
 entwists
 enumerabilities
 enumerate
+enumerative
 enunciate
 enunciates
 enunciation
@@ -11186,6 +11193,7 @@ epitome
 epitomic
 epitomical
 epizoism
+epizoites
 epizootics
 epizootiologic
 eponyms
@@ -11319,6 +11327,7 @@ esophagus
 esoteric
 esotericism
 espadrilles
+espalier
 espaliering
 espanol
 esparto
@@ -11846,6 +11855,7 @@ eyelets
 eyepoppers
 eyes
 eyestalks
+eyestrain
 eyewash
 eyewitness
 eyre
@@ -12102,6 +12112,7 @@ featherheaded
 feathering
 feathers
 featherstitches
+featherweight
 featherweights
 feats
 featured
@@ -15499,6 +15510,7 @@ hocker
 hocks
 hockshop
 hocus
+hocussing
 hodad
 hodoscopes
 hoelike
@@ -15927,6 +15939,7 @@ hybris
 hybristic
 hydathodes
 hydralazines
+hydrangea
 hydranths
 hydras
 hydrastis
@@ -16571,6 +16584,7 @@ incompetents
 incomplete
 incompletely
 incompressible
+inconceivably
 inconformity
 inconnu
 inconnus
@@ -19396,6 +19410,7 @@ lurkers
 luscious
 lusciously
 lusher
+lushes
 lushly
 lusterless
 lusterwares
@@ -20571,6 +20586,7 @@ mimes
 mimesis
 mimesises
 mimetic
+mimetites
 mimic
 mimical
 mimicked
@@ -20875,6 +20891,7 @@ missionized
 missionizes
 missives
 missound
+missounded
 misspeaks
 misspell
 misstarting
@@ -21163,6 +21180,7 @@ monotheistic
 monotheistical
 monotints
 monotonically
+monotonicity
 monovalent
 monovular
 monseigneur
@@ -21284,6 +21302,7 @@ mosey
 moseyed
 mosh
 moshing
+moshings
 mosquito
 mossy
 motet
@@ -21358,6 +21377,7 @@ mouthy
 movable
 movableness
 movelessly
+moviedom
 moviegoing
 moving
 moviola
@@ -22625,6 +22645,7 @@ obeahisms
 obeli
 obelisks
 obelisms
+obelized
 obesities
 obesity
 obeyed
@@ -22708,6 +22729,7 @@ obturates
 obturations
 obtuser
 obtusity
+obversely
 obversions
 obverting
 obviates
@@ -23324,6 +23346,7 @@ outjockeying
 outjump
 outjumped
 outjumps
+outkeep
 outkicked
 outkicks
 outkiss
@@ -23791,6 +23814,7 @@ oversubtle
 oversupplied
 oversups
 oversweetens
+overswing
 overtalk
 overtalkative
 overtalking
@@ -23988,6 +24012,7 @@ palazzos
 paleae
 paleface
 paleness
+paleobiologist
 paleobiologists
 paleoecologic
 paleoecological
@@ -24148,6 +24173,7 @@ pappooses
 pappous
 papricas
 papular
+papyrologies
 papyrologists
 papyrology
 parabiotic
@@ -24776,11 +24802,13 @@ perseverances
 perseverating
 perseverative
 persistence
+persistencies
 persistent
 persnicketiness
 person
 personableness
 personalities
+personalizes
 personally
 personalty
 personated
@@ -25594,6 +25622,7 @@ plush
 plushiness
 plussage
 plutonic
+plutonium
 plutoniums
 pluviose
 plyer
@@ -27213,6 +27242,7 @@ quadricep
 quadricepses
 quadrics
 quadrille
+quadrilles
 quadrillions
 quadriplegic
 quadrivalent
@@ -29736,6 +29766,7 @@ salsa
 saltarello
 saltatorial
 saltatory
+saltboxes
 saltbush
 salter
 saltish
@@ -32274,6 +32305,7 @@ splashing
 splat
 splatted
 splaying
+splays
 spleen
 spleenwort
 spleeny
@@ -32811,6 +32843,7 @@ stomping
 stonechats
 stoned
 stoneflies
+stonefly
 stonemason
 stonemasonry
 stones
@@ -36487,6 +36520,7 @@ unlikenesses
 unlink
 unlived
 unlively
+unloader
 unloads
 unlocks
 unloosed
@@ -36917,6 +36951,7 @@ urge
 urgently
 urging
 urial
+uric
 urinalyses
 urinalysis
 urination
