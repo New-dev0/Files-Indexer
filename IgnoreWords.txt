@@ -419,6 +419,7 @@ adzes
 aecia
 aeciospores
 aedile
+aediles
 aeonic
 aeration
 aerations
@@ -2357,6 +2358,7 @@ backscatters
 backset
 backsets
 backshore
+backsides
 backslapper
 backslappers
 backspace
@@ -3725,6 +3727,7 @@ bordure
 bored
 boredoms
 boreen
+boric
 boring
 borings
 borking
@@ -4415,6 +4418,7 @@ cabers
 cabestros
 cabezones
 cabinmate
+cabins
 cablecasting
 cabob
 cabochons
@@ -6520,6 +6524,7 @@ complementizer
 completed
 completeness
 completion
+completive
 complexest
 complexified
 complexifies
@@ -7112,6 +7117,7 @@ cornelian
 cornerways
 cornerwise
 cornet
+cornetcy
 cornettists
 cornfield
 cornify
@@ -8657,6 +8663,7 @@ dendrologist
 denegations
 deniabilities
 deniable
+denials
 deniers
 denigrations
 denigratory
@@ -9424,6 +9431,7 @@ disentails
 disenthrals
 disentitled
 disequilibrated
+disequilibriums
 diseur
 diseurs
 diseuses
@@ -9945,6 +9953,7 @@ doziness
 dozy
 drabness
 drabnesses
+dracena
 draffiest
 draffy
 draftable
@@ -10721,6 +10730,7 @@ empathizing
 empennages
 emperor
 emperors
+emphases
 emphasis
 emphasise
 emphysematous
@@ -11014,6 +11024,7 @@ entities
 entitle
 entitled
 entoblast
+entoblasts
 entoderm
 entomb
 entombment
@@ -13081,6 +13092,7 @@ frameshift
 frameworks
 franchise
 franchisees
+francium
 francized
 frangipane
 franker
@@ -13785,6 +13797,7 @@ gestations
 gesticulators
 gesturer
 gesturing
+getaways
 getting
 geum
 gewgawed
@@ -14496,6 +14509,7 @@ grubbing
 grubstakes
 grudging
 gruel
+grueled
 grueling
 grueller
 gruellers
@@ -16366,6 +16380,7 @@ impingements
 impings
 impish
 impishly
+impishness
 implantable
 implantation
 implanted
@@ -16398,6 +16413,7 @@ impound
 impounded
 impounds
 impoverishing
+impracticably
 impractical
 imprecates
 imprecating
@@ -17304,6 +17320,7 @@ intrusively
 intrusting
 intubate
 intubation
+intubations
 intuiting
 intuition
 intuitionist
@@ -18930,6 +18947,7 @@ limpsiest
 limulus
 limy
 linage
+lincomycins
 lindanes
 linden
 lindens
@@ -19225,6 +19243,7 @@ lopsidednesses
 lorazepams
 lordings
 lordlier
+lordlike
 lordliness
 lordoses
 lore
@@ -22790,6 +22809,7 @@ offramp
 often
 oftenest
 ogam
+ogdoad
 ogee
 ogees
 ogives
@@ -23413,6 +23433,7 @@ outsoared
 outsoars
 outsoles
 outsources
+outspan
 outspell
 outspokenness
 outspread
@@ -23543,6 +23564,7 @@ overcrowding
 overcrowds
 overcut
 overdecked
+overdecorates
 overdecorations
 overdemanding
 overdependence
@@ -25949,6 +25971,7 @@ posttreatment
 posttrial
 postulant
 postulational
+posturers
 postvaccination
 postvagotomy
 pot
@@ -26987,6 +27010,7 @@ puncher
 punches
 punchinello
 punchinellos
+punctated
 punctiliously
 punctually
 punctuate
@@ -27107,6 +27131,7 @@ puttylike
 puttyroots
 puzzlements
 pyaemic
+pyas
 pycnometer
 pycnosis
 pycnotic
@@ -27319,6 +27344,7 @@ quippiest
 quipster
 quire
 quires
+quirky
 quislingism
 quislingisms
 quitch
@@ -32129,6 +32155,7 @@ spellers
 spelunked
 spences
 spendable
+spenders
 spending
 spense
 spermacetis
@@ -32214,6 +32241,7 @@ spiraled
 spirally
 spirant
 spired
+spirem
 spireme
 spiremes
 spires
@@ -32865,6 +32893,7 @@ stratocracy
 stratovolcanoes
 stratum
 stravaig
+stravaigs
 straw
 strawberry
 strawhat
@@ -33096,6 +33125,7 @@ subdominants
 subdual
 subduce
 subduced
+subduct
 subduedly
 subduers
 subdwarf
@@ -34349,6 +34379,7 @@ tentorium
 tenues
 tenuity
 tenuousnesses
+tenuto
 teopans
 teosintes
 tepals
@@ -34579,6 +34610,7 @@ thirtieths
 thirty
 thirtyish
 thisaway
+thole
 thongs
 thoracotomy
 thorium
@@ -36781,6 +36813,7 @@ upclimbs
 upcountries
 upcurling
 upcurves
+updarts
 update
 updater
 updraft
@@ -37371,6 +37404,7 @@ virtuous
 virtuousness
 virulencies
 virus
+virusoid
 virusoids
 vis
 viscera
@@ -38408,6 +38442,7 @@ yahrzeit
 yaird
 yaks
 yald
+yamen
 yammer
 yammering
 yang
