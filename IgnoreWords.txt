@@ -419,6 +419,7 @@ adytum
 adzes
 aecia
 aeciospores
+aecium
 aedile
 aediles
 aeonic
@@ -2899,6 +2900,7 @@ belaud
 belauds
 belay
 belayed
+belch
 beldam
 beldams
 beleaguerment
@@ -4068,6 +4070,7 @@ bronchioles
 bronchitic
 bronchoscopists
 bronchospasms
+bronchospastic
 broncobuster
 bronzer
 bronzing
@@ -5893,6 +5896,7 @@ cleanses
 clearcutting
 clearer
 cleareyed
+clearing
 clearly
 clearwings
 cleaves
@@ -6695,6 +6699,7 @@ confirmands
 confirmations
 confirmers
 confiscable
+conflagrant
 conflagrations
 conflate
 conflates
@@ -7068,6 +7073,7 @@ copse
 copublish
 copulates
 copulatives
+copy
 copycat
 copydesk
 copyedit
@@ -7219,6 +7225,7 @@ cosmeticize
 cosmochemist
 cosmogonic
 cosmographical
+cosmographies
 cosmolining
 cosmologies
 cosmonauts
@@ -7998,6 +8005,7 @@ cymbalom
 cymbidium
 cyme
 cymene
+cymling
 cynical
 cynically
 cynicism
@@ -9918,6 +9926,7 @@ dowery
 dowie
 downbeats
 downcast
+downcasts
 downcourt
 downer
 downfall
@@ -11090,6 +11099,7 @@ enwheeled
 enwheeling
 enwomb
 enwrapping
+enwreathed
 enwreathes
 enzym
 enzymologies
@@ -11132,6 +11142,7 @@ epichlorohydrin
 epicontinental
 epicotyl
 epicotyls
+epicureanisms
 epicuticular
 epidemic
 epidemics
@@ -11425,6 +11436,7 @@ etiologies
 etna
 etoile
 etoiles
+etude
 etudes
 etui
 etuis
@@ -11607,6 +11619,7 @@ executers
 executes
 executioners
 executory
+exedra
 exegetic
 exegetics
 exemplarinesses
@@ -13195,6 +13208,7 @@ friezes
 frighten
 frightful
 frightfulness
+frigidly
 frigidness
 frigidnesses
 friller
@@ -13803,6 +13817,7 @@ gerontologists
 gesneriad
 gest
 gestalt
+gestaltists
 gestating
 gestations
 gesticulators
@@ -16222,6 +16237,7 @@ illumine
 illumines
 illumining
 illuminism
+illusional
 illusionism
 illusionisms
 illusionist
@@ -17726,6 +17742,7 @@ jemidars
 jemmies
 jemmy
 jeopardised
+jequirities
 jereed
 jerkies
 jerks
@@ -18898,6 +18915,7 @@ lifters
 liftgates
 lifting
 ligaments
+ligans
 ligation
 ligative
 ligatured
@@ -19731,6 +19749,7 @@ manoeuvres
 manometries
 manque
 manropes
+mans
 mansard
 manse
 manses
@@ -21413,6 +21432,7 @@ muddy
 mudflow
 mudpuppies
 mudrooms
+mudslide
 mudslinger
 mudslinging
 mudslingings
@@ -24367,6 +24387,7 @@ pasteups
 pasteurises
 pasteurizing
 pasticheurs
+pastiest
 pastilles
 pastinas
 pastinesses
@@ -24550,6 +24571,7 @@ peesweep
 peeve
 peewees
 peewit
+peewits
 peg
 peglike
 pegmatites
@@ -25037,6 +25059,7 @@ phosphorolytic
 phosphors
 phosphoryl
 phosphorylated
+phosphorylative
 phosphoryls
 photics
 photoautotroph
@@ -25643,6 +25666,7 @@ pocketknife
 pockmarks
 pocky
 pocosin
+pocoson
 podagrous
 podestas
 podgiest
@@ -26603,6 +26627,7 @@ proctologies
 proctored
 proctors
 procurations
+procuratorial
 procure
 procurement
 procuring
@@ -27659,6 +27684,7 @@ ravishers
 rawest
 rawhided
 rawin
+rawinsondes
 rawnesses
 rax
 raxing
@@ -28900,6 +28926,7 @@ resurfacing
 resurging
 resurrect
 resurrects
+resurveying
 resuscitations
 reswallowed
 resynthesizes
@@ -31096,6 +31123,7 @@ shutter
 shuttered
 shutterless
 shuttle
+shuttlecock
 shuttlecocking
 shvartzes
 shylock
@@ -31113,6 +31141,7 @@ sices
 sicked
 sickening
 sickishness
+sickishnesses
 sicklemia
 sicklier
 sickliest
@@ -34489,6 +34518,7 @@ testudines
 testudo
 tetanizations
 tetanizing
+tetchily
 tetherballs
 tetracycline
 tetradic
@@ -34503,6 +34533,7 @@ tetrapods
 tetrarchic
 tetraspores
 tetrazoliums
+tetrazzini
 tetrode
 tetroxid
 tetryl
@@ -37180,6 +37211,7 @@ vegie
 vehemences
 vehement
 veiler
+veilers
 veiling
 veinier
 veining
@@ -38033,6 +38065,7 @@ who
 whoa
 whodunits
 whodunnit
+wholeheartedly
 wholesaled
 wholesome
 whomped
@@ -38126,6 +38159,7 @@ windflowers
 windgalls
 windigo
 windiness
+windings
 windjammers
 windless
 windmills
@@ -38343,6 +38377,7 @@ worst
 worsting
 worsts
 worthiest
+worthiness
 worthinesses
 worthlessly
 worths
