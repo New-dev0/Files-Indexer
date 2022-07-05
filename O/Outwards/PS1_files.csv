@@ -1,0 +1,3 @@
+private/mapping/Read-JiraIssueLinkType.ps1 1.0.5,https://www.powershellgallery.com/packages/PowerJiraSqlRefresh/1.0.5/Content/private%255Cmapping%255CRead-JiraIssueLinkType.ps1
+Functions/Internal/Invoke-JiraMethod.Tests.ps1 1.1.0.36,https://www.powershellgallery.com/packages/PSJira/1.1.0.36/Content/Functions%255CInternal%255CInvoke-JiraMethod.Tests.ps1
+nishang/Out-Word.ps1 at master - GitHub,https://github.com/samratashok/nishang/blob/master/Client/Out-Word.ps1

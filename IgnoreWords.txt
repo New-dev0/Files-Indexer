@@ -1541,6 +1541,8 @@ appellors
 appels
 append
 appendants
+appendectomies
+appendicitis
 appendicular
 appends
 apperceive
@@ -1632,6 +1634,7 @@ arames
 arbalest
 arbalests
 arbiter
+arbiters
 arbitraged
 arbitragers
 arbitrarinesses
@@ -1688,6 +1691,7 @@ archosaurian
 archosaurs
 archrival
 archrivals
+arctic
 arcuations
 ardeb
 ardebs
@@ -1877,6 +1881,7 @@ aspired
 aspish
 asrama
 assagai
+assailable
 assais
 assassinating
 assassinator
@@ -2213,6 +2218,7 @@ avisos
 avo
 avocado
 avocados
+avocationally
 avoid
 avoided
 avos
@@ -3181,6 +3187,7 @@ bint
 bioacoustics
 bioactive
 bioassay
+biochip
 biocidal
 biodegradation
 biodegradations
@@ -3665,6 +3672,7 @@ bookful
 bookish
 bookishness
 bookkeepers
+bookmaker
 bookman
 bookmarker
 bookmarking
@@ -4069,6 +4077,7 @@ bros
 broses
 brosy
 brotherhoods
+brothers
 broths
 brouhaha
 browallias
@@ -4286,6 +4295,7 @@ burnishers
 burnt
 burqas
 burrow
+burrowers
 bursa
 burse
 bursted
@@ -5032,6 +5042,7 @@ cauld
 cauliflowerets
 cauliflowers
 cauline
+caulked
 caulker
 cauls
 causable
@@ -8518,6 +8529,7 @@ delight
 delighted
 delightedly
 delightedness
+delighter
 delights
 delightsome
 delime
@@ -9031,6 +9043,7 @@ diatomite
 diatoms
 diatribe
 diazinons
+diazole
 diazoniums
 diazotizations
 diazotizes
@@ -9173,6 +9186,7 @@ din
 dinar
 dinars
 dined
+dinero
 dineros
 dingdong
 dinger
@@ -10139,6 +10153,7 @@ dunderheads
 dunelike
 dungeoning
 dunging
+dunker
 dunlin
 dunner
 dunnite
@@ -10497,6 +10512,7 @@ electrogenic
 electrogram
 electrograms
 electroless
+electrolytes
 electrolytic
 electrolyzed
 electrolyzing
@@ -12555,6 +12571,7 @@ flintinesses
 flintlock
 flipbooks
 flipflops
+flippancies
 flipping
 flirtatiously
 flirted
@@ -13732,6 +13749,7 @@ ghastfully
 ghastlinesses
 ghastly
 ghat
+ghats
 ghazies
 ghees
 gherao
@@ -13924,6 +13942,7 @@ globalizes
 globbiest
 globefish
 globelike
+globoid
 globose
 gloggs
 glom
@@ -13942,6 +13961,7 @@ gloried
 glorify
 glorioles
 glorying
+glossal
 glossator
 glossators
 glossemes
@@ -16145,6 +16165,7 @@ imbrications
 imbroglio
 imbrowns
 imbrued
+imbruing
 imbruting
 imbued
 imide
@@ -16647,6 +16668,7 @@ inertias
 inertnesses
 inerts
 inevitableness
+inevitably
 inexact
 inexcusably
 inexistence
@@ -17503,6 +17525,7 @@ jacklight
 jackrabbits
 jackrolled
 jackstone
+jackstraw
 jacobin
 jacobus
 jacobuses
@@ -17809,6 +17832,7 @@ kaiak
 kaiaks
 kaifs
 kail
+kain
 kainits
 kaiserdom
 kaiserism
@@ -19235,6 +19259,7 @@ lummoxes
 lumpen
 lumper
 lumpinesses
+lumping
 lumpingly
 lunacy
 lunarian
@@ -20769,6 +20794,7 @@ mistranslates
 mistreated
 mistress
 mistrusted
+mistrustfulness
 mistrusts
 mistruth
 mistryst
@@ -21216,6 +21242,7 @@ mousy
 mouthily
 mouthpart
 mouthparts
+mouthpiece
 mouthwash
 mouthy
 movable
@@ -21546,6 +21573,7 @@ nails
 nainsooks
 naissance
 naiveness
+naivete
 naivetes
 naiveties
 nakedly
@@ -22324,6 +22352,7 @@ normothermic
 norther
 northers
 northing
+northmost
 northwest
 northwester
 northwesters
@@ -23326,6 +23355,7 @@ outwaits
 outwalked
 outwalks
 outwardnesses
+outwards
 outwatching
 outwear
 outwearing
@@ -25782,6 +25812,7 @@ postin
 postiques
 postisolation
 postlaunch
+postliberation
 postmarital
 postmastectomy
 postmaster
@@ -26245,6 +26276,7 @@ pretense
 pretension
 pretensionless
 pretensions
+preterite
 preterits
 pretermination
 pretermission
@@ -28492,6 +28524,7 @@ requesting
 requests
 requiescat
 requires
+requisitenesses
 requisitioning
 requite
 requiters
@@ -30639,6 +30672,7 @@ sheers
 sheeter
 sheeting
 sheetings
+sheetlike
 sheetrock
 sheetrocks
 sheets
@@ -37974,6 +38008,7 @@ wizards
 wizened
 wizes
 wizzen
+woald
 woalds
 wobbler
 wobbles
