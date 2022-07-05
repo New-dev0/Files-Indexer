@@ -3595,6 +3595,7 @@ bolus
 bombarder
 bombardier
 bombinates
+bombination
 bomblet
 bombloads
 bombproofs
@@ -6704,6 +6705,7 @@ connectedly
 connectedness
 connecter
 connecters
+connectible
 connecting
 connections
 conning
@@ -9668,6 +9670,7 @@ doglegs
 doglike
 dogmatism
 dogmatize
+dognap
 dognapped
 dogrobbers
 dogsledder
@@ -9743,6 +9746,7 @@ doorways
 doozers
 dopamines
 dopants
+doper
 dopey
 dopier
 doping
@@ -11293,6 +11297,7 @@ ethynyls
 etiolating
 etiolations
 etiologically
+etiologies
 etna
 etoile
 etoiles
@@ -11447,6 +11452,7 @@ excluded
 exclusion
 exclusions
 exclusive
+exclusivists
 excogitate
 excogitations
 excommunicate
@@ -11484,6 +11490,7 @@ exemplification
 exemplify
 exemplum
 exempted
+exemption
 exemptions
 exempts
 exenterated
@@ -11561,6 +11568,7 @@ expansionists
 expat
 expatiate
 expatiated
+expatriating
 expatriatisms
 expecting
 expedience
@@ -15255,6 +15263,7 @@ hijacking
 hijra
 hilariousnesses
 hilarity
+hillbillies
 hillbilly
 hilled
 hillinesses
@@ -15914,6 +15923,7 @@ hypostomes
 hypotenuse
 hypothecates
 hypothecation
+hypothecs
 hypothermias
 hypothyroidism
 hypoxemia
@@ -16495,6 +16505,7 @@ indisciplines
 indiscretions
 indiscriminate
 indispose
+indisposes
 indisposing
 indistinctness
 indite
@@ -18742,6 +18753,7 @@ lindens
 lindies
 lineable
 lineally
+linearised
 linearized
 linebackings
 linebreedings
@@ -19097,6 +19109,7 @@ lowlifer
 lowlights
 lowliheads
 lowrider
+lox
 loxodrome
 loxodromes
 loyaler
@@ -21808,6 +21821,7 @@ nils
 nimbi
 nimble
 nimbostrati
+nimbostratus
 nimming
 nincompoopery
 ninebarks
@@ -23675,6 +23689,7 @@ padshah
 paean
 paeans
 paediatric
+paedogeneses
 paedogenic
 paedomorphism
 paedomorphisms
@@ -23790,6 +23805,7 @@ paltriness
 paltry
 paludal
 paly
+palynologies
 pampa
 pampeans
 pampered
@@ -24641,6 +24657,7 @@ phenetole
 phenetoles
 phenobarbital
 phenobarbitals
+phenol
 phenolated
 phenolics
 phenolphthalein
@@ -25403,6 +25420,7 @@ polarized
 polarons
 polder
 polecats
+polemicizing
 polemics
 polemized
 polemizing
@@ -26657,6 +26675,7 @@ puddly
 pudenda
 pudibund
 pudic
+puerile
 puerperae
 puerperium
 puff
@@ -27966,6 +27985,7 @@ rehearses
 reheeled
 rehemmed
 rehired
+rehouse
 rehumanizes
 rehypnotizing
 reidentifies
@@ -29756,6 +29776,7 @@ schismatical
 schismatize
 schizier
 schiziest
+schizophrenias
 schizophrenic
 schizophrenics
 schizzier
@@ -29832,6 +29853,7 @@ scooch
 scoopers
 scootch
 scootched
+scootches
 scopolamine
 scopulate
 scorbutic
@@ -30847,6 +30869,7 @@ silkie
 silkiest
 silkweed
 silkweeds
+sill
 silliness
 silurid
 silvas
@@ -31386,6 +31409,7 @@ snort
 snorted
 snorting
 snottily
+snowbank
 snowbanks
 snowberries
 snowbird
@@ -31765,6 +31789,7 @@ specialisation
 specialising
 specialism
 specialisms
+specially
 specialty
 species
 specifications
@@ -32598,6 +32623,7 @@ strikebreakers
 strikeouts
 strikeovers
 striker
+strikes
 striking
 stringcourses
 stringhalts
@@ -33178,6 +33204,7 @@ superintend
 superintendents
 superintends
 superintensity
+superior
 superiorities
 superjumbo
 superjumbos
@@ -33420,6 +33447,7 @@ swifter
 swiftness
 swig
 swillers
+swim
 swimmily
 swindles
 swinepox
@@ -36244,6 +36272,7 @@ unsaturates
 unsaved
 unsavoury
 unsayables
+unscarred
 unschooled
 unscrambling
 unscrew
@@ -36336,6 +36365,7 @@ untidily
 untidy
 untie
 untied
+untillable
 untilled
 untimed
 untiringly
@@ -36491,6 +36521,7 @@ uptightness
 uptosses
 uptossing
 upturned
+upward
 upwelling
 upwellings
 uraemia
@@ -36940,6 +36971,7 @@ vignettist
 vigours
 vilenesses
 vilest
+vilification
 vilifiers
 villagers
 villages
@@ -37216,6 +37248,7 @@ wagonages
 wagonload
 wagons
 wags
+waifish
 waifs
 wailed
 wailers
@@ -37525,6 +37558,7 @@ whigs
 whiled
 whiles
 whimbrel
+whimbrels
 whimpering
 whimpers
 whims
@@ -38151,6 +38185,7 @@ zaffar
 zaffars
 zagging
 zaikais
+zamarra
 zamindar
 zamindaris
 zanders
