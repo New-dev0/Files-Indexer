@@ -2899,6 +2899,7 @@ bejewel
 bejeweled
 bejewels
 bejumbles
+beknot
 beknots
 belabors
 belaced
@@ -4404,6 +4405,7 @@ buyout
 buys
 buzukis
 buzz
+buzzers
 buzzingly
 buzzword
 buzzwords
@@ -5916,6 +5918,7 @@ clearing
 clearly
 clearwings
 cleaves
+cleistogamic
 cleistogamy
 clencher
 clenches
@@ -8730,6 +8733,7 @@ dentations
 denticulations
 dentiform
 dentifrices
+dentin
 dentins
 denturists
 denudates
@@ -8762,6 +8766,7 @@ depilators
 depletions
 deplore
 deplorer
+deploring
 deployable
 deployers
 deployments
@@ -9234,6 +9239,7 @@ dilation
 dilative
 dilatometer
 dilatometers
+dilatometry
 dilatoriness
 dilatorinesses
 dilettantes
@@ -9431,6 +9437,7 @@ discontinuities
 discordant
 discordantly
 discos
+discotheques
 discountable
 discountenanced
 discounting
@@ -10449,6 +10456,7 @@ ectases
 ectopias
 ectopic
 ectoplasms
+ectothermic
 ectype
 ecumenically
 ecumenicism
@@ -10572,6 +10580,7 @@ elains
 elaphine
 elapse
 elasmobranch
+elasticities
 elatedness
 elater
 elaterite
@@ -11549,6 +11558,7 @@ evenest
 evenhanded
 evening
 eventful
+eventide
 eventuated
 everlastingly
 everlastingness
@@ -11763,6 +11773,7 @@ experimentally
 experimented
 experiments
 expertism
+expertizes
 expertizing
 expertness
 expiation
@@ -14274,6 +14285,7 @@ gormed
 gormless
 gorp
 gosling
+gospeler
 gossip
 gossippers
 gossypols
@@ -16459,6 +16471,7 @@ impetrate
 impetrated
 impetrates
 impetuosity
+impetus
 imphees
 imping
 impingements
@@ -16913,6 +16926,7 @@ informal
 informality
 informants
 information
+informations
 informative
 infos
 infotainments
@@ -17849,6 +17863,7 @@ jimsonweed
 jingko
 jingling
 jingoisms
+jingoistically
 jinker
 jinkers
 jinni
@@ -18536,6 +18551,7 @@ landloper
 landlordism
 landlubberly
 landlubbers
+landlubbing
 landman
 lands
 landslid
@@ -18619,6 +18635,7 @@ lat
 latches
 latching
 lateener
+laten
 latens
 latent
 later
@@ -19147,6 +19164,7 @@ lithophytes
 lithos
 lithospheres
 lithotomy
+litmus
 litterateur
 litterbag
 litterbags
@@ -19437,6 +19455,7 @@ lullabies
 lullaby
 lulling
 lulu
+lum
 lumbago
 lumbar
 lumbars
@@ -20238,6 +20257,7 @@ mementoes
 memes
 memetics
 memo
+memorable
 memorably
 memorialises
 memorialising
@@ -21905,6 +21925,7 @@ nearshore
 nearside
 neaten
 neath
+neatly
 neats
 nebulose
 nebulosities
@@ -25487,6 +25508,7 @@ pithiness
 pithy
 pitiable
 pitiableness
+pitiful
 pitifuller
 pitmans
 pittances
@@ -25675,6 +25697,7 @@ plimsol
 pliofilm
 pliskie
 plisse
+ploidy
 plop
 plosions
 plotlessness
@@ -25710,6 +25733,7 @@ plunker
 plunkers
 plunks
 plunky
+pluralist
 pluralists
 pluralizing
 plus
@@ -26503,6 +26527,7 @@ presignifying
 preslaughter
 presolves
 presorts
+presplit
 pressboard
 pressruns
 pressureless
@@ -29521,6 +29546,7 @@ rooty
 ropedancers
 roper
 ropers
+ropewalk
 ropewalkers
 ropewalks
 ropier
@@ -29719,6 +29745,7 @@ ruralist
 ruralite
 rush
 rushed
+rushee
 rusher
 rushers
 rusks
@@ -30116,6 +30143,7 @@ scagliolas
 scalable
 scalariform
 scalariformly
+scalation
 scalations
 scale
 scaler
@@ -31149,6 +31177,7 @@ showily
 showiness
 showplace
 showroom
+showstopper
 showy
 shredders
 shrewdie
@@ -33887,6 +33916,7 @@ swampiest
 swamping
 swanherds
 swankest
+swankily
 swanking
 swanpan
 swans
@@ -36714,6 +36744,7 @@ unpile
 unpins
 unplaced
 unpleasantly
+unpleased
 unpledged
 unpliable
 unpliant
@@ -36866,6 +36897,7 @@ unstoppered
 unstopping
 unstops
 unsubdued
+unsuccess
 unsunk
 unsupportable
 unsurpassed
@@ -37606,6 +37638,7 @@ visualizer
 vita
 vitae
 vitalising
+vitalism
 vitalistic
 vitalists
 vitality
@@ -38001,6 +38034,7 @@ weatherperson
 weatherpersons
 weathers
 weavers
+weaves
 web
 webcams
 webers
@@ -38832,6 +38866,7 @@ zonary
 zonated
 zoneless
 zonetimes
+zonks
 zoochores
 zoogeographer
 zoogeographic
