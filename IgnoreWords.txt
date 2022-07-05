@@ -1717,6 +1717,7 @@ arenes
 arenites
 areole
 arete
+argala
 argentums
 arginases
 argons
@@ -2472,6 +2473,7 @@ ballyrag
 ballyragged
 ballyrags
 balm
+balmier
 balminess
 baloney
 baloneys
@@ -2772,6 +2774,7 @@ becket
 beckoned
 beckoners
 beckoning
+beclasp
 beclasps
 becloaks
 beclogs
@@ -2911,6 +2914,7 @@ belayed
 belch
 beldam
 beldams
+beleaguer
 beleaguerment
 beleaguers
 belfried
@@ -3716,6 +3720,7 @@ boon
 boondoggler
 boondoggling
 boonless
+boorish
 boorishness
 boost
 boosterisms
@@ -3917,6 +3922,7 @@ brashnesses
 brashy
 brasilins
 brassbound
+brasserie
 brasseries
 brasses
 brassieres
@@ -5769,6 +5775,7 @@ circa
 circle
 circuit
 circuitousness
+circular
 circularised
 circularness
 circulates
@@ -7428,6 +7435,7 @@ crabstick
 crackajacks
 crackback
 crackerjack
+crackings
 crackle
 cracklier
 cracknel
@@ -8256,6 +8264,7 @@ dealated
 dealation
 dealerships
 deals
+dealt
 deaned
 deanship
 dearie
@@ -9491,6 +9500,7 @@ disfavoured
 disfigure
 disfigured
 disfrock
+disfurnishes
 disgrace
 disgraced
 disgracefulness
@@ -10343,6 +10353,7 @@ dyspnoea
 dyspnoeas
 dysrhythmia
 dysthymia
+dysthymics
 dystocias
 dystopias
 dystrophic
@@ -12503,6 +12514,7 @@ fireproofs
 firer
 fireship
 fireside
+firewoods
 firing
 firkins
 firm
@@ -12696,6 +12708,7 @@ flintlock
 flipbooks
 flipflops
 flippancies
+flippest
 flipping
 flirtatiously
 flirted
@@ -12994,6 +13007,7 @@ forenoon
 foreordained
 foreordaining
 foreordination
+foreparts
 forepaw
 forepeak
 forequarter
@@ -13567,6 +13581,7 @@ galvanoscopes
 galyac
 galyak
 gambesons
+gambias
 gambier
 gambiers
 gambles
@@ -13681,6 +13696,7 @@ gastrovascular
 gastrulation
 gasts
 gasworks
+gateaux
 gatecrash
 gatefolds
 gatehouse
@@ -15588,6 +15604,7 @@ hoblike
 hoboing
 hoboism
 hocker
+hockey
 hocks
 hockshop
 hocus
@@ -17835,6 +17852,7 @@ jetports
 jets
 jetsoms
 jettied
+jetty
 jetway
 jeu
 jew
@@ -18317,6 +18335,7 @@ kludgiest
 klutzinesses
 knackery
 knacks
+knapper
 knapsacks
 knars
 knavishly
@@ -18885,6 +18904,7 @@ leucines
 leucite
 leucitic
 leucocyte
+leucoplasts
 leuds
 leukaemias
 leukemia
@@ -19099,6 +19119,7 @@ lintols
 lints
 lintwhites
 linuron
+lionfish
 lionhearted
 lionisers
 lionising
@@ -19163,6 +19184,7 @@ lithoidal
 lithophytes
 lithos
 lithospheres
+lithospheric
 lithotomy
 litmus
 litterateur
@@ -19878,6 +19900,7 @@ marches
 marchese
 marchioness
 marchland
+maremma
 margarites
 margays
 margented
@@ -23592,6 +23615,7 @@ outthought
 outtowering
 outtraveled
 outtrick
+outtrump
 outturns
 outvaunted
 outvaunting
@@ -24079,6 +24103,7 @@ pagan
 pagandom
 paganizing
 pageants
+paged
 pagefuls
 pages
 paginated
@@ -26322,6 +26347,7 @@ predestines
 predestining
 predetermine
 predetermines
+predevaluation
 predevelopment
 predicaments
 predicates
@@ -27663,6 +27689,7 @@ ramees
 ramekin
 ramie
 ramies
+ramification
 ramiform
 ramifying
 rammer
@@ -28181,6 +28208,7 @@ redonning
 redouble
 redoublers
 redoubtable
+redoubts
 redounded
 redout
 redouts
@@ -28497,6 +28525,7 @@ reitbok
 reiterating
 reive
 reived
+reives
 rejackets
 rejectees
 rejections
@@ -30316,6 +30345,7 @@ scolioma
 scollops
 scolopendras
 sconcheons
+scone
 scooch
 scoopers
 scootch
@@ -30772,6 +30802,7 @@ seral
 serapes
 seraph
 seraphic
+seraphically
 seraphims
 serein
 serenatas
@@ -32843,6 +32874,7 @@ stencils
 stenographer
 stenographies
 stenography
+stenos
 stenosis
 stenotherms
 stepbrothers
@@ -36260,6 +36292,7 @@ uncivil
 uncivilized
 unclamping
 unclasped
+unclassical
 unclassifiable
 unclawed
 uncleanlier
@@ -37042,6 +37075,7 @@ uppers
 uppings
 uppity
 upraise
+upraised
 uprating
 upreached
 uprighting
@@ -37457,6 +37491,7 @@ vertiginous
 vertigoes
 verts
 vervain
+vesica
 vesicates
 vesicating
 vesiculae
