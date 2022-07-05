@@ -208,6 +208,7 @@ acidifiers
 acidifies
 acidify
 acidimeter
+acidimetries
 acidities
 acidity
 acidophil
@@ -316,6 +317,7 @@ adenosis
 adenoviruses
 adeptness
 adequacies
+adequatenesses
 adherence
 adherends
 adheres
@@ -1607,6 +1609,7 @@ aquaria
 aquarian
 aquarium
 aquatint
+aquiculture
 aquifer
 aquifers
 aquilegias
@@ -1666,6 +1669,7 @@ archenemies
 archeology
 archerfishes
 archesporium
+archetypally
 archfoes
 archimandrites
 archine
@@ -1720,6 +1724,7 @@ armed
 armiger
 armistices
 armlock
+armoire
 armonica
 armor
 armors
@@ -3036,6 +3041,7 @@ bewhiskered
 bewig
 bewigging
 bewilderedly
+bewildering
 bewitcheries
 bewitchery
 bewitches
@@ -4713,6 +4719,7 @@ capsulizes
 captain
 captions
 captivate
+captivators
 captivities
 captopril
 captor
@@ -6852,6 +6859,7 @@ conterminously
 contes
 contest
 contestants
+contextualize
 contextures
 contiguously
 continentals
@@ -7985,6 +7993,7 @@ czarina
 czarisms
 czarists
 czaritzas
+dace
 dachas
 dackered
 dacoit
@@ -10010,6 +10019,7 @@ drossiest
 drossy
 droughtier
 droughtiness
+drouked
 drouthiest
 drouthy
 drown
@@ -10198,6 +10208,7 @@ dysenteries
 dysfunction
 dysgeneses
 dysgenesis
+dysgenic
 dyskinesia
 dyslectic
 dyslexic
@@ -10691,6 +10702,7 @@ enamels
 enamoured
 enantiomorphism
 enatic
+encampment
 encapsulated
 encapsulation
 encapsuling
@@ -13082,6 +13094,7 @@ fribble
 fribbler
 fricative
 frictionally
+frictionless
 friedcakes
 friend
 friended
@@ -13104,6 +13117,7 @@ frisky
 frith
 fritillaria
 fritillary
+frivol
 frivolled
 frized
 frizers
@@ -14935,6 +14949,7 @@ hazier
 haziest
 haziness
 hazinesses
+hazmats
 hazzanim
 headachier
 headbands
@@ -17060,6 +17075,7 @@ internecine
 internist
 internments
 interns
+internucleon
 interobserver
 interocean
 interoceptor
@@ -19320,6 +19336,7 @@ macroeconomic
 macroevolution
 macroevolutions
 macroglobulins
+macromere
 macron
 macronuclei
 macrophage
@@ -21497,6 +21514,7 @@ nada
 nadirs
 nae
 naevi
+nagana
 nagged
 naggier
 naiads
@@ -22291,6 +22309,7 @@ northers
 northing
 northwest
 northwester
+northwesters
 nortriptylines
 nos
 nosebag
@@ -23569,6 +23588,7 @@ overseer
 overselling
 oversells
 oversensitive
+oversensitivity
 overservice
 oversets
 oversetting
@@ -24490,6 +24510,7 @@ perfumery
 perfusates
 perfused
 perfuses
+periapses
 periblems
 pericardial
 pericope
@@ -27444,6 +27465,7 @@ reactors
 readablenesses
 readapted
 readapts
+readdicted
 readerly
 readied
 readier
@@ -27726,6 +27748,7 @@ rectification
 rectified
 rectifiers
 rectifying
+rectitude
 rectitudinous
 recto
 rectors
@@ -29825,6 +29848,7 @@ scaup
 scaur
 scaurs
 scavengers
+scavenges
 scavenging
 scenas
 scend
@@ -31023,6 +31047,7 @@ sirdars
 sirens
 siring
 siroccos
+siruped
 sirupy
 sirvente
 sirventes
@@ -31792,6 +31817,7 @@ sovranty
 sowbelly
 soybean
 soymilk
+soys
 soyuzes
 sozines
 sozins
@@ -32268,6 +32294,7 @@ stairwells
 staithe
 staithes
 staked
+stakes
 stalactitic
 stalags
 stale
@@ -32365,6 +32392,7 @@ stead
 steadfastly
 steadfastnesses
 steadings
+stealages
 stealers
 stealing
 steals
@@ -32841,6 +32869,7 @@ subbasement
 subbasements
 subbasin
 subbass
+subbasses
 subbranch
 subcategories
 subcavity
@@ -33331,6 +33360,7 @@ superreal
 superrealisms
 superromantic
 supersalesmen
+superscripts
 supersecrecies
 supersecrecy
 supersedeas
@@ -33528,6 +33558,7 @@ sweeting
 sweetly
 sweetshop
 sweetsops
+swelter
 sweltry
 sweptback
 swerve
@@ -33904,6 +33935,7 @@ tartuffe
 tasking
 taskworks
 tassel
+tasseled
 tasseling
 tassies
 tastable
@@ -34320,6 +34352,7 @@ thick
 thickenings
 thicker
 thickhead
+thicknesses
 thicksets
 thievery
 thigmotaxes
@@ -35511,6 +35544,7 @@ tweedles
 tweener
 tweeners
 tweenesses
+tweets
 tweezer
 tweezers
 tweezing
@@ -35607,6 +35641,7 @@ uglifier
 uglifiers
 ugsome
 uitlanders
+uke
 ukeleles
 ulama
 ulceration
