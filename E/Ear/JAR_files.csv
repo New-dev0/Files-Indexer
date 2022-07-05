@@ -1,0 +1,6 @@
+Fisheye: Source - Fisheye + Crucible,https://fisheye.iotguru.cloud/browse/JAVAFORUM_OLD/JavaForum2.0/lib/log4j-1.2.14.jar%3Fr2%3D97%26r%3D330%26r1%3D23
+/trunk/org.intra_mart.jst.server.generic.resin/dest/org.intra_mart.jst ...,http://oss.intra-mart.org/projects/im-tools/browser/trunk/org.intra_mart.jst.server.generic.resin/dest/org.intra_mart.jst.server.generic.resin_1.0.3.jar%3Frev%3D30
+oss.intra-mart.org/projects/im-tools/log/trunk/org...,http://oss.intra-mart.org/projects/im-tools/log/trunk/org.intra_mart.jst.server.generic.resin/dest/org.intra_mart.jst.server.generic.resin_1.0.3.jar%3Flimit%3D100%26rev%3D30%26mode%3Dstop_on_copy%26format%3Dchangelog
+https://bazel.googlesource.com/bazel.git/+/refs/ta...,https://bazel.googlesource.com/bazel.git/%2B/refs/tags/1.2.0/third_party/apache_httpclient/httpclient-4.5.3.jar%3Fformat%3DTEXT
+https://bazel.googlesource.com/bazel/+/master/thir...,https://bazel.googlesource.com/bazel/%2B/master/third_party/netty/netty-codec-http-4.1.75.Final.jar%3Fformat%3DTEXT
+WebE - Log - Rev 18 - /trunk/WebContent/WEB-INF/lib/struts2 ...,https://pointedears.de/wsvn/WebE/trunk/WebContent/WEB-INF/lib/struts2-fullhibernatecore-plugin-1.4-GA.jar%3Fop%3Dlog%26rev%3D18%26peg%3D18

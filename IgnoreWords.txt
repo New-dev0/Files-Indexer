@@ -2300,6 +2300,7 @@ backfired
 backfitting
 backflip
 backflows
+background
 backgrounders
 backgrounds
 backhanders
@@ -2551,6 +2552,7 @@ barretors
 barretries
 barrettes
 barricadoes
+barricados
 barriers
 barrooms
 bartender
@@ -2706,6 +2708,7 @@ beau
 beauteousnesses
 beauticians
 beautifiers
+beautifullest
 beauts
 beaux
 beaverboard
@@ -2769,6 +2772,7 @@ bedriveled
 bedriveling
 bedroom
 bedrugged
+beds
 bedsonias
 bedsprings
 bedstand
@@ -2856,6 +2860,7 @@ belay
 belayed
 beldam
 beldams
+beleaguerment
 beleaguers
 belfried
 belgas
@@ -4701,6 +4706,7 @@ carabiniers
 caracaras
 caracoling
 caracolling
+caracul
 caramel
 carangoid
 carapace
@@ -6582,6 +6588,7 @@ confederacy
 confederated
 confederates
 conferencings
+conferment
 conferrable
 conferrence
 conferrences
@@ -6969,6 +6976,7 @@ coprocessors
 coproduced
 coproduct
 coproducts
+coprophagy
 coprophiliac
 coprophilous
 copse
@@ -10173,6 +10181,7 @@ eagle
 eagles
 eagre
 eanling
+ear
 earaches
 earbuds
 eardrum
@@ -10454,6 +10463,7 @@ eleventh
 elevons
 elflock
 elhi
+elicit
 elicitation
 elided
 eligible
@@ -14050,6 +14060,7 @@ grad
 gradate
 gradation
 graded
+gradine
 gradiometer
 graduated
 graduations
@@ -14603,6 +14614,7 @@ halidome
 halidomes
 haling
 halitus
+halituses
 hall
 hallmark
 hallmarked
@@ -14618,6 +14630,7 @@ halogen
 halogenates
 halogenating
 haloid
+haloids
 halterbreaking
 haltless
 halve
@@ -14713,6 +14726,7 @@ harboring
 harbour
 hard
 hardboard
+hardboot
 hardhat
 hardiest
 hardihoods
@@ -16181,6 +16195,7 @@ impossibility
 impossible
 impost
 imposter
+impostor
 impostumes
 impotently
 impound
@@ -16209,6 +16224,7 @@ impressures
 imprimis
 imprint
 imprinter
+imprisonment
 improbably
 impropernesses
 improvable
@@ -17540,6 +17556,7 @@ jobname
 jobnames
 jockette
 jockey
+jockos
 jocular
 jocund
 jodhpurs
@@ -20170,6 +20187,7 @@ microtechnique
 microvolt
 microwatts
 microwavable
+microwaves
 microworlds
 mics
 micturated
@@ -21542,6 +21560,7 @@ needlessly
 needlessnesses
 needleworker
 needling
+neg
 negates
 negatived
 negatively
@@ -21721,6 +21740,7 @@ niellists
 nielloed
 nielloing
 nieve
+nieves
 niffering
 niftily
 niggarding
@@ -21859,6 +21879,7 @@ nonbank
 nonbearing
 nonbelievers
 nonbetting
+nonbinary
 nonbiologically
 nonbiologists
 nonbodies
@@ -23090,6 +23111,7 @@ outrigger
 outrigs
 outrivalling
 outroared
+outrock
 outrolling
 outrowing
 outrows
@@ -23641,6 +23663,7 @@ paintbrush
 painterly
 paintier
 pairings
+paisanos
 paisas
 paisley
 pajama
@@ -23736,6 +23759,7 @@ panchax
 pancratiums
 pancreases
 pancreatins
+pancreozymin
 pandemic
 pandemonium
 pandered
@@ -23876,6 +23900,7 @@ paraphs
 paraplegics
 paraquet
 paraquets
+pararosanilines
 parasailing
 parasailings
 parasang
@@ -25188,6 +25213,7 @@ plenum
 pleomorphic
 pleonasm
 pleonasms
+pleons
 pleopods
 plerocercoids
 pleurae
@@ -26285,6 +26311,7 @@ prolixities
 prolixity
 prologize
 prologized
+prologizing
 prologues
 prolongation
 prolongations
@@ -27676,6 +27703,7 @@ reedbuck
 reeded
 reedifies
 reedit
+reedition
 reeditions
 reedlike
 reedlings
@@ -28934,6 +28962,7 @@ rockhounds
 rockoons
 rockshaft
 rockwork
+rodding
 rode
 rodents
 rodeos
@@ -31059,6 +31088,7 @@ slip
 sliped
 slipes
 slipform
+slipformed
 slipforming
 slipknots
 slipping
@@ -32256,6 +32286,7 @@ sterilising
 sterilization
 sterilize
 sterilizers
+sterlets
 sterling
 sterlingness
 stern
@@ -35362,6 +35393,7 @@ tyrannising
 tyrannizes
 tyrannously
 tyres
+tyro
 tyrocidin
 tyrocidine
 tyronic
@@ -35550,6 +35582,7 @@ uncap
 uncapped
 uncaptioned
 uncapturable
+uncarved
 uncase
 uncased
 uncases
@@ -37408,6 +37441,7 @@ whelm
 whelming
 whenever
 whensoever
+wherefore
 whereinto
 whereto
 wherewiths
@@ -37769,6 +37803,7 @@ workplace
 worktables
 workup
 worldbeat
+worldliness
 wormer
 wormil
 worminesses
