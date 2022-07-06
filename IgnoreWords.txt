@@ -110,6 +110,7 @@ acceded
 accedence
 accedences
 acceding
+accelerando
 accelerates
 accelerative
 accentor
@@ -1173,6 +1174,7 @@ anglicisms
 anglicization
 anglicized
 angosturas
+angriest
 angrinesses
 angry
 anguished
@@ -1208,6 +1210,7 @@ animuses
 anions
 anis
 aniseeds
+anisette
 anisettes
 anisogamous
 anisometropia
@@ -5001,6 +5004,7 @@ carrotin
 carrotins
 carrots
 carrottop
+carryalls
 carryback
 carrying
 carryout
@@ -6598,6 +6602,7 @@ commit
 committing
 commix
 commixt
+commodified
 commodifying
 commodiously
 commodity
@@ -7243,6 +7248,7 @@ coquilles
 coracles
 coracoid
 coralbells
+coralloid
 corals
 corbeil
 corbeils
@@ -7725,6 +7731,7 @@ criminologies
 criminy
 crimp
 crimping
+crimples
 crimson
 crimsoned
 cringer
@@ -9241,6 +9248,7 @@ dialogistic
 dialogs
 dialogue
 dialyzes
+diamagnet
 diamagnetic
 diamante
 diamantes
@@ -10903,6 +10911,7 @@ embark
 embarking
 embarrass
 embarrassable
+embarrassments
 embarring
 embassage
 embassies
@@ -10963,6 +10972,7 @@ emerald
 emerita
 emeriti
 emersed
+emetine
 emeu
 emigration
 emigrations
@@ -11326,6 +11336,7 @@ entropic
 entwined
 entwist
 entwists
+enuf
 enumerabilities
 enumerate
 enumerative
@@ -12386,6 +12397,7 @@ faxes
 faxing
 fayalite
 faying
+faze
 fazenda
 fazes
 fazing
@@ -14475,6 +14487,7 @@ godly
 godmothering
 godroon
 godships
+goethites
 goffered
 goggle
 goggles
@@ -14926,6 +14939,7 @@ gueridons
 guessable
 guesstimated
 guesstimates
+guessworks
 guesting
 guggle
 guggles
@@ -15969,6 +15983,7 @@ homespun
 homestead
 homesteading
 homestretch
+homey
 homiest
 homilies
 hominians
@@ -18510,6 +18525,7 @@ khaddar
 khafs
 khalif
 khans
+khazen
 khazens
 khedas
 khedival
@@ -23401,6 +23417,7 @@ olestras
 olfaction
 olfactions
 olibanum
+oligarchy
 oligochaetes
 oligodendrocyte
 oligomeric
@@ -24833,6 +24850,7 @@ parishioners
 park
 parkas
 parkers
+parkinsonisms
 parlance
 parlando
 parlay
@@ -25649,6 +25667,7 @@ photolyze
 photomapped
 photometers
 photomontages
+photomosaic
 photomurals
 photonegative
 photooxidized
@@ -28262,6 +28281,7 @@ ratiocinator
 ration
 rationales
 rationalists
+rationalities
 rationalizes
 rations
 ratites
@@ -29394,6 +29414,7 @@ resaws
 rescale
 reschool
 rescind
+rescinders
 rescinding
 rescoring
 rescuer
@@ -31117,6 +31138,7 @@ sedative
 sedilia
 sedimentable
 sedimentation
+sedimenting
 sedimentologies
 seditions
 seducive
@@ -31601,6 +31623,7 @@ shelves
 shelving
 sheol
 shepherdesses
+sheqalim
 sherberts
 sherds
 shereef
@@ -33990,6 +34013,7 @@ sublicensing
 sublieutenant
 sublimate
 sublimely
+sublimer
 subliminally
 subliming
 sublimits
@@ -34018,6 +34042,7 @@ submittals
 submitted
 subnational
 subnuclear
+suboptimization
 suboptimizes
 suborbicular
 suborder
@@ -35245,6 +35270,7 @@ ternate
 terne
 terneplates
 ternions
+terpeneless
 terpinols
 terpsichorean
 terra
@@ -37227,6 +37253,7 @@ unfit
 unfitness
 unfitted
 unfixing
+unflappable
 unfledged
 unflexed
 unflinching
@@ -37701,6 +37728,7 @@ upbow
 upbraid
 upbraider
 upbraiders
+upbuild
 upby
 upchucks
 upclimbs
@@ -37945,6 +37973,7 @@ vanquishers
 vantage
 vapid
 vapidities
+vapidity
 vapidness
 vaporer
 vaporetto
@@ -38203,6 +38232,7 @@ viands
 viatica
 viator
 viators
+vibracula
 vibraharpist
 vibraphone
 vibrated
@@ -38456,6 +38486,7 @@ vomiter
 vomito
 voodooed
 voodooism
+voodooisms
 voraciousness
 vorlages
 vortex
@@ -38486,6 +38517,7 @@ vugs
 vulcanisations
 vulcanised
 vulcanising
+vulcanism
 vulcanisms
 vulcanized
 vulcanizer
@@ -38837,6 +38869,7 @@ whatsoever
 wheals
 wheatlands
 wheedled
+wheedles
 wheelbarrow
 wheeler
 wheelies
@@ -38972,6 +39005,7 @@ wideners
 widens
 wideout
 widowerhood
+widowers
 widowhood
 widows
 wielders
@@ -39500,6 +39534,7 @@ yupon
 yuppiedoms
 yuppieish
 yuppified
+yuppify
 yuppifying
 yurt
 ywis
