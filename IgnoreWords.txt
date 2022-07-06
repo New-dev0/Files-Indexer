@@ -473,6 +473,7 @@ affecting
 affectionate
 affective
 affectivities
+affectless
 affenpinschers
 affiance
 affiche
@@ -640,6 +641,7 @@ airthed
 airts
 airward
 airwomen
+airworthinesses
 ajuga
 akees
 akene
@@ -3324,6 +3326,7 @@ biotechnologist
 biotical
 biotics
 biotitic
+biotron
 bioturbed
 biparentally
 bipartisanisms
@@ -4060,6 +4063,7 @@ bridal
 bride
 bridewells
 bridge
+bridgeless
 bridges
 bridles
 bridling
@@ -4471,6 +4475,7 @@ butyric
 butyrins
 buxom
 buxomer
+buxomly
 buxomness
 buy
 buyout
@@ -5760,6 +5765,7 @@ christening
 christies
 chroma
 chromates
+chromatically
 chromaticism
 chromatids
 chromatograms
@@ -6303,6 +6309,7 @@ coercers
 coercibly
 coercing
 coercivities
+coeternal
 coevolution
 coexecutor
 coexisted
@@ -7161,6 +7168,7 @@ cooperatively
 cooperatives
 cooperators
 coordinated
+coordinating
 coordinators
 coots
 coparcenaries
@@ -10085,6 +10093,7 @@ doublenesses
 doublespeak
 doubloons
 doubters
+doubtingly
 doubtlessly
 douched
 douches
@@ -10176,6 +10185,7 @@ draftings
 dragged
 draggiest
 draggle
+draggled
 dragline
 dragnet
 dragonheads
@@ -13044,6 +13054,7 @@ flyleaf
 flyoff
 flyovers
 flypapers
+flyrodders
 flysheets
 flyswatter
 flyting
@@ -13422,6 +13433,7 @@ freeheartedly
 freeholders
 freeing
 freelancer
+freelancers
 freelances
 freemasonry
 freemen
@@ -15487,6 +15499,7 @@ heelpieces
 heelpost
 hefts
 hegemons
+hegumeny
 height
 heinie
 heinously
@@ -16149,6 +16162,7 @@ houstonia
 hovel
 hovelling
 hovels
+hover
 hovered
 hoverfly
 hovering
@@ -18432,6 +18446,7 @@ kerchieves
 kerchoo
 kerfed
 kerne
+kernes
 kerosine
 kerplunking
 kerria
@@ -19301,6 +19316,7 @@ lightfaces
 lightfast
 lighthearted
 lightheartedly
+lighting
 lightning
 lightplane
 lightwave
@@ -19672,6 +19688,7 @@ lossless
 lostness
 lot
 lota
+lotah
 lotahs
 lotoses
 lotto
@@ -19706,6 +19723,7 @@ loveably
 lovebirds
 lovebugs
 lovefests
+lovelessnesses
 lovelier
 lovelies
 loveliness
@@ -21377,6 +21395,7 @@ mitering
 mithers
 mitiest
 mitigable
+mitigative
 mitigators
 mitigatory
 mitochondrion
@@ -21473,6 +21492,7 @@ moldinesses
 moldwarps
 moldy
 molecules
+molehill
 molesting
 mollification
 mollified
@@ -25042,6 +25062,7 @@ peered
 peeries
 peesweep
 peeve
+peewee
 peewees
 peewit
 peewits
@@ -26548,6 +26569,7 @@ potentiators
 potheads
 potheen
 pothering
+pothooks
 pothouse
 pothunter
 potlache
@@ -27403,6 +27425,7 @@ protract
 protractive
 protracts
 protruded
+protrudes
 protrusion
 protrusions
 protuberantly
@@ -28465,6 +28488,7 @@ recognised
 recognizable
 recognizer
 recognizers
+recognizes
 recombinant
 recombinational
 recombing
@@ -30195,6 +30219,7 @@ rummies
 rumored
 rumors
 rumouring
+rumours
 rumpled
 rumps
 rumpuses
@@ -31307,6 +31332,7 @@ serous
 serovars
 serows
 serpentinely
+serpentines
 serpents
 serpiginous
 serpiginously
@@ -32751,6 +32777,7 @@ spangles
 spaniel
 spanked
 spankings
+spanning
 spanokopita
 spans
 spanworms
@@ -33079,6 +33106,7 @@ springwood
 sprinklered
 sprinklering
 sprinklers
+sprinkles
 sprinted
 sprinters
 sprite
@@ -34028,6 +34056,7 @@ subtorrid
 subtotal
 subtreasury
 subtrends
+subtribes
 subtropics
 subtunics
 subunit
@@ -34159,6 +34188,7 @@ summersets
 summertime
 summerwood
 summerwoods
+summery
 summiteer
 summoned
 summoners
@@ -35228,6 +35258,7 @@ textures
 texturizing
 thacked
 thae
+thairm
 thairms
 thalassaemias
 thalassocracies
@@ -35732,6 +35763,7 @@ toper
 topes
 topflight
 topful
+topgallants
 tophe
 topics
 toping
@@ -36379,6 +36411,7 @@ tryptamines
 tryster
 tsaddik
 tsardoms
+tsarism
 tsatske
 tsetses
 tsks
@@ -38167,6 +38200,7 @@ vina
 vinal
 vinasse
 vincible
+vincula
 vindications
 vindicator
 vindictive
@@ -38195,6 +38229,7 @@ vipers
 vireonine
 vireonines
 vires
+virgas
 virgate
 virginalist
 viricides
