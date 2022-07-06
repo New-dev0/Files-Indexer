@@ -313,6 +313,7 @@ adducer
 adducible
 adductive
 adducts
+ademption
 adenines
 adenomas
 adenosines
@@ -2616,6 +2617,7 @@ barterer
 bartisan
 bas
 basaltes
+bascule
 baseboards
 baseless
 baseliners
@@ -3323,6 +3325,7 @@ birrotch
 birthed
 birthings
 birthmark
+birthname
 birthplace
 birthplaces
 birthstone
@@ -4945,6 +4948,7 @@ cartilaginous
 cartloads
 cartographers
 cartographies
+cartoon
 cartoonists
 cartoonlike
 carts
@@ -5199,6 +5203,7 @@ centimes
 centimeter
 centimorgan
 centimorgans
+centner
 centraler
 centralises
 centralist
@@ -6169,6 +6174,7 @@ cockscomb
 cockshy
 cockspur
 cocksuckers
+cocksureness
 cocktail
 cockup
 cocobolas
@@ -6824,6 +6830,7 @@ connecter
 connecters
 connectible
 connecting
+connection
 connections
 conning
 connivers
@@ -10555,6 +10562,7 @@ effigies
 efflorescence
 effluences
 effluents
+effluvia
 effluvial
 effluviums
 effort
@@ -11066,6 +11074,7 @@ ensheathe
 ensheathes
 enshrinees
 enshrinements
+enshrines
 enshroud
 ensign
 enskyed
@@ -12729,6 +12738,7 @@ flintiest
 flintiness
 flintinesses
 flintlock
+flinty
 flipbooks
 flipflops
 flippancies
@@ -13354,6 +13364,7 @@ frows
 frowzily
 froze
 frozenly
+fructifying
 frugs
 fruitage
 fruiters
@@ -13366,6 +13377,7 @@ fruitlessnesses
 frumpiest
 frusta
 frustules
+frutescent
 fryable
 frybread
 frybreads
@@ -13648,6 +13660,7 @@ gape
 gapeseeds
 gaping
 gapping
+garages
 garaging
 garbagey
 garbagy
@@ -14349,6 +14362,7 @@ governessy
 government
 governmentally
 governmentese
+governorships
 gowaned
 gowns
 grabbing
@@ -16123,6 +16137,7 @@ hygrometers
 hygroscopicity
 hylozoism
 hylozoisms
+hymeneally
 hymeniums
 hymenoptera
 hymenopteron
@@ -17190,6 +17205,7 @@ instructorship
 instructorships
 instrumental
 instrumentation
+instruments
 insubordinately
 insufficiencies
 insufflations
@@ -20887,6 +20903,7 @@ miscast
 miscasts
 miscatalog
 miscataloged
+miscellanea
 mischannelled
 mischarging
 mischievous
@@ -24630,6 +24647,7 @@ pawnbroker
 pawning
 pawpaw
 pax
+payables
 payably
 payback
 paydays
@@ -25199,6 +25217,7 @@ phonocardiogram
 phonographic
 phonolite
 phonologic
+phonotactic
 phorate
 phoronids
 phosgene
@@ -26077,6 +26096,7 @@ porisms
 pornographies
 poromerics
 porphyria
+porphyrias
 porphyropsins
 porphyry
 porpoise
@@ -26998,6 +27018,7 @@ prostatisms
 prostheses
 prosthodontics
 prostitute
+prostituted
 prostrate
 prostrations
 protamin
@@ -27297,6 +27318,7 @@ purificatory
 puristic
 puritan
 puritanisms
+purity
 purled
 purlin
 purling
@@ -28426,6 +28448,7 @@ refrigerants
 refrigeration
 refroze
 reft
+refuels
 refuge
 refulgence
 refunds
@@ -28989,6 +29012,7 @@ resiliences
 resiling
 resilins
 resilvered
+resilvers
 resin
 resining
 resist
@@ -30552,6 +30576,7 @@ scyphi
 scyphozoan
 scyphozoans
 scyphus
+seabed
 seaboot
 seacocks
 seacrafts
@@ -30726,6 +30751,7 @@ semicured
 semicylindrical
 semideaf
 semideserts
+semidiameter
 semidivine
 semidomed
 semidomes
@@ -30901,6 +30927,7 @@ serpents
 serpiginous
 serpiginously
 serpigo
+serpigoes
 serpigos
 serranoid
 serriedly
@@ -32418,6 +32445,7 @@ spense
 spermacetis
 spermary
 spermatogeneses
+spermatogenic
 spermatophore
 spermatozoid
 spermic
@@ -34026,6 +34054,7 @@ swearer
 swearing
 sweat
 sweatband
+sweatbands
 sweatbox
 sweatboxes
 sweater
@@ -34560,6 +34589,7 @@ telephoto
 teleports
 teleprocessing
 telescoped
+telescopic
 teleses
 teleshops
 teletext
@@ -34773,6 +34803,7 @@ thankworthy
 that
 thatching
 thaumaturgies
+thaumaturgists
 thaw
 thawer
 thawless
@@ -36050,6 +36081,7 @@ tweak
 tweaky
 tweed
 tweediness
+tweedled
 tweedles
 tweener
 tweeners
@@ -37256,6 +37288,7 @@ utility
 utilize
 utilizing
 utopianism
+utopianisms
 utopisms
 utopistic
 utricles
@@ -37588,6 +37621,7 @@ vexer
 vexers
 vexil
 vexilla
+vexillologists
 vial
 viand
 viands
@@ -38421,6 +38455,7 @@ windthrow
 windups
 windway
 windways
+windy
 wineglass
 winemakers
 wingbacks
