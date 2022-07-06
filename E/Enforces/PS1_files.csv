@@ -1,0 +1,8 @@
+Public/Get-ADSIDefaultDomainPasswordPolicy.ps1 1.0.0.3,https://www.powershellgallery.com/packages/AdsiPS/1.0.0.3/Content/Public%255CGet-ADSIDefaultDomainPasswordPolicy.ps1
+functions/string/Set-PSUString.ps1 2.0.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/PSUtil/2.0.0/Content/functions%255Cstring%255CSet-PSUString.ps1
+AaronLocker/Create-Policies.ps1 at main - GitHub,https://github.com/microsoft/AaronLocker/blob/master/AaronLocker/Create-Policies.ps1
+Intune-ChocoInstaller/ChocoInstall.ps1 at master - GitHub,https://github.com/mardahl/Intune-ChocoInstaller/blob/master/ChocoInstall.ps1
+functions/New-DbaLogin.ps1 0.9.334 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/dbatools/0.9.334/Content/functions%255CNew-DbaLogin.ps1
+Framework/Configurations ... - PowerShell Gallery Test,https://www.poshtestgallery.com/packages/AzSKStaging/4.7.2/Content/Framework%255CConfigurations%255CContinuousAssurance%255CContinuous_Assurance_Runbook.ps1
+Scripts for Sitecore Commerce 1010/sc1010_com_install.ps1 - GitLab,https://gitlab.com/viet.hoang/workshop/-/blob/master/Scripts%2520for%2520Sitecore%2520Commerce%25201010/sc1010_com_install.ps1
+Scripts for Sitecore Commerce 930/sc930_com_install.ps1 - GitLab,https://gitlab.com/viet.hoang/workshop/-/blob/master/Scripts%2520for%2520Sitecore%2520Commerce%2520930/sc930_com_install.ps1

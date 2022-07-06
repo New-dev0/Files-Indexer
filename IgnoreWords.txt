@@ -718,6 +718,7 @@ alicyclic
 alien
 alienable
 alienate
+alienators
 aliening
 alienisms
 alienist
@@ -3397,6 +3398,7 @@ bittiest
 bittock
 bittocks
 bitumen
+bituminization
 bituminizations
 bituminizes
 biunique
@@ -5561,6 +5563,7 @@ chickadees
 chickarees
 chickory
 chicks
+chickweeds
 chicle
 chicory
 chiefest
@@ -5792,6 +5795,7 @@ churchgoers
 churchianity
 churchings
 churchlier
+churchly
 churchmen
 churchwomen
 churlishly
@@ -7821,6 +7825,7 @@ cruses
 crusets
 crushable
 crushing
+crustacea
 crustaceans
 crustaceous
 crustily
@@ -7900,6 +7905,7 @@ cuishes
 cuisinarts
 cuisine
 cuisines
+cuittle
 cuke
 culet
 culicid
@@ -8128,6 +8134,7 @@ cymbidium
 cyme
 cymene
 cymling
+cymol
 cynical
 cynically
 cynicism
@@ -8185,6 +8192,7 @@ dadaistic
 dado
 dados
 daffiest
+daffing
 daffodils
 dafter
 daggas
@@ -8963,6 +8971,7 @@ descant
 descanted
 descender
 descendible
+describable
 descried
 descriers
 descries
@@ -9891,6 +9900,7 @@ docility
 dockage
 docking
 dockyard
+doctorates
 doctoring
 doctors
 doctorships
@@ -10466,6 +10476,7 @@ dyspeptics
 dysphagia
 dysphagias
 dysphasic
+dysphemistic
 dyspnea
 dyspnoea
 dyspnoeas
@@ -10944,6 +10955,7 @@ empressement
 empresses
 emptying
 empurpling
+ems
 emu
 emulating
 emulators
@@ -11090,6 +11102,7 @@ enfolders
 enforceable
 enforced
 enforcements
+enforces
 enframed
 enframement
 enfranchisement
@@ -12319,6 +12332,7 @@ faying
 fazenda
 fazes
 fazing
+fearlessness
 fears
 feasters
 featest
@@ -14092,6 +14106,7 @@ gibbering
 gibbing
 gibed
 gibes
+giblet
 giddiness
 giddying
 gies
@@ -17467,6 +17482,7 @@ interiorises
 interiorizes
 interiors
 interject
+interjected
 interjectory
 interjoins
 interknitting
@@ -19865,6 +19881,7 @@ magdalene
 maggot
 magi
 magic
+magical
 magicians
 magisterially
 magisterium
@@ -20613,6 +20630,7 @@ mesomorph
 mesons
 mesophyllic
 mesoscale
+mesothoracic
 mesozoan
 messaged
 messages
@@ -21041,6 +21059,7 @@ misaligns
 misalliances
 misallocate
 misallocation
+misallocations
 misallots
 misallotting
 misalters
@@ -21927,6 +21946,7 @@ musical
 musicality
 musicalizations
 musician
+musicks
 musicless
 musicologies
 musicology
@@ -22077,6 +22097,7 @@ nakedly
 nalas
 nameable
 namely
+namers
 naming
 nana
 nanas
@@ -23503,6 +23524,7 @@ ornamentations
 ornaments
 ornery
 ornithine
+ornithines
 ornithischians
 ornithopter
 ornithopters
@@ -25101,6 +25123,7 @@ peregrine
 perennated
 perennial
 perfectible
+perfectionist
 perfectionistic
 perfectiveness
 perfectness
@@ -26979,6 +27002,7 @@ printability
 printeries
 printery
 printing
+printmaker
 printmaking
 printmakings
 prion
@@ -28079,6 +28103,7 @@ ratified
 ratifiers
 ratifies
 ratine
+rating
 ratio
 ratiocinative
 ratiocinator
@@ -28956,6 +28981,7 @@ remigial
 remilitarizes
 reminded
 reminding
+reminds
 reminiscently
 remints
 remises
@@ -29475,6 +29501,7 @@ retransmitted
 retread
 retreated
 retreating
+retreats
 retrials
 retributory
 retroact
@@ -30636,6 +30663,7 @@ schnozz
 scholars
 scholarships
 scholasticates
+scholiastic
 scholium
 schoolgirl
 schoolman
@@ -30784,6 +30812,7 @@ scrooched
 scrooches
 scroop
 scroops
+scrootches
 scrootching
 scrota
 scrouge
@@ -30967,6 +30996,7 @@ seined
 seining
 seise
 seisers
+seisings
 seisins
 seism
 seismic
@@ -32292,6 +32322,7 @@ snottily
 snottiness
 snowbank
 snowbanks
+snowbell
 snowberries
 snowbird
 snowblink
@@ -35052,6 +35083,7 @@ terrorisms
 terrorists
 terrorizations
 terrorless
+terrors
 tersely
 terseness
 tertiaries
@@ -37947,6 +37979,7 @@ vestigial
 vestigially
 vestry
 vestrymen
+vesturing
 vetches
 vetchling
 vetiver
@@ -38063,6 +38096,7 @@ virgate
 virginalist
 viricides
 viridescent
+viridians
 viridity
 virilizes
 virion
@@ -38544,6 +38578,7 @@ weest
 weever
 weevers
 weevily
+weighable
 weighers
 weighman
 weighted
