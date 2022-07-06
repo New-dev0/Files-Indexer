@@ -606,6 +606,7 @@ agroforester
 agroforestries
 agrologic
 agrypnia
+agrypnias
 aguacate
 ahead
 ahem
@@ -3595,6 +3596,7 @@ bluecap
 bluecaps
 blueish
 bluejays
+bluelines
 bluely
 bluenose
 bluenosed
@@ -5727,6 +5729,7 @@ cholinesterases
 cholla
 cholo
 chomped
+chondriosome
 chondrites
 chondritic
 chondrocraniums
@@ -7336,6 +7339,7 @@ correctable
 correcter
 corrective
 correctives
+correctnesses
 corrector
 correctors
 correlatives
@@ -7417,6 +7421,7 @@ cotransduction
 cotransductions
 cotransfers
 cottager
+cottered
 cottoned
 cottons
 cottonseeds
@@ -8804,6 +8809,7 @@ demander
 demandingness
 demantoids
 demarcated
+demarcation
 demarked
 demarking
 demeaning
@@ -8811,6 +8817,7 @@ demeanours
 dementednesses
 demerara
 demeraran
+demerger
 demeton
 demic
 demigoddess
@@ -9830,6 +9837,7 @@ dissimilitudes
 dissimulation
 dissimulators
 dissipate
+dissipatedness
 dissipations
 dissociability
 dissociable
@@ -10420,6 +10428,7 @@ dukedoms
 dulcetly
 dulcified
 dulcifies
+dulcimers
 duller
 dulness
 duma
@@ -11995,6 +12004,7 @@ expeditions
 expeditiously
 expeditor
 expellable
+expeller
 expendabilities
 expends
 expensed
@@ -12469,6 +12479,7 @@ felon
 feloniousness
 felstones
 felt
+female
 feme
 feminacies
 feminacy
@@ -14152,6 +14163,7 @@ gesticulators
 gesturer
 gesturing
 getaways
+gets
 getting
 geum
 gewgawed
@@ -15852,6 +15864,7 @@ hircine
 hirselled
 hirsels
 hirsute
+hirudin
 hissiest
 hissing
 hissy
@@ -16034,6 +16047,7 @@ honeybuns
 honeycombing
 honeydew
 honeydews
+honeymoons
 honeys
 honeysuckle
 honeysuckles
@@ -16237,6 +16251,7 @@ hulloas
 hulloed
 hum
 humaner
+humanhoods
 humanist
 humanities
 humanization
@@ -16756,6 +16771,7 @@ impassibly
 impassioned
 impassivity
 impasted
+impatiens
 impawned
 impawns
 impeach
@@ -17459,6 +17475,7 @@ installed
 installs
 instances
 instantaneous
+instantness
 instarring
 instated
 instauration
@@ -17863,6 +17880,7 @@ iotacisms
 ipecac
 irade
 irasciblenesses
+irascibly
 ire
 ireless
 irenic
@@ -18674,6 +18692,7 @@ kneecappings
 kneeing
 kneels
 knelling
+knelt
 knickerbockers
 knifepoint
 knifer
@@ -20684,6 +20703,7 @@ mentations
 mentee
 mentees
 mentioned
+mentioner
 mentored
 mentorship
 meow
@@ -21116,6 +21136,7 @@ mineralogically
 miners
 minestrone
 mingiest
+mingle
 miniaturization
 minibar
 minibike
@@ -22657,6 +22678,7 @@ nodose
 nodous
 nodulous
 noel
+noels
 noggin
 noh
 nohow
@@ -23261,6 +23283,7 @@ obstruent
 obtainable
 obtained
 obtainers
+obtrusions
 obtrusive
 obtundents
 obturate
@@ -23664,6 +23687,7 @@ ornamentation
 ornamentations
 ornaments
 ornery
+ornis
 ornithine
 ornithines
 ornithischians
@@ -24403,6 +24427,7 @@ overvoltages
 overwarmed
 overwatch
 overwatched
+overwaters
 overwearing
 overweighting
 overwetted
@@ -26113,6 +26138,7 @@ platies
 platiest
 platinize
 platinoid
+platitudinarian
 platitudinize
 platted
 platterful
@@ -26124,6 +26150,7 @@ plausive
 playbills
 playbook
 playdown
+playfield
 playfulnesses
 playgoers
 playhouse
@@ -27351,6 +27378,7 @@ propagators
 propanes
 propel
 propellant
+propels
 propending
 propene
 propensities
@@ -27971,6 +27999,7 @@ queerish
 queerly
 queernesses
 queleas
+quellers
 quenched
 quenches
 quercetin
@@ -28713,6 +28742,7 @@ redis
 rediscounted
 rediscover
 rediscovered
+redisposing
 redisposition
 redistributions
 redlegs
@@ -29273,9 +29303,11 @@ repentantly
 repented
 repenter
 repenters
+repeople
 repeopling
 repercussion
 reperked
+reperking
 reperks
 repetitious
 repetitiously
@@ -30883,6 +30915,7 @@ sciolistic
 sciroccos
 scirrhi
 scissor
+scissors
 sciurine
 sciuroid
 sclaffing
@@ -31061,6 +31094,7 @@ seacrafts
 seafloors
 seafoods
 seafowl
+seagirt
 seagoing
 seahorses
 sealant
@@ -31979,6 +32013,7 @@ simplexes
 simplicial
 simplifying
 simplisms
+simulacrum
 simulant
 simulated
 simulations
