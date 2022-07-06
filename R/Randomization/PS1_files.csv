@@ -1,0 +1,8 @@
+Functions/New-RandomPassword.ps1 1.1.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/PSJumpStart/1.1.0/Content/Functions%255CNew-RandomPassword.ps1
+Public-manual/New-RandomPassword.ps1 1.0.1-alpha11,https://www.powershellgallery.com/packages/PSc8y/1.0.1-alpha11/Content/Public-manual%255CNew-RandomPassword.ps1
+VeraCrypt - VeraCrypt,https://www.veracrypt.fr/code/VeraCrypt/commit/src/Boot/EFI/sb_set_siglists.ps1%3Fh%3DVeraCrypt_1.21%26id%3Dc7cd89a24a3663cb375f9d6a901d34586d0d9192
+exploit/Full-payload-delivery-chain.ps1 at master - GitHub,https://github.com/kmkz/exploit/blob/master/Full-payload-delivery-chain.ps1
+PowerShell/Fileless-wmi-persistence.ps1 at master - GitHub,https://github.com/kmkz/PowerShell/blob/master/Fileless-wmi-persistence.ps1
+Invoke-HostRecon - GitHub,https://raw.githubusercontent.com/dafthack/HostRecon/master/HostRecon.ps1
+borrowed - GitHub,https://raw.githubusercontent.com/ericshoemaker/PowerView/master/Powerview.ps1
+lib/powershell/Invoke-Obfuscation/Out-SecureStringCommand.ps1,https://gitlab.com/kalilinux/packages/powershell-empire/blob/70354852a4ee0caf569cfe7a47bec624b392114c/lib/powershell/Invoke-Obfuscation/Out-SecureStringCommand.ps1
