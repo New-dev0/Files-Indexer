@@ -933,6 +933,7 @@ amelcorns
 ameloblast
 amenably
 amens
+aments
 amerce
 amercers
 amerciable
@@ -2097,6 +2098,7 @@ atticisms
 attired
 attitudinise
 attitudinised
+attorn
 attorneyship
 attorneyships
 attornments
@@ -5039,6 +5041,7 @@ caster
 castigations
 castle
 castled
+castoff
 castoffs
 castoreum
 castors
@@ -5554,6 +5557,7 @@ chiasmatic
 chiasmic
 chibouque
 chic
+chicaneries
 chicanes
 chicaning
 chicanos
@@ -5946,6 +5950,7 @@ clapt
 claptraps
 claque
 clarification
+clarifier
 clarifies
 clarion
 clarioned
@@ -6968,6 +6973,7 @@ constituently
 constituents
 constitutes
 constituting
+constrained
 constrainedly
 constrictive
 constricts
@@ -8698,6 +8704,7 @@ delectating
 delegacy
 delegate
 delegated
+delegatees
 delegators
 deleing
 deles
@@ -10074,6 +10081,7 @@ doum
 douma
 doums
 douppionis
+dour
 dourah
 dourahs
 dourest
@@ -13649,6 +13657,7 @@ fusionists
 fussbudgets
 fussily
 fustics
+fustinesses
 futile
 futileness
 futilitarianism
@@ -13726,6 +13735,7 @@ gall
 gallants
 galleasses
 galleins
+galleries
 gallerygoers
 galleys
 galliasses
@@ -13930,6 +13940,7 @@ geds
 geed
 geegaw
 geekinesses
+geeky
 gees
 gegenscheins
 geisha
@@ -14146,6 +14157,7 @@ gingellis
 gingelly
 ginger
 gingerbreads
+gingerbready
 gingerroots
 gingersnap
 gingersnaps
@@ -15195,6 +15207,7 @@ happy
 haptenes
 harangued
 harangues
+harassments
 harbored
 harboring
 harbour
@@ -16308,6 +16321,7 @@ hyoidean
 hyoids
 hypabyssal
 hypabyssally
+hypanthium
 hyper
 hyperacidity
 hyperaware
@@ -17852,6 +17866,7 @@ isoclinals
 isoclines
 isoclinics
 isocracies
+isoelectric
 isoenzymes
 isoform
 isoforms
@@ -18010,6 +18025,8 @@ jassid
 jato
 jaunced
 jaunt
+jauntinesses
+jaunty
 jauped
 javascript
 javelin
@@ -19754,6 +19771,7 @@ lunulated
 lunule
 lupulins
 lurching
+lure
 lurers
 luridly
 lurked
@@ -20627,11 +20645,13 @@ mesocarp
 mesocarps
 mesodermal
 mesomorph
+mesomorphy
 mesons
 mesophyllic
 mesoscale
 mesothoracic
 mesozoan
+mesquite
 messaged
 messages
 messenger
@@ -20848,6 +20868,7 @@ midfielder
 midfielders
 midge
 midguts
+midinette
 midinettes
 midis
 midlands
@@ -21597,6 +21618,7 @@ moonless
 moonlight
 moonlighter
 moons
+moonsail
 moonseeds
 moonshine
 moonshined
@@ -21685,6 +21707,7 @@ mosh
 moshing
 moshings
 mosquito
+mossiest
 mossy
 motet
 motets
@@ -24013,6 +24036,7 @@ overdose
 overdosed
 overdoses
 overdramatize
+overdramatizing
 overdrawn
 overdress
 overdrinking
@@ -24365,6 +24389,7 @@ packnesses
 packs
 packthread
 packwax
+packwaxes
 paclitaxel
 pacs
 paddleballs
@@ -25388,6 +25413,7 @@ phentolamines
 phenylalanines
 phenylbutazone
 phenylene
+phenylephrine
 phenylketonuria
 phenylketonuric
 phenylthioureas
@@ -27198,6 +27224,7 @@ properer
 propers
 prophase
 prophasic
+prophesied
 prophesiers
 prophesy
 prophetesses
@@ -27218,6 +27245,7 @@ proportionality
 proportionally
 proportionate
 proportionates
+proportions
 proposers
 propositi
 propounds
@@ -30026,6 +30054,7 @@ routinists
 routinizes
 roving
 row
+rowable
 rowanberry
 rowboats
 rowdiest
@@ -31256,6 +31285,7 @@ settings
 settle
 settlements
 settlers
+settlings
 settlors
 sevenths
 seventieths
@@ -33269,6 +33299,7 @@ steers
 steeves
 steeving
 stegosauruses
+stelar
 stelene
 steles
 stelic
@@ -34089,6 +34120,7 @@ sundowning
 sundrops
 sunket
 sunkets
+sunlamps
 sunlands
 sunlight
 sunned
@@ -36218,6 +36250,7 @@ tropism
 tropomyosin
 tropotaxis
 trot
+trotters
 trotting
 trotyls
 troubles
@@ -38013,6 +38046,7 @@ vicarly
 vicarship
 vice
 vicegeral
+vicegerencies
 vicenary
 vicennial
 viceroyalty
@@ -38519,6 +38553,7 @@ waxes
 waxiest
 waxwings
 waxwork
+waybill
 waybills
 wayfarer
 wayfarings
