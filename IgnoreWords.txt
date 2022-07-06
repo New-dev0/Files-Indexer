@@ -782,6 +782,7 @@ allopatrically
 allophone
 alloplasms
 allosteries
+allostery
 allotetraploids
 allotments
 allotter
@@ -1197,6 +1198,7 @@ anisometropias
 anisotropically
 ankh
 anklet
+ankling
 ankus
 ankylosaurs
 ankylosauruses
@@ -1582,6 +1584,7 @@ applause
 applecarts
 applesauce
 applesauces
+applicabilities
 applicatively
 applicator
 applies
@@ -1591,6 +1594,7 @@ applying
 appoint
 appointing
 appointive
+appoints
 appositive
 appraisees
 appraisers
@@ -3059,6 +3063,7 @@ besmoking
 besmoothed
 besmudges
 besnowed
+besnows
 besom
 besot
 besotted
@@ -5904,6 +5909,7 @@ clangours
 clankier
 clanking
 clannishly
+clannishness
 clapboard
 clapboards
 clapping
@@ -7506,6 +7512,7 @@ crampon
 crampons
 cranberries
 cranberry
+cranch
 craning
 craniosacral
 craniotomy
@@ -8447,6 +8454,7 @@ decomposers
 decomposes
 decompound
 decompress
+decompressing
 deconcentrate
 deconcentration
 deconditions
@@ -9524,6 +9532,7 @@ disdainfulness
 disease
 diseased
 diseasing
+diseconomy
 disembark
 disembarrassing
 disembodies
@@ -10079,6 +10088,7 @@ drafting
 draftings
 dragged
 draggiest
+draggle
 dragline
 dragnet
 dragonheads
@@ -11667,6 +11677,7 @@ exaggerator
 exahertz
 exahertzes
 exalters
+exam
 examinee
 examines
 examining
@@ -13606,6 +13617,7 @@ galactosamine
 galactosemia
 galactosides
 galateas
+galavanted
 galax
 galeas
 galeate
@@ -13995,6 +14007,7 @@ ghoulish
 ghoulishness
 ghoulishnesses
 ghouls
+giantess
 giantesses
 giantisms
 giantlike
@@ -14394,6 +14407,7 @@ gourdes
 gourmandisms
 gourmet
 gourmets
+goutily
 gouts
 governess
 governessy
@@ -14787,6 +14801,7 @@ gumboot
 gumboots
 gumbos
 gumbotil
+gumdrop
 gumdrops
 gumlines
 gummatous
@@ -15108,6 +15123,7 @@ hardtops
 hardwire
 hardy
 harebells
+hariana
 haring
 harissa
 harkeners
@@ -19078,6 +19094,7 @@ licenses
 licensors
 licensures
 licentiates
+licentiously
 lichenin
 lichening
 lichenose
@@ -21708,6 +21725,7 @@ multimedia
 multimember
 multimetallic
 multinomials
+multiorgasmic
 multipack
 multipacks
 multiparameter
@@ -21960,6 +21978,7 @@ nannyish
 nanogram
 nanometres
 nanotube
+napalm
 napalmed
 napalming
 nape
@@ -23250,6 +23269,7 @@ opinionated
 opioids
 opisthobranch
 opiums
+oppidans
 oppilant
 oppilate
 oppilating
@@ -25090,6 +25110,7 @@ persuaded
 persuader
 persuades
 persuading
+persuasible
 persuasively
 pertains
 pertest
@@ -25275,6 +25296,7 @@ phonetically
 phoney
 phoneying
 phonic
+phonically
 phonics
 phonier
 phonies
@@ -25993,6 +26015,7 @@ polemics
 polemized
 polemizing
 polenta
+poleward
 poleyn
 policers
 policy
@@ -28240,6 +28263,7 @@ reconstituted
 reconstitutions
 reconstructors
 reconsulting
+recontacted
 recontacts
 recontaminates
 recontouring
@@ -28480,6 +28504,7 @@ refits
 refixed
 reflating
 reflations
+reflectively
 reflectorized
 reflectors
 reflet
@@ -29541,6 +29566,7 @@ rifampins
 riffing
 riffled
 riffler
+rifflers
 riffs
 rifle
 riflebirds
@@ -30831,6 +30857,7 @@ semiarid
 semiaridities
 semiautomatics
 semicolons
+semicoma
 semicured
 semicylindrical
 semideaf
@@ -31961,6 +31988,7 @@ smatters
 smearier
 smegma
 smell
+smeller
 smelliest
 smelter
 smelteries
@@ -32269,6 +32297,7 @@ solution
 solvate
 solves
 somatically
+somatological
 somatomedin
 somatopleure
 sombreros
@@ -32382,6 +32411,7 @@ sourdines
 sourer
 sourwoods
 southbound
+southeaster
 southernnesses
 southings
 southland
@@ -34153,6 +34183,7 @@ sweatbox
 sweatboxes
 sweater
 sweaterdress
+sweating
 sweatpants
 sweats
 sweatshirts
@@ -35034,6 +35065,7 @@ thraldoms
 thralled
 thrave
 thrawing
+threadiest
 threads
 thready
 threaper
@@ -37724,6 +37756,7 @@ vexers
 vexil
 vexilla
 vexillologists
+viaducts
 vial
 viand
 viands
@@ -38299,6 +38332,7 @@ weenies
 weensiest
 weensy
 weepies
+weepinesses
 weest
 weever
 weevers
@@ -38919,6 +38953,7 @@ yasmaks
 yattering
 yatters
 yaup
+yauper
 yaupers
 yawed
 yawl
