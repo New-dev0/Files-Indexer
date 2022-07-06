@@ -300,6 +300,7 @@ acylate
 acylated
 ad
 adamance
+adapt
 adaptation
 adaptations
 adapter
@@ -840,6 +841,7 @@ aloofly
 alpenglow
 alphabet
 alphabetize
+alphabetized
 alphabetizing
 alphanumerical
 alphas
@@ -2111,6 +2113,7 @@ attorneyships
 attornments
 attract
 attractants
+attributing
 attributional
 attributions
 attrit
@@ -3500,6 +3503,7 @@ blats
 blawn
 blaxploitation
 blazes
+blazon
 bleacher
 bleachers
 bleaches
@@ -3979,6 +3983,7 @@ brandished
 brandlings
 brandying
 brannigan
+branning
 brantails
 bras
 brasher
@@ -4437,6 +4442,7 @@ busting
 bustle
 bustled
 busty
+busulfans
 busy
 busying
 busynesses
@@ -5387,6 +5393,7 @@ chandelled
 chandleries
 chandlers
 chang
+change
 changeabilities
 changeful
 changeovers
@@ -5928,6 +5935,7 @@ civie
 civil
 civilisation
 civilisations
+civilised
 civilities
 civilizations
 civilness
@@ -6111,6 +6119,7 @@ cloture
 cloudiest
 cloudless
 cloudlessly
+cloudlessnesses
 cloudscapes
 clours
 clove
@@ -7139,6 +7148,7 @@ convoker
 convoking
 convolute
 convolved
+convolves
 convoys
 convulsant
 convulsants
@@ -7959,6 +7969,7 @@ cultivator
 cultivators
 culturally
 culture
+cultured
 cultures
 culvert
 cumarin
@@ -10182,6 +10193,7 @@ draftable
 drafters
 drafting
 draftings
+dragee
 dragged
 draggiest
 draggle
@@ -11127,6 +11139,7 @@ energizes
 energumens
 enervations
 enervator
+enface
 enfacing
 enfeebles
 enfeoffing
@@ -13979,6 +13992,7 @@ gees
 gegenscheins
 geisha
 gel
+gelant
 gelati
 gelatines
 gelatinized
@@ -14039,6 +14053,7 @@ genteel
 genteelness
 genteelnesses
 gentian
+gentiles
 gentlemanliness
 gentlemanly
 gentlemen
@@ -15211,6 +15226,7 @@ handsful
 handshake
 handshakes
 handsomely
+handsomenesses
 handstands
 handwrote
 handy
@@ -15253,6 +15269,7 @@ hard
 hardboard
 hardboot
 hardcores
+hardeners
 hardhat
 hardiest
 hardihoods
@@ -16671,6 +16688,7 @@ immortalizer
 immortally
 immovables
 immunises
+immunoblot
 immunoblots
 immunoblotting
 immunochemical
@@ -18733,6 +18751,7 @@ labializes
 labials
 labiodental
 labiovelar
+laborious
 laboriously
 labourers
 labouring
@@ -18928,6 +18947,7 @@ lasagnes
 lasher
 lashes
 lasses
+lassitudes
 lassoes
 last
 lastborn
@@ -19151,6 +19171,7 @@ lending
 lends
 lengthen
 lengthener
+lengthily
 lengthwise
 leniences
 leniencies
@@ -19301,6 +19322,7 @@ lifted
 lifters
 liftgates
 lifting
+liftmen
 ligaments
 ligans
 ligation
@@ -19584,6 +19606,7 @@ loggias
 loggie
 loggier
 loggiest
+logia
 logicalities
 logicalnesses
 logicised
@@ -25692,6 +25715,7 @@ pians
 piassabas
 piastre
 piastres
+pica
 picadillos
 pical
 picaninny
@@ -26396,6 +26420,7 @@ pools
 poontangs
 poop
 poops
+pooris
 popedom
 popinjays
 poplar
@@ -28187,9 +28212,11 @@ rasers
 rashest
 raspberries
 raspier
+raspinesses
 raspingly
 rasps
 rassle
+raster
 rataplans
 ratatat
 rateably
@@ -28552,6 +28579,7 @@ recorks
 recounter
 recounters
 recoupe
+recoupment
 recoups
 recrate
 recrates
@@ -29267,6 +29295,7 @@ reprices
 reprieve
 reprimand
 reprints
+reprisals
 reprising
 repristination
 reprivatized
@@ -29703,6 +29732,7 @@ revivalisms
 revivification
 revivified
 revivifies
+revivify
 revoice
 revoiced
 revoicing
@@ -34618,6 +34648,7 @@ sylvine
 sylvites
 symbiosis
 symbolise
+symbolled
 symbologies
 symbols
 sympathetics
@@ -35921,6 +35952,7 @@ trachled
 trachoma
 tracing
 track
+trackable
 trackers
 tracking
 trackman
@@ -35990,6 +36022,7 @@ transacted
 transaction
 transactional
 transacts
+transamination
 transaxle
 transaxles
 transcended
@@ -36074,6 +36107,7 @@ traplines
 trapnesting
 trapped
 trappers
+trapping
 trappose
 trappous
 traprock
@@ -37940,6 +37974,7 @@ vassal
 vastitudes
 vastity
 vatfuls
+vatical
 vaticinal
 vaticinating
 vaticinators
