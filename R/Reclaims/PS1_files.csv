@@ -1,0 +1,4 @@
+functions/Invoke-DbaDbDbccCleanTable.ps1 1.0.153,https://www.powershellgallery.com/packages/dbatools/1.0.153/Content/functions%255CInvoke-DbaDbDbccCleanTable.ps1
+functions/Invoke-DbaDbDbccCleanTable.ps1 1.1.70,https://www.powershellgallery.com/packages/dbatools/1.1.70/Content/functions%255CInvoke-DbaDbDbccCleanTable.ps1
+functions/Get-DbaDbccStatistic.ps1 1.0.100 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/dbatools/1.0.100/Content/functions%255CGet-DbaDbccStatistic.ps1
+functions/Get-DbaDbccStatistic.ps1 1.1.5 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/dbatools/1.1.5/Content/functions%255CGet-DbaDbccStatistic.ps1

@@ -122,6 +122,7 @@ accepter
 acceptor
 accessible
 accessibly
+accessorize
 accessorized
 accidentalness
 accipiters
@@ -158,6 +159,7 @@ accountings
 accoutred
 accreditations
 accredited
+accretes
 accruable
 accruals
 accrue
@@ -772,6 +774,7 @@ allonym
 allopathies
 allopatric
 allopatrically
+allophone
 alloplasms
 allosteries
 allotetraploids
@@ -844,6 +847,7 @@ altimeters
 altocumuli
 altogether
 altostrati
+altricial
 altruist
 alum
 aluminate
@@ -1553,6 +1557,7 @@ append
 appendants
 appendectomies
 appendicitis
+appendicitises
 appendicular
 appends
 apperceive
@@ -2265,6 +2270,7 @@ awing
 awlworts
 awninged
 awnings
+awnless
 awny
 awol
 axal
@@ -2710,6 +2716,7 @@ bazooka
 bazooms
 beach
 beachballs
+beached
 beachgoers
 beachier
 beachside
@@ -3708,6 +3715,7 @@ bookish
 bookishness
 bookkeepers
 bookmaker
+bookmakings
 bookman
 bookmarker
 bookmarking
@@ -4967,6 +4975,7 @@ cash
 cashing
 cashless
 casimeres
+casita
 casitas
 casking
 casky
@@ -5320,6 +5329,7 @@ channeler
 channelers
 channelized
 channelizing
+chantable
 chanting
 chap
 chaparajos
@@ -6263,6 +6273,7 @@ cohesions
 cohesiveness
 coho
 cohobate
+cohobating
 coholder
 cohomology
 cohorts
@@ -6327,6 +6338,7 @@ coliphages
 colistin
 colistins
 collages
+collagists
 collapsing
 collarbones
 collards
@@ -6907,6 +6919,7 @@ consultantship
 consultantships
 consulted
 consulting
+consumables
 consumer
 consumes
 consummative
@@ -7763,6 +7776,7 @@ cryotron
 crypt
 cryptal
 cryptanalysis
+cryptanalytical
 cryptarithm
 cryptically
 cryptococci
@@ -7954,6 +7968,7 @@ customshouse
 custumals
 cutability
 cutaneous
+cutaway
 cutback
 cutches
 cutdowns
@@ -8150,6 +8165,7 @@ damiana
 damnableness
 damnably
 damndest
+damningly
 damosel
 damosels
 damozels
@@ -13011,6 +13027,7 @@ forejudges
 foremanship
 foremasts
 foremost
+forenamed
 forenoon
 foreordained
 foreordaining
@@ -15923,6 +15940,7 @@ houseworks
 housing
 houstonia
 hovel
+hovelling
 hovels
 hovered
 hoverfly
@@ -15936,6 +15954,7 @@ hoydened
 hoydening
 hubbub
 hubby
+huckleberry
 huddler
 hueless
 huffed
@@ -17292,6 +17311,7 @@ interleave
 interlends
 interlibrary
 interlinear
+interlineations
 interlined
 interliner
 interlinked
@@ -17645,6 +17665,7 @@ isochronously
 isochrons
 isoclinal
 isoclinals
+isoclines
 isoclinics
 isocracies
 isoenzymes
@@ -18508,6 +18529,7 @@ ladlefuls
 ladles
 ladling
 ladybird
+ladyfinger
 ladyfish
 ladyhood
 ladykins
@@ -20346,6 +20368,7 @@ mercantilism
 mercantilist
 mercaptopurine
 mercenaries
+mercenariness
 mercenarinesses
 mercerising
 mercerization
@@ -22346,6 +22369,7 @@ nonchalance
 nonchalant
 noncharismatics
 nonchemical
+nonchurchgoer
 nonchurchgoers
 nonclassroom
 nonclogging
@@ -22675,6 +22699,7 @@ nourishment
 nouvelle
 nouvelles
 novae
+novalike
 novelises
 novelising
 novelizations
@@ -24718,6 +24743,7 @@ peised
 pejoratively
 pejoratives
 pekoes
+pelisse
 pellagrous
 pelletal
 pelleted
@@ -26901,6 +26927,7 @@ prophase
 prophasic
 prophesiers
 prophesy
+prophetesses
 prophethoods
 prophetical
 prophylaxes
@@ -27400,6 +27427,7 @@ qindar
 qiviut
 qiviuts
 quackery
+quackism
 quacks
 quad
 quadding
@@ -27837,6 +27865,7 @@ rawinsondes
 rawnesses
 rax
 raxing
+raya
 rayah
 razees
 razers
@@ -28047,6 +28076,7 @@ reckoning
 reclad
 reclaim
 reclaimers
+reclaims
 reclames
 reclasped
 reclean
@@ -28076,6 +28106,7 @@ recommencement
 recommences
 recommendable
 recommendatory
+recommends
 recommissioning
 recommitments
 recommits
@@ -32555,6 +32586,7 @@ spooned
 spoonerism
 spoonerisms
 spooney
+spooning
 spoons
 sporangial
 spores
@@ -33401,6 +33433,7 @@ subjectivist
 subjectivizes
 subjectivizing
 subjectless
+subjects
 subjoin
 subjugating
 subjugations
@@ -36455,6 +36488,7 @@ underheating
 underinflated
 underinvestment
 underlaid
+underlap
 underlapped
 underlets
 underline
@@ -38151,6 +38185,7 @@ wellaway
 welshing
 weltanschauungs
 welterweight
+welterweights
 wending
 wends
 werewolves
