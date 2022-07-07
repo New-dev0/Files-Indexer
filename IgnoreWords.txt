@@ -78,6 +78,7 @@ abstruser
 abstrusity
 absurdest
 absurdists
+absurdly
 absurds
 abuilding
 abundant
@@ -5814,6 +5815,7 @@ chocolate
 chocolatier
 chocolatiers
 choicely
+choicenesses
 choir
 choirboy
 choired
@@ -7627,6 +7629,7 @@ counterprotest
 counterpunches
 counterpunching
 counterreaction
+counterreforms
 countersigning
 countersink
 countersinking
@@ -10375,6 +10378,7 @@ downlight
 download
 downloaded
 downplays
+downpours
 downrightness
 downriver
 downscaled
@@ -11238,6 +11242,7 @@ emphysematous
 empiricist
 emplaced
 emplanes
+employ
 employability
 employed
 employees
@@ -13538,6 +13543,7 @@ foresightful
 foresights
 foreskin
 forestaller
+forestallments
 forestaysail
 forestaysails
 forester
@@ -14795,6 +14801,7 @@ goldfinch
 goldsmith
 golfers
 goliard
+goliaths
 gollywog
 golosh
 gomerils
@@ -15806,6 +15813,7 @@ heartinesses
 heartsome
 heartsomely
 heartstring
+hearty
 heatable
 heater
 heathbird
@@ -16814,6 +16822,7 @@ hypokalemia
 hypokalemic
 hypomagnesemia
 hypomorphs
+hyponyms
 hypopharynxes
 hypopituitarism
 hypoplasias
@@ -17523,6 +17532,7 @@ inexorableness
 inexpedience
 inexpediently
 inexpensive
+inexperts
 inexpiably
 inexplainable
 inexplicit
@@ -17595,6 +17605,7 @@ informants
 information
 informations
 informative
+informedly
 infos
 infotainments
 infought
@@ -18609,6 +18620,7 @@ jolt
 jolter
 joltier
 jones
+jordans
 joseph
 josephs
 joshers
@@ -18718,6 +18730,7 @@ kabalisms
 kabayas
 kabbala
 kabbalist
+kabikis
 kabobs
 kaddishes
 kaddishim
@@ -19529,6 +19542,7 @@ legalized
 legally
 legateships
 legato
+legendaries
 legendarily
 legendize
 legendized
@@ -20274,6 +20288,7 @@ lusterwares
 lustily
 lustrations
 lustring
+lustrous
 lustrum
 lusty
 luteal
@@ -20593,6 +20608,7 @@ mannerist
 manneristic
 mannerless
 mannerlinesses
+manners
 mannishly
 mannishness
 mannishnesses
@@ -20649,6 +20665,7 @@ marbling
 marbly
 marches
 marchese
+marching
 marchioness
 marchland
 maremma
@@ -21295,6 +21312,7 @@ microbic
 microbiological
 microbreweries
 microbrews
+microburst
 microcap
 microclimate
 micrococci
@@ -24319,6 +24337,7 @@ outfight
 outfights
 outfigured
 outfires
+outfished
 outfitters
 outfitting
 outfloated
@@ -25398,6 +25417,7 @@ partridgeberry
 parts
 parturient
 parturitions
+partway
 partygoers
 parvenue
 parvenus
@@ -26926,6 +26946,7 @@ polyparies
 polyparium
 polypeptidic
 polyphagies
+polyphones
 polyphonies
 polyphyletic
 polypores
@@ -27075,6 +27096,7 @@ postcava
 postcavas
 postclassic
 postcollege
+postconception
 postcrash
 postcrisis
 postdating
@@ -27419,6 +27441,7 @@ preimposed
 preimposing
 preinduction
 preinform
+preinforming
 preinserts
 preinterviewed
 preinvasion
@@ -27635,6 +27658,7 @@ preworked
 preworking
 preworn
 prewrapped
+prewraps
 prewritings
 prex
 preyed
@@ -27937,6 +27961,7 @@ prorates
 proreform
 prorogated
 prorogations
+prosaic
 prosaisms
 prosateur
 prosauropods
@@ -27965,6 +27990,7 @@ prospering
 prosperities
 prosperity
 prosperousness
+prospers
 prost
 prostate
 prostatectomies
@@ -30652,6 +30678,7 @@ rocketers
 rockfall
 rockhopper
 rockhounds
+rockinesses
 rockoons
 rockshaft
 rockwork
@@ -31066,6 +31093,7 @@ sallownesses
 sally
 salmagundis
 salmi
+salmonberries
 salmonberry
 salmonellae
 salmonellosis
@@ -31140,6 +31168,7 @@ sandblasting
 sanders
 sandglasses
 sandhog
+sandier
 sandiest
 sanding
 sandlings
@@ -33211,6 +33240,7 @@ sober
 soberer
 soberest
 sobering
+soberness
 sobernesses
 sobersidedness
 sobriquets
@@ -33707,6 +33737,7 @@ spiritism
 spiritist
 spirits
 spiritualnesses
+spirituals
 spirituous
 spirochetes
 spirogyra
@@ -34566,6 +34597,7 @@ subah
 subahdars
 suballocations
 subaltern
+subantarctic
 subarctic
 subarctics
 subas
@@ -36933,6 +36965,7 @@ trendies
 trendiest
 trendiness
 trendoid
+trends
 trendsetter
 trendsetting
 trepanations
@@ -38333,6 +38366,7 @@ unsoured
 unsown
 unspeakably
 unspeaking
+unspeaks
 unspectacular
 unsphere
 unsphering
@@ -38854,6 +38888,7 @@ venetian
 venge
 vengeance
 vengefulnesses
+venges
 venial
 venins
 venipuncture
