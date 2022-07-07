@@ -792,6 +792,7 @@ allies
 alligator
 alligators
 alliterates
+allobar
 allocates
 allocation
 allocators
@@ -2253,6 +2254,7 @@ autolyzes
 automaker
 automan
 automat
+automatic
 automatically
 automaticities
 automating
@@ -4582,6 +4584,7 @@ cachuchas
 caciquisms
 cacklers
 cacodemons
+cacodyls
 cacomixls
 caconym
 cacophonous
@@ -5850,6 +5853,7 @@ chromonematic
 chromoplasts
 chromoprotein
 chromoproteins
+chromospheres
 chronaxy
 chronicled
 chronicler
@@ -6142,6 +6146,7 @@ clobbering
 clocker
 clocks
 cloddishnesses
+clodhoppers
 clodpoll
 clofibrates
 clog
@@ -10228,6 +10233,7 @@ doubtlessly
 douched
 douches
 doughboy
+doughboys
 doughiest
 doughlike
 doughtily
@@ -12327,6 +12333,7 @@ fadlike
 fados
 faecal
 faeries
+faery
 fagged
 faggotry
 faggots
@@ -14056,6 +14063,7 @@ garrotte
 garrulity
 garrulous
 garrulously
+gartered
 gasconader
 gascons
 gaseities
@@ -15213,6 +15221,7 @@ gypsophilas
 gypsydom
 gypsydoms
 gyrating
+gyrocompasses
 gyrofrequency
 gyron
 gyrons
@@ -17241,6 +17250,7 @@ indentures
 independence
 indescribably
 indestructibly
+indeterminisms
 indeterministic
 indexing
 indican
@@ -20091,6 +20101,7 @@ luteotrophins
 luteotropic
 lutfisks
 luthern
+luxes
 luxuriance
 luxuriate
 lyard
@@ -20119,6 +20130,7 @@ lysed
 lysimetric
 lysine
 lysogen
+lysogenicities
 lysogenies
 lysogenise
 lysogenizing
@@ -20877,6 +20889,7 @@ mensurations
 mental
 mentalism
 mentalist
+mentalists
 mentations
 mentee
 mentees
@@ -21731,6 +21744,7 @@ mogged
 moggies
 moghuls
 moguled
+mohairs
 mohalim
 mohawk
 moidore
@@ -22298,6 +22312,7 @@ musicks
 musicless
 musicologies
 musicology
+musjid
 muskegs
 muskmelon
 muskrat
@@ -22649,6 +22664,7 @@ neorealistic
 neostigmines
 neotenic
 neotropic
+nepenthean
 nepeta
 nepetas
 nephelinic
@@ -23209,6 +23225,7 @@ nonuniform
 nonuple
 nonurban
 nonvalidity
+nonvector
 nonvenomous
 nonviewers
 nonviolence
@@ -24001,6 +24018,7 @@ ouph
 ourang
 ourari
 ourself
+ousel
 ouster
 outachieves
 outacting
@@ -24499,6 +24517,7 @@ overlengthening
 overlengthens
 overletting
 overlewd
+overlie
 overlighted
 overliteral
 overlived
@@ -25018,6 +25037,7 @@ paralysed
 paralysing
 paralysis
 paralytic
+paralytics
 paralyzers
 paralyzing
 paramagnet
@@ -25389,6 +25409,7 @@ peised
 pejoratively
 pejoratives
 pekoes
+peles
 pelisse
 pellagrous
 pelletal
@@ -25942,6 +25963,7 @@ photovoltaic
 phots
 phrasemaker
 phrasemakers
+phrasemonger
 phrasemongering
 phreaker
 phreakers
@@ -26131,6 +26153,7 @@ pilothouses
 piloting
 pimped
 pimpernel
+pimples
 pimply
 pimpmobile
 pinafored
@@ -28455,6 +28478,7 @@ raita
 rajahs
 raked
 rakehell
+rakehelly
 rakes
 raki
 rakishness
@@ -29162,6 +29186,7 @@ refounded
 refounds
 refractile
 refraction
+refractometers
 refractometric
 refracts
 refrained
@@ -31069,6 +31094,7 @@ scapose
 scar
 scarab
 scare
+scarecrow
 scareder
 scaremongers
 scarf
@@ -31244,6 +31270,7 @@ scowler
 scowling
 scows
 scrabbliest
+scrabbling
 scragged
 scraggily
 scragglier
@@ -31401,6 +31428,7 @@ seawants
 seaward
 seawares
 seaworthinesses
+sebasic
 seborrhea
 seborrheas
 seborrheic
@@ -32926,6 +32954,7 @@ sodomitic
 sodomize
 sodomized
 sodomizing
+sodoms
 sods
 soever
 sofa
@@ -33172,6 +33201,7 @@ spalling
 spambot
 spammed
 spammers
+spancel
 spancelled
 spancelling
 spandex
@@ -33478,6 +33508,7 @@ sportswomen
 sporulates
 spotlessly
 spotlighting
+spotlights
 spoused
 spousing
 spraddle
@@ -33756,6 +33787,7 @@ steamboats
 steamed
 steamered
 steamfitter
+steamiest
 steamroll
 steamrolling
 steamship
@@ -34493,6 +34525,7 @@ successional
 successor
 succinctly
 succinic
+succorers
 succours
 succuba
 succubi
@@ -39154,6 +39187,7 @@ weaponed
 weaponized
 weaponizes
 weaponry
+wear
 wearable
 wearinesses
 wearisomenesses
@@ -39594,6 +39628,7 @@ woodsman
 woodstoves
 woodwaxen
 woof
+wooler
 woolers
 woolgathering
 woolhat
