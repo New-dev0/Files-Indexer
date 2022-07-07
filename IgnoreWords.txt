@@ -1337,6 +1337,7 @@ antick
 anticlines
 anticolonialist
 anticommunisms
+anticommunists
 anticorrosives
 anticult
 anticults
@@ -1511,6 +1512,7 @@ apanages
 apart
 apathetic
 apatosaur
+apatosaurs
 aperiodically
 apers
 aperture
@@ -5377,6 +5379,7 @@ cessation
 cessations
 cesspit
 cestos
+cestuses
 cetaceous
 cetane
 cetologies
@@ -6856,6 +6859,7 @@ conducive
 conductance
 conductive
 conductivity
+condyloma
 coneflower
 coneflowers
 conenose
@@ -7079,6 +7083,7 @@ consulted
 consulting
 consumables
 consumer
+consumerists
 consumes
 consummative
 consumptively
@@ -8458,6 +8463,7 @@ deader
 deadfall
 deadheaded
 deadlier
+deadliest
 deadlift
 deadlined
 deadlining
@@ -8676,6 +8682,7 @@ defeasibilities
 defeat
 defeater
 defeatures
+defecation
 defecator
 defect
 defection
@@ -9072,6 +9079,7 @@ dermatological
 dermatome
 dermatomes
 dermatoses
+dermatosis
 dermic
 derms
 derogatory
@@ -12661,6 +12669,7 @@ feuded
 feuilleton
 fever
 feverish
+feverwort
 fewer
 fez
 fezes
@@ -13756,6 +13765,7 @@ fun
 funambulism
 functionalisms
 functionalities
+functionally
 functionless
 functor
 fundament
@@ -17959,6 +17969,7 @@ invoke
 involucra
 involve
 invulnerability
+invulnerably
 inwall
 inwardnesses
 inwards
@@ -17969,6 +17980,7 @@ inwove
 iodate
 iodation
 iodations
+iodid
 iodin
 iodinates
 iodine
@@ -18783,6 +18795,7 @@ kittenishnesses
 kitties
 kittler
 kittles
+kitty
 klatsch
 kleenex
 klephtic
@@ -18988,6 +19001,7 @@ lakeshore
 lakh
 lakier
 lakings
+lallations
 lam
 lambasted
 lambda
@@ -22210,6 +22224,7 @@ murderousness
 murders
 muriates
 muricated
+murid
 murine
 murines
 murker
@@ -22643,6 +22658,7 @@ neurohormonal
 neurohumoral
 neurohypophyses
 neurohypophysis
+neuroid
 neurologies
 neurologist
 neurophysiology
@@ -25219,6 +25235,7 @@ payoffs
 payors
 payouts
 payrolls
+pazazz
 pazazzes
 peaceableness
 peacekeeper
@@ -26289,6 +26306,7 @@ plastisol
 plastisols
 plastocyanin
 plastoquinones
+plat
 platane
 platanes
 plateaus
@@ -28265,6 +28283,7 @@ rabatos
 rabbin
 rabbitbrush
 rabbiting
+rabbles
 rabbonis
 rabid
 rabidity
@@ -29060,6 +29079,7 @@ reflectively
 reflectorized
 reflectors
 reflet
+reflets
 reflexions
 reflexively
 reflexivenesses
@@ -30662,6 +30682,7 @@ salals
 salamandrine
 salariats
 salary
+sale
 saleable
 saleratus
 salesclerks
@@ -30832,7 +30853,9 @@ sarcoids
 sarcology
 sarcomatous
 sarcomere
+sarcoplasm
 sarcous
+sardius
 sardonic
 sardonically
 sardonyx
@@ -31055,6 +31078,7 @@ schlump
 schmaltz
 schmalziest
 schmatte
+schmelzes
 schmoes
 schmoos
 schmoose
@@ -31942,6 +31966,7 @@ shoaly
 shoat
 shockable
 shocked
+shockers
 shocking
 shockingly
 shockproof
@@ -32115,6 +32140,7 @@ siderites
 siderolite
 siderotic
 sideshows
+sideslipping
 sideslips
 sidestepped
 sidestrokes
@@ -33114,6 +33140,7 @@ sparklier
 sparkplug
 sparky
 sparred
+sparrowlike
 sparrows
 sparse
 sparsities
@@ -33503,6 +33530,7 @@ squinting
 squintingly
 squinty
 squirearchies
+squires
 squirish
 squirmers
 squirreling
@@ -33875,6 +33903,7 @@ stonemason
 stonemasonry
 stones
 stonewallers
+stonewalls
 stoneware
 stonewashed
 stoniest
@@ -35008,6 +35037,7 @@ synergetic
 synergisms
 synergist
 synergistic
+synergy
 syngenic
 synod
 synonymize
@@ -37192,6 +37222,7 @@ unbruised
 unbudgeably
 unbudging
 unburden
+unburdened
 unburied
 unburnable
 unbusted
@@ -37310,6 +37341,7 @@ uncurable
 uncurably
 uncurb
 uncurbs
+uncurled
 uncurling
 uncustomarily
 uncynically
@@ -37892,6 +37924,7 @@ unstopper
 unstoppered
 unstopping
 unstops
+unstratified
 unstrung
 unsubdued
 unsuccess
@@ -38779,6 +38812,7 @@ voucher
 voudon
 voudoun
 vow
+vowing
 vowless
 vows
 vox
@@ -39113,6 +39147,7 @@ weldor
 welkin
 well
 wellaway
+wellies
 welshing
 weltanschauungs
 welterweight
