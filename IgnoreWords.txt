@@ -3055,6 +3055,7 @@ bendwise
 benedictions
 beneficent
 beneficial
+beneficially
 beneficiary
 beneficiate
 beneficiated
@@ -3366,6 +3367,7 @@ biotechnologies
 biotechnologist
 biotical
 biotics
+biotites
 biotitic
 biotron
 bioturbed
@@ -4057,6 +4059,7 @@ bravure
 brawlier
 brawling
 brawnier
+braza
 brazed
 brazening
 brazenness
@@ -4425,6 +4428,7 @@ burblers
 burbliest
 burbling
 burbly
+burden
 burdeners
 burdens
 burdocks
@@ -6140,6 +6144,7 @@ clitics
 clitoridectomy
 clitorises
 clivias
+cloacal
 cloaked
 cloakroom
 clobbering
@@ -8555,6 +8560,7 @@ decants
 decapitate
 decapitations
 decarbonates
+decarbonizer
 decarboxylase
 decarburization
 decasyllabic
@@ -9389,6 +9395,7 @@ diatomite
 diatoms
 diatribe
 diazinons
+diazo
 diazole
 diazoniums
 diazotizations
@@ -10481,6 +10488,7 @@ drumstick
 drumsticks
 drunkard
 drunken
+drunker
 drupaceous
 drupelets
 druse
@@ -10890,6 +10898,7 @@ eighteen
 eighties
 eightvo
 einkorn
+eirenic
 eisteddfodic
 either
 ejaculates
@@ -11055,6 +11064,7 @@ emblems
 embodiments
 emboli
 embolies
+embolisms
 embolizations
 embonpoint
 embordering
@@ -11922,6 +11932,7 @@ everlastingness
 everymen
 everywhere
 evicted
+evictee
 evictees
 eviction
 evidenced
@@ -12610,6 +12621,7 @@ feminines
 feministic
 feminity
 feminizations
+femtosecond
 fenagled
 fenagles
 fence
@@ -13864,6 +13876,7 @@ fusiliers
 fusillades
 fusillading
 fusillis
+fusionisms
 fusionists
 fussbudgets
 fussily
@@ -14240,6 +14253,7 @@ geodesic
 geodesies
 geodetic
 geodetics
+geognosies
 geographically
 geography
 geohydrologic
@@ -17038,6 +17052,7 @@ improvisatori
 improvised
 improvisers
 improvs
+imprudently
 impudently
 impugn
 impugned
@@ -17114,6 +17129,7 @@ incentive
 incentivized
 incentivizes
 incepted
+incepting
 inceptive
 inceptively
 incepts
@@ -19461,6 +19477,7 @@ leviathans
 levies
 levigating
 levitates
+levo
 levulose
 levying
 lewd
@@ -20243,6 +20260,7 @@ mailer
 mailmen
 mainlands
 mainmasts
+mains
 mainsprings
 maintaining
 maintenance
@@ -22687,6 +22705,7 @@ nestle
 nestler
 nestlike
 nestors
+nethermost
 netherworld
 netlike
 netop
@@ -22958,6 +22977,7 @@ noncandidacy
 noncapitalists
 noncareer
 noncarriers
+noncasual
 noncelebrations
 noncelebrities
 noncellular
@@ -24618,6 +24638,7 @@ overspreading
 overstaff
 overstates
 overstays
+overstimulate
 overstimulation
 overstirs
 overstocks
@@ -24790,6 +24811,7 @@ paeons
 paesano
 pagan
 pagandom
+paganists
 paganizing
 pageants
 paged
@@ -24857,6 +24879,7 @@ palier
 palimonies
 palimpsest
 palindromes
+palindromist
 palisades
 palisading
 palladia
@@ -25101,6 +25124,7 @@ parenthoods
 pares
 paresis
 paresthesias
+paresthetic
 pareve
 parfleches
 parfocalized
@@ -25128,6 +25152,7 @@ parodoi
 paroled
 paroling
 parols
+paronomasia
 paroquets
 parotitic
 parous
@@ -25931,6 +25956,7 @@ photographic
 photographs
 photojournalism
 photokineses
+photolysis
 photolyzable
 photolyze
 photomapped
@@ -28811,6 +28837,7 @@ recepts
 recessionals
 rechallenge
 rechanged
+rechanneled
 rechanneling
 rechannelling
 rechargeable
@@ -29814,6 +29841,7 @@ resole
 resoled
 resoles
 resolidifying
+resolvable
 resonates
 resorter
 resorters
@@ -30082,6 +30110,7 @@ revictual
 revictualled
 revictuals
 review
+reviewable
 reviewal
 reviewed
 reviewers
@@ -30108,6 +30137,7 @@ revolve
 revolver
 revotes
 revoting
+revs
 revues
 revulsive
 revving
@@ -31771,6 +31801,7 @@ service
 servicing
 servitudes
 servo
+servos
 sesquiterpene
 sestertium
 setiform
@@ -37247,6 +37278,7 @@ unaffecting
 unaffordable
 unagile
 unalarmed
+unaligned
 unallayed
 unalterable
 unambiguous
@@ -38382,6 +38414,7 @@ vapid
 vapidities
 vapidity
 vapidness
+vapored
 vaporer
 vaporetto
 vaporing
@@ -39042,6 +39075,7 @@ wanguns
 wanigan
 wanion
 wannabee
+wannest
 wannigan
 wannigans
 wanting
@@ -39195,6 +39229,7 @@ weasands
 weaselly
 weasons
 weatherability
+weatherboards
 weathercast
 weatherglass
 weathermen
