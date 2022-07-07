@@ -1,0 +1,3 @@
+functions/Get-PuppetizedModuleName.Tests ... - PowerShell Gallery,https://www.powershellgallery.com/packages/Puppet.Dsc/1.0.0/Content/functions%255CGet-PuppetizedModuleName.Tests.ps1
+internal\functions\ConvertTo-CanonicalPuppetAuthorName.Tests.ps1,https://www.powershellgallery.com/packages/Puppet.Dsc/1.0.2/Content/internal%255Cfunctions%255CConvertTo-CanonicalPuppetAuthorName.Tests.ps1
+adfs-metadata-sync/Import-TransformRulesAndAttributes.ps1 at ...,https://github.com/SUNET/adfs-metadata-sync/blob/master/ADFS/Import-TransformRulesAndAttributes.ps1

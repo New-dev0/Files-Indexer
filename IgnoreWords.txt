@@ -762,6 +762,7 @@ alkalizing
 alkane
 alkie
 alkyds
+allantoids
 allantoin
 allantois
 allayed
@@ -1973,6 +1974,7 @@ assign
 assignability
 assignat
 assigning
+assignors
 assimilator
 assistances
 assister
@@ -2234,6 +2236,7 @@ autographically
 autographies
 autoharps
 autohypnosis
+autohypnotic
 autoimmune
 autoloading
 autolysates
@@ -3003,6 +3006,8 @@ belletrists
 bellflower
 bellicosities
 bellies
+belligerence
+belligerences
 belligerency
 bellmen
 bellows
@@ -4612,6 +4617,7 @@ cakes
 cakier
 cakinesses
 caky
+calabash
 calabazas
 caladium
 caladiums
@@ -7080,6 +7086,7 @@ contacted
 contactee
 contacting
 contacts
+contagiousness
 contain
 contained
 containerised
@@ -7572,6 +7579,7 @@ covenantors
 cover
 coverage
 covering
+covertnesses
 coves
 covetable
 covins
@@ -7660,6 +7668,7 @@ crapped
 crappers
 crappiest
 craps
+crashers
 crassitudes
 crassness
 crassnesses
@@ -9646,6 +9655,7 @@ disclimax
 disclosed
 disclosures
 discographic
+discombobulate
 discomfiting
 discomfitures
 discomfort
@@ -10270,6 +10280,7 @@ dozy
 drabness
 drabnesses
 dracena
+drachm
 draffiest
 draffy
 draftable
@@ -10291,6 +10302,7 @@ drainpipe
 drainpipes
 drains
 drake
+drama
 dramas
 dramatically
 dramatizations
@@ -14652,6 +14664,7 @@ gormandised
 gormandising
 gormandize
 gormandizers
+gormandizing
 gormands
 gormed
 gormless
@@ -19300,6 +19313,7 @@ legitimists
 legongs
 legrooms
 legumes
+legumins
 lehua
 lehuas
 leiomyomas
@@ -19911,6 +19925,7 @@ lowballed
 lowballing
 lowbred
 lowdowns
+lowercases
 lowercasing
 lowered
 lowermost
@@ -21068,6 +21083,7 @@ micronized
 microns
 micronucleus
 microphotometer
+micropipet
 micropipets
 microplankton
 micropore
@@ -23457,6 +23473,7 @@ ocker
 ocotillo
 ocrea
 ocreate
+octachord
 octadic
 octan
 octangle
@@ -23994,6 +24011,7 @@ outdebates
 outdistancing
 outdodge
 outdoers
+outdrags
 outdressed
 outdrink
 outdriving
@@ -27291,6 +27309,7 @@ prex
 preyed
 preyer
 preying
+preys
 priapean
 priapisms
 pricily
@@ -27585,6 +27604,7 @@ prorogations
 prosaisms
 prosateur
 prosauropods
+prosciutto
 prosciuttos
 proscribing
 prose
@@ -27618,6 +27638,7 @@ prostheses
 prosthodontics
 prostitute
 prostituted
+prostitutes
 prostrate
 prostrations
 protamin
@@ -27826,6 +27847,7 @@ puke
 pukes
 pula
 pule
+puler
 pulicide
 pulis
 pull
@@ -29385,6 +29407,7 @@ renascent
 renationalizes
 renaturation
 renatures
+rencountering
 rended
 rendered
 renderers
@@ -29589,6 +29612,7 @@ reredos
 reregister
 reregistered
 reregistrations
+reregulates
 rereleasing
 reremice
 rerepeat
@@ -29623,6 +29647,7 @@ reseated
 reseau
 reseeks
 resees
+reseizure
 reselecting
 resell
 resembled
@@ -29821,6 +29846,7 @@ retextured
 retexturing
 rethinker
 rethinkers
+rethinks
 rethread
 rethreaded
 retia
@@ -31148,6 +31174,7 @@ scrannel
 scrannels
 scrap
 scrapbooks
+scraper
 scrapheaps
 scrapies
 scrappage
@@ -31967,6 +31994,7 @@ shortwaved
 shorty
 shotguns
 shouted
+shouting
 shoved
 shoveled
 shovelful
@@ -32081,6 +32109,7 @@ sidehills
 sidelight
 sideliners
 sidelining
+sidemen
 sidepieces
 siderites
 siderolite
@@ -34351,6 +34380,7 @@ subtorrid
 subtotal
 subtreasury
 subtrends
+subtribe
 subtribes
 subtropics
 subtunics
@@ -35072,6 +35102,7 @@ tailbacks
 tailbone
 tailcoated
 tailcoats
+tailenders
 taillamps
 taille
 tailless
@@ -36357,6 +36388,7 @@ transmitted
 transmitters
 transmutative
 transnational
+transparence
 transpersonal
 transpierce
 transpirations
@@ -37319,6 +37351,7 @@ undercount
 undercounts
 undercover
 undercutting
+underdone
 underdosed
 underdosing
 undereats
@@ -37392,6 +37425,7 @@ undertints
 undertrick
 underuse
 underused
+underutilize
 undervests
 underwater
 underweights
@@ -38652,6 +38686,7 @@ vivaces
 vivaciousness
 vivaciousnesses
 vivaria
+viverrines
 vivid
 vivider
 vivifier
