@@ -965,6 +965,7 @@ amiabilities
 amiable
 amianthus
 amianthuses
+amiantus
 amiantuses
 amide
 amidin
@@ -1227,6 +1228,7 @@ aniseeds
 anisette
 anisettes
 anisogamous
+anisole
 anisometropia
 anisometropias
 anisotropically
@@ -1518,6 +1520,7 @@ apart
 apathetic
 apatosaur
 apatosaurs
+ape
 aperiodically
 apers
 aperture
@@ -2067,6 +2070,7 @@ atelectasis
 atelic
 atemporal
 atenolol
+athelings
 atherogenic
 atheroma
 atherosclerotic
@@ -4285,6 +4289,7 @@ brutely
 brutifies
 brutify
 brutishly
+brutishnesses
 brutism
 bruts
 bruxisms
@@ -4656,6 +4661,7 @@ calcedony
 calcimining
 calcinations
 calcine
+calcinoses
 calcinosis
 calcspar
 calcspars
@@ -6091,6 +6097,7 @@ clavicle
 clavicles
 clavier
 clavieristic
+clawback
 clawhammer
 clawlike
 claying
@@ -7514,6 +7521,7 @@ cottered
 cottoned
 cottons
 cottonseeds
+cottonwood
 cotyledons
 couches
 cougar
@@ -8088,6 +8096,7 @@ culvert
 cumarin
 cumberbund
 cumbered
+cumbersome
 cumbersomeness
 cumbrous
 cumin
@@ -8545,6 +8554,7 @@ debeaks
 debeards
 debilitation
 debits
+debonair
 deboned
 deboning
 debriefed
@@ -9144,6 +9154,7 @@ descriptive
 descriptor
 descry
 descrying
+desecrated
 desecrations
 desecrators
 desegregated
@@ -10321,6 +10332,7 @@ downtick
 downtowns
 downtrended
 downtrending
+downturns
 dowries
 dowsing
 doxies
@@ -11436,6 +11448,7 @@ enterococcus
 enterocoele
 enterokinase
 enterons
+enterostomal
 enterotoxin
 enterotoxins
 enteroviral
@@ -11955,6 +11968,7 @@ evicted
 evictee
 evictees
 eviction
+evicts
 evidenced
 evident
 evildoings
@@ -12335,6 +12349,7 @@ facia
 faciends
 facilitators
 facilities
+facing
 facsimiles
 fact
 faction
@@ -16366,7 +16381,9 @@ hotching
 hotchpotches
 hotdogged
 hotelier
+hoteliers
 hotelman
+hotels
 hotheaded
 hotheadedly
 hothoused
@@ -18127,6 +18144,7 @@ irredeemably
 irredentas
 irreducibility
 irreformability
+irrefragability
 irrefragable
 irrefragably
 irregulars
@@ -18367,6 +18385,7 @@ jazzman
 jazzmen
 jazzy
 jealousness
+jealousy
 jeer
 jeers
 jefe
@@ -19215,6 +19234,7 @@ laryngitis
 laryngoscope
 laryngoscopes
 lasagnes
+lasciviousness
 lasher
 lashes
 lasses
@@ -19375,6 +19395,7 @@ lederhosen
 ledger
 ledgy
 leech
+leek
 leer
 leerinesses
 lees
@@ -20221,6 +20242,7 @@ mackintoshes
 macled
 macrocosms
 macrocyclic
+macrocysts
 macroeconomic
 macroevolution
 macroevolutions
@@ -20485,6 +20507,7 @@ manually
 manubriums
 manufactories
 manufactured
+manufactures
 manufacturings
 manure
 manured
@@ -27623,6 +27646,7 @@ profitableness
 profiteered
 profiter
 profiters
+profits
 profitwise
 profligacies
 profound
@@ -28747,6 +28771,7 @@ realisms
 realities
 reality
 realize
+realizers
 realizes
 reallocations
 reallot
@@ -28902,6 +28927,7 @@ reciprocally
 reciprocating
 reciprocities
 recirculating
+recirculation
 recirculations
 recisions
 recitation
@@ -29001,6 +29027,7 @@ recorks
 recounter
 recounters
 recoupe
+recouping
 recoupment
 recoups
 recrate
@@ -29571,6 +29598,7 @@ remotions
 remotivates
 remotivating
 remoulade
+removably
 removals
 removeable
 remudas
@@ -31245,6 +31273,7 @@ schmaltz
 schmalziest
 schmatte
 schmelzes
+schmo
 schmoes
 schmoos
 schmoose
@@ -31395,6 +31424,7 @@ screwworm
 scribbler
 scribes
 scries
+scrimpers
 scrimpiest
 scrimpily
 scrimshanders
@@ -37757,6 +37787,7 @@ unflinching
 unflinchingly
 unfocused
 unfold
+unforced
 unforthcoming
 unfossiliferous
 unfreed
@@ -38023,6 +38054,7 @@ unresponsive
 unresponsively
 unrestored
 unrestraints
+unretire
 unretouched
 unreturnable
 unrevised
@@ -38154,6 +38186,7 @@ untied
 untillable
 untilled
 untimed
+untimeous
 untiringly
 untouched
 untoward
@@ -38659,6 +38692,7 @@ verbicides
 verbigeration
 verbiles
 verbless
+verbosely
 verdin
 verdure
 verdured
@@ -39113,6 +39147,7 @@ wakes
 waled
 walkabout
 walkabouts
+walkaway
 walkingstick
 walkover
 walkway
