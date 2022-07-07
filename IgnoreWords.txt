@@ -1702,6 +1702,7 @@ arabizing
 aragonitic
 araks
 arames
+araucaria
 arbalest
 arbalests
 arbiter
@@ -1855,6 +1856,7 @@ arrowworm
 arsenides
 arsenite
 arshins
+arsine
 arsino
 arsonists
 arsonous
@@ -5424,6 +5426,7 @@ chador
 chaetae
 chafed
 chaffered
+chaffinches
 chaffs
 chagrining
 chained
@@ -5725,6 +5728,7 @@ chino
 chinquapins
 chints
 chintzier
+chintziest
 chionodoxas
 chipboards
 chipmuck
@@ -5890,6 +5894,7 @@ chronometrical
 chronon
 chrysolite
 chrysomelids
+chrysoprase
 chubbiest
 chubby
 chuckies
@@ -5945,6 +5950,7 @@ cinematic
 cinematographic
 cinematography
 cinephiles
+cineraria
 cinerarias
 cinerary
 cingula
@@ -7631,6 +7637,7 @@ couturiers
 covalences
 covalent
 covariance
+cove
 coved
 covenantees
 covenantors
@@ -10075,6 +10082,7 @@ divisionisms
 divisions
 divisive
 divorcee
+divorcements
 divorcers
 divorcing
 divulgates
@@ -10731,6 +10739,7 @@ earlock
 earlship
 earmarked
 earringed
+ears
 earshots
 earsplitting
 earthbound
@@ -11404,6 +11413,7 @@ enorm
 enosis
 enow
 enows
+enplane
 enplaned
 enquires
 enravished
@@ -12228,6 +12238,7 @@ expressly
 expressos
 expropriate
 expropriates
+expropriation
 expulse
 expulsed
 expulses
@@ -12470,6 +12481,7 @@ fanfare
 fanfaron
 fanfaronades
 fanfarons
+fanfic
 fangas
 fangless
 fanglike
@@ -15239,6 +15251,7 @@ gunplays
 gunrunner
 gunrunning
 gunshots
+guppies
 gurged
 gurglets
 gurnard
@@ -15656,6 +15669,7 @@ hazanim
 hazarders
 hazardousness
 hazelhen
+hazer
 hazier
 haziest
 haziness
@@ -15691,6 +15705,7 @@ headman
 headmasters
 headmistress
 headmistresses
+headphones
 headpiece
 headpieces
 headquartering
@@ -16455,6 +16470,7 @@ hoydening
 hoyle
 hubbub
 hubby
+hubcap
 huckleberry
 huddler
 hueless
@@ -16529,6 +16545,7 @@ huntings
 huntsman
 huppah
 hurdled
+hurdles
 hurlers
 hurleys
 hurlings
@@ -18561,6 +18578,7 @@ judicatories
 judicial
 judicially
 judicious
+judiciously
 judoist
 judoists
 judoka
@@ -19544,6 +19562,7 @@ leveling
 levelled
 levellers
 levelnesses
+levels
 leviable
 leviathans
 levies
@@ -21263,6 +21282,7 @@ microspore
 microstructural
 microswitch
 microtechnique
+microtubule
 microvolt
 microwatts
 microwavable
@@ -21924,6 +21944,7 @@ monitors
 monkeyish
 monkeypod
 monkfishes
+monks
 monoacids
 monoamines
 monocarpic
@@ -21956,6 +21977,7 @@ monogamists
 monogenically
 monograms
 monogyny
+monohybrid
 monolayer
 monolingual
 monolith
@@ -23289,6 +23311,7 @@ nonrubber
 nonschool
 nonscientist
 nonsecretors
+nonsegregations
 nonselective
 nonsensically
 nonsentences
@@ -23761,6 +23784,7 @@ oleaster
 olefine
 olefines
 oleic
+oleographs
 olestras
 olfaction
 olfactions
@@ -24991,6 +25015,7 @@ palmitins
 palmyra
 palominos
 paloverdes
+palpability
 palpably
 palpation
 palpators
@@ -25011,6 +25036,7 @@ paltriness
 paltry
 paludal
 paly
+palynologically
 palynologies
 pampa
 pampeans
@@ -26099,6 +26125,7 @@ phyllodium
 phylloids
 phyllome
 phyllomes
+phyllomic
 phyllotactic
 phylogenetic
 physed
@@ -28608,6 +28635,7 @@ rally
 rallyists
 ralphed
 ramble
+rambunctiously
 ramees
 ramekin
 ramie
@@ -29482,6 +29510,7 @@ reinvoke
 reissue
 reitbok
 reiterating
+reiterations
 reive
 reived
 reives
@@ -32989,6 +33018,7 @@ sniveling
 snivellers
 snob
 snobbery
+snood
 snooded
 snooker
 snookering
@@ -35251,6 +35281,7 @@ synarthroses
 syncarp
 syncarpous
 syncarps
+synced
 synched
 synchroneities
 synchronic
@@ -36297,6 +36328,7 @@ toggled
 toggler
 togglers
 toil
+toiled
 toileted
 toiletries
 toilsomenesses
@@ -36740,6 +36772,7 @@ treachery
 treacliest
 treader
 treading
+treadmill
 treasurership
 treasurerships
 treasuries
@@ -39548,6 +39581,7 @@ whittret
 whiz
 whizzer
 whizzers
+whizzing
 whizzy
 who
 whoa
@@ -40127,6 +40161,7 @@ yupon
 yuppiedoms
 yuppieish
 yuppified
+yuppifies
 yuppify
 yuppifying
 yurt
