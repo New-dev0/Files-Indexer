@@ -417,6 +417,7 @@ adventive
 adventure
 adventurist
 adverbial
+adverbials
 adversaries
 advertent
 advertisement
@@ -455,6 +456,7 @@ aerobiosis
 aerodromes
 aerodynes
 aeroelasticity
+aerogrammes
 aerograms
 aerolitic
 aeromechanics
@@ -3167,6 +3169,7 @@ bespattering
 bespoken
 besprinkled
 bestialities
+bestializing
 bestiary
 besting
 bestrews
@@ -3733,6 +3736,7 @@ bodyguarding
 bodyguards
 bodysurfed
 bodyworks
+boff
 boffola
 boffos
 bog
@@ -6051,6 +6055,7 @@ civets
 civic
 civicism
 civie
+civies
 civil
 civilisation
 civilisations
@@ -6290,6 +6295,7 @@ coadmire
 coadmires
 coadmiring
 coadmits
+coagencies
 coagula
 coagulability
 coagulants
@@ -6452,6 +6458,7 @@ coevolution
 coexecutor
 coexisted
 coexistent
+coexisting
 coextends
 cofeaturing
 coffee
@@ -6628,6 +6635,7 @@ colonnade
 colons
 colophonies
 colorably
+colorbred
 colorcast
 colorcasted
 colorfulness
@@ -8191,6 +8199,7 @@ curler
 curlers
 curlicues
 curliest
+curliness
 curlinesses
 curls
 curr
@@ -12372,6 +12381,7 @@ extrusions
 extrusive
 extubate
 extubating
+exuberances
 exude
 exuded
 exultances
@@ -12495,6 +12505,7 @@ falsie
 falsifiability
 falsifiers
 falsities
+faltered
 falterers
 falters
 familiar
@@ -12581,7 +12592,9 @@ farrieries
 farsides
 farsightedly
 farther
+farting
 fas
+fascias
 fascicled
 fasciculus
 fascination
@@ -13194,6 +13207,7 @@ flintiness
 flintinesses
 flintlock
 flinty
+flip
 flipbooks
 flipflop
 flipflops
@@ -13778,6 +13792,7 @@ friendship
 friezes
 frighten
 frightful
+frightfully
 frightfulness
 frigidly
 frigidness
@@ -13812,6 +13827,7 @@ frolicker
 frolickers
 fronds
 front
+frontals
 frontcourt
 frontispieces
 frontlets
@@ -14272,6 +14288,7 @@ geckos
 geds
 geed
 geegaw
+geekdom
 geekinesses
 geeky
 gees
@@ -14849,6 +14866,7 @@ goth
 gothic
 gothicism
 gothicize
+gothicized
 gothicizes
 gothites
 gouge
@@ -15225,6 +15243,7 @@ guggle
 guggles
 guggling
 guidance
+guided
 guideposts
 guiders
 guideway
@@ -17530,6 +17549,7 @@ infecting
 infection
 infectivity
 infectors
+infecund
 infelicitous
 infeoffs
 inferable
@@ -22900,6 +22920,7 @@ neurohumoral
 neurohypophyses
 neurohypophysis
 neuroid
+neuroleptics
 neurologies
 neurologist
 neurophysiology
@@ -23281,6 +23302,7 @@ noninsecticidal
 noninstallments
 noninstrumental
 nonintellectual
+noninteractive
 nonintercourses
 noninterest
 nonintersecting
@@ -23600,6 +23622,7 @@ nymphalid
 nymphets
 nympholepsies
 nystagmic
+nystagmuses
 oafish
 oak
 oar
@@ -24754,6 +24777,7 @@ overproduction
 overprograming
 overpromise
 overprotect
+overprotected
 overquick
 overrate
 overreacher
@@ -25553,6 +25577,7 @@ pecten
 pectic
 pectinaceous
 peculates
+peculiarity
 peculiars
 pecuniary
 pedagogy
@@ -25994,6 +26019,7 @@ phat
 phatter
 phellems
 phelonia
+phelonion
 phenacite
 phenate
 pheneticist
@@ -27741,6 +27767,7 @@ procuring
 prod
 prodders
 prodigy
+prodromal
 prodromata
 produced
 producers
@@ -27899,6 +27926,7 @@ proprietorial
 proprietorship
 proprietorships
 proprioceptions
+proprioceptor
 props
 proptoses
 propulsive
@@ -29192,6 +29220,7 @@ recusants
 recused
 recut
 recyclables
+recycle
 recycler
 redacted
 redacting
@@ -29953,6 +29982,7 @@ reregulates
 rereleasing
 reremice
 rerepeat
+rerigging
 rerises
 rerolls
 reroofs
@@ -32980,6 +33010,7 @@ smash
 smashed
 smashers
 smashups
+smatter
 smattering
 smatterings
 smatters
@@ -34918,6 +34949,7 @@ summoners
 sumps
 sumpters
 sumptuous
+sunbath
 sunbaths
 sunbird
 sunblock
@@ -38981,6 +39013,7 @@ videographer
 videographies
 videolands
 videotexes
+vidette
 videttes
 vidicon
 vied
@@ -39546,6 +39579,7 @@ weighman
 weighted
 weightiness
 weightinesses
+weiner
 weird
 weirdies
 weirding
@@ -39827,6 +39861,7 @@ winsomenesses
 winterberries
 winterberry
 winterer
+winterfeeds
 winterkill
 winterly
 wintertide
