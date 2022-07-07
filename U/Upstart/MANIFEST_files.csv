@@ -1,0 +1,17 @@
+ubuntu-14.04.6-desktop-i386.manifest - Ubuntu Releases,https://releases.ubuntu.com/14.04/ubuntu-14.04.6-desktop-i386.manifest
+ubuntu-14.04.6-server-i386.manifest - Ubuntu Releases,https://releases.ubuntu.com/14.04/ubuntu-14.04.6-server-i386.manifest
+https://mirrors.aliyun.com/oldubuntu-releases/rele...,https://mirrors.aliyun.com/oldubuntu-releases/releases/8.04.3/ubuntu-8.04-desktop-amd64.manifest
+https://mirrors.aliyun.com/oldubuntu-releases/rele...,https://mirrors.aliyun.com/oldubuntu-releases/releases/12.04.4/ubuntu-12.04-preinstalled-server-armhf%2Bomap.manifest
+ftp.twaren.net/ubuntu-dvd/ports/releases/9.04/rele...,http://ftp.twaren.net/ubuntu-dvd/ports/releases/9.04/release/ubuntu-9.04-desktop-powerpc.manifest
+repo.ugm.ac.id/iso/ubuntu/releases/kubuntu/8.04/ku...,http://repo.ugm.ac.id/iso/ubuntu/releases/kubuntu/8.04/kubuntu-8.04.2-desktop-i386.manifest
+https://mirrors.dotsrc.org/mirrors/turnkeylinux/me...,https://mirrors.dotsrc.org/mirrors/turnkeylinux/metadata/turnkey-tomcat/11.2-lucid-x86/turnkey-tomcat-11.2-lucid-x86.manifest
+ftp.dei.uc.pt/pub/linux/xubuntu/releases/16.04/rel...,http://ftp.dei.uc.pt/pub/linux/xubuntu/releases/16.04/release/xubuntu-16.04.2-desktop-i386.manifest
+ftp.dei.uc.pt/pub/linux/xubuntu/releases/14.04/rel...,http://ftp.dei.uc.pt/pub/linux/xubuntu/releases/14.04/release/xubuntu-14.04.2-desktop-amd64.manifest
+ftp.ntua.gr/mirror/GNOME/misc/ubuntu-gnome-remix/u...,http://ftp.ntua.gr/mirror/GNOME/misc/ubuntu-gnome-remix/ubuntu-gnome-12.10.1-desktop-amd64.manifest
+resetter-cli/eos-0.4.1.manifest at master · gaining/resetter-cli · GitHub,https://github.com/gaining/resetter-cli/blob/master/resetter-cli/data/manifests/eos-0.4.1.manifest
+docker-ubuntu-lucid/ubuntu-lucid-core-cloudimg.manifest at master ...,https://github.com/dovyden/docker-ubuntu-lucid/blob/master/ubuntu-lucid-core-cloudimg.manifest
+mirror.rise.ph/ubuntu-iso/14.04/ubuntu-14.04.5-des...,http://mirror.rise.ph/ubuntu-iso/14.04/ubuntu-14.04.5-desktop-i386.manifest
+ubuntu-8.04.4-desktop-i386.manifest,https://mirrors.xtom.ee/ubuntu-old-releases/releases/8.04.4/ubuntu-8.04.4-desktop-i386.manifest
+https://turnkeylinux.quantum-mirror.hu/metadata/tu...,https://turnkeylinux.quantum-mirror.hu/metadata/turnkey-drupal6/2008.10.28-hardy-x86/turnkey-drupal6-2008.10.28-hardy-x86.manifest
+Packages.manifest - OpenWrt Downloads,https://downloads.openwrt.org/releases/17.01.0/packages/mipsel_24kc/packages/Packages.manifest
+https://downloads.openwrt.org/releases/17.01.6/pac...,https://downloads.openwrt.org/releases/17.01.6/packages/i386_i486/packages/Packages.manifest
