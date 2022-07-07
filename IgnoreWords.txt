@@ -74,6 +74,7 @@ abstractnesses
 abstractor
 abstractors
 abstruseness
+abstrusity
 absurdest
 absurdists
 absurds
@@ -2687,6 +2688,7 @@ basilar
 basilect
 basinfuls
 basing
+basions
 bask
 basketful
 basmati
@@ -2926,6 +2928,7 @@ beflagging
 beflea
 befleaed
 befleck
+befrets
 befringe
 befuddle
 befuddlement
@@ -5220,6 +5223,7 @@ cavaliered
 cavalierly
 cavaliers
 cavalry
+cavatina
 cavatine
 caved
 cavelike
@@ -7824,6 +7828,7 @@ crossabilities
 crossarms
 crossbanding
 crossbandings
+crossbarred
 crossbill
 crossbills
 crossbones
@@ -9570,6 +9575,7 @@ disaccustoms
 disaffecting
 disaffects
 disaffiliate
+disaffiliates
 disaffiliating
 disaffirms
 disaggregate
@@ -10792,6 +10798,7 @@ effulgent
 effused
 effuses
 effusivenesses
+eftsoons
 egad
 egalitarian
 egalitarianism
@@ -10978,6 +10985,7 @@ embezzle
 embezzlement
 embezzlements
 embezzlers
+embezzles
 embitter
 embitters
 emblazoned
@@ -13628,6 +13636,7 @@ frosted
 frostfish
 frostiness
 frosting
+frostwork
 frostworks
 froth
 frothiest
@@ -15363,6 +15372,7 @@ harbour
 hard
 hardboard
 hardboot
+hardboots
 hardcores
 hardeners
 hardhat
@@ -17419,6 +17429,7 @@ injury
 inkberries
 inkhorn
 inkinesses
+inking
 inkjet
 inkle
 inklings
@@ -17579,6 +17590,7 @@ inswathe
 intake
 intakes
 intangibilities
+intarsias
 integers
 integralities
 integrally
@@ -17739,6 +17751,7 @@ interrelating
 interrelation
 interrenal
 interrex
+interring
 interrobang
 interrogatees
 interrogating
@@ -17999,6 +18012,7 @@ irresolutely
 irresoluteness
 irretrievable
 irretrievably
+irreversibly
 irrevocable
 irrigably
 irrigation
@@ -20491,6 +20505,7 @@ matchmarks
 matchstick
 matchsticks
 matchwood
+matelasses
 materialist
 materialities
 materializer
@@ -21620,6 +21635,7 @@ modifying
 modishness
 modistes
 modularities
+modulators
 module
 mofette
 mofettes
@@ -22510,6 +22526,7 @@ neifs
 neighboring
 neighborly
 neighbouring
+neighing
 nektonic
 nelsons
 nelumbiums
@@ -25076,6 +25093,7 @@ pastoralisms
 pastoralnesses
 pastored
 pastoring
+pastries
 pastromis
 pastures
 patagium
@@ -26586,6 +26604,7 @@ pontificating
 pontoon
 ponying
 ponytail
+pooch
 poofter
 pooler
 poolhall
@@ -26763,6 +26782,7 @@ potboiling
 poteen
 potences
 potentate
+potential
 potentiality
 potentiating
 potentiators
@@ -26935,6 +26955,7 @@ precreasing
 precures
 precursors
 predaceous
+predacious
 predate
 predatism
 predeceases
@@ -30749,6 +30770,7 @@ saprobes
 sapropel
 sapropels
 saprophyte
+saprophytic
 sapwood
 sarabands
 sarape
@@ -30874,6 +30896,7 @@ scalariformly
 scalation
 scalations
 scale
+scalelike
 scalepan
 scaler
 scales
@@ -31375,6 +31398,7 @@ semainiers
 semanticists
 semantics
 semaphoring
+semasiology
 semen
 semens
 semi
@@ -31706,6 +31730,7 @@ sharpers
 sharpest
 sharpie
 sharpies
+sharpness
 sharpy
 shat
 shatter
@@ -32371,6 +32396,7 @@ slaws
 slayable
 slaying
 slays
+sleaving
 sleazebag
 sleazes
 sleazo
@@ -32953,6 +32979,7 @@ soughed
 soulfulnesses
 soundboard
 soundly
+soundmen
 soundness
 soundproofed
 souped
@@ -33420,6 +33447,7 @@ squinters
 squintest
 squinting
 squintingly
+squinty
 squirearchies
 squirish
 squirmers
@@ -33464,6 +33492,7 @@ staggiest
 stagier
 stagiest
 stagily
+stags
 staig
 stainer
 stainers
@@ -33629,6 +33658,7 @@ stelic
 stellas
 stellifying
 stellite
+stemlike
 stemmas
 stemmata
 stemmer
@@ -33854,6 +33884,7 @@ strangest
 strangle
 strangles
 straphanged
+straphangers
 straphangs
 strapped
 straps
@@ -35478,6 +35509,7 @@ testudo
 tetanizations
 tetanizing
 tetchily
+tetchiness
 tetherballs
 tetracycline
 tetradic
@@ -36601,6 +36633,7 @@ trophoblasts
 trophy
 tropic
 tropicals
+tropics
 tropism
 tropomyosin
 tropotaxis
@@ -37005,6 +37038,7 @@ umping
 umpired
 umpires
 umteenth
+unabating
 unabjured
 unabsorbed
 unabusive
@@ -38607,6 +38641,7 @@ vocalise
 vocalised
 vocalist
 vocalnesses
+vocals
 vocationally
 vociferator
 vociferous
