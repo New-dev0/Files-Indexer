@@ -84,6 +84,7 @@ abusable
 abuse
 abused
 abusers
+abusive
 abusivenesses
 abuttal
 abwatt
@@ -2877,6 +2878,7 @@ beclothed
 beclothes
 beclowned
 becoming
+becomings
 becrawled
 becrime
 becriming
@@ -2889,6 +2891,7 @@ bedarkening
 bedazzlement
 bedazzling
 bedboard
+bedchair
 bedchamber
 bedcovering
 bedcovers
@@ -2975,6 +2978,7 @@ begladded
 beglamor
 begloomed
 begoggled
+begonias
 begorrah
 begot
 begotten
@@ -2992,6 +2996,7 @@ beheader
 behinds
 beholds
 behoove
+behoves
 behowl
 beignes
 beigy
@@ -3776,6 +3781,7 @@ bolting
 boltlike
 boltropes
 bolus
+bombable
 bombarder
 bombardier
 bombinates
@@ -3830,6 +3836,7 @@ bookful
 bookish
 bookishness
 bookkeepers
+bookkeeping
 bookmaker
 bookmakings
 bookman
@@ -4305,6 +4312,7 @@ bryologist
 bryology
 bryophyllums
 bryozoans
+bubals
 bubbled
 bubbler
 bubkes
@@ -5780,6 +5788,7 @@ chloroses
 chlorothiazides
 chlorpromazine
 chlorpropamide
+choanocyte
 chock
 chockful
 chockfull
@@ -6092,6 +6101,7 @@ classifications
 classing
 classists
 clast
+clathrate
 clattered
 clatterer
 clattery
@@ -7621,6 +7631,7 @@ courant
 courier
 courlan
 courlans
+coursed
 courseware
 courteousness
 courtesies
@@ -8232,6 +8243,7 @@ cutler
 cutlines
 cutout
 cutouts
+cutover
 cutpurses
 cuttable
 cutthroats
@@ -8724,6 +8736,7 @@ deedy
 deejaying
 deepest
 deepfreezes
+deepfrozen
 deeps
 deerflies
 deerhounds
@@ -9084,6 +9097,7 @@ depopulating
 depopulation
 deportable
 deportations
+deportee
 deportment
 deportments
 deposal
@@ -10276,6 +10290,7 @@ double
 doubleheader
 doublenesses
 doublespeak
+doublespeakers
 doubloons
 doubters
 doubtingly
@@ -11039,6 +11054,7 @@ eliminators
 elint
 elints
 elitisms
+elliptic
 ellipticals
 ells
 elmy
@@ -12847,6 +12863,7 @@ filched
 filches
 file
 filefishes
+files
 filets
 filiates
 filibeg
@@ -14559,6 +14576,7 @@ gleesome
 gleetiest
 gleization
 glengarry
+gliadin
 glib
 glibber
 glibbest
@@ -15666,6 +15684,7 @@ haymows
 hayrick
 hays
 hazanim
+hazard
 hazarders
 hazardousness
 hazelhen
@@ -15688,6 +15707,7 @@ headfish
 headforemost
 headful
 headfuls
+headgates
 headgears
 headhunt
 headhunter
@@ -16244,6 +16264,7 @@ homolog
 homologated
 homologates
 homologations
+homologize
 homologized
 homologizes
 homologizing
@@ -19129,6 +19150,7 @@ laetrile
 lag
 laggardness
 laggardnesses
+laggards
 lagger
 laggers
 lagging
@@ -25200,6 +25222,7 @@ paraphs
 paraplegics
 paraquet
 paraquets
+pararosaniline
 pararosanilines
 parasailing
 parasailings
@@ -26753,6 +26776,7 @@ polisher
 polishing
 politburos
 polite
+politenesses
 politesse
 politicalized
 politicised
@@ -27722,6 +27746,7 @@ project
 projectable
 projected
 projectile
+projecting
 projection
 projectionists
 projects
@@ -27946,6 +27971,7 @@ provinces
 provincialize
 provincialized
 provincially
+provisionary
 provisory
 provitamin
 provocation
@@ -29192,6 +29218,7 @@ redpoll
 redpolls
 redraft
 redreams
+redressers
 redresses
 redressors
 redrew
@@ -29437,6 +29464,7 @@ rehandle
 rehandles
 rehanged
 rehardened
+rehardens
 rehashed
 rehears
 rehearsals
@@ -30157,6 +30185,7 @@ retranslation
 retransmission
 retransmitted
 retread
+retreat
 retreated
 retreating
 retreats
@@ -31817,6 +31846,7 @@ sensibler
 sensiblest
 sensitise
 sensitizing
+sensorimotor
 sensual
 sensualize
 sensualized
@@ -32751,6 +32781,7 @@ sleetier
 sleeting
 sleeved
 sleighed
+sleight
 slenderizes
 slenderly
 slenderness
@@ -33635,6 +33666,7 @@ splurgy
 splutters
 spodes
 spodosols
+spoilsmen
 spokesmanships
 spokespeople
 spokeswomen
@@ -34194,6 +34226,7 @@ stopwatch
 storekeeper
 storerooms
 storeships
+storeys
 storksbills
 stormier
 story
@@ -37662,6 +37695,7 @@ underbakes
 underbelly
 underbred
 underbrush
+underbud
 underbudding
 underbuying
 undercarriage
@@ -39576,6 +39610,7 @@ whities
 whitish
 whits
 whittle
+whittler
 whittles
 whittret
 whiz
