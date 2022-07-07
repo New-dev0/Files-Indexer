@@ -531,6 +531,7 @@ aftosa
 agallochs
 agamete
 agapanthuses
+agape
 agapeic
 agars
 agatize
@@ -2747,6 +2748,7 @@ battlegrounds
 battlement
 battlers
 battue
+batty
 baud
 baulk
 baulkiest
@@ -3630,6 +3632,7 @@ blunges
 blunging
 blunting
 blurt
+blustered
 bo
 boarder
 boardinghouses
@@ -3694,6 +3697,7 @@ bohrium
 boil
 boilable
 boiled
+boilermaker
 boilermakers
 boilerplate
 boilers
@@ -4058,6 +4062,7 @@ breath
 breathed
 breathers
 breathes
+breathtaking
 breathy
 brecciation
 brecciations
@@ -6501,6 +6506,7 @@ collision
 collocating
 collocational
 collodion
+collodions
 colloids
 colloquial
 colloquiality
@@ -6971,6 +6977,7 @@ conquered
 conquerers
 conquerors
 conquian
+cons
 conscience
 conscientious
 conscionable
@@ -10322,6 +10329,7 @@ dribblets
 dribbly
 driblets
 driegh
+driest
 driftage
 drilling
 drillmaster
@@ -10525,6 +10533,7 @@ dusk
 dusks
 dustcover
 dustheaps
+dustier
 dustman
 dustpan
 duststorm
@@ -12079,6 +12088,7 @@ explores
 explosively
 explosiveness
 exportability
+exposals
 expose
 exposits
 exposures
@@ -13280,6 +13290,7 @@ forechecks
 foreclosure
 foredate
 foredecks
+foredid
 foreface
 forefaces
 forefending
@@ -14151,6 +14162,7 @@ geodesies
 geodetic
 geodetics
 geographically
+geography
 geohydrologic
 geohydrologies
 geoidal
@@ -17749,6 +17761,7 @@ interstadial
 interstate
 interstation
 intersterile
+intersterility
 interstitially
 interstrand
 intersystem
@@ -18076,6 +18089,7 @@ isotopically
 isotropy
 isotypic
 isozymic
+issuably
 issuers
 isthmian
 isthmus
@@ -20100,6 +20114,7 @@ magnetisms
 magnetites
 magnetize
 magnetizing
+magnetometers
 magnetos
 magnetosphere
 magnificently
@@ -20424,6 +20439,7 @@ masers
 masher
 mashgichim
 masjids
+maskable
 masker
 masklike
 masochistically
@@ -20569,6 +20585,7 @@ meaningless
 meaninglessly
 meaningly
 meanness
+meant
 meantime
 measled
 measly
@@ -21389,6 +21406,7 @@ misidentifying
 misimpression
 misimpressions
 misinform
+misinformed
 misinforms
 misinter
 misinterpret
@@ -21425,6 +21443,7 @@ mismove
 misname
 misnumbering
 misogyny
+misologies
 misoneism
 misoneist
 misordered
@@ -21648,6 +21667,7 @@ molybdenum
 mom
 momentarily
 momently
+momentousness
 momentum
 momus
 momzer
@@ -22479,6 +22499,7 @@ negaton
 negatron
 neglecter
 neglectors
+neglects
 negligee
 negligently
 negligibly
@@ -22703,6 +22724,7 @@ nippers
 nippiness
 nippy
 nirvanic
+nitpick
 nitride
 nitrided
 nitrides
@@ -24281,6 +24303,7 @@ overestimations
 overevaluations
 overexercising
 overexertions
+overexerts
 overexpectation
 overexplained
 overexploit
@@ -24707,6 +24730,7 @@ pallet
 palletised
 palletizer
 pallets
+pallia
 palliatives
 pallid
 pallier
@@ -24819,6 +24843,7 @@ pap
 papa
 papacy
 papadom
+papain
 papains
 papal
 paparazzi
@@ -24953,6 +24978,7 @@ parlay
 parlays
 parled
 parles
+parliaments
 parlor
 parmigiana
 parmigiano
@@ -25707,6 +25733,7 @@ phonographic
 phonolite
 phonologic
 phonotactic
+phons
 phorate
 phoronids
 phosgene
@@ -26486,6 +26513,7 @@ polyene
 polyenic
 polygamized
 polygamizes
+polygene
 polygonally
 polygraph
 polygraphic
@@ -26497,6 +26525,7 @@ polymathies
 polymathy
 polymerases
 polymeric
+polymerising
 polymerized
 polymorphic
 polymorphously
@@ -28371,6 +28400,7 @@ raspingly
 rasps
 rassle
 raster
+ratable
 rataplans
 ratatat
 rateably
@@ -32407,6 +32437,7 @@ slivovices
 slobberers
 slobbering
 slobbers
+slobbish
 slobs
 sloganeered
 sloganize
@@ -35170,12 +35201,14 @@ taverna
 tawdries
 tawnier
 tawse
+tax
 taxa
 taxably
 taxicab
 taxidermic
 taximeter
 taximeters
+taxiways
 taxol
 taxpaying
 tazza
@@ -36728,6 +36761,7 @@ turbocars
 turbocharger
 turbulencies
 turbulently
+turd
 turfless
 turfmen
 turfski
@@ -36855,6 +36889,7 @@ typefounders
 types
 typescript
 typescripts
+typesets
 typesettings
 typewriter
 typhlitis
