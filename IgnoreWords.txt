@@ -312,6 +312,7 @@ acylated
 ad
 adamance
 adapt
+adaptable
 adaptation
 adaptations
 adapter
@@ -2008,6 +2009,7 @@ assiduously
 assign
 assignability
 assignat
+assignee
 assigning
 assignors
 assimilator
@@ -2282,6 +2284,7 @@ autoimmune
 autoloading
 autolysates
 autolysed
+autolysins
 autolyzes
 automaker
 automan
@@ -2816,6 +2819,7 @@ bauxitic
 bawdier
 bawdric
 bawdy
+bawl
 bawtie
 bayamo
 bayard
@@ -2825,6 +2829,7 @@ bayberry
 bayou
 bays
 bazar
+bazillions
 bazooka
 bazooms
 beach
@@ -3610,6 +3615,7 @@ bleedings
 bleeped
 bleepers
 blenched
+blencher
 blend
 blende
 blennioid
@@ -3640,6 +3646,7 @@ blog
 blondined
 blondines
 bloodbath
+blooded
 bloodguilt
 bloodguiltiness
 bloodies
@@ -4129,6 +4136,7 @@ brazening
 brazenness
 brazier
 brazil
+brazils
 breaching
 breadbaskets
 breadbox
@@ -5317,6 +5325,7 @@ causable
 causalgia
 causalgic
 causally
+causals
 causation
 caused
 causeless
@@ -5465,6 +5474,7 @@ certainer
 certainest
 certifiable
 certifiably
+certificate
 certification
 certificatory
 certifiers
@@ -6371,6 +6381,7 @@ coastal
 coastally
 coastings
 coastline
+coasts
 coatees
 coats
 coattail
@@ -13489,6 +13500,7 @@ foamy
 fobbed
 focalizations
 focalizes
+foe
 foehn
 foemen
 foes
@@ -14413,6 +14425,7 @@ gazpacho
 gazpachos
 gear
 gearcase
+gearcases
 gearless
 gearshifts
 geckos
@@ -14444,6 +14457,7 @@ gels
 gelsemia
 gelsemium
 gelsemiums
+gematria
 geminate
 geminations
 gemmate
@@ -14503,6 +14517,7 @@ geobotanists
 geochemical
 geochemically
 geochemists
+geochronologies
 geocoronas
 geode
 geodesic
@@ -15652,6 +15667,7 @@ hames
 hammada
 hammams
 hammed
+hammerers
 hammerkop
 hammerless
 hammerlocks
@@ -15827,6 +15843,7 @@ hatchers
 hatchery
 hatchet
 haters
+hates
 hating
 hatmakers
 hatrack
@@ -16326,6 +16343,7 @@ hives
 ho
 hoarders
 hoardings
+hoards
 hoariness
 hoars
 hoarsened
@@ -16411,6 +16429,7 @@ holstered
 holystoned
 homaging
 homburgs
+homebodies
 homebrews
 homebuilt
 homecoming
@@ -16483,6 +16502,7 @@ honda
 hondle
 hondled
 hondles
+honest
 honestest
 honesties
 honestly
@@ -16995,6 +17015,7 @@ iceberg
 icebergs
 iceblink
 iceboating
+iceboatings
 icebreakers
 icecap
 icehouse
@@ -18112,6 +18133,7 @@ interlinked
 interlock
 interlocking
 interlocutor
+interlooping
 interloped
 interloping
 interlude
@@ -18630,6 +18652,7 @@ jarina
 jarl
 jarlsberg
 jarovized
+jarovizing
 jars
 jarveys
 jasmin
@@ -22256,6 +22279,7 @@ monodisperse
 monodrama
 monody
 monoecious
+monofil
 monofilament
 monofils
 monogamic
@@ -22522,6 +22546,7 @@ moussaka
 mousseline
 moussing
 mousy
+mouthed
 mouthily
 mouthpart
 mouthparts
@@ -24335,6 +24360,7 @@ orientating
 orientations
 orienteering
 orienteers
+orienter
 orienting
 orients
 oriflammes
@@ -27478,6 +27504,7 @@ prairie
 praiser
 praisers
 praiseworthily
+praiseworthy
 pralines
 pram
 pranced
@@ -28365,6 +28392,7 @@ psoriasis
 psst
 pst
 psyche
+psyched
 psychedelia
 psychedelic
 psychedelics
@@ -29786,6 +29814,7 @@ reginae
 regionalism
 regionalisms
 regionalists
+regionalized
 regionals
 registered
 regiven
@@ -30513,6 +30542,7 @@ retexturing
 rethinker
 rethinkers
 rethinks
+rethought
 rethread
 rethreaded
 retia
@@ -31458,6 +31488,7 @@ sandpit
 sands
 sandstones
 sandstorm
+sandstorms
 sandwich
 sandworm
 sandworms
@@ -34958,6 +34989,7 @@ subeditors
 subentries
 subentry
 suberic
+suberised
 suberize
 suberizing
 suberose
@@ -38015,6 +38047,7 @@ uncarved
 uncase
 uncased
 uncases
+uncashed
 uncast
 uncataloged
 uncatchy
@@ -39861,6 +39894,7 @@ wavelet
 wavelike
 waveringly
 wavers
+waveshapes
 wavey
 wavicle
 wavies
@@ -40173,6 +40207,7 @@ willingest
 willingly
 williwaw
 willy
+wimpiest
 wimpish
 wimpling
 wince
