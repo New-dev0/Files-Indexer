@@ -127,6 +127,7 @@ accept
 acceptability
 acceptable
 acceptance
+acceptances
 acceptant
 accepted
 accepter
@@ -691,6 +692,7 @@ aland
 alands
 alang
 alanin
+alanins
 alans
 alarmed
 alarmisms
@@ -1259,6 +1261,7 @@ anisole
 anisometropia
 anisometropias
 anisotropically
+ankerite
 ankh
 anklet
 ankling
@@ -1313,6 +1316,7 @@ anovulatory
 ansae
 anserine
 answer
+antagonisms
 antagonist
 antagonistic
 antagonize
@@ -1959,6 +1963,7 @@ ascorbic
 ascots
 ascribable
 ascribe
+asexualities
 ash
 ashcake
 ashcakes
@@ -3555,6 +3560,7 @@ biznagas
 bizones
 blackamoor
 blackberries
+blackbirder
 blackbirders
 blackbirds
 blackbody
@@ -6563,6 +6569,7 @@ coenzymatic
 coequal
 coequality
 coerce
+coerced
 coercers
 coercibly
 coercing
@@ -8945,6 +8952,7 @@ deerhounds
 deerskin
 deerstalker
 deerweeds
+dees
 deewan
 defacements
 defacer
@@ -9076,6 +9084,7 @@ deicer
 deicides
 deictics
 deifier
+deifies
 deiform
 deify
 deifying
@@ -12223,6 +12232,7 @@ euphoriants
 euphrasy
 euphuistically
 euploidy
+eurybath
 euryokies
 eurythermic
 eurytopic
@@ -12246,6 +12256,7 @@ evanescences
 evangel
 evangelism
 evangelists
+evanish
 evanished
 evanishes
 evaporates
@@ -14852,6 +14863,7 @@ gladstone
 glady
 glaire
 glairier
+glairing
 glairy
 glaived
 glamorised
@@ -15668,6 +15680,7 @@ gyroplane
 gyroscope
 gyroscopically
 gyrostats
+gyve
 gyved
 ha
 habaneras
@@ -15828,6 +15841,7 @@ handcuffs
 handedness
 handers
 handfasts
+handgrips
 handhelds
 handhold
 handicapping
@@ -16303,6 +16317,7 @@ heroically
 heroicize
 heroin
 heroine
+heroized
 herpesvirus
 herpesviruses
 herpetic
@@ -16436,6 +16451,7 @@ hillslope
 hillslopes
 hilt
 hilted
+himations
 hims
 hindbrains
 hinder
@@ -18139,6 +18155,7 @@ instances
 instantaneous
 instantness
 instarring
+instate
 instated
 instauration
 insteps
@@ -19133,6 +19150,7 @@ karst
 karting
 karyogamies
 karyokineses
+karyokinetic
 karyology
 karyosome
 karyotins
@@ -19690,6 +19708,7 @@ lapsers
 lapwings
 larder
 lardiest
+lardoons
 laree
 largehearted
 largenesses
@@ -20022,6 +20041,7 @@ levies
 levigating
 levitates
 levo
+levogyre
 levulose
 levying
 lewd
@@ -21847,6 +21867,7 @@ milesian
 milestone
 milestones
 milia
+miliarias
 milieu
 milieux
 militarily
@@ -24091,6 +24112,7 @@ obeahism
 obeahisms
 obeli
 obelisks
+obelism
 obelisms
 obelized
 obesities
@@ -24401,6 +24423,7 @@ ontologically
 ontologies
 ontologists
 onus
+onward
 onyx
 oocytes
 oogamies
@@ -25170,6 +25193,7 @@ overgrowths
 overhandling
 overhard
 overhate
+overheads
 overheaped
 overheaping
 overhear
@@ -25734,6 +25758,7 @@ paraesthesias
 paraffin
 paraffines
 paraffining
+paraffins
 paraforms
 paraglide
 paraglides
@@ -26893,6 +26918,7 @@ pimples
 pimply
 pimpmobile
 pinafored
+pinafores
 pinata
 pinballed
 pinch
@@ -28186,6 +28212,7 @@ prigs
 prill
 prilling
 prim
+primage
 primates
 primed
 primeness
@@ -28594,6 +28621,7 @@ proximally
 prudishly
 prune
 prunellos
+pruning
 pruriences
 pruriencies
 pruriency
@@ -28752,6 +28780,7 @@ pulvillus
 pulvinate
 pumicing
 pumicites
+pummelling
 pumpers
 pumping
 pumpkins
@@ -32181,6 +32210,7 @@ scrannel
 scrannels
 scrap
 scrapbooks
+scraped
 scraper
 scrapheaps
 scrapies
@@ -32371,6 +32401,7 @@ securitize
 securitizes
 security
 sedate
+sedations
 sedative
 sedilia
 sedimentable
@@ -32824,6 +32855,7 @@ shears
 sheas
 sheatfish
 sheaved
+shedders
 sheds
 sheen
 sheened
@@ -35578,6 +35610,7 @@ sulphurise
 sulphurising
 sulphurs
 sulphury
+sultan
 sultanas
 sultanate
 sultaness
@@ -38587,6 +38620,7 @@ undersigned
 undersized
 undersold
 understaffing
+understaffings
 understandable
 understatements
 understates
@@ -40657,6 +40691,7 @@ withdrawn
 witherite
 witherods
 withers
+withindoors
 withouts
 withstood
 witnesser

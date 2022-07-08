@@ -1,0 +1,5 @@
+ulinux/.manifest в 754a8bb51637f68950090c732aed2266db39dfce,https://git.mills.io/prologic/ulinux/src/754a8bb51637f68950090c732aed2266db39dfce/pkgs/sinit/.manifest%3Flang%3Dru-RU
+https://mgmt.saar.freifunk.net/openwrt/snapshots/t...,https://mgmt.saar.freifunk.net/openwrt/snapshots/targets/bcm27xx/bcm2711/kmods/5.10.82-1-cae79ca9e99fa6837d4a3aefc9768088/Packages.manifest
+https://mirrors.aliyun.com/openwrt/releases/21.02....,https://mirrors.aliyun.com/openwrt/releases/21.02.1/packages/mipsel_74kc/packages/Packages.manifest
+Packages.manifest - PandoraBox,http://downloads.pangubox.com:6380/pandorabox/19.02/packages/mipsel_1004kc_dsp/base/Packages.manifest
+Packages.manifest - PandoraBox,http://downloads.pangubox.com:6380/pandorabox/19.01/packages/arm_cortex-a7_neon-vfpv4/base/Packages.manifest
