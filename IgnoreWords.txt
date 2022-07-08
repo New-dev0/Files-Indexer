@@ -872,6 +872,7 @@ also
 altarpiece
 alter
 alterability
+alterants
 altercated
 alterities
 alterity
@@ -3328,6 +3329,7 @@ bimas
 bimbette
 bimbo
 bimboes
+bimbos
 bimensal
 bimester
 bimetals
@@ -4241,6 +4243,7 @@ bromals
 bromate
 bromated
 bromating
+bromelain
 bromeliad
 bromelin
 brominated
@@ -4587,6 +4590,7 @@ buxom
 buxomer
 buxomly
 buxomness
+buxomnesses
 buy
 buyout
 buys
@@ -5321,6 +5325,7 @@ caviler
 cavilled
 cavils
 caving
+cavitations
 cavorts
 caymans
 cayuse
@@ -5486,6 +5491,7 @@ chalice
 chalices
 challahs
 challot
+chalot
 chalumeaus
 chalupas
 chalutz
@@ -6948,6 +6954,7 @@ condensate
 condensations
 condenser
 condign
+conditionality
 conditioner
 condole
 condolence
@@ -7272,6 +7279,7 @@ contrived
 contrivers
 controlled
 controlment
+controversially
 controverters
 controverts
 contumaciously
@@ -7549,6 +7557,7 @@ coscripted
 coscripting
 coseismals
 cosie
+cosily
 cosine
 cosmetic
 cosmeticize
@@ -8466,6 +8475,7 @@ dales
 dalesmen
 dalles
 dally
+dalmatic
 dalmatics
 dalton
 daltonian
@@ -11684,6 +11694,7 @@ epicenters
 epicentra
 epicentrum
 epichlorohydrin
+epiclike
 epicontinental
 epicotyl
 epicotyls
@@ -12667,6 +12678,7 @@ fatheadedly
 fatherland
 fatherlands
 fatherless
+fatherlike
 fathers
 fathomed
 fatigable
@@ -12765,6 +12777,7 @@ fellating
 fellator
 fellatrices
 feller
+fellest
 felling
 fellmongerings
 fellmongers
@@ -16843,6 +16856,7 @@ hypersthene
 hypertonia
 hypertypical
 hyperuricemia
+hypervelocity
 hyperventilate
 hypervirulent
 hypha
@@ -17727,6 +17741,7 @@ iniquitousness
 initial
 initialism
 initialisms
+initializations
 initialize
 initializes
 initializing
@@ -18328,6 +18343,7 @@ irreligion
 irreligionist
 irreligions
 irreligious
+irremeable
 irremediable
 irrepressible
 irresistibility
@@ -18537,6 +18553,7 @@ jasmins
 jaspery
 jassid
 jato
+jauked
 jaunced
 jaunt
 jauntinesses
@@ -19225,6 +19242,7 @@ laborious
 laboriously
 labourers
 labouring
+labrador
 labradors
 labret
 labrets
@@ -20776,6 +20794,7 @@ marquises
 marram
 marred
 marrers
+married
 marrieds
 marrowfats
 marsh
@@ -20960,6 +20979,7 @@ mealybugs
 mean
 meaners
 meanest
+meaning
 meaningless
 meaninglessly
 meaningly
@@ -21240,6 +21260,7 @@ mesons
 mesophyllic
 mesoscale
 mesothoracic
+mesotrons
 mesozoan
 mesquite
 messaged
@@ -23887,6 +23908,7 @@ odorously
 odyl
 odyles
 oedemata
+oedipally
 oeillade
 oenophiles
 oersteds
@@ -25291,6 +25313,7 @@ pantoffles
 pantomime
 pantomimes
 pantomimic
+pantries
 pantropic
 pants
 panty
@@ -26018,6 +26041,7 @@ perturbational
 perturbations
 perturbed
 perturber
+pertusses
 peruke
 perusers
 pervaded
@@ -26717,10 +26741,12 @@ platane
 platanes
 plateaus
 platelet
+platemaking
 platen
 platforms
 platies
 platiest
+platina
 platinize
 platinoid
 platitudinarian
@@ -27252,6 +27278,7 @@ potatoes
 potbellied
 potboil
 potboiling
+potboys
 poteen
 potences
 potentate
@@ -30395,6 +30422,7 @@ retransmitted
 retread
 retreat
 retreated
+retreater
 retreating
 retreats
 retrials
@@ -32230,6 +32258,7 @@ sexlessness
 sexologist
 sexologists
 sexploitation
+sexploitations
 sextans
 sextant
 sextarius
@@ -32425,6 +32454,7 @@ shiniest
 shinily
 shininesses
 shinleaf
+shinleafs
 shinleaves
 shinnied
 shinning
@@ -33013,6 +33043,7 @@ slicers
 slicken
 slickenside
 slicknesses
+slid
 slidable
 slideway
 slieves
@@ -33906,6 +33937,7 @@ spondylitises
 sponge
 sponginess
 sponsal
+sponsion
 sponsions
 sponson
 sponsons
@@ -34359,6 +34391,7 @@ stigmatist
 stigmatizations
 stigmatized
 stilbenes
+stilbestrols
 stillbirth
 stillborn
 stillborns
@@ -35482,6 +35515,7 @@ swither
 swithly
 swiving
 swizzle
+swizzlers
 swobbing
 swooned
 swoony
@@ -38775,6 +38809,7 @@ utilises
 utilitarianism
 utilitarianisms
 utility
+utilizable
 utilize
 utilizing
 utopianism
