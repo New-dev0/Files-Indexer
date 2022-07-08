@@ -3238,6 +3238,7 @@ bibliolaters
 bibliologies
 bibliomanias
 bibliophilies
+bibliotheca
 bibliothecal
 bibliotist
 biblists
@@ -3999,6 +4000,7 @@ bowlers
 bowlike
 bowshot
 bowshots
+bowstring
 bowstringed
 bowstrings
 boxberries
@@ -4154,6 +4156,7 @@ briarwoods
 bribee
 brickbat
 brickfield
+bricking
 bricklaying
 bricks
 bridal
@@ -6682,6 +6685,7 @@ comal
 comanaged
 combatant
 combatants
+combative
 combativeness
 combativenesses
 combatting
@@ -7040,6 +7044,7 @@ conglobed
 conglomerated
 conglomeration
 conglomerative
+conglomerator
 conglutination
 congo
 congoes
@@ -7186,6 +7191,7 @@ consumer
 consumerists
 consumes
 consummative
+consummators
 consumptively
 contacted
 contactee
@@ -7278,6 +7284,7 @@ convent
 conventicler
 conventiclers
 conventionality
+conventuals
 converged
 convergences
 conversances
@@ -7325,6 +7332,7 @@ cookable
 cookhouses
 cookies
 cookoff
+cookout
 cookshack
 cookshops
 cookstove
@@ -8172,6 +8180,7 @@ cumulations
 cumulative
 cumulonimbi
 cunctation
+cundum
 cuneatic
 cuniform
 cunnilinctuses
@@ -9012,6 +9021,7 @@ demerger
 demeton
 demic
 demigoddess
+demijohn
 demilitarize
 demilunes
 demise
@@ -10018,6 +10028,7 @@ disrepute
 disreputes
 disrobe
 disrobed
+disrobers
 disroots
 disrupt
 disrupters
@@ -10371,6 +10382,7 @@ dovecots
 dovekey
 dovekie
 dovekies
+doven
 dovening
 dovetail
 dovetailed
@@ -11961,6 +11973,7 @@ ethnocentrism
 ethnographer
 ethnographers
 ethnohistorian
+ethnohistory
 ethnologies
 ethnos
 ethograms
@@ -12299,6 +12312,7 @@ explicit
 explicits
 explodes
 exploitative
+explore
 explores
 explosively
 explosiveness
@@ -14177,6 +14191,7 @@ gangbanged
 gangbusters
 ganged
 ganglial
+ganglionic
 ganglioside
 gangrenes
 gangstas
@@ -14261,6 +14276,7 @@ gastnesses
 gastrectomies
 gastrocnemii
 gastronomical
+gastropods
 gastroscopist
 gastroscopy
 gastrotrichs
@@ -17338,6 +17354,7 @@ inchoateness
 inchoatives
 inchworm
 incinerate
+incinerates
 incipit
 incisal
 incise
@@ -18131,6 +18148,7 @@ intraday
 intradermally
 intranets
 intransigent
+intransigently
 intransigents
 intraocular
 intrapersonal
@@ -20909,6 +20927,7 @@ maximizing
 maxing
 maxixe
 maxwell
+maxwells
 may
 maybushes
 mayed
@@ -23017,6 +23036,7 @@ newlywed
 newlyweds
 newmarkets
 newness
+newsboys
 newscasts
 newsdealers
 newsdesk
@@ -27169,6 +27189,7 @@ posterior
 posterities
 posterns
 postexperience
+postfault
 postfix
 postglacial
 postgrad
@@ -27898,6 +27919,7 @@ programs
 progression
 progressively
 progressivists
+progressivity
 prohibit
 prohibits
 proinsulin
@@ -28577,6 +28599,7 @@ quarriers
 quarryings
 quarryman
 quarterbacking
+quarterbacks
 quartered
 quartering
 quarterlies
@@ -28972,6 +28995,7 @@ raya
 rayah
 razees
 razers
+razorback
 razorbill
 razz
 razzamatazz
@@ -29370,6 +29394,7 @@ rediscovered
 redisposing
 redisposition
 redistributions
+redistricts
 redlegs
 redlined
 redliners
@@ -30765,6 +30790,7 @@ rogatory
 roger
 rogering
 rogers
+rogued
 rogueing
 rogueries
 rogues
@@ -31239,6 +31265,7 @@ sandarac
 sandbaggers
 sandbagging
 sandbags
+sandbar
 sandblasted
 sandblasting
 sanders
@@ -34819,6 +34846,7 @@ subminiature
 subminimal
 subministers
 submit
+submittal
 submittals
 submitted
 subnational
@@ -35215,6 +35243,7 @@ supershow
 supersinger
 supersleuth
 supersonically
+superspecial
 superspecialist
 superspies
 superstars
@@ -37317,6 +37346,7 @@ trussed
 trussings
 trust
 trustabilities
+trustbusters
 trusted
 trustees
 trusteeship
@@ -38285,6 +38315,7 @@ unmodernized
 unmolded
 unmolten
 unmoored
+unmoralities
 unmourned
 unmovable
 unmoved
@@ -38630,6 +38661,7 @@ upraised
 uprating
 upreached
 uprighting
+uprightnesses
 uprises
 upriver
 uproarious
@@ -39175,6 +39207,7 @@ vined
 vinegarish
 vineyard
 vinicultures
+viniest
 viniferas
 vinifications
 vining
@@ -39737,6 +39770,7 @@ wetnesses
 wetting
 wettish
 whacks
+whaleback
 whaleman
 whales
 whangee
@@ -40234,6 +40268,7 @@ writer
 writerly
 writhen
 writs
+written
 wrongdoings
 wrongfulnesses
 wrongheadedly
