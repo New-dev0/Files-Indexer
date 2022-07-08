@@ -1517,6 +1517,7 @@ antiviral
 antiwelfare
 antler
 antlered
+antonymous
 antra
 anuran
 anuretic
@@ -2267,6 +2268,7 @@ autoantibodies
 autobahns
 autobiographer
 autobuses
+autocades
 autocatalytic
 autocephalies
 autocoid
@@ -2524,6 +2526,7 @@ bafflements
 bagatelle
 bagged
 baggies
+bagginess
 bagginesses
 bagmen
 bagpipe
@@ -2555,6 +2558,7 @@ balded
 baldies
 baldnesses
 baldpates
+baldric
 baldrick
 bale
 balefire
@@ -4346,6 +4350,7 @@ brucine
 bruising
 bruited
 brumby
+brunts
 brushability
 brushed
 brushiest
@@ -7320,6 +7325,7 @@ contracting
 contractual
 contradictable
 contradictor
+contradictorily
 contradicts
 contraindicate
 contralateral
@@ -10152,6 +10158,7 @@ dissevering
 dissimilated
 dissimilatory
 dissimilitudes
+dissimulates
 dissimulation
 dissimulators
 dissipate
@@ -10216,6 +10223,7 @@ ditchdigger
 ditchdiggers
 ditchers
 ditheisms
+dithers
 ditsinesses
 dittoed
 ditziest
@@ -11082,6 +11090,7 @@ efficient
 effigies
 effloresced
 efflorescence
+efflorescences
 effluences
 effluents
 effluvia
@@ -11286,6 +11295,7 @@ embay
 embaying
 embed
 embeds
+embellishers
 embezzle
 embezzlement
 embezzlements
@@ -13224,6 +13234,7 @@ fixure
 fizgig
 fizzer
 fizzers
+fizzes
 fizziest
 fizzle
 fjeld
@@ -13282,6 +13293,7 @@ flashbacks
 flashcard
 flashed
 flashgun
+flashiness
 flashings
 flashlights
 flashover
@@ -13764,6 +13776,7 @@ formulism
 formyls
 fornicates
 forrit
+forsaking
 forsooth
 forswearing
 forsworn
@@ -14525,6 +14538,7 @@ geniality
 genip
 genitalic
 genitals
+genitive
 genitives
 genocidal
 genocides
@@ -15181,6 +15195,7 @@ gratings
 graupel
 graveless
 gravelike
+graveling
 gravelled
 gravelling
 gravelly
@@ -16090,6 +16105,7 @@ helmless
 helmsmen
 helotisms
 helotries
+helotry
 helots
 helped
 helpmates
@@ -16215,6 +16231,7 @@ hesitaters
 hessonites
 hetaeric
 hetairas
+heteroatom
 heterocycles
 heterocyclic
 heterocyst
@@ -16424,6 +16441,7 @@ hokeynesses
 hoking
 hokums
 holddowns
+holden
 holdfast
 holding
 holdings
@@ -16489,6 +16507,7 @@ homeschooling
 homesickness
 homesites
 homespun
+homestays
 homestead
 homesteading
 homestretch
@@ -16769,6 +16788,7 @@ humanizing
 humankind
 humannesses
 humanoids
+humate
 humblebees
 humbled
 humbleness
@@ -18918,6 +18938,7 @@ jumpers
 jumpiness
 jumpingly
 juncoes
+junctional
 junctions
 junglegyms
 juniorates
@@ -19211,6 +19232,7 @@ kingfisher
 kingfishes
 kinging
 kinglets
+kinglinesses
 kingpins
 kingposts
 kings
@@ -19316,6 +19338,7 @@ kolkhozy
 kombus
 komondorock
 koodoo
+kook
 kookaburra
 kookie
 kookinesses
@@ -19549,6 +19572,7 @@ lapboard
 lapboards
 lapdogs
 lapel
+lapeled
 lapful
 lapides
 lapidify
@@ -19967,6 +19991,7 @@ lifemanship
 lifesaving
 lifesavings
 lifespans
+lifestyle
 lifetimes
 lifeworks
 lifted
@@ -23767,6 +23792,7 @@ norther
 northers
 northing
 northmost
+northwards
 northwest
 northwester
 northwesters
@@ -27433,6 +27459,7 @@ postiche
 posties
 postimperial
 postin
+postinoculation
 postiques
 postisolation
 postlaunch
@@ -31670,6 +31697,7 @@ saucier
 sauciers
 sauerbraten
 saul
+saults
 saunaed
 saunters
 saurischian
@@ -32971,6 +32999,7 @@ signior
 signiories
 signora
 signoras
+signori
 signorine
 signory
 signposted
@@ -35772,6 +35801,7 @@ swithly
 swiving
 swizzle
 swizzlers
+swizzling
 swobbing
 swooned
 swoony
@@ -36286,6 +36316,7 @@ telium
 tellable
 tellingly
 tells
+tellurian
 tellurides
 tellurions
 tellurium
@@ -37090,6 +37121,7 @@ touchstone
 touchtone
 touchtones
 toughener
+toughing
 toughness
 toupee
 tourbillons
@@ -39378,6 +39410,7 @@ vermilioning
 vermuth
 vernacularism
 vernal
+vernalizes
 vernicles
 vernissage
 verruca
@@ -39856,6 +39889,7 @@ wantonly
 wantonnesses
 warbonnets
 wardenries
+wardens
 wardenship
 warding
 wardress
@@ -40916,6 +40950,7 @@ zygotic
 zymases
 zymogenic
 zymogens
+zymograms
 zymosan
 zymosans
 zymosis
