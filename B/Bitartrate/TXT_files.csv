@@ -1,0 +1,10 @@
+MAPS_Drug_Utilization_by_Zip_...,http://www.michigan.gov/documents/lara/MAPS_Drug_Utilization_by_Zip_Code_Report_2010_359361_7.txt
+msds1084.txt,https://tagis.dep.wv.gov/tri/cheminfo/msds1084.txt
+ndcfile.txt - DEA Diversion Control Division,https://www.deadiversion.usdoj.gov/arcos/ndc/ndcfile.txt
+ETL-CDMBuilder/drug_input.txt at master · OHDSI/ETL-CDMBuilder ...,https://github.com/OHDSI/ETL-CDMBuilder/blob/master/CDMv4/man/NHANES/drug_mapping/drug_input.txt
+FDA drug list,http://www.cs.cmu.edu/~yichiaw/Data/CSCW2012/CSCW2012-FeatureSet-FDA-approved-drug-list.txt
+https://conservancy.umn.edu/bitstream/handle/11299...,https://conservancy.umn.edu/bitstream/handle/11299/181275/vitamin.txt%3Fsequence%3D40%26isAllowed%3Dy
+www.va.gov/vetapp07/files4/0736186.txt,http://www.va.gov/vetapp07/files4/0736186.txt
+imp-code.txt - U.S. Census Bureau,https://www.census.gov/foreign-trade/schedules/b/2022/imp-code.txt
+Trend_Analysis_Using_NAMCS...,ftp://ftp.cdc.gov/pub/health_statistics/nchs/dataset_documentation/nhamcs/drugs/Trend_Analysis_Using_NAMCS_and_NHAMCS_Drug_Data.txt
+structure_dn_nui.txt - NCI EVS,https://evs.nci.nih.gov/ftp1/FDA/ndfrt/Archive/structure_dn_nui.txt
