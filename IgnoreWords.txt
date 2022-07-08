@@ -35,6 +35,7 @@ abridgers
 abridges
 abridging
 abridgments
+abrogable
 abrogated
 abruptions
 abruptnesses
@@ -3695,6 +3696,7 @@ blowsier
 blowsiest
 blowsy
 blowtorch
+blubbed
 blubber
 blubberer
 blubbering
@@ -6413,6 +6415,7 @@ coats
 coattail
 coattest
 coattesting
+coattests
 coauthoring
 coaxed
 coaxer
@@ -8341,6 +8344,7 @@ curtalaxes
 curter
 curtest
 curtilage
+curtnesses
 curtseying
 curule
 curvature
@@ -9146,6 +9150,7 @@ demodulation
 demographer
 demographic
 demography
+demoiselle
 demolishers
 demolishment
 demonesses
@@ -9870,6 +9875,7 @@ disagreement
 disallowed
 disambiguations
 disappearance
+disappearing
 disappears
 disappoint
 disappointed
@@ -10586,6 +10592,7 @@ drake
 drama
 dramas
 dramatically
+dramatist
 dramatizable
 dramatizations
 dramaturges
@@ -11762,6 +11769,7 @@ enviers
 enviro
 environing
 environmental
+environments
 envois
 envy
 envying
@@ -12369,6 +12377,7 @@ existent
 existential
 existentially
 exocrines
+exocytosed
 exocytosis
 exodermises
 exodoi
@@ -12819,6 +12828,7 @@ faucet
 faucial
 fault
 faultfinders
+faultfinding
 faunal
 faunlike
 fauvism
@@ -12995,6 +13005,7 @@ feticidal
 fetidity
 fetidly
 fetidness
+fetish
 fetishisms
 fetishistic
 fetoprotein
@@ -14114,6 +14125,7 @@ fulgurated
 fulgurates
 fulguration
 fulleries
+fullest
 fullfaces
 fullmouthed
 fullness
@@ -17397,6 +17409,7 @@ implored
 imploringly
 impone
 importance
+importances
 importation
 importunateness
 importunely
@@ -19337,6 +19350,7 @@ knobblier
 knobbly
 knobkerries
 knoblike
+knockabout
 knockabouts
 knockwursts
 knolled
@@ -21094,6 +21108,7 @@ masturbate
 masturbated
 masturbates
 matchless
+matchmaker
 matchmakers
 matchmark
 matchmarks
@@ -23626,6 +23641,7 @@ nonfluids
 nonflying
 nonfocal
 nonfulfillments
+nongame
 nonghetto
 nonglamorous
 nonglare
@@ -24054,6 +24070,7 @@ obscureness
 obsecrate
 obsecrates
 observably
+observants
 observation
 observing
 obsession
@@ -25685,6 +25702,7 @@ parasiticide
 parasitise
 parasitising
 parasitisms
+parasitizations
 parasitized
 parasitologic
 parasitological
@@ -26051,6 +26069,7 @@ pencel
 pencels
 penchants
 penciled
+pencillers
 pencils
 pend
 pendulousnesses
@@ -28183,6 +28202,8 @@ prodders
 prodigy
 prodromal
 prodromata
+prodromes
+prodrug
 produced
 producers
 produces
@@ -29566,6 +29587,7 @@ recommences
 recommendable
 recommendatory
 recommends
+recommissioned
 recommissioning
 recommitments
 recommits
@@ -30708,6 +30730,7 @@ retirednesses
 retiree
 retirees
 retiringnesses
+retook
 retool
 retort
 retotal
@@ -30757,6 +30780,7 @@ reunited
 reupholstering
 reused
 reuses
+reusing
 reutilizations
 reutilizes
 reutter
@@ -31246,6 +31270,7 @@ roulades
 rouletted
 rouletting
 roundballs
+rounder
 roundhouse
 roundlet
 roundnesses
@@ -31568,6 +31593,7 @@ salvational
 salved
 salverform
 salvias
+salvoed
 salvors
 samadhis
 samaras
@@ -31758,6 +31784,7 @@ saury
 sauterne
 sauternes
 sautes
+sautoir
 sautoirs
 savable
 savage
@@ -32600,6 +32627,7 @@ sforzandi
 sforzandos
 sha
 shacklers
+shackling
 shackoes
 shacks
 shadbush
@@ -33824,6 +33852,7 @@ solstice
 solstices
 solstitial
 solubilise
+solubilises
 solubilising
 solubilize
 solubilizing
@@ -34384,6 +34413,7 @@ spurtle
 sputa
 sputter
 squabble
+squabblers
 squabs
 squad
 squadron
@@ -36430,6 +36460,7 @@ tendrilous
 tenebrionids
 tenebrious
 tenebrisms
+tenebrous
 tenet
 tenia
 tenias
@@ -37449,6 +37480,7 @@ treasurerships
 treasuries
 treasuring
 treasury
+treated
 treatises
 treatments
 treaty
@@ -38117,6 +38149,7 @@ unadulteratedly
 unadventurous
 unaesthetic
 unaffecting
+unaffectionate
 unaffordable
 unagile
 unalarmed
@@ -40135,6 +40168,7 @@ wedgiest
 weedy
 weekday
 weeklong
+weekly
 weenier
 weenies
 weensiest
@@ -40166,6 +40200,7 @@ welkin
 well
 wellaway
 wellies
+wellsites
 welshing
 weltanschauungs
 welterweight
