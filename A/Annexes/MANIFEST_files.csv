@@ -1,0 +1,5 @@
+https://downloads.openwrt.org/releases/packages-19...,https://downloads.openwrt.org/releases/packages-19.07/mips_24kc/telephony/Packages.manifest
+https://archive.openwrt.org/releases/packages-19.0...,https://archive.openwrt.org/releases/packages-19.07/mips64_octeonplus/telephony/Packages.manifest
+https://downloads.asu.aparcar.org/immortalwrt/targ...,https://downloads.asu.aparcar.org/immortalwrt/targets/lantiq/ase/packages/Packages.manifest
+https://downloads.lede-project.org/snapshots/targe...,https://downloads.lede-project.org/snapshots/targets/lantiq/xway/packages/Packages.manifest
+https://mgmt.saar.freifunk.net/openwrt/releases/19...,https://mgmt.saar.freifunk.net/openwrt/releases/19.07.3/targets/lantiq/xway_legacy/packages/Packages.manifest
