@@ -452,6 +452,7 @@ aecium
 aedile
 aediles
 aeonic
+aequorin
 aeration
 aerations
 aerator
@@ -2490,6 +2491,7 @@ backrushes
 backscatter
 backscatterings
 backscatters
+backseat
 backset
 backsets
 backshore
@@ -3397,6 +3399,7 @@ binucleated
 bioacoustics
 bioactive
 bioassay
+biochemistry
 biochip
 biocidal
 biodegradation
@@ -4691,6 +4694,7 @@ cabestros
 cabezones
 cabinmate
 cabins
+cable
 cablecasting
 cabob
 cabochons
@@ -5347,6 +5351,7 @@ cats
 cattalo
 cattaloes
 cattie
+catting
 cattlemen
 catty
 caucuses
@@ -6243,6 +6248,7 @@ clawlike
 claying
 clayish
 claymore
+cleaned
 cleaning
 cleanly
 cleanses
@@ -7178,6 +7184,7 @@ conjoiner
 conjoiners
 conjugate
 conjugationally
+conjunction
 conjunctional
 conjunctiva
 conjurors
@@ -8731,6 +8738,7 @@ deadlined
 deadlining
 deadpan
 deaerated
+deaerations
 deaerator
 deaerators
 deafened
@@ -9960,6 +9968,7 @@ disclike
 disclimax
 disclosed
 disclosures
+discographer
 discographic
 discombobulate
 discomfiting
@@ -10397,6 +10406,7 @@ dogvanes
 dogwatches
 doings
 doit
+doited
 doll
 dollhouses
 dolling
@@ -15132,6 +15142,7 @@ gormless
 gorp
 gosling
 gospeler
+gospelers
 gossip
 gossippers
 gossypols
@@ -15880,6 +15891,7 @@ hardboard
 hardboot
 hardboots
 hardcores
+hardcourt
 hardeners
 hardhat
 hardiest
@@ -16858,6 +16870,7 @@ humanist
 humanities
 humanization
 humanize
+humanized
 humanizers
 humanizes
 humanizing
@@ -18174,6 +18187,7 @@ integrate
 integrating
 integrationists
 integrators
+integuments
 intellective
 intellectively
 intelligently
@@ -18528,6 +18542,7 @@ iodinates
 iodine
 iodized
 iodizers
+iodizes
 iodous
 iolite
 iolites
@@ -20042,6 +20057,7 @@ liberty
 libidinously
 libido
 librarianship
+librate
 librated
 libretti
 librettist
@@ -22025,6 +22041,7 @@ misbeliever
 misbelieving
 misbiases
 misbiasses
+misbilling
 misbinding
 misbuilds
 misbuttoned
@@ -22416,6 +22433,7 @@ monetization
 monetizing
 money
 moneyed
+moneyers
 moneygrubbing
 moneys
 moneyworts
@@ -24284,6 +24302,7 @@ ohed
 ohm
 ohmages
 ohmic
+oho
 oidia
 oidioid
 oilbird
@@ -24513,6 +24532,7 @@ orchil
 orcinol
 order
 ordered
+ordering
 orderless
 orderliness
 ordinaries
@@ -26702,6 +26722,7 @@ phyllomic
 phyllotactic
 phyllotaxes
 phylogenetic
+phylogenies
 physed
 physiatries
 physiatrists
@@ -28446,6 +28467,7 @@ prorogated
 prorogations
 prosaic
 prosaisms
+prosaist
 prosateur
 prosauropods
 prosciutto
@@ -33362,6 +33384,7 @@ skimboard
 skimboards
 skimmers
 skimobiles
+skimos
 skimp
 skimping
 skinflint
@@ -33525,6 +33548,7 @@ sliverer
 sliverers
 slivovic
 slivovices
+slivovitz
 slobberers
 slobbering
 slobbers
@@ -33544,6 +33568,7 @@ sloshing
 slotback
 slotbacks
 slothful
+slothfully
 slotter
 slouchers
 slouchier
@@ -34181,6 +34206,7 @@ specified
 specifier
 specifies
 specify
+specious
 speciousness
 speckle
 speckles
@@ -35817,6 +35843,7 @@ surmises
 surname
 surnamer
 surnamers
+surpassers
 surpassingly
 surplus
 surplusages
@@ -36069,6 +36096,7 @@ syncopated
 syncopator
 syncopators
 syncope
+syncretise
 syncretised
 syncretists
 syncytia
@@ -36152,6 +36180,7 @@ tachylites
 tachylytes
 tachyon
 tachyons
+tacitness
 tacitnesses
 tack
 tacker
@@ -36849,6 +36878,7 @@ thrawing
 threadiest
 threads
 thready
+threap
 threaper
 threateningly
 threating
@@ -37488,6 +37518,7 @@ transitive
 transitively
 transitiveness
 transitivity
+transitorily
 translated
 transliterated
 transliterates
@@ -37510,6 +37541,7 @@ transpire
 transpiring
 transplantable
 transpontine
+transporters
 transsexualism
 transshapes
 transshaping
@@ -39267,6 +39299,7 @@ urbanizations
 urbanologies
 urbanology
 urceolate
+urea
 ureal
 uredinia
 ureter
@@ -39473,6 +39506,7 @@ vasotocin
 vasotocins
 vasotomies
 vassal
+vassalage
 vastitudes
 vastity
 vatfuls
@@ -40033,6 +40067,7 @@ waifish
 waifs
 wailed
 wailers
+wainscotings
 wainscotted
 wainscottings
 wairs
