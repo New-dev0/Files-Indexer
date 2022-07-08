@@ -90,6 +90,7 @@ abuse
 abused
 abusers
 abusive
+abusiveness
 abusivenesses
 abuttal
 abwatt
@@ -1343,6 +1344,7 @@ anthozoans
 anthracene
 anthraquinones
 anthropical
+anthropogenic
 anthropoid
 anthropophagies
 anti
@@ -1563,7 +1565,9 @@ aphonics
 aphorises
 aphorists
 aphorized
+aphorizers
 aphrodites
+aphyllous
 apiaceous
 apian
 apiculate
@@ -1911,6 +1915,7 @@ artifacts
 artificial
 artificialities
 artificialness
+artilleries
 artillerist
 artilleryman
 artiness
@@ -4390,6 +4395,7 @@ bryozoans
 bubals
 bubbled
 bubbler
+bubinga
 bubkes
 bubo
 buccal
@@ -4582,6 +4588,7 @@ bushfires
 bushiness
 bushinesses
 bushpig
+bushpigs
 bushrangers
 bushranging
 bushtit
@@ -5379,6 +5386,7 @@ cavie
 caviled
 caviler
 cavilled
+cavillers
 cavils
 caving
 cavitations
@@ -5831,6 +5839,7 @@ chines
 chining
 chinked
 chinking
+chinned
 chino
 chinquapins
 chints
@@ -6744,6 +6753,7 @@ colorless
 colormen
 colossal
 colostomies
+colours
 colpitises
 colportages
 colporteur
@@ -8662,6 +8672,7 @@ databased
 databases
 datedness
 dating
+dato
 datura
 daubers
 daubes
@@ -8955,6 +8966,7 @@ defensed
 defenseless
 defenselessly
 defenseman
+defer
 deference
 deferrables
 deferred
@@ -9696,6 +9708,7 @@ diestocks
 diestrous
 diestrum
 diestrums
+diestruses
 dietetic
 differentiated
 differentiation
@@ -9900,6 +9913,7 @@ disarticulated
 disassembling
 disassociate
 disassociated
+disassociating
 disassociations
 disaster
 disasters
@@ -10152,6 +10166,7 @@ disrelished
 disrelishes
 disrepute
 disreputes
+disrespecting
 disrobe
 disrobed
 disrobers
@@ -13916,6 +13931,7 @@ fragmenting
 frailly
 frails
 frakturs
+framboise
 framers
 frameshift
 frameworks
@@ -16841,6 +16857,7 @@ humbled
 humbleness
 humblingly
 humbuggeries
+humdinger
 humdingers
 humerals
 humid
@@ -17172,6 +17189,7 @@ idiotical
 idiotypes
 idle
 idler
+idly
 idol
 idolatrousness
 idoliser
@@ -19914,6 +19932,7 @@ lenticular
 lentil
 lentils
 lentivirus
+lentiviruses
 leone
 leotard
 leotarded
@@ -20487,6 +20506,7 @@ loveably
 lovebirds
 lovebugs
 lovefests
+loveless
 lovelessnesses
 lovelier
 lovelies
@@ -21553,6 +21573,7 @@ metallurgical
 metalworks
 metamorphic
 metamorphism
+metamorphose
 metaphoric
 metaphosphates
 metaphysician
@@ -23442,6 +23463,7 @@ nippers
 nippiness
 nippy
 nirvanic
+niter
 nitpick
 nitride
 nitrided
@@ -25383,6 +25405,7 @@ paced
 pacemakings
 pachinko
 pachyderms
+pacifiable
 pacifical
 pacification
 pacificators
@@ -25509,6 +25532,7 @@ pallets
 pallia
 palliatives
 pallid
+pallidness
 pallier
 palling
 palm
@@ -28664,6 +28688,7 @@ pullbacks
 pulled
 pullouts
 pullover
+pullulate
 pullulated
 pullulates
 pulpers
@@ -29650,7 +29675,9 @@ reconstructors
 reconsulting
 recontacted
 recontacts
+recontaminate
 recontaminates
+recontoured
 recontouring
 reconverts
 reconveys
@@ -31410,6 +31437,7 @@ rummer
 rummers
 rummies
 rumored
+rumormongerings
 rumors
 rumouring
 rumours
@@ -33573,6 +33601,7 @@ smelliest
 smelter
 smelteries
 smelters
+smeltery
 smelts
 smidges
 smidgin
@@ -34151,6 +34180,7 @@ speedster
 speedsters
 speedup
 speedwell
+speedwells
 speired
 speirs
 speise
@@ -37175,6 +37205,7 @@ topsides
 topsoiling
 tora
 toras
+torches
 torchlike
 torchy
 toreador
@@ -38127,6 +38158,7 @@ ultraleftists
 ultralight
 ultramarathons
 ultramarine
+ultramicroscope
 ultramodernists
 ultramontanism
 ultrarare
@@ -38845,6 +38877,7 @@ unquestionable
 unquestionably
 unquestioningly
 unquiet
+unquiets
 unraised
 unravelled
 unravels
@@ -39003,6 +39036,7 @@ untenability
 untenable
 untented
 untested
+untethering
 unthinking
 unthreads
 untidied
@@ -40381,6 +40415,7 @@ whoop
 whoopee
 whoopees
 whoops
+whooshes
 whopper
 whoremongers
 whorishly
