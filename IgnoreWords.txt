@@ -2236,6 +2236,7 @@ audad
 audibility
 audible
 audiences
+audile
 audiles
 audiobook
 audiocassette
@@ -2950,6 +2951,7 @@ bebeerus
 beblood
 bebop
 becalmed
+becapping
 becaps
 becarpeted
 becarpets
@@ -3454,6 +3456,7 @@ biogeographers
 biogeographies
 biographee
 biographic
+biographically
 biohazard
 biologist
 biomarkers
@@ -3721,6 +3724,7 @@ bloodguilt
 bloodguiltiness
 bloodies
 bloodiest
+bloodlessness
 bloodlettings
 bloodlike
 bloodlust
@@ -4302,6 +4306,7 @@ brininesses
 brinksmanship
 briquet
 brisked
+brisker
 briskly
 brisling
 brislings
@@ -9463,6 +9468,7 @@ dermatoses
 dermatosis
 dermic
 derms
+dernier
 derogatory
 derries
 derry
@@ -10036,6 +10042,7 @@ disbranch
 disbranched
 disburden
 disbursals
+disburse
 disbursements
 discardable
 discarder
@@ -11370,6 +11377,7 @@ electronic
 electrophorese
 electroplate
 electropositive
+electrosurgical
 electrotypes
 electrowinning
 elegance
@@ -11817,6 +11825,7 @@ enshrinements
 enshrines
 enshroud
 ensign
+ensigns
 enskyed
 enslavers
 enslaves
@@ -12583,6 +12592,7 @@ expeditor
 expellable
 expeller
 expendabilities
+expendable
 expends
 expensed
 experientially
@@ -15986,6 +15996,7 @@ handsful
 handshake
 handshakes
 handsomely
+handsomeness
 handsomenesses
 handstands
 handwrote
@@ -17160,6 +17171,7 @@ hydrophones
 hydrophytes
 hydropic
 hydroponically
+hydroquinone
 hydrosere
 hydroski
 hydrospaces
@@ -17169,6 +17181,7 @@ hydrostat
 hydrostatic
 hydrostats
 hydrotropic
+hydroxides
 hydroxyapatite
 hydroxylapatite
 hydroxylase
@@ -18469,6 +18482,7 @@ intermission
 intermitotic
 intermits
 intermixtures
+intermolecular
 intermountain
 internal
 internality
@@ -18576,6 +18590,7 @@ intituling
 intolerantly
 intombing
 intonating
+intoning
 intoxications
 intracardial
 intracity
@@ -21149,6 +21164,7 @@ maniocs
 maniple
 maniples
 manipulability
+manipulatable
 manipulates
 manipulative
 manipulators
@@ -22935,6 +22951,7 @@ mouthparts
 mouthpiece
 mouthwash
 mouthy
+moutons
 movable
 movableness
 movelessly
@@ -23123,6 +23140,7 @@ muscatels
 muscling
 muscovados
 muscularly
+musculature
 muse
 museologies
 museology
@@ -24764,6 +24782,7 @@ orgasm
 orgasms
 orgeats
 orgone
+orgulous
 oriental
 orientalist
 orientally
@@ -25449,6 +25468,7 @@ overpersuade
 overplanned
 overplanning
 overplied
+overplying
 overpressures
 overpricing
 overprocessing
@@ -26059,6 +26079,7 @@ paroling
 parols
 paronomasia
 paroquets
+parosmia
 parotitic
 parous
 paroxysms
@@ -26396,6 +26417,7 @@ penitence
 penitently
 penknives
 penman
+pennant
 penniless
 pennon
 pennoncel
@@ -27435,6 +27457,7 @@ plotzed
 plotzes
 ploughers
 ploughs
+plowable
 plowed
 plowhead
 plowlands
@@ -29237,6 +29260,7 @@ quagga
 quaggy
 quagmire
 quagmiriest
+quaiches
 quailing
 quainter
 quake
@@ -30052,6 +30076,7 @@ redeployed
 redeployments
 redepositing
 redescending
+redesign
 redesigned
 redetermination
 redfin
@@ -30900,6 +30925,7 @@ resoled
 resoles
 resolidifying
 resolvable
+resonantly
 resonates
 resorcinols
 resorter
@@ -32424,6 +32450,7 @@ scraggly
 scraggy
 scraichs
 scraighed
+scraighing
 scrambles
 scrannel
 scrannels
@@ -33418,6 +33445,7 @@ sightless
 sightlessnesses
 sightly
 sightseeing
+sightseers
 sightsees
 sigloi
 sigma
@@ -33745,6 +33773,7 @@ sleaving
 sleazebag
 sleazes
 sleazo
+sledders
 sledding
 sleek
 sleekened
@@ -34488,6 +34517,7 @@ spectrums
 specular
 speculates
 speculations
+speculum
 speculums
 speechlessly
 speedball
@@ -35220,6 +35250,7 @@ stonefly
 stonemason
 stonemasonry
 stones
+stonewalled
 stonewallers
 stonewalls
 stoneware
@@ -35974,6 +36005,7 @@ superette
 superficial
 superfine
 superfluousness
+supergene
 supergovernment
 supergrowth
 superhelices
@@ -36884,6 +36916,7 @@ tenpence
 tenpounder
 tensors
 tentative
+tentativeness
 tenter
 tenths
 tentmaker
@@ -38643,6 +38676,7 @@ unbolted
 unbolting
 unboned
 unbonneted
+unbonnets
 unbottle
 unbottling
 unbowdlerized
@@ -39656,6 +39690,7 @@ utility
 utilizable
 utilize
 utilizing
+utmosts
 utopianism
 utopianisms
 utopisms
