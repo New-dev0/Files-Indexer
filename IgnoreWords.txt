@@ -443,6 +443,7 @@ adversaries
 advertent
 advertisement
 advertize
+advisableness
 advisements
 adviser
 advises
@@ -1170,6 +1171,7 @@ anathemas
 anatomic
 anatomised
 anatomized
+anatomizing
 anatropous
 ancestored
 ancestoring
@@ -3775,6 +3777,7 @@ blowsier
 blowsiest
 blowsy
 blowtorch
+blowtorches
 blubbed
 blubber
 blubberer
@@ -5034,6 +5037,7 @@ canonized
 canoodled
 canopic
 canopy
+canorous
 canorousness
 canso
 cantaloupes
@@ -5043,6 +5047,7 @@ canted
 canthi
 cantic
 canticle
+cantilever
 cantilevers
 cantillations
 cantor
@@ -5630,6 +5635,7 @@ chaffs
 chafing
 chagrining
 chained
+chaining
 chainsaws
 chaired
 chairlifts
@@ -6853,6 +6859,7 @@ colonnade
 colons
 colophonies
 colorably
+colorado
 colorbred
 colorcast
 colorcasted
@@ -6864,6 +6871,7 @@ colorize
 colorizers
 colorizes
 colorless
+colorlessnesses
 colormen
 colossal
 colossi
@@ -10623,6 +10631,7 @@ doorstep
 doorway
 doorways
 doozers
+doozie
 dopamines
 dopants
 doper
@@ -10831,6 +10840,7 @@ dreamy
 drecky
 drees
 dreggiest
+dreidels
 dreidls
 dreks
 drenched
@@ -12620,6 +12630,7 @@ exonic
 exonuclease
 exonumists
 exonym
+exophthalmic
 exophthalmoses
 exorbitances
 exorcise
@@ -12646,6 +12657,7 @@ expatriating
 expatriatisms
 expecting
 expedience
+expediences
 expediency
 expedients
 expedition
@@ -12819,6 +12831,7 @@ eyepoppers
 eyes
 eyestalks
 eyestrain
+eyetooth
 eyewash
 eyewitness
 eyre
@@ -13444,6 +13457,7 @@ fireproofs
 firer
 fireship
 fireside
+firethorn
 firewoods
 firing
 firkins
@@ -16815,6 +16829,7 @@ holystoned
 homaging
 homburgs
 homebodies
+homebody
 homebrews
 homebuilt
 homecoming
@@ -17004,6 +17019,7 @@ horseraces
 horses
 horseshit
 horseshits
+horseshoed
 horsetail
 horseweed
 horsinesses
@@ -19876,6 +19892,7 @@ lambers
 lambies
 lambiest
 lambing
+lambkills
 lame
 lamebrained
 lamellae
@@ -19941,6 +19958,7 @@ lankest
 lankier
 lankiness
 lankness
+lanknesses
 lanner
 lanoline
 lanugo
@@ -23977,6 +23995,7 @@ nonconform
 nonconformed
 nonconforming
 nonconformisms
+nonconformists
 noncongruent
 nonconnection
 nonconstant
@@ -24383,6 +24402,7 @@ nunnery
 nunnish
 nuptialities
 nuptials
+nurled
 nurling
 nurls
 nursed
@@ -25363,6 +25383,7 @@ overachievement
 overachieving
 overactions
 overactivity
+overadjustments
 overages
 overanalyzes
 overanalyzing
@@ -25967,6 +25988,7 @@ paly
 palynologically
 palynologies
 pampa
+pampas
 pampeans
 pampered
 pamphleteer
@@ -26359,6 +26381,7 @@ paunchinesses
 paunchy
 pauperize
 pauperized
+pauser
 pausers
 pavilioned
 paviser
@@ -26609,6 +26632,7 @@ peptizes
 peptonizes
 peptonizing
 perambulate
+perambulation
 percale
 percaline
 percalines
@@ -27377,6 +27401,7 @@ pitchpoling
 piteous
 pithead
 pithecanthropi
+pithed
 pithier
 pithiness
 pithy
@@ -28734,6 +28759,7 @@ progressively
 progressivists
 progressivity
 prohibit
+prohibitively
 prohibits
 proinsulin
 project
@@ -29191,6 +29217,7 @@ punner
 punsters
 punt
 punties
+puntos
 punty
 pupas
 pupated
@@ -29876,10 +29903,12 @@ reaffirmations
 reaffirming
 reaffirms
 reaffix
+reaffixing
 reafforested
 reaggregated
 realer
 realign
+realises
 realisms
 realities
 reality
@@ -31376,6 +31405,7 @@ revivification
 revivified
 revivifies
 revivify
+reviving
 revoice
 revoiced
 revoicing
@@ -32897,6 +32927,7 @@ sellotaping
 sellout
 seltzers
 selva
+selvedges
 selves
 semainiers
 semanticists
@@ -34541,6 +34572,7 @@ souchongs
 soudan
 soughed
 soulfulnesses
+souls
 soundboard
 sounded
 soundly
@@ -38996,6 +39028,7 @@ uncracked
 uncrate
 uncrated
 uncreates
+uncreating
 uncredited
 uncrossed
 uncrosses
@@ -39339,6 +39372,7 @@ unisonant
 unitarianism
 unities
 unitization
+unitizations
 unitizing
 unitrust
 univalved
@@ -40713,6 +40747,7 @@ wartless
 warwork
 warworks
 wasabi
+wash
 washables
 washateria
 washbasins

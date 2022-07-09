@@ -1,0 +1,4 @@
+functions/Start-DbaMigration.ps1 0.9.380 - PowerShell Gallery,https://www.powershellgallery.com/packages/dbatools/0.9.380/Content/functions%255CStart-DbaMigration.ps1
+functions/Start-DbaMigration.ps1 0.9.825 - PowerShell Gallery,https://www.powershellgallery.com/packages/dbatools/0.9.825/Content/functions%255CStart-DbaMigration.ps1
+dbatools/Copy-DbaDatabase.ps1 at development - GitHub,https://github.com/sqlcollaborative/dbatools/blob/development/functions/Copy-DbaDatabase.ps1
+bin/stop-server.ps1 - cassandra - Git at Google,https://apache.googlesource.com/cassandra/%2B/refs/tags/cassandra-2.1.10/bin/stop-server.ps1
