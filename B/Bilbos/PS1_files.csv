@@ -1,0 +1,5 @@
+Private/UserRightsAssignment.ps1 2.1.19 - PowerShell Gallery,https://www.powershellgallery.com/packages/poshspec/2.1.19/Content/Private%255CUserRightsAssignment.ps1
+tests/Get-DbaWaitResource.Tests.ps1 0.9.402 - PowerShell Gallery,https://www.powershellgallery.com/packages/dbatools/0.9.402/Content/tests%255CGet-DbaWaitResource.Tests.ps1
+PlayPowershell/UserRights.ps1 at master - GitHub,https://github.com/KurtDeGreeff/PlayPowershell/blob/master/UserRights.ps1
+finding_windows_privileges/Find-BadPrivileges-DomainComputers ...,https://github.com/lordsaibat/finding_windows_privileges/blob/master/Find-BadPrivileges-DomainComputers.ps1
+https://raw.githubusercontent.com/lordsaibat/findi...,https://raw.githubusercontent.com/lordsaibat/finding_windows_privileges/master/Find-BadPrivileges-DomainComputers.ps1
