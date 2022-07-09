@@ -147,6 +147,7 @@ acclamations
 acclimated
 acclimatised
 acclimatising
+acclimatization
 acclimatize
 acclimatizer
 acclimatizes
@@ -1006,6 +1007,7 @@ amidogens
 amidones
 amidship
 amies
+amigos
 amines
 amino
 aminoacidurias
@@ -1165,6 +1167,7 @@ ancestors
 ancestress
 anchoress
 anchoring
+anchorwomen
 ancientest
 ancientries
 ancillary
@@ -1605,6 +1608,7 @@ apodosis
 apoenzymes
 apogamic
 apogeic
+apolitically
 apolog
 apologetics
 apologies
@@ -6115,6 +6119,7 @@ ciphering
 ciphonies
 cipollino
 circa
+circadian
 circle
 circuit
 circuitousness
@@ -7907,6 +7912,7 @@ craftiest
 craftily
 craftinesses
 crafting
+craftsman
 craftsmanships
 craggier
 craggy
@@ -11126,6 +11132,7 @@ ectopias
 ectopic
 ectoplasmic
 ectoplasms
+ectosarc
 ectothermic
 ectype
 ecumenically
@@ -14070,6 +14077,7 @@ frenums
 frenzying
 frequentation
 frequently
+freres
 frescoist
 freshening
 fresher
@@ -14306,6 +14314,7 @@ fusiliers
 fusillades
 fusillading
 fusillis
+fusionism
 fusionisms
 fusionists
 fussbudgets
@@ -14481,6 +14490,7 @@ gardai
 gardeners
 gardens
 garderobe
+gargantua
 gargantuan
 garget
 gargety
@@ -16488,6 +16498,7 @@ hindbrains
 hinder
 hindering
 hindrance
+hinds
 hinge
 hinkier
 hinky
@@ -18315,6 +18326,7 @@ interim
 interindividual
 interindustry
 interinvolving
+interionic
 interiorise
 interiorises
 interiorizes
@@ -18455,6 +18467,7 @@ inti
 intimacy
 intimae
 intimal
+intimated
 intimately
 intimates
 intimidator
@@ -19953,6 +19966,7 @@ legalizations
 legalize
 legalized
 legally
+legals
 legateships
 legato
 legendaries
@@ -20036,6 +20050,7 @@ letch
 lethalities
 lethargy
 lettermen
+letterpresses
 letters
 letterspacing
 letting
@@ -20865,6 +20880,7 @@ maguey
 maharajas
 maharanis
 maharishis
+mahimahi
 mahjongs
 mahlstick
 maiden
@@ -24141,6 +24157,7 @@ nystagmuses
 oafish
 oak
 oar
+oars
 oasthouses
 oaves
 obdurately
@@ -24480,6 +24497,7 @@ oophytes
 ooralis
 oorie
 oosperms
+oospore
 oospores
 oothecae
 ootids
@@ -24497,6 +24515,7 @@ opencast
 opened
 opener
 opening
+openness
 opennesses
 operabilities
 operable
@@ -25081,6 +25100,7 @@ overabundant
 overachievement
 overachieving
 overactions
+overactivity
 overages
 overanalyzes
 overanalyzing
@@ -25120,6 +25140,7 @@ overcentralized
 overcharge
 overchill
 overchilled
+overclaims
 overclass
 overclassified
 overcleaning
@@ -25631,6 +25652,7 @@ palladia
 palladium
 pallet
 palletised
+palletize
 palletizer
 pallets
 pallia
@@ -25985,6 +26007,7 @@ pastels
 pasters
 pasteups
 pasteurises
+pasteurizations
 pasteurizing
 pasticheurs
 pastiest
@@ -27271,6 +27294,7 @@ plicated
 plicately
 plies
 plimsol
+plinkers
 pliofilm
 pliskie
 plisse
@@ -28792,6 +28816,7 @@ pugilism
 pugilist
 pugilists
 pugnaciously
+puisne
 puissances
 pujah
 pujahs
@@ -31381,6 +31406,7 @@ rooter
 rootiest
 rootling
 rooty
+ropedancer
 ropedancers
 roper
 ropers
@@ -33561,6 +33587,7 @@ slaved
 slaveholding
 slaverers
 slaveries
+slaveys
 slavish
 slavishnesses
 slavocracy
@@ -34374,6 +34401,7 @@ sphingids
 sphingosines
 sphinx
 sphygmographs
+spicate
 spiccato
 spice
 spicebushes
@@ -36203,6 +36231,7 @@ syndactylism
 syndactyly
 syndetic
 syndic
+syndicalists
 syndicated
 syndromic
 syne
@@ -36452,6 +36481,7 @@ tarnish
 taroks
 tarot
 tarp
+tarradiddle
 tarried
 tarries
 tarriest
@@ -38885,6 +38915,7 @@ uninsurable
 unintelligible
 uninterests
 unintimidated
+uninvited
 uninvoked
 unionisation
 unionise
@@ -39122,6 +39153,7 @@ unseen
 unsegregated
 unselling
 unsensational
+unsentimental
 unserved
 unsetting
 unsettle
@@ -39793,6 +39825,7 @@ vestigially
 vestry
 vestrymen
 vesturing
+vetch
 vetches
 vetchling
 vetiver
@@ -40434,6 +40467,7 @@ weirding
 weirdly
 weirdnesses
 weisenheimers
+welches
 welcomenesses
 welding
 weldor
@@ -40839,6 +40873,7 @@ woolgathering
 woolhat
 woolie
 wooliness
+woollinesses
 wools
 woolwork
 woomeras
