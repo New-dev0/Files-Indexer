@@ -515,6 +515,7 @@ affiance
 affiche
 affiches
 afficionado
+afficionados
 affidavits
 affinal
 affinity
@@ -4087,6 +4088,7 @@ bottlings
 bottomland
 bottomlands
 bottommost
+bottomry
 botts
 botulin
 botulinal
@@ -4698,6 +4700,7 @@ business
 businessmen
 businesspersons
 busk
+buskin
 bustard
 buster
 busticates
@@ -5983,6 +5986,7 @@ chiralities
 chirality
 chiromancers
 chiromancies
+chiropractic
 chiropterans
 chiropters
 chirper
@@ -5995,6 +5999,7 @@ chiselers
 chiselled
 chital
 chitchats
+chitling
 chitlings
 chittered
 chittering
@@ -7570,6 +7575,7 @@ convincingness
 convocation
 convoke
 convoker
+convokes
 convoking
 convolute
 convolved
@@ -8243,6 +8249,7 @@ croqueting
 croquets
 croquignoles
 crossabilities
+crossarm
 crossarms
 crossbanding
 crossbandings
@@ -10094,6 +10101,7 @@ disaggregated
 disagreeable
 disagreement
 disallowed
+disambiguated
 disambiguations
 disappearance
 disappearing
@@ -10196,6 +10204,7 @@ discrete
 discriminant
 discriminants
 discriminator
+discrown
 discrowned
 discursively
 discursiveness
@@ -11004,6 +11013,7 @@ dualisms
 dualistically
 dualizes
 duals
+dub
 dubber
 dubbin
 dubiousness
@@ -14091,6 +14101,7 @@ forkless
 forklifting
 forlornest
 forlornness
+formable
 formaldehydes
 formalised
 formalnesses
@@ -14374,6 +14385,7 @@ frothy
 frotteur
 frotteurs
 frouncing
+frouziest
 frowns
 frows
 frowzily
@@ -14870,6 +14882,7 @@ gemmology
 gemmy
 gemot
 gemots
+gemstones
 gen
 gender
 genders
@@ -15058,6 +15071,7 @@ gimmick
 gimmicks
 gimpy
 gingeley
+gingeli
 gingelies
 gingelis
 gingelli
@@ -17414,6 +17428,7 @@ hypersecretions
 hypersonic
 hyperspace
 hypersthene
+hypertension
 hypertonia
 hypertypical
 hyperuricemia
@@ -17545,6 +17560,7 @@ idolize
 ids
 idyll
 idylls
+idyls
 if
 iffiness
 iffinesses
@@ -18886,6 +18902,7 @@ iodizing
 iodous
 iolite
 iolites
+ionicity
 ioniums
 ionogenic
 ionomers
@@ -20771,6 +20788,7 @@ logicalnesses
 logicised
 logicising
 logicizing
+logicless
 logics
 logistically
 logisticians
@@ -21230,6 +21248,7 @@ malapertness
 malapertnesses
 malaperts
 malariologist
+malariologists
 malarkeys
 malarky
 malaromas
@@ -22279,6 +22298,7 @@ milliohms
 million
 millions
 millionths
+milliosmols
 millipede
 millisecond
 milliseconds
@@ -23819,6 +23839,7 @@ newsmakers
 newsman
 newsmongers
 newspaperman
+newspapers
 newspersons
 newsprint
 newsrooms
@@ -25227,6 +25248,7 @@ outfield
 outfight
 outfights
 outfigured
+outfired
 outfires
 outfished
 outfitters
@@ -25258,6 +25280,7 @@ outgoingnesses
 outgrosses
 outguesses
 outguides
+outguiding
 outhandles
 outhaul
 outhearing
@@ -26099,6 +26122,7 @@ panegyric
 panegyrist
 panel
 paneling
+panelist
 panelled
 panellings
 panetelas
@@ -28592,6 +28616,7 @@ pressruns
 pressureless
 pressurised
 pressurization
+presterilizes
 prestidigitator
 prestore
 prestored
@@ -31451,6 +31476,7 @@ revalorizing
 revaluates
 revalue
 revaluing
+revamped
 revampers
 revanches
 revarnish
@@ -33037,6 +33063,7 @@ selfs
 selfsameness
 selfsamenesses
 sellable
+selle
 sellers
 sellotaping
 sellout
@@ -33717,6 +33744,7 @@ siccing
 sices
 sicked
 sickening
+sickens
 sickishness
 sickishnesses
 sicklemia
@@ -34517,6 +34545,7 @@ sogged
 sogginesses
 soignee
 soiling
+soilless
 soilures
 sojourners
 sojourns
@@ -35729,6 +35758,7 @@ stridulous
 strifes
 strigil
 strike
+strikebreaker
 strikebreakers
 strikeouts
 strikeovers
@@ -35938,6 +35968,7 @@ subhead
 subheading
 subheadings
 subheads
+subindices
 subindustry
 subinfeudates
 subinfeuded
@@ -38257,6 +38288,7 @@ traumatism
 traumatization
 traumatizations
 traumatize
+traumatizes
 traveler
 travelers
 traveling
@@ -39713,6 +39745,7 @@ unschooled
 unscrambling
 unscrew
 unscrews
+unseam
 unsearchably
 unseasonably
 unseat
@@ -41168,10 +41201,12 @@ whiskery
 whiskies
 whisper
 whispery
+whisting
 whistlers
 whistlings
 white
 whitecomb
+whitefishes
 whiteflies
 whiteners
 whitens
