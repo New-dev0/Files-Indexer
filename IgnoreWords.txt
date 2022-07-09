@@ -1639,6 +1639,7 @@ apospory
 apostasies
 apostatizing
 apostils
+apostle
 apostleship
 apostolic
 apostolicities
@@ -2001,6 +2002,7 @@ askewnesses
 askoi
 aslope
 asocial
+asparagine
 asparagines
 aspartate
 aspartates
@@ -4430,6 +4432,7 @@ brushwork
 brusker
 brusque
 brusquenesses
+brusquerie
 brut
 brutal
 brutalising
@@ -9232,6 +9235,7 @@ delocalizes
 delouses
 delphiniums
 deltoideus
+delusory
 delusters
 delve
 delver
@@ -11299,6 +11303,7 @@ eglantines
 ego
 egocentrically
 egocentricity
+egocentrics
 egocentrisms
 egoless
 egregiously
@@ -11594,6 +11599,7 @@ enactment
 enactors
 enalaprils
 enamelists
+enamelled
 enamellers
 enamels
 enamored
@@ -14403,6 +14409,7 @@ fusillis
 fusionism
 fusionisms
 fusionists
+fuss
 fussbudgets
 fussily
 fustics
@@ -15238,6 +15245,7 @@ gongoristic
 goniff
 gonium
 gonococcal
+gonocytes
 gonofs
 gonophores
 gonorrhea
@@ -15341,6 +15349,7 @@ graffito
 graftage
 grahams
 grain
+grainer
 grainers
 gram
 gramaries
@@ -16018,6 +16027,7 @@ hanselling
 hanting
 haole
 hap
+hapaxes
 haphtara
 haphtarah
 haphtarot
@@ -16472,6 +16482,7 @@ herstories
 hes
 hesitance
 hesitaters
+hesitator
 hessonites
 hetaeric
 hetairas
@@ -18442,6 +18453,7 @@ interiorizes
 interiors
 interject
 interjected
+interjecting
 interjectory
 interjoins
 interknitting
@@ -18915,6 +18927,7 @@ izar
 izars
 jabbers
 jabberwocky
+jabirus
 jabs
 jacana
 jacinthes
@@ -18940,6 +18953,7 @@ jacobuses
 jaconet
 jaculated
 jacuzzis
+jade
 jadednesses
 jadeites
 jaditic
@@ -20743,6 +20757,7 @@ lowermost
 lowers
 lowlanders
 lowlands
+lowlier
 lowlifer
 lowlights
 lowliheads
@@ -20880,6 +20895,7 @@ lymphs
 lynched
 lynxes
 lyophile
+lyophiled
 lyophilises
 lyophilizations
 lyophilizer
@@ -22853,6 +22869,7 @@ morphophonemics
 morphs
 morris
 morro
+morselled
 morselling
 mortar
 mortarboard
@@ -23110,6 +23127,7 @@ municipals
 munificently
 muniments
 munis
+munnion
 muntins
 muraenids
 muralists
@@ -23864,6 +23882,7 @@ nonconform
 nonconformed
 nonconforming
 nonconformisms
+noncongruent
 nonconnection
 nonconstant
 nonconsumer
@@ -24232,6 +24251,7 @@ nudibranchs
 nudie
 nudists
 nudities
+nudity
 nudzhed
 nuked
 nukes
@@ -24999,6 +25019,7 @@ outdueling
 outearned
 outeat
 outfabling
+outfawned
 outfawning
 outfeast
 outfence
@@ -25267,6 +25288,7 @@ overborrowed
 overbraked
 overbrakes
 overbraking
+overbreathing
 overbriefed
 overbright
 overbrowsing
@@ -26095,6 +26117,7 @@ parsley
 parsleyed
 parsnips
 parsonages
+parsonic
 partakers
 partakes
 partans
@@ -28343,6 +28366,7 @@ prestrike
 prestructured
 presumable
 presumably
+presume
 presumes
 presumingly
 presummit
@@ -30665,6 +30689,7 @@ repand
 repanel
 repaneled
 repanelled
+repapering
 repapers
 reparks
 repartees
@@ -31327,6 +31352,7 @@ ribands
 ribbands
 ribbers
 ribbing
+riblet
 riboflavins
 ribonucleotide
 ribosomes
@@ -31779,6 +31805,7 @@ runt
 runway
 rupiah
 rupiahs
+rupturing
 ruralises
 ruralist
 ruralite
@@ -32933,6 +32960,7 @@ serotine
 serotinies
 serous
 serovars
+serow
 serows
 serpentinely
 serpentines
@@ -33383,6 +33411,7 @@ shutterless
 shuttle
 shuttlecock
 shuttlecocking
+shvartze
 shvartzes
 shylock
 shynesses
@@ -34385,6 +34414,7 @@ soups
 sourdine
 sourdines
 sourer
+sourest
 sourwoods
 southbound
 southeaster
@@ -35798,6 +35828,7 @@ successful
 successional
 successor
 succinctly
+succinctness
 succinic
 succorers
 succours
@@ -37122,6 +37153,7 @@ thermostat
 thermotactic
 thermotaxis
 thermotropisms
+theroid
 theropods
 these
 theses
@@ -38550,6 +38582,7 @@ ultrahip
 ultrahot
 ultraleftists
 ultralight
+ultralow
 ultramarathons
 ultramarine
 ultramicroscope
@@ -38984,6 +39017,7 @@ undrew
 undried
 undular
 unearthliest
+unearthliness
 unearthlinesses
 unease
 uneasy
@@ -40516,6 +40550,7 @@ washbasins
 washboard
 washbowls
 washerman
+washers
 washeteria
 washeterias
 washouts
