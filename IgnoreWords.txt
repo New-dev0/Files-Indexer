@@ -800,6 +800,7 @@ alkalizer
 alkalizing
 alkane
 alkie
+alkyd
 alkyds
 allantoids
 allantoin
@@ -895,6 +896,7 @@ alphabetized
 alphabetizing
 alphanumerical
 alphas
+alphorn
 alphosis
 alphyl
 alphyls
@@ -1951,6 +1953,7 @@ articled
 articulacies
 articulate
 articulated
+articulations
 artier
 artifacts
 artificial
@@ -2102,6 +2105,7 @@ assures
 assuror
 asswaged
 astarboard
+astasia
 astasias
 asteria
 asterias
@@ -3207,6 +3211,7 @@ bennets
 benny
 bens
 benthon
+bentonitic
 benumbing
 benzidin
 benzidines
@@ -3695,6 +3700,7 @@ blawn
 blaxploitation
 blazes
 blazon
+blazoned
 bleacher
 bleachers
 bleaches
@@ -3852,6 +3858,7 @@ bodaciously
 boddhisattva
 boddhisattvas
 bodega
+bodegas
 bodement
 bodices
 bodily
@@ -3989,6 +3996,7 @@ bookmarking
 bookshop
 bookshops
 bookstand
+boom
 boomboxes
 boomer
 boomingly
@@ -6286,6 +6294,7 @@ clairaudient
 clairvoyance
 clammier
 clamming
+clamoring
 clamoured
 clamped
 clamper
@@ -9628,6 +9637,7 @@ detentions
 detentists
 deterge
 detergencies
+detergers
 deterges
 deterging
 deteriorating
@@ -9784,6 +9794,7 @@ diaphaneities
 diaphanous
 diaphanously
 diaphones
+diaphony
 diaphorases
 diaphoreses
 diaphoretics
@@ -13537,6 +13548,7 @@ flaggier
 flaggingly
 flagitiously
 flagmen
+flagrancy
 flagships
 flagstaffs
 flagstick
@@ -16469,6 +16481,7 @@ hemiplegic
 hemiplegics
 hemipterans
 hemipterous
+hemipters
 hemispheric
 hemitrope
 hemochromatoses
@@ -16712,6 +16725,7 @@ hippodrome
 hippogriffs
 hippopotami
 hippy
+hips
 hirable
 hircine
 hirselled
@@ -16755,6 +16769,7 @@ hobbed
 hobblebush
 hobbledehoy
 hobby
+hobbyists
 hoblike
 hoboing
 hoboism
@@ -18782,6 +18797,7 @@ invest
 investigations
 investigative
 investigatory
+investments
 investors
 inveteracy
 inviability
@@ -22814,6 +22830,7 @@ monogenically
 monograms
 monogyny
 monohybrid
+monohydroxy
 monolayer
 monolingual
 monolith
@@ -26074,6 +26091,7 @@ papain
 papains
 papal
 paparazzi
+paperbarks
 paperboards
 paperboys
 paperhangers
@@ -26338,6 +26356,7 @@ paternalistic
 paternoster
 path
 pathetically
+pathless
 pathognomonic
 pathologies
 pathologists
@@ -27009,6 +27028,7 @@ phoronids
 phosgene
 phosphatase
 phosphates
+phosphatides
 phosphatidyl
 phosphatization
 phosphatizes
@@ -27972,6 +27992,7 @@ posits
 posole
 posoles
 posologic
+posology
 possessedly
 possessednesses
 possessive
@@ -28193,6 +28214,7 @@ prearm
 prearming
 prearranged
 prearranging
+preassured
 preattune
 prebend
 prebendaries
@@ -28934,6 +28956,7 @@ protamines
 protea
 protect
 protecter
+protectionist
 protectionists
 protections
 protectiveness
@@ -29392,6 +29415,7 @@ qats
 qindar
 qiviut
 qiviuts
+quack
 quackery
 quackism
 quacks
@@ -30056,6 +30080,7 @@ receptor
 recepts
 recessionals
 rechallenge
+rechallenges
 rechanged
 rechanneled
 rechanneling
@@ -30918,6 +30943,7 @@ reposers
 reposit
 repository
 repossessors
+repotted
 repoured
 repowering
 reprehending
@@ -30972,6 +30998,7 @@ republishes
 repugnantly
 repugning
 repugns
+repulsions
 repulsively
 repump
 repumped
@@ -33349,6 +33376,7 @@ shenanigans
 sheol
 shepherdesses
 sheqalim
+sheqel
 sherberts
 sherds
 shereef
@@ -33361,6 +33389,7 @@ sherrises
 sherry
 shes
 shetland
+sheuch
 shh
 shiatzu
 shibah
@@ -33380,6 +33409,7 @@ shikaree
 shikari
 shillelah
 shim
+shimmer
 shimmying
 shindys
 shiners
@@ -33456,6 +33486,7 @@ shoemakers
 shoepac
 shoepack
 shoepacks
+shoestrings
 shoetree
 shoetrees
 shofroth
@@ -35688,6 +35719,7 @@ stunting
 stuntman
 stunts
 stupefying
+stupendous
 stupendousness
 stupes
 sturdier
@@ -36733,6 +36765,7 @@ taffrails
 tafia
 tagboards
 tagliatelles
+tagmemes
 tagrag
 tagrags
 tahsildar
@@ -39030,6 +39063,7 @@ uncrated
 uncreates
 uncreating
 uncredited
+uncritically
 uncrossed
 uncrosses
 uncrowns
@@ -39806,6 +39840,7 @@ uprating
 upreached
 uprighting
 uprightnesses
+uprisen
 uprises
 upriver
 uproarious
