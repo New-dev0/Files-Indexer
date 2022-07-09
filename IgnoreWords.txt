@@ -1354,6 +1354,7 @@ antependium
 antepenultimas
 anteverts
 anthelia
+anthelices
 anthelions
 anthelix
 antherid
@@ -3599,6 +3600,7 @@ blackboys
 blackbucks
 blackcaps
 blackened
+blackface
 blackfaces
 blackfish
 blackfishes
@@ -5114,6 +5116,7 @@ carbinols
 carbohydrate
 carbolics
 carbolizing
+carbonadoes
 carbonaras
 carbonations
 carbonization
@@ -5588,6 +5591,7 @@ cetane
 cetologies
 chabouk
 chacma
+chadars
 chador
 chaetae
 chafed
@@ -6305,6 +6309,7 @@ clawlike
 claying
 clayish
 claymore
+claystone
 cleaned
 cleaning
 cleanly
@@ -7439,6 +7444,7 @@ contrarieties
 contravene
 contravener
 contredanses
+contribute
 contributing
 contribution
 contriteness
@@ -7597,6 +7603,7 @@ coralloid
 corals
 corbeil
 corbeils
+corbelled
 corbelling
 corbels
 cord
@@ -9001,6 +9008,7 @@ decriminalizing
 decryptions
 decrypts
 decupling
+dedicated
 dedicates
 deduction
 deducts
@@ -9593,6 +9601,7 @@ detract
 detractor
 detraining
 detrainments
+detritus
 deuced
 deuteranope
 deuterides
@@ -10126,6 +10135,7 @@ disenthrals
 disentitled
 disequilibrated
 disequilibriums
+disesteeming
 diseur
 diseurs
 diseuses
@@ -11131,6 +11141,7 @@ ecclesiology
 ecdysial
 ecdysis
 ecdyson
+ecdysone
 eched
 echelles
 echelon
@@ -11737,6 +11748,7 @@ engrammic
 engraved
 engraver
 engravers
+engraves
 engrossment
 engs
 engulfment
@@ -13744,6 +13756,7 @@ fogeyisms
 fogged
 foggier
 foggiest
+fogginesses
 fogy
 fogyish
 foibles
@@ -14716,6 +14729,7 @@ gemmy
 gemot
 gemots
 gen
+gender
 genders
 genealogically
 generalises
@@ -15037,6 +15051,7 @@ glintiest
 gliomata
 glissade
 glissader
+glissaders
 glissandi
 glisten
 glistens
@@ -16574,6 +16589,7 @@ hindering
 hindrance
 hinds
 hinge
+hinged
 hinkier
 hinky
 hinny
@@ -16654,6 +16670,7 @@ hogging
 hogmenay
 hogmenays
 hogtied
+hoist
 hoisted
 hoisters
 hokey
@@ -17002,6 +17019,7 @@ humaner
 humanhoods
 humanist
 humanities
+humanity
 humanization
 humanize
 humanized
@@ -20343,6 +20361,7 @@ lines
 linesmen
 lingam
 linger
+lingerers
 lingerie
 lingers
 lingo
@@ -20468,6 +20487,7 @@ liverwurst
 liverwursts
 liverymen
 lividnesses
+liviers
 lixivia
 lixiviate
 lixiviations
@@ -23246,6 +23266,7 @@ nabobisms
 nacho
 nacre
 nada
+nadas
 nadirs
 nae
 naevi
@@ -23575,6 +23596,7 @@ newsletters
 newsmakers
 newsman
 newsmongers
+newspaperman
 newspersons
 newsprint
 newsrooms
@@ -23709,6 +23731,7 @@ nodded
 nodders
 noddies
 nodding
+noddles
 nodi
 nodose
 nodous
@@ -24846,6 +24869,7 @@ osteomyelitises
 osteoses
 osteotomies
 ostomate
+ostosises
 ostraca
 ostracism
 ostracodes
@@ -27926,6 +27950,7 @@ poyous
 praams
 practicability
 practicalness
+practise
 practised
 praenomen
 praesidium
@@ -29121,6 +29146,7 @@ pyorrhoeas
 pyralid
 pyramid
 pyramidal
+pyramiding
 pyranosides
 pyrenes
 pyrethrin
@@ -29987,6 +30013,7 @@ recurred
 recurring
 recursion
 recursions
+recurvate
 recusals
 recusants
 recused
@@ -31262,6 +31289,7 @@ rhyolitic
 rhyta
 rhythmic
 rhythmized
+rhythmizing
 ria
 rialtos
 riantly
@@ -32488,6 +32516,7 @@ scungilli
 scunnered
 scuppaugs
 scuppered
+scuppernongs
 scurfier
 scurfiest
 scurfy
@@ -34714,6 +34743,7 @@ sprightliness
 sprightlinesses
 springalds
 springals
+springboard
 springbok
 springer
 springers
@@ -34800,6 +34830,7 @@ squelchiest
 squelchy
 squidding
 squiggles
+squinnied
 squinny
 squinters
 squintest
@@ -35751,6 +35782,7 @@ suckler
 suckless
 sucky
 sucres
+sucrose
 suction
 suctional
 suctorian
@@ -38648,6 +38680,7 @@ uncast
 uncataloged
 uncatchy
 uncaused
+uncelebrated
 unceremonious
 uncertainly
 uncertainnesses
@@ -40939,6 +40972,7 @@ withstood
 witnesser
 witnessers
 witnesses
+witneys
 wittiest
 wiz
 wizards
@@ -41014,6 +41048,7 @@ wooliness
 woollinesses
 wools
 woolwork
+woolworks
 woomeras
 woops
 woopsed
