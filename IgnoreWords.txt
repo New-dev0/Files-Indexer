@@ -165,6 +165,7 @@ accomplishment
 accomplishments
 accordance
 accorded
+accordions
 accountableness
 accountant
 accountants
@@ -1001,6 +1002,7 @@ amianthus
 amianthuses
 amiantus
 amiantuses
+amid
 amide
 amidin
 amidine
@@ -2236,6 +2238,7 @@ audiocassette
 audiocassettes
 audiologic
 audiology
+audiometers
 audiometric
 audiotaped
 auditees
@@ -2824,6 +2827,7 @@ batcher
 bate
 bateau
 batfowler
+batfowlers
 batfowling
 batfowls
 bathers
@@ -3729,6 +3733,7 @@ blotting
 blotty
 blousier
 bloviations
+blowball
 blowby
 blowdown
 blowgun
@@ -4090,6 +4095,7 @@ bowshots
 bowstring
 bowstringed
 bowstrings
+bowyer
 boxberries
 boxcar
 boxfish
@@ -5581,6 +5587,7 @@ chafed
 chaffered
 chaffinches
 chaffs
+chafing
 chagrining
 chained
 chainsaws
@@ -5697,6 +5704,7 @@ charring
 charted
 chartered
 charterers
+charters
 chartreuse
 chartularies
 charwomen
@@ -8627,6 +8635,7 @@ daggerlike
 daggers
 daggled
 dagoes
+daguerreotypies
 daguerreotypist
 dah
 dahabeahs
@@ -10021,6 +10030,7 @@ discipliner
 discipliners
 disclaimer
 disclaimers
+disclamations
 disclike
 disclimax
 disclosed
@@ -13660,6 +13670,7 @@ fluorometric
 fluorometries
 fluorometry
 fluoroscopes
+fluoroscoping
 fluorosis
 flurries
 flurry
@@ -14114,9 +14125,11 @@ freshening
 fresher
 freshes
 freshman
+freshwaters
 fret
 fretters
 fretwork
+friar
 friarly
 friary
 fribble
@@ -14713,6 +14726,7 @@ genotype
 genteel
 genteelness
 genteelnesses
+gentes
 gentian
 gentiles
 gentlemanliness
@@ -16300,6 +16314,7 @@ hematinics
 hematomas
 hematopoiesis
 hematopoietic
+hematoses
 hematoxylin
 hematoxylins
 hematuric
@@ -17093,6 +17108,7 @@ hydromechanical
 hydromedusa
 hydromel
 hydromels
+hydrometeor
 hydrometer
 hydrometric
 hydropathies
@@ -20770,6 +20786,7 @@ lusterless
 lusterwares
 lustily
 lustrations
+lustred
 lustring
 lustrous
 lustrum
@@ -22379,6 +22396,7 @@ mistranslate
 mistranslates
 mistreated
 mistress
+mistrust
 mistrusted
 mistrustfulness
 mistrusts
@@ -22647,6 +22665,7 @@ monopsony
 monorail
 monorchid
 monorchids
+monorhyme
 monosaccharide
 monosomic
 monostich
@@ -23382,6 +23401,7 @@ negativenesses
 negaton
 negatron
 neglecter
+neglecters
 neglectors
 neglects
 negligee
@@ -23481,6 +23501,7 @@ neurohypophyses
 neurohypophysis
 neuroid
 neuroleptics
+neurologic
 neurologies
 neurologist
 neurophysiology
@@ -25785,6 +25806,7 @@ pangene
 pangens
 pangs
 panically
+panickier
 panickiest
 paniculate
 panicums
@@ -26131,6 +26153,7 @@ pattypans
 paucities
 paunched
 paunchier
+paunchinesses
 paunchy
 pauperize
 pauperized
@@ -26165,6 +26188,7 @@ peacekeeper
 peacekeepers
 peacekeepings
 peached
+peacher
 peachy
 peacocky
 peafowl
@@ -29508,6 +29532,7 @@ rare
 rarefactions
 rarefier
 rareness
+rareripes
 rares
 rasbora
 rasers
@@ -29596,6 +29621,7 @@ razzberry
 razzmatazz
 reabsorbing
 reaccelerated
+reaccent
 reaccenting
 reaccepted
 reacclimatize
@@ -32188,6 +32214,7 @@ scenas
 scend
 scenery
 scenical
+scenting
 scepter
 sceptic
 schadenfreudes
@@ -33780,6 +33807,7 @@ sluggishness
 sluice
 sluicing
 sluicy
+slumber
 slumbered
 slumberers
 slumbering
@@ -35985,6 +36013,7 @@ supports
 supposal
 supposals
 supposed
+supposer
 suppositions
 supposititious
 suppositories
@@ -36033,6 +36062,7 @@ surplus
 surplusages
 surpluses
 surplussed
+surplussing
 surprisal
 surprised
 surprisingly
@@ -36308,6 +36338,7 @@ syngenic
 synod
 synonymize
 synonymously
+synopsis
 synopsizes
 synoptical
 synostosis
@@ -36388,6 +36419,7 @@ tacts
 tactually
 tads
 taels
+taenia
 tafferels
 taffrails
 tafia
@@ -37340,6 +37372,7 @@ toiled
 toileted
 toiletries
 toilsomenesses
+toit
 tokamaks
 toked
 token
@@ -38125,6 +38158,7 @@ tsunamis
 tsuris
 tsutsugamushi
 tuatara
+tuataras
 tuatera
 tuateras
 tubal
@@ -41201,6 +41235,7 @@ yerked
 yes
 yeshivahs
 yesses
+yessing
 yesterday
 yeti
 yeuks
