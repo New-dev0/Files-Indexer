@@ -45,6 +45,7 @@ absconder
 abseils
 absentee
 absenters
+absentminded
 absentmindedly
 absinth
 absolutely
@@ -52,6 +53,7 @@ absolution
 absolutisms
 absolutist
 absolutists
+absolutized
 absolve
 absolvent
 absolves
@@ -1172,6 +1174,7 @@ ancestoring
 ancestors
 ancestress
 anchoress
+anchoret
 anchoring
 anchorwomen
 ancientest
@@ -1571,6 +1574,7 @@ apagoges
 apanage
 apanages
 apart
+apartnesses
 apathetic
 apatosaur
 apatosaurs
@@ -1846,6 +1850,7 @@ arginases
 argons
 argosies
 argosy
+argot
 arguer
 argufied
 argufying
@@ -3316,6 +3321,7 @@ bhut
 bhuts
 biannually
 bias
+biased
 biassed
 bibbed
 biblically
@@ -5086,6 +5092,7 @@ caprolactam
 capsaicin
 capsizing
 capstans
+capsulate
 capsulizes
 captain
 captions
@@ -8165,6 +8172,7 @@ croft
 crofters
 crojik
 crojiks
+cromlech
 crone
 crook
 crooked
@@ -9474,6 +9482,7 @@ dermic
 derms
 dernier
 derogatory
+derrick
 derries
 derry
 desalination
@@ -9607,6 +9616,7 @@ detoxication
 detoxification
 detoxifications
 detoxified
+detoxify
 detract
 detractor
 detraining
@@ -11350,6 +11360,7 @@ elations
 eldercare
 elderlies
 elderlinesses
+elders
 eldest
 elected
 electing
@@ -11754,6 +11765,7 @@ engirded
 english
 englutting
 engorge
+engorges
 engraft
 engraftments
 engram
@@ -12406,6 +12418,7 @@ eviting
 evocators
 evolute
 evolutionist
+evonymus
 evulsed
 evulsions
 ewe
@@ -13317,6 +13330,7 @@ finch
 fineness
 finenesses
 finer
+fineries
 fines
 finessing
 finfish
@@ -15549,6 +15563,7 @@ grislier
 grister
 gristliest
 gristliness
+grit
 griths
 grits
 gritty
@@ -15656,6 +15671,7 @@ guaiacols
 guanabanas
 guanacos
 guanays
+guanethidine
 guanidine
 guanidins
 guanines
@@ -18448,6 +18464,7 @@ interindustry
 interinvolving
 interionic
 interiorise
+interiorised
 interiorises
 interiorizes
 interiors
@@ -20327,6 +20344,7 @@ lignan
 lignite
 lignosulfonates
 ligulae
+ligule
 liguloid
 likabilities
 likableness
@@ -24943,6 +24961,7 @@ ourari
 ourself
 ousel
 ouster
+ousters
 outachieves
 outacting
 outadd
@@ -25617,6 +25636,7 @@ overwithhold
 overwithholds
 overworking
 overworn
+overwrites
 overzeal
 ovibos
 ovicide
@@ -27261,6 +27281,7 @@ pitas
 pitayas
 pitch
 pitcher
+pitchforked
 pitchforks
 pitching
 pitchouts
@@ -27567,6 +27588,7 @@ pogonophorans
 pogroming
 pogromist
 poh
+poignance
 poignancies
 poignantly
 poikilotherm
@@ -27831,6 +27853,7 @@ posited
 positing
 position
 positions
+positive
 positivistic
 posits
 posole
@@ -29278,6 +29301,7 @@ quadruplicities
 quadrupling
 quads
 quaere
+quaestor
 quaffer
 quag
 quagga
@@ -30058,6 +30082,7 @@ recumbencies
 recuperate
 recuperated
 recurred
+recurrences
 recurring
 recursion
 recursions
@@ -30280,6 +30305,7 @@ reflooding
 reflowering
 refluxed
 refly
+refocused
 refocusing
 refocussing
 refolds
@@ -31948,6 +31974,7 @@ salicine
 salicylate
 saliently
 salients
+salifies
 salifying
 salina
 salinizations
@@ -32581,6 +32608,7 @@ scurviest
 scutched
 scutches
 scute
+scutella
 scutiform
 scuts
 scuttering
@@ -35827,6 +35855,7 @@ successes
 successful
 successional
 successor
+succincter
 succinctly
 succinctness
 succinic
@@ -38214,6 +38243,7 @@ tropics
 tropine
 tropism
 tropomyosin
+troposphere
 tropotaxis
 trot
 trotters
@@ -39235,6 +39265,7 @@ unmaking
 unmanful
 unmanlier
 unmanliest
+unmanly
 unmans
 unmasculine
 unmask
@@ -40751,6 +40782,7 @@ whatsises
 whatsoever
 wheals
 wheatlands
+wheatless
 wheedled
 wheedles
 wheelbarrow
@@ -40955,6 +40987,7 @@ windings
 windjammers
 windless
 windmills
+window
 windowing
 windowpanes
 windows
@@ -41262,6 +41295,7 @@ wushu
 wussier
 wyandotte
 wyles
+wyte
 wytes
 xantheins
 xanthene
@@ -41584,3 +41618,4 @@ zymograms
 zymosan
 zymosans
 zymosis
+zyzzyva
