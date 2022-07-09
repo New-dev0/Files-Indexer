@@ -873,6 +873,7 @@ aloft
 alogical
 aloof
 aloofly
+aloofness
 alpenglow
 alpenstock
 alphabet
@@ -946,6 +947,7 @@ ambient
 ambients
 ambiguousnesses
 ambipolar
+ambisexuality
 ambisexuals
 ambitions
 ambitiousnesses
@@ -1217,6 +1219,7 @@ anglicism
 anglicisms
 anglicization
 anglicized
+angoras
 angosturas
 angriest
 angrinesses
@@ -2968,6 +2971,7 @@ bedews
 bedfellow
 bedgown
 bediapers
+bedighted
 bedighting
 bedirtied
 bedizens
@@ -5721,6 +5725,7 @@ checkbooks
 checkerberries
 checkerberry
 checkerboard
+checkerboards
 checkered
 checkers
 checklisting
@@ -6105,6 +6110,7 @@ circle
 circuit
 circuitousness
 circuitry
+circuity
 circular
 circularised
 circularness
@@ -6190,6 +6196,7 @@ clag
 clairaudience
 clairaudient
 clairvoyance
+clammier
 clamming
 clamoured
 clamped
@@ -8294,6 +8301,7 @@ cultches
 cultic
 cultigen
 cultishly
+cultishness
 cultivation
 cultivator
 cultivators
@@ -8461,6 +8469,7 @@ cyanogen
 cyanogeneses
 cyanogenic
 cyanotypes
+cyanurate
 cyber
 cybernate
 cybernated
@@ -10180,6 +10189,7 @@ disposure
 dispraiser
 disprizes
 disproof
+disproportion
 disprove
 disputatious
 dispute
@@ -11690,6 +11700,7 @@ enolic
 enological
 enophiles
 enorm
+enormities
 enosis
 enow
 enows
@@ -13623,6 +13634,7 @@ flypapers
 flyrodders
 flysheets
 flyswatter
+flytiers
 flyting
 flytrap
 flyweight
@@ -14849,6 +14861,7 @@ glaceed
 glaceing
 glaciating
 glaciers
+glaciologies
 glacises
 glad
 gladdened
@@ -18321,6 +18334,7 @@ intermeddler
 intermeddlers
 intermeddles
 intermediated
+intermesh
 intermezzi
 intermingles
 intermission
@@ -20769,6 +20783,7 @@ macroevolution
 macroevolutions
 macroglobulins
 macromere
+macromolecular
 macron
 macronuclei
 macrophage
@@ -22013,6 +22028,7 @@ miri
 mirin
 mirins
 mirker
+mirkier
 mirkily
 mirror
 mirrored
@@ -22062,6 +22078,7 @@ misbeliever
 misbelieving
 misbiases
 misbiasses
+misbilled
 misbilling
 misbinding
 misbuilds
@@ -24194,6 +24211,7 @@ obstruent
 obtainable
 obtained
 obtainers
+obtests
 obtrusions
 obtrusive
 obtundents
@@ -24729,6 +24747,7 @@ ouster
 outachieves
 outacting
 outadd
+outadds
 outages
 outarguing
 outasked
@@ -26202,11 +26221,13 @@ penicillate
 penicillin
 penicillinase
 penitence
+penitently
 penknives
 penman
 penniless
 pennon
 pennoncel
+pennons
 pennycress
 pennywise
 penologist
@@ -26302,6 +26323,7 @@ perforate
 perforating
 perforation
 performability
+performances
 perfumer
 perfumery
 perfusates
@@ -27304,6 +27326,7 @@ podocarp
 podomere
 podophyllin
 podsols
+podzol
 podzolization
 podzolizations
 podzols
@@ -28128,6 +28151,7 @@ presynaptic
 presynaptically
 pretaping
 pretasting
+preteen
 pretelling
 pretense
 pretension
@@ -28530,6 +28554,7 @@ prostatectomies
 prostatism
 prostatisms
 prostheses
+prosthetically
 prosthodontics
 prostitute
 prostituted
@@ -30966,6 +30991,7 @@ revetment
 revibrates
 revibrating
 revictual
+revictualed
 revictualled
 revictuals
 review
@@ -32576,6 +32602,7 @@ sensating
 sensationalise
 sensationalist
 sensationalized
+sensations
 senseis
 senselessness
 sensibler
@@ -33252,6 +33279,7 @@ silliness
 silurid
 silva
 silvas
+silverly
 silvern
 silverpoint
 silverware
@@ -33531,6 +33559,7 @@ sleeting
 sleeved
 sleighed
 sleight
+slenderest
 slenderizes
 slenderly
 slenderness
@@ -33909,6 +33938,7 @@ sociologists
 sociometry
 socioreligious
 socket
+socketed
 sodbusters
 soddened
 soddies
@@ -34735,6 +34765,7 @@ statable
 statecraft
 statecrafts
 stateliness
+statements
 stateroom
 staters
 statesmanship
@@ -35364,6 +35395,7 @@ sublation
 sublease
 sublessee
 sublets
+sublibrarian
 sublibrarians
 sublicensing
 sublieutenant
@@ -35419,6 +35451,7 @@ subphylum
 subpoena
 subpoenaing
 subpopulations
+subprocess
 subprograms
 subprojects
 subpubic
@@ -35881,6 +35914,7 @@ surpassingly
 surplus
 surplusages
 surpluses
+surplussed
 surprisal
 surprised
 surprisingly
@@ -37451,6 +37485,7 @@ trade
 tradeable
 tradecraft
 trademarked
+trader
 trades
 tradescantias
 traditional
