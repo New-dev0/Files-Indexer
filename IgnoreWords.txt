@@ -1846,6 +1846,7 @@ areole
 arete
 argala
 argentums
+argillite
 arginases
 argons
 argosies
@@ -2399,6 +2400,7 @@ avos
 avouched
 avouching
 avouchments
+avow
 avowably
 avower
 avows
@@ -2699,6 +2701,7 @@ bannister
 bannocks
 banquette
 banshie
+bantam
 banter
 banyan
 banzai
@@ -8276,6 +8279,7 @@ crustacea
 crustaceans
 crustaceous
 crustily
+crustless
 crustose
 crutching
 crux
@@ -8450,6 +8454,7 @@ curlicues
 curliest
 curliness
 curlinesses
+curlings
 curls
 curr
 curragh
@@ -10860,6 +10865,7 @@ droppings
 drops
 dropsical
 dropsonde
+dropsondes
 dropsy
 dropwort
 droshkies
@@ -11379,6 +11385,7 @@ electrodialysis
 electrodialytic
 electroform
 electroforming
+electroforms
 electrogenic
 electrogram
 electrograms
@@ -11477,6 +11484,7 @@ embanks
 embargo
 embargoing
 embark
+embarkations
 embarking
 embarrass
 embarrassable
@@ -11716,6 +11724,7 @@ endotoxins
 endows
 endozoic
 endpapers
+endplates
 endrins
 ends
 endurable
@@ -11988,6 +11997,7 @@ ephori
 ephors
 epiblasts
 epiboly
+epicalyx
 epicalyxes
 epicanthi
 epicardial
@@ -15137,6 +15147,7 @@ glouted
 glover
 glowering
 glowers
+glowing
 gloxinias
 glucans
 glucinic
@@ -15462,6 +15473,7 @@ gravesites
 graveyard
 gravidae
 gravimetrically
+gravimetry
 gravitas
 gravitation
 gravitations
@@ -17586,6 +17598,7 @@ impairers
 impairments
 impalement
 impales
+impanelled
 impanelling
 imparking
 imparted
@@ -19985,6 +19998,7 @@ laughlines
 launched
 launching
 launchpads
+launderette
 laundress
 laundrettes
 laundryman
@@ -20590,6 +20604,7 @@ locomotors
 locos
 locules
 loculicidal
+locums
 locust
 locustae
 locution
@@ -21291,6 +21306,7 @@ marinades
 marination
 marinations
 marine
+mariposas
 marishes
 maritime
 marjorams
@@ -22007,6 +22023,7 @@ microwatts
 microwavable
 microwaves
 microworlds
+micrurgy
 mics
 micturated
 mid
@@ -22178,6 +22195,7 @@ minicab
 minicar
 minicomputer
 minidisc
+minified
 minifying
 minikin
 minilab
@@ -24034,6 +24052,7 @@ nonminority
 nonmodern
 nonmotility
 nonmunicipal
+nonmusics
 nonnatives
 nonnatural
 nonnecessities
@@ -24765,6 +24784,7 @@ optionalities
 optionals
 options
 optometers
+opts
 opusculum
 opuses
 or
@@ -24784,6 +24804,7 @@ orchestrates
 orchestrating
 orchestrators
 orchidaceous
+orchids
 orchil
 orcinol
 order
@@ -27840,6 +27861,7 @@ portionless
 portrayed
 portraying
 portress
+portside
 posada
 pose
 posed
@@ -30634,6 +30656,7 @@ remodeling
 remodelling
 remoistens
 remolades
+remolds
 remonstrate
 remonstration
 remonstrator
@@ -33208,6 +33231,7 @@ shelve
 shelved
 shelves
 shelving
+shenanigans
 sheol
 shepherdesses
 sheqalim
@@ -33439,6 +33463,7 @@ shutterless
 shuttle
 shuttlecock
 shuttlecocking
+shuttled
 shvartze
 shvartzes
 shylock
@@ -33745,6 +33770,7 @@ skippered
 skippering
 skippets
 skirmisher
+skirred
 skirrs
 skirters
 skirtless
@@ -34450,6 +34476,7 @@ southernnesses
 southings
 southland
 souths
+southwestern
 southwestward
 souvenirs
 sovietization
@@ -35730,6 +35757,7 @@ submittal
 submittals
 submitted
 subnational
+subnetworks
 subnuclear
 suboptimization
 suboptimizes
@@ -35829,6 +35857,7 @@ subtopia
 subtopic
 subtorrid
 subtotal
+subtrahend
 subtreasury
 subtrends
 subtribe
@@ -37897,6 +37926,7 @@ transgressive
 transgressor
 transhipping
 transience
+transiencies
 transients
 transilluminate
 transitions
@@ -38135,6 +38165,7 @@ trillers
 trilling
 trillion
 trillionth
+trillionths
 trillium
 trilobal
 trilobed
@@ -38927,6 +38958,7 @@ underdosing
 undereats
 underestimated
 underestimates
+underestimating
 underestimation
 underexposes
 underexposure
@@ -39141,6 +39173,7 @@ unhallow
 unhandled
 unhands
 unhandsome
+unhandy
 unhanging
 unharmed
 unharnessed
@@ -40540,6 +40573,7 @@ wardens
 wardenship
 warding
 wardress
+wardrobes
 wardships
 warehousers
 wareroom
@@ -40733,6 +40767,7 @@ weighted
 weightiness
 weightinesses
 weiner
+weir
 weird
 weirdies
 weirding
