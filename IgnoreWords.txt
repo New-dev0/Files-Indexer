@@ -362,6 +362,7 @@ adhesiveness
 adhesivenesses
 adhibit
 adieux
+adit
 adjacencies
 adjective
 adjectively
@@ -2396,6 +2397,7 @@ automatic
 automatically
 automaticities
 automating
+automation
 automatized
 automatizes
 automobiles
@@ -3535,6 +3537,7 @@ biohazard
 biologist
 biolytic
 biomarkers
+biomaterials
 biomathematics
 biome
 biomes
@@ -4837,6 +4840,7 @@ cabbaging
 cabbalist
 cabbed
 cabbies
+cabdrivers
 cabers
 cabestros
 cabezones
@@ -7479,6 +7483,7 @@ consisted
 consistences
 consistent
 consociate
+consociational
 consolation
 consolidated
 consolidates
@@ -7556,6 +7561,7 @@ contemplate
 contemplatively
 contemplatives
 contemplators
+contemporaneity
 contempt
 contemptibility
 contemptuously
@@ -7901,6 +7907,7 @@ corulers
 corundums
 coruscant
 coruscated
+coruscates
 corvids
 corvinas
 corybantes
@@ -8914,6 +8921,7 @@ dampnesses
 damselflies
 dandiacal
 dandified
+dandle
 dandlers
 dandling
 daneworts
@@ -10605,6 +10613,7 @@ ditchdiggers
 ditchers
 ditheisms
 dithered
+dithering
 dithers
 ditsinesses
 dittoed
@@ -11828,6 +11837,7 @@ empurpling
 ems
 emu
 emulating
+emulations
 emulators
 emulous
 emulsification
@@ -11983,6 +11993,7 @@ enfolders
 enforceable
 enforced
 enforcements
+enforcer
 enforces
 enframed
 enframement
@@ -13484,6 +13495,7 @@ fiancee
 fianchettoed
 fianchettos
 fiars
+fiascoes
 fiascos
 fibber
 fiberglassed
@@ -13552,6 +13564,7 @@ filched
 filches
 file
 filefishes
+filename
 files
 filets
 filiates
@@ -15092,6 +15105,7 @@ genteelnesses
 gentes
 gentian
 gentiles
+gentilesses
 gentlemanliness
 gentlemanly
 gentlemen
@@ -15163,6 +15177,7 @@ germinability
 germinal
 germinant
 germiness
+germinesses
 gerontocratic
 gerontocrats
 gerontologists
@@ -15195,6 +15210,7 @@ ghettoes
 ghettoizes
 ghettoizing
 ghosted
+ghostier
 ghostliest
 ghostly
 ghostwriting
@@ -15429,6 +15445,7 @@ glossal
 glossator
 glossators
 glossemes
+glossiest
 glossinas
 glossiness
 glossitis
@@ -17858,6 +17875,7 @@ imitativenesses
 imitator
 immaculate
 immaculately
+immane
 immanent
 immaterialisms
 immaterialists
@@ -19307,6 +19325,7 @@ iterating
 iteration
 iterations
 itinerary
+its
 itself
 ivermectins
 ivories
@@ -19354,6 +19373,7 @@ jaguar
 jaguarondi
 jaguarondis
 jailing
+jailor
 jalap
 jalapenos
 jaloppy
@@ -20786,6 +20806,7 @@ limnologies
 limnologist
 limns
 limonitic
+limpas
 limpest
 limpet
 limpets
@@ -20942,6 +20963,7 @@ livers
 liverwurst
 liverwursts
 liverymen
+lividly
 lividnesses
 liviers
 livings
@@ -21698,6 +21720,7 @@ maremma
 margarites
 margays
 margented
+marginal
 marginalities
 marginalizes
 marginalizing
@@ -23764,6 +23787,7 @@ myxedematous
 myxoma
 myxomycete
 nabbing
+nabis
 naboberies
 nabobesses
 nabobish
@@ -25830,6 +25854,7 @@ overconfident
 overconsume
 overconsuming
 overcontrolling
+overcook
 overcool
 overcooling
 overcools
@@ -27484,6 +27509,7 @@ photographic
 photographs
 photoinduction
 photojournalism
+photojournalist
 photokineses
 photolysis
 photolyzable
@@ -29575,6 +29601,7 @@ publicizes
 publisher
 pucker
 puckered
+puckeriest
 puckish
 puddlers
 puddlier
@@ -33251,6 +33278,7 @@ scungilli
 scunnered
 scuppaugs
 scuppered
+scuppernong
 scuppernongs
 scurfier
 scurfiest
@@ -37681,6 +37709,7 @@ temped
 tempehs
 temperas
 temperate
+tempested
 tempestuous
 templars
 template
@@ -38001,6 +38030,7 @@ thole
 thongs
 thoracotomy
 thorium
+thorn
 thornback
 thornbushes
 thornier
@@ -39009,6 +39039,7 @@ tromps
 tronas
 trone
 trones
+troop
 trophallaxis
 trophies
 trophoblast
@@ -39567,6 +39598,7 @@ uncatchy
 uncaused
 uncelebrated
 unceremonious
+unceremoniously
 uncertainly
 uncertainnesses
 unchain
@@ -40571,6 +40603,7 @@ utopianisms
 utopisms
 utopistic
 utricles
+utter
 utterance
 uvarovite
 uveitic
@@ -41189,6 +41222,7 @@ voluptuously
 volutes
 volutins
 volvox
+volvulus
 vomicae
 vomiter
 vomito
@@ -42449,6 +42483,7 @@ zorilla
 zorillas
 zorillo
 zouave
+zouks
 zounds
 zwitterion
 zygomata
