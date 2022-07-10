@@ -1324,6 +1324,7 @@ annulus
 annuluses
 annunciate
 annunciating
+annunciatory
 anodized
 anodizing
 anodynes
@@ -1691,6 +1692,7 @@ appendicular
 appends
 apperceive
 apperceived
+appertained
 appestat
 appestats
 appetency
@@ -4363,6 +4365,7 @@ bristling
 britches
 britt
 brittanias
+brittlenesses
 brittlest
 brittling
 broach
@@ -5544,6 +5547,7 @@ cellulites
 cellulitis
 celluloses
 cellulous
+celosia
 celts
 cembalo
 cement
@@ -6195,6 +6199,7 @@ ciboules
 cicadas
 cicatrization
 cicatrizing
+cichlid
 cigaret
 cigars
 cigs
@@ -7375,6 +7380,7 @@ conscripted
 conscriptions
 consecratory
 consecutive
+consecutiveness
 consent
 consented
 consents
@@ -7920,6 +7926,7 @@ counterplayer
 counterplays
 counterplot
 counterpointing
+counterpoises
 counterpoising
 counterpose
 counterposed
@@ -8474,6 +8481,7 @@ cumbersomeness
 cumbrous
 cumin
 cumquat
+cumquats
 cumulates
 cumulation
 cumulations
@@ -12518,6 +12526,7 @@ eventide
 eventuated
 everlastingly
 everlastingness
+everyday
 everymen
 everywhere
 evicted
@@ -12864,6 +12873,7 @@ extrapyramidal
 extravagance
 extravagancy
 extravagates
+extravasate
 extravasated
 extravasates
 extravehicular
@@ -12977,6 +12987,7 @@ faintest
 faintish
 faints
 fair
+faired
 fairgoers
 fairground
 fairishly
@@ -13652,6 +13663,7 @@ flashcard
 flashed
 flasher
 flashgun
+flashier
 flashiness
 flashings
 flashlights
@@ -16199,6 +16211,7 @@ hanks
 hanseatic
 hanselled
 hanselling
+hansom
 hanting
 haole
 hap
@@ -17261,6 +17274,7 @@ humitures
 hummer
 hummocks
 humongous
+humored
 humorists
 humorlessly
 humorlessness
@@ -17991,6 +18005,7 @@ inchoateness
 inchoatives
 inchworm
 incinerate
+incinerated
 incinerates
 incipit
 incisal
@@ -18033,6 +18048,8 @@ incompletely
 incompressible
 inconceivably
 inconformity
+incongruence
+incongruity
 inconnu
 inconnus
 inconscient
@@ -24077,6 +24094,7 @@ nonbetting
 nonbinary
 nonbiologically
 nonbiologists
+nonbiting
 nonbodies
 nonbonded
 nonbrand
@@ -27550,6 +27568,7 @@ pisolites
 pisoliths
 pistareen
 pistareens
+pistole
 pistolling
 pistons
 pitapat
@@ -28274,6 +28293,7 @@ poulterer
 poulticed
 poulticing
 poultry
+poultrymen
 poults
 pounced
 pouncer
@@ -28541,10 +28561,12 @@ preload
 prelocate
 prelocates
 prelude
+preludial
 preluding
 prelusory
 preman
 premanufactured
+premaritally
 premarketing
 premature
 prematureness
@@ -29876,6 +29898,7 @@ rainmaker
 rainout
 rainouts
 rainproof
+rainproofed
 rainspouts
 rainwater
 raised
@@ -30636,6 +30659,7 @@ refractometers
 refractometric
 refracts
 refrained
+refrainer
 refrangibility
 refrangible
 refreeze
@@ -30796,6 +30820,7 @@ reinstitute
 reinsurance
 reinsurances
 reinsures
+reintegration
 reintegrations
 reinters
 reintroduction
@@ -31227,6 +31252,7 @@ resembled
 resends
 resensitize
 reserve
+reservedly
 reserviced
 reservicing
 reserving
@@ -32737,6 +32763,7 @@ schoolroom
 schoolwork
 schottisches
 schrod
+schtick
 schticks
 schuss
 schussboomer
@@ -33206,6 +33233,7 @@ sennits
 senopia
 senor
 senoritas
+senors
 sensate
 sensately
 sensating
@@ -33613,6 +33641,7 @@ shires
 shirk
 shirking
 shirrings
+shirtdress
 shirtdresses
 shirting
 shirtmaker
@@ -33886,6 +33915,7 @@ silence
 silences
 sileni
 silent
+silently
 silesias
 silhouetting
 silicification
@@ -35986,6 +36016,7 @@ subcounties
 subcultured
 subcutis
 subcutises
+subdebs
 subdepartment
 subdevelopment
 subdevelopments
@@ -39727,6 +39758,7 @@ unpliable
 unpliant
 unplowed
 unpopularities
+unprecedented
 unpremeditated
 unpressured
 unpressurized
@@ -40209,6 +40241,7 @@ valiancy
 valiant
 valiantly
 validating
+validity
 valises
 valleculae
 valonia
@@ -41394,6 +41427,7 @@ winced
 wincer
 winch
 winched
+winching
 windages
 windblast
 windburnt
@@ -41658,6 +41692,7 @@ wrapped
 wrapping
 wrasse
 wrasses
+wrassled
 wrastled
 wrath
 wrathiest
