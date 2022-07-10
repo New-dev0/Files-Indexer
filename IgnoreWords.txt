@@ -2157,6 +2157,7 @@ astrodomes
 astrological
 astrometric
 astrometries
+astronaut
 astronautics
 astronomer
 astronomical
@@ -2788,6 +2789,7 @@ barium
 barkeep
 barkers
 barkiest
+barleys
 barmaid
 barman
 barmy
@@ -3246,6 +3248,7 @@ benzidines
 benzidins
 benzoates
 benzocaines
+benzofurans
 benzoic
 benzoins
 benzole
@@ -3451,6 +3454,7 @@ billabongs
 billboarded
 billbugs
 billets
+billfishes
 billhead
 billiard
 billies
@@ -3512,6 +3516,7 @@ biographic
 biographically
 biohazard
 biologist
+biolytic
 biomarkers
 biomathematics
 biome
@@ -4976,6 +4981,7 @@ camarillas
 camases
 camber
 cambia
+cambist
 cambiums
 cambogia
 cambogias
@@ -7088,6 +7094,7 @@ companying
 comparator
 comparison
 compartment
+compartmenting
 compassable
 compassionated
 compassionating
@@ -9676,6 +9683,7 @@ desmid
 desmoids
 desolators
 desorb
+despatch
 desperateness
 despicable
 despised
@@ -9964,6 +9972,7 @@ die
 dieback
 diehards
 dieing
+dieldrins
 diemaker
 dienes
 dieoff
@@ -14236,6 +14245,7 @@ fortitudes
 fortnightlies
 fortressed
 fortresses
+fortunatenesses
 fortune
 fortuned
 fortuning
@@ -14627,6 +14637,7 @@ furuncle
 furuncles
 fusaria
 fuse
+fused
 fusees
 fuselage
 fusels
@@ -17821,6 +17832,7 @@ immortalizer
 immortally
 immovables
 immunises
+immunized
 immunoblot
 immunoblots
 immunoblotting
@@ -19387,6 +19399,7 @@ jewelries
 jewfish
 jezail
 jezails
+jiao
 jibbed
 jibber
 jibbers
@@ -20385,6 +20398,7 @@ led
 lederhosen
 ledger
 ledgy
+leeboard
 leech
 leek
 leer
@@ -20752,6 +20766,7 @@ lipins
 lipogeneses
 lipoid
 lipolytic
+lipotropies
 lippened
 lippers
 lipreading
@@ -20795,6 +20810,7 @@ lithemia
 lithenesses
 lither
 lithic
+lithified
 lithifies
 lithiums
 lithograph
@@ -22198,6 +22214,7 @@ methodised
 methodising
 methodist
 methodized
+methodologist
 methoxides
 methoxy
 methoxyl
@@ -23677,6 +23694,7 @@ nails
 nainsooks
 naissance
 naiveness
+naivenesses
 naivete
 naivetes
 naiveties
@@ -26200,6 +26218,7 @@ paleozoologists
 paler
 palestra
 palestrae
+palestras
 palette
 palfrey
 palier
@@ -27588,6 +27607,7 @@ pinata
 pinballed
 pinch
 pinchbug
+pinchcock
 pinchecks
 pinched
 pinchpenny
@@ -28249,6 +28269,7 @@ portieres
 porting
 portion
 portionless
+portions
 portrayed
 portraying
 portress
@@ -29656,6 +29677,7 @@ pyramiding
 pyranosides
 pyrenes
 pyrethrin
+pyrexes
 pyrexic
 pyrheliometric
 pyric
@@ -30138,6 +30160,7 @@ rationales
 rationalists
 rationalities
 rationalizes
+rationed
 rations
 ratites
 ratlike
@@ -30538,6 +30561,7 @@ recursion
 recursions
 recurvate
 recusals
+recusant
 recusants
 recused
 recut
@@ -32200,6 +32224,7 @@ routinizes
 roving
 row
 rowable
+rowan
 rowanberry
 rowboats
 rowdiest
@@ -32331,6 +32356,7 @@ rusticities
 rustles
 rustproof
 rustproofed
+rusty
 rutabaga
 rutherfordium
 ruthless
@@ -34096,6 +34122,7 @@ simplicial
 simplifying
 simplisms
 simulacrum
+simulacrums
 simulant
 simulated
 simulations
@@ -36018,9 +36045,11 @@ stripteaser
 stripteasers
 stripy
 strive
+strobe
 strobes
 strobila
 strobilae
+strobilation
 strobilations
 strobilus
 stroboscopic
@@ -36371,6 +36400,7 @@ subtilenesses
 subtilin
 subtilins
 subtilisins
+subtilizations
 subtitling
 subtler
 subtlest
@@ -37966,6 +37996,7 @@ tikka
 til
 tilaks
 tilde
+tilefishes
 tiler
 tiling
 tillering
@@ -40559,6 +40590,7 @@ veganism
 vegetable
 vegetal
 vegetarian
+vegetarianisms
 vegetarians
 vegetates
 vegetating
@@ -40875,6 +40907,7 @@ visionless
 visit
 visitable
 visitant
+visitation
 visited
 visiting
 visored
@@ -41367,6 +41400,7 @@ weldor
 welkin
 well
 wellaway
+wellcurb
 wellies
 wellsites
 welshing
@@ -42020,6 +42054,7 @@ yeaned
 yeaning
 yearbook
 yearend
+yearn
 yeasayer
 yeasayers
 yecch
