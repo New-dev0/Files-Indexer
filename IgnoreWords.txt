@@ -1319,6 +1319,7 @@ annal
 annalist
 annalists
 annals
+annas
 annatto
 annelid
 annelids
@@ -5373,6 +5374,7 @@ cartographers
 cartographies
 cartography
 cartoon
+cartoonish
 cartoonists
 cartoonlike
 carts
@@ -5602,6 +5604,7 @@ cell
 cellar
 cellarage
 cellarette
+cellarway
 cellobiose
 cellophanes
 cellphones
@@ -7255,6 +7258,7 @@ concepts
 conceptualise
 conceptualists
 conceptuality
+conceptualize
 conceptualized
 conceptually
 conceptus
@@ -7275,6 +7279,7 @@ concierge
 conciliar
 conciliate
 conciliated
+conciliation
 conciliators
 concisenesses
 concluding
@@ -10371,6 +10376,7 @@ disenable
 disenchanters
 disenchantingly
 disenchants
+disencumbers
 disendowed
 disenfranchise
 disenfranchised
@@ -13223,6 +13229,7 @@ fantoccini
 fantod
 fantods
 fantom
+fanwise
 fanzine
 fanzines
 faradaic
@@ -14300,6 +14307,7 @@ forlornness
 formable
 formaldehydes
 formalised
+formalize
 formalnesses
 formals
 formats
@@ -14457,6 +14465,7 @@ freakout
 freaks
 freckles
 frecklier
+freckliest
 free
 freebases
 freebee
@@ -14781,6 +14790,7 @@ gabs
 gadgetries
 gadgetry
 gadid
+gadolinites
 gadroon
 gadroons
 gadwalls
@@ -15886,6 +15896,7 @@ greying
 greylag
 gridder
 gridders
+griddling
 gridlocking
 grief
 grieved
@@ -17644,6 +17655,7 @@ hypergol
 hypergolic
 hypergolically
 hypergols
+hyperimmunize
 hyperimmunizing
 hyperinvolution
 hyperkeratosis
@@ -18117,6 +18129,7 @@ improvised
 improvisers
 improvs
 imprudently
+impudency
 impudently
 impugn
 impugned
@@ -21931,6 +21944,7 @@ matsah
 matsutakes
 matt
 matte
+mattery
 mattin
 mattings
 mattins
@@ -22099,6 +22113,7 @@ megalomaniacs
 megalomanias
 megalomanic
 megalopolises
+megalops
 megalopses
 megaplexes
 megapod
@@ -23760,6 +23775,7 @@ muttering
 muttonfishes
 mutualistic
 mutualize
+mutualizes
 muzjiks
 muzzler
 myalgia
@@ -25952,6 +25968,7 @@ overencouraged
 overencourages
 overenrolled
 overentertained
+overestimate
 overestimated
 overestimates
 overestimation
@@ -27768,6 +27785,7 @@ pilau
 pileate
 pileous
 piles
+pilferages
 pilfered
 pilferers
 pilgrimages
@@ -28210,6 +28228,7 @@ poetless
 pogeys
 pogonips
 pogonophorans
+pogromed
 pogroming
 pogromist
 poh
@@ -30331,6 +30350,7 @@ rare
 rarefactions
 rarefier
 rareness
+rarer
 rareripes
 rares
 rasbora
@@ -32157,6 +32177,7 @@ rigidity
 rigor
 rigorism
 rigorisms
+rigorist
 rigorousness
 rigorousnesses
 rijstafels
@@ -32307,6 +32328,7 @@ rom
 romaine
 romancing
 romanises
+romanizations
 romanos
 romans
 romanticises
@@ -33598,6 +33620,7 @@ semiraw
 semises
 semisolids
 semitonal
+semitruck
 semitrucks
 semiurban
 semivowels
@@ -33759,6 +33782,7 @@ servantless
 servants
 served
 service
+services
 servicing
 servitudes
 servo
@@ -34293,6 +34317,7 @@ significant
 signifieds
 signifiers
 signifies
+signing
 signior
 signiories
 signora
@@ -34585,6 +34610,7 @@ slatiness
 slaughterer
 slaughterers
 slaughtering
+slaughterous
 slaughters
 slaved
 slaveholding
@@ -34901,6 +34927,7 @@ sniveling
 snivellers
 snob
 snobbery
+snobby
 snood
 snooded
 snooker
@@ -35128,6 +35155,7 @@ sonants
 sondes
 sone
 songbirds
+songfests
 songfulness
 songless
 songsmith
@@ -36196,6 +36224,7 @@ stratocracies
 stratocracy
 stratovolcanoes
 stratum
+stratus
 stravaig
 stravaigs
 straw
@@ -36886,6 +36915,7 @@ superelite
 supereminences
 supereminent
 superette
+superfatted
 superficial
 superfine
 superfluousness
@@ -37451,6 +37481,7 @@ talcking
 talcs
 talcums
 talebearer
+talented
 talentless
 talesmen
 taleysim
@@ -37908,6 +37939,7 @@ testable
 testaceans
 testees
 testifiers
+testimonials
 testiness
 testing
 testoons
@@ -40042,6 +40074,7 @@ unhatched
 unhealthiest
 unhealthinesses
 unhelms
+unheralded
 unheroic
 unhewn
 unhirable
@@ -41099,6 +41132,7 @@ vimen
 vina
 vinal
 vinasse
+vinca
 vincible
 vincula
 vindications
@@ -41483,6 +41517,7 @@ warmongerings
 warmouth
 warmups
 warped
+warpers
 warplane
 warranted
 warranter
