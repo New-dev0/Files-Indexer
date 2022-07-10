@@ -892,6 +892,7 @@ aloof
 aloofly
 aloofness
 alpenglow
+alpenhorns
 alpenstock
 alphabet
 alphabetize
@@ -3970,6 +3971,7 @@ bonefishing
 bonehead
 boneheaded
 boneset
+bong
 bongo
 bongoes
 bongoist
@@ -4778,6 +4780,7 @@ byres
 byrled
 byroad
 bystreet
+bystreets
 bytes
 bywork
 byworks
@@ -6528,6 +6531,7 @@ clubhauling
 clubhead
 clubroot
 clubs
+clumber
 clumping
 clumsiest
 clumsinesses
@@ -6564,6 +6568,7 @@ coaliest
 coalified
 coalifying
 coalitions
+coalshed
 coaly
 coalyard
 coamings
@@ -6917,6 +6922,7 @@ colorizes
 colorless
 colorlessnesses
 colormen
+colors
 colossal
 colossi
 colostomies
@@ -7000,6 +7006,7 @@ commercialities
 commercialized
 commies
 comminuting
+comminutions
 commissariat
 commissariats
 commissars
@@ -8543,6 +8550,7 @@ curr
 curragh
 currant
 curriculums
+currieries
 currycombing
 currying
 cursers
@@ -8766,6 +8774,7 @@ dahabeahs
 dahabiah
 dahabieh
 dahabiehs
+dahl
 dahls
 daidzein
 daiker
@@ -8830,6 +8839,7 @@ dangerous
 dangerously
 dangers
 dangliest
+dangling
 dankest
 dans
 dap
@@ -10783,6 +10793,7 @@ dowel
 doweled
 dowelling
 dowering
+dowerless
 dowers
 dowery
 dowie
@@ -11540,6 +11551,7 @@ elicit
 elicitation
 elided
 eligible
+eliminates
 eliminations
 eliminators
 elint
@@ -11736,6 +11748,7 @@ enamels
 enamored
 enamoured
 enantiomorphism
+enantiomorphous
 enatic
 encampment
 encapsulated
@@ -12736,6 +12749,7 @@ expatiated
 expatriate
 expatriating
 expatriatisms
+expecters
 expecting
 expedience
 expediences
@@ -12943,6 +12957,7 @@ facsimiles
 fact
 faction
 factionally
+factious
 factoidal
 factoids
 factorable
@@ -13927,6 +13942,7 @@ foamy
 fobbed
 focalizations
 focalizes
+focusless
 foe
 foehn
 foemen
@@ -16082,6 +16098,7 @@ haint
 hairball
 hairballs
 haircut
+haircuts
 hairdressings
 hairinesses
 hairlessnesses
@@ -17286,6 +17303,7 @@ humped
 humper
 humph
 humpless
+humungous
 hunch
 hunchbacks
 hunched
@@ -17358,6 +17376,7 @@ hydrillas
 hydrocarbons
 hydrocephaluses
 hydrocracked
+hydrocracker
 hydrocrackings
 hydrocracks
 hydrofoil
@@ -18059,6 +18078,7 @@ inconsonances
 inconsonant
 inconspicuously
 inconstancy
+incontestably
 incontinent
 inconvenience
 inconveniences
@@ -19325,6 +19345,7 @@ jigsawing
 jihad
 jillions
 jimmies
+jimminy
 jimper
 jimpest
 jimsonweed
@@ -20086,6 +20107,7 @@ langsynes
 languages
 languette
 languettes
+languidnesses
 languishers
 languorously
 languors
@@ -23886,6 +23908,7 @@ newsboys
 newscasts
 newsdealers
 newsdesk
+newsdesks
 newsgirl
 newsgroups
 newshound
@@ -26393,6 +26416,7 @@ parmigiano
 parochial
 parodistic
 parodoi
+parodos
 paroled
 paroling
 parols
@@ -26988,6 +27012,7 @@ perturbational
 perturbations
 perturbed
 perturber
+perturbers
 pertusses
 peruke
 perusers
@@ -31652,6 +31677,7 @@ reweld
 rewetted
 rewiden
 rewire
+rewired
 rewires
 rewiring
 rewoke
@@ -32218,6 +32244,7 @@ sabayons
 sabbath
 sabbats
 sabe
+sabermetrician
 sabin
 sabot
 saboteur
@@ -34238,6 +34265,7 @@ slightnesses
 slily
 slim
 slimeball
+slimeballs
 slimier
 slimly
 slimmed
@@ -34461,6 +34489,7 @@ snarl
 snarler
 snarlers
 snarliest
+snatcher
 snatches
 snatching
 snath
@@ -35730,6 +35759,7 @@ storybook
 storybooks
 storying
 stotin
+stotted
 stoup
 stourie
 stoury
@@ -36470,6 +36500,7 @@ supergrowth
 superhelices
 superhelix
 superhighway
+superhit
 superhits
 superhumanities
 superhype
@@ -36913,6 +36944,7 @@ synthesize
 synthesizes
 synthpop
 syntony
+synura
 syphers
 syphoning
 syren
@@ -37861,6 +37893,7 @@ tint
 tinted
 tip
 tipcart
+tipis
 tippable
 tipped
 tippet
@@ -38759,6 +38792,7 @@ tuberculars
 tuberculated
 tuberculoses
 tuberculous
+tuberoid
 tuberous
 tubeworks
 tubfuls
@@ -38799,6 +38833,7 @@ tun
 tuna
 tunable
 tunableness
+tune
 tuneable
 tuner
 tuneups
