@@ -324,6 +324,7 @@ acylate
 acylated
 ad
 adamance
+adamant
 adapt
 adaptable
 adaptation
@@ -1037,6 +1038,7 @@ amines
 amino
 aminoacidurias
 amirates
+amitotic
 ammine
 ammino
 ammoniacal
@@ -1308,6 +1310,7 @@ ankus
 ankylosaurs
 ankylosauruses
 ankylose
+ankyloses
 ankylosis
 annal
 annalist
@@ -3164,6 +3167,7 @@ bejewel
 bejeweled
 bejewels
 bejumbles
+beknight
 beknot
 beknots
 belabors
@@ -3304,6 +3308,7 @@ beseem
 beseeming
 beseems
 beshames
+beshaming
 beshouts
 beshrewing
 beshroud
@@ -3775,6 +3780,7 @@ blinkard
 blisses
 blissfully
 blister
+blistering
 blithering
 blithers
 blithesome
@@ -4310,6 +4316,7 @@ breadless
 breadnuts
 breads
 breadstuffs
+breadthwise
 breadwinning
 breakages
 breaker
@@ -5433,6 +5440,7 @@ catalogues
 catalos
 catalpa
 catalyses
+catalysis
 catalyst
 catalysts
 catalytic
@@ -5747,6 +5755,7 @@ chambray
 chameleonic
 chameleonlike
 chamfered
+chamferer
 chamfrons
 chamise
 chamiso
@@ -5908,6 +5917,7 @@ cheekier
 cheekiest
 cheekily
 cheeking
+cheepers
 cheerers
 cheerfully
 cheerfulness
@@ -6843,6 +6853,7 @@ coilers
 coin
 coinable
 coincides
+coinfected
 coinferred
 coinfers
 coinhere
@@ -8241,6 +8252,7 @@ creolize
 creosol
 creosols
 crepitate
+crepitated
 crepuscles
 crepuscular
 crescendi
@@ -8847,6 +8859,7 @@ dahl
 dahls
 daidzein
 daiker
+daikered
 daikering
 daikers
 dailinesses
@@ -11146,6 +11159,7 @@ ducky
 ducted
 ductile
 ducting
+ductwork
 duddy
 dudgeons
 due
@@ -17575,6 +17589,7 @@ hypercautious
 hypercorrectly
 hypercritical
 hypercube
+hyperemias
 hyperesthetic
 hypereutectoid
 hyperfine
@@ -18058,6 +18073,7 @@ impudently
 impugn
 impugned
 impugning
+impulsed
 impulsion
 impulsive
 impulsiveness
@@ -18244,6 +18260,7 @@ incur
 incurables
 incuriosity
 incurrence
+incursion
 incurvating
 incurves
 incurving
@@ -18290,6 +18307,7 @@ indicants
 indicates
 indications
 indicatives
+indicators
 indicia
 indifferent
 indifferently
@@ -20349,6 +20367,7 @@ latte
 latter
 latu
 lauan
+lauans
 laudanum
 laudative
 laudator
@@ -23454,6 +23473,7 @@ mudder
 muddiest
 muddly
 muddy
+mudfishes
 mudflow
 mudguards
 mudpuppies
@@ -23978,6 +23998,7 @@ neophilia
 neophyte
 neophytes
 neoplastic
+neoplasticism
 neoplasticisms
 neoprenes
 neorealisms
@@ -24203,6 +24224,7 @@ nitrosyls
 nitrous
 nits
 nittier
+nittiest
 nixies
 nizamates
 nob
@@ -24779,6 +24801,7 @@ nymph
 nymphalid
 nymphets
 nympholepsies
+nymphomanias
 nystagmic
 nystagmuses
 oafish
@@ -25901,6 +25924,7 @@ overgild
 overgilding
 overgilds
 overglamorize
+overglamorizing
 overglaze
 overgoads
 overgrazed
@@ -26015,6 +26039,7 @@ overrode
 overrude
 overruffed
 overrule
+overruled
 overrunning
 overs
 oversale
@@ -26182,6 +26207,7 @@ oysters
 ozocerite
 ozokerite
 ozonations
+ozonide
 ozonides
 ozonise
 ozonize
@@ -26385,6 +26411,7 @@ pancreozymin
 pandemic
 pandemonium
 pandered
+panderers
 pandit
 pandoors
 pandora
@@ -29936,6 +29963,7 @@ querists
 quern
 querulous
 querulousness
+question
 questioned
 quetzals
 queues
@@ -32496,6 +32524,7 @@ saccharases
 saccharic
 saccharified
 sacculations
+saccule
 sacerdotally
 sachemic
 sachems
@@ -33569,6 +33598,7 @@ sequel
 sequelae
 sequelizes
 sequels
+sequencer
 sequencing
 sequency
 sequential
@@ -36031,6 +36061,7 @@ stoury
 stoutening
 stoutness
 stover
+stovers
 stowable
 stowaway
 stowed
@@ -37411,6 +37442,7 @@ tantalites
 tantalize
 tantalizing
 tantalum
+tantivies
 tantrism
 tanuki
 tanzanite
@@ -37510,9 +37542,11 @@ taximeter
 taximeters
 taxiways
 taxol
+taxonomically
 taxpaying
 tazza
 tazzas
+tazze
 tchotchkes
 teaberry
 teaboxes
@@ -39325,6 +39359,7 @@ tzetze
 tzetzes
 tzigane
 tzitzit
+tzuris
 ubiquinone
 ubiquitous
 ubiquitousness
