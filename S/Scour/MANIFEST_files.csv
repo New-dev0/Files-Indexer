@@ -1,0 +1,4 @@
+kinetic-dvd-amd64.manifest - Ubuntu CDimage,https://cdimage.ubuntu.com/ubuntustudio/dvd/current/kinetic-dvd-amd64.manifest
+cdimage.ubuntu.com/ubuntustudio/bionic/dvd/pending...,http://cdimage.ubuntu.com/ubuntustudio/bionic/dvd/pending/bionic-dvd-amd64.manifest
+https://mirrors.aliyun.com/centos-vault/8.0.1905/i...,https://mirrors.aliyun.com/centos-vault/8.0.1905/isos/ppc64le/CentOS-8-ppc64le-1905-dvd1.iso.manifest
+https://mirrors.aliyun.com/centos/8/isos/x86_64/Ce...,https://mirrors.aliyun.com/centos/8/isos/x86_64/CentOS-8.5.2111-x86_64-dvd1.iso.manifest

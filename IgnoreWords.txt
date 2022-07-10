@@ -516,6 +516,7 @@ affective
 affectivities
 affectless
 affenpinschers
+afferently
 affiance
 affiche
 affiches
@@ -1388,6 +1389,7 @@ anthelices
 anthelions
 anthelix
 antherid
+antheridial
 antherids
 anthers
 antheses
@@ -2734,6 +2736,7 @@ bandoliers
 bandsaws
 bandshells
 bandwidth
+bandying
 banefully
 bangkok
 bangs
@@ -7366,6 +7369,7 @@ conformism
 conformist
 conformists
 confraternities
+confraternity
 confront
 confrontational
 confrontations
@@ -8415,6 +8419,7 @@ crowders
 crowdy
 crowers
 crowfoot
+crownets
 crows
 cruces
 crucifers
@@ -8986,6 +8991,7 @@ datedness
 dating
 dato
 datura
+daube
 daubers
 daubes
 daubing
@@ -9647,6 +9653,7 @@ depressives
 depressors
 depressurized
 depressurizes
+depressurizing
 deprivations
 deprive
 depriving
@@ -11017,6 +11024,7 @@ dread
 dreadfully
 dreading
 dreadlocks
+dreads
 dreamfully
 dreaming
 dreamlands
@@ -11685,6 +11693,7 @@ eloinment
 elongation
 elope
 eloped
+elopement
 eloper
 eloquences
 eluant
@@ -12401,6 +12410,7 @@ erodibility
 erodible
 eroding
 eros
+erosely
 erosible
 erosional
 erosiveness
@@ -12477,6 +12487,7 @@ espaliering
 espanol
 esparto
 especial
+especially
 esperances
 espiegleries
 esprit
@@ -15871,6 +15882,7 @@ gremials
 gremmie
 grenadiers
 greyhound
+greying
 greylag
 gridder
 gridders
@@ -16494,6 +16506,7 @@ hasten
 hasteners
 hastier
 hasty
+hat
 hatable
 hatboxes
 hatchabilities
@@ -17494,6 +17507,7 @@ hurried
 hurriers
 hursts
 hurt
+hurtless
 hurtling
 hurts
 husbanders
@@ -17923,6 +17937,7 @@ immodest
 immodesty
 immolate
 immolating
+immolations
 immolator
 immoralism
 immoralisms
@@ -18287,6 +18302,7 @@ inculpated
 inculpations
 incumbencies
 incumbency
+incumbent
 incumbents
 incunabula
 incur
@@ -18959,6 +18975,7 @@ interrupts
 intersect
 intersection
 intersegmental
+intersensory
 intersession
 intersessions
 intersex
@@ -20811,6 +20828,7 @@ limekiln
 limelight
 limens
 limericks
+limes
 limina
 limitary
 limitedness
@@ -20955,6 +20973,7 @@ lithospheres
 lithospheric
 lithotomy
 litmus
+litten
 litterateur
 litterbag
 litterbags
@@ -23922,6 +23941,7 @@ naturalisms
 naturalize
 natured
 natures
+naturopathic
 naughtily
 naughtinesses
 naumachies
@@ -24316,6 +24336,7 @@ nomenclatorial
 nominal
 nominalists
 nominating
+nomination
 nominee
 nomistic
 nomogram
@@ -24546,6 +24567,7 @@ nonmodern
 nonmotility
 nonmunicipal
 nonmusics
+nonnationals
 nonnatives
 nonnatural
 nonnecessities
@@ -26241,6 +26263,7 @@ oxygenate
 oxygenated
 oxygenations
 oxygenic
+oxymora
 oxymoronically
 oxymorons
 oxyphiles
@@ -27446,6 +27469,7 @@ phlebograms
 phlebotomists
 phlegmier
 phlegmiest
+phlegmy
 phlogiston
 phlogistons
 phlorizin
@@ -28211,6 +28235,7 @@ poisers
 poisoned
 poisoner
 poisonous
+poisons
 poisonwoods
 poke
 poked
@@ -29794,6 +29819,7 @@ pursuances
 pursuant
 pursue
 pursuer
+pursues
 pursuits
 pursuivants
 purulences
@@ -32683,6 +32709,7 @@ salinizing
 saliva
 salivator
 salivators
+sallets
 salliers
 sallow
 sallowest
@@ -33190,6 +33217,7 @@ scotched
 scotching
 scotia
 scotopia
+scour
 scoured
 scourges
 scouring
@@ -35439,6 +35467,7 @@ spinachy
 spindle
 spindler
 spindlier
+spindrifts
 spined
 spinelessnesses
 spinifexes
@@ -37692,6 +37721,7 @@ telegraphically
 telegraphy
 telekinesis
 telemark
+telemetrically
 teleological
 teleologies
 teleologist
@@ -38739,6 +38769,7 @@ translated
 translators
 transliterated
 transliterates
+translocated
 transmigrated
 transmigrating
 transmigration
@@ -39448,6 +39479,7 @@ ulpan
 ulpanim
 ulsters
 ultimacies
+ultimately
 ultimatenesses
 ultimates
 ultimogeniture
@@ -39598,6 +39630,7 @@ unbowed
 unbracing
 unbraided
 unbraids
+unbreakable
 unbreech
 unbridle
 unbruised
@@ -40323,6 +40356,7 @@ unsonsy
 unsophisticated
 unsounded
 unsoundly
+unsoundness
 unsoured
 unsown
 unspeakably
@@ -41856,6 +41890,7 @@ wildflowers
 wildfowlers
 wildfowlings
 wildfowls
+wilding
 wildings
 wilinesses
 willemite
