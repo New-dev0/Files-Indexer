@@ -970,6 +970,7 @@ ambagious
 ambassadors
 ambeer
 amberinas
+amberjacks
 amberoid
 ambiances
 ambidexterities
@@ -3325,6 +3326,7 @@ beshrouded
 beshrouding
 besiege
 besieger
+besmears
 besmiles
 besmoking
 besmoothed
@@ -3340,6 +3342,7 @@ bespattering
 bespoken
 besprinkled
 bestialities
+bestialized
 bestializing
 bestiary
 besting
@@ -6832,6 +6835,7 @@ cognates
 cognations
 cognises
 cognitional
+cognize
 cognizers
 cognizing
 cognomens
@@ -8149,6 +8153,7 @@ cracknel
 cradler
 cradlers
 cradles
+craft
 craftier
 craftiest
 craftily
@@ -8766,6 +8771,7 @@ cycled
 cycler
 cycleries
 cyclicly
+cycling
 cyclings
 cyclitol
 cyclizes
@@ -9047,6 +9053,7 @@ deaerated
 deaerations
 deaerator
 deaerators
+deaf
 deafened
 deaired
 dealated
@@ -9088,6 +9095,7 @@ debonair
 debonairly
 deboned
 deboning
+debriding
 debriefed
 debs
 debtors
@@ -11759,6 +11767,7 @@ embitter
 embitters
 emblazoned
 emblazoner
+embleming
 emblemize
 emblemized
 emblems
@@ -11930,6 +11939,7 @@ encumbrancer
 encyclic
 encyclical
 encyclics
+encyclopaedia
 encyclopaedic
 encysted
 encysting
@@ -12087,6 +12097,7 @@ enows
 enplane
 enplaned
 enquires
+enragedly
 enravished
 enregister
 enregistered
@@ -13676,6 +13687,7 @@ finocchio
 finocchios
 fioraturae
 fipple
+fir
 firearms
 fireback
 firebacks
@@ -15042,6 +15054,7 @@ gayeties
 gaynesses
 gazars
 gaze
+gazebos
 gazehounds
 gazelle
 gazelles
@@ -15403,6 +15416,7 @@ glaucous
 glazier
 glaziery
 glazily
+gleamer
 gleamier
 gleamy
 gleanable
@@ -15688,6 +15702,7 @@ gourmandisms
 gourmet
 gourmets
 goutily
+goutinesses
 gouts
 governess
 governessy
@@ -16998,6 +17013,7 @@ hillslope
 hillslopes
 hilt
 hilted
+hilum
 himations
 hims
 hindbrains
@@ -19209,6 +19225,7 @@ irenical
 irides
 iridescences
 iridium
+iridologist
 iridology
 irids
 iring
@@ -22953,6 +22970,7 @@ misprizes
 misprograms
 mispronounced
 mispronounces
+misquote
 misquoters
 misquotes
 misrated
@@ -27894,6 +27912,7 @@ piragua
 piraguas
 piranas
 pirate
+piratic
 piratically
 pirojki
 piroplasma
@@ -28777,6 +28796,7 @@ precipitousness
 precisely
 preciseness
 precisians
+precited
 precleaned
 precleans
 preclearances
@@ -29138,6 +29158,7 @@ prickliness
 pricklinesses
 pricks
 prided
+priedieus
 prier
 priestlinesses
 priestly
@@ -29925,6 +29946,7 @@ pyrolyzers
 pyromaniacal
 pyrometrically
 pyromorphites
+pyrones
 pyronines
 pyrosises
 pyrotechnic
@@ -30427,6 +30449,7 @@ rawest
 rawhided
 rawin
 rawinsondes
+rawly
 rawnesses
 rax
 raxing
@@ -31302,6 +31325,7 @@ remaking
 remanding
 remanence
 remanning
+remanufacture
 remap
 remapping
 remarkable
@@ -31628,6 +31652,7 @@ reseizures
 reselecting
 resell
 resembled
+resend
 resends
 resensitize
 reserve
@@ -31911,6 +31936,7 @@ retronym
 retroreflective
 retroreflectors
 retrospects
+retrousse
 retuning
 returnable
 retwist
@@ -32268,6 +32294,7 @@ roamer
 roamers
 roar
 roaster
+roasters
 roasts
 robbed
 robberies
@@ -32356,6 +32383,7 @@ rooser
 rooses
 root
 rootages
+rootcaps
 rooter
 rootiest
 rootling
@@ -32379,6 +32407,7 @@ roseate
 roseately
 rosefishes
 rosehip
+roselle
 roseolas
 roseries
 roseroot
@@ -32456,6 +32485,7 @@ router
 routes
 routinely
 routing
+routinisms
 routinists
 routinizes
 roving
@@ -32856,6 +32886,7 @@ santera
 santeras
 santimu
 santir
+santonica
 santoor
 sapajous
 sapanwoods
@@ -38149,6 +38180,7 @@ thready
 threap
 threaper
 threateningly
+threatens
 threating
 threats
 threeped
@@ -39220,6 +39252,7 @@ tsarism
 tsatske
 tsetses
 tsks
+tsktsked
 tsunamic
 tsunamis
 tsuris
@@ -41877,6 +41910,7 @@ whosoever
 whump
 whupped
 whups
+wiccans
 wicked
 wickedest
 wickednesses
@@ -42575,6 +42609,7 @@ zoomorphic
 zoonosis
 zoonotic
 zoophilia
+zoophobias
 zoophyte
 zooplankter
 zooplanktons
