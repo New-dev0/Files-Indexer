@@ -865,6 +865,7 @@ alloying
 alls
 allseed
 allseeds
+allspices
 alluding
 alluringly
 allusion
@@ -974,6 +975,7 @@ ambiguousnesses
 ambipolar
 ambisexuality
 ambisexuals
+ambitionless
 ambitions
 ambitiousnesses
 amble
@@ -1893,6 +1895,7 @@ ariboflavinosis
 ariettas
 ariosi
 arise
+arisen
 arithmetical
 armada
 armadas
@@ -2556,6 +2559,7 @@ backflows
 background
 backgrounders
 backgrounds
+backhander
 backhanders
 backhaul
 backhauls
@@ -3017,6 +3021,7 @@ becket
 beckoned
 beckoners
 beckoning
+beclamors
 beclasp
 beclasps
 becloaks
@@ -3800,6 +3805,7 @@ bloodstock
 bloodstones
 bloodstreams
 bloomers
+bloomiest
 blooming
 blooper
 bloopers
@@ -5372,6 +5378,7 @@ casette
 caseworm
 caseworms
 cash
+cashes
 cashing
 cashless
 casimeres
@@ -5476,6 +5483,7 @@ cathedra
 cathepsin
 catheptic
 catheterized
+cathexes
 cathodally
 cathodic
 catholically
@@ -5885,6 +5893,7 @@ checkouts
 checkpoint
 checkpoints
 checkrooms
+checks
 checkup
 checkups
 cheechakos
@@ -6207,6 +6216,7 @@ chuckwalla
 chuddah
 chuddars
 chuffs
+chukka
 chukkas
 chummier
 chumships
@@ -7006,6 +7016,7 @@ comedies
 comedown
 comedy
 comeliest
+comestible
 comet
 comfiness
 comfort
@@ -7017,6 +7028,7 @@ comicality
 comitial
 comities
 commandants
+commandeer
 commanding
 commando
 commands
@@ -14769,6 +14781,7 @@ galliasses
 gallican
 gallicizations
 gallicized
+gallingly
 gallinule
 gallinules
 galliots
@@ -15023,6 +15036,7 @@ genders
 genealogically
 generalises
 generalizable
+generalize
 generalizes
 generation
 generational
@@ -18173,7 +18187,9 @@ inconsistencies
 inconsonances
 inconsonant
 inconspicuously
+inconstancies
 inconstancy
+inconsumably
 incontestably
 incontinent
 inconvenience
@@ -18707,6 +18723,7 @@ integrators
 integuments
 intellective
 intellectively
+intellectualist
 intelligently
 intemperance
 intend
@@ -19262,6 +19279,7 @@ itself
 ivermectins
 ivories
 ivory
+ivylike
 ixias
 ixtles
 izar
@@ -19849,6 +19867,7 @@ kilojoule
 kilolitres
 kilometers
 kilometre
+kilopascal
 kilos
 kilotons
 kilovolts
@@ -21720,6 +21739,7 @@ martyrologist
 martyrologists
 martyrology
 marvel
+mascaraing
 mascarpones
 masculinised
 masculinises
@@ -22430,6 +22450,7 @@ midwinters
 midwives
 midwiving
 miffing
+migg
 mightily
 mightinesses
 mignonette
@@ -22479,6 +22500,7 @@ millennium
 milleped
 millepede
 millepore
+miller
 millers
 millesimal
 millhouses
@@ -24912,6 +24934,7 @@ odious
 odiousnesses
 odiums
 odometers
+odometries
 odonates
 odontoblast
 odontoglossum
@@ -25617,6 +25640,7 @@ outscoop
 outscooping
 outscoring
 outseeing
+outsell
 outshout
 outsidernesses
 outsin
@@ -27872,6 +27896,7 @@ plasmolyzing
 plasmons
 plaster
 plasterboards
+plasterworks
 plasticene
 plasticity
 plastisol
@@ -29104,6 +29129,7 @@ profaneness
 profanenesses
 profaning
 professedly
+professes
 professionalize
 professor
 professorial
@@ -31511,6 +31537,7 @@ resocialized
 resocializes
 resoften
 resojets
+resolders
 resole
 resoled
 resoles
@@ -32134,6 +32161,7 @@ roguishnesses
 rolfer
 rolfers
 rolfing
+rolfs
 rollaway
 roller
 rolling
@@ -32160,6 +32188,7 @@ rooftops
 rookery
 room
 roomed
+roomfuls
 roomie
 roominesses
 rooming
@@ -33748,6 +33777,7 @@ sheepberries
 sheepcot
 sheepdog
 sheepherder
+sheepishnesses
 sheepshanks
 sheerest
 sheering
@@ -33926,6 +33956,7 @@ shopworn
 shoran
 shore
 short
+shorten
 shorthairs
 shorthands
 shortia
@@ -35103,6 +35134,7 @@ spalling
 spambot
 spammed
 spammers
+span
 spancel
 spancelled
 spancelling
@@ -35793,6 +35825,7 @@ stereographed
 stereographic
 stereology
 stereophonic
+stereoscopies
 stereotactic
 stereotaxic
 stereotypical
@@ -36927,6 +36960,7 @@ swaggies
 swagging
 swags
 swallow
+swallowers
 swamp
 swampier
 swampiest
@@ -40508,6 +40542,7 @@ valiantly
 validating
 validity
 valises
+vallation
 valleculae
 valonia
 valor
