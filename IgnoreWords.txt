@@ -399,6 +399,7 @@ admissibilities
 admittance
 admix
 admixt
+admonishment
 admonitions
 adnouns
 adobe
@@ -939,6 +940,7 @@ alumna
 alumstones
 alveolars
 alveolate
+alyssum
 alyssums
 am
 amadavats
@@ -1700,6 +1702,7 @@ appendicular
 appends
 apperceive
 apperceived
+apperceiving
 appertained
 appestat
 appestats
@@ -3174,6 +3177,7 @@ belied
 beliers
 believabilities
 believed
+believer
 believers
 beliquoring
 belleeks
@@ -6207,6 +6211,7 @@ chunkier
 chunking
 churched
 churchgoers
+churchianities
 churchianity
 churchings
 churchlier
@@ -7419,6 +7424,7 @@ consecutive
 consecutiveness
 consent
 consented
+consentingly
 consents
 consequences
 consequent
@@ -7587,6 +7593,7 @@ controverters
 controverts
 contumaciously
 contumacy
+convalescences
 convector
 convened
 convenience
@@ -9013,6 +9020,7 @@ debeards
 debilitation
 debits
 debonair
+debonairly
 deboned
 deboning
 debriefed
@@ -9518,6 +9526,7 @@ deodaras
 deodorization
 deoxidizes
 departing
+department
 departmentally
 departments
 departs
@@ -10467,6 +10476,7 @@ disruptors
 dissaves
 disseated
 dissect
+dissecting
 dissed
 disseisee
 disseize
@@ -11185,6 +11195,7 @@ durning
 durrs
 durst
 dusk
+dusking
 dusks
 dustcover
 dustheaps
@@ -12719,6 +12730,7 @@ exenterates
 exercise
 exercisers
 exercitations
+exergue
 exergues
 exertive
 exes
@@ -12795,6 +12807,7 @@ expatiated
 expatriate
 expatriating
 expatriatisms
+expectedness
 expecters
 expecting
 expedience
@@ -14683,6 +14696,7 @@ gabions
 gables
 gabs
 gadgetries
+gadgetry
 gadid
 gadroon
 gadroons
@@ -17062,6 +17076,7 @@ homolog
 homologated
 homologates
 homologations
+homologic
 homologize
 homologized
 homologizes
@@ -18578,6 +18593,7 @@ insemination
 insensible
 insensitivities
 insentiences
+inserter
 inserting
 inset
 insets
@@ -20504,6 +20520,7 @@ les
 lesbians
 letch
 lethalities
+lethally
 lethargy
 lettermen
 letterpresses
@@ -23299,6 +23316,7 @@ motorize
 motorized
 motorizing
 motorman
+motormen
 mott
 mottling
 motts
@@ -24299,6 +24317,7 @@ nondocumentary
 nondollar
 nondominant
 nondormant
+nondramatic
 nondrip
 nondrying
 noneconomic
@@ -24487,6 +24506,7 @@ nonsubsidized
 nonsuches
 nonsugar
 nonsugars
+nonsuited
 nonsuiting
 nonsyllabic
 nontalkers
@@ -24605,6 +24625,7 @@ noxiously
 noyades
 nozzles
 nth
+nuance
 nuanced
 nubbier
 nubbiness
@@ -25937,6 +25958,7 @@ oversalts
 oversanguine
 oversaturations
 oversave
+overscale
 overscrupulous
 oversecretions
 oversee
@@ -26481,10 +26503,12 @@ parbuckling
 parcel
 parch
 parchesis
+parchment
 pards
 parenchymatous
 parentage
 parentages
+parenterally
 parentheses
 parenthesizes
 parenthesizing
@@ -27478,6 +27502,7 @@ picaras
 picaro
 picaroon
 picarooning
+piccolo
 piceous
 picholine
 picholines
@@ -27717,6 +27742,7 @@ pithead
 pithecanthropi
 pithed
 pithier
+pithiest
 pithiness
 pithy
 pitiable
@@ -31282,6 +31308,7 @@ reprehensible
 reprehensibly
 reprehensive
 representer
+representers
 repress
 represses
 repressible
@@ -34767,6 +34794,7 @@ socializes
 socially
 societally
 society
+sociobiological
 socioeconomic
 sociogram
 sociohistorical
@@ -36522,6 +36550,7 @@ sulfurousnesses
 sulfuryls
 sulked
 sulkiest
+sullener
 sully
 sulphates
 sulphides
@@ -36617,6 +36646,7 @@ superbitches
 superbness
 superbomber
 superbombers
+superbombs
 superbright
 supercabinets
 supercargoes
@@ -37022,6 +37052,7 @@ sympathizer
 sympatico
 sympatric
 sympetalous
+symphonic
 symphonically
 symphonists
 sympodial
@@ -37101,6 +37132,7 @@ synthpop
 syntony
 synura
 syphers
+syphilitics
 syphoning
 syren
 syringas
@@ -37458,6 +37490,7 @@ teguas
 tegumina
 teiglach
 tektites
+telae
 telco
 telecasted
 telecaster
@@ -39974,6 +40007,7 @@ unpunished
 unpurged
 unpuzzle
 unpuzzles
+unpuzzling
 unquelled
 unquestionable
 unquestionably
@@ -41127,6 +41161,7 @@ wainscotted
 wainscottings
 wairs
 waistcoat
+waister
 waisting
 waists
 waitered
