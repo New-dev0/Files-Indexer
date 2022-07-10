@@ -2106,6 +2106,7 @@ associating
 association
 associational
 associationist
+associations
 assoiling
 assoils
 assonantal
@@ -5658,6 +5659,7 @@ cered
 cerements
 ceremonialism
 ceremonialists
+ceremonially
 ceric
 cerises
 ceriums
@@ -6049,6 +6051,7 @@ chittered
 chittering
 chitties
 chivalrous
+chivari
 chivvy
 chlamydes
 chlamydospores
@@ -6996,6 +6999,7 @@ combustible
 combustibles
 combusting
 combustor
+combusts
 comeback
 comedically
 comedies
@@ -7939,6 +7943,7 @@ counselings
 counsellors
 counselorship
 countenancers
+counter
 counterargue
 counterattack
 counterattacks
@@ -9688,6 +9693,7 @@ desiring
 desirously
 desirousnesses
 desktop
+desman
 desmid
 desmoids
 desolators
@@ -10046,6 +10052,7 @@ dihedral
 dikdiks
 dilatancy
 dilatational
+dilate
 dilater
 dilating
 dilation
@@ -11128,6 +11135,7 @@ duennaships
 duet
 dueting
 duettist
+duff
 duffel
 dugouts
 duh
@@ -11329,6 +11337,7 @@ eavesdrop
 eavesdropper
 ebony
 ebulliences
+ebullitions
 ecartes
 eccentricities
 ecclesiae
@@ -11762,6 +11771,7 @@ emperors
 emphases
 emphasis
 emphasise
+emphasizing
 emphysematous
 empiricist
 emplaced
@@ -14421,6 +14431,7 @@ frenzying
 frequentation
 frequently
 freres
+frescoed
 frescoist
 freshening
 fresher
@@ -14510,6 +14521,7 @@ frowzily
 froze
 frozenly
 fructifying
+fructoses
 frugs
 fruitage
 fruiters
@@ -15019,6 +15031,7 @@ generosities
 generous
 generousnesses
 genesis
+genet
 genetical
 genetically
 geneticists
@@ -15429,6 +15442,7 @@ glycosylations
 gnarls
 gnarr
 gnarrs
+gnashes
 gnat
 gnathic
 gnattier
@@ -16064,6 +16078,7 @@ guttler
 guttlers
 guttles
 guy
+guyed
 guyline
 guyots
 guzzle
@@ -18149,6 +18164,7 @@ inconceivably
 inconformity
 incongruence
 incongruity
+incongruously
 inconnu
 inconnus
 inconscient
@@ -19853,6 +19869,8 @@ kindling
 kinematically
 kinematics
 kines
+kinescope
+kinescopes
 kineses
 kinetic
 kinetically
@@ -20372,6 +20390,7 @@ leadsmen
 leadwork
 leadworks
 leafinesses
+leafleteer
 leafleteers
 leaflets
 leaguer
@@ -20708,6 +20727,7 @@ limitlessnesses
 limits
 limn
 limner
+limners
 limning
 limnologies
 limnologist
@@ -25703,6 +25723,7 @@ overate
 overawing
 overbearing
 overbearingly
+overbears
 overbeats
 overbejeweled
 overbilled
@@ -27239,6 +27260,7 @@ pharynx
 phases
 phasmids
 phat
+phatically
 phatter
 phellems
 phelonia
@@ -32217,6 +32239,7 @@ roughens
 roughhewing
 roughies
 roughleg
+roughnecks
 roughrider
 rouille
 roulade
@@ -32947,6 +32970,7 @@ schoolmaster
 schoolmasters
 schoolroom
 schoolwork
+schooners
 schottisches
 schrod
 schtick
@@ -32972,6 +32996,7 @@ scincoid
 scincoids
 scintigraphy
 scintilla
+scintillas
 scintillating
 sciolist
 sciolistic
@@ -34998,6 +35023,7 @@ sorrel
 sorrels
 sorrier
 sorrowfulness
+sorrowing
 sorrows
 sortied
 sortieing
@@ -37298,6 +37324,7 @@ tangency
 tangerine
 tangibilities
 tangier
+tanginess
 tangles
 tanglier
 tangs
@@ -37397,6 +37424,7 @@ tauntingly
 tauon
 taurine
 taus
+tautaug
 tautest
 tautness
 tautologies
@@ -39258,6 +39286,7 @@ ultimacies
 ultimatenesses
 ultimates
 ultimogeniture
+ultimogenitures
 ultraclean
 ultraconvenient
 ultrademocratic
@@ -39505,6 +39534,7 @@ unconsidered
 unconsolidated
 uncontemplated
 uncontemporary
+uncontested
 uncontradicted
 uncontrollably
 uncontroversial
@@ -41113,6 +41143,7 @@ vulvar
 vulvate
 vum
 wabble
+wabbled
 wack
 wackes
 wackier
@@ -41602,6 +41633,7 @@ whoso
 whosoever
 whump
 whupped
+whups
 wicked
 wickedest
 wickednesses
@@ -42066,6 +42098,7 @@ yardarm
 yarder
 yards
 yardstick
+yardsticks
 yare
 yarmelke
 yarmelkes
@@ -42262,6 +42295,7 @@ zinnias
 zippering
 zipping
 zitherist
+zitis
 zizzle
 zizzled
 zoa
@@ -42282,6 +42316,7 @@ zonated
 zoneless
 zonetimes
 zonks
+zonula
 zoochores
 zoogeographer
 zoogeographic
