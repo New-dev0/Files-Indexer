@@ -1,0 +1,13 @@
+https://mirrors.aliyun.com/centos-vault/8.0.1905/i...,https://mirrors.aliyun.com/centos-vault/8.0.1905/isos/ppc64le/CentOS-8-ppc64le-1905-boot.iso.manifest
+kinetic-live-server-amd64.manifest - Ubuntu CDimage,https://cdimage.ubuntu.com/ubuntu-server/daily-live/current/kinetic-live-server-amd64.manifest
+ftp.uni-kl.de/pub/linux/ubuntu-dvd/ubuntu-server/d...,http://ftp.uni-kl.de/pub/linux/ubuntu-dvd/ubuntu-server/daily-preinstalled/current/jammy-preinstalled-server-arm64.manifest
+https://pi.turnkeylinux.org/turnkeylinux/metadata/...,https://pi.turnkeylinux.org/turnkeylinux/metadata/turnkey-owncloud/13.0rc3-wheezy-amd64/turnkey-owncloud-13.0rc3-wheezy-amd64.manifest
+releases.turnkeylinux.org/turnkey-core/13.0rc-whee...,http://releases.turnkeylinux.org/turnkey-core/13.0rc-wheezy-i386/turnkey-core-13.0rc-wheezy-i386.manifest
+https://165.227.188.234/yocto/yocto/yocto-3.4.1/ma...,https://165.227.188.234/yocto/yocto/yocto-3.4.1/machines/genericx86-alt/core-image-full-cmdline-genericx86-20211130000350.rootfs.manifest
+dotsrc.dl.osdn.net/pub/turnkeylinux/metadata/turnk...,http://dotsrc.dl.osdn.net/pub/turnkeylinux/metadata/turnkey-core/13.0-wheezy-i386/turnkey-core-13.0-wheezy-i386.manifest
+Resetter/Ubuntu_18.04_ubuntu:GNOME_64bit_.manifest at master,https://github.com/gaining/Resetter/blob/master/Resetter/usr/lib/resetter/data/manifests/Ubuntu_18.04_ubuntu:GNOME_64bit_.manifest
+ubuntu-18.04.5-live-server-amd64.manifest,http://ubuntu.interhost.co.il/18.04/ubuntu-18.04.5-live-server-amd64.manifest
+ubuntu-18.04.2-live-server-amd64.manifest - Ubuntu Releases,http://ubuntu.interhost.co.il/18.04/ubuntu-18.04.2-live-server-amd64.manifest
+mirror.dal.nexril.net/centos/8-stream/isos/x86_64/...,http://mirror.dal.nexril.net/centos/8-stream/isos/x86_64/CentOS-Stream-8-x86_64-latest-dvd1.iso.manifest
+lubuntu-14.04.1-desktop-i386.manifest - Repo UGM,http://repo.ugm.ac.id/iso/lubuntu/14.04/release/lubuntu-14.04.1-desktop-i386.manifest
+ubuntu-gke-1804-d1809-0-v20190517,https://storage.googleapis.com/ubuntu-os-gke-cloud/ubuntu-gke-1804-d1809-0-v20190517.manifest
