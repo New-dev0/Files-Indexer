@@ -3880,6 +3880,7 @@ bloodlike
 bloodlust
 bloods
 bloodshed
+bloodsheds
 bloodstains
 bloodstock
 bloodstones
@@ -8055,6 +8056,7 @@ corvinas
 corybantes
 corymb
 coryneform
+coryzal
 coryzas
 coscript
 coscripted
@@ -9410,6 +9412,7 @@ defacer
 defacing
 defalcates
 defalcating
+defalcation
 defalcators
 defamations
 defamer
@@ -11764,6 +11767,7 @@ egocentrics
 egocentrisms
 egoless
 egregiously
+egressed
 egressions
 egrets
 eicosanoid
@@ -13965,6 +13969,7 @@ fistfights
 fisticuffs
 fisting
 fists
+fistulas
 fistulate
 fitches
 fitchets
@@ -14565,6 +14570,7 @@ forthcoming
 forthrightly
 fortified
 fortify
+fortifying
 fortissimi
 fortissimos
 fortitudes
@@ -15583,6 +15589,7 @@ giveaway
 giveback
 givers
 gizmos
+gjetost
 glabellae
 glabrate
 glace
@@ -15598,6 +15605,7 @@ gladdeners
 gladdening
 gladding
 gladiate
+gladness
 glads
 gladsomeness
 gladsomer
@@ -15847,6 +15855,7 @@ goldenness
 goldeyes
 goldfinch
 goldsmith
+goldurns
 golfers
 goliard
 goliaths
@@ -16961,6 +16970,7 @@ heelless
 heelpieces
 heelpost
 hefts
+hegaris
 hegemons
 hegumens
 hegumeny
@@ -17090,6 +17100,7 @@ herbalists
 herbicidal
 herbicidally
 herbier
+herbiest
 herbivory
 herby
 herculean
@@ -19337,6 +19348,7 @@ intimal
 intimated
 intimately
 intimates
+intimations
 intimidator
 intines
 intis
@@ -19659,6 +19671,7 @@ italianated
 italianizing
 italic
 italicizes
+itch
 itching
 itchings
 item
@@ -20689,6 +20702,7 @@ larkspur
 larkspurs
 larrupers
 larruping
+larum
 larvae
 larvas
 larvicide
@@ -21449,6 +21463,7 @@ loided
 loincloth
 loins
 lollers
+lolling
 lollipops
 lollop
 lollops
@@ -22336,6 +22351,7 @@ meal
 mealiest
 mealiness
 mealless
+mealybug
 mealybugs
 mean
 meaners
@@ -22469,6 +22485,7 @@ melancholics
 melancholy
 melanian
 melanist
+melanoblast
 melanocyte
 melanocytes
 melanogeneses
@@ -23868,6 +23885,7 @@ movable
 movableness
 movelessly
 moviedom
+moviegoers
 moviegoing
 moving
 moviola
@@ -24465,6 +24483,7 @@ nerdiest
 nerdy
 nerol
 nervier
+nervines
 nesciences
 nescient
 nescients
@@ -25035,6 +25054,7 @@ nonstick
 nonstory
 nonstyles
 nonsubsidized
+nonsuch
 nonsuches
 nonsugar
 nonsugars
@@ -25276,6 +25296,7 @@ obelisks
 obelism
 obelisms
 obelized
+obese
 obesities
 obesity
 obey
@@ -29569,6 +29590,7 @@ preyer
 preying
 preys
 priapean
+priapi
 priapisms
 priceless
 pricily
@@ -30876,6 +30898,7 @@ raucousness
 raucousnesses
 raunch
 raunchiness
+raveller
 ravened
 ravening
 ravenously
@@ -32926,6 +32949,7 @@ roughen
 roughened
 roughens
 roughhewing
+roughhoused
 roughies
 roughleg
 roughnecks
@@ -33891,6 +33915,7 @@ scyphozoan
 scyphozoans
 scyphus
 seabed
+seabirds
 seaboot
 seacocks
 seacrafts
@@ -34937,6 +34962,7 @@ sinsyne
 sinter
 sintered
 sinters
+sinuates
 sinuous
 sinuously
 sinuousnesses
@@ -35121,6 +35147,7 @@ slants
 slapdashes
 slaphappier
 slapper
+slapping
 slashings
 slatches
 slate
@@ -35133,6 +35160,7 @@ slaughterers
 slaughtering
 slaughterous
 slaughters
+slave
 slaved
 slaveholding
 slaverers
@@ -37385,6 +37413,7 @@ summonsing
 sumps
 sumpters
 sumptuous
+sumpweeds
 sunbath
 sunbaths
 sunbird
@@ -37717,6 +37746,7 @@ swartness
 swashbuckled
 swashbuckler
 swashed
+swathed
 swathers
 swaybacks
 swayers
@@ -39306,6 +39336,7 @@ traitors
 traject
 trajection
 tramcars
+tramells
 tramels
 tramlines
 trammeler
@@ -40147,6 +40178,7 @@ umbellifers
 umber
 umbering
 umbilici
+umbilicus
 umbo
 umbonate
 umbones
@@ -40335,6 +40367,7 @@ unclouding
 uncloying
 unclutter
 uncoalesced
+uncoalesces
 uncoalescing
 uncoatings
 uncoerced
@@ -41036,6 +41069,7 @@ unswore
 unsworn
 unsymmetrically
 unsynchronized
+untack
 untacks
 untalented
 untangle
@@ -41776,6 +41810,7 @@ viols
 viperish
 viperously
 vipers
+vireo
 vireonine
 vireonines
 vires
