@@ -1,0 +1,7 @@
+Public/Send-SyslogMessage.ps1 1.0.68 - PowerShell Gallery,https://www.powershellgallery.com/packages/CorkScrew/1.0.68/Content/Public%255CSend-SyslogMessage.ps1
+Functions/Send-SyslogMessage.ps1 2.0.3 - PowerShell Gallery,https://www.powershellgallery.com/packages/Posh-SYSLOG/2.0.3/Content/Functions%255CSend-SyslogMessage.ps1
+Public/Send-CsLoggerMessage.ps1 1.0.46 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/CorkScrew/1.0.46/Content/Public%255CSend-CsLoggerMessage.ps1
+check_eset_ver.ps1 ... - GitLab,https://gitlab.lauserco.com/tech/ncpa-plugins/-/blob/41cfc258ec6fbeabb6fb889a24ab43f52fd4a9bb/check_eset_ver.ps1
+Posh-SYSLOG/Send-SyslogMessage.Tests.ps1 at master - GitHub,https://github.com/poshsecurity/Posh-SYSLOG/blob/master/tests/Send-SyslogMessage.Tests.ps1
+power-syslog-server/PowerSyslogServer.ps1 at master - GitHub,https://github.com/jamescussen/power-syslog-server/blob/master/PowerSyslogServer.ps1
+https://raw.githubusercontent.com/kmkz/Pentesting/...,https://raw.githubusercontent.com/kmkz/Pentesting/master/AV_Evasion/AV_Bypass.ps1

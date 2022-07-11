@@ -1341,6 +1341,7 @@ annuitants
 annuity
 annularly
 annulation
+annulet
 annulment
 annulus
 annuluses
@@ -1711,6 +1712,7 @@ append
 appendage
 appendants
 appendectomies
+appendents
 appendicitis
 appendicitises
 appendicular
@@ -2225,6 +2227,7 @@ atomic
 atomically
 atomicities
 atomies
+atomisers
 atomisms
 atomistic
 atomizations
@@ -3371,6 +3374,7 @@ betaine
 betelnut
 bethanked
 beths
+bethumps
 betides
 betime
 betokening
@@ -3511,6 +3515,7 @@ billowed
 billowing
 bilobed
 biltong
+bimah
 bimas
 bimbette
 bimbo
@@ -4354,6 +4359,7 @@ breakages
 breaker
 breakfast
 breakfaster
+breakings
 breakout
 breakup
 breakwater
@@ -4371,6 +4377,7 @@ brecciations
 brechan
 brechans
 breechloaders
+breeding
 breedings
 breezed
 breezeless
@@ -4910,6 +4917,7 @@ caddisworms
 caddy
 caddying
 cade
+cadences
 cadencing
 cadenzas
 cades
@@ -5478,6 +5486,7 @@ catalectics
 catalepsies
 cataleptic
 catalexis
+catalo
 cataloged
 cataloger
 catalogues
@@ -6039,6 +6048,7 @@ chicks
 chickweeds
 chicle
 chicory
+chiefdoms
 chiefest
 chiefships
 chieftaincy
@@ -6927,6 +6937,7 @@ coirs
 cojoined
 cojoins
 cojones
+cokeheads
 coky
 col
 cola
@@ -8545,6 +8556,7 @@ cryptarithm
 cryptically
 cryptococci
 cryptococcosis
+cryptologic
 cryptological
 cryptologies
 cryptorchid
@@ -10300,6 +10312,7 @@ disaccharidase
 disaccorded
 disaccording
 disaccustoms
+disaffected
 disaffecting
 disaffects
 disaffiliate
@@ -12656,6 +12669,7 @@ ethoxies
 ethoxyl
 eths
 ethylate
+ethylbenzene
 ethynyls
 etiolating
 etiolations
@@ -14316,6 +14330,7 @@ foregathered
 forego
 foreground
 foreguts
+forehand
 forehanded
 foreignisms
 forejudge
@@ -14598,6 +14613,7 @@ fresher
 freshes
 freshman
 freshwaters
+fresnel
 fret
 fretters
 fretwork
@@ -14681,6 +14697,7 @@ frows
 frowzily
 froze
 frozenly
+frozennesses
 fructifying
 fructoses
 frugs
@@ -17250,6 +17267,7 @@ homeopathies
 homeotherm
 homeotic
 homeplaces
+homeported
 homeroom
 homeschooler
 homeschoolers
@@ -19979,6 +19997,7 @@ kerchiefed
 kerchieves
 kerchoo
 kerfed
+kern
 kerne
 kernes
 kerosine
@@ -21966,6 +21985,7 @@ masculinises
 masculinising
 masculinist
 masculinity
+maser
 masers
 masher
 mashgichim
@@ -22266,6 +22286,7 @@ melilots
 meliorating
 meliorations
 melisma
+mellowed
 mellower
 melodias
 melodic
@@ -23754,6 +23775,7 @@ multiplications
 multiplicity
 multiplies
 multiproduct
+multiracialism
 multirange
 multiscreen
 multistoried
@@ -26229,6 +26251,7 @@ overplanned
 overplanning
 overplied
 overplying
+overpopulation
 overpressures
 overpricing
 overprocess
@@ -28856,6 +28879,7 @@ preaching
 preachments
 preachy
 preact
+preadapt
 preadaptive
 preadmit
 preadmitted
@@ -29741,6 +29765,7 @@ psephite
 psephites
 psephology
 pseudocoels
+pseudomonad
 pseudomonas
 pseudomorphism
 pseudopodia
@@ -30153,6 +30178,7 @@ quaker
 quakers
 quakier
 qualification
+qualifiedly
 qualitatively
 qualms
 quangos
@@ -31398,6 +31424,7 @@ rekindled
 reknits
 reknitting
 reknots
+relabeled
 relabelled
 relacquered
 relapsers
@@ -31735,6 +31762,7 @@ requesters
 requesting
 requests
 requiescat
+requirements
 requires
 requisitenesses
 requisitioning
@@ -34203,6 +34231,7 @@ shim
 shimmer
 shimmying
 shindys
+shiner
 shiners
 shingle
 shingles
@@ -34655,6 +34684,7 @@ skeens
 skeets
 skein
 skeining
+skeletal
 skeletonising
 skeletonizer
 skeletons
@@ -37745,6 +37775,7 @@ tankships
 tannages
 tanned
 tanners
+tanning
 tanrecs
 tantalates
 tantalises
@@ -39554,6 +39585,7 @@ tuskers
 tuskless
 tussahs
 tussehs
+tusser
 tussis
 tussises
 tussled
@@ -39935,6 +39967,7 @@ unclog
 unclogs
 unclothed
 uncloud
+unclouding
 uncloying
 unclutter
 uncoalesced
@@ -40228,6 +40261,7 @@ unfold
 unforced
 unforthcoming
 unfossiliferous
+unfree
 unfreed
 unfreeing
 unfreezes
@@ -40958,6 +40992,7 @@ valuable
 valuablenesses
 valuation
 value
+values
 valuta
 valvar
 valveless
