@@ -898,6 +898,7 @@ almuds
 almug
 alnicos
 alodia
+alodium
 aloe
 aloft
 alogical
@@ -1738,6 +1739,7 @@ appetitive
 appetizing
 appetizingly
 applaudably
+applauded
 applause
 applecarts
 applesauce
@@ -2842,6 +2844,7 @@ barleys
 barmaid
 barman
 barmy
+barn
 barning
 barnstormer
 barnstorming
@@ -8453,6 +8456,7 @@ criticizing
 critique
 critiques
 croaker
+croaking
 croc
 crocine
 crockery
@@ -8558,6 +8562,7 @@ crumpet
 crumpets
 crumply
 crumps
+cruncher
 crunchinesses
 crus
 crusaded
@@ -9908,6 +9913,7 @@ desugaring
 desulfurizing
 desultoriness
 detached
+detachedly
 detachedness
 detachers
 detachment
@@ -11987,6 +11993,7 @@ emphases
 emphasis
 emphasise
 emphasizing
+emphatic
 emphysematous
 empiricist
 emplaced
@@ -14239,6 +14246,7 @@ flybelts
 flyblew
 flyboys
 flybridge
+flybys
 flyleaf
 flyoff
 flyovers
@@ -15226,6 +15234,7 @@ gazelles
 gazette
 gazetteer
 gazettes
+gazillion
 gazillions
 gazpacho
 gazpachos
@@ -16035,6 +16044,7 @@ greatcoats
 greatheartedly
 greatly
 grebes
+grecianizing
 grecize
 grecized
 grecizes
@@ -16375,6 +16385,7 @@ gynaecia
 gynaecium
 gynaecologies
 gynandries
+gynandromorph
 gynandromorphy
 gynecocratic
 gynecological
@@ -16610,6 +16621,7 @@ haphtara
 haphtarah
 haphtarot
 hapkido
+haplessly
 haplopia
 haplopias
 happened
@@ -16942,6 +16954,7 @@ helotries
 helotry
 helots
 helped
+helpful
 helpmates
 helpmeets
 helve
@@ -17038,6 +17051,7 @@ hermaean
 hermeneutically
 hermetic
 hermeticisms
+hermetism
 hermetist
 hermetists
 hermitic
@@ -19969,6 +19983,7 @@ kadis
 kaffiyahs
 kaftan
 kahuna
+kahunas
 kaiak
 kaiaks
 kaifs
@@ -20846,6 +20861,7 @@ lek
 lekvar
 lekythos
 lekythus
+lemmatizes
 lemmatizing
 lemminglike
 lemonish
@@ -21016,6 +21032,7 @@ lifeguarded
 lifeless
 lifelikenesses
 lifemanship
+lifers
 lifesaving
 lifesavings
 lifespans
@@ -21398,6 +21415,7 @@ loofa
 loofahs
 loofas
 looie
+look
 lookalike
 lookdowns
 lookers
@@ -23444,6 +23462,7 @@ money
 moneyed
 moneyers
 moneygrubbing
+moneymakers
 moneys
 moneyworts
 mongers
@@ -23995,6 +24014,7 @@ musquashes
 mussed
 mussily
 mussinesses
+mustaches
 mustachios
 mustang
 mustees
@@ -26978,6 +26998,7 @@ parcel
 parch
 parchesis
 parchment
+pard
 pards
 parenchymatous
 parentage
@@ -27489,6 +27510,7 @@ periapses
 periblems
 pericardial
 pericope
+periderm
 peridia
 peridotites
 perigyny
@@ -27598,6 +27620,7 @@ personalizes
 personally
 personalty
 personated
+personating
 personator
 personhood
 personhoods
@@ -29531,6 +29554,7 @@ pristine
 pristinely
 privatdozents
 privately
+privateness
 privatize
 privatizing
 privies
@@ -30525,6 +30549,7 @@ rackworks
 racoons
 radars
 radarscopes
+radded
 raddles
 radiale
 radiancies
@@ -31391,6 +31416,7 @@ refrainment
 refrangibility
 refrangible
 refreeze
+refresh
 refreshening
 refresher
 refreshers
@@ -31496,6 +31522,7 @@ rehearses
 reheeled
 rehemmed
 rehired
+rehospitalize
 rehouse
 rehumanizes
 rehypnotizing
@@ -32382,6 +32409,7 @@ revving
 rewaken
 rewakening
 rewakes
+rewaking
 rewan
 reward
 rewarded
@@ -32696,6 +32724,7 @@ romaine
 romancing
 romanises
 romanizations
+romanize
 romanos
 romans
 romanticises
@@ -33995,6 +34024,7 @@ semiprecious
 semiquaver
 semiquavers
 semiraw
+semiround
 semises
 semisolids
 semitonal
@@ -37027,6 +37057,7 @@ subshaft
 subshells
 subshrub
 subshrubs
+subsider
 subsiders
 subsidiarity
 subsidising
@@ -38824,6 +38855,7 @@ toddled
 tods
 toeas
 toed
+toehold
 toeless
 toenailing
 toes
@@ -39755,6 +39787,7 @@ turks
 turmoiling
 turmoils
 turnabout
+turnaround
 turnarounds
 turnbuckles
 turncoat
@@ -40993,6 +41026,7 @@ upheavers
 uphoarded
 uphoards
 uphold
+upholders
 uphove
 uphroe
 uplanders
@@ -42011,6 +42045,7 @@ wasteland
 waster
 wasters
 wastewater
+wasteway
 wastrie
 watap
 watchable
