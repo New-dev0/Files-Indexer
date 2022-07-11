@@ -346,6 +346,7 @@ adductive
 adducts
 ademption
 adenines
+adenoid
 adenomas
 adenosines
 adenosis
@@ -2197,6 +2198,7 @@ ataraxy
 atavistically
 ataxias
 ate
+atechnic
 atelectasis
 atelic
 atemporal
@@ -2324,6 +2326,7 @@ auguring
 augustest
 auk
 auklets
+auks
 auld
 aulder
 auntlier
@@ -2479,6 +2482,7 @@ aweigh
 awesomeness
 awfullest
 awfully
+awhirl
 awing
 awlworts
 awninged
@@ -2759,6 +2763,7 @@ banks
 bankside
 banksides
 banner
+banneret
 bannering
 bannerols
 bannister
@@ -3230,6 +3235,7 @@ beltings
 beltline
 belugas
 bemadams
+bemas
 bemata
 bemeans
 bemedalled
@@ -3642,6 +3648,7 @@ birthstones
 biryani
 bisect
 bisectional
+bisections
 bisectrices
 bisectrix
 bishoprics
@@ -3833,6 +3840,7 @@ bloodstreams
 bloomers
 bloomiest
 blooming
+bloomless
 blooper
 bloopers
 bloops
@@ -4561,6 +4569,7 @@ bryological
 bryologies
 bryologist
 bryology
+bryonies
 bryophyllums
 bryozoans
 bubals
@@ -6762,6 +6771,7 @@ cocoon
 cocoplum
 cocottes
 cocounsel
+cocounseled
 cocounseling
 cocounselled
 cocoyams
@@ -9017,6 +9027,7 @@ dashis
 dashpot
 dastard
 dastardliness
+databanks
 databased
 databases
 databasing
@@ -10711,6 +10722,7 @@ divisionism
 divisionisms
 divisions
 divisive
+divisors
 divorcee
 divorcements
 divorcers
@@ -13332,6 +13344,7 @@ fascists
 fashed
 fashing
 fashionableness
+fashionmongers
 fashions
 fashious
 fastbacks
@@ -13677,6 +13690,7 @@ filterable
 filthily
 filtrated
 finagle
+finagled
 finalism
 finalist
 finalities
@@ -14469,6 +14483,7 @@ fractionator
 fractious
 fractur
 fractural
+fracturers
 fractures
 fracturs
 frag
@@ -15159,6 +15174,7 @@ generalises
 generalizable
 generalize
 generalizes
+generally
 generation
 generational
 generatrices
@@ -15587,6 +15603,7 @@ gnarrs
 gnashes
 gnat
 gnathic
+gnathite
 gnattier
 gnawable
 gnawer
@@ -18348,6 +18365,7 @@ inconvenience
 inconveniences
 inconveniencing
 inconvincible
+incony
 incoordination
 incorporation
 incorpses
@@ -19676,6 +19694,7 @@ joist
 joisted
 jojoba
 jojobas
+joked
 jokes
 joking
 jokingly
@@ -21080,6 +21099,7 @@ livers
 liverwurst
 liverwursts
 liverymen
+livetrap
 lividly
 lividnesses
 liviers
@@ -21518,6 +21538,7 @@ machinists
 machismo
 machismos
 machzors
+macintosh
 mackintoshes
 macled
 macrocosms
@@ -22861,6 +22882,7 @@ misbilled
 misbilling
 misbinding
 misbrand
+misbranded
 misbuilds
 misbuttoned
 miscallers
@@ -23108,6 +23130,7 @@ miswrit
 miswrite
 miswriting
 misyoking
+mite
 mitering
 mithers
 mitiest
@@ -25122,6 +25145,7 @@ octillions
 octogenarians
 octoploid
 octopods
+octosyllabics
 octothorp
 octrois
 octuples
@@ -28627,6 +28651,7 @@ postdoc
 postdoctoral
 postdoctorate
 posted
+postediting
 posteen
 posterior
 posterities
@@ -29275,6 +29300,7 @@ principalships
 principle
 principles
 printability
+printed
 printeries
 printery
 printing
@@ -30688,6 +30714,7 @@ rebuilding
 rebuker
 rebukes
 rebuking
+reburying
 rebut
 rebutted
 rebutter
@@ -31144,6 +31171,7 @@ refrainment
 refrangibility
 refrangible
 refreeze
+refreshening
 refresher
 refreshers
 refreshments
@@ -32009,6 +32037,7 @@ retroact
 retroaction
 retroactions
 retrofit
+retrofitted
 retrograded
 retrogradely
 retrogressing
@@ -35350,6 +35379,7 @@ sorptive
 sorrel
 sorrels
 sorrier
+sorrowful
 sorrowfulness
 sorrowing
 sorrows
@@ -35917,6 +35947,7 @@ stagiest
 stagily
 stags
 staig
+stainabilities
 stainer
 stainers
 stainlessly
@@ -37379,6 +37410,7 @@ swordfishes
 swordmen
 swordtails
 swotted
+swotter
 swotting
 swounds
 swum
@@ -39978,6 +40010,7 @@ underdone
 underdosed
 underdosing
 undereats
+underestimate
 underestimated
 underestimates
 underestimating
@@ -41244,6 +41277,7 @@ videotexes
 vidette
 videttes
 vidicon
+viduities
 vied
 viewer
 viewiest
@@ -41863,6 +41897,7 @@ westernised
 westernize
 westmost
 westward
+wet
 wetbacks
 wetness
 wetnesses
