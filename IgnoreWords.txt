@@ -239,6 +239,7 @@ acidimeter
 acidimetries
 acidities
 acidity
+acidnesses
 acidophil
 acidophils
 acidulated
@@ -1191,6 +1192,7 @@ anaphrodisiacs
 anaphylactoid
 anarch
 anarchies
+anarchist
 anarthrias
 anastrophes
 anathemas
@@ -2480,6 +2482,7 @@ avulsions
 awaited
 awaiter
 awakeners
+awakenings
 awarded
 awardees
 awarders
@@ -3126,6 +3129,7 @@ bedwetters
 beebread
 beech
 beechiest
+beechmast
 beechwood
 beedi
 beefalo
@@ -6098,6 +6102,7 @@ chimeras
 chimere
 chimerically
 chimerism
+chimney
 chimneylike
 chimneypieces
 chimp
@@ -7057,6 +7062,7 @@ colonizers
 colonnade
 colons
 colophonies
+colophons
 colorably
 colorado
 colorbred
@@ -7261,6 +7267,7 @@ completive
 complexest
 complexified
 complexifies
+complexioned
 complexities
 compliant
 complicated
@@ -7653,6 +7660,7 @@ contemplators
 contemporaneity
 contempt
 contemptibility
+contemptuous
 contemptuously
 contends
 contentedly
@@ -10255,6 +10263,7 @@ dineros
 dingdong
 dinger
 dinghies
+dingier
 dingiest
 dingle
 dinking
@@ -11593,6 +11602,7 @@ ecumenics
 ecumenism
 ecumenist
 eczemas
+ed
 edacities
 edaphically
 eddies
@@ -11914,6 +11924,7 @@ embruted
 embryologies
 embryologist
 embryologists
+embryons
 embryos
 eme
 emeerate
@@ -13972,6 +13983,7 @@ flatfoots
 flatlands
 flatliners
 flatlong
+flatten
 flattens
 flatterers
 flattery
@@ -14069,6 +14081,7 @@ floatation
 floatels
 floating
 floaty
+flocci
 floccing
 flocculant
 flocculate
@@ -16700,6 +16713,7 @@ haunted
 haunts
 hausfrau
 hausfrauen
+haustella
 haustorium
 hautboy
 haute
@@ -18274,6 +18288,7 @@ impression
 impressiveness
 impressment
 impressures
+imprest
 imprimis
 imprint
 imprinter
@@ -18745,6 +18760,7 @@ ingraft
 ingrafting
 ingrafts
 ingrained
+ingrains
 ingrate
 ingratiated
 ingratiating
@@ -19313,6 +19329,7 @@ inviability
 invigilated
 invigilates
 invigilation
+invigilations
 invigilators
 invigorates
 invigoration
@@ -19386,6 +19403,7 @@ irising
 iritises
 irk
 irksomeness
+iron
 ironclad
 ironicalnesses
 ironings
@@ -23810,6 +23828,7 @@ multigroup
 multijet
 multilane
 multileveled
+multilobe
 multilobes
 multimedia
 multimember
@@ -24019,6 +24038,7 @@ myotic
 myotonias
 myriopods
 myrmecologist
+myrmidons
 myrrhs
 myrtles
 mysid
@@ -25199,6 +25219,7 @@ obturates
 obturations
 obtuser
 obtusity
+obverse
 obversely
 obversions
 obverting
@@ -25894,6 +25915,7 @@ outkisses
 outkissing
 outlaid
 outlain
+outlandish
 outlast
 outlasts
 outlaughing
@@ -27813,6 +27835,7 @@ photomapped
 photometers
 photomontages
 photomosaic
+photomultiplier
 photomurals
 photonegative
 photooxidized
@@ -27966,6 +27989,7 @@ picturizing
 piculs
 piddle
 piddled
+piddly
 pidginization
 pidginize
 pie
@@ -28327,6 +28351,7 @@ pleasingness
 pleasurableness
 pleasures
 pleb
+plebeianism
 plebeianly
 plebiscites
 plebs
@@ -28604,6 +28629,7 @@ polyolefins
 polyparies
 polyparium
 polypeptidic
+polyphagia
 polyphagies
 polyphones
 polyphonies
@@ -35289,6 +35315,7 @@ snye
 so
 soaks
 soapbark
+soapboxing
 soaped
 soapiness
 soapstones
@@ -35514,6 +35541,7 @@ sordines
 sordini
 sords
 sorely
+sorenesses
 sorer
 sores
 sorgho
@@ -35807,6 +35835,7 @@ spinnaker
 spinnakers
 spinnerets
 spinney
+spinnies
 spinny
 spinosely
 spins
@@ -36796,6 +36825,7 @@ subentries
 subentry
 suberic
 suberised
+suberization
 suberize
 suberizing
 suberose
@@ -37907,6 +37937,7 @@ tarboosh
 tarbushes
 tardigrade
 tardyon
+tared
 targetable
 tariffing
 tarlatans
@@ -37918,6 +37949,7 @@ tarnish
 taroks
 tarot
 tarp
+tarpaper
 tarradiddle
 tarried
 tarries
@@ -40274,6 +40306,7 @@ undid
 undigested
 undiplomatic
 undisciplined
+undisclosed
 undiscovered
 undisguised
 undissociated
@@ -40827,6 +40860,7 @@ unwarier
 unwariest
 unwarinesses
 unwaxed
+unweary
 unweave
 unwed
 unweetingly
@@ -41765,6 +41799,7 @@ wagering
 wagers
 wages
 waggery
+waging
 wagonages
 wagonload
 wagons
