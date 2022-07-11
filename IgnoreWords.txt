@@ -1358,6 +1358,7 @@ anomalous
 anomalously
 anomalousness
 anomalousnesses
+anonymousnesses
 anonyms
 anoopsia
 anopheles
@@ -1442,6 +1443,7 @@ anticults
 anticyclone
 antidepressant
 antiderivative
+antiderivatives
 antidogmatic
 antidotal
 antidraft
@@ -2749,6 +2751,7 @@ bandogs
 bandoleer
 bandoleers
 bandoliers
+bandoneon
 bandsaws
 bandshells
 bandwidth
@@ -4889,6 +4892,7 @@ cabdrivers
 cabers
 cabestros
 cabezones
+cabining
 cabinmate
 cabins
 cable
@@ -4970,6 +4974,7 @@ calcanei
 calceate
 calcedony
 calciferol
+calcific
 calcimining
 calcinations
 calcine
@@ -9276,6 +9281,7 @@ decompressing
 deconcentrate
 deconcentration
 deconditions
+decongestion
 decongests
 deconstructs
 decontrol
@@ -9347,6 +9353,7 @@ defeasances
 defeasibilities
 defeat
 defeater
+defeaters
 defeatism
 defeatures
 defecation
@@ -9958,6 +9965,7 @@ dewans
 dewaters
 dewaxes
 dewberry
+dewclaw
 dewclawed
 dewfalls
 dewier
@@ -10203,6 +10211,7 @@ dilatometry
 dilatoriness
 dilatorinesses
 dilettantes
+dilettanti
 dilettantisms
 diligently
 diluter
@@ -13778,6 +13787,7 @@ finniest
 finning
 finocchio
 finocchios
+finochios
 fioraturae
 fipple
 fir
@@ -14627,6 +14637,7 @@ freshman
 freshwaters
 fresnel
 fret
+fretted
 fretters
 fretwork
 friar
@@ -15027,6 +15038,7 @@ gantlopes
 gantries
 ganymedes
 gaoler
+gaols
 gape
 gapeseeds
 gaping
@@ -15382,6 +15394,7 @@ giftedly
 giftednesses
 giftee
 gifting
+giftwares
 giftwrap
 gig
 gigantisms
@@ -15489,6 +15502,7 @@ glamorizes
 glamorousness
 glamorousnesses
 glamors
+glamours
 glancers
 glandular
 glandularly
@@ -19206,6 +19220,7 @@ intreat
 intrenching
 intrepidity
 intrepidly
+intrepidness
 intrigants
 intriguant
 introgressants
@@ -21210,12 +21225,14 @@ lockets
 lockjaws
 lockkeepers
 lockmaker
+lockmakers
 locks
 lockstitches
 lockup
 locofoco
 locoism
 locomotes
+locomotions
 locomotors
 locos
 locules
@@ -22135,6 +22152,7 @@ mayest
 mayings
 mayo
 mayor
+mayoralty
 mayos
 mayweeds
 mazaedia
@@ -25264,6 +25282,7 @@ officialeses
 officiants
 officiaries
 officinal
+offings
 offish
 offishness
 offloads
@@ -25965,6 +25984,7 @@ outspread
 outspreads
 outsprints
 outstand
+outstare
 outstated
 outstates
 outsteered
@@ -26132,6 +26152,7 @@ overdyer
 overedit
 overedited
 overediting
+overeducated
 overeducation
 overelaborate
 overembellished
@@ -27113,6 +27134,7 @@ peaky
 pealike
 peals
 pearl
+pearler
 pearlescence
 pearlescent
 pearliest
@@ -27448,6 +27470,7 @@ perpends
 perpents
 perpetrated
 perpetrating
+perpetrator
 perpetrators
 perpetual
 perpetuals
@@ -29484,6 +29507,7 @@ profferers
 proficiencies
 profiled
 profiler
+profiling
 profitabilities
 profitableness
 profiteered
@@ -29830,6 +29854,7 @@ psychologise
 psychologises
 psychologists
 psychologize
+psychometrics
 psychoneurotic
 psychoneurotics
 psychopathics
@@ -30780,6 +30805,7 @@ rebilled
 rebirths
 reblended
 reblent
+rebloom
 rebloomed
 reblooming
 rebodied
@@ -31086,6 +31112,7 @@ redpoll
 redpolls
 redraft
 redreams
+redressed
 redressers
 redresses
 redressors
@@ -32624,6 +32651,7 @@ rosolios
 rostella
 rostellums
 rostrate
+rostrum
 rotameter
 rotates
 rotations
@@ -33289,6 +33317,7 @@ scant
 scanted
 scanties
 scantiest
+scantily
 scantiness
 scantinesses
 scapegoat
@@ -36625,6 +36654,7 @@ stunting
 stuntman
 stunts
 stupefying
+stupefyingly
 stupendous
 stupendousness
 stupes
@@ -38475,6 +38505,7 @@ thymiest
 thymol
 thymols
 thyratrons
+thyreoid
 thyristor
 thyroglobulin
 thyroiditises
@@ -39461,6 +39492,7 @@ trusted
 trustees
 trusteeship
 trusteeships
+trustiness
 trustinesses
 trustingly
 trustingnesses
@@ -40496,6 +40528,7 @@ unobservable
 unobserved
 unobtainable
 unoffered
+unofficially
 unorganized
 unostentatious
 unpack
@@ -41219,6 +41252,7 @@ venires
 venographies
 venology
 venoms
+vent
 ventifact
 ventilating
 ventilatory
@@ -41517,6 +41551,7 @@ vitrics
 vitrification
 vitriolling
 vittled
+vituperated
 vituperation
 vituperations
 vivace
