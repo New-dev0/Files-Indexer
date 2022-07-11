@@ -132,6 +132,7 @@ acceptance
 acceptances
 acceptant
 accepted
+acceptees
 accepter
 acceptor
 accessible
@@ -396,6 +397,7 @@ admirableness
 admiral
 admirals
 admiralties
+admiration
 admirer
 admirers
 admissibilities
@@ -1268,6 +1270,7 @@ angriest
 angrinesses
 angry
 anguished
+angulate
 angulation
 angulations
 anhedonias
@@ -2139,6 +2142,7 @@ assumpsit
 assumption
 assumptions
 assurable
+assuredness
 assures
 assuror
 asswaged
@@ -3818,6 +3822,7 @@ blob
 blockheads
 blockier
 blog
+blondine
 blondined
 blondines
 bloodbath
@@ -3906,6 +3911,7 @@ blunges
 blunging
 blunting
 blurt
+blushers
 blustered
 bo
 boarder
@@ -5059,6 +5065,7 @@ campaigned
 campanology
 camped
 campesinos
+campfire
 camphenes
 camphire
 camphol
@@ -5296,6 +5303,7 @@ cardiogenic
 cardiographs
 cardiologists
 cardiomyopathy
+carditises
 cardplayer
 cardsharper
 cared
@@ -5874,6 +5882,7 @@ charmeuse
 charmeuses
 charmingly
 charpoys
+charquid
 charrier
 charring
 charted
@@ -6473,6 +6482,7 @@ clast
 clathrate
 clattered
 clatterer
+clatteringly
 clattery
 claught
 claughted
@@ -7011,6 +7021,7 @@ colonies
 colonisation
 colonise
 colonised
+colonists
 colonization
 colonizers
 colonnade
@@ -8125,6 +8136,7 @@ covalent
 covariance
 cove
 coved
+coven
 covenantees
 covenantors
 cover
@@ -8393,6 +8405,7 @@ crocine
 crockery
 crockets
 crockpot
+crocodiles
 croft
 crofters
 crojik
@@ -9623,6 +9636,7 @@ dentural
 denturists
 denudated
 denudates
+denudating
 denuder
 denuders
 denumerability
@@ -9885,6 +9899,7 @@ detract
 detractor
 detraining
 detrainments
+detriment
 detritus
 deuced
 deuteranope
@@ -10074,6 +10089,7 @@ dictionally
 dictionaries
 dictum
 dictums
+dicyclies
 dicynodont
 dicynodonts
 didact
@@ -15066,6 +15082,7 @@ gasts
 gasworks
 gateaux
 gatecrash
+gatefold
 gatefolds
 gatehouse
 gateless
@@ -17579,6 +17596,7 @@ hunkey
 hunkeys
 hunky
 huns
+hunted
 hunters
 huntings
 huntsman
@@ -17770,6 +17788,7 @@ hypervirulent
 hypha
 hyphenates
 hyphened
+hypnogogic
 hypnoid
 hypnologies
 hypnology
@@ -17933,6 +17952,7 @@ illiterately
 illitic
 illocutionary
 illogicalities
+illogicality
 illogicalness
 illogics
 illuded
@@ -20742,6 +20762,7 @@ leptospiral
 leptotene
 les
 lesbians
+lesioning
 letch
 lethalities
 lethally
@@ -25098,6 +25119,7 @@ obversely
 obversions
 obverting
 obviates
+obviousnesses
 obvolute
 ocarina
 occidentalizing
@@ -25399,6 +25421,7 @@ opponency
 opportunely
 opportunenesses
 opportunistic
+opportunists
 opposabilities
 opposeless
 opposite
@@ -26998,6 +27021,7 @@ pauperized
 pauser
 pausers
 pavilioned
+paviors
 paviser
 pavises
 pavisses
@@ -27740,6 +27764,7 @@ phyleses
 phylesises
 phyllite
 phyllo
+phylloclades
 phyllodium
 phylloids
 phyllome
@@ -27952,6 +27977,7 @@ pinites
 pink
 pinkening
 pinkings
+pinkishness
 pinkishnesses
 pinkroot
 pinna
@@ -29062,6 +29088,7 @@ premycotic
 prenames
 prenomen
 prenomens
+prenominated
 prenotification
 prenotifying
 prenumbers
@@ -30145,6 +30172,7 @@ quare
 quarks
 quarrel
 quarreler
+quarreller
 quarrelsomeness
 quarriers
 quarryings
@@ -31041,6 +31069,7 @@ reedition
 reeditions
 reedlike
 reedlings
+reeducations
 reefable
 reefier
 reek
@@ -31388,6 +31417,7 @@ relending
 reletter
 relettering
 reletting
+relevantly
 releve
 reliabilities
 reliables
@@ -36493,6 +36523,7 @@ stroyer
 struck
 structuralisms
 structuration
+structurations
 structure
 structureless
 strudel
@@ -39077,6 +39108,7 @@ trembled
 tremor
 tremorous
 trenail
+trenchers
 trenching
 trendies
 trendiest
@@ -40992,6 +41024,7 @@ variegators
 variety
 variola
 variolates
+variole
 varioles
 varioloid
 variousness
@@ -41362,6 +41395,7 @@ viruses
 virusoid
 virusoids
 vis
+visas
 viscera
 viscerally
 viscidities
@@ -41450,6 +41484,7 @@ vocationally
 vociferator
 vociferous
 vocoder
+vocoders
 vodkas
 vodoun
 vodous
