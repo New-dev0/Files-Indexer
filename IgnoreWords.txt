@@ -922,6 +922,7 @@ alphosis
 alphyl
 alphyls
 also
+altar
 altarpiece
 alter
 alterability
@@ -1170,6 +1171,7 @@ analcimic
 analcite
 analemma
 analemmas
+analemmata
 analgesias
 analgesic
 analgetics
@@ -1377,6 +1379,7 @@ anorthic
 anorthosites
 anosmic
 anovulatory
+anoxias
 ansae
 anserine
 answer
@@ -2581,6 +2584,7 @@ bacchant
 bacchante
 bacchantes
 bachelorhood
+bachelorhoods
 back
 backache
 backbench
@@ -3285,6 +3289,7 @@ bemuddling
 bemurmured
 bemusedly
 bemusements
+bemusing
 benchlands
 benchwarmers
 bendable
@@ -3822,6 +3827,7 @@ blearier
 blearily
 bleat
 bleated
+blebbings
 bled
 bleedings
 bleeped
@@ -4958,6 +4964,7 @@ cadences
 cadencing
 cadenzas
 cades
+cadets
 cadetship
 cadger
 cadges
@@ -4972,6 +4979,7 @@ caesura
 cafes
 caffeine
 caffeinic
+caffs
 cage
 cagefuls
 cageling
@@ -5365,6 +5373,7 @@ careerists
 careers
 careful
 caregiving
+caregivings
 carelessly
 carelessness
 carer
@@ -5728,6 +5737,7 @@ centerings
 centerless
 centerpiece
 centesimal
+centesimo
 centesimos
 centigram
 centiles
@@ -6318,6 +6328,7 @@ chronicler
 chronics
 chronogram
 chronograms
+chronograph
 chronographies
 chronologically
 chronologies
@@ -6485,6 +6496,7 @@ civisms
 clabbers
 clachan
 clad
+cladisms
 cladistically
 cladode
 cladodes
@@ -9630,6 +9642,7 @@ demigoddess
 demijohn
 demilitarize
 demilunes
+demimondes
 demise
 demises
 demissions
@@ -10758,6 +10771,7 @@ distender
 distending
 distention
 distich
+distill
 distillates
 distilleries
 distinctively
@@ -12938,6 +12952,7 @@ excerpts
 excess
 exchanging
 excide
+excimers
 excised
 excises
 excisional
@@ -13509,6 +13524,7 @@ fatsoes
 fattens
 fattest
 fattiest
+fatwa
 faubourgs
 fauces
 faucet
@@ -15436,6 +15452,7 @@ germinesses
 gerontocratic
 gerontocrats
 gerontologists
+gesellschaft
 gesneriad
 gest
 gestalt
@@ -15494,6 +15511,7 @@ gifting
 giftwares
 giftwrap
 gig
+gigabyte
 gigantisms
 gigged
 giggler
@@ -15728,6 +15746,7 @@ gluconeogeneses
 glucosidase
 glucoside
 gluepot
+glues
 glueynesses
 glugged
 glum
@@ -15924,6 +15943,7 @@ governessy
 government
 governmentally
 governmentese
+governors
 governorships
 gowaned
 gowns
@@ -25097,6 +25117,7 @@ nosy
 notables
 notably
 notal
+notarially
 notaries
 notarization
 notarize
@@ -26480,6 +26501,7 @@ overpromise
 overprotect
 overprotected
 overquick
+overrash
 overrate
 overreacher
 overreaches
@@ -26751,6 +26773,7 @@ paintballs
 paintbrush
 painterly
 paintier
+paired
 pairings
 paisanos
 paisas
@@ -26795,6 +26818,7 @@ palestras
 palette
 palfrey
 palier
+palikar
 palimonies
 palimpsest
 palindromes
@@ -27552,6 +27576,7 @@ peregrin
 peregrine
 perennated
 perennial
+perfecters
 perfectible
 perfectionist
 perfectionistic
@@ -27979,6 +28004,7 @@ photoperiodism
 photoperiodisms
 photophases
 photophobic
+photophores
 photoplay
 photoreceptions
 photoreceptors
@@ -28526,6 +28552,7 @@ plicated
 plicately
 plies
 plimsol
+plimsols
 plinkers
 pliofilm
 pliskie
@@ -30713,6 +30740,7 @@ rakishness
 raku
 rallier
 rally
+rallyings
 rallyists
 ralphed
 ramble
@@ -30819,6 +30847,7 @@ rationales
 rationalists
 rationalities
 rationalizes
+rationalness
 rationed
 rations
 ratites
@@ -31097,6 +31126,7 @@ reckon
 reckoning
 reclad
 reclaim
+reclaimer
 reclaimers
 reclaims
 reclames
@@ -32088,6 +32118,7 @@ resembled
 resend
 resends
 resensitize
+reservable
 reserve
 reservedly
 reserviced
@@ -35360,6 +35391,7 @@ snailed
 snake
 snakebites
 snakefishes
+snakeheads
 snakepits
 snakes
 snakeskins
@@ -38099,6 +38131,7 @@ tanzanite
 tao
 tapadera
 tapaderos
+tapalo
 taped
 tapeless
 tapenades
@@ -40896,6 +40929,7 @@ unroots
 unroped
 unround
 unrounded
+unruled
 unruliest
 unrumpled
 uns
@@ -42968,6 +43002,7 @@ yeasayer
 yeasayers
 yecch
 yegg
+yell
 yelling
 yellowed
 yellowtail
