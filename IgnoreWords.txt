@@ -403,6 +403,7 @@ admirer
 admirers
 admissibilities
 admittance
+admitting
 admix
 admixt
 admonishment
@@ -733,6 +734,7 @@ albertite
 albicores
 albinisms
 albinistic
+albino
 albinotic
 albites
 albizia
@@ -815,6 +817,7 @@ alkalizer
 alkalizing
 alkane
 alkie
+alkines
 alkyd
 alkyds
 allantoids
@@ -2098,6 +2101,7 @@ assais
 assassinating
 assassinator
 assaulting
+assaultively
 assaults
 assays
 assegai
@@ -4435,6 +4439,7 @@ brief
 briefcase
 briefing
 briefless
+brierroots
 briery
 bries
 brigaded
@@ -5658,6 +5663,7 @@ caymans
 cayuse
 caziques
 ceasefires
+cecity
 cecum
 cedarbird
 cedarbirds
@@ -7757,6 +7763,7 @@ convened
 convenience
 conveniences
 convent
+conventicle
 conventicler
 conventiclers
 conventionality
@@ -8154,6 +8161,7 @@ counterspy
 counterstream
 counterstruck
 countersue
+countertenors
 countertrade
 countertrend
 countervails
@@ -9193,6 +9201,7 @@ debarkers
 debarment
 debarring
 debases
+debated
 debatements
 debating
 debauch
@@ -9995,6 +10004,7 @@ devils
 deviltries
 deviltry
 deviousnesses
+devisable
 devisee
 devisor
 devitrified
@@ -10936,6 +10946,7 @@ domiciliations
 domiciling
 dominancies
 dominations
+dominators
 domineered
 dominicker
 dominies
@@ -12875,6 +12886,7 @@ evolute
 evolutionist
 evonymus
 evulsed
+evulsing
 evulsions
 ewe
 ewes
@@ -13180,6 +13192,7 @@ exteroceptors
 extinctions
 extinguishable
 extinguisher
+extinguishment
 extirpators
 extol
 extolls
@@ -14019,6 +14032,7 @@ flask
 flasks
 flatbeds
 flatcar
+flatfooted
 flatfoots
 flatlands
 flatliners
@@ -15182,6 +15196,7 @@ gassinesses
 gastight
 gasting
 gastnesses
+gastreas
 gastrectomies
 gastrocnemii
 gastronomical
@@ -18355,6 +18370,7 @@ improbably
 impropernesses
 improvable
 improve
+improved
 improvements
 improvident
 improvidently
@@ -18616,6 +18632,7 @@ indigene
 indigenization
 indigenizations
 indigenize
+indigenous
 indigested
 indign
 indigotin
@@ -19114,6 +19131,7 @@ interelectrode
 interepidemic
 interesting
 interethnic
+interfaces
 interfaculty
 interferential
 interferer
@@ -19253,6 +19271,7 @@ interstrand
 intersystem
 interterminal
 intertilling
+intertills
 intertribal
 intertwine
 intertwines
@@ -21728,6 +21747,7 @@ macled
 macrocosms
 macrocyclic
 macrocysts
+macrocyte
 macroeconomic
 macroevolution
 macroevolutions
@@ -22598,6 +22618,7 @@ metabolism
 metabolisms
 metabolized
 metacarpus
+metacenter
 metacenters
 metacercarial
 metafiction
@@ -27082,6 +27103,7 @@ partakers
 partakes
 partans
 parterre
+parthenocarpic
 parthenocarpies
 parthenogeneses
 participating
@@ -29056,6 +29078,7 @@ prangs
 prankishly
 prankster
 pratfall
+pratfalls
 pratiques
 prattle
 prattling
@@ -30482,6 +30505,7 @@ quinolone
 quinone
 quinquennials
 quinquennium
+quinsy
 quintain
 quintal
 quintan
@@ -31115,6 +31139,7 @@ reconnoitred
 reconquer
 reconquest
 reconsecrating
+reconsigns
 reconsolidating
 reconstitute
 reconstituted
@@ -34888,6 +34913,7 @@ sitting
 sittings
 situate
 situated
+situational
 situp
 situses
 sixteenmo
@@ -36067,6 +36093,7 @@ sporogenesis
 sporopollenins
 sporotrichoses
 sporozoa
+sporozoite
 sporozoites
 sported
 sporter
@@ -36401,6 +36428,7 @@ steeplechase
 steeplechaser
 steepled
 steeples
+steepness
 steepnesses
 steerable
 steerageway
@@ -39192,6 +39220,7 @@ tragicomedies
 tragus
 trail
 trailblazers
+trailered
 trailerings
 trailless
 trainabilities
@@ -39222,6 +39251,7 @@ trampiest
 trampish
 tramples
 tranced
+trances
 tranche
 tranny
 tranqs
@@ -39470,6 +39500,7 @@ trickle
 trickling
 trickly
 tricksiest
+tricksiness
 trickster
 tricorn
 tricorne
@@ -39931,6 +39962,7 @@ tympanic
 tympanist
 tympany
 tynes
+typeable
 typebars
 typefaces
 typefounders
@@ -40298,6 +40330,7 @@ uncynically
 undanceable
 undatable
 undated
+undauntable
 undebatable
 undeceiving
 undecidable
@@ -41137,6 +41170,7 @@ uraninites
 uranite
 uranologies
 uranylic
+uranyls
 urase
 urases
 urbaner
@@ -42191,6 +42225,7 @@ webworms
 wedder
 wedeling
 wedelns
+wedge
 wedgier
 wedgiest
 weedily
