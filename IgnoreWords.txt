@@ -1615,6 +1615,7 @@ anybodies
 anyplace
 anything
 anywise
+aorist
 aortae
 aortas
 aortographic
@@ -4197,6 +4198,7 @@ botrytis
 bottle
 bottlers
 bottlings
+bottomed
 bottomland
 bottomlands
 bottommost
@@ -5049,6 +5051,7 @@ callees
 calligraphers
 calligraphists
 callings
+callipygian
 calloses
 callosities
 callosity
@@ -5614,6 +5617,7 @@ cattlemen
 catty
 caucuses
 caucusing
+caucussing
 caudation
 caudex
 cauld
@@ -6335,6 +6339,7 @@ chuckwalla
 chuddah
 chuddars
 chuffs
+chug
 chukka
 chukkas
 chummier
@@ -9982,6 +9987,7 @@ detraining
 detrainments
 detriment
 detritus
+detrusions
 deuced
 deuteranope
 deuterides
@@ -10297,6 +10303,7 @@ dinars
 dined
 dinero
 dineros
+dingbat
 dingdong
 dinger
 dinghies
@@ -13780,6 +13787,7 @@ filch
 filched
 filches
 file
+filed
 filefishes
 filename
 files
@@ -15581,6 +15589,7 @@ glady
 glaire
 glairier
 glairing
+glairs
 glairy
 glaived
 glamorised
@@ -16820,6 +16829,7 @@ hazinesses
 hazmats
 hazzanim
 headachier
+headachiest
 headbands
 headcheeses
 headcounts
@@ -17618,6 +17628,7 @@ hotness
 hotrods
 hotspot
 hotspots
+hotted
 hotties
 houdahs
 hourglasses
@@ -19204,6 +19215,7 @@ intermission
 intermitotic
 intermits
 intermixtures
+intermodulation
 intermolecular
 intermountain
 internal
@@ -20183,6 +20195,7 @@ keyword
 khaddar
 khafs
 khalif
+khalifs
 khans
 khazen
 khazens
@@ -21917,6 +21930,7 @@ mammalities
 mammals
 mammary
 mammati
+mammer
 mammers
 mammillated
 mammocked
@@ -22925,6 +22939,7 @@ millihenry
 millihenrys
 milliluces
 milliluxes
+millime
 millimes
 millimho
 millimolar
@@ -22945,6 +22960,7 @@ mills
 millwright
 milo
 milpa
+milters
 mimbar
 mimbars
 mimed
@@ -23784,6 +23800,7 @@ motorized
 motorizing
 motorman
 motormen
+motorships
 mott
 mottling
 motts
@@ -25217,6 +25234,7 @@ nylghais
 nymph
 nymphalid
 nymphets
+nympho
 nympholepsies
 nymphomanias
 nystagmic
@@ -25252,6 +25270,7 @@ obfuscatory
 obit
 objected
 objection
+objectivenesses
 objectivism
 objectivists
 objectivity
@@ -26245,6 +26264,7 @@ overbrowsing
 overbuild
 overburdening
 overburned
+overbuys
 overcalled
 overcautions
 overcentralized
@@ -26963,6 +26983,7 @@ paraffines
 paraffining
 paraffins
 paraforms
+paragenesis
 paraglide
 paraglides
 paragraphic
@@ -27449,6 +27470,7 @@ pensioning
 pensions
 pensive
 penstemon
+penstemons
 penster
 penstock
 pentacles
@@ -31336,6 +31358,7 @@ reefable
 reefier
 reek
 reeker
+reeking
 reel
 reeled
 reeligible
@@ -32097,11 +32120,13 @@ resignedly
 resignedness
 resigners
 resiliences
+resiliency
 resiling
 resilins
 resilvered
 resilvers
 resin
+resinates
 resining
 resinlike
 resist
@@ -33561,6 +33586,7 @@ scenical
 scenting
 scepter
 sceptic
+sceptics
 schadenfreudes
 schatchen
 schav
@@ -36547,6 +36573,7 @@ stilted
 stilts
 stimes
 stimulant
+stimulator
 stinginess
 stinging
 stingingly
@@ -36681,6 +36708,7 @@ straitest
 straitjacketing
 straitly
 strake
+straked
 stramashes
 strandednesses
 stranders
@@ -37775,6 +37803,7 @@ syllogizes
 sylph
 sylvan
 sylvanite
+sylvatic
 sylvine
 sylvinites
 sylvites
@@ -37911,6 +37940,7 @@ tabs
 tabulable
 tabulators
 tacamahac
+tachinid
 tachisme
 tachismes
 tachisms
@@ -38648,6 +38678,7 @@ thralled
 thrashed
 thrave
 thrawing
+threaders
 threadiest
 threads
 thready
@@ -39175,6 +39206,7 @@ toxoplasmosis
 toyos
 trabeate
 trabeation
+trabeculate
 traceability
 traced
 tracheary
@@ -39566,6 +39598,7 @@ trimorphs
 trimotors
 trinary
 trindled
+trinity
 trinketed
 trinketries
 trinocular
@@ -40975,6 +41008,7 @@ untangle
 untarnished
 unteaching
 untechnical
+untenabilities
 untenability
 untenable
 untented
@@ -42669,6 +42703,7 @@ woodlanders
 woodlands
 woodlark
 woodlarks
+woodless
 woodlot
 woodpecker
 woodshedding
