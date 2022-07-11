@@ -3182,6 +3182,7 @@ befit
 beflagging
 beflea
 befleaed
+befleas
 befleck
 befrets
 befringe
@@ -7818,6 +7819,7 @@ conveyances
 conveyor
 conveyorize
 conveyors
+convict
 conviction
 convicts
 convincers
@@ -9439,6 +9441,7 @@ defeater
 defeaters
 defeatism
 defeatures
+defecated
 defecation
 defecator
 defect
@@ -10937,6 +10940,7 @@ doglegged
 doglegging
 doglegs
 doglike
+dogmas
 dogmatism
 dogmatist
 dogmatize
@@ -13416,6 +13420,7 @@ familiarities
 familiarity
 familiarize
 familiarized
+familisms
 familistic
 faming
 famishment
@@ -13445,6 +13450,7 @@ fanos
 fans
 fantasia
 fantasises
+fantasize
 fantasizers
 fantasizes
 fantastically
@@ -13859,6 +13865,7 @@ filterabilities
 filterability
 filterable
 filthily
+filthinesses
 filtrated
 finagle
 finagled
@@ -17743,6 +17750,7 @@ hum
 humaner
 humanhoods
 humanist
+humanistically
 humanities
 humanity
 humanization
@@ -20207,6 +20215,7 @@ keratoid
 keratoma
 keratotic
 kerbed
+kerbing
 kerbs
 kerchiefed
 kerchieves
@@ -20459,6 +20468,7 @@ koph
 kopjes
 koppas
 koppie
+korats
 korun
 koshers
 koss
@@ -21981,6 +21991,7 @@ maltreats
 malversations
 mambo
 mamboes
+mammal
 mammalities
 mammals
 mammary
@@ -23281,6 +23292,7 @@ mislabelling
 mislabor
 mislaboring
 mislain
+mislay
 misleader
 misleading
 misleads
@@ -27205,6 +27217,7 @@ particulate
 particulates
 partied
 parting
+partisan
 partlet
 partnered
 partnership
@@ -30398,6 +30411,7 @@ pyramidal
 pyramiding
 pyranosides
 pyrenes
+pyres
 pyrethrin
 pyrexes
 pyrexic
@@ -30808,6 +30822,7 @@ ramona
 ramose
 rampages
 rampantly
+rampart
 ramped
 rampikes
 ramshorn
@@ -31049,6 +31064,7 @@ reassembly
 reasserted
 reassertions
 reassignments
+reassorted
 reassorting
 reassumed
 reassumes
@@ -31709,6 +31725,7 @@ reinflates
 reinforcing
 reinforming
 reinitiated
+reinjecting
 reinjections
 reinjure
 reinless
@@ -31766,6 +31783,7 @@ rekindled
 reknits
 reknitting
 reknots
+reknotted
 relabeled
 relabelled
 relacquered
@@ -32007,6 +32025,7 @@ replacing
 replasters
 replated
 repled
+replenished
 repleteness
 repletes
 replevin
@@ -32175,6 +32194,7 @@ reserviced
 reservicing
 reserving
 reservist
+reservoir
 reservoirs
 resetter
 resetters
@@ -32897,6 +32917,7 @@ room
 roomed
 roomfuls
 roomie
+roomier
 roominesses
 rooming
 roommates
@@ -33100,6 +33121,7 @@ ruminated
 ruminates
 ruminating
 ruminations
+ruminative
 rummages
 rummer
 rummers
@@ -33404,6 +33426,7 @@ sanitised
 sanitoria
 sanjak
 sannups
+sannyasi
 sannyasin
 sannyasis
 sansculottism
@@ -33459,6 +33482,7 @@ sarcous
 sardius
 sardonic
 sardonically
+sardonicisms
 sardonyx
 sardonyxes
 sargo
@@ -36992,6 +37016,7 @@ sturt
 styes
 stylar
 stylebook
+styled
 styles
 stylets
 styli
@@ -37458,6 +37483,7 @@ sunderer
 sundew
 sundogs
 sundowning
+sundowns
 sundrops
 sunket
 sunkets
@@ -37757,6 +37783,7 @@ swagging
 swags
 swallow
 swallowers
+swamies
 swamp
 swampier
 swampiest
@@ -38063,6 +38090,7 @@ tactlessness
 tacts
 tactually
 tads
+taekwondo
 taels
 taenia
 tafferels
@@ -39397,6 +39425,7 @@ transcended
 transcends
 transcribers
 transcribing
+transcriptases
 transcriptional
 transdermal
 transducer
@@ -41036,6 +41065,7 @@ unsexual
 unshamed
 unshelling
 unshells
+unshifts
 unsighting
 unsights
 unskilful
@@ -41758,6 +41788,7 @@ vicarage
 vicarate
 vicariant
 vicariate
+vicariously
 vicarly
 vicarship
 vice
@@ -41802,6 +41833,7 @@ vignerons
 vignetters
 vignettist
 vigours
+vileness
 vilenesses
 vilest
 vilification
@@ -41990,6 +42022,7 @@ volcanized
 volcanological
 volcanologists
 voled
+voles
 volitive
 volkslieder
 volleyed
@@ -42266,6 +42299,7 @@ waterbeds
 waterborne
 waterbus
 watercooler
+watercraft
 watercrafts
 waterdog
 waterdogs
@@ -42649,6 +42683,7 @@ winching
 windages
 windblast
 windburnt
+windchill
 windchills
 windfalls
 windflowers
