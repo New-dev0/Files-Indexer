@@ -934,6 +934,7 @@ althaea
 althea
 although
 altimeters
+altimetry
 altocumuli
 altogether
 altos
@@ -1258,6 +1259,7 @@ angels
 anginous
 angiogram
 angiosperm
+angiospermous
 angle
 angler
 angleworm
@@ -3675,6 +3677,7 @@ bisectional
 bisections
 bisectrices
 bisectrix
+bisects
 bishoprics
 bisnaga
 bister
@@ -5264,6 +5267,7 @@ captain
 captainships
 captions
 captivate
+captivates
 captivators
 captivities
 captopril
@@ -5593,6 +5597,7 @@ cattalo
 cattaloes
 cattie
 catting
+cattleman
 cattlemen
 catty
 caucuses
@@ -6243,6 +6248,7 @@ chorial
 choriamb
 choriambs
 choric
+chorion
 chorions
 chorizos
 chorographer
@@ -8431,6 +8437,7 @@ crispens
 crisper
 crispers
 crispest
+crisply
 crisps
 crispy
 crisscrossing
@@ -8571,6 +8578,7 @@ crutching
 crux
 cruzeiros
 cryingly
+cryobiologies
 cryobiologist
 cryobiology
 cryogenics
@@ -9864,6 +9872,7 @@ desirousnesses
 desktop
 desman
 desmid
+desmoid
 desmoids
 desolators
 desorb
@@ -11089,6 +11098,7 @@ dowsing
 doxies
 doxologies
 doxorubicins
+doyennes
 doyens
 doyly
 dozening
@@ -11633,6 +11643,7 @@ editorializes
 editorials
 editors
 editorship
+editresses
 editrices
 editrix
 edits
@@ -14484,6 +14495,7 @@ formulator
 formulators
 formulism
 formyls
+fornent
 fornicates
 forrit
 forsaking
@@ -14588,6 +14600,7 @@ fragmenting
 frailly
 frails
 frakturs
+frambesias
 framboise
 framers
 frameshift
@@ -15347,6 +15360,7 @@ geometrise
 geophagia
 geophone
 geophones
+geophysical
 geophysics
 geopolitics
 geoponics
@@ -17549,6 +17563,7 @@ hotcake
 hotching
 hotchpotches
 hotdogged
+hotel
 hotelier
 hoteliers
 hotelman
@@ -17998,6 +18013,7 @@ idler
 idly
 idol
 idolater
+idolaters
 idolatrousness
 idoliser
 idolize
@@ -18251,6 +18267,7 @@ implantation
 implanted
 implausibility
 implead
+impleader
 implement
 impletions
 imploded
@@ -18985,6 +19002,7 @@ instrumenting
 instruments
 insubordinately
 insufficiencies
+insufflate
 insufflations
 insufflator
 insulants
@@ -19735,6 +19753,7 @@ jesting
 jests
 jesuitic
 jesuitical
+jesuitically
 jetbead
 jetlags
 jetports
@@ -19800,6 +19819,7 @@ jockos
 jocular
 jocund
 jodhpurs
+joes
 joey
 joggle
 joggles
@@ -20526,6 +20546,7 @@ landman
 lands
 landslid
 landslides
+landsliding
 landslips
 landsman
 landward
@@ -20969,6 +20990,7 @@ licensors
 licensures
 licentiates
 licentiously
+lichee
 lichenin
 lichening
 lichenose
@@ -22825,6 +22847,7 @@ military
 milkless
 milkmaid
 milkman
+milksop
 milkwood
 milkwort
 mill
@@ -23536,6 +23559,7 @@ monotints
 monotonically
 monotonicity
 monotonousness
+monotypic
 monovalent
 monovular
 monseigneur
@@ -24047,6 +24071,7 @@ myoelectric
 myoelectrical
 myogenic
 myoglobin
+myoinositol
 myoinositols
 myologies
 myology
@@ -24699,6 +24724,7 @@ noncooperators
 noncore
 noncorroding
 noncreative
+noncreativity
 noncritical
 noncrossover
 noncultivation
@@ -24924,6 +24950,7 @@ nontarget
 nontaxable
 nontechnical
 nonterminals
+nonterminating
 nontherapeutic
 nonthreatening
 nontobacco
@@ -25712,6 +25739,7 @@ orthotropous
 oryxes
 os
 oscillography
+oscinine
 osetra
 osiered
 osiers
@@ -27854,6 +27882,7 @@ photolyzable
 photolyze
 photomapped
 photometers
+photometry
 photomontages
 photomosaic
 photomultiplier
@@ -28381,6 +28410,7 @@ pledget
 pledgors
 pleiades
 pleiads
+pleiocene
 plena
 plenaries
 plenarily
@@ -31381,6 +31411,7 @@ refurnish
 refurnished
 refusenik
 refuses
+refusing
 refutes
 refuting
 regaining
@@ -35996,6 +36027,7 @@ spotlighting
 spotlights
 spoused
 spousing
+sprachgefuhl
 spraddle
 spraddles
 sprag
@@ -36347,6 +36379,7 @@ stenography
 stenos
 stenosis
 stenotherms
+stenotypy
 stepbrothers
 stepdaughters
 stepfathers
@@ -36851,6 +36884,7 @@ subduers
 subdwarf
 subedited
 subeditor
+subeditorial
 subeditors
 subentries
 subentry
@@ -39325,6 +39359,7 @@ tret
 trevallies
 triacetates
 triadism
+triages
 triaging
 trialogue
 triangle
@@ -39705,6 +39740,7 @@ turbocharger
 turbulencies
 turbulently
 turd
+turfgrasses
 turfless
 turfmen
 turfski
@@ -40062,6 +40098,7 @@ unbudgeably
 unbudging
 unburden
 unburdened
+unburdening
 unburied
 unburnable
 unbusted
@@ -40423,6 +40460,7 @@ unflinching
 unflinchingly
 unfocused
 unfold
+unfond
 unforced
 unforthcoming
 unfossiliferous
@@ -41360,6 +41398,7 @@ venting
 ventricular
 ventriculus
 ventriloquism
+ventriloquist
 ventriloquize
 venturesomely
 venturousness
