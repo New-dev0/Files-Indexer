@@ -2859,6 +2859,7 @@ barret
 barretors
 barretries
 barrettes
+barricaded
 barricadoes
 barricados
 barriers
@@ -3468,6 +3469,7 @@ biformed
 bifunctional
 bifurcating
 bifurcations
+big
 bigarade
 bigeminal
 bigeminies
@@ -3805,6 +3807,7 @@ blennioid
 blesbuck
 bless
 blessedly
+blessers
 blethered
 blimy
 blind
@@ -4933,6 +4936,7 @@ caespitose
 caestus
 caesura
 cafes
+caffeine
 caffeinic
 cage
 cagefuls
@@ -5006,6 +5010,7 @@ calking
 call
 callaloo
 callaloos
+callan
 callbacks
 callees
 calligraphers
@@ -8604,6 +8609,7 @@ cueing
 cuestas
 cuffing
 cufflink
+cufflinks
 cuif
 cuing
 cuish
@@ -9090,6 +9096,7 @@ daysmen
 daytimes
 daze
 dazedness
+dazzler
 de
 deaconess
 deaconing
@@ -10298,6 +10305,7 @@ directorate
 directories
 directrices
 direfully
+direnesses
 dirges
 dirham
 dirigisme
@@ -10778,6 +10786,7 @@ doblons
 dobras
 dobsonfly
 dobsons
+doby
 docile
 docilely
 docility
@@ -10991,6 +11000,7 @@ dovetailed
 dovetails
 dow
 dowagers
+dowdier
 dowel
 doweled
 dowelling
@@ -11088,6 +11098,7 @@ drapeable
 draperied
 drapery
 dratted
+dratting
 draughts
 drave
 drawable
@@ -12654,6 +12665,7 @@ ethmoid
 ethmoidal
 ethnarchies
 ethnically
+ethnobotanist
 ethnobotany
 ethnocentrism
 ethnographer
@@ -16021,6 +16033,7 @@ grime
 grimily
 griminesses
 grimly
+grindingly
 grinds
 gringa
 grinner
@@ -17110,6 +17123,7 @@ hilted
 hilum
 himations
 hims
+himself
 hindbrains
 hinder
 hindering
@@ -18188,6 +18202,7 @@ importance
 importances
 importation
 importunateness
+importuned
 importunely
 importuner
 imposable
@@ -19472,6 +19487,7 @@ isotropy
 isotypic
 isozymic
 issuably
+issuance
 issuers
 isthmian
 isthmus
@@ -20426,6 +20442,7 @@ lanai
 lanais
 lancelet
 lancelets
+lancewood
 lancinates
 lancinating
 landaulets
@@ -20781,6 +20798,7 @@ leptospiral
 leptotene
 les
 lesbians
+leses
 lesioning
 letch
 lethalities
@@ -21007,6 +21025,7 @@ linebreedings
 lined
 lineman
 lines
+linesman
 linesmen
 lingam
 linger
@@ -22214,6 +22233,7 @@ medley
 medulla
 medullae
 medullar
+medullas
 medullated
 medusa
 medusae
@@ -23291,6 +23311,7 @@ molls
 molluscicidal
 molluscs
 mollycoddles
+mols
 moltenly
 molter
 molybdenum
@@ -23864,6 +23885,7 @@ musicologies
 musicology
 musjid
 muskegs
+musket
 muskmelon
 muskrat
 muskrats
@@ -24179,6 +24201,7 @@ negaton
 negatron
 neglecter
 neglecters
+neglecting
 neglectors
 neglects
 negligee
@@ -27056,6 +27079,7 @@ pawnbroker
 pawning
 pawpaw
 pax
+paxes
 payables
 payably
 payback
@@ -28649,6 +28673,7 @@ porting
 portion
 portionless
 portions
+portliest
 portrayed
 portraying
 portress
@@ -29472,6 +29497,7 @@ profoundly
 profuseness
 progeny
 progestin
+progestins
 proglottid
 prognose
 prognosticate
@@ -29990,6 +30016,7 @@ purificatory
 puristic
 puristically
 puritan
+puritanism
 puritanisms
 purity
 purled
@@ -30508,6 +30535,7 @@ ransomers
 ransoms
 rant
 rants
+ranulas
 rapacities
 raper
 rapers
@@ -32316,6 +32344,7 @@ richened
 richer
 riches
 ricin
+ricinuses
 rick
 rickeys
 ricking
@@ -32496,6 +32525,7 @@ rodding
 rode
 rodents
 rodeos
+rodsmen
 roe
 roentgenogram
 roentgens
@@ -36424,6 +36454,7 @@ straphanged
 straphangers
 straphangs
 strapped
+strappy
 straps
 strass
 strasses
@@ -37479,6 +37510,7 @@ sybaritic
 sybaritically
 sybaritisms
 sycophancies
+sycophancy
 sycophantic
 sycophantisms
 syenites
@@ -39752,6 +39784,7 @@ ultraexclusive
 ultrafeminine
 ultrahip
 ultrahot
+ultraist
 ultraleftists
 ultralight
 ultralow
@@ -39797,6 +39830,7 @@ umlauts
 umping
 umpired
 umpires
+umpteenth
 umteenth
 unabating
 unabiding
@@ -41287,6 +41321,7 @@ vetchling
 vetiver
 vetivers
 vetivert
+veto
 vetoes
 vets
 vexedness
