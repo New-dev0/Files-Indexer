@@ -2858,6 +2858,7 @@ baronetcies
 baroreceptor
 barosaurs
 barquentine
+barracker
 barracking
 barracks
 barracudas
@@ -2965,6 +2966,7 @@ batteaux
 batten
 battener
 batterie
+battering
 battlefield
 battleground
 battlegrounds
@@ -2999,6 +3001,7 @@ beachball
 beachballs
 beached
 beachgoers
+beachheads
 beachier
 beachside
 beadhouses
@@ -4868,6 +4871,7 @@ butyraldehydes
 butyrals
 butyric
 butyrins
+butyrophenone
 butyrophenones
 buxom
 buxomer
@@ -6155,6 +6159,7 @@ chirper
 chirpily
 chirred
 chirrs
+chirrups
 chirus
 chis
 chiselers
@@ -9527,6 +9532,7 @@ delaine
 delaminations
 delayed
 dele
+delectability
 delectably
 delectate
 delectating
@@ -9971,6 +9977,7 @@ deuced
 deuteranope
 deuterides
 deuteriums
+deuterons
 devaluations
 devas
 devastated
@@ -10924,6 +10931,7 @@ domestic
 domestications
 domestics
 domically
+domiciliate
 domiciliations
 domiciling
 dominancies
@@ -11713,6 +11721,7 @@ eggars
 eggcups
 eggnog
 eggnogs
+eggshell
 eggshells
 eggy
 eglantines
@@ -12571,6 +12580,7 @@ ergotized
 ericas
 erigeron
 eriophyid
+erodes
 erodibility
 erodible
 eroding
@@ -16650,6 +16660,7 @@ hardiest
 hardihoods
 hardinesses
 hardly
+hardmouthed
 hardnose
 hardnoses
 hardpack
@@ -18390,6 +18401,7 @@ inappetence
 inappetences
 inapplicable
 inapproachable
+inappropriately
 inaptitude
 inaptness
 inaptnesses
@@ -18862,6 +18874,7 @@ injudiciously
 injudiciousness
 injury
 inkberries
+inker
 inkhorn
 inkinesses
 inking
@@ -19791,6 +19804,7 @@ jibber
 jibbers
 jibes
 jiff
+jiffs
 jigger
 jiggered
 jigglier
@@ -23016,6 +23030,7 @@ misaddressed
 misadds
 misadjust
 misadvise
+misadvising
 misagent
 misagents
 misaimed
@@ -23693,6 +23708,7 @@ mortarboard
 mortarmen
 mortgage
 mortgagor
+mortice
 mortified
 mortifies
 mortiser
@@ -23859,6 +23875,7 @@ mulched
 mulcted
 muled
 muleteer
+muleteers
 mullah
 mullen
 mullers
@@ -24098,6 +24115,7 @@ myology
 myopically
 myoses
 myosote
+myosotises
 myotic
 myotonias
 myriopods
@@ -25445,6 +25463,7 @@ oleaster
 olefine
 olefines
 oleic
+oleins
 oleographs
 olestras
 olfaction
@@ -29371,6 +29390,7 @@ preshapes
 preshaping
 preshowing
 preshrink
+preshrinks
 preshrunk
 presidentship
 presidentships
@@ -31022,6 +31042,7 @@ recirculation
 recirculations
 recisions
 recitation
+recitatives
 recite
 recited
 reciting
@@ -31651,6 +31672,7 @@ relies
 reliever
 relievers
 relieves
+relighted
 religionless
 religiose
 religiosity
@@ -33164,6 +33186,7 @@ salts
 saltwater
 saltwort
 salutary
+salutation
 salutatorian
 salutatories
 salute
@@ -34377,6 +34400,7 @@ shelfful
 shellack
 shellacking
 shellback
+shellbark
 shellbarks
 shellers
 shellfisheries
@@ -35656,6 +35680,7 @@ sortieing
 sostenuto
 sot
 soteriology
+soths
 sotol
 sotols
 soubrette
@@ -36848,6 +36873,7 @@ suave
 suaver
 subadults
 subaerially
+subagencies
 subagency
 subah
 subahdars
@@ -37109,6 +37135,7 @@ subtler
 subtlest
 subtleties
 subtly
+subtone
 subtopia
 subtopic
 subtorrid
@@ -37748,6 +37775,7 @@ synaestheses
 synaesthesia
 synagog
 synagogal
+synagogue
 synanon
 synanons
 synapse
@@ -38061,6 +38089,7 @@ tartiness
 tartinesses
 tartly
 tartrated
+tartrates
 tarts
 tartuffe
 tasking
@@ -38254,6 +38283,7 @@ templars
 template
 temporalized
 temporalizing
+temporals
 temporise
 temporises
 temporize
@@ -39585,6 +39615,7 @@ trombonists
 trommel
 trompe
 tromps
+trona
 tronas
 trone
 trones
@@ -39670,6 +39701,7 @@ trypsins
 tryptamines
 tryster
 tsaddik
+tsar
 tsardoms
 tsarism
 tsatske
@@ -40857,6 +40889,7 @@ unsolved
 unsonsie
 unsonsy
 unsophisticated
+unsorted
 unsounded
 unsoundly
 unsoundness
@@ -42160,6 +42193,7 @@ wedeling
 wedelns
 wedgier
 wedgiest
+weedily
 weedy
 weekday
 weeklong
@@ -42343,6 +42377,7 @@ wholeheartedly
 wholesaled
 wholesales
 wholesome
+whomp
 whomped
 whomping
 whomsoever
