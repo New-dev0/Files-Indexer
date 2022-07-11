@@ -1892,6 +1892,7 @@ are
 areae
 areca
 arenaceous
+arene
 arenes
 arenites
 areole
@@ -3012,6 +3013,7 @@ beakless
 beamed
 beamier
 beamishly
+beanbags
 beaning
 beano
 beans
@@ -3823,6 +3825,7 @@ blethered
 blimy
 blind
 blindsided
+blini
 blink
 blinkard
 blisses
@@ -5744,6 +5747,7 @@ ceramics
 ceramist
 cerastes
 cerated
+cercaria
 cere
 cerebration
 cerebroside
@@ -7316,6 +7320,7 @@ computerized
 computerphobias
 computists
 comrade
+comradeliness
 comradery
 comradeships
 comsymps
@@ -10510,6 +10515,7 @@ disfavoured
 disfigure
 disfigured
 disfrock
+disfurnish
 disfurnishes
 disgrace
 disgraced
@@ -11154,6 +11160,7 @@ dreadfully
 dreading
 dreadlocks
 dreads
+dream
 dreamfully
 dreaming
 dreamlands
@@ -11363,6 +11370,7 @@ dungeoning
 dunging
 dunker
 dunlin
+dunlins
 dunner
 dunnite
 duns
@@ -12459,6 +12467,7 @@ epistemological
 epistemology
 epistle
 epistolary
+epistolers
 epistyles
 epitaxially
 epithelial
@@ -12589,6 +12598,7 @@ erythromycin
 erythropoietin
 erythrosin
 erythrosins
+es
 escaladed
 escalades
 escalates
@@ -12778,6 +12788,7 @@ eustasy
 eustele
 eutaxy
 euthanasic
+euthanatize
 euthanize
 euthanizing
 euthenists
@@ -13367,6 +13378,7 @@ fantom
 fanwise
 fanzine
 fanzines
+faquir
 faradaic
 faradic
 faradising
@@ -14717,6 +14729,7 @@ froghoppers
 froglets
 froglike
 frogman
+frogmarch
 frolicker
 frolickers
 fronds
@@ -16084,6 +16097,7 @@ grins
 griots
 griped
 gripier
+grippier
 gripsacks
 griseous
 griskins
@@ -17520,6 +17534,7 @@ hospitality
 hospitia
 hostages
 hostel
+hosteling
 hosteller
 hostelries
 hostessing
@@ -19033,6 +19048,7 @@ interconnecting
 interconnection
 interconnects
 intercooler
+intercorporate
 intercorrelate
 intercorrelated
 intercostal
@@ -20676,6 +20692,7 @@ laxnesses
 layoff
 layout
 layover
+layperson
 lays
 layup
 lazars
@@ -22751,6 +22768,7 @@ midlists
 midlives
 midmost
 midrashic
+midrashoth
 midsagittal
 midship
 midshipman
@@ -24023,6 +24041,7 @@ myelomatous
 myelopathic
 mynas
 myocardia
+myocardial
 myoclonuses
 myoelectric
 myoelectrical
@@ -24554,6 +24573,7 @@ nodous
 nodulous
 noel
 noels
+noesises
 noggin
 noh
 nohow
@@ -27023,6 +27043,7 @@ parvis
 parvolin
 paseo
 pasha
+pashadom
 pashalik
 pasquil
 pasquinades
@@ -28197,6 +28218,7 @@ pitmans
 pittances
 pittas
 pittosporum
+pity
 piu
 pivotable
 pivoted
@@ -29263,6 +29285,7 @@ preregistering
 preregistration
 prerenal
 prerequire
+prerevisionist
 prerinsed
 prerinsing
 presages
@@ -29326,6 +29349,7 @@ presumable
 presumably
 presume
 presumes
+presuming
 presumingly
 presummit
 presupposing
@@ -30878,6 +30902,7 @@ rebukes
 rebuking
 reburying
 rebut
+rebuts
 rebutted
 rebutter
 rebutters
@@ -31019,6 +31044,7 @@ reconstitute
 reconstituted
 reconstitutions
 reconstructors
+reconsult
 reconsulting
 recontacted
 recontacts
@@ -31539,6 +31565,7 @@ relacquered
 relapsers
 relapses
 relational
+relatives
 relativists
 relaunder
 relaxable
@@ -35087,6 +35114,7 @@ slumberers
 slumbering
 slumberous
 slumgullions
+slumgum
 slumism
 slumlords
 slummed
@@ -36288,6 +36316,7 @@ steepled
 steeples
 steepnesses
 steerable
+steerageway
 steerer
 steerers
 steers
@@ -36420,6 +36449,7 @@ stitch
 stitchery
 stitching
 stitchwort
+stitchworts
 stithy
 stivers
 stoae
@@ -36494,6 +36524,7 @@ storekeeper
 storerooms
 storeships
 storeys
+storks
 storksbills
 stormier
 story
@@ -37610,6 +37641,7 @@ sycophantisms
 syenites
 syenitic
 syke
+sylis
 syllabi
 syllabicated
 syllabisms
@@ -41915,6 +41947,7 @@ wartime
 wartless
 warwork
 warworks
+warworn
 wasabi
 wash
 washables
@@ -42274,6 +42307,7 @@ widebody
 widely
 widener
 wideners
+wideness
 widens
 wideout
 widowerhood
@@ -42281,6 +42315,7 @@ widowers
 widowhood
 widows
 widthwise
+wieldable
 wielders
 wieldiest
 wifedom
