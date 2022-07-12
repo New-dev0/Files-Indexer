@@ -1716,6 +1716,7 @@ apostolicities
 apostrophic
 apostrophizes
 apothece
+apothecium
 apothems
 app
 appalled
@@ -1760,6 +1761,7 @@ applaudably
 applauded
 applause
 applecarts
+applejack
 applesauce
 applesauces
 applicabilities
@@ -2721,6 +2723,7 @@ balboa
 balbriggan
 balconies
 baldachin
+baldachinos
 baldaquins
 balded
 baldies
@@ -4237,6 +4240,7 @@ botel
 botels
 both
 bother
+botherations
 bothering
 bothriums
 botrytis
@@ -4467,6 +4471,7 @@ brethren
 brevet
 breviaries
 brewery
+brewskies
 briard
 briarroots
 briarwoods
@@ -4898,6 +4903,7 @@ butch
 butcher
 butenes
 butler
+butlery
 butte
 butted
 butterball
@@ -9305,6 +9311,7 @@ deathlessnesses
 deathwatches
 deaved
 deaves
+debacles
 debagged
 debarked
 debarkers
@@ -11063,6 +11070,7 @@ doloroso
 dolorous
 dolors
 dolts
+domaines
 domains
 dome
 domelike
@@ -11854,6 +11862,7 @@ effrontery
 effs
 effulge
 effulgent
+effuse
 effused
 effuses
 effusivenesses
@@ -12689,6 +12698,7 @@ equates
 equerry
 equestrian
 equestrians
+equicaloric
 equidistantly
 equilateral
 equilibrants
@@ -13028,6 +13038,7 @@ eviscerates
 eviscerating
 eviting
 evocators
+evoking
 evolute
 evolutionist
 evonymus
@@ -14068,6 +14079,7 @@ firewoods
 firing
 firkins
 firm
+firmaments
 firmnesses
 firms
 firs
@@ -15308,6 +15320,7 @@ garages
 garaging
 garbagey
 garbagy
+garbanzos
 garbing
 garbler
 garblers
@@ -18315,6 +18328,7 @@ illiquid
 illiterately
 illitic
 illocutionary
+illogic
 illogicalities
 illogicality
 illogicalness
@@ -19438,6 +19452,7 @@ intermodulation
 intermolecular
 intermountain
 internal
+internalising
 internality
 internationals
 internecine
@@ -23189,6 +23204,7 @@ millhouses
 milliard
 milliary
 millibar
+millibars
 millicuries
 millier
 millihenry
@@ -24007,6 +24023,7 @@ mortgage
 mortgagor
 mortice
 mortified
+mortifiers
 mortifies
 mortiser
 mortisers
@@ -26255,6 +26272,7 @@ outdodge
 outdoer
 outdoers
 outdrags
+outdreaming
 outdressed
 outdrink
 outdriving
@@ -26349,6 +26367,7 @@ outliving
 outloves
 outmaneuver
 outmaneuvers
+outmanipulate
 outmarching
 outmastering
 outmasters
@@ -29420,6 +29439,7 @@ pratfalls
 pratiques
 prattle
 prattling
+praxeological
 praxises
 prayerfulness
 preabsorb
@@ -29472,6 +29492,7 @@ prebuy
 prebuying
 precancelled
 precancer
+precarious
 precariousness
 precede
 preceded
@@ -30609,6 +30630,7 @@ pusillanimity
 pusillanimous
 pusleys
 puss
+pusses
 pussyfoot
 pussyfooters
 pustulant
@@ -31231,6 +31253,7 @@ reactiveness
 reactor
 reactors
 readablenesses
+readably
 readapted
 readapts
 readdicted
@@ -31729,6 +31752,7 @@ reendowed
 reenforced
 reenlarge
 reenlarges
+reenlarging
 reenlisting
 reenlistment
 reenlistments
@@ -32337,6 +32361,7 @@ repressurized
 repriced
 reprices
 reprieve
+reprieved
 reprimand
 reprints
 reprisals
@@ -32403,6 +32428,7 @@ reregistrations
 reregulates
 rereleasing
 reremice
+rerent
 rerepeat
 rerigging
 rerise
@@ -32860,6 +32886,7 @@ rewed
 reweighed
 reweighing
 reweld
+rewelded
 rewetted
 rewiden
 rewire
@@ -33340,6 +33367,7 @@ rubiest
 rubles
 rubouts
 rubrications
+rubricator
 rubrician
 rubying
 ruching
@@ -33628,6 +33656,7 @@ salvational
 salved
 salverform
 salvias
+salvific
 salvoed
 salvors
 samadhis
@@ -33993,6 +34022,7 @@ schizophrenias
 schizophrenic
 schizophrenics
 schizzier
+schizziest
 schlemiels
 schlemihl
 schlub
@@ -34158,6 +34188,7 @@ screamers
 screams
 scree
 screech
+screechiest
 screed
 screenfuls
 screenlands
@@ -35364,6 +35395,7 @@ sizzling
 skaldship
 skanker
 skankier
+skanking
 skater
 skatols
 skedaddles
@@ -36413,6 +36445,7 @@ spindlier
 spindrifts
 spined
 spinelessnesses
+spiniest
 spinifexes
 spinless
 spinnaker
@@ -40541,6 +40574,7 @@ ultrademocratic
 ultradense
 ultraexclusive
 ultrafeminine
+ultrafiches
 ultrahip
 ultrahot
 ultraist
@@ -43702,3 +43736,4 @@ zymosan
 zymosans
 zymosis
 zyzzyva
+zyzzyvas
