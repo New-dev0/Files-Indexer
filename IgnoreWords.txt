@@ -215,6 +215,7 @@ acetate
 acetazolamide
 acetic
 acetified
+acetones
 acetonic
 acetoxyls
 acetum
@@ -2016,6 +2017,7 @@ articulated
 articulations
 artier
 artifacts
+artificers
 artificial
 artificialities
 artificialness
@@ -2618,6 +2620,7 @@ backhaul
 backhauls
 backing
 backlands
+backlashing
 backlight
 backlist
 backlit
@@ -4929,6 +4932,7 @@ byroad
 bystreet
 bystreets
 bytes
+byword
 bywork
 byworks
 cabal
@@ -10104,6 +10108,7 @@ dextrorotary
 dextrorse
 dextroses
 dexy
+dezinc
 dhoolies
 dhootis
 dhurna
@@ -10315,6 +10320,7 @@ dignities
 digraphs
 digressively
 dihedral
+dihedron
 dikdiks
 dilatancy
 dilatational
@@ -11756,6 +11762,7 @@ eelgrass
 eeliest
 eely
 eerily
+effaceable
 effacing
 effect
 effector
@@ -13140,6 +13147,7 @@ expand
 expanded
 expanding
 expands
+expanse
 expansional
 expansionists
 expat
@@ -13728,6 +13736,7 @@ ferociousness
 ferocity
 ferrel
 ferreled
+ferreling
 ferrelled
 ferret
 ferreters
@@ -15435,6 +15444,7 @@ genocides
 genome
 genomes
 genotype
+genre
 genteel
 genteelness
 genteelnesses
@@ -17799,6 +17809,7 @@ humaner
 humanhoods
 humanist
 humanistically
+humanitarian
 humanities
 humanity
 humanization
@@ -18124,6 +18135,7 @@ ichthyofauna
 ichthyofaunal
 ichthyofaunas
 ichthyophagous
+ichthyosaurian
 iciest
 ickiest
 iconicity
@@ -18957,6 +18969,7 @@ ingrains
 ingrate
 ingratiated
 ingratiating
+ingratiation
 ingratiatory
 ingratitude
 ingredient
@@ -19459,6 +19472,7 @@ intrepidly
 intrepidness
 intrigants
 intriguant
+intriguer
 introgressants
 introit
 introject
@@ -19886,6 +19900,7 @@ jazzy
 jealousness
 jealousy
 jeer
+jeerers
 jeers
 jefe
 jehad
@@ -20098,6 +20113,7 @@ junctional
 junctions
 junglegyms
 juniorates
+juniorities
 juniority
 junk
 junkers
@@ -21188,6 +21204,7 @@ lickerishness
 lickspittles
 lictor
 lidding
+lidos
 liefest
 liegeman
 liens
@@ -23390,6 +23407,7 @@ mispackaging
 misparses
 misparted
 misperceiving
+misplacements
 misplaces
 misplans
 misplays
@@ -23970,6 +23988,7 @@ mousseline
 moussing
 mousy
 mouthed
+mouthfeels
 mouthily
 mouthpart
 mouthparts
@@ -27473,6 +27492,7 @@ pearlized
 pearls
 peart
 pearter
+peartest
 peartness
 pearwoods
 peasantries
@@ -28293,6 +28313,7 @@ pierrots
 pieta
 pietistic
 pietistically
+piffles
 pigboat
 pigboats
 pigeonholer
@@ -31338,6 +31359,7 @@ reconnoitred
 reconquer
 reconquest
 reconsecrating
+reconsidering
 reconsigns
 reconsolidating
 reconstitute
@@ -31617,6 +31639,7 @@ refits
 refixed
 reflating
 reflations
+reflectional
 reflectively
 reflectorized
 reflectors
@@ -33182,6 +33205,7 @@ ruffianisms
 ruffianly
 ruffle
 ruffled
+ruffly
 ruffs
 rug
 rugate
@@ -33478,6 +33502,7 @@ sandarac
 sandbaggers
 sandbagging
 sandbags
+sandbanks
 sandbar
 sandblasted
 sandblasting
@@ -33966,6 +33991,7 @@ screaking
 screaks
 screamers
 screams
+scree
 screech
 screed
 screenfuls
@@ -34016,6 +34042,7 @@ scubaed
 scubas
 scudding
 scuffer
+scuffing
 scufflers
 sculches
 scull
@@ -35721,6 +35748,7 @@ social
 socialises
 socialist
 socialistic
+socialite
 socialities
 socializations
 socialize
@@ -36657,6 +36685,7 @@ steeling
 steelmaker
 steelmakings
 steelwork
+steely
 steelyard
 steelyards
 steenbucks
@@ -37503,6 +37532,7 @@ suggestive
 suicided
 suing
 suitably
+suitcases
 suite
 suiters
 suitlike
@@ -38388,7 +38418,9 @@ tastelessness
 tastiest
 tatami
 tatars
+tats
 tatsois
+tatter
 tatterdemalions
 tattie
 tattiness
@@ -39102,6 +39134,7 @@ tinseling
 tinselling
 tint
 tinted
+tintypes
 tip
 tipcart
 tipis
@@ -40166,6 +40199,7 @@ tuyer
 tuyeres
 twaes
 twanged
+twanging
 twangle
 twangling
 twasome
@@ -42725,6 +42759,7 @@ whups
 wiccans
 wicked
 wickedest
+wickedness
 wickednesses
 wicker
 wickers
