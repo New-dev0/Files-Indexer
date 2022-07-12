@@ -1,0 +1,4 @@
+functions/Invoke-DbaDatabaseShrink.ps1 0.8.946,https://www.powershellgallery.com/packages/dbatools/0.8.946/Content/functions%255CInvoke-DbaDatabaseShrink.ps1
+functions/Invoke-DbaDbShrink.ps1 0.9.419 - PowerShell Gallery,https://www.powershellgallery.com/packages/dbatools/0.9.419/Content/functions%255CInvoke-DbaDbShrink.ps1
+PInvoke/Get-Service2.ps1 at master - GitHub,https://github.com/proxb/PInvoke/blob/master/Get-Service2.ps1
+MSRC-Microsoft-Security-Updates-API/Get ... - GitHub,https://github.com/microsoft/MSRC-Microsoft-Security-Updates-API/blob/master/src/MsrcSecurityUpdates/Public/Get-MsrcVulnerabilityReportHtml.ps1
