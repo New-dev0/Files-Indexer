@@ -139,6 +139,7 @@ accepter
 acceptor
 accessible
 accessibly
+accessorises
 accessorize
 accessorized
 accidentalness
@@ -3314,6 +3315,7 @@ bemoans
 bemock
 bemocking
 bemuddle
+bemuddled
 bemuddling
 bemurmured
 bemusedly
@@ -4994,6 +4996,7 @@ cachalot
 cachalots
 cachepots
 caching
+cachinnation
 cachou
 cachucha
 cachuchas
@@ -5406,6 +5409,7 @@ carcels
 carcinogen
 carcinogenic
 carcinosarcoma
+cardamums
 cardboards
 cardcase
 carders
@@ -7282,6 +7286,7 @@ commercialists
 commercialities
 commercialized
 commies
+comminutes
 comminuting
 comminutions
 commissariat
@@ -7647,6 +7652,7 @@ connecting
 connection
 connections
 conning
+conniver
 connivers
 conniving
 connotational
@@ -8389,6 +8395,7 @@ crampier
 crampiest
 crampon
 crampons
+cramps
 cranberries
 cranberry
 cranch
@@ -10405,6 +10412,7 @@ dilettantisms
 diligently
 diluter
 diluting
+dilutive
 dilutor
 diluvia
 diluvial
@@ -10852,6 +10860,7 @@ disserviceable
 disses
 disseverances
 dissevering
+dissimilar
 dissimilated
 dissimilatory
 dissimilitudes
@@ -13619,6 +13628,7 @@ farmworker
 faro
 farolito
 farrieries
+farriers
 farsides
 farsightedly
 farther
@@ -13794,6 +13804,7 @@ fenestra
 fenestrate
 fenestration
 fennec
+fennecs
 fentanyl
 fentanyls
 fenthions
@@ -14212,6 +14223,7 @@ flatfoots
 flatlands
 flatliners
 flatlong
+flatnesses
 flatten
 flattens
 flatterers
@@ -18287,6 +18299,7 @@ idolaters
 idolatrousness
 idoliser
 idolize
+idoneous
 ids
 idyll
 idylls
@@ -18674,6 +18687,7 @@ inbreathe
 inbreathes
 inbreeder
 inbreeders
+inbreedings
 inbreeds
 inburst
 inbye
@@ -20765,6 +20779,7 @@ laddies
 laddish
 lade
 laden
+ladhoods
 ladle
 ladleful
 ladlefuls
@@ -21596,6 +21611,7 @@ loathsomeness
 lob
 lobar
 lobbed
+lobbyism
 lobeline
 lobotomise
 lobotomised
@@ -21855,6 +21871,7 @@ luckless
 lucrativeness
 lucubrating
 luculent
+luffed
 lugeing
 luger
 luggages
@@ -23169,6 +23186,7 @@ mildest
 milding
 mileposts
 miler
+miles
 milesian
 milestone
 milestones
@@ -23366,6 +23384,7 @@ misassumption
 misatoned
 misatoning
 misattribute
+misattributes
 misattributions
 misaward
 misawarding
@@ -23535,6 +23554,7 @@ misplacements
 misplaces
 misplans
 misplays
+mispleads
 mispoise
 mispoised
 mispoising
@@ -25156,6 +25176,7 @@ nongame
 nonghetto
 nonglamorous
 nonglare
+nongolfers
 nongreen
 nonguests
 nonhalogenated
@@ -30323,6 +30344,7 @@ proves
 providences
 providers
 provinces
+provincialisms
 provincialize
 provincialized
 provincially
@@ -31059,6 +31081,7 @@ raisers
 raita
 rajahs
 raked
+rakees
 rakehell
 rakehelly
 rakes
@@ -31960,6 +31983,7 @@ rehearsals
 rehearse
 rehearsers
 rehearses
+reheater
 reheeled
 rehemmed
 rehired
@@ -32113,6 +32137,7 @@ relived
 reloaders
 reloaning
 reloans
+relocates
 relock
 relooks
 relubricated
@@ -32394,6 +32419,7 @@ republicanizing
 republished
 republisher
 republishes
+repudiate
 repugnantly
 repugning
 repugns
@@ -33505,6 +33531,7 @@ saccharase
 saccharases
 saccharic
 saccharified
+saccharimeters
 sacculations
 saccule
 sacerdotally
@@ -33541,6 +33568,7 @@ sadomasochistic
 sae
 safariing
 safe
+safenesses
 safer
 safest
 safety
@@ -34660,6 +34688,7 @@ seriousnesses
 serjeanties
 sermonizer
 sermonizers
+serologies
 serologists
 serology
 seronegativity
@@ -35227,6 +35256,7 @@ sigmoidoscopies
 signalers
 signaling
 signalised
+signalises
 signalize
 signalized
 signalling
@@ -36851,6 +36881,7 @@ stating
 station
 stational
 statism
+statist
 statistic
 statistically
 statives
@@ -37353,6 +37384,7 @@ stupefyingly
 stupendous
 stupendousness
 stupes
+stupidities
 sturdier
 sturdinesses
 sturt
@@ -41149,6 +41181,7 @@ unhelms
 unheralded
 unheroic
 unhewn
+unhinged
 unhirable
 unhood
 unhoped
@@ -41175,6 +41208,7 @@ unimaginative
 unimportant
 uninhibitedly
 uninitiate
+uninjured
 uninspected
 uninstalling
 uninstructed
@@ -42985,6 +43019,7 @@ whoops
 whooshes
 whopper
 whoremongers
+whoresons
 whorishly
 whortleberries
 whortles
