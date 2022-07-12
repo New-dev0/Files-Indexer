@@ -1925,6 +1925,7 @@ argumenta
 argumentations
 argumentative
 argumentatively
+aria
 ariboflavinoses
 ariboflavinosis
 ariettas
@@ -3269,6 +3270,7 @@ bellmen
 bellows
 bellpulls
 bellworts
+bellyache
 bellyacher
 bellybands
 bellylike
@@ -3665,6 +3667,7 @@ birched
 bird
 birdbath
 birdbrain
+birdbrained
 birdcage
 birdcages
 birddogged
@@ -3759,6 +3762,7 @@ blackfish
 blackfishes
 blackguarded
 blackguardisms
+blackguards
 blackheart
 blacklist
 blackpolls
@@ -3837,6 +3841,7 @@ bleated
 blebbings
 bled
 bleedings
+bleep
 bleeped
 bleepers
 blenched
@@ -4636,6 +4641,7 @@ bryology
 bryonies
 bryophyllums
 bryozoans
+bubal
 bubals
 bubbled
 bubbler
@@ -5279,6 +5285,8 @@ capitulations
 capless
 capo
 caponier
+caponiers
+caporal
 capotes
 capped
 cappelletti
@@ -6486,6 +6494,7 @@ citizens
 citolas
 citoles
 citrate
+citreous
 citrins
 citronellals
 citronellas
@@ -8369,6 +8378,7 @@ craws
 crayon
 craze
 crazier
+crazing
 creakiest
 creaky
 creamers
@@ -8790,6 +8800,7 @@ curarization
 curarizing
 curators
 curbers
+curbing
 curbings
 curbstone
 curdlers
@@ -10588,6 +10599,7 @@ disenthrals
 disentitled
 disequilibrated
 disequilibriums
+disestablish
 disestablished
 disesteeming
 diseur
@@ -10679,6 +10691,7 @@ disorientate
 disownments
 disparaging
 disparately
+disparity
 dispart
 disparting
 dispassion
@@ -14128,6 +14141,7 @@ flavine
 flavonols
 flavoproteins
 flavorfully
+flaw
 flawlessly
 flax
 flaxseed
@@ -14379,6 +14393,7 @@ fogged
 foggier
 foggiest
 fogginesses
+foghorns
 fogy
 fogyish
 foibles
@@ -16602,6 +16617,7 @@ hairlock
 hairlocks
 hairpiece
 hairsplittings
+hairsprays
 hairwork
 hajj
 hajjis
@@ -17026,6 +17042,7 @@ hegemons
 hegumens
 hegumeny
 height
+heiled
 heinie
 heinously
 heirdoms
@@ -17158,6 +17175,7 @@ herculean
 herd
 herdic
 hereafters
+hereditament
 hereditarians
 heredity
 heresies
@@ -17764,6 +17782,7 @@ hubcap
 huckleberry
 huddler
 hueless
+huff
 huffed
 huffing
 hugger
@@ -18973,6 +18992,7 @@ inimitable
 iniquitous
 iniquitousness
 initial
+initialing
 initialism
 initialisms
 initializations
@@ -20090,6 +20110,7 @@ juridic
 jurisprudences
 juryman
 jurywoman
+jussives
 juster
 justest
 justiciable
@@ -21554,6 +21575,7 @@ longings
 longish
 longitudes
 longitudinally
+longleaves
 longship
 longueur
 longways
@@ -22084,6 +22106,7 @@ mango
 mangoes
 mangold
 mangosteen
+manhandles
 manhood
 manhunt
 manhunts
@@ -22697,6 +22720,7 @@ mescal
 mesclun
 mesdemoiselles
 meseems
+mesenchymes
 mesentera
 mesenteron
 meshiest
@@ -23700,6 +23724,7 @@ mononucleate
 mononucleoses
 monophagies
 monophonically
+monophthongal
 monophthongs
 monophyletic
 monophylies
@@ -24276,6 +24301,7 @@ mysid
 mysids
 mysosts
 mystagogies
+mystically
 mysticete
 mysticetes
 mystifications
@@ -25048,6 +25074,7 @@ nonnecessities
 nonnoble
 nonnovel
 nonnuclear
+nonnumerical
 nonobjective
 nonobjectivism
 nonobscene
@@ -25583,6 +25610,7 @@ ogives
 ogled
 ogles
 ogreish
+ogreism
 ogresses
 ogrisms
 ohed
@@ -26644,6 +26672,7 @@ oversewing
 overshaded
 overshirts
 overshoe
+overside
 oversides
 oversights
 oversimplified
@@ -28805,6 +28834,7 @@ polder
 polecats
 polemicizing
 polemics
+polemize
 polemized
 polemizing
 polenta
@@ -29279,6 +29309,7 @@ preboiled
 prebook
 prebound
 prebudgets
+prebuild
 prebuilds
 prebuy
 prebuying
@@ -29354,6 +29385,7 @@ predicates
 predictably
 predictive
 predictively
+predicts
 predigest
 predilections
 predischarge
@@ -29683,6 +29715,7 @@ prickings
 prickliness
 pricklinesses
 pricks
+pricy
 prided
 priedieus
 prier
@@ -31567,6 +31600,7 @@ refer
 refereed
 refereeing
 references
+referrals
 refights
 refigure
 refiled
@@ -31804,6 +31838,7 @@ reinvestment
 reinvoke
 reissue
 reitbok
+reiterated
 reiterating
 reiterations
 reive
@@ -33000,6 +33035,7 @@ roseate
 roseately
 rosefishes
 rosehip
+roselike
 roselle
 roseolas
 roseries
@@ -33616,6 +33652,7 @@ savannah
 savannas
 savants
 save
+saved
 savers
 saviors
 savorer
@@ -34567,6 +34604,7 @@ shatter
 shatterers
 shaughs
 shaved
+shavelings
 shaven
 shavetail
 shavies
@@ -35839,6 +35877,7 @@ sonobuoy
 sonobuoys
 sonograms
 sonorous
+sonorousness
 sonorousnesses
 sons
 sonsie
@@ -37323,6 +37362,7 @@ subsiders
 subsidiarity
 subsidising
 subsidization
+subsidize
 subsidizes
 subsister
 subsites
@@ -39725,6 +39765,7 @@ trickly
 tricksiest
 tricksiness
 trickster
+tricksy
 tricorn
 tricorne
 tricotine
@@ -40724,6 +40765,7 @@ undoubted
 undramatized
 undress
 undressing
+undrest
 undrew
 undried
 undular
@@ -41228,6 +41270,7 @@ untiringly
 untouched
 untoward
 untowardness
+untraced
 untraditionally
 untrained
 untranslatable
@@ -41417,6 +41460,7 @@ urbanizations
 urbanologies
 urbanology
 urceolate
+urchins
 urea
 ureal
 uredinia
@@ -42298,6 +42342,7 @@ wareroom
 warfares
 warheads
 warhorse
+warier
 wariness
 warison
 warisons
