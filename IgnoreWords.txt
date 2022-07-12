@@ -411,6 +411,7 @@ admittance
 admitting
 admix
 admixt
+admonisher
 admonishment
 admonitions
 adnouns
@@ -2896,6 +2897,7 @@ barratries
 barred
 barrel
 barrelheads
+barres
 barret
 barretors
 barretries
@@ -3458,6 +3460,7 @@ bewitches
 beworry
 bewrap
 bewrapt
+bewrayer
 beylics
 beyonds
 bezazzes
@@ -6674,6 +6677,7 @@ clinally
 clinches
 clingers
 clingfishes
+clingstone
 clingy
 clinically
 clinkering
@@ -7287,6 +7291,7 @@ commove
 commoves
 communality
 communalize
+communalized
 communalizes
 communally
 commune
@@ -7755,6 +7760,7 @@ contemplatively
 contemplatives
 contemplators
 contemporaneity
+contemporarily
 contempt
 contemptibility
 contemptuous
@@ -8535,6 +8541,7 @@ crisper
 crispers
 crispest
 crisply
+crispness
 crisps
 crispy
 crisscrossing
@@ -9170,6 +9177,7 @@ darbies
 darbs
 daredevilry
 daredeviltries
+dareful
 daric
 daringnesses
 dark
@@ -11915,6 +11923,7 @@ electrified
 electroacoustic
 electroanalysis
 electrocuted
+electrocution
 electrodeposits
 electrodialysis
 electrodialytic
@@ -12173,6 +12182,7 @@ enantiomorphous
 enatic
 encampment
 encapsulated
+encapsulates
 encapsulation
 encapsuling
 encasements
@@ -13704,6 +13714,7 @@ feelings
 feeze
 feezed
 feigner
+feigning
 feigns
 feijoa
 feinted
@@ -14256,6 +14267,7 @@ flipbooks
 flipflop
 flipflops
 flippancies
+flippant
 flippest
 flipping
 flirtatiously
@@ -14377,6 +14389,7 @@ fluorimetric
 fluorimetries
 fluorination
 fluorine
+fluorines
 fluorites
 fluorocarbons
 fluorochromes
@@ -15090,6 +15103,7 @@ furthering
 furtively
 furuncle
 furuncles
+furze
 fusaria
 fuse
 fused
@@ -16790,6 +16804,7 @@ hang
 hangnail
 hangnails
 hangtags
+haniwa
 hanked
 hankerer
 hankerers
@@ -17434,6 +17449,7 @@ hirselled
 hirsels
 hirsute
 hirudin
+hispanidads
 hissiest
 hissing
 hissy
@@ -18955,6 +18971,7 @@ inferably
 inferior
 infernally
 inferrer
+infesters
 infidelic
 infighters
 infights
@@ -19621,6 +19638,7 @@ inviter
 inviters
 inviting
 invocated
+invocation
 invoke
 involucra
 involve
@@ -24028,6 +24046,7 @@ mottling
 motts
 mouchoir
 moufflons
+mouflons
 moujik
 moulages
 moulded
@@ -24665,6 +24684,7 @@ nepetas
 nephelinic
 nephelometers
 nephoscopes
+nephridia
 nephridial
 nephrisms
 nephrite
@@ -28273,6 +28293,7 @@ phthisics
 phycocyanins
 phycoerythrins
 phycomycetes
+phyla
 phylar
 phylaxis
 phylaxises
@@ -28834,6 +28855,7 @@ plumpen
 plumule
 plumules
 plundered
+plunders
 plunker
 plunkers
 plunks
@@ -29634,6 +29656,7 @@ preobtain
 preoccupancy
 preordering
 prepackage
+prepackaged
 preparatively
 preparatives
 preparatorily
@@ -31585,6 +31608,7 @@ redip
 redirected
 redirects
 redis
+rediscount
 rediscounted
 rediscover
 rediscovered
@@ -32236,6 +32260,7 @@ repled
 replenished
 repleteness
 repletes
+repletions
 replevin
 replica
 replicabilities
@@ -32355,6 +32380,7 @@ rereleasing
 reremice
 rerepeat
 rerigging
+rerise
 rerises
 rerolls
 reroofs
@@ -32514,6 +32540,7 @@ restable
 restabled
 restack
 restaffed
+restage
 restaged
 restartable
 restatements
@@ -32894,6 +32921,7 @@ ribosomes
 ribozyme
 ribs
 ribworts
+ricebird
 ricercari
 richen
 richened
@@ -36389,6 +36417,7 @@ spirited
 spiritism
 spiritist
 spirits
+spiritualize
 spiritualnesses
 spirituals
 spirituous
@@ -36896,6 +36925,7 @@ sternway
 steroid
 steroidal
 stevedored
+stewardess
 stewarding
 stewbum
 stewing
@@ -37480,6 +37510,7 @@ subpoena
 subpoenaing
 subpopulations
 subprocess
+subprofessional
 subprograms
 subprojects
 subpubic
@@ -39609,6 +39640,7 @@ trachoma
 tracing
 track
 trackable
+trackages
 trackers
 tracking
 trackman
@@ -40349,6 +40381,7 @@ tweezer
 tweezers
 tweezing
 twelfth
+twelvemo
 twelves
 twenties
 twentieths
@@ -40539,6 +40572,7 @@ unaccrued
 unacerbic
 unactorish
 unadeptly
+unadjusted
 unadulteratedly
 unadventurous
 unaesthetic
@@ -43449,6 +43483,7 @@ yohimbines
 yokozuna
 yokozunas
 yolk
+yolkier
 yoni
 yonic
 yore
