@@ -1001,6 +1001,7 @@ ambiances
 ambidexterities
 ambient
 ambients
+ambiguities
 ambiguousnesses
 ambipolar
 ambisexuality
@@ -1639,6 +1640,7 @@ anyplace
 anything
 anywise
 aorist
+aorists
 aortae
 aortas
 aortographic
@@ -2308,6 +2310,7 @@ attain
 attainability
 attainable
 attainting
+attars
 attempers
 attemptable
 attended
@@ -2915,6 +2918,7 @@ barrators
 barratries
 barred
 barrel
+barrelhead
 barrelheads
 barres
 barret
@@ -5018,6 +5022,7 @@ cachucha
 cachuchas
 caciquisms
 cacklers
+cacodemon
 cacodemons
 cacodyls
 cacomixls
@@ -6294,6 +6299,7 @@ chlorin
 chlorinators
 chlorins
 chlorobenzene
+chloroform
 chloroformed
 chlorophyll
 chlorophylls
@@ -7105,6 +7111,7 @@ colby
 colchicines
 coldblood
 coldcocks
+coldest
 coldhearted
 coldheartedness
 coldnesses
@@ -7454,6 +7461,7 @@ computerising
 computerist
 computerize
 computerized
+computernik
 computerphobias
 computists
 comrade
@@ -10506,6 +10514,7 @@ diphthonged
 diphthongizes
 diphthongs
 diphyletic
+diplex
 diplexer
 diploblastic
 diplodocus
@@ -16031,6 +16040,7 @@ gnomons
 gnoses
 gnosticisms
 gnotobiotic
+goaded
 goading
 goalmouths
 goaltenders
@@ -18977,6 +18987,7 @@ individuations
 indivisible
 indoles
 indophenol
+indophenols
 indorsees
 indorsers
 indowed
@@ -19029,6 +19040,7 @@ inequity
 inequivalve
 inerrable
 inerrancy
+inerrant
 inertial
 inertially
 inertias
@@ -19398,6 +19410,7 @@ integuments
 intellective
 intellectively
 intellectualist
+intelligencer
 intelligently
 intemperance
 intend
@@ -19661,6 +19674,7 @@ intrenching
 intrepidity
 intrepidly
 intrepidness
+intricatenesses
 intrigants
 intriguant
 intriguer
@@ -22275,6 +22289,7 @@ maltreats
 malversations
 mambo
 mamboes
+mammae
 mammal
 mammalities
 mammals
@@ -23567,6 +23582,7 @@ misguidedly
 misguider
 misguides
 misguiding
+mishandle
 mishanters
 mishitting
 mishmash
@@ -25455,6 +25471,7 @@ noradrenalins
 noris
 norites
 norland
+normalcy
 normalities
 normality
 normalizers
@@ -26181,6 +26198,7 @@ ornamentals
 ornamentation
 ornamentations
 ornaments
+ornerinesses
 ornery
 ornis
 ornithine
@@ -26192,6 +26210,7 @@ orogeneses
 orogenetic
 orogeny
 orography
+oroide
 orology
 orotundities
 orotundity
@@ -29989,6 +30008,7 @@ previous
 prevised
 prevuing
 prewarns
+prewashed
 prewiring
 preworked
 preworking
@@ -30235,6 +30255,7 @@ promising
 promisors
 promo
 promontories
+promos
 promotable
 promotiveness
 prompt
@@ -30536,6 +30557,7 @@ psychotropics
 psychrometries
 psychs
 psylliums
+ptarmigan
 pteranodon
 pteridine
 pteridines
@@ -31503,6 +31525,7 @@ rebottles
 rebought
 rebranching
 rebreed
+rebreeds
 rebuffs
 rebuilding
 rebuker
@@ -32196,6 +32219,7 @@ relapses
 relational
 relatives
 relativists
+relativizing
 relaunder
 relaxable
 relaxants
@@ -33641,6 +33665,7 @@ saccharases
 saccharic
 saccharified
 saccharimeters
+saccharinity
 sacculations
 saccule
 sacerdotally
@@ -33698,6 +33723,7 @@ sagger
 saggiest
 sagier
 sagos
+sagy
 sahibs
 saice
 saids
@@ -37142,6 +37168,7 @@ stewardess
 stewarding
 stewbum
 stewing
+stews
 stewy
 stich
 stichomythia
@@ -39268,6 +39295,7 @@ thickhead
 thicknesses
 thicksets
 thievery
+thievishness
 thigmotaxes
 thimble
 thimbleweed
@@ -39410,6 +39438,7 @@ thyroiditises
 thyroids
 thyrotrophin
 thyrses
+thyrsus
 tiara
 tiaras
 tibiae
@@ -39823,6 +39852,7 @@ touts
 tovarich
 tovarish
 towable
+toward
 towelette
 towelettes
 towelling
@@ -40799,6 +40829,7 @@ unabsorbed
 unabusive
 unacademic
 unaccented
+unacceptability
 unacclimatized
 unaccrued
 unacerbic
@@ -40836,6 +40867,7 @@ unarmed
 unaspirated
 unassailability
 unassailably
+unassembled
 unassimilable
 unathletic
 unattenuated
@@ -41450,6 +41482,7 @@ unmemorably
 unmew
 unmingle
 unmistakable
+unmiters
 unmitre
 unmix
 unmodernized
@@ -42731,6 +42764,7 @@ wakefulness
 waken
 wakening
 wakes
+waking
 waled
 walkabout
 walkabouts
@@ -43190,6 +43224,7 @@ wideners
 wideness
 widens
 wideout
+widespread
 widowerhood
 widowers
 widowhood
