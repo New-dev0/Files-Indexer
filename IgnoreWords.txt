@@ -335,6 +335,7 @@ acylated
 ad
 adamance
 adamant
+adamsites
 adapt
 adaptable
 adaptation
@@ -3908,6 +3909,7 @@ bleedings
 bleep
 bleeped
 bleepers
+blench
 blenched
 blencher
 blend
@@ -4847,6 +4849,7 @@ bundled
 bundt
 bungalow
 bungalows
+bunged
 bunging
 bungle
 bunglers
@@ -7019,6 +7022,7 @@ coeducation
 coeducationally
 coeffect
 coelacanth
+coelenterates
 coelomate
 coelostat
 coelostats
@@ -9705,6 +9709,7 @@ degranulation
 degrees
 degressive
 degums
+degusts
 dehisce
 dehiscence
 dehorned
@@ -9805,6 +9810,7 @@ demandable
 demander
 demandingness
 demantoids
+demarcate
 demarcated
 demarcation
 demarked
@@ -9950,6 +9956,7 @@ depictions
 depictor
 depilatories
 depilators
+deplaning
 depletions
 deplore
 deplorer
@@ -10415,6 +10422,7 @@ diestrums
 diestruses
 dietetic
 differed
+differentia
 differentiated
 differentiation
 differently
@@ -11810,6 +11818,7 @@ eavesdrop
 eavesdropper
 ebony
 ebulliences
+ebulliently
 ebullitions
 ecartes
 eccentricities
@@ -12001,6 +12010,7 @@ eights
 eightvo
 einkorn
 eirenic
+eisegeses
 eisteddfodic
 either
 ejaculates
@@ -13528,6 +13538,7 @@ eyelets
 eyelike
 eyepoppers
 eyes
+eyeshine
 eyestalks
 eyestrain
 eyetooth
@@ -14355,6 +14366,7 @@ flavorfully
 flaw
 flawing
 flawlessly
+flawy
 flax
 flaxseed
 flay
@@ -15103,6 +15115,7 @@ frosted
 frostfish
 frostiness
 frosting
+frostline
 frostnip
 frostwork
 frostworks
@@ -16957,6 +16970,7 @@ handhold
 handicapping
 handicrafts
 handinesses
+handing
 handkerchieves
 handled
 handless
@@ -19264,6 +19278,7 @@ inhabitancy
 inhalers
 inharmonious
 inharmony
+inheritableness
 inheritresses
 inheritrix
 inhibin
@@ -22038,6 +22053,7 @@ lubricious
 lubricity
 lucarne
 lucarnes
+lucences
 lucifer
 luck
 lucked
@@ -24632,6 +24648,7 @@ myeloma
 myelomata
 myelomatous
 myelopathic
+myiasis
 mynas
 myocardia
 myocardial
@@ -24889,6 +24906,7 @@ negritude
 neifs
 neighboring
 neighborly
+neighbour
 neighbouring
 neighing
 nektonic
@@ -25079,6 +25097,7 @@ nielloing
 nieve
 nieves
 niffering
+niftiest
 niftily
 niggarding
 niggardliness
@@ -27377,6 +27396,7 @@ paloverdes
 palpability
 palpably
 palpation
+palpator
 palpators
 palpebral
 palpebras
@@ -27884,6 +27904,7 @@ peasantries
 peascod
 pease
 peasoupers
+peatier
 peavy
 pebbling
 peccadilloes
@@ -28282,6 +28303,7 @@ pervasively
 pervasivenesses
 pervert
 pervertedly
+pervertednesses
 perverters
 pervious
 pesos
@@ -29372,6 +29394,7 @@ polyvalence
 polyvalent
 polyvinyl
 polywaters
+polyzoans
 polyzoary
 polyzoic
 pomade
@@ -29415,6 +29438,7 @@ poontangs
 poop
 poops
 pooris
+poos
 popedom
 popes
 popinjays
@@ -31190,6 +31214,7 @@ qwerty
 qwertys
 rabatos
 rabbin
+rabbinical
 rabbitbrush
 rabbiting
 rabbles
@@ -31200,6 +31225,7 @@ rabidly
 rabidnesses
 raccoon
 race
+racehorses
 racemes
 racemized
 racemizing
@@ -33225,6 +33251,7 @@ rhododendrons
 rhodomontades
 rhombencephala
 rhomboidal
+rhombus
 rhumb
 rhymer
 rhymester
@@ -33303,6 +33330,7 @@ riflebirds
 riflers
 rifling
 riflip
+rifting
 rigadoon
 rigadoons
 rigamarole
@@ -35263,6 +35291,7 @@ shipless
 shipmaster
 shipmasters
 shipmates
+shipmen
 shipment
 shipping
 ships
@@ -36766,6 +36795,7 @@ spinnerets
 spinney
 spinnies
 spinny
+spinoff
 spinosely
 spinosities
 spins
@@ -36879,6 +36909,7 @@ spoons
 spoor
 sporangia
 sporangial
+sporangiophores
 spores
 sporocarp
 sporocarps
@@ -39588,6 +39619,7 @@ thymols
 thyratrons
 thyreoid
 thyristor
+thyrocalcitonin
 thyroglobulin
 thyroiditises
 thyroids
@@ -39672,6 +39704,7 @@ timekeeper
 timekeepings
 timelessness
 timeliness
+timesaver
 timeserver
 timeservings
 timework
@@ -40324,6 +40357,7 @@ tresses
 tressiest
 tressures
 trestle
+trestleworks
 tret
 trevallies
 triacetates
@@ -42681,6 +42715,7 @@ viscometers
 viscosimeter
 viscosities
 viscounts
+viscounty
 viscus
 viseed
 viselike
