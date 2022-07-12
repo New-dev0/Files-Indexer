@@ -752,6 +752,7 @@ alchemical
 alchemistic
 alchemize
 alchemizes
+alchemizing
 alcidine
 alcids
 alcoholically
@@ -869,6 +870,7 @@ allophone
 alloplasms
 allosteries
 allostery
+allotetraploid
 allotetraploids
 allotments
 allotter
@@ -2594,6 +2596,7 @@ babysits
 bacalao
 baccalaureate
 baccaras
+bacchanalia
 bacchanalian
 bacchanals
 bacchant
@@ -3421,11 +3424,13 @@ besting
 bestrewed
 bestrews
 bestrid
+bestrides
 bestudding
 bestuds
 beswarmed
 beswarms
 bet
+beta
 betaine
 betake
 betelnut
@@ -4004,6 +4009,7 @@ boatnecks
 boatsmen
 boatyard
 boatyards
+bob
 bobbery
 bobble
 bobolinks
@@ -4028,6 +4034,7 @@ bodyboarded
 bodybuilders
 bodybuilding
 bodybuildings
+bodycheck
 bodyguarding
 bodyguards
 bodysuits
@@ -4532,6 +4539,7 @@ broadened
 broadener
 broadening
 broadens
+broadleaf
 broadleaves
 broadly
 broadtails
@@ -4890,6 +4898,7 @@ butch
 butcher
 butenes
 butler
+butte
 butted
 butterball
 butterflies
@@ -6175,6 +6184,7 @@ chilidogs
 chill
 chillest
 chillies
+chilopod
 chiltepin
 chiltepins
 chimaeras
@@ -7262,6 +7272,7 @@ commercialises
 commercialisms
 commercialist
 commercialistic
+commercialists
 commercialities
 commercialized
 commies
@@ -7596,6 +7607,7 @@ congressperson
 congresspersons
 congresswomen
 congruencies
+congruities
 congruously
 congruousnesses
 conical
@@ -8242,6 +8254,7 @@ countershading
 countersigning
 countersink
 countersinking
+countersniper
 counterspy
 counterstream
 counterstruck
@@ -8337,6 +8350,7 @@ crabgrasses
 crablike
 crabmeat
 crabstick
+crack
 crackajacks
 crackback
 crackerjack
@@ -10025,6 +10039,7 @@ destitution
 destitutions
 destrier
 destroys
+destructed
 destruction
 destructiveness
 destructivity
@@ -10344,6 +10359,7 @@ digamma
 digenesis
 digenetic
 digested
+digestibility
 digestible
 digests
 digitalins
@@ -12227,6 +12243,7 @@ encrusting
 encryption
 enculturate
 enculturated
+encumbered
 encumbrancer
 encyclic
 encyclical
@@ -15702,6 +15719,7 @@ ginzo
 gipper
 giraffe
 giraffes
+giraffish
 girandolas
 gird
 girded
@@ -18416,6 +18434,7 @@ immunochemistry
 immunodeficient
 immunogenetics
 immunogenic
+immunogenicity
 immunogens
 immunologist
 immunology
@@ -20451,6 +20470,7 @@ kidney
 kidskins
 kidvid
 kief
+kiefs
 kielbasi
 kiers
 kilim
@@ -26083,6 +26103,7 @@ orthotics
 orthotropous
 oryxes
 os
+osar
 oscillography
 oscinine
 osetra
@@ -27083,6 +27104,7 @@ pallet
 palletised
 palletize
 palletizer
+palletizing
 pallets
 pallia
 palliatives
@@ -27781,6 +27803,7 @@ penultima
 penultimately
 penults
 penumbra
+penurious
 penuriousnesses
 peones
 peopleless
@@ -29630,6 +29653,7 @@ prematureness
 prematurenesses
 premaxillary
 premedieval
+premeditations
 premeditative
 premeds
 premenopausal
@@ -30027,6 +30051,7 @@ prognosticators
 prognostics
 programed
 programer
+programming
 programs
 progression
 progressive
@@ -33473,6 +33498,7 @@ saddle
 saddlebred
 saddlebreds
 saddlecloths
+saddleries
 saddlery
 saddletrees
 sade
@@ -35029,6 +35055,7 @@ showroom
 showstopper
 showy
 shredders
+shrew
 shrewdie
 shrewed
 shrewishly
@@ -35158,6 +35185,7 @@ sightings
 sightless
 sightlessnesses
 sightly
+sights
 sightseeing
 sightseers
 sightsees
@@ -36872,6 +36900,7 @@ stemmata
 stemmer
 stemming
 stemware
+stemwares
 stenchier
 stencilling
 stencils
@@ -37351,6 +37380,7 @@ subcellular
 subcenter
 subcenters
 subchapters
+subchief
 subclans
 subclassify
 subclause
@@ -38137,6 +38167,7 @@ swiddens
 swifter
 swiftness
 swig
+swigging
 swillers
 swim
 swimmily
@@ -38658,6 +38689,7 @@ technocratic
 technologic
 technologists
 technologized
+technology
 technophiles
 technopop
 tectites
@@ -38964,6 +38996,7 @@ theatricalize
 theatricalizes
 theatricals
 thecate
+thecodont
 theft
 thegnly
 theine
@@ -41784,6 +41817,7 @@ values
 valuta
 valvar
 valveless
+valvelets
 valving
 valvula
 valvules
@@ -42764,6 +42798,7 @@ welshing
 weltanschauungs
 welterweight
 welterweights
+wendigos
 wending
 wends
 werewolves
