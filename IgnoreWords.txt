@@ -830,6 +830,7 @@ alkalises
 alkalized
 alkalizer
 alkalizing
+alkaloids
 alkane
 alkie
 alkines
@@ -1484,6 +1485,7 @@ antidogmatic
 antidotal
 antidraft
 antielectron
+antielectrons
 antiemetics
 antiepilepsy
 antiepileptics
@@ -2040,6 +2042,7 @@ arthrodeses
 arthrodesis
 artichoke
 artichokes
+article
 articled
 articulacies
 articulate
@@ -3125,6 +3128,7 @@ becarpeted
 becarpets
 bechamels
 becharm
+beck
 becked
 becket
 beckoned
@@ -3451,6 +3455,7 @@ bestialized
 bestializing
 bestiary
 besting
+bestowers
 bestrewed
 bestrews
 bestrid
@@ -3729,6 +3734,7 @@ birders
 birdfarm
 birdfarms
 birdies
+birdings
 birdlife
 birdman
 birds
@@ -4503,6 +4509,7 @@ brents
 brethren
 brevet
 breviaries
+brevity
 brewery
 brewskies
 briard
@@ -9152,6 +9159,7 @@ dactylic
 dactylology
 dactylus
 dadaistic
+daddling
 dado
 dados
 daffiest
@@ -12312,6 +12320,7 @@ encipherer
 enciphering
 enciphers
 enclasped
+enclasping
 enclave
 enclaves
 enclose
@@ -12651,6 +12660,7 @@ enwreathed
 enwreathes
 enzym
 enzymologies
+enzymologist
 enzymologists
 enzyms
 eohippuses
@@ -15374,6 +15384,7 @@ galvanometers
 galvanoscopes
 galyac
 galyak
+gam
 gambesons
 gambias
 gambier
@@ -16303,6 +16314,7 @@ granters
 grants
 grantsmanships
 grantsmen
+granularities
 granulates
 granulators
 granule
@@ -16503,6 +16515,7 @@ groschen
 grosgrains
 grossing
 grossness
+grosz
 grosze
 grot
 grotesque
@@ -17066,6 +17079,7 @@ harvestmen
 harvesttime
 harvesttimes
 has
+hasenpfeffer
 hashheads
 hashishes
 hasp
@@ -17322,6 +17336,7 @@ helve
 hem
 hemacytometer
 hemacytometers
+hemagglutinates
 hemagogs
 hematics
 hematinics
@@ -18013,6 +18028,7 @@ hryvnas
 hubbub
 hubby
 hubcap
+hubristic
 huckleberry
 huddler
 hueless
@@ -18447,6 +18463,7 @@ illegalities
 illegals
 illegibility
 illegitimacies
+illiberalities
 illiberality
 illiberalness
 illicitly
@@ -18865,6 +18882,7 @@ inclosing
 inclosure
 including
 inclusivenesses
+incognitas
 incognitos
 incognizant
 income
@@ -21955,6 +21973,7 @@ lout
 louted
 loutish
 loutishnesses
+louvres
 lovablenesses
 lovage
 lovages
@@ -23238,6 +23257,7 @@ micromorphology
 micronized
 microns
 micronucleus
+microphages
 microphotometer
 micropipet
 micropipets
@@ -26180,6 +26200,7 @@ opusculum
 opuses
 or
 ora
+oraches
 oral
 orals
 orangeade
@@ -27197,6 +27218,7 @@ packers
 packets
 packing
 packman
+packmen
 packness
 packnesses
 packs
@@ -28283,6 +28305,7 @@ petrifaction
 petrifier
 petrifying
 petrochemicals
+petrogenesis
 petrogenetic
 petrographer
 petrographic
@@ -28815,6 +28838,7 @@ piragua
 piraguas
 piranas
 pirate
+pirated
 piratic
 piratically
 pirojki
@@ -29374,6 +29398,7 @@ poop
 poops
 pooris
 popedom
+popes
 popinjays
 poplar
 poplin
@@ -30272,6 +30297,7 @@ profligacies
 profound
 profoundly
 profuseness
+prog
 progeny
 progestin
 progestins
@@ -31302,6 +31328,7 @@ rammier
 rammy
 ramona
 ramose
+ramosely
 rampages
 rampantly
 rampart
@@ -35042,6 +35069,7 @@ shamanic
 shamanistic
 shamble
 shameable
+shamefulnesses
 shamelessnesses
 shammed
 shammes
@@ -36823,6 +36851,7 @@ spooney
 spooning
 spoons
 spoor
+sporangia
 sporangial
 spores
 sporocarp
@@ -36855,6 +36884,7 @@ sprattle
 sprattled
 sprattles
 sprawled
+sprawls
 sprawly
 sprayer
 sprees
@@ -37182,6 +37212,7 @@ steersman
 steeves
 steeving
 stegosauruses
+stela
 stelar
 stelene
 steles
@@ -38950,6 +38981,7 @@ taximeters
 taxiways
 taxol
 taxonomically
+taxpayer
 taxpaying
 tazza
 tazzas
@@ -39554,6 +39586,7 @@ tiddledywinks
 tiddler
 tiddly
 tided
+tidelike
 tidemarks
 tiderips
 tides
@@ -40580,6 +40613,7 @@ tuberoid
 tuberous
 tubeworks
 tubfuls
+tubifexes
 tubiform
 tubing
 tubists
@@ -40949,6 +40983,7 @@ unamortized
 unamused
 unanchored
 unanchors
+unanesthetized
 unanimity
 unanimous
 unanimously
