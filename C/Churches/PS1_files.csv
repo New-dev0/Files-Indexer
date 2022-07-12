@@ -1,0 +1,6 @@
+infra/windows_sysprep.ps1 - platform/ndk - Git at Google,https://android.googlesource.com/platform/ndk/%2B/master/infra/windows_sysprep.ps1
+build-infra/ConfigureForAnsible.ps1 at master - GitHub,https://github.com/couchbase/build-infra/blob/master/ansible/windows/ConfigureForAnsible.ps1
+Configure Remoting for Ansible - GitHub,https://raw.githubusercontent.com/ansible/ansible/devel/examples/scripts/ConfigureRemotingForAnsible.ps1
+ConfigureRemotingForAnsible.ps1,https://img.cs.montana.edu/windows/ConfigureRemotingForAnsible.ps1
+Private/Functions/Get-RandomQuote.ps1 22.6.28 - PowerShell Gallery,https://www.powershellgallery.com/packages/TeamsFunctions/22.6.28/Content/Private%255CFunctions%255CGet-RandomQuote.ps1
+scripts/private/Passphraser.Words.ps1 1.0.4 - PowerShell Gallery,https://www.powershellgallery.com/packages/Passphraser/1.0.4/Content/scripts%255Cprivate%255CPassphraser.Words.ps1
