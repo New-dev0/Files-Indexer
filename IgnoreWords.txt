@@ -1266,6 +1266,7 @@ angelologies
 angels
 anginous
 angiogram
+angiology
 angiosperm
 angiospermous
 angle
@@ -4016,6 +4017,7 @@ bodybuilding
 bodybuildings
 bodyguarding
 bodyguards
+bodysuits
 bodysurfed
 bodyworks
 boff
@@ -5461,6 +5463,7 @@ carps
 carpus
 carrack
 carracks
+carrageenins
 carrells
 carrels
 carrier
@@ -6148,6 +6151,7 @@ childlikenesses
 chile
 chiliarchs
 chiliast
+chilidog
 chilidogs
 chill
 chillest
@@ -9049,6 +9053,7 @@ daffing
 daffodils
 daffy
 dafter
+dag
 daggas
 daggerlike
 daggers
@@ -11322,6 +11327,7 @@ drivetrain
 drizzlier
 drizzliest
 droid
+droids
 drollery
 drolling
 dromon
@@ -12160,6 +12166,7 @@ enciphers
 enclasped
 enclave
 enclaves
+enclose
 enclosers
 encoded
 encomiast
@@ -13941,6 +13948,7 @@ finicalnesses
 finickiest
 finickiness
 finickinesses
+finicky
 finikin
 finings
 finishes
@@ -15187,6 +15195,7 @@ gambles
 gambling
 gamboge
 gambolled
+gambrel
 gambusia
 gamed
 gamekeeper
@@ -16478,6 +16487,7 @@ gunny
 gunnybag
 gunnysack
 gunplays
+gunroom
 gunrunner
 gunrunning
 gunshots
@@ -17184,6 +17194,7 @@ herby
 herculean
 herd
 herdic
+herdmen
 hereafters
 hereditament
 hereditarians
@@ -18053,6 +18064,7 @@ hyperspace
 hypersthene
 hypertension
 hypertonia
+hypertrophy
 hypertypical
 hyperuricemia
 hypervelocity
@@ -18344,6 +18356,7 @@ immunochemical
 immunochemistry
 immunodeficient
 immunogenetics
+immunogenic
 immunogens
 immunologist
 immunology
@@ -20135,6 +20148,7 @@ justificatory
 justifying
 justle
 justled
+justs
 jut
 juts
 jutting
@@ -21072,6 +21086,7 @@ lentils
 lentivirus
 lentiviruses
 leone
+leopardess
 leotard
 leotarded
 lepers
@@ -21111,9 +21126,11 @@ leuds
 leukaemias
 leukemia
 leukemias
+leukemic
 leukemics
 leukemogeneses
 leukocytic
+leukocytosis
 leukoma
 leukomas
 leukoplakia
@@ -24193,6 +24210,7 @@ muscling
 muscovados
 muscularly
 musculature
+musculoskeletal
 muse
 museologies
 museology
@@ -25335,6 +25353,7 @@ nudists
 nudities
 nudity
 nudzhed
+nuisances
 nuked
 nukes
 null
@@ -25558,6 +25577,7 @@ octarchies
 octillions
 octogenarians
 octoploid
+octoploids
 octopods
 octosyllabics
 octothorp
@@ -25642,6 +25662,7 @@ oidioid
 oilbird
 oilcups
 oilers
+oilily
 oiling
 oilman
 oilpapers
@@ -26062,6 +26083,7 @@ ouster
 ousters
 outachieves
 outacting
+outacts
 outadd
 outadds
 outages
@@ -26470,6 +26492,7 @@ overdemanding
 overdependence
 overdeveloped
 overdeveloping
+overdiscounted
 overdominant
 overdose
 overdosed
@@ -26734,6 +26757,7 @@ overteach
 overteaching
 overthick
 overthin
+overtiming
 overtness
 overtnesses
 overtoiled
@@ -29467,6 +29491,7 @@ pregenital
 preggers
 pregnancies
 pregnancy
+pregnantly
 pregnenolones
 preguided
 preguides
@@ -32580,6 +32605,7 @@ retrogressively
 retronym
 retroreflective
 retroreflectors
+retrospecting
 retrospects
 retrousse
 retuning
@@ -33134,6 +33160,7 @@ roupiest
 rouseabouts
 rousements
 rousingly
+roust
 roustabouts
 route
 routeman
@@ -34841,6 +34868,7 @@ shopworn
 shoran
 shore
 short
+shortage
 shorten
 shorthairs
 shorthands
@@ -35609,6 +35637,7 @@ snaps
 snapshot
 snapshotted
 snarers
+snares
 snaring
 snarl
 snarler
@@ -38143,6 +38172,7 @@ synopsis
 synopsizes
 synoptical
 synostosis
+synovitises
 syntactical
 syntactics
 syntagma
@@ -38859,6 +38889,7 @@ thermoremanence
 thermoses
 thermoset
 thermostat
+thermostating
 thermotactic
 thermotaxis
 thermotropisms
@@ -39610,6 +39641,7 @@ translators
 transliterated
 transliterates
 translocated
+translucencies
 transmigrated
 transmigrating
 transmigration
@@ -40494,6 +40526,7 @@ unbridle
 unbruised
 unbudgeably
 unbudging
+unbuilt
 unburden
 unburdened
 unburdening
@@ -42802,6 +42835,7 @@ wildcats
 wildcatter
 wilded
 wildered
+wilderments
 wilders
 wildfire
 wildflowers
@@ -43129,6 +43163,7 @@ wrinkle
 wrinklier
 wristband
 wristbands
+wristier
 wristlock
 wristwatch
 wristwatches
