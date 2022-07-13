@@ -1,0 +1,5 @@
+PowerShell/New-CodeSigningCertificate.ps1 at master - GitHub,https://github.com/mmessano/PowerShell/blob/master/New-CodeSigningCertificate.ps1
+sql-server-samples/uploadTDECertificate.ps1 at master - GitHub,https://github.com/microsoft/sql-server-samples/blob/master/samples/manage/azure-sql-db-managed-instance/upload-tde-certificate/uploadTDECertificate.ps1
+Client/Convert-PfxToPem.ps1 3.3.0.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/PSPKI/3.3.0.0/Content/Client%255CConvert-PfxToPem.ps1
+Private/Import-Pem.ps1 2.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/Posh-ACME/2.0/Content/Private%255CImport-Pem.ps1
+https://raw.githubusercontent.com/jijiechen/winrm-...,https://raw.githubusercontent.com/jijiechen/winrm-client-certificate-auth/master/server/New-SelfSignedCertificateEx.ps1
