@@ -852,6 +852,7 @@ alkaloids
 alkane
 alkie
 alkines
+alkoxide
 alkyd
 alkyds
 allantoids
@@ -958,6 +959,7 @@ alphorn
 alphosis
 alphyl
 alphyls
+alsikes
 also
 altar
 altarpiece
@@ -1131,6 +1133,7 @@ amortizes
 amortizing
 amoxicillin
 amoxycillins
+amp
 amperage
 amperages
 amperes
@@ -2743,6 +2746,7 @@ backwashed
 backwashes
 backwaters
 backwoods
+backwoodsmen
 backyards
 bacteria
 bacteriocins
@@ -2850,6 +2854,7 @@ bamboos
 bamboozle
 bamboozlements
 bamboozling
+bams
 banality
 banausic
 banda
@@ -3518,6 +3523,7 @@ bespoken
 besprinkled
 bestialities
 bestialized
+bestializes
 bestializing
 bestiary
 besting
@@ -4441,6 +4447,7 @@ boycotters
 boyfriends
 boyhood
 boyishly
+boys
 brabbles
 brace
 braced
@@ -6280,6 +6287,7 @@ chemosorb
 chemosorbed
 chemostats
 chemosynthetic
+chemotaxis
 chenopod
 cheongsams
 chequers
@@ -7339,6 +7347,7 @@ colluviums
 colobomata
 colobus
 cologarithm
+colombards
 colonelcies
 coloni
 colonialisms
@@ -9479,6 +9488,7 @@ daunomycins
 daunter
 dauts
 daven
+dawdle
 dawdled
 dawning
 dawnlike
@@ -9573,6 +9583,7 @@ debriding
 debriefed
 debruises
 debs
+debt
 debtors
 debuggers
 debugging
@@ -13173,6 +13184,7 @@ estating
 esterification
 esterifications
 esterify
+esterifying
 esters
 esthesis
 esthetic
@@ -16731,6 +16743,7 @@ gremials
 gremmie
 gremmies
 grenadiers
+grew
 greyhound
 greying
 greylag
@@ -16850,6 +16863,7 @@ grub
 grubbily
 grubbing
 grubstakes
+grudges
 grudging
 gruel
 grueled
@@ -17870,6 +17884,7 @@ highchairs
 highflier
 highflyers
 highjack
+highjacks
 highlander
 highlighting
 highths
@@ -19901,6 +19916,7 @@ interiors
 interject
 interjected
 interjecting
+interjection
 interjectory
 interjoins
 interknitting
@@ -20757,6 +20773,7 @@ jussives
 juster
 justest
 justiciable
+justiciar
 justification
 justificatory
 justifying
@@ -20973,6 +20990,7 @@ kibbi
 kibbis
 kibbitz
 kibbitzing
+kibbutz
 kibbutzim
 kibbutznik
 kibe
@@ -21233,6 +21251,7 @@ kyries
 kyte
 laagering
 labanotations
+labarums
 labdanum
 labelled
 labellers
@@ -23115,6 +23134,7 @@ maxim
 maximalist
 maximally
 maximals
+maximising
 maximites
 maximizing
 maxing
@@ -23481,6 +23501,7 @@ metabolically
 metabolism
 metabolisms
 metabolized
+metacarpi
 metacarpus
 metacenter
 metacenters
@@ -25076,6 +25097,7 @@ mystagogies
 mystically
 mysticete
 mysticetes
+mystification
 mystifications
 mystified
 mystique
@@ -26495,6 +26517,7 @@ omasum
 omber
 ombre
 ombres
+ombudsmanship
 omegas
 omelet
 omelets
@@ -28279,6 +28302,7 @@ patters
 patting
 pattypans
 paucities
+paulownias
 paunched
 paunchier
 paunchinesses
@@ -29527,6 +29551,7 @@ playlike
 playmaker
 playoffs
 playpens
+playroom
 playsuits
 playthings
 playwrightings
@@ -30226,6 +30251,7 @@ prearm
 prearming
 prearranged
 prearranging
+preassigns
 preassured
 preattune
 prebend
@@ -30278,6 +30304,7 @@ precited
 precleaned
 precleans
 preclearances
+preclears
 precocity
 precommitment
 preconception
@@ -30870,6 +30897,7 @@ proliferations
 prolific
 prolixities
 prolixity
+prologists
 prologize
 prologized
 prologizing
@@ -38886,6 +38914,7 @@ superinfect
 superinfected
 superinfects
 superintend
+superintendence
 superintendents
 superintends
 superintensity
@@ -39631,6 +39660,7 @@ tautness
 tautologies
 tautologously
 tautonym
+tavern
 taverna
 tawdries
 tawnier
@@ -40001,6 +40031,7 @@ thankworthy
 that
 thatching
 thaumaturgies
+thaumaturgist
 thaumaturgists
 thaw
 thawer
@@ -41331,6 +41362,7 @@ tuckers
 tucket
 tucks
 tuffet
+tufters
 tuftier
 tugger
 tugging
@@ -41507,6 +41539,7 @@ twirl
 twirlers
 twirling
 twister
+twitched
 twitchiest
 twittery
 two
@@ -43206,6 +43239,7 @@ vespertilian
 vespiaries
 vesseled
 vestals
+vestas
 vested
 vestibule
 vestibuled
@@ -44103,6 +44137,7 @@ whosever
 whoso
 whosoever
 whump
+whumped
 whupped
 whups
 wiccans
