@@ -1943,6 +1943,7 @@ arenaceous
 arene
 arenes
 arenites
+areolated
 areole
 arete
 argala
@@ -4894,6 +4895,7 @@ burlesque
 burlesquely
 burlesquer
 burlesquers
+burlesquing
 burleys
 burling
 burly
@@ -5924,6 +5926,7 @@ certificatory
 certifiers
 ceruloplasmins
 ceruminous
+cerusites
 cerussite
 cervelases
 cervelats
@@ -7416,6 +7419,7 @@ compartment
 compartmenting
 compassable
 compassionated
+compassionates
 compassionating
 compatibilities
 compatibility
@@ -7650,6 +7654,7 @@ confronting
 confuse
 confusedly
 confusednesses
+confutes
 congas
 conge
 congealed
@@ -8428,6 +8433,7 @@ cozy
 cozzes
 craaling
 crabapple
+crabbedly
 crabbednesses
 crabgrasses
 crablike
@@ -9354,6 +9360,7 @@ dazzler
 de
 deaconess
 deaconing
+deacons
 deactivate
 deactivated
 deactivations
@@ -10467,6 +10474,7 @@ digests
 digitalins
 digitalizing
 digitally
+digitate
 digitately
 digitize
 digitizer
@@ -10675,6 +10683,7 @@ disced
 discepts
 discernable
 discerner
+discernibly
 discerning
 discernment
 discernments
@@ -13150,6 +13159,7 @@ eversion
 everyday
 everymen
 everywhere
+evict
 evicted
 evictee
 evictees
@@ -13245,6 +13255,7 @@ excreters
 excretes
 excretion
 excretory
+excruciating
 exculpating
 exculpation
 excurrent
@@ -13484,6 +13495,7 @@ externals
 externship
 externships
 exteroceptors
+extinct
 extinctions
 extinguishable
 extinguisher
@@ -13830,6 +13842,7 @@ faxes
 faxing
 fayalite
 faying
+fays
 faze
 fazenda
 fazes
@@ -14333,6 +14346,7 @@ flapless
 flapped
 flappers
 flapping
+flare
 flared
 flashbacks
 flashcard
@@ -14975,6 +14989,7 @@ franchise
 franchisees
 francium
 francized
+francs
 frangipane
 franker
 frankest
@@ -15165,6 +15180,7 @@ fryable
 frybread
 frybreads
 fryer
+fryers
 fub
 fubbed
 fubs
@@ -15194,6 +15210,7 @@ fugled
 fuglemen
 fugles
 fugu
+fuguists
 fulcrums
 fulfil
 fulfilled
@@ -19473,6 +19490,7 @@ instillers
 instills
 institute
 institutes
+institution
 institutionally
 instrokes
 instructively
@@ -21410,6 +21428,7 @@ leopardess
 leotard
 leotarded
 lepers
+lepidoptera
 lepidopteran
 lepidopterology
 lepidotes
@@ -21816,6 +21835,7 @@ loathsomeness
 lob
 lobar
 lobbed
+lobby
 lobbyism
 lobeline
 lobotomise
@@ -22383,6 +22403,7 @@ malformations
 malfunction
 malfunctioning
 malignance
+malignancies
 maligner
 maligning
 mallard
@@ -22424,6 +22445,7 @@ mammary
 mammati
 mammer
 mammers
+mammets
 mammillated
 mammocked
 mammonist
@@ -24686,6 +24708,7 @@ myosotises
 myotic
 myotonias
 myriopods
+myrmecological
 myrmecologist
 myrmidons
 myrrhs
@@ -24709,6 +24732,7 @@ mythologize
 mythologized
 mythology
 myxedematous
+myxoedema
 myxoma
 myxomycete
 nabbing
@@ -26082,6 +26106,7 @@ olingos
 olivary
 olive
 olivine
+olivinic
 ololiuqui
 ololiuquis
 olympiads
@@ -26685,6 +26710,7 @@ outre
 outreasoned
 outreasons
 outrebounded
+outrebounding
 outrebounds
 outreckoning
 outrigged
@@ -29490,6 +29516,7 @@ pore
 pored
 poriferal
 porisms
+pork
 pornographies
 poromerics
 porphyria
@@ -30943,6 +30970,7 @@ pustulant
 pustulating
 putoff
 putonghua
+putonghuas
 putrefied
 putrefier
 putrescence
@@ -33390,6 +33418,7 @@ ringbarks
 ringbolt
 ringers
 ringhals
+ringlet
 ringlike
 ringmaster
 ringside
@@ -34056,6 +34085,7 @@ sandpapery
 sandpeeps
 sandpit
 sands
+sandsoap
 sandstones
 sandstorm
 sandstorms
@@ -35140,6 +35170,7 @@ shako
 shall
 shallower
 shallows
+shamable
 shamably
 shamanic
 shamanistic
@@ -35946,6 +35977,7 @@ slicers
 slicken
 slickenside
 slicknesses
+slickrock
 slid
 slidable
 slideway
@@ -36160,6 +36192,7 @@ snacker
 snackers
 snacks
 snaffles
+snafuing
 snag
 snail
 snailed
@@ -39993,6 +40026,7 @@ tormentors
 torments
 torn
 tornado
+tornillo
 toro
 torosity
 torpedoes
@@ -42260,6 +42294,7 @@ vainest
 vair
 vakeel
 valances
+valerates
 valeted
 valgoid
 valiances
