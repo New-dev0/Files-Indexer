@@ -285,6 +285,7 @@ acrodont
 acrogenic
 acrogens
 acrolith
+acromegalies
 acromia
 acropetal
 acrophobia
@@ -534,6 +535,7 @@ affability
 affaires
 affectabilities
 affectability
+affectable
 affecters
 affecting
 affectionate
@@ -2856,6 +2858,7 @@ bandshells
 bandwidth
 bandying
 banefully
+banging
 bangkok
 bangs
 banians
@@ -2936,6 +2939,7 @@ barman
 barmy
 barn
 barning
+barnlike
 barnstormer
 barnstorming
 barny
@@ -3447,6 +3451,7 @@ berhyme
 berhymes
 beriberi
 berimes
+berkelium
 berks
 berme
 berretta
@@ -3572,6 +3577,7 @@ biblists
 bicameralism
 bicameralisms
 bice
+bicentenaries
 bicentenary
 biceps
 bichromated
@@ -4711,6 +4717,7 @@ browband
 browbeats
 browed
 browned
+brownier
 brownnesses
 brownnosed
 brownnoser
@@ -5394,6 +5401,7 @@ capabler
 capablest
 capacitate
 capacitation
+capacities
 capacitive
 capacitively
 capacitor
@@ -6696,6 +6704,7 @@ clads
 clafoutis
 clag
 claimable
+claimer
 clairaudience
 clairaudient
 clairvoyance
@@ -6771,7 +6780,9 @@ cleaned
 cleaning
 cleanly
 cleannesses
+cleanse
 cleanses
+clear
 clearcutting
 clearer
 cleareyed
@@ -8565,6 +8576,7 @@ crapola
 crapped
 crappers
 crappiest
+crapping
 craps
 crases
 crashers
@@ -9156,6 +9168,7 @@ cyberspace
 cyborg
 cycas
 cycasin
+cyclecar
 cyclecars
 cycled
 cycler
@@ -9259,6 +9272,7 @@ dactylic
 dactylology
 dactylus
 dadaistic
+daddles
 daddling
 dado
 dados
@@ -11777,6 +11791,7 @@ duplications
 duplicator
 dupped
 dupping
+durablenesses
 durably
 duralumins
 durations
@@ -11837,6 +11852,7 @@ dynamotors
 dynatron
 dynel
 dynode
+dynodes
 dynorphin
 dyscrasias
 dyscrasic
@@ -13273,6 +13289,7 @@ evils
 evince
 eviscerates
 eviscerating
+evisceration
 eviting
 evocators
 evoking
@@ -14392,6 +14409,7 @@ fixer
 fixity
 fixtures
 fixure
+fiz
 fizgig
 fizzer
 fizzers
@@ -14674,6 +14692,7 @@ fluking
 fluky
 fluming
 flummeries
+flummoxes
 flung
 flunk
 flunked
@@ -15119,6 +15138,7 @@ franticnesses
 frapped
 frasses
 fraternities
+fraternity
 fraternizations
 fraternizer
 fraternizers
@@ -18124,6 +18144,7 @@ horseshoed
 horsetail
 horseweed
 horsinesses
+horticultures
 hoselike
 hosen
 hosepipe
@@ -21095,6 +21116,7 @@ kymography
 kyries
 kyte
 laagering
+labanotations
 labdanum
 labelled
 labellers
@@ -25959,6 +25981,7 @@ nuked
 nukes
 null
 nullified
+nullifiers
 nulling
 nulliparous
 numbats
@@ -26942,6 +26965,7 @@ outsaid
 outsailed
 outsavors
 outsay
+outscolded
 outscolding
 outscoop
 outscooping
@@ -28914,6 +28938,7 @@ phytochrome
 phytoid
 phytol
 phytols
+phyton
 phytopathogen
 phytophagous
 phytoplankton
@@ -29167,6 +29192,7 @@ pisolites
 pisoliths
 pistareen
 pistareens
+pistol
 pistole
 pistolling
 pistons
@@ -30684,6 +30710,7 @@ prolongations
 prolonged
 prolonging
 prom
+promethium
 promisees
 promising
 promisors
@@ -30944,6 +30971,7 @@ pshaws
 psi
 psilophyte
 psilosis
+psittacine
 psittacines
 psittacosis
 psocid
@@ -32015,6 +32043,7 @@ recarrying
 recautioned
 recces
 receded
+receiver
 recement
 reception
 receptivities
@@ -32567,6 +32596,7 @@ rehospitalize
 rehouse
 rehumanizes
 rehypnotizing
+reichsmark
 reidentifies
 reif
 reifications
@@ -33963,6 +33993,7 @@ rowan
 rowanberry
 rowboats
 rowdiest
+rowdyism
 rowelled
 rowels
 rowen
@@ -34108,6 +34139,7 @@ ruthless
 rutiles
 rutin
 rutins
+ruts
 ruttier
 ruttiness
 rye
@@ -37374,6 +37406,7 @@ squattest
 squatty
 squawroots
 squeaker
+squeakier
 squealers
 squealing
 squeamishness
@@ -38964,6 +38997,7 @@ swooned
 swoony
 swoopier
 swoopiest
+swoops
 swoopy
 swopping
 swordfishes
@@ -42368,6 +42402,7 @@ unvexed
 unwarier
 unwariest
 unwarinesses
+unwavering
 unwaxed
 unweary
 unweave
