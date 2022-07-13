@@ -940,6 +940,7 @@ alphabet
 alphabetize
 alphabetized
 alphabetizing
+alphanumeric
 alphanumerical
 alphas
 alphorn
@@ -1040,6 +1041,7 @@ ambulators
 ambulatory
 ambulette
 ambuscader
+ambuscaders
 ambuscading
 ambushed
 ambusher
@@ -1572,6 +1574,7 @@ antipolitical
 antipolitics
 antipollution
 antipollutions
+antipot
 antipoverty
 antiprotons
 antipruritic
@@ -2013,6 +2016,7 @@ arousals
 arouse
 aroused
 aroynt
+aroynting
 arpeggios
 arpen
 arpens
@@ -2898,6 +2902,7 @@ bareges
 barehand
 barehanded
 barehanding
+barehands
 bareheaded
 baresark
 barfed
@@ -3367,6 +3372,7 @@ bemurmured
 bemusedly
 bemusements
 bemusing
+bencher
 benchlands
 benchwarmers
 bendable
@@ -4308,6 +4314,7 @@ botrytis
 bottle
 bottlers
 bottlings
+bottom
 bottomed
 bottomland
 bottomlands
@@ -4534,6 +4541,7 @@ brevet
 breviaries
 brevity
 brewery
+brewing
 brewskies
 briard
 briarroots
@@ -5185,6 +5193,7 @@ calligraphers
 calligraphists
 callings
 callipygian
+callithumps
 calloses
 callosities
 callosity
@@ -5757,6 +5766,7 @@ cattily
 catting
 cattleman
 cattlemen
+cattleyas
 catty
 caucuses
 caucusing
@@ -6031,6 +6041,7 @@ chandlers
 chang
 change
 changeabilities
+changeability
 changeful
 changeless
 changeovers
@@ -6230,6 +6241,7 @@ chewier
 chewiness
 chews
 chiaroscurists
+chiaroscuro
 chias
 chiasmas
 chiasmatic
@@ -6917,6 +6929,7 @@ coamings
 coanchor
 coannexed
 coannexing
+coappeared
 coappears
 coaptation
 coarctation
@@ -6951,6 +6964,7 @@ cobbling
 cobby
 cobnut
 cobnuts
+cobwebbiest
 cobwebbing
 cocainization
 cocaptains
@@ -7960,6 +7974,7 @@ contumacy
 convalescences
 convector
 convened
+convenes
 convenience
 conveniences
 convent
@@ -9483,6 +9498,7 @@ decarbonates
 decarbonizer
 decarboxylase
 decarburization
+decarburizes
 decasyllabic
 decasyllabics
 decay
@@ -10584,6 +10600,7 @@ diopsidic
 dioptases
 diorites
 dioritic
+dioxan
 dioxans
 dip
 dipeptidase
@@ -17061,6 +17078,7 @@ handwrote
 handy
 handyperson
 hang
+hangable
 hangnail
 hangnails
 hangtags
@@ -17373,6 +17391,7 @@ heeled
 heelless
 heelpieces
 heelpost
+heeltap
 hefts
 hegaris
 hegemons
@@ -18988,6 +19007,7 @@ inclusivenesses
 incognitas
 incognitos
 incognizant
+incombustibles
 income
 incoming
 incommensurably
@@ -19704,6 +19724,7 @@ intermarrying
 intermat
 intermats
 intermatted
+intermatting
 intermeddler
 intermeddlers
 intermeddles
@@ -20883,6 +20904,7 @@ knelt
 knickerbockers
 knifepoint
 knifer
+knifers
 knighting
 knightlinesses
 knightly
@@ -25625,6 +25647,7 @@ nonresponse
 nonretractile
 nonrival
 nonrubber
+nonsaponifiable
 nonschool
 nonscientist
 nonsecretors
@@ -27414,6 +27437,7 @@ paged
 pagefuls
 pages
 paginated
+paginates
 pagoda
 pagodas
 pagurians
@@ -29170,6 +29194,7 @@ platina
 platinize
 platinoid
 platinum
+platitudes
 platitudinarian
 platitudinize
 platted
@@ -29256,6 +29281,7 @@ plisse
 ploidy
 plop
 plosions
+plosives
 plotlessness
 plotzed
 plotzes
@@ -30129,6 +30155,7 @@ prepositive
 preppiest
 prepriced
 preprices
+preprocessing
 preprocessor
 preprocessors
 preproduction
@@ -35088,6 +35115,7 @@ sequency
 sequential
 sequester
 sequestered
+sequestrate
 sequins
 sequitur
 ser
@@ -35374,6 +35402,7 @@ shelves
 shelving
 shenanigans
 sheol
+shepherded
 shepherdesses
 sheqalim
 sheqel
@@ -35562,6 +35591,7 @@ showstopper
 showy
 shredders
 shrew
+shrewder
 shrewdie
 shrewed
 shrewishly
@@ -38970,6 +39000,7 @@ taffrails
 tafia
 tagboards
 tagliatelles
+taglines
 tagmemes
 tagrag
 tagrags
@@ -40884,6 +40915,7 @@ tune
 tuneable
 tuner
 tuneups
+tungstate
 tungstates
 tungstens
 tungstic
@@ -41084,6 +41116,7 @@ tyronic
 tyrosines
 tzarism
 tzarisms
+tzarist
 tzarists
 tzaritzas
 tzetze
@@ -41313,6 +41346,7 @@ uncelebrated
 unceremonious
 unceremoniously
 uncertainly
+uncertainness
 uncertainnesses
 unchain
 unchained
@@ -43618,6 +43652,7 @@ wifedom
 wifehood
 wifeless
 wifelier
+wifelinesses
 wifes
 wifeys
 wifing
