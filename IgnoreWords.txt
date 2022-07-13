@@ -1978,6 +1978,7 @@ ariettas
 ariosi
 arise
 arisen
+aristate
 arithmetical
 armada
 armadas
@@ -3423,6 +3424,7 @@ berdache
 bereaved
 bereavements
 bereavers
+bergamots
 berhyme
 berhymes
 beriberi
@@ -4619,6 +4621,7 @@ brochure
 brochures
 brockages
 brogues
+broguish
 broider
 broidered
 broiling
@@ -5533,6 +5536,7 @@ cariogenic
 carioles
 carjacks
 carking
+carks
 carless
 carlines
 carlings
@@ -5885,6 +5889,7 @@ centralizing
 centrals
 centre
 centrifugals
+centrifuging
 centrings
 centriole
 centrioles
@@ -6996,6 +7001,7 @@ cockneys
 cockscomb
 cockshy
 cockspur
+cockspurs
 cocksuckers
 cocksureness
 cocktail
@@ -8400,6 +8406,7 @@ couthest
 couture
 coutures
 couturiers
+couvades
 covalences
 covalent
 covariance
@@ -10209,6 +10216,7 @@ determinateness
 determines
 deterministic
 deterrer
+detersive
 detestable
 dethatching
 deticks
@@ -11739,6 +11747,7 @@ dwarfishly
 dwarfisms
 dweebish
 dweebs
+dweeby
 dwelled
 dwelling
 dwells
@@ -14296,6 +14305,7 @@ fists
 fistulas
 fistulate
 fitches
+fitchet
 fitchets
 fitfully
 fitfulness
@@ -14753,6 +14763,7 @@ footrest
 footsies
 footslogger
 footsoreness
+footstalks
 footstall
 footstalls
 footstones
@@ -16654,6 +16665,7 @@ gruesomeness
 gruesomest
 gruffest
 gruffs
+grum
 grumbled
 grumblers
 grumblingly
@@ -19220,6 +19232,7 @@ infallibility
 infallibly
 infamous
 infancies
+infancy
 infant
 infante
 infanticide
@@ -19348,6 +19361,7 @@ inhibins
 inhibiter
 inhibiters
 inhomogeneity
+inhomogeneous
 inhuman
 inhumanities
 inhumannesses
@@ -19357,6 +19371,7 @@ inhumers
 inhumes
 inimically
 inimitable
+iniquities
 iniquitous
 iniquitousness
 initial
@@ -20900,6 +20915,7 @@ koa
 koine
 kola
 kolbasis
+kolhozy
 kolkhoznik
 kolkhozniki
 kolkhozniks
@@ -21600,6 +21616,7 @@ lier
 liers
 lieu
 lieve
+liever
 lifeguarded
 lifeless
 lifelikenesses
@@ -21881,6 +21898,7 @@ lobsterman
 lobstermen
 lobstick
 lobsticks
+lobular
 lobworms
 locales
 localises
@@ -21949,6 +21967,7 @@ lognormal
 lognormality
 logogrammatic
 logographically
+logoi
 logomachy
 logotypies
 logotypy
@@ -22078,6 +22097,7 @@ louvres
 lovablenesses
 lovage
 lovages
+lovats
 loveably
 lovebirds
 lovebugs
@@ -22696,6 +22716,7 @@ marting
 martingal
 martingals
 martini
+martins
 martyrize
 martyrized
 martyrizes
@@ -23114,6 +23135,7 @@ mercerized
 mercery
 merchandizes
 merchant
+merchanted
 merchantmen
 mercurating
 mercurations
@@ -23604,6 +23626,7 @@ minster
 minstrels
 minters
 minutely
+minuteman
 minuter
 minutiae
 minyan
@@ -24007,6 +24030,7 @@ modularities
 modulars
 modulators
 module
+modulus
 mofette
 mofettes
 moffette
@@ -25513,6 +25537,7 @@ nonkosher
 nonlandowner
 nonlanguages
 nonlawyers
+nonlevel
 nonlibrary
 nonlinearity
 nonliterate
@@ -27727,6 +27752,7 @@ parchesis
 parchment
 pard
 pards
+pareiras
 parenchymatous
 parentage
 parentages
@@ -28236,6 +28262,7 @@ perfecters
 perfectible
 perfectionist
 perfectionistic
+perfectionists
 perfectiveness
 perfectness
 perfecto
@@ -29813,6 +29840,7 @@ pratiques
 prattle
 prattling
 praxeological
+praxes
 praxises
 prayerfulness
 preabsorb
@@ -30476,6 +30504,7 @@ prolan
 prolans
 prolapses
 proleg
+proleptic
 proleptically
 proles
 proletarianizes
@@ -36358,6 +36387,7 @@ snowplow
 snows
 snowscapes
 snowshed
+snowshoe
 snowshoer
 snowslide
 snowstorm
@@ -39748,6 +39778,7 @@ thyrocalcitonin
 thyroglobulin
 thyroiditises
 thyroids
+thyrotoxicoses
 thyrotrophin
 thyrses
 thyrsus
@@ -40668,8 +40699,10 @@ trivialised
 trivialist
 trivialize
 troak
+trochanter
 trochanters
 trochar
+trochars
 trochilus
 trochleas
 trochophore
@@ -42926,6 +42959,7 @@ vocalised
 vocalist
 vocalnesses
 vocals
+vocationalism
 vocationally
 vociferator
 vociferous
@@ -43337,6 +43371,7 @@ wedelns
 wedge
 wedgier
 wedgiest
+weedier
 weedily
 weedy
 weekday
