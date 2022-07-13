@@ -377,6 +377,7 @@ adhibit
 adieux
 adit
 adjacencies
+adjectivally
 adjective
 adjectively
 adjoin
@@ -417,6 +418,7 @@ admitting
 admix
 admixt
 admonisher
+admonishing
 admonishment
 admonitions
 adnouns
@@ -5732,6 +5734,7 @@ cats
 cattalo
 cattaloes
 cattie
+cattily
 catting
 cattleman
 cattlemen
@@ -5935,6 +5938,7 @@ cestuses
 cetaceous
 cetane
 cetologies
+chablis
 chabouk
 chacma
 chadars
@@ -6041,6 +6045,7 @@ chapter
 chaptered
 charabanc
 character
+characteristics
 characterizing
 charbroiled
 charbroils
@@ -8290,6 +8295,7 @@ counterbid
 counterblasts
 counterchange
 countercoups
+counterculture
 countercyclical
 counterdemand
 counterdemands
@@ -9775,6 +9781,7 @@ delineated
 delineates
 delineation
 delineations
+delinquents
 deliquesce
 deliquesced
 deliquescence
@@ -10174,6 +10181,7 @@ determinably
 determinacies
 determinantal
 determinate
+determinateness
 determines
 deterministic
 deterrer
@@ -10983,6 +10991,7 @@ distich
 distill
 distillates
 distilleries
+distils
 distinctively
 distorter
 distorters
@@ -11176,6 +11185,7 @@ domestic
 domestications
 domestics
 domically
+domicil
 domiciliate
 domiciliations
 domiciling
@@ -11331,6 +11341,7 @@ downforce
 downgraded
 downhiller
 downlight
+downlinks
 download
 downloaded
 downplaying
@@ -12144,6 +12155,7 @@ em
 emaciate
 emaciations
 email
+emailing
 emails
 emanant
 emanated
@@ -14835,6 +14847,7 @@ formicaries
 formicas
 forming
 formlessness
+formulaically
 formularized
 formularizer
 formularizes
@@ -17915,6 +17928,7 @@ hopsacking
 hopsacks
 hopscotched
 hoptoad
+hoptoads
 hordein
 hording
 horehound
@@ -18324,6 +18338,7 @@ hyperspace
 hypersthene
 hypertension
 hypertonia
+hypertonias
 hypertrophy
 hypertypical
 hyperuricemia
@@ -19701,6 +19716,7 @@ interstate
 interstation
 intersterile
 intersterility
+interstice
 interstitially
 interstrand
 intersystem
@@ -19722,6 +19738,7 @@ intervenes
 intervening
 interviewed
 interviewees
+interwar
 interweaved
 interwork
 interworkings
@@ -21903,6 +21920,7 @@ lomeins
 loment
 lomenta
 lonesome
+longan
 longe
 longes
 longhair
@@ -24811,6 +24829,7 @@ natures
 naturopathic
 naughtily
 naughtinesses
+naumachiae
 naumachies
 nauplius
 nausea
@@ -26314,6 +26333,7 @@ orismological
 orismology
 orle
 ormolus
+ornamental
 ornamentally
 ornamentals
 ornamentation
@@ -26642,9 +26662,11 @@ outpreened
 outpress
 outpressed
 outpresses
+outprice
 outproduce
 outproducing
 outpromised
+outpunch
 outpupil
 outpushed
 outputs
@@ -30417,6 +30439,7 @@ pronota
 pronounce
 pronounced
 pronouncedly
+pronouncements
 pronouncer
 pronouncers
 pronounces
@@ -33440,6 +33463,7 @@ roam
 roamer
 roamers
 roar
+roasted
 roaster
 roasters
 roasts
@@ -34863,6 +34887,7 @@ sempervivum
 sempiternally
 sempiternities
 sempstresses
+senatorship
 senatorships
 sendoffs
 senecios
@@ -36346,6 +36371,7 @@ solanders
 solanine
 solanines
 solanins
+solano
 solarium
 solarizing
 solating
@@ -37103,6 +37129,7 @@ stainlessly
 staircases
 stairheads
 stairlike
+stairs
 stairstepping
 stairwells
 staithe
@@ -37885,6 +37912,7 @@ subliterature
 sublittorals
 sublunary
 subluxations
+submanager
 submarined
 submarkets
 submaxillaries
@@ -38191,6 +38219,7 @@ sunburst
 sundecks
 sunderer
 sundew
+sundews
 sundogs
 sundowning
 sundowns
@@ -39243,6 +39272,7 @@ tentative
 tentativeness
 tenter
 tenterhooks
+tenters
 tenths
 tentmaker
 tentorial
@@ -39629,6 +39659,7 @@ thyrsus
 tiara
 tiaras
 tibiae
+tibiofibula
 tibiofibulas
 tic
 ticals
@@ -39714,6 +39745,7 @@ timorously
 timpani
 timpanum
 tincted
+tincting
 tinctorially
 tincts
 tinctured
@@ -42727,6 +42759,7 @@ visitable
 visitant
 visitation
 visited
+visiter
 visiting
 visored
 visualists
@@ -42915,6 +42948,7 @@ wadders
 waddled
 waddlers
 waddying
+wadies
 wading
 wadmels
 wadmoll
@@ -43248,6 +43282,7 @@ welterweights
 wendigos
 wending
 wends
+wennier
 werewolves
 wergelds
 wergild
