@@ -334,6 +334,7 @@ acyclovir
 acylate
 acylated
 ad
+adagios
 adamance
 adamant
 adamsites
@@ -482,6 +483,7 @@ advocator
 advowson
 adynamias
 adytum
+adze
 adzes
 aecia
 aeciospores
@@ -738,6 +740,7 @@ alang
 alanin
 alanins
 alans
+alanyls
 alarmed
 alarmisms
 alarmist
@@ -851,6 +854,7 @@ allegorization
 allegorize
 allegretto
 allegrettos
+allegros
 alleles
 allergenic
 allergenicity
@@ -1950,6 +1954,7 @@ areolated
 areole
 arete
 argala
+argental
 argentums
 argillite
 argils
@@ -3367,6 +3372,7 @@ bendable
 bendwise
 benedictions
 beneficent
+beneficently
 beneficial
 beneficially
 beneficiary
@@ -3405,6 +3411,7 @@ bepainting
 bepaints
 bepimpled
 bequeaths
+berascals
 berated
 berating
 berberin
@@ -4735,6 +4742,7 @@ bubbler
 bubinga
 bubkes
 bubo
+buboed
 buccal
 buccaneering
 buccaneers
@@ -5310,6 +5318,7 @@ canniness
 canninesses
 cannoli
 cannonaded
+cannonades
 cannonading
 cannonballed
 canny
@@ -7711,6 +7720,7 @@ conjoined
 conjoiner
 conjoiners
 conjugate
+conjugateness
 conjugationally
 conjunction
 conjunctional
@@ -10624,6 +10634,7 @@ dirges
 dirham
 dirigisme
 diriment
+dirling
 dirndl
 dirtinesses
 dirts
@@ -13974,6 +13985,7 @@ fermenting
 fermi
 fermium
 ferns
+ferociously
 ferociousness
 ferocity
 ferrel
@@ -15515,6 +15527,7 @@ garbology
 garbs
 garcons
 gardai
+gardened
 gardeners
 gardens
 garderobe
@@ -18079,6 +18092,7 @@ housemaster
 housepainters
 houserooms
 housesits
+housetop
 housewares
 houseworks
 housing
@@ -20766,6 +20780,7 @@ kindergartners
 kindheartedly
 kindheartedness
 kindles
+kindlinesses
 kindling
 kinematically
 kinematics
@@ -23055,10 +23070,12 @@ mendicants
 menhaden
 menhir
 menial
+meningeal
 meninges
 meningioma
 meningococcus
 menisci
+meniscoid
 meno
 menorrhea
 mensae
@@ -23579,6 +23596,7 @@ ministrant
 minium
 minivans
 minivers
+minks
 minnesingers
 minnow
 minorca
@@ -24206,6 +24224,7 @@ monthlong
 months
 monticule
 monumental
+monumentalities
 monumentalizing
 monuments
 mony
@@ -25211,6 +25230,7 @@ niobous
 nip
 nippers
 nippiness
+nippled
 nippy
 nirvanic
 niter
@@ -25388,6 +25408,7 @@ noncore
 noncorroding
 noncreative
 noncreativity
+noncredit
 noncritical
 noncrossover
 noncultivation
@@ -27649,6 +27670,7 @@ paramagnet
 paramagnetic
 paramattas
 parament
+paraments
 parameterizing
 parametrization
 parametrized
@@ -29559,6 +29581,7 @@ portapaks
 portative
 portcullis
 portend
+portending
 porterage
 porterhouses
 porticoed
@@ -29664,6 +29687,7 @@ postponement
 postponements
 postponer
 postposed
+postpositional
 postpositively
 postproductions
 postrace
@@ -32529,6 +32553,7 @@ rematched
 rematches
 rematerializes
 remeasuring
+remediated
 remediation
 remember
 rememberable
@@ -32942,6 +32967,7 @@ resought
 resounded
 resowed
 resowing
+respaces
 respeaking
 respecified
 respecify
@@ -33231,6 +33257,7 @@ reviewers
 revilement
 reviling
 revisals
+revisionist
 revisions
 revisory
 revisualization
@@ -35465,6 +35492,7 @@ short
 shortage
 shorten
 shorthairs
+shorthand
 shorthands
 shortia
 shortias
@@ -37348,6 +37376,7 @@ steeplebush
 steeplechase
 steeplechaser
 steepled
+steeplejack
 steeples
 steepness
 steepnesses
@@ -38607,6 +38636,7 @@ swappers
 swarajism
 swarmer
 swarth
+swarthinesses
 swartness
 swashbuckled
 swashbuckler
@@ -39710,6 +39740,7 @@ thymic
 thymiest
 thymol
 thymols
+thymosin
 thyratrons
 thyreoid
 thyristor
@@ -39755,6 +39786,7 @@ tidy
 tiebacks
 tiebreaks
 tieless
+tiemannite
 tiemannites
 tiepins
 tierced
@@ -40462,6 +40494,7 @@ triadism
 triages
 triaging
 trialogue
+trialogues
 triangle
 triangles
 triangulated
@@ -42342,6 +42375,7 @@ valonia
 valor
 valorise
 valorising
+valorization
 valorizations
 valorized
 valpolicellas
@@ -43117,6 +43151,7 @@ wantoner
 wantonly
 wantonnesses
 warbonnets
+warcrafts
 wardenries
 wardens
 wardenship
