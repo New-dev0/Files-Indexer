@@ -220,6 +220,7 @@ acetate
 acetazolamide
 acetic
 acetified
+acetifiers
 acetones
 acetonic
 acetoxyls
@@ -1210,6 +1211,7 @@ analphabetism
 analphabets
 analysed
 analyses
+analyte
 analytic
 analytical
 analytically
@@ -1675,6 +1677,7 @@ aphaeretic
 aphasiac
 aphasias
 aphasics
+aphid
 aphides
 aphids
 aphis
@@ -2583,6 +2586,7 @@ axils
 axiological
 axiologies
 axiomatically
+axiomatized
 axions
 axisymmetry
 axites
@@ -6082,6 +6086,7 @@ chartered
 charterers
 charters
 chartreuse
+chartreuses
 chartularies
 charwomen
 chaseable
@@ -7083,6 +7088,7 @@ cognates
 cognations
 cognises
 cognitional
+cognizably
 cognize
 cognizers
 cognizing
@@ -8394,6 +8400,7 @@ covenantees
 covenantors
 cover
 coverage
+coverages
 covering
 covertnesses
 coves
@@ -10309,6 +10316,7 @@ dialectics
 dialectologist
 dialectology
 dialects
+dialing
 dialist
 diallages
 dialled
@@ -12579,6 +12587,7 @@ enshrines
 enshroud
 ensign
 ensigns
+enskies
 enskyed
 enslavers
 enslaves
@@ -13266,6 +13275,7 @@ excused
 excuser
 excusers
 excuses
+execrable
 execrates
 execrative
 execrator
@@ -13734,6 +13744,7 @@ faradaic
 faradic
 faradising
 faradism
+faradisms
 faradizers
 faradizes
 farandoles
@@ -14178,6 +14189,7 @@ finickinesses
 finicky
 finikin
 finings
+finish
 finishes
 finishing
 finitely
@@ -14703,6 +14715,7 @@ foolishly
 foolishnesses
 foolproof
 fools
+foosballs
 footage
 footballs
 footboard
@@ -15542,6 +15555,7 @@ gaseities
 gasholders
 gasification
 gasifications
+gasifier
 gaskin
 gaskins
 gaslit
@@ -18300,6 +18314,7 @@ hypabyssal
 hypabyssally
 hypanthium
 hyper
+hyperacidities
 hyperacidity
 hyperarid
 hyperaware
@@ -18458,6 +18473,7 @@ ideality
 idealized
 ideally
 idealogue
+idealogy
 ideas
 ideative
 identic
@@ -20718,6 +20734,7 @@ kief
 kiefs
 kielbasi
 kiers
+kifs
 kilim
 kill
 killable
@@ -21760,6 +21777,7 @@ literalist
 literalities
 literality
 literalize
+literalized
 literarinesses
 literations
 literatus
@@ -24063,6 +24081,7 @@ moniliform
 monishing
 monistic
 monitions
+monitive
 monitored
 monitors
 monkey
@@ -24082,6 +24101,7 @@ monoclinic
 monoclonal
 monocots
 monocotyl
+monocratic
 monocrystals
 monocularly
 monocycle
@@ -24216,6 +24236,7 @@ moonshined
 moonshiner
 moonshiners
 moonstones
+moonwalk
 moonwalking
 moorage
 moorages
@@ -24761,6 +24782,7 @@ nailer
 nailheads
 nails
 nainsooks
+naira
 naissance
 naiveness
 naivenesses
@@ -25054,6 +25076,7 @@ neurosecretory
 neurosis
 neurosporas
 neurulae
+neurular
 neurulas
 neuston
 neutral
@@ -25620,6 +25643,7 @@ nonwhite
 nonwork
 nonwoven
 nonwriters
+nonzero
 noo
 noodles
 noogies
@@ -26412,6 +26436,7 @@ osar
 oscillograms
 oscillography
 oscinine
+osculant
 osetra
 osiered
 osiers
@@ -26668,6 +26693,7 @@ outmodes
 outmuscle
 outmuscled
 outpace
+outpainted
 outpatients
 outpitied
 outplace
@@ -29153,6 +29179,7 @@ plentifulness
 plentitude
 plenum
 pleomorphic
+pleomorphisms
 pleonasm
 pleonasms
 pleonastic
@@ -31920,6 +31947,7 @@ recrudescences
 recruiter
 recrystallizing
 rectangular
+rectifiability
 rectifiable
 rectification
 rectifications
@@ -33736,6 +33764,7 @@ rubouts
 rubrications
 rubricator
 rubrician
+rubricians
 rubying
 ruching
 rucked
@@ -35195,6 +35224,7 @@ shandygaffs
 shanghai
 shanghaied
 shanghaiers
+shanghais
 shannies
 shantytowns
 shapeup
@@ -37681,6 +37711,7 @@ stringcourses
 stringhalts
 stringiest
 stringily
+stringiness
 stringing
 stringpieces
 strings
@@ -41904,6 +41935,7 @@ unserved
 unsetting
 unsettle
 unsettlednesses
+unsettlements
 unsews
 unsexing
 unsexual
@@ -42429,6 +42461,7 @@ vats
 vatu
 vatus
 vaudevillians
+vaulter
 vaultiest
 vaulting
 vaultingly
@@ -43274,6 +43307,7 @@ weedy
 weekday
 weeklong
 weekly
+ween
 weenier
 weenies
 weensiest
@@ -43683,6 +43717,7 @@ womanises
 womanish
 womanishness
 womanize
+womanless
 womanliest
 womanlike
 womanliness
