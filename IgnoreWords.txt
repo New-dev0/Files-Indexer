@@ -2605,6 +2605,7 @@ axions
 axisymmetry
 axites
 axles
+axonemal
 axoplasm
 axseed
 ay
@@ -3365,6 +3366,7 @@ bemedalled
 bemingles
 bemisted
 bemisting
+bemixed
 bemixt
 bemoans
 bemock
@@ -5825,6 +5827,7 @@ caymans
 cayuse
 caziques
 ceasefires
+ceaselessly
 cecity
 cecum
 cedarbird
@@ -7874,6 +7877,7 @@ consultations
 consulted
 consulting
 consultive
+consults
 consumables
 consumer
 consumerists
@@ -10082,6 +10086,7 @@ depriving
 deprogramming
 depurate
 depurated
+depurates
 depurator
 deputations
 deputizations
@@ -10457,6 +10462,7 @@ dicking
 dicotyledonous
 dicotyls
 dicoumarol
+dicrotisms
 dictated
 dictating
 dictionally
@@ -12244,6 +12250,7 @@ embalmment
 embanked
 embankments
 embanks
+embarcaderos
 embargo
 embargoing
 embark
@@ -14419,6 +14426,7 @@ flapjack
 flapless
 flapped
 flappers
+flappiest
 flapping
 flare
 flared
@@ -14618,6 +14626,7 @@ flubber
 fluctuated
 fluctuating
 flued
+fluently
 flues
 fluffer
 fluffiest
@@ -16675,6 +16684,7 @@ groundswells
 groundwaters
 groundwood
 groundworks
+grouper
 grouted
 groutier
 grouting
@@ -17125,6 +17135,7 @@ hanselled
 hanselling
 hansom
 hanting
+hao
 haole
 hap
 hapaxes
@@ -19570,6 +19581,7 @@ inspects
 inspheres
 inspiration
 inspirit
+inspissated
 installed
 installs
 instances
@@ -19934,6 +19946,7 @@ inulases
 inulin
 inundates
 inundating
+inure
 inurement
 inurnments
 inutilely
@@ -21012,6 +21025,7 @@ kryolites
 krypton
 kuchen
 kuchens
+kudus
 kudzus
 kukri
 kultur
@@ -21341,6 +21355,7 @@ laurelled
 lav
 lava
 lavaliers
+lavash
 lavatories
 laved
 laveered
@@ -21794,6 +21809,7 @@ linguistical
 linguists
 lingy
 linier
+lining
 linkman
 linkmen
 links
@@ -22411,6 +22427,7 @@ maestosos
 maffick
 mafficks
 mafia
+mafiosi
 mafiosos
 magazine
 magdalene
@@ -22460,6 +22477,7 @@ mailmen
 mainlands
 mainmasts
 mains
+mainspring
 mainsprings
 maintaining
 maintenance
@@ -23458,6 +23476,7 @@ micropyle
 microradiograph
 microscopical
 microseism
+microsomal
 microsomes
 microspheres
 microsporangia
@@ -24348,6 +24367,7 @@ moosebird
 moot
 mopboards
 moper
+mopes
 mopey
 mopinesses
 mopish
@@ -28566,6 +28586,7 @@ phalansteries
 phalli
 phallisms
 phallists
+phallocentric
 phallus
 phanerophyte
 phantasmagoria
@@ -35207,6 +35228,7 @@ sericulturists
 serifed
 serigraphs
 serine
+seriousness
 seriousnesses
 serjeanties
 sermonizer
@@ -35970,6 +35992,7 @@ skeets
 skein
 skeining
 skeletal
+skeleton
 skeletonising
 skeletonizer
 skeletons
@@ -36491,6 +36514,7 @@ snuffers
 snuffily
 snufflier
 snuffliest
+snuggery
 snugly
 snugnesses
 snye
@@ -36880,6 +36904,7 @@ spavins
 spawners
 speakable
 speakeasies
+speakers
 speaking
 speaned
 speaning
@@ -37728,6 +37753,7 @@ storyboards
 storybook
 storybooks
 storying
+storytellings
 stotin
 stotted
 stoup
@@ -40799,6 +40825,7 @@ trochanter
 trochanters
 trochar
 trochars
+trochee
 trochilus
 trochleas
 trochophore
@@ -41579,6 +41606,7 @@ undergarment
 undergirt
 underglazes
 undergo
+undergod
 undergods
 undergone
 undergrad
@@ -41820,6 +41848,7 @@ unhygienic
 uniaxial
 unicameral
 unicorn
+unicycle
 unicycled
 unideological
 unific
@@ -41946,6 +41975,7 @@ unmitre
 unmix
 unmodernized
 unmolded
+unmolds
 unmolten
 unmoored
 unmoors
@@ -42693,6 +42723,7 @@ velveted
 velveteens
 velvetiest
 velvety
+vendables
 vendee
 vendibly
 veneered
@@ -42899,6 +42930,7 @@ vileness
 vilenesses
 vilest
 vilification
+vilifier
 vilifiers
 villagers
 villages
@@ -43097,6 +43129,7 @@ volplane
 voltage
 voltages
 voltaism
+volubility
 volubly
 volumed
 volumetrically
@@ -43308,6 +43341,7 @@ warisons
 warless
 warlike
 warm
+warmers
 warmest
 warming
 warmongerings
@@ -43595,6 +43629,7 @@ whimbrels
 whimpering
 whimpers
 whims
+whimsey
 whimsicalnesses
 whin
 whines
