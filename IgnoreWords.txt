@@ -1482,6 +1482,7 @@ anthoid
 anthologizers
 anthozoans
 anthracene
+anthranilate
 anthraquinones
 anthropical
 anthropogenic
@@ -1648,6 +1649,7 @@ antisocialist
 antisocialists
 antispasmodic
 antistate
+antistories
 antistory
 antistudent
 antisuicide
@@ -2579,6 +2581,7 @@ avo
 avocado
 avocados
 avocationally
+avodires
 avoid
 avoidance
 avoided
@@ -5439,6 +5442,7 @@ cantilevers
 cantillations
 cantonment
 cantor
+cantors
 canular
 canulated
 canvaser
@@ -6264,6 +6268,7 @@ checkmarks
 checkouts
 checkpoint
 checkpoints
+checkroom
 checkrooms
 checks
 checkup
@@ -6557,6 +6562,7 @@ christened
 christening
 christies
 chroma
+chromate
 chromates
 chromatically
 chromaticism
@@ -7822,6 +7828,7 @@ congo
 congoes
 congou
 congratulates
+congratulation
 congratulator
 congregants
 congregating
@@ -8469,6 +8476,7 @@ counterfeiting
 counterflow
 counterinstance
 countermanded
+countermarching
 countermelodies
 countermines
 countermove
@@ -9170,6 +9178,7 @@ cusec
 cushat
 cushats
 cushiness
+cusp
 cuspated
 cusped
 cuspids
@@ -10985,6 +10994,7 @@ disengagement
 disengages
 disentailed
 disentails
+disenthrall
 disenthrals
 disentitled
 disequilibrated
@@ -12012,6 +12022,7 @@ earbuds
 eardrum
 eardrums
 eared
+earfuls
 earlap
 earlaps
 earldom
@@ -15096,6 +15107,7 @@ foretasted
 foretime
 foretops
 forever
+forewomen
 foreword
 foreyards
 forfeited
@@ -19026,6 +19038,7 @@ impawned
 impawns
 impeach
 impeachers
+impeccably
 impeccant
 impecuniosities
 impedance
@@ -19507,6 +19520,7 @@ inertially
 inertias
 inertnesses
 inerts
+inescapably
 inevitableness
 inevitably
 inexact
@@ -20056,6 +20070,7 @@ interrenal
 interrex
 interring
 interrobang
+interrogated
 interrogatees
 interrogating
 interrogator
@@ -21195,6 +21210,7 @@ knapsacks
 knars
 knavishly
 kneader
+kneads
 kneecap
 kneecappings
 kneeing
@@ -21752,6 +21768,7 @@ leges
 legging
 leggins
 legibilities
+legible
 legionnaire
 legislatives
 legislators
@@ -23145,6 +23162,7 @@ matchstick
 matchsticks
 matchwood
 matelasses
+matelots
 materialist
 materialities
 materializer
@@ -27720,6 +27738,7 @@ ovulate
 ovulations
 ovule
 owed
+owner
 ownership
 ownerships
 owns
@@ -27730,6 +27749,7 @@ oxbows
 oxcart
 oxen
 oxeye
+oxeyes
 oxfords
 oxidable
 oxidant
@@ -28595,6 +28615,7 @@ pennoncel
 pennons
 pennycress
 pennywise
+pennyworts
 penologist
 pens
 pensil
@@ -29313,6 +29334,7 @@ pignolis
 pigouts
 pigpen
 pigpens
+pigskin
 pigskins
 pigsney
 pigtailed
@@ -29903,6 +29925,7 @@ polonaise
 pols
 poltroonery
 polyacrylamides
+polyamides
 polyandry
 polyanthi
 polyanthuses
@@ -30612,6 +30635,7 @@ prepunches
 prepupa
 prepupae
 prequalify
+prequels
 preradio
 prerecorded
 prerecording
@@ -30698,6 +30722,7 @@ pretaping
 pretasted
 pretasting
 preteen
+pretelevision
 pretelling
 pretense
 pretension
@@ -30943,6 +30968,7 @@ prog
 progeny
 progestin
 progestins
+progging
 proglottid
 prognose
 prognosticate
@@ -32732,6 +32758,7 @@ refire
 refit
 refits
 refixed
+reflag
 reflating
 reflations
 reflectional
@@ -38295,10 +38322,12 @@ streamiest
 streamlined
 streamliner
 streamliners
+streamsides
 streek
 streeker
 streeks
 streel
+streetcar
 streetlamp
 streetscapes
 streetwalker
@@ -39611,6 +39640,7 @@ talisman
 talismanically
 talkathon
 talkier
+talkies
 talking
 talky
 tall
@@ -40482,6 +40512,7 @@ timekeeper
 timekeepings
 timelessness
 timeliness
+timepieces
 timesaver
 timeserver
 timeservings
@@ -40640,6 +40671,7 @@ toluides
 toluids
 toluol
 toluole
+tolus
 toluyls
 tomahawked
 tomahawking
@@ -42531,6 +42563,7 @@ unpatched
 unpatentable
 unpegging
 unpeopled
+unpeoples
 unperceived
 unperceptive
 unpersuasive
@@ -42971,6 +43004,7 @@ urial
 uric
 urinalyses
 urinalysis
+urinaries
 urinary
 urination
 urinator
@@ -44467,6 +44501,7 @@ wizes
 wizzen
 woald
 woalds
+wobbled
 wobbler
 wobbles
 wobblier
