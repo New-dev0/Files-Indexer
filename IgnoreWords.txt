@@ -576,6 +576,7 @@ affixial
 affixment
 affixments
 affixtures
+afflicted
 afflicters
 afflictions
 afflictive
@@ -853,6 +854,7 @@ aliyot
 alizarine
 alkalified
 alkalifies
+alkalifying
 alkalimeter
 alkalinization
 alkalise
@@ -3192,6 +3194,7 @@ beardedness
 bearding
 beargrasses
 bearings
+bearishly
 bearishness
 bearskins
 beasties
@@ -3337,6 +3340,7 @@ befleas
 befleck
 befrets
 befringe
+befringed
 befuddle
 befuddlement
 beg
@@ -4156,6 +4160,7 @@ bo
 boarder
 boardinghouses
 boardlike
+boardman
 boardrooms
 boarfish
 boarhound
@@ -5009,6 +5014,7 @@ burdocks
 bureaucracy
 bureaucratize
 bureaux
+burgage
 burgeons
 burgesses
 burgh
@@ -8106,6 +8112,7 @@ contracted
 contractibility
 contractilities
 contracting
+contractor
 contractual
 contradictable
 contradictor
@@ -8604,6 +8611,7 @@ couvades
 covalences
 covalent
 covariance
+covariation
 cove
 coved
 coven
@@ -9683,6 +9691,7 @@ debuggers
 debugging
 debunk
 debunker
+debut
 debye
 decadence
 decadences
@@ -9713,6 +9722,7 @@ decarburizes
 decasyllabic
 decasyllabics
 decay
+decayed
 decayless
 deceased
 decedent
@@ -13071,6 +13081,7 @@ epicotyls
 epicrania
 epicureanisms
 epicuticular
+epicycloidal
 epidemic
 epidemics
 epidemiologic
@@ -14774,6 +14785,7 @@ fleahopper
 fleaworts
 fleche
 fleches
+flechette
 fled
 fledged
 fledges
@@ -15142,6 +15154,7 @@ forceless
 forcemeats
 fording
 fordless
+fordoes
 fordone
 forearm
 forebears
@@ -15700,6 +15713,7 @@ furrieries
 furrily
 furriner
 furrowers
+furrows
 furry
 further
 furthering
@@ -17732,6 +17746,7 @@ heartens
 heartfelt
 hearths
 heartinesses
+heartlessnesses
 heartsome
 heartsomely
 heartstring
@@ -20065,6 +20080,7 @@ interceders
 intercept
 intercepters
 interceptions
+interchanger
 intercity
 interclub
 intercoastal
@@ -20734,6 +20750,7 @@ jars
 jarveys
 jasmin
 jasmins
+jaspers
 jaspery
 jassid
 jato
@@ -21371,6 +21388,7 @@ kneels
 knelling
 knelt
 knickerbockers
+knifed
 knifepoint
 knifer
 knifers
@@ -21512,6 +21530,7 @@ laceless
 lacelike
 lacer
 lacerated
+lacerations
 lacewings
 lacewood
 lachrymal
@@ -22730,6 +22749,7 @@ lunges
 lungfuls
 lungs
 lungworms
+lungyis
 lunies
 lunkers
 lunks
@@ -24172,6 +24192,7 @@ miniskirt
 miniskis
 ministerial
 ministrant
+minitrack
 minium
 minivans
 minivers
@@ -26372,6 +26393,7 @@ notices
 notifying
 notionality
 notochordal
+notoriety
 notwithstanding
 nought
 nounal
@@ -26980,6 +27002,7 @@ opuses
 or
 ora
 oraches
+oracularly
 oral
 orals
 orangeade
@@ -28827,6 +28850,7 @@ penniless
 pennon
 pennoncel
 pennons
+penny
 pennycress
 pennywise
 pennyworts
@@ -28834,6 +28858,7 @@ penologist
 pens
 pensil
 pensione
+pensioners
 pensioning
 pensions
 pensive
@@ -31487,6 +31512,7 @@ pruriences
 pruriencies
 pruriency
 prussianise
+prussianises
 prutot
 prutoth
 prythee
@@ -33487,6 +33513,7 @@ repegged
 repellants
 repelled
 repellencies
+repeller
 repentances
 repentant
 repentantly
@@ -34974,6 +35001,7 @@ sandbanks
 sandbar
 sandblasted
 sandblasting
+sanddabs
 sanders
 sandglasses
 sandhog
@@ -35110,6 +35138,7 @@ satisfiable
 satisficed
 satisfier
 satisfies
+satisfy
 satisfyingly
 satsumas
 saturable
@@ -36666,6 +36695,7 @@ sinh
 sinicize
 sink
 sinking
+sinlessly
 sinner
 sinologies
 sinologist
@@ -37484,6 +37514,7 @@ sootinesses
 sooty
 sopaipillas
 sopapilla
+sophisms
 sophisticates
 sophomore
 sopited
@@ -40995,6 +41026,7 @@ tolus
 toluyls
 tomahawked
 tomahawking
+tomalleys
 tomans
 tomatillo
 tombac
@@ -41235,6 +41267,7 @@ trackable
 trackages
 trackers
 tracking
+tracklayers
 trackman
 trackmen
 trackpad
@@ -43667,6 +43700,7 @@ ventriculus
 ventriloquism
 ventriloquist
 ventriloquize
+venturer
 venturesomely
 venturousness
 venule
@@ -44222,6 +44256,7 @@ wamuses
 wand
 wandered
 wandering
+wane
 wangans
 wangled
 wangler
