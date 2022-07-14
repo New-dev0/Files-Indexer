@@ -1845,6 +1845,7 @@ appressoria
 appressorium
 apprise
 apprising
+apprizers
 approachable
 approbate
 approbates
@@ -2805,6 +2806,7 @@ baldachinos
 baldaquins
 balded
 baldies
+baldly
 baldnesses
 baldpates
 baldric
@@ -5183,6 +5185,7 @@ caique
 cairds
 caissons
 cajeput
+cajoleries
 cajones
 cakes
 cakier
@@ -6838,8 +6841,10 @@ clef
 cleistogamic
 cleistogamously
 cleistogamy
+clemency
 clencher
 clenches
+clenching
 clepes
 clepsydra
 clergywoman
@@ -8734,6 +8739,7 @@ cretinism
 crevasse
 crevassed
 crevice
+crewcuts
 crewels
 crewing
 crewmate
@@ -9151,6 +9157,7 @@ cuspis
 cussers
 cussos
 cussword
+custardy
 custodian
 custodianships
 custody
@@ -10024,6 +10031,7 @@ demoiselle
 demolishers
 demolishment
 demonesses
+demonetizes
 demonic
 demonise
 demonisms
@@ -10201,6 +10209,7 @@ derailleurs
 derate
 derats
 deray
+derelicts
 derepresses
 derepression
 derepressions
@@ -14855,6 +14864,7 @@ focalizations
 focalize
 focalizes
 focusless
+fodders
 foe
 foehn
 foemen
@@ -14917,6 +14927,7 @@ fondnesses
 fondue
 fondueing
 fons
+fontal
 fontanelle
 foofaraws
 foolfish
@@ -14936,6 +14947,7 @@ footbridge
 footbridges
 footcloths
 footdraggers
+foothills
 footings
 footlamberts
 footle
@@ -14974,6 +14986,7 @@ forbearance
 forbearing
 forbears
 forbids
+forboded
 forby
 force
 forcefulnesses
@@ -16097,6 +16110,7 @@ gigged
 giggler
 giggling
 gigglingly
+giglet
 giglets
 gigolos
 gigots
@@ -16555,6 +16569,7 @@ grad
 gradate
 gradation
 graded
+graders
 gradine
 gradiometer
 graduated
@@ -17475,6 +17490,7 @@ hazier
 haziest
 haziness
 hazinesses
+hazing
 hazmats
 hazzanim
 headachier
@@ -19288,6 +19304,7 @@ incubations
 incubators
 incubatory
 incudate
+inculcate
 inculcator
 inculcators
 inculpable
@@ -20047,6 +20064,7 @@ interviewed
 interviewees
 interwar
 interweaved
+interweaving
 interwork
 interworkings
 interworks
@@ -22241,6 +22259,7 @@ lognormality
 logogrammatic
 logographically
 logoi
+logomach
 logomachy
 logotypies
 logotypy
@@ -23100,6 +23119,7 @@ matriculating
 matriculation
 matrilineally
 matrimonies
+matrimony
 matronizes
 matsah
 matsutakes
@@ -24121,6 +24141,7 @@ misleads
 misleared
 mislearned
 mislighting
+mislights
 mislike
 mislived
 mislives
@@ -25630,6 +25651,7 @@ noh
 nohow
 noil
 noils
+noirish
 noise
 noisemaking
 noisette
@@ -26967,6 +26989,7 @@ outdistancing
 outdodge
 outdoer
 outdoers
+outdragged
 outdrags
 outdreaming
 outdressed
@@ -29088,6 +29111,7 @@ phyllomes
 phyllomic
 phyllotactic
 phyllotaxes
+phyllotaxy
 phylogenetic
 phylogenies
 physed
@@ -32743,6 +32767,7 @@ regionalists
 regionalized
 regionals
 registered
+registrants
 regiven
 regiving
 reglorified
@@ -33545,6 +33570,7 @@ rethread
 rethreaded
 retia
 retiarii
+reticent
 reticently
 reticulate
 reticulately
@@ -33847,6 +33873,7 @@ ricks
 rickshas
 ricotta
 ricracs
+rictus
 rid
 riddled
 riddler
@@ -35750,6 +35777,7 @@ shavies
 shaving
 shavings
 shawing
+shawls
 shea
 sheaf
 sheaflike
@@ -37536,6 +37564,7 @@ sporulates
 spotlessly
 spotlighting
 spotlights
+spottiness
 spoused
 spousing
 sprachgefuhl
@@ -38174,6 +38203,7 @@ strawy
 straying
 streak
 streakers
+streakily
 streakinesses
 streaking
 streaks
@@ -39257,6 +39287,7 @@ sycophantisms
 syenites
 syenitic
 syke
+syli
 sylis
 syllabi
 syllabicated
@@ -39615,6 +39646,7 @@ tarried
 tarries
 tarriest
 tarring
+tarsals
 tarsia
 tarsometatarsus
 tartar
@@ -39984,6 +40016,7 @@ tetracycline
 tetracyclines
 tetradic
 tetradynamous
+tetrafluorides
 tetragons
 tetragrammaton
 tetrahedrally
@@ -42518,6 +42551,7 @@ unseemlier
 unseen
 unsegregated
 unselling
+unsells
 unsensational
 unsentimental
 unserved
@@ -44604,6 +44638,7 @@ yahoo
 yahoos
 yahrzeit
 yaird
+yakked
 yakking
 yaks
 yald
