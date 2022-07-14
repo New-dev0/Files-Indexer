@@ -222,6 +222,7 @@ acetate
 acetazolamide
 acetic
 acetified
+acetifier
 acetifiers
 acetones
 acetonic
@@ -565,6 +566,7 @@ affirmatively
 affirmer
 affixable
 affixal
+affixial
 affixment
 affixments
 affixtures
@@ -1734,6 +1736,7 @@ apishnesses
 aplenty
 aplombs
 apneas
+apnoea
 apnoeal
 apocalyptically
 apocalyptisms
@@ -2259,6 +2262,7 @@ astasia
 astasias
 asteria
 asterias
+asterisk
 asterisks
 asternal
 asthenia
@@ -3889,6 +3893,7 @@ bizarreness
 bizarres
 biznagas
 bizones
+bizzes
 blackamoor
 blackberries
 blackbirder
@@ -4554,6 +4559,7 @@ braza
 brazed
 brazening
 brazenness
+brazes
 brazier
 brazil
 brazils
@@ -5804,6 +5810,7 @@ catecholamine
 catechols
 categorised
 categorising
+categorize
 catenaries
 catenates
 cater
@@ -7824,6 +7831,7 @@ congresspeople
 congressperson
 congresspersons
 congresswomen
+congruences
 congruencies
 congruities
 congruously
@@ -9417,6 +9425,7 @@ dames
 damiana
 dammers
 damming
+dammit
 damnableness
 damnably
 damndest
@@ -11597,6 +11606,7 @@ dozy
 drabness
 drabnesses
 dracena
+dracenas
 drachm
 draconic
 draffiest
@@ -15067,6 +15077,7 @@ foreshock
 foreshows
 foresight
 foresighted
+foresightedness
 foresightful
 foresights
 foreskin
@@ -15729,6 +15740,7 @@ gamins
 gammed
 gammier
 gammon
+gammoner
 gammoning
 gamodeme
 gamodemes
@@ -20317,6 +20329,7 @@ irreality
 irreclaimably
 irrecoverable
 irredeemably
+irredenta
 irredentas
 irreducibility
 irreformability
@@ -21007,6 +21020,7 @@ kettledrums
 kewpies
 kexes
 keyboarders
+keyboards
 keybutton
 keyless
 keynote
@@ -21711,6 +21725,7 @@ leeways
 left
 lefter
 leftisms
+leftmosts
 leftover
 leg
 legal
@@ -22438,6 +22453,7 @@ lovemakings
 lovesicknesses
 lowballed
 lowballing
+lowboys
 lowbred
 lowdowns
 lowercases
@@ -23748,6 +23764,7 @@ micropyle
 microradiograph
 microscopical
 microseism
+microseismic
 microsomal
 microsomes
 microspheres
@@ -24856,6 +24873,7 @@ mudfishes
 mudflap
 mudflow
 mudguards
+mudlark
 mudpuppies
 mudrooms
 mudslide
@@ -26510,6 +26528,7 @@ ogled
 ogles
 ogreish
 ogreism
+ogres
 ogresses
 ogrisms
 ohed
@@ -28845,6 +28864,7 @@ pessaries
 pessary
 pessimisms
 pest
+pester
 pesterer
 pestering
 pesticides
@@ -29057,6 +29077,7 @@ phosphoryls
 photics
 photoautotroph
 photobiologic
+photobiologists
 photochemical
 photochemistry
 photochromic
@@ -30015,6 +30036,7 @@ popsies
 popularise
 popularity
 popularization
+popularizations
 popularizing
 popularly
 populated
@@ -31465,6 +31487,7 @@ puritanisms
 purity
 purled
 purlin
+purlines
 purling
 purloins
 purls
@@ -31704,6 +31727,7 @@ quayage
 qubytes
 queen
 queendom
+queened
 queenliness
 queenly
 queenside
@@ -31859,6 +31883,7 @@ radicalise
 radicalisms
 radicalize
 radicals
+radicates
 radicating
 radicel
 radicles
@@ -32933,6 +32958,7 @@ reinters
 reinterviews
 reintroduction
 reinvent
+reinvented
 reinventing
 reinvestigating
 reinvesting
@@ -33572,6 +33598,7 @@ resurrect
 resurrecting
 resurrects
 resurveying
+resuscitating
 resuscitations
 reswallowed
 resynthesizes
@@ -36070,6 +36097,7 @@ showable
 showbiz
 showbizzes
 showboat
+showboating
 showdown
 showed
 showerers
@@ -37756,6 +37784,7 @@ stabilises
 stabilising
 stabilization
 stabilizing
+stablemates
 stablenesses
 stables
 stablings
@@ -40004,6 +40033,7 @@ teratogens
 teratologist
 teratomas
 terbium
+tercentenaries
 terebic
 terete
 tergiversator
@@ -41165,6 +41195,7 @@ trichomonacide
 trichopteran
 trichopterans
 trichosis
+trichroic
 trichrome
 tricing
 trickinesses
@@ -42344,6 +42375,7 @@ unicycle
 unicycled
 unideological
 unific
+uniform
 uniformitarians
 unilingual
 unillusioned
@@ -42583,6 +42615,7 @@ unroasted
 unrobe
 unrobed
 unroll
+unroofs
 unroots
 unroped
 unround
@@ -43169,6 +43202,7 @@ vavs
 vaw
 vawards
 vawntie
+vealiest
 vealy
 vectorial
 vedalias
@@ -44727,6 +44761,7 @@ yarder
 yards
 yardstick
 yardsticks
+yardwork
 yare
 yarmelke
 yarmelkes
