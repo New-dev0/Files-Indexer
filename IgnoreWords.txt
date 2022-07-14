@@ -2014,6 +2014,7 @@ argosies
 argosy
 argot
 arguer
+arguers
 argufied
 argufying
 argumenta
@@ -2457,6 +2458,7 @@ augers
 aught
 augite
 augitic
+augments
 augured
 augurer
 augurers
@@ -5396,6 +5398,7 @@ candidnesses
 candids
 candies
 candleberries
+candlefish
 candlefishes
 candlelighter
 candlelit
@@ -7696,6 +7699,7 @@ comradery
 comradeships
 comsymps
 conative
+conatus
 concatenate
 concave
 concealers
@@ -9249,6 +9253,7 @@ cutdowns
 cutely
 cuteness
 cutes
+cutesie
 cutest
 cuteys
 cutin
@@ -11579,6 +11584,7 @@ doublenesses
 doublespeak
 doublespeakers
 doubloons
+doublures
 doubters
 doubtful
 doubtingly
@@ -12452,6 +12458,7 @@ eloquences
 eluant
 elucidated
 elucidating
+elucubrates
 eluded
 eluding
 elusory
@@ -13222,6 +13229,7 @@ errors
 errs
 ersatzes
 eructated
+eructating
 eructed
 eructs
 erugos
@@ -15577,6 +15585,7 @@ fuckups
 fucoses
 fucoxanthin
 fucus
+fudged
 fudges
 fudging
 fuehrer
@@ -16944,6 +16953,7 @@ griped
 gripier
 grippier
 gripsacks
+gript
 griseous
 griskin
 griskins
@@ -17102,6 +17112,7 @@ guesting
 guggle
 guggles
 guggling
+guglets
 guidance
 guided
 guideposts
@@ -17183,6 +17194,7 @@ guppies
 gurged
 gurglets
 gurnard
+gurnards
 gurnet
 gurshes
 guruships
@@ -18776,6 +18788,7 @@ hyperkinesis
 hyperlink
 hypermania
 hypermanias
+hypermanic
 hypermarkets
 hypermetabolic
 hypermeters
@@ -20027,6 +20040,7 @@ intensivenesses
 intensives
 intentional
 intentions
+intents
 interabangs
 interacted
 interallelic
@@ -21201,6 +21215,7 @@ kibitzers
 kibosh
 kick
 kickback
+kickball
 kickboxed
 kickboxers
 kickier
@@ -22426,6 +22441,7 @@ lodging
 lodicule
 lodicules
 loesses
+loftiness
 loftlike
 lofty
 logarithmic
@@ -24801,6 +24817,7 @@ mool
 moolah
 mooleys
 moonbow
+mooncalf
 mooned
 mooners
 moonfishes
@@ -24824,6 +24841,7 @@ moonwalk
 moonwalking
 moorage
 moorages
+moorcock
 moored
 moorfowls
 mooriest
@@ -25625,6 +25643,7 @@ nephrite
 nephrites
 nephrologist
 nephropathy
+nephrostome
 nepotists
 nerdiest
 nerdy
@@ -26547,6 +26566,7 @@ observably
 observants
 observation
 observing
+observingly
 obsession
 obsessions
 obsessive
@@ -33408,6 +33428,7 @@ reoccupied
 reoccur
 reoccurred
 reoils
+reopen
 reopening
 reopens
 reoperate
@@ -33959,6 +33980,7 @@ reunification
 reunions
 reunited
 reupholstering
+reusabilities
 reused
 reuses
 reusing
@@ -34298,6 +34320,7 @@ rival
 rivaled
 riven
 riverbank
+riverbed
 riverbeds
 riverfronts
 riverheads
@@ -35067,6 +35090,7 @@ satisfyingly
 satsumas
 saturable
 saturate
+saturaters
 saturates
 saturations
 saturators
@@ -36112,6 +36136,7 @@ sheafs
 shearing
 shearings
 shearlegs
+shearlings
 shears
 sheas
 sheatfish
@@ -36538,6 +36563,7 @@ sileni
 silent
 silently
 silesias
+silhouette
 silhouetting
 silicification
 silicifying
@@ -36575,6 +36601,7 @@ simp
 simpered
 simpleness
 simplest
+simpleton
 simplexes
 simplicial
 simplifiers
@@ -37718,6 +37745,7 @@ spicery
 spices
 spicier
 spicily
+spics
 spiculae
 spicular
 spicy
@@ -38169,6 +38197,7 @@ stat
 statable
 statecraft
 statecrafts
+statehouses
 stateliness
 statements
 stateroom
@@ -38614,6 +38643,7 @@ striker
 strikes
 striking
 stringcourses
+stringencies
 stringhalts
 stringiest
 stringily
@@ -39832,6 +39862,7 @@ taconite
 tact
 tactics
 taction
+tactlessly
 tactlessness
 tacts
 tactual
@@ -40337,6 +40368,7 @@ terraforming
 terrains
 terrazzo
 terrella
+terriers
 terrific
 terrifies
 terrine
@@ -42059,6 +42091,7 @@ ultimates
 ultimogeniture
 ultimogenitures
 ultraclean
+ultracompetent
 ultraconvenient
 ultrademocratic
 ultradense
@@ -43656,6 +43689,7 @@ versal
 versatileness
 versatility
 versifications
+versified
 versifying
 version
 versions
@@ -43733,6 +43767,7 @@ vicegeral
 vicegerencies
 vicenary
 vicennial
+viceroyalties
 viceroyalty
 viceroys
 viceroyships
