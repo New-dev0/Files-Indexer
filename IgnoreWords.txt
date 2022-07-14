@@ -128,6 +128,7 @@ acceding
 accelerando
 accelerates
 accelerative
+accenting
 accentor
 accentuation
 accept
@@ -1799,6 +1800,7 @@ appealed
 appealer
 appealingly
 appearances
+appeasable
 appease
 appeasement
 appeasers
@@ -3120,6 +3122,7 @@ battue
 batty
 baud
 bauds
+bauhinias
 baulk
 baulkiest
 bauxites
@@ -3462,6 +3465,7 @@ benevolentness
 benignancy
 benignity
 bennets
+bennies
 benny
 bens
 benthon
@@ -9212,6 +9216,7 @@ cussos
 cussword
 custardy
 custodian
+custodianship
 custodianships
 custody
 customer
@@ -9476,6 +9481,7 @@ dampens
 dampers
 damping
 dampnesses
+damselfish
 damselflies
 dandiacal
 dandified
@@ -9767,6 +9773,7 @@ deconditions
 decongestion
 decongests
 deconstructs
+decontaminators
 decontrol
 decontrolled
 decontrols
@@ -10991,6 +10998,7 @@ discoverer
 discovery
 discreditable
 discreetly
+discreetnesses
 discrete
 discriminant
 discriminants
@@ -11076,6 +11084,7 @@ disinfected
 disinfest
 disinfestant
 disinfestation
+disinfestations
 disinfesting
 disinflations
 disinform
@@ -11648,6 +11657,7 @@ dozening
 dozens
 doziness
 dozy
+drabbled
 drabness
 drabnesses
 dracena
@@ -13223,6 +13233,7 @@ escaped
 escapee
 escapees
 escapers
+escapism
 escapologies
 escapologist
 escar
@@ -14305,6 +14316,7 @@ ferulas
 feruled
 fesswise
 festally
+fester
 festiveness
 festoonery
 festoons
@@ -14728,6 +14740,7 @@ fledges
 fleecer
 fleers
 flees
+fleeting
 fleetingly
 fleetingness
 fleetnesses
@@ -17810,6 +17823,7 @@ hemochromatoses
 hemochromatosis
 hemocytes
 hemocytometer
+hemocytometers
 hemodialyses
 hemodialysis
 hemolyzes
@@ -17942,6 +17956,7 @@ heterosexual
 heterosexuals
 heterosis
 heterotopic
+heterotroph
 heterotrophic
 heterozygoses
 heterozygosis
@@ -18676,6 +18691,7 @@ hydroxylase
 hydroxylases
 hyenas
 hyenine
+hyetal
 hygieist
 hygrometer
 hygrometers
@@ -19697,6 +19713,7 @@ infused
 infusibleness
 ingate
 ingatherings
+ingathers
 ingenuousnesses
 inglenooks
 ingloriousness
@@ -21856,6 +21873,7 @@ legists
 legitimation
 legitimatizing
 legitimator
+legitimised
 legitimists
 legongs
 legrooms
@@ -21957,6 +21975,7 @@ leukotomies
 levanter
 levanting
 levatores
+leveled
 leveling
 levelled
 levellers
@@ -25672,6 +25691,7 @@ newsworthy
 newswriting
 newt
 newwavers
+nexuses
 niacinamides
 nibble
 nibbled
@@ -25854,6 +25874,7 @@ nonagricultural
 nonantibiotic
 nonarable
 nonarguments
+nonaromatic
 nonas
 nonastronomical
 nonatomic
@@ -25933,6 +25954,7 @@ nonconstant
 nonconsumer
 nonconsumptions
 noncontact
+noncontract
 noncontributory
 nonconventional
 noncooperative
@@ -26795,6 +26817,7 @@ opencast
 opened
 opener
 opening
+openmouthedness
 openness
 opennesses
 operabilities
@@ -28453,6 +28476,7 @@ pastromis
 pastureland
 pastures
 patagium
+patchable
 patcher
 patches
 patchworking
@@ -28601,6 +28625,7 @@ pectinaceous
 peculates
 peculating
 peculiarity
+peculiarly
 peculiars
 pecuniary
 pedagogy
@@ -29673,6 +29698,7 @@ plainer
 plaining
 plainness
 plainsman
+plainsong
 plainsongs
 plainspoken
 plaint
@@ -29718,6 +29744,7 @@ plasmogamy
 plasmoid
 plasmolysis
 plasmolytic
+plasmolyzed
 plasmolyzing
 plasmons
 plaster
@@ -30265,6 +30292,7 @@ postdoctorate
 posted
 postediting
 posteen
+postembryonal
 posterior
 posterities
 posterns
@@ -32375,6 +32403,7 @@ rearouse
 rearrested
 rearrests
 rears
+rearticulate
 reascend
 reascends
 reascent
@@ -33214,9 +33243,11 @@ remaining
 remakers
 remakes
 remaking
+reman
 remanding
 remanence
 remanning
+remans
 remanufacture
 remap
 remapping
@@ -35334,6 +35365,7 @@ scrappily
 scrappinesses
 scrapping
 scrapple
+scraps
 scratchers
 scratches
 scrawniest
@@ -37456,6 +37488,7 @@ spackle
 spackles
 spaded
 spadework
+spadixes
 spaeings
 spaes
 spaghettilike
@@ -39361,8 +39394,10 @@ surprizes
 surprizing
 surra
 surrealist
+surrealists
 surrejoinder
 surrendered
+surreptitious
 surrey
 surrounding
 surtax
