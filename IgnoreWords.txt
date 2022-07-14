@@ -3127,6 +3127,7 @@ bawdric
 bawdy
 bawl
 bawtie
+bay
 bayamo
 bayard
 bayards
@@ -4515,6 +4516,7 @@ brainstems
 brainstorming
 brainwash
 braise
+braised
 brakeman
 brakemen
 brakiest
@@ -6017,6 +6019,7 @@ century
 ceorlish
 cephalically
 cephaloridine
+cephalosporin
 cephalothin
 cephalothoraxes
 cephalous
@@ -9280,6 +9283,7 @@ cyclecars
 cycled
 cycler
 cycleries
+cyclers
 cyclicality
 cyclicly
 cycling
@@ -11914,6 +11918,7 @@ dunelike
 dungeoning
 dunging
 dunker
+dunkers
 dunlin
 dunlins
 dunner
@@ -11972,6 +11977,7 @@ dwelled
 dwelling
 dwells
 dwindle
+dwindled
 dwindles
 dwindling
 dwines
@@ -13791,6 +13797,7 @@ extradited
 extraditing
 extragalactic
 extralimital
+extraliterary
 extramarital
 extrapolated
 extrapolator
@@ -15099,6 +15106,7 @@ forenamed
 forenoon
 foreordained
 foreordaining
+foreordains
 foreordination
 foreparts
 forepaw
@@ -15689,6 +15697,7 @@ gainable
 gainfully
 gainfulnesses
 gaingiving
+gainsaid
 gainsayers
 gainsaying
 gainsays
@@ -15935,6 +15944,7 @@ gaydar
 gaydars
 gayeties
 gaynesses
+gays
 gazars
 gaze
 gazebos
@@ -16410,6 +16420,7 @@ glottides
 glottises
 glout
 glouted
+glove
 glover
 glowering
 glowers
@@ -18350,6 +18361,7 @@ horseraces
 horses
 horseshit
 horseshits
+horseshoe
 horseshoed
 horsetail
 horseweed
@@ -19875,6 +19887,7 @@ instauration
 insteps
 instigate
 instillers
+instillments
 instills
 institute
 institutes
@@ -20937,6 +20950,7 @@ kalsomined
 kalsomines
 kamaainas
 kamacite
+kamikazes
 kanes
 kantar
 kantars
@@ -21213,6 +21227,7 @@ kites
 kiths
 kiting
 kitsch
+kitschifies
 kitschifying
 kittel
 kitten
@@ -21389,6 +21404,7 @@ laccolith
 laceless
 lacelike
 lacer
+lacerated
 lacewings
 lacewood
 lachrymal
@@ -22126,6 +22142,7 @@ linguists
 lingy
 linier
 lining
+linkable
 linkman
 linkmen
 links
@@ -22790,6 +22807,7 @@ maharishis
 mahimahi
 mahjongs
 mahlstick
+mahzors
 maiden
 maidenheads
 maidish
@@ -22858,6 +22876,7 @@ malignancies
 malignant
 maligner
 maligning
+malison
 mallard
 malleabilities
 malleability
@@ -23697,6 +23716,7 @@ methoxy
 methoxyl
 methylamines
 methylase
+methylated
 methylations
 methylic
 methylphenidate
@@ -25472,6 +25492,7 @@ nemertines
 neoclassicisms
 neoclassicists
 neocolonialist
+neocortices
 neoliberalism
 neolith
 neoliths
@@ -26624,6 +26645,7 @@ olefines
 oleic
 oleins
 oleographs
+oleoresins
 olestras
 olfaction
 olfactions
@@ -26916,6 +26938,7 @@ oroide
 orology
 orotundities
 orotundity
+orphanage
 orphanhoods
 orphaning
 orphans
@@ -27519,6 +27542,7 @@ overfish
 overfished
 overfishes
 overfishing
+overflew
 overflooding
 overflow
 overfly
@@ -28383,6 +28407,7 @@ pastored
 pastoring
 pastries
 pastromis
+pastureland
 pastures
 patagium
 patcher
@@ -29191,6 +29216,7 @@ photoreceptors
 photoreduce
 photoreduced
 photos
+photosensitive
 photosensitizes
 photosetting
 photospheres
@@ -34053,6 +34079,7 @@ rifflers
 riffs
 rifle
 riflebirds
+rifleries
 riflers
 rifling
 riflip
@@ -37323,6 +37350,7 @@ soundproofed
 souped
 soupiest
 soups
+sour
 sourdine
 sourdines
 sourer
@@ -37619,6 +37647,7 @@ spirogyra
 spirometer
 spirometries
 spirometry
+spirula
 spirulina
 spirulinas
 spitals
@@ -37828,6 +37857,7 @@ squeaker
 squeakier
 squealers
 squealing
+squeamishly
 squeamishness
 squeezability
 squeezers
@@ -38566,6 +38596,7 @@ subagencies
 subagency
 subah
 subahdars
+subahs
 suballocations
 subaltern
 subantarctic
@@ -39646,6 +39677,7 @@ tactics
 taction
 tactlessness
 tacts
+tactual
 tactually
 tads
 taekwondo
@@ -39839,6 +39871,7 @@ taskworks
 tassel
 tasseled
 tasseling
+tassets
 tassies
 tastable
 tasteful
@@ -44639,6 +44672,7 @@ woolhat
 woolie
 wooliness
 woollinesses
+woolly
 wools
 woolwork
 woolworks
@@ -44818,6 +44852,7 @@ xerophytes
 xerophytisms
 xeroseres
 xeroses
+xerox
 xeroxing
 xeruses
 xiphoids
