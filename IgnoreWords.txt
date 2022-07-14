@@ -81,6 +81,7 @@ abstractors
 abstruseness
 abstruser
 abstrusity
+absurd
 absurdest
 absurdist
 absurdists
@@ -399,6 +400,7 @@ adjoins
 adjournment
 adjournments
 adjudge
+adjudges
 adjudications
 adjudicator
 adjudicators
@@ -1557,6 +1559,7 @@ antifriction
 antifungals
 antifur
 antigang
+antigen
 antigene
 antigenic
 antigenically
@@ -2409,6 +2412,7 @@ attending
 attent
 attentional
 attentively
+attenuation
 attestant
 attestations
 attesting
@@ -5763,6 +5767,7 @@ cascading
 cascara
 caseate
 caseation
+caseations
 casebearer
 casebearers
 casebook
@@ -8920,6 +8925,7 @@ croaker
 croaking
 croc
 crocine
+crockeries
 crockery
 crockets
 crockpot
@@ -9421,6 +9427,7 @@ cystocarps
 cystocele
 cystolith
 cystoscopies
+cytidine
 cytochalasin
 cytogeneticist
 cytokinesis
@@ -11144,6 +11151,7 @@ dishing
 dishonesties
 dishonorer
 dishpans
+dishwares
 dishwater
 disincentive
 disinclination
@@ -17390,6 +17398,7 @@ hagiology
 hagridden
 hagrides
 hagrode
+hah
 hahnium
 hail
 hails
@@ -19346,6 +19355,7 @@ imprimis
 imprint
 imprinter
 imprisoned
+imprisoning
 imprisonment
 improbably
 improperly
@@ -21463,6 +21473,7 @@ knockabouts
 knockwursts
 knolled
 knop
+knopped
 knops
 knots
 knotters
@@ -21684,6 +21695,7 @@ laminarian
 laminarins
 laminating
 laminator
+laminose
 lammergeier
 lammergeiers
 lammergeyer
@@ -22534,6 +22546,7 @@ loesses
 loftiness
 loftlike
 lofty
+loganberry
 logarithmic
 logarithms
 logbooks
@@ -24469,6 +24482,7 @@ mislearned
 mislighting
 mislights
 mislike
+misliker
 mislived
 mislives
 mislocate
@@ -24562,6 +24576,7 @@ misstyle
 misstyles
 missuses
 missy
+mistake
 mistaken
 mistbow
 misteaches
@@ -26684,6 +26699,7 @@ obstructionists
 obstructions
 obstructs
 obstruent
+obtainability
 obtainable
 obtained
 obtainers
@@ -27149,6 +27165,7 @@ ornamentals
 ornamentation
 ornamentations
 ornaments
+ornatenesses
 ornerinesses
 ornery
 ornis
@@ -27331,6 +27348,7 @@ outcavils
 outcharm
 outcheat
 outcheating
+outchide
 outclimbs
 outclomb
 outcoach
@@ -27487,6 +27505,7 @@ outprice
 outproduce
 outproducing
 outpromised
+outpulling
 outpunch
 outpupil
 outpushed
@@ -27796,6 +27815,7 @@ overgreat
 overgrown
 overgrows
 overgrowths
+overhanded
 overhandling
 overhard
 overhate
@@ -28992,6 +29012,7 @@ percale
 percaline
 percalines
 perceivers
+perceiving
 perceptional
 perceptive
 perceptively
@@ -29854,6 +29875,7 @@ placentals
 placentas
 placentation
 placid
+placidness
 placks
 placoderm
 placoderms
@@ -33778,6 +33800,7 @@ researches
 reseason
 reseated
 reseau
+reseda
 reseeks
 resees
 reseized
@@ -34595,6 +34618,7 @@ roque
 roqueted
 roquets
 rosaceas
+rosaries
 roscoe
 roscoes
 roseate
@@ -34844,6 +34868,7 @@ rutiles
 rutin
 rutins
 ruts
+rutted
 ruttier
 ruttiness
 rye
@@ -35248,6 +35273,7 @@ sauterne
 sauternes
 sautes
 sautoir
+sautoire
 sautoirs
 savable
 savage
@@ -36119,6 +36145,7 @@ servo
 servos
 sesquiterpene
 sestertium
+seta
 setiform
 setouts
 sets
@@ -39007,6 +39034,7 @@ subframe
 subfreezing
 subfusc
 subgenera
+subgoal
 subgovernment
 subgrade
 subhead
@@ -39434,6 +39462,7 @@ supercharger
 supercharges
 supercilious
 supercity
+supercivilized
 superclass
 superclasses
 superclusters
@@ -40265,6 +40294,7 @@ tazzas
 tazze
 tchotchkes
 teaberry
+teabowl
 teaboxes
 teacakes
 teachableness
@@ -42004,6 +42034,7 @@ tunable
 tunableness
 tune
 tuneable
+tuneless
 tuner
 tuneups
 tungstate
@@ -43094,6 +43125,7 @@ unrefrigerated
 unregenerate
 unrehearsed
 unrelenting
+unreliability
 unremarkably
 unrenewed
 unrepair
@@ -44548,6 +44580,7 @@ weatherability
 weatherboards
 weathercast
 weatherglass
+weatherly
 weathermen
 weatherperson
 weatherpersons
@@ -44803,6 +44836,7 @@ wicker
 wickers
 wickets
 wicking
+wicks
 wicopies
 widders
 widdle
@@ -45190,6 +45224,7 @@ writhen
 writs
 written
 wrongdoings
+wrongful
 wrongfulnesses
 wrongheadedly
 wrote

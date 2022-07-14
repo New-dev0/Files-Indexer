@@ -1,0 +1,4 @@
+https://bazel.googlesource.com/bazel/+/staging/thi...,https://bazel.googlesource.com/bazel/%2B/staging/third_party/auto/auto-value-1.4.jar%3Fformat%3DTEXT
+https://bazel.googlesource.com/bazel/+/master/thir...,https://bazel.googlesource.com/bazel/%2B/master/third_party/netty/netty-common-4.1.75.Final.jar%3Fformat%3DTEXT
+org.eclipse.ocl_3.4.2.v20140725-2242.jar,https://git.eclipse.org/c/acceleo/org.eclipse.acceleo.git/tree/maven/releases/luna-sr2/org.eclipse.ocl/org.eclipse.ocl_3.4.2.v20140725-2242.jar%3Fid%3D42121be1ae7f8af5015488015e46815bf12b5082
+Contents of /trunk/build/lib/ant/pdfdoclet-1.0.2-all.jar - wamblee.org,https://wamblee.org/viewvc/utils/trunk/build/lib/ant/pdfdoclet-1.0.2-all.jar%3Fannotate%3D117%26logsort%3Drev%26limit_changes%3D0%26pathrev%3D285
