@@ -290,6 +290,7 @@ acrogenic
 acrogens
 acrolith
 acromegalies
+acromegaly
 acromia
 acropetal
 acrophobia
@@ -3367,6 +3368,7 @@ bejumbles
 beknight
 beknot
 beknots
+beknotting
 belabors
 belaced
 beladying
@@ -3745,6 +3747,7 @@ bioassay
 biochemistry
 biochip
 biocidal
+biocide
 biodegradation
 biodegradations
 biodegrades
@@ -5896,6 +5899,7 @@ causeys
 cauterants
 cautioners
 cautious
+cavalier
 cavaliered
 cavalierly
 cavaliers
@@ -6305,6 +6309,7 @@ cheesecloths
 cheeseparing
 cheesiness
 cheesinesses
+cheesy
 cheffing
 chelatable
 chelated
@@ -10330,6 +10335,7 @@ desiccators
 desiderated
 desiderating
 desiderative
+designators
 designs
 desilver
 desinent
@@ -10396,6 +10402,7 @@ detectabilities
 detected
 detection
 detections
+detector
 detectors
 detention
 detentions
@@ -10840,6 +10847,7 @@ directer
 directives
 director
 directorate
+directorial
 directories
 directrices
 direfully
@@ -11688,6 +11696,7 @@ drawbore
 drawee
 drawer
 drawerful
+drawing
 drawknives
 draws
 drawshave
@@ -14165,6 +14174,7 @@ federalized
 federals
 federating
 federative
+fedexed
 fedexing
 feds
 feedboxes
@@ -14602,6 +14612,7 @@ flacked
 flackery
 flag
 flagellants
+flagellar
 flagellation
 flagellations
 flagellin
@@ -14878,6 +14889,7 @@ flunkyism
 fluoresce
 fluorescein
 fluoric
+fluoridation
 fluorimeter
 fluorimetric
 fluorimetries
@@ -20026,6 +20038,7 @@ interionic
 interiorise
 interiorised
 interiorises
+interiorize
 interiorizes
 interiors
 interject
@@ -20183,6 +20196,7 @@ intimately
 intimates
 intimations
 intimidator
+intinctions
 intines
 intis
 intitling
@@ -20283,6 +20297,7 @@ invest
 investigations
 investigative
 investigatory
+investment
 investments
 investors
 inveteracy
@@ -22975,6 +22990,7 @@ maniac
 manic
 manicured
 manicures
+manifest
 manifester
 manifestly
 manifoldness
@@ -24111,6 +24127,7 @@ misallots
 misallotting
 misalters
 misanalysis
+misanthropy
 misapplication
 misapplied
 misapprehending
@@ -24260,6 +24277,7 @@ mislain
 mislay
 misleader
 misleading
+misleadingly
 misleads
 misleared
 mislearned
@@ -24677,6 +24695,7 @@ monotonically
 monotonicity
 monotonousness
 monotypic
+monounsaturates
 monovalent
 monovular
 monseigneur
@@ -24928,6 +24947,7 @@ mucking
 muckle
 mucklucks
 muclucs
+mucoid
 mucoidal
 mucolytic
 mucopeptides
@@ -27438,6 +27458,7 @@ overbuys
 overcalled
 overcalls
 overcapacity
+overcasted
 overcautions
 overcentralized
 overcharge
@@ -31607,6 +31628,7 @@ pursuer
 pursues
 pursuits
 pursuivants
+purtenances
 purulences
 purveyances
 purveys
@@ -32441,6 +32463,7 @@ receptivities
 receptor
 recepts
 recessionals
+recessionary
 rechallenge
 rechallenges
 rechanged
@@ -32534,6 +32557,7 @@ reconferred
 reconfine
 reconfines
 reconfirming
+reconnected
 reconnection
 reconning
 reconnoiters
@@ -34265,6 +34289,7 @@ romancing
 romanises
 romanizations
 romanize
+romano
 romanos
 romans
 romanticises
@@ -34716,6 +34741,7 @@ salon
 salons
 saloon
 saloops
+salpids
 salpiform
 sals
 salsa
@@ -34749,6 +34775,7 @@ salvors
 samadhis
 samaras
 samaritans
+sambaing
 sambal
 sambhurs
 sambo
@@ -34880,6 +34907,7 @@ sarcomatous
 sarcomere
 sarcoplasm
 sarcous
+sardined
 sardius
 sardonic
 sardonically
@@ -36378,6 +36406,7 @@ signifies
 signing
 signior
 signiories
+signiors
 signora
 signoras
 signori
@@ -36519,6 +36548,7 @@ situses
 sixteenmo
 sixteens
 sixtes
+sixth
 sixths
 sixty
 sizable
@@ -38091,6 +38121,7 @@ steepest
 steeplebush
 steeplechase
 steeplechaser
+steeplechasings
 steepled
 steeplejack
 steeples
@@ -40368,6 +40399,7 @@ thick
 thickenings
 thicker
 thicket
+thickets
 thickhead
 thicknesses
 thicksets
@@ -41548,6 +41580,7 @@ trumpeter
 truncating
 truncations
 truncheon
+truncheons
 trunkfish
 truss
 trussed
@@ -43403,6 +43436,7 @@ venerably
 venerates
 venerations
 venerator
+venery
 venesection
 venetian
 venge
@@ -45151,6 +45185,7 @@ zoosporangium
 zoosterol
 zootomic
 zootomist
+zoril
 zorilla
 zorillas
 zorillo
