@@ -225,6 +225,7 @@ acetic
 acetified
 acetifier
 acetifiers
+acetin
 acetones
 acetonic
 acetoxyls
@@ -1556,6 +1557,7 @@ antifriction
 antifungals
 antifur
 antigang
+antigene
 antigenic
 antigenically
 antigraft
@@ -1784,6 +1786,7 @@ aposiopetic
 apospories
 apospory
 apostasies
+apostatised
 apostatizing
 apostils
 apostle
@@ -2929,6 +2932,7 @@ banishments
 banister
 banjaxed
 banjaxes
+banjoist
 banjos
 bankbook
 bankrolled
@@ -3501,6 +3505,7 @@ benzoins
 benzole
 benzoles
 benzophenone
+benzophenones
 bepainting
 bepaints
 bepimpled
@@ -8424,6 +8429,7 @@ corroded
 corrody
 corrosion
 corrosive
+corruptibility
 corruptionists
 corruptions
 corruptnesses
@@ -9727,6 +9733,7 @@ decarbonated
 decarbonates
 decarbonizer
 decarboxylase
+decarboxylases
 decarburization
 decarburizes
 decasyllabic
@@ -10809,6 +10816,7 @@ dilutor
 diluvia
 diluvial
 dime
+dimenhydrinates
 dimensioning
 dimercaprols
 dimers
@@ -12043,6 +12051,7 @@ duststorm
 dutiable
 duumvir
 duumviri
+duumvirs
 duvetynes
 dwarfed
 dwarfer
@@ -12102,6 +12111,7 @@ dysphagias
 dysphasic
 dysphemistic
 dyspnea
+dyspneic
 dyspnoea
 dyspnoeas
 dysprosium
@@ -12580,6 +12590,7 @@ embrangling
 embrittle
 embrocates
 embrocations
+embroiler
 embroiling
 embrown
 embrues
@@ -13691,6 +13702,7 @@ exhorting
 exhorts
 exigently
 exiguousnesses
+exile
 exiles
 exilic
 existed
@@ -18709,6 +18721,7 @@ hyaloplasms
 hybridisms
 hybridizations
 hybridizer
+hybridizers
 hybridizing
 hybridoma
 hybris
@@ -19317,6 +19330,7 @@ imprinter
 imprisoned
 imprisonment
 improbably
+improperly
 impropernesses
 improvable
 improve
@@ -19377,6 +19391,7 @@ inarguable
 inarguably
 inarms
 inarticulacy
+inarticulately
 inarticulates
 inattention
 inattentively
@@ -20465,6 +20480,7 @@ iodate
 iodation
 iodations
 iodid
+iodids
 iodin
 iodinates
 iodine
@@ -21538,6 +21554,7 @@ laborious
 laboriously
 labourers
 labouring
+labra
 labrador
 labradors
 labret
@@ -27209,6 +27226,7 @@ otalgias
 other
 others
 otherworld
+otherworldly
 otic
 otioseness
 otiosities
@@ -27902,6 +27920,7 @@ oversimplified
 oversimplifies
 oversize
 overskirt
+overslipped
 overslipping
 oversoaked
 overspecializes
@@ -28528,6 +28547,7 @@ participations
 participator
 participatory
 particularities
+particularizes
 particulate
 particulates
 partied
@@ -31159,12 +31179,14 @@ proactions
 proactive
 probabilist
 probabilistic
+probables
 proband
 probationally
 probationary
 probe
 probenecid
 probities
+probits
 problem
 problematics
 proboscis
@@ -31488,6 +31510,7 @@ prototypes
 prototypic
 prototypically
 protoxid
+protoxids
 protoxylems
 protozoal
 protozoans
@@ -31714,6 +31737,7 @@ pumping
 pumpkins
 pumpkinseed
 pumps
+pun
 punas
 punchball
 punchballs
@@ -34068,6 +34092,7 @@ revalidation
 revalorization
 revalorize
 revalorizing
+revaluated
 revaluates
 revalue
 revaluing
@@ -35336,6 +35361,7 @@ scavenging
 scenas
 scend
 scenery
+scenic
 scenical
 scenting
 scepter
@@ -35476,6 +35502,7 @@ scotia
 scotopia
 scour
 scoured
+scourer
 scourges
 scouring
 scourings
@@ -35928,6 +35955,7 @@ sensual
 sensualisms
 sensualize
 sensualized
+sensualizes
 sensually
 sensum
 sententia
@@ -37308,6 +37336,7 @@ snowshoe
 snowshoer
 snowslide
 snowstorm
+snowstorms
 snowsuit
 snowy
 snub
@@ -37347,6 +37376,7 @@ sobering
 soberness
 sobernesses
 sobersidedness
+sobrieties
 sobriquets
 sobs
 soca
@@ -39002,6 +39032,7 @@ sublimits
 sublimity
 sublingual
 subliterate
+subliterates
 subliterature
 sublittorals
 sublunary
@@ -39894,6 +39925,7 @@ syrinx
 syrinxes
 syrphian
 syrphid
+sysadmin
 sysop
 systematize
 systematized
@@ -40035,6 +40067,7 @@ tamaraos
 tamarind
 tamarinds
 tamarisk
+tambour
 tamboured
 tambourer
 tambourines
@@ -42430,6 +42463,7 @@ uncloak
 uncloaking
 unclog
 unclogs
+unclosed
 unclothed
 uncloud
 unclouding
@@ -43724,6 +43758,7 @@ venireman
 venires
 venographies
 venology
+venomed
 venoms
 vent
 ventifact
