@@ -655,6 +655,7 @@ aggregational
 aggressed
 aggressive
 aggrievedly
+aggro
 agha
 agilenesses
 agings
@@ -5560,6 +5561,7 @@ carangoid
 carapace
 carate
 caravan
+caravaners
 caravanned
 caravanning
 caravanserai
@@ -5972,6 +5974,7 @@ celluloses
 cellulous
 celom
 celosia
+celotex
 celts
 cembalo
 cement
@@ -6414,6 +6417,7 @@ chilidogs
 chill
 chillest
 chillies
+chillums
 chilopod
 chiltepin
 chiltepins
@@ -7350,6 +7354,7 @@ coliphage
 coliphages
 colistin
 colistins
+collagenase
 collages
 collagists
 collapsing
@@ -7445,6 +7450,7 @@ colorways
 colossal
 colossi
 colostomies
+colostomy
 colourers
 colours
 colpitises
@@ -10667,6 +10673,7 @@ didact
 didacticism
 didacticisms
 diddle
+diddly
 didgeridoos
 didjeridoo
 didjeridu
@@ -11617,6 +11624,7 @@ dowers
 dowery
 dowie
 downbeats
+downburst
 downcast
 downcasts
 downcourt
@@ -11740,6 +11748,7 @@ dream
 dreamful
 dreamfully
 dreaming
+dreamland
 dreamlands
 dreamlessness
 dreamlessnesses
@@ -11944,6 +11953,7 @@ dumpiest
 dumpling
 dumpster
 dumpy
+dunce
 dunches
 duncishly
 dunderheaded
@@ -14559,6 +14569,7 @@ fireplug
 fireplugs
 firepots
 firepower
+fireproof
 fireproofed
 fireproofing
 fireproofs
@@ -15181,6 +15192,7 @@ forestial
 forestland
 forestry
 forests
+foreswear
 foresworn
 foretaste
 foretasted
@@ -15708,6 +15720,7 @@ futurities
 futzed
 fuzed
 fuzees
+fuzz
 fuzzes
 fylfot
 fytte
@@ -15899,6 +15912,7 @@ garlickier
 garlicky
 garmenting
 garnered
+garnets
 garnishing
 garote
 garoted
@@ -19266,6 +19280,7 @@ impudently
 impugn
 impugned
 impugning
+impuissant
 impulsed
 impulsion
 impulsive
@@ -19313,6 +19328,7 @@ inattentively
 inaudibility
 inaudibly
 inaugurate
+inaugurations
 inaugurators
 inauspiciously
 inbound
@@ -22656,6 +22672,7 @@ luminaries
 luminary
 luminesced
 luminescence
+luminescences
 luminiferous
 lummoxes
 lumpen
@@ -24200,6 +24217,7 @@ misattributions
 misaward
 misawarding
 misbecomes
+misbecoming
 misbegin
 misbeginning
 misbehaviors
@@ -24227,6 +24245,7 @@ miscellanea
 mischannelled
 mischarging
 mischievous
+miscited
 misclaimed
 misclassified
 misclassifies
@@ -25495,6 +25514,7 @@ nearside
 neaten
 neath
 neatly
+neatnik
 neats
 nebulose
 nebulosities
@@ -26702,6 +26722,7 @@ oilers
 oilily
 oiling
 oilman
+oilpaper
 oilpapers
 oilskin
 oilskins
@@ -28514,6 +28535,7 @@ paternoster
 path
 pathetically
 pathless
+pathobiologies
 pathognomonic
 pathologies
 pathologists
@@ -30454,6 +30476,7 @@ poxes
 poxing
 poxviruses
 poyous
+praam
 praams
 practicability
 practicalness
@@ -30821,6 +30844,7 @@ prescribe
 prescribing
 prescripts
 preselecting
+presentable
 presentations
 presented
 presentencing
@@ -31934,6 +31958,7 @@ quellers
 quenched
 quenches
 quercetin
+querida
 queried
 queriers
 querists
@@ -34729,6 +34754,7 @@ sadisms
 sadistic
 sadly
 sadness
+sadnesses
 sadomasochist
 sadomasochistic
 sae
@@ -35389,6 +35415,7 @@ scrappages
 scrapped
 scrappers
 scrappily
+scrappiness
 scrappinesses
 scrapping
 scrapple
@@ -35897,6 +35924,7 @@ serology
 seronegativity
 serosas
 serosity
+serotinal
 serotine
 serotinies
 serous
@@ -38087,6 +38115,7 @@ stampless
 stamps
 stance
 stanchers
+standardbred
 standardises
 standardizing
 standardless
@@ -39159,6 +39188,7 @@ summonsing
 sumps
 sumpters
 sumptuous
+sumptuously
 sumpweeds
 sunbath
 sunbaths
@@ -41618,6 +41648,7 @@ tronas
 trone
 trones
 troop
+troostite
 trophallaxis
 trophies
 trophoblast
@@ -41655,6 +41686,7 @@ troweling
 troweller
 truancies
 truantries
+truants
 trucked
 trucker
 truckers
@@ -41965,6 +41997,7 @@ typic
 typical
 typier
 typiest
+typification
 typifiers
 typographed
 typography
@@ -42372,6 +42405,7 @@ undercount
 undercounts
 undercover
 undercutting
+underdog
 underdone
 underdosed
 underdosing
@@ -43977,6 +44011,7 @@ vorticity
 votaress
 votarists
 voters
+voting
 votives
 voucher
 voudon
