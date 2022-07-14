@@ -366,6 +366,7 @@ adducible
 adductive
 adducts
 ademption
+adenine
 adenines
 adenoid
 adenomas
@@ -465,6 +466,7 @@ advancement
 advancements
 advances
 advantaged
+advantageous
 advection
 adventitia
 adventitiously
@@ -1090,6 +1092,7 @@ amianthuses
 amiantus
 amiantuses
 amid
+amidase
 amide
 amidin
 amidine
@@ -3587,6 +3590,7 @@ bewildering
 bewitcheries
 bewitchery
 bewitches
+beworming
 beworry
 bewrap
 bewrapt
@@ -4076,6 +4080,7 @@ blowholes
 blowing
 blowjobs
 blown
+blowpipes
 blowsier
 blowsiest
 blowsy
@@ -9781,6 +9786,7 @@ decried
 decries
 decriminalized
 decriminalizing
+decrypt
 decryptions
 decrypts
 decupled
@@ -10936,6 +10942,7 @@ discomforting
 discommends
 discommode
 discompose
+discomposure
 discomposures
 disconcerted
 disconcertingly
@@ -11082,6 +11089,7 @@ dislocating
 dislodged
 dislodgements
 dislodges
+disloyal
 disloyalty
 dismalest
 dismals
@@ -12951,6 +12959,7 @@ enzym
 enzymologies
 enzymologist
 enzymologists
+enzymology
 enzyms
 eohippuses
 eolopiles
@@ -13908,6 +13917,7 @@ faintish
 faints
 fair
 faired
+fairest
 fairgoers
 fairground
 fairishly
@@ -14499,6 +14509,7 @@ fireplug
 fireplugs
 firepots
 firepower
+fireproofed
 fireproofing
 fireproofs
 firer
@@ -18993,6 +19004,7 @@ immolations
 immolator
 immoralism
 immoralisms
+immoralists
 immoralities
 immortalises
 immortalising
@@ -25180,6 +25192,7 @@ myelomata
 myelomatous
 myelopathic
 myiasis
+mylars
 mynas
 myocardia
 myocardial
@@ -25792,6 +25805,7 @@ nonautonomous
 nonbacterial
 nonbank
 nonbearing
+nonbeing
 nonbelievers
 nonbetting
 nonbinary
@@ -27328,6 +27342,7 @@ outwardnesses
 outwards
 outwatching
 outwear
+outwearies
 outwearing
 outwears
 outwearying
@@ -27936,6 +27951,7 @@ paleographies
 paleomagnetic
 paleomagnetism
 paleosols
+paleozoic
 paleozoologists
 paler
 palestra
@@ -30097,6 +30113,7 @@ pored
 poriferal
 porisms
 pork
+porked
 pornographies
 poromerics
 porphyria
@@ -32306,6 +32323,7 @@ reassuring
 reata
 reattachment
 reattachments
+reattain
 reattempted
 reattribution
 reauthorized
@@ -32348,6 +32366,7 @@ rebought
 rebranching
 rebreed
 rebreeds
+rebuffing
 rebuffs
 rebuilding
 rebuker
@@ -33474,6 +33493,7 @@ resensitize
 reservable
 reserve
 reservedly
+reservednesses
 reserviced
 reservicing
 reserving
@@ -33852,6 +33872,7 @@ reviewers
 revilement
 reviling
 revisals
+reviser
 revisionist
 revisions
 revisory
@@ -33944,6 +33965,7 @@ rhizobial
 rhizoidal
 rhizoids
 rhizoma
+rhizome
 rhizomes
 rhizoplane
 rhizopus
@@ -34138,6 +34160,7 @@ roadhouse
 roadhouses
 roadkill
 roadkills
+roadsteads
 roadster
 roadworks
 roadworthiness
@@ -37696,6 +37719,7 @@ sportivenesses
 sportscasters
 sportsmanly
 sportswomen
+sportswritings
 sporulates
 spotlessly
 spotlighting
@@ -37858,6 +37882,7 @@ staffing
 stagecoach
 stagecoaches
 stagehand
+stagehands
 stages
 stagey
 stagflation
@@ -39010,6 +39035,7 @@ sunroofs
 sunscreening
 sunseekers
 sunshine
+sunshines
 sunspot
 suntan
 suntanned
@@ -39274,6 +39300,7 @@ susurrant
 susurration
 sutlers
 sutra
+suttas
 suttees
 suturally
 suture
@@ -39351,6 +39378,7 @@ sweepingness
 sweepings
 sweeten
 sweetened
+sweetenings
 sweetens
 sweetheart
 sweethearts
@@ -39510,6 +39538,7 @@ syncytia
 syndactyl
 syndactylism
 syndactyly
+syndesmosis
 syndetic
 syndic
 syndicalists
@@ -40123,6 +40152,7 @@ terrine
 terrines
 territ
 territorial
+territorialisms
 territorialized
 territorials
 terrorising
@@ -40382,6 +40412,7 @@ threats
 threeped
 threepence
 threesomes
+threnodist
 thresher
 thriftily
 thriftinesses
@@ -41565,6 +41596,7 @@ tulips
 tullibees
 tumbled
 tumbler
+tumblers
 tumefies
 tumefying
 tumescence
@@ -41704,6 +41736,7 @@ tweezers
 tweezing
 twelfth
 twelvemo
+twelvemos
 twelves
 twenties
 twentieths
@@ -42050,6 +42083,7 @@ unclasped
 unclassical
 unclassifiable
 unclawed
+uncleaned
 uncleanlier
 unclear
 unclearer
@@ -44222,6 +44256,7 @@ whelky
 whelm
 whelmed
 whelming
+whelping
 whenever
 whensoever
 wherefore

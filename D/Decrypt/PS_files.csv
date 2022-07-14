@@ -1,0 +1,60 @@
+[PS] Network Security Network Security Security in Computer Networks,ftp://gaia.cs.umass.edu/cs653-98/ch9-4.ps
+[PS] Immunizing Encryption Schemes from ... - Institute for Advanced Study,https://www.ias.edu/sites/default/files/math/csdm/03-04/cdwork_immunizing_encryption_schemes_from_decryption.ps
+[PS] Practical Veri able Encryption and Decryption of Discrete Logarithms ...,https://www.shoup.net/papers/verenc.ps
+[PS] Immunizing Encryption Schemes from Decryption Errors,https://www.wisdom.weizmann.ac.il/~naor/PAPERS/immune.ps
+[PS] 1. The RSA System - The MIT Press,https://mitpress.mit.edu/sites/default/files/sicp/psets/ps3/ps3rsa.ps
+[PS] 1 Introduction - Computer Science Laboratory - SRI International,http://www.csl.sri.com/papers/free/free.ps
+[PS] Searchable encryption with decryption in the standard model,https://eprint.iacr.org/2008/423.ps.gz
+[PS] Chosen Ciphertext Attacks Against Protocols Based on the RSA ...,http://www.cs.jhu.edu/~rubin/courses/fall03/papers/pkcs.ps
+[PS] An Efficient Public Key Traitor Tracing Scheme,https://crypto.stanford.edu/~dabo/pubs/papers/traitors.ps
+[PS] Sharing Decryption in the Context of Voting or Lotteries - DI ENS,https://www.di.ens.fr/~stern/data/St85.ps
+[PS] An Improved E-Mail Security Protocol,https://www.schneier.com/wp-content/uploads/2016/02/paper-email.ps.gz
+[PS] Instantaneous Revocation of Security Capabilities 1 Introduction,http://www.ics.uci.edu/~gts/paps/bdt01.ps.gz
+[PS] EK EK x1 x2 y1 y2 encrypt decrypt x1 x2 y1 y2 DK DK,http://crypto.cs.mcgill.ca/~crepeau/CS547/CLASSNOTES/ECB.eps
+[PS] EK x1 x2 y1 y2 encrypt decrypt IV = y0 EK EK x1 x2 y1 y2 IV = y0 EK,http://crypto.cs.mcgill.ca/~crepeau/CS547/CLASSNOTES/CFB.eps
+[PS] Tracing Traitors - of Benny Pinkas,http://www.pinkas.net/PAPERS/ttit.ps
+[PS] 1 Introduction - Matt Blaze,https://www.mattblaze.org/papers/card_cipher.ps
+[PS] Problem Set 1 - University of Maryland,http://www.cs.umd.edu/~jkatz/TEACHING/comp_sec_F03/downloads/hw1.ps
+[PS] An Automatic Security Protocol Verifier based on ... - Prosecco,http://prosecco.gforge.inria.fr/personal/bblanche/talks/Rennes06.ps.gz
+[PS] Intercepting Mobile Communications: The Insecurity of 802.11 - isaac,http://www.isaac.cs.berkeley.edu/isaac/wep-draft.ps
+[PS] Introduction to Cryptography,http://www.cs.cmu.edu/~realworld/crypto.ps
+[PS] 27 Encryption - People at MPI-SWS,https://people.mpi-sws.org/~druschel/courses/os/lectures/encryption.ps.gz
+[PS] Self-encrypting Code to Protect Against Analysis and Tampering,https://www.cosic.esat.kuleuven.be/publications/article-811.ps
+[PS] Cryptographic Primitives in Mobile (Boxed) Am bients,https://www.dsi.unive.it/myths/meetings/bertinoro/Talks/Crafa.ps
+[PS] Key Preassigned Traceability Schemes for Broadcast Encryption,https://cs.uwaterloo.ca/~dstinson/papers/kpts-final.ps
+[PS] A chosen text attack on the RSA cryptosystem and some discrete ...,http://www.dtc.umn.edu/~odlyzko/doc/arch/rsa.attack.ps
+[PS] All-Or-Nothing Encryption and The Package Transform - Digiater.nl,https://www.digiater.nl/openvms/decus/vmslt99b/net/fusion.ps
+[PS] Multi-Dimensional Range Query over Encrypted Data 1 - Elaine Shi,http://elaineshi.com/docs/rangequery.ps
+[PS] A Calculus for Cryptographic Protocols The Spi Calculus - UPenn CIS,https://www.cis.upenn.edu/~bcpierce/courses/629/papers/Abadi-spiintro.ps.gz
+[PS] Smartcard Integration with Kerberos V5 - USENIX,https://www.usenix.org/events/smartcard99/full_papers/itoiKerberos/itoiKerberos.ps
+[PS] Key Management in an Encrypting File System - USENIX,https://www.usenix.org/publications/library/proceedings/bos94/full_papers/blaze.ps
+[PS] Universit¨at des Saarlandes 1 Electronic Codebook Mode 2 Other ...,https://www.st.cs.uni-saarland.de/edu/secdesign/crypto-ex.ps
+[PS] Algebraic Structures Solutions for Problem Set 7 'A' Section 1. If we ...,https://mathcs.holycross.edu/~little/AS12/Stuff/PS7Sol.ps
+[PS] Homework Assignment # 6,https://web.cs.wpi.edu/~hofri/handouts/578/hw6.ps.gz
+"[PS] 5 Public-Key Encryption: Rabin, Blum-Goldwasser, RSA",https://www.cs.bu.edu/~reyzin/teaching/cryptonotes/notes-5.ps
+[PS] Relating Process Algebras and Multiset Rewriting for Immediate ...,http://www.dmi.unipg.it/~bista/papers/papers-download/mmm03.ps.gz
+[PS] On the Relative Soundness of the Free Algebra Model for Public Key ...,https://lin-web.clarkson.edu/~clynch/papers/pubfree.ps
+[PS] Information Leakage in Encrypted Key Exchange,http://archive.dimacs.rutgers.edu/Workshops/Threats/Patel.ps
+"[PS] Security Flaws Induced by CBC Padding Applications to SSL, IPSEC ...",https://infoscience.epfl.ch/record/99410/files/Vau02a.ps
+[PS] Midterm Examination - Zoo,https://zoo.cs.yale.edu/classes/cs467/2005f/course/handouts/ho11.ps
+[PS] Encrypting Virtual Memory - OpenBSD,https://www.openbsd.org/papers/swapencrypt-slides.ps
+[PS] E cient Sharing of Encrypted Data - The Free Haven Project,https://www.freehaven.net/anonbib/cache/gnunetencoding.ps
+[PS] A Method for Fast Revocation of Public Key Certi cates and Security ...,https://www.usenix.net/events/sec01/full_papers/boneh/boneh.ps
+[PS] Reconciling Two Views of Cryptography - UC Davis Computer Science,https://www.cs.ucdavis.edu/~rogaway/papers/equiv.ps
+[PS] Security protocols,http://www2.in.tum.de/lehre/vorlesungen/WS08/security/L05.ps
+[PS] Secure Communications Processing for Distributed Languages,https://www.soe.ucsc.edu/~abadi/Papers/notes-sp.ps
+[PS] Cryptanalysis of Magenta,http://www.mat.dtu.dk/people/Lars.R.Knudsen/papers/magenta.ps
+[PS] A Threshold Decryption Scheme without Session Keys,http://isrc.asia.edu.tw/www/myjournal/P043.ps
+[PS] An Attack on the Needham-Schroeder Public-Key Authentication ...,https://www.cs.ox.ac.uk/gavin.lowe/Security/Papers/NSPKP.ps
+[PS] STA4000 Report Decrypting Classical Cipher Text Using Markov ...,http://probability.ca/jeff/ftpdir/jiancipher.ps
+[PS] Chinese Remainder Theorem Based Hierarchical Access Control for ...,http://brain.math.fau.edu/spyros/spyros/prints/crt_paper.ps
+[PS] Energy Impact of Secure Computation on a Handheld Device∗,https://www.cs.purdue.edu/homes/ci/draft/WWC-5.ps
+[PS] 1 Introduction - UCLA Computer Science,http://web.cs.ucla.edu/~rafail/PUBLIC/29.ps
+[PS] Control Flow Analysis Can Find New Flaws Too,http://www.di.unipi.it/~chiara/publ-40/WITS04.ps
+[PS] Designing an Authentication System: a Dialogue in Four Scenes,ftp://www.cs.toronto.edu/doc/athena/kerberos/dialogue.PS
+[PS] 1 Introduction - Laboratory of Mathematical Logic,https://logic.pdmi.ras.ru/~grigorev/pub/invariant.ps
+[PS] 1 Introduction 2 Related Work - ellard.org,http://ellard.org/dan/www/6.857/final.ps
+[PS] Augmented Encrypted Key Exchange: a Password-Based Protocol ...,https://www.cs.columbia.edu/~smb/papers/aeke.ps
+[PS] A Case for a Multi-Key Secure Video Proxy - CUHK CSE,http://www.cse.cuhk.edu.hk/~cslui/CSC5480/proxy_video.ps.gz
+[PS] Multiparty Computation from Threshold Homomorphic Encryption,https://www.brics.dk/RS/00/14/BRICS-RS-00-14.ps.gz
+[PS] Preserving Privacy in Location-based Mobile Social Applications,http://people.cs.uchicago.edu/~ravenben/publications/ps.gz/lbsa-hotmobile10.ps.gz
