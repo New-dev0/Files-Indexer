@@ -634,6 +634,7 @@ agger
 aggiornamentos
 agglomerates
 agglutinability
+agglutinated
 agglutinations
 agglutinogenic
 agglutinogens
@@ -1467,6 +1468,7 @@ anthelia
 anthelices
 anthelions
 anthelix
+anthems
 antherid
 antheridial
 antherids
@@ -1689,6 +1691,7 @@ aortas
 aortographic
 aortographies
 aoudads
+apace
 apaches
 apagoges
 apanage
@@ -2575,6 +2578,7 @@ avocationally
 avoid
 avoidance
 avoided
+avoids
 avos
 avouched
 avouching
@@ -2628,6 +2632,7 @@ axiological
 axiologies
 axiomatically
 axiomatized
+axion
 axions
 axisymmetry
 axites
@@ -3991,6 +3996,7 @@ blennioid
 blesbuck
 bless
 blessedly
+blessedness
 blessers
 blethered
 blimy
@@ -4443,6 +4449,7 @@ boxhauled
 boxhauling
 boxhauls
 boxiest
+boxings
 boxthorn
 boyarisms
 boyars
@@ -13087,6 +13094,7 @@ eremuruses
 erenow
 erepsins
 erg
+ergastoplasms
 ergo
 ergograph
 ergotamine
@@ -14183,6 +14191,7 @@ feoffment
 feoffments
 feoffor
 fer
+feral
 ferbam
 ferlies
 fermate
@@ -15093,6 +15102,7 @@ forgoer
 forgoers
 forgoing
 forint
+forker
 forkfuls
 forkless
 forklifting
@@ -16416,6 +16426,7 @@ goading
 goalmouths
 goaltenders
 goalward
+goanna
 goannas
 goat
 goatee
@@ -17204,6 +17215,7 @@ haled
 haleru
 hales
 halfbeak
+halfbeaks
 halflives
 halfpence
 halftone
@@ -18996,6 +19008,7 @@ impassioned
 impassiveness
 impassivity
 impasted
+impatience
 impatiens
 impawned
 impawns
@@ -19022,6 +19035,7 @@ imperialists
 imperials
 imperiling
 imperishability
+imperiums
 impermissibly
 impersonal
 impersonalities
@@ -20475,6 +20489,7 @@ jackfishes
 jackfruits
 jackknifing
 jacklight
+jackplane
 jackrabbits
 jackrolled
 jackstone
@@ -20900,6 +20915,7 @@ katydid
 kauries
 kauris
 kavas
+kavass
 kayak
 kayaker
 kayaking
@@ -22584,6 +22600,7 @@ lyophilises
 lyophilizations
 lyophilizer
 lyophilizes
+lyric
 lyricalness
 lyricise
 lysed
@@ -30249,6 +30266,7 @@ praiseworthily
 praiseworthy
 pralines
 pram
+prams
 pranced
 prancer
 prancers
@@ -31102,6 +31120,7 @@ protamin
 protamines
 protea
 protect
+protectants
 protecter
 protectionist
 protectionists
@@ -33633,6 +33652,7 @@ retool
 retort
 retotal
 retouching
+retracer
 retracks
 retractable
 retractile
@@ -33787,6 +33807,7 @@ rewaking
 rewan
 reward
 rewarded
+rewarding
 rewashing
 rewaxed
 reweaved
@@ -34070,6 +34091,7 @@ rocketeers
 rocketers
 rockfall
 rockhopper
+rockhoundings
 rockhounds
 rockinesses
 rockingly
@@ -34656,9 +34678,11 @@ sandstorms
 sandwich
 sandworm
 sandworms
+sandwort
 sanga
 sangarees
 sangars
+sanger
 sangers
 sangh
 sanghs
@@ -35280,6 +35304,7 @@ seborrheas
 seborrheic
 sebums
 secantly
+secateur
 secateurs
 secern
 secludedly
@@ -35339,6 +35364,7 @@ seeable
 seedbed
 seedbeds
 seedcakes
+seedcase
 seedily
 seedlings
 seedstock
@@ -36460,6 +36486,7 @@ skittery
 skittles
 sklent
 sklenting
+sklents
 skoals
 skulked
 skulkers
@@ -37782,6 +37809,7 @@ stallion
 stalwartnesses
 stalworths
 stamens
+stamina
 staminal
 staminate
 stamineal
@@ -39700,6 +39728,7 @@ tastelessness
 tastiest
 tatami
 tatars
+tatouays
 tats
 tatsois
 tatter
@@ -40237,6 +40266,7 @@ thorough
 thoroughly
 thoroughwort
 thorps
+thou
 thoued
 thought
 thoughtfully
@@ -40529,6 +40559,7 @@ tocopherol
 tocsins
 tod
 toddled
+toddlerhoods
 tods
 toeas
 toed
@@ -40662,6 +40693,7 @@ topological
 topologically
 topologists
 toponymic
+toponymical
 toponymies
 toponymists
 topos
@@ -43334,6 +43366,7 @@ vexers
 vexil
 vexilla
 vexillologists
+viability
 viaducts
 vial
 viand
@@ -43397,6 +43430,7 @@ vigilantisms
 vignerons
 vignetters
 vignettist
+vigors
 vigours
 vileness
 vilenesses
@@ -43788,6 +43822,7 @@ wannabes
 wannest
 wannigan
 wannigans
+wanted
 wanter
 wanting
 wantoner
