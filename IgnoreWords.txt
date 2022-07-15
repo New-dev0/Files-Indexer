@@ -560,6 +560,7 @@ affecters
 affecting
 affectionate
 affectionless
+affections
 affective
 affectivities
 affectless
@@ -2521,6 +2522,7 @@ aurei
 aureolae
 auricle
 auricled
+auricula
 auriculate
 aurist
 aurochs
@@ -2699,6 +2701,7 @@ axiomatically
 axiomatized
 axion
 axions
+axisymmetrical
 axisymmetry
 axites
 axles
@@ -5049,6 +5052,7 @@ bumbershoots
 bumblers
 bumblingly
 bumelia
+bumfuzzle
 bumfuzzles
 bumkin
 bumper
@@ -5859,6 +5863,7 @@ caseworm
 caseworms
 cash
 cashes
+cashews
 cashing
 cashless
 casimeres
@@ -5955,6 +5960,7 @@ catechol
 catecholamine
 catechols
 categorised
+categorises
 categorising
 categorize
 catenaries
@@ -6506,6 +6512,7 @@ chicanos
 chicer
 chichier
 chichis
+chickadee
 chickadees
 chickarees
 chickenshit
@@ -9509,6 +9516,7 @@ cycloids
 cyclonically
 cycloolefin
 cyclopaedias
+cycloparaffins
 cyclopean
 cyclopedia
 cyclopes
@@ -9835,6 +9843,7 @@ debarring
 debases
 debated
 debatements
+debaters
 debating
 debauch
 debauched
@@ -14194,6 +14203,7 @@ fact
 faction
 factionally
 factious
+factitiousness
 factoidal
 factoids
 factorable
@@ -15707,6 +15717,7 @@ freebases
 freebee
 freebie
 freeboot
+freedman
 freedoms
 freedwomen
 freeform
@@ -16353,6 +16364,7 @@ gelatinized
 gelatinizes
 gelatinously
 gelation
+gelatis
 gelcap
 gelcaps
 gelder
@@ -21566,6 +21578,7 @@ kettledrums
 kewpies
 kexes
 keyboarders
+keyboardists
 keyboards
 keybutton
 keyless
@@ -22750,6 +22763,7 @@ lithos
 lithospheres
 lithospheric
 lithotomy
+litigiousness
 litmus
 litten
 litterateur
@@ -22805,6 +22819,7 @@ loathful
 loathsomeness
 lob
 lobar
+lobate
 lobbed
 lobby
 lobbyism
@@ -23214,6 +23229,7 @@ lyophilizes
 lyric
 lyricalness
 lyricise
+lyricised
 lyrisms
 lysed
 lysimetric
@@ -23530,6 +23546,7 @@ manipulators
 manipulatory
 manito
 manlike
+manly
 manna
 mannerism
 mannerist
@@ -24927,6 +24944,7 @@ missy
 mistake
 mistaken
 mistbow
+mistbows
 misteaches
 misted
 mistending
@@ -26231,6 +26249,7 @@ newswriting
 newt
 newwavers
 nexuses
+niacin
 niacinamides
 nialamide
 nibble
@@ -26840,6 +26859,7 @@ notarially
 notaries
 notarization
 notarize
+notarizing
 notated
 notating
 notation
@@ -27596,6 +27616,7 @@ orthocenters
 orthoclase
 orthodontias
 orthodontically
+orthodontist
 orthodox
 orthogenetic
 orthogonalities
@@ -29909,6 +29930,7 @@ photoreceptions
 photoreceptors
 photoreduce
 photoreduced
+photoreduces
 photos
 photosensitive
 photosensitizes
@@ -31100,6 +31122,7 @@ pranging
 prangs
 prankishly
 prankster
+prater
 pratfall
 pratfalls
 pratiques
@@ -31377,6 +31400,7 @@ prenomens
 prenominated
 prenotification
 prenotifying
+prenticing
 prenumbers
 preobtain
 preoccupancy
@@ -38206,6 +38230,7 @@ sorrowing
 sorrows
 sortied
 sortieing
+sortilege
 sostenuto
 sot
 soteriology
@@ -40632,6 +40657,7 @@ taillamps
 taille
 tailless
 taillights
+taillike
 tailpiece
 tailplane
 tailskids
@@ -40765,6 +40791,7 @@ taqueria
 taramas
 tarantist
 tarboosh
+tarbush
 tarbushes
 tardigrade
 tardyon
@@ -40944,6 +40971,7 @@ telefaxes
 telegramming
 telegrapher
 telegraphically
+telegraphist
 telegraphy
 telekinesis
 telemark
@@ -41816,6 +41844,7 @@ topsides
 topsoiling
 tora
 toras
+torchbearer
 torched
 torches
 torchlike
@@ -42123,6 +42152,7 @@ transpiring
 transplantable
 transpontine
 transporters
+transposons
 transsexualism
 transshapes
 transshaping
@@ -43380,6 +43410,7 @@ unelected
 unelectrified
 unembittered
 unemotionally
+unemphatically
 unemployables
 unemployments
 unendearing
@@ -43818,6 +43849,7 @@ unsnap
 unsnapped
 unsnarling
 unsociable
+unsold
 unsolders
 unsoldierly
 unsolid
@@ -44717,6 +44749,7 @@ viscoelastic
 viscoelasticity
 viscometers
 viscosimeter
+viscosimetric
 viscosities
 viscounts
 viscounty
@@ -45352,6 +45385,7 @@ whiffles
 whigs
 whiled
 whiles
+whilst
 whimbrel
 whimbrels
 whimpering
@@ -45706,6 +45740,7 @@ woodlot
 woodpecker
 woodpiles
 woodshedding
+woodsia
 woodsias
 woodsman
 woodstoves
