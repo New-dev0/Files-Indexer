@@ -745,6 +745,7 @@ airshows
 airspace
 airstrikes
 airthed
+airthing
 airts
 airward
 airwomen
@@ -2189,6 +2190,7 @@ ashier
 ashinesses
 ashlars
 ashless
+ashore
 ashplant
 aside
 asininities
@@ -2628,6 +2630,7 @@ avouched
 avouching
 avouchments
 avow
+avowable
 avowably
 avower
 avows
@@ -3201,6 +3204,7 @@ beakless
 beamed
 beamier
 beamishly
+beamless
 beanbags
 beaning
 beano
@@ -3589,6 +3593,7 @@ bespangles
 bespattering
 bespoken
 besprinkled
+bested
 bestialities
 bestialized
 bestializes
@@ -4431,6 +4436,7 @@ bossy
 boston
 botanic
 botanica
+botanical
 botanically
 botanized
 botanizer
@@ -4674,6 +4680,7 @@ breeding
 breedings
 breezed
 breezeless
+breezily
 breeziness
 breezing
 brents
@@ -7093,6 +7100,7 @@ clowns
 cloying
 cloys
 club
+clubable
 clubbiest
 clubbiness
 clubbing
@@ -8231,6 +8239,7 @@ conventuals
 converged
 convergences
 conversances
+conversancies
 conversancy
 conversazioni
 converse
@@ -9078,6 +9087,7 @@ crumply
 crumps
 cruncher
 crunchinesses
+cruppers
 crus
 crusaded
 crusading
@@ -10509,6 +10519,7 @@ destitution
 destitutions
 destrier
 destroys
+destruct
 destructed
 destruction
 destructiveness
@@ -12928,6 +12939,7 @@ engagingly
 engendering
 engine
 engineer
+engineers
 engineries
 enginous
 engirded
@@ -13341,6 +13353,7 @@ eros
 erosely
 erosible
 erosional
+erosionally
 erosiveness
 erosivities
 erotic
@@ -13827,6 +13840,7 @@ exoskeleton
 exoskeletons
 exosphere
 exospore
+exothermicities
 exothermicity
 exoticism
 exoticist
@@ -14734,6 +14748,7 @@ firms
 firs
 firstborns
 firstling
+firstly
 firsts
 fisc
 fiscalist
@@ -18090,6 +18105,7 @@ herd
 herdic
 herdmen
 hereafters
+heredes
 hereditament
 hereditarians
 heredity
@@ -18183,6 +18199,7 @@ hewed
 hex
 hexachords
 hexade
+hexades
 hexadic
 hexagon
 hexagonal
@@ -20764,6 +20781,7 @@ isoglossic
 isogon
 isogones
 isogonic
+isografted
 isohels
 isolate
 isolating
@@ -21806,6 +21824,7 @@ laminarian
 laminarins
 laminating
 laminator
+laming
 laminose
 lammergeier
 lammergeiers
@@ -22704,6 +22723,7 @@ logy
 loided
 loincloth
 loins
+lolled
 lollers
 lolling
 lollipops
@@ -22913,6 +22933,7 @@ luminescence
 luminescences
 luminiferous
 lummoxes
+lumpectomies
 lumpen
 lumper
 lumpinesses
@@ -28751,6 +28772,7 @@ partisan
 partitioners
 partlet
 partnered
+partnerless
 partnership
 partons
 partridge
@@ -31123,6 +31145,7 @@ preportioned
 preportioning
 prepositional
 prepositive
+prepotently
 preppiest
 prepriced
 preprices
@@ -31988,6 +32011,7 @@ punka
 punkas
 punkier
 punkinesses
+punkins
 punky
 punner
 punsters
@@ -33968,6 +33992,7 @@ reroutes
 res
 resaddling
 resailed
+resails
 resaluted
 resaw
 resaws
@@ -34430,6 +34455,7 @@ rewan
 reward
 rewarded
 rewarding
+rewardingly
 rewashing
 rewaxed
 reweaved
@@ -36094,6 +36120,7 @@ selfsamenesses
 selkie
 sellable
 selle
+seller
 sellers
 sellotaping
 sellout
@@ -36889,6 +36916,7 @@ sights
 sightseeing
 sightseers
 sightsees
+sigil
 sigloi
 sigma
 sigmoidal
@@ -37545,6 +37573,7 @@ sniffly
 sniffs
 sniffy
 snigger
+sniggers
 sniggle
 sniper
 snippet
@@ -40591,6 +40620,7 @@ tegminal
 teguas
 tegumina
 teiglach
+teind
 tektites
 telae
 telco
@@ -42121,6 +42151,7 @@ trotters
 trotting
 trotyls
 troubles
+troubleshoots
 troubleshot
 troubling
 trough
@@ -43098,6 +43129,7 @@ ungracious
 ungraciously
 ungraded
 ungraspable
+ungreased
 unguardednesses
 unguents
 ungula
@@ -43898,6 +43930,7 @@ vaporer
 vaporetto
 vaporing
 vaporish
+vaporishness
 vaporizes
 vaporizing
 vaporous
@@ -44831,6 +44864,7 @@ weavers
 weaves
 web
 webcams
+webcasted
 webers
 webfed
 weblike
@@ -45629,6 +45663,7 @@ yob
 yoctosecond
 yoctoseconds
 yodelled
+yodellers
 yodelling
 yodle
 yodlers
