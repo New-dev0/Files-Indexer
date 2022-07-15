@@ -1,0 +1,4 @@
+sdk/core.modular.manifest - fuchsia - Git at Google,https://fuchsia.googlesource.com/fuchsia/%2B/f381fa9d9c7e/sdk/core.modular.manifest
+sdk/modular_testing.manifest - fuchsia - Git at Google,https://fuchsia.googlesource.com/fuchsia/%2B/0b896b51d3c9/sdk/modular_testing.manifest
+asio/boost_asio.manifest ...,https://hexang.org/fuchsia-mirror/fuchsia.googlesource.com-third_party-asio/-/blob/bba8bb46ca522ce23b8aacdb5d9881a7518bd260/asio/boost_asio.manifest
+asio/boost_asio.manifest · upstream/asio-1-10-branch · fuchsia ...,https://hexang.org/fuchsia-mirror/fuchsia.googlesource.com-third_party-asio/-/blob/upstream/asio-1-10-branch/asio/boost_asio.manifest
