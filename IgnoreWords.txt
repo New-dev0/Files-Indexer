@@ -3359,6 +3359,7 @@ beflea
 befleaed
 befleas
 befleck
+beforetime
 befrets
 befriend
 befringe
@@ -6489,6 +6490,7 @@ chilopod
 chiltepin
 chiltepins
 chimaeras
+chimaeric
 chimb
 chimbley
 chimbleys
@@ -6992,6 +6994,7 @@ clew
 clientages
 clients
 cliffier
+cliffs
 clifts
 climates
 climatize
@@ -8421,6 +8424,7 @@ corniness
 cornmeals
 cornrow
 corns
+cornstalks
 cornua
 cornual
 corollaries
@@ -9544,6 +9548,7 @@ dailinesses
 dailynesses
 daimen
 daimyo
+dainties
 daintinesses
 dainty
 dairying
@@ -10682,6 +10687,7 @@ dialogically
 dialogistic
 dialogs
 dialogue
+dialysate
 dialyzes
 diamagnet
 diamagnetic
@@ -10894,6 +10900,7 @@ diminishing
 diminutiveness
 diminutives
 dimly
+dimmer
 dimnesses
 dimorphic
 dimpling
@@ -11231,6 +11238,7 @@ disinvited
 disinviting
 disjunctive
 disjunctives
+disk
 diskette
 dislikable
 disliked
@@ -15180,6 +15188,7 @@ folioing
 folkie
 folkishness
 folkishnesses
+folkloric
 folklorist
 folkmote
 folksong
@@ -17069,6 +17078,7 @@ gremmie
 gremmies
 grenadiers
 grew
+grewsome
 greyhound
 greying
 greylag
@@ -17384,6 +17394,7 @@ guzzler
 gybed
 gymkhana
 gymnast
+gymnastic
 gynaecia
 gynaecium
 gynaecologies
@@ -19894,6 +19905,7 @@ inflection
 inflectionally
 inflexibility
 inflexions
+inflicters
 inflicting
 inflictions
 inflorescence
@@ -20091,6 +20103,7 @@ insemination
 insensible
 insensitivities
 insentiences
+insentient
 inserter
 inserting
 inset
@@ -20577,6 +20590,7 @@ inviscid
 invisibilities
 invitations
 invitatories
+invite
 inviter
 inviters
 inviting
@@ -20783,6 +20797,7 @@ isotone
 isotope
 isotopic
 isotopically
+isotropies
 isotropy
 isotypic
 isozymic
@@ -21216,6 +21231,7 @@ kaisers
 kajeputs
 kaki
 kakiemon
+kakiemons
 kakis
 kalamatas
 kaleidoscopes
@@ -21503,6 +21519,7 @@ kissed
 kissing
 kists
 kitchen
+kitchenets
 kite
 kitelike
 kites
@@ -23779,6 +23796,7 @@ melatonin
 melders
 melding
 melee
+melilot
 melilots
 meliorating
 meliorations
@@ -24858,6 +24876,7 @@ momentary
 momently
 momentousness
 momentum
+moms
 momus
 momzer
 momzers
@@ -26476,6 +26495,7 @@ nonstatic
 nonstationary
 nonsteady
 nonsteroid
+nonsteroidal
 nonstick
 nonstory
 nonstyles
@@ -26745,6 +26765,7 @@ obesity
 obey
 obeyed
 obeyer
+obeying
 obeys
 obfuscated
 obfuscates
@@ -26824,6 +26845,7 @@ obtainability
 obtainable
 obtained
 obtainers
+obtains
 obtests
 obtrusions
 obtrusive
@@ -26909,6 +26931,7 @@ odometers
 odometries
 odonates
 odontoblast
+odontoblasts
 odontoglossum
 odontoid
 odorants
@@ -30275,6 +30298,7 @@ podium
 podocarp
 podomere
 podophyllin
+podsol
 podsolization
 podsols
 podzol
@@ -30532,6 +30556,7 @@ popularise
 popularity
 popularization
 popularizations
+popularizes
 popularizing
 popularly
 populated
@@ -31448,6 +31473,7 @@ profiters
 profits
 profitwise
 profligacies
+profligate
 profound
 profoundly
 profuseness
@@ -32782,6 +32808,7 @@ reassembling
 reassembly
 reasserted
 reassertions
+reassessment
 reassignments
 reassorted
 reassorting
@@ -35132,6 +35159,7 @@ saggiest
 sagier
 sagittally
 sagos
+saguaro
 sagy
 sahibs
 saice
@@ -35464,6 +35492,7 @@ saviors
 savorer
 savories
 savour
+savoured
 savourers
 savourier
 savouries
@@ -35750,6 +35779,7 @@ scrabbling
 scragged
 scraggily
 scragglier
+scraggliest
 scraggly
 scraggy
 scraichs
@@ -37214,6 +37244,7 @@ slaying
 slays
 sleaving
 sleazebag
+sleazeballs
 sleazes
 sleazo
 sledders
@@ -38883,6 +38914,7 @@ stowp
 stows
 strabismic
 strabismus
+straddle
 strafers
 stragglers
 straggling
@@ -39556,6 +39588,7 @@ summability
 summae
 summand
 summands
+summarise
 summarises
 summarist
 summarizable
@@ -41457,6 +41490,7 @@ torpid
 torpor
 torpors
 torqued
+torquer
 torquers
 torrefies
 torrefying
@@ -42376,6 +42410,7 @@ twined
 twinflowers
 twinge
 twinged
+twinging
 twinjets
 twinkler
 twinkles

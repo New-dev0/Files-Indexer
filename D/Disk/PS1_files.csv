@@ -1,0 +1,9 @@
+Azure-Samples/managed-disks-powershell-getting-started · GitHub,https://github.com/Azure-Samples/managed-disks-powershell-getting-started/blob/master/CreateManagedDiskFromVHD.ps1
+azure-docs-powershell-samples/create-managed-disk-from ... - GitHub,https://github.com/Azure/azure-docs-powershell-samples/blob/master/virtual-machine/create-managed-disk-from-snapshot/create-managed-disk-from-snapshot.ps1
+functions/disk/Initialize-DcnVhdDisk.ps1 0.10.36 - PowerShell Gallery,https://www.powershellgallery.com/packages/dbaclone/0.10.36/Content/functions%255Cdisk%255CInitialize-DcnVhdDisk.ps1
+Public/Disk/Get-Disk.osd.ps1 21.4.13.3 - PowerShell Gallery,https://www.powershellgallery.com/packages/OSD/21.4.13.3/Content/Public%255CDisk%255CGet-Disk.osd.ps1
+rules/Azure.VirtualMachine.Rule.ps1 0.4.0 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/PSRule.Rules.Azure/0.4.0/Content/rules%255CAzure.VirtualMachine.Rule.ps1
+SecureBoot/sb_set_siglists.ps1 - VeraCrypt,https://veracrypt.fr/code/VeraCrypt-DCS/tree/SecureBoot/sb_set_siglists.ps1%3Fid%3D541c619dcccaf6702e96b73a30a5621e0ccef285
+https://raw.githubusercontent.com/mikemaccana/comp...,https://raw.githubusercontent.com/mikemaccana/compact-wsl2-disk/main/compact-wsl2-disk.ps1
+SharePoint_VSS_backup.ps1 - ITOM Practitioner Portal - Micro Focus,https://docs.microfocus.com/itom/Data_Protector:10.04/Use/cli_reference/1/SharePoint_VSS_backup.ps1
+lib/ansible/modules/windows/win_disk_facts.ps1 · master,https://gitlabdev.ics.muni.cz/242618/ansible/-/blob/master/lib/ansible/modules/windows/win_disk_facts.ps1
