@@ -1,0 +1,9 @@
+mythbuntu-16.04.6-desktop-i386.manifest - Ubuntu CDimage,https://cdimage.ubuntu.com/mythbuntu/releases/16.04/release/mythbuntu-16.04.6-desktop-i386.manifest
+mythbuntu-16.04.6-desktop-amd64.manifest - Ubuntu CDimage,http://cdimage.ubuntu.com/mythbuntu/releases/16.04/release/mythbuntu-16.04.6-desktop-amd64.manifest
+ftp.dei.uc.pt/pub/linux/xubuntu/releases/14.04/rel...,http://ftp.dei.uc.pt/pub/linux/xubuntu/releases/14.04/release/xubuntu-14.04-desktop-i386.manifest
+ftp.ntua.gr/mirror/GNOME/misc/ubuntu-gnome-remix/u...,http://ftp.ntua.gr/mirror/GNOME/misc/ubuntu-gnome-remix/ubuntu-gnome-12.10.1-desktop-amd64.manifest
+mirror.rise.ph/ubuntu-iso/14.04/ubuntu-14.04.5-des...,http://mirror.rise.ph/ubuntu-iso/14.04/ubuntu-14.04.5-desktop-i386.manifest
+https://mirrors.dotsrc.org/mirrors/turnkeylinux/me...,https://mirrors.dotsrc.org/mirrors/turnkeylinux/metadata/turnkey-tomcat/11.2-lucid-x86/turnkey-tomcat-11.2-lucid-x86.manifest
+https://mirrors.aliyun.com/oldubuntu-releases/rele...,https://mirrors.aliyun.com/oldubuntu-releases/releases/14.04.0/ubuntu-14.04.2-desktop-amd64%2Bmac.manifest
+https://turnkeylinux.quantum-mirror.hu/metadata/tu...,https://turnkeylinux.quantum-mirror.hu/metadata/turnkey-trac/11.0rc-lucid-x86/turnkey-trac-11.0rc-lucid-x86.manifest
+lubuntu-14.04.1-desktop-i386.manifest - Repo UGM,http://repo.ugm.ac.id/iso/lubuntu/14.04/release/lubuntu-14.04.1-desktop-i386.manifest
