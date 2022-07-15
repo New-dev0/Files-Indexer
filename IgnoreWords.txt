@@ -1425,6 +1425,7 @@ annotators
 announcer
 announcers
 annualize
+annualizing
 annuitants
 annuity
 annularly
@@ -3445,6 +3446,7 @@ bellybands
 bellying
 bellylike
 belon
+belongingnesses
 beloveds
 below
 belter
@@ -3844,6 +3846,7 @@ biotical
 biotics
 biotites
 biotitic
+biotope
 biotron
 bioturbed
 biparentally
@@ -5256,6 +5259,7 @@ cafes
 caffeine
 caffeinic
 caffs
+caftan
 cage
 cagefuls
 cageling
@@ -5515,6 +5519,7 @@ cantillations
 cantonment
 cantor
 cantors
+cantrap
 canular
 canulated
 canvaser
@@ -5873,6 +5878,7 @@ catapulting
 catarrh
 catarrhally
 catarrhines
+catastrophe
 catboats
 catcall
 catcalling
@@ -7517,6 +7523,7 @@ colossal
 colossi
 colostomies
 colostomy
+colostrums
 colourers
 colours
 colpitises
@@ -8899,6 +8906,7 @@ cricked
 cricketer
 cricketers
 cricoid
+criminalities
 criminalization
 criminalize
 criminalized
@@ -13512,6 +13520,7 @@ etymologist
 etymologize
 etymons
 eucalypti
+eucalyptols
 eucalypts
 eucaryotes
 eucharises
@@ -15095,6 +15104,7 @@ flybridge
 flybys
 flyleaf
 flyoff
+flyoffs
 flyovers
 flypapers
 flyrodders
@@ -15355,6 +15365,7 @@ formable
 formaldehydes
 formalised
 formalize
+formalizer
 formalnesses
 formals
 formats
@@ -18106,6 +18117,7 @@ heteroatom
 heterocycles
 heterocyclic
 heterocyst
+heterocystous
 heterocysts
 heterodox
 heterodoxies
@@ -19353,6 +19365,7 @@ implantable
 implantation
 implanted
 implausibility
+implausible
 implead
 impleader
 implement
@@ -21245,6 +21258,7 @@ kayaking
 kayaks
 kayles
 kazillions
+kazoo
 kbars
 keas
 kebab
@@ -23752,6 +23766,7 @@ melilots
 meliorating
 meliorations
 melisma
+mell
 mellowed
 mellower
 melodias
@@ -25332,6 +25347,7 @@ multiples
 multiplexed
 multiplexor
 multiplexors
+multiplicands
 multiplication
 multiplications
 multiplicity
@@ -26264,6 +26280,7 @@ nonexempts
 nonexistences
 nonexistent
 nonexploitive
+nonfactors
 nonfactual
 nonfading
 nonfamily
@@ -27203,6 +27220,7 @@ oreodonts
 organa
 organelles
 organically
+organicist
 organicities
 organise
 organised
@@ -28430,6 +28448,7 @@ panfishes
 pangene
 pangens
 pangs
+panhandling
 panically
 panickier
 panickiest
@@ -28970,6 +28989,7 @@ pejoratives
 pekoes
 peles
 pelisse
+pelisses
 pellagrous
 pelletal
 pelleted
@@ -29860,6 +29880,7 @@ piolets
 pion
 pions
 piosity
+pipage
 pipal
 pipeage
 pipefuls
@@ -30350,6 +30371,7 @@ pollution
 polo
 poloists
 polonaise
+poloniums
 pols
 poltroonery
 polyacrylamides
@@ -30798,6 +30820,7 @@ prearranging
 preassigns
 preassured
 preattune
+preattuned
 prebend
 prebendaries
 prebiblical
@@ -31006,6 +31029,7 @@ premeditations
 premeditative
 premeds
 premenopausal
+premie
 premier
 premiered
 premiering
@@ -31179,6 +31203,7 @@ pretournament
 pretrain
 pretrials
 pretrim
+prettier
 prettification
 prettifier
 prettily
@@ -31250,6 +31275,7 @@ prilling
 prim
 primage
 primal
+primatal
 primates
 primateship
 primatial
@@ -33281,6 +33307,7 @@ refresh
 refreshening
 refresher
 refreshers
+refreshes
 refreshments
 refries
 refrigerants
@@ -34289,6 +34316,7 @@ reverenced
 reverencer
 reverencers
 reverences
+reverers
 reverie
 reveries
 reversibility
@@ -34477,6 +34505,7 @@ ridged
 ridgel
 ridgels
 ridgetops
+ridglings
 ridicule
 ridiculer
 ridiculers
@@ -36506,6 +36535,7 @@ shiftily
 shiftiness
 shiftinesses
 shifting
+shiftless
 shiftlessnesses
 shikaree
 shikari
@@ -38238,6 +38268,7 @@ sprawled
 sprawls
 sprawly
 sprayer
+sprayers
 sprees
 sprigger
 spriggers
@@ -38790,6 +38821,7 @@ stoppled
 stopwatch
 storekeeper
 storerooms
+storeship
 storeships
 storeys
 storks
@@ -41829,6 +41861,7 @@ trichinoses
 trichites
 trichocyst
 trichogyne
+trichogynes
 trichologists
 trichome
 trichomic
@@ -42259,6 +42292,7 @@ tutorages
 tutored
 tutoresses
 tutors
+tutorships
 tutties
 tutting
 tutus
@@ -43249,6 +43283,7 @@ unreally
 unreason
 unreasoningly
 unrebuked
+unreconstructed
 unrecoverable
 unrecovered
 unrecyclable
