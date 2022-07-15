@@ -1,0 +1,3 @@
+scripts/Windows/install_ruby.ps1 1.0.174 - PowerShell Gallery,https://www.powershellgallery.com/packages/AppVeyorBYOC/1.0.174/Content/scripts%255CWindows%255Cinstall_ruby.ps1
+appveyor_ruby/ruby_loop.ps1 at master · MSP-Greg/appveyor_ruby ...,https://github.com/MSP-Greg/appveyor_ruby/blob/master/ruby_loop.ps1
+av-gem-build-test/appveyor_setup.ps1 at master - GitHub,https://github.com/MSP-Greg/av-gem-build-test/blob/master/shared/appveyor_setup.ps1

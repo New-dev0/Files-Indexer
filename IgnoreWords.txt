@@ -523,6 +523,7 @@ aerobiological
 aerobiology
 aerobiosis
 aerodromes
+aeroducts
 aerodynes
 aeroelasticity
 aerogrammes
@@ -701,6 +702,7 @@ agreement
 agreements
 agribusinessman
 agribusinessmen
+agricultural
 agriculturists
 agrochemical
 agroforester
@@ -1959,6 +1961,7 @@ arbutean
 arbutus
 arbutuses
 arc
+arcade
 arcadian
 arcana
 arced
@@ -2461,6 +2464,7 @@ audiobook
 audiocassette
 audiocassettes
 audiologic
+audiologists
 audiology
 audiometers
 audiometric
@@ -8577,6 +8581,7 @@ counsellors
 counselorship
 counselorships
 counsels
+countabilities
 countenancers
 counter
 counterargue
@@ -9287,6 +9292,7 @@ cursors
 curt
 curtailers
 curtailments
+curtains
 curtalax
 curtalaxes
 curter
@@ -9431,6 +9437,7 @@ cygnets
 cylinder
 cylindered
 cylindering
+cylindrical
 cylix
 cyma
 cymars
@@ -11731,6 +11738,7 @@ dowery
 dowie
 downbeats
 downburst
+downbursts
 downcast
 downcasts
 downcourt
@@ -12202,6 +12210,7 @@ eardrum
 eardrums
 eared
 earfuls
+earl
 earlap
 earlaps
 earldom
@@ -12388,6 +12397,7 @@ effigies
 effloresced
 efflorescence
 efflorescences
+efflorescent
 effluences
 effluents
 effluvia
@@ -12787,6 +12797,7 @@ enclaves
 enclose
 enclosers
 encoded
+encodes
 encomiast
 encomium
 encompassment
@@ -15861,6 +15872,7 @@ futurities
 futzed
 fuzed
 fuzees
+fuzes
 fuzz
 fuzzes
 fylfot
@@ -15938,6 +15950,7 @@ galleasses
 galleins
 galleries
 gallerygoers
+galleting
 galleys
 galliasses
 gallican
@@ -16674,6 +16687,7 @@ gnashes
 gnat
 gnathic
 gnathite
+gnatlike
 gnattier
 gnawable
 gnawer
@@ -17274,6 +17288,7 @@ guiro
 guises
 guising
 guitar
+guitarfishes
 guitars
 gulag
 guldens
@@ -20096,6 +20111,7 @@ insinuates
 insinuatingly
 insipidity
 insistency
+insistent
 insister
 insisters
 insnares
@@ -20238,6 +20254,7 @@ interdentally
 interdependence
 interdepending
 interdict
+interdictory
 interdiffuse
 interdiffused
 interdiffusion
@@ -24318,6 +24335,7 @@ mindfulnesses
 mindless
 mineral
 mineralised
+mineralises
 mineralising
 mineralizable
 mineralizations
@@ -25252,6 +25270,7 @@ mucosas
 mucous
 mucronate
 mucrones
+mudcapping
 mudcat
 mudder
 muddiest
@@ -26214,6 +26233,7 @@ nonconformed
 nonconforming
 nonconformisms
 nonconformists
+nonconforms
 noncongruent
 nonconnection
 nonconstant
@@ -26436,6 +26456,7 @@ nonsaponifiable
 nonschool
 nonscientist
 nonsecretors
+nonsegregation
 nonsegregations
 nonselective
 nonsensically
@@ -29039,6 +29060,7 @@ penicillate
 penicillin
 penicillinase
 penitence
+penitent
 penitently
 penknives
 penman
@@ -32662,6 +32684,7 @@ reaccelerated
 reaccent
 reaccenting
 reaccepted
+reaccepts
 reacclimatize
 reacclimatizes
 reacclimatizing
@@ -34087,6 +34110,7 @@ restauranteurs
 restaurants
 restaurateur
 restful
+restfullest
 restfully
 restfulness
 restiform
@@ -34724,6 +34748,7 @@ romanticize
 romantics
 romeo
 romeos
+rompish
 romps
 rondeaux
 rondos
@@ -34890,6 +34915,7 @@ rubeolas
 rubes
 rubicundities
 rubier
+rubies
 rubiest
 rubles
 rubouts
@@ -34966,6 +34992,7 @@ rumouring
 rumours
 rumpled
 rumps
+rumpus
 rumpuses
 runabout
 runabouts
@@ -37486,6 +37513,7 @@ sniffling
 sniffly
 sniffs
 sniffy
+snigger
 sniggle
 sniper
 snippet
@@ -38361,6 +38389,7 @@ squealers
 squealing
 squeamishly
 squeamishness
+squeegeed
 squeezability
 squeezers
 squelches
@@ -41165,6 +41194,7 @@ tinctures
 tincturing
 tineas
 tineid
+tinges
 tinging
 tingliest
 tingling
@@ -42065,6 +42095,7 @@ trounced
 trouncers
 troupe
 trouper
+troupers
 trouser
 trouveres
 trove
@@ -42075,6 +42106,7 @@ troweller
 truancies
 truantries
 truants
+truckage
 trucked
 trucker
 truckers
@@ -44345,6 +44377,7 @@ vocabs
 vocabular
 vocabularies
 vocalese
+vocaleses
 vocalically
 vocalise
 vocalised
@@ -45490,6 +45523,7 @@ yardage
 yardages
 yardarm
 yarder
+yarding
 yards
 yardstick
 yardsticks
@@ -45619,6 +45653,7 @@ zacaton
 zacatons
 zaffar
 zaffars
+zag
 zagging
 zaikais
 zamarra
