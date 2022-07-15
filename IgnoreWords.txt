@@ -1040,6 +1040,7 @@ amarna
 amaryllises
 amas
 amassable
+amassed
 amasser
 amassments
 amateurishness
@@ -4025,6 +4026,7 @@ blamelessnesses
 blameworthiness
 blameworthy
 blaming
+blancher
 bland
 blander
 blandishing
@@ -4304,6 +4306,7 @@ bolas
 bolder
 boldfaced
 boldfaces
+boldfacing
 boldly
 boldness
 boleti
@@ -4538,6 +4541,7 @@ bowlegged
 bowlers
 bowless
 bowlike
+bows
 bowshot
 bowshots
 bowstring
@@ -4640,6 +4644,7 @@ brattice
 brattier
 brattinesses
 brattle
+bratwurst
 bratwursts
 braunite
 brava
@@ -4989,6 +4994,7 @@ buildups
 bulbed
 bulbuls
 bulged
+bulger
 bulgers
 bulges
 bulgiest
@@ -6108,6 +6114,7 @@ centesimos
 centigram
 centiles
 centiliter
+centillion
 centimes
 centimeter
 centimorgan
@@ -6129,6 +6136,7 @@ centrioles
 centrist
 centrists
 centroid
+centromere
 centrosymmetric
 centrums
 cents
@@ -6569,6 +6577,7 @@ chiralities
 chirality
 chiromancers
 chiromancies
+chiropodist
 chiropractic
 chiropterans
 chiropters
@@ -9073,6 +9082,7 @@ crosshatching
 crossheads
 crossjack
 crossjacks
+crosslets
 crossness
 crossovers
 crosspatches
@@ -9529,6 +9539,7 @@ cypselae
 cysteamine
 cysteine
 cysteines
+cystine
 cystitis
 cystocarps
 cystocele
@@ -9748,6 +9759,7 @@ dayglow
 daylighted
 daylit
 daymares
+days
 daysides
 daysmen
 daytimes
@@ -11519,6 +11531,7 @@ diversifies
 diversity
 diverted
 diverter
+diverters
 diverticulosis
 divertimentos
 diverting
@@ -12297,6 +12310,7 @@ earless
 earlier
 earlock
 earlship
+earmark
 earmarked
 earner
 earphone
@@ -13158,6 +13172,7 @@ entoderm
 entomb
 entombment
 entomofaunae
+entomologist
 entomophily
 entourage
 entourages
@@ -13657,6 +13672,7 @@ euphoriants
 euphrasy
 euphuistically
 euploidy
+eurokies
 eurybath
 euryokies
 eurythermic
@@ -13876,6 +13892,7 @@ exhortative
 exhorting
 exhorts
 exigently
+exiguous
 exiguousnesses
 exile
 exiles
@@ -14349,6 +14366,7 @@ fascination
 fascinator
 fascines
 fascioliasis
+fascist
 fascistic
 fascistically
 fascists
@@ -14391,6 +14409,7 @@ faucial
 fault
 faultfinders
 faultfinding
+faultlessnesses
 faunal
 faunlike
 fauvism
@@ -14602,6 +14621,7 @@ fever
 feverish
 feverwort
 fewer
+feyest
 fez
 fezes
 fiancee
@@ -15302,6 +15322,7 @@ fondue
 fondueing
 fons
 fontal
+fontanel
 fontanelle
 fontina
 foofaraws
@@ -15377,6 +15398,7 @@ forebears
 foreboded
 foreboder
 forecaddie
+forecaddies
 forecasters
 forechecked
 forechecks
@@ -16524,6 +16546,7 @@ gigolos
 gigots
 gigue
 gild
+gilded
 gilds
 gillies
 gillnet
@@ -17684,6 +17707,7 @@ hammers
 hammertoes
 hammily
 hammock
+hammy
 hampering
 hams
 hamstring
@@ -19509,12 +19533,14 @@ implausibility
 implausible
 implead
 impleader
+impleading
 implement
 impletions
 imploded
 implodes
 implored
 imploringly
+impoliteness
 impolitical
 impone
 importance
@@ -20174,6 +20200,7 @@ innominate
 innovated
 innovations
 innovative
+innovatively
 innovativeness
 innovator
 innuendo
@@ -20693,6 +20720,7 @@ investment
 investments
 investors
 inveteracy
+inveterate
 inveterately
 inviability
 invigilated
@@ -21137,6 +21165,7 @@ jibbers
 jibes
 jiff
 jiffs
+jigged
 jigger
 jiggered
 jigglier
@@ -22636,6 +22665,7 @@ liquidates
 liquidity
 liquidly
 liquidnesses
+liquids
 liquifying
 lira
 liras
@@ -25224,6 +25254,7 @@ moonshiners
 moonstones
 moonwalk
 moonwalking
+moonworts
 moorage
 moorages
 moorcock
@@ -25233,6 +25264,7 @@ mooriest
 moory
 moosebird
 moot
+mopboard
 mopboards
 moper
 mopes
@@ -26147,6 +26179,7 @@ newt
 newwavers
 nexuses
 niacinamides
+nialamide
 nibble
 nibbled
 niblick
@@ -26191,6 +26224,7 @@ niftily
 niggarding
 niggardliness
 nigglers
+nighed
 nighest
 nighs
 night
@@ -26630,6 +26664,7 @@ nonsegregation
 nonsegregations
 nonselective
 nonsensically
+nonsentence
 nonsentences
 nonsequential
 nonsexual
@@ -26753,6 +26788,7 @@ notating
 notation
 notchers
 note
+noteworthiness
 nother
 nothing
 nothingnesses
@@ -26928,6 +26964,7 @@ obfuscatory
 obit
 objected
 objection
+objectiveness
 objectivenesses
 objectivism
 objectivists
@@ -27027,6 +27064,7 @@ occlusions
 occlusive
 occlusives
 occultation
+occulters
 occultists
 occupants
 occupational
@@ -27709,6 +27747,7 @@ outfly
 outfool
 outfooling
 outgain
+outgained
 outgaining
 outgains
 outgallops
@@ -31386,6 +31425,7 @@ pressurised
 pressurization
 presterilizes
 prestidigitator
+prestigeful
 prestore
 prestored
 prestressed
@@ -32750,6 +32790,7 @@ randomization
 randomizer
 range
 rangers
+ranging
 ranid
 ranis
 rankers
@@ -33856,6 +33897,7 @@ remerged
 remex
 remigial
 remilitarize
+remilitarized
 remilitarizes
 reminded
 reminding
@@ -35983,6 +36025,7 @@ scrannel
 scrannels
 scrap
 scrapbooks
+scrape
 scraped
 scraper
 scrapheap
@@ -39468,6 +39511,7 @@ subgenera
 subgoal
 subgovernment
 subgrade
+subgroups
 subhead
 subheading
 subheadings
@@ -39950,6 +39994,7 @@ superlies
 superliners
 superloyalists
 superlunar
+superluxurious
 superluxury
 supermasculine
 superminds
@@ -40263,6 +40308,7 @@ swiving
 swizzle
 swizzlers
 swizzling
+swobbed
 swobbing
 swooned
 swoony
@@ -43662,6 +43708,7 @@ unsews
 unsexing
 unsexual
 unshamed
+unshared
 unshelling
 unshells
 unshifting
@@ -44060,6 +44107,7 @@ vakeel
 valances
 valerates
 valeted
+valeting
 valgoid
 valiances
 valiancy
@@ -45665,6 +45713,7 @@ wrath
 wrathier
 wrathiest
 wrathily
+wreaker
 wreakers
 wreaking
 wreaks
@@ -45887,6 +45936,7 @@ yolkier
 yoni
 yonic
 yore
+youngest
 youngling
 youngsters
 younker
