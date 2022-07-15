@@ -209,6 +209,7 @@ ace
 acentric
 acephalous
 acerate
+acerbated
 acerber
 acerbity
 acerola
@@ -226,6 +227,7 @@ acetic
 acetified
 acetifier
 acetifiers
+acetify
 acetin
 acetones
 acetonic
@@ -2313,6 +2315,7 @@ astigmia
 astilbe
 astilbes
 astir
+astonishes
 astonishingly
 astonishments
 astony
@@ -4196,6 +4199,7 @@ blunting
 blurrily
 blurt
 blushers
+blushes
 blustered
 bo
 boarder
@@ -4663,6 +4667,7 @@ breakings
 breakout
 breakup
 breakwater
+breastbones
 breastfeed
 breastpins
 breasts
@@ -6576,6 +6581,7 @@ chloralose
 chloralosed
 chloraloses
 chlorate
+chlordanes
 chlorids
 chlorin
 chlorinators
@@ -6881,6 +6887,7 @@ civisms
 clabbers
 clachan
 clad
+clades
 cladisms
 cladistically
 cladode
@@ -6928,6 +6935,7 @@ claros
 clashers
 clashes
 clasping
+clasps
 classable
 classed
 classicalities
@@ -7604,6 +7612,7 @@ comitial
 comities
 commandants
 commandeer
+commanderships
 commanding
 commando
 commands
@@ -8868,6 +8877,7 @@ creditability
 creditableness
 creds
 creed
+creedal
 creek
 creeks
 creepages
@@ -12019,6 +12029,7 @@ drupelets
 druse
 druses
 dryable
+dryades
 dryadic
 dryasdusts
 dryish
@@ -17916,6 +17927,7 @@ heartburning
 heartening
 heartens
 heartfelt
+heartfree
 hearths
 heartinesses
 heartlessnesses
@@ -21632,6 +21644,7 @@ knurl
 knurled
 knurlier
 koa
+koi
 koine
 kola
 kolbasis
@@ -22068,6 +22081,7 @@ leader
 leadman
 leadoff
 leadscrew
+leadscrews
 leadsmen
 leadwork
 leadworks
@@ -23692,6 +23706,7 @@ meantime
 meany
 measled
 measly
+measureless
 measurements
 measures
 meatier
@@ -24952,6 +24967,7 @@ mongoloids
 mongrel
 mongrelize
 moniliform
+monishes
 monishing
 monistic
 monitions
@@ -25062,6 +25078,7 @@ monotints
 monotonically
 monotonicity
 monotonousness
+monotype
 monotypic
 monounsaturates
 monovalent
@@ -25826,6 +25843,7 @@ necessitarian
 necessitates
 necessitousness
 necessity
+neckband
 necker
 necklaces
 necklike
@@ -26830,6 +26848,7 @@ oblasts
 oblate
 oblateness
 obligated
+obligates
 obligation
 obligato
 obligator
@@ -27487,6 +27506,7 @@ ousel
 ousted
 ouster
 ousters
+ousting
 outachieves
 outacting
 outacts
@@ -28821,6 +28841,7 @@ passalong
 passe
 passed
 passee
+passel
 passementerie
 passer
 passerine
@@ -29128,6 +29149,7 @@ penetrometers
 penicillate
 penicillin
 penicillinase
+penicillins
 penitence
 penitent
 penitently
@@ -29509,6 +29531,7 @@ phellems
 phelonia
 phelonion
 phenacite
+phenacites
 phenate
 pheneticist
 pheneticists
@@ -30129,6 +30152,7 @@ planking
 plankters
 plankton
 planlessnesses
+planned
 plantain
 plantations
 planters
@@ -30501,6 +30525,7 @@ polymathies
 polymathy
 polymerases
 polymeric
+polymerises
 polymerising
 polymerized
 polymerizing
@@ -36486,6 +36511,7 @@ shafted
 shagging
 shagreens
 shah
+shahs
 shairns
 shaitan
 shakable
@@ -36992,6 +37018,7 @@ silently
 silesias
 silhouette
 silhouetting
+silicides
 silicification
 silicifying
 siliciums
@@ -38313,6 +38340,7 @@ splutters
 spodes
 spodosols
 spoilsmen
+spoken
 spokesmanships
 spokespeople
 spokeswomen
@@ -38980,6 +39008,7 @@ straddle
 strafers
 stragglers
 straggling
+straightaways
 straightedge
 straighter
 straightforward
@@ -40238,6 +40267,7 @@ synfuels
 syngases
 syngenic
 synod
+synonymity
 synonymize
 synonymously
 synopsis
@@ -42516,6 +42546,7 @@ typhlitises
 typhoons
 typhose
 typhous
+typhuses
 typic
 typical
 typier
@@ -42558,6 +42589,7 @@ ufologies
 ufologists
 ufology
 uglier
+uglies
 uglification
 uglifier
 uglifiers
@@ -43082,6 +43114,7 @@ unelected
 unelectrified
 unembittered
 unemotionally
+unemployables
 unemployments
 unendearing
 unendingly
@@ -43535,6 +43568,7 @@ unspeaks
 unspectacular
 unsphere
 unsphering
+unspoken
 unsprayed
 unsprung
 unstableness
@@ -44971,6 +45005,7 @@ wergelds
 wergild
 wert
 westbound
+westerner
 westernised
 westernize
 westmost
