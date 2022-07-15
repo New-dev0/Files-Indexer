@@ -260,6 +260,7 @@ acidity
 acidnesses
 acidophil
 acidophils
+acidosis
 acidulated
 acidulation
 acidy
@@ -3578,6 +3579,7 @@ berried
 berrylike
 berserker
 berserkly
+berserks
 berthas
 berthed
 beryllium
@@ -5850,6 +5852,7 @@ caseinate
 casemate
 casemates
 caserns
+cases
 casette
 caseworm
 caseworms
@@ -15285,6 +15288,7 @@ fogdog
 fogdogs
 fogeyish
 fogeyisms
+fogfruit
 fogged
 foggier
 foggiest
@@ -25394,6 +25398,7 @@ motioned
 motivate
 motivated
 motivator
+motive
 motmots
 motoneuron
 motorbiked
@@ -26083,6 +26088,7 @@ neorealisms
 neorealistic
 neostigmines
 neotenic
+neoteny
 neotropic
 nepenthean
 nepeta
@@ -26193,6 +26199,7 @@ newsletters
 newsmakers
 newsman
 newsmongers
+newspaper
 newspaperman
 newspapers
 newspersons
@@ -26545,6 +26552,7 @@ nonfigurative
 nonfinal
 nonfinancial
 nonfluids
+nonfluorescent
 nonflying
 nonfocal
 nonfulfillments
@@ -31629,6 +31637,7 @@ pristinely
 privatdozents
 privately
 privateness
+privatising
 privatize
 privatizing
 privies
@@ -33023,6 +33032,7 @@ reamer
 reaming
 reanalyses
 reanimated
+reanimation
 reannexing
 reanoint
 reaped
@@ -33311,6 +33321,7 @@ recrate
 recrates
 recreancy
 recreating
+recreative
 recrements
 recrossing
 recrowning
@@ -33441,6 +33452,7 @@ redrew
 redroot
 redshift
 redshifted
+redshirts
 redskin
 redskins
 redtop
@@ -39112,6 +39124,7 @@ stockists
 stockjobber
 stockman
 stockpiled
+stockroom
 stocktaking
 stocktakings
 stockyard
@@ -39400,6 +39413,7 @@ studio
 studiousnesses
 studlier
 studying
+stuffinesses
 stuffing
 stulls
 stumbled
@@ -42026,6 +42040,7 @@ transference
 transferrable
 transferred
 transferrer
+transferrers
 transferring
 transferrins
 transfiguring
@@ -43489,6 +43504,7 @@ unipod
 unipods
 unipotent
 unique
+uniquely
 uniqueness
 uniquer
 unirrigated
@@ -43496,6 +43512,7 @@ unisexuality
 unisonant
 unitarianism
 unities
+unitive
 unitization
 unitizations
 unitizing
@@ -45251,6 +45268,7 @@ whaleback
 whaleman
 whales
 whangee
+whangees
 whaps
 wharfage
 wharfinger
