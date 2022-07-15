@@ -558,6 +558,7 @@ affectable
 affecters
 affecting
 affectionate
+affectionless
 affective
 affectivities
 affectless
@@ -1529,6 +1530,7 @@ antiars
 antiarthritic
 antiasthma
 antibacterial
+antibillboard
 antibioses
 antibiotically
 antiburglar
@@ -3297,6 +3299,7 @@ bedarkening
 bedazzlement
 bedazzling
 bedboard
+bedbugs
 bedchair
 bedchairs
 bedchamber
@@ -3468,6 +3471,7 @@ bellpulls
 bellworts
 bellyache
 bellyacher
+bellyband
 bellybands
 bellying
 bellylike
@@ -3503,6 +3507,7 @@ bencher
 benchlands
 benchwarmers
 bendable
+bendayed
 bendwise
 benedictions
 beneficent
@@ -7817,6 +7822,7 @@ compulsory
 compunctious
 computable
 computations
+computereses
 computerise
 computerises
 computerising
@@ -8618,6 +8624,7 @@ cotransductions
 cotransfers
 cottager
 cottered
+cottier
 cottoned
 cottons
 cottonseeds
@@ -9279,6 +9286,7 @@ culvert
 cumarin
 cumberbund
 cumbered
+cumbers
 cumbersome
 cumbersomeness
 cumbrous
@@ -10057,6 +10065,7 @@ defectiveness
 defector
 defectors
 defeminize
+defeminizes
 defence
 defenceman
 defencing
@@ -10469,6 +10478,7 @@ derailleurs
 derate
 derats
 deray
+derays
 derelicts
 derepresses
 derepression
@@ -12763,6 +12773,7 @@ embrangling
 embrittle
 embrocates
 embrocations
+embroidered
 embroiler
 embroiling
 embrown
@@ -13291,6 +13302,7 @@ epidemic
 epidemics
 epidemiologic
 epidemiologists
+epidermic
 epidote
 epifaunas
 epigenetically
@@ -14614,6 +14626,7 @@ fettuccini
 feudal
 feudalists
 feudalizations
+feudalize
 feudatory
 feuded
 feuilleton
@@ -14653,6 +14666,7 @@ ficin
 ficklest
 fickly
 fico
+ficoes
 fictional
 fictionalised
 fictionality
@@ -14944,6 +14958,7 @@ flamy
 flanerie
 flanger
 flanging
+flankers
 flannelets
 flannelette
 flannelettes
@@ -17748,6 +17763,7 @@ handshakes
 handsomely
 handsomeness
 handsomenesses
+handsprings
 handstands
 handwrote
 handy
@@ -18915,6 +18931,7 @@ humorists
 humorlessly
 humorlessness
 humorousnesses
+humoured
 humouring
 hump
 humpbacks
@@ -19468,6 +19485,7 @@ impassable
 impassibilities
 impassibly
 impassioned
+impassively
 impassiveness
 impassivity
 impasted
@@ -21715,6 +21733,7 @@ kneecap
 kneecappings
 kneeing
 kneels
+kneepan
 knelling
 knelt
 knickerbockers
@@ -21749,6 +21768,7 @@ knowing
 knowingly
 knowingnesses
 knuckleballs
+knuckler
 knucklier
 knurl
 knurled
@@ -22112,6 +22132,7 @@ latitude
 latitudes
 latkes
 latosol
+latria
 latte
 lattens
 latter
@@ -23182,6 +23203,7 @@ lysogenicities
 lysogenies
 lysogenise
 lysogenizing
+lysolecithin
 lysosomal
 lysosome
 lyssa
@@ -23227,6 +23249,7 @@ macroevolutions
 macroglobulins
 macromere
 macromolecular
+macromolecules
 macron
 macronuclear
 macronuclei
@@ -23563,6 +23586,7 @@ marginal
 marginalities
 marginalizes
 marginalizing
+marginated
 marginating
 margination
 margining
@@ -23996,6 +24020,7 @@ memetics
 memo
 memorable
 memorably
+memorandum
 memorialised
 memorialises
 memorialising
@@ -24859,6 +24884,7 @@ missioner
 missioners
 missionized
 missionizes
+missis
 missives
 missound
 missounded
@@ -25457,6 +25483,7 @@ muckier
 mucking
 muckle
 mucklucks
+muckraked
 muclucs
 mucoid
 mucoidal
@@ -26488,6 +26515,7 @@ noneducation
 noneducational
 noneffective
 nonego
+nonelection
 nonelections
 nonelectronic
 nonenergy
@@ -26622,6 +26650,7 @@ nonpayments
 nonperformance
 nonperforming
 nonphonetic
+nonplays
 nonpliant
 nonplusses
 nonpoetic
@@ -27660,6 +27689,7 @@ outbegs
 outbid
 outbidder
 outbidders
+outbitches
 outblooming
 outblooms
 outbluffed
@@ -28633,9 +28663,11 @@ palped
 palpi
 palpitated
 palpitating
+palpitations
 palpus
 palsied
 palsies
+palsylike
 palter
 paltered
 palterer
@@ -33540,6 +33572,7 @@ reflexions
 reflexively
 reflexivenesses
 reflexivities
+reflexivity
 reflies
 refloat
 reflooding
@@ -33631,6 +33664,7 @@ regionalism
 regionalisms
 regionalists
 regionalized
+regionalizes
 regionals
 registered
 registrants
@@ -35647,6 +35681,7 @@ saroses
 sarracenia
 sarracenias
 sarsaparillas
+sarsars
 sarsen
 sartor
 sartorial
@@ -37265,6 +37300,7 @@ sinsyne
 sinter
 sintered
 sinters
+sinuate
 sinuates
 sinuous
 sinuously
@@ -37295,6 +37331,7 @@ siting
 sitology
 sitosterol
 sitosterols
+sits
 sitting
 sittings
 situate
@@ -41538,6 +41575,7 @@ tissuing
 titanias
 titanism
 titanite
+titbit
 titers
 tithing
 tithings
@@ -41658,6 +41696,7 @@ tomograph
 tomographic
 tone
 tonearms
+tonelessnesses
 tonetics
 tonettes
 toney
@@ -42125,6 +42164,7 @@ treelawn
 treelike
 treen
 treenails
+treenware
 treetops
 tremble
 trembled
@@ -42499,6 +42539,7 @@ tubists
 tubocurarines
 tubulate
 tubulates
+tubulating
 tubule
 tuckers
 tucket
@@ -43179,6 +43220,7 @@ underlets
 underline
 underling
 underlips
+underloading
 underlyingly
 undermining
 undernourished
@@ -43378,6 +43420,7 @@ ungula
 ungulate
 unhairs
 unhallow
+unhallowing
 unhandled
 unhands
 unhandsome
@@ -44005,12 +44048,14 @@ urbanises
 urbanising
 urbanisms
 urbanizations
+urbanized
 urbanologies
 urbanology
 urceolate
 urchins
 urea
 ureal
+uredia
 uredinia
 ureter
 ureteric
@@ -44073,6 +44118,7 @@ utopistic
 utricles
 utter
 utterance
+uttering
 uvarovite
 uveitic
 uvula
@@ -44247,6 +44293,7 @@ vatu
 vatus
 vaudevillians
 vaulter
+vaulters
 vaultiest
 vaulting
 vaultingly
@@ -44873,6 +44920,7 @@ waisting
 waists
 waitered
 waitlist
+waitresses
 waitron
 waits
 waitstaff
@@ -45149,6 +45197,7 @@ weighable
 weighed
 weighers
 weighman
+weight
 weighted
 weightiness
 weightinesses
@@ -45862,6 +45911,7 @@ yasmaks
 yattering
 yatters
 yaup
+yauped
 yauper
 yaupers
 yawed
