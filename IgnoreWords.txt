@@ -380,6 +380,7 @@ adenine
 adenines
 adenoid
 adenomas
+adenosine
 adenosines
 adenosis
 adenoviruses
@@ -1188,6 +1189,7 @@ amphibious
 amphibole
 amphibolite
 amphibolites
+amphibrachic
 amphictyonic
 amphictyony
 amphidiploidies
@@ -1711,6 +1713,7 @@ antispasmodic
 antistate
 antistories
 antistory
+antistrike
 antistudent
 antisuicide
 antitax
@@ -1967,6 +1970,7 @@ aquiline
 aquilinities
 aquilinity
 ar
+arabesque
 arabica
 arabicas
 arabicization
@@ -2209,6 +2213,7 @@ aruspex
 arvo
 arvos
 arytenoids
+arythmias
 asbestos
 asbestosis
 ascariasis
@@ -4146,6 +4151,7 @@ blazer
 blazes
 blazon
 blazoned
+blazons
 bleacher
 bleachers
 bleaches
@@ -4308,6 +4314,7 @@ boardinghouses
 boardlike
 boardman
 boardrooms
+boardsailing
 boarfish
 boarhound
 boas
@@ -5378,6 +5385,7 @@ caconym
 cacophonous
 cacophonously
 cadastre
+cadaver
 cadaverines
 caddis
 caddised
@@ -7488,6 +7496,7 @@ coeffect
 coelacanth
 coelenterates
 coelomate
+coeloms
 coelostat
 coelostats
 coembodied
@@ -10169,6 +10178,7 @@ decompound
 decompress
 decompressing
 deconcentrate
+deconcentrating
 deconcentration
 deconditions
 decongestion
@@ -10900,6 +10910,7 @@ devitrified
 devocalized
 devoices
 devoir
+devolutionist
 devoted
 devotedly
 devotednesses
@@ -13925,6 +13936,7 @@ eukaryote
 eukaryotes
 eukaryotic
 eulachan
+eulachon
 eulogists
 eulogizer
 eunuch
@@ -15966,6 +15978,7 @@ frankincense
 frankincenses
 franking
 franknesses
+frankpledge
 frantic
 franticness
 franticnesses
@@ -17740,6 +17753,7 @@ guerdons
 gueridons
 guernsey
 guessable
+guesser
 guesses
 guesstimated
 guesstimates
@@ -17762,6 +17776,7 @@ guildships
 guildsmen
 guiles
 guillemet
+guillemets
 guilt
 guiltless
 guilty
@@ -18534,6 +18549,7 @@ hemocytometer
 hemocytometers
 hemodialyses
 hemodialysis
+hemolymph
 hemolyzes
 hemophiliacs
 hemopoieses
@@ -21430,6 +21446,7 @@ jaguar
 jaguarondi
 jaguarondis
 jail
+jailbirds
 jailing
 jailor
 jalap
@@ -23181,6 +23198,7 @@ livers
 liverwurst
 liverwursts
 liverymen
+livestocks
 livetrap
 lividly
 lividnesses
@@ -24442,6 +24460,7 @@ melodias
 melodic
 melodicas
 melodiously
+melodise
 melodised
 melodist
 melodizers
@@ -27121,6 +27140,7 @@ nonnatives
 nonnatural
 nonnaval
 nonnecessities
+nonneural
 nonnoble
 nonnovel
 nonnuclear
@@ -29219,6 +29239,7 @@ paludal
 paly
 palynologically
 palynologies
+palynologists
 pampa
 pampas
 pampean
@@ -30666,6 +30687,7 @@ pilotages
 pilothouses
 piloting
 pilotless
+pimas
 pimped
 pimpernel
 pimples
@@ -30756,6 +30778,7 @@ piquet
 piracy
 piragua
 piraguas
+pirana
 piranas
 pirate
 pirated
@@ -31219,6 +31242,7 @@ pollenate
 pollenates
 pollenizers
 pollenosis
+pollens
 poller
 pollex
 pollination
@@ -33455,6 +33479,7 @@ rant
 rants
 ranulas
 rapacities
+rape
 raper
 rapers
 raphes
@@ -33955,6 +33980,7 @@ rectifying
 rectitude
 rectitudinous
 recto
+rectocele
 rectors
 rectrix
 recumbencies
@@ -34267,6 +34293,7 @@ refuses
 refusing
 refutes
 refuting
+regainers
 regaining
 regaled
 regaler
@@ -35175,6 +35202,7 @@ retirees
 retiringnesses
 retook
 retool
+retorn
 retort
 retotal
 retouching
@@ -36534,6 +36562,7 @@ scarted
 scarting
 scary
 scatback
+scathe
 scathed
 scats
 scatted
@@ -39970,6 +39999,7 @@ stratal
 strategic
 strategical
 strategizes
+strathspey
 strathspeys
 stratification
 stratifies
@@ -41719,6 +41749,7 @@ temperas
 temperate
 tempested
 tempestuous
+tempi
 templars
 template
 temporalized
@@ -43502,8 +43533,10 @@ twenties
 twentieths
 twerp
 twerps
+twibill
 twiddlers
 twiddles
+twiddly
 twiggen
 twiggier
 twiggiest
@@ -44652,6 +44685,7 @@ untenable
 untented
 untested
 untethering
+untethers
 unthinking
 unthreads
 untidied
@@ -46782,6 +46816,7 @@ yeasayers
 yecch
 yegg
 yeggs
+yelk
 yell
 yelling
 yellowed
