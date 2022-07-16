@@ -1990,6 +1990,7 @@ arboreally
 arbored
 arborescences
 arboretums
+arboricultural
 arborist
 arborizations
 arborize
@@ -2195,6 +2196,7 @@ arts
 artwork
 arugolas
 arugula
+aruspex
 arvo
 arvos
 arytenoids
@@ -6103,6 +6105,7 @@ caulked
 caulker
 cauls
 causable
+causal
 causalgia
 causalgic
 causally
@@ -6153,6 +6156,7 @@ cedary
 ceders
 ceding
 cedis
+cees
 ceibas
 ceilings
 ceils
@@ -6418,6 +6422,7 @@ charabanc
 character
 characteristics
 characterizing
+charade
 charbroiled
 charbroils
 charcoaling
@@ -9796,6 +9801,7 @@ dale
 daledh
 dales
 dalesmen
+daleth
 daleths
 dalles
 dally
@@ -11523,6 +11529,7 @@ dismals
 dismantlements
 dismantles
 dismasting
+dismemberments
 disobeyer
 disobeying
 disobeys
@@ -13243,6 +13250,7 @@ engorge
 engorges
 engraft
 engraftments
+engrailing
 engram
 engramme
 engrammic
@@ -14506,10 +14514,12 @@ familistic
 faming
 famishment
 fanatical
+fanaticalnesses
 fanaticized
 fanatics
 fancied
 fanciers
+fancifully
 fancifulness
 fancify
 fancifying
@@ -15606,6 +15616,7 @@ footnoting
 footpaces
 footpad
 footpath
+footrace
 footrest
 footsie
 footsies
@@ -18087,6 +18098,7 @@ harangued
 harangues
 harassments
 harbored
+harborer
 harboring
 harbour
 hard
@@ -19807,6 +19819,7 @@ impercipiences
 impercipient
 imperfection
 imperfectives
+imperfectly
 imperfects
 imperialist
 imperialists
@@ -20269,6 +20282,7 @@ inebriant
 inebriate
 inebriates
 inebriating
+ineducable
 ineffabilities
 ineffably
 ineffaceability
@@ -22807,6 +22821,7 @@ librettist
 librettists
 librettos
 libriform
+lice
 licencers
 licencing
 licensable
@@ -25043,6 +25058,7 @@ misbrand
 misbranded
 misbuilds
 misbuttoned
+miscalculations
 miscallers
 miscaptioning
 miscarry
@@ -25932,6 +25948,7 @@ multibillion
 multibladed
 multicar
 multichambered
+multicharacter
 multicolor
 multicolored
 multiconductor
@@ -25992,6 +26009,7 @@ multiuser
 multivariate
 multiversity
 multiwall
+multures
 mumbled
 mumblers
 mumbles
@@ -26108,6 +26126,7 @@ mutagenicities
 mutagenicity
 mutagens
 mutants
+mutationally
 mutative
 mutedly
 muteness
@@ -26605,6 +26624,7 @@ nicad
 niccolites
 nice
 nicer
+niceties
 niche
 niches
 nickeling
@@ -28975,6 +28995,7 @@ paeons
 paesano
 pagan
 pagandom
+paganises
 paganists
 paganizing
 pageants
@@ -29783,6 +29804,7 @@ pennywise
 pennyworts
 penologist
 pens
+pensee
 pensil
 pensione
 pensioners
@@ -32136,6 +32158,7 @@ probits
 problem
 problematics
 proboscis
+procambia
 procambial
 procarbazine
 procarps
@@ -32969,6 +32992,7 @@ quagmiriest
 quaiches
 quailing
 quainter
+quaintness
 quake
 quaker
 quakers
@@ -33425,6 +33449,7 @@ raucousnesses
 raunch
 raunchiness
 ravagements
+ravager
 raveller
 ravened
 ravening
@@ -35339,6 +35364,7 @@ riddler
 ride
 rideable
 riders
+rides
 ridged
 ridgel
 ridgels
@@ -36485,6 +36511,7 @@ schottisches
 schrod
 schtick
 schticks
+schtik
 schuss
 schussboomer
 schussboomers
@@ -36625,6 +36652,7 @@ screechiest
 screed
 screenfuls
 screenlands
+screenplays
 screwdriver
 screwiest
 screwinesses
@@ -37583,6 +37611,7 @@ shrewlike
 shrewmouse
 shrieked
 shriekier
+shrieval
 shrieve
 shriller
 shrillnesses
@@ -41820,6 +41849,7 @@ theosophies
 therapeuses
 there
 thereafter
+thereat
 therein
 thereon
 thermalization
@@ -41938,6 +41968,7 @@ thralled
 thrashed
 thrasonically
 thrave
+thrawed
 thrawing
 threadbareness
 threaders
@@ -42974,6 +43005,7 @@ triskele
 triskeles
 triskelia
 triskelion
+trismuses
 trisoctahedra
 trisoctahedrons
 trisome
@@ -44605,6 +44637,7 @@ upheap
 upheavals
 upheave
 upheavers
+upheaves
 uphoarded
 uphoards
 uphold
@@ -46083,6 +46116,7 @@ wicker
 wickers
 wickets
 wicking
+wickings
 wicks
 wicopies
 widders
@@ -46725,6 +46759,7 @@ zaptiahs
 zarebas
 zareeba
 zareebas
+zarzuela
 zarzuelas
 zastrugi
 zaxes
