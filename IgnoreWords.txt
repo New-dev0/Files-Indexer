@@ -1225,6 +1225,7 @@ amusingness
 amygdales
 amygdalin
 amygdule
+amylase
 amylases
 amylenes
 amylogen
@@ -1264,6 +1265,7 @@ analemmata
 analgesias
 analgesic
 analgetics
+analogic
 analogical
 analogically
 analogies
@@ -1723,6 +1725,7 @@ antler
 antlered
 antonymous
 antra
+antsinesses
 anuran
 anuretic
 anuses
@@ -3988,6 +3991,7 @@ bisulfates
 bisulfide
 bit
 bitartrate
+bitchen
 bitchery
 bitchiest
 biteable
@@ -4836,6 +4840,7 @@ broadbill
 broadcasted
 broadened
 broadener
+broadeners
 broadening
 broadens
 broadleaf
@@ -6525,6 +6530,7 @@ cheongsams
 chequers
 cherimoyas
 cherish
+cherished
 cherishes
 chernozemic
 cherry
@@ -6697,6 +6703,7 @@ choanocyte
 chock
 chockful
 chockfull
+chocks
 chocoholics
 chocolate
 chocolatier
@@ -7665,6 +7672,7 @@ colportages
 colporteur
 cols
 coltish
+coltsfoot
 colugo
 colugos
 columbaries
@@ -9579,6 +9587,7 @@ cycler
 cycleries
 cyclers
 cyclicality
+cyclically
 cyclicly
 cycling
 cyclings
@@ -12261,6 +12270,7 @@ duffel
 dugouts
 duh
 duits
+duked
 dukedoms
 dulcetly
 dulcified
@@ -12835,6 +12845,7 @@ emasculations
 embalm
 embalming
 embalmment
+embalms
 embanked
 embankments
 embanks
@@ -15594,6 +15605,7 @@ foreparts
 forepaw
 forepeak
 forequarter
+forequarters
 forereaching
 foresails
 foreseeability
@@ -16850,6 +16862,7 @@ glaucous
 glazier
 glaziery
 glazily
+gleam
 gleamer
 gleamier
 gleamy
@@ -17718,6 +17731,7 @@ gynogenesis
 gynophobe
 gynophobes
 gyp
+gypper
 gypseian
 gypsophila
 gypsophilas
@@ -19373,6 +19387,7 @@ hypospadiases
 hypostatize
 hypostome
 hypostomes
+hypotensive
 hypotenuse
 hypothecates
 hypothecation
@@ -20132,6 +20147,7 @@ indulgers
 indults
 indurations
 indurative
+indusial
 industrial
 industrialism
 industrialisms
@@ -21423,6 +21439,7 @@ joggles
 johannes
 johnnycake
 johnnycakes
+johns
 joinder
 joinings
 joint
@@ -22166,6 +22183,7 @@ lamellately
 lamentable
 lamentableness
 lamentably
+lamentations
 lamenting
 lamer
 laminal
@@ -23445,6 +23463,7 @@ macrocosms
 macrocyclic
 macrocysts
 macrocyte
+macrocytosis
 macroeconomic
 macroevolution
 macroevolutions
@@ -29234,6 +29253,7 @@ parthenocarpic
 parthenocarpies
 parthenogeneses
 partial
+partialities
 participating
 participation
 participations
@@ -29325,6 +29345,7 @@ patagium
 patchable
 patcher
 patches
+patchily
 patchworking
 patchworks
 pate
@@ -31156,6 +31177,7 @@ postattack
 postaxial
 postbase
 postbellum
+postcapitalist
 postcards
 postcava
 postcavas
@@ -34111,6 +34133,7 @@ reives
 rejacketed
 rejackets
 rejectees
+rejecters
 rejections
 rejective
 rejectors
@@ -36413,6 +36436,7 @@ screwiest
 screwinesses
 screwworm
 scribbler
+scribbles
 scribes
 scries
 scrimpers
@@ -36604,6 +36628,7 @@ sedimentologies
 seditions
 seducive
 seduction
+seductivenesses
 seductress
 sedulousness
 sedulousnesses
@@ -37630,6 +37655,7 @@ sinuate
 sinuates
 sinuous
 sinuously
+sinuousness
 sinuousnesses
 sinuslike
 sinusoid
@@ -38401,6 +38427,7 @@ sombreros
 some
 somebodies
 somersault
+somersaulting
 somersaults
 somewhere
 somewheres
@@ -39350,6 +39377,7 @@ stereotaxic
 stereotypical
 stereotypically
 stereotypies
+stereotypy
 sterigma
 sterilise
 sterilising
@@ -39447,6 +39475,7 @@ stoccatas
 stockaded
 stockading
 stockage
+stocked
 stockiest
 stockily
 stockists
@@ -41630,6 +41659,7 @@ thievery
 thievishness
 thigmotaxes
 thimble
+thimbleriggers
 thimbleweed
 thimerosals
 thindowns
@@ -42447,6 +42477,7 @@ transposons
 transsexualism
 transshapes
 transshaping
+transship
 transshipment
 transsonic
 transudates
@@ -42778,6 +42809,7 @@ trone
 trones
 troop
 troostite
+tropeolins
 trophallaxis
 trophies
 trophoblast
@@ -42919,6 +42951,7 @@ tuftier
 tuftings
 tugger
 tugging
+tughriks
 tui
 tuitional
 tularemias
@@ -42957,6 +42990,7 @@ tungstic
 tunic
 tunica
 tunicated
+tunics
 tunnel
 tunneler
 tunny
@@ -44898,6 +44932,7 @@ vexer
 vexers
 vexil
 vexilla
+vexillologist
 vexillologists
 viability
 viaducts
