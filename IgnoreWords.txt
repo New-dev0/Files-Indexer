@@ -436,6 +436,7 @@ admissibilities
 admittance
 admitting
 admix
+admixes
 admixt
 admonisher
 admonishing
@@ -479,6 +480,7 @@ advances
 advantaged
 advantageous
 advection
+advective
 adventitia
 adventitiously
 adventive
@@ -2586,6 +2588,7 @@ autoloading
 autolysates
 autolysed
 autolysins
+autolyzate
 autolyzes
 automaker
 automan
@@ -2976,6 +2979,7 @@ banjaxes
 banjoist
 banjos
 bankbook
+bankcard
 bankrolled
 bankrupt
 bankrupting
@@ -4831,6 +4835,7 @@ brogues
 broguish
 broider
 broidered
+broilers
 broiling
 broke
 brokenhearted
@@ -6842,6 +6847,7 @@ ciliation
 cimbalom
 cinched
 cinchona
+cinchonic
 cinderous
 cinematheques
 cinematic
@@ -8096,6 +8102,7 @@ conniver
 connivers
 conniving
 connotational
+connotations
 connote
 connoted
 connotes
@@ -10491,6 +10498,7 @@ depot
 depravedly
 depravedness
 depravement
+depraving
 deprecates
 deprecatingly
 deprecations
@@ -11032,6 +11040,7 @@ dimethyls
 dimidiating
 diminished
 diminishing
+diminutive
 diminutiveness
 diminutives
 dimly
@@ -11897,6 +11906,7 @@ downfall
 downfield
 downforce
 downgraded
+downhauls
 downhiller
 downlight
 downlinks
@@ -16214,6 +16224,7 @@ gammier
 gammon
 gammoner
 gammoning
+gammons
 gamodeme
 gamodemes
 gamut
@@ -16821,6 +16832,7 @@ globoid
 globose
 gloggs
 glom
+glomerules
 glomeruli
 glomming
 gloomed
@@ -17065,6 +17077,7 @@ goulashes
 gourdes
 gourmandises
 gourmandisms
+gourmandizes
 gourmet
 gourmets
 goutily
@@ -18708,6 +18721,7 @@ homosex
 homosexual
 homosexually
 homosocialities
+homothallic
 homozygosities
 homozygotes
 homozygous
@@ -18937,6 +18951,7 @@ however
 howffs
 howked
 hoya
+hoyden
 hoydened
 hoydening
 hoyle
@@ -20845,6 +20860,7 @@ involucels
 involucra
 involutional
 involve
+involved
 invulnerability
 invulnerably
 inwall
@@ -25068,6 +25084,7 @@ mizzenmasts
 mizzle
 mizzly
 moaner
+moaners
 moaningly
 moat
 moats
@@ -27056,6 +27073,7 @@ nutpick
 nutria
 nutriment
 nutritionally
+nutritionist
 nutritively
 nutritives
 nuts
@@ -27802,6 +27820,7 @@ outbawled
 outbeam
 outbegs
 outbid
+outbidden
 outbidder
 outbidders
 outbitches
@@ -28486,6 +28505,7 @@ overstudies
 overstuff
 oversubtle
 oversupplied
+oversupply
 oversups
 oversweetens
 overswing
@@ -29357,6 +29377,7 @@ pedlar
 pedocals
 pedogenic
 pedological
+pedologist
 pedologists
 peds
 peduncled
@@ -30817,6 +30838,7 @@ polygonally
 polygraph
 polygraphic
 polygraphing
+polygynies
 polygynous
 polyhedroses
 polyhistor
@@ -32103,6 +32125,7 @@ protohistorian
 protohistorians
 protohistories
 protomartyr
+protonema
 protonematal
 protons
 protopathic
@@ -32831,6 +32854,7 @@ radicated
 radicates
 radicating
 radicel
+radicle
 radicles
 radioautographs
 radiobiologic
@@ -34601,6 +34625,7 @@ retables
 retackle
 retacks
 retailored
+retails
 retainers
 retaken
 retaker
@@ -35551,6 +35576,7 @@ sae
 safariing
 safe
 safekeepings
+safelight
 safenesses
 safer
 safest
@@ -37270,6 +37296,7 @@ sickish
 sickishness
 sickishnesses
 sicklemia
+sicklemic
 sicklier
 sickliest
 sickliness
@@ -37604,6 +37631,7 @@ skulkers
 skullduggeries
 skunking
 skunkweed
+skunkweeds
 skyborne
 skybox
 skycaps
@@ -38112,6 +38140,7 @@ sociometry
 socioreligious
 socket
 socketed
+sodaless
 sodbusters
 soddened
 soddies
@@ -38592,6 +38621,7 @@ spiky
 spilings
 spilling
 spillover
+spillway
 spilths
 spinachy
 spindle
@@ -39008,6 +39038,7 @@ stargaze
 stargazer
 starker
 starkness
+starling
 starnose
 starriest
 starry
@@ -40720,6 +40751,7 @@ tacnode
 tacnodes
 taco
 taconite
+tacrines
 tact
 tactic
 tactics
@@ -41377,6 +41409,7 @@ theoretically
 theories
 theorize
 theosophies
+therapeuses
 there
 thereafter
 therein
@@ -43894,6 +43927,7 @@ unruliest
 unrumpled
 uns
 unsaddles
+unsafeties
 unsaintly
 unsalable
 unsalvageable
@@ -46337,6 +46371,7 @@ zoomorphic
 zoonosis
 zoonotic
 zoophilia
+zoophobia
 zoophobias
 zoophyte
 zooplankter
