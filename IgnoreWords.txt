@@ -1459,6 +1459,7 @@ annulment
 annulus
 annuluses
 annunciate
+annunciated
 annunciating
 annunciatory
 anodizations
@@ -4671,6 +4672,7 @@ brander
 brandings
 brandished
 brandishes
+brandishing
 brandlings
 brandying
 brannigan
@@ -5766,6 +5768,7 @@ cardinalship
 cardings
 cardiogenic
 cardiographs
+cardiological
 cardiologies
 cardiologists
 cardiomyopathy
@@ -6841,6 +6844,7 @@ chug
 chukka
 chukkas
 chummier
+chumship
 chumships
 chunkier
 chunking
@@ -12349,6 +12353,7 @@ dustier
 dustman
 dustpan
 duststorm
+dutchmen
 dutiable
 dutifully
 duumvir
@@ -14849,6 +14854,7 @@ fighters
 fighting
 fights
 figurate
+figurative
 figuratively
 figured
 figurer
@@ -16415,6 +16421,7 @@ gasting
 gastnesses
 gastreas
 gastrectomies
+gastritic
 gastrocnemii
 gastronomical
 gastropods
@@ -17030,6 +17037,7 @@ goannas
 goat
 goatee
 goatherds
+goatish
 goats
 goatskin
 gob
@@ -17839,6 +17847,7 @@ hakes
 hakims
 halakhic
 halakic
+halakist
 halavah
 halavahs
 halbert
@@ -17952,6 +17961,7 @@ hang
 hangable
 hangnail
 hangnails
+hangout
 hangtags
 haniwa
 hanked
@@ -18114,6 +18124,7 @@ hausfrau
 hausfrauen
 haustella
 haustorium
+haut
 hautboy
 haute
 havarti
@@ -18454,6 +18465,7 @@ heroically
 heroicize
 heroin
 heroine
+heroins
 heroized
 herpesvirus
 herpesviruses
@@ -19553,6 +19565,7 @@ imager
 imaginably
 imaginary
 imagination
+imaginativeness
 imamates
 imbalm
 imbarking
@@ -19793,6 +19806,7 @@ impregnates
 impregnators
 impregning
 impregns
+impresario
 impresses
 impressibility
 impressible
@@ -19982,6 +19996,7 @@ incongruously
 inconnu
 inconnus
 inconscient
+inconsequently
 inconsiderate
 inconsistencies
 inconsonances
@@ -21535,6 +21550,7 @@ juku
 jukus
 juleps
 julienned
+jumbled
 jumblers
 jumbo
 jumbuck
@@ -21982,6 +21998,7 @@ knucklier
 knurl
 knurled
 knurlier
+knurly
 koa
 koi
 koine
@@ -22398,6 +22415,7 @@ laxative
 laxest
 laxness
 laxnesses
+lay
 layoff
 layout
 layover
@@ -23960,6 +23978,7 @@ matelasses
 matelots
 materialist
 materialities
+materialize
 materializer
 materially
 materialness
@@ -25632,12 +25651,14 @@ mothlike
 mothproof
 moths
 motific
+motiles
 motion
 motioned
 motivate
 motivated
 motivator
 motive
+motleyest
 motmots
 motoneuron
 motorbiked
@@ -27788,6 +27809,7 @@ orienting
 orients
 oriflammes
 origamis
+originalities
 originator
 orinasals
 orioles
@@ -29018,6 +29040,7 @@ panned
 panner
 pannes
 panniers
+pannikin
 panocha
 panochas
 panoches
@@ -30087,6 +30110,7 @@ phonographic
 phonolite
 phonologic
 phonotactic
+phonotype
 phons
 phorate
 phoronids
@@ -31665,6 +31689,7 @@ preparers
 prepasted
 prepaving
 prepay
+prepaying
 prepensely
 preperformance
 preplaces
@@ -34755,6 +34780,7 @@ restrooms
 restructured
 rests
 restudies
+restuffing
 restuffs
 restyling
 resubject
@@ -36225,6 +36251,7 @@ scavenging
 scenas
 scend
 scenery
+sceneshifters
 scenic
 scenical
 scenting
@@ -37905,6 +37932,7 @@ slenderly
 slenderness
 slicers
 slicken
+slickened
 slickenside
 slicknesses
 slickrock
@@ -39858,6 +39886,7 @@ subcenters
 subchapters
 subchief
 subclans
+subclass
 subclassify
 subclause
 subclerk
@@ -41010,6 +41039,7 @@ tallithes
 tallitim
 tallitoth
 tallits
+tallols
 tallows
 tallowy
 tallyho
@@ -41220,6 +41250,7 @@ teargas
 tearing
 tearooms
 tearstains
+teas
 teasable
 teased
 teaseler
@@ -41274,6 +41305,7 @@ tegumina
 teiglach
 teind
 tektites
+tel
 telae
 telco
 telecasted
@@ -41385,6 +41417,7 @@ tendrilous
 tenebrionids
 tenebrious
 tenebrisms
+tenebrist
 tenebrous
 tenet
 tenia
@@ -45878,6 +45911,7 @@ wig
 wigeons
 wigglers
 wiggly
+wiglets
 wigs
 wigwagger
 wigwam
@@ -46031,6 +46065,7 @@ woald
 woalds
 wobbled
 wobbler
+wobblers
 wobbles
 wobblier
 woful
