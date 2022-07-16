@@ -488,6 +488,7 @@ advents
 adventure
 adventurist
 adventurous
+adverb
 adverbial
 adverbials
 adversaries
@@ -543,6 +544,7 @@ aeronautics
 aeronomers
 aerophobe
 aerophobes
+aerophyte
 aeroplane
 aerosolizing
 aesthesia
@@ -1380,6 +1382,7 @@ anhedonias
 anhinga
 anhydrides
 anhydrite
+anhydrous
 ani
 anile
 anilinctus
@@ -1505,6 +1508,7 @@ anthelia
 anthelices
 anthelions
 anthelix
+antheming
 anthems
 antherid
 antheridial
@@ -1568,6 +1572,7 @@ antiepilepsy
 antiepileptics
 antifamily
 antifascisms
+antifascist
 antifashionable
 antifashions
 antifat
@@ -1651,6 +1656,7 @@ antipsychotics
 antipyics
 antipyretic
 antipyretics
+antiquark
 antiquarks
 antiquary
 antiquated
@@ -2451,6 +2457,7 @@ attestations
 attesting
 atticisms
 attired
+attires
 attitudinise
 attitudinised
 attitudinises
@@ -2533,6 +2540,7 @@ auriculate
 aurist
 aurochs
 aurorae
+auscultate
 auscultated
 ausform
 auspicated
@@ -2621,6 +2629,7 @@ avail
 availing
 avant
 avaricious
+avariciousness
 avaunt
 ave
 avellane
@@ -4240,6 +4249,7 @@ blunging
 blunting
 blurrily
 blurt
+blurting
 blushers
 blushes
 blustered
@@ -4265,6 +4275,7 @@ boatyards
 bob
 bobbery
 bobble
+bobbles
 bobolinks
 bobsleigh
 bobwhites
@@ -4708,6 +4719,7 @@ breadstuff
 breadstuffs
 breadthwise
 breadwinning
+breakables
 breakages
 breaker
 breakfast
@@ -4889,6 +4901,7 @@ broomier
 brooms
 broomstick
 broomsticks
+broomy
 broos
 bros
 broses
@@ -5640,6 +5653,7 @@ capitularies
 capitulary
 capitulations
 capless
+caplet
 capo
 caponier
 caponiers
@@ -5683,6 +5697,7 @@ capybara
 carabid
 carabin
 carabines
+carabinier
 carabiniers
 caracaras
 caracoling
@@ -7865,6 +7880,7 @@ compulsory
 compunctious
 computable
 computations
+computer
 computereses
 computerise
 computerises
@@ -9162,6 +9178,7 @@ croutes
 croutons
 crowbars
 crowd
+crowder
 crowders
 crowdy
 crowers
@@ -9269,6 +9286,7 @@ cubebs
 cubed
 cubical
 cubicities
+cubing
 cuboid
 cuboidal
 cuckold
@@ -10870,6 +10888,7 @@ diaphyseal
 diaphysial
 diaphysis
 diapositives
+diapsids
 diarchic
 diaristic
 diarrhea
@@ -11920,6 +11939,7 @@ downgraded
 downhauls
 downhiller
 downlight
+downlights
 downlinks
 download
 downloaded
@@ -14390,6 +14410,7 @@ fanfic
 fangas
 fangless
 fanglike
+fanners
 fannies
 fanos
 fans
@@ -16255,6 +16276,7 @@ ganglionic
 ganglioside
 gangrenes
 gangstas
+gangsterdoms
 ganjah
 ganjahs
 ganjas
@@ -16839,6 +16861,7 @@ gloamings
 gloat
 gloater
 gloaters
+globalism
 globalist
 globalize
 globalizes
@@ -17660,6 +17683,7 @@ gypsophilas
 gypsydom
 gypsydoms
 gyrating
+gyres
 gyrocompasses
 gyrofrequency
 gyron
@@ -18859,6 +18883,7 @@ horrifyingly
 horror
 horse
 horseback
+horsebacks
 horsebeans
 horsefeathers
 horseflesh
@@ -22314,6 +22339,7 @@ lays
 layup
 lazars
 lazily
+laziness
 lazulite
 lazying
 lazyish
@@ -22873,6 +22899,7 @@ lived
 liveliest
 liveliness
 liven
+livener
 livening
 liver
 livered
@@ -27089,6 +27116,7 @@ nursed
 nursemaid
 nursemaids
 nurturances
+nutating
 nutbrown
 nutgall
 nutmeat
@@ -28537,6 +28565,7 @@ overtalk
 overtalkative
 overtalking
 overtame
+overtasking
 overtax
 overteach
 overteaching
@@ -28988,6 +29017,7 @@ paraforms
 paragenesis
 paraglide
 paraglides
+paragliding
 paragons
 paragraphic
 parainfluenza
@@ -31280,6 +31310,7 @@ preallotting
 prealter
 prealtering
 preamplifier
+preamplifiers
 preanal
 preapplied
 preapplies
@@ -37547,6 +37578,7 @@ sitting
 sittings
 situate
 situated
+situation
 situational
 situp
 situses
@@ -43246,6 +43278,7 @@ unburdening
 unburied
 unburnable
 unbusted
+unbusy
 unbuttons
 uncaging
 uncake
@@ -44167,6 +44200,7 @@ unworldliness
 unworldlinesses
 unworldly
 unworried
+unworthies
 unworthy
 unwove
 unwrap
@@ -45097,6 +45131,7 @@ vulcanised
 vulcanising
 vulcanism
 vulcanisms
+vulcanites
 vulcanizate
 vulcanized
 vulcanizer
