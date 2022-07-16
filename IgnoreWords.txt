@@ -1297,6 +1297,7 @@ anarchist
 anarthrias
 anastrophes
 anathemas
+anathematized
 anatomic
 anatomised
 anatomized
@@ -1322,6 +1323,7 @@ ancylostomiases
 ancylostomiasis
 andesitic
 andouillette
+androecia
 androgeneses
 androgynous
 andrologies
@@ -1773,6 +1775,7 @@ aphides
 aphids
 aphis
 apholates
+aphonic
 aphonics
 aphorises
 aphorists
@@ -2841,6 +2844,7 @@ backstamps
 backstitches
 backstreet
 backstretches
+backstroke
 backtracked
 backwardly
 backwardnesses
@@ -3118,6 +3122,7 @@ bascule
 baseboards
 baseless
 baseliners
+baselines
 basely
 basements
 basenesses
@@ -3528,6 +3533,7 @@ bemixt
 bemoans
 bemock
 bemocking
+bemocks
 bemuddle
 bemuddled
 bemuddling
@@ -4171,6 +4177,7 @@ bloodcurdling
 blooded
 bloodguilt
 bloodguiltiness
+bloodied
 bloodies
 bloodiest
 bloodlessness
@@ -5710,6 +5717,7 @@ capuche
 capuchin
 caput
 capybara
+capybaras
 carabid
 carabin
 carabines
@@ -5752,6 +5760,7 @@ carboxyls
 carburetted
 carburetting
 carburettor
+carburization
 carburize
 carburizing
 carcases
@@ -7110,6 +7119,7 @@ cleistogamic
 cleistogamously
 cleistogamy
 clemency
+clement
 clencher
 clenches
 clenching
@@ -7450,6 +7460,7 @@ coercing
 coercivities
 coesites
 coeternal
+coeval
 coevolution
 coexecutor
 coexisted
@@ -8333,6 +8344,7 @@ contracted
 contractibility
 contractilities
 contracting
+contraction
 contractor
 contractual
 contradictable
@@ -8745,6 +8757,7 @@ councilor
 councilwomen
 counselee
 counselings
+counsellings
 counsellors
 counselorship
 counselorships
@@ -9372,6 +9385,7 @@ culpabilities
 culpability
 culpablenesses
 culpably
+culprits
 cult
 cultch
 cultches
@@ -17418,6 +17432,7 @@ greying
 greylag
 gridder
 gridders
+griddled
 griddling
 gridlocking
 grief
@@ -17860,6 +17875,7 @@ hakims
 halakhic
 halakic
 halakist
+halals
 halavah
 halavahs
 halbert
@@ -21839,6 +21855,7 @@ kidders
 kiddie
 kidding
 kiddo
+kiddoes
 kidnaper
 kidnappees
 kidnappers
@@ -25164,6 +25181,7 @@ missound
 missounded
 misspeaks
 misspell
+misspend
 misstamped
 misstarting
 misstated
@@ -27812,6 +27830,7 @@ organzine
 orgasm
 orgasms
 orgeats
+orgiastic
 orgone
 orgulous
 oriental
@@ -28433,6 +28452,7 @@ overdrinking
 overdriven
 overdrives
 overdrove
+overdrying
 overdubbing
 overdyed
 overdyeing
@@ -29605,6 +29625,7 @@ pekoes
 peles
 pelisse
 pelisses
+pellagrins
 pellagrous
 pelletal
 pelleted
@@ -32437,6 +32458,7 @@ psychiatry
 psychic
 psychical
 psyching
+psychoanalyses
 psychoanalyst
 psychoanalyzed
 psychoanalyzes
@@ -34718,6 +34740,7 @@ resole
 resoled
 resoles
 resolidifying
+resolute
 resolvable
 resonantly
 resonated
@@ -34798,6 +34821,7 @@ restrainer
 restraints
 restressed
 restretch
+restretched
 restrictionisms
 restrictionists
 restrictively
@@ -36290,6 +36314,7 @@ schadenfreudes
 schappes
 schatchen
 schav
+schavs
 schedular
 scheduled
 schedules
@@ -38027,6 +38052,7 @@ sloops
 slope
 sloppiest
 slops
+slopwork
 sloshed
 sloshiest
 sloshing
@@ -38333,6 +38359,7 @@ sobas
 sobber
 sobbers
 sobbingly
+sobeit
 sober
 soberer
 soberest
@@ -38704,6 +38731,7 @@ sparsities
 spartan
 spasming
 spasms
+spastic
 spasticities
 spasticity
 spat
@@ -41162,6 +41190,7 @@ tapir
 tapper
 taprooms
 taqueria
+tarama
 taramas
 tarantist
 tarboosh
@@ -41258,6 +41287,7 @@ taxpaying
 tazza
 tazzas
 tazze
+tchotchke
 tchotchkes
 teaberry
 teabowl
@@ -42635,6 +42665,7 @@ trembled
 tremor
 tremorous
 trenail
+trencher
 trenchers
 trenching
 trendies
@@ -43007,6 +43038,7 @@ tubulate
 tubulates
 tubulating
 tubule
+tuchun
 tuckers
 tucket
 tucks
@@ -44554,6 +44586,7 @@ urinalysis
 urinaries
 urinary
 urination
+urinations
 urinator
 urinators
 urinemia
@@ -45570,6 +45603,7 @@ waterdog
 waterdogs
 waterers
 waterfalls
+waterflooded
 waterfowlers
 waterhen
 waterhens
@@ -46672,6 +46706,7 @@ zouks
 zounds
 zwitterion
 zygomata
+zygomatics
 zygosities
 zygospores
 zygotic
