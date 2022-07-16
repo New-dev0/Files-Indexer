@@ -1,0 +1,4 @@
+LegacyFindFunctions.ps1 0.11.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/VstsTaskSdk/0.11.0/Content/LegacyFindFunctions.ps1
+PublishPsGalleryModule.ps1 1.1.1 - PowerShell Gallery,https://www.powershellgallery.com/packages/IPv6Regex/1.1.1/Content/PublishPsGalleryModule.ps1
+azure-pipelines-task-lib/LegacyFindFunctions.ps1 at master - GitHub,https://github.com/microsoft/azure-pipelines-task-lib/blob/master/powershell/VstsTaskSdk/LegacyFindFunctions.ps1
+roslyn/utils.ps1 at main · dotnet/roslyn · GitHub,https://github.com/dotnet/roslyn/blob/master/src/Setup/Installer/tools/utils.ps1
