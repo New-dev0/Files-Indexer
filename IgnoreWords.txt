@@ -2367,6 +2367,7 @@ astringing
 astrobiology
 astrodomes
 astrolabe
+astrologer
 astrological
 astrometric
 astrometries
@@ -4237,6 +4238,7 @@ bludgeoning
 bluebeards
 bluebeats
 blueberry
+bluebirds
 bluebooks
 bluecap
 bluecaps
@@ -4751,6 +4753,7 @@ breakfaster
 breakings
 breakout
 breakup
+breakwall
 breakwater
 breastbones
 breastfeed
@@ -6250,6 +6253,7 @@ cercaria
 cere
 cerebration
 cerebroside
+cerebrosides
 cerebrospinal
 cerebrums
 cerecloths
@@ -6574,6 +6578,7 @@ chewiness
 chews
 chiaroscurists
 chiaroscuro
+chiaroscuros
 chias
 chiasmas
 chiasmatic
@@ -6944,6 +6949,7 @@ circumambulate
 circumambulated
 circumambulates
 circumcised
+circumcision
 circumference
 circumflex
 circumfluent
@@ -7447,6 +7453,7 @@ coelenterates
 coelomate
 coelostat
 coelostats
+coembodied
 coemploying
 coemploys
 coenamor
@@ -8630,6 +8637,7 @@ corpulently
 corpus
 corpuscle
 corpuscles
+corpuscular
 corraded
 corrades
 corral
@@ -11115,6 +11123,7 @@ dilatoriness
 dilatorinesses
 dilettantes
 dilettanti
+dilettantish
 dilettantisms
 diligently
 diluter
@@ -11493,6 +11502,7 @@ disloyal
 disloyalty
 dismalest
 dismals
+dismantlements
 dismantles
 dismasting
 disobeyer
@@ -11551,6 +11561,7 @@ disproof
 disproportion
 disproportional
 disprove
+disputant
 disputatious
 dispute
 disputed
@@ -13963,6 +13974,7 @@ exanthema
 exanthemas
 exanthemata
 exanthems
+exapted
 exaptive
 exarchate
 exarchates
@@ -14008,6 +14020,7 @@ excogitate
 excogitations
 excommunicate
 excommunicated
+excoriate
 excrescence
 excrescency
 excreters
@@ -15301,6 +15314,7 @@ flocculate
 flocculated
 flocculations
 floccule
+flocculent
 flocculus
 flockier
 flocks
@@ -15334,6 +15348,7 @@ floricane
 floricultures
 floriculturists
 florid
+floridity
 floridness
 florists
 floruits
@@ -16072,6 +16087,7 @@ fuckups
 fucoses
 fucoxanthin
 fucus
+fuddled
 fudged
 fudges
 fudging
@@ -18871,6 +18887,7 @@ homonymies
 homoousians
 homophobes
 homophobia
+homophonies
 homoplasy
 homopteran
 homosex
@@ -20313,6 +20330,7 @@ infirmed
 infixation
 infixations
 infixed
+infixes
 infixing
 inflamers
 inflames
@@ -21478,6 +21496,7 @@ jitterbug
 jitterbugs
 jitteriness
 jitterinesses
+jiujutsu
 jiveass
 jivey
 jo
@@ -22092,6 +22111,7 @@ kris
 krone
 krummhorns
 kryolites
+kryolith
 krypton
 kuchen
 kuchens
@@ -23678,6 +23698,7 @@ malfunctioning
 malignance
 malignancies
 malignant
+malignantly
 maligner
 maligning
 malison
@@ -24179,6 +24200,7 @@ mediaeval
 medial
 medials
 median
+mediants
 mediastina
 mediation
 mediations
@@ -25425,6 +25447,7 @@ mongers
 mongoe
 mongol
 mongoloids
+mongoose
 mongrel
 mongrelize
 moniliform
@@ -26901,6 +26924,7 @@ nonidentities
 nonidentity
 nonimmigrant
 nonimmune
+nonimplication
 nonimportation
 noninclusion
 nonincumbents
@@ -28693,6 +28717,7 @@ oversets
 oversetting
 oversewing
 overshaded
+overshirt
 overshirts
 overshoe
 overside
@@ -29943,6 +29968,7 @@ personalities
 personalizes
 personally
 personalty
+personas
 personated
 personating
 personator
@@ -31471,6 +31497,7 @@ pratfalls
 pratiques
 prattle
 prattling
+prawning
 praxeological
 praxes
 praxises
@@ -32816,6 +32843,7 @@ pyrolyses
 pyrolysis
 pyrolyze
 pyrolyzers
+pyromancy
 pyromaniac
 pyromaniacal
 pyrometrically
@@ -33714,6 +33742,7 @@ reconvictions
 reconvicts
 reconvincing
 recooked
+recopy
 recopying
 recordations
 recordist
@@ -35600,6 +35629,7 @@ roundtrip
 roundtrips
 roundup
 roundwood
+roupet
 roupier
 roupiest
 rouseabouts
@@ -40095,6 +40125,7 @@ subliterate
 subliterates
 subliterature
 sublittorals
+sublunar
 sublunary
 subluxations
 submanager
@@ -40115,6 +40146,7 @@ subminiature
 subminimal
 subministers
 submit
+submits
 submittal
 submittals
 submitted
@@ -42215,6 +42247,7 @@ tomographic
 tone
 tonearms
 tonelessnesses
+toner
 tonetics
 tonettes
 toney
@@ -44127,6 +44160,7 @@ unmistakable
 unmiters
 unmitre
 unmix
+unmixing
 unmodernized
 unmolded
 unmolds
@@ -44931,6 +44965,7 @@ venesection
 venetian
 venge
 vengeance
+vengefulness
 vengefulnesses
 venges
 venial
