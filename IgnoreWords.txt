@@ -3070,6 +3070,7 @@ barred
 barrel
 barrelhead
 barrelheads
+barrelhouse
 barres
 barret
 barretors
@@ -3579,6 +3580,7 @@ berlines
 berme
 berretta
 berried
+berryless
 berrylike
 berserker
 berserkly
@@ -4148,6 +4150,7 @@ bloodlusts
 bloods
 bloodshed
 bloodsheds
+bloodshot
 bloodstains
 bloodstock
 bloodstones
@@ -4688,6 +4691,7 @@ breading
 breadless
 breadnuts
 breads
+breadstuff
 breadstuffs
 breadthwise
 breadwinning
@@ -5251,6 +5255,7 @@ cabalas
 cabaletta
 cabalist
 caballeros
+cabbages
 cabbageworms
 cabbaging
 cabbalist
@@ -6010,6 +6015,7 @@ caucusing
 caucussing
 caudation
 caudex
+caudillismo
 cauld
 cauliflowerets
 cauliflowers
@@ -6817,6 +6823,7 @@ cigaret
 cigars
 cigs
 ciguateras
+cilantro
 cilia
 ciliary
 ciliately
@@ -8147,6 +8154,7 @@ conspirers
 constabularies
 constant
 constantan
+constatives
 constellating
 consternate
 consternation
@@ -8949,6 +8957,7 @@ cremator
 cremators
 creme
 cremes
+cremini
 crenately
 crenature
 crenelated
@@ -9359,6 +9368,7 @@ curiosa
 curious
 curiousness
 curite
+curium
 curler
 curlers
 curlicued
@@ -10028,6 +10038,7 @@ decryptions
 decrypts
 decupled
 decupling
+decussates
 dedicated
 dedicates
 deducing
@@ -10181,6 +10192,7 @@ dehiscence
 dehorned
 dehumanizations
 dehumanizes
+dehydrate
 dehydrated
 dehydrating
 dehydrators
@@ -11104,6 +11116,7 @@ dirndl
 dirtinesses
 dirts
 disability
+disablers
 disables
 disabling
 disabuse
@@ -12238,6 +12251,7 @@ dustman
 dustpan
 duststorm
 dutiable
+dutifully
 duumvir
 duumvirates
 duumviri
@@ -12477,6 +12491,7 @@ ediles
 edit
 edited
 editor
+editorialized
 editorializes
 editorials
 editors
@@ -16107,6 +16122,7 @@ galilee
 galingale
 galiots
 galipot
+galipots
 galivanted
 galivants
 gall
@@ -18135,6 +18151,7 @@ heired
 heirlooms
 heishi
 heister
+heisting
 hejira
 hektare
 helically
@@ -18573,6 +18590,7 @@ hollering
 hollies
 holloes
 holloing
+hollooing
 hollowness
 holly
 holmic
@@ -19989,6 +20007,7 @@ industrials
 industriously
 indwellers
 indwelling
+indwelt
 inearth
 inebriant
 inebriate
@@ -23036,6 +23055,7 @@ lout
 louted
 loutish
 loutishnesses
+louvre
 louvres
 lovablenesses
 lovage
@@ -23599,6 +23619,7 @@ mara
 marabout
 marabouts
 maraca
+maras
 maraschinos
 marathoner
 marathons
@@ -24193,6 +24214,7 @@ mesozoan
 mesquite
 messaged
 messages
+messaline
 messenger
 messiah
 messiahships
@@ -24930,6 +24952,7 @@ missound
 missounded
 misspeaks
 misspell
+misstamped
 misstarting
 misstated
 missteered
@@ -25709,6 +25732,7 @@ musca
 muscadet
 muscadets
 muscadines
+muscatel
 muscatels
 muscling
 muscovados
@@ -27166,6 +27190,7 @@ ocotillo
 ocrea
 ocreate
 octachord
+octad
 octadic
 octan
 octangle
@@ -28012,6 +28037,7 @@ outstudy
 outsulked
 outswearing
 outswears
+outsweep
 outswore
 outsworn
 outtalked
@@ -28359,6 +28385,7 @@ overruled
 overrunning
 overs
 oversale
+oversales
 oversalt
 oversalted
 oversalts
@@ -28577,6 +28604,7 @@ paddocked
 padishah
 padlocking
 padlocks
+padnags
 padrone
 padronism
 pads
@@ -28759,6 +28787,7 @@ pandora
 pandoras
 pandore
 pandours
+pandowdies
 pandying
 panegyric
 panegyrist
@@ -30352,6 +30381,7 @@ plainsong
 plainsongs
 plainspoken
 plaint
+plaintively
 plaintiveness
 plaitings
 plaits
@@ -34903,6 +34933,7 @@ riffing
 riffled
 riffler
 rifflers
+riffles
 riffs
 rifle
 riflebirds
@@ -36271,6 +36302,7 @@ seamlessness
 seamstress
 seances
 seapieces
+seaquake
 seaquakes
 searches
 searchingly
@@ -36849,6 +36881,7 @@ shears
 sheas
 sheatfish
 sheaved
+shebeans
 shedders
 sheds
 sheen
@@ -38237,6 +38270,7 @@ soteriology
 soths
 sotol
 sotols
+souaris
 soubrette
 soubrettes
 souchongs
@@ -40658,6 +40692,7 @@ taille
 tailless
 taillights
 taillike
+tailoring
 tailpiece
 tailplane
 tailskids
