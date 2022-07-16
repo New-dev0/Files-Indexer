@@ -1,0 +1,5 @@
+User:General.manifest - Hitchwiki,https://hitchwiki.org/en/User:General.manifest
+https://mirrors.aliyun.com/openwrt/releases/19.07....,https://mirrors.aliyun.com/openwrt/releases/19.07.2/packages/aarch64_cortex-a53/packages/Packages.manifest
+https://downloads.openwrt.org/releases/21.02.0-rc2...,https://downloads.openwrt.org/releases/21.02.0-rc2/packages/x86_64/base/Packages.manifest
+Packages.manifest - PandoraBox,http://downloads.pangubox.com:6380/pandorabox/19.02/packages/mipsel_1004kc_dsp/base/Packages.manifest
+downloads.pangubox.com:6380/pandorabox/19.01/packa...,http://downloads.pangubox.com:6380/pandorabox/19.01/packages/arm_cortex-a15_neon-vfpv4/base/Packages.manifest

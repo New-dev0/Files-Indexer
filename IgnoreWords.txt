@@ -592,6 +592,7 @@ affixial
 affixment
 affixments
 affixtures
+afflatus
 afflicted
 afflicters
 afflictions
@@ -1971,6 +1972,7 @@ arabicized
 arabize
 arabizes
 arabizing
+arables
 aragonitic
 araks
 arames
@@ -2096,6 +2098,7 @@ armadas
 armagnacs
 armature
 armed
+armhole
 armiger
 armistices
 armlock
@@ -2168,6 +2171,7 @@ arthralgias
 arthritis
 arthrodeses
 arthrodesis
+arthropods
 artichoke
 artichokes
 article
@@ -3736,6 +3740,7 @@ bezazzes
 bezique
 bezzants
 bhaktas
+bhangs
 bharals
 bheestie
 bheesties
@@ -7643,6 +7648,7 @@ collector
 collectorship
 collegers
 colleges
+collegia
 collegial
 collegiality
 collembolan
@@ -8977,6 +8983,7 @@ craftinesses
 crafting
 craftsman
 craftsmanships
+craftwork
 craggier
 craggy
 cram
@@ -13431,6 +13438,7 @@ entrenchments
 entresol
 entries
 entropic
+entropion
 entwined
 entwist
 entwisted
@@ -13696,6 +13704,7 @@ eructated
 eructating
 eructed
 eructs
+eruditely
 erudition
 erugos
 erupted
@@ -16315,6 +16324,7 @@ gadzooks
 gaffing
 gage
 gagger
+gaggled
 gaggles
 gaggling
 gaging
@@ -18277,6 +18287,7 @@ haziness
 hazinesses
 hazing
 hazmats
+hazy
 hazzanim
 headachier
 headachiest
@@ -19372,6 +19383,7 @@ hydrospheres
 hydrostat
 hydrostatic
 hydrostats
+hydrotherapy
 hydrotropic
 hydroxides
 hydroxyapatite
@@ -20644,6 +20656,7 @@ inspheres
 inspiration
 inspirit
 inspissated
+inspissates
 installed
 installs
 instances
@@ -21382,6 +21395,7 @@ jager
 jaguar
 jaguarondi
 jaguarondis
+jail
 jailing
 jailor
 jalap
@@ -21478,6 +21492,7 @@ jellyroll
 jemidars
 jemmies
 jemmy
+jeon
 jeopardised
 jeopardize
 jeopardizes
@@ -21519,6 +21534,7 @@ jewfish
 jezail
 jezails
 jiao
+jib
 jibbed
 jibber
 jibbers
@@ -22182,6 +22198,7 @@ kukri
 kultur
 kummel
 kumquat
+kuna
 kurbash
 kurrajongs
 kvases
@@ -24161,6 +24178,7 @@ mature
 maturers
 matza
 matzah
+maud
 maudlin
 maul
 mauler
@@ -28173,6 +28191,7 @@ outburn
 outbuying
 outbye
 outcapering
+outcastes
 outcatches
 outcatching
 outcaught
@@ -28991,6 +29010,7 @@ packwax
 packwaxes
 paclitaxel
 pacs
+pad
 paddleballs
 paddleboard
 paddles
@@ -29174,6 +29194,7 @@ pancratiums
 pancreases
 pancreatins
 pancreozymin
+pandanus
 pandemic
 pandemonium
 pandered
@@ -30213,6 +30234,7 @@ phenomenally
 phenomenologist
 phenotypical
 phenotypically
+phenoxides
 phentolamines
 phenylalanines
 phenylbutazone
@@ -30785,6 +30807,7 @@ plagiarise
 plagiaristic
 plagiarizes
 plagiary
+plagued
 plagues
 plaices
 plaid
@@ -31474,6 +31497,7 @@ pot
 potable
 potablenesses
 potables
+potage
 potash
 potashes
 potassiums
@@ -31706,6 +31730,7 @@ predacious
 predate
 predatism
 predeceases
+predecessor
 prededuct
 prededucted
 prededucting
@@ -31970,6 +31995,7 @@ presignalling
 presignifying
 preslaughter
 presolves
+presorting
 presorts
 presplit
 pressboard
@@ -32851,6 +32877,7 @@ pursuits
 pursuivants
 purtenances
 purulences
+purulencies
 purveyances
 purveys
 push
@@ -33157,6 +33184,7 @@ quixotes
 quixotic
 quixotical
 quixotism
+quixotisms
 quizzers
 quizzicalities
 quizzing
@@ -33778,6 +33806,7 @@ recognizable
 recognizer
 recognizers
 recognizes
+recolonizes
 recombinant
 recombinational
 recombing
@@ -34122,6 +34151,7 @@ reflectorized
 reflectors
 reflet
 reflets
+reflexed
 reflexions
 reflexively
 reflexivenesses
@@ -34356,6 +34386,7 @@ reinvoke
 reissue
 reitbok
 reiterated
+reiterates
 reiterating
 reiterations
 reive
@@ -36532,6 +36563,7 @@ schoolman
 schoolmaster
 schoolmasters
 schoolroom
+schoolteachers
 schoolwork
 schooners
 schottisches
@@ -39781,6 +39813,7 @@ stoneflies
 stonefly
 stonemason
 stonemasonry
+stoner
 stones
 stonewalled
 stonewallers
@@ -45911,6 +45944,7 @@ wedge
 wedgier
 wedgiest
 weedier
+weediest
 weedily
 weedy
 weekday
@@ -46187,6 +46221,7 @@ wigeons
 wigglers
 wiggly
 wiglets
+wigmakers
 wigs
 wigwagger
 wigwam
