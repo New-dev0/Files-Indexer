@@ -2447,6 +2447,7 @@ attagirl
 attain
 attainability
 attainable
+attainder
 attainting
 attars
 attempers
@@ -3306,6 +3307,7 @@ becket
 beckoned
 beckoners
 beckoning
+beclamoring
 beclamors
 beclasp
 beclasps
@@ -5658,6 +5660,7 @@ capitalised
 capitalising
 capitalisms
 capitalist
+capitalizes
 capitally
 capitals
 capitella
@@ -5826,6 +5829,7 @@ carlings
 carlins
 carloads
 carmakers
+carman
 carnalities
 carnallites
 carnassial
@@ -7154,6 +7158,7 @@ clips
 clipt
 cliquiest
 cliquing
+clitellum
 cliticize
 clitics
 clitoridectomy
@@ -10278,6 +10283,7 @@ dehiscence
 dehorned
 dehumanizations
 dehumanizes
+dehumidified
 dehydrate
 dehydrated
 dehydrating
@@ -11014,6 +11020,7 @@ diestrum
 diestrums
 diestruses
 dietetic
+diff
 differed
 difference
 differentia
@@ -11757,6 +11764,7 @@ dogcart
 dogdoms
 dogears
 doges
+dogface
 dogged
 doggednesses
 doggerel
@@ -13608,6 +13616,7 @@ erroneousnesses
 errors
 errs
 ersatzes
+erstwhile
 eructated
 eructating
 eructed
@@ -14155,6 +14164,7 @@ explore
 explores
 explosively
 explosiveness
+expo
 exportability
 exposals
 expose
@@ -15626,6 +15636,7 @@ foresightedness
 foresightful
 foresights
 foreskin
+forespoke
 forestaller
 forestallments
 forestaysail
@@ -17273,6 +17284,7 @@ granulates
 granulators
 granule
 granulitic
+granulocytic
 granulomatous
 granulose
 granulosis
@@ -18668,6 +18680,7 @@ ho
 hoarders
 hoardings
 hoards
+hoariest
 hoariness
 hoars
 hoarsened
@@ -22152,6 +22165,7 @@ ladyfinger
 ladyfish
 ladyhood
 ladykins
+ladylike
 ladylove
 laetrile
 lag
@@ -22668,6 +22682,7 @@ lewises
 lewisson
 lewissons
 lexes
+lexical
 lexically
 lexicographer
 lexicographers
@@ -23230,6 +23245,7 @@ loungy
 loupe
 lour
 loured
+louses
 lousewort
 louseworts
 lousier
@@ -23632,6 +23648,7 @@ malison
 mallard
 malleabilities
 malleability
+malled
 mallee
 mallei
 mallemuck
@@ -25920,6 +25937,7 @@ murid
 murine
 murines
 murker
+murmured
 murmuring
 murmurs
 murr
@@ -27204,6 +27222,7 @@ nun
 nunchakus
 nunciatures
 nuncios
+nuncle
 nuncles
 nuncupative
 nunnation
@@ -27880,6 +27899,7 @@ osculant
 osetra
 osiered
 osiers
+osmics
 osmiridiums
 osmol
 osmolar
@@ -28251,6 +28271,7 @@ outstripping
 outstrips
 outstroke
 outstudy
+outstunt
 outsulked
 outswearing
 outswears
@@ -29727,6 +29748,7 @@ percipiences
 percipient
 percoid
 percoids
+percolate
 percolated
 percussing
 percussiveness
@@ -30153,6 +30175,7 @@ photocomposes
 photocopying
 photocurrent
 photocurrents
+photodiode
 photodiodes
 photodissociate
 photoed
@@ -30604,6 +30627,7 @@ plagiarizes
 plagiary
 plagues
 plaices
+plaid
 plain
 plainchants
 plainclothes
@@ -30618,6 +30642,7 @@ plainspoken
 plaint
 plaintively
 plaintiveness
+plaister
 plaitings
 plaits
 planar
@@ -30987,6 +31012,7 @@ polyacrylamides
 polyamides
 polyandry
 polyanthi
+polyanthus
 polyanthuses
 polybutadiene
 polycarbonates
@@ -32284,6 +32310,7 @@ protectress
 protectresses
 proteinurias
 proteoglycan
+proteolytically
 proteome
 proteomic
 protest
@@ -34813,6 +34840,7 @@ retacks
 retailored
 retails
 retainers
+retains
 retaken
 retaker
 retaking
@@ -37277,6 +37305,7 @@ shipmen
 shipment
 shipping
 ships
+shipside
 shipsides
 shipwrecked
 shipwright
@@ -37950,6 +37979,7 @@ slimly
 slimmed
 slimming
 slimnastics
+slimness
 slims
 slingback
 slinger
@@ -40268,6 +40298,7 @@ sullener
 sullies
 sully
 sulphates
+sulphid
 sulphides
 sulphurise
 sulphurising
@@ -42381,6 +42412,7 @@ tragacanths
 tragi
 tragic
 tragicomedies
+tragopans
 tragus
 trail
 trailblazers
@@ -43041,6 +43073,7 @@ turbidities
 turbidity
 turbinal
 turbinals
+turbinate
 turbine
 turbocar
 turbocars
@@ -46244,6 +46277,7 @@ wreckage
 wrecker
 wreckers
 wreckful
+wreckings
 wrens
 wrested
 wrestle
@@ -46399,6 +46433,7 @@ yeasayer
 yeasayers
 yecch
 yegg
+yeggs
 yell
 yelling
 yellowed
