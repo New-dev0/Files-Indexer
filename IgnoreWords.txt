@@ -1253,6 +1253,7 @@ anaemic
 anaerobia
 anaerobioses
 anaesthesias
+anageneses
 anaglyph
 anagnorises
 anagnorisis
@@ -1934,6 +1935,7 @@ approximated
 approximation
 approximations
 appulses
+appurtenances
 appurtenant
 apricots
 aproning
@@ -2691,6 +2693,7 @@ avoids
 avos
 avouched
 avouching
+avouchment
 avouchments
 avow
 avowable
@@ -3702,6 +3705,7 @@ beths
 bethumps
 betides
 betime
+betise
 betokening
 betrayer
 betrotheds
@@ -4596,6 +4600,7 @@ bounds
 bountied
 bounties
 bourg
+bourgeois
 bourgeon
 bourgeoned
 bourgs
@@ -4671,6 +4676,7 @@ brackishness
 brackishnesses
 bracted
 brad
+bradawl
 bradycardia
 braggart
 braggers
@@ -6904,6 +6910,7 @@ churchly
 churchmen
 churchwomen
 churlishly
+churning
 churnings
 churr
 chute
@@ -8919,6 +8926,7 @@ covertnesses
 coves
 covetable
 covins
+cow
 cowardliness
 cowboying
 cower
@@ -11497,6 +11505,7 @@ dishpans
 dishwares
 dishwater
 disincentive
+disincentives
 disinclination
 disinfected
 disinfest
@@ -14855,6 +14864,7 @@ ferula
 ferulas
 ferule
 feruled
+fervencies
 fesswise
 festally
 fester
@@ -15023,6 +15033,7 @@ financial
 financially
 finbacks
 finch
+fined
 fineness
 finenesses
 finer
@@ -16516,6 +16527,7 @@ gartered
 gasconader
 gascons
 gaseities
+gashed
 gasholders
 gasification
 gasifications
@@ -17259,6 +17271,7 @@ gorgers
 gorgeted
 gorgonizes
 gorillas
+gorinesses
 gorm
 gormandised
 gormandising
@@ -17601,6 +17614,7 @@ grosz
 grosze
 grot
 grotesque
+grotesqueness
 grotesquenesses
 grottier
 grotty
@@ -18700,6 +18714,7 @@ hideousnesses
 hideout
 hidings
 hidrosis
+hie
 hieroglyphic
 hieroglyphical
 hieroglyphics
@@ -19146,6 +19161,7 @@ hotline
 hotly
 hotness
 hotrods
+hotshot
 hotspot
 hotspots
 hotted
@@ -20554,6 +20570,7 @@ innersoles
 innervated
 innervates
 innervating
+innervation
 innerving
 innings
 innkeepers
@@ -21049,6 +21066,7 @@ inurement
 inurn
 inurnments
 inutilely
+invaginating
 invalided
 invaliding
 invalidism
@@ -23498,6 +23516,7 @@ lumping
 lumpingly
 lunacy
 lunarian
+lunarians
 lunars
 lunately
 lunatic
@@ -26079,6 +26098,7 @@ muniments
 munis
 munnion
 muntins
+mura
 muraenids
 muralists
 muralled
@@ -28977,6 +28997,7 @@ ozonide
 ozonides
 ozonise
 ozonize
+ozonizer
 ozonizers
 ozonizes
 pablum
@@ -29065,6 +29086,7 @@ paintballs
 paintbrush
 painterly
 paintier
+paints
 paired
 pairings
 paisanos
@@ -29477,6 +29499,7 @@ participation
 participations
 participator
 participatory
+particularised
 particularities
 particularizes
 particulate
@@ -31909,6 +31932,7 @@ prepay
 prepaying
 prepensely
 preperformance
+prepill
 preplaces
 preponderancy
 preponderantly
@@ -34932,6 +34956,7 @@ resoles
 resolidifying
 resolute
 resolvable
+resolvents
 resonantly
 resonated
 resonates
@@ -35608,6 +35633,7 @@ rodents
 rodeos
 rodsmen
 roe
+roentgen
 roentgenogram
 roentgens
 roes
@@ -37562,6 +37588,7 @@ shlump
 shlumpy
 shmear
 shmoozes
+shmucks
 shnapps
 shnooks
 shoaled
@@ -37852,6 +37879,7 @@ silicifying
 siliciums
 silicle
 silicone
+siliqua
 siliquae
 siliques
 siliquose
@@ -39516,6 +39544,7 @@ starling
 starnose
 starriest
 starry
+stars
 starship
 starters
 startup
@@ -40697,6 +40726,7 @@ superinfected
 superinfects
 superintend
 superintendence
+superintendency
 superintendents
 superintends
 superintensity
@@ -40956,6 +40986,7 @@ sweatbox
 sweatboxes
 sweater
 sweaterdress
+sweaterdresses
 sweatinesses
 sweating
 sweatpants
@@ -42274,6 +42305,7 @@ tires
 tiresomely
 tirewomen
 tiring
+tirled
 tirls
 tiro
 tisane
@@ -43757,6 +43789,7 @@ uncashed
 uncast
 uncataloged
 uncatchy
+uncategorizable
 uncaused
 uncelebrated
 unceremonious
@@ -43890,6 +43923,7 @@ undefiled
 undefoliated
 undelegated
 undelivered
+undependable
 underachieve
 underachieving
 underage
@@ -45790,6 +45824,7 @@ warriors
 warship
 warsle
 warstle
+wartiest
 wartime
 wartless
 warwork
