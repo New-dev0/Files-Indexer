@@ -835,6 +835,7 @@ alewives
 alexin
 alexins
 alfaqui
+alfaquins
 alfaquis
 alfilarias
 algae
@@ -934,6 +935,7 @@ allocation
 allocators
 allogeneic
 allometries
+allomorph
 allonym
 allopathies
 allopatric
@@ -1150,6 +1152,7 @@ ammoniacal
 ammoniacs
 ammoniates
 ammoniating
+ammoniation
 ammonification
 ammonifying
 ammoniums
@@ -4370,6 +4373,7 @@ boggier
 bogginesses
 bogging
 boggish
+boggling
 boggy
 bogusness
 bogwoods
@@ -6173,6 +6177,7 @@ cavorts
 caymans
 cayuse
 caziques
+ceanothus
 ceasefires
 ceaselessly
 cecity
@@ -8838,6 +8843,7 @@ counterattack
 counterattacks
 counterbalance
 counterbid
+counterblast
 counterblasts
 counterchange
 countercoups
@@ -9226,6 +9232,7 @@ crocine
 crockeries
 crockery
 crockets
+crocking
 crockpot
 crocodiles
 croft
@@ -11116,6 +11123,7 @@ diestrum
 diestrums
 diestruses
 dietetic
+diets
 diff
 differed
 difference
@@ -15992,6 +16000,7 @@ fraternizers
 frauds
 fraught
 fraulein
+frayed
 frazzling
 freakily
 freakinesses
@@ -16742,6 +16751,7 @@ gentilities
 gentlemanliness
 gentlemanly
 gentlemen
+gentlenesses
 gentler
 gentoo
 gentrifications
@@ -17609,6 +17619,7 @@ gristliness
 grit
 griths
 grits
+grittiest
 gritty
 grivets
 grizzle
@@ -20299,6 +20310,7 @@ indisciplines
 indiscreet
 indiscretions
 indiscriminate
+indispensables
 indispose
 indisposes
 indisposing
@@ -22758,6 +22770,7 @@ leishmania
 leishmaniases
 leistered
 leisureliness
+leitmotifs
 leitmotiv
 lek
 lekvar
@@ -29106,6 +29119,7 @@ pagefuls
 pages
 paginated
 paginates
+paginating
 pagoda
 pagodas
 pagurians
@@ -29436,6 +29450,7 @@ parasailing
 parasailings
 parasang
 parasexual
+parasexuality
 parashahs
 parashioth
 parashot
@@ -30696,6 +30711,7 @@ pimpmobile
 pina
 pinafored
 pinafores
+pinang
 pinangs
 pinata
 pinballed
@@ -31626,6 +31642,7 @@ pounding
 pour
 pourable
 poured
+pourer
 pouring
 pourpoint
 pourpoints
@@ -32560,6 +32577,7 @@ prostrations
 protamin
 protamines
 protea
+protean
 protect
 protectants
 protecter
@@ -34483,6 +34501,7 @@ rejustify
 rejustifying
 rejuvenated
 rejuvenates
+rejuvenescent
 rekeyboarded
 rekeyboarding
 rekeying
@@ -34875,6 +34894,7 @@ reredos
 reregister
 reregistered
 reregistrations
+reregulated
 reregulates
 rereleasing
 reremice
@@ -35400,6 +35420,7 @@ reynard
 rezero
 rezeroes
 rezoned
+rezoning
 rhabdom
 rhabdomancy
 rhabdomes
@@ -37179,6 +37200,7 @@ sensately
 sensating
 sensationalise
 sensationalist
+sensationalists
 sensationalized
 sensations
 sense
@@ -37968,6 +37990,7 @@ simoniacal
 simp
 simpered
 simpleness
+simpler
 simplest
 simpleton
 simplexes
@@ -38089,6 +38112,7 @@ skein
 skeining
 skeletal
 skeleton
+skeletonised
 skeletonising
 skeletonizer
 skeletons
@@ -38373,6 +38397,7 @@ slubber
 slubbered
 slubbering
 slubbings
+sludge
 sludged
 sludgy
 slue
@@ -38476,6 +38501,7 @@ smokehouses
 smokepot
 smokily
 smokinesses
+smooch
 smoocher
 smoochers
 smoochy
@@ -39943,6 +39969,7 @@ storybooks
 storying
 storytellings
 stotin
+stott
 stotted
 stound
 stoup
@@ -40404,6 +40431,7 @@ suborn
 suborners
 suborning
 suboval
+subovate
 suboxide
 subparallel
 subperiods
@@ -42428,6 +42456,7 @@ toeas
 toed
 toehold
 toeless
+toelike
 toenailing
 toeplate
 toes
@@ -43011,6 +43040,7 @@ trestle
 trestleworks
 tret
 trevallies
+trevet
 triacetates
 triadism
 triages
@@ -43363,6 +43393,7 @@ tuchun
 tuckers
 tucket
 tucks
+tuckshop
 tuffet
 tufters
 tuftier
@@ -44549,6 +44580,7 @@ unroasted
 unrobe
 unrobed
 unroll
+unrolled
 unroofs
 unroots
 unroped
@@ -44954,6 +44986,7 @@ usques
 usurers
 usurious
 usuriousnesses
+usurp
 usurper
 uteruses
 utilisers
@@ -45960,6 +45993,7 @@ watersheds
 watersides
 waterski
 waterweed
+wattest
 watthours
 wattled
 wattles
@@ -46250,6 +46284,7 @@ who
 whoa
 whodunits
 whodunnit
+wholehearted
 wholeheartedly
 wholesaled
 wholesales
