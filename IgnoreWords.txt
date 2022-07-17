@@ -1610,6 +1610,7 @@ antifouling
 antifriction
 antifungals
 antifur
+antigambling
 antigang
 antigen
 antigene
@@ -2332,6 +2333,7 @@ assignee
 assigning
 assignors
 assimilator
+assimilatory
 assistances
 assister
 assistive
@@ -3187,6 +3189,7 @@ basidiomycetes
 basidiomycetous
 basilar
 basilect
+basinet
 basinfuls
 basing
 basions
@@ -5574,6 +5577,7 @@ calvarian
 calvarias
 calves
 calycle
+calyculi
 calypsoes
 calypsos
 calypters
@@ -7607,6 +7611,7 @@ cognizably
 cognize
 cognizers
 cognizing
+cognomen
 cognomens
 cognomina
 cogs
@@ -9451,6 +9456,7 @@ cryptological
 cryptologies
 cryptorchid
 cryptorchidisms
+cryptosporidium
 cryptozoologies
 crystalize
 crystalizes
@@ -9787,6 +9793,7 @@ cylindering
 cylindrical
 cylix
 cyma
+cymae
 cymars
 cymbal
 cymbaler
@@ -10455,6 +10462,7 @@ dehumidified
 dehydrate
 dehydrated
 dehydrating
+dehydrations
 dehydrators
 dehydrogenated
 deice
@@ -10805,6 +10813,7 @@ derry
 desalination
 desalinations
 desalinizing
+desalted
 desalts
 descant
 descanted
@@ -11403,6 +11412,7 @@ disables
 disabling
 disabuse
 disaccharidase
+disaccord
 disaccorded
 disaccording
 disaccustoms
@@ -13533,6 +13543,7 @@ entireness
 entities
 entitle
 entitled
+entity
 entoblast
 entoblasts
 entoderm
@@ -14728,6 +14739,7 @@ farded
 fardels
 farding
 fareboxes
+farers
 farewell
 farewelling
 farewells
@@ -16717,6 +16729,7 @@ gauges
 gauging
 gaum
 gaumed
+gaunter
 gauntly
 gauntry
 gaurs
@@ -17143,6 +17156,7 @@ glazily
 gleam
 gleamer
 gleamier
+gleaming
 gleamy
 gleanable
 gleaned
@@ -17336,6 +17350,7 @@ godetias
 godfathered
 godlessly
 godlikeness
+godlikenesses
 godlily
 godly
 godmothering
@@ -20255,6 +20270,7 @@ incise
 incises
 incisivenesses
 incisory
+incisure
 incitant
 incitation
 incited
@@ -20999,6 +21015,7 @@ interionic
 interiorise
 interiorised
 interiorises
+interiorising
 interiorize
 interiorizes
 interiors
@@ -22026,6 +22043,7 @@ kebbucks
 keblah
 kebob
 kecking
+keckle
 keckles
 kecks
 kedgerees
@@ -22720,6 +22738,7 @@ laughably
 laughed
 laughlines
 launched
+launcher
 launching
 launchpads
 launderette
@@ -23574,6 +23593,7 @@ louche
 loud
 loudlier
 loudliest
+loudmouthed
 loudspeakers
 lough
 loughs
@@ -23932,6 +23952,7 @@ mainlands
 mainmasts
 mains
 mainsheet
+mainsheets
 mainspring
 mainsprings
 maintaining
@@ -24074,6 +24095,7 @@ mangabeys
 mangaby
 manganese
 manganites
+manganous
 mange
 mangels
 mangier
@@ -28648,6 +28670,7 @@ outsized
 outskated
 outslick
 outsmelt
+outsmile
 outsmoked
 outsoared
 outsoars
@@ -29516,6 +29539,7 @@ papain
 papains
 papal
 paparazzi
+paperbacks
 paperbarks
 paperboard
 paperboards
@@ -29662,6 +29686,7 @@ pares
 paresis
 paresthesias
 paresthetic
+paretics
 pareve
 parfleches
 parfocalized
@@ -30002,6 +30027,7 @@ peeing
 peeking
 peelable
 peelers
+peeling
 peels
 peening
 peens
@@ -30224,6 +30250,7 @@ perikaryal
 perilla
 perillas
 perilling
+perilousnesses
 perilymph
 perilymphs
 perimeter
@@ -30776,6 +30803,7 @@ pickpocket
 pickups
 picky
 picnicker
+picofarads
 picolin
 picomole
 picoting
@@ -31671,6 +31699,7 @@ possets
 possibility
 post
 postabortion
+postapocalyptic
 postattack
 postaxial
 postbase
@@ -38014,6 +38043,7 @@ shrining
 shrink
 shrinks
 shris
+shrive
 shriveled
 shrivelling
 shriven
@@ -41423,6 +41453,7 @@ syli
 sylis
 syllabi
 syllabicated
+syllabics
 syllabisms
 syllabize
 syllabizing
@@ -41654,6 +41685,7 @@ take
 takeoffs
 takeovers
 taker
+takers
 takes
 talar
 talced
@@ -44901,6 +44933,7 @@ unshelling
 unshells
 unshifting
 unshifts
+unshirted
 unsighting
 unsights
 unskilful
@@ -47169,6 +47202,7 @@ ylems
 yob
 yoctosecond
 yoctoseconds
+yodel
 yodelled
 yodellers
 yodelling
@@ -47341,6 +47375,7 @@ zoogeographer
 zoogeographic
 zoogeographical
 zoogeographies
+zoogloea
 zoography
 zooks
 zoolater
