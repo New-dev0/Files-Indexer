@@ -398,6 +398,7 @@ adhibit
 adieux
 adit
 adjacencies
+adjectival
 adjectivally
 adjective
 adjectively
@@ -1047,6 +1048,7 @@ amadavats
 amadous
 amah
 amain
+amalgam
 amalgamate
 amalgamators
 amanitin
@@ -1115,6 +1117,7 @@ amelcorns
 ameloblast
 amenability
 amenably
+amend
 amens
 amentia
 aments
@@ -2287,6 +2290,7 @@ aspish
 asrama
 assagai
 assailable
+assailing
 assais
 assassinating
 assassinator
@@ -4257,6 +4261,7 @@ blown
 blowpipes
 blowsier
 blowsiest
+blowsily
 blowsy
 blowtorch
 blowtorches
@@ -4650,6 +4655,7 @@ bowshots
 bowstring
 bowstringed
 bowstrings
+bowwowing
 bowyer
 boxberries
 boxcar
@@ -5454,6 +5460,7 @@ calamondins
 calash
 calashes
 calcanei
+calcar
 calceate
 calcedony
 calciferol
@@ -6527,6 +6534,7 @@ chaufers
 chauffeur
 chauffeured
 chaulmoogra
+chawbacon
 chawbacons
 chawer
 chawing
@@ -9971,6 +9979,7 @@ dauts
 daven
 dawdle
 dawdled
+dawdler
 dawned
 dawning
 dawnlike
@@ -10913,6 +10922,7 @@ deviating
 deviationisms
 device
 devilfish
+devilfishes
 devilish
 devilling
 devils
@@ -12144,6 +12154,7 @@ doxologies
 doxorubicins
 doyennes
 doyens
+doyleys
 doyly
 dozening
 dozens
@@ -15794,6 +15805,7 @@ foresightful
 foresights
 foreskin
 forespoke
+forestage
 forestaller
 forestallments
 forestaysail
@@ -17305,6 +17317,7 @@ googlies
 googolplex
 googolplexes
 gooky
+gooney
 goop
 goopiest
 goops
@@ -19759,6 +19772,7 @@ illusionisms
 illusionist
 illusionistic
 illusive
+illusivenesses
 illusory
 illustrations
 illustriously
@@ -22790,6 +22804,7 @@ leishmania
 leishmaniases
 leistered
 leisureliness
+leisurelinesses
 leitmotifs
 leitmotiv
 lek
@@ -25088,6 +25103,7 @@ miniscules
 miniski
 miniskirt
 miniskis
+ministates
 ministerial
 ministrant
 minitrack
@@ -25627,6 +25643,7 @@ moneygrubbing
 moneymakers
 moneys
 moneyworts
+mongered
 mongers
 mongoe
 mongol
@@ -29183,6 +29200,7 @@ palaestrae
 palanquins
 palatable
 palatably
+palatalize
 palatalizes
 palatialnesses
 palavered
@@ -29293,6 +29311,7 @@ panatella
 pancaked
 pancetta
 panchax
+panchaxes
 pancratium
 pancratiums
 pancreases
@@ -31617,6 +31636,7 @@ potatobug
 potatoes
 potbellied
 potboil
+potboiled
 potboiling
 potboys
 poteen
@@ -32473,6 +32493,7 @@ pronation
 pronely
 pronenesses
 pronephra
+pronephric
 pronephros
 pronged
 prongs
@@ -33560,6 +33581,7 @@ rashest
 raspberries
 raspier
 raspinesses
+rasping
 raspingly
 rasps
 rassle
@@ -34702,6 +34724,7 @@ reneger
 renegers
 renegotiable
 renests
+renew
 renewer
 renigs
 renin
@@ -37347,6 +37370,7 @@ seriousnesses
 serjeanties
 sermonizer
 sermonizers
+sermonizes
 serologies
 serologists
 serology
@@ -37551,6 +37575,7 @@ shearlings
 shears
 sheas
 sheatfish
+sheather
 sheaved
 shebeans
 shedders
@@ -39148,6 +39173,7 @@ speedballed
 speedboat
 speedboatings
 speediest
+speediness
 speeding
 speedo
 speedos
@@ -39544,6 +39570,7 @@ squooshes
 sradha
 sri
 stab
+stabber
 stabbers
 stabilises
 stabilising
@@ -39838,6 +39865,7 @@ sternward
 sternway
 steroid
 steroidal
+stethoscope
 stevedored
 stewable
 stewardess
@@ -40091,6 +40119,7 @@ streamliners
 streamsides
 streek
 streeker
+streeking
 streeks
 streel
 streetcar
@@ -41149,6 +41178,7 @@ swimmily
 swindle
 swindled
 swindles
+swindling
 swinepox
 swing
 swingers
@@ -41511,6 +41541,7 @@ tandem
 tandems
 tandoori
 tang
+tangelos
 tangency
 tangerine
 tangibilities
@@ -43040,6 +43071,7 @@ treelike
 treen
 treenails
 treenware
+treetop
 treetops
 trelliswork
 tremble
@@ -43218,6 +43250,7 @@ triploidies
 tripodies
 tripody
 tripolis
+tripped
 tripping
 trips
 triptanes
@@ -44966,6 +44999,7 @@ urbanise
 urbanises
 urbanising
 urbanisms
+urbanity
 urbanizations
 urbanized
 urbanologies
@@ -46495,6 +46529,7 @@ wintriness
 winze
 wirehaired
 wirelessed
+wirephoto
 wiretapping
 wiretaps
 wireways
