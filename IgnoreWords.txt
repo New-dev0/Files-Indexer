@@ -3992,6 +3992,7 @@ birdfarms
 birdies
 birdings
 birdlife
+birdlimed
 birdman
 birds
 birdseed
@@ -5131,6 +5132,7 @@ bullhorns
 bulling
 bullishly
 bullishness
+bullishnesses
 bullnecked
 bullnose
 bullpen
@@ -5391,6 +5393,7 @@ cacophonously
 cadastre
 cadaver
 cadaverines
+caddices
 caddis
 caddised
 caddisworms
@@ -5921,6 +5924,7 @@ carrells
 carrels
 carrier
 carroch
+carroches
 carromed
 carronade
 carrotin
@@ -6128,6 +6132,7 @@ caudation
 caudex
 caudillismo
 cauld
+cauliflower
 cauliflowerets
 cauliflowers
 cauline
@@ -7644,6 +7649,7 @@ coleworts
 colicines
 colickiest
 colicky
+colicweeds
 colinearities
 coliphage
 coliphages
@@ -8311,6 +8317,7 @@ constantan
 constatives
 constellating
 consternate
+consternating
 consternation
 consternations
 constituently
@@ -8687,6 +8694,7 @@ corporation
 corporative
 corporator
 corporators
+corporeal
 corporeality
 corporeally
 corposants
@@ -9996,6 +10004,7 @@ deactivations
 deactivator
 deadbolts
 deadened
+deadener
 deader
 deadfall
 deadheaded
@@ -11030,6 +11039,7 @@ diaphyseal
 diaphysial
 diaphysis
 diapositives
+diapsid
 diapsids
 diarchic
 diaristic
@@ -11261,6 +11271,7 @@ dip
 dipeptidase
 diphase
 diphasic
+diphenylamine
 diphenyls
 diphosgene
 diphosphates
@@ -11740,6 +11751,7 @@ distraught
 distresses
 distressful
 distressfulness
+distribute
 distributed
 distributor
 distrust
@@ -14274,6 +14286,7 @@ expertness
 expiation
 expirations
 expiratory
+expired
 expirers
 explainers
 explanative
@@ -14880,6 +14893,7 @@ ferriferous
 ferrimagnetism
 ferrimagnetisms
 ferrite
+ferrites
 ferroconcrete
 ferroconcretes
 ferrocyanides
@@ -15691,6 +15705,7 @@ footstalks
 footstall
 footstalls
 footstones
+footstools
 footsy
 footwall
 footworks
@@ -16150,6 +16165,7 @@ frotteur
 frotteurs
 frouncing
 frouziest
+frowardnesses
 frowns
 frows
 frowzily
@@ -19230,6 +19246,7 @@ housekeep
 houselling
 housemaids
 housemaster
+housemen
 housepainters
 houserooms
 housesits
@@ -20711,6 +20728,7 @@ insomniac
 insomniacs
 insouciance
 insouciant
+insouling
 inspectors
 inspects
 inspheres
@@ -20795,6 +20813,7 @@ intendedly
 intenerations
 intense
 intenser
+intensifies
 intensional
 intensivenesses
 intensives
@@ -21321,6 +21340,7 @@ isocaloric
 isocarboxazid
 isocarboxazids
 isocheim
+isocheims
 isochimes
 isochores
 isochrone
@@ -23110,6 +23130,7 @@ lionising
 lions
 lip
 lipa
+lipectomy
 lipides
 lipin
 lipins
@@ -24627,6 +24648,7 @@ mesons
 mesophyllic
 mesoscale
 mesothoracic
+mesotron
 mesotrons
 mesozoan
 mesquite
@@ -25338,6 +25360,7 @@ mispoise
 mispoised
 mispoising
 mispositioning
+mispositions
 misprices
 misprinted
 misprints
@@ -26823,6 +26846,7 @@ nippy
 nirvanic
 niter
 nitpick
+nitrated
 nitride
 nitrided
 nitrides
@@ -28646,6 +28670,7 @@ overcools
 overcorrecting
 overcoy
 overcrammed
+overcredulous
 overcritical
 overcrop
 overcropped
@@ -28772,6 +28797,7 @@ overinform
 overinforms
 overingenious
 overingenuity
+overinsistent
 overinvestments
 overissuances
 overissue
@@ -29245,6 +29271,7 @@ palter
 paltered
 palterer
 paltering
+palters
 paltrier
 paltrily
 paltriness
@@ -29371,6 +29398,7 @@ papovaviruses
 pappoose
 pappooses
 pappous
+paprica
 papricas
 papulae
 papular
@@ -31654,6 +31682,7 @@ poutiest
 powdered
 powderers
 power
+powerfully
 powerlessly
 poxes
 poxing
@@ -34372,6 +34401,7 @@ regroom
 regroomed
 regrooms
 regrooves
+regular
 regularities
 regularization
 regularizations
@@ -34983,6 +35013,7 @@ residuary
 residuum
 residuums
 resighting
+resignations
 resignedly
 resignedness
 resigners
@@ -35626,6 +35657,7 @@ ristra
 risus
 ritardando
 ritards
+rites
 ritonavirs
 ritualism
 ritualist
@@ -36329,6 +36361,7 @@ sannups
 sannyasi
 sannyasin
 sannyasis
+sansculottish
 sansculottism
 santalols
 santera
@@ -43745,6 +43778,7 @@ umbrageously
 umbral
 umbrettes
 umiac
+umiaks
 umlauting
 umlauts
 umping
@@ -45527,6 +45561,7 @@ vireo
 vireonine
 vireonines
 vires
+virga
 virgas
 virgate
 virginalist
