@@ -340,6 +340,7 @@ actuator
 acuities
 aculeated
 acuminates
+acupressure
 acupunctures
 acupuncturist
 acupuncturists
@@ -3534,6 +3535,7 @@ beigy
 being
 bejewel
 bejeweled
+bejeweling
 bejewels
 bejumbles
 beknight
@@ -3666,6 +3668,7 @@ berated
 berating
 berberin
 berberines
+berberins
 berberis
 berberises
 berceuses
@@ -5191,6 +5194,7 @@ bullishness
 bullishnesses
 bullnecked
 bullnose
+bullocky
 bullpen
 bullpens
 bullpout
@@ -5334,6 +5338,8 @@ busynesses
 butanes
 butch
 butcher
+butcherers
+butchers
 butchery
 butenes
 butler
@@ -6546,6 +6552,7 @@ charlotte
 charmed
 charmeuse
 charmeuses
+charmingest
 charmingly
 charpoys
 charquid
@@ -7455,6 +7462,7 @@ coastline
 coasts
 coastwards
 coatees
+coatimundi
 coats
 coattail
 coattest
@@ -8004,6 +8012,7 @@ compensating
 compensation
 compensatory
 compering
+competence
 competent
 competing
 competitor
@@ -8475,6 +8484,7 @@ contes
 contest
 contestants
 contester
+contexts
 contextualize
 contexture
 contextures
@@ -9238,6 +9248,7 @@ creolizations
 creolize
 creosol
 creosols
+creosotic
 crepitate
 crepitated
 crepuscles
@@ -10296,6 +10307,7 @@ decompressing
 deconcentrate
 deconcentrating
 deconcentration
+deconditioning
 deconditions
 decongestion
 decongests
@@ -11213,6 +11225,7 @@ dicynodonts
 didact
 didacticism
 didacticisms
+didacts
 diddle
 diddly
 didgeridoos
@@ -11574,6 +11587,7 @@ discovered
 discoverer
 discovery
 discreditable
+discredited
 discreetly
 discreetnesses
 discrete
@@ -11820,6 +11834,7 @@ dissimilatory
 dissimilitudes
 dissimulates
 dissimulation
+dissimulations
 dissimulators
 dissipate
 dissipatedness
@@ -15128,6 +15143,7 @@ fictionizations
 fictitious
 fictitiousness
 fiddlehead
+fiddleheads
 fiddler
 fideists
 fidelista
@@ -17253,6 +17269,7 @@ glisten
 glistens
 glister
 glistering
+glitchy
 glitter
 glittered
 glitteringly
@@ -19819,6 +19836,7 @@ ichthyofaunal
 ichthyofaunas
 ichthyophagous
 ichthyosaurian
+icicle
 iciest
 ickiest
 iconicity
@@ -20434,6 +20452,7 @@ incumbencies
 incumbency
 incumbent
 incumbents
+incumber
 incunabula
 incur
 incurables
@@ -23374,6 +23393,7 @@ liquefier
 liquefying
 liquid
 liquidates
+liquidation
 liquidity
 liquidly
 liquidnesses
@@ -24143,6 +24163,7 @@ mamboes
 mammae
 mammal
 mammalian
+mammalians
 mammalities
 mammals
 mammary
@@ -24541,6 +24562,7 @@ mayor
 mayoralty
 mayorship
 mayos
+mayvins
 mayweeds
 mazaedia
 mazaedium
@@ -25716,6 +25738,7 @@ misyoking
 mite
 mitering
 mithers
+miticidal
 mitiest
 mitigable
 mitigative
@@ -27410,6 +27433,7 @@ nonirritating
 nonjudgmental
 nonkosher
 nonlandowner
+nonlanguage
 nonlanguages
 nonlawyers
 nonlevel
@@ -29058,6 +29082,7 @@ overhate
 overheads
 overheaped
 overheaping
+overheaps
 overhear
 overheard
 overheat
@@ -29400,6 +29425,7 @@ padishah
 padlocking
 padlocks
 padnags
+padri
 padrone
 padronism
 pads
@@ -35937,6 +35963,7 @@ riffles
 riffs
 rifle
 riflebirds
+riflemen
 rifleries
 riflers
 rifling
@@ -37770,6 +37797,7 @@ servitudes
 servo
 servos
 sesquiterpene
+sessilities
 sestertium
 seta
 setiform
@@ -41357,6 +41385,7 @@ supplantations
 supplanters
 supplants
 suppled
+supplement
 supplementary
 supplementation
 suppletory
@@ -41904,6 +41933,7 @@ taloned
 talons
 taluk
 taluses
+tam
 tamable
 tamale
 tamaraos
@@ -42341,6 +42371,7 @@ terminal
 terminator
 terminators
 termitarium
+termite
 termly
 ternate
 terne
@@ -44399,6 +44430,7 @@ uncinarias
 uncivil
 uncivilized
 unclamping
+unclasp
 unclasped
 unclassical
 unclassifiable
@@ -44864,6 +44896,7 @@ unitizations
 unitizing
 unitrust
 univalved
+universalize
 universally
 universalness
 univocals
@@ -46381,6 +46414,7 @@ wanion
 wanked
 wannabee
 wannabes
+wanner
 wannest
 wannigan
 wannigans
@@ -46390,6 +46424,7 @@ wanting
 wantoner
 wantonly
 wantonnesses
+wapping
 warbonnets
 warcrafts
 wardenries
