@@ -2889,6 +2889,7 @@ backwaters
 backwoods
 backwoodsmen
 backyards
+bacon
 bacteria
 bacteriocins
 bacteriologist
@@ -3105,6 +3106,7 @@ barium
 barkeep
 barkers
 barkiest
+barkless
 barleys
 barmaid
 barman
@@ -3365,6 +3367,7 @@ becoming
 becomings
 becrawled
 becrime
+becrimes
 becriming
 becrowds
 becrusting
@@ -8185,6 +8188,7 @@ congelation
 congeneric
 congenial
 congest
+congestion
 congius
 conglobated
 conglobates
@@ -8227,6 +8231,7 @@ conjectures
 conjoined
 conjoiner
 conjoiners
+conjoining
 conjugate
 conjugateness
 conjugationally
@@ -9059,6 +9064,7 @@ craning
 craniosacral
 craniotomy
 crank
+crankcases
 cranker
 crankiest
 crankinesses
@@ -10556,6 +10562,7 @@ demonstrable
 demonstrably
 demonstration
 demonstratively
+demoralization
 demoralizations
 demoralizes
 demoralizingly
@@ -11835,6 +11842,7 @@ dividual
 divinatory
 divine
 divined
+divisibility
 divisionism
 divisionisms
 divisions
@@ -13451,6 +13459,7 @@ entasis
 entente
 enter
 enteral
+entered
 enterer
 enteric
 enteritises
@@ -13746,6 +13755,7 @@ erica
 ericas
 erigeron
 eriophyid
+eroded
 erodes
 erodibility
 erodible
@@ -16010,6 +16020,7 @@ framers
 frameshift
 framework
 frameworks
+franc
 franchise
 franchisees
 francium
@@ -17237,6 +17248,7 @@ gnosticisms
 gnotobiotic
 goaded
 goading
+goads
 goalmouths
 goaltenders
 goalward
@@ -17955,6 +17967,7 @@ gynogenesis
 gynophobe
 gynophobes
 gyp
+gypped
 gypper
 gypseian
 gypsophila
@@ -21344,6 +21357,7 @@ irritated
 irritatingly
 irritative
 irruptions
+isagoge
 isallobar
 isallobaric
 isallobars
@@ -21483,6 +21497,7 @@ jacketing
 jacketless
 jackets
 jackfishes
+jackfruit
 jackfruits
 jackknifing
 jacklight
@@ -22300,6 +22315,7 @@ krimmer
 krimmers
 kris
 krone
+krummholz
 krummhorns
 kryolites
 kryolith
@@ -23203,6 +23219,7 @@ listener
 listenership
 listeria
 listerioses
+litany
 litas
 lite
 literacies
@@ -23677,6 +23694,7 @@ luteinizing
 lutenists
 luteotrophins
 luteotropic
+lutfisk
 lutfisks
 luthern
 luxes
@@ -23844,6 +23862,7 @@ maigre
 mailer
 mailmen
 mainframes
+mainlander
 mainlands
 mainmasts
 mains
@@ -28049,6 +28068,7 @@ options
 optometers
 optometry
 opts
+opulencies
 opuscula
 opusculum
 opuses
@@ -29870,6 +29890,7 @@ pedaler
 pedalier
 pedalled
 pedalling
+pedantic
 pedately
 peddling
 pedestal
@@ -30249,6 +30270,7 @@ pertaining
 pertains
 pertest
 pertinence
+pertness
 perturbation
 perturbational
 perturbations
@@ -32155,6 +32177,7 @@ presignaling
 presignalling
 presignifying
 preslaughter
+presoak
 presolves
 presorting
 presorts
@@ -33117,6 +33140,7 @@ pyridoxines
 pyritic
 pyritical
 pyro
+pyrocatechol
 pyroclastic
 pyroelectricity
 pyrogenic
@@ -34966,6 +34990,7 @@ requiters
 reradiations
 reran
 reread
+rereads
 rerebraces
 rerecorded
 reredos
@@ -36884,6 +36909,7 @@ scrapple
 scraps
 scratchers
 scratches
+scratchiness
 scrawniest
 screaked
 screaking
@@ -37046,6 +37072,7 @@ secantly
 secateur
 secateurs
 secern
+seclude
 secludedly
 secludes
 seclusion
@@ -37657,6 +37684,7 @@ shelves
 shelving
 shenanigans
 sheol
+shepherd
 shepherded
 shepherdesses
 sheqalim
@@ -39721,6 +39749,7 @@ starry
 stars
 starship
 starters
+startsy
 startup
 starvation
 starvations
@@ -42018,6 +42047,7 @@ tessera
 tessiture
 testable
 testaceans
+testamentary
 testate
 testees
 testifiers
@@ -42618,6 +42648,7 @@ tommyrots
 tomograms
 tomograph
 tomographic
+tomography
 tone
 tonearms
 tonelessnesses
@@ -44578,6 +44609,7 @@ unobserved
 unobtainable
 unoffered
 unofficially
+unordered
 unorganized
 unostentatious
 unpack
@@ -45042,6 +45074,7 @@ urceolate
 urchins
 urea
 ureal
+ureas
 uredia
 uredinia
 ureter
@@ -46069,6 +46102,7 @@ watches
 watcheye
 watchful
 watchfulnesses
+watchmaker
 watchman
 watchword
 waterages
@@ -46878,6 +46912,7 @@ xeroses
 xerox
 xeroxing
 xeruses
+xi
 xiphoids
 xylidine
 xylitol
