@@ -1946,6 +1946,7 @@ approximate
 approximated
 approximation
 approximations
+approximative
 appulses
 appurtenances
 appurtenant
@@ -2591,6 +2592,7 @@ auspicated
 auspicates
 auspicating
 auspiciousness
+austereness
 austerest
 austerity
 autacoids
@@ -3133,6 +3135,7 @@ barracks
 barracudas
 barrage
 barraged
+barraging
 barramundi
 barranca
 barranco
@@ -3363,6 +3366,7 @@ beclogs
 beclothe
 beclothed
 beclothes
+becloud
 beclowned
 becoming
 becomings
@@ -3564,6 +3568,7 @@ beltings
 beltline
 belugas
 bemadams
+bemaddens
 bemas
 bemata
 bemeans
@@ -4484,6 +4489,7 @@ boobird
 boobish
 booboisie
 boobs
+booby
 boodler
 boodling
 booed
@@ -7500,6 +7506,7 @@ coddling
 code
 coded
 codefendant
+codeless
 codependences
 codependencies
 codependent
@@ -9008,6 +9015,7 @@ coxalgies
 coxcombry
 coxcombs
 coxing
+coxitis
 coxless
 coyer
 coynesses
@@ -9324,6 +9332,7 @@ crosstown
 crosstree
 crosstrees
 crossways
+crosswinds
 crostini
 crotchet
 crotchetiness
@@ -9434,6 +9443,7 @@ crystallized
 crystalloid
 crystalloidal
 crystals
+ctenophorans
 ctenophores
 cuatros
 cub
@@ -9767,6 +9777,7 @@ cyme
 cymene
 cymenes
 cymling
+cymlings
 cymol
 cymophane
 cynical
@@ -10557,6 +10568,7 @@ demography
 demoiselle
 demolishers
 demolishment
+demolitionists
 demonesses
 demonetizes
 demonic
@@ -11937,6 +11949,7 @@ doglegging
 doglegs
 doglike
 dogmas
+dogmata
 dogmatism
 dogmatist
 dogmatize
@@ -13586,6 +13599,7 @@ epaulets
 epaulettes
 epergne
 epexegesis
+epexegetical
 ephebe
 ephebic
 ephebos
@@ -14139,6 +14153,7 @@ excerpts
 excess
 exchanging
 excide
+exciding
 excimers
 excised
 excises
@@ -15495,6 +15510,7 @@ floppiest
 floppiness
 floras
 florescence
+florescences
 floriated
 floriations
 floricane
@@ -25732,6 +25748,7 @@ monoclinic
 monoclonal
 monocots
 monocotyl
+monocrat
 monocratic
 monocrystals
 monocularly
@@ -28729,6 +28746,7 @@ overchill
 overchilled
 overclaims
 overclass
+overclasses
 overclassified
 overcleaning
 overclouds
@@ -29915,6 +29933,7 @@ pedantic
 pedately
 peddling
 pedestal
+pedestaling
 pedestalled
 pedestrians
 pedicellate
@@ -32610,6 +32629,7 @@ prophetesses
 prophethoods
 prophetical
 prophylaxes
+propinquities
 propitiate
 propitiated
 propitiators
@@ -34230,6 +34250,7 @@ redoxes
 redpoll
 redpolls
 redraft
+redraw
 redreams
 redressed
 redressers
@@ -35001,6 +35022,7 @@ repurchased
 repurposes
 repursue
 repursued
+reputable
 reputing
 requesters
 requesting
@@ -35733,6 +35755,7 @@ ripener
 riper
 ripes
 riping
+ripoff
 ripostes
 ripping
 ripplet
@@ -36514,6 +36537,7 @@ sarcomatous
 sarcomere
 sarcoplasm
 sarcous
+sardar
 sardined
 sardius
 sardonic
@@ -36823,6 +36847,7 @@ scientism
 scientisms
 scientizing
 scillas
+scimetars
 scimitar
 scimitars
 scimiter
@@ -37992,6 +38017,7 @@ sicced
 siccing
 sices
 sicked
+sicken
 sickening
 sickens
 sickish
@@ -38705,6 +38731,7 @@ snath
 snathe
 snaw
 snawing
+snazzier
 snazziest
 sneakiness
 sneaky
@@ -38982,6 +39009,7 @@ somewhither
 somital
 somnambulates
 somnambulist
+somnifacient
 somnifacients
 soms
 sonance
@@ -39069,6 +39097,7 @@ sorptive
 sorrel
 sorrels
 sorrier
+sorrowers
 sorrowful
 sorrowfulness
 sorrowing
@@ -40035,6 +40064,7 @@ stockaded
 stockading
 stockage
 stocked
+stockers
 stockiest
 stockily
 stockists
@@ -40973,6 +41003,7 @@ superintends
 superintensity
 superior
 superiorities
+superiors
 superjumbo
 superjumbos
 superlativeness
@@ -42980,6 +43011,7 @@ tramper
 trampiest
 trampish
 tramples
+trams
 tranced
 trances
 tranche
@@ -44525,6 +44557,7 @@ unique
 uniquely
 uniqueness
 uniquer
+uniques
 unirrigated
 unisexuality
 unisonant
@@ -44575,6 +44608,7 @@ unlet
 unleveled
 unleveling
 unlevels
+unlevied
 unliberated
 unlikable
 unlikeliest
@@ -46754,6 +46788,7 @@ woof
 wooler
 woolers
 woolgathering
+woolgatherings
 woolhat
 woolie
 wooliness
