@@ -1,0 +1,10 @@
+https://archive.openwrt.org/releases/19.07.5/targe...,https://archive.openwrt.org/releases/19.07.5/targets/x86/geode/packages/Packages.manifest
+https://downloads.openwrt.org/releases/17.01.3/tar...,https://downloads.openwrt.org/releases/17.01.3/targets/x86/geode/packages/Packages.manifest
+https://downloads.bremen.freifunk.net/opkg/modules...,https://downloads.bremen.freifunk.net/opkg/modules/gluon-ffhb-2019.1%2Bbremen1/x86/geode/Packages.manifest
+https://downloads.ffhb.de/opkg/modules/gluon-ffhb-...,https://downloads.ffhb.de/opkg/modules/gluon-ffhb-2019.1.3%2Bbremen2/x86/geode/Packages.manifest
+https://mirrors.aliyun.com/oldubuntu-releases/rele...,https://mirrors.aliyun.com/oldubuntu-releases/releases/8.04.1/ubuntu-8.04-desktop-i386.manifest
+https://mirrors.aliyun.com/oldubuntu-releases/rele...,https://mirrors.aliyun.com/oldubuntu-releases/releases/8.04.3/ubuntu-8.04.1-desktop-i386.manifest
+repo.ugm.ac.id/iso/ubuntu/releases/kubuntu/8.04/ku...,http://repo.ugm.ac.id/iso/ubuntu/releases/kubuntu/8.04/kubuntu-8.04.2-desktop-i386.manifest
+mirrors.xtom.ee/ubuntu-old-releases/releases/lucid...,http://mirrors.xtom.ee/ubuntu-old-releases/releases/lucid/ubuntu-10.04.2-desktop-i386.manifest
+https://fw.gluon.ffrn.de/nightly/sysupgrade/nightl...,https://fw.gluon.ffrn.de/nightly/sysupgrade/nightly.manifest
+autoupdate.ffeu.de/euskirchen/beta-v2/sysupgrade/b...,http://autoupdate.ffeu.de/euskirchen/beta-v2/sysupgrade/beta.manifest
