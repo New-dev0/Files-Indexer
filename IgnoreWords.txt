@@ -506,6 +506,7 @@ advisories
 advocacy
 advocate
 advocator
+advocators
 advowson
 adynamias
 adytum
@@ -4471,6 +4472,7 @@ bonhomies
 bonitas
 bonkers
 bonne
+bonniness
 bonnocks
 bonobo
 bonsai
@@ -4489,6 +4491,7 @@ boogermen
 boogey
 boogeying
 boogeyman
+boogied
 boogying
 boohooing
 boohoos
@@ -4508,6 +4511,7 @@ bookmarking
 bookshop
 bookshops
 bookstand
+bookstores
 boom
 boomboxes
 boomer
@@ -8227,6 +8231,7 @@ coniferous
 coniine
 conioses
 conjectural
+conjecturer
 conjectures
 conjoined
 conjoiner
@@ -8332,6 +8337,7 @@ conspirers
 constabularies
 constant
 constantan
+constantans
 constatives
 constellating
 consternate
@@ -11234,6 +11240,7 @@ dilettanti
 dilettantish
 dilettantisms
 diligently
+diltiazems
 diluter
 diluting
 dilutive
@@ -11866,6 +11873,7 @@ dizenment
 dizzying
 djellabahs
 djinn
+djins
 dobbin
 dobbins
 dobby
@@ -12718,6 +12726,7 @@ ecophysiology
 ecospheres
 ecosystem
 ecoterrorism
+ecoterrorisms
 ecoterrorist
 ecotourisms
 ecotours
@@ -16183,6 +16192,7 @@ frontman
 frontmen
 frontpage
 frontpaging
+frosh
 frostbite
 frosted
 frostfish
@@ -20341,6 +20351,7 @@ indescribably
 indestructibly
 indeterminisms
 indeterministic
+index
 indexing
 indican
 indicants
@@ -20420,6 +20431,7 @@ industrialize
 industrially
 industrials
 industriously
+industriousness
 indwellers
 indwelling
 indwelt
@@ -20998,6 +21010,7 @@ internal
 internalised
 internalising
 internality
+internally
 internationals
 internecine
 internist
@@ -21533,6 +21546,7 @@ jalops
 jalopy
 jam
 jambalaya
+jambe
 jambing
 jamboree
 jambs
@@ -22468,6 +22482,7 @@ lambies
 lambiest
 lambing
 lambkills
+lambrusco
 lambskins
 lame
 lamebrained
@@ -23041,6 +23056,7 @@ liftgates
 lifting
 liftmen
 ligaments
+ligands
 ligans
 ligation
 ligative
@@ -24562,6 +24578,7 @@ meltons
 membership
 memberships
 membranous
+memento
 mementoes
 memes
 memetics
@@ -24707,6 +24724,7 @@ mesquite
 messaged
 messages
 messaline
+messeigneurs
 messenger
 messiah
 messiahships
@@ -25497,6 +25515,7 @@ mistrusts
 mistruth
 mistryst
 mistrysted
+mistrysts
 mists
 mistune
 mistuned
@@ -25870,6 +25889,7 @@ moot
 mopboard
 mopboards
 moper
+mopery
 mopes
 mopey
 mopinesses
@@ -29530,6 +29550,7 @@ paraph
 paraphrase
 paraphraser
 paraphs
+paraplegic
 paraplegics
 paraquet
 paraquets
@@ -31309,6 +31330,7 @@ polarities
 polarity
 polarizable
 polarized
+polarographic
 polarography
 polarons
 polder
@@ -31766,6 +31788,7 @@ praenomen
 praesidium
 praetorial
 praetorian
+pragmaticists
 pragmatisms
 pragmatist
 prairie
@@ -33791,6 +33814,7 @@ reanoint
 reaped
 reapers
 reaping
+reappear
 reappearing
 reapplications
 reapplied
@@ -34445,6 +34469,7 @@ regionalizes
 regionals
 registered
 registrants
+regive
 regiven
 regiving
 reglorified
@@ -35274,6 +35299,7 @@ retches
 retear
 retell
 retempered
+retempering
 retems
 retentions
 retentiveness
@@ -35812,6 +35838,7 @@ rodents
 rodeos
 rodsmen
 roe
+roebuck
 roentgen
 roentgenogram
 roentgens
@@ -36652,6 +36679,7 @@ scandalmonger
 scandalous
 scandalousness
 scandium
+scanner
 scansion
 scansions
 scant
@@ -36932,6 +36960,7 @@ scribbler
 scribbles
 scribes
 scries
+scrimmage
 scrimpers
 scrimpiest
 scrimpily
@@ -39619,6 +39648,7 @@ squirmiest
 squirreling
 squirters
 squirting
+squishiest
 squishing
 squoosh
 squooshed
@@ -42696,6 +42726,7 @@ toper
 topes
 topflight
 topful
+topgallant
 topgallants
 tophe
 topically
@@ -44121,6 +44152,7 @@ uncrossed
 uncrosses
 uncrowns
 uncrushable
+uncrystallized
 unction
 unctuousnesses
 uncuffs
@@ -44192,6 +44224,7 @@ underexposes
 underexposure
 underexposures
 underfeeds
+underflows
 underfund
 undergarment
 undergirt
@@ -46523,6 +46556,7 @@ willie
 willied
 willingest
 willingly
+willingness
 williwaw
 willy
 wimpiest
@@ -47025,6 +47059,7 @@ yippies
 yipping
 yird
 yirr
+yirring
 ylems
 yob
 yoctosecond
