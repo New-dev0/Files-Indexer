@@ -879,6 +879,7 @@ alimony
 aline
 alines
 aliquant
+aliquot
 aliquots
 alit
 aliterates
@@ -5163,6 +5164,7 @@ bulletining
 bullfighters
 bullfighting
 bullfinches
+bullfrog
 bullhead
 bullheaded
 bullheadedness
@@ -6551,6 +6553,7 @@ chassepots
 chassis
 chastely
 chastener
+chastens
 chaster
 chastest
 chastise
@@ -7139,6 +7142,7 @@ claimer
 clairaudience
 clairaudient
 clairvoyance
+clambakes
 clammier
 clamming
 clamoring
@@ -8541,6 +8545,7 @@ conversional
 convertaplane
 convertaplanes
 converter
+convertibly
 convertiplane
 convertor
 convertors
@@ -10465,6 +10470,7 @@ dehumidified
 dehydrate
 dehydrated
 dehydrating
+dehydration
 dehydrations
 dehydrators
 dehydrogenated
@@ -12756,6 +12762,7 @@ eclipser
 ecliptic
 ecliptics
 eclosion
+eclosions
 ecocatastrophes
 ecologic
 ecological
@@ -13106,6 +13113,7 @@ embitter
 embitters
 emblazoned
 emblazoner
+emblematizes
 embleming
 emblemize
 emblemized
@@ -15880,6 +15888,7 @@ forepeak
 forequarter
 forequarters
 forereaching
+forerunners
 foresails
 foreseeability
 foreseer
@@ -16588,6 +16597,7 @@ gambusia
 gambusias
 gamed
 gamekeeper
+gamesmanship
 gamester
 gametogenesis
 gaminess
@@ -17027,6 +17037,7 @@ gigue
 gigues
 gild
 gilded
+gildhall
 gilds
 gillies
 gillnet
@@ -20341,6 +20352,7 @@ inconvenience
 inconveniences
 inconveniencies
 inconveniencing
+inconvertible
 inconvincible
 incony
 incoordination
@@ -20444,6 +20456,7 @@ indigenous
 indigenousness
 indigested
 indign
+indigoids
 indigotin
 indinavir
 indiscernible
@@ -21261,6 +21274,7 @@ inurnments
 inutile
 inutilely
 invaginating
+invalidators
 invalided
 invaliding
 invalidism
@@ -22871,6 +22885,7 @@ leek
 leer
 leerinesses
 lees
+leets
 leeward
 leewardly
 leewards
@@ -22989,6 +23004,7 @@ letch
 lethalities
 lethally
 lethargy
+letterboxings
 lettermen
 letterpresses
 letters
@@ -26983,6 +26999,7 @@ nigrosin
 nigrosines
 nihil
 nihilists
+nihility
 nil
 nilgai
 nilghais
@@ -27066,6 +27083,7 @@ noel
 noels
 noesises
 noggin
+noggs
 noh
 nohow
 noil
@@ -27219,6 +27237,7 @@ nondescriptive
 nondevelopments
 nondiabetics
 nondialyzable
+nondisclosures
 nondisjunction
 nondisjunctions
 nondoctrinaire
@@ -30610,6 +30629,7 @@ phonogrammic
 phonographic
 phonolite
 phonologic
+phonons
 phonotactic
 phonotype
 phons
@@ -31854,6 +31874,7 @@ pottering
 pottiest
 pottinesses
 pottles
+potzers
 pouch
 pouchiest
 poufed
@@ -32199,6 +32220,7 @@ premising
 premiums
 premoistened
 premold
+premolded
 premonish
 premoral
 premunitions
@@ -32376,6 +32398,7 @@ pretrim
 prettier
 prettification
 prettifier
+prettifying
 prettily
 prettiness
 pretype
@@ -35315,6 +35338,7 @@ respirometric
 respirometries
 respirometry
 resplendencies
+resplendency
 resplendent
 resplicing
 resplit
@@ -35829,6 +35853,7 @@ rightists
 rightmost
 rightnesses
 rights
+rightsizing
 rigidification
 rigidity
 rigor
@@ -37335,6 +37360,7 @@ seigniors
 seignories
 seine
 seined
+seines
 seining
 seise
 seisers
@@ -37465,6 +37491,7 @@ sendoffs
 senecio
 senecios
 senescent
+sengi
 senhorita
 senhoritas
 sennight
@@ -39234,6 +39261,7 @@ sotols
 souaris
 soubrette
 soubrettes
+soucars
 souchongs
 soudan
 soughed
@@ -40110,6 +40138,7 @@ stewbum
 stewing
 stews
 stewy
+stey
 stich
 stichomythia
 stichomythy
@@ -42125,6 +42154,7 @@ tenderizer
 tenderloin
 tenderly
 tenderometer
+tendresse
 tendrilled
 tendrilous
 tenebrionids
@@ -42259,6 +42289,7 @@ tetradynamous
 tetrafluorides
 tetragons
 tetragrammaton
+tetragrams
 tetrahedrally
 tetralogies
 tetramer
@@ -43230,6 +43261,7 @@ transpirations
 transpire
 transpiring
 transplantable
+transplanters
 transpontine
 transporters
 transposons
@@ -44087,6 +44119,7 @@ unacerbic
 unactorish
 unadeptly
 unadjusted
+unadoptable
 unadulteratedly
 unadventurous
 unaesthetic
@@ -44574,6 +44607,7 @@ unflinching
 unflinchingly
 unfocused
 unfold
+unfoldment
 unfond
 unforced
 unforthcoming
@@ -46147,6 +46181,7 @@ wagonages
 wagonload
 wagons
 wags
+waifed
 waifish
 waifs
 wailed
