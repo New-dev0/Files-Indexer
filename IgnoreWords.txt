@@ -523,6 +523,7 @@ aequorin
 aeration
 aerations
 aerator
+aeried
 aeriest
 aerify
 aerifying
@@ -1305,6 +1306,7 @@ anaphora
 anaphorically
 anaphrodisiacs
 anaphylactoid
+anaphylaxis
 anarch
 anarchies
 anarchist
@@ -2870,6 +2872,7 @@ backseat
 backset
 backsets
 backshore
+backside
 backsides
 backslapper
 backslappers
@@ -3187,6 +3190,7 @@ basing
 basions
 bask
 basketful
+basketwork
 basketworks
 basmati
 basmatis
@@ -3455,6 +3459,7 @@ beeping
 beeriness
 beeswings
 beetle
+beetlers
 beetling
 beezers
 befell
@@ -4006,6 +4011,7 @@ birder
 birders
 birdfarm
 birdfarms
+birdied
 birdies
 birdings
 birdlife
@@ -4498,6 +4504,7 @@ boogey
 boogeying
 boogeyman
 boogied
+boogiemen
 boogying
 boohooing
 boohoos
@@ -5768,6 +5775,7 @@ caprices
 caprifications
 caprifigs
 caprioled
+caprioles
 caprioling
 caprolactam
 capsaicin
@@ -8348,6 +8356,7 @@ constantans
 constatives
 constellating
 consternate
+consternates
 consternating
 consternation
 consternations
@@ -8527,6 +8536,7 @@ conveyancer
 conveyancers
 conveyances
 conveyor
+conveyorised
 conveyorize
 conveyors
 convict
@@ -9068,6 +9078,7 @@ cramped
 crampfish
 crampier
 crampiest
+cramping
 crampon
 crampons
 cramps
@@ -9075,6 +9086,7 @@ cranberries
 cranberry
 cranch
 craning
+craniometry
 craniosacral
 craniotomy
 crank
@@ -11174,6 +11186,7 @@ diestrous
 diestrum
 diestrums
 diestruses
+dieters
 dietetic
 diets
 diff
@@ -12904,6 +12917,7 @@ elain
 elains
 elaphine
 elapse
+elapsed
 elapsing
 elasmobranch
 elastic
@@ -14894,6 +14908,7 @@ female
 feme
 feminacies
 feminacy
+feminazi
 feminines
 feministic
 feminity
@@ -15821,6 +15836,7 @@ foreignisms
 forejudge
 forejudges
 forelady
+forelimb
 foremanship
 foremasts
 foremost
@@ -18093,6 +18109,7 @@ hairlike
 hairlock
 hairlocks
 hairpiece
+hairsplitting
 hairsplittings
 hairsprays
 hairwork
@@ -22848,6 +22865,7 @@ legible
 legionnaire
 legislatives
 legislators
+legislatorships
 legists
 legit
 legitimating
@@ -23307,6 +23325,7 @@ livener
 livening
 liver
 livered
+liveried
 liverishness
 liverleaf
 livers
@@ -25922,6 +25941,7 @@ moralizing
 morassy
 moratoria
 morays
+morbidity
 mordancy
 mordanted
 mordantly
@@ -28445,6 +28465,7 @@ outflowing
 outflown
 outflows
 outfly
+outflying
 outfool
 outfooling
 outgain
@@ -30876,6 +30897,8 @@ pinkishnesses
 pinkroot
 pinna
 pinnace
+pinnae
+pinning
 pinocle
 pinocytosis
 pinon
@@ -31122,6 +31145,7 @@ plausibilities
 plausibleness
 plausibly
 plausive
+playact
 playbill
 playbills
 playbook
@@ -33091,6 +33115,7 @@ purportedly
 purposed
 purposeless
 purposively
+purpure
 purr
 purring
 purser
@@ -35713,6 +35738,7 @@ right
 righteousness
 righter
 rightism
+rightisms
 rightists
 rightmost
 rightnesses
@@ -36464,6 +36490,7 @@ sandworm
 sandworms
 sandwort
 sanenesses
+sanest
 sanga
 sangarees
 sangars
@@ -37116,6 +37143,7 @@ seawan
 seawants
 seaward
 seawares
+seawaters
 seaworthinesses
 sebasic
 seborrhea
@@ -38745,6 +38773,7 @@ sneeze
 sneezer
 sneezeweeds
 snell
+snibbing
 snickersnee
 snidest
 sniffier
@@ -40841,6 +40870,7 @@ sully
 sulphates
 sulphid
 sulphides
+sulphur
 sulphurise
 sulphurising
 sulphurs
@@ -41191,6 +41221,7 @@ suspirations
 suss
 sustain
 susurrant
+susurrated
 susurration
 sutlers
 sutra
@@ -41874,6 +41905,7 @@ teen
 teenaged
 teenager
 teener
+tees
 teeterboards
 teetering
 teethe
@@ -44332,6 +44364,7 @@ undertrick
 underuse
 underused
 underutilize
+undervaluations
 undervests
 underwater
 underweights
@@ -44806,6 +44839,7 @@ unschooled
 unscrambling
 unscrew
 unscrews
+unscriptural
 unseam
 unsearchably
 unseasonably
@@ -45807,6 +45841,7 @@ vitiate
 vitiates
 vitiations
 viticulture
+viticulturists
 vitrains
 vitric
 vitrics
