@@ -1789,6 +1789,7 @@ apatosaur
 apatosaurs
 ape
 aper
+aperiodic
 aperiodically
 apers
 aperture
@@ -2375,6 +2376,7 @@ assumption
 assumptions
 assurable
 assuredness
+assurer
 assures
 assuror
 assurors
@@ -3092,6 +3094,7 @@ barbarism
 barbarities
 barbarizing
 barbarous
+barbiturate
 barbiturates
 barbless
 barbwires
@@ -4425,6 +4428,7 @@ bogging
 boggish
 boggling
 boggy
+bogus
 bogusness
 bogwoods
 bogymen
@@ -6809,6 +6813,7 @@ chiropodist
 chiropractic
 chiropterans
 chiropters
+chirped
 chirper
 chirpily
 chirred
@@ -8744,6 +8749,7 @@ corkscrew
 corkwood
 cormlike
 cormoid
+corn
 cornball
 cornballs
 cornbraiding
@@ -10312,6 +10318,7 @@ deconditions
 decongestion
 decongests
 deconstructs
+decontaminate
 decontaminators
 decontrol
 decontrolled
@@ -11658,6 +11665,7 @@ disgustful
 dishabille
 disharmonious
 dishclouts
+disheartened
 disheartenment
 disheartens
 dishelmed
@@ -12403,6 +12411,7 @@ drip
 drippers
 drippiest
 drippily
+drippings
 drips
 dripstones
 dript
@@ -12733,6 +12742,7 @@ earlship
 earmark
 earmarked
 earner
+earnestness
 earphone
 earpiece
 earringed
@@ -12941,6 +12951,7 @@ eftsoons
 egad
 egalitarian
 egalitarianism
+egalitarianisms
 egalitarians
 egalites
 egers
@@ -14628,6 +14639,7 @@ facer
 facers
 faces
 facete
+facetiae
 facetious
 facia
 faciends
@@ -15252,6 +15264,7 @@ fingerer
 fingerpicked
 fingerpickings
 fingerposts
+fingerprinted
 fingerprintings
 fingertips
 finial
@@ -20594,6 +20607,7 @@ ineducable
 ineffabilities
 ineffably
 ineffaceability
+ineffectuality
 inefficiently
 inefficients
 inelasticity
@@ -20952,6 +20966,7 @@ instantness
 instarring
 instate
 instated
+instating
 instauration
 insteps
 instigate
@@ -23305,6 +23320,7 @@ limpet
 limpets
 limpid
 limpidity
+limpidness
 limpidnesses
 limpingly
 limpsiest
@@ -29491,6 +29507,7 @@ palaestrae
 palanquins
 palatable
 palatably
+palatalizations
 palatalize
 palatalizes
 palatialnesses
@@ -29758,6 +29775,7 @@ paralysis
 paralytic
 paralytics
 paralyzers
+paralyzes
 paralyzing
 paramagnet
 paramagnetic
@@ -30006,6 +30024,7 @@ pathless
 pathobiologies
 pathognomonic
 pathologies
+pathologist
 pathologists
 pathophysiology
 pathos
@@ -31665,6 +31684,7 @@ polygamizes
 polygene
 polyglots
 polygonally
+polygony
 polygraph
 polygraphic
 polygraphing
@@ -32064,6 +32084,7 @@ pranging
 prangs
 prankishly
 prankster
+praos
 prater
 pratfall
 pratfalls
@@ -32355,6 +32376,7 @@ prenticing
 prenumbers
 preobtain
 preoccupancy
+preordainments
 preordering
 prepackage
 prepackaged
@@ -32622,6 +32644,7 @@ princesse
 principalships
 principle
 principles
+printabilities
 printability
 printed
 printeries
@@ -32705,6 +32728,7 @@ proctitises
 proctologies
 proctored
 proctors
+proctorships
 procurations
 procuratorial
 procure
@@ -33838,6 +33862,7 @@ rallyists
 ralphed
 ramate
 ramble
+rambling
 rambunctiously
 ramees
 ramekin
@@ -35022,6 +35047,7 @@ remilitarizes
 reminded
 reminding
 reminds
+reminisce
 reminiscently
 remints
 remises
@@ -35344,6 +35370,7 @@ reseason
 reseated
 reseau
 reseda
+reseeking
 reseeks
 resees
 reseized
@@ -35371,6 +35398,7 @@ reservoirs
 resetter
 resetters
 resettling
+resewn
 resews
 reshaving
 reshined
@@ -35937,6 +35965,7 @@ ride
 rideable
 riders
 rides
+ridgebacks
 ridged
 ridgel
 ridgels
@@ -37475,6 +37504,7 @@ seeled
 seeling
 seely
 seem
+seemings
 seemliest
 seemlinesses
 seems
@@ -39339,6 +39369,7 @@ soothingnesses
 soothly
 soothsay
 soothsayer
+soothsayers
 soothsaying
 soothsayings
 soothsays
@@ -39947,6 +39978,7 @@ squealing
 squeamishly
 squeamishness
 squeegeed
+squeegees
 squeezability
 squeezers
 squelches
@@ -43884,6 +43916,7 @@ tuberculoses
 tuberculous
 tuberoid
 tuberous
+tubes
 tubeworks
 tubfuls
 tubifexes
@@ -46467,6 +46500,7 @@ warreners
 warrens
 warriors
 warship
+warships
 warsle
 warstle
 wartiest
@@ -46606,6 +46640,7 @@ weathermen
 weatherperson
 weatherpersons
 weathers
+weatherworn
 weavers
 weaves
 web
