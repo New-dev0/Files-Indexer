@@ -314,6 +314,7 @@ acrylics
 acrylonitrile
 act
 actinia
+actinians
 actinias
 actinium
 actinoid
@@ -768,6 +769,7 @@ airshot
 airshows
 airspace
 airstrikes
+airt
 airthed
 airthing
 airts
@@ -1246,6 +1248,7 @@ amylase
 amylases
 amylenes
 amylogen
+amyloid
 amyloidosis
 amyloids
 amyloplasts
@@ -1797,6 +1800,7 @@ aphasias
 aphasics
 aphid
 aphides
+aphidian
 aphids
 aphis
 apholates
@@ -2087,6 +2091,7 @@ arenites
 areolated
 areole
 arete
+arfs
 argala
 argental
 argentums
@@ -2193,6 +2198,7 @@ arthralgias
 arthritis
 arthrodeses
 arthrodesis
+arthropodan
 arthropods
 artichoke
 artichokes
@@ -11340,6 +11346,7 @@ dinghies
 dingier
 dingiest
 dingle
+dingoes
 dinking
 dinkums
 dinky
@@ -12052,6 +12059,7 @@ domineer
 domineered
 dominicker
 dominies
+dominique
 dominium
 domino
 dominoes
@@ -12155,6 +12163,7 @@ doubters
 doubtful
 doubtingly
 doubtlessly
+doubtlessness
 douched
 douches
 doughboy
@@ -13524,6 +13533,7 @@ ensouled
 ensphere
 ensphered
 enstatite
+ensurers
 enswathed
 enswathes
 entailers
@@ -16111,6 +16121,7 @@ franc
 franchise
 franchisees
 francium
+francize
 francized
 francs
 frangipane
@@ -18806,6 +18817,7 @@ heroin
 heroine
 heroins
 heroized
+herpes
 herpesvirus
 herpesviruses
 herpetic
@@ -19530,6 +19542,7 @@ huskiness
 huskinesses
 husking
 hussar
+huswifes
 hutch
 hutching
 hutlike
@@ -20585,6 +20598,7 @@ inextricability
 infallibility
 infallibly
 infamous
+infamy
 infancies
 infancy
 infant
@@ -21533,9 +21547,11 @@ isolations
 isoleads
 isoleucines
 isolines
+isomerases
 isomerism
 isomerize
 isomerous
+isomorphs
 isopachs
 isophotal
 isophotes
@@ -22140,6 +22156,7 @@ kerchiefed
 kerchieves
 kerchoo
 kerfed
+kermis
 kern
 kerne
 kernes
@@ -23592,6 +23609,7 @@ looney
 loonie
 looninesses
 loons
+loopholed
 loopinesses
 loosely
 looseness
@@ -23899,6 +23917,7 @@ machineries
 machinists
 machismo
 machismos
+machos
 machzors
 macintosh
 mackintoshes
@@ -25564,6 +25583,7 @@ misprices
 misprinted
 misprints
 misprized
+misprizer
 misprizes
 misprograms
 mispronounced
@@ -26149,6 +26169,7 @@ motormen
 motorships
 motorway
 mott
+motte
 mottling
 motts
 mouchoir
@@ -26815,6 +26836,7 @@ neologies
 neologist
 neologists
 neomorphs
+neomycins
 neonatologies
 neonatology
 neoned
@@ -27455,6 +27477,7 @@ nonresponse
 nonretractile
 nonrival
 nonrubber
+nonruminant
 nonruminants
 nonsaponifiable
 nonschool
@@ -28402,6 +28425,7 @@ ossetra
 ossicular
 ossific
 ossification
+ossifrages
 ossifying
 osteal
 osteitides
@@ -29844,6 +29868,7 @@ pasquil
 pasquinades
 passacaglia
 passages
+passagework
 passageworks
 passalong
 passe
@@ -32129,6 +32154,7 @@ prednisolones
 predominating
 predomination
 preed
+preedit
 preedited
 preelect
 preelecting
@@ -33799,6 +33825,7 @@ rapers
 raphes
 raphide
 rapidities
+rapidness
 rapids
 rapini
 rapists
@@ -35103,6 +35130,7 @@ reportable
 reportage
 reported
 reportedly
+reporting
 repos
 reposals
 reposeful
@@ -35904,6 +35932,7 @@ rimrocks
 rin
 ringbarks
 ringbolt
+ringer
 ringers
 ringhals
 ringlet
@@ -36596,6 +36625,7 @@ sanctify
 sanctifying
 sanction
 sanctioning
+sandable
 sandaling
 sandals
 sandalwood
@@ -39020,6 +39050,7 @@ soapy
 soar
 soared
 soarers
+soave
 sobas
 sobber
 sobbers
@@ -41256,6 +41287,7 @@ superthriller
 supertight
 supervirtuosos
 supervision
+supervisors
 supervisory
 superwaves
 superwide
@@ -43371,6 +43403,7 @@ treasurerships
 treasuries
 treasuring
 treasury
+treatability
 treated
 treaters
 treatises
@@ -44621,6 +44654,7 @@ unfamiliarly
 unfamous
 unfasten
 unfastening
+unfastens
 unfastidious
 unfeelingnesses
 unfeigned
@@ -47091,6 +47125,7 @@ wrapped
 wrapping
 wrasse
 wrasses
+wrassle
 wrassled
 wrastled
 wrath
