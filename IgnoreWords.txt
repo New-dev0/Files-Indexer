@@ -1305,6 +1305,7 @@ analyte
 analytic
 analytical
 analytically
+analyzable
 analyzations
 anamnesis
 ananke
@@ -2548,6 +2549,7 @@ attunements
 attuning
 atween
 aubade
+auberge
 aubretia
 auburn
 aucuba
@@ -2809,6 +2811,7 @@ azlons
 azoic
 azoles
 azotemia
+azotemias
 azotes
 azotised
 azotises
@@ -4813,6 +4816,7 @@ brasses
 brassieres
 brassiest
 brattice
+bratticed
 brattier
 brattinesses
 brattle
@@ -6955,6 +6959,7 @@ choushes
 chowed
 chowhounds
 chowing
+chows
 chresard
 chresards
 chrestomathies
@@ -7229,6 +7234,7 @@ classable
 classed
 classicalities
 classicality
+classicist
 classicists
 classico
 classiest
@@ -7289,6 +7295,7 @@ clencher
 clenches
 clenching
 clepes
+cleping
 clepsydra
 clergywoman
 clergywomen
@@ -10771,6 +10778,7 @@ departments
 departs
 dependabilities
 dependability
+dependable
 dependance
 dependances
 dependant
@@ -11523,6 +11531,7 @@ disapprover
 disarmament
 disarmer
 disarmingly
+disarticulate
 disarticulated
 disassembling
 disassociate
@@ -11798,6 +11807,7 @@ displumed
 displuming
 disposable
 disposables
+disposers
 disposition
 dispositive
 dispossessed
@@ -14037,6 +14047,7 @@ esterify
 esterifying
 esters
 esthesis
+esthete
 esthetic
 esthetician
 estimably
@@ -14278,6 +14289,7 @@ excavate
 exceeds
 excelled
 excellence
+excellency
 excellently
 excelsiors
 except
@@ -14980,6 +14992,7 @@ fecund
 fecundations
 fed
 fedayee
+federacies
 federal
 federalist
 federalized
@@ -19791,6 +19804,7 @@ hypermodernists
 hyperons
 hyperphagia
 hyperplane
+hyperplasia
 hyperplasias
 hyperplastic
 hyperploids
@@ -21690,6 +21704,7 @@ isotropies
 isotropy
 isotypic
 isozymic
+issei
 issuably
 issuance
 issuers
@@ -23273,6 +23288,7 @@ lick
 lickerish
 lickerishly
 lickerishness
+lickers
 lickspittles
 lictor
 lidding
@@ -24630,6 +24646,7 @@ may
 maybushes
 mayed
 mayest
+maying
 mayings
 mayo
 mayonnaises
@@ -26756,6 +26773,7 @@ naivete
 naivetes
 naiveties
 nakedly
+nala
 nalas
 nameable
 namely
@@ -27739,6 +27757,7 @@ nosologies
 nosology
 nostalgias
 nostalgic
+nostalgists
 nosy
 notables
 notably
@@ -30711,6 +30730,7 @@ phalanges
 phalansteries
 phalli
 phallisms
+phallist
 phallists
 phallocentric
 phallus
@@ -32335,6 +32355,7 @@ preestablishes
 preexempts
 preexilic
 preexistences
+preexists
 preexposes
 prefabbing
 prefabricates
@@ -35181,6 +35202,7 @@ renegers
 renegotiable
 renests
 renew
+renewabilities
 renewer
 renigs
 renin
@@ -35716,6 +35738,7 @@ reticulates
 reticulation
 reticulum
 reticulums
+retie
 retied
 retighten
 retightens
@@ -36956,6 +36979,7 @@ satiable
 satiate
 satiating
 satieties
+satinette
 satires
 satirists
 satirize
@@ -37485,6 +37509,7 @@ searobins
 seascouts
 seasickness
 seasonal
+seasons
 seastrands
 seatback
 seatbelts
@@ -37815,6 +37840,7 @@ septime
 septimes
 septum
 sepulchral
+sepulchres
 sequel
 sequelae
 sequelizes
@@ -38110,6 +38136,7 @@ shelfful
 shellack
 shellacking
 shellackings
+shellacks
 shellback
 shellbark
 shellbarks
@@ -38362,6 +38389,7 @@ shroffs
 shroud
 shrublands
 shrubs
+shrug
 shrugging
 shrugs
 shrunk
@@ -39310,6 +39338,7 @@ soever
 sofa
 softback
 softcore
+softcover
 soften
 softens
 softheaded
@@ -41299,6 +41328,7 @@ summiteer
 summoned
 summoners
 summonsing
+sump
 sumps
 sumpters
 sumptuous
@@ -41989,6 +42019,7 @@ tafferels
 taffrails
 tafia
 tagboards
+taggant
 tagliatelles
 taglines
 tagmemes
@@ -42917,6 +42948,7 @@ tiemannites
 tiepins
 tierced
 tiercels
+tiercerons
 tiering
 tiffs
 tigereye
@@ -46008,6 +46040,7 @@ vermifuge
 vermifuges
 vermilion
 vermilioning
+vermoulu
 vermuth
 vernacular
 vernacularism
@@ -46401,6 +46434,7 @@ vowing
 vowless
 vows
 vox
+voyage
 voyageurs
 voyeur
 voyeuristic
@@ -47576,6 +47610,7 @@ yieldable
 yielder
 yielding
 yipes
+yippee
 yippies
 yipping
 yird
