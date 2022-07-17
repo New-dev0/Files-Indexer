@@ -3150,6 +3150,7 @@ barquentine
 barracker
 barracking
 barracks
+barracouta
 barracudas
 barrage
 barraged
@@ -6072,6 +6073,7 @@ castoffs
 castoreum
 castors
 castrates
+castratory
 castratos
 casual
 casually
@@ -6624,6 +6626,7 @@ checkpoint
 checkpoints
 checkroom
 checkrooms
+checkrowing
 checks
 checkup
 checkups
@@ -6762,6 +6765,7 @@ chimerism
 chimleys
 chimney
 chimneylike
+chimneypiece
 chimneypieces
 chimp
 chinaberries
@@ -6986,6 +6990,7 @@ chug
 chukka
 chukkas
 chummier
+chumped
 chumship
 chumships
 chunkier
@@ -7091,6 +7096,7 @@ circumvents
 circuses
 cires
 cirque
+cirrhosis
 cirrus
 cisco
 ciscoes
@@ -12499,6 +12505,7 @@ dubbin
 dubiousness
 dubitation
 ducats
+duchesses
 duchies
 duchy
 duckbills
@@ -12840,6 +12847,7 @@ edaphically
 eddies
 edelweiss
 edentulous
+edge
 edges
 edgewise
 edginesses
@@ -14334,6 +14342,7 @@ exile
 exiles
 exilic
 existed
+existence
 existent
 existential
 existentially
@@ -19329,6 +19338,7 @@ horsehair
 horsehairs
 horsehide
 horsehides
+horselaughs
 horsemanships
 horsepox
 horsepoxes
@@ -21443,6 +21453,7 @@ irk
 irksomeness
 iron
 ironclad
+ironed
 ironic
 ironicalnesses
 ironings
@@ -21889,6 +21900,7 @@ jollyboats
 jolt
 jolter
 joltier
+jolts
 jones
 jonnycake
 jordans
@@ -22456,6 +22468,7 @@ kotowing
 koumis
 koumysses
 kouprey
+kouros
 koussos
 kremlin
 kremlinologies
@@ -22532,6 +22545,7 @@ labrum
 labrusca
 labyrinthine
 laccolith
+laccolithic
 laceless
 lacelike
 lacer
@@ -22610,6 +22624,7 @@ lakings
 lallation
 lallations
 lam
+lamb
 lambasted
 lambda
 lambdoid
@@ -26447,6 +26462,7 @@ muscadets
 muscadines
 muscatel
 muscatels
+muscid
 muscling
 muscovados
 muscularly
@@ -27550,6 +27566,7 @@ nonuniform
 nonuple
 nonurban
 nonurgent
+nonuses
 nonvacant
 nonvalidity
 nonvector
@@ -27752,6 +27769,7 @@ nursed
 nursemaid
 nursemaids
 nurturances
+nurturing
 nutating
 nutbrown
 nutgall
@@ -28867,6 +28885,7 @@ overanalyzing
 overanxieties
 overarming
 overarranging
+overarticulates
 overassertion
 overassertive
 overasserts
@@ -29284,6 +29303,7 @@ owed
 owner
 ownership
 ownerships
+owning
 owns
 owse
 ox
@@ -29409,6 +29429,7 @@ paginates
 paginating
 pagoda
 pagodas
+pagurian
 pagurians
 pagurids
 paiks
@@ -30806,6 +30827,7 @@ phreakers
 phreatophytic
 phthalate
 phthalocyanine
+phthisic
 phthisics
 phycocyanins
 phycoerythrins
@@ -33579,6 +33601,7 @@ quinaries
 quinate
 quincunx
 quincunxial
+quinic
 quinielas
 quinina
 quinoa
@@ -34476,6 +34499,7 @@ reducers
 reducibly
 reducing
 reductase
+reductionisms
 reductions
 reductivenesses
 reductor
@@ -36784,6 +36808,7 @@ sashless
 saskatoons
 sassaby
 sassafrases
+sassinesses
 satangs
 satanically
 satanists
@@ -37968,6 +37993,7 @@ sheol
 shepherd
 shepherded
 shepherdesses
+shepherds
 sheqalim
 sheqel
 sherberts
@@ -38379,6 +38405,7 @@ silverpoint
 silverware
 silvexes
 silviculturally
+simas
 simile
 similitudes
 simioid
@@ -38429,6 +38456,7 @@ sinh
 sinicize
 sink
 sinkers
+sinkholes
 sinking
 sinlessly
 sinned
@@ -39471,6 +39499,7 @@ spaviet
 spavin
 spavins
 spawners
+spawning
 speakable
 speakeasies
 speakers
@@ -44122,6 +44151,7 @@ ukase
 uke
 ukeleles
 ulama
+ulcerate
 ulceration
 ulcerogenic
 ulcers
@@ -44960,6 +44990,7 @@ unperceptive
 unpersuasive
 unpicking
 unpile
+unpiled
 unpins
 unplaced
 unplaited
@@ -46334,6 +46365,7 @@ wallydrags
 walrus
 walruses
 waltzer
+wamblier
 wamefuls
 wamuses
 wand
@@ -46549,6 +46581,7 @@ webfed
 weblike
 weblog
 webpage
+webpages
 webwork
 webworm
 webworms
@@ -47227,6 +47260,7 @@ wyandotte
 wyles
 wyte
 wytes
+wyting
 xantheins
 xanthene
 xanthomata
@@ -47322,6 +47356,7 @@ yauper
 yaupers
 yawed
 yawl
+yawling
 yawn
 yawners
 ycleped
