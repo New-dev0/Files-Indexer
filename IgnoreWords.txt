@@ -444,6 +444,7 @@ admitting
 admix
 admixes
 admixt
+admixtures
 admonisher
 admonishing
 admonishment
@@ -3883,6 +3884,7 @@ bijection
 bijective
 biked
 bikini
+bilabial
 bilabiate
 bilanders
 bilateralisms
@@ -4966,6 +4968,7 @@ broadener
 broadeners
 broadening
 broadens
+broader
 broadleaf
 broadleaves
 broadly
@@ -5037,6 +5040,7 @@ broomsticks
 broomy
 broos
 bros
+brose
 broses
 brosy
 brothered
@@ -5864,6 +5868,7 @@ caravanned
 caravanning
 caravanserai
 caravel
+caraways
 carb
 carbamino
 carbineers
@@ -10223,6 +10228,7 @@ decapitate
 decapitated
 decapitating
 decapitations
+decapod
 decarbonated
 decarbonates
 decarbonizer
@@ -12354,6 +12360,7 @@ draperied
 drapery
 dratted
 dratting
+draughted
 draughts
 drave
 drawable
@@ -13384,6 +13391,7 @@ endameba
 endangering
 endarch
 endarchies
+endarterectomy
 endeared
 endeavored
 endeavour
@@ -16694,6 +16702,7 @@ gammons
 gamodeme
 gamodemes
 gamut
+ganache
 gandering
 ganevs
 gangbanged
@@ -17067,6 +17076,7 @@ ghastlinesses
 ghastly
 ghat
 ghats
+ghazi
 ghazies
 ghees
 gherao
@@ -17680,6 +17690,7 @@ graph
 graphemically
 graphical
 graphically
+graphicnesses
 graphics
 graphite
 graphites
@@ -18209,6 +18220,7 @@ haftaroth
 hag
 hagadist
 hagbushes
+hagbuts
 haggadahs
 haggadic
 haggardness
@@ -19294,6 +19306,7 @@ honorers
 honorific
 honors
 honoured
+honourer
 hooches
 hoodies
 hoodiest
@@ -19945,6 +19958,7 @@ ignorant
 ignorantnesses
 iguanid
 ihrams
+ikons
 ileac
 ilex
 ilia
@@ -21399,6 +21413,7 @@ inventors
 inventress
 inventresses
 invents
+inverities
 inverity
 invernesses
 inversed
@@ -21556,6 +21571,7 @@ irretrievable
 irretrievably
 irreversibly
 irrevocable
+irrevocably
 irrigably
 irrigation
 irrigators
@@ -23295,6 +23311,7 @@ lignosulfonates
 ligulae
 ligule
 liguloid
+ligures
 likabilities
 likableness
 likeable
@@ -23962,6 +23979,7 @@ lyric
 lyricalness
 lyricise
 lyricised
+lyricize
 lyrisms
 lysed
 lysimetric
@@ -24576,6 +24594,7 @@ mavie
 mawkishly
 maxi
 maxillary
+maxilliped
 maxim
 maximalist
 maximally
@@ -26689,6 +26708,7 @@ naboberies
 nabobesses
 nabobish
 nabobisms
+nabobs
 nacho
 nacre
 nada
@@ -27169,6 +27189,7 @@ nippy
 nirvanic
 niter
 nitpick
+nitpicking
 nitrated
 nitride
 nitrided
@@ -27309,6 +27330,7 @@ noncharismatics
 nonchemical
 nonchurchgoer
 nonchurchgoers
+noncitizens
 nonclasses
 nonclassroom
 nonclogging
@@ -27550,6 +27572,7 @@ nonpractical
 nonpregnant
 nonprofessional
 nonprofits
+nonprogrammers
 nonprosses
 nonprossing
 nonpunitive
@@ -29183,6 +29206,7 @@ overmastered
 overmilked
 overmine
 overmined
+overmines
 overmodest
 overmuch
 overnear
@@ -30199,6 +30223,7 @@ pedestalled
 pedestrians
 pedicellate
 pedicle
+pedicles
 pedicular
 pediculous
 pedicures
@@ -33453,6 +33478,7 @@ pyas
 pycnometer
 pycnosis
 pycnotic
+pyelonephritic
 pyelonephritis
 pygmean
 pygmy
@@ -34464,6 +34490,7 @@ recursions
 recurvate
 recusal
 recusals
+recusancies
 recusant
 recusants
 recused
@@ -35720,6 +35747,7 @@ retreating
 retreats
 retrials
 retributory
+retro
 retroact
 retroaction
 retroactions
@@ -36233,6 +36261,7 @@ rompish
 romps
 rondeaux
 rondos
+roofing
 roofings
 rooftop
 rooftops
@@ -38222,6 +38251,7 @@ shophroth
 shoplifted
 shoppe
 shoppers
+shopping
 shoptalk
 shopwindows
 shopworn
@@ -38627,6 +38657,7 @@ skein
 skeining
 skeletal
 skeleton
+skeletonise
 skeletonised
 skeletonising
 skeletonizer
@@ -40624,6 +40655,7 @@ stretta
 streusels
 strewers
 strewing
+strewments
 strewn
 strict
 strictest
@@ -42781,6 +42813,7 @@ thunderbirds
 thunderbolts
 thunderclaps
 thunderclouds
+thunderstones
 thunderstricken
 thunderstruck
 thunk
@@ -45431,6 +45464,7 @@ updraft
 upflinging
 upflow
 upgird
+upgradeable
 upheap
 upheavals
 upheave
@@ -47171,6 +47205,7 @@ wontedly
 woo
 woodbin
 woodblocks
+woodchats
 woodchoppers
 woodcutting
 woodenheaded
