@@ -1,0 +1,20 @@
+[PPT] emit 1-level locking dependencies during lockset analysis,https://web.stanford.edu/~engler/sosp03-racerx.ppt
+[PPT] Survey of Race Condition Analysis Techniques - of Nels Beckman,http://www.nelsbeckman.com/presentations/AnalysisRaceDetectionPresentation.ppt
+[PPT] Type Inference against Races - Computer and Information Science,https://www.cs.uoregon.edu/research/summerschool/summer06/lectures/oregon-atomicity-flanagan3.ppt
+[PPT] Slide 1 - UCSD CSE,https://cseweb.ucsd.edu/~jvoung/race/fse2007_relay_final.ppt
+[PPT] Type Inference against Races - UC Santa Cruz,http://www.soe.ucsc.edu/~cormac/talks/tutorial-pldi05-atomicity1a.ppt
+[PPT] www.cs.cmu.edu/afs/cs/Web/People/lba/LBA_reading_g...,http://www.cs.cmu.edu/afs/cs/Web/People/lba/LBA_reading_group/slides/Tunji-RaceTrackReadingGroup.ppt
+[PPT] Race Analysis,http://crystal.uta.edu/~ylei/cse6324/data/race-analysis.ppt
+[PPT] Concurrency errors,http://www.cs.columbia.edu/~junfeng/09sp-w4118/lectures/l11-eraser.ppt
+[PPT] Master Keying - Capital Lock,https://www.capitalock.com/wp-content/uploads/2020/11/Keys-and-Key-Systems.ppt
+[PPT] Eraser: A Dynamic Data Race Detector for Multi-threaded Programs,https://swtv.kaist.ac.kr/lab-orientation/eraser.ppt
+[PPT] PowerPoint Presentation - Courses,http://courses.cs.vt.edu/cs5204/fall07-gback/presentations/eraser_patrick.ppt
+[PPT] Eraser: A Dynamic Data Race Detector for Multithreaded ... - Courses,http://courses.cs.vt.edu/cs5204/fall04/studentslides/eraser_pilsung.ppt
+"[PPT] RacerX: Effective, Static Detection of Race Conditions and Deadlocks",https://swtv.kaist.ac.kr/lab-orientation/RacerX.ppt
+[PPT] An Overview of Virtual Machine Architectures - UPenn CIS,http://www.cis.upenn.edu/~lee/04cis700/slides/atomicity.ppt
+[PPT] DiVer - UPenn CIS,https://www.cis.upenn.edu/~alur/Spring09/agupta-vmcai09.ppt
+[PPT] Technologies for finding errors in object-oriented software - Microsoft,https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/Tunisia2003-Leino-Lecture-0.ppt
+[PPT] Data Race Detection,http://www.it.uu.se/research/project/saapp/papers/netzer/L11%2520DataRace.ppt
+[PPT] Efficient On-the-Fly Data Race Detection in C++ Multithreaded ...,http://www.cs.technion.ac.il/~assaf/talks/Kyril/MultiRace.ppt
+[PPT] SigRace: Signature Based Data Race Detection - Iscaconf.org,https://iscaconf.org/isca2009/pres/30.ppt
+[PPT] Products - Spark Minda,https://sparkminda.com/wp-content/uploads/sites/2/2018/07/mcl-presentation-latest-jul18.ppt
