@@ -1,0 +1,5 @@
+Functions/Set-IisHttpRedirect.ps1 2.7.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/Carbon/2.7.0/Content/Functions%255CSet-IisHttpRedirect.ps1
+Functions/Install-IisVirtualDirectory.ps1 2.4.1 - PowerShell Gallery,https://www.powershellgallery.com/packages/Carbon/2.4.1/Content/Functions%255CInstall-IisVirtualDirectory.ps1
+sitecore-installer/Enable-IisSecurityAuthentication.ps1 at master ...,https://github.com/reyrahadian/sitecore-installer/blob/master/Carbon-1.6.0/Carbon/IIS/Enable-IisSecurityAuthentication.ps1
+Functions/Get-IisSecurityAuthentication.ps1 2.8.0 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/Carbon/2.8.0/Content/Functions%255CGet-IisSecurityAuthentication.ps1
+Functions/Test-IisAppPool.ps1 2.5.3 - PowerShell Gallery,https://psg-prod-centralus.cloudapp.net/packages/Carbon/2.5.3/Content/Functions%255CTest-IisAppPool.ps1
