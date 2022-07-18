@@ -34,10 +34,12 @@ Zoo
 abridgers
 abridges
 abridging
+abridgment
 abridgments
 abrogable
 abrogated
 abruptions
+abruptness
 abruptnesses
 abscisin
 abscisins
@@ -759,6 +761,7 @@ ain
 aiolis
 airbrushed
 airbursts
+airbuses
 airbusses
 airchecks
 airdrop
@@ -2476,6 +2479,7 @@ atelectasis
 atelic
 atemporal
 atenolol
+athanasies
 athelings
 atherogenic
 atheroma
@@ -2721,6 +2725,7 @@ autotomized
 autotoxic
 autumn
 autunites
+auxotrophic
 avail
 availing
 avant
@@ -4048,6 +4053,7 @@ biotechnologies
 biotechnologist
 biotical
 biotics
+biotite
 biotites
 biotitic
 biotope
@@ -5827,6 +5833,7 @@ canyoning
 canyons
 canzonas
 canzonets
+capabilities
 capablenesses
 capabler
 capablest
@@ -8784,6 +8791,7 @@ copulae
 copulates
 copulatives
 copy
+copyboy
 copycat
 copydesk
 copyedit
@@ -9012,6 +9020,7 @@ cottons
 cottonseeds
 cottonwood
 cotyledons
+coucher
 couches
 couchette
 cougar
@@ -9219,6 +9228,7 @@ crafting
 craftsman
 craftsmanships
 craftwork
+crag
 craggier
 craggy
 cram
@@ -12329,6 +12339,7 @@ douched
 douches
 doughboy
 doughboys
+doughface
 doughiest
 doughlike
 doughtily
@@ -13129,6 +13140,7 @@ ejects
 eked
 ekistics
 ektexine
+ekuele
 elaborations
 elaborative
 elain
@@ -14427,6 +14439,7 @@ exclusion
 exclusions
 exclusive
 exclusives
+exclusivist
 exclusivists
 excogitate
 excogitations
@@ -18142,6 +18155,7 @@ grutching
 gryphon
 guacamoles
 guaiacols
+guan
 guanabanas
 guanacos
 guanays
@@ -18355,6 +18369,7 @@ haboobs
 habus
 haciendado
 hackable
+hackberries
 hacker
 hackers
 hacking
@@ -19369,6 +19384,7 @@ hols
 holsteins
 holster
 holstered
+holystone
 holystoned
 homaging
 homburgs
@@ -20845,6 +20861,7 @@ ineligibilities
 ineligible
 ineligibles
 ineluctably
+ineludible
 inenarrable
 ineptitude
 ineptness
@@ -24003,6 +24020,7 @@ loutishnesses
 louvre
 louvres
 lovablenesses
+lovably
 lovage
 lovages
 lovats
@@ -25207,6 +25225,7 @@ messenger
 messiah
 messiahships
 messier
+messiest
 messuages
 mestees
 mestiza
@@ -26381,6 +26400,7 @@ moorages
 moorcock
 moored
 moorfowls
+moorhen
 mooriest
 moory
 moosebird
@@ -26566,6 +26586,7 @@ mouthpiece
 mouthwash
 mouthy
 moutons
+movabilities
 movable
 movableness
 movelessly
@@ -31902,6 +31923,7 @@ poikilotherms
 poilu
 poilus
 poinded
+poinsettia
 pointedness
 pointier
 pointillism
@@ -33823,6 +33845,7 @@ pyrolizing
 pyrology
 pyrolyses
 pyrolysis
+pyrolyzable
 pyrolyze
 pyrolyzers
 pyromancy
@@ -35020,6 +35043,7 @@ refer
 refereed
 refereeing
 references
+referral
 referrals
 refights
 refigure
@@ -35690,6 +35714,7 @@ repurposes
 repursue
 repursued
 reputable
+reputes
 reputing
 requesters
 requesting
@@ -37256,6 +37281,7 @@ sarsars
 sarsen
 sartor
 sartorial
+sash
 sashays
 sashing
 sashless
@@ -38305,6 +38331,7 @@ sexy
 sforzandi
 sforzandos
 sha
+shacklebone
 shacklebones
 shacklers
 shackling
@@ -38979,6 +39006,7 @@ sisals
 sisterhoods
 sistroid
 sistrums
+sitarists
 sitcoms
 siting
 sitology
@@ -39287,6 +39315,7 @@ slotback
 slotbacks
 slothful
 slothfully
+slotted
 slotter
 slouchers
 slouchier
@@ -39370,6 +39399,7 @@ smartweeds
 smash
 smashed
 smashers
+smashing
 smashups
 smatter
 smattering
@@ -41893,6 +41923,7 @@ suppurations
 supramolecular
 suprarenals
 supremacies
+supremacists
 suprematist
 supremenesses
 supremest
@@ -43281,6 +43312,7 @@ tiddledywinks
 tiddler
 tiddly
 tided
+tideless
 tidelike
 tidemarks
 tiderips
@@ -44710,6 +44742,7 @@ ukeleles
 ulama
 ulcerate
 ulceration
+ulcerations
 ulcerogenic
 ulcers
 ulnad
@@ -45692,6 +45725,7 @@ unsettlements
 unsews
 unsexing
 unsexual
+unshaded
 unshamed
 unshared
 unshelling
@@ -46331,6 +46365,7 @@ vendable
 vendables
 vendee
 vendibly
+venditions
 veneered
 veneers
 venenes
