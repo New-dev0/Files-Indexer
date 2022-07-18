@@ -1000,6 +1000,7 @@ allyls
 alma
 almagest
 almandines
+almandite
 alme
 almeh
 almemar
@@ -3252,6 +3253,7 @@ baseplates
 baserunning
 baserunnings
 bashed
+bashers
 bashful
 basic
 basicity
@@ -4174,6 +4176,7 @@ bituminization
 bituminizations
 bituminizes
 biunique
+bivalve
 bivouac
 bizarreness
 bizarres
@@ -5823,6 +5826,7 @@ canonised
 canonises
 canonizations
 canonized
+canonizer
 canoodled
 canopic
 canopy
@@ -5922,6 +5926,7 @@ captioned
 captions
 captivate
 captivates
+captivations
 captivators
 captivities
 captopril
@@ -6246,6 +6251,7 @@ catechizer
 catechol
 catecholamine
 catechols
+catechumens
 categorised
 categorises
 categorising
@@ -8541,6 +8547,7 @@ constituting
 constrained
 constrainedly
 constrictive
+constrictor
 constricts
 constringe
 construal
@@ -12159,6 +12166,7 @@ docile
 docilely
 docility
 dockage
+docker
 docking
 dockyard
 doctorates
@@ -12486,6 +12494,7 @@ dragged
 draggiest
 draggle
 draggled
+draggy
 dragline
 dragnet
 dragonheads
@@ -15372,6 +15381,7 @@ fictionist
 fictionizations
 fictitious
 fictitiousness
+fiddled
 fiddlehead
 fiddleheads
 fiddler
@@ -15532,6 +15542,7 @@ firebrick
 fireclay
 fireclays
 firecrackers
+fired
 firedamp
 firedogs
 firefanged
@@ -16568,6 +16579,7 @@ frostwork
 frostworks
 froth
 frothiest
+frothing
 frothy
 frotteur
 frotteurs
@@ -17012,6 +17024,7 @@ gasohol
 gasometer
 gasometers
 gasp
+gasper
 gasps
 gassiest
 gassinesses
@@ -18456,6 +18469,7 @@ haftarah
 haftarahs
 haftaroth
 hag
+hagadic
 hagadist
 hagbushes
 hagbuts
@@ -26870,6 +26884,7 @@ murkier
 murmured
 murmuring
 murmurs
+murphy
 murr
 murrains
 murras
@@ -27799,6 +27814,7 @@ nonfictions
 nonfigurative
 nonfinal
 nonfinancial
+nonfluencies
 nonfluids
 nonfluorescent
 nonflying
@@ -28080,6 +28096,7 @@ nosologies
 nosology
 nostalgias
 nostalgic
+nostalgist
 nostalgists
 nosy
 notables
@@ -29044,6 +29061,7 @@ outdazzling
 outdebated
 outdebates
 outdesigned
+outdistances
 outdistancing
 outdodge
 outdoer
@@ -29940,6 +29958,7 @@ palatalizes
 palatialness
 palatialnesses
 palavered
+palaverer
 palaverers
 palavering
 palazzos
@@ -32300,6 +32319,7 @@ porticos
 portieres
 porting
 portion
+portioners
 portionless
 portions
 portliest
@@ -32574,6 +32594,7 @@ preachments
 preachy
 preact
 preadapt
+preadaptation
 preadaptations
 preadaptive
 preadmit
@@ -33196,6 +33217,7 @@ procrustean
 procryptic
 proctitises
 proctologies
+proctology
 proctored
 proctors
 proctorships
@@ -33397,6 +33419,7 @@ proprioceptions
 proprioceptor
 props
 proptoses
+proptosis
 propulsive
 propylaea
 propylene
@@ -33691,6 +33714,7 @@ puggish
 puggree
 puggries
 puggry
+pugh
 pugilism
 pugilist
 pugilists
@@ -35406,6 +35430,7 @@ reinvent
 reinvented
 reinventing
 reinvestigating
+reinvestigation
 reinvesting
 reinvestment
 reinvoke
@@ -37007,6 +37032,7 @@ rushee
 rusher
 rushers
 rushiest
+rushlight
 rusks
 russet
 rustical
@@ -39149,6 +39175,7 @@ sizes
 siziness
 sizzler
 sizzling
+skag
 skaldship
 skanker
 skankier
@@ -41850,6 +41877,7 @@ sunspot
 suntan
 suntanned
 suntans
+sunups
 sunwards
 supe
 superably
@@ -42062,6 +42090,7 @@ surcoats
 surd
 sure
 surenesses
+surer
 sureties
 surety
 surfacers
@@ -43039,6 +43068,7 @@ terpinols
 terpsichorean
 terra
 terraces
+terrae
 terraforming
 terrains
 terrazzo
@@ -44935,6 +44965,7 @@ umami
 umbellets
 umbellifer
 umbellifers
+umbellule
 umber
 umbering
 umbilici
@@ -45438,6 +45469,7 @@ unexpurgated
 unfaded
 unfairer
 unfaith
+unfaithful
 unfaithfully
 unfamiliarly
 unfamous
@@ -45546,6 +45578,7 @@ unideological
 unific
 uniform
 uniformitarians
+uniformness
 unilingual
 unillusioned
 unilobed
@@ -45879,6 +45912,7 @@ unsmiling
 unsnagged
 unsnap
 unsnapped
+unsnaps
 unsnarling
 unsociable
 unsold
@@ -47181,6 +47215,7 @@ warplane
 warranted
 warranter
 warrantied
+warranties
 warrantor
 warrants
 warrantying
