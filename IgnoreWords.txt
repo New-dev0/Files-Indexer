@@ -925,6 +925,7 @@ alleger
 allegories
 allegorization
 allegorize
+allegory
 allegretto
 allegrettos
 allegros
@@ -1034,6 +1035,7 @@ alterity
 alternants
 alternated
 alternating
+alternator
 alternators
 alters
 althaea
@@ -1723,6 +1725,7 @@ antirationality
 antirealism
 antireform
 antirejection
+antireligious
 antiritualism
 antiritualisms
 antiroll
@@ -2194,6 +2197,7 @@ arrivers
 arrives
 arrivistes
 arroba
+arrogate
 arrogated
 arrowhead
 arrowlike
@@ -2332,6 +2336,7 @@ assais
 assassinating
 assassinator
 assaulting
+assaultive
 assaultively
 assaults
 assays
@@ -2344,6 +2349,7 @@ assentation
 assented
 assenters
 assents
+asserted
 asserter
 asserting
 assertion
@@ -5507,6 +5513,7 @@ cadaverines
 caddices
 caddis
 caddised
+caddisfly
 caddisworms
 caddy
 caddying
@@ -7461,6 +7468,7 @@ clubhead
 clubheads
 clubroot
 clubs
+cluing
 clumber
 clumping
 clumsier
@@ -8637,6 +8645,7 @@ conversancies
 conversancy
 conversazioni
 converse
+converser
 converses
 conversional
 convertaplane
@@ -8977,6 +8986,7 @@ cotransfers
 cottager
 cottered
 cottier
+cottiers
 cottoned
 cottons
 cottonseeds
@@ -9616,6 +9626,7 @@ cuds
 cue
 cueing
 cuestas
+cuff
 cuffing
 cufflink
 cufflinks
@@ -10300,6 +10311,7 @@ deceased
 decedent
 deceitful
 deceitfully
+deceives
 decelerate
 decelerated
 decelerations
@@ -14088,6 +14100,7 @@ esprit
 espy
 essayed
 essayer
+essaying
 essayistic
 essayists
 essentialisms
@@ -16133,6 +16146,7 @@ forint
 forker
 forkfuls
 forkless
+forklifted
 forklifting
 forlornest
 forlornness
@@ -16552,6 +16566,7 @@ fullmouthed
 fullness
 fulminated
 fulminic
+fulnesses
 fulsomenesses
 fumarase
 fumers
@@ -17178,6 +17193,7 @@ geum
 gewgawed
 geyserites
 gharris
+gharry
 ghastfully
 ghastlinesses
 ghastly
@@ -21367,6 +21383,7 @@ interparty
 interpermeating
 interphalangeal
 interphase
+interplants
 interpleaded
 interpolating
 interposing
@@ -22638,6 +22655,7 @@ knots
 knotters
 knotting
 knottings
+knowable
 knower
 knowing
 knowingly
@@ -24364,6 +24382,7 @@ maltreaters
 maltreating
 maltreatment
 maltreats
+malversation
 malversations
 mambo
 mamboes
@@ -25126,6 +25145,7 @@ mesothoracic
 mesotron
 mesotrons
 mesozoan
+mesozoic
 mesquite
 messaged
 messages
@@ -27092,6 +27112,7 @@ negligibly
 negotiability
 negotiating
 negritude
+neif
 neifs
 neighboring
 neighborly
@@ -29015,6 +29036,7 @@ outrance
 outranks
 outrated
 outrating
+outraved
 outre
 outreasoned
 outreasons
@@ -29165,6 +29187,7 @@ overawing
 overbearing
 overbearingly
 overbears
+overbeating
 overbeats
 overbejeweled
 overbilled
@@ -29235,6 +29258,7 @@ overdemanding
 overdependence
 overdeveloped
 overdeveloping
+overdirecting
 overdiscounted
 overdominant
 overdose
@@ -29386,6 +29410,7 @@ overmanned
 overmanning
 overmantels
 overmastered
+overmilk
 overmilked
 overmine
 overmined
@@ -33457,8 +33482,10 @@ puddlier
 puddly
 pudenda
 pudgiest
+pudginesses
 pudibund
 pudic
+puds
 puerile
 puerilely
 puerperae
@@ -34155,6 +34182,7 @@ ramtil
 ramtilla
 ramulose
 ran
+rance
 ranched
 ranchos
 rancidities
@@ -36873,6 +36901,7 @@ sagamen
 sagamores
 saganash
 saganashes
+sage
 sagebrush
 sagebrushes
 sagely
@@ -37429,6 +37458,7 @@ schrod
 schtick
 schticks
 schtik
+schul
 schuss
 schussboomer
 schussboomers
@@ -38880,6 +38910,7 @@ situp
 situses
 sixteenmo
 sixteens
+sixteenth
 sixtes
 sixth
 sixths
@@ -39007,6 +39038,7 @@ skyman
 skymen
 skyrocket
 skysail
+skyscrapers
 skysurf
 skysurfer
 skywalks
@@ -42353,6 +42385,7 @@ tankfuls
 tankinis
 tankless
 tankships
+tannable
 tannages
 tanned
 tanners
@@ -43125,6 +43158,7 @@ thyroiditises
 thyroids
 thyrotoxicoses
 thyrotrophin
+thyrotropic
 thyrses
 thyrsus
 tiara
@@ -46183,6 +46217,7 @@ vellicates
 vellums
 velocity
 velum
+velure
 velures
 velverets
 velveted
