@@ -301,6 +301,7 @@ acromegaly
 acromia
 acronycal
 acropetal
+acropetally
 acrophobia
 acrosomal
 acrosomes
@@ -2146,6 +2147,7 @@ armory
 armour
 armourers
 armouries
+armouring
 armours
 armrest
 armrests
@@ -2711,6 +2713,7 @@ avellane
 avenger
 avenging
 aventurine
+averagenesses
 averments
 averse
 averseness
@@ -5601,6 +5604,7 @@ callbacks
 callees
 calligraphers
 calligraphists
+calligraphy
 callings
 callipygian
 callithumps
@@ -9768,6 +9772,7 @@ custodian
 custodianship
 custodianships
 custody
+customarinesses
 customer
 customhouses
 customizer
@@ -10837,6 +10842,7 @@ deportment
 deportments
 deposal
 deposed
+deposer
 deposes
 depositary
 depositing
@@ -13681,6 +13687,7 @@ entireness
 entities
 entitle
 entitled
+entitlements
 entity
 entoblast
 entoblasts
@@ -15818,6 +15825,7 @@ flyboys
 flybridge
 flybys
 flyleaf
+flyless
 flyoff
 flyoffs
 flyovers
@@ -16407,6 +16415,7 @@ frontmen
 frontpage
 frontpaging
 frosh
+frostbit
 frostbite
 frosted
 frostfish
@@ -16830,6 +16839,7 @@ garnishing
 garote
 garoted
 garotes
+garoting
 garotters
 garottes
 garotting
@@ -21158,6 +21168,7 @@ intentional
 intentions
 intents
 interabangs
+interactants
 interacted
 interallelic
 interarch
@@ -21948,6 +21959,7 @@ jessamine
 jessant
 jesters
 jesting
+jestings
 jests
 jesuitic
 jesuitical
@@ -22538,6 +22550,7 @@ knacker
 knackery
 knacks
 knackwurst
+knapped
 knapper
 knapsacks
 knars
@@ -22800,6 +22813,7 @@ lamentable
 lamentableness
 lamentably
 lamentations
+lamenters
 lamenting
 lamer
 laminal
@@ -23756,6 +23770,7 @@ lollipops
 lollop
 lollops
 lolls
+lolly
 lollygagged
 lollypops
 lomein
@@ -24509,6 +24524,7 @@ markswoman
 marlinespikes
 marlins
 marlstone
+marmalade
 marmites
 marplot
 marplots
@@ -26093,6 +26109,7 @@ monocytic
 monodic
 monodies
 monodisperse
+monodists
 monodrama
 monody
 monoecious
@@ -26170,6 +26187,7 @@ monotheistical
 monotints
 monotonically
 monotonicity
+monotonies
 monotonousness
 monotype
 monotypic
@@ -26871,6 +26889,7 @@ narcoleptic
 narcoma
 narcotically
 narcs
+nargileh
 narine
 narks
 narky
@@ -27210,6 +27229,7 @@ nickers
 nickling
 nickname
 nicotiana
+nicotinamide
 nictitant
 nictitates
 nidate
@@ -29854,6 +29874,7 @@ pap
 papa
 papacy
 papadom
+papadum
 papain
 papains
 papal
@@ -31258,6 +31279,7 @@ pinchecks
 pinched
 pinchpenny
 pincushion
+pindling
 pinealectomized
 pinelike
 pinene
@@ -32272,6 +32294,7 @@ preachments
 preachy
 preact
 preadapt
+preadaptations
 preadaptive
 preadmit
 preadmitted
@@ -33551,6 +33574,7 @@ purveyances
 purveys
 push
 pushcarts
+pushchairs
 pushdowns
 pushers
 pushes
@@ -33914,6 +33938,7 @@ racketier
 racking
 rackingly
 rackworks
+racons
 racoons
 radars
 radarscope
@@ -34965,6 +34990,7 @@ regrated
 regreen
 regreeting
 regressive
+regretfulness
 regretfulnesses
 regrettable
 regretted
@@ -35933,6 +35959,7 @@ revealments
 reveals
 revegetations
 revehent
+revel
 revelation
 revelator
 reveled
@@ -37309,6 +37336,7 @@ scholasticates
 scholiastic
 scholium
 schoolgirl
+schoolkids
 schoolman
 schoolmaster
 schoolmasters
@@ -37545,6 +37573,7 @@ scurry
 scurrying
 scurviest
 scutched
+scutcheons
 scutcher
 scutches
 scute
@@ -39900,6 +39929,7 @@ spiffy
 spik
 spiked
 spikelike
+spikenards
 spiks
 spiky
 spilings
@@ -41593,6 +41623,7 @@ supersells
 supersessions
 supershow
 supersinger
+supersizes
 supersleuth
 supersoft
 supersonically
@@ -42069,6 +42100,7 @@ taboulehs
 tabour
 tabs
 tabulable
+tabulate
 tabulators
 tacamahac
 tachinid
@@ -42772,6 +42804,7 @@ theologised
 theologising
 theologue
 theomachies
+theomachy
 theophany
 theophylline
 theoretic
@@ -44145,6 +44178,7 @@ tubes
 tubeworks
 tubfuls
 tubifexes
+tubificid
 tubiform
 tubing
 tubists
@@ -46963,6 +46997,7 @@ wergelds
 wergild
 wert
 westbound
+westerlies
 westerner
 westernised
 westernize
