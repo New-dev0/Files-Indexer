@@ -558,6 +558,7 @@ aerophobe
 aerophobes
 aerophyte
 aeroplane
+aerosolizations
 aerosolizing
 aesthesia
 aesthetes
@@ -755,6 +756,7 @@ aiming
 ain
 aiolis
 airbrushed
+airbursts
 airbusses
 airchecks
 airdrop
@@ -811,6 +813,7 @@ alarum
 alarums
 alaska
 alated
+alation
 albacore
 albedo
 albedos
@@ -1816,6 +1819,7 @@ aphides
 aphidian
 aphids
 aphis
+apholate
 apholates
 aphonic
 aphonics
@@ -4205,6 +4209,7 @@ blankness
 blanks
 blare
 blaring
+blase
 blaspheme
 blasphemers
 blasphemes
@@ -4388,6 +4393,7 @@ blungers
 blunges
 blunging
 blunting
+blurbed
 blurrily
 blurt
 blurting
@@ -7794,6 +7800,7 @@ coliphage
 coliphages
 colistin
 colistins
+colitic
 collage
 collagenase
 collages
@@ -9002,6 +9009,7 @@ countenancers
 counter
 counterargue
 counterattack
+counterattacked
 counterattacks
 counterbalance
 counterbid
@@ -9281,6 +9289,7 @@ creed
 creedal
 creek
 creeks
+creepage
 creepages
 creeped
 creepies
@@ -11194,6 +11203,7 @@ dialing
 dialist
 diallages
 dialled
+dialler
 diallers
 dialling
 dialog
@@ -12168,6 +12178,7 @@ dominations
 dominators
 domineer
 domineered
+domineering
 dominicker
 dominies
 dominique
@@ -13172,6 +13183,7 @@ eliminators
 elint
 elints
 elitisms
+elixir
 elliptic
 ellipticals
 ells
@@ -13385,6 +13397,7 @@ enamored
 enamoured
 enantiomorphism
 enantiomorphous
+enantiomorphs
 enatic
 encampment
 encapsulated
@@ -13827,6 +13840,7 @@ epicontinental
 epicotyl
 epicotyls
 epicrania
+epics
 epicure
 epicureanisms
 epicuticular
@@ -14725,6 +14739,7 @@ eyry
 fabber
 fabled
 fabler
+fablers
 fables
 fabricates
 fabulates
@@ -15383,6 +15398,7 @@ finisher
 finishes
 finishing
 finitely
+finites
 finitude
 finitudes
 finked
@@ -15606,6 +15622,7 @@ flavorfully
 flaw
 flawing
 flawlessly
+flaws
 flawy
 flax
 flaxseed
@@ -18732,6 +18749,7 @@ headshrinker
 headstand
 headstone
 headwaiters
+headways
 headwords
 heady
 healers
@@ -20038,6 +20056,7 @@ idly
 idol
 idolater
 idolaters
+idolator
 idolatrousness
 idoliser
 idolize
@@ -29831,6 +29850,7 @@ pampered
 pamphleteer
 pamphleteered
 pams
+panaches
 panatella
 pancaked
 pancetta
@@ -31224,6 +31244,7 @@ picturizing
 piculs
 piddle
 piddled
+piddler
 piddly
 pidginization
 pidginize
@@ -31419,6 +31440,7 @@ pisolites
 pisoliths
 pistareen
 pistareens
+pistes
 pistol
 pistole
 pistolling
@@ -33889,6 +33911,7 @@ quinate
 quincunx
 quincunxial
 quinic
+quiniela
 quinielas
 quinina
 quinoa
@@ -34026,6 +34049,7 @@ radiolyses
 radiomen
 radiometer
 radionuclides
+radiopaque
 radiophone
 radioprotection
 radiosensitive
@@ -34050,6 +34074,7 @@ rafting
 ragamuffin
 ragamuffins
 ragas
+rage
 raggedier
 raggies
 raggy
@@ -34132,6 +34157,7 @@ ramulose
 ran
 ranched
 ranchos
+rancidities
 rancour
 randan
 randinesses
@@ -37161,6 +37187,7 @@ saturators
 saturniid
 saturnine
 satyriasis
+satyrid
 satyrlike
 satyrs
 sauce
@@ -40411,6 +40438,7 @@ staphylinid
 star
 starboards
 starchier
+starchinesses
 stardom
 stardust
 starfishes
@@ -41012,6 +41040,7 @@ sturdier
 sturdies
 sturdinesses
 sturt
+sturts
 styed
 styes
 stylar
@@ -41700,6 +41729,7 @@ superthick
 superthriller
 supertight
 supervirtuosos
+supervising
 supervision
 supervisors
 supervisory
@@ -41757,6 +41787,7 @@ sure
 surenesses
 sureties
 surety
+surfacers
 surfbird
 surfboarding
 surfboards
@@ -43819,6 +43850,7 @@ traumatizing
 traveler
 travelers
 traveling
+travelogs
 travels
 traversable
 traverse
@@ -43841,6 +43873,7 @@ treading
 treadmill
 treasurership
 treasurerships
+treasures
 treasuries
 treasuring
 treasury
@@ -45683,6 +45716,7 @@ unwieldiness
 unwifely
 unwillingly
 unwinding
+unwinnable
 unwisdoms
 unwise
 unwiser
@@ -47459,6 +47493,7 @@ wolvers
 womanises
 womanish
 womanishness
+womanising
 womanize
 womanless
 womanliest
