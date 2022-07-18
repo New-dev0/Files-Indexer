@@ -1,0 +1,10 @@
+[PS] Unsound Theorem Proving - Clarkson University,https://lin-web.clarkson.edu/~clynch/papers/uf.ps
+[PS] 1 An Unsound Deduction 2 Some Arithmetic - UCSD CSE,https://cseweb.ucsd.edu/~goguen/courses/pr3.ps
+[PS] let val a = ref nil in a := [1]; not (hd(!a)) end let val ref' = fn x => ref x in ...,https://www.cs.rice.edu/~greiner/weaktype-jfp.ps
+"[PS] COMP 409, Lecture 13 1 Deductions",https://www.cs.rice.edu/~vardi/comp409/2003/lec14.ps
+[PS] Bayesian Monte Carlo - Gatsby Computational Neuroscience Unit,http://www.gatsby.ucl.ac.uk/~edward/pub/bmc.ps.gz
+[PS] Intersection Types and Computational Effects Rowan Davies ...,http://www.cs.cmu.edu/~fp/public/papers/obsolete/effects00.ps.gz
+[PS] Typing First-Class Continuations in ML 1 Introduction,https://www.cs.cmu.edu/~rwh/papers/callcc/jfp.ps
+[PS] Combined Static and Dynamic Mutability Analysis,https://homes.cs.washington.edu/~mernst/pubs/mutability-ase2007.ps
+[PS] Bridging the gulf: a common intermediate language for ML and Haskell,http://web.cecs.pdx.edu/~apt/corrigendum.ps
+[PS] Abstract Patterns of Compositional Reasoning,https://www.cs.utexas.edu/users/namla/concur03.ps

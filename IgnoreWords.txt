@@ -103,6 +103,7 @@ abusiveness
 abusivenesses
 abuttal
 abutted
+abvolts
 abwatt
 aby
 academicians
@@ -166,6 +167,7 @@ acclimatization
 acclimatize
 acclimatizer
 acclimatizes
+acclivities
 accommodating
 accommodation
 accommodational
@@ -2077,6 +2079,7 @@ archaizer
 archaizes
 archangel
 archbishopric
+archdeaconries
 archduchesses
 archduchy
 archenemies
@@ -2151,6 +2154,7 @@ arithmetical
 armada
 armadas
 armagnacs
+armamentarium
 armature
 armed
 armhole
@@ -2742,6 +2746,7 @@ averments
 averse
 averseness
 aversenesses
+averting
 avgases
 aviary
 aviate
@@ -4754,6 +4759,7 @@ bowerbirds
 bowfront
 bowhead
 bowheads
+bowleg
 bowlegged
 bowlers
 bowless
@@ -8241,6 +8247,7 @@ concluding
 concomitances
 concours
 concourses
+concretenesses
 concreting
 concretisms
 concretists
@@ -8994,6 +9001,7 @@ costal
 costard
 costars
 costers
+costively
 costivenesses
 costrels
 costumes
@@ -12807,6 +12815,7 @@ dyadics
 dyads
 dyarchy
 dybbukim
+dye
 dyeability
 dyeable
 dyer
@@ -15090,6 +15099,7 @@ faze
 fazenda
 fazes
 fazing
+fealties
 fearlessness
 fears
 feasters
@@ -16167,6 +16177,7 @@ foretasted
 foretime
 foretops
 forever
+forewing
 forewings
 forewomen
 foreword
@@ -17550,6 +17561,7 @@ glues
 glueynesses
 glugged
 glum
+glumpier
 glumpily
 glunches
 gluons
@@ -17655,6 +17667,7 @@ goings
 goitrogenicity
 goitrogens
 golconda
+goldbricking
 goldenness
 goldeyes
 goldfinch
@@ -17730,6 +17743,7 @@ gormed
 gormless
 gorp
 gos
+gosh
 gosling
 gospeler
 gospelers
@@ -18051,6 +18065,7 @@ grogs
 grogshop
 groin
 grommeting
+grommets
 groom
 groomsmen
 groovers
@@ -18429,6 +18444,7 @@ hairball
 hairballs
 haircut
 haircuts
+haircutter
 hairdressings
 hairinesses
 hairlessnesses
@@ -19269,6 +19285,7 @@ hispanidads
 hissiest
 hissing
 hissy
+histamines
 histamins
 histidins
 histochemistry
@@ -20036,6 +20053,7 @@ hypomorphs
 hyponyms
 hypopharynges
 hypopharynxes
+hypophysis
 hypopituitarism
 hypoplasias
 hypopneas
@@ -20454,6 +20472,7 @@ imprecates
 imprecating
 imprecation
 imprecations
+imprecise
 imprecisely
 impreciseness
 imprecision
@@ -23537,6 +23556,7 @@ lightings
 lightning
 lightplane
 lightwave
+lightweight
 lignan
 lignite
 lignosulfonates
@@ -24607,6 +24627,7 @@ marathoner
 marathons
 marauding
 marauds
+marbelize
 marble
 marbleize
 marbleizing
@@ -26117,6 +26138,7 @@ modifiability
 modification
 modifications
 modifying
+modioli
 modishness
 modistes
 modularities
@@ -27416,6 +27438,7 @@ nighed
 nighest
 nighs
 night
+nightcaps
 nightclubbing
 nightgown
 nightgowns
@@ -29140,6 +29163,7 @@ outrushes
 outsaid
 outsailed
 outsavors
+outsaw
 outsay
 outscheme
 outscolded
@@ -30909,6 +30933,7 @@ pertusses
 peruke
 perusers
 pervaded
+pervader
 pervaders
 pervasively
 pervasivenesses
@@ -32226,6 +32251,7 @@ positing
 position
 positions
 positive
+positiver
 positivistic
 posits
 posole
@@ -32293,6 +32319,7 @@ postliberation
 postludes
 postmarital
 postmark
+postmarks
 postmastectomy
 postmaster
 postmasters
@@ -32365,6 +32392,7 @@ pothooks
 pothouse
 pothunter
 potlache
+potpies
 pots
 potshard
 potshards
@@ -32433,6 +32461,7 @@ praetorian
 pragmaticists
 pragmatisms
 pragmatist
+pragmatists
 prairie
 praiser
 praisers
@@ -36986,6 +37015,7 @@ sadness
 sadnesses
 sadomasochist
 sadomasochistic
+sadomasochists
 sae
 safariing
 safe
@@ -41360,6 +41390,7 @@ sublations
 sublease
 sublessee
 sublets
+sublevel
 sublibrarian
 sublibrarians
 sublicensing
@@ -42088,6 +42119,7 @@ swede
 sweeney
 sweenies
 sweepbacks
+sweepers
 sweeping
 sweepingness
 sweepings
@@ -44839,6 +44871,7 @@ unadjusted
 unadoptable
 unadulteratedly
 unadventurous
+unadvised
 unaesthetic
 unaffecting
 unaffectionate
@@ -45613,6 +45646,7 @@ unprogrammed
 unprompted
 unpronounceable
 unpropitious
+unpucker
 unpunished
 unpurged
 unpuzzle
@@ -45756,6 +45790,7 @@ unsonsie
 unsonsy
 unsophisticated
 unsorted
+unsound
 unsounded
 unsoundly
 unsoundness
