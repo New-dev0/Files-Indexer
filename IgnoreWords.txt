@@ -4506,6 +4506,7 @@ boldness
 boleti
 bolivar
 bolivars
+bolivia
 bolivianos
 bollard
 bollards
@@ -5344,6 +5345,7 @@ burnish
 burnishers
 burnt
 burqas
+burro
 burrow
 burrowers
 bursa
@@ -5479,6 +5481,7 @@ cabbies
 cabdrivers
 cabers
 cabestros
+cabezone
 cabezones
 cabining
 cabinmate
@@ -5620,6 +5623,7 @@ call
 callaloo
 callaloos
 callan
+callans
 callbacks
 callees
 calligraphers
@@ -6332,6 +6336,7 @@ celibacies
 cell
 cellar
 cellarage
+cellarets
 cellarette
 cellarway
 cellobiose
@@ -8993,6 +8998,7 @@ cottonseeds
 cottonwood
 cotyledons
 couches
+couchette
 cougar
 couldest
 couldst
@@ -13071,6 +13077,7 @@ egocentricity
 egocentrics
 egocentrisms
 egoless
+egomanias
 egregiously
 egressed
 egressions
@@ -14424,6 +14431,7 @@ excuser
 excusers
 excuses
 execrable
+execrate
 execrates
 execrative
 execrator
@@ -15288,6 +15296,7 @@ fiddleheads
 fiddler
 fideists
 fidelista
+fidgeters
 fiduciaries
 fiduciary
 fiefdom
@@ -17454,6 +17463,7 @@ gloggs
 glom
 glomerules
 glomeruli
+glommed
 glomming
 gloomed
 gloomier
@@ -18668,6 +18678,7 @@ hatting
 haughtier
 haul
 hauler
+haulm
 haulmiest
 haulyard
 haunches
@@ -19249,6 +19260,7 @@ hoaxers
 hoaxing
 hobbed
 hobblebush
+hobbled
 hobbledehoy
 hobby
 hobbyists
@@ -19410,6 +19422,7 @@ homozygosities
 homozygotes
 homozygous
 homozygously
+homunculi
 honcho
 honda
 hondle
@@ -19563,6 +19576,7 @@ hospitalises
 hospitalising
 hospitality
 hospitia
+hostage
 hostages
 hostel
 hosteling
@@ -19652,6 +19666,7 @@ hubby
 hubcap
 hubristic
 huckleberry
+huckstering
 huddler
 hueless
 huff
@@ -20188,6 +20203,8 @@ immaculate
 immaculately
 immane
 immanent
+immanentism
+immanentisms
 immaterialisms
 immaterialists
 immaterializes
@@ -20483,6 +20500,7 @@ inarticulacy
 inarticulately
 inarticulates
 inattention
+inattentions
 inattentively
 inaudibility
 inaudibly
@@ -26205,6 +26223,7 @@ monohydroxy
 monolayer
 monolingual
 monolith
+monolog
 monologists
 monologue
 monologues
@@ -27738,6 +27757,7 @@ nonoccupational
 nonoccurrence
 nonofficials
 nonoperative
+nonorthodox
 nonowners
 nonpapal
 nonpapists
@@ -29258,6 +29278,7 @@ overdemanding
 overdependence
 overdeveloped
 overdeveloping
+overdirect
 overdirecting
 overdiscounted
 overdominant
@@ -30938,6 +30959,7 @@ phelonion
 phenacite
 phenacites
 phenate
+phenetic
 pheneticist
 pheneticists
 phenetole
@@ -32205,6 +32227,7 @@ postlaunch
 postliberation
 postludes
 postmarital
+postmark
 postmastectomy
 postmaster
 postmasters
@@ -32792,6 +32815,7 @@ presweetening
 presymptomatic
 presynaptic
 presynaptically
+pretape
 pretaping
 pretasted
 pretasting
@@ -34258,6 +34282,7 @@ ratels
 ratepayer
 ratfinks
 rathe
+rather
 rathskeller
 ratification
 ratified
@@ -35376,6 +35401,7 @@ remonstrator
 remorsefully
 remorsefulness
 remote
+remotion
 remotions
 remotivates
 remotivating
@@ -35748,6 +35774,7 @@ resist
 resistants
 resister
 resistibility
+resistlessness
 resistor
 resistors
 resiting
@@ -37319,6 +37346,7 @@ scamped
 scamperers
 scampish
 scandal
+scandaling
 scandalise
 scandalizing
 scandalled
@@ -37819,6 +37847,7 @@ seedbeds
 seedcakes
 seedcase
 seeded
+seedier
 seedily
 seedless
 seedlings
@@ -40101,6 +40130,7 @@ spirituous
 spirochetes
 spirogyra
 spirometer
+spirometric
 spirometries
 spirometry
 spirula
@@ -40591,6 +40621,7 @@ steeves
 steeving
 stegosauruses
 stela
+stelae
 stelar
 stelene
 steles
@@ -40713,6 +40744,7 @@ stilts
 stimes
 stimulant
 stimulator
+stingers
 stinginess
 stinging
 stingingly
@@ -42826,6 +42858,7 @@ testaceans
 testamentary
 testate
 testees
+testiest
 testifiers
 testimonials
 testiness
@@ -43009,6 +43042,7 @@ thing
 thingamabob
 thinkably
 thinker
+thinkingness
 thinkingnesses
 thinks
 thinly
@@ -43932,6 +43966,7 @@ treenails
 treenware
 treetop
 treetops
+trehalas
 trelliswork
 tremble
 trembled
