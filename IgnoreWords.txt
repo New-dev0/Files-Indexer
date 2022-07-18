@@ -1165,6 +1165,7 @@ amiantus
 amiantuses
 amid
 amidase
+amidases
 amide
 amidin
 amidine
@@ -3221,6 +3222,7 @@ barrel
 barrelhead
 barrelheads
 barrelhouse
+barrels
 barres
 barret
 barretors
@@ -4178,6 +4180,7 @@ bizarres
 biznagas
 bizones
 bizzes
+blabbing
 blackamoor
 blackberries
 blackbirder
@@ -5283,6 +5286,7 @@ bullpens
 bullpout
 bullrushes
 bulls
+bullsnake
 bullweed
 bullwhip
 bully
@@ -5806,6 +5810,7 @@ cannonaded
 cannonades
 cannonading
 cannonballed
+cannulated
 cannulating
 canny
 canoeable
@@ -7189,6 +7194,7 @@ circumflex
 circumfluent
 circumfusing
 circumfusion
+circumjacent
 circumlocution
 circumlocutions
 circumlunar
@@ -7339,6 +7345,7 @@ clavichordist
 clavichords
 clavicle
 clavicles
+clavicular
 clavier
 clavieristic
 clawback
@@ -8633,6 +8640,7 @@ contractilities
 contracting
 contraction
 contractor
+contracts
 contractual
 contradictable
 contradictor
@@ -8714,6 +8722,7 @@ conviction
 convicts
 convincers
 convincingness
+conviviality
 convocation
 convoke
 convoker
@@ -11934,6 +11943,7 @@ disposition
 dispositive
 dispossessed
 dispossession
+dispossessors
 disposure
 dispraiser
 disprizes
@@ -15160,6 +15170,7 @@ federating
 federative
 fedexed
 fedexing
+fedora
 feds
 feedboxes
 feedgrains
@@ -17661,6 +17672,7 @@ gobbledegooks
 gobbledygook
 gobbler
 gobbles
+gobioid
 goblin
 gobonee
 gobony
@@ -20068,6 +20080,7 @@ hypochlorites
 hypochondriacal
 hypochondrias
 hypochondriases
+hypocrites
 hypocritical
 hypoderma
 hypodermically
@@ -20437,6 +20450,7 @@ impersonalized
 impersonates
 impersonating
 impersonator
+impersonators
 impertinence
 imperturbable
 impervious
@@ -21212,6 +21226,7 @@ insensible
 insensitivities
 insentiences
 insentient
+inseparables
 inserter
 inserting
 inset
@@ -21468,6 +21483,7 @@ intermeddles
 intermediated
 intermesh
 intermezzi
+intermezzos
 intermingles
 intermission
 intermitotic
@@ -21723,6 +21739,7 @@ invitations
 invitatories
 invitatory
 invite
+invitees
 inviter
 inviters
 inviting
@@ -22378,6 +22395,7 @@ kabalisms
 kabayas
 kabbala
 kabbalist
+kabeljou
 kabikis
 kabobs
 kaddishes
@@ -22950,6 +22968,7 @@ ladylike
 ladylove
 laetrile
 lag
+lagend
 laggardness
 laggardnesses
 laggards
@@ -23205,6 +23224,7 @@ lawbook
 lawbooks
 lawgiver
 lawgivings
+lawless
 lawlike
 lawmaker
 lawmaking
@@ -26846,6 +26866,7 @@ murid
 murine
 murines
 murker
+murkier
 murmured
 murmuring
 murmurs
@@ -28023,6 +28044,7 @@ noris
 norites
 norland
 normalcy
+normalise
 normalities
 normality
 normalizers
@@ -31421,6 +31443,7 @@ picture
 pictured
 picturesque
 picturesqueness
+picturizations
 picturizing
 piculs
 piddle
@@ -34103,6 +34126,7 @@ quillback
 quillwork
 quillworts
 quilting
+quinacrines
 quinaries
 quinate
 quincunx
@@ -34844,6 +34868,7 @@ reconsulting
 recontacted
 recontacts
 recontaminate
+recontaminated
 recontaminates
 recontoured
 recontouring
@@ -38156,6 +38181,7 @@ semipopular
 semiporcelains
 semipostal
 semiprecious
+semipro
 semiquaver
 semiquavers
 semiraw
@@ -40726,6 +40752,7 @@ statistic
 statistically
 statives
 statocysts
+statuary
 statuesque
 statuesquely
 statusy
@@ -40902,6 +40929,7 @@ stiffer
 stiffness
 stiffnesses
 stigmasterols
+stigmatics
 stigmatist
 stigmatizations
 stigmatized
@@ -41681,6 +41709,7 @@ suffocated
 suffocates
 suffocation
 suffocations
+suffragist
 suffuse
 suffusion
 sugarberries
@@ -42200,6 +42229,7 @@ swelter
 sweltry
 sweptback
 swerve
+swerving
 sweven
 swidden
 swiddens
@@ -43040,6 +43070,7 @@ teslas
 tesselate
 tessellating
 tessera
+tessitura
 tessiture
 testable
 testaceans
@@ -43265,6 +43296,7 @@ thorn
 thornback
 thornbushes
 thornier
+thorninesses
 thorning
 thorons
 thorough
@@ -46661,6 +46693,7 @@ vicinities
 vicinity
 viciously
 vicissitudinous
+vicomte
 victimization
 victimless
 victims
@@ -48113,6 +48146,7 @@ yellowtail
 yellowthroat
 yellowware
 yellowwoods
+yellowy
 yelped
 yelper
 yelping
@@ -48273,6 +48307,7 @@ zig
 zigzagged
 zillahs
 zillions
+zillionth
 zincate
 zincking
 zincky

@@ -1,0 +1,13 @@
+syslog-ng: dbld/packages.manifest | Fossies,https://fossies.org/linux/syslog-ng/dbld/packages.manifest
+syslog-ng: dbld/pip_packages.manifest | Fossies,https://fossies.org/linux/syslog-ng/dbld/pip_packages.manifest
+scaleway-image-tools/public-images.manifest at master · ben0x539 ...,https://github.com/ben0x539/scaleway-image-tools/blob/master/public-images.manifest
+https://mirrors.aliyun.com/fedora-altarch/releases...,https://mirrors.aliyun.com/fedora-altarch/releases/32/Everything/ppc64le/iso/Fedora-Everything-netinst-ppc64le-32-1.6.iso.manifest
+https://165.227.188.234/fedora/releases/test/35_Be...,https://165.227.188.234/fedora/releases/test/35_Beta/Server/x86_64/iso/Fedora-Server-netinst-x86_64-35_Beta-1.2.iso.manifest
+https://mirror.xtom.jp/fedora-altarch/iot/branched...,https://mirror.xtom.jp/fedora-altarch/iot/branched/IoT/aarch64/iso/Fedora-IoT-IoT-dvd-aarch64-33-20201016.0.iso.manifest
+https://mirror.xtom.jp/fedora-altarch/iot/branched...,https://mirror.xtom.jp/fedora-altarch/iot/branched/IoT/source/iso/Fedora-IoT-IoT-dvd-source-33-20201013.0.iso.manifest
+https://mirrors.zju.edu.cn/fedora/releases/34/Ever...,https://mirrors.zju.edu.cn/fedora/releases/34/Everything/aarch64/iso/Fedora-Everything-netinst-aarch64-34-1.2.iso.manifest
+CentOS-Stream-8-aarch64-latest-dvd1.iso.manifest - Nexril,http://mirror.dal.nexril.net/centos/8-stream/isos/aarch64/CentOS-Stream-8-aarch64-latest-dvd1.iso.manifest
+CentOS-Stream-8-x86_64-latest-dvd1.iso.manifest - Nexril,http://mirror.dal.nexril.net/centos/8-stream/isos/x86_64/CentOS-Stream-8-x86_64-latest-dvd1.iso.manifest
+atomrpg/entities.manifest at master - GitHub,https://github.com/phobos2077/atomrpg/blob/master/Assets/StreamingAssets/entities.manifest
+https://svn.gov.pt/projects/ccidadao/log/middlewar...,https://svn.gov.pt/projects/ccidadao/log/middleware-offline/trunk/_src/eidmw/minidriver/Src/res/pteidmdrv32.dll.manifest%3Fformat%3Dchangelog%26rev%3D210%26limit%3D100%26mode%3Dstop_on_copy
+https://mirrors.xtom.jp/almalinux/8.5/isos/x86_64/...,https://mirrors.xtom.jp/almalinux/8.5/isos/x86_64/AlmaLinux-8.5-x86_64-dvd.iso.manifest
