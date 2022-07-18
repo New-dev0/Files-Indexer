@@ -1,0 +1,2 @@
+txt,https://android.googlesource.com/platform/prebuilts/sdk/%2B/master/tools/lib/signapk.jar%3Fformat%3DTEXT
+https://bazel.googlesource.com/bazel/+/refs/tags/3...,https://bazel.googlesource.com/bazel/%2B/refs/tags/3.6.0/third_party/juniversalchardet/juniversalchardet-1.0.3.jar%3Fformat%3DTEXT
