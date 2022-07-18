@@ -931,6 +931,7 @@ alkines
 alkoxide
 alkyd
 alkyds
+allanite
 allantoids
 allantoin
 allantois
@@ -2726,6 +2727,7 @@ automats
 automobiles
 automobiling
 automobilist
+autonomist
 autonomists
 autopen
 autophytes
@@ -3058,6 +3060,7 @@ ballets
 ballgame
 ballistic
 ballistically
+ballistics
 ballonet
 ballooning
 ballpark
@@ -3636,6 +3639,7 @@ belittlements
 belive
 belleeks
 belles
+belletrist
 belletristic
 belletrists
 bellflower
@@ -4900,6 +4904,7 @@ brattice
 bratticed
 brattier
 brattinesses
+brattish
 brattle
 bratwurst
 bratwursts
@@ -6270,6 +6275,7 @@ categorised
 categorises
 categorising
 categorize
+catenae
 catenaries
 catenates
 cater
@@ -6643,6 +6649,7 @@ chaperones
 chaperoning
 chapes
 chapiter
+chaplains
 chapman
 chappati
 chapping
@@ -6951,6 +6958,7 @@ chital
 chitchats
 chitling
 chitlings
+chitosan
 chittered
 chittering
 chitties
@@ -8987,6 +8995,7 @@ correspondent
 corridas
 corridor
 corrie
+corrigenda
 corrigibility
 corrivals
 corroborant
@@ -10895,6 +10904,7 @@ denning
 denominate
 denominates
 denomination
+denotive
 denouement
 denouncements
 denouncer
@@ -10995,6 +11005,7 @@ deprecatorily
 depreciates
 depreciatingly
 depreciation
+depreciative
 depredates
 depredations
 depredator
@@ -12082,6 +12093,7 @@ distillates
 distilleries
 distils
 distinctively
+distome
 distorter
 distorters
 distracts
@@ -12198,6 +12210,7 @@ docile
 docilely
 docility
 dockage
+dockages
 docker
 docking
 dockyard
@@ -19624,6 +19637,7 @@ honkies
 honorableness
 honorably
 honorand
+honored
 honoree
 honorer
 honorers
@@ -23053,6 +23067,7 @@ lagger
 laggers
 lagging
 lagnappe
+laguna
 lagunas
 lahar
 laic
@@ -23289,6 +23304,7 @@ laureations
 laurel
 laureled
 laurelled
+laurelling
 lav
 lava
 lavaliers
@@ -24730,6 +24746,7 @@ manses
 manslaughter
 manslaughters
 mansuetude
+manteaux
 mantelet
 mantels
 mantelshelf
@@ -28028,6 +28045,7 @@ nonquota
 nonracial
 nonrailroad
 nonrandom
+nonrational
 nonreactive
 nonrecombinant
 nonreducing
@@ -28431,6 +28449,7 @@ obsolescence
 obstetricians
 obstinately
 obstinatenesses
+obstructed
 obstructionism
 obstructionisms
 obstructionists
@@ -31673,6 +31692,7 @@ pinkroot
 pinna
 pinnace
 pinnae
+pinnated
 pinning
 pinocle
 pinocytosis
@@ -31962,6 +31982,7 @@ plebeianism
 plebeianly
 plebiscites
 plebs
+plecopterans
 pledget
 pledgors
 pleiades
@@ -33357,6 +33378,7 @@ profligate
 profound
 profoundly
 profuseness
+profusion
 profusions
 prog
 progeny
@@ -34104,6 +34126,7 @@ quad
 quadding
 quadplexes
 quadrant
+quadrantal
 quadraphonic
 quadrate
 quadrats
@@ -34303,6 +34326,7 @@ quotient
 qwerty
 qwertys
 rabatos
+rabbies
 rabbin
 rabbinical
 rabbitbrush
@@ -37328,6 +37352,7 @@ salpids
 salpiform
 sals
 salsa
+salsify
 saltarello
 saltatorial
 saltatory
@@ -38778,6 +38803,7 @@ shiftless
 shiftlessnesses
 shikaree
 shikari
+shilingi
 shillelah
 shim
 shimmer
@@ -38820,6 +38846,7 @@ shirtdress
 shirtdresses
 shirting
 shirtmaker
+shists
 shitake
 shitakes
 shitless
@@ -39289,6 +39316,7 @@ skankier
 skanking
 skater
 skatols
+skeans
 skedaddles
 skedaddling
 skeed
@@ -40171,6 +40199,7 @@ sourwoods
 southbound
 southeaster
 southernnesses
+southernwood
 southings
 southland
 souths
@@ -40417,6 +40446,7 @@ spilling
 spillover
 spillway
 spilths
+spinach
 spinachy
 spindle
 spindler
@@ -40699,6 +40729,7 @@ squeegeed
 squeegees
 squeezability
 squeezers
+squeezing
 squelches
 squelchier
 squelchiest
@@ -41186,6 +41217,7 @@ stoppered
 stopping
 stoppled
 stopwatch
+storehouse
 storekeeper
 storerooms
 storeship
@@ -43473,6 +43505,7 @@ thrawing
 threadbareness
 threaders
 threadiest
+threading
 threads
 thready
 threap
@@ -46151,6 +46184,7 @@ untune
 untunes
 untutored
 untwined
+untwist
 untwisted
 untwisting
 ununbium
@@ -47071,6 +47105,7 @@ vocalnesses
 vocals
 vocationalism
 vocationally
+voces
 vociferator
 vociferous
 vocoder
