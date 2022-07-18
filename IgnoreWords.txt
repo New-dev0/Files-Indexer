@@ -669,6 +669,7 @@ agaze
 aged
 ageisms
 ageist
+agelessly
 agelessnesses
 agencies
 agendas
@@ -705,6 +706,7 @@ agiotages
 agisted
 agitatedly
 agitating
+agitative
 agleam
 aglow
 agly
@@ -2201,6 +2203,7 @@ arrayers
 arrays
 arrears
 arrest
+arrestments
 arrhizal
 arrhythmias
 arrivers
@@ -3005,6 +3008,7 @@ baked
 bakemeats
 bakers
 bakeshop
+bakshish
 bakshishing
 balancer
 balboa
@@ -4401,6 +4405,7 @@ blueweeds
 bluewood
 bluff
 bluffers
+bluffing
 bluffs
 bluishnesses
 blumed
@@ -10392,6 +10397,7 @@ decipherment
 deciphers
 decisioning
 deckers
+decking
 deckles
 decks
 declaim
@@ -10573,6 +10579,7 @@ deflates
 deflation
 deflations
 defleaed
+deflect
 deflecting
 deflector
 defloration
@@ -11038,6 +11045,7 @@ desiccators
 desiderated
 desiderating
 desiderative
+designation
 designators
 designs
 desilver
@@ -12535,6 +12543,7 @@ dreigh
 dreks
 drenched
 drenches
+drenching
 dressage
 dressed
 dressmakers
@@ -17007,6 +17016,7 @@ gauchest
 gaucho
 gauchos
 gaudier
+gaudies
 gaudily
 gauffered
 gauffers
@@ -18878,6 +18888,7 @@ heathless
 heaumes
 heavenliness
 heavily
+heavy
 heavyhearted
 heavyweight
 hebephrenia
@@ -19860,6 +19871,7 @@ hybridoma
 hybris
 hybristic
 hydathodes
+hydrae
 hydralazines
 hydrangea
 hydranths
@@ -21843,6 +21855,7 @@ isled
 isoantigen
 isoantigenic
 isoantigens
+isobar
 isobutyl
 isocaloric
 isocarboxazid
@@ -22548,6 +22561,7 @@ kheth
 kheths
 khets
 khoums
+kiangs
 kiaugh
 kibbe
 kibbehs
@@ -27481,6 +27495,7 @@ niobous
 nip
 nippers
 nippiness
+nipple
 nippled
 nippy
 nirvanic
@@ -28521,6 +28536,7 @@ omitters
 omitting
 omnibuses
 omnicompetences
+omnifarious
 omnificent
 omnipotently
 omnirange
@@ -29247,6 +29263,7 @@ outwears
 outwearying
 outweeping
 outwhirl
+outwhirling
 outwhirls
 outwished
 outwit
@@ -29934,6 +29951,7 @@ palmation
 palmer
 palmers
 palmette
+palmetto
 palmister
 palmisters
 palmitates
@@ -30283,6 +30301,7 @@ participation
 participations
 participator
 participatory
+participially
 particularised
 particularities
 particularizes
@@ -30303,6 +30322,7 @@ parts
 parturient
 parturitions
 partway
+party
 partygoers
 parvenue
 parvenus
@@ -34735,6 +34755,7 @@ recocks
 recoded
 recodification
 recodifications
+recodified
 recodify
 recodifying
 recognised
@@ -35199,6 +35220,7 @@ regionalizes
 regionals
 registered
 registrants
+registration
 regive
 regiven
 regiving
@@ -37263,6 +37285,7 @@ saponifier
 saponin
 saponine
 saponins
+sapour
 sapphism
 sappiness
 sappinesses
@@ -37333,6 +37356,7 @@ satinette
 satires
 satirists
 satirize
+satirizes
 satisfaction
 satisfactions
 satisfiable
@@ -37410,6 +37434,7 @@ saxhorn
 saxitoxins
 saxony
 saxophonists
+saxtubas
 sayed
 sayeds
 sayest
@@ -38235,6 +38260,7 @@ serest
 sergeancy
 sergeant
 serger
+serging
 serial
 serialized
 serializing
@@ -39015,6 +39041,7 @@ sinuous
 sinuously
 sinuousness
 sinuousnesses
+sinusitises
 sinuslike
 sinusoid
 sinusoidally
@@ -39029,6 +39056,7 @@ sirens
 siring
 siroccos
 siruped
+sirupier
 sirupy
 sirvente
 sirventes
@@ -41822,6 +41850,7 @@ supergovernment
 supergrowth
 superhelices
 superhelix
+superheroes
 superhighway
 superhit
 superhits
@@ -42888,6 +42917,7 @@ tens
 tensors
 tentative
 tentativeness
+tented
 tenter
 tenterhooks
 tenters
@@ -43960,6 +43990,7 @@ transience
 transiencies
 transients
 transilluminate
+transistorize
 transitions
 transitive
 transitively
@@ -44425,6 +44456,7 @@ trusted
 trustees
 trusteeship
 trusteeships
+trustful
 trustiness
 trustinesses
 trustingly
@@ -44574,6 +44606,7 @@ turistas
 turkeys
 turkoises
 turks
+turmeric
 turmoiling
 turmoils
 turnabout
@@ -45064,6 +45097,7 @@ uncomic
 uncompassionate
 uncompensated
 uncomprehended
+uncompromisable
 unconceivable
 unconcernedness
 unconfined
@@ -48033,6 +48067,7 @@ yearn
 yeasayer
 yeasayers
 yecch
+yecchs
 yegg
 yeggs
 yelk
