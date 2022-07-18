@@ -245,6 +245,7 @@ achondrite
 achondroplasias
 achromat
 achromatize
+achromatizes
 achromats
 achromous
 aciculum
@@ -1262,6 +1263,7 @@ amylases
 amylenes
 amylogen
 amyloid
+amyloidoses
 amyloidosis
 amyloids
 amyloplasts
@@ -5805,6 +5807,7 @@ cantdog
 canted
 cantharis
 canthi
+canthitis
 cantic
 canticle
 cantilever
@@ -7632,6 +7635,7 @@ cocounselled
 cocoyams
 cocreate
 cocreators
+cocultivate
 cocultivated
 cocultivation
 cocurators
@@ -8125,6 +8129,7 @@ complexified
 complexifies
 complexioned
 complexities
+compliance
 compliant
 complicated
 complice
@@ -8691,6 +8696,7 @@ convoking
 convolute
 convolved
 convolves
+convolvuluses
 convoys
 convulsant
 convulsants
@@ -8955,6 +8961,7 @@ coscripted
 coscripting
 coseismals
 coshers
+coshing
 cosie
 cosily
 cosine
@@ -10137,6 +10144,7 @@ darkle
 darkling
 darkly
 darkness
+darlingness
 darlings
 darnation
 darndest
@@ -11715,6 +11723,7 @@ discrown
 discrowned
 discursively
 discursiveness
+discus
 discusses
 discussible
 discussing
@@ -12295,6 +12304,7 @@ dotage
 dotard
 dotards
 dotation
+doter
 doters
 dotes
 dotingly
@@ -12648,6 +12658,7 @@ ducats
 duchesses
 duchies
 duchy
+duci
 duckbills
 ducker
 duckers
@@ -15121,6 +15132,7 @@ feint
 feinted
 feist
 feisty
+felafel
 feldscher
 feldschers
 felicitated
@@ -16981,6 +16993,7 @@ gaumed
 gaunter
 gauntly
 gauntry
+gaur
 gaurs
 gauss
 gausses
@@ -17119,6 +17132,7 @@ gentlemanly
 gentlemen
 gentlenesses
 gentler
+gentling
 gentoo
 gentrifications
 gentrifying
@@ -17897,6 +17911,7 @@ grayouts
 grazable
 grazer
 grazier
+grazing
 grazings
 greaseball
 greaseproofs
@@ -18360,6 +18375,7 @@ haem
 haemal
 haematin
 haemic
+haemin
 haemoid
 haems
 haen
@@ -24815,6 +24831,7 @@ maxixes
 maxwell
 maxwells
 may
+maybird
 maybushes
 mayed
 mayest
@@ -25963,6 +25980,7 @@ missuses
 missy
 mistake
 mistaken
+mistaking
 mistbow
 mistbows
 misteaches
@@ -27370,6 +27388,7 @@ niftiest
 niftily
 niggarding
 niggardliness
+niggardlinesses
 nigglers
 nigglings
 nighed
@@ -29664,6 +29683,7 @@ oxidiser
 oxidisers
 oxidizer
 oxidizers
+oxidizing
 oximes
 oximetry
 oxims
@@ -32685,6 +32705,7 @@ premillenarian
 premillenarians
 premising
 premiums
+premodify
 premoistened
 premold
 premolded
@@ -34054,6 +34075,7 @@ rabid
 rabidity
 rabidly
 rabidnesses
+rabies
 raccoon
 race
 racehorses
@@ -36263,6 +36285,7 @@ rhinal
 rhinencephalon
 rhinestoned
 rhinestones
+rhinologies
 rhizobial
 rhizoidal
 rhizoids
@@ -38065,6 +38088,7 @@ sensations
 sense
 senseis
 senselessness
+sensibilia
 sensibler
 sensiblest
 sensillae
@@ -38274,6 +38298,7 @@ sextos
 sexts
 sexual
 sexuality
+sexualized
 sexualizes
 sexually
 sexy
@@ -40809,6 +40834,7 @@ stocked
 stockers
 stockiest
 stockily
+stockinet
 stockists
 stockjobber
 stockman
@@ -41085,6 +41111,7 @@ structuration
 structurations
 structure
 structureless
+structuring
 strudel
 struggled
 struggles
@@ -41366,6 +41393,7 @@ subphase
 subphases
 subphylum
 subpoena
+subpoenaed
 subpoenaing
 subpopulations
 subprocess
@@ -41823,6 +41851,7 @@ supersystem
 superthick
 superthriller
 supertight
+supervirtuoso
 supervirtuosos
 supervising
 supervision
@@ -42761,6 +42790,7 @@ tenantry
 tenants
 tench
 tendance
+tendence
 tendencies
 tendencious
 tendered
@@ -43705,6 +43735,7 @@ townswoman
 townwear
 towpaths
 towplanes
+towrope
 towsack
 toxaemic
 toxaphene
@@ -44160,6 +44191,7 @@ trinity
 trinketed
 trinketries
 trinocular
+trinodal
 trinomials
 triode
 trios
@@ -44224,6 +44256,7 @@ trochanters
 trochar
 trochars
 trochee
+trochili
 trochilus
 trochlears
 trochleas
@@ -45326,6 +45359,7 @@ unhewn
 unhinged
 unhirable
 unhood
+unhooked
 unhoped
 unhorsed
 unhorses
@@ -47641,6 +47675,7 @@ woodlark
 woodlarks
 woodless
 woodlot
+woodnote
 woodpecker
 woodpiles
 woodshedding
