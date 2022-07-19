@@ -486,6 +486,7 @@ adulterant
 adulterants
 adulterations
 adulterators
+adulterers
 adulteresses
 adulthood
 adultress
@@ -535,6 +536,7 @@ aecium
 aedile
 aediles
 aeneous
+aeneus
 aeonic
 aequorin
 aeration
@@ -2794,6 +2796,7 @@ avow
 avowable
 avowably
 avower
+avowing
 avows
 avulsion
 avulsions
@@ -7930,6 +7933,7 @@ collaterally
 collations
 collators
 colleagueship
+collective
 collectivise
 collectivised
 collectivist
@@ -8450,6 +8454,7 @@ conglomerated
 conglomeration
 conglomerative
 conglomerator
+conglutinating
 conglutination
 congo
 congoes
@@ -11777,6 +11782,7 @@ discernment
 discernments
 dischargees
 discharger
+dischargers
 discipled
 disciplinary
 discipline
@@ -13950,6 +13956,7 @@ envelopment
 envelopments
 envelops
 envenomed
+envenoming
 enviable
 enviableness
 enviers
@@ -14575,6 +14582,7 @@ excogitations
 excommunicate
 excommunicated
 excoriate
+excoriation
 excrescence
 excrescency
 excreters
@@ -18043,6 +18051,7 @@ grapinesses
 grapline
 graplins
 grapplers
+grappling
 graptolite
 grapy
 graspingness
@@ -19308,6 +19317,7 @@ heterophile
 heteroploid
 heteroploids
 heteros
+heteroses
 heterosexual
 heterosexuals
 heterosis
@@ -20877,6 +20887,7 @@ incorrigible
 incorrupted
 incorruptibles
 incorruptly
+increasing
 increate
 incredibilities
 incredibly
@@ -21812,6 +21823,7 @@ invalided
 invaliding
 invalidism
 invalidisms
+invalidities
 invalidity
 invariable
 invasiveness
@@ -22365,6 +22377,7 @@ jobnames
 jockette
 jockey
 jockos
+jocose
 jocular
 jocund
 jodhpurs
@@ -24805,6 +24818,7 @@ mantilla
 mantillas
 mantises
 mantles
+mantling
 manually
 manubriums
 manufactories
@@ -26157,6 +26171,7 @@ mispaged
 mispaging
 misparses
 misparted
+mispatching
 misperceiving
 misplacements
 misplaces
@@ -27230,6 +27245,7 @@ nailheads
 nails
 nainsooks
 naira
+nairus
 naissance
 naiveness
 naivenesses
@@ -29126,6 +29142,7 @@ ototoxicities
 ototoxicity
 ottar
 ottavas
+ottomans
 ouabain
 ouabains
 oubliettes
@@ -29204,6 +29221,7 @@ outcook
 outcounted
 outcrawling
 outcrawls
+outcrop
 outcrosses
 outcrowd
 outcry
@@ -31648,6 +31666,7 @@ pierces
 pierrots
 pies
 pieta
+pieties
 pietistic
 pietistically
 piffles
@@ -33600,6 +33619,7 @@ props
 proptoses
 proptosis
 propulsive
+propyla
 propylaea
 propylene
 propylon
@@ -35446,6 +35466,7 @@ refuels
 refuge
 refulgence
 refunds
+refurbisher
 refurbishers
 refurbishes
 refurnish
@@ -36355,6 +36376,7 @@ retempered
 retempering
 retems
 retentions
+retentive
 retentiveness
 retestified
 retestifies
@@ -36446,6 +36468,7 @@ retrogradation
 retrograded
 retrogradely
 retrogressing
+retrogression
 retrogressive
 retrogressively
 retronym
@@ -37556,6 +37579,7 @@ santera
 santeras
 santimu
 santir
+santolinas
 santonica
 santoor
 sapajous
@@ -37945,6 +37969,7 @@ scissors
 sciurine
 sciuroid
 sclaffing
+sclerenchyma
 sclerites
 scleritis
 scleroma
@@ -38750,6 +38775,7 @@ shanghaied
 shanghaiers
 shanghais
 shannies
+shantey
 shantung
 shantytowns
 shapeup
@@ -39382,6 +39408,7 @@ situses
 sixteenmo
 sixteens
 sixteenth
+sixteenths
 sixtes
 sixth
 sixths
@@ -40672,6 +40699,7 @@ spooney
 spooning
 spoons
 spoor
+sporadically
 sporangia
 sporangial
 sporangiophores
@@ -43047,6 +43075,7 @@ teabowl
 teaboxes
 teacakes
 teachableness
+teachablenesses
 teachably
 teacup
 teahouses
@@ -43233,6 +43262,7 @@ tenderizer
 tenderloin
 tenderly
 tenderometer
+tenderometers
 tendresse
 tendrilled
 tendrilous
@@ -44287,6 +44317,7 @@ trances
 tranche
 tranny
 tranqs
+tranquilest
 tranquilizes
 tranquillizes
 tranquilnesses
@@ -44350,6 +44381,7 @@ translation
 translators
 transliterated
 transliterates
+transliteration
 translocated
 translucences
 translucencies
@@ -45575,6 +45607,7 @@ undergrads
 undergraduates
 undergrounder
 underhand
+underhandedly
 underheat
 underheating
 underinflated
@@ -46866,6 +46899,7 @@ verbosely
 verdin
 verdure
 verdured
+verdurous
 verger
 verglas
 veridicalities
@@ -48640,6 +48674,7 @@ zinnias
 zippering
 zipping
 zitherist
+zithers
 zitis
 zizzle
 zizzled
