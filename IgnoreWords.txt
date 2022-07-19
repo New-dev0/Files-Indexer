@@ -1197,6 +1197,7 @@ ammoniating
 ammoniation
 ammonification
 ammonifying
+ammonites
 ammoniums
 ammonoids
 ammunition
@@ -1329,6 +1330,7 @@ analogousness
 analogousnesses
 analogs
 analogues
+analogy
 analphabetism
 analphabets
 analysed
@@ -2173,6 +2175,7 @@ arithmetical
 armada
 armadas
 armagnacs
+armamentaria
 armamentarium
 armature
 armed
@@ -5596,6 +5599,7 @@ caddices
 caddis
 caddised
 caddisfly
+caddishness
 caddisworms
 caddy
 caddying
@@ -8923,6 +8927,7 @@ coralberry
 coralloid
 corals
 corbeil
+corbeilles
 corbeils
 corbelled
 corbelling
@@ -10201,6 +10206,7 @@ daleth
 daleths
 dalles
 dally
+dallying
 dalmatic
 dalmatics
 dalton
@@ -10633,6 +10639,7 @@ default
 defaulter
 defaulters
 defaulting
+defeasance
 defeasances
 defeasibilities
 defeat
@@ -12014,6 +12021,7 @@ dispassion
 dispassionate
 dispatch
 dispatchers
+dispel
 dispensaries
 dispensational
 dispensations
@@ -15702,6 +15710,7 @@ fishermen
 fishery
 fisheye
 fisheyes
+fishgig
 fishhook
 fishhooks
 fishily
@@ -16263,6 +16272,7 @@ fordoes
 fordone
 forearm
 forearms
+forebear
 forebears
 foreboded
 foreboder
@@ -17205,6 +17215,7 @@ gauziest
 gauzy
 gavel
 gaveled
+gavelling
 gavelock
 gavelocks
 gavot
@@ -19420,6 +19431,7 @@ hierurgy
 high
 highball
 highballs
+highbrows
 highchairs
 highflier
 highflyers
@@ -19652,6 +19664,7 @@ homoeroticism
 homogamous
 homogenates
 homogeneities
+homogeneity
 homogenise
 homogenization
 homogenizations
@@ -22278,6 +22291,7 @@ jauked
 jaunced
 jaundiced
 jaunt
+jauntily
 jauntinesses
 jaunty
 jaup
@@ -23615,6 +23629,7 @@ lepers
 lepidoptera
 lepidopteran
 lepidopterology
+lepidopterous
 lepidotes
 leporid
 leprechaun
@@ -27232,6 +27247,7 @@ myriad
 myriopods
 myrmecological
 myrmecologist
+myrmecophile
 myrmidons
 myrrhs
 myrtles
@@ -28313,6 +28329,7 @@ notaries
 notarization
 notarize
 notarizing
+notary
 notated
 notating
 notation
@@ -28701,6 +28718,7 @@ offhanded
 office
 officeholders
 officers
+officialese
 officialeses
 officiants
 officiaries
@@ -30846,6 +30864,7 @@ peddling
 pedestal
 pedestaling
 pedestalled
+pedestalling
 pedestrians
 pedicellate
 pedicle
@@ -32460,6 +32479,7 @@ pommels
 pomologies
 pomologists
 pomology
+pomp
 pompanos
 pompoms
 pompons
@@ -32734,6 +32754,7 @@ potstones
 pottage
 potterers
 pottering
+potties
 pottiest
 pottinesses
 pottles
@@ -33146,6 +33167,7 @@ preprocessing
 preprocessor
 preprocessors
 preproduction
+preprogrammed
 preps
 prepuberties
 prepubescences
@@ -33699,6 +33721,7 @@ proselytize
 proselytizes
 proselytizing
 proseminar
+prosencephalic
 prosody
 prosoma
 prosomal
@@ -34041,6 +34064,7 @@ punditic
 pung
 pungently
 pungs
+punishers
 punishing
 punishments
 punition
@@ -34441,6 +34465,7 @@ quitch
 quitclaim
 quite
 quittances
+quitters
 quiverers
 quivery
 quixotes
@@ -34950,6 +34975,7 @@ rebaptized
 rebaptizing
 rebater
 rebatos
+rebecks
 rebecs
 rebegin
 rebegins
@@ -35267,6 +35293,7 @@ redeyes
 redfin
 redhead
 redhorse
+rediae
 redial
 redialing
 redictating
@@ -37787,6 +37814,7 @@ savoured
 savourers
 savourier
 savouries
+savouring
 savoy
 savoys
 savvier
@@ -38301,6 +38329,7 @@ seconding
 seconds
 secpar
 secret
+secretin
 secretins
 secretion
 secretively
@@ -41667,6 +41696,7 @@ styles
 stylets
 styli
 styliform
+stylites
 stylitic
 stylitism
 stylized
@@ -42078,6 +42108,7 @@ suggest
 suggesters
 suggestions
 suggestive
+sughs
 suicided
 suing
 suitably
@@ -46124,6 +46155,7 @@ unpliant
 unplowed
 unpointed
 unpopularities
+unpotted
 unprecedented
 unpremeditated
 unpressured
@@ -46150,6 +46182,7 @@ unquestioningly
 unquiet
 unquiets
 unraised
+unraveling
 unravelled
 unravels
 unrazed
@@ -47980,6 +48013,7 @@ whoopee
 whoopees
 whoopers
 whoops
+whoosh
 whooshes
 whopper
 whoremongers
@@ -48466,6 +48500,7 @@ xerodermae
 xerographies
 xerophilous
 xerophily
+xerophthalmic
 xerophytes
 xerophytisms
 xeroseres
