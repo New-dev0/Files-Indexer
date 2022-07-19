@@ -1319,6 +1319,7 @@ analemmata
 analgesias
 analgesic
 analgetics
+anality
 analogic
 analogical
 analogically
@@ -2004,6 +2005,7 @@ approximative
 appulses
 appurtenances
 appurtenant
+apricot
 apricots
 aproning
 apropos
@@ -2703,6 +2705,7 @@ autogamy
 autogiro
 autografted
 autografting
+autografts
 autograph
 autographic
 autographically
@@ -3468,6 +3471,7 @@ beclothed
 beclothes
 becloud
 beclowned
+becomes
 becoming
 becomings
 becrawled
@@ -4129,6 +4133,7 @@ birdied
 birdies
 birdings
 birdlife
+birdlike
 birdlimed
 birdman
 birds
@@ -6280,6 +6285,7 @@ catchy
 catecheses
 catechise
 catechismal
+catechization
 catechizations
 catechized
 catechizer
@@ -6585,6 +6591,7 @@ chairmanning
 chairmans
 chairmanship
 chaises
+chalah
 chalazae
 chalazions
 chalcedonies
@@ -6986,6 +6993,7 @@ chivari
 chivvy
 chlamydes
 chlamydospores
+chloasmas
 chloasmata
 chloral
 chloralose
@@ -7176,6 +7184,7 @@ churr
 churrs
 chute
 chutes
+chutist
 chutists
 chylous
 chymist
@@ -8511,6 +8520,7 @@ connectible
 connecting
 connection
 connections
+connects
 conning
 conniver
 connivers
@@ -15536,6 +15546,7 @@ filigreeing
 filisters
 fill
 fillable
+fillagreed
 fille
 filles
 filleting
@@ -16441,6 +16452,7 @@ fountain
 fountaining
 fourdrinier
 fourgons
+fourpences
 fourplex
 fourplexes
 fourragere
@@ -16571,6 +16583,7 @@ freewrite
 freewriting
 freezers
 freezes
+freight
 freighting
 fremd
 fremituses
@@ -19416,6 +19429,7 @@ hilloaing
 hilloas
 hillocky
 hillos
+hillside
 hillslope
 hillslopes
 hilt
@@ -19617,6 +19631,7 @@ homeys
 homiest
 homilies
 hominians
+hominoid
 homoeroticism
 homogamous
 homogenates
@@ -19740,6 +19755,7 @@ hop
 hope
 hopeful
 hopelessness
+hopelessnesses
 hopes
 hoplites
 hoppiest
@@ -20017,6 +20033,7 @@ huswifes
 hutch
 hutching
 hutlike
+huts
 hutzpa
 hutzpahs
 huzzaed
@@ -20756,6 +20773,7 @@ inaugurate
 inaugurations
 inaugurators
 inauspiciously
+inborn
 inbound
 inbounded
 inbreathe
@@ -22231,6 +22249,7 @@ jarl
 jarlsberg
 jarovized
 jarovizing
+jarring
 jars
 jarveys
 jasmin
@@ -23339,6 +23358,7 @@ lauan
 lauans
 laudableness
 laudanum
+laudation
 laudative
 laudator
 laudators
@@ -24545,6 +24565,7 @@ mafficks
 mafia
 mafiosi
 mafiosos
+magalogues
 magazine
 magdalene
 maggot
@@ -25262,6 +25283,7 @@ megavitamin
 megillahs
 megs
 meiny
+meiotically
 melamed
 melancholia
 melancholiacs
@@ -29567,6 +29589,7 @@ overbriefed
 overbright
 overbrowsing
 overbuild
+overburdened
 overburdening
 overburned
 overbuys
@@ -32262,6 +32285,7 @@ polarities
 polarity
 polarizable
 polarized
+polarizing
 polarographic
 polarography
 polarons
@@ -32413,6 +32437,7 @@ pommels
 pomologies
 pomologists
 pomology
+pompanos
 pompoms
 pompons
 pomposity
@@ -35174,6 +35199,7 @@ recycler
 recycling
 redacted
 redacting
+redans
 redargued
 redated
 redates
@@ -36743,6 +36769,7 @@ ridgels
 ridgetops
 ridglings
 ridicule
+ridiculed
 ridiculer
 ridiculers
 ridicules
@@ -38487,6 +38514,7 @@ sensationalists
 sensationalized
 sensations
 sense
+sensei
 senseis
 senselessness
 sensibilia
@@ -40593,6 +40621,7 @@ spiraeas
 spiraled
 spirally
 spirant
+spirants
 spire
 spired
 spirem
@@ -43896,6 +43925,7 @@ titlist
 titmen
 titrators
 tittivated
+tittivates
 tittup
 titty
 titularies
@@ -44063,6 +44093,7 @@ topkicks
 toploftily
 toploftiness
 toplofty
+topminnow
 topmost
 topnotchers
 topograph
@@ -44962,6 +44993,7 @@ tuppences
 tuppenny
 tuque
 turacous
+turban
 turbanned
 turbans
 turbeth
@@ -45050,6 +45082,7 @@ tuyer
 tuyeres
 twae
 twaes
+twain
 twanged
 twanging
 twangle
@@ -45440,6 +45473,7 @@ unchronicled
 unciae
 uncinal
 uncinarias
+uncinematic
 uncivil
 uncivilized
 unclamping
@@ -47299,6 +47333,7 @@ vomer
 vomicae
 vomiter
 vomito
+voodoo
 voodooed
 voodooism
 voodooisms
