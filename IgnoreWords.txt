@@ -906,6 +906,7 @@ aliennesses
 alif
 aliform
 alifs
+align
 alike
 alikeness
 aliment
@@ -953,6 +954,7 @@ allegretto
 allegrettos
 allegros
 alleles
+allelic
 allergenic
 allergenicity
 allergins
@@ -4464,6 +4466,7 @@ bluenoses
 blueprints
 blueshifts
 bluesman
+bluestone
 bluet
 blueweeds
 bluewood
@@ -5212,6 +5215,7 @@ brunch
 brunts
 brushability
 brushed
+brushers
 brushier
 brushiest
 brushoff
@@ -6315,6 +6319,7 @@ catchier
 catchiest
 catchments
 catchphrases
+catchups
 catchword
 catchwords
 catchy
@@ -8058,6 +8063,7 @@ colorcasted
 colorer
 colorfulness
 colorimeters
+colorimetric
 colorimetry
 colorization
 colorize
@@ -8773,6 +8779,7 @@ contraptions
 contrapuntists
 contraries
 contrarieties
+contrarinesses
 contravene
 contravener
 contredanses
@@ -9439,6 +9446,7 @@ cravening
 craver
 cravings
 crawfishes
+crawl
 crawled
 crawlers
 crawling
@@ -12335,6 +12343,7 @@ dodgeball
 dodgems
 dodgers
 dodges
+dodginesses
 dodgy
 dodo
 dodoes
@@ -14103,6 +14112,7 @@ epicrania
 epics
 epicure
 epicureanisms
+epicuticles
 epicuticular
 epicyclic
 epicycloidal
@@ -14298,6 +14308,7 @@ erythroblast
 erythroblasts
 erythroid
 erythromycin
+erythron
 erythropoietin
 erythrosin
 erythrosins
@@ -14757,6 +14768,7 @@ exodontias
 exoduses
 exoenzyme
 exogen
+exogens
 exon
 exonerated
 exonerating
@@ -14798,6 +14810,7 @@ expatriatisms
 expectedness
 expecters
 expecting
+expectorated
 expedience
 expediences
 expediency
@@ -15526,6 +15539,7 @@ fiars
 fiasco
 fiascoes
 fiascos
+fib
 fibber
 fibbing
 fiberglassed
@@ -20376,6 +20390,7 @@ hysons
 hyssop
 hysteresis
 hysterias
+iambus
 iambuses
 iatrical
 iatrogenic
@@ -21762,6 +21777,7 @@ internal
 internalised
 internalising
 internality
+internalization
 internally
 internationals
 internecine
@@ -22292,6 +22308,7 @@ jacklight
 jackplane
 jackrabbits
 jackrolled
+jackstays
 jackstone
 jackstraw
 jacobin
@@ -23731,6 +23748,7 @@ lesbos
 leses
 lesion
 lesioning
+lessee
 letch
 lethalities
 lethally
@@ -24017,6 +24035,7 @@ linoleum
 linsangs
 linter
 linters
+lintier
 linting
 lintols
 lints
@@ -26093,6 +26112,7 @@ miri
 mirin
 mirins
 mirker
+mirkest
 mirkier
 mirkily
 mirror
@@ -26767,6 +26787,7 @@ monument
 monumental
 monumentalities
 monumentalizing
+monumentally
 monuments
 mony
 monzonite
@@ -27083,6 +27104,7 @@ mulling
 mullions
 mullite
 multiaxial
+multibank
 multibillion
 multibladed
 multicar
@@ -27208,6 +27230,7 @@ murreys
 murrha
 murrs
 musca
+muscadel
 muscadet
 muscadets
 muscadines
@@ -27381,6 +27404,7 @@ nabis
 naboberies
 nabobesses
 nabobish
+nabobism
 nabobisms
 nabobs
 nacho
@@ -29511,6 +29535,7 @@ outlined
 outlived
 outliver
 outliving
+outloved
 outloves
 outmaneuver
 outmaneuvers
@@ -29946,6 +29971,7 @@ overly
 overmanned
 overmanning
 overmantels
+overmaster
 overmastered
 overmilk
 overmilked
@@ -31676,6 +31702,7 @@ photomosaic
 photomultiplier
 photomurals
 photonegative
+photooxidations
 photooxidized
 photoperiodism
 photoperiodisms
@@ -33252,6 +33279,7 @@ prenomens
 prenominated
 prenotification
 prenotifying
+prenotion
 prenticing
 prenumbers
 preobtain
@@ -33838,6 +33866,7 @@ prose
 prosected
 prosecution
 prosecutor
+prosecutors
 proselyte
 proselytes
 proselytise
@@ -35595,6 +35624,7 @@ referrals
 refights
 refigure
 refiled
+refillable
 refilling
 refinable
 refinancing
@@ -38846,6 +38876,7 @@ serpigo
 serpigoes
 serpigos
 serranoid
+serration
 serratures
 serriedly
 serriedness
@@ -39898,6 +39929,7 @@ slipsheeting
 slipsheets
 slither
 slithered
+slits
 slitted
 slitter
 slitters
@@ -40895,6 +40927,7 @@ spodes
 spodosols
 spoilsmen
 spoken
+spokes
 spokesmanships
 spokespeople
 spokeswomen
@@ -42918,6 +42951,7 @@ syncretise
 syncretised
 syncretists
 syncytia
+syncytial
 syndactyl
 syndactylism
 syndactyly
@@ -46974,6 +47008,7 @@ variational
 variationally
 varicellas
 varicoceles
+varicolored
 varicose
 variedly
 variegate
