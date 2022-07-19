@@ -430,6 +430,7 @@ adjunct
 adjunctions
 adjunctive
 adjuration
+adjuratory
 adjutant
 adjutants
 adjuvants
@@ -1062,6 +1063,7 @@ althea
 although
 altimeters
 altimetry
+altitudinal
 altocumuli
 altogether
 altos
@@ -3865,6 +3867,7 @@ betroths
 better
 bettering
 between
+betweennesses
 betweentimes
 beveling
 bevelled
@@ -5434,6 +5437,7 @@ burqas
 burro
 burrow
 burrowers
+burrows
 bursa
 burse
 bursted
@@ -5870,6 +5874,7 @@ cannonaded
 cannonades
 cannonading
 cannonballed
+cannonballing
 cannulated
 cannulating
 canny
@@ -8028,6 +8033,7 @@ colophonies
 colophons
 colorably
 colorado
+coloratura
 colorbred
 colorcast
 colorcasted
@@ -11656,6 +11662,7 @@ dingoes
 dinking
 dinkums
 dinky
+dinnerless
 dinnertime
 dinning
 dino
@@ -11686,6 +11693,7 @@ diphtheroids
 diphthong
 diphthonged
 diphthongizes
+diphthongizing
 diphthongs
 diphyletic
 diplex
@@ -11997,6 +12005,7 @@ dislikeable
 disliked
 dislocate
 dislocating
+dislocations
 dislodged
 dislodgement
 dislodgements
@@ -12484,6 +12493,7 @@ dottrels
 double
 doubleheader
 doublenesses
+doubler
 doublespeak
 doublespeakers
 doubloons
@@ -13307,6 +13317,7 @@ eked
 ekistics
 ektexine
 ekuele
+elaborates
 elaborations
 elaborative
 elain
@@ -14656,6 +14667,7 @@ executes
 executioners
 executions
 executory
+exed
 exedra
 exegetic
 exegetics
@@ -15033,6 +15045,7 @@ faecal
 faeries
 faery
 fagged
+faggoting
 faggotry
 faggots
 fagoted
@@ -15188,6 +15201,7 @@ farmworker
 faro
 farolito
 farouche
+farrago
 farrieries
 farriers
 farsides
@@ -15311,6 +15325,7 @@ federals
 federate
 federating
 federative
+federatively
 fedexed
 fedexing
 fedora
@@ -16270,6 +16285,7 @@ foppishly
 fora
 foramens
 foraminiferal
+forams
 forays
 forbear
 forbearance
@@ -16367,6 +16383,7 @@ foreswear
 foresworn
 foretaste
 foretasted
+foretell
 foretime
 foretops
 forever
@@ -19308,6 +19325,7 @@ heresy
 heretrixes
 hereunto
 heritor
+herm
 hermaean
 hermeneutically
 hermetic
@@ -20067,6 +20085,7 @@ hurricane
 hurricanes
 hurried
 hurriers
+hurries
 hursts
 hurt
 hurtless
@@ -20180,6 +20199,7 @@ hymeneally
 hymeniums
 hymenoptera
 hymenopteron
+hymenopterons
 hymens
 hymnbooks
 hymning
@@ -20950,6 +20970,7 @@ inconvertible
 inconvincible
 incony
 incoordination
+incorporated
 incorporation
 incorpses
 incorrect
@@ -22243,6 +22264,7 @@ jacobin
 jacobus
 jacobuses
 jaconet
+jactations
 jactitation
 jaculated
 jacuzzis
@@ -22302,6 +22324,7 @@ jarl
 jarlsberg
 jarovized
 jarovizing
+jarrahs
 jarring
 jars
 jarveys
@@ -23214,6 +23237,7 @@ laird
 lairdships
 lairing
 laitances
+lake
 lakefront
 lakes
 lakeshore
@@ -24470,6 +24494,7 @@ lurching
 lure
 lurers
 luridly
+luringly
 lurked
 lurkers
 luscious
@@ -25457,6 +25482,7 @@ mentee
 mentees
 mentioned
 mentioner
+mentioners
 mentored
 mentorship
 meoued
@@ -30549,6 +30575,7 @@ parasitising
 parasitisms
 parasitizations
 parasitized
+parasitoids
 parasitologic
 parasitological
 parasitologist
@@ -31562,6 +31589,7 @@ photochromisms
 photocomposed
 photocomposer
 photocomposes
+photocopied
 photocopying
 photocurrent
 photocurrents
@@ -35509,6 +35537,7 @@ refer
 refereed
 refereeing
 references
+referential
 referral
 referrals
 refights
@@ -37602,6 +37631,7 @@ saltwort
 salutary
 salutation
 salutatorian
+salutatorians
 salutatories
 salute
 salvageability
@@ -45053,6 +45083,7 @@ tubulate
 tubulates
 tubulating
 tubule
+tubulures
 tuchun
 tuckers
 tucket
@@ -45914,6 +45945,7 @@ uneventful
 unexamined
 unexceptionably
 unexcitable
+unexercised
 unexotic
 unexpected
 unexpurgated
@@ -46105,6 +46137,7 @@ unladen
 unlades
 unlashed
 unlashes
+unlatch
 unlatching
 unlawfulnesses
 unlead
@@ -46329,6 +46362,7 @@ unscrambling
 unscrew
 unscrews
 unscriptural
+unsealed
 unseam
 unsearchably
 unseasonably
@@ -48734,6 +48768,7 @@ yous
 youthen
 youthfulness
 youthquake
+yowed
 yowing
 yowling
 yows
