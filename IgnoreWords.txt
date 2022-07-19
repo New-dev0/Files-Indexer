@@ -4475,6 +4475,7 @@ boatsmen
 boatyard
 boatyards
 bob
+bobbers
 bobbery
 bobble
 bobbles
@@ -5395,6 +5396,7 @@ burnables
 burned
 burner
 burnish
+burnisher
 burnishers
 burnt
 burqas
@@ -6809,6 +6811,7 @@ chemosorbed
 chemostats
 chemosynthetic
 chemotaxis
+chemurgies
 chenopod
 cheongsams
 chequers
@@ -7637,6 +7640,7 @@ cocain
 cocainization
 cocaptains
 cocarboxylase
+cocarcinogens
 cocatalysts
 coccidia
 coccidium
@@ -7721,6 +7725,7 @@ codependent
 coderives
 coderiving
 codes
+codesigning
 codesigns
 codeveloper
 codex
@@ -9189,6 +9194,7 @@ countryman
 countrysides
 countrywomen
 coup
+coupe
 coupes
 couplements
 couples
@@ -9523,6 +9529,7 @@ croc
 crocine
 crockeries
 crockery
+crocketed
 crockets
 crocking
 crockpot
@@ -9736,6 +9743,7 @@ cufflink
 cufflinks
 cuif
 cuing
+cuirassing
 cuish
 cuishes
 cuisinarts
@@ -13633,6 +13641,7 @@ endocarditises
 endoderm
 endodontists
 endoenzymes
+endoergic
 endogamy
 endogenic
 endogenies
@@ -15010,6 +15019,7 @@ falsities
 faltered
 falterers
 falters
+fame
 familiar
 familiarises
 familiarising
@@ -19399,6 +19409,7 @@ hippy
 hips
 hirable
 hircine
+hireable
 hirselled
 hirsels
 hirsute
@@ -20918,6 +20929,7 @@ indications
 indicatives
 indicators
 indicia
+indictable
 indifferent
 indifferently
 indigen
@@ -22838,6 +22850,7 @@ klicks
 klongs
 kludgiest
 klutzinesses
+klystrons
 knacker
 knackery
 knacks
@@ -22887,6 +22900,7 @@ knowable
 knower
 knowing
 knowingly
+knowingness
 knowingnesses
 knuckleballs
 knuckler
@@ -23831,6 +23845,7 @@ lip
 lipa
 lipectomy
 lipides
+lipids
 lipin
 lipins
 lipogeneses
@@ -24047,6 +24062,7 @@ logicize
 logicizing
 logicless
 logics
+logiest
 logistically
 logisticians
 logjam
@@ -24205,6 +24221,7 @@ loveless
 lovelessnesses
 lovelier
 lovelies
+lovelily
 loveliness
 lovelocks
 lovemaking
@@ -24782,6 +24799,7 @@ marathoner
 marathons
 marauding
 marauds
+maravedis
 marbelize
 marble
 marbleize
@@ -26349,6 +26367,7 @@ mollified
 mollifier
 mollifies
 molls
+mollusca
 molluscicidal
 molluscs
 mollycoddles
@@ -27199,6 +27218,7 @@ nankins
 nannyish
 nanogram
 nanometres
+nanoseconds
 nanotesla
 nanotube
 napalm
@@ -28959,6 +28979,7 @@ orogeny
 orographical
 orography
 oroide
+orologists
 orology
 orotundities
 orotundity
@@ -30755,6 +30776,7 @@ peeling
 peels
 peening
 peens
+peeper
 peeping
 peeps
 peered
@@ -31714,6 +31736,7 @@ pintles
 pintoes
 pintos
 pintsized
+pinwales
 pinwheel
 pinworms
 piny
@@ -32783,6 +32806,7 @@ precleans
 preclearances
 preclears
 precocity
+precombustions
 precommitment
 precomputes
 preconception
@@ -33006,6 +33030,7 @@ prepotently
 preppiest
 prepriced
 preprices
+preprimary
 preprocessing
 preprocessor
 preprocessors
@@ -34241,6 +34266,7 @@ querulous
 querulousness
 question
 questioned
+quetzales
 quetzals
 queues
 quezales
@@ -35152,6 +35178,7 @@ redisposing
 redisposition
 redistributions
 redistricts
+redivorced
 redlegs
 redlined
 redliners
@@ -35825,6 +35852,7 @@ repayable
 repayments
 repays
 repeat
+repeatable
 repegged
 repellants
 repelled
@@ -36959,6 +36987,7 @@ rotisseries
 rotls
 roto
 rotors
+rototillers
 rotted
 rottweilers
 rotunda
@@ -37952,6 +37981,7 @@ scraping
 scrappage
 scrappages
 scrapped
+scrapper
 scrappers
 scrappily
 scrappiness
@@ -42671,6 +42701,7 @@ tacker
 tackers
 tackets
 tackily
+tackle
 tackling
 tacks
 tacnode
@@ -44382,6 +44413,7 @@ trehalas
 trelliswork
 tremble
 trembled
+tremendous
 tremor
 tremorous
 trenail
@@ -44808,6 +44840,7 @@ tun
 tuna
 tunable
 tunableness
+tundishes
 tune
 tuneable
 tuneless
@@ -45407,6 +45440,7 @@ undatable
 undated
 undauntable
 undebatable
+undeceives
 undeceiving
 undecidable
 undecideds
@@ -47773,6 +47807,7 @@ whoofing
 whoop
 whoopee
 whoopees
+whoopers
 whoops
 whooshes
 whopper
