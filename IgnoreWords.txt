@@ -224,6 +224,7 @@ acerbity
 acerola
 acerose
 acervuli
+acescent
 acetabulum
 acetamide
 acetamides
@@ -292,6 +293,7 @@ acquirers
 acquisitive
 acquittance
 acred
+acres
 acrider
 acridine
 acridities
@@ -401,6 +403,7 @@ adenosis
 adenoviruses
 adeptness
 adequacies
+adequate
 adequatenesses
 adherence
 adherends
@@ -1278,6 +1281,7 @@ amusingly
 amusingness
 amygdales
 amygdalin
+amygdaloid
 amygdule
 amylase
 amylases
@@ -1858,6 +1862,7 @@ aphorises
 aphorists
 aphorized
 aphorizers
+aphrodisiacs
 aphrodites
 aphyllous
 apiaceous
@@ -4190,6 +4195,7 @@ bistro
 bisulfate
 bisulfates
 bisulfide
+bisulfites
 bit
 bitartrate
 bitchen
@@ -5029,6 +5035,7 @@ bricklaying
 bricks
 bridal
 bride
+bridesmaids
 bridewells
 bridge
 bridgeless
@@ -5277,6 +5284,7 @@ budgeting
 budless
 buffable
 buffaloed
+buffalofish
 buffaloing
 buffer
 buffeter
@@ -5429,6 +5437,7 @@ burnable
 burnables
 burned
 burner
+burnies
 burnish
 burnisher
 burnishers
@@ -6544,6 +6553,7 @@ ceramist
 cerastes
 cerated
 cercaria
+cercarians
 cere
 cerebellum
 cerebration
@@ -6711,6 +6721,7 @@ charade
 charbroiled
 charbroils
 charcoaling
+charcoals
 chargehand
 charger
 charging
@@ -13525,6 +13536,7 @@ embrangles
 embrangling
 embrittle
 embrocates
+embrocation
 embrocations
 embroidered
 embroiler
@@ -16383,6 +16395,7 @@ foreswear
 foresworn
 foretaste
 foretasted
+foreteeth
 foretell
 foretime
 foretops
@@ -16416,6 +16429,7 @@ forklifted
 forklifting
 forlornest
 forlornness
+formabilities
 formable
 formaldehyde
 formaldehydes
@@ -16985,6 +16999,7 @@ gaggles
 gaggling
 gaging
 gagmen
+gahnite
 gaillardias
 gainable
 gainfully
@@ -17081,6 +17096,7 @@ gamekeeper
 gamesmanship
 gamester
 gametogenesis
+gamine
 gaminess
 gaminesses
 gamins
@@ -18025,6 +18041,7 @@ grabbled
 grabbler
 grabby
 gracefullest
+gracelessnesses
 gracile
 graciles
 gracilis
@@ -20030,6 +20047,7 @@ humblingly
 humbuggeries
 humdinger
 humdingers
+humectants
 humerals
 humid
 humidex
@@ -22385,6 +22403,7 @@ jeopardised
 jeopardize
 jeopardizes
 jequirities
+jequirity
 jereed
 jerker
 jerkier
@@ -22486,6 +22505,7 @@ johnnycake
 johnnycakes
 johns
 joinder
+joiner
 joinings
 joint
 jointly
@@ -23635,6 +23655,7 @@ lehuas
 leiomyomas
 leiomyomata
 leishmania
+leishmanial
 leishmaniases
 leistered
 leisureliness
@@ -24561,6 +24582,7 @@ lyricised
 lyricize
 lyrisms
 lysed
+lysimeter
 lysimetric
 lysine
 lysines
@@ -24757,6 +24779,7 @@ malfed
 malformations
 malfunction
 malfunctioning
+malgre
 malignance
 malignancies
 malignant
@@ -25520,6 +25543,7 @@ mergers
 merging
 meridians
 meridionally
+meridionals
 meringues
 merises
 meristically
@@ -27783,6 +27807,7 @@ nieves
 niffering
 niftiest
 niftily
+niggarded
 niggarding
 niggardliness
 niggardlinesses
@@ -28931,6 +28956,7 @@ ontologists
 onus
 onward
 onyx
+onyxes
 oocytes
 oogamies
 oogonia
@@ -29720,6 +29746,7 @@ overcompresses
 overconfident
 overconsume
 overconsuming
+overcontrolled
 overcontrolling
 overcook
 overcool
@@ -30573,6 +30600,7 @@ parasiticide
 parasitise
 parasitising
 parasitisms
+parasitization
 parasitizations
 parasitized
 parasitoids
@@ -32133,6 +32161,7 @@ plasmolyzing
 plasmons
 plaster
 plasterboards
+plasterers
 plasterworks
 plasticene
 plasticity
@@ -38838,6 +38867,7 @@ severest
 severities
 seviches
 sevruga
+sewable
 sewage
 sewan
 sewed
@@ -39995,6 +40025,7 @@ smithers
 smithies
 smiths
 smiting
+smock
 smockings
 smocks
 smogless
@@ -40656,6 +40687,7 @@ spellbinds
 spelled
 spellers
 spells
+spelt
 spelunk
 spelunked
 spences
@@ -43842,6 +43874,7 @@ throned
 throttles
 through
 throughither
+throughly
 throughputs
 thrown
 thrummer
@@ -47251,6 +47284,7 @@ videttes
 vidicon
 viduities
 vied
+viewdata
 viewer
 viewiest
 viewy
@@ -47277,6 +47311,7 @@ villainousness
 villanelle
 villas
 vimen
+vimineous
 vina
 vinal
 vinasse
