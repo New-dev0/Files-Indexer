@@ -41,6 +41,7 @@ abrogated
 abruptions
 abruptness
 abruptnesses
+abscessing
 abscisin
 abscisins
 abscond
@@ -4287,6 +4288,7 @@ bland
 blander
 blandishing
 blandishment
+blanked
 blanker
 blankest
 blanketflower
@@ -4488,6 +4490,7 @@ blunges
 blunging
 blunting
 blurbed
+blurredly
 blurrily
 blurt
 blurting
@@ -5780,6 +5783,7 @@ calycle
 calyculi
 calypsoes
 calypsos
+calypter
 calypters
 calyxes
 calzone
@@ -7001,6 +7005,7 @@ chipmuck
 chipotle
 chipper
 chippers
+chippier
 chippy
 chips
 chiralities
@@ -8032,6 +8037,7 @@ colloquists
 colluding
 colluvium
 colluviums
+collywobbles
 colobomata
 colobus
 cologarithm
@@ -8528,6 +8534,7 @@ congresspeople
 congressperson
 congresspersons
 congresswomen
+congruence
 congruences
 congruencies
 congruities
@@ -9513,6 +9520,7 @@ crenelated
 crenelating
 creneled
 crenels
+crenshaw
 creodont
 creole
 creolise
@@ -11090,6 +11098,7 @@ depositaries
 depositary
 depositing
 depositors
+depository
 depot
 depravedly
 depravedness
@@ -11115,6 +11124,7 @@ depressors
 depressurized
 depressurizes
 depressurizing
+deprivation
 deprivations
 deprive
 depriving
@@ -11404,6 +11414,7 @@ diabolos
 diachrony
 diaconates
 diadelphous
+diademed
 diademing
 diaeresis
 diageotropic
@@ -12331,6 +12342,7 @@ documentalist
 documentarians
 documentational
 documented
+documenters
 documenting
 dodderer
 doddering
@@ -13881,6 +13893,7 @@ enmity
 enneadic
 ennobler
 ennuye
+enokitake
 enokitakes
 enolase
 enolic
@@ -17380,6 +17393,7 @@ genealogically
 generalises
 generalizable
 generalize
+generalizer
 generalizes
 generally
 generation
@@ -17947,6 +17961,7 @@ goitrogens
 golconda
 goldbricking
 goldenness
+goldenseals
 goldeyes
 goldfinch
 goldsmith
@@ -20288,6 +20303,7 @@ hyperimmunize
 hyperimmunizing
 hyperinvolution
 hyperkeratosis
+hyperkinesia
 hyperkinesis
 hyperlink
 hypermania
@@ -20456,6 +20472,7 @@ ideologue
 ides
 idiom
 idiomatically
+idiomorphic
 idiopathies
 idiotical
 idiotypes
@@ -21607,6 +21624,7 @@ insurgencies
 insurrection
 insusceptible
 inswathe
+intaglioing
 intake
 intakes
 intangibilities
@@ -22018,6 +22036,7 @@ inviolably
 invirile
 inviscid
 invisibilities
+invisibles
 invitations
 invitatories
 invitatory
@@ -24665,6 +24684,7 @@ machzors
 macintosh
 mackintoshes
 macled
+macles
 macrocosms
 macrocyclic
 macrocysts
@@ -24897,6 +24917,7 @@ mandator
 mandibulate
 mandola
 mandolins
+mandrake
 mandrel
 mandrill
 mandrils
@@ -25765,6 +25786,7 @@ mezereon
 mezes
 mezquite
 mezuza
+mezuzah
 mezuzahs
 mezuzoth
 miaou
@@ -29158,6 +29180,7 @@ orderliness
 ordinaries
 ordnance
 ordnances
+ordo
 ordonnances
 orectic
 oreide
@@ -32987,6 +33010,7 @@ prankishly
 prankster
 praos
 prater
+prates
 pratfall
 pratfalls
 pratiques
@@ -33372,6 +33396,7 @@ presentments
 presentness
 preservability
 preservationist
+preservatives
 preserver
 presettles
 preshape
@@ -38150,6 +38175,7 @@ schlumpier
 schmaltz
 schmalziest
 schmatte
+schmeers
 schmelzes
 schmo
 schmoes
@@ -39840,6 +39866,8 @@ slatiest
 slatiness
 slaughterer
 slaughterers
+slaughterhouse
+slaughterhouses
 slaughtering
 slaughterous
 slaughters
@@ -40603,6 +40631,7 @@ spaceman
 spacer
 spacesuit
 spacewalkers
+spacewalking
 spaceward
 spacially
 spaciest
@@ -41436,6 +41465,7 @@ sterling
 sterlingness
 stern
 sterner
+sternnesses
 sternocostal
 sternutators
 sternward
@@ -42082,6 +42112,7 @@ subnational
 subnetworks
 subnuclear
 suboptimization
+suboptimize
 suboptimizes
 suborbicular
 suborder
@@ -44724,6 +44755,7 @@ trapshooter
 trapunto
 trapuntos
 trashman
+trauchled
 traumatically
 traumatise
 traumatism
@@ -45301,6 +45333,7 @@ turpentine
 turpentined
 turpeth
 turquoises
+turret
 turtleback
 turtleheads
 turtles
@@ -47035,6 +47068,7 @@ varooms
 varuses
 varying
 varyingly
+vas
 vasa
 vascula
 vascularity
@@ -47386,6 +47420,7 @@ vinasse
 vinca
 vincible
 vincula
+vinculums
 vindications
 vindicator
 vindictive
