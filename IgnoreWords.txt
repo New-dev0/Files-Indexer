@@ -948,6 +948,7 @@ allantois
 allayed
 allee
 alleger
+allegoricalness
 allegories
 allegorization
 allegorize
@@ -2224,6 +2225,7 @@ arose
 arousals
 arouse
 aroused
+arousers
 aroynt
 aroynting
 arpeggios
@@ -4044,6 +4046,7 @@ bimethyl
 bimethyls
 bimodal
 bimonthly
+binately
 binational
 bindingly
 bindingness
@@ -4731,6 +4734,7 @@ bopeep
 bopper
 borating
 bordel
+bordello
 bordering
 bordure
 bored
@@ -7658,6 +7662,7 @@ cnidae
 cnidarian
 coacervations
 coachwork
+coacting
 coactive
 coadjutor
 coadjutrices
@@ -8527,6 +8532,7 @@ conglobates
 conglobe
 conglobed
 conglomerated
+conglomerateurs
 conglomeration
 conglomerative
 conglomerator
@@ -12812,6 +12818,7 @@ drool
 droolier
 drooliest
 drooling
+droopily
 droopy
 dropforges
 dropforging
@@ -12935,6 +12942,7 @@ dukedoms
 dulcetly
 dulcified
 dulcifies
+dulcifying
 dulcimers
 duller
 dulness
@@ -13279,6 +13287,7 @@ educible
 eduction
 eductor
 edulcorating
+eel
 eelgrass
 eeliest
 eelworm
@@ -14274,6 +14283,7 @@ erect
 erectilities
 erecting
 erective
+eremites
 eremuruses
 erenow
 erepsins
@@ -16119,6 +16129,7 @@ flowchartings
 flowed
 flowerage
 flowerers
+flowerette
 flowerettes
 flowerful
 floweriest
@@ -17320,6 +17331,7 @@ gaum
 gaumed
 gaunter
 gauntly
+gauntnesses
 gauntry
 gaur
 gaurs
@@ -18227,6 +18239,7 @@ grassplots
 grassy
 grated
 grateless
+graters
 gratifier
 gratinees
 gratings
@@ -20086,6 +20099,7 @@ hueless
 huff
 huffed
 huffing
+hugeous
 hugger
 huh
 hulk
@@ -20365,6 +20379,7 @@ hypersecretions
 hypersonic
 hyperspace
 hypersthene
+hypertense
 hypertension
 hypertonia
 hypertonias
@@ -23443,6 +23458,7 @@ lankness
 lanknesses
 lanner
 lanoline
+lantana
 lanugo
 lap
 laparoscope
@@ -23804,6 +23820,7 @@ letch
 lethalities
 lethally
 lethargy
+letted
 letterboxings
 lettermen
 letterpresses
@@ -25063,6 +25080,7 @@ maraca
 maras
 maraschinos
 marathoner
+marathonings
 marathons
 marauding
 marauds
@@ -27097,6 +27115,7 @@ mucking
 muckle
 mucklucks
 muckraked
+mucluc
 muclucs
 mucoid
 mucoidal
@@ -27685,6 +27704,7 @@ neglects
 negligee
 negligently
 negliges
+negligible
 negligibly
 negotiability
 negotiating
@@ -28334,6 +28354,7 @@ nonpareil
 nonparents
 nonparticipants
 nonparties
+nonpartisanship
 nonpasserine
 nonpasts
 nonpayment
@@ -29647,6 +29668,7 @@ outpushed
 outputs
 outquotes
 outquoting
+outrace
 outrageously
 outrageousness
 outrages
@@ -32319,6 +32341,7 @@ playbill
 playbills
 playbook
 playdown
+players
 playfield
 playfulnesses
 playgoers
@@ -37179,6 +37202,7 @@ ritually
 rivages
 rival
 rivaled
+rivalled
 riven
 riverbank
 riverbed
@@ -37778,10 +37802,12 @@ saloon
 saloops
 salpids
 salpiform
+salpingitis
 sals
 salsa
 salsify
 saltarello
+saltations
 saltatorial
 saltatory
 saltboxes
@@ -39921,6 +39947,7 @@ slapping
 slashings
 slatches
 slate
+slated
 slaters
 slatier
 slatiest
@@ -42706,6 +42733,7 @@ supremacies
 supremacists
 suprematist
 supremenesses
+supremes
 supremest
 supremo
 supremos
@@ -42737,6 +42765,7 @@ surgery
 surgically
 suricate
 surimi
+surimis
 surlily
 surlinesses
 surmises
@@ -43549,6 +43578,7 @@ teleplays
 teleportations
 teleports
 teleprocessing
+teleprocessings
 telescoped
 telescopic
 teleses
@@ -43821,6 +43851,7 @@ thankfulness
 thankworthy
 that
 thatching
+thaumaturge
 thaumaturgies
 thaumaturgist
 thaumaturgists
@@ -44483,6 +44514,7 @@ torpors
 torqued
 torquer
 torquers
+torr
 torrefies
 torrefying
 torrentially
@@ -44986,6 +45018,7 @@ tricrotic
 trictracs
 trident
 tridental
+tridents
 trienes
 triennials
 trienniums
@@ -48183,6 +48216,7 @@ whaleman
 whales
 whangee
 whangees
+whangs
 whaps
 wharfage
 wharfinger
@@ -48619,6 +48653,7 @@ woodwaxen
 woodworkers
 woof
 woofer
+wooingly
 wooler
 woolers
 woolgathering
