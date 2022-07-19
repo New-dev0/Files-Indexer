@@ -1896,6 +1896,7 @@ apomicts
 apomorphines
 apophthegms
 apophyllite
+apophyses
 apoplexies
 apoptosis
 aporias
@@ -2698,6 +2699,7 @@ autocephalies
 autocoid
 autocrine
 autocross
+autoecious
 autoecism
 autoerotic
 autogamies
@@ -3968,6 +3970,7 @@ bigwigs
 bihourly
 bijection
 bijective
+bijugate
 biked
 bikini
 bilabial
@@ -4884,6 +4887,7 @@ brainpans
 brainstems
 brainstorming
 brainwash
+brainwasher
 braise
 braised
 brakeman
@@ -5702,6 +5706,7 @@ callan
 callans
 callbacks
 callees
+callets
 calligraphers
 calligraphists
 calligraphy
@@ -6001,6 +6006,7 @@ caravanserai
 caravel
 caraways
 carb
+carbamates
 carbamino
 carbineers
 carbinols
@@ -9174,6 +9180,7 @@ counterfeit
 counterfeiters
 counterfeiting
 counterflow
+counterfoil
 counterinstance
 countermanded
 countermarching
@@ -12123,6 +12130,7 @@ distaff
 distaffs
 distains
 distal
+distancing
 distant
 distantness
 distaste
@@ -13684,6 +13692,7 @@ endogenic
 endogenies
 endogenous
 endogeny
+endometritis
 endomitoses
 endomixis
 endomorphs
@@ -15371,6 +15380,7 @@ fermented
 fermenting
 fermi
 fermium
+fernless
 ferns
 ferociously
 ferociousness
@@ -15423,6 +15433,7 @@ fetial
 fetiales
 fetials
 feticidal
+feticide
 fetidity
 fetidly
 fetidness
@@ -15694,6 +15705,7 @@ fisheyes
 fishhook
 fishhooks
 fishily
+fishiness
 fishings
 fishmeal
 fishmeals
@@ -16185,6 +16197,7 @@ foolishly
 foolishnesses
 foolproof
 fools
+foolscap
 foosballs
 footage
 footballs
@@ -16715,6 +16728,7 @@ fruitier
 fruitily
 fruiting
 fruition
+fruitlessly
 fruitlessnesses
 frumpiest
 frusta
@@ -16844,6 +16858,7 @@ furnaced
 furnishers
 furnishes
 furore
+furores
 furosemides
 furrieries
 furrily
@@ -17764,6 +17779,7 @@ gnarrs
 gnashes
 gnat
 gnathic
+gnathions
 gnathite
 gnatlike
 gnattier
@@ -22487,6 +22503,7 @@ judoka
 jugate
 juggernauts
 juggler
+jugglers
 jugglings
 jughead
 jugs
@@ -25889,6 +25906,7 @@ mindedness
 mindful
 mindfulnesses
 mindless
+mine
 mineral
 mineralised
 mineralises
@@ -26100,6 +26118,7 @@ misevaluated
 misfeasance
 misfields
 misfiled
+misfiling
 misfire
 misfiring
 misfocuses
@@ -27864,6 +27883,7 @@ nonbiting
 nonblack
 nonbodies
 nonbonded
+nonbook
 nonbrand
 nonbreathing
 nonbreeding
@@ -30154,6 +30174,7 @@ palatalize
 palatalizes
 palatialness
 palatialnesses
+palatinate
 palavered
 palaverer
 palaverers
@@ -31000,6 +31021,7 @@ pep
 peperomia
 peperomias
 pepino
+peponidas
 peponium
 pepperbox
 pepperboxes
@@ -31505,6 +31527,7 @@ photolyze
 photomapped
 photometers
 photometry
+photomontage
 photomontages
 photomosaic
 photomultiplier
@@ -32476,6 +32499,7 @@ pools
 poontangs
 poop
 poops
+poorest
 pooris
 poos
 popedom
@@ -34176,6 +34200,7 @@ pyrexic
 pyrheliometric
 pyric
 pyridic
+pyridoxal
 pyridoxamine
 pyridoxin
 pyridoxines
@@ -35695,6 +35720,7 @@ rejigged
 rejoining
 rejudge
 rejuggled
+rejuggling
 rejustifies
 rejustify
 rejustifying
@@ -38849,6 +38875,7 @@ sheatfish
 sheather
 sheaved
 shebeans
+shed
 shedders
 sheds
 sheen
@@ -42928,6 +42955,7 @@ tambouring
 tambur
 tamburas
 tameable
+tameless
 tamenesses
 tamer
 tames
@@ -44189,6 +44217,7 @@ tottered
 toucan
 touch
 touchdown
+touchdowns
 touche
 touchier
 touchiness
@@ -44416,6 +44445,7 @@ transliteration
 translocated
 translucences
 translucencies
+translucency
 transmigrated
 transmigrating
 transmigration
@@ -46536,6 +46566,7 @@ urbanise
 urbanises
 urbanising
 urbanisms
+urbanists
 urbanity
 urbanizations
 urbanized
@@ -46658,6 +46689,7 @@ valiances
 valiancy
 valiant
 valiantly
+valid
 validating
 validity
 valises
@@ -46946,6 +46978,7 @@ veritablenesses
 verite
 verity
 vermeil
+vermicide
 vermicides
 vermiculate
 vermifuge
@@ -47468,6 +47501,7 @@ wakefulness
 waken
 wakening
 wakenings
+waker
 wakes
 waking
 waled
@@ -48238,6 +48272,7 @@ woodstoves
 woodwaxen
 woodworkers
 woof
+woofer
 wooler
 woolers
 woolgathering
