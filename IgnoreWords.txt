@@ -41,6 +41,7 @@ abrogated
 abruptions
 abruptness
 abruptnesses
+abscess
 abscessing
 abscisin
 abscisins
@@ -605,6 +606,7 @@ affectless
 affenpinschers
 afferently
 affiance
+affiancing
 affiche
 affiches
 afficionado
@@ -851,6 +853,7 @@ albites
 albizia
 albumens
 albumins
+albuminuria
 alburnums
 alcaldes
 alcazars
@@ -12679,6 +12682,7 @@ downtick
 downtowns
 downtrended
 downtrending
+downtrod
 downturns
 downwardly
 dowries
@@ -14573,6 +14577,7 @@ eulachon
 eulogists
 eulogizer
 eunuch
+eunuchoid
 euonymuses
 eupatridae
 eupatrids
@@ -14963,6 +14968,7 @@ expulse
 expulsed
 expulses
 expulsing
+expulsive
 expunctions
 expunged
 expurgates
@@ -15134,6 +15140,7 @@ factoids
 factorable
 factored
 factories
+factorship
 factorylike
 factotum
 factotums
@@ -16544,6 +16551,7 @@ formable
 formaldehyde
 formaldehydes
 formalised
+formalists
 formalize
 formalizer
 formalnesses
@@ -18770,6 +18778,7 @@ habus
 haciendado
 hackable
 hackberries
+hacked
 hacker
 hackers
 hacking
@@ -21950,6 +21959,7 @@ interspecies
 interspersed
 interspersions
 interstadial
+interstadials
 interstate
 interstation
 intersterile
@@ -23974,6 +23984,7 @@ lice
 licencers
 licencing
 licensable
+licensed
 licensees
 licenses
 licensors
@@ -24286,6 +24297,7 @@ lividnesses
 liviers
 living
 livings
+livre
 lixivia
 lixiviate
 lixiviated
@@ -25241,6 +25253,7 @@ martyrologist
 martyrologists
 martyrology
 marvel
+masalas
 masas
 mascaraing
 mascarpones
@@ -26654,6 +26667,7 @@ mockup
 mocs
 mod
 modalities
+modality
 modals
 modelers
 modelings
@@ -28163,6 +28177,7 @@ nonbank
 nonbanks
 nonbearing
 nonbeing
+nonbeings
 nonbelievers
 nonbetting
 nonbinary
@@ -30885,6 +30900,7 @@ parricides
 parritches
 parroted
 parrs
+parry
 pars
 parsley
 parsleyed
@@ -33266,6 +33282,7 @@ precombustions
 precommitment
 precomputes
 preconception
+precondition
 preconizes
 preconizing
 preconquest
@@ -34201,6 +34218,7 @@ pseudocoels
 pseudomonad
 pseudomonas
 pseudomorphism
+pseudopod
 pseudopodia
 pseudopregnant
 pseudorandom
@@ -34986,6 +35004,7 @@ ramate
 ramble
 rambling
 rambunctiously
+ramee
 ramees
 ramekin
 ramie
@@ -36406,6 +36425,7 @@ reportedly
 reporting
 repos
 reposals
+reposedly
 reposeful
 reposers
 reposit
@@ -36904,6 +36924,7 @@ retroreflectors
 retrospecting
 retrospects
 retrousse
+retroviral
 retrying
 retuning
 returnable
@@ -37237,6 +37258,7 @@ rimrocks
 rin
 ringbarks
 ringbolt
+ringbolts
 ringer
 ringers
 ringhals
@@ -40699,6 +40721,7 @@ sootier
 sootily
 sootinesses
 sooty
+sopaipilla
 sopaipillas
 sopapilla
 sophisms
@@ -41499,6 +41522,7 @@ statecraft
 statecrafts
 statehouses
 stateliness
+stately
 statements
 stateroom
 staters
@@ -41514,6 +41538,7 @@ statism
 statist
 statistic
 statistically
+statistics
 statives
 statocysts
 statuary
@@ -42107,6 +42132,7 @@ stylus
 styluses
 stymie
 styptics
+styrene
 styrenes
 suability
 suable
@@ -42282,6 +42308,7 @@ submergence
 submergences
 submerges
 submergible
+submersion
 submetacentric
 submetacentrics
 submicrogram
@@ -43085,6 +43112,7 @@ swum
 sybaritic
 sybaritically
 sybaritisms
+sycees
 sycophancies
 sycophancy
 sycophantic
@@ -43937,6 +43965,7 @@ thae
 thairm
 thairms
 thalami
+thalamus
 thalassaemias
 thalassocracies
 thalidomide
@@ -44153,6 +44182,7 @@ thrive
 thriven
 thrivingly
 throat
+throatier
 throatiness
 throatlatch
 throbbed
@@ -44227,6 +44257,7 @@ thyroids
 thyrotoxicoses
 thyrotrophin
 thyrotropic
+thyroxin
 thyrses
 thyrsus
 tiara
@@ -45444,6 +45475,7 @@ tumefying
 tumescence
 tumesces
 tumidity
+tummies
 tumoral
 tumorlike
 tumping
@@ -45799,6 +45831,7 @@ umteenth
 unabating
 unabiding
 unabjured
+unabraded
 unabsorbed
 unabusive
 unacademic
@@ -47443,6 +47476,7 @@ verdure
 verdured
 verdurous
 verger
+vergers
 verglas
 veridicalities
 veriest
@@ -48241,6 +48275,7 @@ wedelns
 wedge
 wedgier
 wedgiest
+weeder
 weedier
 weediest
 weedily
