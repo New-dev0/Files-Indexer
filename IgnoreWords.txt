@@ -1413,6 +1413,7 @@ anecdotic
 anecdotically
 anecdotists
 anele
+anemia
 anemic
 anemologies
 anemones
@@ -3740,6 +3741,7 @@ benchlands
 benchwarmers
 bendable
 bendayed
+bendaying
 bendwise
 benedictions
 beneficent
@@ -4705,6 +4707,7 @@ bookmakings
 bookman
 bookmarker
 bookmarking
+bookshelf
 bookshop
 bookshops
 bookstand
@@ -5164,6 +5167,7 @@ bromating
 bromelain
 bromeliad
 bromelin
+bromes
 brominated
 brominations
 bromine
@@ -8511,6 +8515,7 @@ conflates
 conflation
 conflict
 confluent
+conflux
 confluxes
 conformance
 conformer
@@ -9321,6 +9326,7 @@ countrywomen
 coup
 coupe
 coupes
+couple
 couplements
 couples
 couplet
@@ -9931,6 +9937,7 @@ cumulations
 cumulative
 cumulonimbi
 cunctation
+cunctator
 cundum
 cuneate
 cuneatic
@@ -9953,6 +9960,7 @@ cupreous
 cuprous
 cuprum
 curablenesses
+curacao
 curacies
 curaghs
 curanderos
@@ -10461,6 +10469,7 @@ deaerator
 deaerators
 deaf
 deafened
+deafnesses
 deaired
 dealated
 dealation
@@ -13082,6 +13091,7 @@ dynamometric
 dynamotors
 dynatron
 dynel
+dynes
 dynode
 dynodes
 dynorphin
@@ -13621,6 +13631,7 @@ embroidered
 embroiler
 embroiling
 embrown
+embrowns
 embrued
 embrues
 embruted
@@ -14120,6 +14131,7 @@ enwrapping
 enwreathed
 enwreathes
 enzym
+enzymes
 enzymologies
 enzymologist
 enzymologists
@@ -14892,6 +14904,7 @@ expendable
 expends
 expensed
 experientially
+experiment
 experimentalist
 experimentally
 experimented
@@ -18044,6 +18057,7 @@ gomerils
 gomphosis
 gonad
 gonadial
+gonadotropins
 gondola
 gone
 goner
@@ -19675,6 +19689,7 @@ hissing
 hissy
 histamines
 histamins
+histidine
 histidins
 histochemistry
 histoid
@@ -24416,6 +24431,7 @@ loment
 lomenta
 lonesome
 longan
+longanimity
 longe
 longes
 longhair
@@ -24744,6 +24760,7 @@ lytically
 lyttae
 macacos
 macadamias
+macadamize
 macadamizing
 macaronies
 maccabaw
@@ -25907,6 +25924,7 @@ microbiological
 microbreweries
 microbrews
 microburst
+microbus
 microcap
 microclimate
 micrococci
@@ -27676,6 +27694,7 @@ nawabs
 nay
 nays
 naysaid
+naysaying
 nazification
 nazified
 ne
@@ -27819,6 +27838,7 @@ nerdy
 nerol
 nervier
 nervines
+nervousnesses
 nesciences
 nescient
 nescients
@@ -27829,6 +27849,7 @@ nestors
 nethermost
 netherworld
 netlike
+netminder
 netop
 nettable
 netter
@@ -29242,6 +29263,7 @@ optimizes
 optionalities
 optionals
 options
+optoelectronic
 optometers
 optometry
 opts
@@ -29754,6 +29776,7 @@ outscolding
 outscoop
 outscooping
 outscoring
+outscreaming
 outseeing
 outsell
 outshout
@@ -31617,6 +31640,7 @@ pettifoggings
 pettinesses
 pettishness
 petto
+petulances
 petulancy
 petulant
 pew
@@ -31815,6 +31839,7 @@ photoed
 photoelectrons
 photoengraves
 photofinisher
+photofinishing
 photofinishings
 photoflashes
 photog
@@ -33685,6 +33710,7 @@ primine
 primitively
 primitivism
 primitivist
+primitivists
 primitivity
 primmest
 primness
@@ -35256,6 +35282,7 @@ reassembly
 reasserted
 reassertions
 reassessment
+reassignment
 reassignments
 reassorted
 reassorting
@@ -35981,6 +36008,7 @@ reimaging
 reimagining
 reimbursed
 reimburses
+reimmersed
 reimmerses
 reimport
 reimportation
@@ -36592,6 +36620,7 @@ resist
 resistants
 resister
 resistibility
+resisting
 resistively
 resistlessness
 resistor
@@ -40291,6 +40320,7 @@ smuggled
 smuggler
 smuggles
 smush
+smutched
 smutchier
 smutchy
 smuts
@@ -40449,6 +40479,7 @@ soar
 soared
 soarers
 soave
+soba
 sobas
 sobber
 sobbers
@@ -41093,6 +41124,7 @@ splenetics
 splents
 splicer
 splicers
+spliff
 spline
 splined
 splines
@@ -41116,6 +41148,7 @@ spoking
 spoliations
 spondylitises
 sponge
+sponges
 sponginess
 sponsal
 sponsion
@@ -43909,6 +43942,7 @@ thalassocracies
 thalidomide
 thallic
 thallophyte
+thallophytic
 thalluses
 thanages
 thanatological
@@ -48878,6 +48912,7 @@ wrongdoings
 wrongful
 wrongfulnesses
 wrongheadedly
+wrongness
 wrote
 wryer
 wryest
