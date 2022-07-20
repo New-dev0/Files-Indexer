@@ -887,6 +887,7 @@ alencons
 alertnesses
 ales
 alewives
+alexandrites
 alexin
 alexins
 alfaqui
@@ -3703,6 +3704,7 @@ belay
 belayed
 belch
 beldam
+beldames
 beldams
 beleaguer
 beleaguerment
@@ -5048,6 +5050,7 @@ breaching
 breadbaskets
 breadbox
 breadfruit
+breadfruits
 breading
 breadless
 breadnuts
@@ -5420,6 +5423,7 @@ bullheaded
 bullheadedness
 bullhorns
 bulling
+bullion
 bullishly
 bullishness
 bullishnesses
@@ -7400,6 +7404,7 @@ circumflex
 circumfluent
 circumfusing
 circumfusion
+circumfusions
 circumjacent
 circumlocution
 circumlocutions
@@ -8456,6 +8461,7 @@ conatus
 concatenate
 concave
 concealers
+concealments
 conceders
 conceive
 conceived
@@ -8619,6 +8625,7 @@ congeals
 congelation
 congeneric
 congenial
+congenialities
 congest
 congestion
 congius
@@ -9645,6 +9652,7 @@ crenately
 crenature
 crenelated
 crenelating
+crenelations
 creneled
 crenels
 crenshaw
@@ -13373,6 +13381,7 @@ ecru
 ecrus
 ecstatic
 ectases
+ectopia
 ectopias
 ectopic
 ectopically
@@ -14325,6 +14334,7 @@ epigynous
 epilate
 epilating
 epilation
+epilator
 epileptically
 epileptics
 epilimnion
@@ -14578,6 +14588,7 @@ esthetician
 estimably
 estimate
 estimating
+estimator
 estivator
 estivators
 estops
@@ -15779,6 +15790,7 @@ fictionalised
 fictionalities
 fictionality
 fictionist
+fictionization
 fictionizations
 fictitious
 fictitiousness
@@ -16144,6 +16156,7 @@ flavine
 flavonols
 flavoproteins
 flavorfully
+flavorings
 flavoured
 flaw
 flawing
@@ -18964,6 +18977,7 @@ hagbuts
 haggadahs
 haggadic
 haggardness
+haggish
 haggishly
 haggle
 haggled
@@ -21252,6 +21266,7 @@ incitation
 incited
 incivilities
 inclasped
+inclasps
 inclement
 inclined
 incliner
@@ -22335,6 +22350,7 @@ invocation
 invoke
 involucels
 involucra
+involuting
 involutional
 involve
 involved
@@ -26464,6 +26480,7 @@ minutely
 minuteman
 minuter
 minutiae
+minx
 minyan
 mioses
 mir
@@ -26701,6 +26718,7 @@ mismarriage
 mismarriages
 mismate
 mismates
+mismating
 mismeets
 mismove
 misname
@@ -27149,6 +27167,7 @@ monseigneur
 monsieur
 monsignor
 monstera
+monsteras
 monstrosities
 monstrosity
 monstrousness
@@ -27510,6 +27529,7 @@ multiformities
 multigroup
 multijet
 multilane
+multilaterally
 multileveled
 multilobe
 multilobes
@@ -28033,6 +28053,7 @@ neighbouring
 neighing
 nektonic
 nelsons
+nelumbium
 nelumbiums
 nelumbos
 nematicides
@@ -34215,6 +34236,7 @@ proliferations
 prolific
 prolixities
 prolixity
+prologed
 prologists
 prologize
 prologized
@@ -34661,6 +34683,7 @@ pulsatory
 pulsed
 pulsers
 pulses
+pulsing
 pulverizations
 pulverized
 pulverizers
@@ -35748,6 +35771,7 @@ recirculation
 recirculations
 recisions
 recitalists
+recitals
 recitation
 recitatives
 recite
@@ -37074,6 +37098,7 @@ restocking
 restocks
 restoked
 restorals
+restoratives
 restrainedly
 restrainer
 restraints
@@ -37426,6 +37451,7 @@ rhenium
 rheobases
 rheologically
 rheologist
+rheology
 rheometer
 rheophiles
 rhesuses
@@ -38677,6 +38703,7 @@ schedular
 scheduled
 schedulers
 schedules
+schema
 schematization
 schematizes
 scherzando
@@ -40010,6 +40037,7 @@ siddurs
 side
 sideband
 sideboards
+sideburned
 sidednesses
 sidehill
 sidehills
@@ -42605,6 +42633,7 @@ subframe
 subfreezing
 subfusc
 subgenera
+subglacially
 subgoal
 subgovernment
 subgrade
@@ -42744,6 +42773,7 @@ subsectors
 subsense
 subsenses
 subsequences
+subservient
 subshaft
 subshells
 subshrub
@@ -43720,6 +43750,7 @@ tagrag
 tagrags
 tahsildar
 tailbacks
+tailboards
 tailbone
 tailcoated
 tailcoats
@@ -44203,6 +44234,7 @@ tenterhooks
 tenters
 tenths
 tentmaker
+tentmakers
 tentorial
 tentorium
 tenues
@@ -44745,6 +44777,7 @@ timing
 timorously
 timpani
 timpanum
+tinamou
 tincted
 tincting
 tinctorially
@@ -47988,6 +48021,7 @@ vibraharpist
 vibraphone
 vibraphonist
 vibrated
+vibration
 vibratos
 vibrios
 vicarage
@@ -49483,6 +49517,7 @@ yawed
 yawl
 yawling
 yawn
+yawner
 yawners
 ycleped
 yclept
