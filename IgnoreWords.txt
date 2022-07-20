@@ -2935,6 +2935,7 @@ ayurveda
 ayurvedas
 azalea
 azaleas
+azathioprines
 azedarachs
 azeotropies
 azimuths
@@ -3105,6 +3106,7 @@ bakers
 bakeshop
 bakshish
 bakshishing
+bal
 balancer
 balboa
 balbriggan
@@ -3682,6 +3684,7 @@ begrime
 begrimmed
 begrudge
 begs
+beguiler
 beguilers
 begulfing
 begun
@@ -4443,6 +4446,7 @@ blindworms
 blini
 blink
 blinkard
+blintz
 blisses
 blissful
 blissfully
@@ -4486,6 +4490,7 @@ bloodsheds
 bloodshot
 bloodstains
 bloodstock
+bloodstone
 bloodstones
 bloodstreams
 bloomers
@@ -5637,6 +5642,7 @@ buttresses
 buttressing
 butts
 buttstocks
+butylate
 butylates
 butylating
 butylene
@@ -6568,6 +6574,7 @@ ceibas
 ceilings
 ceils
 celeriac
+celeriacs
 celery
 celestially
 celestite
@@ -7232,6 +7239,7 @@ chondroma
 chook
 chooks
 choosier
+choosiest
 choosing
 chophouse
 choppering
@@ -8938,6 +8946,7 @@ contrapuntists
 contraries
 contrarieties
 contrarinesses
+contrastive
 contravene
 contravener
 contredanses
@@ -9471,6 +9480,7 @@ courtrooms
 courts
 couscous
 cousin
+cousinly
 couthest
 couture
 coutures
@@ -10981,6 +10991,7 @@ degradative
 degradedly
 degrader
 degranulation
+degranulations
 degrees
 degressive
 degums
@@ -11035,6 +11046,7 @@ delegacy
 delegate
 delegated
 delegatees
+delegating
 delegators
 deleing
 deles
@@ -12922,6 +12934,7 @@ drawerful
 drawing
 drawings
 drawknives
+drawplates
 draws
 drawshave
 drawstring
@@ -13329,6 +13342,7 @@ earringed
 ears
 earshots
 earsplitting
+earthborn
 earthbound
 earthiest
 earthing
@@ -14021,6 +14035,7 @@ endosperms
 endostea
 endosteum
 endostyles
+endosymbioses
 endothelia
 endothelial
 endothelioma
@@ -14246,6 +14261,7 @@ entomologist
 entomophily
 entourage
 entourages
+entozoa
 entozoan
 entozoans
 entrained
@@ -18749,6 +18765,7 @@ growlinesses
 growling
 growlingly
 grown
+growthiest
 growthiness
 growthinesses
 growthy
@@ -18899,6 +18916,7 @@ gumption
 gumptions
 gumptious
 gumtree
+gumweed
 gumweeds
 gun
 gunfire
@@ -19398,6 +19416,7 @@ hautboy
 haute
 havarti
 havdalah
+haven
 haversack
 havior
 havocking
@@ -20062,6 +20081,7 @@ hollies
 holloes
 holloing
 hollooing
+holloos
 hollowness
 holly
 holmic
@@ -23673,6 +23693,7 @@ lacqueyed
 lactases
 lactate
 lactates
+lactating
 lactational
 lacteals
 lactiferous
@@ -23681,6 +23702,7 @@ lactose
 lacunars
 lacunose
 lacy
+lad
 laddered
 laddies
 laddish
@@ -23990,6 +24012,7 @@ layperson
 lays
 layup
 lazar
+lazarette
 lazars
 lazily
 laziness
@@ -24377,6 +24400,7 @@ lignosulfonates
 ligulae
 ligule
 liguloid
+ligure
 ligures
 likabilities
 likableness
@@ -26112,6 +26136,7 @@ mesomorphy
 mesons
 mesophyllic
 mesoscale
+mesosomes
 mesothoracic
 mesotron
 mesotrons
@@ -27996,6 +28021,7 @@ nape
 napery
 naphtha
 naphthenes
+naphthenic
 naphthols
 naphtol
 napkin
@@ -29084,6 +29110,7 @@ nucleosomes
 nucleosynthesis
 nucleosynthetic
 nucleotidases
+nucleotides
 nucleuses
 nuclide
 nuder
@@ -30017,6 +30044,7 @@ outearned
 outeat
 outecho
 outfabling
+outface
 outfawned
 outfawning
 outfeast
@@ -30620,6 +30648,7 @@ oversalt
 oversalted
 oversalts
 oversanguine
+oversaturate
 oversaturations
 oversave
 overscale
@@ -30826,6 +30855,7 @@ package
 packager
 packed
 packers
+packet
 packets
 packing
 packman
@@ -32615,6 +32645,7 @@ pinning
 pinocle
 pinocytosis
 pinon
+pinpoint
 pinpoints
 pinprick
 pins
@@ -35248,6 +35279,7 @@ quickstep
 quid
 quiescence
 quiescent
+quiet
 quietistic
 quietudes
 quietuses
@@ -40688,6 +40720,7 @@ slickrock
 slid
 slidable
 slideway
+slier
 slieves
 slightnesses
 slily
@@ -40935,6 +40968,7 @@ snakeskins
 snakiest
 snakiness
 snapbacks
+snapped
 snappers
 snaps
 snapshot
@@ -42657,6 +42691,7 @@ strychnic
 stubbier
 stubblier
 stubborn
+stubborner
 stubbornness
 stucco
 stuccoer
