@@ -2981,6 +2981,7 @@ backhaul
 backhauls
 backing
 backlands
+backlasher
 backlashing
 backlight
 backlist
@@ -7676,6 +7677,7 @@ clowning
 clownish
 clownishness
 clowns
+cloy
 cloying
 cloys
 club
@@ -11509,6 +11511,7 @@ diabolizes
 diabolo
 diabolos
 diachrony
+diaconate
 diaconates
 diadelphous
 diademed
@@ -12136,6 +12139,7 @@ disinvite
 disinvited
 disinviting
 disjoin
+disjunctions
 disjunctive
 disjunctives
 disk
@@ -12169,7 +12173,9 @@ disordering
 disorganize
 disorient
 disorientate
+disown
 disownments
+disparagements
 disparaging
 disparately
 disparity
@@ -14527,6 +14533,7 @@ estranged
 estranger
 estrangers
 estranges
+estreating
 estreats
 estrums
 estuarine
@@ -15579,6 +15586,7 @@ fennecs
 fentanyl
 fentanyls
 fenthions
+fenugreek
 feoffee
 feoffees
 feoffment
@@ -16473,6 +16481,7 @@ foramens
 foraminiferal
 forams
 forays
+forbad
 forbear
 forbearance
 forbearing
@@ -17803,6 +17812,7 @@ girders
 girdle
 girdled
 girliest
+girns
 girolles
 girt
 girted
@@ -22001,6 +22011,7 @@ interposing
 interpretable
 interpretations
 interpreted
+interpretively
 interpupillary
 interrelate
 interrelated
@@ -24120,6 +24131,7 @@ lifters
 liftgates
 lifting
 liftmen
+ligamentous
 ligaments
 ligands
 ligans
@@ -24183,6 +24195,7 @@ limitation
 limitedness
 limitlessnesses
 limits
+limmers
 limn
 limner
 limners
@@ -24384,6 +24397,7 @@ lividly
 lividnesses
 liviers
 living
+livingness
 livings
 livre
 lixivia
@@ -24576,6 +24590,7 @@ looseness
 looses
 loosestrife
 loot
+looter
 looting
 lophophores
 loping
@@ -25214,6 +25229,7 @@ mantises
 mantles
 mantling
 manually
+manubria
 manubriums
 manufactories
 manufactured
@@ -25449,6 +25465,7 @@ matt
 matte
 mattery
 mattin
+matting
 mattings
 mattins
 mattock
@@ -27324,6 +27341,7 @@ mudslinging
 mudslingings
 mueddin
 muenster
+muesli
 mueslis
 muezzin
 muffed
@@ -27570,6 +27588,7 @@ mutinying
 mutt
 mutterers
 muttering
+muttonchops
 muttonfishes
 mutualistic
 mutualize
@@ -29095,6 +29114,7 @@ odontoblasts
 odontoglossum
 odontoid
 odorants
+odorizing
 odorously
 odyl
 odyles
@@ -29958,6 +29978,7 @@ outtrading
 outtraveled
 outtrick
 outtrump
+outtrumping
 outturns
 outvaunted
 outvaunting
@@ -30466,6 +30487,7 @@ oxidations
 oxidative
 oxide
 oxides
+oxidic
 oxidiser
 oxidisers
 oxidizer
@@ -31531,6 +31553,7 @@ peregrine
 perennated
 perennates
 perennial
+perestroikas
 perfecters
 perfectible
 perfectionist
@@ -33666,6 +33689,7 @@ prescribing
 prescripts
 preselecting
 presentable
+presentableness
 presentations
 presented
 presentencing
@@ -35351,6 +35375,7 @@ readership
 readied
 readier
 reading
+readjustments
 readmitting
 readorning
 readouts
@@ -35695,6 +35720,7 @@ recreancy
 recreating
 recreative
 recrements
+recriminating
 recrossing
 recrowning
 recrowns
@@ -35859,6 +35885,7 @@ reduplication
 redwares
 redwing
 redwood
+redyed
 ree
 reearns
 reechy
@@ -38814,6 +38841,7 @@ seaquake
 seaquakes
 searches
 searchingly
+searest
 searobins
 seascouts
 seasickness
@@ -39335,6 +39363,7 @@ shackoes
 shacks
 shadblow
 shadbush
+shadchan
 shaddocks
 shade
 shadeless
@@ -40603,6 +40632,7 @@ snowbell
 snowberries
 snowbird
 snowblink
+snowblower
 snowblowers
 snowcap
 snowcapped
@@ -43765,6 +43795,7 @@ teakwood
 team
 teaming
 teams
+tearaways
 teardrop
 teardrops
 tearer
@@ -44169,6 +44200,7 @@ thegnly
 theine
 theins
 theist
+theistically
 themed
 themes
 thenages
@@ -44203,6 +44235,7 @@ thermidor
 thermionic
 thermionics
 thermites
+thermochemist
 thermochemistry
 thermochemists
 thermoclines
@@ -44452,6 +44485,7 @@ tidelike
 tidemarks
 tiderips
 tides
+tideway
 tidiest
 tidily
 tidiness
@@ -48836,6 +48870,7 @@ wintertide
 wintertides
 wintriness
 winze
+wiredrawing
 wirehaired
 wirelessed
 wirephoto
