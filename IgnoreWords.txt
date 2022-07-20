@@ -767,6 +767,7 @@ agrochemical
 agroforester
 agroforestries
 agrologic
+agronomy
 agrypnia
 agrypnias
 aguacate
@@ -1502,6 +1503,7 @@ anime
 animistic
 animists
 animuses
+anion
 anions
 anis
 aniseeds
@@ -1579,6 +1581,7 @@ anoxias
 ansae
 anserine
 answer
+answerer
 antagonisms
 antagonist
 antagonistic
@@ -5054,6 +5057,7 @@ breathers
 breathes
 breathtaking
 breathy
+breccias
 brecciation
 brecciations
 brechan
@@ -10696,6 +10700,7 @@ decolonization
 decoloured
 decompensated
 decomposability
+decompose
 decomposers
 decomposes
 decompound
@@ -13971,6 +13976,7 @@ englutted
 englutting
 engorge
 engorges
+engorging
 engraft
 engraftments
 engrailing
@@ -15675,6 +15681,7 @@ feudalize
 feudalized
 feudatory
 feuded
+feuds
 feuilleton
 fever
 feverish
@@ -16393,6 +16400,7 @@ folioing
 folkie
 folkishness
 folkishnesses
+folklives
 folkloric
 folklorist
 folkloristic
@@ -18030,6 +18038,7 @@ glycans
 glyceridic
 glycerol
 glyceryl
+glycine
 glycins
 glycols
 glycosidases
@@ -18173,6 +18182,7 @@ gooral
 goos
 goose
 gooseberries
+goosefoots
 goosegrasses
 gooseherds
 gorbellies
@@ -18283,6 +18293,7 @@ grammarians
 grammaticality
 grammatically
 gramp
+grampas
 granadilla
 granaries
 grandaddies
@@ -19077,6 +19088,7 @@ haphtarah
 haphtarot
 hapkido
 haplessly
+haplite
 haplopia
 haplopias
 happened
@@ -20520,6 +20532,7 @@ hypertense
 hypertension
 hypertonia
 hypertonias
+hypertonicities
 hypertrophy
 hypertypical
 hyperuricemia
@@ -22142,6 +22155,7 @@ intromitted
 introspect
 introspections
 intruders
+intruding
 intrusively
 intrusting
 intubate
@@ -22669,6 +22683,7 @@ jests
 jesuitic
 jesuitical
 jesuitically
+jesuitisms
 jetbead
 jetlags
 jetports
@@ -23964,6 +23979,7 @@ lepidopterous
 lepidotes
 leporid
 leprechaun
+leprechauns
 leptins
 leptonic
 leptospiral
@@ -25917,6 +25933,7 @@ metagenetic
 metalheads
 metaling
 metalinguistic
+metalinguistics
 metallic
 metallics
 metalliferous
@@ -26405,6 +26422,7 @@ misallots
 misallotting
 misalters
 misanalysis
+misanthropies
 misanthropy
 misapplication
 misapplied
@@ -33984,6 +34002,7 @@ procurement
 procuring
 prod
 prodders
+prodigal
 prodigalities
 prodigy
 prodromal
@@ -34809,6 +34828,7 @@ quadrivial
 quadrumvir
 quadrumvirates
 quadruped
+quadrupeds
 quadruplicities
 quadruplicity
 quadrupling
@@ -34905,6 +34925,7 @@ question
 questioned
 quetzales
 quetzals
+queuer
 queues
 quezales
 quickener
@@ -35634,6 +35655,7 @@ recognizer
 recognizers
 recognizes
 recolonizes
+recoloring
 recombinant
 recombinational
 recombing
@@ -36422,6 +36444,7 @@ remotions
 remotivates
 remotivating
 remoulade
+removablenesses
 removably
 removals
 removeable
@@ -37070,6 +37093,7 @@ retro
 retroact
 retroaction
 retroactions
+retrocession
 retrocessions
 retrofit
 retrofitted
@@ -37241,6 +37265,7 @@ reworked
 reworking
 rewound
 rewrapt
+rewrite
 reynard
 rezero
 rezeroes
@@ -37422,6 +37447,7 @@ rin
 ringbarks
 ringbolt
 ringbolts
+ringdoves
 ringer
 ringers
 ringhals
@@ -37793,6 +37819,7 @@ rudds
 rudenesses
 rudery
 rudesbies
+rudest
 rudiment
 rudimentariness
 rudiments
@@ -39422,6 +39449,7 @@ shandygaffs
 shanghai
 shanghaied
 shanghaiers
+shanghaiing
 shanghais
 shannies
 shantey
@@ -40369,6 +40397,7 @@ slotback
 slotbacks
 slothful
 slothfully
+slothfulness
 slotted
 slotter
 slouchers
@@ -41306,6 +41335,7 @@ spitters
 spitting
 spittlebug
 splash
+splashboards
 splasher
 splashiest
 splashily
@@ -41882,6 +41912,7 @@ stichomythy
 sticker
 stickers
 stickfuls
+stickhandlers
 stickhandles
 stickhandling
 stickled
@@ -42382,6 +42413,7 @@ subcultured
 subcutis
 subcutises
 subdebs
+subdecision
 subdepartment
 subdevelopment
 subdevelopments
@@ -45336,6 +45368,7 @@ trichosis
 trichroic
 trichrome
 tricing
+trickie
 trickinesses
 trickish
 trickle
@@ -47407,6 +47440,7 @@ validity
 valises
 vallation
 valleculae
+valleys
 valonia
 valor
 valorise
@@ -47693,6 +47727,7 @@ veritablenesses
 verite
 verity
 vermeil
+vermicelli
 vermicide
 vermicides
 vermiculate
