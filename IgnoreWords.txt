@@ -450,6 +450,7 @@ admasses
 admeasures
 admeasuring
 administrable
+administrant
 administrants
 administrate
 administrates
@@ -3638,6 +3639,7 @@ beelines
 beelining
 been
 beep
+beeper
 beeping
 beeriness
 beeswings
@@ -4695,6 +4697,7 @@ bolometrically
 bolos
 bolshevized
 bolshies
+bolshy
 bolson
 bolsons
 bolting
@@ -4932,6 +4935,7 @@ bowlegged
 bowlers
 bowless
 bowlike
+bowling
 bows
 bowshot
 bowshots
@@ -6862,6 +6866,7 @@ chargehand
 charger
 charging
 charily
+chariness
 charinesses
 charismas
 charismata
@@ -7398,6 +7403,7 @@ cinchonic
 cinderous
 cinematheques
 cinematic
+cinematographer
 cinematographic
 cinematography
 cinephiles
@@ -7770,6 +7776,7 @@ clubroot
 clubs
 cluing
 clumber
+clumpier
 clumping
 clumsier
 clumsiest
@@ -8536,6 +8543,7 @@ conciliar
 conciliate
 conciliated
 conciliation
+conciliator
 conciliators
 concisenesses
 concisions
@@ -14113,6 +14121,7 @@ engraved
 engraver
 engravers
 engraves
+engross
 engrossment
 engs
 engulfment
@@ -16263,6 +16272,7 @@ fledge
 fledged
 fledges
 fleecer
+fleecing
 fleers
 flees
 fleeting
@@ -16789,6 +16799,7 @@ formalnesses
 formals
 formats
 formatters
+former
 formerly
 formic
 formica
@@ -19561,6 +19572,7 @@ hecklers
 heckles
 hectare
 hectares
+hectic
 hectical
 hecticly
 hectograms
@@ -19973,6 +19985,7 @@ hirsels
 hirsute
 hirudin
 hispanidads
+hiss
 hissiest
 hissing
 hissy
@@ -21489,6 +21502,7 @@ incuse
 incusing
 indagates
 indagators
+indamines
 indebted
 indecency
 indecent
@@ -22104,6 +22118,7 @@ intercourses
 intercrop
 intercropped
 intercurrent
+intercut
 intercutting
 interdentally
 interdependence
@@ -23401,6 +23416,7 @@ kilopascal
 kilos
 kilotons
 kilovolts
+kilowatt
 kiltie
 kilty
 kimchee
@@ -24428,6 +24444,7 @@ limelight
 limens
 limericks
 limes
+limier
 limina
 limit
 limitary
@@ -25278,6 +25295,7 @@ making
 malachites
 malacological
 malacologist
+maladjustive
 maladjustment
 maladministered
 maladministers
@@ -29032,6 +29050,7 @@ nostalgic
 nostalgist
 nostalgists
 nosy
+not
 notables
 notably
 notal
@@ -30043,6 +30062,7 @@ outdueling
 outearned
 outeat
 outecho
+outerwear
 outfabling
 outface
 outfawned
@@ -30652,6 +30672,7 @@ oversaturate
 oversaturations
 oversave
 overscale
+overscoring
 overscrupulous
 oversecretions
 oversee
@@ -38800,6 +38821,7 @@ scalariform
 scalariformly
 scalation
 scalations
+scalding
 scale
 scalelike
 scalepan
@@ -38968,6 +38990,7 @@ schrod
 schtick
 schticks
 schtik
+schuits
 schul
 schuln
 schuss
@@ -39330,6 +39353,7 @@ sedimentation
 sedimenting
 sedimentologies
 seditions
+seduce
 seducive
 seduction
 seductivenesses
@@ -40879,6 +40903,7 @@ smashers
 smashing
 smashups
 smatter
+smattered
 smattering
 smatterings
 smatters
@@ -41591,6 +41616,7 @@ spells
 spelt
 spelunk
 spelunked
+spencer
 spences
 spendable
 spenders
@@ -42585,6 +42611,7 @@ strenuosities
 strenuously
 strep
 streptobacilli
+streptokinases
 streptolysin
 streptolysins
 streptomycins
@@ -43236,6 +43263,7 @@ summating
 summational
 summative
 summed
+summerhouse
 summerlike
 summerlong
 summersaulted
@@ -43941,6 +43969,7 @@ tachisms
 tachometers
 tachycardias
 tachylites
+tachylyte
 tachylytes
 tachyon
 tachyons
@@ -44448,6 +44477,7 @@ tendrilled
 tendrilous
 tenebrionids
 tenebrious
+tenebrism
 tenebrisms
 tenebrist
 tenebrous
@@ -46018,6 +46048,7 @@ troubleshoots
 troubleshot
 troubling
 trough
+troughs
 trounce
 trounced
 trouncers
@@ -46692,6 +46723,7 @@ uncinematic
 uncivil
 uncivilized
 unclamping
+unclarity
 unclasp
 unclasped
 unclassical
@@ -47947,6 +47979,7 @@ vandal
 vandalise
 vandalised
 vandalisms
+vandalized
 vandals
 vandyke
 vandykes
@@ -48829,6 +48862,7 @@ warranter
 warrantied
 warranties
 warrantor
+warrantors
 warrants
 warrantying
 warren
@@ -49285,6 +49319,7 @@ wifing
 wifty
 wig
 wigeons
+wiggier
 wigglers
 wiggly
 wiglets
