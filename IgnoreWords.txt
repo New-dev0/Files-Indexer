@@ -1397,6 +1397,7 @@ ancestoring
 ancestors
 ancestress
 anchoress
+anchoresses
 anchoret
 anchoring
 anchorwomen
@@ -3975,6 +3976,7 @@ bibliographies
 bibliolaters
 bibliologies
 bibliomanias
+bibliopegies
 bibliophilies
 bibliotheca
 bibliothecal
@@ -4874,6 +4876,7 @@ bourgeois
 bourgeon
 bourgeoned
 bourgs
+bourguignon
 bourrees
 bourrides
 bouses
@@ -7172,6 +7175,7 @@ chokers
 chokes
 chokey
 cholangiograms
+cholecystectomy
 cholelithiasis
 cholent
 choler
@@ -7509,6 +7513,7 @@ clarifies
 clarion
 clarioned
 clarionets
+clarkia
 claros
 clashers
 clashes
@@ -8272,6 +8277,7 @@ commies
 comminutes
 comminuting
 comminutions
+commiseration
 commissariat
 commissariats
 commissars
@@ -9976,6 +9982,7 @@ cullises
 culminate
 culminations
 culming
+culotte
 culpa
 culpabilities
 culpability
@@ -10959,6 +10966,7 @@ deionizers
 deionizing
 deistically
 deity
+deject
 dejecta
 dejeuners
 dekaliter
@@ -11254,6 +11262,7 @@ depressurizing
 deprivation
 deprivations
 deprive
+deprivers
 depriving
 deprogramming
 depurate
@@ -12641,6 +12650,7 @@ dormice
 dormins
 dormitory
 dornicks
+dornock
 dornocks
 dorpers
 dorsal
@@ -15369,6 +15379,7 @@ fantail
 fantasia
 fantasises
 fantasize
+fantasizer
 fantasizers
 fantasizes
 fantastically
@@ -15755,6 +15766,7 @@ fico
 ficoes
 fictional
 fictionalised
+fictionalities
 fictionality
 fictionist
 fictionizations
@@ -19440,6 +19452,7 @@ heedlessly
 heehaw
 heeled
 heelless
+heelpiece
 heelpieces
 heelpost
 heeltap
@@ -21152,6 +21165,7 @@ inarticulates
 inattention
 inattentions
 inattentively
+inattentiveness
 inaudibility
 inaudibly
 inaugurate
@@ -23573,10 +23587,12 @@ laic
 laichs
 laicizations
 laicizes
+laigh
 laird
 lairdships
 lairing
 laitances
+laities
 lake
 lakefront
 lakes
@@ -24301,6 +24317,7 @@ linebackings
 linebreedings
 lined
 lineman
+linerboards
 lines
 linesman
 linesmen
@@ -26248,6 +26265,7 @@ midwinter
 midwinters
 midwives
 midwiving
+miffiest
 miffing
 migg
 mightily
@@ -27835,6 +27853,7 @@ narcoma
 narcotically
 narcs
 nargileh
+nargilehs
 narine
 narks
 narky
@@ -29449,6 +29468,7 @@ oppidans
 oppilant
 oppilate
 oppilating
+opponencies
 opponency
 opportunely
 opportunenesses
@@ -32916,6 +32936,7 @@ politburos
 polite
 politenesses
 politesse
+politicalize
 politicalized
 politically
 politicised
@@ -33067,6 +33088,7 @@ pons
 pontifex
 pontiffs
 pontificals
+pontificates
 pontificating
 pontificators
 pontils
@@ -34456,6 +34478,7 @@ psephology
 pseudocoels
 pseudomonad
 pseudomonas
+pseudomorph
 pseudomorphism
 pseudopod
 pseudopodia
@@ -35294,6 +35317,7 @@ randomization
 randomizer
 range
 rangers
+ranginess
 ranging
 ranid
 ranis
@@ -35611,6 +35635,7 @@ rebooked
 rebop
 rebottles
 rebought
+rebounder
 rebranching
 rebreed
 rebreeds
@@ -35724,6 +35749,7 @@ recoal
 recoaled
 recocked
 recocks
+recode
 recoded
 recodification
 recodifications
@@ -36098,6 +36124,7 @@ refit
 refits
 refixed
 reflag
+reflagged
 reflating
 reflations
 reflectional
@@ -38925,6 +38952,7 @@ scyphus
 seabed
 seabirds
 seaboot
+seaboots
 seacocks
 seacrafts
 seafloors
@@ -38980,6 +39008,7 @@ seborrhea
 seborrheas
 seborrheic
 sebums
+secaloses
 secantly
 secateur
 secateurs
@@ -40373,6 +40402,7 @@ slaverers
 slaveries
 slaveys
 slavish
+slavishly
 slavishnesses
 slavocracy
 slavocrats
@@ -41977,6 +42007,7 @@ sterling
 sterlingness
 stern
 sterner
+sternest
 sternnesses
 sternocostal
 sternutators
@@ -43350,6 +43381,7 @@ sweethearts
 sweeting
 sweetly
 sweetshop
+sweetsop
 sweetsops
 swells
 swelter
@@ -43828,6 +43860,7 @@ taroks
 tarot
 tarp
 tarpaper
+tarps
 tarradiddle
 tarragons
 tarried
@@ -46941,6 +46974,7 @@ unpeoples
 unperceived
 unperceptive
 unpersuasive
+unpick
 unpicking
 unpile
 unpiled
@@ -47295,6 +47329,7 @@ upbraiders
 upbuild
 upbuilds
 upby
+upchucking
 upchucks
 upclimbs
 upcountries
