@@ -887,6 +887,7 @@ alencons
 alertnesses
 ales
 alewives
+alexandrine
 alexandrites
 alexin
 alexins
@@ -2891,6 +2892,7 @@ awfully
 awhirl
 awing
 awlworts
+awning
 awninged
 awnings
 awnless
@@ -3578,6 +3580,7 @@ bedgown
 bediapers
 bedighted
 bedighting
+bedimple
 bedirtied
 bedizens
 bedless
@@ -4294,6 +4297,7 @@ bituminizes
 biunique
 bivalve
 bivouac
+biweeklies
 bizarreness
 bizarres
 biznagas
@@ -8984,6 +8988,7 @@ conveyancer
 conveyancers
 conveyances
 conveyor
+conveyorise
 conveyorised
 conveyorize
 conveyors
@@ -12447,6 +12452,7 @@ diuretic
 diurnal
 divalences
 divans
+divarications
 divebombed
 divebombing
 divergence
@@ -15681,6 +15687,7 @@ fenestrate
 fenestration
 fennec
 fennecs
+fennels
 fentanyl
 fentanyls
 fenthions
@@ -18239,6 +18246,7 @@ goitrogenicity
 goitrogens
 golconda
 goldbricking
+golden
 goldenness
 goldenseals
 goldeyes
@@ -18333,6 +18341,7 @@ gothicize
 gothicized
 gothicizes
 gothites
+gotten
 gouaches
 gouge
 gouged
@@ -19216,6 +19225,7 @@ haptoglobins
 harangued
 harangues
 harassments
+harbinger
 harbored
 harborer
 harboring
@@ -19228,6 +19238,7 @@ hardboots
 hardcores
 hardcourt
 hardeners
+hardhacks
 hardhat
 hardhead
 hardiest
@@ -21236,6 +21247,7 @@ inattentions
 inattentively
 inattentiveness
 inaudibility
+inaudible
 inaudibly
 inaugurate
 inaugurations
@@ -23520,6 +23532,7 @@ kremlinologies
 kremlinologists
 kreplach
 kreutzers
+krill
 krimmer
 krimmers
 kris
@@ -23884,6 +23897,7 @@ laugh
 laughablenesses
 laughably
 laughed
+laughingstock
 laughlines
 launched
 launcher
@@ -25377,6 +25391,7 @@ mannite
 mannoses
 manoeuvres
 manometries
+manos
 manque
 manropes
 mans
@@ -31077,6 +31092,7 @@ paprika
 papulae
 papular
 papule
+papyrine
 papyrologies
 papyrologists
 papyrology
@@ -31721,6 +31737,7 @@ peponium
 pepperbox
 pepperboxes
 peppercorns
+pepperers
 pepperinesses
 peppertrees
 peppiness
@@ -31995,6 +32012,7 @@ petrale
 petrels
 petrifaction
 petrifier
+petrifiers
 petrifying
 petrochemicals
 petrogenesis
@@ -33549,6 +33567,7 @@ pratiques
 prattle
 prattling
 prawning
+prawns
 praxeological
 praxes
 praxises
@@ -34205,6 +34224,7 @@ procryptic
 proctitises
 proctodea
 proctologies
+proctologists
 proctology
 proctored
 proctors
@@ -35574,6 +35594,7 @@ ravens
 raves
 ravining
 ravioli
+ravished
 ravishers
 rawest
 rawhided
@@ -36426,6 +36447,7 @@ reheater
 reheeled
 rehemmed
 rehired
+rehiring
 rehospitalize
 rehouse
 rehumanizes
@@ -36905,6 +36927,7 @@ reprovers
 reptilian
 reptilium
 republicanize
+republicanizes
 republicanizing
 republished
 republisher
@@ -38338,6 +38361,7 @@ salmonberries
 salmonberry
 salmonellae
 salmonellosis
+salmonoid
 salols
 salon
 salons
@@ -38949,6 +38973,7 @@ scraggy
 scraichs
 scraighed
 scraighing
+scramble
 scrambles
 scrannel
 scrannels
@@ -39829,6 +39854,7 @@ shibah
 shibboleths
 shiel
 shielders
+shields
 shiers
 shiest
 shiftable
@@ -40046,6 +40072,7 @@ shrunk
 shrunken
 shtetel
 shtick
+shtickier
 shticky
 shuck
 shucker
@@ -41535,6 +41562,7 @@ spindrifts
 spined
 spinelessnesses
 spiniest
+spinifex
 spinifexes
 spinless
 spinnaker
@@ -42776,6 +42804,7 @@ subliming
 sublimits
 sublimity
 sublingual
+subliterary
 subliterate
 subliterates
 subliterature
@@ -43124,6 +43153,7 @@ sunderer
 sundew
 sundews
 sundogs
+sundowners
 sundowning
 sundowns
 sundrops
@@ -44316,8 +44346,10 @@ tenpence
 tenpounder
 tens
 tensors
+tent
 tentative
 tentativeness
+tentatives
 tented
 tenter
 tenterhooks
@@ -45208,6 +45240,7 @@ totality
 totaquines
 toted
 totemisms
+totemist
 totemites
 totems
 tottered
@@ -45349,6 +45382,7 @@ trainable
 trainbearers
 trainee
 traineeship
+trainings
 trainmen
 trainway
 trainways
@@ -49628,6 +49662,7 @@ ycleped
 yclept
 yeaned
 yeaning
+yeanlings
 yearbook
 yearend
 yearn

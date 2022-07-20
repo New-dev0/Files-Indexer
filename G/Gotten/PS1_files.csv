@@ -1,0 +1,8 @@
+functions/clone/Invoke-DcnRepairClone.ps1 0.10.34,https://www.powershellgallery.com/packages/dbaclone/0.10.34/Content/functions%255Cclone%255CInvoke-DcnRepairClone.ps1
+Public/Get-DellAssetInfo.ps1 0.1.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/PSDellWarranty/0.1.0/Content/Public%255CGet-DellAssetInfo.ps1
+Office365/EnableMultiFactorAuthentication.ps1 at master · Scine ...,https://github.com/Scine/Office365/blob/master/EnableMultiFactorAuthentication.ps1
+Office365/Connect To Powershell with or without 2 form factor auth ...,https://github.com/Scine/Office365/blob/master/Connect%2520To%2520Powershell%2520with%2520or%2520without%25202%2520form%2520factor%2520auth%2520enabled.ps1
+.gitlab/ci/Validate.ps1 ... - CAS GitLab,https://git.cas.unt.edu/posh/EndPoint-CM-Client-Actions/-/blob/976d4d0454c21ad3ef8f8599abb38faea9557a7e/.gitlab/ci/Validate.ps1
+https://get.mirantis.com/install.ps1,https://get.mirantis.com/install.ps1
+lib/ansible/modules/windows/win_scheduled_task.ps1,https://gitlab.ics.muni.cz/242618/ansible/-/blob/9259f31fee03e75a99a23b9fde5106b43f0cc437/lib/ansible/modules/windows/win_scheduled_task.ps1
+www3.bell.net/brearley/public/test-apps.ps1,http://www3.bell.net/brearley/public/test-apps.ps1
