@@ -390,6 +390,7 @@ adding
 addle
 addles
 addressable
+addressed
 addresses
 addressing
 adduced
@@ -3745,6 +3746,7 @@ bemisted
 bemisting
 bemixed
 bemixt
+bemoan
 bemoans
 bemock
 bemocking
@@ -3753,6 +3755,7 @@ bemuddle
 bemuddled
 bemuddling
 bemurmured
+bemuse
 bemusedly
 bemusements
 bemusing
@@ -5380,6 +5383,7 @@ bulging
 bulgur
 bulimia
 bulkage
+bulkheads
 bullace
 bullaces
 bullbriers
@@ -6628,6 +6632,7 @@ cerastes
 cerated
 cercaria
 cercarians
+cercises
 cere
 cerebellum
 cerebration
@@ -6865,6 +6870,7 @@ chaufers
 chauffeur
 chauffeured
 chaulmoogra
+chaussures
 chawbacon
 chawbacons
 chawer
@@ -7634,6 +7640,7 @@ clog
 clogged
 cloggers
 clogging
+cloggy
 cloistered
 cloisters
 cloistral
@@ -9124,6 +9131,7 @@ corns
 cornstalks
 cornua
 cornual
+cornucopia
 cornute
 corollaries
 coromandel
@@ -10996,6 +11004,7 @@ delly
 delocalizes
 delouses
 delphiniums
+deltoidei
 deltoideus
 deluging
 delusional
@@ -11533,6 +11542,7 @@ diagonals
 diagrammatic
 diagrams
 dial
+dialect
 dialectical
 dialectically
 dialectician
@@ -15733,6 +15743,7 @@ fiddled
 fiddlehead
 fiddleheads
 fiddler
+fiddlestick
 fideists
 fidelista
 fidelities
@@ -16089,6 +16100,7 @@ flavine
 flavonols
 flavoproteins
 flavorfully
+flavoured
 flaw
 flawing
 flawlessly
@@ -17207,6 +17219,7 @@ gainsayers
 gainsaying
 gainsays
 gaiters
+gal
 galabia
 galabieh
 galabiyah
@@ -19029,6 +19042,7 @@ handfasts
 handgrips
 handhelds
 handhold
+handicapped
 handicapping
 handicaps
 handicrafters
@@ -19196,6 +19210,7 @@ hasten
 hasteners
 hastier
 hastiness
+hastinesses
 hasty
 hat
 hatable
@@ -19439,6 +19454,7 @@ helium
 hellacious
 hellbender
 hellbenders
+hellbox
 hellboxes
 helled
 hellenizations
@@ -19705,6 +19721,7 @@ hideout
 hidings
 hidrosis
 hie
+hierarchal
 hierarchies
 hieroglyphic
 hieroglyphical
@@ -23701,6 +23718,7 @@ latent
 later
 laterad
 lateral
+lateralized
 lateralizing
 lateralling
 laterally
@@ -25080,6 +25098,7 @@ malignant
 malignantly
 maligner
 maligning
+maligns
 malison
 mallard
 malleabilities
@@ -25599,6 +25618,7 @@ medaling
 medallion
 meddler
 meddlers
+meddles
 medevacking
 medevacs
 mediad
@@ -27674,6 +27694,7 @@ mysid
 mysids
 mysosts
 mystagogies
+mysteriously
 mystically
 mysticete
 mysticetes
@@ -27724,6 +27745,7 @@ nainsooks
 naira
 nairus
 naissance
+naissances
 naiveness
 naivenesses
 naivete
@@ -27995,6 +28017,7 @@ nerol
 nervier
 nervines
 nervousnesses
+nervy
 nesciences
 nescient
 nescients
@@ -31061,6 +31084,7 @@ parsleyed
 parsnips
 parsonages
 parsonic
+part
 partakers
 partakes
 partans
@@ -31155,6 +31179,7 @@ pastor
 pastorali
 pastoralism
 pastoralisms
+pastorally
 pastoralnesses
 pastored
 pastoring
@@ -32376,6 +32401,7 @@ pipkin
 pipkins
 pipping
 pipy
+piquance
 piquances
 piquancies
 piquet
@@ -35193,6 +35219,7 @@ ramona
 ramonas
 ramose
 ramosely
+ramosities
 rampageousness
 rampager
 rampages
@@ -35921,6 +35948,7 @@ reedition
 reeditions
 reedlike
 reedlings
+reeducating
 reeducations
 reefable
 reefier
@@ -40077,6 +40105,7 @@ sistroid
 sistrums
 sitarists
 sitcoms
+sites
 siting
 sitology
 sitosterol
@@ -40655,6 +40684,7 @@ snorted
 snorting
 snottily
 snottiness
+snout
 snowbank
 snowbanks
 snowbell
@@ -43995,6 +44025,7 @@ tenaciously
 tenaculum
 tenaculums
 tenailles
+tenantable
 tenantries
 tenantry
 tenants
@@ -46867,6 +46898,7 @@ unprincipled
 unprivileged
 unprized
 unprofessed
+unprogrammable
 unprogrammed
 unprompted
 unpronounceable
@@ -47918,6 +47950,7 @@ vining
 vinosity
 vinous
 vintagers
+vintners
 violable
 violableness
 violates
@@ -48398,6 +48431,7 @@ watchdogged
 watches
 watcheye
 watchful
+watchfully
 watchfulnesses
 watchmaker
 watchman
@@ -49354,6 +49388,7 @@ yids
 yieldable
 yielder
 yielding
+yikes
 yipes
 yippee
 yippies
