@@ -2350,6 +2350,7 @@ ascorbic
 ascots
 ascribable
 ascribe
+ascribes
 asexualities
 ash
 ashamedly
@@ -6065,6 +6066,7 @@ capuchin
 caput
 capybara
 capybaras
+carabao
 carabid
 carabin
 carabines
@@ -6296,6 +6298,7 @@ cassenas
 cassenes
 casserole
 cassia
+cassimeres
 cassino
 castability
 castable
@@ -6393,6 +6396,7 @@ catenates
 cater
 catercorner
 caterer
+caterpillar
 caterwauling
 catfight
 catguts
@@ -8293,6 +8297,7 @@ compacting
 compactions
 compactly
 compactor
+companioned
 companions
 companionships
 companying
@@ -8997,6 +9002,7 @@ copped
 copperas
 coppersmiths
 coppiced
+coppices
 coppras
 copra
 coprahs
@@ -9008,6 +9014,7 @@ coprocessor
 coprocessors
 coproduced
 coproducer
+coproduces
 coproduct
 coproducts
 coprophagy
@@ -9818,6 +9825,7 @@ cruse
 cruses
 crusets
 crushable
+crushers
 crushing
 crustacea
 crustaceans
@@ -15408,6 +15416,7 @@ fatsoes
 fattens
 fattest
 fattiest
+fatuousness
 fatwa
 faubourgs
 fauces
@@ -16522,6 +16531,7 @@ foresails
 foreseeability
 foreseer
 foreshadow
+foreshank
 foresheet
 foreshock
 foreshows
@@ -19715,6 +19725,7 @@ hinterland
 hinting
 hipbone
 hipbones
+hiplike
 hippienesses
 hippies
 hippo
@@ -19803,6 +19814,7 @@ hoggets
 hogging
 hogmenay
 hogmenays
+hognuts
 hogtied
 hoist
 hoisted
@@ -20359,6 +20371,7 @@ hydromels
 hydrometeor
 hydrometer
 hydrometric
+hydromorphic
 hydropathies
 hydropaths
 hydroperoxide
@@ -22345,6 +22358,7 @@ isoantigen
 isoantigenic
 isoantigens
 isobar
+isobars
 isobutyl
 isocaloric
 isocarboxazid
@@ -24281,6 +24295,7 @@ literacy
 literalist
 literalities
 literality
+literalization
 literalize
 literalized
 literarinesses
@@ -26303,6 +26318,7 @@ mioses
 mir
 miracidia
 miracidium
+miracle
 miracles
 miraculous
 mirages
@@ -26384,6 +26400,7 @@ misbrand
 misbranded
 misbuilds
 misbuttoned
+miscalculation
 miscalculations
 miscallers
 miscaptioning
@@ -26444,6 +26461,7 @@ misease
 misedit
 miseducates
 miseducation
+misemphasize
 misemploy
 misenrolling
 misenrolls
@@ -27399,6 +27417,7 @@ munchies
 mundane
 mundungus
 mundunguses
+municipality
 municipalize
 municipalizes
 municipally
@@ -27882,6 +27901,7 @@ neoplastic
 neoplasticism
 neoplasticisms
 neoprenes
+neorealism
 neorealisms
 neorealistic
 neostigmines
@@ -29488,6 +29508,7 @@ orthopteran
 orthopterist
 orthopterists
 orthopteroid
+orthotic
 orthotics
 orthotropous
 oryxes
@@ -29687,6 +29708,7 @@ outfished
 outfitters
 outfitting
 outflank
+outflanks
 outfloated
 outflowing
 outflown
@@ -33268,6 +33290,7 @@ preadaptations
 preadaptive
 preadmit
 preadmitted
+preadmitting
 preadolescent
 preadopted
 preadult
@@ -33400,6 +33423,7 @@ prednisolone
 prednisolones
 predominating
 predomination
+predried
 preed
 preedit
 preedited
@@ -34580,6 +34604,7 @@ push
 pushcarts
 pushchairs
 pushdowns
+pusher
 pushers
 pushes
 pushiness
@@ -35047,6 +35072,7 @@ rainbirds
 raininess
 rainless
 rainmaker
+rainmaking
 rainout
 rainouts
 rainproof
@@ -36847,6 +36873,7 @@ rests
 restudies
 restuffing
 restuffs
+restyle
 restyling
 resubject
 resubmitted
@@ -38751,6 +38778,7 @@ seamster
 seamstress
 seances
 seapieces
+seaports
 seaquake
 seaquakes
 searches
@@ -39711,6 +39739,7 @@ shvartze
 shvartzes
 shylock
 shynesses
+si
 sialidan
 sials
 sibilancy
@@ -42244,6 +42273,7 @@ subahs
 suballocations
 subaltern
 subantarctic
+subaqueous
 subarctic
 subarctics
 subas
@@ -43086,6 +43116,7 @@ swanskins
 swapped
 swappers
 swarajism
+swarajists
 swarmer
 swarth
 swarthinesses
@@ -43506,6 +43537,7 @@ tamaraos
 tamarind
 tamarinds
 tamarisk
+tambalas
 tambour
 tamboured
 tambourer
@@ -43622,6 +43654,7 @@ tartar
 tartarous
 tartest
 tartier
+tartiest
 tartiness
 tartinesses
 tartly
@@ -44654,6 +44687,7 @@ tonguing
 tonic
 tonicities
 tonicity
+tonics
 tonier
 tonnage
 tonnish
@@ -47786,6 +47820,7 @@ violates
 violinistic
 violoncellist
 violoncellists
+violone
 violones
 viols
 viosterols
