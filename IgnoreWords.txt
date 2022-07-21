@@ -225,6 +225,7 @@ acentric
 acephalous
 acerate
 acerbated
+acerbating
 acerber
 acerbity
 acerola
@@ -888,6 +889,7 @@ alchemistic
 alchemize
 alchemizes
 alchemizing
+alchymy
 alcidine
 alcids
 alcoholically
@@ -1222,6 +1224,7 @@ amid
 amidase
 amidases
 amide
+amidic
 amidin
 amidine
 amidogens
@@ -4249,6 +4252,7 @@ biosphere
 biospheric
 biostatistical
 biostrome
+biostromes
 biosyntheses
 biosynthesis
 biosystematics
@@ -5391,6 +5395,8 @@ bruited
 bruits
 brumby
 brunch
+bruncher
+brunettes
 brunts
 brushabilities
 brushability
@@ -6180,6 +6186,7 @@ capo
 caponier
 caponiers
 caporal
+capote
 capotes
 capped
 cappelletti
@@ -7193,6 +7200,7 @@ chillest
 chillies
 chillums
 chilopod
+chilopods
 chiltepin
 chiltepins
 chimaeras
@@ -10469,6 +10477,7 @@ cymlings
 cymol
 cymophane
 cymose
+cymosely
 cynical
 cynically
 cynicism
@@ -14938,6 +14947,7 @@ etude
 etudes
 etui
 etuis
+etwees
 etyma
 etymologised
 etymologising
@@ -16396,6 +16406,7 @@ flannelets
 flannelette
 flannelettes
 flannelly
+flap
 flaperons
 flapjack
 flapless
@@ -16573,6 +16584,7 @@ floorwalkers
 floosie
 flophouse
 flopover
+flopper
 floppers
 floppier
 floppiest
@@ -18514,6 +18526,7 @@ godships
 goethites
 gofer
 goffered
+goffering
 gofferings
 goffers
 goggle
@@ -23810,6 +23823,7 @@ kneeing
 kneels
 kneepan
 knelling
+knells
 knelt
 knickerbockers
 knifed
@@ -24206,6 +24220,7 @@ lasagnes
 lasciviousness
 lasher
 lashes
+lashkar
 lasses
 lassitudes
 lassoes
@@ -25123,6 +25138,7 @@ longitudes
 longitudinally
 longleaves
 longship
+longshoremen
 longueur
 longways
 looby
@@ -25146,6 +25162,7 @@ looninesses
 loons
 loopholed
 loopinesses
+looping
 loosely
 looseness
 looses
@@ -26444,6 +26461,7 @@ mescal
 mesclun
 mesdemoiselles
 meseems
+mesencephalic
 mesenchymes
 mesentera
 mesenteron
@@ -30347,6 +30365,7 @@ outbid
 outbidden
 outbidder
 outbidders
+outbitch
 outbitches
 outblooming
 outblooms
@@ -31250,6 +31269,7 @@ packwax
 packwaxes
 paclitaxel
 pacs
+pactions
 pad
 paddleballs
 paddleboard
@@ -32291,6 +32311,7 @@ perfusion
 periapses
 periblems
 pericardial
+pericarps
 pericope
 pericranium
 periderm
@@ -32970,6 +32991,7 @@ pikes
 pikestaff
 pikestaffs
 pikestaves
+pilaf
 pilaffs
 pilar
 pilau
@@ -33921,6 +33943,7 @@ postponed
 postponement
 postponements
 postponer
+postpose
 postposed
 postpositional
 postpositively
@@ -35065,6 +35088,7 @@ protons
 protopathic
 protoplast
 protoplasts
+protostars
 protosteles
 protostelic
 prototrophies
@@ -35423,6 +35447,7 @@ purposively
 purpure
 purr
 purring
+purselike
 purser
 pursers
 pursier
@@ -35498,6 +35523,7 @@ pyorrhoea
 pyorrhoeas
 pyracantha
 pyralid
+pyralids
 pyramid
 pyramidal
 pyramiding
@@ -37929,6 +37955,7 @@ retreating
 retreats
 retrials
 retributory
+retries
 retro
 retroact
 retroacted
@@ -39196,6 +39223,7 @@ satisfier
 satisfies
 satisfy
 satisfyingly
+satoris
 satraps
 satsumas
 saturable
@@ -43684,6 +43712,7 @@ sudsy
 suer
 suers
 sues
+suets
 sufferable
 sufferableness
 sufferances
@@ -44835,6 +44864,7 @@ teaseler
 teaselled
 teashop
 teaspoonful
+teaspoonfuls
 teaspoons
 teataster
 teawares
@@ -46205,6 +46235,7 @@ transmitted
 transmitters
 transmutative
 transnational
+transonic
 transparence
 transparent
 transpersonal
@@ -47991,6 +48022,7 @@ unreinforced
 unrelenting
 unreliability
 unremarkably
+unremittingly
 unrenewed
 unrepair
 unrepentant
@@ -48055,6 +48087,7 @@ unseeing
 unseemlier
 unseen
 unsegregated
+unselfish
 unselling
 unsells
 unsensational
@@ -48744,6 +48777,7 @@ vendables
 vendee
 vendibly
 venditions
+vendues
 veneered
 veneers
 venenes
@@ -50717,6 +50751,7 @@ zouave
 zouks
 zounds
 zwitterion
+zygomas
 zygomata
 zygomatics
 zygosities
