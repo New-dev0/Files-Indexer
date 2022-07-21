@@ -142,6 +142,7 @@ accenting
 accentor
 accentuation
 accept
+acceptabilities
 acceptability
 acceptable
 acceptance
@@ -281,6 +282,7 @@ acidulated
 acidulation
 acidy
 acierated
+aciform
 acini
 acinose
 ackee
@@ -289,6 +291,7 @@ acknowledgments
 acned
 acock
 acquaint
+acquaintances
 acquiesce
 acquiescences
 acquiescing
@@ -1009,6 +1012,7 @@ allopathies
 allopatric
 allopatrically
 allophone
+alloplasm
 alloplasms
 allosteries
 allostery
@@ -1837,6 +1841,7 @@ antiterrorists
 antithesis
 antithetic
 antithetically
+antitoxic
 antitoxin
 antitoxins
 antitrade
@@ -2512,6 +2517,7 @@ asterias
 asteriated
 asterisk
 asterisks
+asterism
 asternal
 asthenia
 asthenosphere
@@ -3307,6 +3313,7 @@ barographic
 baronage
 baronetage
 baronetcies
+baronnes
 baroreceptor
 barosaurs
 barquentine
@@ -3501,6 +3508,7 @@ beanstalk
 beanstalks
 bearable
 bearbaiting
+bearbaitings
 bearberries
 bearcats
 beardedness
@@ -4359,6 +4367,7 @@ bladders
 bladdery
 bladed
 bladeless
+bladelike
 blaeberries
 blaff
 blaggings
@@ -5413,6 +5422,7 @@ buffaloing
 buffer
 buffeter
 buffeters
+buffets
 buffos
 bugaboos
 bugbears
@@ -6815,6 +6825,7 @@ champacas
 champagnes
 champerty
 champignons
+championed
 champions
 championships
 champleve
@@ -8972,6 +8983,7 @@ contraptions
 contrapuntists
 contraries
 contrarieties
+contrariety
 contrarinesses
 contrastive
 contravene
@@ -10518,6 +10530,7 @@ dandlers
 dandling
 danegelt
 daneworts
+dangering
 dangerous
 dangerously
 dangers
@@ -12803,6 +12816,7 @@ doublespeak
 doublespeakers
 doubloons
 doublures
+doubter
 doubters
 doubtful
 doubtingly
@@ -14126,6 +14140,7 @@ engage
 engaged
 engagers
 engagingly
+engarlands
 engendering
 engine
 engineer
@@ -16550,6 +16565,7 @@ foamy
 fobbed
 focalizations
 focalize
+focalized
 focalizes
 focusless
 fodder
@@ -17545,6 +17561,7 @@ gapeseed
 gapeseeds
 gapeworms
 gaping
+gapless
 gapping
 garage
 garages
@@ -19322,6 +19339,7 @@ haptenes
 haptoglobins
 harangued
 harangues
+harassers
 harassments
 harbinger
 harbored
@@ -19684,6 +19702,7 @@ hellhound
 hellions
 hellish
 hellishly
+hellishness
 helloes
 helloing
 helminthiases
@@ -20676,6 +20695,7 @@ hydrostat
 hydrostatic
 hydrostats
 hydrotherapy
+hydrothoraxes
 hydrotropic
 hydroxides
 hydroxyapatite
@@ -21149,6 +21169,7 @@ impasted
 impatience
 impatiences
 impatiens
+impavid
 impawned
 impawns
 impeach
@@ -23966,6 +23987,7 @@ lastborn
 lastborns
 lasters
 lastings
+lastly
 lasts
 lat
 latches
@@ -24138,6 +24160,7 @@ lecithinase
 lectern
 lectin
 lection
+lectors
 lectured
 led
 lederhosen
@@ -24573,6 +24596,7 @@ lintols
 lints
 lintwhites
 linuron
+linurons
 lionfish
 lionhearted
 lionisers
@@ -25487,6 +25511,7 @@ manically
 manicured
 manicures
 manifest
+manifested
 manifester
 manifestly
 manifestos
@@ -33352,6 +33377,7 @@ polyptychs
 polypuses
 polys
 polysaccharide
+polysorbates
 polystyrenes
 polysulfides
 polysyndeton
@@ -36008,6 +36034,7 @@ recap
 recapitalize
 recapitalizing
 recapitulated
+recapitulates
 recapitulation
 recapitulations
 recapped
@@ -38316,6 +38343,7 @@ rugulose
 ruinable
 ruinate
 ruined
+ruiner
 ruining
 ruinousness
 rulable
@@ -39196,6 +39224,7 @@ scrapheap
 scrapheaps
 scrapies
 scraping
+scrapings
 scrappage
 scrappages
 scrapped
@@ -39349,6 +39378,7 @@ seapieces
 seaports
 seaquake
 seaquakes
+searchers
 searches
 searchingly
 searest
@@ -45650,6 +45680,7 @@ tramels
 tramlines
 trammeler
 trammelers
+trammels
 tramontane
 tramper
 trampiest
@@ -46078,6 +46109,7 @@ triumphalism
 triumphed
 triumphs
 triune
+triunes
 triunity
 trivial
 trivialised
@@ -47654,6 +47686,7 @@ unstopping
 unstops
 unstratified
 unstrung
+unstudied
 unsubdued
 unsuccess
 unsuitabilities
@@ -47870,6 +47903,7 @@ upsetters
 upshift
 upshifted
 upshifts
+upshooting
 upsized
 upslope
 upsoared
@@ -48711,6 +48745,7 @@ voles
 volitive
 volkslieder
 volleyed
+volleys
 volplane
 voltage
 voltages
