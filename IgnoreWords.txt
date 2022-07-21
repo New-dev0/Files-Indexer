@@ -62,6 +62,7 @@ absolutists
 absolutized
 absolve
 absolvent
+absolvers
 absolves
 absorb
 absorbancies
@@ -1434,6 +1435,7 @@ anecdotic
 anecdotically
 anecdotists
 anele
+aneled
 anemia
 anemic
 anemologies
@@ -5105,6 +5107,7 @@ breathability
 breathed
 breathers
 breathes
+breathiest
 breathtaking
 breathy
 breccias
@@ -6200,6 +6203,7 @@ cardigan
 cardigans
 cardinalship
 cardings
+cardio
 cardiogenic
 cardiographs
 cardiological
@@ -6495,6 +6499,7 @@ catlings
 catnapping
 catoptric
 cats
+catsuit
 cattalo
 cattaloes
 cattie
@@ -7215,6 +7220,7 @@ choiceness
 choicenesses
 choir
 choirboy
+choirboys
 choired
 chokeberries
 chokecherry
@@ -10044,6 +10050,7 @@ cullenders
 cullers
 cullied
 cullises
+culminant
 culminate
 culminations
 culming
@@ -10335,6 +10342,7 @@ cymling
 cymlings
 cymol
 cymophane
+cymose
 cynical
 cynically
 cynicism
@@ -11043,6 +11051,7 @@ dekameter
 delaine
 delaminates
 delaminations
+delate
 delayed
 dele
 deleaved
@@ -11432,6 +11441,7 @@ designation
 designators
 designs
 desilver
+desinences
 desinent
 desirableness
 desirables
@@ -14615,6 +14625,7 @@ eschalots
 eschatology
 escheatable
 escheating
+escheats
 eschewals
 escolars
 escot
@@ -14896,6 +14907,7 @@ exahertz
 exahertzes
 exalters
 exam
+examined
 examinee
 examines
 examining
@@ -16575,6 +16587,7 @@ follicular
 folliculitises
 follies
 follow
+followed
 follower
 followup
 followups
@@ -18464,6 +18477,7 @@ grainers
 gram
 grama
 gramaries
+gramarye
 gramercies
 gramineous
 gramma
@@ -23461,6 +23475,7 @@ kinin
 kinins
 kinkajou
 kinked
+kinkiest
 kinkinesses
 kiosks
 kippered
@@ -25445,6 +25460,7 @@ manicures
 manifest
 manifester
 manifestly
+manifestos
 manifoldness
 manifoldnesses
 manihot
@@ -26284,6 +26300,7 @@ metrical
 metricate
 metricates
 metro
+metrological
 metrologist
 metrology
 metronidazole
@@ -26698,6 +26715,7 @@ misapprehension
 misarticulated
 misassayed
 misassaying
+misassays
 misassemble
 misassign
 misassumption
@@ -27936,6 +27954,7 @@ myoinositol
 myoinositols
 myologies
 myology
+myope
 myopically
 myoses
 myosote
@@ -29197,6 +29216,7 @@ nutgall
 nutmeat
 nutmeg
 nutpick
+nutraceuticals
 nutria
 nutriment
 nutritional
@@ -30440,6 +30460,7 @@ overcut
 overdecked
 overdecking
 overdecorates
+overdecoration
 overdecorations
 overdemanding
 overdependence
@@ -32112,6 +32133,7 @@ petasuses
 petcocks
 petechia
 petering
+petit
 petiteness
 petitioners
 petnapers
@@ -33392,6 +33414,7 @@ poriferal
 porisms
 pork
 porked
+pornier
 pornographies
 poromerics
 porousnesses
@@ -33944,6 +33967,7 @@ prematureness
 prematurenesses
 premaxillary
 premedieval
+premeditated
 premeditations
 premeditative
 premeds
@@ -36164,6 +36188,7 @@ redacted
 redacting
 redans
 redargued
+redarguing
 redated
 redates
 redating
@@ -36426,6 +36451,7 @@ reforesting
 reforests
 reform
 reformate
+reformations
 reformer
 reformisms
 reformist
@@ -37551,6 +37577,7 @@ reveller
 revelments
 revenant
 revenge
+revengefully
 revenging
 revenued
 reverberant
@@ -38561,6 +38588,7 @@ sanction
 sanctioning
 sandable
 sandaling
+sandalled
 sandals
 sandalwood
 sandalwoods
@@ -38846,6 +38874,7 @@ scamp
 scamped
 scamperers
 scampish
+scamster
 scandal
 scandaling
 scandalise
@@ -40487,6 +40516,7 @@ sirventes
 sisals
 sisterhoods
 sistroid
+sistrum
 sistrums
 sitarists
 sitcoms
@@ -43714,6 +43744,7 @@ swelter
 sweltry
 sweptback
 swerve
+swerves
 swerving
 sweven
 swidden
@@ -44186,6 +44217,7 @@ tarmacadam
 tarmacked
 tarmacs
 tarnish
+tarns
 taroks
 tarot
 tarp
@@ -44250,6 +44282,7 @@ tautonym
 tavern
 taverna
 tawdries
+tawers
 tawnier
 tawse
 tawsing
@@ -46867,6 +46900,7 @@ underdone
 underdosed
 underdosing
 undereats
+underemphasize
 underestimate
 underestimated
 underestimates
@@ -47768,6 +47802,7 @@ upscales
 upsends
 upsent
 upsetters
+upshift
 upshifted
 upshifts
 upsized
