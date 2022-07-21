@@ -220,6 +220,7 @@ accusers
 accustomation
 accustoms
 ace
+aceldama
 acentric
 acephalous
 acerate
@@ -1831,6 +1832,7 @@ antiseptics
 antisex
 antisexist
 antisexists
+antishark
 antislavery
 antisleep
 antislip
@@ -1968,6 +1970,7 @@ apologies
 apologise
 apologist
 apologists
+apologizers
 apologues
 apolunes
 apomict
@@ -2455,6 +2458,7 @@ asrama
 assagai
 assagais
 assailable
+assailed
 assailing
 assais
 assassinating
@@ -4022,6 +4026,7 @@ bewitcheries
 bewitchery
 bewitches
 bewitchments
+beworm
 beworming
 beworry
 bewrap
@@ -4766,6 +4771,7 @@ boltlike
 boltropes
 bolus
 bombable
+bombarded
 bombarder
 bombardier
 bombinates
@@ -8448,6 +8454,7 @@ commode
 commodified
 commodifying
 commodiously
+commodities
 commodity
 common
 commonality
@@ -8855,6 +8862,7 @@ connote
 connoted
 connotes
 connoting
+conns
 connubialisms
 connubiality
 conodonts
@@ -9885,6 +9893,7 @@ crinoline
 crinolined
 crinums
 criollo
+criollos
 cripe
 crippled
 cripples
@@ -11565,6 +11574,7 @@ designation
 designators
 designs
 desilver
+desilvering
 desinences
 desinent
 desirableness
@@ -15037,6 +15047,7 @@ eviller
 evilness
 evils
 evince
+eviscerate
 eviscerates
 eviscerating
 evisceration
@@ -18224,6 +18235,7 @@ gladiate
 gladioluses
 gladness
 glads
+gladsomely
 gladsomeness
 gladsomer
 gladsomest
@@ -23871,6 +23883,7 @@ krimmer
 krimmers
 kris
 krone
+kroon
 krubut
 krummholz
 krummhorns
@@ -23888,6 +23901,7 @@ kumquat
 kuna
 kurbash
 kurrajongs
+kvas
 kvases
 kvass
 kvasses
@@ -23963,6 +23977,7 @@ laconisms
 lacquer
 lacquerer
 lacqueyed
+lactalbumins
 lactases
 lactate
 lactates
@@ -24438,6 +24453,7 @@ leisurelinesses
 leitmotifs
 leitmotiv
 lek
+leks
 lekvar
 lekythos
 lekythus
@@ -26814,6 +26830,7 @@ milliluxes
 millime
 millimes
 millimho
+millimhos
 millimolar
 millimole
 milline
@@ -29191,6 +29208,7 @@ nonpolitician
 nonporous
 nonpossession
 nonpractical
+nonpracticing
 nonpregnant
 nonprofessional
 nonprofits
@@ -33400,6 +33418,7 @@ plus
 plush
 plushiness
 plussage
+plutocracy
 plutonic
 plutonium
 plutoniums
@@ -34621,6 +34640,7 @@ printmaker
 printmaking
 printmakings
 prion
+prioresses
 prioritization
 prioritizations
 priority
@@ -36991,6 +37011,7 @@ reimport
 reimportation
 reimported
 reimports
+reimpositions
 reincarnate
 reincarnates
 reincarnations
@@ -38582,6 +38603,7 @@ rowels
 rowen
 rower
 rowlocks
+rowth
 rowths
 royalties
 royalty
@@ -38695,6 +38717,7 @@ runarounds
 runback
 rune
 runes
+runic
 runkled
 runkling
 runless
@@ -40230,6 +40253,7 @@ shacks
 shadblow
 shadbush
 shadchan
+shaddock
 shaddocks
 shade
 shadeless
@@ -40811,6 +40835,7 @@ siliqua
 siliquae
 siliques
 siliquose
+siliquous
 silkaline
 silkalines
 silked
@@ -43833,6 +43858,7 @@ supercops
 supercriminal
 supercriminals
 superdiplomat
+supereffective
 superefficiency
 superefficient
 superelite
@@ -44701,6 +44727,7 @@ tastelessness
 tastiest
 tatami
 tatars
+tatouay
 tatouays
 tats
 tatsois
@@ -45143,6 +45170,7 @@ thalassocracies
 thalidomide
 thallic
 thallophyte
+thallophytes
 thallophytic
 thalluses
 thanages
@@ -45311,6 +45339,7 @@ thirtyish
 thisaway
 thole
 tholed
+tholing
 thongs
 thoracotomy
 thorium
@@ -45920,6 +45949,7 @@ tourmaline
 tourney
 touse
 touses
+touter
 touting
 touts
 tovarich
@@ -46279,6 +46309,7 @@ trendsetting
 trepan
 trepanations
 trepang
+trepanner
 trepans
 trephines
 trepidant
@@ -46978,6 +47009,7 @@ ulnad
 ulnae
 ulpan
 ulpanim
+ulster
 ulsters
 ultimacies
 ultimately
@@ -47076,6 +47108,7 @@ unaesthetic
 unaffecting
 unaffectionate
 unaffordable
+unafraid
 unageing
 unagile
 unalarmed
@@ -49385,6 +49418,7 @@ warmheartedness
 warming
 warmongerings
 warmouth
+warmth
 warmups
 warped
 warpers
@@ -50233,6 +50267,7 @@ wrestle
 wrestled
 wrestlers
 wretcheder
+wretchedness
 wricked
 wried
 wrier

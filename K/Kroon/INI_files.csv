@@ -1,0 +1,2 @@
+dev-db/mariadb-connector-odbc/files/odbcinst2.ini ...,https://git.nju.edu.cn/ti/gentoo/-/blob/618e87ec33c40b288694c34668863c8d0f107837/dev-db/mariadb-connector-odbc/files/odbcinst2.ini
+dev-db/mariadb-connector-odbc/files/odbcinst.ini ...,https://git.nju.edu.cn/ti/gentoo/-/blob/618e87ec33c40b288694c34668863c8d0f107837/dev-db/mariadb-connector-odbc/files/odbcinst.ini
