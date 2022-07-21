@@ -435,6 +435,7 @@ adjournment
 adjournments
 adjudge
 adjudges
+adjudicating
 adjudications
 adjudicator
 adjudicators
@@ -6107,6 +6108,7 @@ cappuccinos
 capriccio
 caprice
 caprices
+capriciousness
 caprifications
 caprifigs
 caprioled
@@ -8260,6 +8262,7 @@ columneas
 columniation
 columnists
 colure
+colza
 comaking
 comal
 comanaged
@@ -9614,6 +9617,7 @@ crankiest
 crankinesses
 crankle
 crankles
+crankpin
 cranky
 crannog
 crannoges
@@ -10502,6 +10506,7 @@ dandified
 dandle
 dandlers
 dandling
+danegelt
 daneworts
 dangerous
 dangerously
@@ -10533,6 +10538,7 @@ darkener
 darkies
 darking
 darkle
+darklier
 darkling
 darkly
 darkness
@@ -10968,6 +10974,7 @@ defoliation
 defoliators
 deforcers
 deforces
+deforested
 deforesting
 deforests
 deformation
@@ -16856,6 +16863,7 @@ fortunatenesses
 fortune
 fortuned
 fortuning
+fortyish
 forum
 forward
 forwarding
@@ -19611,6 +19619,7 @@ heelpiece
 heelpieces
 heelpost
 heeltap
+hefting
 hefts
 hegaris
 hegemons
@@ -19717,6 +19726,7 @@ hemodialysis
 hemolymph
 hemolyzes
 hemolyzing
+hemophiliac
 hemophiliacs
 hemopoieses
 hemorrhaging
@@ -23264,6 +23274,7 @@ kecking
 keckle
 keckles
 kecks
+kedged
 kedgerees
 kedges
 keel
@@ -23498,6 +23509,7 @@ kitchen
 kitchenets
 kite
 kitelike
+kiter
 kites
 kiths
 kiting
@@ -25278,6 +25290,7 @@ maidish
 maieutic
 maigre
 mailer
+mailing
 mailmen
 mainframes
 mainlander
@@ -28833,6 +28846,7 @@ nonlanguage
 nonlanguages
 nonlawyers
 nonlevel
+nonliable
 nonlibrary
 nonlinearity
 nonliquid
@@ -32042,6 +32056,7 @@ persecute
 persecutees
 persecuting
 persecutive
+persecutors
 persecutory
 perses
 perseverance
@@ -32136,6 +32151,7 @@ petering
 petit
 petiteness
 petitioners
+petnap
 petnapers
 petnaping
 petnapper
@@ -34803,6 +34819,7 @@ psychologises
 psychologists
 psychologize
 psychometrics
+psychometry
 psychoneurotic
 psychoneurotics
 psychopathics
@@ -36422,6 +36439,7 @@ reflag
 reflagged
 reflating
 reflations
+reflecting
 reflectional
 reflectively
 reflectorized
@@ -36674,6 +36692,7 @@ reinvesting
 reinvestment
 reinvigorated
 reinvoke
+reinvoking
 reissue
 reitbok
 reiterated
@@ -36796,6 +36815,7 @@ remapping
 remarkable
 remarkableness
 remarketing
+remarkets
 remarque
 remarques
 remarriage
@@ -37339,6 +37359,7 @@ restimulating
 restitched
 restitute
 restitutions
+restless
 restlessness
 restock
 restocked
@@ -38324,6 +38345,7 @@ rushed
 rushee
 rusher
 rushers
+rushier
 rushiest
 rushlight
 rusks
@@ -39481,6 +39503,7 @@ sellotaping
 sellout
 seltzers
 selva
+selvedge
 selvedges
 selves
 semainiers
@@ -40443,6 +40466,7 @@ simulacrum
 simulacrums
 simulant
 simulated
+simulates
 simulations
 simulator
 simulcasted
@@ -40556,6 +40580,7 @@ skankier
 skanking
 skater
 skatols
+skeanes
 skeans
 skedaddles
 skedaddling
@@ -42732,6 +42757,7 @@ strowing
 stroyer
 struck
 structuralisms
+structuralize
 structuration
 structurations
 structure
@@ -42928,6 +42954,7 @@ subheading
 subheadings
 subheads
 subhuman
+subhumid
 subindices
 subindustry
 subinfeudates
@@ -43844,6 +43871,7 @@ sylvinites
 sylvites
 symbiosis
 symbolise
+symbolist
 symbolized
 symbolizes
 symbolled
@@ -44580,6 +44608,7 @@ terminal
 terminator
 terminators
 termitarium
+termitary
 termite
 termly
 termtimes
@@ -47228,11 +47257,13 @@ uniqueness
 uniquer
 uniques
 unirrigated
+unisexual
 unisexuality
 unisonant
 unitages
 unitarianism
 unitarianisms
+uniters
 unities
 unitive
 unitization
@@ -48159,6 +48190,7 @@ vehement
 veiler
 veilers
 veiling
+veiners
 veinier
 veining
 veinlet
@@ -49148,6 +49180,7 @@ wettish
 whacks
 whaleback
 whaleman
+whalers
 whales
 whangee
 whangees
@@ -49594,6 +49627,7 @@ woodworkers
 woof
 woofer
 wooingly
+wool
 wooler
 woolers
 woolgathering
@@ -49625,6 +49659,7 @@ wordsmith
 workaday
 workaholisms
 workbag
+workbags
 workbenches
 workboat
 workbox
