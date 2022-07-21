@@ -1724,6 +1724,7 @@ antigun
 antihelixes
 antihero
 antiheroine
+antiherpes
 antihistamine
 antihistaminics
 antihumanistic
@@ -2043,6 +2044,7 @@ appointive
 appoints
 apposed
 appositive
+appositively
 appraisees
 appraisers
 appraising
@@ -2163,6 +2165,7 @@ archaist
 archaistic
 archaizer
 archaizes
+archaizing
 archangel
 archbishopric
 archdeaconries
@@ -2507,6 +2510,7 @@ assurable
 assuredness
 assurednesses
 assurer
+assurers
 assures
 assuror
 assurors
@@ -3093,6 +3097,7 @@ badman
 badmen
 badmintons
 badmouth
+baffing
 bafflegab
 bafflements
 bagatelle
@@ -3923,6 +3928,7 @@ besmoking
 besmoothed
 besmooths
 besmudges
+besnow
 besnowed
 besnows
 besom
@@ -4169,6 +4175,7 @@ bioethical
 biofeedbacks
 biofouler
 biofoulers
+biofoulings
 biogenetic
 biogeny
 biogeochemistry
@@ -4639,6 +4646,7 @@ bobwhites
 boccie
 boccies
 boccis
+bock
 bodacious
 bodaciously
 boddhisattva
@@ -12911,6 +12919,7 @@ downpours
 downrightness
 downriver
 downscaled
+downscaling
 downshift
 downshifted
 downshifts
@@ -13241,6 +13250,7 @@ dumbstruck
 dumbwaiters
 dumfounded
 dumfounds
+dumka
 dumky
 dummkopfs
 dummying
@@ -14034,6 +14044,7 @@ enclaves
 enclose
 enclosers
 enclosure
+encodable
 encoded
 encodes
 encomiast
@@ -14586,6 +14597,7 @@ eradiating
 eradicable
 eradicated
 eradicating
+eradication
 eradicators
 erasabilities
 erase
@@ -16184,6 +16196,7 @@ fishmongers
 fishtails
 fishway
 fishways
+fishwives
 fissility
 fissionability
 fissiped
@@ -16635,6 +16648,7 @@ foldboats
 folderol
 folia
 foliage
+foliaged
 foliar
 foliations
 folioing
@@ -18160,6 +18174,7 @@ glaucous
 glazier
 glaziery
 glazily
+glazings
 gleam
 gleamer
 gleamier
@@ -21806,6 +21821,7 @@ inferable
 inferably
 inferior
 infernally
+inferno
 inferrer
 infesters
 infidelic
@@ -22206,6 +22222,7 @@ interconnect
 interconnecting
 interconnection
 interconnects
+interconverting
 intercooler
 intercorporate
 intercorrelate
@@ -22579,6 +22596,7 @@ invocation
 invoke
 involucels
 involucra
+involucral
 involuting
 involutional
 involve
@@ -26689,6 +26707,7 @@ minced
 minces
 mincier
 minciest
+mincy
 mind
 mindedness
 mindful
@@ -28892,6 +28911,7 @@ nonglare
 nongolfers
 nongonococcal
 nongreen
+nongregarious
 nonguests
 nonhalogenated
 nonhistone
@@ -31304,6 +31324,7 @@ paperboard
 paperboards
 paperboys
 paperclip
+paperclips
 paperhangers
 paperhangings
 papering
@@ -33013,6 +33034,7 @@ plasmagels
 plasmatic
 plasmogamy
 plasmoid
+plasmoids
 plasmolysis
 plasmolytic
 plasmolyzed
@@ -34326,6 +34348,7 @@ prewrapped
 prewraps
 prewritings
 prex
+prey
 preyed
 preyer
 preying
@@ -36177,6 +36200,7 @@ recognizable
 recognizer
 recognizers
 recognizes
+recoined
 recolonizes
 recoloring
 recombinant
@@ -37122,6 +37146,7 @@ replevin
 replica
 replicabilities
 replicable
+replicas
 replicon
 replicons
 replied
@@ -37829,6 +37854,7 @@ rhematic
 rhemes
 rhenium
 rheobases
+rheobasic
 rheologically
 rheologist
 rheology
@@ -39748,6 +39774,7 @@ sensum
 sententia
 sententious
 senti
+sentiences
 sentiencies
 sentiently
 sentimental
@@ -39836,6 +39863,7 @@ sericulturists
 serifed
 serigraphs
 serine
+seringa
 serins
 seriousness
 seriousnesses
@@ -43341,6 +43369,7 @@ sudatorium
 sudatoriums
 sudd
 suddenness
+sudds
 sudsier
 sudsy
 suer
@@ -44884,6 +44913,7 @@ theft
 thegnly
 theine
 theins
+theirselves
 theist
 theistically
 thematics
@@ -47145,6 +47175,7 @@ undertaken
 undertaker
 undertakes
 undertaking
+undertenant
 undertint
 undertints
 undertrick
@@ -47359,6 +47390,7 @@ unillusioned
 unilobed
 unimaginative
 unimportant
+unimpressive
 uninhibitedly
 uninitiate
 uninjured
@@ -49561,6 +49593,7 @@ willingly
 willingness
 williwaw
 willy
+wimmin
 wimpiest
 wimpish
 wimpling
@@ -49645,6 +49678,7 @@ wirra
 wise
 wiselier
 wisely
+wisenheimer
 wisest
 wishbones
 wished
@@ -50249,6 +50283,7 @@ zippering
 zipping
 zitherist
 zithers
+ziti
 zitis
 zizzle
 zizzled
