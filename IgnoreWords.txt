@@ -801,6 +801,7 @@ aiming
 ain
 aiolis
 airbrushed
+airbrushes
 airbursts
 airbuses
 airbusses
@@ -1966,6 +1967,7 @@ apophthegms
 apophyllite
 apophyses
 apoplexies
+apoptoses
 apoptosis
 aporias
 aposiopetic
@@ -5295,6 +5297,7 @@ bronchiectasis
 bronchiolar
 bronchioles
 bronchitic
+bronchogenic
 bronchoscopists
 bronchospasms
 bronchospastic
@@ -6864,6 +6867,7 @@ chandelled
 chandelles
 chandleries
 chandlers
+chandlery
 chang
 change
 changeabilities
@@ -7996,6 +8000,7 @@ codder
 codders
 coddling
 code
+codebook
 coded
 codefendant
 codeless
@@ -10653,6 +10658,7 @@ dayglow
 daylighted
 daylit
 daymares
+dayroom
 days
 daysides
 daysmen
@@ -12860,6 +12866,7 @@ doubtful
 doubtingly
 doubtlessly
 doubtlessness
+douceur
 douched
 douches
 doughboy
@@ -14953,6 +14960,7 @@ eviction
 evicts
 evidenced
 evident
+evildoer
 evildoers
 evildoings
 eviller
@@ -16553,6 +16561,7 @@ fluoresce
 fluorescein
 fluoric
 fluoridation
+fluoridations
 fluorimeter
 fluorimetric
 fluorimetries
@@ -16617,6 +16626,7 @@ focalizations
 focalize
 focalized
 focalizes
+focally
 focusless
 fodder
 fodders
@@ -16693,6 +16703,7 @@ fons
 fontal
 fontanel
 fontanelle
+fontanels
 fontina
 foofaraws
 foolfish
@@ -18651,6 +18662,7 @@ grapplers
 grappling
 graptolite
 grapy
+graspable
 graspingness
 graspingnesses
 grasshopper
@@ -19945,6 +19957,7 @@ heterodoxies
 heterodyning
 heteroecism
 heterogameties
+heterogeneity
 heterogeneous
 heterogenies
 heterogeny
@@ -21290,6 +21303,7 @@ imphees
 imping
 impingements
 impings
+impiously
 impish
 impishly
 impishness
@@ -22300,6 +22314,7 @@ interject
 interjected
 interjecting
 interjection
+interjector
 interjectory
 interjoins
 interknitting
@@ -24093,6 +24108,7 @@ latifundio
 latifundios
 latillas
 latinized
+latinizing
 latitude
 latitudes
 latkes
@@ -24995,6 +25011,7 @@ loosestrife
 loot
 looter
 looting
+lop
 lophophores
 loping
 lopped
@@ -26452,6 +26469,7 @@ mezuza
 mezuzah
 mezuzahs
 mezuzoth
+mezzos
 miaou
 miaowed
 miaowing
@@ -26732,6 +26750,7 @@ mindedness
 mindful
 mindfulnesses
 mindless
+mindset
 mine
 mineral
 mineralised
@@ -28459,6 +28478,7 @@ netting
 nettings
 nettled
 nettlier
+nettliest
 nettly
 netty
 networker
@@ -29387,6 +29407,7 @@ oakiest
 oar
 oars
 oasthouses
+oatcake
 oaves
 obdurately
 obdurateness
@@ -30508,6 +30529,7 @@ ovalness
 ovals
 ovariectomies
 ovately
+ovation
 ovenbird
 ovenproof
 ovens
@@ -31515,6 +31537,7 @@ parlay
 parlays
 parled
 parles
+parleying
 parliaments
 parlor
 parmigiana
@@ -31633,6 +31656,7 @@ pasteurises
 pasteurizations
 pasteurizing
 pasticheurs
+pasties
 pastiest
 pastilles
 pastils
@@ -33663,6 +33687,7 @@ posted
 postediting
 posteen
 postembryonal
+postembryonic
 posterior
 posterities
 posterns
@@ -34918,6 +34943,7 @@ psephite
 psephites
 psephologist
 psephology
+pseudepigraph
 pseudocoels
 pseudomonad
 pseudomonas
@@ -36637,6 +36663,7 @@ refraction
 refractiveness
 refractometers
 refractometric
+refractometries
 refracts
 refrained
 refrainer
@@ -37095,6 +37122,7 @@ reopening
 reopens
 reoperate
 reordered
+reorganization
 reorganizations
 reorganized
 reorientates
@@ -37540,6 +37568,7 @@ restrive
 restrooms
 restructured
 rests
+restudied
 restudies
 restuffing
 restuffs
@@ -40945,6 +40974,7 @@ sleazebag
 sleazeballs
 sleazes
 sleazo
+sleazoid
 sledders
 sledding
 sleek
@@ -43415,6 +43445,7 @@ suffocation
 suffocations
 suffragist
 suffuse
+suffuses
 suffusion
 sugarberries
 sugarbush
@@ -45323,6 +45354,7 @@ tinging
 tingliest
 tingling
 tingly
+tings
 tinily
 tininess
 tinker
@@ -45970,6 +46002,7 @@ travels
 traversable
 traverse
 travertine
+travertines
 travesties
 travestying
 travoises
@@ -47758,6 +47791,7 @@ unshells
 unshifting
 unshifts
 unshirted
+unshod
 unshrunk
 unsighting
 unsights
@@ -47898,6 +47932,7 @@ unused
 unusualness
 unutilized
 unuttered
+unvalued
 unveil
 unveiled
 unveiling
