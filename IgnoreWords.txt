@@ -1044,6 +1044,7 @@ allyl
 allyls
 alma
 almagest
+almanac
 almandines
 almandite
 alme
@@ -3438,6 +3439,7 @@ bathymetrically
 bathymetry
 bathyscaphs
 bathysphere
+bathyspheres
 batiks
 batistes
 batlike
@@ -5532,6 +5534,7 @@ bumpkinly
 bumpkins
 bumptiousness
 bumptiousnesses
+bumpy
 bun
 buncoing
 buncos
@@ -6676,6 +6679,7 @@ centaury
 centavos
 centenarians
 centenaries
+centerboard
 centered
 centering
 centerings
@@ -7154,6 +7158,7 @@ chimb
 chimbley
 chimbleys
 chimblies
+chime
 chimera
 chimeras
 chimere
@@ -9577,6 +9582,7 @@ covins
 cow
 cowardliness
 cowboying
+cowboys
 cower
 cowflop
 cowflops
@@ -12810,6 +12816,7 @@ dopier
 doping
 dopings
 doppelganger
+dorado
 dorbeetles
 dorkier
 dorkinesses
@@ -14442,6 +14449,7 @@ eolopiles
 eon
 eosinophilias
 eosinophilic
+eparch
 eparchial
 eparchy
 epaulets
@@ -16376,6 +16384,7 @@ fled
 fledge
 fledged
 fledges
+fleeced
 fleecer
 fleecing
 fleers
@@ -17455,6 +17464,7 @@ gabardine
 gabardines
 gabbards
 gabbart
+gabbier
 gabble
 gabbler
 gabbles
@@ -17943,6 +17953,7 @@ georgette
 georgettes
 geostationary
 geosynclinal
+geosynclines
 geotaxes
 geotropism
 geotropisms
@@ -19658,6 +19669,7 @@ heartbeat
 heartbreaker
 heartbreaking
 heartburning
+heartener
 heartening
 heartens
 heartfelt
@@ -20456,6 +20468,7 @@ horse
 horseback
 horsebacks
 horsebeans
+horsecars
 horsefeathers
 horseflesh
 horsefleshes
@@ -20768,6 +20781,7 @@ hydroski
 hydrospaces
 hydrosphere
 hydrospheres
+hydrospheric
 hydrostat
 hydrostatic
 hydrostats
@@ -22455,6 +22469,7 @@ intervening
 interviewed
 interviewees
 interwar
+interweave
 interweaved
 interweaving
 interwork
@@ -22741,6 +22756,7 @@ irresponsibles
 irretrievable
 irretrievably
 irreversibly
+irrevocability
 irrevocable
 irrevocably
 irrigably
@@ -23768,6 +23784,7 @@ krimmer
 krimmers
 kris
 krone
+krubut
 krummholz
 krummhorns
 kryolites
@@ -24175,6 +24192,7 @@ laxest
 laxness
 laxnesses
 lay
+laying
 layoff
 layout
 layover
@@ -25400,6 +25418,7 @@ magnetites
 magnetize
 magnetizing
 magnetometers
+magnetopauses
 magnetos
 magnetosphere
 magnificat
@@ -26629,6 +26648,7 @@ mightinesses
 mignonette
 mignons
 migraines
+migrate
 migs
 mihrabs
 mikados
@@ -27971,6 +27991,7 @@ murras
 murre
 murreys
 murrha
+murrine
 murrs
 musca
 muscadel
@@ -29900,6 +29921,7 @@ opticist
 optics
 optima
 optimalities
+optimisms
 optimization
 optimizations
 optimize
@@ -30238,6 +30260,7 @@ outdistancing
 outdodge
 outdoer
 outdoers
+outdoes
 outdragged
 outdrags
 outdreaming
@@ -34088,7 +34111,9 @@ preflight
 preflighted
 prefocussing
 preformat
+preformatting
 preforming
+preformulated
 prefrank
 prefranked
 prefranks
@@ -35427,6 +35452,7 @@ qualification
 qualifiedly
 qualitatively
 qualms
+quamashes
 quandang
 quangos
 quant
@@ -35498,6 +35524,7 @@ querulous
 querulousness
 question
 questioned
+questionnaire
 quetzales
 quetzals
 queuer
@@ -35546,6 +35573,7 @@ quintan
 quintans
 quintes
 quintessences
+quintets
 quintins
 quints
 quintuple
@@ -36129,6 +36157,7 @@ rebuff
 rebuffing
 rebuffs
 rebuilding
+rebuilds
 rebuker
 rebukes
 rebuking
@@ -36562,6 +36591,7 @@ reentered
 reentrance
 reentries
 reerecting
+reerects
 rees
 reescalation
 reescalations
@@ -39459,6 +39489,7 @@ scummers
 scungilli
 scunnered
 scuppaugs
+scupper
 scuppered
 scuppernong
 scuppernongs
@@ -39666,6 +39697,7 @@ seismological
 seismologists
 seismometers
 seisms
+seitans
 seizers
 selamliks
 selcouth
@@ -42563,6 +42595,7 @@ stereographic
 stereology
 stereophonic
 stereoscopies
+stereoscopy
 stereotactic
 stereotaxic
 stereotypical
@@ -45329,6 +45362,7 @@ timeliness
 timeously
 timepieces
 timesaver
+timesavers
 timeserver
 timeservings
 timework
@@ -49254,6 +49288,7 @@ watthours
 wattled
 wattles
 wattless
+wattling
 wattmeters
 watts
 wauchted
