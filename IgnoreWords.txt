@@ -1947,6 +1947,7 @@ apiculturist
 apiologies
 apishnesses
 aplenty
+aplite
 aplombs
 apneas
 apnoea
@@ -5134,6 +5135,7 @@ brawling
 brawls
 brawnier
 braza
+braze
 brazed
 brazening
 brazenness
@@ -5877,12 +5879,14 @@ calamondin
 calamondins
 calash
 calashes
+calcanea
 calcanei
 calcar
 calceate
 calcedony
 calciferol
 calcific
+calcifications
 calcimining
 calcinations
 calcine
@@ -7440,6 +7444,7 @@ chubby
 chuckies
 chuckle
 chuckleheaded
+chuckleheads
 chuckler
 chuckles
 chuckwalla
@@ -8621,6 +8626,7 @@ conceived
 conceives
 concelebrant
 concelebration
+concentrator
 concentrators
 concentrically
 conceptacles
@@ -11120,6 +11126,7 @@ defuser
 defuzed
 defuzes
 defuzing
+defying
 degami
 degasser
 degassers
@@ -11361,6 +11368,7 @@ denouncements
 denouncer
 dense
 densely
+denser
 densified
 densifying
 densitometers
@@ -15481,6 +15489,7 @@ exurb
 exurbanite
 exuviates
 exuvium
+eyeballed
 eyeballs
 eyebeam
 eyeblinks
@@ -16315,6 +16324,7 @@ fitchet
 fitchets
 fitfully
 fitfulness
+fitfulnesses
 fitness
 fitters
 fittingnesses
@@ -18136,6 +18146,7 @@ gigged
 giggler
 giggling
 gigglingly
+giggly
 giglet
 giglets
 gigolos
@@ -18194,6 +18205,7 @@ giraffe
 giraffes
 giraffish
 girandolas
+girasole
 gird
 girded
 girder
@@ -20665,6 +20677,7 @@ hoverfly
 hovering
 howdie
 however
+howf
 howffs
 howked
 hoya
@@ -20677,6 +20690,7 @@ hubbub
 hubby
 hubcap
 hubristic
+huckle
 huckleberry
 huckstering
 huddler
@@ -22056,6 +22070,7 @@ ingurgitate
 inhabit
 inhabitable
 inhabitancy
+inhabitants
 inhalers
 inharmonious
 inharmony
@@ -23774,6 +23789,7 @@ klezmers
 klicks
 klongs
 kludgiest
+klutziest
 klutzinesses
 klystrons
 knacker
@@ -24010,6 +24026,7 @@ ladyhood
 ladykins
 ladylike
 ladylove
+ladyship
 laetrile
 lag
 lagend
@@ -25300,6 +25317,7 @@ lummoxes
 lumpectomies
 lumpen
 lumper
+lumpier
 lumpinesses
 lumping
 lumpingly
@@ -26164,6 +26182,7 @@ mediations
 mediatize
 mediatizes
 mediatizing
+mediators
 mediatrices
 mediatrixes
 medicable
@@ -29513,6 +29532,7 @@ nurturer
 nurturing
 nutating
 nutbrown
+nutcracker
 nutgall
 nutmeat
 nutmeg
@@ -30604,6 +30624,7 @@ outspell
 outspells
 outspokenness
 outspread
+outspreading
 outspreads
 outsprints
 outstand
@@ -34633,6 +34654,7 @@ principles
 printabilities
 printability
 printed
+printer
 printeries
 printery
 printing
@@ -35639,6 +35661,7 @@ quarterly
 quartermasters
 quarterstaff
 quarterstaves
+quartile
 quarto
 quasicrystal
 quasiparticles
@@ -38774,6 +38797,7 @@ sabal
 sabaton
 sabayons
 sabbath
+sabbatical
 sabbats
 sabe
 sabermetrician
@@ -39314,6 +39338,7 @@ scantily
 scantiness
 scantinesses
 scapegoat
+scapegraces
 scaping
 scapose
 scapulary
@@ -39646,6 +39671,7 @@ scuffing
 scuffle
 scufflers
 sculches
+sculker
 scull
 sculled
 sculler
@@ -40024,6 +40050,7 @@ sensillae
 sensitise
 sensitivenesses
 sensitivities
+sensitize
 sensitizing
 sensorimotor
 sensual
@@ -41504,6 +41531,7 @@ sniffier
 sniffish
 sniffishly
 sniffishness
+sniffishnesses
 sniffler
 sniffling
 sniffly
@@ -41790,6 +41818,7 @@ sondes
 sone
 songbirds
 songfests
+songfully
 songfulness
 songless
 songsmith
@@ -45845,6 +45874,7 @@ topotype
 topped
 topping
 toppr
+topsails
 topsides
 topsoiling
 tora
@@ -46522,6 +46552,7 @@ trivialist
 trivialize
 troak
 trochanter
+trochanteral
 trochanters
 trochar
 trochars
@@ -46654,6 +46685,7 @@ tsar
 tsardoms
 tsarevnas
 tsarism
+tsaritza
 tsatske
 tsetses
 tsks
@@ -49545,6 +49577,7 @@ wax
 waxable
 waxes
 waxiest
+waxplant
 waxwings
 waxwork
 waybill
@@ -49586,6 +49619,7 @@ weave
 weavers
 weaves
 web
+webbier
 webcams
 webcasted
 webers
@@ -50189,6 +50223,7 @@ workman
 workmanly
 workmanship
 workpiece
+workpieces
 workplace
 worktables
 workup
