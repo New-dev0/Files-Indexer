@@ -1857,6 +1857,7 @@ antiuniversity
 antiviolence
 antiviral
 antivitamins
+antivivisection
 antiwelfare
 antler
 antlered
@@ -3069,6 +3070,7 @@ backstroke
 backtracked
 backwardly
 backwardnesses
+backwash
 backwashed
 backwashes
 backwaters
@@ -3699,6 +3701,7 @@ beggarly
 begin
 begirded
 begirt
+beglad
 begladded
 beglamor
 begloomed
@@ -5354,6 +5357,7 @@ bruits
 brumby
 brunch
 brunts
+brushabilities
 brushability
 brushed
 brushers
@@ -7434,6 +7438,7 @@ cicerone
 cichlid
 cicoree
 cigaret
+cigarillos
 cigars
 cigs
 ciguateras
@@ -11303,6 +11308,7 @@ denticulations
 dentiform
 dentifrices
 dentin
+dentinal
 dentins
 dentural
 denturists
@@ -15401,6 +15407,7 @@ eyetooth
 eyewash
 eyewashes
 eyewitness
+eyewitnesses
 eyre
 eyrie
 eyry
@@ -16006,6 +16013,7 @@ fight
 fighters
 fighting
 fights
+figuline
 figurate
 figurative
 figuratively
@@ -18632,6 +18640,7 @@ graphites
 graphitizable
 graphitization
 graphitized
+grapholects
 graphs
 grapier
 grapiness
@@ -19075,6 +19084,7 @@ gutsy
 gutta
 guttate
 guttations
+gutter
 guttered
 guttersnipes
 gutting
@@ -19536,6 +19546,7 @@ haversack
 havior
 havocking
 hawed
+hawkbill
 hawked
 hawking
 hawkmoth
@@ -19847,6 +19858,7 @@ hepatotoxicity
 hepcats
 heptachlor
 heptagon
+heptameters
 heptane
 heptarchs
 heralded
@@ -20262,6 +20274,7 @@ homiest
 homilies
 hominians
 hominoid
+hommos
 homoeroticism
 homogamous
 homogenates
@@ -21537,6 +21550,7 @@ incomplete
 incompletely
 incompressible
 inconceivably
+inconformities
 inconformity
 incongruence
 incongruity
@@ -22670,6 +22684,7 @@ ironings
 ironizing
 ironlike
 ironman
+ironmen
 ironmongers
 ironworker
 irradiate
@@ -23675,6 +23690,7 @@ knop
 knopped
 knops
 knots
+knotted
 knotters
 knotting
 knottings
@@ -24535,6 +24551,7 @@ lightwave
 lightweight
 lignan
 lignite
+lignitic
 lignosulfonates
 ligulae
 ligule
@@ -26131,6 +26148,7 @@ melon
 melongene
 melons
 melphalans
+meltage
 meltdowns
 melters
 meltingly
@@ -26628,6 +26646,7 @@ militarizations
 militarize
 militarized
 military
+militiaman
 milkless
 milkmaid
 milkman
@@ -29472,6 +29491,7 @@ obtained
 obtainers
 obtains
 obtested
+obtesting
 obtests
 obtrusions
 obtrusive
@@ -29752,6 +29772,7 @@ onward
 onyx
 onyxes
 oocytes
+oogamete
 oogamies
 oogonia
 oogonium
@@ -33162,6 +33183,7 @@ plisse
 ploidy
 plop
 plops
+plosion
 plosions
 plosives
 plotlessness
@@ -34591,6 +34613,7 @@ projecting
 projection
 projectionists
 projects
+projet
 prokaryote
 prokaryotic
 prolan
@@ -36982,6 +37005,7 @@ remissible
 remissibly
 remission
 remitment
+remittance
 remittent
 remittor
 remix
@@ -37658,6 +37682,7 @@ retrials
 retributory
 retro
 retroact
+retroacted
 retroaction
 retroactions
 retrocession
@@ -37951,6 +37976,7 @@ rides
 ridgebacks
 ridged
 ridgel
+ridgeling
 ridgels
 ridgetops
 ridglings
@@ -38493,6 +38519,7 @@ rustical
 rusticals
 rusticated
 rusticating
+rusticators
 rusticities
 rustinesses
 rustler
@@ -43157,6 +43184,7 @@ subliterary
 subliterate
 subliterates
 subliterature
+subliteratures
 sublittorals
 sublunar
 sublunary
@@ -43860,6 +43888,7 @@ swampier
 swampiest
 swamping
 swanherds
+swank
 swankest
 swankily
 swanking
@@ -44474,6 +44503,7 @@ tax
 taxa
 taxably
 taxicab
+taxicabs
 taxidermic
 taximeter
 taximeters
@@ -44600,6 +44630,7 @@ telephonically
 telephonist
 telephoto
 teleplays
+teleport
 teleportations
 teleported
 teleports
@@ -45264,6 +45295,7 @@ timekeeper
 timekeepings
 timelessness
 timeliness
+timeously
 timepieces
 timesaver
 timeserver
@@ -45802,6 +45834,7 @@ transaxle
 transaxles
 transcended
 transcends
+transcribe
 transcribers
 transcribing
 transcript
@@ -48784,6 +48817,7 @@ viverrine
 viverrines
 vivid
 vivider
+vivified
 vivifier
 vivifies
 viviparity
@@ -49447,6 +49481,7 @@ whiskered
 whiskery
 whiskies
 whisper
+whispering
 whispery
 whisting
 whistlers
