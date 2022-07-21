@@ -1,0 +1,4 @@
+functions/Add-D365LBDDataEnciphermentCertConfig.ps1 1.0.165,https://www.powershellgallery.com/packages/D365FOLBDAdmin/1.0.165/Content/functions%255CAdd-D365LBDDataEnciphermentCertConfig.ps1
+Random-PowerShell-Work/New-CertificateSigningRequest.ps1 at ...,https://github.com/adbertram/Random-PowerShell-Work/blob/master/Certificates/New-CertificateSigningRequest.ps1
+ProtectedData/Commands.ps1 at master - GitHub,https://github.com/dlwyatt/ProtectedData/blob/master/Commands.ps1
+https://raw.githubusercontent.com/OTRF/Blacksmith/...,https://raw.githubusercontent.com/OTRF/Blacksmith/master/resources/scripts/powershell/misc/Get-CertSigningReq.ps1

@@ -1983,6 +1983,7 @@ apostleship
 apostolic
 apostolicities
 apostrophic
+apostrophising
 apostrophizes
 apothece
 apothecium
@@ -2463,6 +2464,7 @@ asserted
 asserter
 asserting
 assertion
+assertiveness
 assertor
 asserts
 assessed
@@ -4250,6 +4252,7 @@ bipolarities
 bipolarizes
 bipolarizing
 bipropellants
+bipyramid
 biquadratic
 biradial
 biradical
@@ -7208,6 +7211,7 @@ chiropodist
 chiropractic
 chiropterans
 chiropters
+chirp
 chirped
 chirper
 chirpily
@@ -9239,6 +9243,7 @@ coredeems
 coreigns
 corepressors
 corequisites
+coresearchers
 coresidents
 corgi
 coria
@@ -9956,6 +9961,7 @@ crowd
 crowder
 crowders
 crowdy
+crower
 crowers
 crowfoot
 crownets
@@ -10143,6 +10149,7 @@ culture
 cultured
 cultures
 culvert
+culverts
 cumarin
 cumberbund
 cumbered
@@ -12135,6 +12142,7 @@ disarticulated
 disassembling
 disassociate
 disassociated
+disassociates
 disassociating
 disassociations
 disaster
@@ -12946,6 +12954,7 @@ downshifts
 downsides
 downsized
 downslide
+downslope
 downspin
 downspout
 downstages
@@ -14056,6 +14065,7 @@ enchaser
 enchasing
 encipherer
 enciphering
+encipherments
 enciphers
 enclasped
 enclasping
@@ -14091,6 +14101,7 @@ encyclic
 encyclical
 encyclics
 encyclopaedia
+encyclopaedias
 encyclopaedic
 encysted
 encysting
@@ -16084,6 +16095,7 @@ filmsetter
 filmy
 filo
 filoplumes
+filovirus
 filterabilities
 filterability
 filterable
@@ -19923,6 +19935,7 @@ hermetists
 hermitic
 hermitism
 hermitisms
+hermitries
 hermits
 herniae
 hernias
@@ -22981,6 +22994,7 @@ japonicas
 jar
 jardiniere
 jarfuls
+jargon
 jargonist
 jargonistic
 jargonize
@@ -23459,6 +23473,7 @@ keps
 kept
 keramic
 keratinization
+keratitis
 keratitises
 keratoid
 keratoma
@@ -26587,6 +26602,7 @@ microspore
 microstructural
 microswitch
 microtechnique
+microtonally
 microtubule
 microvolt
 microwatts
@@ -26823,6 +26839,7 @@ minorca
 minster
 minstrels
 minters
+mintier
 minuet
 minute
 minutely
@@ -27878,6 +27895,7 @@ multicourse
 multiday
 multidialectal
 multidiscipline
+multidomain
 multielectrode
 multiengine
 multiethnics
@@ -28212,6 +28230,7 @@ naiveties
 nakedly
 nala
 nalas
+naloxones
 nameable
 namely
 namers
@@ -36744,6 +36763,7 @@ regelating
 regency
 regeneracies
 regenerately
+regeneration
 regenerator
 reges
 reggae
@@ -37436,6 +37456,7 @@ reshingles
 reshipped
 reshipping
 reshoe
+reshoed
 reshot
 reshowered
 reshowing
@@ -37533,6 +37554,7 @@ resplendent
 resplicing
 resplit
 respoken
+respondent
 respondents
 responder
 responding
@@ -40116,6 +40138,7 @@ shamanic
 shamanistic
 shamble
 shameable
+shamefully
 shamefulnesses
 shamelessnesses
 shammed
@@ -42954,6 +42977,7 @@ stringiest
 stringily
 stringiness
 stringing
+stringless
 stringpieces
 strings
 stringy
@@ -43301,6 +43325,7 @@ subphylum
 subpoena
 subpoenaed
 subpoenaing
+subpolar
 subpopulations
 subprocess
 subprofessional
@@ -44238,6 +44263,7 @@ syrphian
 syrphid
 sysadmin
 sysop
+system
 systematize
 systematized
 systemics
@@ -45222,6 +45248,7 @@ thruway
 thruways
 thudding
 thug
+thuggery
 thumbed
 thumbhole
 thumbholes
@@ -45553,6 +45580,7 @@ tomboyishness
 tombstones
 tomcod
 tomfooleries
+tommed
 tomming
 tommyrot
 tommyrots
@@ -46268,6 +46296,7 @@ tripody
 tripolis
 tripos
 tripped
+tripper
 tripping
 trips
 triptanes
@@ -46941,6 +46970,7 @@ unawarded
 unbacked
 unbaked
 unbalances
+unbale
 unbaled
 unbaling
 unballasted
@@ -49079,6 +49109,7 @@ waggery
 waggishnesses
 waging
 wagonages
+wagoners
 wagonload
 wagons
 wags
@@ -49189,6 +49220,7 @@ warlike
 warm
 warmers
 warmest
+warmheartedness
 warming
 warmongerings
 warmouth
@@ -49878,6 +49910,7 @@ woodchoppers
 woodcutting
 woodener
 woodenheaded
+woodenheads
 woodenness
 woodennesses
 woodenware
@@ -50208,6 +50241,7 @@ yellowy
 yelped
 yelper
 yelping
+yenned
 yenning
 yenta
 yente
@@ -50302,6 +50336,7 @@ yuppify
 yuppifying
 yurt
 ywis
+zabajone
 zacaton
 zacatons
 zaffar
