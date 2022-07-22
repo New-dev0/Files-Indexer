@@ -159,6 +159,7 @@ accessorises
 accessorize
 accessorized
 accidentalness
+accidently
 accipiters
 accipitrine
 accipitrines
@@ -1612,6 +1613,7 @@ anoopsia
 anopheles
 anorak
 anorexia
+anorexies
 anorthic
 anorthosites
 anosmic
@@ -2216,6 +2218,7 @@ archivists
 archivolt
 archly
 archnesses
+archon
 archons
 archosaurian
 archosaurs
@@ -4393,6 +4396,7 @@ bituminization
 bituminizations
 bituminizes
 biunique
+biuniqueness
 bivalve
 bivouac
 biweeklies
@@ -4834,6 +4838,7 @@ bonnocks
 bonobo
 bonsai
 bonspells
+bonteboks
 bonuses
 boob
 boobie
@@ -6489,6 +6494,7 @@ casking
 casky
 casque
 casques
+cassations
 cassenas
 cassenes
 casserole
@@ -7173,6 +7179,7 @@ chesty
 chevalet
 chevelures
 cheviot
+chevy
 chevying
 chewier
 chewiness
@@ -7787,6 +7794,7 @@ clement
 clencher
 clenches
 clenching
+cleped
 clepes
 cleping
 clepsydra
@@ -7936,6 +7944,7 @@ clumsinesses
 clung
 clunkiest
 clunking
+clunky
 clupeids
 clustering
 clustery
@@ -8950,6 +8959,7 @@ consequent
 consequential
 consequentially
 consequently
+consequents
 conservational
 conservatism
 conservatisms
@@ -11077,6 +11087,7 @@ dees
 deewan
 defacements
 defacer
+defacers
 defacing
 defalcates
 defalcating
@@ -16358,6 +16369,7 @@ firer
 fireship
 fireside
 firethorn
+firetraps
 firewoods
 firing
 firkins
@@ -16997,6 +17009,7 @@ foreground
 foreguts
 forehand
 forehanded
+foreign
 foreignisms
 forejudge
 forejudges
@@ -17444,6 +17457,7 @@ fructoses
 frugs
 fruitage
 fruiters
+fruitful
 fruitfuller
 fruitfully
 fruitfulness
@@ -19297,6 +19311,7 @@ gusto
 gustoes
 gutlessness
 gutsiest
+gutsinesses
 gutsy
 gutta
 guttate
@@ -20041,6 +20056,7 @@ hemocytometers
 hemodialyses
 hemodialysis
 hemolymph
+hemolytic
 hemolyzes
 hemolyzing
 hemophiliac
@@ -24210,6 +24226,7 @@ lamenting
 lamer
 laminal
 laminar
+laminaria
 laminarian
 laminarins
 laminating
@@ -24442,6 +24459,7 @@ lay
 laying
 layoff
 layout
+layouts
 layover
 layperson
 lays
@@ -27339,6 +27357,7 @@ mismeets
 mismove
 misname
 misnomer
+misnomers
 misnumbered
 misnumbering
 misogamist
@@ -27664,6 +27683,7 @@ mongoloids
 mongoose
 mongrel
 mongrelize
+mongst
 moniliform
 monishes
 monishing
@@ -28302,6 +28322,7 @@ musicology
 musjid
 muskegs
 musket
+muskie
 muskmelon
 muskrat
 muskrats
@@ -28779,6 +28800,7 @@ netter
 netting
 nettings
 nettled
+nettlers
 nettlier
 nettliest
 nettly
@@ -31610,6 +31632,7 @@ pancaked
 pancetta
 panchax
 panchaxes
+panchromatic
 pancratium
 pancratiums
 pancreases
@@ -36213,6 +36236,7 @@ rapers
 raphes
 raphia
 raphide
+rapid
 rapidities
 rapidity
 rapidness
@@ -36230,6 +36254,7 @@ rapport
 rapt
 raptness
 raptured
+raptures
 rapturousnesses
 rare
 rarefactions
@@ -42268,6 +42293,7 @@ specialisations
 specialising
 specialism
 specialisms
+specialization
 specially
 specialty
 species
@@ -44129,6 +44155,7 @@ superheroes
 superhighway
 superhit
 superhits
+superhuman
 superhumanities
 superhype
 superimposable
@@ -44219,6 +44246,7 @@ supersystem
 superthick
 superthriller
 supertight
+supervened
 supervirtuoso
 supervirtuosos
 supervising
@@ -45018,6 +45046,7 @@ taximeters
 taxiways
 taxol
 taxonomically
+taxonomy
 taxpayer
 taxpaying
 tazza
@@ -48705,6 +48734,7 @@ usuriousnesses
 usurp
 usurper
 uteruses
+utilidor
 utilisers
 utilises
 utilitarianism
@@ -48935,6 +48965,7 @@ veep
 veepees
 veering
 veeringly
+veery
 vees
 vegan
 veganism
@@ -49230,6 +49261,7 @@ villagers
 villages
 villainies
 villainousness
+villains
 villanelle
 villas
 vimen
@@ -49472,6 +49504,7 @@ vomer
 vomicae
 vomiter
 vomito
+vomituses
 voodoo
 voodooed
 voodooism
@@ -49640,6 +49673,7 @@ walruses
 waltzer
 wamblier
 wamefuls
+wammuses
 wamuses
 wand
 wandered
@@ -50260,6 +50294,7 @@ wingman
 wingspan
 wining
 winked
+winking
 winners
 winnowers
 winnowing
