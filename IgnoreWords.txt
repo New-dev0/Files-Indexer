@@ -2454,6 +2454,7 @@ aspen
 aspergilla
 asperity
 asperses
+aspersive
 aspersors
 asphalt
 aspherical
@@ -3304,6 +3305,7 @@ barbarianisms
 barbarically
 barbarism
 barbarities
+barbarizations
 barbarizes
 barbarizing
 barbarous
@@ -4115,6 +4117,7 @@ bifacially
 biffing
 biffins
 bifid
+biflagellate
 bifocaled
 bifoliate
 biformed
@@ -4690,6 +4693,7 @@ bobbers
 bobbery
 bobble
 bobbles
+bobolink
 bobolinks
 bobsleigh
 bobwhites
@@ -5813,6 +5817,7 @@ cabinmate
 cabins
 cable
 cablecasting
+cablets
 cabob
 cabochons
 cabrestos
@@ -8696,6 +8701,7 @@ concierge
 conciliar
 conciliate
 conciliated
+conciliates
 conciliation
 conciliator
 conciliators
@@ -9575,6 +9581,7 @@ counterfeiters
 counterfeiting
 counterflow
 counterfoil
+counterguerilla
 counterinstance
 countermanded
 countermarching
@@ -9881,6 +9888,7 @@ creolize
 creosol
 creosols
 creosotic
+crepiest
 crepitate
 crepitated
 crepuscles
@@ -10364,6 +10372,7 @@ cushat
 cushats
 cushaws
 cushiness
+cushions
 cusp
 cuspated
 cusped
@@ -13347,6 +13356,7 @@ dubber
 dubbin
 dubiousness
 dubitation
+dubonnets
 ducats
 duchesses
 duchies
@@ -15806,6 +15816,7 @@ farther
 farthing
 farting
 fas
+fascia
 fascias
 fasciations
 fascicled
@@ -15894,6 +15905,7 @@ fears
 feasters
 featest
 featherbrain
+featherbrains
 featheredges
 featherheaded
 feathering
@@ -16483,6 +16495,7 @@ flashlights
 flashover
 flashovers
 flask
+flasket
 flasks
 flatbeds
 flatcar
@@ -17523,6 +17536,7 @@ fundic
 funding
 fundraises
 fundraising
+funeral
 funerary
 funfairs
 funfest
@@ -17746,6 +17760,7 @@ gamed
 gamekeeper
 gamesmanship
 gamester
+gametically
 gametogenesis
 gamine
 gaminess
@@ -18093,6 +18108,7 @@ geoids
 geologic
 geologist
 geologize
+geomagnetically
 geomantic
 geometers
 geometrician
@@ -19162,6 +19178,7 @@ guesstimates
 guessworks
 guesting
 guggle
+guggled
 guggles
 guggling
 guglets
@@ -19865,6 +19882,7 @@ heathens
 heathless
 heaumes
 heavenliness
+heavens
 heavily
 heavy
 heavyhearted
@@ -20446,6 +20464,7 @@ homelike
 homeliness
 homemade
 homemakers
+homemaking
 homeomorphic
 homeomorphism
 homeopath
@@ -23628,6 +23647,7 @@ keeling
 keened
 keener
 keenly
+keeper
 keepings
 keeps
 keets
@@ -27715,6 +27735,7 @@ monoplanes
 monoploids
 monopod
 monopode
+monopodium
 monopody
 monopoles
 monopolies
@@ -31210,6 +31231,7 @@ overtalking
 overtame
 overtasking
 overtax
+overtaxations
 overteach
 overteaching
 overthick
@@ -33786,6 +33808,7 @@ polyparium
 polypeptidic
 polyphagia
 polyphagies
+polyphenol
 polyphones
 polyphonies
 polyphonous
@@ -33896,6 +33919,7 @@ populated
 populational
 populations
 populism
+porcelainizes
 porcini
 porcinis
 porcupine
@@ -34841,6 +34865,7 @@ procambial
 procambiums
 procarbazine
 procarps
+procathedrals
 procedural
 procedure
 procedures
@@ -38356,6 +38381,7 @@ ricotta
 ricracs
 rictus
 rid
+riddances
 riddled
 riddler
 ride
@@ -40864,6 +40890,7 @@ shutter
 shutterbug
 shuttered
 shutterless
+shutters
 shuttle
 shuttlecock
 shuttlecocking
@@ -40955,6 +40982,7 @@ sigloi
 sigma
 sigmoidal
 sigmoidoscopies
+signage
 signalers
 signaling
 signalised
@@ -41638,6 +41666,7 @@ snakes
 snakeskins
 snakiest
 snakiness
+snapback
 snapbacks
 snapped
 snappers
@@ -42415,6 +42444,7 @@ spitfires
 spitters
 spitting
 spittlebug
+spittoon
 splash
 splashboards
 splasher
@@ -45239,6 +45269,7 @@ tercentenaries
 terebic
 terefah
 terete
+terga
 tergiversator
 term
 terminably
@@ -45643,6 +45674,7 @@ thwacks
 thwarter
 thwarting
 thylacines
+thyme
 thymectomized
 thymectomizing
 thymectomy
@@ -47897,6 +47929,7 @@ unicameral
 unicorn
 unicycle
 unicycled
+unicycles
 unideological
 unific
 uniform
@@ -48044,6 +48077,7 @@ unmistakably
 unmiters
 unmitre
 unmix
+unmixed
 unmixing
 unmodernized
 unmolded
@@ -49074,6 +49108,7 @@ vexer
 vexers
 vexil
 vexilla
+vexillologic
 vexillologist
 vexillologists
 viability
