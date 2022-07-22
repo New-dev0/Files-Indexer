@@ -786,6 +786,7 @@ agranulocytosis
 agraphia
 agraphias
 agree
+agreeably
 agreement
 agreements
 agribusinessman
@@ -888,6 +889,7 @@ albino
 albinotic
 albites
 albizia
+album
 albumens
 albumins
 albuminuria
@@ -2484,6 +2486,7 @@ aspish
 asrama
 assagai
 assagais
+assai
 assailable
 assailed
 assailing
@@ -3620,6 +3623,7 @@ becapping
 becaps
 becarpeted
 becarpets
+bechalking
 bechamels
 becharm
 becharming
@@ -4353,6 +4357,7 @@ birefringences
 birefringent
 birkies
 birl
+birled
 birlers
 birring
 birrotch
@@ -4517,6 +4522,7 @@ blathering
 blathers
 blatherskite
 blats
+blawing
 blawn
 blaxploitation
 blazer
@@ -5259,6 +5265,7 @@ breviaries
 brevity
 brewery
 brewing
+brewises
 brewskies
 brewskis
 briard
@@ -6003,6 +6010,7 @@ calligraphers
 calligraphists
 calligraphy
 callings
+calliper
 callipygian
 callithumps
 calloses
@@ -8218,6 +8226,7 @@ coffs
 cofinanced
 cofounder
 cofounders
+cofounds
 cogged
 cogitable
 cogitated
@@ -8451,6 +8460,7 @@ coltsfoot
 colugo
 colugos
 columbaries
+columbium
 columella
 columellar
 columels
@@ -8771,6 +8781,7 @@ concreting
 concretisms
 concretists
 concretize
+concretizing
 concupiscence
 concupiscences
 concurred
@@ -9296,6 +9307,7 @@ coordinating
 coordinators
 coots
 coparcenaries
+copartner
 copartnering
 copartners
 copartnership
@@ -9682,6 +9694,7 @@ counterstreams
 counterstriking
 counterstruck
 countersue
+countersues
 countertenors
 countertrade
 countertrades
@@ -11770,6 +11783,7 @@ desugar
 desugaring
 desulfurizing
 desultoriness
+detach
 detached
 detachedly
 detachedness
@@ -12418,6 +12432,7 @@ discontinuation
 discontinue
 discontinues
 discontinuities
+discophile
 discordant
 discordantly
 discos
@@ -14274,6 +14289,7 @@ encapsuling
 encasements
 encash
 encashment
+encasing
 encephalitogens
 encephalograph
 encephalon
@@ -15408,6 +15424,7 @@ existent
 existential
 existentially
 exocrines
+exocyclic
 exocytosed
 exocytosis
 exodermises
@@ -15604,6 +15621,7 @@ extinctions
 extinguishable
 extinguisher
 extinguishment
+extirpation
 extirpators
 extol
 extolls
@@ -16983,6 +17001,7 @@ fondness
 fondnesses
 fondue
 fondueing
+fonduing
 fons
 fontal
 fontanel
@@ -18009,6 +18028,7 @@ gassiest
 gassinesses
 gastight
 gasting
+gastness
 gastnesses
 gastreas
 gastrectomies
@@ -19489,6 +19509,7 @@ habitably
 habitan
 habitants
 habitualness
+habituate
 habituating
 habituation
 habitues
@@ -20631,6 +20652,7 @@ homilies
 hominians
 hominoid
 hommos
+homocercal
 homoeroticism
 homogamous
 homogenates
@@ -20772,6 +20794,7 @@ hording
 horehound
 horizontally
 hormonal
+hormones
 horn
 hornbeams
 hornbill
@@ -21210,6 +21233,7 @@ hyperplane
 hyperplasia
 hyperplasias
 hyperplastic
+hyperploidies
 hyperploids
 hyperpneic
 hyperpolarized
@@ -21685,6 +21709,7 @@ imploringly
 implosive
 impolicy
 impoliteness
+impolitic
 impolitical
 impone
 importance
@@ -21967,6 +21992,7 @@ increasing
 increate
 incredibilities
 incredibly
+increscent
 incrimination
 incross
 incrossing
@@ -25473,6 +25499,7 @@ loti
 lotoses
 lotted
 lotto
+lotus
 lotuslands
 louche
 loud
@@ -26142,6 +26169,7 @@ marginal
 marginalities
 marginalizes
 marginalizing
+marginals
 marginated
 marginating
 margination
@@ -29572,6 +29600,7 @@ nonrenewable
 nonresidence
 nonrespondents
 nonresponse
+nonrestrictive
 nonretractile
 nonrival
 nonrubber
@@ -31326,6 +31355,7 @@ overpopulation
 overprescribing
 overpressures
 overpricing
+overprizing
 overprocess
 overprocessing
 overproduced
@@ -34044,6 +34074,8 @@ polysorbates
 polystyrenes
 polysulfides
 polysyndeton
+polysyndetons
+polytechnic
 polythenes
 polytonalities
 polytonality
@@ -37126,6 +37158,7 @@ reeded
 reedifies
 reediness
 reedit
+reediting
 reedition
 reeditions
 reedlike
@@ -37880,6 +37913,7 @@ reprivatizes
 reprivatizing
 repro
 reproaching
+reproachingly
 reprobating
 reprobations
 reprobe
@@ -38683,6 +38717,7 @@ rightmost
 rightnesses
 rights
 rightsizing
+righty
 rigidification
 rigidity
 rigor
@@ -41039,6 +41074,7 @@ shortfalls
 shorthairs
 shorthand
 shorthands
+shorthorns
 shortia
 shortias
 shortie
@@ -47487,6 +47523,7 @@ tyrannical
 tyrannised
 tyrannising
 tyrannizes
+tyrannosaurs
 tyrannously
 tyranny
 tyres
@@ -47876,6 +47913,7 @@ uncurbs
 uncurled
 uncurling
 uncustomarily
+uncustomary
 uncynically
 undanceable
 undatable
@@ -48247,6 +48285,7 @@ uninstructed
 uninsulated
 uninsurable
 unintelligible
+uninteresting
 uninterests
 unintimidated
 uninvited
@@ -48269,6 +48308,7 @@ uniquer
 uniques
 unirrigated
 unisexual
+unisexualities
 unisexuality
 unisonant
 unit
@@ -48553,6 +48593,7 @@ unseam
 unsearchably
 unseasonably
 unseat
+unseaworthy
 unseeable
 unseeing
 unseemlier
@@ -50013,6 +50054,7 @@ washups
 washwoman
 washwomen
 wassailing
+wassails
 wast
 wastage
 wastebasket
@@ -50328,6 +50370,7 @@ whirlwinds
 whirlybird
 whirred
 whirrs
+whirs
 whishes
 whiskered
 whiskery
