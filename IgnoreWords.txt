@@ -217,6 +217,7 @@ accurateness
 accursed
 accursedness
 accusably
+accusant
 accusative
 accusatory
 accusers
@@ -1171,6 +1172,7 @@ amazedly
 ambagious
 ambassadors
 ambeer
+ambergris
 amberinas
 amberjacks
 amberoid
@@ -3073,6 +3075,7 @@ bacchanals
 bacchant
 bacchante
 bacchantes
+bachelor
 bachelorhood
 bachelorhoods
 bacitracin
@@ -4427,6 +4430,7 @@ bittering
 bitternesses
 bitternuts
 bittersweet
+bittersweetly
 bitterweed
 bittier
 bittiest
@@ -4909,6 +4913,7 @@ boohooing
 boohoos
 boojum
 bookbinder
+bookbinderies
 bookcase
 bookends
 bookful
@@ -5269,6 +5274,7 @@ brechan
 brechans
 brede
 breechblocks
+breechclouts
 breechloaders
 breeding
 breedings
@@ -5635,6 +5641,7 @@ bully
 bullyrag
 bullyragging
 bulrush
+bulrushes
 bulwark
 bulwarks
 bumbershoot
@@ -7820,6 +7827,7 @@ clattered
 clatterer
 clatteringly
 clattery
+claudications
 claught
 claughted
 claustra
@@ -11497,6 +11505,7 @@ demolishment
 demolitionists
 demonesses
 demonetizes
+demoniacally
 demonic
 demonise
 demonisms
@@ -11930,6 +11939,7 @@ devitrified
 devocalized
 devoices
 devoir
+devolutionary
 devolutionist
 devon
 devoted
@@ -13997,6 +14007,7 @@ eighties
 eights
 eightvo
 einkorn
+einsteins
 eirenic
 eisegeses
 eisteddfodic
@@ -15307,6 +15318,7 @@ evoking
 evolute
 evolutionist
 evolutions
+evolving
 evonymus
 evulsed
 evulsing
@@ -15519,6 +15531,7 @@ exoticnesses
 exotoxins
 expand
 expanded
+expander
 expanding
 expands
 expanse
@@ -16427,6 +16440,7 @@ filovirus
 filterabilities
 filterability
 filterable
+filth
 filthily
 filthinesses
 filtrated
@@ -18887,6 +18901,7 @@ goosy
 gorbellies
 gorblimy
 gorcock
+gordita
 gorditas
 gorgeousness
 gorgeousnesses
@@ -21497,6 +21512,7 @@ iffinesses
 iffy
 ifs
 ignescents
+ignified
 ignitability
 ignited
 ignites
@@ -23264,6 +23280,7 @@ isoantigens
 isobar
 isobarism
 isobars
+isobath
 isobutyl
 isocaloric
 isocarboxazid
@@ -23487,6 +23504,7 @@ jaup
 jauped
 javascript
 javelin
+javelina
 javelining
 jawans
 jawboner
@@ -25408,6 +25426,7 @@ localizing
 location
 locator
 lockdowns
+locker
 lockets
 lockjaws
 lockkeepers
@@ -26747,6 +26766,7 @@ memorialists
 memorialized
 memorised
 memorising
+memoriter
 memorizations
 memorizers
 memsahibs
@@ -28805,6 +28825,7 @@ nanometres
 nanoseconds
 nanotesla
 nanotube
+naoi
 napalm
 napalmed
 napalming
@@ -31273,6 +31294,7 @@ overdependence
 overdeveloped
 overdeveloping
 overdevelops
+overdid
 overdirect
 overdirecting
 overdiscounted
@@ -33552,6 +33574,7 @@ pinocle
 pinocytosis
 pinon
 pinpoint
+pinpointing
 pinpoints
 pinprick
 pins
@@ -36244,6 +36267,7 @@ quern
 querulous
 querulousness
 question
+questionary
 questioned
 questionnaire
 quetzales
@@ -37165,6 +37189,7 @@ redd
 redden
 reddishness
 reddles
+redecorate
 redecoration
 reded
 rededicate
@@ -37931,6 +37956,7 @@ repaving
 repayable
 repayments
 repays
+repealer
 repeat
 repeatable
 repeating
@@ -40596,6 +40622,7 @@ semiquavers
 semiraw
 semiretired
 semiround
+semirounds
 semises
 semisolids
 semitonal
@@ -40680,6 +40707,7 @@ sepiolites
 sepoys
 seppuku
 seppukus
+septage
 septal
 septarium
 septenaries
@@ -42289,6 +42317,7 @@ societally
 society
 sociobiological
 sociobiologist
+socioculturally
 socioeconomic
 sociogram
 sociohistorical
@@ -44275,6 +44304,7 @@ subunit
 suburban
 suburbanise
 suburbanising
+suburbanites
 suburbanize
 subvarieties
 subvassal
@@ -47784,6 +47814,7 @@ ultraviolet
 ultravirility
 ululant
 ululations
+ulvas
 umami
 umbellets
 umbellifer
@@ -48713,6 +48744,7 @@ unreturnable
 unrevealed
 unrevised
 unrevoked
+unrevolutionary
 unrewarding
 unrighteously
 unrip
@@ -49346,6 +49378,7 @@ varioloid
 variousness
 varistor
 varix
+varlet
 varnas
 varnish
 varnished
@@ -50782,6 +50815,7 @@ wirier
 wiriest
 wirra
 wise
+wiseguy
 wiselier
 wisely
 wisenheimer
@@ -51266,6 +51300,7 @@ yohimbines
 yokels
 yokozuna
 yokozunas
+yoks
 yolk
 yolkier
 yoni
