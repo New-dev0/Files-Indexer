@@ -1898,6 +1898,7 @@ anuran
 anuretic
 anuses
 anviled
+anviltop
 anviltops
 anxiousness
 anxiousnesses
@@ -2534,6 +2535,7 @@ associateships
 associating
 association
 associational
+associationisms
 associationist
 associations
 associativities
@@ -4272,6 +4274,7 @@ biometrics
 biomolecules
 biomorphic
 bionts
+biophilia
 biophilias
 biophysics
 biopic
@@ -4756,6 +4759,7 @@ boff
 boffola
 boffos
 bog
+bogart
 bogeyman
 boggier
 bogginesses
@@ -5054,6 +5058,7 @@ bowleg
 bowlegged
 bowlers
 bowless
+bowlfuls
 bowlike
 bowling
 bows
@@ -7227,6 +7232,7 @@ chicanos
 chicer
 chichier
 chichis
+chick
 chickadee
 chickadees
 chickarees
@@ -9670,6 +9676,7 @@ countersink
 countersinking
 countersniper
 counterspy
+counterstated
 counterstream
 counterstreams
 counterstriking
@@ -10159,6 +10166,7 @@ crumply
 crumps
 cruncher
 crunchinesses
+crunode
 cruppers
 crus
 crusaded
@@ -10396,6 +10404,7 @@ currant
 curriculums
 curried
 currieries
+curry
 currycombing
 currying
 cursers
@@ -11041,6 +11050,7 @@ declinations
 decliner
 decliners
 declines
+declinists
 declivitous
 deco
 decocts
@@ -11839,6 +11849,7 @@ developed
 developers
 deverbal
 deverbatives
+deviants
 deviating
 deviationisms
 device
@@ -12042,6 +12053,7 @@ dictionaries
 dictum
 dictums
 dicyclies
+dicycly
 dicynodont
 dicynodonts
 didact
@@ -13793,6 +13805,7 @@ ed
 edacities
 edaphically
 eddies
+eddy
 edelweiss
 edentulous
 edge
@@ -17180,6 +17193,7 @@ formable
 formaldehyde
 formaldehydes
 formalised
+formalising
 formalists
 formalize
 formalizer
@@ -17889,6 +17903,7 @@ gangbusters
 ganged
 gangers
 ganglial
+ganglier
 gangliest
 ganglionic
 ganglioside
@@ -18396,6 +18411,7 @@ ginnier
 ginzo
 gipons
 gipper
+gipsies
 gipsy
 giraffe
 giraffes
@@ -19154,6 +19170,7 @@ grommeting
 grommets
 groom
 groomsmen
+grooved
 groovers
 groovier
 groovy
@@ -20161,6 +20178,7 @@ hemostatics
 hempen
 hempier
 hempseeds
+hempy
 hems
 hemstitching
 henbit
@@ -23389,6 +23407,7 @@ jejuna
 jejuneness
 jejunities
 jellaba
+jellies
 jellify
 jelling
 jelly
@@ -23521,6 +23540,7 @@ jokes
 joking
 jokingly
 joky
+jollied
 jollier
 jollifies
 jollyboats
@@ -23697,6 +23717,7 @@ kaleidoscopes
 kaleidoscopic
 kalewives
 kalifate
+kalimbas
 kalium
 kaliums
 kalmia
@@ -23922,6 +23943,7 @@ kill
 killable
 killdeers
 killies
+killocks
 kills
 kiln
 kilobars
@@ -31217,6 +31239,7 @@ overhear
 overheard
 overheat
 overholds
+overhomogenizes
 overhunting
 overhuntings
 overhype
@@ -34670,6 +34693,7 @@ prelaw
 prelects
 prelegal
 prelibation
+prelim
 prelives
 preload
 prelocate
@@ -34949,6 +34973,7 @@ pricing
 pricked
 prickets
 prickings
+prickle
 prickliness
 pricklinesses
 pricks
@@ -36172,6 +36197,7 @@ rabidnesses
 rabies
 raccoon
 race
+racecourse
 racehorses
 racemes
 racemized
@@ -37658,6 +37684,7 @@ renascent
 renationalizes
 renaturation
 renatures
+renaturing
 rencountering
 rended
 rendered
@@ -38427,6 +38454,7 @@ reviewed
 reviewers
 revilement
 reviling
+revisable
 revisals
 reviser
 revisionist
@@ -40401,6 +40429,7 @@ semiround
 semises
 semisolids
 semitonal
+semitonically
 semitruck
 semitrucks
 semiurban
@@ -41196,6 +41225,7 @@ siestas
 sieur
 sieved
 sifters
+sifting
 siganid
 sigh
 sighter
@@ -41695,6 +41725,7 @@ sliverers
 slivovic
 slivovices
 slivovitz
+slivovitzes
 slobberers
 slobbering
 slobbers
@@ -44902,6 +44933,7 @@ system
 systematize
 systematized
 systemics
+systemization
 systemizes
 syzygal
 syzygy
@@ -48124,6 +48156,7 @@ unfreeing
 unfreezes
 unfreezing
 unfriendliness
+unfriendly
 unfrock
 unfrocked
 unfroze
@@ -49847,6 +49880,7 @@ waive
 waivers
 wakames
 wake
+wakeboarder
 wakeboards
 wakefulness
 waken
@@ -50977,6 +51011,7 @@ yesses
 yessing
 yesterday
 yestereve
+yesternight
 yestreens
 yeti
 yeuks
