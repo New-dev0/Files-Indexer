@@ -817,6 +817,7 @@ airbusses
 airchecks
 airdrop
 airdropped
+airfares
 airfields
 airflow
 airframes
@@ -1952,6 +1953,7 @@ apiculi
 apicultural
 apiculturist
 apiologies
+apish
 apishnesses
 aplenty
 aplite
@@ -5028,6 +5030,7 @@ bowstring
 bowstringed
 bowstrings
 bowwowing
+bowwows
 bowyer
 boxball
 boxberries
@@ -5142,6 +5145,7 @@ bravados
 braved
 bravely
 bravi
+braving
 bravo
 bravoes
 bravoing
@@ -5303,6 +5307,7 @@ broader
 broadleaf
 broadleaves
 broadly
+broadtail
 broadtails
 brocading
 brocatelles
@@ -6503,6 +6508,7 @@ casualnesses
 casualties
 casuarinas
 casuists
+catabolite
 catabolites
 catabolizing
 catachresis
@@ -7282,6 +7288,7 @@ chirpily
 chirred
 chirring
 chirrs
+chirruped
 chirrups
 chirus
 chis
@@ -8282,6 +8289,7 @@ collators
 colleagueship
 collective
 collectively
+collectives
 collectivise
 collectivised
 collectivist
@@ -8988,6 +8996,7 @@ constrictor
 constricts
 constringe
 construal
+construct
 construction
 constructional
 constructions
@@ -9413,6 +9422,7 @@ correlators
 correspondence
 correspondency
 correspondent
+corresponding
 corridas
 corridor
 corrie
@@ -9972,6 +9982,7 @@ crockpot
 crocodiles
 croft
 crofters
+croissant
 crojik
 crojiks
 cromlech
@@ -10738,6 +10749,7 @@ daunter
 dauts
 daven
 davening
+davenport
 dawdle
 dawdled
 dawdler
@@ -11792,6 +11804,7 @@ dewlap
 dewool
 dewormer
 dews
+dex
 dexterity
 dexterousness
 dextral
@@ -13577,6 +13590,7 @@ earthshaking
 earthshines
 earthward
 earthwards
+earthworks
 earthworms
 earwig
 earwigging
@@ -13834,6 +13848,7 @@ elapse
 elapsed
 elapsing
 elasmobranch
+elastase
 elastic
 elasticities
 elatedness
@@ -15396,6 +15411,7 @@ exportability
 exportable
 exposals
 expose
+exposed
 exposit
 exposits
 exposures
@@ -16546,6 +16562,7 @@ fleshpot
 fleuron
 flexagon
 flexion
+flexors
 flextimer
 flextimes
 flexuose
@@ -17185,6 +17202,7 @@ fracturers
 fractures
 fracturs
 frag
+fragged
 fragmentally
 fragmentarily
 fragmentary
@@ -17832,6 +17850,7 @@ garrulity
 garrulous
 garrulously
 gartered
+garters
 gasconader
 gascons
 gaseities
@@ -19835,6 +19854,7 @@ hearty
 heatable
 heater
 heathbird
+heathen
 heathendom
 heathendoms
 heathenish
@@ -20771,6 +20791,7 @@ humanhoods
 humanist
 humanistically
 humanitarian
+humanitarianism
 humanities
 humanity
 humanization
@@ -23921,6 +23942,7 @@ knurled
 knurlier
 knurly
 koa
+kobolds
 koi
 koine
 kola
@@ -29360,6 +29382,7 @@ nonskater
 nonsmokers
 nonsocialist
 nonspeaker
+nonspherical
 nonstandard
 nonstarter
 nonstatic
@@ -31211,6 +31234,7 @@ overwatch
 overwatched
 overwaters
 overwearing
+overweened
 overweighted
 overweighting
 overwetted
@@ -31294,6 +31318,7 @@ oxyphils
 oxytocins
 oyes
 oystercatcher
+oystercatchers
 oysterer
 oysterers
 oystermen
@@ -32479,6 +32504,7 @@ perpetuities
 perphenazines
 perplexer
 perplexing
+perplexity
 perry
 persalt
 persalts
@@ -34595,6 +34621,7 @@ pressurization
 presterilizes
 prestidigitator
 prestigeful
+prestorage
 prestore
 prestored
 prestressed
@@ -36662,6 +36689,7 @@ recrossing
 recrowning
 recrowns
 recrudescences
+recruited
 recruiter
 recruiting
 recrystallizing
@@ -38030,6 +38058,7 @@ retransform
 retransforms
 retranslation
 retransmission
+retransmit
 retransmitted
 retread
 retreat
@@ -42809,6 +42838,7 @@ statistically
 statistics
 statives
 statocysts
+stator
 statuary
 statuesque
 statuesquely
@@ -44411,6 +44441,7 @@ switching
 switchyard
 swither
 swithly
+swived
 swivet
 swiving
 swizzle
@@ -46222,6 +46253,7 @@ trainbearers
 trainee
 traineeship
 trainings
+trainloads
 trainmen
 trainway
 trainways
@@ -46885,6 +46917,7 @@ tumblebugs
 tumbled
 tumbler
 tumblers
+tumbrel
 tumefies
 tumefying
 tumescence
@@ -47231,6 +47264,7 @@ umbellets
 umbellifer
 umbellifers
 umbellule
+umbels
 umber
 umbering
 umbilici
@@ -47973,6 +48007,7 @@ unlived
 unlively
 unloader
 unloads
+unlocated
 unlocks
 unloosed
 unloosened
