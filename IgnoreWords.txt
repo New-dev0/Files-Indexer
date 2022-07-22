@@ -2669,6 +2669,7 @@ atopies
 atrabilious
 atresic
 atretic
+atria
 atrociously
 atrociousnesses
 atrocity
@@ -2700,6 +2701,7 @@ attentively
 attenuation
 attestant
 attestations
+attester
 attesting
 atticisms
 attired
@@ -6718,6 +6720,7 @@ cees
 ceibas
 ceilings
 ceils
+cel
 celeriac
 celeriacs
 celery
@@ -7699,6 +7702,7 @@ clairaudience
 clairaudient
 clairvoyance
 clambakes
+clamberer
 clammier
 clamming
 clamoring
@@ -10880,6 +10884,7 @@ debauchees
 debaucher
 debauchery
 debeaks
+debearding
 debeards
 debilitation
 debits
@@ -11152,6 +11157,7 @@ defibrillations
 defibrillators
 defibrinating
 defier
+defilement
 definement
 definientia
 definite
@@ -11484,6 +11490,7 @@ deodara
 deodaras
 deodorants
 deodorization
+deontological
 deoxidizes
 departing
 department
@@ -11528,6 +11535,7 @@ depopulation
 deportable
 deportations
 deportee
+deporter
 deporting
 deportment
 deportments
@@ -14958,6 +14966,7 @@ estimably
 estimate
 estimating
 estimator
+estivated
 estivator
 estivators
 estops
@@ -15512,6 +15521,7 @@ extensometer
 extensor
 extents
 extenuates
+extenuating
 extenuator
 extenuators
 exteriorised
@@ -15933,6 +15943,7 @@ fazenda
 fazes
 fazing
 fealties
+fearers
 fearlessness
 fears
 feasters
@@ -23050,6 +23061,7 @@ isoantigen
 isoantigenic
 isoantigens
 isobar
+isobarism
 isobars
 isobutyl
 isocaloric
@@ -23279,6 +23291,7 @@ jawans
 jawboner
 jawbreaker
 jawlines
+jayhawker
 jayvees
 jaywalkers
 jaywalks
@@ -25321,6 +25334,7 @@ loosestrife
 loot
 looter
 looting
+loots
 lop
 lophophores
 loping
@@ -26226,6 +26240,7 @@ mature
 maturers
 matza
 matzah
+matzo
 maud
 maudlin
 maul
@@ -26373,6 +26388,7 @@ mediocre
 mediocrities
 meditating
 meditation
+medivac
 medivacked
 medivacs
 medley
@@ -26765,6 +26781,7 @@ metric
 metrical
 metricate
 metricates
+metricizes
 metro
 metrological
 metrologist
@@ -27651,6 +27668,7 @@ mollycoddles
 mols
 moltenly
 molter
+molybdenite
 molybdenum
 mom
 momentarily
@@ -29066,6 +29084,7 @@ nodded
 nodders
 noddies
 nodding
+noddled
 noddles
 nodi
 nodose
@@ -29304,6 +29323,7 @@ nonhome
 nonhomogeneous
 nonhospitalized
 nonhumans
+nonhunter
 nonideal
 nonidentities
 nonidentity
@@ -29909,6 +29929,7 @@ ocean
 oceanaria
 oceanariums
 oceanaut
+oceangoing
 oceanic
 oceanographies
 ocelot
@@ -31205,6 +31226,7 @@ overreacher
 overreaches
 overreact
 overreactions
+overrefinements
 overregulate
 overregulates
 overreported
@@ -34346,6 +34368,7 @@ prebendaries
 prebiblical
 prebidden
 preblessing
+preboil
 preboiled
 prebook
 prebound
@@ -36243,6 +36266,7 @@ ranginess
 ranging
 ranid
 ranis
+rank
 rankers
 rankings
 rankish
@@ -39080,6 +39104,7 @@ sacralizing
 sacrificers
 sacrificially
 sacrilege
+sacrilegious
 sacrosanctities
 sacrums
 saddened
@@ -39451,6 +39476,7 @@ saturate
 saturaters
 saturates
 saturations
+saturator
 saturators
 saturniid
 saturnine
@@ -39764,6 +39790,7 @@ scoffing
 scolded
 scolder
 scolders
+scolices
 scolioma
 scollops
 scolopendras
@@ -42186,6 +42213,7 @@ soubrettes
 soucars
 souchongs
 soudan
+sough
 soughed
 soulfulnesses
 souls
@@ -44273,6 +44301,7 @@ superstition
 superstitions
 superstitiously
 superstocks
+superstratum
 superstructure
 supersurgeon
 supersystem
@@ -45056,6 +45085,7 @@ tauon
 taurine
 taus
 tautaug
+tauter
 tautest
 tautness
 tautologies
@@ -45370,6 +45400,7 @@ terminably
 terminal
 terminator
 terminators
+termitaria
 termitarium
 termitary
 termite
@@ -46947,6 +46978,7 @@ truncating
 truncations
 truncheon
 truncheons
+trundle
 trunkfish
 truss
 trussed
@@ -48069,6 +48101,7 @@ unirrigated
 unisexual
 unisexuality
 unisonant
+unit
 unitages
 unitarianism
 unitarianisms
@@ -48164,6 +48197,7 @@ unmatured
 unmediated
 unmelted
 unmemorably
+unmeshed
 unmew
 unmingle
 unmingles
@@ -48897,6 +48931,7 @@ vapored
 vaporer
 vaporetto
 vaporing
+vaporings
 vaporish
 vaporishness
 vaporishnesses
