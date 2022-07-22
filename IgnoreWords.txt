@@ -526,6 +526,7 @@ adulterators
 adulterers
 adulteresses
 adulthood
+adultness
 adultress
 adumbrate
 adumbration
@@ -1182,6 +1183,7 @@ amberjacks
 amberoid
 ambiances
 ambidexterities
+ambidextrously
 ambient
 ambients
 ambiguities
@@ -3838,6 +3840,7 @@ belaud
 belauds
 belay
 belayed
+belayer
 belch
 beldam
 beldames
@@ -4797,6 +4800,7 @@ bog
 bogart
 bogeyman
 boggier
+boggiest
 bogginesses
 bogging
 boggish
@@ -4804,6 +4808,7 @@ boggling
 boggy
 bogus
 bogusness
+bogwood
 bogwoods
 bogymen
 bohea
@@ -5564,6 +5569,7 @@ bucktoothed
 budder
 budders
 buddied
+buddies
 buddings
 buddleia
 budged
@@ -7426,6 +7432,7 @@ chlordanes
 chlorids
 chlorin
 chlorinators
+chlorinity
 chlorins
 chlorobenzene
 chloroform
@@ -8191,6 +8198,7 @@ cocounseling
 cocounselled
 cocoyams
 cocreate
+cocreator
 cocreators
 cocultivate
 cocultivated
@@ -10684,6 +10692,7 @@ cystolith
 cystoscopies
 cytidine
 cytochalasin
+cytochalasins
 cytogeneticist
 cytokinesis
 cytokinetic
@@ -11528,6 +11537,7 @@ demonisms
 demonizing
 demonologies
 demonologist
+demonstrability
 demonstrable
 demonstrably
 demonstration
@@ -15542,6 +15552,7 @@ exorcise
 exorciser
 exorcising
 exorcize
+exorcized
 exoskeleton
 exoskeletons
 exosphere
@@ -20000,6 +20011,7 @@ hating
 hatmakers
 hatrack
 hatracks
+hatsful
 hatterias
 hatters
 hatting
@@ -20101,6 +20113,7 @@ headmistresses
 headphones
 headpiece
 headpieces
+headquartered
 headquartering
 headrest
 headrooms
@@ -21631,6 +21644,7 @@ imbodied
 imboldens
 imbower
 imbowered
+imbowering
 imbricates
 imbrications
 imbroglio
@@ -21832,6 +21846,7 @@ implead
 impleader
 impleading
 implement
+implementor
 impletions
 imploded
 implodes
@@ -23919,6 +23934,7 @@ karyotins
 karyotype
 kasbahs
 kasha
+kashering
 kashruth
 kashruths
 katakana
@@ -30225,6 +30241,7 @@ occultists
 occupants
 occupational
 occupier
+occupiers
 occupies
 occupy
 occupying
@@ -30659,6 +30676,7 @@ organizable
 organizational
 organize
 organizers
+organons
 organza
 organzine
 orgasm
@@ -32643,6 +32661,7 @@ peising
 pejoratively
 pejoratives
 pekoes
+pelerine
 peles
 pelisse
 pelisses
@@ -36229,6 +36248,7 @@ quagga
 quaggy
 quagmire
 quagmiriest
+quai
 quaiches
 quailing
 quainter
@@ -37665,6 +37685,7 @@ reimagines
 reimaging
 reimagining
 reimbursed
+reimbursement
 reimburses
 reimmersed
 reimmerses
@@ -37704,6 +37725,7 @@ reinspecting
 reinspection
 reinspire
 reinstall
+reinstalled
 reinstalling
 reinstates
 reinstating
@@ -37752,6 +37774,7 @@ rejuggling
 rejustifies
 rejustify
 rejustifying
+rejuvenate
 rejuvenated
 rejuvenates
 rejuvenescent
@@ -40082,6 +40105,7 @@ schillers
 schipperke
 schismatical
 schismatize
+schistose
 schizier
 schiziest
 schizogonous
@@ -42227,6 +42251,7 @@ snecks
 snedded
 sneerful
 sneerier
+sneeriest
 sneering
 sneeze
 sneezer
@@ -43808,6 +43833,7 @@ stratification
 stratifies
 stratocracies
 stratocracy
+stratocumuli
 stratovolcanoes
 stratum
 stratus
@@ -45303,6 +45329,7 @@ tailcoated
 tailcoats
 tailenders
 tailfins
+tailing
 taillamps
 taille
 tailless
@@ -45869,6 +45896,7 @@ terrae
 terraforming
 terrains
 terrapin
+terrarium
 terrazzo
 terrella
 terriers
@@ -46147,6 +46175,7 @@ thorninesses
 thorning
 thorons
 thorough
+thoroughest
 thoroughly
 thoroughwort
 thorps
@@ -46182,6 +46211,7 @@ threnodist
 thresher
 thriftily
 thriftinesses
+thriftlessly
 thrilled
 thrillers
 thrive
@@ -46569,6 +46599,7 @@ tone
 tonearms
 tonelessnesses
 toner
+toners
 tonetics
 tonettes
 toney
@@ -46984,6 +47015,7 @@ transparence
 transparent
 transpersonal
 transpierce
+transpirational
 transpirations
 transpire
 transpiring
@@ -49436,6 +49468,7 @@ variedly
 variegate
 variegated
 variegators
+varieties
 variety
 variform
 variola
@@ -50165,6 +50198,7 @@ wagoners
 wagonload
 wagons
 wags
+wagtail
 waifed
 waifish
 waifs
@@ -50460,6 +50494,7 @@ weblike
 weblog
 webpage
 webpages
+webs
 webwork
 webworm
 webworms
