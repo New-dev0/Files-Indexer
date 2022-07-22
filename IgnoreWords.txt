@@ -1917,6 +1917,7 @@ aortographic
 aortographies
 aoudads
 apace
+apache
 apaches
 apagoges
 apanage
@@ -2502,6 +2503,7 @@ assegai
 assegaied
 assemblages
 assemble
+assemblers
 assemblyman
 assemblymen
 assentation
@@ -3582,6 +3584,7 @@ beano
 beans
 beanstalk
 beanstalks
+bearability
 bearable
 bearbaiting
 bearbaitings
@@ -4353,6 +4356,7 @@ birds
 birdseed
 birdseyes
 birdsongs
+birdwatch
 birefringences
 birefringent
 birkies
@@ -4506,6 +4510,7 @@ blastema
 blastemata
 blasties
 blastiest
+blasting
 blastocoele
 blastoderms
 blastodiscs
@@ -4724,6 +4729,7 @@ boatsmen
 boatyard
 boatyards
 bob
+bobberies
 bobbers
 bobbery
 bobble
@@ -5637,6 +5643,7 @@ bun
 buncoing
 buncos
 bundled
+bundlers
 bundt
 bungalow
 bungalows
@@ -6404,6 +6411,7 @@ caricatures
 caricaturing
 caricaturist
 carices
+carillon
 carillonned
 carillonneur
 carillonneurs
@@ -6657,6 +6665,7 @@ catholicity
 catholicizing
 catholicoses
 cathouse
+cationically
 catjang
 catlike
 catling
@@ -10899,8 +10908,10 @@ deaerator
 deaerators
 deaf
 deafened
+deafenings
 deafnesses
 deaired
+deairs
 dealated
 dealation
 dealerships
@@ -10980,6 +10991,7 @@ decants
 decapitate
 decapitated
 decapitating
+decapitation
 decapitations
 decapod
 decarbonated
@@ -13992,6 +14004,7 @@ electricians
 electrified
 electroacoustic
 electroanalysis
+electrochemical
 electrocuted
 electrocution
 electrodeposits
@@ -15076,6 +15089,7 @@ ethanols
 etherealization
 etherealizes
 etherealnesses
+etherizations
 etherizer
 ethically
 ethinyls
@@ -18845,6 +18859,7 @@ gosling
 gospeler
 gospelers
 gossip
+gossiper
 gossippers
 gossypols
 got
@@ -23093,6 +23108,7 @@ irising
 iritises
 irk
 irksomeness
+iroko
 iron
 ironclad
 ironed
@@ -25043,6 +25059,7 @@ limbier
 limbos
 limbus
 limbuses
+limeades
 limekiln
 limelight
 limens
@@ -25152,10 +25169,12 @@ lipins
 lipogeneses
 lipoid
 lipolytic
+liposuctions
 lipotropies
 lippened
 lippering
 lippers
+lippiness
 lipreading
 lipreads
 lipstick
@@ -25177,6 +25196,7 @@ liquifying
 lira
 liras
 liroth
+lisente
 lisps
 lissom
 lissome
@@ -25755,6 +25775,7 @@ macacos
 macadamias
 macadamize
 macadamizing
+macaroni
 macaronies
 macaroon
 maccabaw
@@ -25855,6 +25876,7 @@ magnetites
 magnetize
 magnetizing
 magnetometers
+magnetometry
 magnetopauses
 magnetos
 magnetosphere
@@ -27423,6 +27445,7 @@ misdoer
 misdoers
 misdoes
 misdoubting
+misdrawn
 misdrew
 misdrives
 misdriving
@@ -31500,6 +31523,7 @@ overwinding
 overwinters
 overwithhold
 overwithholds
+overwore
 overworking
 overworn
 overwrites
@@ -32097,6 +32121,7 @@ paroled
 paroling
 parols
 paronomasia
+paronymous
 paroquets
 parosmia
 parotitic
@@ -32116,6 +32141,7 @@ parry
 pars
 parsley
 parsleyed
+parsleys
 parsnips
 parsonages
 parsonic
@@ -33457,6 +33483,7 @@ pintos
 pintsized
 pinwales
 pinwheel
+pinwork
 pinworms
 piny
 piolet
@@ -34563,6 +34590,7 @@ precipices
 precipitable
 precipitated
 precipitately
+precipitateness
 precipitins
 precipitously
 precipitousness
@@ -36068,6 +36096,7 @@ quarreler
 quarreller
 quarrelsomeness
 quarriers
+quarrying
 quarryings
 quarryman
 quarterbacking
@@ -38942,6 +38971,7 @@ rootiest
 rootling
 rootstalk
 rooty
+rope
 ropedancer
 ropedancers
 ropelike
@@ -41004,6 +41034,7 @@ shivas
 shivered
 shiverer
 shivers
+shivitis
 shlemiels
 shlepp
 shlimazels
@@ -42650,6 +42681,7 @@ spicers
 spicery
 spices
 spicier
+spiciest
 spicily
 spics
 spiculae
@@ -44150,6 +44182,7 @@ succincter
 succinctly
 succinctness
 succinic
+succorer
 succorers
 succors
 succours
@@ -46054,6 +46087,7 @@ tidemarks
 tiderips
 tides
 tideway
+tidier
 tidiest
 tidily
 tidiness
@@ -50146,6 +50180,7 @@ waybills
 wayfarer
 wayfarings
 waypoint
+waywardness
 waywardnesses
 wazoos
 weaken
