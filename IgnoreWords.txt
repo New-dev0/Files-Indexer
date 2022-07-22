@@ -310,6 +310,7 @@ acquirer
 acquirers
 acquisitive
 acquittance
+acquitting
 acred
 acres
 acrider
@@ -4204,6 +4205,7 @@ billets
 billfishes
 billhead
 billiard
+billie
 billies
 billings
 billingsgate
@@ -5465,6 +5467,7 @@ brucelloses
 brucine
 bruising
 bruited
+bruiters
 bruits
 brumby
 brunch
@@ -5846,6 +5849,7 @@ byrled
 byroad
 bystreet
 bystreets
+byte
 bytes
 byword
 bywork
@@ -5962,6 +5966,7 @@ calamondin
 calamondins
 calash
 calashes
+calathi
 calcanea
 calcanei
 calcar
@@ -7078,6 +7083,7 @@ charmeuse
 charmeuses
 charmingest
 charmingly
+charpai
 charpoys
 charquid
 charrier
@@ -7162,6 +7168,7 @@ checkroom
 checkrooms
 checkrowing
 checks
+checksums
 checkup
 checkups
 cheechakos
@@ -10662,6 +10669,7 @@ cytoplasms
 cytoplast
 cytoskeleton
 cytosols
+cytostatically
 cytostatics
 cytotaxonomic
 cytotaxonomy
@@ -10718,6 +10726,7 @@ daikers
 dailinesses
 dailynesses
 daimen
+daimons
 daimyo
 dainties
 daintinesses
@@ -11343,6 +11352,7 @@ deifies
 deiform
 deify
 deifying
+deigning
 deindustrialize
 deinonychuses
 deionizer
@@ -12202,6 +12212,7 @@ dilation
 dilative
 dilatometer
 dilatometers
+dilatometries
 dilatometry
 dilatoriness
 dilatorinesses
@@ -12367,6 +12378,7 @@ disagrees
 disallowed
 disambiguated
 disambiguations
+disannulling
 disappearance
 disappearing
 disappears
@@ -12577,6 +12589,7 @@ dishwater
 disincentive
 disincentives
 disinclination
+disinclining
 disinfected
 disinfest
 disinfestant
@@ -12956,6 +12969,7 @@ dogears
 doges
 dogface
 dogged
+doggedly
 doggednesses
 doggerel
 doggiest
@@ -16250,6 +16264,7 @@ fetishistic
 fetoprotein
 fetoscopies
 fetterer
+fettled
 fettuccini
 feudal
 feudalist
@@ -19121,6 +19136,7 @@ greenbacker
 greenbelts
 greenbrier
 greenbriers
+greenery
 greenest
 greenfield
 greenfields
@@ -19670,6 +19686,7 @@ hallmark
 hallmarked
 halloa
 halloos
+hallot
 halluces
 hallucinator
 hallucinogens
@@ -27052,6 +27069,7 @@ microfossils
 microfungus
 microgram
 micrograms
+micrograph
 micrographic
 microhms
 microinch
@@ -27505,6 +27523,7 @@ misesteemed
 misevaluate
 misevaluated
 misfeasance
+misfeeding
 misfields
 misfiled
 misfiling
@@ -28291,6 +28310,7 @@ mousy
 mouthed
 mouthfeels
 mouthier
+mouthiest
 mouthily
 mouthlike
 mouthpart
@@ -30959,6 +30979,7 @@ outpoints
 outpoliticks
 outpoll
 outpolls
+outpopulate
 outpopulating
 outposts
 outpourer
@@ -32387,6 +32408,7 @@ pawkily
 pawky
 pawl
 pawnbroker
+pawnbroking
 pawning
 pawpaw
 pax
@@ -33351,6 +33373,7 @@ pickles
 pickpocket
 pickups
 picky
+piclorams
 picnicker
 picofarads
 picolin
@@ -34020,6 +34043,7 @@ poleward
 poleyn
 policeman
 policers
+policies
 policy
 poliomyelitis
 polios
@@ -37149,6 +37173,7 @@ rediae
 redial
 redialing
 redictating
+redigested
 redigesting
 redigestion
 redigestions
@@ -41129,6 +41154,7 @@ shoetree
 shoetrees
 shofars
 shofroth
+shone
 shoo
 shooks
 shooled
@@ -41181,6 +41207,7 @@ shoveled
 shovelful
 shoveling
 shovelling
+shovelsful
 shoves
 shoving
 showable
@@ -44477,6 +44504,7 @@ supercoiled
 supercollider
 superconduct
 superconducts
+superconfident
 supercontinents
 superconvenient
 supercops
@@ -46435,6 +46463,7 @@ tonsured
 tonsuring
 tontines
 tonuses
+tony
 tool
 toolhead
 toolheads
@@ -48414,6 +48443,7 @@ unit
 unitages
 unitarianism
 unitarianisms
+unitarily
 uniters
 unities
 unitive
@@ -49192,6 +49222,7 @@ valorising
 valorization
 valorizations
 valorized
+valour
 valpolicellas
 valuable
 valuablenesses
@@ -49717,6 +49748,7 @@ virtuosity
 virtuoso
 virtuous
 virtuousness
+virtuousnesses
 virulences
 virulencies
 virus
@@ -50518,6 +50550,7 @@ whodunnit
 wholehearted
 wholeheartedly
 wholesaled
+wholesaler
 wholesales
 wholesome
 whomp
@@ -51001,6 +51034,7 @@ wrongfulnesses
 wrongheadedly
 wrongness
 wrote
+wrung
 wryer
 wryest
 wryneck
@@ -51159,6 +51193,7 @@ yessing
 yesterday
 yestereve
 yesternight
+yesteryears
 yestreens
 yeti
 yeuks
