@@ -1069,6 +1069,7 @@ almoners
 almost
 almsgiver
 almsgivings
+almsman
 almuds
 almug
 alnicos
@@ -3887,6 +3888,7 @@ beneficent
 beneficently
 beneficial
 beneficially
+beneficiaries
 beneficiary
 beneficiate
 beneficiated
@@ -4785,6 +4787,7 @@ boldfacing
 boldly
 boldness
 boleti
+boletuses
 bolivar
 bolivars
 bolivia
@@ -6450,6 +6453,7 @@ cartelize
 cartels
 cartes
 carthorses
+cartilages
 cartilaginous
 cartloads
 cartographers
@@ -7148,6 +7152,7 @@ chefdoms
 cheffing
 chelatable
 chelated
+chelations
 chelicera
 cheloid
 chelonian
@@ -8761,6 +8766,7 @@ condign
 conditionality
 conditionals
 conditioner
+conditioners
 condole
 condolence
 condolers
@@ -10718,6 +10724,7 @@ dangerous
 dangerously
 dangers
 dangle
+dangler
 dangliest
 dangling
 danish
@@ -13275,6 +13282,7 @@ drip
 drippers
 drippiest
 drippily
+dripping
 drippings
 drips
 dripstones
@@ -16545,6 +16553,7 @@ flasket
 flasks
 flatbeds
 flatcar
+flatcars
 flatfooted
 flatfoots
 flatlands
@@ -16617,6 +16626,7 @@ fleshings
 fleshless
 fleshliest
 fleshly
+fleshments
 fleshpot
 fleuron
 flexagon
@@ -17042,6 +17052,7 @@ foreknows
 forelady
 forelimb
 foremanship
+foremanships
 foremasts
 foremost
 foremothers
@@ -17558,6 +17569,7 @@ fullmouthed
 fullness
 fulminated
 fulminic
+fulness
 fulnesses
 fulsomenesses
 fumarase
@@ -17594,6 +17606,7 @@ fungal
 fungible
 fungibles
 fungicidal
+fungicides
 fungistatic
 fungistats
 fungoid
@@ -17917,6 +17930,7 @@ garrulously
 gartered
 garters
 gasconader
+gasconaders
 gascons
 gaseities
 gashed
@@ -18266,6 +18280,7 @@ gibbing
 gibed
 gibes
 giblet
+giddily
 giddiness
 giddying
 gies
@@ -18836,6 +18851,7 @@ grampas
 gran
 granadilla
 granaries
+granary
 grandaddies
 grandames
 grandaunt
@@ -20658,6 +20674,7 @@ hookup
 hoolie
 hooligan
 hooligans
+hoop
 hooped
 hooplas
 hoopless
@@ -21705,6 +21722,7 @@ inalterableness
 inalterably
 inamorato
 inanely
+inaner
 inanes
 inanimatenesses
 inanities
@@ -23598,6 +23616,7 @@ kaddishim
 kadi
 kadis
 kaffiyahs
+kaffiyeh
 kaftan
 kahuna
 kahunas
@@ -25954,6 +25973,7 @@ manitus
 manlike
 manly
 manna
+mannequins
 mannerism
 mannerist
 manneristic
@@ -28162,6 +28182,7 @@ muesli
 mueslis
 muezzin
 muffed
+muffineer
 muffs
 mufti
 muftis
@@ -28434,6 +28455,7 @@ mycobacterial
 mycobacterium
 mycoflorae
 mycologists
+mycophagist
 mycophagy
 mycophile
 mycoplasmal
@@ -32445,6 +32467,7 @@ peponidas
 peponium
 pepperbox
 pepperboxes
+peppercorn
 peppercorns
 pepperers
 pepperinesses
@@ -32692,6 +32715,7 @@ pesos
 pessaries
 pessary
 pessimisms
+pessimistic
 pest
 pester
 pesterer
@@ -34886,6 +34910,7 @@ primmest
 primness
 primnesses
 primogenitor
+primordia
 primp
 primroses
 prims
@@ -35194,6 +35219,7 @@ proportionates
 proportions
 proposers
 propositi
+propositioned
 propounds
 propretor
 proprieties
@@ -36922,6 +36948,7 @@ rediscount
 rediscounted
 rediscover
 rediscovered
+rediscoveries
 rediscovery
 redisplays
 redisposed
@@ -39027,6 +39054,7 @@ rupiahs
 rupturing
 ruralises
 ruralist
+ruralists
 ruralite
 rush
 rushed
@@ -40603,6 +40631,7 @@ shameable
 shamefully
 shamefulnesses
 shamelessnesses
+shamisen
 shammed
 shammers
 shammes
@@ -41466,6 +41495,7 @@ slashings
 slatches
 slate
 slated
+slatelike
 slaters
 slatier
 slatiest
@@ -42611,6 +42641,7 @@ spondylitises
 sponge
 sponges
 sponginess
+spongy
 sponsal
 sponsion
 sponsions
@@ -44058,6 +44089,7 @@ sullage
 sullener
 sullies
 sully
+sulpha
 sulphates
 sulphid
 sulphides
@@ -44647,6 +44679,7 @@ sylvan
 sylvanite
 sylvatic
 sylvine
+sylvines
 sylvinites
 sylvites
 symbiosis
@@ -48569,6 +48602,7 @@ unwaxed
 unweaned
 unweary
 unweave
+unweaves
 unwed
 unweetingly
 unweighed
@@ -50485,6 +50519,7 @@ wonted
 wontedly
 woo
 woodbin
+woodbins
 woodblocks
 woodchats
 woodchoppers
