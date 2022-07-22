@@ -836,6 +836,7 @@ airline
 airliner
 airpowers
 airproofing
+airscrews
 airshed
 airsheds
 airshot
@@ -2296,6 +2297,7 @@ armagnacs
 armamentaria
 armamentarium
 armature
+armatured
 armed
 armhole
 armiger
@@ -2423,6 +2425,7 @@ ascarids
 ascendances
 ascendancies
 ascendancy
+ascendantly
 ascendants
 ascendence
 ascendents
@@ -2659,6 +2662,7 @@ athetoid
 athleticism
 athletics
 athodyd
+athodyds
 athwartship
 atilt
 atlantes
@@ -4837,6 +4841,7 @@ bolshies
 bolshy
 bolson
 bolsons
+bolster
 bolting
 boltlike
 boltropes
@@ -4877,6 +4882,7 @@ bonkers
 bonne
 bonniness
 bonnocks
+bonny
 bonobo
 bonsai
 bonspells
@@ -6367,6 +6373,7 @@ carcasses
 carcels
 carcinogen
 carcinogenic
+carcinoid
 carcinosarcoma
 cardamums
 cardboards
@@ -7710,6 +7717,7 @@ citolas
 citoles
 citrate
 citreous
+citric
 citrins
 citronellals
 citronellas
@@ -8141,6 +8149,7 @@ cockleburs
 cockles
 cockleshell
 cocklofts
+cockneyisms
 cockneys
 cockscomb
 cockshy
@@ -10336,6 +10345,7 @@ culotte
 culpa
 culpabilities
 culpability
+culpable
 culpablenesses
 culpably
 culprits
@@ -16569,6 +16579,7 @@ fistulate
 fitches
 fitchet
 fitchets
+fitchew
 fitfully
 fitfulness
 fitfulnesses
@@ -19144,6 +19155,7 @@ greenfly
 greenhouses
 greenies
 greenishnesses
+greenmails
 greenness
 greenrooms
 greens
@@ -20864,6 +20876,7 @@ hornblende
 hornbooks
 hornier
 horniest
+horniness
 horninesses
 horning
 hornings
@@ -24190,6 +24203,7 @@ knoblike
 knock
 knockabout
 knockabouts
+knockouts
 knockwursts
 knolled
 knop
@@ -25774,6 +25788,7 @@ luteinizing
 lutenists
 luteotrophins
 luteotropic
+lutetiums
 lutfisk
 lutfisks
 luthern
@@ -27460,6 +27475,7 @@ miscasting
 miscasts
 miscatalog
 miscataloged
+miscegenations
 miscellanea
 miscellanist
 mischannelled
@@ -29500,6 +29516,7 @@ nonego
 nonelection
 nonelections
 nonelectronic
+nonencapsulated
 nonenergy
 nonengagement
 nonentities
@@ -31282,6 +31299,7 @@ overediting
 overeducated
 overeducation
 overelaborate
+overembellish
 overembellished
 overemotional
 overemphasizes
@@ -33110,6 +33128,7 @@ philtres
 phizes
 phlebograms
 phlebotomists
+phlebotomy
 phlegmier
 phlegmiest
 phlegmy
@@ -33317,6 +33336,7 @@ phytanes
 phytochemically
 phytochemistry
 phytochrome
+phytoflagellate
 phytoid
 phytol
 phytols
@@ -35148,6 +35168,7 @@ primroses
 prims
 primus
 prince
+princedoms
 princelier
 princes
 princeship
@@ -35558,6 +35579,7 @@ protestation
 protestations
 protester
 protests
+prothonotaries
 prothonotary
 prothoraces
 prothoraxes
@@ -35819,6 +35841,7 @@ pulsed
 pulsers
 pulses
 pulsing
+pulverise
 pulverizations
 pulverized
 pulverizers
@@ -35925,6 +35948,7 @@ purled
 purlin
 purlines
 purling
+purlins
 purloins
 purls
 purpleheart
@@ -37081,6 +37105,7 @@ recreating
 recreative
 recrements
 recriminating
+recrosses
 recrossing
 recrowning
 recrowns
@@ -37908,6 +37933,7 @@ repayments
 repays
 repeat
 repeatable
+repeating
 repegged
 repellants
 repelled
@@ -39099,6 +39125,7 @@ rotaviruses
 rotches
 rotenone
 rotes
+rotgut
 roti
 rotis
 rotisseries
@@ -40479,6 +40506,7 @@ selenides
 seleniferous
 selenite
 selenitic
+seleniums
 selenologist
 selfed
 selfheals
@@ -42391,6 +42419,7 @@ somatically
 somatological
 somatomedin
 somatopleure
+somberness
 sombreros
 some
 somebodies
@@ -43646,6 +43675,7 @@ strabismus
 straddle
 strafers
 stragglers
+stragglier
 straggling
 straightaways
 straightedge
@@ -44451,6 +44481,7 @@ sunlands
 sunlight
 sunned
 sunnily
+sunporches
 sunproof
 sunrise
 sunroofs
@@ -45012,6 +45043,7 @@ synced
 synched
 synchroneities
 synchronic
+synchronically
 synchronies
 synchronises
 synchronism
@@ -45357,6 +45389,7 @@ tarps
 tarradiddle
 tarragons
 tarried
+tarriers
 tarries
 tarriest
 tarring
@@ -47073,6 +47106,7 @@ tricotines
 tricots
 tricrotic
 trictracs
+tricycles
 trident
 tridental
 tridents
@@ -49065,6 +49099,7 @@ upwelling
 upwellings
 uraei
 uraemia
+uraemias
 uranides
 uraninite
 uraninites
