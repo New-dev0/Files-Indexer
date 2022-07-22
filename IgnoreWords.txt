@@ -2316,6 +2316,7 @@ arpent
 arquebuses
 arracks
 arraignment
+arrangers
 arranges
 arrases
 arrayals
@@ -3836,6 +3837,7 @@ belongingnesses
 beloveds
 below
 belter
+belters
 beltings
 beltline
 belugas
@@ -4064,6 +4066,7 @@ bheestie
 bheesties
 bhut
 bhuts
+bialy
 biannually
 bias
 biased
@@ -4569,6 +4572,7 @@ bloodily
 bloodlessness
 bloodlettings
 bloodlike
+bloodlines
 bloodlust
 bloodlusts
 bloods
@@ -4851,6 +4855,7 @@ boogying
 boohooing
 boohoos
 boojum
+bookbinder
 bookcase
 bookends
 bookful
@@ -5772,6 +5777,7 @@ buxomly
 buxomness
 buxomnesses
 buy
+buyback
 buyout
 buys
 buzukis
@@ -8651,6 +8657,7 @@ computerize
 computerized
 computernik
 computerphobias
+computist
 computists
 comrade
 comradeliness
@@ -10033,6 +10040,7 @@ crosshair
 crosshatch
 crosshatching
 crossheads
+crossings
 crossjack
 crossjacks
 crosslets
@@ -10755,6 +10763,7 @@ daughters
 daunomycin
 daunomycins
 daunter
+dauphines
 dauts
 daven
 davening
@@ -16329,6 +16338,7 @@ firecrackers
 fired
 firedamp
 firedogs
+firefang
 firefanged
 fireflies
 firefly
@@ -20805,6 +20815,7 @@ hulled
 hulloas
 hulloed
 hum
+human
 humaner
 humanhoods
 humanist
@@ -21032,6 +21043,7 @@ hyperboloidal
 hyperboloids
 hyperboreans
 hypercautious
+hypercomplex
 hypercorrectly
 hypercritical
 hypercube
@@ -23488,6 +23500,7 @@ jumpingly
 juncoes
 junctional
 junctions
+jungle
 junglegyms
 juniorate
 juniorates
@@ -24233,6 +24246,7 @@ landlubberly
 landlubbers
 landlubbing
 landman
+landmasses
 landownerships
 lands
 landscaped
@@ -24463,6 +24477,7 @@ leafinesses
 leafleteer
 leafleteers
 leaflets
+leagued
 leaguer
 leaguered
 leaguering
@@ -27617,6 +27632,7 @@ monadal
 monades
 monadisms
 monadnock
+monadnocks
 monarch
 monarchial
 monarchical
@@ -27931,6 +27947,7 @@ moseying
 mosh
 moshing
 moshings
+mosque
 mosquito
 mosquitos
 mossiest
@@ -27996,6 +28013,7 @@ mountaineer
 mountainside
 mountaintops
 mountebankeries
+mountebanks
 mounted
 mounter
 mounting
@@ -28603,6 +28621,7 @@ nears
 nearshore
 nearside
 neaten
+neater
 neath
 neatly
 neatnik
@@ -28906,6 +28925,7 @@ niggardliness
 niggardlinesses
 nigglers
 nigglings
+nigh
 nighed
 nighest
 nighs
@@ -29056,6 +29076,7 @@ nonantibiotic
 nonarable
 nonarguments
 nonaromatic
+nonartists
 nonas
 nonastronomical
 nonatomic
@@ -30553,6 +30574,7 @@ outface
 outfawned
 outfawning
 outfeast
+outfeel
 outfence
 outfencing
 outfield
@@ -31210,6 +31232,7 @@ overstays
 overstimulate
 overstimulation
 overstirs
+overstocked
 overstocks
 overstrained
 overstrains
@@ -31826,6 +31849,7 @@ parentheses
 parenthesizes
 parenthesizing
 parenthoods
+parentings
 pares
 paresis
 paresthesias
@@ -32416,6 +32440,7 @@ perfectiveness
 perfectness
 perfecto
 perfects
+perfidious
 perforate
 perforating
 perforation
@@ -32858,6 +32883,7 @@ photocopied
 photocopying
 photocurrent
 photocurrents
+photodegradable
 photodiode
 photodiodes
 photodissociate
@@ -34576,6 +34602,7 @@ prerecorded
 prerecording
 prerectal
 preregistering
+preregisters
 preregistration
 prerenal
 prerequire
@@ -36650,6 +36677,7 @@ recondensing
 recondition
 reconditioned
 reconducted
+reconducts
 reconferred
 reconfine
 reconfines
@@ -40295,6 +40323,7 @@ serapes
 seraph
 seraphic
 seraphically
+seraphim
 seraphims
 serein
 serenatas
@@ -40964,6 +40993,7 @@ sienite
 sierra
 sierras
 siestas
+sieur
 sieved
 sifters
 siganid
@@ -43805,6 +43835,7 @@ subtreasury
 subtrends
 subtribe
 subtribes
+subtropic
 subtropics
 subtunic
 subtunics
@@ -45223,6 +45254,7 @@ tenours
 tenpence
 tenpounder
 tens
+tensenesses
 tensors
 tent
 tentative
@@ -48431,6 +48463,7 @@ unveiling
 unveilings
 unversed
 unvexed
+unwakened
 unwarier
 unwariest
 unwarinesses
@@ -48586,6 +48619,7 @@ upthrusting
 uptightness
 uptosses
 uptossing
+uptrend
 upturned
 upward
 upwardnesses
@@ -49396,6 +49430,7 @@ voicelessness
 voiceover
 voiceovers
 voicing
+voicings
 void
 volante
 volatilizations
