@@ -526,6 +526,7 @@ advanced
 advancement
 advancements
 advances
+advantage
 advantaged
 advantageous
 advection
@@ -1151,6 +1152,7 @@ amassed
 amasser
 amassments
 amateurishness
+amateurism
 amateurisms
 amaurosis
 amaurotic
@@ -2080,6 +2082,7 @@ appraisements
 appraisers
 appraising
 appreciable
+appreciating
 appreciatory
 apprehended
 apprehends
@@ -2488,6 +2491,7 @@ assegai
 assegaied
 assemblages
 assemble
+assemblyman
 assemblymen
 assentation
 assented
@@ -2885,6 +2889,7 @@ autunites
 auxotrophic
 avail
 availing
+avalanches
 avant
 avaricious
 avariciousness
@@ -6471,6 +6476,7 @@ caseations
 casebearer
 casebearers
 casebook
+casefy
 casein
 caseinate
 casemate
@@ -7135,6 +7141,7 @@ cheeseparing
 cheesiness
 cheesinesses
 cheesy
+chefdoms
 cheffing
 chelatable
 chelated
@@ -7948,6 +7955,7 @@ clunky
 clupeids
 clustering
 clustery
+clutches
 clutching
 cluttering
 cluttery
@@ -11967,6 +11975,7 @@ dichasial
 dichondras
 dichotomies
 dichotomizes
+dichotomous
 dichotomously
 dichromat
 dichromic
@@ -12535,6 +12544,7 @@ disownments
 disparagements
 disparaging
 disparately
+disparatenesses
 disparity
 dispart
 disparting
@@ -12705,6 +12715,7 @@ disturbingly
 disulfates
 disulfide
 disulfoton
+disunions
 disuniter
 disuniting
 disuse
@@ -13395,6 +13406,7 @@ ducting
 ductwork
 duddy
 dudgeons
+dudishly
 due
 duel
 duelists
@@ -15718,6 +15730,7 @@ fallaleries
 faller
 fallible
 fallibly
+falsehood
 falsely
 falsest
 falsettos
@@ -16807,6 +16820,7 @@ flyovers
 flypapers
 flyrodders
 flysheets
+flyspecked
 flyswatter
 flytiers
 flyting
@@ -17178,6 +17192,7 @@ fosterages
 fosterers
 fosters
 fou
+fought
 foughten
 fouled
 foulings
@@ -18650,6 +18665,7 @@ goliard
 goliaths
 gollywog
 golosh
+gombroons
 gomerils
 gomphosis
 gonad
@@ -18945,6 +18961,7 @@ grecized
 grecizes
 grecizing
 greed
+greedier
 greediest
 greedily
 greedsome
@@ -24620,6 +24637,7 @@ leks
 lekvar
 lekythos
 lekythus
+lemma
 lemmatizes
 lemmatizing
 lemminglike
@@ -28209,6 +28227,7 @@ multiplication
 multiplications
 multiplicity
 multiplies
+multiprocessors
 multiproduct
 multiracialism
 multirange
@@ -28831,6 +28850,7 @@ neuroleptics
 neurologic
 neurologies
 neurologist
+neuromas
 neurophysiology
 neuroradiology
 neuroscientists
@@ -31941,6 +31961,7 @@ parthenocarpies
 parthenogeneses
 partial
 partialities
+participated
 participating
 participation
 participations
@@ -32023,6 +32044,7 @@ pastinas
 pastinesses
 pastis
 pastitsos
+pastless
 pastnesses
 pastor
 pastorali
@@ -32452,6 +32474,7 @@ peregrine
 peremptory
 perennated
 perennates
+perennations
 perennial
 perestroikas
 perfecters
@@ -34317,6 +34340,7 @@ preassigns
 preassured
 preattune
 preattuned
+preattunes
 prebend
 prebendaries
 prebiblical
@@ -34415,6 +34439,7 @@ prediabetic
 predicaments
 predicate
 predicates
+predictable
 predictably
 predictive
 predictively
@@ -35758,6 +35783,7 @@ pyroxenes
 pyroxenitic
 pyroxenoid
 pyrrhic
+pyrrol
 pyrrole
 pyrroles
 pyrrolic
@@ -35880,6 +35906,7 @@ quaternity
 quatrefoils
 quaveringly
 quayage
+quayages
 quaylike
 qubytes
 queasinesses
@@ -37845,6 +37872,7 @@ reshowing
 reshuffled
 reshuffling
 residence
+residency
 resident
 residential
 residua
@@ -39932,6 +39960,7 @@ scuttering
 scuttled
 scutworks
 scuzzball
+scyphate
 scyphi
 scyphozoan
 scyphozoans
@@ -40476,6 +40505,7 @@ sexologist
 sexologists
 sexploitation
 sexploitations
+sext
 sextain
 sextans
 sextant
@@ -41268,6 +41298,7 @@ skeletonised
 skeletonising
 skeletonizer
 skeletons
+skells
 skellums
 skelter
 skeltered
@@ -42330,6 +42361,7 @@ speedball
 speedballed
 speedboat
 speedboatings
+speeders
 speediest
 speediness
 speeding
@@ -44206,6 +44238,7 @@ superplastic
 superplasticity
 superplayers
 superpolite
+superports
 superposes
 superpositions
 superpower
@@ -46920,6 +46953,7 @@ trussed
 trussings
 trust
 trustabilities
+trustability
 trustbusters
 trusted
 trustees
@@ -50284,6 +50318,7 @@ windway
 windways
 windy
 wineglass
+wineless
 winemakers
 wingbacks
 wingbows
