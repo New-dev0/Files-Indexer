@@ -654,6 +654,7 @@ affixtures
 afflatus
 afflicted
 afflicters
+afflicting
 afflictions
 afflictive
 afflictively
@@ -770,6 +771,7 @@ agnosticisms
 agonal
 agonic
 agonise
+agonistes
 agonists
 agonize
 agorae
@@ -3814,6 +3816,7 @@ beldams
 beleaguer
 beleaguerment
 beleaguers
+beleaping
 belfried
 belgas
 belied
@@ -6238,6 +6241,7 @@ caponiers
 caporal
 capote
 capotes
+capouch
 capped
 cappelletti
 cappers
@@ -7052,6 +7056,7 @@ charquid
 charrier
 charring
 charrs
+chars
 charted
 chartered
 charterers
@@ -8022,6 +8027,7 @@ coastally
 coastguardsmen
 coastings
 coastline
+coastlines
 coasts
 coastwards
 coat
@@ -8359,6 +8365,7 @@ colliding
 collie
 collier
 collieshangies
+collimates
 collimations
 collins
 collinsias
@@ -9740,6 +9747,7 @@ cowherbs
 cowherds
 cowhide
 cowhided
+cowier
 cowlicks
 cowpat
 cowriting
@@ -9914,6 +9922,7 @@ cremate
 cremates
 cremator
 cremators
+crematory
 creme
 cremes
 cremini
@@ -10312,6 +10321,7 @@ cumin
 cummins
 cumquat
 cumquats
+cumshaw
 cumulates
 cumulation
 cumulations
@@ -10597,6 +10607,7 @@ cytidine
 cytochalasin
 cytogeneticist
 cytokinesis
+cytokinetic
 cytologic
 cytologically
 cytologists
@@ -12427,6 +12438,7 @@ discrowned
 discursively
 discursiveness
 discus
+discussed
 discusses
 discussible
 discussing
@@ -14782,6 +14794,7 @@ epitomical
 epizoism
 epizoites
 epizootics
+epizooties
 epizootiologic
 eponyms
 epopees
@@ -15115,6 +15128,7 @@ euonymuses
 eupatridae
 eupatrids
 eupepsias
+euphausid
 euphausiids
 euphemise
 euphemisms
@@ -16924,6 +16938,7 @@ folia
 foliage
 foliaged
 foliar
+foliate
 foliations
 folioing
 folkie
@@ -18222,6 +18237,7 @@ geostationary
 geosynclinal
 geosynclines
 geotaxes
+geothermally
 geotropism
 geotropisms
 gerah
@@ -18303,6 +18319,7 @@ gibbed
 gibbered
 gibberellins
 gibbering
+gibbeting
 gibbing
 gibed
 gibes
@@ -20328,6 +20345,7 @@ hiatuses
 hibernated
 hibernates
 hibernators
+hic
 hiccoughs
 hick
 hid
@@ -21494,6 +21512,7 @@ immixture
 immobile
 immobilisms
 immobilities
+immobility
 immobilizations
 immobilize
 immoderation
@@ -21984,6 +22003,7 @@ indefensibly
 indefinable
 indefinables
 indehiscences
+indehiscent
 indelibilities
 indelible
 indelicacies
@@ -22549,6 +22569,7 @@ intemperance
 intend
 intendants
 intendedly
+intenerating
 intenerations
 intense
 intenser
@@ -25018,6 +25039,7 @@ linden
 lindens
 lindies
 lineable
+lineality
 lineally
 linearised
 linearises
@@ -28144,6 +28166,7 @@ mousakas
 mouse
 mouselike
 mousers
+mousetrap
 mousetrapped
 mousiest
 moussaka
@@ -28406,6 +28429,7 @@ muser
 musher
 mushier
 mushiest
+mushrooming
 mushrooms
 music
 musical
@@ -28611,6 +28635,7 @@ nakedly
 nala
 nalas
 naloxones
+nam
 nameable
 namely
 namers
@@ -32958,6 +32983,7 @@ phone
 phoned
 phonematic
 phonemic
+phonemicist
 phonemics
 phones
 phonetically
@@ -33857,6 +33883,7 @@ polarographic
 polarography
 polarons
 polder
+polders
 polecats
 polemicizing
 polemics
@@ -34357,6 +34384,7 @@ practicing
 practise
 practised
 praenomen
+praenomina
 praesidium
 praetorial
 praetorian
@@ -36132,6 +36160,7 @@ rabatos
 rabbies
 rabbin
 rabbinical
+rabbins
 rabbitbrush
 rabbiting
 rabbles
@@ -37888,6 +37917,7 @@ reregistered
 reregistrations
 reregulated
 reregulates
+reregulation
 rereleasing
 reremice
 rerent
@@ -38040,6 +38070,7 @@ resolvents
 resonantly
 resonated
 resonates
+resorcinol
 resorcinols
 resort
 resorter
@@ -39783,6 +39814,7 @@ schizzier
 schizziest
 schlemiels
 schlemihl
+schlemihls
 schlub
 schlump
 schlumpier
@@ -43595,6 +43627,7 @@ strontium
 strophuli
 stropped
 stroppers
+stroppier
 stroppiest
 strops
 stroudings
@@ -45862,6 +45895,7 @@ thrummy
 thruputs
 thrushes
 thrusted
+thruster
 thrusters
 thrusting
 thrusts
@@ -45911,6 +45945,7 @@ thyreoid
 thyristor
 thyrocalcitonin
 thyroglobulin
+thyroiditis
 thyroiditises
 thyroids
 thyrotoxicoses
