@@ -288,6 +288,7 @@ acidulation
 acidy
 acierated
 aciform
+acinar
 acing
 acini
 acinose
@@ -2408,6 +2409,7 @@ ascarid
 ascarides
 ascarids
 ascendances
+ascendancies
 ascendancy
 ascendants
 ascendence
@@ -7709,6 +7711,7 @@ clairvoyance
 clambakes
 clamberer
 clammier
+clamminesses
 clamming
 clamoring
 clamoured
@@ -8578,6 +8581,7 @@ compactly
 compactor
 companioned
 companions
+companionship
 companionships
 companying
 comparator
@@ -8808,6 +8812,7 @@ conferval
 confervas
 confessed
 confession
+confessionalist
 confessionally
 confessionals
 confessor
@@ -9604,6 +9609,7 @@ counterbid
 counterblast
 counterblasts
 counterchange
+countercheck
 countercoups
 counterculture
 countercyclical
@@ -9791,6 +9797,7 @@ cram
 crambe
 crambos
 crammer
+cramoisy
 cramp
 cramped
 crampfish
@@ -10688,6 +10695,7 @@ damaskeened
 damaskeening
 dames
 damiana
+damianas
 dammers
 damming
 dammit
@@ -12586,6 +12594,7 @@ displacement
 displanted
 displants
 displayable
+displayer
 displeasures
 disploded
 displume
@@ -13737,6 +13746,7 @@ ecru
 ecrus
 ecstatic
 ectases
+ectoparasites
 ectopia
 ectopias
 ectopic
@@ -15609,6 +15619,7 @@ exultancy
 exultant
 exultation
 exulted
+exultingly
 exurb
 exurbanite
 exuviates
@@ -16810,6 +16821,7 @@ fluorometries
 fluorometry
 fluoroscopes
 fluoroscoping
+fluoroscopist
 fluoroses
 fluorosis
 flurries
@@ -16970,6 +16982,7 @@ footlocker
 footlockers
 footmen
 footnoting
+footpace
 footpaces
 footpad
 footpath
@@ -18727,6 +18740,7 @@ googolplex
 googolplexes
 gooky
 gooney
+goony
 goop
 goopiest
 goops
@@ -18973,6 +18987,7 @@ grazer
 grazier
 grazing
 grazings
+grease
 greaseball
 greaseproofs
 greasers
@@ -19510,6 +19525,7 @@ hairsplitting
 hairsplittings
 hairsprays
 hairwork
+hajis
 hajj
 hajjis
 hakes
@@ -20227,6 +20243,7 @@ heterocystous
 heterocysts
 heterodox
 heterodoxies
+heterodyne
 heterodyning
 heteroecism
 heterogameties
@@ -22346,6 +22363,7 @@ innumeracies
 innumerate
 inoculation
 inoculum
+inodorous
 inoperable
 inoperative
 inoperculates
@@ -24112,6 +24130,7 @@ kvasses
 kvetch
 kvetchier
 kvetchiest
+kwacha
 kwachas
 kwashiorkor
 kwashiorkors
@@ -24621,6 +24640,7 @@ legally
 legals
 legateships
 legato
+legend
 legendaries
 legendarily
 legendize
@@ -25487,6 +25507,7 @@ luffed
 lugeing
 luger
 luggages
+luging
 lugsail
 lugubriousness
 lullabied
@@ -27696,6 +27717,7 @@ momentary
 momently
 momentousness
 momentum
+momism
 moms
 momus
 momzer
@@ -28524,6 +28546,7 @@ mythologer
 mythologize
 mythologized
 mythology
+mythos
 myxedematous
 myxoedema
 myxoma
@@ -28784,6 +28807,7 @@ nelumbium
 nelumbiums
 nelumbos
 nematicides
+nematocidal
 nematocysts
 nematological
 nemertine
@@ -30234,6 +30258,7 @@ operabilities
 operable
 operagoing
 operand
+operant
 operatic
 operatically
 operation
@@ -32113,6 +32138,7 @@ patchworking
 patchworks
 pate
 patellae
+patellar
 patellate
 patelliform
 paten
@@ -32845,6 +32871,7 @@ phenomenally
 phenomenologist
 phenotypical
 phenotypically
+phenoxide
 phenoxides
 phentolamines
 phenylalanines
@@ -35313,6 +35340,7 @@ protectorships
 protectory
 protectress
 protectresses
+proteinic
 proteinurias
 proteoglycan
 proteolytically
@@ -38347,6 +38375,7 @@ revisals
 reviser
 revisionist
 revisions
+revisit
 revisory
 revisualization
 revitalizes
@@ -38616,6 +38645,7 @@ ripoff
 ripostes
 ripper
 ripping
+rippled
 ripplet
 ripplets
 riprapped
@@ -40918,6 +40948,7 @@ shorl
 short
 shortage
 shorten
+shortfalls
 shorthairs
 shorthand
 shorthands
@@ -43233,6 +43264,7 @@ stippled
 stipplings
 stipular
 stipulate
+stipulations
 stipulator
 stipulatory
 stir
@@ -43300,6 +43332,7 @@ stonefishes
 stoneflies
 stonefly
 stonemason
+stonemasonries
 stonemasonry
 stoner
 stones
@@ -45483,6 +45516,7 @@ teslas
 tesselate
 tessellating
 tessera
+tesseracts
 tessitura
 tessiture
 testable
@@ -46827,6 +46861,7 @@ trilogies
 trim
 trimer
 trimers
+trimeter
 trimetric
 trimmed
 trimmer
