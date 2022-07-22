@@ -1043,6 +1043,7 @@ allotments
 allotter
 allotypies
 allow
+allowably
 allowance
 allowancing
 allowed
@@ -1447,6 +1448,7 @@ ancientries
 ancillae
 ancillary
 ancipital
+ancon
 ancone
 ancresses
 ancylostomiases
@@ -1844,6 +1846,7 @@ antiritualism
 antiritualisms
 antiroll
 antiromantic
+antiromanticism
 antiroyalist
 antiroyalists
 antiseparatist
@@ -7582,6 +7585,7 @@ chutists
 chylous
 chymist
 chymists
+chytrid
 cibol
 cibols
 ciboules
@@ -7800,6 +7804,7 @@ clattery
 claught
 claughted
 claustra
+claustrophobias
 claustrum
 claver
 clavers
@@ -11159,6 +11164,7 @@ deepfrozen
 deeps
 deerflies
 deerhounds
+deerlike
 deerskin
 deerstalker
 deerstalkers
@@ -11817,6 +11823,7 @@ detection
 detections
 detector
 detectors
+detentes
 detention
 detentions
 detentists
@@ -12549,6 +12556,7 @@ dishevel
 disheveled
 disheveling
 dishful
+dishier
 dishiest
 dishing
 dishonesties
@@ -13494,6 +13502,7 @@ duddy
 dudgeons
 dudishly
 due
+duecento
 duel
 duelists
 duellist
@@ -13695,6 +13704,7 @@ earlock
 earlship
 earmark
 earmarked
+earmarks
 earner
 earnestness
 earphone
@@ -16448,6 +16458,7 @@ firebacks
 fireballer
 fireballing
 firebase
+firebases
 firebirds
 firebombing
 firebombs
@@ -17163,6 +17174,7 @@ foreshadow
 foreshank
 foresheet
 foreshock
+foreshores
 foreshows
 foresight
 foresighted
@@ -17522,6 +17534,7 @@ fritillaria
 fritillary
 frivol
 frivolled
+frivols
 frized
 frizers
 frizes
@@ -20295,6 +20308,7 @@ herniations
 heroes
 heroically
 heroicize
+heroics
 heroin
 heroine
 heroins
@@ -20496,6 +20510,7 @@ hirsute
 hirudin
 hispanidads
 hiss
+hissies
 hissiest
 hissing
 hissy
@@ -21080,6 +21095,7 @@ huskiness
 huskinesses
 husking
 hussar
+hustle
 huswifes
 hutch
 hutching
@@ -21690,6 +21706,7 @@ impertinence
 imperturbable
 impervious
 imperviously
+imperviousness
 impetiginous
 impetrate
 impetrated
@@ -29204,6 +29221,7 @@ nitchies
 niter
 nitpick
 nitpicking
+nitpicks
 nitrated
 nitride
 nitrided
@@ -31032,6 +31050,7 @@ outswum
 outtalked
 outthank
 outthanked
+outthanking
 outthanks
 outthinks
 outthought
@@ -35542,6 +35561,7 @@ proventriculi
 proves
 providences
 providers
+provides
 provinces
 provincialisms
 provincialize
@@ -36016,6 +36036,7 @@ qats
 qindar
 qiviut
 qiviuts
+quaalude
 quack
 quackery
 quackish
@@ -37959,6 +37980,7 @@ reprographies
 reproofs
 reprove
 reprovers
+reptile
 reptilian
 reptilium
 republicanize
@@ -38400,6 +38422,7 @@ retreats
 retrials
 retributory
 retries
+retrievability
 retro
 retroact
 retroacted
@@ -40172,6 +40195,7 @@ scummer
 scummers
 scungilli
 scunnered
+scuppaug
 scuppaugs
 scupper
 scuppered
@@ -41622,6 +41646,7 @@ sklents
 skoals
 skulked
 skulkers
+skullcaps
 skullduggeries
 skunking
 skunkweed
@@ -42013,6 +42038,7 @@ snarlers
 snarliest
 snatcher
 snatches
+snatchier
 snatching
 snath
 snathe
@@ -42565,6 +42591,7 @@ spearfish
 spearheading
 spearmen
 spearmints
+specialest
 specialisation
 specialisations
 specialising
@@ -43485,6 +43512,7 @@ stomodaea
 stomodaeal
 stomodaeums
 stomodeal
+stompers
 stomping
 stonechats
 stoned
@@ -44030,6 +44058,7 @@ suborder
 subordinately
 subordinator
 suborn
+subornations
 suborners
 suborning
 suboval
@@ -48170,6 +48199,7 @@ unendearing
 unendingly
 unenforceable
 unenjoyed
+unenlarged
 unenriched
 unentered
 unequals
@@ -49063,6 +49093,7 @@ utopianism
 utopianisms
 utopisms
 utopistic
+utopists
 utricles
 utter
 utterance
@@ -49540,6 +49571,7 @@ victors
 victualed
 vicunas
 vid
+vide
 videlicet
 videodisks
 videographer
@@ -50202,6 +50234,7 @@ weasands
 weaselly
 weasons
 weatherability
+weatherboarded
 weatherboards
 weathercast
 weatherglass
@@ -50369,6 +50402,7 @@ whiffles
 whigs
 whiled
 whiles
+whiling
 whilst
 whimbrel
 whimbrels
@@ -51218,6 +51252,7 @@ zed
 zedoary
 zein
 zeks
+zemindary
 zemstvo
 zemstvos
 zenanas
