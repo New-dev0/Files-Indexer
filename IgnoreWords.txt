@@ -489,6 +489,7 @@ admissibilities
 admits
 admittance
 admittedly
+admitter
 admitting
 admix
 admixes
@@ -826,6 +827,7 @@ ain
 aiolis
 airbrushed
 airbrushes
+airbrushing
 airbursts
 airbuses
 airbusses
@@ -4139,6 +4141,7 @@ bias
 biased
 biassed
 biaxal
+biaxially
 bibbed
 biblically
 biblicism
@@ -6801,6 +6804,7 @@ cavil
 caviled
 caviler
 cavilers
+caviling
 cavilled
 cavillers
 cavils
@@ -10305,6 +10309,7 @@ crustacea
 crustaceans
 crustaceous
 crustily
+crustinesses
 crustless
 crustose
 crutching
@@ -10472,6 +10477,7 @@ cunningnesses
 cunnings
 cunts
 cupboard
+cupeled
 cupellation
 cupelled
 cupferron
@@ -15341,6 +15347,7 @@ euphonies
 euphoniousness
 euphoniums
 euphonized
+euphoria
 euphoriants
 euphrasy
 euphuistically
@@ -16051,6 +16058,7 @@ fanfaron
 fanfaronades
 fanfarons
 fanfic
+fanfolding
 fangas
 fangless
 fanglike
@@ -16254,6 +16262,7 @@ feedboxes
 feedgrains
 feedlot
 feeds
+feedyards
 feeling
 feelingnesses
 feelings
@@ -16621,6 +16630,7 @@ finochios
 fioraturae
 fipple
 fir
+firearmed
 firearms
 fireback
 firebacks
@@ -16821,6 +16831,7 @@ flatfoots
 flatlands
 flatliners
 flatlong
+flatmate
 flatnesses
 flatten
 flattens
@@ -17771,6 +17782,7 @@ fructifying
 fructoses
 frugs
 fruitage
+fruitages
 fruited
 fruiters
 fruitful
@@ -18206,6 +18218,7 @@ garotters
 garottes
 garotting
 garpikes
+garrets
 garring
 garron
 garroter
@@ -19950,6 +19963,7 @@ handy
 handyperson
 hang
 hangable
+hangar
 hangnail
 hangnails
 hangout
@@ -21507,6 +21521,7 @@ hypertypical
 hyperuricemia
 hypervelocity
 hyperventilate
+hypervigilant
 hypervirulent
 hypha
 hyphenates
@@ -21721,6 +21736,7 @@ illuminative
 illuminator
 illumine
 illumines
+illuming
 illumining
 illuminism
 illusional
@@ -22631,6 +22647,7 @@ inhumations
 inhume
 inhumers
 inhumes
+inia
 inimically
 inimitable
 iniquities
@@ -25253,6 +25270,7 @@ lidos
 lie
 liefest
 liegeman
+lienable
 liens
 lier
 liers
@@ -25595,6 +25613,7 @@ lobotomised
 lobotomizing
 lobotomy
 lobscouse
+lobster
 lobstering
 lobsterman
 lobstermen
@@ -27277,6 +27296,7 @@ microburst
 microbus
 microcap
 microclimate
+micrococcal
 micrococci
 microcode
 microcomputers
@@ -30836,6 +30856,7 @@ organism
 organismal
 organismically
 organizable
+organization
 organizational
 organize
 organizers
@@ -32120,6 +32141,7 @@ pallier
 palling
 palm
 palmar
+palmated
 palmation
 palmer
 palmers
@@ -38209,6 +38231,7 @@ reorganized
 reorientates
 reorients
 reoxidation
+reoxidations
 rep
 repacified
 repack
@@ -38648,6 +38671,7 @@ restocked
 restocking
 restocks
 restoked
+restoral
 restorals
 restoratives
 restrainedly
@@ -41192,6 +41216,7 @@ sexually
 sexy
 sforzandi
 sforzandos
+sforzato
 sha
 shabbiness
 shacklebone
@@ -43767,6 +43792,7 @@ stenographies
 stenography
 stenos
 stenosis
+stenotherm
 stenotherms
 stenotypy
 stepbrothers
@@ -45187,6 +45213,7 @@ swallow
 swallowers
 swamies
 swamp
+swampers
 swampier
 swampiest
 swamping
@@ -45481,6 +45508,7 @@ syrphid
 sysadmin
 sysop
 system
+systematists
 systematize
 systematized
 systemics
@@ -45699,6 +45727,7 @@ tantalize
 tantalizing
 tantalum
 tantivies
+tantra
 tantrism
 tanuki
 tanzanite
@@ -45712,6 +45741,7 @@ tapenades
 taperer
 taperers
 tapers
+taperstick
 tapestried
 tapestries
 tapetal
@@ -45814,6 +45844,7 @@ tawdries
 tawers
 tawnier
 tawse
+tawsed
 tawsing
 tax
 taxa
@@ -47334,6 +47365,7 @@ travertine
 travertines
 travesties
 travestying
+travoise
 travoises
 trawley
 trawleys
@@ -49795,6 +49827,7 @@ vaulting
 vaultingly
 vaunted
 vaunters
+vavasour
 vavasours
 vavs
 vaw
@@ -50428,6 +50461,7 @@ wackier
 wackiness
 wacky
 wad
+wadable
 wadded
 wadder
 wadders
@@ -51168,6 +51202,7 @@ wining
 winked
 winking
 winners
+winningly
 winnowers
 winnowing
 winoes
