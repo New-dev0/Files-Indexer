@@ -2382,6 +2382,7 @@ arrowhead
 arrowlike
 arrowwoods
 arrowworm
+arsenates
 arsenides
 arsenite
 arshins
@@ -3379,6 +3380,7 @@ barbarous
 barbecuers
 barbells
 barbering
+barbicel
 barbiturate
 barbiturates
 barbless
@@ -4631,6 +4633,7 @@ blini
 blink
 blinkard
 blintz
+bliss
 blisses
 blissful
 blissfully
@@ -4826,6 +4829,7 @@ bodyguards
 bodying
 bodysuits
 bodysurfed
+bodysurfers
 bodyworks
 boff
 boffola
@@ -7123,6 +7127,7 @@ chapbooks
 chape
 chaperonage
 chaperone
+chaperoned
 chaperones
 chaperoning
 chapes
@@ -16944,6 +16949,7 @@ flextimes
 flexuose
 fley
 flichter
+flichters
 flicked
 flickery
 flight
@@ -17209,6 +17215,7 @@ foldaway
 foldaways
 foldboats
 folderol
+foldup
 folia
 foliage
 foliaged
@@ -18427,6 +18434,7 @@ gemstones
 gen
 gendarmes
 gender
+gendering
 genders
 genealogically
 generalises
@@ -20182,6 +20190,7 @@ haunts
 hausfrau
 hausfrauen
 haustella
+haustoria
 haustorium
 haut
 hautboy
@@ -20437,6 +20446,7 @@ hemacytometer
 hemacytometers
 hemagglutinates
 hemagogs
+hemal
 hematics
 hematinics
 hematomas
@@ -20781,6 +20791,7 @@ histidine
 histidins
 histochemistry
 histoid
+histologically
 histologist
 histologists
 histone
@@ -24698,6 +24709,7 @@ lairing
 laitances
 laities
 lake
+laked
 lakefront
 lakes
 lakeshore
@@ -24776,6 +24788,7 @@ landlubbers
 landlubbing
 landman
 landmasses
+landowner
 landownerships
 lands
 landscaped
@@ -25023,6 +25036,7 @@ leakage
 leaker
 leakily
 leakinesses
+leaky
 leaned
 leanest
 leaning
@@ -25039,6 +25053,7 @@ leathered
 leathering
 leatherlike
 leathernecks
+leave
 leavening
 leavier
 leavy
@@ -26807,6 +26822,7 @@ mayweeds
 mazaedia
 mazaedium
 mazard
+mazed
 mazedly
 mazelike
 mazes
@@ -27400,6 +27416,7 @@ micrometeoritic
 micrometer
 micromethods
 micromho
+microminis
 micromorphology
 micronized
 microns
@@ -28651,6 +28668,7 @@ moviegoing
 moving
 moviola
 mow
+moxa
 moxie
 mozo
 mozos
@@ -32339,6 +32357,7 @@ pantoffles
 pantomime
 pantomimes
 pantomimic
+pantomimist
 pantries
 pantropic
 pantropical
@@ -34244,6 +34263,7 @@ plicated
 plicately
 plies
 plimsol
+plimsolls
 plimsols
 plinkers
 pliocene
@@ -34658,6 +34678,7 @@ porisms
 pork
 porked
 pornier
+porno
 pornographies
 poromerics
 porousnesses
@@ -35536,6 +35557,7 @@ prims
 primus
 prince
 princedoms
+princelets
 princelier
 princes
 princeship
@@ -37883,6 +37905,7 @@ regelate
 regelated
 regelating
 regency
+regenerable
 regeneracies
 regenerately
 regeneration
@@ -39789,6 +39812,7 @@ ruts
 rutted
 ruttier
 ruttiness
+rutty
 rye
 ryegrass
 ryot
@@ -40837,6 +40861,7 @@ securitize
 securitized
 securitizes
 security
+sedan
 sedate
 sedations
 sedative
@@ -41045,6 +41070,7 @@ senecio
 senecios
 senescent
 sengi
+senhor
 senhorita
 senhoritas
 senilely
@@ -41927,6 +41953,7 @@ silvas
 silverly
 silvern
 silverpoint
+silversides
 silverware
 silvexes
 silviculturally
@@ -42362,6 +42389,7 @@ slojd
 sloop
 sloops
 slope
+sloping
 sloppiest
 slopping
 slops
@@ -43044,6 +43072,7 @@ soyuzes
 sozines
 sozins
 space
+spaceband
 spaced
 spaceless
 spaceman
@@ -45011,6 +45040,7 @@ superconducts
 superconfident
 supercontinents
 superconvenient
+supercop
 supercops
 supercriminal
 supercriminals
@@ -45759,6 +45789,7 @@ tamarinds
 tamarisk
 tambalas
 tambour
+tamboura
 tamboured
 tambourer
 tambourine
@@ -46595,6 +46626,7 @@ throat
 throatier
 throatiness
 throatlatch
+throb
 throbbed
 thrombi
 thromboembolic
@@ -47846,6 +47878,7 @@ trumeaux
 trump
 trumped
 trumperies
+trumpery
 trumpeted
 trumpeter
 truncating
@@ -50831,6 +50864,7 @@ wauchted
 wauchting
 wauks
 waul
+wauled
 wave
 waved
 wavelength
@@ -51017,6 +51051,7 @@ wheatless
 wheedled
 wheedles
 wheelbarrow
+wheelbarrowing
 wheeler
 wheelies
 wheelman
