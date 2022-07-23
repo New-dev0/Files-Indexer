@@ -468,6 +468,7 @@ adjutant
 adjutants
 adjuvants
 adman
+admass
 admasses
 admeasures
 admeasuring
@@ -1105,6 +1106,7 @@ alogical
 aloof
 aloofly
 aloofness
+alpacas
 alpenglow
 alpenhorns
 alpenstock
@@ -1822,6 +1824,7 @@ antinucleons
 antinukes
 antiobscenity
 antiozonant
+antiparty
 antipersonnel
 antiperspirants
 antipesticide
@@ -2794,6 +2797,7 @@ audad
 audads
 audibility
 audible
+audibly
 audiences
 audile
 audiles
@@ -4629,6 +4633,7 @@ blessedness
 blessers
 blest
 blethered
+blights
 blimy
 blind
 blindsided
@@ -5245,6 +5250,7 @@ branning
 brantails
 bras
 brasher
+brashly
 brashnesses
 brashy
 brasilins
@@ -6346,6 +6352,7 @@ capitulary
 capitulations
 capless
 caplet
+caplin
 capo
 caponier
 caponiers
@@ -9660,6 +9667,7 @@ corrody
 corrosion
 corrosive
 corruptibility
+corruptible
 corruptionists
 corruptions
 corruptnesses
@@ -11442,6 +11450,7 @@ deftest
 defuelled
 defund
 defuser
+defuses
 defuzed
 defuzes
 defuzing
@@ -12470,6 +12479,7 @@ diplomats
 diplopias
 dipnetted
 dipnoans
+dipodic
 dipped
 dipper
 dippier
@@ -13830,6 +13840,7 @@ dynamistic
 dynamo
 dynamometers
 dynamometric
+dynamotor
 dynamotors
 dynatron
 dynel
@@ -14245,6 +14256,7 @@ elegizing
 elegy
 element
 elementals
+elementarily
 elementary
 elemis
 elenchic
@@ -15453,6 +15465,7 @@ evermore
 eversion
 everyday
 everymen
+everyone
 everywhere
 evict
 evicted
@@ -16873,6 +16886,7 @@ flask
 flasket
 flasks
 flatbeds
+flatcaps
 flatcar
 flatcars
 flatfooted
@@ -21080,6 +21094,7 @@ hooknosed
 hookup
 hoolie
 hooligan
+hooliganisms
 hooligans
 hoop
 hooped
@@ -21509,6 +21524,7 @@ hyoids
 hyoscyamine
 hypabyssal
 hypabyssally
+hypaethral
 hypanthium
 hyper
 hyperacidities
@@ -22470,10 +22486,12 @@ individuated
 individuations
 indivisible
 indoles
+indomitability
 indophenol
 indophenols
 indorsed
 indorsees
+indorsements
 indorsers
 indowed
 indraft
@@ -22830,6 +22848,7 @@ inscroll
 inscrutable
 insculp
 insculped
+insculping
 inseams
 insectile
 insecurely
@@ -23656,6 +23675,7 @@ izars
 jabbers
 jabberwocky
 jabirus
+jabot
 jabs
 jacana
 jacinthes
@@ -23842,6 +23862,7 @@ jets
 jetsom
 jetsoms
 jettied
+jettinesses
 jetting
 jetty
 jettying
@@ -25886,6 +25907,7 @@ lordlier
 lordlike
 lordliness
 lordoses
+lordship
 lore
 lorgnette
 lorica
@@ -30674,6 +30696,7 @@ oinks
 okas
 olden
 older
+oldest
 oldfangled
 oldie
 oldies
@@ -33680,6 +33703,7 @@ phreaker
 phreakers
 phreatic
 phreatophytic
+phrenology
 phthalate
 phthalocyanine
 phthisic
@@ -35401,6 +35425,7 @@ presettles
 preshape
 preshapes
 preshaping
+preship
 preshowing
 preshrink
 preshrinks
@@ -38683,6 +38708,7 @@ resining
 resinlike
 resist
 resistants
+resisted
 resister
 resistibility
 resisting
@@ -39881,6 +39907,7 @@ sackcloths
 sacking
 saclike
 sacralizing
+sacramentals
 sacrificers
 sacrificially
 sacrilege
@@ -39965,6 +39992,7 @@ saiyid
 saiyids
 sajous
 sakes
+salaaming
 salaams
 salabilities
 salably
@@ -44130,6 +44158,7 @@ stomodeal
 stompers
 stomping
 stonechats
+stonecrops
 stoned
 stonefishes
 stoneflies
@@ -44817,6 +44846,7 @@ subversive
 subvert
 subverter
 subverters
+subviruses
 subvocalize
 subway
 subwayed
@@ -45627,6 +45657,7 @@ synfuels
 syngases
 syngenic
 synod
+synonymic
 synonymity
 synonymize
 synonymously
@@ -47211,6 +47242,7 @@ touchtones
 toughener
 toughing
 toughness
+toughnesses
 toughy
 toupee
 tourbillion
@@ -48704,6 +48736,7 @@ undercools
 undercount
 undercounts
 undercover
+undercrofts
 undercutting
 underdog
 underdone
@@ -48800,6 +48833,7 @@ undertaking
 undertenant
 undertint
 undertints
+undertows
 undertrick
 underuse
 underused
@@ -49074,6 +49108,7 @@ unitizations
 unitizing
 unitrust
 univalved
+universalism
 universalize
 universally
 universalness
