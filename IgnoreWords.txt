@@ -4356,6 +4356,7 @@ bipedalisms
 biphasic
 bipinnate
 bipinnately
+biplane
 bipolar
 bipolarities
 bipolarizes
@@ -5705,6 +5706,7 @@ bunrakus
 bunter
 bunters
 buntline
+buntlines
 buoyance
 buppies
 buppy
@@ -8412,6 +8414,7 @@ colicweeds
 colinearities
 coliphage
 coliphages
+coliseum
 colistin
 colistins
 colitic
@@ -8728,6 +8731,7 @@ complect
 complected
 complects
 complement
+complementarily
 complementizer
 complete
 completed
@@ -8853,6 +8857,7 @@ conciliators
 concisenesses
 concisions
 concluding
+concomitance
 concomitances
 concours
 concourses
@@ -9641,6 +9646,7 @@ cosmochemist
 cosmogonic
 cosmographical
 cosmographies
+cosmolines
 cosmolining
 cosmologies
 cosmonauts
@@ -9978,6 +9984,7 @@ crazier
 crazing
 creakiest
 creaky
+creamcups
 creamers
 creaminess
 creaminesses
@@ -10726,6 +10733,7 @@ cytons
 cytophilic
 cytoplasms
 cytoplast
+cytoskeletal
 cytoskeleton
 cytosols
 cytostatically
@@ -11060,6 +11068,7 @@ decagrams
 decalcified
 decaliter
 decaliters
+decalogs
 decalogues
 decameter
 decameters
@@ -12525,6 +12534,7 @@ discomfort
 discomforting
 discommends
 discommode
+discommodes
 discompose
 discomposure
 discomposures
@@ -12921,6 +12931,7 @@ ditsinesses
 ditsy
 dittoed
 ditty
+ditz
 ditziest
 ditzinesses
 diuresis
@@ -13580,6 +13591,7 @@ dubber
 dubbin
 dubiousness
 dubitation
+dubnium
 dubonnets
 ducats
 duchesses
@@ -15291,6 +15303,7 @@ euphausiids
 euphemise
 euphemisms
 euphemist
+euphemizing
 euphonies
 euphoniousness
 euphoniums
@@ -15348,6 +15361,7 @@ events
 eventuated
 everlastingly
 everlastingness
+evermore
 eversion
 everyday
 everymen
@@ -15625,6 +15639,7 @@ expeditor
 expellable
 expellants
 expeller
+expelling
 expendabilities
 expendable
 expends
@@ -18052,6 +18067,7 @@ gamekeeper
 gamesmanship
 gamester
 gametically
+gametocytes
 gametogenesis
 gamine
 gaminess
@@ -19394,6 +19410,7 @@ groundworks
 grouper
 grouses
 grouted
+grouters
 groutier
 grouting
 grouts
@@ -22130,6 +22147,7 @@ incommensurate
 incommoded
 incommoding
 incompact
+incomparability
 incomparable
 incompatibility
 incompatible
@@ -24333,6 +24351,7 @@ knotted
 knotters
 knotting
 knottings
+knotweeds
 knowable
 knower
 knowing
@@ -24613,6 +24632,7 @@ lancinating
 landaulets
 landgraves
 landholder
+landings
 landladies
 landlady
 landloper
@@ -29312,6 +29332,7 @@ nialamide
 nibble
 nibbled
 niblick
+niblicks
 nicad
 niccolites
 nice
@@ -29626,6 +29647,7 @@ nondemocratic
 nondepartmental
 nondepleting
 nondeposition
+nondepressed
 nondescriptive
 nondevelopments
 nondiabetics
@@ -30152,6 +30174,7 @@ nymphalid
 nymphets
 nympho
 nympholepsies
+nymphomaniacal
 nymphomanias
 nystagmic
 nystagmuses
@@ -30159,6 +30182,7 @@ oafish
 oak
 oakiest
 oar
+oarless
 oars
 oasthouses
 oatcake
@@ -32938,6 +32962,7 @@ periderm
 peridia
 peridotites
 perigee
+perigees
 perigyny
 perikaryal
 perilla
@@ -33435,6 +33460,7 @@ phrasemonger
 phrasemongering
 phreaker
 phreakers
+phreatic
 phreatophytic
 phthalate
 phthalocyanine
@@ -33952,6 +33978,7 @@ platies
 platiest
 platina
 platinize
+platinized
 platinizes
 platinoid
 platinum
@@ -36198,6 +36225,7 @@ pyodermas
 pyorrheas
 pyorrhoea
 pyorrhoeas
+pyoses
 pyracantha
 pyralid
 pyralids
@@ -40532,6 +40560,7 @@ seasonal
 seasons
 seastrands
 seatback
+seatbacks
 seatbelts
 seater
 seating
@@ -41685,6 +41714,7 @@ silverpoint
 silverware
 silvexes
 silviculturally
+silviculture
 sima
 simas
 simile
@@ -41770,6 +41800,7 @@ sipe
 siphon
 siphonage
 siphonal
+siphonophore
 sippers
 sips
 sirdars
@@ -42515,6 +42546,7 @@ sods
 soever
 sofa
 softback
+softballer
 softcore
 softcover
 soften
@@ -42667,6 +42699,7 @@ soothed
 soother
 soothers
 soothes
+soothing
 soothingnesses
 soothly
 soothsay
@@ -46196,6 +46229,7 @@ these
 theses
 thesp
 thespians
+thetical
 theurgic
 theurgical
 thewiest
@@ -50582,6 +50616,7 @@ weatherly
 weathermen
 weatherperson
 weatherpersons
+weatherproofing
 weathers
 weatherworn
 weave
