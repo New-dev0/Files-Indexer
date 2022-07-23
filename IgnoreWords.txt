@@ -376,6 +376,7 @@ actualizations
 actualize
 actually
 actuarial
+actuary
 actuate
 actuator
 acuities
@@ -640,6 +641,7 @@ affections
 affective
 affectivities
 affectless
+affenpinscher
 affenpinschers
 afferently
 affiance
@@ -1410,6 +1412,7 @@ analemmas
 analemmata
 analgesias
 analgesic
+analgesics
 analgetics
 anality
 analogic
@@ -1464,6 +1467,7 @@ anchoress
 anchoresses
 anchoret
 anchoring
+anchoritically
 anchorwomen
 anchovettas
 ancientest
@@ -2487,6 +2491,7 @@ ashcakes
 ashed
 ashfall
 ashier
+ashiness
 ashinesses
 ashlars
 ashless
@@ -3001,6 +3006,7 @@ avowably
 avower
 avowing
 avows
+avulsed
 avulsion
 avulsions
 awaited
@@ -6448,6 +6454,7 @@ carbora
 carbos
 carboxylase
 carboxylate
+carboxylating
 carboxylic
 carboxyls
 carburetted
@@ -7473,6 +7480,7 @@ chirp
 chirped
 chirper
 chirpily
+chirps
 chirred
 chirring
 chirrs
@@ -11410,6 +11418,7 @@ definitenesses
 definitional
 definitive
 definitively
+definitiveness
 definitives
 definitizing
 definitude
@@ -12522,6 +12531,7 @@ diriment
 dirling
 dirls
 dirndl
+dirtiness
 dirtinesses
 dirts
 disability
@@ -12723,6 +12733,7 @@ disesteeming
 disesteems
 diseur
 diseurs
+diseuse
 diseuses
 disfavors
 disfavoured
@@ -14130,6 +14141,7 @@ effulgent
 effuse
 effused
 effuses
+effusions
 effusivenesses
 efs
 eftsoons
@@ -14178,6 +14190,7 @@ eisegeses
 eisteddfodic
 either
 ejaculates
+ejaculation
 ejaculator
 ejecta
 ejected
@@ -17440,6 +17453,7 @@ foreshank
 foresheet
 foreshock
 foreshores
+foreshowing
 foreshows
 foresight
 foresighted
@@ -17616,6 +17630,7 @@ fowlpox
 foxfish
 foxfishes
 foxgloves
+foxhunters
 foxhunting
 foxhuntings
 foxier
@@ -19972,6 +19987,7 @@ haloid
 haloids
 halterbreaking
 haltless
+halva
 halve
 ham
 hamadryad
@@ -20000,6 +20016,7 @@ hams
 hamstring
 hamstringing
 hamulate
+hamulous
 handbag
 handbags
 handballs
@@ -22976,6 +22993,7 @@ insupportable
 insurability
 insurances
 insurgencies
+insurgents
 insurrection
 insusceptible
 inswathe
@@ -23297,6 +23315,7 @@ intransigently
 intransigents
 intraocular
 intrapersonal
+intraspecies
 intraspecific
 intrastate
 intravenous
@@ -23423,6 +23442,7 @@ invoke
 involucels
 involucra
 involucral
+involute
 involuting
 involutional
 involve
@@ -25601,6 +25621,7 @@ lipsticks
 liquates
 liquefaction
 liquefier
+liquefiers
 liquefying
 liquid
 liquidates
@@ -26291,12 +26312,14 @@ magi
 magic
 magical
 magicians
+magisterial
 magisterially
 magisterium
 magistratical
 magistratically
 magistrature
 magmata
+magnanimous
 magnesias
 magnesite
 magnetics
@@ -27884,6 +27907,7 @@ misdate
 misdeal
 misdealing
 misdeals
+misdefine
 misdefining
 misdescriptions
 misdiagnosed
@@ -27908,6 +27932,7 @@ miseducates
 miseducation
 misemphasize
 misemploy
+misemploying
 misenrolling
 misenrolls
 miserableness
@@ -30648,6 +30673,7 @@ oestrin
 oestrums
 ofay
 off
+offal
 offed
 offended
 offenses
@@ -33479,6 +33505,7 @@ phantasmagoric
 pharisaic
 pharisaically
 pharisee
+pharmacies
 pharmacist
 pharmacodynamic
 pharmacognosy
@@ -34517,6 +34544,7 @@ policers
 policies
 policy
 policyholders
+poling
 poliomyelitis
 polios
 polisher
@@ -35854,6 +35882,7 @@ prolonging
 prolusion
 prom
 promethium
+promines
 promisees
 promising
 promisors
@@ -37179,6 +37208,7 @@ ravining
 ravioli
 ravished
 ravishers
+ravishes
 rawest
 rawhided
 rawin
@@ -38844,6 +38874,7 @@ restiform
 restimulated
 restimulating
 restitched
+restitching
 restitute
 restitutions
 restless
@@ -40954,6 +40985,7 @@ sedimentable
 sedimentation
 sedimenting
 sedimentologies
+sediments
 seditions
 seduce
 seducive
@@ -48360,6 +48392,7 @@ uglies
 uglification
 uglifier
 uglifiers
+uglify
 ugsome
 uintaites
 uitlanders
@@ -50089,6 +50122,7 @@ vees
 vegan
 veganism
 vegetable
+vegetables
 vegetal
 vegetarian
 vegetarianisms
@@ -51445,6 +51479,7 @@ wingspan
 wining
 winked
 winking
+winner
 winners
 winningly
 winnowers
