@@ -1279,6 +1279,7 @@ amigos
 amines
 amino
 aminoacidurias
+aminopterins
 amirates
 amitotic
 amitriptylines
@@ -2777,6 +2778,7 @@ attitudinise
 attitudinised
 attitudinises
 attitudinize
+attitudinizing
 attorn
 attorneyship
 attorneyships
@@ -4830,6 +4832,7 @@ bobolink
 bobolinks
 bobsleigh
 bobwhites
+bocces
 boccie
 boccies
 boccis
@@ -5831,6 +5834,7 @@ burrows
 bursa
 burse
 burseed
+burseeds
 bursted
 bursts
 burthen
@@ -6177,6 +6181,7 @@ calypsoes
 calypsos
 calypter
 calypters
+calyptras
 calyxes
 calzone
 camailed
@@ -6715,6 +6720,7 @@ catalo
 cataloged
 cataloger
 catalogues
+cataloguing
 catalos
 catalpa
 catalyses
@@ -7506,6 +7512,7 @@ chirrups
 chiru
 chirus
 chis
+chiseler
 chiselers
 chiselled
 chiseller
@@ -9949,6 +9956,7 @@ coverages
 coveralled
 covering
 covertnesses
+coverup
 coves
 covetable
 covins
@@ -10166,6 +10174,7 @@ creosotic
 crepiest
 crepitate
 crepitated
+crepitations
 crepuscles
 crepuscular
 crescendi
@@ -11491,6 +11500,7 @@ defrost
 defrosted
 defroster
 defrosters
+deft
 deftest
 defuelled
 defund
@@ -11685,6 +11695,7 @@ demoiselle
 demolishers
 demolishment
 demolitionists
+demon
 demonesses
 demonetizes
 demoniacally
@@ -15121,6 +15132,7 @@ epizootiologic
 eponyms
 epopees
 epos
+eposes
 epoxidizing
 epoxy
 epsilonic
@@ -16833,6 +16845,7 @@ fishtails
 fishway
 fishways
 fishwives
+fishworms
 fissility
 fissionability
 fissiped
@@ -17917,6 +17930,7 @@ frozenly
 frozennesses
 fructifying
 fructoses
+frugality
 frugs
 fruitage
 fruitages
@@ -19408,6 +19422,7 @@ gravestone
 graveyard
 gravida
 gravidae
+gravidity
 gravimeters
 gravimetrically
 gravimetry
@@ -19600,11 +19615,13 @@ groundlessness
 groundlings
 groundmass
 groundmasses
+groundsels
 groundswell
 groundswells
 groundwaters
 groundwood
 groundworks
+group
 grouper
 grouses
 grouted
@@ -20359,6 +20376,7 @@ headgears
 headhunt
 headhunter
 headhunts
+headier
 headily
 headiness
 heading
@@ -20960,6 +20978,7 @@ hogmenays
 hognoses
 hognuts
 hogtied
+hoise
 hoist
 hoisted
 hoisters
@@ -22046,6 +22065,7 @@ impairer
 impairers
 impairment
 impairments
+impairs
 impalement
 impales
 impaling
@@ -23142,6 +23162,7 @@ interferer
 interferometry
 interfiber
 interfiles
+interfiling
 interflow
 interflowed
 interfluvial
@@ -25074,6 +25095,7 @@ launching
 launchpads
 launderers
 launderette
+laundering
 laundress
 laundrette
 laundrettes
@@ -32899,6 +32921,7 @@ patinized
 patins
 patissier
 patissiers
+patnesses
 patootie
 patriarchal
 patriarchies
@@ -34867,6 +34890,7 @@ portative
 portcullis
 portend
 portending
+portent
 porterage
 porterhouses
 porticoed
@@ -36656,6 +36680,7 @@ pyromorphite
 pyromorphites
 pyrones
 pyronines
+pyrophoric
 pyrosises
 pyrotechnic
 pyrotechnical
@@ -37246,6 +37271,7 @@ ratsbane
 rattail
 ratteen
 rattening
+ratting
 rattish
 rattle
 rattlebox
@@ -38307,6 +38333,7 @@ relaxants
 relaxation
 relaxed
 relearned
+releasable
 releasing
 relegated
 relegating
@@ -38898,6 +38925,7 @@ respectfully
 respecting
 respelt
 respirable
+respire
 respiritualized
 respirometric
 respirometries
@@ -40626,6 +40654,7 @@ schatchen
 schav
 schavs
 schedular
+schedule
 scheduled
 schedulers
 schedules
@@ -41384,6 +41413,7 @@ serendipitous
 serenenesses
 serenest
 serest
+serge
 sergeancy
 sergeant
 serger
@@ -42614,6 +42644,7 @@ slovenlier
 slovenly
 slovens
 slow
+slowdown
 slowed
 slower
 slownesses
@@ -43009,6 +43040,7 @@ software
 sogged
 sogginesses
 soignee
+soil
 soiling
 soilless
 soilures
@@ -43739,6 +43771,7 @@ spritsails
 spritzed
 spritzer
 sprocket
+sprouted
 sprouting
 spruce
 sprucer
@@ -48212,6 +48245,7 @@ tumblebugs
 tumbled
 tumbler
 tumblers
+tumblersful
 tumbrel
 tumefies
 tumefying
@@ -51416,6 +51450,7 @@ wholesaled
 wholesaler
 wholesales
 wholesome
+whomever
 whomp
 whomped
 whomping
