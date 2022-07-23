@@ -1018,6 +1018,7 @@ allegrettos
 allegros
 alleles
 allelic
+allergen
 allergenic
 allergenicity
 allergins
@@ -3224,6 +3225,7 @@ bairns
 baitfishes
 bakeapple
 baked
+bakelite
 bakemeats
 bakers
 bakeshop
@@ -4282,6 +4284,7 @@ binomially
 binomials
 bins
 bint
+binturong
 binucleated
 bioacoustics
 bioactive
@@ -5377,6 +5380,7 @@ brimstony
 brindled
 brine
 bringer
+brings
 brinier
 briniest
 brininesses
@@ -7144,6 +7148,7 @@ charladies
 charlatanry
 charley
 charlotte
+charm
 charmed
 charmeuse
 charmeuses
@@ -7637,6 +7642,7 @@ chukkas
 chummier
 chump
 chumped
+chumps
 chumship
 chumships
 chunkier
@@ -8069,6 +8075,7 @@ clubhands
 clubhauling
 clubhead
 clubheads
+clubhouses
 clubroot
 clubs
 cluing
@@ -9252,6 +9259,7 @@ contiguously
 continentals
 continently
 contingencies
+continual
 continually
 continuant
 continuate
@@ -10178,6 +10186,7 @@ crockpot
 crocodiles
 croft
 crofters
+crofts
 croissant
 crojik
 crojiks
@@ -11049,6 +11058,7 @@ deaved
 deaves
 debacles
 debagged
+debagging
 debarked
 debarkers
 debarment
@@ -16345,6 +16355,7 @@ feral
 ferbam
 feretory
 ferlies
+ferly
 fermate
 fermentations
 fermented
@@ -19027,6 +19038,7 @@ goodby
 goodbyes
 goodbys
 goodman
+goodmen
 goodness
 goof
 goofballs
@@ -20948,6 +20960,7 @@ homosocialities
 homospories
 homothallic
 homozygosities
+homozygote
 homozygotes
 homozygous
 homozygously
@@ -21248,6 +21261,7 @@ humbled
 humbleness
 humblingly
 humbuggeries
+humbugging
 humdinger
 humdingers
 humectants
@@ -21882,6 +21896,7 @@ impacts
 impainted
 impairer
 impairers
+impairment
 impairments
 impalement
 impales
@@ -22139,6 +22154,7 @@ inburst
 inbye
 incalculable
 incalescences
+incalescent
 incandesce
 incandescent
 incandescents
@@ -23057,6 +23073,7 @@ internally
 internationals
 interne
 internecine
+internees
 interneurons
 internist
 internments
@@ -24876,6 +24893,7 @@ launched
 launcher
 launching
 launchpads
+launderers
 launderette
 laundress
 laundrette
@@ -24895,12 +24913,14 @@ lavaliers
 lavash
 lavashes
 lavatories
+lave
 laved
 laveered
 laverock
 laving
 lawbook
 lawbooks
+lawbreakings
 lawgiver
 lawgivings
 lawless
@@ -25428,6 +25448,7 @@ linkable
 linkman
 linkmen
 links
+linksman
 linkups
 linkwork
 linnet
@@ -27745,6 +27766,7 @@ miscreated
 miscreation
 miscreations
 miscued
+miscutting
 misdate
 misdeal
 misdealing
@@ -28208,6 +28230,7 @@ monkeyish
 monkeypod
 monkfishes
 monks
+monkshood
 monoacids
 monoamines
 monocarpic
@@ -29945,6 +29968,7 @@ nonrailroad
 nonrandom
 nonrational
 nonreactive
+nonrecognition
 nonrecombinant
 nonreducing
 nonrefillable
@@ -30054,6 +30078,7 @@ norethindrones
 noris
 norites
 norland
+norm
 normalcy
 normalise
 normalities
@@ -30473,7 +30498,9 @@ oculars
 oculomotor
 odahs
 oddball
+oddest
 oddish
+oddly
 oddment
 odic
 odious
@@ -32276,6 +32303,7 @@ pantries
 pantropic
 pantropical
 pants
+pantsuit
 panty
 pantyhose
 panzer
@@ -34174,6 +34202,7 @@ plies
 plimsol
 plimsols
 plinkers
+pliocene
 pliofilm
 pliskie
 pliskies
@@ -36168,6 +36197,7 @@ punchboards
 puncheon
 puncher
 punches
+punchiest
 punchinello
 punchinellos
 punctated
@@ -38313,6 +38343,7 @@ replied
 replies
 replots
 replow
+replowing
 replumbing
 replunging
 replying
@@ -42979,6 +43010,7 @@ spadixes
 spaeings
 spaes
 spaghettilike
+spaghettis
 spahis
 spallable
 spalling
@@ -45209,6 +45241,7 @@ swaggie
 swaggies
 swagging
 swags
+swale
 swallow
 swallowers
 swamies
@@ -46029,6 +46062,7 @@ telphers
 temblor
 temped
 tempehs
+temperances
 temperas
 temperate
 tempested
@@ -47622,6 +47656,7 @@ tristezas
 tristful
 tristfully
 tristich
+trisulfide
 trisulfides
 tritely
 triteness
