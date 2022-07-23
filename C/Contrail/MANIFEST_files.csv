@@ -1,0 +1,3 @@
+contrail-kubernetes/contrail-schema.manifest at master - GitHub,https://github.com/Juniper/contrail-kubernetes/blob/master/cluster/contrail-schema.manifest
+contrail-kubernetes/redis.manifest at master - GitHub,https://github.com/Juniper/contrail-kubernetes/blob/master/cluster/redis.manifest
+/usr/share/salt-formulas/env/kubernetes/files/manifest/contrail ...,https://www.apt-browse.org/browse/debian/stretch/main/all/salt-formula-kubernetes/2016.12.1-1/file/usr/share/salt-formulas/env/kubernetes/files/manifest/contrail-vrouter-agent.manifest
