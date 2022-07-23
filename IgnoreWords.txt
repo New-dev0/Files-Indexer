@@ -6005,6 +6005,7 @@ cacomixls
 caconym
 cacophonous
 cacophonously
+cactus
 cadastre
 cadaver
 cadaverines
@@ -6450,6 +6451,7 @@ carb
 carbamates
 carbamino
 carbineers
+carbines
 carbinols
 carbohydrate
 carbolics
@@ -6469,6 +6471,7 @@ carboxylate
 carboxylating
 carboxylic
 carboxyls
+carbureted
 carburetted
 carburetting
 carburettor
@@ -7635,6 +7638,7 @@ chowed
 chowhounds
 chowing
 chows
+chowsed
 chresard
 chresards
 chrestomathies
@@ -8064,6 +8068,7 @@ cloaking
 cloakroom
 clobbering
 clocker
+clocking
 clocks
 cloddishnesses
 clodhoppers
@@ -8376,6 +8381,7 @@ coesites
 coeternal
 coeval
 coevolution
+coevolutionary
 coexecutor
 coexisted
 coexistent
@@ -10712,6 +10718,7 @@ cutty
 cutup
 cutups
 cutwork
+cuvette
 cyan
 cyanamide
 cyanamides
@@ -11586,6 +11593,7 @@ delighted
 delightedly
 delightedness
 delighter
+delightfully
 delights
 delightsome
 delime
@@ -12336,6 +12344,7 @@ diestocks
 diestrous
 diestrum
 diestrums
+diestrus
 diestruses
 dieted
 dieters
@@ -12541,6 +12550,7 @@ director
 directorate
 directorial
 directories
+directors
 directrices
 direfully
 direnesses
@@ -12771,6 +12781,7 @@ disgruntlement
 disgruntles
 disgruntling
 disguiser
+disguisers
 disgust
 disgustful
 dishabille
@@ -13638,6 +13649,7 @@ dropkick
 dropkicker
 droplet
 dropout
+dropouts
 droppable
 dropperfuls
 droppings
@@ -14369,6 +14381,7 @@ emanating
 emanator
 emancipated
 emancipates
+emancipationist
 emasculate
 emasculations
 embalm
@@ -14404,6 +14417,7 @@ embezzlers
 embezzles
 embitter
 embitters
+emblazing
 emblazoned
 emblazoner
 emblematizes
@@ -15387,6 +15401,7 @@ eths
 ethylate
 ethylated
 ethylbenzene
+ethylenic
 ethyne
 ethynyls
 etiolating
@@ -16280,6 +16295,7 @@ fatigues
 fatness
 fatshedera
 fatsoes
+fatten
 fattens
 fatter
 fattest
@@ -17134,6 +17150,7 @@ flowchart
 flowchartings
 flowed
 flowerage
+flowered
 flowerers
 flowerette
 flowerettes
@@ -21228,6 +21245,7 @@ horsehide
 horsehides
 horselaughs
 horsemanships
+horsepowers
 horsepox
 horsepoxes
 horseraces
@@ -24754,6 +24772,7 @@ lackadaisically
 lacked
 lackering
 lackluster
+lacks
 laconisms
 lacquer
 lacquerer
@@ -25976,6 +25995,7 @@ loppier
 lopsided
 lopsidedness
 lopsidednesses
+loral
 lorazepam
 lorazepams
 lordings
@@ -28435,6 +28455,7 @@ monodies
 monodisperse
 monodists
 monodrama
+monodramatic
 monody
 monoecious
 monofil
@@ -30049,6 +30070,7 @@ nonintercourses
 noninterest
 nonintersecting
 nonintoxicating
+nonintrusive
 nonirrigated
 nonirritant
 nonirritating
@@ -30680,6 +30702,7 @@ octupled
 octuples
 octyl
 oculars
+oculi
 oculomotor
 odahs
 oddball
@@ -32065,6 +32088,7 @@ overteaching
 overthick
 overthin
 overtiming
+overtire
 overtness
 overtnesses
 overtoiled
@@ -34420,6 +34444,7 @@ plosion
 plosions
 plosives
 plotlessness
+plotters
 plotzed
 plotzes
 ploughers
@@ -37929,6 +37954,7 @@ reexportation
 reexported
 reexports
 reexpose
+reexposures
 reexpressed
 ref
 refall
@@ -39946,6 +39972,7 @@ rushers
 rushier
 rushiest
 rushlight
+rusine
 rusks
 russet
 rustic
@@ -39998,6 +40025,7 @@ saccate
 saccharase
 saccharases
 saccharic
+saccharides
 saccharified
 saccharimeters
 saccharinity
@@ -41709,6 +41737,7 @@ shiers
 shiest
 shiftable
 shifter
+shiftiest
 shiftily
 shiftiness
 shiftinesses
@@ -45193,6 +45222,7 @@ superadds
 superagency
 superagent
 superagents
+superalloys
 superambitious
 superannuation
 superathletes
@@ -45625,6 +45655,7 @@ swirlingly
 swishers
 swishes
 swishing
+swishingly
 swiss
 switchbacks
 switchboards
@@ -46951,6 +46982,7 @@ tighteners
 tightfistedness
 tightly
 tightrope
+tightwire
 tightwires
 tigon
 tigons
@@ -50354,6 +50386,7 @@ versions
 verso
 verst
 versts
+vertebrate
 verticality
 verticals
 verticillate
@@ -51441,6 +51474,7 @@ widowerhood
 widowers
 widowhood
 widows
+widths
 widthwise
 wieldable
 wielders
@@ -51923,6 +51957,7 @@ xeroxing
 xeruses
 xi
 xiphoids
+xylem
 xylems
 xylidine
 xylitol
