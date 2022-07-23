@@ -603,6 +603,7 @@ aerograms
 aerolitic
 aeromechanics
 aerometers
+aeronaut
 aeronautical
 aeronautics
 aeronomers
@@ -2780,6 +2781,7 @@ aucuba
 audaciousness
 audacity
 audad
+audads
 audibility
 audible
 audiences
@@ -3281,6 +3283,7 @@ baloneys
 bals
 balsamed
 balustrades
+bamboo
 bamboos
 bamboozle
 bamboozlements
@@ -8499,6 +8502,7 @@ colonialisms
 colonialist
 colonialistic
 colonialists
+colonializing
 colonially
 colonies
 colonisation
@@ -9318,6 +9322,7 @@ convents
 conventuals
 converged
 convergences
+convergencies
 conversances
 conversancies
 conversancy
@@ -11352,6 +11357,7 @@ defoamed
 defoamer
 defocus
 defocussed
+defocusses
 defoliate
 defoliates
 defoliation
@@ -11549,6 +11555,7 @@ demilitarize
 demilunes
 demimondes
 demise
+demisemiquaver
 demises
 demissions
 demitasse
@@ -12731,6 +12738,7 @@ dismals
 dismantlements
 dismantles
 dismasting
+dismays
 dismemberments
 dismissive
 disobeyer
@@ -14210,6 +14218,7 @@ elmy
 elocution
 elocutionists
 eloigned
+eloigner
 eloigning
 eloinment
 elongation
@@ -17252,6 +17261,7 @@ forays
 forbad
 forbear
 forbearance
+forbearers
 forbearing
 forbears
 forbids
@@ -18060,6 +18070,7 @@ gallops
 galluses
 galop
 galoshed
+galumphs
 galvanic
 galvanises
 galvanization
@@ -18888,6 +18899,7 @@ gneissose
 gnocchi
 gnomelike
 gnomic
+gnomist
 gnomons
 gnoses
 gnosticisms
@@ -19009,6 +19021,7 @@ gooral
 goos
 goose
 gooseberries
+goosed
 goosefoots
 goosegrasses
 gooseherds
@@ -22931,6 +22944,7 @@ interfold
 interfolds
 interfusing
 interfusions
+intergeneric
 interglacial
 intergrade
 intergraded
@@ -25953,6 +25967,7 @@ lustering
 lusterless
 lusterwares
 lustily
+lustrates
 lustrations
 lustred
 lustring
@@ -25990,6 +26005,7 @@ lymphatics
 lymphoblast
 lymphocytosis
 lymphographic
+lymphography
 lymphomatoses
 lymphs
 lynched
@@ -27313,6 +27329,7 @@ microspheres
 microsporangia
 microsporangium
 microspore
+microstates
 microstructural
 microswitch
 microtechnique
@@ -29599,6 +29616,7 @@ nonbook
 nonbrand
 nonbreathing
 nonbreeding
+noncaloric
 noncampus
 noncancerous
 noncandidacy
@@ -30058,6 +30076,7 @@ nother
 nothing
 nothingness
 nothingnesses
+noticed
 noticers
 notices
 notifier
@@ -30784,6 +30803,7 @@ orectic
 oreide
 oreodonts
 organa
+organdie
 organelles
 organically
 organicist
@@ -31277,6 +31297,7 @@ outsinging
 outsinned
 outsized
 outskated
+outskirts
 outslick
 outsmelt
 outsmile
@@ -33698,6 +33719,7 @@ pilaffs
 pilar
 pilau
 pileate
+pileated
 pileous
 piles
 pileum
@@ -35534,6 +35556,7 @@ professedly
 professes
 professionalize
 professor
+professorates
 professorial
 professoriates
 proffered
@@ -36773,6 +36796,7 @@ ramosity
 rampageousness
 rampager
 rampages
+rampancy
 rampantly
 rampart
 ramped
@@ -37414,6 +37438,7 @@ reddishness
 reddles
 redecorate
 redecoration
+redecorator
 reded
 rededicate
 redeemers
@@ -37752,6 +37777,7 @@ regionalists
 regionalized
 regionalizes
 regionals
+regisseurs
 registered
 registrants
 registration
@@ -38135,6 +38161,7 @@ rentabilities
 rentable
 rente
 rentes
+rentiers
 renumber
 renumbers
 renunciative
@@ -43679,6 +43706,7 @@ steerers
 steers
 steersman
 steersmen
+steeve
 steeves
 steeving
 stegosauruses
@@ -43787,6 +43815,7 @@ stickseed
 stickums
 sticky
 stictions
+stied
 stiffed
 stiffen
 stiffened
@@ -45784,6 +45813,7 @@ teahouses
 teakwood
 team
 teaming
+teammate
 teams
 tearaways
 teardrop
@@ -47134,6 +47164,7 @@ transcriptional
 transdermal
 transducer
 transducers
+transducing
 transected
 transection
 transects
@@ -47790,6 +47821,7 @@ tunic
 tunica
 tunicated
 tunics
+tuning
 tunnel
 tunneler
 tunnelers
@@ -49037,6 +49069,7 @@ unretire
 unretouched
 unreturnable
 unrevealed
+unreviewable
 unrevised
 unrevoked
 unrevolutionary
@@ -49591,6 +49624,7 @@ valour
 valpolicellas
 valuable
 valuablenesses
+valuated
 valuation
 value
 values
@@ -50032,6 +50066,7 @@ vignerons
 vignetters
 vignettist
 vignettists
+vigorousness
 vigors
 vigours
 vileness
