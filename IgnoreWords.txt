@@ -270,6 +270,7 @@ achlorhydria
 achondrite
 achondroplasias
 achromat
+achromatisms
 achromatize
 achromatizes
 achromats
@@ -2050,6 +2051,7 @@ apostolicities
 apostrophic
 apostrophising
 apostrophizes
+apothecaries
 apothece
 apothecium
 apothems
@@ -2904,6 +2906,7 @@ autographic
 autographically
 autographies
 autography
+autogyro
 autoharps
 autohypnosis
 autohypnotic
@@ -3430,6 +3433,7 @@ barkless
 barleys
 barmaid
 barman
+barmier
 barmy
 barn
 barning
@@ -3485,6 +3489,7 @@ bartending
 barterer
 bartisan
 bas
+basalt
 basaltes
 bascule
 baseboards
@@ -4385,6 +4390,7 @@ biparentally
 bipartisanisms
 biparty
 bipedalisms
+bipedalities
 biphasic
 bipinnate
 bipinnately
@@ -6136,6 +6142,7 @@ caloyers
 calpac
 calpacks
 calpacs
+calqued
 caltrap
 calumniations
 calumnies
@@ -9176,6 +9183,7 @@ consistences
 consistent
 consociate
 consociational
+consociations
 consolation
 consolidated
 consolidates
@@ -15201,6 +15209,7 @@ escalators
 escallops
 escaloping
 escapable
+escape
 escaped
 escapee
 escapees
@@ -15893,6 +15902,7 @@ extraditing
 extragalactic
 extralimital
 extraliterary
+extralogical
 extramarital
 extraordinaire
 extrapolated
@@ -16048,6 +16058,7 @@ fairishly
 fairleaders
 fairnesses
 fairway
+faithfulness
 faithfulnesses
 faithfuls
 faiths
@@ -17714,6 +17725,7 @@ freestyles
 freethinkers
 freeware
 freewheel
+freewheelers
 freewill
 freewrite
 freewriting
@@ -19613,6 +19625,7 @@ guanethidine
 guanidine
 guanidins
 guanines
+guanos
 guaranies
 guaranty
 guarddog
@@ -22611,6 +22624,7 @@ inferior
 infernally
 inferno
 inferrer
+infestant
 infesters
 infidelic
 infields
@@ -22676,6 +22690,7 @@ infringement
 infringers
 infringes
 infundibulum
+infuriates
 infuriations
 infuscate
 infused
@@ -22943,6 +22958,7 @@ instruments
 insubordinately
 insufficiencies
 insufficiency
+insufficient
 insufficiently
 insufflate
 insufflations
@@ -25202,6 +25218,7 @@ lengthen
 lengthener
 lengthiest
 lengthily
+lengthiness
 lengthwise
 leniences
 leniencies
@@ -30316,6 +30333,7 @@ nuisances
 nuked
 nukes
 null
+nullah
 nullified
 nullifiers
 nullifies
@@ -31506,6 +31524,7 @@ outswore
 outsworn
 outswum
 outtalked
+outtasking
 outthank
 outthanked
 outthanking
@@ -32560,6 +32579,7 @@ parbuckle
 parbuckling
 parcel
 parceling
+parcenaries
 parch
 parchesis
 parchment
@@ -32822,6 +32842,7 @@ pausal
 pauser
 pausers
 pausing
+paved
 pavement
 pavilion
 pavilioned
@@ -33168,6 +33189,7 @@ peregrine
 peremptory
 perennated
 perennates
+perennation
 perennations
 perennial
 perestroikas
@@ -34494,6 +34516,7 @@ policeman
 policers
 policies
 policy
+policyholders
 poliomyelitis
 polios
 polisher
@@ -36067,6 +36090,7 @@ protruded
 protrudes
 protrusion
 protrusions
+protuberant
 protuberantly
 proudest
 proudful
@@ -36694,6 +36718,7 @@ querists
 quern
 querulous
 querulousness
+query
 question
 questionary
 questioned
@@ -37753,6 +37778,7 @@ reeded
 reedifies
 reediness
 reedit
+reedited
 reediting
 reedition
 reeditions
@@ -37878,6 +37904,7 @@ reflies
 refloat
 reflooding
 reflowering
+refluences
 refluxed
 refly
 refocused
@@ -41429,6 +41456,7 @@ shallower
 shallows
 shamable
 shamably
+shaman
 shamanic
 shamanistic
 shamble
@@ -42838,6 +42866,7 @@ socket
 socketed
 sodaless
 sodalities
+sodamides
 sodbusters
 soddened
 soddenness
@@ -43541,6 +43570,7 @@ sportsmanly
 sportswomen
 sportswritings
 sporulates
+sporulating
 spotlessly
 spotlighting
 spotlights
@@ -45115,6 +45145,7 @@ supereminences
 supereminent
 superette
 superexpresses
+superfan
 superfast
 superfatted
 superficial
@@ -45814,6 +45845,7 @@ talcums
 talebearer
 talented
 talentless
+taler
 talesmen
 taleysim
 tali
@@ -47013,6 +47045,7 @@ toileted
 toiletries
 toilsomenesses
 toit
+tokamak
 tokamaks
 toked
 token
@@ -48465,6 +48498,7 @@ unanimity
 unanimous
 unanimously
 unannoyed
+unanswerable
 unanswerably
 unanswered
 unapparent
@@ -51259,6 +51293,7 @@ whoosh
 whooshes
 whopper
 whoremongers
+whores
 whoresons
 whorishly
 whortleberries
