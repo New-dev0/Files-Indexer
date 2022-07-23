@@ -746,6 +746,7 @@ aggadic
 agger
 aggiornamentos
 agglomerates
+agglomerations
 agglutinability
 agglutinated
 agglutinations
@@ -753,6 +754,7 @@ agglutinogenic
 agglutinogens
 aggrade
 aggraded
+aggrandising
 aggravates
 aggregateness
 aggregating
@@ -2474,6 +2476,7 @@ asceticisms
 ascidia
 ascites
 asclepiads
+ascocarpic
 ascomycete
 ascomycetes
 ascomycetous
@@ -3750,6 +3753,7 @@ bedeafens
 bedeck
 bedell
 bedevil
+bedewed
 bedews
 bedfellow
 bedgown
@@ -6376,6 +6380,7 @@ caplin
 capo
 caponier
 caponiers
+caponizing
 caporal
 capote
 capotes
@@ -6508,6 +6513,7 @@ careerism
 careerists
 careers
 careful
+carefulnesses
 caregiving
 caregivings
 carelessly
@@ -8313,6 +8319,7 @@ codders
 coddling
 code
 codebook
+codebtors
 coded
 codefendant
 codeless
@@ -9933,6 +9940,7 @@ covenantors
 cover
 coverage
 coverages
+coveralled
 covering
 covertnesses
 coves
@@ -10260,6 +10268,7 @@ crone
 crook
 crooked
 crookednesses
+crookeries
 croon
 cropped
 croppers
@@ -11032,6 +11041,7 @@ datura
 daube
 daubers
 daubes
+daubiest
 daubing
 daughters
 daunomycin
@@ -14580,6 +14590,7 @@ enclosure
 encodable
 encoded
 encodes
+encoding
 encomiast
 encomium
 encompassment
@@ -14828,6 +14839,7 @@ enslavers
 enslaves
 ensnare
 ensnaring
+ensnarled
 ensorcel
 ensorcellment
 ensorcellments
@@ -20672,6 +20684,7 @@ hes
 hesitance
 hesitaters
 hesitator
+hessonite
 hessonites
 hetaeric
 hetairas
@@ -20914,6 +20927,7 @@ hodden
 hodoscopes
 hods
 hoelike
+hoers
 hoes
 hog
 hogan
@@ -21090,6 +21104,7 @@ honeybuns
 honeycombing
 honeydew
 honeydews
+honeyeater
 honeyed
 honeymoons
 honeys
@@ -21687,6 +21702,7 @@ hypoing
 hypokalemia
 hypokalemic
 hypomagnesemia
+hypomorph
 hypomorphs
 hyponasty
 hyponyms
@@ -21791,6 +21807,7 @@ idiopathies
 idiotical
 idiotypes
 idle
+idleness
 idler
 idly
 idocrase
@@ -22367,6 +22384,7 @@ inconnu
 inconnus
 inconscient
 inconsequently
+inconsiderable
 inconsiderate
 inconsistencies
 inconsonances
@@ -24464,6 +24482,7 @@ kingbirds
 kingbolts
 kingfisher
 kingfishes
+kinghoods
 kinging
 kinglets
 kinglinesses
@@ -26537,6 +26556,7 @@ manfulness
 mangabeys
 mangaby
 manganese
+manganeses
 manganites
 manganous
 mange
@@ -27194,6 +27214,7 @@ mensh
 menstruate
 menstruating
 menstruations
+mensural
 mensurations
 mental
 mentalism
@@ -30982,6 +31003,7 @@ optimizers
 optimizes
 optionalities
 optionals
+optionee
 options
 optoelectronic
 optometers
@@ -31131,6 +31153,7 @@ orthoclase
 orthodontias
 orthodontically
 orthodontist
+orthodontists
 orthodox
 orthogenetic
 orthogonalities
@@ -36941,6 +36964,7 @@ radicle
 radicles
 radio
 radioactively
+radioactivities
 radioautographs
 radiobiologic
 radiobiologies
@@ -40218,6 +40242,7 @@ sandiest
 sanding
 sandlings
 sandlot
+sandpainting
 sandpapery
 sandpeeps
 sandpit
@@ -41103,6 +41128,7 @@ selenite
 selenitic
 seleniums
 selenologist
+selfdom
 selfed
 selfheals
 selfless
@@ -43244,6 +43270,7 @@ spaes
 spaghettilike
 spaghettis
 spahis
+spall
 spallable
 spalling
 spambot
@@ -43804,6 +43831,7 @@ stables
 stablings
 stablish
 stablishing
+stablishment
 stablishments
 stacked
 stacking
@@ -44221,6 +44249,7 @@ stocktaking
 stocktakings
 stockyard
 stodgier
+stodgily
 stodging
 stogey
 stoically
@@ -44878,6 +44907,7 @@ substantivize
 substantivizing
 substate
 substituted
+substituting
 substitutions
 substrata
 substructural
@@ -47579,6 +47609,7 @@ transmissometer
 transmittances
 transmitted
 transmitters
+transmogrifies
 transmutative
 transnational
 transonic
@@ -47784,6 +47815,7 @@ trichomonacide
 trichopteran
 trichopterans
 trichosis
+trichotomous
 trichroic
 trichrome
 tricing
@@ -48750,6 +48782,7 @@ unconformably
 unconformities
 unconscionably
 unconsciously
+unconsciousness
 unconsidered
 unconsolidated
 uncontemplated
@@ -49982,6 +50015,7 @@ valiantly
 valid
 validating
 validity
+validnesses
 valises
 vallation
 valleculae
@@ -50313,6 +50347,7 @@ versatility
 verse
 versifications
 versified
+versifier
 versifying
 version
 versions
