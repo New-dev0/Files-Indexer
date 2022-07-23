@@ -1744,6 +1744,7 @@ antick
 anticlassical
 anticlericals
 anticlines
+anticodon
 anticolonialist
 anticommunisms
 anticommunists
@@ -4220,6 +4221,7 @@ bicyclists
 biddabilities
 biddability
 bidder
+bidders
 bidding
 bidets
 bidi
@@ -5255,6 +5257,7 @@ brakiest
 braking
 bramble
 brambled
+bran
 branchia
 branchier
 branching
@@ -10980,6 +10983,7 @@ damping
 dampnesses
 damselfish
 damselflies
+danazols
 danceable
 dandiacal
 dandies
@@ -11995,6 +11999,7 @@ desirousnesses
 desktop
 desman
 desmid
+desmids
 desmoid
 desmoids
 desolators
@@ -15775,6 +15780,7 @@ exoskeleton
 exoskeletons
 exosphere
 exospore
+exoterically
 exothermicities
 exothermicity
 exoticism
@@ -15816,6 +15822,7 @@ expeller
 expelling
 expendabilities
 expendable
+expended
 expends
 expensed
 experientially
@@ -16077,6 +16084,7 @@ factualisms
 factualist
 facture
 faculty
+fad
 faddishness
 faddishnesses
 faddism
@@ -16447,6 +16455,7 @@ feminacies
 feminacy
 feminazi
 feminines
+feminism
 feministic
 feminity
 feminizations
@@ -19024,6 +19033,7 @@ glues
 glueynesses
 glugged
 glum
+glumness
 glumpier
 glumpily
 glunches
@@ -19630,6 +19640,7 @@ groutier
 grouting
 grouts
 grove
+groveled
 grovelers
 groveless
 grovelingly
@@ -20522,6 +20533,7 @@ heliostat
 heliotrope
 heliotropisms
 heliotype
+heliotypes
 heliotyping
 helipad
 heliports
@@ -21460,6 +21472,7 @@ humper
 humph
 humpless
 humungous
+humvees
 hunch
 hunchbacks
 hunched
@@ -22092,6 +22105,7 @@ impawned
 impawns
 impeach
 impeachers
+impeccabilities
 impeccably
 impeccant
 impecuniosities
@@ -24693,6 +24707,7 @@ koussos
 kremlin
 kremlinologies
 kremlinologists
+kremlinology
 kreplach
 kreutzers
 krill
@@ -26858,6 +26873,7 @@ masterdom
 masterdoms
 mastered
 masteries
+masterliness
 masterlinesses
 mastermind
 masterminded
@@ -30345,6 +30361,7 @@ nosologies
 nosology
 nostalgias
 nostalgic
+nostalgics
 nostalgist
 nostalgists
 nosy
@@ -31601,6 +31618,7 @@ outsized
 outskated
 outskirts
 outslick
+outslicking
 outsmelt
 outsmile
 outsmoked
@@ -32830,6 +32848,7 @@ passagework
 passageworks
 passalong
 passband
+passbook
 passe
 passed
 passee
@@ -36670,6 +36689,7 @@ pyrology
 pyrolyses
 pyrolysis
 pyrolyzable
+pyrolyzates
 pyrolyze
 pyrolyzers
 pyromancy
@@ -37392,6 +37412,7 @@ reallots
 reallotting
 really
 realpolitik
+realter
 realtering
 ream
 reamer
@@ -37845,6 +37866,7 @@ redisposition
 redissolving
 redistilled
 redistributions
+redistrict
 redistricts
 redivorced
 redlegs
@@ -37935,6 +37957,7 @@ reemits
 reemphasis
 reemphasize
 reemphasized
+reemphasizing
 reemploy
 reemployment
 reemployments
@@ -38347,6 +38370,7 @@ relevances
 relevantly
 releve
 reliabilities
+reliability
 reliables
 reliances
 reliantly
@@ -38627,6 +38651,7 @@ replow
 replowing
 replumbing
 replunging
+reply
 replying
 repolarization
 repolish
@@ -39241,6 +39266,7 @@ reverenced
 reverencer
 reverencers
 reverences
+reverential
 reverers
 reverie
 reveries
@@ -41350,6 +41376,7 @@ sentimentally
 sentimo
 sentinels
 sentries
+sepaloid
 separability
 separate
 separately
@@ -42352,6 +42379,7 @@ skelter
 skeltered
 skenes
 skep
+skeps
 skeptic
 skeptical
 skeptics
@@ -42537,6 +42565,7 @@ sleekness
 sleeky
 sleepiest
 sleepings
+sleepwear
 sleepyheads
 sleetier
 sleeting
@@ -44166,6 +44195,7 @@ stepstool
 steradians
 stercoraceous
 sterculia
+stere
 stereogram
 stereograms
 stereographed
@@ -45111,6 +45141,7 @@ suggest
 suggesters
 suggestions
 suggestive
+sughing
 sughs
 suicided
 suicides
@@ -45501,6 +45532,7 @@ surnamers
 surpasser
 surpassers
 surpassingly
+surpliced
 surplus
 surplusages
 surpluses
@@ -48824,6 +48856,7 @@ unclutter
 uncoalesced
 uncoalesces
 uncoalescing
+uncoating
 uncoatings
 uncocks
 uncoerced
@@ -49494,6 +49527,7 @@ unquestionably
 unquestioningly
 unquiet
 unquiets
+unquoted
 unraised
 unraveling
 unravelled
@@ -51720,6 +51754,7 @@ womanish
 womanishness
 womanising
 womanize
+womankind
 womanless
 womanliest
 womanlike
