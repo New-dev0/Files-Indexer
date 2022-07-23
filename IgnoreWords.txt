@@ -1816,6 +1816,7 @@ antiobscenity
 antiozonant
 antipersonnel
 antiperspirants
+antipesticide
 antiphlogistic
 antiphons
 antiplague
@@ -2452,6 +2453,7 @@ ascites
 asclepiads
 ascomycete
 ascomycetes
+ascomycetous
 ascorbate
 ascorbates
 ascorbic
@@ -4251,6 +4253,7 @@ bimetals
 bimethyl
 bimethyls
 bimodal
+bimolecular
 bimonthly
 binately
 binational
@@ -11500,6 +11503,7 @@ demagogue
 demagogueries
 demagoguing
 demandable
+demandant
 demander
 demandingness
 demantoids
@@ -12684,6 +12688,7 @@ disinvite
 disinvited
 disinviting
 disjoin
+disjointedness
 disjunctions
 disjunctive
 disjunctives
@@ -13127,6 +13132,7 @@ donnikers
 donning
 donor
 donors
+donorship
 donsie
 donsy
 donzels
@@ -15807,6 +15813,7 @@ exulted
 exultingly
 exurb
 exurbanite
+exurbanites
 exuviates
 exuvium
 eyeballed
@@ -15928,6 +15935,7 @@ faiths
 fakery
 fakirs
 falafels
+falbala
 falbalas
 falcate
 falces
@@ -17635,6 +17643,7 @@ frigidness
 frigidnesses
 friller
 frillers
+frillier
 fringing
 frisbees
 friseur
@@ -18394,6 +18403,7 @@ geoids
 geologic
 geologist
 geologize
+geologized
 geomagnetically
 geomantic
 geometers
@@ -18654,6 +18664,7 @@ glaring
 glaringnesses
 glary
 glasnost
+glasnosts
 glass
 glassblower
 glassblowing
@@ -19552,6 +19563,7 @@ gumptious
 gumtree
 gumweed
 gumweeds
+gumwoods
 gun
 gunfire
 gunites
@@ -21212,6 +21224,7 @@ hurdles
 hurlers
 hurleys
 hurlings
+hurrayed
 hurricane
 hurricanes
 hurried
@@ -22443,6 +22456,7 @@ infixes
 infixing
 inflamers
 inflames
+inflammable
 inflammatory
 inflate
 inflating
@@ -25444,6 +25458,7 @@ liveliest
 liveliness
 liven
 livener
+liveners
 livening
 liver
 livered
@@ -29636,6 +29651,7 @@ nonelection
 nonelections
 nonelectronic
 nonencapsulated
+nonending
 nonenergy
 nonengagement
 nonentities
@@ -29756,6 +29772,7 @@ nonneural
 nonnoble
 nonnovel
 nonnuclear
+nonnucleated
 nonnumerical
 nonobjective
 nonobjectivism
@@ -30560,6 +30577,7 @@ ooze
 oozed
 ooziest
 opacified
+opacifies
 opalescent
 opalescently
 opalesces
@@ -32746,6 +32764,7 @@ penciler
 pencillers
 pencils
 pend
+pending
 pendular
 pendulousnesses
 pendulum
@@ -33363,6 +33382,7 @@ photogeologic
 photogeologist
 photogrammetry
 photographer
+photographers
 photographic
 photographs
 photoinduction
@@ -33612,6 +33632,7 @@ pilau
 pileate
 pileous
 piles
+pileum
 pilferages
 pilfered
 pilferers
@@ -35019,6 +35040,7 @@ premoral
 premunitions
 premycotic
 prenames
+prenatal
 prenomen
 prenomens
 prenominated
@@ -35088,6 +35110,7 @@ preregisters
 preregistration
 prerenal
 prerequire
+prerequisites
 prerevisionist
 prerinsed
 prerinsing
@@ -38618,6 +38641,7 @@ retinoid
 retinted
 retinting
 retinue
+retirant
 retire
 retiredness
 retirednesses
@@ -39366,6 +39390,7 @@ rower
 rowlocks
 rowth
 rowths
+royalmast
 royalties
 royalty
 rubaboo
@@ -41175,6 +41200,7 @@ sheerest
 sheering
 sheerness
 sheers
+sheesh
 sheeter
 sheeting
 sheetings
@@ -41692,6 +41718,7 @@ simultaneity
 simultaneous
 simultaneously
 since
+sinciputs
 sinew
 sinewed
 sinewless
@@ -43050,6 +43077,7 @@ spirituals
 spirituous
 spirochetes
 spirogyra
+spiroid
 spirometer
 spirometric
 spirometries
@@ -44766,6 +44794,7 @@ superjumbo
 superjumbos
 superlativeness
 superlies
+superlight
 superliners
 superloyalists
 superlunar
@@ -45549,6 +45578,7 @@ tarboosh
 tarbush
 tarbushes
 tardigrade
+tardily
 tardyon
 tared
 targetable
@@ -47505,6 +47535,7 @@ troweler
 trowelers
 troweling
 troweller
+trowths
 truancies
 truantries
 truants
@@ -47591,6 +47622,7 @@ tubeless
 tubercles
 tuberculars
 tuberculated
+tuberculoid
 tuberculoses
 tuberculous
 tuberoid
@@ -48477,6 +48509,7 @@ unearthliest
 unearthliness
 unearthlinesses
 unease
+uneasiest
 uneasy
 uneconomical
 uneducated
@@ -50093,6 +50126,7 @@ vocalist
 vocalnesses
 vocals
 vocationalism
+vocationalists
 vocationally
 voces
 vociferator
@@ -51073,6 +51107,7 @@ wonderful
 wonderfully
 wonderfulness
 wonderland
+wonderlands
 wonk
 wonkiest
 wonky
