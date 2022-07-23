@@ -1564,6 +1564,7 @@ animation
 animations
 animatism
 animator
+animators
 animatronic
 animatronically
 anime
@@ -2796,6 +2797,7 @@ audiology
 audiometers
 audiometric
 audiotaped
+audiotapes
 auditees
 audition
 auditories
@@ -3188,6 +3190,7 @@ baddie
 badged
 badgerly
 badinages
+badlands
 badman
 badmen
 badmintons
@@ -5706,6 +5709,7 @@ bunging
 bungle
 bunglers
 bunk
+bunkers
 bunkmate
 bunkums
 bunns
@@ -6590,6 +6594,7 @@ cashes
 cashews
 cashing
 cashless
+cashmeres
 casimeres
 casing
 casino
@@ -7090,6 +7095,7 @@ chanting
 chap
 chaparajos
 chaparejos
+chaparrals
 chapati
 chapatis
 chapbooks
@@ -8120,6 +8126,7 @@ coarseness
 coarsenesses
 coarsens
 coarsest
+coassumes
 coast
 coastal
 coastally
@@ -10814,6 +10821,7 @@ dainty
 dairying
 daishikis
 daisied
+daisies
 dakoities
 dakoits
 dal
@@ -12355,6 +12363,7 @@ dinger
 dinghies
 dingier
 dingiest
+dinginesses
 dingle
 dingoes
 dinking
@@ -15864,6 +15873,7 @@ eyeblinks
 eyebolts
 eyehooks
 eyelets
+eyeletting
 eyelike
 eyepoppers
 eyes
@@ -17411,6 +17421,7 @@ formalnesses
 formals
 formats
 formatters
+formee
 former
 formerly
 formic
@@ -20481,6 +20492,7 @@ heritor
 heritors
 herm
 hermaean
+hermaphrodite
 hermeneutically
 hermetic
 hermeticisms
@@ -21415,6 +21427,7 @@ hymnodist
 hyoidal
 hyoidean
 hyoids
+hyoscyamine
 hypabyssal
 hypabyssally
 hypanthium
@@ -21671,6 +21684,7 @@ ignoramuses
 ignorances
 ignorant
 ignorantnesses
+ignore
 iguanid
 ihrams
 ikons
@@ -24539,6 +24553,7 @@ laceless
 lacelike
 lacer
 lacerated
+laceration
 lacerations
 lacewings
 lacewood
@@ -27062,6 +27077,7 @@ mesencephalic
 mesenchymes
 mesentera
 mesenteron
+mesh
 meshiest
 meshing
 mesically
@@ -27684,6 +27700,7 @@ miscegenations
 miscellanea
 miscellanist
 mischannelled
+mischarges
 mischarging
 mischievous
 mischievously
@@ -28002,6 +28019,7 @@ moaners
 moaningly
 moat
 moats
+mobbishly
 mobcap
 mobcaps
 mobilises
@@ -29393,6 +29411,7 @@ nicer
 niceties
 niche
 niches
+nick
 nickeling
 nickelous
 nicker
@@ -35036,6 +35055,7 @@ prefigurement
 prefile
 prefiled
 prefire
+prefires
 prefiring
 prefix
 prefixes
@@ -36631,6 +36651,7 @@ rachial
 rachides
 rachitides
 racialize
+racialized
 racializes
 racially
 racier
@@ -36878,6 +36899,7 @@ rasers
 rashest
 raspberries
 raspier
+raspiest
 raspinesses
 rasping
 raspingly
@@ -37001,6 +37023,7 @@ reactionaries
 reactivating
 reactivation
 reactiveness
+reactivenesses
 reactor
 reactors
 readableness
@@ -39265,6 +39288,7 @@ robustiously
 robustiousness
 rocaille
 rocambole
+rochets
 rockabies
 rockabilly
 rocker
@@ -39844,7 +39868,9 @@ saltatory
 saltboxes
 saltbush
 salter
+saltiers
 saltish
+saltpans
 saltpeter
 saltpetre
 salts
@@ -40970,6 +40996,7 @@ separate
 separately
 separates
 separating
+separatist
 separator
 sepic
 sepiolite
@@ -41215,6 +41242,7 @@ shamanic
 shamanistic
 shamble
 shameable
+shamefaced
 shamefully
 shamefulnesses
 shamelessnesses
@@ -43390,6 +43418,7 @@ spurious
 spuriously
 spuriousness
 spurners
+spurns
 spurrer
 spurrers
 spurtle
@@ -43463,6 +43492,7 @@ squishing
 squoosh
 squooshed
 squooshes
+squooshiest
 sraddha
 sradha
 sri
@@ -44368,6 +44398,7 @@ subframe
 subfreezing
 subfusc
 subgenera
+subglacial
 subglacially
 subgoal
 subgovernment
@@ -44394,6 +44425,7 @@ subject
 subjecting
 subjectivise
 subjectivised
+subjectivism
 subjectivist
 subjectivizes
 subjectivizing
@@ -45000,6 +45032,7 @@ supine
 supinely
 supinenesses
 supped
+supplant
 supplantations
 supplanters
 supplants
@@ -48986,6 +49019,7 @@ unpiled
 unpins
 unplaced
 unplaited
+unplaits
 unplayed
 unpleasantly
 unpleased
@@ -50780,6 +50814,7 @@ weirdies
 weirding
 weirdly
 weirdnesses
+weirds
 weisenheimers
 welches
 welcomenesses
