@@ -878,6 +878,7 @@ alanin
 alanins
 alans
 alanyls
+alar
 alarmed
 alarmisms
 alarmist
@@ -4912,6 +4913,7 @@ bonnocks
 bonny
 bonobo
 bonsai
+bonspell
 bonspells
 bonteboks
 bonuses
@@ -8368,6 +8370,7 @@ coinferred
 coinfers
 coinhere
 coinheres
+coinhering
 coinmate
 coinmates
 coins
@@ -11324,6 +11327,7 @@ definitely
 definiteness
 definitenesses
 definitional
+definitive
 definitively
 definitives
 definitizing
@@ -11525,6 +11529,7 @@ demasted
 deme
 demeaning
 demeanours
+dementedness
 dementednesses
 dementia
 demerara
@@ -13746,6 +13751,7 @@ dye
 dyeability
 dyeable
 dyer
+dying
 dyked
 dykes
 dynamistic
@@ -14709,6 +14715,7 @@ ensouled
 ensphere
 ensphered
 enstatite
+ensured
 ensurers
 enswathed
 enswathes
@@ -14847,6 +14854,7 @@ eparchial
 eparchy
 epaulets
 epaulettes
+epeirogeny
 epergne
 epexegesis
 epexegetical
@@ -14957,6 +14965,7 @@ epithet
 epitome
 epitomic
 epitomical
+epitopes
 epizoism
 epizoites
 epizootics
@@ -15834,6 +15843,7 @@ exuvium
 eyeballed
 eyeballs
 eyebeam
+eyeblink
 eyeblinks
 eyebolts
 eyehooks
@@ -16615,6 +16625,7 @@ firepan
 fireplace
 fireplug
 fireplugs
+firepot
 firepots
 firepower
 fireproof
@@ -16966,6 +16977,7 @@ flourisher
 flouted
 flouter
 flow
+flowages
 flowchart
 flowchartings
 flowed
@@ -17188,6 +17200,7 @@ footbridge
 footbridges
 footcloths
 footdraggers
+foothill
 foothills
 footholds
 footings
@@ -20878,6 +20891,7 @@ homoousians
 homophobes
 homophobia
 homophonies
+homophony
 homoplasy
 homopteran
 homosex
@@ -20985,6 +20999,7 @@ hoptoads
 hordein
 hording
 horehound
+horizonal
 horizontally
 hormonal
 hormones
@@ -21207,6 +21222,7 @@ hummer
 hummocks
 humongous
 humored
+humoristic
 humorists
 humorlessly
 humorlessness
@@ -21720,6 +21736,7 @@ imines
 imitable
 imitate
 imitated
+imitating
 imitation
 imitativenesses
 imitator
@@ -22308,6 +22325,7 @@ indisciplines
 indiscreet
 indiscretions
 indiscriminate
+indispensable
 indispensables
 indispose
 indisposes
@@ -22563,6 +22581,7 @@ inheritresses
 inheritrix
 inhibin
 inhibins
+inhibited
 inhibiter
 inhibiters
 inhomogeneity
@@ -23605,6 +23624,7 @@ jarveys
 jasmin
 jasmins
 jaspers
+jasperware
 jaspery
 jassid
 jato
@@ -27606,6 +27626,7 @@ misbeginning
 misbehaviors
 misbelief
 misbeliever
+misbelievers
 misbelieving
 misbiases
 misbiasses
@@ -29525,6 +29546,7 @@ nonaddicts
 nonadjacent
 nonadmirer
 nonadmission
+nonadult
 nonadults
 nonaffiliated
 nonages
@@ -31496,6 +31518,7 @@ overexposing
 overextend
 overextensions
 overextraction
+overextractions
 overextravagant
 overfamiliar
 overfamiliarity
@@ -31650,6 +31673,7 @@ overreactions
 overrefinements
 overregulate
 overregulates
+overreliances
 overreported
 override
 overrife
@@ -35478,6 +35502,7 @@ prodrug
 produced
 producers
 produces
+productive
 productivity
 proem
 profanation
@@ -36125,6 +36150,7 @@ purgatory
 purgeable
 purges
 purgings
+purification
 purifications
 purificatory
 puristic
@@ -38027,6 +38053,7 @@ remolades
 remolds
 remonstrate
 remonstration
+remonstratively
 remonstrator
 remorsefully
 remorsefulness
@@ -38344,6 +38371,7 @@ reschooled
 rescind
 rescinders
 rescinding
+rescindments
 rescoring
 rescue
 rescuer
@@ -39620,6 +39648,7 @@ sacheted
 sack
 sackbuts
 sackcloths
+sacking
 saclike
 sacralizing
 sacrificers
@@ -41915,6 +41944,7 @@ skilled
 skillet
 skillets
 skillfulness
+skim
 skimboard
 skimboards
 skimmers
@@ -41926,6 +41956,7 @@ skinflicks
 skinflint
 skink
 skinked
+skinkers
 skinking
 skinned
 skinners
@@ -48291,6 +48322,7 @@ uncompromisable
 uncomputerized
 unconceivable
 unconcernedness
+unconditionally
 unconfined
 unconformably
 unconformities
@@ -48390,6 +48422,7 @@ underdosed
 underdosing
 undereats
 underemphasize
+underemphasizes
 underestimate
 underestimated
 underestimates
@@ -49728,6 +49761,7 @@ velveted
 velveteens
 velvetiest
 velvety
+venatical
 vendable
 vendables
 vendee
@@ -49797,6 +49831,7 @@ verbigeration
 verbiles
 verbless
 verbosely
+verboseness
 verdin
 verdure
 verdured
