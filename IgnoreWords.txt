@@ -633,6 +633,7 @@ aethereal
 afars
 afeared
 affability
+affable
 affaires
 affectabilities
 affectability
@@ -691,6 +692,7 @@ aficionadas
 aficionados
 aflame
 aflatoxins
+aforehand
 aforethought
 afraid
 afreets
@@ -1833,6 +1835,7 @@ antimine
 antimitotics
 antimonarchists
 antimonic
+antimosquito
 antimycin
 antimycins
 antinarrative
@@ -1910,6 +1913,7 @@ antisleep
 antislip
 antismokers
 antismoking
+antismuggling
 antismut
 antisnob
 antisocialist
@@ -3401,6 +3405,7 @@ bankside
 banksides
 banner
 banneret
+bannerettes
 bannering
 bannerols
 bannister
@@ -4374,6 +4379,7 @@ bioethical
 biofeedbacks
 biofouler
 biofoulers
+biofouling
 biofoulings
 biogenetic
 biogeny
@@ -6078,6 +6084,7 @@ cads
 caducei
 caecum
 caeomas
+caesarians
 caespitose
 caestus
 caesura
@@ -7286,6 +7293,7 @@ charted
 chartered
 charterers
 charters
+chartists
 chartreuse
 chartreuses
 chartularies
@@ -9033,6 +9041,7 @@ concluding
 concomitance
 concomitances
 concomitants
+concord
 concordantly
 concours
 concourses
@@ -9835,6 +9844,7 @@ cosmochemist
 cosmogonic
 cosmographical
 cosmographies
+cosmography
 cosmolines
 cosmolining
 cosmologies
@@ -11031,6 +11041,7 @@ damages
 damaging
 damans
 damascene
+damaskeen
 damaskeened
 damaskeening
 dames
@@ -14753,6 +14764,7 @@ encysting
 end
 endamage
 endameba
+endamoebas
 endangering
 endangerments
 endarch
@@ -18687,6 +18699,7 @@ gemmily
 gemmologies
 gemmology
 gemmy
+gemologies
 gemot
 gemote
 gemots
@@ -19310,6 +19323,7 @@ goliard
 goliaths
 gollywog
 golosh
+goloshes
 gombroons
 gomerils
 gomphosis
@@ -20235,6 +20249,7 @@ hammertoes
 hammily
 hammock
 hammy
+hamper
 hampering
 hams
 hamstring
@@ -21158,6 +21173,7 @@ hokey
 hokeynesses
 hoking
 hokums
+hold
 holddowns
 holden
 holdfast
@@ -23552,6 +23568,7 @@ intimated
 intimately
 intimates
 intimations
+intimidating
 intimidator
 intinctions
 intines
@@ -24517,6 +24534,7 @@ kecks
 kedged
 kedgerees
 kedges
+keeking
 keel
 keelage
 keelboat
@@ -24986,6 +25004,7 @@ lacer
 lacerated
 laceration
 lacerations
+lacewing
 lacewings
 lacewood
 lachrymal
@@ -28628,6 +28647,7 @@ momentum
 momism
 moms
 momus
+momuses
 momzer
 momzers
 monacid
@@ -31105,6 +31125,7 @@ oligomeric
 oligopolistic
 oligopoly
 oligopsonistic
+oliguria
 olingo
 olingos
 olivary
@@ -33589,6 +33610,7 @@ perforating
 perforation
 performability
 performances
+performatives
 perfumer
 perfumery
 perfusates
@@ -33745,6 +33767,7 @@ pertaining
 pertains
 pertest
 pertinence
+pertinences
 pertness
 perturbation
 perturbational
@@ -34635,6 +34658,7 @@ platina
 platinize
 platinized
 platinizes
+platinizing
 platinoid
 platinum
 platitudes
@@ -35414,6 +35438,7 @@ praetorian
 pragmaticists
 pragmatisms
 pragmatist
+pragmatistic
 pragmatists
 prairie
 praiser
@@ -38328,6 +38353,7 @@ reflects
 reflet
 reflets
 reflexed
+reflexing
 reflexions
 reflexively
 reflexivenesses
@@ -40695,6 +40721,7 @@ sapropel
 sapropels
 saprophyte
 saprophytic
+sapsago
 sapwood
 sarabande
 sarabands
@@ -41547,6 +41574,7 @@ semiaquatic
 semiarid
 semiaridities
 semiautomatics
+semicircle
 semicircles
 semicolonial
 semicolons
@@ -42738,6 +42766,7 @@ skinflicks
 skinflint
 skink
 skinked
+skinker
 skinkers
 skinking
 skinned
@@ -43711,6 +43740,7 @@ sparge
 spargers
 sparingly
 sparked
+sparkier
 sparkish
 sparkler
 sparklets
@@ -44203,6 +44233,7 @@ squelches
 squelchier
 squelchiest
 squelchy
+squidded
 squidding
 squiggles
 squinnied
@@ -50548,6 +50579,7 @@ vaporer
 vaporetto
 vaporing
 vaporings
+vaporised
 vaporish
 vaporishness
 vaporishnesses
@@ -50858,12 +50890,14 @@ vesturing
 vetch
 vetches
 vetchling
+veterinarian
 vetiver
 vetivers
 vetivert
 veto
 vetoes
 vets
+vetting
 vexatious
 vexedness
 vexer
@@ -51261,6 +51295,7 @@ vulgarised
 vulgarism
 vulgarization
 vulgarized
+vulgarizes
 vulgarly
 vulnerability
 vulnerableness
