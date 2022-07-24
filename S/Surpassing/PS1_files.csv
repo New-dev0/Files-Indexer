@@ -1,0 +1,4 @@
+scripts/private/Passphraser.Words.ps1 1.0.3 - PowerShell Gallery,https://www.powershellgallery.com/packages/Passphraser/1.0.3/Content/scripts%255Cprivate%255CPassphraser.Words.ps1
+scripts/helpers.ps1 3.0.0 - PowerShell Gallery,https://www.powershellgallery.com/packages/HPENimblePowerShellToolkit/3.0.0/Content/scripts%255Chelpers.ps1
+Microsoft-Defender-for-Cloud/ImageScanSummaryAssessmentGate ...,https://github.com/Azure/Azure-Security-Center/blob/master/Container%2520Image%2520Scan%2520Vulnerability%2520Assessment/Image%2520Scan%2520Automation%2520Enrichment%2520Security%2520Gate/ImageScanSummaryAssessmentGate.ps1
+Invoke-ADLabDeployer/Invoke-ADLabDeployer.ps1 at master - GitHub,https://github.com/outflanknl/Invoke-ADLabDeployer/blob/master/Invoke-ADLabDeployer.ps1
