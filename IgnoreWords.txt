@@ -73,6 +73,7 @@ absorbants
 absorptances
 abstainers
 abstaining
+abstemiously
 abstemiousness
 absterge
 abstinence
@@ -191,6 +192,7 @@ accomplishment
 accomplishments
 accordance
 accorded
+accorders
 accordions
 accountableness
 accountant
@@ -1756,6 +1758,7 @@ antibioses
 antibiotically
 antiburglar
 antibusing
+antic
 anticaking
 antically
 anticapitalisms
@@ -4721,6 +4724,7 @@ blind
 blindsided
 blindworms
 blini
+blinis
 blink
 blinkard
 blintz
@@ -8864,6 +8868,7 @@ commissioned
 commit
 committing
 commix
+commixes
 commixing
 commixt
 commode
@@ -10601,6 +10606,7 @@ crystallizes
 crystalloid
 crystalloidal
 crystals
+ctenidium
 ctenophorans
 ctenophores
 cuatros
@@ -11391,6 +11397,7 @@ deceleron
 decelerons
 decemvirate
 decemvirates
+decencies
 decennia
 decennials
 decenniums
@@ -15392,6 +15399,7 @@ era
 eradiate
 eradiating
 eradicable
+eradicate
 eradicated
 eradicating
 eradication
@@ -18125,6 +18133,7 @@ frisky
 frith
 fritillaria
 fritillary
+fritz
 frivol
 frivolled
 frivols
@@ -19848,6 +19857,7 @@ grislier
 grisliest
 grist
 grister
+gristlier
 gristliest
 gristliness
 grit
@@ -20513,6 +20523,7 @@ harlotries
 harm
 harmful
 harmfulness
+harmine
 harming
 harmless
 harmlessly
@@ -21017,6 +21028,7 @@ herpetic
 herpetological
 herpetologists
 herrenvolks
+herried
 herries
 herringbone
 herringbones
@@ -21929,6 +21941,7 @@ hymenoptera
 hymenopteron
 hymenopterons
 hymens
+hymnbook
 hymnbooks
 hymning
 hymnless
@@ -22752,6 +22765,7 @@ inconceivably
 inconformities
 inconformity
 incongruence
+incongruences
 incongruity
 incongruously
 inconnu
@@ -23408,6 +23422,7 @@ insurability
 insurances
 insurer
 insurgencies
+insurgency
 insurgents
 insurrection
 insusceptible
@@ -23488,6 +23503,7 @@ intercutting
 interdentally
 interdependence
 interdepending
+interdepends
 interdict
 interdictory
 interdiffuse
@@ -23624,6 +23640,7 @@ interpretations
 interpreted
 interpretively
 interpupillary
+interreges
 interrelate
 interrelated
 interrelates
@@ -24053,6 +24070,7 @@ isoglossic
 isogon
 isogones
 isogonic
+isogonies
 isografted
 isohels
 isolate
@@ -24066,6 +24084,7 @@ isomerases
 isomerism
 isomerize
 isomerous
+isometric
 isomorphs
 isopachs
 isophotal
@@ -25335,6 +25354,7 @@ languorously
 languors
 lankest
 lankier
+lankiest
 lankiness
 lankness
 lanknesses
@@ -25424,6 +25444,7 @@ latest
 latewoods
 lather
 latherer
+lathi
 lathier
 lathing
 lathings
@@ -26665,6 +26686,7 @@ lyophilises
 lyophilizations
 lyophilizer
 lyophilizes
+lyophilizing
 lyric
 lyricalness
 lyricise
@@ -28724,6 +28746,7 @@ moderateness
 moderating
 moderator
 moderators
+moderatorships
 modern
 moderner
 modernes
@@ -31300,6 +31323,7 @@ olfaction
 olfactions
 olibanum
 oligarchy
+oligochaete
 oligochaetes
 oligodendrocyte
 oligomeric
@@ -32293,6 +32317,7 @@ overeducation
 overelaborate
 overembellish
 overembellished
+overemoting
 overemotional
 overemphasizes
 overemphasizing
@@ -35031,6 +35056,7 @@ pneumatophore
 pneumococcal
 pneumonitis
 poaceous
+poach
 poaches
 poachier
 pochard
@@ -42645,6 +42671,7 @@ shuttle
 shuttlecock
 shuttlecocking
 shuttled
+shuttleless
 shvartze
 shvartzes
 shylock
@@ -46369,6 +46396,7 @@ swirled
 swirlingly
 swishers
 swishes
+swishier
 swishing
 swishingly
 swiss
@@ -47478,6 +47506,7 @@ thigmotaxes
 thimble
 thimbleriggers
 thimbleweed
+thimbleweeds
 thimerosals
 thindowns
 thing
@@ -47728,6 +47757,7 @@ tilde
 tilefishes
 tiler
 tiling
+tillage
 tillandsia
 tillering
 tillermen
@@ -50251,6 +50281,7 @@ unrefrigerated
 unregenerate
 unrehearsed
 unreinforced
+unrelated
 unrelenting
 unreliability
 unremarkably
@@ -50731,6 +50762,7 @@ uroscopies
 urostyles
 urp
 urped
+urticarias
 urticated
 urticates
 urtications
@@ -51927,6 +51959,7 @@ weakhearted
 weakliest
 weaklings
 wealds
+weals
 wealthier
 weaponed
 weaponized
@@ -51990,6 +52023,7 @@ ween
 weened
 weenier
 weenies
+weeniest
 weensiest
 weensy
 weepies
@@ -52144,6 +52178,7 @@ whipcords
 whiplike
 whippets
 whippier
+whippiest
 whipping
 whippletrees
 whipray
