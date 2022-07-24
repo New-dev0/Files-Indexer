@@ -535,6 +535,7 @@ adulthood
 adultness
 adultress
 adumbrate
+adumbrated
 adumbration
 adumbratively
 advanced
@@ -4561,6 +4562,7 @@ blackguards
 blackhead
 blackheart
 blacklist
+blackmailed
 blackpolls
 blacksmithing
 blacksmithings
@@ -5540,6 +5542,7 @@ brookies
 brookite
 brookites
 brooklet
+brooklimes
 brooks
 broom
 broomballer
@@ -5779,6 +5782,7 @@ bunglers
 bunk
 bunkers
 bunkmate
+bunkoed
 bunkums
 bunns
 bunrakus
@@ -6148,6 +6152,7 @@ callaloos
 callan
 callans
 callbacks
+callboy
 callees
 callets
 calligraphers
@@ -6624,6 +6629,7 @@ carrots
 carrottop
 carryalls
 carryback
+carryforward
 carrying
 carryout
 cart
@@ -6690,6 +6696,7 @@ casking
 casky
 casque
 casques
+cassation
 cassations
 cassenas
 cassenes
@@ -8985,6 +8992,7 @@ conciliator
 conciliators
 concisenesses
 concisions
+concluders
 concluding
 concomitance
 concomitances
@@ -11160,6 +11168,7 @@ dealation
 dealerships
 deals
 dealt
+deaminases
 deaminizes
 deaned
 deanship
@@ -11413,6 +11422,7 @@ deerstalkers
 deerweeds
 dees
 deewan
+def
 defacements
 defacer
 defacers
@@ -13258,6 +13268,7 @@ dogtrots
 dogtrotting
 dogvanes
 dogwatches
+doing
 doings
 doit
 doited
@@ -16682,6 +16693,7 @@ fiercer
 fieriest
 fierily
 fieriness
+fierinesses
 fiery
 fifer
 fifes
@@ -17176,6 +17188,7 @@ flopover
 flopper
 floppers
 floppier
+floppies
 floppiest
 floppiness
 floras
@@ -18399,6 +18412,7 @@ garget
 gargety
 gargled
 garglers
+gargoyle
 gargoyles
 garigues
 garish
@@ -18450,6 +18464,7 @@ gasometer
 gasometers
 gasp
 gasper
+gaspereau
 gasps
 gassiest
 gassinesses
@@ -19747,6 +19762,7 @@ gruyeres
 gryphon
 guacamoles
 guaiacols
+guaiacs
 guan
 guanabanas
 guanacos
@@ -21755,6 +21771,7 @@ hypertension
 hypertonia
 hypertonias
 hypertonicities
+hypertonicity
 hypertrophy
 hypertypical
 hyperuricemia
@@ -23556,6 +23573,7 @@ invigilations
 invigilators
 invigorates
 invigoration
+invincibleness
 invincibly
 inviolable
 inviolably
@@ -24028,6 +24046,7 @@ jesuitically
 jesuitisms
 jetbead
 jetlags
+jetport
 jetports
 jets
 jetsams
@@ -27662,6 +27681,7 @@ micropipets
 microplankton
 micropore
 microprobes
+microprocessor
 microprojectors
 micropublisher
 micropulsations
@@ -28262,6 +28282,7 @@ missounded
 misspeaks
 misspell
 misspend
+misstamp
 misstamped
 misstarting
 misstated
@@ -33361,6 +33382,7 @@ perceiving
 perceptional
 perceptive
 perceptively
+perceptivity
 perceptually
 perchers
 percipience
@@ -35055,6 +35077,7 @@ postexperience
 postfaces
 postfault
 postfix
+postfixal
 postglacial
 postgrad
 postgrads
@@ -36329,6 +36352,7 @@ provitamin
 provocation
 provokes
 provost
+provosts
 prow
 prower
 prowesses
@@ -37478,6 +37502,7 @@ realisms
 realities
 reality
 realize
+realized
 realizers
 realizes
 reallocations
@@ -40812,6 +40837,7 @@ scholiastic
 scholium
 scholiums
 schoolgirl
+schoolings
 schoolkids
 schoolman
 schoolmaster
@@ -41370,6 +41396,7 @@ semiopaque
 semiotic
 semioticist
 semioticists
+semiotics
 semipalmated
 semipious
 semipolitical
@@ -42543,6 +42570,7 @@ sklent
 sklenting
 sklents
 skoals
+skulk
 skulked
 skulkers
 skullcaps
@@ -43382,6 +43410,7 @@ soulfulnesses
 souls
 soundboard
 sounded
+soundless
 soundly
 soundmen
 soundness
@@ -44885,6 +44914,7 @@ subduct
 subduedly
 subduers
 subdwarf
+subechoes
 subedited
 subeditor
 subeditorial
@@ -46533,6 +46563,7 @@ tempehs
 temperances
 temperas
 temperate
+temperers
 tempested
 tempestuous
 tempestuousness
@@ -48697,6 +48728,7 @@ ultramicroscope
 ultramodernists
 ultramontanism
 ultrapatriotic
+ultraquiet
 ultraradical
 ultrarare
 ultrararefied
@@ -49566,6 +49598,7 @@ unostentatious
 unpack
 unpackers
 unpainful
+unpaired
 unpalatability
 unparalleled
 unpardonable
@@ -50495,6 +50528,7 @@ verbalizations
 verbalizing
 verbals
 verbatim
+verbena
 verbenas
 verbicide
 verbicides
@@ -52345,6 +52379,7 @@ zapateos
 zappers
 zappy
 zaptiahs
+zaratites
 zarebas
 zareeba
 zareebas
