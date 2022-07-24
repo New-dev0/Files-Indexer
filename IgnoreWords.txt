@@ -1176,6 +1176,7 @@ alumins
 aluminum
 aluminums
 alumna
+alumroots
 alumstones
 alveolars
 alveolate
@@ -4522,6 +4523,7 @@ bisectrix
 bisects
 biseriate
 bises
+bisexually
 bishoprics
 bisnaga
 bister
@@ -5123,6 +5125,7 @@ borneol
 borons
 borough
 borrelias
+borrower
 borrowing
 borrowings
 borrows
@@ -5225,6 +5228,7 @@ bowfin
 bowfront
 bowhead
 bowheads
+bowl
 bowleg
 bowlegged
 bowlers
@@ -5306,6 +5310,7 @@ brainwash
 brainwasher
 braise
 braised
+brakeless
 brakeman
 brakemen
 brakiest
@@ -8902,6 +8907,7 @@ companions
 companionship
 companionships
 companying
+comparatists
 comparator
 comparing
 comparison
@@ -13175,6 +13181,7 @@ distant
 distantness
 distaste
 distasted
+distelfinks
 distempered
 distender
 distending
@@ -13911,6 +13918,7 @@ duci
 duckbills
 ducker
 duckers
+duckie
 duckies
 ducklings
 duckwalk
@@ -18335,6 +18343,7 @@ fusileers
 fusiliers
 fusillades
 fusillading
+fusilli
 fusillis
 fusionism
 fusionisms
@@ -19536,6 +19545,7 @@ gradients
 gradine
 gradiometer
 gradualism
+gradualnesses
 graduated
 graduating
 graduations
@@ -24091,6 +24101,7 @@ jabbers
 jabberwocky
 jabirus
 jabot
+jaboticabas
 jabs
 jacana
 jacinthes
@@ -24107,6 +24118,7 @@ jackets
 jackfishes
 jackfruit
 jackfruits
+jackknife
 jackknifing
 jacklegs
 jacklight
@@ -25142,6 +25154,7 @@ ladlefuls
 ladlers
 ladles
 ladling
+ladrons
 ladybird
 ladybirds
 ladybug
@@ -26780,6 +26793,7 @@ mainlander
 mainlands
 mainmasts
 mains
+mainsail
 mainsheet
 mainsheets
 mainspring
@@ -26874,6 +26888,7 @@ malteds
 maltier
 maltols
 maltoses
+maltreat
 maltreater
 maltreaters
 maltreating
@@ -27665,6 +27680,7 @@ merlon
 merls
 meromorphic
 meropic
+merozoites
 merrier
 merriest
 merrily
@@ -27760,6 +27776,7 @@ metamorphism
 metamorphose
 metamorphosed
 metanalysis
+metanephroi
 metanephros
 metaphoric
 metaphosphates
@@ -27806,6 +27823,7 @@ methodical
 methodised
 methodising
 methodist
+methodists
 methodized
 methodologies
 methodologist
@@ -29110,6 +29128,7 @@ motivate
 motivated
 motivator
 motive
+motivelessly
 motleyest
 motmots
 motoneuron
@@ -29514,6 +29533,7 @@ mutualize
 mutualizes
 mutular
 muzjiks
+muzzle
 muzzler
 myalgia
 myalgic
@@ -32332,6 +32352,7 @@ overkilled
 overlaboring
 overlade
 overladen
+overlap
 overlavish
 overlay
 overlays
@@ -32795,6 +32816,7 @@ palladia
 palladium
 pallet
 palletised
+palletises
 palletization
 palletize
 palletizer
@@ -33274,6 +33296,7 @@ pastils
 pastinas
 pastinesses
 pastis
+pastitsio
 pastitsos
 pastless
 pastnesses
@@ -33366,6 +33389,7 @@ paunchy
 pauperize
 pauperized
 pausal
+paused
 pauser
 pausers
 pausing
@@ -33830,6 +33854,7 @@ perorating
 perorator
 peroxidase
 peroxided
+peroxisome
 peroxisomes
 peroxy
 perpends
@@ -34490,6 +34515,7 @@ pilotages
 pilothouses
 piloting
 pilotless
+pilsener
 pimas
 pimped
 pimpernel
@@ -38351,6 +38377,7 @@ redressers
 redresses
 redressors
 redrew
+redried
 redrill
 redroot
 redshift
@@ -38942,6 +38969,7 @@ remodelling
 remoistens
 remolades
 remolds
+remonstrance
 remonstrate
 remonstration
 remonstratively
@@ -42056,6 +42084,7 @@ sewings
 sex
 sexagenarians
 sexes
+sexily
 sexinesses
 sexist
 sexlessly
@@ -43196,6 +43225,7 @@ slownesses
 slowpoke
 slowpokes
 slows
+sloyd
 sloyds
 slubbed
 slubber
@@ -49917,6 +49947,7 @@ uniqueness
 uniquer
 uniques
 uniquest
+unironically
 unirrigated
 unisexual
 unisexualities
@@ -50506,6 +50537,7 @@ uppityness
 uppropped
 upraise
 upraised
+upraising
 uprates
 uprating
 upreached
@@ -51074,6 +51106,7 @@ vesicates
 vesicating
 vesiculae
 vesiculation
+vesperal
 vespertilian
 vespiaries
 vesseled
@@ -51737,6 +51770,7 @@ wasteway
 wasting
 wastrie
 watap
+watape
 watchable
 watchband
 watchdogged
@@ -52535,6 +52569,7 @@ wrackful
 wraithlike
 wrang
 wrangle
+wrangled
 wrangling
 wrap
 wraparounds
