@@ -3266,6 +3266,7 @@ bails
 bailsman
 bairnlier
 bairns
+baited
 baitfishes
 bakeapple
 baked
@@ -3988,6 +3989,7 @@ bemusements
 bemusing
 bencher
 benchlands
+benchmark
 benchwarmers
 bendable
 bendayed
@@ -4686,6 +4688,7 @@ bliss
 blisses
 blissful
 blissfully
+blissing
 blister
 blistering
 blithe
@@ -5065,6 +5068,7 @@ booziness
 bop
 bopeep
 bopper
+boracic
 boras
 borating
 bordel
@@ -8011,6 +8015,7 @@ clavicles
 clavicular
 clavier
 clavieristic
+claviers
 clawback
 clawhammer
 clawing
@@ -9006,6 +9011,7 @@ concluding
 concomitance
 concomitances
 concomitants
+concordantly
 concours
 concourses
 concretenesses
@@ -9801,6 +9807,7 @@ cosine
 cosmetic
 cosmetician
 cosmeticize
+cosmical
 cosmochemist
 cosmogonic
 cosmographical
@@ -9953,6 +9960,7 @@ countries
 countryfied
 countryman
 countrysides
+countrywoman
 countrywomen
 coup
 coupe
@@ -12908,6 +12916,7 @@ disjunctive
 disjunctively
 disjunctives
 disk
+disked
 diskette
 dislikable
 dislikeable
@@ -13144,6 +13153,7 @@ ditzinesses
 diuresis
 diuretic
 diurnal
+diurons
 divalences
 divans
 divarications
@@ -13262,6 +13272,7 @@ dogged
 doggedly
 doggednesses
 doggerel
+doggeries
 doggiest
 doggoner
 dogie
@@ -14477,6 +14488,7 @@ embarrassable
 embarrassments
 embarring
 embassage
+embassages
 embassies
 embay
 embaying
@@ -18598,6 +18610,7 @@ gelandesprung
 gelant
 gelati
 gelatines
+gelatinization
 gelatinized
 gelatinizes
 gelatinously
@@ -18925,6 +18938,7 @@ girolles
 girt
 girted
 gismos
+gists
 gite
 gittern
 gitting
@@ -20598,6 +20612,7 @@ hefting
 hefts
 hegaris
 hegemons
+hegira
 hegumens
 hegumeny
 heifers
@@ -21401,6 +21416,7 @@ hostel
 hosteling
 hosteller
 hostelries
+hostess
 hostessing
 hostilely
 hostilities
@@ -24574,6 +24590,7 @@ kiddie
 kidding
 kiddo
 kiddoes
+kidlike
 kidnaper
 kidnappees
 kidnappers
@@ -25405,6 +25422,7 @@ legitimists
 legongs
 legrooms
 legumes
+legumin
 legumins
 lehua
 lehuas
@@ -25989,6 +26007,7 @@ lockmaker
 lockmakers
 locks
 lockset
+locksmiths
 lockstitches
 lockup
 locofoco
@@ -26559,6 +26578,7 @@ maieutic
 maigre
 mailer
 mailing
+mailless
 mailmen
 mainframes
 mainlander
@@ -27947,6 +27967,7 @@ minibikers
 minicab
 minicar
 minicomputer
+minicourse
 minidisc
 minified
 minifying
@@ -32407,6 +32428,7 @@ paclitaxel
 pacs
 pactions
 pad
+padauks
 paddleballs
 paddleboard
 paddles
@@ -32588,6 +32610,7 @@ paltrily
 paltriness
 paltry
 paludal
+paludism
 paly
 palynologically
 palynologies
@@ -32848,6 +32871,7 @@ pareiras
 parenchymatous
 parentage
 parentages
+parentally
 parenterally
 parentheses
 parenthesizes
@@ -33146,6 +33170,7 @@ peacher
 peachers
 peachy
 peacock
+peacockiest
 peacocky
 peafowl
 peag
@@ -34585,6 +34610,7 @@ pleonastic
 pleons
 pleopods
 plerocercoids
+plethora
 plethysmogram
 pleurae
 pleuras
@@ -35892,6 +35918,7 @@ primer
 primes
 primeval
 primine
+primiparous
 primitively
 primitivism
 primitivist
@@ -38438,6 +38465,7 @@ reinsurances
 reinsures
 reintegration
 reintegrations
+reinter
 reinterprets
 reinters
 reinterviews
@@ -42661,6 +42689,7 @@ slabs
 slack
 slackened
 slackeners
+slackening
 slackest
 slackly
 slackness
@@ -43420,6 +43449,7 @@ sorbitol
 sorbitols
 sorbs
 sorcerers
+sorceries
 sorcerous
 sord
 sordines
@@ -46300,6 +46330,7 @@ tanginess
 tangles
 tanglier
 tango
+tangos
 tangs
 tanistry
 tankas
@@ -47667,6 +47698,7 @@ tourmaline
 tourney
 touse
 touses
+tousles
 touter
 touting
 touts
@@ -48853,6 +48885,7 @@ unacademic
 unaccented
 unacceptability
 unacclimatized
+unaccommodating
 unaccrued
 unacerbic
 unactorish
@@ -50422,6 +50455,7 @@ varnas
 varnish
 varnished
 varnisher
+varnishing
 varnishy
 varoom
 varoomed
@@ -51512,6 +51546,7 @@ wellaway
 wellcurb
 wellies
 wellsites
+welsh
 welsher
 welshing
 weltanschauungs
