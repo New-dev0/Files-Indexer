@@ -756,6 +756,7 @@ aggiornamentos
 agglomerates
 agglomerations
 agglutinability
+agglutinable
 agglutinated
 agglutinations
 agglutinogenic
@@ -4336,6 +4337,7 @@ billowing
 bilobed
 bilsteds
 biltong
+bima
 bimah
 bimas
 bimbette
@@ -6089,6 +6091,7 @@ cadets
 cadetship
 cadger
 cadges
+cadging
 cadis
 cadmium
 cads
@@ -7739,6 +7742,7 @@ chromaticism
 chromatids
 chromatograms
 chromatograph
+chromatographer
 chromatography
 chromiest
 chrominance
@@ -7847,6 +7851,7 @@ cinchona
 cinchonas
 cinchonic
 cinderous
+cine
 cinematheques
 cinematic
 cinematographer
@@ -9236,6 +9241,7 @@ conjoiner
 conjoiners
 conjoining
 conjugate
+conjugately
 conjugateness
 conjugationally
 conjunction
@@ -12041,6 +12047,7 @@ derisively
 derisiveness
 derisivenesses
 derivatively
+derivatization
 derivatizations
 deriver
 derm
@@ -12119,6 +12126,7 @@ desirables
 desiring
 desirously
 desirousnesses
+desk
 desktop
 desman
 desmid
@@ -13423,6 +13431,7 @@ donations
 donative
 donator
 donenesses
+dong
 dongola
 dongolas
 donkeys
@@ -13745,6 +13754,7 @@ dressmaking
 dressmakings
 dressy
 dribbing
+dribbles
 dribblets
 dribbly
 driblets
@@ -14147,6 +14157,7 @@ earwig
 earwigging
 earwitness
 easeful
+eases
 easies
 easiest
 easter
@@ -14348,6 +14359,7 @@ egalitarianism
 egalitarianisms
 egalitarians
 egalites
+eger
 egers
 egesta
 eggars
@@ -18338,6 +18350,7 @@ fuzees
 fuzes
 fuzz
 fuzzes
+fuzztones
 fylfot
 fytte
 gab
@@ -19433,6 +19446,7 @@ gorgeousnesses
 gorgers
 gorgeted
 gorgonizes
+goriest
 gorillas
 gorinesses
 gorm
@@ -19991,6 +20005,7 @@ gulag
 guldens
 gulf
 gullably
+gulled
 gullets
 gulleys
 gullying
@@ -21057,6 +21072,7 @@ hidings
 hidrosis
 hie
 hierarchal
+hierarchical
 hierarchies
 hieroglyphic
 hieroglyphical
@@ -21585,6 +21601,7 @@ housebroken
 houseclean
 housecoat
 housecoats
+housedresses
 housefather
 housefathers
 houseguest
@@ -23082,6 +23099,7 @@ inharmony
 inherences
 inheritableness
 inheritresses
+inheritrices
 inheritrix
 inhibin
 inhibins
@@ -26508,6 +26526,7 @@ lunting
 lunulated
 lunule
 lupulins
+lurches
 lurching
 lure
 lurers
@@ -27740,6 +27759,7 @@ metathetic
 metathoracic
 metaxylem
 metazoa
+metazoon
 metempsychoses
 meteorically
 meteorite
@@ -28295,6 +28315,7 @@ misconduct
 misconducts
 misconnection
 misconstrues
+miscook
 miscorrelations
 miscreated
 miscreation
@@ -28882,6 +28903,7 @@ monotonies
 monotonousness
 monotype
 monotypic
+monounsaturated
 monounsaturates
 monovalent
 monovular
@@ -30955,6 +30977,7 @@ observants
 observation
 observing
 observingly
+obsess
 obsession
 obsessions
 obsessive
@@ -31907,6 +31930,7 @@ outrated
 outrating
 outraved
 outre
+outreads
 outreasoned
 outreasons
 outrebounded
@@ -32626,6 +32650,7 @@ paddleboard
 paddles
 paddocked
 padishah
+padlock
 padlocking
 padlocks
 padnags
@@ -33966,6 +33991,7 @@ phallus
 phanerophyte
 phantasmagoria
 phantasmagoric
+phantasmata
 pharisaic
 pharisaically
 pharisee
@@ -35912,6 +35938,7 @@ preprogrammed
 preps
 prepuberties
 prepubescences
+prepubis
 prepublication
 prepublications
 prepuce
@@ -38004,6 +38031,7 @@ reciprocally
 reciprocating
 reciprocators
 reciprocities
+recircle
 recirculated
 recirculating
 recirculation
@@ -38298,6 +38326,7 @@ redressers
 redresses
 redressors
 redrew
+redrill
 redroot
 redshift
 redshifted
@@ -39053,6 +39082,7 @@ replicabilities
 replicable
 replicas
 replicases
+replicative
 replicon
 replicons
 replied
@@ -45948,6 +45978,7 @@ supinenesses
 supped
 supplant
 supplantations
+supplanted
 supplanters
 supplants
 suppled
@@ -47009,6 +47040,7 @@ tenours
 tenpence
 tenpounder
 tens
+tense
 tensenesses
 tensors
 tent
@@ -48454,6 +48486,7 @@ trienes
 triennials
 trienniums
 trier
+trierarchy
 triers
 tries
 trifled
@@ -51630,6 +51663,7 @@ warriors
 warship
 warships
 warsle
+warsled
 warstle
 wartiest
 wartime
@@ -51800,6 +51834,7 @@ webwork
 webworm
 webworms
 wedder
+wedeled
 wedeling
 wedelns
 wedge
