@@ -5037,6 +5037,7 @@ bookman
 bookmarker
 bookmarking
 bookshelf
+bookshelves
 bookshop
 bookshops
 bookstand
@@ -7114,6 +7115,7 @@ chaffinches
 chaffs
 chafing
 chagrining
+chagrinning
 chai
 chained
 chaining
@@ -8726,6 +8728,7 @@ combing
 comblike
 combo
 combos
+combs
 combust
 combustible
 combustibles
@@ -8749,6 +8752,7 @@ comfortingly
 comforts
 comical
 comicality
+comitia
 comitial
 comities
 commandants
@@ -11461,6 +11465,7 @@ defalcator
 defalcators
 defamations
 defamer
+defaming
 defat
 defatted
 default
@@ -12004,6 +12009,7 @@ desalted
 desalts
 descant
 descanted
+descend
 descender
 descendible
 describable
@@ -14748,6 +14754,7 @@ endnote
 endobiotic
 endocardial
 endocarditises
+endocarps
 endoderm
 endodontists
 endoenzymes
@@ -15278,6 +15285,7 @@ erected
 erectilities
 erecting
 erective
+erectly
 eremites
 eremuruses
 erenow
@@ -18486,6 +18494,7 @@ garpikes
 garrets
 garring
 garron
+garroted
 garroter
 garrotte
 garrottes
@@ -18808,6 +18817,7 @@ gestations
 gesticulators
 gesturer
 gesturing
+gesundheit
 getaways
 gets
 getting
@@ -21205,6 +21215,7 @@ homey
 homeys
 homiest
 homilies
+homily
 hominians
 hominoid
 hommos
@@ -21935,6 +21946,7 @@ iconicities
 iconicity
 iconoclasm
 iconoclasms
+iconoclastic
 icons
 icosahedra
 icosahedral
@@ -22166,6 +22178,7 @@ immortality
 immortalization
 immortalizer
 immortally
+immovablenesses
 immovables
 immunes
 immunises
@@ -22982,6 +22995,7 @@ inimitable
 iniquities
 iniquitous
 iniquitousness
+iniquity
 initial
 initialing
 initialism
@@ -23136,6 +23150,7 @@ insolating
 insolubility
 insolubilizes
 insolubles
+insolvent
 insomniac
 insomniacs
 insouciance
@@ -23168,6 +23183,7 @@ instillments
 instills
 instincts
 institute
+instituter
 institutes
 institution
 institutionally
@@ -23202,6 +23218,7 @@ insultingly
 insupportable
 insurability
 insurances
+insurer
 insurgencies
 insurgents
 insurrection
@@ -23684,6 +23701,7 @@ iodized
 iodizers
 iodizes
 iodizing
+iodoform
 iodoforms
 iodopsin
 iodous
@@ -25589,6 +25607,7 @@ libeled
 libelers
 libellee
 libels
+liberalise
 liberalising
 liberalism
 liberalisms
@@ -25717,6 +25736,7 @@ lily
 limacine
 limans
 limb
+limberer
 limberest
 limbi
 limbic
@@ -26304,6 +26324,7 @@ lugubriousness
 lullabied
 lullabies
 lullaby
+luller
 lullers
 lulling
 lulu
@@ -29253,6 +29274,7 @@ musicological
 musicologies
 musicology
 musjid
+musk
 muskegs
 musket
 muskie
@@ -33115,6 +33137,7 @@ patriarchs
 patrician
 patricians
 patriciates
+patricides
 patrimonies
 patriotically
 patriotisms
@@ -37291,6 +37314,7 @@ railhead
 railheads
 railing
 raillery
+railroads
 railways
 rainbands
 rainbirds
@@ -38275,6 +38299,7 @@ reformist
 reformulating
 reformulation
 refortifies
+refought
 refounded
 refounds
 refractile
@@ -42953,6 +42978,7 @@ slurrying
 slurs
 slushed
 slushes
+slushier
 slushiest
 slyness
 slynesses
@@ -43674,6 +43700,7 @@ species
 specifications
 specified
 specifier
+specifiers
 specifies
 specify
 specious
@@ -44163,6 +44190,7 @@ stacking
 stacks
 stackups
 stactes
+stadia
 stadium
 stadtholder
 staffers
@@ -44259,6 +44287,7 @@ stapes
 staphs
 staphylinid
 star
+starboarding
 starboards
 starchier
 starchinesses
@@ -45350,6 +45379,7 @@ sudatoriums
 sudd
 suddenness
 sudds
+sudsed
 sudsier
 sudsy
 suer
@@ -45743,6 +45773,7 @@ sura
 surahs
 sural
 suras
+surbase
 surbased
 surceasing
 surcingles
@@ -47631,6 +47662,7 @@ torched
 torches
 torchlike
 torchy
+torcs
 tore
 toreador
 toreadors
@@ -48736,6 +48768,7 @@ twofer
 twofold
 twoonies
 twosome
+tycoon
 tyin
 tying
 tyke
@@ -50173,6 +50206,7 @@ uppityness
 uppropped
 upraise
 upraised
+uprates
 uprating
 upreached
 uprighting
@@ -52621,6 +52655,7 @@ zoogeographical
 zoogeographies
 zoogloea
 zoography
+zooier
 zooks
 zoolater
 zoologically
