@@ -260,6 +260,7 @@ acetones
 acetonic
 acetoxyls
 acetum
+acetylative
 acetylcholines
 acetyls
 ache
@@ -3569,6 +3570,7 @@ basketwork
 basketworks
 basmati
 basmatis
+basophil
 basophiles
 basophilia
 basophilic
@@ -4319,6 +4321,7 @@ billfish
 billfishes
 billhead
 billiard
+billiards
 billie
 billies
 billings
@@ -8031,6 +8034,7 @@ clattered
 clatterer
 clatteringly
 clattery
+claudication
 claudications
 claught
 claughted
@@ -9243,6 +9247,7 @@ connecters
 connectible
 connecting
 connection
+connectional
 connections
 connects
 conning
@@ -11336,6 +11341,7 @@ decelerate
 decelerated
 decelerations
 deceleron
+decelerons
 decemvirate
 decemvirates
 decennia
@@ -11423,6 +11429,7 @@ deconcentrating
 deconcentration
 deconditioning
 deconditions
+decongesting
 decongestion
 decongests
 deconstructs
@@ -11720,6 +11727,7 @@ delinquents
 deliquesce
 deliquesced
 deliquescence
+deliquescences
 deliquesces
 deliquescing
 deliriously
@@ -12105,6 +12113,7 @@ desmid
 desmids
 desmoid
 desmoids
+desolaters
 desolators
 desorb
 despatch
@@ -12452,6 +12461,7 @@ dieback
 diehards
 dieing
 dieldrins
+dielectrics
 diemaker
 dienes
 dieoff
@@ -14167,6 +14177,7 @@ echinus
 echoic
 echolalia
 echolalias
+echolalic
 echoviruses
 echt
 eclampsia
@@ -15752,6 +15763,7 @@ excelled
 excellence
 excellency
 excellently
+excelsior
 excelsiors
 except
 exceptionalisms
@@ -16983,6 +16995,7 @@ fisc
 fiscalist
 fiscally
 fishbolts
+fished
 fisherfolk
 fishermen
 fishery
@@ -19169,6 +19182,7 @@ glorify
 glorioles
 glorying
 glossal
+glossarists
 glossator
 glossators
 glossemes
@@ -19381,9 +19395,11 @@ goos
 goose
 gooseberries
 goosed
+goosefishes
 goosefoots
 goosegrasses
 gooseherds
+goosiest
 goosy
 gorbellies
 gorblimy
@@ -26034,6 +26050,7 @@ livening
 liver
 livered
 liveried
+liveries
 liverishness
 liverleaf
 livers
@@ -29825,6 +29842,7 @@ nephropathy
 nephrostome
 nepotisms
 nepotists
+nerdier
 nerdiest
 nerdy
 nerol
@@ -29973,6 +29991,7 @@ nicotinamide
 nicotins
 nictitant
 nictitates
+nidal
 nidate
 nidates
 niddering
@@ -31357,6 +31376,7 @@ orangerie
 orangeries
 orangs
 orated
+orator
 oratress
 orb
 orbicularly
@@ -35073,6 +35093,7 @@ polypous
 polyps
 polyptychs
 polypuses
+polyrhythm
 polyrhythms
 polys
 polysaccharide
@@ -35538,6 +35559,7 @@ prebend
 prebendaries
 prebiblical
 prebidden
+prebiological
 preblessing
 preboil
 preboiled
@@ -35864,6 +35886,7 @@ prerequisites
 prerevisionist
 prerinsed
 prerinsing
+presa
 presageful
 presages
 presbyter
@@ -36524,6 +36547,7 @@ protons
 protopathic
 protoplast
 protoplasts
+protopods
 protoporphyrin
 protostars
 protosteles
@@ -40056,6 +40080,7 @@ romancing
 romanises
 romanizations
 romanize
+romanizes
 romano
 romanos
 romans
@@ -40371,6 +40396,7 @@ rusher
 rushers
 rushier
 rushiest
+rushings
 rushlight
 rusine
 rusks
@@ -40566,6 +40592,7 @@ sallowy
 sally
 salmagundis
 salmi
+salmon
 salmonberries
 salmonberry
 salmonellae
@@ -41144,6 +41171,7 @@ sclerotic
 sclerotin
 scoffed
 scoffing
+scoffs
 scolded
 scolder
 scolders
@@ -42213,6 +42241,7 @@ shirtdress
 shirtdresses
 shirting
 shirtmaker
+shirttailed
 shists
 shitake
 shitakes
@@ -43831,6 +43860,7 @@ spectacles
 spectacular
 spectate
 spectator
+spectatorship
 spectinomycin
 spectrally
 spectre
@@ -46826,6 +46856,7 @@ telium
 tellable
 tellingly
 tells
+telltales
 tellurian
 tellurides
 tellurions
@@ -47829,6 +47860,7 @@ torsos
 torta
 torticollises
 tortile
+tortoises
 tortoni
 tortonis
 tortricids
@@ -49062,6 +49094,7 @@ umbral
 umbrettes
 umiac
 umiaks
+umlaut
 umlauting
 umlauts
 umping
@@ -49172,6 +49205,7 @@ unblushingly
 unbolted
 unbolting
 unboned
+unbonnet
 unbonneted
 unbonnets
 unbottle
@@ -50573,6 +50607,7 @@ valutas
 valvar
 valveless
 valvelets
+valvelike
 valving
 valvula
 valvules
