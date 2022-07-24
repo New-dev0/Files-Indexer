@@ -198,6 +198,7 @@ accountants
 accountings
 accoutered
 accoutred
+accoutres
 accreditations
 accredited
 accretes
@@ -1329,6 +1330,7 @@ amp
 amperage
 amperages
 amperes
+amperometric
 ampersand
 amphibians
 amphibious
@@ -1754,6 +1756,7 @@ anticlassical
 anticlericals
 anticlines
 anticodon
+anticolonial
 anticolonialist
 anticommunisms
 anticommunists
@@ -3245,6 +3248,7 @@ badman
 badmen
 badmintons
 badmouth
+badmouths
 baffing
 bafflegab
 bafflements
@@ -3326,6 +3330,7 @@ ballparks
 balls
 bally
 ballyhoo
+ballyhooed
 ballyhooing
 ballyrag
 ballyragged
@@ -3990,6 +3995,7 @@ bemuse
 bemusedly
 bemusements
 bemusing
+bemuzzled
 bencher
 benchlands
 benchmark
@@ -6800,6 +6806,7 @@ catchwords
 catchy
 catecheses
 catechise
+catechises
 catechismal
 catechization
 catechizations
@@ -6831,6 +6838,7 @@ cathead
 cathect
 cathects
 cathedra
+cathedrals
 cathepsin
 catheptic
 catheterized
@@ -7867,6 +7875,7 @@ circumscissile
 circumspections
 circumstance
 circumvallate
+circumvallates
 circumvent
 circumventing
 circumvention
@@ -8876,6 +8885,7 @@ competent
 competently
 competing
 competitor
+competitors
 compilations
 compiles
 complacently
@@ -8929,6 +8939,7 @@ compressed
 compresses
 compressible
 compressions
+compressors
 comprised
 comprising
 comprized
@@ -11860,6 +11871,7 @@ denudating
 denuder
 denuders
 denumerability
+deny
 denying
 deodands
 deodara
@@ -11968,6 +11980,7 @@ deracinated
 deraigning
 derailleurs
 derate
+derating
 derats
 deray
 derays
@@ -13911,6 +13924,7 @@ duodecillions
 duodecimals
 duodena
 duologue
+duomos
 duopsonies
 dup
 duper
@@ -15605,6 +15619,7 @@ evacuator
 evaginates
 evaluate
 evaluator
+evanesce
 evanescence
 evanescences
 evangel
@@ -16762,6 +16777,7 @@ figuratively
 figured
 figurer
 fil
+filagrees
 filamentous
 filaria
 filariae
@@ -19606,6 +19622,7 @@ greenfield
 greenfields
 greenfly
 greenheart
+greenhorns
 greenhouses
 greenies
 greenishnesses
@@ -20256,6 +20273,7 @@ handsomeness
 handsomenesses
 handsprings
 handstands
+handworks
 handwrote
 handy
 handyperson
@@ -20354,6 +20372,7 @@ harmless
 harmlessly
 harmonic
 harmonies
+harmonium
 harmonizations
 harmonize
 harmonized
@@ -21114,6 +21133,7 @@ hoggers
 hogget
 hoggets
 hogging
+hogmanes
 hogmenay
 hogmenays
 hognoses
@@ -22036,6 +22056,7 @@ ikons
 ileac
 ilex
 ilia
+illations
 illatively
 illegalities
 illegalizing
@@ -22783,6 +22804,7 @@ inebriates
 inebriating
 ineducable
 ineffabilities
+ineffability
 ineffably
 ineffaceability
 ineffectuality
@@ -23853,6 +23875,7 @@ isoenzymes
 isoform
 isoforms
 isogamete
+isogamous
 isogeneic
 isogenic
 isogenies
@@ -24570,6 +24593,7 @@ keynoted
 keynotes
 keypad
 keypads
+keypals
 keypunches
 keypunching
 keysters
@@ -25910,6 +25934,7 @@ literalize
 literalized
 literarinesses
 literations
+literature
 literatus
 lithemia
 lithenesses
@@ -27087,6 +27112,7 @@ mathematization
 mathematized
 mathematizes
 matilda
+matriarchates
 matriarchs
 matrices
 matriculant
@@ -27494,6 +27520,7 @@ merises
 meristically
 merited
 meritocrats
+meritoriousness
 merk
 merl
 merlin
@@ -29643,6 +29670,7 @@ nectarine
 nectarines
 nectarous
 neddies
+neddy
 nee
 needer
 needier
@@ -33544,6 +33572,7 @@ perfuses
 perfusion
 periapses
 periblems
+pericardia
 pericardial
 pericarps
 pericope
@@ -35955,6 +35984,7 @@ primatals
 primates
 primateship
 primatial
+primatologies
 primed
 primeness
 primer
@@ -40715,6 +40745,7 @@ saturations
 saturator
 saturators
 saturniid
+saturniids
 saturnine
 satyriasis
 satyrid
@@ -46271,6 +46302,7 @@ taglines
 tagmemes
 tagrag
 tagrags
+tahinis
 tahsildar
 tailbacks
 tailboards
@@ -46903,6 +46935,7 @@ testate
 testees
 testiest
 testifiers
+testifies
 testimonials
 testiness
 testing
@@ -47080,6 +47113,7 @@ thiamine
 thiamines
 thiazole
 thick
+thickening
 thickenings
 thickens
 thicker
@@ -51926,6 +51960,7 @@ windflowers
 windgalls
 windigo
 windiness
+windinesses
 windings
 windjammers
 windless
