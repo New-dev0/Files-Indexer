@@ -1,0 +1,9 @@
+ubuntu-22.04-desktop-amd64.manifest - Ubuntu Releases,https://releases.ubuntu.com/22.04/ubuntu-22.04-desktop-amd64.manifest
+focal-desktop-amd64.manifest - Ubuntu CDimage,https://cdimage.ubuntu.com/focal/daily-live/current/focal-desktop-amd64.manifest
+downloads.openwrt.org/releases/18.06.5/packages/i3...,http://downloads.openwrt.org/releases/18.06.5/packages/i386_pentium/packages/Packages.manifest
+https://downloads.openwrt.org/releases/18.06.8/pac...,https://downloads.openwrt.org/releases/18.06.8/packages/mips_24kc/routing/Packages.manifest
+Resetter/LinuxMint_19_X-Cinnamon_64bit_.manifest at master,https://github.com/gaining/Resetter/blob/master/Resetter/usr/lib/resetter/data/manifests/LinuxMint_19_X-Cinnamon_64bit_.manifest
+inqlude-data/avahi-qt.2016-02-16.manifest at master - GitHub,https://github.com/cornelius/inqlude-data/blob/master/avahi-qt/avahi-qt.2016-02-16.manifest
+turnkey-bitkey-14.2.0-jessie-amd64.manifest,https://releases.turnkeylinux.org/turnkey-bitkey/14.2.0-jessie-amd64/turnkey-bitkey-14.2.0-jessie-amd64.manifest
+ubuntu.interhost.co.il/21.04/ubuntu-21.04-beta-des...,http://ubuntu.interhost.co.il/21.04/ubuntu-21.04-beta-desktop-amd64.manifest
+ftp.ncnu.edu.tw/ubuntu-dvd/ports/releases/8.04.1/r...,http://ftp.ncnu.edu.tw/ubuntu-dvd/ports/releases/8.04.1/release/ubuntu-8.04.1-desktop-powerpc.manifest
