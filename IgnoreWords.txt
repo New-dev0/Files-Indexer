@@ -672,6 +672,7 @@ afficionado
 afficionados
 affidavits
 affinal
+affine
 affinity
 affirm
 affirmable
@@ -1233,6 +1234,7 @@ amaurotic
 amaze
 amazedly
 ambagious
+ambassador
 ambassadors
 ambeer
 ambergris
@@ -2033,6 +2035,7 @@ apatosaurs
 ape
 aper
 apercu
+aperients
 aperiodic
 aperiodically
 apers
@@ -5165,6 +5168,7 @@ boon
 boondoggler
 boondoggling
 boonless
+boor
 boorish
 boorishness
 boost
@@ -5651,6 +5655,7 @@ brominations
 bromine
 brominisms
 bromizes
+bromouracil
 bronchiectases
 bronchiectasis
 bronchiolar
@@ -5820,6 +5825,7 @@ bugaboos
 bugbears
 bugeye
 bugged
+buggered
 buggeries
 buggering
 buggier
@@ -6735,6 +6741,7 @@ carking
 carks
 carless
 carlines
+carling
 carlings
 carlins
 carloads
@@ -7125,6 +7132,7 @@ censoring
 censors
 censured
 censused
+cental
 centares
 centaurs
 centaury
@@ -12799,9 +12807,11 @@ dinero
 dineros
 dingbat
 dingdong
+dinged
 dinger
 dinghies
 dingier
+dingies
 dingiest
 dingily
 dinginesses
@@ -17450,6 +17460,7 @@ flavoproteins
 flavorfully
 flavorings
 flavoured
+flavoury
 flaw
 flawing
 flawlessly
@@ -21171,6 +21182,7 @@ hemocytometer
 hemocytometers
 hemodialyses
 hemodialysis
+hemoglobinuric
 hemolymph
 hemolytic
 hemolyzes
@@ -22914,6 +22926,7 @@ inaptnesses
 inarch
 inarguable
 inarguably
+inarmed
 inarms
 inarticulacy
 inarticulately
@@ -23298,6 +23311,7 @@ inexpensive
 inexperts
 inexpiably
 inexplainable
+inexplicable
 inexplicit
 inexpressibly
 inexpugnable
@@ -24214,6 +24228,7 @@ iotacism
 iotacisms
 iotas
 ipecac
+ipecacuanha
 irade
 irascible
 irasciblenesses
@@ -25303,6 +25318,7 @@ knightlinesses
 knightly
 knishes
 knitter
+knitting
 knobblier
 knobbly
 knobkerries
@@ -25444,6 +25460,7 @@ labializations
 labializes
 labials
 labiodental
+labiodentals
 labiovelar
 labiovelars
 laboratories
@@ -27256,6 +27273,7 @@ malignantly
 maligner
 maligning
 maligns
+malines
 malison
 mallard
 malleabilities
@@ -30342,6 +30360,7 @@ neomycins
 neonatologies
 neonatology
 neoned
+neons
 neophilia
 neophyte
 neophytes
@@ -32651,6 +32670,7 @@ overclear
 overclouds
 overcold
 overcoloring
+overcomers
 overcompensate
 overcompresses
 overconfident
@@ -34338,6 +34358,7 @@ pernod
 pernods
 perorating
 perorator
+perovskite
 peroxidase
 peroxided
 peroxisome
@@ -36555,6 +36576,7 @@ preservability
 preservationist
 preservatives
 preserver
+preservice
 presettles
 preshape
 preshapes
@@ -39051,6 +39073,7 @@ refashioned
 refashions
 refect
 refections
+refects
 refeeling
 refencing
 refer
@@ -41309,6 +41332,7 @@ salina
 salinizations
 salinizing
 saliva
+salivates
 salivation
 salivator
 salivators
@@ -42353,6 +42377,7 @@ sellable
 selle
 seller
 sellers
+selloff
 sellotaping
 sellout
 seltzers
@@ -44696,6 +44721,7 @@ spermary
 spermatogeneses
 spermatogenic
 spermatophore
+spermatophyte
 spermatozoid
 spermic
 spermicidal
@@ -44869,6 +44895,7 @@ splodged
 sploshes
 splotch
 splotches
+splotching
 splotchy
 splurges
 splurgy
@@ -44898,6 +44925,7 @@ sponsorship
 spontaneities
 spontaneity
 spontaneously
+spontoons
 spoof
 spoofer
 spoofery
@@ -45040,6 +45068,7 @@ squalider
 squalidly
 squalling
 squallish
+squalor
 squalors
 squamate
 squamates
@@ -45440,6 +45469,7 @@ sternway
 steroid
 steroidal
 stethoscope
+stetsons
 stevedored
 stewable
 stewarded
@@ -47426,6 +47456,7 @@ tarbush
 tarbushes
 tardigrade
 tardily
+tardy
 tardyon
 tared
 targetable
@@ -49218,6 +49249,7 @@ trichome
 trichomic
 trichomonacidal
 trichomonacide
+trichomoniases
 trichopteran
 trichopterans
 trichosis
@@ -51505,6 +51537,7 @@ valpolicellas
 valuable
 valuablenesses
 valuated
+valuating
 valuation
 value
 values
@@ -52608,6 +52641,7 @@ weaken
 weakhearted
 weakliest
 weaklings
+weakside
 wealds
 weals
 wealthier
@@ -53453,6 +53487,7 @@ xerox
 xeroxing
 xeruses
 xi
+xiphoid
 xiphoids
 xylem
 xylems
