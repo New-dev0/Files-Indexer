@@ -1,0 +1,17 @@
+Public/Connect-ExchangeOnline.ps1 0.6 - PowerShell Gallery,https://www.powershellgallery.com/packages/ExchangeOnlineManagement.SAM/0.6/Content/Public%255CConnect-ExchangeOnline.ps1
+functions/performance/Measure-PSMDCommand.ps1 2.2.7.90,https://www.powershellgallery.com/packages/PSModuleDevelopment/2.2.7.90/Content/functions%255Cperformance%255CMeasure-PSMDCommand.ps1
+nishang/Invoke-PsGcatAgent.ps1 at master - GitHub,https://github.com/samratashok/nishang/blob/master/Shells/Invoke-PsGcatAgent.ps1
+diagnosticsModule/Private/CommonHealthChecks.ps1 1.0.0,https://psg-prod-centralus.cloudapp.net/packages/ADFSToolbox/1.0.0/Content/diagnosticsModule%255CPrivate%255CCommonHealthChecks.ps1
+sccm-ts-scripts - fix-uefi-boot-order.ps1 - GitLab,https://gitlab.engr.illinois.edu/engrit-epm/sccm-ts-scripts/-/blob/1b13c0d19a4205df7d5c18a6e8b0c3d24d959919/fix-uefi-boot-order.ps1
+SCCM/Management/Repair-InvisibleDeployments.ps1 - GitLab,https://gitlab.ics.muni.cz/143208/mrepo/-/blob/1cc2f8b2bebb9d2639ff8e86b4a05fe8ccbdd6bd/SCCM/Management/Repair-InvisibleDeployments.ps1
+PowerShell: .../ConstrainedLanguageDebugger.Tests.ps1 | Fossies,https://fossies.org/linux/PowerShell/test/powershell/Modules/Microsoft.PowerShell.Security/ConstrainedLanguageDebugger.Tests.ps1
+guest/aaron_bockelie/p4powershell/lib/remove-groupmember.ps1,https://swarm.workshop.perforce.com/files/guest/aaron_bockelie/p4powershell/lib/remove-groupmember.ps1
+Rohan Garg mesa - Freedesktop GitLab,https://gitlab.freedesktop.org/shadeslayer/mesa/-/blob/main/.gitlab-ci/windows/mesa_deps.ps1
+luoze/K8tools - Gitee,https://portrait.gitee.com/lzjxm/K8tools/blob/master/Invoke-MS16-032.ps1
+get_build_number.ps1 - lucid-0/WinPloneInstaller Wiki,https://github-wiki-see.page/m/lucid-0/WinPloneInstaller/wiki/get_build_number.ps1
+[PowerShell] Log of /hp-warranty.ps1 - Repository Listing,http://svn.ian.cammarata.us/index.cgi/PowerShell/hp-warranty.ps1%3Fdiff_format%3Ds%26view%3Dlog%26sortby%3Drev%26pathrev%3D29
+eng/configure-toolset.ps1 ... - 登录,https://jihulab.com/dotnet/aspnetcore/-/blob/6c8c602981a3c2ab2ac122116f4551e50b429a9c/eng/configure-toolset.ps1
+tacticalrmm/Win_Reclaim_Windows_10.ps1 at ... - Leffler.Media Git,https://git.leffler.media/MyFavMirrors/tacticalrmm/src/commit/d00cd4453aed8a9281601a86de758212086c0f88/scripts_wip/Win_Reclaim_Windows_10.ps1
+www3.bell.net/brearley/public/test-apps.ps1,http://www3.bell.net/brearley/public/test-apps.ps1
+workstation_windows.ps1 · master · Harry / endpoint - GitLab,https://gitlab.breakglass.io/harry/endpoint/-/blob/master/workstation_windows.ps1
+ariel - Gitea: Git with a cup of tea,https://git.aanetworks.org/ariel/vSphereAutoLab/src/commit/945c87edbafbbbb3fa300a21ea282312b34fb98b/Build/Automate/DC/Phase2.ps1%3Flang%3Des-ES
