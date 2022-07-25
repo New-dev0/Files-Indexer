@@ -786,6 +786,7 @@ aggressive
 aggrievedly
 aggro
 agha
+agileness
 agilenesses
 agings
 agios
@@ -970,6 +971,7 @@ alexins
 alfaqui
 alfaquins
 alfaquis
+alfilaria
 alfilarias
 algae
 algaecide
@@ -1571,6 +1573,7 @@ angelfishes
 angelically
 angelologies
 angels
+angeluses
 angered
 anginous
 angiogram
@@ -2003,6 +2006,7 @@ anxiousness
 anxiousnesses
 any
 anybodies
+anyon
 anyplace
 anything
 anywise
@@ -2930,6 +2934,7 @@ aurar
 aurated
 aurei
 aureolae
+auric
 auricle
 auricled
 auricula
@@ -4168,6 +4173,7 @@ beseeching
 beseem
 beseeming
 beseems
+besetments
 beshames
 beshaming
 beshivers
@@ -6000,6 +6006,7 @@ bushpigs
 bushrangers
 bushranging
 bushtit
+bushtits
 bushwhackers
 busier
 business
@@ -9248,6 +9255,7 @@ conferment
 conferrable
 conferrence
 conferrences
+conferring
 confervae
 conferval
 confervas
@@ -10427,6 +10435,7 @@ creosol
 creosols
 creosotic
 crepiest
+crepitant
 crepitate
 crepitated
 crepitations
@@ -10738,6 +10747,7 @@ cuckolding
 cuckolds
 cuckoo
 cuckooflower
+cuckooflowers
 cuckooing
 cucurbit
 cud
@@ -14889,6 +14899,7 @@ emphatic
 emphysematous
 empiricisms
 empiricist
+empirics
 emplaced
 emplanes
 employ
@@ -17340,6 +17351,7 @@ flagrancy
 flagships
 flagstaff
 flagstaffs
+flagstaves
 flagstick
 flail
 flake
@@ -17802,6 +17814,7 @@ fontanelle
 fontanels
 fontina
 foodstuffs
+foofaraw
 foofaraws
 foolfish
 foolhardier
@@ -21624,6 +21637,7 @@ homespun
 homestay
 homestays
 homestead
+homesteaded
 homesteading
 homestretch
 homestretches
@@ -23706,6 +23720,7 @@ intenerating
 intenerations
 intense
 intenser
+intensifiers
 intensifies
 intensional
 intensivenesses
@@ -24707,6 +24722,7 @@ joky
 jollied
 jollier
 jollifies
+jollily
 jollyboats
 jolt
 jolter
@@ -25944,6 +25960,7 @@ legislatorships
 legists
 legit
 legitimacy
+legitimates
 legitimating
 legitimation
 legitimatizing
@@ -27520,6 +27537,7 @@ martially
 martians
 marting
 martingal
+martingale
 martingals
 martini
 martins
@@ -28912,6 +28930,7 @@ misregistration
 misrelated
 misrelates
 misrelies
+misrenders
 misreported
 misreporting
 misrepresents
@@ -30282,6 +30301,7 @@ nelumbiums
 nelumbos
 nematicides
 nematocidal
+nematocide
 nematocysts
 nematological
 nemertine
@@ -30552,6 +30572,7 @@ nimbostratus
 nimming
 nincompoopery
 ninebarks
+ninefold
 nines
 ninety
 ninny
@@ -32910,6 +32931,7 @@ overskirt
 overslipped
 overslipping
 oversoaked
+oversouls
 overspecializes
 overspeculate
 overspenders
@@ -33748,6 +33770,7 @@ patagium
 patchable
 patcher
 patches
+patchier
 patchily
 patchworking
 patchworks
@@ -33988,6 +34011,7 @@ pegmatites
 pehs
 peignoir
 peignoirs
+peined
 peining
 peins
 peised
@@ -36439,6 +36463,7 @@ prepositive
 prepotency
 prepotently
 preppiest
+preprandial
 prepriced
 preprices
 preprimary
@@ -36468,6 +36493,7 @@ preregisters
 preregistration
 prerenal
 prerequire
+prerequired
 prerequisites
 prerevisionist
 prerinsed
@@ -37782,6 +37808,7 @@ quarterstaves
 quartile
 quarto
 quasicrystal
+quasicrystals
 quasiparticles
 quasiperiodic
 quassia
@@ -37906,6 +37933,7 @@ quodlibet
 quodlibets
 quods
 quoining
+quoits
 quomodo
 quomodos
 quorum
@@ -38843,6 +38871,7 @@ redisposing
 redisposition
 redissolving
 redistilled
+redistills
 redistributions
 redistrict
 redistricts
@@ -40200,6 +40229,7 @@ retrocession
 retrocessions
 retrofit
 retrofitted
+retroflections
 retrogradation
 retrograded
 retrogradely
@@ -41604,6 +41634,7 @@ saxhorns
 saxitoxins
 saxony
 saxophonists
+saxtuba
 saxtubas
 sayed
 sayeds
@@ -46530,6 +46561,7 @@ superhype
 superimposable
 superimposes
 superimposition
+superincumbent
 superinduces
 superinduction
 superinfect
@@ -48912,6 +48944,7 @@ transfused
 transfusions
 transgress
 transgresses
+transgressions
 transgressive
 transgressor
 transhipped
@@ -49234,6 +49267,7 @@ trimer
 trimers
 trimeter
 trimetric
+trimetrogons
 trimmed
 trimmer
 trimmers
@@ -51503,6 +51537,7 @@ varactor
 varactors
 varia
 variable
+variablenesses
 variance
 variation
 variational
