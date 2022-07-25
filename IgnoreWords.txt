@@ -1132,6 +1132,7 @@ alogical
 aloof
 aloofly
 aloofness
+alpaca
 alpacas
 alpenglow
 alpenhorns
@@ -4939,6 +4940,7 @@ bodyguarding
 bodyguards
 bodying
 bodysuits
+bodysurf
 bodysurfed
 bodysurfers
 bodyworks
@@ -7342,6 +7344,7 @@ charmingly
 charpai
 charpoys
 charquid
+charquis
 charrier
 charring
 charrs
@@ -8205,6 +8208,7 @@ cloak
 cloaked
 cloaking
 cloakroom
+cloakrooms
 clobbering
 clocker
 clocking
@@ -9906,6 +9910,7 @@ coscript
 coscripted
 coscripting
 cosec
+cosecs
 coseismals
 coshers
 coshing
@@ -10608,6 +10613,7 @@ cryptarithm
 cryptically
 cryptococci
 cryptococcosis
+cryptogams
 cryptologic
 cryptological
 cryptologies
@@ -14667,6 +14673,7 @@ embezzlers
 embezzles
 embitter
 embitters
+emblazed
 emblazing
 emblazoned
 emblazoner
@@ -15654,6 +15661,7 @@ ethmoidal
 ethnarchies
 ethnically
 ethnobotanist
+ethnobotanists
 ethnobotany
 ethnocentrism
 ethnographer
@@ -15799,6 +15807,7 @@ everlastingness
 evermore
 eversion
 everyday
+everydayness
 everymen
 everyone
 everywhere
@@ -17609,6 +17618,7 @@ folacin
 folates
 foldaway
 foldaways
+foldboat
 foldboats
 folderol
 foldup
@@ -18091,6 +18101,7 @@ freestones
 freestyles
 freethinkers
 freeware
+freeway
 freewheel
 freewheelers
 freewill
@@ -18399,6 +18410,7 @@ furtively
 furuncle
 furuncles
 furze
+fusains
 fusaria
 fuse
 fused
@@ -19365,6 +19377,7 @@ gluttonies
 glycans
 glyceridic
 glycerol
+glycerols
 glyceryl
 glycine
 glycins
@@ -19627,6 +19640,7 @@ graffiting
 graffito
 graftage
 grafting
+graham
 grahams
 grain
 grainer
@@ -20466,6 +20480,7 @@ handsomenesses
 handsprings
 handstands
 handworks
+handwringer
 handwrote
 handy
 handyperson
@@ -22480,6 +22495,7 @@ impavid
 impawned
 impawns
 impeach
+impeachable
 impeachers
 impeccabilities
 impeccably
@@ -24242,6 +24258,7 @@ jaguarondi
 jaguarondis
 jail
 jailbirds
+jailhouse
 jailing
 jailor
 jalap
@@ -26084,6 +26101,7 @@ lingered
 lingerer
 lingerers
 lingerie
+lingeringly
 lingers
 lingo
 lingonberry
@@ -26720,6 +26738,7 @@ lycea
 lychees
 lyches
 lychnis
+lychnises
 lycopenes
 lycopodium
 lymphatics
@@ -26839,6 +26858,7 @@ mae
 maenadism
 maestosos
 maffick
+mafficker
 mafficks
 mafia
 mafiosi
@@ -26888,6 +26908,7 @@ maharishis
 mahimahi
 mahjongs
 mahlstick
+mahogany
 mahzors
 maiden
 maidenheads
@@ -31796,6 +31817,7 @@ osteoblasts
 osteoclasts
 osteocyte
 osteocytes
+osteogenic
 osteological
 osteomalacia
 osteomyelitis
@@ -35246,6 +35268,7 @@ politically
 politicised
 politicises
 politicize
+politicizes
 politicked
 politicking
 politicks
@@ -36466,6 +36489,7 @@ proconsulates
 proconsulship
 procrastinate
 procrastinated
+procrastinates
 procrastinating
 procreating
 procreator
@@ -36524,6 +36548,7 @@ profitableness
 profiteer
 profiteered
 profiter
+profiteroles
 profiters
 profits
 profitwise
@@ -36772,6 +36797,7 @@ protean
 protect
 protectants
 protecter
+protecting
 protectionist
 protectionists
 protections
@@ -39949,6 +39975,7 @@ reviewable
 reviewal
 reviewed
 reviewers
+reviewing
 revilement
 reviling
 revisable
@@ -39994,6 +40021,7 @@ reward
 rewarded
 rewarding
 rewardingly
+rewarmed
 rewashing
 rewaxed
 reweaved
@@ -40099,6 +40127,7 @@ ribands
 ribbands
 ribbers
 ribbing
+ribboning
 ribgrass
 riblet
 riboflavins
@@ -43546,6 +43575,7 @@ snacker
 snackers
 snacks
 snaffles
+snafued
 snafuing
 snag
 snail
@@ -46910,6 +46940,7 @@ tantrism
 tanuki
 tanzanite
 tao
+tapa
 tapadera
 tapaderos
 tapalo
@@ -47115,6 +47146,7 @@ teemingnesses
 teen
 teenaged
 teenager
+teenagers
 teener
 tees
 teeterboards
@@ -47852,6 +47884,7 @@ tiler
 tiling
 tillage
 tillandsia
+tillered
 tillering
 tillermen
 tillites
@@ -48968,6 +49001,7 @@ trueloves
 trues
 trug
 truism
+truistic
 trumeau
 trumeaux
 trump
@@ -51029,6 +51063,7 @@ vapourer
 vapours
 vara
 varactor
+varactors
 varia
 variable
 variance
