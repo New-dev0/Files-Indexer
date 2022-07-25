@@ -415,6 +415,7 @@ adapter
 adapters
 adaptivity
 adaptors
+addax
 addends
 addendums
 adding
@@ -1604,6 +1605,7 @@ animates
 animation
 animations
 animatism
+animatist
 animator
 animators
 animatronic
@@ -3196,6 +3198,7 @@ backflows
 background
 backgrounders
 backgrounds
+backhanded
 backhander
 backhanders
 backhaul
@@ -5288,6 +5291,7 @@ brachiation
 brachiopods
 brachs
 bracingly
+bracioles
 bracken
 bracket
 bracketing
@@ -6337,6 +6341,7 @@ candies
 candleberries
 candlefish
 candlefishes
+candlelight
 candlelighter
 candlelit
 candlesnuffers
@@ -9728,6 +9733,7 @@ cordialities
 cordially
 cordials
 cordilleran
+cordites
 cordlesses
 cordons
 corduroyed
@@ -10079,6 +10085,7 @@ courts
 couscous
 cousin
 cousinly
+couteaux
 couthest
 couture
 coutures
@@ -10960,6 +10967,7 @@ cylix
 cyma
 cymae
 cymars
+cymatia
 cymbal
 cymbaler
 cymbalom
@@ -12679,6 +12687,7 @@ diorites
 dioritic
 dioxan
 dioxans
+dioxins
 dip
 dipeptidase
 diphase
@@ -12732,6 +12741,7 @@ diptyca
 diquats
 directedness
 directer
+directionality
 directives
 directness
 director
@@ -12776,6 +12786,7 @@ disagreeable
 disagreement
 disagrees
 disallowed
+disallowing
 disambiguated
 disambiguations
 disannulling
@@ -14191,6 +14202,7 @@ earthset
 earthsets
 earthshakers
 earthshaking
+earthshine
 earthshines
 earthward
 earthwards
@@ -20166,6 +20178,7 @@ gymkhana
 gymnast
 gymnastic
 gymnastically
+gymnasts
 gynaecia
 gynaecium
 gynaecologies
@@ -24263,6 +24276,7 @@ jauked
 jaunced
 jaundiced
 jaunt
+jauntier
 jauntily
 jauntinesses
 jaunty
@@ -25844,6 +25858,7 @@ liberalizers
 liberalizes
 liberated
 liberationists
+libertarians
 liberties
 libertine
 liberty
@@ -26090,6 +26105,7 @@ lippering
 lippers
 lippiness
 lipreading
+lipreadings
 lipreads
 lipstick
 lipsticked
@@ -27058,6 +27074,7 @@ manitus
 manlike
 manly
 manna
+manned
 mannequins
 mannerism
 mannerist
@@ -28411,6 +28428,7 @@ misconducts
 misconnection
 misconstrues
 miscook
+miscopy
 miscorrelations
 miscreated
 miscreation
@@ -28423,6 +28441,7 @@ misdealing
 misdeals
 misdefine
 misdefining
+misdescribing
 misdescriptions
 misdiagnosed
 misdiagnosis
@@ -33266,6 +33285,7 @@ parroty
 parrs
 parry
 pars
+parses
 parsley
 parsleyed
 parsleys
@@ -34605,6 +34625,7 @@ pinchbug
 pinchcock
 pinchecks
 pinched
+pinchers
 pinchpenny
 pincushion
 pindling
@@ -35313,6 +35334,7 @@ pomade
 pomaded
 pomanders
 pomegranates
+pomelos
 pommel
 pommelled
 pommels
@@ -38088,6 +38110,7 @@ rebuffing
 rebuffs
 rebuilding
 rebuilds
+rebuke
 rebuker
 rebukes
 rebuking
@@ -42460,6 +42483,7 @@ shipping
 ships
 shipside
 shipsides
+shipway
 shipworms
 shipwrecked
 shipwright
@@ -42845,6 +42869,7 @@ simas
 simile
 similitudes
 simioid
+simitars
 simmers
 simoniac
 simoniacal
@@ -43042,6 +43067,7 @@ skijoring
 skilled
 skillet
 skillets
+skillfully
 skillfulness
 skim
 skimboard
@@ -46696,6 +46722,7 @@ tailskids
 tailslide
 tailwater
 tailwaters
+tailwinds
 tains
 takable
 take
@@ -46729,6 +46756,7 @@ talky
 tall
 tallaisim
 tallithes
+tallithim
 tallitim
 tallitoth
 tallits
@@ -47282,10 +47310,12 @@ terrines
 territ
 territorial
 territorialisms
+territorialize
 territorialized
 territorials
 terrorising
 terrorisms
+terrorist
 terrorists
 terrorizations
 terrorless
@@ -47901,6 +47931,7 @@ tobogganists
 toboggans
 toccata
 toccatas
+tocher
 tochering
 tocopherol
 tocsins
@@ -48281,6 +48312,7 @@ trail
 trailblazers
 trailered
 trailerings
+trailerists
 trailless
 trainabilities
 trainability
@@ -49494,6 +49526,7 @@ uncaging
 uncake
 uncalculated
 uncalculating
+uncalibrated
 uncalloused
 uncanceled
 uncap
@@ -50153,6 +50186,7 @@ unmemorably
 unmeshed
 unmeshes
 unmew
+unmewed
 unmingle
 unmingles
 unmistakable
@@ -51235,6 +51269,7 @@ vetoes
 vets
 vetting
 vexatious
+vexatiousness
 vexedness
 vexer
 vexers
