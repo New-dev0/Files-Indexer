@@ -937,6 +937,7 @@ albumins
 albuminuria
 alburnums
 alcahests
+alcaics
 alcaldes
 alcazars
 alchemical
@@ -1066,6 +1067,7 @@ alley
 alleyway
 allheals
 alliable
+allicin
 allies
 alligator
 alligators
@@ -5117,6 +5119,7 @@ bookish
 bookishness
 bookkeepers
 bookkeeping
+booklouse
 bookmaker
 bookmakings
 bookman
@@ -7431,6 +7434,7 @@ chaufers
 chauffeur
 chauffeured
 chaulmoogra
+chaunts
 chaussures
 chawbacon
 chawbacons
@@ -9943,6 +9947,7 @@ cortexes
 cortically
 corticoids
 corticotrophin
+corticotrophins
 cortisone
 corulers
 corundums
@@ -10951,6 +10956,7 @@ cutin
 cutinise
 cutinised
 cutinizes
+cutins
 cutlas
 cutler
 cutlines
@@ -12617,6 +12623,7 @@ die
 dieback
 diehards
 dieing
+diel
 dieldrins
 dielectrics
 diemaker
@@ -14458,6 +14465,7 @@ edits
 educables
 educated
 educating
+educationist
 educative
 educe
 educed
@@ -17979,6 +17987,7 @@ formabilities
 formable
 formaldehyde
 formaldehydes
+formalins
 formalised
 formalising
 formalists
@@ -18317,6 +18326,7 @@ frontman
 frontmen
 frontpage
 frontpaging
+frore
 frosh
 frostbit
 frostbite
@@ -18843,6 +18853,7 @@ gastrectomies
 gastritic
 gastrocnemii
 gastronomical
+gastronomies
 gastropods
 gastroscopist
 gastroscopy
@@ -19978,6 +19989,7 @@ gridders
 griddled
 griddling
 gridlocking
+grids
 grief
 grievants
 grieve
@@ -20482,6 +20494,7 @@ hakims
 halakhic
 halakic
 halakist
+halal
 halals
 halations
 halavah
@@ -21585,6 +21598,7 @@ homestretch
 homestretches
 homey
 homeys
+homicidally
 homiest
 homilies
 homily
@@ -23583,6 +23597,7 @@ instating
 instauration
 insteps
 instigate
+instigation
 instillers
 instillments
 instills
@@ -24010,6 +24025,7 @@ inutile
 inutilely
 inutility
 invaginating
+invalid
 invalidators
 invalided
 invaliding
@@ -30402,6 +30418,7 @@ newsworthy
 newswriting
 newt
 newwavers
+nextdoor
 nexuses
 niacin
 niacinamides
@@ -30630,6 +30647,7 @@ nonautonomous
 nonbacterial
 nonbank
 nonbanks
+nonbasic
 nonbearing
 nonbeing
 nonbeings
@@ -32281,6 +32299,7 @@ outmatches
 outmodes
 outmuscle
 outmuscled
+outorganizing
 outpace
 outpainted
 outpatients
@@ -34676,6 +34695,7 @@ phrenology
 phthalate
 phthalocyanine
 phthisic
+phthisical
 phthisics
 phycocyanins
 phycoerythrins
@@ -35872,6 +35892,7 @@ postretirement
 postriders
 postriot
 postsynaptic
+postsyncing
 posttensions
 posttransfusion
 posttreatment
@@ -36126,6 +36147,7 @@ precleaned
 precleans
 preclearances
 preclears
+precluding
 precocity
 precombustions
 precommitment
@@ -36953,6 +36975,7 @@ propositioned
 propounds
 propretor
 proprieties
+proprietor
 proprietorial
 proprietorship
 proprietorships
@@ -38008,6 +38031,7 @@ rainspouts
 rainwater
 raised
 raisers
+raisonne
 raita
 rajahs
 raked
@@ -39010,6 +39034,7 @@ refrainment
 refrangibility
 refrangible
 refreeze
+refreezes
 refresh
 refreshening
 refresher
@@ -39271,6 +39296,7 @@ relabelled
 relacquered
 relapsers
 relapses
+relatedly
 relational
 relatives
 relativists
@@ -40506,6 +40532,7 @@ ringleted
 ringlike
 ringmaster
 ringside
+ringtail
 ringtoss
 ringtosses
 rinsable
@@ -41124,6 +41151,7 @@ sagos
 saguaro
 sagy
 sahibs
+sahuaros
 saice
 saids
 sailable
@@ -41953,6 +41981,7 @@ sculptors
 sculpturally
 sculpturesque
 scumbag
+scumbling
 scummer
 scummers
 scungilli
@@ -43388,6 +43417,7 @@ skeleton
 skeletonise
 skeletonised
 skeletonising
+skeletonize
 skeletonizer
 skeletons
 skells
@@ -44584,6 +44614,7 @@ sphingids
 sphingosines
 sphinx
 sphygmographs
+sphygmus
 spicate
 spiccato
 spice
@@ -45054,6 +45085,7 @@ stamps
 stance
 stanchers
 standardbred
+standardise
 standardises
 standardized
 standardizing
@@ -49821,6 +49853,7 @@ umpires
 umpteenth
 umteenth
 unabashed
+unabated
 unabating
 unabiding
 unabjured
@@ -52493,6 +52526,7 @@ wedelns
 wedge
 wedgier
 wedgiest
+wedging
 weeder
 weedier
 weediest
@@ -53272,6 +53306,7 @@ xerophilous
 xerophily
 xerophthalmic
 xerophytes
+xerophytic
 xerophytisms
 xeroseres
 xeroses

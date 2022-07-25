@@ -1,0 +1,20 @@
+[PS] Optimizing Parallel Programs with Explicit Synchronization,http://homes.cs.washington.edu/~arvind/papers/synch-pldi95.ps
+[PS] Optimizing the Synchronization Operations in MPI One-Sided ...,https://web.cels.anl.gov/~thakur/papers/ijhpca-rma.ps
+[PS] Minimizing Synchronization Overhead in the Implementation of MPI ...,https://www.mcs.anl.gov/~thakur/papers/europvmmpi04.ps
+[PS] Analysis of Event Synchronization in Parallel Programs J ...,http://www.ee.lsu.edu/jxr/papers/bookchap/lcpc94.PS
+[PS] Analysis of Event Synchronization in A Parallel Programming Tool,http://www2.cs.uh.edu/~jaspal/papers/ppopp90.ps
+[PS] First-Class Synchronization Barriers,https://cs.wellesley.edu/~fturbak/pubs/icfp96.ps
+[PS] Compiler Algorithms for Event Variable Synchronization - CiteSeerX,https://citeseerx.ist.psu.edu/viewdoc/download%3Fdoi%3D10.1.1.51.6806%26rep%3Drep1%26type%3Dps
+[PS] Decoupling Synchronization and Data Transfer in Message Passing ...,https://www.cs.cmu.edu/afs/cs/project/iwarp/archive/iWarp-papers/ics95-decoupling-synchronization-and-data-transfer.ps
+[PS] Compiler Algorithms for Event Variable Synchronization,http://agassiz.cs.umn.edu/Paper/li.ics91.ps
+[PS] Time Synchronization for Wireless Sensor Networks∗,https://www.isi.edu/scadds/papers/timesync.ps
+[PS] Dynamic Speculation and Synchronization of Data Dependences,https://people.eecs.berkeley.edu/~kubitron/courses/cs252-F99/handouts/papers/sohi_spec_isca97.ps
+[PS] Synchronization Minimization in a SPMD Execution Model,https://homepages.inf.ed.ac.uk/mob/jpdc95.ps
+[PS] stdin (ditroff) - University of Wisconsin–Madison,https://ftp.cs.wisc.edu/par-distr-sys/technical_papers/postwait.ps.Z
+[PS] The Post O ce Experience: designing a large asynchronous chip,https://my.ece.utah.edu/~kstevens/docs/hicss93.ps.gz
+[PS] An Algorithm for All-du-path Testing Coverage of Shared Memory ...,http://www.eecis.udel.edu/~pollock/papers/asian.ps
+"[PS] Destructors, Finalizers, and Synchronization",https://www.hpl.hp.com/techreports/2002/HPL-2002-335.ps
+[PS] Best-Effort Cache Synchronization with Source Cooperation∗,http://infolab.stanford.edu/~olston/publications/bes-sigmod.ps
+[PS] Time Synchronization Services for Wireless Sensor Networks,https://www.circlemud.org/jelson/writings/quals.ps
+[PS] Automating Parallel Runtime Optimizations Using Post-Mortem ...,https://charm.cs.illinois.edu/newPapers/96-08/paper.ps
+"[PS] Covariance, Contravariance, and Synchronization Constraints ...",http://www.cse.ohio-state.edu/~neelam/papers/synch.ps.gz
