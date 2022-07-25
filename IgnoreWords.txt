@@ -228,6 +228,7 @@ accursed
 accursedness
 accusably
 accusant
+accusation
 accusative
 accusatory
 accusers
@@ -3664,6 +3665,7 @@ bat
 batcher
 bate
 bateau
+bateaux
 batfowler
 batfowlers
 batfowling
@@ -7817,6 +7819,7 @@ chopsticks
 choragus
 choraguses
 chorale
+chorals
 chording
 chords
 chorea
@@ -8121,6 +8124,7 @@ clamminesses
 clamming
 clamoring
 clamoured
+clampdown
 clamped
 clamper
 clamping
@@ -8266,6 +8270,7 @@ clingers
 clingfishes
 clingstone
 clingy
+clinical
 clinically
 clinkering
 clinks
@@ -8573,6 +8578,7 @@ codgers
 codicology
 codifying
 codirected
+codirection
 codiscoverer
 codlings
 codrive
@@ -8704,6 +8710,7 @@ coinsurances
 coinsured
 coinsurer
 cointerring
+cointreau
 cointreaus
 coinventor
 coinvestigator
@@ -13015,6 +13022,7 @@ disclosures
 discographer
 discographic
 discolouring
+discolours
 discombobulate
 discomfiting
 discomfiture
@@ -15812,6 +15820,7 @@ ethmoid
 ethmoidal
 ethnarchies
 ethnically
+ethnics
 ethnobotanist
 ethnobotanists
 ethnobotany
@@ -16154,6 +16163,7 @@ exhaustlessness
 exhausts
 exhibited
 exhibiters
+exhibiting
 exhibitionisms
 exhibitory
 exhibits
@@ -16244,6 +16254,7 @@ expeditiously
 expeditor
 expellable
 expellants
+expellee
 expeller
 expelling
 expendabilities
@@ -16282,6 +16293,7 @@ explicit
 explicits
 explodes
 exploitative
+explorations
 explore
 explorers
 explores
@@ -18213,6 +18225,7 @@ francize
 francized
 francs
 frangipane
+frankable
 franker
 frankest
 frankfort
@@ -19577,6 +19590,7 @@ gnarr
 gnarrs
 gnashes
 gnat
+gnatcatchers
 gnathic
 gnathions
 gnathite
@@ -19938,6 +19952,7 @@ gratifier
 gratinees
 gratingly
 gratings
+gratuity
 graupel
 graveless
 gravelike
@@ -19955,6 +19970,7 @@ graveyard
 gravida
 gravidae
 gravidity
+gravies
 gravimeters
 gravimetrically
 gravimetry
@@ -23814,6 +23830,7 @@ interfaculty
 interferential
 interferer
 interferometry
+interfertility
 interfiber
 interfiles
 interfiling
@@ -24312,6 +24329,7 @@ irritatingly
 irritative
 irruptions
 isagoge
+isagogics
 isallobar
 isallobaric
 isallobars
@@ -25039,6 +25057,7 @@ kenafs
 kench
 kenches
 kennelling
+kennels
 kenning
 kennings
 kenos
@@ -25751,6 +25770,7 @@ lat
 latches
 latching
 lateener
+lateens
 laten
 latens
 latent
@@ -25795,6 +25815,7 @@ laudation
 laudative
 laudator
 laudators
+laudatory
 lauded
 lauders
 lauding
@@ -29662,6 +29683,7 @@ moviegoing
 moving
 moviola
 mow
+mower
 moxa
 moxie
 mozetta
@@ -29764,6 +29786,7 @@ multidialectal
 multidiscipline
 multidomain
 multielectrode
+multiemployer
 multiengine
 multiethnics
 multifaceted
@@ -30113,6 +30136,7 @@ naiveties
 nakedly
 nala
 nalas
+naloxone
 naloxones
 nam
 nameable
@@ -30527,6 +30551,7 @@ nibbled
 niblick
 niblicks
 nicad
+nicads
 niccolites
 nice
 nicer
@@ -32253,6 +32278,7 @@ outcatching
 outcaught
 outcavilling
 outcavils
+outcharges
 outcharm
 outcheat
 outcheating
@@ -36440,6 +36466,7 @@ premature
 prematureness
 prematurenesses
 premaxillary
+premed
 premedieval
 premeditated
 premeditations
@@ -36592,6 +36619,7 @@ presidentships
 presider
 presidia
 presidiary
+presidiums
 presifts
 presignaling
 presignalling
@@ -36692,6 +36720,7 @@ previewer
 previews
 previous
 prevised
+previsioning
 prevuing
 prewar
 prewarns
@@ -36959,6 +36988,7 @@ progressivists
 progressivity
 progun
 prohibit
+prohibitionist
 prohibitionists
 prohibitively
 prohibits
@@ -46181,6 +46211,7 @@ subornations
 suborners
 suborning
 suborns
+suboscines
 suboval
 subovate
 suboxide
@@ -49347,6 +49378,7 @@ trinocular
 trinodal
 trinomials
 triode
+triol
 trios
 trioxid
 trioxids
@@ -50091,6 +50123,7 @@ unbaked
 unbalances
 unbale
 unbaled
+unbales
 unbaling
 unballasted
 unbarred
@@ -50441,6 +50474,7 @@ undertaken
 undertaker
 undertakes
 undertaking
+undertaxes
 undertenant
 undertint
 undertints
@@ -51729,6 +51763,7 @@ velar
 velarization
 velarizing
 velate
+velcros
 veldts
 veliger
 veligers
