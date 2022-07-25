@@ -180,6 +180,7 @@ acclimatizer
 acclimatizes
 acclivities
 accommodating
+accommodatingly
 accommodation
 accommodational
 accommodator
@@ -1009,6 +1010,7 @@ aliquots
 alit
 aliterates
 alive
+aliveness
 aliyas
 aliyot
 alizarine
@@ -2390,6 +2392,7 @@ armed
 armhole
 armiger
 armigerous
+arming
 armistices
 armlock
 armoire
@@ -5234,6 +5237,7 @@ bouncer
 bouncers
 bouncing
 boundaries
+boundednesses
 bounden
 bounderish
 bounders
@@ -5560,6 +5564,7 @@ brittlest
 brittling
 broach
 broadbean
+broadbeans
 broadbill
 broadcasted
 broadcloth
@@ -6202,6 +6207,7 @@ calcanei
 calcar
 calceate
 calcedony
+calcicoles
 calciferol
 calcific
 calcifications
@@ -8487,6 +8493,7 @@ cocreators
 cocultivate
 cocultivated
 cocultivation
+cocultures
 cocurators
 cod
 codas
@@ -9633,6 +9640,7 @@ conveyor
 conveyorise
 conveyorised
 conveyorize
+conveyorizes
 conveyors
 convict
 conviction
@@ -10539,6 +10547,7 @@ crossness
 crossovers
 crosspatches
 crosspiece
+crossroads
 crossruffs
 crosstown
 crosstree
@@ -10632,6 +10641,7 @@ cryobiologies
 cryobiologist
 cryobiology
 cryogenics
+cryogens
 cryogeny
 cryophyte
 cryopreserve
@@ -12245,6 +12255,7 @@ desorb
 despatch
 desperate
 desperateness
+desperatenesses
 despicable
 despised
 despisements
@@ -12267,6 +12278,7 @@ destitutes
 destitution
 destitutions
 destrier
+destroy
 destroys
 destruct
 destructed
@@ -15479,6 +15491,7 @@ equipped
 equips
 equitabilities
 equitable
+equivalences
 equivalencies
 equivocality
 equivoke
@@ -16603,6 +16616,7 @@ farrieries
 farriers
 farsides
 farsightedly
+fart
 farther
 farthing
 farting
@@ -17194,6 +17208,7 @@ fishmeal
 fishmeals
 fishmonger
 fishmongers
+fishpole
 fishtails
 fishway
 fishways
@@ -19261,6 +19276,7 @@ glairing
 glairs
 glairy
 glaived
+glamorise
 glamorised
 glamorizations
 glamorized
@@ -20458,6 +20474,7 @@ halloos
 hallot
 halluces
 hallucinator
+hallucinatory
 hallucinogens
 hallux
 hallways
@@ -20734,6 +20751,7 @@ hatters
 hatting
 haughtier
 haul
+haulage
 hauler
 haulm
 haulmiest
@@ -21010,6 +21028,7 @@ hem
 hemacytometer
 hemacytometers
 hemagglutinates
+hemagglutinin
 hemagogs
 hemal
 hematics
@@ -24035,6 +24054,7 @@ inwall
 inwardnesses
 inwards
 inweaving
+inwind
 inwinding
 inwound
 inwove
@@ -24223,6 +24243,7 @@ isolationists
 isolations
 isoleads
 isoleucines
+isoline
 isolines
 isomerases
 isomerism
@@ -25977,6 +25998,7 @@ lexically
 lexicographer
 lexicographers
 lexicologies
+lexicologist
 ley
 lezzes
 lezzy
@@ -27553,6 +27575,7 @@ maxim
 maximalist
 maximally
 maximals
+maximin
 maximising
 maximites
 maximizing
@@ -31085,6 +31108,7 @@ nuchal
 nuchals
 nucleal
 nuclear
+nucleases
 nucleates
 nucleations
 nucleins
@@ -31505,6 +31529,7 @@ oldfangled
 oldie
 oldies
 oldish
+oldness
 olds
 oldsquaws
 oldster
@@ -32931,6 +32956,7 @@ ozonize
 ozonizer
 ozonizers
 ozonizes
+ozonosphere
 pablum
 pablums
 pabulums
@@ -38461,6 +38487,7 @@ recoloring
 recombinant
 recombinational
 recombing
+recombining
 recommencement
 recommences
 recommendable
@@ -43946,6 +43973,7 @@ sociobiologist
 socioculturally
 socioeconomic
 sociogram
+sociograms
 sociohistorical
 sociolinguistic
 sociolinguists
@@ -45074,6 +45102,7 @@ steepened
 steepening
 steepens
 steepest
+steepish
 steeplebush
 steeplechase
 steeplechaser
@@ -45785,6 +45814,7 @@ subheadings
 subheads
 subhuman
 subhumid
+subidea
 subindices
 subindustry
 subinfeudates
@@ -49231,6 +49261,7 @@ trypsins
 tryptamines
 tryster
 tsaddik
+tsades
 tsar
 tsardoms
 tsarevnas
@@ -49546,6 +49577,7 @@ typiest
 typification
 typifiers
 typographed
+typographs
 typography
 typologic
 typologists
@@ -49677,6 +49709,7 @@ umbrageously
 umbral
 umbrettes
 umiac
+umiacs
 umiaks
 umlaut
 umlauting
@@ -52829,6 +52862,7 @@ withindoors
 withins
 withouts
 withstood
+witless
 witnesser
 witnessers
 witnesses
@@ -52880,6 +52914,7 @@ wonderfulness
 wonderland
 wonderlands
 wonk
+wonkier
 wonkiest
 wonky
 wont
