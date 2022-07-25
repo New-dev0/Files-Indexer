@@ -71,6 +71,7 @@ absorbancies
 absorbant
 absorbants
 absorptances
+abstained
 abstainers
 abstaining
 abstemiously
@@ -1511,6 +1512,7 @@ ancestored
 ancestoring
 ancestors
 ancestress
+ancho
 anchoress
 anchoresses
 anchoret
@@ -3193,6 +3195,7 @@ babesiosis
 babiche
 babiches
 babiest
+baboon
 baboonery
 baboos
 babu
@@ -4265,6 +4268,7 @@ bewitches
 bewitchments
 beworm
 beworming
+beworms
 beworry
 bewrap
 bewrapt
@@ -4311,6 +4315,7 @@ bice
 bicentenaries
 bicentenary
 biceps
+bices
 bichromated
 bicipital
 bickered
@@ -8197,6 +8202,7 @@ clear
 clearance
 clearcutting
 clearer
+clearest
 cleareyed
 clearing
 clearings
@@ -10527,6 +10533,7 @@ criticizing
 critique
 critiques
 croaker
+croakily
 croaking
 croc
 croci
@@ -11252,6 +11259,7 @@ damozels
 damp
 damped
 dampen
+dampened
 dampener
 dampening
 dampens
@@ -11625,6 +11633,7 @@ decorates
 decoration
 decorations
 decoratively
+decorativeness
 decorators
 decorticate
 decortications
@@ -13762,6 +13771,7 @@ dovetails
 dow
 dowagers
 dowdier
+dowed
 dowel
 doweled
 dowelling
@@ -21855,6 +21865,7 @@ horseweed
 horsewhipper
 horsinesses
 horticultures
+hosannah
 hoselike
 hosen
 hosepipe
@@ -22225,6 +22236,7 @@ hypercautious
 hypercomplex
 hypercorrectly
 hypercritical
+hypercritics
 hypercube
 hyperemias
 hyperesthetic
@@ -22781,6 +22793,7 @@ impone
 importance
 importances
 importation
+importing
 importunateness
 importuned
 importunely
@@ -25054,6 +25067,7 @@ ketenes
 ketogenesis
 ketogenic
 ketones
+ketotic
 kettle
 kettledrums
 kewpies
@@ -25472,6 +25486,7 @@ laconisms
 lacquer
 lacquerer
 lacqueyed
+lacrimations
 lactalbumins
 lactases
 lactate
@@ -25668,6 +25683,7 @@ lappered
 lapping
 lapsable
 lapsers
+laptop
 lapwings
 larder
 lardiest
@@ -25995,6 +26011,7 @@ lemmatizes
 lemmatizing
 lemminglike
 lemonish
+lemures
 lemurine
 lenders
 lending
@@ -26209,6 +26226,7 @@ lifespans
 lifestyle
 lifetimes
 lifeways
+lifework
 lifeworks
 lifted
 lifters
@@ -26881,6 +26899,7 @@ luminance
 luminarias
 luminaries
 luminary
+luminesce
 luminesced
 luminescence
 luminescences
@@ -29145,6 +29164,7 @@ moldwarps
 moldy
 molecules
 molehill
+moleskins
 molesting
 mollification
 mollified
@@ -31301,6 +31321,7 @@ nummular
 nun
 nunchakus
 nunciatures
+nuncio
 nuncios
 nuncle
 nuncles
@@ -31427,6 +31448,7 @@ obnubilate
 obnubilates
 obol
 obole
+obovate
 obovoid
 obscener
 obscenest
@@ -31817,6 +31839,7 @@ operatic
 operatically
 operation
 operationalists
+operationism
 operationisms
 operative
 operativenesses
@@ -33432,6 +33455,7 @@ paparazzi
 paparazzo
 paperback
 paperbacks
+paperbark
 paperbarks
 paperboard
 paperboards
@@ -33472,6 +33496,7 @@ paraboloids
 parachutes
 paracletes
 paradiddle
+paradigm
 paradisaic
 paradisaical
 paradisal
@@ -37342,6 +37367,7 @@ ptisan
 ptomain
 ptomainic
 ptooey
+ptoses
 ptosis
 ptyalin
 pubertal
@@ -42267,6 +42293,7 @@ seg
 segmental
 segmenting
 segregant
+segregation
 segregationists
 segs
 seicento
@@ -47136,6 +47163,7 @@ system
 systematists
 systematize
 systematized
+systematizing
 systemics
 systemization
 systemizes
@@ -48123,6 +48151,7 @@ thought
 thoughtfully
 thousand
 thowless
+thraldom
 thraldoms
 thralled
 thrashed
@@ -48537,6 +48566,7 @@ tombless
 tombola
 tombolas
 tomboyishness
+tombstone
 tombstones
 tomcod
 tomfooleries
@@ -48586,6 +48616,7 @@ toolmaking
 toolmakings
 toonie
 toot
+tooth
 toothing
 toothpaste
 toothpicks
@@ -49606,6 +49637,7 @@ tunneling
 tunny
 tuns
 tupped
+tuppence
 tuppences
 tuppenny
 tuque
@@ -49767,6 +49799,7 @@ twistings
 twitched
 twitchiest
 twitchy
+twitted
 twittery
 two
 twofer
@@ -51441,6 +51474,7 @@ vainglories
 vair
 vakeel
 valances
+valences
 valentines
 valerates
 valeted
@@ -51722,6 +51756,7 @@ ventriloquist
 ventriloquize
 ventriloquized
 ventriloquizing
+ventriloquy
 venturer
 venturesomely
 venturousness
