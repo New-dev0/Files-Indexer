@@ -1565,6 +1565,7 @@ angiosperm
 angiospermous
 angle
 angler
+anglerfish
 angleworm
 angleworms
 anglice
@@ -3777,6 +3778,7 @@ becket
 beckoned
 beckoners
 beckoning
+beckons
 beclamoring
 beclamors
 beclasp
@@ -6095,6 +6097,7 @@ cablecasting
 cablets
 cabob
 cabochons
+cabotage
 cabrestos
 cabrioles
 cabstands
@@ -9175,6 +9178,7 @@ conductances
 conductive
 conductivity
 conduplicate
+condyloid
 condyloma
 condylomata
 coned
@@ -10354,6 +10358,7 @@ crenelations
 creneled
 crenels
 crenshaw
+crenulated
 creodont
 creole
 creolise
@@ -11733,6 +11738,7 @@ degauss
 degaussers
 degendered
 degenerate
+degenerating
 degenerative
 deglaciated
 deglamorize
@@ -20389,6 +20395,7 @@ hairlike
 hairlock
 hairlocks
 hairpiece
+hairs
 hairsplitting
 hairsplittings
 hairsprays
@@ -24700,6 +24707,7 @@ kabeljou
 kabikis
 kabobs
 kachinas
+kaddish
 kaddishes
 kaddishim
 kadi
@@ -26738,6 +26746,7 @@ lunkers
 lunks
 lunt
 lunting
+lunula
 lunulated
 lunule
 lupulins
@@ -27467,6 +27476,7 @@ matrilineally
 matrimonies
 matrimony
 matronizes
+matrons
 matsah
 matsutakes
 matt
@@ -28478,6 +28488,7 @@ misanthropy
 misapplication
 misapplied
 misappraisals
+misapprehend
 misapprehended
 misapprehending
 misapprehension
@@ -31182,6 +31193,7 @@ obfuscatory
 obit
 objected
 objection
+objections
 objectiveness
 objectivenesses
 objectivism
@@ -31907,6 +31919,7 @@ others
 otherworld
 otherworldly
 otic
+otiosely
 otioseness
 otiosities
 otocystic
@@ -32715,6 +32728,7 @@ overspecializes
 overspeculate
 overspenders
 overspending
+overspiced
 overspins
 overspreading
 overstaff
@@ -32859,6 +32873,7 @@ oxyphiles
 oxyphils
 oxytocins
 oyes
+oyez
 oystercatcher
 oystercatchers
 oysterer
@@ -34009,6 +34024,7 @@ peridia
 peridotites
 perigee
 perigees
+perigons
 perigyny
 perikaryal
 perilla
@@ -35093,6 +35109,7 @@ please
 pleaser
 pleasingness
 pleasurableness
+pleasureless
 pleasures
 pleb
 plebeianism
@@ -35440,6 +35457,7 @@ polyphonies
 polyphonous
 polyphyletic
 polypide
+polyploidy
 polypores
 polypous
 polyps
@@ -35811,6 +35829,7 @@ powderless
 power
 powerfully
 powerlessly
+powters
 powwows
 poxes
 poxing
@@ -36156,6 +36175,7 @@ premie
 premier
 premiered
 premiering
+premierships
 premillenarian
 premillenarians
 premising
@@ -38247,6 +38267,7 @@ reboarded
 rebodied
 rebodies
 reboiling
+reboils
 rebook
 rebooked
 rebop
@@ -38427,6 +38448,7 @@ reconfine
 reconfines
 reconfirming
 reconnected
+reconnecting
 reconnection
 reconning
 reconnoiters
@@ -40993,6 +41015,7 @@ salina
 salinizations
 salinizing
 saliva
+salivation
 salivator
 salivators
 sallets
@@ -42589,6 +42612,7 @@ shepherdesses
 shepherds
 sheqalim
 sheqel
+sheqels
 sherberts
 sherds
 shereef
@@ -43626,6 +43650,7 @@ smiting
 smock
 smockings
 smocks
+smoggier
 smogless
 smokehouses
 smokejacks
@@ -47010,6 +47035,7 @@ tangos
 tangs
 tanistry
 tankage
+tankages
 tankas
 tanker
 tankfuls
@@ -47072,6 +47098,7 @@ tariffing
 tarlatan
 tarlatans
 tarletan
+tarletans
 tarmacadam
 tarmacked
 tarmacs
@@ -47300,6 +47327,7 @@ telescoped
 telescopic
 teleses
 teleshops
+telestich
 telestichs
 teletext
 teletexts
@@ -47413,6 +47441,7 @@ tenpounder
 tens
 tense
 tensenesses
+tensilities
 tensors
 tent
 tentative
@@ -48291,6 +48320,7 @@ toppr
 topsails
 topsides
 topsoiling
+toquets
 tora
 toras
 torchbearer
@@ -49283,6 +49313,7 @@ turfski
 turfskiing
 turfskiings
 turgidities
+turgidness
 turgors
 turions
 turistas
@@ -50920,6 +50951,7 @@ upstroke
 upsurges
 upsweeping
 upsweeps
+upswelled
 uptakes
 uptalks
 uptempos
@@ -51083,6 +51115,7 @@ valiances
 valiancy
 valiant
 valiantly
+valiantness
 valid
 validating
 validity
@@ -52098,6 +52131,7 @@ washstand
 washups
 washwoman
 washwomen
+washy
 wassailing
 wassails
 wast
@@ -52244,6 +52278,7 @@ weblog
 webpage
 webpages
 webs
+website
 webwork
 webworm
 webworms
