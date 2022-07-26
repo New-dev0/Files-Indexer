@@ -10274,6 +10274,7 @@ coverages
 coveralled
 coveralls
 covering
+covertness
 covertnesses
 coverup
 coves
@@ -10502,6 +10503,7 @@ creolize
 creosol
 creosols
 creosotic
+crepey
 crepiest
 crepitant
 crepitate
@@ -13139,6 +13141,7 @@ discriminants
 discriminator
 discrown
 discrowned
+discrowns
 discursively
 discursiveness
 discus
@@ -14932,6 +14935,7 @@ embrocations
 embroidered
 embroiler
 embroiling
+embroilment
 embrown
 embrowns
 embrued
@@ -15995,6 +15999,7 @@ eurytopic
 eustasy
 eustele
 eutaxy
+eutectoids
 euthanasia
 euthanasic
 euthanatize
@@ -18270,6 +18275,7 @@ foziness
 fozinesses
 fracases
 fractionalize
+fractionalized
 fractionated
 fractionator
 fractious
@@ -18361,6 +18367,7 @@ freelances
 freely
 freemasonry
 freemen
+freenesses
 freer
 freesias
 freestones
@@ -19657,6 +19664,7 @@ gluts
 glutted
 gluttonies
 glycans
+glyceraldehydes
 glyceridic
 glycerol
 glycerols
@@ -20705,6 +20713,7 @@ halogen
 halogenate
 halogenates
 halogenating
+halogens
 haloid
 haloids
 halterbreaking
@@ -21133,6 +21142,7 @@ heaumes
 heavenlier
 heavenliness
 heavens
+heavenwards
 heavily
 heavy
 heavyhearted
@@ -21310,6 +21320,7 @@ hems
 hemstitching
 henbit
 henchman
+hencoops
 henge
 henges
 heniquens
@@ -21535,6 +21546,7 @@ highjack
 highjacks
 highlander
 highlighting
+hightailing
 highths
 highting
 hightops
@@ -23079,6 +23091,7 @@ incalescent
 incandesce
 incandescent
 incandescents
+incantational
 incantations
 incanted
 incapable
@@ -23550,6 +23563,7 @@ inglenooks
 ingloriousness
 ingot
 ingoted
+ingoting
 ingraft
 ingrafting
 ingrafts
@@ -23998,6 +24012,7 @@ interloops
 interloped
 interloping
 interlude
+interlunary
 intermarry
 intermarrying
 intermat
@@ -24982,6 +24997,7 @@ juniority
 junk
 junkers
 junketeer
+junketeered
 junkies
 junkyards
 junto
@@ -25700,6 +25716,7 @@ lakier
 lakings
 lallation
 lallations
+lallygags
 lam
 lamb
 lambasted
@@ -26182,6 +26199,7 @@ lenten
 lenticular
 lentil
 lentils
+lentisks
 lentivirus
 lentiviruses
 leone
@@ -27267,6 +27285,7 @@ madeleine
 madmen
 madness
 madreporian
+madrilene
 madronos
 maduros
 madwomen
@@ -27643,7 +27662,9 @@ margins
 margravate
 margravine
 marguerite
+mariachis
 mariculturists
+marijuanas
 marimbists
 marinade
 marinades
@@ -27751,6 +27772,7 @@ massacre
 massacred
 massacrers
 massage
+masses
 masseteric
 masseters
 massif
@@ -28263,6 +28285,7 @@ mesenteron
 mesh
 meshiest
 meshing
+meshugah
 mesically
 mesmerise
 mesmerisms
@@ -28942,6 +28965,7 @@ misdefining
 misdescribing
 misdescriptions
 misdiagnosed
+misdiagnoses
 misdiagnosis
 misdirections
 misdirects
@@ -31485,6 +31509,7 @@ numbats
 number
 numbfish
 numbfishes
+numbingly
 numbles
 numbness
 numbnesses
@@ -32410,6 +32435,7 @@ outbrazening
 outbreaks
 outbribe
 outbribes
+outbuilds
 outbuilt
 outbulges
 outbullying
@@ -33326,6 +33352,7 @@ paced
 pacemakings
 pachinko
 pachyderms
+pachysandra
 pacifiable
 pacifical
 pacification
@@ -34058,6 +34085,7 @@ pattamar
 pattens
 patterer
 patternings
+patterns
 patters
 patting
 pattypans
@@ -34537,6 +34565,7 @@ permission
 permitter
 permitting
 permutational
+permuted
 permuting
 perniciousness
 pernod
@@ -38295,6 +38324,7 @@ radioprotection
 radiosensitive
 radiotelemetric
 radiotelemetry
+radiotelephone
 radiotelephones
 radiothoriums
 radishes
@@ -40734,6 +40764,7 @@ rhombohedra
 rhomboidal
 rhombus
 rhumb
+rhumbas
 rhymer
 rhymester
 rhyming
@@ -41476,6 +41507,7 @@ safranin
 safranines
 sag
 saga
+sagacity
 sagamen
 sagamores
 saganash
@@ -42932,6 +42964,7 @@ sewage
 sewan
 sewed
 sewer
+sewerages
 sewerlike
 sewings
 sex
@@ -43457,6 +43490,7 @@ shynesses
 si
 sialidan
 sials
+sibbs
 sibilancy
 sibilate
 sibilation
@@ -48392,6 +48426,7 @@ thionine
 thionines
 thioridazine
 thiotepas
+thiouracil
 thioureas
 thirams
 thirls
