@@ -1482,6 +1482,7 @@ analogs
 analogues
 analogy
 analphabetism
+analphabetisms
 analphabets
 analysed
 analyses
@@ -5061,6 +5062,7 @@ boldfaces
 boldfacing
 boldly
 boldness
+bolds
 boleti
 boletuses
 bolivar
@@ -6279,6 +6281,7 @@ calcine
 calcinoses
 calcinosis
 calcites
+calcitonin
 calcspar
 calcspars
 calctufa
@@ -8697,6 +8700,7 @@ cohobate
 cohobates
 cohobating
 coholder
+cohomologies
 cohomology
 cohorts
 cohosh
@@ -11626,6 +11630,7 @@ declassing
 declaw
 declawing
 declaws
+declension
 declinations
 decliner
 decliners
@@ -12371,6 +12376,7 @@ despondence
 despondent
 despondently
 despumate
+desquamation
 destabilized
 destabilizes
 destained
@@ -16596,6 +16602,7 @@ faineants
 faint
 faintest
 faintish
+faintly
 faints
 fair
 faired
@@ -16761,6 +16768,7 @@ fascicled
 fasciculus
 fascination
 fascinator
+fascinators
 fascines
 fascioliasis
 fascist
@@ -19728,6 +19736,7 @@ golosh
 goloshes
 gombroons
 gomerils
+gomers
 gomphosis
 gonad
 gonadial
@@ -19851,6 +19860,7 @@ grabbled
 grabbler
 grabbles
 grabby
+graceful
 gracefullest
 gracelessnesses
 gracile
@@ -22046,6 +22056,7 @@ hubristic
 huckle
 huckleberry
 huckstering
+hucksters
 huddler
 hueless
 huff
@@ -25651,6 +25662,7 @@ lambda
 lambdoid
 lambencies
 lambers
+lamberts
 lambies
 lambiest
 lambing
@@ -25755,6 +25767,7 @@ lantana
 lanugo
 lap
 laparoscope
+laparoscopists
 lapboard
 lapboards
 lapdogs
@@ -25803,6 +25816,7 @@ laryngoscope
 laryngoscopes
 lasagnes
 lasciviousness
+laserdiscs
 lasher
 lashes
 lashkar
@@ -26691,6 +26705,7 @@ locomotes
 locomotions
 locomotors
 locos
+locule
 locules
 loculicidal
 locums
@@ -27012,6 +27027,7 @@ lunchers
 lunches
 lunchmeat
 lunchrooms
+lunchtime
 lunet
 lunettes
 lungans
@@ -29839,6 +29855,7 @@ multicounty
 multicourse
 multiday
 multidialectal
+multidisc
 multidiscipline
 multidomain
 multielectrode
@@ -30015,6 +30032,7 @@ mustaches
 mustachios
 mustang
 mustees
+mustelid
 mustelids
 muster
 mustering
@@ -30077,6 +30095,7 @@ mycetomatous
 mycobacterial
 mycobacterium
 mycoflorae
+mycologic
 mycologists
 mycophagist
 mycophagy
@@ -30346,6 +30365,7 @@ nebulously
 necessarily
 necessary
 necessitarian
+necessitate
 necessitates
 necessitous
 necessitousness
@@ -30714,6 +30734,7 @@ nippy
 nirvanic
 nitchies
 niter
+niterie
 nites
 nitpick
 nitpicking
@@ -32153,6 +32174,7 @@ orotundities
 orotundity
 orphanage
 orphaned
+orphanhood
 orphanhoods
 orphaning
 orphans
@@ -32545,6 +32567,7 @@ outrebounded
 outrebounding
 outrebounds
 outreckoning
+outrig
 outrigged
 outrigger
 outrigs
@@ -33563,6 +33586,7 @@ papains
 papal
 paparazzi
 paparazzo
+papaya
 paperback
 paperbacks
 paperbark
@@ -33861,6 +33885,7 @@ passingly
 passional
 passivations
 passivity
+passkeys
 passless
 passover
 passport
@@ -36043,6 +36068,7 @@ postediting
 posteen
 postembryonal
 postembryonic
+poster
 posterior
 posterities
 posterns
@@ -37344,6 +37370,7 @@ protract
 protractive
 protractors
 protracts
+protrade
 protreptics
 protruded
 protrudes
@@ -39299,6 +39326,7 @@ regaled
 regaler
 regaling
 regalnesses
+regarded
 regardfulnesses
 regathered
 regathering
@@ -43112,6 +43140,7 @@ shinsplints
 shipboard
 shipboards
 shipless
+shipman
 shipmaster
 shipmasters
 shipmates
@@ -45555,6 +45584,7 @@ stereogram
 stereograms
 stereographed
 stereographic
+stereoisomeric
 stereology
 stereophonic
 stereoscopies
@@ -45831,6 +45861,7 @@ strangler
 strangles
 straphanged
 straphangers
+straphanging
 straphangs
 strapped
 strappy
@@ -46179,6 +46210,7 @@ suberization
 suberize
 suberizing
 suberose
+subers
 subfile
 subfiles
 subfixes
@@ -47333,6 +47365,7 @@ tablecloths
 tabled
 tablemate
 tables
+tablespoon
 tabletop
 tabooing
 taboos
@@ -48240,6 +48273,7 @@ thievery
 thievishness
 thigmotaxes
 thimble
+thimblerigged
 thimbleriggers
 thimbleweed
 thimbleweeds
@@ -51199,6 +51233,7 @@ unsophisticated
 unsorted
 unsound
 unsounded
+unsoundest
 unsoundly
 unsoundness
 unsoundnesses
