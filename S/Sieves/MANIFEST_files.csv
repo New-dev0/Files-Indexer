@@ -1,0 +1,7 @@
+kubuntu-18.04.5-desktop-i386.manifest - Ubuntu CDimage,http://cdimage.ubuntu.com/kubuntu/releases/18.04/release/kubuntu-18.04.5-desktop-i386.manifest
+kubuntu-18.04.5-desktop-amd64.manifest - Ubuntu CDimage,http://cdimage.ubuntu.com/kubuntu/releases/18.04/release/kubuntu-18.04.5-desktop-amd64.manifest
+https://mirrors.aliyun.com/openwrt/releases/19.07....,https://mirrors.aliyun.com/openwrt/releases/19.07.2/packages/aarch64_cortex-a53/packages/Packages.manifest
+https://mirrors.aliyun.com/openwrt/releases/21.02....,https://mirrors.aliyun.com/openwrt/releases/21.02.1/packages/mipsel_74kc/packages/Packages.manifest
+Packages.manifest - OpenWrt Downloads,https://downloads.openwrt.org/releases/18.06.2/packages/mips_24kc/packages/Packages.manifest
+https://usingpro.com/releases/packages-18.06/arm_c...,https://usingpro.com/releases/packages-18.06/arm_cortex-a5_neon-vfpv4/packages/Packages.manifest
+https://downloads.lede-project.org/snapshots/packa...,https://downloads.lede-project.org/snapshots/packages/arc_archs/packages/Packages.manifest

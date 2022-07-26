@@ -212,6 +212,7 @@ accredited
 accretes
 accreting
 accretion
+accretions
 accruable
 accruals
 accrue
@@ -4527,6 +4528,7 @@ biohazard
 biologist
 biolytic
 biomarkers
+biomass
 biomaterials
 biomathematics
 biome
@@ -5282,6 +5284,7 @@ bossdoms
 bossing
 bossy
 boston
+bot
 botanic
 botanica
 botanical
@@ -6579,6 +6582,7 @@ canulated
 canvaser
 canvasing
 canvaslike
+canvasser
 canyoning
 canyons
 canzonas
@@ -7123,6 +7127,7 @@ caved
 cavelike
 cavendishes
 caver
+cavern
 caverns
 cavie
 cavil
@@ -10730,6 +10735,7 @@ crostini
 crotchet
 crotchetiness
 crotchety
+croton
 crouch
 crouching
 croupe
@@ -11406,6 +11412,7 @@ dangerously
 dangers
 dangle
 dangler
+danglers
 dangliest
 dangling
 danish
@@ -13814,6 +13821,7 @@ doomsdayers
 doomster
 doorjamb
 doorkeeper
+doorkeepers
 doorknob
 doormen
 doorpost
@@ -15234,6 +15242,7 @@ endoperoxide
 endorsable
 endorse
 endorsive
+endosarc
 endoscopic
 endoscopically
 endoscopies
@@ -15330,6 +15339,7 @@ engross
 engrossing
 engrossment
 engs
+engulfed
 engulfment
 enhaloes
 enhalos
@@ -17828,6 +17838,7 @@ flowerettes
 flowerful
 floweriest
 flowerily
+flowering
 flowerpot
 flowingly
 flows
@@ -18205,6 +18216,7 @@ foretops
 forever
 forewing
 forewings
+forewoman
 forewomen
 foreword
 foreworn
@@ -18396,6 +18408,7 @@ frails
 frakturs
 frambesias
 framboise
+framboises
 framers
 frameshift
 framework
@@ -22443,6 +22456,7 @@ hygieist
 hygrometer
 hygrometers
 hygroscopicity
+hylozoic
 hylozoism
 hylozoisms
 hymen
@@ -23238,6 +23252,7 @@ inchoate
 inchoateness
 inchoatives
 inchworm
+incidental
 incidents
 incinerate
 incinerated
@@ -24167,6 +24182,7 @@ internist
 internments
 interns
 internucleon
+internuncio
 interobserver
 interocean
 interoceptor
@@ -24712,6 +24728,7 @@ ixodid
 ixtles
 izar
 izars
+izzards
 jabbers
 jabberwocky
 jabirus
@@ -25612,6 +25629,7 @@ knowing
 knowingly
 knowingness
 knowingnesses
+knubbier
 knuckleballs
 knuckler
 knucklier
@@ -27138,6 +27156,7 @@ lowlier
 lowlifer
 lowlights
 lowliheads
+lown
 lowrider
 lox
 loxodrome
@@ -31307,6 +31326,7 @@ nonliable
 nonlibrary
 nonlinearity
 nonliquid
+nonliquids
 nonliterate
 nonlives
 nonloving
@@ -31476,6 +31496,7 @@ nonuniform
 nonuple
 nonurban
 nonurgent
+nonusers
 nonuses
 nonvacant
 nonvalidity
@@ -32535,6 +32556,7 @@ ottavas
 ottomans
 ouabain
 ouabains
+oubliette
 oubliettes
 ouch
 ouds
@@ -32849,6 +32871,7 @@ outsing
 outsinging
 outsinned
 outsit
+outsitting
 outsized
 outskated
 outskirts
@@ -33857,6 +33880,7 @@ paperworks
 paphian
 paphians
 papillate
+papilloma
 papillote
 papillotes
 papism
@@ -35172,6 +35196,7 @@ photosynthesis
 photosynthetic
 phototaxes
 phototaxies
+phototoxic
 phototypes
 photovoltaic
 phots
@@ -37709,6 +37734,7 @@ psephites
 psephologist
 psephology
 pseudepigraph
+pseudocoel
 pseudocoels
 pseudomonad
 pseudomonas
@@ -39902,6 +39928,7 @@ relived
 reloaders
 reloaning
 reloans
+relocated
 relocates
 relock
 relocking
@@ -42536,6 +42563,7 @@ scrouging
 scroungiest
 scrounging
 scroungy
+scrubbily
 scrubby
 scrubwoman
 scruffy
@@ -43710,6 +43738,7 @@ sibilation
 sibling
 sibs
 sibyl
+sic
 siccative
 siccatives
 sicced
@@ -43767,6 +43796,7 @@ sierras
 siestas
 sieur
 sieved
+sieves
 sifters
 sifting
 siganid
@@ -44617,6 +44647,7 @@ snowblower
 snowblowers
 snowcap
 snowcapped
+snowdrift
 snowdrops
 snowfall
 snowlands
@@ -44888,6 +44919,7 @@ sonorousness
 sonorousnesses
 sons
 sonsie
+sooks
 soonest
 soothed
 soother
@@ -45381,6 +45413,7 @@ splotching
 splotchy
 splurges
 splurgy
+spluttering
 splutters
 spodes
 spodosols
@@ -49085,6 +49118,7 @@ tokamaks
 toked
 token
 tokers
+toking
 tokonoma
 tolan
 tolanes
@@ -49393,6 +49427,7 @@ tracheotomies
 tracheotomy
 trachled
 trachoma
+trachomas
 trachytes
 tracing
 track
