@@ -566,6 +566,7 @@ advances
 advantage
 advantaged
 advantageous
+advect
 advection
 advective
 adventitia
@@ -3566,6 +3567,7 @@ barfing
 barflies
 bargaining
 barge
+bargeboard
 barged
 bargees
 barguests
@@ -4036,6 +4038,7 @@ bejeweled
 bejeweling
 bejewels
 bejumbles
+bejumbling
 beknight
 beknot
 beknots
@@ -4866,6 +4869,7 @@ blitzkrieg
 blizzards
 blizzardy
 bloat
+bloated
 blob
 blockheads
 blockier
@@ -6373,6 +6377,7 @@ callan
 callans
 callas
 callbacks
+callboard
 callboy
 callees
 callets
@@ -11483,6 +11488,7 @@ daubery
 daubes
 daubiest
 daubing
+daughter
 daughters
 daunomycin
 daunomycins
@@ -13900,6 +13906,7 @@ doublespeak
 doublespeakers
 doubloons
 doublures
+doubted
 doubter
 doubters
 doubtful
@@ -14453,6 +14460,7 @@ dysgenesis
 dysgenic
 dyskinesia
 dyslectic
+dyslexias
 dyslexic
 dyspepsies
 dyspepsy
@@ -15697,6 +15705,7 @@ epistle
 epistolary
 epistolers
 epistyles
+epitaphic
 epitaxially
 epithelial
 epithelialize
@@ -20427,6 +20436,7 @@ growlinesses
 growling
 growlingly
 grown
+growth
 growthiest
 growthiness
 growthinesses
@@ -22718,6 +22728,7 @@ ideologically
 ideologizes
 ideologizing
 ideologue
+ideophones
 ides
 idiom
 idiomatically
@@ -24624,6 +24635,7 @@ isoantigen
 isoantigenic
 isoantigens
 isobar
+isobaric
 isobarism
 isobars
 isobath
@@ -25573,6 +25585,7 @@ kittles
 kitty
 klatches
 klatsch
+klaxon
 kleenex
 klephtic
 kleptomania
@@ -25853,6 +25866,7 @@ lagger
 laggers
 lagging
 lagnappe
+lagnappes
 laguna
 lagunas
 lahar
@@ -25981,6 +25995,7 @@ languors
 lankest
 lankier
 lankiest
+lankily
 lankiness
 lankness
 lanknesses
@@ -26840,6 +26855,7 @@ liveliness
 liven
 livener
 liveners
+liveness
 livening
 liver
 livered
@@ -28138,6 +28154,7 @@ meatinesses
 meatless
 meatman
 meatmen
+meatpacking
 meatpackings
 meats
 meatus
@@ -28544,6 +28561,7 @@ metaplasia
 metaplasm
 metapsychology
 metasomatic
+metastases
 metastasis
 metastasizes
 metastatically
@@ -28760,6 +28778,7 @@ middlebrows
 middled
 middleman
 middlers
+middles
 middleweight
 middlingly
 midfielder
@@ -30605,6 +30624,7 @@ nay
 nays
 naysaid
 naysaying
+naysays
 nazification
 nazified
 ne
@@ -31576,6 +31596,7 @@ nosedives
 noseguard
 noseguards
 noseless
+nosewheels
 nosh
 nosher
 noshes
@@ -33855,6 +33876,7 @@ pantheism
 pantheist
 pantheistically
 pantheists
+pantie
 panting
 panto
 pantoffles
@@ -38202,6 +38224,7 @@ pyrroles
 pyrrolic
 pyrrols
 pyruvate
+pythonesses
 pythons
 pyuria
 pyurias
@@ -39709,6 +39732,7 @@ reglow
 reglowed
 regma
 regnal
+regnancies
 regnum
 regoliths
 regorge
@@ -40555,6 +40579,7 @@ ressentiments
 restable
 restabled
 restack
+restacked
 restaffed
 restage
 restaged
@@ -41912,6 +41937,7 @@ samizdat
 samosas
 samovar
 samovars
+samp
 sampan
 sampled
 sampling
@@ -42201,6 +42227,7 @@ scabby
 scabietic
 scabrousnesses
 scaffoldings
+scaffolds
 scag
 scagliolas
 scalable
@@ -42987,6 +43014,7 @@ senatorship
 senatorships
 sendoffs
 sendups
+sene
 seneca
 senecio
 senecios
@@ -43114,6 +43142,7 @@ serenate
 serendipities
 serendipitous
 serenenesses
+serenes
 serenest
 serest
 serflike
@@ -43888,6 +43917,7 @@ silhouetting
 silicides
 silicification
 silicifying
+silicium
 siliciums
 silicle
 silicone
@@ -49852,6 +49882,7 @@ trichotomous
 trichroic
 trichrome
 tricing
+trick
 trickie
 trickily
 trickinesses
@@ -51889,6 +51920,7 @@ upgaze
 upgird
 upgradabilities
 upgradeable
+upgrows
 upheap
 upheavals
 upheave
@@ -52060,6 +52092,7 @@ urticarias
 urticated
 urticates
 urtications
+uruses
 used
 usefulness
 user
@@ -52386,6 +52419,7 @@ veneered
 veneers
 venenes
 venerableness
+venerablenesses
 venerably
 venerates
 venerations
@@ -53215,6 +53249,7 @@ waterbus
 watercooler
 watercraft
 watercrafts
+watercress
 waterdog
 waterdogs
 waterers
