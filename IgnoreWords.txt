@@ -197,6 +197,7 @@ accomplishment
 accomplishments
 accordance
 accorded
+accorder
 accorders
 accordions
 accountableness
@@ -2780,6 +2781,7 @@ astrophysics
 astute
 astuteness
 astutenesses
+asylums
 asymptotically
 asynapsis
 asynchronies
@@ -3341,6 +3343,7 @@ badder
 baddest
 baddie
 badged
+badgered
 badgerly
 badinages
 badlands
@@ -3589,6 +3592,7 @@ barogram
 barograph
 barographic
 baronage
+baroness
 baronetage
 baronetcies
 baronnes
@@ -9020,6 +9024,7 @@ commands
 commemorating
 commemorations
 commemoratively
+commemoratives
 commencement
 commencer
 commencers
@@ -9235,6 +9240,7 @@ concatenate
 concave
 concealers
 concealments
+concededly
 conceders
 conceive
 conceived
@@ -10300,6 +10306,7 @@ covariation
 cove
 coved
 coven
+covenantal
 covenantees
 covenanting
 covenantors
@@ -11280,6 +11287,7 @@ daemon
 daffiest
 daffing
 daffodils
+daffs
 daffy
 daft
 dafter
@@ -12205,6 +12213,7 @@ dentinal
 dentins
 dentural
 denturists
+denuclearizes
 denudated
 denudates
 denudating
@@ -12458,6 +12467,7 @@ destroy
 destroys
 destruct
 destructed
+destructibility
 destruction
 destructiveness
 destructivity
@@ -13521,6 +13531,7 @@ distribute
 distributed
 distributivity
 distributor
+districted
 distrust
 distrusted
 distrustfully
@@ -13535,6 +13546,7 @@ disulfoton
 disunions
 disuniter
 disuniting
+disunity
 disuse
 disused
 disuses
@@ -14520,6 +14532,7 @@ ecartes
 eccentricities
 eccentrics
 ecclesiae
+ecclesiastic
 ecclesiasticism
 ecclesiastics
 ecclesiological
@@ -16274,6 +16287,7 @@ exercitations
 exergue
 exergues
 exertive
+exerts
 exes
 exfoliate
 exfoliated
@@ -18287,6 +18301,7 @@ fou
 fought
 foughten
 fouled
+fouler
 foulings
 foully
 foulmouthed
@@ -19362,6 +19377,7 @@ gestalt
 gestaltists
 gestating
 gestations
+gesticulations
 gesticulators
 gesturer
 gesturing
@@ -24747,6 +24763,7 @@ jampacked
 jane
 jangles
 janglier
+janiform
 janissary
 japanize
 japanized
@@ -29752,6 +29769,7 @@ morion
 morions
 morn
 moronically
+moronism
 moronity
 morose
 morosely
@@ -31508,6 +31526,7 @@ notating
 notation
 notchers
 note
+notebooks
 noteworthiness
 nother
 nothing
@@ -32081,6 +32100,7 @@ ongoingnesses
 onload
 onlookers
 onlooking
+onomastician
 onomatology
 onrush
 onside
@@ -32640,6 +32660,7 @@ outgoingnesses
 outgrosses
 outguesses
 outguessing
+outguide
 outguides
 outguiding
 outguns
@@ -34308,6 +34329,7 @@ pedalier
 pedalled
 pedalling
 pedantic
+pedantries
 pedately
 peddle
 peddling
@@ -35128,6 +35150,7 @@ phycocyanins
 phycoerythrins
 phycomycetes
 phyla
+phylactery
 phylar
 phylaxis
 phylaxises
@@ -36196,6 +36219,7 @@ portend
 portending
 portent
 porterage
+porteresses
 porterhouses
 porticoed
 porticos
@@ -37738,6 +37762,7 @@ publication
 publicised
 publicized
 publicizes
+publicnesses
 publisher
 puces
 pucker
@@ -37936,6 +37961,7 @@ purposed
 purposeless
 purposively
 purpure
+purpurin
 purr
 purring
 purselike
@@ -42718,6 +42744,7 @@ seismographic
 seismological
 seismologists
 seismometers
+seismometries
 seisms
 seitans
 seizers
@@ -45734,6 +45761,7 @@ stead
 steadfastly
 steadfastnesses
 steadings
+steaks
 stealable
 stealages
 stealers
@@ -47366,6 +47394,7 @@ sweetenings
 sweetens
 sweetheart
 sweethearts
+sweetie
 sweeting
 sweetly
 sweetshop
@@ -48202,6 +48231,7 @@ tendencious
 tendered
 tenderer
 tenderest
+tenderfoot
 tendering
 tenderizations
 tenderizer
@@ -50194,6 +50224,7 @@ tussled
 tussling
 tussocks
 tussor
+tussucks
 tutelars
 tutor
 tutorage
@@ -51206,6 +51237,7 @@ unlabeled
 unlace
 unlaced
 unlaces
+unlade
 unladen
 unlades
 unlashed
@@ -52343,6 +52375,7 @@ vertu
 vervain
 vesica
 vesicants
+vesicate
 vesicates
 vesicating
 vesiculae
@@ -52624,6 +52657,7 @@ vitrines
 vitriolling
 vittae
 vittled
+vituline
 vituperated
 vituperation
 vituperations
@@ -53659,6 +53693,7 @@ witnesses
 witnessing
 witneys
 wittiest
+wittiness
 wiz
 wizards
 wizened
