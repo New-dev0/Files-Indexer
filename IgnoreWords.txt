@@ -695,6 +695,7 @@ afflictions
 afflictive
 afflictively
 affluencies
+afford
 affordable
 afforested
 afforests
@@ -1385,6 +1386,7 @@ amphimixes
 amphiploids
 amphiprostyles
 amphisbaenas
+amphisbaenic
 amphitheatrical
 amphoral
 amphoteric
@@ -5250,6 +5252,7 @@ botanizers
 botchier
 botel
 botels
+botfly
 both
 bother
 botherations
@@ -5813,6 +5816,7 @@ buddied
 buddies
 buddings
 buddleia
+buddy
 buddying
 budged
 budger
@@ -5892,6 +5896,7 @@ bullocky
 bullpen
 bullpens
 bullpout
+bullring
 bullrushes
 bulls
 bullsnake
@@ -7928,6 +7933,7 @@ chuddah
 chuddars
 chuffs
 chug
+chugalugs
 chukka
 chukkas
 chummier
@@ -8645,6 +8651,7 @@ cofferdam
 coffered
 coffering
 coffing
+coffining
 coffret
 coffs
 cofinanced
@@ -9065,6 +9072,7 @@ compatriot
 compellable
 compelled
 compendiousness
+compensated
 compensates
 compensating
 compensation
@@ -10393,6 +10401,7 @@ crayon
 craze
 crazier
 crazing
+creaked
 creakiest
 creaky
 creamcups
@@ -15301,6 +15310,7 @@ ensouled
 ensphere
 ensphered
 enstatite
+ensued
 ensured
 ensurers
 enswathed
@@ -16526,6 +16536,7 @@ faciends
 facies
 facile
 facilely
+facilitate
 facilitated
 facilitation
 facilitators
@@ -17019,6 +17030,7 @@ festiveness
 festoonery
 festoons
 fests
+fetal
 fetas
 fetched
 feted
@@ -18809,6 +18821,7 @@ gamester
 gametically
 gametocytes
 gametogenesis
+gametophytic
 gamine
 gaminess
 gaminesses
@@ -20623,6 +20636,7 @@ haling
 halitus
 halituses
 hall
+hallelujah
 hallmark
 hallmarked
 halloa
@@ -21378,6 +21392,7 @@ heteromorphic
 heteronyms
 heterophil
 heterophile
+heterophyllies
 heteroploid
 heteroploids
 heteros
@@ -22158,6 +22173,7 @@ hutch
 hutching
 hutlike
 huts
+hutting
 hutzpa
 hutzpahs
 huzzaed
@@ -27609,6 +27625,7 @@ marrers
 married
 marrieds
 marrowfats
+marseille
 marses
 marsh
 marshalcies
@@ -27646,6 +27663,7 @@ masalas
 masas
 mascaraing
 mascarpones
+masculinise
 masculinised
 masculinises
 masculinising
@@ -27760,6 +27778,7 @@ mattins
 mattock
 mattrass
 mattresses
+maturate
 maturational
 mature
 maturers
@@ -27812,6 +27831,7 @@ mayoralty
 mayorship
 mayos
 mayvins
+mayweed
 mayweeds
 mazaedia
 mazaedium
@@ -27875,6 +27895,7 @@ mechanochemical
 meclizines
 med
 medaillon
+medaillons
 medakas
 medaling
 medallion
@@ -33380,6 +33401,7 @@ palletizer
 palletizing
 pallets
 pallia
+palliation
 palliations
 palliatives
 pallid
@@ -33550,6 +33572,7 @@ paperboards
 paperboys
 paperclip
 paperclips
+papered
 paperhangers
 paperhangings
 papering
@@ -34511,6 +34534,7 @@ perturbers
 pertusses
 peruke
 perusers
+perv
 pervaded
 pervader
 pervaders
@@ -36232,6 +36256,7 @@ prawns
 praxeological
 praxes
 praxises
+prayer
 prayerfulness
 preabsorb
 preabsorbing
@@ -39079,6 +39104,7 @@ reeducating
 reeducations
 reefable
 reefier
+reefs
 reek
 reeker
 reeking
@@ -40783,6 +40809,7 @@ rites
 ritonavirs
 ritualism
 ritualist
+ritualists
 ritually
 rivages
 rival
@@ -47684,6 +47711,7 @@ tearstains
 teas
 teasable
 teased
+teasel
 teaseler
 teaselled
 teashop
@@ -49298,6 +49326,7 @@ trestle
 trestleworks
 tret
 trevallies
+trevallys
 trevet
 triacetates
 triadism
@@ -49587,6 +49616,7 @@ troweler
 trowelers
 troweling
 troweller
+trowing
 trowths
 truancies
 truantries
@@ -51038,6 +51068,7 @@ unrecovered
 unrecyclable
 unredeemable
 unreel
+unreeling
 unreels
 unreeves
 unreeving
@@ -52301,6 +52332,7 @@ vocationalism
 vocationalists
 vocationally
 voces
+vociferates
 vociferator
 vociferous
 vocoder
@@ -53184,6 +53216,7 @@ windrower
 windrowers
 windrows
 windscreens
+windshields
 windsurfing
 windsurfings
 windswept
@@ -53305,6 +53338,7 @@ wolfishly
 wolflike
 wolfsbane
 wolvers
+womanise
 womanises
 womanish
 womanishness
@@ -53431,6 +53465,7 @@ workpieces
 workplace
 worktables
 workup
+workweek
 worldbeat
 worldliness
 worldviews
