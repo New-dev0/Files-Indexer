@@ -1459,6 +1459,7 @@ anadiplosis
 anaemic
 anaerobia
 anaerobioses
+anaerobiosis
 anaesthesias
 anageneses
 anaglyph
@@ -2262,6 +2263,7 @@ apropos
 apses
 apsides
 apt
+apterous
 aptest
 aptitudinal
 aptnesses
@@ -2742,6 +2744,7 @@ asterisk
 asterisks
 asterism
 asternal
+asteroid
 asthenia
 asthenosphere
 asthenospheres
@@ -3745,6 +3748,7 @@ battlement
 battlers
 battue
 batty
+bauble
 baud
 bauds
 bauhinias
@@ -3952,6 +3956,7 @@ beefaloes
 beefcake
 beefcakes
 beefeater
+beefier
 beefiest
 beefiness
 beefing
@@ -6315,6 +6320,7 @@ calamaries
 calamine
 calamondin
 calamondins
+calamus
 calash
 calashes
 calathi
@@ -8509,6 +8515,7 @@ coaliest
 coalified
 coalifying
 coalitions
+coalsacks
 coalshed
 coaly
 coalyard
@@ -8696,6 +8703,7 @@ coenocytic
 coenure
 coenzymatic
 coequal
+coequalities
 coequality
 coerce
 coerced
@@ -10079,6 +10087,7 @@ corroded
 corrody
 corrosion
 corrosive
+corrugated
 corruptibility
 corruptible
 corruptionists
@@ -16062,6 +16071,7 @@ eudemon
 eudiometers
 eudiometric
 eugenicist
+eugenics
 eugeosyncline
 euglena
 euglenid
@@ -19683,6 +19693,7 @@ gleization
 glengarry
 gley
 gliadin
+gliadins
 glib
 glibber
 glibbest
@@ -25092,6 +25103,7 @@ joyous
 joypopping
 joyridden
 joyride
+joyriders
 joyrode
 joys
 jubbahs
@@ -29008,6 +29020,7 @@ minnow
 minorca
 minster
 minstrels
+minstrelsy
 minters
 mintier
 minuet
@@ -29274,6 +29287,7 @@ mismating
 mismeets
 mismove
 misname
+misnamed
 misnomer
 misnomered
 misnomers
@@ -31025,6 +31039,7 @@ nitpicked
 nitpicking
 nitpicks
 nitrated
+nitrations
 nitride
 nitrided
 nitrides
@@ -31697,6 +31712,7 @@ nucleotidases
 nucleotides
 nucleuses
 nuclide
+nudenesses
 nuder
 nudes
 nudest
@@ -31949,6 +31965,7 @@ occlusive
 occlusives
 occultation
 occulters
+occultisms
 occultists
 occupants
 occupational
@@ -33299,6 +33316,7 @@ overmuch
 overnear
 overnight
 overnighter
+overnighting
 overoperate
 overorchestrate
 overorganized
@@ -34704,6 +34722,7 @@ perfectness
 perfecto
 perfects
 perfidious
+perfidiousness
 perforate
 perforating
 perforation
@@ -34766,6 +34785,7 @@ periplasms
 periscope
 perish
 perished
+peristyle
 perithecia
 perithecial
 peritoneal
@@ -34967,6 +34987,7 @@ petto
 petulances
 petulancy
 petulant
+petuntzes
 pew
 pewit
 pewterers
@@ -36010,6 +36031,7 @@ poikilothermic
 poikilotherms
 poilu
 poilus
+poind
 poinded
 poinsettia
 pointedness
@@ -36688,6 +36710,7 @@ precede
 preceded
 precedences
 precensor
+precensored
 precensoring
 precensors
 precenting
@@ -36701,6 +36724,7 @@ precheck
 prechecking
 prechill
 prechilling
+prechoosing
 precieux
 preciosity
 precipice
@@ -39894,6 +39918,7 @@ rejections
 rejective
 rejectors
 rejigged
+rejiggers
 rejoiced
 rejoining
 rejudge
@@ -40956,6 +40981,7 @@ reweighed
 reweighing
 reweld
 rewelded
+rewets
 rewetted
 rewiden
 rewinded
@@ -44675,6 +44701,7 @@ snooded
 snook
 snooker
 snookering
+snool
 snoot
 snooted
 snootily
@@ -44850,6 +44877,7 @@ solarises
 solarium
 solarizations
 solarizing
+solated
 solating
 soldan
 solders
@@ -47926,6 +47954,7 @@ talismanically
 talkable
 talkathon
 talkers
+talkie
 talkier
 talkies
 talking
@@ -48085,6 +48114,7 @@ tarriers
 tarries
 tarriest
 tarring
+tarrying
 tarsals
 tarsia
 tarsometatarsus
@@ -49302,6 +49332,7 @@ topograph
 topographers
 topographical
 topographically
+topographs
 topological
 topologically
 topologists
@@ -51521,6 +51552,7 @@ unpick
 unpicking
 unpile
 unpiled
+unpiles
 unpins
 unpitying
 unplaced
@@ -51821,6 +51853,7 @@ untrusses
 untrusting
 untrustworthy
 untrusty
+untruth
 untruthfully
 untucking
 untucks
@@ -52008,6 +52041,7 @@ uptakes
 uptalked
 uptalks
 uptempos
+upthrusted
 upthrusting
 uptightness
 uptosses
@@ -52215,6 +52249,7 @@ vambraces
 vamoosed
 vamped
 vampiest
+vampire
 vampirish
 van
 vanadium
