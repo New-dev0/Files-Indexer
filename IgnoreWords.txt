@@ -1905,6 +1905,7 @@ antinomy
 antinucleons
 antinukes
 antiobscenity
+antioxidant
 antiozonant
 antiparty
 antipersonnel
@@ -3859,6 +3860,7 @@ becrawled
 becrime
 becrimes
 becriming
+becrowding
 becrowds
 becrusting
 becudgeled
@@ -4472,6 +4474,7 @@ binomials
 bins
 bint
 binturong
+binuclear
 binucleated
 bioacoustics
 bioactive
@@ -7144,6 +7147,7 @@ cellarway
 cellblocks
 cellobiose
 cellophanes
+cellphone
 cellphones
 cellular
 cellulars
@@ -7747,6 +7751,7 @@ chirped
 chirper
 chirpily
 chirps
+chirre
 chirred
 chirring
 chirrs
@@ -12577,6 +12582,7 @@ dextroses
 dexy
 dezinc
 dhoolies
+dhooti
 dhooties
 dhootis
 dhurna
@@ -14253,6 +14259,7 @@ dummying
 dumortierite
 dump
 dumped
+dumper
 dumpiest
 dumpling
 dumpsite
@@ -16992,6 +16999,7 @@ fellowships
 felon
 feloniousness
 felsite
+felspars
 felstone
 felstones
 felt
@@ -18727,6 +18735,7 @@ fussily
 fussy
 fustics
 fustigate
+fustigating
 fustinesses
 futhork
 futile
@@ -19745,6 +19754,7 @@ gobbler
 gobbles
 gobioid
 goblin
+gobo
 gobonee
 gobony
 gobs
@@ -22268,6 +22278,7 @@ hybridizer
 hybridizers
 hybridizing
 hybridoma
+hybrids
 hybris
 hybristic
 hydathodes
@@ -23554,6 +23565,7 @@ infotainments
 infought
 infracting
 infractors
+infrahuman
 infraspecific
 infrequences
 infrequencies
@@ -24214,6 +24226,7 @@ intriguant
 intriguants
 intriguer
 intriguingly
+introductorily
 introgressants
 introit
 introject
@@ -26323,6 +26336,7 @@ lianes
 liard
 liards
 libationary
+libbers
 libecchio
 libelants
 libeled
@@ -26496,6 +26510,7 @@ limnologies
 limnologist
 limns
 limonitic
+limousine
 limpas
 limpers
 limpest
@@ -31560,6 +31575,7 @@ nuptials
 nurled
 nurling
 nurls
+nurse
 nursed
 nursemaid
 nursemaids
@@ -37387,6 +37403,7 @@ proselytizes
 proselytizing
 proseminar
 prosencephalic
+prosily
 prosody
 prosoma
 prosomal
@@ -37633,6 +37650,7 @@ pteridological
 pteridophyte
 pteridophytes
 pteridosperm
+pteropods
 pterosaur
 pterygial
 pterygoid
@@ -37837,6 +37855,7 @@ purlin
 purlines
 purling
 purlins
+purloiner
 purloins
 purls
 purpleheart
@@ -38273,6 +38292,7 @@ racetrack
 racetrackers
 racewalkers
 raceway
+raceways
 rachial
 rachides
 rachitides
@@ -41702,6 +41722,7 @@ sanctifies
 sanctify
 sanctifying
 sanction
+sanctionable
 sanctioning
 sandable
 sandaling
@@ -42751,6 +42772,7 @@ sempstresses
 senatorship
 senatorships
 sendoffs
+seneca
 senecio
 senecios
 senescent
@@ -43066,6 +43088,7 @@ shakiness
 shako
 shaley
 shall
+shalloons
 shallot
 shallower
 shallows
@@ -44347,6 +44370,7 @@ snaw
 snawing
 snazzier
 snazziest
+sneaker
 sneakiness
 sneaky
 sneap
@@ -45332,6 +45356,7 @@ spunk
 spunkies
 spunkily
 spunks
+spur
 spurgall
 spurgalled
 spurgalling
@@ -45931,6 +45956,7 @@ stoped
 stoper
 stopoff
 stopoffs
+stoppage
 stopped
 stoppered
 stopping
@@ -48931,6 +48957,7 @@ tonelessnesses
 tonemic
 toner
 toners
+tonetically
 tonetics
 tonettes
 toney
@@ -50182,6 +50209,7 @@ typescripts
 typesets
 typesetting
 typesettings
+typestyles
 typewriter
 typhlitis
 typhlitises
@@ -51611,6 +51639,7 @@ uphoarded
 uphoards
 uphold
 upholders
+upholster
 uphove
 uphroe
 uplanders
@@ -51829,6 +51858,7 @@ vagabond
 vagabondism
 vagabondisms
 vagaries
+vagariously
 vagile
 vaginal
 vagotomy
@@ -52312,6 +52342,7 @@ vicunas
 vid
 vide
 videlicet
+videoconference
 videodisks
 videographer
 videographies
@@ -53381,6 +53412,7 @@ willemite
 willers
 willet
 willful
+willfulness
 willie
 willied
 willingest
@@ -53814,6 +53846,7 @@ xenobiotics
 xenodiagnostic
 xenogamies
 xenogamy
+xenogeneic
 xenogeny
 xenograft
 xenons
@@ -53866,6 +53899,7 @@ yahoo
 yahoos
 yahrzeit
 yaird
+yak
 yakked
 yakking
 yaks
@@ -54130,6 +54164,7 @@ ziti
 zitis
 zizzle
 zizzled
+zizzling
 zloties
 zloty
 zoa
