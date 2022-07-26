@@ -794,6 +794,7 @@ agha
 agileness
 agilenesses
 agings
+agio
 agios
 agiotage
 agiotages
@@ -1382,6 +1383,7 @@ amphibolite
 amphibolites
 amphibrachic
 amphictyonic
+amphictyonies
 amphictyony
 amphidiploidies
 amphimixes
@@ -2796,6 +2798,7 @@ atelic
 atemporal
 atenolol
 athanasies
+atheling
 athelings
 atherogenic
 atheroma
@@ -4836,6 +4839,7 @@ blissing
 blister
 blistering
 blithe
+blithely
 blithering
 blithers
 blithesome
@@ -5974,6 +5978,7 @@ buppies
 buppy
 buqsha
 buqshas
+bura
 burans
 burb
 burble
@@ -8629,6 +8634,7 @@ codicology
 codifying
 codirected
 codirection
+codirects
 codiscoverer
 codlings
 codrive
@@ -10185,6 +10191,7 @@ counterfeiting
 counterflow
 counterfoil
 counterguerilla
+counterimages
 counterinstance
 countermanded
 countermarching
@@ -10429,6 +10436,7 @@ cravened
 cravening
 craver
 cravings
+crawfish
 crawfished
 crawfishes
 crawl
@@ -12076,6 +12084,7 @@ demiurgical
 demob
 demobilize
 democracies
+democratize
 democratized
 democratizers
 demodulation
@@ -13398,6 +13407,7 @@ disrobes
 disroots
 disrupt
 disrupters
+disruptive
 disruptively
 disruptor
 disruptors
@@ -13805,6 +13815,7 @@ dosimetries
 dossals
 dosshouse
 dosshouses
+dossier
 dossil
 dost
 dotage
@@ -16638,6 +16649,7 @@ fadeaway
 fadeaways
 faded
 fadeless
+fadeout
 fadeouts
 fading
 fadlike
@@ -17585,6 +17597,7 @@ flawlessly
 flaws
 flawy
 flax
+flaxiest
 flaxseed
 flay
 flayer
@@ -21143,6 +21156,7 @@ heartfelt
 heartfree
 hearths
 heartinesses
+heartlessness
 heartlessnesses
 heartsome
 heartsomely
@@ -22141,6 +22155,7 @@ huffing
 hugeous
 hugger
 huh
+huipil
 hulk
 hulked
 hulkier
@@ -23302,6 +23317,7 @@ indefensible
 indefensibly
 indefinable
 indefinables
+indehiscence
 indehiscences
 indehiscent
 indelibilities
@@ -24091,6 +24107,7 @@ interphase
 interplants
 interpleaded
 interpolating
+interpolator
 interposing
 interpretable
 interpretations
@@ -25304,6 +25321,7 @@ kibe
 kibitzers
 kibosh
 kick
+kickable
 kickback
 kickball
 kickbox
@@ -27220,6 +27238,7 @@ lyophilizations
 lyophilizer
 lyophilizes
 lyophilizing
+lyrately
 lyric
 lyricalness
 lyricise
@@ -27316,6 +27335,7 @@ madeleine
 madmen
 madness
 madreporian
+madrigal
 madrilene
 madronos
 maduros
@@ -30496,6 +30516,7 @@ necrophilia
 necrophiliacs
 necropoleis
 necrose
+necrosed
 necroses
 necrosing
 necrotizes
@@ -33153,6 +33174,7 @@ overreactions
 overrefinements
 overregulate
 overregulates
+overregulating
 overreliances
 overreported
 override
@@ -37411,6 +37433,7 @@ prosopography
 prosopopoeia
 prosos
 prospective
+prospectively
 prospector
 prospects
 prospering
@@ -39551,6 +39574,7 @@ regulus
 regurgitated
 rehabilitant
 rehabilitants
+rehabilitates
 rehabilitation
 rehandle
 rehandled
@@ -40145,6 +40169,7 @@ reregistrations
 reregulated
 reregulates
 reregulation
+reregulations
 rereleasing
 reremice
 rerent
@@ -42683,6 +42708,7 @@ selvedge
 selvedges
 selves
 semainiers
+semanteme
 semanticists
 semantics
 semaphoring
@@ -44272,6 +44298,7 @@ smidges
 smidgin
 smiercases
 smilaxes
+smile
 smilers
 smiles
 smirch
@@ -44670,6 +44697,7 @@ somatically
 somatological
 somatomedin
 somatopleure
+somatotrophins
 somberness
 sombreros
 some
@@ -45226,6 +45254,7 @@ spoliations
 spondylitises
 sponge
 sponges
+spongewares
 sponginess
 spongy
 sponsal
@@ -46188,6 +46217,7 @@ stroppers
 stroppier
 stroppiest
 strops
+stroud
 stroudings
 strouds
 strove
@@ -52369,6 +52399,7 @@ vignettists
 vigorousness
 vigors
 vigours
+vilely
 vileness
 vilenesses
 vilest
@@ -52867,6 +52898,7 @@ warmongerings
 warmouth
 warmth
 warmups
+warns
 warped
 warpers
 warplane
@@ -53161,6 +53193,7 @@ whales
 whangee
 whangees
 whangs
+whappers
 whaps
 wharfage
 wharfinger
@@ -53485,6 +53518,7 @@ winningly
 winnowers
 winnowing
 winoes
+winos
 wins
 winsomenesses
 winterberries
@@ -54199,6 +54233,7 @@ zooks
 zoolater
 zoologically
 zoologies
+zoomorph
 zoomorphic
 zoonosis
 zoonotic
