@@ -335,6 +335,7 @@ acred
 acres
 acrider
 acridine
+acridines
 acridities
 acridnesses
 acrimonies
@@ -1250,6 +1251,7 @@ ambidextrously
 ambient
 ambients
 ambiguities
+ambiguous
 ambiguousnesses
 ambipolar
 ambisexuality
@@ -2519,6 +2521,7 @@ articulateness
 articulations
 artier
 artifacts
+artifactual
 artificers
 artificial
 artificialities
@@ -4187,6 +4190,7 @@ berylliums
 bes
 bescorches
 bescreen
+beseech
 beseeches
 beseeching
 beseem
@@ -5592,6 +5596,7 @@ brilliance
 brilliantines
 brilliants
 brillos
+brimfully
 brimstony
 brindled
 brine
@@ -7401,6 +7406,7 @@ chapes
 chapiter
 chaplains
 chapman
+chapmen
 chappati
 chapping
 chapt
@@ -8559,6 +8565,7 @@ cockup
 cocobolas
 cocomat
 coconspirator
+coconspirators
 cocoon
 cocoplum
 cocottes
@@ -8592,6 +8599,7 @@ codependent
 coderives
 coderiving
 codes
+codesign
 codesigning
 codesigns
 codetermination
@@ -10250,6 +10258,7 @@ cove
 coved
 coven
 covenantees
+covenanting
 covenantors
 cover
 coverage
@@ -11448,6 +11457,7 @@ deadened
 deadener
 deader
 deadfall
+deadfalls
 deadheaded
 deadlier
 deadliest
@@ -13371,6 +13381,7 @@ dissed
 disseise
 disseisee
 disseize
+disseized
 disseizes
 disseminator
 disseminators
@@ -14713,6 +14724,7 @@ electret
 electrical
 electricians
 electrified
+electrifying
 electroacoustic
 electroanalysis
 electrochemical
@@ -17141,6 +17153,7 @@ fidelities
 fidgeters
 fiduciaries
 fiduciary
+fief
 fiefdom
 fiefdoms
 fieldfare
@@ -19502,6 +19515,7 @@ glebeless
 gledes
 gleeful
 gleefulness
+gleefulnesses
 gleeked
 gleesome
 gleetiest
@@ -21787,6 +21801,7 @@ homophobes
 homophobia
 homophonies
 homophony
+homophylies
 homoplasy
 homopteran
 homosex
@@ -22148,6 +22163,7 @@ humpless
 humungous
 humvees
 hunch
+hunchbacked
 hunchbacks
 hunched
 hung
@@ -23832,6 +23848,7 @@ intemperately
 intend
 intendants
 intendedly
+intenerate
 intenerating
 intenerations
 intense
@@ -28319,6 +28336,7 @@ metastasis
 metastasizes
 metastatically
 metatarsus
+metathesis
 metathetic
 metathoracic
 metaxylem
@@ -28724,6 +28742,7 @@ minibike
 minibiker
 minibikers
 minicab
+minicamps
 minicar
 minicomputer
 minicourse
@@ -30188,6 +30207,7 @@ mythos
 myxedematous
 myxoedema
 myxoma
+myxomatoses
 myxomycete
 nabbing
 nabis
@@ -31619,6 +31639,7 @@ obsessively
 obsessors
 obsolesce
 obsolescence
+obsoleting
 obstetricians
 obstinate
 obstinately
@@ -31943,6 +31964,7 @@ oolith
 oolitic
 oologists
 oomiac
+oomiak
 oomiaks
 oompahs
 oomph
@@ -33316,6 +33338,7 @@ paddleballs
 paddleboard
 paddles
 paddocked
+paddywacking
 padishah
 padlock
 padlocking
@@ -36305,6 +36328,7 @@ prawns
 praxeological
 praxes
 praxises
+pray
 prayer
 prayerfulness
 preabsorb
@@ -38155,6 +38179,7 @@ rabbinical
 rabbins
 rabbitbrush
 rabbiting
+rabblement
 rabbles
 rabbonis
 rabid
@@ -39607,6 +39632,7 @@ releve
 reliabilities
 reliability
 reliable
+reliableness
 reliables
 reliances
 reliantly
@@ -40639,6 +40665,7 @@ rhemes
 rhenium
 rheobases
 rheobasic
+rheological
 rheologically
 rheologist
 rheology
@@ -40802,6 +40829,7 @@ rijsttafel
 rikishas
 rilievi
 riling
+rimers
 riming
 rimless
 rimosely
@@ -45235,6 +45263,7 @@ squabblers
 squabs
 squad
 squadron
+squadroning
 squads
 squalene
 squalid
@@ -47574,6 +47603,7 @@ tangelos
 tangency
 tangerine
 tangibilities
+tangibility
 tangier
 tanginess
 tangles
@@ -49148,6 +49178,7 @@ tranche
 tranny
 tranqs
 tranquilest
+tranquilizer
 tranquilizes
 tranquilizing
 tranquillizes
@@ -49539,6 +49570,7 @@ trinodal
 trinomials
 triode
 triol
+triols
 trios
 trioxid
 trioxids
@@ -50221,6 +50253,7 @@ unaccented
 unacceptability
 unacclimatized
 unaccommodating
+unaccompanied
 unaccrued
 unacerbic
 unactorish
@@ -50542,6 +50575,7 @@ undercounts
 undercover
 undercrofts
 undercutting
+underdeveloped
 underdog
 underdone
 underdosed
@@ -53064,6 +53098,7 @@ whining
 whinnier
 whinnies
 whinny
+whinnying
 whip
 whipcord
 whipcords
