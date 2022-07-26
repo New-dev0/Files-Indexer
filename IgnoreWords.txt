@@ -1226,6 +1226,7 @@ amas
 amassable
 amassed
 amasser
+amasses
 amassments
 amateurishness
 amateurism
@@ -3875,6 +3876,7 @@ bediapers
 bedighted
 bedighting
 bedimple
+bedims
 bedirtied
 bedizens
 bedless
@@ -4467,6 +4469,7 @@ biodegradation
 biodegradations
 biodegrades
 biodiversities
+bioelectricity
 bioengineer
 bioethical
 biofeedbacks
@@ -5065,6 +5068,7 @@ bolivianos
 bollard
 bollards
 bollixing
+bolo
 bolognas
 bolographs
 bolometers
@@ -6185,6 +6189,7 @@ cactus
 cadastre
 cadaver
 cadaverines
+cadaverous
 caddices
 caddis
 caddised
@@ -9686,6 +9691,7 @@ convergencies
 conversances
 conversancies
 conversancy
+conversations
 conversazioni
 converse
 converser
@@ -10939,6 +10945,7 @@ currieries
 curry
 currycombing
 currying
+cursedness
 cursers
 cursing
 cursive
@@ -11567,6 +11574,7 @@ decentring
 deceptional
 deceptiveness
 decerned
+decertification
 decertify
 dechlorination
 deciares
@@ -11580,6 +11588,7 @@ deciduas
 deciduate
 decile
 deciliter
+decillion
 decimate
 decimates
 decimation
@@ -11752,6 +11761,7 @@ defencing
 defendable
 defendants
 defender
+defending
 defenestration
 defenestrations
 defensed
@@ -12025,6 +12035,7 @@ demolishment
 demolitionists
 demon
 demonesses
+demonetizations
 demonetizes
 demoniacally
 demonic
@@ -13233,6 +13244,7 @@ dismantles
 dismasting
 dismays
 dismemberments
+dismissions
 dismissive
 disobeyer
 disobeying
@@ -15251,6 +15263,7 @@ enrobing
 enrolled
 enrollees
 enrollers
+enrols
 enrooting
 enroots
 ens
@@ -15588,6 +15601,7 @@ equilibrium
 equines
 equinoctial
 equinox
+equinoxes
 equipollence
 equipollent
 equipollently
@@ -20696,6 +20710,7 @@ handmade
 handmaid
 handoff
 handprint
+handrails
 handsaw
 handsaws
 handselling
@@ -22482,6 +22497,7 @@ ideography
 ideologic
 ideologically
 ideologizes
+ideologizing
 ideologue
 ides
 idiom
@@ -22726,6 +22742,7 @@ impairs
 impalement
 impales
 impaling
+impalpably
 impanelled
 impanelling
 imparking
@@ -22903,6 +22920,7 @@ improvident
 improvidently
 improving
 improvisatori
+improvisatory
 improvised
 improvisers
 improvs
@@ -23534,6 +23552,7 @@ injector
 injectors
 injudiciously
 injudiciousness
+injunctive
 injury
 inkberries
 inker
@@ -24565,6 +24584,7 @@ japanize
 japanized
 japanizes
 japanner
+japans
 japery
 japing
 japonaiserie
@@ -29852,6 +29872,7 @@ multitasks
 multitiered
 multitone
 multitones
+multiunit
 multiuser
 multivariate
 multiversity
@@ -30450,6 +30471,7 @@ nestlike
 nestors
 nethermost
 netherworld
+netiquette
 netlike
 netminder
 netop
@@ -32858,6 +32880,7 @@ overhunting
 overhuntings
 overhype
 overidealizes
+overidentified
 overidentifies
 overimaginative
 overindulge
@@ -33101,6 +33124,7 @@ overzeal
 ovibos
 ovicide
 ovine
+ovipara
 oviparity
 oviparous
 oviposit
@@ -33427,6 +33451,7 @@ pancetta
 panchax
 panchaxes
 panchromatic
+pancratia
 pancratium
 pancratiums
 pancreases
@@ -33606,6 +33631,7 @@ parameterizing
 parametrization
 parametrized
 parametrizes
+paramorph
 paramos
 paramounts
 paramours
@@ -35737,6 +35763,7 @@ polygamized
 polygamizes
 polygene
 polyglots
+polyglottisms
 polygon
 polygonally
 polygonies
@@ -37386,6 +37413,7 @@ psychiatrists
 psychiatry
 psychic
 psychical
+psychics
 psyching
 psychoanalyses
 psychoanalyst
@@ -41429,6 +41457,7 @@ saltpans
 saltpeter
 saltpetre
 salts
+saltshakers
 saltwater
 saltwort
 salutary
@@ -41584,6 +41613,7 @@ saprophyte
 saprophytic
 sapsago
 sapwood
+saraband
 sarabande
 sarabands
 sarans
@@ -44917,6 +44947,7 @@ spitfire
 spitfires
 spitters
 spitting
+spittle
 spittlebug
 spittoon
 splash
@@ -48346,6 +48377,7 @@ thyme
 thymectomized
 thymectomizing
 thymectomy
+thymes
 thymic
 thymiest
 thymol
@@ -48984,6 +49016,7 @@ trainable
 trainbearers
 trainee
 traineeship
+trainful
 trainings
 trainloads
 trainmen
@@ -51803,6 +51836,7 @@ velites
 vellicated
 vellicates
 vellums
+velociraptor
 velocity
 velum
 velure
@@ -52086,6 +52120,7 @@ vina
 vinal
 vinals
 vinasse
+vinasses
 vinca
 vincible
 vincula
