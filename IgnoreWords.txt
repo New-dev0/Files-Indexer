@@ -1988,6 +1988,7 @@ antistories
 antistory
 antistrike
 antistudent
+antisubversive
 antisuicide
 antisyphilitics
 antitax
@@ -2490,6 +2491,7 @@ arrivistes
 arroba
 arrogate
 arrogated
+arrogations
 arrogator
 arrowhead
 arrowlike
@@ -4202,6 +4204,7 @@ berserkly
 berserks
 berthas
 berthed
+berthing
 beryllium
 berylliums
 bes
@@ -4970,6 +4973,7 @@ blurredly
 blurrily
 blurring
 blurt
+blurter
 blurting
 blushers
 blushes
@@ -5579,6 +5583,7 @@ briarwoods
 bribee
 brickbat
 brickfield
+brickier
 bricking
 bricklaying
 bricks
@@ -6829,6 +6834,7 @@ carr
 carrack
 carracks
 carrageenins
+carrageens
 carrells
 carrels
 carrier
@@ -10912,6 +10918,7 @@ cultishness
 cultivation
 cultivator
 cultivators
+cults
 culturally
 culture
 cultured
@@ -11892,6 +11899,7 @@ deforests
 deformalizes
 deformation
 deformational
+deformer
 deformers
 deformities
 defrag
@@ -12543,6 +12551,7 @@ developed
 developers
 deverbal
 deverbatives
+devesting
 deviants
 deviating
 deviationisms
@@ -13507,6 +13516,7 @@ distraught
 distresses
 distressful
 distressfulness
+distressing
 distribute
 distributed
 distributivity
@@ -16565,6 +16575,7 @@ extrusive
 extubate
 extubating
 exuberances
+exuberated
 exudate
 exude
 exuded
@@ -16874,6 +16885,7 @@ fastest
 fastidiously
 fatalist
 fatalists
+fatbacks
 fatbirds
 fatefully
 fatefulness
@@ -17185,6 +17197,7 @@ fibrefill
 fibrilla
 fibrillar
 fibrillations
+fibrin
 fibrinopeptides
 fibroblastic
 fibroid
@@ -18924,6 +18937,7 @@ gamester
 gametically
 gametocytes
 gametogenesis
+gametogenic
 gametophytic
 gamine
 gaminess
@@ -23914,6 +23928,7 @@ insurgents
 insurrection
 insusceptible
 inswathe
+inswathes
 intaglioing
 intake
 intakes
@@ -24194,6 +24209,7 @@ intervenes
 intervening
 interviewed
 interviewees
+intervocalic
 interwar
 interweave
 interweaved
@@ -25369,6 +25385,7 @@ kidvid
 kief
 kiefs
 kielbasi
+kier
 kiers
 kifs
 kilim
@@ -27546,6 +27563,7 @@ mammary
 mammati
 mammer
 mammers
+mammet
 mammets
 mammillated
 mammocked
@@ -28291,6 +28309,7 @@ mephitises
 merbromin
 merbromins
 mercantilism
+mercantilisms
 mercantilist
 mercaptopurine
 mercenaries
@@ -34558,6 +34577,7 @@ perfidious
 perforate
 perforating
 perforation
+perforator
 performability
 performances
 performatives
@@ -35553,6 +35573,7 @@ plainspoken
 plaint
 plaintively
 plaintiveness
+plaintivenesses
 plaister
 plaitings
 plaits
@@ -36269,6 +36290,7 @@ postiche
 posties
 postimperial
 postin
+posting
 postinoculation
 postiques
 postisolation
@@ -37602,6 +37624,7 @@ pruriency
 pruritic
 prussianise
 prussianises
+pruta
 prutot
 prutoth
 prythee
@@ -38211,6 +38234,7 @@ quern
 querulous
 querulousness
 query
+questers
 question
 questionary
 questioned
@@ -39120,6 +39144,7 @@ recreating
 recreative
 recrements
 recriminating
+recriminatory
 recrosses
 recrossing
 recrowning
@@ -40926,6 +40951,7 @@ ridiculed
 ridiculer
 ridiculers
 ridicules
+ridiculing
 ridiculously
 ridings
 ridotto
@@ -42024,6 +42050,7 @@ sawlog
 sawlogs
 sawn
 sawney
+sawteeth
 saxes
 saxhorn
 saxhorns
@@ -42740,6 +42767,7 @@ semanteme
 semanticists
 semantics
 semaphoring
+semasiologies
 semasiology
 semeiologies
 semen
@@ -42867,6 +42895,7 @@ sensorial
 sensorimotor
 sensual
 sensualisms
+sensualities
 sensualize
 sensualized
 sensualizes
@@ -47259,6 +47288,7 @@ swabbie
 swabbies
 swabby
 swacked
+swaddled
 swag
 swagers
 swages
@@ -50406,6 +50436,7 @@ umbellets
 umbellifer
 umbellifers
 umbellule
+umbellules
 umbels
 umber
 umbering
@@ -50770,6 +50801,7 @@ underdog
 underdone
 underdosed
 underdosing
+undereating
 undereats
 underemphasize
 underemphasizes
@@ -53267,6 +53299,7 @@ whereinto
 wheresoever
 whereto
 wherewiths
+wherried
 wherrying
 whet
 whether
@@ -53990,6 +54023,7 @@ yarding
 yards
 yardstick
 yardsticks
+yardwand
 yardwands
 yardwork
 yare
@@ -54201,6 +54235,7 @@ zeroes
 zeros
 zest
 zester
+zestfulnesses
 zestier
 zestiest
 zeugmas
