@@ -1,0 +1,50 @@
+[PS] TCP and Successive Fast Retransmits Sally Floyd Lawrence ...,https://www.icir.org/floyd/papers/fastretrans.ps
+[PS] TCP and Successive Fast Retransmits 1 Successive fast retransmits ...,https://www.icir.org/floyd/papers/bugnote1.ps
+[PS] SMART Retransmission: Performance with Overload and Random ...,https://www.cs.cornell.edu/skeshav/papers/smart.ps
+[PS] F-RTO: A New Recovery Algorithm for TCP Retransmission Timeouts,https://www.cs.helsinki.fi/group/iwtcp/papers/f-rto.ps
+[PS] A Reordering-Robust TCP with DSACK - UCL Computer Science,http://www0.cs.ucl.ac.uk/staff/B.Karp/reordering-TR.ps.gz
+[PS] Improving the Start-up Behavior of a Congestion Control Scheme for ...,http://ccr.sigcomm.org/archive/1996/conf/hoe.ps
+[PS] Microsoft PowerPoint Viewer - may-7-tcp - Stanford University,https://web.stanford.edu/class/cs444n/handouts/tcp.ps
+[PS] 15-441 Computer Networking Outline • TCP reliability • TCP ...,https://www.cs.cmu.edu/~srini/15-441/S05/lectures/18-tcpdetails.ps
+[PS] A Cooperative Packet Recovery Protocol for Multicast Video,https://www.ee.columbia.edu/~nick/talk.177.ps
+[PS] 1 Introduction - CiteSeerX,https://citeseerx.ist.psu.edu/viewdoc/download%3Fdoi%3D10.1.1.12.6692%26rep%3Drep1%26type%3Dps
+[PS] A Cooperative Packet Recovery Protocol for Multicast Video 1,https://www.ee.columbia.edu/~nick/ref.1463.ps
+[PS] ANALYZING THE PERFORMANCE OF NEW TCP EXTENSIONS ...,https://citeseerx.ist.psu.edu/viewdoc/download%3Fdoi%3D10.1.1.58.1570%26rep%3Drep1%26type%3Dps
+[PS] Congestion Control in Linux TCP - USENIX,https://www.usenix.org/event/usenix02/tech/freenix/full_papers/sarolahti/sarolahti.ps
+[PS] Congestion Avoidance and Control,ftp://ftp.cs.umass.edu/pub/net/cs691q/jacobson.ps
+[PS] CSE/EE 461 Lecture 10 Reliable Transport IP vs. TCP - Washington,https://courses.cs.washington.edu/courses/cse461/02wi/lectures/461.10.prn
+[PS] On Analyzing TCP Dynamics,http://www.ccs.neu.edu/home/rraj/Talks/tcp.ps
+[PS] A proposal to Improve Performance of TCP on Wireless Links,http://www.cs.kau.se/cs/prtp/papers/mehta.ps.gz
+"[PS] Simulation-based Comparisons of Tahoe, Reno, and SACK TCP ...",https://www.gta.ufrj.br/diffserv/sacks.ps.gz
+[PS] Efficient TCP over Networks with Wireless Links,http://nms.lcs.mit.edu/~hari/papers/hotos.ps
+[PS] Switch Lab,https://people.kth.se/~maguire/DEGREE-PROJECT-REPORTS/970319-Johan-Garde.ps
+[PS] TCP Vegas: New Techniques for Congestion Detection and ...,http://www.cs.unc.edu/~jasleen/Courses/COMP631/papers/vegas.ps
+[PS] Bayesian Packet Loss Detection for TCP,https://www.cs.bu.edu/faculty/crovella/paper.ps
+[PS] Explicit Congestion Notification (ECN) in TCP over Wireless Network,https://www.ee.iitb.ac.in/~karandi/assets/attachment/icpwc00-rohit-karandi.ps.gz
+[PS] Analysis of TCP Vegas and TCP Reno - Inria,https://www-sop.inria.fr/members/Eitan.Altman/PAPERS/telecom-sys.ps
+[PS] TCP Vegas: End to End Congestion Avoidance on a Global Internet,https://pages.cs.wisc.edu/~remzi/Classes/736/Spring2000/Papers/tcp-vegas.ps.gz
+[PS] On the Behavior of Di erent TCP Algorithms over a Wireless ...,https://www.cs.utexas.edu/ftp/sigmetrics99/farooq-anjum.ps
+[PS] stdin (ditroff) - UCLA Computer Science,https://www.cs.ucla.edu/~tamir/papers/ipccc01.ps
+[PS] M-UDP: UDP for Mobile Cellular Networks 1 Introduction,http://web.cecs.pdx.edu/~singh/ftp/mudp.ps
+[PS] Layer Protocols over Wireless LANs. In Pro,http://daedalus.cs.berkeley.edu/publications/mobicom95.ps.gz
+[PS] Simplex Stop and Wait Protocol Simplex Stop and Wait with ARQ ...,https://www.southampton.ac.uk/~sqc/EL336/CNL-5.ps
+[PS] A Day at the Races - Universität des Saarlandes,https://www.st.cs.uni-saarland.de/edu/secdesign/races.ps
+[PS] Analysis of the influence of power control and link level ... - Lysator,http://www.lysator.liu.se/~nisse/misc/vtc2003.ps
+[PS] Experiments on Six Commercial TCP Implementations Using a ...,https://web.eecs.umich.edu/techreports/cse/1996.bak/CSE-TR-298-96.ps.gz
+[PS] Automatic Veri cation of Asynchronous Retransmission Go-Back-N ...,http://www.cs.toronto.edu/~chechik/courses97/csc2108/projects/web/3.ps
+[PS] Self-Stabilizing k-out-of-' Exclusion on Tree Networks,https://hal.archives-ouvertes.fr/docs/00/36/08/26/PS/techrep.ps
+[PS] Transport Protocol Observation ... - UCSD CSE,https://cseweb.ucsd.edu/classes/fa99/cse123A/xport2.ps
+[PS] Hierarchical Reliable Multicast: performance analysis and ...,http://www.ece.uci.edu/~athina/PAPERS/ngc00-corrected.ps
+[PS] About Chapter 50,http://www.inference.org.uk/mackay/dfountain/Ch50.ps.gz
+[PS] Group Communication,https://www.cs.princeton.edu/courses/archive/spr01/cs461/notes/groups.ps
+[PS] Improving TCP Performance over Wireless Networks at the Link ...,https://users.soe.ucsc.edu/~chris/paper.ps.gz
+[PS] TCP over ATM: Simulation Model and Performance Results,ftp://www.cs.usask.ca/pub/discus/old_2002/paper.95-11.ps.Z
+[PS] Improving NFS Performance over Wireless Links,https://www.cs.umd.edu/projects/mcml/papers/toc97.ps
+[PS] The Spread Wide Area Group Communication System,https://www.cnds.jhu.edu/pub/papers/spread.ps
+[PS] Issues in the implementation of selective acknowledgements for TCP,http://info.iet.unipi.it/~luigi/selack.ps
+[PS] Forward Acknowledgment: Re ning TCP Congestion Control,https://buffer.antifork.org/tcp/Fack.9608.ps
+[PS] Delay Analysis of Selective Repeat ARQ for a Markovian Source ...,https://uweb.engr.arizona.edu/~bnlab/bnl/papers/TR/del_analysis2.ps
+[PS] Rate Control and Slotted Aloha,http://www.csri.utoronto.ca/~marbach/PUBL/all_03.ps.gz
+[PS] THE CASE FOR AGGRESSIVE PARTIAL PRELOADING IN ...,http://www2.cs.uh.edu/~paris/MYPAPERS/icme01.ps
+[PS] EDOC018 EUROGAM PROJECT NSF DATA ACQUISITION ...,https://npg.dl.ac.uk/documents/edoc018/edoc018.ps
+[PS] MTCP: Scalable TCP-like Congestion Control for Reliable Multicast,https://repository.lib.ncsu.edu/bitstream/handle/1840.4/719/TR-98-01.ps%3Fsequence%3D2%26isAllowed%3Dy

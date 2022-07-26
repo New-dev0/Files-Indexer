@@ -1801,6 +1801,7 @@ anticivic
 antick
 anticlassical
 anticlericals
+anticlimactical
 anticlines
 anticodon
 anticolonial
@@ -3135,6 +3136,7 @@ awny
 awol
 awols
 axal
+axe
 axed
 axels
 axemen
@@ -3384,6 +3386,7 @@ balkier
 balkily
 balkiness
 balking
+balklines
 ballade
 balladists
 ballads
@@ -3533,6 +3536,7 @@ barfed
 barfing
 barflies
 bargaining
+barge
 barged
 bargees
 barguests
@@ -4799,6 +4803,7 @@ blini
 blinis
 blink
 blinkard
+blinking
 blintz
 bliss
 blisses
@@ -8495,6 +8500,7 @@ cochineal
 cochlea
 cochleas
 cockade
+cockaded
 cockalorums
 cockamamie
 cockamamy
@@ -11291,6 +11297,7 @@ dandified
 dandle
 dandlers
 dandling
+dandriffs
 danegelt
 daneworts
 dangering
@@ -15238,6 +15245,7 @@ enriched
 enriches
 enrichments
 enrobe
+enrober
 enrobers
 enrobing
 enrolled
@@ -15364,6 +15372,7 @@ entresol
 entries
 entropic
 entropion
+entry
 entwined
 entwist
 entwisted
@@ -19261,6 +19270,7 @@ gibes
 giblet
 giddily
 giddiness
+giddy
 giddying
 gies
 giftedly
@@ -20756,6 +20766,7 @@ harbinger
 harbored
 harborer
 harboring
+harborside
 harbour
 harbouring
 hard
@@ -20903,6 +20914,7 @@ hautboy
 haute
 havarti
 havdalah
+have
 haven
 havers
 haversack
@@ -21430,6 +21442,7 @@ hieroglyphs
 hierology
 hierophantic
 hierurgy
+higgler
 high
 highball
 highballs
@@ -22765,6 +22778,7 @@ imperialists
 imperials
 imperiling
 imperishability
+imperishable
 imperiums
 impermissibly
 impersonal
@@ -27900,6 +27914,7 @@ medusans
 medusas
 meekest
 meekly
+meerschaums
 meetinghouses
 meetness
 meets
@@ -30585,6 +30600,7 @@ nidified
 nidifies
 nidifugous
 nidifying
+niding
 niellists
 niello
 nielloed
@@ -31342,6 +31358,7 @@ nullifiers
 nullifies
 nulling
 nulliparous
+numb
 numbats
 number
 numbfish
@@ -33857,6 +33874,7 @@ paternalistic
 paternoster
 path
 pathetically
+pathfinders
 pathless
 pathobiologies
 pathognomonic
@@ -33980,6 +33998,7 @@ pearlescence
 pearlescent
 pearliest
 pearling
+pearlite
 pearlites
 pearlized
 pearls
@@ -34246,6 +34265,7 @@ perceiving
 perceptional
 perceptive
 perceptively
+perceptivities
 perceptivity
 perceptually
 perchers
@@ -38043,6 +38063,7 @@ race
 racecourse
 racehorses
 racemes
+racemizations
 racemized
 racemizing
 racer
@@ -38773,6 +38794,7 @@ reconnected
 reconnecting
 reconnection
 reconning
+reconnoitered
 reconnoiters
 reconnoitred
 reconquer
@@ -40288,6 +40310,7 @@ retransforms
 retranslation
 retransmission
 retransmit
+retransmits
 retransmitted
 retread
 retreat
@@ -42181,6 +42204,7 @@ scyphus
 scythes
 seabed
 seabirds
+seaboards
 seaboot
 seaboots
 seacocks
@@ -42488,6 +42512,7 @@ semiraw
 semiretired
 semiround
 semirounds
+semis
 semises
 semisolids
 semitonal
@@ -43188,6 +43213,7 @@ shrewder
 shrewdie
 shrewed
 shrewishly
+shrewishness
 shrewlike
 shrewmouse
 shrieked
@@ -43942,6 +43968,7 @@ slungshot
 slurb
 slurban
 slurbs
+slurping
 slurrying
 slurs
 slushed
@@ -44957,6 +44984,7 @@ spontaneity
 spontaneously
 spontoons
 spoof
+spoofed
 spoofer
 spoofery
 spoofing
@@ -45393,6 +45421,7 @@ steely
 steelyard
 steelyards
 steenbucks
+steep
 steepened
 steepening
 steepens
@@ -47170,6 +47199,7 @@ syndicated
 syndromic
 syne
 synecdoche
+synecological
 synecologies
 synereses
 synergetic
@@ -48848,6 +48878,7 @@ towelette
 towelettes
 towelling
 towellings
+towels
 tower
 towered
 town
@@ -51386,6 +51417,7 @@ upsweeping
 upsweeps
 upswelled
 uptakes
+uptalked
 uptalks
 uptempos
 upthrusting
@@ -52626,6 +52658,7 @@ watersheds
 watersides
 waterski
 waterweed
+waterwork
 wattest
 watthours
 wattled
@@ -53325,6 +53358,7 @@ wooralis
 woorari
 woozily
 woozinesses
+woozy
 wops
 wordage
 wordbook
@@ -53854,6 +53888,7 @@ zoomorphic
 zoonosis
 zoonotic
 zoophilia
+zoophily
 zoophobia
 zoophobias
 zoophyte
