@@ -790,6 +790,7 @@ aggravates
 aggregateness
 aggregating
 aggregational
+aggress
 aggressed
 aggressions
 aggressive
@@ -862,6 +863,7 @@ ahis
 ahoy
 aid
 aider
+aides
 aidful
 aiglet
 aiglets
@@ -1109,6 +1111,7 @@ allostery
 allotetraploid
 allotetraploids
 allotments
+allotrope
 allotropic
 allotter
 allotypies
@@ -1760,6 +1763,7 @@ anted
 antedate
 antediluvian
 antefixal
+anteing
 antennae
 antenuptial
 antependium
@@ -4848,6 +4852,7 @@ bless
 blessedest
 blessedly
 blessedness
+blessednesses
 blessers
 blest
 blethered
@@ -5413,6 +5418,7 @@ boxhauled
 boxhauling
 boxhauls
 boxiest
+boxily
 boxings
 boxthorn
 boyarisms
@@ -5815,6 +5821,7 @@ brushwoods
 brushwork
 brusker
 brusque
+brusqueness
 brusquenesses
 brusquerie
 brut
@@ -7618,6 +7625,7 @@ cheerfully
 cheerfulness
 cheering
 cheerios
+cheerlead
 cheerleading
 cheerless
 cheerlessness
@@ -7726,6 +7734,7 @@ childlier
 childlike
 childlikenesses
 chile
+chiliadal
 chiliarchs
 chiliast
 chilidog
@@ -8902,6 +8911,7 @@ colleges
 collegia
 collegial
 collegiality
+collegiums
 collembolan
 collembolous
 collet
@@ -12360,6 +12370,7 @@ depressors
 depressurized
 depressurizes
 depressurizing
+deprivals
 deprivation
 deprivations
 deprive
@@ -12514,6 +12525,7 @@ destitution
 destitutions
 destrier
 destroy
+destroyed
 destroys
 destruct
 destructed
@@ -12940,6 +12952,7 @@ dilettanti
 dilettantish
 dilettantisms
 diligently
+dillies
 diltiazems
 diluter
 diluting
@@ -17048,6 +17061,7 @@ feathers
 featherstitches
 featherweight
 featherweights
+featly
 feats
 featured
 feaze
@@ -17082,6 +17096,7 @@ feedgrain
 feedgrains
 feedlot
 feeds
+feedstocks
 feedyards
 feeling
 feelingnesses
@@ -20211,6 +20226,7 @@ graspingly
 graspingness
 graspingnesses
 grasshopper
+grasshoppers
 grassier
 grasslands
 grassless
@@ -20554,6 +20570,7 @@ guayules
 gudgeoning
 guerdoned
 guerdons
+gueridon
 gueridons
 guernsey
 guernseys
@@ -22275,6 +22292,7 @@ hovered
 hoverfly
 hovering
 howdie
+howdy
 however
 howf
 howffs
@@ -23063,6 +23081,7 @@ imperialist
 imperialists
 imperials
 imperiling
+imperiousness
 imperishability
 imperishable
 imperiums
@@ -23653,6 +23672,7 @@ infantilization
 infantilize
 infantilizing
 infantry
+infarcted
 infarctions
 infare
 infatuations
@@ -25735,6 +25755,7 @@ koppas
 koppie
 korats
 korun
+koshering
 koshers
 koss
 kotlin
@@ -25939,6 +25960,7 @@ lam
 lamb
 lambasted
 lambda
+lambdas
 lambdoid
 lambencies
 lambers
@@ -32230,6 +32252,7 @@ omnibuses
 omnicompetences
 omnifarious
 omnificent
+omnimode
 omnipotently
 omnirange
 omnisciences
@@ -36171,6 +36194,7 @@ pollex
 pollination
 pollinator
 pollinized
+pollist
 pollster
 pollsters
 pollutant
@@ -36272,6 +36296,7 @@ polytonality
 polytype
 polytypes
 polytypic
+polyurethanes
 polyvalence
 polyvalent
 polyvinyl
@@ -37757,6 +37782,7 @@ protohistorians
 protohistories
 protomartyr
 protonema
+protonemata
 protonematal
 protons
 protopathic
@@ -38589,6 +38615,7 @@ racially
 racier
 raciness
 racing
+racings
 racism
 racisms
 racist
@@ -41336,6 +41363,7 @@ roam
 roamer
 roamers
 roar
+roast
 roasted
 roaster
 roasters
@@ -42118,6 +42146,7 @@ saponifier
 saponin
 saponine
 saponins
+saporous
 sapour
 sapphism
 sappiness
@@ -45159,6 +45188,7 @@ souped
 soupiest
 soups
 sour
+sourcing
 sourdine
 sourdines
 sourer
@@ -46062,6 +46092,7 @@ steles
 stelic
 stellas
 stellated
+stellify
 stellifying
 stellite
 stemlike
@@ -47819,6 +47850,7 @@ syndactyly
 syndesmosis
 syndetic
 syndic
+syndicalism
 syndicalists
 syndicated
 syndromic
@@ -50074,6 +50106,7 @@ trios
 trioxid
 trioxids
 tripacks
+tripe
 triphthongal
 tripinnate
 triple
@@ -52106,7 +52139,9 @@ upswelled
 uptakes
 uptalked
 uptalks
+uptear
 uptempos
+upthrust
 upthrusted
 upthrusting
 uptightness
