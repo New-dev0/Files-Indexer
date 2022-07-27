@@ -238,6 +238,7 @@ accusative
 accusatory
 accusers
 accustomation
+accustomedness
 accustoming
 accustoms
 ace
@@ -835,6 +836,7 @@ agonise
 agonistes
 agonists
 agonize
+agonizes
 agorae
 agoraphobia
 agoras
@@ -2378,6 +2380,7 @@ archaizer
 archaizes
 archaizing
 archangel
+archangels
 archbishopric
 archdeaconries
 archdeaconry
@@ -2795,6 +2798,7 @@ astrally
 astray
 astricted
 astricting
+astride
 astringe
 astringent
 astringing
@@ -3577,6 +3581,7 @@ barbecuers
 barbells
 barbering
 barbicel
+barbitones
 barbiturate
 barbiturates
 barbless
@@ -4472,6 +4477,7 @@ bijective
 bijugate
 biked
 bikini
+bikinis
 bilabial
 bilabiate
 bilanders
@@ -5558,6 +5564,7 @@ brattier
 brattinesses
 brattish
 brattle
+brattles
 bratwurst
 bratwursts
 braunite
@@ -5757,6 +5764,7 @@ broider
 broidered
 broilers
 broiling
+broils
 broke
 brokenhearted
 brokenness
@@ -8515,6 +8523,7 @@ cloths
 clots
 cloture
 cloud
+cloudbursts
 cloudier
 cloudiest
 cloudless
@@ -10437,6 +10446,7 @@ coverages
 coveralled
 coveralls
 covering
+coverslips
 covertness
 covertnesses
 coverup
@@ -15525,6 +15535,7 @@ enmeshes
 enmeshment
 enmities
 enmity
+ennead
 enneadic
 enneads
 ennobler
@@ -17578,6 +17589,7 @@ fingerprintings
 fingertips
 finial
 finical
+finicalness
 finicalnesses
 finickiest
 finickiness
@@ -18955,6 +18967,7 @@ fungistats
 fungoid
 fungoids
 funguses
+funhouse
 funhouses
 funiculi
 funked
@@ -24481,6 +24494,7 @@ interrogating
 interrogator
 interrogatory
 interrupted
+interruptible
 interrupting
 interrupts
 intersect
@@ -26409,6 +26423,7 @@ laurelled
 laurelling
 lav
 lava
+lavabo
 lavages
 lavaliere
 lavaliers
@@ -26700,6 +26715,7 @@ leukocytic
 leukocytosis
 leukoma
 leukomas
+leukopenias
 leukoplakia
 leukoplakias
 leukopoietic
@@ -27855,6 +27871,7 @@ maladroitly
 maladroitness
 malamutes
 malanga
+malapert
 malapertness
 malapertnesses
 malaperts
@@ -28112,6 +28129,7 @@ marchioness
 marchland
 marchpane
 maremma
+margarine
 margarites
 margays
 margented
@@ -32671,6 +32689,7 @@ optometers
 optometry
 opts
 opulencies
+opulency
 opuscula
 opusculum
 opuses
@@ -37365,6 +37384,7 @@ preproduction
 preprogrammed
 preps
 prepuberties
+prepuberty
 prepubescences
 prepubis
 prepublication
@@ -38725,6 +38745,7 @@ quartering
 quarterlies
 quarterly
 quartermasters
+quarters
 quarterstaff
 quarterstaves
 quartile
@@ -38936,6 +38957,7 @@ radiate
 radiating
 radiation
 radiationless
+radiative
 radicalise
 radicalisms
 radicalize
@@ -40626,6 +40648,7 @@ repigment
 repigmented
 repinned
 repinning
+replace
 replaceable
 replacing
 replants
@@ -42591,6 +42614,7 @@ saults
 saunaed
 saunter
 saunters
+saurels
 saurischian
 saurischians
 sauropods
@@ -42677,6 +42701,7 @@ scales
 scalier
 scaling
 scallop
+scallopini
 scalls
 scallywag
 scallywags
@@ -43402,6 +43427,7 @@ semifinals
 semifluid
 semiformal
 semilethal
+semilethals
 semillon
 semillons
 semilog
@@ -46223,6 +46249,7 @@ staghounds
 stagier
 stagiest
 stagily
+stagnant
 stags
 staid
 staider
@@ -47075,6 +47102,7 @@ subclause
 subclerk
 subclusters
 subcode
+subcodes
 subcommission
 subcommunities
 subcompacts
@@ -47163,6 +47191,7 @@ subjacency
 subjacent
 subject
 subjecting
+subjection
 subjectivise
 subjectivised
 subjectivism
@@ -47639,6 +47668,7 @@ superbright
 supercabinets
 supercargoes
 supercars
+supercautious
 supercenters
 supercharger
 supercharges
@@ -49862,6 +49892,7 @@ torrify
 torrifying
 torrs
 torsi
+torsion
 torsions
 torso
 torsos
@@ -50775,6 +50806,7 @@ tumblersful
 tumbrel
 tumefies
 tumefying
+tumesced
 tumescence
 tumesces
 tumidity
@@ -51026,6 +51058,7 @@ typographed
 typographs
 typography
 typologic
+typologically
 typologists
 typps
 typy
@@ -51898,6 +51931,7 @@ unitrust
 univalved
 universalism
 universalize
+universalizing
 universally
 universalness
 univocals
@@ -53709,6 +53743,7 @@ warked
 warless
 warlike
 warm
+warmaker
 warmers
 warmest
 warmheartedness
