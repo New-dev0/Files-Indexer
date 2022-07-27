@@ -137,6 +137,7 @@ acarine
 acarines
 acarologies
 acarus
+acaulose
 acceded
 accedence
 accedences
@@ -4040,6 +4041,7 @@ befinger
 befingered
 befingering
 befit
+befitted
 beflag
 beflagging
 beflea
@@ -5207,6 +5209,7 @@ bolshy
 bolson
 bolsons
 bolster
+bolthole
 bolting
 boltlike
 boltropes
@@ -5493,6 +5496,7 @@ boyhood
 boyishly
 boys
 boysenberry
+brabble
 brabbles
 brace
 braced
@@ -8399,6 +8403,7 @@ clayish
 claymore
 claystone
 cleanabilities
+cleanable
 cleaned
 cleaning
 cleanly
@@ -8432,6 +8437,7 @@ cleped
 clepes
 cleping
 clepsydra
+clergymen
 clergywoman
 clergywomen
 clericalism
@@ -8696,6 +8702,7 @@ cochairwoman
 cochineal
 cochlea
 cochleas
+cochleate
 cockade
 cockaded
 cockalorums
@@ -12405,6 +12412,7 @@ deodorization
 deontological
 deorbiting
 deoxidizes
+deoxygenates
 departing
 department
 departmentally
@@ -14348,6 +14356,7 @@ drones
 drongos
 droningly
 drool
+drooled
 droolier
 drooliest
 drooling
@@ -14390,6 +14399,7 @@ drowsiest
 drowsily
 drowsiness
 drowsinesses
+drowsy
 drub
 drubbed
 drubbings
@@ -14487,6 +14497,7 @@ dulcified
 dulcifies
 dulcifying
 dulcimers
+dull
 duller
 dullness
 dulness
@@ -14734,6 +14745,7 @@ eavesdrop
 eavesdropper
 ebony
 ebulliences
+ebullient
 ebulliently
 ebullitions
 ecartes
@@ -15581,6 +15593,7 @@ enols
 enophiles
 enorm
 enormities
+enormously
 enormousnesses
 enosis
 enow
@@ -16084,6 +16097,7 @@ escheatable
 escheating
 escheats
 eschewals
+escolar
 escolars
 escot
 escritoire
@@ -16778,6 +16792,7 @@ externalizes
 externals
 externship
 externships
+exteroceptive
 exteroceptors
 exterritorial
 extinct
@@ -19147,6 +19162,7 @@ gainsays
 gaiters
 gal
 galabia
+galabias
 galabieh
 galabiya
 galabiyah
@@ -19993,6 +20009,7 @@ glorify
 glorioles
 glorying
 glossal
+glossarial
 glossarists
 glossator
 glossators
@@ -20437,6 +20454,7 @@ grateless
 grater
 graters
 gratifier
+gratineeing
 gratinees
 gratingly
 gratings
@@ -20557,6 +20575,7 @@ gridder
 gridders
 griddled
 griddling
+griding
 gridlocking
 grids
 grief
@@ -20818,6 +20837,7 @@ guitars
 gulag
 guldens
 gulf
+gulfweed
 gullably
 gulled
 gullets
@@ -21679,6 +21699,7 @@ hemagglutinin
 hemagogs
 hemal
 hematics
+hematines
 hematinics
 hematomas
 hematopoiesis
@@ -21810,6 +21831,7 @@ herniation
 herniations
 herns
 heroes
+heroic
 heroically
 heroicize
 heroics
@@ -24154,6 +24176,7 @@ inorganic
 inosculated
 inosculates
 inosine
+inotropic
 inpour
 inputs
 inputting
@@ -28342,6 +28365,7 @@ masterminds
 masterpiece
 masterpieces
 masters
+masthead
 mastheaded
 mastheads
 masticate
@@ -29005,6 +29029,7 @@ metrology
 metronidazole
 metronidazoles
 metronomes
+metroplexes
 metrorrhagia
 mettle
 mettles
@@ -29479,6 +29504,7 @@ misbill
 misbilled
 misbilling
 misbinding
+misbinds
 misbrand
 misbranded
 misbuilds
@@ -33706,6 +33732,7 @@ overmantels
 overmaster
 overmastered
 overmasters
+overmelt
 overmighty
 overmilk
 overmilked
@@ -33736,6 +33763,7 @@ overplied
 overply
 overplying
 overpopulation
+overpoweringly
 overprescribing
 overpressures
 overpricing
@@ -35019,6 +35047,7 @@ pens
 pensee
 pensil
 pensione
+pensioned
 pensioners
 pensioning
 pensions
@@ -37870,6 +37899,7 @@ profligate
 profound
 profoundly
 profuseness
+profusenesses
 profusion
 profusions
 prog
@@ -40851,6 +40881,7 @@ repurposes
 repursue
 repursued
 reputable
+reputational
 reputes
 reputing
 requalify
@@ -44888,6 +44919,7 @@ slenderest
 slenderizes
 slenderly
 slenderness
+slice
 slicers
 slick
 slicken
@@ -49396,6 +49428,7 @@ thirtyish
 thisaway
 thole
 tholed
+tholepin
 tholing
 thongs
 thoracotomy
@@ -53726,11 +53759,13 @@ wagered
 wagering
 wagers
 wages
+wagged
 waggery
 waggishnesses
 waging
 wagonages
 wagoners
+wagoning
 wagonload
 wagons
 wags
