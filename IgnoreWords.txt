@@ -3530,6 +3530,7 @@ banshie
 bantam
 bantamweight
 banter
+bantling
 banyan
 banzai
 baps
@@ -5295,6 +5296,7 @@ bortz
 borzoi
 borzois
 bos
+boschvarks
 boshvarks
 boskage
 boskages
@@ -5618,6 +5620,7 @@ brickfield
 brickier
 bricking
 bricklaying
+bricklayings
 bricks
 bridal
 bride
@@ -5807,6 +5810,7 @@ bruits
 brumby
 brunch
 bruncher
+brunette
 brunettes
 brunts
 brushabilities
@@ -5861,6 +5865,7 @@ buccaneers
 buck
 buckaroos
 buckbeans
+buckboard
 buckbrush
 buckbrushes
 bucket
@@ -6785,6 +6790,7 @@ cardiologies
 cardiologists
 cardiomyopathy
 cardiotonic
+cardiotonics
 carditises
 cardplayer
 cardplayers
@@ -8387,6 +8393,7 @@ clipped
 clipper
 clippings
 clips
+clipsheet
 clipt
 cliquiest
 cliquing
@@ -11596,6 +11603,7 @@ dealerships
 deals
 dealt
 deaminases
+deaminated
 deaminizes
 deaned
 deanship
@@ -13275,6 +13283,7 @@ diseased
 diseasing
 diseconomy
 disembark
+disembarrassed
 disembarrasses
 disembarrassing
 disembodies
@@ -13532,6 +13541,7 @@ disserviceable
 disses
 disseverances
 dissevering
+dissidences
 dissimilar
 dissimilated
 dissimilatory
@@ -16368,6 +16378,7 @@ exercise
 exercisers
 exercises
 exercitations
+exergonic
 exergue
 exergues
 exertive
@@ -16401,6 +16412,7 @@ exhilarating
 exhortative
 exhorting
 exhorts
+exhumed
 exigently
 exiguous
 exiguousnesses
@@ -17613,6 +17625,7 @@ flabbergasted
 flabbergasting
 flabbergasts
 flabbinesses
+flabella
 flabellate
 flabelliform
 flack
@@ -18060,6 +18073,7 @@ foldaways
 foldboat
 foldboats
 folderol
+foldout
 foldup
 folia
 foliage
@@ -18630,6 +18644,7 @@ frisky
 frith
 fritillaria
 fritillary
+frittata
 fritz
 frivol
 frivolled
@@ -19336,6 +19351,7 @@ gender
 gendering
 genders
 genealogically
+generalised
 generalises
 generalizable
 generalize
@@ -20080,6 +20096,7 @@ gourmandisms
 gourmandizes
 gourmet
 gourmets
+goutier
 goutily
 goutinesses
 gouts
@@ -21860,6 +21877,7 @@ hobnail
 hobnobbed
 hoboing
 hoboism
+hobs
 hocker
 hockey
 hocks
@@ -22883,6 +22901,7 @@ illusionistic
 illusive
 illusivenesses
 illusory
+illustrating
 illustrations
 illustriously
 illustriousness
@@ -25502,6 +25521,7 @@ kibbutz
 kibbutzim
 kibbutznik
 kibe
+kibitzer
 kibitzers
 kibosh
 kick
@@ -27544,6 +27564,7 @@ mae
 maenad
 maenadism
 maestosos
+maestri
 maffick
 mafficker
 mafficks
@@ -27813,6 +27834,7 @@ maniples
 manipulability
 manipulatable
 manipulates
+manipulations
 manipulative
 manipulators
 manipulatory
@@ -27917,6 +27939,7 @@ margins
 margravate
 margravine
 marguerite
+mariachi
 mariachis
 mariculturists
 marijuanas
@@ -32816,6 +32839,7 @@ outfly
 outflying
 outfool
 outfooling
+outfoots
 outgain
 outgained
 outgaining
@@ -35441,6 +35465,7 @@ picker
 pickerels
 pickerelweeds
 picketboat
+picketed
 picketer
 picketing
 pickier
@@ -36962,6 +36987,7 @@ preinforming
 preinserted
 preinserts
 preinterviewed
+preinterviews
 preinvasion
 preinvite
 prejudges
@@ -39474,6 +39500,7 @@ redeployment
 redeployments
 redepositing
 redescending
+redescribed
 redesign
 redesigned
 redetermination
@@ -40383,6 +40410,7 @@ repressing
 repression
 repressionist
 repressive
+repressively
 repressurize
 repressurized
 repriced
@@ -45390,6 +45418,7 @@ spelled
 spellers
 spells
 spelt
+spelter
 spelunk
 spelunked
 spencer
@@ -45928,6 +45957,7 @@ standbys
 standdowns
 standing
 standoffish
+standoffishness
 standoffs
 standpattism
 standpipe
@@ -47094,6 +47124,7 @@ suffocated
 suffocates
 suffocation
 suffocations
+suffrages
 suffragist
 suffuse
 suffuses
@@ -47311,6 +47342,7 @@ superfast
 superfatted
 superficial
 superfine
+superfluities
 superfluousness
 supergene
 superglue
@@ -47916,6 +47948,7 @@ systemics
 systemization
 systemizes
 syzygal
+syzygies
 syzygy
 tab
 tabanids
@@ -48967,6 +49000,7 @@ thromboembolism
 thromboplastic
 thromboxane
 thromboxanes
+thrombus
 throned
 throttles
 through
@@ -54184,6 +54218,7 @@ worsts
 worthiest
 worthiness
 worthinesses
+worthing
 worthlessly
 worths
 worthwhileness
