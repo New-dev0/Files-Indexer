@@ -321,6 +321,7 @@ acknowledgments
 acned
 acock
 aconitum
+acoustics
 acquaint
 acquaintances
 acquiesce
@@ -1781,6 +1782,7 @@ antherids
 anthers
 antheses
 anthills
+anthocyans
 anthodia
 anthoid
 anthologizers
@@ -4401,6 +4403,7 @@ biddability
 bidder
 bidders
 bidding
+bided
 bidets
 bidi
 bidirectional
@@ -5643,6 +5646,7 @@ brigaded
 brigades
 brigadier
 brigandage
+brigandines
 brigantines
 brighten
 brighteners
@@ -7942,6 +7946,7 @@ chorial
 choriamb
 choriambs
 choric
+choring
 chorion
 chorions
 chorizos
@@ -8175,6 +8180,7 @@ citadel
 citadels
 citation
 citatory
+cithara
 cithrens
 citified
 citizeness
@@ -10687,6 +10693,7 @@ crisply
 crispness
 crisps
 crispy
+crisscrosses
 crisscrossing
 crista
 crit
@@ -11647,6 +11654,7 @@ debonair
 debonairly
 deboned
 deboning
+debouch
 debridement
 debriding
 debriefed
@@ -12231,6 +12239,7 @@ denars
 denationalize
 denationalized
 denationalizes
+denationalizing
 denaturalizing
 denaturations
 denatured
@@ -15073,6 +15082,7 @@ embracing
 embrangles
 embrangling
 embrittle
+embrocate
 embrocates
 embrocation
 embrocations
@@ -16291,6 +16301,7 @@ excerpter
 excerpting
 excerpts
 excess
+exchangeable
 exchanging
 excide
 exciding
@@ -16549,6 +16560,7 @@ expose
 exposed
 exposing
 exposit
+exposited
 exposits
 exposures
 expounders
@@ -18056,6 +18068,7 @@ foggier
 foggiest
 fogginesses
 foghorns
+fogie
 fogy
 fogyish
 foibles
@@ -19156,6 +19169,7 @@ garlicky
 garmenting
 garnered
 garnets
+garnisheeing
 garnishing
 garnishments
 garote
@@ -19546,6 +19560,7 @@ gibberellins
 gibbering
 gibbeting
 gibbing
+gibbous
 gibed
 gibes
 giblet
@@ -20694,6 +20709,7 @@ gunslinging
 gunwale
 guppies
 gurged
+gurgle
 gurglets
 gurnard
 gurnards
@@ -22252,6 +22268,7 @@ hotchpotches
 hotchpots
 hotdogged
 hotel
+hoteldoms
 hotelier
 hoteliers
 hotelman
@@ -22926,6 +22943,7 @@ imbiber
 imbibers
 imbodied
 imboldens
+imbosoms
 imbower
 imbowered
 imbowering
@@ -23377,6 +23395,7 @@ inclasps
 inclement
 inclined
 incliner
+inclinometers
 inclip
 inclipping
 inclips
@@ -24650,6 +24669,7 @@ irrationalist
 irrationalistic
 irreality
 irreclaimably
+irreconcilable
 irrecoverable
 irredeemably
 irredenta
@@ -25593,6 +25613,7 @@ kindergartner
 kindergartners
 kindheartedly
 kindheartedness
+kindle
 kindles
 kindlinesses
 kindling
@@ -26605,6 +26626,7 @@ librettists
 librettos
 libriform
 lice
+licencees
 licencers
 licencing
 licensable
@@ -26821,6 +26843,7 @@ lints
 lintwhites
 linuron
 linurons
+lioness
 lionfish
 lionhearted
 lionisers
@@ -27015,6 +27038,7 @@ localizations
 localize
 localizers
 localizing
+locater
 location
 locator
 lockdown
@@ -29540,6 +29564,7 @@ mitzvah
 mixedly
 mixible
 mixup
+mizen
 mizuna
 mizunas
 mizzenmasts
@@ -35470,6 +35495,7 @@ picketer
 picketing
 pickier
 pickinesses
+picking
 pickled
 pickles
 pickpocket
@@ -35589,6 +35615,7 @@ piloting
 pilotless
 pilsener
 pimas
+pimentos
 pimped
 pimpernel
 pimples
@@ -35710,6 +35737,7 @@ piroplasma
 piroplasmata
 piroques
 pirouetting
+pirozhok
 pis
 piscine
 piscivore
@@ -36527,6 +36555,7 @@ postfaces
 postfault
 postfix
 postfixal
+postformed
 postglacial
 postgrad
 postgrads
@@ -43009,6 +43038,7 @@ seismic
 seismism
 seismographic
 seismological
+seismologist
 seismologists
 seismometers
 seismometries
@@ -43497,6 +43527,7 @@ shamois
 shamos
 shamosim
 shamoy
+shamoying
 shampooer
 shampooers
 shampooing
@@ -45872,6 +45903,7 @@ stablish
 stablishing
 stablishment
 stablishments
+stably
 stacked
 stacking
 stacks
@@ -52546,6 +52578,7 @@ vegie
 vehemence
 vehemences
 vehement
+veil
 veiler
 veilers
 veiling
@@ -53473,6 +53506,7 @@ wawling
 waws
 wax
 waxable
+waxed
 waxes
 waxiest
 waxplant
@@ -53503,6 +53537,7 @@ wear
 wearable
 wearers
 wearinesses
+wearish
 wearisomenesses
 weasands
 weaselly
