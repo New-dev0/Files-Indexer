@@ -395,6 +395,7 @@ actionless
 activating
 activism
 activistic
+activities
 activity
 activizing
 actual
@@ -967,6 +968,7 @@ album
 albumens
 albumins
 albuminuria
+albuminurias
 alburnums
 alcahests
 alcaics
@@ -1855,6 +1857,7 @@ anticolonial
 anticolonialist
 anticommunisms
 anticommunists
+anticompetitive
 anticorrosives
 anticult
 anticults
@@ -1941,6 +1944,7 @@ antinodes
 antinomian
 antinomianism
 antinomy
+antinovelist
 antinucleons
 antinukes
 antiobscenity
@@ -2166,6 +2170,7 @@ apomict
 apomictic
 apomicts
 apomorphines
+aponeuroses
 apophthegms
 apophyllite
 apophyses
@@ -3787,6 +3792,7 @@ batrachians
 batsman
 batsmen
 batt
+battalia
 batteau
 batteaux
 batten
@@ -4208,6 +4214,7 @@ beneficiate
 beneficiated
 beneficiates
 beneficiating
+beneficiation
 beneficiations
 benefit
 benefited
@@ -5226,6 +5233,7 @@ bombloads
 bombproofs
 bombshell
 bombsights
+bombycid
 bombycids
 bonded
 bondholders
@@ -5667,6 +5675,7 @@ breezeless
 breezily
 breeziness
 breezing
+bregma
 brents
 brethren
 brevet
@@ -7266,6 +7275,7 @@ ceding
 cedis
 cees
 ceibas
+ceilinged
 ceilings
 ceils
 cel
@@ -11053,6 +11063,7 @@ cufflink
 cufflinks
 cuif
 cuing
+cuirassiers
 cuirassing
 cuish
 cuishes
@@ -12662,6 +12673,7 @@ destructiveness
 destructivity
 desuetude
 desugar
+desugared
 desugaring
 desulfurizing
 desultoriness
@@ -13463,6 +13475,7 @@ disgust
 disgustful
 dishabille
 disharmonious
+disharmonizing
 dishclouts
 disheartened
 disheartenment
@@ -15255,6 +15268,7 @@ emir
 emirates
 emissaries
 emissary
+emissions
 emits
 emmet
 emmetrope
@@ -16434,6 +16448,7 @@ exarchy
 exasperate
 excavate
 excavator
+exceeder
 exceeds
 excel
 excelled
@@ -19316,6 +19331,7 @@ garbagey
 garbagy
 garbanzos
 garbing
+garbled
 garbler
 garblers
 garboils
@@ -20788,6 +20804,7 @@ guardroom
 guayaberas
 guayule
 guayules
+gudgeoned
 gudgeoning
 guerdoned
 guerdons
@@ -22019,6 +22036,7 @@ hinged
 hinkier
 hinky
 hinny
+hins
 hinter
 hinterland
 hinting
@@ -22110,6 +22128,7 @@ hodad
 hodden
 hodoscopes
 hods
+hoecakes
 hoelike
 hoers
 hoes
@@ -22226,6 +22245,7 @@ homesteading
 homestretch
 homestretches
 homey
+homeyness
 homeys
 homicidally
 homiest
@@ -22372,6 +22392,7 @@ hopeful
 hopelessness
 hopelessnesses
 hopes
+hophead
 hoplites
 hoppiest
 hoppings
@@ -25368,6 +25389,7 @@ johannes
 johnnycake
 johnnycakes
 johns
+johnsons
 joinder
 joiner
 joinings
@@ -27381,6 +27403,7 @@ logs
 logways
 logy
 loided
+loids
 loincloth
 loins
 lolled
@@ -29663,6 +29686,7 @@ mislives
 mislocate
 mislocated
 mislocations
+mislodged
 mismaking
 mismanagement
 mismanagements
@@ -36955,6 +36979,7 @@ postriders
 postriot
 postsynaptic
 postsyncing
+posttensioned
 posttensions
 posttransfusion
 posttreatment
@@ -36963,6 +36988,7 @@ postulant
 postulational
 postulator
 posturers
+postvaccinal
 postvaccination
 postvagotomy
 pot
@@ -37220,6 +37246,7 @@ precluding
 precocity
 precombustions
 precommitment
+precommitments
 precomputes
 preconceive
 preconception
@@ -44502,6 +44529,7 @@ sileni
 silent
 silently
 silentness
+silents
 silesias
 silhouette
 silhouetted
@@ -44539,6 +44567,7 @@ silverly
 silvern
 silverpoint
 silversides
+silversmithings
 silverware
 silvexes
 silviculturally
@@ -45894,6 +45923,7 @@ spending
 spendy
 spense
 spermacetis
+spermagonia
 spermary
 spermatogeneses
 spermatogenic
@@ -47356,6 +47386,7 @@ sublunar
 sublunary
 subluxations
 submanager
+submanagers
 submarined
 submarkets
 submaxillaries
@@ -51207,6 +51238,7 @@ tyrocidine
 tyronic
 tyrosine
 tyrosines
+tzardoms
 tzarism
 tzarisms
 tzarist
@@ -52294,6 +52326,7 @@ unremarkably
 unremittingly
 unrenewed
 unrepair
+unrepeatable
 unrepentant
 unrepressed
 unrequited
@@ -54565,6 +54598,7 @@ wishfulnesses
 wishing
 wishless
 wisp
+wispiness
 wisping
 wisps
 wissed
@@ -54655,6 +54689,7 @@ woo
 woodbin
 woodbins
 woodblocks
+woodborer
 woodchats
 woodchoppers
 woodcutting
