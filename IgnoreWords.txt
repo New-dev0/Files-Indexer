@@ -165,6 +165,7 @@ accessories
 accessorises
 accessorize
 accessorized
+accidences
 accidentalness
 accidently
 accipiters
@@ -2549,6 +2550,7 @@ arthralgias
 arthritis
 arthrodeses
 arthrodesis
+arthropathies
 arthropodan
 arthropods
 artichoke
@@ -3715,6 +3717,7 @@ basophil
 basophiles
 basophilia
 basophilic
+basques
 basseted
 bassetting
 bassetts
@@ -4268,6 +4271,7 @@ beseem
 beseeming
 beseems
 besetments
+beshadowing
 beshames
 beshaming
 beshivers
@@ -7713,6 +7717,7 @@ cheongsams
 chequers
 cherimoyas
 cherish
+cherishable
 cherished
 cherishes
 chernozemic
@@ -12267,6 +12272,7 @@ demonstrability
 demonstrable
 demonstrably
 demonstration
+demonstrational
 demonstratively
 demonstratives
 demoralization
@@ -12391,6 +12397,7 @@ deploring
 deployable
 deployers
 deployments
+deplumes
 depluming
 depolarization
 depolarizer
@@ -15033,6 +15040,7 @@ eliminator
 eliminators
 elint
 elints
+elisions
 elitisms
 elixir
 elliptic
@@ -15586,6 +15594,7 @@ ensorcel
 ensorcellment
 ensorcellments
 ensouled
+ensouling
 ensphere
 ensphered
 enstatite
@@ -18298,6 +18307,7 @@ forbids
 forboded
 forby
 force
+forced
 forcefulnesses
 forceless
 forcemeats
@@ -18397,6 +18407,7 @@ foretasted
 foreteeth
 foretell
 foretime
+foretoken
 foretops
 forever
 forewing
@@ -19214,6 +19225,7 @@ ganjah
 ganjahs
 ganjas
 gannets
+ganof
 gantelope
 gantline
 gantlines
@@ -20807,6 +20819,7 @@ gunroom
 gunrunner
 gunrunning
 gunshots
+gunslinger
 gunslinging
 gunwale
 guppies
@@ -21100,6 +21113,7 @@ handedness
 handers
 handfasts
 handgrips
+handguns
 handhelds
 handhold
 handicapped
@@ -27338,6 +27352,7 @@ looses
 loosestrife
 loot
 looter
+looters
 looting
 loots
 lop
@@ -29833,6 +29848,7 @@ molecules
 molehill
 moleskins
 molesting
+mollah
 mollification
 mollified
 mollifier
@@ -30790,6 +30806,7 @@ nam
 nameable
 namely
 namers
+nametag
 naming
 nana
 nanas
@@ -31164,6 +31181,7 @@ new
 newbies
 newer
 newfangled
+newish
 newlywed
 newlyweds
 newmarket
@@ -34767,6 +34785,7 @@ pedantic
 pedantries
 pedately
 peddle
+peddlers
 peddling
 pedestal
 pedestaling
@@ -35634,6 +35653,7 @@ physicking
 physics
 physiocratic
 physiognomies
+physiography
 physiologist
 physiotherapies
 physiotherapy
@@ -39958,6 +39978,7 @@ refects
 refeeling
 refencing
 refer
+referable
 refereed
 refereeing
 references
@@ -40921,6 +40942,7 @@ resolute
 resoluter
 resolvable
 resolvents
+resonances
 resonantly
 resonated
 resonates
@@ -41059,6 +41081,7 @@ resuscitating
 resuscitations
 reswallowed
 resynthesizes
+retable
 retables
 retackle
 retacks
@@ -41838,6 +41861,7 @@ rotenone
 rotes
 rotgut
 roti
+rotifers
 rotis
 rotisseries
 rotls
@@ -42709,6 +42733,7 @@ scarfpin
 scarfpins
 scarification
 scarifiers
+scarifyingly
 scarious
 scarlatinal
 scarlets
@@ -44971,6 +44996,7 @@ smitheries
 smithers
 smithies
 smiths
+smithy
 smiting
 smock
 smockings
@@ -45822,6 +45848,7 @@ spinosities
 spins
 spinsterhood
 spinsters
+spinthariscope
 spinto
 spinule
 spinulose
@@ -46367,6 +46394,7 @@ steamed
 steamered
 steamfitter
 steamiest
+steaminess
 steamroll
 steamrolling
 steamship
@@ -47622,6 +47650,7 @@ superclasses
 superclusters
 supercoiled
 supercollider
+supercomputers
 superconduct
 superconducts
 superconfident
@@ -48142,6 +48171,7 @@ symphonist
 symphonists
 symphyseal
 sympodial
+symposiac
 symposiarch
 symptom
 symptomatically
@@ -49072,6 +49102,7 @@ thanages
 thanatological
 thanatologist
 thanes
+thanker
 thankers
 thankfully
 thankfulness
@@ -52487,6 +52518,7 @@ upshift
 upshifted
 upshifts
 upshooting
+upsilon
 upsized
 upslope
 upsoared
@@ -52540,6 +52572,7 @@ urbanise
 urbanises
 urbanising
 urbanisms
+urbanistic
 urbanists
 urbanites
 urbanity
@@ -53088,6 +53121,7 @@ vets
 vetting
 vexatious
 vexatiousness
+vexed
 vexedness
 vexednesses
 vexer
@@ -54782,6 +54816,7 @@ yawling
 yawn
 yawner
 yawners
+yawp
 ycleped
 yclept
 yeaned
