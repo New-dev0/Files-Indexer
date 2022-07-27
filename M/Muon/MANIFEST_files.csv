@@ -1,0 +1,5 @@
+kubuntu-16.04.6-desktop-amd64.manifest - Ubuntu CDimage,http://cdimage.ubuntu.com/kubuntu/releases/16.04/release/kubuntu-16.04.6-desktop-amd64.manifest
+kubuntu-16.04.6-desktop-i386.manifest - Ubuntu CDimage,http://cdimage.ubuntu.com/kubuntu/releases/16.04/release/kubuntu-16.04.6-desktop-i386.manifest
+ftp.uni-kl.de/pub/linux/ubuntu-dvd/ubuntustudio/dv...,http://ftp.uni-kl.de/pub/linux/ubuntu-dvd/ubuntustudio/dvd/pending/kinetic-dvd-amd64.manifest
+https://ftp-stud.hs-esslingen.de/Mirrors/cdimage.u...,https://ftp-stud.hs-esslingen.de/Mirrors/cdimage.ubuntu.com/kubuntu/daily-live/20220513/kinetic-desktop-amd64.manifest
+https://labolina.lysator.liu.se/ubuntu-dvd/lubuntu...,https://labolina.lysator.liu.se/ubuntu-dvd/lubuntu/daily-live/current/kinetic-desktop-amd64.manifest

@@ -493,6 +493,7 @@ adjuration
 adjuratory
 adjutant
 adjutants
+adjuvant
 adjuvants
 adman
 admass
@@ -3862,6 +3863,7 @@ beaters
 beatific
 beatifically
 beatify
+beating
 beau
 beauteousnesses
 beauticians
@@ -4742,6 +4744,7 @@ bivalve
 bivouac
 bivouacs
 biweeklies
+biz
 bizarreness
 bizarres
 biznagas
@@ -5015,6 +5018,7 @@ bluff
 bluffers
 bluffing
 bluffs
+bluishness
 bluishnesses
 blumed
 blumes
@@ -6144,6 +6148,7 @@ busier
 business
 businessmen
 businesspersons
+businesswoman
 busk
 buskin
 bust
@@ -8495,6 +8500,7 @@ clostridia
 clostridial
 closure
 closures
+clot
 clotheshorses
 clotheslined
 clothespins
@@ -8701,6 +8707,7 @@ coconspirator
 coconspirators
 cocoon
 cocoplum
+cocoplums
 cocottes
 cocounsel
 cocounseled
@@ -10467,6 +10474,7 @@ coyotes
 coypou
 coys
 cozenages
+cozening
 cozie
 coziness
 cozy
@@ -13312,6 +13320,7 @@ discourages
 discouraging
 discoursed
 discover
+discoverable
 discovered
 discoverer
 discovers
@@ -15931,6 +15940,7 @@ ergastoplasms
 ergo
 ergodicities
 ergograph
+ergot
 ergotamine
 ergotized
 erica
@@ -16380,6 +16390,7 @@ exciding
 excimers
 excised
 excises
+excision
 excisional
 excitable
 excitant
@@ -19051,6 +19062,7 @@ gadwall
 gadwalls
 gadzooks
 gaen
+gaffers
 gaffing
 gage
 gagger
@@ -19286,6 +19298,7 @@ gasholders
 gasification
 gasifications
 gasifier
+gaskets
 gaskin
 gaskins
 gaslit
@@ -19590,6 +19603,7 @@ gerrymandered
 gerundive
 gesellschaft
 gesneriad
+gesneriads
 gest
 gestalt
 gestaltists
@@ -20514,6 +20528,7 @@ gripier
 gripman
 grippier
 grippy
+gripsack
 gripsacks
 gript
 griseous
@@ -22059,6 +22074,7 @@ holloes
 holloing
 hollooing
 holloos
+hollow
 hollowness
 holly
 holmic
@@ -22254,6 +22270,7 @@ hoosegow
 hoosgow
 hoot
 hootenanny
+hooting
 hoover
 hoovers
 hop
@@ -24535,6 +24552,7 @@ intonating
 intoning
 intoxications
 intracardial
+intracellular
 intracellularly
 intracity
 intracompany
@@ -24553,6 +24571,7 @@ intrapreneurs
 intraspecies
 intraspecific
 intrastate
+intrathecal
 intravenous
 intreat
 intrenching
@@ -29263,6 +29282,7 @@ minnesingers
 minnow
 minny
 minorca
+minoxidils
 minster
 minstrels
 minstrelsy
@@ -29643,6 +29663,7 @@ mistbow
 mistbows
 misteaches
 misted
+mistended
 mistending
 misthinks
 mistiest
@@ -30497,6 +30518,7 @@ munis
 munnion
 muntins
 muntjac
+muon
 mura
 muraenids
 muralists
@@ -32987,6 +33009,7 @@ outdoers
 outdoes
 outdragged
 outdrags
+outdrawn
 outdreaming
 outdressed
 outdrink
@@ -34026,6 +34049,7 @@ palisades
 palisading
 palladia
 palladium
+palladous
 pallet
 palletised
 palletises
@@ -34645,6 +34669,7 @@ pawing
 pawkily
 pawky
 pawl
+pawn
 pawnbroker
 pawnbroking
 pawning
@@ -38684,6 +38709,7 @@ quarterstaff
 quarterstaves
 quartile
 quarto
+quarts
 quasicrystal
 quasicrystals
 quasiparticles
@@ -40796,6 +40822,7 @@ resembled
 resend
 resends
 resensitize
+resensitizes
 reservable
 reserve
 reservedly
@@ -44267,6 +44294,7 @@ sightsees
 sigil
 sigloi
 sigma
+sigmate
 sigmoidal
 sigmoidoscopies
 signage
@@ -48096,6 +48124,7 @@ symbolizes
 symbolled
 symbologies
 symbols
+symmetrical
 symmetricalness
 symmetrize
 sympathetics
@@ -48670,6 +48699,7 @@ tediousness
 teel
 teemers
 teemingly
+teemingness
 teemingnesses
 teen
 teenaged
@@ -48681,6 +48711,7 @@ teeterboards
 teetering
 teethe
 teethridge
+teetotalism
 teetotalists
 teetotum
 teflon
@@ -49109,6 +49140,7 @@ thermic
 thermidor
 thermionic
 thermionics
+thermistor
 thermites
 thermochemist
 thermochemistry
@@ -50102,6 +50134,7 @@ translocated
 translucences
 translucencies
 translucency
+translucently
 transmigrated
 transmigrating
 transmigration
@@ -51348,6 +51381,7 @@ unconditionally
 unconfined
 unconformably
 unconformities
+unconquerably
 unconscionably
 unconsciously
 unconsciousness
@@ -54275,6 +54309,7 @@ winnable
 winner
 winners
 winningly
+winnow
 winnowers
 winnowing
 winoes
