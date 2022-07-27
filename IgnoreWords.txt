@@ -844,6 +844,7 @@ agreements
 agribusinessman
 agribusinessmen
 agricultural
+agriculturist
 agriculturists
 agrochemical
 agroforester
@@ -4317,6 +4318,7 @@ beweeps
 bewhiskered
 bewig
 bewigging
+bewilder
 bewilderedly
 bewildering
 bewitcheries
@@ -4502,6 +4504,7 @@ binomials
 bins
 bint
 binturong
+binturongs
 binuclear
 binucleated
 bioacoustics
@@ -4693,6 +4696,7 @@ bittersweetly
 bitterweed
 bittier
 bittiest
+bittiness
 bittock
 bittocks
 bitumen
@@ -6175,6 +6179,7 @@ buxomness
 buxomnesses
 buy
 buyback
+buybacks
 buyout
 buys
 buzukis
@@ -6814,6 +6819,7 @@ carillon
 carillonned
 carillonneur
 carillonneurs
+carillonning
 carillons
 caring
 carioca
@@ -10023,6 +10029,7 @@ cornucopia
 cornute
 cornuto
 corollaries
+corollate
 coromandel
 coronach
 coronachs
@@ -10033,6 +10040,7 @@ coronation
 coronations
 coronel
 coronographs
+corotated
 corotates
 corotation
 corporals
@@ -13881,6 +13889,7 @@ dorsers
 dorsiventral
 dorsiventrality
 dorsiventrally
+dorsum
 dorty
 dosers
 doses
@@ -14010,6 +14019,7 @@ downstates
 downthrows
 downtick
 downtowns
+downtrend
 downtrended
 downtrending
 downtrod
@@ -15496,6 +15506,7 @@ enthralled
 enthralling
 enthronement
 enthronements
+enthrones
 enthused
 enthuses
 enthusiasms
@@ -16010,6 +16021,7 @@ ethionines
 ethmoid
 ethmoidal
 ethnarchies
+ethnarchs
 ethnically
 ethnics
 ethnobotanist
@@ -17131,6 +17143,7 @@ fencings
 fender
 fendered
 fenderless
+fenders
 fenestra
 fenestrate
 fenestration
@@ -17391,6 +17404,7 @@ filth
 filthily
 filthinesses
 filtrated
+fin
 finagle
 finagled
 finagler
@@ -17800,6 +17814,7 @@ flocculations
 floccule
 flocculent
 flocculus
+flock
 flockier
 flocks
 flocs
@@ -18815,6 +18830,7 @@ furore
 furores
 furosemides
 furrieries
+furriery
 furrily
 furriner
 furrowers
@@ -19467,6 +19483,7 @@ ghees
 gherao
 ghetto
 ghettoes
+ghettoize
 ghettoizes
 ghettoizing
 ghosted
@@ -19900,6 +19917,7 @@ godlily
 godly
 godmothering
 godroon
+gods
 godships
 goethites
 gofer
@@ -19991,6 +20009,7 @@ gordita
 gorditas
 gorgeousness
 gorgeousnesses
+gorger
 gorgers
 gorgeted
 gorgonizes
@@ -24171,6 +24190,7 @@ interlineations
 interlined
 interliner
 interlinked
+interloans
 interlock
 interlocking
 interlocutor
@@ -26135,6 +26155,7 @@ laudatory
 lauded
 lauders
 lauding
+lauds
 laugh
 laughablenesses
 laughably
@@ -28123,6 +28144,7 @@ mazaedium
 mazard
 mazed
 mazedly
+mazednesses
 mazelike
 mazes
 mazier
@@ -29017,6 +29039,7 @@ minivers
 minks
 minnesingers
 minnow
+minny
 minorca
 minster
 minstrels
@@ -30395,6 +30418,7 @@ mycophile
 mycoplasmal
 mycoplasmas
 mycorhiza
+mycorhizae
 mycorrhizae
 mycorrhizal
 mydriases
@@ -33070,6 +33094,7 @@ overbleach
 overbleaching
 overblowing
 overboard
+overbold
 overbook
 overborn
 overborne
@@ -35856,6 +35881,7 @@ pleasingness
 pleasurableness
 pleasureless
 pleasures
+pleaters
 pleb
 plebeianism
 plebeianly
@@ -38966,6 +38992,7 @@ reallot
 reallots
 reallotting
 really
+realms
 realpolitik
 realter
 realtering
@@ -40539,6 +40566,7 @@ resocializes
 resoften
 resojet
 resojets
+resoldered
 resolders
 resole
 resoled
@@ -42380,6 +42408,7 @@ schema
 schematically
 schematization
 schematizes
+scheming
 scherzando
 scherzo
 schillers
@@ -43077,6 +43106,7 @@ sensitise
 sensitivenesses
 sensitivities
 sensitize
+sensitizer
 sensitizing
 sensorial
 sensorimotor
@@ -46997,6 +47027,7 @@ suets
 sufferable
 sufferableness
 sufferances
+sufferers
 suffers
 sufficiencies
 suffixions
@@ -49306,6 +49337,7 @@ toothwort
 toothy
 tootle
 tootled
+toots
 top
 topcross
 tope
@@ -50737,6 +50769,7 @@ unappealingly
 unappeasably
 unappetizing
 unarmed
+unarrogant
 unaspirated
 unassailability
 unassailably
@@ -53482,6 +53515,7 @@ wert
 westbound
 westerlies
 westerner
+westernisations
 westernised
 westernize
 westmost
@@ -54500,6 +54534,7 @@ zingano
 zingara
 zinged
 zingier
+zinging
 zings
 zingy
 zinky
