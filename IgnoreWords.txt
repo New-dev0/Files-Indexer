@@ -893,6 +893,7 @@ airline
 airliner
 airpowers
 airproofing
+airscape
 airscrews
 airshed
 airsheds
@@ -1129,6 +1130,7 @@ alls
 allseed
 allseeds
 allspices
+allude
 alluding
 alluringly
 allusion
@@ -1703,6 +1705,7 @@ annotative
 annotators
 announcer
 announcers
+announcing
 annualize
 annualizing
 annuitants
@@ -1810,6 +1813,7 @@ antiarrhythmic
 antiars
 antiarthritic
 antiasthma
+antiauxin
 antibacterial
 antibillboard
 antibioses
@@ -2352,6 +2356,7 @@ archaeans
 archaebacteria
 archaeologies
 archaeopteryxes
+archaically
 archaise
 archaises
 archaisms
@@ -4348,6 +4353,7 @@ bezant
 bezants
 bezazzes
 bezique
+bezoar
 bezzants
 bhaktas
 bhang
@@ -9193,6 +9199,7 @@ compassionates
 compassionating
 compatibilities
 compatibility
+compatibles
 compatriot
 compellable
 compelled
@@ -12312,6 +12319,7 @@ deodaras
 deodorants
 deodorization
 deontological
+deorbiting
 deoxidizes
 departing
 department
@@ -15463,6 +15471,7 @@ enols
 enophiles
 enorm
 enormities
+enormousnesses
 enosis
 enow
 enows
@@ -15810,6 +15819,7 @@ equalled
 equalling
 equals
 equanimities
+equanimity
 equates
 equerry
 equestrian
@@ -16571,6 +16581,7 @@ exposed
 exposing
 exposit
 exposited
+expositions
 exposits
 exposures
 expounders
@@ -18345,6 +18356,7 @@ forgoer
 forgoers
 forgoing
 forint
+forkball
 forker
 forkfuls
 forkless
@@ -24331,6 +24343,7 @@ interparty
 interpermeating
 interphalangeal
 interphase
+interphases
 interplants
 interpleaded
 interpolating
@@ -25596,6 +25609,7 @@ kill
 killable
 killdeers
 killies
+killjoy
 killocks
 kills
 kiln
@@ -28362,6 +28376,7 @@ medusas
 meekest
 meekly
 meerschaums
+meeter
 meetinghouses
 meetness
 meets
@@ -29631,6 +29646,7 @@ modernness
 modernnesses
 modester
 modesties
+modicums
 modifiability
 modification
 modifications
@@ -31421,6 +31437,7 @@ nonexecutives
 nonexempts
 nonexistences
 nonexistent
+nonexpendable
 nonexploitive
 nonfactors
 nonfactual
@@ -33026,6 +33043,7 @@ outrigs
 outrivalling
 outroared
 outrock
+outrocking
 outrolling
 outrowed
 outrowing
@@ -33727,6 +33745,7 @@ pacifical
 pacification
 pacificators
 pacificists
+pacified
 pacifistically
 packabilities
 package
@@ -34792,6 +34811,7 @@ peppertrees
 peppery
 peppiness
 pepping
+pepsinate
 peptid
 peptidase
 peptides
@@ -35078,6 +35098,7 @@ petaloid
 petard
 petards
 petasos
+petasoses
 petasus
 petasuses
 petcocks
@@ -36397,6 +36418,7 @@ ponchos
 ponderable
 ponderosa
 ponderously
+ponders
 ponding
 pone
 ponged
@@ -37048,6 +37070,7 @@ prelates
 prelatic
 prelatisms
 prelaw
+prelector
 prelects
 prelegal
 prelibation
@@ -37837,6 +37860,7 @@ proteomic
 protest
 protestation
 protestations
+protested
 protester
 protests
 prothonotaries
@@ -38409,6 +38433,7 @@ qats
 qindar
 qiviut
 qiviuts
+qoph
 quaalude
 quack
 quackery
@@ -38538,6 +38563,7 @@ quelled
 quellers
 quenched
 quenches
+quenchless
 quercetin
 querida
 queried
@@ -39266,6 +39292,7 @@ recants
 recap
 recapitalize
 recapitalizing
+recapitulate
 recapitulated
 recapitulates
 recapitulation
@@ -42784,6 +42811,7 @@ scrives
 scrod
 scrofulas
 scrofulous
+scroggy
 scrolled
 scrollworks
 scrooch
@@ -42975,6 +43003,7 @@ sectoral
 sectored
 sectorial
 secularise
+secularisms
 secularization
 secularizer
 securely
@@ -44135,6 +44164,7 @@ siltiest
 silurid
 silva
 silvas
+silverberry
 silverly
 silvern
 silverpoint
@@ -46075,6 +46105,7 @@ statable
 statecraft
 statecrafts
 statehouses
+statelessness
 stateliness
 stately
 statements
@@ -46095,6 +46126,7 @@ statistic
 statistically
 statistics
 statives
+statocyst
 statocysts
 statolith
 stator
@@ -48009,6 +48041,7 @@ systematizing
 systemics
 systemization
 systemizes
+systoles
 syzygal
 syzygies
 syzygy
@@ -48468,6 +48501,7 @@ teflon
 teg
 tegminal
 teguas
+teguments
 tegumina
 teiglach
 teind
@@ -50547,6 +50581,7 @@ turbocar
 turbocars
 turbocharger
 turboelectric
+turbofan
 turbulencies
 turbulently
 turd
