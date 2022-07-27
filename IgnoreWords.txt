@@ -1521,6 +1521,7 @@ anarthrias
 anastigmats
 anastrophes
 anathemas
+anathematize
 anathematized
 anatomic
 anatomised
@@ -7992,6 +7993,7 @@ chronographies
 chronologically
 chronologies
 chronologists
+chronometer
 chronometrical
 chronon
 chrysolite
@@ -9996,6 +9998,7 @@ corkscrew
 corkwood
 cormlike
 cormoid
+corms
 corn
 cornball
 cornballs
@@ -13885,6 +13888,7 @@ dornocks
 dorpers
 dorsal
 dorsals
+dorsels
 dorsers
 dorsiventral
 dorsiventrality
@@ -15485,6 +15489,7 @@ entamebae
 entamoeba
 entasia
 entasis
+entastic
 entente
 enter
 enteral
@@ -16309,6 +16314,7 @@ excurrent
 excursionists
 excursiveness
 excursivenesses
+excusableness
 excusatory
 excused
 excuser
@@ -17927,6 +17933,7 @@ flunking
 flunkyism
 fluoresce
 fluorescein
+fluoresces
 fluoric
 fluoridation
 fluoridations
@@ -19703,6 +19710,7 @@ gleeful
 gleefulness
 gleefulnesses
 gleeked
+gleeks
 gleesome
 gleetiest
 glegnesses
@@ -22681,6 +22689,7 @@ hypothecs
 hypothermias
 hypothyroidism
 hypoxemia
+hypoxia
 hypsometer
 hypsometers
 hypsometric
@@ -23158,6 +23167,7 @@ impressibility
 impressible
 impressing
 impression
+impressionist
 impressiveness
 impressment
 impressures
@@ -25670,6 +25680,7 @@ knoblike
 knock
 knockabout
 knockabouts
+knockdown
 knockouts
 knockwursts
 knolled
@@ -26099,6 +26110,7 @@ last
 lastborn
 lastborns
 lasters
+lastingnesses
 lastings
 lastly
 lasts
@@ -27753,6 +27765,7 @@ mangoes
 mangold
 mangosteen
 manhandles
+manhattan
 manhood
 manhunt
 manhunts
@@ -28244,6 +28257,7 @@ medievalist
 medievalists
 medievally
 medievals
+medina
 mediocre
 mediocrities
 meditating
@@ -31187,6 +31201,7 @@ nonbiologically
 nonbiologists
 nonbiting
 nonblack
+nonblacks
 nonbodies
 nonbonded
 nonbook
@@ -33897,6 +33912,7 @@ panics
 paniculate
 panicums
 panier
+panleukopenia
 panmixis
 panned
 panner
@@ -34412,6 +34428,7 @@ peacefulnesses
 peacekeeper
 peacekeepers
 peacekeepings
+peacemaking
 peached
 peacher
 peachers
@@ -34914,6 +34931,7 @@ persuades
 persuading
 persuasible
 persuasively
+persuasiveness
 pertaining
 pertains
 pertest
@@ -36715,6 +36733,7 @@ prebend
 prebendaries
 prebiblical
 prebidden
+prebinds
 prebiological
 preblessing
 preboil
@@ -36746,6 +36765,7 @@ precession
 precessional
 precessions
 precharges
+precharging
 precheck
 prechecking
 prechill
@@ -37611,6 +37631,7 @@ propositi
 propositioned
 propounds
 propretor
+propria
 proprieties
 proprietor
 proprietorial
@@ -39238,6 +39259,7 @@ recodifications
 recodified
 recodify
 recodifying
+recognise
 recognised
 recognizable
 recognizer
@@ -39572,6 +39594,7 @@ reenacting
 reendow
 reendowed
 reenforced
+reengages
 reengineered
 reenlarge
 reenlarges
@@ -43575,6 +43598,7 @@ shiftiness
 shiftinesses
 shifting
 shiftless
+shiftlessly
 shiftlessnesses
 shikaree
 shikari
@@ -45258,6 +45282,7 @@ speakable
 speakeasies
 speakers
 speaking
+speakings
 speaned
 speaning
 spearfish
@@ -45483,6 +45508,7 @@ spirulinas
 spitals
 spite
 spitefullest
+spitefully
 spites
 spitfire
 spitfires
@@ -45695,6 +45721,7 @@ squabble
 squabblers
 squabs
 squad
+squadded
 squadron
 squadroning
 squads
@@ -47291,6 +47318,7 @@ superjumbos
 superlativeness
 superlies
 superlight
+superliner
 superliners
 superloyalists
 superlunar
@@ -48250,6 +48278,7 @@ tearful
 tearfulnesses
 teargas
 tearing
+tearless
 tearooms
 tearstains
 teas
@@ -48844,6 +48873,7 @@ thornier
 thorniest
 thorninesses
 thorning
+thorny
 thoron
 thorons
 thorough
@@ -49167,6 +49197,7 @@ titillate
 titillation
 titivate
 titivated
+titlarks
 titleholder
 titling
 titlist
@@ -49994,6 +50025,7 @@ triglyph
 trignesses
 trigonometries
 trigos
+trigrams
 trigraph
 trigraphs
 trigs
@@ -50334,6 +50366,7 @@ tumorlike
 tumping
 tumulose
 tumultuary
+tumultuous
 tumultuousness
 tun
 tuna
@@ -52581,6 +52614,7 @@ vermouths
 vermuth
 vernacular
 vernacularism
+vernacularly
 vernal
 vernalizes
 vernicles
@@ -53856,6 +53890,7 @@ wingspan
 wining
 winked
 winking
+winnable
 winner
 winners
 winningly
