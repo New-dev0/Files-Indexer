@@ -2182,6 +2182,7 @@ appal
 appall
 appalled
 appallingly
+appalls
 appaloosas
 appanage
 apparel
@@ -3230,6 +3231,7 @@ azlons
 azo
 azoic
 azoles
+azoted
 azotemia
 azotemias
 azotes
@@ -4836,6 +4838,7 @@ blathering
 blathers
 blatherskite
 blats
+blaw
 blawing
 blawn
 blaxploitation
@@ -6157,6 +6160,7 @@ butcherers
 butchering
 butchers
 butchery
+bute
 butenes
 buteonine
 buteonines
@@ -7514,6 +7518,7 @@ chapt
 chapter
 chaptered
 charabanc
+charabancs
 character
 characteristics
 characterizes
@@ -7686,6 +7691,7 @@ chemosorbed
 chemostats
 chemosynthesis
 chemosynthetic
+chemotactic
 chemotaxis
 chemurgies
 chenopod
@@ -10252,6 +10258,7 @@ couches
 couchette
 cougar
 cougars
+cough
 couldest
 couldst
 coulibiac
@@ -14166,6 +14173,7 @@ dratted
 dratting
 draughted
 draughts
+draughtsman
 drave
 drawable
 drawback
@@ -15483,6 +15491,7 @@ enmeshment
 enmities
 enmity
 enneadic
+enneads
 ennobler
 ennuye
 enokitake
@@ -19017,6 +19026,7 @@ gadroons
 gadwall
 gadwalls
 gadzooks
+gaen
 gaffing
 gage
 gagger
@@ -21683,6 +21693,7 @@ herniated
 herniates
 herniation
 herniations
+herns
 heroes
 heroically
 heroicize
@@ -25237,6 +25248,7 @@ jordans
 joseph
 josephs
 joshers
+jostle
 jostling
 jotas
 jotting
@@ -25684,6 +25696,7 @@ kindergartners
 kindheartedly
 kindheartedness
 kindle
+kindled
 kindles
 kindlinesses
 kindling
@@ -26329,6 +26342,7 @@ laurelled
 laurelling
 lav
 lava
+lavages
 lavaliere
 lavaliers
 lavalike
@@ -27017,6 +27031,7 @@ lithotripter
 litigate
 litigiousness
 litmus
+litres
 litten
 litterateur
 litterbag
@@ -28272,6 +28287,7 @@ maxi
 maxillary
 maxilliped
 maxim
+maxima
 maximalist
 maximally
 maximals
@@ -30400,6 +30416,7 @@ multiuser
 multivariate
 multiversity
 multivitamins
+multivoltine
 multiwall
 multures
 mumbled
@@ -32403,6 +32420,7 @@ omnivorously
 omophagia
 omophagias
 omophagic
+onanistic
 onanists
 once
 oncidium
@@ -33643,6 +33661,7 @@ overstocked
 overstocks
 overstrained
 overstrains
+overstresses
 overstretches
 overstrew
 overstrewed
@@ -34336,6 +34355,7 @@ paroling
 parols
 paronomasia
 paronymous
+paroquet
 paroquets
 parosmia
 parotic
@@ -34599,6 +34619,7 @@ peacefulnesses
 peacekeeper
 peacekeepers
 peacekeepings
+peacemaker
 peacemaking
 peached
 peacher
@@ -35549,6 +35570,7 @@ phytochrome
 phytoflagellate
 phytoid
 phytol
+phytoliths
 phytols
 phyton
 phytopathogen
@@ -36464,6 +36486,7 @@ polyzoary
 polyzoic
 pomade
 pomaded
+pomades
 pomanders
 pomegranates
 pomelos
@@ -37012,6 +37035,7 @@ prededucted
 prededucting
 predefining
 predesignate
+predestinarians
 predestination
 predestinations
 predestinators
@@ -38959,6 +38983,7 @@ rampantly
 rampart
 ramped
 rampikes
+rampion
 ramshorn
 ramsons
 ramtil
@@ -39044,6 +39069,7 @@ rasps
 rassle
 rassles
 raster
+rasters
 ratable
 rataplans
 ratatat
@@ -39239,6 +39265,7 @@ reappropriate
 reappropriated
 reappropriating
 reapproved
+reaps
 rearers
 rearmament
 rearmaments
@@ -39389,6 +39416,7 @@ receptor
 recepts
 recessionals
 recessionary
+recessively
 rechallenge
 rechallenges
 rechange
@@ -39406,6 +39434,7 @@ recheats
 rechecked
 rechoosing
 rechose
+recidivist
 recipe
 reciprocal
 reciprocally
@@ -43374,6 +43403,7 @@ sentiences
 sentiencies
 sentiently
 sentimental
+sentimentalised
 sentimentalist
 sentimentality
 sentimentalized
@@ -43469,6 +43499,7 @@ sericulturist
 sericulturists
 serif
 serifed
+seriffed
 serigraphies
 serigraphs
 serine
@@ -43727,6 +43758,7 @@ sheas
 sheatfish
 sheather
 sheaved
+sheaves
 shebeans
 shed
 shedders
@@ -51064,6 +51096,7 @@ unapparent
 unappealingly
 unappeasably
 unappetizing
+unappropriated
 unarmed
 unarrogant
 unaspirated
@@ -52029,6 +52062,7 @@ unseemlier
 unseen
 unsegregated
 unselfish
+unselfishnesses
 unselling
 unsells
 unsensational
@@ -54195,6 +54229,7 @@ wiredraw
 wiredrawing
 wirehaired
 wirelessed
+wireman
 wirephoto
 wiretapping
 wiretaps
