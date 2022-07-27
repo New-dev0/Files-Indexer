@@ -923,6 +923,7 @@ ajuga
 akees
 akene
 akimbo
+akin
 akinesias
 akinetic
 alabaster
@@ -1132,6 +1133,7 @@ allow
 allowables
 allowably
 allowance
+allowances
 allowancing
 allowed
 allowing
@@ -2186,6 +2188,7 @@ apostrophising
 apostrophizes
 apothecaries
 apothece
+apothecia
 apothecium
 apothems
 app
@@ -3380,6 +3383,7 @@ bacteria
 bacteriocins
 bacteriologist
 bacteriolytic
+bacteriophages
 bacteriostasis
 bacteriostatic
 bacterium
@@ -4713,6 +4717,7 @@ bisectrices
 bisectrix
 bisects
 biseriate
+biserrate
 bises
 bisexually
 bishoprics
@@ -5922,6 +5927,7 @@ buboed
 buccal
 buccaneering
 buccaneers
+buccinators
 buck
 buckaroos
 buckbeans
@@ -6111,6 +6117,7 @@ burglarized
 burglarproof
 burgles
 burgomasters
+burgoos
 burgundies
 burial
 buriers
@@ -7790,6 +7797,7 @@ chickweeds
 chicle
 chico
 chicory
+chicos
 chiefdoms
 chiefest
 chiefships
@@ -11006,6 +11014,7 @@ cubeb
 cubebs
 cubed
 cubical
+cubically
 cubicities
 cubing
 cuboid
@@ -11972,6 +11981,7 @@ defalcating
 defalcation
 defalcator
 defalcators
+defamation
 defamations
 defamer
 defaming
@@ -12318,6 +12328,7 @@ demurrages
 demurral
 demurrals
 demurrer
+demurring
 demyelinating
 demythologized
 demythologizer
@@ -14555,6 +14566,7 @@ dusk
 dusking
 dusks
 dustcover
+dusted
 dustheaps
 dustier
 dustman
@@ -16044,6 +16056,7 @@ erythroid
 erythromycin
 erythron
 erythrons
+erythropoieses
 erythropoietin
 erythrosin
 erythrosins
@@ -18345,6 +18358,7 @@ forced
 forcefulnesses
 forceless
 forcemeats
+forcible
 fording
 fordless
 fordoes
@@ -18356,6 +18370,7 @@ forebears
 foreboded
 foreboder
 forebodies
+forebodingness
 forebooms
 forecaddie
 forecaddies
@@ -19938,6 +19953,7 @@ glisten
 glistens
 glister
 glistering
+glitchier
 glitchy
 glitter
 glittered
@@ -22956,6 +22972,7 @@ iconicity
 iconoclasm
 iconoclasms
 iconoclastic
+iconoscopes
 icons
 icosahedra
 icosahedral
@@ -23340,6 +23357,7 @@ impleading
 implement
 implementor
 impletions
+implicates
 imploded
 implodes
 implored
@@ -25623,6 +25641,7 @@ keenly
 keeper
 keepings
 keeps
+keepsake
 keets
 keffiyahs
 kefir
@@ -25771,6 +25790,7 @@ kiefs
 kielbasi
 kier
 kiers
+kieselgurs
 kifs
 kilim
 kill
@@ -26939,6 +26959,7 @@ likers
 liking
 likings
 lilliputian
+lilting
 liltingly
 lily
 limacine
@@ -27646,6 +27667,7 @@ lusterwares
 lustfulness
 lustily
 lustrates
+lustration
 lustrations
 lustred
 lustring
@@ -33144,6 +33166,7 @@ outglares
 outglaring
 outglitters
 outglowing
+outgnawed
 outgo
 outgoes
 outgoingnesses
@@ -33318,6 +33341,7 @@ outspan
 outspeeded
 outspell
 outspells
+outspending
 outspokenness
 outspread
 outspreading
@@ -40152,6 +40176,7 @@ refurbishers
 refurbishes
 refurnish
 refurnished
+refusable
 refusenik
 refuses
 refusing
@@ -40245,6 +40270,7 @@ regulator
 reguline
 regulus
 regurgitated
+rehab
 rehabilitant
 rehabilitants
 rehabilitates
@@ -41586,6 +41612,7 @@ ride
 rideable
 riders
 rides
+ridgeback
 ridgebacks
 ridged
 ridgel
@@ -42539,6 +42566,7 @@ sapodilla
 saponaceousness
 saponated
 saponification
+saponifications
 saponifier
 saponin
 saponine
@@ -43675,6 +43703,7 @@ serger
 serging
 serial
 serialized
+serializes
 serializing
 seriated
 seriates
@@ -44055,6 +44084,7 @@ shillelah
 shim
 shimmer
 shimmered
+shimmers
 shimmying
 shindys
 shiner
@@ -47795,6 +47825,7 @@ superintends
 superintensity
 superior
 superiorities
+superiorly
 superiors
 superjumbo
 superjumbos
@@ -49124,6 +49155,7 @@ testaceans
 testamentary
 testate
 testees
+testier
 testiest
 testifiers
 testifies
@@ -49436,6 +49468,7 @@ thrombi
 thromboembolic
 thromboembolism
 thromboplastic
+thromboplastins
 thromboxane
 thromboxanes
 thrombus
@@ -50393,6 +50426,7 @@ treenware
 treetop
 treetops
 trehalas
+trellises
 trelliswork
 tremble
 trembled
@@ -51493,6 +51527,7 @@ uncoercively
 uncoffins
 uncoined
 uncollectibles
+uncolored
 uncombed
 uncomfortable
 uncomfortably
