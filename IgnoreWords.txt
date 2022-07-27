@@ -3536,6 +3536,7 @@ bannering
 bannerols
 bannister
 bannocks
+banns
 banquette
 banshie
 bantam
@@ -11110,6 +11111,7 @@ curls
 curmudgeonly
 curr
 curragh
+currajong
 currant
 curriculums
 curried
@@ -12552,6 +12554,7 @@ despondent
 despondently
 despumate
 desquamation
+dessertspoon
 destabilized
 destabilizes
 destained
@@ -12636,6 +12639,7 @@ detoxication
 detoxification
 detoxifications
 detoxified
+detoxifies
 detoxify
 detract
 detractor
@@ -13387,6 +13391,7 @@ dishing
 dishonesties
 dishonorer
 dishpans
+dishrags
 dishwares
 dishwater
 disincentive
@@ -14907,6 +14912,7 @@ elderlies
 elderlinesses
 elders
 eldest
+elecampane
 elected
 electing
 electioneer
@@ -15705,6 +15711,7 @@ ephemeris
 ephori
 ephors
 epiblasts
+epibolies
 epiboly
 epicalyx
 epicalyxes
@@ -16599,6 +16606,7 @@ expressers
 expressionisms
 expressionist
 expressionless
+expressions
 expressivity
 expressly
 expressos
@@ -16692,6 +16700,7 @@ extraditable
 extradite
 extradited
 extraditing
+extrados
 extragalactic
 extralimital
 extraliterary
@@ -16811,6 +16820,7 @@ factorship
 factorylike
 factotum
 factotums
+facts
 factual
 factualisms
 factualist
@@ -21012,6 +21022,7 @@ hamstring
 hamstringing
 hamulate
 hamulous
+hamzahs
 handbag
 handbags
 handballs
@@ -21898,6 +21909,7 @@ hitchhiker
 hitchhiking
 hitherto
 hitters
+hitting
 hive
 hiveless
 hives
@@ -22787,6 +22799,7 @@ hysons
 hyssop
 hysteresis
 hysterias
+iamb
 iambus
 iambuses
 iatrical
@@ -24507,6 +24520,7 @@ intromit
 intromitted
 introspect
 introspections
+introverts
 intruders
 intruding
 intrusively
@@ -25060,6 +25074,7 @@ jellify
 jelling
 jelly
 jellyfishes
+jellylike
 jellyroll
 jemidars
 jemmies
@@ -26302,6 +26317,7 @@ lav
 lava
 lavaliere
 lavaliers
+lavalike
 lavash
 lavashes
 lavatories
@@ -29183,6 +29199,7 @@ minute
 minutely
 minuteman
 minuter
+minutia
 minutiae
 minx
 minyan
@@ -30364,6 +30381,7 @@ multiunit
 multiuser
 multivariate
 multiversity
+multivitamins
 multiwall
 multures
 mumbled
@@ -31033,6 +31051,7 @@ neutralize
 neutralized
 neutralizer
 neutrino
+neutrinoless
 neutrons
 neutrophil
 neve
@@ -32103,6 +32122,7 @@ obtests
 obtrusions
 obtrusive
 obtrusivenesses
+obtund
 obtundents
 obturate
 obturated
@@ -32766,6 +32786,7 @@ otocystic
 otocysts
 otolaryngology
 otoliths
+otologies
 otoplasties
 otoscleroses
 otosclerosis
@@ -32905,6 +32926,7 @@ outfield
 outfight
 outfights
 outfigured
+outfind
 outfired
 outfires
 outfished
@@ -34157,6 +34179,7 @@ paraglide
 paraglides
 paragliding
 paragons
+paragraphed
 paragraphic
 parainfluenza
 parajournalism
@@ -37278,6 +37301,7 @@ presignifying
 preslaughter
 presoak
 presolves
+presorted
 presorting
 presorts
 presplit
@@ -37631,6 +37655,7 @@ prognosticators
 prognostics
 programed
 programer
+programmer
 programmers
 programming
 programs
@@ -37775,6 +37800,7 @@ proposers
 propositi
 propositioned
 propounds
+propraetors
 propretor
 propria
 proprieties
@@ -38120,6 +38146,7 @@ puerperium
 puff
 puffer
 puffily
+pugaree
 puggarees
 pugginess
 pugginesses
@@ -40254,6 +40281,7 @@ remeasurement
 remeasuring
 remediated
 remediation
+remeeting
 remember
 rememberable
 remembering
@@ -42646,6 +42674,7 @@ schoolman
 schoolmaster
 schoolmasters
 schoolroom
+schoolteacher
 schoolteachers
 schoolwork
 schooners
@@ -47858,6 +47887,7 @@ swingy
 swinish
 swinneys
 swiples
+swipple
 swipples
 swirl
 swirled
@@ -47944,6 +47974,7 @@ symbolled
 symbologies
 symbols
 symmetricalness
+symmetrize
 sympathetics
 sympathise
 sympathised
@@ -49032,6 +49063,7 @@ thinness
 thinnesses
 thinnish
 thiocyanate
+thiocyanates
 thiols
 thionate
 thionine
@@ -52823,6 +52855,7 @@ vernal
 vernalizes
 vernicles
 vernissage
+veronicas
 verruca
 verrucas
 versal
@@ -52886,6 +52919,7 @@ vetting
 vexatious
 vexatiousness
 vexedness
+vexednesses
 vexer
 vexers
 vexil
@@ -53937,6 +53971,7 @@ whoops
 whoosh
 whooshes
 whopper
+whorehouse
 whoremongers
 whores
 whoresons
