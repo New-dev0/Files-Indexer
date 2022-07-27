@@ -79,6 +79,7 @@ abstemiousness
 absterge
 abstinence
 abstinences
+abstinent
 abstinently
 abstracted
 abstracting
@@ -375,6 +376,7 @@ acted
 actinia
 actinians
 actinias
+actinism
 actinium
 actinoid
 actinomorphies
@@ -822,6 +824,7 @@ agnized
 agnomen
 agnomina
 agnosia
+agnosias
 agnosticisms
 agonal
 agonic
@@ -1222,6 +1225,7 @@ aluminums
 alumna
 alumroots
 alumstones
+alunite
 alveolars
 alveolate
 alyssum
@@ -3716,6 +3720,7 @@ bastardized
 baste
 baster
 basters
+bastille
 bastinade
 bastinado
 bastinadoed
@@ -10342,6 +10347,7 @@ counterstruck
 countersue
 countersues
 countertenors
+counterterrors
 countertrade
 countertrades
 countertrend
@@ -13909,6 +13915,7 @@ doodles
 doody
 doohickeys
 dooly
+doomier
 doomily
 doomsayer
 doomsdayers
@@ -14036,6 +14043,7 @@ dowdier
 dowed
 dowel
 doweled
+doweling
 dowelling
 dowering
 dowerless
@@ -15421,6 +15429,7 @@ engineers
 engineries
 enginous
 engirded
+engirdle
 engirds
 english
 englutted
@@ -20655,6 +20664,7 @@ guesstimated
 guesstimates
 guessworks
 guesting
+guffs
 guggle
 guggled
 guggles
@@ -23375,6 +23385,7 @@ inbreathes
 inbred
 inbreeder
 inbreeders
+inbreeding
 inbreedings
 inbreeds
 inbuilt
@@ -23780,6 +23791,7 @@ infeoffs
 infer
 inferable
 inferably
+inferences
 inferior
 infernally
 inferno
@@ -25197,6 +25209,7 @@ joinder
 joiner
 joinings
 joint
+jointednesses
 jointly
 jointresses
 jointweeds
@@ -26212,6 +26225,7 @@ larum
 larvae
 larvas
 larvicide
+larvicides
 laryngals
 larynges
 laryngitis
@@ -26679,6 +26693,7 @@ libido
 librarianship
 librate
 librated
+librating
 librations
 libretti
 librettist
@@ -27033,6 +27048,7 @@ livered
 liveried
 liveries
 liverishness
+liverishnesses
 liverleaf
 livers
 liverwurst
@@ -27490,6 +27506,7 @@ lustering
 lusterless
 lusters
 lusterwares
+lustfulness
 lustily
 lustrates
 lustrations
@@ -28601,6 +28618,7 @@ mercerising
 mercerization
 mercerized
 mercery
+merch
 merchandizes
 merchant
 merchantable
@@ -35454,6 +35472,7 @@ photosetting
 photospheres
 photospheric
 photostat
+photosynthate
 photosynthesis
 photosynthetic
 phototaxes
@@ -36369,6 +36388,7 @@ polydispersity
 polyembryonies
 polyene
 polyenic
+polygamies
 polygamized
 polygamizes
 polygene
@@ -39677,6 +39697,7 @@ rednecks
 redo
 redock
 redocked
+redolent
 redonning
 redons
 redouble
@@ -40150,6 +40171,7 @@ rejective
 rejectors
 rejigged
 rejiggers
+rejoice
 rejoiced
 rejoining
 rejudge
@@ -40228,6 +40250,7 @@ relishable
 relishing
 relist
 relived
+relives
 reloaders
 reloaning
 reloans
@@ -40947,6 +40970,7 @@ retax
 retches
 reteam
 retear
+retears
 retell
 retempered
 retempering
@@ -41310,6 +41334,7 @@ rhyton
 ria
 rialtos
 riantly
+riata
 riatas
 rib
 ribald
@@ -41487,6 +41512,7 @@ rivages
 rival
 rivaled
 rivalled
+rivals
 riven
 riverbank
 riverbed
@@ -42075,6 +42101,7 @@ sailboard
 sailboards
 sailboater
 sailcloths
+sailer
 sailing
 sails
 saimin
@@ -42365,6 +42392,7 @@ sarsen
 sartor
 sartorial
 sash
+sashaying
 sashays
 sashing
 sashless
@@ -42622,6 +42650,7 @@ schema
 schematically
 schematization
 schematizes
+schematizing
 scheming
 scherzando
 scherzo
@@ -43906,6 +43935,7 @@ shofroth
 shone
 shoo
 shooks
+shool
 shooled
 shooling
 shools
@@ -45006,6 +45036,7 @@ snowstorms
 snowsuit
 snowy
 snub
+snubbed
 snubbier
 snubness
 snubs
@@ -48486,6 +48517,7 @@ teacup
 teahouses
 teakwood
 team
+teamaker
 teaming
 teammate
 teammates
@@ -50657,6 +50689,7 @@ turfskiings
 turgidities
 turgidness
 turgors
+turion
 turions
 turistas
 turkeys
@@ -50970,6 +51003,7 @@ umlaut
 umlauting
 umlauts
 umping
+umpire
 umpired
 umpires
 umpteenth
@@ -53206,6 +53240,7 @@ vocalised
 vocalist
 vocalnesses
 vocals
+vocation
 vocational
 vocationalism
 vocationalists
