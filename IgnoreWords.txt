@@ -337,6 +337,7 @@ acquirement
 acquirer
 acquirers
 acquisitional
+acquisitions
 acquisitive
 acquittance
 acquitting
@@ -2555,6 +2556,7 @@ aroused
 arousers
 aroynt
 aroynting
+arpeggio
 arpeggios
 arpen
 arpens
@@ -2857,6 +2859,7 @@ astounding
 astrachan
 astraddle
 astragal
+astrakhan
 astrally
 astray
 astricted
@@ -3658,6 +3661,7 @@ barbless
 barbwires
 barchan
 barded
+bardes
 barding
 bards
 bareback
@@ -10506,6 +10510,7 @@ counterbid
 counterblast
 counterblasts
 counterchange
+countercharges
 countercheck
 counterclaim
 counterclaiming
@@ -11157,6 +11162,7 @@ cryptarithm
 cryptically
 cryptococci
 cryptococcosis
+cryptogamic
 cryptogams
 cryptologic
 cryptological
@@ -11469,6 +11475,7 @@ cutup
 cutups
 cutwork
 cuvette
+cwms
 cyan
 cyanamide
 cyanamides
@@ -12667,6 +12674,7 @@ deprecates
 deprecatingly
 deprecations
 deprecatorily
+depreciated
 depreciates
 depreciatingly
 depreciation
@@ -12928,6 +12936,7 @@ detraining
 detrainments
 detribalized
 detriment
+detrimentals
 detritus
 detrusions
 deuced
@@ -15917,6 +15926,7 @@ enterotoxins
 enteroviral
 enterprising
 entertains
+enthral
 enthralled
 enthralling
 enthronement
@@ -22384,6 +22394,7 @@ historiographer
 history
 hitchhiker
 hitchhiking
+hither
 hitherto
 hitters
 hitting
@@ -23993,6 +24004,7 @@ incongruence
 incongruences
 incongruity
 incongruously
+incongruousness
 inconnu
 inconnus
 inconscient
@@ -24166,6 +24178,7 @@ individuals
 individuated
 individuations
 indivisible
+indocilities
 indolently
 indoles
 indomethacins
@@ -26719,6 +26732,7 @@ langsynes
 languages
 languette
 languettes
+languid
 languidnesses
 languisher
 languishers
@@ -30026,6 +30040,7 @@ misfocusing
 misfocussed
 misfocusses
 misfocussing
+misforms
 misfortunes
 misframed
 misfunction
@@ -31565,6 +31580,7 @@ negotiability
 negotiate
 negotiating
 negritude
+negs
 neif
 neifs
 neighboring
@@ -31759,6 +31775,7 @@ newsreaders
 newsrooms
 newsstand
 newsstands
+newsweeklies
 newsworthy
 newswriting
 newt
@@ -32082,6 +32099,7 @@ noncongruent
 nonconnection
 nonconstant
 nonconsumer
+nonconsumption
 nonconsumptions
 noncontact
 noncontract
@@ -32420,6 +32438,7 @@ nonvenomous
 nonveterans
 nonviewers
 nonviolence
+nonviolent
 nonvirgin
 nonvoting
 nonwage
@@ -32768,6 +32787,7 @@ obscuration
 obscurations
 obscured
 obscureness
+obscurities
 obscurity
 obsecrate
 obsecrated
@@ -32857,6 +32877,7 @@ oceanaut
 oceangoing
 oceanic
 oceanographies
+oceloid
 ocelot
 ochered
 ochering
@@ -33422,6 +33443,7 @@ oryxes
 os
 osar
 oscillograms
+oscillographies
 oscillography
 oscinine
 osculant
@@ -33749,6 +33771,7 @@ outpoll
 outpolls
 outpopulate
 outpopulating
+outpost
 outposts
 outpourer
 outpowers
@@ -41520,6 +41543,7 @@ reseda
 reseeking
 reseeks
 resees
+resegregation
 reseized
 reseizes
 reseizure
@@ -42141,6 +42165,7 @@ rhizopus
 rho
 rhodamine
 rhodamins
+rhodic
 rhodium
 rhododendron
 rhododendrons
@@ -42461,6 +42486,7 @@ rollouts
 rollways
 rom
 romaine
+romaines
 romancing
 romanises
 romanizations
@@ -45728,6 +45754,7 @@ smashing
 smashups
 smatter
 smattered
+smatterer
 smattering
 smatterings
 smatters
@@ -46911,6 +46938,7 @@ squamates
 squamation
 squamosals
 squanderers
+square
 squareness
 squarenesses
 squares
@@ -48237,6 +48265,7 @@ sudations
 sudatorium
 sudatoriums
 sudd
+suddenly
 suddenness
 suddennesses
 sudds
@@ -51003,6 +51032,7 @@ transitively
 transitiveness
 transitivity
 transitorily
+translatable
 translated
 translation
 translators
@@ -51225,6 +51255,7 @@ trichiasis
 trichina
 trichinas
 trichinoses
+trichite
 trichites
 trichocyst
 trichogyne
@@ -51366,6 +51397,7 @@ trips
 triptanes
 triptychs
 trisaccharide
+trisaccharides
 trisector
 trisemic
 triskele
@@ -51466,6 +51498,7 @@ troth
 trotters
 trotting
 trotyls
+troublemakers
 troublemaking
 troubles
 troubleshoots
@@ -53341,6 +53374,7 @@ upflow
 upgaze
 upgird
 upgradabilities
+upgradable
 upgradeable
 upgrades
 upgrows
@@ -55559,6 +55593,7 @@ wrangling
 wrap
 wraparounds
 wrapped
+wrappers
 wrapping
 wrappings
 wrasse
