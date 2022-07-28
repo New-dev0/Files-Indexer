@@ -541,6 +541,7 @@ adolescent
 adolescently
 adolescents
 adopt
+adoptability
 adoptees
 adoptionist
 adopts
@@ -673,6 +674,7 @@ affaires
 affectabilities
 affectability
 affectable
+affectations
 affecters
 affecting
 affectionate
@@ -901,6 +903,7 @@ airbusses
 airchecks
 airdrop
 airdropped
+airest
 airfares
 airfields
 airflow
@@ -3378,6 +3381,7 @@ backloads
 backmost
 backouts
 backpacker
+backpedals
 backroom
 backrooms
 backrushes
@@ -5460,6 +5464,7 @@ bouffe
 bough
 boughless
 boughpot
+bougie
 bouillabaisse
 bouldered
 bouldering
@@ -7654,6 +7659,7 @@ charging
 charily
 chariness
 charinesses
+charing
 charism
 charismas
 charismata
@@ -9680,6 +9686,7 @@ congratulator
 congratulators
 congregants
 congregating
+congregational
 congresses
 congressing
 congresspeople
@@ -10224,6 +10231,7 @@ cornettists
 cornfield
 cornhusk
 cornify
+cornifying
 cornily
 corniness
 cornmeals
@@ -10449,6 +10457,7 @@ counterclaim
 counterclaiming
 countercoups
 counterculture
+countercurrents
 countercyclical
 counterdemand
 counterdemands
@@ -14448,6 +14457,7 @@ dressy
 dribbing
 dribbles
 dribblets
+dribbling
 dribbly
 driblets
 driegh
@@ -19077,6 +19087,7 @@ fruiting
 fruition
 fruitlessly
 fruitlessnesses
+fruitwoods
 frumpiest
 frusta
 frustules
@@ -22578,6 +22589,7 @@ hopsacks
 hopscotched
 hoptoad
 hoptoads
+horas
 hordein
 hording
 horehound
@@ -22857,6 +22869,7 @@ huntsmen
 huppah
 hurdled
 hurdles
+hurds
 hurlers
 hurleys
 hurlings
@@ -23723,6 +23736,7 @@ inappropriately
 inaptitude
 inaptness
 inaptnesses
+inarable
 inarch
 inarguable
 inarguably
@@ -24969,6 +24983,7 @@ inveiglements
 inveiglers
 inveigles
 invention
+inventively
 inventiveness
 inventivenesses
 inventories
@@ -29019,6 +29034,7 @@ menial
 meningeal
 meninges
 meningioma
+meningococcal
 meningococcic
 meningococcus
 menisci
@@ -31805,6 +31821,7 @@ nonabrasive
 nonabsorbent
 nonabsorptive
 nonacid
+nonacidic
 nonacids
 nonaction
 nonaddicts
@@ -32232,6 +32249,7 @@ nonthermal
 nonthreatening
 nontobacco
 nontotalitarian
+nontraditional
 nontransferable
 nontruths
 nonuniform
@@ -34149,6 +34167,7 @@ overspiced
 overspins
 overspreading
 overstaff
+overstaffed
 overstates
 overstayed
 overstays
@@ -35282,6 +35301,7 @@ pelletized
 pelletizer
 pelletizers
 pellucid
+pelmets
 peloric
 pelorus
 pelotas
@@ -36312,6 +36332,7 @@ pinkishnesses
 pinkroot
 pinna
 pinnace
+pinnacle
 pinnae
 pinnated
 pinnation
@@ -36957,6 +36978,7 @@ polygynies
 polygynous
 polyhedroses
 polyhistor
+polyimides
 polylysine
 polymathies
 polymathy
@@ -40511,6 +40533,7 @@ refractometers
 refractometric
 refractometries
 refractories
+refractoriness
 refracts
 refrained
 refrainer
@@ -43904,6 +43927,7 @@ semimild
 semina
 seminar
 seminaries
+seminoma
 seminomads
 seminomas
 seminomata
@@ -44327,6 +44351,7 @@ shapewear
 shards
 shareabilities
 sharecrops
+shareholder
 shareholders
 sharewares
 sharias
@@ -45316,6 +45341,7 @@ slimming
 slimnastics
 slimness
 slims
+slimy
 slingback
 slinger
 slingers
@@ -46399,6 +46425,7 @@ spirillum
 spirited
 spiritism
 spiritist
+spiritlessly
 spirits
 spiritual
 spiritualize
@@ -49830,6 +49857,7 @@ thirtieths
 thirty
 thirtyish
 thisaway
+thistly
 thole
 tholed
 tholepin
@@ -50996,6 +51024,7 @@ trierarchy
 triers
 tries
 trifled
+triflers
 trifocals
 trifold
 trifoliate
@@ -51374,6 +51403,7 @@ tunelessly
 tuner
 tunes
 tuneups
+tung
 tungstate
 tungstates
 tungstens
@@ -51800,6 +51830,7 @@ unanimity
 unanimous
 unanimously
 unannoyed
+unanswerability
 unanswerable
 unanswerably
 unanswered
@@ -52502,6 +52533,7 @@ unjoyful
 unjust
 unjustness
 unjustnesses
+unkempt
 unkent
 unkept
 unkindest
@@ -53718,6 +53750,7 @@ vetch
 vetches
 vetchling
 veterinarian
+veterinarians
 vetiver
 vetivers
 vetivert
@@ -54171,6 +54204,7 @@ wadders
 waddled
 waddlers
 waddying
+waded
 waders
 wadies
 wading
@@ -54550,6 +54584,7 @@ weediest
 weedily
 weedy
 weekday
+weekending
 weeklong
 weekly
 ween
