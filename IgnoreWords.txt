@@ -2656,6 +2656,7 @@ ascribable
 ascribe
 ascribes
 asea
+aseptic
 asexualities
 ash
 ashamedly
@@ -3122,6 +3123,7 @@ automatically
 automaticities
 automating
 automation
+automatist
 automatized
 automatizes
 automats
@@ -6439,6 +6441,7 @@ cajoles
 cajones
 cakes
 cakier
+cakiest
 cakinesses
 caky
 calabash
@@ -7773,6 +7776,7 @@ chemises
 chemism
 chemisms
 chemisorb
+chemisorbing
 chemisorptions
 chemoautotrophy
 chemokines
@@ -8044,6 +8048,7 @@ choosier
 choosiest
 choosing
 chophouse
+choplogic
 choppering
 choppier
 choppiness
@@ -10350,6 +10355,7 @@ cothurnus
 cotillion
 cotinga
 cotoneasters
+cotransduce
 cotransduction
 cotransductions
 cotransfers
@@ -10513,6 +10519,8 @@ couvades
 covalences
 covalent
 covariance
+covariances
+covariate
 covariation
 cove
 coved
@@ -11233,6 +11241,7 @@ curious
 curiousness
 curite
 curium
+curled
 curler
 curlers
 curlicued
@@ -12097,6 +12106,7 @@ deferrables
 deferred
 defervescences
 defibrillate
+defibrillates
 defibrillations
 defibrillators
 defibrinating
@@ -12201,6 +12211,7 @@ dehumanization
 dehumanizations
 dehumanizes
 dehumidified
+dehumidifying
 dehydrate
 dehydrated
 dehydrating
@@ -13721,6 +13732,7 @@ disseized
 disseizes
 disseminator
 disseminators
+dissented
 dissentient
 dissents
 dissertate
@@ -14235,6 +14247,7 @@ downshift
 downshifted
 downshifts
 downsides
+downsize
 downsized
 downslide
 downslope
@@ -16116,6 +16129,7 @@ erring
 erroneous
 erroneousness
 erroneousnesses
+errorless
 errors
 errs
 ersatzes
@@ -22123,6 +22137,7 @@ hinny
 hins
 hinter
 hinterland
+hinterlands
 hinting
 hipbone
 hipbones
@@ -22545,6 +22560,7 @@ horseshoe
 horseshoed
 horsetail
 horseweed
+horsewhip
 horsewhipper
 horsinesses
 horticultures
@@ -30249,6 +30265,7 @@ monometallist
 monometer
 monomials
 monomorphemic
+monomorphisms
 mononucleate
 mononucleoses
 monophagies
@@ -32964,6 +32981,7 @@ orchestrators
 orchidaceous
 orchids
 orchil
+orcin
 orcinol
 orcins
 ordainment
@@ -37243,6 +37261,7 @@ practise
 practised
 praenomen
 praenomina
+praesidia
 praesidium
 praetorial
 praetorian
@@ -39517,6 +39536,7 @@ ratsbane
 rattail
 ratteen
 rattening
+rattens
 ratting
 rattish
 rattle
@@ -39642,6 +39662,7 @@ reallots
 reallotting
 really
 realms
+realness
 realpolitik
 realter
 realtering
@@ -40383,6 +40404,7 @@ refuge
 refugium
 refulgence
 refunds
+refurbish
 refurbisher
 refurbishers
 refurbishes
@@ -44732,6 +44754,7 @@ silverberry
 silverly
 silvern
 silverpoint
+silverside
 silversides
 silversmithings
 silverware
@@ -45970,6 +45993,7 @@ spanworms
 spar
 sparable
 sparables
+spareable
 spares
 sparge
 spargers
@@ -46038,6 +46062,7 @@ specious
 speciousness
 speckle
 speckles
+specs
 spectacles
 spectacular
 spectate
@@ -47795,6 +47820,7 @@ sudatorium
 sudatoriums
 sudd
 suddenness
+suddennesses
 sudds
 sudsed
 sudsier
@@ -48339,6 +48365,7 @@ swank
 swankest
 swankily
 swanking
+swannery
 swanpan
 swans
 swanskins
@@ -48399,6 +48426,7 @@ sweetly
 sweetshop
 sweetsop
 sweetsops
+swellfishes
 swells
 swelter
 sweltrier
@@ -49723,6 +49751,7 @@ thromboxane
 thromboxanes
 thrombus
 throned
+throning
 throttles
 through
 throughither
@@ -50708,6 +50737,7 @@ trephines
 trepidant
 treponemal
 treponematoses
+trespass
 tressel
 tresses
 tressiest
@@ -50924,6 +50954,7 @@ tritone
 triturating
 triturator
 triumphalism
+triumphalisms
 triumphed
 triumphs
 triune
@@ -52570,6 +52601,7 @@ unsaturated
 unsaturates
 unsaved
 unsavoury
+unsawed
 unsayables
 unscarred
 unschooled
@@ -53550,6 +53582,7 @@ vibraphone
 vibraphonist
 vibrated
 vibration
+vibrationless
 vibrators
 vibratos
 vibrios
@@ -53879,6 +53912,7 @@ voluntaryism
 voluntaryists
 volunteering
 volunteerisms
+volunteers
 voluptuously
 volutes
 volutins
@@ -55122,6 +55156,7 @@ wyting
 xanthein
 xantheins
 xanthene
+xanthins
 xanthomata
 xanthone
 xanthophyll
