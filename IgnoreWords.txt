@@ -594,6 +594,7 @@ adverb
 adverbial
 adverbials
 adversaries
+adversariness
 advertent
 advertisement
 advertize
@@ -1084,6 +1085,7 @@ alkoxide
 alkyd
 alkyds
 allanite
+allantoides
 allantoids
 allantoin
 allantois
@@ -1484,6 +1486,7 @@ amyloses
 amyls
 amylums
 anabaena
+anabaenas
 anabatic
 anachronism
 anachronistic
@@ -5000,6 +5003,7 @@ blizzardy
 bloat
 bloated
 blob
+blockers
 blockheads
 blockier
 blog
@@ -5676,6 +5680,7 @@ brazes
 brazier
 brazil
 brazils
+brazilwood
 breaching
 breadbaskets
 breadbox
@@ -10563,6 +10568,7 @@ couturiers
 couvades
 covalences
 covalent
+covalently
 covariance
 covariances
 covariate
@@ -10740,6 +10746,7 @@ crawling
 crawls
 craws
 crayon
+crayoners
 craze
 crazier
 crazing
@@ -12070,6 +12077,7 @@ decried
 decries
 decriminalized
 decriminalizing
+decrying
 decrypt
 decryptions
 decrypts
@@ -13432,6 +13440,7 @@ disburden
 disbursals
 disburse
 disbursements
+disbursing
 discardable
 discarder
 discarders
@@ -14338,6 +14347,7 @@ doyleys
 doyly
 dozening
 dozens
+dozenth
 doziness
 dozing
 dozy
@@ -14443,6 +14453,7 @@ dreggiest
 dreidels
 dreidls
 dreigh
+drek
 dreks
 drenched
 drenchers
@@ -15794,6 +15805,7 @@ enshroud
 ensiform
 ensign
 ensigns
+ensiled
 ensiles
 enskies
 enskyed
@@ -17817,6 +17829,7 @@ finickiness
 finickinesses
 finicky
 finikin
+fining
 finings
 finish
 finisher
@@ -19390,6 +19403,7 @@ gallican
 gallicizations
 gallicized
 gallingly
+gallinipper
 gallinule
 gallinules
 galliots
@@ -20832,6 +20846,7 @@ grocer
 groceries
 grocers
 grocery
+grodier
 grody
 groggeries
 grogs
@@ -20944,6 +20959,7 @@ grumps
 grungy
 grunions
 grunter
+gruntle
 gruntled
 gruntles
 gruntling
@@ -21181,6 +21197,7 @@ habilitated
 habilitations
 habitably
 habitan
+habitant
 habitants
 habitualness
 habituate
@@ -23764,6 +23781,7 @@ inbounded
 inbreathe
 inbreathes
 inbred
+inbreds
 inbreeder
 inbreeders
 inbreeding
@@ -24002,6 +24020,7 @@ indicatives
 indicators
 indicia
 indictable
+indicts
 indifferent
 indifferently
 indigen
@@ -24609,6 +24628,7 @@ interbranch
 intercalations
 intercaste
 interceders
+intercedes
 intercept
 intercepters
 interceptions
@@ -25563,6 +25583,7 @@ jiggliest
 jiggling
 jiglike
 jigsawing
+jigsaws
 jihad
 jillions
 jimmies
@@ -30546,6 +30567,7 @@ morganites
 morion
 morions
 morn
+morocco
 moronically
 moronism
 moronity
@@ -32990,6 +33012,7 @@ opencast
 opened
 opener
 opening
+openings
 openmouthedly
 openmouthedness
 openness
@@ -39632,6 +39655,7 @@ rares
 rasbora
 rasers
 rashest
+rasp
 raspberries
 raspier
 raspiest
@@ -40443,6 +40467,7 @@ reexportation
 reexported
 reexports
 reexpose
+reexposes
 reexposures
 reexpressed
 ref
@@ -40621,6 +40646,7 @@ reglossing
 reglow
 reglowed
 regma
+regmata
 regnal
 regnancies
 regnum
@@ -44903,6 +44929,7 @@ silicium
 siliciums
 silicle
 silicone
+siliconized
 siliqua
 siliquae
 siliques
@@ -45933,6 +45960,7 @@ somatomedin
 somatopleure
 somatotrophins
 somberness
+sombre
 sombreros
 some
 somebodies
@@ -46188,6 +46216,7 @@ sparklier
 sparkplug
 sparky
 sparred
+sparriest
 sparrowlike
 sparrows
 sparse
@@ -47150,6 +47179,7 @@ stilts
 stimes
 stimulant
 stimulator
+stingarees
 stingers
 stingiest
 stinginess
@@ -49903,6 +49933,7 @@ thready
 threap
 threaper
 threaps
+threatener
 threateningly
 threatens
 threating
@@ -50365,6 +50396,7 @@ toolings
 toolmakers
 toolmaking
 toolmakings
+toom
 toonie
 toot
 tooth
@@ -52938,6 +52970,7 @@ untenabilities
 untenability
 untenable
 untenably
+untenanted
 untented
 untested
 untethering
@@ -54195,6 +54228,7 @@ wack
 wackes
 wackier
 wackiness
+wacko
 wacky
 wad
 wadable
@@ -54617,6 +54651,7 @@ weirding
 weirdly
 weirdnesses
 weirds
+weisenheimer
 weisenheimers
 welches
 welcomenesses
