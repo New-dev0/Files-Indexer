@@ -399,6 +399,7 @@ activities
 activity
 activizing
 actomyosins
+actorish
 actual
 actualities
 actualization
@@ -1096,6 +1097,7 @@ allegorically
 allegoricalness
 allegories
 allegorization
+allegorizations
 allegorize
 allegory
 allegretto
@@ -1206,6 +1208,7 @@ alpha
 alphabet
 alphabetize
 alphabetized
+alphabetizers
 alphabetizing
 alphanumeric
 alphanumerical
@@ -1777,6 +1780,7 @@ anorexia
 anorexies
 anorthic
 anorthosites
+anosmias
 anosmic
 anovulants
 anovulatory
@@ -2014,6 +2018,7 @@ antirationalism
 antirationalist
 antirationality
 antirealism
+antired
 antireflection
 antireform
 antirejection
@@ -2114,6 +2119,7 @@ apartnesses
 apathetic
 apatosaur
 apatosaurs
+apatosauruses
 ape
 aper
 apercu
@@ -6008,6 +6014,7 @@ buckboard
 buckbrush
 buckbrushes
 bucket
+bucketfuls
 bucketing
 buckled
 bucklering
@@ -11292,6 +11299,7 @@ curbers
 curbing
 curbings
 curbstone
+curding
 curdlers
 curdles
 curdling
@@ -12693,6 +12701,7 @@ dermatomes
 dermatoses
 dermatosis
 dermic
+dermoid
 derms
 dernier
 derogate
@@ -12707,10 +12716,12 @@ desalted
 desalts
 descant
 descanted
+descanters
 descend
 descender
 descendible
 describable
+describe
 described
 describes
 descried
@@ -15741,6 +15752,7 @@ enhancers
 enhances
 enigmatic
 enisle
+enisled
 enisling
 enjoinder
 enjoinders
@@ -17430,6 +17442,7 @@ fealties
 fearers
 fearlessness
 fears
+feased
 feasters
 featest
 featherbrain
@@ -18310,6 +18323,7 @@ flued
 fluently
 flues
 fluffer
+fluffier
 fluffiest
 fluffiness
 fluffinesses
@@ -22090,6 +22104,7 @@ herrying
 hers
 herself
 herstories
+hertzes
 hes
 hesitance
 hesitaters
@@ -23938,6 +23953,7 @@ inconvertible
 inconvincible
 incony
 incoordination
+incorporable
 incorporated
 incorporation
 incorpses
@@ -35019,6 +35035,7 @@ pasquils
 pasquinades
 pass
 passacaglia
+passage
 passages
 passagework
 passageworks
@@ -35865,6 +35882,7 @@ pharmacologic
 pharmacologist
 pharmacologists
 pharmacology
+pharmacopeial
 pharos
 pharyngals
 pharyngeal
@@ -38664,6 +38682,7 @@ prower
 prowesses
 prowl
 proxemic
+proximal
 proximally
 prudishly
 prune
@@ -39332,6 +39351,7 @@ quillai
 quillais
 quillback
 quillwork
+quillwort
 quillworts
 quilting
 quinacrines
@@ -41891,6 +41911,7 @@ revisions
 revisit
 revisory
 revisualization
+revitalizations
 revitalizes
 revitalizing
 revivalisms
@@ -42369,6 +42390,7 @@ rootholds
 rootiest
 rootling
 rootstalk
+rootstock
 rooty
 rope
 ropedancer
@@ -42725,6 +42747,7 @@ sacculation
 sacculations
 saccule
 sacerdotally
+sachem
 sachemic
 sachems
 sacheted
@@ -45380,6 +45403,7 @@ sledged
 sleek
 sleekened
 sleekness
+sleeknesses
 sleeky
 sleepiest
 sleepings
@@ -47707,6 +47731,7 @@ subbasses
 subblocks
 subbranch
 subbureau
+subcaste
 subcategories
 subcavity
 subcellular
@@ -47913,6 +47938,7 @@ subpoenaed
 subpoenaing
 subpolar
 subpopulations
+subprimates
 subprocess
 subprofessional
 subprograms
@@ -48337,6 +48363,7 @@ supergene
 superglue
 supergovernment
 supergrowth
+superheated
 superhelices
 superhelix
 superheroes
@@ -48586,6 +48613,7 @@ suspirations
 suss
 sustain
 sustainable
+sustained
 susurrant
 susurrated
 susurration
@@ -48794,6 +48822,7 @@ syllabication
 syllabics
 syllabisms
 syllabize
+syllabizes
 syllabizing
 syllabled
 syllabub
@@ -49246,6 +49275,7 @@ tarring
 tarrying
 tarsals
 tarsia
+tarsometatarsi
 tarsometatarsus
 tartanas
 tartar
@@ -50317,6 +50347,7 @@ toadstones
 toadstool
 toady
 toadying
+toasted
 toastier
 toasting
 toastmaster
@@ -52514,6 +52545,7 @@ unhands
 unhandsome
 unhandy
 unhanging
+unhangs
 unhappiness
 unharmed
 unharnessed
@@ -52549,6 +52581,7 @@ unicycle
 unicycled
 unicycles
 unicyclist
+unideaed
 unideological
 unific
 uniform
@@ -53522,6 +53555,7 @@ vaporised
 vaporish
 vaporishness
 vaporishnesses
+vaporize
 vaporizes
 vaporizing
 vaporous
@@ -54355,6 +54389,7 @@ wairs
 waistcoat
 waister
 waisting
+waistings
 waists
 waitered
 waitlist
