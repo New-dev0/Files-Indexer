@@ -1044,6 +1044,7 @@ align
 alike
 alikeness
 aliment
+alimentation
 alimented
 alimony
 aline
@@ -1733,6 +1734,7 @@ annotators
 announcer
 announcers
 announcing
+annoying
 annualize
 annualizing
 annuitants
@@ -5639,6 +5641,7 @@ bravadoes
 bravados
 braved
 bravely
+braveries
 bravi
 braving
 bravo
@@ -6526,6 +6529,7 @@ callaloos
 callan
 callans
 callas
+callback
 callbacks
 callboard
 callboy
@@ -7318,6 +7322,7 @@ ceding
 cedis
 cees
 ceibas
+ceiler
 ceilinged
 ceilings
 ceils
@@ -8535,6 +8540,7 @@ clingstone
 clingy
 clinical
 clinically
+clinician
 clinkering
 clinks
 clinometers
@@ -8910,6 +8916,7 @@ coffee
 coffeemakers
 coffeepot
 coffeepots
+coffees
 coffer
 cofferdam
 coffered
@@ -10507,6 +10514,7 @@ couplements
 couples
 couplet
 coupons
+courages
 courant
 courier
 courlan
@@ -10594,6 +10602,7 @@ coypou
 coys
 cozenages
 cozening
+cozey
 cozie
 coziness
 cozy
@@ -10872,6 +10881,7 @@ crisscrossing
 crista
 crit
 criteria
+criterium
 criticalities
 critically
 criticised
@@ -12846,6 +12856,7 @@ devesting
 deviants
 deviating
 deviationisms
+deviators
 device
 devilfish
 devilfishes
@@ -13151,6 +13162,7 @@ diglots
 dignitary
 dignities
 digraphs
+digressing
 digressively
 dihedral
 dihedron
@@ -13467,6 +13479,7 @@ discouragers
 discourages
 discouraging
 discoursed
+discoursers
 discover
 discoverable
 discovered
@@ -13943,6 +13956,7 @@ dobras
 dobsonfly
 dobsons
 doby
+docent
 docile
 docilely
 docility
@@ -15414,6 +15428,7 @@ emptiers
 emptying
 empurple
 empurpling
+empyemata
 empyreal
 ems
 emu
@@ -21887,6 +21902,7 @@ hemorrhoid
 hemostasis
 hemostat
 hemostatics
+hemostats
 hempen
 hempier
 hempseeds
@@ -22323,6 +22339,7 @@ holmic
 holoblastic
 holocaust
 holocene
+holoenzymes
 hologynies
 holometabolism
 holophytic
@@ -23688,6 +23705,7 @@ inattention
 inattentions
 inattentively
 inattentiveness
+inaudibilities
 inaudibility
 inaudible
 inaudibly
@@ -25132,6 +25150,7 @@ island
 islander
 isle
 isled
+isleless
 isoantigen
 isoantigenic
 isoantigens
@@ -29502,6 +29521,7 @@ millimole
 milline
 milliohms
 million
+millionairesses
 millions
 millionths
 milliosmols
@@ -31346,6 +31366,7 @@ nelsons
 nelumbium
 nelumbiums
 nelumbos
+nema
 nematicides
 nematocidal
 nematocide
@@ -31421,6 +31442,7 @@ nestors
 nethermost
 netherworld
 netiquette
+netless
 netlike
 netminder
 netop
@@ -31639,6 +31661,7 @@ niobous
 nip
 nippers
 nippiness
+nippingly
 nipple
 nippled
 nippy
@@ -32363,6 +32386,7 @@ numbingly
 numbles
 numbness
 numbnesses
+numbs
 numbskull
 numeracy
 numeral
@@ -33748,6 +33772,7 @@ overclaims
 overclass
 overclasses
 overclassified
+overclassifying
 overcleaning
 overclear
 overcloud
@@ -36646,6 +36671,7 @@ plumules
 plundered
 plunderer
 plunders
+plunger
 plunges
 plunker
 plunkers
@@ -42111,6 +42137,7 @@ rockwork
 rococo
 rodding
 rode
+rodenticides
 rodents
 rodeos
 rodsmen
@@ -42252,6 +42279,7 @@ rotisseries
 rotls
 roto
 rotors
+rototill
 rototillers
 rotted
 rottweilers
@@ -42947,6 +42975,7 @@ satirize
 satirizes
 satisfaction
 satisfactions
+satisfactory
 satisfiable
 satisficed
 satisfier
@@ -43456,6 +43485,7 @@ scroungy
 scrubbily
 scrubby
 scrubwoman
+scruffinesses
 scruffy
 scrummaging
 scrunch
@@ -44231,6 +44261,7 @@ shannies
 shantey
 shantung
 shantytowns
+shapeliness
 shapeup
 shapeups
 shapewear
@@ -45428,6 +45459,7 @@ smogless
 smokehouses
 smokejacks
 smokepot
+smokestacks
 smokily
 smokinesses
 smooch
@@ -52049,6 +52081,7 @@ underloading
 underlyingly
 undermining
 undernourished
+underpaintings
 underpants
 underpart
 underparts
@@ -53489,6 +53522,7 @@ ventifact
 ventilating
 ventilatory
 venting
+ventless
 ventricular
 ventriculus
 ventriloquism
@@ -54404,6 +54438,7 @@ weatherboarded
 weatherboards
 weathercast
 weatherglass
+weatherglasses
 weatherize
 weatherly
 weathermen
