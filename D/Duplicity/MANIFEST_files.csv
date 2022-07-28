@@ -1,0 +1,10 @@
+ubuntu-22.04-desktop-amd64.manifest - Ubuntu Releases,https://releases.ubuntu.com/22.04/ubuntu-22.04-desktop-amd64.manifest
+https://cdimage.ubuntu.com/ubuntu-budgie/daily-liv...,https://cdimage.ubuntu.com/ubuntu-budgie/daily-live/20220617/kinetic-desktop-amd64.manifest
+https://mirrors.aliyun.com/oldubuntu-releases/rele...,https://mirrors.aliyun.com/oldubuntu-releases/releases/12.04.4/ubuntu-12.04-preinstalled-desktop-armhf%2Bmx5.manifest
+ftp.jaist.ac.jp/pub/Linux/ubuntu-cdimage/focal/dai...,http://ftp.jaist.ac.jp/pub/Linux/ubuntu-cdimage/focal/daily-live/current/focal-desktop-amd64%2Bintel-iot.manifest
+releases.turnkeylinux.org/turnkey-core/13.0rc-whee...,http://releases.turnkeylinux.org/turnkey-core/13.0rc-wheezy-i386/turnkey-core-13.0rc-wheezy-i386.manifest
+mirrors.dotsrc.org/turnkeylinux/metadata/turnkey-j...,http://mirrors.dotsrc.org/turnkeylinux/metadata/turnkey-joomla3/15.0-stretch-amd64/turnkey-joomla3-15.0-stretch-amd64.manifest
+https://turnkeylinux.quantum-mirror.hu/metadata/tu...,https://turnkeylinux.quantum-mirror.hu/metadata/turnkey-redmine/13.0-wheezy-amd64/turnkey-redmine-13.0-wheezy-amd64.manifest
+repo.ugm.ac.id/iso/ubuntu-mate/16.04/release/ubunt...,http://repo.ugm.ac.id/iso/ubuntu-mate/16.04/release/ubuntu-mate-16.04.1-desktop-amd64.manifest
+ubuntu-11.10-wubi-i386.manifest - xTom Open Source Software Mirror,https://mirrors.xtom.ee/ubuntu-old-releases/releases/11.10/ubuntu-11.10-wubi-i386.manifest
+ftp.uni-kl.de/pub/linux/ubuntu-dvd/ubuntukylin/dai...,http://ftp.uni-kl.de/pub/linux/ubuntu-dvd/ubuntukylin/daily-live/pending/kinetic-desktop-arm64.manifest

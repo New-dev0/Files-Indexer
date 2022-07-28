@@ -817,6 +817,7 @@ agio
 agios
 agiotage
 agiotages
+agisms
 agisted
 agitatedly
 agitating
@@ -871,6 +872,7 @@ agronomy
 agrypnia
 agrypnias
 aguacate
+agues
 ahchoo
 ahead
 ahed
@@ -2541,6 +2543,7 @@ arpens
 arpent
 arquebuses
 arracks
+arraigned
 arraignment
 arrangers
 arranges
@@ -5453,6 +5456,7 @@ boudoirs
 bouffe
 bough
 boughless
+boughpot
 bouillabaisse
 bouldered
 bouldering
@@ -6890,6 +6894,7 @@ carbureted
 carburetted
 carburetting
 carburettor
+carburises
 carburization
 carburizations
 carburize
@@ -9530,6 +9535,7 @@ concurred
 concurrent
 concurrently
 concuss
+condemn
 condemnation
 condemner
 condemning
@@ -11500,6 +11506,7 @@ cystine
 cystitis
 cystocarps
 cystocele
+cystoid
 cystolith
 cystoscopies
 cytidine
@@ -11646,6 +11653,7 @@ dampnesses
 damselfish
 damselflies
 danazols
+dance
 danceable
 dandiacal
 dandies
@@ -14676,6 +14684,7 @@ dupery
 duplexers
 duplications
 duplicator
+duplicity
 dupped
 dupping
 durablenesses
@@ -16831,6 +16840,7 @@ explication
 explications
 explicit
 explicits
+exploded
 explodes
 exploitative
 explorations
@@ -17880,6 +17890,7 @@ fishhooks
 fishily
 fishiness
 fishings
+fishline
 fishmeal
 fishmeals
 fishmonger
@@ -19369,6 +19380,7 @@ galloons
 galloper
 gallops
 galluses
+galoot
 galop
 galoshed
 galumphs
@@ -20114,6 +20126,7 @@ glissade
 glissader
 glissaders
 glissandi
+glissandos
 glisten
 glistens
 glister
@@ -21277,6 +21290,7 @@ hallelujah
 hallmark
 hallmarked
 halloa
+halloing
 halloos
 hallot
 halluces
@@ -23206,6 +23220,7 @@ ideologically
 ideologizes
 ideologizing
 ideologue
+ideologues
 ideophones
 ides
 idiom
@@ -24733,6 +24748,7 @@ interplants
 interpleaded
 interpolating
 interpolator
+interpose
 interposing
 interpretable
 interpretations
@@ -25723,6 +25739,7 @@ jut
 juts
 jutting
 juttingly
+juveniles
 juvenility
 juxtaposing
 kabab
@@ -25899,6 +25916,7 @@ keratitis
 keratitises
 keratoid
 keratoma
+keratose
 keratotic
 kerbed
 kerbing
@@ -26261,6 +26279,7 @@ krone
 kroon
 krubut
 krummholz
+krummhorn
 krummhorns
 kryolites
 kryolith
@@ -29466,6 +29485,7 @@ miliarias
 miliary
 milieu
 milieux
+militance
 militaria
 militarily
 militarised
@@ -30615,6 +30635,7 @@ mountaineer
 mountaineerings
 mountainside
 mountaintops
+mountebank
 mountebankeries
 mountebanks
 mounted
@@ -31083,6 +31104,7 @@ mythicizes
 mythiest
 mythologer
 mythological
+mythologically
 mythologize
 mythologized
 mythology
@@ -34955,6 +34977,7 @@ pastureland
 pasturelands
 pastures
 patacas
+patagia
 patagium
 patchable
 patcher
@@ -35414,6 +35437,7 @@ perennial
 perestroikas
 perfecters
 perfectible
+perfectionisms
 perfectionist
 perfectionistic
 perfectionists
@@ -35455,6 +35479,7 @@ perigyny
 perikaryal
 perilla
 perillas
+perilled
 perilling
 perilousnesses
 perilymph
@@ -35730,6 +35755,7 @@ pharmacist
 pharmacodynamic
 pharmacognosy
 pharmacokinetic
+pharmacologic
 pharmacologist
 pharmacologists
 pharmacology
@@ -36047,6 +36073,7 @@ phyton
 phytopathogen
 phytophagous
 phytoplankton
+phytoplanktonic
 phytosterol
 piaffing
 pianissimi
@@ -36794,6 +36821,7 @@ polarized
 polarizing
 polarographic
 polarography
+polaron
 polarons
 polder
 polders
@@ -38710,6 +38738,7 @@ pulled
 pullets
 pullouts
 pullover
+pulls
 pullulate
 pullulated
 pullulates
@@ -42589,6 +42618,7 @@ sacrificially
 sacrilege
 sacrilegious
 sacrosanctities
+sacrosanctity
 sacrums
 saddened
 saddhus
@@ -45320,6 +45350,7 @@ slothfully
 slothfulness
 slotted
 slotter
+slouched
 slouchers
 slouchier
 slouchiest
@@ -50190,6 +50221,7 @@ tolan
 tolanes
 tolans
 tolarjev
+tolas
 tolbutamide
 tolbutamides
 tole
@@ -51200,6 +51232,7 @@ truthless
 tryout
 trypsins
 tryptamines
+trysted
 tryster
 tsaddik
 tsades
@@ -54184,6 +54217,7 @@ walkaway
 walker
 walkingstick
 walkover
+walkup
 walkway
 walkways
 wallaby
@@ -55228,6 +55262,7 @@ wristwatches
 writ
 writer
 writerly
+writers
 writhen
 writs
 written
