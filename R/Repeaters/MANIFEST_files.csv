@@ -1,0 +1,6 @@
+https://downloads.bremen.freifunk.net/firmware/all...,https://downloads.bremen.freifunk.net/firmware/all/2019.1%2Bbremen1/sysupgrade/testing.manifest
+master - GitHub,https://github.com/stangri/openwrt-repo/blob/master/Packages.manifest
+https://downloads.openwrt.org/releases/19.07.0-rc2...,https://downloads.openwrt.org/releases/19.07.0-rc2/targets/ipq40xx/generic/packages/Packages.manifest
+https://fw.ffrn.de/images/nightly/sysupgrade/night...,https://fw.ffrn.de/images/nightly/sysupgrade/nightly.manifest
+https://fw.gluon.ffrn.de/stable/sysupgrade/experim...,https://fw.gluon.ffrn.de/stable/sysupgrade/experimental.manifest
+autoupdate.ffeu.de/euskirchen/beta-v2/sysupgrade/b...,http://autoupdate.ffeu.de/euskirchen/beta-v2/sysupgrade/beta.manifest
