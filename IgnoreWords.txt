@@ -1211,6 +1211,7 @@ also
 altar
 altarpiece
 alter
+alterabilities
 alterability
 alterants
 altercated
@@ -1636,6 +1637,7 @@ angiology
 angiosperm
 angiospermous
 angle
+angled
 angler
 anglerfish
 angleworm
@@ -2394,6 +2396,7 @@ archaeans
 archaebacteria
 archaeologies
 archaeopteryxes
+archaical
 archaically
 archaise
 archaises
@@ -2608,6 +2611,7 @@ artist
 artistes
 artistically
 artistry
+artlessly
 artlessness
 arts
 artwork
@@ -2683,6 +2687,7 @@ aspartate
 aspartates
 aspect
 aspen
+aspens
 aspergilla
 asperity
 aspers
@@ -2975,6 +2980,7 @@ attunement
 attunements
 attuning
 atween
+atwitter
 aubade
 aubades
 auberge
@@ -4427,6 +4433,7 @@ bhangs
 bharals
 bheestie
 bheesties
+bhoot
 bhut
 bhuts
 bialy
@@ -6314,6 +6321,7 @@ byres
 byrled
 byroad
 byssi
+byssuses
 bystreet
 bystreets
 byte
@@ -7616,6 +7624,7 @@ charging
 charily
 chariness
 charinesses
+charism
 charismas
 charismata
 charismatics
@@ -10438,6 +10447,7 @@ counterproposal
 counterprotest
 counterpunches
 counterpunching
+counterrallies
 counterreaction
 counterreformer
 counterreforms
@@ -10588,6 +10598,7 @@ cracklier
 crackling
 cracknel
 cracks
+cradle
 cradler
 cradlers
 cradles
@@ -13789,6 +13800,7 @@ distribute
 distributed
 distributivity
 distributor
+distributors
 districted
 distrust
 distrusted
@@ -16688,6 +16700,7 @@ exorcized
 exoskeleton
 exoskeletons
 exosphere
+exospheric
 exospore
 exoterically
 exothermicities
@@ -18814,6 +18827,7 @@ freelancer
 freelancers
 freelances
 freely
+freemartins
 freemasonry
 freemen
 freenesses
@@ -18916,6 +18930,7 @@ frizzing
 frizzle
 frizzles
 frizzlier
+frogeyed
 frogged
 froggier
 froggiest
@@ -22043,6 +22058,7 @@ hideout
 hidings
 hidrosis
 hie
+hied
 hierarchal
 hierarchical
 hierarchies
@@ -22299,6 +22315,7 @@ homeotherm
 homeotic
 homeplaces
 homeported
+homeporting
 homeroom
 homeschooler
 homeschoolers
@@ -23577,6 +23594,7 @@ impulsiveness
 impurest
 imputably
 imputatively
+impute
 imputed
 imputer
 inaccessibly
@@ -27974,6 +27992,7 @@ mafficks
 mafia
 mafiosi
 mafiosos
+maftirs
 magalogues
 magazine
 magdalene
@@ -33916,6 +33935,7 @@ overproduced
 overproduction
 overprograming
 overpromise
+overpromised
 overprotect
 overprotected
 overquick
@@ -38864,6 +38884,7 @@ pyrolyzable
 pyrolyzates
 pyrolyze
 pyrolyzers
+pyrolyzing
 pyromancy
 pyromaniac
 pyromaniacal
@@ -41749,6 +41770,7 @@ rhonchi
 rhumb
 rhumbas
 rhymer
+rhymers
 rhymester
 rhyming
 rhyolitic
@@ -44962,6 +44984,7 @@ skittishnesses
 skittles
 skiver
 skivvied
+skivvies
 sklent
 sklenting
 sklents
@@ -45481,6 +45504,7 @@ snowcapped
 snowdrift
 snowdrops
 snowfall
+snowfield
 snowlands
 snowless
 snowmobile
@@ -45696,6 +45720,7 @@ solubly
 solus
 solute
 solution
+solutions
 solvate
 solves
 solvolytic
@@ -45790,6 +45815,7 @@ sora
 sorbabilities
 sorbent
 sorbic
+sorbing
 sorbitol
 sorbitols
 sorbs
@@ -45832,6 +45858,7 @@ soteriology
 soths
 sotol
 sotols
+sottishly
 souaris
 soubrette
 soubrettes
@@ -46391,6 +46418,7 @@ sprocket
 sprouted
 sprouting
 spruce
+spruced
 sprucer
 spruces
 sprucing
@@ -48485,6 +48513,7 @@ sylvinites
 sylvites
 symbiosis
 symbolise
+symbolised
 symbolist
 symbolized
 symbolizes
@@ -49318,6 +49347,7 @@ termitary
 termite
 termly
 termtimes
+ternary
 ternate
 terne
 terneplates
@@ -51268,6 +51298,7 @@ tuxedoed
 tuxedos
 tuyer
 tuyeres
+twaddling
 twae
 twaes
 twain
@@ -51547,6 +51578,7 @@ unadulterated
 unadulteratedly
 unadventurous
 unadvised
+unadvisedly
 unaesthetic
 unaffecting
 unaffectionate
@@ -52954,6 +52986,7 @@ ureas
 uredia
 uredinia
 urediospores
+uredo
 ureter
 ureteric
 urethane
@@ -53592,6 +53625,7 @@ vilifier
 vilifiers
 villagers
 villages
+villainesses
 villainies
 villainousness
 villains
@@ -55271,6 +55305,7 @@ yodlers
 yodles
 yoga
 yoghs
+yoghurt
 yogic
 yogin
 yogini
