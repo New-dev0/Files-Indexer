@@ -1554,6 +1554,7 @@ anastrophes
 anathemas
 anathematize
 anathematized
+anathematizes
 anatomic
 anatomised
 anatomized
@@ -2269,6 +2270,7 @@ applies
 applique
 apply
 applying
+appoggiatura
 appoint
 appointing
 appointive
@@ -3902,6 +3904,7 @@ bearcats
 beardedness
 bearding
 beargrasses
+bearhug
 bearings
 bearish
 bearishly
@@ -3980,6 +3983,7 @@ bedarkening
 bedazzlement
 bedazzling
 bedboard
+bedboards
 bedbugs
 bedchair
 bedchairs
@@ -4547,6 +4551,7 @@ bilkers
 billabongs
 billboarded
 billbugs
+billeter
 billets
 billfish
 billfishes
@@ -6038,6 +6043,7 @@ buhr
 build
 builds
 buildups
+buirdly
 bulbed
 bulbuls
 bulged
@@ -6132,6 +6138,7 @@ bunters
 buntline
 buntlines
 buoyance
+buoyances
 buppies
 buppy
 buqsha
@@ -10150,6 +10157,7 @@ cordilleran
 cordites
 cordlesses
 cordons
+corduroy
 corduroyed
 cordwaineries
 cordwains
@@ -11277,6 +11285,7 @@ cursive
 cursivenesses
 cursor
 cursoriness
+cursorinesses
 cursors
 curst
 curt
@@ -13732,6 +13741,7 @@ dissaves
 disseated
 dissect
 dissecting
+dissects
 dissed
 disseise
 disseisee
@@ -14393,6 +14403,7 @@ dreidls
 dreigh
 dreks
 drenched
+drenchers
 drenches
 drenching
 dressage
@@ -15483,6 +15494,7 @@ encourage
 encouragement
 encouragements
 encouraging
+encrimsoned
 encrimsoning
 encrimsons
 encrinite
@@ -15637,6 +15649,7 @@ engraftments
 engrailing
 engram
 engramme
+engrammes
 engrammic
 engraved
 engraver
@@ -16770,6 +16783,7 @@ expelling
 expendabilities
 expendable
 expended
+expenditures
 expends
 expensed
 experientially
@@ -18965,6 +18979,7 @@ froglets
 froglike
 frogman
 frogmarch
+frogs
 frolicker
 frolickers
 fronds
@@ -21524,6 +21539,7 @@ hatchers
 hatchery
 hatchet
 hatchway
+hatefulness
 haters
 hates
 hating
@@ -21842,6 +21858,7 @@ hemicellulose
 hemicycle
 hemimorphisms
 hemiolas
+hemiolia
 hemiplegic
 hemiplegics
 hemipteran
@@ -24490,6 +24507,7 @@ integrally
 integrals
 integrate
 integrating
+integration
 integrationists
 integrators
 integuments
@@ -25261,6 +25279,7 @@ jackets
 jackfishes
 jackfruit
 jackfruits
+jackies
 jackknife
 jackknifing
 jacklegs
@@ -28365,6 +28384,7 @@ maraca
 maranatha
 maras
 maraschinos
+marasmuses
 marathoner
 marathonings
 marathons
@@ -32726,6 +32746,7 @@ oilskin
 oilskins
 oilway
 oinks
+oiticicas
 okas
 olden
 older
@@ -32805,6 +32826,7 @@ omnivorously
 omophagia
 omophagias
 omophagic
+onagers
 onanistic
 onanists
 once
@@ -34823,6 +34845,7 @@ partnered
 partnerless
 partnership
 partons
+partook
 partridge
 partridgeberry
 parts
@@ -35065,6 +35088,7 @@ peart
 pearter
 peartest
 peartness
+peartnesses
 pearwoods
 peasantries
 peascod
@@ -39771,6 +39795,7 @@ rebaptisms
 rebaptized
 rebaptizing
 rebater
+rebaters
 rebatos
 rebecks
 rebecs
@@ -39864,6 +39889,7 @@ reception
 receptivities
 receptor
 recepts
+recess
 recessionals
 recessionary
 recessively
@@ -42268,6 +42294,7 @@ roundtrip
 roundtrips
 roundup
 roundwood
+rouped
 roupet
 roupier
 roupiest
@@ -42538,6 +42565,7 @@ sacrums
 saddened
 saddhus
 saddle
+saddlebows
 saddlebred
 saddlebreds
 saddlecloths
@@ -43974,6 +44002,7 @@ sergeant
 serger
 serging
 serial
+serialization
 serialized
 serializes
 serializing
@@ -44930,6 +44959,7 @@ skaldship
 skanker
 skankier
 skanking
+skateboarding
 skater
 skatols
 skeanes
@@ -48506,6 +48536,7 @@ switchbacks
 switchboards
 switcheroo
 switcheroos
+switches
 switching
 switchyard
 swither
@@ -49019,6 +49050,7 @@ tartrated
 tartrates
 tarts
 tartuffe
+taskbars
 tasking
 taskmaster
 taskworks
@@ -50844,6 +50876,7 @@ tricksiest
 tricksiness
 trickster
 tricksy
+triclinic
 tricolette
 tricorn
 tricorne
@@ -51284,6 +51317,7 @@ turbulencies
 turbulently
 turd
 turfgrasses
+turfing
 turfless
 turfmen
 turfski
@@ -55446,6 +55480,7 @@ zamindar
 zamindaris
 zanders
 zanier
+zaniest
 zanyish
 zanzas
 zapateos
