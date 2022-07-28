@@ -2213,6 +2213,7 @@ app
 appal
 appall
 appalled
+appalling
 appallingly
 appalls
 appaloosas
@@ -2391,6 +2392,7 @@ arcadian
 arcana
 arcanums
 arced
+arch
 archaeal
 archaeans
 archaebacteria
@@ -3563,6 +3565,7 @@ bandshells
 bandwidth
 bandying
 banefully
+bang
 banging
 bangkok
 bangkoks
@@ -5137,6 +5140,7 @@ bobeches
 bobolink
 bobolinks
 bobsleigh
+bobsleighs
 bobwhites
 bocces
 boccie
@@ -8549,6 +8553,7 @@ cloaking
 cloakroom
 cloakrooms
 clobbering
+clocked
 clocker
 clocking
 clocks
@@ -10014,6 +10019,7 @@ convulsants
 convulsionary
 convulsively
 cooch
+cooed
 cooee
 cooees
 cooey
@@ -10541,6 +10547,7 @@ covertnesses
 coverup
 coves
 covetable
+coveter
 covins
 cow
 cowardliness
@@ -13300,6 +13307,7 @@ dirham
 dirigisme
 dirigismes
 diriment
+dirl
 dirling
 dirls
 dirndl
@@ -14477,6 +14485,7 @@ drouthiest
 drouthy
 drown
 drownding
+drownds
 drowners
 drowns
 drowses
@@ -17076,6 +17085,7 @@ fain
 faineance
 faineants
 faint
+fainter
 faintest
 faintish
 faintly
@@ -18876,6 +18886,7 @@ frenums
 frenzies
 frenzying
 frequentation
+frequentative
 frequently
 freres
 frescoed
@@ -21820,6 +21831,7 @@ hematopoietic
 hematoses
 hematoxylin
 hematoxylins
+hematozoon
 hematuric
 hemelytron
 hemelytrum
@@ -22090,6 +22102,7 @@ highballs
 highbrows
 highchair
 highchairs
+highfalutin
 highflier
 highflyers
 highjack
@@ -23436,6 +23449,7 @@ impawns
 impeach
 impeachable
 impeachers
+impeaching
 impeccabilities
 impeccably
 impeccant
@@ -25590,6 +25604,7 @@ judgmatical
 judgment
 judicable
 judicatories
+judicature
 judicial
 judicially
 judicious
@@ -28056,6 +28071,7 @@ mahjongs
 mahlstick
 mahoganies
 mahogany
+mahouts
 mahzors
 maiden
 maidenheads
@@ -28242,6 +28258,7 @@ mange
 mangels
 mangier
 manginess
+manginesses
 mangled
 mangler
 mango
@@ -28282,6 +28299,7 @@ manipulators
 manipulatory
 manito
 manitus
+manless
 manlike
 manly
 manna
@@ -28574,6 +28592,7 @@ matriculation
 matrilineally
 matrimonies
 matrimony
+matronized
 matronizes
 matrons
 matsah
@@ -29023,6 +29042,7 @@ mesh
 meshiest
 meshing
 meshugah
+meshugga
 mesically
 mesmerise
 mesmerisms
@@ -30664,6 +30684,7 @@ mufti
 muftis
 mugfuls
 mugged
+muggee
 muggiest
 mugging
 muggurs
@@ -31247,6 +31268,7 @@ necromancy
 necromantic
 necrophilia
 necrophiliacs
+necrophilic
 necropoleis
 necrose
 necrosed
@@ -38628,6 +38650,7 @@ pula
 pulchritudinous
 pule
 puler
+pules
 pulicide
 pulis
 pull
@@ -39471,6 +39494,7 @@ raptured
 raptures
 rapturousnesses
 rare
+rarefaction
 rarefactions
 rarefier
 rarefies
@@ -42800,6 +42824,7 @@ saphenae
 sapid
 sapiencies
 sapiency
+sapless
 saplessnesses
 sapodilla
 saponaceousness
@@ -42979,6 +43004,7 @@ sawlogs
 sawn
 sawney
 sawteeth
+sawyers
 saxes
 saxhorn
 saxhorns
@@ -43287,6 +43313,7 @@ scour
 scoured
 scourer
 scourges
+scourging
 scouring
 scourings
 scours
@@ -44641,6 +44668,7 @@ sideshows
 sideslipping
 sideslips
 sidestepped
+sidesteps
 sidestrokes
 sideswiping
 sidetrack
@@ -45078,6 +45106,7 @@ slapdashes
 slaphappier
 slapper
 slapping
+slashers
 slashings
 slatches
 slate
@@ -45859,6 +45888,7 @@ sorghums
 soricine
 sorned
 sorners
+soroches
 sororally
 sorority
 soroses
@@ -50088,6 +50118,7 @@ tokamak
 tokamaks
 toked
 token
+tokened
 tokers
 toking
 tokonoma
@@ -52231,6 +52262,7 @@ unhatched
 unhealthiest
 unhealthinesses
 unhelms
+unhelped
 unheralded
 unheroic
 unhesitatingly
@@ -52692,6 +52724,7 @@ unstabler
 unstamped
 unstarred
 unstartling
+unstate
 unstated
 unsteadier
 unsteadily
@@ -53557,6 +53590,7 @@ vetoes
 vets
 vetting
 vexatious
+vexatiously
 vexatiousness
 vexed
 vexedness
@@ -55389,6 +55423,7 @@ yules
 yum
 yummiest
 yupon
+yuppiedom
 yuppiedoms
 yuppieish
 yuppies
