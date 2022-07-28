@@ -2521,6 +2521,7 @@ armouring
 armours
 armrest
 armrests
+armsful
 arnicas
 aroid
 aroids
@@ -4380,6 +4381,7 @@ bestrewed
 bestrews
 bestrid
 bestrides
+bestrowed
 bestudding
 bestuds
 beswarmed
@@ -5121,6 +5123,7 @@ blushingly
 blustered
 blustery
 bo
+board
 boarder
 boardinghouses
 boardlike
@@ -5482,6 +5485,7 @@ bountied
 bounties
 bourg
 bourgeois
+bourgeoise
 bourgeon
 bourgeoned
 bourgs
@@ -5651,6 +5655,7 @@ braving
 bravo
 bravoes
 bravoing
+bravuras
 bravure
 brawlier
 brawling
@@ -6340,6 +6345,7 @@ byproduct
 byres
 byrled
 byroad
+byssal
 byssi
 byssuses
 bystreet
@@ -8237,6 +8243,7 @@ cilia
 ciliary
 ciliately
 ciliation
+cilium
 cimbalom
 cinched
 cinchona
@@ -10473,6 +10480,7 @@ counterpoises
 counterpoising
 counterpose
 counterposed
+counterposes
 counterpowers
 counterproject
 counterprojects
@@ -11165,6 +11173,7 @@ cull
 cullay
 cullenders
 cullers
+cullets
 cullied
 cullions
 cullises
@@ -12299,6 +12308,7 @@ deles
 deletion
 delf
 delft
+delftware
 deliberateness
 deliberations
 deliberative
@@ -12692,6 +12702,7 @@ desensitizes
 desensitizing
 deserter
 deserters
+desertic
 deserts
 deservedly
 deservings
@@ -18687,6 +18698,7 @@ formulaically
 formularized
 formularizer
 formularizes
+formulary
 formulated
 formulates
 formulator
@@ -20358,6 +20370,7 @@ gonadial
 gonadotropins
 gondola
 gone
+gonenesses
 goner
 gonfalon
 gonfalons
@@ -20644,6 +20657,7 @@ gravimeters
 gravimetrically
 gravimetry
 gravitas
+gravitate
 gravitation
 gravitations
 gravitinos
@@ -21249,6 +21263,7 @@ hairs
 hairsplitting
 hairsplittings
 hairsprays
+hairstyling
 hairwork
 hajis
 hajj
@@ -22817,6 +22832,7 @@ humpbacks
 humped
 humper
 humph
+humpiness
 humpless
 humungous
 humvees
@@ -24363,6 +24379,7 @@ inns
 innuendo
 innumerable
 innumeracies
+innumeracy
 innumerate
 inoculation
 inoculum
@@ -24713,6 +24730,7 @@ intermitotic
 intermits
 intermixes
 intermixtures
+intermodal
 intermodulation
 intermolecular
 intermountain
@@ -25511,6 +25529,7 @@ jewelries
 jewfish
 jezail
 jezails
+jezebels
 jiao
 jib
 jibbed
@@ -26678,6 +26697,7 @@ latria
 latte
 lattens
 latter
+lattin
 latu
 lauan
 lauans
@@ -27489,6 +27509,7 @@ lob
 lobar
 lobate
 lobbed
+lobber
 lobby
 lobbyism
 lobefins
@@ -27984,6 +28005,7 @@ lysogen
 lysogenicities
 lysogenies
 lysogenise
+lysogenizations
 lysogenizing
 lysolecithin
 lysosomal
@@ -31407,6 +31429,7 @@ neoliths
 neologies
 neologist
 neologists
+neologizing
 neomorphs
 neomycins
 neonatologies
@@ -31875,6 +31898,7 @@ nonconcurrence
 nonconcurrences
 nonconcurs
 noncondensable
+nonconditioned
 nonconfidence
 nonconfidential
 nonconform
@@ -32350,6 +32374,7 @@ nozzles
 nth
 nuance
 nuanced
+nuances
 nubbier
 nubbiest
 nubbiness
@@ -32357,6 +32382,7 @@ nubble
 nubbles
 nubbly
 nubby
+nubility
 nubilous
 nucelli
 nuchal
@@ -39965,6 +39991,7 @@ recheats
 rechecked
 rechoosing
 rechose
+rechosen
 recidivist
 recipe
 reciprocal
@@ -42750,6 +42777,7 @@ salmonberry
 salmonellae
 salmonellosis
 salmonoid
+salol
 salols
 salon
 salons
@@ -43155,6 +43183,7 @@ scandal
 scandaling
 scandalise
 scandalising
+scandalize
 scandalizing
 scandalled
 scandalmonger
@@ -44565,6 +44594,7 @@ shoppe
 shoppers
 shopping
 shoptalk
+shoptalks
 shopwindows
 shopworn
 shoran
@@ -44934,6 +44964,7 @@ singletons
 sings
 singularities
 sinh
+sinhs
 sinicize
 sink
 sinkers
@@ -48147,6 +48178,7 @@ superbomber
 superbombers
 superbombs
 superbright
+superbureaucrat
 supercabinets
 supercargoes
 supercars
@@ -48496,6 +48528,7 @@ swapped
 swappers
 swarajism
 swarajists
+sware
 swarmer
 swarth
 swarthinesses
@@ -49519,6 +49552,7 @@ terrapin
 terrarium
 terrazzo
 terrella
+terrenes
 terriers
 terrific
 terrifies
@@ -51191,6 +51225,7 @@ truculently
 true
 trueblues
 trueloves
+truenesses
 trues
 trug
 truism
