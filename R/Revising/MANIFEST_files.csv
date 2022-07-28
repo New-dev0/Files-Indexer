@@ -1,0 +1,11 @@
+toolkit/components/search/toolkitsearch.manifest ... - mozilla-central,https://hg.mozilla.org/mozilla-central/file/tip/toolkit/components/search/toolkitsearch.manifest
+services/settings/servicesSettings.manifest ... - mozilla-central,https://hg.mozilla.org/mozilla-central/file/tip/services/settings/servicesSettings.manifest
+appshield/.manifest at master - GitHub,https://github.com/aquasecurity/appshield/blob/master/.manifest
+middleware-offline/trunk/_src/eidmw/CSP/x64/Release ... - SVN.GOV,https://svn.gov.pt/projects/ccidadao/log/middleware-offline/trunk/_src/eidmw/CSP/x64/Release/pteid35CSPlib.dll.intermediate.manifest%3Frev%3D5
+middleware-offline/trunk/_src/eidmw/eidgui/pteidgui.exe.manifest (log),https://svn.gov.pt/projects/ccidadao/log/middleware-offline/trunk/_src/eidmw/eidgui/pteidgui.exe.manifest%3Frev%3D271
+comtest.manifest in proto/vesa/trunk - JYU Trac Help,https://trac.cc.jyu.fi/projects/comtest/browser/proto/vesa/trunk/comtest.manifest%3Frev%3D348%26desc%3D1
+Software/Client/app.manifest - Annotate - Energy Management System,https://www.enziin.org/projects/energy-management/repository/15/annotate/Software/Client/app.manifest
+antitracking.manifest - mozsearch - Searchfox,https://searchfox.org/mozilla-central/source/toolkit/components/antitracking/antitracking.manifest
+Packages.manifest - OpenWrt Downloads,https://downloads.openwrt.org/releases/21.02-SNAPSHOT/targets/ath79/mikrotik/packages/Packages.manifest
+downloads.pangubox.com:6380/pandorabox/19.01/packa...,http://downloads.pangubox.com:6380/pandorabox/19.01/packages/mipsel_1004kc_dsp/packages/Packages.manifest
+chrome.manifest in seguridad/safet/libsafet-xpcom/firmaweb/trunk,https://seguridad.cenditel.gob.ve/safet/browser/seguridad/safet/libsafet-xpcom/firmaweb/trunk/chrome.manifest%3Frev%3D1532

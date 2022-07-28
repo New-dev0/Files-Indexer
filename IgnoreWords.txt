@@ -425,6 +425,7 @@ acutest
 acyclovir
 acylate
 acylated
+acyloin
 ad
 adagio
 adagios
@@ -1125,6 +1126,7 @@ alligator
 alligators
 alliterates
 alliterating
+alliteratively
 allobar
 allocates
 allocation
@@ -2776,6 +2778,7 @@ assignat
 assignee
 assigning
 assignors
+assimilability
 assimilationism
 assimilator
 assimilatory
@@ -4528,6 +4531,7 @@ biffins
 bifid
 biflagellate
 bifocaled
+bifocals
 bifoliate
 biformed
 bifunctional
@@ -6485,6 +6489,7 @@ caique
 cairds
 caissons
 cajeput
+cajoled
 cajoleries
 cajoles
 cajones
@@ -7236,6 +7241,7 @@ categorize
 catenae
 catenaries
 catenates
+catenoids
 cater
 catercorner
 caterer
@@ -7694,6 +7700,7 @@ chark
 charked
 charks
 charladies
+charlady
 charlatanry
 charlatans
 charley
@@ -8102,6 +8109,7 @@ chondrocraniums
 chondroma
 chook
 chooks
+choosey
 choosier
 choosiest
 choosing
@@ -10267,6 +10275,7 @@ cornetist
 cornettists
 cornfield
 cornhusk
+corniced
 cornify
 cornifying
 cornily
@@ -10901,6 +10910,7 @@ criminalities
 criminalization
 criminalize
 criminalized
+criminated
 criminates
 criminating
 criminis
@@ -14416,6 +14426,7 @@ draggy
 dragline
 dragnet
 dragonheads
+dragooned
 dragoons
 dragrope
 dragstrip
@@ -16744,6 +16755,7 @@ exed
 exedra
 exegetic
 exegetics
+exegetists
 exemplar
 exemplarinesses
 exemplary
@@ -16817,6 +16829,7 @@ exodoi
 exodontias
 exoduses
 exoenzyme
+exogamous
 exogen
 exogens
 exon
@@ -18652,6 +18665,7 @@ foreign
 foreignisms
 forejudge
 forejudges
+foreknow
 foreknows
 forelady
 forelimb
@@ -19727,6 +19741,7 @@ gazpachos
 gear
 gearcase
 gearcases
+geared
 gearless
 gearshifts
 gecko
@@ -21563,6 +21578,7 @@ hardboots
 hardcores
 hardcourt
 hardeners
+hardhack
 hardhacks
 hardhat
 hardhead
@@ -23515,6 +23531,7 @@ immitigable
 immitigably
 immittance
 immittances
+immixed
 immixture
 immobile
 immobilisms
@@ -24330,6 +24347,7 @@ infraspecific
 infrequences
 infrequencies
 infrequent
+infringe
 infringed
 infringement
 infringers
@@ -26118,6 +26136,7 @@ kibbehs
 kibbi
 kibbis
 kibbitz
+kibbitzer
 kibbitzing
 kibbutz
 kibbutzim
@@ -28701,6 +28720,7 @@ masklike
 masochistically
 masochists
 masoned
+masonites
 masquerading
 mass
 massa
@@ -33064,6 +33084,7 @@ ontologically
 ontologies
 ontologists
 onus
+onuses
 onward
 onyx
 onyxes
@@ -35749,6 +35770,7 @@ persalts
 persecute
 persecutees
 persecuting
+persecution
 persecutive
 persecutors
 persecutory
@@ -35822,6 +35844,7 @@ pessaries
 pessary
 pessimisms
 pessimistic
+pessimistically
 pest
 pester
 pesterer
@@ -36815,6 +36838,7 @@ pleurae
 pleuras
 pleuron
 pleuropneumonia
+plews
 plex
 plexus
 plexuses
@@ -38372,6 +38396,7 @@ profits
 profitwise
 profligacies
 profligate
+profligately
 profound
 profoundly
 profuseness
@@ -38521,6 +38546,7 @@ propine
 propinquities
 propitiate
 propitiated
+propitiating
 propitiators
 propitiously
 propitiousness
@@ -41864,6 +41890,7 @@ retroviral
 retrying
 retuning
 returnable
+returns
 retuse
 retwist
 retyped
@@ -41963,6 +41990,7 @@ reviling
 revisable
 revisals
 reviser
+revising
 revisionist
 revisions
 revisit
@@ -42630,6 +42658,7 @@ rucks
 ruckus
 ruction
 ructions
+rudbeckia
 rudder
 rudderpost
 ruddled
@@ -43229,6 +43258,7 @@ saturates
 saturations
 saturator
 saturators
+saturnalianly
 saturniid
 saturniids
 saturnine
@@ -43702,6 +43732,7 @@ scrofulas
 scrofulous
 scroggy
 scrolled
+scrolls
 scrollworks
 scrooch
 scrooched
@@ -45819,6 +45850,7 @@ sniffy
 snigger
 sniggers
 sniggle
+sniggled
 sniggler
 sniper
 snippet
@@ -46377,6 +46409,7 @@ spavin
 spavins
 spawners
 spawning
+spawns
 speakable
 speakeasies
 speakers
@@ -49720,6 +49753,7 @@ teratogenicity
 teratogens
 teratologist
 teratomas
+teratomata
 terbium
 terbiums
 tercentenaries
@@ -52717,6 +52751,7 @@ universalize
 universalizing
 universally
 universalness
+universities
 univocals
 unjam
 unjamming
