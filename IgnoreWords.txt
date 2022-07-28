@@ -5202,6 +5202,7 @@ boffola
 boffos
 bog
 bogart
+bogey
 bogeyman
 boggier
 boggiest
@@ -6150,6 +6151,7 @@ bungle
 bunglers
 bunk
 bunkers
+bunkhouse
 bunkmate
 bunkoed
 bunkums
@@ -8716,6 +8718,7 @@ coagulants
 coagulase
 coagulate
 coalas
+coalescences
 coalescing
 coaliest
 coalified
@@ -8951,6 +8954,7 @@ coffs
 cofinanced
 cofounder
 cofounders
+cofounding
 cofounds
 cogged
 cogitable
@@ -12722,6 +12726,7 @@ deserters
 desertic
 deserts
 deservedly
+deserving
 deservings
 desexed
 desexualization
@@ -14932,6 +14937,7 @@ echinacea
 echinate
 echini
 echinoderm
+echinodermatous
 echinoderms
 echinus
 echoic
@@ -17378,6 +17384,7 @@ fauces
 faucet
 faucial
 fault
+faulted
 faultfinders
 faultfinding
 faultlessnesses
@@ -17514,6 +17521,7 @@ feminazi
 feminines
 feminism
 feministic
+feminities
 feminity
 feminizations
 femtosecond
@@ -22257,6 +22265,7 @@ hips
 hirable
 hircine
 hireable
+hires
 hirselled
 hirsels
 hirsute
@@ -24954,6 +24963,7 @@ introspect
 introspections
 introverts
 intruders
+intrudes
 intruding
 intrusively
 intrusting
@@ -25494,6 +25504,7 @@ jazzmen
 jazzy
 jealousness
 jealousy
+jee
 jeer
 jeerers
 jeers
@@ -29172,6 +29183,7 @@ mesocarp
 mesocarps
 mesocyclones
 mesodermal
+mesomeres
 mesomorph
 mesomorphy
 mesons
@@ -31832,6 +31844,7 @@ nomenclator
 nomenclatorial
 nominal
 nominalists
+nominals
 nominating
 nomination
 nominations
@@ -32661,6 +32674,7 @@ obstructionism
 obstructionisms
 obstructionists
 obstructions
+obstructive
 obstructs
 obstruent
 obtainability
@@ -35175,6 +35189,7 @@ peacemaking
 peached
 peacher
 peachers
+peaches
 peachy
 peacock
 peacockiest
@@ -35958,6 +35973,7 @@ phonotype
 phons
 phony
 phorate
+phoronid
 phoronids
 phosgene
 phosphatase
@@ -37936,6 +37952,7 @@ pressruns
 pressureless
 pressurised
 pressurization
+prester
 presterilizes
 prestidigitator
 prestige
@@ -39368,6 +39385,7 @@ rabbinical
 rabbins
 rabbitbrush
 rabbiting
+rabbled
 rabblement
 rabbles
 rabbonis
@@ -42657,6 +42675,7 @@ sabe
 sabermetrician
 sabin
 sabot
+sabotage
 saboteur
 saboteurs
 sabras
@@ -44134,6 +44153,7 @@ serenenesses
 serenes
 serenest
 serest
+serf
 serflike
 serge
 sergeancy
@@ -44253,6 +44273,7 @@ sewings
 sex
 sexagenarians
 sexes
+sexiest
 sexily
 sexinesses
 sexist
@@ -44443,6 +44464,7 @@ sheesh
 sheeter
 sheeting
 sheetings
+sheetless
 sheetlike
 sheetrock
 sheetrocks
@@ -46246,6 +46268,7 @@ speaking
 speakings
 speaned
 speaning
+speared
 spearfish
 spearheading
 spearmen
@@ -46994,6 +47017,7 @@ steatopygias
 steatorrhea
 steeked
 steelhead
+steelheads
 steelie
 steelier
 steelies
@@ -48673,6 +48697,7 @@ swingling
 swingy
 swinish
 swinneys
+swiple
 swiples
 swipple
 swipples
@@ -49191,6 +49216,7 @@ tarrying
 tarsals
 tarsia
 tarsometatarsus
+tartanas
 tartar
 tartarous
 tartest
@@ -51898,6 +51924,7 @@ unbaled
 unbales
 unbaling
 unballasted
+unbarbed
 unbarred
 unbasted
 unbated
@@ -52308,6 +52335,7 @@ undo
 undock
 undocking
 undocks
+undoctored
 undoer
 undoers
 undogmatic
@@ -52717,6 +52745,7 @@ unpliable
 unpliant
 unplowed
 unpointed
+unpoliced
 unpopularities
 unpotted
 unprecedented
@@ -53854,6 +53883,7 @@ victorias
 victoriously
 victors
 victualed
+victualling
 vicunas
 vid
 vide
@@ -54484,6 +54514,7 @@ watercress
 waterdog
 waterdogs
 waterers
+waterfall
 waterfalls
 waterflooded
 waterfowlers
@@ -54820,6 +54851,7 @@ whitecomb
 whitefishes
 whiteflies
 whiteners
+whitening
 whitens
 whiteouts
 whitewall
@@ -55451,6 +55483,7 @@ xylol
 xylophage
 xylophones
 xylophonist
+xyloses
 xylyls
 xystoi
 yabbie
@@ -55681,6 +55714,7 @@ zebec
 zebrafishes
 zebrano
 zebras
+zebrasses
 zebrawood
 zebrine
 zebroid
@@ -55749,6 +55783,7 @@ zocalos
 zodiacal
 zoeae
 zoecia
+zoisite
 zombielike
 zombification
 zombifications
