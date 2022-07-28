@@ -994,6 +994,7 @@ alehouses
 alencons
 alertnesses
 ales
+aleuron
 alewives
 alexandrine
 alexandrites
@@ -1175,6 +1176,7 @@ almuds
 almug
 alnicos
 alodia
+alodial
 alodium
 aloe
 aloft
@@ -2742,6 +2744,7 @@ assimilationism
 assimilator
 assimilatory
 assistances
+assistant
 assister
 assistive
 assists
@@ -4274,6 +4277,7 @@ bergamots
 berhyme
 berhymes
 beriberi
+beriberis
 berimes
 berkelium
 berks
@@ -5270,6 +5274,7 @@ bonspell
 bonspells
 bonteboks
 bonuses
+bony
 boob
 boobie
 boobird
@@ -7656,6 +7661,7 @@ chatchke
 chateaubriand
 chatelaine
 chatelains
+chatrooms
 chats
 chatted
 chatter
@@ -7904,6 +7910,7 @@ chips
 chiralities
 chirality
 chirkest
+chirographers
 chirographic
 chiromancers
 chiromancies
@@ -9164,6 +9171,7 @@ combusting
 combustor
 combusts
 comeback
+comedic
 comedically
 comediennes
 comedies
@@ -10608,6 +10616,7 @@ craniometry
 craniosacral
 craniotomy
 crank
+crankcase
 crankcases
 cranker
 crankiest
@@ -12410,6 +12419,7 @@ dentalities
 dentality
 dentalium
 dentaliums
+dentally
 dentation
 dentations
 denticulations
@@ -15275,6 +15285,7 @@ emendators
 emender
 emends
 emerald
+emergency
 emerita
 emeriti
 emersed
@@ -15597,6 +15608,7 @@ enisle
 enisling
 enjoinder
 enjoinders
+enjoins
 enjoyed
 enkephalin
 enkindled
@@ -15759,6 +15771,7 @@ entrainment
 entrance
 entrancements
 entranceways
+entrants
 entrapment
 entrappers
 entrapping
@@ -16712,6 +16725,7 @@ experimented
 experiments
 experted
 expertism
+expertize
 expertizes
 expertizing
 expertness
@@ -18860,6 +18874,7 @@ frillers
 frillier
 fringing
 frisbees
+frisees
 friseur
 friskers
 frisks
@@ -23164,6 +23179,7 @@ illogicalities
 illogicality
 illogicalness
 illogics
+illude
 illuded
 illuminances
 illuminati
@@ -23899,6 +23915,7 @@ indued
 indulge
 indulgers
 indults
+induration
 indurations
 indurative
 indusial
@@ -28510,6 +28527,7 @@ mauler
 maulsticks
 maumet
 maun
+maund
 maunderers
 maunders
 maundy
@@ -29131,6 +29149,7 @@ microbial
 microbic
 microbiological
 microbreweries
+microbrewery
 microbrews
 microburst
 microbus
@@ -29913,6 +29932,7 @@ mixedly
 mixible
 mixup
 mizen
+mizenmast
 mizuna
 mizunas
 mizzenmasts
@@ -30088,6 +30108,7 @@ mongrel
 mongrelize
 mongrelly
 mongst
+monicker
 moniliform
 monishes
 monishing
@@ -32947,6 +32968,7 @@ origamis
 originalities
 originator
 orinasals
+oriole
 orioles
 orismological
 orismology
@@ -35046,6 +35068,7 @@ pellagrins
 pellagrous
 pelletal
 pelleted
+pelletizations
 pelletize
 pelletized
 pelletizer
@@ -35290,6 +35313,7 @@ periodizations
 periodontology
 perionychium
 periosteal
+periostitis
 periotic
 peripeteia
 peripetia
@@ -35389,6 +35413,7 @@ personableness
 personalities
 personalizes
 personally
+personalties
 personalty
 personas
 personated
@@ -39038,6 +39063,7 @@ quire
 quires
 quirkiest
 quirky
+quirted
 quislingism
 quislingisms
 quitch
@@ -39384,6 +39410,7 @@ rateably
 ratels
 ratepayer
 ratfinks
+ratfish
 rathe
 rather
 ratholes
@@ -42333,6 +42360,7 @@ ruts
 rutted
 ruttier
 ruttiness
+ruttishly
 rutty
 rye
 ryegrass
@@ -43259,6 +43287,7 @@ scrooch
 scrooched
 scrooches
 scrooching
+scrooge
 scrooges
 scroop
 scroops
@@ -43406,6 +43435,7 @@ seborrhea
 seborrheas
 seborrheic
 sebums
+secalose
 secaloses
 secantly
 secateur
@@ -43488,6 +43518,7 @@ seedier
 seedily
 seedless
 seedlings
+seedpod
 seedstock
 seedtime
 seedy
@@ -47657,6 +47688,7 @@ succuba
 succubi
 succulent
 such
+suchlike
 sucker
 suckfishes
 suckiest
@@ -49605,6 +49637,7 @@ through
 throughither
 throughly
 throughputs
+throwaway
 thrown
 thrummer
 thrummiest
@@ -53942,6 +53975,7 @@ wane
 wangans
 wangled
 wangler
+wangun
 wanguns
 wanigan
 wanion
@@ -54569,6 +54603,7 @@ winchers
 winching
 windages
 windblast
+windburning
 windburnt
 windchill
 windchills
