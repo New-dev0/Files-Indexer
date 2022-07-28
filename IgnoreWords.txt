@@ -869,6 +869,7 @@ agronomy
 agrypnia
 agrypnias
 aguacate
+ahchoo
 ahead
 ahed
 ahem
@@ -883,6 +884,7 @@ aiglet
 aiglets
 aigrette
 ailanthus
+ailurophobe
 aiming
 ain
 aiolis
@@ -1161,6 +1163,7 @@ almagest
 almanac
 almandines
 almandite
+almandites
 alme
 almeh
 almemar
@@ -2292,6 +2295,7 @@ approbates
 appropriated
 appropriately
 appropriations
+approves
 approximate
 approximated
 approximation
@@ -3738,6 +3742,7 @@ basinfuls
 basing
 basions
 bask
+basked
 basketful
 basketwork
 basketworks
@@ -11246,6 +11251,7 @@ curtailments
 curtains
 curtalax
 curtalaxes
+curtals
 curter
 curtesies
 curtest
@@ -12260,6 +12266,7 @@ delirium
 deliriums
 deliverable
 deliverance
+delivered
 deliverer
 deliverers
 deliveryman
@@ -13565,6 +13572,7 @@ diskette
 dislikable
 dislikeable
 disliked
+dislimned
 dislocate
 dislocating
 dislocations
@@ -16454,6 +16462,7 @@ evulsions
 ewe
 ewes
 exactable
+exacter
 exacters
 exactest
 exactions
@@ -17015,6 +17024,7 @@ faecal
 faeries
 faery
 fagged
+fagging
 faggoting
 faggotry
 faggots
@@ -17608,6 +17618,7 @@ filariae
 filarian
 filariases
 filariasis
+filbert
 filch
 filched
 filches
@@ -21120,6 +21131,7 @@ hah
 hahnium
 hahniums
 haik
+haiku
 hail
 hails
 hailstorm
@@ -23214,6 +23226,7 @@ imaginary
 imagination
 imaginativeness
 imaginer
+imagism
 imamates
 imbalm
 imbarking
@@ -23975,6 +23988,7 @@ inexorableness
 inexpedience
 inexpediently
 inexpensive
+inexpertly
 inexperts
 inexpiably
 inexplainable
@@ -24274,6 +24288,7 @@ insculp
 insculped
 insculping
 inseams
+insectaries
 insectile
 insectivore
 insecurely
@@ -24487,6 +24502,7 @@ interdigitate
 interdigitating
 interdigitation
 interelectrode
+interelectron
 interepidemic
 interesting
 interethnic
@@ -25495,6 +25511,7 @@ joylessness
 joylessnesses
 joyous
 joypopping
+joypops
 joyridden
 joyride
 joyriders
@@ -28262,6 +28279,7 @@ many
 manyfold
 manyplies
 maplelike
+maplike
 mappers
 maps
 mara
@@ -29308,6 +29326,7 @@ mikados
 miked
 mikvos
 mil
+miladi
 miladis
 milady
 milages
@@ -31043,6 +31062,7 @@ narcoleptic
 narcoma
 narcos
 narcotically
+narcotizing
 narcs
 nargileh
 nargilehs
@@ -31736,6 +31756,7 @@ noncreativity
 noncredit
 noncritical
 noncrossover
+noncrushable
 noncultivation
 noncustodial
 nondancer
@@ -32294,6 +32315,7 @@ nutritionist
 nutritively
 nutritives
 nuts
+nutsier
 nutters
 nuttiest
 nutting
@@ -33622,6 +33644,7 @@ overclasses
 overclassified
 overcleaning
 overclear
+overcloud
 overclouds
 overcold
 overcoloring
@@ -34627,6 +34650,7 @@ parfocalized
 parfocalizing
 pargets
 pargetted
+pargylines
 parians
 parishioners
 park
@@ -41900,6 +41924,7 @@ rivers
 riverweeds
 rivet
 riveted
+riveter
 riveting
 rivetted
 rivieras
@@ -42780,6 +42805,7 @@ saskatoons
 sassaby
 sassafrases
 sassinesses
+sassywood
 satangs
 satanically
 satanists
@@ -44271,6 +44297,7 @@ shipwrecked
 shipwright
 shires
 shirk
+shirked
 shirking
 shirrings
 shirtdress
@@ -44912,6 +44939,7 @@ sklent
 sklenting
 sklents
 skoals
+skreighed
 skulk
 skulked
 skulkers
@@ -45557,6 +45585,7 @@ soil
 soiling
 soilless
 soilures
+soiree
 sojourners
 sojourns
 sokol
@@ -47729,6 +47758,7 @@ suffocated
 suffocates
 suffocation
 suffocations
+suffrage
 suffrages
 suffragist
 suffuse
@@ -48892,6 +48922,7 @@ tats
 tatsois
 tatter
 tatterdemalions
+tattersall
 tattie
 tattiness
 tattle
@@ -49973,6 +50004,7 @@ toking
 tokonoma
 tolan
 tolanes
+tolans
 tolarjev
 tolbutamide
 tolbutamides
@@ -53340,6 +53372,7 @@ verifiers
 verily
 verisimilarly
 verists
+veritableness
 veritablenesses
 verite
 verity
@@ -54886,6 +54919,7 @@ workmanship
 workpiece
 workpieces
 workplace
+worksheet
 worktables
 workup
 workweek
@@ -55180,6 +55214,7 @@ yids
 yieldable
 yielder
 yielding
+yields
 yikes
 yipes
 yippee
