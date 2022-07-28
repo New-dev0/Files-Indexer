@@ -405,6 +405,7 @@ actualities
 actualization
 actualizations
 actualize
+actualizes
 actually
 actuarial
 actuary
@@ -1966,6 +1967,7 @@ antimycins
 antinarrative
 antinationalist
 antinepotism
+antineutron
 antineutrons
 antinodal
 antinodes
@@ -4789,6 +4791,7 @@ biserrate
 bises
 bisexually
 bishoprics
+bisks
 bisnaga
 bister
 bistered
@@ -5383,6 +5386,7 @@ boon
 boondoggler
 boondoggling
 boonless
+boons
 boor
 boorish
 boorishness
@@ -8393,6 +8397,7 @@ citronellol
 citronellols
 citrons
 cittern
+city
 cityscapes
 cityward
 civets
@@ -9249,6 +9254,7 @@ comaking
 comal
 comanaged
 comanagements
+combat
 combatant
 combatants
 combative
@@ -10135,6 +10141,7 @@ coordinating
 coordinators
 coots
 coparcenaries
+coparents
 copartner
 copartnering
 copartners
@@ -10406,6 +10413,7 @@ cosmetic
 cosmetician
 cosmeticize
 cosmical
+cosmochemical
 cosmochemist
 cosmogonic
 cosmographical
@@ -11893,6 +11901,7 @@ dearie
 dearies
 dearth
 dearths
+deashing
 deasil
 deathbed
 deathlessness
@@ -15256,6 +15265,7 @@ electrogram
 electrograms
 electroless
 electrology
+electrolyses
 electrolytes
 electrolytic
 electrolyzed
@@ -15717,6 +15727,7 @@ enfacing
 enfeeblements
 enfeebles
 enfeoffing
+enfettered
 enfever
 enfiladed
 enflamed
@@ -16465,6 +16476,7 @@ ethyne
 ethynyls
 etiolating
 etiolations
+etiologic
 etiologically
 etiologies
 etiquette
@@ -17745,6 +17757,7 @@ fictional
 fictionalised
 fictionalities
 fictionality
+fictionally
 fictionist
 fictionization
 fictionizations
@@ -20103,6 +20116,7 @@ girns
 girolles
 girt
 girted
+gismo
 gismos
 gists
 gite
@@ -20257,6 +20271,7 @@ globefish
 globelike
 globoid
 globose
+glochidium
 gloggs
 glom
 glomerules
@@ -20816,6 +20831,7 @@ greensand
 greenshanks
 greensick
 greensickness
+greenstuff
 greenstuffs
 greensward
 greenths
@@ -21067,6 +21083,7 @@ guayule
 guayules
 gudgeoned
 gudgeoning
+guerdon
 guerdoned
 guerdons
 gueridon
@@ -21222,6 +21239,7 @@ gymnast
 gymnastic
 gymnastically
 gymnasts
+gynaecea
 gynaecia
 gynaecium
 gynaecologies
@@ -22153,6 +22171,7 @@ hes
 hesitance
 hesitaters
 hesitator
+hesitators
 hessonite
 hessonites
 hetaeric
@@ -25855,6 +25874,7 @@ juniorate
 juniorates
 juniorities
 juniority
+juniors
 junk
 junkers
 junketeer
@@ -28814,6 +28834,7 @@ matsah
 matsutakes
 matt
 matte
+mattered
 matters
 mattery
 mattin
@@ -29278,6 +29299,7 @@ mesomorphy
 mesons
 mesophyllic
 mesoscale
+mesosome
 mesosomes
 mesothoracic
 mesotron
@@ -30472,6 +30494,7 @@ monodrama
 monodramatic
 monody
 monoecious
+monoesters
 monofil
 monofilament
 monofils
@@ -32336,6 +32359,7 @@ nonsensuous
 nonsentence
 nonsentences
 nonsequential
+nonserials
 nonserious
 nonsexual
 nonshrink
@@ -33059,6 +33083,7 @@ onanists
 once
 oncidium
 oncidiums
+oncogeneses
 oncogenesis
 oncogenicities
 oncologic
@@ -33487,6 +33512,7 @@ oughted
 oughting
 ouistiti
 ouph
+ouphs
 ourang
 ourari
 ourself
@@ -35201,6 +35227,7 @@ paths
 pathway
 patience
 patienter
+patientest
 patients
 patinations
 patining
@@ -36596,6 +36623,7 @@ pitchpoling
 piteous
 pithead
 pithecanthropi
+pithecoid
 pithed
 pithier
 pithiest
@@ -43167,6 +43195,7 @@ sapraemias
 sapremias
 saprobe
 saprobes
+saprolites
 sapropel
 sapropels
 saprophyte
@@ -44795,6 +44824,7 @@ shofars
 shofroth
 shone
 shoo
+shooflies
 shooks
 shool
 shooled
@@ -51241,6 +51271,7 @@ tridents
 trienes
 triennials
 trienniums
+trientes
 trier
 trierarchy
 triers
@@ -51888,6 +51919,7 @@ tzigane
 tzitzit
 tzuris
 ubiquinone
+ubiquities
 ubiquitous
 ubiquitousness
 udometer
@@ -52889,6 +52921,7 @@ unpardonable
 unpastoral
 unpatched
 unpatentable
+unpeeled
 unpegging
 unpenning
 unpeopled
@@ -53407,6 +53440,7 @@ upthrusting
 uptightness
 uptosses
 uptossing
+uptown
 uptrend
 upturned
 upward
@@ -53545,6 +53579,7 @@ vaccinas
 vaccinators
 vaccinia
 vacillate
+vacillations
 vacillators
 vacuoles
 vacuous
