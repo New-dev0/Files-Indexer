@@ -5715,6 +5715,7 @@ brawlier
 brawling
 brawls
 brawnier
+brawniness
 braza
 braze
 brazed
@@ -7369,6 +7370,7 @@ cavatina
 cavatine
 caved
 cavelike
+caveman
 cavendishes
 caver
 cavern
@@ -8795,6 +8797,7 @@ coagulate
 coalas
 coalescences
 coalescing
+coalhole
 coaliest
 coalified
 coalifying
@@ -11315,6 +11318,7 @@ cultivation
 cultivator
 cultivators
 cults
+cultural
 culturally
 culture
 cultured
@@ -13299,6 +13303,7 @@ digenetic
 digested
 digestibility
 digestible
+digestions
 digests
 digital
 digitalins
@@ -13350,6 +13355,7 @@ diluvia
 diluvial
 dime
 dimenhydrinates
+dimensioned
 dimensioning
 dimer
 dimercaprols
@@ -13788,6 +13794,7 @@ disjunctions
 disjunctive
 disjunctively
 disjunctives
+disjuncture
 disk
 disked
 diskette
@@ -14302,6 +14309,7 @@ dopier
 doping
 dopings
 doppelganger
+doppelgangers
 dopy
 dorado
 dorbeetles
@@ -14620,6 +14628,7 @@ drivability
 driveabilities
 driveability
 drivel
+driveled
 driveler
 driveline
 drivelled
@@ -15646,6 +15655,7 @@ encasements
 encash
 encashment
 encasing
+encephalitides
 encephalitogens
 encephalograph
 encephalon
@@ -18755,6 +18765,7 @@ foredid
 foredoing
 foreface
 forefaces
+forefend
 forefending
 forefends
 forefinger
@@ -22305,6 +22316,7 @@ heterophil
 heterophile
 heterophyllies
 heteroploid
+heteroploidies
 heteroploids
 heteros
 heteroses
@@ -25395,6 +25407,7 @@ irreformability
 irrefragability
 irrefragable
 irrefragably
+irregularly
 irregulars
 irrelatively
 irrelevance
@@ -26352,6 +26365,7 @@ kilowatt
 kiltie
 kilty
 kimchee
+kimchees
 kimchis
 kimono
 kimonoed
@@ -26847,6 +26861,7 @@ langrels
 langshans
 langsynes
 languages
+languet
 languette
 languettes
 languid
@@ -31130,6 +31145,7 @@ multidomain
 multielectrode
 multiemployer
 multiengine
+multienzyme
 multiethnics
 multifaceted
 multifid
@@ -36165,6 +36181,7 @@ pharmacologist
 pharmacologists
 pharmacology
 pharmacopeial
+pharming
 pharos
 pharyngals
 pharyngeal
@@ -36237,6 +36254,7 @@ phillumenist
 philologists
 philomel
 philomelas
+philosophers
 philosophic
 philosophical
 philosophize
@@ -37015,6 +37033,7 @@ pleasurableness
 pleasureless
 pleasures
 pleaters
+pleats
 pleb
 plebeianism
 plebeianly
@@ -41074,6 +41093,7 @@ rehanged
 rehardened
 rehardens
 rehashed
+rehearings
 rehears
 rehearsals
 rehearse
@@ -41569,6 +41589,7 @@ reposers
 reposit
 repositories
 repository
+repossession
 repossessors
 repotted
 repoured
@@ -42010,6 +42031,7 @@ retems
 retentions
 retentive
 retentiveness
+retentivities
 retestified
 retestifies
 retestify
@@ -42898,6 +42920,7 @@ rucks
 ruckus
 ruction
 ructions
+ructious
 rudbeckia
 rudder
 rudderpost
@@ -42914,6 +42937,7 @@ rudiment
 rudimentariness
 rudiments
 ruefully
+rues
 ruffed
 ruffes
 ruffian
@@ -44446,6 +44470,7 @@ sensibler
 sensiblest
 sensillae
 sensitise
+sensitively
 sensitivenesses
 sensitivities
 sensitize
@@ -44585,6 +44610,7 @@ serologies
 serologists
 serology
 seronegativity
+serosae
 serosas
 serosity
 serotinal
@@ -46232,6 +46258,7 @@ soca
 socager
 socagers
 soccer
+soccers
 sociably
 social
 socialises
@@ -47152,6 +47179,7 @@ squashes
 squashier
 squatnesses
 squattest
+squatting
 squatty
 squawroot
 squawroots
@@ -47333,12 +47361,14 @@ starchier
 starchinesses
 stardom
 stardust
+stared
 starfishes
 starflower
 stargaze
 stargazer
 starker
 starkness
+starlight
 starling
 starnose
 starriest
@@ -48240,6 +48270,7 @@ subliterates
 subliterature
 subliteratures
 sublittorals
+sublots
 sublunar
 sublunary
 subluxations
@@ -49764,6 +49795,7 @@ teased
 teasel
 teaseler
 teaselled
+teasers
 teashop
 teasing
 teaspoonful
@@ -49958,6 +49990,7 @@ tenderest
 tenderfoot
 tendering
 tenderizations
+tenderized
 tenderizer
 tenderloin
 tenderly
@@ -50235,6 +50268,7 @@ theomachies
 theomachy
 theophany
 theophylline
+theorbo
 theoretic
 theoretically
 theories
@@ -55207,6 +55241,7 @@ westernisations
 westernised
 westernize
 westmost
+wests
 westward
 wet
 wetbacks
