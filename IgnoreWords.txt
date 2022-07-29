@@ -897,6 +897,7 @@ aiglets
 aigrette
 ailanthus
 ailurophobe
+aimful
 aiming
 ain
 aiolis
@@ -1355,6 +1356,7 @@ amens
 amentia
 aments
 amerce
+amerced
 amercers
 amerciable
 americium
@@ -11344,12 +11346,14 @@ cuppa
 cupreous
 cuprous
 cuprum
+curability
 curablenesses
 curacao
 curacies
 curaghs
 curanderos
 curares
+curari
 curarization
 curarizing
 curate
@@ -11760,6 +11764,7 @@ damselflies
 danazols
 dance
 danceable
+dandering
 dandiacal
 dandies
 dandified
@@ -13706,6 +13711,7 @@ disgustful
 dishabille
 disharmonious
 disharmonizing
+dishclout
 dishclouts
 disheartened
 disheartenment
@@ -14173,6 +14179,7 @@ doit
 doited
 dolefully
 doll
+dollars
 dollhouses
 dolling
 dollishly
@@ -15153,6 +15160,7 @@ eeliest
 eelworm
 eely
 eerily
+eerinesses
 effaceable
 effacing
 effect
@@ -17528,6 +17536,7 @@ faying
 fays
 faze
 fazenda
+fazendas
 fazes
 fazing
 fealties
@@ -17669,6 +17678,7 @@ feoffor
 fer
 feral
 ferbam
+feres
 feretory
 ferlies
 ferly
@@ -19173,6 +19183,7 @@ froglike
 frogman
 frogmarch
 frogs
+frolicked
 frolicker
 frolickers
 fronds
@@ -20657,6 +20668,7 @@ grabbles
 grabby
 graceful
 gracefullest
+gracelessly
 gracelessnesses
 gracile
 graciles
@@ -20954,6 +20966,7 @@ grip
 griped
 gripers
 gripier
+griping
 gripman
 grippier
 grippy
@@ -21433,6 +21446,7 @@ hairlike
 hairlock
 hairlocks
 hairpiece
+hairpin
 hairs
 hairsplitting
 hairsplittings
@@ -23807,6 +23821,7 @@ impossibility
 impossible
 impost
 imposter
+imposters
 imposthume
 impostor
 impostumes
@@ -24038,6 +24053,7 @@ incommensurably
 incommensurate
 incommoded
 incommoding
+incommodity
 incompact
 incomparability
 incomparable
@@ -25674,6 +25690,7 @@ jealousness
 jealousy
 jee
 jeer
+jeered
 jeerers
 jeers
 jees
@@ -27569,6 +27586,7 @@ lionfish
 lionhearted
 lionisers
 lionising
+lionize
 lions
 lip
 lipa
@@ -28110,6 +28128,7 @@ lunarians
 lunars
 lunately
 lunatic
+lunchboxes
 luncheonette
 lunchers
 lunches
@@ -28833,6 +28852,7 @@ massivenesses
 massless
 mastabas
 mastectomies
+mastectomy
 master
 masterdom
 masterdoms
@@ -30685,6 +30705,7 @@ monumentally
 monuments
 mony
 monzonite
+moo
 moochers
 mooches
 moodier
@@ -31927,6 +31948,7 @@ nighty
 nigrosin
 nigrosines
 nihil
+nihilisms
 nihilists
 nihility
 nil
@@ -33608,6 +33630,7 @@ ourang
 ourari
 ourself
 ousel
+ousels
 ousted
 ouster
 ousters
@@ -33828,6 +33851,7 @@ outmuscled
 outoffice
 outorganizing
 outpace
+outpaint
 outpainted
 outpatients
 outpitied
@@ -34117,6 +34141,7 @@ overcook
 overcool
 overcooling
 overcools
+overcorrected
 overcorrecting
 overcoy
 overcrammed
@@ -38797,6 +38822,7 @@ protectresses
 proteges
 proteinic
 proteinurias
+protend
 proteoglycan
 proteolytically
 proteome
@@ -40552,6 +40578,7 @@ redenying
 redeployed
 redeployment
 redeployments
+redeposit
 redepositing
 redescending
 redescribed
@@ -42770,6 +42797,7 @@ rubbling
 rubdown
 rubefacient
 rubefacients
+rubels
 rubeola
 rubeolas
 rubes
@@ -43525,6 +43553,7 @@ scamp
 scamped
 scamperers
 scampish
+scamps
 scamster
 scandal
 scandaling
@@ -44697,6 +44726,7 @@ sharpie
 sharpies
 sharpness
 sharpy
+shashlik
 shat
 shatter
 shatterers
@@ -49929,6 +49959,7 @@ termitaria
 termitarium
 termitary
 termite
+termitic
 termly
 termtimes
 ternary
@@ -50476,6 +50507,7 @@ tilters
 tiltmeter
 tiltrotor
 tilts
+timbale
 timbales
 timbals
 timberheads
@@ -51245,6 +51277,7 @@ treachery
 treacliest
 treader
 treading
+treadles
 treadmill
 treasurership
 treasurerships
@@ -54502,6 +54535,7 @@ voled
 volery
 voles
 volitive
+volkslied
 volkslieder
 volleyed
 volleys
@@ -54838,6 +54872,7 @@ wastewater
 wasteway
 wasting
 wastrie
+wat
 watap
 watape
 watchable
