@@ -1574,6 +1574,7 @@ anathematize
 anathematized
 anathematizes
 anatomic
+anatomically
 anatomised
 anatomized
 anatomizing
@@ -2852,6 +2853,7 @@ astigmia
 astilbe
 astilbes
 astir
+astomatal
 astonishes
 astonishingly
 astonishments
@@ -4613,6 +4615,7 @@ bimboes
 bimbos
 bimensal
 bimester
+bimetal
 bimetallic
 bimetals
 bimethyl
@@ -5185,6 +5188,7 @@ bobolink
 bobolinks
 bobsleigh
 bobsleighs
+bobstays
 bobwhites
 bocces
 boccie
@@ -5764,6 +5768,7 @@ brents
 brethren
 brevet
 breviaries
+breviary
 brevity
 brewery
 brewing
@@ -6505,6 +6510,7 @@ cajoleries
 cajoles
 cajones
 cakes
+cakewalkers
 cakier
 cakiest
 cakinesses
@@ -8272,6 +8278,7 @@ chutists
 chylous
 chymist
 chymists
+chymotrypsin
 chytrid
 cibol
 cibols
@@ -8647,6 +8654,7 @@ clogged
 cloggers
 clogging
 cloggy
+clogs
 cloistered
 cloisters
 cloistral
@@ -10268,6 +10276,7 @@ corkscrew
 corkwood
 cormlike
 cormoid
+cormorant
 corms
 corn
 cornball
@@ -10451,6 +10460,7 @@ costumier
 cosurfactants
 cotan
 cotangent
+coteau
 coted
 coteries
 coterminously
@@ -12237,6 +12247,7 @@ defibrillates
 defibrillations
 defibrillators
 defibrinating
+deficient
 defier
 defilement
 definement
@@ -13503,6 +13514,7 @@ disavowing
 disbanding
 disbandments
 disbelieves
+disbenefit
 disbosom
 disbound
 disboweled
@@ -16119,6 +16131,7 @@ epigrammatic
 epigrammatist
 epigrammatists
 epigrammatizer
+epigraph
 epigrapher
 epigraphies
 epigraphy
@@ -16983,6 +16996,7 @@ exposit
 exposited
 expositions
 exposits
+expostulatory
 exposures
 expounders
 expressage
@@ -18639,6 +18653,7 @@ fopperies
 foppish
 foppishly
 fora
+foramen
 foramens
 foraminiferal
 forams
@@ -20304,6 +20319,7 @@ gloomed
 gloomier
 gloomiest
 gloomy
+glop
 glopped
 gloppier
 gloppiest
@@ -21227,6 +21243,7 @@ gurshes
 guruships
 gushier
 gushingly
+gusset
 gustable
 gustables
 gusted
@@ -22063,6 +22080,7 @@ hemocytometer
 hemocytometers
 hemodialyses
 hemodialysis
+hemodynamic
 hemoglobinuric
 hemolymph
 hemolytic
@@ -22404,6 +22422,7 @@ historic
 historicizing
 historiographer
 history
+histrionics
 hitchhiker
 hitchhiking
 hither
@@ -24544,6 +24563,7 @@ innovator
 inns
 innuendo
 innumerable
+innumerably
 innumeracies
 innumeracy
 innumerate
@@ -28207,6 +28227,7 @@ macadamize
 macadamizing
 macaroni
 macaronies
+macaronis
 macaroon
 maccabaw
 maccoboys
@@ -29980,6 +30001,7 @@ miscataloged
 miscegenations
 miscellanea
 miscellaneous
+miscellanies
 miscellanist
 mischannelled
 mischarges
@@ -31085,6 +31107,7 @@ mummification
 mummifications
 mummifies
 mummify
+mumming
 mumper
 mumping
 mums
@@ -33452,6 +33475,7 @@ orthogenetic
 orthogonalities
 orthomolecular
 orthonormal
+orthopedically
 orthopedics
 orthopedist
 orthophosphate
@@ -36961,6 +36985,7 @@ plumber
 plumbers
 plumbings
 plumbness
+plumbs
 plumelets
 plumerias
 plumes
@@ -37034,6 +37059,7 @@ podzol
 podzolization
 podzolizations
 podzols
+poenology
 poesies
 poetasters
 poeticism
@@ -37637,6 +37663,7 @@ practicableness
 practically
 practicalness
 practicing
+practicum
 practise
 practised
 praenomen
@@ -38302,6 +38329,7 @@ primitivism
 primitivist
 primitivists
 primitivity
+primly
 primmest
 primness
 primnesses
@@ -44373,6 +44401,7 @@ seraphically
 seraphim
 seraphims
 serein
+serenade
 serenatas
 serenate
 serendipities
@@ -45035,6 +45064,7 @@ shuttleless
 shvartze
 shvartzes
 shylock
+shylocked
 shylocking
 shynesses
 si
@@ -47287,6 +47317,7 @@ steepness
 steepnesses
 steerable
 steerageway
+steered
 steerer
 steerers
 steers
@@ -47451,6 +47482,7 @@ stinging
 stingingly
 stingless
 stingo
+stingrays
 stinkier
 stinky
 stipel
@@ -48503,6 +48535,7 @@ superbomber
 superbombers
 superbombs
 superbright
+superbug
 superbureaucrat
 supercabinets
 supercargoes
@@ -51763,6 +51796,7 @@ turbocars
 turbocharger
 turboelectric
 turbofan
+turbogenerator
 turbulencies
 turbulently
 turd
@@ -52578,6 +52612,7 @@ undesignated
 undesirable
 undesirably
 undesired
+undetectable
 undeterminable
 undeterred
 undeveloped
