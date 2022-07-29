@@ -1265,6 +1265,7 @@ alumstones
 alunite
 alveolars
 alveolate
+alvine
 alyssum
 alyssums
 am
@@ -2483,6 +2484,7 @@ arenites
 areolated
 areole
 arete
+arethusa
 arfs
 argala
 argental
@@ -4879,6 +4881,7 @@ blackguarded
 blackguarding
 blackguardisms
 blackguards
+blackgum
 blackhead
 blackheart
 blackleg
@@ -6346,6 +6349,7 @@ buttonbush
 buttonbushes
 buttonholed
 buttonholer
+buttonholers
 buttonholes
 buttresses
 buttressing
@@ -6654,6 +6658,7 @@ cambogia
 cambogias
 cambric
 camel
+camelback
 cameleers
 camelhair
 camellia
@@ -7575,6 +7580,7 @@ chained
 chaining
 chainsaws
 chaired
+chairing
 chairlifts
 chairmanned
 chairmanning
@@ -11964,6 +11970,7 @@ debouch
 debridement
 debriding
 debriefed
+debriefs
 debruises
 debs
 debt
@@ -12073,6 +12080,7 @@ declaimer
 declamations
 declarant
 declarations
+declaratively
 declaratory
 declared
 declares
@@ -12722,6 +12730,7 @@ depurate
 depurated
 depurates
 depurator
+depurators
 deputable
 deputations
 deputizations
@@ -12839,6 +12848,7 @@ desmid
 desmids
 desmoid
 desmoids
+desmosomes
 desolaters
 desolators
 desorb
@@ -13453,6 +13463,7 @@ dirl
 dirling
 dirls
 dirndl
+dirtiest
 dirtiness
 dirtinesses
 dirts
@@ -14077,6 +14088,7 @@ dobla
 doblas
 doblons
 dobras
+dobsonflies
 dobsonfly
 dobsons
 doby
@@ -14710,6 +14722,7 @@ duckbills
 ducker
 duckers
 duckie
+duckier
 duckies
 ducklings
 duckwalk
@@ -14780,6 +14793,7 @@ dunderheaded
 dunderheads
 dundrearies
 dunelike
+dungarees
 dunged
 dungeoning
 dunging
@@ -16765,6 +16779,7 @@ excrescence
 excrescency
 excreters
 excretes
+excreting
 excretion
 excretory
 excruciating
@@ -17827,6 +17842,7 @@ fierinesses
 fiery
 fifer
 fifes
+fifties
 fifty
 figged
 fight
@@ -21251,6 +21267,7 @@ gustily
 gustinesses
 gusto
 gustoes
+gut
 gutlessness
 gutsiest
 gutsinesses
@@ -24186,6 +24203,7 @@ indignly
 indigoids
 indigotin
 indinavir
+indirectness
 indiscernible
 indiscipline
 indisciplines
@@ -24873,6 +24891,7 @@ interjectory
 interjoins
 interknitting
 interknot
+interlaced
 interlacing
 interlaid
 interlapping
@@ -26530,6 +26549,7 @@ kyacks
 kyak
 kyanise
 kyanised
+kyanite
 kyanizing
 kyar
 kybosh
@@ -29045,6 +29065,7 @@ mediatrices
 mediatrixes
 medicable
 medicaid
+medicaids
 medicaments
 medicate
 medicates
@@ -35937,6 +35958,7 @@ pervertedly
 pervertednesses
 perverters
 pervious
+pervs
 pesewa
 pesos
 pessaries
@@ -36965,6 +36987,7 @@ plosions
 plosives
 plotlessness
 plotters
+plotties
 plotzed
 plotzes
 ploughers
@@ -37389,6 +37412,7 @@ poriferal
 porisms
 pork
 porked
+porkpie
 pornier
 porno
 pornographies
@@ -39000,6 +39024,7 @@ pucker
 puckered
 puckeriest
 puckish
+puckishness
 puddlers
 puddlier
 puddly
@@ -43421,6 +43446,7 @@ savine
 saviors
 savorer
 savories
+savorily
 savour
 savoured
 savourers
@@ -43895,6 +43921,7 @@ sculls
 sculped
 sculping
 sculptors
+sculptresses
 sculpturally
 sculpturesque
 scumbag
@@ -43960,6 +43987,7 @@ seamanship
 seamanships
 seamarks
 seamlessness
+seamlike
 seamster
 seamstress
 seances
@@ -48037,6 +48065,7 @@ subheading
 subheadings
 subheads
 subhuman
+subhumans
 subhumid
 subidea
 subindices
@@ -49567,6 +49596,7 @@ taxicabs
 taxidermic
 taximeter
 taximeters
+taxis
 taxiways
 taxol
 taxonomically
@@ -51679,6 +51709,7 @@ tubbiest
 tubbiness
 tubbinesses
 tubeless
+tuber
 tubercles
 tuberculars
 tuberculated
@@ -52222,6 +52253,7 @@ unbaled
 unbales
 unbaling
 unballasted
+unbandage
 unbarbed
 unbarred
 unbasted
@@ -52674,6 +52706,7 @@ unemotionally
 unemphatically
 unemployables
 unemployments
+unenclosed
 unendearing
 unendingly
 unenforceable
@@ -53803,6 +53836,7 @@ vapory
 vapoured
 vapourer
 vapours
+vaquero
 vara
 varactor
 varactors
@@ -54049,6 +54083,7 @@ veritablenesses
 verite
 verity
 vermeil
+vermes
 vermicelli
 vermicide
 vermicides
