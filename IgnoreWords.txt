@@ -1035,6 +1035,7 @@ algebras
 algicidal
 algid
 algidity
+algidnesses
 algolagniacs
 algological
 algology
@@ -2627,6 +2628,7 @@ arthritis
 arthrodeses
 arthrodesis
 arthropathies
+arthropathy
 arthropodan
 arthropods
 artichoke
@@ -5434,6 +5436,7 @@ bootlicked
 bootlickers
 booty
 booze
+boozed
 boozily
 booziness
 bop
@@ -8097,6 +8100,7 @@ chloralose
 chloralosed
 chloraloses
 chlorate
+chlordane
 chlordanes
 chlorids
 chlorin
@@ -9804,6 +9808,7 @@ congruencies
 congruities
 congruously
 congruousnesses
+coni
 conical
 conics
 conidiophores
@@ -11146,6 +11151,7 @@ crudded
 crudding
 cruddy
 crude
+crudeness
 crudest
 crudities
 crudity
@@ -13189,6 +13195,7 @@ diaspores
 diastatic
 diastemata
 diasters
+diastrophisms
 diatessaron
 diathermanous
 diathermic
@@ -13453,6 +13460,7 @@ diphthongizes
 diphthongizing
 diphthongs
 diphyletic
+diphyodont
 diplegic
 diplex
 diplexer
@@ -15101,6 +15109,7 @@ echolalias
 echolalic
 echoviruses
 echt
+eclairs
 eclampsia
 eclampsias
 eclats
@@ -16455,6 +16464,7 @@ escudo
 escutcheon
 eskers
 esne
+esnes
 esophagus
 esoteric
 esotericism
@@ -16668,6 +16678,7 @@ euryokies
 eurypterid
 eurythermic
 eurytopic
+eustacies
 eustasy
 eustele
 eutaxy
@@ -20170,6 +20181,7 @@ giftee
 gifting
 giftwares
 giftwrap
+giftwrapped
 giftwrapping
 gig
 gigabyte
@@ -24137,6 +24149,7 @@ incognitos
 incognizant
 incombustibles
 income
+incomes
 incoming
 incommensurably
 incommensurate
@@ -24416,6 +24429,7 @@ inertias
 inertnesses
 inerts
 inescapably
+inevitable
 inevitableness
 inevitably
 inexact
@@ -28517,6 +28531,7 @@ maigre
 mailer
 mailing
 mailless
+maillot
 mailmen
 mainframes
 mainlander
@@ -29814,6 +29829,7 @@ midi
 midinette
 midinettes
 midis
+midland
 midlands
 midlatitude
 midlines
@@ -30924,6 +30940,7 @@ morose
 morosely
 moroseness
 morphed
+morpheme
 morphemics
 morphia
 morphias
@@ -33078,6 +33095,7 @@ occlusions
 occlusive
 occlusives
 occultation
+occulter
 occulters
 occultisms
 occultists
@@ -34640,6 +34658,7 @@ overtrimming
 overtrumping
 overtures
 overturn
+overurged
 overuse
 overusing
 overvoltages
@@ -36408,6 +36427,7 @@ phosphoryl
 phosphorylated
 phosphorylative
 phosphoryls
+photically
 photics
 photoautotroph
 photobiologic
@@ -36573,6 +36593,7 @@ pianistic
 pianistically
 pianists
 pianoforte
+pianofortes
 pianos
 pians
 piassabas
@@ -36614,6 +36635,7 @@ pickinesses
 picking
 pickled
 pickles
+picklocks
 pickpocket
 pickups
 picky
@@ -36820,6 +36842,7 @@ piosity
 pipage
 pipal
 pipeage
+pipeful
 pipefuls
 pipeline
 pipelined
@@ -37109,6 +37132,7 @@ pledget
 pledgors
 pleiades
 pleiads
+pleinairists
 pleiocene
 plena
 plenaries
@@ -39471,6 +39495,7 @@ puttylike
 puttyroots
 puzzledly
 puzzlements
+pyaemia
 pyaemias
 pyaemic
 pyas
@@ -41419,6 +41444,7 @@ remeasuring
 remediated
 remediation
 remeeting
+remelts
 remember
 rememberable
 remembering
@@ -45413,6 +45439,7 @@ signalized
 signalling
 signalmen
 signalment
+signature
 signboard
 signee
 signees
@@ -45773,9 +45800,11 @@ skysurfer
 skywalks
 skyways
 skywriters
+skywrites
 skywriting
 skywrote
 slab
+slabber
 slabbing
 slabs
 slack
@@ -46957,6 +46986,7 @@ spindler
 spindlier
 spindrifts
 spined
+spinelessness
 spinelessnesses
 spiniest
 spinifex
@@ -51272,6 +51302,7 @@ tragus
 trail
 trailblazers
 trailered
+trailering
 trailerings
 trailerists
 trailless
@@ -52799,6 +52830,7 @@ underestimation
 underexposes
 underexposure
 underexposures
+underfeed
 underfeeds
 underflows
 underfund
@@ -54934,6 +54966,7 @@ wainscotings
 wainscotted
 wainscotting
 wainscottings
+wair
 wairs
 waistcoat
 waister
@@ -55668,6 +55701,7 @@ windscreens
 windshields
 windsurfing
 windsurfings
+windsurfs
 windswept
 windthrow
 windups
@@ -56322,6 +56356,7 @@ zaniest
 zanyish
 zanzas
 zapateos
+zapper
 zappers
 zappy
 zaptiahs
