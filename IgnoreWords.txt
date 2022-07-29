@@ -282,6 +282,7 @@ acetyls
 ache
 achenial
 achiever
+achieves
 achillea
 achiote
 achiral
@@ -501,6 +502,7 @@ adjunctions
 adjunctive
 adjuration
 adjuratory
+adjustable
 adjutant
 adjutants
 adjuvant
@@ -921,6 +923,7 @@ airfreighting
 airlifting
 airline
 airliner
+airmen
 airpowers
 airproofing
 airscape
@@ -3092,6 +3095,7 @@ auriculate
 aurist
 aurochs
 aurorae
+auroral
 auscultate
 auscultated
 ausform
@@ -6210,6 +6214,7 @@ buntline
 buntlines
 buoyance
 buoyances
+buoyant
 buppies
 buppy
 buqsha
@@ -8612,6 +8617,7 @@ clericalist
 clerically
 clerid
 clerihews
+clerkdoms
 clerkish
 clerkships
 cleverer
@@ -10766,6 +10772,7 @@ cradler
 cradlers
 cradles
 craft
+crafter
 craftier
 craftiest
 craftily
@@ -12520,6 +12527,7 @@ demeanours
 dementedness
 dementednesses
 dementia
+demential
 demerara
 demeraran
 demerger
@@ -13672,6 +13680,7 @@ discrowns
 discursively
 discursiveness
 discus
+discussants
 discussed
 discusses
 discussible
@@ -14574,6 +14583,7 @@ dreads
 dream
 dreamful
 dreamfully
+dreaminesses
 dreaming
 dreamland
 dreamlands
@@ -15489,6 +15499,7 @@ embezzler
 embezzlers
 embezzles
 embitter
+embittered
 embitters
 emblazed
 emblazing
@@ -16066,6 +16077,7 @@ entresol
 entries
 entropic
 entropion
+entrustments
 entry
 entwined
 entwist
@@ -16406,6 +16418,7 @@ es
 escaladed
 escalades
 escalates
+escalations
 escalators
 escallops
 escaloping
@@ -16978,6 +16991,7 @@ expansionists
 expat
 expatiate
 expatiated
+expatiating
 expatriate
 expatriates
 expatriating
@@ -17419,6 +17433,7 @@ fanglike
 fanned
 fanners
 fannies
+fano
 fanos
 fans
 fantail
@@ -17585,6 +17600,7 @@ fearers
 fearlessness
 fears
 feased
+feasted
 feasters
 featest
 featherbrain
@@ -19351,6 +19367,7 @@ fulguration
 fulleries
 fullest
 fullfaces
+fulling
 fullmouthed
 fullness
 fulminated
@@ -20813,6 +20830,7 @@ granum
 grapevine
 grapevines
 graph
+graphemic
 graphemically
 graphical
 graphically
@@ -21247,6 +21265,7 @@ gulf
 gulfweed
 gullably
 gulled
+gullet
 gullets
 gulleys
 gullying
@@ -22403,6 +22422,7 @@ hierology
 hierophantic
 hierurgy
 higgler
+higgles
 high
 highball
 highballs
@@ -27215,6 +27235,7 @@ legibilities
 legible
 legionary
 legionnaire
+legislates
 legislatives
 legislators
 legislatorships
@@ -33136,6 +33157,7 @@ offed
 offended
 offending
 offenses
+offensively
 offensives
 offering
 offerings
@@ -35475,6 +35497,7 @@ pattamar
 pattens
 patterer
 patternings
+patternless
 patterns
 patters
 patting
@@ -37471,6 +37494,7 @@ ponderosa
 ponderously
 ponders
 ponding
+pondweed
 pone
 ponged
 poniard
@@ -41254,6 +41278,7 @@ reknitting
 reknots
 reknotted
 relabeled
+relabeling
 relabelled
 relabelling
 relacquer
@@ -44310,6 +44335,7 @@ seined
 seines
 seining
 seise
+seised
 seisers
 seisings
 seisins
@@ -47740,6 +47766,7 @@ stoked
 stokehold
 stokeholds
 stokeholes
+stokes
 stokesias
 stolidest
 stolidities
@@ -48373,6 +48400,7 @@ subrents
 subreptitiously
 subrogating
 subrogation
+subrogations
 subsale
 subsample
 subsampling
@@ -48812,6 +48840,7 @@ superinduction
 superinfect
 superinfected
 superinfects
+superinsulated
 superintend
 superintendence
 superintendency
@@ -51817,6 +51846,7 @@ troweller
 trowing
 trowths
 truancies
+truanting
 truantries
 truants
 truckage
@@ -52175,6 +52205,7 @@ twitchiest
 twitchy
 twitted
 twittery
+twixt
 two
 twofer
 twofold
@@ -52887,6 +52918,7 @@ undrew
 undried
 undular
 undulated
+undutiful
 undutifulnesses
 undynamic
 unearthliest
@@ -54892,6 +54924,7 @@ wakefulness
 waken
 wakening
 wakenings
+wakens
 waker
 wakes
 waking
@@ -55351,6 +55384,7 @@ whigs
 whiled
 whiles
 whiling
+whilom
 whilst
 whimbrel
 whimbrels
@@ -55761,6 +55795,7 @@ wonted
 wontedly
 woo
 woodbin
+woodbind
 woodbins
 woodblocks
 woodborer
