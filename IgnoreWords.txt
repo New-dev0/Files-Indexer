@@ -2999,6 +2999,7 @@ attain
 attainability
 attainable
 attainder
+attained
 attainting
 attars
 attempers
@@ -3370,6 +3371,7 @@ baboon
 baboonery
 baboos
 babu
+babushka
 babydoll
 babyhoods
 babying
@@ -3938,6 +3940,7 @@ beachier
 beachside
 beadhouses
 beadiest
+beadily
 beadinesses
 beading
 beadings
@@ -5439,6 +5442,7 @@ boons
 boor
 boorish
 boorishness
+boorishnesses
 boost
 boosterisms
 boosting
@@ -6918,6 +6922,7 @@ caprice
 caprices
 capriciousness
 caprifications
+caprifig
 caprifigs
 caprioled
 caprioles
@@ -9497,6 +9502,7 @@ comparison
 compartment
 compartmenting
 compassable
+compassion
 compassionated
 compassionates
 compassionating
@@ -9745,6 +9751,7 @@ confervae
 conferval
 confervas
 confessed
+confesses
 confession
 confessionalist
 confessionally
@@ -11000,6 +11007,7 @@ cretinism
 crevasse
 crevassed
 crevice
+creviced
 crewcuts
 crewels
 crewing
@@ -14670,6 +14678,7 @@ drenchers
 drenches
 drenching
 dressage
+dressages
 dressed
 dressmakers
 dressmaking
@@ -19970,6 +19979,7 @@ gearcase
 gearcases
 geared
 gearless
+gears
 gearshifts
 gecko
 geckos
@@ -21543,6 +21553,7 @@ hackling
 hackneys
 hacks
 hacksawing
+hacksawn
 hading
 hadith
 hadj
@@ -23790,6 +23801,7 @@ immaterializes
 immaterializing
 immature
 immensity
+immensurable
 immerge
 immerges
 immerses
@@ -25585,6 +25597,7 @@ irrevocability
 irrevocable
 irrevocably
 irrigably
+irrigated
 irrigation
 irrigators
 irritableness
@@ -31370,6 +31383,7 @@ multiplication
 multiplications
 multiplicity
 multiplies
+multiproblem
 multiprocessors
 multiproduct
 multiracialism
@@ -32718,6 +32732,7 @@ nonrural
 nonsaponifiable
 nonschool
 nonscientist
+nonseasonal
 nonsecretors
 nonsegregation
 nonsegregations
@@ -34499,6 +34514,7 @@ overexploited
 overexpose
 overexposing
 overextend
+overextending
 overextensions
 overextraction
 overextractions
@@ -36777,6 +36793,7 @@ pickpocket
 pickups
 picky
 piclorams
+picnicked
 picnicker
 picofarads
 picolin
@@ -36853,6 +36870,7 @@ pigskins
 pigsney
 pigtailed
 pigweeds
+piing
 pikeman
 pikemen
 pikers
@@ -39352,6 +39370,7 @@ pteridosperm
 pteropods
 pterosaur
 pterygial
+pterygium
 pterygoid
 ptisan
 ptomain
@@ -40644,6 +40663,7 @@ recautioned
 recces
 receded
 receipts
+received
 receiver
 receiving
 recement
@@ -41789,6 +41809,7 @@ repinning
 replace
 replaceable
 replacing
+replanned
 replants
 replasters
 replated
@@ -42799,6 +42820,7 @@ ripping
 rippled
 ripplet
 ripplets
+rippling
 riprapped
 ripraps
 rips
@@ -42942,10 +42964,12 @@ roller
 rolling
 rollings
 rollouts
+rollover
 rollways
 rom
 romaine
 romaines
+romancers
 romancing
 romanises
 romanizations
@@ -47222,6 +47246,7 @@ spirulinas
 spitals
 spitball
 spite
+spited
 spitefullest
 spitefully
 spites
@@ -47709,6 +47734,7 @@ statocyst
 statocysts
 statolith
 stator
+stats
 statuary
 statuesque
 statuesquely
@@ -47722,6 +47748,7 @@ stavudines
 stay
 staysails
 stead
+steadfast
 steadfastly
 steadfastnesses
 steadings
@@ -50026,6 +50053,7 @@ tattie
 tattiness
 tattle
 tattler
+tattooers
 tattooing
 tattoos
 taunt
@@ -50175,6 +50203,7 @@ telecasting
 telecasts
 telecom
 telecommuted
+telecommuting
 teleconferences
 telefaxes
 telegramming
@@ -50346,6 +50375,7 @@ tentmaker
 tentmakers
 tentorial
 tentorium
+tents
 tenues
 tenuity
 tenuousnesses
@@ -51901,6 +51931,7 @@ triggered
 triggerfishes
 triggermen
 trigly
+triglycerides
 triglyph
 trignesses
 trigonometries
@@ -52565,6 +52596,7 @@ ulceration
 ulcerations
 ulcerogenic
 ulcers
+ulexite
 ulnad
 ulnae
 ulpan
@@ -54353,6 +54385,7 @@ varicose
 variedly
 variegate
 variegated
+variegates
 variegators
 varieties
 variety
@@ -54361,6 +54394,7 @@ variola
 variolates
 variole
 varioles
+variolites
 varioloid
 variousness
 varistor
@@ -56462,6 +56496,7 @@ yestreens
 yeti
 yeuks
 yids
+yield
 yieldable
 yielder
 yielding
