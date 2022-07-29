@@ -571,6 +571,7 @@ adulterations
 adulterators
 adulterers
 adulteresses
+adultery
 adulthood
 adultness
 adultress
@@ -2373,6 +2374,7 @@ aquiline
 aquilinities
 aquilinity
 ar
+arabesk
 arabesque
 arabica
 arabicas
@@ -2767,6 +2769,7 @@ assemblers
 assembling
 assemblyman
 assemblymen
+assemblywoman
 assentation
 assented
 assenters
@@ -4226,6 +4229,7 @@ bellpulls
 bellworts
 bellyache
 bellyacher
+bellyachers
 bellyband
 bellybands
 bellying
@@ -9403,6 +9407,7 @@ commune
 communer
 communers
 communicant
+communicants
 communicational
 communicative
 communicatively
@@ -9704,6 +9709,7 @@ confinement
 confirmands
 confirmation
 confirmations
+confirmednesses
 confirmers
 confiscable
 confiscating
@@ -16885,6 +16891,7 @@ exhortative
 exhorting
 exhorts
 exhumed
+exigencies
 exigently
 exiguous
 exiguousnesses
@@ -17249,6 +17256,7 @@ factoids
 factorable
 factored
 factories
+factorization
 factorship
 factorylike
 factotum
@@ -21635,6 +21643,7 @@ hanseatic
 hanselled
 hanselling
 hansom
+hansoms
 hanting
 hao
 haole
@@ -22133,6 +22142,7 @@ hemophiliacs
 hemopoieses
 hemorrhaging
 hemorrhoid
+hemorrhoids
 hemostasis
 hemostat
 hemostatics
@@ -22881,6 +22891,7 @@ hostly
 hot
 hotbeds
 hotbloods
+hotboxes
 hotcake
 hotching
 hotchpotches
@@ -23938,6 +23949,7 @@ inapparently
 inappetence
 inappetences
 inapplicable
+inappositely
 inapproachable
 inappropriately
 inaptitude
@@ -24468,6 +24480,7 @@ infringers
 infringes
 infundibulum
 infuriates
+infuriatingly
 infuriations
 infuscate
 infused
@@ -26487,6 +26500,7 @@ knowing
 knowingly
 knowingness
 knowingnesses
+knowns
 knubbier
 knuckleballs
 knuckler
@@ -28230,6 +28244,7 @@ lychees
 lyches
 lychnis
 lychnises
+lycopene
 lycopenes
 lycopodium
 lymphatics
@@ -30717,6 +30732,7 @@ monticules
 monument
 monumental
 monumentalities
+monumentalizes
 monumentalizing
 monumentally
 monuments
@@ -31613,6 +31629,7 @@ neatly
 neatnik
 neats
 nebbishy
+nebenkern
 nebulose
 nebulosities
 nebulously
@@ -32060,6 +32077,7 @@ noddles
 nodi
 nodose
 nodous
+nods
 nodulous
 noel
 noels
@@ -32842,6 +32860,7 @@ obfuscating
 obfuscation
 obfuscations
 obfuscatory
+obis
 obit
 objected
 objection
@@ -34426,6 +34445,7 @@ oversalted
 oversalts
 oversanguine
 oversaturate
+oversaturates
 oversaturations
 oversave
 overscale
@@ -35813,6 +35833,7 @@ performability
 performances
 performatives
 perfumer
+perfumeries
 perfumery
 perfusates
 perfused
@@ -37413,6 +37434,7 @@ poofy
 pooler
 poolhall
 poolhalls
+pooling
 poolrooms
 pools
 poontangs
@@ -41721,6 +41743,7 @@ reshipping
 reshoe
 reshoed
 reshot
+reshow
 reshowered
 reshowing
 reshuffled
@@ -43605,6 +43628,7 @@ scantiest
 scantily
 scantiness
 scantinesses
+scantly
 scapegoat
 scapegraces
 scaping
@@ -43919,6 +43943,7 @@ scrimpily
 scrimshanders
 scrimshaw
 scripter
+scriptures
 scriptwriter
 scrive
 scrived
@@ -45258,6 +45283,7 @@ signalmen
 signalment
 signboard
 signee
+signees
 signer
 significance
 significances
@@ -46802,6 +46828,7 @@ spinless
 spinnaker
 spinnakers
 spinnerets
+spinnerette
 spinneries
 spinney
 spinnies
@@ -47097,6 +47124,7 @@ squarishnesses
 squashed
 squashes
 squashier
+squatnesses
 squattest
 squatty
 squawroot
@@ -49255,6 +49283,7 @@ synostosis
 synovitises
 syntactical
 syntactics
+syntagm
 syntagma
 syntagms
 syntaxes
@@ -49659,6 +49688,7 @@ taximeter
 taximeters
 taxis
 taxiways
+taxmen
 taxol
 taxonomically
 taxonomy
@@ -50145,6 +50175,7 @@ theatricalities
 theatricalize
 theatricalizes
 theatricals
+thebe
 thecal
 thecate
 thecodont
@@ -51695,6 +51726,7 @@ trucked
 trucker
 truckers
 truckfuls
+truckle
 truckled
 truckman
 truckmasters
@@ -52844,6 +52876,7 @@ unfriendly
 unfrock
 unfrocked
 unfroze
+unfrozen
 unfurling
 unfurls
 ungainlinesses
@@ -54940,6 +54973,7 @@ waterhen
 waterhens
 waterily
 waterinesses
+waterlily
 waterlogging
 waterlogs
 watermark
@@ -55030,6 +55064,7 @@ weatherly
 weathermen
 weatherperson
 weatherpersons
+weatherproof
 weatherproofing
 weathers
 weatherworn
