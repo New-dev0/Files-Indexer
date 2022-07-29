@@ -4390,6 +4390,7 @@ besieger
 besmears
 besmiled
 besmiles
+besmoked
 besmoking
 besmoothed
 besmooths
@@ -6518,6 +6519,7 @@ caid
 caiman
 caique
 cairds
+cairngorm
 caissons
 cajeput
 cajoled
@@ -7515,6 +7517,7 @@ cephalothoraxes
 cephalous
 ceps
 ceraceous
+ceramic
 ceramicist
 ceramics
 ceramist
@@ -8260,6 +8263,7 @@ chuckles
 chuckwalla
 chuddah
 chuddars
+chuff
 chuffs
 chug
 chugalugs
@@ -9808,6 +9812,7 @@ conjunction
 conjunctional
 conjunctiva
 conjurer
+conjuror
 conjurors
 conk
 conker
@@ -10678,6 +10683,7 @@ covering
 coverslips
 covertness
 covertnesses
+coverts
 coverup
 coves
 covetable
@@ -11603,6 +11609,7 @@ cymene
 cymenes
 cymling
 cymlings
+cymograph
 cymol
 cymophane
 cymose
@@ -14786,6 +14793,7 @@ dumbed
 dumbfounder
 dumbfoundered
 dumbfoundering
+dumbfounding
 dumbs
 dumbstruck
 dumbwaiters
@@ -18055,6 +18063,7 @@ firing
 firkins
 firm
 firmaments
+firmers
 firmnesses
 firms
 firs
@@ -18404,6 +18413,7 @@ florid
 floridity
 floridness
 floridnesses
+floristic
 florists
 floruits
 flossie
@@ -25396,6 +25406,7 @@ irreligions
 irreligious
 irremeable
 irremediable
+irrepealable
 irrepressible
 irreproachable
 irresistibility
@@ -25592,6 +25603,7 @@ jackknifing
 jacklegs
 jacklight
 jackplane
+jackpots
 jackrabbits
 jackrolled
 jackstays
@@ -26077,6 +26089,7 @@ kalsomines
 kamaainas
 kamacite
 kamikazes
+kanaka
 kanes
 kantar
 kantars
@@ -28510,6 +28523,7 @@ malignance
 malignancies
 malignant
 malignantly
+maligned
 maligner
 maligning
 maligns
@@ -28620,6 +28634,7 @@ mango
 mangoes
 mangold
 mangosteen
+mangy
 manhandles
 manhattan
 manhood
@@ -29695,6 +29710,7 @@ microsporangium
 microspore
 microstates
 microstructural
+microstructures
 microswitch
 microtechnique
 microtonality
@@ -30684,6 +30700,7 @@ monopolises
 monopolist
 monopolists
 monopolize
+monopolizer
 monopsonies
 monopsonistic
 monopsony
@@ -33075,6 +33092,7 @@ oenophiles
 oersteds
 oes
 oestrin
+oestrones
 oestrums
 ofay
 off
@@ -34487,6 +34505,7 @@ overspeculate
 overspenders
 overspending
 overspiced
+overspills
 overspins
 overspreading
 overstaff
@@ -34526,6 +34545,7 @@ overteach
 overteaching
 overthick
 overthin
+overthought
 overtimed
 overtiming
 overtire
@@ -35091,6 +35111,7 @@ parametrization
 parametrized
 parametrizes
 paramorph
+paramorphs
 paramos
 paramounts
 paramours
@@ -35123,6 +35144,7 @@ parashot
 parasites
 parasiticide
 parasitise
+parasitised
 parasitising
 parasitisms
 parasitization
@@ -38185,6 +38207,7 @@ prepuce
 prepunches
 prepupa
 prepupae
+prepupas
 prequalify
 prequels
 preradio
@@ -42178,6 +42201,7 @@ reversibility
 revert
 revertant
 revertants
+reverter
 reverters
 revertive
 revery
@@ -42616,6 +42640,7 @@ roe
 roebuck
 roentgen
 roentgenogram
+roentgenology
 roentgens
 roes
 rogations
@@ -42689,6 +42714,7 @@ rootcaps
 rooter
 rootholds
 rootiest
+rootlike
 rootling
 rootstalk
 rootstock
@@ -47551,6 +47577,7 @@ sticklers
 stickles
 stickling
 stickout
+stickouts
 sticks
 stickseed
 stickums
@@ -48500,6 +48527,7 @@ suing
 suitably
 suitcases
 suite
+suited
 suiters
 suitlike
 suitors
@@ -49009,6 +49037,7 @@ swarajism
 swarajists
 sware
 swarmer
+swart
 swarth
 swarthinesses
 swartness
@@ -49206,6 +49235,7 @@ symphyseal
 sympodial
 symposiac
 symposiarch
+symposiarchs
 symptom
 symptomatically
 symptomatologic
@@ -49421,6 +49451,7 @@ tailpiece
 tailplane
 tailskids
 tailslide
+tailspin
 tailwater
 tailwaters
 tailwinds
@@ -50739,6 +50770,7 @@ togglers
 toggling
 toil
 toiled
+toilet
 toileted
 toiletries
 toilsomenesses
@@ -51781,6 +51813,7 @@ tryptamines
 trysted
 tryster
 tsaddik
+tsaddikim
 tsades
 tsar
 tsardoms
@@ -52669,6 +52702,7 @@ underloading
 underlyingly
 undermining
 undernourished
+undernutrition
 underpaintings
 underpants
 underpart
@@ -55160,6 +55194,7 @@ wendigos
 wending
 wends
 wennier
+wentletrap
 weregilds
 werewolves
 wergelds
