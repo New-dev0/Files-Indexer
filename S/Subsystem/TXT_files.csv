@@ -1,0 +1,10 @@
+cgroup Freezer,https://www.kernel.org/doc/Documentation/cgroup-v1/freezer-subsystem.txt
+hrtimers - subsystem for high-resolution kernel timers,https://www.kernel.org/doc/Documentation/timers/hrtimers.txt
+Network Subsystem for Time Sharing Hosts - IETF,https://www.ietf.org/rfc/rfc15.txt
+draft-galb-secsh-publickey-subsystem-02.txt - IETF Tools,https://tools.ietf.org/id/draft-galb-secsh-publickey-subsystem-02.txt
+Documentation/devicetree/bindings/pil/subsys-pil-tz.txt - kernel/msm,https://android.googlesource.com/kernel/msm/%2B/android-wear-5.0.2_r0.1/Documentation/devicetree/bindings/pil/subsys-pil-tz.txt
+Documentation/cgroup-v1/freezer-subsystem.txt - kernel/common.git,https://android.googlesource.com/kernel/common.git/%2B/ASB-2018-07-05_4.9-o/Documentation/cgroup-v1/freezer-subsystem.txt
+RFC 4819 Secure Shell Public Key Subsystem,http://www.rfc-editor.org/rfc/rfc4819.txt
+nvme-cli/nvme-subsystem-reset.txt at master - GitHub,https://github.com/linux-nvme/nvme-cli/blob/master/Documentation/nvme-subsystem-reset.txt
+linux-xlnx/xilinx_axienet.txt at master - GitHub,https://github.com/Xilinx/linux-xlnx/blob/master/Documentation/devicetree/bindings/net/xilinx_axienet.txt
+34-39016 - SEC.gov,https://www.sec.gov/rules/other/34-39016.txt
