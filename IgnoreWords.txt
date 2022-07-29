@@ -67,6 +67,7 @@ absolvent
 absolvers
 absolves
 absorb
+absorbance
 absorbancies
 absorbant
 absorbants
@@ -1594,6 +1595,7 @@ ancestored
 ancestoring
 ancestors
 ancestress
+ancestresses
 ancho
 anchoress
 anchoresses
@@ -2333,6 +2335,7 @@ apprise
 apprising
 apprizers
 approachable
+approaching
 approbate
 approbates
 appropriated
@@ -2892,6 +2895,7 @@ astrodomes
 astrolabe
 astrologer
 astrological
+astrology
 astrometric
 astrometries
 astronaut
@@ -5601,6 +5605,7 @@ boxhauling
 boxhauls
 boxiest
 boxily
+boxinesses
 boxings
 boxthorn
 boyarisms
@@ -8810,6 +8815,7 @@ coagulability
 coagulants
 coagulase
 coagulate
+coagulating
 coalas
 coalescences
 coalescing
@@ -8979,6 +8985,7 @@ codetermination
 codeveloper
 codex
 codgers
+codices
 codicology
 codifying
 codirected
@@ -9697,6 +9704,7 @@ conepatls
 confab
 confabbed
 confabulates
+confabulating
 confecting
 confectioner
 confectioners
@@ -9782,6 +9790,7 @@ conglobed
 conglomerated
 conglomerateurs
 conglomeration
+conglomerations
 conglomerative
 conglomerator
 conglutinating
@@ -11805,6 +11814,7 @@ damping
 dampnesses
 damselfish
 damselflies
+danazol
 danazols
 dance
 danceable
@@ -13210,6 +13220,7 @@ diazoniums
 diazotizations
 diazotizes
 dib
+dibasic
 dibbled
 dibromide
 dicamba
@@ -13393,6 +13404,7 @@ diminutiveness
 diminutives
 dimity
 dimly
+dimmed
 dimmer
 dimnesses
 dimorphic
@@ -14086,6 +14098,7 @@ divebombing
 divergence
 diverges
 diversely
+diversenesses
 diversifiers
 diversifies
 diversifying
@@ -16276,6 +16289,7 @@ epithet
 epitome
 epitomic
 epitomical
+epitomize
 epitopes
 epizoism
 epizoites
@@ -16644,6 +16658,7 @@ eukaryotes
 eukaryotic
 eulachan
 eulachon
+eulogistic
 eulogists
 eulogizer
 eunuch
@@ -20774,6 +20789,7 @@ graduated
 graduating
 graduations
 graduses
+graecized
 graecizes
 graffitied
 graffiting
@@ -22593,6 +22609,7 @@ hocuses
 hocussing
 hodad
 hodden
+hodgepodges
 hodoscopes
 hods
 hoecakes
@@ -23440,6 +23457,7 @@ hypopneas
 hypopyons
 hypospadiases
 hypostatize
+hypostatized
 hypostome
 hypostomes
 hypotensions
@@ -23760,6 +23778,7 @@ immunoblotting
 immunochemical
 immunochemistry
 immunodeficient
+immunogen
 immunogenetics
 immunogenic
 immunogenicity
@@ -25494,6 +25513,7 @@ irrevocably
 irrigably
 irrigation
 irrigators
+irritableness
 irritants
 irritated
 irritatingly
@@ -25927,6 +25947,7 @@ jobnames
 jobs
 jockette
 jockey
+jockeyed
 jockos
 jocose
 jocular
@@ -26832,6 +26853,7 @@ lallation
 lallations
 lallygags
 lam
+lama
 lamb
 lambasted
 lambda
@@ -31146,6 +31168,7 @@ mudder
 muddiest
 muddly
 muddy
+mudfish
 mudfishes
 mudflap
 mudflat
@@ -31494,6 +31517,7 @@ myocardial
 myoclonuses
 myoelectric
 myoelectrical
+myofibrils
 myogenic
 myoglobin
 myographs
@@ -33806,6 +33830,7 @@ outbargains
 outbark
 outbarked
 outbawled
+outbawling
 outbeam
 outbegs
 outbid
@@ -34822,6 +34847,7 @@ padishah
 padlock
 padlocking
 padlocks
+padnag
 padnags
 padri
 padrone
@@ -36647,6 +36673,7 @@ picomole
 picoting
 picquet
 picrated
+picrates
 picrite
 picrites
 picrotoxins
@@ -38401,6 +38428,7 @@ pressruns
 pressureless
 pressurised
 pressurization
+pressurize
 prester
 presterilizes
 prestidigitator
@@ -38673,6 +38701,7 @@ procrustean
 procryptic
 proctitises
 proctodea
+proctologic
 proctologies
 proctologists
 proctology
@@ -41950,6 +41979,7 @@ resoften
 resojet
 resojets
 resoldered
+resoldering
 resolders
 resole
 resoled
@@ -43002,6 +43032,7 @@ rubels
 rubeola
 rubeolas
 rubes
+rubescent
 rubicundities
 rubier
 rubies
@@ -43324,6 +43355,7 @@ salicin
 salicine
 salicylate
 salicylates
+salient
 saliently
 salients
 salifies
@@ -45527,6 +45559,7 @@ simmers
 simoniac
 simoniacal
 simonies
+simoons
 simp
 simpered
 simpleness
@@ -53499,6 +53532,7 @@ unsavoury
 unsawed
 unsayables
 unscarred
+unscented
 unschooled
 unscrambling
 unscrew
@@ -55100,6 +55134,7 @@ warren
 warreners
 warrens
 warriors
+warsaw
 warship
 warships
 warsle
