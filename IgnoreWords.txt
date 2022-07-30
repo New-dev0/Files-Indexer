@@ -1923,6 +1923,7 @@ antick
 anticlassical
 anticlericals
 anticlimactical
+anticlinal
 anticlines
 anticodon
 anticolonial
@@ -3380,6 +3381,7 @@ azlons
 azo
 azoic
 azoles
+azon
 azoted
 azotemia
 azotemias
@@ -4013,6 +4015,7 @@ bearberries
 bearcats
 beardedness
 bearding
+beargrass
 beargrasses
 bearhug
 bearings
@@ -4115,6 +4118,7 @@ bedgown
 bediapers
 bedighted
 bedighting
+bedights
 bedimple
 bedims
 bedirtied
@@ -5759,6 +5763,7 @@ bramble
 brambled
 bran
 branch
+branches
 branchia
 branchier
 branching
@@ -12410,6 +12415,7 @@ decupling
 decussates
 dedicated
 dedicates
+deduced
 deducing
 deduction
 deducts
@@ -13184,6 +13190,7 @@ determinateness
 determines
 determinist
 deterministic
+deterrability
 deterrer
 deters
 detersive
@@ -14095,6 +14102,7 @@ dispeopled
 dispersals
 dispersedly
 dispersion
+dispersively
 dispersiveness
 dispersoids
 dispiritedly
@@ -15125,6 +15133,7 @@ durbars
 dure
 duress
 durians
+durn
 durneder
 durning
 durocs
@@ -17448,6 +17457,7 @@ exterritorial
 extinct
 extinction
 extinctions
+extincts
 extinguishable
 extinguisher
 extinguishment
@@ -20369,6 +20379,7 @@ geologist
 geologize
 geologized
 geomagnetically
+geomancers
 geomantic
 geometers
 geometrician
@@ -27806,6 +27817,7 @@ letch
 lethalities
 lethally
 lethargy
+lethe
 letted
 letterboxings
 lettermen
@@ -27815,6 +27827,7 @@ letterspacing
 letterspacings
 letting
 lettuce
+letup
 leu
 leucemia
 leucin
@@ -27907,6 +27920,7 @@ liberationists
 libertarians
 liberties
 libertine
+libertinisms
 liberty
 libidinously
 libido
@@ -29836,6 +29850,7 @@ memorandum
 memorialised
 memorialises
 memorialising
+memorialist
 memorialists
 memorialized
 memorised
@@ -31724,6 +31739,7 @@ multijet
 multilane
 multilaterally
 multileveled
+multilingualism
 multilobe
 multilobes
 multimedia
@@ -33953,6 +33969,7 @@ openmouthedly
 openmouthedness
 openness
 opennesses
+opera
 operabilities
 operable
 operagoing
@@ -34675,6 +34692,7 @@ outstated
 outstates
 outsteered
 outsteers
+outstood
 outstrides
 outstripped
 outstripping
@@ -34790,6 +34808,7 @@ overbears
 overbeating
 overbeats
 overbejeweled
+overbetting
 overbilled
 overbills
 overbleach
@@ -36575,6 +36594,7 @@ perimeter
 perimetries
 perimorph
 perimorphs
+perimysia
 perinatally
 perinea
 perineuria
@@ -36907,6 +36927,7 @@ phenylketonuric
 phenylthioureas
 phereses
 pheromone
+pheromones
 phi
 phial
 phials
@@ -39442,6 +39463,7 @@ prolonging
 prolusion
 prom
 promethium
+prometric
 promines
 promisee
 promisees
@@ -40567,6 +40589,7 @@ radarscopes
 radded
 raddles
 radiale
+radially
 radiancies
 radiate
 radiating
@@ -42683,6 +42706,7 @@ respelt
 respirable
 respire
 respiritualized
+respirometer
 respirometric
 respirometries
 respirometry
@@ -44141,6 +44165,7 @@ samizdat
 samosas
 samovar
 samovars
+samoyeds
 samp
 sampan
 sampled
@@ -47031,6 +47056,7 @@ snookering
 snool
 snoot
 snooted
+snootier
 snootily
 snootinesses
 snoots
@@ -49055,6 +49081,7 @@ subclass
 subclassify
 subclause
 subclerk
+subclustered
 subclusters
 subcode
 subcodes
@@ -49594,6 +49621,7 @@ sundowners
 sundowning
 sundowns
 sundrops
+sunfishes
 sunk
 sunket
 sunkets
@@ -49772,6 +49800,7 @@ superreal
 superrealisms
 superromantic
 supersalesmen
+superscribes
 superscripts
 supersecrecies
 supersecrecy
@@ -50684,6 +50713,7 @@ taverna
 tawdries
 tawers
 tawnier
+tawninesses
 tawse
 tawsed
 tawsing
@@ -52793,6 +52823,7 @@ truculencies
 truculently
 true
 trueblues
+truebred
 trueloves
 truenesses
 trues
@@ -52939,6 +52970,7 @@ tun
 tuna
 tunable
 tunableness
+tunablenesses
 tundishes
 tune
 tuneable
@@ -56260,6 +56292,7 @@ weirdies
 weirding
 weirdly
 weirdnesses
+weirdo
 weirds
 weisenheimer
 weisenheimers
@@ -57400,6 +57433,7 @@ zona
 zonary
 zonated
 zoneless
+zoner
 zonetimes
 zonks
 zonula
@@ -57412,6 +57446,7 @@ zoogeographies
 zoogloea
 zoogloeae
 zoography
+zooid
 zooier
 zooks
 zoolater
