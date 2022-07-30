@@ -234,6 +234,7 @@ accurately
 accurateness
 accursed
 accursedness
+accusable
 accusably
 accusant
 accusation
@@ -548,6 +549,7 @@ admonisher
 admonishing
 admonishment
 admonitions
+admonitors
 adnouns
 adobe
 adolescent
@@ -3863,6 +3865,7 @@ bast
 bastardies
 bastardises
 bastardized
+bastardy
 baste
 baster
 basters
@@ -4593,6 +4596,7 @@ bidder
 bidders
 bidding
 bided
+bidental
 bidets
 bidi
 bidirectional
@@ -6315,6 +6319,7 @@ burin
 burke
 burker
 burlaps
+burler
 burlesks
 burlesque
 burlesquely
@@ -8685,6 +8690,7 @@ cleavers
 cleaves
 clef
 clefs
+clefting
 cleistogamic
 cleistogamously
 cleistogamy
@@ -8886,6 +8892,7 @@ coadmire
 coadmires
 coadmiring
 coadmits
+coadunate
 coagencies
 coagula
 coagulability
@@ -9161,6 +9168,7 @@ cohabitants
 cohabitation
 coheaded
 coheading
+coheir
 coheiress
 coheirs
 cohere
@@ -11545,6 +11553,7 @@ curr
 curragh
 currajong
 currant
+curriculum
 curriculums
 curried
 currieries
@@ -11832,6 +11841,7 @@ daggled
 dagoes
 dagos
 daguerreotypies
+daguerreotyping
 daguerreotypist
 dah
 dahabeahs
@@ -12426,6 +12436,7 @@ definitely
 definiteness
 definitenesses
 definitional
+definitions
 definitive
 definitively
 definitiveness
@@ -13185,6 +13196,7 @@ dewaxes
 dewberry
 dewclaw
 dewclawed
+dewdrop
 dewfalls
 dewier
 dewiest
@@ -15034,6 +15046,7 @@ durians
 durneder
 durning
 durocs
+durras
 durrs
 durst
 dusk
@@ -17174,6 +17187,7 @@ expectedness
 expecters
 expecting
 expectorated
+expectorating
 expedience
 expediences
 expediency
@@ -17410,6 +17424,7 @@ eyeblink
 eyeblinks
 eyebolts
 eyebrows
+eyefolds
 eyehooks
 eyelets
 eyeletting
@@ -22239,6 +22254,7 @@ heathenized
 heathenries
 heathens
 heathless
+heaths
 heaumes
 heavenlier
 heavenliness
@@ -23384,6 +23400,7 @@ hurtling
 hurts
 husbanders
 husbandries
+hush
 hushed
 hushing
 hushpuppies
@@ -25679,6 +25696,7 @@ ironman
 ironmen
 ironmongers
 ironworker
+ironworks
 irradiate
 irradiates
 irradiative
@@ -26063,6 +26081,7 @@ jemidars
 jemmies
 jemmy
 jeon
+jeopardies
 jeopardised
 jeopardize
 jeopardizes
@@ -28698,6 +28717,7 @@ macrophage
 macrophyte
 macroscales
 macroscopic
+macroscopically
 macrostructural
 macrostructure
 macruran
@@ -31678,6 +31698,7 @@ muskie
 muskmelon
 muskrat
 muskrats
+muskroot
 musky
 muspike
 musquash
@@ -32080,6 +32101,7 @@ needlessly
 needlessnesses
 needleworker
 needling
+neem
 neg
 negates
 negatived
@@ -33129,6 +33151,7 @@ nucleosynthesis
 nucleosynthetic
 nucleotidases
 nucleotides
+nucleus
 nucleuses
 nuclide
 nudenesses
@@ -36277,6 +36300,7 @@ perfectionist
 perfectionistic
 perfectionists
 perfectiveness
+perfectivity
 perfectness
 perfecto
 perfects
@@ -44200,6 +44224,7 @@ scapose
 scapulary
 scar
 scarab
+scarcer
 scare
 scarecrow
 scareder
@@ -44656,6 +44681,7 @@ searobins
 seascouts
 seasickness
 seasonal
+seasoner
 seasons
 seastrands
 seatback
@@ -44743,6 +44769,7 @@ sedimenting
 sedimentologies
 sediments
 seditions
+seditiousnesses
 seduce
 seducive
 seduction
@@ -48093,6 +48120,7 @@ stenos
 stenosis
 stenotherm
 stenotherms
+stenotypist
 stenotypy
 stepbrothers
 stepdaughters
@@ -52204,6 +52232,7 @@ trilateral
 trilbies
 trilinear
 trilingual
+trilithon
 triliths
 trillers
 trilling
@@ -54179,6 +54208,7 @@ untucking
 untucks
 untune
 untunes
+unturned
 untutored
 untwined
 untwist
@@ -54542,6 +54572,7 @@ valentines
 valerates
 valeted
 valeting
+valetudinaries
 valgoid
 valiances
 valiancy
@@ -54619,6 +54650,7 @@ vapidity
 vapidness
 vapored
 vaporer
+vaporetti
 vaporetto
 vaporing
 vaporings
@@ -55454,6 +55486,7 @@ wagers
 wages
 wagged
 waggery
+wagging
 waggishnesses
 waging
 wagonages
@@ -56114,6 +56147,7 @@ wideout
 wider
 widespread
 widowerhood
+widowerhoods
 widowers
 widowhood
 widows
@@ -56200,6 +56234,7 @@ windinesses
 windings
 windjammers
 windless
+windlessly
 windmills
 window
 windowing
