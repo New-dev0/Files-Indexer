@@ -622,6 +622,7 @@ advocate
 advocator
 advocators
 advowson
+advowsons
 adynamias
 adytum
 adze
@@ -655,6 +656,7 @@ aerobiosis
 aerodromes
 aeroducts
 aerodynes
+aeroelastic
 aeroelasticity
 aerogrammes
 aerograms
@@ -1269,6 +1271,7 @@ altricial
 altruist
 alum
 aluminate
+alumine
 aluminize
 aluminized
 alumins
@@ -1855,6 +1858,7 @@ antherids
 anthers
 antheses
 anthills
+anthocyanins
 anthocyans
 anthodia
 anthoid
@@ -3845,6 +3849,7 @@ basseted
 bassetting
 bassetts
 bassnesses
+bassoon
 bassy
 bast
 bastardies
@@ -3905,6 +3910,7 @@ battlefield
 battleground
 battlegrounds
 battlement
+battlemented
 battlers
 battue
 batty
@@ -4146,6 +4152,7 @@ beetlers
 beetling
 beetroots
 beezers
+befallen
 befell
 befinger
 befingered
@@ -4479,6 +4486,7 @@ betrotheds
 betroths
 better
 bettering
+bettors
 between
 betweennesses
 betweentimes
@@ -6290,6 +6298,7 @@ burgundies
 burial
 buriers
 burin
+burke
 burker
 burlaps
 burlesks
@@ -7888,6 +7897,7 @@ checkerboards
 checkered
 checkers
 checklisting
+checklists
 checkmarked
 checkmarking
 checkmarks
@@ -13515,6 +13525,7 @@ diopsidic
 dioptases
 diorites
 dioritic
+diosgenin
 dioxan
 dioxans
 dioxins
@@ -17042,6 +17053,7 @@ exhibitory
 exhibits
 exhilarates
 exhilarating
+exhilarative
 exhortative
 exhorting
 exhorts
@@ -17268,6 +17280,7 @@ exterminator
 exterminators
 extern
 external
+externalised
 externalize
 externalizes
 externals
@@ -19468,6 +19481,7 @@ fuddled
 fudged
 fudges
 fudging
+fuds
 fuehrer
 fuehrers
 fuelers
@@ -21303,6 +21317,7 @@ grueling
 grueller
 gruellers
 gruelling
+gruellings
 gruels
 grues
 gruesomeness
@@ -23159,6 +23174,7 @@ houserooms
 housesits
 housetop
 housewares
+housewifely
 houseworks
 housing
 houstonia
@@ -24132,6 +24148,7 @@ improvising
 improvs
 imprudence
 imprudently
+impudences
 impudency
 impudently
 impugn
@@ -26984,6 +27001,7 @@ laities
 lake
 laked
 lakefront
+lakeports
 lakes
 lakeshore
 lakh
@@ -28138,6 +28156,7 @@ logics
 logiest
 loginesses
 logistically
+logistician
 logisticians
 logjam
 logjams
@@ -29816,6 +29835,7 @@ methoxyl
 methylamines
 methylase
 methylated
+methylation
 methylations
 methylic
 methylphenidate
@@ -30373,6 +30393,7 @@ misconceiving
 misconduct
 misconducts
 misconnection
+misconnections
 misconstrues
 miscook
 miscopy
@@ -30928,6 +30949,7 @@ monolingual
 monolith
 monolog
 monologists
+monologs
 monologue
 monologued
 monologues
@@ -32227,6 +32249,7 @@ nicotiana
 nicotinamide
 nicotinic
 nicotins
+nictations
 nictitant
 nictitates
 nidal
@@ -32414,6 +32437,7 @@ nonabsorptive
 nonacid
 nonacidic
 nonacids
+nonacquisitive
 nonaction
 nonaddicts
 nonadjacent
@@ -33804,6 +33828,7 @@ orienting
 orients
 oriflammes
 origamis
+origin
 originalities
 originator
 orinasals
@@ -36820,6 +36845,7 @@ pianoforte
 pianofortes
 pianos
 pians
+piasavas
 piassabas
 piastre
 piastres
@@ -40952,6 +40978,7 @@ rectitudinous
 recto
 rectocele
 rectors
+rectory
 rectrix
 recumbencies
 recuperate
@@ -42957,6 +42984,7 @@ roaching
 road
 roadabilities
 roadblocked
+roadblocking
 roadhouse
 roadhouses
 roadies
@@ -44353,6 +44381,7 @@ screed
 screenfuls
 screenlands
 screenplays
+screenwriters
 screes
 screwdriver
 screwiest
@@ -46535,6 +46564,7 @@ snippet
 snippetier
 snippetiest
 snippety
+snippier
 snippiest
 snitcher
 sniveler
@@ -47057,6 +47087,7 @@ spar
 sparable
 sparables
 spareable
+sparerib
 spares
 sparge
 spargers
@@ -48338,6 +48369,7 @@ strewments
 strewn
 stria
 striates
+striations
 strict
 strictest
 strictures
@@ -52748,6 +52780,7 @@ ultravacua
 ultravacuum
 ultravacuums
 ultraviolences
+ultraviolent
 ultraviolet
 ultravirility
 ululant
@@ -55845,6 +55878,7 @@ whisper
 whispering
 whispery
 whisting
+whistled
 whistlers
 whistlings
 white
@@ -56072,6 +56106,7 @@ winningly
 winnow
 winnowers
 winnowing
+winnows
 winoes
 winos
 wins
