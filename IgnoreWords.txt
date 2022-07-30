@@ -2372,6 +2372,7 @@ approbates
 appropriated
 appropriately
 appropriations
+approver
 approves
 approximate
 approximated
@@ -3031,6 +3032,7 @@ attainder
 attained
 attainting
 attars
+attempering
 attempers
 attemptable
 attendance
@@ -6258,6 +6260,7 @@ bullsnake
 bullweed
 bullwhip
 bully
+bullyboys
 bullyrag
 bullyragging
 bulrush
@@ -7531,6 +7534,7 @@ cel
 celeriac
 celeriacs
 celery
+celeste
 celestially
 celestite
 celestites
@@ -8020,6 +8024,7 @@ chemosynthesis
 chemosynthetic
 chemotactic
 chemotaxis
+chemotaxonomist
 chemurgies
 chenopod
 cheongsams
@@ -10194,6 +10199,7 @@ contortionists
 contours
 contrabands
 contrabass
+contrabasses
 contrabassists
 contrabassoon
 contraceptions
@@ -11089,6 +11095,7 @@ crenelated
 crenelating
 crenelations
 creneled
+crenellated
 crenels
 crenshaw
 crenulated
@@ -16791,6 +16798,7 @@ ethambutols
 ethane
 ethanolamine
 ethanols
+ethene
 etherealization
 etherealizes
 etherealnesses
@@ -18956,6 +18964,7 @@ fonded
 fonder
 fondest
 fonding
+fondled
 fondness
 fondnesses
 fondue
@@ -20909,6 +20918,7 @@ goldbricking
 golden
 goldenest
 goldenness
+goldenseal
 goldenseals
 goldeyes
 goldfinch
@@ -22299,6 +22309,7 @@ headman
 headmasters
 headmistress
 headmistresses
+headmost
 headphones
 headpiece
 headpieces
@@ -23291,6 +23302,7 @@ hospitalises
 hospitalising
 hospitality
 hospitia
+hospodar
 hostage
 hostages
 hostel
@@ -24545,6 +24557,7 @@ inconsequently
 inconsiderable
 inconsiderate
 inconsistencies
+inconsolable
 inconsonances
 inconsonant
 inconspicuously
@@ -24865,6 +24878,7 @@ infights
 infill
 infiltrations
 infiltrative
+infinitely
 infiniteness
 infinitenesses
 infinitesimal
@@ -26060,6 +26074,7 @@ jackknifing
 jacklegs
 jacklight
 jackplane
+jackpot
 jackpots
 jackrabbits
 jackrolled
@@ -26766,6 +26781,7 @@ kickboxed
 kickboxers
 kicker
 kickier
+kicking
 kickoff
 kickshaw
 kickstarted
@@ -26897,6 +26913,7 @@ kites
 kiths
 kiting
 kitsch
+kitschified
 kitschifies
 kitschifying
 kittel
@@ -31384,6 +31401,7 @@ morion
 morions
 morn
 morocco
+moronic
 moronically
 moronism
 moronity
@@ -32602,6 +32620,7 @@ nippled
 nippy
 nirvanic
 nitchies
+nite
 niter
 niterie
 nites
@@ -34380,6 +34399,7 @@ outdodge
 outdoer
 outdoers
 outdoes
+outdoorsy
 outdragged
 outdrags
 outdrawn
@@ -34398,6 +34418,7 @@ outfawned
 outfawning
 outfeast
 outfeel
+outfelt
 outfence
 outfencing
 outfield
@@ -34692,6 +34713,7 @@ outweeping
 outwhirl
 outwhirling
 outwhirls
+outwill
 outwinded
 outwished
 outwit
@@ -34772,6 +34794,7 @@ overburdened
 overburdening
 overburned
 overbuys
+overcall
 overcalled
 overcalls
 overcame
@@ -35229,6 +35252,7 @@ ovulations
 ovule
 ovum
 owed
+owls
 owner
 ownership
 ownerships
@@ -35608,6 +35632,7 @@ panorama
 panpipes
 pans
 pansexuality
+pansophies
 pantaloon
 pantdresses
 pantechnicons
@@ -36554,6 +36579,7 @@ periplasms
 periscope
 perish
 perished
+perishes
 peristyle
 perithecia
 perithecial
@@ -37059,6 +37085,7 @@ phototoxic
 phototypes
 photovoltaic
 phots
+phragmoplast
 phrasemaker
 phrasemakers
 phrasemonger
@@ -39531,6 +39558,7 @@ proselytizes
 proselytizing
 proseminar
 prosencephalic
+prosier
 prosily
 prosody
 prosoma
@@ -45635,6 +45663,7 @@ shaving
 shavings
 shawing
 shawls
+she
 shea
 sheaf
 sheaflike
@@ -48183,6 +48212,7 @@ stanine
 staning
 stanks
 stannic
+stannite
 stannites
 stanza
 stanzas
@@ -48364,6 +48394,7 @@ stemware
 stemwares
 stenchier
 stenciler
+stencilers
 stencillers
 stencilling
 stencils
@@ -49664,6 +49695,7 @@ superiorly
 superiors
 superjumbo
 superjumbos
+superlarge
 superlativeness
 superlies
 superlight
@@ -51627,6 +51659,7 @@ tireder
 tires
 tiresomely
 tiresomeness
+tirewoman
 tirewomen
 tiring
 tirled
@@ -53791,6 +53824,7 @@ undotted
 undoubles
 undoubted
 undoubting
+undramatically
 undramatized
 undraping
 undress
@@ -54442,6 +54476,7 @@ unsurpassable
 unsurpassed
 unsurprisingly
 unsusceptible
+unsuspecting
 unsustainable
 unswathing
 unswear
