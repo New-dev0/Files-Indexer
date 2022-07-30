@@ -2037,6 +2037,7 @@ antipollution
 antipollutions
 antipot
 antipoverty
+antiprogressive
 antiprotons
 antipruritic
 antipsychotic
@@ -2467,6 +2468,7 @@ archaeal
 archaeans
 archaebacteria
 archaeologies
+archaeon
 archaeopteryxes
 archaical
 archaically
@@ -7974,6 +7976,7 @@ cheerlead
 cheerleading
 cheerless
 cheerlessness
+cheese
 cheesecloth
 cheesecloths
 cheeseparing
@@ -10592,6 +10595,7 @@ coruscates
 corvids
 corvinas
 corybantes
+corydalises
 corymb
 corynebacterial
 coryneform
@@ -13307,6 +13311,7 @@ dialled
 dialler
 diallers
 dialling
+diallists
 dialog
 dialogers
 dialogically
@@ -13398,6 +13403,7 @@ dickering
 dickie
 dickies
 dicking
+diclinous
 dicotyledonous
 dicotyls
 dicoumarol
@@ -13957,6 +13963,7 @@ dishonorer
 dishpans
 dishrags
 dishwares
+dishwasher
 dishwater
 disincentive
 disincentives
@@ -17371,6 +17378,7 @@ extensity
 extensometer
 extensor
 extents
+extenuate
 extenuates
 extenuating
 extenuator
@@ -20133,6 +20141,7 @@ gawsie
 gaydar
 gaydars
 gayeties
+gayness
 gaynesses
 gays
 gazabos
@@ -20579,6 +20588,7 @@ glamorizes
 glamorousness
 glamorousnesses
 glamors
+glamourous
 glamours
 glancers
 glandular
@@ -21305,6 +21315,7 @@ grim
 grimacing
 grime
 grimily
+griminess
 griminesses
 grimly
 grinches
@@ -21915,6 +21926,7 @@ hamstringing
 hamulate
 hamulous
 hamzahs
+hanaper
 handbag
 handbags
 handballs
@@ -31406,6 +31418,7 @@ motherhouse
 mothering
 motherland
 motherlands
+mothery
 mothlike
 mothproof
 moths
@@ -32342,6 +32355,7 @@ neume
 neums
 neuralgic
 neurasthenic
+neurilemmas
 neurine
 neuritic
 neuroanatomist
@@ -33357,6 +33371,7 @@ nutters
 nuttiest
 nutting
 nutwood
+nuzzled
 nuzzlers
 nyctalopias
 nylghai
@@ -34449,6 +34464,7 @@ outmatches
 outmodes
 outmuscle
 outmuscled
+outnumbers
 outoffice
 outorganizing
 outpace
@@ -35522,6 +35538,7 @@ panettones
 panfishes
 pangene
 pangenesis
+pangenetic
 pangens
 pangs
 panhandling
@@ -37181,6 +37198,7 @@ pieties
 pietistic
 pietistically
 piezoelectric
+piffled
 piffles
 pigboat
 pigboats
@@ -38597,6 +38615,7 @@ predestines
 predestining
 predetermine
 predetermines
+predetermining
 predevaluation
 predevelopment
 prediabetic
@@ -38716,6 +38735,7 @@ prelates
 prelatic
 prelatisms
 prelaw
+prelect
 prelector
 prelects
 prelegal
@@ -40907,6 +40927,7 @@ rearming
 rearmost
 rearmouse
 rearouse
+rearrangements
 rearrested
 rearrests
 rears
@@ -41571,6 +41592,7 @@ reflies
 refloat
 reflooding
 reflowering
+reflows
 refluences
 refluxed
 refly
@@ -41621,6 +41643,7 @@ refreshments
 refries
 refrigerants
 refrigerates
+refrigerating
 refrigeration
 refroze
 reft
@@ -41767,6 +41790,7 @@ reifications
 reifies
 reifying
 reign
+reigning
 reignited
 reignition
 reimage
@@ -42017,6 +42041,7 @@ reminds
 reminisce
 reminisced
 reminiscently
+reminiscing
 remints
 remises
 remising
@@ -42441,6 +42466,7 @@ resettling
 resewn
 resews
 resharpens
+reshaves
 reshaving
 reshined
 reshines
@@ -43284,6 +43310,7 @@ roadworthiness
 roam
 roamer
 roamers
+roans
 roar
 roast
 roasted
@@ -43347,6 +43374,7 @@ rogueing
 rogueries
 rogues
 roguing
+roguish
 roguishly
 roguishnesses
 roiling
@@ -46753,6 +46781,7 @@ smokepot
 smokestacks
 smokily
 smokinesses
+smoking
 smooch
 smoocher
 smoochers
@@ -47363,6 +47392,7 @@ spaded
 spadework
 spadeworks
 spadixes
+spaed
 spaeings
 spaes
 spaghettilike
@@ -48554,6 +48584,7 @@ stourie
 stoury
 stouten
 stoutening
+stoutens
 stoutness
 stover
 stovers
@@ -52268,6 +52299,7 @@ tremendous
 tremolites
 tremor
 tremorous
+tremulousnesses
 trenail
 trencher
 trenchers
@@ -52614,6 +52646,7 @@ truancies
 truanting
 truantries
 truants
+trucing
 truckage
 truckages
 trucked
@@ -54690,6 +54723,7 @@ urticated
 urticates
 urtications
 uruses
+usablenesses
 used
 usefulness
 user
@@ -56915,6 +56949,7 @@ xystoi
 yabbie
 yabby
 yachting
+yachtings
 yachtsman
 yacked
 yaffing
