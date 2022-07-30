@@ -1267,6 +1267,7 @@ altocumuli
 altogether
 altos
 altostrati
+altostratus
 altricial
 altruist
 alum
@@ -2326,6 +2327,7 @@ appointing
 appointive
 appoints
 apposed
+apposes
 appositive
 appositively
 appraisees
@@ -2381,6 +2383,7 @@ aquacultures
 aquaculturists
 aquaplaning
 aquarelle
+aquarelles
 aquarellist
 aquaria
 aquarian
@@ -5633,6 +5636,7 @@ boxberries
 boxberry
 boxcar
 boxfish
+boxful
 boxhaul
 boxhauled
 boxhauling
@@ -6248,6 +6252,7 @@ bunged
 bunging
 bungle
 bunglers
+bungs
 bunk
 bunkers
 bunkhouse
@@ -6484,6 +6489,7 @@ cabbages
 cabbageworms
 cabbaging
 cabbalist
+cabbalists
 cabbed
 cabbie
 cabbies
@@ -8636,6 +8642,7 @@ clawback
 clawhammer
 clawing
 clawlike
+clay
 claying
 clayish
 claymore
@@ -8828,6 +8835,7 @@ clubheads
 clubhouses
 clubroot
 clubs
+clubwoman
 cluing
 clumber
 clumped
@@ -10308,6 +10316,7 @@ copra
 coprahs
 copremia
 copremias
+copresenting
 copresents
 copresident
 coprincipal
@@ -11074,6 +11083,7 @@ crimping
 crimples
 crimson
 crimsoned
+crimsoning
 cringer
 cringle
 cringles
@@ -15704,6 +15714,7 @@ emoting
 emotionalists
 emotionalize
 emotionally
+emotionless
 emotionlessness
 emotivity
 empalers
@@ -17989,6 +18000,7 @@ fiberizes
 fiberless
 fiberscopes
 fibreboard
+fibreboards
 fibrefill
 fibrilla
 fibrillar
@@ -19136,6 +19148,7 @@ foundationally
 foundationless
 founded
 founders
+founding
 foundries
 foundry
 fount
@@ -19898,6 +19911,7 @@ garlicky
 garmenting
 garnered
 garnets
+garnished
 garnisheeing
 garnishing
 garnishments
@@ -21390,6 +21404,7 @@ guernseys
 guessable
 guesser
 guesses
+guesstimate
 guesstimated
 guesstimates
 guessworks
@@ -22583,6 +22598,7 @@ hidebound
 hideously
 hideousnesses
 hideout
+hideouts
 hidings
 hidrosis
 hie
@@ -23981,6 +23997,7 @@ impawns
 impeach
 impeachable
 impeachers
+impeaches
 impeaching
 impeccabilities
 impeccably
@@ -24909,6 +24926,7 @@ insanitations
 insatiable
 insatiateness
 inscribes
+inscribing
 inscroll
 inscrutable
 insculp
@@ -27762,6 +27780,7 @@ liguloid
 ligure
 ligures
 likabilities
+likability
 likableness
 likeable
 likeness
@@ -28598,6 +28617,7 @@ machinability
 machination
 machineable
 machineries
+machinery
 machinists
 machismo
 machismos
@@ -28733,6 +28753,7 @@ mainsprings
 maintaining
 maintenance
 maintops
+mairs
 maisonette
 maists
 majagua
@@ -29274,6 +29295,7 @@ maunders
 maundy
 mausolea
 mausolean
+mausoleum
 mauves
 mavie
 mavis
@@ -30380,6 +30402,7 @@ mischievous
 mischievously
 miscited
 misclaimed
+misclasses
 misclassified
 misclassifies
 misclassify
@@ -31047,6 +31070,7 @@ moo
 moochers
 mooches
 moodier
+moodiest
 moodily
 moodiness
 moods
@@ -33227,6 +33251,7 @@ obliviously
 oblong
 obnubilate
 obnubilates
+oboe
 obol
 obole
 obovate
@@ -33272,6 +33297,7 @@ obstructionisms
 obstructionists
 obstructions
 obstructive
+obstructives
 obstructs
 obstruent
 obtainability
@@ -37979,6 +38005,7 @@ postfault
 postfix
 postfixal
 postformed
+postfreeze
 postglacial
 postgrad
 postgrads
@@ -38475,6 +38502,7 @@ prelocates
 prelude
 preludial
 preluding
+prelusive
 prelusory
 preman
 premanufactured
@@ -42057,6 +42085,7 @@ requesters
 requesting
 requestor
 requests
+requiems
 requiescat
 requirements
 requires
@@ -46644,6 +46673,7 @@ snuffliest
 snuffy
 snuggery
 snugly
+snugness
 snugnesses
 snye
 so
@@ -47837,6 +47867,7 @@ stately
 statements
 stateroom
 staters
+stateside
 statesman
 statesmanship
 statewide
@@ -51074,6 +51105,7 @@ tiering
 tiff
 tiffs
 tigereye
+tigerishly
 tigerlike
 tigers
 tighteners
@@ -51819,6 +51851,7 @@ transude
 transudes
 transuding
 transuranium
+transvaluating
 transvaluations
 transvalue
 transvalues
@@ -55718,6 +55751,7 @@ weisenheimers
 welches
 welcomenesses
 welcomers
+welcoming
 welding
 weldor
 welfarism
@@ -56692,6 +56726,7 @@ youthfulness
 youthquake
 yowed
 yowing
+yowl
 yowling
 yows
 ytterbic
