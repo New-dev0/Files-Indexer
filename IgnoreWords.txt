@@ -154,6 +154,7 @@ accept
 acceptabilities
 acceptability
 acceptable
+acceptableness
 acceptance
 acceptances
 acceptant
@@ -1674,6 +1675,7 @@ aneuploid
 aneuploidy
 aneurysm
 anga
+angakok
 angel
 angeled
 angelfishes
@@ -5197,6 +5199,7 @@ bluebeats
 bluebell
 blueberry
 bluebirds
+bluebonnets
 bluebooks
 bluecap
 bluecaps
@@ -5641,6 +5644,7 @@ bouzoukia
 bouzoukis
 bovids
 bovine
+bovinity
 bowdlerised
 bowdlerising
 bowed
@@ -7012,6 +7016,7 @@ captions
 captivate
 captivates
 captivations
+captivator
 captivators
 captivities
 captopril
@@ -7322,6 +7327,7 @@ catabolites
 catabolizing
 catachresis
 cataclysm
+catacomb
 catalases
 catalectics
 catalepsies
@@ -8505,6 +8511,7 @@ circumcenters
 circumcised
 circumcision
 circumference
+circumferences
 circumflex
 circumfluent
 circumfusing
@@ -9909,6 +9916,7 @@ congenial
 congenialities
 congest
 congestion
+congests
 congius
 conglobated
 conglobates
@@ -10124,6 +10132,7 @@ contactee
 contacting
 contacts
 contagiousness
+contagium
 contain
 containable
 contained
@@ -11676,6 +11685,7 @@ cuticular
 cutin
 cutinise
 cutinised
+cutinized
 cutinizes
 cutins
 cutlas
@@ -12199,6 +12209,7 @@ decadencies
 decadent
 decagram
 decagrams
+decahedron
 decalcified
 decaliter
 decaliters
@@ -16004,6 +16015,7 @@ endomixis
 endomorphs
 endonuclease
 endonucleolytic
+endopeptidases
 endoperoxide
 endorsable
 endorse
@@ -18221,6 +18233,7 @@ filigreeing
 filisters
 fill
 fillable
+fillagree
 fillagreed
 fille
 filles
@@ -22829,6 +22842,7 @@ hipbones
 hiplike
 hippienesses
 hippies
+hippish
 hippo
 hippocampal
 hippodrome
@@ -24922,6 +24936,7 @@ ingate
 ingatherings
 ingathers
 ingenuousnesses
+ingestive
 ingests
 inglenooks
 ingloriousness
@@ -26789,6 +26804,7 @@ kilobars
 kilobyte
 kilocurie
 kilocycle
+kilohertzes
 kilojoule
 kilojoules
 kilolitres
@@ -29096,6 +29112,7 @@ mandator
 mandibulate
 mandola
 mandolins
+mandragoras
 mandrake
 mandrel
 mandrill
@@ -30467,6 +30484,7 @@ miniskis
 ministates
 ministerial
 ministrant
+ministry
 minitrack
 minium
 minivans
@@ -30678,6 +30696,7 @@ misfiled
 misfiling
 misfire
 misfiring
+misfits
 misfocuses
 misfocusing
 misfocussed
@@ -31446,6 +31465,7 @@ motion
 motioned
 motivate
 motivated
+motivation
 motivator
 motivators
 motive
@@ -32599,6 +32619,7 @@ nitrification
 nitrifiers
 nitrify
 nitrile
+nitrites
 nitro
 nitrobenzene
 nitrocellulose
@@ -34532,6 +34553,7 @@ outrages
 outraise
 outran
 outrance
+outranged
 outranks
 outrated
 outrating
@@ -35361,6 +35383,7 @@ pagurians
 pagurids
 paiks
 pail
+pailful
 paillard
 paillettes
 pained
@@ -40856,6 +40879,7 @@ reacclimatizing
 reaccredit
 reaccreditation
 reaccused
+reaccusing
 reacquaint
 reacquaints
 reacquiring
@@ -45728,6 +45752,7 @@ shiftlessly
 shiftlessnesses
 shikaree
 shikari
+shikseh
 shilingi
 shillalah
 shillelah
@@ -46379,6 +46404,7 @@ skidoo
 skidproof
 skids
 skidway
+skied
 skies
 skiey
 skiffled
@@ -47448,6 +47474,7 @@ spanked
 spankings
 spanning
 spanokopita
+spanokopitas
 spans
 spanworms
 spar
@@ -49208,6 +49235,7 @@ subsidiarity
 subsidising
 subsidization
 subsidize
+subsidizer
 subsidizes
 subsister
 subsites
@@ -49706,6 +49734,7 @@ superstitiously
 superstocks
 superstratum
 superstructure
+superstuds
 supersurgeon
 supersystem
 supertankers
@@ -49973,6 +50002,7 @@ swells
 swelter
 sweltrier
 sweltry
+swept
 sweptback
 swerve
 swerves
@@ -50439,6 +50469,7 @@ tanginess
 tangles
 tanglier
 tango
+tangoed
 tangos
 tangs
 tanistry
@@ -51881,6 +51912,7 @@ torsions
 torso
 torsos
 torta
+tortellini
 torticollises
 tortile
 tortoises
@@ -53869,6 +53901,7 @@ ungazing
 ungenial
 ungentle
 ungently
+ungentrified
 ungimmicky
 ungirded
 ungirds
@@ -55843,6 +55876,7 @@ wamuses
 wand
 wandered
 wandering
+wands
 wane
 wangans
 wangled
@@ -56305,6 +56339,7 @@ whipping
 whippletrees
 whipray
 whips
+whipsaw
 whipstitching
 whiptail
 whipworm
