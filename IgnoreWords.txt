@@ -2270,6 +2270,7 @@ apostrophizes
 apothecaries
 apothece
 apothecia
+apothecial
 apothecium
 apothems
 app
@@ -2803,6 +2804,7 @@ assegai
 assegaied
 assemblages
 assemble
+assembler
 assemblers
 assembling
 assemblyman
@@ -4164,6 +4166,7 @@ beep
 beeper
 beeping
 beeps
+beeriest
 beeriness
 beeswings
 beetle
@@ -5246,6 +5249,7 @@ boardinghouses
 boardlike
 boardman
 boardrooms
+boards
 boardsailing
 boardwalks
 boarfish
@@ -7894,6 +7898,7 @@ chatchke
 chateaubriand
 chatelaine
 chatelains
+chatoyants
 chatrooms
 chats
 chatted
@@ -9891,6 +9896,7 @@ congealments
 congeals
 congelation
 congeneric
+congenerous
 congenial
 congenialities
 congest
@@ -12650,6 +12656,7 @@ deliverer
 deliverers
 deliveryman
 delly
+delocalization
 delocalizes
 delouses
 delphiniums
@@ -13543,6 +13550,7 @@ dimensioning
 dimer
 dimercaprols
 dimers
+dimethoate
 dimethoates
 dimethyls
 dimidiating
@@ -13764,6 +13772,7 @@ discarders
 discased
 disced
 discepts
+discern
 discernable
 discerner
 discernibly
@@ -15262,6 +15271,7 @@ ebullitions
 ecartes
 eccentricities
 eccentrics
+ecchymosis
 ecclesiae
 ecclesiastic
 ecclesiasticism
@@ -20988,6 +20998,7 @@ goutier
 goutily
 goutinesses
 gouts
+govern
 governess
 governessy
 government
@@ -21869,6 +21880,7 @@ halogenating
 halogens
 haloid
 haloids
+halt
 halterbreaking
 haltless
 halva
@@ -22260,6 +22272,7 @@ headset
 headsets
 headshrinker
 headstand
+headstands
 headstone
 headwaiters
 headways
@@ -22407,6 +22420,7 @@ helled
 hellenizations
 hellers
 hellfire
+hellfires
 hellgrammites
 hellholes
 hellhound
@@ -24659,6 +24673,7 @@ individuated
 individuations
 indivisible
 indocilities
+indoctrination
 indolently
 indoles
 indomethacins
@@ -25123,6 +25138,7 @@ inspects
 inspheres
 inspiration
 inspirit
+inspiritingly
 inspissated
 inspissates
 instabilities
@@ -26978,6 +26994,7 @@ kremlinologists
 kremlinology
 kreplach
 kreutzers
+kreuzer
 krill
 krimmer
 krimmers
@@ -27336,6 +27353,7 @@ laryngitis
 laryngoscope
 laryngoscopes
 lasagnes
+lascivious
 lasciviousness
 laserdiscs
 lasher
@@ -27463,6 +27481,7 @@ lawmaking
 lawny
 lawsuit
 lawyering
+lax
 laxative
 laxest
 laxness
@@ -31515,6 +31534,7 @@ mucklucks
 muckraked
 mucluc
 muclucs
+mucocutaneous
 mucoid
 mucoidal
 mucolytic
@@ -33447,6 +33467,7 @@ observably
 observantly
 observants
 observation
+observes
 observing
 observingly
 obsess
@@ -33573,6 +33594,7 @@ oculi
 oculomotor
 odahs
 oddball
+odder
 oddest
 oddish
 oddly
@@ -34749,6 +34771,7 @@ overdemanding
 overdependence
 overdeveloped
 overdeveloping
+overdevelopment
 overdevelops
 overdid
 overdirect
@@ -36450,6 +36473,7 @@ perinea
 perineuria
 periodates
 periodicities
+periodid
 periodizations
 periodontology
 perionychia
@@ -36781,6 +36805,7 @@ phials
 philadelphuses
 philanderers
 philanthropical
+philanthropies
 philanthropists
 philanthropoid
 philanthropoids
@@ -37718,6 +37743,7 @@ plutonic
 plutonium
 plutoniums
 pluviose
+pluvious
 plyer
 plyingly
 pneumas
@@ -39007,6 +39033,7 @@ prickle
 prickliness
 pricklinesses
 pricks
+pricky
 pricy
 prided
 prides
@@ -41996,6 +42023,7 @@ remising
 remissible
 remissibly
 remission
+remit
 remitment
 remittance
 remittent
@@ -43359,6 +43387,7 @@ romped
 rompish
 romps
 rondeaux
+rondel
 rondos
 roofing
 roofings
@@ -43392,6 +43421,7 @@ rooty
 rope
 ropedancer
 ropedancers
+ropedancing
 ropelike
 roper
 ropers
@@ -47534,6 +47564,7 @@ sphincters
 sphingids
 sphingosines
 sphinx
+sphygmic
 sphygmographs
 sphygmus
 spicate
@@ -47818,6 +47849,7 @@ sprinklers
 sprinkles
 sprinted
 sprinters
+sprints
 sprite
 spritsails
 spritzed
@@ -48788,6 +48820,7 @@ stupendous
 stupendousness
 stupes
 stupidities
+stupor
 sturdier
 sturdies
 sturdinesses
@@ -52210,6 +52243,7 @@ treatises
 treatment
 treatments
 treaty
+trebbiano
 trebbianos
 trebled
 trebling
@@ -55339,6 +55373,7 @@ viricidal
 viricides
 viridescent
 viridians
+viridities
 viridity
 virilizes
 virion
