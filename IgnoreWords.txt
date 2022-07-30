@@ -4195,6 +4195,7 @@ befuddlement
 beg
 begat
 begaze
+begazes
 begets
 beggaries
 beggarly
@@ -9188,6 +9189,7 @@ coheir
 coheiress
 coheirs
 cohere
+coherence
 coherences
 coherencies
 cohesions
@@ -9878,6 +9880,7 @@ confronting
 confuse
 confusedly
 confusednesses
+confusing
 confutes
 congas
 conge
@@ -12306,6 +12309,7 @@ decolletages
 decolonization
 decolorized
 decoloured
+decommissioning
 decompensated
 decomposability
 decompose
@@ -14907,6 +14911,7 @@ druggie
 druggier
 druggist
 druggy
+drugmaker
 drugmakers
 drumbeaters
 drumbeating
@@ -22656,6 +22661,7 @@ heth
 hets
 heuristics
 hew
+hewable
 hewed
 hex
 hexachords
@@ -23164,6 +23170,7 @@ hornbeams
 hornbill
 hornblende
 hornbooks
+hornet
 hornier
 horniest
 horniness
@@ -24341,6 +24348,7 @@ inarticulacy
 inarticulately
 inarticulates
 inartistic
+inartistically
 inattention
 inattentions
 inattentively
@@ -25133,6 +25141,7 @@ instauration
 insteps
 instigate
 instigation
+instiller
 instillers
 instillments
 instills
@@ -26217,6 +26226,7 @@ jimper
 jimpest
 jimsonweed
 jingko
+jingle
 jingling
 jingoisms
 jingoist
@@ -26943,6 +26953,7 @@ kookie
 kookinesses
 kooks
 kopeck
+kopecks
 koph
 kopjes
 koppa
@@ -28117,6 +28128,7 @@ literations
 literator
 literature
 literatus
+liters
 lithemia
 lithenesses
 lither
@@ -30613,6 +30625,7 @@ misevaluated
 misfeasance
 misfeeding
 misfields
+misfile
 misfiled
 misfiling
 misfire
@@ -32095,6 +32108,7 @@ nave
 navel
 navelworts
 navicert
+navigation
 navigational
 navigators
 navy
@@ -32203,6 +32217,7 @@ neighbour
 neighbouring
 neighing
 nektonic
+nelson
 nelsons
 nelumbium
 nelumbiums
@@ -32269,6 +32284,7 @@ nerdier
 nerdiest
 nerdy
 nerol
+nervelessnesses
 nervier
 nerviest
 nervines
@@ -32685,6 +32701,7 @@ nonchurchgoers
 noncitizens
 nonclasses
 nonclassroom
+nonclinical
 nonclogging
 noncoherent
 noncola
@@ -33037,6 +33054,7 @@ nonsuited
 nonsuiting
 nonsyllabic
 nonsystem
+nontalker
 nontalkers
 nontarget
 nontaxable
@@ -34753,6 +34771,7 @@ overdubbing
 overdyed
 overdyeing
 overdyer
+overeater
 overedit
 overedited
 overediting
@@ -37669,6 +37688,7 @@ plumelets
 plumerias
 plumes
 plumier
+plumiped
 plummet
 plummiest
 plummy
@@ -37889,6 +37909,7 @@ polychetes
 polychotomous
 polychotomy
 polychromy
+polycythemia
 polycythemias
 polydactylies
 polydactyly
@@ -39743,6 +39764,7 @@ pugilist
 pugilists
 pugnacious
 pugnaciously
+pugrees
 puisne
 puisnes
 puissances
@@ -40047,6 +40069,7 @@ pyromorphites
 pyrones
 pyronines
 pyrophoric
+pyrophosphate
 pyrosises
 pyrostats
 pyrotechnic
@@ -40151,6 +40174,7 @@ quantal
 quantifies
 quanting
 quantitate
+quantitating
 quantitation
 quantitative
 quantities
@@ -47325,6 +47349,7 @@ spancel
 spancelled
 spancelling
 spandex
+spandrels
 spang
 spangle
 spangles
@@ -49019,6 +49044,7 @@ subnuclear
 suboptimization
 suboptimize
 suboptimizes
+suboptimum
 suborbicular
 suborder
 subordinately
@@ -50827,6 +50853,7 @@ termitary
 termite
 termitic
 termly
+terms
 termtimes
 ternary
 ternate
@@ -51257,6 +51284,7 @@ thunderbirds
 thunderbolts
 thunderclaps
 thunderclouds
+thunderstone
 thunderstones
 thunderstricken
 thunderstruck
@@ -51876,6 +51904,7 @@ toyshops
 trabeate
 trabeation
 trabeculate
+traceabilities
 traceability
 traceable
 traced
@@ -52070,6 +52099,7 @@ transmits
 transmittances
 transmitted
 transmitters
+transmogrified
 transmogrifies
 transmutative
 transnational
@@ -52913,6 +52943,7 @@ twixt
 two
 twofer
 twofold
+twoonie
 twoonies
 twosome
 tycoon
@@ -54593,6 +54624,7 @@ urger
 urging
 urial
 uric
+uricotelic
 uridines
 urinalyses
 urinalysis
@@ -55416,6 +55448,7 @@ vivider
 vivified
 vivifier
 vivifies
+vivify
 viviparity
 viviparously
 vivisect
@@ -56139,6 +56172,7 @@ whilom
 whilst
 whimbrel
 whimbrels
+whimpered
 whimpering
 whimpers
 whims
@@ -57191,6 +57225,7 @@ zoosporangium
 zoosterol
 zootomic
 zootomist
+zootomy
 zoril
 zorilla
 zorillas
