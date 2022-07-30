@@ -911,6 +911,7 @@ aides
 aidful
 aiglet
 aiglets
+aigret
 aigrette
 ailanthus
 ailurophobe
@@ -4127,6 +4128,7 @@ bedroom
 bedrugged
 beds
 bedsheets
+bedsides
 bedsits
 bedsonias
 bedsprings
@@ -4161,6 +4163,7 @@ beekeepers
 beekeepings
 beelike
 beeline
+beelined
 beelines
 beelining
 been
@@ -4374,6 +4377,7 @@ benthons
 bentonitic
 benumbed
 benumbing
+benzaldehydes
 benzidin
 benzidines
 benzidins
@@ -7896,6 +7900,7 @@ chastens
 chaster
 chastest
 chastise
+chastities
 chatchke
 chateaubriand
 chatelaine
@@ -11217,6 +11222,7 @@ croon
 crooners
 cropped
 croppers
+croppie
 cropping
 crops
 croqueted
@@ -14050,6 +14056,7 @@ dispart
 disparting
 dispassion
 dispassionate
+dispassionately
 dispatch
 dispatchers
 dispel
@@ -15695,6 +15702,7 @@ embankments
 embanks
 embarcaderos
 embargo
+embargoes
 embargoing
 embark
 embarkations
@@ -16475,6 +16483,7 @@ epistolary
 epistolers
 epistyles
 epitaphic
+epitases
 epitaxially
 epithelial
 epithelialize
@@ -16664,6 +16673,7 @@ escapologies
 escapologist
 escar
 escarped
+eschalot
 eschalots
 eschatology
 escheatable
@@ -16813,6 +16823,7 @@ ethylenic
 ethyne
 ethynyls
 etiolating
+etiolation
 etiolations
 etiologic
 etiologically
@@ -18917,6 +18928,7 @@ folksiness
 folksong
 folkway
 follicular
+folliculitis
 folliculitises
 follies
 follow
@@ -19044,6 +19056,7 @@ forecasters
 forechecked
 forechecks
 foreclosure
+foreclosures
 foredate
 foredated
 foredeck
@@ -19549,6 +19562,7 @@ frostwork
 frostworks
 froth
 frothiest
+frothinesses
 frothing
 frothy
 frotteur
@@ -22853,6 +22867,7 @@ histone
 historic
 historicizing
 historiographer
+historiography
 history
 histrionics
 hitchhiker
@@ -24983,6 +24998,7 @@ initiative
 initiatory
 injectables
 injection
+injective
 injector
 injectors
 injudiciously
@@ -28101,6 +28117,7 @@ lipolyses
 lipolytic
 liposuctions
 lipotropies
+lipotropy
 lippened
 lippering
 lippers
@@ -32090,6 +32107,7 @@ nasalised
 nasalizations
 nasalized
 nascency
+nascent
 naseberry
 nastiest
 nastily
@@ -32604,6 +32622,7 @@ nobblers
 nobby
 nobility
 noble
+nobleman
 nobody
 nobs
 nocked
@@ -32853,6 +32872,7 @@ nonfading
 nonfamilies
 nonfamily
 nonfarmer
+nonfattening
 nonfatty
 nonfeasance
 nonfeminists
@@ -37132,6 +37152,7 @@ pickaroon
 pickaroons
 pickaxe
 pickaxed
+picked
 picker
 pickerels
 pickerelweeds
@@ -37398,6 +37419,7 @@ piroplasma
 piroplasmata
 piroques
 pirouetting
+pirozhki
 pirozhok
 pis
 piscine
@@ -40049,6 +40071,7 @@ pyaemias
 pyaemic
 pyas
 pycnometer
+pycnoses
 pycnosis
 pycnotic
 pyelonephritic
@@ -40169,6 +40192,7 @@ quadratic
 quadratics
 quadrats
 quadrature
+quadratures
 quadrennia
 quadrennium
 quadricep
@@ -40364,6 +40388,7 @@ quintuplet
 quintuplicate
 quintupling
 quippiest
+quips
 quipster
 quipsters
 quire
@@ -41855,6 +41880,7 @@ reinter
 reinterprets
 reinters
 reinterviews
+reintroduced
 reintroduction
 reinvent
 reinvented
@@ -41983,6 +42009,7 @@ relubricated
 relubricating
 relubrication
 relubrications
+reluct
 reluctance
 reluctant
 reluctate
@@ -42859,6 +42886,7 @@ reutilizations
 reutilizes
 reutter
 reuttered
+reutters
 revaccinate
 revaccinating
 revalidated
@@ -43112,6 +43140,7 @@ ribozyme
 ribs
 ribworts
 ricebird
+ricercar
 ricercari
 richen
 richened
@@ -44292,6 +44321,7 @@ saved
 savers
 savin
 savine
+saving
 saviors
 savorer
 savories
@@ -48233,6 +48263,7 @@ steamed
 steamered
 steamers
 steamfitter
+steamier
 steamiest
 steaminess
 steamroll
@@ -50790,6 +50821,7 @@ temporizes
 temps
 tempt
 temptations
+tempted
 tempter
 tempting
 tenability
@@ -51027,6 +51059,7 @@ tewed
 textbooks
 textile
 textless
+textuaries
 textuary
 texture
 textures
@@ -53424,6 +53457,7 @@ uncloaking
 unclog
 unclogs
 unclosed
+unclosing
 unclothed
 uncloud
 unclouding
@@ -53828,6 +53862,7 @@ unfroze
 unfrozen
 unfurling
 unfurls
+unfussy
 ungainlinesses
 ungalled
 ungazing
