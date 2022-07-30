@@ -2881,6 +2881,7 @@ asteria
 asterias
 asteriated
 asterisk
+asterisked
 asterisks
 asterism
 asternal
@@ -4065,6 +4066,7 @@ becrimes
 becriming
 becrowding
 becrowds
+becrust
 becrusting
 becudgeled
 becudgelled
@@ -7149,6 +7151,7 @@ carnalities
 carnallites
 carnassial
 carnaubas
+carnivorous
 carnotites
 caroche
 caroches
@@ -7267,6 +7270,7 @@ casserole
 cassia
 cassimeres
 cassino
+cassowary
 castability
 castable
 castanet
@@ -12233,6 +12237,7 @@ decidua
 deciduae
 deciduas
 deciduate
+decigrams
 decile
 deciliter
 decillion
@@ -14111,6 +14116,7 @@ disserve
 disserved
 disserviceable
 disses
+disseverance
 disseverances
 dissevering
 dissidences
@@ -15181,6 +15187,7 @@ earphone
 earpiece
 earplugs
 earringed
+earrings
 ears
 earshots
 earsplitting
@@ -18735,6 +18742,7 @@ fluoridations
 fluorimeter
 fluorimetric
 fluorimetries
+fluorinates
 fluorination
 fluorine
 fluorines
@@ -20562,6 +20570,7 @@ glazier
 glaziers
 glaziery
 glazily
+glazing
 glazings
 gleam
 gleamer
@@ -23045,6 +23054,7 @@ honkies
 honorableness
 honorably
 honorand
+honorary
 honored
 honoree
 honorer
@@ -23646,6 +23656,7 @@ hypnologies
 hypnology
 hypnopompic
 hypnoses
+hypnotherapist
 hypnotherapists
 hypnotically
 hypnotizable
@@ -23673,6 +23684,7 @@ hypoing
 hypokalemia
 hypokalemic
 hypomagnesemia
+hypomanic
 hypomorph
 hypomorphs
 hyponasty
@@ -26732,6 +26744,7 @@ kinetic
 kinetically
 kineticists
 kinetins
+kinfolk
 kingbirds
 kingbolts
 kingfisher
@@ -31851,6 +31864,7 @@ mysosts
 mystagogies
 mystagogue
 mysteriously
+mystery
 mystically
 mysticete
 mysticetes
@@ -34812,6 +34826,7 @@ overissuing
 overjoyed
 overkill
 overkilled
+overkind
 overlaboring
 overlade
 overladen
@@ -36012,6 +36027,7 @@ peartness
 peartnesses
 pearwoods
 peasantries
+peasants
 peascod
 pease
 peashooters
@@ -36649,6 +36665,7 @@ pharmacologist
 pharmacologists
 pharmacology
 pharmacopeial
+pharmacopoeias
 pharming
 pharos
 pharyngals
@@ -41105,6 +41122,7 @@ recouping
 recoupment
 recoups
 recourses
+recovery
 recrate
 recrates
 recreancy
@@ -41134,6 +41152,7 @@ rectitude
 rectitudinous
 recto
 rectocele
+rectories
 rectors
 rectory
 rectrix
@@ -42758,6 +42777,7 @@ reverenced
 reverencer
 reverencers
 reverences
+reverencing
 reverential
 reverers
 reverie
@@ -44108,6 +44128,7 @@ saunaed
 saunter
 saunters
 saurels
+sauries
 saurischian
 saurischians
 sauropods
@@ -44181,6 +44202,7 @@ scabbling
 scabby
 scabietic
 scabrousnesses
+scad
 scaffoldings
 scaffolds
 scag
@@ -46480,6 +46502,7 @@ slouchers
 slouchier
 slouchiest
 slouchily
+slouching
 sloughs
 slovenlier
 slovenly
@@ -46906,6 +46929,7 @@ softballer
 softcore
 softcover
 soften
+softener
 softens
 softheaded
 softies
@@ -48149,6 +48173,7 @@ stenotherm
 stenotherms
 stenotypist
 stenotypy
+step
 stepbrothers
 stepdaughters
 stepfathers
@@ -48985,6 +49010,7 @@ subscribing
 subscriptions
 subsecretary
 subsectors
+subsegments
 subsense
 subsenses
 subsequences
@@ -50604,6 +50630,7 @@ temporalized
 temporalizing
 temporals
 temporaries
+temporarily
 temporise
 temporises
 temporize
@@ -50678,6 +50705,7 @@ tentativeness
 tentatives
 tented
 tenter
+tentered
 tenterhooks
 tenters
 tenths
@@ -50934,6 +50962,7 @@ there
 thereafter
 thereat
 therein
+thereinafter
 thereon
 thermalization
 thermel
@@ -51104,6 +51133,7 @@ threepence
 threeping
 threesomes
 threnodist
+threonines
 thresher
 thriftily
 thriftinesses
@@ -51224,6 +51254,7 @@ tickings
 tickles
 ticklish
 ticklishnesses
+ticktacktoe
 ticktocked
 tictac
 tictacking
@@ -52415,6 +52446,7 @@ tropic
 tropicals
 tropics
 tropine
+tropines
 tropism
 tropologies
 tropology
@@ -53859,6 +53891,7 @@ unmatured
 unmediated
 unmelted
 unmemorably
+unmended
 unmeshed
 unmeshes
 unmew
@@ -53976,6 +54009,7 @@ unravels
 unrazed
 unreached
 unreadiest
+unreadily
 unreal
 unreality
 unrealized
@@ -54837,6 +54871,7 @@ veinule
 veinules
 velamen
 velar
+velaria
 velarization
 velarizing
 velate
