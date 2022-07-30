@@ -4744,6 +4744,7 @@ biographee
 biographic
 biographically
 biohazard
+bioherm
 biologist
 biolytic
 biomarkers
@@ -6417,6 +6418,7 @@ butterburs
 butterfingers
 butterflied
 butterflies
+butterfly
 butterflyers
 butterflying
 butterier
@@ -9306,6 +9308,7 @@ collides
 colliding
 collie
 collier
+colliery
 collieshangies
 collimates
 collimations
@@ -14344,6 +14347,7 @@ doggednesses
 doggerel
 doggeries
 doggiest
+doggoneder
 doggoner
 dogie
 dogleg
@@ -15262,6 +15266,7 @@ echt
 eclairs
 eclampsia
 eclampsias
+eclamptic
 eclats
 eclectic
 eclipse
@@ -15630,6 +15635,7 @@ emanator
 emancipate
 emancipated
 emancipates
+emancipating
 emancipationist
 emasculate
 emasculations
@@ -16930,6 +16936,7 @@ evonymus
 evulsed
 evulsing
 evulsions
+evzone
 ewe
 ewes
 exactable
@@ -17174,6 +17181,7 @@ expanse
 expansible
 expansional
 expansionists
+expansivenesses
 expat
 expatiate
 expatiated
@@ -18526,6 +18534,7 @@ fleetnesses
 flehmens
 fleishig
 flemishes
+flemishing
 flenching
 flensing
 flesh
@@ -18747,6 +18756,7 @@ flurry
 flushable
 flushes
 flusteredly
+fluted
 flutter
 flutterboard
 flutterer
@@ -19304,6 +19314,7 @@ fraternity
 fraternizations
 fraternizer
 fraternizers
+fraternizing
 frauds
 fraught
 fraulein
@@ -20161,6 +20172,7 @@ gen
 gendarmes
 gender
 gendering
+genderizes
 genders
 genealogically
 generalised
@@ -21700,6 +21712,7 @@ haemoid
 haems
 haen
 haet
+haffit
 hafizes
 haft
 haftarah
@@ -22484,6 +22497,7 @@ herbicidally
 herbier
 herbiest
 herbivory
+herbs
 herby
 herculean
 herd
@@ -26295,6 +26309,7 @@ jugate
 juggernauts
 juggler
 jugglers
+jugglery
 jugglings
 jughead
 jugs
@@ -27311,6 +27326,7 @@ laticifers
 latifundio
 latifundios
 latillas
+latinization
 latinized
 latinizing
 latitude
@@ -27921,6 +27937,7 @@ lindanes
 linden
 lindens
 lindies
+lindy
 lineable
 lineality
 lineally
@@ -29305,6 +29322,7 @@ matchwood
 matelasses
 matelotes
 matelots
+materialises
 materialist
 materialities
 materialize
@@ -31948,6 +31966,7 @@ narcissists
 narcoleptic
 narcoma
 narcos
+narcose
 narcotically
 narcotizing
 narcs
@@ -32245,6 +32264,7 @@ neuroblastomata
 neurochemical
 neurocoel
 neurohormonal
+neurohumor
 neurohumoral
 neurohypophyses
 neurohypophysis
@@ -37754,6 +37774,7 @@ politesse
 politicalize
 politicalized
 politically
+politicians
 politicised
 politicises
 politicize
@@ -39642,6 +39663,7 @@ puerperia
 puerperium
 puff
 puffer
+puffiest
 puffily
 pugaree
 puggarees
@@ -40009,6 +40031,7 @@ quadraphonic
 quadrate
 quadrates
 quadratic
+quadratics
 quadrats
 quadrature
 quadrennia
@@ -40142,6 +40165,7 @@ question
 questionary
 questioned
 questionnaire
+quests
 quetzales
 quetzals
 queueing
@@ -40557,6 +40581,7 @@ rataplans
 ratatat
 ratatouille
 ratbag
+ratcheted
 rateably
 ratels
 ratepayer
@@ -46345,6 +46370,7 @@ sleeknesses
 sleeky
 sleepiest
 sleepings
+sleepwalked
 sleepwear
 sleepyheads
 sleetier
@@ -47939,6 +47965,7 @@ stapes
 staph
 staphs
 staphylinid
+staple
 star
 starboarding
 starboards
@@ -48754,6 +48781,7 @@ subcortex
 subcortexes
 subcostals
 subcounties
+subcrustal
 subcultured
 subcutis
 subcutises
@@ -50155,6 +50183,7 @@ taluses
 tam
 tamable
 tamale
+tamals
 tamaraos
 tamarind
 tamarinds
@@ -50701,6 +50730,7 @@ terminal
 terminations
 terminator
 terminators
+termini
 terminologies
 termitaria
 termitarium
@@ -50968,6 +50998,7 @@ thickets
 thickhead
 thicknesses
 thicksets
+thieved
 thievery
 thievishness
 thigmotaxes
@@ -52395,6 +52426,7 @@ troth
 trotters
 trotting
 trotyls
+troubadour
 troublemakers
 troublemaking
 troubles
@@ -52812,6 +52844,7 @@ typewriter
 typhlitic
 typhlitis
 typhlitises
+typhoidal
 typhoons
 typhose
 typhous
@@ -53101,6 +53134,7 @@ unbottle
 unbottling
 unbowdlerized
 unbowed
+unbraces
 unbracing
 unbraided
 unbraids
@@ -55722,6 +55756,7 @@ waterlily
 waterlogging
 waterlogs
 watermark
+waterproofers
 waterproofness
 watersheds
 watersides
