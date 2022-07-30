@@ -1121,6 +1121,7 @@ allantoin
 allantois
 allayed
 allee
+allegedly
 alleger
 allegorically
 allegoricalness
@@ -3000,6 +3001,7 @@ atomize
 atomized
 atomizer
 atomizing
+atonalism
 atonalisms
 atonally
 atone
@@ -4264,6 +4266,7 @@ belauds
 belay
 belayed
 belayer
+belays
 belch
 beldam
 beldames
@@ -4670,6 +4673,7 @@ bilbo
 bilbos
 bilby
 bildungsroman
+bilevel
 bilharziases
 biliary
 bilk
@@ -5040,6 +5044,7 @@ blastodiscs
 blastomycoses
 blastopore
 blastospores
+blastulae
 blastulas
 blastulations
 blatancy
@@ -7510,6 +7515,7 @@ caving
 cavitary
 cavitations
 cavorts
+cayman
 caymans
 cayuse
 caziques
@@ -13075,6 +13081,7 @@ desilver
 desilvering
 desinences
 desinent
+desipramines
 desirableness
 desirables
 desiring
@@ -13555,6 +13562,7 @@ dilation
 dilative
 dilatometer
 dilatometers
+dilatometric
 dilatometries
 dilatometry
 dilatoriness
@@ -16444,6 +16452,7 @@ epidemiologic
 epidemiologies
 epidemiologists
 epidermic
+epiderms
 epidote
 epifaunas
 epigenetically
@@ -16559,6 +16568,7 @@ equines
 equinoctial
 equinox
 equinoxes
+equipoises
 equipollence
 equipollent
 equipollently
@@ -19506,6 +19516,7 @@ friendless
 friendlier
 friendship
 frier
+friers
 friezelike
 friezes
 frigates
@@ -20821,6 +20832,7 @@ glycosyl
 glycosylated
 glycosylating
 glycosylations
+glyph
 gnarlier
 gnarls
 gnarr
@@ -21035,6 +21047,7 @@ gouged
 gouges
 goulash
 goulashes
+gourami
 gourdes
 gourmandises
 gourmandisms
@@ -25157,6 +25170,7 @@ insheaths
 inshrined
 inside
 insider
+insidiousnesses
 insight
 insightful
 insignias
@@ -25243,6 +25257,7 @@ insufficiency
 insufficient
 insufficiently
 insufflate
+insufflation
 insufflations
 insufflator
 insulants
@@ -27081,6 +27096,7 @@ kuna
 kunzites
 kurbash
 kurrajongs
+kurtas
 kvas
 kvases
 kvass
@@ -27579,6 +27595,7 @@ leader
 leadiest
 leadman
 leadoff
+leads
 leadscrew
 leadscrews
 leadsmen
@@ -33383,6 +33400,7 @@ numerologist
 numerology
 numerously
 numerousness
+nummary
 nummular
 nun
 nunchakus
@@ -34137,6 +34155,7 @@ orismological
 orismology
 orle
 orles
+orlons
 ormolus
 ornamental
 ornamentally
@@ -34684,6 +34703,7 @@ outthought
 outthrobbed
 outthrown
 outtowering
+outtrade
 outtrading
 outtraveled
 outtrick
@@ -35958,6 +35978,7 @@ paseo
 pasha
 pashadom
 pashalik
+pashminas
 pasodoble
 pasquil
 pasquils
@@ -36108,6 +36129,7 @@ paunched
 paunchier
 paunchinesses
 paunchy
+paupering
 pauperize
 pauperized
 pausal
@@ -37262,6 +37284,7 @@ piefort
 pieplant
 pier
 pierces
+pierogies
 pierrots
 pies
 pieta
@@ -37711,6 +37734,7 @@ pleasurableness
 pleasureless
 pleasures
 pleaters
+pleather
 pleats
 pleb
 plebeianism
@@ -38611,6 +38635,7 @@ precensoring
 precensors
 precenting
 preceptors
+precesses
 precessing
 precession
 precessional
@@ -40128,6 +40153,7 @@ pycnotic
 pyelonephritic
 pyelonephritis
 pyemia
+pyes
 pygmean
 pygmy
 pyins
@@ -40883,6 +40909,7 @@ rax
 raxing
 raya
 rayah
+rayahs
 razees
 razers
 razorback
@@ -43680,6 +43707,7 @@ rubbered
 rubberize
 rubberized
 rubberizes
+rubberlike
 rubbings
 rubbishes
 rubbling
@@ -44288,6 +44316,7 @@ saskatoons
 sassaby
 sassafrases
 sassinesses
+sassy
 sassywood
 satangs
 satanical
@@ -45200,6 +45229,7 @@ semilog
 semimat
 semimatt
 semimild
+semimoist
 semina
 seminar
 seminaries
@@ -45692,6 +45722,7 @@ sheepcot
 sheepdog
 sheepherder
 sheepherding
+sheepherdings
 sheepishnesses
 sheepshanks
 sheepskins
@@ -46366,6 +46397,7 @@ sixths
 sixty
 sizable
 sizablenesses
+sized
 sizes
 siziness
 sizzler
@@ -55428,6 +55460,7 @@ viewy
 vigil
 vigilante
 vigilantes
+vigilantism
 vigilantisms
 vignerons
 vignetters
@@ -55907,6 +55940,7 @@ wamblier
 wamefuls
 wammuses
 wampished
+wampumpeag
 wamuses
 wand
 wandered
@@ -57129,6 +57163,7 @@ yegg
 yeggs
 yelk
 yell
+yeller
 yelling
 yellowed
 yellowtail
