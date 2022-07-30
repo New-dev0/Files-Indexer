@@ -3113,6 +3113,7 @@ aurar
 aurated
 aurei
 aureolae
+aures
 auric
 auricle
 auricled
@@ -4644,6 +4645,7 @@ bilker
 bilkers
 billabongs
 billboarded
+billboarding
 billbugs
 billeter
 billets
@@ -5226,6 +5228,7 @@ boardsailing
 boardwalks
 boarfish
 boarhound
+boarts
 boas
 boaster
 boasting
@@ -6732,6 +6735,7 @@ camases
 camber
 cambia
 cambist
+cambium
 cambiums
 cambogia
 cambogias
@@ -10327,6 +10331,7 @@ coproduced
 coproducer
 coproduces
 coproduct
+coproductions
 coproducts
 coprophagy
 coprophiliac
@@ -13529,6 +13534,7 @@ diocese
 diodes
 dioecisms
 dioestruses
+diolefins
 dionysiac
 diopsides
 diopsidic
@@ -16083,6 +16089,7 @@ enroots
 ens
 ensanguines
 ensconce
+ensconcing
 enscrolled
 enscrolling
 enscrolls
@@ -16335,6 +16342,7 @@ epigrammatists
 epigrammatizer
 epigraph
 epigrapher
+epigraphers
 epigraphies
 epigraphy
 epigynies
@@ -17359,6 +17367,7 @@ extubating
 exuberances
 exuberated
 exudate
+exudations
 exude
 exuded
 exultances
@@ -17976,6 +17985,7 @@ feudatory
 feuded
 feuds
 feuilleton
+feuilletonism
 fever
 feverish
 feverwort
@@ -20966,6 +20976,7 @@ granddaughters
 grandest
 grandfather
 grandfatherly
+grandfathers
 grandiloquently
 grandiosity
 grandma
@@ -21555,6 +21566,7 @@ gymnast
 gymnastic
 gymnastically
 gymnasts
+gymnosophist
 gynaecea
 gynaecia
 gynaecium
@@ -23068,6 +23080,7 @@ horntail
 hornworm
 horological
 horologists
+horoscopy
 horrible
 horribly
 horrid
@@ -23648,6 +23661,7 @@ ibidem
 iceberg
 icebergs
 iceblink
+iceboat
 iceboating
 iceboatings
 icebreakers
@@ -23939,6 +23953,7 @@ immunoblotting
 immunochemical
 immunochemistry
 immunodeficient
+immunodiffusion
 immunogen
 immunogenetics
 immunogenic
@@ -24798,6 +24813,7 @@ inhibins
 inhibited
 inhibiter
 inhibiters
+inholder
 inhomogeneity
 inhomogeneous
 inhuman
@@ -27818,6 +27834,7 @@ limitation
 limitedly
 limitedness
 limiter
+limiters
 limitlessness
 limitlessnesses
 limits
@@ -28352,6 +28369,7 @@ lovelier
 lovelies
 lovelily
 loveliness
+lovelock
 lovelocks
 lovemaking
 lovemakings
@@ -29288,6 +29306,7 @@ maul
 mauler
 maulsticks
 maumet
+maumetries
 maun
 maund
 maunderers
@@ -29714,6 +29733,7 @@ mesenchymes
 mesentera
 mesenteron
 mesh
+meshier
 meshiest
 meshing
 meshugah
@@ -33083,6 +33103,7 @@ nudists
 nudities
 nudity
 nudzhed
+nuggets
 nuisances
 nuked
 nukes
@@ -36167,6 +36188,7 @@ percaline
 percalines
 perceivers
 perceiving
+percentage
 perceptional
 perceptive
 perceptively
@@ -36794,6 +36816,7 @@ phreatic
 phreatophytic
 phrenology
 phthalate
+phthalein
 phthalocyanine
 phthisic
 phthisical
@@ -39726,6 +39749,7 @@ purpure
 purpurin
 purr
 purring
+pursed
 purselike
 purser
 pursers
@@ -40519,6 +40543,7 @@ raunchiness
 ravagements
 ravager
 rave
+raved
 ravel
 raveller
 ravened
@@ -46603,6 +46628,7 @@ snob
 snobbery
 snobby
 snog
+snogged
 snood
 snooded
 snook
@@ -47596,6 +47622,7 @@ spumy
 spunk
 spunkies
 spunkily
+spunkiness
 spunks
 spur
 spurgall
@@ -48948,6 +48975,7 @@ subvocalize
 subway
 subwayed
 subwriter
+subzero
 subzones
 succah
 succahs
@@ -49068,6 +49096,7 @@ sulfurated
 sulfureted
 sulfuretted
 sulfuring
+sulfurize
 sulfurized
 sulfurousnesses
 sulfuryls
@@ -49779,6 +49808,7 @@ synched
 synchroneities
 synchronic
 synchronically
+synchronicities
 synchronies
 synchronises
 synchronism
@@ -52735,6 +52765,7 @@ ubiquities
 ubiquitous
 ubiquitousness
 udometer
+ufological
 ufologies
 ufologists
 ufology
@@ -52745,6 +52776,7 @@ uglifier
 uglifiers
 uglify
 ugsome
+uhlans
 uintaites
 uitlanders
 ukase
@@ -52908,6 +52940,7 @@ unappealingly
 unappeasably
 unappetizing
 unappropriated
+unarguably
 unarmed
 unarrogant
 unaspirated
@@ -53820,6 +53853,7 @@ unreally
 unreason
 unreasoningly
 unrebuked
+unreconcilable
 unreconstructed
 unrecoverable
 unrecovered
@@ -56479,6 +56513,7 @@ writer
 writerly
 writers
 writhen
+writhers
 writs
 written
 wrongdoers
