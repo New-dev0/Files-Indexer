@@ -319,6 +319,7 @@ acidulates
 acidulation
 acidy
 acierated
+acierating
 aciform
 acinar
 acing
@@ -768,6 +769,7 @@ aftercares
 afterclap
 afterdeck
 afterglow
+afterlife
 afterlives
 aftermarkets
 aftermaths
@@ -2809,6 +2811,7 @@ assagai
 assagais
 assai
 assailable
+assailant
 assailed
 assailing
 assais
@@ -3486,6 +3489,7 @@ backlight
 backlist
 backlisted
 backlit
+backloading
 backloads
 backmost
 backouts
@@ -3984,6 +3988,7 @@ bayard
 bayards
 bayberries
 bayberry
+bayonetted
 bayou
 bays
 bazar
@@ -6798,6 +6803,7 @@ calpac
 calpacks
 calpacs
 calqued
+calthrops
 caltrap
 calumniated
 calumniations
@@ -7744,6 +7750,7 @@ cess
 cessation
 cessations
 cessed
+cessing
 cesspit
 cestodes
 cestos
@@ -9215,6 +9222,7 @@ coeternal
 coeval
 coevolution
 coevolutionary
+coevolved
 coexecutor
 coexisted
 coexistent
@@ -10955,6 +10963,7 @@ cowhided
 cowier
 cowlicks
 cowlings
+cowmen
 cowpat
 cowriting
 cowrote
@@ -13894,6 +13903,7 @@ discernibly
 discerning
 discernment
 discernments
+discharge
 dischargee
 dischargees
 discharger
@@ -15627,6 +15637,7 @@ eighteen
 eighties
 eights
 eightvo
+eikons
 einkorn
 einsteins
 eirenic
@@ -16981,6 +16992,7 @@ eudaemonism
 eudaemonisms
 eudaimonism
 eudemon
+eudemons
 eudiometer
 eudiometers
 eudiometric
@@ -17627,6 +17639,7 @@ eyebrows
 eyefolds
 eyehooks
 eyelets
+eyeletted
 eyeletting
 eyelike
 eyepoppers
@@ -17889,6 +17902,7 @@ faro
 farolito
 farouche
 farrago
+farrier
 farrieries
 farriers
 farsides
@@ -19601,6 +19615,7 @@ freshwaters
 fresnel
 fret
 fretful
+fretsaws
 fretted
 fretters
 fretting
@@ -20748,6 +20763,7 @@ glamorizes
 glamorousness
 glamorousnesses
 glamors
+glamoured
 glamourous
 glamours
 glancers
@@ -24044,6 +24060,7 @@ ideologue
 ideologues
 ideophones
 ides
+idioblast
 idiom
 idiomatically
 idiomorphic
@@ -24113,6 +24130,7 @@ illiberality
 illiberalness
 illicitly
 illimitable
+illimitableness
 illimitably
 illiquid
 illite
@@ -24159,6 +24177,7 @@ imaginably
 imaginary
 imagination
 imaginativeness
+imagine
 imaginer
 imagism
 imamates
@@ -27944,6 +27963,7 @@ lesion
 lesioning
 lessee
 letch
+letdowns
 lethalities
 lethally
 lethargy
@@ -29340,6 +29360,7 @@ manically
 manicured
 manicures
 manifest
+manifestation
 manifested
 manifester
 manifestly
@@ -30349,6 +30370,7 @@ microcassette
 microclimate
 micrococcal
 micrococci
+micrococcus
 microcode
 microcomputers
 microcopy
@@ -31762,6 +31784,7 @@ movelessly
 moviedom
 moviegoers
 moviegoing
+moviemaking
 moving
 moviola
 mow
@@ -33405,6 +33428,7 @@ normalise
 normalities
 normality
 normalizers
+normalizes
 normals
 normativeness
 normless
@@ -37096,6 +37120,7 @@ phenotypical
 phenotypically
 phenoxide
 phenoxides
+phentolamine
 phentolamines
 phenylalanines
 phenylbutazone
@@ -39103,6 +39128,7 @@ prenticing
 prenumbers
 preobtain
 preoccupancy
+preopening
 preordainments
 preordering
 prepackage
@@ -42659,6 +42685,7 @@ reprobing
 reprocess
 reprocessing
 reproducer
+reproducibles
 reproducing
 reproductives
 reprogrammable
@@ -42983,6 +43010,7 @@ restoked
 restoral
 restorals
 restoratives
+restores
 restrainedly
 restrainer
 restraints
@@ -46727,6 +46755,7 @@ skim
 skimboard
 skimboards
 skimmers
+skimobile
 skimobiles
 skimos
 skimp
@@ -47267,6 +47296,7 @@ snippetiest
 snippety
 snippier
 snippiest
+snit
 snitcher
 sniveler
 sniveling
@@ -49291,6 +49321,7 @@ suballocations
 subaltern
 subantarctic
 subaqueous
+subarachnoidal
 subarctic
 subarctics
 subas
@@ -51032,6 +51063,7 @@ teawares
 teazelling
 teazled
 teazling
+teched
 techies
 techiest
 technetium
@@ -54767,6 +54799,7 @@ unspectacular
 unsphere
 unsphering
 unspoken
+unsportsmanlike
 unsprayed
 unsprung
 unstableness
@@ -54842,6 +54875,7 @@ untied
 untillable
 untilled
 untimed
+untimely
 untimeous
 untiringly
 unto
@@ -55901,6 +55935,7 @@ visiter
 visiting
 visored
 visorless
+vista
 visualists
 visualities
 visualizations
