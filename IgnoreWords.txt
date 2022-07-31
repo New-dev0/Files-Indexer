@@ -3564,6 +3564,7 @@ bafflegab
 bafflements
 bafflingly
 bagatelle
+bagful
 bagged
 baggies
 bagginess
@@ -3691,6 +3692,7 @@ bandores
 bandsaws
 bandshells
 bandwidth
+bandy
 bandying
 banefully
 bang
@@ -5138,6 +5140,7 @@ blethered
 blights
 blimy
 blind
+blindness
 blindsided
 blindworms
 blini
@@ -7425,6 +7428,7 @@ catarrhines
 catastrophe
 catastrophisms
 catboats
+catbrier
 catcall
 catcalling
 catchall
@@ -7713,6 +7717,7 @@ cercaria
 cercarians
 cercises
 cere
+cerebella
 cerebellum
 cerebration
 cerebroside
@@ -8372,6 +8377,7 @@ chorea
 choreas
 choreatic
 choreic
+choremen
 choreographies
 choreography
 chorial
@@ -9315,6 +9321,7 @@ coigns
 coilers
 coin
 coinable
+coinage
 coincidence
 coincides
 coinfected
@@ -10810,6 +10817,7 @@ counterattacked
 counterattacks
 counterbalance
 counterbid
+counterbids
 counterblast
 counterblasts
 counterblows
@@ -14452,6 +14460,7 @@ diwan
 dizening
 dizenment
 dizenments
+dizzy
 dizzying
 djellabahs
 djinn
@@ -15375,6 +15384,7 @@ earthborn
 earthbound
 earthiest
 earthing
+earthlight
 earthlights
 earthlike
 earthly
@@ -17368,6 +17378,7 @@ exonumists
 exonym
 exophthalmic
 exophthalmoses
+exophthalmuses
 exorbitances
 exorcise
 exorciser
@@ -18351,6 +18362,7 @@ figuratively
 figured
 figurer
 figurine
+figwort
 fil
 filagrees
 filamentous
@@ -20969,6 +20981,7 @@ glycine
 glycins
 glycogeneses
 glycols
+glyconics
 glycosidases
 glycosyl
 glycosylated
@@ -22573,6 +22586,7 @@ hedonic
 hedonist
 hedonists
 heeder
+heeders
 heedlessly
 heeds
 heehaw
@@ -23386,6 +23400,7 @@ hophead
 hoplites
 hoppiest
 hoppings
+hops
 hopsacking
 hopsacks
 hopscotched
@@ -27091,6 +27106,7 @@ kishke
 kismat
 kissable
 kissed
+kissers
 kissing
 kists
 kitchen
@@ -28921,6 +28937,7 @@ lurching
 lure
 lurers
 luridly
+luridnesses
 luring
 luringly
 lurk
@@ -29149,6 +29166,7 @@ magnetometry
 magnetopauses
 magnetos
 magnetosphere
+magnetospheric
 magnificat
 magnificently
 magnifier
@@ -29359,6 +29377,7 @@ mangels
 mangier
 manginess
 manginesses
+mangle
 mangled
 mangler
 mango
@@ -30742,6 +30761,7 @@ minuet
 minute
 minutely
 minuteman
+minuteness
 minuter
 minutia
 minutiae
@@ -30921,6 +30941,7 @@ miseducation
 misemphasize
 misemploy
 misemploying
+misenrolled
 misenrolling
 misenrolls
 miserableness
@@ -32696,6 +32717,7 @@ nevi
 nevus
 new
 newbies
+newcomers
 newer
 newfangled
 newish
@@ -32939,6 +32961,7 @@ nombrils
 nomen
 nomenclator
 nomenclatorial
+nomenclature
 nominal
 nominalists
 nominals
@@ -35245,6 +35268,7 @@ overjoyed
 overkill
 overkilled
 overkind
+overlabored
 overlaboring
 overlade
 overladen
@@ -38999,6 +39023,7 @@ preelectric
 preemergence
 preemergent
 preeminence
+preemployment
 preempted
 preemptions
 preemptive
@@ -39847,6 +39872,7 @@ proselytizes
 proselytizing
 proseminar
 prosencephalic
+proser
 prosier
 prosily
 prosody
@@ -40885,6 +40911,7 @@ radiometer
 radionuclides
 radiopaque
 radiophone
+radiophoto
 radioprotection
 radiosensitive
 radiotelemetric
@@ -41213,6 +41240,7 @@ reaccreditation
 reaccused
 reaccusing
 reacquaint
+reacquainting
 reacquaints
 reacquiring
 reacted
@@ -43201,6 +43229,7 @@ retreated
 retreater
 retreating
 retreats
+retrenches
 retrials
 retributory
 retries
@@ -45414,6 +45443,7 @@ seidels
 seigniorage
 seigniorages
 seigniors
+seigniory
 seignories
 seine
 seined
@@ -47237,6 +47267,7 @@ smutchy
 smuts
 smuttier
 smuttiest
+snacked
 snacker
 snackers
 snacks
@@ -48740,6 +48771,7 @@ stemmery
 stemming
 stemware
 stemwares
+stenchful
 stenchier
 stenciler
 stencilers
@@ -53943,6 +53975,7 @@ unconditionally
 unconfined
 unconformably
 unconformities
+unconfounded
 unconquerably
 unconscionably
 unconsciously
@@ -55027,6 +55060,7 @@ update
 updater
 updraft
 upflinging
+upflings
 upflow
 upgaze
 upgird
@@ -55681,6 +55715,7 @@ versal
 versatileness
 versatility
 verse
+verseman
 versifications
 versified
 versifier
