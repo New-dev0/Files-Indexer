@@ -1909,6 +1909,7 @@ anthropoid
 anthropologists
 anthropomorphs
 anthropophagies
+anthroposophies
 anti
 antiaggression
 antiaging
@@ -5345,6 +5346,7 @@ boardman
 boardrooms
 boards
 boardsailing
+boardsailors
 boardwalks
 boarfish
 boarhound
@@ -6571,6 +6573,7 @@ buttonholed
 buttonholer
 buttonholers
 buttonholes
+buttonhooks
 buttresses
 buttressing
 butts
@@ -6944,6 +6947,7 @@ cancerous
 cancha
 cancroid
 candelabrum
+candent
 candidature
 candider
 candidnesses
@@ -11779,6 +11783,7 @@ currant
 curriculum
 curriculums
 curried
+currier
 currieries
 curry
 currycombing
@@ -13059,6 +13064,7 @@ deorbiting
 deoxidation
 deoxidizers
 deoxidizes
+deoxygenate
 deoxygenates
 departing
 department
@@ -13908,6 +13914,7 @@ diquats
 directedness
 directer
 directionality
+directionless
 directives
 directness
 director
@@ -15469,6 +15476,7 @@ earlaps
 earldom
 earless
 earlier
+earlinesses
 earlock
 earlship
 early
@@ -16248,6 +16256,7 @@ endgame
 ending
 endited
 endleafs
+endlessness
 endnote
 endobiotic
 endocardial
@@ -17339,6 +17348,7 @@ exchanging
 excide
 exciding
 excimers
+excipients
 excised
 excises
 excision
@@ -19770,6 +19780,7 @@ fresher
 freshes
 freshing
 freshman
+freshmen
 freshwaters
 fresnel
 fret
@@ -20153,6 +20164,7 @@ gaggles
 gaggling
 gaging
 gagmen
+gagsters
 gahnite
 gaillardias
 gainable
@@ -21883,6 +21895,7 @@ guernsey
 guernseys
 guessable
 guesser
+guessers
 guesses
 guesstimate
 guesstimated
@@ -23641,6 +23654,7 @@ hospitalising
 hospitality
 hospitia
 hospodar
+host
 hostage
 hostages
 hostel
@@ -24719,6 +24733,7 @@ impulsion
 impulsive
 impulsiveness
 impurest
+impurities
 imputably
 imputatively
 impute
@@ -25790,6 +25805,7 @@ interlocking
 interlocutor
 interlooping
 interloops
+interlope
 interloped
 interlopers
 interloping
@@ -26024,6 +26040,7 @@ intuition
 intuitionist
 intumesce
 intumesced
+intumescent
 intumesces
 inturn
 intussuscepting
@@ -29213,6 +29230,7 @@ lyricize
 lyrisms
 lysed
 lysimeter
+lysimeters
 lysimetric
 lysin
 lysine
@@ -29248,6 +29266,7 @@ macerater
 macerates
 maceration
 macerator
+macerators
 macers
 mach
 maches
@@ -29906,6 +29925,7 @@ mateyness
 mateys
 mathematician
 mathematization
+mathematize
 mathematized
 mathematizes
 matilda
@@ -31722,6 +31742,7 @@ monorhymed
 monosaccharide
 monosomic
 monostich
+monostichs
 monostome
 monosyllabic
 monosyllable
@@ -33379,6 +33400,7 @@ nonentries
 nonequivalence
 nonequivalences
 nonerotic
+nonesuches
 nonethnic
 nonets
 nonevidences
@@ -35763,6 +35785,7 @@ ovonics
 ovotestis
 ovoviviparously
 ovulate
+ovulated
 ovulations
 ovule
 ovum
@@ -36009,6 +36032,7 @@ palladia
 palladium
 palladous
 pallet
+palleted
 palletised
 palletises
 palletization
@@ -39218,6 +39242,7 @@ precommitment
 precommitments
 precomputes
 preconceive
+preconceiving
 preconception
 precondition
 preconizes
@@ -40341,6 +40366,7 @@ pseudorandom
 pshawing
 pshaws
 psi
+psilocin
 psilophyte
 psilosis
 psilotic
@@ -41470,6 +41496,7 @@ rave
 raved
 ravel
 raveller
+raven
 ravened
 ravening
 ravenously
@@ -44720,6 +44747,7 @@ salts
 saltshakers
 saltwater
 saltwort
+salutarinesses
 salutary
 salutation
 salutatorian
@@ -45329,6 +45357,7 @@ scolder
 scolders
 scolices
 scolioma
+scollop
 scollops
 scolopendras
 sconcheons
@@ -47008,6 +47037,7 @@ sistrums
 sitarists
 sitcoms
 sites
+sithens
 siting
 sitology
 sitosterol
@@ -48666,6 +48696,7 @@ sprite
 spritsails
 spritzed
 spritzer
+spritzes
 sprocket
 sprouted
 sprouting
@@ -51105,6 +51136,7 @@ tags
 tahinis
 tahrs
 tahsildar
+tail
 tailbacks
 tailboards
 tailbone
@@ -51682,6 +51714,7 @@ tenpounder
 tens
 tense
 tensenesses
+tenser
 tensilities
 tensors
 tent
@@ -53247,6 +53280,7 @@ trichrome
 tricing
 trick
 trickie
+trickier
 trickily
 trickinesses
 trickish
@@ -53305,6 +53339,7 @@ trigraph
 trigraphs
 trigs
 trihedron
+trihybrid
 trijugate
 trijugous
 trilateral
