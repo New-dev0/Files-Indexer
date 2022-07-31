@@ -730,6 +730,7 @@ affirmatively
 affirmer
 affixable
 affixal
+affixers
 affixial
 affixment
 affixments
@@ -2030,6 +2031,7 @@ antinodes
 antinomian
 antinomianism
 antinomy
+antinovel
 antinovelist
 antinucleons
 antinuker
@@ -3519,6 +3521,7 @@ backspaced
 backspacing
 backstabbings
 backstage
+backstamped
 backstamps
 backstitches
 backstopping
@@ -3565,6 +3568,7 @@ baffing
 bafflegab
 bafflements
 bafflingly
+bag
 bagatelle
 bagful
 bagged
@@ -5434,6 +5438,7 @@ bolivianos
 bollard
 bollards
 bollixing
+bolloxes
 bolo
 bolognas
 bolographs
@@ -6283,6 +6288,7 @@ bulgur
 bulimia
 bulkage
 bulkheads
+bulkinesses
 bullace
 bullaces
 bullbriers
@@ -11288,6 +11294,7 @@ cripples
 crisp
 crispate
 crispbread
+crispen
 crispens
 crisper
 crispers
@@ -13317,6 +13324,7 @@ detoxified
 detoxifies
 detoxify
 detract
+detractively
 detractor
 detraining
 detrainments
@@ -13810,6 +13818,7 @@ dipodic
 dipped
 dipper
 dippier
+dippiest
 dippy
 dipsomania
 dipsomaniacs
@@ -15910,6 +15919,7 @@ emborders
 embosses
 embossing
 embossments
+embowed
 embowel
 emboweled
 emboweling
@@ -17607,6 +17617,7 @@ extirpators
 extol
 extolls
 extolment
+extorted
 extortionary
 extracellular
 extracted
@@ -21172,6 +21183,7 @@ goosegrasses
 gooseherds
 goosiest
 goosy
+gor
 gorbellies
 gorblimy
 gorcock
@@ -23615,6 +23627,7 @@ hueless
 huff
 huffed
 huffing
+hugely
 hugeous
 hugger
 hugs
@@ -24637,6 +24650,7 @@ inaugurate
 inaugurations
 inaugurators
 inauspiciously
+inboards
 inborn
 inbound
 inbounded
@@ -25270,6 +25284,7 @@ inlayer
 inlayers
 inlets
 inletting
+inlier
 inly
 inmate
 inmeshed
@@ -27150,6 +27165,7 @@ kitties
 kittler
 kittles
 kitty
+kiva
 klatches
 klatsch
 klaxon
@@ -27160,6 +27176,7 @@ kleptomaniac
 kleptos
 klezmers
 klicks
+klik
 klongs
 kludgiest
 klutziest
@@ -28391,6 +28408,7 @@ liposuctions
 lipotropies
 lipotropy
 lippened
+lippens
 lippering
 lippers
 lippiness
@@ -32200,6 +32218,7 @@ muttonfishes
 muttony
 mutualistic
 mutualists
+mutualities
 mutualize
 mutualizes
 mutular
@@ -33046,6 +33065,7 @@ nonbiting
 nonblack
 nonblacks
 nonbodies
+nonbody
 nonbonded
 nonbook
 nonbrand
@@ -35348,6 +35368,7 @@ overorchestrate
 overorganized
 overornamented
 overpack
+overpackage
 overpackages
 overpacked
 overpass
@@ -35645,6 +35666,7 @@ pacified
 pacifistically
 packabilities
 package
+packaged
 packager
 packed
 packers
@@ -39232,6 +39254,7 @@ preportioning
 prepositional
 prepositions
 prepositive
+preposterously
 prepotency
 prepotently
 preppiest
@@ -39322,6 +39345,7 @@ presidentships
 presider
 presidia
 presidiary
+presiding
 presidios
 presidiums
 presifts
@@ -40076,6 +40100,7 @@ psalmodic
 psalmodies
 psalms
 psalter
+pschent
 psephite
 psephites
 psephologist
@@ -42540,6 +42565,7 @@ renderers
 rendezvous
 rendition
 renditions
+rends
 renegading
 reneged
 reneger
@@ -43651,11 +43677,13 @@ rigorisms
 rigorist
 rigorousness
 rigorousnesses
+rigours
 rijstafels
 rijsttafel
 rikishas
 rilievi
 riling
+rille
 rimers
 riming
 rimless
@@ -45189,6 +45217,7 @@ scrofulas
 scrofulous
 scroggy
 scrolled
+scrolling
 scrolls
 scrollworks
 scrooch
@@ -47973,6 +48002,7 @@ specialisations
 specialising
 specialism
 specialisms
+specialities
 specialization
 specially
 specialty
@@ -48125,6 +48155,7 @@ spillage
 spilling
 spillover
 spillway
+spillways
 spilths
 spinach
 spinachy
@@ -49081,6 +49112,7 @@ stoup
 stoure
 stourie
 stoury
+stout
 stouten
 stoutening
 stoutens
@@ -51134,6 +51166,7 @@ teargas
 tearing
 tearless
 tearooms
+tearstain
 tearstains
 teas
 teasable
@@ -51418,6 +51451,7 @@ teratisms
 teratogenesis
 teratogenicity
 teratogens
+teratologic
 teratologist
 teratomas
 teratomata
@@ -53745,6 +53779,7 @@ umping
 umpire
 umpired
 umpires
+umps
 umpteenth
 umteenth
 unabashed
