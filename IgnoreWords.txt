@@ -1107,6 +1107,7 @@ alkaline
 alkalinization
 alkalise
 alkalises
+alkalising
 alkalized
 alkalizer
 alkalizing
@@ -2534,6 +2535,7 @@ ardor
 arduously
 are
 areae
+areas
 areca
 arenaceous
 arene
@@ -2985,6 +2987,7 @@ atheling
 athelings
 atherogenic
 atheroma
+atheromatous
 atherosclerotic
 athetoid
 athletically
@@ -3872,6 +3875,7 @@ basidiomycetes
 basidiomycetous
 basilar
 basilect
+basilical
 basinet
 basinfuls
 basing
@@ -5950,6 +5954,7 @@ briefless
 brierroots
 briery
 bries
+brigade
 brigaded
 brigades
 brigadier
@@ -7324,6 +7329,7 @@ casing
 casino
 casita
 casitas
+cask
 casking
 casky
 casque
@@ -9305,6 +9311,7 @@ coinsurer
 cointerring
 cointreau
 cointreaus
+coinvent
 coinventor
 coinvestigator
 coir
@@ -10105,6 +10112,7 @@ consistences
 consistency
 consistent
 consociate
+consociating
 consociational
 consociations
 consolation
@@ -10564,6 +10572,7 @@ cornual
 cornucopia
 cornute
 cornuto
+cornutos
 corollaries
 corollate
 coromandel
@@ -12393,6 +12402,7 @@ decolletages
 decolonization
 decolorized
 decoloured
+decommissioned
 decommissioning
 decompensated
 decomposability
@@ -14768,6 +14778,7 @@ downstages
 downstair
 downstate
 downstates
+downswings
 downthrows
 downtick
 downtowns
@@ -15782,6 +15793,7 @@ emancipated
 emancipates
 emancipating
 emancipationist
+emancipators
 emasculate
 emasculations
 embalm
@@ -16770,6 +16782,7 @@ escapologies
 escapologist
 escar
 escarped
+escarping
 eschalot
 eschalots
 eschatology
@@ -23111,6 +23124,7 @@ holoblastic
 holocaust
 holocene
 holoenzymes
+holography
 hologynies
 holometabolism
 holophytic
@@ -25566,6 +25580,7 @@ intermodal
 intermodulation
 intermolecular
 intermountain
+intern
 internal
 internalised
 internalising
@@ -25577,6 +25592,7 @@ interne
 internecine
 internees
 interneurons
+interning
 internist
 internments
 interns
@@ -25693,6 +25709,7 @@ intimae
 intimal
 intimated
 intimately
+intimatenesses
 intimates
 intimations
 intimidating
@@ -27909,6 +27926,7 @@ lethe
 letted
 letterboxings
 lettermen
+letterpress
 letterpresses
 letters
 letterspacing
@@ -29574,6 +29592,7 @@ mastigophoran
 mastigophorans
 mastitic
 mastlike
+mastodons
 mastodont
 masturbate
 masturbated
@@ -33896,6 +33915,7 @@ ogres
 ogresses
 ogrisms
 ohed
+ohia
 ohm
 ohmages
 ohmic
@@ -35407,6 +35427,7 @@ ovulations
 ovule
 ovum
 owed
+owlets
 owls
 owner
 ownership
@@ -35639,6 +35660,7 @@ palimpsest
 palindromes
 palindromist
 palingeneses
+palingenetic
 palinode
 palisades
 palisading
@@ -37202,6 +37224,7 @@ photographers
 photographic
 photographs
 photoinduction
+photoinductions
 photojournalism
 photojournalist
 photokineses
@@ -37751,6 +37774,7 @@ plaitings
 plaits
 planar
 planarities
+planate
 planed
 planer
 planeside
@@ -38557,6 +38581,7 @@ posturers
 postvaccinal
 postvaccination
 postvagotomy
+postwar
 pot
 potable
 potablenesses
@@ -39640,6 +39665,7 @@ propagators
 propanes
 propel
 propellant
+propellants
 propels
 propend
 propended
@@ -43227,6 +43253,7 @@ revivified
 revivifies
 revivify
 reviving
+revocably
 revoice
 revoiced
 revoicing
@@ -45821,6 +45848,7 @@ shanghaied
 shanghaiers
 shanghaiing
 shanghais
+shankpiece
 shannies
 shantey
 shantung
@@ -46978,6 +47006,7 @@ slumgum
 slumism
 slumlords
 slummed
+slummers
 slummier
 slummiest
 slummy
@@ -48800,6 +48829,7 @@ stokeholds
 stokeholes
 stokes
 stokesias
+stolen
 stolidest
 stolidities
 stollens
@@ -49093,6 +49123,7 @@ strove
 strowing
 stroyer
 struck
+strucken
 structuralisms
 structuralize
 structuration
@@ -49757,6 +49788,7 @@ sumpters
 sumptuous
 sumptuously
 sumpweeds
+sunback
 sunbath
 sunbaths
 sunbird
@@ -52194,6 +52226,7 @@ totalisators
 totalised
 totalism
 totality
+totalizing
 totaquines
 toted
 totemisms
@@ -55526,6 +55559,7 @@ versions
 verso
 verst
 versts
+vertebra
 vertebrate
 verticality
 verticals
@@ -57416,6 +57450,7 @@ yirr
 yirring
 ylems
 yob
+yocked
 yoctosecond
 yoctoseconds
 yodel
