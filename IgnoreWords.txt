@@ -2796,6 +2796,7 @@ aspidistra
 aspidistras
 aspirant
 aspirate
+aspiration
 aspirational
 aspirations
 aspired
@@ -2828,6 +2829,7 @@ assemblywoman
 assentation
 assented
 assenters
+assenting
 assents
 asserted
 asserter
@@ -3277,6 +3279,7 @@ averments
 averse
 averseness
 aversenesses
+aversions
 averting
 avgases
 aviaries
@@ -4338,6 +4341,7 @@ bemadams
 bemaddens
 bemas
 bemata
+bemeaned
 bemeans
 bemedalled
 bemingles
@@ -4607,6 +4611,7 @@ bibliophilies
 bibliophilism
 bibliotheca
 bibliothecal
+bibliotherapy
 bibliotist
 biblists
 bibulous
@@ -5145,6 +5150,7 @@ blizzardy
 bloat
 bloated
 bloater
+bloats
 blob
 blockages
 blockers
@@ -8057,6 +8063,7 @@ chemotaxonomist
 chemurgies
 chenopod
 cheongsams
+cheque
 chequering
 chequers
 cherimoyas
@@ -8272,6 +8279,7 @@ chlorpropamide
 chlorpropamides
 choanocyte
 chock
+chockablock
 chockful
 chockfull
 chocks
@@ -12133,6 +12141,7 @@ daycares
 daydreamed
 daydreaming
 daydreamlike
+daydreams
 dayglow
 daylighted
 daylit
@@ -12781,6 +12790,7 @@ demissions
 demitasse
 demits
 demiurgical
+demiworlds
 demob
 demobilize
 democracies
@@ -14903,6 +14913,7 @@ dribbling
 dribbly
 driblets
 driegh
+dries
 driest
 driftage
 driftingly
@@ -15380,6 +15391,7 @@ echinoderm
 echinodermatous
 echinoderms
 echinus
+echograms
 echoic
 echolalia
 echolalias
@@ -15822,6 +15834,7 @@ embossments
 embowel
 emboweled
 emboweling
+embowelling
 embowels
 embower
 embowering
@@ -18087,6 +18100,7 @@ ferlies
 ferly
 fermate
 fermentations
+fermentative
 fermented
 fermenting
 ferments
@@ -18150,6 +18164,7 @@ fetiales
 fetials
 feticidal
 feticide
+feticides
 fetidity
 fetidly
 fetidness
@@ -21830,6 +21845,7 @@ gyve
 gyved
 gyves
 ha
+habanera
 habaneras
 habdalahs
 habiliment
@@ -22167,6 +22183,7 @@ hardmouthed
 hardnose
 hardnoses
 hardpack
+hardpan
 hardpans
 hardship
 hardstandings
@@ -23458,6 +23475,7 @@ hovered
 hoverfly
 hovering
 howdie
+howdied
 howdy
 however
 howf
@@ -23696,6 +23714,7 @@ hydrospheres
 hydrospheric
 hydrostat
 hydrostatic
+hydrostatically
 hydrostats
 hydrotherapy
 hydrothoraxes
@@ -25045,6 +25064,7 @@ ingredient
 ingression
 ingressive
 ingroup
+ingroups
 ingrownness
 ingrowths
 inguinal
@@ -25591,6 +25611,7 @@ interrupted
 interruptible
 interrupting
 interrupts
+interschool
 intersect
 intersection
 intersegmental
@@ -26493,6 +26514,7 @@ jubilate
 jubilating
 jubilations
 jubile
+jubilee
 juco
 juddered
 judgement
@@ -26539,6 +26561,7 @@ jumbals
 jumbled
 jumblers
 jumbo
+jumbos
 jumbuck
 jumpable
 jumped
@@ -27951,6 +27974,7 @@ lianes
 liard
 liards
 libationary
+libations
 libbers
 libecchio
 libelants
@@ -29529,6 +29553,7 @@ mastheads
 masticate
 masticating
 mastication
+mastications
 masticatory
 mastiche
 mastigophoran
@@ -31779,6 +31804,7 @@ multicolored
 multiconductor
 multicounty
 multicourse
+multicurrencies
 multiday
 multidialectal
 multidisc
@@ -32041,6 +32067,7 @@ mycoflorae
 mycologic
 mycologists
 mycophagist
+mycophagists
 mycophagy
 mycophile
 mycoplasmal
@@ -33905,6 +33932,7 @@ oligarchy
 oligochaete
 oligochaetes
 oligodendrocyte
+oligomer
 oligomeric
 oligopolistic
 oligopoly
@@ -34695,6 +34723,7 @@ outrig
 outrigged
 outrigger
 outrigs
+outring
 outrivalling
 outroared
 outrock
@@ -40687,6 +40716,7 @@ radicchios
 radicel
 radicle
 radicles
+radii
 radio
 radioactively
 radioactivities
@@ -45219,6 +45249,7 @@ seepiest
 seersuckers
 seg
 segmental
+segmentation
 segmenting
 segregant
 segregation
@@ -47167,6 +47198,7 @@ snowbell
 snowberries
 snowbird
 snowblink
+snowblinks
 snowblower
 snowblowers
 snowcap
@@ -49753,6 +49785,7 @@ superadds
 superagency
 superagent
 superagents
+superalloy
 superalloys
 superambitious
 superannuation
@@ -53650,6 +53683,7 @@ unchastest
 unchecked
 unchic
 unchlorinated
+unchoke
 unchoked
 unchronicled
 unciae
@@ -55863,6 +55897,7 @@ volumes
 volumetrically
 voluming
 voluminosity
+voluntarily
 voluntarinesses
 voluntarisms
 voluntary
