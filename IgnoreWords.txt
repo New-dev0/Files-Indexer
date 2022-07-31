@@ -444,6 +444,7 @@ adagios
 adamance
 adamances
 adamant
+adamants
 adamsites
 adapt
 adaptable
@@ -804,6 +805,7 @@ ageist
 agelessly
 agelessnesses
 agencies
+agency
 agendas
 agendums
 agenetic
@@ -5673,6 +5675,7 @@ bounders
 bounding
 boundlessnesses
 bounds
+bounteousnesses
 bountied
 bounties
 bourg
@@ -5701,6 +5704,7 @@ bowdlerising
 bowed
 bowelled
 bowerbirds
+bowered
 bowfin
 bowfront
 bowhead
@@ -6345,6 +6349,7 @@ buncos
 bundled
 bundlers
 bundt
+bung
 bungalow
 bungalows
 bunged
@@ -7236,6 +7241,7 @@ carlins
 carloads
 carmakers
 carman
+carminative
 carnalities
 carnallites
 carnassial
@@ -8796,6 +8802,7 @@ clearer
 clearest
 cleareyed
 clearing
+clearinghouse
 clearings
 clearly
 clearstories
@@ -8829,6 +8836,7 @@ clerkdoms
 clerkish
 clerkships
 cleverer
+cleverish
 clew
 clientages
 clients
@@ -10522,6 +10530,7 @@ coracoid
 coralbells
 coralberry
 coralloid
+coralroots
 corals
 corbeil
 corbeilles
@@ -10662,6 +10671,7 @@ correspondence
 correspondency
 correspondent
 corresponding
+corresponsive
 corridas
 corridor
 corrie
@@ -11732,6 +11742,7 @@ curtest
 curtilage
 curtnesses
 curtseying
+curtsied
 curule
 curvature
 curve
@@ -13680,6 +13691,7 @@ diltiazems
 diluter
 dilutes
 diluting
+dilution
 dilutive
 dilutor
 diluvia
@@ -14532,6 +14544,7 @@ doggednesses
 doggerel
 doggeries
 doggiest
+doggone
 doggoneder
 doggoner
 dogie
@@ -16125,6 +16138,7 @@ endbrains
 endeared
 endeavored
 endeavour
+ended
 endemial
 endemic
 endemicities
@@ -17110,6 +17124,7 @@ even
 evenest
 evenhanded
 evening
+evenings
 evens
 eventful
 eventide
@@ -17161,6 +17176,7 @@ evulsions
 evzone
 ewe
 ewes
+exacerbated
 exactable
 exacter
 exacters
@@ -17478,6 +17494,7 @@ explorations
 explore
 explorers
 explores
+explosions
 explosively
 explosiveness
 expo
@@ -18220,6 +18237,7 @@ ferulas
 ferule
 feruled
 fervencies
+fervour
 fesses
 fesswise
 festally
@@ -19381,6 +19399,7 @@ formulary
 formulate
 formulated
 formulates
+formulation
 formulator
 formulators
 formulism
@@ -20729,6 +20748,7 @@ girdled
 girliest
 girns
 girolles
+giros
 girt
 girted
 gismo
@@ -22231,6 +22251,7 @@ haplopia
 haplopias
 happened
 happening
+happenings
 happens
 happier
 happinesses
@@ -30067,6 +30088,7 @@ menacers
 menadione
 menadiones
 menads
+menages
 menazon
 menazons
 mend
@@ -30657,6 +30679,7 @@ millivolts
 milliwatt
 millrace
 mills
+millworks
 millwright
 milo
 milpa
@@ -31656,6 +31679,7 @@ morosely
 moroseness
 morphed
 morpheme
+morphemes
 morphemics
 morphia
 morphias
@@ -34693,6 +34717,7 @@ outfelt
 outfence
 outfencing
 outfield
+outfielder
 outfight
 outfights
 outfigured
@@ -38143,6 +38168,7 @@ pneumococcal
 pneumonitis
 poaceous
 poach
+poachers
 poaches
 poachier
 pochard
@@ -42415,6 +42441,7 @@ reman
 remanding
 remands
 remanence
+remanent
 remanning
 remans
 remanufacture
@@ -48905,6 +48932,7 @@ stilted
 stilts
 stimes
 stimulant
+stimulating
 stimulator
 stingarees
 stingers
@@ -50834,6 +50862,7 @@ tall
 tallaisim
 tallithes
 tallithim
+talliths
 tallitim
 tallitoth
 tallits
@@ -51616,6 +51645,7 @@ thereat
 therein
 thereinafter
 thereon
+theretofore
 thermalization
 thermel
 thermic
@@ -51819,6 +51849,7 @@ throughly
 throughputs
 throwaway
 thrown
+throwsters
 thrummer
 thrummiest
 thrumming
@@ -54331,6 +54362,7 @@ unfold
 unfoldment
 unfond
 unforced
+unforgivable
 unforgot
 unforthcoming
 unfossiliferous
@@ -54543,6 +54575,7 @@ unlikenesses
 unlimbers
 unlimitedly
 unlink
+unlisted
 unlived
 unlively
 unloader
@@ -56716,6 +56749,7 @@ wetbacks
 wether
 wetness
 wetnesses
+wets
 wetting
 wettish
 whacks
@@ -57626,6 +57660,7 @@ yirring
 ylems
 yob
 yocked
+yocking
 yoctosecond
 yoctoseconds
 yodel
