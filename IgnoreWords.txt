@@ -1142,6 +1142,7 @@ allegrettos
 allegros
 alleles
 allelic
+allelomorphs
 allergen
 allergenic
 allergenicity
@@ -4277,6 +4278,7 @@ behowl
 beignes
 beigy
 being
+beings
 bejewel
 bejeweled
 bejeweling
@@ -6991,6 +6993,7 @@ canvasser
 canyoning
 canyons
 canzonas
+canzones
 canzonets
 capabilities
 capablenesses
@@ -7013,6 +7016,7 @@ capes
 capeskins
 capework
 capful
+capias
 capillarities
 capita
 capital
@@ -8173,6 +8177,7 @@ chill
 chillers
 chillest
 chillies
+chillis
 chillums
 chilopod
 chilopods
@@ -8986,6 +8991,7 @@ cluttery
 clypeate
 cnidae
 cnidarian
+cnidarians
 coacervations
 coachwork
 coacting
@@ -9441,6 +9447,7 @@ colluviums
 collywobbles
 colobomata
 colobus
+colocates
 colocynths
 cologarithm
 colombards
@@ -10407,6 +10414,7 @@ cookshops
 cookstove
 cookware
 cookwares
+coolant
 coolants
 coolnesses
 coolths
@@ -10465,6 +10473,7 @@ copremias
 copresenting
 copresents
 copresident
+coprinces
 coprincipal
 coprincipals
 coprocessor
@@ -12111,6 +12120,7 @@ darkly
 darkness
 darlingness
 darlings
+darn
 darnation
 darndest
 darneder
@@ -14527,6 +14537,7 @@ dogmatics
 dogmatism
 dogmatist
 dogmatize
+dogmatizers
 dognap
 dognapped
 dogrobbers
@@ -16955,6 +16966,7 @@ eths
 ethylate
 ethylated
 ethylbenzene
+ethylbenzenes
 ethylenic
 ethyne
 ethynyls
@@ -20609,6 +20621,7 @@ gibberellins
 gibbering
 gibbeting
 gibbing
+gibbosities
 gibbous
 gibed
 gibes
@@ -21966,6 +21979,7 @@ haftaroth
 hag
 hagadic
 hagadist
+hagberries
 hagbushes
 hagbuts
 haggadahs
@@ -23161,6 +23175,7 @@ holoblastic
 holocaust
 holocene
 holoenzymes
+holographed
 holography
 hologynies
 holometabolism
@@ -24641,6 +24656,7 @@ incessant
 incessantly
 incest
 inched
+incher
 inchoate
 inchoateness
 inchoatives
@@ -27123,6 +27139,7 @@ knars
 knavishly
 knawel
 kneader
+kneaders
 kneads
 kneecap
 kneecappings
@@ -27343,6 +27360,7 @@ lacquer
 lacquerer
 lacqueyed
 lacrimations
+lacs
 lactalbumins
 lactases
 lactate
@@ -30171,6 +30189,7 @@ mesomorph
 mesomorphy
 mesonephric
 mesons
+mesophyl
 mesophyllic
 mesoscale
 mesosome
@@ -30265,6 +30284,7 @@ meter
 meterages
 metering
 metersticks
+metes
 metestrus
 metformin
 methacrylate
@@ -35845,6 +35865,7 @@ pangenetic
 pangens
 pangs
 panhandling
+panhuman
 panically
 panickier
 panickiest
@@ -37317,6 +37338,7 @@ photoreceptors
 photoreduce
 photoreduced
 photoreduces
+photoresists
 photos
 photosensitive
 photosensitizes
@@ -39569,6 +39591,7 @@ prodrug
 produced
 producers
 produces
+productional
 productive
 productivity
 proem
@@ -40814,6 +40837,7 @@ radars
 radarscope
 radarscopes
 radded
+raddle
 raddles
 radiale
 radially
@@ -42758,6 +42782,7 @@ rerigging
 rerise
 rerises
 rerising
+rerollers
 rerolls
 reroofs
 rerose
@@ -43961,6 +43986,7 @@ rowlocks
 rowth
 rowths
 royalmast
+royals
 royalties
 royalty
 rubaboo
@@ -45444,6 +45470,7 @@ selle
 seller
 sellers
 selloff
+selloffs
 sellotaping
 sellout
 seltzers
@@ -46909,6 +46936,7 @@ sleaving
 sleazebag
 sleazeballs
 sleazes
+sleaziest
 sleazo
 sleazoid
 sleazoids
@@ -51984,6 +52012,7 @@ tinsnips
 tint
 tinted
 tintypes
+tinwares
 tip
 tipcart
 tipis
@@ -53725,6 +53754,7 @@ unassembled
 unassimilable
 unassured
 unathletic
+unattended
 unattenuated
 unattractively
 unauthentic
@@ -54130,6 +54160,7 @@ undervaluations
 undervalues
 undervests
 underwater
+underwear
 underweights
 underwhelmed
 underwhelms
@@ -56069,6 +56100,7 @@ voluming
 voluminosity
 voluntarily
 voluntarinesses
+voluntarism
 voluntarisms
 voluntary
 voluntaryism
@@ -56488,6 +56520,7 @@ waxiest
 waxplant
 waxwings
 waxwork
+waxworm
 waybill
 waybills
 wayfarer
@@ -56738,6 +56771,7 @@ whinnier
 whinnies
 whinny
 whinnying
+whinstones
 whip
 whipcord
 whipcords
@@ -56865,6 +56899,7 @@ widener
 wideners
 wideness
 widenesses
+widening
 widens
 wideout
 wider
