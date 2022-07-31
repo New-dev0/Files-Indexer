@@ -2400,6 +2400,7 @@ approbate
 approbates
 appropriated
 appropriately
+appropriateness
 appropriations
 approver
 approves
@@ -3029,6 +3030,7 @@ atilt
 atlantes
 atlatl
 atmas
+atmosphered
 atmospherically
 atomic
 atomically
@@ -6234,6 +6236,7 @@ bryozoans
 bubal
 bubals
 bubbled
+bubbleheaded
 bubbler
 bubinga
 bubkes
@@ -6788,6 +6791,7 @@ calculable
 calculate
 calculatedly
 calculation
+calculator
 calculus
 caldarium
 caldera
@@ -6823,6 +6827,7 @@ callaloo
 callaloos
 callan
 callans
+callants
 callas
 callback
 callbacks
@@ -14376,6 +14381,7 @@ disrobers
 disrobes
 disroots
 disrupt
+disrupted
 disrupters
 disruptive
 disruptively
@@ -19239,6 +19245,7 @@ foldboats
 folderol
 foldout
 foldup
+foleys
 folia
 foliage
 foliaged
@@ -19717,6 +19724,7 @@ fraternizer
 fraternizers
 fraternizing
 frauds
+fraudulence
 fraught
 fraulein
 frayed
@@ -20205,6 +20213,7 @@ galactosamine
 galactosemia
 galactoside
 galactosides
+galangas
 galantine
 galateas
 galavanted
@@ -20277,6 +20286,7 @@ gambesons
 gambias
 gambier
 gambiers
+gambled
 gambles
 gambling
 gamboge
@@ -20300,6 +20310,7 @@ gaminesses
 gamins
 gammed
 gammier
+gamming
 gammon
 gammoner
 gammoning
@@ -20738,6 +20749,7 @@ germplasm
 gerontocratic
 gerontocrats
 gerontologists
+gerontomorphic
 gerrymandered
 gerundive
 gesellschaft
@@ -20748,6 +20760,7 @@ gestalt
 gestaltists
 gestating
 gestations
+gesticulant
 gesticulations
 gesticulators
 gesturer
@@ -24676,6 +24689,7 @@ imposter
 imposters
 imposthume
 impostor
+impostume
 impostumes
 impotently
 impound
@@ -26385,6 +26399,7 @@ isomerous
 isometric
 isometry
 isomorphs
+isooctanes
 isopachs
 isophotal
 isophotes
@@ -30088,6 +30103,7 @@ meatpacking
 meatpackings
 meats
 meatus
+meatuses
 meaty
 mechanical
 mechanization
@@ -33843,6 +33859,7 @@ nuanced
 nuances
 nubbier
 nubbiest
+nubbin
 nubbiness
 nubble
 nubbles
@@ -34310,6 +34327,7 @@ oilway
 oinks
 oiticicas
 okas
+okay
 olden
 older
 oldest
@@ -34344,6 +34362,7 @@ oligochaetes
 oligodendrocyte
 oligomer
 oligomeric
+oligophagous
 oligopolistic
 oligopoly
 oligopsonistic
@@ -35697,6 +35716,7 @@ oversimplified
 oversimplifies
 oversize
 overskirt
+oversleeping
 overslipped
 overslipping
 oversoaked
@@ -36659,6 +36679,7 @@ patriotisms
 patristic
 patristics
 patrolling
+patronal
 patronesses
 patronise
 patronised
@@ -37652,6 +37673,7 @@ photooxidations
 photooxidized
 photoperiodism
 photoperiodisms
+photoperiods
 photophases
 photophobic
 photophores
@@ -37959,6 +37981,7 @@ pinched
 pinchers
 pinchpenny
 pincushion
+pinders
 pindling
 pinealectomized
 pinelike
@@ -38747,6 +38770,7 @@ ponderously
 ponders
 ponding
 pondweed
+pondweeds
 pone
 ponged
 poniard
@@ -41054,6 +41078,7 @@ quietuses
 quiff
 quill
 quillai
+quillaia
 quillais
 quillback
 quillwork
@@ -43034,6 +43059,7 @@ repossession
 repossessors
 repotted
 repoured
+repousses
 repowering
 reprehending
 reprehensible
@@ -45817,6 +45843,7 @@ seisins
 seism
 seismic
 seismism
+seismogram
 seismographic
 seismological
 seismologist
@@ -47875,6 +47902,7 @@ sociometry
 socioreligious
 socket
 socketed
+sod
 sodaless
 sodalities
 sodamides
@@ -48574,6 +48602,7 @@ spleens
 spleenwort
 spleenworts
 spleeny
+splendider
 splendidest
 splendiferous
 splendor
@@ -50176,6 +50205,7 @@ sudaries
 sudations
 sudatorium
 sudatoriums
+sudatory
 sudd
 suddenly
 suddenness
@@ -51019,6 +51049,7 @@ syndicated
 syndromic
 syne
 synecdoche
+synecdochical
 synecological
 synecologies
 synereses
@@ -51822,6 +51853,7 @@ terms
 termtimes
 ternary
 ternate
+ternately
 terne
 terneplates
 ternion
@@ -51980,6 +52012,7 @@ thebe
 thecal
 thecate
 thecodont
+thecodonts
 theft
 thegnly
 theine
@@ -55926,6 +55959,7 @@ vasoconstrictor
 vasodilatation
 vasodilatations
 vasodilator
+vasospasm
 vasospasms
 vasospastic
 vasotocin
@@ -58246,6 +58280,7 @@ zinky
 zinnia
 zinnias
 zippering
+zippiest
 zipping
 zitherist
 zithers
