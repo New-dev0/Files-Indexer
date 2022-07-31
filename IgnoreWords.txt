@@ -957,6 +957,7 @@ airshed
 airsheds
 airshot
 airshows
+airsicknesses
 airspace
 airstrikes
 airt
@@ -2767,6 +2768,7 @@ ashamedly
 ashcake
 ashcakes
 ashed
+ashen
 ashfall
 ashier
 ashiness
@@ -3740,6 +3742,7 @@ banter
 bantling
 banyan
 banzai
+baobabs
 baps
 baptismal
 baptismally
@@ -3855,6 +3858,7 @@ barretries
 barretry
 barrettes
 barricaded
+barricades
 barricadoes
 barricados
 barriers
@@ -4509,6 +4513,7 @@ besieger
 besmears
 besmiled
 besmiles
+besmirches
 besmoked
 besmoking
 besmoothed
@@ -5661,6 +5666,7 @@ boughpot
 bougie
 bouillabaisse
 bouldered
+boulderers
 bouldering
 bouldery
 boule
@@ -7555,6 +7561,7 @@ causewayed
 causey
 causeys
 cauterants
+cauterization
 cautioners
 cautious
 cavalier
@@ -10094,6 +10101,7 @@ connection
 connectional
 connections
 connects
+connexions
 conning
 conniver
 connivers
@@ -20617,6 +20625,7 @@ gesticulators
 gesturer
 gesturing
 gesundheit
+getable
 getaways
 gets
 getting
@@ -22104,6 +22113,7 @@ halidome
 halidomes
 halidoms
 haling
+halitoses
 halitus
 halituses
 hall
@@ -22168,6 +22178,7 @@ hamulate
 hamulous
 hamzahs
 hanaper
+hand
 handbag
 handbags
 handballs
@@ -23223,6 +23234,7 @@ holocaust
 holocene
 holoenzymes
 holographed
+holographers
 holography
 hologynies
 holometabolism
@@ -27477,6 +27489,7 @@ laigh
 laighs
 laird
 lairdships
+laired
 lairing
 laitances
 laities
@@ -27861,8 +27874,10 @@ leapers
 leapt
 learier
 learn
+learnedly
 lears
 leas
+leasers
 leastways
 leathered
 leathering
@@ -28247,6 +28262,7 @@ lightplane
 lightwave
 lightweight
 lignan
+lignans
 ligneous
 lignite
 lignitic
@@ -30294,6 +30310,7 @@ metalheads
 metaling
 metalinguistic
 metalinguistics
+metalled
 metallic
 metallics
 metalliferous
@@ -31485,6 +31502,7 @@ monofil
 monofilament
 monofils
 monofuel
+monofuels
 monogamic
 monogamies
 monogamist
@@ -33545,6 +33563,7 @@ nosh
 nosher
 noshes
 nosier
+nosings
 nosocomial
 nosologically
 nosologies
@@ -34144,6 +34163,7 @@ omenta
 omicrons
 ominousness
 ominousnesses
+omissible
 omission
 omits
 omitted
@@ -34569,6 +34589,7 @@ osteological
 osteomalacia
 osteomyelitis
 osteomyelitises
+osteopathic
 osteoplasty
 osteoses
 osteotomies
@@ -35289,6 +35310,7 @@ overholds
 overhomogenizes
 overhunting
 overhuntings
+overhunts
 overhype
 overidealizes
 overidentified
@@ -38770,6 +38792,7 @@ potheads
 potheen
 pother
 pothering
+potholders
 pothooks
 pothouse
 pothunter
@@ -39607,6 +39630,7 @@ probits
 problem
 problematics
 problems
+proboscideans
 proboscis
 procambia
 procambial
@@ -39762,6 +39786,7 @@ proletarianizes
 proletarians
 proliferations
 prolific
+prolines
 prolixities
 prolixity
 prologed
@@ -40147,6 +40172,7 @@ psychoanalyses
 psychoanalyst
 psychoanalyzed
 psychoanalyzes
+psychobabblers
 psychobabbles
 psychobiography
 psychobiologic
@@ -42984,6 +43010,7 @@ resist
 resistants
 resisted
 resister
+resisters
 resistibility
 resisting
 resistively
@@ -44175,6 +44202,7 @@ ruminates
 ruminating
 ruminations
 ruminative
+ruminators
 rummages
 rummer
 rummers
@@ -46632,6 +46660,7 @@ silkie
 silkiest
 silkweed
 silkweeds
+silkworm
 sill
 silliness
 silly
@@ -47814,6 +47843,7 @@ sorrowful
 sorrowfulness
 sorrowing
 sorrows
+sort
 sortied
 sortieing
 sortilege
@@ -51595,6 +51625,7 @@ texture
 textures
 texturizing
 thacked
+thacking
 thae
 thairm
 thairms
@@ -52605,6 +52636,7 @@ trailless
 trainabilities
 trainability
 trainable
+trainband
 trainbearers
 trainee
 traineeship
@@ -54228,6 +54260,7 @@ undersides
 undersign
 undersigned
 undersized
+underskirts
 undersold
 understaffing
 understaffings
@@ -54981,6 +55014,7 @@ untack
 untacks
 untalented
 untangle
+untangling
 untarnished
 unteaching
 untechnical
@@ -55687,6 +55721,7 @@ venging
 venial
 venins
 venipuncture
+venire
 venireman
 venires
 venographies
