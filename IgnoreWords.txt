@@ -2847,6 +2847,7 @@ assemblymen
 assemblywoman
 assentation
 assented
+assenter
 assenters
 assenting
 assents
@@ -3302,6 +3303,7 @@ averse
 averseness
 aversenesses
 aversions
+averter
 averting
 avgases
 aviaries
@@ -6880,6 +6882,7 @@ cames
 camions
 camisa
 camlet
+cammies
 camomile
 camouflageable
 camouflaged
@@ -7826,6 +7829,7 @@ chairmanned
 chairmanning
 chairmans
 chairmanship
+chairwomen
 chaises
 chalah
 chalazae
@@ -10884,6 +10888,7 @@ counterimages
 counterinstance
 countermanded
 countermarching
+countermeasures
 countermelodies
 countermines
 countermove
@@ -11923,6 +11928,7 @@ cyclorama
 cyclosporine
 cyclosporines
 cyclostyled
+cyclostyling
 cyclotron
 cyeses
 cygnet
@@ -12685,6 +12691,7 @@ deformational
 deformer
 deformers
 deformities
+deformity
 defrag
 defragged
 defraggers
@@ -12993,6 +13000,7 @@ dentality
 dentalium
 dentaliums
 dentally
+dentals
 dentation
 dentations
 denticulations
@@ -13020,6 +13028,7 @@ deodorization
 deontological
 deorbiting
 deoxidation
+deoxidizers
 deoxidizes
 deoxygenates
 departing
@@ -14382,6 +14391,7 @@ dissuasively
 dissuasiveness
 dissyllable
 dissyllables
+dissymmetries
 distaff
 distaffs
 distains
@@ -20249,6 +20259,7 @@ ganglioside
 gangrenes
 gangstas
 gangsterdoms
+gangue
 ganjah
 ganjahs
 ganjas
@@ -20879,6 +20890,7 @@ glamorousness
 glamorousnesses
 glamors
 glamoured
+glamourize
 glamourous
 glamours
 glancers
@@ -21146,6 +21158,7 @@ goddamned
 goddams
 godded
 godetias
+godets
 godfathered
 godlessly
 godlessness
@@ -24762,6 +24775,7 @@ incendiaries
 incensing
 incenters
 incentive
+incentives
 incentivized
 incentivizes
 incentivizing
@@ -25331,6 +25345,7 @@ injudiciously
 injudiciousness
 injunctive
 injury
+ink
 inkberries
 inker
 inkhorn
@@ -27126,6 +27141,7 @@ killable
 killdeers
 killies
 killjoy
+killock
 killocks
 kills
 kiln
@@ -27140,6 +27156,7 @@ kilolitres
 kilometers
 kilometre
 kilopascal
+kilopascals
 kilos
 kiloton
 kilotons
@@ -27629,6 +27646,7 @@ lancewood
 lancinates
 lancinating
 landaulets
+landfill
 landgraves
 landholder
 landings
@@ -27880,6 +27898,7 @@ lays
 layup
 lazar
 lazarette
+lazarettes
 lazars
 lazily
 laziness
@@ -28727,6 +28746,7 @@ loggie
 loggier
 loggiest
 logia
+logic
 logical
 logicalities
 logicalnesses
@@ -31359,6 +31379,7 @@ mobbishly
 mobcap
 mobcaps
 mobilises
+mobility
 mobilization
 mobocrat
 mobocratic
@@ -32714,6 +32735,7 @@ neocolonialist
 neoconservatism
 neocortices
 neoliberalism
+neoliberals
 neolith
 neoliths
 neologies
@@ -35016,6 +35038,7 @@ outrock
 outrocking
 outrolling
 outrooted
+outrooting
 outrowed
 outrowing
 outrows
@@ -36802,6 +36825,7 @@ penicillate
 penicillin
 penicillinase
 penicillins
+penicillium
 penitence
 penitences
 penitent
@@ -36997,8 +37021,10 @@ perimorphs
 perimysia
 perinatally
 perinea
+perineal
 perineuria
 periodates
+periodical
 periodicities
 periodid
 periodizations
@@ -38776,6 +38802,7 @@ poster
 posterior
 posterities
 posterns
+posters
 postexperience
 postfaces
 postfault
@@ -39287,6 +39314,7 @@ prelocates
 prelude
 preludial
 preluding
+prelunch
 prelusive
 prelusory
 preman
@@ -41195,6 +41223,7 @@ rampageousness
 rampager
 rampages
 rampancy
+rampant
 rampantly
 rampart
 ramped
@@ -45260,6 +45289,7 @@ scourging
 scouring
 scourings
 scours
+scouses
 scout
 scoutcraft
 scouter
@@ -50458,6 +50488,7 @@ surfs
 surgery
 surgically
 suricate
+suricates
 surimi
 surimis
 surlily
@@ -51039,6 +51070,7 @@ talking
 talky
 tall
 tallaisim
+tallied
 tallithes
 tallithim
 talliths
@@ -55441,6 +55473,7 @@ ureal
 ureas
 uredia
 uredinia
+uredinium
 urediospores
 uredo
 ureter
@@ -55661,6 +55694,7 @@ vaporize
 vaporizes
 vaporizing
 vaporous
+vaporwares
 vapory
 vapoured
 vapourer
@@ -57679,6 +57713,7 @@ wushu
 wussier
 wyandotte
 wyles
+wyliecoat
 wynds
 wyte
 wytes
