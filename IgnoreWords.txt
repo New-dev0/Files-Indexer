@@ -486,6 +486,7 @@ adequate
 adequatenesses
 adherence
 adherends
+adherers
 adheres
 adhesive
 adhesively
@@ -2418,6 +2419,7 @@ aptest
 aptitudinal
 aptnesses
 apyrase
+apyretic
 aquacades
 aquacultural
 aquacultures
@@ -2999,6 +3001,7 @@ atavistically
 ataxias
 ate
 atechnic
+atelectases
 atelectasis
 atelic
 atelier
@@ -3121,6 +3124,7 @@ auberge
 aubretia
 auburn
 aucuba
+aucubas
 audaciousness
 audacity
 audad
@@ -3855,6 +3859,7 @@ barramundi
 barranca
 barrancas
 barranco
+barrator
 barrators
 barratries
 barred
@@ -6590,6 +6595,7 @@ buyout
 buys
 buzukis
 buzz
+buzzards
 buzzers
 buzzingly
 buzzwigs
@@ -8515,6 +8521,7 @@ chuff
 chuffs
 chug
 chugalugs
+chugger
 chukka
 chukkas
 chummier
@@ -10450,6 +10457,7 @@ convulsants
 convulsionary
 convulsively
 cooch
+coocoo
 cooed
 cooee
 cooees
@@ -11711,6 +11719,7 @@ cuprum
 curability
 curablenesses
 curacao
+curacaos
 curacies
 curacoa
 curaghs
@@ -12156,6 +12165,7 @@ dangers
 dangle
 dangler
 danglers
+danglier
 dangliest
 dangling
 danish
@@ -16175,6 +16185,7 @@ encomiast
 encomium
 encomiums
 encompassment
+encoring
 encountering
 encourage
 encouragement
@@ -16703,6 +16714,7 @@ epilogues
 epiloguing
 epimerases
 epimere
+epimeres
 epimeric
 epimers
 epimysia
@@ -17009,6 +17021,7 @@ estrums
 estuarine
 esurient
 etageres
+etamine
 etamins
 etatist
 etceteras
@@ -23654,6 +23667,7 @@ hotspots
 hotted
 hotties
 houdahs
+hound
 hourglasses
 houri
 houseboater
@@ -24413,6 +24427,7 @@ immittance
 immittances
 immixed
 immixture
+immixtures
 immobile
 immobilisms
 immobilities
@@ -28727,6 +28742,7 @@ locofoco
 locoing
 locoism
 locomotes
+locomoting
 locomotions
 locomotors
 locos
@@ -29276,6 +29292,7 @@ madrigal
 madrilene
 madronos
 maduros
+madwoman
 madwomen
 mae
 maenad
@@ -29350,6 +29367,7 @@ mailing
 mailless
 maillot
 mailmen
+maims
 mainframes
 mainlander
 mainlands
@@ -29765,6 +29783,7 @@ martyrologist
 martyrologists
 martyrology
 marvel
+marvelously
 masalas
 masas
 mascaraing
@@ -30654,6 +30673,7 @@ microtonally
 microtones
 microtubule
 microvolt
+microvolts
 microwatts
 microwavable
 microwaves
@@ -31111,6 +31131,7 @@ misenrolls
 miserableness
 misesteem
 misesteemed
+misestimating
 misevaluate
 misevaluated
 misfeasance
@@ -31877,6 +31898,7 @@ moshav
 moshing
 moshings
 mosque
+mosques
 mosquito
 mosquitos
 mossiest
@@ -35623,6 +35645,7 @@ overstaffed
 overstates
 overstayed
 overstays
+overstep
 overstimulate
 overstimulated
 overstimulation
@@ -37166,6 +37189,7 @@ personhoods
 personification
 personifier
 personifies
+perspicacious
 perspicuity
 perspicuousness
 perspiration
@@ -38884,6 +38908,7 @@ postrace
 postretirement
 postriders
 postriot
+poststimulus
 postsynaptic
 postsyncing
 posttensioned
@@ -40982,6 +41007,7 @@ quints
 quintuple
 quintuplet
 quintuplicate
+quintuplicates
 quintupling
 quippiest
 quips
@@ -47580,6 +47606,7 @@ sneering
 sneesh
 sneeze
 sneezer
+sneezes
 sneezeweeds
 snell
 snibbing
@@ -47799,6 +47826,7 @@ sojourns
 sokol
 solacing
 solanders
+solands
 solanine
 solanines
 solanins
@@ -47972,6 +48000,7 @@ soppinesses
 sopranino
 sopraninos
 sora
+soras
 sorbabilities
 sorbent
 sorbic
@@ -47986,6 +48015,7 @@ sord
 sordines
 sordini
 sords
+soreheaded
 sorely
 sorenesses
 sorer
@@ -49355,6 +49385,7 @@ straked
 stramashes
 strandednesses
 stranders
+strangely
 stranges
 strangest
 strangle
@@ -51311,6 +51342,7 @@ taus
 tautaug
 tauter
 tautest
+tauting
 tautness
 tautologies
 tautologously
@@ -52762,6 +52794,7 @@ traceability
 traceable
 traced
 tracheary
+tracheated
 tracheitis
 tracheostomies
 tracheotomies
@@ -54799,6 +54832,7 @@ unkent
 unkept
 unkindest
 unkindness
+unkissed
 unknots
 unknowability
 unknown
@@ -57855,6 +57889,7 @@ yare
 yarely
 yarmelke
 yarmelkes
+yarn
 yarning
 yarrows
 yashmac
