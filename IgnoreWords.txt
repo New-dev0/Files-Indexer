@@ -348,6 +348,7 @@ acquisitions
 acquisitive
 acquittance
 acquitting
+acrasias
 acreages
 acred
 acres
@@ -1085,6 +1086,7 @@ aliennesses
 alif
 aliform
 alifs
+alighting
 align
 alike
 alikeness
@@ -2894,6 +2896,7 @@ assoiling
 assoils
 assonantal
 assort
+assortatively
 assorted
 assorter
 assortment
@@ -3396,6 +3399,7 @@ axisymmetrical
 axisymmetry
 axites
 axles
+axonal
 axonemal
 axonemes
 axoplasm
@@ -5803,6 +5807,7 @@ bradawl
 bradycardia
 braggart
 braggers
+braggier
 braided
 braidings
 braids
@@ -6737,6 +6742,7 @@ caladiums
 calamander
 calamaries
 calamine
+calamite
 calamondin
 calamondins
 calamus
@@ -8726,6 +8732,7 @@ clairaudient
 clairvoyance
 clambakes
 clamberer
+clammers
 clammier
 clamminesses
 clamming
@@ -9196,6 +9203,7 @@ cocreators
 cocultivate
 cocultivated
 cocultivation
+coculture
 cocultures
 cocurators
 cod
@@ -10538,6 +10546,7 @@ copublish
 copublished
 copulae
 copulates
+copulations
 copulatives
 copy
 copyboy
@@ -12091,6 +12100,7 @@ daltonian
 daltonism
 daltons
 damageabilities
+damageability
 damages
 damaging
 damans
@@ -12662,6 +12672,7 @@ deflagrations
 deflates
 deflation
 deflations
+deflators
 defleaed
 deflect
 deflecting
@@ -14735,6 +14746,7 @@ doozie
 dopamines
 dopants
 dopas
+doped
 doper
 dopey
 dopier
@@ -15826,6 +15838,7 @@ electrotypes
 electrowinning
 electrum
 electuary
+eleemosynary
 elegance
 elegiacal
 elegiacally
@@ -16793,6 +16806,7 @@ equivoke
 equivoques
 era
 eradiate
+eradiated
 eradiating
 eradicable
 eradicate
@@ -17921,6 +17935,7 @@ familisms
 familistic
 faming
 famishment
+fan
 fanatical
 fanaticalnesses
 fanaticized
@@ -25479,6 +25494,7 @@ insincere
 insincerely
 insinuated
 insinuates
+insinuating
 insinuatingly
 insinuators
 insipidity
@@ -28518,6 +28534,7 @@ lipstick
 lipsticked
 lipsticks
 liquates
+liquations
 liquefaction
 liquefier
 liquefiers
@@ -30371,6 +30388,7 @@ messiahship
 messiahships
 messier
 messiest
+messinesses
 messuages
 mestees
 mestiza
@@ -37239,6 +37257,7 @@ petrifier
 petrifiers
 petrifying
 petrochemicals
+petrogeneses
 petrogenesis
 petrogenetic
 petrographer
@@ -37688,6 +37707,7 @@ picketing
 pickier
 pickinesses
 picking
+pickle
 pickled
 pickles
 pickling
@@ -38041,6 +38061,7 @@ plagiarizes
 plagiarizing
 plagiary
 plagued
+plaguer
 plagues
 plaices
 plaid
@@ -39543,6 +39564,7 @@ pretelevision
 pretelling
 pretense
 pretension
+pretensioning
 pretensionless
 pretensions
 preterite
@@ -42756,6 +42778,7 @@ renunciative
 renunciatory
 renvoi
 reobjected
+reobserve
 reobtained
 reobtains
 reoccupied
@@ -45208,6 +45231,7 @@ sciences
 sciential
 scientism
 scientisms
+scientized
 scientizing
 scillas
 scimetars
@@ -47524,6 +47548,7 @@ snapweeds
 snarers
 snares
 snarfing
+snarfs
 snaring
 snarl
 snarler
@@ -48130,6 +48155,7 @@ sparklier
 sparkplug
 sparkplugged
 sparky
+sparoid
 sparred
 sparriest
 sparrowlike
@@ -50186,6 +50212,7 @@ sundecks
 sunderer
 sundew
 sundews
+sundial
 sundogs
 sundowners
 sundowning
@@ -50281,6 +50308,7 @@ supereminences
 supereminent
 supererogations
 superette
+superexpensive
 superexpresses
 superfan
 superfast
@@ -53085,6 +53113,7 @@ trepidant
 treponemal
 treponematoses
 trespass
+trespassers
 tressel
 tresses
 tressiest
@@ -53565,6 +53594,7 @@ tumesces
 tumidity
 tummies
 tumoral
+tumorigeneses
 tumorlike
 tumping
 tumulose
@@ -53980,6 +54010,7 @@ unabated
 unabating
 unabiding
 unabjured
+unable
 unabraded
 unabsorbed
 unabusive
@@ -55051,6 +55082,7 @@ unscrews
 unscriptural
 unsealed
 unseam
+unseamed
 unsearchably
 unseasonably
 unseat
@@ -56067,6 +56099,7 @@ viator
 viators
 vibracula
 vibraharpist
+vibrant
 vibraphone
 vibraphonist
 vibrated
@@ -56828,6 +56861,7 @@ waxiest
 waxplant
 waxwings
 waxwork
+waxworker
 waxworm
 waybill
 waybills
@@ -57370,6 +57404,7 @@ wiping
 wirable
 wiredraw
 wiredrawing
+wiredrew
 wirehaired
 wirelessed
 wirelesses
