@@ -66,6 +66,7 @@ absolved
 absolvent
 absolvers
 absolves
+absonant
 absorb
 absorbance
 absorbancies
@@ -8688,6 +8689,7 @@ clamworms
 clandestinity
 clanger
 clangers
+clanging
 clangoured
 clangours
 clankier
@@ -9207,6 +9209,7 @@ coercible
 coercibly
 coercing
 coercivities
+coerecting
 coesites
 coeternal
 coeval
@@ -11265,6 +11268,7 @@ criteria
 criterium
 criticalities
 critically
+criticise
 criticised
 criticises
 criticism
@@ -11839,6 +11843,7 @@ cycloids
 cyclonically
 cycloolefin
 cyclopaedias
+cycloparaffin
 cycloparaffins
 cyclopean
 cyclopedia
@@ -12161,6 +12166,7 @@ daydreaming
 daydreamlike
 daydreams
 dayglow
+daylight
 daylighted
 daylit
 daymares
@@ -12593,6 +12599,7 @@ defoliate
 defoliates
 defoliation
 defoliators
+deforced
 deforcers
 deforces
 deforested
@@ -13683,6 +13690,7 @@ dinero
 dineros
 dingbat
 dingdong
+dingdonged
 dinged
 dinger
 dingers
@@ -18210,6 +18218,7 @@ fettucine
 feudal
 feudalist
 feudalists
+feudalization
 feudalizations
 feudalize
 feudalized
@@ -20093,6 +20102,7 @@ gammon
 gammoner
 gammoning
 gammons
+gammy
 gamodeme
 gamodemes
 gamut
@@ -22872,6 +22882,7 @@ hexers
 hexobarbitals
 hexokinase
 hexones
+hexosan
 hexose
 hexoses
 hexylresorcinol
@@ -22933,6 +22944,7 @@ highting
 hightops
 hights
 hijab
+hijack
 hijacking
 hijra
 hilariousnesses
@@ -26264,6 +26276,7 @@ jane
 jangles
 janglier
 janiform
+janisary
 janissary
 japanize
 japanized
@@ -26786,6 +26799,7 @@ keelhaling
 keelhaul
 keelhauling
 keeling
+keen
 keened
 keener
 keenly
@@ -28015,6 +28029,7 @@ liaising
 lianes
 liard
 liards
+liars
 libationary
 libations
 libbers
@@ -28486,6 +28501,7 @@ localizing
 locater
 location
 locator
+lock
 lockdown
 lockdowns
 locker
@@ -28943,6 +28959,7 @@ lyophilizer
 lyophilizes
 lyophilizing
 lyrately
+lyre
 lyric
 lyricalness
 lyricise
@@ -29309,6 +29326,7 @@ mangler
 mango
 mangoes
 mangold
+mangonels
 mangosteen
 mangy
 manhandles
@@ -30480,6 +30498,7 @@ mignonette
 mignons
 migraines
 migrate
+migrations
 migs
 mihrabs
 mikados
@@ -32967,6 +32986,7 @@ nonclasses
 nonclassroom
 nonclinical
 nonclogging
+noncoercive
 noncoherent
 noncola
 noncolas
@@ -33121,6 +33141,7 @@ nonhospitalized
 nonhousing
 nonhumans
 nonhunter
+nonhysterical
 nonideal
 nonidentical
 nonidentities
@@ -35162,6 +35183,7 @@ overidentified
 overidentifies
 overimaginative
 overimpress
+overimpressed
 overindulge
 overindulging
 overinflate
@@ -39723,6 +39745,7 @@ proportionates
 proportions
 proposers
 propositi
+proposition
 propositioned
 propounds
 propraetors
@@ -40228,6 +40251,7 @@ pur
 puranic
 purblindly
 purchase
+purchaser
 purchasing
 purda
 purdahs
@@ -40580,6 +40604,7 @@ queerish
 queerly
 queernesses
 queleas
+quellable
 quelled
 quellers
 quenched
@@ -41813,6 +41838,7 @@ reenslaving
 reentered
 reentrance
 reentries
+reequipped
 reerecting
 reerects
 rees
@@ -46666,6 +46692,7 @@ sketchpads
 skew
 skewbacks
 skewbald
+skewbalds
 skewed
 skewer
 skewing
@@ -47089,6 +47116,7 @@ smelters
 smeltery
 smelts
 smerks
+smidgeon
 smidges
 smidgin
 smiercases
@@ -49192,6 +49220,7 @@ stumbling
 stummed
 stumpages
 stumper
+stumpier
 stumpiest
 stunk
 stunner
@@ -49330,6 +49359,7 @@ subdominants
 subdual
 subduce
 subduced
+subduces
 subduct
 subduedly
 subduers
@@ -50398,6 +50428,7 @@ sycophantisms
 syenites
 syenitic
 syke
+sykes
 syli
 sylis
 syllabi
@@ -54392,6 +54423,7 @@ unlades
 unlading
 unlashed
 unlashes
+unlashing
 unlatch
 unlatching
 unlawfulnesses
@@ -54680,6 +54712,7 @@ unsetting
 unsettle
 unsettlednesses
 unsettlements
+unsew
 unsews
 unsexing
 unsexual
@@ -55328,6 +55361,7 @@ variole
 varioles
 variolites
 varioloid
+various
 variousness
 varistor
 varix
@@ -56709,6 +56743,7 @@ whitecomb
 whitefishes
 whiteflies
 whiteners
+whitenesses
 whitening
 whitens
 whiteouts
