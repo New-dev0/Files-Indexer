@@ -2825,6 +2825,7 @@ assemble
 assembler
 assemblers
 assembling
+assembly
 assemblyman
 assemblymen
 assemblywoman
@@ -5266,6 +5267,7 @@ blumes
 blunder
 blunderbusses
 blundered
+blunderer
 blunderers
 blunge
 blunged
@@ -5775,6 +5777,7 @@ brainier
 brainiest
 brainpan
 brainpans
+brainpower
 brainstems
 brainstorming
 brainwash
@@ -5984,6 +5987,7 @@ briniest
 brininesses
 brinksmanship
 briquet
+briquettes
 brises
 brisked
 brisker
@@ -10578,6 +10582,7 @@ corollate
 coromandel
 coronach
 coronachs
+coronae
 coronal
 coronally
 coronals
@@ -16340,6 +16345,7 @@ entastic
 entente
 enter
 enteral
+enterally
 entered
 enterer
 enteric
@@ -18074,6 +18080,7 @@ felspars
 felstone
 felstones
 felt
+felting
 female
 feme
 feminacies
@@ -18934,6 +18941,7 @@ fluoroscoping
 fluoroscopist
 fluoroses
 fluorosis
+fluorspars
 flurries
 flurry
 flushable
@@ -21766,6 +21774,7 @@ gunmetals
 gunned
 gunnel
 gunnels
+gunnen
 gunners
 gunnings
 gunny
@@ -27096,6 +27105,7 @@ knifepoint
 knifer
 knifers
 knifing
+knight
 knighthoods
 knighting
 knightlinesses
@@ -27513,6 +27523,7 @@ lapsable
 lapsers
 laptop
 lapwings
+larcenous
 larder
 lardiest
 lardoons
@@ -29495,6 +29506,7 @@ marshalcies
 marshaled
 marshaling
 marshalled
+marshals
 marshalship
 marshlike
 marshmallow
@@ -31199,6 +31211,7 @@ mohairs
 mohalim
 mohawk
 moidore
+moil
 moiler
 moiling
 moire
@@ -36111,6 +36124,7 @@ particulates
 partied
 parting
 partisan
+partisanship
 partisanships
 partitioners
 partlet
@@ -36501,6 +36515,7 @@ pelorus
 pelotas
 pelt
 peltasts
+peltately
 peltation
 pelted
 peltered
@@ -37581,6 +37596,7 @@ pinnae
 pinnated
 pinnation
 pinning
+pinny
 pinocle
 pinocytoses
 pinocytosis
@@ -39866,6 +39882,7 @@ protozoans
 protozoic
 protozoologies
 protozoologist
+protozoology
 protract
 protractive
 protractors
@@ -42142,6 +42159,7 @@ reinsures
 reintegration
 reintegrations
 reinter
+reinterpret
 reinterprets
 reinters
 reinterviews
@@ -42723,6 +42741,7 @@ reseated
 reseau
 resected
 resections
+resecuring
 reseda
 reseeking
 reseeks
@@ -44405,6 +44424,7 @@ sanidines
 sanitaries
 sanitarily
 sanitated
+sanitating
 sanitised
 sanitoria
 sanjak
@@ -45233,6 +45253,7 @@ sections
 sectoral
 sectored
 sectorial
+sectoring
 secularise
 secularisms
 secularization
@@ -46359,6 +46380,7 @@ sighting
 sightings
 sightless
 sightlessnesses
+sightliest
 sightly
 sights
 sightseeing
@@ -46429,6 +46451,7 @@ siliciums
 silicle
 silicone
 siliconized
+silicotic
 siliqua
 siliquae
 siliques
@@ -46807,6 +46830,7 @@ slaughterhouse
 slaughterhouses
 slaughtering
 slaughterous
+slaughterously
 slaughters
 slave
 slaved
@@ -47022,6 +47046,7 @@ slushed
 slushes
 slushier
 slushiest
+sluttish
 slyer
 slyness
 slynesses
@@ -49253,6 +49278,7 @@ subbranch
 subbureau
 subcaste
 subcategories
+subcategorized
 subcavity
 subcellular
 subcenter
@@ -49592,6 +49618,7 @@ suburbs
 subvarieties
 subvassal
 subvenes
+subventions
 subversions
 subversive
 subvert
@@ -49723,6 +49750,7 @@ sulfur
 sulfurated
 sulfureted
 sulfuretted
+sulfuretting
 sulfuring
 sulfurize
 sulfurized
@@ -50463,6 +50491,7 @@ syncopators
 syncope
 syncretise
 syncretised
+syncretistic
 syncretists
 syncytia
 syncytial
@@ -51042,6 +51071,7 @@ telegraphist
 telegraphy
 telekinesis
 telemark
+telemarketers
 telemetrically
 telencephala
 teleological
@@ -52234,6 +52264,7 @@ totemist
 totemites
 totems
 tottered
+tottering
 toucan
 touch
 touchdown
@@ -54937,6 +54968,7 @@ uppermost
 uppers
 uppings
 uppishnesses
+uppitiness
 uppity
 uppityness
 uppropped
@@ -55870,6 +55902,7 @@ vitrines
 vitriolling
 vittae
 vittled
+vittles
 vituline
 vituperated
 vituperation
@@ -56826,6 +56859,7 @@ willingly
 willingness
 williwaw
 willower
+willowier
 willy
 wimmin
 wimpiest
@@ -57388,6 +57422,7 @@ yawn
 yawned
 yawner
 yawners
+yawningly
 yawp
 ycleped
 yclept
