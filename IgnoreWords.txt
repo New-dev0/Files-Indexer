@@ -1687,6 +1687,7 @@ anetholes
 aneuploid
 aneuploidy
 aneurysm
+aneurysms
 anga
 angakok
 angel
@@ -1700,6 +1701,7 @@ angeluses
 angered
 anginous
 angiogenesis
+angiogenic
 angiogram
 angiologies
 angiology
@@ -4370,6 +4372,7 @@ belters
 beltings
 beltline
 belugas
+bema
 bemadams
 bemaddens
 bemas
@@ -5105,6 +5108,7 @@ blastulas
 blastulations
 blatancy
 blatant
+blate
 blather
 blathered
 blathering
@@ -5544,6 +5548,7 @@ bookish
 bookishness
 bookkeepers
 bookkeeping
+booklets
 booklouse
 bookmaker
 bookmakings
@@ -9688,6 +9693,7 @@ communisms
 community
 communizations
 communizes
+commutable
 commutates
 commutating
 commutation
@@ -11553,6 +11559,7 @@ ctenophores
 cuatros
 cub
 cubanelle
+cubanelles
 cubbyhole
 cube
 cubeb
@@ -15172,6 +15179,7 @@ duals
 dub
 dubber
 dubbin
+dubiously
 dubiousness
 dubitation
 dubnium
@@ -18559,6 +18567,7 @@ finochios
 fioraturae
 fipple
 fir
+fire
 firearmed
 firearms
 fireback
@@ -20097,6 +20106,7 @@ gagmen
 gahnite
 gaillardias
 gainable
+gainer
 gainfully
 gainfulnesses
 gaingiving
@@ -24207,6 +24217,7 @@ idolize
 idoneous
 ids
 idyll
+idyllically
 idyllists
 idylls
 idyls
@@ -24233,6 +24244,7 @@ ignorant
 ignorantnesses
 ignore
 iguanid
+iguanodon
 ihrams
 ikebana
 ikons
@@ -26090,6 +26102,7 @@ ionogenic
 ionomers
 ionones
 ionospheric
+ionospherically
 iontophoreses
 iontophoresis
 iontophoretic
@@ -26547,6 +26560,7 @@ jesuitically
 jesuitisms
 jetbead
 jetlags
+jetlike
 jetport
 jetports
 jets
@@ -28237,6 +28251,7 @@ lichee
 lichenin
 lichening
 lichenose
+lichenous
 liches
 licht
 lichtly
@@ -33663,6 +33678,7 @@ noticers
 notices
 notifier
 notifying
+notionalities
 notionality
 notochordal
 notoriety
@@ -34310,6 +34326,7 @@ ootids
 ooze
 oozed
 ooziest
+oozy
 opacified
 opacifies
 opalescent
@@ -34389,6 +34406,7 @@ opprobrious
 opprobriums
 oppugn
 oppugnant
+oppugners
 oppugning
 ops
 opsin
@@ -36281,6 +36299,7 @@ parles
 parleying
 parliamentary
 parliaments
+parling
 parlor
 parmigiana
 parmigiano
@@ -38619,6 +38638,7 @@ popes
 popinjays
 poplar
 poplin
+poplins
 popliteus
 popover
 poppadoms
@@ -40021,6 +40041,7 @@ prosencephalic
 proser
 prosier
 prosily
+prosit
 prosody
 prosoma
 prosomal
@@ -40730,6 +40751,7 @@ quadrivia
 quadrivial
 quadrumvir
 quadrumvirates
+quadrumvirs
 quadruped
 quadrupeds
 quadruplicities
@@ -41254,6 +41276,7 @@ rareripes
 rares
 rasbora
 rasers
+rasher
 rashest
 rasp
 raspberries
@@ -43650,6 +43673,7 @@ rhodic
 rhodium
 rhododendron
 rhododendrons
+rhodolite
 rhodomontades
 rhodora
 rhombencephala
@@ -46618,6 +46642,7 @@ side
 sideband
 sideboards
 sideburned
+sidedness
 sidednesses
 sidehill
 sidehills
@@ -47265,6 +47290,7 @@ slouchily
 slouching
 sloughs
 slovenlier
+slovenliest
 slovenly
 slovens
 slow
@@ -47491,6 +47517,7 @@ sneap
 sneaps
 snecks
 snedded
+snedding
 sneerful
 sneerier
 sneeriest
@@ -49837,6 +49864,7 @@ subsidize
 subsidizer
 subsidizes
 subsister
+subsisters
 subsites
 subskill
 subsocial
@@ -51303,6 +51331,7 @@ teaspoons
 teataster
 teawares
 teazelling
+teazle
 teazled
 teazling
 teched
@@ -51801,6 +51830,7 @@ thereat
 therein
 thereinafter
 thereon
+theres
 theretofore
 thermalization
 thermel
@@ -51986,6 +52016,7 @@ thrivingly
 throat
 throatier
 throatiness
+throating
 throatlatch
 throb
 throbbed
@@ -52000,6 +52031,7 @@ thrombus
 throned
 throning
 throttles
+throttling
 through
 throughither
 throughly
@@ -52232,6 +52264,7 @@ tinsnips
 tint
 tinted
 tintypes
+tinware
 tinwares
 tip
 tipcart
@@ -57234,6 +57267,7 @@ windiness
 windinesses
 windings
 windjammers
+windlassed
 windless
 windlessly
 windmills
@@ -57775,6 +57809,7 @@ yawningly
 yawp
 ycleped
 yclept
+yeahs
 yeaned
 yeaning
 yeanlings
