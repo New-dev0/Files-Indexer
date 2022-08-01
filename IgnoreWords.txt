@@ -733,6 +733,7 @@ affirmable
 affirmants
 affirmative
 affirmatively
+affirmed
 affirmer
 affixable
 affixal
@@ -7728,6 +7729,7 @@ cementite
 cementitious
 cemeteries
 cenobite
+cenobitic
 cenospecies
 cenozoic
 cense
@@ -8664,6 +8666,8 @@ cinnamony
 cinnamyls
 cinquain
 cinquefoils
+cioppino
+cipherer
 ciphering
 ciphonies
 cipollino
@@ -9050,6 +9054,7 @@ cloudiness
 cloudless
 cloudlessly
 cloudlessnesses
+cloudscape
 cloudscapes
 clours
 clouters
@@ -11993,6 +11998,7 @@ cyclers
 cyclicality
 cyclically
 cyclicly
+cyclin
 cycling
 cyclings
 cyclitol
@@ -13058,6 +13064,7 @@ denationalizes
 denationalizing
 denaturalizing
 denaturations
+denature
 denatured
 dendrimers
 dendrograms
@@ -14066,6 +14073,7 @@ disavow
 disavowing
 disbanding
 disbandments
+disbelieved
 disbelieves
 disbenefit
 disbosom
@@ -14957,6 +14965,7 @@ dovetails
 dow
 dowagers
 dowdier
+dowdyish
 dowed
 dowel
 doweled
@@ -17436,6 +17445,7 @@ excised
 excises
 excision
 excisional
+excisions
 excitable
 excitant
 excitation
@@ -18911,6 +18921,7 @@ flapping
 flappy
 flare
 flared
+flashback
 flashbacks
 flashcard
 flashed
@@ -19552,6 +19563,7 @@ foretaste
 foretasted
 foreteeth
 foretell
+forethought
 foretime
 foretoken
 foretops
@@ -21882,6 +21894,7 @@ grounded
 grounder
 groundfish
 groundlessness
+groundling
 groundlings
 groundmass
 groundmasses
@@ -22271,6 +22284,7 @@ hagbushes
 hagbuts
 haggadahs
 haggadic
+haggadistic
 haggardness
 haggish
 haggishly
@@ -23803,6 +23817,7 @@ hoteldoms
 hotelier
 hoteliers
 hotelman
+hotelmen
 hotels
 hotheaded
 hotheadedly
@@ -25291,6 +25306,7 @@ ineluctably
 ineludible
 inenarrable
 ineptitude
+ineptitudes
 ineptness
 ineptnesses
 inequity
@@ -25299,6 +25315,7 @@ inerrable
 inerrancy
 inerrant
 inert
+inertia
 inertial
 inertially
 inertias
@@ -26070,6 +26087,7 @@ interval
 intervallic
 intervals
 intervene
+intervener
 intervenes
 intervening
 interviewed
@@ -27055,6 +27073,7 @@ kabbalist
 kabeljou
 kabikis
 kabobs
+kabukis
 kachinas
 kaddish
 kaddishes
@@ -27619,6 +27638,7 @@ kultur
 kummel
 kumquat
 kuna
+kundalinis
 kunzites
 kurbash
 kurrajongs
@@ -28762,6 +28782,7 @@ listerioses
 litany
 litas
 lite
+liter
 literacies
 literacy
 literalist
@@ -31843,6 +31864,7 @@ monograms
 monograph
 monogyny
 monohybrid
+monohybrids
 monohydroxy
 monolayer
 monolingual
@@ -32211,6 +32233,7 @@ mouthpart
 mouthparts
 mouthpiece
 mouthwash
+mouthwateringly
 mouthy
 moutons
 movabilities
@@ -33190,6 +33213,7 @@ nicotiana
 nicotinamide
 nicotinic
 nicotins
+nictation
 nictations
 nictitant
 nictitates
@@ -34765,6 +34789,7 @@ ordering
 orderless
 orderliness
 orderly
+ordinand
 ordinarier
 ordinaries
 ordines
@@ -35301,6 +35326,7 @@ outrivalling
 outroared
 outrock
 outrocking
+outroll
 outrolling
 outrooted
 outrooting
@@ -36332,6 +36358,7 @@ panetella
 panetellas
 panettones
 panfishes
+panfuls
 pangene
 pangenesis
 pangenetic
@@ -37670,6 +37697,7 @@ philomelas
 philosophers
 philosophic
 philosophical
+philosophise
 philosophize
 philosophizers
 philosophizes
@@ -38798,6 +38826,7 @@ polyanthus
 polyanthuses
 polybutadiene
 polycarbonates
+polycarpies
 polycarpy
 polychaete
 polychetes
@@ -39577,6 +39606,7 @@ prehandle
 prehandling
 preheat
 preheaters
+prehensilities
 prehensility
 prehistorian
 prehistories
@@ -47177,6 +47207,7 @@ simooms
 simoons
 simp
 simpered
+simplemindedly
 simpleness
 simpler
 simplest
@@ -53880,6 +53911,7 @@ tsetses
 tsks
 tsktsked
 tsooris
+tsores
 tsunamic
 tsunamis
 tsuris
@@ -53986,6 +54018,7 @@ tungstic
 tunic
 tunica
 tunicated
+tunicles
 tunics
 tuning
 tunnel
@@ -54312,6 +54345,7 @@ ultralow
 ultramarathons
 ultramarine
 ultramicroscope
+ultraminiature
 ultramodernists
 ultramontanism
 ultrapatriotic
@@ -57061,6 +57095,7 @@ wantonly
 wantonnesses
 wapping
 warbonnets
+warcraft
 warcrafts
 wardenries
 wardens
