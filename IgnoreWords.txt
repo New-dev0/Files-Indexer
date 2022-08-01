@@ -38,6 +38,7 @@ abridging
 abridgment
 abridgments
 abrogable
+abrogate
 abrogated
 abruptions
 abruptness
@@ -387,6 +388,7 @@ acrylate
 acrylics
 acrylonitrile
 act
+actability
 acted
 actinia
 actinians
@@ -797,6 +799,7 @@ aftosas
 agalloch
 agallochs
 agamete
+agametes
 agapanthuses
 agape
 agapeic
@@ -1931,6 +1934,7 @@ antialcohol
 antialcoholism
 antianxiety
 antiaphrodisiac
+antiarin
 antiarmor
 antiarrhythmic
 antiars
@@ -2666,6 +2670,7 @@ arpent
 arquebuses
 arracks
 arraigned
+arraigner
 arraignment
 arrangers
 arranges
@@ -8871,6 +8876,7 @@ claustra
 claustrophobias
 claustrum
 claver
+clavered
 clavers
 clavi
 clavichordist
@@ -16363,6 +16369,7 @@ endogeny
 endometritis
 endomitoses
 endomixis
+endomorphic
 endomorphs
 endonuclease
 endonucleolytic
@@ -18181,6 +18188,7 @@ fascination
 fascinator
 fascinators
 fascines
+fascioliases
 fascioliasis
 fascist
 fascistic
@@ -19096,6 +19104,7 @@ flocculus
 flock
 flockier
 flocks
+flocky
 flocs
 flog
 flogging
@@ -20916,6 +20925,7 @@ giddiness
 giddy
 giddying
 gies
+gift
 giftedly
 giftednesses
 giftee
@@ -23360,6 +23370,7 @@ histidins
 histiocytes
 histochemistry
 histogeneses
+histogenetic
 histoid
 histologically
 histologist
@@ -27112,6 +27123,7 @@ kaliums
 kalmia
 kalong
 kalpa
+kalpas
 kalsomined
 kalsomines
 kamaainas
@@ -27951,6 +27963,7 @@ lapwings
 larcenous
 larder
 lardiest
+lardon
 lardoons
 laree
 largehearted
@@ -29263,6 +29276,7 @@ luminescence
 luminescences
 luminiferous
 luminist
+luminous
 lummoxes
 lumpectomies
 lumpen
@@ -29290,6 +29304,7 @@ lungans
 lungee
 lunger
 lunges
+lungfish
 lungfuls
 lungs
 lungworm
@@ -29616,6 +29631,7 @@ maladministers
 maladroitly
 maladroitness
 malamutes
+malanders
 malanga
 malapert
 malapertness
@@ -31219,6 +31235,7 @@ misanthropies
 misanthropy
 misapplication
 misapplied
+misappraisal
 misappraisals
 misapprehend
 misapprehended
@@ -33821,6 +33838,7 @@ nonsmokers
 nonsocialist
 nonspeaker
 nonspherical
+nonsporting
 nonstandard
 nonstarter
 nonstatic
@@ -35198,6 +35216,7 @@ outguide
 outguides
 outguiding
 outguns
+outhandled
 outhandles
 outhaul
 outhearing
@@ -35826,6 +35845,7 @@ overrefinements
 overregulate
 overregulates
 overregulating
+overregulations
 overreliances
 overreported
 override
@@ -36269,6 +36289,7 @@ palmers
 palmette
 palmetto
 palmettoes
+palming
 palmister
 palmisters
 palmitates
@@ -37783,6 +37804,7 @@ phosphorescent
 phosphori
 phosphorolysis
 phosphorolytic
+phosphorous
 phosphors
 phosphoryl
 phosphorylated
@@ -37845,6 +37867,7 @@ photomosaic
 photomultiplier
 photomurals
 photonegative
+photonuclear
 photooxidations
 photooxidized
 photoperiodism
@@ -40793,6 +40816,7 @@ pumicing
 pumicites
 pummelling
 pumped
+pumper
 pumpers
 pumping
 pumpkins
@@ -42127,6 +42151,7 @@ recommits
 recommitting
 recompensed
 recompenses
+recompiled
 recomputed
 reconceived
 reconcentrate
@@ -45738,6 +45763,7 @@ scrimpiest
 scrimpily
 scrimshanders
 scrimshaw
+scrimshaws
 scripter
 scriptures
 scriptwriter
@@ -46543,6 +46569,7 @@ shaman
 shamanic
 shamanistic
 shamble
+shame
 shameable
 shamefaced
 shamefully
@@ -49697,6 +49724,7 @@ strabismus
 straddle
 strafers
 straggled
+straggler
 stragglers
 stragglier
 straggling
@@ -50208,6 +50236,7 @@ submits
 submittal
 submittals
 submitted
+submitters
 submultiple
 subnasal
 subnational
@@ -50319,6 +50348,7 @@ substitutions
 substrata
 substructural
 substructure
+subsume
 subsumption
 subsurfaces
 subsystem
@@ -51065,6 +51095,7 @@ sweetly
 sweetshop
 sweetsop
 sweetsops
+sweller
 swellfishes
 swells
 swelter
@@ -56024,6 +56055,7 @@ vagaries
 vagariously
 vagile
 vaginal
+vaginated
 vagotomy
 vagotonic
 vagrants
@@ -57093,6 +57125,7 @@ wanting
 wantoner
 wantonly
 wantonnesses
+wapentake
 wapping
 warbonnets
 warcraft
@@ -57618,6 +57651,7 @@ whoosh
 whooshes
 whopper
 whorehouse
+whoremaster
 whoremongers
 whores
 whoresons
@@ -57875,6 +57909,7 @@ withins
 withouts
 withstood
 witless
+witlessly
 witnesser
 witnessers
 witnesses
