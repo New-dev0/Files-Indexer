@@ -241,6 +241,7 @@ accusably
 accusant
 accusation
 accusative
+accusatives
 accusatory
 accusers
 accustomation
@@ -459,6 +460,7 @@ addax
 addends
 addendums
 adding
+additionally
 addle
 addles
 addressable
@@ -675,6 +677,7 @@ aerograms
 aerolitic
 aeromechanics
 aeromedicines
+aerometer
 aerometers
 aeronaut
 aeronautical
@@ -2387,6 +2390,7 @@ appraisements
 appraisers
 appraising
 appreciable
+appreciated
 appreciating
 appreciatory
 apprehended
@@ -3047,6 +3051,7 @@ atomically
 atomicities
 atomies
 atomisers
+atomising
 atomisms
 atomist
 atomistic
@@ -5307,6 +5312,7 @@ bluebonnets
 bluebooks
 bluecap
 bluecaps
+bluecoat
 bluefin
 blueish
 bluejack
@@ -7833,6 +7839,7 @@ certify
 ceruleans
 ceruloplasmins
 ceruminous
+cerusite
 cerusites
 cerussite
 cervelases
@@ -12588,6 +12595,7 @@ decongestion
 decongests
 deconstructs
 decontaminate
+decontamination
 decontaminators
 decontrol
 decontrolled
@@ -12876,6 +12884,7 @@ delegators
 deleing
 deles
 deletion
+deletions
 delf
 delft
 delftware
@@ -12969,6 +12978,7 @@ demijohn
 demilitarize
 demilunes
 demimondes
+demineralizing
 demise
 demisemiquaver
 demises
@@ -16889,6 +16899,7 @@ equips
 equitabilities
 equitable
 equitation
+equites
 equivalences
 equivalencies
 equivocalities
@@ -17982,6 +17993,7 @@ fairway
 faithfulness
 faithfulnesses
 faithfuls
+faithlessly
 faiths
 fakery
 fakirs
@@ -21025,6 +21037,7 @@ glamorousnesses
 glamors
 glamoured
 glamourize
+glamourless
 glamourous
 glamours
 glancers
@@ -21318,6 +21331,7 @@ goglet
 goglets
 gogos
 goings
+goitrogenic
 goitrogenicity
 goitrogens
 golconda
@@ -23504,6 +23518,7 @@ homeyness
 homeys
 homicidal
 homicidally
+homie
 homiest
 homilies
 homily
@@ -23728,6 +23743,7 @@ horsewhip
 horsewhipper
 horsinesses
 horticultures
+hosannaed
 hosannah
 hoselike
 hosen
@@ -27294,6 +27310,7 @@ kidlike
 kidnaper
 kidnappees
 kidnappers
+kidnapping
 kidnaps
 kidney
 kidskins
@@ -27588,6 +27605,7 @@ kunzites
 kurbash
 kurrajongs
 kurtas
+kurus
 kvas
 kvases
 kvass
@@ -29073,6 +29091,7 @@ lotus
 lotuslands
 louche
 loud
+loudest
 loudlier
 loudliest
 loudmouthed
@@ -34500,6 +34519,7 @@ omnivorously
 omophagia
 omophagias
 omophagic
+omphalos
 onagers
 onanistic
 onanists
@@ -35229,6 +35249,7 @@ outquoted
 outquotes
 outquoting
 outrace
+outrage
 outrageously
 outrageousness
 outrages
@@ -35294,6 +35315,7 @@ outskated
 outskirts
 outslick
 outslicking
+outsmelling
 outsmelt
 outsmile
 outsmoked
@@ -36500,6 +36522,7 @@ parasyntheses
 paratroops
 paravanes
 parawings
+parbakes
 parboiled
 parboiling
 parbuckle
@@ -36558,6 +36581,7 @@ parlor
 parmigiana
 parmigiano
 parochial
+parodical
 parodistic
 parodoi
 parodos
@@ -44923,6 +44947,7 @@ salutatorians
 salutatories
 salute
 salvageability
+salvageable
 salvagers
 salvages
 salvation
@@ -45253,6 +45278,7 @@ saxtuba
 saxtubas
 sayed
 sayeds
+sayers
 sayest
 sayings
 sayonaras
@@ -45506,6 +45532,7 @@ scirrhi
 scissile
 scissor
 scissors
+scissortail
 sciurine
 sciuroid
 sclaffing
@@ -46991,6 +47018,7 @@ sieved
 sieves
 sifters
 sifting
+siftings
 siganid
 sigh
 sighter
@@ -47114,6 +47142,7 @@ simmers
 simoniac
 simoniacal
 simonies
+simooms
 simoons
 simp
 simpered
@@ -49906,6 +49935,7 @@ suasion
 suasivenesses
 suave
 suaver
+suavities
 subacrid
 subadults
 subaerially
@@ -53612,6 +53642,7 @@ triskele
 triskeles
 triskelia
 triskelion
+trismic
 trismuses
 trisoctahedra
 trisoctahedrons
@@ -54090,6 +54121,7 @@ twinflowers
 twinge
 twinged
 twinging
+twinjet
 twinjets
 twinkler
 twinkles
@@ -57299,6 +57331,7 @@ weldor
 welfarism
 welkin
 well
+welladays
 wellaway
 wellcurb
 wellies
@@ -57564,6 +57597,7 @@ widowers
 widowhood
 widows
 widths
+widthways
 widthwise
 wield
 wieldable
@@ -58236,6 +58270,7 @@ yesternight
 yesteryears
 yestreens
 yeti
+yeuk
 yeuks
 yids
 yield
