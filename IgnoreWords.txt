@@ -2551,6 +2551,7 @@ archduchesses
 archduchies
 archduchy
 archenemies
+archenterons
 archeology
 archerfishes
 archesporium
@@ -5290,6 +5291,7 @@ bloodstock
 bloodstone
 bloodstones
 bloodstreams
+bloodsucker
 bloomers
 bloomiest
 blooming
@@ -6740,6 +6742,7 @@ caconym
 cacophonous
 cacophonously
 cactus
+cadastral
 cadastre
 cadaver
 cadaverines
@@ -8179,6 +8182,7 @@ cheekiest
 cheekily
 cheeking
 cheepers
+cheeps
 cheerers
 cheerfully
 cheerfulness
@@ -8603,6 +8607,7 @@ chuckles
 chuckwalla
 chuddah
 chuddars
+chufas
 chuff
 chuffs
 chug
@@ -9480,6 +9485,7 @@ coinfers
 coinhere
 coinheres
 coinhering
+coining
 coinmate
 coinmates
 coins
@@ -10313,6 +10319,7 @@ consonants
 consortia
 consorts
 conspectus
+conspectuses
 conspicuities
 conspicuousness
 conspirational
@@ -10717,6 +10724,7 @@ corecipients
 coredeeming
 coredeems
 coreigns
+corelated
 corepressor
 corepressors
 corequisites
@@ -10982,6 +10990,7 @@ countdowns
 countenancers
 counter
 counterargue
+counterargues
 counterattack
 counterattacked
 counterattacks
@@ -18750,6 +18759,7 @@ finalist
 finalities
 financial
 financially
+financings
 finbacks
 finch
 fined
@@ -19719,6 +19729,7 @@ formulation
 formulator
 formulators
 formulism
+formyl
 formyls
 fornent
 fornicate
@@ -20972,6 +20983,7 @@ ghettoes
 ghettoize
 ghettoizes
 ghettoizing
+ghibli
 ghosted
 ghostier
 ghostings
@@ -24620,6 +24632,7 @@ illustrations
 illustrative
 illustriously
 illustriousness
+illuvial
 illuviums
 image
 imaged
@@ -25128,6 +25141,7 @@ incited
 incivilities
 inclasped
 inclasps
+inclemencies
 inclement
 inclined
 incliner
@@ -28081,6 +28095,7 @@ lariating
 larine
 lark
 larker
+larkers
 larkier
 larkinesses
 larksome
@@ -28310,6 +28325,7 @@ leathered
 leathering
 leatherlike
 leathernecks
+leathery
 leave
 leavening
 leavier
@@ -29620,6 +29636,7 @@ madreporite
 madrigal
 madrilene
 madronos
+madtom
 maduros
 madwoman
 madwomen
@@ -30215,6 +30232,7 @@ materializer
 materially
 materialness
 materials
+materiels
 maternally
 maternities
 matey
@@ -31400,6 +31418,7 @@ miscalculations
 miscallers
 miscaptioning
 miscarry
+miscarrying
 miscast
 miscasting
 miscasts
@@ -31671,6 +31690,7 @@ misstated
 misstates
 missteered
 misstep
+misstepping
 misstopped
 misstricken
 misstruck
@@ -33681,6 +33701,7 @@ noncultivation
 noncustodial
 nondancer
 nondancers
+nondecisions
 nondegenerate
 nondelegates
 nondeliveries
@@ -36194,6 +36215,7 @@ oxygenated
 oxygenation
 oxygenations
 oxygenic
+oxygenizes
 oxymora
 oxymoronically
 oxymorons
@@ -36631,6 +36653,7 @@ paradise
 paradisiac
 parador
 paradors
+paradoxes
 paradropped
 paraesthesias
 paraffin
@@ -37709,6 +37732,7 @@ petrochemicals
 petrogeneses
 petrogenesis
 petrogenetic
+petroglyph
 petrographer
 petrographic
 petrolatum
@@ -38468,6 +38492,7 @@ pitiable
 pitiableness
 pitiful
 pitifuller
+pitiless
 pitmans
 pittances
 pittas
@@ -39766,6 +39791,7 @@ preguided
 preguides
 prehandle
 prehandling
+prehardens
 preheat
 preheaters
 prehensilities
@@ -40056,6 +40082,7 @@ pretold
 pretorial
 pretournament
 pretrain
+pretrained
 pretrials
 pretrim
 prettier
@@ -45179,6 +45206,7 @@ salts
 saltshakers
 saltwater
 saltwort
+salukis
 salutarinesses
 salutary
 salutation
@@ -46598,6 +46626,7 @@ services
 servicing
 servitudes
 servo
+servomechanism
 servomotor
 servos
 sesquiterpene
@@ -52192,6 +52221,7 @@ tenderometers
 tendresse
 tendrilled
 tendrilous
+tenebrionid
 tenebrionids
 tenebrious
 tenebrism
@@ -52441,6 +52471,7 @@ thawer
 thawless
 thearchies
 theatergoers
+theatergoing
 theatergoings
 theatres
 theatricalism
@@ -53936,6 +53967,7 @@ trisoctahedra
 trisoctahedrons
 trisome
 trisomic
+trisomies
 tristate
 tristezas
 tristful
@@ -54354,6 +54386,7 @@ tutored
 tutoresses
 tutors
 tutorships
+tutoyed
 tutties
 tutting
 tutus
@@ -54789,6 +54822,7 @@ uncalculating
 uncalibrated
 uncalloused
 uncanceled
+uncanny
 uncap
 uncapped
 uncaptioned
@@ -57101,6 +57135,7 @@ volutins
 volvox
 volvulus
 vomer
+vomers
 vomica
 vomicae
 vomiter
