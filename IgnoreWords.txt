@@ -1166,6 +1166,7 @@ allelomorphs
 allergen
 allergenic
 allergenicity
+allergic
 allergins
 allergy
 allethrins
@@ -1463,6 +1464,7 @@ ammonites
 ammoniums
 ammonoids
 ammunition
+amnesia
 amnesiac
 amnia
 amnio
@@ -4334,6 +4336,7 @@ begirt
 beglad
 begladded
 beglamor
+beglamoured
 begloomed
 begoggled
 begonias
@@ -4757,6 +4760,7 @@ bifacially
 biffing
 biffins
 bifid
+bifidly
 biflagellate
 bifocaled
 bifocals
@@ -5449,6 +5453,7 @@ bode
 bodega
 bodegas
 bodement
+bodes
 bodices
 bodily
 boding
@@ -6571,6 +6576,7 @@ bushfires
 bushido
 bushiness
 bushinesses
+bushing
 bushless
 bushpig
 bushpigs
@@ -11270,6 +11276,7 @@ cranberries
 cranberry
 cranch
 craning
+craniometries
 craniometry
 craniosacral
 craniotomy
@@ -11934,6 +11941,7 @@ curst
 curt
 curtailers
 curtailments
+curtainless
 curtains
 curtalax
 curtalaxes
@@ -18732,6 +18740,7 @@ filed
 filefishes
 filename
 files
+filet
 filets
 filiates
 filibeg
@@ -19131,6 +19140,7 @@ flehmens
 fleishig
 flemishes
 flemishing
+flench
 flenching
 flensing
 flesh
@@ -21679,6 +21689,7 @@ gradualnesses
 graduated
 graduating
 graduations
+gradus
 graduses
 graecized
 graecizes
@@ -21800,6 +21811,7 @@ grateless
 grater
 graters
 gratifier
+gratifyingly
 gratineeing
 gratinees
 gratingly
@@ -22762,6 +22774,7 @@ harry
 harshened
 harshening
 harshly
+harslet
 hart
 hartal
 hartals
@@ -22975,6 +22988,7 @@ heartlessnesses
 heartsome
 heartsomely
 heartstring
+heartthrobs
 heartworms
 hearty
 heatable
@@ -26161,6 +26175,7 @@ internally
 internationals
 interne
 internecine
+internee
 internees
 interneurons
 interning
@@ -27239,6 +27254,7 @@ kabalisms
 kabayas
 kabbala
 kabbalah
+kabbalisms
 kabbalist
 kabeljou
 kabikis
@@ -28503,6 +28519,7 @@ leniences
 leniencies
 lenite
 lenitively
+lens
 lense
 lenses
 lensless
@@ -28539,6 +28556,7 @@ lesion
 lesioning
 lessee
 letch
+letching
 letdowns
 lethalities
 lethally
@@ -28635,6 +28653,7 @@ libeled
 libelers
 libelists
 libellee
+libelling
 libels
 liberalise
 liberalising
@@ -28656,6 +28675,7 @@ libido
 librarianship
 librate
 librated
+librates
 librating
 librations
 libretti
@@ -37466,6 +37486,7 @@ peptid
 peptidase
 peptides
 peptidoglycan
+peptizers
 peptizes
 peptonizes
 peptonizing
@@ -37623,6 +37644,7 @@ perjures
 perjurious
 perk
 perkiest
+perkiness
 perkish
 permanences
 permanently
@@ -38136,6 +38158,7 @@ phreaker
 phreakers
 phreatic
 phreatophytic
+phrenologies
 phrenology
 phthalate
 phthalein
@@ -39930,6 +39953,7 @@ premier
 premiered
 premiering
 premierships
+premigration
 premillenarian
 premillenarians
 premising
@@ -42407,6 +42431,7 @@ recompiled
 recomputed
 reconceived
 reconcentrate
+reconceptions
 reconcilability
 reconcilable
 reconciled
@@ -42554,6 +42579,7 @@ redecoration
 redecorator
 reded
 rededicate
+redeemer
 redeemers
 redeeming
 redefeated
@@ -42580,6 +42606,7 @@ redesigned
 redetermination
 redetermining
 redevelopment
+redevelopments
 redeyes
 redfin
 redhead
@@ -43302,6 +43329,7 @@ remittor
 remix
 remobilizations
 remobilizes
+remodeler
 remodeling
 remodelled
 remodelling
@@ -46227,6 +46255,7 @@ seconds
 secpar
 secrecies
 secret
+secreted
 secretin
 secretins
 secretion
@@ -47582,6 +47611,7 @@ sinuous
 sinuously
 sinuousness
 sinuousnesses
+sinus
 sinusitises
 sinuslike
 sinusoid
@@ -48041,6 +48071,7 @@ sluggard
 sluggardness
 sluggardnesses
 slugged
+slugger
 sluggish
 sluggishly
 sluggishness
@@ -51480,6 +51511,7 @@ swordtails
 swotted
 swotter
 swotting
+swound
 swounds
 swum
 sybaritic
@@ -52117,6 +52149,7 @@ technetium
 technical
 technicalize
 technicalizes
+technician
 technicians
 technocrat
 technocratic
@@ -56955,6 +56988,7 @@ vigours
 vilely
 vileness
 vilenesses
+viler
 vilest
 vilification
 vilifier
@@ -56972,6 +57006,7 @@ villously
 vimen
 vimineous
 vina
+vinaigrettes
 vinal
 vinals
 vinasse
