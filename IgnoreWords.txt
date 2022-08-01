@@ -213,6 +213,7 @@ accountant
 accountants
 accountings
 accoutered
+accouterments
 accoutred
 accoutres
 accreditations
@@ -3669,6 +3670,7 @@ baldaquins
 balded
 baldhead
 baldies
+baldish
 baldly
 baldnesses
 baldpates
@@ -4683,6 +4685,7 @@ bialy
 biannually
 bias
 biased
+biasnesses
 biassed
 biaxal
 biaxially
@@ -6445,6 +6448,7 @@ bunged
 bunging
 bungle
 bunglers
+bunglings
 bungs
 bunk
 bunkers
@@ -7237,6 +7241,7 @@ carboniferous
 carbonization
 carbonizations
 carbonize
+carbons
 carbonylic
 carbora
 carbos
@@ -9458,6 +9463,7 @@ coinable
 coinage
 coincidence
 coincides
+coinfect
 coinfected
 coinferred
 coinfers
@@ -9480,6 +9486,7 @@ coir
 coirs
 coitions
 cojoined
+cojoining
 cojoins
 cojones
 cokeheads
@@ -10987,6 +10994,7 @@ counterexamples
 counterfeit
 counterfeiters
 counterfeiting
+counterfire
 counterflow
 counterfoil
 counterguerilla
@@ -12532,6 +12540,7 @@ decelerons
 decemvirate
 decemvirates
 decencies
+decennary
 decennia
 decennials
 decenniums
@@ -13507,6 +13516,7 @@ detrusions
 deuced
 deucedly
 deuteranope
+deuterations
 deuteric
 deuterides
 deuteriums
@@ -14891,6 +14901,7 @@ dopy
 dorado
 dorbeetles
 dore
+dories
 dorkier
 dorkinesses
 dorky
@@ -17375,6 +17386,7 @@ eversion
 evertors
 everyday
 everydayness
+everydaynesses
 everymen
 everyone
 everywhere
@@ -17867,6 +17879,7 @@ extradited
 extraditing
 extrados
 extragalactic
+extrahepatic
 extralimital
 extraliterary
 extralogical
@@ -18816,6 +18829,7 @@ firms
 firs
 firstborns
 firstfruits
+firsthand
 firstling
 firstly
 firsts
@@ -19863,6 +19877,7 @@ freckliest
 free
 freebases
 freebee
+freebees
 freebie
 freeboards
 freeboot
@@ -20843,6 +20858,7 @@ geophysics
 geopolitics
 geoponic
 geoponics
+geoprobes
 georgette
 georgettes
 geostationary
@@ -21177,6 +21193,7 @@ glimed
 glimpse
 glimpsed
 glimpsing
+glims
 glint
 glintiest
 gliomata
@@ -22882,6 +22899,7 @@ heathenisms
 heathenized
 heathenries
 heathens
+heathier
 heathless
 heaths
 heaumes
@@ -25032,6 +25050,7 @@ incentivizes
 incentivizing
 incepted
 incepting
+inceptions
 inceptive
 inceptively
 incepts
@@ -26096,6 +26115,7 @@ interrupts
 interschool
 intersect
 intersection
+intersections
 intersegmental
 intersensory
 intersession
@@ -31287,6 +31307,7 @@ misapprehended
 misapprehending
 misapprehension
 misarticulated
+misarticulating
 misassayed
 misassaying
 misassays
@@ -34206,6 +34227,7 @@ nylghais
 nylghau
 nymph
 nymphalid
+nymphet
 nymphets
 nympho
 nympholepsies
@@ -34688,6 +34710,7 @@ oophytes
 ooralis
 oorie
 oosperms
+oosphere
 oospore
 oospores
 oothecae
@@ -37367,6 +37390,7 @@ performatives
 perfumer
 perfumeries
 perfumery
+perfumy
 perfusates
 perfused
 perfuses
@@ -38701,6 +38725,7 @@ pluralists
 pluralizing
 plus
 plush
+plushily
 plushiness
 plussage
 plutocracy
@@ -40265,6 +40290,7 @@ progestin
 progestins
 progging
 proglottid
+prognathism
 prognathous
 prognose
 prognosticate
@@ -41378,6 +41404,7 @@ quintuplet
 quintuplicate
 quintuplicates
 quintupling
+quippier
 quippiest
 quips
 quipster
@@ -42504,6 +42531,7 @@ reeking
 reel
 reelections
 reeled
+reeligibility
 reeligible
 reelings
 reels
@@ -45112,6 +45140,7 @@ sambo
 sambuca
 sambucas
 samburs
+samech
 samekh
 sameness
 samiels
@@ -46487,6 +46516,7 @@ servable
 servantless
 servants
 served
+servers
 service
 serviceably
 services
@@ -47140,6 +47170,7 @@ sidepieces
 siderites
 siderolite
 siderotic
+sides
 sideshows
 sideslipping
 sideslips
@@ -49566,6 +49597,7 @@ stibial
 stich
 stichomythia
 stichomythy
+stickball
 sticker
 stickers
 stickfuls
@@ -49928,6 +49960,7 @@ strikebreakers
 strikeouts
 strikeovers
 striker
+strikers
 strikes
 striking
 stringcourses
@@ -52437,6 +52470,7 @@ thickets
 thickhead
 thicknesses
 thicksets
+thieve
 thieved
 thievery
 thievishness
@@ -56474,6 +56508,7 @@ verbena
 verbenas
 verbicide
 verbicides
+verbified
 verbify
 verbigeration
 verbiles
