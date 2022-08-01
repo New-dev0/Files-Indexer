@@ -1638,6 +1638,7 @@ anathemas
 anathematize
 anathematized
 anathematizes
+anathematizing
 anatomic
 anatomically
 anatomised
@@ -5634,6 +5635,7 @@ boomer
 boomingly
 boomkin
 boomlets
+booms
 boomy
 boon
 boondoggler
@@ -6085,6 +6087,7 @@ brilliantines
 brilliants
 brillos
 brimfully
+brimstone
 brimstony
 brindled
 brine
@@ -7963,6 +7966,7 @@ chamois
 chamoised
 champacas
 champagnes
+champer
 champertous
 champerty
 champignons
@@ -8826,6 +8830,7 @@ clambakes
 clamberer
 clammers
 clammier
+clammily
 clamminesses
 clamming
 clamor
@@ -10847,6 +10852,7 @@ corsacs
 corsage
 corsair
 corselets
+corset
 corseted
 corsetiere
 corsetieres
@@ -13333,6 +13339,7 @@ desalinations
 desalinators
 desalinizing
 desalted
+desalters
 desalts
 descant
 descanted
@@ -15996,6 +16003,7 @@ electrolyzing
 electrometer
 electromyogram
 electronic
+electronics
 electrophorese
 electroplate
 electropositive
@@ -19512,6 +19520,7 @@ fopped
 fopperies
 foppish
 foppishly
+fops
 fora
 foramen
 foramens
@@ -21035,6 +21044,7 @@ gimmals
 gimmick
 gimmicks
 gimmies
+gimping
 gimpy
 gingeley
 gingeli
@@ -21668,6 +21678,7 @@ grandfathers
 grandiloquently
 grandiosity
 grandma
+grandmama
 grandmamas
 grandmotherly
 grandnephew
@@ -22317,6 +22328,7 @@ habitan
 habitant
 habitants
 habitualness
+habitualnesses
 habituate
 habituating
 habituation
@@ -24118,6 +24130,7 @@ hush
 hushed
 hushing
 hushpuppies
+huskier
 huskily
 huskiness
 huskinesses
@@ -27656,6 +27669,7 @@ knotters
 knotting
 knottings
 knotweeds
+knout
 knowable
 knower
 knowing
@@ -29138,6 +29152,7 @@ lomein
 lomeins
 loment
 lomenta
+lomentums
 lonelily
 lonelinesses
 lonesome
@@ -31037,6 +31052,7 @@ midlists
 midlives
 midmost
 midnight
+midrash
 midrashic
 midrashoth
 midsagittal
@@ -31920,6 +31936,7 @@ mongrelize
 mongrelly
 mongst
 monicker
+moniker
 moniliform
 monishes
 monishing
@@ -34109,6 +34126,7 @@ nouvelle
 nouvelles
 novae
 novalike
+novelise
 novelises
 novelising
 novelizations
@@ -35242,6 +35260,7 @@ outdatednesses
 outdazzling
 outdebated
 outdebates
+outdeliver
 outdesigned
 outdistances
 outdistancing
@@ -39894,6 +39913,7 @@ prepubis
 prepublication
 prepublications
 prepuce
+prepunch
 prepunches
 prepupa
 prepupae
@@ -39984,6 +40004,7 @@ pressureless
 pressurised
 pressurization
 pressurize
+prestamped
 prester
 presterilizes
 prestidigitator
@@ -44923,6 +44944,7 @@ rutabaga
 rutherfordium
 ruthful
 ruthless
+ruths
 rutiles
 rutin
 rutins
@@ -46302,6 +46324,7 @@ semifinalist
 semifinals
 semifluid
 semiformal
+semihobo
 semilethal
 semilethals
 semillon
@@ -46575,6 +46598,7 @@ services
 servicing
 servitudes
 servo
+servomotor
 servos
 sesquiterpene
 sessilities
@@ -48002,6 +48026,7 @@ smiths
 smithy
 smiting
 smock
+smocked
 smockings
 smocks
 smoggier
@@ -48171,6 +48196,7 @@ snout
 snowbank
 snowbanks
 snowbell
+snowbelt
 snowberries
 snowbird
 snowblink
@@ -48498,6 +48524,7 @@ sophisticates
 sophomore
 sopited
 sopor
+sopped
 soppinesses
 sopranino
 sopraninos
@@ -49306,6 +49333,7 @@ stagey
 stagflation
 staggerbush
 staggerer
+staggers
 staggie
 staggiest
 stagging
@@ -51071,6 +51099,7 @@ surfings
 surfman
 surfs
 surgery
+surgical
 surgically
 suricate
 suricates
@@ -53132,6 +53161,7 @@ top
 topcross
 tope
 toped
+topees
 toper
 topes
 topflight
@@ -54805,6 +54835,7 @@ uncinarias
 uncinematic
 uncivil
 uncivilized
+unclaimed
 unclamping
 unclarity
 unclasp
@@ -55620,6 +55651,7 @@ unrehearsed
 unreinforced
 unrelated
 unrelenting
+unrelentingly
 unreliability
 unremarkably
 unremittingly
@@ -57092,6 +57124,7 @@ voting
 votiveness
 votives
 voucher
+vouchsafes
 voudon
 voudoun
 vow
@@ -58196,6 +58229,7 @@ woolie
 wooliness
 woollinesses
 woolly
+woolmen
 wools
 woolwork
 woolworks
@@ -58603,6 +58637,7 @@ yore
 youngest
 youngish
 youngling
+youngster
 youngsters
 younker
 youpon
