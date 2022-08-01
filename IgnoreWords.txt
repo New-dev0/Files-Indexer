@@ -645,6 +645,7 @@ aecium
 aedes
 aedile
 aediles
+aegises
 aeneous
 aeneus
 aeonic
@@ -1128,6 +1129,7 @@ alkines
 alkoxide
 alkyd
 alkyds
+alkyl
 allanite
 allantoides
 allantoids
@@ -1691,6 +1693,7 @@ aneuploid
 aneuploidy
 aneurysm
 aneurysms
+anfractuosities
 anga
 angakok
 angel
@@ -1831,6 +1834,7 @@ anodynic
 anointer
 anointments
 anole
+anolytes
 anomalous
 anomalously
 anomalousness
@@ -2836,6 +2840,7 @@ assailant
 assailed
 assailing
 assais
+assassinates
 assassinating
 assassinator
 assaulting
@@ -3272,6 +3277,7 @@ automation
 automatist
 automatized
 automatizes
+automatons
 automats
 automobiled
 automobiles
@@ -5027,6 +5033,7 @@ biweeklies
 biz
 bizarreness
 bizarres
+bizarro
 biznagas
 bizonal
 bizones
@@ -5060,6 +5067,7 @@ blackleg
 blacklist
 blacklisting
 blackmailed
+blackmailer
 blackpolls
 blacksmithing
 blacksmithings
@@ -11516,6 +11524,7 @@ cruller
 crullers
 crumbers
 crumblier
+crumbly
 crumby
 crumhorn
 crumhorns
@@ -13237,6 +13246,7 @@ desalts
 descant
 descanted
 descanters
+descants
 descend
 descender
 descendible
@@ -13544,6 +13554,7 @@ dialectically
 dialectician
 dialectics
 dialectologist
+dialectologists
 dialectology
 dialects
 dialer
@@ -14067,6 +14078,7 @@ discomfiting
 discomfiture
 discomfitures
 discomfort
+discomfortable
 discomforting
 discommends
 discommode
@@ -15665,6 +15677,7 @@ eddy
 edelweiss
 edentulous
 edge
+edger
 edges
 edgewise
 edginesses
@@ -15882,6 +15895,7 @@ electroscope
 electrosurgical
 electrotonic
 electrotypes
+electroweak
 electrowinning
 electrum
 electuary
@@ -18945,6 +18959,7 @@ fleshliest
 fleshly
 fleshments
 fleshpot
+fletched
 fleuron
 flexagon
 flexile
@@ -19308,6 +19323,7 @@ foosballs
 footage
 footbags
 footballs
+footbaths
 footboard
 footboards
 footboy
@@ -22488,6 +22504,7 @@ harmine
 harming
 harmless
 harmlessly
+harmlessness
 harmonic
 harmonies
 harmonium
@@ -23652,6 +23669,7 @@ horsehides
 horselaughs
 horselike
 horsemanships
+horsemint
 horsepowers
 horsepox
 horsepoxes
@@ -23858,6 +23876,7 @@ humoristic
 humorists
 humorlessly
 humorlessness
+humorousness
 humorousnesses
 humoured
 humouring
@@ -30240,6 +30259,7 @@ melancholy
 melanian
 melanin
 melanist
+melanitic
 melanoblast
 melanocyte
 melanocytes
@@ -30806,6 +30826,7 @@ midwinter
 midwinters
 midwives
 midwiving
+mien
 miffiest
 miffing
 migg
@@ -32803,6 +32824,7 @@ needlessly
 needlessnesses
 needleworker
 needling
+needy
 neem
 neg
 negates
@@ -34136,6 +34158,7 @@ obturate
 obturated
 obturates
 obturations
+obturator
 obtuser
 obtusity
 obverse
@@ -34596,6 +34619,7 @@ ora
 oraches
 oracularly
 oral
+orality
 orals
 orangeade
 orangerie
@@ -35245,6 +35269,7 @@ outsworn
 outswum
 outtalked
 outtasking
+outtells
 outthank
 outthanked
 outthanking
@@ -38289,6 +38314,7 @@ platinum
 platitudes
 platitudinarian
 platitudinize
+platitudinizes
 platooned
 platted
 platterful
@@ -40106,6 +40132,7 @@ pronouncements
 pronouncer
 pronouncers
 pronounces
+pronouns
 pronto
 pronuclear
 proofreading
@@ -40855,6 +40882,7 @@ pyrolyzates
 pyrolyze
 pyrolyzers
 pyrolyzing
+pyromancies
 pyromancy
 pyromaniac
 pyromaniacal
@@ -45367,6 +45395,7 @@ schwa
 sciamachy
 sciatica
 sciaticas
+science
 sciences
 sciential
 scientism
@@ -45795,6 +45824,7 @@ seedily
 seedless
 seedlings
 seedpod
+seedpods
 seedstock
 seedtime
 seedy
@@ -46270,6 +46300,7 @@ sextant
 sextarius
 sextets
 sextile
+sextillion
 sexto
 sextodecimo
 sextos
@@ -46815,6 +46846,7 @@ sicced
 siccing
 sices
 sicked
+sickees
 sicken
 sickening
 sickens
@@ -51117,6 +51149,7 @@ syzygies
 syzygy
 tab
 tabanids
+tabbises
 tabbouleh
 tabboulehs
 taber
@@ -54428,6 +54461,7 @@ uncomprehended
 uncompromisable
 uncomputerized
 unconceivable
+unconcern
 unconcernedness
 unconditionally
 unconfined
@@ -56799,6 +56833,7 @@ walkabout
 walkabouts
 walkaway
 walker
+walking
 walkingstick
 walkover
 walkup
