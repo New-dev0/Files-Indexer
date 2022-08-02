@@ -657,6 +657,7 @@ aediles
 aegises
 aeneous
 aeneus
+aeon
 aeonic
 aequorin
 aeration
@@ -1088,6 +1089,7 @@ algometers
 algometry
 aliases
 aliasing
+alibied
 alibies
 alibiing
 alicyclic
@@ -1434,6 +1436,7 @@ amia
 amiabilities
 amiable
 amiablenesses
+amiably
 amianthus
 amianthuses
 amiantus
@@ -1686,6 +1689,7 @@ andesytes
 andouillette
 androecia
 androgeneses
+androgenic
 androgynous
 andrologies
 andros
@@ -6394,10 +6398,12 @@ buhls
 buhlwork
 buhr
 build
+builder
 builds
 buildups
 buirdly
 bulbed
+bulbs
 bulbuls
 bulged
 bulger
@@ -6757,6 +6763,7 @@ cachalots
 cachepots
 cacheting
 caching
+cachinnated
 cachinnation
 cachou
 cachucha
@@ -7055,6 +7062,7 @@ candlefishes
 candlelight
 candlelighter
 candlelit
+candlesnuffer
 candlesnuffers
 candlestick
 candlesticks
@@ -7809,6 +7817,7 @@ centenarians
 centenaries
 centerboard
 centered
+centerfolds
 centering
 centerings
 centerless
@@ -9245,6 +9254,7 @@ coattail
 coattest
 coattesting
 coattests
+coauthored
 coauthoring
 coauthorships
 coaxed
@@ -10281,6 +10291,7 @@ connecting
 connection
 connectional
 connections
+connectivities
 connects
 connexions
 conning
@@ -10773,6 +10784,7 @@ coresidents
 corgi
 coria
 corianders
+corkage
 corkages
 corkboard
 corker
@@ -11895,6 +11907,7 @@ curanderos
 curares
 curari
 curarization
+curarized
 curarizing
 curate
 curators
@@ -15137,6 +15150,7 @@ downspin
 downspout
 downstages
 downstair
+downstairs
 downstate
 downstates
 downswing
@@ -20073,6 +20087,7 @@ fribbles
 fricative
 frictionally
 frictionless
+friedcake
 friedcakes
 friend
 friended
@@ -28624,6 +28639,7 @@ leucemia
 leucin
 leucines
 leucite
+leucites
 leucitic
 leucocidins
 leucocyte
@@ -30620,6 +30636,7 @@ megass
 megasse
 megasses
 megastars
+megathere
 megatheres
 megatonnage
 megatonnages
@@ -31386,6 +31403,7 @@ minibike
 minibiker
 minibikers
 minicab
+minicabs
 minicamps
 minicar
 minicomputer
@@ -32940,6 +32958,7 @@ myology
 myope
 myopically
 myoses
+myositis
 myosote
 myosotises
 myotic
@@ -33293,6 +33312,7 @@ neologies
 neologist
 neologists
 neologizing
+neology
 neomorphs
 neomycins
 neonatologies
@@ -34262,6 +34282,7 @@ nothingnesses
 noticed
 noticers
 notices
+notifiable
 notifier
 notifying
 notionalities
@@ -35647,6 +35668,7 @@ outscolded
 outscolding
 outscoop
 outscooping
+outscored
 outscoring
 outscreaming
 outseeing
@@ -35669,6 +35691,7 @@ outsmelling
 outsmelt
 outsmile
 outsmoked
+outsnoring
 outsoared
 outsoars
 outsoles
@@ -36079,6 +36102,7 @@ overmilked
 overmine
 overmined
 overmines
+overmixed
 overmodest
 overmuch
 overnear
@@ -42383,6 +42407,7 @@ received
 receiver
 receiving
 recement
+recentrifuged
 reception
 receptivities
 receptor
@@ -45050,6 +45075,7 @@ ruined
 ruiner
 ruining
 ruinousness
+ruinousnesses
 rulable
 ruled
 ruleless
@@ -47189,6 +47215,7 @@ shitless
 shittah
 shittims
 shittimwoods
+shiva
 shivas
 shivered
 shiverer
@@ -47526,6 +47553,7 @@ signing
 signior
 signiories
 signiors
+signiory
 signora
 signoras
 signore
@@ -50710,6 +50738,7 @@ subshrubs
 subsider
 subsiders
 subsidiarity
+subsidised
 subsidising
 subsidization
 subsidize
@@ -51892,6 +51921,7 @@ talcking
 talcs
 talcums
 talebearer
+talebearings
 talented
 talentless
 taler
@@ -54631,6 +54661,7 @@ twerps
 twibill
 twiddlers
 twiddles
+twiddling
 twiddly
 twiggen
 twiggier
@@ -55714,6 +55745,7 @@ unloosed
 unloosened
 unloosening
 unloosing
+unlovable
 unloved
 unloveliest
 unlovelinesses
@@ -56660,6 +56692,7 @@ vasa
 vascula
 vascularity
 vascularization
+vasectomies
 vasectomized
 vaselines
 vasoconstrictor
@@ -57177,6 +57210,7 @@ viscounty
 viscus
 viseed
 viselike
+vises
 vising
 visionally
 visionless
@@ -58471,6 +58505,7 @@ woolgatherings
 woolhat
 woolie
 wooliness
+woollies
 woollinesses
 woolly
 woolmen
