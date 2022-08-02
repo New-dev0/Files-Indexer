@@ -1879,6 +1879,7 @@ anomalous
 anomalously
 anomalousness
 anomalousnesses
+anomaly
 anonymousnesses
 anonyms
 anoopsia
@@ -2626,6 +2627,7 @@ arfs
 argala
 argental
 argentums
+argillaceous
 argillite
 argils
 arginases
@@ -3626,6 +3628,7 @@ backstage
 backstamped
 backstamps
 backstitches
+backstop
 backstopping
 backstreet
 backstretches
@@ -3898,6 +3901,7 @@ barge
 bargeboard
 barged
 bargees
+barges
 barguests
 barhop
 barhopped
@@ -4318,6 +4322,7 @@ beefiness
 beefing
 beefs
 beefwoods
+beehive
 beekeepers
 beekeepings
 beelike
@@ -4994,6 +4999,7 @@ bioturbed
 biparentally
 bipartisanisms
 biparty
+biped
 bipedalisms
 bipedalities
 biphasic
@@ -8534,6 +8540,7 @@ chloroplastic
 chloroprene
 chloroquine
 chloroses
+chlorothiazide
 chlorothiazides
 chlorpromazine
 chlorpropamide
@@ -10672,6 +10679,7 @@ convoking
 convolute
 convolved
 convolves
+convolving
 convolvuluses
 convoys
 convulsant
@@ -13316,6 +13324,7 @@ denuclearizes
 denudated
 denudates
 denudating
+denudement
 denuder
 denuders
 denumerability
@@ -14673,6 +14682,7 @@ disseated
 disseats
 dissect
 dissecting
+dissectors
 dissects
 dissed
 disseise
@@ -17238,6 +17248,7 @@ erotic
 erotica
 eroticizations
 eroticizing
+erotics
 erotism
 err
 errancies
@@ -17665,6 +17676,7 @@ examined
 examinee
 examines
 examining
+exampling
 exanimate
 exanthema
 exanthemas
@@ -17844,6 +17856,7 @@ existence
 existent
 existential
 existentially
+exited
 exobiologists
 exocrines
 exocyclic
@@ -17867,6 +17880,7 @@ exonic
 exonuclease
 exonumists
 exonym
+exopeptidases
 exophthalmic
 exophthalmoses
 exophthalmuses
@@ -18012,6 +18026,7 @@ expulses
 expulsing
 expulsive
 expunctions
+expunge
 expunged
 expunging
 expurgates
@@ -18100,6 +18115,7 @@ extraditable
 extradite
 extradited
 extraditing
+extradition
 extrados
 extragalactic
 extrahepatic
@@ -21602,6 +21618,7 @@ gnarlier
 gnarls
 gnarr
 gnarrs
+gnash
 gnashes
 gnat
 gnatcatchers
@@ -21634,6 +21651,7 @@ goads
 goalmouth
 goalmouths
 goaltenders
+goaltending
 goalward
 goanna
 goannas
@@ -22476,6 +22494,7 @@ gunwale
 guppies
 gurged
 gurgle
+gurgles
 gurglets
 gurnard
 gurnards
@@ -28043,6 +28062,7 @@ koumysses
 kouprey
 kouros
 koussos
+kowtower
 kremlin
 kremlinologies
 kremlinologists
@@ -28334,6 +28354,7 @@ landsman
 landward
 lang
 langbeinite
+langlaufers
 langouste
 langoustines
 langrage
@@ -29628,6 +29649,7 @@ lovelily
 loveliness
 lovelock
 lovelocks
+lovely
 lovemaking
 lovemakings
 lover
@@ -30637,6 +30659,7 @@ maximals
 maximin
 maximising
 maximites
+maximizers
 maximizing
 maxing
 maxixe
@@ -31262,6 +31285,7 @@ miasmatic
 miasmic
 miaul
 mib
+micaceous
 mice
 micell
 micellar
@@ -31549,6 +31573,7 @@ millwright
 milo
 milpa
 milters
+milts
 mimbar
 mimbars
 mimed
@@ -32276,6 +32301,7 @@ monarch
 monarchial
 monarchical
 monarchists
+monarchs
 monarchy
 monasticism
 monasticisms
@@ -32920,6 +32946,7 @@ multiplies
 multiproblem
 multiprocessors
 multiproduct
+multipronged
 multiracialism
 multirange
 multiscreen
@@ -33902,6 +33929,7 @@ nodulous
 noel
 noels
 noesises
+noetic
 noggin
 noggs
 noh
@@ -34325,6 +34353,7 @@ nonrespondents
 nonresponse
 nonrestrictive
 nonretractile
+nonretroactive
 nonrival
 nonrubber
 nonruminant
@@ -36755,6 +36784,7 @@ palace
 paladin
 palaestra
 palaestrae
+palankeen
 palanquins
 palatable
 palatably
@@ -40437,10 +40467,12 @@ preshapes
 preshaping
 preship
 preshowing
+preshown
 preshrink
 preshrinks
 preshrunk
 presidencies
+presidential
 presidentship
 presidentships
 presider
@@ -41333,6 +41365,7 @@ pubertal
 puberulent
 pubescent
 pubis
+public
 publication
 publicised
 publicized
@@ -43668,6 +43701,7 @@ rememberable
 remembering
 remended
 remerged
+remerging
 remex
 remigial
 remilitarize
@@ -54180,6 +54214,7 @@ transnational
 transonic
 transparence
 transparent
+transparentized
 transpersonal
 transpierce
 transpirational
