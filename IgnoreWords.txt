@@ -536,6 +536,7 @@ admasses
 admeasures
 admeasuring
 administering
+administers
 administrable
 administrant
 administrants
@@ -2098,6 +2099,7 @@ antiobscenity
 antioxidant
 antiozonant
 antiparty
+antipathy
 antipersonnel
 antiperspirants
 antipesticide
@@ -2685,6 +2687,7 @@ armours
 armrest
 armrests
 armsful
+armyworm
 arnicas
 aroid
 aroids
@@ -6045,6 +6048,7 @@ brazier
 brazil
 brazils
 brazilwood
+breachers
 breaching
 breadbaskets
 breadbox
@@ -7032,6 +7036,7 @@ calypters
 calyptras
 calyxes
 calzone
+calzones
 camailed
 camarillas
 camas
@@ -11466,6 +11471,7 @@ creature
 creaturehood
 creaturehoods
 creaturely
+creches
 credences
 credendum
 credential
@@ -12155,6 +12161,7 @@ cyanamids
 cyanic
 cyanided
 cyanin
+cyanines
 cyanins
 cyanite
 cyanoacrylates
@@ -14766,6 +14773,7 @@ distillates
 distilleries
 distils
 distinctively
+distinguishes
 distome
 distorter
 distorters
@@ -15671,6 +15679,7 @@ duologue
 duomos
 duopsonies
 dup
+dupe
 duper
 dupery
 duplexers
@@ -15769,6 +15778,7 @@ dyskinesia
 dyslectic
 dyslexias
 dyslexic
+dyslogistically
 dyspepsias
 dyspepsies
 dyspepsy
@@ -19529,6 +19539,7 @@ flunking
 flunkyism
 fluoresce
 fluorescein
+fluorescence
 fluoresces
 fluoric
 fluoridation
@@ -24540,6 +24551,7 @@ hydroxyapatite
 hydroxylapatite
 hydroxylase
 hydroxylases
+hydroxylates
 hyenas
 hyenine
 hyetal
@@ -28343,6 +28355,7 @@ lanceted
 lancewood
 lancinates
 lancinating
+landaulet
 landaulets
 landfill
 landgraves
@@ -30737,6 +30750,7 @@ meany
 measled
 measles
 measly
+measurable
 measureless
 measurements
 measures
@@ -31475,6 +31489,7 @@ midwives
 midwiving
 mien
 miffiest
+miffiness
 miffing
 migg
 miggs
@@ -35367,6 +35382,7 @@ orchestrators
 orchidaceous
 orchids
 orchil
+orchils
 orcin
 orcinol
 orcins
@@ -37794,6 +37810,7 @@ penologist
 pens
 pensee
 pensil
+pensionable
 pensione
 pensioned
 pensioners
@@ -40024,6 +40041,7 @@ praxises
 pray
 prayer
 prayerfulness
+prays
 preabsorb
 preabsorbing
 preaccuse
@@ -40037,6 +40055,7 @@ preaching
 preachments
 preachy
 preact
+preacts
 preadapt
 preadaptation
 preadaptations
@@ -40134,6 +40153,7 @@ precleans
 preclearances
 preclears
 precluding
+precocious
 precocity
 precombustions
 precommitment
@@ -41238,6 +41258,7 @@ provincialisms
 provincialize
 provincialized
 provincially
+provisionally
 provisionary
 provisoes
 provisory
@@ -42227,6 +42248,7 @@ rainproof
 rainproofed
 rainproofing
 rainspouts
+rainwashes
 rainwater
 raiseable
 raised
@@ -44851,6 +44873,7 @@ richened
 richer
 riches
 richnesses
+richweed
 ricin
 ricinuses
 rick
@@ -45520,6 +45543,7 @@ rutabaga
 rutherfordium
 ruthful
 ruthless
+ruthlessness
 ruths
 rutiles
 rutin
@@ -47427,6 +47451,7 @@ sheeny
 sheepberries
 sheepcot
 sheepdog
+sheephead
 sheepherder
 sheepherding
 sheepherdings
@@ -48590,6 +48615,7 @@ smallswords
 smalts
 smaragdite
 smaragdites
+smarm
 smarties
 smartweeds
 smash
@@ -48787,6 +48813,7 @@ snog
 snogged
 snood
 snooded
+snooding
 snook
 snooker
 snookering
@@ -50375,6 +50402,7 @@ stingless
 stingo
 stingrays
 stinkier
+stinko
 stinky
 stipel
 stipple
@@ -51641,6 +51669,7 @@ supersizes
 supersleuth
 supersoft
 supersonically
+supersonics
 superspecial
 superspecialist
 superspecials
@@ -53538,6 +53567,7 @@ tilts
 timbale
 timbales
 timbals
+timberdoodles
 timberheads
 timberline
 timberlines
@@ -53572,6 +53602,7 @@ tincturing
 tinders
 tineas
 tineid
+tinfuls
 tinged
 tinges
 tinging
@@ -55460,6 +55491,7 @@ unbruised
 unbrushed
 unbudgeably
 unbudging
+unbuffered
 unbuilt
 unburden
 unburdened
@@ -57877,6 +57909,7 @@ vulgarer
 vulgarian
 vulgarised
 vulgarism
+vulgarisms
 vulgarization
 vulgarized
 vulgarizes
@@ -58074,6 +58107,7 @@ warless
 warlike
 warm
 warmaker
+warmed
 warmers
 warmest
 warmheartedness
@@ -58233,6 +58267,7 @@ waxwings
 waxwork
 waxworker
 waxworm
+waxworms
 waybill
 waybills
 wayfarer
