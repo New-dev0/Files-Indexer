@@ -3685,6 +3685,7 @@ baggies
 bagginess
 bagginesses
 bagmen
+bagnio
 bagpipe
 bagpipes
 bagpiping
@@ -7820,6 +7821,7 @@ ceibas
 ceiler
 ceilinged
 ceilings
+ceilometers
 ceils
 cel
 celeriac
@@ -11201,6 +11203,7 @@ countersink
 countersinking
 countersniper
 counterspy
+counterstaining
 counterstated
 counterstating
 countersteps
@@ -14933,6 +14936,7 @@ doctorates
 doctoring
 doctors
 doctorships
+doctrinairisms
 docudrama
 docudramas
 documentalist
@@ -17137,6 +17141,7 @@ epiphytotic
 episcopacy
 episcopally
 episcopate
+episcopates
 episiotomy
 episodes
 epistemically
@@ -18512,6 +18517,7 @@ fascists
 fashed
 fashing
 fashionableness
+fashioner
 fashionmongers
 fashions
 fashious
@@ -20582,6 +20588,7 @@ fustigate
 fustigating
 fustinesses
 fusulinids
+futharcs
 futhork
 futile
 futileness
@@ -20926,6 +20933,7 @@ gatefold
 gatefolds
 gatehouse
 gateless
+gatepost
 gaters
 gather
 gauchely
@@ -23116,6 +23124,7 @@ haversack
 havior
 havocking
 hawed
+hawing
 hawkbill
 hawked
 hawking
@@ -25208,6 +25217,7 @@ impishly
 impishness
 implantable
 implantation
+implantations
 implanted
 implanter
 implausibility
@@ -26577,6 +26587,7 @@ interwove
 intestacy
 intestate
 intestinally
+intestines
 inthralled
 inthralls
 inthrals
@@ -28567,6 +28578,7 @@ laughably
 laughed
 laughingstock
 laughlines
+launces
 launched
 launcher
 launching
@@ -29044,6 +29056,7 @@ liever
 lifeboat
 lifeguarded
 lifeless
+lifelessnesses
 lifelikenesses
 lifemanship
 lifers
@@ -30056,6 +30069,7 @@ magistratical
 magistratically
 magistrature
 magmata
+magmatic
 magnanimous
 magnesias
 magnesite
@@ -30609,6 +30623,7 @@ masturbated
 masturbates
 masturbator
 matchless
+matchmake
 matchmaker
 matchmakers
 matchmark
@@ -30729,6 +30744,7 @@ mayweeds
 mazaedia
 mazaedium
 mazard
+maze
 mazed
 mazedly
 mazednesses
@@ -31140,6 +31156,7 @@ mesocarp
 mesocarps
 mesocyclones
 mesodermal
+mesogleal
 mesomeres
 mesomorph
 mesomorphy
@@ -32918,6 +32935,7 @@ mulcted
 muled
 muleteer
 muleteers
+mull
 mullah
 mullahism
 mullen
@@ -36122,6 +36140,7 @@ overachievement
 overachieving
 overactions
 overactivity
+overacts
 overadjustment
 overadjustments
 overages
@@ -38074,6 +38093,7 @@ pernod
 pernods
 perorating
 perorator
+perorators
 perovskite
 peroxidase
 peroxided
@@ -38195,6 +38215,7 @@ pesticides
 pestiferous
 pestiferousness
 pestilences
+pestilent
 pestilential
 pestilentially
 pestilently
@@ -38403,6 +38424,7 @@ phlorizin
 phlorizins
 phloxes
 phlyctena
+phlyctenae
 phobia
 phoenixes
 phonal
@@ -38938,6 +38960,7 @@ piquance
 piquances
 piquancies
 piquet
+piquing
 piracy
 piragua
 piraguas
@@ -44550,6 +44573,7 @@ retiringnesses
 retold
 retook
 retool
+retore
 retorn
 retort
 retortions
@@ -45052,6 +45076,7 @@ ritardando
 ritards
 rites
 ritonavirs
+ritual
 ritualism
 ritualist
 ritualists
@@ -45111,6 +45136,7 @@ robed
 robes
 robins
 roble
+roborants
 robotism
 robotization
 robotry
@@ -47358,6 +47384,7 @@ shafts
 shagging
 shagreens
 shah
+shahdom
 shahs
 shairns
 shaitan
@@ -47530,6 +47557,7 @@ shelve
 shelved
 shelves
 shelving
+shelvings
 shenanigans
 sheol
 shepherd
@@ -49995,6 +50023,7 @@ stablishing
 stablishment
 stablishments
 stably
+staccati
 stacked
 stacking
 stacks
@@ -50210,6 +50239,7 @@ steamed
 steamered
 steamers
 steamfitter
+steamfitters
 steamier
 steamiest
 steaminess
@@ -51297,6 +51327,7 @@ succah
 succahs
 succedanea
 succedent
+succeeders
 succeeding
 succeeds
 successes
@@ -53926,6 +53957,7 @@ toponymic
 toponymical
 toponymies
 toponymists
+toponyms
 topos
 topotype
 topped
@@ -55995,6 +56027,7 @@ unfasten
 unfastening
 unfastens
 unfastidious
+unfavorably
 unfeelingly
 unfeelingnesses
 unfeigned
@@ -56112,6 +56145,7 @@ unicyclist
 unideaed
 unideological
 unific
+unifiers
 uniform
 uniformitarians
 uniformness
@@ -57747,6 +57781,7 @@ vitalistic
 vitalists
 vitalities
 vitality
+vitalize
 vitalizes
 vitals
 vitamines
