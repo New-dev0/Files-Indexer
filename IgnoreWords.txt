@@ -970,6 +970,7 @@ airlifting
 airline
 airliner
 airmen
+airpower
 airpowers
 airproofing
 airscape
@@ -2747,6 +2748,7 @@ artels
 artemisia
 arterials
 arteriogram
+arteriography
 arteriolar
 artful
 artfulnesses
@@ -5149,6 +5151,7 @@ blackguards
 blackgum
 blackhead
 blackheart
+blackjack
 blackleg
 blacklist
 blacklisting
@@ -5475,6 +5478,7 @@ bobolinks
 bobsleigh
 bobsleighs
 bobstays
+bobwhite
 bobwhites
 bocces
 boccie
@@ -5693,6 +5697,7 @@ booms
 boomy
 boon
 boondoggler
+boondoggles
 boondoggling
 boonless
 boons
@@ -7805,6 +7810,7 @@ celestite
 celestites
 celiacs
 celibacies
+celibate
 cell
 cellar
 cellarage
@@ -8254,6 +8260,7 @@ checks
 checksums
 checkup
 checkups
+cheddite
 cheechakos
 cheekbone
 cheeked
@@ -8481,6 +8488,7 @@ chirrups
 chiru
 chirus
 chis
+chiseled
 chiseler
 chiselers
 chiselled
@@ -10639,6 +10647,7 @@ convey
 conveyancer
 conveyancers
 conveyances
+conveying
 conveyor
 conveyorise
 conveyorised
@@ -13349,6 +13358,7 @@ deploring
 deployable
 deployers
 deployments
+deploys
 deplumes
 depluming
 depolarization
@@ -13741,6 +13751,7 @@ dewormer
 dews
 dex
 dexterity
+dexterous
 dexterousness
 dextral
 dextran
@@ -15730,6 +15741,7 @@ dyskinesia
 dyslectic
 dyslexias
 dyslexic
+dyspepsias
 dyspepsies
 dyspepsy
 dyspeptic
@@ -17490,6 +17502,7 @@ eukaryotic
 eulachan
 eulachon
 eulogistic
+eulogistically
 eulogists
 eulogizer
 eulogy
@@ -23221,6 +23234,7 @@ heedlessly
 heeds
 heehaw
 heeled
+heeler
 heelless
 heelpiece
 heelpieces
@@ -23358,6 +23372,7 @@ hemopoieses
 hemorrhaging
 hemorrhoid
 hemorrhoids
+hemostases
 hemostasis
 hemostat
 hemostatics
@@ -24264,6 +24279,7 @@ hulked
 hulkier
 hulkiest
 hulks
+hullabaloos
 hulled
 hulloas
 hulloed
@@ -24674,6 +24690,7 @@ hypoxia
 hypsometer
 hypsometers
 hypsometric
+hyraces
 hyracoids
 hysons
 hyssop
@@ -28902,6 +28919,7 @@ librettists
 librettos
 libriform
 lice
+licence
 licencees
 licencers
 licencing
@@ -30947,6 +30965,7 @@ mentored
 mentorship
 meoued
 meow
+meows
 mephitises
 merbromin
 merbromins
@@ -31147,6 +31166,7 @@ metes
 metestrus
 metformin
 methacrylate
+methadone
 methanations
 methane
 methanes
@@ -32929,6 +32949,7 @@ mundanity
 mundungos
 mundungus
 mundunguses
+mungo
 municipality
 municipalize
 municipalizes
@@ -33957,6 +33978,7 @@ noncampus
 noncancerous
 noncandidacy
 noncapitalists
+noncarcinogen
 noncareer
 noncarriers
 noncash
@@ -38043,6 +38065,7 @@ pervaded
 pervader
 pervaders
 pervasively
+pervasiveness
 pervasivenesses
 pervert
 pervertedly
@@ -38535,6 +38558,7 @@ picaras
 picaro
 picaroon
 picarooning
+picaroons
 picayune
 piccolo
 piceous
@@ -38554,6 +38578,7 @@ picked
 picker
 pickerels
 pickerelweeds
+picket
 picketboat
 picketed
 picketer
@@ -41641,6 +41666,7 @@ pyromancies
 pyromancy
 pyromaniac
 pyromaniacal
+pyrometer
 pyrometrically
 pyromorphite
 pyromorphites
@@ -45892,6 +45918,7 @@ satisfactions
 satisfactory
 satisfiable
 satisficed
+satisficing
 satisfier
 satisfies
 satisfy
@@ -46612,6 +46639,7 @@ sections
 sectoral
 sectored
 sectorial
+sectorials
 sectoring
 secularise
 secularisms
@@ -46724,6 +46752,7 @@ selamliks
 selcouth
 select
 selectable
+selection
 selective
 selectively
 selectiveness
@@ -47092,6 +47121,7 @@ setose
 setouts
 sets
 setter
+setters
 setting
 settings
 settle
@@ -51250,6 +51280,7 @@ sulpha
 sulphates
 sulphid
 sulphides
+sulphite
 sulphur
 sulphurise
 sulphurising
@@ -55388,6 +55419,7 @@ unchic
 unchlorinated
 unchoke
 unchoked
+unchokes
 unchronicled
 unciae
 uncially
@@ -57407,6 +57439,7 @@ villainousness
 villains
 villanelle
 villas
+villatic
 villous
 villously
 vimen
@@ -58733,6 +58766,7 @@ wobblinesses
 wobegone
 woful
 wofuller
+wold
 wolfberries
 wolfberry
 wolfish
@@ -58753,6 +58787,7 @@ womanliest
 womanlike
 womanliness
 womans
+wombats
 wombed
 wombs
 womenfolk
