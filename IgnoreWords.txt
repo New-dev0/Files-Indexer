@@ -878,6 +878,7 @@ agisms
 agisted
 agitatedly
 agitating
+agitation
 agitative
 agleam
 aglee
@@ -1592,6 +1593,7 @@ anacondas
 anacruses
 anadems
 anadiplosis
+anadromous
 anaemic
 anaerobia
 anaerobioses
@@ -3100,6 +3102,7 @@ athleticism
 athletics
 athodyd
 athodyds
+athrocytes
 athwartship
 atilt
 atlantes
@@ -4322,6 +4325,7 @@ beechiest
 beechmast
 beechwood
 beedi
+beedies
 beefalo
 beefaloes
 beefcake
@@ -6083,6 +6087,7 @@ breakwater
 breastbones
 breastfeed
 breastpins
+breastplate
 breasts
 breaststrokes
 breath
@@ -7847,6 +7852,7 @@ cellarets
 cellarette
 cellarway
 cellblocks
+cello
 cellobiose
 cellophanes
 cellphone
@@ -9158,6 +9164,7 @@ clocked
 clocker
 clocking
 clocks
+cloddish
 cloddishnesses
 clodhoppers
 clodpate
@@ -11301,6 +11308,7 @@ cowardliness
 cowberries
 cowboying
 cowboys
+cowed
 cower
 cowflop
 cowflops
@@ -12004,6 +12012,7 @@ cuppa
 cupreous
 cuprous
 cuprum
+cupsful
 curability
 curablenesses
 curacao
@@ -13863,6 +13872,7 @@ dialectologists
 dialectology
 dialects
 dialer
+dialers
 dialing
 dialist
 diallages
@@ -14797,6 +14807,7 @@ distillates
 distilleries
 distils
 distinctively
+distinctnesses
 distinguishes
 distome
 distorter
@@ -14910,6 +14921,7 @@ divulges
 divulse
 divulses
 divulsing
+divulsive
 divvy
 diwan
 dizening
@@ -17036,6 +17048,7 @@ enzyms
 eohippuses
 eolopiles
 eon
+eonisms
 eosinic
 eosinophilia
 eosinophilias
@@ -18230,6 +18243,7 @@ eyelets
 eyeletted
 eyeletting
 eyelike
+eyepieces
 eyepoppers
 eyes
 eyeshine
@@ -19705,6 +19719,7 @@ folkloric
 folklorist
 folkloristic
 folkmote
+folkmots
 folksiness
 folksong
 folkway
@@ -21031,6 +21046,7 @@ gelant
 gelati
 gelatines
 gelatinization
+gelatinizations
 gelatinized
 gelatinizes
 gelatinously
@@ -21986,6 +22002,7 @@ grandames
 grandaunt
 grandaunts
 granddad
+granddaddy
 granddads
 granddaughters
 grandest
@@ -24144,6 +24161,7 @@ hoosgow
 hoot
 hootenanny
 hooting
+hooved
 hoover
 hoovers
 hop
@@ -24169,6 +24187,7 @@ horehound
 horizonal
 horizontalities
 horizontally
+hormogonium
 hormonal
 hormones
 horn
@@ -28723,6 +28742,7 @@ learnedly
 lears
 leas
 leasers
+least
 leastways
 leathered
 leathering
@@ -33698,6 +33718,7 @@ nervier
 nerviest
 nervines
 nervousnesses
+nervules
 nervy
 nesciences
 nescient
@@ -35919,6 +35940,7 @@ outloves
 outmaneuver
 outmaneuvers
 outmanipulate
+outmanned
 outmarching
 outmastering
 outmasters
@@ -42124,6 +42146,7 @@ quixotic
 quixotical
 quixotism
 quixotisms
+quixotry
 quizzers
 quizzicalities
 quizzing
@@ -42464,6 +42487,7 @@ rassles
 raster
 rasters
 ratable
+ratanies
 ratany
 rataplans
 ratatat
@@ -49116,6 +49140,7 @@ soleplate
 soleprint
 solerets
 solfeggio
+solferino
 solgel
 solicitants
 soliciting
@@ -49339,6 +49364,7 @@ soupiest
 soupless
 soups
 sour
+sourball
 sourcing
 sourdine
 sourdines
@@ -53091,6 +53117,7 @@ terrarium
 terrazzo
 terrella
 terrenes
+terrepleins
 terriers
 terrific
 terrifies
@@ -55164,6 +55191,7 @@ tutorages
 tutored
 tutoresses
 tutors
+tutorship
 tutorships
 tutoyed
 tutties
@@ -55463,6 +55491,7 @@ unacceptability
 unacclimatized
 unaccommodating
 unaccompanied
+unaccountably
 unaccrued
 unacerbic
 unacknowledged
@@ -56133,6 +56162,7 @@ unhallow
 unhallowed
 unhallowing
 unhalved
+unhandier
 unhandled
 unhands
 unhandsome
@@ -56212,6 +56242,7 @@ unionized
 unionizers
 unions
 uniparentally
+uniparous
 unipod
 unipods
 unipotent
@@ -57578,6 +57609,7 @@ vexillologists
 viability
 viaducts
 vial
+vialing
 viand
 viands
 viatica
@@ -57706,6 +57738,7 @@ viniest
 vinifera
 viniferas
 vinifications
+vinifies
 vining
 vinosity
 vinous
@@ -58019,6 +58052,7 @@ vulgarized
 vulgarizes
 vulgarly
 vulnerability
+vulnerable
 vulnerableness
 vulnerably
 vultures
@@ -59031,6 +59065,7 @@ womanliest
 womanlike
 womanliness
 womans
+womb
 wombats
 wombed
 wombs
