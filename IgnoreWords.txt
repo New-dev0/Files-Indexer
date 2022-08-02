@@ -1057,6 +1057,7 @@ alcidine
 alcids
 alcoholically
 aldosterone
+aldosterones
 aldrins
 aleatoric
 aleatory
@@ -3393,6 +3394,7 @@ aversions
 averter
 averting
 avgases
+avianized
 aviaries
 aviary
 aviate
@@ -5485,6 +5487,7 @@ boccie
 boccies
 boccis
 bock
+bocks
 bodacious
 bodaciously
 boddhisattva
@@ -10728,6 +10731,7 @@ cope
 copeck
 coped
 copen
+copepod
 copers
 copes
 copesetic
@@ -10791,6 +10795,7 @@ copying
 copyist
 copyreading
 copyrighted
+copyrighting
 copywriter
 coquetted
 coquilles
@@ -12554,6 +12559,7 @@ deadliest
 deadlift
 deadlight
 deadlined
+deadliness
 deadlining
 deadpan
 deaerated
@@ -13021,6 +13027,7 @@ degranulations
 degrees
 degressive
 degums
+degustations
 degusts
 dehisce
 dehiscence
@@ -15639,6 +15646,7 @@ dunts
 duodecillions
 duodecimals
 duodena
+duolog
 duologue
 duomos
 duopsonies
@@ -19325,6 +19333,7 @@ flied
 flight
 flights
 flighty
+flimflammer
 flimflammers
 flimflammery
 flimsier
@@ -19855,6 +19864,7 @@ foretell
 forethought
 foretime
 foretoken
+foretooth
 foretops
 forever
 forewing
@@ -20326,6 +20336,7 @@ fruitlessnesses
 fruitwoods
 frumpiest
 frusta
+frustrate
 frustules
 frutescent
 fryable
@@ -26547,6 +26558,7 @@ intransigeantly
 intransigent
 intransigently
 intransigents
+intransitivity
 intraocular
 intrapersonal
 intrapreneurs
@@ -27853,6 +27865,7 @@ kingside
 kingsnake
 kinin
 kinins
+kink
 kinkajou
 kinked
 kinkiest
@@ -29721,6 +29734,7 @@ lunarians
 lunars
 lunately
 lunatic
+lunch
 lunchboxes
 luncheonette
 lunchers
@@ -30759,6 +30773,7 @@ mediocrities
 meditating
 meditation
 meditative
+meditators
 medivac
 medivacked
 medivacs
@@ -33342,6 +33357,7 @@ nationally
 nationhood
 native
 nativenesses
+nativism
 nativists
 natriureses
 natriuresis
@@ -33508,6 +33524,7 @@ nemertines
 neoclassicisms
 neoclassicists
 neocolonialist
+neocons
 neoconservatism
 neocortices
 neoliberalism
@@ -39455,6 +39472,7 @@ polyimides
 polylysine
 polymathies
 polymathy
+polymer
 polymerases
 polymeric
 polymerises
@@ -39813,6 +39831,7 @@ potatoes
 potbellied
 potboil
 potboiled
+potboilers
 potboiling
 potboys
 poteen
@@ -40137,6 +40156,7 @@ preelecting
 preelectric
 preemergence
 preemergent
+preemie
 preeminence
 preemployment
 preempted
@@ -40256,6 +40276,7 @@ premarriage
 premature
 prematureness
 prematurenesses
+premaxillaries
 premaxillary
 premed
 premedieval
@@ -40805,6 +40826,7 @@ proglottid
 prognathism
 prognathous
 prognose
+prognosed
 prognosticate
 prognosticating
 prognosticators
@@ -40959,6 +40981,7 @@ proportion
 proportionality
 proportionally
 proportionate
+proportionated
 proportionates
 proportions
 proposers
@@ -43865,6 +43888,7 @@ replicabilities
 replicable
 replicas
 replicases
+replications
 replicative
 replicon
 replicons
@@ -48609,6 +48633,7 @@ snake
 snakebites
 snakefishes
 snakeheads
+snakepit
 snakepits
 snakes
 snakeskins
@@ -49574,6 +49599,7 @@ spluttering
 splutters
 spodes
 spodosols
+spoilage
 spoilsmen
 spoken
 spokes
@@ -49957,6 +49983,7 @@ stannic
 stannite
 stannites
 stanza
+stanzaic
 stanzas
 stapedectomies
 stapedial
@@ -50892,6 +50919,7 @@ subjectivise
 subjectivised
 subjectivism
 subjectivist
+subjectivists
 subjectivizes
 subjectivizing
 subjectless
@@ -50967,6 +50995,7 @@ subnasal
 subnational
 subnetworking
 subnetworks
+subnormalities
 subnuclear
 suboptimization
 suboptimize
@@ -54503,6 +54532,7 @@ tripping
 trips
 triptanes
 triptychs
+triremes
 trisaccharide
 trisaccharides
 trisector
@@ -55499,6 +55529,7 @@ unconsciousness
 unconsidered
 unconsolidated
 unconstricted
+unconsumed
 uncontemplated
 uncontemporary
 uncontested
@@ -55924,6 +55955,7 @@ unhewn
 unhinged
 unhirable
 unhood
+unhook
 unhooked
 unhoped
 unhorsed
@@ -57356,6 +57388,7 @@ vibrated
 vibration
 vibrationless
 vibrators
+vibratory
 vibratos
 vibrios
 vicarage
@@ -58125,6 +58158,7 @@ waxed
 waxes
 waxiest
 waxplant
+waxweed
 waxwings
 waxwork
 waxworker
@@ -58182,6 +58216,7 @@ webbier
 webby
 webcams
 webcasted
+webcasts
 webers
 webfed
 webfoot
