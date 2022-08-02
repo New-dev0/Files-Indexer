@@ -2389,6 +2389,7 @@ apperceiving
 appertained
 appestat
 appestats
+appetencies
 appetency
 appetisers
 appetising
@@ -3207,6 +3208,7 @@ audiologists
 audiology
 audiometers
 audiometric
+audiometry
 audiotaped
 audiotapes
 auditees
@@ -6100,6 +6102,7 @@ bride
 bridesmaids
 bridewells
 bridge
+bridgeable
 bridgeless
 bridges
 bridles
@@ -7318,6 +7321,7 @@ carbureted
 carburetted
 carburetting
 carburettor
+carburised
 carburises
 carburization
 carburizations
@@ -11579,6 +11583,7 @@ crockets
 crocking
 crockpot
 crocodiles
+crocoite
 crocus
 croft
 crofters
@@ -14134,6 +14139,7 @@ dipnoans
 dipodic
 dipped
 dipper
+dipperfuls
 dippier
 dippiest
 dippy
@@ -15204,6 +15210,7 @@ doxie
 doxies
 doxologies
 doxorubicins
+doxy
 doyennes
 doyens
 doyleys
@@ -15229,6 +15236,7 @@ drafters
 draftily
 drafting
 draftings
+draftsmanship
 draftsmanships
 dragee
 dragged
@@ -16729,6 +16737,7 @@ enrobers
 enrobing
 enrolled
 enrollees
+enroller
 enrollers
 enrols
 enrooting
@@ -16866,6 +16875,7 @@ entropion
 entrustments
 entry
 entwined
+entwines
 entwist
 entwisted
 entwists
@@ -17086,6 +17096,7 @@ equates
 equerry
 equestrian
 equestrians
+equestriennes
 equicaloric
 equidistantly
 equilateral
@@ -19212,6 +19223,7 @@ fleaworts
 fleche
 fleches
 flechette
+fleckless
 fled
 fledge
 fledged
@@ -19734,6 +19746,7 @@ foreknows
 foreladies
 forelady
 forelimb
+forelocking
 foremanship
 foremanships
 foremasts
@@ -21798,6 +21811,7 @@ gradualism
 gradualnesses
 graduated
 graduating
+graduation
 graduations
 gradus
 graduses
@@ -26910,6 +26924,7 @@ jabot
 jaboticabas
 jabs
 jacana
+jacanas
 jacinthes
 jack
 jackanapes
@@ -27323,6 +27338,7 @@ juking
 juku
 jukus
 juleps
+julienne
 julienned
 jumbals
 jumbled
@@ -31127,6 +31143,7 @@ metrology
 metronidazole
 metronidazoles
 metronomes
+metronomical
 metroplexes
 metrorrhagia
 mettle
@@ -31456,6 +31473,7 @@ mimicking
 mimicry
 mimics
 miming
+mina
 minacious
 minacity
 minatory
@@ -33442,6 +33460,7 @@ nepeta
 nepetas
 nephelinic
 nephelometers
+nephelometry
 nephoscopes
 nephridia
 nephridial
@@ -33756,6 +33775,7 @@ nobby
 nobility
 noble
 nobleman
+noblest
 nobody
 nobs
 nocked
@@ -36109,6 +36129,7 @@ overflooding
 overflow
 overfly
 overfocussing
+overfrank
 overgeneralize
 overgeneralizes
 overgenerous
@@ -38913,6 +38934,7 @@ plastisols
 plastocyanin
 plastoquinones
 plat
+platan
 platane
 platanes
 plate
@@ -41645,6 +41667,7 @@ quaker
 quakers
 quakier
 qualification
+qualifications
 qualifiedly
 qualitatively
 qualms
@@ -45517,6 +45540,7 @@ saloon
 saloops
 salpids
 salpiform
+salpinges
 salpingitis
 sals
 salsa
@@ -46231,6 +46255,7 @@ scrambles
 scrannel
 scrannels
 scrap
+scrapbook
 scrapbooks
 scrape
 scraped
@@ -47450,6 +47475,7 @@ shortwaved
 shorty
 shotguns
 shotholes
+shoulder
 shouted
 shouter
 shouting
@@ -48975,6 +49001,7 @@ soudan
 souffle
 sough
 soughed
+sought
 souled
 soulfulnesses
 souls
@@ -49655,6 +49682,7 @@ squidding
 squiggles
 squillae
 squinnied
+squinnier
 squinny
 squinters
 squintest
@@ -52052,6 +52080,7 @@ taille
 tailless
 taillights
 taillike
+tailorbirds
 tailoring
 tailpiece
 tailplane
@@ -52142,6 +52171,7 @@ tamer
 tamers
 tames
 tamest
+taming
 tamis
 tammie
 tampalas
@@ -53617,6 +53647,7 @@ toppr
 topsails
 topsides
 topsoiling
+topstitched
 toquets
 tor
 tora
@@ -54834,6 +54865,7 @@ twilights
 twilit
 twilling
 twined
+twines
 twinflowers
 twinge
 twinged
@@ -55481,6 +55513,7 @@ underlie
 underline
 underling
 underlips
+underlit
 underloading
 underlyingly
 undermining
@@ -55611,6 +55644,7 @@ undulated
 undutiful
 undutifulnesses
 undynamic
+uneagerly
 unearthliest
 unearthliness
 unearthlinesses
@@ -57294,6 +57328,7 @@ vined
 vinedresser
 vinegarish
 vineries
+vines
 vineyard
 vinicultures
 viniest
