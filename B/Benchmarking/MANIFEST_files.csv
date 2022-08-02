@@ -1,0 +1,6 @@
+File revisions: testing/talos/talos/tests/motionmark/htmlsuite.manifest,https://hg.mozilla.org/mozilla-central/log/tip/testing/talos/talos/tests/motionmark/htmlsuite.manifest
+https://mirrors.aliyun.com/openwrt/releases/19.07....,https://mirrors.aliyun.com/openwrt/releases/19.07.2/packages/aarch64_cortex-a53/packages/Packages.manifest
+Packages.manifest - PandoraBox,http://downloads.pangubox.com:6380/pandorabox/19.01/packages/arm_cortex-a7_neon-vfpv4/base/Packages.manifest
+Packages.manifest - PandoraBox,http://downloads.pangubox.com:6380/pandorabox/19.02/packages/mipsel_1004kc_dsp/base/Packages.manifest
+sg.rpmdb.org/rocky/8.5/BaseOS/aarch64/iso/Rocky-8....,http://sg.rpmdb.org/rocky/8.5/BaseOS/aarch64/iso/Rocky-8.5-aarch64-dvd1.iso.manifest
+https://downloads.lede-project.org/snapshots/packa...,https://downloads.lede-project.org/snapshots/packages/arc_archs/packages/Packages.manifest
