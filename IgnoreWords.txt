@@ -2940,6 +2940,7 @@ assigning
 assignors
 assimilability
 assimilationism
+assimilationist
 assimilator
 assimilatory
 assistance
@@ -3592,6 +3593,7 @@ backlisted
 backlit
 backloading
 backloads
+backlog
 backmost
 backouts
 backpacker
@@ -6607,6 +6609,7 @@ bursted
 bursts
 burthen
 burweed
+burweeds
 burying
 busbar
 busboys
@@ -6643,6 +6646,7 @@ buster
 busticated
 busticates
 bustics
+bustiest
 busting
 bustle
 bustled
@@ -6737,6 +6741,7 @@ by
 byelaws
 bynames
 bypass
+bypast
 byproduct
 byres
 byrled
@@ -8187,6 +8192,7 @@ chastise
 chastities
 chatchke
 chateaubriand
+chateaus
 chatelaine
 chatelains
 chatoyants
@@ -9683,6 +9689,7 @@ collocational
 collodion
 collodions
 collogue
+collogues
 colloids
 colloquial
 colloquiality
@@ -13217,6 +13224,7 @@ demount
 demounts
 dempster
 demulsified
+demulsifying
 demurely
 demureness
 demurrages
@@ -18350,6 +18358,7 @@ fantasize
 fantasizer
 fantasizers
 fantasizes
+fantasizing
 fantastical
 fantastically
 fantasticated
@@ -18486,6 +18495,7 @@ fava
 favas
 favelas
 favorably
+favored
 favorer
 favorite
 favorites
@@ -20496,6 +20506,7 @@ fustics
 fustigate
 fustigating
 fustinesses
+fusulinids
 futhork
 futile
 futileness
@@ -21788,6 +21799,7 @@ gouges
 goulash
 goulashes
 gourami
+gourd
 gourdes
 gourmandises
 gourmandisms
@@ -22597,6 +22609,7 @@ haggadahs
 haggadic
 haggadistic
 haggardness
+hagged
 haggish
 haggishly
 haggle
@@ -22897,6 +22910,7 @@ harlequinades
 harlotries
 harm
 harmful
+harmfully
 harmfulness
 harmine
 harming
@@ -23388,6 +23402,7 @@ heptameters
 heptane
 heptarchs
 heralded
+heraldic
 heralding
 heraldist
 herbage
@@ -27275,6 +27290,7 @@ jojoba
 jojobas
 joked
 jokes
+jokiest
 joking
 jokingly
 joky
@@ -27673,6 +27689,7 @@ keypads
 keypals
 keypunches
 keypunching
+keyset
 keysters
 keyword
 khaddar
@@ -30286,6 +30303,7 @@ marabouts
 maraca
 maranatha
 maras
+maraschino
 maraschinos
 marasmuses
 marathoner
@@ -31694,6 +31712,7 @@ misbeliever
 misbelievers
 misbelieving
 misbias
+misbiased
 misbiases
 misbiasses
 misbiassing
@@ -32127,6 +32146,7 @@ modicums
 modifiability
 modification
 modifications
+modified
 modifying
 modioli
 modishness
@@ -33073,6 +33093,7 @@ mycelium
 myceloid
 mycetomas
 mycetomatous
+mycetozoans
 mycobacterial
 mycobacterium
 mycoflorae
@@ -35467,6 +35488,7 @@ osteomyelitis
 osteomyelitises
 osteopathic
 osteoplasty
+osteosarcomas
 osteoses
 osteotomies
 ostomate
@@ -37546,6 +37568,7 @@ pedicurists
 pediform
 pedigreed
 pediment
+pedimental
 pedimented
 pediments
 pedlar
@@ -40267,6 +40290,7 @@ preparedly
 preparers
 prepasted
 prepastes
+prepasting
 prepaving
 prepay
 prepaying
@@ -40298,6 +40322,7 @@ preprocessors
 preproduction
 preprogrammed
 preps
+prepubertal
 prepuberties
 prepuberty
 prepubescences
@@ -43110,6 +43135,7 @@ refillable
 refilling
 refinable
 refinancing
+refine
 refined
 refiners
 refinish
@@ -43568,6 +43594,7 @@ remans
 remanufacture
 remap
 remapping
+remark
 remarkable
 remarkableness
 remarketing
@@ -45176,6 +45203,7 @@ route
 routeman
 router
 routes
+routine
 routinely
 routing
 routinisms
@@ -47345,6 +47373,7 @@ sherberts
 sherds
 shereef
 shergottites
+sherifs
 sheroots
 sherpas
 sherries
@@ -47648,6 +47677,7 @@ shuttled
 shuttleless
 shvartze
 shvartzes
+shwas
 shylock
 shylocked
 shylocking
@@ -51027,6 +51057,7 @@ subtend
 subtended
 subtends
 subterranean
+subtests
 subtext
 subthreshold
 subtilenesses
@@ -54270,6 +54301,7 @@ triangulation
 triangulations
 triarchies
 triathletes
+triathlons
 triaxial
 triazin
 triazoles
@@ -55348,6 +55380,7 @@ unchangeable
 unchanging
 uncharges
 uncharging
+unchastenesses
 unchastest
 uncheckable
 unchecked
@@ -57673,6 +57706,7 @@ votiveness
 votives
 voucher
 vouchsafes
+vouchsafing
 voudon
 voudoun
 vow
@@ -58852,6 +58886,7 @@ wormroot
 worries
 worrit
 worrited
+worriting
 worry
 worrywart
 worse
