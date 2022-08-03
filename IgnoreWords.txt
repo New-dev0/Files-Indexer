@@ -949,6 +949,7 @@ aid
 aider
 aides
 aidful
+aidmen
 aiglet
 aiglets
 aigret
@@ -1168,6 +1169,7 @@ alkoxide
 alkyd
 alkyds
 alkyl
+alkylating
 allanite
 allantoides
 allantoids
@@ -6135,6 +6137,7 @@ breakfast
 breakfaster
 breakings
 breakout
+breakthrough
 breakup
 breakwall
 breakwater
@@ -6651,6 +6654,7 @@ bureaux
 buret
 burgage
 burgeons
+burgess
 burgesses
 burgh
 burgher
@@ -13415,6 +13419,7 @@ demoralizations
 demoralizes
 demoralizingly
 demote
+demoting
 demotion
 demount
 demounts
@@ -14210,6 +14215,7 @@ digitalizing
 digitally
 digitate
 digitately
+digitigrade
 digitize
 digitizer
 digitonins
@@ -17393,6 +17399,7 @@ equestrian
 equestrians
 equestriennes
 equicaloric
+equidistant
 equidistantly
 equilateral
 equilibrants
@@ -18611,6 +18618,7 @@ fanaticized
 fanatics
 fancied
 fanciers
+fanciful
 fancifully
 fancifulness
 fancify
@@ -19176,6 +19184,7 @@ filicide
 filiform
 filigreed
 filigreeing
+filister
 filisters
 fill
 fillable
@@ -23079,6 +23088,7 @@ hammada
 hammams
 hammed
 hammerers
+hammering
 hammerkop
 hammerless
 hammerlocks
@@ -23727,6 +23737,7 @@ henbit
 henbits
 henchman
 hencoops
+hendiadyses
 henge
 henges
 henhouse
@@ -23782,6 +23793,7 @@ hereditament
 hereditarians
 heredity
 hereinbefore
+hereon
 heresies
 heresy
 heretrixes
@@ -24557,6 +24569,7 @@ houri
 houseboater
 houseboaters
 houseboats
+housebound
 houseboy
 housebreakers
 housebreaks
@@ -26113,6 +26126,7 @@ infant
 infante
 infanticide
 infantile
+infantilism
 infantilization
 infantilize
 infantilizing
@@ -26419,6 +26433,7 @@ insculp
 insculped
 insculping
 inseams
+insectan
 insectaries
 insectile
 insectivore
@@ -26739,6 +26754,7 @@ intermatting
 intermeddler
 intermeddlers
 intermeddles
+intermeddling
 intermediated
 intermesh
 intermeshing
@@ -27348,6 +27364,7 @@ itemises
 itemize
 itemizer
 itemizes
+itemizing
 iterant
 iterating
 iteration
@@ -27635,6 +27652,7 @@ jingoist
 jingoistically
 jinker
 jinkers
+jinnee
 jinni
 jinrikisha
 jinx
@@ -30058,6 +30076,7 @@ loyaler
 loyalest
 luau
 lubber
+lubbers
 lube
 lubes
 lubing
@@ -31043,6 +31062,7 @@ mauves
 mavie
 mavis
 mawkishly
+mawn
 maxi
 maxillary
 maxilliped
@@ -34133,6 +34153,7 @@ newlywed
 newlyweds
 newmarket
 newmarkets
+newmown
 newness
 newsboys
 newscast
@@ -34658,6 +34679,7 @@ noninteractive
 nonintercourses
 noninterest
 nonintersecting
+nonintimidating
 nonintoxicants
 nonintoxicating
 nonintrusive
@@ -35421,6 +35443,7 @@ offended
 offending
 offenses
 offensively
+offensivenesses
 offensives
 offered
 offering
@@ -35836,6 +35859,7 @@ orgasm
 orgasms
 orgeats
 orgiastic
+orgiastically
 orgiasts
 orgone
 orgulous
@@ -39908,6 +39932,7 @@ politicks
 politicly
 politico
 politicoes
+politicos
 politics
 polka
 pollack
@@ -41887,6 +41912,7 @@ publicized
 publicizes
 publicnesses
 publisher
+publishing
 puccoons
 puces
 pucker
@@ -43313,6 +43339,7 @@ reclines
 reclosable
 reclothed
 reclothes
+reclusively
 recoal
 recoaled
 recocked
@@ -46091,6 +46118,7 @@ sabbats
 sabe
 sabermetrician
 sabin
+sabirs
 sablefish
 sabot
 sabotage
@@ -46508,6 +46536,7 @@ sargos
 sarkier
 sarks
 sarky
+sarode
 sarodes
 sarongs
 saroses
@@ -48076,6 +48105,7 @@ shiel
 shielders
 shields
 shiers
+shies
 shiest
 shiftable
 shifter
@@ -49446,6 +49476,7 @@ soaks
 soapbark
 soapberries
 soapbox
+soapboxed
 soapboxing
 soaped
 soapers
@@ -50293,6 +50324,7 @@ spooned
 spoonerism
 spoonerisms
 spooney
+spoonily
 spooning
 spoons
 spoor
@@ -55485,6 +55517,7 @@ tuatera
 tuateras
 tubal
 tubas
+tubate
 tubbable
 tubbers
 tubbiest
@@ -57386,6 +57419,7 @@ upflinging
 upflings
 upflow
 upgaze
+upgazed
 upgird
 upgradabilities
 upgradable
@@ -60275,6 +60309,7 @@ zoogeographer
 zoogeographic
 zoogeographical
 zoogeographies
+zoogeography
 zoogloea
 zoogloeae
 zoography
