@@ -3946,6 +3946,7 @@ bargeboard
 barged
 bargees
 barges
+barging
 barguests
 barhop
 barhopped
@@ -4022,6 +4023,7 @@ bartenders
 bartending
 barterer
 bartisan
+barytes
 barytons
 bas
 basalt
@@ -4754,6 +4756,7 @@ bevies
 bevomiting
 bevor
 bewailer
+bewails
 beware
 bewared
 beweeps
@@ -5221,6 +5224,7 @@ blacklist
 blacklisting
 blackmailed
 blackmailer
+blackmailers
 blackpolls
 blacksmithing
 blacksmithings
@@ -6846,6 +6850,7 @@ cabalas
 cabaletta
 cabalism
 cabalist
+caballero
 caballeros
 cabbages
 cabbageworms
@@ -8603,6 +8608,7 @@ chital
 chitchats
 chitling
 chitlings
+chitons
 chitosan
 chitter
 chittered
@@ -8735,6 +8741,7 @@ chosen
 chott
 chouse
 choused
+chousers
 choushes
 chowed
 chowhounds
@@ -10860,6 +10867,7 @@ copepod
 copers
 copes
 copesetic
+copied
 copihue
 copihues
 copings
@@ -12980,6 +12988,7 @@ decrement
 decremental
 decrepitate
 decrepitating
+decrepitudes
 decrescent
 decrials
 decried
@@ -14704,6 +14713,7 @@ disintoxication
 disinvested
 disinvite
 disinvited
+disinvites
 disinviting
 disjoin
 disjointedness
@@ -17240,6 +17250,7 @@ epics
 epicure
 epicurean
 epicureanisms
+epicurisms
 epicuticles
 epicuticular
 epicyclic
@@ -18113,6 +18124,7 @@ exoticism
 exoticist
 exoticnesses
 exotoxins
+exotropias
 expand
 expanded
 expander
@@ -19713,6 +19725,7 @@ fluffinesses
 fluidal
 fluidally
 fluidextracts
+fluidics
 fluidise
 fluidises
 fluidities
@@ -20203,6 +20216,7 @@ fortissimi
 fortissimos
 fortitudes
 fortnightlies
+fortnightly
 fortressed
 fortresses
 fortunatenesses
@@ -21009,6 +21023,7 @@ gapless
 gapped
 gapping
 gapy
+gar
 garage
 garages
 garaging
@@ -21937,6 +21952,7 @@ godlikeness
 godlikenesses
 godlily
 godly
+godmother
 godmothering
 godroon
 gods
@@ -25415,6 +25431,7 @@ imperialist
 imperialists
 imperials
 imperiling
+imperils
 imperiousness
 imperishability
 imperishable
@@ -25900,6 +25917,7 @@ indifferently
 indigen
 indigences
 indigene
+indigenes
 indigenization
 indigenizations
 indigenize
@@ -27721,6 +27739,7 @@ jughead
 jugs
 jugsful
 jugula
+jugulars
 jugulates
 juiceheads
 juiceless
@@ -31988,6 +32007,7 @@ minifying
 minikin
 minilab
 minimalism
+minimalist
 minimalists
 minimals
 minimax
@@ -33752,6 +33772,7 @@ natter
 natters
 nattily
 naturalised
+naturalising
 naturalism
 naturalisms
 naturalize
@@ -34758,6 +34779,7 @@ nonsteroidal
 nonstick
 nonsticky
 nonstory
+nonstructural
 nonstyles
 nonsubject
 nonsubjective
@@ -38988,6 +39010,7 @@ phytosterol
 pia
 piaffing
 pianissimi
+pianissimo
 pianistic
 pianistically
 pianists
@@ -44106,6 +44129,7 @@ relishing
 relist
 relived
 relives
+reliving
 reloaders
 reloaning
 reloans
@@ -44641,6 +44665,7 @@ reshipped
 reshipping
 reshoe
 reshoed
+reshoes
 reshoots
 reshot
 reshow
@@ -47441,6 +47466,7 @@ semises
 semisolids
 semitonal
 semitonically
+semitropic
 semitruck
 semitrucks
 semiurban
@@ -48101,6 +48127,7 @@ shockproof
 shod
 shoddier
 shoddies
+shoddily
 shoe
 shoeblacks
 shoebox
@@ -49444,6 +49471,7 @@ sods
 soever
 sofa
 softback
+softball
 softballer
 softcore
 softcover
@@ -50639,6 +50667,7 @@ staunching
 staurolite
 staurolitic
 staved
+stavesacre
 stavudines
 stay
 staysails
@@ -52610,6 +52639,7 @@ symposiarchs
 symptom
 symptomatically
 symptomatologic
+symptoms
 syn
 synaestheses
 synaesthesia
@@ -53621,6 +53651,7 @@ thanages
 thanatological
 thanatologist
 thanes
+thank
 thanker
 thankers
 thankfully
@@ -56098,6 +56129,7 @@ uncinematic
 uncivil
 uncivilized
 unclaimed
+unclamp
 unclamping
 unclarity
 unclasp
@@ -57776,6 +57808,7 @@ veep
 veepees
 veering
 veeringly
+veers
 veery
 vees
 veg
@@ -58386,6 +58419,7 @@ volcanologists
 voled
 volery
 voles
+volitional
 volitive
 volkslied
 volkslieder
@@ -58546,6 +58580,7 @@ wagged
 waggery
 wagging
 waggishnesses
+waggon
 waging
 wagonages
 wagoners
