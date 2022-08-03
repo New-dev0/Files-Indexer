@@ -3878,6 +3878,7 @@ banshie
 bantam
 bantamweight
 banter
+banteringly
 bantling
 banyan
 banzai
@@ -4649,6 +4650,7 @@ beryllium
 berylliums
 bes
 bescorches
+bescours
 bescreen
 beseech
 beseeches
@@ -4786,6 +4788,7 @@ bias
 biased
 biasnesses
 biassed
+biassing
 biaxal
 biaxially
 bibbed
@@ -7224,6 +7227,7 @@ canonical
 canonised
 canonises
 canonist
+canonists
 canonizations
 canonized
 canonizer
@@ -7242,6 +7246,7 @@ canthi
 canthitis
 cantic
 canticle
+cantilena
 cantilever
 cantilevers
 cantillating
@@ -9283,6 +9288,7 @@ cloying
 cloys
 club
 clubable
+clubber
 clubbiest
 clubbiness
 clubbing
@@ -10489,6 +10495,7 @@ conservative
 conservatizing
 conservatorial
 conservatorship
+consider
 considerably
 considerate
 consign
@@ -11243,6 +11250,7 @@ counterordering
 counterpart
 counterpetition
 counterplan
+counterplans
 counterplay
 counterplayer
 counterplays
@@ -12395,6 +12403,7 @@ czarists
 czaritzas
 dabbed
 dabble
+dabbling
 dace
 dachas
 dacker
@@ -16109,6 +16118,7 @@ eddies
 eddy
 edelweiss
 edemas
+edemata
 edentulous
 edge
 edger
@@ -16702,6 +16712,7 @@ encroachment
 encrustation
 encrusting
 encryption
+encryptions
 enculturate
 enculturated
 encumbered
@@ -23617,6 +23628,7 @@ henges
 henhouse
 heniquens
 henleys
+hennery
 hennish
 henotheistic
 henotheists
@@ -24073,6 +24085,7 @@ holloos
 hollow
 hollowness
 holly
+hollyhock
 holmic
 holoblastic
 holocaust
@@ -24280,6 +24293,7 @@ hooraying
 hoosegow
 hoosgow
 hoot
+hootches
 hootenanny
 hooting
 hooved
@@ -29286,6 +29300,7 @@ likabilities
 likability
 likableness
 likeable
+likeliest
 likeness
 likenesses
 likening
@@ -30250,6 +30265,7 @@ magistratically
 magistrature
 magmata
 magmatic
+magnanimities
 magnanimous
 magnesias
 magnesite
@@ -30645,6 +30661,7 @@ mariachis
 mariculturists
 marijuanas
 marimbists
+marina
 marinade
 marinades
 marination
@@ -33003,6 +33020,7 @@ mounting
 mountings
 mourned
 mourners
+mournful
 mourning
 mourningly
 mourns
@@ -37903,6 +37921,7 @@ pedalier
 pedalled
 pedalling
 pedantic
+pedantically
 pedantries
 pedately
 peddle
@@ -39886,6 +39905,7 @@ pompons
 pomposity
 pompous
 poms
+ponce
 ponces
 ponchos
 ponder
@@ -40087,6 +40107,7 @@ postfix
 postfixal
 postformed
 postfreeze
+postgame
 postglacial
 postgrad
 postgrads
@@ -41028,6 +41049,7 @@ prismatic
 prismoidal
 prisoners
 prissy
+pristane
 pristine
 pristinely
 privatdozent
@@ -43441,6 +43463,7 @@ reeded
 reedifies
 reedifying
 reediness
+reedings
 reedit
 reedited
 reediting
@@ -43808,6 +43831,7 @@ reimburses
 reimmerse
 reimmersed
 reimmerses
+reimmersing
 reimport
 reimportation
 reimported
@@ -44405,6 +44429,7 @@ requisitenesses
 requisitioning
 requite
 requiters
+reradiated
 reradiating
 reradiations
 reran
@@ -45799,6 +45824,7 @@ runabouts
 runaround
 runarounds
 runback
+rundlet
 rune
 runes
 rungless
@@ -52593,6 +52619,7 @@ tabanids
 tabbises
 tabbouleh
 tabboulehs
+tabby
 taber
 tabernacles
 tabers
@@ -53416,6 +53443,7 @@ tetanizations
 tetanizing
 tetchily
 tetchiness
+tether
 tetherballs
 tetrachords
 tetracid
@@ -53952,6 +53980,7 @@ timesaving
 timeserver
 timeservings
 timework
+timeworkers
 timeworn
 timing
 timorously
@@ -54052,6 +54081,7 @@ titrator
 titrators
 titrimetric
 titters
+titties
 tittivated
 tittivates
 tittle
@@ -54269,6 +54299,7 @@ topped
 topping
 toppr
 topsails
+topsiders
 topsides
 topsoiling
 topstitched
@@ -54861,6 +54892,7 @@ trichites
 trichocyst
 trichogyne
 trichogynes
+trichologies
 trichologists
 trichome
 trichomic
@@ -56321,6 +56353,7 @@ unenjoyed
 unenlarged
 unenriched
 unentered
+unenthusiastic
 unequals
 unescapable
 unessential
@@ -58216,6 +58249,7 @@ volatilize
 volatilizes
 volcanisms
 volcanized
+volcanizing
 volcanological
 volcanologists
 voled
@@ -59918,6 +59952,7 @@ zeks
 zemindary
 zemstvo
 zemstvos
+zenaida
 zenanas
 zenith
 zep
