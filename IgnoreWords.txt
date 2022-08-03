@@ -583,6 +583,7 @@ adorably
 adorations
 adorer
 adoringly
+adorn
 adorning
 adornments
 ados
@@ -1469,6 +1470,7 @@ amigos
 amines
 amino
 aminoacidurias
+aminopterin
 aminopterins
 amirates
 amitotic
@@ -1734,6 +1736,7 @@ anesthesia
 anesthetically
 anesthetist
 anesthetizing
+anestrous
 anethol
 anetholes
 aneuploid
@@ -2750,6 +2753,7 @@ arrowhead
 arrowlike
 arrowwoods
 arrowworm
+ars
 arsenates
 arsenide
 arsenides
@@ -7138,6 +7142,7 @@ cancelation
 cancerous
 cancha
 cancroid
+candelabras
 candelabrum
 candent
 candidature
@@ -10973,6 +10978,7 @@ coroner
 coronographs
 corotated
 corotates
+corotating
 corotation
 corporals
 corporation
@@ -11187,6 +11193,7 @@ counterclaim
 counterclaiming
 countercoups
 counterculture
+countercultures
 countercurrents
 countercyclical
 counterdemand
@@ -11680,6 +11687,7 @@ croaker
 croakily
 croaking
 croc
+crocheters
 croci
 crocine
 crockeries
@@ -13506,6 +13514,7 @@ deprive
 deprived
 deprivers
 depriving
+deprogramed
 deprogrammed
 deprogramming
 depth
@@ -14946,6 +14955,7 @@ divorcement
 divorcements
 divorcers
 divorcing
+divorcive
 divulgates
 divulgating
 divulgences
@@ -15869,6 +15879,7 @@ dyspnoea
 dyspnoeas
 dysprosium
 dysrhythmia
+dysrhythmias
 dystaxias
 dysthymia
 dysthymics
@@ -17743,6 +17754,7 @@ eviscerate
 eviscerates
 eviscerating
 evisceration
+evited
 evites
 eviting
 evocations
@@ -17825,6 +17837,7 @@ excision
 excisional
 excisions
 excitable
+excitablenesses
 excitant
 excitation
 excitations
@@ -19235,6 +19248,7 @@ fitches
 fitchet
 fitchets
 fitchew
+fitchy
 fitfully
 fitfulness
 fitfulnesses
@@ -21688,6 +21702,7 @@ glucinums
 gluconates
 gluconeogeneses
 glucose
+glucosic
 glucosidase
 glucoside
 glucuronide
@@ -22362,6 +22377,7 @@ gropers
 gropingly
 groschen
 grosgrains
+grossers
 grossing
 grossness
 grosz
@@ -22885,6 +22901,7 @@ halogenate
 halogenates
 halogenating
 halogens
+halogeton
 haloid
 haloids
 halothanes
@@ -24650,6 +24667,7 @@ hydrophones
 hydrophytes
 hydropic
 hydroponically
+hydrops
 hydroquinone
 hydrosere
 hydroski
@@ -28231,6 +28249,7 @@ kris
 krone
 kroon
 krubut
+krumkakes
 krummholz
 krummhorn
 krummhorns
@@ -28808,6 +28827,7 @@ leasers
 least
 leastways
 leathered
+leatherette
 leathering
 leatherlike
 leathernecks
@@ -31196,6 +31216,7 @@ mercerization
 mercerized
 mercery
 merch
+merchandisers
 merchandizes
 merchant
 merchantable
@@ -35556,6 +35577,7 @@ orderly
 ordinand
 ordinarier
 ordinaries
+ordinates
 ordines
 ordnance
 ordnances
@@ -37189,6 +37211,7 @@ panoches
 panoplied
 panoplies
 panorama
+panoramic
 panpipes
 pans
 pansexuality
@@ -38092,6 +38115,7 @@ perennation
 perennations
 perennial
 perestroikas
+perfecta
 perfecters
 perfectible
 perfectionisms
@@ -39380,6 +39404,7 @@ plenteous
 plentifulness
 plentitude
 plenum
+pleochroisms
 pleomorphic
 pleomorphisms
 pleonasm
@@ -40986,6 +41011,7 @@ proceeders
 proceeds
 processability
 processed
+processes
 procession
 processionals
 processors
@@ -43629,6 +43655,7 @@ regranting
 regrated
 regreen
 regreened
+regreeted
 regreeting
 regressive
 regretfulness
@@ -51870,6 +51897,7 @@ superovulating
 superoxide
 superoxides
 superperson
+superpersons
 superphosphates
 superpimp
 superplane
@@ -54579,6 +54607,7 @@ trashman
 trashmen
 trauchled
 traumas
+traumata
 traumatically
 traumatise
 traumatism
@@ -54961,6 +54990,7 @@ trone
 trones
 troop
 troostite
+tropaeolums
 tropeolins
 trophallaxis
 trophic
@@ -55096,6 +55126,7 @@ tsks
 tsktsked
 tsooris
 tsores
+tsoris
 tsunamic
 tsunamis
 tsuris
@@ -55508,6 +55539,7 @@ ulcerations
 ulcerogenic
 ulcers
 ulexite
+ulna
 ulnad
 ulnae
 ulpan
@@ -57340,6 +57372,7 @@ vang
 vanguards
 vanillin
 vanillins
+vanisher
 vanishing
 vanities
 vanned
@@ -58631,6 +58664,7 @@ weened
 weenier
 weenies
 weeniest
+weens
 weensiest
 weensy
 weepies
@@ -58965,6 +58999,7 @@ wig
 wigeons
 wiggier
 wigglers
+wiggliest
 wiggly
 wiglets
 wigmakers
