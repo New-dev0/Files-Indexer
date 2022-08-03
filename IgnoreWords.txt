@@ -2591,6 +2591,7 @@ archduchy
 archenemies
 archenterons
 archeology
+archerfish
 archerfishes
 archesporium
 archetypally
@@ -3409,6 +3410,7 @@ averse
 averseness
 aversenesses
 aversions
+aversives
 averter
 averting
 avgases
@@ -5748,6 +5750,7 @@ booties
 booting
 bootleg
 bootlegger
+bootless
 bootlick
 bootlicked
 bootlickers
@@ -5897,6 +5900,7 @@ bowfin
 bowfront
 bowhead
 bowheads
+bowhunter
 bowl
 bowleg
 bowlegged
@@ -6738,6 +6742,7 @@ buttock
 buttonballs
 buttonbush
 buttonbushes
+buttoner
 buttonholed
 buttonholer
 buttonholers
@@ -6886,6 +6891,7 @@ cads
 caducei
 caecum
 caeomas
+caesar
 caesarians
 caespitose
 caestus
@@ -7286,6 +7292,7 @@ caporal
 capote
 capotes
 capouch
+capouches
 capped
 cappelletti
 cappers
@@ -10185,6 +10192,7 @@ concretisms
 concretists
 concretize
 concretizing
+concubinages
 concupiscence
 concupiscences
 concurred
@@ -11934,6 +11942,7 @@ cuisinarts
 cuisine
 cuisines
 cuisse
+cuisses
 cuittle
 cuittled
 cuke
@@ -13900,6 +13909,7 @@ dialogistic
 dialogs
 dialogue
 dialysate
+dialyzers
 dialyzes
 diamagnet
 diamagnetic
@@ -14549,6 +14559,7 @@ disguiser
 disguisers
 disgust
 disgustful
+dish
 dishabille
 disharmonious
 disharmonizing
@@ -16366,6 +16377,7 @@ emancipate
 emancipated
 emancipates
 emancipating
+emancipation
 emancipationist
 emancipators
 emasculate
@@ -21739,6 +21751,7 @@ gnomic
 gnomist
 gnomons
 gnoses
+gnostical
 gnosticisms
 gnotobiotic
 goaded
@@ -23029,6 +23042,7 @@ hardhead
 hardiest
 hardihoods
 hardily
+hardiness
 hardinesses
 hardly
 hardmouthed
@@ -23976,6 +23990,7 @@ hollering
 hollies
 holloes
 holloing
+hollooed
 hollooing
 holloos
 hollow
@@ -29556,6 +29571,7 @@ locust
 locustae
 locution
 locutions
+lode
 lodestar
 lodestars
 lodgement
@@ -29657,6 +29673,7 @@ longish
 longitudes
 longitudinally
 longleaves
+longly
 longship
 longshoremen
 longueur
@@ -29833,6 +29850,7 @@ lucking
 luckless
 lucrativeness
 lucubrate
+lucubrates
 lucubrating
 luculent
 ludicrousnesses
@@ -31717,6 +31735,7 @@ milters
 milts
 mimbar
 mimbars
+mime
 mimed
 mimeographs
 mimeos
@@ -32858,6 +32877,7 @@ mott
 motte
 mottling
 motts
+mouching
 mouchoir
 moufflons
 mouflon
@@ -41099,6 +41119,7 @@ prologizing
 prologued
 prologues
 prologuing
+prologuized
 prolongation
 prolongations
 prolonged
@@ -41634,6 +41655,7 @@ pulsate
 pulsated
 pulsatory
 pulsed
+pulser
 pulsers
 pulses
 pulsing
@@ -43656,6 +43678,7 @@ reimburse
 reimbursed
 reimbursement
 reimburses
+reimmerse
 reimmersed
 reimmerses
 reimport
@@ -43953,6 +43976,7 @@ removals
 removeable
 rems
 remudas
+remunerates
 remunerators
 remuneratory
 renail
@@ -45300,6 +45324,7 @@ roguishly
 roguishnesses
 roiling
 roisterers
+roisters
 rolfer
 rolfers
 rolfing
@@ -50648,6 +50673,7 @@ stomachy
 stomal
 stomas
 stomatal
+stomatitides
 stomodaea
 stomodaeal
 stomodaeums
@@ -51080,6 +51106,7 @@ subcenter
 subcenters
 subchapters
 subchief
+subchiefs
 subclans
 subclass
 subclassify
@@ -52064,6 +52091,7 @@ swampers
 swampier
 swampiest
 swamping
+swampland
 swanherds
 swank
 swankest
@@ -56098,6 +56126,7 @@ undrew
 undried
 undular
 undulated
+undulled
 undutiful
 undutifulnesses
 undynamic
@@ -57869,6 +57898,7 @@ viruses
 virusoid
 virusoids
 vis
+visaed
 visard
 visas
 viscera
@@ -57930,6 +57960,7 @@ vitiations
 vitiator
 viticulture
 viticulturists
+vitiligos
 vitrains
 vitric
 vitrics
@@ -58237,6 +58268,7 @@ walkover
 walkup
 walkway
 walkways
+walkyrie
 wallaby
 wallet
 walleye
@@ -58531,6 +58563,7 @@ webcasted
 webcasts
 webers
 webfed
+webfeet
 webfoot
 weblike
 weblog
@@ -58822,6 +58855,7 @@ whoopers
 whoops
 whoosh
 whooshes
+whoosis
 whopper
 whorehouse
 whoremaster
@@ -59778,6 +59812,7 @@ zonated
 zoneless
 zoner
 zonetimes
+zonked
 zonks
 zonula
 zoochore
