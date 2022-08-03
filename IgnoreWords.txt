@@ -965,6 +965,7 @@ airbursts
 airbuses
 airbusses
 airchecks
+airdate
 airdrop
 airdropped
 airest
@@ -2342,6 +2343,7 @@ apolog
 apologetics
 apologies
 apologise
+apologises
 apologist
 apologists
 apologizers
@@ -4047,6 +4049,7 @@ basidiomycetes
 basidiomycetous
 basilar
 basilect
+basilicae
 basilical
 basinet
 basinfuls
@@ -6182,6 +6185,7 @@ bricking
 bricklaying
 bricklayings
 bricks
+brickyards
 bridal
 bride
 bridesmaids
@@ -6629,6 +6633,7 @@ burdeners
 burdens
 burdocks
 bureaucracy
+bureaucrat
 bureaucratize
 bureaux
 buret
@@ -7073,6 +7078,7 @@ caloyers
 calpac
 calpacks
 calpacs
+calpain
 calqued
 calthrops
 caltrap
@@ -7754,6 +7760,7 @@ catena
 catenae
 catenaries
 catenates
+catenoid
 catenoids
 cater
 catercorner
@@ -9046,6 +9053,7 @@ clamper
 clamping
 clamworms
 clandestinity
+clanged
 clanger
 clangers
 clanging
@@ -9191,6 +9199,7 @@ climaxes
 climbable
 climbdown
 climbers
+climbs
 clime
 clinally
 clinches
@@ -11551,6 +11560,7 @@ crayonist
 crayons
 craze
 crazier
+crazinesses
 crazing
 creaked
 creakiest
@@ -13140,6 +13150,7 @@ defroster
 defrosters
 deft
 deftest
+defueling
 defuelled
 defund
 defuser
@@ -14378,6 +14389,7 @@ dirges
 dirham
 dirigisme
 dirigismes
+dirigiste
 diriment
 dirl
 dirling
@@ -15260,6 +15272,7 @@ dories
 dorkier
 dorkinesses
 dorky
+dormancy
 dormice
 dormins
 dormitory
@@ -16651,6 +16664,7 @@ emulate
 emulating
 emulation
 emulations
+emulative
 emulators
 emulous
 emulsification
@@ -17150,6 +17164,7 @@ enviro
 environing
 environmental
 environments
+envisages
 envois
 envy
 envying
@@ -20639,6 +20654,7 @@ fulness
 fulnesses
 fulsomenesses
 fumarase
+fumeless
 fumers
 fumette
 fumier
@@ -21474,6 +21490,7 @@ giddily
 giddiness
 giddy
 giddying
+gieing
 gies
 gift
 giftedly
@@ -21785,6 +21802,7 @@ glover
 glowering
 glowers
 glowing
+glowingly
 gloxinias
 glucans
 glucinic
@@ -26993,6 +27011,7 @@ invoked
 involucels
 involucra
 involucral
+involucres
 involute
 involuting
 involutional
@@ -29848,6 +29867,7 @@ looney
 loonie
 looninesses
 loons
+loony
 loopholed
 loopinesses
 looping
@@ -30664,6 +30684,7 @@ marabout
 marabouts
 maraca
 maranatha
+marantas
 maras
 maraschino
 maraschinos
@@ -36027,6 +36048,7 @@ outchide
 outclimbs
 outclomb
 outcoach
+outcome
 outcomes
 outcook
 outcounted
@@ -36326,6 +36348,7 @@ outstare
 outstart
 outstated
 outstates
+outsteer
 outsteered
 outsteers
 outstood
@@ -40538,6 +40561,7 @@ precuts
 predaceous
 predacious
 predate
+predated
 predatism
 predeceases
 predecessor
@@ -41336,6 +41360,7 @@ prom
 promethium
 prometric
 promines
+promiscuity
 promisee
 promisees
 promising
@@ -41540,6 +41565,7 @@ protectory
 protectress
 protectresses
 proteges
+protei
 proteinic
 proteinurias
 protend
@@ -42290,6 +42316,7 @@ quarterstaves
 quartile
 quarto
 quarts
+quartz
 quartzes
 quasicrystal
 quasicrystals
@@ -43543,6 +43570,7 @@ reeditions
 reedlike
 reedlings
 reedmen
+reeducate
 reeducating
 reeducations
 reefable
@@ -45861,6 +45889,7 @@ ruiner
 ruining
 ruinousness
 ruinousnesses
+ruins
 rulable
 ruled
 ruleless
@@ -50935,6 +50964,7 @@ stomodaeums
 stomodeal
 stompers
 stomping
+stomps
 stonechats
 stonecrops
 stoned
@@ -52040,6 +52070,7 @@ superfluousness
 supergene
 superglue
 supergovernment
+supergroup
 supergrowth
 superheated
 superhelices
@@ -54950,6 +54981,7 @@ triangulation
 triangulations
 triarchies
 triathletes
+triathlon
 triathlons
 triaxial
 triazin
@@ -54997,6 +55029,7 @@ trick
 trickie
 trickier
 trickily
+trickiness
 trickinesses
 trickish
 trickle
@@ -55249,6 +55282,7 @@ troupe
 trouper
 troupers
 trouser
+trouvere
 trouveres
 trove
 trowed
@@ -59337,6 +59371,7 @@ wingchairs
 winged
 winger
 wingman
+wingmen
 wingspan
 wining
 winked
