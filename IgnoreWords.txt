@@ -1516,6 +1516,7 @@ amoxycillins
 amp
 amperage
 amperages
+ampere
 amperes
 amperometric
 ampersand
@@ -1901,6 +1902,7 @@ anosmias
 anosmic
 anovulants
 anovulatory
+anoxemia
 anoxias
 ansae
 anserine
@@ -2669,6 +2671,7 @@ arisen
 aristate
 aristocracy
 arithmetical
+arkose
 armada
 armadas
 armagnacs
@@ -4764,6 +4767,7 @@ bheesties
 bhoot
 bhut
 bhuts
+biacetyls
 bialy
 biannually
 bias
@@ -13666,6 +13670,7 @@ destained
 destaining
 destitute
 destituteness
+destitutenesses
 destitutes
 destitution
 destitutions
@@ -14786,6 +14791,7 @@ dissevering
 disseverment
 dissidences
 dissimilar
+dissimilarities
 dissimilated
 dissimilatory
 dissimilitudes
@@ -14844,6 +14850,7 @@ distrainors
 distrains
 distrait
 distraught
+distress
 distresses
 distressful
 distressfulness
@@ -15088,6 +15095,7 @@ domestications
 domestics
 domically
 domicil
+domicile
 domiciliate
 domiciliations
 domiciling
@@ -16423,6 +16431,7 @@ emblazed
 emblazing
 emblazoned
 emblazoner
+emblazonments
 emblematizes
 embleming
 emblemize
@@ -16805,6 +16814,7 @@ engorges
 engorging
 engraft
 engraftments
+engrail
 engrailing
 engram
 engramme
@@ -17535,6 +17545,7 @@ ethmoidal
 ethnarchies
 ethnarchs
 ethnic
+ethnical
 ethnically
 ethnics
 ethnobotanist
@@ -17690,6 +17701,7 @@ evaporators
 evaporitic
 evasive
 evasively
+evasivenesses
 even
 evenest
 evenhanded
@@ -19639,6 +19651,7 @@ fluoroscoping
 fluoroscopist
 fluoroses
 fluorosis
+fluorouracil
 fluorspars
 fluphenazine
 flurries
@@ -22264,6 +22277,7 @@ grieved
 griever
 grieves
 grieving
+grievousnesses
 griffes
 griffs
 grift
@@ -23153,6 +23167,7 @@ hatcheries
 hatchers
 hatchery
 hatchet
+hatchlings
 hatchments
 hatchway
 hatefulness
@@ -23489,6 +23504,7 @@ hemiacetal
 hemic
 hemicellulose
 hemicycle
+hemimorphism
 hemimorphisms
 hemiola
 hemiolas
@@ -30110,6 +30126,7 @@ macrural
 macruran
 macrurans
 macula
+maculated
 macule
 macumba
 macumbas
@@ -30120,6 +30137,7 @@ madder
 madders
 maddest
 madeleine
+madhouses
 madmen
 madness
 madreporian
@@ -31281,6 +31299,7 @@ messiahships
 messier
 messiest
 messinesses
+messuage
 messuages
 mestees
 mestiza
@@ -36571,6 +36590,7 @@ overplied
 overply
 overplying
 overpopulation
+overpower
 overpoweringly
 overprescribing
 overpressures
@@ -37087,6 +37107,7 @@ paltriness
 paltry
 paludal
 paludism
+paludisms
 paly
 palynologic
 palynologically
@@ -37984,6 +38005,7 @@ penthouses
 pentlandites
 pentobarbital
 pentodes
+pentose
 pentoses
 penuchi
 penuchle
@@ -46387,6 +46409,7 @@ scantiest
 scantily
 scantiness
 scantinesses
+scantlings
 scantly
 scapegoat
 scapegraces
@@ -46487,6 +46510,7 @@ schlemiels
 schlemihl
 schlemihls
 schlocks
+schlocky
 schlub
 schlump
 schlumpier
@@ -47688,6 +47712,7 @@ shelterless
 shelty
 shelve
 shelved
+shelvers
 shelves
 shelving
 shelvings
@@ -50105,6 +50130,7 @@ squeegeed
 squeegees
 squeezabilities
 squeezability
+squeezable
 squeezers
 squeezing
 squelches
@@ -51596,6 +51622,7 @@ sulfuring
 sulfurize
 sulfurized
 sulfurousnesses
+sulfurs
 sulfuryls
 sulked
 sulkers
@@ -52673,6 +52700,7 @@ tannages
 tanned
 tanners
 tanning
+tanrec
 tanrecs
 tantalates
 tantalises
@@ -52703,6 +52731,7 @@ tapetal
 taphonomic
 tapiocas
 tapir
+tapirs
 tapper
 taprooms
 taqueria
@@ -54217,6 +54246,7 @@ touchstone
 touchtone
 touchtones
 toughener
+toughens
 toughing
 toughness
 toughnesses
@@ -55116,6 +55146,7 @@ tuffet
 tufters
 tuftier
 tuftiest
+tuftily
 tuftings
 tufts
 tugger
@@ -55387,6 +55418,7 @@ tynes
 typal
 typeable
 typebars
+typecasts
 typefaces
 typefounders
 types
@@ -56149,6 +56181,7 @@ unembittered
 unemotionally
 unemphatically
 unemployables
+unemployment
 unemployments
 unenclosed
 unendearing
@@ -57148,6 +57181,7 @@ uroscopies
 urostyles
 urp
 urped
+urticant
 urticarias
 urticated
 urticates
@@ -58464,6 +58498,7 @@ waterweed
 waterwork
 wattest
 watthours
+wattlebirds
 wattled
 wattles
 wattless
