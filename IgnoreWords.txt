@@ -47,6 +47,7 @@ abscess
 abscessing
 abscisin
 abscisins
+abscissas
 abscond
 absconder
 abseils
@@ -1021,12 +1022,14 @@ alanins
 alans
 alanyls
 alar
+alarmable
 alarmed
 alarmisms
 alarmist
 alarms
 alarum
 alarums
+alas
 alaska
 alated
 alation
@@ -4065,6 +4068,7 @@ baster
 basters
 bastille
 bastinade
+bastinades
 bastinado
 bastinadoed
 bastioned
@@ -6224,6 +6228,7 @@ bristletails
 bristliest
 bristling
 bristly
+britannias
 britches
 britt
 brittanias
@@ -7099,6 +7104,7 @@ camisa
 camlet
 cammies
 camomile
+camorristi
 camouflageable
 camouflaged
 camouflagic
@@ -7250,6 +7256,7 @@ canzonas
 canzones
 canzonets
 capabilities
+capable
 capablenesses
 capabler
 capablest
@@ -7758,6 +7765,7 @@ cathouse
 cationically
 catjang
 catlike
+catlin
 catling
 catlings
 catnapping
@@ -8621,6 +8629,7 @@ choker
 chokers
 chokes
 chokey
+chokier
 cholangiograms
 cholecystectomy
 cholelithiasis
@@ -9537,6 +9546,7 @@ coenzymatic
 coequal
 coequalities
 coequality
+coequates
 coequating
 coerce
 coerced
@@ -14132,6 +14142,7 @@ digressively
 dihedral
 dihedrals
 dihedron
+dihedrons
 dikdiks
 dilatancy
 dilatants
@@ -14659,6 +14670,7 @@ dismantlements
 dismantles
 dismasting
 dismays
+dismembering
 dismemberments
 dismissions
 dismissive
@@ -18111,6 +18123,7 @@ expo
 exponential
 exportability
 exportable
+exported
 exporter
 exposals
 expose
@@ -22942,6 +22955,7 @@ hamulous
 hamzahs
 hanaper
 hand
+handaxes
 handbag
 handbags
 handballs
@@ -23187,6 +23201,7 @@ hatchet
 hatchlings
 hatchments
 hatchway
+hated
 hatefulness
 haters
 hates
@@ -23779,6 +23794,7 @@ hiccoughs
 hiccups
 hick
 hid
+hidable
 hidden
 hiddenites
 hiddenness
@@ -28570,6 +28586,7 @@ lapel
 lapeled
 lapful
 lapides
+lapidifies
 lapidify
 lapidist
 lapin
@@ -30318,6 +30335,7 @@ malfunction
 malfunctioning
 malgre
 malicious
+maliciousness
 malignance
 malignancies
 malignant
@@ -36493,6 +36511,7 @@ overgilds
 overglamorize
 overglamorizing
 overglaze
+overgoad
 overgoads
 overgovern
 overgrazed
@@ -36622,6 +36641,7 @@ overprocess
 overprocessing
 overproduced
 overproduction
+overprogram
 overprograming
 overpromise
 overpromised
@@ -38746,6 +38766,7 @@ phrenologies
 phrenology
 phthalate
 phthalein
+phthaleins
 phthalocyanine
 phthisic
 phthisical
@@ -39286,6 +39307,7 @@ plantigrade
 plantigrades
 plantlike
 plantocracy
+plantsmen
 plashers
 plashiest
 plasma
@@ -42306,6 +42328,7 @@ rabies
 raccoon
 race
 racecourse
+racehorse
 racehorses
 racemes
 racemizations
@@ -43706,6 +43729,7 @@ rehire
 rehired
 rehiring
 rehospitalize
+rehospitalizing
 rehouse
 rehumanizes
 rehypnotizing
@@ -44228,6 +44252,7 @@ repository
 repossession
 repossessors
 repotted
+repotting
 repoured
 repousses
 repowering
@@ -45767,6 +45792,7 @@ rusticities
 rustinesses
 rustler
 rustles
+rustless
 rustproof
 rustproofed
 rusty
@@ -45949,6 +45975,7 @@ saleable
 saleratus
 salesclerks
 salesperson
+salesroom
 salicin
 salicine
 salicylate
@@ -46841,6 +46868,7 @@ scumbling
 scummer
 scummers
 scungilli
+scunner
 scunnered
 scuppaug
 scuppaugs
@@ -47002,6 +47030,7 @@ sedate
 sedates
 sedations
 sedative
+sederunt
 sedilia
 sedilium
 sedimentable
@@ -48348,6 +48377,7 @@ sinusitises
 sinuslike
 sinusoid
 sinusoidally
+sinusoids
 sipe
 siphon
 siphonage
@@ -49647,6 +49677,7 @@ speaned
 speaning
 speared
 spearfish
+spearfished
 spearheading
 spearmen
 spearmints
@@ -50596,6 +50627,7 @@ stickfuls
 stickhandlers
 stickhandles
 stickhandling
+stickiness
 stickled
 sticklers
 stickles
@@ -56317,6 +56349,7 @@ unguardednesses
 unguenta
 unguents
 ungula
+ungulae
 ungulate
 unhairs
 unhallow
@@ -58627,6 +58660,7 @@ web
 webbier
 webby
 webcams
+webcast
 webcasted
 webcasts
 webers
@@ -59180,6 +59214,7 @@ witchweeds
 witchy
 wited
 withdrawable
+withdrawal
 withdrawing
 withdrawn
 witherite
