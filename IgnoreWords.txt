@@ -1250,6 +1250,7 @@ alloying
 alls
 allseed
 allseeds
+allspice
 allspices
 allude
 alluding
@@ -6265,6 +6266,7 @@ brisling
 brislings
 briss
 bristle
+bristlelike
 bristletails
 bristliest
 bristling
@@ -6624,6 +6626,7 @@ bunk
 bunkers
 bunkhouse
 bunkmate
+bunko
 bunkoed
 bunkums
 bunns
@@ -7009,6 +7012,7 @@ calcanei
 calcar
 calceate
 calcedony
+calcic
 calcicoles
 calciferol
 calcific
@@ -7682,6 +7686,7 @@ casserole
 cassia
 cassimeres
 cassino
+cassowaries
 cassowary
 castability
 castable
@@ -10375,6 +10380,7 @@ confides
 confiding
 configuration
 configurations
+configurative
 configuring
 confine
 confined
@@ -12379,6 +12385,7 @@ cyclitol
 cyclized
 cyclizes
 cyclizing
+cyclo
 cycloaddition
 cycloadditions
 cyclodextrin
@@ -12495,6 +12502,7 @@ dactylic
 dactylology
 dactylus
 dadaistic
+dadas
 daddies
 daddles
 daddling
@@ -13360,6 +13368,7 @@ demagnetization
 demagnetizing
 demagog
 demagogically
+demagogs
 demagogue
 demagogueries
 demagoguing
@@ -13832,6 +13841,7 @@ detachers
 detachment
 detachments
 detailed
+detailedly
 detailedness
 detailednesses
 detailer
@@ -14044,6 +14054,7 @@ diallists
 dialog
 dialogers
 dialogically
+dialoging
 dialogistic
 dialogs
 dialogue
@@ -15443,6 +15454,7 @@ dowerless
 dowers
 dowery
 dowie
+downbeat
 downbeats
 downburst
 downbursts
@@ -19072,6 +19084,7 @@ fetishists
 fetoprotein
 fetoscopies
 fetterer
+fetterers
 fettled
 fettuccini
 fettucine
@@ -20071,6 +20084,7 @@ forboded
 forby
 force
 forced
+forcedly
 forcefulnesses
 forceless
 forcemeats
@@ -22460,6 +22474,7 @@ gregarines
 gregariously
 greiges
 gremials
+gremlin
 gremmie
 gremmies
 grenadier
@@ -22876,6 +22891,7 @@ guyots
 guzzle
 guzzler
 gwine
+gybe
 gybed
 gymkhana
 gymnast
@@ -23185,6 +23201,7 @@ handrails
 handsaw
 handsaws
 handselling
+handsewn
 handsful
 handshake
 handshakes
@@ -27668,6 +27685,7 @@ jibbed
 jibber
 jibbers
 jibes
+jibingly
 jiff
 jiffs
 jiffy
@@ -28043,6 +28061,7 @@ kedged
 kedgerees
 kedges
 keeking
+keeks
 keel
 keelage
 keelboat
@@ -28864,6 +28883,7 @@ larvas
 larvicide
 larvicides
 laryngals
+laryngectomized
 larynges
 laryngitis
 laryngoscope
@@ -29337,6 +29357,7 @@ lexicographer
 lexicographers
 lexicologies
 lexicologist
+lexicons
 ley
 lezzes
 lezzy
@@ -30444,6 +30465,7 @@ maffick
 mafficker
 mafficks
 mafia
+mafias
 mafiosi
 mafiosos
 maftirs
@@ -33411,6 +33433,7 @@ multiheaded
 multihull
 multijet
 multilane
+multilanes
 multilaterally
 multileveled
 multilingualism
@@ -42234,6 +42257,7 @@ pusher
 pushers
 pushes
 pushiness
+pushinesses
 pushy
 pusillanimity
 pusillanimous
@@ -42909,6 +42933,7 @@ ranging
 ranid
 ranis
 rank
+ranked
 rankers
 rankings
 rankish
@@ -43731,6 +43756,7 @@ redyed
 ree
 reearns
 reechiest
+reecho
 reechy
 reedbirds
 reedbuck
@@ -44277,6 +44303,7 @@ religiosity
 religious
 relinking
 relinquish
+relinquishment
 reliquefies
 reliques
 reliquiae
@@ -47336,6 +47363,7 @@ seawalls
 seawan
 seawants
 seaward
+seaware
 seawares
 seawaters
 seaworthinesses
@@ -50440,6 +50468,7 @@ sportswomen
 sportswritings
 sporulates
 sporulating
+spotless
 spotlessly
 spotlighting
 spotlights
@@ -50536,6 +50565,7 @@ spurns
 spurrer
 spurrers
 spurtle
+spurtles
 spurts
 sputa
 sputter
@@ -52625,6 +52655,7 @@ swaybacks
 swayers
 swear
 swearer
+swearers
 swearing
 sweat
 sweatband
@@ -53682,6 +53713,7 @@ terephthalate
 terete
 terga
 tergiversator
+teriyaki
 term
 terminably
 terminal
@@ -54723,6 +54755,7 @@ totemisms
 totemist
 totemites
 totems
+totted
 tottered
 tottering
 toucan
@@ -58611,6 +58644,7 @@ voicing
 voicings
 void
 volante
+volatilities
 volatilizations
 volatilize
 volatilizes
@@ -58745,6 +58779,7 @@ wadable
 wadded
 wadder
 wadders
+wadding
 waddled
 waddlers
 waddying
