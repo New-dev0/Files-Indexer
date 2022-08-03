@@ -704,6 +704,7 @@ aeronomers
 aerophobe
 aerophobes
 aerophyte
+aerophytes
 aeroplane
 aerosats
 aerosolizations
@@ -1710,6 +1711,7 @@ ancresses
 ancylostomiases
 ancylostomiasis
 and
+andantes
 andesitic
 andesytes
 andouillette
@@ -4455,6 +4457,7 @@ behoove
 behoves
 behowl
 beignes
+beignet
 beigy
 being
 beings
@@ -6681,6 +6684,7 @@ burnishings
 burnt
 burps
 burqas
+burrer
 burro
 burrow
 burrowers
@@ -9879,6 +9883,7 @@ colorizers
 colorizes
 colorless
 colorlessnesses
+colorman
 colormen
 colors
 colorways
@@ -10884,6 +10889,7 @@ copout
 copped
 copperah
 copperas
+copperases
 coppersmiths
 coppiced
 coppices
@@ -13876,6 +13882,7 @@ developers
 deverbal
 deverbatives
 devesting
+deviant
 deviants
 deviating
 deviationisms
@@ -16464,6 +16471,7 @@ elucidative
 elucubrates
 eluded
 eluding
+elusions
 elusory
 elute
 elutes
@@ -17753,6 +17761,7 @@ euphausiids
 euphemise
 euphemisms
 euphemist
+euphemistically
 euphemizing
 euphenic
 euphonies
@@ -18002,6 +18011,7 @@ executers
 executes
 executioners
 executions
+executives
 executory
 executrices
 exed
@@ -20860,6 +20870,7 @@ gainsaid
 gainsayers
 gainsaying
 gainsays
+gaited
 gaiters
 gal
 galabia
@@ -22454,6 +22465,7 @@ gripsacks
 gript
 grisailles
 griseous
+grisette
 griskin
 griskins
 grislier
@@ -22910,6 +22922,7 @@ haft
 haftarah
 haftarahs
 haftaroth
+hafted
 hag
 hagadic
 hagadist
@@ -24535,6 +24548,7 @@ housecoats
 housedresses
 housefather
 housefathers
+housefront
 houseguest
 household
 housekeep
@@ -25321,6 +25335,7 @@ immoralism
 immoralisms
 immoralists
 immoralities
+immortalised
 immortalises
 immortalising
 immortalities
@@ -25373,6 +25388,7 @@ impalement
 impales
 impaling
 impalpably
+impanel
 impaneling
 impanelled
 impanelling
@@ -28352,6 +28368,7 @@ kolkhoznik
 kolkhozniki
 kolkhozniks
 kolkhozy
+kolkozy
 kombus
 komondorock
 koodoo
@@ -29291,6 +29308,7 @@ licensees
 licenses
 licensors
 licensures
+licentiate
 licentiates
 licentiously
 lichee
@@ -30693,6 +30711,7 @@ manwise
 many
 manyfold
 manyplies
+manzanita
 manzanitas
 maplelike
 maplike
@@ -30913,6 +30932,7 @@ mastoid
 masturbate
 masturbated
 masturbates
+masturbating
 masturbator
 matchless
 matchmake
@@ -33626,6 +33646,7 @@ myxoedema
 myxoma
 myxomatoses
 myxomycete
+nabbed
 nabbing
 nabis
 naboberies
@@ -34397,6 +34418,7 @@ nonbody
 nonbonded
 nonbook
 nonbrand
+nonbreakable
 nonbreathing
 nonbreeding
 noncaloric
@@ -36602,6 +36624,7 @@ overdubbing
 overdyed
 overdyeing
 overdyer
+overeager
 overeater
 overedit
 overedited
@@ -39658,6 +39681,7 @@ plowmen
 plowshare
 plowshares
 ploys
+plucking
 plug
 plugger
 plumb
@@ -43878,6 +43902,7 @@ regreen
 regreened
 regreeted
 regreeting
+regress
 regressive
 regretfulness
 regretfulnesses
@@ -46236,6 +46261,7 @@ sals
 salsa
 salsify
 saltarello
+saltarellos
 saltations
 saltatorial
 saltatory
@@ -47676,6 +47702,7 @@ serpiginously
 serpigo
 serpigoes
 serpigos
+serranids
 serranoid
 serration
 serratures
@@ -48901,6 +48928,7 @@ sleazoids
 sledders
 sledding
 sledged
+sledgehammers
 sleek
 sleeken
 sleekened
@@ -49470,6 +49498,7 @@ sodoms
 sods
 soever
 sofa
+sofabed
 softback
 softball
 softballer
@@ -50181,6 +50210,7 @@ spliff
 spline
 splined
 splines
+splitting
 splodged
 sploshes
 splotch
@@ -50341,6 +50371,7 @@ sprung
 spry
 spryly
 spud
+spumes
 spumy
 spunk
 spunkies
@@ -52026,6 +52057,7 @@ supe
 superably
 superabound
 superabsorbent
+superabsorbents
 superabundances
 superabundant
 superachievers
@@ -53026,6 +53058,7 @@ tapestried
 tapestries
 tapetal
 taphonomic
+taphouse
 tapiocas
 tapir
 tapirs
@@ -57707,6 +57740,7 @@ varia
 variable
 variablenesses
 variance
+variances
 variation
 variational
 variationally
@@ -58313,6 +58347,7 @@ vitalists
 vitalities
 vitality
 vitalize
+vitalizer
 vitalizes
 vitals
 vitamines
