@@ -980,6 +980,7 @@ airlifting
 airline
 airliner
 airmen
+airports
 airpower
 airpowers
 airproofing
@@ -1253,6 +1254,7 @@ alluding
 allurer
 alluringly
 allusion
+allusivenesses
 alluvia
 alluvion
 alluvium
@@ -1506,6 +1508,7 @@ amnions
 amniotic
 amobarbital
 amoebas
+amoeboid
 amoks
 amoles
 amontillados
@@ -1607,6 +1610,7 @@ anacoluthons
 anacondas
 anacruses
 anadems
+anadiploses
 anadiplosis
 anadromous
 anaemic
@@ -6638,6 +6642,7 @@ burden
 burdener
 burdeners
 burdens
+burdensome
 burdocks
 bureaucracy
 bureaucrat
@@ -9191,6 +9196,7 @@ clerihews
 clerkdoms
 clerkish
 clerkships
+clever
 cleverer
 cleverish
 clew
@@ -9614,6 +9620,7 @@ coerecting
 coesites
 coeternal
 coeval
+coevals
 coevolution
 coevolutionary
 coevolved
@@ -10367,6 +10374,7 @@ conflate
 conflates
 conflation
 conflict
+conflicts
 confluent
 conflux
 confluxes
@@ -12065,6 +12073,7 @@ cultic
 cultigen
 cultishly
 cultishness
+cultivated
 cultivation
 cultivator
 cultivators
@@ -12506,6 +12515,7 @@ daintiness
 daintinesses
 dainty
 dairying
+dairyings
 daishikis
 daisied
 daisies
@@ -14587,6 +14597,7 @@ discrete
 discreteness
 discriminant
 discriminants
+discrimination
 discriminator
 discrown
 discrowned
@@ -14804,6 +14815,7 @@ displayable
 displayer
 displeasures
 disploded
+disploding
 displosion
 displume
 displumed
@@ -16856,6 +16868,7 @@ endothelium
 endotoxins
 endotrophic
 endower
+endowment
 endows
 endozoic
 endpapers
@@ -19794,6 +19807,7 @@ flushable
 flushes
 flusteredly
 fluted
+flutings
 flutter
 flutterboard
 flutterer
@@ -21064,6 +21078,7 @@ gargled
 garglers
 gargoyle
 gargoyles
+garibaldis
 garigues
 garish
 garishness
@@ -22417,6 +22432,7 @@ griddled
 griddling
 griding
 gridiron
+gridironing
 gridlocking
 gridlocks
 grids
@@ -22767,6 +22783,7 @@ gunpowder
 gunroom
 gunrunner
 gunrunning
+gunsel
 gunshots
 gunslinger
 gunslinging
@@ -23513,6 +23530,7 @@ heaths
 heaumes
 heavenlier
 heavenliness
+heavenly
 heavens
 heavenwards
 heavily
@@ -24169,6 +24187,7 @@ hollooed
 hollooing
 holloos
 hollow
+hollowares
 hollowness
 holly
 hollyhock
@@ -24235,6 +24254,7 @@ homesteaded
 homesteading
 homestretch
 homestretches
+hometowns
 homey
 homeyness
 homeys
@@ -24591,6 +24611,7 @@ hubbub
 hubby
 hubcap
 hubristic
+huck
 huckle
 huckleberry
 huckstering
@@ -25767,6 +25788,7 @@ incognita
 incognitas
 incognitos
 incognizant
+incoherent
 incombustibles
 income
 incomes
@@ -29619,6 +29641,7 @@ literator
 literature
 literatus
 liters
+lithe
 lithemia
 lithenesses
 lither
@@ -30234,6 +30257,7 @@ lyricise
 lyricised
 lyricize
 lyrisms
+lyrist
 lysed
 lysimeter
 lysimeters
@@ -32554,6 +32578,7 @@ mobilization
 mobocrat
 mobocratic
 mobocrats
+mobster
 mochas
 mochila
 mockable
@@ -36381,6 +36406,7 @@ outspeeded
 outspell
 outspells
 outspending
+outspoken
 outspokenness
 outspread
 outspreading
@@ -36458,6 +36484,7 @@ outwhirling
 outwhirls
 outwill
 outwinded
+outwish
 outwished
 outwit
 outwitted
@@ -38553,6 +38580,7 @@ perv
 pervaded
 pervader
 pervaders
+pervasions
 pervasively
 pervasiveness
 pervasivenesses
@@ -40459,6 +40487,7 @@ pratiques
 prattle
 prattles
 prattling
+prattlingly
 prawning
 prawns
 praxeological
@@ -50236,6 +50265,7 @@ spondylitises
 sponge
 sponges
 spongewares
+spongily
 sponginess
 spongy
 sponsal
@@ -50255,6 +50285,7 @@ spoofer
 spoofery
 spoofing
 spoofs
+spookiest
 spooking
 spooler
 spools
@@ -51093,6 +51124,7 @@ stouten
 stoutening
 stoutens
 stoutness
+stove
 stover
 stovers
 stowable
@@ -54399,6 +54431,7 @@ tonetically
 tonetics
 tonettes
 toney
+tong
 tonga
 tongmen
 tongue
@@ -58851,6 +58884,7 @@ waterers
 waterfall
 waterfalls
 waterflooded
+waterflooding
 waterfowlers
 waterhen
 waterhens
@@ -59144,6 +59178,7 @@ whey
 wheyfaced
 wheys
 whichsoever
+whidah
 whidahs
 whiffed
 whiffer
