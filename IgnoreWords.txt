@@ -2080,6 +2080,7 @@ antileprosy
 antilibertarian
 antilife
 antiliterate
+antilittering
 antilogarithms
 antilynching
 antimacassars
@@ -2880,6 +2881,7 @@ ashless
 ashore
 ashplant
 aside
+asinine
 asininities
 ask
 askance
@@ -8276,6 +8278,7 @@ chastens
 chaster
 chastest
 chastise
+chastisements
 chastities
 chatchke
 chateaubriand
@@ -9917,6 +9920,7 @@ comestible
 comet
 comfiness
 comfort
+comfortableness
 comfortably
 comforter
 comfortingly
@@ -11813,6 +11817,7 @@ croutons
 crowbars
 crowd
 crowded
+crowdedly
 crowder
 crowders
 crowdy
@@ -12258,6 +12263,7 @@ cyanin
 cyanines
 cyanins
 cyanite
+cyanites
 cyanoacrylates
 cyanobacterium
 cyanocobalamin
@@ -15618,6 +15624,7 @@ dropwort
 droshkies
 droshky
 droskies
+drosophilas
 dross
 drossiest
 drossy
@@ -17267,6 +17274,7 @@ episodes
 epistemically
 epistemological
 epistemology
+episternum
 epistle
 epistolary
 epistolers
@@ -18129,6 +18137,7 @@ expiation
 expirations
 expiratory
 expired
+expirer
 expirers
 explainers
 explanative
@@ -19346,6 +19355,7 @@ flagitious
 flagitiously
 flagmen
 flagons
+flagpole
 flagrancy
 flagships
 flagstaff
@@ -20345,6 +20355,7 @@ freemen
 freenesses
 freer
 freesias
+freestone
 freestones
 freestyles
 freethinkers
@@ -25003,6 +25014,7 @@ idealogies
 idealogue
 idealogy
 ideas
+ideating
 ideative
 idem
 idempotents
@@ -26785,6 +26797,7 @@ intines
 intis
 intitling
 intitule
+intituled
 intitules
 intituling
 intolerantly
@@ -28165,6 +28178,7 @@ kittler
 kittles
 kitty
 kiva
+kiwifruit
 kiwis
 klatches
 klatsch
@@ -29181,6 +29195,7 @@ liberties
 libertine
 libertinisms
 liberty
+libidinal
 libidinously
 libido
 librarianship
@@ -30070,6 +30085,7 @@ lustring
 lustrous
 lustrum
 lusty
+lutanist
 luteal
 luteciums
 luted
@@ -30986,6 +31002,7 @@ measly
 measurable
 measureless
 measurements
+measurer
 measures
 meatier
 meatiest
@@ -32969,6 +32986,7 @@ motorbike
 motorbiked
 motorboater
 motorbus
+motorcaded
 motorcades
 motorcar
 motorcycles
@@ -35368,6 +35386,7 @@ olestras
 olfaction
 olfactions
 olibanum
+olibanums
 oligarchy
 oligochaete
 oligochaetes
@@ -38289,6 +38308,7 @@ perish
 perished
 perishes
 perishing
+perissodactyl
 peristyle
 perithecia
 perithecial
@@ -40547,6 +40567,7 @@ prefabbing
 prefabricates
 prefaces
 prefaded
+prefascist
 preferential
 preferments
 preferrer
@@ -41530,6 +41551,7 @@ protozoologies
 protozoologist
 protozoology
 protract
+protractions
 protractive
 protractors
 protracts
@@ -44055,6 +44077,7 @@ remarque
 remarques
 remarriage
 remarriages
+remaster
 remastered
 rematch
 rematched
@@ -44641,6 +44664,7 @@ respecify
 respecifying
 respectables
 respectably
+respected
 respecters
 respectfully
 respecting
@@ -45765,6 +45789,7 @@ ruffianisms
 ruffianly
 ruffle
 ruffled
+rufflers
 ruffly
 ruffs
 rug
@@ -47525,6 +47550,7 @@ serologies
 serologists
 serology
 seronegativity
+seropurulent
 serosae
 serosas
 serosity
@@ -48056,6 +48082,7 @@ shortlist
 shortlists
 shortsighted
 shortsightedly
+shortstop
 shortwaved
 shorty
 shotguns
@@ -49397,6 +49424,7 @@ solicitous
 solicitousness
 solicitude
 solidarisms
+solidarist
 solider
 solidified
 solidify
@@ -55804,6 +55832,7 @@ unalarmed
 unalerted
 unaligned
 unallayed
+unalleviated
 unallocated
 unalterable
 unambiguous
@@ -55983,6 +56012,7 @@ unclassifiable
 unclawed
 uncleaned
 uncleanlier
+uncleanly
 unclear
 unclearer
 unclearest
@@ -56927,6 +56957,7 @@ unsnagged
 unsnap
 unsnapped
 unsnaps
+unsnarl
 unsnarling
 unsociable
 unsold
@@ -57015,6 +57046,7 @@ untenably
 untenanted
 untented
 untested
+untether
 untethering
 untethers
 unthinking
@@ -58811,6 +58843,7 @@ weest
 weever
 weevers
 weevily
+wefts
 weighable
 weighed
 weighers
@@ -59259,6 +59292,7 @@ winterberry
 winterer
 winterfeeding
 winterfeeds
+wintering
 winterizations
 winterkill
 winterly
@@ -59469,6 +59503,7 @@ wordmonger
 wordplays
 words
 wordsmith
+wordsmithery
 work
 workaday
 workaholisms
