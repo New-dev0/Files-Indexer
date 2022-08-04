@@ -2775,6 +2775,7 @@ arrays
 arrearages
 arrears
 arrest
+arrestee
 arrestments
 arrhizal
 arrhythmias
@@ -4017,6 +4018,7 @@ barograph
 barographic
 baronage
 baroness
+baronesses
 baronetage
 baronetcies
 baronnes
@@ -7498,6 +7500,7 @@ carbamates
 carbamino
 carbineers
 carbines
+carbinol
 carbinols
 carbohydrate
 carbolics
@@ -9151,6 +9154,7 @@ claimer
 clairaudience
 clairaudient
 clairvoyance
+clam
 clambakes
 clamberer
 clammers
@@ -10479,6 +10483,7 @@ confirmands
 confirmation
 confirmations
 confirmednesses
+confirmer
 confirmers
 confiscable
 confiscate
@@ -10764,6 +10769,7 @@ containerizes
 containerless
 containership
 containerships
+containing
 containments
 contaminates
 contaminating
@@ -13076,6 +13082,7 @@ declared
 declares
 declaring
 declassified
+declassifies
 declassify
 declassing
 declaw
@@ -19288,6 +19295,7 @@ fiascos
 fib
 fibber
 fibbing
+fibered
 fiberglassed
 fiberized
 fiberizes
@@ -19793,6 +19801,7 @@ fledged
 fledges
 fledgier
 fledgiest
+fledglings
 fleeced
 fleecer
 fleecing
@@ -20276,6 +20285,7 @@ fording
 fordless
 fordoes
 fordone
+fords
 forearm
 forearms
 forebear
@@ -20611,6 +20621,7 @@ francium
 francize
 francized
 francs
+frangibilities
 frangipane
 frankable
 franker
@@ -20868,6 +20879,7 @@ frustrate
 frustules
 frustum
 frutescent
+fruticose
 fryable
 frybread
 frybreads
@@ -21175,6 +21187,7 @@ galivanted
 galivants
 gall
 gallant
+gallantly
 gallants
 galleasses
 galleins
@@ -23918,6 +23931,7 @@ hellishness
 helloes
 helloing
 helm
+helmed
 helminthiases
 helmless
 helmsmanships
@@ -24219,6 +24233,7 @@ hic
 hiccoughs
 hiccups
 hick
+hickories
 hid
 hidable
 hidden
@@ -24485,6 +24500,7 @@ holographers
 holography
 hologynic
 hologynies
+hologyny
 holohedral
 holometabolism
 holophytic
@@ -26370,6 +26386,7 @@ ineffaceability
 ineffectuality
 inefficiently
 inefficients
+inegalitarian
 inelasticity
 inelegances
 ineligibilities
@@ -26428,6 +26445,7 @@ infante
 infanticide
 infantile
 infantilism
+infantilisms
 infantilization
 infantilize
 infantilizing
@@ -27314,6 +27332,7 @@ inurnments
 inutile
 inutilely
 inutility
+invaginated
 invaginating
 invalid
 invalidators
@@ -32734,6 +32753,7 @@ mishandle
 mishandled
 mishanters
 mishearing
+mishits
 mishitting
 mishmash
 mishmosh
@@ -34524,6 +34544,7 @@ neurologist
 neuromas
 neuromast
 neurophysiology
+neuropterans
 neuroradiology
 neuroscientists
 neurosecretions
@@ -35313,6 +35334,7 @@ nonvirgin
 nonvisual
 nonvoting
 nonwage
+nonwar
 nonwhite
 nonwool
 nonwork
@@ -35575,6 +35597,7 @@ nutters
 nuttiest
 nutting
 nutwood
+nutwoods
 nuzzled
 nuzzlers
 nyctalopias
@@ -35628,6 +35651,7 @@ obfuscations
 obfuscatory
 obis
 obit
+obituaries
 objected
 objection
 objections
@@ -35994,6 +36018,7 @@ omelet
 omelets
 omelettes
 omenta
+omental
 omicrons
 ominousness
 ominousnesses
@@ -38003,6 +38028,7 @@ papyrologies
 papyrologists
 papyrology
 parabiotic
+parabiotically
 parables
 paraboloid
 paraboloids
@@ -38962,6 +38988,7 @@ permanganate
 permanganates
 permeably
 permeate
+permeating
 permian
 permillages
 permission
@@ -42250,6 +42277,7 @@ proverb
 provers
 proves
 providences
+provider
 providers
 provides
 provinces
@@ -51186,6 +51214,7 @@ stagiest
 stagily
 stagnant
 stags
+stagy
 staid
 staider
 staig
@@ -51705,6 +51734,7 @@ stoolie
 stoolies
 stoopballs
 stopcock
+stopcocks
 stoped
 stoper
 stopoff
@@ -52568,6 +52598,7 @@ sugarer
 sugarier
 sugariest
 sugarlike
+sugars
 suggest
 suggesters
 suggestibility
@@ -53056,6 +53087,7 @@ survivorship
 susceptibility
 susceptibly
 susceptiveness
+suslik
 suspect
 suspended
 suspender
@@ -54429,6 +54461,7 @@ theocentrism
 theocratical
 theodolite
 theologically
+theologies
 theologised
 theologising
 theologue
@@ -55300,6 +55333,7 @@ toured
 tourers
 tourmaline
 tourney
+tourneying
 touse
 touses
 tousles
@@ -57757,6 +57791,7 @@ unrevised
 unrevoked
 unrevolutionary
 unrewarding
+unriddling
 unrighteously
 unrip
 unripest
