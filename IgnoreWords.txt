@@ -2914,6 +2914,7 @@ ask
 askance
 asker
 askew
+askewness
 askewnesses
 askoi
 aslope
@@ -4949,6 +4950,7 @@ bilbos
 bilby
 bildungsroman
 bilevel
+bilgiest
 bilharziases
 biliary
 bilk
@@ -5027,6 +5029,7 @@ biochemistry
 biochip
 biocidal
 biocide
+biocoenoses
 biocycle
 biodegradation
 biodegradations
@@ -5518,6 +5521,7 @@ bluenoses
 blueprints
 blueshifts
 bluesman
+bluestocking
 bluestone
 bluet
 blueweeds
@@ -8243,6 +8247,7 @@ chancel
 chancellorship
 chancer
 chanceries
+chancier
 chanciest
 chancinesses
 chancre
@@ -8364,6 +8369,7 @@ chartularies
 chartulary
 charwomen
 chaseable
+chaser
 chasers
 chasings
 chasmed
@@ -10352,6 +10358,7 @@ concomitances
 concomitants
 concord
 concordantly
+concordats
 concours
 concourses
 concretenesses
@@ -12372,6 +12379,7 @@ cutches
 cutdowns
 cutely
 cuteness
+cutenesses
 cutes
 cutesie
 cutest
@@ -12841,6 +12849,7 @@ deadheaded
 deadlier
 deadliest
 deadlift
+deadlifted
 deadlight
 deadlined
 deadliness
@@ -16873,6 +16882,7 @@ encapsuling
 encasements
 encash
 encashment
+encashments
 encasing
 encephalitides
 encephalitogens
@@ -17953,6 +17963,7 @@ eurypterid
 eurythermic
 eurytopic
 eustacies
+eustasies
 eustasy
 eustele
 eutaxy
@@ -20399,6 +20410,7 @@ formulation
 formulator
 formulators
 formulism
+formworks
 formyl
 formyls
 fornent
@@ -21299,6 +21311,7 @@ garpikes
 garrets
 garring
 garron
+garrote
 garroted
 garroter
 garroting
@@ -24751,6 +24764,7 @@ hotcake
 hotching
 hotchpotches
 hotchpots
+hotdog
 hotdogged
 hotel
 hoteldoms
@@ -25342,6 +25356,7 @@ idealogue
 idealogy
 ideals
 ideas
+ideates
 ideating
 ideative
 idem
@@ -27036,6 +27051,7 @@ interparish
 interparticle
 interparty
 interpellated
+interpellator
 interpermeating
 interphalangeal
 interphase
@@ -27107,6 +27123,7 @@ intertidally
 intertilling
 intertills
 intertribal
+intertroop
 intertwine
 intertwines
 intertwisted
@@ -27627,6 +27644,7 @@ izars
 izzards
 jabbers
 jabberwocky
+jabbing
 jabirus
 jabot
 jaboticabas
@@ -30526,6 +30544,7 @@ lycopene
 lycopenes
 lycopodium
 lymphadenitises
+lymphangiograms
 lymphatics
 lymphoblast
 lymphocytosis
@@ -30790,6 +30809,7 @@ malapertness
 malapertnesses
 malaperts
 malaprop
+malapropism
 malariologist
 malariologists
 malarkey
@@ -30960,6 +30980,7 @@ manifested
 manifester
 manifestly
 manifestos
+manifests
 manifoldness
 manifoldnesses
 manihot
@@ -34717,6 +34738,7 @@ nominating
 nomination
 nominations
 nominee
+nomism
 nomistic
 nomogram
 nomographic
@@ -37343,6 +37365,7 @@ overteaching
 overthick
 overthin
 overthought
+overthrew
 overtimed
 overtiming
 overtire
@@ -38112,6 +38135,7 @@ parthenocarpies
 parthenogeneses
 partial
 partialities
+partially
 participants
 participated
 participating
@@ -39395,6 +39419,7 @@ phyllomes
 phyllomic
 phyllotactic
 phyllotaxes
+phyllotaxies
 phyllotaxy
 phylloxera
 phylogenetic
@@ -39617,6 +39642,7 @@ pillowy
 pilonidal
 pilosities
 pilotages
+piloted
 pilothouses
 piloting
 pilotless
@@ -41791,6 +41817,7 @@ prohibit
 prohibitionist
 prohibitionists
 prohibitively
+prohibitiveness
 prohibits
 proinsulin
 project
@@ -43061,6 +43088,7 @@ radioautographs
 radiobiologic
 radiobiologies
 radiobiologist
+radiobiology
 radiochemists
 radioecologies
 radioisotope
@@ -49426,6 +49454,7 @@ sleepiest
 sleepings
 sleepwalked
 sleepwear
+sleepy
 sleepyheads
 sleetier
 sleeting
@@ -49488,6 +49517,7 @@ slipsheet
 slipsheeted
 slipsheeting
 slipsheets
+slit
 slither
 slithered
 slits
@@ -51957,6 +51987,7 @@ subcaste
 subcategories
 subcategorized
 subcavity
+subcellars
 subcellular
 subcenter
 subcenters
@@ -52257,6 +52288,7 @@ substrata
 substructural
 substructure
 subsume
+subsumes
 subsumption
 subsurfaces
 subsystem
@@ -53646,6 +53678,7 @@ tartrated
 tartrates
 tarts
 tartuffe
+tarzans
 taskbars
 tasking
 taskmaster
@@ -54362,6 +54395,7 @@ thieve
 thieved
 thievery
 thievishness
+thigh
 thigmotaxes
 thimble
 thimblerigged
@@ -56184,6 +56218,7 @@ turquoises
 turret
 turtleback
 turtleheads
+turtleneck
 turtlenecks
 turtles
 tushed
