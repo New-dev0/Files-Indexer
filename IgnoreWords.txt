@@ -8199,6 +8199,7 @@ chambers
 chambray
 chameleonic
 chameleonlike
+chameleons
 chamfered
 chamferer
 chamfering
@@ -11629,6 +11630,7 @@ craved
 cravened
 cravening
 craver
+craving
 cravings
 crawfish
 crawfished
@@ -13364,6 +13366,7 @@ delightfully
 delights
 delightsome
 delime
+delimes
 delimiter
 delineated
 delineates
@@ -15035,6 +15038,7 @@ distilleries
 distils
 distinctively
 distinctnesses
+distinguishably
 distinguishes
 distome
 distorter
@@ -17468,6 +17472,7 @@ epopees
 epos
 eposes
 epoxidizing
+epoxied
 epoxy
 epsilonic
 equably
@@ -18693,6 +18698,7 @@ faltered
 falterers
 falters
 fame
+familial
 familiar
 familiarises
 familiarising
@@ -19806,6 +19812,7 @@ floriated
 floriations
 floricane
 floricultures
+floriculturist
 floriculturists
 florid
 floridity
@@ -20206,6 +20213,7 @@ foremost
 foremothers
 forenamed
 forenoon
+foreordain
 foreordained
 foreordaining
 foreordains
@@ -20513,6 +20521,7 @@ fraudulence
 fraught
 fraulein
 frayed
+frazzled
 frazzling
 freakily
 freakinesses
@@ -20808,6 +20817,7 @@ fulminic
 fulness
 fulnesses
 fulsomenesses
+fulvous
 fumarase
 fumeless
 fumers
@@ -21089,6 +21099,7 @@ galyacs
 galyak
 gam
 gamb
+gambado
 gambesons
 gambias
 gambier
@@ -25269,6 +25280,7 @@ identicalnesses
 identifiable
 identifiably
 identifications
+identifiers
 identifies
 identify
 identifying
@@ -25696,6 +25708,7 @@ impossibilities
 impossibility
 impossible
 impost
+imposted
 imposter
 imposters
 imposthume
@@ -27155,6 +27168,7 @@ invalidism
 invalidisms
 invalidities
 invalidity
+invaluableness
 invariable
 invariants
 invasiveness
@@ -27937,6 +27951,7 @@ judoka
 jugate
 juggernauts
 juggler
+juggleries
 jugglers
 jugglery
 jugglings
@@ -28885,6 +28900,7 @@ landslides
 landsliding
 landslips
 landsman
+landsmen
 landward
 lang
 langbeinite
@@ -29710,6 +29726,7 @@ lingonberry
 linguinis
 linguist
 linguistical
+linguisticians
 linguists
 lingy
 linier
@@ -30127,6 +30144,7 @@ lophophores
 loping
 lopped
 loppering
+loppers
 loppier
 lopsided
 lopsidedness
@@ -31992,6 +32010,7 @@ microspore
 microstates
 microstructural
 microstructures
+microsurgeries
 microswitch
 microtechnique
 microtonality
@@ -32101,6 +32120,7 @@ miliary
 milieu
 milieux
 militance
+militants
 militaria
 militarily
 militarised
@@ -32143,6 +32163,7 @@ milliary
 millibar
 millibars
 millicuries
+millidegree
 millieme
 millier
 milligal
@@ -33254,6 +33275,7 @@ mortification
 mortified
 mortifiers
 mortifies
+mortifying
 mortiser
 mortisers
 mortises
@@ -33265,6 +33287,7 @@ mosaicist
 mosaicked
 mosaiclike
 moschate
+moschatels
 mosey
 moseyed
 moseying
@@ -36511,6 +36534,7 @@ outpoll
 outpolls
 outpopulate
 outpopulating
+outport
 outpost
 outposts
 outpourer
@@ -36543,6 +36567,7 @@ outrageously
 outrageousness
 outrages
 outraise
+outraising
 outran
 outrance
 outranged
@@ -36889,6 +36914,7 @@ overemphasizing
 overemphatic
 overencouraged
 overencourages
+overenergetic
 overenrolled
 overentertained
 overestimate
@@ -38909,6 +38935,7 @@ pewterers
 peyotes
 peytrel
 pfennige
+pfui
 phaeton
 phaetons
 phage
@@ -40228,6 +40255,7 @@ polyhistor
 polyimides
 polylysine
 polymathies
+polymaths
 polymathy
 polymer
 polymerases
@@ -42719,6 +42747,7 @@ quid
 quiescence
 quiescent
 quiet
+quietism
 quietistic
 quietudes
 quietuses
@@ -42998,6 +43027,7 @@ rakehelly
 rakes
 raki
 rakishness
+rakishnesses
 raku
 rakus
 rale
@@ -46237,6 +46267,7 @@ rugosities
 rugulose
 ruinable
 ruinate
+ruinated
 ruined
 ruiner
 ruining
@@ -51811,6 +51842,7 @@ subcordate
 subcoriaceous
 subcortex
 subcortexes
+subcortical
 subcostals
 subcounties
 subcrustal
@@ -57585,6 +57617,7 @@ untidy
 untidying
 untie
 untied
+until
 untillable
 untilled
 untimed
@@ -58094,6 +58127,7 @@ vaporize
 vaporizes
 vaporizing
 vaporous
+vapors
 vaporwares
 vapory
 vapoured
@@ -59440,6 +59474,7 @@ wentletrap
 weregilds
 werewolves
 wergelds
+wergelts
 wergild
 wert
 westbound
