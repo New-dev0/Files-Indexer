@@ -3795,6 +3795,7 @@ balbriggan
 balconies
 baldachin
 baldachinos
+baldaquin
 baldaquins
 balded
 baldhead
@@ -6052,6 +6053,7 @@ brachial
 brachiates
 brachiating
 brachiation
+brachiations
 brachiopods
 brachs
 brachycephalic
@@ -8661,6 +8663,7 @@ chinquapins
 chints
 chintzier
 chintziest
+chinwagging
 chionodoxas
 chipboards
 chipmuck
@@ -12239,6 +12242,7 @@ cumulation
 cumulations
 cumulative
 cumulonimbi
+cumulonimbuses
 cunctation
 cunctator
 cundum
@@ -14250,6 +14254,7 @@ dichotomies
 dichotomizes
 dichotomous
 dichotomously
+dichroic
 dichromat
 dichromic
 dichroscopes
@@ -14828,6 +14833,7 @@ disfrock
 disfurnish
 disfurnishes
 disfurnishments
+disgorged
 disgrace
 disgraced
 disgracefulness
@@ -18689,6 +18695,7 @@ factoidal
 factoids
 factorable
 factored
+factorials
 factories
 factorization
 factorship
@@ -23560,6 +23567,7 @@ harslet
 hart
 hartal
 hartals
+hartebeest
 hartebeests
 hartshorn
 hartshorns
@@ -24092,6 +24100,7 @@ heroin
 heroine
 heroins
 heroized
+heronries
 heros
 herpes
 herpesvirus
@@ -26236,6 +26245,7 @@ indentures
 indenturing
 independence
 indescribably
+indestructible
 indestructibly
 indeterminisms
 indeterministic
@@ -27826,6 +27836,7 @@ jauntinesses
 jaunty
 jaup
 jauped
+javas
 javascript
 javelin
 javelina
@@ -30827,6 +30838,7 @@ mainsprings
 maintaining
 maintenance
 maintops
+maiolica
 mairs
 maisonette
 maists
@@ -31483,6 +31495,7 @@ meagernesses
 meal
 mealiest
 mealiness
+mealinesses
 mealless
 mealybug
 mealybugs
@@ -33013,6 +33026,7 @@ modernnesses
 modester
 modesties
 modicums
+modifiabilities
 modifiability
 modification
 modifications
@@ -33411,6 +33425,7 @@ moribund
 morion
 morions
 morn
+morning
 morocco
 moronic
 moronically
@@ -33554,6 +33569,7 @@ moulter
 moundbird
 moundbirds
 mounded
+mount
 mountaineer
 mountaineerings
 mountainside
@@ -35669,6 +35685,7 @@ obscurity
 obsecrate
 obsecrated
 obsecrates
+observables
 observably
 observantly
 observants
@@ -36726,6 +36743,7 @@ outpatients
 outpitied
 outplace
 outplacement
+outplayed
 outpointing
 outpoints
 outpoliticks
@@ -36811,6 +36829,7 @@ outsavor
 outsavors
 outsaw
 outsay
+outsays
 outscheme
 outscolded
 outscolding
@@ -37564,6 +37583,7 @@ oysterer
 oysterers
 oystermen
 oysters
+ozalid
 ozocerite
 ozokerite
 ozonations
@@ -38124,6 +38144,7 @@ parenthesizes
 parenthesizing
 parenthoods
 parentings
+parergon
 pares
 paresis
 paresthesias
@@ -39448,6 +39469,7 @@ photosynthetic
 phototaxes
 phototaxies
 phototoxic
+phototubes
 phototypes
 photovoltaic
 phots
@@ -40197,6 +40219,7 @@ plugger
 plumb
 plumbable
 plumbagos
+plumbeous
 plumber
 plumbers
 plumbings
@@ -46006,6 +46029,7 @@ rightsizing
 righty
 rigidification
 rigidity
+rigmaroles
 rigor
 rigorism
 rigorisms
@@ -46890,6 +46914,7 @@ sambuca
 sambucas
 samburs
 samech
+samek
 samekh
 sameness
 samiels
@@ -48656,6 +48681,7 @@ shikseh
 shilingi
 shillalah
 shillelah
+shillelahs
 shim
 shimmer
 shimmered
@@ -50090,6 +50116,7 @@ sod
 sodaless
 sodalities
 sodamides
+sodas
 sodbusters
 soddened
 soddenness
@@ -50258,6 +50285,7 @@ songfests
 songfully
 songfulness
 songless
+songlike
 songsmith
 songwriters
 sonic
@@ -53832,6 +53860,7 @@ tawsing
 tax
 taxa
 taxably
+taxemic
 taxicab
 taxicabs
 taxidermic
@@ -53868,6 +53897,7 @@ teaming
 teammate
 teammates
 teams
+teamwork
 tearaways
 teardrop
 teardrops
@@ -55193,6 +55223,7 @@ torrefies
 torrefying
 torrentially
 torrid
+torridly
 torrifies
 torrify
 torrifying
@@ -55486,6 +55517,7 @@ transformation
 transfuse
 transfused
 transfusions
+transgendered
 transgress
 transgresses
 transgressions
@@ -57553,6 +57585,7 @@ unmediated
 unmelted
 unmemorably
 unmended
+unmerry
 unmeshed
 unmeshes
 unmew
@@ -58896,6 +58929,7 @@ vignettist
 vignettists
 vigorousness
 vigors
+vigour
 vigours
 vikings
 vilely
@@ -59131,6 +59165,7 @@ vocationalism
 vocationalists
 vocationally
 voces
+vociferate
 vociferates
 vociferator
 vociferous
