@@ -956,6 +956,7 @@ aiglets
 aigret
 aigrette
 ailanthus
+ailurophiles
 ailurophobe
 aimful
 aiming
@@ -4792,6 +4793,7 @@ betrayer
 betraying
 betrotheds
 betroths
+betted
 better
 bettering
 bettors
@@ -5539,6 +5541,7 @@ bluffing
 bluffs
 bluishness
 bluishnesses
+blume
 blumed
 blumes
 blunder
@@ -5956,6 +5959,7 @@ bounden
 bounderish
 bounders
 bounding
+boundlessness
 boundlessnesses
 bounds
 bounteousnesses
@@ -9370,7 +9374,9 @@ cloistral
 clomb
 clomiphene
 clomping
+clomps
 clone
+cloned
 clonicity
 clonism
 clonks
@@ -11328,6 +11334,8 @@ cotransductions
 cotransfers
 cotransporting
 cottager
+cottages
+cottagey
 cottered
 cottier
 cottiers
@@ -12499,6 +12507,7 @@ cyclopedia
 cyclopes
 cyclopropane
 cyclorama
+cycloramas
 cyclosporine
 cyclosporines
 cyclostyled
@@ -12646,6 +12655,7 @@ daintinesses
 dainty
 dairying
 dairyings
+daises
 daishikis
 daisied
 daisies
@@ -14440,6 +14450,7 @@ din
 dinar
 dinars
 dindled
+dindling
 dined
 dinero
 dineros
@@ -15227,6 +15238,7 @@ divulsing
 divulsive
 divvy
 diwan
+diwans
 dizening
 dizenment
 dizenments
@@ -18199,6 +18211,7 @@ excuses
 execrable
 execrate
 execrates
+execrating
 execrative
 execrator
 execs
@@ -18393,6 +18406,7 @@ expertize
 expertizes
 expertizing
 expertness
+expiate
 expiation
 expirations
 expiratory
@@ -20391,6 +20405,7 @@ forgoing
 forint
 forkball
 forked
+forkedly
 forker
 forkfuls
 forkless
@@ -20690,6 +20705,7 @@ frequentative
 frequently
 freres
 frescoed
+frescoing
 frescoist
 fresh
 freshening
@@ -25552,11 +25568,13 @@ imbiber
 imbibers
 imbodied
 imbolden
+imboldening
 imboldens
 imbosoms
 imbower
 imbowered
 imbowering
+imbowers
 imbricates
 imbrication
 imbrications
@@ -28040,6 +28058,7 @@ jowars
 jowl
 joyances
 joyful
+joyfulnesses
 joylessness
 joylessnesses
 joyous
@@ -29444,6 +29463,7 @@ legrooms
 legume
 legumes
 legumin
+leguminous
 legumins
 lehua
 lehuas
@@ -30855,6 +30875,7 @@ maldistribution
 maledict
 maledicting
 maledictory
+malefaction
 malefactors
 maleficences
 malemiut
@@ -30960,6 +30981,7 @@ mandamuses
 mandarinic
 mandating
 mandator
+mandatories
 mandibulate
 mandola
 mandolins
@@ -32019,6 +32041,7 @@ metric
 metrical
 metricate
 metricates
+metricized
 metricizes
 metrics
 metrists
@@ -32217,6 +32240,7 @@ midsections
 midship
 midshipman
 midshipmen
+midships
 midsized
 midsole
 midspace
@@ -37383,6 +37407,7 @@ overstocks
 overstrained
 overstrains
 overstresses
+overstressing
 overstretches
 overstrew
 overstrewed
@@ -38632,6 +38657,7 @@ penchants
 penciled
 penciler
 pencillers
+pencillings
 pencils
 pend
 pending
@@ -41700,6 +41726,7 @@ privatdozents
 privately
 privateness
 privatising
+privatisms
 privatizations
 privatize
 privatizing
@@ -44255,6 +44282,7 @@ refights
 refigure
 refiled
 refillable
+refilled
 refilling
 refinable
 refinancing
@@ -45454,6 +45482,7 @@ resurrect
 resurrecting
 resurrects
 resurveying
+resuscitates
 resuscitating
 resuscitations
 reswallowed
@@ -48671,6 +48700,7 @@ shires
 shirk
 shirked
 shirking
+shirks
 shirrings
 shirtdress
 shirtdresses
@@ -49687,6 +49717,7 @@ slurbs
 slurping
 slurrying
 slurs
+slush
 slushed
 slushes
 slushier
@@ -49770,6 +49801,7 @@ smokehouses
 smokejacks
 smokepot
 smokestacks
+smokier
 smokily
 smokinesses
 smoking
@@ -51988,6 +52020,7 @@ styli
 styliform
 stylises
 stylising
+stylists
 stylites
 stylitic
 stylitism
@@ -53490,6 +53523,7 @@ taffrails
 tafia
 tagboards
 taggant
+tagged
 tagliatelles
 taglines
 tagmemes
@@ -60409,6 +60443,7 @@ worldliness
 worldviews
 wormer
 wormers
+wormhole
 wormil
 worminesses
 wormish
