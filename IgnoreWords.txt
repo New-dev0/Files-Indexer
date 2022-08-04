@@ -1216,6 +1216,7 @@ alliterates
 alliterating
 alliteratively
 allobar
+allocatable
 allocates
 allocation
 allocators
@@ -1403,6 +1404,7 @@ ambiances
 ambidexterities
 ambidextrous
 ambidextrously
+ambiences
 ambient
 ambients
 ambiguities
@@ -3654,6 +3656,7 @@ backfit
 backfitting
 backflip
 backflows
+backgammon
 background
 backgrounders
 backgrounds
@@ -5749,6 +5752,7 @@ bongoes
 bongoist
 bongoists
 bonhomies
+boniface
 bonitas
 bonked
 bonkers
@@ -7151,6 +7155,7 @@ calpac
 calpacks
 calpacs
 calpain
+calpains
 calqued
 calthrops
 caltrap
@@ -8903,6 +8908,7 @@ chuckles
 chuckwalla
 chuddah
 chuddars
+chudders
 chufas
 chuff
 chuffs
@@ -10606,6 +10612,7 @@ conquerers
 conquerors
 conquian
 cons
+consanguinity
 conscience
 conscientious
 conscionable
@@ -14472,6 +14479,7 @@ dioxans
 dioxins
 dip
 dipeptidase
+dipeptides
 diphase
 diphasic
 diphenylamine
@@ -14633,6 +14641,7 @@ disbursals
 disburse
 disbursements
 disbursing
+discalced
 discardable
 discarder
 discarders
@@ -16002,6 +16011,7 @@ dunker
 dunkers
 dunlin
 dunlins
+dunnages
 dunner
 dunnite
 duns
@@ -17117,6 +17127,7 @@ engulfments
 enhaloes
 enhalos
 enhanced
+enhancement
 enhancements
 enhancer
 enhancers
@@ -18989,6 +19000,7 @@ feased
 feasted
 feasters
 featest
+featherbed
 featherbrain
 featherbrains
 featheredges
@@ -19228,6 +19240,7 @@ feuded
 feuds
 feuilleton
 feuilletonism
+feuilletonist
 fever
 feverish
 feverwort
@@ -19268,6 +19281,7 @@ fibulae
 fices
 fiches
 ficin
+ficins
 ficklenesses
 ficklest
 fickly
@@ -19292,6 +19306,7 @@ fideisms
 fideists
 fidelista
 fidelities
+fidget
 fidgeters
 fiduciaries
 fiduciary
@@ -22364,6 +22379,7 @@ gowaned
 gowds
 gown
 gowns
+goyish
 grabbing
 grabbled
 grabbler
@@ -28114,6 +28130,7 @@ jurisconsult
 jurisprudences
 juryman
 jurywoman
+jussive
 jussives
 juster
 justest
@@ -30258,6 +30275,7 @@ lopped
 loppering
 loppers
 loppier
+lops
 lopsided
 lopsidedness
 lopsidednesses
@@ -30290,6 +30308,7 @@ loti
 lotoses
 lotted
 lotteries
+lotting
 lotto
 lotus
 lotuslands
@@ -33388,6 +33407,7 @@ mortarboard
 mortarmen
 mortgage
 mortgagees
+mortgagers
 mortgagor
 mortice
 mortices
@@ -34383,6 +34403,7 @@ nerdier
 nerdiest
 nerdy
 nerol
+neroli
 nervelessnesses
 nervier
 nerviest
@@ -35097,6 +35118,7 @@ nonpayments
 nonperformance
 nonperformers
 nonperforming
+nonpersons
 nonphonetic
 nonphotographic
 nonphysician
@@ -36687,6 +36709,7 @@ outpromised
 outpulling
 outpunch
 outpupil
+outpursued
 outpushed
 output
 outputs
@@ -38295,6 +38318,7 @@ patienter
 patientest
 patients
 patinations
+patine
 patining
 patinized
 patins
@@ -39322,6 +39346,7 @@ photofinishings
 photoflashes
 photog
 photogeologic
+photogeological
 photogeologist
 photogrammetry
 photographer
@@ -39587,6 +39612,7 @@ pigfishes
 pigged
 piggery
 piggie
+piggish
 pigheadedly
 piglets
 pigmentary
@@ -41158,6 +41184,7 @@ prefocuses
 prefocussing
 preform
 preformat
+preformatted
 preformatting
 preforming
 preformulated
@@ -42165,6 +42192,7 @@ provisoes
 provisory
 provisos
 provitamin
+provocateur
 provocation
 provokes
 provost
@@ -43438,6 +43466,7 @@ razzberry
 razzmatazz
 re
 reabsorbing
+reacceded
 reaccelerated
 reaccent
 reaccenting
@@ -51601,6 +51630,7 @@ stopwatch
 storehouse
 storekeeper
 storekeepers
+storeroom
 storerooms
 storeship
 storeships
@@ -51889,6 +51919,7 @@ studs
 studying
 stuffinesses
 stuffing
+stuivers
 stulls
 stumbled
 stumbling
@@ -52100,6 +52131,7 @@ subjection
 subjectivise
 subjectivised
 subjectivism
+subjectivisms
 subjectivist
 subjectivists
 subjectivizes
@@ -52265,6 +52297,7 @@ subsocieties
 subsociety
 subsoiler
 subsolar
+subsonically
 subspace
 subspecialist
 subspecializes
@@ -54292,6 +54325,7 @@ thematics
 themed
 themes
 thenages
+thenars
 thence
 theobromines
 theocentric
@@ -57353,6 +57387,7 @@ universalizing
 universally
 universalness
 universities
+university
 univocals
 unjam
 unjamming
