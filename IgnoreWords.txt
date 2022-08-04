@@ -387,6 +387,7 @@ acrosomal
 acrosomes
 acrospires
 acrostical
+acrostically
 acrostics
 acrotisms
 acrylamide
@@ -2228,6 +2229,7 @@ antistories
 antistory
 antistrike
 antistudent
+antisubmarine
 antisubversive
 antisuicide
 antisyphilitics
@@ -2388,6 +2390,7 @@ apoplexies
 apoptoses
 apoptosis
 aporias
+aposiopesis
 aposiopetic
 apospories
 apospory
@@ -4129,6 +4132,7 @@ bassy
 bast
 bastardies
 bastardises
+bastardize
 bastardized
 bastardy
 baste
@@ -5355,6 +5359,7 @@ blasties
 blastiest
 blasting
 blastocoele
+blastocyst
 blastoderms
 blastodiscs
 blastomycoses
@@ -6828,6 +6833,7 @@ bustiest
 busting
 bustle
 bustled
+bustline
 busty
 busulfans
 busy
@@ -8049,8 +8055,10 @@ cellulitis
 celluloses
 cellulous
 celom
+celomata
 celosia
 celotex
+celotexes
 celts
 cembalo
 cement
@@ -9891,6 +9899,7 @@ coldheartedness
 coldnesses
 cole
 coleaders
+coleading
 colemanite
 coleoptera
 coleopterist
@@ -13693,6 +13702,7 @@ dentin
 dentinal
 dentins
 dentural
+denture
 denturists
 denuclearizes
 denudated
@@ -14182,6 +14192,7 @@ diabolos
 diachrony
 diaconate
 diaconates
+diacritic
 diadelphous
 diademed
 diademing
@@ -14597,6 +14608,7 @@ dipodic
 dipped
 dipper
 dipperfuls
+dippers
 dippier
 dippiest
 dippy
@@ -14616,6 +14628,7 @@ directer
 directionality
 directionless
 directives
+directivity
 directness
 director
 directorate
@@ -16770,6 +16783,7 @@ embargoing
 embark
 embarkations
 embarking
+embarkment
 embarrass
 embarrassable
 embarrassments
@@ -16944,6 +16958,7 @@ emulative
 emulators
 emulous
 emulsification
+emulsifying
 emunctories
 emyds
 enabled
@@ -17353,6 +17368,7 @@ entertains
 enthral
 enthralled
 enthralling
+enthralls
 enthronement
 enthronements
 enthrones
@@ -17803,6 +17819,7 @@ escape
 escaped
 escapee
 escapees
+escaper
 escapers
 escapes
 escapism
@@ -17886,6 +17903,8 @@ estivators
 estops
 estovers
 estradiols
+estragon
+estral
 estranged
 estranger
 estrangers
@@ -20534,6 +20553,7 @@ formyls
 fornent
 fornicate
 fornicates
+fornicating
 fornix
 forrit
 forsaken
@@ -22496,6 +22516,7 @@ goyish
 grabbing
 grabbled
 grabbler
+grabblers
 grabbles
 grabby
 graceful
@@ -22739,6 +22760,7 @@ greensand
 greenshanks
 greensick
 greensickness
+greenskeeper
 greenstuff
 greenstuffs
 greensward
@@ -23124,6 +23146,7 @@ gunnings
 gunny
 gunnybag
 gunnysack
+gunpapers
 gunplays
 gunpowder
 gunroom
@@ -23213,6 +23236,7 @@ gypsophilas
 gypsydom
 gypsydoms
 gypsyism
+gyrate
 gyrating
 gyres
 gyrocompasses
@@ -23239,6 +23263,7 @@ habitably
 habitan
 habitant
 habitants
+habitual
 habitualness
 habitualnesses
 habituate
@@ -23294,6 +23319,7 @@ hafted
 hag
 hagadic
 hagadist
+hagadists
 hagberries
 hagbushes
 hagbuts
@@ -24482,6 +24508,7 @@ hoblike
 hobnail
 hobnobbed
 hobnobber
+hobnobbers
 hoboing
 hoboism
 hobs
@@ -25358,6 +25385,7 @@ hypertonicities
 hypertonicity
 hypertrophy
 hypertypical
+hyperurbanism
 hyperuricemia
 hypervelocity
 hyperventilate
@@ -27211,6 +27239,7 @@ interphase
 interphases
 interplants
 interpleaded
+interpleading
 interpolating
 interpolator
 interpose
@@ -27398,6 +27427,7 @@ intumesces
 inturn
 intussuscepting
 intwined
+intwisted
 inulase
 inulases
 inulin
@@ -27540,6 +27570,7 @@ ionicity
 ioniums
 ionogenic
 ionomers
+ionone
 ionones
 ionospheric
 ionospherically
@@ -30072,6 +30103,7 @@ liquefier
 liquefiers
 liquefying
 liquid
+liquidambars
 liquidates
 liquidation
 liquidator
@@ -34496,6 +34528,7 @@ negritude
 negs
 neif
 neifs
+neigh
 neighboring
 neighborly
 neighbour
@@ -34811,6 +34844,7 @@ nils
 nim
 nimbi
 nimble
+nimblenesses
 nimbler
 nimbostrati
 nimbostratus
@@ -34998,6 +35032,7 @@ nonbrand
 nonbreakable
 nonbreathing
 nonbreeding
+noncallable
 noncaloric
 noncampus
 noncancerous
@@ -35051,6 +35086,7 @@ nonconcurrences
 nonconcurs
 noncondensable
 nonconditioned
+nonconductive
 nonconfidence
 nonconfidential
 nonconform
@@ -36382,6 +36418,7 @@ ordnance
 ordnances
 ordo
 ordonnances
+ordos
 orectic
 oreide
 oreodonts
@@ -36739,6 +36776,7 @@ outdueling
 outearned
 outeat
 outecho
+outermost
 outerwear
 outfabling
 outface
@@ -36935,6 +36973,7 @@ outrider
 outrig
 outrigged
 outrigger
+outriggers
 outrigs
 outring
 outrivalling
@@ -38349,6 +38388,7 @@ part
 partaker
 partakers
 partakes
+partan
 partans
 parterre
 parthenocarpic
@@ -38415,6 +38455,7 @@ passage
 passages
 passagework
 passageworks
+passaging
 passalong
 passband
 passbook
@@ -38824,6 +38865,7 @@ penetrability
 penetrable
 penetralia
 penetrances
+penetrate
 penetrated
 penetrates
 penetrating
@@ -38904,6 +38946,7 @@ penumbra
 penurious
 penuriousnesses
 peones
+people
 peopleless
 peoples
 pep
@@ -39618,6 +39661,7 @@ phreaker
 phreakers
 phreatic
 phreatophytic
+phrenitis
 phrenologies
 phrenology
 phthalate
@@ -40174,6 +40218,7 @@ plantings
 plantlike
 plantocracy
 plantsmen
+planuloid
 plashers
 plashiest
 plasma
@@ -41034,6 +41079,7 @@ potholders
 pothooks
 pothouse
 pothunter
+potiches
 potlache
 potpies
 pots
@@ -41760,6 +41806,7 @@ previewer
 previews
 previous
 prevised
+previsional
 previsioning
 prevuing
 prewar
@@ -43004,6 +43051,7 @@ quadrupeds
 quadruplicities
 quadruplicity
 quadrupling
+quadrupoles
 quads
 quaere
 quaestor
@@ -47219,6 +47267,7 @@ sarabands
 sarans
 sarape
 sarcastically
+sarcenets
 sarcinae
 sarcinas
 sarcocarps
@@ -48867,6 +48916,7 @@ shinleaves
 shinney
 shinnied
 shinning
+shinplasters
 shins
 shinsplints
 shipboard
@@ -49034,6 +49084,7 @@ showier
 showily
 showiness
 showplace
+showring
 showroom
 showstopper
 showstoppers
@@ -50744,6 +50795,7 @@ spearfished
 spearheading
 spearmen
 spearmints
+spearwort
 spec
 specialest
 specialisation
@@ -50856,6 +50908,7 @@ sphenoidal
 sphere
 sphered
 spherical
+spherically
 spheroidally
 spherulites
 sphincter
@@ -51388,6 +51441,7 @@ stalky
 stallion
 stalwartnesses
 stalworths
+stamened
 stamens
 stamina
 staminal
@@ -52969,6 +53023,7 @@ superelite
 supereminences
 supereminent
 supererogations
+supererogatory
 superette
 superexpensive
 superexpresses
@@ -53854,6 +53909,7 @@ tamest
 taming
 tamis
 tammie
+tammy
 tampalas
 tamper
 tampered
@@ -55442,6 +55498,7 @@ torulas
 tosses
 tossing
 tossup
+tossups
 tost
 tostado
 tot
@@ -56838,6 +56895,7 @@ ululant
 ululations
 ulvas
 umami
+umbel
 umbellets
 umbellifer
 umbellifers
@@ -57104,6 +57162,7 @@ unclips
 uncloak
 uncloaking
 unclog
+unclogging
 unclogs
 unclosed
 unclosing
@@ -57294,6 +57353,7 @@ underheating
 underinflated
 underinflations
 underinvestment
+underkills
 underlaid
 underlap
 underlapped
@@ -60511,6 +60571,7 @@ withouts
 withstood
 witless
 witlessly
+witlings
 witnesser
 witnessers
 witnesses
