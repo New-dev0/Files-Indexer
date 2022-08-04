@@ -1575,6 +1575,7 @@ ampoules
 amps
 ampulla
 ampullae
+ampullary
 ampuls
 amputates
 amputating
@@ -1612,6 +1613,7 @@ amyls
 amylums
 anabaena
 anabaenas
+anabasis
 anabatic
 anachronism
 anachronistic
@@ -2262,6 +2264,7 @@ anuran
 anuretic
 anuses
 anviled
+anvils
 anviltop
 anviltops
 anxious
@@ -2721,6 +2724,7 @@ armamentaria
 armamentarium
 armature
 armatured
+armbands
 armed
 armhole
 armiger
@@ -3032,6 +3036,7 @@ assoilment
 assoils
 assonantal
 assort
+assortative
 assortatively
 assorted
 assorter
@@ -3593,6 +3598,7 @@ azotemias
 azotes
 azotised
 azotises
+azotize
 azoturia
 azulejos
 azure
@@ -10551,6 +10557,7 @@ conglomeration
 conglomerations
 conglomerative
 conglomerator
+conglutinate
 conglutinating
 conglutination
 congo
@@ -10807,6 +10814,7 @@ contestants
 contester
 contextless
 contexts
+contextual
 contextualize
 contexture
 contextures
@@ -12018,6 +12026,7 @@ crowded
 crowdedly
 crowder
 crowders
+crowds
 crowdy
 crower
 crowers
@@ -13445,6 +13454,7 @@ delegations
 delegators
 deleing
 deles
+deleterious
 deletion
 deletions
 delf
@@ -13496,6 +13506,7 @@ delphiniums
 deltic
 deltoidei
 deltoideus
+deludes
 deluging
 delusional
 delusory
@@ -15025,6 +15036,7 @@ dispossessed
 dispossession
 dispossessors
 disposure
+dispraised
 dispraiser
 disprizes
 disproof
@@ -15371,6 +15383,7 @@ dogtrots
 dogtrotting
 dogvanes
 dogwatches
+doiled
 doing
 doings
 doit
@@ -18695,6 +18708,7 @@ fabulating
 fabulously
 faceable
 facecloths
+facelessnesses
 faceplate
 facer
 facers
@@ -18843,6 +18857,7 @@ familiarization
 familiarize
 familiarized
 familiarnesses
+familism
 familisms
 familistic
 faming
@@ -20685,6 +20700,7 @@ freckles
 frecklier
 freckliest
 free
+freebaser
 freebases
 freebee
 freebees
@@ -21010,6 +21026,7 @@ fundraising
 funeral
 funerary
 funereally
+funest
 funfairs
 funfest
 fungal
@@ -21163,6 +21180,7 @@ gaillardias
 gainable
 gainer
 gainfully
+gainfulness
 gainfulnesses
 gaingiving
 gainliest
@@ -27567,6 +27585,7 @@ irreligious
 irremeable
 irremediable
 irremediably
+irremovably
 irrepealable
 irreplaceable
 irrepressible
@@ -34407,6 +34426,7 @@ needlelike
 needless
 needlessly
 needlessnesses
+needlework
 needleworker
 needling
 needy
@@ -34876,6 +34896,7 @@ nomism
 nomistic
 nomogram
 nomographic
+noms
 nonabrasive
 nonabsorbent
 nonabsorptive
@@ -35659,6 +35680,7 @@ oars
 oasthouses
 oatcake
 oaves
+obconic
 obdurately
 obdurateness
 obe
@@ -38275,6 +38297,7 @@ parsimonious
 parsley
 parsleyed
 parsleys
+parslied
 parsnips
 parsonages
 parsonic
@@ -42942,6 +42965,7 @@ quagga
 quaggy
 quagmire
 quagmiriest
+quags
 quahogs
 quai
 quaiches
@@ -45585,6 +45609,7 @@ resurrects
 resurveying
 resuscitates
 resuscitating
+resuscitation
 resuscitations
 reswallowed
 resynthesizes
@@ -45719,6 +45744,7 @@ retroact
 retroacted
 retroaction
 retroactions
+retroceded
 retrocession
 retrocessions
 retrofit
@@ -47009,6 +47035,7 @@ samp
 sampan
 sampled
 sampling
+samplings
 samsara
 samsaras
 samshu
@@ -47490,6 +47517,7 @@ schizziest
 schlemiels
 schlemihl
 schlemihls
+schlepped
 schlocks
 schlocky
 schlub
@@ -50518,6 +50546,7 @@ sournesses
 sourwoods
 southbound
 southeaster
+southern
 southernnesses
 southernwood
 southings
@@ -51193,6 +51222,7 @@ squillae
 squinnied
 squinnier
 squinny
+squinter
 squinters
 squintest
 squinting
@@ -54344,6 +54374,7 @@ terpsichorean
 terra
 terraces
 terrae
+terraform
 terraforming
 terrains
 terrapin
@@ -54659,6 +54690,7 @@ thirls
 thirst
 thirster
 thirsters
+thirsty
 thirteenths
 thirties
 thirtieths
@@ -57209,6 +57241,7 @@ underlit
 underloading
 underlyingly
 undermining
+underneath
 undernourished
 undernutrition
 underpainting
@@ -59843,6 +59876,7 @@ webwork
 webworm
 webworms
 wedder
+wedders
 wedeled
 wedeling
 wedelns
@@ -60004,6 +60038,7 @@ whether
 whetstones
 whetter
 whey
+wheyey
 wheyfaced
 wheylike
 wheys
