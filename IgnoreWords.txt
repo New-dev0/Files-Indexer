@@ -2348,6 +2348,7 @@ aplombs
 apneas
 apnoea
 apnoeal
+apoapsis
 apocalyptic
 apocalyptical
 apocalyptically
@@ -6959,6 +6960,7 @@ cabers
 cabestros
 cabezone
 cabezones
+cabinetry
 cabining
 cabinmate
 cabins
@@ -7918,6 +7920,7 @@ catoptric
 cats
 catsuit
 catsup
+cattails
 cattalo
 cattaloes
 cattie
@@ -9151,6 +9154,7 @@ clachan
 clachans
 clacking
 clad
+claddagh
 clades
 cladisms
 cladistic
@@ -9493,6 +9497,7 @@ clutter
 cluttering
 cluttery
 clypeate
+clysters
 cnidae
 cnidarian
 cnidarians
@@ -10961,6 +10966,7 @@ convolvuluses
 convoys
 convulsant
 convulsants
+convulse
 convulsionary
 convulsively
 cooch
@@ -12530,6 +12536,7 @@ cyclogenesis
 cycloid
 cycloids
 cyclonically
+cyclonite
 cycloolefin
 cyclopaedias
 cycloparaffin
@@ -16960,6 +16967,7 @@ encash
 encashment
 encashments
 encasing
+encaustics
 encephalitides
 encephalitogens
 encephalograms
@@ -17580,6 +17588,7 @@ epistemological
 epistemology
 episternum
 epistle
+epistles
 epistolary
 epistolers
 epistyles
@@ -18966,6 +18975,7 @@ farsightedly
 fart
 farther
 farthing
+farthingale
 farting
 fartleks
 fas
@@ -19114,6 +19124,7 @@ fedexed
 fedexing
 fedora
 feds
+feedbag
 feedboxes
 feedgrain
 feedgrains
@@ -20162,6 +20173,7 @@ foggiest
 fogginesses
 foghorns
 fogie
+fogless
 fogy
 fogyish
 foibles
@@ -22942,6 +22954,7 @@ grummet
 grummets
 grumose
 grumphies
+grumphy
 grumpily
 grumpiness
 grumping
@@ -23138,6 +23151,7 @@ guttations
 gutter
 guttered
 guttersnipes
+guttiest
 gutting
 guttler
 guttlers
@@ -23294,6 +23308,7 @@ haik
 haiku
 hail
 hails
+hailstone
 hailstorm
 haimish
 haint
@@ -24662,6 +24677,7 @@ homozygotes
 homozygous
 homozygously
 homunculi
+hon
 honcho
 honda
 hondle
@@ -28094,6 +28110,7 @@ jojoba
 jojobas
 joked
 jokes
+jokester
 jokiest
 joking
 jokingly
@@ -29495,6 +29512,7 @@ leg
 legal
 legaleses
 legalism
+legalist
 legalistically
 legalists
 legalizations
@@ -31214,6 +31232,7 @@ marasmuses
 marathoner
 marathonings
 marathons
+maraud
 marauding
 marauds
 maravedis
@@ -32587,6 +32606,7 @@ mirandize
 mirepoix
 mirex
 miri
+mirier
 mirin
 mirins
 mirker
@@ -33860,6 +33880,7 @@ multiplicands
 multiplication
 multiplications
 multiplicity
+multipliers
 multiplies
 multiproblem
 multiprocessors
@@ -35980,6 +36001,7 @@ ogee
 ogees
 oghamic
 ogives
+ogle
 ogled
 ogles
 ogre
@@ -37486,6 +37508,7 @@ overskirt
 oversleeping
 overslipped
 overslipping
+oversoak
 oversoaked
 oversouls
 overspecializes
@@ -40833,6 +40856,7 @@ possessedness
 possessednesses
 possessive
 possessively
+possessor
 possessors
 possets
 possibilities
@@ -41258,6 +41282,7 @@ predecessor
 prededuct
 prededucted
 prededucting
+prededucts
 predefining
 predella
 predesignate
@@ -45014,6 +45039,7 @@ renown
 rentabilities
 rentable
 rente
+renter
 rentes
 rentiers
 renumber
@@ -45239,6 +45265,7 @@ republisher
 republishes
 repudiate
 repudiations
+repugnancy
 repugnantly
 repugning
 repugns
@@ -49368,6 +49395,7 @@ siphonostele
 sippers
 sippets
 sips
+sirdar
 sirdars
 sirens
 siring
@@ -52710,6 +52738,7 @@ suitors
 sukiyakis
 sukkah
 sulcal
+suldan
 sulfadiazine
 sulfas
 sulfatases
@@ -53473,6 +53502,7 @@ symposiarchs
 symptom
 symptomatically
 symptomatologic
+symptomless
 symptoms
 syn
 synaestheses
@@ -55386,6 +55416,7 @@ tostado
 tot
 totable
 total
+totalisator
 totalisators
 totalised
 totalism
@@ -56106,6 +56137,7 @@ trivial
 trivialised
 trivialist
 trivialists
+trivialization
 trivialize
 troak
 trocar
@@ -56719,6 +56751,7 @@ ultimatenesses
 ultimates
 ultimogeniture
 ultimogenitures
+ultracautious
 ultraclean
 ultracompetent
 ultraconvenient
@@ -58240,6 +58273,7 @@ uphoards
 uphold
 upholders
 upholster
+upholsters
 uphove
 uphroe
 uplanders
@@ -60981,6 +61015,7 @@ younker
 youpon
 yous
 youthen
+youthful
 youthfulness
 youthquake
 yowed
