@@ -474,6 +474,7 @@ adding
 additionally
 addle
 addles
+addling
 addressable
 addressed
 addresses
@@ -4153,6 +4154,7 @@ batt
 battalia
 batteau
 batteaux
+battement
 batten
 battener
 batter
@@ -8828,6 +8830,7 @@ chromatograms
 chromatograph
 chromatographer
 chromatography
+chromatophore
 chromiest
 chrominance
 chrominances
@@ -9513,6 +9516,7 @@ cobwebbiest
 cobwebbing
 cocain
 cocainization
+cocainized
 cocaptaining
 cocaptains
 cocarboxylase
@@ -10987,6 +10991,7 @@ coproducts
 coprophagy
 coprophiliac
 coprophilous
+coprosperity
 copse
 copublish
 copublished
@@ -11203,6 +11208,7 @@ corticotrophin
 corticotrophins
 cortisone
 corulers
+corundum
 corundums
 coruscant
 coruscated
@@ -11533,6 +11539,7 @@ cozy
 cozying
 cozzes
 craaling
+craals
 crabapple
 crabbed
 crabbedly
@@ -13591,6 +13598,7 @@ deodaras
 deodorants
 deodorization
 deontological
+deontology
 deorbiting
 deoxidation
 deoxidizers
@@ -14714,6 +14722,7 @@ disembarrasses
 disembarrassing
 disembodies
 disembodying
+disembogues
 disembowelments
 disemploy
 disemploying
@@ -15816,6 +15825,7 @@ druggist
 druggy
 drugmaker
 drugmakers
+druid
 drumbeaters
 drumbeating
 drumbeatings
@@ -16395,6 +16405,7 @@ eggshells
 eggy
 egis
 eglantines
+eglateres
 ego
 egocentrically
 egocentricity
@@ -17898,6 +17909,7 @@ euphorbia
 euphoria
 euphoriants
 euphrasy
+euphuism
 euphuistically
 euploidy
 eurhythmics
@@ -18172,6 +18184,7 @@ exfoliated
 exfoliates
 exfoliating
 exhalant
+exhalation
 exhalations
 exhaled
 exhalents
@@ -24024,6 +24037,7 @@ heterogeneity
 heterogeneous
 heterogenies
 heterogeny
+heterogonic
 heterogony
 heterokaryons
 heterokaryoses
@@ -27779,6 +27793,7 @@ jetsoms
 jettied
 jettinesses
 jetting
+jettison
 jetty
 jettying
 jetway
@@ -28194,6 +28209,7 @@ keeper
 keepings
 keeps
 keepsake
+keepsakes
 keets
 keffiyahs
 kefir
@@ -28423,6 +28439,7 @@ kinetins
 kinfolk
 kingbirds
 kingbolts
+kingfish
 kingfisher
 kingfishes
 kinghoods
@@ -29436,6 +29453,7 @@ leukocytic
 leukocytosis
 leukoma
 leukomas
+leukons
 leukopenias
 leukoplakia
 leukoplakias
@@ -35400,6 +35418,7 @@ nympholepsies
 nymphomaniacal
 nymphomanias
 nystagmic
+nystagmus
 nystagmuses
 oafish
 oak
@@ -35412,6 +35431,7 @@ oatcake
 oaves
 obdurately
 obdurateness
+obe
 obeah
 obeahism
 obeahisms
@@ -35966,6 +35986,7 @@ oppositely
 oppositeness
 oppositions
 oppress
+oppressing
 opprobrious
 opprobriums
 oppugn
@@ -36999,6 +37020,7 @@ overgrowths
 overhanded
 overhandling
 overhard
+overharvest
 overhate
 overhating
 overheads
@@ -38025,6 +38047,7 @@ participations
 participator
 participatory
 participially
+particular
 particularise
 particularised
 particularities
@@ -40369,6 +40392,7 @@ pondweed
 pondweeds
 pone
 ponged
+pongid
 poniard
 poniarding
 poniards
@@ -41051,6 +41075,7 @@ preguides
 prehandle
 prehandling
 prehardens
+preharvest
 preheat
 preheaters
 prehensilities
@@ -42481,6 +42506,7 @@ pyaemias
 pyaemic
 pyas
 pycnometer
+pycnometers
 pycnoses
 pycnosis
 pycnotic
@@ -52407,6 +52433,7 @@ sunback
 sunbath
 sunbaths
 sunbird
+sunbirds
 sunblock
 sunbonnets
 sunburned
@@ -53117,6 +53144,7 @@ syncytial
 syndactyl
 syndactylism
 syndactyly
+syndesmoses
 syndesmosis
 syndetic
 syndic
@@ -54503,6 +54531,7 @@ tidily
 tidiness
 tidy
 tidytips
+tieback
 tiebacks
 tiebreaks
 tieless
@@ -55687,6 +55716,7 @@ trivialist
 trivialists
 trivialize
 troak
+trocar
 trochanter
 trochanteral
 trochanters
@@ -57085,6 +57115,7 @@ unharnessed
 unharnesses
 unhatched
 unhealthiest
+unhealthiness
 unhealthinesses
 unhelms
 unhelped
@@ -58746,6 +58777,7 @@ viscoelastic
 viscoelasticity
 viscometers
 viscometries
+viscometry
 viscosimeter
 viscosimeters
 viscosimetric
@@ -58849,6 +58881,7 @@ vocalised
 vocalist
 vocalization
 vocalizers
+vocally
 vocalnesses
 vocals
 vocation
@@ -59057,6 +59090,7 @@ wagged
 waggery
 wagging
 waggishnesses
+waggles
 waggon
 waging
 wagonages
@@ -59896,6 +59930,7 @@ wingless
 wingman
 wingmen
 wingspan
+wingtips
 wining
 winked
 winking
