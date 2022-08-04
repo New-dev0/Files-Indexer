@@ -1320,6 +1320,7 @@ alterabilities
 alterability
 alterants
 altercated
+altercation
 alterities
 alterity
 alternants
@@ -1910,6 +1911,7 @@ anomalously
 anomalousness
 anomalousnesses
 anomaly
+anonymously
 anonymousnesses
 anonyms
 anoopsia
@@ -2095,6 +2097,7 @@ antilife
 antiliterate
 antilittering
 antilogarithms
+antilogs
 antilynching
 antimacassars
 antiman
@@ -2480,6 +2483,7 @@ apprehensions
 apprehensive
 apprentice
 apprenticed
+apprenticeships
 appressoria
 appressorium
 apprise
@@ -3256,6 +3260,7 @@ audaciousness
 audacity
 audad
 audads
+audial
 audibility
 audible
 audibly
@@ -3488,6 +3493,7 @@ avulsion
 avulsions
 awaited
 awaiter
+awaiting
 awaits
 awaken
 awakeners
@@ -11639,6 +11645,7 @@ crayonist
 crayons
 craze
 crazier
+craziness
 crazinesses
 crazing
 creaked
@@ -12106,6 +12113,7 @@ culinary
 cull
 cullay
 cullenders
+culler
 cullers
 cullets
 cullied
@@ -22966,6 +22974,7 @@ gynarchies
 gynecocratic
 gynecoid
 gynecological
+gynecologies
 gynecomastia
 gyniatries
 gynogeneses
@@ -23019,6 +23028,7 @@ hacek
 haciendado
 hack
 hackable
+hackamore
 hackberries
 hacked
 hacker
@@ -23352,6 +23362,7 @@ hardihoods
 hardily
 hardiness
 hardinesses
+hardinggrass
 hardly
 hardmouthed
 hardnose
@@ -23581,6 +23592,7 @@ headliners
 headlock
 headman
 headmasters
+headmasterships
 headmistress
 headmistresses
 headmost
@@ -25000,6 +25012,7 @@ hygroscopicity
 hylozoic
 hylozoism
 hylozoisms
+hylozoistic
 hymen
 hymeneally
 hymenia
@@ -26087,6 +26100,7 @@ indicatives
 indicators
 indicia
 indictable
+indicting
 indicts
 indifferent
 indifferently
@@ -27774,6 +27788,7 @@ jihad
 jillions
 jimmies
 jimminy
+jimmying
 jimper
 jimpest
 jimsonweed
@@ -28663,6 +28678,7 @@ labiovelars
 laboratories
 laborious
 laboriously
+laboriousness
 labour
 labourers
 labouring
@@ -31162,6 +31178,7 @@ mathematize
 mathematized
 mathematizes
 matilda
+matildas
 matriarchates
 matriarchs
 matrices
@@ -31347,6 +31364,7 @@ medicable
 medicaid
 medicaids
 medicaments
+medicare
 medicate
 medicates
 medication
@@ -33593,6 +33611,7 @@ munches
 munchies
 mundane
 mundanity
+mundungo
 mundungos
 mundungus
 mundunguses
@@ -34161,6 +34180,7 @@ nemertine
 nemertines
 neoclassicisms
 neoclassicists
+neocolonialism
 neocolonialist
 neocons
 neoconservatism
@@ -36322,6 +36342,7 @@ outcrop
 outcrosses
 outcrowd
 outcry
+outdances
 outdancing
 outdare
 outdaring
@@ -36347,6 +36368,7 @@ outdreaming
 outdressed
 outdrink
 outdriving
+outdropping
 outdueling
 outearned
 outeat
@@ -38308,6 +38330,7 @@ pedimental
 pedimented
 pediments
 pedlar
+pedlary
 pedocals
 pedogenic
 pedological
@@ -39584,6 +39607,7 @@ piratically
 pirayas
 piroghi
 pirojki
+piroplasm
 piroplasma
 piroplasmata
 piroques
@@ -40686,6 +40710,7 @@ praisers
 praiseworthily
 praiseworthy
 praising
+prajnas
 pralines
 pram
 prams
@@ -42101,6 +42126,7 @@ ptosis
 ptyalin
 pubertal
 puberulent
+pubescence
 pubescent
 pubis
 public
@@ -43326,6 +43352,7 @@ reappropriating
 reapproved
 reaps
 rearers
+rearm
 rearmament
 rearmaments
 rearmice
@@ -46967,6 +46994,7 @@ scandalled
 scandalmonger
 scandalous
 scandalousness
+scandias
 scandium
 scanner
 scansion
@@ -48763,6 +48791,7 @@ signori
 signorine
 signory
 signposted
+signposts
 silage
 silane
 sild
@@ -49769,6 +49798,7 @@ sociometry
 socioreligious
 socket
 socketed
+sockeyes
 sod
 sodaless
 sodalities
@@ -50792,6 +50822,7 @@ stabilising
 stabilities
 stabilization
 stabilized
+stabilizer
 stabilizing
 stablemates
 stablenesses
@@ -51352,6 +51383,7 @@ stooker
 stoolie
 stoolies
 stoopballs
+stopcock
 stoped
 stoper
 stopoff
@@ -53250,6 +53282,7 @@ talky
 tall
 tallaisim
 tallied
+tallier
 tallithes
 tallithim
 talliths
@@ -55376,6 +55409,7 @@ tribadisms
 tribal
 tribalism
 tribalists
+tribals
 tribes
 triboelectric
 tribologists
@@ -57710,6 +57744,7 @@ uplighted
 uplighting
 uplinking
 uplinks
+uploaded
 uploads
 upmanships
 upped
