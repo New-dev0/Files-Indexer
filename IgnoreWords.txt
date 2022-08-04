@@ -2993,6 +2993,7 @@ assignability
 assignat
 assignee
 assigning
+assignments
 assignors
 assimilability
 assimilationism
@@ -3308,6 +3309,7 @@ aulder
 auntlier
 aunts
 aura
+aural
 auralities
 aurar
 aurated
@@ -4467,6 +4469,7 @@ begot
 begotten
 begrime
 begrimmed
+begroaning
 begrudge
 begs
 beguiler
@@ -4734,6 +4737,7 @@ besom
 besoothing
 besot
 besotted
+bespangle
 bespangles
 bespangling
 bespattering
@@ -6401,6 +6405,7 @@ brotherhoods
 brotherliness
 brothers
 broths
+broughams
 brouhaha
 brouhahas
 brow
@@ -7604,6 +7609,7 @@ carotenoid
 carotidal
 carotins
 carousal
+carousals
 carousel
 carpalia
 carpentering
@@ -9025,6 +9031,7 @@ circumventing
 circumvention
 circumventions
 circumvents
+circumvolution
 circuses
 cires
 cirque
@@ -11703,6 +11710,7 @@ creed
 creedal
 creek
 creeks
+creels
 creepage
 creepages
 creeped
@@ -13798,6 +13806,7 @@ desensitizing
 deserter
 deserters
 desertic
+desertifies
 deserts
 deservedly
 deserving
@@ -14721,6 +14730,7 @@ disembarrassed
 disembarrasses
 disembarrassing
 disembodies
+disembody
 disembodying
 disembogues
 disembowelments
@@ -19411,6 +19421,7 @@ finning
 finocchio
 finocchios
 finochios
+fioratura
 fioraturae
 fipple
 fir
@@ -19462,6 +19473,7 @@ firethorn
 firetraps
 firewoods
 firing
+firings
 firkins
 firm
 firmaments
@@ -20470,6 +20482,7 @@ foxiest
 foxinesses
 foxings
 foxtail
+foxtails
 foxtrotted
 foxtrotting
 foziest
@@ -22042,6 +22055,7 @@ glycans
 glyceraldehydes
 glyceric
 glyceridic
+glycerinate
 glycerol
 glycerols
 glyceryl
@@ -24195,6 +24209,7 @@ hinkier
 hinky
 hinny
 hins
+hint
 hinter
 hinterland
 hinterlands
@@ -25669,6 +25684,7 @@ impersonalize
 impersonalized
 impersonates
 impersonating
+impersonations
 impersonator
 impersonators
 impertinence
@@ -25972,6 +25988,7 @@ inclips
 inclosing
 inclosure
 including
+inclusion
 inclusivenesses
 incoercible
 incognita
@@ -27010,6 +27027,7 @@ interrex
 interring
 interrobang
 interrogated
+interrogatee
 interrogatees
 interrogating
 interrogator
@@ -28074,6 +28092,7 @@ kabbalah
 kabbalisms
 kabbalist
 kabeljou
+kabeljous
 kabikis
 kabobs
 kabukis
@@ -29950,6 +29969,7 @@ lixiviated
 lixiviations
 llama
 loach
+loaches
 loaded
 loading
 loadings
@@ -30654,6 +30674,7 @@ magnetospheric
 magnificat
 magnificently
 magnifier
+magniloquence
 magniloquent
 magot
 magpie
@@ -30921,6 +30942,7 @@ manitus
 manless
 manlike
 manly
+manmade
 manna
 manned
 mannequins
@@ -32017,6 +32039,7 @@ microns
 micronucleus
 microphages
 microphotometer
+microphotometry
 micropipet
 micropipets
 microplankton
@@ -33344,6 +33367,7 @@ motherhouse
 mothering
 motherland
 motherlands
+motherly
 mothery
 mothlike
 mothproof
@@ -34676,6 +34700,7 @@ nonambiguous
 nonanimal
 nonantibiotic
 nonarable
+nonargument
 nonarguments
 nonaromatic
 nonartists
@@ -37123,6 +37148,7 @@ overpacked
 overpass
 overpay
 overpedal
+overpedalling
 overpeoples
 overpersuade
 overplanned
@@ -38225,6 +38251,7 @@ patronesses
 patronise
 patronised
 patronization
+patronized
 patronizing
 patronly
 pattamar
@@ -41467,6 +41494,7 @@ prigging
 prigs
 prill
 prilling
+prills
 prim
 primage
 primages
@@ -42714,6 +42742,7 @@ quarterbacking
 quarterbacks
 quarterdecks
 quartered
+quarterers
 quartering
 quarterlies
 quarterly
@@ -46292,6 +46321,7 @@ rudiment
 rudimentariness
 rudiments
 ruefully
+ruefulness
 rues
 ruffed
 ruffes
@@ -49538,6 +49568,7 @@ smallmouth
 smallnesses
 smallswords
 smalts
+smaragdes
 smaragdite
 smaragdites
 smarm
@@ -55308,6 +55339,7 @@ transonic
 transparence
 transparent
 transparentized
+transparentizes
 transpersonal
 transpierce
 transpirational
@@ -57126,6 +57158,7 @@ unhewn
 unhinged
 unhirable
 unhood
+unhoods
 unhook
 unhooked
 unhoped
@@ -57161,6 +57194,7 @@ unimaginative
 unimportant
 unimpressive
 unindexed
+uningratiating
 uninhibitedly
 uninitiate
 uninjured
@@ -60466,6 +60500,7 @@ yearend
 yearn
 yeasayer
 yeasayers
+yeasty
 yecch
 yecchs
 yeelins
