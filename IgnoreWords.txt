@@ -1858,6 +1858,7 @@ animuses
 anion
 anions
 anis
+aniseed
 aniseeds
 anisette
 anisettes
@@ -3110,6 +3111,7 @@ astrachan
 astraddle
 astragal
 astrakhan
+astral
 astrally
 astray
 astricted
@@ -5908,6 +5910,7 @@ bordures
 bored
 boredoms
 boreen
+boreholes
 borer
 boric
 boring
@@ -6599,6 +6602,7 @@ buffaloed
 buffalofish
 buffaloing
 buffer
+buffered
 buffest
 buffet
 buffeter
@@ -7082,6 +7086,7 @@ caiman
 caique
 cairds
 cairngorm
+caisson
 caissons
 cajeput
 cajoled
@@ -7531,6 +7536,7 @@ caramel
 caramelized
 carangoid
 carapace
+carapaced
 carate
 caravan
 caravaners
@@ -7990,6 +7996,7 @@ causerie
 causers
 causes
 causewayed
+causeways
 causey
 causeys
 cauterants
@@ -8181,6 +8188,7 @@ cercises
 cere
 cerebella
 cerebellum
+cerebrate
 cerebration
 cerebroside
 cerebrosides
@@ -9443,6 +9451,7 @@ clonicity
 clonism
 clonks
 clonuses
+clop
 cloques
 closable
 close
@@ -12181,6 +12190,7 @@ cryptococci
 cryptococcosis
 cryptogamic
 cryptogams
+cryptograms
 cryptologic
 cryptological
 cryptologies
@@ -12404,6 +12414,7 @@ curlinesses
 curling
 curlings
 curls
+curlycues
 curmudgeonly
 curr
 curragh
@@ -15711,6 +15722,7 @@ downdraft
 downer
 downers
 downfall
+downfalls
 downfield
 downforce
 downgraded
@@ -16289,6 +16301,7 @@ dyspnoeas
 dysprosium
 dysrhythmia
 dysrhythmias
+dystaxia
 dystaxias
 dysthymia
 dysthymics
@@ -16499,6 +16512,7 @@ edgewise
 edginesses
 edging
 edgings
+edictally
 edifications
 edifice
 edified
@@ -18093,6 +18107,7 @@ eukaryotic
 eulachan
 eulachans
 eulachon
+eulogises
 eulogistic
 eulogistically
 eulogists
@@ -24148,6 +24163,7 @@ hemispheric
 hemitrope
 hemochromatoses
 hemochromatosis
+hemocyanin
 hemocytes
 hemocytometer
 hemocytometers
@@ -25248,6 +25264,7 @@ huzzaing
 hwan
 hyaenic
 hyalines
+hyalins
 hyalites
 hyaloplasms
 hybridisms
@@ -25411,6 +25428,7 @@ hyperkinesia
 hyperkinesias
 hyperkinesis
 hyperlink
+hyperlipemias
 hyperlipemic
 hypermania
 hypermanias
@@ -26811,6 +26829,7 @@ initializations
 initialize
 initializes
 initializing
+initialling
 initially
 initiated
 initiative
@@ -27293,6 +27312,7 @@ interning
 internist
 internments
 interns
+internships
 internucleon
 internuncio
 interobserver
@@ -27654,6 +27674,7 @@ iotacisms
 iotas
 ipecac
 ipecacuanha
+ipsilaterally
 irade
 irascible
 irasciblenesses
@@ -29506,6 +29527,7 @@ lawlike
 lawmaker
 lawmaking
 lawman
+lawns
 lawny
 lawsuit
 lawyering
@@ -30703,6 +30725,7 @@ lumbars
 lumbering
 lumberjacks
 lumberman
+lumbosacral
 lumbricals
 lumen
 luminaires
@@ -35096,6 +35119,7 @@ nonambiguous
 nonanimal
 nonantibiotic
 nonarable
+nonarbitrary
 nonargument
 nonarguments
 nonaromatic
@@ -35625,6 +35649,7 @@ nosedives
 noseguard
 noseguards
 noseless
+nosewheel
 nosewheels
 nosh
 nosher
@@ -37166,6 +37191,7 @@ outstrove
 outstudy
 outstunt
 outstunting
+outstunts
 outsulked
 outswearing
 outswears
@@ -37330,6 +37356,7 @@ overcold
 overcoloring
 overcomers
 overcommit
+overcommitting
 overcompensate
 overcompresses
 overconfident
@@ -37932,6 +37959,7 @@ padrone
 padronism
 pads
 padshah
+padshahs
 paean
 paeans
 paediatric
@@ -42993,6 +43021,7 @@ puss
 pusses
 pussyfoot
 pussyfooters
+pussyfoots
 pustulant
 pustulating
 putoff
@@ -44527,6 +44556,7 @@ reeducating
 reeducations
 reefable
 reefier
+reefing
 reefs
 reek
 reeker
@@ -49643,6 +49673,7 @@ situation
 situational
 situp
 situses
+sixfold
 sixteenmo
 sixteens
 sixteenth
@@ -49771,6 +49802,7 @@ skirrs
 skirted
 skirters
 skirtless
+skis
 skited
 skiting
 skits
@@ -49801,6 +49833,7 @@ skycaps
 skydive
 skydived
 skydives
+skydiving
 skylarked
 skylarks
 skylights
@@ -57996,6 +58029,7 @@ unluckinesses
 unmagnified
 unmakers
 unmaking
+unmaliciously
 unmanful
 unmanlier
 unmanliest
@@ -58713,6 +58747,7 @@ urticated
 urticates
 urtications
 uruses
+urushiols
 usablenesses
 used
 usefulness
