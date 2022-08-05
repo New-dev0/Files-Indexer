@@ -1711,6 +1711,7 @@ anaphylaxis
 anarch
 anarchies
 anarchist
+anarchy
 anarthrias
 anastigmats
 anastomoses
@@ -1857,6 +1858,7 @@ animaliers
 animalism
 animalisms
 animalists
+animalize
 animalizing
 animally
 animate
@@ -5367,6 +5369,7 @@ blackheart
 blackjack
 blackleg
 blacklist
+blacklisters
 blacklisting
 blackmailed
 blackmailer
@@ -6051,6 +6054,7 @@ bounced
 bouncer
 bouncers
 bouncing
+bound
 boundaries
 boundednesses
 bounden
@@ -7654,6 +7658,7 @@ carburises
 carburization
 carburizations
 carburize
+carburizes
 carburizing
 carcases
 carcasses
@@ -9669,6 +9674,7 @@ coaliest
 coalified
 coalifying
 coalitions
+coalpits
 coalsacks
 coalshed
 coaly
@@ -13132,6 +13138,7 @@ deals
 dealt
 deaminases
 deaminated
+deaminized
 deaminizes
 deaned
 deanship
@@ -13230,6 +13237,7 @@ decarburization
 decarburizes
 decasyllabic
 decasyllabics
+decathlete
 decay
 decayed
 decayer
@@ -13254,6 +13262,7 @@ decennials
 decenniums
 decenter
 decentering
+decently
 decentralize
 decentralizes
 decentralizing
@@ -13987,6 +13996,7 @@ depreciates
 depreciatingly
 depreciation
 depreciative
+depredate
 depredates
 depredations
 depredator
@@ -15304,6 +15314,7 @@ disruptive
 disruptively
 disruptor
 disruptors
+dissatisfies
 dissave
 dissaves
 disseated
@@ -24069,6 +24080,7 @@ havarti
 havdalah
 have
 haven
+havens
 havering
 havers
 haversack
@@ -24829,6 +24841,7 @@ hocker
 hockey
 hocks
 hockshop
+hockshops
 hocus
 hocuses
 hocussing
@@ -27400,6 +27413,7 @@ interarch
 interbasin
 interbranch
 intercalary
+intercalation
 intercalations
 intercaste
 interceders
@@ -28979,6 +28993,7 @@ kibosh
 kick
 kickable
 kickback
+kickbacks
 kickball
 kickbox
 kickboxed
@@ -32493,6 +32508,7 @@ metaling
 metalinguistic
 metalinguistics
 metalise
+metalising
 metalled
 metallic
 metallics
@@ -35486,6 +35502,7 @@ noncentral
 noncereal
 nonchalance
 nonchalant
+noncharacters
 noncharismatics
 nonchemical
 nonchurchgoer
@@ -36495,6 +36512,7 @@ ogam
 ogdoad
 ogee
 ogees
+ogham
 oghamic
 ogives
 ogle
@@ -37488,6 +37506,7 @@ outspokenness
 outspread
 outspreading
 outspreads
+outspring
 outsprint
 outsprints
 outstand
@@ -38939,6 +38958,7 @@ passerine
 passerines
 passingly
 passional
+passionals
 passionless
 passivations
 passivity
@@ -39254,6 +39274,7 @@ peelable
 peelers
 peeling
 peels
+peened
 peening
 peens
 peeper
@@ -40267,6 +40288,7 @@ pickaroon
 pickaroons
 pickaxe
 pickaxed
+pickaxes
 picked
 picker
 pickerels
@@ -44998,6 +45020,7 @@ reexecuted
 reexhibiting
 reexhibits
 reexpelling
+reexplain
 reexplaining
 reexplains
 reexplore
@@ -46234,6 +46257,7 @@ restyling
 resubject
 resubmission
 resubmitted
+result
 resultant
 resultantly
 resultful
@@ -47208,6 +47232,7 @@ rowelled
 rowels
 rowen
 rower
+rowing
 rowlocks
 rowth
 rowths
@@ -49180,6 +49205,7 @@ sexes
 sexiest
 sexily
 sexinesses
+sexism
 sexist
 sexlessly
 sexlessness
@@ -49841,6 +49867,7 @@ siestas
 sieur
 sieved
 sieves
+sifted
 sifters
 sifting
 siftings
@@ -53656,6 +53683,7 @@ supereffective
 superefficiency
 superefficient
 superelite
+supereminence
 supereminences
 supereminent
 supererogations
@@ -54427,6 +54455,7 @@ tads
 taekwondo
 taels
 taenia
+tafferel
 tafferels
 taffrails
 tafia
@@ -54834,6 +54863,7 @@ technologized
 technology
 technophiles
 technopop
+technopops
 tectites
 tectonics
 teddered
@@ -56039,6 +56069,7 @@ toom
 toonie
 toot
 tooth
+toothed
 toothing
 toothpaste
 toothpicks
@@ -56955,6 +56986,7 @@ tropics
 tropine
 tropines
 tropism
+tropological
 tropologies
 tropology
 tropomyosin
@@ -60786,6 +60818,7 @@ well
 welladays
 wellaway
 wellcurb
+wellhouse
 wellies
 wellsites
 welsh
@@ -61380,6 +61413,7 @@ woodhen
 woodie
 woodies
 woodiest
+wooding
 woodlanders
 woodlands
 woodlark
@@ -61819,6 +61853,7 @@ yogis
 yohimbe
 yohimbines
 yokels
+yokemate
 yokozuna
 yokozunas
 yoks
