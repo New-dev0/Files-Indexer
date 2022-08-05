@@ -3490,6 +3490,7 @@ averter
 averting
 avgases
 avianized
+avianizes
 aviaries
 aviary
 aviate
@@ -4206,6 +4207,7 @@ battlegrounds
 battlement
 battlemented
 battlers
+battleships
 battue
 batty
 bauble
@@ -7521,6 +7523,7 @@ caracaras
 caracoling
 caracolling
 caracul
+carafe
 caramel
 caramelized
 carangoid
@@ -10443,6 +10446,7 @@ concreting
 concretisms
 concretists
 concretize
+concretized
 concretizing
 concubinages
 concupiscence
@@ -11641,6 +11645,7 @@ coxalgia
 coxalgies
 coxcombry
 coxcombs
+coxed
 coxing
 coxitis
 coxless
@@ -12341,6 +12346,7 @@ cupreous
 cuprous
 cuprum
 cupsful
+cupular
 curability
 curablenesses
 curacao
@@ -13063,6 +13069,7 @@ decanting
 decants
 decapitate
 decapitated
+decapitates
 decapitating
 decapitation
 decapitations
@@ -15987,6 +15994,7 @@ drowsy
 drub
 drubbed
 drubbings
+drudger
 drudgeries
 drudging
 drugged
@@ -16391,6 +16399,7 @@ echeveria
 echinacea
 echinate
 echini
+echinococci
 echinoderm
 echinodermatous
 echinoderms
@@ -17821,6 +17830,7 @@ erugo
 erugos
 erupted
 ervils
+eryngo
 eryngoes
 eryngos
 erysipelases
@@ -21122,6 +21132,7 @@ fungoids
 funguses
 funhouse
 funhouses
+funiculars
 funiculi
 funked
 funkier
@@ -22175,6 +22186,7 @@ glitteringly
 glitters
 gloaming
 gloamings
+gloams
 gloat
 gloater
 gloaters
@@ -22410,6 +22422,7 @@ goldsmith
 goldurns
 golf
 golfers
+golgothas
 goliard
 goliaths
 gollywog
@@ -26845,6 +26858,7 @@ innocuousness
 innocuousnesses
 innominate
 innovated
+innovation
 innovational
 innovations
 innovative
@@ -28222,6 +28236,7 @@ jolts
 jones
 jonnycake
 jordans
+jorum
 joseph
 josephs
 joshers
@@ -29918,6 +29933,7 @@ lieu
 lieve
 liever
 lifeboat
+lifecare
 lifeguarded
 lifeless
 lifelessnesses
@@ -31242,6 +31258,7 @@ manifoldnesses
 manihot
 manilas
 manilla
+manioca
 maniocas
 maniocs
 maniple
@@ -31422,6 +31439,7 @@ marram
 marred
 marrer
 marrers
+marriage
 married
 marrieds
 marrowfats
@@ -33503,6 +33521,7 @@ monsieur
 monsignor
 monsoonal
 monsoons
+monster
 monstera
 monsteras
 monstrosities
@@ -33676,6 +33695,7 @@ mortmains
 morular
 morulation
 mosaicist
+mosaicists
 mosaicked
 mosaiclike
 moschate
@@ -34003,6 +34023,7 @@ multitone
 multitones
 multiunit
 multiuser
+multivalence
 multivariate
 multiversity
 multivitamins
@@ -36572,6 +36593,7 @@ orography
 oroide
 orologists
 orology
+oropharyngeal
 oropharynx
 orotundities
 orotundity
@@ -39155,6 +39177,7 @@ periodical
 periodicities
 periodid
 periodizations
+periodontists
 periodontology
 perionychia
 perionychium
@@ -39403,6 +39426,7 @@ pettifoggings
 pettinesses
 pettish
 pettishness
+pettles
 petto
 petulances
 petulancy
@@ -40134,6 +40158,7 @@ piscine
 piscivore
 pishogue
 pisiforms
+piso
 pisolites
 pisoliths
 pistareen
@@ -40251,6 +40276,7 @@ planar
 planarities
 planate
 planation
+planchets
 planed
 planer
 planeside
@@ -46004,6 +46030,7 @@ reverb
 reverberant
 reverberantly
 reverberates
+reverberative
 reverberatory
 revere
 reverence
@@ -55378,6 +55405,7 @@ tokamaks
 toked
 token
 tokened
+tokenism
 tokers
 toking
 tokonoma
@@ -56409,6 +56437,7 @@ troupe
 trouper
 troupers
 trouser
+troutier
 trouvere
 trouveres
 trove
@@ -56497,6 +56526,7 @@ tsar
 tsardoms
 tsarevnas
 tsarism
+tsarists
 tsaritza
 tsatske
 tsetses
@@ -58306,6 +58336,7 @@ untested
 untether
 untethering
 untethers
+unthinkably
 unthinking
 unthreads
 unthroned
@@ -58829,6 +58860,7 @@ vaporishnesses
 vaporize
 vaporizes
 vaporizing
+vaporlike
 vaporous
 vapors
 vaporwares
@@ -60495,6 +60527,7 @@ wildfowls
 wilding
 wildings
 wildlife
+wildness
 wildwoods
 wilier
 wilily
@@ -60789,6 +60822,7 @@ woolgathering
 woolgatherings
 woolhat
 woolie
+woolies
 wooliness
 woollies
 woollinesses
@@ -61386,6 +61420,7 @@ zoogeographic
 zoogeographical
 zoogeographies
 zoogeography
+zoogleae
 zoogloea
 zoogloeae
 zoography
