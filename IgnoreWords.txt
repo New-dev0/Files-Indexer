@@ -405,6 +405,7 @@ act
 actability
 acted
 actinia
+actinian
 actinians
 actinias
 actinically
@@ -1907,6 +1908,7 @@ annelids
 annexe
 annexes
 annihilates
+annihilation
 annihilatory
 annotative
 annotators
@@ -2412,6 +2414,7 @@ apomicts
 apomorphines
 aponeuroses
 apophasis
+apophthegm
 apophthegms
 apophyllite
 apophyses
@@ -4167,6 +4170,7 @@ basing
 basions
 bask
 basked
+basketballs
 basketful
 basketwork
 basketworks
@@ -6403,6 +6407,7 @@ briniest
 brininesses
 brinksmanship
 briquet
+briquette
 briquettes
 brises
 brisked
@@ -8155,6 +8160,7 @@ celotexes
 celts
 cembalo
 cement
+cementa
 cementers
 cementite
 cementitious
@@ -9434,6 +9440,7 @@ clericalist
 clerically
 clerid
 clerihews
+clerisy
 clerkdoms
 clerkish
 clerkly
@@ -10310,6 +10317,7 @@ communalized
 communalizes
 communally
 commune
+communed
 communer
 communers
 communicant
@@ -10585,6 +10593,7 @@ conductance
 conductances
 conductive
 conductivity
+conductorial
 conductors
 conduplicate
 condyloid
@@ -12587,6 +12596,7 @@ custodianship
 custodianships
 custodies
 custody
+customaries
 customarinesses
 customer
 customhouses
@@ -12903,6 +12913,7 @@ damnableness
 damnably
 damndest
 damner
+damnified
 damning
 damningly
 damosel
@@ -13736,6 +13747,7 @@ demilitarize
 demilunes
 demimondes
 demineralizing
+demisable
 demise
 demisemiquaver
 demises
@@ -13817,6 +13829,7 @@ denegations
 deniabilities
 deniable
 deniably
+denial
 denials
 deniers
 denigrate
@@ -14677,6 +14690,7 @@ dimmer
 dimnesses
 dimorphic
 dimouts
+dimple
 dimpling
 dimwits
 din
@@ -18187,6 +18201,7 @@ ethnologic
 ethnologies
 ethnos
 ethnosciences
+ethogram
 ethograms
 ethos
 ethoxies
@@ -19925,6 +19940,7 @@ fitches
 fitchet
 fitchets
 fitchew
+fitchews
 fitchy
 fitfully
 fitfulness
@@ -19972,6 +19988,7 @@ flagellations
 flagellin
 flaggier
 flaggingly
+flaggings
 flagitious
 flagitiously
 flagmen
@@ -20206,6 +20223,7 @@ flocculant
 flocculants
 flocculate
 flocculated
+flocculating
 flocculations
 floccule
 flocculent
@@ -21449,6 +21467,7 @@ gadgetries
 gadgetry
 gadid
 gadolinites
+gadoliniums
 gadroon
 gadroons
 gadwall
@@ -22956,6 +22975,7 @@ gravida
 gravidae
 gravidity
 gravies
+gravimeter
 gravimeters
 gravimetrically
 gravimetry
@@ -23484,6 +23504,7 @@ gynandries
 gynandromorph
 gynandromorphy
 gynarchies
+gynecocracy
 gynecocratic
 gynecoid
 gynecological
@@ -25344,6 +25365,7 @@ humankind
 humannesses
 humanoids
 humate
+humates
 humblebees
 humbled
 humbleness
@@ -28280,6 +28302,7 @@ jauked
 jaunced
 jaundiced
 jaunt
+jaunted
 jauntier
 jauntily
 jauntinesses
@@ -29302,6 +29325,7 @@ kymographies
 kymography
 kyries
 kyte
+kythes
 laagering
 lab
 labanotations
@@ -31843,6 +31867,7 @@ masturbated
 masturbates
 masturbating
 masturbator
+matchboard
 matchless
 matchmake
 matchmaker
@@ -32510,6 +32535,7 @@ methadone
 methanations
 methane
 methanes
+methanol
 methaqualone
 methedrine
 methemoglobin
@@ -33261,6 +33287,7 @@ misinterring
 misjoin
 misjoinders
 miskeep
+misknowledge
 misknown
 mislabeling
 mislabelling
@@ -40173,6 +40200,7 @@ phytoliths
 phytols
 phyton
 phytopathogen
+phytopathogens
 phytophagous
 phytoplankton
 phytoplanktonic
@@ -42347,6 +42375,7 @@ primordia
 primp
 primroses
 prims
+primsie
 primus
 primuses
 prince
@@ -43301,6 +43330,7 @@ pursier
 pursiness
 pursing
 purslane
+pursuance
 pursuances
 pursuant
 pursue
@@ -44810,6 +44840,7 @@ redoublers
 redoubtable
 redoubts
 redounded
+redounds
 redout
 redouts
 redoxes
@@ -46599,6 +46630,7 @@ rhododendron
 rhododendrons
 rhodolite
 rhodomontades
+rhodonite
 rhodora
 rhombencephala
 rhombohedra
@@ -49523,6 +49555,7 @@ shoemakers
 shoepac
 shoepack
 shoepacks
+shoepacs
 shoestrings
 shoetree
 shoetrees
@@ -59924,6 +59957,7 @@ viridity
 virilizes
 virion
 virl
+virls
 viroid
 viroids
 virologic
@@ -60926,6 +60960,7 @@ whodunnit
 wholehearted
 wholeheartedly
 wholemeal
+wholenesses
 wholesaled
 wholesaler
 wholesales
