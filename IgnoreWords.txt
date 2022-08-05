@@ -3836,6 +3836,7 @@ baler
 balers
 balkanization
 balkanize
+balked
 balkier
 balkily
 balkiness
@@ -4993,6 +4994,7 @@ bilevel
 bilgiest
 bilharziases
 biliary
+bilinear
 bilk
 bilker
 bilkers
@@ -5209,6 +5211,7 @@ birthplaces
 birthrate
 birthstone
 birthstones
+birthworts
 biryani
 biryanis
 bisect
@@ -8092,6 +8095,7 @@ cenozoic
 cense
 censer
 censing
+censored
 censoring
 censors
 censured
@@ -8637,6 +8641,7 @@ chico
 chicory
 chicos
 chiefdoms
+chiefer
 chiefest
 chiefships
 chieftaincy
@@ -10988,6 +10993,7 @@ convict
 conviction
 convicts
 convincers
+convincing
 convincingness
 conviviality
 convocation
@@ -12338,6 +12344,7 @@ cupellation
 cupelled
 cupferron
 cupfuls
+cupid
 cupidity
 cupola
 cupolas
@@ -13941,6 +13948,7 @@ descriptor
 descry
 descrying
 desecrated
+desecraters
 desecrations
 desecrators
 desegregate
@@ -14685,6 +14693,7 @@ dirling
 dirls
 dirndl
 dirtbags
+dirtier
 dirtiest
 dirtiness
 dirtinesses
@@ -18903,6 +18912,7 @@ falces
 falconer
 falconets
 falconries
+falconry
 falderal
 falderals
 falderol
@@ -20277,6 +20287,7 @@ foliage
 foliaged
 foliar
 foliate
+foliating
 foliations
 folioing
 folkie
@@ -21868,6 +21879,7 @@ gestalt
 gestaltists
 gestating
 gestations
+gestative
 gesticulant
 gesticulations
 gesticulators
@@ -21963,6 +21975,7 @@ gild
 gilded
 gildhall
 gilds
+gillers
 gillies
 gillnet
 gilt
@@ -22098,6 +22111,7 @@ glamours
 glancers
 glandular
 glandularly
+glandule
 glandules
 glares
 glarier
@@ -24817,6 +24831,7 @@ hooches
 hoodies
 hoodiest
 hooding
+hoodlike
 hoodlumism
 hoodmold
 hoodooed
@@ -25208,6 +25223,7 @@ hush
 hushed
 hushing
 hushpuppies
+husk
 huskier
 huskily
 huskiness
@@ -27087,6 +27103,7 @@ intendants
 intendedly
 intenerate
 intenerating
+inteneration
 intenerations
 intense
 intenser
@@ -30300,6 +30317,7 @@ loams
 loamy
 loaning
 loanword
+loath
 loathed
 loathes
 loathful
@@ -30609,6 +30627,7 @@ lovemaking
 lovemakings
 lover
 lovesicknesses
+lovingnesses
 lowballed
 lowballing
 lowboys
@@ -31409,6 +31428,7 @@ marka
 markas
 markedly
 marker
+markers
 market
 marketable
 marketeer
@@ -32146,6 +32166,7 @@ metabolism
 metabolisms
 metabolized
 metacarpal
+metacarpals
 metacarpi
 metacarpus
 metacenter
@@ -32263,6 +32284,7 @@ metric
 metrical
 metricate
 metricates
+metrication
 metricized
 metricizes
 metrics
@@ -33020,6 +33042,7 @@ mispackages
 mispackaging
 mispaged
 mispaging
+mispaint
 misparses
 misparted
 mispatching
@@ -34987,6 +35010,7 @@ nizamates
 nob
 nobbiest
 nobbily
+nobble
 nobblers
 nobby
 nobility
@@ -35865,6 +35889,7 @@ obis
 obit
 obituaries
 objected
+objectifies
 objection
 objections
 objectiveness
@@ -37057,6 +37082,7 @@ outriggers
 outrigs
 outring
 outrivalling
+outroar
 outroared
 outrock
 outrocking
@@ -39399,6 +39425,7 @@ petnapers
 petnaping
 petnapper
 petrale
+petrales
 petrels
 petrifaction
 petrifier
@@ -43305,6 +43332,7 @@ quillai
 quillaia
 quillais
 quillback
+quills
 quillwork
 quillwort
 quillworts
@@ -47093,6 +47121,7 @@ sailer
 sailing
 sails
 saimin
+sained
 saint
 saintdom
 sainted
@@ -52774,6 +52803,7 @@ subtend
 subtended
 subtends
 subterranean
+subtest
 subtests
 subtext
 subthreshold
@@ -53841,6 +53871,7 @@ tabby
 taber
 tabernacles
 tabers
+tabetics
 tabid
 tablatures
 tableaus
@@ -54536,6 +54567,7 @@ tentered
 tenterhooks
 tenters
 tenths
+tentless
 tentmaker
 tentmakers
 tentorial
@@ -55459,6 +55491,7 @@ tomograph
 tomographic
 tomographies
 tomography
+tonally
 tone
 tonearms
 tonelessnesses
@@ -57071,6 +57104,7 @@ unacclimatized
 unaccommodating
 unaccompanied
 unaccountably
+unaccounted
 unaccrued
 unacerbic
 unacknowledged
@@ -58716,6 +58750,7 @@ utricles
 utriculi
 utter
 utterance
+utterances
 uttering
 utterly
 uvarovite
