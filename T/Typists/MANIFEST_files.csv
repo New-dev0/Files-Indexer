@@ -1,0 +1,11 @@
+lubuntu-18.04.5-desktop-i386.manifest - Ubuntu CDimage,https://cdimage.ubuntu.com/lubuntu/releases/18.04/release/lubuntu-18.04.5-desktop-i386.manifest
+focal-desktop-amd64.manifest - Ubuntu CDimage,https://cdimage.ubuntu.com/lubuntu/focal/daily-live/current/focal-desktop-amd64.manifest
+ftp.dei.uc.pt/pub/linux/xubuntu/releases/14.04/rel...,http://ftp.dei.uc.pt/pub/linux/xubuntu/releases/14.04/release/xubuntu-14.04-desktop-i386.manifest
+https://mirrors.aliyun.com/oldubuntu-releases/rele...,https://mirrors.aliyun.com/oldubuntu-releases/releases/12.04.4/ubuntu-12.04-preinstalled-desktop-armhf%2Bmx5.manifest
+kinetic-desktop-amd64.manifest - FTP Directory Listing,http://ftp.jaist.ac.jp/pub/Linux/ubuntu-cdimage/daily-live/current/kinetic-desktop-amd64.manifest
+mint-dev-tools/filesystem.manifest at master - GitHub,https://github.com/linuxmint/mint-dev-tools/blob/master/usr/share/mint-dev-tools/manifests/mint-20-mate/filesystem.manifest
+resetter-cli/eos-0.4.1.manifest at master · gaining/resetter-cli · GitHub,https://github.com/gaining/resetter-cli/blob/master/resetter-cli/data/manifests/eos-0.4.1.manifest
+ftp.uni-kl.de/pub/linux/ubuntu-dvd/lubuntu/daily-l...,http://ftp.uni-kl.de/pub/linux/ubuntu-dvd/lubuntu/daily-live/current/kinetic-desktop-amd64.manifest
+ubuntu.interhost.co.il/18.04/ubuntu-18.04.1-deskto...,http://ubuntu.interhost.co.il/18.04/ubuntu-18.04.1-desktop-amd64.manifest
+ubuntu.interhost.co.il/focal/ubuntu-20.04.3-deskto...,http://ubuntu.interhost.co.il/focal/ubuntu-20.04.3-desktop-amd64.manifest
+repo.ugm.ac.id/iso/ubuntu-mate/16.04/release/ubunt...,http://repo.ugm.ac.id/iso/ubuntu-mate/16.04/release/ubuntu-mate-16.04.1-desktop-amd64.manifest

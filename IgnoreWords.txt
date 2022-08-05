@@ -3986,6 +3986,7 @@ barbells
 barbering
 barbicel
 barbies
+barbing
 barbitones
 barbiturate
 barbiturates
@@ -5698,6 +5699,7 @@ bodysurfers
 bodyworks
 boff
 boffed
+boffin
 boffola
 boffos
 bog
@@ -6410,6 +6412,7 @@ brochure
 brochures
 brockages
 brogans
+brogueries
 brogues
 broguish
 broider
@@ -8914,6 +8917,7 @@ chorizos
 chorographer
 chorographers
 chorographic
+chorography
 choroidal
 choroids
 chortle
@@ -9746,6 +9750,7 @@ coddling
 code
 codebook
 codebtors
+codecs
 coded
 codefendant
 codeine
@@ -10031,6 +10036,7 @@ collodions
 collogue
 collogues
 colloids
+collop
 colloquial
 colloquiality
 colloquials
@@ -11843,6 +11849,7 @@ creationist
 creationists
 creatively
 creativenesses
+creativities
 creatural
 creature
 creaturehood
@@ -14351,6 +14358,7 @@ diapositives
 diapsid
 diapsids
 diarchic
+diarist
 diaristic
 diarrhea
 diarrheic
@@ -14630,6 +14638,7 @@ diocese
 diodes
 dioecisms
 dioestruses
+diol
 diolefins
 dionysiac
 diopsides
@@ -16291,6 +16300,7 @@ dyer
 dying
 dyked
 dykes
+dynamically
 dynamistic
 dynamo
 dynamometers
@@ -17977,6 +17987,7 @@ essentialisms
 essentialities
 essentializes
 essentially
+essentialness
 essentialnesses
 establish
 establishable
@@ -20056,6 +20067,7 @@ fling
 flinging
 flinted
 flintheads
+flintier
 flintiest
 flintiness
 flintinesses
@@ -20438,6 +20450,7 @@ footsies
 footslogger
 footslogging
 footsoreness
+footstalk
 footstalks
 footstall
 footstalls
@@ -20475,6 +20488,7 @@ forced
 forcedly
 forcefulnesses
 forceless
+forcemeat
 forcemeats
 forcible
 fording
@@ -22864,6 +22878,7 @@ greediest
 greedily
 greedsome
 greedy
+greeing
 greek
 greenbacker
 greenbelts
@@ -23565,6 +23580,7 @@ halogens
 halogeton
 haloid
 haloids
+haloperidols
 halothanes
 halt
 halterbreaking
@@ -23913,6 +23929,7 @@ hawsepipes
 hawsers
 hay
 hayfield
+hayfields
 hayfork
 hayforks
 haying
@@ -26061,6 +26078,7 @@ imphees
 imping
 impingement
 impingements
+impinges
 impings
 impiously
 impish
@@ -32962,6 +32980,7 @@ misconduct
 misconducts
 misconnection
 misconnections
+misconnects
 misconstrues
 miscook
 miscopy
@@ -37407,6 +37426,7 @@ overcalls
 overcame
 overcapacity
 overcasted
+overcasts
 overcaution
 overcautions
 overcentralized
@@ -39656,6 +39676,7 @@ phenylketonuria
 phenylketonuric
 phenylthioureas
 phereses
+pheromonal
 pheromone
 pheromones
 phi
@@ -39687,6 +39708,7 @@ philosophers
 philosophic
 philosophical
 philosophise
+philosophises
 philosophize
 philosophizers
 philosophizes
@@ -41673,6 +41695,7 @@ preformatted
 preformatting
 preforming
 preformulated
+preformulating
 prefrank
 prefranked
 prefranks
@@ -41947,6 +41970,7 @@ pressurize
 prestamped
 prester
 presterilizes
+presters
 prestidigitator
 prestige
 prestigeful
@@ -42565,6 +42589,7 @@ prosthodontics
 prostitute
 prostituted
 prostitutes
+prostituting
 prostrate
 prostrations
 protamin
@@ -45014,6 +45039,7 @@ reindustrialize
 reined
 reinfecting
 reinfection
+reinfections
 reinfestation
 reinflames
 reinflates
@@ -49525,6 +49551,7 @@ sightliest
 sightly
 sights
 sightseeing
+sightseen
 sightseers
 sightsees
 sigil
@@ -51227,6 +51254,7 @@ spilling
 spillover
 spillway
 spillways
+spilt
 spilths
 spinach
 spinachy
@@ -54594,7 +54622,9 @@ telophases
 telos
 telotaxis
 telphers
+telsons
 temblor
+temblors
 temp
 temped
 tempehs
@@ -54881,6 +54911,7 @@ textless
 textuaries
 textuary
 texture
+textureless
 textures
 texturizing
 thacked
@@ -56265,6 +56296,7 @@ trepidant
 treponemal
 treponematoses
 trespass
+trespassed
 trespassers
 tressel
 tresses
@@ -57055,6 +57087,7 @@ typier
 typiest
 typification
 typifiers
+typists
 typographed
 typographs
 typography
@@ -60319,6 +60352,7 @@ wedge
 wedgier
 wedgiest
 wedging
+weds
 weeder
 weedier
 weediest
@@ -60421,6 +60455,7 @@ whaleback
 whaleman
 whalers
 whales
+wham
 whangee
 whangees
 whangs
