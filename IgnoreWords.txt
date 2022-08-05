@@ -2044,6 +2044,7 @@ anticlericals
 anticlimactical
 anticlinal
 anticlines
+anticlotting
 anticodon
 anticolonial
 anticolonialist
@@ -2838,6 +2839,7 @@ arthropathies
 arthropathy
 arthropodan
 arthropods
+arthrosis
 artichoke
 artichokes
 article
@@ -8392,6 +8394,7 @@ chappie
 chapping
 chapt
 chapter
+chapteral
 chaptered
 charabanc
 charabancs
@@ -9555,6 +9558,7 @@ cnidae
 cnidarian
 cnidarians
 coacervations
+coaching
 coachwork
 coacting
 coactive
@@ -10037,6 +10041,7 @@ colocates
 colocynths
 cologarithm
 colombards
+colone
 colonelcies
 coloni
 colonialisms
@@ -10265,6 +10270,7 @@ compacting
 compactions
 compactly
 compactor
+compactors
 companioned
 companions
 companionship
@@ -12426,6 +12432,7 @@ curr
 curragh
 currajong
 currant
+currentness
 curriculum
 curriculums
 curried
@@ -14173,6 +14180,7 @@ deviating
 deviationisms
 deviators
 device
+deviled
 devilfish
 devilfishes
 devilish
@@ -15047,6 +15055,7 @@ dislimned
 dislocate
 dislocating
 dislocations
+dislodge
 dislodged
 dislodgement
 dislodgements
@@ -15423,6 +15432,7 @@ doddering
 doddery
 dodecahedra
 dodecahedral
+dodecaphonic
 dodecaphonies
 dodecaphonist
 dodgeball
@@ -15738,6 +15748,7 @@ downforce
 downgraded
 downhauls
 downhiller
+downinesses
 downlight
 downlights
 downlinks
@@ -16202,6 +16213,7 @@ duplicitously
 duplicity
 dupped
 dupping
+dups
 durablenesses
 durably
 duralumins
@@ -16210,6 +16222,7 @@ durative
 durbars
 dure
 duress
+duresses
 durians
 durn
 durneder
@@ -18320,6 +18333,7 @@ excide
 exciding
 excimers
 excipients
+excise
 excised
 excises
 excision
@@ -20651,6 +20665,7 @@ forswore
 forsworn
 forsythia
 fort
+fortepiano
 fortepianos
 forthcoming
 forthrightly
@@ -21844,6 +21859,7 @@ geomagnetically
 geomancers
 geomantic
 geometers
+geometrically
 geometrician
 geometricians
 geometrics
@@ -25347,6 +25363,7 @@ hydrophytes
 hydropic
 hydroponically
 hydrops
+hydropses
 hydroquinone
 hydrosere
 hydroski
@@ -27010,6 +27027,7 @@ insinuators
 insipidity
 insistency
 insistent
+insistently
 insister
 insisters
 insnares
@@ -28841,6 +28859,7 @@ kings
 kingships
 kingside
 kingsnake
+kingwoods
 kinin
 kinins
 kink
@@ -29340,6 +29359,7 @@ languid
 languidnesses
 languisher
 languishers
+languishing
 languishment
 languor
 languorously
@@ -30861,6 +30881,7 @@ luxuriance
 luxuriate
 lyard
 lyart
+lyase
 lyases
 lycea
 lychees
@@ -32478,6 +32499,7 @@ microswitch
 microtechnique
 microtonality
 microtonally
+microtone
 microtones
 microtubule
 microvolt
@@ -33939,6 +33961,7 @@ mucor
 mucosa
 mucosas
 mucous
+mucro
 mucronate
 mucrones
 mudcapping
@@ -37047,6 +37070,7 @@ outmasters
 outmatch
 outmatches
 outmodes
+outmoved
 outmuscle
 outmuscled
 outnumber
@@ -39019,6 +39043,7 @@ pencillers
 pencillings
 pencils
 pend
+pendant
 pending
 pendular
 pendulousnesses
@@ -39854,6 +39879,7 @@ phyle
 phyleses
 phylesises
 phyllite
+phyllitic
 phyllo
 phylloclades
 phyllodium
@@ -44475,6 +44501,7 @@ redigestion
 redigestions
 redigress
 redigressed
+reding
 redintegrate
 redintegrates
 redintegration
@@ -46778,6 +46805,7 @@ roughen
 roughened
 roughens
 roughers
+roughhewed
 roughhewing
 roughhoused
 roughies
@@ -50593,6 +50621,7 @@ solarises
 solarium
 solarizations
 solarizing
+solate
 solated
 solating
 soldan
@@ -51545,6 +51574,7 @@ squinting
 squintingly
 squinty
 squirearchies
+squirearchy
 squires
 squiring
 squirish
@@ -58077,6 +58107,7 @@ unmasking
 unmatted
 unmatured
 unmediated
+unmeetly
 unmelted
 unmemorably
 unmended
@@ -60025,6 +60056,7 @@ warpath
 warped
 warpers
 warplane
+warpower
 warranted
 warranter
 warrantied
@@ -60369,6 +60401,7 @@ whatchamacallit
 whatsises
 whatsoever
 wheals
+wheatear
 wheatlands
 wheatless
 wheedled
@@ -60982,6 +61015,7 @@ workpiece
 workpieces
 workplace
 worksheet
+workstations
 worktables
 workup
 workweek
@@ -61296,6 +61330,7 @@ yestreens
 yeti
 yeuk
 yeuks
+yid
 yids
 yield
 yieldable
