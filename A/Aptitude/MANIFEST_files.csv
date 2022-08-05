@@ -1,0 +1,10 @@
+kinetic-desktop-amd64.manifest - Ubuntu CDimage,https://cdimage.ubuntu.com/kubuntu/daily-live/current/kinetic-desktop-amd64.manifest
+kinetic-desktop-amd64.manifest - Ubuntu CDimage,https://cdimage.ubuntu.com/kubuntu/daily-live/pending/kinetic-desktop-amd64.manifest
+mint-dev-tools/filesystem.manifest at master - GitHub,https://github.com/linuxmint/mint-dev-tools/blob/master/usr/share/mint-dev-tools/manifests/mint-20-mate/filesystem.manifest
+Resetter/LinuxMint_19_X-Cinnamon_64bit_.manifest at master,https://github.com/gaining/Resetter/blob/master/Resetter/usr/lib/resetter/data/manifests/LinuxMint_19_X-Cinnamon_64bit_.manifest
+https://mirrors.aliyun.com/oldubuntu-releases/rele...,https://mirrors.aliyun.com/oldubuntu-releases/releases/12.04.4/ubuntu-12.04-preinstalled-server-armhf%2Bomap4.manifest
+https://mirrors.aliyun.com/oldubuntu-releases/rele...,https://mirrors.aliyun.com/oldubuntu-releases/releases/hoary/ubuntu-5.04-live-amd64.manifest
+ftp.twaren.net/ubuntu-dvd/kubuntu/releases/10.04/a...,http://ftp.twaren.net/ubuntu-dvd/kubuntu/releases/10.04/alpha-3/lucid-desktop-i386.manifest
+ftp.twaren.net/ubuntu-dvd/ports/releases/9.10/rele...,http://ftp.twaren.net/ubuntu-dvd/ports/releases/9.10/release/ubuntu-9.10-desktop-armel%2Bimx51.manifest
+ftp.ncnu.edu.tw/ubuntu-dvd/ports/releases/8.04.1/r...,http://ftp.ncnu.edu.tw/ubuntu-dvd/ports/releases/8.04.1/release/ubuntu-8.04.1-desktop-powerpc.manifest
+ubuntu-8.04.4-desktop-i386.manifest,https://mirrors.xtom.ee/ubuntu-old-releases/releases/8.04.4/ubuntu-8.04.4-desktop-i386.manifest

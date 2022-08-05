@@ -1,0 +1,8 @@
+tp6-pageset.manifest - mozsearch - Searchfox,https://searchfox.org/mozilla-central/source/testing/awsy/tp6-pageset.manifest
+mozilla-central: testing/awsy/tp6-pageset.manifest ... - Mercurial,https://hg.mozilla.org/mozilla-central/file/tip/testing/awsy/tp6-pageset.manifest
+14.09-preinstalled-touch-i386.manifest - Ubuntu CDimage,https://cdimage.ubuntu.com/ubuntu-touch/ubuntu-rtm/14.09/daily-preinstalled/pending/14.09-preinstalled-touch-i386.manifest
+https://cdimage.ubuntu.com/ubuntu-touch/ubuntu-rtm...,https://cdimage.ubuntu.com/ubuntu-touch/ubuntu-rtm/14.09/daily-preinstalled/pending/14.09-preinstalled-touch-armhf.manifest
+testing/awsy/tp6-pageset.manifest ... - GitLab,https://doss-gitlab.eidos.ic.i.u-tokyo.ac.jp/computerynamics/firefox/-/blob/3bb9ccbd03513c4525285ab17227dc125c47e011/testing/awsy/tp6-pageset.manifest
+https://downloads.openwrt.org/releases/19.07-SNAPS...,https://downloads.openwrt.org/releases/19.07-SNAPSHOT/packages/arm_mpcore/packages/Packages.manifest
+https://archive.openwrt.org/releases/packages-18.0...,https://archive.openwrt.org/releases/packages-18.06/aarch64_generic/packages/Packages.manifest
+https://downloads.lede-project.org/snapshots/packa...,https://downloads.lede-project.org/snapshots/packages/arc_archs/packages/Packages.manifest
