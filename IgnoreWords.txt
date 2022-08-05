@@ -494,6 +494,7 @@ adducible
 adductive
 adducts
 adeem
+adeems
 ademption
 adenine
 adenines
@@ -650,6 +651,7 @@ adverbials
 adversaries
 adversariness
 adversarinesses
+adversity
 advertent
 advertisement
 advertize
@@ -2360,6 +2362,7 @@ aphorises
 aphorists
 aphorized
 aphorizers
+aphrodisiacal
 aphrodisiacs
 aphrodites
 aphyllous
@@ -6875,6 +6878,7 @@ burseeds
 bursted
 bursts
 burthen
+burtons
 burweed
 burweeds
 burying
@@ -7512,6 +7516,7 @@ capeskins
 capework
 capful
 capias
+capillaries
 capillarities
 capita
 capital
@@ -8445,6 +8450,7 @@ chaperone
 chaperoned
 chaperones
 chaperoning
+chaperons
 chapes
 chapiter
 chaplains
@@ -8567,6 +8573,7 @@ chawing
 chays
 chazan
 chazzan
+cheap
 cheapened
 cheapens
 cheapest
@@ -9415,6 +9422,7 @@ clearings
 clearly
 clearstories
 clearwings
+cleave
 cleavers
 cleaves
 clef
@@ -10130,6 +10138,7 @@ colonialists
 colonializing
 colonially
 colonialness
+colonials
 colonies
 colonisation
 colonise
@@ -10746,6 +10755,7 @@ conjectural
 conjecturer
 conjecturers
 conjectures
+conjecturing
 conjoined
 conjoiner
 conjoiners
@@ -11469,6 +11479,7 @@ coshing
 cosie
 cosily
 cosine
+cosiness
 cosmetic
 cosmetician
 cosmeticize
@@ -12094,6 +12105,7 @@ criticizing
 critique
 critiques
 critiquing
+critturs
 croaker
 croakily
 croaking
@@ -17220,6 +17232,7 @@ encephalon
 encephalopathy
 enchain
 enchained
+enchainment
 enchant
 enchanter
 enchanting
@@ -17437,6 +17450,7 @@ engraved
 engraver
 engravers
 engraves
+engravings
 engross
 engrosses
 engrossing
@@ -23356,6 +23370,7 @@ guild
 guilders
 guildships
 guildsmen
+guilelessly
 guiles
 guillemet
 guillemets
@@ -24072,6 +24087,7 @@ hawks
 hawkweed
 hawseholes
 hawsepipes
+hawser
 hawsers
 hay
 hayfield
@@ -26623,6 +26639,7 @@ inculcator
 inculcators
 inculpable
 inculpated
+inculpating
 inculpations
 incumbencies
 incumbency
@@ -31698,6 +31715,7 @@ mariachi
 mariachis
 mariculturists
 marijuanas
+marimba
 marimbists
 marina
 marinade
@@ -34959,6 +34977,7 @@ nematological
 nematologist
 nemertine
 nemertines
+neoclassic
 neoclassicisms
 neoclassicists
 neocolonialism
@@ -37912,6 +37931,7 @@ overpeoples
 overpersuade
 overplanned
 overplanning
+overplans
 overplied
 overply
 overplying
@@ -40708,6 +40728,7 @@ plasmolyzing
 plasmons
 plaster
 plasterboards
+plasterer
 plasterers
 plasterworks
 plasticene
@@ -42221,6 +42242,7 @@ presuming
 presumingly
 presummit
 presupposing
+presurvey
 presurveys
 presweetening
 presweetens
@@ -44718,6 +44740,7 @@ recurring
 recursion
 recursions
 recurvate
+recurves
 recusal
 recusals
 recusancies
@@ -45253,6 +45276,7 @@ reidentifies
 reif
 reifications
 reifies
+reify
 reifying
 reign
 reigning
@@ -46054,6 +46078,7 @@ resistlessness
 resistor
 resistors
 resiting
+resittings
 resizes
 resizing
 resketch
@@ -47764,6 +47789,7 @@ santir
 santolinas
 santonica
 santoor
+sapajou
 sapajous
 sapanwoods
 sapheaded
@@ -49486,6 +49512,7 @@ shipmen
 shipment
 shippen
 shipping
+shippon
 ships
 shipside
 shipsides
@@ -50354,6 +50381,7 @@ sleepwalked
 sleepwear
 sleepy
 sleepyheads
+sleet
 sleetier
 sleeting
 sleeved
@@ -53219,6 +53247,7 @@ subsocial
 subsocieties
 subsociety
 subsoiler
+subsoiling
 subsolar
 subsonically
 subspace
@@ -55782,6 +55811,7 @@ tinseled
 tinseling
 tinselling
 tinsnips
+tinstone
 tint
 tinted
 tintypes
@@ -56696,6 +56726,7 @@ trickish
 trickle
 trickling
 trickly
+tricksier
 tricksiest
 tricksiness
 trickster
@@ -58191,6 +58222,7 @@ unexamined
 unexcelled
 unexceptionably
 unexcitable
+unexcused
 unexercised
 unexotic
 unexpected
@@ -60088,6 +60120,7 @@ vizors
 vocabs
 vocabular
 vocabularies
+vocal
 vocalese
 vocaleses
 vocalically
@@ -60181,6 +60214,7 @@ vomer
 vomers
 vomica
 vomicae
+vomit
 vomiter
 vomiting
 vomito
@@ -60591,6 +60625,7 @@ wavelet
 wavelike
 waveringly
 wavers
+waves
 waveshape
 waveshapes
 wavey
