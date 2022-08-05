@@ -641,6 +641,7 @@ adverbial
 adverbials
 adversaries
 adversariness
+adversarinesses
 advertent
 advertisement
 advertize
@@ -2017,6 +2018,7 @@ antiars
 antiarthritic
 antiasthma
 antiauxin
+antiauxins
 antibacterial
 antibillboard
 antibioses
@@ -2962,6 +2964,7 @@ aspiration
 aspirational
 aspirations
 aspired
+aspis
 aspish
 asrama
 assagai
@@ -4157,6 +4160,7 @@ batcher
 bate
 bateau
 bateaux
+batfishes
 batfowler
 batfowlers
 batfowling
@@ -5351,6 +5355,7 @@ blankness
 blanks
 blare
 blaring
+blarneying
 blase
 blaspheme
 blasphemed
@@ -10601,6 +10606,7 @@ congratulation
 congratulator
 congratulators
 congregants
+congregate
 congregating
 congregational
 congresses
@@ -11524,6 +11530,7 @@ counterstriking
 counterstruck
 countersue
 countersues
+countertactic
 countertenors
 counterterrors
 countertrade
@@ -11740,6 +11747,7 @@ crappers
 crappiest
 crapping
 craps
+crapshoots
 crases
 crashers
 crashes
@@ -14192,6 +14200,7 @@ dexy
 dezinc
 dhak
 dhal
+dharnas
 dhoolies
 dhooti
 dhooties
@@ -15775,6 +15784,7 @@ draggled
 draggy
 dragline
 dragnet
+dragnets
 dragonheads
 dragooned
 dragoons
@@ -15953,6 +15963,7 @@ dropwort
 droshkies
 droshky
 droskies
+drosky
 drosophilas
 dross
 drossiest
@@ -17360,6 +17371,7 @@ ensphered
 enstatite
 ensued
 ensured
+ensurer
 ensurers
 enswathed
 enswathes
@@ -24008,6 +24020,7 @@ heinously
 heirdoms
 heired
 heirlooms
+heirs
 heishi
 heister
 heisting
@@ -25187,6 +25200,7 @@ huskily
 huskiness
 huskinesses
 husking
+husklike
 husky
 hussar
 hustle
@@ -26458,6 +26472,7 @@ individuations
 indivisible
 indocilities
 indoctrination
+indolences
 indolently
 indoles
 indomethacins
@@ -27790,6 +27805,7 @@ isooctanes
 isopachs
 isophotal
 isophotes
+isopleth
 isoplethic
 isoprenoid
 isopropyls
@@ -27817,6 +27833,7 @@ isotropy
 isotypic
 isozymic
 issei
+issuable
 issuably
 issuance
 issuers
@@ -28403,6 +28420,7 @@ kalamatas
 kaleidoscopes
 kaleidoscopic
 kalewives
+kaleyard
 kalifate
 kalimbas
 kalium
@@ -28620,6 +28638,7 @@ khedive
 kheth
 kheths
 khets
+khi
 khoums
 kiangs
 kiaugh
@@ -30859,6 +30878,7 @@ machos
 machzors
 macintosh
 mackintoshes
+mackle
 macled
 macles
 macrocosms
@@ -34638,6 +34658,7 @@ nephrologies
 nephrologist
 nephropathy
 nephrostome
+nepotism
 nepotisms
 nepotists
 nerdier
@@ -34706,6 +34727,7 @@ neurologies
 neurologist
 neuromas
 neuromast
+neuropathically
 neurophysiology
 neuropterans
 neuroradiology
@@ -37104,6 +37126,7 @@ outswinging
 outswore
 outsworn
 outswum
+outtakes
 outtalked
 outtasking
 outtells
@@ -48151,6 +48174,7 @@ sedimentologic
 sedimentologies
 sediments
 seditions
+seditiousness
 seditiousnesses
 seduce
 seducive
@@ -48284,6 +48308,7 @@ semantics
 semaphoring
 semasiologies
 semasiology
+semblable
 semeiologies
 sememes
 semen
@@ -48715,6 +48740,7 @@ shads
 shaft
 shafted
 shafts
+shagginess
 shagging
 shagreens
 shah
@@ -49280,6 +49306,7 @@ sidehills
 sidelight
 sideliners
 sidelining
+sideman
 sidemen
 sidepieces
 siderites
@@ -50295,6 +50322,7 @@ snowshed
 snowshoe
 snowshoer
 snowslide
+snowslides
 snowstorm
 snowstorms
 snowsuit
@@ -51465,6 +51493,7 @@ stagier
 stagiest
 stagily
 stagnant
+stagnation
 stags
 stagy
 staid
@@ -51507,6 +51536,7 @@ staminode
 staminodia
 staminodies
 staminody
+stammel
 stammer
 stammerers
 stammers
@@ -51990,6 +52020,7 @@ stooker
 stoolie
 stoolies
 stoopballs
+stooper
 stopcock
 stopcocks
 stoped
@@ -52306,6 +52337,7 @@ stumpages
 stumper
 stumpier
 stumpiest
+stumpy
 stun
 stunk
 stunner
@@ -53192,6 +53224,7 @@ supershow
 supersinger
 supersizes
 supersleuth
+supersmooth
 supersoft
 supersonically
 supersonics
@@ -59492,6 +59525,7 @@ vocalist
 vocalization
 vocalizers
 vocally
+vocalness
 vocalnesses
 vocals
 vocation
@@ -61160,6 +61194,7 @@ yogin
 yogini
 yogins
 yogis
+yohimbe
 yohimbines
 yokels
 yokozuna
