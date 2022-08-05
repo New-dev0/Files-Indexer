@@ -3497,6 +3497,7 @@ auxotrophic
 avadavats
 avail
 availabilities
+availableness
 availing
 avalanches
 avant
@@ -4685,6 +4686,7 @@ bendable
 benday
 bendayed
 bendaying
+bends
 bendwise
 benedictions
 beneficent
@@ -4869,6 +4871,7 @@ bettors
 between
 betweennesses
 betweentimes
+bevatron
 beveling
 bevelled
 bevies
@@ -6260,6 +6263,7 @@ brazilwood
 breachers
 breaching
 breadbaskets
+breadboard
 breadbox
 breadfruit
 breadfruits
@@ -8590,6 +8594,7 @@ cheeked
 cheekier
 cheekiest
 cheekily
+cheekinesses
 cheeking
 cheepers
 cheeps
@@ -9307,6 +9312,7 @@ clanking
 clanks
 clannishly
 clannishness
+clansman
 clapboard
 clapboards
 clapping
@@ -9422,6 +9428,7 @@ clerid
 clerihews
 clerkdoms
 clerkish
+clerkly
 clerkships
 clever
 cleverer
@@ -9518,6 +9525,7 @@ close
 closeable
 closedowns
 closefisted
+closers
 closest
 closeted
 closetful
@@ -10488,6 +10496,7 @@ conceptually
 conceptus
 concernments
 concerns
+concert
 concertgoer
 concertinos
 concertize
@@ -11192,6 +11201,7 @@ coproduces
 coproduct
 coproductions
 coproducts
+coprophagies
 coprophagy
 coprophiliac
 coprophilous
@@ -11700,6 +11710,7 @@ coverup
 coves
 covetable
 coveter
+covetousnesses
 covins
 cow
 cowardliness
@@ -12138,6 +12149,7 @@ crossjack
 crossjacks
 crosslets
 crossness
+crossover
 crossovers
 crosspatches
 crosspiece
@@ -13857,6 +13869,7 @@ deodaras
 deodorants
 deodorization
 deontological
+deontologist
 deontology
 deorbiting
 deoxidation
@@ -14168,6 +14181,7 @@ detains
 detect
 detectabilities
 detected
+detecter
 detecting
 detection
 detections
@@ -15269,6 +15283,7 @@ disseisee
 disseize
 disseized
 disseizes
+disseizins
 disseminator
 disseminators
 dissented
@@ -18316,6 +18331,7 @@ evenhanded
 evening
 evenings
 evens
+event
 eventful
 eventide
 events
@@ -19231,6 +19247,7 @@ fashions
 fashious
 fastbacks
 fastballers
+faster
 fastest
 fastidiously
 fatalist
@@ -22525,6 +22542,7 @@ gnotobiotic
 goaded
 goading
 goads
+goal
 goalmouth
 goalmouths
 goaltenders
@@ -26277,6 +26295,7 @@ imprest
 imprimis
 imprint
 imprinter
+imprison
 imprisoned
 imprisoning
 imprisonment
@@ -26509,6 +26528,7 @@ incongruousness
 inconnu
 inconnus
 inconscient
+inconsequential
 inconsequently
 inconsiderable
 inconsiderate
@@ -27070,6 +27090,7 @@ innings
 innkeeper
 innkeepers
 innless
+innocent
 innocently
 innocents
 innocuousness
@@ -28309,6 +28330,7 @@ jeopards
 jequirities
 jequirity
 jereed
+jerid
 jerker
 jerkier
 jerkies
@@ -32134,6 +32156,7 @@ melanoblast
 melanocyte
 melanocytes
 melanogeneses
+melanoma
 melanomata
 melanophore
 melanoses
@@ -32306,6 +32329,7 @@ meringues
 merises
 meristically
 merited
+meritocracies
 meritocrats
 meritoriousness
 merk
@@ -33373,6 +33397,7 @@ misted
 mistended
 mistending
 misters
+misthink
 misthinks
 mistiest
 mistime
@@ -36415,6 +36440,7 @@ ogre
 ogreish
 ogreism
 ogres
+ogress
 ogresses
 ogrisms
 ohed
@@ -36455,6 +36481,7 @@ oldsquaws
 oldster
 oldsters
 oldwife
+oldwives
 olea
 oleaginous
 oleaginously
@@ -38774,6 +38801,7 @@ partialities
 partially
 participants
 participated
+participates
 participating
 participation
 participations
@@ -45254,6 +45282,7 @@ reinvigorated
 reinvoke
 reinvokes
 reinvoking
+reinvolved
 reissue
 reitbok
 reiterate
@@ -46011,6 +46040,7 @@ resounded
 resow
 resowed
 resowing
+respaced
 respaces
 respeaking
 respeaks
@@ -46905,6 +46935,7 @@ romanos
 romans
 romanticises
 romanticism
+romanticisms
 romanticization
 romanticize
 romantics
@@ -49205,6 +49236,7 @@ sharif
 sharifs
 sharklike
 sharks
+sharkskin
 sharpers
 sharpest
 sharpie
@@ -55584,6 +55616,7 @@ tigerlike
 tigers
 tighteners
 tightens
+tighter
 tightfistedness
 tightly
 tightrope
@@ -58913,6 +58946,7 @@ updraft
 upflinging
 upflings
 upflow
+upgathering
 upgaze
 upgazed
 upgird
@@ -61709,6 +61743,7 @@ yowing
 yowl
 yowling
 yows
+yperites
 ytterbic
 ytterbiums
 yttrias
