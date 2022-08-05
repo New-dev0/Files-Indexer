@@ -2452,6 +2452,7 @@ appendents
 appendicitis
 appendicitises
 appendicular
+appendix
 appends
 apperceive
 apperceived
@@ -3070,6 +3071,7 @@ assumptions
 assurable
 assuredness
 assurednesses
+assureds
 assurer
 assurers
 assures
@@ -6360,6 +6362,7 @@ briskly
 brisling
 brislings
 briss
+brisses
 bristle
 bristlelike
 bristletails
@@ -7005,6 +7008,7 @@ cabotage
 cabrestos
 cabriole
 cabrioles
+cabs
 cabstands
 cachalot
 cachalots
@@ -7395,6 +7399,7 @@ canorous
 canorousness
 canso
 cantaloupes
+cantankerously
 cantatrice
 cantdog
 canted
@@ -7927,6 +7932,7 @@ catharsis
 cathartic
 cathead
 cathect
+cathecting
 cathects
 cathedra
 cathedrals
@@ -14159,6 +14165,7 @@ developed
 developers
 deverbal
 deverbatives
+devest
 devesting
 deviant
 deviants
@@ -15016,6 +15023,7 @@ disinterestedly
 disinterments
 disinterring
 disinters
+disintoxicated
 disintoxication
 disinvested
 disinvite
@@ -15356,6 +15364,7 @@ divorcive
 divulgates
 divulgating
 divulgences
+divulgers
 divulges
 divulse
 divulses
@@ -15468,6 +15477,7 @@ dogtrotting
 dogvanes
 dogwatches
 doiled
+doily
 doing
 doings
 doit
@@ -17182,6 +17192,7 @@ endoplasms
 endoproct
 endorsable
 endorse
+endorsee
 endorsive
 endosarc
 endoscopic
@@ -18317,6 +18328,7 @@ excisions
 excitable
 excitablenesses
 excitant
+excitants
 excitation
 excitations
 excitatory
@@ -18399,6 +18411,7 @@ exemptions
 exempts
 exenterated
 exenterates
+exenterations
 exercise
 exercisers
 exercises
@@ -19914,6 +19927,7 @@ flatwashes
 flatwise
 flatworms
 flaunted
+flauntiest
 flauntingly
 flaunty
 flavanol
@@ -22488,6 +22502,7 @@ goodbys
 goodman
 goodmen
 goodness
+goods
 goof
 goofballs
 goofs
@@ -25824,6 +25839,7 @@ immaterialists
 immaterializes
 immaterializing
 immature
+immemorially
 immensity
 immensurable
 immerge
@@ -26593,6 +26609,7 @@ ineptness
 ineptnesses
 inequity
 inequivalve
+ineradicably
 inerrable
 inerrancies
 inerrancy
@@ -26720,6 +26737,7 @@ infolder
 inform
 informal
 informality
+informally
 informant
 informants
 information
@@ -27982,6 +28000,7 @@ jaditic
 jaeger
 jager
 jaggery
+jagghery
 jaggy
 jaguar
 jaguarondi
@@ -34060,6 +34079,7 @@ multipronged
 multiracialism
 multirange
 multiscreen
+multiskilled
 multistoried
 multisyllabic
 multitaskings
@@ -34666,6 +34686,7 @@ nema
 nematicides
 nematocidal
 nematocide
+nematocyst
 nematocysts
 nematological
 nematologist
@@ -37682,6 +37703,7 @@ overseeding
 overseeing
 overseen
 overseer
+oversees
 overselling
 oversells
 oversensitive
@@ -38758,6 +38780,7 @@ pavane
 paved
 pavement
 pavements
+pavid
 pavilion
 pavilioned
 pavin
@@ -39102,6 +39125,7 @@ peppercorn
 peppercorns
 pepperers
 pepperinesses
+peppers
 peppertrees
 peppery
 peppiness
@@ -39901,6 +39925,7 @@ pica
 picadillos
 picador
 pical
+picaninnies
 picaninny
 picaras
 picaro
@@ -40600,6 +40625,7 @@ pluvious
 plyer
 plyingly
 pneumas
+pneumatic
 pneumaticities
 pneumatolytic
 pneumatophore
@@ -40638,6 +40664,7 @@ podzol
 podzolization
 podzolizations
 podzols
+poechore
 poenology
 poesies
 poetasters
@@ -45590,6 +45617,7 @@ researches
 reseason
 reseated
 reseau
+resectable
 resected
 resections
 resecuring
@@ -46714,6 +46742,7 @@ rotameter
 rotates
 rotations
 rotatively
+rotavirus
 rotaviruses
 rotches
 rotenone
@@ -46816,6 +46845,7 @@ royalmast
 royals
 royalties
 royalty
+royster
 rubaboo
 rubaiyat
 rubbaboo
@@ -47013,6 +47043,7 @@ ruts
 rutted
 ruttier
 ruttiness
+ruttinesses
 ruttishly
 rutty
 rye
@@ -47157,6 +47188,7 @@ saintdom
 sainted
 sainting
 saintliest
+saintlike
 saintlinesses
 saintships
 saith
@@ -48279,6 +48311,7 @@ seedcake
 seedcakes
 seedcase
 seeded
+seeder
 seedier
 seedily
 seedless
@@ -48873,6 +48906,7 @@ shamos
 shamosim
 shamoy
 shamoying
+shampoo
 shampooer
 shampooers
 shampooing
@@ -52294,6 +52328,7 @@ strewing
 strewments
 strewn
 stria
+striate
 striates
 striations
 strickling
