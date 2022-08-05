@@ -251,6 +251,7 @@ accusatives
 accusatory
 accusers
 accustomation
+accustomations
 accustomedness
 accustoming
 accustoms
@@ -2505,6 +2506,7 @@ appointive
 appoints
 apposed
 apposes
+apposition
 appositive
 appositively
 appraise
@@ -6365,6 +6367,7 @@ brighteners
 brightens
 brighter
 brightest
+brightish
 brightnesses
 brights
 brightwork
@@ -7884,6 +7887,7 @@ cataleptic
 cataleptics
 catalexis
 catalo
+cataloes
 cataloged
 cataloger
 catalogues
@@ -9878,6 +9882,7 @@ cofounder
 cofounders
 cofounding
 cofounds
+cogeneration
 cogged
 cogitable
 cogitated
@@ -11253,6 +11258,7 @@ coresearchers
 coresidents
 corgi
 coria
+coriander
 corianders
 corkage
 corkages
@@ -12528,6 +12534,7 @@ curves
 curvet
 curveting
 curvetted
+cuscuses
 cusec
 cushat
 cushats
@@ -15888,6 +15895,7 @@ drafting
 draftings
 draftsmanship
 draftsmanships
+draftsperson
 dragee
 dragged
 draggiest
@@ -15921,6 +15929,7 @@ drammed
 drammocks
 dramshops
 drapability
+drapeability
 drapeable
 draper
 draperied
@@ -16477,6 +16486,7 @@ eater
 eatery
 eath
 eats
+eaux
 eavesdrop
 eavesdropper
 ebony
@@ -18757,6 +18767,7 @@ exstrophy
 extemporally
 extemporaneity
 extemporarily
+extemporise
 extemporised
 extemporising
 extemporizing
@@ -19304,6 +19315,7 @@ febricity
 febrility
 feces
 feckless
+fecklessness
 fecks
 fecula
 fecund
@@ -20768,6 +20780,7 @@ fortuning
 fortyish
 forum
 forward
+forwarder
 forwarding
 forwards
 forzandi
@@ -20872,6 +20885,7 @@ fragrancy
 frailer
 frailly
 frails
+fraktur
 frakturs
 frambesias
 framboise
@@ -21286,9 +21300,11 @@ fur
 furanoside
 furbearers
 furbelowed
+furbishers
 furcate
 furcately
 furcating
+furcation
 furcations
 furcraea
 furcraeas
@@ -22021,6 +22037,7 @@ gesticulators
 gesturer
 gesturing
 gesundheit
+get
 getable
 getaways
 gets
@@ -25648,6 +25665,7 @@ hypoglossals
 hypoglycemic
 hypoing
 hypokalemia
+hypokalemias
 hypokalemic
 hypomagnesemia
 hypomanic
@@ -26719,6 +26737,7 @@ ineffable
 ineffably
 ineffaceability
 ineffectuality
+inefficient
 inefficiently
 inefficients
 inegalitarian
@@ -27801,6 +27820,7 @@ iodizes
 iodizing
 iodoform
 iodoforms
+iodophors
 iodopsin
 iodous
 iolite
@@ -28426,6 +28446,7 @@ jones
 jonnycake
 jordans
 jorum
+jorums
 joseph
 josephs
 joshers
@@ -29575,6 +29596,7 @@ lastings
 lastly
 lasts
 lat
+latakias
 latches
 latching
 lateener
@@ -30660,6 +30682,7 @@ lomentums
 lonelily
 lonelinesses
 lonesome
+lonesomely
 longan
 longanimity
 longe
@@ -34132,6 +34155,7 @@ muggiest
 mugging
 muggurs
 mughal
+mughals
 mugwump
 muhly
 mujahedin
@@ -36202,6 +36226,7 @@ obtuser
 obtusity
 obverse
 obversely
+obversion
 obversions
 obverting
 obviated
@@ -37922,6 +37947,7 @@ overstride
 overstudies
 overstuff
 oversubtle
+oversuds
 oversupplied
 oversupply
 oversups
@@ -39348,6 +39374,7 @@ perdures
 perduring
 perdy
 peregrin
+peregrination
 peregrine
 peremptory
 perennated
@@ -42158,6 +42185,7 @@ preventers
 preventing
 preventive
 preventiveness
+preventives
 previewer
 previews
 previous
@@ -44576,6 +44604,7 @@ rectors
 rectory
 rectrix
 recumbencies
+recumbent
 recuperate
 recuperated
 recurred
@@ -49373,6 +49402,7 @@ shivers
 shivitis
 shlemiels
 shlepp
+shlepping
 shlimazels
 shlub
 shlump
@@ -50153,6 +50183,7 @@ slatier
 slatiest
 slatiness
 slatinesses
+slattings
 slaughterer
 slaughterers
 slaughterhouse
@@ -52733,6 +52764,7 @@ stylizer
 stylizers
 stylizing
 stylography
+stylolite
 stylolites
 stylopodia
 stylopodium
@@ -54666,6 +54698,7 @@ tees
 teeterboards
 teetering
 teethe
+teethings
 teethridge
 teetotalism
 teetotalists
@@ -58802,6 +58835,7 @@ unwished
 unwishing
 unwitted
 unwooed
+unworkability
 unworldlier
 unworldliness
 unworldlinesses
@@ -61832,6 +61866,7 @@ zoosporangium
 zoosterol
 zootomic
 zootomist
+zootomists
 zootomy
 zooxanthella
 zoril
