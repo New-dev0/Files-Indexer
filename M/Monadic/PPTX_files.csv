@@ -1,0 +1,10 @@
+[PPT] A taste of Haskell,https://www.cs.tufts.edu/comp/150PLD/Notes/IOMonad.pptx
+[PPT] instance Monad Hope where return = Ok (>>=) = ifOKthen eval3 :: Exp,https://www.cs.tufts.edu/~kfisher/cs242/2008/Slides/Monads.pptx
+[PPT] Monadic Predicate Logic is Decidable - Homepages,http://homepages.abdn.ac.uk/k.vdeemter/pages/teaching/CS3518/abdn.only/MonadicFOPL.pptx
+[PPT] P505: Programming Languages Lecture 1: Intro; Caml; functional ...,https://courses.cs.washington.edu/courses/csep505/16au/lec8.pptx
+[PPT] Monads & Gonads - Douglas Crockford,http://crockford.com/pp/monad.pptx
+[PPT] Monadic Testing Finding consumer attitude - Conjointly,https://conjointly.com/assets/202102_Conjoint.ly_Case_Study_Monadic_Testing.pptx
+[PPT] Data Abstraction and State Abstract Data Types (3.7) State/Data ...,"https://www.cs.rpi.edu/academics/courses/fall19/proglang/handouts/08/CTM2.8.3,3.7.pptx"
+[PPT] Strict and Lazy Semantics for Effects: Layering Monads ... - Ross Tate,https://rosstate.org/publications/sleffects/sleffects-icfp18.pptx
+[PPT] dyadic predicates Minimal Relationality - TerpConnect,http://terpconnect.umd.edu/~pietro/research/slides/RutgersHigginbothamWorkshop.pptx
+[PPT] I see a monad in your future,https://nwcpp.org/talks/2014/ISeeAMonadInYourFuture.pptx
