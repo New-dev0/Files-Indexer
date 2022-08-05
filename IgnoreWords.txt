@@ -367,6 +367,7 @@ acridine
 acridines
 acridities
 acridnesses
+acriflavine
 acrimonies
 acrimoniously
 acrimoniousness
@@ -1248,6 +1249,7 @@ allosteries
 allostery
 allotetraploid
 allotetraploids
+allotment
 allotments
 allotrope
 allotropic
@@ -1547,6 +1549,7 @@ amorphousness
 amortise
 amortizes
 amortizing
+amotions
 amoxicillin
 amoxycillins
 amp
@@ -2277,6 +2280,7 @@ antler
 antlered
 antonymous
 antra
+antsiness
 antsinesses
 anuran
 anuretic
@@ -5567,6 +5571,7 @@ blubbers
 bludgeon
 bludgeoned
 bludgeoning
+bludgeons
 bluebeards
 bluebeats
 bluebell
@@ -7005,6 +7010,7 @@ cabalism
 cabalist
 caballero
 caballeros
+cabanas
 cabbages
 cabbageworms
 cabbaging
@@ -8616,6 +8622,7 @@ chemotaxis
 chemotaxonomies
 chemotaxonomist
 chemotherapist
+chemotropism
 chemurgies
 chenopod
 cheongsams
@@ -8999,6 +9006,7 @@ chronologies
 chronologists
 chronometer
 chronometrical
+chronometries
 chronon
 chrysolite
 chrysomelids
@@ -10277,6 +10285,7 @@ communicator
 communique
 communises
 communisms
+communistically
 community
 communizations
 communizes
@@ -10754,6 +10763,7 @@ consciously
 consciousnesses
 conscripted
 conscriptions
+consecrates
 consecrators
 consecratory
 consecutive
@@ -12738,6 +12748,7 @@ cytostatics
 cytotaxonomic
 cytotaxonomy
 cytotoxins
+czardom
 czarevna
 czarina
 czarisms
@@ -16455,6 +16466,7 @@ eastward
 easygoing
 easygoingness
 eaten
+eater
 eatery
 eath
 eats
@@ -18679,6 +18691,7 @@ exportability
 exportable
 exported
 exporter
+exporting
 exposals
 expose
 exposed
@@ -18897,6 +18910,7 @@ fabulously
 faceable
 facecloths
 facelessnesses
+facelifted
 faceplate
 facer
 facers
@@ -20672,6 +20686,7 @@ forklifted
 forklifting
 forlornest
 forlornness
+forlornnesses
 formabilities
 formable
 formaldehyde
@@ -21748,6 +21763,7 @@ gear
 gearbox
 gearcase
 gearcases
+gearchange
 geared
 gearless
 gears
@@ -23201,6 +23217,7 @@ guanos
 guaranies
 guaranty
 guarddog
+guarded
 guardedly
 guardedness
 guarder
@@ -26069,6 +26086,7 @@ impedes
 impellent
 impelling
 impellors
+impels
 impend
 impenetrable
 impenitent
@@ -33011,6 +33029,7 @@ mischarging
 mischiefs
 mischievous
 mischievously
+mischosen
 miscited
 misclaimed
 misclasses
@@ -33446,6 +33465,7 @@ moil
 moiler
 moiling
 moire
+moist
 moisteners
 moistening
 moistens
@@ -37958,6 +37978,7 @@ ovoid
 ovoidal
 ovoidals
 ovoli
+ovonic
 ovonics
 ovotestis
 ovoviviparous
@@ -40667,6 +40688,7 @@ plicated
 plicately
 plications
 plies
+plighting
 plimsol
 plimsolls
 plimsols
@@ -44585,6 +44607,7 @@ redeliveries
 redelivering
 redemands
 redemption
+redemptive
 redenies
 redenying
 redeployed
@@ -45647,6 +45670,7 @@ reprocessing
 reproducer
 reproducibles
 reproducing
+reproductive
 reproductives
 reprogrammable
 reprogrammed
@@ -45655,6 +45679,7 @@ reproofs
 reprove
 reprovers
 reptile
+reptilia
 reptilian
 reptilium
 republicanize
@@ -47314,6 +47339,7 @@ saggered
 saggers
 saggiest
 sagier
+sagittal
 sagittally
 sagos
 saguaro
@@ -48248,6 +48274,7 @@ scubas
 scudding
 scuffed
 scuffer
+scuffers
 scuffing
 scuffle
 scufflers
@@ -48433,6 +48460,7 @@ security
 sedan
 sedate
 sedates
+sedatest
 sedations
 sedative
 sederunt
@@ -51848,6 +51876,7 @@ standardly
 standbys
 standdowns
 standing
+standish
 standoffish
 standoffishness
 standoffs
@@ -53508,6 +53537,7 @@ superreal
 superrealisms
 superromantic
 supersalesmen
+supersaturation
 superscribes
 superscripts
 supersecrecies
@@ -55519,6 +55549,7 @@ timorously
 timpani
 timpanum
 tinamou
+tinct
 tincted
 tincting
 tinctorial
@@ -56367,6 +56398,7 @@ trenail
 trencher
 trenchers
 trenching
+trendier
 trendies
 trendiest
 trendiness
@@ -58137,6 +58169,7 @@ uniparentally
 uniparous
 unipod
 unipods
+unipolar
 unipotent
 unique
 uniquely
@@ -58536,6 +58569,7 @@ unslick
 unslings
 unslung
 unsmiling
+unsmoothed
 unsnagged
 unsnap
 unsnapped
@@ -61560,6 +61594,7 @@ youngster
 youngsters
 younker
 youpon
+your
 yous
 youthen
 youthful
