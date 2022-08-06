@@ -745,6 +745,7 @@ affaires
 affectabilities
 affectability
 affectable
+affectation
 affectations
 affecters
 affecting
@@ -5625,6 +5626,7 @@ bloodstains
 bloodstock
 bloodstone
 bloodstones
+bloodstream
 bloodstreams
 bloodsucker
 bloomers
@@ -7145,6 +7147,7 @@ cabestros
 cabezone
 cabezones
 cabinetry
+cabinetworks
 cabining
 cabinmate
 cabins
@@ -9657,6 +9660,7 @@ clomb
 clomiphene
 clomping
 clomps
+clonal
 clone
 cloned
 clonicity
@@ -10925,6 +10929,7 @@ connects
 conner
 connexions
 conning
+conniption
 conniver
 connivers
 connives
@@ -11710,6 +11715,7 @@ coulometry
 coulters
 coumaric
 councillor
+councilmanic
 councilor
 councilwomen
 counselee
@@ -14451,6 +14457,7 @@ detoxify
 detract
 detractively
 detractor
+detractors
 detraining
 detrainments
 detribalized
@@ -19156,6 +19163,7 @@ extravehicular
 extraversion
 extravert
 extraverts
+extremeness
 extremenesses
 extremism
 extremisms
@@ -21865,6 +21873,7 @@ galyak
 gam
 gamb
 gambado
+gambas
 gambesons
 gambias
 gambier
@@ -25227,6 +25236,7 @@ homaging
 homburgs
 homebodies
 homebody
+homeboys
 homebrews
 homebuilt
 homecomers
@@ -25592,6 +25602,7 @@ houseguest
 household
 housekeep
 housekeepings
+houseling
 houselling
 housemaids
 housemaster
@@ -25602,6 +25613,7 @@ houserooms
 housesits
 housetop
 housewares
+housewarming
 housewifely
 houseworks
 housing
@@ -29088,6 +29100,7 @@ kalsomines
 kalyptras
 kamaainas
 kamacite
+kame
 kamikazes
 kanaka
 kanes
@@ -31329,6 +31342,7 @@ lubricative
 lubricator
 lubricious
 lubriciously
+lubricities
 lubricity
 lucarne
 lucarnes
@@ -32381,6 +32395,7 @@ mayor
 mayoralty
 mayorship
 mayos
+maypole
 mayvins
 mayweed
 mayweeds
@@ -33374,6 +33389,7 @@ miners
 mineshafts
 minestrone
 minestrones
+minesweeping
 mingiest
 mingle
 mingler
@@ -34366,6 +34382,7 @@ morays
 morbid
 morbidity
 morbidnesses
+morbilli
 mordancy
 mordanted
 mordantly
@@ -36154,6 +36171,7 @@ nonnatives
 nonnatural
 nonnaval
 nonnecessities
+nonnegotiable
 nonneural
 nonnoble
 nonnovel
@@ -36810,6 +36828,7 @@ oceloid
 ocelot
 ochered
 ochering
+ochers
 ochlocracies
 ochre
 ochreae
@@ -37040,6 +37059,7 @@ omits
 omitted
 omitters
 omitting
+ommatidia
 omniarchs
 omnibuses
 omnicompetences
@@ -40013,6 +40033,7 @@ perforator
 performability
 performances
 performatives
+performing
 perfumer
 perfumeries
 perfumery
@@ -41467,6 +41488,7 @@ pneumococcal
 pneumonitis
 poaceous
 poach
+poachable
 poachers
 poaches
 poachier
@@ -41615,6 +41637,7 @@ politics
 polka
 pollack
 pollard
+polled
 pollees
 pollen
 pollenate
@@ -42823,6 +42846,7 @@ prevalent
 prevaluing
 prevaricate
 prevaricated
+prevaricating
 prevarication
 prevarications
 prevaricator
@@ -44960,6 +44984,7 @@ reavers
 reaving
 reavows
 reawakening
+reawaking
 reawoke
 reawoken
 reb
@@ -46441,6 +46466,7 @@ reptilia
 reptilian
 reptilium
 republicanize
+republicanized
 republicanizes
 republicanizing
 republicans
@@ -49357,6 +49383,7 @@ seismometries
 seisms
 seitans
 seizers
+seizins
 selamliks
 selcouth
 select
@@ -50441,6 +50468,7 @@ sideshows
 sideslipping
 sideslips
 sidestepped
+sidestepping
 sidesteps
 sidestrokes
 sideswiping
@@ -51894,6 +51922,7 @@ sourer
 sourest
 sourly
 sournesses
+sourpusses
 sourwoods
 southbound
 southeaster
@@ -54641,6 +54670,7 @@ swabbie
 swabbies
 swabby
 swacked
+swaddle
 swaddled
 swag
 swagers
@@ -57551,6 +57581,7 @@ tripolis
 tripos
 tripped
 tripper
+trippets
 tripping
 trips
 triptanes
@@ -60054,6 +60085,7 @@ vagus
 vailing
 vainest
 vainglories
+vaingloriously
 vainglory
 vair
 vakeel
@@ -60832,6 +60864,7 @@ vivaces
 vivaciousness
 vivaciousnesses
 vivaria
+vive
 viverrine
 viverrines
 vivid
@@ -61591,6 +61624,7 @@ wharfmasters
 wharve
 wharves
 whatchamacallit
+whatnots
 whatsises
 whatsoever
 wheals
@@ -61709,6 +61743,7 @@ whistlers
 whistlings
 white
 whitecomb
+whiteface
 whitefishes
 whiteflies
 whiteners
