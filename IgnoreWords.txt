@@ -62,6 +62,7 @@ absolutions
 absolutisms
 absolutist
 absolutists
+absolutive
 absolutized
 absolve
 absolved
@@ -2148,6 +2149,7 @@ antiliterate
 antilittering
 antilogarithms
 antilogs
+antilogy
 antilynching
 antimacassars
 antiman
@@ -2994,6 +2996,7 @@ aspartates
 aspect
 aspen
 aspens
+asperates
 aspergilla
 asperity
 aspers
@@ -3635,6 +3638,7 @@ axions
 axisymmetrical
 axisymmetry
 axites
+axled
 axles
 axonal
 axonemal
@@ -4528,6 +4532,7 @@ beetle
 beetlers
 beetling
 beetroots
+beeyards
 beezers
 befallen
 befell
@@ -5801,6 +5806,7 @@ boisterously
 boite
 boites
 bolas
+bold
 bolder
 boldfaced
 boldfaces
@@ -12458,6 +12464,7 @@ cultic
 cultigen
 cultishly
 cultishness
+cultist
 cultivated
 cultivation
 cultivator
@@ -15563,6 +15570,7 @@ dizenment
 dizenments
 dizzy
 dizzying
+djebels
 djellabahs
 djinn
 djinni
@@ -16556,6 +16564,7 @@ earthborn
 earthbound
 earthiest
 earthing
+earthlier
 earthlight
 earthlights
 earthlike
@@ -17834,6 +17843,7 @@ epidemiologic
 epidemiologies
 epidemiologists
 epidermic
+epidermoid
 epiderms
 epidote
 epifaunas
@@ -18505,6 +18515,7 @@ exarchate
 exarchates
 exarchy
 exasperate
+exasperatedly
 excavate
 excavator
 exceeder
@@ -19061,6 +19072,7 @@ facilely
 facilitate
 facilitated
 facilitation
+facilitations
 facilitators
 facilities
 facing
@@ -19660,6 +19672,7 @@ feuilleton
 feuilletonism
 feuilletonist
 fever
+fevering
 feverish
 feverwort
 feverworts
@@ -21955,6 +21968,7 @@ gelidly
 gelidness
 gelidnesses
 gelignite
+gelled
 gelling
 gels
 gelsemia
@@ -24581,6 +24595,7 @@ heroicize
 heroics
 heroin
 heroine
+heroinism
 heroins
 heroized
 heronries
@@ -24853,6 +24868,7 @@ hive
 hiveless
 hives
 ho
+hoar
 hoarders
 hoardings
 hoards
@@ -29957,6 +29973,7 @@ leapt
 learier
 learn
 learnedly
+learns
 lears
 leas
 leasebacks
@@ -30624,6 +30641,7 @@ lithophytes
 lithos
 lithospheres
 lithospheric
+lithotomies
 lithotomy
 lithotripter
 litigate
@@ -33075,6 +33093,7 @@ minestrone
 minestrones
 mingiest
 mingle
+mingler
 miniaturists
 miniaturization
 minibar
@@ -36930,6 +36949,7 @@ orbit
 orbiters
 orbs
 orby
+orc
 orchard
 orchards
 orchestral
@@ -38258,6 +38278,7 @@ ovule
 ovum
 owed
 owlets
+owlish
 owls
 owner
 ownership
@@ -40093,6 +40114,7 @@ phoenixes
 phonal
 phonate
 phonated
+phonating
 phonation
 phonations
 phone
@@ -41524,6 +41546,7 @@ positing
 position
 positions
 positive
+positivenesses
 positiver
 positivistic
 positron
@@ -42157,6 +42180,7 @@ premierships
 premigration
 premillenarian
 premillenarians
+premises
 premising
 premiums
 premixt
@@ -43545,6 +43569,7 @@ pyelonephritic
 pyelonephritis
 pyemia
 pyes
+pygidial
 pygmean
 pygmy
 pyins
@@ -47079,6 +47104,7 @@ rocketed
 rocketeer
 rocketeers
 rocketers
+rocketries
 rockfall
 rockhopper
 rockhounding
@@ -48478,6 +48504,7 @@ scoutcraft
 scouter
 scouther
 scouthering
+scouths
 scoutings
 scoutmaster
 scoutmasters
@@ -51913,6 +51940,7 @@ sporozoites
 sported
 sporter
 sporters
+sportinesses
 sportively
 sportiveness
 sportivenesses
@@ -53948,6 +53976,7 @@ superthriller
 supertight
 supertonic
 supervened
+supervenient
 supervirtuoso
 supervirtuosos
 supervising
@@ -55047,6 +55076,7 @@ telekinesis
 telekinetic
 telemark
 telemarketers
+telemen
 telemetrically
 telencephala
 teleological
@@ -55512,6 +55542,7 @@ thermalization
 thermel
 thermic
 thermidor
+thermidors
 thermionic
 thermionics
 thermistor
@@ -56281,6 +56312,7 @@ tornillo
 toro
 toroid
 torosity
+toroth
 torpedoes
 torpid
 torpor
@@ -56633,6 +56665,7 @@ transmigratory
 transmissivity
 transmissometer
 transmits
+transmittance
 transmittances
 transmitted
 transmitters
@@ -57727,6 +57760,7 @@ ultrasmall
 ultrasmart
 ultrasmooth
 ultrasonically
+ultrasound
 ultrasounds
 ultravacua
 ultravacuum
@@ -58600,6 +58634,7 @@ universalize
 universalizing
 universally
 universalness
+universals
 universities
 university
 univocals
