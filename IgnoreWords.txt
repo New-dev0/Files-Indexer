@@ -327,6 +327,7 @@ acidnesses
 acidophil
 acidophils
 acidosis
+acids
 acidulated
 acidulates
 acidulation
@@ -4953,6 +4954,7 @@ bewig
 bewigging
 bewilder
 bewilderedly
+bewilderedness
 bewildering
 bewitcheries
 bewitchery
@@ -5411,6 +5413,7 @@ blackcocks
 blackdamp
 blackened
 blackening
+blacker
 blackface
 blackfaces
 blackfish
@@ -6420,6 +6423,7 @@ briards
 briarroots
 briarwoods
 bribee
+bribes
 brickbat
 brickfield
 brickier
@@ -6627,6 +6631,7 @@ brr
 brucellas
 brucelloses
 brucine
+brugh
 bruising
 bruited
 bruiters
@@ -7422,6 +7427,7 @@ campanology
 camped
 campesinos
 campfire
+campfires
 camphenes
 camphire
 camphol
@@ -8660,6 +8666,7 @@ chaulmoogra
 chaulmoogras
 chaunts
 chaussures
+chauvinistic
 chawbacon
 chawbacons
 chawer
@@ -11580,6 +11587,7 @@ coruscant
 coruscated
 coruscates
 corvette
+corvid
 corvids
 corvinas
 corybantes
@@ -14772,6 +14780,7 @@ digested
 digestibility
 digestible
 digestions
+digestive
 digests
 digital
 digitalins
@@ -17816,6 +17825,7 @@ entomb
 entombment
 entomofaunae
 entomologist
+entomophagous
 entomophily
 entophytes
 entourage
@@ -23822,6 +23832,7 @@ hackers
 hacking
 hacklier
 hackling
+hackmatacks
 hackneys
 hacks
 hacksawing
@@ -23983,6 +23994,7 @@ halterbreaking
 haltering
 haltless
 halva
+halvahs
 halve
 ham
 hamadryad
@@ -25442,6 +25454,7 @@ horselaughs
 horselike
 horsemanships
 horsemint
+horseplay
 horsepowers
 horsepox
 horsepoxes
@@ -27189,6 +27202,7 @@ infestant
 infesters
 infesting
 infidelic
+infielder
 infields
 infighters
 infightings
@@ -28215,6 +28229,7 @@ ipecacuanha
 ipsilaterally
 irade
 irascible
+irascibleness
 irasciblenesses
 irascibly
 ire
@@ -29235,6 +29250,7 @@ khaddar
 khadi
 khafs
 khalif
+khalifate
 khalifs
 khans
 khazen
@@ -30435,6 +30451,7 @@ levitates
 levitation
 levo
 levogyre
+levulin
 levulose
 levying
 lewd
@@ -31122,6 +31139,7 @@ looms
 loon
 looney
 loonie
+loonies
 looninesses
 loons
 loony
@@ -36355,6 +36373,7 @@ notated
 notating
 notation
 notchers
+notching
 note
 notebooks
 noteworthiness
@@ -38744,6 +38763,7 @@ paisley
 pajama
 pajamaed
 pakeha
+pakoras
 pal
 palace
 paladin
@@ -39839,6 +39859,7 @@ penultima
 penultimately
 penults
 penumbra
+penumbras
 penurious
 penuriousnesses
 peones
@@ -39913,6 +39934,7 @@ perdures
 perduring
 perdy
 peregrin
+peregrinating
 peregrination
 peregrine
 peremptory
@@ -41001,6 +41023,7 @@ pistes
 pistol
 pistole
 pistoling
+pistolled
 pistolling
 pistols
 pistons
@@ -43437,6 +43460,7 @@ proxies
 proximal
 proximally
 pruderies
+prudes
 prudishly
 prune
 prunella
@@ -44736,6 +44760,7 @@ reaccredit
 reaccreditation
 reaccused
 reaccusing
+reach
 reacquaint
 reacquainting
 reacquaints
@@ -47159,6 +47184,7 @@ rhomboidal
 rhombus
 rhonchi
 rhumb
+rhumbaing
 rhumbas
 rhymer
 rhymers
@@ -51867,6 +51893,7 @@ spaes
 spaghettilike
 spaghettis
 spahis
+spaldeen
 spall
 spallable
 spaller
@@ -54163,6 +54190,7 @@ suntanned
 suntans
 sunups
 sunwards
+sunwise
 supe
 superably
 superabound
@@ -55681,6 +55709,7 @@ tepidity
 tepoy
 tepoys
 terabyte
+teraflop
 terahertzes
 terai
 teraohm
@@ -56120,6 +56149,7 @@ threaper
 threaps
 threated
 threatener
+threatening
 threateningly
 threatens
 threating
@@ -59934,6 +59964,7 @@ vaccinators
 vaccinia
 vacillate
 vacillates
+vacillating
 vacillations
 vacillators
 vacuoles
@@ -60552,6 +60583,7 @@ villanelle
 villas
 villatic
 villeins
+villosity
 villous
 villously
 vimen
@@ -61655,6 +61687,7 @@ whomping
 whomsoever
 whoofing
 whoop
+whooped
 whoopee
 whoopees
 whooper
@@ -61724,6 +61757,7 @@ widthways
 widthwise
 wield
 wieldable
+wielder
 wielders
 wieldiest
 wienerwursts
@@ -61923,6 +61957,7 @@ witches
 witchgrass
 witchgrasses
 witchhoods
+witchier
 witching
 witchings
 witchweeds
