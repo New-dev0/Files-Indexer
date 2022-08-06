@@ -1931,6 +1931,7 @@ announcing
 annoying
 annualize
 annualizing
+annuitant
 annuitants
 annuity
 annularly
@@ -3475,6 +3476,7 @@ autographies
 autography
 autogyro
 autoharps
+autohypnoses
 autohypnosis
 autohypnotic
 autoimmune
@@ -4993,6 +4995,7 @@ bichromated
 bicipital
 bickered
 bicomponent
+biconcavities
 biconditional
 biconditionals
 bicorne
@@ -9173,6 +9176,7 @@ cigarettes
 cigarillos
 cigars
 cigs
+ciguatera
 ciguateras
 cilantro
 cilia
@@ -9967,6 +9971,7 @@ coffining
 coffret
 coffs
 cofinanced
+cofounded
 cofounder
 cofounders
 cofounding
@@ -10725,6 +10730,7 @@ conflux
 confluxes
 conform
 conformance
+conformation
 conformer
 conformism
 conformist
@@ -11819,6 +11825,7 @@ cowlicks
 cowlings
 cowmen
 cowpat
+cowpunchers
 cowriting
 cowrote
 cows
@@ -13086,6 +13093,7 @@ dashikis
 dashing
 dashis
 dashpot
+dassie
 dastard
 dastardliness
 databanks
@@ -13407,6 +13415,7 @@ decommissions
 decompensated
 decomposability
 decompose
+decomposed
 decomposers
 decomposes
 decompound
@@ -14009,6 +14018,7 @@ deplaning
 deplete
 depletions
 deplore
+deplored
 deplorer
 deploring
 deployable
@@ -16619,6 +16629,7 @@ easting
 eastward
 easygoing
 easygoingness
+eat
 eaten
 eater
 eatery
@@ -17456,6 +17467,7 @@ endurably
 endurances
 endure
 endured
+endurer
 enduring
 enduro
 endwise
@@ -17984,6 +17996,7 @@ equestriennes
 equicaloric
 equidistant
 equidistantly
+equids
 equilateral
 equilibrants
 equilibrated
@@ -18348,6 +18361,7 @@ eudemons
 eudiometer
 eudiometers
 eudiometric
+eugenias
 eugenicist
 eugenics
 eugeosyncline
@@ -21249,6 +21263,7 @@ frizzle
 frizzles
 frizzlier
 frogeyed
+frogfishes
 frogged
 froggier
 froggiest
@@ -25326,6 +25341,7 @@ hosels
 hosen
 hosepipe
 hoses
+hosey
 hoseys
 hosiers
 hospice
@@ -27281,6 +27297,7 @@ innumerably
 innumeracies
 innumeracy
 innumerate
+inoculate
 inoculation
 inoculum
 inodorous
@@ -27832,6 +27849,7 @@ intituling
 intolerantly
 intombing
 intonating
+intonational
 intoning
 intoxications
 intracardial
@@ -28789,6 +28807,7 @@ junkyards
 junto
 jupes
 jupons
+jurels
 juridic
 jurisconsult
 jurisprudences
@@ -30136,6 +30155,7 @@ leisureliness
 leisurelinesses
 leitmotifs
 leitmotiv
+leitmotivs
 lek
 lekked
 leks
@@ -33457,6 +33477,7 @@ misinterred
 misinterring
 misjoin
 misjoinders
+misjudgment
 miskeep
 misknowledge
 misknown
@@ -33666,6 +33687,7 @@ mitigatory
 mitises
 mitochondrion
 mitogenicities
+mitomycins
 mitosis
 mitres
 mitrewort
@@ -34730,6 +34752,7 @@ mycelian
 mycelium
 myceloid
 mycetomas
+mycetomata
 mycetomatous
 mycetozoans
 mycobacterial
@@ -35854,6 +35877,7 @@ nonintimidating
 nonintoxicants
 nonintoxicating
 nonintrusive
+noninvolvements
 nonirrigated
 nonirritant
 nonirritating
@@ -38441,6 +38465,7 @@ packeted
 packets
 packing
 packinghouse
+packinghouses
 packman
 packmen
 packness
@@ -38538,6 +38563,7 @@ palaestra
 palaestrae
 palankeen
 palanquins
+palatabilities
 palatable
 palatably
 palatal
@@ -42964,6 +42990,7 @@ proportionate
 proportionated
 proportionates
 proportions
+proposed
 proposers
 propositi
 proposition
@@ -43114,6 +43141,7 @@ protonemata
 protonematal
 protons
 protopathic
+protophloems
 protoplast
 protoplasts
 protopods
@@ -45256,6 +45284,7 @@ refights
 refigure
 refigured
 refiled
+refiling
 refillable
 refilled
 refilling
@@ -45410,6 +45439,7 @@ regionalisms
 regionalists
 regionalized
 regionalizes
+regionally
 regionals
 regisseurs
 registered
@@ -50987,6 +51017,7 @@ snawing
 snazzier
 snazziest
 sneaker
+sneakiest
 sneakiness
 sneaky
 sneap
@@ -53719,6 +53750,7 @@ suitors
 sukiyakis
 sukkah
 sulcal
+sulci
 suldan
 sulfadiazine
 sulfas
@@ -55352,6 +55384,7 @@ tenuity
 tenuousnesses
 tenurial
 tenuto
+tenutos
 teopans
 teosintes
 tepals
@@ -57702,6 +57735,7 @@ tympany
 tynes
 typal
 typeable
+typebar
 typebars
 typecast
 typecasts
@@ -60652,6 +60686,7 @@ wagged
 waggery
 wagging
 waggishnesses
+waggled
 waggles
 waggon
 waging
