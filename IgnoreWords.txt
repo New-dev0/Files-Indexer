@@ -1540,6 +1540,7 @@ amnesia
 amnesiac
 amnia
 amnio
+amniocenteses
 amniocentesis
 amnions
 amniotic
@@ -2191,6 +2192,7 @@ antipersonnel
 antiperspirants
 antipesticide
 antiphlogistic
+antiphonal
 antiphons
 antiplague
 antiplaque
@@ -2715,6 +2717,7 @@ archrival
 archrivals
 arcing
 arctic
+arctics
 arcuations
 ardeb
 ardebs
@@ -6653,6 +6656,7 @@ buckbrushes
 bucket
 bucketfuls
 bucketing
+buckeyes
 buckled
 buckler
 bucklering
@@ -6912,6 +6916,7 @@ busbar
 busboys
 bushbucks
 busheler
+bushelled
 busheller
 bushelling
 bushelmen
@@ -7690,6 +7695,7 @@ carcinogen
 carcinogenic
 carcinoid
 carcinosarcoma
+cardamon
 cardamums
 cardboards
 cardcase
@@ -9521,6 +9527,7 @@ clingy
 clinical
 clinically
 clinician
+clinker
 clinkering
 clinks
 clinometers
@@ -9849,6 +9856,7 @@ cocreator
 cocreators
 cocultivate
 cocultivated
+cocultivating
 cocultivation
 coculture
 cocultures
@@ -12417,6 +12425,7 @@ cudgelling
 cudgels
 cuds
 cue
+cued
 cueing
 cuestas
 cuff
@@ -13924,6 +13933,7 @@ densified
 densifying
 densitometers
 density
+dental
 dentalia
 dentalities
 dentality
@@ -17482,6 +17492,7 @@ enfranchisement
 eng
 engage
 engaged
+engagements
 engagers
 engagingly
 engarlands
@@ -22568,6 +22579,7 @@ glottises
 glout
 glouted
 glove
+gloved
 glover
 glowered
 glowering
@@ -24232,6 +24244,7 @@ headless
 headlessness
 headliners
 headlock
+headlong
 headman
 headmasters
 headmasterships
@@ -24281,6 +24294,7 @@ heartfelt
 heartfree
 hearths
 heartinesses
+heartlessly
 heartlessness
 heartlessnesses
 heartsickness
@@ -25589,6 +25603,7 @@ hyalines
 hyalins
 hyalites
 hyaloplasms
+hybrid
 hybridisms
 hybridizations
 hybridizer
@@ -29650,6 +29665,7 @@ lancinates
 lancinating
 landaulet
 landaulets
+lander
 landfill
 landgraves
 landholder
@@ -31919,6 +31935,7 @@ martyrologists
 martyrology
 marvel
 marvelously
+marvelousnesses
 masalas
 masas
 mascaraing
@@ -33526,6 +33543,7 @@ misregistration
 misrelated
 misrelates
 misrelies
+misremembered
 misrenders
 misreported
 misreporting
@@ -34750,6 +34768,7 @@ myopically
 myoses
 myositis
 myosote
+myosotes
 myosotises
 myotic
 myotonias
@@ -36511,6 +36530,7 @@ oceanaut
 oceangoing
 oceanic
 oceanographies
+oceanography
 oceloid
 ocelot
 ochered
@@ -37116,6 +37136,7 @@ orra
 orrices
 orrises
 orrisroot
+orthicon
 ortho
 orthocenters
 orthoclase
@@ -38366,6 +38387,7 @@ oysters
 ozalid
 ozocerite
 ozokerite
+ozonation
 ozonations
 ozonide
 ozonides
@@ -40318,6 +40340,7 @@ phycoerythrins
 phycologists
 phycomycetes
 phyla
+phylacteries
 phylactery
 phylar
 phylaxis
@@ -40899,6 +40922,7 @@ platan
 platane
 platanes
 plate
+plateau
 plateaus
 platelet
 platemaking
@@ -43292,6 +43316,7 @@ puccoons
 puces
 pucker
 puckered
+puckerier
 puckeriest
 puckish
 puckishness
@@ -44879,6 +44904,7 @@ recriminating
 recriminatory
 recrosses
 recrossing
+recrown
 recrowning
 recrowns
 recrudescences
@@ -45172,6 +45198,7 @@ reexecuted
 reexhibiting
 reexhibits
 reexpelling
+reexperienced
 reexplain
 reexplaining
 reexplains
@@ -45417,6 +45444,7 @@ regulator
 reguline
 regulus
 regurgitated
+regurgitating
 rehab
 rehabilitant
 rehabilitants
@@ -47199,6 +47227,7 @@ romanizes
 romano
 romanos
 romans
+romanticise
 romanticises
 romanticism
 romanticisms
@@ -51402,6 +51431,7 @@ sororally
 sorority
 soroses
 sorosises
+sorptions
 sorptive
 sorrel
 sorrels
@@ -55776,6 +55806,7 @@ thromboembolic
 thromboembolism
 thromboplastic
 thromboplastins
+thrombosis
 thromboxane
 thromboxanes
 thrombus
@@ -57932,6 +57963,7 @@ unballasted
 unbandage
 unbanded
 unbanning
+unbaptized
 unbarbed
 unbarred
 unbasted
@@ -58887,6 +58919,7 @@ unquiet
 unquiets
 unquoted
 unraised
+unraveled
 unraveling
 unravelled
 unravels
@@ -60312,6 +60345,7 @@ vitiate
 vitiates
 vitiations
 vitiator
+viticulturally
 viticulture
 viticulturists
 vitiligos
@@ -60831,6 +60865,7 @@ waterhens
 waterily
 waterinesses
 waterlily
+waterlines
 waterlogging
 waterlogs
 watermark
