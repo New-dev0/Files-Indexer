@@ -1802,6 +1802,7 @@ anenst
 anergias
 anesthesia
 anesthetically
+anesthetics
 anesthetist
 anesthetizing
 anestrous
@@ -4352,6 +4353,7 @@ beadings
 beadle
 beadledoms
 beadles
+beadman
 beadroll
 beadrolls
 beadwork
@@ -8218,6 +8220,7 @@ celeriacs
 celery
 celeste
 celestially
+celestine
 celestite
 celestites
 celiacs
@@ -12165,6 +12168,7 @@ cricked
 cricketer
 cricketers
 cricoid
+cries
 criminalistics
 criminalities
 criminalization
@@ -14306,6 +14310,7 @@ desperatenesses
 despicable
 despised
 despisements
+despiser
 despising
 despites
 despiting
@@ -18892,6 +18897,7 @@ expatriate
 expatriates
 expatriating
 expatriatisms
+expectably
 expectative
 expectedness
 expecters
@@ -20577,6 +20583,7 @@ fluoridations
 fluorimeter
 fluorimetric
 fluorimetries
+fluorinate
 fluorinates
 fluorination
 fluorine
@@ -21111,6 +21118,7 @@ fourpenny
 fourplex
 fourplexes
 fourragere
+fourteen
 fourteener
 fourteeners
 fourth
@@ -24884,6 +24892,7 @@ hid
 hidable
 hidden
 hiddenites
+hiddenly
 hiddenness
 hiddennesses
 hidebound
@@ -27702,6 +27711,7 @@ interdependence
 interdepending
 interdepends
 interdict
+interdicting
 interdictory
 interdiffuse
 interdiffused
@@ -28187,6 +28197,7 @@ iolites
 ion
 ionicity
 ioniums
+ionizations
 ionogenic
 ionomers
 ionone
@@ -30419,6 +30430,7 @@ levies
 levigate
 levigated
 levigating
+levirate
 levitates
 levitation
 levo
@@ -31658,6 +31670,7 @@ mainsheet
 mainsheets
 mainspring
 mainsprings
+maintainable
 maintaining
 maintenance
 maintops
@@ -31837,6 +31850,7 @@ maneuverability
 maneuverable
 manful
 manfulness
+manfulnesses
 mangabeys
 mangaby
 manganese
@@ -32128,6 +32142,7 @@ masjids
 maskable
 masker
 masklike
+masochist
 masochistically
 masochists
 masoned
@@ -32320,6 +32335,7 @@ mazed
 mazedly
 mazednesses
 mazelike
+mazer
 mazes
 mazier
 mazily
@@ -32898,6 +32914,7 @@ meticulosities
 meticulosity
 metis
 metisse
+metonymical
 metonymies
 metope
 metopes
@@ -36761,6 +36778,7 @@ octoploids
 octopodan
 octopods
 octosyllabics
+octosyllables
 octothorp
 octrois
 octupled
@@ -37047,6 +37065,7 @@ oozed
 ooziest
 oozy
 opacified
+opacifier
 opacifies
 opalescent
 opalescently
@@ -37591,6 +37610,7 @@ outermost
 outerwear
 outfabling
 outface
+outfast
 outfawned
 outfawning
 outfeast
@@ -41600,6 +41620,7 @@ polyhedroses
 polyhistor
 polyimides
 polylysine
+polylysines
 polymathies
 polymaths
 polymathy
@@ -45692,6 +45713,7 @@ regroove
 regrooves
 regrooving
 regroups
+regrowths
 regular
 regularities
 regularization
@@ -46416,6 +46438,7 @@ reroute
 reroutes
 rerun
 res
+resaddle
 resaddling
 resailed
 resails
@@ -47382,6 +47405,7 @@ roadhouses
 roadies
 roadkill
 roadkills
+roadrunners
 roadsteads
 roadster
 roadways
@@ -48451,6 +48475,7 @@ savannah
 savannas
 savants
 savarin
+savarins
 save
 saved
 savers
@@ -49620,6 +49645,7 @@ servers
 service
 serviceable
 serviceably
+serviceberries
 services
 servicing
 servitudes
@@ -49650,6 +49676,7 @@ settlings
 settlors
 seventh
 sevenths
+seventies
 seventieths
 severable
 several
@@ -49931,6 +49958,7 @@ sheol
 shepherd
 shepherded
 shepherdesses
+shepherding
 shepherds
 sheqalim
 sheqel
@@ -52421,6 +52449,7 @@ squalene
 squalid
 squalider
 squalidly
+squallier
 squalling
 squallish
 squalor
@@ -53260,6 +53289,7 @@ stressor
 stressors
 stretch
 stretchability
+stretchering
 stretchers
 stretchiest
 stretchy
@@ -53783,6 +53813,7 @@ subskill
 subsocial
 subsocieties
 subsociety
+subsoiled
 subsoiler
 subsoiling
 subsolar
@@ -54737,6 +54768,7 @@ sylvine
 sylvines
 sylvinites
 sylvites
+symbionts
 symbiosis
 symbolise
 symbolised
@@ -55559,6 +55591,7 @@ tenaciously
 tenaculum
 tenaculums
 tenailles
+tenant
 tenantable
 tenantries
 tenantry
@@ -61598,6 +61631,7 @@ whittles
 whittret
 whity
 whiz
+whizzed
 whizzer
 whizzers
 whizzing
@@ -61623,6 +61657,7 @@ whoofing
 whoop
 whoopee
 whoopees
+whooper
 whoopers
 whoops
 whoosh
