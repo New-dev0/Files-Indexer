@@ -488,6 +488,7 @@ addles
 addling
 addressable
 addressed
+addressee
 addresses
 addressing
 adduced
@@ -1064,6 +1065,7 @@ alation
 albacore
 albedo
 albedos
+albeit
 albertite
 albicores
 albinisms
@@ -2203,6 +2205,7 @@ antiperspirants
 antipesticide
 antiphlogistic
 antiphonal
+antiphonals
 antiphons
 antiplague
 antiplaque
@@ -3206,6 +3209,7 @@ astrophysics
 astute
 astuteness
 astutenesses
+aswirl
 asylums
 asymptotically
 asynapsis
@@ -5249,6 +5253,7 @@ biparous
 bipartisanisms
 biparty
 biped
+bipedalism
 bipedalisms
 bipedalities
 biphasic
@@ -6373,6 +6378,7 @@ breaths
 breathtaking
 breathy
 breccias
+brecciates
 brecciation
 brecciations
 brechan
@@ -6682,6 +6688,7 @@ buckbeans
 buckboard
 buckbrush
 buckbrushes
+buckers
 bucket
 bucketfuls
 bucketing
@@ -7146,6 +7153,7 @@ cachou
 cachucha
 cachuchas
 caciquisms
+cackle
 cacklers
 cacodemon
 cacodemons
@@ -7598,6 +7606,7 @@ capitols
 capitularies
 capitulary
 capitulations
+capitulum
 capless
 caplet
 caplin
@@ -9801,6 +9810,7 @@ cobaltic
 cobaltite
 cobaltous
 cobber
+cobble
 cobbles
 cobblestones
 cobbling
@@ -11475,6 +11485,7 @@ corotation
 corporals
 corporation
 corporative
+corporativism
 corporator
 corporators
 corporeal
@@ -12516,6 +12527,7 @@ culminant
 culminate
 culminations
 culming
+culms
 culotte
 culpa
 culpabilities
@@ -13558,6 +13570,7 @@ defamation
 defamations
 defamer
 defaming
+defang
 defat
 defatted
 default
@@ -13704,6 +13717,7 @@ deglamorizing
 degradations
 degradative
 degrade
+degraded
 degradedly
 degrader
 degranulation
@@ -14031,6 +14045,7 @@ deoxidizers
 deoxidizes
 deoxygenate
 deoxygenates
+deoxygenations
 departing
 department
 departmentally
@@ -14172,6 +14187,7 @@ derivatizing
 deriver
 derm
 dermas
+dermatogens
 dermatoglyphics
 dermatological
 dermatome
@@ -16998,6 +17014,7 @@ electors
 electresses
 electret
 electrical
+electrically
 electricians
 electrified
 electrifying
@@ -17120,6 +17137,7 @@ eluviating
 eluviation
 elver
 elvishly
+elytrum
 em
 emaciate
 emaciations
@@ -17772,6 +17790,7 @@ entities
 entitle
 entitled
 entitlements
+entitling
 entity
 entoblast
 entoblasts
@@ -17983,6 +18002,7 @@ epineurium
 epipelagic
 epiphanic
 epiphenomenon
+epiphyseal
 epiphyses
 epiphysis
 epiphyte
@@ -20965,6 +20985,7 @@ formalize
 formalizer
 formalnesses
 formals
+format
 formats
 formatters
 formee
@@ -21562,6 +21583,7 @@ furcations
 furcraea
 furcraeas
 furcula
+furiously
 furler
 furlers
 furless
@@ -21727,6 +21749,7 @@ galingale
 galiots
 galipot
 galipots
+galivant
 galivanted
 galivants
 gall
@@ -22672,6 +22695,7 @@ glottides
 glottises
 glout
 glouted
+glouts
 glove
 gloved
 glover
@@ -25983,6 +26007,7 @@ hypothecation
 hypothecs
 hypothermias
 hypothesizing
+hypothetically
 hypothyroidism
 hypotonicity
 hypoxemia
@@ -26680,6 +26705,7 @@ incapably
 incapacitate
 incapacitation
 incapacitations
+incapacity
 incarcerate
 incarceration
 incarcerations
@@ -26946,6 +26972,7 @@ indignly
 indigoids
 indigotin
 indinavir
+indirect
 indirectly
 indirectness
 indiscernible
@@ -27066,6 +27093,7 @@ inertias
 inertnesses
 inerts
 inescapably
+inevitabilities
 inevitable
 inevitableness
 inevitably
@@ -29913,6 +29941,7 @@ lasagnes
 lascivious
 lasciviousness
 laserdiscs
+lashed
 lasher
 lashers
 lashes
@@ -31968,6 +31997,7 @@ mariachis
 mariculturists
 marijuanas
 marimba
+marimbist
 marimbists
 marina
 marinade
@@ -32834,6 +32864,7 @@ methoxides
 methoxy
 methoxyflurane
 methoxyl
+methylals
 methylamines
 methylase
 methylated
@@ -32994,6 +33025,7 @@ micropyles
 microradiograph
 microscopical
 microscopies
+microsecond
 microseism
 microseismic
 microsomal
@@ -35911,6 +35943,7 @@ nonfattening
 nonfatty
 nonfeasance
 nonfeminists
+nonfeudal
 nonfictions
 nonfigurative
 nonfilamentous
@@ -37105,6 +37138,7 @@ optoelectronic
 optometers
 optometry
 opts
+opulences
 opulencies
 opulency
 opuscula
@@ -40780,6 +40814,7 @@ pinang
 pinangs
 pinata
 pinballed
+pinballs
 pinch
 pinchbug
 pinchcock
@@ -41352,6 +41387,7 @@ poetess
 poeticism
 poeticize
 poetised
+poetiser
 poetises
 poetize
 poetized
@@ -41796,6 +41832,7 @@ postattack
 postaxial
 postbase
 postbellum
+postbox
 postcapitalist
 postcards
 postcava
@@ -42123,6 +42160,7 @@ preboil
 preboiled
 prebook
 prebound
+prebreakfast
 prebudgets
 prebuild
 prebuilds
@@ -44068,6 +44106,7 @@ quern
 querulous
 querulousness
 query
+querying
 questers
 question
 questionary
@@ -44921,6 +44960,7 @@ rechauffes
 recheat
 recheats
 rechecked
+rechews
 rechoosing
 rechose
 rechosen
@@ -46790,6 +46830,7 @@ retrials
 retributory
 retries
 retrievability
+retrimmed
 retro
 retroact
 retroacted
@@ -48121,6 +48162,7 @@ samsaras
 samshu
 samurai
 sanatorium
+sanatoriums
 sancta
 sanctification
 sanctifications
@@ -49654,6 +49696,7 @@ shaddock
 shaddocks
 shade
 shadeless
+shadoof
 shadoofs
 shadowbox
 shadowboxed
@@ -49901,6 +49944,7 @@ shiftless
 shiftlessly
 shiftlessnesses
 shikaree
+shikarees
 shikari
 shikseh
 shilingi
@@ -51516,6 +51560,7 @@ solutions
 solvate
 solves
 solvolytic
+somas
 somatic
 somatically
 somatological
@@ -51727,6 +51772,7 @@ sovran
 sovranty
 sowans
 sowbelly
+sowcar
 soybean
 soymilk
 soymilks
@@ -51917,6 +51963,7 @@ speirs
 speise
 speises
 speiss
+speisses
 spelaean
 spelean
 speleologist
@@ -52259,6 +52306,7 @@ sprightliest
 sprightliness
 sprightlinesses
 sprigs
+sprigtail
 springalds
 springals
 springboard
@@ -52487,6 +52535,7 @@ stainers
 stainlessly
 staircases
 stairheads
+stairless
 stairlike
 stairs
 stairstepping
@@ -54056,6 +54105,7 @@ superably
 superabound
 superabsorbent
 superabsorbents
+superabundance
 superabundances
 superabundant
 superachievers
@@ -54389,6 +54439,7 @@ surveyor
 survivers
 survivorship
 susceptibility
+susceptibleness
 susceptibly
 susceptiveness
 suslik
@@ -60425,6 +60476,7 @@ vilest
 vilification
 vilifier
 vilifiers
+villadom
 villagers
 villages
 villainesses
@@ -61732,6 +61784,7 @@ wining
 winked
 winking
 winkles
+winkling
 winnable
 winner
 winners
