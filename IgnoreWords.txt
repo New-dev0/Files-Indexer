@@ -321,6 +321,7 @@ acidimeter
 acidimetries
 acidities
 acidity
+acidness
 acidnesses
 acidophil
 acidophils
@@ -1242,6 +1243,7 @@ allobar
 allocatable
 allocates
 allocation
+allocations
 allocators
 allocutions
 allods
@@ -4465,6 +4467,7 @@ bedridden
 bedrivel
 bedriveled
 bedriveling
+bedrocks
 bedroom
 bedrugged
 beds
@@ -5521,6 +5524,7 @@ blissfully
 blissing
 blister
 blistering
+blisters
 blithe
 blithely
 blithering
@@ -7954,6 +7958,7 @@ catamite
 catamounts
 cataphylls
 cataplexies
+cataplexy
 catapult
 catapulted
 catapulting
@@ -8314,6 +8319,7 @@ cerusites
 cerussite
 cervelases
 cervelats
+cervices
 cervicitises
 cervid
 cervix
@@ -9096,6 +9102,7 @@ chugalugs
 chugger
 chukka
 chukkas
+chum
 chummier
 chump
 chumped
@@ -10511,6 +10518,7 @@ comrade
 comradeliness
 comradery
 comradeships
+comsymp
 comsymps
 conative
 conatus
@@ -10857,6 +10865,7 @@ consequential
 consequentially
 consequently
 consequents
+conservancy
 conservational
 conservatism
 conservatisms
@@ -12284,6 +12293,7 @@ crumpets
 crumply
 crumps
 cruncher
+crunches
 crunchinesses
 crunching
 crunode
@@ -18153,6 +18163,7 @@ establishable
 established
 establishment
 estaminets
+estancia
 estated
 estates
 estating
@@ -19600,6 +19611,7 @@ ferule
 feruled
 fervencies
 fervour
+fes
 fesses
 fesswise
 festally
@@ -21688,6 +21700,7 @@ gangbanged
 gangbusters
 ganged
 gangers
+gangland
 ganglial
 ganglier
 gangliest
@@ -23800,6 +23813,7 @@ hamauls
 hambones
 hamboning
 hamburgers
+hame
 hames
 hammada
 hammams
@@ -26580,6 +26594,7 @@ inclemencies
 inclement
 inclined
 incliner
+inclining
 inclinometers
 inclip
 inclipping
@@ -31566,6 +31581,7 @@ mamzer
 mamzers
 man
 mana
+manacle
 manacling
 manage
 manageable
@@ -31763,6 +31779,7 @@ margays
 margented
 marginal
 marginalities
+marginalization
 marginalizes
 marginalizing
 marginals
@@ -31810,6 +31827,7 @@ markhoors
 markings
 markka
 markswoman
+marled
 marlinespikes
 marlins
 marlstone
@@ -32293,6 +32311,7 @@ melding
 melee
 melilot
 melilots
+meliorate
 meliorating
 meliorations
 meliorism
@@ -37360,6 +37379,7 @@ outgnawed
 outgo
 outgoes
 outgoingnesses
+outgrins
 outgrosses
 outguesses
 outguessing
@@ -41966,6 +41986,7 @@ prediabetic
 predicaments
 predicate
 predicates
+predicative
 predictable
 predictably
 predictive
@@ -43036,6 +43057,7 @@ protuberantly
 protyls
 proudest
 proudful
+proudnesses
 provenance
 provenances
 provenders
@@ -43073,6 +43095,7 @@ proxemic
 proxies
 proximal
 proximally
+pruderies
 prudishly
 prune
 prunella
@@ -45047,6 +45070,7 @@ reels
 reembarked
 reembrace
 reembraces
+reembroidering
 reemerged
 reemerges
 reemerging
@@ -47029,6 +47053,7 @@ roasted
 roaster
 roasters
 roasts
+robalo
 robbed
 robberies
 robed
@@ -48939,6 +48964,7 @@ semicured
 semicylindrical
 semideaf
 semideifying
+semidesert
 semideserts
 semidiameter
 semidiameters
@@ -50091,6 +50117,7 @@ simonies
 simooms
 simoons
 simp
+simpatico
 simpered
 simplemindedly
 simpleness
@@ -51826,9 +51853,11 @@ spoken
 spokes
 spokesmanships
 spokespeople
+spokespersons
 spokeswomen
 spoking
 spoliations
+spondaics
 spondylitises
 sponge
 sponges
@@ -53336,6 +53365,7 @@ subscience
 subscriber
 subscribing
 subscriptions
+subsea
 subsecretary
 subsectors
 subsegments
@@ -55193,6 +55223,7 @@ tenths
 tentless
 tentmaker
 tentmakers
+tentoria
 tentorial
 tentorium
 tents
@@ -56559,6 +56590,7 @@ transfiguring
 transfixt
 transform
 transformation
+transformers
 transfuse
 transfused
 transfusions
@@ -57042,6 +57074,7 @@ trochilus
 trochlea
 trochlears
 trochleas
+trochoid
 trochophore
 trocked
 trocking
@@ -57391,6 +57424,7 @@ turners
 turning
 turnips
 turnoffs
+turnon
 turnons
 turnouts
 turnovers
@@ -57515,6 +57549,7 @@ twister
 twistier
 twistings
 twitched
+twitches
 twitchiest
 twitchy
 twitted
