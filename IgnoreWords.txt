@@ -5403,6 +5403,7 @@ blabber
 blabbing
 blackamoor
 blackberries
+blackbird
 blackbirder
 blackbirders
 blackbirds
@@ -7566,6 +7567,7 @@ cantilevers
 cantillating
 cantillations
 cantina
+canton
 cantonment
 cantor
 cantors
@@ -8177,6 +8179,7 @@ cavalier
 cavaliered
 cavalierly
 cavaliers
+cavalletti
 cavalry
 cavatina
 cavatine
@@ -8361,6 +8364,7 @@ cercaria
 cercarians
 cercises
 cere
+cereal
 cerebella
 cerebellum
 cerebrate
@@ -8381,6 +8385,7 @@ cerite
 ceriums
 cermets
 cero
+cerous
 certainer
 certainest
 certifiable
@@ -9519,6 +9524,7 @@ claystone
 cleanabilities
 cleanable
 cleaned
+cleaners
 cleaning
 cleanly
 cleannesses
@@ -10056,6 +10062,7 @@ cognates
 cognations
 cognises
 cognitional
+cognizable
 cognizably
 cognizance
 cognizances
@@ -10247,6 +10254,7 @@ colluviums
 collywobbles
 colobomata
 colobus
+colocated
 colocates
 colocynths
 cologarithm
@@ -11459,6 +11467,7 @@ cornbraiding
 cornbraids
 cornbread
 corncakes
+corncrakes
 corncribs
 corned
 cornelian
@@ -11671,6 +11680,7 @@ cotransporting
 cottager
 cottages
 cottagey
+cottar
 cottered
 cottier
 cottiers
@@ -14291,6 +14301,7 @@ desiccating
 desiccation
 desiccative
 desiccators
+desiderate
 desiderated
 desiderating
 desiderative
@@ -14316,9 +14327,11 @@ desmids
 desmoid
 desmoids
 desmosomes
+desolateness
 desolaters
 desolators
 desorb
+desorbed
 despatch
 desperate
 desperateness
@@ -14972,6 +14985,7 @@ diplopic
 diplopods
 dipnets
 dipnetted
+dipnoan
 dipnoans
 dipodic
 dipped
@@ -18105,6 +18119,7 @@ equanimities
 equanimity
 equates
 equation
+equational
 equerry
 equestrian
 equestrians
@@ -19649,6 +19664,7 @@ feigner
 feigning
 feigns
 feijoa
+feijoas
 feint
 feinted
 feirie
@@ -21279,6 +21295,7 @@ freelances
 freely
 freemartins
 freemason
+freemasonries
 freemasonry
 freemen
 freenesses
@@ -30883,6 +30900,7 @@ lithographers
 lithographing
 lithographs
 lithoidal
+lithology
 lithophanes
 lithophytes
 lithos
@@ -32022,6 +32040,7 @@ marantas
 maras
 maraschino
 maraschinos
+marasmus
 marasmuses
 marathoner
 marathonings
@@ -35096,6 +35115,7 @@ naivete
 naivetes
 naiveties
 nakedly
+nakedness
 nala
 nalas
 naloxone
@@ -37594,6 +37614,7 @@ outcastes
 outcatches
 outcatching
 outcaught
+outcaviling
 outcavilling
 outcavils
 outcharges
@@ -38290,6 +38311,7 @@ overingenious
 overingenuity
 overinsistent
 overinvestments
+overissuance
 overissuances
 overissue
 overissued
@@ -39421,6 +39443,7 @@ pasteurizing
 pasticheurs
 pasties
 pastiest
+pastille
 pastilles
 pastils
 pastinas
@@ -40135,6 +40158,7 @@ persalt
 persalts
 persecute
 persecutees
+persecutes
 persecuting
 persecution
 persecutive
@@ -42720,6 +42744,7 @@ pressruns
 pressureless
 pressurised
 pressurization
+pressurizations
 pressurize
 prestamped
 prester
@@ -47238,6 +47263,7 @@ ribbands
 ribbers
 ribbing
 ribboning
+ribbony
 ribgrass
 ribiers
 riblet
@@ -47690,6 +47716,7 @@ rotors
 rototill
 rototillers
 rotted
+rottenest
 rotting
 rottweilers
 rotunda
@@ -47839,6 +47866,7 @@ rudiments
 ruefully
 ruefulness
 rues
+rufescent
 ruffed
 ruffes
 ruffian
@@ -49353,6 +49381,7 @@ selenologist
 selfdom
 selfed
 selfheals
+selfishness
 selfless
 selfnesses
 selfs
@@ -49511,6 +49540,7 @@ sensationalists
 sensationalized
 sensations
 sense
+senseful
 sensei
 senseis
 senselessness
@@ -49908,6 +49938,7 @@ sharpers
 sharpest
 sharpie
 sharpies
+sharply
 sharpness
 sharpy
 shashlik
@@ -51475,6 +51506,7 @@ soapers
 soapiness
 soapinesses
 soapstones
+soapsuds
 soapsudsy
 soapy
 soar
@@ -53186,6 +53218,7 @@ stopped
 stoppered
 stopping
 stoppled
+stoppling
 stopwatch
 storehouse
 storekeeper
@@ -58382,6 +58415,7 @@ unballasted
 unbandage
 unbanded
 unbanning
+unbans
 unbaptized
 unbarbed
 unbarred
@@ -61998,6 +62032,7 @@ witchings
 witchweeds
 witchy
 wited
+wites
 withdrawable
 withdrawal
 withdrawing
