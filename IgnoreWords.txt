@@ -1496,6 +1496,7 @@ amercing
 americium
 amesace
 amethyst
+ami
 amia
 amiabilities
 amiable
@@ -2436,6 +2437,7 @@ apomictic
 apomicts
 apomorphines
 aponeuroses
+apophases
 apophasis
 apophthegm
 apophthegms
@@ -3655,6 +3657,7 @@ axles
 axonal
 axonemal
 axonemes
+axones
 axoplasm
 axseed
 ay
@@ -3949,6 +3952,7 @@ baloney
 baloneys
 bals
 balsamed
+balsams
 balustrades
 bamboo
 bamboos
@@ -10651,6 +10655,7 @@ condemning
 condensate
 condensations
 condenser
+condescend
 condescends
 condescensions
 condign
@@ -11123,6 +11128,7 @@ contrivances
 contrive
 contrived
 contrivers
+controllability
 controlled
 controlment
 controls
@@ -12013,6 +12019,7 @@ creaseless
 creatable
 created
 creatinines
+creationisms
 creationist
 creationists
 creatively
@@ -14067,6 +14074,7 @@ deposes
 depositaries
 depositary
 depositing
+depositor
 depositors
 depository
 depot
@@ -15801,6 +15809,7 @@ donne
 donned
 donnerd
 donnert
+donnickers
 donnikers
 donning
 donor
@@ -18017,6 +18026,7 @@ equals
 equanimities
 equanimity
 equates
+equation
 equerry
 equestrian
 equestrians
@@ -22535,6 +22545,7 @@ gleesome
 gleetiest
 glegnesses
 gleization
+glengarries
 glengarry
 gley
 gliadin
@@ -24332,6 +24343,7 @@ health
 healthiness
 heaper
 heaps
+heapy
 hearers
 hearings
 hearkeners
@@ -28711,6 +28723,7 @@ jollied
 jollier
 jollifies
 jollily
+jolliness
 jollinesses
 jollyboats
 jolt
@@ -29189,6 +29202,7 @@ kidding
 kiddo
 kiddoes
 kidlike
+kidnapees
 kidnaper
 kidnappees
 kidnappers
@@ -29538,6 +29552,7 @@ lab
 labanotations
 labarums
 labdanum
+labella
 labelled
 labellers
 labellum
@@ -30289,6 +30304,7 @@ leucites
 leucitic
 leucocidins
 leucocyte
+leucocytes
 leucoplasts
 leuds
 leukaemias
@@ -31721,6 +31737,7 @@ manchineel
 mandamus
 mandamused
 mandamuses
+mandamusing
 mandarinic
 mandating
 mandator
@@ -31822,6 +31839,7 @@ manoeuvres
 manoeuvring
 manometries
 manos
+manpack
 manque
 manropes
 mans
@@ -35018,6 +35036,7 @@ nasal
 nasalised
 nasalizations
 nasalized
+nascencies
 nascency
 nascent
 naseberry
@@ -37002,6 +37021,7 @@ opportunely
 opportunenesses
 opportunistic
 opportunists
+opportunity
 opposabilities
 opposable
 opposeless
@@ -38503,6 +38523,7 @@ pacification
 pacificators
 pacificists
 pacified
+pacifier
 pacifistically
 packabilities
 package
@@ -38758,6 +38779,7 @@ pams
 panaceas
 panaches
 panatella
+panbroiled
 pancaked
 pancetta
 panchax
@@ -38960,6 +38982,7 @@ paralyzing
 paramagnet
 paramagnetic
 paramattas
+paramedical
 parament
 paraments
 parameterizing
@@ -39752,6 +39775,7 @@ percoids
 percolate
 percolated
 percussing
+percussion
 percussively
 percussiveness
 percussor
@@ -39875,6 +39899,7 @@ peritoneally
 peritoneums
 peritonitis
 peritonitises
+peritrichous
 peritrichously
 peritrichs
 periwig
@@ -39906,6 +39931,7 @@ permuting
 perniciousness
 pernod
 pernods
+perorated
 perorating
 perorator
 perorators
@@ -40297,6 +40323,7 @@ phoronids
 phosgene
 phosphatase
 phosphates
+phosphatide
 phosphatides
 phosphatidyl
 phosphatization
@@ -40753,6 +40780,7 @@ pinocle
 pinocytoses
 pinocytosis
 pinon
+pinot
 pinpoint
 pinpointing
 pinpoints
@@ -45541,6 +45569,7 @@ regrinds
 regroom
 regroomed
 regrooms
+regroove
 regrooves
 regrooving
 regroups
@@ -48663,6 +48692,7 @@ scotched
 scotching
 scotia
 scotopia
+scotties
 scour
 scoured
 scourer
@@ -52303,6 +52333,7 @@ squidded
 squidding
 squiggles
 squillae
+squinching
 squinnied
 squinnier
 squinny
@@ -57797,6 +57828,7 @@ twoonies
 twosome
 twosomes
 tycoon
+tye
 tyin
 tying
 tyke
@@ -58413,6 +58445,7 @@ underestimated
 underestimates
 underestimating
 underestimation
+underexposed
 underexposes
 underexposure
 underexposures
@@ -59564,6 +59597,7 @@ upthrust
 upthrusted
 upthrusting
 uptightness
+uptilted
 uptosses
 uptossing
 uptown
@@ -60991,6 +61025,7 @@ watchfulnesses
 watchmaker
 watchman
 watchword
+water
 waterages
 waterbeds
 waterborne
