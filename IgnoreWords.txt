@@ -1560,6 +1560,7 @@ amoebas
 amoeboid
 amoks
 amoles
+among
 amongst
 amontillados
 amorettos
@@ -4001,6 +4002,7 @@ bandoliers
 bandoneon
 bandoneons
 bandores
+bands
 bandsaws
 bandshells
 bandwidth
@@ -6002,6 +6004,7 @@ boon
 boondoggler
 boondoggles
 boondoggling
+boonies
 boonless
 boons
 boor
@@ -6851,6 +6854,7 @@ bumelia
 bumfuzzle
 bumfuzzles
 bumkin
+bummalo
 bumper
 bumpering
 bumpinesses
@@ -7430,6 +7434,7 @@ camisa
 camlet
 cammies
 camomile
+camorrista
 camorristi
 camouflageable
 camouflaged
@@ -7481,6 +7486,7 @@ cancroid
 candelabras
 candelabrum
 candent
+candescences
 candidature
 candider
 candidnesses
@@ -8661,6 +8667,7 @@ chastities
 chatchke
 chateaubriand
 chateaus
+chatelain
 chatelaine
 chatelains
 chatoyants
@@ -8948,6 +8955,7 @@ chiromancers
 chiromancies
 chironomids
 chiropodist
+chiropody
 chiropractic
 chiropractics
 chiropterans
@@ -9793,6 +9801,7 @@ coagulase
 coagulate
 coagulating
 coalas
+coalers
 coalescences
 coalesces
 coalescing
@@ -9800,6 +9809,7 @@ coalhole
 coaliest
 coalified
 coalifying
+coalitionists
 coalitions
 coalpits
 coalsacks
@@ -11098,6 +11108,7 @@ containership
 containerships
 containing
 containments
+contaminant
 contaminates
 contaminating
 conte
@@ -12117,6 +12128,7 @@ credentialling
 credenzas
 credible
 creditability
+creditable
 creditableness
 creds
 creed
@@ -15061,6 +15073,7 @@ disaccharidase
 disaccord
 disaccorded
 disaccording
+disaccords
 disaccustoms
 disadvantages
 disaffected
@@ -15081,6 +15094,7 @@ disambiguated
 disambiguations
 disannulling
 disappearance
+disappearances
 disappearing
 disappears
 disappoint
@@ -15602,6 +15616,7 @@ distinguishes
 distome
 distorter
 distorters
+distorting
 distorts
 distracts
 distrained
@@ -17712,6 +17727,7 @@ enkindles
 enlargements
 enlarger
 enlarges
+enlighten
 enlightenments
 enlightens
 enlisters
@@ -20352,6 +20368,7 @@ flatliners
 flatlong
 flatmate
 flatnesses
+flatted
 flatten
 flattens
 flatter
@@ -21912,6 +21929,7 @@ gametophytic
 gamine
 gaminess
 gaminesses
+gaming
 gamins
 gammed
 gammier
@@ -23254,6 +23272,7 @@ graspingnesses
 grasshopper
 grasshoppers
 grassier
+grassland
 grasslands
 grassless
 grassplots
@@ -25211,6 +25230,7 @@ hollaed
 hollaing
 hollering
 hollies
+holloed
 holloes
 holloing
 hollooed
@@ -26158,6 +26178,7 @@ iconicity
 iconoclasm
 iconoclasms
 iconoclastic
+iconographies
 iconoscopes
 icons
 icosahedra
@@ -26504,6 +26525,7 @@ impartments
 imparts
 impassable
 impassibilities
+impassible
 impassibly
 impassion
 impassioned
@@ -28878,6 +28900,7 @@ joist
 joisted
 jojoba
 jojobas
+joke
 joked
 jokes
 jokester
@@ -29158,6 +29181,7 @@ katakana
 katas
 katcinas
 katharsis
+kathode
 kathodes
 katydid
 kauries
@@ -31052,6 +31076,7 @@ localizing
 locater
 location
 locator
+loch
 lochia
 lock
 lockdown
@@ -32086,6 +32111,7 @@ marauds
 maravedis
 marbelize
 marble
+marbleising
 marbleize
 marbleizing
 marblers
@@ -42253,6 +42279,7 @@ prances
 pranging
 prangs
 prankishly
+prankishness
 prankster
 praos
 praseodymium
@@ -42626,6 +42653,7 @@ premoistened
 premold
 premolded
 premonish
+premonitions
 premoral
 premunitions
 premycotic
@@ -44948,6 +44976,7 @@ reappear
 reappearing
 reapplications
 reapplied
+reapplies
 reapply
 reappointing
 reappointments
@@ -46157,6 +46186,7 @@ remeasurement
 remeasuring
 remediated
 remediation
+remediless
 remeeting
 remelts
 remember
@@ -51150,6 +51180,7 @@ sloganeered
 sloganize
 sloganizes
 slogger
+sloggers
 slogs
 slojd
 sloop
@@ -52012,6 +52043,7 @@ spackles
 spaded
 spadework
 spadeworks
+spading
 spadixes
 spaed
 spaeings
@@ -52666,6 +52698,7 @@ squirearchy
 squires
 squiring
 squirish
+squirmer
 squirmers
 squirmiest
 squirreling
@@ -60684,6 +60717,7 @@ vied
 viewdata
 viewer
 viewiest
+viewpoints
 viewy
 vigil
 vigilante
@@ -61667,6 +61701,7 @@ wheatear
 wheatlands
 wheatless
 wheedled
+wheedler
 wheedles
 wheelbarrow
 wheelbarrowing
