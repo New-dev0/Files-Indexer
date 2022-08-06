@@ -1194,6 +1194,7 @@ alkyd
 alkyds
 alkyl
 alkylating
+alkyls
 allanite
 allantoides
 allantoids
@@ -5702,6 +5703,7 @@ bob
 bobberies
 bobbers
 bobbery
+bobbin
 bobble
 bobbles
 bobeches
@@ -6712,6 +6714,7 @@ bulgers
 bulges
 bulgiest
 bulging
+bulgingly
 bulgur
 bulimia
 bulkage
@@ -7221,6 +7224,7 @@ caldarium
 caldera
 caleches
 calefactories
+calefactory
 calendared
 calendars
 calendered
@@ -8310,6 +8314,7 @@ cerusites
 cerussite
 cervelases
 cervelats
+cervicitises
 cervid
 cervix
 cesarian
@@ -9158,6 +9163,7 @@ cinchonic
 cinderous
 cine
 cinema
+cinematheque
 cinematheques
 cinematic
 cinematizing
@@ -9319,6 +9325,7 @@ clairvoyance
 clam
 clambakes
 clamberer
+clamlike
 clammers
 clammier
 clammily
@@ -9941,6 +9948,7 @@ cogged
 cogitable
 cogitated
 cogitates
+cogitator
 cognac
 cognate
 cognately
@@ -11894,6 +11902,7 @@ craping
 crapola
 crapped
 crappers
+crappie
 crappiest
 crapping
 craps
@@ -12158,6 +12167,7 @@ croppers
 croppie
 cropping
 crops
+croquet
 croqueted
 croqueting
 croquets
@@ -16321,6 +16331,7 @@ dummkopfs
 dummying
 dumortierite
 dump
+dumpcart
 dumped
 dumper
 dumpiest
@@ -18598,6 +18609,7 @@ exemplum
 exempted
 exemption
 exemptions
+exemptive
 exempts
 exenterated
 exenterates
@@ -23271,6 +23283,7 @@ groveless
 grovelingly
 grovellers
 grow
+growing
 growl
 growlers
 growliest
@@ -24884,6 +24897,7 @@ hoggers
 hogget
 hoggets
 hogging
+hogmanay
 hogmanes
 hogmenay
 hogmenays
@@ -25931,6 +25945,7 @@ idol
 idolater
 idolaters
 idolator
+idolatries
 idolatrousness
 idolise
 idoliser
@@ -28932,6 +28947,7 @@ kerb
 kerbed
 kerbing
 kerbs
+kerchief
 kerchiefed
 kerchieves
 kerchoo
@@ -29598,6 +29614,7 @@ landladies
 landlady
 landlessnesses
 landloper
+landlopers
 landlordism
 landlubberly
 landlubbers
@@ -32472,6 +32489,7 @@ meshing
 meshugah
 meshugga
 mesically
+mesmeric
 mesmerise
 mesmerisms
 mesmerists
@@ -32638,6 +32656,7 @@ metisse
 metonymies
 metope
 metopes
+metralgias
 metrazols
 metre
 metred
@@ -35781,6 +35800,7 @@ nonmetropolitan
 nonmigrant
 nonminority
 nonmodern
+nonmonetarists
 nonmotility
 nonmunicipal
 nonmusics
@@ -36710,6 +36730,7 @@ onomatology
 onrush
 onside
 ontogeneses
+ontogenetically
 ontogenic
 ontological
 ontologically
@@ -37593,6 +37614,7 @@ outthieved
 outthinks
 outthought
 outthrobbed
+outthrow
 outthrown
 outtowering
 outtrade
@@ -40909,6 +40931,7 @@ pleomorphisms
 pleonasm
 pleonasms
 pleonastic
+pleonastically
 pleons
 pleopods
 plerocercoids
@@ -41807,6 +41830,7 @@ preamplifiers
 preanal
 preapplied
 preapplies
+preapplying
 preapprove
 prearm
 prearming
@@ -43138,6 +43162,7 @@ psychologists
 psychologize
 psychometrics
 psychometry
+psychoneuroses
 psychoneurotic
 psychoneurotics
 psychopathics
@@ -44777,6 +44802,7 @@ recreancy
 recreating
 recreative
 recrements
+recriminated
 recriminating
 recriminatory
 recrosses
@@ -47193,6 +47219,7 @@ rotates
 rotations
 rotatively
 rotators
+rotatory
 rotavirus
 rotaviruses
 rotches
@@ -50766,6 +50793,7 @@ smuggled
 smuggler
 smuggles
 smush
+smutch
 smutched
 smutchier
 smutchy
@@ -53100,6 +53128,7 @@ subdebs
 subdecision
 subdecisions
 subdepartment
+subdepot
 subdevelopment
 subdevelopments
 subdialect
@@ -54389,6 +54418,7 @@ synergy
 synfuels
 syngases
 syngenic
+synkarya
 synod
 synonymic
 synonymity
@@ -54554,6 +54584,7 @@ tailorbirds
 tailoring
 tailpiece
 tailplane
+tailplanes
 tails
 tailskids
 tailslide
@@ -55422,6 +55453,7 @@ theologically
 theologies
 theologised
 theologising
+theologizes
 theologue
 theomachies
 theomachy
@@ -57900,6 +57932,7 @@ unchangeable
 unchanging
 uncharges
 uncharging
+uncharming
 unchastenesses
 unchastest
 uncheckable
@@ -58828,6 +58861,7 @@ unruled
 unruliest
 unrumpled
 uns
+unsaddled
 unsaddles
 unsafeties
 unsafety
@@ -60847,6 +60881,7 @@ weens
 weensiest
 weensy
 weepies
+weepiness
 weepinesses
 weepingly
 weest
