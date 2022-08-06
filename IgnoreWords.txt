@@ -1070,6 +1070,7 @@ albinisms
 albinistic
 albino
 albinotic
+albite
 albites
 albizia
 album
@@ -1353,6 +1354,7 @@ alterability
 alterants
 altercated
 altercation
+alterers
 alterities
 alterity
 alternants
@@ -4737,6 +4739,7 @@ bendaying
 bends
 bendwise
 benedictions
+beneficences
 beneficent
 beneficently
 beneficial
@@ -4856,6 +4859,7 @@ besmiled
 besmiles
 besmirches
 besmoked
+besmokes
 besmoking
 besmoothed
 besmooths
@@ -6731,6 +6735,7 @@ bugle
 bugler
 bugling
 bugloss
+bugseed
 buhls
 buhlwork
 buhr
@@ -6990,6 +6995,7 @@ butene
 butenes
 buteonine
 buteonines
+butes
 butler
 butlery
 butte
@@ -8125,6 +8131,7 @@ causewayed
 causeways
 causey
 causeys
+caustically
 cauterants
 cauterization
 cautioners
@@ -8257,6 +8264,7 @@ centesimo
 centesimos
 centigrade
 centigram
+centile
 centiles
 centiliter
 centillion
@@ -11679,6 +11687,7 @@ counterclaiming
 countercoups
 counterculture
 countercultures
+countercurrent
 countercurrents
 countercyclical
 counterdemand
@@ -14793,6 +14802,7 @@ dimensioning
 dimer
 dimercaprols
 dimers
+dimeters
 dimethoate
 dimethoates
 dimethyls
@@ -21505,6 +21515,7 @@ fungal
 fungible
 fungibles
 fungicidal
+fungicide
 fungicides
 fungistatic
 fungistats
@@ -22224,6 +22235,7 @@ geotropisms
 gerah
 gerahs
 geranial
+geraniums
 gerbils
 gerents
 gerfalcons
@@ -22598,6 +22610,7 @@ globalize
 globalizes
 globbiest
 globefish
+globeflower
 globelike
 globoid
 globose
@@ -35018,6 +35031,7 @@ narcs
 nargileh
 nargilehs
 narine
+narking
 narks
 narky
 narrate
@@ -36543,6 +36557,7 @@ obsecrated
 obsecrates
 observables
 observably
+observances
 observantly
 observants
 observation
@@ -36620,6 +36635,7 @@ occulter
 occulters
 occultisms
 occultists
+occupant
 occupants
 occupational
 occupier
@@ -36870,6 +36886,7 @@ omits
 omitted
 omitters
 omitting
+omniarchs
 omnibuses
 omnicompetences
 omnicompetent
@@ -36959,6 +36976,7 @@ opacifies
 opalescent
 opalescently
 opalesces
+opaquely
 opaquer
 ope
 openable
@@ -37425,6 +37443,7 @@ outbrazened
 outbrazening
 outbreaks
 outbred
+outbreedings
 outbribe
 outbribes
 outbuilds
@@ -38102,6 +38121,7 @@ overhanded
 overhandling
 overhard
 overharvest
+overharvested
 overhate
 overhating
 overheads
@@ -38664,6 +38684,7 @@ paleographer
 paleographers
 paleographic
 paleographies
+paleography
 paleomagnetic
 paleomagnetism
 paleontologic
@@ -38679,6 +38700,7 @@ palette
 palettes
 palfrey
 palier
+paliest
 palikar
 palimonies
 palimpsest
@@ -40493,6 +40515,7 @@ phylogenetic
 phylogenies
 physed
 physiatries
+physiatrist
 physiatrists
 physiatry
 physicalisms
@@ -40705,6 +40728,7 @@ pillagers
 pillages
 pillarless
 pillars
+pillion
 pillions
 pillories
 pillorying
@@ -44844,6 +44868,7 @@ receded
 receipts
 received
 receiver
+receivers
 receiving
 recement
 recentrifuged
@@ -45222,6 +45247,7 @@ redshifted
 redshirts
 redskin
 redskins
+redtail
 redtop
 redtops
 redubbed
@@ -49552,6 +49578,7 @@ sexiest
 sexily
 sexinesses
 sexism
+sexisms
 sexist
 sexlessly
 sexlessness
@@ -49827,6 +49854,7 @@ shh
 shiatzu
 shibah
 shibboleths
+shied
 shiel
 shielders
 shields
@@ -52415,6 +52443,7 @@ staghounds
 stagier
 stagiest
 stagily
+stagnances
 stagnant
 stagnation
 stags
@@ -53326,6 +53355,7 @@ suably
 suasion
 suasivenesses
 suave
+suavely
 suaver
 suavities
 subacrid
@@ -54649,6 +54679,7 @@ synchronic
 synchronically
 synchronicities
 synchronies
+synchronised
 synchronises
 synchronism
 synchronize
@@ -55360,6 +55391,7 @@ tellurides
 tellurions
 tellurium
 tellurize
+tellurizing
 tellurometers
 tellurous
 telneting
@@ -56353,6 +56385,7 @@ toiled
 toilet
 toileted
 toiletries
+toils
 toilsomenesses
 toilworn
 toit
@@ -58177,6 +58210,7 @@ unbraces
 unbracing
 unbraided
 unbraids
+unbrakes
 unbreakable
 unbreech
 unbridle
@@ -60565,6 +60599,7 @@ vivisects
 vixens
 vizard
 vizcacha
+vizierate
 vizirate
 vizors
 vocabs
