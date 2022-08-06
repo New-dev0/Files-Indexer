@@ -1219,6 +1219,7 @@ allegros
 alleles
 allelic
 allelomorphs
+allelopathies
 allergen
 allergenic
 allergenicity
@@ -2385,6 +2386,7 @@ apically
 apiculate
 apiculi
 apicultural
+apiculture
 apicultures
 apiculturist
 apiologies
@@ -8147,6 +8149,7 @@ caziques
 ceanothus
 ceasefires
 ceaselessly
+ceasing
 cecity
 cecum
 cedarbird
@@ -8526,6 +8529,7 @@ charismas
 charismata
 charismatics
 charitable
+charitably
 charities
 chark
 charked
@@ -10945,6 +10949,7 @@ constitutively
 constrained
 constrainedly
 constraining
+constrains
 constrictive
 constrictor
 constricts
@@ -19324,6 +19329,7 @@ farmlands
 farmwife
 farmwives
 farmworker
+farmyards
 faro
 farolito
 faros
@@ -23838,6 +23844,7 @@ haloperidols
 halothanes
 halt
 halterbreaking
+haltering
 haltless
 halva
 halve
@@ -26008,6 +26015,7 @@ idoliser
 idolises
 idolization
 idolize
+idolizing
 idoneous
 ids
 idyll
@@ -27956,6 +27964,7 @@ inveteracy
 inveterate
 inveterately
 inviability
+inviably
 invigilated
 invigilates
 invigilation
@@ -28862,6 +28871,7 @@ kaliums
 kalmia
 kalong
 kalpa
+kalpak
 kalpas
 kalsomined
 kalsomines
@@ -28899,6 +28909,7 @@ karyotype
 karyotypically
 kasbahs
 kasha
+kasher
 kashering
 kashruth
 kashruths
@@ -28945,6 +28956,7 @@ keelages
 keelboat
 keelboats
 keelhale
+keelhales
 keelhaling
 keelhaul
 keelhauling
@@ -30066,6 +30078,7 @@ legalists
 legalizations
 legalize
 legalized
+legalizers
 legally
 legals
 legateship
@@ -32677,6 +32690,7 @@ meteoroidal
 meteorological
 meteorology
 meter
+meterage
 meterages
 metering
 metersticks
@@ -34565,6 +34579,7 @@ muntjac
 muon
 mura
 muraenids
+muralist
 muralists
 muralled
 murderesses
@@ -34973,6 +34988,7 @@ natures
 naturopathic
 naughtily
 naughtinesses
+naumachia
 naumachiae
 naumachies
 nauplius
@@ -36747,6 +36763,7 @@ omasum
 omber
 ombre
 ombres
+ombudsman
 ombudsmanship
 omegas
 omelet
@@ -38555,6 +38572,7 @@ paleomagnetism
 paleontologic
 paleosols
 paleozoic
+paleozoologist
 paleozoologists
 paler
 palestra
@@ -38818,6 +38836,7 @@ paraboloid
 paraboloids
 parachutes
 paracletes
+parader
 paradiddle
 paradigm
 paradisaic
@@ -39369,6 +39388,7 @@ pecky
 pecten
 pectic
 pectinaceous
+pectoral
 peculates
 peculating
 peculiarity
@@ -40745,6 +40765,7 @@ pistareens
 pistes
 pistol
 pistole
+pistoling
 pistolling
 pistols
 pistons
@@ -42394,6 +42415,7 @@ presignifying
 preslaughter
 preslices
 presoak
+presoaks
 presolves
 presort
 presorted
@@ -45371,6 +45393,7 @@ regeneracies
 regenerately
 regeneration
 regenerator
+regental
 reges
 reggae
 regicide
@@ -46881,6 +46904,7 @@ rhyta
 rhythmic
 rhythmized
 rhythmizing
+rhytidomes
 rhyton
 ria
 rialtos
@@ -50994,6 +51018,7 @@ sniffling
 sniffly
 sniffs
 sniffy
+snifters
 snigger
 sniggers
 sniggle
@@ -51344,6 +51369,7 @@ songfulness
 songless
 songlike
 songsmith
+songwriter
 songwriters
 sonic
 sonically
@@ -51923,6 +51949,7 @@ splitting
 splodged
 sploshes
 splotch
+splotched
 splotches
 splotching
 splotchy
@@ -51932,6 +51959,7 @@ spluttering
 splutters
 spodes
 spodosols
+spodumenes
 spoilage
 spoilsmen
 spoken
@@ -54592,6 +54620,7 @@ syzygal
 syzygies
 syzygy
 tab
+tabanid
 tabanids
 tabbises
 tabbouleh
@@ -54743,6 +54772,7 @@ talkies
 talking
 talky
 tall
+tallaged
 tallaisim
 tallied
 tallier
@@ -54884,6 +54914,7 @@ tarbush
 tarbushes
 tardigrade
 tardily
+tardive
 tardy
 tardyon
 tared
@@ -55066,6 +55097,7 @@ technicalize
 technicalizes
 technician
 technicians
+techniques
 technocrat
 technocratic
 technologic
@@ -56955,6 +56987,7 @@ trichinas
 trichinoses
 trichite
 trichites
+trichlorphon
 trichocyst
 trichogyne
 trichogynes
@@ -58882,6 +58915,7 @@ unpledged
 unpliable
 unpliant
 unplowed
+unplumbed
 unpointed
 unpoliced
 unpolitical
@@ -60444,6 +60478,7 @@ volatilizes
 volcanisms
 volcanized
 volcanizing
+volcano
 volcanological
 volcanologists
 voled
