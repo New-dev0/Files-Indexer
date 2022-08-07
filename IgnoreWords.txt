@@ -1264,6 +1264,7 @@ allocators
 allocutions
 allods
 allogeneic
+allografts
 allometries
 allomorph
 allonym
@@ -5915,6 +5916,7 @@ boites
 bolas
 bold
 bolder
+boldest
 boldfaced
 boldfaces
 boldfacing
@@ -8094,6 +8096,7 @@ catalo
 cataloes
 cataloged
 cataloger
+cataloguers
 catalogues
 cataloguing
 catalos
@@ -9522,6 +9525,7 @@ clamminesses
 clamming
 clamor
 clamoring
+clamorous
 clamorously
 clamors
 clamoured
@@ -10189,6 +10193,7 @@ cohobate
 cohobates
 cohobating
 coholder
+cohomological
 cohomologies
 cohomology
 cohorts
@@ -10446,6 +10451,7 @@ combatting
 combed
 combes
 combinable
+combination
 combinatorics
 combineds
 combiners
@@ -11074,6 +11080,7 @@ consequential
 consequentially
 consequently
 consequents
+conservancies
 conservancy
 conservational
 conservatism
@@ -14477,6 +14484,7 @@ despising
 despites
 despiting
 despoiler
+despoiling
 despoliation
 despondence
 despondent
@@ -25785,6 +25793,7 @@ hothousing
 hotline
 hotly
 hotness
+hotnesses
 hotpress
 hotrods
 hotshot
@@ -25852,6 +25861,7 @@ hoydened
 hoydening
 hoyle
 hryvnas
+huarachos
 hubbies
 hubbub
 hubby
@@ -27932,6 +27942,7 @@ intellectively
 intellectualist
 intelligencer
 intelligently
+intelligibility
 intemperance
 intemperately
 intend
@@ -27971,6 +27982,7 @@ intercept
 intercepters
 interceptions
 intercession
+intercessors
 interchange
 interchanger
 intercity
@@ -28774,6 +28786,7 @@ jacanas
 jacinthes
 jack
 jackanapes
+jackanapeses
 jackaroo
 jackasseries
 jackassery
@@ -28863,6 +28876,7 @@ japans
 japers
 japery
 japing
+japingly
 japonaiserie
 japonica
 japonicas
@@ -30578,6 +30592,7 @@ legerities
 leges
 legging
 leggins
+leggy
 legibilities
 legible
 legionary
@@ -30787,6 +30802,7 @@ libationary
 libations
 libbers
 libecchio
+libeccio
 libelants
 libeled
 libelers
@@ -30798,6 +30814,7 @@ liberalise
 liberalising
 liberalism
 liberalisms
+liberalistic
 liberalization
 liberalizations
 liberalize
@@ -32712,6 +32729,7 @@ measureless
 measurements
 measurer
 measures
+meated
 meatier
 meatiest
 meatily
@@ -34696,6 +34714,7 @@ morphia
 morphias
 morphing
 morphinic
+morphinisms
 morphins
 morphogenetic
 morphogenic
@@ -37449,6 +37468,7 @@ opacifies
 opalescent
 opalescently
 opalesces
+opaqued
 opaquely
 opaqueness
 opaquer
@@ -37586,6 +37606,7 @@ orb
 orbicularly
 orbit
 orbiters
+orbless
 orbs
 orby
 orc
@@ -37909,6 +37930,7 @@ outbluffed
 outbluffs
 outblushed
 outboard
+outboasted
 outboasting
 outboasts
 outbragged
@@ -38302,6 +38324,7 @@ outthank
 outthanked
 outthanking
 outthanks
+outthieve
 outthieved
 outthinks
 outthought
@@ -40260,6 +40283,7 @@ pepperboxes
 peppercorn
 peppercorns
 pepperers
+peppergrass
 pepperinesses
 peppers
 peppertrees
@@ -42448,6 +42472,7 @@ potentiometric
 potheads
 potheen
 pother
+potherbs
 pothering
 potholders
 pothooks
@@ -43587,6 +43612,7 @@ pronounces
 pronouns
 pronto
 pronuclear
+pronuclei
 pronunciation
 proofreading
 proofreads
@@ -44208,6 +44234,7 @@ pureeing
 pureness
 purfle
 purfled
+purfles
 purflings
 purgative
 purgatory
@@ -45679,6 +45706,7 @@ recycler
 recycling
 redacted
 redacting
+redactions
 redans
 redargued
 redarguing
@@ -49370,6 +49398,7 @@ scrapbooks
 scrape
 scraped
 scraper
+scrapes
 scrapheap
 scrapheaps
 scrapies
@@ -52836,6 +52865,7 @@ sporocarp
 sporocarps
 sporogenesis
 sporogenous
+sporophores
 sporophyll
 sporopollenins
 sporotrichoses
@@ -58384,6 +58414,7 @@ tunelessly
 tuner
 tuners
 tunes
+tunesmiths
 tuneups
 tung
 tungstate
@@ -59601,6 +59632,7 @@ uninstructed
 uninsulated
 uninsurable
 unintelligible
+uninterested
 uninteresting
 uninterests
 unintimidated
@@ -59817,6 +59849,7 @@ unperceived
 unperceptive
 unpersuasive
 unpick
+unpicked
 unpicking
 unpile
 unpiled
@@ -62537,8 +62570,10 @@ wisp
 wispily
 wispiness
 wisping
+wisplike
 wisps
 wissed
+wisteria
 wistfulness
 wisting
 wists
