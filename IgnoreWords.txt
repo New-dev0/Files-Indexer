@@ -1388,6 +1388,7 @@ altricial
 altruist
 alum
 aluminate
+aluminates
 alumine
 aluminize
 aluminized
@@ -1723,6 +1724,7 @@ analytical
 analytically
 analyzable
 analyzations
+analyzes
 analyzing
 anamnesis
 ananke
@@ -4975,6 +4977,7 @@ bewailer
 bewails
 beware
 bewared
+bewearying
 beweeps
 bewhiskered
 bewig
@@ -5526,6 +5529,7 @@ blastocyst
 blastoderms
 blastodiscs
 blastomycoses
+blastomycosis
 blastopore
 blastospores
 blastulae
@@ -8137,6 +8141,7 @@ caterwaul
 caterwauling
 cates
 catfight
+catfights
 catguts
 catharsis
 cathartic
@@ -8949,6 +8954,7 @@ chimneylike
 chimneypiece
 chimneypieces
 chimp
+chimpanzees
 chinaberries
 chinas
 chinbone
@@ -9421,6 +9427,7 @@ citoles
 citrate
 citreous
 citric
+citriculturist
 citrins
 citronellals
 citronellas
@@ -13267,6 +13274,7 @@ databanks
 databased
 databases
 databasing
+dataries
 datedness
 datelines
 dating
@@ -14134,6 +14142,7 @@ dentiform
 dentifrices
 dentin
 dentinal
+dentine
 dentins
 dentural
 denture
@@ -18301,6 +18310,7 @@ ergatives
 ergo
 ergodicities
 ergograph
+ergographs
 ergot
 ergotamine
 ergotized
@@ -19617,6 +19627,7 @@ fascia
 fascias
 fasciations
 fascicled
+fasciculations
 fascicules
 fasciculus
 fasciitises
@@ -24654,12 +24665,14 @@ heavenwards
 heavily
 heavy
 heavyhearted
+heavyheartedly
 heavyweight
 hebephrenia
 hebephrenic
 hebes
 hebetate
 hebetation
+hebraization
 hebraizes
 hecatombs
 heck
@@ -25708,6 +25721,7 @@ hothousing
 hotline
 hotly
 hotness
+hotpress
 hotrods
 hotshot
 hotspot
@@ -25960,6 +25974,7 @@ hybrids
 hybris
 hybristic
 hydathodes
+hydra
 hydrae
 hydralazine
 hydralazines
@@ -32407,6 +32422,7 @@ masseteric
 masseters
 massif
 massifs
+massiness
 massing
 massive
 massively
@@ -33830,6 +33846,7 @@ misemploying
 misenrolled
 misenrolling
 misenrolls
+miser
 miserableness
 misesteem
 misesteemed
@@ -35871,6 +35888,7 @@ nighs
 night
 nightcaps
 nightclubbing
+nightclubs
 nightgown
 nightgowns
 nightless
@@ -37810,6 +37828,7 @@ outblushed
 outboard
 outboasting
 outboasts
+outbragged
 outbrags
 outbrave
 outbrawl
@@ -37958,6 +37977,7 @@ outhearing
 outhears
 outhits
 outhomering
+outhomers
 outhouses
 outhowled
 outhunt
@@ -45373,6 +45393,7 @@ reckoners
 reckoning
 reclad
 recladded
+reclads
 reclaim
 reclaimer
 reclaimers
@@ -45922,6 +45943,7 @@ refractometric
 refractometries
 refractories
 refractoriness
+refractors
 refractory
 refracts
 refrained
@@ -47055,6 +47077,7 @@ restrictives
 restring
 restrive
 restrooms
+restructure
 restructured
 restructures
 rests
@@ -49140,6 +49163,7 @@ sciolistic
 scions
 sciroccos
 scirrhi
+scirrhous
 scissile
 scissor
 scissors
@@ -49568,6 +49592,7 @@ seeder
 seedier
 seedily
 seedless
+seedling
 seedlings
 seedpod
 seedpods
@@ -52056,6 +52081,7 @@ sonographies
 sonorous
 sonorousness
 sonorousnesses
+sonovox
 sons
 sonsie
 sonsier
@@ -55586,6 +55612,7 @@ tannable
 tannages
 tanned
 tanners
+tannin
 tanning
 tanrec
 tanrecs
@@ -56640,6 +56667,7 @@ thymectomy
 thymes
 thymic
 thymiest
+thymocyte
 thymol
 thymols
 thymosin
@@ -56936,6 +56964,7 @@ toelike
 toenailing
 toeplate
 toes
+tofuttis
 tog
 toga
 togas
@@ -58372,6 +58401,7 @@ twangy
 twasome
 twattle
 tweak
+tweakier
 tweaky
 tweed
 tweediness
@@ -58688,6 +58718,7 @@ unafraid
 unageing
 unagile
 unais
+unakites
 unalarmed
 unalerted
 unaligned
@@ -60161,6 +60192,7 @@ uprating
 upreached
 uprighting
 uprightnesses
+uprights
 uprisen
 uprises
 upriver
@@ -61265,6 +61297,7 @@ volplane
 voltage
 voltages
 voltaism
+voltmeter
 volubility
 volubly
 volumed
@@ -61375,6 +61408,7 @@ vum
 wabble
 wabbled
 wack
+wacke
 wackes
 wackier
 wackiest
@@ -62939,6 +62973,7 @@ yoni
 yonic
 yonker
 yore
+youngberries
 youngest
 youngish
 youngling
