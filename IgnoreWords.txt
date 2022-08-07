@@ -1247,6 +1247,7 @@ alleviations
 alleviators
 alley
 alleyway
+alleyways
 allheals
 alliable
 allicin
@@ -2415,6 +2416,7 @@ aphonic
 aphonics
 aphorise
 aphorises
+aphorism
 aphorists
 aphorized
 aphorizers
@@ -5872,6 +5874,7 @@ bodyworks
 boff
 boffed
 boffin
+boffins
 boffola
 boffos
 bog
@@ -7576,6 +7579,7 @@ cane
 canella
 canellas
 caners
+caneware
 canful
 canfuls
 canids
@@ -12328,6 +12332,7 @@ cricetid
 cricked
 cricketer
 cricketers
+cricking
 cricoid
 cries
 criminalistics
@@ -13281,6 +13286,7 @@ danishes
 dankest
 dans
 dap
+daphne
 daphnes
 daphnias
 dapperly
@@ -16444,6 +16450,7 @@ dressmakers
 dressmaking
 dressmakings
 dressy
+drib
 dribbing
 dribbles
 dribblets
@@ -16943,6 +16950,7 @@ ebullient
 ebulliently
 ebullitions
 ecartes
+eccentrically
 eccentricities
 eccentrics
 ecchymosis
@@ -19682,6 +19690,7 @@ farinha
 farl
 farle
 farles
+farmed
 farmer
 farmerette
 farmerettes
@@ -20479,6 +20488,7 @@ flagstaves
 flagstick
 flail
 flake
+flaker
 flakes
 flakier
 flakiness
@@ -20641,6 +20651,7 @@ fleuron
 flexagon
 flexile
 flexion
+flexography
 flexors
 flextimer
 flextimes
@@ -21547,6 +21558,7 @@ fremd
 fremituses
 frena
 frenches
+frenchifying
 frenetic
 frenetically
 freneticism
@@ -25965,6 +25977,7 @@ humidistat
 humidities
 humidnesses
 humidors
+humiliate
 humiliated
 humiliation
 humiliations
@@ -26068,6 +26081,7 @@ hyalins
 hyalites
 hyaloplasm
 hyaloplasms
+hyaluronidases
 hybrid
 hybridisms
 hybridizations
@@ -26187,6 +26201,7 @@ hyoidal
 hyoidean
 hyoids
 hyoscyamine
+hyp
 hypabyssal
 hypabyssally
 hypaethral
@@ -29335,6 +29350,7 @@ kabalists
 kabayas
 kabbala
 kabbalah
+kabbalahs
 kabbalisms
 kabbalist
 kabeljou
@@ -30528,6 +30544,7 @@ leaker
 leakier
 leakily
 leakinesses
+leakproof
 leaky
 leaned
 leanest
@@ -31198,6 +31215,7 @@ literalization
 literalize
 literalized
 literalizes
+literariness
 literarinesses
 literations
 literator
@@ -34321,6 +34339,7 @@ modern
 moderner
 modernes
 modernisation
+modernise
 modernising
 modernize
 modernly
@@ -35595,6 +35614,7 @@ naturalized
 natured
 natures
 naturopathic
+naturopathies
 naughtily
 naughtinesses
 naumachia
@@ -35783,6 +35803,7 @@ neoprenes
 neorealism
 neorealisms
 neorealistic
+neostigmine
 neostigmines
 neotenic
 neoteny
@@ -38433,6 +38454,7 @@ overabundant
 overachievement
 overachieving
 overactions
+overactivities
 overactivity
 overacts
 overadjustment
@@ -38952,6 +38974,7 @@ overutilizing
 overvoltages
 overvote
 overwarmed
+overwarms
 overwatch
 overwatched
 overwaters
@@ -39908,6 +39931,7 @@ patienter
 patientest
 patients
 patin
+patina
 patinations
 patine
 patining
@@ -43132,6 +43156,7 @@ preservationist
 preservatives
 preserver
 preservice
+presets
 presettles
 preshape
 preshapes
@@ -48658,6 +48683,7 @@ salesclerks
 salesmanships
 salesperson
 salesroom
+saleswomen
 salicin
 salicine
 salicylate
@@ -49697,6 +49723,7 @@ secludes
 seclusion
 seclusivenesses
 secobarbital
+secobarbitals
 seconals
 second
 secondarily
@@ -50071,6 +50098,7 @@ sentimentality
 sentimentalized
 sentimentally
 sentimo
+sentimos
 sentinels
 sentries
 sepaloid
@@ -51460,6 +51488,7 @@ slatiest
 slatiness
 slatinesses
 slattings
+slaughter
 slaughterer
 slaughterers
 slaughterhouse
@@ -52148,6 +52177,7 @@ solecistic
 solecizing
 solei
 solely
+solemner
 solemnify
 solemnization
 solemnizations
@@ -54339,6 +54369,7 @@ submergences
 submerges
 submergible
 submerse
+submerses
 submersion
 submetacentric
 submetacentrics
@@ -54733,6 +54764,7 @@ summerlong
 summersaulted
 summersaulting
 summersets
+summersetting
 summertime
 summerwood
 summerwoods
@@ -55037,6 +55069,7 @@ supplemented
 suppletory
 supplies
 support
+supportable
 supporting
 supportive
 supports
@@ -55270,6 +55303,7 @@ sweepers
 sweeping
 sweepingness
 sweepings
+sweetbriar
 sweetbrier
 sweeten
 sweetened
@@ -55380,6 +55414,7 @@ sycophancies
 sycophancy
 sycophantic
 sycophantisms
+sycophants
 syenites
 syenitic
 syke
