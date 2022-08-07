@@ -2158,6 +2158,7 @@ antifog
 antiforeigner
 antiformalist
 antifouling
+antifraud
 antifriction
 antifungals
 antifur
@@ -2898,6 +2899,7 @@ arrearages
 arrears
 arrest
 arrestee
+arresting
 arrestments
 arrhizal
 arrhythmias
@@ -9253,6 +9255,7 @@ chrominances
 chroming
 chromite
 chromiums
+chromo
 chromogen
 chromogens
 chromomeres
@@ -9769,6 +9772,7 @@ clofibrates
 clog
 clogged
 cloggers
+cloggiest
 cloggily
 clogging
 cloggy
@@ -10201,6 +10205,7 @@ cognomen
 cognomens
 cognomina
 cognoscenti
+cognoscible
 cogs
 cogwheel
 cohabitants
@@ -11531,6 +11536,7 @@ copulae
 copulates
 copulations
 copulatives
+copulatory
 copy
 copyboy
 copycat
@@ -11572,6 +11578,7 @@ corders
 cordialities
 cordially
 cordials
+cordierite
 cordillera
 cordilleran
 cordites
@@ -12049,6 +12056,7 @@ cowboying
 cowboys
 cowed
 cower
+cowflaps
 cowflop
 cowflops
 cowgirl
@@ -13015,6 +13023,7 @@ cybernaut
 cybernauts
 cybernetic
 cybernetical
+cybernetically
 cyberneticist
 cyberneticists
 cyberpunks
@@ -13953,6 +13962,7 @@ dehumidified
 dehumidifying
 dehydrate
 dehydrated
+dehydrates
 dehydrating
 dehydration
 dehydrations
@@ -20492,6 +20502,7 @@ flacks
 flag
 flagellants
 flagellar
+flagellate
 flagellating
 flagellation
 flagellations
@@ -24275,6 +24286,7 @@ halitosis
 halitus
 halituses
 hall
+hallah
 hallelujah
 hallmark
 hallmarked
@@ -25069,6 +25081,7 @@ heresies
 heresy
 heretrixes
 hereunto
+heritages
 heritor
 heritors
 herm
@@ -26479,6 +26492,7 @@ identicalnesses
 identifiable
 identifiably
 identifications
+identified
 identifiers
 identifies
 identify
@@ -27873,6 +27887,7 @@ inserting
 inset
 insets
 insetter
+insheathe
 insheathes
 insheaths
 inshrined
@@ -29950,6 +29965,7 @@ kolkhozy
 kolkozy
 kombus
 komondorock
+komondorok
 koodoo
 kook
 kookaburra
@@ -31056,6 +31072,7 @@ limacine
 limans
 limb
 limba
+limbeck
 limberer
 limberest
 limbi
@@ -31620,6 +31637,7 @@ lotus
 lotuslands
 louche
 loud
+loudened
 loudest
 loudlier
 loudliest
@@ -33970,6 +33988,7 @@ mischarging
 mischiefs
 mischievous
 mischievously
+mischose
 mischosen
 miscited
 misclaimed
@@ -36150,6 +36169,7 @@ nitpick
 nitpicked
 nitpicking
 nitpicks
+nitpicky
 nitrated
 nitrations
 nitride
@@ -38070,6 +38090,7 @@ outcharm
 outcheat
 outcheating
 outchide
+outcity
 outclimbs
 outclomb
 outcoach
@@ -38941,6 +38962,7 @@ oversimplified
 oversimplifies
 oversize
 overskirt
+oversleep
 oversleeping
 overslipped
 overslipping
@@ -39227,6 +39249,7 @@ pagandom
 paganises
 paganists
 paganized
+paganizers
 paganizing
 page
 pageants
@@ -41448,6 +41471,7 @@ pinier
 piniest
 pinion
 pinites
+pinitol
 pink
 pinkening
 pinkings
@@ -46575,6 +46599,7 @@ religionless
 religiose
 religiosity
 religious
+relinked
 relinking
 relinquish
 relinquishment
@@ -46739,6 +46764,7 @@ reneger
 renegers
 reneges
 renegotiable
+renegotiations
 renests
 renew
 renewabilities
@@ -49080,6 +49106,7 @@ saturable
 saturate
 saturaters
 saturates
+saturation
 saturations
 saturator
 saturators
@@ -49468,6 +49495,7 @@ scolders
 scolices
 scolioma
 scollop
+scolloping
 scollops
 scolopendras
 sconcheons
@@ -51932,6 +51960,7 @@ snakeskins
 snakey
 snakiest
 snakiness
+snaky
 snapback
 snapbacks
 snapped
@@ -52520,6 +52549,7 @@ southwestern
 southwestward
 souvenirs
 souvlakia
+sovereignties
 sovietization
 sovietize
 sovietizes
@@ -53677,6 +53707,7 @@ sticks
 stickseed
 stickum
 stickums
+stickwork
 sticky
 stictions
 stied
@@ -56536,6 +56567,7 @@ tessitura
 tessiture
 testable
 testaceans
+testae
 testament
 testamentary
 testate
@@ -57933,6 +57965,7 @@ traumatize
 traumatized
 traumatizes
 traumatizing
+travailing
 traveler
 travelers
 traveling
@@ -59113,6 +59146,7 @@ unbarred
 unbasted
 unbated
 unbearably
+unbears
 unbecomingly
 unbecomingness
 unbelievable
@@ -60053,6 +60087,7 @@ unprincipled
 unprivileged
 unprized
 unprofessed
+unprofitably
 unprogrammable
 unprogrammed
 unprompted
