@@ -973,6 +973,7 @@ aid
 aider
 aides
 aidful
+aidless
 aidmen
 aiglet
 aiglets
@@ -3473,6 +3474,7 @@ authority
 authorization
 autistics
 autists
+auto
 autoantibodies
 autobahns
 autobiographer
@@ -4878,6 +4880,7 @@ beshrouds
 besides
 besiege
 besieger
+besliming
 besmears
 besmiled
 besmiles
@@ -5135,6 +5138,7 @@ billie
 billies
 billings
 billingsgate
+billionaire
 billionaires
 billons
 billow
@@ -7579,6 +7583,7 @@ cantic
 canticle
 cantilena
 cantilever
+cantilevered
 cantilevers
 cantillating
 cantillations
@@ -7680,6 +7685,7 @@ capsulate
 capsulizes
 captain
 captaincies
+captaining
 captainships
 captioned
 captions
@@ -7817,6 +7823,7 @@ carer
 caressers
 caresses
 caretaken
+caretaker
 caretaking
 caretakings
 caretook
@@ -7861,6 +7868,7 @@ carnalities
 carnallites
 carnassial
 carnaubas
+carnitines
 carnivorous
 carnotites
 caroche
@@ -8224,6 +8232,7 @@ cavorts
 cayman
 caymans
 cayuse
+cayuses
 caziques
 ceanothus
 ceasefires
@@ -9219,6 +9228,7 @@ chumship
 chumships
 chunkier
 chunking
+chunnels
 churched
 churches
 churchgoers
@@ -9294,6 +9304,7 @@ cinerary
 cingula
 cingular
 cinnabar
+cinnamic
 cinnamons
 cinnamony
 cinnamyls
@@ -14187,6 +14198,7 @@ depravedness
 depravement
 depraving
 deprecates
+deprecating
 deprecatingly
 deprecations
 deprecatorily
@@ -15393,6 +15405,7 @@ disinvites
 disinviting
 disjoin
 disjointedness
+disjunct
 disjunctions
 disjunctive
 disjunctively
@@ -16605,6 +16618,7 @@ durn
 durneder
 durning
 durocs
+duros
 durras
 durrs
 durst
@@ -16831,6 +16845,7 @@ echinoderm
 echinodermatous
 echinoderms
 echinus
+echiuroids
 echograms
 echoic
 echolalia
@@ -17538,6 +17553,7 @@ encumbered
 encumbrancer
 encyclic
 encyclical
+encyclicals
 encyclics
 encyclopaedia
 encyclopaedias
@@ -18141,6 +18157,7 @@ epizoites
 epizootics
 epizooties
 epizootiologic
+epodes
 eponyms
 epopees
 epos
@@ -21653,6 +21670,7 @@ fundic
 funding
 fundraises
 fundraising
+funds
 funeral
 funerary
 funereally
@@ -31424,6 +31442,7 @@ lucubrate
 lucubrates
 lucubrating
 luculent
+luculently
 ludicrousnesses
 luffed
 lugeing
@@ -31824,6 +31843,7 @@ majorly
 majuscular
 majuscule
 makable
+makars
 makebate
 makefasts
 maker
@@ -32614,6 +32634,7 @@ megabar
 megabuck
 megacorporation
 megacycle
+megacycles
 megadeath
 megadose
 megadoses
@@ -33945,6 +33966,7 @@ mistiest
 mistime
 mistinesses
 misting
+mistitle
 mistook
 mistrace
 mistraces
@@ -35157,6 +35179,7 @@ mythos
 myxedematous
 myxoedema
 myxoma
+myxomas
 myxomatoses
 myxomycete
 nabbed
@@ -36143,6 +36166,7 @@ nonforfeitures
 nonfreezing
 nonfulfillments
 nongame
+nongenetic
 nongeometrical
 nonghetto
 nonglamorous
@@ -39703,6 +39727,7 @@ payrolls
 pazazz
 pazazzes
 peaceableness
+peacefullest
 peacefulnesses
 peacekeeper
 peacekeepers
@@ -41866,6 +41891,7 @@ pommel
 pommelled
 pommels
 pomologies
+pomologist
 pomologists
 pomology
 pomp
@@ -44248,6 +44274,7 @@ quantal
 quantifies
 quanting
 quantitate
+quantitated
 quantitating
 quantitation
 quantitative
@@ -48565,6 +48592,7 @@ sardonyx
 sardonyxes
 sargo
 sargos
+sari
 sarkier
 sarks
 sarky
@@ -48656,6 +48684,7 @@ saurischians
 sauropods
 saury
 sauted
+sauteed
 sauterne
 sauternes
 sautes
@@ -50220,6 +50249,7 @@ shindys
 shiner
 shiners
 shingle
+shinglers
 shingles
 shingling
 shiniest
@@ -51580,6 +51610,7 @@ snowfall
 snowfield
 snowlands
 snowless
+snowmaker
 snowmobile
 snowmold
 snowpacks
@@ -52212,6 +52243,7 @@ speculative
 speculum
 speculums
 sped
+speechless
 speechlessly
 speedball
 speedballed
@@ -56079,6 +56111,7 @@ thalassaemias
 thalassocracies
 thalassocracy
 thalidomide
+thalidomides
 thallic
 thallophyte
 thallophytes
@@ -56687,6 +56720,7 @@ titleholder
 titling
 titlist
 titmen
+titmice
 titration
 titrator
 titrators
@@ -61501,6 +61535,7 @@ waul
 wauled
 wave
 waved
+waveguide
 wavelength
 wavelengths
 wavelet
