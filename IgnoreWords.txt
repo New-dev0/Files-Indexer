@@ -573,6 +573,7 @@ admiration
 admirer
 admirers
 admissibilities
+admission
 admits
 admittance
 admittedly
@@ -1200,6 +1201,7 @@ alkane
 alkie
 alkines
 alkoxide
+alkoxy
 alkyd
 alkyds
 alkyl
@@ -2231,6 +2233,7 @@ antipolitical
 antipolitics
 antipollution
 antipollutions
+antipope
 antipot
 antipoverty
 antiprogressive
@@ -3629,6 +3632,7 @@ avower
 avowing
 avows
 avulsed
+avulsing
 avulsion
 avulsions
 awaited
@@ -7008,6 +7012,7 @@ burtons
 burweed
 burweeds
 burying
+bus
 busbar
 busboys
 bushbucks
@@ -10470,6 +10475,7 @@ commencer
 commencers
 commencing
 commendation
+commenders
 commending
 commends
 commensally
@@ -10542,6 +10548,7 @@ community
 communizations
 communizes
 commutable
+commutate
 commutates
 commutating
 commutation
@@ -11261,6 +11268,7 @@ contrive
 contrived
 contrivers
 controllability
+controllable
 controlled
 controlment
 controls
@@ -11760,6 +11768,7 @@ cottiers
 cottoned
 cottons
 cottonseeds
+cottontail
 cottonwood
 coturnix
 cotyledons
@@ -13405,6 +13414,7 @@ debarkers
 debarment
 debarring
 debases
+debate
 debated
 debatements
 debaters
@@ -23392,6 +23402,7 @@ gratinees
 gratingly
 gratings
 gratuity
+gratulatory
 graupel
 graveless
 gravelike
@@ -23536,6 +23547,7 @@ grift
 grifts
 grille
 grillers
+grills
 grilse
 grim
 grimacing
@@ -24798,6 +24810,7 @@ hemal
 hematics
 hematines
 hematinics
+hematite
 hematomas
 hematopoiesis
 hematopoietic
@@ -33279,6 +33292,7 @@ microfibrils
 microfiche
 microfiches
 microfilament
+microfilariae
 microfilmed
 microflorae
 microfloral
@@ -36022,6 +36036,7 @@ noils
 noirish
 noise
 noisemaking
+noisemakings
 noisette
 noisier
 noisily
@@ -38304,6 +38319,7 @@ overarranged
 overarranging
 overarticulates
 overassertion
+overassertions
 overassertive
 overasserts
 overassessments
@@ -40263,6 +40279,7 @@ perforating
 perforation
 perforator
 performability
+performance
 performances
 performatives
 performing
@@ -40283,6 +40300,7 @@ perichondria
 pericope
 pericranium
 pericycle
+pericycles
 periderm
 peridia
 peridotites
@@ -46526,6 +46544,7 @@ reopen
 reopening
 reopens
 reoperate
+reoperated
 reordered
 reorganization
 reorganizations
@@ -47276,6 +47295,7 @@ retroviral
 retrying
 retuning
 returnable
+returner
 returns
 retuse
 retwist
@@ -47697,6 +47717,7 @@ ringtosses
 ringworms
 rink
 rinsable
+rinse
 rinsing
 riotously
 riotousness
@@ -50537,6 +50558,7 @@ shopworn
 shoran
 shore
 shoreside
+shorewards
 shoring
 shorl
 short
@@ -51276,6 +51298,7 @@ slaughterously
 slaughters
 slave
 slaved
+slaveholder
 slaveholding
 slaverer
 slaverers
@@ -53034,6 +53057,7 @@ stalags
 stale
 stalemated
 stalky
+stallholder
 stallion
 stalwartnesses
 stalworths
@@ -53474,6 +53498,7 @@ stockpiled
 stockroom
 stocktaking
 stocktakings
+stocky
 stockyard
 stodgier
 stodgily
@@ -55791,6 +55816,7 @@ teaberry
 teabowl
 teaboxes
 teacakes
+teachable
 teachableness
 teachablenesses
 teachably
@@ -55975,6 +56001,7 @@ tellurides
 tellurions
 tellurium
 tellurize
+tellurizes
 tellurizing
 tellurometers
 tellurous
@@ -56213,6 +56240,7 @@ terylene
 terylenes
 teslas
 tesselate
+tessellate
 tessellated
 tessellating
 tessera
@@ -56700,6 +56728,7 @@ ticced
 tick
 ticked
 ticket
+ticketed
 ticketless
 tickets
 tickings
@@ -57284,6 +57313,7 @@ toward
 toweled
 towelette
 towelettes
+towelled
 towelling
 towellings
 towels
@@ -58125,6 +58155,7 @@ trustiness
 trustinesses
 trustingly
 trustingnesses
+trusts
 truthful
 truthfully
 truthfulnesses
@@ -58192,6 +58223,7 @@ tubulate
 tubulates
 tubulating
 tubule
+tubulins
 tubulures
 tuchun
 tuckered
@@ -61072,6 +61104,7 @@ violone
 violones
 viols
 viosterols
+viperfish
 viperfishes
 viperish
 viperously
@@ -61578,6 +61611,7 @@ wapping
 warbonnets
 warcraft
 warcrafts
+warded
 wardenries
 wardens
 wardenship
@@ -61884,6 +61918,7 @@ weighable
 weighed
 weighers
 weighman
+weighmen
 weight
 weighted
 weightiness
