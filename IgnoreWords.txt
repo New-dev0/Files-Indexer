@@ -124,6 +124,7 @@ abvolts
 abwatt
 aby
 abye
+academias
 academicians
 academicisms
 academism
@@ -3951,6 +3952,7 @@ bakeapple
 baked
 bakelite
 bakemeats
+baker
 bakers
 bakeshop
 bakshish
@@ -5748,6 +5750,7 @@ bluecaps
 bluecoat
 bluefin
 bluegills
+bluegum
 blueish
 bluejack
 bluejacket
@@ -5990,6 +5993,7 @@ bonefishes
 bonefishing
 bonehead
 boneheaded
+boneheadedness
 boneset
 bong
 bonged
@@ -6224,6 +6228,7 @@ bourguignon
 bourrees
 bourrides
 bouses
+bousing
 bousouki
 boutiques
 boutiquey
@@ -6341,6 +6346,7 @@ brainpans
 brainpower
 brainstems
 brainstorming
+brainstormings
 brainteaser
 brainteasers
 brainwash
@@ -6524,6 +6530,7 @@ bridesmaids
 bridewells
 bridge
 bridgeable
+bridged
 bridgeless
 bridges
 bridles
@@ -7409,6 +7416,7 @@ califate
 califates
 californiums
 caliginous
+calipash
 calipee
 calipees
 caliph
@@ -7919,6 +7927,7 @@ caricatures
 caricaturing
 caricaturist
 carices
+caried
 carillon
 carillonned
 carillonneur
@@ -11802,6 +11811,7 @@ cosmonauts
 cosmopolises
 cosmopolitans
 cosmopolite
+cosmopolites
 cosmopolitisms
 cosmos
 cossack
@@ -12251,6 +12261,7 @@ creatinines
 creationisms
 creationist
 creationists
+creations
 creatively
 creativenesses
 creativities
@@ -12374,6 +12385,7 @@ criminy
 crimp
 crimping
 crimples
+crimpy
 crimson
 crimsoned
 crimsoning
@@ -12975,6 +12987,7 @@ cutinizes
 cutins
 cutlas
 cutler
+cutlery
 cutlines
 cutout
 cutouts
@@ -14479,6 +14492,7 @@ desensitizing
 deserter
 deserters
 desertic
+desertified
 desertifies
 deserts
 deservedly
@@ -16501,6 +16515,7 @@ drillmaster
 drills
 drinkability
 drinkables
+drinkably
 drinkings
 drip
 drippers
@@ -19427,6 +19442,7 @@ extubate
 extubating
 exuberances
 exuberated
+exuberates
 exudate
 exudations
 exude
@@ -19473,6 +19489,7 @@ eying
 eyre
 eyrie
 eyry
+fabaceous
 fabber
 fabbest
 fabled
@@ -20399,6 +20416,7 @@ fireproofs
 firer
 fireship
 fireside
+firestone
 firethorn
 firetrap
 firetraps
@@ -23063,6 +23081,7 @@ gloxinias
 glucans
 glucinic
 glucinums
+glucocorticoids
 gluconates
 gluconeogeneses
 glucose
@@ -23477,6 +23496,7 @@ granodiorite
 granola
 granolith
 granophyre
+grantees
 granters
 grants
 grantsmanships
@@ -23538,6 +23558,7 @@ grateless
 grater
 graters
 gratifier
+gratify
 gratifyingly
 gratineeing
 gratinees
@@ -26291,6 +26312,7 @@ hypereutectoid
 hyperexcretion
 hyperextend
 hyperfine
+hyperfunction
 hyperfunctional
 hyperglycemias
 hypergol
@@ -32928,6 +32950,7 @@ medievalists
 medievally
 medievals
 medina
+medinas
 mediocre
 mediocrities
 meditated
@@ -35660,6 +35683,7 @@ nasalized
 nascencies
 nascency
 nascent
+naseberries
 naseberry
 nastiest
 nastily
@@ -39418,6 +39442,7 @@ palmister
 palmisters
 palmitates
 palmitins
+palmlike
 palms
 palmyra
 palominos
@@ -44072,6 +44097,7 @@ prower
 prowesses
 prowest
 prowl
+prowled
 proxemic
 proxies
 proximal
@@ -44167,6 +44193,7 @@ psychologise
 psychologises
 psychologists
 psychologize
+psychologized
 psychometrics
 psychometry
 psychoneuroses
@@ -46204,6 +46231,7 @@ reflect
 reflecting
 reflectional
 reflectively
+reflectivity
 reflectorized
 reflectors
 reflects
@@ -46849,6 +46877,7 @@ reorganizations
 reorganized
 reorientated
 reorientates
+reoriented
 reorients
 reoutfit
 reoxidation
@@ -47912,6 +47941,7 @@ rid
 riddances
 riddled
 riddler
+riddles
 ride
 rideable
 riders
@@ -47964,6 +47994,7 @@ riggers
 right
 righteousness
 righter
+rightful
 rightfully
 rightism
 rightisms
@@ -49420,6 +49451,7 @@ schmaltz
 schmalz
 schmalziest
 schmatte
+schmeering
 schmeers
 schmelzes
 schmo
@@ -53089,6 +53121,7 @@ sporozoites
 sported
 sporter
 sporters
+sportfully
 sportinesses
 sportively
 sportiveness
@@ -55688,6 +55721,7 @@ synopsizes
 synoptical
 synoptically
 synostosis
+synovia
 synovitises
 syntactical
 syntactics
@@ -55725,6 +55759,7 @@ system
 systematists
 systematize
 systematized
+systematizes
 systematizing
 systemics
 systemization
