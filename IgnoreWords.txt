@@ -845,6 +845,7 @@ agametes
 agapanthuses
 agape
 agapeic
+agar
 agars
 agatewares
 agatize
@@ -1398,6 +1399,7 @@ alumins
 aluminum
 aluminums
 alumna
+alumnus
 alumroots
 alumstone
 alumstones
@@ -1544,6 +1546,7 @@ amitotic
 amitriptylines
 ammine
 ammino
+ammoniac
 ammoniacal
 ammoniacs
 ammoniates
@@ -1667,6 +1670,7 @@ anabaenas
 anabasis
 anabatic
 anabioses
+anabranch
 anachronism
 anachronistic
 anaclises
@@ -2323,6 +2327,7 @@ antitoxins
 antitrade
 antitraditional
 antitragi
+antitrusters
 antituberculous
 antitussive
 antitypes
@@ -2637,6 +2642,7 @@ aquaria
 aquarian
 aquarium
 aquariums
+aquatics
 aquatint
 aquatinter
 aquiculture
@@ -7272,6 +7278,7 @@ caespitose
 caestus
 caesura
 cafes
+cafeterias
 caffeinated
 caffeine
 caffeinic
@@ -7983,6 +7990,7 @@ caryopses
 casabas
 casbahs
 cascabel
+cascable
 cascade
 cascaded
 cascading
@@ -10342,6 +10350,7 @@ colonialisms
 colonialist
 colonialistic
 colonialists
+colonialized
 colonializing
 colonially
 colonialness
@@ -11359,6 +11368,7 @@ cooch
 coocoo
 cooed
 cooee
+cooeeing
 cooees
 cooey
 cooing
@@ -12428,6 +12438,7 @@ crosslets
 crossness
 crossover
 crossovers
+crosspatch
 crosspatches
 crosspiece
 crossroads
@@ -12501,6 +12512,7 @@ crummies
 crumminesses
 crummy
 crump
+crumped
 crumpet
 crumpets
 crumply
@@ -14232,6 +14244,7 @@ depolarizer
 depolarizers
 depolarizing
 depoliticize
+depoliticized
 depoliticizes
 depolymerizing
 depopulating
@@ -19099,6 +19112,7 @@ expellee
 expeller
 expelling
 expendabilities
+expendability
 expendable
 expended
 expenditures
@@ -24251,6 +24265,7 @@ handcuffs
 handed
 handedness
 handers
+handfasting
 handfasts
 handgrips
 handguns
@@ -25144,6 +25159,7 @@ hieroglyphs
 hierology
 hierophantic
 hierurgy
+higgled
 higgler
 higgles
 high
@@ -30298,6 +30314,7 @@ latinized
 latinizing
 latitude
 latitudes
+latke
 latkes
 latosol
 latria
@@ -30551,6 +30568,7 @@ legitimacy
 legitimates
 legitimating
 legitimation
+legitimatized
 legitimatizing
 legitimator
 legitimised
@@ -34976,6 +34994,7 @@ multihull
 multijet
 multilane
 multilanes
+multilateralism
 multilaterally
 multileveled
 multilingualism
@@ -37406,6 +37425,7 @@ opalescent
 opalescently
 opalesces
 opaquely
+opaqueness
 opaquer
 ope
 openable
@@ -38900,6 +38920,7 @@ owns
 owse
 ox
 oxacillins
+oxalacetates
 oxaloacetate
 oxbloods
 oxbows
@@ -41800,6 +41821,7 @@ podzolization
 podzolizations
 podzols
 poechore
+poenologies
 poenology
 poesies
 poetasters
@@ -43437,6 +43459,7 @@ prognostics
 programed
 programer
 programmable
+programme
 programmer
 programmers
 programming
@@ -45782,6 +45805,7 @@ reduplication
 redwares
 redwing
 redwood
+redye
 redyed
 ree
 reearns
@@ -47141,6 +47165,7 @@ resultantly
 resultful
 resultless
 results
+resume
 resumed
 resuming
 resummon
@@ -48345,6 +48370,7 @@ rutted
 ruttier
 ruttiness
 ruttinesses
+ruttish
 ruttishly
 rutty
 rye
@@ -49153,6 +49179,7 @@ schnorrer
 schnorrers
 schnoz
 schnozz
+schnozzes
 scholars
 scholarships
 scholasticates
@@ -52012,6 +52039,7 @@ solemnized
 solemnnesses
 soleplate
 soleprint
+soleret
 solerets
 solfege
 solfeggio
@@ -52529,6 +52557,7 @@ spewers
 spewing
 sphene
 sphenes
+sphenic
 sphenodon
 sphenoidal
 sphere
@@ -52858,6 +52887,7 @@ sprinted
 sprinters
 sprints
 sprite
+sprits
 spritsails
 spritzed
 spritzer
@@ -56970,6 +57000,7 @@ titling
 titlist
 titmen
 titmice
+titrates
 titration
 titrator
 titrators
@@ -57936,6 +57967,7 @@ trimmed
 trimmer
 trimmers
 trimmest
+trimmings
 trimorph
 trimorphs
 trimotors
@@ -61447,6 +61479,7 @@ vulcanites
 vulcanizate
 vulcanized
 vulcanizer
+vulcanizes
 vulcanizing
 vulcanology
 vulgar
@@ -63081,6 +63114,7 @@ yuks
 yules
 yum
 yummiest
+yummy
 yupon
 yuppiedom
 yuppiedoms
@@ -63167,6 +63201,7 @@ zibeline
 zidovudine
 zig
 zigzagged
+zillah
 zillahs
 zillions
 zillionth
