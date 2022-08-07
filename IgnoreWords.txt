@@ -1426,6 +1426,7 @@ amassable
 amassed
 amasser
 amasses
+amassing
 amassments
 amateurishness
 amateurism
@@ -3593,6 +3594,7 @@ averseness
 aversenesses
 aversions
 aversives
+avertable
 averter
 averting
 avgases
@@ -4053,6 +4055,7 @@ bankrolled
 bankrupt
 bankrupted
 bankrupting
+bankrupts
 banks
 bankside
 banksides
@@ -4623,6 +4626,7 @@ befuddlement
 beg
 begat
 begaze
+begazed
 begazes
 begazing
 begets
@@ -7203,6 +7207,7 @@ cabob
 cabochons
 cabotage
 cabrestos
+cabrillas
 cabriole
 cabrioles
 cabs
@@ -10745,6 +10750,7 @@ conchie
 conchoidal
 conchoidally
 conchologists
+conchy
 concierge
 conciliar
 conciliate
@@ -11280,6 +11286,7 @@ contumacy
 contumelies
 conundrum
 convalescences
+convecting
 convector
 convened
 convenes
@@ -13856,6 +13863,7 @@ degradedly
 degrader
 degranulation
 degranulations
+degrease
 degrees
 degressive
 degums
@@ -17437,11 +17445,13 @@ emenders
 emends
 emerald
 emergency
+emergent
 emerita
 emeriti
 emersed
 emetine
 emeu
+emigrants
 emigration
 emigrations
 eminency
@@ -17452,6 +17462,7 @@ emissaries
 emissary
 emissions
 emits
+emitting
 emmet
 emmetrope
 emmets
@@ -19173,6 +19184,7 @@ expulse
 expulsed
 expulses
 expulsing
+expulsion
 expulsive
 expunctions
 expunge
@@ -20104,6 +20116,7 @@ filbert
 filch
 filched
 filches
+filching
 file
 filed
 filefishes
@@ -22082,6 +22095,7 @@ gantelopes
 gantlet
 gantline
 gantlines
+gantlope
 gantlopes
 gantries
 ganymedes
@@ -24540,6 +24554,7 @@ haying
 hayings
 haylages
 hayloft
+haylofts
 haymows
 hayrick
 hayricks
@@ -25975,6 +25990,7 @@ hyaenic
 hyalines
 hyalins
 hyalites
+hyaloplasm
 hyaloplasms
 hybrid
 hybridisms
@@ -27716,6 +27732,7 @@ insecurely
 insecureness
 insecurities
 inseminated
+inseminating
 insemination
 insensible
 insensibly
@@ -28775,6 +28792,7 @@ jailing
 jailor
 jalap
 jalapenos
+jalopies
 jaloppy
 jalops
 jalopy
@@ -29079,6 +29097,7 @@ jotting
 joual
 jounced
 jouncier
+journalese
 journaleses
 journaling
 journalist
@@ -32230,6 +32249,7 @@ manufactories
 manufactured
 manufactures
 manufacturings
+manumits
 manure
 manured
 manward
@@ -33868,6 +33888,7 @@ misestimating
 misevaluate
 misevaluated
 misfeasance
+misfeed
 misfeeding
 misfields
 misfile
@@ -35672,6 +35693,7 @@ nepetas
 nephelinic
 nephelometers
 nephelometry
+nephogram
 nephoscopes
 nephridia
 nephridial
@@ -36189,6 +36211,7 @@ nonconformists
 nonconforms
 noncongruent
 nonconnection
+nonconservation
 nonconservative
 nonconstant
 nonconsumer
@@ -43144,6 +43167,7 @@ prex
 prey
 preyed
 preyer
+preyers
 preying
 preys
 priapean
@@ -43513,6 +43537,7 @@ pronounces
 pronouns
 pronto
 pronuclear
+pronunciation
 proofreading
 proofreads
 proofroom
@@ -44965,6 +44990,7 @@ rasp
 raspberries
 raspier
 raspiest
+raspiness
 raspinesses
 rasping
 raspingly
@@ -47568,6 +47594,7 @@ ribald
 ribaldry
 ribands
 ribbands
+ribbed
 ribbers
 ribbing
 ribboning
@@ -48380,6 +48407,7 @@ sacrificially
 sacrilege
 sacrileges
 sacrilegious
+sacrings
 sacrosanctities
 sacrosanctity
 sacrums
@@ -50070,6 +50098,7 @@ setiform
 setose
 setouts
 sets
+settee
 setter
 setters
 setting
@@ -54022,6 +54051,7 @@ subcrustal
 subcultured
 subcutis
 subcutises
+subdeacon
 subdebs
 subdecision
 subdecisions
@@ -55516,6 +55546,7 @@ takeovers
 taker
 takers
 takes
+takeup
 talar
 talced
 talcing
@@ -55891,6 +55922,7 @@ teddy
 tedious
 tediousness
 teel
+teem
 teemers
 teemingly
 teemingness
@@ -61770,6 +61802,7 @@ watts
 wauchted
 wauchting
 waught
+waughted
 wauks
 waul
 wauled
@@ -62022,6 +62055,7 @@ wheelchairs
 wheeler
 wheelies
 wheeling
+wheelless
 wheelman
 wheels
 wheeped
@@ -62498,6 +62532,7 @@ wolfberries
 wolfberry
 wolfish
 wolfishly
+wolfishness
 wolflike
 wolfsbane
 wolvers
