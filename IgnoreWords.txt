@@ -1849,6 +1849,7 @@ anglerfish
 angleworm
 angleworms
 anglice
+anglicises
 anglicism
 anglicisms
 anglicization
@@ -1861,6 +1862,7 @@ angry
 anguished
 angularly
 angulate
+angulating
 angulation
 angulations
 anhedonias
@@ -3224,6 +3226,7 @@ astuteness
 astutenesses
 aswirl
 asylums
+asymptotic
 asymptotically
 asynapsis
 asynchronies
@@ -3238,6 +3241,7 @@ ataps
 ataractic
 ataraxics
 ataraxy
+atavistic
 atavistically
 ataxias
 ate
@@ -3368,6 +3372,7 @@ attunements
 attuning
 atween
 atwitter
+atypically
 aubade
 aubades
 auberge
@@ -3645,6 +3650,7 @@ awfully
 awhirl
 awing
 awkwardly
+awkwardnesses
 awlworts
 awning
 awninged
@@ -5583,6 +5589,7 @@ blink
 blinkard
 blinking
 blintz
+blintze
 bliss
 blisses
 blissful
@@ -5867,6 +5874,7 @@ boinked
 boinks
 boiseries
 boisterously
+boisterousness
 boite
 boites
 bolas
@@ -9238,6 +9246,7 @@ churchianities
 churchianity
 churchings
 churchlier
+churchliest
 churchlinesses
 churchly
 churchmen
@@ -10584,6 +10593,7 @@ complementizer
 complete
 completed
 completeness
+completers
 completion
 completive
 complexest
@@ -11020,6 +11030,7 @@ consider
 considerably
 considerate
 consign
+consignation
 consigned
 consigns
 consisted
@@ -13209,6 +13220,7 @@ darkliest
 darkling
 darkly
 darkness
+darling
 darlingly
 darlingness
 darlings
@@ -15303,6 +15315,7 @@ disenchants
 disencumbered
 disencumbers
 disendowed
+disendowing
 disenfranchise
 disenfranchised
 disengagement
@@ -17428,6 +17441,7 @@ empire
 empiricisms
 empiricist
 empirics
+emplace
 emplaced
 emplaces
 emplanes
@@ -19294,6 +19308,7 @@ fabled
 fabler
 fablers
 fables
+fabling
 fabricants
 fabricates
 fabulates
@@ -20096,6 +20111,7 @@ fin
 finagle
 finagled
 finagler
+finalised
 finalism
 finalist
 finalities
@@ -21332,6 +21348,7 @@ fraternizations
 fraternizer
 fraternizers
 fraternizing
+fraters
 frauds
 fraudulence
 fraught
@@ -21873,6 +21890,7 @@ galantine
 galateas
 galavanted
 galax
+galbanum
 galeas
 galeate
 galenas
@@ -22685,6 +22703,7 @@ glamourless
 glamourous
 glamours
 glancers
+glandless
 glandular
 glandularly
 glandule
@@ -25813,6 +25832,7 @@ hump
 humpbacks
 humped
 humper
+humpers
 humph
 humpiness
 humpless
@@ -27766,6 +27786,7 @@ insurrection
 insusceptible
 inswathe
 inswathes
+inswathing
 intaglio
 intaglioing
 intake
@@ -27853,6 +27874,7 @@ intercrop
 intercropped
 intercurrent
 intercut
+intercuts
 intercutting
 interdentally
 interdependence
@@ -32315,6 +32337,7 @@ masjids
 maskable
 masker
 masklike
+masochisms
 masochist
 masochistically
 masochists
@@ -36851,6 +36874,7 @@ observing
 observingly
 obsess
 obsession
+obsessional
 obsessions
 obsessive
 obsessively
@@ -39415,6 +39439,7 @@ parishioners
 park
 parkas
 parkers
+parkings
 parkinsonisms
 parlance
 parlando
@@ -40755,6 +40780,7 @@ photophases
 photophobic
 photophores
 photoplay
+photoproduction
 photoreceptions
 photoreceptors
 photoreduce
@@ -42002,6 +42028,7 @@ populated
 populational
 populations
 populism
+populist
 porcelain
 porcelainizes
 porcini
@@ -43475,6 +43502,7 @@ prosauropods
 prosciutto
 prosciuttos
 proscribing
+proscriptions
 prose
 prosected
 prosecution
@@ -51249,6 +51277,7 @@ slits
 slitted
 slitter
 slitters
+slitting
 sliverer
 sliverers
 slivovic
@@ -53052,6 +53081,7 @@ stealing
 steals
 stealth
 stealthier
+stealthiness
 steamboats
 steamed
 steamered
@@ -54039,6 +54069,7 @@ subpolar
 subpopulations
 subprimates
 subprocess
+subproducts
 subprofessional
 subprogram
 subprograms
@@ -56564,6 +56595,7 @@ tided
 tideless
 tidelike
 tidemarks
+tiderip
 tiderips
 tides
 tideway
@@ -56895,6 +56927,7 @@ toner
 toners
 tonetically
 tonetics
+tonette
 tonettes
 toney
 tong
@@ -60280,6 +60313,7 @@ validness
 validnesses
 valises
 valkyrs
+vallate
 vallation
 vallecula
 valleculae
@@ -61289,6 +61323,7 @@ waggishnesses
 waggled
 waggles
 waggon
+waggoners
 waging
 wagonages
 wagoners
