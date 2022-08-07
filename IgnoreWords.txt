@@ -667,6 +667,7 @@ advisements
 adviser
 advises
 advisories
+advocacies
 advocacy
 advocate
 advocator
@@ -3480,6 +3481,7 @@ authorise
 authorises
 authority
 authorization
+autism
 autistics
 autists
 auto
@@ -5412,6 +5414,7 @@ bituminizations
 bituminizes
 biunique
 biuniqueness
+bivalent
 bivalve
 bivouac
 bivouacs
@@ -6348,6 +6351,7 @@ brattles
 bratwurst
 bratwursts
 braunite
+braunschweiger
 brava
 bravadoes
 bravados
@@ -9174,6 +9178,7 @@ chromaticism
 chromatids
 chromatograms
 chromatograph
+chromatographed
 chromatographer
 chromatography
 chromatophore
@@ -10774,6 +10779,7 @@ condescends
 condescensions
 condign
 conditionality
+conditionally
 conditionals
 conditioner
 conditioners
@@ -12452,6 +12458,7 @@ crudity
 cruds
 crueller
 cruelly
+cruelnesses
 cruelty
 cruisers
 cruises
@@ -14036,6 +14043,7 @@ demonized
 demonizing
 demonologies
 demonologist
+demons
 demonstrability
 demonstrable
 demonstrably
@@ -16368,6 +16376,7 @@ drillings
 drillmaster
 drills
 drinkability
+drinkables
 drinkings
 drip
 drippers
@@ -16396,6 +16405,7 @@ drizzlier
 drizzliest
 droid
 droids
+droller
 drollery
 drolling
 dromon
@@ -18422,6 +18432,7 @@ especially
 esperances
 espial
 espiegleries
+espouses
 esprit
 espy
 essayed
@@ -18514,6 +18525,7 @@ etherizer
 etherizes
 etherizing
 ethically
+ethicalness
 ethicize
 ethinyls
 ethion
@@ -19414,6 +19426,7 @@ failles
 fails
 fain
 faineance
+faineant
 faineants
 fainest
 faint
@@ -20785,6 +20798,7 @@ flyrodders
 flysheets
 flyspecked
 flyswatter
+flyswatters
 flytiers
 flyting
 flytrap
@@ -27945,6 +27959,7 @@ intergrowths
 interim
 interindividual
 interindustry
+interinfluences
 interinvolving
 interionic
 interiorise
@@ -28553,6 +28568,7 @@ isoclines
 isoclinics
 isocracies
 isocracy
+isodose
 isoelectric
 isoenzymes
 isoform
@@ -32825,6 +32841,7 @@ memetics
 memo
 memoir
 memorable
+memorablenesses
 memorably
 memoranda
 memorandum
@@ -35281,6 +35298,7 @@ naffs
 nagana
 nagged
 naggier
+naggiest
 naiades
 naiads
 nail
@@ -35969,6 +35987,7 @@ noddled
 noddles
 nodi
 nodose
+nodosity
 nodous
 nods
 nodulous
@@ -36873,6 +36892,7 @@ obligees
 obligingness
 obliqued
 obliquely
+obliquing
 obliterate
 obliterated
 obliterative
@@ -37862,6 +37882,7 @@ outdressed
 outdrink
 outdriving
 outdropping
+outdrunk
 outdueling
 outearned
 outeat
@@ -38201,6 +38222,7 @@ outvoices
 outvotes
 outwaited
 outwaits
+outwalk
 outwalked
 outwalks
 outwardnesses
@@ -41424,6 +41446,7 @@ plankton
 planlessness
 planlessnesses
 planned
+planosol
 plantain
 plantains
 plantar
@@ -44154,6 +44177,7 @@ pussyfooters
 pussyfoots
 pustulant
 pustulating
+putatively
 putoff
 putonghua
 putonghuas
@@ -46344,6 +46368,7 @@ remelts
 remember
 rememberability
 rememberable
+remembered
 remembering
 remended
 remerged
@@ -50261,6 +50286,7 @@ sheetrocking
 sheetrocks
 sheets
 sheikhdom
+sheikhdoms
 sheiks
 sheilas
 shekel
@@ -50843,6 +50869,7 @@ simas
 simile
 similitudes
 simioid
+simitar
 simitars
 simmers
 simoniac
@@ -51032,6 +51059,7 @@ skepticisms
 skeptics
 skerries
 skerry
+sketchier
 sketchpads
 sketchy
 skew
@@ -52298,6 +52326,7 @@ spawning
 spawns
 speakable
 speakeasies
+speaker
 speakers
 speaking
 speakings
@@ -52564,6 +52593,7 @@ spitters
 spitting
 spittle
 spittlebug
+spittles
 spittoon
 splash
 splashboards
@@ -53528,6 +53558,7 @@ stout
 stouten
 stoutening
 stoutens
+stoutest
 stoutness
 stove
 stover
@@ -54080,6 +54111,7 @@ submersion
 submetacentric
 submetacentrics
 submicrogram
+submillimeter
 subminiature
 subminimal
 subministers
@@ -54834,6 +54866,7 @@ surliest
 surlily
 surlinesses
 surly
+surmise
 surmises
 surmounted
 surname
@@ -55990,6 +56023,7 @@ tenderloin
 tenderly
 tenderometer
 tenderometers
+tenders
 tendresse
 tendrilled
 tendrilous
@@ -57049,6 +57083,7 @@ topful
 topgallant
 topgallants
 tophe
+topiary
 topically
 topics
 toping
