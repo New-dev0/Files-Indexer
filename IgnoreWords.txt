@@ -726,6 +726,7 @@ aeronaut
 aeronautical
 aeronautics
 aeronomers
+aeropause
 aerophobe
 aerophobes
 aerophyte
@@ -1403,6 +1404,7 @@ altostrati
 altostratus
 altricial
 altruist
+altruists
 alum
 aluminate
 aluminates
@@ -1839,6 +1841,7 @@ anesthesia
 anesthetically
 anesthetics
 anesthetist
+anesthetizes
 anesthetizing
 anestrous
 anethol
@@ -3399,6 +3402,7 @@ attractancy
 attractants
 attracter
 attractions
+attractors
 attributing
 attributional
 attributions
@@ -6699,6 +6703,7 @@ bronchospastic
 broncobuster
 broncobusters
 bronzer
+bronzers
 bronzing
 bronzings
 brooders
@@ -8041,6 +8046,7 @@ carryalls
 carryback
 carryforward
 carrying
+carryons
 carryout
 carryover
 cart
@@ -9391,6 +9397,7 @@ chute
 chutes
 chutist
 chutists
+chyles
 chylous
 chymist
 chymists
@@ -11365,6 +11372,7 @@ contraindicate
 contraindicates
 contralateral
 contraltos
+contraposition
 contraption
 contraptions
 contrapuntists
@@ -15809,6 +15817,7 @@ disseminators
 dissented
 dissentient
 dissents
+dissert
 dissertate
 dissertating
 dissertation
@@ -15926,6 +15935,7 @@ ditchers
 ditheism
 ditheisms
 dithered
+ditherers
 dithering
 dithers
 dithiocarbamate
@@ -19701,6 +19711,7 @@ falbalas
 falcate
 falces
 falconer
+falconers
 falconets
 falconries
 falconry
@@ -21817,6 +21828,7 @@ frogs
 frolicked
 frolicker
 frolickers
+fromenty
 fronds
 front
 frontals
@@ -23232,6 +23244,7 @@ gnarlier
 gnarls
 gnarr
 gnarrs
+gnars
 gnash
 gnashes
 gnat
@@ -28413,6 +28426,7 @@ interphase
 interphases
 interplants
 interpleaded
+interpleaders
 interpleading
 interpolating
 interpolator
@@ -30554,6 +30568,7 @@ larvae
 larvas
 larvicide
 larvicides
+laryngal
 laryngals
 laryngectomized
 larynges
@@ -34744,6 +34759,7 @@ monocarpic
 monochasial
 monochasium
 monochromatism
+monochromator
 monochromats
 monocles
 monoclines
@@ -35433,6 +35449,7 @@ munster
 muntins
 muntjac
 muon
+muonium
 mura
 muraenids
 muralist
@@ -35688,6 +35705,7 @@ myxoma
 myxomas
 myxomatoses
 myxomycete
+myxomycetes
 nabbed
 nabbing
 nabis
@@ -36658,6 +36676,7 @@ nonesuches
 nonethical
 nonethnic
 nonets
+nonevent
 nonevidences
 nonexecutives
 nonexempts
@@ -37917,6 +37936,7 @@ orated
 orator
 oratorios
 oratress
+oratresses
 orb
 orbicularly
 orbit
@@ -39254,6 +39274,7 @@ overwhelms
 overwily
 overwind
 overwinding
+overwintering
 overwinters
 overwithhold
 overwithholds
@@ -42628,6 +42649,7 @@ porterage
 porteresses
 porterhouses
 porthole
+portholes
 porticoed
 porticos
 portieres
@@ -42955,6 +42977,7 @@ praxises
 pray
 prayer
 prayerfulness
+prayers
 prays
 preabsorb
 preabsorbing
@@ -43771,6 +43794,7 @@ procession
 processionals
 processors
 prochoice
+prochurch
 proclaimers
 proclamation
 proconsulates
@@ -43866,6 +43890,7 @@ prognathous
 prognose
 prognosed
 prognosticate
+prognosticates
 prognosticating
 prognosticators
 prognostics
@@ -48582,6 +48607,7 @@ rounder
 roundheel
 roundhouse
 roundlet
+roundlets
 roundnesses
 roundsmen
 roundtable
@@ -49922,6 +49948,7 @@ scuba
 scubaed
 scubas
 scudding
+scudo
 scuffed
 scuffer
 scuffers
@@ -51260,6 +51287,7 @@ sibbs
 sibilancy
 sibilate
 sibilation
+sibilations
 sibling
 sibs
 sibyl
@@ -53239,6 +53267,7 @@ spleuchans
 splicer
 splicers
 spliff
+spliffs
 spline
 splined
 splines
@@ -58304,6 +58333,7 @@ trebled
 trebling
 trebuchets
 trecento
+treddles
 tredecillions
 treed
 treehopper
@@ -58547,6 +58577,7 @@ triple
 tripled
 triples
 tripletail
+triplicate
 triplicated
 triplications
 triplicities
@@ -59345,6 +59376,7 @@ unabraded
 unabsorbed
 unabusive
 unacademic
+unacademically
 unaccented
 unacceptability
 unacclimatized
@@ -60467,6 +60499,7 @@ unrevised
 unrevoked
 unrevolutionary
 unrewarding
+unrhetorical
 unriddling
 unrighteously
 unrip
@@ -60794,6 +60827,7 @@ upbraid
 upbraider
 upbraiders
 upbuild
+upbuilding
 upbuilds
 upby
 upchucking
@@ -61486,6 +61520,7 @@ verifiers
 verify
 verily
 verisimilarly
+verist
 verists
 veritableness
 veritablenesses
