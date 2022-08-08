@@ -1633,6 +1633,7 @@ amphoral
 amphoteric
 ampicillins
 amping
+ampleness
 ampler
 amplexus
 amplidyne
@@ -4046,6 +4047,7 @@ banality
 banalized
 banausic
 banda
+bandage
 bandager
 bandagers
 bandages
@@ -5253,6 +5255,7 @@ binnacles
 binning
 binocles
 binocularities
+binoculars
 binomially
 binomials
 bins
@@ -6371,6 +6374,7 @@ brainiest
 brainpan
 brainpans
 brainpower
+brainsick
 brainstems
 brainstorming
 brainstormings
@@ -7036,6 +7040,7 @@ burgh
 burgher
 burglarized
 burglarproof
+burgled
 burgles
 burgomasters
 burgoos
@@ -7287,6 +7292,7 @@ cachalot
 cachalots
 cachepots
 cacheting
+cachexia
 cachexias
 caching
 cachinnated
@@ -7836,6 +7842,7 @@ caramelized
 carangoid
 carapace
 carapaced
+carapaces
 carate
 caravan
 caravaners
@@ -11527,6 +11534,7 @@ copers
 copes
 copesetic
 copied
+copies
 copihue
 copihues
 coping
@@ -11811,6 +11819,7 @@ corvinas
 corybantes
 corydalises
 corymb
+corynebacteria
 corynebacterial
 coryneform
 coryphaei
@@ -13481,6 +13490,7 @@ daymare
 daymares
 dayroom
 days
+dayside
 daysides
 daysmen
 daytime
@@ -14795,6 +14805,7 @@ dewools
 dewormer
 dews
 dex
+dexter
 dexterity
 dexterous
 dexterousness
@@ -15138,6 +15149,7 @@ dimensioned
 dimensioning
 dimer
 dimercaprols
+dimerism
 dimers
 dimeters
 dimethoate
@@ -17052,12 +17064,14 @@ eats
 eaux
 eavesdrop
 eavesdropper
+ebonies
 ebony
 ebulliences
 ebullient
 ebulliently
 ebullitions
 ecartes
+ecaudate
 eccentrically
 eccentricities
 eccentrics
@@ -19916,6 +19930,7 @@ faultlessnesses
 faunal
 faunistically
 faunlike
+fauns
 fauvism
 fauvist
 faux
@@ -25473,6 +25488,7 @@ hirable
 hircine
 hireable
 hires
+hirples
 hirselled
 hirsels
 hirsute
@@ -27498,6 +27514,7 @@ indictable
 indicting
 indicts
 indifferent
+indifferentisms
 indifferently
 indigen
 indigences
@@ -29534,6 +29551,7 @@ kabab
 kababs
 kabala
 kabalas
+kabalism
 kabalisms
 kabalists
 kabayas
@@ -29772,6 +29790,7 @@ ketotic
 kettle
 kettledrums
 kevils
+kewpie
 kewpies
 kexes
 keyboarders
@@ -29792,6 +29811,7 @@ keypunches
 keypunching
 keyset
 keysters
+keystone
 keyword
 khaddar
 khadi
@@ -30926,6 +30946,7 @@ lentisks
 lentivirus
 lentiviruses
 leone
+leonine
 leopardess
 leotard
 leotarded
@@ -32821,6 +32842,7 @@ masturbating
 masturbator
 matchboard
 matchless
+matchlessly
 matchmake
 matchmaker
 matchmakers
@@ -36097,6 +36119,7 @@ neurasthenic
 neurilemmas
 neurine
 neuritic
+neuritis
 neuroanatomist
 neuroanatomists
 neurobiological
@@ -48311,6 +48334,7 @@ robes
 robins
 roble
 roborants
+robotically
 robotism
 robotization
 robotry
@@ -49400,6 +49424,7 @@ savvier
 sawbills
 sawboneses
 sawbucks
+sawdusty
 sawed
 sawfly
 sawhorse
@@ -49472,6 +49497,7 @@ scammonies
 scammony
 scamp
 scamped
+scamperer
 scamperers
 scampish
 scamps
@@ -50437,6 +50463,7 @@ septarium
 septenaries
 septennially
 septentrion
+septentrions
 septet
 septettes
 septical
@@ -50850,6 +50877,7 @@ sheikhdom
 sheikhdoms
 sheiks
 sheilas
+sheitan
 shekel
 shelf
 shelfful
@@ -53667,6 +53695,7 @@ starboarding
 starboards
 starchier
 starchinesses
+starching
 stardom
 stardust
 stared
@@ -55515,6 +55544,7 @@ surveilled
 survey
 surveying
 surveyor
+survival
 survivers
 survivorship
 susceptibility
@@ -55659,6 +55689,7 @@ sweetly
 sweetshop
 sweetsop
 sweetsops
+swell
 sweller
 swellfishes
 swells
@@ -56664,6 +56695,7 @@ tenias
 tennises
 tennists
 tenoner
+tenoners
 tenorites
 tenors
 tenosynovitis
@@ -60851,6 +60883,7 @@ uprushing
 upsadaisy
 upscale
 upscales
+upsending
 upsends
 upsent
 upsetters
@@ -62538,6 +62571,7 @@ weighed
 weighers
 weighman
 weighmen
+weighs
 weight
 weighted
 weightiness
@@ -63692,6 +63726,7 @@ zaffar
 zaffars
 zag
 zagging
+zaikai
 zaikais
 zamarra
 zamindar
