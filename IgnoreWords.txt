@@ -1590,6 +1590,7 @@ amnia
 amnio
 amniocenteses
 amniocentesis
+amnionic
 amnions
 amniotes
 amniotic
@@ -3202,6 +3203,7 @@ assortment
 assorts
 assuagement
 assuagements
+assumability
 assumably
 assume
 assumed
@@ -5318,6 +5320,7 @@ biodegradation
 biodegradations
 biodegrades
 biodiversities
+bioelectrical
 bioelectricity
 bioengineer
 bioethical
@@ -7875,6 +7878,7 @@ capuchin
 caput
 capybara
 capybaras
+car
 carabao
 carabid
 carabin
@@ -7933,6 +7937,7 @@ carboxylate
 carboxylating
 carboxylic
 carboxyls
+carbuncles
 carbureted
 carburetted
 carburetting
@@ -9700,6 +9705,7 @@ clarification
 clarifier
 clarifies
 clarify
+clarinets
 clarion
 clarioned
 clarionets
@@ -12494,6 +12500,7 @@ cricetid
 cricked
 cricketer
 cricketers
+crickets
 cricking
 cricoid
 cries
@@ -13202,6 +13209,7 @@ cycloaddition
 cycloadditions
 cyclodextrin
 cyclogenesis
+cyclohexanones
 cycloid
 cycloids
 cyclonically
@@ -15266,6 +15274,7 @@ dinars
 dindled
 dindling
 dined
+diner
 dinero
 dineros
 dingbat
@@ -16223,6 +16232,7 @@ dollishness
 dollishnesses
 dolly
 dollying
+dolman
 dolmens
 dolomites
 dolomitization
@@ -16293,6 +16303,7 @@ donor
 donors
 donorship
 donorships
+dons
 donsie
 donsy
 donzels
@@ -16528,6 +16539,7 @@ doyennes
 doyens
 doyleys
 doyly
+doze
 dozening
 dozens
 dozenth
@@ -18574,6 +18586,7 @@ equilateral
 equilibrants
 equilibrated
 equilibrations
+equilibratory
 equilibrist
 equilibristic
 equilibrium
@@ -19583,6 +19596,7 @@ extolls
 extolment
 extorted
 extortionary
+extortionate
 extracellular
 extracranial
 extracted
@@ -25411,6 +25425,7 @@ herstories
 hertzes
 hes
 hesitance
+hesitant
 hesitaters
 hesitation
 hesitator
@@ -33038,6 +33053,7 @@ mathematized
 mathematizes
 matilda
 matildas
+matinee
 matriarchates
 matriarchs
 matrices
@@ -34239,6 +34255,7 @@ mirthlessly
 mirths
 mirzas
 misact
+misacts
 misadd
 misadded
 misaddressed
@@ -35562,6 +35579,7 @@ multitasks
 multitiered
 multitone
 multitones
+multitudes
 multiunit
 multiuser
 multivalence
@@ -35751,6 +35769,7 @@ mutterers
 muttering
 mutters
 muttonchops
+muttonfish
 muttonfishes
 muttony
 mutualistic
@@ -36643,6 +36662,7 @@ noms
 nonabrasive
 nonabsorbent
 nonabsorptive
+nonacademics
 nonacid
 nonacidic
 nonacids
@@ -38658,6 +38678,7 @@ outmodes
 outmoved
 outmuscle
 outmuscled
+outmuscling
 outnumber
 outnumbers
 outoffice
@@ -39672,6 +39693,7 @@ paiks
 pail
 pailful
 paillard
+paillasse
 paillettes
 pained
 painful
@@ -41002,6 +41024,7 @@ perissodactyl
 peristyle
 perithecia
 perithecial
+periti
 peritoneal
 peritoneally
 peritoneums
@@ -42853,6 +42876,7 @@ portionless
 portions
 portless
 portliest
+portray
 portrayed
 portraying
 portress
@@ -44871,6 +44895,7 @@ purposelessly
 purposively
 purpure
 purpurin
+purpurins
 purr
 purring
 purringly
@@ -46539,6 +46564,7 @@ reemploy
 reemployment
 reemployments
 reenacting
+reenactments
 reendow
 reendowed
 reenforce
@@ -47823,6 +47849,7 @@ restoked
 restoral
 restorals
 restoratives
+restorers
 restores
 restrainedly
 restrainer
@@ -50403,6 +50430,7 @@ seeded
 seeder
 seedier
 seedily
+seedinesses
 seedless
 seedling
 seedlings
@@ -51761,6 +51789,7 @@ simultaneous
 simultaneously
 since
 sincere
+sincipita
 sinciputs
 sinecure
 sinew
@@ -52171,6 +52200,7 @@ slickenside
 slickers
 slicknesses
 slickrock
+slicks
 slid
 slidable
 slideway
@@ -53593,6 +53623,7 @@ sported
 sporter
 sporters
 sportfully
+sportfulness
 sportinesses
 sportively
 sportiveness
@@ -57809,6 +57840,7 @@ tirls
 tiro
 tisane
 tissuing
+titania
 titanias
 titanism
 titanite
@@ -59719,6 +59751,7 @@ unaverted
 unavoidably
 unawakened
 unawarded
+unawesome
 unbacked
 unbaked
 unbalances
@@ -60485,6 +60518,7 @@ universalizing
 universally
 universalness
 universals
+universe
 universities
 university
 univocals
@@ -63850,6 +63884,7 @@ yardarm
 yardarms
 yarder
 yarding
+yardmen
 yards
 yardstick
 yardsticks
