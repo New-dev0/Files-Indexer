@@ -354,6 +354,7 @@ acquaint
 acquaintance
 acquaintances
 acquiesce
+acquiesced
 acquiescence
 acquiescences
 acquiescing
@@ -2118,6 +2119,7 @@ antibacterial
 antibillboard
 antibioses
 antibiotically
+antibiotics
 antiblackism
 antiboss
 antiburglar
@@ -3295,6 +3297,7 @@ ataghans
 atamans
 ataps
 ataractic
+ataraxias
 ataraxics
 ataraxy
 atavistic
@@ -3312,6 +3315,7 @@ athanasies
 atheistically
 atheling
 athelings
+athenaeum
 atherogenic
 atheroma
 atheromatous
@@ -4880,6 +4884,7 @@ benempt
 benevolentness
 benignancy
 benignity
+benison
 benisons
 benjamins
 bennets
@@ -6085,6 +6090,7 @@ boobs
 booby
 boodler
 boodling
+boody
 booed
 boogermen
 boogey
@@ -6138,6 +6144,7 @@ boor
 boorish
 boorishness
 boorishnesses
+boors
 boost
 boosterisms
 boosting
@@ -9999,6 +10006,7 @@ coadmitted
 coadunate
 coagencies
 coagula
+coagulabilities
 coagulability
 coagulants
 coagulase
@@ -11675,6 +11683,7 @@ corbeils
 corbelled
 corbelling
 corbels
+corbie
 corbinas
 corby
 cord
@@ -11714,6 +11723,7 @@ corianders
 corkage
 corkages
 corkboard
+corkboards
 corker
 corkscrew
 corkwood
@@ -12228,6 +12238,7 @@ crabstick
 crack
 crackajacks
 crackback
+crackbacks
 crackerjack
 crackers
 crackhead
@@ -12441,6 +12452,7 @@ crescents
 crescive
 crescively
 cresols
+cressets
 crest
 crestal
 crestings
@@ -15646,6 +15658,7 @@ disgust
 disgustful
 dish
 dishabille
+disharmonies
 disharmonious
 disharmonizing
 dishclout
@@ -15871,6 +15884,7 @@ dissentient
 dissents
 dissert
 dissertate
+dissertates
 dissertating
 dissertation
 dissertations
@@ -21142,6 +21156,7 @@ foaminess
 foamlike
 foamy
 fobbed
+focalising
 focalizations
 focalize
 focalized
@@ -22120,6 +22135,7 @@ furmities
 furmity
 furnace
 furnaced
+furnished
 furnishers
 furnishes
 furnishing
@@ -22308,6 +22324,7 @@ galliots
 gallipot
 gallivant
 gallivanted
+gallivanting
 galliwasp
 gallnuts
 gallonages
@@ -24609,6 +24626,7 @@ handprint
 handrails
 handsaw
 handsaws
+handseled
 handselling
 handsewn
 handsful
@@ -33307,6 +33325,7 @@ mell
 mellotron
 mellowed
 mellower
+melodeon
 melodias
 melodic
 melodicas
@@ -33803,6 +33822,7 @@ micronized
 micronizes
 microns
 micronucleus
+microparticles
 microphages
 microphotometer
 microphotometry
@@ -35601,6 +35621,7 @@ museologies
 museology
 muser
 musher
+mushes
 mushier
 mushiest
 mushroomed
@@ -36928,6 +36949,7 @@ nonobscene
 nonobvious
 nonoccupational
 nonoccurrence
+nonofficial
 nonofficials
 nonoperative
 nonorthodox
@@ -37556,6 +37578,7 @@ occlusions
 occlusive
 occlusives
 occultation
+occultations
 occulter
 occulters
 occultisms
@@ -37631,6 +37654,7 @@ oddest
 oddish
 oddly
 oddment
+oddsmaker
 odeons
 odic
 odious
@@ -39197,6 +39221,7 @@ overplied
 overply
 overplying
 overpopulation
+overpotent
 overpower
 overpoweringly
 overpraises
@@ -42924,6 +42949,7 @@ posttrial
 postulant
 postulational
 postulator
+postulators
 posturers
 postvaccinal
 postvaccination
@@ -42967,6 +42993,7 @@ potholders
 pothooks
 pothouse
 pothunter
+potiche
 potiches
 potlache
 potpies
@@ -47794,6 +47821,7 @@ resuscitation
 resuscitations
 reswallowed
 resynthesizes
+ret
 retable
 retables
 retackle
@@ -50233,6 +50261,7 @@ second
 secondarily
 seconder
 seconders
+secondhand
 secondi
 seconding
 seconds
@@ -55254,6 +55283,7 @@ sulfone
 sulfones
 sulfonyl
 sulfonylureas
+sulfoxide
 sulfur
 sulfurated
 sulfureted
@@ -55746,6 +55776,7 @@ suspicions
 suspicious
 suspiration
 suspirations
+suspiring
 suss
 susses
 sustain
@@ -58290,6 +58321,7 @@ transamination
 transaxle
 transaxles
 transcended
+transcending
 transcends
 transcribe
 transcribers
@@ -59369,6 +59401,7 @@ typologic
 typologically
 typologies
 typologists
+typp
 typps
 typy
 tyrannic
@@ -60212,6 +60245,7 @@ unforced
 unforgivable
 unforgot
 unforthcoming
+unfortunately
 unfossiliferous
 unfree
 unfreed
@@ -63221,6 +63255,7 @@ windy
 wineglass
 wineless
 winemakers
+winepress
 wines
 winesaps
 wingbacks
