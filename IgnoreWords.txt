@@ -624,6 +624,7 @@ adroitnesses
 adsorbate
 adsorbent
 adsorber
+adsorption
 adularias
 adulating
 adulterant
@@ -6071,6 +6072,7 @@ bonanza
 bonded
 bondholders
 bonding
+bondless
 bondsmen
 bondstones
 bone
@@ -6126,6 +6128,7 @@ boogying
 boohooing
 boohoos
 boojum
+boojums
 bookbinder
 bookbinderies
 bookcase
@@ -6655,6 +6658,7 @@ brilliance
 brilliantines
 brilliants
 brillos
+brimfull
 brimfully
 brimstone
 brimstony
@@ -8865,6 +8869,7 @@ chartered
 charterers
 charters
 chartists
+chartless
 chartreuse
 chartreuses
 chartularies
@@ -11804,6 +11809,7 @@ cornily
 corniness
 cornmeals
 cornrow
+cornrowed
 corns
 cornstalks
 cornua
@@ -13489,6 +13495,7 @@ danglers
 danglier
 dangliest
 dangling
+danio
 danish
 danishes
 dankest
@@ -15684,6 +15691,7 @@ disequilibrates
 disequilibriums
 disestablish
 disestablished
+disesteem
 disesteemed
 disesteeming
 disesteems
@@ -16306,6 +16314,7 @@ dominicker
 dominie
 dominies
 dominique
+dominiques
 dominium
 domino
 dominoes
@@ -25185,6 +25194,7 @@ hedonist
 hedonists
 heeder
 heeders
+heedfulness
 heedlessly
 heeds
 heehaw
@@ -27097,6 +27107,7 @@ immobilizations
 immobilize
 immoderation
 immodest
+immodesties
 immodesty
 immolate
 immolating
@@ -29500,6 +29511,7 @@ jewelries
 jewfish
 jezail
 jezails
+jezebel
 jezebels
 jiao
 jib
@@ -30101,6 +30113,7 @@ kidding
 kiddo
 kiddoes
 kidlike
+kidnapee
 kidnapees
 kidnaper
 kidnappees
@@ -30495,6 +30508,7 @@ labyrinthine
 labyrinthodonts
 laccolith
 laccolithic
+laced
 laceless
 lacelike
 lacer
@@ -31005,6 +31019,7 @@ leaky
 leaned
 leanest
 leaning
+leanings
 leanly
 leans
 leant
@@ -37309,6 +37324,7 @@ northwesters
 northwests
 nortriptylines
 nos
+nose
 nosebag
 nosed
 nosedives
@@ -40521,6 +40537,7 @@ patientest
 patients
 patin
 patina
+patinae
 patinations
 patine
 patining
@@ -40880,6 +40897,7 @@ pennywort
 pennyworts
 penoches
 penologist
+penoncels
 pens
 pensee
 pensil
@@ -41143,6 +41161,7 @@ permeate
 permeating
 permian
 permillages
+permissibleness
 permission
 permitter
 permitting
@@ -43763,6 +43782,7 @@ prescribe
 prescribing
 prescripts
 preselecting
+preselection
 presentable
 presentableness
 presentations
@@ -44106,9 +44126,11 @@ proceed
 proceeder
 proceeders
 proceeds
+procephalic
 processability
 processed
 processes
+processible
 procession
 processionals
 processors
@@ -44572,6 +44594,7 @@ protyls
 proudest
 proudful
 proudnesses
+provably
 provenance
 provenances
 provenders
@@ -44899,6 +44922,7 @@ pungency
 pungently
 pungs
 puniest
+puniness
 punishers
 punishing
 punishments
@@ -45946,6 +45970,7 @@ reaccreditation
 reaccused
 reaccusing
 reach
+reaches
 reacquaint
 reacquainting
 reacquaints
@@ -45975,6 +46000,7 @@ reading
 readjustment
 readjustments
 readmitting
+readopts
 readorning
 readouts
 reaffirmations
@@ -50563,6 +50589,7 @@ seersucker
 seersuckers
 seg
 segmental
+segmentary
 segmentation
 segmenting
 segregant
@@ -50572,6 +50599,7 @@ segs
 seguidilla
 seicento
 seidels
+seigneuries
 seigniorage
 seigniorages
 seigniors
@@ -51079,6 +51107,7 @@ shabbiness
 shabby
 shacklebone
 shacklebones
+shackler
 shacklers
 shackling
 shackoes
@@ -55741,6 +55770,7 @@ superior
 superiorities
 superiorly
 superiors
+superjacent
 superjumbo
 superjumbos
 superlarge
@@ -55791,6 +55821,7 @@ superromantic
 supersalesmen
 supersaturation
 superscribes
+superscript
 superscripts
 supersecrecies
 supersecrecy
@@ -55900,6 +55931,7 @@ surcingles
 surcoats
 surd
 sure
+surely
 surenesses
 surer
 sureties
@@ -56051,6 +56083,7 @@ swanpan
 swans
 swanskins
 swapped
+swapper
 swappers
 swarajism
 swarajists
@@ -57656,6 +57689,7 @@ thriven
 thriving
 thrivingly
 throat
+throated
 throatier
 throatiness
 throating
@@ -61277,6 +61311,7 @@ upcurves
 updarts
 update
 updater
+updating
 updraft
 upflinging
 upflings
