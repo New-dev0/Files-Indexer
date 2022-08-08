@@ -711,6 +711,7 @@ aerobics
 aerobiological
 aerobiology
 aerobiosis
+aerobraked
 aerodromes
 aeroducts
 aerodynes
@@ -785,6 +786,7 @@ affirmative
 affirmatively
 affirmed
 affirmer
+affirming
 affixable
 affixal
 affixers
@@ -1268,6 +1270,7 @@ alliterates
 alliterating
 alliteratively
 allobar
+allobars
 allocatable
 allocates
 allocation
@@ -2519,6 +2522,7 @@ apostleship
 apostolic
 apostolicities
 apostrophic
+apostrophise
 apostrophising
 apostrophized
 apostrophizes
@@ -4735,6 +4739,7 @@ beknot
 beknots
 beknotting
 bel
+belaboring
 belabors
 belaced
 beladying
@@ -9200,6 +9205,7 @@ chocolatiers
 choicely
 choiceness
 choicenesses
+choicest
 choir
 choirboy
 choirboys
@@ -10491,6 +10497,7 @@ colorably
 colorado
 coloratura
 colorbred
+colorbreeding
 colorcast
 colorcasted
 colorer
@@ -11959,6 +11966,7 @@ countdowns
 countenancers
 counter
 counteracting
+counteractions
 counterargue
 counterargues
 counterattack
@@ -18957,6 +18965,7 @@ evaporates
 evaporation
 evaporations
 evaporators
+evaporite
 evaporitic
 evasive
 evasively
@@ -21089,6 +21098,7 @@ foal
 foamable
 foamed
 foamflower
+foamflowers
 foaminess
 foamlike
 foamy
@@ -23647,6 +23657,7 @@ graphicnesses
 graphics
 graphite
 graphites
+graphitic
 graphitizable
 graphitization
 graphitized
@@ -24778,6 +24789,7 @@ hatsful
 hatterias
 hatters
 hatting
+haughs
 haughtier
 haul
 haulage
@@ -27886,6 +27898,7 @@ inharmonious
 inharmony
 inhere
 inherences
+inherit
 inheritableness
 inheritors
 inheritresses
@@ -28214,6 +28227,7 @@ integration
 integrationists
 integrators
 integuments
+intellections
 intellective
 intellectively
 intellectualist
@@ -29722,6 +29736,7 @@ kecks
 kedged
 kedgerees
 kedges
+keeked
 keeking
 keeks
 keel
@@ -32104,6 +32119,7 @@ lymphadenitises
 lymphangiograms
 lymphatics
 lymphoblast
+lymphocytic
 lymphocytosis
 lymphographic
 lymphographies
@@ -32662,6 +32678,7 @@ marauds
 maravedis
 marbelize
 marble
+marbleise
 marbleising
 marbleize
 marbleizing
@@ -33237,6 +33254,7 @@ meliorism
 meliorists
 melisma
 mell
+mellotron
 mellowed
 mellower
 melodias
@@ -33336,6 +33354,7 @@ mentalists
 mentations
 mentee
 mentees
+menthene
 mentioned
 mentioner
 mentioners
@@ -33645,6 +33664,7 @@ mezzotinted
 miaou
 miaowed
 miaowing
+miasmas
 miasmatic
 miasmic
 miaul
@@ -35746,6 +35766,7 @@ nadas
 nadirs
 nae
 naevi
+naevoid
 naffs
 nagana
 nagged
@@ -37929,6 +37950,7 @@ optimize
 optimized
 optimizers
 optimizes
+optimum
 optionalities
 optionals
 optionee
@@ -44900,6 +44922,7 @@ quadrats
 quadrature
 quadratures
 quadrennia
+quadrennial
 quadrennium
 quadricep
 quadricepses
@@ -45242,6 +45265,7 @@ radiating
 radiation
 radiationless
 radiative
+radical
 radicalise
 radicalising
 radicalisms
@@ -48543,6 +48567,7 @@ roqueted
 roqueting
 roquets
 rosaceas
+rosanilins
 rosaries
 rosary
 roscoe
@@ -53400,6 +53425,7 @@ sportswomen
 sportswritings
 sporulates
 sporulating
+spot
 spotless
 spotlessly
 spotlighting
@@ -53741,6 +53767,7 @@ stanks
 stannic
 stannite
 stannites
+stanol
 stanza
 stanzaic
 stanzas
@@ -56947,6 +56974,7 @@ tetracyclines
 tetradic
 tetradynamous
 tetrafluorides
+tetragon
 tetragons
 tetragrammaton
 tetragrams
@@ -57466,6 +57494,7 @@ tigresses
 tikes
 tikka
 til
+tilak
 tilaks
 tilapia
 tilde
@@ -57496,6 +57525,7 @@ timberline
 timberlines
 timbrel
 timbrelled
+timecard
 timekeeper
 timekeepings
 timelessness
@@ -57526,6 +57556,7 @@ tinctured
 tinctures
 tincturing
 tinders
+tine
 tineas
 tineid
 tinfuls
@@ -57723,6 +57754,7 @@ tolus
 toluyls
 tomahawked
 tomahawking
+tomahawks
 tomalleys
 tomans
 tomatillo
@@ -60087,6 +60119,7 @@ unfreed
 unfreeing
 unfreezes
 unfreezing
+unfrequented
 unfriendliness
 unfriendly
 unfrock
@@ -61627,6 +61660,7 @@ vesseled
 vestals
 vestas
 vested
+vestees
 vestibule
 vestibuled
 vestibuling
@@ -63522,6 +63556,7 @@ xenial
 xenias
 xenobiotics
 xenoblast
+xenocryst
 xenodiagnostic
 xenogamies
 xenogamy
