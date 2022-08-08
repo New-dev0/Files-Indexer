@@ -568,6 +568,7 @@ administrants
 administrate
 administrates
 administrating
+administration
 administrator
 admirable
 admirableness
@@ -1650,6 +1651,7 @@ ampleness
 ampler
 amplexus
 amplidyne
+amplidynes
 amplify
 amplifying
 amply
@@ -2029,6 +2031,7 @@ anopheles
 anorak
 anorexia
 anorexies
+anorexy
 anorthic
 anorthosites
 anosmias
@@ -4759,6 +4762,7 @@ bejeweling
 bejewels
 bejumbles
 bejumbling
+bekiss
 beknight
 beknot
 beknots
@@ -5518,6 +5522,7 @@ bittiest
 bittiness
 bittock
 bittocks
+bitty
 bitumen
 bituminization
 bituminizations
@@ -8423,6 +8428,7 @@ caving
 cavitary
 cavitating
 cavitations
+cavorters
 cavorts
 cayman
 caymans
@@ -11410,6 +11416,7 @@ contextures
 contiguously
 continentals
 continently
+contingence
 contingencies
 continual
 continually
@@ -12146,6 +12153,7 @@ coupons
 courageousness
 courages
 courant
+courante
 courier
 courlan
 courlans
@@ -12853,6 +12861,7 @@ cuddle
 cuddler
 cuddlesome
 cuddly
+cuddy
 cudgelling
 cudgels
 cuds
@@ -16613,6 +16622,7 @@ dramedies
 drammed
 drammocks
 dramshops
+drapabilities
 drapability
 drapeability
 drapeable
@@ -18306,6 +18316,7 @@ entities
 entitle
 entitled
 entitlements
+entitles
 entitling
 entity
 entoblast
@@ -18676,6 +18687,7 @@ ericas
 erigeron
 eringos
 eriophyid
+ermined
 eroded
 erodes
 erodibility
@@ -26299,6 +26311,7 @@ hulked
 hulkier
 hulkiest
 hulks
+hulky
 hullabaloos
 hulled
 hulloa
@@ -28276,6 +28289,7 @@ inspects
 inspheres
 inspiration
 inspirator
+inspire
 inspirit
 inspirited
 inspiritingly
@@ -29768,6 +29782,7 @@ kaddishes
 kaddishim
 kadi
 kadis
+kae
 kaffiyahs
 kaffiyeh
 kafs
@@ -30089,6 +30104,7 @@ kilim
 kill
 killable
 killdeers
+killed
 killies
 killjoy
 killock
@@ -31587,6 +31603,7 @@ lipotropies
 lipotropy
 lippened
 lippens
+lippered
 lippering
 lippers
 lippier
@@ -32168,6 +32185,7 @@ lumpier
 lumpinesses
 lumping
 lumpingly
+lumpishnesses
 lunacy
 lunarian
 lunarians
@@ -36309,6 +36327,7 @@ nephridial
 nephrisms
 nephrite
 nephrites
+nephritises
 nephrologies
 nephrologist
 nephropathy
@@ -38963,6 +38982,7 @@ outwritten
 outwrought
 outyell
 ouzo
+ouzos
 ova
 oval
 ovality
@@ -46782,6 +46802,7 @@ refrangible
 refreeze
 refreezes
 refresh
+refreshened
 refreshening
 refresher
 refreshers
@@ -47848,6 +47869,7 @@ respoken
 respondent
 respondents
 responder
+responders
 responding
 responds
 responsa
@@ -49265,6 +49287,7 @@ safest
 safeties
 safety
 safetyman
+safflower
 saffron
 safranin
 safranine
@@ -50539,6 +50562,7 @@ seining
 seise
 seised
 seisers
+seises
 seisings
 seisins
 seism
@@ -51787,6 +51811,7 @@ silliness
 silly
 silt
 siltiest
+silty
 silurid
 silva
 silvae
@@ -52492,6 +52517,7 @@ smirkers
 smirks
 smite
 smiter
+smites
 smithereens
 smitheries
 smithers
@@ -52638,6 +52664,7 @@ sniggers
 sniggle
 sniggled
 sniggler
+snipe
 sniped
 sniper
 snippet
@@ -53128,6 +53155,7 @@ soundless
 soundly
 soundmen
 soundness
+soundproof
 soundproofed
 soundstages
 souped
@@ -54883,6 +54911,7 @@ suability
 suable
 suably
 suasion
+suasions
 suasiveness
 suasivenesses
 suave
@@ -56614,6 +56643,7 @@ tantalites
 tantalize
 tantalizing
 tantalum
+tantara
 tantivies
 tantra
 tantrism
@@ -56966,6 +56996,7 @@ tellingly
 tells
 telltales
 tellurian
+telluric
 tellurides
 tellurions
 tellurium
@@ -58087,12 +58118,14 @@ tonicity
 tonics
 tonier
 tonnage
+tonneau
 tonnish
 tonometer
 tonometers
 tonsils
 tonsured
 tonsuring
+tontine
 tontines
 tonuses
 tony
@@ -58953,6 +58986,7 @@ trisaccharide
 trisaccharides
 trisector
 trisemic
+trishaw
 triskele
 triskeles
 triskelia
@@ -59658,6 +59692,7 @@ ultralight
 ultralow
 ultramarathons
 ultramarine
+ultramasculine
 ultramicroscope
 ultraminiature
 ultramodern
