@@ -354,6 +354,7 @@ acquaint
 acquaintance
 acquaintances
 acquiesce
+acquiescence
 acquiescences
 acquiescing
 acquired
@@ -1359,6 +1360,7 @@ alpenhorns
 alpenstock
 alpha
 alphabet
+alphabeting
 alphabetize
 alphabetized
 alphabetizers
@@ -1582,6 +1584,7 @@ amnio
 amniocenteses
 amniocentesis
 amnions
+amniotes
 amniotic
 amobarbital
 amoebas
@@ -4035,6 +4038,7 @@ ballyrags
 balm
 balmier
 balminess
+balminesses
 baloney
 baloneys
 bals
@@ -4422,6 +4426,7 @@ beachheads
 beachier
 beachside
 beacon
+beacons
 beadhouses
 beadiest
 beadily
@@ -5022,6 +5027,7 @@ better
 bettering
 bettors
 between
+betweenness
 betweennesses
 betweentimes
 bevatron
@@ -6766,6 +6772,7 @@ bruising
 bruited
 bruiters
 bruits
+brulot
 brumby
 brunch
 bruncher
@@ -7683,6 +7690,7 @@ canolas
 canonical
 canonised
 canonises
+canonising
 canonist
 canonists
 canonizations
@@ -7903,6 +7911,7 @@ carcels
 carcinogen
 carcinogenic
 carcinoid
+carcinoma
 carcinosarcoma
 cardamon
 cardamums
@@ -9231,6 +9240,7 @@ choosey
 choosier
 choosiest
 choosing
+chop
 chophouse
 choplogic
 choppering
@@ -10043,6 +10053,7 @@ cocaptains
 cocarboxylase
 cocarcinogenic
 cocarcinogens
+cocatalyst
 cocatalysts
 coccidia
 coccidium
@@ -15490,6 +15501,7 @@ discourages
 discouraging
 discoursed
 discoursers
+discourtesies
 discourtesy
 discover
 discoverable
@@ -16984,6 +16996,7 @@ dystaxias
 dysthymia
 dysthymics
 dystocias
+dystonias
 dystopian
 dystopias
 dystrophic
@@ -19595,6 +19608,7 @@ fabricates
 fabulates
 fabulating
 fabulously
+fabulousness
 faceable
 facecloths
 facelessnesses
@@ -24194,6 +24208,7 @@ gutsiest
 gutsinesses
 gutsy
 gutta
+guttae
 guttate
 guttations
 gutter
@@ -24847,6 +24862,7 @@ headachier
 headachiest
 headband
 headbands
+headcheese
 headcheeses
 headcounts
 headdress
@@ -24855,6 +24871,7 @@ headends
 header
 headfirst
 headfish
+headfishes
 headforemost
 headful
 headfuls
@@ -24980,6 +24997,7 @@ hectical
 hecticly
 hectograms
 hectoliter
+hectoliters
 hectors
 heddles
 heder
@@ -25079,6 +25097,7 @@ helotry
 helots
 helped
 helpful
+helplessness
 helpmate
 helpmates
 helpmeets
@@ -26481,6 +26500,7 @@ hypersalivation
 hypersecretions
 hypersexuality
 hypersonic
+hypersonically
 hyperspace
 hypersthene
 hypertense
@@ -27599,6 +27619,7 @@ induced
 inducement
 inducer
 inducing
+inducted
 inductee
 inductees
 inductile
@@ -30435,6 +30456,7 @@ lampooners
 lampoonery
 lampooning
 lamprey
+lampshell
 lamsters
 lanai
 lanais
@@ -33744,6 +33766,7 @@ microstructures
 microsurgeries
 microswitch
 microtechnique
+microtonalities
 microtonality
 microtonally
 microtone
@@ -39090,6 +39113,7 @@ overplying
 overpopulation
 overpower
 overpoweringly
+overpraises
 overprescribing
 overpressures
 overpricing
@@ -40582,6 +40606,7 @@ pennycress
 pennywise
 pennywort
 pennyworts
+penoches
 penologist
 pens
 pensee
@@ -46813,6 +46838,7 @@ relaxable
 relaxants
 relaxation
 relaxed
+relaxing
 relearned
 releasable
 releasing
@@ -48346,6 +48372,7 @@ roamers
 roan
 roans
 roar
+roarers
 roast
 roasted
 roaster
@@ -48373,6 +48400,7 @@ rocambole
 rochets
 rockabies
 rockabilly
+rockabye
 rocker
 rockery
 rocketed
@@ -49120,6 +49148,7 @@ salvagers
 salvages
 salvation
 salvational
+salve
 salved
 salverform
 salvias
@@ -49390,6 +49419,7 @@ satyrid
 satyrlike
 satyrs
 sauce
+sauceboats
 saucepan
 saucepot
 saucepots
@@ -50365,6 +50395,7 @@ semioticist
 semioticists
 semiotics
 semipalmated
+semipermeable
 semipious
 semipolitical
 semipopular
@@ -50833,6 +50864,7 @@ sharpies
 sharply
 sharpness
 sharpy
+shashlick
 shashlik
 shat
 shatter
@@ -55756,6 +55788,7 @@ swingy
 swinish
 swinishness
 swinneys
+swiping
 swiple
 swiples
 swipple
@@ -56777,6 +56810,7 @@ tepoy
 tepoys
 tequilas
 terabyte
+terabytes
 teraflop
 terahertzes
 terai
@@ -56954,6 +56988,7 @@ thairms
 thalami
 thalamus
 thalassaemias
+thalassic
 thalassocracies
 thalassocracy
 thalidomide
