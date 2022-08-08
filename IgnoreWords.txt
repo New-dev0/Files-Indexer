@@ -507,6 +507,7 @@ adeems
 ademption
 adenine
 adenines
+adenohypophyses
 adenoid
 adenomas
 adenosine
@@ -1187,6 +1188,7 @@ aliform
 alifs
 alighting
 align
+aligners
 alike
 alikeness
 aliment
@@ -3154,6 +3156,7 @@ assemblyman
 assemblymen
 assemblywoman
 assentation
+assentations
 assented
 assenter
 assenters
@@ -4464,6 +4467,7 @@ beachier
 beachside
 beacon
 beacons
+beaders
 beadhouses
 beadiest
 beadily
@@ -5136,6 +5140,7 @@ biassing
 biaxal
 biaxially
 bibbed
+bibbery
 bibelot
 bibless
 biblically
@@ -5805,6 +5810,7 @@ blowgun
 blowguns
 blowhards
 blowholes
+blowier
 blowing
 blowjobs
 blown
@@ -11210,6 +11216,7 @@ conjugationally
 conjunction
 conjunctional
 conjunctiva
+conjuncture
 conjurer
 conjuror
 conjurors
@@ -12506,6 +12513,7 @@ crepitations
 crepuscles
 crepuscular
 crescendi
+crescendoing
 crescents
 crescive
 crescively
@@ -14518,6 +14526,7 @@ deplored
 deplorer
 deploring
 deployable
+deployer
 deployers
 deployments
 deploys
@@ -15988,6 +15997,7 @@ dissimulations
 dissimulators
 dissipate
 dissipatedness
+dissipaters
 dissipations
 dissociability
 dissociable
@@ -20371,6 +20381,7 @@ fetched
 feted
 fetial
 fetiales
+fetialis
 fetials
 feticidal
 feticide
@@ -21810,6 +21821,7 @@ frameworks
 franc
 franchise
 franchisees
+franchiser
 francium
 franciums
 francize
@@ -23825,6 +23837,7 @@ granulomatous
 granulose
 granulosis
 granum
+graperies
 grapevine
 grapevines
 graph
@@ -25327,6 +25340,7 @@ hemiacetal
 hemic
 hemicellulose
 hemicycle
+hemimorphic
 hemimorphism
 hemimorphisms
 hemiola
@@ -26018,6 +26032,7 @@ homunculi
 hon
 honcho
 honda
+hondas
 hondle
 hondled
 hondles
@@ -28254,6 +28269,7 @@ insatiateness
 inscribe
 inscribes
 inscribing
+inscriptively
 inscroll
 inscrutable
 insculp
@@ -30400,6 +30416,7 @@ kooks
 kopeck
 kopecks
 koph
+kopje
 kopjes
 koppa
 koppas
@@ -30576,6 +30593,7 @@ ladlefuls
 ladlers
 ladles
 ladling
+ladron
 ladrons
 ladybird
 ladybirds
@@ -31050,6 +31068,7 @@ leas
 leasebacks
 leasers
 least
+leasts
 leastways
 leathered
 leatherette
@@ -31282,6 +31301,7 @@ leukons
 leukopenias
 leukoplakia
 leukoplakias
+leukopoiesis
 leukopoietic
 leukorrhea
 leukotomies
@@ -37491,6 +37511,7 @@ numb
 numbat
 numbats
 number
+numberer
 numberless
 numbfish
 numbfishes
@@ -37746,6 +37767,7 @@ obverting
 obviated
 obviates
 obviating
+obviators
 obviousnesses
 obvolute
 ocarina
@@ -44710,6 +44732,7 @@ psittacine
 psittacines
 psittacosis
 psoai
+psoatic
 psocid
 psoraleas
 psoriasis
@@ -46335,6 +46358,7 @@ recodifying
 recognise
 recognised
 recognizable
+recognizably
 recognizer
 recognizers
 recognizes
@@ -47199,6 +47223,7 @@ relaxants
 relaxation
 relaxed
 relaxing
+relearn
 relearned
 releasable
 releasing
@@ -47312,6 +47337,7 @@ remediated
 remediation
 remediless
 remeeting
+remelted
 remelts
 remember
 rememberability
@@ -47469,6 +47495,7 @@ reoxidations
 rep
 repacified
 repack
+repackagers
 repainted
 repainting
 repairability
@@ -47486,6 +47513,7 @@ repartees
 repartition
 repasses
 repasting
+repasts
 repatriate
 repatterned
 repaved
@@ -47679,6 +47707,7 @@ repurchased
 repurposes
 repursue
 repursued
+repursuing
 reputable
 reputational
 reputes
@@ -47971,6 +48000,7 @@ restaging
 restartable
 restate
 restatements
+restation
 restationed
 restations
 restaurant
@@ -50478,6 +50508,7 @@ seaward
 seaware
 seawares
 seawaters
+seaweed
 seaworthinesses
 sebasic
 seborrhea
@@ -51795,6 +51826,7 @@ sightings
 sightless
 sightlessnesses
 sightliest
+sightlines
 sightly
 sights
 sightseeing
@@ -54551,6 +54583,7 @@ stodging
 stogey
 stoically
 stoichiometric
+stoichiometries
 stoicisms
 stoked
 stokehold
@@ -62555,6 +62588,7 @@ vomicae
 vomit
 vomiter
 vomiting
+vomitives
 vomito
 vomituses
 voodoo
@@ -64357,6 +64391,7 @@ zigzagged
 zigzagger
 zillah
 zillahs
+zillion
 zillions
 zillionth
 zincate
