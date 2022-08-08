@@ -741,6 +741,7 @@ aerosolizations
 aerosolizing
 aerostatics
 aesthesia
+aesthesias
 aesthetes
 aestheticism
 aestheticisms
@@ -2498,6 +2499,7 @@ apodosis
 apoenzymes
 apogamic
 apogeic
+apolipoprotein
 apolitically
 apolog
 apologetics
@@ -2942,6 +2944,7 @@ arrhizal
 arrhythmias
 arrivers
 arrives
+arriviste
 arrivistes
 arroba
 arrogance
@@ -3806,6 +3809,7 @@ azure
 azygoses
 baal
 baalim
+baals
 baaskaap
 baaskaps
 babassu
@@ -4792,6 +4796,7 @@ belgas
 belied
 beliers
 believabilities
+believability
 believed
 believer
 believers
@@ -6886,6 +6891,7 @@ buckers
 bucket
 bucketfuls
 bucketing
+buckeye
 buckeyes
 buckled
 buckler
@@ -9799,6 +9805,7 @@ clearings
 clearly
 clearstories
 clearwings
+cleavable
 cleave
 cleavers
 cleaves
@@ -10837,6 +10844,7 @@ complexified
 complexifies
 complexioned
 complexities
+complexness
 compliance
 compliancies
 compliant
@@ -14549,6 +14557,7 @@ depredate
 depredates
 depredations
 depredator
+depredators
 depredatory
 depresses
 depressive
@@ -17444,6 +17453,7 @@ egocentricity
 egocentrics
 egocentrisms
 egoless
+egomaniac
 egomaniacally
 egomanias
 egregiously
@@ -18906,6 +18916,7 @@ etherealizes
 etherealnesses
 etherizations
 etherizer
+etherizers
 etherizes
 etherizing
 ethically
@@ -22833,6 +22844,7 @@ gentian
 gentiles
 gentilesses
 gentilities
+gentlefolks
 gentleman
 gentlemanliness
 gentlemanly
@@ -25010,6 +25022,7 @@ hazardousness
 hazel
 hazelhen
 hazer
+hazers
 hazier
 haziest
 haziness
@@ -25233,6 +25246,7 @@ hellbox
 hellboxes
 helled
 hellenizations
+helleris
 hellers
 hellfire
 hellfires
@@ -25668,6 +25682,7 @@ hinterlands
 hinting
 hipbone
 hipbones
+hipless
 hiplike
 hippienesses
 hippies
@@ -27707,6 +27722,7 @@ indexation
 indexed
 indexing
 indican
+indicant
 indicants
 indicates
 indications
@@ -28791,6 +28807,7 @@ introject
 intromission
 intromit
 intromitted
+introrse
 introspect
 introspections
 introverts
@@ -34031,6 +34048,7 @@ midspace
 midsummers
 midtown
 midtowns
+midwatches
 midweek
 midwife
 midwiferies
@@ -37419,6 +37437,7 @@ nudes
 nudest
 nudibranchs
 nudie
+nudism
 nudists
 nudities
 nudity
@@ -40898,6 +40917,7 @@ pentodes
 pentose
 pentoses
 penuchi
+penuchis
 penuchle
 penuchles
 penuckle
@@ -41644,6 +41664,7 @@ photostat
 photosynthate
 photosynthesis
 photosynthetic
+photosystem
 phototaxes
 phototaxies
 phototoxic
@@ -45163,6 +45184,7 @@ quackery
 quackish
 quackism
 quacks
+quacksalvers
 quad
 quadding
 quadplexes
@@ -50632,6 +50654,7 @@ semaphoring
 semasiologies
 semasiology
 semblable
+semblables
 semeiologies
 sememes
 semen
@@ -52702,6 +52725,7 @@ snoozing
 snoozles
 snore
 snored
+snorkelers
 snorkeling
 snort
 snorted
@@ -54011,6 +54035,7 @@ stalag
 stalags
 stale
 stalemated
+stalker
 stalky
 stallholder
 stallion
@@ -54108,6 +54133,7 @@ starveling
 starvelings
 starving
 starwort
+starworts
 stash
 stashes
 stasima
@@ -54758,6 +54784,7 @@ striped
 stripeless
 striping
 striplings
+strips
 stript
 striptease
 stripteaser
@@ -55333,6 +55360,7 @@ subviruses
 subvocalize
 subway
 subwayed
+subwoofer
 subwriter
 subzero
 subzones
@@ -55482,6 +55510,7 @@ sulked
 sulkers
 sulkiest
 sullage
+sullen
 sullener
 sullies
 sully
@@ -56330,6 +56359,7 @@ synonymic
 synonymity
 synonymize
 synonymously
+synonymy
 synopsis
 synopsizes
 synoptical
@@ -57294,6 +57324,7 @@ tetragrams
 tetrahedrally
 tetralogies
 tetramer
+tetramers
 tetrameters
 tetrapod
 tetrapods
@@ -58723,6 +58754,7 @@ treddles
 tredecillions
 treed
 treehopper
+treehouses
 treelawn
 treelike
 treen
@@ -58859,6 +58891,7 @@ tricksters
 tricksy
 triclinic
 tricolette
+tricolor
 tricolors
 tricorn
 tricorne
@@ -62233,6 +62266,7 @@ virtuoso
 virtuous
 virtuousness
 virtuousnesses
+virucide
 virulences
 virulencies
 virus
@@ -63442,6 +63476,7 @@ window
 windowing
 windowpanes
 windows
+windowsill
 windpipes
 windrowed
 windrower
