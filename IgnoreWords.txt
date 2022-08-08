@@ -792,6 +792,7 @@ affixments
 affixtures
 afflatus
 afflicted
+afflicter
 afflicters
 afflicting
 afflictions
@@ -1433,6 +1434,7 @@ amalgamate
 amalgamators
 amalgams
 amanitin
+amanuenses
 amarelles
 amarna
 amaryllises
@@ -4783,6 +4785,7 @@ belonging
 belongingnesses
 beloveds
 below
+belted
 belter
 belters
 beltings
@@ -5058,6 +5061,7 @@ bezoar
 bezzants
 bhaktas
 bhang
+bhangras
 bhangs
 bharals
 bheestie
@@ -6479,6 +6483,7 @@ breakfast
 breakfaster
 breakfasts
 breakings
+breakneck
 breakout
 breakthrough
 breakup
@@ -12499,6 +12504,7 @@ cromlech
 crone
 crook
 crooked
+crookedest
 crookednesses
 crookeries
 croon
@@ -13432,6 +13438,7 @@ datos
 datura
 daturas
 daube
+daubed
 dauberies
 daubers
 daubery
@@ -13451,6 +13458,7 @@ davenport
 dawdle
 dawdled
 dawdler
+dawdles
 dawned
 dawning
 dawnlike
@@ -17836,6 +17844,7 @@ endemism
 endgame
 ending
 endited
+endleaf
 endleafs
 endlessness
 endnote
@@ -21937,6 +21946,7 @@ fulsomenesses
 fulvous
 fumarase
 fumeless
+fumer
 fumers
 fumette
 fumier
@@ -26440,6 +26450,7 @@ hyperresponsive
 hyperromantics
 hypersalivation
 hypersecretions
+hypersexuality
 hypersonic
 hyperspace
 hypersthene
@@ -27758,6 +27769,7 @@ infos
 infotainments
 infought
 infracting
+infractor
 infractors
 infrahuman
 infraspecific
@@ -29329,6 +29341,7 @@ joiner
 joinings
 joint
 jointednesses
+jointers
 jointly
 jointresses
 jointweeds
@@ -31786,6 +31799,7 @@ loungers
 loungewears
 loungy
 loupe
+loups
 lour
 loured
 louses
@@ -32541,6 +32555,7 @@ mantelet
 mantels
 mantelshelf
 mantes
+mantids
 mantilla
 mantillas
 mantis
@@ -36559,6 +36574,7 @@ noncounty
 noncreative
 noncreativity
 noncredit
+noncrisis
 noncritical
 noncrossover
 noncrushable
@@ -39206,6 +39222,7 @@ overwaters
 overwearied
 overwearing
 overweened
+overweeningly
 overweighted
 overweighting
 overwetted
@@ -39599,6 +39616,7 @@ pampean
 pampeans
 pampered
 pamperer
+pamphlet
 pamphleteer
 pamphleteered
 pams
@@ -41320,6 +41338,7 @@ phreatophytic
 phrenitis
 phrenologies
 phrenology
+phrensy
 phthalate
 phthalein
 phthaleins
@@ -43136,6 +43155,7 @@ preexists
 preexposes
 prefabbing
 prefabricates
+prefabrication
 prefaces
 prefaded
 prefascist
@@ -45232,6 +45252,7 @@ ragtimes
 ragtops
 ragworts
 raia
+raid
 raids
 railbus
 railbuses
@@ -45305,6 +45326,7 @@ ramose
 ramosely
 ramosities
 ramosity
+rampage
 rampageousness
 rampager
 rampages
@@ -47746,6 +47768,7 @@ retrogression
 retrogressive
 retrogressively
 retronym
+retronyms
 retroreflection
 retroreflective
 retroreflectors
@@ -48059,6 +48082,7 @@ richweed
 ricin
 ricinuses
 rick
+ricketier
 rickeys
 ricking
 ricks
@@ -48506,6 +48530,7 @@ rouens
 roues
 rouged
 roughage
+roughages
 roughbacks
 roughcasting
 roughdries
@@ -48982,6 +49007,7 @@ salivator
 salivators
 sallet
 sallets
+sallier
 salliers
 sallow
 sallowed
@@ -50908,6 +50934,7 @@ shilingi
 shillalah
 shillelah
 shillelahs
+shills
 shim
 shimmer
 shimmered
@@ -53724,6 +53751,7 @@ stead
 steadfast
 steadfastly
 steadfastnesses
+steadied
 steadiest
 steadings
 steaks
@@ -54101,6 +54129,7 @@ storeroom
 storerooms
 storeship
 storeships
+storey
 storeys
 storks
 storksbills
@@ -54465,6 +54494,7 @@ suability
 suable
 suably
 suasion
+suasiveness
 suasivenesses
 suave
 suavely
@@ -56358,6 +56388,7 @@ teachablenesses
 teachably
 teacup
 teahouses
+teakettles
 teakwood
 team
 teamaker
@@ -58369,6 +58400,7 @@ trickiness
 trickinesses
 trickish
 trickle
+trickles
 trickling
 trickly
 tricksier
@@ -58470,6 +58502,7 @@ trinodal
 trinomials
 triode
 triol
+triolets
 triols
 trios
 trioxid
@@ -60651,6 +60684,7 @@ untwist
 untwisted
 untwisting
 ununbium
+unununium
 unurged
 unusable
 unused
@@ -61078,6 +61112,7 @@ valuablenesses
 valuated
 valuating
 valuation
+valuator
 value
 valueless
 values
