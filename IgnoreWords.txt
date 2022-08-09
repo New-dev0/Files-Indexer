@@ -841,6 +841,7 @@ afterburner
 aftercares
 afterclap
 afterdeck
+afterdecks
 afterglow
 afterlife
 afterlives
@@ -1712,6 +1713,7 @@ anabaenas
 anabasis
 anabatic
 anabioses
+anablepses
 anabranch
 anachronism
 anachronistic
@@ -4446,6 +4448,7 @@ bauxites
 bauxitic
 bawcocks
 bawdier
+bawdies
 bawdric
 bawdy
 bawl
@@ -6836,6 +6839,7 @@ browband
 browbeats
 browed
 browned
+browner
 brownie
 brownier
 brownnesses
@@ -7214,6 +7218,7 @@ bushtit
 bushtits
 bushveld
 bushwhackers
+bushy
 busier
 business
 businessmen
@@ -13215,6 +13220,7 @@ cutesie
 cutest
 cuteys
 cutgrass
+cuticulae
 cuticular
 cutin
 cutinise
@@ -14467,6 +14473,7 @@ denaturalizing
 denaturations
 denature
 denatured
+denazifies
 dendrimers
 dendrograms
 dendrologist
@@ -15977,6 +15984,7 @@ disputatious
 dispute
 disputed
 disqualified
+disqualifies
 disqualify
 disquantities
 disquiet
@@ -16068,6 +16076,7 @@ dissolutely
 dissolve
 dissolved
 dissolves
+dissuade
 dissuader
 dissuaders
 dissuasively
@@ -20669,6 +20678,7 @@ fin
 finagle
 finagled
 finagler
+finagles
 finalised
 finalism
 finalist
@@ -21879,6 +21889,7 @@ fragged
 fragmentally
 fragmentarily
 fragmentary
+fragmentated
 fragmentates
 fragmentating
 fragmenting
@@ -26282,6 +26293,7 @@ horselike
 horsemanships
 horsemint
 horseplay
+horsepower
 horsepowers
 horsepox
 horsepoxes
@@ -26297,6 +26309,7 @@ horseweed
 horsewhip
 horsewhipper
 horsinesses
+horste
 horticultures
 hosannaed
 hosannah
@@ -26462,6 +26475,7 @@ hulloas
 hulloed
 hum
 human
+humaneness
 humaner
 humanhoods
 humanist
@@ -28302,6 +28316,7 @@ innervated
 innervates
 innervating
 innervation
+innervations
 innerving
 innings
 innkeeper
@@ -28344,6 +28359,7 @@ inosine
 inotropic
 inpour
 inpoured
+inpouring
 inputs
 inputting
 inquieted
@@ -32728,6 +32744,7 @@ makars
 makebate
 makefasts
 maker
+makereadies
 makeup
 making
 malachites
@@ -33332,6 +33349,7 @@ mauler
 maulsticks
 maumet
 maumetries
+maumets
 maun
 maund
 maunderers
@@ -33508,6 +33526,7 @@ meditating
 meditation
 meditative
 meditators
+medius
 medivac
 medivacked
 medivacs
@@ -35674,6 +35693,7 @@ mucous
 mucro
 mucronate
 mucrones
+mudcapped
 mudcapping
 mudcat
 mudder
@@ -36847,6 +36867,7 @@ nobbily
 nobble
 nobblers
 nobby
+nobelium
 nobility
 noble
 nobleman
@@ -37641,6 +37662,7 @@ numberer
 numberless
 numbfish
 numbfishes
+numbing
 numbingly
 numbles
 numbness
@@ -38960,6 +38982,7 @@ outpeopled
 outpitied
 outplace
 outplacement
+outplacements
 outplayed
 outplots
 outpointing
@@ -39611,6 +39634,7 @@ overrude
 overruffed
 overrule
 overruled
+overrules
 overrunning
 overruns
 overs
@@ -42045,6 +42069,7 @@ picrotoxins
 pics
 pictographies
 pictographs
+pictography
 pictorial
 pictorialism
 pictorialized
@@ -42525,6 +42550,7 @@ platitudinizes
 platonisms
 platooned
 platted
+platter
 platterful
 platyfish
 platyhelminthic
@@ -43629,6 +43655,7 @@ preconscious
 preconsonantal
 preconstructed
 precontact
+preconviction
 preconvictions
 precooked
 precooking
@@ -44435,6 +44462,7 @@ programs
 progression
 progressive
 progressively
+progressivism
 progressivist
 progressivists
 progressivity
@@ -44505,6 +44533,7 @@ promos
 promotable
 promotiveness
 prompt
+promptbook
 prompter
 promptitudes
 pronation
@@ -54165,6 +54194,7 @@ squatnesses
 squattest
 squatting
 squatty
+squawbush
 squawroot
 squawroots
 squeak
@@ -55674,6 +55704,7 @@ suckfishes
 suckiest
 suckle
 suckler
+suckles
 suckless
 sucky
 sucres
@@ -61245,6 +61276,7 @@ unrhetorical
 unriddling
 unrighteously
 unrip
+unriper
 unripest
 unripped
 unroasted
@@ -64397,6 +64429,7 @@ yellowthroat
 yellowware
 yellowwoods
 yellowy
+yells
 yelped
 yelper
 yelping
@@ -64642,6 +64675,7 @@ zocalos
 zodiacal
 zoeae
 zoecia
+zoic
 zoisite
 zombielike
 zombification
@@ -64700,6 +64734,7 @@ zorilla
 zorillas
 zorillo
 zouave
+zouk
 zouks
 zounds
 zuz
