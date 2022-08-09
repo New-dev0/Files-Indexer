@@ -519,6 +519,7 @@ adenosines
 adenosis
 adenoviruses
 adeptness
+adeptnesses
 adequacies
 adequate
 adequatenesses
@@ -609,6 +610,7 @@ adolescent
 adolescently
 adolescents
 adopt
+adoptabilities
 adoptability
 adoptees
 adoptionist
@@ -3124,6 +3126,7 @@ aslope
 asocial
 asparagine
 asparagines
+aspartame
 aspartate
 aspartates
 aspect
@@ -4658,6 +4661,7 @@ bedizens
 bedless
 bedmate
 bedmates
+bedplates
 bedpost
 bedposts
 bedraggled
@@ -5092,6 +5096,7 @@ betaine
 betake
 betelnut
 bethanked
+bethanking
 bethorned
 bethorning
 beths
@@ -6391,6 +6396,7 @@ bouvardia
 bouvardias
 bouzoukia
 bouzoukis
+bovid
 bovids
 bovine
 bovinity
@@ -7216,6 +7222,7 @@ burro
 burrow
 burrowers
 burrows
+burry
 bursa
 burse
 burseed
@@ -7383,6 +7390,7 @@ bystreet
 bystreets
 byte
 bytes
+byway
 byways
 byword
 bywork
@@ -8784,6 +8792,7 @@ chalcedonies
 chalcedony
 chalcocite
 chalcogenides
+chalcogens
 chaleh
 chalet
 chalice
@@ -11020,6 +11029,7 @@ comradery
 comradeships
 comsymp
 comsymps
+conations
 conative
 conatus
 concatenate
@@ -11883,6 +11893,7 @@ corkages
 corkboard
 corkboards
 corker
+corkier
 corkscrew
 corkwood
 cormels
@@ -14900,6 +14911,7 @@ destabilizes
 destained
 destaining
 destitute
+destituted
 destituteness
 destitutenesses
 destitutes
@@ -19220,6 +19232,7 @@ euphemise
 euphemisms
 euphemist
 euphemistically
+euphemized
 euphemizing
 euphenic
 euphonies
@@ -19267,6 +19280,7 @@ evacuates
 evacuator
 evaginates
 evaluate
+evaluative
 evaluator
 evaluators
 evanesce
@@ -21171,6 +21185,7 @@ fleshpot
 fletched
 fleuron
 flexagon
+flexibility
 flexile
 flexion
 flexography
@@ -21276,6 +21291,7 @@ floppiness
 floras
 florescence
 florescences
+florescent
 floriated
 floriations
 floricane
@@ -26068,6 +26084,7 @@ hoisters
 hoisting
 hokey
 hokeynesses
+hokiest
 hoking
 hokums
 hold
@@ -28068,6 +28085,7 @@ indorsed
 indorsees
 indorsements
 indorsers
+indorsor
 indowed
 indoxyl
 indraft
@@ -28869,6 +28887,7 @@ intermeddler
 intermeddlers
 intermeddles
 intermeddling
+intermediacies
 intermediated
 intermesh
 intermeshing
@@ -34626,6 +34645,7 @@ minstrelsy
 minters
 mintier
 minuet
+minus
 minute
 minutely
 minuteman
@@ -37039,6 +37059,7 @@ noblest
 nobody
 nobs
 nocked
+nocks
 noctambulist
 noctiluca
 noctilucas
@@ -39250,6 +39271,7 @@ outscored
 outscoring
 outscreaming
 outseeing
+outsees
 outsell
 outshoots
 outshout
@@ -40022,6 +40044,7 @@ oxidizing
 oximes
 oximetry
 oxims
+oxlip
 oxlips
 oxpeckers
 oxters
@@ -42153,6 +42176,7 @@ physiotherapies
 physiotherapy
 physique
 physiqued
+physis
 physostigmine
 physostigmines
 phytanes
@@ -42557,6 +42581,7 @@ pitiable
 pitiableness
 pitiful
 pitifuller
+pitifullest
 pitiless
 pitmans
 pittances
@@ -44300,6 +44325,7 @@ preterite
 preterits
 pretermination
 pretermission
+pretermit
 preternaturally
 pretest
 pretested
@@ -45193,6 +45219,7 @@ ptoses
 ptosis
 ptyalin
 ptyalism
+pub
 pubertal
 puberulent
 pubescence
@@ -45524,6 +45551,7 @@ pygidial
 pygmean
 pygmy
 pyins
+pyknic
 pyknics
 pyoderma
 pyodermas
@@ -48683,6 +48711,7 @@ revalidated
 revalidation
 revalorization
 revalorize
+revalorized
 revalorizing
 revaluated
 revaluates
@@ -50371,6 +50400,7 @@ scalper
 scalpers
 scalps
 scammed
+scamming
 scammonies
 scammony
 scamp
@@ -50744,6 +50774,7 @@ screwinesses
 screwworm
 scribbler
 scribbles
+scribe
 scribes
 scries
 scrimmage
@@ -57105,6 +57136,7 @@ tailwaters
 tailwinds
 tains
 takable
+takahe
 take
 takeoffs
 takeovers
@@ -59772,6 +59804,7 @@ truckman
 truckmasters
 trucks
 truculencies
+truculency
 truculently
 true
 trueblues
@@ -61804,6 +61837,7 @@ unveiled
 unveiling
 unveilings
 unversed
+unvested
 unvexed
 unviable
 unwakened
@@ -64162,6 +64196,7 @@ winze
 wipers
 wiping
 wirable
+wired
 wiredraw
 wiredrawing
 wiredrew
