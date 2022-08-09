@@ -4816,6 +4816,7 @@ belfried
 belfries
 belgas
 belied
+belier
 beliers
 believabilities
 believability
@@ -5574,6 +5575,7 @@ bizonal
 bizones
 bizzes
 blabber
+blabbermouths
 blabbing
 blackamoor
 blackberries
@@ -5885,6 +5887,7 @@ bluff
 bluffers
 bluffing
 bluffs
+bluish
 bluishness
 bluishnesses
 blume
@@ -15979,6 +15982,7 @@ disproof
 disproportion
 disproportional
 disprove
+disproved
 disputant
 disputatious
 dispute
@@ -17482,6 +17486,7 @@ eelgrasses
 eeliest
 eelpout
 eelworm
+eelworms
 eely
 eerily
 eerinesses
@@ -19832,6 +19837,7 @@ eyebrows
 eyedropper
 eyefolds
 eyehooks
+eyelash
 eyelets
 eyeletted
 eyeletting
@@ -22334,6 +22340,7 @@ fur
 furanoside
 furbearers
 furbelowed
+furbisher
 furbishers
 furcate
 furcately
@@ -23587,6 +23594,7 @@ goads
 goal
 goalmouth
 goalmouths
+goalpost
 goaltenders
 goaltending
 goaltendings
@@ -26822,6 +26830,7 @@ hyperreactor
 hyperreactors
 hyperresponsive
 hyperromantics
+hypersalinity
 hypersalivation
 hypersecretions
 hypersexuality
@@ -27260,6 +27269,7 @@ immortality
 immortalization
 immortalizer
 immortally
+immotile
 immovablenesses
 immovables
 immunes
@@ -28171,6 +28181,7 @@ infringed
 infringement
 infringers
 infringes
+infundibular
 infundibulum
 infuriates
 infuriatingly
@@ -28451,6 +28462,7 @@ insolubles
 insolvent
 insomniac
 insomniacs
+insomuch
 insouciance
 insouciant
 insouciantly
@@ -30387,6 +30399,7 @@ kis
 kishka
 kishke
 kismat
+kismetic
 kissable
 kissed
 kissers
@@ -34650,6 +34663,7 @@ misdate
 misdeal
 misdealing
 misdeals
+misdeed
 misdefine
 misdefining
 misdemeanor
@@ -35663,6 +35677,7 @@ mower
 moxa
 moxie
 mozetta
+mozette
 mozo
 mozos
 mozzetta
@@ -36160,6 +36175,7 @@ myxomas
 myxomatoses
 myxomycete
 myxomycetes
+na
 nabbed
 nabbing
 nabis
@@ -36590,6 +36606,7 @@ networkings
 networks
 neum
 neume
+neumes
 neums
 neuralgic
 neurasthenic
@@ -38977,6 +38994,7 @@ outpaint
 outpainted
 outpaints
 outpasses
+outpatient
 outpatients
 outpeopled
 outpitied
@@ -39607,6 +39625,7 @@ overpromise
 overpromised
 overprotect
 overprotected
+overpumps
 overquick
 overrash
 overrate
@@ -39893,6 +39912,7 @@ ozonizer
 ozonizers
 ozonizes
 ozonosphere
+ozonospheres
 pablum
 pablums
 pabulums
@@ -40117,6 +40137,7 @@ palmette
 palmetto
 palmettoes
 palming
+palmist
 palmister
 palmisters
 palmitates
@@ -42716,6 +42737,7 @@ plunderers
 plunders
 plunger
 plunges
+plunked
 plunker
 plunkers
 plunks
@@ -46589,6 +46611,7 @@ reconnection
 reconning
 reconnoitered
 reconnoiters
+reconnoitre
 reconnoitred
 reconquer
 reconquest
@@ -47528,6 +47551,8 @@ rememberability
 rememberable
 remembered
 remembering
+remembrance
+remembrancer
 remended
 remerged
 remerging
@@ -51754,6 +51779,7 @@ shoetrees
 shofars
 shofroth
 shogs
+sholom
 shone
 shoo
 shooflies
@@ -53872,6 +53898,7 @@ spireme
 spiremes
 spires
 spirier
+spiriest
 spirilla
 spirillum
 spirited
@@ -57659,6 +57686,7 @@ tetrode
 tetrodes
 tetrodotoxins
 tetroxid
+tetroxide
 tetryl
 tets
 teutonize
@@ -57909,6 +57937,7 @@ tholing
 thongs
 thoracically
 thoracotomy
+thorites
 thorium
 thorn
 thornback
@@ -58620,6 +58649,7 @@ torts
 tortuosities
 tortuousness
 tortured
+torturer
 tortures
 torturing
 torturously
@@ -59480,6 +59510,7 @@ troupe
 trouper
 troupers
 trouser
+trousseaus
 troutier
 trouvere
 trouveres
@@ -62129,6 +62160,7 @@ vavs
 vaw
 vawards
 vawntie
+veal
 vealiest
 vealy
 vectorial
@@ -62456,6 +62488,7 @@ victimised
 victimization
 victimizes
 victimless
+victimologist
 victims
 victor
 victorias
@@ -63257,6 +63290,7 @@ wavelike
 wavellites
 waveringly
 wavers
+wavery
 waves
 waveshape
 waveshapes
@@ -63931,6 +63965,7 @@ wistfulness
 wisting
 wists
 wit
+witched
 witches
 witchgrass
 witchgrasses
