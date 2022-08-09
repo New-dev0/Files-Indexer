@@ -2819,6 +2819,7 @@ archine
 archings
 architecture
 architrave
+archival
 archivists
 archivolt
 archly
@@ -3993,6 +3994,7 @@ bafflegab
 bafflements
 bafflingly
 bag
+bagasses
 bagatelle
 bagful
 bagged
@@ -4369,6 +4371,7 @@ basques
 basseted
 bassetting
 bassetts
+bassi
 bassnesses
 bassoon
 bassos
@@ -4823,6 +4826,7 @@ belfried
 belfries
 belgas
 belied
+beliefs
 belier
 beliers
 believabilities
@@ -5929,6 +5933,7 @@ blushes
 blushingly
 blustered
 blusterer
+blusterers
 blustery
 bo
 board
@@ -11790,6 +11795,7 @@ copulations
 copulatives
 copulatory
 copurified
+copurifies
 copy
 copyboy
 copycat
@@ -11990,6 +11996,7 @@ corrody
 corrosion
 corrosive
 corrugated
+corrugates
 corruptibility
 corruptible
 corruptionists
@@ -15010,6 +15017,7 @@ devilfish
 devilfishes
 devilish
 devilling
+devilry
 devils
 deviltries
 deviltry
@@ -19399,6 +19407,7 @@ excitants
 excitation
 excitations
 excitatory
+excitements
 excites
 excitons
 excitors
@@ -23729,6 +23738,7 @@ goldfinch
 goldsmith
 goldurns
 golf
+golfer
 golfers
 golfings
 golgothas
@@ -28345,6 +28355,7 @@ initializes
 initializing
 initialling
 initially
+initialnesses
 initiated
 initiative
 initiatives
@@ -31310,6 +31321,7 @@ lecturing
 led
 lederhosen
 ledger
+ledgier
 ledgy
 leeboard
 leech
@@ -31367,6 +31379,7 @@ legionary
 legionnaire
 legislates
 legislating
+legislative
 legislatives
 legislators
 legislatorships
@@ -32642,6 +32655,7 @@ maccabaw
 maccoboys
 mace
 maced
+macedoines
 macer
 macerater
 macerates
@@ -33973,6 +33987,7 @@ mestees
 mestiza
 mestizo
 mestizoes
+mestranols
 met
 metabolically
 metabolism
@@ -35617,6 +35632,7 @@ mosh
 moshav
 moshing
 moshings
+mosk
 mosque
 mosques
 mosquito
@@ -37836,6 +37852,7 @@ nutwood
 nutwoods
 nuzzled
 nuzzlers
+nyctalopia
 nyctalopias
 nylghai
 nylghais
@@ -39422,6 +39439,7 @@ overcommit
 overcommitted
 overcommitting
 overcompensate
+overcomplicated
 overcompresses
 overconcern
 overconfident
@@ -42656,6 +42674,7 @@ platinizes
 platinizing
 platinoid
 platinum
+platitude
 platitudes
 platitudinarian
 platitudinize
@@ -43620,6 +43639,7 @@ prankishness
 prankster
 praos
 praseodymium
+prat
 prater
 prates
 pratfall
@@ -44029,6 +44049,7 @@ prepackaged
 prepackages
 preparatively
 preparatives
+preparator
 preparatorily
 preparators
 prepare
@@ -45842,6 +45863,7 @@ quotient
 qwerty
 qwertys
 rabatos
+rabbeted
 rabbies
 rabbin
 rabbinical
@@ -48365,6 +48387,7 @@ restrictively
 restrictives
 restring
 restrive
+restrives
 restrooms
 restructure
 restructured
@@ -49176,6 +49199,7 @@ roguishnesses
 roiling
 roisterers
 roisters
+role
 rolfer
 rolfers
 rolfing
@@ -49250,6 +49274,7 @@ rootlike
 rootling
 rootstalk
 rootstock
+rootstocks
 rooty
 rope
 ropedancer
@@ -51511,6 +51536,7 @@ shadchan
 shaddock
 shaddocks
 shade
+shaded
 shadeless
 shadoof
 shadoofs
@@ -52254,6 +52280,7 @@ silkalines
 silked
 silkie
 silkiest
+silkolines
 silkweed
 silkweeds
 silkworm
@@ -52971,6 +52998,7 @@ smirching
 smirk
 smirkers
 smirks
+smit
 smite
 smiter
 smites
@@ -56338,6 +56366,7 @@ supposal
 supposals
 supposed
 supposer
+suppositional
 suppositions
 supposititious
 suppositories
@@ -57083,6 +57112,7 @@ tambourines
 tambouring
 tambours
 tambur
+tambura
 tamburas
 tame
 tameable
@@ -57272,6 +57302,7 @@ taurine
 taus
 taut
 tautaug
+tauted
 tauter
 tautest
 tauting
@@ -60527,6 +60558,7 @@ unclawed
 uncleaned
 uncleanlier
 uncleanly
+uncleannesses
 unclear
 uncleared
 unclearer
@@ -60963,6 +60995,7 @@ unfitness
 unfitted
 unfixing
 unflappable
+unflatteringly
 unfledged
 unflexed
 unflinching
@@ -62562,6 +62595,7 @@ veto
 vetoes
 vets
 vetting
+vexations
 vexatious
 vexatiously
 vexatiousness
@@ -64312,6 +64346,7 @@ worldliness
 worldviews
 wormer
 wormers
+wormgear
 wormhole
 wormil
 worminesses
