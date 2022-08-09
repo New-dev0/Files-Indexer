@@ -1009,6 +1009,7 @@ aiglet
 aiglets
 aigret
 aigrette
+aigrettes
 ailanthus
 ailurophiles
 ailurophobe
@@ -1919,6 +1920,7 @@ angriest
 angrinesses
 angry
 anguished
+angular
 angularly
 angulate
 angulating
@@ -5506,6 +5508,7 @@ birthstones
 birthworts
 biryani
 biryanis
+bise
 bisect
 bisectional
 bisections
@@ -5730,6 +5733,7 @@ blenched
 blencher
 blend
 blende
+blendes
 blennioid
 blepharospasms
 blesbok
@@ -7036,6 +7040,7 @@ bulleted
 bulletin
 bulletined
 bulletining
+bullfight
 bullfighters
 bullfighting
 bullfinches
@@ -7459,6 +7464,7 @@ cadging
 cadis
 cadmium
 cads
+caducean
 caducei
 caecum
 caeomas
@@ -8085,6 +8091,7 @@ carhop
 carhopping
 caribes
 caribou
+caricature
 caricatured
 caricatures
 caricaturing
@@ -9013,6 +9020,7 @@ checkered
 checkers
 checklisting
 checklists
+checkmark
 checkmarked
 checkmarking
 checkmarks
@@ -9675,6 +9683,7 @@ cissoid
 cissoids
 cist
 cistern
+cisternae
 cisterns
 cistron
 cistuses
@@ -10344,6 +10353,7 @@ coeloms
 coelostat
 coelostats
 coembodied
+coembodies
 coemploying
 coemploys
 coempts
@@ -11202,6 +11212,7 @@ confuse
 confusedly
 confusednesses
 confusing
+confuter
 confutes
 congas
 conge
@@ -11778,6 +11789,7 @@ copulates
 copulations
 copulatives
 copulatory
+copurified
 copy
 copyboy
 copycat
@@ -16785,6 +16797,7 @@ drawerful
 drawing
 drawings
 drawknives
+drawler
 drawplates
 draws
 drawshave
@@ -19189,6 +19202,7 @@ euphoria
 euphoriants
 euphrasy
 euphuism
+euphuistic
 euphuistically
 euploidy
 eurhythmics
@@ -19659,6 +19673,7 @@ exploded
 explodes
 exploitation
 exploitative
+explorational
 explorations
 explore
 explorers
@@ -20214,6 +20229,7 @@ fatefully
 fatefulness
 fatefulnesses
 fatheadedly
+fathered
 fatherland
 fatherlands
 fatherless
@@ -20660,6 +20676,7 @@ filches
 filching
 file
 filed
+filefish
 filefishes
 filename
 files
@@ -21392,6 +21409,7 @@ flytrap
 flyway
 flyweight
 foal
+foals
 foamable
 foamed
 foamflower
@@ -21728,6 +21746,7 @@ forgathered
 forge
 forgeries
 forges
+forgetful
 forgetive
 forgets
 forgettable
@@ -23092,6 +23111,7 @@ gerah
 gerahs
 geranial
 geraniums
+gerbilles
 gerbils
 gerents
 gerfalcons
@@ -23321,6 +23341,7 @@ glaceing
 glacial
 glaciate
 glaciating
+glaciations
 glaciered
 glaciers
 glaciologies
@@ -24778,6 +24799,7 @@ halfpennies
 halftone
 halftrack
 halid
+halides
 halidom
 halidome
 halidomes
@@ -25482,6 +25504,7 @@ hemelytron
 hemelytrum
 hemerythrins
 hemiacetal
+hemialgias
 hemic
 hemicellulose
 hemicycle
@@ -27109,6 +27132,7 @@ igneous
 ignescents
 ignified
 ignitability
+ignitable
 ignited
 igniter
 ignites
@@ -28057,6 +28081,7 @@ inefficients
 inegalitarian
 inelasticity
 inelegances
+inelegantly
 ineligibilities
 ineligible
 ineligibles
@@ -35076,6 +35101,7 @@ mockable
 mocker
 mockers
 mockingbird
+mocks
 mocktail
 mocktails
 mockup
@@ -41939,6 +41965,7 @@ photomasks
 photometers
 photometrically
 photometry
+photomicrograph
 photomontage
 photomontages
 photomosaic
@@ -42507,6 +42534,7 @@ plagal
 plagiaries
 plagiarise
 plagiaristic
+plagiarized
 plagiarizes
 plagiarizing
 plagiary
@@ -46167,6 +46195,7 @@ ratcheted
 rateably
 ratels
 ratepayer
+raters
 ratfinks
 ratfish
 rathe
@@ -52660,6 +52689,7 @@ slavocrats
 slaw
 slaws
 slayable
+slayer
 slaying
 slays
 sleaving
@@ -53839,6 +53869,7 @@ speiss
 speisses
 spelaean
 spelean
+speleological
 speleologist
 spellbind
 spellbinds
@@ -54791,6 +54822,7 @@ stey
 stibial
 stich
 stichomythia
+stichomythies
 stichomythy
 stickball
 sticker
@@ -55069,6 +55101,7 @@ stramony
 strandednesses
 stranders
 strangely
+stranger
 stranges
 strangest
 strangle
@@ -64041,6 +64074,7 @@ wiretaps
 wireways
 wirier
 wiriest
+wirily
 wirra
 wise
 wiseguy
@@ -64725,6 +64759,7 @@ zarzuelas
 zastrugi
 zaxes
 zazens
+zeal
 zealot
 zealotries
 zealously
