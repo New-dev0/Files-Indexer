@@ -531,6 +531,7 @@ adhesiveness
 adhesivenesses
 adhibit
 adieux
+adipose
 adiposity
 adit
 adjacencies
@@ -5399,6 +5400,7 @@ biopic
 biopirate
 bioplasms
 bioptic
+bioreactor
 bioregionalism
 bioregionalisms
 bioregions
@@ -5805,6 +5807,7 @@ bloodsheds
 bloodshot
 bloodstains
 bloodstock
+bloodstocks
 bloodstone
 bloodstones
 bloodstream
@@ -8376,6 +8379,7 @@ cathecting
 cathects
 cathedra
 cathedrals
+cathedras
 cathepsin
 catheptic
 catheterized
@@ -8526,6 +8530,7 @@ cellarage
 cellarets
 cellarette
 cellarway
+cellblock
 cellblocks
 cello
 cellobiose
@@ -10828,6 +10833,7 @@ commutation
 commutative
 commutativity
 commutator
+commute
 commuted
 commutes
 commuting
@@ -10849,6 +10855,7 @@ companying
 comparatists
 comparativists
 comparator
+comparer
 comparing
 comparison
 compartment
@@ -11452,6 +11459,7 @@ containerless
 containership
 containerships
 containing
+containment
 containments
 contaminant
 contaminates
@@ -13081,6 +13089,7 @@ curacies
 curacoa
 curaghs
 curanderos
+curaras
 curares
 curari
 curarization
@@ -14906,6 +14915,7 @@ determinacies
 determinantal
 determinate
 determinateness
+determine
 determines
 determinist
 deterministic
@@ -23165,6 +23175,7 @@ giddiness
 giddy
 giddyap
 giddying
+giddyup
 gieing
 gies
 gift
@@ -25334,6 +25345,7 @@ heehaw
 heehawing
 heeled
 heeler
+heelers
 heelless
 heelpiece
 heelpieces
@@ -26053,6 +26065,7 @@ homeopath
 homeopathically
 homeopathies
 homeotherm
+homeothermy
 homeotic
 homeplaces
 homeported
@@ -27556,6 +27569,7 @@ imputed
 imputer
 inaccessibly
 inaccuracies
+inaccurately
 inactions
 inactive
 inadequacy
@@ -27892,6 +27906,7 @@ indicia
 indictable
 indicting
 indicts
+indies
 indifferent
 indifferentisms
 indifferently
@@ -28216,6 +28231,7 @@ ingratiation
 ingratiatory
 ingratitude
 ingredient
+ingresses
 ingression
 ingressive
 ingroup
@@ -31251,6 +31267,7 @@ leeway
 leeways
 left
 lefter
+lefties
 leftisms
 leftmosts
 leftover
@@ -31306,6 +31323,7 @@ legitimator
 legitimised
 legitimises
 legitimists
+legitimized
 legitimizes
 legongs
 legrooms
@@ -32008,6 +32026,7 @@ localizations
 localize
 localizers
 localizing
+locally
 locater
 location
 locator
@@ -35066,6 +35085,7 @@ modishness
 modistes
 modularities
 modulars
+modulation
 modulators
 module
 modulus
@@ -35326,6 +35346,7 @@ monotheist
 monotheistic
 monotheistical
 monotints
+monotonic
 monotonically
 monotonicity
 monotonies
@@ -38503,6 +38524,7 @@ organismically
 organizable
 organization
 organizational
+organizations
 organize
 organizers
 organizing
@@ -40977,6 +40999,7 @@ pedimented
 pediments
 pedlar
 pedlary
+pedlers
 pedocals
 pedogenic
 pedological
@@ -42776,6 +42799,7 @@ poachier
 pochard
 pock
 pocketers
+pocketful
 pocketing
 pocketknife
 pockmarks
@@ -43074,6 +43098,7 @@ pommee
 pommel
 pommelled
 pommels
+pommy
 pomologies
 pomologist
 pomologists
@@ -43789,6 +43814,7 @@ prefixions
 preflight
 preflighted
 prefocuses
+prefocussed
 prefocussing
 preform
 preformat
@@ -44720,6 +44746,7 @@ prosperity
 prosperous
 prosperousness
 prospers
+prosses
 prossie
 prossies
 prost
@@ -47537,6 +47564,7 @@ rematches
 rematching
 remated
 rematerializes
+remates
 remeasured
 remeasurement
 remeasuring
@@ -48675,6 +48703,7 @@ rheologist
 rheology
 rheometer
 rheophiles
+rhesus
 rhesuses
 rhetoric
 rhetorically
@@ -49281,6 +49310,7 @@ routing
 routinisms
 routinists
 routinizes
+routinizing
 roven
 roving
 row
@@ -51010,6 +51040,7 @@ semimatte
 semimetallic
 semimild
 semimoist
+semimonthlies
 semina
 seminar
 seminaries
@@ -51860,6 +51891,7 @@ showdown
 showed
 showerers
 showerheads
+showerless
 showers
 showier
 showily
@@ -55379,6 +55411,7 @@ subedited
 subeditor
 subeditorial
 subeditors
+subemployment
 subentries
 subentry
 suberic
@@ -60537,6 +60570,7 @@ underages
 underarm
 underarms
 underbakes
+underbaking
 underbelly
 underbidder
 underboss
@@ -64712,6 +64746,7 @@ zoeae
 zoecia
 zoic
 zoisite
+zombie
 zombielike
 zombification
 zombifications
