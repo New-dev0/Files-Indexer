@@ -3917,6 +3917,7 @@ backhauls
 backing
 backland
 backlands
+backlash
 backlasher
 backlashes
 backlashing
@@ -6668,6 +6669,7 @@ brevet
 breviaries
 breviary
 brevity
+brewages
 brewery
 brewing
 brewises
@@ -7627,6 +7629,7 @@ calligraphists
 calligraphy
 callings
 calliper
+callipering
 callipygian
 callithumps
 callose
@@ -8039,6 +8042,7 @@ carboxyls
 carbuncles
 carbureted
 carburetted
+carburetters
 carburetting
 carburettor
 carburised
@@ -8397,6 +8401,7 @@ catena
 catenae
 catenaries
 catenates
+catenating
 catenoid
 catenoids
 cater
@@ -9325,6 +9330,7 @@ chivvy
 chivying
 chlamydes
 chlamydospores
+chlamys
 chloasmas
 chloasmata
 chloral
@@ -10271,6 +10277,7 @@ cocker
 cockered
 cockerel
 cockering
+cockers
 cockeye
 cockeyedly
 cockeyedness
@@ -16874,6 +16881,7 @@ dreary
 drecky
 dredged
 drees
+dreg
 dreggier
 dreggiest
 dreidels
@@ -17262,6 +17270,7 @@ dynamistic
 dynamo
 dynamometers
 dynamometric
+dynamometries
 dynamotor
 dynamotors
 dynatron
@@ -17331,6 +17340,7 @@ earl
 earlap
 earlaps
 earldom
+earldoms
 earless
 earlier
 earlinesses
@@ -18443,6 +18453,7 @@ enserfed
 enserfing
 ensheathe
 ensheathes
+enshrine
 enshrined
 enshrinees
 enshrinements
@@ -22158,6 +22169,7 @@ friary
 fribble
 fribbler
 fribbles
+fricasseed
 fricasseeing
 fricative
 frictionally
@@ -22180,6 +22192,7 @@ frighten
 frightful
 frightfully
 frightfulness
+frights
 frigidly
 frigidness
 frigidnesses
@@ -22376,6 +22389,7 @@ fulnesses
 fulsomenesses
 fulvous
 fumarase
+fumaroles
 fumeless
 fumer
 fumers
@@ -24546,6 +24560,7 @@ gullet
 gullets
 gulleys
 gullying
+gulped
 gulpier
 gulpiest
 gulping
@@ -29185,6 +29200,7 @@ inverities
 inverity
 invernesses
 inversed
+inverses
 invertase
 invertases
 invertebrates
@@ -34052,6 +34068,7 @@ met
 metabolically
 metabolism
 metabolisms
+metabolizable
 metabolized
 metacarpal
 metacarpals
@@ -35385,6 +35402,7 @@ monoclinic
 monoclonal
 monocots
 monocotyl
+monocotyls
 monocrat
 monocratic
 monocrystals
@@ -38291,6 +38309,7 @@ oidioid
 oilbird
 oilcups
 oilers
+oiliest
 oilily
 oiliness
 oiling
@@ -39397,6 +39416,7 @@ outwitted
 outworker
 outworn
 outwrestles
+outwrite
 outwriting
 outwritten
 outwrought
@@ -40599,6 +40619,7 @@ paramours
 paramylums
 paramyxovirus
 paramyxoviruses
+parang
 parangs
 paranoiac
 paranoias
@@ -40988,6 +41009,7 @@ pattypans
 paucities
 paulownias
 paunched
+paunches
 paunchier
 paunchinesses
 paunchy
@@ -41518,6 +41540,7 @@ perionychium
 periosteal
 periostitis
 periotic
+peripatuses
 peripeteia
 peripetia
 peripetias
@@ -42486,6 +42509,7 @@ piolets
 pion
 pions
 piosity
+pious
 pipage
 pipal
 pipeage
@@ -44574,6 +44598,7 @@ processionals
 processors
 prochoice
 prochurch
+proclaimer
 proclaimers
 proclamation
 proconsulates
@@ -45067,6 +45092,7 @@ provocation
 provoker
 provokers
 provokes
+provolone
 provost
 provosts
 prow
@@ -45873,6 +45899,7 @@ quincunx
 quincunxial
 quinellas
 quinic
+quinidines
 quiniela
 quinielas
 quinina
@@ -50232,6 +50259,7 @@ satiating
 satieties
 satinette
 satires
+satirised
 satirists
 satirize
 satirizes
@@ -50348,6 +50376,7 @@ saxhorn
 saxhorns
 saxitoxins
 saxony
+saxophones
 saxophonists
 saxtuba
 saxtubas
@@ -52151,6 +52180,7 @@ shtick
 shtickier
 shticks
 shticky
+shtiks
 shuck
 shucker
 shuddering
@@ -52163,6 +52193,7 @@ shunpike
 shunpikes
 shuns
 shunt
+shush
 shusher
 shushers
 shut
@@ -53229,6 +53260,7 @@ snibbing
 snickersnee
 snidest
 sniffier
+sniffinesses
 sniffish
 sniffishly
 sniffishness
@@ -53764,6 +53796,7 @@ sourwoods
 southbound
 southeast
 southeaster
+southeasterly
 southern
 southernnesses
 southernwood
@@ -62387,6 +62420,7 @@ vascula
 vascularity
 vascularization
 vasectomies
+vasectomize
 vasectomized
 vasectomizes
 vaselines
@@ -64921,6 +64955,7 @@ zed
 zedoaries
 zedoary
 zein
+zek
 zeks
 zemindary
 zemstvo
