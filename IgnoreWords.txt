@@ -344,6 +344,7 @@ acini
 acinose
 ackee
 ackees
+acknowledgedly
 acknowledgment
 acknowledgments
 acned
@@ -1502,6 +1503,7 @@ ambiguous
 ambiguousness
 ambiguousnesses
 ambipolar
+ambisexual
 ambisexuality
 ambisexuals
 ambitioned
@@ -1922,6 +1924,7 @@ angriest
 angrinesses
 angry
 anguished
+anguishes
 angular
 angularly
 angulate
@@ -4125,6 +4128,7 @@ banded
 banderilleros
 banderoles
 banders
+bandicoots
 bandies
 bandinesses
 banding
@@ -6281,6 +6285,7 @@ bortz
 borzoi
 borzois
 bos
+boscage
 boschvarks
 boshvarks
 boskage
@@ -8066,6 +8071,7 @@ cardiomyopathy
 cardiotonic
 cardiotonics
 carditises
+cardoon
 cardplayer
 cardplayers
 cardsharper
@@ -11524,6 +11530,7 @@ contextless
 contexts
 contextual
 contextualize
+contextualized
 contexture
 contextures
 contiguously
@@ -12306,6 +12313,7 @@ covariance
 covariances
 covariate
 covariation
+covariations
 cove
 coved
 coven
@@ -14084,6 +14092,7 @@ deeding
 deedless
 deedy
 deejaying
+deejays
 deem
 deemsters
 deepening
@@ -14397,6 +14406,7 @@ deltoideus
 deludes
 deluging
 delusional
+delusive
 delusory
 delusters
 delve
@@ -14631,6 +14641,7 @@ depilatories
 depilators
 deplaning
 deplete
+depleting
 depletions
 deplore
 deplored
@@ -16724,6 +16735,7 @@ doxies
 doxologies
 doxorubicins
 doxy
+doyenne
 doyennes
 doyens
 doyleys
@@ -16735,6 +16747,7 @@ dozenth
 doziness
 dozing
 dozy
+drabbing
 drabbled
 drabness
 drabnesses
@@ -21250,6 +21263,7 @@ floorshow
 floorshows
 floorwalkers
 floosie
+floozie
 floozies
 flophouse
 flopover
@@ -21807,6 +21821,7 @@ formatters
 formee
 former
 formerly
+formes
 formic
 formica
 formicaries
@@ -21847,6 +21862,7 @@ fortepiano
 fortepianos
 forthcoming
 forthrightly
+forthwith
 fortified
 fortify
 fortifying
@@ -22168,6 +22184,7 @@ frith
 fritillaria
 fritillary
 frittata
+fritterer
 fritz
 frivol
 frivolled
@@ -22600,6 +22617,7 @@ gall
 gallant
 gallantly
 gallants
+gallbladder
 galleasses
 galleins
 galleries
@@ -24036,6 +24054,7 @@ grapholects
 graphologies
 graphs
 grapier
+grapiest
 grapiness
 grapinesses
 grapline
@@ -24044,6 +24063,7 @@ grapplers
 grappling
 graptolite
 grapy
+grasp
 graspable
 graspingly
 graspingness
@@ -27982,6 +28002,7 @@ indictable
 indicting
 indicts
 indies
+indifference
 indifferent
 indifferentisms
 indifferently
@@ -30020,6 +30041,7 @@ jurels
 juridic
 jurisconsult
 jurisprudences
+jurist
 juryman
 jurywoman
 jussive
@@ -33410,6 +33432,7 @@ matelasses
 matelotes
 matelots
 materialises
+materialising
 materialist
 materialities
 materialize
@@ -33652,6 +33675,7 @@ meditators
 medius
 medivac
 medivacked
+medivacking
 medivacs
 medley
 medulla
@@ -34800,6 +34824,7 @@ misdriving
 mise
 misease
 misedit
+misedited
 miseducates
 miseducation
 misemphasize
@@ -34853,6 +34878,7 @@ misguides
 misguiding
 mishandle
 mishandled
+mishandles
 mishanters
 mishearing
 mishits
@@ -34974,6 +35000,7 @@ misreferences
 misrefers
 misregisters
 misregistration
+misrelate
 misrelated
 misrelates
 misrelies
@@ -35175,6 +35202,7 @@ modifications
 modified
 modifying
 modioli
+modiolus
 modishness
 modistes
 modularities
@@ -40056,6 +40084,7 @@ pacificators
 pacificists
 pacified
 pacifier
+pacifism
 pacifistically
 packabilities
 package
@@ -40190,6 +40219,7 @@ palazzos
 pale
 paleae
 paleface
+palefaces
 paleness
 paleobiologist
 paleobiologists
@@ -41974,6 +42004,7 @@ photodegradable
 photodiode
 photodiodes
 photodissociate
+photoduplicate
 photoed
 photoelectron
 photoelectrons
@@ -44363,6 +44394,7 @@ prides
 priedieus
 prier
 priested
+priestliest
 priestliness
 priestlinesses
 priestly
@@ -49640,6 +49672,7 @@ rushlike
 rusine
 rusks
 russet
+russets
 russettings
 russety
 rustic
@@ -54136,6 +54169,7 @@ spleenworts
 spleeny
 splendider
 splendidest
+splendidness
 splendidnesses
 splendiferous
 splendor
@@ -64301,6 +64335,7 @@ woodpiles
 woodshedding
 woodsia
 woodsias
+woodsier
 woodsman
 woodstoves
 woodwaxen
