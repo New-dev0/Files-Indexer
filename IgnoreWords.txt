@@ -4295,6 +4295,7 @@ barrel
 barrelhead
 barrelheads
 barrelhouse
+barrelled
 barrels
 barren
 barres
@@ -6272,6 +6273,7 @@ boskage
 boskages
 boskier
 bosoms
+bosomy
 boson
 bosques
 bossdoms
@@ -8292,6 +8294,7 @@ catalectics
 catalepsies
 cataleptic
 cataleptics
+catalexes
 catalexis
 catalo
 cataloes
@@ -8750,6 +8753,7 @@ chairmanship
 chairpersons
 chairwomen
 chaises
+chakras
 chalah
 chalazae
 chalazions
@@ -9848,6 +9852,7 @@ clawhammer
 clawing
 clawlike
 clay
+clayey
 claying
 clayish
 claymore
@@ -12333,6 +12338,7 @@ cox
 coxae
 coxalgia
 coxalgies
+coxcombical
 coxcombry
 coxcombs
 coxed
@@ -15443,6 +15449,7 @@ dinoflagellate
 dinoflagellates
 dinosaurs
 dinothere
+dinotheres
 diocese
 diodes
 dioecisms
@@ -16177,6 +16184,7 @@ ditchdiggers
 ditchers
 ditheism
 ditheisms
+ditheists
 dithered
 ditherers
 dithering
@@ -16718,6 +16726,7 @@ draftings
 draftsmanship
 draftsmanships
 draftsperson
+drag
 dragee
 dragged
 draggiest
@@ -19443,6 +19452,7 @@ exed
 exedra
 exegetic
 exegetics
+exegetist
 exegetists
 exemplar
 exemplarinesses
@@ -19916,6 +19926,7 @@ facing
 facsimileing
 facsimiles
 fact
+facticities
 faction
 factionally
 factious
@@ -19980,6 +19991,7 @@ faineants
 fainest
 faint
 fainter
+fainters
 faintest
 faintish
 faintly
@@ -23406,6 +23418,7 @@ gleefulness
 gleefulnesses
 gleeked
 gleeks
+gleemen
 gleesome
 gleetiest
 glegnesses
@@ -24172,6 +24185,7 @@ griminess
 griminesses
 grimly
 grinches
+grind
 grinders
 grindery
 grindingly
@@ -25942,6 +25956,7 @@ hobbyists
 hobgoblins
 hoblike
 hobnail
+hobnailing
 hobnobbed
 hobnobber
 hobnobbers
@@ -27666,6 +27681,7 @@ incanted
 incapable
 incapably
 incapacitate
+incapacitates
 incapacitation
 incapacitations
 incapacity
@@ -29217,6 +29233,7 @@ iroko
 iron
 ironclad
 ironed
+ironhearted
 ironic
 ironicalnesses
 ironings
@@ -31053,6 +31070,7 @@ lather
 latherer
 lathi
 lathier
+lathiest
 lathing
 lathings
 lathworks
@@ -32752,6 +32770,7 @@ maidenheads
 maidish
 maieutic
 maigre
+maile
 mailer
 mailing
 mailless
@@ -39781,6 +39800,7 @@ oversubtle
 oversuds
 oversupped
 oversupplied
+oversupplies
 oversupply
 oversups
 oversweetens
@@ -40502,6 +40522,7 @@ parasitologists
 parasol
 parasympathetic
 parasyntheses
+paratroop
 paratrooper
 paratroops
 paravanes
@@ -40886,6 +40907,7 @@ pawning
 pawpaw
 pax
 paxes
+paxwax
 payables
 payably
 payback
@@ -41092,6 +41114,7 @@ peltately
 peltation
 pelted
 peltered
+peltless
 pelycosaurs
 pemmican
 pemoline
@@ -42667,6 +42690,7 @@ plebeianly
 plebiscites
 plebs
 plecopterans
+pledges
 pledget
 pledgors
 pleiades
@@ -43035,6 +43059,7 @@ polygonally
 polygonies
 polygony
 polygraph
+polygraphers
 polygraphic
 polygraphing
 polygynies
@@ -44627,6 +44652,7 @@ pronto
 pronuclear
 pronuclei
 pronunciation
+proof
 proofreading
 proofreads
 proofroom
@@ -45014,6 +45040,7 @@ psychologises
 psychologists
 psychologize
 psychologized
+psychology
 psychometrics
 psychometry
 psychoneuroses
@@ -47920,6 +47947,7 @@ reprivatized
 reprivatizes
 reprivatizing
 repro
+reproachers
 reproaching
 reproachingly
 reprobating
@@ -49099,6 +49127,7 @@ roe
 roebuck
 roentgen
 roentgenogram
+roentgenography
 roentgenology
 roentgens
 roes
@@ -53126,6 +53155,7 @@ snowdrift
 snowdrops
 snowfall
 snowfield
+snowier
 snowlands
 snowless
 snowmaker
@@ -54937,6 +54967,7 @@ stonewashed
 stoniest
 stoninesses
 stonish
+stony
 stonyhearted
 stood
 stook
@@ -57409,6 +57440,7 @@ teleprocessings
 teleran
 telescoped
 telescopic
+telescoping
 telescopy
 teleses
 teleshops
@@ -58828,6 +58860,7 @@ toxins
 toxoid
 toxoids
 toxophilies
+toxophily
 toxoplasmic
 toxoplasmosis
 toyed
@@ -59955,6 +59988,7 @@ twentieths
 twerp
 twerps
 twibill
+twibills
 twiddlers
 twiddles
 twiddlier
@@ -63916,6 +63950,7 @@ windiness
 windinesses
 windings
 windjammers
+windjamming
 windlassed
 windless
 windlessly
