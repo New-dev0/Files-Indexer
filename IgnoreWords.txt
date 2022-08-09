@@ -1899,6 +1899,7 @@ angelologies
 angels
 angeluses
 angered
+angina
 anginous
 angiogenesis
 angiogenic
@@ -2797,6 +2798,7 @@ archaises
 archaisms
 archaist
 archaistic
+archaists
 archaize
 archaizer
 archaizes
@@ -4150,6 +4152,7 @@ bandshells
 bandwidth
 bandy
 bandying
+baneful
 banefully
 bang
 banging
@@ -4950,6 +4953,7 @@ benefitted
 benempt
 benevolentness
 benignancy
+benignities
 benignity
 benison
 benisons
@@ -5429,6 +5433,7 @@ bioregionalism
 bioregionalisms
 bioregions
 bioscientists
+bioscopes
 biosensor
 biosensors
 biosocially
@@ -5990,6 +5995,7 @@ bobolinks
 bobsleigh
 bobsleighs
 bobstays
+bobtail
 bobwhite
 bobwhites
 bocces
@@ -8236,6 +8242,7 @@ cartwheels
 caruncle
 caryopses
 casa
+casaba
 casabas
 casbahs
 cascabel
@@ -17586,6 +17593,7 @@ effacing
 effect
 effector
 effectual
+effectually
 effectualness
 effectuating
 effectuation
@@ -21502,6 +21510,7 @@ fogdog
 fogdogs
 fogeyish
 fogeyisms
+fogeys
 fogfruit
 fogged
 foggier
@@ -22374,6 +22383,7 @@ fulgurant
 fulgurated
 fulgurates
 fulguration
+fullback
 fulleries
 fullest
 fullfaces
@@ -24015,6 +24025,7 @@ grandaddies
 grandames
 grandaunt
 grandaunts
+grandchild
 granddad
 granddaddy
 granddads
@@ -27092,6 +27103,7 @@ iceboatings
 icebox
 icebreakers
 icecap
+icefall
 icehouse
 icekhanas
 icemaker
@@ -30000,6 +30012,7 @@ judges
 judgeship
 judgmatical
 judgment
+judgmental
 judgments
 judicable
 judicatories
@@ -30079,6 +30092,7 @@ jurisprudences
 jurist
 juryman
 jurywoman
+jurywomen
 jussive
 jussives
 juster
@@ -30364,6 +30378,7 @@ keynotes
 keypad
 keypads
 keypals
+keypunchers
 keypunches
 keypunching
 keyset
@@ -33359,6 +33374,7 @@ martini
 martins
 martyr
 martyrdom
+martyrizations
 martyrize
 martyrized
 martyrizes
@@ -35136,6 +35152,7 @@ misusing
 misutilization
 misvalue
 misvalued
+misvalues
 misword
 miswording
 miswords
@@ -35455,6 +35472,7 @@ monomania
 monomaniac
 monomaniacally
 monomaniacs
+monomer
 monomeric
 monometallic
 monometallist
@@ -35764,6 +35782,7 @@ motorcar
 motorcycles
 motorcycling
 motorcyclist
+motored
 motorically
 motorising
 motorization
@@ -36341,6 +36360,7 @@ mystique
 mythicize
 mythicized
 mythicizes
+mythier
 mythiest
 mythographers
 mythologer
@@ -40170,6 +40190,7 @@ padnag
 padnags
 padri
 padrone
+padroni
 padronism
 pads
 padshah
@@ -42079,6 +42100,7 @@ photolysis
 photolyzable
 photolyze
 photomapped
+photomask
 photomasks
 photometers
 photometrically
@@ -42496,6 +42518,7 @@ pintados
 pintails
 pintle
 pintles
+pinto
 pintoes
 pintos
 pintsized
@@ -45159,6 +45182,7 @@ psittacine
 psittacines
 psittacosis
 psoai
+psoas
 psoatic
 psocid
 psoraleas
@@ -49880,6 +49904,7 @@ saggared
 saggaring
 sagger
 saggered
+saggering
 saggers
 saggiest
 sagier
@@ -50258,6 +50283,7 @@ satiate
 satiating
 satieties
 satinette
+satinwoods
 satires
 satirised
 satirists
@@ -50847,6 +50873,7 @@ scrounging
 scroungy
 scrubbily
 scrubby
+scrublands
 scrubwoman
 scruffinesses
 scruffy
@@ -52746,6 +52773,7 @@ skylarked
 skylarker
 skylarks
 skylights
+skyline
 skyman
 skymen
 skyrocket
@@ -53259,6 +53287,7 @@ snelling
 snibbing
 snickersnee
 snidest
+sniffed
 sniffier
 sniffinesses
 sniffish
@@ -55798,10 +55827,12 @@ subnasal
 subnational
 subnetworking
 subnetworks
+subniches
 subnormalities
 subnuclear
 suboptimization
 suboptimize
+suboptimized
 suboptimizes
 suboptimum
 suborbicular
@@ -60277,6 +60308,7 @@ typier
 typiest
 typification
 typifiers
+typifies
 typists
 typographed
 typographers
@@ -62117,6 +62149,7 @@ urediospores
 uredo
 ureter
 ureteric
+ureters
 urethane
 urethans
 urethrae
@@ -62668,6 +62701,7 @@ verruca
 verrucas
 versal
 versatileness
+versatilenesses
 versatility
 verse
 verseman
@@ -64446,6 +64480,7 @@ wordplays
 words
 wordsmith
 wordsmithery
+wore
 work
 workaday
 workaholisms
