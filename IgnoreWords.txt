@@ -652,6 +652,7 @@ advances
 advantage
 advantaged
 advantageous
+advantages
 advect
 advection
 advective
@@ -1129,6 +1130,7 @@ alcids
 alcohol
 alcoholically
 alderflies
+aldols
 aldosterone
 aldosterones
 aldrins
@@ -7017,6 +7019,7 @@ bullfinches
 bullfrog
 bullhead
 bullheaded
+bullheadedly
 bullheadedness
 bullhorns
 bulling
@@ -8091,6 +8094,7 @@ carnalities
 carnallites
 carnassial
 carnaubas
+carnified
 carnitines
 carnivorous
 carnotites
@@ -9698,6 +9702,7 @@ clades
 cladisms
 cladistic
 cladistically
+cladoceran
 cladode
 cladodes
 cladodial
@@ -11266,6 +11271,7 @@ conniver
 connivers
 connives
 conniving
+connotation
 connotational
 connotations
 connote
@@ -11639,6 +11645,7 @@ coolant
 coolants
 coolnesses
 coolths
+coomb
 coombs
 cooncan
 coonhound
@@ -11846,6 +11853,7 @@ cornrow
 cornrowed
 corns
 cornstalks
+cornu
 cornua
 cornual
 cornucopia
@@ -12760,6 +12768,7 @@ crowdy
 crower
 crowers
 crowfoot
+crowing
 crownets
 crowning
 crows
@@ -16043,6 +16052,7 @@ dissolutely
 dissolve
 dissolved
 dissolves
+dissuader
 dissuaders
 dissuasively
 dissuasiveness
@@ -16793,6 +16803,7 @@ drinkables
 drinkably
 drinkings
 drip
+dripper
 drippers
 drippiest
 drippily
@@ -17458,6 +17469,7 @@ effectuations
 effeminacy
 efferents
 effervesce
+effervescent
 effete
 effetenesses
 efficacity
@@ -18207,6 +18219,7 @@ engraft
 engraftments
 engrail
 engrailing
+engrails
 engram
 engramme
 engrammes
@@ -19181,6 +19194,7 @@ eventful
 eventide
 events
 eventuated
+everglade
 everglades
 everlastingly
 everlastingness
@@ -24549,6 +24563,7 @@ habitualnesses
 habituate
 habituating
 habituation
+habitudes
 habitues
 haboobs
 habus
@@ -27768,6 +27783,7 @@ indagators
 indamine
 indamines
 indebted
+indecencies
 indecency
 indecent
 indecentest
@@ -28084,6 +28100,7 @@ influents
 info
 infobahn
 infolder
+infomercials
 inform
 informal
 informality
@@ -28509,6 +28526,7 @@ intemperately
 intend
 intendants
 intendedly
+intending
 intenerate
 intenerates
 intenerating
@@ -30641,6 +30659,7 @@ lade
 laden
 ladhoods
 ladle
+ladled
 ladleful
 ladlefuls
 ladlers
@@ -30943,6 +30962,7 @@ lathi
 lathier
 lathing
 lathings
+lathworks
 lati
 laticifers
 latifundio
@@ -31420,6 +31440,7 @@ libecchio
 libeccio
 libelants
 libeled
+libelees
 libelers
 libelists
 libellee
@@ -32648,6 +32669,7 @@ mainsheet
 mainsheets
 mainspring
 mainsprings
+mainstreaming
 maintainable
 maintaining
 maintenance
@@ -35158,6 +35180,7 @@ monogamies
 monogamist
 monogamists
 monogeneans
+monogenic
 monogenically
 monogrammers
 monograms
@@ -36213,6 +36236,7 @@ nascency
 nascent
 naseberries
 naseberry
+nastier
 nastiest
 nastily
 nasturtium
@@ -39530,6 +39554,7 @@ overregulate
 overregulates
 overregulating
 overregulations
+overreliance
 overreliances
 overreported
 override
@@ -42349,6 +42374,7 @@ plainsong
 plainsongs
 plainspoken
 plaint
+plaintiff
 plaintively
 plaintiveness
 plaintivenesses
@@ -42451,6 +42477,7 @@ platitudes
 platitudinarian
 platitudinize
 platitudinizes
+platonisms
 platooned
 platted
 platterful
@@ -45502,6 +45529,7 @@ queueing
 queuer
 queues
 quezales
+quibblers
 quibbling
 quickener
 quickening
@@ -46307,6 +46335,7 @@ recalculated
 recalculation
 recalibrated
 recalibrates
+recalibrations
 recall
 recallability
 recalls
@@ -47907,6 +47936,7 @@ reservoirs
 resetter
 resetters
 resettle
+resettlement
 resettling
 resewn
 resews
@@ -50272,6 +50302,7 @@ sclera
 sclerenchyma
 sclerites
 scleritis
+scleroid
 scleroma
 scleromas
 sclerose
@@ -52050,6 +52081,7 @@ simpler
 simplest
 simpleton
 simplexes
+simplices
 simplicial
 simplifiers
 simplifying
@@ -56100,6 +56132,7 @@ surfboards
 surfed
 surfeited
 surfers
+surffishes
 surfier
 surfings
 surfman
@@ -60303,6 +60336,7 @@ uncontested
 uncontradicted
 uncontrollably
 uncontroversial
+unconverted
 unconvincingly
 uncooked
 uncooled
@@ -62212,6 +62246,7 @@ versts
 vertebra
 vertebrate
 verticality
+vertically
 verticals
 verticillate
 vertiginous
