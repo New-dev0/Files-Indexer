@@ -282,6 +282,7 @@ acetanilids
 acetate
 acetazolamide
 acetic
+acetification
 acetifications
 acetified
 acetifier
@@ -4557,6 +4558,7 @@ becarpets
 bechalking
 bechalks
 bechamels
+bechance
 becharm
 becharming
 becharms
@@ -5716,6 +5718,7 @@ blencher
 blend
 blende
 blennioid
+blepharospasms
 blesbok
 blesbuck
 bless
@@ -7402,6 +7405,7 @@ cacodemons
 cacodyls
 cacomixls
 caconym
+caconymies
 cacophonous
 cacophonously
 cactus
@@ -7520,6 +7524,7 @@ calculatedly
 calculation
 calculator
 calculus
+calculuses
 caldarium
 caldera
 caleches
@@ -8610,6 +8615,7 @@ centurial
 centuries
 century
 ceorlish
+cephalexin
 cephalically
 cephalizations
 cephalopod
@@ -8747,6 +8753,7 @@ chalutz
 chalutzim
 cham
 chamade
+chamades
 chamber
 chamberlain
 chamberlains
@@ -11097,6 +11104,7 @@ confectioners
 confederacy
 confederated
 confederates
+conferee
 conferencings
 conferment
 conferrable
@@ -15116,6 +15124,7 @@ diarist
 diaristic
 diarrhea
 diarrheic
+diarrhetic
 diarthroses
 diarthrosis
 diary
@@ -17095,6 +17104,7 @@ durras
 durrs
 durst
 dusk
+dusked
 dusking
 dusks
 dustcover
@@ -17470,6 +17480,7 @@ effeminacy
 efferents
 effervesce
 effervescent
+effervesces
 effete
 effetenesses
 efficacity
@@ -18453,6 +18464,7 @@ entresol
 entries
 entropic
 entropion
+entropions
 entrustments
 entry
 entwined
@@ -25234,6 +25246,7 @@ heathenries
 heathens
 heathier
 heathland
+heathlands
 heathless
 heaths
 heaumes
@@ -27562,6 +27575,7 @@ inborn
 inbound
 inbounded
 inbreathe
+inbreathed
 inbreathes
 inbred
 inbreds
@@ -27916,6 +27930,7 @@ inducted
 inductee
 inductees
 inductile
+induction
 inductive
 inductors
 indued
@@ -29969,6 +29984,7 @@ kaons
 kapa
 kapellmeisters
 kappa
+kappas
 kaput
 karabiner
 karakul
@@ -30170,6 +30186,7 @@ khazens
 khedas
 khedival
 khedive
+khet
 kheth
 kheths
 khets
@@ -32834,6 +32851,7 @@ mandamus
 mandamused
 mandamuses
 mandamusing
+mandarinates
 mandarinic
 mandating
 mandator
@@ -34721,6 +34739,7 @@ mislocated
 mislocations
 mislodged
 mismaking
+mismanaged
 mismanagement
 mismanagements
 mismanages
@@ -35278,6 +35297,7 @@ monsteras
 monstrosities
 monstrosity
 monstrousness
+montagnard
 montanes
 monteith
 montero
@@ -38320,6 +38340,7 @@ optics
 optima
 optimal
 optimalities
+optimised
 optimises
 optimisms
 optimization
@@ -41307,6 +41328,7 @@ permuting
 perniciousness
 pernod
 pernods
+peroneal
 perorated
 perorating
 perorator
@@ -44753,6 +44775,7 @@ provinces
 provincialisms
 provincialize
 provincialized
+provincializing
 provincially
 provisionally
 provisionary
@@ -44762,6 +44785,7 @@ provisos
 provitamin
 provocateur
 provocation
+provoker
 provokers
 provokes
 provost
@@ -47456,6 +47480,7 @@ remilitarize
 remilitarized
 remilitarizes
 reminded
+reminders
 reminding
 reminds
 reminisce
@@ -51339,6 +51364,7 @@ shamble
 shame
 shameable
 shamefaced
+shamefast
 shameful
 shamefully
 shamefulnesses
@@ -52693,6 +52719,7 @@ smallage
 smallclothes
 smallholder
 smallholding
+smallish
 smallmouth
 smallnesses
 smallswords
@@ -53054,6 +53081,7 @@ socioeconomic
 sociogram
 sociograms
 sociohistorical
+sociolects
 sociolinguistic
 sociolinguists
 sociologists
@@ -53831,6 +53859,7 @@ splashiness
 splashing
 splat
 splatted
+splattering
 splaying
 splays
 spleen
@@ -54653,6 +54682,7 @@ stingless
 stingo
 stingrays
 stink
+stinkards
 stinkier
 stinko
 stinky
@@ -55251,6 +55281,7 @@ subduce
 subduced
 subduces
 subduct
+subducts
 subduedly
 subduers
 subdwarf
@@ -57764,6 +57795,7 @@ thimbleriggers
 thimbleweed
 thimbleweeds
 thimerosals
+thinclads
 thindown
 thindowns
 thing
@@ -59066,6 +59098,7 @@ tribalism
 tribalists
 tribals
 tribes
+tribesmen
 triboelectric
 tribologists
 tribrach
@@ -60603,6 +60636,7 @@ undoer
 undoers
 undogmatic
 undogmatically
+undoing
 undoings
 undone
 undotted
@@ -64429,6 +64463,7 @@ yttrias
 yuan
 yuch
 yuck
+yucked
 yuckier
 yuckiest
 yuckiness
