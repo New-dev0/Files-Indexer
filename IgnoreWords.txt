@@ -367,6 +367,7 @@ acquires
 acquisitional
 acquisitions
 acquisitive
+acquit
 acquittance
 acquitting
 acrasias
@@ -4721,6 +4722,7 @@ beflea
 befleaed
 befleas
 befleck
+befooled
 beforetime
 befouled
 befrets
@@ -6321,6 +6323,7 @@ bouncers
 bouncing
 bound
 boundaries
+bounded
 boundednesses
 bounden
 bounder
@@ -10852,6 +10855,7 @@ compatibility
 compatibles
 compatriot
 compellable
+compellations
 compelled
 compendiousness
 compensated
@@ -11631,6 +11635,7 @@ cooch
 coocoo
 cooed
 cooee
+cooeed
 cooeeing
 cooees
 cooey
@@ -12552,6 +12557,7 @@ creping
 crepitant
 crepitate
 crepitated
+crepitates
 crepitations
 crepuscles
 crepuscular
@@ -15045,6 +15051,7 @@ diademing
 diaeresis
 diageotropic
 diagnosable
+diagnosing
 diagnosis
 diagnostic
 diagnostically
@@ -16444,6 +16451,7 @@ doorknob
 doormen
 doorpost
 doors
+doorsills
 doorstep
 doorway
 doorways
@@ -16486,6 +16494,7 @@ dorsiventrality
 dorsiventrally
 dorsum
 dorty
+dos
 dosers
 doses
 dosimeter
@@ -17715,6 +17724,7 @@ eloigned
 eloigner
 eloigning
 eloinment
+elongates
 elongation
 elope
 eloped
@@ -21484,6 +21494,7 @@ footling
 footlocker
 footlockers
 footmen
+footnoted
 footnoting
 footpace
 footpaces
@@ -24163,6 +24174,7 @@ grizzlers
 grizzles
 grizzlier
 grizzlies
+grizzly
 groat
 grocer
 groceries
@@ -24338,6 +24350,7 @@ gudgeoning
 guenons
 guerdon
 guerdoned
+guerdoning
 guerdons
 gueridon
 gueridons
@@ -24725,6 +24738,7 @@ hallelujah
 hallmark
 hallmarked
 halloa
+halloes
 halloing
 halloos
 hallos
@@ -25619,6 +25633,7 @@ heterogeneous
 heterogenies
 heterogeny
 heterogonic
+heterogonies
 heterogony
 heterokaryons
 heterokaryoses
@@ -30619,6 +30634,7 @@ labourers
 labouring
 labra
 labrador
+labradorites
 labradors
 labret
 labrets
@@ -31731,6 +31747,7 @@ linoleate
 linoleates
 linoleum
 linsangs
+linstock
 linter
 linters
 lintier
@@ -32055,6 +32072,7 @@ logographically
 logoi
 logomach
 logomachy
+logorrhea
 logotypes
 logotypies
 logotypy
@@ -34825,6 +34843,7 @@ misrule
 missable
 missaid
 missay
+missays
 misseats
 missend
 missending
@@ -35323,6 +35342,7 @@ moodiest
 moodily
 moodiness
 moods
+mooing
 mool
 moolah
 moolas
@@ -38743,6 +38763,7 @@ outcavilling
 outcavils
 outcharges
 outcharm
+outcharming
 outcheat
 outcheating
 outchide
@@ -39451,6 +39472,7 @@ overimaginative
 overimpress
 overimpressed
 overindulge
+overindulgence
 overindulging
 overinflate
 overinflation
@@ -39633,6 +39655,7 @@ oversights
 oversimple
 oversimplified
 oversimplifies
+oversimplifying
 oversize
 overskirt
 oversleep
@@ -45989,6 +46012,7 @@ rarer
 rareripes
 rares
 rasbora
+rasboras
 rasers
 rasher
 rashest
@@ -46523,6 +46547,7 @@ recondition
 reconditioned
 reconducted
 reconducts
+reconfer
 reconferred
 reconfine
 reconfines
@@ -46630,6 +46655,7 @@ recurrences
 recurring
 recursion
 recursions
+recursiveness
 recurvate
 recurves
 recusal
@@ -46878,6 +46904,7 @@ reenrolling
 reenslaves
 reenslaving
 reentered
+reenthroned
 reenthrones
 reentrance
 reentries
@@ -47406,6 +47433,7 @@ reloans
 relocate
 relocated
 relocates
+relocations
 relock
 relocking
 relooking
@@ -48213,6 +48241,7 @@ resurrect
 resurrecting
 resurrects
 resurveying
+resuscitated
 resuscitates
 resuscitating
 resuscitation
@@ -49974,6 +50003,7 @@ saunaed
 saunter
 saunters
 saurels
+saurians
 sauries
 saurischian
 saurischians
@@ -51974,6 +52004,7 @@ sightseen
 sightseers
 sightsees
 sigil
+sigla
 sigloi
 sigma
 sigmate
@@ -54088,6 +54119,7 @@ spurners
 spurns
 spurrer
 spurrers
+spurry
 spurtle
 spurtles
 spurts
@@ -56134,6 +56166,7 @@ supremacists
 suprematism
 suprematist
 suprematists
+supreme
 supremenesses
 supremes
 supremest
@@ -56468,6 +56501,7 @@ sycophancy
 sycophantic
 sycophantisms
 sycophants
+syenite
 syenites
 syenitic
 syke
@@ -60546,6 +60580,7 @@ underreported
 underreporting
 underreports
 underripe
+undersaturated
 underscored
 underscores
 undersecretary
