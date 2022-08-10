@@ -727,6 +727,7 @@ aero
 aerobatic
 aerobes
 aerobicized
+aerobicizing
 aerobics
 aerobiological
 aerobiology
@@ -4393,6 +4394,7 @@ barytons
 bas
 basalt
 basaltes
+basaltine
 bascule
 baseboards
 baseless
@@ -6874,6 +6876,7 @@ broadleaves
 broadly
 broadtail
 broadtails
+brocades
 brocading
 brocatelles
 brocatels
@@ -7550,6 +7553,7 @@ caciquisms
 cackle
 cacklers
 cacodemon
+cacodemonic
 cacodemons
 cacodyls
 cacomixls
@@ -9774,6 +9778,7 @@ circa
 circadian
 circle
 circled
+circlets
 circuit
 circuitousness
 circuitry
@@ -11697,6 +11702,7 @@ contingence
 contingencies
 continual
 continually
+continuances
 continuant
 continuate
 continuation
@@ -16428,6 +16434,7 @@ disused
 disuses
 disyoked
 dit
+ditas
 ditchdigger
 ditchdiggers
 ditchers
@@ -19705,6 +19712,7 @@ excoriating
 excoriation
 excrescence
 excrescency
+excreter
 excreters
 excretes
 excreting
@@ -20653,6 +20661,7 @@ feedyards
 feeling
 feelingnesses
 feelings
+fees
 feeze
 feezed
 feigner
@@ -22385,6 +22394,7 @@ freezers
 freezes
 freight
 freightage
+freightages
 freighting
 fremd
 fremituses
@@ -24456,6 +24466,7 @@ greasing
 greatcoats
 greatheartedly
 greatly
+greatnesses
 grebes
 grecianizing
 grecize
@@ -29871,6 +29882,7 @@ issuably
 issuance
 issuers
 isthmian
+isthmoid
 isthmus
 istle
 italianated
@@ -32873,6 +32885,7 @@ luculent
 luculently
 ludicrousnesses
 luffed
+luftmenschen
 lugeing
 luger
 luggages
@@ -34834,6 +34847,7 @@ migs
 mihrabs
 mikados
 miked
+mikra
 mikvos
 mil
 miladi
@@ -35459,6 +35473,7 @@ missenses
 missent
 misses
 misshaper
+missilery
 missing
 missioner
 missioners
@@ -40544,6 +40559,7 @@ oxytocins
 oxytones
 oyes
 oyez
+oyezes
 oystercatcher
 oystercatchers
 oysterer
@@ -41288,6 +41304,7 @@ parturient
 parturitions
 partway
 party
+partyers
 partygoers
 parvenue
 parvenus
@@ -41700,6 +41717,7 @@ peised
 peising
 pejoratively
 pejoratives
+peke
 pekepoos
 pekoes
 pelage
@@ -42713,6 +42731,7 @@ piasavas
 piassabas
 piastre
 piastres
+pibroch
 pica
 picadillos
 picador
@@ -43052,6 +43071,7 @@ pisiforms
 piso
 pisolites
 pisoliths
+pissing
 pistareen
 pistareens
 pistes
@@ -43091,6 +43111,7 @@ pitiful
 pitifuller
 pitifullest
 pitiless
+pitilessly
 pitmans
 pittances
 pittas
@@ -43942,6 +43963,7 @@ portside
 posada
 pose
 posed
+poses
 poseurs
 poshest
 poshness
@@ -47013,6 +47035,7 @@ reaffirms
 reaffix
 reaffixing
 reafforested
+reafforesting
 reaggregated
 reaggregation
 realer
@@ -47088,6 +47111,7 @@ reascend
 reascends
 reascent
 reasonably
+reasoned
 reasonings
 reasonlessly
 reassailing
@@ -47378,6 +47402,7 @@ reconnoitre
 reconnoitred
 reconquer
 reconquest
+reconsecrates
 reconsecrating
 reconsider
 reconsidering
@@ -47430,6 +47455,7 @@ recrate
 recrates
 recreancy
 recreating
+recreationists
 recreative
 recrements
 recriminated
@@ -48330,6 +48356,7 @@ remended
 remerged
 remerging
 remex
+remiges
 remigial
 remilitarize
 remilitarized
@@ -54293,6 +54320,7 @@ sopaipillas
 sopapilla
 sophisms
 sophist
+sophistic
 sophisticates
 sophomore
 sopited
@@ -54684,6 +54712,7 @@ sphere
 sphered
 spherical
 spherically
+spheroidal
 spheroidally
 spherulites
 sphincter
@@ -55048,6 +55077,7 @@ sprugs
 sprung
 spry
 spryly
+sprynesses
 spud
 spumes
 spumy
@@ -55727,6 +55757,7 @@ stocky
 stockyard
 stodgier
 stodgily
+stodginesses
 stodging
 stogey
 stoically
@@ -57782,6 +57813,7 @@ tags
 tahinis
 tahrs
 tahsildar
+taiga
 taiglach
 tail
 tailbacks
@@ -61368,6 +61400,7 @@ unciae
 uncially
 uncinal
 uncinarias
+uncinate
 uncinematic
 uncivil
 uncivilized
@@ -62807,6 +62840,7 @@ urbanise
 urbanises
 urbanising
 urbanisms
+urbanist
 urbanistic
 urbanists
 urbanites
@@ -65024,6 +65058,7 @@ witchings
 witchweeds
 witchy
 wited
+witenagemots
 wites
 withdrawable
 withdrawal
