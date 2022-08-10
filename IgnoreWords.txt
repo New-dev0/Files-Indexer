@@ -40,6 +40,7 @@ abridgments
 abrogable
 abrogate
 abrogated
+abrogations
 abruptions
 abruptness
 abruptnesses
@@ -1991,6 +1992,7 @@ aniseeds
 anisette
 anisettes
 anisogamous
+anisogamy
 anisole
 anisometropia
 anisometropias
@@ -2289,6 +2291,7 @@ antineutron
 antineutrons
 antinodal
 antinodes
+antinome
 antinomian
 antinomianism
 antinomy
@@ -3127,6 +3130,7 @@ ashfall
 ashier
 ashiness
 ashinesses
+ashing
 ashlars
 ashler
 ashless
@@ -3379,6 +3383,7 @@ atelier
 atemporal
 atenolol
 athanasies
+atheistical
 atheistically
 atheling
 athelings
@@ -4194,6 +4199,7 @@ banjos
 bankable
 bankbook
 bankcard
+bankits
 bankrolled
 bankrupt
 bankrupted
@@ -13576,6 +13582,7 @@ cytotoxins
 czardas
 czardom
 czarevna
+czarevnas
 czarina
 czarisms
 czarists
@@ -14566,6 +14573,7 @@ demilitarize
 demilunes
 demimondes
 demineralizing
+demirep
 demisable
 demise
 demisemiquaver
@@ -15065,6 +15073,7 @@ detecter
 detecting
 detection
 detections
+detective
 detector
 detectors
 detentes
@@ -17467,6 +17476,7 @@ earmarks
 earner
 earners
 earnestness
+earning
 earphone
 earpiece
 earplugs
@@ -19652,6 +19662,7 @@ executory
 executrices
 exed
 exedra
+exegeses
 exegetic
 exegetics
 exegetist
@@ -20220,6 +20231,7 @@ faithfulnesses
 faithfuls
 faithlessly
 faiths
+faker
 fakery
 fakirs
 falafels
@@ -27713,6 +27725,7 @@ imperfects
 imperialist
 imperialists
 imperials
+imperiled
 imperiling
 imperils
 imperiousness
@@ -28924,6 +28937,7 @@ integuments
 intellections
 intellective
 intellectively
+intellects
 intellectualist
 intelligencer
 intelligently
@@ -29582,6 +29596,7 @@ irrelatively
 irrelevance
 irrelevancies
 irrelevancy
+irrelevant
 irreligion
 irreligionist
 irreligions
@@ -29702,6 +29717,7 @@ isomerous
 isometric
 isometry
 isomorphs
+isooctane
 isooctanes
 isopachs
 isophotal
@@ -33882,6 +33898,7 @@ mechanizers
 mechanizes
 mechanizing
 mechanochemical
+mechitza
 meclizines
 med
 medaillon
@@ -34822,6 +34839,7 @@ mindedness
 mindful
 mindfulnesses
 mindless
+minds
 mindset
 mine
 minelayers
@@ -37733,6 +37751,7 @@ nonmen
 nonmercurial
 nonmetals
 nonmetric
+nonmetro
 nonmetropolitan
 nonmigrant
 nonminority
@@ -38809,6 +38828,7 @@ operosenesses
 ophidians
 ophiolites
 ophite
+ophites
 ophiuroids
 opiate
 opiating
@@ -42130,6 +42150,7 @@ phallus
 phanerophyte
 phantasmagoria
 phantasmagoric
+phantasmal
 phantasmata
 phantasying
 pharisaic
@@ -43339,6 +43360,7 @@ poetize
 poetized
 poetless
 pogeys
+pogonip
 pogonips
 pogonophorans
 pogromed
@@ -44061,6 +44083,7 @@ pratfall
 pratfalls
 pratiques
 prattle
+prattlers
 prattles
 prattling
 prattlingly
@@ -44965,6 +44988,7 @@ productive
 productivity
 products
 proem
+proestruses
 profanation
 profanatory
 profane
@@ -48905,6 +48929,7 @@ retaped
 retardates
 retardation
 retarder
+retards
 retastes
 retax
 retches
@@ -50160,7 +50185,9 @@ sackcloths
 sacker
 sacking
 saclike
+sacralize
 sacralizing
+sacramental
 sacramentalists
 sacramentals
 sacrificers
@@ -52287,6 +52314,7 @@ shikari
 shikseh
 shiksehs
 shilingi
+shill
 shillalah
 shillelah
 shillelahs
@@ -52912,6 +52940,7 @@ sirdars
 sirens
 siring
 siroccos
+sirs
 siruped
 sirupier
 sirupy
@@ -59423,6 +59452,7 @@ tourers
 tourmaline
 tourney
 tourneying
+tours
 touse
 touses
 tousles
@@ -62399,6 +62429,7 @@ updraft
 upflinging
 upflings
 upflow
+upfolded
 upgathering
 upgaze
 upgazed
@@ -62455,6 +62486,7 @@ upreached
 uprighting
 uprightnesses
 uprights
+uprise
 uprisen
 uprises
 upriver
@@ -63747,6 +63779,7 @@ wafters
 wafts
 wafture
 wag
+wage
 wageless
 wager
 wagered
@@ -64090,6 +64123,7 @@ waywardness
 waywardnesses
 wazoos
 weaken
+weakeners
 weakhearted
 weakliest
 weaklings
@@ -64771,6 +64805,7 @@ witneys
 wittiest
 wittiness
 wittols
+wivern
 wiz
 wizardly
 wizards
