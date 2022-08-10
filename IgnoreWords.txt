@@ -148,6 +148,7 @@ acarids
 acarine
 acarines
 acarologies
+acarpous
 acarus
 acaulose
 acceded
@@ -1335,6 +1336,7 @@ allotments
 allotrope
 allotropic
 allotter
+allotters
 allotypies
 allow
 allowables
@@ -1849,6 +1851,7 @@ anchorpeople
 anchorwomen
 anchovetas
 anchovettas
+ancient
 ancientest
 ancientries
 ancillae
@@ -3270,6 +3273,7 @@ associational
 associationisms
 associationist
 associations
+associative
 associativities
 assoiling
 assoilment
@@ -3530,6 +3534,7 @@ aubades
 auberge
 aubretia
 auburn
+auburns
 auctioned
 aucuba
 aucubas
@@ -6589,6 +6594,7 @@ brailled
 brailler
 braillewriters
 brailling
+braincase
 brained
 brainiac
 brainier
@@ -8685,6 +8691,7 @@ cellar
 cellarage
 cellarets
 cellarette
+cellaring
 cellarway
 cellblock
 cellblocks
@@ -9385,6 +9392,7 @@ chinks
 chinned
 chino
 chinquapins
+chins
 chints
 chintzier
 chintziest
@@ -9829,6 +9837,7 @@ cirrhosis
 cirrocumulus
 cirrose
 cirrus
+cirsoid
 cisco
 ciscoes
 cislunar
@@ -10917,6 +10926,7 @@ comforter
 comforters
 comfortingly
 comforts
+comfrey
 comical
 comicality
 coming
@@ -19384,6 +19394,7 @@ ethnohistorian
 ethnohistory
 ethnologic
 ethnologies
+ethnology
 ethnos
 ethnosciences
 ethogram
@@ -20919,6 +20930,7 @@ fictionalised
 fictionalities
 fictionality
 fictionally
+fictioneers
 fictionist
 fictionization
 fictionizations
@@ -22845,6 +22857,7 @@ gadabouts
 gadarene
 gadgetries
 gadgetry
+gadgets
 gadid
 gadolinites
 gadoliniums
@@ -23544,6 +23557,7 @@ ghostier
 ghostings
 ghostliest
 ghostly
+ghostwriter
 ghostwriting
 ghoulish
 ghoulishness
@@ -25348,6 +25362,7 @@ hao
 haole
 hap
 hapaxes
+haphazardly
 haphtara
 haphtarah
 haphtarot
@@ -27350,6 +27365,7 @@ hypoing
 hypokalemia
 hypokalemias
 hypokalemic
+hypolimnion
 hypomagnesemia
 hypomanic
 hypomorph
@@ -28247,6 +28263,7 @@ incoordination
 incorporable
 incorporated
 incorporation
+incorporations
 incorpses
 incorrect
 incorrectness
@@ -28317,6 +28334,7 @@ indecision
 indecisiveness
 indecomposable
 indecorums
+indefeasibility
 indefeasible
 indefectible
 indefectibly
@@ -30444,6 +30462,7 @@ justest
 justiciable
 justiciar
 justifiability
+justifiable
 justification
 justificatory
 justifying
@@ -30562,6 +30581,7 @@ kasha
 kasher
 kashered
 kashering
+kashrut
 kashruth
 kashruths
 katakana
@@ -31110,6 +31130,7 @@ kuchens
 kudus
 kudzus
 kukri
+kukris
 kultur
 kummel
 kumquat
@@ -34558,6 +34579,7 @@ methicillins
 methionine
 methodic
 methodical
+methodically
 methodised
 methodising
 methodism
@@ -36253,6 +36275,7 @@ mousiest
 moussaka
 mousseline
 moussing
+moustache
 moustaches
 mousy
 mouthed
@@ -38120,6 +38143,7 @@ noodges
 noodles
 noogies
 nookie
+nookies
 nooks
 noonday
 noons
@@ -42631,6 +42655,7 @@ phrasemonger
 phrasemongering
 phreaker
 phreakers
+phreakings
 phreatic
 phreatophytic
 phrenitis
@@ -43499,10 +43524,12 @@ poaches
 poachier
 pochard
 pock
+pocket
 pocketers
 pocketful
 pocketing
 pocketknife
+pockets
 pockily
 pockmarks
 pocky
@@ -45323,6 +45350,7 @@ pronephra
 pronephric
 pronephros
 pronged
+pronghorns
 prongs
 pronominal
 pronominally
@@ -49833,6 +49861,7 @@ rocambole
 rochets
 rockabies
 rockabilly
+rockable
 rockabye
 rocker
 rockery
@@ -51051,6 +51080,7 @@ scantiness
 scantinesses
 scantlings
 scantly
+scants
 scanty
 scaped
 scapegoat
@@ -51595,6 +51625,7 @@ secaloses
 secantly
 secateur
 secateurs
+seccos
 secern
 seclude
 secludedly
@@ -54185,6 +54216,7 @@ solidi
 solidified
 solidify
 solidity
+solidly
 solifluction
 soliloquies
 soliloquise
@@ -57954,6 +57986,7 @@ tangential
 tangerine
 tangibilities
 tangibility
+tangiblenesses
 tangier
 tanginess
 tangles
@@ -58082,6 +58115,7 @@ taskworks
 tassel
 tasseled
 tasseling
+tasses
 tassets
 tassies
 tastable
@@ -65764,6 +65798,7 @@ zillahs
 zillion
 zillions
 zillionth
+zinc
 zincate
 zincites
 zincking
