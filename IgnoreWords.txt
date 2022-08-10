@@ -901,6 +901,7 @@ agent
 agential
 agentings
 agentives
+agentries
 ageratums
 agers
 aggada
@@ -1266,6 +1267,7 @@ alleger
 allegorically
 allegoricalness
 allegories
+allegorist
 allegorization
 allegorizations
 allegorize
@@ -1494,6 +1496,7 @@ amaze
 amazedly
 amazonites
 ambagious
+ambaries
 ambassador
 ambassadors
 ambeer
@@ -2715,6 +2718,7 @@ apropos
 apses
 apsides
 apt
+apter
 apterous
 aptest
 aptitude
@@ -3477,6 +3481,7 @@ attestors
 atticisms
 attired
 attires
+attiring
 attitudes
 attitudinise
 attitudinised
@@ -4967,6 +4972,7 @@ bendayed
 bendaying
 bends
 bendwise
+benedict
 benedictions
 beneficences
 beneficent
@@ -5821,6 +5827,7 @@ blind
 blindfold
 blindness
 blindsided
+blindsides
 blindworms
 blini
 blinis
@@ -7489,6 +7496,7 @@ cabins
 cable
 cablecasting
 cablets
+cabling
 cabob
 cabochons
 cabotage
@@ -7705,6 +7713,7 @@ callously
 callow
 callownesses
 callus
+callusing
 calm
 calmly
 calmodulin
@@ -10063,6 +10072,7 @@ clingy
 clinical
 clinically
 clinician
+clinics
 clinker
 clinkering
 clinks
@@ -12367,6 +12377,7 @@ counterstriking
 counterstruck
 countersue
 countersues
+countersuits
 countertactic
 countertenors
 counterterrors
@@ -12873,6 +12884,7 @@ crooked
 crookedest
 crookednesses
 crookeries
+crookneck
 croon
 crooners
 cropped
@@ -13507,6 +13519,7 @@ cyclosporine
 cyclosporines
 cyclostyled
 cyclostyling
+cyclothymia
 cyclotron
 cyder
 cyeses
@@ -15328,6 +15341,7 @@ diaphones
 diaphony
 diaphorases
 diaphoreses
+diaphoretic
 diaphoretics
 diaphragming
 diaphyseal
@@ -20100,6 +20114,7 @@ eyelets
 eyeletted
 eyeletting
 eyelike
+eyen
 eyeopener
 eyepieces
 eyepoppers
@@ -20600,6 +20615,7 @@ feldschers
 felicitated
 felicitates
 felicitations
+felicitator
 felicities
 felinely
 felinities
@@ -25140,6 +25156,7 @@ hames
 hammada
 hammams
 hammed
+hammered
 hammerers
 hammering
 hammerkop
@@ -25997,6 +26014,7 @@ heterogeny
 heterogonic
 heterogonies
 heterogony
+heterograft
 heterokaryons
 heterokaryoses
 heterologously
@@ -28984,6 +29002,7 @@ intents
 interabangs
 interactants
 interacted
+interaction
 interallelic
 interarch
 interbasin
@@ -35918,6 +35937,7 @@ moratoria
 morays
 morbid
 morbidity
+morbidness
 morbidnesses
 morbilli
 mordancy
@@ -37931,6 +37951,7 @@ nontalker
 nontalkers
 nontarget
 nontaxable
+nonteaching
 nontechnical
 nonterminals
 nonterminating
@@ -40767,6 +40788,7 @@ pangene
 pangenesis
 pangenetic
 pangens
+pangrams
 pangs
 panhandling
 panhuman
@@ -43179,6 +43201,7 @@ pleaser
 pleasingly
 pleasingness
 pleasurableness
+pleasurably
 pleasureless
 pleasures
 pleaters
@@ -43926,6 +43949,7 @@ postponer
 postpose
 postposed
 postposes
+postposing
 postpositional
 postpositions
 postpositively
@@ -45695,6 +45719,7 @@ pullback
 pullbacks
 pulled
 pullets
+pullman
 pullouts
 pullover
 pulls
@@ -50929,6 +50954,7 @@ scenes
 sceneshifters
 scenic
 scenical
+scenographer
 scenting
 scepter
 sceptic
@@ -51120,6 +51146,7 @@ scorpion
 scorpions
 scotched
 scotching
+scoters
 scotia
 scotopia
 scotties
@@ -53306,6 +53333,7 @@ slenderest
 slenderizes
 slenderly
 slenderness
+slendernesses
 slice
 slicers
 slick
@@ -54598,6 +54626,7 @@ spinto
 spinule
 spinulose
 spiny
+spiracles
 spiraea
 spiraeas
 spiraled
@@ -55162,6 +55191,7 @@ starfishes
 starflower
 stargaze
 stargazer
+stargazers
 starker
 starkness
 starlight
@@ -58953,6 +58983,7 @@ tigon
 tigons
 tigress
 tigresses
+tike
 tikes
 tikka
 til
@@ -62442,12 +62473,14 @@ upbow
 upbraid
 upbraider
 upbraiders
+upbraiding
 upbuild
 upbuilding
 upbuilds
 upby
 upchucking
 upchucks
+upclimbing
 upclimbs
 upcountries
 upcurling
@@ -62555,6 +62588,7 @@ upsprang
 upspring
 upsprings
 upstanding
+upstandingness
 upstared
 upstart
 upstarting
@@ -63837,6 +63871,7 @@ wagons
 wags
 wagtail
 wahine
+wahines
 waifed
 waifish
 waifs
