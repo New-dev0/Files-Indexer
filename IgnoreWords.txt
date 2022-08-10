@@ -506,6 +506,7 @@ addressing
 adduced
 adducer
 adducible
+adducted
 adductive
 adducts
 adeem
@@ -3002,6 +3003,7 @@ arrest
 arrestee
 arresting
 arrestments
+arrests
 arrhizal
 arrhythmias
 arrivers
@@ -4348,6 +4350,7 @@ barrage
 barraged
 barraging
 barramundi
+barramundis
 barranca
 barrancas
 barranco
@@ -4538,6 +4541,7 @@ bays
 bazar
 bazillion
 bazillions
+bazoo
 bazooka
 bazooms
 bdellium
@@ -5175,6 +5179,7 @@ betroths
 betted
 better
 bettering
+betters
 bettors
 between
 betweenness
@@ -5592,6 +5597,7 @@ biryani
 biryanis
 bise
 bisect
+bisecting
 bisectional
 bisections
 bisectors
@@ -6008,6 +6014,7 @@ blunging
 blunter
 blunting
 blurbed
+blurbing
 blurredly
 blurrily
 blurring
@@ -7677,6 +7684,7 @@ calendrical
 calends
 calesas
 calflike
+calibrations
 calibrator
 caliche
 calicles
@@ -10615,6 +10623,7 @@ coiffes
 coiffeurs
 coiffeuse
 coiffeuses
+coiffure
 coiffures
 coigns
 coilers
@@ -14338,6 +14347,7 @@ defibrillators
 defibrinating
 deficient
 defier
+defiladed
 defilement
 defiling
 definement
@@ -14393,6 +14403,7 @@ deformation
 deformational
 deformer
 deformers
+deforming
 deformities
 deformity
 defrag
@@ -14485,6 +14496,7 @@ deistically
 deity
 deject
 dejecta
+dejectednesses
 dejecting
 dejeuners
 dekaliter
@@ -19095,6 +19107,7 @@ ergot
 ergotamine
 ergotized
 erica
+ericaceous
 ericas
 erigeron
 eringos
@@ -20973,6 +20986,7 @@ fillagreed
 fille
 filles
 filleting
+fillies
 filling
 filliping
 fillisters
@@ -21082,6 +21096,7 @@ fireballer
 fireballing
 firebase
 firebases
+firebird
 firebirds
 firebombing
 firebombs
@@ -23019,6 +23034,7 @@ gapping
 gapy
 gar
 garage
+garageman
 garages
 garaging
 garbagey
@@ -23909,6 +23925,7 @@ gluttons
 glycans
 glyceraldehydes
 glyceric
+glyceride
 glyceridic
 glycerin
 glycerinate
@@ -25549,6 +25566,7 @@ hazanim
 hazard
 hazarder
 hazarders
+hazardous
 hazardousness
 hazel
 hazelhen
@@ -33791,6 +33809,7 @@ masturbates
 masturbating
 masturbator
 matchboard
+matchboxes
 matchless
 matchlessly
 matchmake
@@ -34421,6 +34440,7 @@ metacarpi
 metacarpus
 metacenter
 metacenters
+metacercaria
 metacercarial
 metafiction
 metafictionists
@@ -34716,6 +34736,7 @@ microtones
 microtubule
 microvolt
 microvolts
+microwatt
 microwatts
 microwavable
 microwaves
@@ -36189,6 +36210,7 @@ mourns
 mousakas
 mouse
 mouselike
+mousepad
 mousers
 mousetail
 mousetrap
@@ -36396,6 +36418,7 @@ multiplications
 multiplicity
 multipliers
 multiplies
+multipower
 multiproblem
 multiprocessors
 multiproduct
@@ -38521,6 +38544,7 @@ occidentalizing
 occidentally
 occidents
 occipita
+occipitally
 occiputs
 occluding
 occlusions
@@ -41625,6 +41649,7 @@ peels
 peened
 peening
 peens
+peep
 peeper
 peeping
 peeps
@@ -45818,6 +45843,7 @@ pulverizer
 pulverizers
 pulverizes
 pulverulent
+pulvillar
 pulvillus
 pulvinate
 pumas
@@ -47283,6 +47309,7 @@ recombing
 recombining
 recommencement
 recommences
+recommencing
 recommendable
 recommendatory
 recommended
@@ -48546,6 +48573,7 @@ reportage
 reported
 reportedly
 reporting
+reports
 repos
 reposals
 reposedly
@@ -51286,6 +51314,7 @@ scrappiness
 scrappinesses
 scrapping
 scrapple
+scrapples
 scraps
 scratchers
 scratches
@@ -52958,6 +52987,7 @@ silverside
 silversides
 silversmithings
 silverware
+silverwares
 silvexes
 silviculturally
 silviculture
@@ -53939,6 +53969,7 @@ soar
 soared
 soarers
 soave
+soaves
 soba
 sobas
 sobber
@@ -56813,6 +56844,7 @@ sunshine
 sunshines
 sunspot
 sunstones
+sunstruck
 suntan
 suntanned
 suntans
@@ -58433,6 +58465,7 @@ terete
 terga
 tergiversator
 teriyaki
+teriyakis
 term
 terminably
 terminal
@@ -62225,6 +62258,7 @@ unrepentant
 unrepressed
 unrequited
 unreserve
+unresistant
 unresponsive
 unresponsively
 unrestored
@@ -63148,6 +63182,7 @@ veggie
 vegie
 vehemence
 vehemences
+vehemency
 vehement
 veil
 veiler
