@@ -2713,6 +2713,7 @@ apyrase
 apyretic
 aquacades
 aquacultural
+aquaculture
 aquacultures
 aquaculturist
 aquaculturists
@@ -6561,6 +6562,7 @@ brandy
 brandying
 brannigan
 branning
+brans
 brantails
 bras
 brasher
@@ -6812,6 +6814,7 @@ brochettes
 brochure
 brochures
 brockages
+brocks
 brogans
 brogueries
 brogues
@@ -7893,6 +7896,7 @@ cantrap
 canular
 canulated
 canvaser
+canvasers
 canvasing
 canvaslike
 canvasser
@@ -8101,6 +8105,7 @@ cardiologies
 cardiologist
 cardiologists
 cardiomyopathy
+cardiopulmonary
 cardiotonic
 cardiotonics
 carditises
@@ -9590,6 +9595,7 @@ churches
 churchgoers
 churchianities
 churchianity
+churching
 churchings
 churchlier
 churchliest
@@ -10806,6 +10812,7 @@ comfort
 comfortableness
 comfortably
 comforter
+comforters
 comfortingly
 comforts
 comical
@@ -14592,6 +14599,7 @@ dendrograms
 dendrologist
 dendrology
 denegations
+dengue
 deniabilities
 deniable
 deniably
@@ -17963,6 +17971,7 @@ embitter
 embittered
 embitters
 emblazed
+emblazer
 emblazing
 emblazoned
 emblazoner
@@ -18509,6 +18518,7 @@ ensiled
 ensiles
 enskies
 enskyed
+enslave
 enslavers
 enslaves
 ensnare
@@ -23274,6 +23284,7 @@ gestating
 gestations
 gestative
 gesticulant
+gesticulated
 gesticulations
 gesticulators
 gesturer
@@ -24802,6 +24813,7 @@ habitues
 haboobs
 habus
 hacek
+hachures
 haciendado
 hack
 hackable
@@ -25536,6 +25548,7 @@ heeltap
 hefting
 hefts
 hegaris
+hegemonies
 hegemons
 hegira
 hegumens
@@ -25959,6 +25972,7 @@ higgler
 higgles
 high
 highball
+highballing
 highballs
 highbrows
 highchair
@@ -33407,6 +33421,7 @@ marrieds
 marrowfats
 marsala
 marseille
+marseilles
 marses
 marsh
 marshalcies
@@ -34710,6 +34725,7 @@ minimills
 minimizer
 minimizes
 mining
+miniparks
 minipills
 miniscule
 miniscules
@@ -35325,6 +35341,7 @@ modulars
 modulation
 modulators
 module
+modulo
 modulus
 mofette
 mofettes
@@ -35702,6 +35719,7 @@ moralistically
 moralizations
 moralizing
 morals
+morass
 morassy
 moratoria
 morays
@@ -35866,6 +35884,7 @@ mouchoir
 moufflons
 mouflon
 mouflons
+mouille
 moujik
 moulage
 moulages
@@ -39062,6 +39081,7 @@ outbrazened
 outbrazening
 outbreaks
 outbred
+outbreed
 outbreedings
 outbribe
 outbribes
@@ -40959,6 +40979,7 @@ passionals
 passionless
 passivations
 passively
+passivenesses
 passivity
 passkey
 passkeys
@@ -41102,6 +41123,7 @@ patters
 patting
 pattypans
 paucities
+paucity
 paulownias
 paunched
 paunches
@@ -42570,6 +42592,7 @@ pinnae
 pinnated
 pinnation
 pinning
+pinnulae
 pinny
 pinocle
 pinocytoses
@@ -43348,6 +43371,7 @@ polyphonies
 polyphonous
 polyphyletic
 polypide
+polyploidies
 polyploidy
 polypores
 polypous
@@ -46192,6 +46216,7 @@ radiolyses
 radiolytic
 radiomen
 radiometer
+radiomimetic
 radionuclides
 radiopaque
 radiophone
@@ -46327,6 +46352,7 @@ ramshorn
 ramsons
 ramtil
 ramtilla
+ramtils
 ramulose
 ran
 rance
@@ -53645,6 +53671,7 @@ solecise
 solecised
 solecises
 solecistic
+solecists
 solecizing
 solei
 solely
@@ -57262,6 +57289,7 @@ tafferel
 tafferels
 taffrails
 tafia
+tagboard
 tagboards
 taggant
 tagged
@@ -59651,6 +59679,7 @@ trichocyst
 trichocysts
 trichogyne
 trichogynes
+trichoid
 trichologies
 trichologists
 trichome
@@ -59806,6 +59835,7 @@ tripper
 trippets
 tripping
 trips
+triptan
 triptanes
 triptychs
 triremes
@@ -61404,6 +61434,7 @@ uninhibitedly
 uninitiate
 uninjured
 uninspected
+uninstall
 uninstalling
 uninstructed
 uninsulated
@@ -62104,6 +62135,7 @@ upgazed
 upgird
 upgradabilities
 upgradable
+upgrade
 upgradeable
 upgrades
 upgrows
@@ -62288,6 +62320,7 @@ urn
 urnlike
 urns
 urodeles
+urogenous
 urolith
 uroliths
 urological
@@ -63907,6 +63940,7 @@ welcoming
 weld
 welding
 weldor
+weldors
 welfarism
 welkin
 well
@@ -64252,6 +64286,7 @@ wildfowlings
 wildfowls
 wilding
 wildings
+wildish
 wildlife
 wildness
 wildwoods
