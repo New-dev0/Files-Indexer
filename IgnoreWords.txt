@@ -1491,6 +1491,7 @@ amateurishness
 amateurism
 amateurisms
 amatively
+amativenesses
 amaurosis
 amaurotic
 amaze
@@ -2799,6 +2800,7 @@ arbovirus
 arbuscles
 arbute
 arbutean
+arbutes
 arbutus
 arbutuses
 arc
@@ -4307,6 +4309,7 @@ barites
 baritone
 barium
 barkeep
+barkentine
 barkers
 barkiest
 barkless
@@ -7558,6 +7561,7 @@ caddy
 caddying
 cade
 cadences
+cadencies
 cadencing
 cadency
 cadenzas
@@ -9436,6 +9440,7 @@ chloralose
 chloralosed
 chloraloses
 chlorate
+chlorates
 chlordane
 chlordanes
 chlorids
@@ -10637,6 +10642,7 @@ cointreau
 cointreaus
 coinvent
 coinventor
+coinventors
 coinvestigator
 coir
 coirs
@@ -11766,6 +11772,7 @@ conventuals
 converged
 convergences
 convergencies
+converges
 conversances
 conversancies
 conversancy
@@ -14685,6 +14692,7 @@ denationalize
 denationalized
 denationalizes
 denationalizing
+denaturalize
 denaturalizing
 denaturations
 denature
@@ -15857,6 +15865,7 @@ disbursements
 disbursing
 discalced
 discardable
+discarded
 discarder
 discarders
 discased
@@ -16000,6 +16009,7 @@ disendowing
 disenfranchise
 disenfranchised
 disengagement
+disengagements
 disengages
 disentailed
 disentails
@@ -20209,6 +20219,7 @@ factotum
 factotums
 facts
 factual
+factualism
 factualisms
 factualist
 factualnesses
@@ -26164,6 +26175,7 @@ highjacks
 highlander
 highlands
 highlighting
+highroad
 hightailing
 highths
 highting
@@ -27467,6 +27479,7 @@ iffiness
 iffinesses
 iffy
 ifs
+igloos
 igneous
 ignescents
 ignified
@@ -29412,6 +29425,7 @@ intromitted
 introrse
 introspect
 introspections
+introspectively
 introverts
 intruders
 intrudes
@@ -29538,6 +29552,7 @@ involucels
 involucra
 involucral
 involucres
+involuntariness
 involute
 involuting
 involutional
@@ -31499,6 +31514,7 @@ latke
 latkes
 latosol
 latria
+latrines
 latte
 lattens
 latter
@@ -31715,6 +31731,7 @@ left
 lefter
 lefties
 leftisms
+leftist
 leftmosts
 leftover
 leg
@@ -31826,6 +31843,7 @@ lense
 lenses
 lensless
 lent
+lentando
 lenten
 lenticular
 lentil
@@ -35372,6 +35390,7 @@ misreckons
 misrecord
 misrecorded
 misrecords
+misrefer
 misreferences
 misreferring
 misrefers
@@ -39248,6 +39267,7 @@ osteomyelitises
 osteopathic
 osteoplasty
 osteosarcomas
+osteosarcomata
 osteoses
 osteotomies
 ostomate
@@ -40150,6 +40170,7 @@ overmantels
 overmaster
 overmastered
 overmasters
+overmatching
 overmelt
 overmighty
 overmilk
@@ -43414,6 +43435,7 @@ pocketers
 pocketful
 pocketing
 pocketknife
+pockily
 pockmarks
 pocky
 pocosin
@@ -43616,6 +43638,7 @@ polydipsia
 polydipsias
 polydispersity
 polyembryonies
+polyembryony
 polyene
 polyenic
 polygamies
@@ -45923,6 +45946,7 @@ purpleheart
 purplehearts
 purplish
 purportedly
+purpose
 purposed
 purposeless
 purposelessly
@@ -46747,6 +46771,7 @@ rareripes
 rares
 rasbora
 rasboras
+rascals
 rasers
 rasher
 rashest
@@ -47946,6 +47971,7 @@ rehearings
 rehears
 rehearsals
 rehearse
+rehearsed
 rehearsers
 rehearses
 reheater
@@ -49088,6 +49114,7 @@ retinopathy
 retinted
 retinting
 retinue
+retinued
 retirant
 retire
 retiredness
@@ -51991,6 +52018,7 @@ seringa
 serins
 seriousness
 seriousnesses
+serjeant
 serjeanties
 sermonizer
 sermonizers
@@ -53255,6 +53283,7 @@ skyline
 skyman
 skymen
 skyrocket
+skyrocketed
 skysail
 skyscrapers
 skysurf
@@ -55032,6 +55061,7 @@ squeakers
 squeakier
 squealers
 squealing
+squeamish
 squeamishly
 squeamishness
 squeegeed
@@ -58278,6 +58308,7 @@ tenably
 tenaces
 tenacious
 tenaciously
+tenacities
 tenaculum
 tenaculums
 tenailles
@@ -59751,6 +59782,7 @@ tramways
 tranced
 trances
 tranche
+tranches
 tranny
 tranqs
 tranquiler
@@ -62234,6 +62266,7 @@ unsafeties
 unsafety
 unsaintly
 unsalable
+unsalted
 unsalvageable
 unsanctioned
 unsatisfied
@@ -62378,6 +62411,7 @@ unsusceptible
 unsuspecting
 unsustainable
 unswathing
+unswayed
 unswear
 unswears
 unswerving
@@ -64952,6 +64986,7 @@ wizards
 wizened
 wizes
 wizzen
+woadwaxes
 woald
 woalds
 wobbled

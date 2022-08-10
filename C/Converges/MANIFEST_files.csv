@@ -1,0 +1,7 @@
+ubuntukylin-16.04.7-desktop-amd64.manifest - Ubuntu CDimage,http://cdimage.ubuntu.com/ubuntukylin/releases/16.04/release/ubuntukylin-16.04.7-desktop-amd64.manifest
+ubuntu-16.04.6-desktop-i386.manifest - Ubuntu Releases,https://releases.ubuntu.com/16.04.7/ubuntu-16.04.6-desktop-i386.manifest
+Packages.manifest - OpenWrt Downloads,https://downloads.openwrt.org/snapshots/targets/ramips/mt7621/packages/Packages.manifest
+Packages.manifest - OpenWrt Downloads,https://downloads.openwrt.org/snapshots/targets/gemini/generic/packages/Packages.manifest
+https://downloads.lede-project.org/snapshots/targe...,https://downloads.lede-project.org/snapshots/targets/ipq806x/generic/packages/Packages.manifest
+https://downloads.lede-project.org/snapshots/targe...,https://downloads.lede-project.org/snapshots/targets/lantiq/xway/packages/Packages.manifest
+https://downloads.asu.aparcar.org/selinux/targtes/...,https://downloads.asu.aparcar.org/selinux/targtes/lantiq/xrx200/packages/Packages.manifest

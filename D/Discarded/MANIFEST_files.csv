@@ -1,0 +1,3 @@
+Packages.manifest - OpenWrt Downloads,https://downloads.openwrt.org/releases/18.06.9/packages/aarch64_cortex-a53/base/Packages.manifest
+AGL/agl-demo-platform-crosssdk-raspberrypi3-20180726064603 ...,https://github.com/chorusmobility/AGL/blob/master/agl-demo-platform-crosssdk-raspberrypi3-20180726064603.rootfs.manifest
+https://usingpro.com/snapshots/packages/mips_24kc/...,https://usingpro.com/snapshots/packages/mips_24kc/base/Packages.manifest
