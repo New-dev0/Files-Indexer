@@ -831,6 +831,7 @@ afforested
 afforests
 affrayers
 affraying
+affricating
 affrighted
 affront
 affronted
@@ -948,6 +949,7 @@ agitatedly
 agitating
 agitation
 agitative
+agitprop
 agleam
 aglee
 aglow
@@ -2148,6 +2150,7 @@ anthropical
 anthropogenic
 anthropoid
 anthropologists
+anthropometries
 anthropomorphs
 anthropophagies
 anthroposophies
@@ -3676,6 +3679,7 @@ autolysed
 autolysins
 autolyzate
 autolyzes
+autolyzing
 automaker
 automan
 automat
@@ -5253,6 +5257,7 @@ bibless
 biblically
 biblicism
 biblike
+bibliographic
 bibliographies
 bibliolaters
 bibliologies
@@ -5510,6 +5515,7 @@ biostromes
 biosyntheses
 biosynthesis
 biosystematics
+biosystematist
 biosystematists
 biotas
 biotechnologies
@@ -6427,6 +6433,7 @@ bouffe
 bough
 boughless
 boughpot
+boughs
 bougie
 bouillabaisse
 bouldered
@@ -9242,6 +9249,7 @@ cherishable
 cherished
 cherishes
 chernozemic
+chernozems
 cherry
 cherts
 cherub
@@ -11509,6 +11517,7 @@ consciousnesses
 conscripted
 conscriptions
 consecrates
+consecration
 consecrators
 consecratory
 consecutive
@@ -13268,6 +13277,7 @@ cunningnesses
 cunnings
 cunts
 cupboard
+cupboards
 cupeled
 cupeling
 cupellation
@@ -14642,6 +14652,7 @@ demiworlds
 demob
 demobilize
 democracies
+democratization
 democratize
 democratized
 democratizers
@@ -15058,6 +15069,7 @@ desorb
 desorbed
 despatch
 desperate
+desperately
 desperateness
 desperatenesses
 despicable
@@ -15580,6 +15592,7 @@ dihedron
 dihedrons
 dikdiks
 diker
+dilatably
 dilatancy
 dilatants
 dilatational
@@ -18454,6 +18467,7 @@ endosmoses
 endosperms
 endostea
 endosteum
+endostyle
 endostyles
 endosymbioses
 endothelia
@@ -19453,6 +19467,7 @@ euphemistically
 euphemized
 euphemizing
 euphenic
+euphenics
 euphonies
 euphoniousness
 euphoniums
@@ -22387,6 +22402,7 @@ frenzies
 frenzying
 frequentation
 frequentative
+frequentest
 frequently
 freres
 frescoed
@@ -23148,6 +23164,7 @@ gastroscopist
 gastroscopy
 gastrotrichs
 gastrovascular
+gastrula
 gastrulation
 gasts
 gasworks
@@ -31164,6 +31181,7 @@ laced
 laceless
 lacelike
 lacer
+lacerate
 lacerated
 laceration
 lacerations
@@ -34249,6 +34267,7 @@ menazons
 mend
 mendaciousness
 mendelevium
+mendicancies
 mendicants
 mendicity
 mending
@@ -37885,6 +37904,7 @@ nonmotility
 nonmunicipal
 nonmusics
 nonmyelinated
+nonnasal
 nonnationals
 nonnatives
 nonnatural
@@ -39469,6 +39489,7 @@ outdueling
 outearned
 outeat
 outecho
+outed
 outermost
 outerwear
 outfables
@@ -40843,6 +40864,7 @@ pancratiums
 pancreases
 pancreatins
 pancreozymin
+pancreozymins
 pandanus
 pandemic
 pandemonium
@@ -43471,6 +43493,7 @@ podestas
 podgiest
 podiatrist
 podiatry
+podites
 podium
 podocarp
 podomere
@@ -49563,6 +49586,7 @@ ridgel
 ridgeling
 ridgels
 ridgetops
+ridging
 ridglings
 ridicule
 ridiculed
@@ -50050,6 +50074,7 @@ routinely
 routing
 routinisms
 routinists
+routinized
 routinizes
 routinizing
 roven
@@ -50536,6 +50561,7 @@ salts
 saltshakers
 saltwater
 saltwort
+salubrity
 salukis
 salutarinesses
 salutary
@@ -50675,6 +50701,7 @@ sansculottism
 santalols
 santera
 santeras
+santero
 santimu
 santir
 santolinas
@@ -51340,6 +51367,7 @@ screwdriver
 screwiest
 screwinesses
 screwworm
+screwworms
 scribbler
 scribbles
 scribe
@@ -51472,6 +51500,7 @@ seaboot
 seaboots
 seacocks
 seacrafts
+seafaring
 seafloors
 seafoods
 seafowl
@@ -53944,6 +53973,7 @@ snuffers
 snuffily
 snufflier
 snuffliest
+snuffling
 snuffy
 snuggery
 snugly
@@ -54806,6 +54836,7 @@ splashing
 splat
 splatted
 splattering
+splayed
 splaying
 splays
 spleen
@@ -56392,6 +56423,7 @@ submucosa
 submultiple
 subnasal
 subnational
+subnetworked
 subnetworking
 subnetworks
 subniches
@@ -64299,6 +64331,7 @@ waveshape
 waveshapes
 wavey
 wavicle
+wavicles
 wavies
 wavily
 waviness
@@ -64793,6 +64826,7 @@ wigmakers
 wigs
 wigwagger
 wigwam
+wikiup
 wildcats
 wildcatter
 wilded
@@ -65670,6 +65704,7 @@ zemstvos
 zenaida
 zenanas
 zenith
+zeniths
 zep
 zeppelins
 zeppole
