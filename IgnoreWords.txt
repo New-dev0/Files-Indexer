@@ -683,6 +683,7 @@ advertent
 advertisement
 advertize
 advertizes
+advisability
 advisableness
 advisements
 adviser
@@ -3447,6 +3448,7 @@ attempering
 attempers
 attemptable
 attendance
+attendant
 attended
 attendee
 attending
@@ -4357,6 +4359,7 @@ basaltes
 bascule
 baseboards
 baseless
+baseliner
 baseliners
 baselines
 basely
@@ -4784,6 +4787,7 @@ begets
 beggaries
 beggarly
 begin
+beginning
 begirded
 begirt
 beglad
@@ -6499,6 +6503,7 @@ brachiopods
 brachs
 brachycephalic
 bracingly
+braciole
 bracioles
 bracken
 bracket
@@ -8653,6 +8658,7 @@ censured
 censused
 cental
 centares
+centaureas
 centaurs
 centaury
 centavos
@@ -9045,6 +9051,7 @@ chatter
 chattered
 chatterer
 chatterers
+chattering
 chatters
 chattery
 chattier
@@ -11029,6 +11036,7 @@ composednesses
 composing
 compositors
 compost
+composters
 composures
 compounded
 comprador
@@ -14284,6 +14292,7 @@ deflecting
 deflective
 deflector
 defloration
+deflowered
 deflowering
 deflowers
 defoamed
@@ -14833,6 +14842,7 @@ derepressions
 derided
 deriders
 deriding
+deringers
 derisible
 derisively
 derisiveness
@@ -15174,6 +15184,7 @@ dextrorse
 dextrose
 dextroses
 dexy
+deys
 dezinc
 dhak
 dhal
@@ -18064,6 +18075,7 @@ eme
 emeer
 emeerate
 emend
+emendate
 emendates
 emendators
 emender
@@ -21530,6 +21542,7 @@ flutterboard
 flutterboards
 flutterer
 flutterers
+fluttering
 fluviatile
 fluxes
 fluxional
@@ -23064,6 +23077,7 @@ gazetteer
 gazettes
 gazillion
 gazillions
+gazogenes
 gazpacho
 gazpachos
 gear
@@ -26483,6 +26497,7 @@ hootenanny
 hooting
 hooved
 hoover
+hoovered
 hoovers
 hop
 hope
@@ -29250,6 +29265,7 @@ introductorily
 introgressants
 introit
 introject
+introjecting
 intromission
 intromit
 intromitted
@@ -29655,6 +29671,7 @@ isotopically
 isotropies
 isotropy
 isotypic
+isozymes
 isozymic
 issei
 issuable
@@ -29994,6 +30011,7 @@ jinker
 jinkers
 jinnee
 jinni
+jinrickshas
 jinrikisha
 jinx
 jinxes
@@ -34898,6 +34916,7 @@ misattributes
 misattributions
 misaward
 misawarding
+misbalances
 misbecomes
 misbecoming
 misbegin
@@ -41123,6 +41142,7 @@ path
 pathetically
 pathfinders
 pathless
+pathlessnesses
 pathobiologies
 pathognomonic
 pathologies
@@ -41336,6 +41356,7 @@ pedately
 peddle
 peddler
 peddlers
+peddles
 peddling
 pedestal
 pedestaling
@@ -43600,6 +43621,7 @@ porphyry
 porpoise
 porrect
 porringer
+porringers
 port
 portabellas
 portably
@@ -47216,6 +47238,7 @@ redesigned
 redetermination
 redetermine
 redetermining
+redeveloped
 redevelopment
 redevelopments
 redeyes
@@ -47733,6 +47756,7 @@ reimmerse
 reimmersed
 reimmerses
 reimmersing
+reimplanting
 reimport
 reimportation
 reimported
@@ -50160,6 +50184,7 @@ salina
 salinizations
 salinizing
 saliva
+salivary
 salivates
 salivation
 salivator
@@ -51541,6 +51566,7 @@ sendoffs
 sendups
 sene
 seneca
+senecas
 senecio
 senecios
 senescent
@@ -51913,6 +51939,7 @@ shall
 shalloons
 shallot
 shallower
+shallowest
 shallows
 shaloms
 shamable
@@ -52118,6 +52145,7 @@ shh
 shiatzu
 shibah
 shibboleths
+shicksas
 shied
 shiel
 shielders
@@ -53415,6 +53443,7 @@ snaffles
 snafued
 snafuing
 snag
+snags
 snail
 snailed
 snake
@@ -56628,6 +56657,7 @@ supernatant
 supernates
 supernature
 supernormality
+supernovae
 superordinate
 superorganic
 superorganism
@@ -57999,6 +58029,7 @@ tenderly
 tenderometer
 tenderometers
 tenders
+tendon
 tendresse
 tendrilled
 tendrilous
@@ -58605,6 +58636,7 @@ thumbhole
 thumbholes
 thumbing
 thumbnut
+thumbnuts
 thumbtacking
 thumbwheel
 thump
@@ -59681,6 +59713,7 @@ trellises
 trelliswork
 tremble
 trembled
+trembling
 tremendous
 tremolites
 tremor
@@ -61585,6 +61618,7 @@ unitizing
 unitrust
 univalved
 universalism
+universalities
 universalize
 universalizing
 universally
@@ -65254,6 +65288,7 @@ zenith
 zep
 zeppelins
 zeppole
+zeppoli
 zeptosecond
 zerk
 zeroes
