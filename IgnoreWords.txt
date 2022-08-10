@@ -2742,6 +2742,7 @@ aquaculture
 aquacultures
 aquaculturist
 aquaculturists
+aquanauts
 aquaplaning
 aquarelle
 aquarelles
@@ -4616,6 +4617,7 @@ bearishness
 bearskins
 beast
 beasties
+beastliest
 beasts
 beatable
 beaten
@@ -4844,6 +4846,7 @@ beglad
 begladded
 beglamor
 beglamoured
+beglamouring
 begloomed
 begoggled
 begonias
@@ -6065,6 +6068,7 @@ boatbuilding
 boated
 boater
 boathouses
+boatings
 boatnecks
 boatsmen
 boatyard
@@ -6340,6 +6344,7 @@ bootleg
 bootlegged
 bootlegger
 bootless
+bootlessnesses
 bootlick
 bootlicked
 bootlickers
@@ -8989,6 +8994,7 @@ changeabilities
 changeability
 changed
 changeful
+changefully
 changeless
 changelings
 changeovers
@@ -10516,6 +10522,7 @@ coedits
 coeds
 coeducation
 coeducationally
+coeducations
 coeffect
 coelacanth
 coelenterates
@@ -15241,6 +15248,7 @@ devest
 devesting
 deviant
 deviants
+deviated
 deviating
 deviationisms
 deviators
@@ -19587,6 +19595,7 @@ evictees
 eviction
 evictor
 evicts
+evidence
 evidenced
 evident
 evildoer
@@ -19624,6 +19633,7 @@ exactable
 exacter
 exacters
 exactest
+exactingness
 exactions
 exactness
 exaggerate
@@ -21378,6 +21388,7 @@ flatmate
 flatnesses
 flatted
 flatten
+flattened
 flattens
 flatter
 flatterers
@@ -27435,6 +27446,7 @@ icekhanas
 icemaker
 ichneumon
 ichor
+ichorous
 ichthyofauna
 ichthyofaunal
 ichthyofaunas
@@ -27685,6 +27697,7 @@ imitating
 imitation
 imitativenesses
 imitator
+imitators
 immaculacies
 immaculate
 immaculately
@@ -30535,6 +30548,7 @@ kalimbas
 kaliphs
 kalium
 kaliums
+kallikrein
 kalmia
 kalong
 kalpa
@@ -37028,6 +37042,7 @@ naysaying
 naysays
 nazification
 nazified
+nazis
 ne
 neap
 near
@@ -37817,6 +37832,7 @@ nonexistences
 nonexistent
 nonexistential
 nonexpendable
+nonexperimental
 nonexploitive
 nonfactors
 nonfactual
@@ -39034,6 +39050,7 @@ opponencies
 opponency
 opportunely
 opportunenesses
+opportunist
 opportunistic
 opportunists
 opportunity
@@ -41449,6 +41466,7 @@ paternal
 paternalistic
 paternoster
 path
+pathbreaking
 pathetically
 pathfinders
 pathless
@@ -42260,6 +42278,7 @@ pestilentially
 pestilently
 pestle
 pestled
+pestles
 pests
 pesty
 petabytes
@@ -42401,6 +42420,7 @@ phenolated
 phenolics
 phenolphthalein
 phenomenally
+phenomenologies
 phenomenologist
 phenotypical
 phenotypically
@@ -48221,6 +48241,7 @@ rejustifying
 rejuvenate
 rejuvenated
 rejuvenates
+rejuvenator
 rejuvenescent
 rekeyboarded
 rekeyboarding
@@ -48812,6 +48833,7 @@ resaddling
 resailed
 resails
 resaluted
+resamples
 resaw
 resaws
 rescale
@@ -50431,6 +50453,7 @@ sacrilege
 sacrileges
 sacrilegious
 sacrings
+sacristans
 sacrosanctities
 sacrosanctity
 sacrums
@@ -51784,6 +51807,7 @@ seismic
 seismism
 seismogram
 seismographic
+seismographs
 seismological
 seismologist
 seismologists
@@ -52139,6 +52163,7 @@ serjeanties
 sermonizer
 sermonizers
 sermonizes
+sermons
 serodiagnosis
 serologies
 serologists
@@ -55477,6 +55502,7 @@ staved
 stavesacre
 stavudines
 stay
+staying
 staysails
 stead
 steadfast
@@ -55643,6 +55669,7 @@ sternest
 sternite
 sternnesses
 sternocostal
+sternum
 sternutators
 sternward
 sternway
@@ -56073,6 +56100,7 @@ strikers
 strikes
 striking
 stringcourses
+stringed
 stringencies
 stringhalts
 stringier
@@ -60018,6 +60046,7 @@ transmutative
 transnational
 transonic
 transparence
+transparency
 transparent
 transparentized
 transparentizes
@@ -61244,6 +61273,7 @@ unafraid
 unageing
 unagile
 unais
+unakite
 unakites
 unalarmed
 unalerted
@@ -61659,6 +61689,7 @@ undergrounds
 underhand
 underhandedly
 underheat
+underheated
 underheating
 underinflated
 underinflations
@@ -63619,6 +63650,7 @@ vigilante
 vigilantes
 vigilantism
 vigilantisms
+vigintillion
 vignerons
 vignetters
 vignettist
@@ -64278,6 +64310,7 @@ warsled
 warstle
 warstles
 warthog
+warthogs
 wartiest
 wartime
 wartless
@@ -64692,6 +64725,7 @@ whilom
 whilst
 whimbrel
 whimbrels
+whimper
 whimpered
 whimpering
 whimpers
@@ -65187,6 +65221,7 @@ woodblocks
 woodborer
 woodchats
 woodchoppers
+woodcock
 woodcutting
 woodener
 woodenheaded
