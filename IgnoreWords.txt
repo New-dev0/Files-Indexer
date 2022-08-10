@@ -1218,6 +1218,7 @@ aliphatic
 aliquant
 aliquot
 aliquots
+alist
 alit
 aliterates
 alive
@@ -4766,6 +4767,7 @@ befleck
 befooled
 beforetime
 befouled
+befret
 befrets
 befriend
 befringe
@@ -7393,6 +7395,7 @@ buys
 buzukis
 buzz
 buzzards
+buzzed
 buzzers
 buzzes
 buzzingly
@@ -9301,6 +9304,7 @@ chints
 chintzier
 chintziest
 chinwagging
+chionodoxa
 chionodoxas
 chipboards
 chipmuck
@@ -9892,6 +9896,7 @@ classiest
 classification
 classifications
 classing
+classis
 classists
 classon
 clast
@@ -11361,6 +11366,7 @@ conjugationally
 conjunction
 conjunctional
 conjunctiva
+conjunctive
 conjuncture
 conjurer
 conjuror
@@ -14112,6 +14118,7 @@ decorations
 decoratively
 decorativeness
 decorators
+decorous
 decorticate
 decortications
 decorticator
@@ -14632,6 +14639,7 @@ denouncements
 denouncer
 dense
 densely
+denseness
 denser
 densified
 densifying
@@ -17105,6 +17113,7 @@ dryish
 dryland
 dryly
 dryopithecine
+drypoints
 drysalters
 drystone
 drywall
@@ -18002,6 +18011,7 @@ embosking
 embosses
 embossing
 embossments
+embow
 embowed
 embowel
 emboweled
@@ -18117,6 +18127,7 @@ employability
 employed
 employees
 employers
+employment
 empoisoning
 empoisons
 empowered
@@ -20716,6 +20727,7 @@ fibrinopeptides
 fibroblastic
 fibroid
 fibromatous
+fibromyalgia
 fibronectins
 fibrous
 fibrously
@@ -22020,6 +22032,7 @@ foundries
 foundry
 fount
 fountain
+fountained
 fountaining
 fourdrinier
 fourfold
@@ -27138,6 +27151,7 @@ hypoplasias
 hypopneas
 hypopyons
 hypospadiases
+hypostatization
 hypostatize
 hypostatized
 hypostome
@@ -28946,6 +28960,7 @@ interiorising
 interiorize
 interiorized
 interiorizes
+interiorly
 interiors
 interject
 interjected
@@ -33412,6 +33427,7 @@ markka
 markswoman
 marled
 marlinespikes
+marling
 marlins
 marlstone
 marmalade
@@ -34353,6 +34369,7 @@ mice
 micell
 micellar
 miches
+mickey
 mickles
 micklest
 micra
@@ -34797,6 +34814,7 @@ miri
 mirier
 mirin
 mirins
+mirk
 mirker
 mirkest
 mirkier
@@ -34923,6 +34941,7 @@ miscolored
 miscompute
 miscomputes
 misconceive
+misconceivers
 misconceiving
 misconduct
 misconducts
@@ -36183,6 +36202,7 @@ mummifications
 mummifies
 mummify
 mumming
+mumms
 mumper
 mumping
 mums
@@ -36450,6 +36470,7 @@ mystery
 mystically
 mysticete
 mysticetes
+mysticly
 mystification
 mystifications
 mystified
@@ -39650,6 +39671,7 @@ overclassifying
 overcleaning
 overclear
 overcloud
+overclouding
 overclouds
 overcold
 overcolored
@@ -40083,6 +40105,7 @@ overthick
 overthin
 overthought
 overthrew
+overtightened
 overtimed
 overtiming
 overtire
@@ -40694,6 +40717,7 @@ paradisal
 paradise
 paradisiac
 parador
+paradores
 paradors
 paradoxes
 paradoxical
@@ -44001,6 +44025,7 @@ prechoosing
 precieux
 precincts
 preciosity
+precipes
 precipice
 precipices
 precipitable
@@ -47641,6 +47666,7 @@ reharden
 rehardened
 rehardens
 rehashed
+reheard
 rehearings
 rehears
 rehearsals
@@ -47702,6 +47728,7 @@ reinfecting
 reinfection
 reinfections
 reinfestation
+reinfestations
 reinflames
 reinflates
 reinflating
@@ -52847,6 +52874,7 @@ skimobiles
 skimos
 skimp
 skimping
+skimpy
 skinflicks
 skinflint
 skink
@@ -53667,6 +53695,7 @@ soiree
 sojourners
 sojourns
 sokol
+solacer
 solacing
 solanders
 solands
@@ -54435,6 +54464,7 @@ splotching
 splotchy
 splurges
 splurgiest
+splurging
 splurgy
 spluttered
 spluttering
@@ -54853,6 +54883,7 @@ standardized
 standardizing
 standardless
 standardly
+standby
 standbys
 standdowns
 standing
@@ -60163,6 +60194,7 @@ tucket
 tucks
 tuckshop
 tuff
+tuffaceous
 tuffet
 tufters
 tuftier
@@ -62996,6 +63028,7 @@ viceroyalties
 viceroyalty
 viceroys
 viceroyships
+vices
 vicinage
 vicinages
 vicinities
@@ -63406,6 +63439,7 @@ voucher
 vouchsafes
 vouchsafing
 voudon
+voudons
 voudoun
 vow
 vowers
@@ -65249,6 +65283,7 @@ zombie
 zombielike
 zombification
 zombifications
+zombifies
 zombiisms
 zona
 zonary
