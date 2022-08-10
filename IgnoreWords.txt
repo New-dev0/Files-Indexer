@@ -300,6 +300,7 @@ acetylating
 acetylative
 acetylcholines
 acetyls
+achalasias
 ache
 achenial
 achiever
@@ -3557,6 +3558,7 @@ augers
 aught
 augite
 augitic
+augment
 augmentative
 augmentor
 augments
@@ -3920,6 +3922,7 @@ back
 backache
 backbench
 backbenchers
+backbenches
 backbone
 backbreakers
 backbreaking
@@ -4686,6 +4689,7 @@ bedell
 bedells
 bedevil
 bedevilled
+bedevilments
 bedewed
 bedewing
 bedews
@@ -4794,6 +4798,7 @@ beforetime
 befouled
 befret
 befrets
+befretted
 befriend
 befriending
 befringe
@@ -8810,6 +8815,7 @@ certificatory
 certifiers
 certify
 ceruleans
+ceruloplasmin
 ceruloplasmins
 ceruminous
 cerusite
@@ -14060,6 +14066,7 @@ deceleron
 decelerons
 decemvirate
 decemvirates
+decemviri
 decencies
 decennary
 decennia
@@ -14723,6 +14730,7 @@ dentally
 dentals
 dentation
 dentations
+denticulated
 denticulations
 dentiform
 dentifrices
@@ -18880,6 +18888,7 @@ epifaunas
 epigenetically
 epigenist
 epigenists
+epigeous
 epiglottal
 epiglottic
 epigonisms
@@ -20736,6 +20745,7 @@ ferryboat
 ferrying
 fertilenesses
 fertilization
+fertilizations
 fertilizer
 fertilizes
 ferula
@@ -22777,6 +22787,7 @@ gadid
 gadolinites
 gadoliniums
 gadroon
+gadrooned
 gadroons
 gadwall
 gadwalls
@@ -24362,6 +24373,7 @@ gravimetry
 gravitas
 gravitate
 gravitation
+gravitationally
 gravitations
 gravitinos
 gravity
@@ -25276,6 +25288,7 @@ hapkido
 haplessly
 haplite
 haploids
+haploidy
 haplontic
 haplopia
 haplopias
@@ -27155,6 +27168,7 @@ hyperesthetic
 hypereutectoid
 hyperexcretion
 hyperextend
+hyperextensions
 hyperfine
 hyperfunction
 hyperfunctional
@@ -27702,6 +27716,7 @@ impanelling
 imparked
 imparking
 imparted
+imparters
 impartialities
 impartiality
 impartially
@@ -29218,6 +29233,7 @@ interposing
 interpretable
 interpretations
 interpreted
+interpretive
 interpretively
 interpupillary
 interreges
@@ -29895,6 +29911,7 @@ jaguar
 jaguarondi
 jaguarondis
 jail
+jailbird
 jailbirds
 jailhouse
 jailing
@@ -34582,6 +34599,7 @@ microfibrils
 microfiche
 microfiches
 microfilament
+microfilaria
 microfilariae
 microfilmed
 microflorae
@@ -35076,6 +35094,7 @@ misbinding
 misbinds
 misbrand
 misbranded
+misbrands
 misbuilds
 misbuttoned
 miscalculated
@@ -37287,6 +37306,7 @@ niggarding
 niggardliness
 niggardlinesses
 nigglers
+niggling
 nigglings
 nigh
 nighed
@@ -37562,6 +37582,7 @@ noncolors
 noncombative
 noncommercial
 noncommittally
+noncommunity
 noncomparable
 noncompatible
 noncompliance
@@ -41415,6 +41436,7 @@ payback
 paychecks
 paydays
 payer
+payload
 paymasters
 payment
 payoffs
@@ -46485,6 +46507,7 @@ radiolyses
 radiolytic
 radiomen
 radiometer
+radiometry
 radiomimetic
 radionuclides
 radiopaque
@@ -46715,6 +46738,7 @@ raspingly
 rasps
 rassle
 rassles
+rassling
 raster
 rasters
 rat
@@ -51775,6 +51799,7 @@ sennights
 sennits
 senopia
 senor
+senores
 senoritas
 senors
 sensate
@@ -51931,6 +51956,7 @@ sericulturists
 serif
 serifed
 seriffed
+serigraphers
 serigraphies
 serigraphs
 serine
@@ -53802,6 +53828,7 @@ snowlands
 snowless
 snowmaker
 snowmakers
+snowmen
 snowmobile
 snowmold
 snowpacks
@@ -54055,6 +54082,7 @@ solute
 solution
 solutions
 solvate
+solve
 solves
 solvolytic
 somas
@@ -54588,6 +54616,7 @@ spiks
 spiky
 spilings
 spillage
+spillikin
 spilling
 spillover
 spillway
@@ -54991,6 +55020,7 @@ squelchy
 squidded
 squidding
 squiggles
+squiggling
 squillae
 squinching
 squinnied
@@ -55530,6 +55560,7 @@ stinkier
 stinko
 stinky
 stipel
+stipes
 stipple
 stippled
 stipplings
@@ -56343,6 +56374,7 @@ subsegments
 subsense
 subsenses
 subsequences
+subsequents
 subsere
 subserved
 subserviency
@@ -56537,6 +56569,7 @@ sufferer
 sufferers
 suffers
 sufficiencies
+suffixes
 suffixions
 sufflates
 suffocated
@@ -60480,6 +60513,7 @@ tuckers
 tucket
 tucks
 tuckshop
+tufaceous
 tuff
 tuffaceous
 tuffet
@@ -63308,6 +63342,7 @@ viatica
 viator
 viators
 vibracula
+vibraharp
 vibraharpist
 vibrant
 vibraphone
