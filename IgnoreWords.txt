@@ -1955,6 +1955,7 @@ anilinguses
 animacy
 animadverted
 animadverts
+animal
 animalcules
 animalian
 animalic
@@ -2733,6 +2734,7 @@ aquariums
 aquatics
 aquatint
 aquatinter
+aquatints
 aquiculture
 aquifer
 aquiferous
@@ -4565,6 +4567,7 @@ bearers
 beargrass
 beargrasses
 bearhug
+bearhugs
 bearings
 bearish
 bearishly
@@ -5571,6 +5574,7 @@ bishoprics
 bisks
 bisnaga
 bisons
+bisques
 bister
 bistered
 bisters
@@ -5749,6 +5753,7 @@ blathering
 blathers
 blatherskite
 blats
+blaubok
 blaw
 blawing
 blawn
@@ -13483,6 +13488,7 @@ cyclosporines
 cyclostyled
 cyclostyling
 cyclotron
+cyder
 cyeses
 cygnet
 cygnets
@@ -15193,6 +15199,7 @@ dexterous
 dexterousness
 dextral
 dextran
+dextrins
 dextro
 dextrorotary
 dextrorse
@@ -16580,6 +16587,7 @@ domine
 domineer
 domineered
 domineering
+domineeringness
 dominicker
 dominie
 dominies
@@ -19530,6 +19538,7 @@ exasperatedly
 excavate
 excavator
 exceeder
+exceeding
 exceeds
 excel
 excelled
@@ -20164,6 +20173,7 @@ fagging
 faggoting
 faggotry
 faggots
+faggy
 fagin
 fagoted
 fagoting
@@ -20260,6 +20270,7 @@ fan
 fanatical
 fanaticalnesses
 fanaticized
+fanaticizing
 fanatics
 fancied
 fanciers
@@ -23122,6 +23133,7 @@ geds
 geed
 geegaw
 geekdom
+geekiest
 geekinesses
 geeky
 gees
@@ -23395,6 +23407,7 @@ ghettoes
 ghettoize
 ghettoizes
 ghettoizing
+ghettos
 ghibli
 ghiblis
 ghosted
@@ -25171,6 +25184,7 @@ handyperson
 hang
 hangable
 hangar
+hangbird
 hangings
 hangman
 hangnail
@@ -27643,6 +27657,7 @@ impassion
 impassioned
 impassively
 impassiveness
+impassivities
 impassivity
 impasted
 impastoed
@@ -27713,6 +27728,7 @@ impetrates
 impetrating
 impetuosity
 impetuous
+impetuousness
 impetus
 imphees
 imping
@@ -28543,6 +28559,7 @@ inguinal
 ingulf
 ingulfing
 ingurgitate
+ingurgitating
 inhabit
 inhabitable
 inhabitancies
@@ -32026,6 +32043,7 @@ limbuses
 limeades
 limekiln
 limelight
+limen
 limens
 limericks
 limes
@@ -32773,6 +32791,7 @@ lungs
 lungworm
 lungworms
 lungyis
+lunier
 lunies
 lunkers
 lunkheaded
@@ -32782,6 +32801,7 @@ lunting
 lunula
 lunulated
 lunule
+lupanar
 lupulins
 lurches
 lurching
@@ -33137,6 +33157,7 @@ malaprop
 malapropism
 malariologist
 malariologists
+malarious
 malarkey
 malarkeys
 malarky
@@ -33736,6 +33757,7 @@ mausoleum
 mauves
 mavie
 mavis
+mavises
 mawkishly
 mawn
 maxi
@@ -35963,6 +35985,7 @@ motive
 motivelessly
 motleyest
 motmots
+motocross
 motoneuron
 motorbike
 motorbiked
@@ -36819,6 +36842,7 @@ neckband
 neckbands
 neckcloth
 necker
+necklaced
 necklaces
 necklike
 necklines
@@ -40192,6 +40216,7 @@ overthick
 overthin
 overthought
 overthrew
+overthrowing
 overtightened
 overtimed
 overtiming
@@ -41505,6 +41530,7 @@ peltation
 pelted
 peltered
 peltless
+pelycosaur
 pelycosaurs
 pemmican
 pemoline
@@ -41902,6 +41928,7 @@ perseverative
 persimmon
 persistence
 persistencies
+persistency
 persistent
 persnicketiness
 person
@@ -44436,6 +44463,7 @@ prepensely
 preperformance
 prepill
 preplaces
+preplacing
 preponderancy
 preponderantly
 preponderations
@@ -49541,6 +49569,7 @@ robotism
 robotization
 robotry
 robustas
+robuster
 robustest
 robustiously
 robustiousness
@@ -49871,6 +49900,7 @@ rubier
 rubies
 rubiest
 rubles
+rubout
 rubouts
 rubrical
 rubrications
@@ -49901,6 +49931,7 @@ rudery
 rudesbies
 rudest
 rudiment
+rudimentarily
 rudimentariness
 rudiments
 ruefully
@@ -50266,6 +50297,7 @@ salmonellosis
 salmonoid
 salol
 salols
+salometer
 salon
 salons
 saloon
@@ -52929,6 +52961,7 @@ skeletonizer
 skeletons
 skells
 skellums
+skelm
 skelter
 skeltered
 skenes
@@ -55795,6 +55828,7 @@ stubblier
 stubborn
 stubborner
 stubbornness
+stubbornnesses
 stucco
 stuccoer
 stuccoers
@@ -59822,6 +59856,7 @@ trevallys
 trevet
 triac
 triacetates
+triadically
 triadism
 triages
 triaging
