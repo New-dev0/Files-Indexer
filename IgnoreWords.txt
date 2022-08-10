@@ -5618,6 +5618,7 @@ biunique
 biuniqueness
 bivalent
 bivalve
+bivalved
 bivinyl
 bivouac
 bivouacs
@@ -8750,6 +8751,7 @@ cere
 cereal
 cerebella
 cerebellum
+cerebellums
 cerebrate
 cerebration
 cerebroside
@@ -9135,6 +9137,7 @@ cheerleading
 cheerless
 cheerlessness
 cheese
+cheeseburgers
 cheesecloth
 cheesecloths
 cheeseparing
@@ -9863,6 +9866,7 @@ clampdown
 clamped
 clamper
 clamping
+clams
 clamworms
 clandestinity
 clanged
@@ -14684,6 +14688,7 @@ dentin
 dentinal
 dentine
 dentins
+dents
 dentural
 denture
 denturists
@@ -16086,6 +16091,7 @@ disorient
 disorientate
 disorients
 disown
+disownment
 disownments
 disparagements
 disparaging
@@ -16204,6 +16210,7 @@ disseizes
 disseizins
 disseminator
 disseminators
+dissension
 dissented
 dissentient
 dissents
@@ -16510,6 +16517,7 @@ dogmatize
 dogmatizers
 dognap
 dognapped
+dognappers
 dogrobbers
 dogsledder
 dogsleds
@@ -17815,6 +17823,7 @@ elders
 elderships
 eldest
 elecampane
+elect
 elected
 electing
 electioneer
@@ -18501,6 +18510,7 @@ enmity
 ennead
 enneadic
 enneads
+ennoble
 ennobler
 ennuye
 enokitake
@@ -20224,6 +20234,7 @@ falsie
 falsies
 falsifiability
 falsification
+falsifier
 falsifiers
 falsities
 faltered
@@ -21887,6 +21898,7 @@ foresights
 foreskin
 forespoke
 forestage
+forestages
 forestaller
 forestallments
 forestaysail
@@ -21987,6 +21999,7 @@ formulation
 formulator
 formulators
 formulism
+formulisms
 formworks
 formyl
 formyls
@@ -22537,6 +22550,7 @@ functionalisms
 functionalistic
 functionalities
 functionally
+functionaries
 functionless
 functor
 fundament
@@ -22623,6 +22637,7 @@ furtive
 furtively
 furuncle
 furuncles
+fury
 furze
 fusains
 fusaria
@@ -27539,6 +27554,7 @@ immobilities
 immobility
 immobilizations
 immobilize
+immobilizer
 immoderation
 immodest
 immodesties
@@ -31152,6 +31168,7 @@ lamp
 lampblack
 lampblacks
 lamperses
+lampion
 lamplight
 lampooners
 lampoonery
@@ -31171,6 +31188,7 @@ landaulet
 landaulets
 lander
 landfill
+landgrave
 landgraves
 landholder
 landings
@@ -33202,6 +33220,7 @@ mammalogists
 mammals
 mammary
 mammati
+mammatus
 mammer
 mammers
 mammet
@@ -35648,6 +35667,7 @@ monomeric
 monometallic
 monometallist
 monometer
+monometers
 monomials
 monomorphemic
 monomorphisms
@@ -37854,6 +37874,7 @@ nonvalidity
 nonvector
 nonvegetarian
 nonvenomous
+nonvested
 nonveterans
 nonviewer
 nonviewers
@@ -38244,6 +38265,7 @@ obliviously
 oblong
 obnubilate
 obnubilates
+obnubilating
 oboe
 obol
 obole
@@ -39046,6 +39068,7 @@ osmometric
 osmometry
 osmoregulation
 osmose
+osmosing
 osmosis
 osmotically
 osmunda
@@ -39547,6 +39570,7 @@ outstart
 outstated
 outstates
 outstay
+outstaying
 outsteer
 outsteered
 outsteers
@@ -43327,6 +43351,7 @@ polarons
 polder
 polders
 polecats
+poleless
 polemicizing
 polemics
 polemize
@@ -43817,6 +43842,7 @@ postriot
 poststimulus
 postsynaptic
 postsyncing
+postteen
 posttensioned
 posttensions
 posttransfusion
@@ -45365,6 +45391,7 @@ pruta
 prutot
 prutoth
 prythee
+psalmed
 psalming
 psalmist
 psalmists
@@ -49113,6 +49140,7 @@ revotes
 revoting
 revs
 revues
+revulsed
 revulsive
 revving
 rewaken
@@ -49146,6 +49174,7 @@ rewired
 rewires
 rewiring
 rewoke
+rewon
 reworded
 rework
 reworked
@@ -51704,6 +51733,7 @@ septuplets
 sepulchral
 sepulchred
 sepulchres
+sequacities
 sequel
 sequelae
 sequelizes
@@ -52025,6 +52055,7 @@ shareabilities
 sharecrops
 shareholder
 shareholders
+shares
 sharewares
 sharias
 sharif
@@ -55178,6 +55209,7 @@ stellite
 stemlike
 stemmas
 stemmata
+stemmatic
 stemmer
 stemmery
 stemming
@@ -59004,6 +59036,7 @@ toehold
 toeless
 toelike
 toenailing
+toenails
 toeplate
 toes
 tofuttis
@@ -62808,6 +62841,7 @@ vaunters
 vaus
 vavasour
 vavasours
+vavassors
 vavs
 vaw
 vawards
@@ -62868,6 +62902,7 @@ velarization
 velarizing
 velate
 velcros
+veld
 veldts
 veliger
 veligers
