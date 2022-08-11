@@ -1306,6 +1306,7 @@ alleyway
 alleyways
 allheals
 alliable
+alliance
 allicin
 allies
 alligator
@@ -5715,6 +5716,7 @@ blabber
 blabbermouths
 blabbing
 blackamoor
+blackball
 blackberries
 blackbird
 blackbirder
@@ -7364,6 +7366,7 @@ burro
 burrow
 burrowers
 burrows
+burrs
 burry
 bursa
 burse
@@ -9494,6 +9497,7 @@ chitchats
 chitchatting
 chitling
 chitlings
+chiton
 chitons
 chitosan
 chitter
@@ -9504,6 +9508,7 @@ chivalrous
 chivalrously
 chivareeing
 chivari
+chivariing
 chivvy
 chivying
 chlamydes
@@ -11388,6 +11393,7 @@ confectioners
 confederacy
 confederated
 confederates
+confederating
 conferee
 conferencings
 conferment
@@ -12503,6 +12509,7 @@ counterterrors
 countertrade
 countertrades
 countertrend
+countervailed
 countervails
 countian
 countians
@@ -16795,6 +16802,7 @@ dominiques
 dominium
 domino
 dominoes
+dominos
 donas
 donates
 donating
@@ -16852,6 +16860,7 @@ doorpost
 doors
 doorsills
 doorstep
+doorstop
 doorway
 doorways
 doozers
@@ -20189,6 +20198,7 @@ exterminator
 exterminators
 extern
 external
+externalisation
 externalised
 externalities
 externalize
@@ -20653,6 +20663,7 @@ fatefulness
 fatefulnesses
 fatheadedly
 fathered
+fatherhood
 fatherhoods
 fatherland
 fatherlands
@@ -21005,6 +21016,7 @@ fib
 fibber
 fibbing
 fibered
+fiberfill
 fiberglassed
 fiberized
 fiberizes
@@ -21409,6 +21421,7 @@ flaggings
 flagitious
 flagitiously
 flagmen
+flagon
 flagons
 flagpole
 flagrancy
@@ -21897,6 +21910,7 @@ fogged
 foggier
 foggiest
 fogginesses
+foghorn
 foghorns
 fogie
 fogless
@@ -22896,6 +22910,7 @@ furrieries
 furriery
 furrily
 furriner
+furriness
 furrower
 furrowers
 furrows
@@ -23671,6 +23686,7 @@ ghees
 gherao
 ghetto
 ghettoes
+ghettoizations
 ghettoize
 ghettoizes
 ghettoizing
@@ -24093,6 +24109,7 @@ glycans
 glyceraldehydes
 glyceric
 glyceride
+glycerides
 glyceridic
 glycerin
 glycerinate
@@ -24922,6 +24939,7 @@ guanidine
 guanidins
 guanines
 guanos
+guanosines
 guaranies
 guaranty
 guarddog
@@ -25198,6 +25216,7 @@ hackberries
 hacked
 hacker
 hackers
+hackie
 hacking
 hacklier
 hackling
@@ -27459,6 +27478,7 @@ hypertonia
 hypertonias
 hypertonicities
 hypertonicity
+hypertrophies
 hypertrophy
 hypertypical
 hyperurbanism
@@ -28067,6 +28087,7 @@ implicates
 imploded
 implodes
 implored
+implorer
 imploringly
 implosive
 impolicy
@@ -28695,6 +28716,7 @@ inexorableness
 inexpedience
 inexpediently
 inexpensive
+inexpert
 inexpertly
 inexpertnesses
 inexperts
@@ -29389,6 +29411,7 @@ interliner
 interlinked
 interloans
 interlock
+interlocked
 interlocking
 interlocutor
 interlooping
@@ -34927,6 +34950,7 @@ micronize
 micronized
 micronizes
 microns
+micronuclei
 micronucleus
 micronutrients
 microparticles
@@ -36310,6 +36334,7 @@ morphometries
 morphometry
 morphophonemics
 morphs
+morrions
 morris
 morro
 morrows
@@ -38857,6 +38882,7 @@ octadic
 octagonally
 octahedron
 octan
+octanes
 octangle
 octangles
 octanols
@@ -42241,6 +42267,7 @@ pericardial
 pericarps
 perichondria
 pericope
+pericrania
 pericranium
 pericycle
 pericycles
@@ -44359,6 +44386,7 @@ postrace
 postretirement
 postriders
 postriot
+postseason
 poststimulus
 postsynaptic
 postsyncing
@@ -48987,6 +49015,7 @@ republicanized
 republicanizes
 republicanizing
 republicans
+republication
 republished
 republisher
 republishes
@@ -52974,6 +53003,7 @@ shootout
 shoots
 shop
 shopboys
+shophar
 shophars
 shophroth
 shoplift
@@ -55770,6 +55800,7 @@ steadfast
 steadfastly
 steadfastnesses
 steadied
+steadies
 steadiest
 steadings
 steaks
@@ -58074,6 +58105,7 @@ tablemate
 tables
 tablespoon
 tabletop
+tablets
 tabooing
 taboos
 taboulehs
@@ -61016,6 +61048,7 @@ tubulates
 tubulating
 tubule
 tubulins
+tubulose
 tubulures
 tuchun
 tuckered
@@ -62972,6 +63005,7 @@ unvested
 unvexed
 unviable
 unwakened
+unwalled
 unwarier
 unwariest
 unwarinesses
@@ -64274,6 +64308,7 @@ voluntarily
 voluntarinesses
 voluntarism
 voluntarisms
+voluntaristic
 voluntary
 voluntaryism
 voluntaryist
