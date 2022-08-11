@@ -551,6 +551,7 @@ adjective
 adjectively
 adjoin
 adjoins
+adjourned
 adjournment
 adjournments
 adjudge
@@ -2665,6 +2666,7 @@ applauded
 applause
 applecarts
 applejack
+applejacks
 applesauce
 applesauces
 applicabilities
@@ -3911,6 +3913,7 @@ babassu
 babassus
 babbitries
 babbitry
+babbled
 babblement
 babesias
 babesiosis
@@ -5548,6 +5551,7 @@ biotron
 bioturbed
 biparentally
 biparous
+biparted
 bipartisanisms
 biparty
 biped
@@ -14677,6 +14681,7 @@ demential
 demerara
 demeraran
 demerger
+demerited
 demerits
 demesnes
 demeton
@@ -15346,6 +15351,7 @@ dextroses
 dexy
 deys
 dezinc
+dezincs
 dhak
 dhal
 dharnas
@@ -17346,6 +17352,7 @@ duecento
 duel
 duelists
 duelli
+duelling
 duellist
 duels
 duendes
@@ -19013,6 +19020,7 @@ epileptically
 epileptics
 epileptiform
 epilimnion
+epilog
 epilogue
 epilogues
 epiloguing
@@ -21769,6 +21777,7 @@ flybelts
 flyblew
 flyblown
 flyboats
+flyboy
 flyboys
 flybridge
 flybys
@@ -23140,6 +23149,7 @@ garbology
 garbs
 garcons
 gardai
+gardant
 gardened
 gardeners
 gardens
@@ -24402,6 +24412,7 @@ grangerism
 grangerisms
 granita
 granitelike
+granites
 granodiorite
 granola
 granolith
@@ -24561,6 +24572,7 @@ greenfly
 greenheart
 greenhorns
 greenhouses
+greenie
 greenies
 greenishnesses
 greenmailer
@@ -26856,6 +26868,7 @@ hosepipe
 hoses
 hosey
 hoseys
+hosieries
 hosiers
 hospice
 hospices
@@ -29825,6 +29838,7 @@ irreversibly
 irrevocability
 irrevocable
 irrevocably
+irridenta
 irrigable
 irrigably
 irrigated
@@ -31197,6 +31211,7 @@ kukri
 kukris
 kultur
 kummel
+kummels
 kumquat
 kuna
 kundalinis
@@ -33173,6 +33188,7 @@ lysogen
 lysogenicities
 lysogenies
 lysogenise
+lysogenised
 lysogenizations
 lysogenizing
 lysolecithin
@@ -33225,6 +33241,7 @@ mackle
 macled
 macles
 macrames
+macroaggregated
 macrocosms
 macrocyclic
 macrocysts
@@ -33281,6 +33298,7 @@ madwoman
 madwomen
 mae
 maenad
+maenadic
 maenadism
 maestosos
 maestri
@@ -34464,6 +34482,7 @@ meridionally
 meridionals
 meringue
 meringues
+merino
 merises
 meristically
 merited
@@ -35621,6 +35640,7 @@ mistrace
 mistraces
 mistrals
 mistranslate
+mistranslated
 mistranslates
 mistreated
 mistreatments
@@ -36476,6 +36496,7 @@ mulligatawny
 mulling
 mullions
 mullite
+multiagency
 multiaxial
 multibank
 multibillion
@@ -36879,6 +36900,7 @@ mythologized
 mythology
 mythos
 myxedematous
+myxedemic
 myxoedema
 myxoma
 myxomas
@@ -47347,6 +47369,7 @@ recalibrates
 recalibrations
 recall
 recallability
+recallers
 recalls
 recanalization
 recanalized
@@ -49807,6 +49830,7 @@ rigorousness
 rigorousnesses
 rigour
 rigours
+rijstafel
 rijstafels
 rijsttafel
 rikishas
@@ -52215,6 +52239,7 @@ serest
 serf
 serflike
 serge
+sergeancies
 sergeancy
 sergeant
 serger
@@ -53389,6 +53414,7 @@ skep
 skeps
 skeptic
 skeptical
+skepticism
 skepticisms
 skeptics
 skerries
@@ -55985,6 +56011,7 @@ storekeeper
 storekeepers
 storeroom
 storerooms
+stores
 storeship
 storeships
 storey
@@ -56289,6 +56316,7 @@ studlier
 studs
 studworks
 studying
+stuff
 stuffinesses
 stuffing
 stuivers
@@ -58847,6 +58875,7 @@ thallic
 thallophyte
 thallophytes
 thallophytic
+thallous
 thalluses
 thanages
 thanatological
@@ -59176,6 +59205,7 @@ thrumming
 thrummy
 thruputs
 thrushes
+thrust
 thrusted
 thruster
 thrusters
@@ -59825,6 +59855,7 @@ totemisms
 totemist
 totemites
 totems
+totipotent
 totted
 tottered
 tottering
@@ -60352,6 +60383,7 @@ tribalism
 tribalists
 tribals
 tribes
+tribesman
 tribesmen
 triboelectric
 tribologists
@@ -62824,6 +62856,7 @@ unyoking
 unyoung
 unzipped
 unzipping
+unzips
 upbears
 upbeat
 upboiled
@@ -64318,6 +64351,7 @@ wand
 wandered
 wandering
 wanderlust
+wanderoo
 wands
 wane
 wangans
@@ -65625,6 +65659,7 @@ xylol
 xylophage
 xylophones
 xylophonist
+xylose
 xyloses
 xylyls
 xystoi
