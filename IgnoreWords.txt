@@ -8366,6 +8366,7 @@ cartographies
 cartography
 cartoon
 cartoonish
+cartoonist
 cartoonists
 cartoonlike
 cartoons
@@ -8718,6 +8719,7 @@ cellarets
 cellarette
 cellaring
 cellarway
+cellarways
 cellblock
 cellblocks
 cello
@@ -10820,6 +10822,7 @@ colloquiality
 colloquials
 colloquists
 colloquiums
+collotype
 colluding
 colluvium
 colluviums
@@ -11339,6 +11342,7 @@ conductive
 conductivity
 conductorial
 conductors
+conductress
 conduplicate
 condyloid
 condyloma
@@ -12512,6 +12516,7 @@ courts
 couscous
 cousin
 cousinly
+cousinry
 cousinships
 couteaux
 couthest
@@ -16099,6 +16104,7 @@ disencumbered
 disencumbers
 disendowed
 disendowing
+disendowments
 disenfranchise
 disenfranchised
 disengagement
@@ -16173,6 +16179,7 @@ dishrags
 dishwares
 dishwasher
 dishwater
+disillusionment
 disincentive
 disincentives
 disinclination
@@ -16527,6 +16534,7 @@ divans
 divarications
 divebombed
 divebombing
+diverged
 divergence
 diverges
 diversely
@@ -19192,6 +19200,7 @@ ergo
 ergodicities
 ergograph
 ergographs
+ergometric
 ergot
 ergotamine
 ergotized
@@ -20684,6 +20693,7 @@ feasted
 feasters
 featest
 featherbed
+featherbedding
 featherbrain
 featherbrains
 featheredges
@@ -22474,6 +22484,7 @@ freewill
 freewrite
 freewriting
 freezable
+freezer
 freezers
 freezes
 freight
@@ -23918,6 +23929,7 @@ glissaders
 glissandi
 glissandos
 glisten
+glistening
 glistens
 glister
 glistering
@@ -24051,6 +24063,7 @@ glycine
 glycins
 glycogeneses
 glycolic
+glycolipids
 glycols
 glyconics
 glycosidases
@@ -26252,6 +26265,7 @@ hexones
 hexosan
 hexose
 hexoses
+hexyl
 hexylresorcinol
 hey
 heyday
@@ -28278,6 +28292,7 @@ inclipping
 inclips
 inclosing
 inclosure
+includable
 including
 inclusion
 inclusivenesses
@@ -28607,6 +28622,7 @@ ineptness
 ineptnesses
 inequity
 inequivalve
+ineradicability
 ineradicably
 inerrable
 inerrancies
@@ -30240,6 +30256,7 @@ jequirities
 jequirity
 jereed
 jerid
+jerk
 jerker
 jerkier
 jerkies
@@ -31069,6 +31086,7 @@ klicks
 klik
 klongs
 kludgiest
+klutz
 klutziest
 klutzinesses
 klystrons
@@ -35889,6 +35907,7 @@ monarchical
 monarchists
 monarchs
 monarchy
+monarda
 monasticism
 monasticisms
 monatomic
@@ -37306,6 +37325,7 @@ neotypes
 nepenthean
 nepeta
 nepetas
+nephelines
 nephelinic
 nephelometers
 nephelometry
@@ -38266,6 +38286,7 @@ noonday
 noons
 noontide
 noontides
+noontimes
 noradrenaline
 noradrenalins
 nordic
@@ -41220,6 +41241,7 @@ parallactic
 parallaxes
 parallel
 paralleled
+parallelepiped
 paralleling
 parallelisms
 parallels
@@ -41827,6 +41849,7 @@ pedogenic
 pedological
 pedologist
 pedologists
+pedophilias
 peds
 peduncled
 pedunculate
@@ -42577,6 +42600,7 @@ philistine
 philistinism
 philistinisms
 phillumenist
+phillumenists
 philologists
 philomel
 philomelas
@@ -48391,6 +48415,7 @@ relapsers
 relapses
 related
 relatedly
+relating
 relational
 relationships
 relatives
@@ -48790,6 +48815,7 @@ replunging
 reply
 replying
 repolarization
+repolarizing
 repolish
 repoll
 repolls
@@ -49265,6 +49291,7 @@ resultless
 results
 resume
 resumed
+resumers
 resuming
 resummon
 resupinate
@@ -49780,6 +49807,7 @@ rictus
 rictuses
 rid
 riddances
+ridded
 riddled
 riddler
 riddles
@@ -52173,6 +52201,7 @@ sensualizes
 sensually
 sensum
 sententia
+sentential
 sententious
 senti
 sentiences
@@ -56497,6 +56526,7 @@ subcostal
 subcostals
 subcounties
 subcrustal
+subcultural
 subcultured
 subcutis
 subcutises
@@ -58346,6 +58376,7 @@ tawsing
 tax
 taxa
 taxably
+taxations
 taxemic
 taxicab
 taxicabs
@@ -59557,6 +59588,7 @@ titty
 titularies
 titularly
 titulary
+tmeses
 toad
 toadeater
 toadeaters
@@ -63007,6 +63039,7 @@ upshift
 upshifted
 upshifts
 upshooting
+upshoots
 upsilon
 upsized
 upslope
@@ -63095,6 +63128,7 @@ ureters
 urethane
 urethans
 urethrae
+urethroscope
 urge
 urgently
 urger
@@ -66126,6 +66160,7 @@ zymogenes
 zymogenic
 zymogens
 zymograms
+zymologies
 zymosan
 zymosans
 zymosis
