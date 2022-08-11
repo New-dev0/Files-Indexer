@@ -2105,6 +2105,7 @@ anonyms
 anoopsia
 anopheles
 anorak
+anorectics
 anorexia
 anorexies
 anorexy
@@ -4044,6 +4045,7 @@ backsets
 backshore
 backside
 backsides
+backslap
 backslapped
 backslapper
 backslappers
@@ -6106,6 +6108,7 @@ blustery
 bo
 board
 boarder
+boardinghouse
 boardinghouses
 boardlike
 boardman
@@ -7231,6 +7234,7 @@ bulgiest
 bulging
 bulgingly
 bulgur
+bulgurs
 bulimia
 bulimics
 bulkage
@@ -7907,6 +7911,7 @@ camerae
 cames
 camions
 camisa
+camise
 camlet
 cammies
 camomile
@@ -15833,6 +15838,7 @@ dimer
 dimercaprols
 dimerism
 dimers
+dimeter
 dimeters
 dimethoate
 dimethoates
@@ -18530,6 +18536,7 @@ emulous
 emulsification
 emulsifying
 emunctories
+emunctory
 emyds
 enabled
 enables
@@ -21937,6 +21944,7 @@ flunkyism
 fluoresce
 fluorescein
 fluorescence
+fluorescer
 fluoresces
 fluoric
 fluoridation
@@ -23346,6 +23354,7 @@ gantlope
 gantlopes
 gantries
 ganymedes
+gaoled
 gaoler
 gaols
 gape
@@ -25139,6 +25148,7 @@ guglets
 guid
 guidance
 guided
+guidelines
 guideposts
 guiders
 guideway
@@ -25147,6 +25157,7 @@ guild
 guilders
 guildships
 guildsmen
+guile
 guilelessly
 guiles
 guillemet
@@ -25690,6 +25701,7 @@ haploidy
 haplontic
 haplopia
 haplopias
+happen
 happenchances
 happened
 happening
@@ -28045,6 +28057,7 @@ immaterialists
 immaterializes
 immaterializing
 immature
+immediately
 immemorial
 immemorially
 immensity
@@ -31154,6 +31167,7 @@ kheths
 khets
 khi
 khoums
+kiang
 kiangs
 kiaugh
 kibbe
@@ -31272,6 +31286,7 @@ kines
 kinescope
 kinescopes
 kineses
+kinesthetic
 kinetic
 kinetically
 kineticists
@@ -35764,6 +35779,7 @@ misfocusses
 misfocussing
 misforms
 misfortunes
+misframe
 misframed
 misfunction
 misfunctioned
@@ -38324,6 +38340,7 @@ nonhalogenated
 nonheroic
 nonhierarchical
 nonhistone
+nonhistorical
 nonhome
 nonhomogeneous
 nonhomologous
@@ -38805,6 +38822,7 @@ nullifiers
 nullifies
 nulling
 nulliparous
+nullipore
 numb
 numbat
 numbats
@@ -39557,6 +39575,7 @@ optimized
 optimizers
 optimizes
 optimum
+option
 optionalities
 optionals
 optionee
@@ -39696,6 +39715,7 @@ originator
 orinasals
 oriole
 orioles
+orisha
 orismological
 orismology
 orle
@@ -40141,6 +40161,7 @@ outmasters
 outmatch
 outmatches
 outmodes
+outmost
 outmoved
 outmuscle
 outmuscled
@@ -40858,11 +40879,13 @@ overscrupulous
 oversecretions
 oversee
 overseed
+overseeded
 overseeding
 overseeing
 overseen
 overseer
 oversees
+oversell
 overselling
 oversells
 oversensitive
@@ -41700,6 +41723,7 @@ pards
 pareira
 pareiras
 parenchymatous
+parent
 parentage
 parentages
 parentally
@@ -41779,6 +41803,7 @@ parroty
 parrs
 parry
 pars
+parsers
 parses
 parsimonious
 parsley
@@ -41989,6 +42014,7 @@ patinized
 patins
 patissier
 patissiers
+patness
 patnesses
 patootie
 patriarchal
@@ -42573,6 +42599,7 @@ perionychium
 periosteal
 periostitis
 periotic
+peripatetic
 peripatuses
 peripeteia
 peripetia
@@ -44310,6 +44337,7 @@ polynomials
 polyol
 polyolefin
 polyolefins
+polyoma
 polyparies
 polyparium
 polypeptidic
@@ -46609,6 +46637,7 @@ purpurins
 purr
 purring
 purringly
+purrs
 pursed
 purselike
 purser
@@ -46841,6 +46870,7 @@ quadrupeds
 quadruplicities
 quadruplicity
 quadrupling
+quadrupole
 quadrupoles
 quads
 quaere
@@ -47981,6 +48011,7 @@ reconcilable
 reconciled
 reconciliations
 reconciliatory
+reconciling
 recondenses
 recondensing
 recondition
@@ -52453,6 +52484,7 @@ selfnesses
 selfs
 selfsameness
 selfsamenesses
+selfwards
 selkie
 sellable
 selle
@@ -57549,6 +57581,7 @@ summarise
 summarises
 summarist
 summarizable
+summarization
 summarized
 summarizer
 summarizers
@@ -58047,6 +58080,7 @@ swaddled
 swag
 swagers
 swages
+swagger
 swaggeringly
 swaggers
 swaggie
@@ -58888,6 +58922,7 @@ tazze
 tchotchke
 tchotchkes
 tea
+teaberries
 teaberry
 teabowl
 teaboxes
