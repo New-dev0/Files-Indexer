@@ -218,6 +218,7 @@ accorded
 accorder
 accorders
 accordions
+accosts
 accountableness
 accountant
 accountants
@@ -4098,6 +4099,7 @@ bailiffships
 bailors
 bails
 bailsman
+bailsmen
 bairnlier
 bairns
 baited
@@ -4755,6 +4757,7 @@ bedrivel
 bedriveled
 bedriveling
 bedrocks
+bedroll
 bedroom
 bedrugged
 beds
@@ -7166,6 +7169,7 @@ builds
 buildups
 buirdly
 bulbed
+bulbils
 bulbs
 bulbul
 bulbuls
@@ -8772,6 +8776,7 @@ centaureas
 centaurs
 centaury
 centavos
+centenarian
 centenarians
 centenaries
 centerboard
@@ -8795,6 +8800,7 @@ centillion
 centillions
 centimes
 centimeter
+centimo
 centimorgan
 centimorgans
 centner
@@ -9384,6 +9390,7 @@ chill
 chillers
 chillest
 chillies
+chilliness
 chillis
 chillums
 chilopod
@@ -10122,6 +10129,7 @@ clerihews
 clerisy
 clerkdoms
 clerkish
+clerklier
 clerkly
 clerkships
 clever
@@ -10622,6 +10630,7 @@ cofounders
 cofounding
 cofounds
 cogeneration
+cogent
 cogged
 cogitable
 cogitated
@@ -12096,6 +12105,7 @@ corepressors
 corequisites
 coresearchers
 coresidents
+corf
 corgi
 coria
 coriander
@@ -14281,6 +14291,7 @@ deconditions
 decongesting
 decongestion
 decongests
+deconsecrate
 deconstructs
 decontaminate
 decontamination
@@ -14366,6 +14377,7 @@ defacements
 defacer
 defacers
 defacing
+defalcate
 defalcates
 defalcating
 defalcation
@@ -15763,6 +15775,7 @@ dingle
 dingleberries
 dingoes
 dinitrophenol
+dinkeys
 dinking
 dinkums
 dinky
@@ -20998,6 +21011,7 @@ fibrillations
 fibrin
 fibrinopeptides
 fibroblastic
+fibrocystic
 fibroid
 fibromatous
 fibromyalgia
@@ -28251,6 +28265,7 @@ incarcerate
 incarceration
 incarcerations
 incarnadining
+incarnates
 incases
 incasing
 incaution
@@ -31509,6 +31524,7 @@ lampoonery
 lampooning
 lamprey
 lampshell
+lampyrid
 lamsters
 lanai
 lanais
@@ -35387,6 +35403,7 @@ misclasses
 misclassified
 misclassifies
 misclassify
+misclassifying
 miscodes
 miscoin
 miscoined
@@ -35714,6 +35731,7 @@ mistune
 mistuned
 mistutor
 misty
+mistypes
 misunderstand
 misunderstands
 misused
@@ -35879,6 +35897,7 @@ moldy
 molecules
 molehill
 moleskins
+molesters
 molesting
 mollah
 mollification
@@ -37301,6 +37320,7 @@ nematological
 nematologist
 nemertine
 nemertines
+nemophila
 neoclassic
 neoclassicisms
 neoclassicists
@@ -38431,6 +38451,7 @@ nowts
 noxious
 noxiously
 noxiousnesses
+noyade
 noyades
 nozzles
 nth
@@ -39069,6 +39090,7 @@ oncologic
 oncological
 oncomings
 ondograms
+oneirically
 oneiromancy
 onerously
 onerousnesses
@@ -40149,6 +40171,7 @@ overbraked
 overbrakes
 overbraking
 overbreathing
+overbreeds
 overbriefed
 overbright
 overbrowsing
@@ -40668,6 +40691,7 @@ overwore
 overworking
 overworn
 overwrites
+overwrote
 overzeal
 ovibos
 ovicide
@@ -42308,6 +42332,7 @@ peroxided
 peroxisome
 peroxisomes
 peroxy
+perpendiculars
 perpends
 perpents
 perpetrated
@@ -44785,6 +44810,7 @@ prehistorian
 prehistories
 preholiday
 preimposed
+preimposes
 preimposing
 preinduction
 preinform
@@ -46977,6 +47003,7 @@ rampart
 ramped
 rampikes
 rampion
+rams
 ramshorn
 ramsons
 ramtil
@@ -55960,6 +55987,7 @@ stimulus
 stingarees
 stingers
 stingiest
+stingily
 stinginess
 stinging
 stingingly
@@ -56370,6 +56398,7 @@ struck
 strucken
 structuralisms
 structuralize
+structuralized
 structuration
 structurations
 structure
@@ -59544,6 +59573,7 @@ tinplate
 tinseled
 tinseling
 tinselling
+tinsmith
 tinsnips
 tinstone
 tint
@@ -61411,6 +61441,7 @@ ultrareds
 ultrarightist
 ultraromantic
 ultraroyalist
+ultraroyalists
 ultras
 ultrasharp
 ultrasmall
@@ -61921,6 +61952,7 @@ underheating
 underinflated
 underinflations
 underinvestment
+underjaw
 underkills
 underlaid
 underlap
@@ -62012,6 +62044,7 @@ underwhelms
 underwings
 underwoods
 underwool
+underwork
 underworks
 underworlds
 underwrite
@@ -62920,6 +62953,7 @@ unwed
 unweetingly
 unweighed
 unweight
+unweights
 unwelded
 unwept
 unwetted
@@ -64120,6 +64154,7 @@ vizard
 vizcacha
 vizierate
 vizirate
+vizor
 vizors
 vocabs
 vocabular
