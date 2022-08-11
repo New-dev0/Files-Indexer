@@ -4122,6 +4122,7 @@ bahts
 bahuvrihis
 bailed
 bailee
+bailey
 bailiffship
 bailiffships
 bailors
@@ -6294,6 +6295,7 @@ bonded
 bondholders
 bonding
 bondless
+bondmen
 bondsmen
 bondstones
 bone
@@ -6368,6 +6370,7 @@ bookman
 bookmarker
 bookmarking
 bookoo
+bookracks
 bookshelf
 bookshelves
 bookshop
@@ -10333,6 +10336,7 @@ cloudlessly
 cloudlessnesses
 cloudscape
 cloudscapes
+cloughs
 clours
 clouters
 clove
@@ -11459,6 +11463,7 @@ confederates
 confederating
 conferee
 conferencings
+conferential
 conferment
 conferrable
 conferrees
@@ -15167,6 +15172,7 @@ desalinizing
 desalted
 desalters
 desalts
+desands
 descant
 descanted
 descanters
@@ -16857,6 +16863,7 @@ doloroso
 dolorous
 dolors
 dolphins
+doltishnesses
 dolts
 domaines
 domains
@@ -18271,6 +18278,7 @@ elucidating
 elucidative
 elucubrates
 eluded
+eludes
 eluding
 elusions
 elusory
@@ -19834,6 +19842,7 @@ evited
 evites
 eviting
 evocations
+evocativenesses
 evocators
 evoking
 evolute
@@ -27211,6 +27220,7 @@ houseling
 houselling
 housemaids
 housemaster
+housemates
 housemen
 housepainters
 houser
@@ -28900,6 +28910,7 @@ inexpert
 inexpertly
 inexpertnesses
 inexperts
+inexpiable
 inexpiably
 inexplainable
 inexplicable
@@ -30184,6 +30195,7 @@ isochronously
 isochrons
 isoclinal
 isoclinals
+isocline
 isoclines
 isoclinics
 isocracies
@@ -30679,6 +30691,7 @@ jolt
 jolter
 joltier
 jolts
+jomon
 jones
 jonesing
 jonnycake
@@ -32187,6 +32200,7 @@ leftisms
 leftist
 leftmosts
 leftover
+lefty
 leg
 legal
 legaleses
@@ -32905,6 +32919,7 @@ loaded
 loading
 loadings
 loafed
+loafing
 loamless
 loams
 loamy
@@ -33914,6 +33929,7 @@ mangold
 mangonels
 mangosteen
 mangy
+manhandled
 manhandles
 manhattan
 manhood
@@ -37108,6 +37124,7 @@ mutilators
 mutined
 mutineering
 mutineers
+muting
 mutinied
 mutinies
 mutining
@@ -40226,6 +40243,7 @@ outroll
 outrolling
 outrooted
 outrooting
+outroots
 outrowed
 outrowing
 outrows
@@ -40399,6 +40417,7 @@ ovenbird
 ovenproof
 ovens
 overabundant
+overachieve
 overachievement
 overachieving
 overactions
@@ -40591,6 +40610,7 @@ overexertion
 overexertions
 overexerts
 overexpand
+overexpanding
 overexpectation
 overexplain
 overexplained
@@ -45729,6 +45749,7 @@ productivity
 products
 proem
 proestruses
+proettes
 profanation
 profanatory
 profane
@@ -48344,6 +48365,7 @@ reestablish
 reestablishing
 reestablishment
 reested
+reestimate
 reesting
 reeve
 reeves
@@ -48869,6 +48891,7 @@ reloaning
 reloans
 relocate
 relocated
+relocatee
 relocates
 relocations
 relock
@@ -49731,6 +49754,7 @@ retarder
 retards
 retastes
 retax
+retaxed
 retched
 retches
 reteam
@@ -51756,6 +51780,7 @@ schedulers
 schedules
 scheelites
 schema
+schemas
 schematically
 schematization
 schematizes
@@ -53539,6 +53564,7 @@ sides
 sideshows
 sideslipping
 sideslips
+sidesplittingly
 sidestepped
 sidestepping
 sidesteps
@@ -54573,6 +54599,7 @@ snippiest
 snit
 snitcher
 sniveler
+snivelers
 sniveling
 snivellers
 snob
@@ -54975,6 +55002,7 @@ soothsays
 sootier
 sootily
 sootinesses
+soots
 sooty
 sopaipilla
 sopaipillas
@@ -56138,6 +56166,7 @@ stealthiness
 steamboats
 steamed
 steamered
+steamering
 steamers
 steamfitter
 steamfitters
@@ -59562,6 +59591,7 @@ thickest
 thicket
 thickets
 thickhead
+thickish
 thicknesses
 thicksets
 thieve
@@ -60104,6 +60134,7 @@ tog
 toga
 togas
 togate
+togated
 togaviruses
 toggeries
 toggery
@@ -61181,6 +61212,7 @@ trochophore
 trocked
 trocking
 troglodyte
+trogs
 troilism
 troilites
 trois
@@ -62100,6 +62132,7 @@ uncap
 uncapped
 uncaptioned
 uncapturable
+uncarpeted
 uncarved
 uncase
 uncased
@@ -64452,6 +64485,7 @@ virga
 virgas
 virgate
 virginalist
+virgules
 viricidal
 viricides
 viridescent
@@ -65084,6 +65118,7 @@ watchword
 water
 waterages
 waterbeds
+waterbirds
 waterborne
 waterbus
 watercooler
