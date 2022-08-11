@@ -1590,6 +1590,7 @@ amentia
 aments
 amerce
 amerced
+amercement
 amercers
 amerciable
 amercing
@@ -2615,6 +2616,7 @@ apostle
 apostleship
 apostolic
 apostolicities
+apostrophes
 apostrophic
 apostrophise
 apostrophising
@@ -2918,6 +2920,7 @@ arenes
 arenites
 areolated
 areole
+areologies
 arete
 arethusa
 arfs
@@ -3639,6 +3642,7 @@ auroral
 aurorean
 auscultate
 auscultated
+auscultating
 ausform
 auspicated
 auspicates
@@ -3668,6 +3672,7 @@ authorise
 authorises
 authority
 authorization
+authorizes
 authorizing
 autism
 autistics
@@ -5072,6 +5077,7 @@ bens
 benthon
 benthonic
 benthons
+bentonites
 bentonitic
 benumbed
 benumbing
@@ -7582,6 +7588,7 @@ cabbed
 cabbie
 cabbies
 cabdrivers
+cabernets
 cabers
 cabestro
 cabestros
@@ -7766,6 +7773,7 @@ calendrical
 calends
 calesas
 calflike
+calfs
 calibrations
 calibrator
 caliche
@@ -10024,6 +10032,7 @@ clamorous
 clamorously
 clamors
 clamoured
+clamours
 clampdown
 clamped
 clamper
@@ -11628,6 +11637,7 @@ cons
 consanguinity
 conscience
 conscientious
+conscientiously
 conscionable
 conscious
 consciouses
@@ -13286,6 +13296,7 @@ cubical
 cubically
 cubicities
 cubing
+cubitus
 cuboid
 cuboidal
 cuckold
@@ -15783,6 +15794,7 @@ dilutive
 dilutor
 diluvia
 diluvial
+diluvian
 dime
 dimenhydrinate
 dimenhydrinates
@@ -18134,6 +18146,7 @@ electrogenic
 electrogram
 electrograms
 electroless
+electrologies
 electrology
 electrolyses
 electrolytes
@@ -18280,6 +18293,7 @@ embarking
 embarkment
 embarrass
 embarrassable
+embarrassedly
 embarrassments
 embarring
 embassage
@@ -18973,6 +18987,7 @@ entraps
 entreat
 entreated
 entreating
+entreatingly
 entreats
 entrechat
 entrecotes
@@ -20295,6 +20310,7 @@ extortionary
 extortionate
 extracellular
 extracranial
+extract
 extracted
 extractions
 extractives
@@ -21709,6 +21725,7 @@ flintiest
 flintiness
 flintinesses
 flintlock
+flints
 flinty
 flip
 flipbooks
@@ -21718,6 +21735,7 @@ flippancies
 flippant
 flippest
 flipping
+flirtation
 flirtatiously
 flirted
 flite
@@ -22326,6 +22344,7 @@ formalising
 formalists
 formalize
 formalizer
+formalizing
 formalnesses
 formals
 format
@@ -26948,6 +26967,7 @@ hoopless
 hoopoe
 hoopster
 hooraying
+hoorays
 hoosegow
 hoosgow
 hoot
@@ -27530,6 +27550,7 @@ hyperhidrosis
 hyperimmunize
 hyperimmunizing
 hyperinvolution
+hyperirritable
 hyperkeratosis
 hyperkinesia
 hyperkinesias
@@ -30485,6 +30506,7 @@ jew
 jewel
 jeweled
 jeweler
+jewelling
 jewelries
 jewfish
 jezail
@@ -36033,11 +36055,13 @@ modulators
 module
 modulo
 modulus
+modus
 mofette
 mofettes
 moffette
 mogged
 moggies
+mogging
 moghul
 moghuls
 moguled
@@ -37319,6 +37343,7 @@ natheless
 nathless
 nationalised
 nationalisms
+nationalize
 nationalizer
 nationally
 nationhood
@@ -38157,6 +38182,7 @@ nonego
 nonelection
 nonelections
 nonelectronic
+nonelementary
 nonemergencies
 nonemployees
 nonencapsulated
@@ -43404,6 +43430,7 @@ pinkening
 pinkings
 pinkishness
 pinkishnesses
+pinko
 pinkoes
 pinkroot
 pinna
@@ -44862,6 +44889,7 @@ preconceive
 preconceiving
 preconception
 precondition
+preconditions
 preconizes
 preconizing
 preconquest
@@ -47194,6 +47222,7 @@ rambunctiously
 ramee
 ramees
 ramekin
+ramen
 ramie
 ramies
 ramification
@@ -50233,6 +50262,7 @@ ripsawed
 ripsnorter
 ripsnorting
 riser
+risibilities
 risible
 risings
 risker
@@ -50994,6 +51024,7 @@ saimin
 sained
 saint
 saintdom
+saintdoms
 sainted
 sainting
 saintliest
@@ -51338,6 +51369,7 @@ sashless
 saskatoons
 sassaby
 sassafrases
+sasses
 sassinesses
 sassy
 sassywood
@@ -63414,6 +63446,7 @@ upsoared
 upsoaring
 upsprang
 upspring
+upspringing
 upsprings
 upstanding
 upstandingness
@@ -63884,6 +63917,7 @@ vehemence
 vehemences
 vehemency
 vehement
+vehicular
 veil
 veiled
 veiler
@@ -66141,6 +66175,7 @@ yammers
 yamulka
 yang
 yantra
+yap
 yapoks
 yaps
 yar
