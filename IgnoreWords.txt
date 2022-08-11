@@ -2750,6 +2750,7 @@ aquacultures
 aquaculturist
 aquaculturists
 aquanauts
+aquaplanes
 aquaplaning
 aquarelle
 aquarelles
@@ -3556,6 +3557,7 @@ audial
 audibility
 audible
 audibly
+audience
 audiences
 audient
 audile
@@ -3858,6 +3860,7 @@ axiologies
 axiom
 axiomatically
 axiomatizations
+axiomatize
 axiomatized
 axioms
 axion
@@ -4283,6 +4286,7 @@ barbarous
 barbecuers
 barbells
 barbering
+barbershop
 barbicel
 barbies
 barbing
@@ -5394,6 +5398,7 @@ billabongs
 billboarded
 billboarding
 billbugs
+billers
 billeter
 billets
 billfish
@@ -6460,6 +6465,7 @@ boughs
 bougie
 bouillabaisse
 bouldered
+boulderer
 boulderers
 bouldering
 bouldery
@@ -7081,6 +7087,7 @@ buccaneers
 buccinators
 buck
 buckaroos
+buckayros
 buckbeans
 buckboard
 buckbrush
@@ -9907,6 +9914,7 @@ citronellols
 citrons
 cittern
 city
+cityfied
 cityscapes
 cityward
 citywide
@@ -10715,6 +10723,7 @@ cojoined
 cojoining
 cojoins
 cojones
+coked
 cokeheads
 coky
 col
@@ -11827,6 +11836,7 @@ contumacy
 contumelies
 conundrum
 convalescences
+convalescents
 convecting
 convector
 convened
@@ -14296,6 +14306,7 @@ decoupage
 decoupled
 decouplers
 decoupling
+decoyers
 decoying
 decreases
 decreasing
@@ -16955,6 +16966,7 @@ dowel
 doweled
 doweling
 dowelling
+dowered
 dowering
 dowerless
 dowers
@@ -18263,6 +18275,7 @@ embrown
 embrowns
 embrued
 embrues
+embrute
 embruted
 embryogenesis
 embryological
@@ -18716,6 +18729,7 @@ enows
 enplane
 enplaned
 enquires
+enrage
 enragedly
 enravished
 enregister
@@ -23088,6 +23102,7 @@ gamed
 gamekeeper
 gamers
 gamesmanship
+gamesmanships
 gamester
 gametically
 gametocytes
@@ -24341,6 +24356,7 @@ gowds
 gown
 gowns
 gownsman
+goyim
 goyish
 grabbing
 grabbled
@@ -24750,6 +24766,7 @@ gropers
 gropingly
 groschen
 grosgrains
+grosser
 grossers
 grossing
 grossness
@@ -25159,6 +25176,7 @@ hacking
 hacklier
 hackling
 hackmatacks
+hackneying
 hackneys
 hacks
 hacksawing
@@ -27639,6 +27657,7 @@ iffiness
 iffinesses
 iffy
 ifs
+igg
 igloos
 igneous
 ignescents
@@ -31784,6 +31803,7 @@ laxnesses
 lay
 layerages
 laying
+layman
 layoff
 layout
 layouts
@@ -39035,6 +39055,7 @@ omophagia
 omophagias
 omophagic
 omphalos
+on
 onagers
 onanistic
 onanists
@@ -39663,6 +39684,7 @@ outdrawn
 outdreaming
 outdressed
 outdrink
+outdrives
 outdriving
 outdropping
 outdrunk
@@ -40003,6 +40025,7 @@ outthanking
 outthanks
 outthieve
 outthieved
+outthieves
 outthinks
 outthought
 outthrobbed
@@ -40499,6 +40522,7 @@ oversaturate
 oversaturates
 oversaturations
 oversave
+oversaving
 overscale
 overscoring
 overscrupulous
@@ -41116,6 +41140,7 @@ pans
 pansexuality
 pansophies
 pantaloon
+pantdress
 pantdresses
 pantechnicons
 pantheism
@@ -41132,6 +41157,7 @@ pantomime
 pantomimes
 pantomimic
 pantomimist
+pantothenates
 pantries
 pantropic
 pantropical
@@ -49417,6 +49443,7 @@ retorsions
 retort
 retortions
 retotal
+retotalling
 retouch
 retouching
 retraced
@@ -53363,6 +53390,7 @@ sintered
 sinters
 sinuate
 sinuates
+sinuations
 sinuous
 sinuously
 sinuousness
@@ -56278,6 +56306,7 @@ striking
 stringcourses
 stringed
 stringencies
+stringer
 stringhalts
 stringier
 stringiest
@@ -56967,6 +56996,7 @@ suffocates
 suffocatingly
 suffocation
 suffocations
+suffocative
 suffrage
 suffrages
 suffragist
@@ -60627,6 +60657,7 @@ tripodies
 tripody
 tripolis
 tripos
+triposes
 tripped
 tripper
 trippets
@@ -60856,6 +60887,7 @@ truthfully
 truthfulnesses
 truthless
 tryout
+tryouts
 trypsins
 tryptamines
 trysted
@@ -61180,6 +61212,7 @@ twinflowers
 twinge
 twinged
 twinging
+twining
 twinjet
 twinjets
 twinkler
@@ -61367,6 +61400,7 @@ ultramodern
 ultramodernists
 ultramontanism
 ultrapatriotic
+ultraphysical
 ultraquiet
 ultraradical
 ultrarare
@@ -64589,6 +64623,7 @@ waterhen
 waterhens
 waterily
 waterinesses
+waterishnesses
 waterlily
 waterlines
 waterlogging
