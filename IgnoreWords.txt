@@ -365,6 +365,7 @@ acquiesce
 acquiesced
 acquiescence
 acquiescences
+acquiescently
 acquiescing
 acquired
 acquirement
@@ -3002,6 +3003,7 @@ armours
 armrest
 armrests
 armsful
+army
 armyworm
 arnicas
 aroid
@@ -8729,6 +8731,7 @@ cavalletti
 cavalry
 cavatina
 cavatine
+caveating
 caved
 cavelike
 caveman
@@ -11335,6 +11338,7 @@ conceived
 conceives
 concelebrant
 concelebration
+concentrating
 concentrator
 concentrators
 concentrically
@@ -11829,6 +11833,7 @@ contemporarily
 contemporized
 contempt
 contemptibility
+contemptibly
 contemptuous
 contemptuously
 contends
@@ -14781,6 +14786,7 @@ deludes
 deluging
 delusional
 delusive
+delusivenesses
 delusory
 delusters
 delve
@@ -20791,6 +20797,7 @@ fastballers
 faster
 fastest
 fastidiously
+fastnesses
 fatalist
 fatalists
 fatbacks
@@ -21142,6 +21149,7 @@ feverish
 feverwort
 feverworts
 fewer
+fewnesses
 feyest
 fez
 fezes
@@ -22700,6 +22708,7 @@ fremd
 fremituses
 frena
 frenches
+frenchified
 frenchifying
 frenetic
 frenetically
@@ -24617,6 +24626,7 @@ gramma
 grammarian
 grammarians
 grammas
+grammatical
 grammaticality
 grammatically
 gramp
@@ -26062,6 +26072,7 @@ heathenisms
 heathenized
 heathenries
 heathens
+heather
 heathier
 heathland
 heathlands
@@ -30690,6 +30701,7 @@ joked
 jokes
 jokester
 jokiest
+jokinesses
 joking
 jokingly
 joky
@@ -30753,6 +30765,7 @@ joys
 jubbahs
 jube
 jubhah
+jubilances
 jubilantly
 jubilarian
 jubilate
@@ -31377,6 +31390,7 @@ kleptos
 klezmers
 klicks
 klik
+kliks
 klongs
 kludgiest
 klutz
@@ -33295,6 +33309,7 @@ loxodrome
 loxodromes
 loyaler
 loyalest
+loyally
 luau
 lubber
 lubbers
@@ -38804,6 +38819,7 @@ nudes
 nudest
 nudibranchs
 nudie
+nudies
 nudism
 nudisms
 nudists
@@ -39474,6 +39490,7 @@ openable
 opencast
 opened
 opener
+openheartedness
 opening
 openings
 openmouthed
@@ -42380,6 +42397,7 @@ pennywort
 pennyworts
 penoches
 penologist
+penologists
 penoncels
 pens
 pensee
@@ -43238,6 +43256,7 @@ phylaxises
 phyle
 phyleses
 phylesises
+phyllaries
 phyllite
 phyllitic
 phyllo
@@ -46740,6 +46759,7 @@ pyramid
 pyramidal
 pyramiding
 pyranosides
+pyrans
 pyrenes
 pyres
 pyrethrin
@@ -47159,6 +47179,7 @@ racetrack
 racetrackers
 racewalk
 racewalkers
+racewalks
 raceway
 raceways
 rachial
@@ -48086,6 +48107,7 @@ recoveries
 recovery
 recrate
 recrates
+recreancies
 recreancy
 recreating
 recreationists
@@ -50819,6 +50841,7 @@ rubeolas
 rubes
 rubescent
 rubicundities
+rubicundity
 rubier
 rubies
 rubiest
@@ -53033,6 +53056,7 @@ shampoo
 shampooer
 shampooers
 shampooing
+shampoos
 shamrocks
 shamus
 shamuses
@@ -53875,6 +53899,7 @@ sirupy
 sirvente
 sirventes
 sisals
+siskins
 sissyish
 sisterhoods
 sistroid
@@ -54036,6 +54061,7 @@ skirmishers
 skirred
 skirrs
 skirted
+skirter
 skirters
 skirtless
 skis
@@ -55690,6 +55716,7 @@ spoonily
 spooning
 spoons
 spoor
+spoors
 sporadically
 sporangia
 sporangial
@@ -57643,6 +57670,7 @@ sunlamps
 sunlands
 sunlight
 sunn
+sunnahs
 sunned
 sunnily
 sunniness
@@ -57729,6 +57757,7 @@ superdiplomat
 supereffective
 superefficiency
 superefficient
+superegoists
 superegos
 superelite
 supereminence
@@ -57829,6 +57858,7 @@ superports
 superposes
 superpositions
 superpower
+superpowered
 superpowers
 superpremium
 superprofits
@@ -58481,6 +58511,7 @@ syzygy
 tab
 tabanid
 tabanids
+tabarded
 tabards
 tabbises
 tabbouleh
@@ -59544,6 +59575,7 @@ theoretic
 theoretically
 theories
 theorize
+theorized
 theosophically
 theosophies
 therapeuses
@@ -59755,6 +59787,7 @@ threonines
 thresher
 thriftily
 thriftinesses
+thriftless
 thriftlessly
 thrilled
 thrillers
@@ -65061,6 +65094,7 @@ warmest
 warmheartedness
 warming
 warmness
+warmonger
 warmongerings
 warmouth
 warms
@@ -66325,6 +66359,7 @@ xystoi
 yabber
 yabbie
 yabby
+yachter
 yachting
 yachtings
 yachts
