@@ -3132,6 +3132,7 @@ asceticisms
 ascidia
 ascites
 asclepiads
+ascocarp
 ascocarpic
 ascomycete
 ascomycetes
@@ -5443,6 +5444,7 @@ bimonthly
 binarisms
 binately
 binational
+bind
 bindingly
 bindingness
 bindingnesses
@@ -5672,6 +5674,7 @@ bites
 bitmap
 bitmapped
 bitstreams
+bitsy
 bitted
 bitterbrushes
 bittered
@@ -6791,6 +6794,7 @@ bregmatic
 brents
 brethren
 brevet
+brevetcies
 breviaries
 breviary
 brevity
@@ -8144,6 +8148,7 @@ carambola
 caramel
 caramelize
 caramelized
+carangid
 carangoid
 carapace
 carapaced
@@ -9486,6 +9491,7 @@ chiseller
 chisels
 chital
 chitchats
+chitchatting
 chitling
 chitlings
 chitons
@@ -16198,6 +16204,7 @@ dishiest
 dishing
 dishonesties
 dishonorer
+dishpan
 dishpans
 dishrags
 dishwares
@@ -16357,6 +16364,7 @@ disputant
 disputatious
 dispute
 disputed
+disputer
 disqualified
 disqualifies
 disqualify
@@ -21371,6 +21379,7 @@ fizzers
 fizzes
 fizziest
 fizzle
+fizzy
 fjeld
 fjelds
 fjords
@@ -22384,6 +22393,7 @@ fractionalize
 fractionalized
 fractionated
 fractionator
+fractioned
 fractions
 fractious
 fractiously
@@ -23095,6 +23105,7 @@ galvanoscopes
 galyac
 galyacs
 galyak
+galyaks
 gam
 gamb
 gambado
@@ -24528,6 +24539,7 @@ graspingnesses
 grasshopper
 grasshoppers
 grassier
+grassily
 grassland
 grasslands
 grassless
@@ -26382,6 +26394,7 @@ hillier
 hillinesses
 hilloaing
 hilloas
+hillock
 hillocky
 hilloes
 hillos
@@ -28736,6 +28749,7 @@ inferior
 infernally
 inferno
 inferrer
+inferrible
 infestant
 infestation
 infesters
@@ -29859,6 +29873,7 @@ irrationalism
 irrationalisms
 irrationalist
 irrationalistic
+irrationalities
 irreality
 irreclaimably
 irreconcilable
@@ -31000,6 +31015,7 @@ kilotons
 kilovolts
 kilowatt
 kiltie
+kiltlike
 kilty
 kimchee
 kimchees
@@ -31765,6 +31781,7 @@ launchpads
 launderers
 launderette
 laundering
+launders
 laundress
 laundrette
 laundrettes
@@ -32550,6 +32567,7 @@ lisper
 lisps
 lissom
 lissome
+lissomeness
 lissomenesses
 list
 listable
@@ -34481,6 +34499,7 @@ menorrhea
 mensae
 mensal
 mensas
+menschen
 mense
 mensh
 menstruate
@@ -34702,6 +34721,7 @@ metastasis
 metastasizes
 metastatically
 metatarsus
+metate
 metathesis
 metathetic
 metathoracic
@@ -34908,6 +34928,7 @@ micronized
 micronizes
 microns
 micronucleus
+micronutrients
 microparticles
 microphages
 microphotometer
@@ -37295,6 +37316,7 @@ negotiate
 negotiating
 negritude
 negs
+negus
 neif
 neifs
 neigh
@@ -38496,6 +38518,7 @@ nudest
 nudibranchs
 nudie
 nudism
+nudisms
 nudists
 nudities
 nudity
@@ -44250,6 +44273,7 @@ postclassic
 postcollege
 postconception
 postconquest
+postcoup
 postcrash
 postcrisis
 postdating
@@ -46030,6 +46054,7 @@ pubis
 public
 publication
 publicised
+publicity
 publicized
 publicizes
 publicnesses
@@ -47063,6 +47088,7 @@ rapids
 rapini
 rapists
 rapparee
+rapped
 rappel
 rappeling
 rappels
@@ -52039,6 +52065,7 @@ seitans
 seizer
 seizers
 seizins
+seizure
 selamliks
 selcouth
 select
@@ -52495,6 +52522,7 @@ sexinesses
 sexism
 sexisms
 sexist
+sexless
 sexlessly
 sexlessness
 sexologic
@@ -52809,6 +52837,7 @@ shiftlessnesses
 shikaree
 shikarees
 shikari
+shikars
 shikseh
 shiksehs
 shilingi
@@ -53861,6 +53890,7 @@ slobbers
 slobbier
 slobbish
 slobs
+sloes
 sloganeered
 sloganize
 sloganizes
@@ -54972,6 +55002,7 @@ spermacetis
 spermagonia
 spermaries
 spermary
+spermatic
 spermatogeneses
 spermatogenic
 spermatophore
@@ -56937,6 +56968,7 @@ subvenes
 subventions
 subversions
 subversive
+subversiveness
 subvert
 subverter
 subverters
@@ -58335,6 +58367,7 @@ tared
 targetable
 targeting
 tariffing
+tariffs
 tarlatan
 tarlatans
 tarletan
@@ -60167,6 +60200,7 @@ trait
 traitorously
 traitors
 traject
+trajecting
 trajection
 tramcars
 tramells
@@ -65846,6 +65880,7 @@ yardwands
 yardwork
 yare
 yarely
+yarest
 yarmelke
 yarmelkes
 yarn
