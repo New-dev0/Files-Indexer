@@ -745,6 +745,7 @@ aeroducts
 aerodynes
 aeroelastic
 aeroelasticity
+aeroembolisms
 aerogrammes
 aerograms
 aerolitic
@@ -1149,6 +1150,7 @@ albumins
 albuminuria
 albuminurias
 albumoses
+alburnous
 alburnums
 alcahests
 alcaics
@@ -1330,6 +1332,7 @@ allocations
 allocators
 allocutions
 allods
+allogamy
 allogeneic
 allografts
 allometries
@@ -1807,6 +1810,7 @@ analogically
 analogies
 analogisms
 analogized
+analogizes
 analogizing
 analogousness
 analogousnesses
@@ -2578,6 +2582,7 @@ apogamic
 apogeic
 apolipoprotein
 apolitically
+apollos
 apolog
 apologetics
 apologies
@@ -4324,6 +4329,7 @@ barcaroles
 barchan
 barded
 bardes
+bardic
 barding
 bardolaters
 bards
@@ -4543,6 +4549,7 @@ batsman
 batsmen
 batt
 battalia
+battalion
 batteau
 batteaux
 battement
@@ -5233,6 +5240,7 @@ betrotheds
 betroths
 betted
 better
+bettered
 bettering
 betters
 bettors
@@ -6136,6 +6144,7 @@ bobsleigh
 bobsleighs
 bobstays
 bobtail
+bobtailing
 bobwhite
 bobwhites
 bocces
@@ -6529,6 +6538,7 @@ bounteousnesses
 bountied
 bounties
 bounty
+bourbon
 bourbons
 bourg
 bourgeois
@@ -10138,6 +10148,7 @@ cleanses
 cleanups
 clear
 clearance
+clearcut
 clearcutting
 clearer
 clearest
@@ -12771,6 +12782,7 @@ cranker
 crankiest
 crankinesses
 crankle
+crankled
 crankles
 crankpin
 crankshaft
@@ -15231,6 +15243,7 @@ desorb
 desorbed
 despaired
 despatch
+desperadoes
 desperate
 desperately
 desperateness
@@ -16466,6 +16479,7 @@ disruptive
 disruptively
 disruptor
 disruptors
+dissatisfaction
 dissatisfies
 dissave
 dissaves
@@ -16529,6 +16543,7 @@ dissolutely
 dissolve
 dissolved
 dissolves
+dissonant
 dissuade
 dissuader
 dissuaders
@@ -24863,6 +24878,7 @@ grippy
 gripsack
 gripsacks
 gript
+grisaille
 grisailles
 griseous
 grisette
@@ -25438,6 +25454,7 @@ halavah
 halavahs
 halbert
 haled
+halenesses
 haleru
 hales
 halfback
@@ -26004,6 +26021,7 @@ heathlands
 heathless
 heaths
 heaumes
+heaven
 heavenlier
 heavenliness
 heavenly
@@ -26928,6 +26946,7 @@ honorific
 honors
 honoured
 honourer
+hooch
 hooches
 hoodies
 hoodiest
@@ -28619,6 +28638,7 @@ incurves
 incurving
 incuse
 incusing
+indabas
 indagates
 indagators
 indamine
@@ -29172,6 +29192,7 @@ inopportunely
 inorganic
 inosculated
 inosculates
+inosculation
 inosine
 inotropic
 inpour
@@ -33110,6 +33131,7 @@ lords
 lordship
 lore
 lorgnette
+lorgnons
 lorica
 loricae
 loriners
@@ -37343,6 +37365,7 @@ natheless
 nathless
 nationalised
 nationalisms
+nationality
 nationalize
 nationalizer
 nationally
@@ -37370,6 +37393,7 @@ natured
 natures
 naturopathic
 naturopathies
+naugahydes
 naughtily
 naughtinesses
 naumachia
@@ -38542,6 +38566,7 @@ noons
 noontide
 noontides
 noontimes
+noosing
 noradrenaline
 noradrenalins
 nordic
@@ -40345,6 +40370,7 @@ overactivity
 overacts
 overadjustment
 overadjustments
+overadvertised
 overages
 overanalyzed
 overanalyzes
@@ -44189,6 +44215,7 @@ polyglottisms
 polygon
 polygonally
 polygonies
+polygonums
 polygony
 polygraph
 polygraphers
@@ -47436,6 +47463,7 @@ ravages
 rave
 raved
 ravel
+raveling
 ravelled
 raveller
 raven
@@ -48221,6 +48249,7 @@ reembrace
 reembraces
 reembroidering
 reemerged
+reemergence
 reemerges
 reemerging
 reemissions
@@ -50420,6 +50449,7 @@ rolfs
 rollaway
 rolled
 roller
+rollicking
 rolling
 rollings
 rollouts
@@ -51915,6 +51945,7 @@ scrapping
 scrapple
 scrapples
 scraps
+scratchboard
 scratchers
 scratches
 scratchiness
@@ -58777,6 +58808,7 @@ teahouse
 teahouses
 teakettles
 teakwood
+teals
 team
 teamaker
 teaming
@@ -64602,6 +64634,7 @@ vomiter
 vomiting
 vomitives
 vomito
+vomitous
 vomituses
 voodoo
 voodooed
@@ -65651,6 +65684,7 @@ winglets
 wingman
 wingmen
 wingspan
+wingtip
 wingtips
 wining
 winked
@@ -66097,6 +66131,7 @@ xenias
 xenobiotics
 xenoblast
 xenocryst
+xenodiagnoses
 xenodiagnostic
 xenogamies
 xenogamy
