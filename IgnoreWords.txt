@@ -747,6 +747,7 @@ aerogrammes
 aerograms
 aerolitic
 aeromechanics
+aeromedicine
 aeromedicines
 aerometer
 aerometers
@@ -3183,6 +3184,7 @@ aslope
 asocial
 asparagine
 asparagines
+asparkle
 aspartame
 aspartate
 aspartates
@@ -6200,6 +6202,7 @@ boisterously
 boisterousness
 boite
 boites
+bola
 bolas
 bold
 bolder
@@ -7645,6 +7648,7 @@ caducei
 caecum
 caeomas
 caesar
+caesarian
 caesarians
 caesarisms
 caespitose
@@ -8305,6 +8309,7 @@ carlines
 carling
 carlings
 carlins
+carlish
 carloads
 carmakers
 carman
@@ -11525,6 +11530,7 @@ congruousnesses
 coni
 conical
 conics
+conidial
 conidiophores
 conidium
 coniferous
@@ -11644,6 +11650,7 @@ consociating
 consociational
 consociations
 consolation
+consolations
 consolidated
 consolidates
 consolidation
@@ -13483,6 +13490,7 @@ curter
 curtesies
 curtest
 curtilage
+curtly
 curtnesses
 curtseying
 curtsied
@@ -14534,6 +14542,7 @@ defrosting
 deft
 deftest
 deftness
+defueled
 defueling
 defuelled
 defund
@@ -18272,6 +18281,7 @@ embonpoint
 embordering
 emborders
 embosking
+embosks
 embosses
 embossing
 embossments
@@ -19523,6 +19533,7 @@ ethoxyl
 eths
 ethylate
 ethylated
+ethylates
 ethylbenzene
 ethylbenzenes
 ethylenic
@@ -19679,6 +19690,7 @@ evenhanded
 evening
 evenings
 evens
+evensongs
 event
 eventful
 eventide
@@ -27804,6 +27816,7 @@ illustriously
 illustriousness
 illuvial
 illuviums
+ilmenites
 image
 imaged
 imager
@@ -29061,6 +29074,7 @@ inputting
 inquieted
 inquiets
 inquietudes
+inquire
 inquired
 inquirer
 inquiring
@@ -31137,6 +31151,7 @@ kissing
 kists
 kitchen
 kitchenets
+kitchenware
 kite
 kitelike
 kiter
@@ -34575,6 +34590,7 @@ mercenarily
 mercenariness
 mercenarinesses
 mercer
+merceries
 mercerising
 mercerization
 mercerized
@@ -37473,6 +37489,7 @@ netless
 netlike
 netminder
 netop
+netops
 nettable
 netter
 netting
@@ -37793,6 +37810,7 @@ nodding
 noddled
 noddles
 nodi
+nodical
 nodose
 nodosity
 nodous
@@ -39424,6 +39442,7 @@ organizational
 organizations
 organize
 organizers
+organizes
 organizing
 organons
 organza
@@ -49456,6 +49475,7 @@ retains
 retaken
 retaker
 retaking
+retaliate
 retaliating
 retaliation
 retaliatory
@@ -49481,6 +49501,7 @@ retempered
 retempering
 retempers
 retems
+retention
 retentions
 retentive
 retentiveness
@@ -50457,6 +50478,7 @@ rowanberry
 rowboats
 rowdiest
 rowdily
+rowdinesses
 rowdyism
 roweling
 rowelled
@@ -50920,6 +50942,7 @@ salpingitis
 sals
 salsa
 salsify
+salsilla
 saltarello
 saltarellos
 saltations
@@ -51430,6 +51453,7 @@ scarifiers
 scarifyingly
 scarious
 scarlatinal
+scarlatinas
 scarlets
 scarpered
 scarphs
@@ -57066,6 +57090,7 @@ succulent
 such
 suchlike
 sucker
+suckers
 suckfishes
 suckiest
 suckle
@@ -57962,6 +57987,7 @@ sympathize
 sympathizer
 sympatico
 sympatric
+sympatrically
 sympetalies
 sympetalous
 symphonic
@@ -60263,6 +60289,7 @@ traject
 trajecting
 trajection
 tramcars
+tramell
 tramells
 tramels
 tramline
@@ -60272,6 +60299,7 @@ trammelers
 trammels
 tramontane
 tramper
+trampier
 trampiest
 trampish
 trample
@@ -61733,6 +61761,7 @@ unboned
 unbonnet
 unbonneted
 unbonnets
+unbosom
 unbottle
 unbottling
 unbowdlerized
@@ -62080,6 +62109,7 @@ underpasses
 underpay
 underpinned
 underpins
+underplayed
 underplot
 underproduction
 underproof
@@ -62309,6 +62339,7 @@ unfroze
 unfrozen
 unfurling
 unfurls
+unfurnished
 unfussy
 ungainlinesses
 ungalled
@@ -63360,6 +63391,7 @@ usurped
 usurper
 uteruses
 utilidor
+utilise
 utilisers
 utilises
 utilitarianism
@@ -63509,6 +63541,7 @@ vanguards
 vanillin
 vanillins
 vanisher
+vanishers
 vanishing
 vanities
 vanned
@@ -64165,6 +64198,7 @@ viscosimetric
 viscosities
 viscounts
 viscounty
+viscously
 viscus
 viseed
 viselike
@@ -64774,6 +64808,7 @@ watersides
 waterski
 waterweed
 waterwork
+waterzoois
 wattest
 watthours
 wattlebirds
