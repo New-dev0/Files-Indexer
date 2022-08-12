@@ -1765,6 +1765,7 @@ amyls
 amylums
 anabaena
 anabaenas
+anabas
 anabasis
 anabatic
 anabioses
@@ -5233,6 +5234,7 @@ beta
 betaine
 betake
 betelnut
+betels
 bethanked
 bethanking
 bethorned
@@ -7739,6 +7741,7 @@ cajoled
 cajoleries
 cajoles
 cajones
+caked
 cakes
 cakewalkers
 cakewalks
@@ -12453,6 +12456,7 @@ cotinga
 cotoneasters
 cotransduce
 cotransduced
+cotransduces
 cotransduction
 cotransductions
 cotransfers
@@ -13303,6 +13307,7 @@ cryptococcosis
 cryptogamic
 cryptogams
 cryptograms
+cryptographic
 cryptography
 cryptologic
 cryptological
@@ -14255,6 +14260,7 @@ decalogs
 decalogues
 decameter
 decameters
+decamethonium
 decametric
 decampments
 decamps
@@ -21647,6 +21653,7 @@ flappy
 flaps
 flare
 flared
+flareup
 flashback
 flashbacks
 flashcard
@@ -23957,6 +23964,7 @@ gilt
 gilts
 gimbal
 gimbaled
+gimbaling
 gimballing
 gimleting
 gimlets
@@ -24189,6 +24197,7 @@ gloaming
 gloamings
 gloams
 gloat
+gloated
 gloater
 gloaters
 gloatingly
@@ -29123,6 +29132,7 @@ ingrafts
 ingrained
 ingrains
 ingrate
+ingratiate
 ingratiated
 ingratiating
 ingratiation
@@ -29600,6 +29610,7 @@ interfiles
 interfiling
 interflow
 interflowed
+interflowing
 interfluvial
 interfold
 interfolds
@@ -30672,6 +30683,7 @@ jinnee
 jinni
 jinrickshas
 jinrikisha
+jinriksha
 jinx
 jinxes
 jipijapas
@@ -33622,6 +33634,7 @@ machineable
 machined
 machineries
 machinery
+machining
 machinists
 machismo
 machismos
@@ -34299,6 +34312,7 @@ massacrers
 massacres
 massage
 massager
+masscult
 masses
 masseteric
 masseters
@@ -35042,6 +35056,7 @@ metathetic
 metathoracic
 metaxylem
 metazoa
+metazoan
 metazoon
 metempsychoses
 meteorically
@@ -35412,6 +35427,7 @@ milkily
 milkless
 milkmaid
 milkman
+milkshakes
 milksop
 milkwood
 milkwort
@@ -38497,6 +38513,7 @@ nonnovels
 nonnuclear
 nonnucleated
 nonnumerical
+nonnutritive
 nonobjective
 nonobjectivism
 nonobjectivist
@@ -41347,6 +41364,7 @@ palavered
 palaverer
 palaverers
 palavering
+palavers
 palazzos
 pale
 paleae
@@ -43082,6 +43100,7 @@ philtrum
 phimosis
 phizes
 phlebitic
+phlebogram
 phlebograms
 phlebotomists
 phlebotomy
@@ -43763,6 +43782,7 @@ pitifullest
 pitiless
 pitilessly
 pitmans
+pittance
 pittances
 pittas
 pittosporum
@@ -43789,6 +43809,7 @@ placates
 placatory
 placebo
 placeboes
+placeholder
 placeholders
 placekickers
 placekicks
@@ -49705,6 +49726,7 @@ respirometry
 resplendencies
 resplendency
 resplendent
+resplice
 resplicing
 resplit
 respoken
@@ -51698,6 +51720,7 @@ savoury
 savoy
 savoys
 savvier
+savvies
 sawbills
 sawboneses
 sawbucks
@@ -52031,6 +52054,7 @@ scold
 scolded
 scolder
 scolders
+scoleces
 scolices
 scolioma
 scollop
@@ -52821,6 +52845,7 @@ sequester
 sequestered
 sequesters
 sequestrate
+sequestrated
 sequins
 sequitur
 ser
@@ -55463,6 +55488,7 @@ speedup
 speedwell
 speedwells
 speeling
+speils
 speired
 speirs
 speise
@@ -59099,6 +59125,7 @@ tedders
 teddy
 tedious
 tediousness
+teed
 teel
 teem
 teemers
@@ -59329,6 +59356,7 @@ tense
 tensenesses
 tenser
 tensilities
+tensiometries
 tensor
 tensors
 tent
@@ -60197,6 +60225,7 @@ titillation
 titillative
 titivate
 titivated
+titlark
 titlarks
 titleholder
 titling
@@ -62356,6 +62385,7 @@ uncoalescing
 uncoating
 uncoatings
 uncocked
+uncocking
 uncocks
 uncoded
 uncoerced
@@ -62487,6 +62517,7 @@ undercarriage
 undercharging
 underclad
 underclasses
+underclassman
 underclassmen
 underclothing
 undercoating
@@ -62875,6 +62906,7 @@ unhuman
 unhumorous
 unhung
 unhurried
+unhusks
 unhygienic
 uniaxial
 unicameral
@@ -64556,6 +64588,7 @@ villanelle
 villas
 villatic
 villeins
+villose
 villosity
 villous
 villously
@@ -64777,6 +64810,7 @@ vocalically
 vocalise
 vocalised
 vocalist
+vocalities
 vocality
 vocalization
 vocalizers
@@ -65420,6 +65454,7 @@ wedeled
 wedeling
 wedelns
 wedge
+wedgelike
 wedgier
 wedgiest
 wedging
