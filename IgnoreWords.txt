@@ -851,6 +851,7 @@ affrighted
 affront
 affronted
 affronts
+affusions
 afghan
 aficionada
 aficionadas
@@ -1063,6 +1064,7 @@ airdate
 airdates
 airdrop
 airdropped
+airdrops
 airest
 airfares
 airfields
@@ -1237,6 +1239,7 @@ alifs
 alighting
 align
 aligners
+alignment
 alike
 alikeness
 aliment
@@ -2972,6 +2975,7 @@ argylls
 aria
 ariboflavinoses
 ariboflavinosis
+arider
 ariettas
 ariettes
 ariosi
@@ -3446,6 +3450,7 @@ ataraxy
 atavistic
 atavistically
 ataxias
+ataxic
 ate
 atechnic
 atelectases
@@ -3674,6 +3679,7 @@ auspiciousness
 austereness
 austerest
 austerity
+autacoid
 autacoids
 autarch
 autarchic
@@ -6302,6 +6308,7 @@ bolsons
 bolster
 bolthole
 bolting
+boltless
 boltlike
 boltropes
 bolus
@@ -6346,6 +6353,7 @@ bongoist
 bongoists
 bonhomies
 boniface
+bonifaces
 bonitas
 bonked
 bonkers
@@ -6705,6 +6713,7 @@ brained
 brainiac
 brainier
 brainiest
+braining
 brainpan
 brainpans
 brainpower
@@ -7907,6 +7916,7 @@ calumniations
 calumnies
 calumnious
 calumniously
+calutron
 calvadoses
 calvarial
 calvarian
@@ -8420,6 +8430,7 @@ carotidal
 carotins
 carousal
 carousals
+caroused
 carousel
 carpalia
 carpentering
@@ -8667,6 +8678,7 @@ cater
 catercorner
 catered
 caterer
+cateresses
 caterpillar
 caterwaul
 caterwauling
@@ -12516,6 +12528,7 @@ cottonseeds
 cottontail
 cottonwood
 coturnix
+coturnixes
 cotyledons
 cotylosaurs
 coucher
@@ -20775,6 +20788,7 @@ fanciless
 fanciness
 fancy
 fancywork
+fancyworks
 fandangos
 fanes
 fanfare
@@ -24865,6 +24879,7 @@ grated
 grateless
 grater
 graters
+gratifications
 gratifier
 gratify
 gratifyingly
@@ -27008,6 +27023,7 @@ homeomorphism
 homeopath
 homeopathically
 homeopathies
+homeopathy
 homeotherm
 homeothermy
 homeotic
@@ -27444,6 +27460,7 @@ hulks
 hulky
 hullabaloos
 hulled
+huller
 hulloa
 hulloas
 hulloed
@@ -31882,6 +31899,7 @@ laicizes
 laigh
 laighs
 laird
+lairdship
 lairdships
 laired
 lairing
@@ -33878,6 +33896,7 @@ magnetos
 magnetosphere
 magnetospheric
 magnificat
+magnificats
 magnificently
 magnifier
 magniloquence
@@ -33969,6 +33988,7 @@ malapertnesses
 malaperts
 malaprop
 malapropism
+malaria
 malariologist
 malariologists
 malarious
@@ -34670,6 +34690,7 @@ measurements
 measurer
 measures
 meated
+meathead
 meatier
 meatiest
 meatily
@@ -34878,6 +34899,7 @@ melodise
 melodised
 melodist
 melodizers
+melodramatises
 melodramatising
 melodramatist
 melodramatizes
@@ -37642,6 +37664,7 @@ natatoriums
 natheless
 nathless
 nationalised
+nationalising
 nationalisms
 nationality
 nationalize
@@ -38581,6 +38604,7 @@ noninfective
 noninflationary
 noninfluences
 noninformation
+noninformations
 noninitiates
 noninsect
 noninsecticidal
@@ -42343,6 +42367,7 @@ payback
 paychecks
 paydays
 payer
+paygrade
 payload
 paymasters
 payment
@@ -42621,6 +42646,7 @@ pennywise
 pennywort
 pennyworts
 penoches
+penological
 penologist
 penologists
 penoncels
@@ -43399,6 +43425,7 @@ photokineses
 photolysis
 photolyzable
 photolyze
+photolyzes
 photomapped
 photomask
 photomasks
@@ -43487,6 +43514,7 @@ phylaxises
 phyle
 phyleses
 phylesises
+phyletically
 phyllaries
 phyllite
 phyllitic
@@ -43943,6 +43971,7 @@ pithiness
 pithy
 pitiable
 pitiableness
+pitiably
 pitiful
 pitifuller
 pitifullest
@@ -46696,6 +46725,7 @@ puff
 puffer
 puffiest
 puffily
+pug
 pugaree
 puggarees
 pugginess
@@ -55171,6 +55201,7 @@ softcover
 soften
 softener
 softens
+softest
 softheaded
 softies
 software
@@ -55292,6 +55323,7 @@ solvate
 solve
 solves
 solvolytic
+som
 somas
 somatic
 somatically
@@ -56096,6 +56128,7 @@ sprawls
 sprawly
 sprayer
 sprayers
+sprays
 spreader
 sprees
 sprigged
@@ -60853,6 +60886,7 @@ touchpads
 touchstone
 touchtone
 touchtones
+touchy
 toughener
 toughens
 toughing
@@ -64530,6 +64564,7 @@ vendables
 vendee
 vendibly
 venditions
+vendue
 vendues
 veneered
 veneers
