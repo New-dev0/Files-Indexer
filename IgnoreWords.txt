@@ -3226,6 +3226,7 @@ askew
 askewness
 askewnesses
 askoi
+askos
 aslope
 asocial
 asparagine
@@ -3907,6 +3908,7 @@ axal
 axe
 axed
 axels
+axeman
 axemen
 axenically
 axial
@@ -5717,6 +5719,7 @@ birthstones
 birthworts
 biryani
 biryanis
+biscuit
 bise
 bisect
 bisecting
@@ -5934,6 +5937,7 @@ bleaches
 bleakly
 bleakness
 bleared
+bleareyed
 blearier
 blearily
 bleat
@@ -8272,6 +8276,7 @@ caracals
 caracaras
 caracoling
 caracolling
+caracols
 caracul
 carafe
 carambola
@@ -11437,6 +11442,7 @@ conceived
 conceives
 concelebrant
 concelebration
+concent
 concentrating
 concentrator
 concentrators
@@ -14792,6 +14798,7 @@ degendering
 degenerate
 degenerating
 degenerative
+degerm
 deglaciated
 deglamorize
 deglamorizes
@@ -20417,6 +20424,7 @@ explanatorily
 explantation
 explanted
 explicable
+explicate
 explicates
 explicating
 explication
@@ -20922,12 +20930,14 @@ farads
 farandoles
 farced
 farcers
+farcical
 farcicalities
 farcy
 fard
 farded
 fardels
 farding
+fards
 fareboxes
 farers
 farewell
@@ -22583,6 +22593,7 @@ forfeiting
 forfended
 forgathered
 forge
+forgeability
 forgeries
 forges
 forgetful
@@ -23489,6 +23500,7 @@ gallivanted
 gallivanting
 galliwasp
 gallnuts
+gallonage
 gallonages
 gallons
 galloons
@@ -24384,6 +24396,7 @@ gliomata
 glissade
 glissader
 glissaders
+glissades
 glissandi
 glissandos
 glisten
@@ -27844,6 +27857,7 @@ hymnbook
 hymnbooks
 hymning
 hymnless
+hymnlike
 hymnodies
 hymnodist
 hyoidal
@@ -28332,6 +28346,7 @@ immane
 immanent
 immanentism
 immanentisms
+immanentists
 immaterialisms
 immaterialists
 immaterializes
@@ -29230,6 +29245,7 @@ infamy
 infancies
 infancy
 infant
+infantas
 infante
 infanticide
 infantile
@@ -29407,6 +29423,7 @@ inharmonious
 inharmony
 inhere
 inherences
+inhering
 inherit
 inheritableness
 inheritors
@@ -29989,6 +30006,7 @@ interphalangeal
 interphase
 interphases
 interplants
+interplays
 interpleaded
 interpleaders
 interpleading
@@ -34152,6 +34170,7 @@ maligned
 maligner
 maligning
 maligns
+malihini
 malines
 malingering
 malison
@@ -39242,6 +39261,7 @@ nummary
 nummular
 nun
 nunchakus
+nunciature
 nunciatures
 nuncio
 nuncios
@@ -39517,6 +39537,7 @@ oceangoing
 oceanic
 oceanographies
 oceanography
+oceanologists
 oceloid
 ocelot
 ochered
@@ -40042,6 +40063,7 @@ orders
 ordinand
 ordinarier
 ordinaries
+ordinariness
 ordinary
 ordinates
 ordines
@@ -41573,6 +41595,7 @@ package
 packaged
 packager
 packed
+packer
 packers
 packet
 packeted
@@ -42453,6 +42476,7 @@ patriotically
 patriotisms
 patristic
 patristics
+patrol
 patroller
 patrolling
 patronal
@@ -43109,6 +43133,7 @@ perpends
 perpents
 perpetrated
 perpetrating
+perpetrations
 perpetrator
 perpetrators
 perpetual
@@ -48961,6 +48986,7 @@ reflations
 reflect
 reflecting
 reflectional
+reflections
 reflectively
 reflectivity
 reflectorized
@@ -50136,6 +50162,7 @@ respirometer
 respirometric
 respirometries
 respirometry
+respites
 resplendencies
 resplendency
 resplendent
@@ -51015,6 +51042,7 @@ robustly
 rocaille
 rocambole
 rochets
+rock
 rockabies
 rockabilly
 rockable
@@ -52493,6 +52521,7 @@ sclerotic
 sclerotin
 scoffed
 scoffing
+scofflaws
 scoffs
 scold
 scolded
@@ -54344,6 +54373,7 @@ simpleton
 simplexes
 simplices
 simplicial
+simplicities
 simplifiers
 simplifying
 simplisms
@@ -55702,6 +55732,7 @@ soubrettes
 soucars
 souchongs
 soudan
+soudans
 souffle
 sough
 soughed
@@ -58945,6 +58976,7 @@ symphonically
 symphonist
 symphonists
 symphyseal
+symphysis
 sympodial
 symposiac
 symposiarch
@@ -60289,6 +60321,7 @@ thinly
 thinned
 thinness
 thinnesses
+thinning
 thinnish
 thiocyanate
 thiocyanates
@@ -61005,6 +61038,7 @@ torched
 torches
 torchieres
 torchlike
+torchon
 torchy
 torcs
 tore
@@ -64285,6 +64319,7 @@ upstandingness
 upstared
 upstart
 upstarting
+upstate
 upstepped
 upstir
 upstroke
