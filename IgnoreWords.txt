@@ -6843,6 +6843,7 @@ breechblocks
 breechclouts
 breeches
 breeching
+breechloader
 breechloaders
 breeding
 breedings
@@ -8211,6 +8212,7 @@ car
 carabao
 carabid
 carabin
+carabiners
 carabines
 carabinier
 carabiniers
@@ -10066,6 +10068,7 @@ clam
 clambakes
 clamberer
 clamlike
+clammed
 clammers
 clammier
 clammiest
@@ -10904,6 +10907,7 @@ collectivizing
 collector
 collectors
 collectorship
+collects
 collegers
 colleges
 collegia
@@ -11746,6 +11750,7 @@ consolation
 consolations
 consolidated
 consolidates
+consolidating
 consolidation
 consolidators
 consomme
@@ -13707,6 +13712,7 @@ cyanins
 cyanite
 cyanites
 cyanoacrylates
+cyanobacteria
 cyanobacterium
 cyanocobalamin
 cyanocobalamine
@@ -14138,6 +14144,7 @@ dayroom
 days
 dayside
 daysides
+daysman
 daysmen
 daytime
 daytimes
@@ -19076,6 +19083,7 @@ entrained
 entraining
 entrainment
 entrance
+entranced
 entrancements
 entranceways
 entrants
@@ -21736,6 +21744,7 @@ flavanone
 flavin
 flavine
 flavones
+flavonoid
 flavonols
 flavoproteins
 flavorfully
@@ -23143,6 +23152,7 @@ furuncle
 furuncles
 fury
 furze
+furzier
 fusains
 fusaria
 fusarium
@@ -26170,6 +26180,7 @@ hecticly
 hectograms
 hectoliter
 hectoliters
+hectometer
 hectors
 heddles
 heder
@@ -26288,6 +26299,7 @@ hemagglutinates
 hemagglutinin
 hemagogs
 hemal
+hematic
 hematics
 hematines
 hematinics
@@ -29386,6 +29398,7 @@ insentient
 inseparables
 inserter
 inserting
+inserts
 inset
 insets
 insetter
@@ -29813,6 +29826,7 @@ interrupters
 interruptible
 interrupting
 interrupts
+inters
 interscholastic
 interschool
 intersect
@@ -29894,6 +29908,7 @@ intimates
 intimation
 intimations
 intimidating
+intimidation
 intimidator
 intinctions
 intines
@@ -38571,6 +38586,7 @@ nonoccupational
 nonoccurrence
 nonofficial
 nonofficials
+nonoperating
 nonoperative
 nonorthodox
 nonowners
@@ -39635,6 +39651,7 @@ operosely
 operoseness
 operosenesses
 ophidians
+ophiolite
 ophiolites
 ophite
 ophites
@@ -41107,6 +41124,7 @@ overthrew
 overthrowing
 overtightened
 overtimed
+overtimid
 overtiming
 overtire
 overtired
@@ -43318,6 +43336,7 @@ photophases
 photophobic
 photophores
 photoplay
+photopolymers
 photoproduction
 photoreceptions
 photoreceptors
@@ -47643,6 +47662,7 @@ raster
 rasters
 rat
 ratable
+ratals
 ratanies
 ratany
 rataplans
@@ -48219,6 +48239,7 @@ recontaminates
 recontaminating
 recontoured
 recontouring
+reconvenes
 reconvening
 reconverts
 reconveys
@@ -49200,6 +49221,7 @@ remoistens
 remolades
 remolds
 remonstrance
+remonstrances
 remonstrate
 remonstration
 remonstratively
@@ -50148,6 +50170,7 @@ reveals
 revegetate
 revegetations
 revehent
+reveilles
 revel
 revelation
 revelations
@@ -50849,6 +50872,7 @@ rostellums
 rostrate
 rostrum
 rotameter
+rotary
 rotates
 rotations
 rotatively
@@ -50925,6 +50949,7 @@ rouped
 roupet
 roupier
 roupiest
+rouse
 rouseabouts
 rousements
 rousingly
@@ -53292,6 +53317,7 @@ shearlings
 shears
 sheas
 sheatfish
+sheathed
 sheather
 sheaved
 sheaves
@@ -54571,6 +54597,7 @@ slumberer
 slumberers
 slumbering
 slumberous
+slumgullion
 slumgullions
 slumgum
 slumgums
@@ -55483,6 +55510,7 @@ spathic
 spathose
 spatiotemporal
 spatted
+spattering
 spatzle
 spavies
 spaviet
@@ -58291,6 +58319,7 @@ swag
 swagers
 swages
 swagger
+swaggering
 swaggeringly
 swaggers
 swaggie
@@ -62046,6 +62075,7 @@ tyrannical
 tyrannicides
 tyrannised
 tyrannising
+tyrannize
 tyrannizes
 tyrannosaurs
 tyrannously
@@ -63450,6 +63480,7 @@ unseemliness
 unseen
 unsegregated
 unselfish
+unselfishness
 unselfishnesses
 unselling
 unsells
@@ -63458,6 +63489,7 @@ unsentimental
 unserved
 unsetting
 unsettle
+unsettled
 unsettlednesses
 unsettlements
 unsew
@@ -63660,6 +63692,7 @@ unveil
 unveiled
 unveiling
 unveilings
+unveils
 unveined
 unversed
 unvested
@@ -65685,6 +65718,7 @@ wharfmasters
 wharve
 wharves
 whatchamacallit
+whatnot
 whatnots
 whatsises
 whatsoever
@@ -65980,6 +66014,7 @@ wilily
 wilinesses
 wiling
 willemite
+willemites
 willers
 willet
 willful
