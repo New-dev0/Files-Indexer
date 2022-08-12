@@ -161,6 +161,7 @@ accelerates
 accelerative
 accenting
 accentor
+accentually
 accentuation
 accept
 acceptabilities
@@ -2852,6 +2853,7 @@ arcades
 arcadian
 arcana
 arcanums
+arccosine
 arced
 arch
 archaeal
@@ -2910,6 +2912,7 @@ archosaurs
 archrival
 archrivals
 arcing
+arctangent
 arctic
 arctics
 arcuately
@@ -3490,6 +3493,7 @@ atonalisms
 atonalities
 atonally
 atone
+atoneable
 atoned
 atonicity
 atonics
@@ -8850,6 +8854,7 @@ cementa
 cementers
 cementite
 cementitious
+cements
 cemeteries
 cenobite
 cenobitic
@@ -12066,6 +12071,7 @@ cookies
 cookoff
 cookout
 cookshack
+cookshacks
 cookshops
 cookstove
 cookware
@@ -12892,6 +12898,7 @@ crawlers
 crawling
 crawls
 crawlway
+crawly
 craws
 crayon
 crayoners
@@ -15628,6 +15635,7 @@ diamagnet
 diamagnetic
 diamante
 diamantes
+diameter
 diamin
 diamins
 diamond
@@ -16734,6 +16742,7 @@ diurnal
 diurons
 divalences
 divans
+divaricate
 divarications
 divebombed
 divebombing
@@ -20545,6 +20554,7 @@ fablers
 fables
 fabling
 fabricants
+fabricate
 fabricates
 fabulates
 fabulating
@@ -26212,6 +26222,7 @@ hedonist
 hedonists
 heeder
 heeders
+heedful
 heedfulness
 heedlessly
 heeds
@@ -27653,6 +27664,7 @@ hyetal
 hygeist
 hygieist
 hygienic
+hygienically
 hygrometer
 hygrometers
 hygroscopicity
@@ -28942,6 +28954,7 @@ induced
 inducement
 inducer
 inducing
+induct
 inducted
 inductee
 inductees
@@ -30473,6 +30486,7 @@ jackfruit
 jackfruits
 jackhammers
 jackies
+jacking
 jackknife
 jackknifing
 jacklegs
@@ -36384,6 +36398,7 @@ monarchists
 monarchs
 monarchy
 monarda
+monastery
 monasticism
 monasticisms
 monatomic
@@ -37161,6 +37176,7 @@ munnion
 munster
 muntins
 muntjac
+muntjaks
 muon
 muonium
 mura
@@ -40421,6 +40437,7 @@ outrigger
 outriggers
 outrigs
 outring
+outringing
 outrings
 outrivalling
 outroar
@@ -43657,6 +43674,7 @@ pilferages
 pilfered
 pilferers
 pilgrimages
+pilgrimaging
 piliform
 pilings
 pilis
@@ -47432,6 +47450,7 @@ radiobiologist
 radiobiology
 radiochemists
 radioecologies
+radiographic
 radioisotope
 radioisotopes
 radioisotopic
@@ -48492,6 +48511,7 @@ redry
 reds
 redshift
 redshifted
+redshirt
 redshirts
 redskin
 redskins
@@ -48964,6 +48984,7 @@ reinitiated
 reinjecting
 reinjections
 reinjure
+reinked
 reinks
 reinless
 reinoculated
@@ -50351,6 +50372,7 @@ rhaphae
 rhaphe
 rhaphes
 rhematic
+rheme
 rhemes
 rhenium
 rheobases
@@ -51904,6 +51926,7 @@ scaldic
 scalding
 scale
 scalelike
+scaleni
 scalepan
 scaler
 scales
@@ -53432,6 +53455,7 @@ sherds
 shereef
 shergottites
 sherifs
+sherlocks
 sheroots
 sherpas
 sherries
@@ -53453,6 +53477,7 @@ shiel
 shield
 shielders
 shields
+shier
 shiers
 shies
 shiest
@@ -53811,6 +53836,7 @@ sickliest
 sickliness
 sickly
 sickness
+sicknesses
 sickos
 sickouts
 sics
@@ -54642,6 +54668,7 @@ slurb
 slurban
 slurbs
 slurping
+slurred
 slurrying
 slurs
 slush
@@ -55226,6 +55253,7 @@ somewhither
 somital
 sommeliers
 somnambulates
+somnambulations
 somnambulist
 somnifacient
 somnifacients
@@ -56268,6 +56296,7 @@ stairheads
 stairless
 stairlike
 stairs
+stairstep
 stairstepping
 stairwells
 staithe
@@ -56782,6 +56811,7 @@ stomal
 stomas
 stomatal
 stomatitides
+stomatitis
 stomatous
 stomodaea
 stomodaeal
@@ -57141,6 +57171,7 @@ studiers
 studio
 studiousnesses
 studlier
+studly
 studs
 studworks
 studying
@@ -58691,6 +58722,7 @@ syngases
 syngenic
 synkarya
 synod
+synoicous
 synonymic
 synonymity
 synonymize
@@ -61199,6 +61231,7 @@ treenware
 treetop
 treetops
 trehalas
+trehaloses
 treillages
 trellises
 trelliswork
@@ -66166,6 +66199,7 @@ winterkill
 winterly
 wintertide
 wintertides
+wintle
 wintriness
 winze
 wipers
@@ -66348,6 +66382,7 @@ woodman
 woodnote
 woodpecker
 woodpiles
+woodruff
 woodshedding
 woodsia
 woodsias
