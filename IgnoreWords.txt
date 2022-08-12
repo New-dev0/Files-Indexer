@@ -1081,6 +1081,7 @@ airscrews
 airshed
 airsheds
 airshot
+airshow
 airshows
 airsicknesses
 airspace
@@ -8627,6 +8628,7 @@ catechol
 catecholamine
 catechols
 catechumens
+catechus
 categorically
 categorised
 categorises
@@ -11518,6 +11520,7 @@ confine
 confined
 confinement
 confiner
+confirm
 confirmands
 confirmation
 confirmations
@@ -12886,6 +12889,7 @@ creakiest
 creaky
 creamcups
 creamers
+creamily
 creaminess
 creaminesses
 creaming
@@ -13396,6 +13400,7 @@ cuisses
 cuittle
 cuittled
 cuke
+culch
 culet
 culicid
 culinary
@@ -14726,6 +14731,7 @@ dejecta
 dejectednesses
 dejecting
 dejeuners
+dekagram
 dekaliter
 dekalitres
 dekameter
@@ -15264,6 +15270,7 @@ desiderate
 desiderated
 desiderating
 desiderative
+designates
 designation
 designators
 designs
@@ -16261,6 +16268,7 @@ disembodying
 disembogues
 disembowelments
 disemploy
+disemployed
 disemploying
 disenable
 disenchanters
@@ -16664,6 +16672,7 @@ disturbingly
 disturbs
 disulfates
 disulfide
+disulfids
 disulfoton
 disunions
 disuniter
@@ -18781,6 +18790,7 @@ energies
 energise
 energize
 energized
+energizer
 energizers
 energizes
 energumens
@@ -20685,6 +20695,7 @@ familisms
 familistic
 faming
 famishment
+famousness
 fan
 fanatical
 fanaticalnesses
@@ -21200,6 +21211,7 @@ fibbing
 fibered
 fiberfill
 fiberglassed
+fiberglassing
 fiberized
 fiberizes
 fiberless
@@ -27402,6 +27414,7 @@ humiliations
 humiture
 humitures
 hummer
+hummers
 hummocks
 humongous
 humored
@@ -28057,6 +28070,7 @@ imagoes
 imamates
 imbalance
 imbalm
+imbalms
 imbarking
 imbecilic
 imbecilities
@@ -32819,6 +32833,7 @@ linoleates
 linoleum
 linos
 linsangs
+linseed
 linstock
 linter
 linters
@@ -35483,6 +35498,7 @@ millimicrons
 millimolar
 millimole
 milline
+millineries
 milliohms
 million
 millionairesses
@@ -37142,6 +37158,7 @@ muscadines
 muscatel
 muscatels
 muscid
+muscleman
 muscling
 muscovados
 muscularly
@@ -37433,6 +37450,7 @@ nankin
 nankins
 nannyish
 nanogram
+nanometer
 nanometres
 nanoseconds
 nanotech
@@ -38210,6 +38228,7 @@ nonbasic
 nonbearing
 nonbeing
 nonbeings
+nonbeliever
 nonbelievers
 nonbetting
 nonbinary
@@ -40115,6 +40134,7 @@ outdoorsy
 outdragged
 outdrags
 outdrawn
+outdraws
 outdreaming
 outdressed
 outdrink
@@ -40153,6 +40173,7 @@ outfitters
 outfitting
 outflank
 outflanks
+outflies
 outfloated
 outflowing
 outflown
@@ -41792,6 +41813,7 @@ parasitologic
 parasitological
 parasitologist
 parasitologists
+parasitology
 parasol
 parasympathetic
 parasyntheses
@@ -42264,6 +42286,7 @@ peashooters
 peasoupers
 peatier
 peatiest
+peaveys
 peavy
 pebbling
 peccadilloes
@@ -43681,6 +43704,7 @@ pintado
 pintadoes
 pintados
 pintails
+pintano
 pintle
 pintles
 pinto
@@ -46551,6 +46575,7 @@ pugilism
 pugilisms
 pugilist
 pugilists
+pugmark
 pugnacious
 pugnaciously
 pugrees
@@ -47081,6 +47106,7 @@ queendom
 queendoms
 queened
 queenliness
+queenlinesses
 queenly
 queenside
 queerish
@@ -47314,10 +47340,12 @@ radical
 radicalise
 radicalising
 radicalisms
+radicalizations
 radicalize
 radicalizing
 radicals
 radicands
+radicate
 radicated
 radicates
 radicating
@@ -50738,6 +50766,7 @@ rooter
 roothold
 rootholds
 rootiest
+rootiness
 rootlike
 rootling
 rootstalk
@@ -51449,9 +51478,11 @@ sanctified
 sanctifies
 sanctify
 sanctifying
+sanctimonious
 sanction
 sanctionable
 sanctioning
+sanctums
 sandable
 sandaling
 sandalled
@@ -51657,6 +51688,7 @@ satisfier
 satisfies
 satisfy
 satisfyingly
+satori
 satoris
 satraps
 satsumas
@@ -52696,6 +52728,7 @@ semiologies
 semiologists
 semiology
 semiopaque
+semioses
 semiotic
 semioticist
 semioticists
@@ -65801,6 +65834,7 @@ whoopers
 whoops
 whoosh
 whooshes
+whooshing
 whoosis
 whopper
 whorehouse
@@ -66798,6 +66832,7 @@ zester
 zestfulnesses
 zestier
 zestiest
+zesting
 zeugmas
 zibeline
 zidovudine
