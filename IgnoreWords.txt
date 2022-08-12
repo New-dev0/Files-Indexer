@@ -1640,6 +1640,7 @@ aminoacidurias
 aminopterin
 aminopterins
 amirates
+amirs
 amitotic
 amitriptylines
 ammine
@@ -2628,6 +2629,7 @@ apospories
 apospory
 apostasies
 apostatised
+apostatises
 apostatizing
 apostils
 apostle
@@ -4008,6 +4010,7 @@ backbench
 backbenchers
 backbenches
 backbone
+backboned
 backbreakers
 backbreaking
 backcasts
@@ -7713,6 +7716,7 @@ caddies
 caddis
 caddised
 caddisfly
+caddishly
 caddishness
 caddisworms
 caddy
@@ -8864,6 +8868,7 @@ cellular
 cellulars
 cellulites
 cellulitis
+cellulitises
 celluloses
 cellulous
 celom
@@ -10323,6 +10328,7 @@ clitorises
 clivias
 cloaca
 cloacal
+cloacas
 cloak
 cloaked
 cloaking
@@ -12026,6 +12032,7 @@ conventicler
 conventiclers
 conventionality
 convents
+conventual
 conventuals
 converged
 convergences
@@ -12480,6 +12487,7 @@ cosmoline
 cosmolines
 cosmolining
 cosmologies
+cosmologists
 cosmology
 cosmonauts
 cosmopolises
@@ -12922,6 +12930,7 @@ cravening
 craver
 craving
 cravings
+crawdaddies
 crawfish
 crawfished
 crawfishes
@@ -16122,6 +16131,7 @@ dirtiest
 dirtiness
 dirtinesses
 dirts
+dirty
 disability
 disablers
 disables
@@ -18309,6 +18319,7 @@ electroforms
 electrogenic
 electrogram
 electrograms
+electrokinetics
 electroless
 electrologies
 electrology
@@ -18509,6 +18520,7 @@ embosks
 embosses
 embossing
 embossments
+embouchures
 embow
 embowed
 embowel
@@ -19153,6 +19165,7 @@ entrainment
 entrance
 entranced
 entrancements
+entrances
 entranceways
 entrants
 entrapment
@@ -21376,6 +21389,7 @@ fierinesses
 fiery
 fifer
 fifes
+fifteen
 fifties
 fifty
 figged
@@ -22742,6 +22756,7 @@ framers
 frameshift
 framework
 frameworks
+framings
 franc
 franchise
 franchisees
@@ -25107,6 +25122,7 @@ grit
 griths
 grits
 grittiest
+grittinesses
 gritty
 grivets
 grizzle
@@ -25952,6 +25968,7 @@ harmlessness
 harmonic
 harmonically
 harmonies
+harmoniousness
 harmonium
 harmonizations
 harmonize
@@ -27519,6 +27536,7 @@ humerals
 humid
 humidex
 humidexes
+humidification
 humidifications
 humidifier
 humidistat
@@ -34129,6 +34147,7 @@ managerships
 mananas
 manches
 manchineel
+mandalic
 mandamus
 mandamused
 mandamuses
@@ -34529,6 +34548,7 @@ masturbating
 masturbator
 matchboard
 matchboxes
+matching
 matchless
 matchlessly
 matchmake
@@ -36907,6 +36927,7 @@ motivator
 motivators
 motive
 motivelessly
+motivity
 motleyest
 motliest
 motmots
@@ -39356,6 +39377,7 @@ obviators
 obviousnesses
 obvolute
 ocarina
+occasioned
 occidentalizing
 occidentally
 occidents
@@ -39635,6 +39657,7 @@ omissible
 omission
 omits
 omitted
+omitter
 omitters
 omitting
 ommatidia
@@ -40391,6 +40414,7 @@ outhustled
 outing
 outings
 outintrigue
+outjinx
 outjinxed
 outjinxes
 outjockey
@@ -42658,6 +42682,7 @@ penman
 pennames
 pennant
 penned
+pennia
 pennies
 penniless
 pennon
@@ -43048,6 +43073,7 @@ pertest
 pertinence
 pertinences
 pertinencies
+pertly
 pertness
 perturbation
 perturbational
@@ -47037,6 +47063,7 @@ pycnometers
 pycnoses
 pycnosis
 pycnotic
+pyelitis
 pyelonephritic
 pyelonephritis
 pyemia
@@ -47463,6 +47490,7 @@ rabbits
 rabbled
 rabblement
 rabbles
+rabboni
 rabbonis
 rabid
 rabidity
@@ -47507,6 +47535,7 @@ racketier
 rackfuls
 racking
 rackingly
+rackle
 rackwork
 rackworks
 racons
@@ -54931,6 +54960,7 @@ snaffles
 snafued
 snafuing
 snag
+snaggy
 snags
 snail
 snailed
@@ -54950,6 +54980,7 @@ snapback
 snapbacks
 snapped
 snappers
+snappily
 snappishly
 snappishnesses
 snaps
@@ -59773,6 +59804,7 @@ terraforming
 terrains
 terrapin
 terrarium
+terrases
 terrazzo
 terrella
 terrenes
@@ -63670,6 +63702,7 @@ unseamed
 unsearchably
 unseasonably
 unseat
+unseats
 unseaworthy
 unseeable
 unseeing
@@ -64874,6 +64907,7 @@ videlicet
 videoconference
 videodisks
 videographer
+videographers
 videographies
 videolands
 videophile
@@ -65686,6 +65720,7 @@ wavelengths
 wavelet
 wavelike
 wavellites
+waveoff
 waveringly
 wavers
 wavery
