@@ -3542,6 +3542,7 @@ attainability
 attainable
 attainder
 attained
+attainment
 attainting
 attars
 attempering
@@ -4935,6 +4936,7 @@ beggarly
 begin
 beginning
 begirded
+begirds
 begirt
 beglad
 begladded
@@ -6790,6 +6792,7 @@ brasseries
 brasses
 brassieres
 brassiest
+brassinesses
 brat
 brattice
 bratticed
@@ -10338,6 +10341,7 @@ clinker
 clinkering
 clinks
 clinometers
+clippable
 clipped
 clipper
 clippers
@@ -10621,6 +10625,7 @@ cochineal
 cochlea
 cochleas
 cochleate
+cocineras
 cockade
 cockaded
 cockalorums
@@ -10684,6 +10689,7 @@ cocounselled
 cocoyam
 cocoyams
 cocreate
+cocreated
 cocreating
 cocreator
 cocreators
@@ -11986,6 +11992,7 @@ continue
 continuer
 continuities
 continuo
+continuos
 continuum
 contort
 contortionists
@@ -16364,6 +16371,7 @@ discoverer
 discovers
 discovery
 discreditable
+discreditably
 discredited
 discreetest
 discreetly
@@ -22937,6 +22945,7 @@ fremituses
 frena
 frenches
 frenchified
+frenchify
 frenchifying
 frenetic
 frenetically
@@ -24302,6 +24311,7 @@ glamorizations
 glamorized
 glamorizers
 glamorizes
+glamorous
 glamorousness
 glamorousnesses
 glamors
@@ -26050,6 +26060,7 @@ harmlessly
 harmlessness
 harmonic
 harmonically
+harmonics
 harmonies
 harmoniousness
 harmonium
@@ -26627,6 +26638,7 @@ herd
 herdic
 herdlike
 herdmen
+herds
 hereabouts
 hereafters
 heredes
@@ -30578,6 +30590,7 @@ isoplethic
 isoprenoid
 isopropyls
 isoproterenol
+isopycnic
 isosmotically
 isospories
 isostacies
@@ -30865,6 +30878,7 @@ jerk
 jerker
 jerkier
 jerkies
+jerkiest
 jerkins
 jerks
 jerreed
@@ -31902,6 +31916,7 @@ kyboshing
 kyes
 kylikes
 kylix
+kymogram
 kymograph
 kymographies
 kymography
@@ -35238,6 +35253,7 @@ meshiest
 meshing
 meshugah
 meshugga
+meshworks
 mesically
 mesmeric
 mesmerise
@@ -37869,6 +37885,7 @@ nauseous
 nauseously
 nautch
 nautches
+nautical
 nautili
 nautiloids
 nautilus
@@ -37999,6 +38016,7 @@ neifs
 neigh
 neighboring
 neighborly
+neighbors
 neighbour
 neighbouring
 neighing
@@ -44351,6 +44369,7 @@ platted
 platter
 platterful
 platyfish
+platyfishes
 platyhelminthic
 plausibilities
 plausibleness
@@ -47770,6 +47789,7 @@ radome
 radomes
 radon
 radular
+raffia
 raffias
 raffinate
 raffinose
@@ -48203,6 +48223,7 @@ really
 realms
 realness
 realpolitik
+reals
 realter
 realtering
 ream
@@ -48274,6 +48295,7 @@ reassignment
 reassignments
 reassorted
 reassorting
+reassorts
 reassumed
 reassumes
 reassuring
@@ -51647,6 +51669,7 @@ saddlebreds
 saddlecloths
 saddleries
 saddlery
+saddletree
 saddletrees
 sade
 sades
@@ -52857,6 +52880,7 @@ secateur
 secateurs
 seccos
 secern
+secessionists
 seclude
 secludedly
 secludes
@@ -55276,6 +55300,7 @@ snot
 snottily
 snottiness
 snout
+snoutiest
 snowbank
 snowbanks
 snowbell
@@ -55456,6 +55481,7 @@ soiree
 sojourners
 sojourns
 sokol
+solacement
 solacer
 solacing
 solanders
@@ -55519,6 +55545,7 @@ solidly
 solifluction
 soliloquies
 soliloquise
+soliloquised
 soliloquized
 solion
 solions
@@ -58141,6 +58168,7 @@ sughs
 suicided
 suicides
 suing
+suit
 suitably
 suitcases
 suite
@@ -59553,6 +59581,7 @@ taxemic
 taxicab
 taxicabs
 taxidermic
+taximen
 taximeter
 taximeters
 taxis
@@ -60132,6 +60161,7 @@ thanatologist
 thanatologists
 thanes
 thank
+thanked
 thanker
 thankers
 thankfully
@@ -61445,6 +61475,7 @@ transmogrified
 transmogrifies
 transmutative
 transnational
+transnatural
 transonic
 transparence
 transparency
@@ -62762,6 +62793,7 @@ unawarded
 unawesome
 unbacked
 unbaked
+unbalance
 unbalances
 unbale
 unbaled
@@ -63972,6 +64004,7 @@ unsophisticated
 unsorted
 unsound
 unsounded
+unsounder
 unsoundest
 unsoundly
 unsoundness
@@ -66274,6 +66307,7 @@ whiptail
 whipworm
 whirled
 whirlers
+whirliest
 whirlpool
 whirlwinds
 whirly
@@ -67104,6 +67138,7 @@ yarely
 yarest
 yarmelke
 yarmelkes
+yarmulkes
 yarn
 yarning
 yarrows
