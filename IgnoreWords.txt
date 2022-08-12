@@ -549,6 +549,7 @@ adipose
 adiposity
 adit
 adjacencies
+adjacent
 adjectival
 adjectivally
 adjective
@@ -686,6 +687,7 @@ adventurist
 adventurous
 adverb
 adverbial
+adverbially
 adverbials
 adversaries
 adversariness
@@ -4517,6 +4519,7 @@ bassy
 bast
 bastardies
 bastardises
+bastardizations
 bastardize
 bastardized
 bastardy
@@ -5583,6 +5586,7 @@ bioreactor
 bioregionalism
 bioregionalisms
 bioregions
+bioremediation
 biorhythm
 bioscientist
 bioscientists
@@ -11551,6 +11555,7 @@ confirmers
 confiscable
 confiscate
 confiscating
+confiscations
 conflagrant
 conflagrations
 conflate
@@ -11749,6 +11754,7 @@ considerate
 consign
 consignation
 consigned
+consigner
 consigns
 consist
 consisted
@@ -13596,6 +13602,7 @@ currieries
 curry
 currycombing
 currying
+curse
 cursed
 cursedness
 cursers
@@ -13645,6 +13652,7 @@ cushions
 cusp
 cuspated
 cusped
+cuspidate
 cuspidation
 cuspids
 cuspis
@@ -17348,6 +17356,7 @@ drawnwork
 drawplates
 draws
 drawshave
+drawshaves
 drawstring
 drawtube
 drawtubes
@@ -18187,6 +18196,7 @@ eightvo
 eikons
 einkorn
 einsteinium
+einsteiniums
 einsteins
 eirenic
 eisegeses
@@ -18197,6 +18207,7 @@ ejaculates
 ejaculation
 ejaculator
 ejaculators
+ejaculatory
 eject
 ejecta
 ejected
@@ -18646,6 +18657,7 @@ encapsulation
 encapsuling
 encasements
 encash
+encashed
 encashment
 encashments
 encasing
@@ -23733,6 +23745,7 @@ gemsbok
 gemsboks
 gemstones
 gen
+gendarme
 gendarmes
 gender
 gendering
@@ -23807,6 +23820,7 @@ gentrified
 gentrify
 gentrifying
 genua
+genuflect
 genuflections
 genuflects
 genuinenesses
@@ -24633,6 +24647,7 @@ gotten
 gouaches
 gouge
 gouged
+gouger
 gouges
 goulash
 goulashes
@@ -25061,6 +25076,7 @@ grodier
 grody
 groggeries
 groggery
+groggy
 grogs
 grogshop
 groin
@@ -28064,6 +28080,7 @@ illimitableness
 illimitably
 illiquid
 illite
+illiteracy
 illiterately
 illitic
 illocutionary
@@ -28328,6 +28345,7 @@ impelling
 impellors
 impels
 impend
+impendent
 impenetrable
 impenitent
 impenitently
@@ -32123,6 +32141,7 @@ laticifers
 latifundio
 latifundios
 latillas
+latinas
 latinization
 latinized
 latinizing
@@ -32280,6 +32299,7 @@ leaguers
 leagues
 leak
 leakage
+leaked
 leaker
 leakier
 leakily
@@ -35954,6 +35974,7 @@ misgrew
 misgrow
 misguessed
 misguidance
+misguidances
 misguidedly
 misguider
 misguides
@@ -36260,6 +36281,7 @@ mod
 modalities
 modality
 modals
+mode
 model
 modelers
 modelings
@@ -37111,6 +37133,7 @@ multiracialism
 multirange
 multiscreen
 multiskilled
+multisource
 multistage
 multistoried
 multistranded
@@ -44365,6 +44388,7 @@ pointmen
 points
 pointy
 poisers
+poises
 poisoned
 poisoner
 poisoning
@@ -44608,6 +44632,7 @@ pomologists
 pomology
 pomp
 pompadour
+pompadours
 pompanos
 pompoms
 pompons
@@ -49433,6 +49458,7 @@ repercussion
 reperked
 reperking
 reperks
+repertories
 repetends
 repetitions
 repetitious
@@ -49879,6 +49905,7 @@ responding
 responds
 responsa
 response
+responsions
 responsive
 responsiveness
 responsories
@@ -49908,6 +49935,7 @@ restation
 restationed
 restations
 restaurant
+restauranteur
 restauranteurs
 restaurants
 restaurateur
@@ -52162,6 +52190,7 @@ scientism
 scientisms
 scientized
 scientizing
+scilicet
 scillas
 scimetars
 scimitar
@@ -52704,6 +52733,7 @@ seismometers
 seismometries
 seismometry
 seisms
+seisors
 seitans
 seizer
 seizers
@@ -61422,6 +61452,7 @@ trihybrid
 trihydroxy
 trijugate
 trijugous
+trikes
 trilateral
 trilbies
 trilinear
@@ -61607,6 +61638,7 @@ tropics
 tropine
 tropines
 tropism
+tropologic
 tropological
 tropologies
 tropology
@@ -65071,6 +65103,7 @@ volkslieder
 volleyed
 volleys
 volplane
+volplanes
 voltage
 voltages
 voltaism
@@ -65737,6 +65770,7 @@ weltanschauungs
 weltering
 welterweight
 welterweights
+weltings
 wended
 wendigos
 wending
@@ -66979,6 +67013,7 @@ zidovudine
 zig
 zigzagged
 zigzagger
+zigzaggers
 zillah
 zillahs
 zillion
