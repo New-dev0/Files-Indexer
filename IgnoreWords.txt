@@ -693,6 +693,7 @@ adverbials
 adversaries
 adversariness
 adversarinesses
+adverseness
 adversity
 advertent
 advertisement
@@ -1068,6 +1069,7 @@ airdropped
 airdrops
 airest
 airfares
+airfield
 airfields
 airflow
 airframes
@@ -3520,6 +3522,7 @@ atria
 atrociously
 atrociousnesses
 atrocity
+atrophied
 attaboy
 attached
 attacher
@@ -3971,6 +3974,7 @@ babassu
 babassus
 babbitries
 babbitry
+babbitts
 babbled
 babblement
 babesias
@@ -4252,6 +4256,7 @@ bamboozlements
 bamboozling
 bams
 banality
+banalize
 banalized
 banausic
 banda
@@ -10640,6 +10645,7 @@ cockswain
 cocktail
 cocktailed
 cockup
+cocoanuts
 cocoas
 cocobolas
 cocomat
@@ -14719,6 +14725,7 @@ deformities
 deformity
 defrag
 defragged
+defragger
 defraggers
 defraud
 defrayals
@@ -14980,6 +14987,7 @@ demonetizations
 demonetizes
 demoniacally
 demonic
+demonical
 demonise
 demonisms
 demonized
@@ -18694,6 +18702,7 @@ enalaprils
 enamelers
 enamelists
 enamelled
+enameller
 enamellers
 enamels
 enamored
@@ -21566,6 +21575,7 @@ firebase
 firebases
 firebird
 firebirds
+firebomb
 firebombing
 firebombs
 fireboxes
@@ -21812,6 +21822,7 @@ flatfoots
 flathead
 flatlands
 flatliners
+flatlining
 flatlong
 flatmate
 flatnesses
@@ -22730,6 +22741,7 @@ fracases
 fraction
 fractionalize
 fractionalized
+fractionalizing
 fractionated
 fractionator
 fractioned
@@ -24862,6 +24874,7 @@ grants
 grantsmanships
 grantsmen
 granularities
+granulate
 granulates
 granulation
 granulators
@@ -28026,6 +28039,7 @@ iconoclasm
 iconoclasms
 iconoclastic
 iconographies
+iconology
 iconoscopes
 icons
 icosahedra
@@ -28491,6 +28505,7 @@ impish
 impishly
 impishness
 implacabilities
+implacable
 implantable
 implantation
 implantations
@@ -28790,6 +28805,7 @@ inclips
 inclosing
 inclosure
 includable
+includes
 including
 inclusion
 inclusivenesses
@@ -30098,6 +30114,7 @@ intriguants
 intriguer
 intriguingly
 introductorily
+introfying
 introgressants
 introit
 introject
@@ -30353,6 +30370,7 @@ irredeemably
 irredenta
 irredentas
 irreducibility
+irreflexive
 irreformability
 irrefragability
 irrefragable
@@ -34581,6 +34599,7 @@ matelotes
 matelots
 materialises
 materialising
+materialisms
 materialist
 materialities
 materialize
@@ -38001,6 +38020,7 @@ nesciences
 nescient
 nescients
 nestle
+nestled
 nestler
 nestlike
 nestors
@@ -39224,6 +39244,7 @@ nymphets
 nympho
 nympholepsies
 nymphomaniacal
+nymphomaniacs
 nymphomanias
 nystagmic
 nystagmus
@@ -39778,6 +39799,7 @@ opacifies
 opalescent
 opalescently
 opalesces
+opals
 opaqued
 opaquely
 opaqueness
@@ -41074,6 +41096,7 @@ overlearn
 overlearning
 overlearns
 overlearnt
+overlend
 overlengthening
 overlengthens
 overlet
@@ -44131,6 +44154,7 @@ plaister
 plaitings
 plaits
 planar
+planarias
 planarities
 planate
 planation
@@ -46001,6 +46025,7 @@ principalships
 principia
 principle
 principles
+prinks
 printabilities
 printability
 printed
@@ -50023,6 +50048,7 @@ respecting
 respectively
 respelt
 respirable
+respirators
 respire
 respiritualized
 respirometer
@@ -52214,6 +52240,7 @@ scavenged
 scavengers
 scavenges
 scavenging
+scenarios
 scenas
 scend
 scenery
@@ -56445,6 +56472,7 @@ staffing
 stageable
 stagecoach
 stagecoaches
+stagefuls
 stagehand
 stagehands
 stages
@@ -58900,6 +58928,7 @@ synectic
 synereses
 synergetic
 synergia
+synergically
 synergisms
 synergist
 synergistic
@@ -59037,6 +59066,7 @@ taconite
 tacrines
 tact
 tactic
+tactically
 tactics
 taction
 tactlessly
@@ -63435,6 +63465,7 @@ unleaded
 unleading
 unlearned
 unlearning
+unleased
 unleavened
 unlet
 unleveled
@@ -63546,6 +63577,7 @@ unpackers
 unpainful
 unpaired
 unpalatability
+unpalatable
 unparalleled
 unpardonable
 unpastoral
@@ -66010,6 +66042,7 @@ wheedles
 wheelbarrow
 wheelbarrowing
 wheelchairs
+wheeled
 wheeler
 wheelies
 wheeling
@@ -66433,6 +66466,7 @@ wiriest
 wirily
 wirra
 wise
+wiseasses
 wiseguy
 wiselier
 wisely
@@ -66788,6 +66822,7 @@ writs
 written
 wrongdoers
 wrongdoings
+wronged
 wrongful
 wrongfulnesses
 wrongheadedly
