@@ -1467,6 +1467,7 @@ altitudinal
 altocumuli
 altogether
 altoist
+altoists
 altos
 altostrati
 altostratus
@@ -1897,6 +1898,7 @@ andante
 andantes
 andesitic
 andesytes
+andirons
 andouillette
 androecia
 androgeneses
@@ -3005,6 +3007,7 @@ armor
 armors
 armory
 armour
+armoured
 armourers
 armouries
 armouring
@@ -4130,6 +4133,7 @@ bagginesses
 bagmen
 bagnio
 bagpipe
+bagpiper
 bagpipes
 bagpiping
 baguet
@@ -8300,6 +8304,7 @@ carcasses
 carcels
 carcinogen
 carcinogenic
+carcinogenicity
 carcinoid
 carcinoma
 carcinosarcoma
@@ -10059,6 +10064,7 @@ clachans
 clacking
 clad
 claddagh
+claddings
 clades
 cladisms
 cladistic
@@ -11195,6 +11201,7 @@ communicative
 communicatively
 communicator
 communique
+communised
 communises
 communisms
 communistically
@@ -13181,6 +13188,7 @@ crossbred
 crossbreed
 crossbreeding
 crossbreeds
+crossbuck
 crosscourt
 crosscurrent
 crosscut
@@ -13914,6 +13922,7 @@ daddies
 daddles
 daddling
 dado
+dadoes
 dados
 daemon
 daffiest
@@ -14336,6 +14345,7 @@ decay
 decayed
 decayer
 decayless
+decays
 deceased
 decedent
 deceitful
@@ -15498,6 +15508,7 @@ deviant
 deviants
 deviated
 deviating
+deviation
 deviationisms
 deviators
 device
@@ -19697,6 +19708,7 @@ ethenes
 etherealization
 etherealizes
 etherealnesses
+etherization
 etherizations
 etherizer
 etherizers
@@ -20584,6 +20596,7 @@ facete
 facetiae
 facetious
 facia
+facials
 faciends
 facies
 facile
@@ -22815,6 +22828,7 @@ frenetically
 freneticism
 freneticisms
 frenula
+frenulum
 frenulums
 frenums
 frenzies
@@ -22824,6 +22838,7 @@ frequentative
 frequentest
 frequently
 freres
+fresco
 frescoed
 frescoing
 frescoist
@@ -24439,6 +24454,7 @@ gnomons
 gnoses
 gnostical
 gnosticisms
+gnostics
 gnotobiotic
 goaded
 goading
@@ -24563,6 +24579,7 @@ gonorrhea
 gonorrheal
 goober
 goobers
+good
 goodby
 goodbyes
 goodbys
@@ -26890,6 +26907,7 @@ hogmenay
 hogmenays
 hognoses
 hognuts
+hogshead
 hogtied
 hogwashes
 hoise
@@ -29996,6 +30014,7 @@ intraspecific
 intrastate
 intrathecal
 intravenous
+intravitam
 intreat
 intrenching
 intrepidity
@@ -35148,6 +35167,7 @@ metanephros
 metaphoric
 metaphosphates
 metaphysician
+metaphysics
 metaplasia
 metaplasm
 metapsychology
@@ -35347,6 +35367,7 @@ microinject
 microinjected
 microloan
 microlux
+micromanage
 micromanaged
 micromanagement
 micromanagers
@@ -35715,11 +35736,13 @@ minters
 mintier
 minuet
 minus
+minuscule
 minute
 minutely
 minuteman
 minuteness
 minuter
+minutes
 minutia
 minutiae
 minx
@@ -39407,6 +39430,7 @@ oenophile
 oenophiles
 oersteds
 oes
+oesophagi
 oestrin
 oestrones
 oestrums
@@ -40417,6 +40441,7 @@ outprices
 outproduce
 outproducing
 outpromised
+outpull
 outpulling
 outpunch
 outpupil
@@ -40452,6 +40477,7 @@ outreasons
 outrebounded
 outrebounding
 outrebounds
+outreckoned
 outreckoning
 outrider
 outrig
@@ -44217,6 +44243,7 @@ pliskies
 plisse
 ploidy
 plop
+plopped
 plops
 plosion
 plosions
@@ -50451,6 +50478,7 @@ rhodolite
 rhodomontades
 rhodonite
 rhodora
+rhodoras
 rhombencephala
 rhombohedra
 rhomboidal
@@ -50614,6 +50642,7 @@ riling
 rille
 rimer
 rimers
+rimfires
 riming
 rimland
 rimless
@@ -51530,6 +51559,7 @@ saltbush
 salter
 saltern
 saltiers
+saltiest
 saltish
 saltpans
 saltpeter
@@ -51801,6 +51831,7 @@ satieties
 satinette
 satinwoods
 satires
+satirically
 satirised
 satirists
 satirize
@@ -53324,6 +53355,7 @@ shampooers
 shampooing
 shampoos
 shamrocks
+shams
 shamus
 shamuses
 shandygaffs
@@ -64764,6 +64796,7 @@ victorias
 victoriously
 victors
 victualed
+victualer
 victualling
 vicunas
 vid
@@ -65245,6 +65278,7 @@ waded
 waders
 wadies
 wading
+wadmaal
 wadmels
 wadmoll
 wadmols
@@ -65591,6 +65625,7 @@ waveshapes
 wavey
 wavicle
 wavicles
+wavier
 wavies
 wavily
 waviness
