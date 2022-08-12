@@ -1,0 +1,16 @@
+focal-legacy-server-amd64.manifest - Ubuntu CDimage,https://cdimage.ubuntu.com/ubuntu-legacy-server/releases/focal/release/ubuntu-20.04.1-legacy-server-amd64.manifest
+ubuntu-16.04.6-server-ppc64el.manifest - Ubuntu CDimage,https://cdimage.ubuntu.com/releases/16.04/release/ubuntu-16.04.6-server-ppc64el.manifest
+mirrors.aliyun.com/oldubuntu-releases/releases/18....,http://mirrors.aliyun.com/oldubuntu-releases/releases/18.04.4/ubuntu-18.04.2-server-amd64.manifest
+mirrors.aliyun.com/oldubuntu-releases/releases/18....,http://mirrors.aliyun.com/oldubuntu-releases/releases/18.04.4/ubuntu-18.04.3-server-ppc64el.manifest
+kinetic-preinstalled-server-armhf+raspi.manifest,http://ftp.jaist.ac.jp/pub/Linux/ubuntu-cdimage/ubuntu-server/daily-preinstalled/pending/kinetic-preinstalled-server-armhf%2Braspi.manifest
+kinetic-live-server-riscv64.manifest,http://ftp.jaist.ac.jp/pub/Linux/ubuntu-cdimage/ubuntu-server/daily-live/current/kinetic-live-server-riscv64.manifest
+www.stearns.org/staticiso/static.current.MANIFEST,http://www.stearns.org/staticiso/static.current.MANIFEST
+ubuntu.interhost.co.il/16.04/ubuntu-16.04.5-server...,http://ubuntu.interhost.co.il/16.04/ubuntu-16.04.5-server-i386.manifest
+Resetter/Ubuntu_18.04_ubuntu:GNOME_64bit_.manifest at master,https://github.com/gaining/Resetter/blob/master/Resetter/usr/lib/resetter/data/manifests/Ubuntu_18.04_ubuntu:GNOME_64bit_.manifest
+https://mirrors.dotsrc.org/turnkeylinux/metadata/t...,https://mirrors.dotsrc.org/turnkeylinux/metadata/turnkey-prestashop/15.0-stretch-amd64/turnkey-prestashop-15.0-stretch-amd64.manifest
+ftp.uni-kl.de/pub/linux/ubuntu-dvd/ubuntustudio/dv...,http://ftp.uni-kl.de/pub/linux/ubuntu-dvd/ubuntustudio/dvd/pending/kinetic-dvd-amd64.manifest
+lubuntu-14.04.1-desktop-i386.manifest - Repo UGM,http://repo.ugm.ac.id/iso/lubuntu/14.04/release/lubuntu-14.04.1-desktop-i386.manifest
+https://usingpro.com/snapshots/packages/mips_24kc/...,https://usingpro.com/snapshots/packages/mips_24kc/base/Packages.manifest
+ubuntu-11.10-wubi-i386.manifest - xTom Open Source Software Mirror,https://mirrors.xtom.ee/ubuntu-old-releases/releases/11.10/ubuntu-11.10-wubi-i386.manifest
+ubuntu-8.04.4-desktop-i386.manifest,https://mirrors.xtom.ee/ubuntu-old-releases/releases/8.04.4/ubuntu-8.04.4-desktop-i386.manifest
+releases.ubuntu.nautile.nc/20.04.4/ubuntu-20.04.4-...,http://releases.ubuntu.nautile.nc/20.04.4/ubuntu-20.04.4-desktop-amd64.manifest

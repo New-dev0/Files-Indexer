@@ -3283,6 +3283,7 @@ assertiveness
 assertor
 asserts
 assessed
+assessment
 asset
 assetless
 assets
@@ -6860,6 +6861,7 @@ breviaries
 breviary
 brevity
 brewages
+breweries
 brewery
 brewing
 brewises
@@ -7981,6 +7983,7 @@ cancellers
 cancerous
 cancha
 cancroid
+candelabra
 candelabras
 candelabrum
 candent
@@ -11194,6 +11197,7 @@ commy
 comonomers
 comorbid
 comous
+compacted
 compacter
 compacting
 compactions
@@ -18165,6 +18169,7 @@ ejaculates
 ejaculation
 ejaculator
 ejaculators
+eject
 ejecta
 ejected
 ejective
@@ -18204,6 +18209,7 @@ eldest
 elecampane
 elect
 elected
+electee
 electing
 electioneer
 electioneered
@@ -19783,6 +19789,7 @@ euphony
 euphorbia
 euphoria
 euphoriants
+euphrasies
 euphrasy
 euphuism
 euphuistic
@@ -22873,6 +22880,7 @@ frogs
 frolicked
 frolicker
 frolickers
+fromage
 fromenty
 fronds
 front
@@ -23915,6 +23923,7 @@ ghostings
 ghostliest
 ghostly
 ghostwriter
+ghostwriters
 ghostwriting
 ghoulish
 ghoulishness
@@ -27400,6 +27409,7 @@ humectants
 humerals
 humid
 humidex
+humidexes
 humidifications
 humidifier
 humidistat
@@ -28279,6 +28289,7 @@ impels
 impend
 impenetrable
 impenitent
+impenitently
 imperatorial
 imperceptibly
 impercipiences
@@ -31967,6 +31978,7 @@ lappers
 lapping
 lapsable
 lapsers
+lapsible
 laptop
 lapwings
 larcenous
@@ -32070,6 +32082,7 @@ latinized
 latinizing
 latitude
 latitudes
+latitudinal
 latke
 latkes
 latosol
@@ -32525,6 +32538,7 @@ lewd
 lewises
 lewisson
 lewissons
+lexemic
 lexes
 lexical
 lexicalisation
@@ -36800,6 +36814,7 @@ moujik
 moulage
 moulages
 moulded
+mouldered
 moulders
 mouldier
 moulins
@@ -39355,6 +39370,7 @@ offings
 offish
 offishness
 offkey
+offload
 offloads
 offprinted
 offramp
@@ -40054,6 +40070,7 @@ outbitches
 outbleats
 outblooming
 outblooms
+outbluff
 outbluffed
 outbluffs
 outblushed
@@ -41994,6 +42011,7 @@ paseo
 pash
 pasha
 pashadom
+pashadoms
 pashalik
 pashminas
 pasodoble
@@ -43325,6 +43343,7 @@ phototoxic
 phototubes
 phototypes
 photovoltaic
+photovoltaics
 phots
 phragmoplast
 phrasemaker
@@ -43462,6 +43481,7 @@ pickaback
 pickabacked
 pickabacks
 pickadil
+pickadils
 pickaninnies
 pickaroon
 pickaroons
@@ -44925,6 +44945,7 @@ pouring
 pourpoint
 pourpoints
 pours
+poussette
 poussetted
 poussetting
 poussies
@@ -45041,6 +45062,7 @@ prealtering
 preamplifier
 preamplifiers
 preanal
+preannounce
 preapplied
 preapplies
 preapplying
@@ -45953,6 +45975,7 @@ profusions
 prog
 progenies
 progeny
+progestational
 progestin
 progestins
 progging
@@ -47693,6 +47716,7 @@ raucousnesses
 raunch
 raunchiest
 raunchiness
+raunchinesses
 ravagements
 ravager
 ravages
@@ -49303,6 +49327,7 @@ repaneling
 repanelled
 repapering
 repapers
+reparation
 reparks
 repartees
 repartition
@@ -50333,6 +50358,7 @@ rhombohedra
 rhomboidal
 rhombus
 rhonchi
+rhonchus
 rhumb
 rhumbaing
 rhumbas
@@ -53239,6 +53265,7 @@ shat
 shatter
 shatterers
 shatteringly
+shaugh
 shaughs
 shaul
 shaved
@@ -53540,6 +53567,7 @@ shopwindows
 shopworn
 shoran
 shore
+shorebird
 shoreside
 shorewards
 shoring
@@ -54606,6 +54634,7 @@ smaze
 smearier
 smeddum
 smeek
+smeeks
 smegma
 smell
 smeller
@@ -54859,6 +54888,7 @@ snowmaker
 snowmakers
 snowmen
 snowmobile
+snowmobilers
 snowmold
 snowpacks
 snowplow
@@ -57572,6 +57602,7 @@ subway
 subwayed
 subwoofer
 subwriter
+subwriters
 subzero
 subzones
 succah
@@ -59747,6 +59778,7 @@ theres
 theretofore
 thereunder
 thermalization
+thermalize
 thermel
 thermic
 thermidor
@@ -60787,6 +60819,7 @@ traders
 trades
 tradescantias
 traditional
+traditionalisms
 traditionalized
 traditionalizes
 traditor
@@ -61567,6 +61600,7 @@ truncations
 truncheon
 truncheons
 trundle
+trundling
 trunkfish
 trunks
 truss
@@ -63260,6 +63294,7 @@ unpolled
 unpopularities
 unpotted
 unprecedented
+unpregnant
 unpremeditated
 unpressed
 unpressured
