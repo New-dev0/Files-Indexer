@@ -79,6 +79,7 @@ absorbancies
 absorbant
 absorbants
 absorptances
+absorptivity
 abstained
 abstainers
 abstaining
@@ -11430,6 +11431,7 @@ conceptualized
 conceptualizer
 conceptually
 conceptus
+concerning
 concernments
 concerns
 concert
@@ -11859,6 +11861,7 @@ construers
 construes
 construing
 consubstantial
+consuetude
 consuetudes
 consul
 consultancies
@@ -12957,6 +12960,7 @@ creakiest
 creaky
 creamcups
 creamers
+creamier
 creamily
 creaminess
 creaminesses
@@ -13447,6 +13451,7 @@ cuddy
 cudgelling
 cudgels
 cuds
+cudweed
 cue
 cued
 cueing
@@ -16109,6 +16114,7 @@ directorate
 directorial
 directories
 directors
+directrice
 directrices
 directrixes
 direfully
@@ -17345,6 +17351,7 @@ draggy
 dragline
 dragnet
 dragnets
+dragomen
 dragonheads
 dragooned
 dragoons
@@ -17435,6 +17442,7 @@ drees
 dreg
 dreggier
 dreggiest
+dreggy
 dreidels
 dreidls
 dreigh
@@ -19963,6 +19971,7 @@ evermore
 eversion
 evert
 evertors
+everwhich
 everyday
 everydayness
 everydaynesses
@@ -22139,6 +22148,7 @@ flurry
 flushable
 flushes
 flusteredly
+flusters
 fluted
 flutelike
 flutings
@@ -23025,6 +23035,7 @@ frowardnesses
 frowns
 frows
 frowsier
+frowsiest
 frowsy
 frowziest
 frowzily
@@ -23603,6 +23614,7 @@ garron
 garrote
 garroted
 garroter
+garrotes
 garroting
 garrotte
 garrottes
@@ -24152,6 +24164,7 @@ giraffish
 girandolas
 girandole
 girasole
+girasoles
 gird
 girded
 girder
@@ -25223,6 +25236,7 @@ growthinesses
 growthy
 groyne
 grub
+grubbed
 grubbily
 grubbing
 grubby
@@ -25436,6 +25450,7 @@ gunshots
 gunslinger
 gunslinging
 gunwale
+gunwales
 guppies
 gurged
 gurgle
@@ -27456,6 +27471,7 @@ however
 howf
 howffs
 howked
+howled
 hoya
 hoyden
 hoydened
@@ -32359,6 +32375,7 @@ leadsmen
 leadwork
 leadworks
 leafage
+leafiest
 leafinesses
 leafleteer
 leafleteers
@@ -35573,6 +35590,7 @@ migrate
 migrations
 migs
 mihrabs
+mijnheers
 mikados
 miked
 mikra
@@ -36903,6 +36921,7 @@ motet
 motets
 motherboard
 mothered
+motherhoods
 motherhouse
 mothering
 motherland
@@ -37331,6 +37350,7 @@ muscadets
 muscadines
 muscatel
 muscatels
+muscats
 muscid
 muscleman
 muscling
@@ -38440,6 +38460,7 @@ noncellulosic
 noncentral
 noncereal
 nonchalance
+nonchalances
 nonchalant
 noncharacters
 noncharismatics
@@ -40374,6 +40395,7 @@ outgains
 outgallops
 outgambled
 outgas
+outgasses
 outgassing
 outgaze
 outgeneral
@@ -41132,6 +41154,7 @@ overprograming
 overprogrammed
 overpromise
 overpromised
+overpromising
 overprotect
 overprotected
 overpumps
@@ -42546,6 +42569,7 @@ pedlar
 pedlary
 pedlers
 pedocals
+pedogeneses
 pedogenic
 pedological
 pedologist
@@ -44833,6 +44857,7 @@ porcinis
 porcupine
 pore
 pored
+porgy
 poriferal
 porism
 porisms
@@ -46327,6 +46352,7 @@ prophetical
 prophylactic
 prophylaxes
 propine
+propines
 propinquities
 propitiate
 propitiated
@@ -49242,6 +49268,7 @@ relegated
 relegating
 relegations
 relending
+relets
 reletter
 relettering
 reletting
@@ -50391,6 +50418,7 @@ reverential
 reverers
 reverie
 reveries
+reversal
 reverse
 reversers
 reversibilities
@@ -50768,6 +50796,7 @@ ripes
 riping
 ripoff
 ripoffs
+riposte
 ripostes
 ripper
 ripping
@@ -51921,6 +51950,7 @@ satirically
 satirised
 satirists
 satirize
+satirizers
 satirizes
 satisfaction
 satisfactions
@@ -56945,6 +56975,7 @@ stoically
 stoichiometric
 stoichiometries
 stoicisms
+stoics
 stoked
 stokehold
 stokeholds
@@ -61131,6 +61162,7 @@ trammeler
 trammelers
 trammels
 tramontane
+tramped
 tramper
 trampier
 trampiest
@@ -61433,6 +61465,7 @@ tresses
 tressiest
 tressures
 trestle
+trestles
 trestleworks
 tret
 tretinoins
@@ -61960,6 +61993,7 @@ tufaceous
 tuff
 tuffaceous
 tuffet
+tufter
 tufters
 tuftier
 tuftiest
@@ -65167,6 +65201,7 @@ vixens
 vizard
 vizcacha
 vizierate
+vizir
 vizirate
 vizor
 vizors
