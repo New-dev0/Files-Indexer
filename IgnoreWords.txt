@@ -3243,6 +3243,7 @@ assai
 assailable
 assailant
 assailed
+assailer
 assailing
 assais
 assassinates
@@ -6441,6 +6442,7 @@ borating
 bordel
 bordello
 bordering
+borderland
 bordure
 bordures
 bored
@@ -13264,6 +13266,7 @@ crusading
 crusadoes
 cruse
 cruses
+cruset
 crusets
 crushable
 crushers
@@ -13746,6 +13749,7 @@ cyclogenesis
 cyclohexanones
 cycloid
 cycloids
+cyclometer
 cyclonically
 cyclonite
 cycloolefin
@@ -16077,6 +16081,7 @@ disappears
 disappoint
 disappointed
 disappointing
+disappointment
 disappointments
 disappoints
 disapprobations
@@ -16731,6 +16736,7 @@ divinatory
 divine
 divined
 diviners
+divinising
 divisibility
 division
 divisionism
@@ -21763,6 +21769,7 @@ flemishes
 flemishing
 flench
 flenching
+flenser
 flensing
 flesh
 fleshers
@@ -23450,6 +23457,7 @@ garmenting
 garnered
 garnets
 garnished
+garnisheed
 garnisheeing
 garnishing
 garnishments
@@ -26342,6 +26350,7 @@ heniquens
 henleys
 hennery
 hennish
+hennishly
 henotheistic
 henotheists
 henries
@@ -28333,6 +28342,7 @@ implored
 implorer
 imploringly
 implosive
+implosives
 impolicy
 impoliteness
 impolitic
@@ -32294,6 +32304,7 @@ legatees
 legateship
 legateships
 legato
+legatos
 legend
 legendaries
 legendarily
@@ -34452,6 +34463,7 @@ mausolean
 mausoleum
 mauves
 mavie
+mavins
 mavis
 mavises
 mawkishly
@@ -35467,6 +35479,7 @@ millime
 millimes
 millimho
 millimhos
+millimicrons
 millimolar
 millimole
 milline
@@ -37557,6 +37570,7 @@ navelworts
 navicert
 navigation
 navigational
+navigations
 navigators
 navvies
 navy
@@ -39882,6 +39896,7 @@ oscillographies
 oscillography
 oscinine
 osculant
+osculum
 ose
 osetra
 osiered
@@ -40720,6 +40735,7 @@ overexpose
 overexposing
 overextend
 overextending
+overextends
 overextensions
 overextraction
 overextractions
@@ -43311,6 +43327,7 @@ phthisical
 phthisics
 phuts
 phycocyanins
+phycoerythrin
 phycoerythrins
 phycologists
 phycomycetes
@@ -46220,6 +46237,7 @@ protei
 proteinic
 proteinurias
 protend
+protending
 proteoglycan
 proteolytically
 proteome
@@ -48465,6 +48483,7 @@ reenforced
 reengaged
 reengages
 reengineered
+reenjoy
 reenlarge
 reenlarges
 reenlarging
@@ -49242,6 +49261,7 @@ reoxidations
 rep
 repacified
 repack
+repackage
 repackagers
 repainted
 repainting
@@ -52371,6 +52391,7 @@ seawares
 seawaters
 seaweed
 seaworthinesses
+seaworthy
 sebasic
 seborrhea
 seborrheas
@@ -53110,6 +53131,7 @@ shaman
 shamanic
 shamanistic
 shamble
+shambles
 shame
 shameable
 shamefaced
@@ -53314,6 +53336,7 @@ shibboleths
 shicksas
 shied
 shiel
+shield
 shielders
 shields
 shiers
@@ -53533,6 +53556,7 @@ showbizzes
 showboat
 showboating
 showboats
+showcasing
 showdown
 showed
 showerers
@@ -53932,6 +53956,7 @@ sinkers
 sinkholes
 sinking
 sinlessly
+sinlessnesses
 sinned
 sinner
 sinologies
@@ -54308,6 +54333,7 @@ sleeknesses
 sleeky
 sleepiest
 sleepings
+sleepovers
 sleepwalked
 sleepwear
 sleepy
@@ -55449,6 +55475,7 @@ spectacles
 spectacular
 spectate
 spectated
+spectates
 spectator
 spectatorship
 spectinomycin
@@ -56056,6 +56083,7 @@ stabilization
 stabilized
 stabilizer
 stabilizing
+stableman
 stablemates
 stablenesses
 stabler
@@ -57081,6 +57109,7 @@ subaerially
 subagencies
 subagency
 subah
+subahdar
 subahdars
 subahs
 suballocation
@@ -59328,6 +59357,7 @@ tendon
 tendresse
 tendrilled
 tendrilous
+tendu
 tenebrionid
 tenebrionids
 tenebrious
@@ -60589,6 +60619,7 @@ tottered
 tottering
 toucan
 touch
+touchbacks
 touchdown
 touchdowns
 touche
@@ -60791,6 +60822,7 @@ tramples
 trampoline
 trampolines
 trams
+tramway
 tramways
 tranced
 trances
@@ -64238,6 +64270,7 @@ velamen
 velar
 velaria
 velarization
+velarized
 velarizing
 velate
 velcros
@@ -64411,6 +64444,7 @@ vertebra
 vertebrate
 verticality
 vertically
+verticalness
 verticals
 verticillate
 vertiginous
@@ -65146,6 +65180,7 @@ wangun
 wanguns
 wanigan
 wanion
+wanions
 wanked
 wannabee
 wannabees
