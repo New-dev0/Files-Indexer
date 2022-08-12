@@ -869,6 +869,7 @@ afterclap
 afterdeck
 afterdecks
 afterglow
+afterglows
 afterlife
 afterlives
 aftermarkets
@@ -4088,6 +4089,7 @@ bacteriurias
 bacterizations
 bacterize
 bacterizing
+baculum
 badder
 baddest
 baddie
@@ -4477,6 +4479,7 @@ basilar
 basilect
 basilicae
 basilical
+basilisks
 basinet
 basinfuls
 basing
@@ -7189,6 +7192,7 @@ budgeted
 budgeteer
 budgeting
 budless
+budworms
 buffable
 buffaloed
 buffaloes
@@ -8267,6 +8271,7 @@ carburizations
 carburize
 carburizes
 carburizing
+carcanets
 carcases
 carcasses
 carcels
@@ -13337,6 +13342,7 @@ cubed
 cubical
 cubically
 cubicities
+cubiform
 cubing
 cubitus
 cuboid
@@ -14745,6 +14751,7 @@ delftware
 deliberateness
 deliberations
 deliberative
+delicate
 delicious
 delicts
 delight
@@ -16465,6 +16472,7 @@ disposer
 disposers
 disposition
 dispositive
+dispossess
 dispossessed
 dispossession
 dispossessors
@@ -19295,6 +19303,7 @@ epoxidizing
 epoxied
 epoxy
 epsilonic
+equablenesses
 equably
 equal
 equalitarians
@@ -20948,6 +20957,7 @@ feeds
 feedstocks
 feedyards
 feeling
+feelingly
 feelingnesses
 feelings
 fees
@@ -27368,6 +27378,7 @@ humidnesses
 humidors
 humiliate
 humiliated
+humiliates
 humiliation
 humiliations
 humiture
@@ -27705,6 +27716,7 @@ hypervirulent
 hypha
 hyphenates
 hyphened
+hyphenic
 hyping
 hypnogogic
 hypnoid
@@ -30392,6 +30404,7 @@ jackpot
 jackpots
 jackrabbits
 jackrolled
+jackscrew
 jackstays
 jackstone
 jackstraw
@@ -31110,6 +31123,7 @@ kept
 keramic
 keratin
 keratinization
+keratins
 keratitis
 keratitises
 keratoid
@@ -31955,6 +31969,7 @@ laryngal
 laryngals
 laryngectomized
 larynges
+laryngitic
 laryngitis
 laryngoscope
 laryngoscopes
@@ -31969,6 +31984,7 @@ lashers
 lashes
 lashkar
 lasses
+lassi
 lassitudes
 lassoes
 last
@@ -32158,6 +32174,7 @@ leafage
 leafinesses
 leafleteer
 leafleteers
+leafleting
 leaflets
 leafstalks
 leagued
@@ -32756,6 +32773,7 @@ lingeringly
 lingers
 lingo
 lingonberry
+lingually
 linguinis
 linguist
 linguistical
@@ -35771,6 +35789,7 @@ misdo
 misdoer
 misdoers
 misdoes
+misdoing
 misdoubting
 misdrawn
 misdrew
@@ -37549,6 +37568,7 @@ neatnik
 neats
 nebbishy
 nebenkern
+nebulising
 nebulose
 nebulosities
 nebulously
@@ -39142,6 +39162,7 @@ occlusive
 occlusives
 occultation
 occultations
+occulted
 occulter
 occulters
 occultisms
@@ -40950,6 +40971,7 @@ oversimplifies
 oversimplifying
 oversize
 overskirt
+overslaugh
 oversleep
 oversleeping
 overslipped
@@ -42161,6 +42183,7 @@ peacekeepers
 peacekeepings
 peacemaker
 peacemaking
+peacetime
 peached
 peacher
 peachers
@@ -42996,6 +43019,7 @@ phenolphthalein
 phenomenally
 phenomenologies
 phenomenologist
+phenothiazines
 phenotypic
 phenotypical
 phenotypically
@@ -47764,6 +47788,7 @@ reappraised
 reappraising
 reappropriate
 reappropriated
+reappropriates
 reappropriating
 reapproved
 reaps
@@ -50210,6 +50235,7 @@ rhinal
 rhinencephalon
 rhinestoned
 rhinestones
+rhino
 rhinologies
 rhinovirus
 rhizobial
@@ -50346,6 +50372,7 @@ riffles
 riffling
 riffs
 rifle
+riflebird
 riflebirds
 riflemen
 rifleries
@@ -53871,6 +53898,7 @@ singlet
 singletons
 sings
 singularities
+singularizes
 sinh
 sinhs
 sinicize
@@ -54243,6 +54271,7 @@ sleazoids
 sledded
 sledders
 sledding
+sleddings
 sledged
 sledgehammers
 sleek
@@ -56057,6 +56086,7 @@ staigs
 stainabilities
 stainer
 stainers
+stainlesses
 stainlessly
 stains
 staircases
@@ -57789,6 +57819,7 @@ superefficiency
 superefficient
 superegoists
 superegos
+superelevations
 superelite
 supereminence
 supereminences
@@ -58422,6 +58453,7 @@ syncarpous
 syncarps
 synced
 synched
+synchronal
 synchroneities
 synchronic
 synchronically
@@ -59088,6 +59120,7 @@ teetotalism
 teetotalists
 teetotallers
 teetotum
+tefillin
 teflon
 teg
 tegminal
@@ -59405,6 +59438,7 @@ terrazzo
 terrella
 terrenes
 terrepleins
+terret
 terriers
 terrific
 terrifies
@@ -66465,6 +66499,7 @@ yawner
 yawners
 yawningly
 yawp
+yawpings
 ycleped
 yclept
 yeahs
