@@ -1182,6 +1182,7 @@ alcidine
 alcids
 alcohol
 alcoholically
+aldehydic
 alderflies
 aldols
 aldosterone
@@ -4874,6 +4875,7 @@ bedstead
 bedsteads
 bedtick
 bedticks
+bedtime
 beduin
 bedumbed
 beduncing
@@ -6916,6 +6918,7 @@ breathed
 breathers
 breathes
 breathiest
+breathinesses
 breaths
 breathtaking
 breathy
@@ -8023,6 +8026,7 @@ camelback
 cameleers
 camelhair
 camellia
+camellike
 camelopards
 camerae
 cames
@@ -18682,6 +18686,7 @@ embolies
 embolisms
 embolizations
 embonpoint
+embordered
 embordering
 emborders
 embosking
@@ -20184,6 +20189,7 @@ evited
 evites
 eviting
 evocations
+evocativeness
 evocativenesses
 evocators
 evoking
@@ -22935,6 +22941,7 @@ fozinesses
 fozy
 fracas
 fracases
+fracted
 fraction
 fractionalize
 fractionalized
@@ -24476,6 +24483,7 @@ glamourized
 glamourless
 glamourous
 glamours
+glancer
 glancers
 glances
 glandless
@@ -24875,6 +24883,7 @@ goodman
 goodmen
 goodness
 goods
+goodwives
 goof
 goofballs
 goofs
@@ -24927,6 +24936,7 @@ gormands
 gormed
 gormless
 gorp
+gorps
 gos
 gosh
 goshawks
@@ -26660,6 +26670,7 @@ helotries
 helotry
 helots
 helped
+helpers
 helpful
 helplessness
 helpmate
@@ -27702,6 +27713,7 @@ housemaster
 housemates
 housemen
 housepainters
+houseplants
 houser
 houserooms
 housesits
@@ -30925,6 +30937,7 @@ jailing
 jailor
 jalap
 jalapenos
+jalop
 jalopies
 jaloppy
 jalops
@@ -34253,6 +34266,7 @@ maggot
 magi
 magic
 magical
+magically
 magicians
 magisterial
 magisterially
@@ -35607,6 +35621,7 @@ metatarsus
 metate
 metathesis
 metathetic
+metathoraces
 metathoracic
 metaxylem
 metazoa
@@ -37710,6 +37725,7 @@ murreys
 murrha
 murrine
 murrs
+mus
 musca
 muscadel
 muscadet
@@ -38301,6 +38317,7 @@ neoclassic
 neoclassicisms
 neoclassicists
 neocolonialism
+neocolonialisms
 neocolonialist
 neocons
 neoconservatism
@@ -38532,6 +38549,7 @@ niceties
 niche
 niched
 niches
+niching
 nick
 nickeling
 nickelous
@@ -38875,6 +38893,7 @@ nonconcerns
 nonconcurred
 nonconcurrence
 nonconcurrences
+nonconcurring
 nonconcurs
 noncondensable
 nonconditioned
@@ -39539,6 +39558,7 @@ numerators
 numeric
 numerologies
 numerologist
+numerologists
 numerology
 numerous
 numerously
@@ -42923,6 +42943,7 @@ peavy
 pebbling
 peccadilloes
 peccaries
+peccavi
 peccavis
 pech
 peched
@@ -44731,6 +44752,7 @@ pleiades
 pleiads
 pleinairists
 pleiocene
+pleiotropies
 plena
 plenaries
 plenarily
@@ -45598,6 +45620,7 @@ poundal
 pounding
 pour
 pourable
+pourboires
 poured
 pourer
 pouring
@@ -47354,6 +47377,7 @@ pumpkinseed
 pumpless
 pumps
 pun
+puna
 punas
 punchball
 punchballs
@@ -50159,9 +50183,11 @@ replying
 repolarization
 repolarizing
 repolish
+repolishes
 repoll
 repolls
 repopularized
+repopularizes
 repopulated
 repopulations
 reportable
@@ -51665,6 +51691,7 @@ roughhewing
 roughhoused
 roughies
 roughleg
+roughneck
 roughnecks
 roughrider
 rouille
@@ -55420,6 +55447,7 @@ slushes
 slushier
 slushiest
 sluttish
+slutty
 slyer
 slyness
 slynesses
@@ -56096,6 +56124,7 @@ sorbitol
 sorbitols
 sorbs
 sorcerers
+sorceress
 sorceries
 sorcerous
 sord
@@ -56818,6 +56847,7 @@ springtide
 springtides
 springwaters
 springwood
+springwoods
 sprinkled
 sprinklered
 sprinklering
@@ -58477,6 +58507,7 @@ successes
 successful
 successional
 successor
+succinct
 succincter
 succinctest
 succinctly
@@ -63218,6 +63249,7 @@ unaspirated
 unassailability
 unassailably
 unassembled
+unassertively
 unassimilable
 unassured
 unathletic
@@ -64999,6 +65031,7 @@ vacuousness
 vagabond
 vagabondism
 vagabondisms
+vagally
 vagaries
 vagariously
 vagile
@@ -66272,6 +66305,7 @@ warmers
 warmest
 warmheartedness
 warming
+warmish
 warmness
 warmonger
 warmongerings
@@ -67169,6 +67203,7 @@ witnessing
 witneys
 wittiest
 wittiness
+wittinesses
 wittols
 wivern
 wiz
