@@ -5912,6 +5912,7 @@ blaster
 blasties
 blastiest
 blasting
+blastments
 blastocoele
 blastocyst
 blastoderms
@@ -6619,6 +6620,7 @@ bounds
 bounteousnesses
 bountied
 bounties
+bountiful
 bounty
 bourbon
 bourbons
@@ -14145,6 +14147,7 @@ dandiacal
 dandies
 dandified
 dandle
+dandler
 dandlers
 dandling
 dandriffs
@@ -18061,6 +18064,7 @@ eaten
 eater
 eatery
 eath
+eating
 eats
 eaux
 eavesdrop
@@ -18167,6 +18171,7 @@ ectopically
 ectoplasmic
 ectoplasms
 ectosarc
+ectotherm
 ectothermic
 ectype
 ecumenically
@@ -19940,6 +19945,7 @@ eudaemonism
 eudaemonisms
 eudaimonism
 eudemon
+eudemonia
 eudemons
 eudiometer
 eudiometers
@@ -20157,6 +20163,7 @@ exarchy
 exasperate
 exasperatedly
 excavate
+excavates
 excavator
 exceeder
 exceeding
@@ -22525,6 +22532,7 @@ fordoes
 fordone
 fords
 forearm
+forearmed
 forearms
 forebear
 forebears
@@ -22659,6 +22667,7 @@ forgivable
 forgiveness
 forgivingness
 forgivingnesses
+forgo
 forgoer
 forgoers
 forgoing
@@ -22873,6 +22882,7 @@ fragrancy
 frailer
 frailly
 frails
+frailty
 fraktur
 frakturs
 framable
@@ -23424,6 +23434,7 @@ futuristically
 futurities
 futurologist
 futzed
+fuze
 fuzed
 fuzees
 fuzes
@@ -23626,6 +23637,7 @@ gammy
 gamodeme
 gamodemes
 gamut
+gan
 ganache
 gandering
 gane
@@ -25367,6 +25379,7 @@ growthy
 groyne
 grub
 grubbed
+grubbier
 grubbily
 grubbing
 grubby
@@ -27949,6 +27962,7 @@ hyperbolically
 hyperboloidal
 hyperboloids
 hyperboreans
+hypercalcemic
 hypercautious
 hypercomplex
 hypercorrectly
@@ -28763,6 +28777,7 @@ impulsed
 impulsion
 impulsive
 impulsiveness
+impurenesses
 impurest
 impurities
 impurity
@@ -28859,6 +28874,7 @@ incantational
 incantations
 incanted
 incapable
+incapablenesses
 incapably
 incapacitate
 incapacitates
@@ -29716,6 +29732,7 @@ insociably
 insolates
 insolating
 insolences
+insolently
 insolubility
 insolubilizes
 insolubilizing
@@ -30353,6 +30370,7 @@ invigilated
 invigilates
 invigilation
 invigilations
+invigilator
 invigilators
 invigorates
 invigoration
@@ -31433,6 +31451,7 @@ keelhaling
 keelhaul
 keelhauling
 keeling
+keelless
 keen
 keened
 keener
@@ -35826,6 +35845,7 @@ millage
 milldams
 millefiori
 millefioris
+millenarian
 millennialisms
 millennialists
 millennium
@@ -40380,6 +40400,7 @@ osteoses
 osteotomies
 ostinati
 ostomate
+ostomates
 ostosises
 ostraca
 ostracism
@@ -41890,6 +41911,7 @@ pallettes
 pallia
 palliation
 palliations
+palliative
 palliatives
 pallid
 pallidness
@@ -42726,6 +42748,7 @@ pebbling
 peccadilloes
 peccaries
 peccavis
+pech
 peched
 pechs
 peck
@@ -42929,6 +42952,7 @@ penned
 pennia
 pennies
 penniless
+pennis
 pennon
 pennoncel
 pennons
@@ -44042,6 +44066,7 @@ pilar
 pilau
 pileate
 pileated
+pilei
 pileous
 piles
 pileum
@@ -45180,6 +45205,7 @@ possessors
 possets
 possibilities
 possibility
+possibly
 post
 postabortion
 postapocalyptic
@@ -48167,6 +48193,7 @@ rattail
 ratteen
 rattening
 rattens
+ratter
 ratting
 rattish
 rattle
@@ -52311,6 +52338,7 @@ saviors
 savorer
 savories
 savorily
+savors
 savour
 savoured
 savourers
@@ -53698,6 +53726,7 @@ shads
 shaft
 shafted
 shafts
+shaggily
 shagginess
 shagging
 shagreens
@@ -57309,6 +57338,7 @@ stomping
 stomps
 stonechats
 stonecrops
+stonecutting
 stoned
 stonefishes
 stoneflies
@@ -58661,6 +58691,7 @@ superstitions
 superstitiously
 superstocks
 superstore
+superstrata
 superstratum
 superstructure
 superstuds
@@ -60453,6 +60484,7 @@ thieved
 thievery
 thievishness
 thigh
+thighbone
 thigmotaxes
 thimble
 thimblerigged
@@ -63587,6 +63619,7 @@ unguents
 ungula
 ungulae
 ungulate
+unhailed
 unhairs
 unhallow
 unhallowed
@@ -65416,6 +65449,7 @@ viroid
 viroids
 virologic
 virology
+virosis
 virtu
 virtue
 virtueless
@@ -66949,6 +66983,7 @@ woodstoves
 woodtones
 woodwaxen
 woodworkers
+wooer
 woof
 woofer
 wooingly
