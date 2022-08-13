@@ -6062,6 +6062,7 @@ bloodied
 bloodies
 bloodiest
 bloodily
+bloodings
 bloodlessness
 bloodletting
 bloodlettings
@@ -6945,6 +6946,7 @@ breeziness
 breezing
 bregma
 bregmatic
+bremsstrahlungs
 brents
 brethren
 brevet
@@ -9144,6 +9146,7 @@ chadri
 chaetae
 chafed
 chafes
+chaff
 chaffered
 chaffinches
 chaffs
@@ -10541,6 +10544,7 @@ clump
 clumped
 clumpier
 clumping
+clumpish
 clumsier
 clumsiest
 clumsinesses
@@ -14039,6 +14043,7 @@ cytologic
 cytologically
 cytologists
 cytology
+cytolyses
 cytolytic
 cytomegalic
 cytomegalovirus
@@ -14123,6 +14128,7 @@ dailynesses
 daimen
 daimons
 daimyo
+daintier
 dainties
 daintiness
 daintinesses
@@ -14175,6 +14181,7 @@ damndest
 damneder
 damner
 damnified
+damnifying
 damning
 damningly
 damosel
@@ -14786,6 +14793,7 @@ deferred
 defervescences
 defibrillate
 defibrillates
+defibrillation
 defibrillations
 defibrillators
 defibrinating
@@ -15094,6 +15102,7 @@ demises
 demissions
 demitasse
 demits
+demiurgic
 demiurgical
 demiworlds
 demob
@@ -15221,6 +15230,7 @@ dentals
 dentation
 dentations
 denticulated
+denticulation
 denticulations
 dentiform
 dentifrices
@@ -16040,6 +16050,7 @@ digitalins
 digitalizing
 digitally
 digitate
+digitated
 digitately
 digitigrade
 digitize
@@ -20304,6 +20315,7 @@ exclusives
 exclusivist
 exclusivists
 exclusivities
+exclusory
 excogitate
 excogitations
 excommunicate
@@ -25594,6 +25606,7 @@ guggling
 guglets
 guid
 guidance
+guidebooks
 guided
 guidelines
 guideposts
@@ -28799,6 +28812,7 @@ impoliticly
 impone
 importance
 importances
+important
 importation
 importer
 importing
@@ -30912,6 +30926,7 @@ jaconets
 jactations
 jactitation
 jaculated
+jaculates
 jacuzzis
 jade
 jadedness
@@ -31034,12 +31049,14 @@ jaywalks
 jazzer
 jazzers
 jazzier
+jazzily
 jazziness
 jazzing
 jazzman
 jazzmen
 jazzy
 jealous
+jealously
 jealousness
 jealousy
 jee
@@ -32311,6 +32328,7 @@ lambiest
 lambing
 lambkills
 lambrusco
+lambruscos
 lambskins
 lame
 lamebrained
@@ -32777,6 +32795,7 @@ led
 lederhosen
 ledger
 ledgier
+ledgiest
 ledgy
 leeboard
 leech
@@ -33419,6 +33438,7 @@ listenership
 listening
 listeria
 listerioses
+listlessness
 litany
 litas
 lite
@@ -33993,6 +34013,7 @@ lunchboxes
 luncheonette
 lunchers
 lunches
+lunching
 lunchmeat
 lunchrooms
 lunchtime
@@ -35017,6 +35038,7 @@ mavis
 mavises
 mawkishly
 mawn
+maxes
 maxi
 maxillary
 maxilliped
@@ -43691,6 +43713,7 @@ phantasmagoric
 phantasmal
 phantasmata
 phantasying
+pharaoh
 pharisaic
 pharisaically
 pharisee
@@ -46031,6 +46054,7 @@ prelates
 prelatic
 prelatisms
 prelatures
+prelaunched
 prelaw
 prelect
 prelector
@@ -47833,6 +47857,7 @@ quayage
 quayages
 quaylike
 qubit
+qubyte
 qubytes
 queasinesses
 queen
@@ -47915,6 +47940,7 @@ quilting
 quinacrines
 quinaries
 quinate
+quincentennial
 quincunx
 quincunxial
 quinellas
@@ -48298,6 +48324,7 @@ rankle
 rankled
 ransacking
 ransom
+ransomed
 ransomer
 ransomers
 ransoms
@@ -48611,6 +48638,7 @@ reappropriate
 reappropriated
 reappropriates
 reappropriating
+reapprove
 reapproved
 reaps
 rearers
@@ -50870,6 +50898,7 @@ retrospects
 retrousse
 retroviral
 retrying
+retted
 retuning
 returnable
 returner
@@ -51316,6 +51345,7 @@ ringent
 ringer
 ringers
 ringhals
+ringleaders
 ringlet
 ringleted
 ringlike
@@ -57983,6 +58013,7 @@ stumbled
 stumbling
 stumblingly
 stummed
+stumming
 stumpages
 stumper
 stumpier
@@ -61238,6 +61269,7 @@ tirled
 tirls
 tiro
 tisane
+tissue
 tissuing
 titania
 titanias
@@ -62181,6 +62213,7 @@ trichiasis
 trichina
 trichinas
 trichinoses
+trichinosis
 trichite
 trichites
 trichlorfons
@@ -63405,6 +63438,7 @@ unchronicled
 unciae
 uncially
 uncinal
+uncinaria
 uncinarias
 uncinate
 uncinematic
@@ -66650,6 +66684,7 @@ welterweight
 welterweights
 weltings
 wended
+wendigo
 wendigos
 wending
 wends
