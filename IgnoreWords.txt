@@ -3192,6 +3192,7 @@ ascenders
 ascendible
 ascent
 ascents
+ascetic
 ascetical
 asceticisms
 ascidia
@@ -4044,6 +4045,7 @@ backboned
 backbreakers
 backbreaking
 backcasts
+backchat
 backchecking
 backcountries
 backcourts
@@ -6070,6 +6072,7 @@ bloods
 bloodshed
 bloodsheds
 bloodshot
+bloodstain
 bloodstains
 bloodstock
 bloodstocks
@@ -7342,6 +7345,7 @@ bulgingly
 bulgur
 bulgurs
 bulimia
+bulimiac
 bulimics
 bulkage
 bulkheads
@@ -7646,6 +7650,7 @@ butylated
 butylates
 butylating
 butylene
+butylenes
 butyls
 butyral
 butyraldehydes
@@ -7799,6 +7804,7 @@ cadmium
 cads
 caducean
 caducei
+caeca
 caecum
 caeomas
 caesar
@@ -12907,6 +12913,7 @@ coxcombry
 coxcombs
 coxed
 coxing
+coxitides
 coxitis
 coxless
 coxswaining
@@ -17720,6 +17727,7 @@ drugged
 druggie
 druggier
 druggies
+druggiest
 druggist
 druggy
 drugmaker
@@ -18799,6 +18807,7 @@ emplaces
 emplanes
 employ
 employability
+employe
 employed
 employees
 employers
@@ -19567,6 +19576,7 @@ epithelialized
 epithelializing
 epitheliomas
 epithelium
+epitheliums
 epithelizing
 epithet
 epitome
@@ -26511,6 +26521,7 @@ heavenliness
 heavenly
 heavens
 heavenwards
+heaver
 heavily
 heavy
 heavyhearted
@@ -26829,6 +26840,7 @@ hermitries
 hermits
 herniae
 hernias
+herniate
 herniated
 herniates
 herniation
@@ -31963,6 +31975,7 @@ knolled
 knop
 knopped
 knops
+knosp
 knotlike
 knots
 knotted
@@ -32232,6 +32245,7 @@ laggers
 lagging
 lagnappe
 lagnappes
+lagoons
 laguna
 lagunas
 lagune
@@ -34339,6 +34353,7 @@ making
 malachites
 malacological
 malacologist
+maladaptations
 maladaptive
 maladjusted
 maladjustive
@@ -36334,6 +36349,7 @@ misdeal
 misdealing
 misdeals
 misdeed
+misdeemed
 misdefine
 misdefining
 misdemeanor
@@ -36809,6 +36825,7 @@ moldy
 molecules
 molehill
 moleskins
+molested
 molesters
 molesting
 mollah
@@ -40676,6 +40693,7 @@ outcounts
 outcrawling
 outcrawls
 outcrop
+outcross
 outcrosses
 outcrowd
 outcry
@@ -44711,6 +44729,7 @@ pleonasm
 pleonasms
 pleonastic
 pleonastically
+pleonic
 pleons
 pleopods
 plerocercoids
@@ -45575,6 +45594,7 @@ powdered
 powderers
 powderless
 power
+powerful
 powerfully
 powerlessly
 powters
@@ -48612,6 +48632,7 @@ reawaking
 reawoke
 reawoken
 reb
+rebait
 rebaptisms
 rebaptized
 rebaptizing
@@ -49189,6 +49210,7 @@ reemerged
 reemergence
 reemerges
 reemerging
+reemission
 reemissions
 reemits
 reemphasis
@@ -51126,6 +51148,7 @@ ricks
 ricksha
 rickshas
 rickshaw
+rickshaws
 ricotta
 ricracs
 rictus
@@ -56871,6 +56894,7 @@ squeak
 squeaker
 squeakers
 squeakier
+squealed
 squealers
 squealing
 squeamish
@@ -57894,6 +57918,7 @@ stuivers
 stulls
 stumbled
 stumbling
+stumblingly
 stummed
 stumpages
 stumper
@@ -59732,6 +59757,7 @@ tammy
 tampalas
 tamper
 tampered
+tampering
 tamperproof
 tampers
 tampion
@@ -60471,6 +60497,7 @@ tetramers
 tetrameters
 tetrapod
 tetrapods
+tetrarch
 tetrarchic
 tetrarchs
 tetraspores
@@ -60830,6 +60857,7 @@ throating
 throatlatch
 throb
 throbbed
+throbs
 thrombi
 thromboembolic
 thromboembolism
@@ -61052,6 +61080,7 @@ timeliest
 timeliness
 timeously
 timepieces
+times
 timesaver
 timesavers
 timesaving
@@ -61149,6 +61178,7 @@ titania
 titanias
 titanism
 titanite
+titanium
 titbit
 titers
 tithers
@@ -62111,6 +62141,7 @@ trichrome
 tricing
 trick
 trickers
+trickery
 trickie
 trickier
 trickily
@@ -62856,6 +62887,7 @@ tymbal
 tympanic
 tympanist
 tympanites
+tympanums
 tympany
 tynes
 typal
@@ -64623,6 +64655,7 @@ upchucks
 upclimbing
 upclimbs
 upcountries
+upcourt
 upcurling
 upcurve
 upcurves
@@ -66537,6 +66570,7 @@ wellaway
 wellcurb
 wellhouse
 wellies
+wellness
 wellsites
 welsh
 welsher
@@ -67156,6 +67190,7 @@ wommera
 wonderful
 wonderfully
 wonderfulness
+wonderfulnesses
 wonderland
 wonderlands
 wonk
