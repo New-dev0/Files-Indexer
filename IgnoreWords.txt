@@ -2538,6 +2538,7 @@ apercu
 aperients
 aperiodic
 aperiodically
+aperiodicity
 apers
 aperture
 apertures
@@ -5323,6 +5324,7 @@ beware
 bewared
 bewearying
 beweeps
+bewept
 bewhiskered
 bewig
 bewigging
@@ -9792,6 +9794,7 @@ choreatic
 choreic
 choremen
 choreographies
+choreographs
 choreography
 chorial
 choriamb
@@ -11929,6 +11932,7 @@ consultive
 consults
 consumable
 consumables
+consumed
 consumer
 consumerist
 consumerists
@@ -15442,6 +15446,7 @@ desiring
 desirously
 desirousnesses
 desk
+deskbound
 desktop
 desman
 desmid
@@ -16244,6 +16249,7 @@ disagrees
 disallowed
 disallowing
 disambiguated
+disambiguates
 disambiguations
 disannulling
 disappearance
@@ -19107,6 +19113,7 @@ enokitakes
 enolase
 enolic
 enological
+enologies
 enols
 enophiles
 enorm
@@ -20381,6 +20388,7 @@ exosphere
 exospheres
 exospheric
 exospore
+exospores
 exoterically
 exothermicities
 exothermicity
@@ -21051,6 +21059,7 @@ fastidiously
 fastnesses
 fatalist
 fatalists
+fatally
 fatbacks
 fatbirds
 fatefully
@@ -21180,6 +21189,7 @@ fedora
 feds
 feeblemindedly
 feeblish
+feebly
 feedbag
 feedboxes
 feedgrain
@@ -23019,6 +23029,7 @@ fretters
 fretting
 fretwork
 friar
+friaries
 friarly
 friary
 fribble
@@ -23274,6 +23285,7 @@ fun
 funambulism
 funambulist
 functionalisms
+functionalist
 functionalistic
 functionalities
 functionally
@@ -24217,6 +24229,7 @@ gild
 gilded
 gildhall
 gilds
+gill
 giller
 gillers
 gillies
@@ -25131,6 +25144,7 @@ greenhouses
 greenie
 greenies
 greenishnesses
+greenkeeper
 greenlit
 greenmailer
 greenmails
@@ -33778,6 +33792,7 @@ luminesce
 luminesced
 luminescence
 luminescences
+luminescent
 luminiferous
 luminist
 luminous
@@ -33929,6 +33944,7 @@ lyricised
 lyricize
 lyrisms
 lyrist
+lysate
 lysed
 lyses
 lysimeter
@@ -34270,6 +34286,7 @@ maltreaters
 maltreating
 maltreatment
 maltreats
+malty
 malversation
 malversations
 mamaliga
@@ -35403,6 +35420,7 @@ metanalysis
 metanephroi
 metanephros
 metaphoric
+metaphosphate
 metaphosphates
 metaphysician
 metaphysics
@@ -36400,6 +36418,7 @@ misses
 misshaper
 missilery
 missing
+missiologies
 missioner
 missioners
 missionizations
@@ -38940,6 +38959,7 @@ nonpapal
 nonpapists
 nonparasitic
 nonpareil
+nonpareils
 nonparents
 nonparticipants
 nonparties
@@ -39023,6 +39043,7 @@ nonshrink
 nonsignificant
 nonsimultaneous
 nonskater
+nonskaters
 nonskeletal
 nonskid
 nonsmokers
@@ -39594,6 +39615,7 @@ occultations
 occulted
 occulter
 occulters
+occulting
 occultisms
 occultists
 occupant
@@ -41695,6 +41717,7 @@ packwax
 packwaxes
 paclitaxel
 pacs
+paction
 pactions
 pad
 padauks
@@ -42281,6 +42304,7 @@ parker
 parkers
 parkings
 parkinsonisms
+parklike
 parlance
 parlando
 parlay
@@ -42716,6 +42740,7 @@ pecten
 pectic
 pectinaceous
 pectized
+pectizes
 pectoral
 peculates
 peculating
@@ -43424,6 +43449,7 @@ phage
 phagedena
 phages
 phagocytic
+phagocytized
 phagocytose
 phagocytosed
 phagocytosing
@@ -44847,6 +44873,7 @@ polychotomous
 polychotomy
 polychromies
 polychromy
+polycrystal
 polycythemia
 polycythemias
 polydactyl
@@ -46368,6 +46395,7 @@ professor
 professorates
 professorial
 professoriates
+professoriats
 proffered
 profferers
 proficiencies
@@ -49291,6 +49319,7 @@ rehab
 rehabilitant
 rehabilitants
 rehabilitates
+rehabilitating
 rehabilitation
 rehandle
 rehandled
@@ -49779,6 +49808,7 @@ repainted
 repainting
 repairability
 repaired
+repairmen
 repairs
 repand
 repanel
@@ -49907,6 +49937,7 @@ repossession
 repossessors
 repotted
 repotting
+repour
 repoured
 repousses
 repowering
@@ -53178,6 +53209,7 @@ selloff
 selloffs
 sellotaping
 sellout
+selsyns
 seltzers
 selva
 selvedge
@@ -58085,6 +58117,7 @@ subsystem
 subsystems
 subtask
 subtaxons
+subteens
 subtenancies
 subtend
 subtended
@@ -60310,6 +60343,7 @@ theocentric
 theocentrism
 theocratical
 theodolite
+theogony
 theologically
 theologies
 theologised
@@ -60789,6 +60823,7 @@ timeservings
 timework
 timeworkers
 timeworn
+timidities
 timing
 timocracy
 timorously
