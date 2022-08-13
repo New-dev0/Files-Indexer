@@ -11139,6 +11139,7 @@ colorfulness
 colorimeters
 colorimetric
 colorimetry
+colorism
 colorization
 colorize
 colorizer
@@ -13865,6 +13866,7 @@ cutins
 cutlas
 cutler
 cutlery
+cutline
 cutlines
 cutout
 cutouts
@@ -14283,6 +14285,7 @@ databasing
 dataries
 datedness
 datelines
+dates
 dating
 dato
 datos
@@ -18863,6 +18866,7 @@ enamels
 enamored
 enamour
 enamoured
+enantiomeric
 enantiomorphism
 enantiomorphous
 enantiomorphs
@@ -30709,6 +30713,7 @@ isobaric
 isobarism
 isobars
 isobath
+isobutanes
 isobutyl
 isocaloric
 isocarboxazid
@@ -31496,6 +31501,7 @@ kaross
 karroo
 karst
 karting
+kartings
 karyogamies
 karyokineses
 karyokinetic
@@ -32904,6 +32910,7 @@ leopardess
 leopardesses
 leotard
 leotarded
+leotards
 lepers
 lepidoptera
 lepidopteran
@@ -35383,6 +35390,7 @@ mentalese
 mentalism
 mentalist
 mentalists
+mentally
 mentations
 mentee
 mentees
@@ -35612,6 +35620,7 @@ meteoritic
 meteoroidal
 meteorological
 meteorology
+metepas
 meter
 meterage
 meterages
@@ -35893,6 +35902,7 @@ midnight
 midrash
 midrashic
 midrashoth
+midrib
 midriffs
 midsagittal
 midsections
@@ -37230,6 +37240,7 @@ mortalities
 mortals
 mortar
 mortarboard
+mortarboards
 mortarmen
 mortgage
 mortgagees
@@ -37451,6 +37462,7 @@ mudcapped
 mudcapping
 mudcat
 mudder
+muddier
 muddiest
 muddly
 muddy
@@ -38125,6 +38137,7 @@ nauplius
 nausea
 nauseant
 nauseants
+nauseates
 nauseatingly
 nauseous
 nauseously
@@ -38354,6 +38367,7 @@ nereids
 nerol
 neroli
 nervelessnesses
+nerves
 nervier
 nerviest
 nervines
@@ -39090,6 +39104,7 @@ nonmetric
 nonmetro
 nonmetropolitan
 nonmigrant
+nonmilitary
 nonminority
 nonmodern
 nonmonetarists
@@ -39106,6 +39121,7 @@ nonnecessities
 nonnegotiable
 nonneural
 nonnoble
+nonnormative
 nonnovel
 nonnovels
 nonnuclear
@@ -40860,6 +40876,7 @@ outmaneuvers
 outmanipulate
 outmanned
 outmarching
+outmastered
 outmastering
 outmasters
 outmatch
@@ -41028,6 +41045,7 @@ outspeeded
 outspell
 outspelled
 outspells
+outspelt
 outspending
 outspoken
 outspokenness
@@ -43310,6 +43328,7 @@ pericyclic
 periderm
 peridia
 peridotites
+perigeal
 perigee
 perigees
 perigons
@@ -45540,6 +45559,7 @@ pothunter
 potiche
 potiches
 potlache
+potlatches
 potpies
 pots
 potshard
@@ -47193,6 +47213,7 @@ pterosaur
 pterygial
 pterygium
 pterygoid
+pterylae
 ptisan
 ptomain
 ptomainic
@@ -49245,6 +49266,7 @@ reenthroned
 reenthrones
 reentrance
 reentries
+reentry
 reequipped
 reerecting
 reerects
@@ -49428,6 +49450,7 @@ refuser
 refuses
 refusing
 refutable
+refutals
 refutations
 refutes
 refuting
@@ -49496,6 +49519,7 @@ regorging
 regraded
 regrades
 regrading
+regrafted
 regrafting
 regranting
 regrated
@@ -49775,6 +49799,7 @@ religious
 religiousnesses
 relinked
 relinking
+relinks
 relinquish
 relinquishment
 reliquefies
@@ -49968,6 +49993,7 @@ rennets
 rennin
 renographic
 renography
+renotified
 renotifies
 renotify
 renounced
@@ -51030,6 +51056,7 @@ rhematic
 rheme
 rhemes
 rhenium
+rheniums
 rheobases
 rheobasic
 rheological
@@ -51416,6 +51443,7 @@ rockhounding
 rockhoundings
 rockhounds
 rockinesses
+rocking
 rockingly
 rocklike
 rockoons
@@ -52022,6 +52050,7 @@ sadomasochist
 sadomasochistic
 sadomasochists
 sae
+safari
 safariing
 safe
 safekeepings
@@ -54906,6 +54935,7 @@ skanking
 skateboarding
 skater
 skatings
+skatoles
 skatols
 skeanes
 skeans
@@ -54961,6 +54991,7 @@ skibob
 skibobber
 skibobbers
 skibobs
+skiddier
 skiddiest
 skidding
 skiddoo
@@ -56744,6 +56775,7 @@ spottiness
 spoused
 spousing
 spouted
+spouter
 sprachgefuhl
 sprachgefuhls
 spraddle
@@ -57166,6 +57198,7 @@ staticky
 stating
 station
 stational
+stationer
 stationeries
 statism
 statist
@@ -59848,6 +59881,7 @@ tarantists
 tarboosh
 tarbush
 tarbushes
+tardies
 tardigrade
 tardily
 tardive
@@ -63221,6 +63255,7 @@ unbasted
 unbated
 unbearably
 unbears
+unbeatably
 unbecomingly
 unbecomingness
 unbeknown
