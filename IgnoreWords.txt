@@ -474,6 +474,7 @@ acupunctures
 acupuncturist
 acupuncturists
 acutances
+acute
 acuteness
 acutenesses
 acutes
@@ -1028,6 +1029,7 @@ agronomy
 agrypnia
 agrypnias
 aguacate
+aguacates
 agues
 ahchoo
 ahead
@@ -3066,6 +3068,7 @@ arracks
 arraigned
 arraigner
 arraignment
+arraignments
 arrangers
 arranges
 arrases
@@ -3247,6 +3250,7 @@ aspartates
 aspect
 aspen
 aspens
+asperate
 asperates
 aspergilla
 asperity
@@ -8064,6 +8068,7 @@ cancellers
 cancerous
 cancha
 cancroid
+cancroids
 candelabra
 candelabras
 candelabrum
@@ -8267,6 +8272,7 @@ capsomer
 capstan
 capstans
 capsulate
+capsulated
 capsulizes
 captain
 captaincies
@@ -16936,6 +16942,7 @@ dividedly
 dividednesses
 dividendless
 dividends
+divider
 dividers
 divides
 dividual
@@ -20495,6 +20502,7 @@ expiratory
 expired
 expirer
 expirers
+explainable
 explainers
 explanative
 explanatively
@@ -20670,6 +20678,7 @@ extraordinaire
 extrapolated
 extrapolator
 extrapyramidal
+extrasensory
 extrasystoles
 extravagance
 extravagancy
@@ -22961,6 +22970,7 @@ fraudulence
 fraught
 fraulein
 frayed
+frays
 frazzled
 frazzling
 freaked
@@ -24127,6 +24137,7 @@ gerbilles
 gerbils
 gerents
 gerfalcons
+geriatric
 geriatrician
 german
 germander
@@ -25994,6 +26005,7 @@ handers
 handfasting
 handfasts
 handgrips
+handgun
 handguns
 handheld
 handhelds
@@ -26436,6 +26448,7 @@ heartworms
 hearty
 heatable
 heater
+heath
 heathbird
 heathen
 heathendom
@@ -31945,6 +31958,7 @@ kookaburra
 kookie
 kookinesses
 kooks
+kooky
 kopeck
 kopecks
 koph
@@ -32825,6 +32839,7 @@ leprechaun
 leprechauns
 leptins
 leptonic
+leptophos
 leptospiral
 leptotene
 les
@@ -33867,6 +33882,7 @@ lumping
 lumpingly
 lumpishnesses
 lunacy
+lunar
 lunarian
 lunarians
 lunars
@@ -38641,6 +38657,7 @@ nonabrasive
 nonabsorbent
 nonabsorptive
 nonacademics
+nonacceptances
 nonacid
 nonacidic
 nonacids
@@ -43791,6 +43808,7 @@ photographic
 photographs
 photoinduction
 photoinductions
+photoionizing
 photojournalism
 photojournalist
 photokineses
@@ -44566,6 +44584,7 @@ playthings
 playwrightings
 playwriting
 plaza
+pleaches
 pleaching
 pleadable
 pleaders
@@ -45323,6 +45342,7 @@ postiques
 postisolation
 postlaunch
 postliberation
+postliterate
 postludes
 postmarital
 postmark
@@ -46087,6 +46107,7 @@ presiding
 presidios
 presidiums
 presifts
+presignaled
 presignaling
 presignalling
 presignifying
@@ -47931,6 +47952,7 @@ radioautographs
 radiobiologic
 radiobiologies
 radiobiologist
+radiobiologists
 radiobiology
 radiochemically
 radiochemists
@@ -48158,6 +48180,7 @@ rapper
 rapping
 rappini
 rapport
+rapscallions
 rapt
 raptness
 raptured
@@ -50268,6 +50291,7 @@ residential
 residua
 residuals
 residuary
+residue
 residuum
 residuums
 resifting
@@ -52190,6 +52214,7 @@ santero
 santimu
 santir
 santolinas
+santols
 santonica
 santoor
 sapajou
@@ -54548,6 +54573,7 @@ silkweeds
 silkworm
 sill
 sillers
+sillibub
 silliness
 silly
 silt
@@ -55069,6 +55095,7 @@ slily
 slim
 slimeball
 slimeballs
+slimed
 slimier
 slimly
 slimmed
@@ -55345,6 +55372,7 @@ smothers
 smothery
 smouldered
 smouldering
+smudginess
 smudging
 smudgy
 smug
@@ -57581,6 +57609,7 @@ streeker
 streeking
 streeks
 streel
+streeling
 streetcar
 streetlamp
 streetlight
@@ -58373,6 +58402,7 @@ sugars
 suggest
 suggesters
 suggestibility
+suggestible
 suggestions
 suggestive
 suggests
@@ -60277,6 +60307,7 @@ teslas
 tesselate
 tessellate
 tessellated
+tessellates
 tessellating
 tessellation
 tessera
@@ -60290,6 +60321,7 @@ testament
 testamentary
 testate
 testees
+testicular
 testier
 testiest
 testifiers
@@ -60891,6 +60923,7 @@ tiltmeter
 tiltmeters
 tiltrotor
 tilts
+timbal
 timbale
 timbales
 timbals
@@ -63589,6 +63622,7 @@ unevaded
 unevener
 unevenly
 uneventful
+unevolved
 unexamined
 unexcelled
 unexceptionably
@@ -66971,6 +67005,7 @@ wofuller
 wold
 wolfberries
 wolfberry
+wolffishes
 wolfish
 wolfishly
 wolfishness
