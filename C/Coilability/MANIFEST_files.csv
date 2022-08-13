@@ -1,0 +1,10 @@
+Use manifest in Gauge With Examples - LambdaTest,https://www.lambdatest.com/automation-testing-advisor/golang/packages/gauge_go.manifest
+focal-desktop-amd64.manifest - Ubuntu CDimage,https://cdimage.ubuntu.com/lubuntu/focal/daily-live/current/focal-desktop-amd64.manifest
+https://www.cdimage.ubuntu.com/xubuntu/focal/daily...,https://www.cdimage.ubuntu.com/xubuntu/focal/daily-live/pending/focal-desktop-amd64.manifest
+ftp.dei.uc.pt/pub/linux/xubuntu/releases/14.04/rel...,http://ftp.dei.uc.pt/pub/linux/xubuntu/releases/14.04/release/xubuntu-14.04.1-desktop-i386.manifest
+https://mirrors.aliyun.com/centos-vault/8.0.1905/i...,https://mirrors.aliyun.com/centos-vault/8.0.1905/isos/ppc64le/CentOS-8-ppc64le-1905-dvd1.iso.manifest
+https://downloads.openwrt.org/releases/18.06.9/pac...,https://downloads.openwrt.org/releases/18.06.9/packages/aarch64_cortex-a72/routing/Packages.manifest
+kinetic-desktop-amd64.manifest - FTP Directory Listing,http://ftp.jaist.ac.jp/pub/Linux/ubuntu-cdimage/ubuntu-mate/daily-live/pending/kinetic-desktop-amd64.manifest
+ftp.twaren.net/ubuntu-dvd/kubuntu/releases/10.04/a...,http://ftp.twaren.net/ubuntu-dvd/kubuntu/releases/10.04/alpha-3/lucid-desktop-i386.manifest
+mint-dev-tools/filesystem.manifest at master - GitHub,https://github.com/linuxmint/mint-dev-tools/blob/master/usr/share/mint-dev-tools/manifests/mint-20-mate/filesystem.manifest
+repo.ugm.ac.id/iso/ubuntu/releases/kubuntu/maveric...,http://repo.ugm.ac.id/iso/ubuntu/releases/kubuntu/maverick/kubuntu-10.10-desktop-i386.manifest

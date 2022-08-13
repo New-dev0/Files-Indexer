@@ -1853,6 +1853,7 @@ analyzing
 anamnesis
 ananke
 anankes
+anapest
 anaphor
 anaphora
 anaphorically
@@ -3259,6 +3260,7 @@ asphyxies
 aspidistra
 aspidistras
 aspirant
+aspiratae
 aspirate
 aspirating
 aspiration
@@ -4173,6 +4175,7 @@ bahuvrihis
 bailed
 bailee
 bailey
+bailie
 bailiffship
 bailiffships
 bailors
@@ -4192,6 +4195,7 @@ bakemeats
 baker
 bakers
 bakeshop
+baksheeshes
 bakshish
 bakshishing
 bal
@@ -10902,6 +10906,7 @@ coiffeuses
 coiffure
 coiffures
 coigns
+coilability
 coilers
 coin
 coinable
@@ -11398,6 +11403,7 @@ composednesses
 composing
 compositors
 compost
+composted
 composters
 composures
 compounded
@@ -12363,6 +12369,7 @@ corkboard
 corkboards
 corker
 corkier
+corkinesses
 corkscrew
 corkwood
 cormels
@@ -12546,6 +12553,7 @@ cosiness
 cosmetic
 cosmetician
 cosmeticize
+cosmeticizing
 cosmical
 cosmochemical
 cosmochemist
@@ -15133,6 +15141,7 @@ denitrate
 denitrated
 denitrating
 denitrifies
+denizens
 denning
 denominate
 denominates
@@ -19536,6 +19545,7 @@ epsilonic
 equablenesses
 equably
 equal
+equalised
 equalitarians
 equalities
 equalization
@@ -19977,6 +19987,7 @@ eupatridae
 eupatrids
 eupepsias
 euphausid
+euphausids
 euphausiids
 euphemise
 euphemisms
@@ -21278,6 +21289,7 @@ fenagles
 fence
 fencelessnesses
 fencer
+fences
 fencible
 fencings
 fender
@@ -21749,6 +21761,7 @@ fiscally
 fish
 fishbolts
 fished
+fisher
 fisherfolk
 fishermen
 fishery
@@ -23579,6 +23592,7 @@ galluses
 galoot
 galop
 galoshed
+galumph
 galumphs
 galvanic
 galvanises
@@ -23904,6 +23918,7 @@ gelati
 gelatines
 gelatinization
 gelatinizations
+gelatinize
 gelatinized
 gelatinizes
 gelatinously
@@ -24327,6 +24342,7 @@ give
 giveaway
 giveback
 givers
+gives
 gizmos
 gjetost
 glabellae
@@ -25059,6 +25075,7 @@ grassless
 grassplots
 grassy
 grated
+gratefulnesses
 grateless
 grater
 graters
@@ -25401,6 +25418,7 @@ grues
 gruesomeness
 gruesomer
 gruesomest
+gruffer
 gruffest
 gruffly
 gruffs
@@ -25905,6 +25923,7 @@ halothanes
 halt
 halterbreaking
 haltering
+halters
 haltless
 halva
 halvahs
@@ -30366,6 +30385,7 @@ inveterate
 inveterately
 inviability
 inviably
+invigilate
 invigilated
 invigilates
 invigilation
@@ -32015,6 +32035,7 @@ labial
 labializations
 labializes
 labials
+labiates
 labiodental
 labiodentals
 labiovelar
@@ -34452,6 +34473,7 @@ mannerism
 mannerist
 manneristic
 mannerless
+mannerliness
 mannerlinesses
 manners
 mannishly
@@ -37833,6 +37855,7 @@ nala
 nalas
 naloxone
 naloxones
+naltrexones
 nam
 nameable
 namely
@@ -40970,6 +40993,7 @@ outwish
 outwished
 outwit
 outwitted
+outwore
 outworker
 outworn
 outwrestles
@@ -45085,6 +45109,7 @@ popover
 poppadoms
 poppadums
 popper
+poppets
 poppled
 poppy
 poppycock
@@ -46293,6 +46318,7 @@ pristine
 pristinely
 privatdozent
 privatdozents
+privateering
 privately
 privateness
 privatising
@@ -48584,6 +48610,7 @@ rechose
 rechosen
 recidivist
 recipe
+recipient
 reciprocal
 reciprocally
 reciprocating
@@ -49171,6 +49198,7 @@ reforestation
 reforestations
 reforesting
 reforests
+reforge
 reform
 reformate
 reformations
@@ -49880,6 +49908,7 @@ repenters
 repeople
 repeopling
 repercussion
+repercussive
 reperked
 reperking
 reperks
@@ -51417,6 +51446,7 @@ rottenest
 rotting
 rottweilers
 rotunda
+rotundities
 rotundness
 roturiers
 rouches
@@ -57180,6 +57210,7 @@ stickhandlers
 stickhandles
 stickhandling
 stickiness
+stickinesses
 stickled
 sticklers
 stickles
@@ -60567,6 +60598,7 @@ thou
 thoued
 thought
 thoughtfully
+thoughts
 thousand
 thowless
 thraldom
@@ -61616,6 +61648,7 @@ translatable
 translated
 translation
 translators
+transliterate
 transliterated
 transliterates
 transliteration
@@ -62109,6 +62142,7 @@ trochanteral
 trochanters
 trochar
 trochars
+troche
 trochee
 trochil
 trochili
@@ -66513,6 +66547,7 @@ whitenesses
 whitening
 whitens
 whiteouts
+whites
 whitewall
 whitewash
 whitewasher
