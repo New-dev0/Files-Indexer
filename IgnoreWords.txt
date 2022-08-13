@@ -1089,6 +1089,7 @@ airports
 airpower
 airpowers
 airproofing
+airs
 airscape
 airscrews
 airshed
@@ -3233,6 +3234,7 @@ ashler
 ashless
 ashore
 ashplant
+ashram
 ashrams
 aside
 asinine
@@ -3812,6 +3814,7 @@ autorotations
 autostrada
 autostradas
 autostrade
+autosuggest
 autosuggested
 autotetraploidy
 autotomic
@@ -5942,6 +5945,7 @@ blastomycosis
 blastopore
 blastospores
 blastulae
+blastular
 blastulas
 blastulations
 blatancy
@@ -7595,6 +7599,7 @@ busybody
 busying
 busynesses
 butanes
+butanol
 butanone
 butch
 butcher
@@ -8954,6 +8959,7 @@ cellphone
 cellphones
 cellular
 cellulars
+cellule
 cellulites
 cellulitis
 cellulitises
@@ -13931,6 +13937,7 @@ cybernetically
 cyberneticist
 cyberneticists
 cyberpunks
+cybersex
 cybersexes
 cyberspace
 cyborg
@@ -18294,6 +18301,7 @@ edited
 editor
 editorialists
 editorialized
+editorializer
 editorializes
 editorializing
 editorials
@@ -21046,6 +21054,7 @@ fanners
 fannies
 fanny
 fano
+fanon
 fanos
 fans
 fantail
@@ -21944,6 +21953,7 @@ flagellation
 flagellations
 flagellin
 flageolets
+flaggers
 flaggier
 flaggingly
 flaggings
@@ -23579,6 +23589,7 @@ gae
 gaen
 gaffers
 gaffing
+gagaku
 gage
 gagged
 gagger
@@ -27578,6 +27589,7 @@ horning
 hornings
 hornist
 hornito
+hornless
 hornstone
 hornswoggles
 horntail
@@ -29287,6 +29299,7 @@ indifferentisms
 indifferently
 indigen
 indigences
+indigencies
 indigene
 indigenes
 indigenization
@@ -32485,6 +32498,7 @@ lardon
 lardoons
 laree
 largehearted
+largemouth
 largenesses
 larger
 larges
@@ -33916,6 +33930,7 @@ loxodrome
 loxodromes
 loyaler
 loyalest
+loyalism
 loyally
 luau
 lubber
@@ -37499,6 +37514,7 @@ mudcapped
 mudcapping
 mudcat
 mudder
+muddied
 muddier
 muddiest
 muddly
@@ -37797,6 +37813,7 @@ muskrat
 muskrats
 muskroot
 musky
+muslin
 muspike
 musquash
 musquashes
@@ -37951,6 +37968,7 @@ mystagogies
 mystagogue
 mysteriously
 mystery
+mystic
 mystically
 mysticete
 mysticetes
@@ -39631,6 +39649,7 @@ nutriment
 nutritional
 nutritionally
 nutritionist
+nutritive
 nutritively
 nutritives
 nuts
@@ -39942,6 +39961,7 @@ odorant
 odorants
 odorizing
 odorously
+odourful
 odyl
 odyles
 odysseys
@@ -45316,6 +45336,7 @@ poppadoms
 poppadums
 popper
 poppets
+popping
 poppled
 poppy
 poppycock
@@ -46483,6 +46504,7 @@ primness
 primnesses
 primogenitor
 primordia
+primordially
 primp
 primping
 primps
@@ -47713,6 +47735,7 @@ qaids
 qanat
 qats
 qindar
+qindars
 qiviut
 qiviuts
 qoph
@@ -48581,6 +48604,7 @@ reaffixing
 reafforested
 reafforesting
 reaggregated
+reaggregating
 reaggregation
 realer
 reales
@@ -49711,6 +49735,7 @@ reinspire
 reinstall
 reinstalled
 reinstalling
+reinstate
 reinstates
 reinstating
 reinstitute
@@ -50403,6 +50428,7 @@ rescinding
 rescindments
 rescore
 rescoring
+rescreening
 rescue
 rescuer
 resculpted
@@ -50722,6 +50748,7 @@ resuscitates
 resuscitating
 resuscitation
 resuscitations
+resuscitative
 reswallowed
 resynthesizes
 resystematizing
@@ -60503,6 +60530,7 @@ terraforming
 terrains
 terrapin
 terrarium
+terrariums
 terrases
 terrazzo
 terrella
@@ -62477,6 +62505,7 @@ trombonists
 trommel
 trommels
 trompe
+tromping
 tromps
 trona
 tronas
@@ -62708,6 +62737,7 @@ tui
 tuitional
 tularemias
 tule
+tules
 tulips
 tulipwoods
 tullibees
@@ -63846,6 +63876,7 @@ unembellished
 unembittered
 unemotionally
 unemphatically
+unemployability
 unemployables
 unemployment
 unemployments
@@ -64045,6 +64076,7 @@ uninstalling
 uninstructed
 uninsulated
 uninsurable
+unintelligently
 unintelligible
 unintentionally
 uninterested
@@ -66106,6 +66138,7 @@ vulcanized
 vulcanizer
 vulcanizes
 vulcanizing
+vulcanologists
 vulcanology
 vulgar
 vulgarer
@@ -66122,6 +66155,7 @@ vulnerability
 vulnerable
 vulnerableness
 vulnerably
+vulnerary
 vulture
 vultures
 vulturous
@@ -66759,6 +66793,7 @@ wheels
 wheeped
 wheeping
 wheeples
+wheeps
 wheezed
 wheezy
 whelkiest
