@@ -1986,6 +1986,7 @@ angle
 angled
 angler
 anglerfish
+anglerfishes
 angleworm
 angleworms
 anglice
@@ -11290,6 +11291,7 @@ commodity
 common
 commonality
 commonness
+commonnesses
 commonsensible
 commonsensical
 commonweal
@@ -14755,6 +14757,7 @@ defensed
 defenseless
 defenselessly
 defenseman
+defensible
 defensiveness
 defer
 deference
@@ -15482,6 +15485,7 @@ desilvering
 desinences
 desinent
 desipramines
+desirability
 desirableness
 desirables
 desirably
@@ -15768,6 +15772,7 @@ diademing
 diaeresis
 diageotropic
 diagnosable
+diagnosed
 diagnosing
 diagnosis
 diagnostic
@@ -17797,6 +17802,7 @@ duettist
 duff
 duffel
 duffer
+duffle
 duffles
 dugouts
 duh
@@ -21475,6 +21481,7 @@ fewnesses
 feyest
 fez
 fezes
+fezzed
 fiancee
 fiancees
 fianchettoed
@@ -24191,6 +24198,7 @@ gest
 gestalt
 gestaltists
 gestated
+gestates
 gestating
 gestations
 gestative
@@ -26565,6 +26573,7 @@ heinie
 heinously
 heirdoms
 heired
+heiresses
 heirlooms
 heirs
 heishi
@@ -27020,6 +27029,7 @@ hillbilly
 hilled
 hillier
 hillinesses
+hilling
 hilloaing
 hilloas
 hillock
@@ -27350,6 +27360,7 @@ homologating
 homologations
 homologic
 homological
+homologies
 homologize
 homologized
 homologizes
@@ -30250,6 +30261,7 @@ intervene
 intervener
 intervenes
 intervening
+interventionism
 interviewed
 interviewees
 intervocalic
@@ -31762,6 +31774,7 @@ kimono
 kimonoed
 kin
 kina
+kinara
 kinases
 kinder
 kindergarteners
@@ -31841,6 +31854,7 @@ kissing
 kists
 kitchen
 kitchenets
+kitchens
 kitchenware
 kite
 kitelike
@@ -32855,6 +32869,7 @@ lentiviruses
 leone
 leonine
 leopardess
+leopardesses
 leotard
 leotarded
 lepers
@@ -34898,6 +34913,7 @@ matriculation
 matrilineally
 matrimonies
 matrimony
+matrix
 matronized
 matronizes
 matrons
@@ -44772,6 +44788,7 @@ pluralist
 pluralists
 pluralities
 pluralizing
+plurally
 plus
 plush
 plushily
@@ -44802,6 +44819,7 @@ poachier
 pochard
 pock
 pocket
+pocketbooks
 pocketers
 pocketful
 pocketing
@@ -45670,6 +45688,7 @@ prebound
 prebreakfast
 prebudgets
 prebuild
+prebuilding
 prebuilds
 prebuy
 prebuying
@@ -46097,6 +46116,7 @@ presciences
 prescientific
 prescreened
 prescribe
+prescribes
 prescribing
 prescripts
 preseasons
@@ -46887,6 +46907,7 @@ protestations
 protested
 protester
 protests
+prothalli
 prothonotaries
 prothonotary
 prothoraces
@@ -48047,6 +48068,7 @@ rafting
 ragamuffin
 ragamuffins
 ragas
+ragbag
 rage
 raggedier
 raggedly
@@ -48585,6 +48607,7 @@ rebid
 rebidding
 rebill
 rebilled
+rebinds
 rebirths
 reblended
 reblent
@@ -48901,6 +48924,7 @@ rectitude
 rectitudinous
 recto
 rectocele
+rector
 rectories
 rectors
 rectorships
@@ -49633,6 +49657,7 @@ rekeyboarding
 rekeying
 rekeys
 rekindled
+rekindles
 reknits
 reknitting
 reknots
@@ -50157,6 +50182,7 @@ republished
 republisher
 republishes
 repudiate
+repudiationist
 repudiations
 repugnancy
 repugnantly
@@ -51779,6 +51805,7 @@ runback
 rundles
 rundlet
 rune
+runelike
 runes
 rungless
 rungs
@@ -52122,6 +52149,7 @@ salvageability
 salvageable
 salvagers
 salvages
+salvaging
 salvation
 salvational
 salve
@@ -54533,6 +54561,7 @@ sigloi
 sigma
 sigmate
 sigmoidal
+sigmoidally
 sigmoidoscopies
 signage
 signalers
@@ -54589,6 +54618,7 @@ silesias
 silhouette
 silhouetted
 silhouetting
+silicic
 silicides
 silicification
 silicified
@@ -55511,6 +55541,7 @@ snell
 sneller
 snelling
 snibbing
+snickering
 snickersnee
 snidest
 sniffed
@@ -59003,6 +59034,7 @@ suspensors
 suspicion
 suspicions
 suspicious
+suspiciously
 suspiration
 suspirations
 suspiring
@@ -63685,6 +63717,7 @@ unfairer
 unfaith
 unfaithful
 unfaithfully
+unfalsifiable
 unfamiliarly
 unfamous
 unfasten
@@ -64681,6 +64714,7 @@ upsurging
 upsweeping
 upsweeps
 upswelled
+upswung
 uptakes
 uptalked
 uptalks
@@ -66520,6 +66554,7 @@ whangs
 whapped
 whappers
 whaps
+wharf
 wharfage
 wharfinger
 wharfmasters
