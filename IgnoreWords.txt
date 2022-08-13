@@ -917,6 +917,7 @@ agaze
 aged
 ageisms
 ageist
+ageists
 ageless
 agelessly
 agelessnesses
@@ -1795,6 +1796,7 @@ amyls
 amylums
 anabaena
 anabaenas
+anabaptisms
 anabas
 anabasis
 anabatic
@@ -2396,6 +2398,7 @@ antipesticide
 antiphlogistic
 antiphonal
 antiphonals
+antiphonaries
 antiphons
 antiplague
 antiplaque
@@ -2931,6 +2934,7 @@ archenterons
 archeology
 archerfish
 archerfishes
+archesporia
 archesporial
 archesporium
 archetypally
@@ -3282,6 +3286,7 @@ aspersors
 asphalt
 aspherical
 asphodels
+asphyxiating
 asphyxies
 aspidistra
 aspidistras
@@ -3928,6 +3933,7 @@ awe
 aweather
 awed
 aweigh
+awesomely
 awesomeness
 awfullest
 awfully
@@ -4027,6 +4033,7 @@ babesiosis
 babiche
 babiches
 babiest
+babirussas
 baboon
 baboonery
 baboons
@@ -8601,6 +8608,7 @@ cartelize
 cartels
 cartes
 carthorses
+cartilage
 cartilages
 cartilaginous
 cartload
@@ -15773,6 +15781,7 @@ device
 deviled
 devilfish
 devilfishes
+deviling
 devilish
 devilling
 devilry
@@ -15912,6 +15921,7 @@ dialogue
 dialysate
 dialyzers
 dialyzes
+dialyzing
 diamagnet
 diamagnetic
 diamante
@@ -15985,6 +15995,7 @@ dibromide
 dicamba
 dicast
 dicasts
+dicentric
 dicers
 dicey
 dichasial
@@ -16239,6 +16250,7 @@ dingleberries
 dingoes
 dinitrophenol
 dinkeys
+dinkiest
 dinking
 dinkums
 dinky
@@ -16503,6 +16515,7 @@ discommends
 discommode
 discommodes
 discompose
+discomposing
 discomposure
 discomposures
 disconcerted
@@ -18343,6 +18356,7 @@ ecus
 eczemas
 ed
 edacities
+edaphic
 edaphically
 eddies
 eddy
@@ -27526,6 +27540,7 @@ homologize
 homologized
 homologizes
 homologizing
+homologs
 homologue
 homolytic
 homomorphism
@@ -27573,6 +27588,7 @@ honeydew
 honeydews
 honeyeater
 honeyed
+honeying
 honeymooners
 honeymoons
 honeypots
@@ -30301,6 +30317,7 @@ intermeddles
 intermeddling
 intermediacies
 intermediated
+intermediation
 intermesh
 intermeshing
 intermezzi
@@ -35779,6 +35796,7 @@ metaplasia
 metaplasm
 metapsychology
 metasomatic
+metastably
 metastases
 metastasis
 metastasizes
@@ -36237,6 +36255,7 @@ milo
 milpa
 milters
 milts
+milty
 mimbar
 mimbars
 mime
@@ -37676,6 +37695,7 @@ mueslis
 muezzin
 muffed
 muffineer
+mufflers
 muffs
 mufti
 muftis
@@ -39888,6 +39908,7 @@ obligatos
 obliged
 obligees
 obligingness
+oblique
 obliqued
 obliquely
 obliquenesses
@@ -40883,6 +40904,7 @@ outbribe
 outbribes
 outbuilds
 outbuilt
+outbulge
 outbulges
 outbullying
 outburn
@@ -40942,6 +40964,7 @@ outdoes
 outdoorsy
 outdragged
 outdrags
+outdraw
 outdrawn
 outdraws
 outdreaming
@@ -42165,6 +42188,7 @@ paesans
 pagan
 pagandom
 paganises
+paganist
 paganists
 paganized
 paganizers
@@ -46253,6 +46277,7 @@ preload
 prelocate
 prelocates
 prelude
+preluder
 preludial
 preluding
 prelunch
@@ -52621,6 +52646,7 @@ sanitated
 sanitating
 sanitised
 sanitises
+sanitized
 sanitizes
 sanitoria
 sanjak
@@ -60062,6 +60088,7 @@ tam
 tamable
 tamale
 tamals
+tamaracks
 tamaraos
 tamaraus
 tamarind
@@ -62615,6 +62642,7 @@ trioxids
 tripacks
 tripe
 triphthongal
+triphthongs
 tripinnate
 triple
 tripled
@@ -64741,6 +64769,7 @@ unsettle
 unsettled
 unsettlednesses
 unsettlements
+unsettlingly
 unsew
 unsews
 unsexing
@@ -65319,6 +65348,7 @@ uxoriousnesses
 vacant
 vacate
 vacates
+vacation
 vacationlands
 vaccinas
 vaccinator
@@ -66724,6 +66754,7 @@ waterfall
 waterfalls
 waterflooded
 waterflooding
+waterfloods
 waterfowlers
 waterhen
 waterhens
@@ -66978,6 +67009,7 @@ westerner
 westernisations
 westernised
 westernize
+westerns
 westmost
 wests
 westward
@@ -67113,6 +67145,7 @@ whippletrees
 whipray
 whips
 whipsaw
+whipsawing
 whipstitching
 whiptail
 whipworm
@@ -67389,6 +67422,7 @@ winepress
 wines
 winesap
 winesaps
+wineskin
 wingbacks
 wingbows
 wingchairs
@@ -68320,6 +68354,7 @@ zootomist
 zootomists
 zootomy
 zooxanthella
+zori
 zoril
 zorilla
 zorillas
