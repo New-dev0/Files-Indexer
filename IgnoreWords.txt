@@ -3740,6 +3740,7 @@ authenticating
 authenticators
 authenticity
 authored
+authoress
 authoresses
 authorial
 authorise
@@ -6737,6 +6738,7 @@ boxily
 boxinesses
 boxings
 boxthorn
+boxthorns
 boyarisms
 boyars
 boychicks
@@ -7451,6 +7453,7 @@ bungalows
 bunged
 bunging
 bungle
+bungler
 bunglers
 bunglings
 bungs
@@ -9499,6 +9502,7 @@ cheesecloth
 cheesecloths
 cheeseparing
 cheeses
+cheesily
 cheesiness
 cheesinesses
 cheesy
@@ -10889,6 +10893,7 @@ coexisted
 coexistent
 coexisting
 coextends
+cofactors
 cofavorite
 cofeaturing
 coffee
@@ -11041,6 +11046,7 @@ colemanites
 coleoptera
 coleopterist
 coleopterists
+coleoptile
 coleorhiza
 coles
 colessor
@@ -12459,6 +12465,7 @@ corms
 corn
 cornball
 cornballs
+cornbraid
 cornbraiding
 cornbraids
 cornbread
@@ -14421,6 +14428,7 @@ deadlight
 deadlined
 deadliness
 deadlining
+deadly
 deadpan
 deadpanner
 deaerated
@@ -17993,6 +18001,7 @@ durns
 durocs
 duros
 durras
+durrie
 durrs
 durst
 dusk
@@ -18376,6 +18385,7 @@ eely
 eerily
 eerinesses
 effaceable
+effacer
 effacing
 effect
 effector
@@ -21404,6 +21414,7 @@ fellowshipped
 fellowships
 felon
 feloniousness
+felons
 felsite
 felspars
 felstone
@@ -21442,6 +21453,7 @@ fenestration
 fennec
 fennecs
 fennels
+fennier
 fentanyl
 fentanyls
 fenthions
@@ -25173,6 +25185,7 @@ granodiorite
 granola
 granolith
 granophyre
+grantee
 grantees
 granters
 grants
@@ -30591,6 +30604,7 @@ invigilator
 invigilators
 invigorates
 invigoration
+invigorator
 invincibleness
 invincibly
 inviolability
@@ -30628,6 +30642,7 @@ involutional
 involve
 involved
 involvement
+involver
 invulnerability
 invulnerably
 inwall
@@ -32701,6 +32716,7 @@ launched
 launcher
 launchers
 launching
+launchpad
 launchpads
 launderers
 launderette
@@ -35103,6 +35119,7 @@ matzah
 matzo
 maud
 maudlin
+mauger
 maul
 mauler
 maulsticks
@@ -36247,6 +36264,7 @@ minibar
 minibike
 minibiker
 minibikers
+minibusses
 minicab
 minicabs
 minicamps
@@ -44206,6 +44224,7 @@ physiognomies
 physiographical
 physiography
 physiologist
+physiology
 physiotherapies
 physiotherapy
 physique
@@ -45324,6 +45343,7 @@ polysulfides
 polysyndeton
 polysyndetons
 polytechnic
+polytheisms
 polythene
 polythenes
 polytonalities
@@ -46741,6 +46761,7 @@ proctors
 proctorships
 procurations
 procuratorial
+procurators
 procure
 procurement
 procuresses
@@ -47512,6 +47533,7 @@ pumicer
 pumicing
 pumicites
 pummelling
+pump
 pumped
 pumper
 pumpers
@@ -48324,6 +48346,7 @@ raid
 raids
 railbus
 railbuses
+railbusses
 railcar
 railed
 railer
@@ -49807,6 +49830,7 @@ reincited
 reindexes
 reindictment
 reindictments
+reinduce
 reinducts
 reindustrialize
 reined
@@ -49893,6 +49917,7 @@ rejigs
 rejoice
 rejoiced
 rejoices
+rejoicings
 rejoining
 rejudge
 rejuggled
@@ -53231,6 +53256,7 @@ scree
 screech
 screecher
 screechiest
+screeching
 screed
 screenfuls
 screenlands
@@ -56075,6 +56101,7 @@ soiree
 sojourners
 sojourns
 sokol
+solace
 solacement
 solacer
 solacing
@@ -59713,6 +59740,7 @@ synergisms
 synergist
 synergistic
 synergy
+synesthesias
 synfuels
 syngases
 syngenic
@@ -61700,6 +61728,7 @@ toponyms
 topos
 topotype
 topped
+toppers
 topping
 toppr
 topsails
@@ -62323,6 +62352,7 @@ tretinoins
 trevallies
 trevallys
 trevet
+trevets
 triac
 triacetates
 triadically
@@ -62539,6 +62569,7 @@ triposes
 tripped
 tripper
 trippets
+trippiest
 tripping
 trips
 triptan
@@ -62893,6 +62924,7 @@ tumping
 tumulose
 tumultuary
 tumultuous
+tumultuously
 tumultuousness
 tun
 tuna
@@ -63132,6 +63164,7 @@ twofer
 twofold
 twoonie
 twoonies
+twopenny
 twos
 twosome
 twosomes
@@ -63990,6 +64023,7 @@ undutiful
 undutifulnesses
 undynamic
 uneagerly
+unearned
 unearthed
 unearthliest
 unearthliness
@@ -64585,6 +64619,7 @@ unround
 unrounded
 unruled
 unruliest
+unruly
 unrumpled
 uns
 unsaddled
