@@ -757,6 +757,7 @@ aeroelasticity
 aeroembolisms
 aerogrammes
 aerograms
+aerolites
 aerolitic
 aeromechanics
 aeromedicine
@@ -4563,6 +4564,7 @@ bask
 basked
 basketballs
 basketful
+basketry
 basketwork
 basketworks
 basmati
@@ -9719,6 +9721,7 @@ chirrs
 chirruped
 chirrups
 chiru
+chirurgeons
 chirus
 chis
 chiseled
@@ -9881,6 +9884,7 @@ chortle
 chortled
 choruses
 chosen
+choses
 chott
 choughs
 chouse
@@ -10638,6 +10642,7 @@ coamings
 coanchor
 coannexed
 coannexing
+coappear
 coappeared
 coappearing
 coappears
@@ -17903,6 +17908,7 @@ dumbfounder
 dumbfoundered
 dumbfoundering
 dumbfounding
+dumbhead
 dumbs
 dumbstruck
 dumbwaiters
@@ -19399,6 +19405,7 @@ entozoans
 entrained
 entraining
 entrainment
+entrains
 entrance
 entranced
 entrancements
@@ -22115,6 +22122,7 @@ flavones
 flavonoid
 flavonols
 flavoproteins
+flavorful
 flavorfully
 flavorings
 flavoured
@@ -22382,6 +22390,7 @@ flunk
 flunked
 flunker
 flunking
+flunks
 flunkyism
 fluoresce
 fluorescein
@@ -23210,6 +23219,7 @@ friend
 friended
 friendless
 friendlier
+friendliest
 friendly
 friendship
 frier
@@ -26790,6 +26800,7 @@ hemipterans
 hemipterous
 hemipters
 hemispheric
+hemispherical
 hemitrope
 hemline
 hemlines
@@ -30605,6 +30616,7 @@ invocation
 invoice
 invoke
 invoked
+invoker
 involucels
 involucra
 involucral
@@ -32396,6 +32408,7 @@ lambies
 lambiest
 lambing
 lambkills
+lamblike
 lambrusco
 lambruscos
 lambskins
@@ -32846,6 +32859,7 @@ leavy
 lebensraum
 lechered
 lecheries
+lechering
 lecherous
 lecherously
 lecherousness
@@ -35668,6 +35682,7 @@ metacercarial
 metafiction
 metafictionists
 metagalactic
+metagalaxies
 metageneses
 metagenetic
 metalheads
@@ -38133,6 +38148,7 @@ nannyish
 nanogram
 nanometer
 nanometres
+nanosecond
 nanoseconds
 nanotech
 nanotechnology
@@ -38761,6 +38777,7 @@ nippiness
 nippingly
 nipple
 nippled
+nipples
 nippy
 nirvanic
 nitchies
@@ -39067,6 +39084,7 @@ nondomestic
 nondominant
 nondormant
 nondramatic
+nondrinking
 nondrip
 nondrying
 noneconomic
@@ -39512,6 +39530,7 @@ nostalgists
 nostrils
 nosy
 not
+notable
 notables
 notably
 notal
@@ -41523,6 +41542,7 @@ overflew
 overflies
 overflooding
 overflow
+overflowing
 overfly
 overfocus
 overfocusses
@@ -41957,6 +41977,7 @@ oxlips
 oxpeckers
 oxters
 oxtongue
+oxtongues
 oxy
 oxyacetylene
 oxycodones
@@ -49009,6 +49030,7 @@ recognizably
 recognizer
 recognizers
 recognizes
+recoilless
 recoined
 recolonizes
 recoloring
@@ -49410,6 +49432,7 @@ reenjoy
 reenlarge
 reenlarges
 reenlarging
+reenlisted
 reenlisting
 reenlistment
 reenlistments
@@ -49685,6 +49708,7 @@ regreeted
 regreeting
 regress
 regressive
+regressor
 regretfulness
 regretfulnesses
 regrettable
@@ -50990,6 +51014,7 @@ retroflexes
 retrogradation
 retrograded
 retrogradely
+retrograding
 retrogressed
 retrogressing
 retrogression
@@ -51323,6 +51348,7 @@ ricercar
 ricercari
 richen
 richened
+richening
 richer
 riches
 richnesses
@@ -51981,6 +52007,7 @@ rufflers
 ruffly
 ruffs
 rug
+ruga
 rugate
 rugby
 ruggeder
@@ -56000,6 +56027,7 @@ sockdolagers
 socket
 socketed
 sockeyes
+socmen
 sod
 sodaless
 sodalities
@@ -57936,6 +57964,7 @@ streakily
 streakinesses
 streaking
 streaks
+streamers
 streamier
 streamiest
 streamings
@@ -60624,6 +60653,7 @@ terraform
 terraforming
 terrains
 terrapin
+terraqueous
 terrarium
 terrariums
 terrases
@@ -64082,6 +64112,7 @@ ungirds
 unglamorized
 unglazed
 ungloving
+ungodliest
 ungotten
 ungowned
 ungraced
@@ -64143,6 +64174,7 @@ unhuman
 unhumorous
 unhung
 unhurried
+unhusked
 unhusks
 unhygienic
 uniaxial
@@ -65816,6 +65848,7 @@ vidette
 videttes
 vidicon
 viduities
+viduity
 vied
 viewdata
 viewer
@@ -65864,6 +65897,7 @@ villously
 vimen
 vimineous
 vina
+vinaceous
 vinaigrettes
 vinal
 vinals
@@ -67217,6 +67251,7 @@ windings
 windjammers
 windjamming
 windlassed
+windle
 windless
 windlessly
 windmills
