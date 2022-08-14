@@ -1916,6 +1916,7 @@ anchovetas
 anchovettas
 ancient
 ancientest
+ancientnesses
 ancientries
 ancillae
 ancillary
@@ -5012,6 +5013,7 @@ begot
 begotten
 begrime
 begrimmed
+begroan
 begroaning
 begrudge
 begs
@@ -11857,6 +11859,7 @@ congresswomen
 congruence
 congruences
 congruencies
+congruently
 congruities
 congruously
 congruousnesses
@@ -13044,6 +13047,7 @@ cracklier
 crackling
 cracknel
 cracks
+crackup
 cradle
 cradler
 cradlers
@@ -13214,6 +13218,7 @@ creepage
 creepages
 creeped
 creepies
+creepiest
 creese
 creeshes
 creeshing
@@ -17252,6 +17257,7 @@ doll
 dollars
 dollhouse
 dollhouses
+dollies
 dolling
 dollishly
 dollishness
@@ -18971,6 +18977,7 @@ emulator
 emulators
 emulous
 emulsification
+emulsifiers
 emulsifying
 emunctories
 emunctory
@@ -24082,6 +24089,7 @@ gauss
 gausses
 gauziest
 gauzy
+gave
 gavel
 gaveled
 gavelling
@@ -26338,6 +26346,7 @@ harborside
 harbour
 harbouring
 hard
+hardbacks
 hardboard
 hardboot
 hardboots
@@ -26907,6 +26916,7 @@ hemophiliacs
 hemopoieses
 hemorrhaging
 hemorrhoid
+hemorrhoidal
 hemorrhoids
 hemostases
 hemostasis
@@ -27506,6 +27516,7 @@ homeopath
 homeopathically
 homeopathies
 homeopathy
+homeostatic
 homeotherm
 homeothermy
 homeotic
@@ -29723,6 +29734,7 @@ inflictions
 inflorescence
 inflorescences
 influenceable
+influent
 influents
 info
 infobahn
@@ -31046,6 +31058,7 @@ itself
 ivermectins
 ivories
 ivory
+ivorybills
 ivylike
 ixias
 ixodid
@@ -33399,6 +33412,7 @@ lightnesses
 lightning
 lightplane
 lightplanes
+lightship
 lightwave
 lightweight
 lignan
@@ -33643,6 +33657,7 @@ literalization
 literalize
 literalized
 literalizes
+literalizing
 literariness
 literarinesses
 literations
@@ -34061,6 +34076,7 @@ loutish
 loutishnesses
 louvre
 louvres
+lovableness
 lovablenesses
 lovably
 lovage
@@ -36402,6 +36418,7 @@ minium
 minivans
 minivers
 minks
+minnesinger
 minnesingers
 minnow
 minny
@@ -37286,6 +37303,7 @@ monopsonies
 monopsonistic
 monopsony
 monorail
+monorails
 monorchid
 monorchids
 monorhyme
@@ -37662,6 +37680,7 @@ movable
 movableness
 moved
 movelessly
+movelessness
 moviedom
 moviegoer
 moviegoers
@@ -39409,6 +39428,7 @@ nonparasitic
 nonpareil
 nonpareils
 nonparents
+nonparticipant
 nonparticipants
 nonparties
 nonpartisanship
@@ -45266,6 +45286,7 @@ pokeweeds
 pokeys
 pokiest
 pokily
+pokinesses
 poky
 polarimetric
 polarimetries
@@ -45334,6 +45355,7 @@ pollees
 pollen
 pollenate
 pollenates
+pollenating
 pollenizers
 pollenosis
 pollens
@@ -46393,6 +46415,7 @@ preopening
 preoperative
 preops
 preordainments
+preordered
 preordering
 prepackage
 prepackaged
@@ -48345,6 +48368,7 @@ racings
 racism
 racisms
 racist
+racked
 rackers
 racketed
 racketier
@@ -49130,6 +49154,7 @@ recirculating
 recirculation
 recirculations
 recisions
+recit
 recitalists
 recitals
 recitation
@@ -49252,6 +49277,7 @@ reconstructors
 reconsult
 reconsulting
 recontacted
+recontacting
 recontacts
 recontaminate
 recontaminated
@@ -49576,6 +49602,7 @@ reendow
 reendowed
 reenforce
 reenforced
+reenforcing
 reengaged
 reengages
 reengineered
@@ -51231,6 +51258,7 @@ revarnish
 revarnishing
 reveal
 revealer
+revealers
 revealment
 revealments
 reveals
@@ -52323,6 +52351,7 @@ sabbats
 sabe
 sabermetrician
 sabin
+sabir
 sabirs
 sablefish
 sabot
@@ -54859,6 +54888,7 @@ shunners
 shunning
 shunpike
 shunpikes
+shunpikings
 shuns
 shunt
 shush
@@ -55993,6 +56023,7 @@ snickering
 snickersnee
 snidest
 sniffed
+sniffer
 sniffier
 sniffinesses
 sniffish
@@ -64476,6 +64507,7 @@ unkempt
 unkennelling
 unkent
 unkept
+unkind
 unkindest
 unkindlier
 unkindness
@@ -66394,6 +66426,7 @@ volumetrically
 voluming
 voluminosities
 voluminosity
+voluntaries
 voluntarily
 voluntarinesses
 voluntarism
@@ -67747,6 +67780,7 @@ wooliness
 woollies
 woollinesses
 woolly
+woolman
 woolmen
 wools
 woolwork
@@ -68006,6 +68040,7 @@ xylol
 xylophage
 xylophones
 xylophonist
+xylophonists
 xylose
 xyloses
 xylyls
