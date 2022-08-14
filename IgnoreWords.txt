@@ -1747,6 +1747,7 @@ amphiprostyles
 amphisbaenas
 amphisbaenic
 amphitheatrical
+amphora
 amphoral
 amphoteric
 ampicillins
@@ -1863,6 +1864,7 @@ analogy
 analphabetism
 analphabetisms
 analphabets
+analyse
 analysed
 analyses
 analyte
@@ -2401,6 +2403,7 @@ antinukes
 antiobscenity
 antioxidant
 antiozonant
+antipapal
 antiparty
 antipathy
 antipersonnel
@@ -3489,6 +3492,7 @@ astrometries
 astronaut
 astronautical
 astronautics
+astronauts
 astronomer
 astronomical
 astrophysics
@@ -5107,6 +5111,7 @@ belittle
 belittlements
 belive
 belladonna
+belleek
 belleeks
 belles
 belletrist
@@ -5896,6 +5901,7 @@ bizzes
 blabber
 blabbermouths
 blabbing
+black
 blackamoor
 blackball
 blackberries
@@ -6455,6 +6461,7 @@ bombshell
 bombsights
 bombycid
 bombycids
+bonaci
 bonanza
 bonded
 bondholders
@@ -8643,6 +8650,7 @@ carryalls
 carryback
 carryforward
 carrying
+carryon
 carryons
 carryout
 carryover
@@ -14132,6 +14140,7 @@ cygnets
 cylinder
 cylindered
 cylindering
+cylinders
 cylindrical
 cylix
 cyma
@@ -14952,6 +14961,7 @@ defibrillations
 defibrillators
 defibrinating
 deficient
+deficients
 defier
 defiladed
 defilement
@@ -15090,6 +15100,7 @@ dehydration
 dehydrations
 dehydrators
 dehydrogenated
+dehydrogenation
 deice
 deicer
 deicides
@@ -17159,6 +17170,7 @@ diverticulosis
 divertimentos
 diverting
 divertissement
+dives
 divestitures
 divests
 divesture
@@ -19130,6 +19142,7 @@ encomium
 encomiums
 encompasses
 encompassment
+encompassments
 encoring
 encountering
 encourage
@@ -21667,6 +21680,7 @@ ferula
 ferulas
 ferule
 feruled
+ferules
 fervencies
 fervour
 fes
@@ -22188,6 +22202,7 @@ flambeing
 flambes
 flamboyances
 flamelike
+flamenco
 flamencos
 flamens
 flameproofed
@@ -23062,6 +23077,7 @@ forsaking
 forsook
 forsooth
 forswearing
+forswears
 forswore
 forsworn
 forsythia
@@ -25635,6 +25651,7 @@ griths
 grits
 grittiest
 grittinesses
+gritting
 gritty
 grivets
 grizzle
@@ -27096,6 +27113,7 @@ hereon
 heresies
 heresy
 heretrixes
+hereunder
 hereunto
 heriot
 heritages
@@ -28123,6 +28141,7 @@ hummer
 hummers
 hummocks
 humongous
+humoral
 humored
 humorful
 humoristic
@@ -28440,6 +28459,7 @@ hypersalinity
 hypersalivation
 hypersecretions
 hypersexuality
+hypersomnolence
 hypersonic
 hypersonically
 hyperspace
@@ -33091,6 +33111,7 @@ leavening
 leavier
 leavy
 lebensraum
+leched
 lechered
 lecheries
 lechering
@@ -35273,6 +35294,7 @@ masturbated
 masturbates
 masturbating
 masturbator
+match
 matchboard
 matchboxes
 matching
@@ -43649,6 +43671,7 @@ peperomias
 pepino
 peponidas
 peponium
+pepper
 pepperbox
 pepperboxes
 peppercorn
@@ -46709,6 +46732,7 @@ presiding
 presidios
 presidiums
 presifts
+presignal
 presignaled
 presignaling
 presignalling
@@ -46726,6 +46750,7 @@ presplit
 press
 pressboard
 pressed
+pressings
 pressruns
 pressureless
 pressurised
@@ -48556,6 +48581,7 @@ radiationless
 radiative
 radical
 radicalise
+radicalises
 radicalising
 radicalisms
 radicalizations
@@ -48948,6 +48974,7 @@ raves
 ravining
 ravioli
 ravished
+ravisher
 ravishers
 ravishes
 rawest
@@ -53666,6 +53693,7 @@ scubaed
 scubas
 scudding
 scudo
+scuds
 scuffed
 scuffer
 scuffers
@@ -54541,6 +54569,7 @@ shallower
 shallowest
 shallows
 shaloms
+shalt
 shamable
 shamably
 shaman
@@ -54976,6 +55005,7 @@ shoveling
 shovelled
 shovellers
 shovelling
+shovels
 shovelsful
 shoves
 shoving
@@ -56560,6 +56590,7 @@ solute
 solution
 solutions
 solvate
+solvated
 solve
 solves
 solvolytic
@@ -58464,6 +58495,7 @@ strobila
 strobilae
 strobilation
 strobilations
+strobili
 strobilus
 stroboscopic
 stroke
@@ -60512,6 +60544,7 @@ tarmacs
 tarnal
 tarnish
 tarns
+tarocs
 taroks
 tarot
 tarp
@@ -61613,6 +61646,7 @@ thyrotrophin
 thyrotropic
 thyrotropins
 thyroxin
+thyroxins
 thyrse
 thyrses
 thyrsus
@@ -63907,6 +63941,7 @@ unbarred
 unbasted
 unbated
 unbearably
+unbeared
 unbears
 unbeatably
 unbecomingly
