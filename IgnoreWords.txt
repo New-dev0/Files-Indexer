@@ -1935,6 +1935,7 @@ anchorpeople
 anchorwomen
 anchovetas
 anchovettas
+anchylosing
 ancient
 ancientest
 ancientness
@@ -2144,6 +2145,7 @@ annuity
 annularly
 annulation
 annulet
+annulets
 annulment
 annulus
 annuluses
@@ -3609,6 +3611,7 @@ atrociously
 atrociousnesses
 atrocity
 atrophied
+atropisms
 attaboy
 attached
 attacher
@@ -4487,6 +4490,7 @@ bareboned
 bared
 barefaced
 barefacedly
+barefacedness
 bareges
 barehand
 barehanded
@@ -4866,6 +4870,7 @@ beclamor
 beclamoring
 beclamors
 beclasp
+beclasping
 beclasps
 becloaks
 beclogs
@@ -6290,6 +6295,7 @@ blunter
 blunting
 blurbed
 blurbing
+blurbist
 blurredly
 blurrily
 blurring
@@ -8226,6 +8232,7 @@ canary
 canasta
 cancelable
 cancelation
+canceling
 cancellers
 cancerous
 cancha
@@ -12987,6 +12994,7 @@ counterproposal
 counterprotest
 counterpunches
 counterpunching
+counterquestion
 counterrallies
 counterreaction
 counterreformer
@@ -15878,6 +15886,7 @@ detentists
 deterge
 detergencies
 detergency
+detergent
 detergers
 deterges
 deterging
@@ -17150,6 +17159,7 @@ distant
 distantness
 distaste
 distasted
+distaves
 distelfinks
 distempered
 distender
@@ -17404,6 +17414,7 @@ dogmatism
 dogmatist
 dogmatize
 dogmatizers
+dogmatizes
 dognap
 dognapped
 dognappers
@@ -19308,6 +19319,7 @@ endocarps
 endocast
 endochondral
 endocrines
+endocytotic
 endoderm
 endoderms
 endodontists
@@ -19942,6 +19954,7 @@ equanimity
 equates
 equation
 equational
+equations
 equerry
 equestrian
 equestrians
@@ -21270,6 +21283,7 @@ fairground
 fairish
 fairishly
 fairleaders
+fairly
 fairnesses
 fairway
 fairylands
@@ -22920,6 +22934,7 @@ footling
 footlocker
 footlockers
 footmen
+footnote
 footnoted
 footnoting
 footpace
@@ -23386,6 +23401,7 @@ frasses
 fraternally
 fraternities
 fraternity
+fraternization
 fraternizations
 fraternizer
 fraternizers
@@ -24810,6 +24826,7 @@ gismos
 gists
 gite
 gittern
+gitterns
 gitting
 give
 giveaway
@@ -28854,6 +28871,7 @@ igloos
 igneous
 ignescents
 ignified
+ignify
 ignitability
 ignitable
 ignite
@@ -31257,6 +31275,7 @@ isografted
 isohels
 isolable
 isolate
+isolated
 isolating
 isolationists
 isolations
@@ -31445,6 +31464,7 @@ jambs
 jammable
 jammed
 jammer
+jammers
 jammies
 jammy
 jampacked
@@ -37776,6 +37796,7 @@ mora
 morae
 moraine
 morales
+moralised
 moralising
 moralist
 moralistically
@@ -38033,6 +38054,7 @@ moviemaking
 moving
 moviola
 mow
+mowed
 mower
 moxa
 moxie
@@ -41803,6 +41825,7 @@ outweeping
 outwhirl
 outwhirling
 outwhirls
+outwiling
 outwill
 outwind
 outwinded
@@ -44214,6 +44237,7 @@ persuading
 persuasible
 persuasively
 persuasiveness
+pertained
 pertaining
 pertains
 pertest
@@ -44602,6 +44626,7 @@ photodiodes
 photodissociate
 photoduplicate
 photoed
+photoelectric
 photoelectron
 photoelectrons
 photoengraves
@@ -45725,6 +45750,7 @@ polices
 policies
 policy
 policyholders
+polies
 poling
 poliomyelitis
 polios
@@ -47570,6 +47596,7 @@ propines
 propinquities
 propitiate
 propitiated
+propitiates
 propitiating
 propitiators
 propitiously
@@ -51789,6 +51816,7 @@ reviling
 revisable
 revisals
 reviser
+revises
 revising
 revisionist
 revisions
@@ -52212,6 +52240,7 @@ roaches
 roaching
 road
 roadabilities
+roadbed
 roadblocked
 roadblocking
 roadhouse
@@ -53698,6 +53727,7 @@ schoolmasters
 schoolroom
 schoolteacher
 schoolteachers
+schooltimes
 schoolwork
 schooners
 schottisches
@@ -58464,6 +58494,7 @@ stodgily
 stodginesses
 stodging
 stogey
+stogy
 stoically
 stoichiometric
 stoichiometries
@@ -59330,6 +59361,7 @@ subsurfaces
 subsystem
 subsystems
 subtask
+subtasks
 subtaxons
 subteens
 subtenancies
@@ -62449,6 +62481,7 @@ toplofty
 topminnow
 topmost
 topnotchers
+topocentric
 topograph
 topographer
 topographers
@@ -63570,6 +63603,7 @@ tsarists
 tsaritza
 tsatske
 tsetses
+tsimmes
 tsks
 tsktsked
 tsooris
@@ -66084,6 +66118,7 @@ valiant
 valiantly
 valiantness
 valid
+validated
 validating
 validity
 validness
