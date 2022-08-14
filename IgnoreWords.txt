@@ -957,6 +957,7 @@ aggrandizement
 aggravates
 aggregately
 aggregateness
+aggregatenesses
 aggregating
 aggregational
 aggress
@@ -1023,6 +1024,7 @@ agranulocytosis
 agraphia
 agraphias
 agrarians
+agravic
 agree
 agreeably
 agreement
@@ -1626,6 +1628,7 @@ amebocyte
 ameboid
 amelcorns
 ameliorates
+amelioratory
 ameloblast
 amenability
 amenably
@@ -3852,6 +3855,7 @@ automaticities
 automating
 automation
 automatist
+automatize
 automatized
 automatizes
 automatons
@@ -3863,6 +3867,7 @@ automobilist
 automobilists
 autonomist
 autonomists
+autonomous
 autopen
 autophagies
 autophagy
@@ -7656,6 +7661,7 @@ burr
 burrer
 burro
 burrow
+burrower
 burrowers
 burrows
 burrs
@@ -7790,6 +7796,7 @@ butyls
 butyral
 butyraldehydes
 butyrals
+butyrates
 butyric
 butyrins
 butyrophenone
@@ -7941,6 +7948,7 @@ cads
 caducean
 caducei
 caeca
+caecilians
 caecum
 caeomas
 caesar
@@ -12152,6 +12160,7 @@ constrainedly
 constraining
 constrains
 constraint
+constricting
 constrictive
 constrictor
 constricts
@@ -13095,6 +13104,7 @@ cow
 cowardliness
 cowbell
 cowberries
+cowboy
 cowboying
 cowboys
 cowed
@@ -14403,6 +14413,7 @@ damnableness
 damnably
 damndest
 damndests
+damned
 damneder
 damner
 damnified
@@ -21784,6 +21795,7 @@ ferule
 feruled
 ferules
 fervencies
+fervor
 fervour
 fes
 fesses
@@ -23405,6 +23417,7 @@ freebie
 freeboards
 freeboot
 freedman
+freedom
 freedoms
 freedwomen
 freeform
@@ -30553,6 +30566,7 @@ interfold
 interfolds
 interfusing
 interfusions
+intergalactic
 intergeneric
 interglacial
 intergrade
@@ -30711,6 +30725,7 @@ interrogatee
 interrogatees
 interrogating
 interrogator
+interrogatories
 interrogatory
 interrupted
 interrupters
@@ -33647,6 +33662,7 @@ lie
 liefer
 liefest
 liegeman
+liegemen
 lienable
 lienal
 liens
@@ -35503,6 +35519,7 @@ matriarchates
 matriarchs
 matrices
 matriculant
+matriculate
 matriculates
 matriculating
 matriculation
@@ -38098,6 +38115,7 @@ mughal
 mughals
 mugwump
 muhly
+mujahedeen
 mujahedin
 mujiks
 muktuks
@@ -39727,6 +39745,7 @@ nonmodern
 nonmonetarists
 nonmotility
 nonmunicipal
+nonmusical
 nonmusics
 nonmyelinated
 nonnasal
@@ -41960,6 +41979,7 @@ overdid
 overdirect
 overdirecting
 overdiscounted
+overdocuments
 overdominances
 overdominant
 overdose
@@ -43982,6 +44002,7 @@ performance
 performances
 performatives
 performing
+perfume
 perfumer
 perfumeries
 perfumery
@@ -45004,6 +45025,7 @@ pinfeather
 pinfish
 pinfolded
 pinfolds
+pingoes
 pingrasses
 pinguid
 pinheadedness
@@ -46894,6 +46916,7 @@ preschools
 prescience
 presciences
 prescientific
+presciently
 prescreened
 prescribe
 prescribes
@@ -48044,6 +48067,7 @@ pullbacks
 pulled
 pullets
 pullman
+pullout
 pullouts
 pullover
 pulls
@@ -49467,6 +49491,7 @@ rebreeds
 rebuff
 rebuffing
 rebuffs
+rebuild
 rebuilding
 rebuilds
 rebuke
@@ -49493,6 +49518,7 @@ recalls
 recanalization
 recanalized
 recanalizes
+recane
 recaned
 recanes
 recanter
@@ -57848,6 +57874,7 @@ squirmer
 squirmers
 squirmiest
 squirreling
+squirrelly
 squirters
 squirting
 squishiest
@@ -58908,6 +58935,7 @@ stylus
 styluses
 stymie
 stymy
+stypsises
 styptics
 styrene
 styrenes
@@ -59180,6 +59208,7 @@ suborbicular
 suborder
 subordinately
 subordinateness
+subordinating
 subordinator
 suborn
 subornations
@@ -60595,6 +60624,7 @@ tailfins
 tailing
 taillamps
 taille
+tailles
 tailless
 taillights
 taillike
@@ -61146,6 +61176,7 @@ tellurion
 tellurions
 tellurium
 tellurize
+tellurized
 tellurizes
 tellurizing
 tellurometers
@@ -62335,6 +62366,7 @@ tonal
 tonally
 tone
 tonearms
+toneless
 tonelessnesses
 tonemic
 toner
@@ -63730,6 +63762,7 @@ turmoils
 turnabout
 turnaround
 turnarounds
+turnbuckle
 turnbuckles
 turncoat
 turneries
@@ -64803,6 +64836,7 @@ unexotic
 unexpected
 unexpurgated
 unfaded
+unfair
 unfairer
 unfaith
 unfaithful
@@ -66743,6 +66777,7 @@ virga
 virgas
 virgate
 virginalist
+virginalists
 virgules
 viricidal
 viricides
