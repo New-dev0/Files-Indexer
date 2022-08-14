@@ -1255,6 +1255,7 @@ aliennesses
 alif
 aliform
 alifs
+alighted
 alighting
 align
 aligners
@@ -1868,6 +1869,7 @@ analphabets
 analyse
 analysed
 analyses
+analysing
 analyte
 analytes
 analytic
@@ -3533,6 +3535,7 @@ atelier
 atemporal
 atenolol
 athanasies
+atheistic
 atheistical
 atheistically
 atheling
@@ -4768,6 +4771,7 @@ beamier
 beamishly
 beamless
 beanbags
+beanie
 beaning
 beano
 beans
@@ -6377,6 +6381,7 @@ bogging
 boggish
 boggling
 boggy
+bogles
 bogs
 bogus
 bogusness
@@ -12994,6 +12999,7 @@ courts
 courtships
 couscous
 cousin
+cousinhood
 cousinly
 cousinry
 cousins
@@ -17563,6 +17569,7 @@ doughlike
 doughnuts
 doughtier
 doughtily
+doughtiness
 doum
 douma
 doums
@@ -17737,6 +17744,7 @@ dramatizable
 dramatizations
 dramaturg
 dramaturges
+dramaturgical
 dramaturgies
 dramedies
 drammed
@@ -18674,6 +18682,7 @@ elaterids
 elaterite
 elaters
 elations
+elbowing
 eldercare
 elderlies
 elderlinesses
@@ -19911,6 +19920,7 @@ ere
 erect
 erected
 erectilities
+erectility
 erecting
 erective
 erectly
@@ -24883,6 +24893,7 @@ globeflower
 globelike
 globoid
 globose
+glochid
 glochidium
 gloggs
 glom
@@ -27804,6 +27815,7 @@ hoofed
 hoofer
 hoofers
 hoofing
+hoofprint
 hook
 hookeys
 hookier
@@ -34576,6 +34588,7 @@ machinists
 machismo
 machismos
 machos
+machzor
 machzors
 macintosh
 mackintoshes
@@ -35899,6 +35912,7 @@ mesdemoiselles
 meseemeth
 meseems
 mesencephalic
+mesenchymal
 mesenchymes
 mesentera
 mesenteron
@@ -36863,6 +36877,7 @@ misgivings
 misgraded
 misgrades
 misgrafting
+misgrafts
 misgrew
 misgrow
 misguessed
@@ -38819,6 +38834,7 @@ nerviest
 nervines
 nervousnesses
 nervules
+nervures
 nervy
 nesciences
 nescient
@@ -39186,6 +39202,7 @@ noisette
 noisier
 noisily
 noisy
+nom
 nomads
 nomarch
 nomas
@@ -39523,6 +39540,7 @@ noninvolvements
 nonirrigated
 nonirritant
 nonirritating
+nonjoiner
 nonjudgmental
 nonkosher
 nonlandowner
@@ -39782,6 +39800,7 @@ noontide
 noontides
 noontimes
 noosing
+nopal
 noradrenaline
 noradrenalins
 nordic
@@ -40384,6 +40403,7 @@ offal
 offed
 offended
 offending
+offenseless
 offenses
 offensively
 offensivenesses
@@ -40958,6 +40978,7 @@ orthodontist
 orthodontists
 orthodox
 orthodoxy
+orthogenesis
 orthogenetic
 orthogonalities
 orthomolecular
@@ -47377,6 +47398,7 @@ propositi
 proposition
 propositioned
 propositus
+propound
 propounds
 propped
 propraetors
@@ -50754,6 +50776,7 @@ reporting
 reports
 repos
 reposals
+reposed
 reposedly
 reposeful
 reposers
@@ -50997,6 +51020,7 @@ reshined
 reshines
 reshingle
 reshingles
+reship
 reshipped
 reshipping
 reshoe
@@ -51959,6 +51983,7 @@ riverfronts
 riverheads
 riverlike
 rivers
+riverwards
 riverweeds
 rivet
 riveted
@@ -52573,6 +52598,7 @@ sabbatical
 sabbats
 sabe
 sabermetrician
+sabermetrics
 sabin
 sabir
 sabirs
@@ -55210,6 +55236,7 @@ sidemen
 sidepieces
 siderites
 siderolite
+siderolites
 siderotic
 sides
 sideshows
@@ -58510,6 +58537,7 @@ striped
 stripeless
 striping
 striplings
+stripper
 stripping
 strips
 stript
@@ -59318,6 +59346,7 @@ summarises
 summarist
 summarizable
 summarization
+summarizations
 summarized
 summarizer
 summarizers
@@ -60398,6 +60427,7 @@ talkers
 talkie
 talkier
 talkies
+talkiest
 talking
 talky
 tall
@@ -61973,6 +62003,7 @@ tochering
 tocopherol
 tocsins
 tod
+today
 toddled
 toddlerhoods
 tods
@@ -62262,6 +62293,7 @@ torturing
 torturously
 torulae
 torulas
+torus
 tosses
 tossing
 tossup
@@ -62910,6 +62942,7 @@ tricotines
 tricots
 tricrotic
 trictracs
+tricuspids
 tricycles
 tricyclics
 trident
@@ -65674,6 +65707,7 @@ urushiols
 usableness
 usablenesses
 usage
+usages
 used
 usefulness
 user
@@ -66560,6 +66594,7 @@ vitalistic
 vitalists
 vitalities
 vitality
+vitalization
 vitalize
 vitalizer
 vitalizes
