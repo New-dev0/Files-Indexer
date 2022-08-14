@@ -1092,6 +1092,7 @@ airframes
 airfreight
 airfreighting
 airiest
+airings
 airlifting
 airline
 airliner
@@ -1784,10 +1785,12 @@ amtrac
 amtrack
 amtracks
 amtracs
+amulet
 amus
 amused
 amusements
 amuser
+amusing
 amusingly
 amusingness
 amygdales
@@ -1879,6 +1882,7 @@ analytic
 analytical
 analytically
 analyzable
+analyzation
 analyzations
 analyzes
 analyzing
@@ -1929,6 +1933,7 @@ anchovetas
 anchovettas
 ancient
 ancientest
+ancientness
 ancientnesses
 ancientries
 ancillae
@@ -2163,6 +2168,7 @@ anonymousnesses
 anonyms
 anoopsia
 anopheles
+anopias
 anorak
 anorectics
 anorexia
@@ -4296,6 +4302,7 @@ balers
 balisaurs
 balkanization
 balkanize
+balkanizes
 balked
 balker
 balkier
@@ -4865,6 +4872,7 @@ beclowned
 becomes
 becoming
 becomings
+becoward
 becquerels
 becrawled
 becrime
@@ -5551,6 +5559,7 @@ bigarade
 bigarreau
 bigeminal
 bigeminies
+bigeminy
 bigeneric
 biggies
 bigging
@@ -9036,6 +9045,7 @@ ceanothuses
 ceasefires
 ceaselessly
 ceasing
+cebids
 ceca
 cecal
 cecity
@@ -11290,6 +11300,7 @@ colonisation
 colonise
 colonised
 colonists
+colonitis
 colonization
 colonized
 colonizers
@@ -12225,6 +12236,7 @@ contexts
 contextual
 contextualize
 contextualized
+contextualizes
 contexture
 contextures
 contiguously
@@ -20516,6 +20528,7 @@ exanthematic
 exanthems
 exapted
 exaptive
+exarchal
 exarchate
 exarchates
 exarchs
@@ -21226,6 +21239,7 @@ fairishly
 fairleaders
 fairnesses
 fairway
+fairylands
 faithfulness
 faithfulnesses
 faithfuls
@@ -26357,6 +26371,7 @@ halogenates
 halogenating
 halogens
 halogeton
+halogetons
 haloid
 haloids
 haloperidols
@@ -27586,6 +27601,7 @@ hocuses
 hocussing
 hodad
 hodden
+hoddin
 hodgepodges
 hodoscopes
 hods
@@ -27821,6 +27837,7 @@ honewort
 honeworts
 honeybees
 honeybuns
+honeycomb
 honeycombed
 honeycombing
 honeydew
@@ -29525,6 +29542,7 @@ inconsequently
 inconsiderable
 inconsiderate
 inconsistencies
+inconsistency
 inconsolable
 inconsonance
 inconsonances
@@ -29870,6 +29888,7 @@ infantilism
 infantilisms
 infantilization
 infantilize
+infantilizes
 infantilizing
 infantine
 infantry
@@ -31490,6 +31509,7 @@ jejuneness
 jejunities
 jellaba
 jellies
+jellified
 jellify
 jelling
 jelly
@@ -36327,6 +36347,7 @@ microns
 micronuclei
 micronucleus
 micronutrients
+microorganisms
 microparticles
 microphages
 microphotometer
@@ -36442,6 +36463,7 @@ midwiving
 mien
 miffiest
 miffiness
+miffinesses
 miffing
 migg
 miggs
@@ -37125,6 +37147,7 @@ missionized
 missionizes
 missis
 missives
+missorted
 missound
 missounded
 misspeaks
@@ -46907,6 +46930,7 @@ pressurizers
 prestamped
 prester
 presterilizes
+presterna
 presters
 prestidigitator
 prestige
@@ -48790,6 +48814,7 @@ radiotelemetric
 radiotelemetry
 radiotelephone
 radiotelephones
+radiotherapist
 radiothoriums
 radishes
 radome
@@ -50662,6 +50687,7 @@ remudas
 remunerates
 remunerators
 remuneratory
+remythologized
 renail
 renal
 renascent
@@ -53495,6 +53521,7 @@ scavenging
 scenarios
 scenas
 scend
+scene
 scenery
 scenes
 sceneshifters
@@ -53619,6 +53646,7 @@ scientisms
 scientized
 scientizing
 scilicet
+scilla
 scillas
 scimetars
 scimitar
@@ -54695,6 +54723,7 @@ shaddocks
 shade
 shaded
 shadeless
+shadiness
 shadoof
 shadoofs
 shadowbox
@@ -57307,6 +57336,7 @@ spiffiest
 spiffing
 spiffy
 spik
+spike
 spiked
 spikelike
 spikenards
@@ -61024,6 +61054,7 @@ telestich
 telestichs
 teletext
 teletexts
+telethon
 telethons
 teletype
 teletypewriters
@@ -61449,6 +61480,7 @@ theatricalities
 theatricalize
 theatricalizes
 theatricals
+thebaines
 thebe
 theca
 thecal
@@ -61776,6 +61808,7 @@ thudding
 thug
 thuggery
 thuja
+thuliums
 thumbed
 thumbhole
 thumbholes
@@ -62082,6 +62115,7 @@ titmen
 titmice
 titrates
 titration
+titrations
 titrator
 titrators
 titrimetric
@@ -64631,6 +64665,7 @@ undogmatic
 undogmatically
 undoing
 undoings
+undomestic
 undone
 undotted
 undoubles
