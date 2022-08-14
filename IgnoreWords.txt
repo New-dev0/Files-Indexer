@@ -4974,6 +4974,7 @@ befret
 befrets
 befretted
 befriend
+befriended
 befriending
 befringe
 befringed
@@ -5507,6 +5508,7 @@ bigging
 biggings
 bighted
 bigly
+bigness
 bignonias
 bigot
 bigotedly
@@ -8392,6 +8394,7 @@ caravels
 caraways
 carb
 carbamates
+carbamic
 carbamino
 carbides
 carbineers
@@ -8645,6 +8648,7 @@ caseations
 casebearer
 casebearers
 casebook
+cased
 casefy
 casein
 caseinate
@@ -8811,6 +8815,7 @@ cater
 catercorner
 catered
 caterer
+caterers
 cateresses
 caterpillar
 caterwaul
@@ -10076,6 +10081,7 @@ cinched
 cinchona
 cinchonas
 cinchonic
+cincture
 cinderous
 cine
 cinema
@@ -14838,6 +14844,7 @@ defectors
 defeminize
 defeminizes
 defence
+defenced
 defenceman
 defences
 defencing
@@ -18496,6 +18503,7 @@ egomaniac
 egomaniacally
 egomanias
 egregiously
+egregiousness
 egressed
 egressions
 egrets
@@ -20735,6 +20743,7 @@ expunged
 expunging
 expurgates
 expurgation
+expurgations
 expurgator
 expurgatorial
 expurgatory
@@ -21580,6 +21589,7 @@ fetial
 fetiales
 fetialis
 fetials
+fetichism
 feticidal
 feticide
 feticides
@@ -22090,6 +22100,7 @@ flamy
 flanerie
 flanger
 flanging
+flanker
 flankers
 flannelets
 flannelette
@@ -26567,6 +26578,7 @@ headforemost
 headful
 headfuls
 headgates
+headgear
 headgears
 headhunt
 headhunter
@@ -27046,6 +27058,7 @@ heterocystous
 heterocysts
 heterodox
 heterodoxies
+heterodoxy
 heterodyne
 heterodyning
 heteroecism
@@ -27782,6 +27795,7 @@ host
 hostage
 hostages
 hostel
+hosteled
 hosteling
 hosteller
 hostellers
@@ -27827,6 +27841,7 @@ hotted
 hotties
 houdahs
 hound
+hounders
 hourglasses
 houri
 houseboater
@@ -28230,6 +28245,7 @@ hyperboloidal
 hyperboloids
 hyperboreans
 hypercalcemic
+hypercatalectic
 hypercautious
 hypercomplex
 hypercorrectly
@@ -29035,6 +29051,7 @@ improvisatory
 improvised
 improvisers
 improvising
+improvisor
 improvs
 imprudence
 imprudently
@@ -29771,6 +29788,7 @@ ingulfing
 ingulfs
 ingurgitate
 ingurgitating
+ingurgitations
 inhabit
 inhabitable
 inhabitancies
@@ -30124,6 +30142,7 @@ integrate
 integrating
 integration
 integrationists
+integrator
 integrators
 integuments
 intellections
@@ -31400,6 +31419,7 @@ jokingly
 joky
 jollied
 jollier
+jollified
 jollifies
 jollily
 jolliness
@@ -32697,6 +32717,7 @@ lat
 latakias
 latches
 latching
+lated
 lateener
 lateens
 laten
@@ -42716,6 +42737,7 @@ parenthesizes
 parenthesizing
 parenthoods
 parentings
+pareo
 parergon
 pares
 paresis
@@ -44874,6 +44896,7 @@ plasterboard
 plasterboards
 plasterer
 plasterers
+plastering
 plasterworks
 plasticene
 plasticity
@@ -49037,6 +49060,7 @@ receivership
 receiving
 recement
 recentrifuged
+recept
 reception
 receptivities
 receptor
@@ -58909,6 +58933,7 @@ suitcases
 suite
 suited
 suiters
+suitings
 suitlike
 suitors
 sukiyakis
@@ -59250,6 +59275,7 @@ superscripts
 supersecrecies
 supersecrecy
 supersedeas
+superseders
 supersedes
 supersell
 supersells
@@ -59598,6 +59624,7 @@ sweven
 swidden
 swiddens
 swifter
+swiftlets
 swiftness
 swig
 swigging
@@ -60137,6 +60164,7 @@ tangelo
 tangelos
 tangency
 tangential
+tangentially
 tangerine
 tangibilities
 tangibility
@@ -60690,6 +60718,7 @@ tenues
 tenuis
 tenuity
 tenuousnesses
+tenures
 tenurial
 tenuto
 tenutos
@@ -61004,6 +61033,7 @@ thereon
 theres
 theretofore
 thereunder
+theriacal
 thermalization
 thermalize
 thermel
@@ -64027,6 +64057,7 @@ understating
 understory
 understrapper
 understrength
+understudies
 undersupply
 undersurface
 undertaken
@@ -64759,6 +64790,7 @@ unsegregated
 unselfish
 unselfishness
 unselfishnesses
+unsellable
 unselling
 unsells
 unsensational
@@ -65930,6 +65962,7 @@ vibrio
 vibrios
 vicarage
 vicarate
+vicarates
 vicariant
 vicariate
 vicariously
@@ -66239,6 +66272,7 @@ vizcacha
 vizierate
 vizir
 vizirate
+vizirates
 vizor
 vizors
 vocabs
@@ -66494,6 +66528,7 @@ waggled
 waggles
 waggon
 waggoners
+waggoning
 waging
 wagonages
 wagoners
