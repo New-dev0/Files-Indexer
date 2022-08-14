@@ -527,6 +527,7 @@ adeems
 ademption
 adenine
 adenines
+adenitis
 adenohypophyses
 adenoid
 adenomas
@@ -7102,6 +7103,7 @@ brief
 briefcase
 briefed
 briefing
+briefings
 briefless
 brierroots
 briery
@@ -7172,6 +7174,7 @@ broadbean
 broadbeans
 broadbill
 broadcasted
+broadcasters
 broadcloth
 broadened
 broadener
@@ -8322,6 +8325,7 @@ cantilevers
 cantillating
 cantillations
 cantina
+cantle
 canton
 cantonment
 cantor
@@ -9689,6 +9693,7 @@ chesty
 chevalet
 chevelures
 cheviot
+chevre
 chevy
 chevying
 chewier
@@ -13308,6 +13313,7 @@ creature
 creaturehood
 creaturehoods
 creaturely
+creatures
 creches
 credences
 credendum
@@ -13809,6 +13815,7 @@ culicid
 culinary
 cull
 cullay
+culled
 cullenders
 culler
 cullers
@@ -15328,6 +15335,7 @@ demitasse
 demits
 demiurgic
 demiurgical
+demivoltes
 demiworlds
 demob
 demobilize
@@ -16859,6 +16867,7 @@ disincentives
 disinclination
 disinclining
 disinfected
+disinfection
 disinfest
 disinfestant
 disinfestation
@@ -17217,6 +17226,7 @@ divebombing
 diverged
 divergence
 diverges
+diverging
 diversely
 diversenesses
 diversifiers
@@ -19057,6 +19067,7 @@ emmetrope
 emmets
 emodin
 emollients
+emoticon
 emoting
 emotion
 emotionalists
@@ -19584,6 +19595,7 @@ enterotoxins
 enteroviral
 enterprising
 entertains
+enthalpy
 enthral
 enthralled
 enthralling
@@ -20789,6 +20801,7 @@ expander
 expanding
 expands
 expanse
+expansibilities
 expansible
 expansional
 expansionists
@@ -22354,6 +22367,7 @@ flattens
 flatter
 flatterers
 flatteries
+flatteringly
 flattery
 flattop
 flatulencies
@@ -23847,6 +23861,7 @@ fussbudgets
 fussily
 fussy
 fustics
+fustier
 fustigate
 fustigating
 fustinesses
@@ -25501,6 +25516,7 @@ grapiness
 grapinesses
 grapline
 graplins
+grappler
 grapplers
 grappling
 graptolite
@@ -27678,6 +27694,7 @@ hollow
 hollowares
 hollowing
 hollowness
+hollownesses
 hollowware
 holly
 hollyhock
@@ -30294,6 +30311,7 @@ insolubility
 insolubilizes
 insolubilizing
 insolubles
+insolvencies
 insolvent
 insomniac
 insomniacs
@@ -34875,6 +34893,7 @@ making
 malachites
 malacological
 malacologist
+malacologists
 maladaptations
 maladaptive
 maladjusted
@@ -37438,6 +37457,7 @@ monarchs
 monarchy
 monarda
 monastery
+monastically
 monasticism
 monasticisms
 monatomic
@@ -37532,6 +37552,7 @@ monogamists
 monogeneans
 monogenic
 monogenically
+monogeny
 monogrammers
 monograms
 monograph
@@ -46402,6 +46423,7 @@ preassured
 preattune
 preattuned
 preattunes
+preaudits
 prebend
 prebendaries
 prebiblical
@@ -46980,6 +47002,7 @@ preternaturally
 pretest
 pretested
 pretests
+pretext
 pretexts
 pretheater
 pretold
@@ -47299,6 +47322,7 @@ professing
 professional
 professionalize
 professor
+professorate
 professorates
 professorial
 professoriates
@@ -47418,6 +47442,7 @@ promethium
 prometric
 promines
 promiscuity
+promised
 promisee
 promisees
 promising
@@ -49226,6 +49251,7 @@ readier
 readies
 readinesses
 reading
+readjusted
 readjustment
 readjustments
 readmitting
@@ -56371,6 +56397,7 @@ snakeheads
 snakepit
 snakepits
 snakes
+snakeskin
 snakeskins
 snakey
 snakiest
@@ -56387,6 +56414,7 @@ snaps
 snapshot
 snapshotted
 snapweeds
+snared
 snarers
 snares
 snarfing
@@ -56814,6 +56842,7 @@ somehow
 somersault
 somersaulting
 somersaults
+sometimes
 somewhere
 somewheres
 somewhither
@@ -57537,6 +57566,7 @@ spoofing
 spoofs
 spookiest
 spooking
+spooled
 spooler
 spools
 spoon
@@ -59478,6 +59508,7 @@ sulphid
 sulphides
 sulphite
 sulphur
+sulphuring
 sulphurise
 sulphurising
 sulphurs
@@ -60477,6 +60508,7 @@ tack
 tacker
 tackers
 tackets
+tackifies
 tackily
 tacking
 tackle
@@ -61800,6 +61832,7 @@ thrust
 thrusted
 thruster
 thrusters
+thrustful
 thrusting
 thrusts
 thruway
@@ -67057,6 +67090,7 @@ waesucks
 wafering
 waff
 waffie
+waffing
 waffle
 waffled
 waffler
@@ -67848,6 +67882,7 @@ whumped
 whumping
 whupped
 whups
+wicca
 wiccans
 wickapes
 wicked
