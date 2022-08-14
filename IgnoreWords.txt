@@ -5338,6 +5338,7 @@ beshrouds
 besides
 besiege
 besieger
+besieging
 besliming
 besmears
 besmiled
@@ -6374,6 +6375,7 @@ bodybuilders
 bodybuilding
 bodybuildings
 bodycheck
+bodychecked
 bodyguarded
 bodyguarding
 bodyguards
@@ -6517,6 +6519,7 @@ bongoists
 bonhomies
 boniface
 bonifaces
+bonita
 bonitas
 bonked
 bonkers
@@ -7601,6 +7604,7 @@ burdensome
 burdocks
 bureaucracy
 bureaucrat
+bureaucrateses
 bureaucratize
 bureaux
 buret
@@ -7671,6 +7675,7 @@ burying
 bus
 busbar
 busboys
+bush
 bushbucks
 busheler
 bushelled
@@ -13016,6 +13021,7 @@ coup
 coupe
 coupes
 couple
+coupledom
 couplements
 couples
 couplet
@@ -14455,6 +14461,7 @@ daphnes
 daphnias
 dapperest
 dapperly
+dapping
 dapple
 dappled
 dapsone
@@ -16842,6 +16849,7 @@ disharmonizing
 dishclout
 dishclouts
 disheartened
+dishearteningly
 disheartenment
 disheartens
 dishelmed
@@ -20575,6 +20583,7 @@ excide
 excided
 exciding
 excimers
+excipient
 excipients
 exciple
 excise
@@ -21443,6 +21452,7 @@ fascia
 fascial
 fascias
 fasciations
+fascicle
 fascicled
 fasciculations
 fascicules
@@ -24899,6 +24909,7 @@ gleamy
 gleanable
 gleaned
 gleaner
+gleanings
 glebeless
 gledes
 gleeful
@@ -25536,6 +25547,7 @@ grasslands
 grassless
 grassplots
 grassy
+grate
 grated
 gratefulnesses
 grateless
@@ -30412,6 +30424,7 @@ intaglioing
 intake
 intakes
 intangibilities
+intangible
 intangibles
 intarsias
 integers
@@ -32492,6 +32505,7 @@ knowing
 knowingly
 knowingness
 knowingnesses
+knowledge
 knowns
 knubbier
 knuckleballs
@@ -36371,6 +36385,7 @@ microparticles
 microphages
 microphotometer
 microphotometry
+microphysics
 micropipet
 micropipets
 microplankton
@@ -37097,6 +37112,7 @@ misparted
 mispatching
 misperceiving
 misperception
+misphrases
 misplacements
 misplaces
 misplacing
@@ -38504,6 +38520,7 @@ mystification
 mystifications
 mystified
 mystique
+mythically
 mythicize
 mythicized
 mythicizes
@@ -38579,6 +38596,7 @@ naloxone
 naloxones
 naltrexones
 nam
+namaycushes
 nameable
 namely
 namers
@@ -40355,6 +40373,7 @@ obstinatenesses
 obstructed
 obstructionism
 obstructionisms
+obstructionist
 obstructionists
 obstructions
 obstructive
@@ -40523,6 +40542,7 @@ oenophiles
 oersteds
 oes
 oesophagi
+oesophagus
 oestrin
 oestrones
 oestrums
@@ -43949,6 +43969,7 @@ perfectivity
 perfectness
 perfecto
 perfects
+perfidies
 perfidious
 perfidiousness
 perforate
@@ -44934,6 +44955,7 @@ pillions
 pillories
 pillorying
 pillowed
+pillowing
 pillows
 pillowy
 pilonidal
@@ -48144,6 +48166,7 @@ purblind
 purblindly
 purchase
 purchaser
+purchasers
 purchasing
 purda
 purdahs
@@ -48526,6 +48549,7 @@ quaternaries
 quaternity
 quatrefoils
 quatres
+quattrocentos
 quaveringly
 quayage
 quayages
@@ -50017,6 +50041,7 @@ reentrance
 reentries
 reentry
 reequipped
+reequips
 reerecting
 reerects
 rees
@@ -51312,6 +51337,7 @@ resplice
 resplicing
 resplit
 respoken
+respond
 respondent
 respondents
 responder
@@ -51520,6 +51546,7 @@ retiled
 retiling
 retimed
 retiming
+retina
 retinacula
 retine
 retinites
@@ -51924,6 +51951,7 @@ ribiers
 riblet
 riboflavins
 ribonuclease
+ribonucleoside
 ribonucleotide
 ribose
 ribosomes
@@ -54772,6 +54800,7 @@ shagreen
 shagreens
 shah
 shahdom
+shahdoms
 shahs
 shairns
 shaitan
@@ -55434,6 +55463,7 @@ sieur
 sieved
 sievert
 sieves
+sifakas
 sifted
 sifters
 sifting
@@ -55469,6 +55499,7 @@ signalised
 signalises
 signalize
 signalized
+signalizing
 signalling
 signalman
 signalmen
@@ -63497,6 +63528,7 @@ tryster
 trysters
 tsaddik
 tsaddikim
+tsade
 tsades
 tsar
 tsardoms
@@ -65645,6 +65677,7 @@ unyoung
 unzipped
 unzipping
 unzips
+upbearers
 upbears
 upbeat
 upboiled
@@ -66433,6 +66466,7 @@ vernacular
 vernacularism
 vernacularly
 vernal
+vernalizations
 vernalizes
 vernicles
 vernissage
@@ -68676,6 +68710,7 @@ yell
 yeller
 yelling
 yellowed
+yellowlegs
 yellowtail
 yellowthroat
 yellowware
