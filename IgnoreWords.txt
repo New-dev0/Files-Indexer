@@ -1463,6 +1463,7 @@ alphorn
 alphosis
 alphyl
 alphyls
+alpine
 alsikes
 also
 altar
@@ -2222,6 +2223,7 @@ anthologizers
 anthophilous
 anthozoans
 anthracene
+anthracite
 anthranilate
 anthraquinones
 anthrax
@@ -3638,6 +3640,7 @@ attributing
 attributional
 attributions
 attributive
+attributively
 attrit
 attrite
 attrites
@@ -5001,6 +5004,7 @@ begazing
 begets
 beggaries
 beggarly
+beggars
 begin
 beginning
 begirded
@@ -5564,6 +5568,7 @@ billboarding
 billbugs
 billers
 billeter
+billeters
 billets
 billfish
 billfishes
@@ -6642,6 +6647,7 @@ both
 bother
 botherations
 bothering
+bothersome
 bothriums
 botryoidal
 botryose
@@ -8743,6 +8749,7 @@ casualnesses
 casualties
 casuarinas
 casuists
+cat
 catabolite
 catabolites
 catabolizes
@@ -9205,6 +9212,7 @@ cesspit
 cesspool
 cestodes
 cestos
+cestus
 cestuses
 cetaceous
 cetane
@@ -9498,6 +9506,7 @@ cheapness
 cheapnesses
 cheapskate
 cheapskates
+cheaters
 chebec
 chechako
 chechakos
@@ -11138,6 +11147,7 @@ collaterally
 collations
 collators
 colleagueship
+collectedness
 collective
 collectively
 collectives
@@ -11289,6 +11299,7 @@ comaking
 comal
 comanaged
 comanagements
+comatula
 combat
 combatant
 combatants
@@ -11466,6 +11477,7 @@ comparatists
 comparativists
 comparator
 comparer
+compares
 comparing
 comparison
 compartment
@@ -12086,6 +12098,7 @@ consults
 consumable
 consumables
 consumed
+consumedly
 consumer
 consumerist
 consumerists
@@ -14747,6 +14760,7 @@ decompose
 decomposed
 decomposers
 decomposes
+decompositions
 decompound
 decompress
 decompressing
@@ -15737,6 +15751,7 @@ detections
 detective
 detector
 detectors
+detent
 detentes
 detention
 detentions
@@ -17201,6 +17216,7 @@ doctored
 doctoring
 doctors
 doctorships
+doctrinaire
 doctrinairisms
 docudrama
 docudramas
@@ -17430,6 +17446,7 @@ dormitory
 dornicks
 dornock
 dornocks
+dorper
 dorpers
 dorsal
 dorsals
@@ -19026,6 +19043,7 @@ enamels
 enamored
 enamour
 enamoured
+enamouring
 enantiomeric
 enantiomorphism
 enantiomorphous
@@ -23254,6 +23272,7 @@ freestones
 freestyles
 freethinkers
 freeware
+freewares
 freeway
 freeways
 freewheel
@@ -23824,6 +23843,7 @@ galleasses
 galleins
 galleries
 gallerygoers
+galleta
 galletas
 galleting
 galleys
@@ -25194,6 +25214,7 @@ grabbles
 grabby
 graceful
 gracefullest
+gracefully
 gracelessly
 gracelessnesses
 gracile
@@ -26280,6 +26301,7 @@ handiwork
 handkerchieves
 handled
 handleless
+handlers
 handless
 handling
 handlist
@@ -27399,6 +27421,7 @@ hobblebush
 hobbled
 hobbledehoy
 hobby
+hobbyhorse
 hobbyists
 hobgoblins
 hoblike
@@ -27512,6 +27535,7 @@ hologynies
 hologyny
 holohedral
 holometabolism
+holometabolisms
 holophytic
 holotype
 holotypic
@@ -28145,6 +28169,7 @@ hutted
 hutting
 hutzpa
 hutzpahs
+huzza
 huzzaed
 huzzah
 huzzahing
@@ -29268,6 +29293,7 @@ incidents
 incinerate
 incinerated
 incinerates
+incinerator
 incipit
 incisal
 incise
@@ -29348,6 +29374,7 @@ inconsolable
 inconsonance
 inconsonances
 inconsonant
+inconspicuous
 inconspicuously
 inconstancies
 inconstancy
@@ -29464,6 +29491,7 @@ indemnities
 indemonstrable
 indene
 indenes
+indentation
 indenting
 indents
 indenture
@@ -30515,6 +30543,7 @@ intersterility
 interstice
 interstitially
 interstrand
+interstratify
 intersystem
 interterminal
 intertidally
@@ -34143,6 +34172,7 @@ lowboys
 lowbred
 lowdowns
 lowed
+lowercase
 lowercases
 lowercasing
 lowered
@@ -35225,6 +35255,7 @@ maternities
 matey
 mateyness
 mateys
+mathematically
 mathematician
 mathematization
 mathematize
@@ -40194,6 +40225,7 @@ octothorps
 octrois
 octupled
 octuples
+octuplex
 octuply
 octyl
 ocular
@@ -41240,6 +41272,7 @@ outplacement
 outplacements
 outplacing
 outplayed
+outplodding
 outplots
 outpointing
 outpoints
@@ -43168,6 +43201,7 @@ paused
 pauser
 pausers
 pausing
+pavan
 pavane
 paved
 pavement
@@ -43856,6 +43890,7 @@ personhoods
 personification
 personifier
 personifies
+personifying
 perspicacious
 perspicuity
 perspicuousness
@@ -46629,6 +46664,7 @@ pressurised
 pressurization
 pressurizations
 pressurize
+pressurizers
 prestamped
 prester
 presterilizes
@@ -46717,6 +46753,7 @@ preveniently
 prevent
 preventability
 preventative
+preventatives
 preventers
 preventing
 preventive
@@ -48336,6 +48373,7 @@ quittance
 quittances
 quitters
 quiverers
+quiveringly
 quivery
 quixotes
 quixotic
@@ -48452,6 +48490,7 @@ radicalising
 radicalisms
 radicalizations
 radicalize
+radicalized
 radicalizing
 radicals
 radicands
@@ -49049,6 +49088,7 @@ reauthorized
 reavail
 reavers
 reaving
+reavowing
 reavows
 reawakening
 reawaking
@@ -54574,6 +54614,7 @@ sheetrock
 sheetrocking
 sheetrocks
 sheets
+sheikh
 sheikhdom
 sheikhdoms
 sheiks
@@ -54748,6 +54789,7 @@ shlepping
 shlimazels
 shlub
 shlump
+shlumped
 shlumping
 shlumpy
 shmear
@@ -55486,6 +55528,7 @@ skintight
 skioring
 skiorings
 skip
+skipjack
 skipjacks
 skiplanes
 skipped
@@ -55579,6 +55622,7 @@ slakers
 slaking
 slalom
 slamdanced
+slamdances
 slamdancing
 slammer
 slams
@@ -56125,6 +56169,7 @@ snook
 snooker
 snookering
 snool
+snooping
 snoot
 snooted
 snootier
@@ -57895,6 +57940,7 @@ stickled
 sticklers
 stickles
 stickling
+stickmen
 stickout
 stickouts
 sticks
@@ -58060,6 +58106,7 @@ stonemason
 stonemasonries
 stonemasonry
 stoner
+stoners
 stones
 stonewalled
 stonewallers
@@ -61067,6 +61114,7 @@ thanages
 thanatological
 thanatologist
 thanatologists
+thanatos
 thanes
 thank
 thanked
@@ -61316,6 +61364,7 @@ thorougher
 thoroughest
 thoroughly
 thoroughwort
+thorp
 thorps
 thou
 thoued
@@ -61910,6 +61959,7 @@ tonsured
 tonsuring
 tontine
 tontines
+tonus
 tonuses
 tony
 tool
@@ -62301,6 +62351,7 @@ tranced
 trances
 tranche
 tranches
+tranks
 tranny
 tranqs
 tranquiler
@@ -62769,6 +62820,7 @@ trim
 trimer
 trimers
 trimeter
+trimethoprims
 trimetric
 trimetrogons
 trimmed
@@ -63078,6 +63130,7 @@ tsktsked
 tsooris
 tsores
 tsoris
+tsunami
 tsunamic
 tsunamis
 tsuris
@@ -64303,6 +64356,7 @@ unemployment
 unemployments
 unenclosed
 unendearing
+unending
 unendingly
 unenforceable
 unenjoyed
@@ -64497,6 +64551,7 @@ uninspected
 uninstall
 uninstalling
 uninstructed
+uninstructive
 uninsulated
 uninsurable
 unintelligently
@@ -64963,6 +65018,7 @@ unslakable
 unslick
 unslings
 unslung
+unsmart
 unsmiling
 unsmoothed
 unsnagged
@@ -67442,6 +67498,7 @@ wicking
 wickings
 wicks
 wicopies
+wicopy
 widders
 widdle
 wide
