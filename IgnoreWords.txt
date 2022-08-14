@@ -1272,6 +1272,7 @@ aliquot
 aliquots
 alist
 alit
+aliteracies
 aliterates
 alive
 aliveness
@@ -1656,6 +1657,7 @@ amies
 amiga
 amigos
 amines
+aminic
 aminities
 amino
 aminoacidurias
@@ -2210,6 +2212,7 @@ anthocyanins
 anthocyans
 anthodia
 anthoid
+anthologies
 anthologists
 anthologized
 anthologizers
@@ -4013,6 +4016,7 @@ azotises
 azotize
 azotizes
 azoturia
+azukis
 azulejos
 azure
 azygoses
@@ -4833,6 +4837,7 @@ becriming
 becrowding
 becrowds
 becrust
+becrusted
 becrusting
 becudgeled
 becudgelled
@@ -5417,6 +5422,7 @@ bialy
 biannually
 bias
 biased
+biasing
 biasnesses
 biassed
 biassing
@@ -7334,6 +7340,7 @@ budgetary
 budgeted
 budgeteer
 budgeting
+budging
 budless
 budworms
 buffable
@@ -7576,6 +7583,7 @@ bursa
 burse
 burseed
 burseeds
+bursitises
 bursted
 bursts
 burthen
@@ -8546,6 +8554,7 @@ carnallites
 carnassial
 carnaubas
 carnified
+carnifies
 carnitines
 carnivorous
 carnotites
@@ -11574,6 +11583,7 @@ conations
 conative
 conatus
 concatenate
+concatenation
 concave
 conceal
 concealers
@@ -13360,6 +13370,7 @@ critiquing
 critturs
 croaked
 croaker
+croakiest
 croakily
 croaking
 croc
@@ -14251,6 +14262,7 @@ dammit
 damnableness
 damnably
 damndest
+damndests
 damneder
 damner
 damnified
@@ -14702,6 +14714,7 @@ decommissioned
 decommissioning
 decommissions
 decompensated
+decompensating
 decomposability
 decompose
 decomposed
@@ -21086,6 +21099,7 @@ fallibly
 falloff
 falsehood
 falsely
+falsenesses
 falsest
 falsettos
 falsework
@@ -27391,6 +27405,7 @@ hognuts
 hogshead
 hogtied
 hogwashes
+hoiden
 hoise
 hoist
 hoisted
@@ -31578,6 +31593,7 @@ jupons
 jurels
 juridic
 jurisconsult
+jurisconsults
 jurisprudences
 jurist
 juryman
@@ -34169,6 +34185,7 @@ luminiferous
 luminist
 luminous
 lummoxes
+lump
 lumpectomies
 lumped
 lumpen
@@ -34316,6 +34333,7 @@ lyric
 lyricalness
 lyricise
 lyricised
+lyricising
 lyricize
 lyrisms
 lyrist
@@ -34708,6 +34726,7 @@ management
 managemental
 managements
 managerially
+managers
 managership
 managerships
 mananas
@@ -34772,6 +34791,7 @@ maniac
 manias
 manic
 manically
+manicotti
 manicured
 manicures
 manifest
@@ -37404,6 +37424,7 @@ morals
 morass
 morassy
 moratoria
+moratoriums
 morays
 morbid
 morbidity
@@ -40087,6 +40108,7 @@ ocreate
 octachord
 octad
 octadic
+octagon
 octagonally
 octahedron
 octan
@@ -42146,6 +42168,7 @@ pacified
 pacifier
 pacifism
 pacifistically
+pacing
 packabilities
 package
 packaged
@@ -44574,6 +44597,7 @@ pinchpenny
 pincushion
 pinders
 pindling
+pinealectomize
 pinealectomized
 pinecones
 pinelike
@@ -45669,6 +45693,7 @@ possibility
 possibly
 post
 postabortion
+postals
 postapocalyptic
 postattack
 postaxial
@@ -47832,6 +47857,7 @@ puttees
 putter
 puttered
 putters
+puttie
 putts
 puttying
 puttylike
@@ -48498,6 +48524,7 @@ ralphed
 ramada
 ramate
 ramble
+rambled
 rambling
 rambunctiously
 ramee
@@ -52114,6 +52141,7 @@ ruddlemen
 ruddles
 rudds
 ruddy
+rudeness
 rudenesses
 rudery
 rudesbies
@@ -53914,6 +53942,7 @@ sempervivum
 sempiternally
 sempiternities
 sempstresses
+sen
 senarius
 senatorship
 senatorships
@@ -55392,6 +55421,7 @@ skits
 skittery
 skittishnesses
 skittles
+skived
 skiver
 skivvied
 skivvies
@@ -55892,6 +55922,7 @@ snags
 snail
 snailed
 snake
+snakebirds
 snakebites
 snakefishes
 snakeheads
@@ -61114,6 +61145,7 @@ thievishness
 thigh
 thighbone
 thigmotaxes
+thigmotropisms
 thimble
 thimblerigged
 thimbleriggers
@@ -63138,6 +63170,7 @@ turnaround
 turnarounds
 turnbuckles
 turncoat
+turneries
 turners
 turning
 turnips
@@ -65424,6 +65457,7 @@ valedictions
 valences
 valentines
 valerates
+valerians
 valeted
 valeting
 valetudinaries
@@ -66172,6 +66206,7 @@ viscometers
 viscometric
 viscometries
 viscometry
+viscose
 viscosimeter
 viscosimeters
 viscosimetric
