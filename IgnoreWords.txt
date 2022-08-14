@@ -1009,6 +1009,7 @@ agoraphobia
 agoras
 agorot
 agouti
+agoutis
 agrafe
 agrafes
 agraffe
@@ -2193,6 +2194,7 @@ antecessor
 antecessors
 anted
 antedate
+antedating
 antediluvian
 antefixal
 anteing
@@ -3387,6 +3389,7 @@ assimilatory
 assistance
 assistances
 assistant
+assistantship
 assister
 assistive
 assists
@@ -4446,6 +4449,7 @@ barbitones
 barbiturate
 barbiturates
 barbless
+barbs
 barbwires
 barca
 barcaroles
@@ -5330,6 +5334,7 @@ besnow
 besnowed
 besnows
 besom
+besoothed
 besoothing
 besot
 besotted
@@ -9136,6 +9141,7 @@ centralizing
 centrals
 centre
 centrifugals
+centrifugations
 centrifuging
 centrings
 centriole
@@ -11517,6 +11523,7 @@ compassionating
 compatibilities
 compatibility
 compatibles
+compatibly
 compatriot
 compeer
 compellable
@@ -13776,6 +13783,7 @@ culpability
 culpable
 culpablenesses
 culpably
+culprit
 culprits
 cult
 cultch
@@ -18558,6 +18566,7 @@ effluvia
 effluvial
 effluviums
 effort
+effortful
 effortfulnesses
 efforts
 effronteries
@@ -20631,6 +20640,7 @@ exhibiters
 exhibiting
 exhibitionisms
 exhibitions
+exhibitors
 exhibitory
 exhibits
 exhilarated
@@ -20673,6 +20683,7 @@ exogamous
 exogen
 exogens
 exon
+exonerate
 exonerated
 exonerating
 exoneration
@@ -23076,6 +23087,7 @@ forsakes
 forsaking
 forsook
 forsooth
+forswear
 forswearing
 forswears
 forswore
@@ -23581,6 +23593,7 @@ fuelwoods
 fug
 fugacious
 fugacities
+fugacity
 fugato
 fugatos
 fuggier
@@ -24264,6 +24277,7 @@ gelatinizations
 gelatinize
 gelatinized
 gelatinizes
+gelatinizing
 gelatinously
 gelation
 gelatis
@@ -26145,6 +26159,7 @@ hafizes
 haft
 haftarah
 haftarahs
+haftaras
 haftaroth
 hafted
 hag
@@ -27417,6 +27432,7 @@ hirsutisms
 hirudin
 hispanidads
 hiss
+hissier
 hissies
 hissiest
 hissing
@@ -29099,6 +29115,7 @@ imploded
 implodes
 implored
 implorer
+implores
 imploringly
 implosive
 implosives
@@ -31795,6 +31812,7 @@ kaffiyahs
 kaffiyeh
 kafs
 kaftan
+kagus
 kahuna
 kahunas
 kaiak
@@ -33239,6 +33257,7 @@ lek
 lekked
 leks
 lekvar
+lekythoi
 lekythos
 lekythus
 lemma
@@ -33430,6 +33449,7 @@ liberalizations
 liberalize
 liberalizers
 liberalizes
+liberals
 liberated
 liberationists
 libertarians
@@ -33665,6 +33685,7 @@ lines
 linesman
 linesmen
 lingam
+lingcod
 linger
 lingered
 lingerer
@@ -34074,6 +34095,7 @@ lonelily
 lonelinesses
 lonesome
 lonesomely
+lonesomes
 longan
 longanimity
 longe
@@ -34417,6 +34439,7 @@ lusters
 lusterwares
 lustfulness
 lustily
+lusting
 lustrates
 lustration
 lustrations
@@ -36268,6 +36291,7 @@ micrurgies
 micrurgy
 mics
 micturated
+micturitions
 mid
 midair
 midbrains
@@ -41459,6 +41483,7 @@ outscoop
 outscooping
 outscored
 outscoring
+outscorns
 outscreaming
 outseeing
 outsees
@@ -41518,6 +41543,7 @@ outstrides
 outstripped
 outstripping
 outstrips
+outstriven
 outstroke
 outstrove
 outstudy
@@ -45785,6 +45811,7 @@ populations
 populism
 populist
 porcelain
+porcelainize
 porcelainizes
 porches
 porcini
@@ -45901,6 +45928,7 @@ postcaval
 postcavas
 postclassic
 postcollege
+postcollegiate
 postconception
 postconquest
 postcoup
@@ -51908,6 +51936,7 @@ rissole
 ristra
 risus
 ritardando
+ritardandos
 ritards
 rites
 ritonavirs
@@ -57567,6 +57596,7 @@ squinching
 squinnied
 squinnier
 squinny
+squinted
 squinter
 squinters
 squintest
@@ -57689,6 +57719,7 @@ stale
 stalemated
 stalker
 stalkers
+stalking
 stalky
 stallholder
 stallion
@@ -59321,6 +59352,7 @@ sumpweeds
 sunback
 sunbath
 sunbaths
+sunbelts
 sunbird
 sunbirds
 sunblock
@@ -60461,6 +60493,7 @@ tangoed
 tangos
 tangs
 tanistry
+tanka
 tankage
 tankages
 tankard
@@ -67795,6 +67828,7 @@ winked
 winking
 winkles
 winkling
+winless
 winnable
 winner
 winners
@@ -67910,6 +67944,7 @@ wittiness
 wittinesses
 wittols
 wivern
+wiverns
 wiz
 wizardly
 wizards
