@@ -772,6 +772,7 @@ aeronaut
 aeronautical
 aeronautics
 aeronomers
+aeronomies
 aeropause
 aerophobe
 aerophobes
@@ -2412,6 +2413,7 @@ antineutron
 antineutrons
 antinodal
 antinodes
+antinoise
 antinome
 antinomian
 antinomianism
@@ -4267,6 +4269,7 @@ bailed
 bailee
 bailey
 bailie
+bailies
 bailiffship
 bailiffships
 bailors
@@ -7454,6 +7457,7 @@ buffeter
 buffeters
 buffets
 buffos
+buffs
 bugaboos
 bugbears
 bugeye
@@ -8130,6 +8134,7 @@ callus
 callusing
 calm
 calmly
+calmness
 calmodulin
 calomel
 calorically
@@ -9606,6 +9611,7 @@ cheapness
 cheapnesses
 cheapskate
 cheapskates
+cheated
 cheaters
 chebec
 chechako
@@ -10521,6 +10527,7 @@ cleanabilities
 cleanable
 cleaned
 cleaners
+cleanest
 cleaning
 cleanlier
 cleanly
@@ -10553,6 +10560,7 @@ cleistogamously
 cleistogamy
 clemency
 clement
+clench
 clencher
 clenches
 clenching
@@ -11951,6 +11959,7 @@ confound
 confraternities
 confraternity
 confront
+confrontal
 confrontational
 confrontations
 confronters
@@ -13081,6 +13090,7 @@ coursed
 courseware
 courteousness
 courteousnesses
+courter
 courtesied
 courtesies
 courtezan
@@ -17169,6 +17179,7 @@ dissolute
 dissolutely
 dissolve
 dissolved
+dissolvers
 dissolves
 dissonant
 dissuade
@@ -17463,6 +17474,7 @@ doings
 doit
 doited
 dojo
+doled
 dolefully
 doll
 dollars
@@ -23666,6 +23678,7 @@ frontispieces
 frontlets
 frontman
 frontmen
+frontogenesis
 frontpage
 frontpaging
 frore
@@ -26892,6 +26905,7 @@ hayricks
 hays
 hayseed
 hazanim
+hazans
 hazard
 hazarder
 hazarders
@@ -27934,6 +27948,7 @@ homosexually
 homosocialities
 homospories
 homothallic
+homotransplants
 homozygosities
 homozygote
 homozygotes
@@ -29334,6 +29349,7 @@ implores
 imploringly
 implosive
 implosives
+impolicies
 impolicy
 impoliteness
 impolitic
@@ -31994,6 +32010,7 @@ jurors
 juryman
 jurywoman
 jurywomen
+jus
 jussive
 jussives
 juster
@@ -40181,6 +40198,7 @@ nourishing
 nourishment
 nouvelle
 nouvelles
+novaculites
 novae
 novalike
 novelise
@@ -41917,6 +41935,7 @@ outwhirling
 outwhirls
 outwiling
 outwill
+outwilling
 outwind
 outwinded
 outwish
@@ -42591,6 +42610,7 @@ oxbloods
 oxbows
 oxcart
 oxen
+oxes
 oxeye
 oxeyes
 oxfords
@@ -43231,6 +43251,7 @@ parasitisms
 parasitization
 parasitizations
 parasitized
+parasitizing
 parasitoid
 parasitoids
 parasitologic
@@ -44488,6 +44509,7 @@ phallist
 phallists
 phallocentric
 phallus
+phanerogam
 phanerophyte
 phantasmagoria
 phantasmagoric
@@ -45481,6 +45503,7 @@ platanes
 plate
 plateau
 plateaus
+plateglass
 platelet
 platemaking
 platen
@@ -50099,6 +50122,7 @@ redtops
 redubbed
 reducer
 reducers
+reduces
 reducibly
 reducing
 reductase
@@ -56175,6 +56199,7 @@ slantways
 slanty
 slapdashes
 slaphappier
+slaphappiest
 slapper
 slapping
 slashed
@@ -56829,6 +56854,7 @@ sobs
 soca
 socager
 socagers
+socages
 soccer
 soccers
 sociably
@@ -57904,6 +57930,7 @@ sprynesses
 spud
 spudding
 spumes
+spumoni
 spumy
 spunk
 spunkies
@@ -58045,6 +58072,7 @@ stabilization
 stabilized
 stabilizer
 stabilizing
+stabled
 stableman
 stablemates
 stablenesses
@@ -59003,6 +59031,7 @@ stucco
 stuccoer
 stuccoers
 stuccoes
+stuccos
 stuccoworks
 stuck
 stud
@@ -59432,6 +59461,7 @@ subsidised
 subsidising
 subsidization
 subsidize
+subsidized
 subsidizer
 subsidizes
 subsist
@@ -60301,6 +60331,7 @@ swashbuckles
 swashed
 swathed
 swathers
+swatter
 swatting
 swaybacks
 swayers
@@ -61089,6 +61120,7 @@ taverna
 tawdries
 tawer
 tawers
+tawney
 tawnier
 tawnily
 tawniness
@@ -66815,6 +66847,7 @@ victimologist
 victims
 victor
 victorias
+victorious
 victoriously
 victors
 victualed
@@ -67570,6 +67603,7 @@ washups
 washwoman
 washwomen
 washy
+wasps
 wassailing
 wassails
 wast
@@ -68860,6 +68894,7 @@ yardarm
 yardarms
 yarder
 yarding
+yardlands
 yardmen
 yards
 yardstick
