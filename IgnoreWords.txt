@@ -4930,6 +4930,7 @@ bedewing
 bedews
 bedfellow
 bedgown
+bediapering
 bediapers
 bedighted
 bedighting
@@ -5196,6 +5197,7 @@ bemeaned
 bemeans
 bemedalled
 bemingles
+bemiring
 bemisted
 bemisting
 bemixed
@@ -5262,6 +5264,7 @@ bens
 benthon
 benthonic
 benthons
+bento
 bentonites
 bentonitic
 benumbed
@@ -9941,6 +9944,7 @@ chloroform
 chloroformed
 chlorophyll
 chlorophylls
+chloropicrins
 chloroplastic
 chloroprene
 chloroquine
@@ -10061,6 +10065,7 @@ choused
 chousers
 choushes
 chowed
+chowhound
 chowhounds
 chowing
 chows
@@ -11776,6 +11781,7 @@ concerts
 concession
 concessionaire
 concessionary
+concessions
 concha
 conchas
 conchie
@@ -12680,6 +12686,7 @@ cornettists
 cornfield
 cornflakes
 cornhusk
+cornhuskings
 corniced
 cornify
 cornifying
@@ -14666,6 +14673,7 @@ deafened
 deafeningly
 deafenings
 deafnesses
+deair
 deaired
 deairs
 dealated
@@ -19405,6 +19413,7 @@ endurances
 endure
 endured
 endurer
+endures
 enduring
 enduro
 endwise
@@ -19417,6 +19426,7 @@ energized
 energizer
 energizers
 energizes
+energumen
 energumens
 enervating
 enervation
@@ -19699,6 +19709,7 @@ entozoans
 entrained
 entraining
 entrainment
+entrainments
 entrains
 entrance
 entranced
@@ -19940,6 +19951,7 @@ epithelializing
 epitheliomas
 epithelium
 epitheliums
+epithelization
 epithelizing
 epithet
 epitome
@@ -20405,6 +20417,7 @@ eulogises
 eulogistic
 eulogistically
 eulogists
+eulogium
 eulogizer
 eulogy
 eunuch
@@ -20979,6 +20992,7 @@ expressers
 expresses
 expressionisms
 expressionist
+expressionistic
 expressionless
 expressions
 expressivity
@@ -25433,6 +25447,7 @@ goutinesses
 gouts
 govern
 governances
+governed
 governess
 governessy
 government
@@ -26656,6 +26671,7 @@ hardbacks
 hardboard
 hardboot
 hardboots
+hardcase
 hardcores
 hardcourt
 hardener
@@ -28474,6 +28490,7 @@ hydrae
 hydralazine
 hydralazines
 hydrangea
+hydrant
 hydranths
 hydras
 hydrastis
@@ -28767,6 +28784,7 @@ hypothermias
 hypothesizing
 hypothetically
 hypothyroidism
+hypotonia
 hypotonicity
 hypoxemia
 hypoxia
@@ -31349,6 +31367,7 @@ isophotes
 isopleth
 isoplethic
 isoprene
+isoprenes
 isoprenoid
 isopropyls
 isoproterenol
@@ -31971,6 +31990,7 @@ jurisconsult
 jurisconsults
 jurisprudences
 jurist
+jurors
 juryman
 jurywoman
 jurywomen
@@ -34966,6 +34986,7 @@ mainsprings
 mainstreaming
 maintainable
 maintaining
+maintains
 maintenance
 maintops
 maiolica
@@ -35658,6 +35679,7 @@ maximalist
 maximally
 maximals
 maximin
+maximins
 maximising
 maximites
 maximizers
@@ -35792,6 +35814,7 @@ mediatrixes
 medicable
 medicaid
 medicaids
+medicamentous
 medicaments
 medicare
 medicate
@@ -35922,6 +35945,7 @@ melanoses
 melanosome
 melanous
 melaphyres
+melastome
 melatonin
 meld
 melders
@@ -36701,6 +36725,7 @@ million
 millionairesses
 millions
 millionths
+milliosmol
 milliosmols
 millipede
 milliradians
@@ -38805,6 +38830,7 @@ nationality
 nationalize
 nationalizer
 nationally
+nationals
 nationhood
 native
 nativenesses
@@ -42036,6 +42062,7 @@ overcooling
 overcools
 overcorrected
 overcorrecting
+overcounting
 overcoy
 overcram
 overcrammed
@@ -44031,6 +44058,7 @@ perceptively
 perceptiveness
 perceptivities
 perceptivity
+perceptual
 perceptually
 perched
 percher
@@ -45423,6 +45451,7 @@ plasma
 plasmagels
 plasmalemma
 plasmatic
+plasmodesmata
 plasmogamy
 plasmoid
 plasmoids
@@ -54456,6 +54485,7 @@ semeiologies
 sememes
 semen
 semens
+semestrial
 semi
 semiangles
 semiannually
@@ -61381,6 +61411,7 @@ tenderly
 tenderometer
 tenderometers
 tenders
+tendinous
 tendon
 tendresse
 tendrilled
@@ -64250,6 +64281,7 @@ umami
 umbel
 umbellets
 umbellifer
+umbelliferous
 umbellifers
 umbellule
 umbellules
@@ -64343,6 +64375,7 @@ unanswerability
 unanswerable
 unanswerably
 unanswered
+unapologizing
 unapparent
 unappealingly
 unappeasably
@@ -66332,6 +66365,7 @@ variablenesses
 variables
 variance
 variances
+variating
 variation
 variational
 variationally
@@ -68584,6 +68618,7 @@ worldviews
 wormer
 wormers
 wormgear
+wormgears
 wormhole
 wormil
 worminesses
