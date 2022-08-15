@@ -1459,6 +1459,7 @@ alpaca
 alpacas
 alpenglow
 alpenglows
+alpenhorn
 alpenhorns
 alpenstock
 alpha
@@ -3808,11 +3809,13 @@ authoresses
 authorial
 authorise
 authorises
+authorities
 authority
 authorization
 authorizes
 authorizing
 autism
+autist
 autistics
 autists
 auto
@@ -5690,6 +5693,7 @@ binged
 bingeing
 bingers
 bingoes
+binit
 binnacles
 binning
 binocles
@@ -8587,6 +8591,7 @@ carcinoid
 carcinoma
 carcinosarcoma
 cardamon
+cardamons
 cardamums
 cardboards
 cardcase
@@ -9470,6 +9475,7 @@ chantable
 chanted
 chanteuse
 chanting
+chants
 chaotically
 chap
 chaparajos
@@ -12524,6 +12530,7 @@ cooperations
 cooperatively
 cooperativeness
 cooperatives
+cooperator
 cooperators
 coopery
 coordinated
@@ -13620,6 +13627,7 @@ crookeries
 crookneck
 croon
 crooners
+croons
 cropped
 croppers
 croppie
@@ -18668,6 +18676,7 @@ eddy
 edelweiss
 edemas
 edemata
+edentates
 edentulous
 edge
 edger
@@ -20934,6 +20943,7 @@ exothermicity
 exoticism
 exoticist
 exoticnesses
+exotoxin
 exotoxins
 exotropias
 expand
@@ -21404,6 +21414,7 @@ faithfuls
 faithlessly
 faiths
 faker
+fakeries
 fakery
 fakirs
 falafels
@@ -24412,6 +24423,7 @@ gassily
 gassinesses
 gassy
 gastight
+gastightnesses
 gasting
 gastness
 gastnesses
@@ -27131,6 +27143,7 @@ hebetate
 hebetation
 hebraization
 hebraizes
+hebraizing
 hecatomb
 hecatombs
 heck
@@ -27196,6 +27209,7 @@ heirs
 heishi
 heister
 heisting
+heists
 hejira
 hektare
 held
@@ -30491,6 +30505,7 @@ insight
 insightful
 insigne
 insignias
+insignificance
 insignificancy
 insincere
 insincerely
@@ -30535,6 +30550,7 @@ inspheres
 inspiration
 inspirator
 inspire
+inspiring
 inspirit
 inspirited
 inspiritingly
@@ -32478,6 +32494,7 @@ kielbasi
 kier
 kiers
 kieselgurs
+kieserite
 kifs
 kilim
 kill
@@ -34132,6 +34149,7 @@ liquids
 liquifying
 lira
 liras
+liripipes
 liroth
 lis
 lisente
@@ -34982,6 +35000,7 @@ madhouses
 madmen
 madness
 madrasahs
+madrepore
 madreporian
 madreporite
 madrigal
@@ -35029,6 +35048,7 @@ magnanimities
 magnanimous
 magnesias
 magnesite
+magnetically
 magnetics
 magnetise
 magnetises
@@ -35503,6 +35523,7 @@ mariner
 marionette
 mariposas
 marishes
+maritally
 maritime
 marjorams
 mark
@@ -37261,6 +37282,7 @@ misimpressions
 misinform
 misinformation
 misinformed
+misinforming
 misinforms
 misinter
 misinterpret
@@ -40053,6 +40075,7 @@ nonrailroad
 nonrandom
 nonrational
 nonreactive
+nonreaders
 nonrecognition
 nonrecombinant
 nonreducing
@@ -45275,6 +45298,7 @@ pindling
 pinealectomize
 pinealectomized
 pinecones
+pineland
 pinelike
 pinene
 pinesaps
@@ -52484,6 +52508,7 @@ ritualism
 ritualist
 ritualists
 ritually
+ritzier
 rivages
 rival
 rivaled
@@ -52652,6 +52677,7 @@ romanticism
 romanticisms
 romanticization
 romanticize
+romanticizing
 romantics
 romeo
 romeos
@@ -61929,6 +61955,7 @@ theins
 theirs
 theirselves
 theist
+theistic
 theistically
 thelitis
 thematics
@@ -62011,6 +62038,7 @@ thermoregulate
 thermoregulated
 thermoregulator
 thermoremanence
+thermoscopes
 thermoses
 thermoset
 thermostat
@@ -62159,6 +62187,7 @@ threadbareness
 threader
 threaders
 threadfin
+threadfins
 threadiest
 threading
 threadless
@@ -65053,6 +65082,7 @@ understrength
 understudies
 undersupply
 undersurface
+undersurfaces
 undertaken
 undertaker
 undertakes
@@ -65221,6 +65251,7 @@ unfindable
 unfit
 unfitness
 unfitted
+unfix
 unfixing
 unflappable
 unflatteringly
@@ -65255,6 +65286,7 @@ unfurling
 unfurls
 unfurnished
 unfussy
+ungainlier
 ungainlinesses
 ungalled
 ungazing
@@ -65543,6 +65575,7 @@ unmew
 unmewed
 unmewing
 unmilitary
+unmined
 unmingle
 unmingles
 unmistakable
@@ -67159,6 +67192,7 @@ viridescent
 viridians
 viridities
 viridity
+virility
 virilizes
 virion
 virl
@@ -68901,6 +68935,7 @@ wreckage
 wrecker
 wreckers
 wreckful
+wrecking
 wreckings
 wrens
 wrested
