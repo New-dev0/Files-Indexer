@@ -793,6 +793,7 @@ aestheticism
 aestheticisms
 aesthetics
 aestivate
+aestivated
 aestivating
 aestivations
 aethereal
@@ -1274,6 +1275,7 @@ aligners
 alignment
 alike
 alikeness
+alikenesses
 aliment
 alimentation
 alimented
@@ -8616,6 +8618,7 @@ carders
 cardia
 cardigan
 cardigans
+cardinality
 cardinalship
 cardings
 cardio
@@ -10093,6 +10096,7 @@ choriambs
 choric
 choring
 chorion
+chorionic
 chorions
 chorizos
 chorographer
@@ -10518,6 +10522,7 @@ clashers
 clashes
 clasping
 clasps
+claspt
 classable
 classed
 classicalities
@@ -12320,6 +12325,7 @@ containments
 contaminant
 contaminates
 contaminating
+contaminator
 conte
 contemplate
 contemplation
@@ -12651,6 +12657,7 @@ copyediting
 copyedits
 copying
 copyist
+copyists
 copyreading
 copyrighted
 copyrighting
@@ -13178,6 +13185,7 @@ covalently
 covariance
 covariances
 covariate
+covariates
 covariation
 covariations
 cove
@@ -20556,6 +20564,7 @@ euphorically
 euphrasies
 euphrasy
 euphuism
+euphuisms
 euphuistic
 euphuistically
 euploidy
@@ -22626,6 +22635,7 @@ fledges
 fledgier
 fledgiest
 fledglings
+fledgy
 fleeced
 fleecer
 fleecing
@@ -24484,6 +24494,7 @@ gasts
 gasworks
 gateaux
 gatecrash
+gated
 gatefold
 gatefolds
 gatehouse
@@ -32152,6 +32163,7 @@ junkier
 junkies
 junkyards
 junto
+juntos
 jupes
 jupons
 jurels
@@ -32303,6 +32315,7 @@ kashrut
 kashruth
 kashruths
 katakana
+katakanas
 katas
 katcinas
 katharsis
@@ -32995,6 +33008,7 @@ lactate
 lactates
 lactating
 lactational
+lacteally
 lacteals
 lactiferous
 lactobacillus
@@ -33576,6 +33590,7 @@ leeboard
 leech
 leek
 leer
+leerily
 leerinesses
 leery
 lees
@@ -34613,6 +34628,7 @@ loses
 losings
 losses
 lossless
+lossy
 lostness
 lot
 lota
@@ -39687,6 +39703,7 @@ nomenclator
 nomenclatorial
 nomenclature
 nominal
+nominalist
 nominalists
 nominally
 nominals
@@ -43066,6 +43083,7 @@ paleography
 paleomagnetic
 paleomagnetism
 paleontologic
+paleontologist
 paleosols
 paleozoic
 paleozoologist
@@ -44366,6 +44384,7 @@ periapses
 periblems
 pericardia
 pericardial
+pericarp
 pericarps
 perichondria
 pericope
@@ -44889,6 +44908,7 @@ phoniness
 phonocardiogram
 phonogrammic
 phonographic
+phonographies
 phonolite
 phonologic
 phonologists
@@ -44926,6 +44946,7 @@ phosphoresced
 phosphorescence
 phosphorescent
 phosphori
+phosphorite
 phosphorolysis
 phosphorolytic
 phosphorous
@@ -45968,6 +45989,7 @@ pockmarks
 pocky
 pocosin
 pocoson
+pod
 podagrous
 podding
 podestas
@@ -46147,6 +46169,7 @@ poltroonery
 poltroons
 polyacrylamide
 polyacrylamides
+polyalcohols
 polyamide
 polyamides
 polyamines
@@ -48215,6 +48238,7 @@ pruriency
 pruritic
 prussianise
 prussianises
+prussianize
 prussic
 pruta
 prutot
@@ -48625,6 +48649,7 @@ purser
 pursers
 pursier
 pursiness
+pursinesses
 pursing
 purslane
 pursuance
@@ -48947,10 +48972,12 @@ quassin
 quatercentenary
 quaternaries
 quaternity
+quatrefoil
 quatrefoils
 quatres
 quattrocentos
 quaveringly
+quavery
 quayage
 quayages
 quaylike
@@ -53092,6 +53119,7 @@ ruins
 rulable
 ruled
 ruleless
+rulership
 rules
 ruling
 rumbaing
@@ -54162,6 +54190,7 @@ scissile
 scissor
 scissors
 scissortail
+scissures
 sciurine
 sciuroid
 sclaffing
@@ -55480,6 +55509,7 @@ shewbreads
 shewed
 shh
 shiatzu
+shiatzus
 shibah
 shibboleths
 shicksas
@@ -57842,6 +57872,7 @@ spiderlike
 spiders
 spiderweb
 spiderwebs
+spiderwort
 spiderworts
 spied
 spiegeleisens
@@ -66200,6 +66231,7 @@ unwove
 unwoven
 unwrap
 unwrinkling
+unwritten
 unyeaned
 unyokes
 unyoking
@@ -67444,6 +67476,7 @@ vizirate
 vizirates
 vizor
 vizors
+vocable
 vocabs
 vocabular
 vocabularies
@@ -68559,6 +68592,7 @@ wilinesses
 wiling
 willemite
 willemites
+willer
 willers
 willet
 willful
@@ -69428,6 +69462,7 @@ zaratites
 zarebas
 zareeba
 zareebas
+zarfs
 zarzuela
 zarzuelas
 zastrugi
