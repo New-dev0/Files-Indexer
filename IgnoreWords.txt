@@ -3137,6 +3137,7 @@ arraignments
 arrange
 arrangers
 arranges
+arrased
 arrases
 arrayals
 arrayers
@@ -3357,6 +3358,7 @@ assais
 assassin
 assassinates
 assassinating
+assassination
 assassinator
 assaulting
 assaultive
@@ -4538,6 +4540,7 @@ barman
 barmier
 barmy
 barn
+barnacles
 barning
 barnlike
 barnstormer
@@ -6951,6 +6954,7 @@ branchier
 branching
 branchline
 branchlines
+branchy
 brander
 brandings
 brandished
@@ -8357,6 +8361,7 @@ cantankerously
 cantatrice
 cantdog
 canted
+cantered
 cantharis
 canthi
 canthitis
@@ -10113,6 +10118,7 @@ chromiest
 chrominance
 chrominances
 chroming
+chromings
 chromite
 chromiums
 chromo
@@ -11030,6 +11036,7 @@ codesigns
 codetermination
 codeveloper
 codex
+codfish
 codgers
 codices
 codicology
@@ -15976,6 +15983,7 @@ deterrer
 deters
 detersive
 detestable
+detestation
 dethatching
 deticker
 detickers
@@ -17113,6 +17121,7 @@ disproportion
 disproportional
 disprove
 disproved
+disproven
 disputant
 disputatious
 dispute
@@ -18255,6 +18264,7 @@ dump
 dumpcart
 dumped
 dumper
+dumpier
 dumpiest
 dumpling
 dumpsite
@@ -19909,6 +19919,7 @@ epics
 epicure
 epicurean
 epicureanisms
+epicureans
 epicurisms
 epicuticles
 epicuticular
@@ -21780,6 +21791,7 @@ felicitator
 felicities
 felinely
 felinities
+felinity
 fellable
 fellated
 fellates
@@ -23150,6 +23162,7 @@ foreignisms
 forejudge
 forejudges
 foreknow
+foreknowledge
 foreknows
 foreladies
 forelady
@@ -24027,6 +24040,7 @@ futtock
 futureless
 futurelessness
 futures
+futurisms
 futuristically
 futurities
 futurologist
@@ -25374,6 +25388,7 @@ golfings
 golgothas
 goliard
 goliaths
+golly
 gollywog
 golosh
 goloshes
@@ -26110,6 +26125,7 @@ guayaberas
 guayule
 guayules
 gucks
+gudes
 gudgeoned
 gudgeoning
 guenons
@@ -33455,6 +33471,7 @@ leave
 leavened
 leavening
 leavier
+leaving
 leavy
 lebensraum
 leched
@@ -34575,6 +34592,7 @@ lovably
 lovage
 lovages
 lovats
+love
 loveably
 lovebirds
 lovebugs
@@ -38046,6 +38064,7 @@ mortals
 mortar
 mortarboard
 mortarboards
+mortarless
 mortarmen
 mortgage
 mortgagees
@@ -41359,6 +41378,7 @@ orthodontically
 orthodontist
 orthodontists
 orthodox
+orthodoxies
 orthodoxy
 orthogenesis
 orthogenetic
@@ -41895,6 +41915,7 @@ outscreaming
 outseeing
 outsees
 outsell
+outserved
 outshames
 outshoots
 outshout
@@ -43027,6 +43048,7 @@ palpebral
 palpebras
 palped
 palpi
+palpitate
 palpitated
 palpitating
 palpitations
@@ -44656,6 +44678,7 @@ phenocryst
 phenol
 phenolated
 phenolics
+phenologies
 phenolphthalein
 phenomenally
 phenomenologies
@@ -47674,6 +47697,7 @@ progressivism
 progressivist
 progressivists
 progressivity
+progs
 progun
 prohibit
 prohibitionist
@@ -49281,6 +49305,7 @@ rance
 rances
 ranch
 ranched
+ranchers
 ranchman
 ranchos
 rancidities
@@ -49548,6 +49573,7 @@ readdicting
 readdicts
 readerly
 readership
+readerships
 readied
 readier
 readies
@@ -50089,6 +50115,7 @@ redates
 redating
 redbaiters
 redbirds
+redbone
 redbones
 redbreasts
 redbud
@@ -50301,6 +50328,7 @@ reemployment
 reemployments
 reenacting
 reenactments
+reencounters
 reendow
 reendowed
 reenforce
@@ -50547,6 +50575,7 @@ regilding
 regilds
 regilt
 regiment
+regimental
 regimentation
 regimenting
 regina
@@ -52337,6 +52366,7 @@ rigadoon
 rigadoons
 rigamarole
 rigatonis
+rigaudon
 riggers
 right
 righteousness
@@ -54430,6 +54460,7 @@ sectorial
 sectorials
 sectoring
 secularise
+secularism
 secularisms
 secularization
 secularizer
@@ -54954,6 +54985,7 @@ serratures
 serried
 serriedly
 serriedness
+serries
 serrying
 sers
 serum
@@ -63709,6 +63741,7 @@ trochoid
 trochophore
 trocked
 trocking
+trog
 troglodyte
 trogs
 troikas
@@ -66139,6 +66172,7 @@ uprights
 uprise
 uprisen
 uprises
+uprisings
 upriver
 uproarious
 uproariously
@@ -67108,6 +67142,7 @@ viperously
 vipers
 virelay
 virelays
+viremia
 vireo
 vireonine
 vireonines
