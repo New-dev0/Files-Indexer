@@ -5594,6 +5594,7 @@ bidirectional
 bidis
 bield
 bielding
+biennia
 biennium
 bifacially
 bifarious
@@ -11902,6 +11903,7 @@ concomitance
 concomitances
 concomitants
 concord
+concordances
 concordantly
 concordats
 concours
@@ -13111,6 +13113,7 @@ counterplay
 counterplayer
 counterplays
 counterplot
+counterplots
 counterpointing
 counterpoises
 counterpoising
@@ -13910,6 +13913,7 @@ crystals
 ctenidium
 ctenophorans
 ctenophores
+cuadrillas
 cuatros
 cub
 cubage
@@ -16696,6 +16700,7 @@ dipterans
 dipterocarp
 diptyca
 diquats
+diram
 directedness
 directer
 directionality
@@ -20499,6 +20504,7 @@ ethnos
 ethnosciences
 ethogram
 ethograms
+ethological
 ethos
 ethoxies
 ethoxyl
@@ -20799,6 +20805,7 @@ excerpter
 excerpting
 excerpts
 excess
+excessing
 exchangeable
 exchanging
 excide
@@ -23796,6 +23803,7 @@ friskers
 friskier
 frisks
 frisky
+frissons
 frith
 fritillaria
 fritillary
@@ -28072,6 +28080,7 @@ homeplaces
 homeported
 homeporting
 homeroom
+homes
 homeschooler
 homeschoolers
 homeschooling
@@ -29689,6 +29698,7 @@ inaccuracies
 inaccurately
 inactions
 inactive
+inactivity
 inadequacies
 inadequacy
 inadequateness
@@ -29943,6 +29953,7 @@ incrossing
 incrustations
 incrusted
 incrusting
+incrusts
 incubated
 incubates
 incubations
@@ -32143,6 +32154,7 @@ jubile
 jubilee
 juco
 juddered
+judged
 judgement
 judgements
 judgers
@@ -36567,6 +36579,7 @@ metazoa
 metazoan
 metazoon
 metempsychoses
+meteoric
 meteorically
 meteorite
 meteorites
@@ -38842,6 +38855,7 @@ mutualize
 mutualizes
 mutular
 muzjiks
+muzziest
 muzzle
 muzzler
 myalgia
@@ -39062,6 +39076,7 @@ nappas
 napped
 napper
 naprapathies
+naprapathy
 naproxen
 naps
 narceine
@@ -40635,6 +40650,7 @@ nutcase
 nutcracker
 nutcrackers
 nutgall
+nutlet
 nutlets
 nutmeat
 nutmeg
@@ -41940,6 +41956,7 @@ outkeep
 outkeeps
 outkicked
 outkicks
+outkilled
 outkiss
 outkissed
 outkisses
@@ -41987,6 +42004,7 @@ outoffice
 outorganizing
 outpace
 outpaces
+outpacing
 outpaint
 outpainted
 outpaints
@@ -45590,6 +45608,7 @@ pipy
 piquance
 piquances
 piquancies
+piquancy
 piquet
 piquing
 piracy
@@ -50265,6 +50284,7 @@ recounting
 recoupe
 recouped
 recouping
+recoupling
 recoupment
 recoups
 recourses
@@ -51256,6 +51276,7 @@ remittent
 remitters
 remittor
 remix
+remixture
 remobilizations
 remobilizes
 remodeler
@@ -53863,6 +53884,7 @@ sassywood
 satangs
 satanical
 satanically
+satanism
 satanists
 satays
 satcheled
@@ -55166,6 +55188,7 @@ serenely
 serenenesses
 serenes
 serenest
+seres
 serest
 serf
 serflike
@@ -55646,6 +55669,7 @@ shifting
 shiftless
 shiftlessly
 shiftlessnesses
+shigellas
 shikaree
 shikarees
 shikari
@@ -61232,6 +61256,7 @@ tailbone
 tailcoated
 tailcoats
 tailenders
+tailers
 tailfins
 tailing
 taillamps
@@ -63366,6 +63391,7 @@ tragic
 tragical
 tragicomedies
 tragicomic
+tragics
 tragopan
 tragopans
 tragus
@@ -64081,6 +64107,7 @@ tropologies
 tropology
 tropomyosin
 troposphere
+tropotaxes
 tropotaxis
 trot
 troth
@@ -66277,6 +66304,7 @@ untranslatable
 untraveled
 untread
 untreaded
+untreads
 untreated
 untrod
 untrodden
@@ -66690,6 +66718,7 @@ uveitic
 uvula
 uvularly
 uvulars
+uvulas
 uxorially
 uxoriously
 uxoriousnesses
@@ -67556,6 +67585,7 @@ vitamines
 vitamins
 vitellin
 vitellins
+vitelluses
 vitiate
 vitiates
 vitiations
@@ -67887,6 +67917,7 @@ waifish
 waifs
 wailed
 wailers
+wailfully
 wainscotings
 wainscotted
 wainscotting
@@ -67947,6 +67978,7 @@ wallowed
 wallpaper
 wallpapers
 wallydrags
+walnuts
 walrus
 walruses
 waltz
@@ -68687,6 +68719,7 @@ wielders
 wieldiest
 wienerwursts
 wifedom
+wifedoms
 wifehood
 wifeless
 wifelier
@@ -68927,6 +68960,7 @@ witherods
 withers
 withes
 withholder
+withiest
 withindoors
 withins
 withouts
@@ -69127,6 +69161,7 @@ workpiece
 workpieces
 workplace
 workplaces
+workprint
 worksheet
 workstations
 worktables
