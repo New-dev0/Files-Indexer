@@ -1945,6 +1945,7 @@ anchoresses
 anchoret
 anchoring
 anchoritically
+anchorless
 anchorpeople
 anchorwomen
 anchovetas
@@ -3833,6 +3834,7 @@ authorizes
 authorizing
 autism
 autist
+autistic
 autistics
 autists
 auto
@@ -12287,6 +12289,7 @@ constrictive
 constrictor
 constricts
 constringe
+constringing
 construal
 construct
 construction
@@ -12751,6 +12754,7 @@ corkboards
 corker
 corkier
 corkinesses
+corklike
 corkscrew
 corkwood
 cormels
@@ -13036,6 +13040,7 @@ councillor
 councilmanic
 councilor
 councilwomen
+counseled
 counselee
 counselings
 counsellings
@@ -13695,6 +13700,7 @@ croquet
 croqueted
 croqueting
 croquets
+croquettes
 croquignoles
 crossabilities
 crossarm
@@ -15954,6 +15960,7 @@ despites
 despiting
 despoiler
 despoiling
+despoilment
 despoliation
 despondence
 despondencies
@@ -17122,6 +17129,7 @@ disobliges
 disorderedly
 disorderedness
 disordering
+disorderliness
 disorganize
 disorient
 disorientate
@@ -19422,6 +19430,7 @@ encoding
 encomiast
 encomium
 encomiums
+encompass
 encompasses
 encompassment
 encompassments
@@ -23048,6 +23057,7 @@ foisons
 foisted
 folacin
 folates
+foldable
 foldaway
 foldaways
 foldboat
@@ -24319,6 +24329,7 @@ gambled
 gambles
 gambling
 gamboge
+gamboges
 gambol
 gambolled
 gambrel
@@ -26518,6 +26529,7 @@ hadith
 hadj
 hadjee
 hadjees
+hadjes
 hadji
 hadron
 hadrons
@@ -26940,6 +26952,7 @@ harrows
 harrumphed
 harrumphing
 harry
+harshen
 harshened
 harshening
 harshly
@@ -27354,6 +27367,7 @@ helloing
 helm
 helmed
 helminthiases
+helminthology
 helmless
 helmsmanships
 helmsmen
@@ -31011,6 +31025,7 @@ interpleading
 interpolating
 interpolator
 interpose
+interposed
 interposes
 interposing
 interpretable
@@ -33178,6 +33193,7 @@ laminar
 laminaria
 laminarian
 laminarins
+laminary
 laminating
 lamination
 laminator
@@ -34451,6 +34467,7 @@ localizers
 localizing
 locally
 locater
+locating
 location
 locative
 locator
@@ -36726,6 +36743,7 @@ micrograms
 micrograph
 micrographed
 micrographic
+micrographing
 microhms
 microimages
 microinch
@@ -43630,6 +43648,7 @@ parled
 parles
 parleyed
 parleying
+parliament
 parliamentary
 parliaments
 parling
@@ -44515,6 +44534,7 @@ periphery
 periphrasis
 periphrastic
 periphyton
+periplasm
 periplasms
 periques
 periscope
@@ -44833,6 +44853,7 @@ pharmacopeial
 pharmacopoeias
 pharming
 pharos
+pharyngal
 pharyngals
 pharyngeal
 pharyngitides
@@ -46566,6 +46587,7 @@ posology
 possessedly
 possessedness
 possessednesses
+possessions
 possessive
 possessively
 possessor
@@ -48525,6 +48547,7 @@ pujah
 pujahs
 puke
 pukes
+pukka
 pula
 pulchritudinous
 pule
@@ -50178,6 +50201,7 @@ reconducted
 reconducts
 reconfer
 reconferred
+reconfiguring
 reconfine
 reconfines
 reconfirmations
@@ -52036,6 +52060,7 @@ retear
 retears
 retell
 retelling
+retells
 retem
 retempered
 retempering
@@ -52719,6 +52744,7 @@ riveter
 riveting
 rivetted
 rivieras
+riving
 rivulets
 roached
 roaches
@@ -54133,6 +54159,7 @@ scenting
 scepter
 sceptic
 sceptics
+sceptred
 schadenfreudes
 schappes
 schatchen
@@ -54221,6 +54248,7 @@ schoolteachers
 schooltimes
 schoolwork
 schooners
+schorls
 schottisches
 schrik
 schrod
@@ -54770,6 +54798,7 @@ segmental
 segmentary
 segmentation
 segmenting
+segos
 segregant
 segregation
 segregationists
@@ -56291,6 +56320,7 @@ sirdar
 sirdars
 sirens
 siring
+sirloins
 siroccos
 sirs
 siruped
@@ -57625,6 +57655,7 @@ soupless
 soups
 sour
 sourball
+source
 sourced
 sources
 sourcing
@@ -59658,6 +59689,7 @@ subhuman
 subhumans
 subhumid
 subidea
+subindexes
 subindices
 subindustry
 subinfeudates
@@ -60463,6 +60495,7 @@ superstocks
 superstore
 superstrata
 superstratum
+superstrength
 superstructure
 superstuds
 supersurgeon
@@ -64086,6 +64119,7 @@ troweling
 troweller
 trowels
 trowing
+trowth
 trowths
 truancies
 truanting
@@ -65800,6 +65834,7 @@ unmemorably
 unmended
 unmerited
 unmerry
+unmesh
 unmeshed
 unmeshes
 unmew
