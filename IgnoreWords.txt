@@ -2555,6 +2555,7 @@ antonymous
 antra
 antsiness
 antsinesses
+anural
 anuran
 anuretic
 anuses
@@ -5738,6 +5739,7 @@ biologist
 biolytic
 biomarkers
 biomass
+biomasses
 biomaterials
 biomathematics
 biome
@@ -10292,6 +10294,7 @@ circumambulate
 circumambulated
 circumambulates
 circumcenters
+circumcircles
 circumcised
 circumcision
 circumcisions
@@ -11686,6 +11689,7 @@ complimenting
 complin
 complying
 compo
+comport
 comported
 comportment
 compos
@@ -11847,6 +11851,7 @@ concurred
 concurrent
 concurrently
 concuss
+concussive
 condemn
 condemnation
 condemner
@@ -14001,6 +14006,7 @@ curares
 curari
 curarization
 curarized
+curarizes
 curarizing
 curate
 curators
@@ -16290,6 +16296,7 @@ didacticism
 didacticisms
 didacts
 diddle
+diddles
 diddly
 didgeridoos
 didjeridoo
@@ -16610,6 +16617,7 @@ directrixes
 direfully
 direnesses
 direst
+dirge
 dirges
 dirham
 dirigisme
@@ -16968,6 +16976,7 @@ disintegrations
 disintegrator
 disintegrators
 disinterestedly
+disinteresting
 disinterments
 disinterring
 disinters
@@ -17345,6 +17354,7 @@ divine
 divined
 diviners
 divinising
+divinized
 divisibility
 division
 divisionism
@@ -18242,6 +18252,7 @@ dumpster
 dumptrucks
 dumpy
 dunce
+dunces
 dunches
 duncish
 duncishly
@@ -20208,6 +20219,7 @@ escapism
 escapologies
 escapologist
 escar
+escarole
 escarped
 escarping
 escarps
@@ -22393,6 +22405,7 @@ flagmen
 flagon
 flagons
 flagpole
+flagrance
 flagrancy
 flagrantly
 flagships
@@ -24986,6 +24999,7 @@ glamours
 glancer
 glancers
 glances
+glancingly
 glandless
 glandular
 glandularly
@@ -28973,6 +28987,7 @@ idyllists
 idylls
 idyls
 if
+iffiest
 iffiness
 iffinesses
 iffy
@@ -29300,6 +29315,7 @@ impenetrable
 impenitent
 impenitently
 imperatorial
+imperceptible
 imperceptibly
 impercipiences
 impercipient
@@ -33443,6 +33459,7 @@ lectors
 lectured
 lecturers
 lecturing
+lecythus
 led
 lederhosen
 ledger
@@ -34211,6 +34228,7 @@ loadings
 loaf
 loafed
 loafing
+loamiest
 loamless
 loams
 loamy
@@ -35337,6 +35355,7 @@ manses
 manslaughter
 manslaughters
 mansuetude
+manteaus
 manteaux
 mantelet
 mantels
@@ -37489,6 +37508,7 @@ mobocrat
 mobocratic
 mobocrats
 mobster
+moccasins
 mochas
 mochila
 mockable
@@ -41008,6 +41028,7 @@ openable
 opencast
 opened
 opener
+openers
 openheartedness
 opening
 openings
@@ -41027,6 +41048,7 @@ operatic
 operatically
 operation
 operationalists
+operationally
 operationism
 operationisms
 operative
@@ -41693,6 +41715,7 @@ outlast
 outlasts
 outlaughing
 outlawed
+outlawries
 outleading
 outleaped
 outleapt
@@ -44316,6 +44339,7 @@ pernods
 peroneal
 perorated
 perorating
+perorational
 perorator
 perorators
 perovskite
@@ -47019,6 +47043,7 @@ preoccupancy
 preopening
 preoperative
 preops
+preoption
 preordainments
 preordered
 preordering
@@ -47213,6 +47238,7 @@ presumes
 presuming
 presumingly
 presummit
+presumption
 presupposing
 presurvey
 presurveys
@@ -49956,6 +49982,7 @@ recounter
 recounters
 recounting
 recoupe
+recouped
 recouping
 recoupment
 recoups
@@ -56359,6 +56386,7 @@ slideway
 slier
 slieve
 slieves
+slightly
 slightnesses
 slily
 slim
@@ -56890,6 +56918,7 @@ soapy
 soar
 soared
 soarers
+soarings
 soave
 soaves
 soba
@@ -58642,6 +58671,7 @@ stingrays
 stink
 stinkards
 stinkier
+stinkingly
 stinko
 stinky
 stipel
@@ -60681,6 +60711,7 @@ synereses
 synergetic
 synergia
 synergically
+synergid
 synergisms
 synergist
 synergistic
@@ -63647,6 +63678,7 @@ trocked
 trocking
 troglodyte
 trogs
+troikas
 troilism
 troilites
 trois
@@ -64181,6 +64213,7 @@ tying
 tyke
 tykes
 tymbal
+tympani
 tympanic
 tympanist
 tympanites
@@ -66655,6 +66688,7 @@ venenes
 venerableness
 venerablenesses
 venerably
+venerated
 venerates
 venerations
 venerator
@@ -67905,6 +67939,7 @@ weepings
 weest
 weever
 weevers
+weevils
 weevily
 wefts
 weighable
