@@ -175,6 +175,7 @@ acceptant
 accepted
 acceptees
 accepter
+accepting
 acceptor
 accesses
 accessible
@@ -800,6 +801,7 @@ aestivating
 aestivations
 aethereal
 aetheric
+aetiologies
 afars
 afeared
 affability
@@ -2316,6 +2318,7 @@ antick
 anticlassical
 anticlericalism
 anticlericals
+anticlimactic
 anticlimactical
 anticlinal
 anticlines
@@ -6479,6 +6482,7 @@ bohriums
 boil
 boilable
 boiled
+boiler
 boilermaker
 boilermakers
 boilerplate
@@ -9363,6 +9367,7 @@ cessed
 cessing
 cesspit
 cesspool
+cestas
 cestodes
 cestos
 cestus
@@ -10786,6 +10791,7 @@ cloudlessly
 cloudlessnesses
 cloudscape
 cloudscapes
+clough
 cloughs
 clours
 clouters
@@ -11762,6 +11768,7 @@ composters
 composures
 compounded
 comprador
+compradore
 compradores
 compradors
 comprehended
@@ -12922,6 +12929,7 @@ coscript
 coscripted
 coscripting
 cosec
+cosecants
 cosecs
 coseismals
 coshers
@@ -16270,6 +16278,7 @@ diapause
 diapauses
 diapedeses
 diapedesis
+diapering
 diaphaneities
 diaphanous
 diaphanously
@@ -20539,6 +20548,7 @@ eudiometric
 eugenias
 eugenicist
 eugenics
+eugenist
 eugeosyncline
 euglena
 euglenid
@@ -20994,6 +21004,7 @@ exorbitantly
 exorcise
 exorciser
 exorcising
+exorcistical
 exorcize
 exorcized
 exoskeleton
@@ -24172,6 +24183,7 @@ gadwalls
 gadzooks
 gae
 gaen
+gaffed
 gaffers
 gaffing
 gagaku
@@ -26799,6 +26811,7 @@ hanselled
 hanselling
 hansom
 hansoms
+hantavirus
 hanted
 hanting
 hao
@@ -28780,6 +28793,7 @@ hymeniums
 hymenoptera
 hymenopteron
 hymenopterons
+hymenopterous
 hymens
 hymnbook
 hymnbooks
@@ -30233,6 +30247,7 @@ infecter
 infecters
 infecting
 infection
+infectiousness
 infectivity
 infectors
 infecund
@@ -34493,6 +34508,7 @@ loftiness
 loftless
 loftlike
 lofty
+logan
 loganberry
 logarithmic
 logarithms
@@ -35126,6 +35142,7 @@ maenadism
 maestosos
 maestri
 maffick
+mafficked
 mafficker
 mafficks
 mafia
@@ -35652,6 +35669,7 @@ markhoors
 markings
 markka
 markswoman
+markswomen
 marled
 marlinespikes
 marling
@@ -36555,6 +36573,7 @@ methanations
 methane
 methanes
 methanol
+methanols
 methaqualone
 methaqualones
 methedrine
@@ -36963,6 +36982,7 @@ milline
 millineries
 milliohms
 million
+millionaires
 millionairesses
 millions
 millionths
@@ -37715,6 +37735,7 @@ modernes
 modernisation
 modernise
 modernising
+modernities
 modernize
 modernly
 modernness
@@ -38121,6 +38142,7 @@ mopinesses
 mopish
 moppers
 moppets
+moquettes
 mora
 morae
 moraine
@@ -38576,6 +38598,7 @@ multiracialism
 multirange
 multiregional
 multiscreen
+multisite
 multiskilled
 multisource
 multistage
@@ -39376,6 +39399,7 @@ nestors
 nethermost
 netherworld
 netiquette
+netizens
 netless
 netlike
 netminder
@@ -41258,6 +41282,7 @@ ophiolite
 ophiolites
 ophite
 ophites
+ophiuroid
 ophiuroids
 opiate
 opiating
@@ -52771,6 +52796,7 @@ rocking
 rockingly
 rocklike
 rockoons
+rockroses
 rockshaft
 rockslides
 rockwork
@@ -53233,6 +53259,7 @@ runt
 runtinesses
 runts
 runway
+runways
 rupee
 rupiah
 rupiahs
@@ -53594,6 +53621,7 @@ samek
 samekh
 samekhs
 sameness
+samiel
 samiels
 samisen
 samisens
@@ -56697,6 +56725,7 @@ slitted
 slitter
 slitters
 slitting
+sliver
 sliverer
 sliverers
 slivovic
@@ -58714,6 +58743,7 @@ steelheads
 steelie
 steelier
 steelies
+steeliness
 steelinesses
 steeling
 steelmaker
@@ -60355,6 +60385,7 @@ superloyalists
 superlunar
 superluxurious
 superluxury
+supermacho
 supermarket
 supermasculine
 supermind
@@ -62586,6 +62617,7 @@ tiercels
 tiercerons
 tiering
 tiff
+tiffining
 tiffs
 tigereye
 tigerish
@@ -62710,6 +62742,7 @@ tinsnips
 tinstone
 tint
 tinted
+tinter
 tintypes
 tinware
 tinwares
@@ -64051,6 +64084,7 @@ troweler
 trowelers
 troweling
 troweller
+trowels
 trowing
 trowths
 truancies
@@ -64646,6 +64680,7 @@ ultradry
 ultraexclusive
 ultrafeminine
 ultrafiches
+ultraheavy
 ultrahip
 ultrahot
 ultrahuman
