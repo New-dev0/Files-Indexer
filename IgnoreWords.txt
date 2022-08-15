@@ -601,6 +601,7 @@ administrates
 administrating
 administration
 administrator
+admirabilities
 admirable
 admirableness
 admiral
@@ -1553,6 +1554,7 @@ amalgamators
 amalgams
 amanitin
 amanuenses
+amaranths
 amarelles
 amarna
 amaryllises
@@ -2652,6 +2654,7 @@ apiculus
 apiologies
 apish
 apishnesses
+apivorous
 aplenty
 aplite
 aplombs
@@ -4707,6 +4710,7 @@ batfowler
 batfowlers
 batfowling
 batfowls
+batgirl
 bathers
 bathes
 bathless
@@ -5608,6 +5612,7 @@ bigeminal
 bigeminies
 bigeminy
 bigeneric
+bigfooted
 biggies
 bigging
 biggings
@@ -8019,6 +8024,7 @@ caespitose
 caestus
 caesura
 caesural
+cafe
 cafes
 cafeterias
 caffeinated
@@ -11351,6 +11357,7 @@ collector
 collectors
 collectorship
 collects
+college
 collegers
 colleges
 collegia
@@ -12897,6 +12904,7 @@ coruscant
 coruscated
 coruscates
 corvette
+corvettes
 corvid
 corvids
 corvinas
@@ -16448,6 +16456,7 @@ digestible
 digestions
 digestive
 digests
+diggings
 digital
 digitalins
 digitalizing
@@ -17925,6 +17934,7 @@ doze
 dozening
 dozens
 dozenth
+dozer
 doziness
 dozing
 dozy
@@ -22274,6 +22284,7 @@ finfoot
 finfoots
 fingerboards
 fingerer
+fingerers
 fingerpicked
 fingerpickings
 fingerposts
@@ -25846,6 +25857,7 @@ grayback
 graylag
 grayly
 grayouts
+graywater
 grazable
 grazeable
 grazer
@@ -27347,6 +27359,7 @@ helve
 hem
 hemacytometer
 hemacytometers
+hemagglutinated
 hemagglutinates
 hemagglutinin
 hemagogs
@@ -27497,6 +27510,7 @@ hereinbefore
 hereon
 heresies
 heresy
+heretically
 heretics
 heretrixes
 hereunder
@@ -29892,6 +29906,7 @@ increasing
 increate
 incredibilities
 incredibly
+incredulously
 increscent
 incriminate
 incrimination
@@ -30341,6 +30356,7 @@ ingot
 ingoted
 ingoting
 ingraft
+ingrafted
 ingrafting
 ingrafts
 ingrained
@@ -32131,6 +32147,7 @@ jugula
 jugular
 jugulars
 jugulates
+juice
 juiceheads
 juiceless
 juicer
@@ -32583,6 +32600,7 @@ kifs
 kilim
 kill
 killable
+killdee
 killdeers
 killed
 killies
@@ -33114,6 +33132,7 @@ lambasted
 lambda
 lambdas
 lambdoid
+lambed
 lambencies
 lambers
 lamberts
@@ -36474,6 +36493,7 @@ metallizing
 metallographer
 metallographers
 metallographic
+metallophones
 metallurgical
 metallurgically
 metalworks
@@ -37581,6 +37601,7 @@ mistrusts
 mistruth
 mistryst
 mistrysted
+mistrysting
 mistrysts
 mists
 mistune
@@ -39516,6 +39537,7 @@ nickling
 nickname
 nicol
 nicotiana
+nicotianas
 nicotinamide
 nicotinic
 nicotins
@@ -41129,6 +41151,7 @@ ongoingnesses
 onload
 onlookers
 onlooking
+only
 onomastician
 onomatology
 onrush
@@ -42076,6 +42099,7 @@ outsoles
 outsources
 outspan
 outspeeded
+outspeeds
 outspell
 outspelled
 outspells
@@ -43210,6 +43234,7 @@ palynologic
 palynologically
 palynologies
 palynologists
+palynology
 pampa
 pampas
 pampean
@@ -43446,6 +43471,7 @@ paralyzing
 paramagnet
 paramagnetic
 paramattas
+paramecia
 paramedical
 parament
 paraments
@@ -44956,6 +44982,7 @@ phosphene
 phosphids
 phosphin
 phosphins
+phosphite
 phosphites
 phospholipase
 phosphoprotein
@@ -47404,6 +47431,7 @@ pressurizations
 pressurize
 pressurizers
 prestamped
+prestamps
 prester
 presterilizes
 presterna
@@ -49238,6 +49266,7 @@ rackworks
 racons
 raconteur
 racoons
+racquet
 radars
 radarscope
 radarscopes
@@ -49394,6 +49423,7 @@ raked
 rakees
 rakehell
 rakehelly
+rakeoff
 rakes
 raki
 rakishness
@@ -50450,6 +50480,7 @@ reefable
 reefier
 reefing
 reefs
+reejecting
 reek
 reeker
 reeking
@@ -50628,6 +50659,7 @@ reforests
 reforge
 reform
 reformate
+reformational
 reformations
 reformer
 reformisms
@@ -58112,6 +58144,7 @@ spoofer
 spoofery
 spoofing
 spoofs
+spookery
 spookiest
 spooking
 spooled
@@ -66661,6 +66694,7 @@ vallate
 vallation
 vallecula
 valleculae
+valley
 valleys
 valonia
 valor
@@ -68556,6 +68590,7 @@ widdle
 wide
 wideawakes
 wideband
+widebodies
 widebody
 widely
 widener
