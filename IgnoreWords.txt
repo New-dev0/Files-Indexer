@@ -3619,6 +3619,7 @@ atrocity
 atrophied
 atropisms
 attaboy
+attach
 attached
 attacher
 attachers
@@ -6967,6 +6968,7 @@ brasher
 brashly
 brashnesses
 brashy
+brasilin
 brasilins
 brassbound
 brasserie
@@ -8639,6 +8641,7 @@ cargo
 cargoes
 carhop
 carhopping
+carhops
 caribes
 caribou
 caricature
@@ -9571,6 +9574,7 @@ chastest
 chastise
 chastised
 chastisements
+chastiser
 chastises
 chastities
 chatchke
@@ -12790,6 +12794,7 @@ correlatively
 correlatives
 correlator
 correlators
+corresponded
 correspondence
 correspondency
 correspondent
@@ -13184,6 +13189,7 @@ cowlicks
 cowlings
 cowmen
 cowpat
+cowpats
 cowpie
 cowpunchers
 cowriting
@@ -14164,6 +14170,7 @@ cutins
 cutlas
 cutler
 cutlery
+cutlet
 cutline
 cutlines
 cutout
@@ -14275,6 +14282,7 @@ cyclostyling
 cyclothymia
 cyclotron
 cyder
+cyders
 cyeses
 cygnet
 cygnets
@@ -15328,6 +15336,7 @@ delineated
 delineates
 delineation
 delineations
+delinquent
 delinquents
 deliquesce
 deliquesced
@@ -17737,6 +17746,7 @@ dourah
 dourahs
 douras
 dourest
+dourine
 dournesses
 douroucouli
 douse
@@ -20833,6 +20843,7 @@ exhibited
 exhibiter
 exhibiters
 exhibiting
+exhibition
 exhibitionisms
 exhibitions
 exhibitors
@@ -21082,6 +21093,7 @@ extemporally
 extemporaneity
 extemporaneous
 extemporarily
+extempore
 extemporise
 extemporised
 extemporising
@@ -23266,6 +23278,7 @@ formalizing
 formalnesses
 formals
 format
+formates
 formats
 formatters
 formee
@@ -26244,6 +26257,7 @@ gurshes
 guruship
 guruships
 gushier
+gushiness
 gushingly
 gusset
 gustable
@@ -26648,6 +26662,7 @@ handstands
 handworks
 handwoven
 handwringer
+handwringers
 handwrote
 handy
 handyperson
@@ -29452,6 +29467,7 @@ imprecisely
 impreciseness
 imprecision
 impregnableness
+impregnant
 impregnated
 impregnates
 impregnators
@@ -30932,6 +30948,7 @@ interuniversity
 interurban
 interval
 intervallic
+intervalometer
 intervals
 intervene
 intervener
@@ -38239,6 +38256,7 @@ mucocutaneous
 mucoid
 mucoidal
 mucolytic
+mucopeptide
 mucopeptides
 mucoproteins
 mucor
@@ -42105,6 +42123,7 @@ overburned
 overbuys
 overcall
 overcalled
+overcalling
 overcalls
 overcame
 overcapacity
@@ -42773,6 +42792,7 @@ packabilities
 package
 packaged
 packager
+packboards
 packed
 packer
 packers
@@ -43755,6 +43775,7 @@ paygrade
 payload
 paymasters
 payment
+payoff
 payoffs
 payors
 payouts
@@ -46294,6 +46315,7 @@ portionless
 portions
 portless
 portliest
+portraitures
 portray
 portrayed
 portraying
@@ -48727,6 +48749,7 @@ quaiches
 quailing
 quainter
 quaintness
+quaintnesses
 quake
 quaker
 quakers
@@ -49342,6 +49365,7 @@ rasher
 rashest
 rasp
 raspberries
+rasped
 raspier
 raspiest
 raspiness
@@ -51442,6 +51466,7 @@ resend
 resends
 resensitize
 resensitizes
+resentence
 resentencing
 reserpines
 reservable
@@ -52693,6 +52718,7 @@ rosinweed
 rosolios
 rostella
 rostellums
+rostral
 rostrate
 rostrum
 rotameter
@@ -54537,6 +54563,7 @@ selcouth
 select
 selectable
 selection
+selectionists
 selective
 selectively
 selectiveness
@@ -56209,6 +56236,7 @@ skulked
 skulkers
 skullcaps
 skullduggeries
+skunked
 skunking
 skunkweed
 skunkweeds
@@ -57078,6 +57106,7 @@ solicited
 soliciting
 solicitous
 solicitousness
+solicits
 solicitude
 solidarisms
 solidarist
@@ -57449,6 +57478,7 @@ sparked
 sparker
 sparkier
 sparkish
+sparkle
 sparkler
 sparklets
 sparklier
@@ -60242,6 +60272,7 @@ surcoats
 surd
 sure
 surefire
+surefooted
 surely
 sureness
 surenesses
@@ -62123,6 +62154,7 @@ thriftily
 thriftinesses
 thriftless
 thriftlessly
+thrill
 thrilled
 thrillers
 thrilling
@@ -63183,6 +63215,7 @@ transmogrifies
 transmutative
 transnational
 transnatural
+transom
 transonic
 transparence
 transparency
@@ -64032,6 +64065,7 @@ turfski
 turfskiing
 turfskiings
 turfskis
+turgent
 turgidities
 turgidness
 turgors
@@ -66716,6 +66750,7 @@ vent
 ventifact
 ventilated
 ventilating
+ventilators
 ventilatory
 venting
 ventless
