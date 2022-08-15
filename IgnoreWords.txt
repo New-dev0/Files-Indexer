@@ -737,6 +737,7 @@ aeneous
 aeneus
 aeon
 aeonic
+aepyornises
 aequorin
 aeration
 aerations
@@ -6026,6 +6027,7 @@ blacktops
 blackwater
 bladders
 bladdery
+blade
 bladed
 bladeless
 bladelike
@@ -7368,6 +7370,7 @@ brugh
 bruising
 bruited
 bruiters
+bruiting
 bruits
 brulot
 brumby
@@ -7832,6 +7835,7 @@ buttonholed
 buttonholer
 buttonholers
 buttonholes
+buttonholing
 buttonhooks
 buttonwood
 buttresses
@@ -9988,6 +9992,7 @@ chlordans
 chlorenchyma
 chlorids
 chlorin
+chlorinations
 chlorinators
 chlorinity
 chlorins
@@ -10293,6 +10298,7 @@ cinematographic
 cinematographs
 cinematography
 cineole
+cinephile
 cinephiles
 cineraria
 cinerarias
@@ -10500,6 +10506,7 @@ clannishly
 clannishness
 clansman
 clapboard
+clapboarded
 clapboards
 clapping
 clapt
@@ -11355,6 +11362,7 @@ collembolous
 collenchymas
 collet
 collide
+colliders
 collides
 colliding
 collie
@@ -13238,6 +13246,7 @@ cowpat
 cowpats
 cowpie
 cowpunchers
+cowries
 cowriting
 cowrote
 cows
@@ -17321,6 +17330,7 @@ distraught
 distress
 distresses
 distressful
+distressfully
 distressfulness
 distressing
 distribute
@@ -18263,6 +18273,7 @@ duelling
 duellist
 duels
 duendes
+dueness
 duennaships
 duet
 dueting
@@ -19593,6 +19604,7 @@ engorges
 engorging
 engraft
 engraftments
+engrafts
 engrail
 engrailing
 engrails
@@ -21008,6 +21020,7 @@ expatiating
 expatriate
 expatriates
 expatriating
+expatriatism
 expatriatisms
 expectably
 expectative
@@ -22604,6 +22617,7 @@ flavoproteins
 flavorful
 flavorfully
 flavorings
+flavorous
 flavoured
 flavoury
 flaw
@@ -23921,6 +23935,7 @@ fulfilments
 fulfils
 fulgent
 fulgurant
+fulgurate
 fulgurated
 fulgurates
 fulguration
@@ -29490,6 +29505,7 @@ impleading
 impleads
 implement
 implementor
+impletion
 impletions
 implicates
 implicative
@@ -31466,6 +31482,7 @@ ischia
 ischium
 iseikonia
 iseikonic
+isentropic
 isinglass
 island
 islander
@@ -39220,6 +39237,7 @@ negus
 neif
 neifs
 neigh
+neighbored
 neighboring
 neighborly
 neighbors
@@ -39285,6 +39303,7 @@ neostigmines
 neotenic
 neoteny
 neotropic
+neotropics
 neotypes
 nepenthean
 nepeta
@@ -44419,6 +44438,7 @@ perinatally
 perinea
 perineal
 perineuria
+perineurium
 periodates
 periodical
 periodically
@@ -47185,6 +47205,7 @@ premiums
 premixed
 premixt
 premodern
+premodifies
 premodify
 premoistened
 premold
@@ -48114,6 +48135,7 @@ proteoglycan
 proteolytically
 proteome
 proteomic
+proteoses
 protest
 protestation
 protestations
@@ -48338,6 +48360,7 @@ psychoneurotic
 psychoneurotics
 psychopathics
 psychopathy
+psychophysical
 psychoses
 psychosexual
 psychosexuality
@@ -51085,6 +51108,7 @@ remanent
 remanning
 remans
 remanufacture
+remanufactures
 remap
 remapping
 remark
@@ -54190,6 +54214,7 @@ scissile
 scissor
 scissors
 scissortail
+scissortails
 scissures
 sciurine
 sciuroid
@@ -56518,6 +56543,7 @@ slaveholding
 slaverer
 slaverers
 slaveries
+slavery
 slaveys
 slavish
 slavishly
@@ -56694,6 +56720,7 @@ slowdown
 slowdowns
 slowed
 slower
+slowish
 slowness
 slownesses
 slowpoke
@@ -56995,6 +57022,7 @@ sniggler
 snipe
 sniped
 sniper
+snipped
 snippet
 snippetier
 snippetiest
@@ -60681,6 +60709,7 @@ sweetsops
 swell
 sweller
 swellfishes
+swellheaded
 swells
 swelter
 sweltrier
@@ -60700,6 +60729,7 @@ swig
 swigging
 swillers
 swim
+swimmier
 swimmily
 swindle
 swindled
@@ -61561,6 +61591,7 @@ tees
 teeterboards
 teetering
 teethe
+teething
 teethings
 teethridge
 teetotalism
@@ -65159,6 +65190,7 @@ underlips
 underlit
 underloaded
 underloading
+underloads
 underlyingly
 undermining
 underneath
@@ -66980,6 +67012,7 @@ veratrias
 veratridines
 veratrin
 veratrins
+veratrum
 veratrums
 verb
 verbalizations
@@ -68505,6 +68538,7 @@ wicca
 wiccans
 wickapes
 wicked
+wickeder
 wickedest
 wickedness
 wickednesses
@@ -68917,6 +68951,7 @@ woodstoves
 woodtones
 woodwaxen
 woodworkers
+woodworm
 wooer
 woof
 woofer
