@@ -5373,6 +5373,7 @@ besmoking
 besmoothed
 besmooths
 besmudges
+besmutting
 besnow
 besnowed
 besnows
@@ -7027,6 +7028,7 @@ breadfruits
 breading
 breadless
 breadnuts
+breadroots
 breads
 breadstuff
 breadstuffs
@@ -7731,6 +7733,7 @@ businessmen
 businesspersons
 businesswoman
 busk
+buskers
 buskin
 bust
 bustard
@@ -9342,6 +9345,7 @@ chafing
 chagrined
 chagrining
 chagrinning
+chagrins
 chai
 chained
 chaining
@@ -9448,6 +9452,7 @@ changs
 channel
 channeler
 channelers
+channelize
 channelized
 channelizing
 chanoyus
@@ -10409,6 +10414,7 @@ clafoutis
 clag
 clags
 claimable
+claimant
 claimer
 clairaudience
 clairaudient
@@ -10499,6 +10505,7 @@ claudication
 claudications
 claught
 claughted
+claughts
 claustra
 claustrophobe
 claustrophobias
@@ -14410,6 +14417,7 @@ daikers
 dailinesses
 dailynesses
 daimen
+daimio
 daimons
 daimyo
 daintier
@@ -16954,6 +16962,7 @@ disinherit
 disinherited
 disinheriting
 disinhibit
+disinhibiting
 disintegrating
 disintegrations
 disintegrator
@@ -19794,6 +19803,7 @@ envenomizations
 enviable
 enviableness
 enviers
+enviousnesses
 enviro
 environ
 environing
@@ -20017,6 +20027,7 @@ equerry
 equestrian
 equestrians
 equestriennes
+equiangular
 equicaloric
 equidistant
 equidistantly
@@ -23195,6 +23206,7 @@ forfeited
 forfeiting
 forfended
 forgathered
+forgathering
 forge
 forgeability
 forger
@@ -23987,6 +23999,7 @@ futilitarianism
 futility
 futtock
 futureless
+futurelessness
 futures
 futuristically
 futurities
@@ -25326,6 +25339,7 @@ goldeyes
 goldfinch
 goldsmith
 goldurns
+golem
 golf
 golfer
 golfers
@@ -25773,6 +25787,7 @@ greenskeeper
 greenstuff
 greenstuffs
 greensward
+greenswards
 greenths
 greenwash
 greenwashes
@@ -27353,6 +27368,7 @@ hereinbefore
 hereon
 heresies
 heresy
+heretics
 heretrixes
 hereunder
 hereunto
@@ -27439,6 +27455,7 @@ heterodoxy
 heterodyne
 heterodyning
 heteroecism
+heterogametes
 heterogameties
 heterogamous
 heterogamy
@@ -37324,6 +37341,7 @@ missending
 missenses
 missent
 misses
+misshapenly
 misshaper
 missilery
 missing
@@ -37410,6 +37428,7 @@ misutilization
 misvalue
 misvalued
 misvalues
+misvaluing
 misword
 miswording
 miswords
@@ -38278,6 +38297,7 @@ mulligatawny
 mulling
 mullions
 mullite
+mullocky
 multiagency
 multiaxial
 multibank
@@ -39143,6 +39163,7 @@ nervousnesses
 nervules
 nervures
 nervy
+nescience
 nesciences
 nescient
 nescients
@@ -39384,6 +39405,7 @@ nil
 nilgai
 nilghais
 nill
+nilpotent
 nils
 nim
 nimbi
@@ -42570,6 +42592,7 @@ overwatched
 overwaters
 overwearied
 overwearing
+overwears
 overweened
 overweeningly
 overweighted
@@ -48042,6 +48065,7 @@ psephologist
 psephologists
 psephology
 pseudepigraph
+pseudepigraphy
 pseudocoel
 pseudocoels
 pseudocyesis
@@ -49400,6 +49424,7 @@ ravens
 raves
 ravining
 ravioli
+ravish
 ravished
 ravisher
 ravishers
@@ -49891,6 +49916,7 @@ reconsider
 reconsidering
 reconsigns
 reconsolidate
+reconsolidated
 reconsolidating
 reconstitute
 reconstituted
@@ -49965,6 +49991,7 @@ rectification
 rectifications
 rectified
 rectifiers
+rectify
 rectifying
 rectitude
 rectitudinous
@@ -51605,6 +51632,7 @@ restimulating
 restitched
 restitching
 restitute
+restitutes
 restitutions
 restless
 restlessness
@@ -60378,6 +60406,7 @@ sweatboxes
 sweater
 sweaterdress
 sweaterdresses
+sweatiness
 sweatinesses
 sweating
 sweatpants
@@ -65394,6 +65423,7 @@ unmanlier
 unmanliest
 unmanly
 unmans
+unmarrieds
 unmasculine
 unmask
 unmasked
@@ -65504,6 +65534,7 @@ unpotted
 unprecedented
 unpregnant
 unpremeditated
+unprepossessing
 unpressed
 unpressured
 unpressurized
@@ -65574,6 +65605,7 @@ unreliability
 unreluctant
 unremarkable
 unremarkably
+unremarked
 unreminiscent
 unremittingly
 unrenewed
@@ -66260,6 +66292,7 @@ uxorially
 uxoriously
 uxoriousnesses
 vacant
+vacatable
 vacate
 vacates
 vacation
@@ -67952,6 +67985,7 @@ wether
 wetness
 wetnesses
 wets
+wettabilities
 wetting
 wettish
 wha
@@ -68583,6 +68617,7 @@ woodhen
 woodie
 woodies
 woodiest
+woodiness
 wooding
 woodlanders
 woodlands
