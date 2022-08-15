@@ -204,6 +204,7 @@ acclimatize
 acclimatizer
 acclimatizes
 acclivities
+accolade
 accolading
 accommodating
 accommodatingly
@@ -1622,6 +1623,7 @@ ambsace
 ambulacral
 ambulacrum
 ambulant
+ambulate
 ambulated
 ambulating
 ambulator
@@ -3351,6 +3353,7 @@ aspersors
 asphalt
 aspherical
 asphodels
+asphyxias
 asphyxiating
 asphyxies
 aspidistra
@@ -4053,6 +4056,7 @@ axiomatically
 axiomatizations
 axiomatize
 axiomatized
+axiomatizes
 axioms
 axion
 axions
@@ -6772,6 +6776,7 @@ botherations
 bothering
 bothersome
 bothriums
+botonnee
 botryoidal
 botryose
 botrytis
@@ -7166,6 +7171,7 @@ bricklayings
 bricks
 brickyards
 bridal
+bridally
 bride
 bridesmaid
 bridesmaids
@@ -7193,6 +7199,7 @@ brigadier
 brigading
 brigandage
 brigandines
+brigantine
 brigantines
 brighten
 brighteners
@@ -8359,6 +8366,7 @@ cannabic
 cannabin
 cannabinoid
 cannabis
+cannel
 cannelloni
 cannelon
 canneries
@@ -10430,6 +10438,7 @@ citrate
 citreous
 citric
 citriculturist
+citrinins
 citrins
 citronellals
 citronellas
@@ -11479,6 +11488,7 @@ colorless
 colorlessnesses
 colorman
 colormen
+colorpoint
 colors
 colorways
 colossal
@@ -11854,6 +11864,7 @@ concelebrates
 concelebration
 concent
 concentrating
+concentrative
 concentrator
 concentrators
 concentrically
@@ -13500,6 +13511,7 @@ credit
 creditability
 creditable
 creditableness
+creditors
 creds
 creed
 creedal
@@ -14032,6 +14044,7 @@ culturally
 culture
 cultured
 cultures
+culvers
 culvert
 culverts
 cumarin
@@ -14074,6 +14087,7 @@ cupboard
 cupboards
 cupel
 cupeled
+cupelers
 cupeling
 cupellation
 cupelled
@@ -16218,6 +16232,7 @@ dhootis
 dhourras
 dhurna
 diabase
+diabetes
 diablery
 diabolic
 diabolically
@@ -16407,6 +16422,7 @@ didacticisms
 didacts
 diddle
 diddles
+diddlies
 diddly
 didgeridoos
 didjeridoo
@@ -19044,6 +19060,7 @@ elegiacal
 elegiacally
 elegiacs
 elegies
+elegise
 elegising
 elegist
 elegists
@@ -25015,6 +25032,7 @@ gill
 giller
 gillers
 gillies
+gilling
 gillnet
 gilt
 gilts
@@ -26806,6 +26824,7 @@ handrails
 handsaw
 handsaws
 handseled
+handselled
 handselling
 handsewn
 handsful
@@ -27931,6 +27950,7 @@ hoatzins
 hoaxed
 hoaxers
 hoaxing
+hob
 hobbed
 hobbit
 hobbits
@@ -36314,6 +36334,7 @@ memorablenesses
 memorably
 memoranda
 memorandum
+memorial
 memorialised
 memorialises
 memorialising
@@ -39393,6 +39414,7 @@ neoplasia
 neoplastic
 neoplasticism
 neoplasticisms
+neoprene
 neoprenes
 neorealism
 neorealisms
@@ -42236,6 +42258,7 @@ outtakes
 outtalked
 outtalking
 outtasking
+outtell
 outtelling
 outtells
 outthank
@@ -46660,6 +46683,7 @@ postcollege
 postcollegiate
 postconception
 postconquest
+postcoronary
 postcoup
 postcrash
 postcrisis
@@ -48561,6 +48585,7 @@ pudic
 puds
 puerile
 puerilely
+puerpera
 puerperae
 puerperia
 puerperium
@@ -52904,6 +52929,7 @@ roguing
 roguish
 roguishly
 roguishnesses
+roiliest
 roiling
 roisterers
 roisterous
@@ -53098,6 +53124,7 @@ roughhoused
 roughies
 roughleg
 roughneck
+roughnecking
 roughnecks
 roughrider
 rouille
@@ -55074,6 +55101,7 @@ senile
 senilely
 sennight
 sennights
+sennit
 sennits
 senopia
 senor
@@ -55333,6 +55361,7 @@ settlers
 settlings
 settlors
 seventh
+seventhly
 sevenths
 seventies
 seventieths
@@ -58884,6 +58913,7 @@ stemmer
 stemmery
 stemming
 stemmy
+stems
 stemware
 stemwares
 stenchful
@@ -58926,6 +58956,7 @@ stereograph
 stereographed
 stereographic
 stereoisomeric
+stereoisomerism
 stereology
 stereophonic
 stereopticon
@@ -65160,6 +65191,7 @@ uncomfortable
 uncomfortably
 uncomic
 uncommoner
+uncommonness
 uncommonnesses
 uncompassionate
 uncompensated
@@ -67286,6 +67318,7 @@ vesperal
 vespertilian
 vespiaries
 vesseled
+vessels
 vestals
 vestas
 vested
@@ -67633,6 +67666,7 @@ vitrics
 vitrification
 vitrifying
 vitrines
+vitriol
 vitrioled
 vitriolling
 vittae
@@ -67743,6 +67777,7 @@ volitional
 volitive
 volkslied
 volkslieder
+volleyballs
 volleyed
 volleys
 volplane
