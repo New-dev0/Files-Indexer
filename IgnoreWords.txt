@@ -2163,6 +2163,7 @@ annunciating
 annunciatory
 anoa
 anodizations
+anodize
 anodized
 anodizes
 anodizing
@@ -3390,6 +3391,7 @@ assented
 assenter
 assenters
 assenting
+assentor
 assentors
 assents
 asserted
@@ -4761,6 +4763,7 @@ bawcocks
 bawdier
 bawdies
 bawdric
+bawdry
 bawdy
 bawl
 bawsunt
@@ -12510,6 +12513,7 @@ convulsants
 convulse
 convulsionary
 convulsively
+cony
 cooch
 coocoo
 cooed
@@ -15293,6 +15297,7 @@ dehydration
 dehydrations
 dehydrators
 dehydrogenated
+dehydrogenates
 dehydrogenation
 deice
 deicer
@@ -16467,6 +16472,7 @@ dilate
 dilater
 dilating
 dilation
+dilations
 dilative
 dilatometer
 dilatometers
@@ -18140,6 +18146,7 @@ drossiest
 drossy
 droughtier
 droughtiness
+droughty
 drouked
 drouthiest
 drouthy
@@ -19842,6 +19849,7 @@ entwines
 entwist
 entwisted
 entwists
+enucleates
 enucleation
 enuf
 enumerabilities
@@ -23304,6 +23312,7 @@ forgoers
 forgoing
 forint
 forkball
+forkballs
 forked
 forkedly
 forker
@@ -27092,6 +27101,7 @@ headsets
 headshrinker
 headstand
 headstands
+headstay
 headstays
 headstone
 headwaiters
@@ -29160,6 +29170,7 @@ illusively
 illusivenesses
 illusorinesses
 illusory
+illustrates
 illustrating
 illustrations
 illustrative
@@ -29598,6 +29609,7 @@ impurenesses
 impurest
 impurities
 impurity
+imputable
 imputably
 imputatively
 impute
@@ -33132,6 +33144,7 @@ lanceted
 lancewood
 lancinates
 lancinating
+landau
 landaulet
 landaulets
 lander
@@ -36165,6 +36178,7 @@ meltons
 meltwater
 membership
 memberships
+membranal
 membrane
 membranous
 meme
@@ -36973,6 +36987,7 @@ mineshafts
 minestrone
 minestrones
 minesweeping
+minesweepings
 mingiest
 mingle
 mingler
@@ -37615,6 +37630,7 @@ mochas
 mochila
 mockable
 mocker
+mockeries
 mockers
 mockingbird
 mocks
@@ -38576,6 +38592,7 @@ muntjac
 muntjak
 muntjaks
 muon
+muonic
 muonium
 mura
 muraenids
@@ -39100,6 +39117,7 @@ nebenkern
 nebulising
 nebulose
 nebulosities
+nebulous
 nebulously
 necessarily
 necessary
@@ -41151,6 +41169,7 @@ opera
 operabilities
 operable
 operagoing
+operagoings
 operand
 operant
 operates
@@ -41527,6 +41546,7 @@ osteomalacia
 osteomyelitis
 osteomyelitises
 osteopathic
+osteopathy
 osteoplasty
 osteosarcomas
 osteosarcomata
@@ -41588,6 +41608,7 @@ ousted
 ouster
 ousters
 ousting
+ousts
 outachieves
 outachieving
 outacted
@@ -41879,6 +41900,7 @@ outplacing
 outplayed
 outplodding
 outplots
+outpoint
 outpointing
 outpoints
 outpoliticks
@@ -48633,6 +48655,7 @@ pushinesses
 pushy
 pusillanimity
 pusillanimous
+pusley
 pusleys
 puss
 pusses
@@ -50511,6 +50534,7 @@ refits
 refixed
 reflag
 reflagged
+reflated
 reflates
 reflating
 reflations
@@ -51703,6 +51727,7 @@ resorter
 resorters
 resought
 resounded
+resoundingly
 resow
 resowed
 resowing
@@ -52456,6 +52481,7 @@ rightism
 rightisms
 rightists
 rightmost
+rightness
 rightnesses
 rights
 rightsizing
@@ -54299,6 +54325,7 @@ scrimmage
 scrimpers
 scrimpiest
 scrimpily
+scrimpy
 scrimshanders
 scrimshaw
 scrimshaws
@@ -55932,6 +55959,7 @@ significance
 significances
 significancy
 significant
+significantly
 signification
 signifieds
 signifiers
@@ -57197,6 +57225,7 @@ soldierships
 solecise
 solecised
 solecises
+solecising
 solecistic
 solecists
 solecizing
@@ -57847,6 +57876,7 @@ spindler
 spindlier
 spindrifts
 spined
+spinel
 spinelessness
 spinelessnesses
 spiniest
@@ -58862,6 +58892,7 @@ stockists
 stockjobber
 stockman
 stockpiled
+stockpot
 stockroom
 stocktaking
 stocktakings
@@ -61448,6 +61479,7 @@ teaspoonful
 teaspoonfuls
 teaspoons
 teataster
+teats
 teawares
 teazelling
 teazle
@@ -63694,6 +63726,7 @@ triller
 trillers
 trilling
 trillion
+trillions
 trillionth
 trillionths
 trillium
@@ -67375,6 +67408,7 @@ vittae
 vittled
 vittles
 vituline
+vituperate
 vituperated
 vituperation
 vituperations
@@ -67567,6 +67601,7 @@ vuggier
 vuggs
 vugh
 vugs
+vulcanisates
 vulcanisations
 vulcanised
 vulcanising
