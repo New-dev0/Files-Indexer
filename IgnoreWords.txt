@@ -1224,6 +1224,7 @@ aldosterones
 aldrins
 aleatoric
 aleatory
+alecithal
 alee
 alegars
 alehouse
@@ -3434,6 +3435,7 @@ assertion
 assertiveness
 assertor
 asserts
+assess
 assessed
 assessment
 asset
@@ -9443,6 +9445,7 @@ chabouk
 chabouks
 chachkas
 chacma
+chaconnes
 chadars
 chador
 chadri
@@ -9868,6 +9871,7 @@ chevying
 chewier
 chewiness
 chews
+chewy
 chiaroscurist
 chiaroscurists
 chiaroscuro
@@ -9876,6 +9880,7 @@ chias
 chiasmas
 chiasmatic
 chiasmic
+chiaus
 chibouque
 chic
 chica
@@ -11750,6 +11755,7 @@ comorbid
 comous
 compacted
 compacter
+compactest
 compacting
 compactions
 compactly
@@ -14608,6 +14614,7 @@ daiker
 daikered
 daikering
 daikers
+dailiness
 dailinesses
 dailynesses
 daimen
@@ -14753,6 +14760,7 @@ darkliest
 darkling
 darkly
 darkness
+darkrooms
 darling
 darlingly
 darlingness
@@ -14833,6 +14841,7 @@ daydreams
 dayglow
 daylight
 daylighted
+daylighting
 daylightings
 daylilies
 daylit
@@ -18997,6 +19006,7 @@ effrontery
 effs
 effulge
 effulgent
+effulging
 effuse
 effused
 effuses
@@ -19545,6 +19555,7 @@ encashments
 encasing
 encaustics
 encephalitides
+encephalitogen
 encephalitogens
 encephalograms
 encephalograph
@@ -20364,6 +20375,7 @@ erbium
 ere
 erect
 erected
+erecter
 erectilities
 erectility
 erecting
@@ -20901,6 +20913,7 @@ ewe
 ewes
 exacerbated
 exactable
+exactas
 exacter
 exacters
 exactest
@@ -21882,6 +21895,7 @@ fashionmonger
 fashionmongers
 fashions
 fashious
+fast
 fastbacks
 fastballers
 fastballs
@@ -27017,6 +27031,7 @@ hankies
 hanking
 hanks
 hanky
+hansa
 hanseatic
 hansel
 hanselled
@@ -31423,6 +31438,7 @@ intraspecies
 intraspecific
 intrastate
 intrathecal
+intravascularly
 intravenous
 intravitam
 intreat
@@ -35076,6 +35092,7 @@ lubricity
 lucarne
 lucarnes
 lucences
+lucencies
 lucernes
 lucifer
 luck
@@ -37286,6 +37303,7 @@ milliseconds
 millivolts
 milliwatt
 millrace
+millruns
 mills
 millworks
 millwright
@@ -40524,6 +40542,7 @@ nonprogrammers
 nonprosses
 nonprossing
 nonprotein
+nonproven
 nonpunitive
 nonquantitative
 nonquota
@@ -43497,6 +43516,7 @@ paler
 palestra
 palestrae
 palestras
+paletots
 palette
 palettes
 palfrey
@@ -45421,6 +45441,7 @@ photofinishing
 photofinishings
 photoflashes
 photog
+photogenic
 photogeologic
 photogeological
 photogeologist
@@ -46414,6 +46435,7 @@ poachable
 poachers
 poaches
 poachier
+poblano
 pochard
 pock
 pocket
@@ -47114,6 +47136,7 @@ potherbs
 pothering
 potholders
 pothooks
+pothos
 pothouse
 pothunter
 potiche
@@ -51055,6 +51078,7 @@ reflections
 reflectively
 reflectivity
 reflectorized
+reflectorizes
 reflectors
 reflects
 reflet
@@ -55732,6 +55756,7 @@ sexless
 sexlessly
 sexlessness
 sexologic
+sexologies
 sexologist
 sexologists
 sexploitation
@@ -55750,6 +55775,7 @@ sexton
 sextos
 sexts
 sextuplets
+sextuplicated
 sexual
 sexuality
 sexualized
@@ -56194,6 +56220,7 @@ shoetree
 shoetrees
 shofars
 shofroth
+shogi
 shogs
 sholom
 shone
@@ -56573,6 +56600,7 @@ silicle
 silicone
 siliconized
 silicotic
+siliculae
 siliqua
 siliquae
 siliques
@@ -58165,6 +58193,7 @@ spadixes
 spaed
 spaeings
 spaes
+spaghetti
 spaghettilike
 spaghettis
 spahis
@@ -61782,6 +61811,7 @@ tamaraus
 tamarind
 tamarinds
 tamarisk
+tambala
 tambalas
 tambour
 tamboura
@@ -63332,6 +63362,7 @@ toadstones
 toadstool
 toady
 toadying
+toadyish
 toadyisms
 toasted
 toastier
@@ -64826,6 +64857,7 @@ tunnel
 tunneler
 tunnelers
 tunneling
+tunnelings
 tunny
 tuns
 tupiks
@@ -64843,6 +64875,7 @@ turbans
 turbary
 turbeth
 turbeths
+turbidimetric
 turbidities
 turbidity
 turbinal
@@ -64919,6 +64952,7 @@ turtles
 tushed
 tusker
 tuskers
+tusking
 tuskless
 tussahs
 tussal
@@ -68685,6 +68719,7 @@ waved
 waveguide
 wavelength
 wavelengths
+wavelessly
 wavelet
 wavelike
 wavellites
