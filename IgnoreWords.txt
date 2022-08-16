@@ -2318,6 +2318,7 @@ anticholinergic
 antichurch
 anticipant
 anticipants
+anticipating
 anticipators
 anticivic
 antick
@@ -2960,6 +2961,7 @@ arcades
 arcadian
 arcana
 arcanums
+arcatures
 arccosine
 arced
 arch
@@ -5379,6 +5381,7 @@ berthing
 beryllium
 berylliums
 bes
+bescorched
 bescorches
 bescours
 bescreen
@@ -7424,6 +7427,7 @@ brushwoods
 brushwork
 brusker
 brusque
+brusquely
 brusqueness
 brusquenesses
 brusquerie
@@ -8235,6 +8239,7 @@ calvadoses
 calvarial
 calvarian
 calvarias
+calve
 calves
 calycle
 calyculi
@@ -9729,6 +9734,7 @@ checksums
 checkup
 checkups
 cheddite
+cheder
 cheechakos
 cheekbone
 cheeked
@@ -9782,6 +9788,7 @@ chemoreceptor
 chemos
 chemosorb
 chemosorbed
+chemosorbing
 chemostats
 chemosynthesis
 chemosynthetic
@@ -11262,6 +11269,7 @@ cohobates
 cohobating
 cohogs
 coholder
+coholders
 cohomological
 cohomologies
 cohomology
@@ -15099,6 +15107,7 @@ decoration
 decorations
 decoratively
 decorativeness
+decorator
 decorators
 decorous
 decorticate
@@ -16374,6 +16383,7 @@ diatoms
 diatribe
 diazepams
 diazinons
+diazins
 diazo
 diazole
 diazoniums
@@ -17295,6 +17305,7 @@ dissatisfaction
 dissatisfies
 dissave
 dissaves
+dissaving
 disseated
 disseats
 dissect
@@ -17614,6 +17625,7 @@ dogcart
 dogdoms
 dogears
 doges
+dogeys
 dogface
 dogged
 doggedly
@@ -23276,6 +23288,7 @@ forbears
 forbids
 forboded
 forby
+forbye
 force
 forced
 forcedly
@@ -23878,6 +23891,7 @@ frivols
 frized
 frizers
 frizes
+frizettes
 frizziest
 frizzing
 frizzle
@@ -24891,6 +24905,7 @@ geophysics
 geopolitics
 geoponic
 geoponics
+geoprobe
 geoprobes
 georgette
 georgettes
@@ -26135,6 +26150,7 @@ grizzles
 grizzlier
 grizzlies
 grizzly
+groaned
 groans
 groat
 grocer
@@ -29810,6 +29826,7 @@ inaptness
 inaptnesses
 inarable
 inarch
+inarched
 inarguable
 inarguably
 inarmed
@@ -35389,6 +35406,7 @@ malacologist
 malacologists
 maladaptations
 maladaptive
+maladies
 maladjusted
 maladjustive
 maladjustment
@@ -35581,6 +35599,7 @@ mangosteen
 mangy
 manhandled
 manhandles
+manhandling
 manhattan
 manhood
 manhunt
@@ -39910,6 +39929,7 @@ nomism
 nomistic
 nomogram
 nomographic
+nomology
 noms
 nonabrasive
 nonabsorbent
@@ -40349,6 +40369,7 @@ nonpunitive
 nonquantitative
 nonquota
 nonracial
+nonradioactive
 nonrailroad
 nonrandom
 nonrational
@@ -40885,6 +40906,7 @@ obscenely
 obscener
 obscenest
 obscurant
+obscurantic
 obscurantist
 obscurants
 obscuration
@@ -41567,6 +41589,7 @@ oreide
 oreodonts
 organa
 organdie
+organelle
 organelles
 organically
 organicist
@@ -42654,6 +42677,7 @@ overgrows
 overgrowths
 overhanded
 overhandling
+overhands
 overhangs
 overhard
 overharvest
@@ -44386,6 +44410,7 @@ penetrative
 penetrometers
 pengo
 penguin
+penholder
 penicillate
 penicillin
 penicillinase
@@ -57802,6 +57827,7 @@ sough
 soughed
 sought
 souled
+soulful
 soulfulnesses
 soulless
 souls
@@ -58006,6 +58032,7 @@ specialities
 specialization
 specially
 specialty
+speciates
 species
 specifications
 specified
@@ -59407,6 +59434,7 @@ straphanging
 straphangs
 straphung
 strappadoes
+strappados
 strapped
 strappy
 straps
@@ -61265,6 +61293,7 @@ synthesizes
 synthetase
 synthetases
 synthpop
+syntonic
 syntony
 synura
 syphers
@@ -61658,6 +61687,7 @@ tarried
 tarriers
 tarries
 tarriest
+tarrinesses
 tarring
 tarrying
 tarsals
@@ -62251,6 +62281,7 @@ testament
 testamentary
 testate
 testees
+testicles
 testicular
 testier
 testiest
@@ -64227,6 +64258,7 @@ trolley
 trolleybuses
 trolleying
 trollops
+trollopy
 trolls
 trombone
 trombones
@@ -65643,6 +65675,7 @@ unemotionally
 unemphatically
 unemployability
 unemployables
+unemployeds
 unemployment
 unemployments
 unenclosed
@@ -68524,6 +68557,7 @@ weevers
 weevils
 weevily
 wefts
+weigelias
 weighable
 weighed
 weighers
@@ -69748,6 +69782,7 @@ youthen
 youthful
 youthfulness
 youthquake
+youthquakes
 yow
 yowed
 yowies
