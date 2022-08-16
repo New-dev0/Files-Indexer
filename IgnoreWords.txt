@@ -67,6 +67,7 @@ absolutist
 absolutists
 absolutive
 absolutized
+absolutizing
 absolve
 absolved
 absolvent
@@ -816,6 +817,7 @@ affectability
 affectable
 affectation
 affectations
+affected
 affecters
 affecting
 affectionate
@@ -1409,6 +1411,7 @@ allotropic
 allotter
 allotters
 allotypies
+allover
 allow
 allowables
 allowably
@@ -1693,6 +1696,7 @@ aminic
 aminities
 amino
 aminoacidurias
+aminopeptidase
 aminopterin
 aminopterins
 amirates
@@ -3091,6 +3095,7 @@ ariose
 ariosi
 arise
 arisen
+arises
 aristate
 aristo
 aristocracy
@@ -9544,6 +9549,7 @@ chanted
 chanteuse
 chanting
 chants
+chaos
 chaotically
 chap
 chaparajos
@@ -10351,6 +10357,7 @@ cinephiles
 cineraria
 cinerarias
 cinerary
+cinereous
 cingula
 cingular
 cinnabar
@@ -12503,9 +12510,11 @@ contrivances
 contrive
 contrived
 contrivers
+contrives
 controllability
 controllable
 controlled
+controller
 controlment
 controls
 controversially
@@ -15498,6 +15507,7 @@ deltic
 deltoidei
 deltoideus
 deludes
+deluding
 deluging
 delusional
 delusive
@@ -15856,6 +15866,7 @@ deraigned
 deraigning
 derailleurs
 derate
+derates
 derating
 derats
 deray
@@ -16282,6 +16293,7 @@ diagnosing
 diagnosis
 diagnostic
 diagnostically
+diagnostician
 diagnostics
 diagonalizable
 diagonalization
@@ -17438,6 +17450,7 @@ disturbers
 disturbingly
 disturbs
 disulfates
+disulfid
 disulfide
 disulfids
 disulfoton
@@ -25270,6 +25283,7 @@ gleamy
 gleanable
 gleaned
 gleaner
+gleaning
 gleanings
 glebeless
 gledes
@@ -27469,9 +27483,11 @@ helotisms
 helotries
 helotry
 helots
+help
 helped
 helpers
 helpful
+helping
 helplessness
 helpmate
 helpmates
@@ -29931,6 +29947,7 @@ incisal
 incise
 incised
 incises
+incisions
 incisivenesses
 incisory
 incisure
@@ -31944,6 +31961,7 @@ jaspilites
 jassid
 jato
 jauked
+jauking
 jaunced
 jaundiced
 jaunt
@@ -35684,6 +35702,7 @@ mantilla
 mantillas
 mantis
 mantises
+mantle
 mantles
 mantling
 mantraps
@@ -39263,6 +39282,7 @@ nativenesses
 nativism
 nativist
 nativists
+nativities
 natriureses
 natriuresis
 natron
@@ -41768,6 +41788,7 @@ osmundine
 osmunds
 ossa
 ossatures
+osseous
 ossetra
 ossicular
 ossific
@@ -43304,10 +43325,12 @@ palefaces
 paleness
 paleobiologist
 paleobiologists
+paleobiology
 paleoecologic
 paleoecological
 paleoecologist
 paleoecologists
+paleoecology
 paleographer
 paleographers
 paleographic
@@ -43737,6 +43760,7 @@ parboiling
 parbuckle
 parbuckling
 parcel
+parceled
 parceling
 parcenaries
 parcener
@@ -44046,6 +44070,7 @@ patients
 patin
 patina
 patinae
+patinated
 patinations
 patine
 patining
@@ -44697,6 +44722,7 @@ perished
 perishes
 perishing
 perissodactyl
+peristaltic
 peristyle
 perithecia
 perithecial
@@ -48837,6 +48863,7 @@ pupilage
 pupilary
 pupillages
 puppeteer
+puppeteered
 puppeteers
 puppetries
 puppets
@@ -50157,6 +50184,7 @@ reboiling
 reboils
 rebook
 rebooked
+rebooks
 rebop
 reborn
 rebottles
@@ -52874,6 +52902,7 @@ ripsawed
 ripsnorter
 ripsnorting
 riser
+risers
 risibilities
 risible
 risings
@@ -55443,6 +55472,7 @@ servomotor
 servos
 sesquiterpene
 sessilities
+sesspool
 sesterces
 sestertium
 sestine
@@ -57580,6 +57610,7 @@ soleprint
 soleret
 solerets
 soleus
+solfatara
 solfege
 solfeggio
 solferino
@@ -62027,6 +62058,7 @@ tempehs
 temperances
 temperas
 temperate
+temperer
 temperers
 tempested
 tempestuous
@@ -63555,6 +63587,7 @@ tradeable
 tradecraft
 traded
 trademarked
+tradeoff
 trader
 traders
 trades
@@ -66493,6 +66526,7 @@ untraceable
 untraced
 untraditionally
 untrained
+untransformed
 untranslatable
 untraveled
 untread
@@ -68682,6 +68716,7 @@ wheelies
 wheeling
 wheelless
 wheelman
+wheelmen
 wheels
 wheeped
 wheeping
