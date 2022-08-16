@@ -666,6 +666,7 @@ adrenochrome
 adroitest
 adroitnesses
 adsorbate
+adsorbates
 adsorbent
 adsorber
 adsorption
@@ -1338,6 +1339,7 @@ alkyd
 alkyds
 alkyl
 alkylating
+alkylation
 alkyls
 allanite
 allantoides
@@ -1907,6 +1909,7 @@ analogy
 analphabetism
 analphabetisms
 analphabets
+analysand
 analyse
 analysed
 analyses
@@ -3951,6 +3954,7 @@ autotomized
 autotoxic
 autotransformer
 autumn
+autumnal
 autunites
 auxotrophic
 avadavats
@@ -4156,6 +4160,7 @@ babushka
 babydoll
 babyhoods
 babying
+babyish
 babyishly
 babyproofed
 babysits
@@ -6440,6 +6445,7 @@ boatsmen
 boatyard
 boatyards
 bob
+bobbed
 bobberies
 bobbers
 bobbery
@@ -8896,6 +8902,7 @@ casebearer
 casebearers
 casebook
 cased
+casefies
 casefy
 casein
 caseinate
@@ -12456,6 +12463,7 @@ contemplators
 contemporaneity
 contemporarily
 contemporized
+contemporizing
 contempt
 contemptibility
 contemptibly
@@ -16726,6 +16734,7 @@ dingdonging
 dinged
 dinger
 dingers
+dingeys
 dinghies
 dingier
 dingies
@@ -18148,6 +18157,7 @@ dragstrips
 drails
 drain
 drainable
+drainers
 drainpipe
 drainpipes
 drains
@@ -18402,6 +18412,7 @@ dryable
 dryades
 dryadic
 dryasdusts
+drying
 dryish
 dryland
 dryly
@@ -23768,6 +23779,7 @@ fractionalize
 fractionalized
 fractionalizing
 fractionated
+fractionates
 fractionator
 fractioned
 fractions
@@ -25490,6 +25502,7 @@ glomming
 gloomed
 gloomier
 gloomiest
+glooms
 gloomy
 glop
 glopped
@@ -27403,6 +27416,7 @@ headstays
 headstone
 headwaiters
 headways
+headwinds
 headwords
 heady
 healed
@@ -28032,6 +28046,7 @@ hillslope
 hillslopes
 hilt
 hilted
+hilting
 hiltless
 hilum
 himations
@@ -31954,6 +31969,7 @@ iterations
 itinerary
 its
 itself
+ivermectin
 ivermectins
 ivories
 ivory
@@ -34991,6 +35007,7 @@ loricae
 loriners
 lornness
 losablenesses
+loser
 loses
 losings
 losses
@@ -35348,6 +35365,7 @@ lyssa
 lyssas
 lytically
 lyttae
+ma
 macacos
 macadamia
 macadamias
@@ -35787,6 +35805,7 @@ manhattan
 manhood
 manhunt
 manhunts
+mania
 maniac
 manias
 manic
@@ -38217,6 +38236,7 @@ moneygrubbing
 moneymakers
 moneys
 moneyworts
+monger
 mongered
 mongers
 mongoe
@@ -42422,6 +42442,7 @@ outrebounding
 outrebounds
 outreckoned
 outreckoning
+outreproduce
 outrider
 outrig
 outrigged
@@ -42956,6 +42977,7 @@ overlend
 overlengthening
 overlengthens
 overlet
+overlets
 overletting
 overlewd
 overlie
@@ -46250,6 +46272,7 @@ platterful
 platyfish
 platyfishes
 platyhelminthic
+platypi
 plausibilities
 plausibleness
 plausibly
@@ -47680,6 +47703,7 @@ premierships
 premigration
 premillenarian
 premillenarians
+premise
 premises
 premising
 premiums
@@ -47952,6 +47976,7 @@ pretournament
 pretrain
 pretrained
 pretrains
+pretravel
 pretrials
 pretrim
 prettier
@@ -47965,6 +47990,7 @@ pretyped
 pretyping
 pretzel
 preunions
+preunited
 prevailed
 prevailers
 prevailing
@@ -54622,6 +54648,7 @@ scepter
 sceptic
 sceptics
 sceptred
+sceptring
 schadenfreudes
 schappes
 schatchen
@@ -56165,6 +56192,7 @@ shipless
 shipman
 shipmaster
 shipmasters
+shipmate
 shipmates
 shipmen
 shipment
@@ -58907,6 +58935,7 @@ squarishnesses
 squashed
 squashes
 squashier
+squashiest
 squatnesses
 squattest
 squatting
@@ -61042,6 +61071,7 @@ supplanted
 supplanters
 supplants
 suppled
+supplejack
 supplement
 supplementary
 supplementation
@@ -62899,6 +62929,7 @@ thiocyanate
 thiocyanates
 thiols
 thionate
+thionin
 thionine
 thionines
 thioridazine
@@ -65875,6 +65906,7 @@ undersells
 underset
 undershirt
 undershorts
+underside
 undersides
 undersign
 undersigned
@@ -66187,6 +66219,7 @@ unicorn
 unicycle
 unicycled
 unicycles
+unicycling
 unicyclist
 unideaed
 unideological
@@ -68608,6 +68641,7 @@ warmouth
 warms
 warmth
 warmups
+warningly
 warns
 warpath
 warped
@@ -68713,6 +68747,7 @@ waterfalls
 waterflooded
 waterflooding
 waterfloods
+waterfowler
 waterfowlers
 waterhen
 waterhens
