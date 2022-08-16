@@ -1413,6 +1413,7 @@ allopatrically
 allophone
 alloplasm
 alloplasms
+allosauruses
 allosteries
 allostery
 allotetraploid
@@ -1845,6 +1846,7 @@ amyloid
 amyloidoses
 amyloidosis
 amyloids
+amylopectin
 amyloplasts
 amylose
 amyloses
@@ -4839,6 +4841,7 @@ bayberry
 bayonetted
 bayou
 bays
+baywood
 bazar
 bazillion
 bazillions
@@ -6383,6 +6386,7 @@ bluewood
 bluff
 bluffers
 bluffing
+bluffness
 bluffs
 bluish
 bluishness
@@ -6714,6 +6718,7 @@ bookstores
 boom
 boomboxes
 boomer
+boomier
 boomingly
 boomkin
 boomlets
@@ -7385,6 +7390,7 @@ broncobusters
 bronzer
 bronzers
 bronzes
+bronzier
 bronzing
 bronzings
 brooders
@@ -8665,6 +8671,7 @@ carbolics
 carbolized
 carbolizing
 carbonadoes
+carbonados
 carbonaras
 carbonating
 carbonation
@@ -10928,6 +10935,7 @@ clubhead
 clubheads
 clubhouse
 clubhouses
+clubmen
 clubroot
 clubs
 clubwoman
@@ -15825,6 +15833,7 @@ deoxidizes
 deoxygenate
 deoxygenates
 deoxygenations
+depainting
 departing
 department
 departmentally
@@ -18264,6 +18273,7 @@ dreamy
 dreary
 drecky
 dredged
+dredges
 drees
 dreg
 dreggier
@@ -21339,6 +21349,7 @@ explantation
 explanted
 expletive
 explicable
+explicably
 explicate
 explicates
 explicating
@@ -22360,6 +22371,7 @@ fibrocystic
 fibroid
 fibromatous
 fibromyalgia
+fibronectin
 fibronectins
 fibrous
 fibrously
@@ -22654,6 +22666,7 @@ firsthand
 firstling
 firstly
 firsts
+firth
 fisc
 fiscalist
 fiscally
@@ -25696,6 +25709,7 @@ goatherds
 goatish
 goats
 goatskin
+goatskins
 gob
 gobang
 gobans
@@ -26254,6 +26268,7 @@ gridlocking
 gridlocks
 grids
 grief
+grievant
 grievants
 grieve
 grieved
@@ -27215,6 +27230,7 @@ harmonizations
 harmonize
 harmonized
 harmony
+harnessed
 harped
 harpies
 harpings
@@ -33248,6 +33264,7 @@ kooks
 kooky
 kopeck
 kopecks
+kopek
 koph
 kopje
 kopjes
@@ -33644,6 +33661,7 @@ lanknesses
 lanner
 lanoline
 lantana
+lanthanides
 lanthanon
 lanthorns
 lanugo
@@ -34348,6 +34366,7 @@ lichenose
 lichenous
 liches
 licht
+lichting
 lichtly
 licit
 licitness
@@ -37380,6 +37399,7 @@ millimolar
 millimole
 milline
 millineries
+millings
 milliohms
 million
 millionaires
@@ -37744,6 +37764,7 @@ misdrives
 misdriving
 mise
 misease
+miseating
 misedit
 misedited
 miseducates
@@ -38166,6 +38187,7 @@ modishness
 modistes
 modularities
 modulars
+modulates
 modulation
 modulators
 module
@@ -38367,6 +38389,7 @@ monogeneans
 monogenic
 monogenically
 monogeny
+monogrammed
 monogrammers
 monograms
 monograph
@@ -38708,6 +38731,7 @@ motive
 motivelessly
 motivity
 motleyest
+motlier
 motliest
 motmots
 motocross
@@ -40838,6 +40862,7 @@ nosedives
 noseguard
 noseguards
 noseless
+noselike
 nosewheel
 nosewheels
 nosh
@@ -41143,6 +41168,7 @@ objected
 objectifies
 objection
 objections
+objective
 objectiveness
 objectivenesses
 objectivism
@@ -42816,6 +42842,7 @@ overcolored
 overcoloring
 overcomers
 overcommit
+overcommits
 overcommitted
 overcommitting
 overcompensate
@@ -48691,6 +48718,7 @@ prostitute
 prostituted
 prostitutes
 prostituting
+prostitutor
 prostomium
 prostrate
 prostration
@@ -51632,6 +51660,7 @@ relaxable
 relaxants
 relaxation
 relaxed
+relaxers
 relaxing
 relearn
 relearned
@@ -55290,6 +55319,7 @@ secularisms
 secularization
 secularizer
 secularizing
+securances
 securely
 securement
 securements
@@ -58063,6 +58093,7 @@ solutions
 solvate
 solvated
 solve
+solventless
 solves
 solvolytic
 som
@@ -59868,6 +59899,7 @@ strategic
 strategical
 strategists
 strategizes
+strategy
 strathspey
 strathspeys
 stratification
@@ -61118,6 +61150,7 @@ superspecials
 superspies
 superstars
 superstate
+superstations
 superstimulate
 superstition
 superstitions
@@ -66890,6 +66923,7 @@ unstudied
 unsubdued
 unsuccess
 unsuitabilities
+unsuitability
 unsunk
 unsupportable
 unsurpassable
@@ -69272,6 +69306,7 @@ whiskies
 whisper
 whisperers
 whispering
+whisperings
 whispery
 whisted
 whisting
