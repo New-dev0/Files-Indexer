@@ -1,0 +1,10 @@
+syslog-ng: dbld/pip_packages.manifest | Fossies,https://fossies.org/linux/syslog-ng/dbld/pip_packages.manifest
+focal-legacy-server-amd64.manifest - Ubuntu CDimage,https://cdimage.ubuntu.com/ubuntu-legacy-server/releases/focal/release/ubuntu-20.04.1-legacy-server-amd64.manifest
+kinetic-live-server-amd64.manifest - Ubuntu CDimage,https://cdimage.ubuntu.com/ubuntu-server/daily-live/current/kinetic-live-server-amd64.manifest
+https://osm.etsi.org/gitlab/vnf-onboarding/osm-pac...,https://osm.etsi.org/gitlab/vnf-onboarding/osm-packages/-/raw/5cd61cd5ff208debdf3b33314f8758b431132ac2/hackfest_proxycharm_vnf/charms/simple/.build.manifest
+gcloud/gsutil.manifest at master · eyalev/gcloud · GitHub,https://github.com/eyalev/gcloud/blob/master/.install/gsutil.manifest
+https://mirrors.aliyun.com/oldubuntu-releases/rele...,https://mirrors.aliyun.com/oldubuntu-releases/releases/16.04.4/ubuntu-16.04.3-preinstalled-server-armhf%2Braspi2.manifest
+https://mirrors.aliyun.com/oldubuntu-releases/rele...,https://mirrors.aliyun.com/oldubuntu-releases/releases/18.04.3/ubuntu-18.04.2-preinstalled-server-armhf%2Braspi3.manifest
+kinetic-live-server-riscv64.manifest,http://ftp.jaist.ac.jp/pub/Linux/ubuntu-cdimage/ubuntu-server/daily-live/current/kinetic-live-server-riscv64.manifest
+kinetic-desktop-amd64.manifest - FTP Directory Listing,http://ftp.uni-kl.de/pub/linux/ubuntu-dvd/ubuntu-budgie/daily-live/current/kinetic-desktop-amd64.manifest
+turnkey-etherpad-14.1-jessie-amd64.manifest - dotsrc.org,http://mirrors.dotsrc.org/turnkeylinux/metadata/turnkey-etherpad/14.1-jessie-amd64/turnkey-etherpad-14.1-jessie-amd64.manifest

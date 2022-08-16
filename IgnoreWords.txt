@@ -1384,6 +1384,7 @@ alleyway
 alleyways
 allheals
 alliable
+alliaceous
 alliance
 allicin
 allies
@@ -3615,6 +3616,7 @@ atelectases
 atelectasis
 atelic
 atelier
+atemoya
 atemporal
 atenolol
 athanasies
@@ -4023,6 +4025,7 @@ avoiders
 avoids
 avos
 avouched
+avoucher
 avouching
 avouchment
 avouchments
@@ -4799,6 +4802,7 @@ batteaux
 battement
 batten
 battener
+battens
 batter
 batterie
 batteries
@@ -6281,6 +6285,7 @@ blondining
 bloodbath
 bloodcurdling
 blooded
+bloodfin
 bloodguilt
 bloodguiltiness
 bloodied
@@ -8590,6 +8595,7 @@ capriciousness
 caprifications
 caprifig
 caprifigs
+caprine
 caprioled
 caprioles
 caprioling
@@ -10436,6 +10442,7 @@ cinquain
 cinquefoils
 cioppino
 cipherer
+cipherers
 ciphering
 ciphertext
 ciphonies
@@ -10993,6 +11000,7 @@ coagulabilities
 coagulability
 coagulants
 coagulase
+coagulases
 coagulate
 coagulating
 coal
@@ -15416,6 +15424,7 @@ deforests
 deformalizes
 deformation
 deformational
+deformed
 deformer
 deformers
 deforming
@@ -16062,6 +16071,7 @@ desertic
 desertified
 desertifies
 deserts
+deserve
 deservedly
 deservednesses
 deserving
@@ -17220,6 +17230,7 @@ dishearteningly
 disheartenment
 disheartens
 dishelmed
+dishelms
 disherit
 dishevel
 disheveled
@@ -17259,6 +17270,7 @@ disinheriting
 disinhibit
 disinhibiting
 disintegrating
+disintegration
 disintegrations
 disintegrator
 disintegrators
@@ -23101,6 +23113,7 @@ florists
 floruits
 flossie
 flossies
+flossy
 flotages
 flotation
 flotations
@@ -25617,6 +25630,7 @@ gluepot
 gluers
 glues
 glueynesses
+glug
 glugged
 glum
 glumness
@@ -26421,6 +26435,7 @@ groundworks
 group
 grouper
 groupie
+groupoids
 groups
 groupthinks
 groused
@@ -28934,6 +28949,7 @@ humph
 humpiness
 humpless
 humungous
+humvee
 humvees
 hunch
 hunchbacked
@@ -29562,6 +29578,7 @@ illumines
 illuming
 illumining
 illuminism
+illuminists
 illusional
 illusionism
 illusionisms
@@ -31358,6 +31375,7 @@ internments
 interns
 internships
 internucleon
+internucleonic
 internuncio
 interobserver
 interocean
@@ -37726,6 +37744,7 @@ miscodes
 miscoin
 miscoined
 miscolored
+miscomputations
 miscompute
 miscomputes
 misconceive
@@ -37892,6 +37911,7 @@ mislocate
 mislocated
 mislocations
 mislodged
+mislodges
 mismaking
 mismanaged
 mismanagement
@@ -40699,6 +40719,7 @@ nonreactive
 nonreaders
 nonrecognition
 nonrecombinant
+nonrecyclable
 nonreducing
 nonrefillable
 nonreflecting
@@ -46896,6 +46917,7 @@ polyptychs
 polypuses
 polyrhythm
 polyrhythms
+polyribosomal
 polys
 polysaccharide
 polysorbates
@@ -49179,6 +49201,7 @@ pumping
 pumpkin
 pumpkins
 pumpkinseed
+pumpkinseeds
 pumpless
 pumps
 pun
@@ -49769,6 +49792,7 @@ quintillionths
 quintins
 quints
 quintuple
+quintupled
 quintuplet
 quintuplicate
 quintuplicates
@@ -49952,6 +49976,7 @@ radiologically
 radiologist
 radiologists
 radiolyses
+radiolysis
 radiolytic
 radiomen
 radiometer
@@ -51884,6 +51909,7 @@ removably
 removals
 removeable
 removedly
+removing
 rems
 remudas
 remunerates
@@ -52565,6 +52591,7 @@ restorers
 restores
 restrainedly
 restrainer
+restraining
 restraints
 restressed
 restretch
@@ -53973,6 +54000,7 @@ sabayon
 sabayons
 sabbath
 sabbaths
+sabbatic
 sabbatical
 sabbats
 sabe
@@ -56262,6 +56290,7 @@ shetland
 sheuch
 shewbreads
 shewed
+shews
 shh
 shiatzu
 shiatzus
@@ -57008,6 +57037,7 @@ situation
 situational
 situp
 situses
+six
 sixfold
 sixteenmo
 sixteens
@@ -58892,6 +58922,7 @@ spoonful
 spoonily
 spooning
 spoons
+spoony
 spoor
 spoors
 sporadically
@@ -59306,6 +59337,7 @@ stanks
 stannic
 stannite
 stannites
+stannum
 stanol
 stanza
 stanzaic
@@ -65466,6 +65498,7 @@ ultramicroscope
 ultramicrotome
 ultraminiature
 ultramodern
+ultramodernist
 ultramodernists
 ultramontanism
 ultrapatriotic
@@ -67278,6 +67311,7 @@ upsurging
 upsweeping
 upsweeps
 upswelled
+upswells
 upswung
 uptakes
 uptalked
@@ -70314,6 +70348,7 @@ yogini
 yogins
 yogis
 yohimbe
+yohimbine
 yohimbines
 yokels
 yokemate
