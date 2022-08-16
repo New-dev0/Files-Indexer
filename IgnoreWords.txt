@@ -2603,6 +2603,7 @@ anyon
 anyplace
 anything
 anytime
+anywheres
 anywise
 aorist
 aorists
@@ -4286,6 +4287,7 @@ badder
 baddest
 baddie
 badged
+badgeless
 badgered
 badgerly
 badinages
@@ -8404,6 +8406,7 @@ cannabic
 cannabin
 cannabinoid
 cannabis
+canned
 cannel
 cannelloni
 cannelon
@@ -11712,6 +11715,7 @@ communer
 communers
 communicant
 communicants
+communication
 communicational
 communicative
 communicatively
@@ -15749,6 +15753,7 @@ denuclearizes
 denudated
 denudates
 denudating
+denudations
 denudement
 denuder
 denuders
@@ -16530,6 +16535,7 @@ diestrums
 diestrus
 diestruses
 dieted
+dieter
 dieters
 dietetic
 diether
@@ -16708,6 +16714,7 @@ dinginesses
 dingle
 dingleberries
 dingoes
+dinitrobenzene
 dinitrophenol
 dinked
 dinkeys
@@ -17274,6 +17281,7 @@ dispeopling
 dispersals
 dispersedly
 dispersion
+dispersive
 dispersively
 dispersiveness
 dispersoids
@@ -18115,6 +18123,7 @@ dragrope
 dragstrip
 dragstrips
 drails
+drain
 drainable
 drainpipe
 drainpipes
@@ -22939,6 +22948,7 @@ flocculent
 flocculus
 flock
 flockier
+flockless
 flocks
 flocky
 flocs
@@ -23057,6 +23067,7 @@ fluke
 flukes
 flukily
 flukiness
+flukinesses
 fluking
 fluky
 fluming
@@ -23676,6 +23687,7 @@ fourteen
 fourteener
 fourteeners
 fourth
+fourths
 fovea
 foveate
 foveated
@@ -26841,6 +26853,7 @@ hallot
 hallow
 halls
 halluces
+hallucinating
 hallucinator
 hallucinatory
 hallucinogens
@@ -28324,6 +28337,7 @@ homophonies
 homophony
 homophylies
 homoplasy
+homopolymers
 homopteran
 homosex
 homosexual
@@ -28406,6 +28420,7 @@ hoodwinkers
 hoodwinking
 hooey
 hoof
+hoofbeat
 hoofbeats
 hoofed
 hoofer
@@ -30229,6 +30244,7 @@ indentured
 indentures
 indenturing
 independence
+independencies
 indescribably
 indestructible
 indestructibly
@@ -33695,6 +33711,7 @@ launchpad
 launchpads
 launderers
 launderette
+launderettes
 laundering
 launders
 laundress
@@ -37553,6 +37570,7 @@ misconnections
 misconnects
 misconstrues
 miscook
+miscooking
 miscopy
 miscorrelation
 miscorrelations
@@ -37927,6 +37945,7 @@ mittens
 mity
 mitzvah
 mixedly
+mixer
 mixible
 mixture
 mixup
@@ -42785,6 +42804,7 @@ overfocusses
 overfocussing
 overfoul
 overfrank
+overfulfilling
 overgeneralize
 overgeneralizes
 overgenerous
@@ -43597,6 +43617,7 @@ pandours
 pandowdies
 pandying
 panegyric
+panegyrically
 panegyrist
 panel
 paneling
@@ -43934,6 +43955,7 @@ parliamentary
 parliaments
 parling
 parlor
+parlors
 parmigiana
 parmigiano
 parochial
@@ -44366,6 +44388,7 @@ pecking
 peckish
 peckishly
 pecky
+pecorino
 pecten
 pectic
 pectinaceous
@@ -46302,6 +46325,7 @@ plumbable
 plumbagos
 plumbeous
 plumber
+plumberies
 plumbers
 plumbings
 plumbness
@@ -47757,6 +47781,7 @@ presidiary
 presiding
 presidios
 presidiums
+presift
 presifts
 presignal
 presignaled
@@ -50526,6 +50551,7 @@ reconducted
 reconducts
 reconfer
 reconferred
+reconferring
 reconfiguring
 reconfine
 reconfines
@@ -50951,6 +50977,7 @@ reexposures
 reexpressed
 ref
 refall
+refallen
 refashioned
 refashions
 refastened
@@ -52668,6 +52695,7 @@ revisualization
 revitalizations
 revitalizes
 revitalizing
+revivable
 revivalisms
 revivification
 revivified
@@ -60974,6 +61002,7 @@ surenesses
 surer
 sureties
 surety
+suretyships
 surfacers
 surfaces
 surfbird
@@ -61420,6 +61449,7 @@ syncytia
 syncytial
 syndactyl
 syndactylism
+syndactyls
 syndactyly
 syndesmoses
 syndesmosis
@@ -61780,6 +61810,7 @@ tanka
 tankage
 tankages
 tankard
+tankards
 tankas
 tanker
 tankfuls
@@ -66399,6 +66430,7 @@ unreason
 unreasoningly
 unrebuked
 unreconcilable
+unreconciled
 unreconstructed
 unrecoverable
 unrecovered
@@ -67367,6 +67399,7 @@ vassalages
 vastier
 vastitudes
 vastity
+vasty
 vatfuls
 vatical
 vaticinal
@@ -67756,6 +67789,7 @@ victorias
 victorious
 victoriously
 victors
+victual
 victualed
 victualer
 victualling
@@ -69063,6 +69097,7 @@ whooshes
 whooshing
 whoosis
 whopper
+whopping
 whorehouse
 whoremaster
 whoremasters
