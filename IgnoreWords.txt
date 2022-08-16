@@ -573,6 +573,7 @@ adjectively
 adjoin
 adjoins
 adjourned
+adjourning
 adjournment
 adjournments
 adjudge
@@ -2892,6 +2893,7 @@ aquaculture
 aquacultures
 aquaculturist
 aquaculturists
+aquafarm
 aquanauts
 aquaplanes
 aquaplaning
@@ -3149,6 +3151,7 @@ aromatherapies
 aromatics
 aromatization
 aromatizations
+aromatizing
 arose
 arousals
 arouse
@@ -3863,6 +3866,7 @@ autobiographer
 autobiography
 autobuses
 autocades
+autocatalyses
 autocatalytic
 autocephalies
 autochthonous
@@ -5471,6 +5475,7 @@ bet
 beta
 betaine
 betake
+betaking
 betelnut
 betels
 bethanked
@@ -8175,6 +8180,7 @@ caliche
 calicles
 calicoes
 calicos
+calif
 califate
 califates
 californiums
@@ -9366,6 +9372,7 @@ cerebellum
 cerebellums
 cerebrate
 cerebration
+cerebrations
 cerebroside
 cerebrosides
 cerebrospinal
@@ -9591,6 +9598,7 @@ chapteral
 chaptered
 charabanc
 charabancs
+characid
 character
 characteristics
 characterizes
@@ -11890,6 +11898,7 @@ conatus
 concatenate
 concatenation
 concave
+concavities
 conceal
 concealers
 concealing
@@ -13572,6 +13581,7 @@ creeped
 creepies
 creepiest
 creese
+creeshed
 creeshes
 creeshing
 cremate
@@ -14340,6 +14350,7 @@ cuttages
 cutter
 cutthroat
 cutthroats
+cutties
 cuttingly
 cuttings
 cuttle
@@ -17277,6 +17288,7 @@ displume
 displumed
 displuming
 disport
+disports
 disposable
 disposables
 disposer
@@ -18212,6 +18224,7 @@ dries
 driest
 driftage
 driftingly
+drill
 drilling
 drillings
 drillmaster
@@ -18604,6 +18617,7 @@ dysfunction
 dysgeneses
 dysgenesis
 dysgenic
+dysgenics
 dyskinesia
 dyslectic
 dyslexias
@@ -20150,6 +20164,7 @@ epigrammatic
 epigrammatist
 epigrammatists
 epigrammatizer
+epigrammatizing
 epigraph
 epigrapher
 epigraphers
@@ -25375,6 +25390,7 @@ glittered
 glitteringly
 glitters
 glittery
+glitz
 gloaming
 gloamings
 gloams
@@ -27759,6 +27775,7 @@ hesitators
 hessonite
 hessonites
 hetaeric
+hetaerism
 hetairas
 heteroatom
 heterocycles
@@ -28816,6 +28833,7 @@ huskily
 huskiness
 huskinesses
 husking
+huskings
 husklike
 husky
 hussar
@@ -29641,6 +29659,7 @@ imperfection
 imperfectives
 imperfectly
 imperfects
+imperforate
 imperialism
 imperialist
 imperialists
@@ -30068,6 +30087,7 @@ inconspicuous
 inconspicuously
 inconstancies
 inconstancy
+inconstantly
 inconsumably
 incontestably
 incontinences
@@ -31755,6 +31775,7 @@ isogones
 isogonic
 isogonies
 isografted
+isogriv
 isohels
 isolable
 isolate
@@ -34462,6 +34483,7 @@ liquidates
 liquidation
 liquidator
 liquidity
+liquidizes
 liquidly
 liquidnesses
 liquids
@@ -42462,6 +42484,7 @@ outwearies
 outwearing
 outwears
 outwearying
+outweep
 outweeping
 outwhirl
 outwhirling
@@ -44056,6 +44079,7 @@ pastiest
 pastille
 pastilles
 pastils
+pastina
 pastinas
 pastiness
 pastinesses
@@ -46061,6 +46085,7 @@ plasterboards
 plasterer
 plasterers
 plastering
+plasters
 plasterworks
 plasticene
 plasticity
@@ -46210,6 +46235,7 @@ plications
 plies
 plighters
 plighting
+plights
 plimsol
 plimsolls
 plimsols
@@ -48436,6 +48462,7 @@ prostitute
 prostituted
 prostitutes
 prostituting
+prostomium
 prostrate
 prostration
 prostrations
@@ -49244,6 +49271,7 @@ quadrumvir
 quadrumvirates
 quadrumvirs
 quadruped
+quadrupedal
 quadrupeds
 quadruplicities
 quadruplicity
@@ -55150,6 +55178,7 @@ selectly
 selector
 selectors
 selects
+selenate
 selenide
 selenides
 seleniferous
@@ -55923,6 +55952,7 @@ shh
 shiatzu
 shiatzus
 shibah
+shibahs
 shibboleths
 shicksas
 shied
@@ -56508,6 +56538,7 @@ simioid
 simitar
 simitars
 simmer
+simmering
 simmers
 simoniac
 simoniacal
@@ -64618,6 +64649,7 @@ tuckers
 tucket
 tucks
 tuckshop
+tufa
 tufaceous
 tuff
 tuffaceous
@@ -66598,6 +66630,7 @@ untethering
 untethers
 unthinkably
 unthinking
+unthreading
 unthreads
 unthroned
 unthrones
@@ -68150,6 +68183,7 @@ vulcanisms
 vulcanite
 vulcanites
 vulcanizate
+vulcanizates
 vulcanized
 vulcanizer
 vulcanizes
@@ -69265,6 +69299,7 @@ wisely
 wisenheimer
 wisents
 wisest
+wish
 wishbones
 wished
 wishes
