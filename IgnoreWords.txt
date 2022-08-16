@@ -1002,6 +1002,7 @@ agitating
 agitation
 agitative
 agitprop
+aglare
 agleam
 aglee
 aglow
@@ -1343,6 +1344,7 @@ alkyl
 alkylating
 alkylation
 alkyls
+all
 allanite
 allantoides
 allantoids
@@ -1972,6 +1974,7 @@ anchorpeople
 anchorwomen
 anchovetas
 anchovettas
+anchylosed
 anchylosing
 ancient
 ancientest
@@ -8321,6 +8324,7 @@ cames
 camions
 camisa
 camise
+camises
 camlet
 cammies
 camomile
@@ -11805,6 +11809,7 @@ compassionates
 compassionating
 compatibilities
 compatibility
+compatible
 compatibles
 compatibly
 compatriot
@@ -13697,6 +13702,7 @@ crewnecks
 crews
 cribbages
 cribbed
+cribber
 cribbing
 cribbings
 cribriform
@@ -15105,6 +15111,7 @@ decimates
 decimation
 decimator
 decipherers
+deciphering
 decipherment
 deciphers
 decisioned
@@ -15680,6 +15687,7 @@ demonise
 demonisms
 demonized
 demonizing
+demonological
 demonologies
 demonologist
 demons
@@ -16237,6 +16245,7 @@ detribalized
 detribalizes
 detriment
 detrimentals
+detritions
 detritus
 detrusions
 deuced
@@ -16517,6 +16526,7 @@ dickens
 dickenses
 dicker
 dickering
+dickey
 dickie
 dickies
 dicking
@@ -19377,6 +19387,7 @@ emblemize
 emblemized
 emblems
 embodiments
+embody
 emboli
 embolies
 embolisms
@@ -24080,6 +24091,7 @@ frontals
 frontcourt
 frontes
 frontiers
+frontiersmen
 frontispieces
 frontlets
 frontman
@@ -25613,6 +25625,7 @@ glycerides
 glyceridic
 glycerin
 glycerinate
+glycerines
 glycerol
 glycerols
 glyceryl
@@ -28249,6 +28262,7 @@ hokiest
 hoking
 hokums
 hold
+holdall
 holddowns
 holden
 holder
@@ -32512,6 +32526,7 @@ juiceheads
 juiceless
 juicer
 juicier
+juicing
 jujube
 jujuist
 jujutsus
@@ -36975,6 +36990,7 @@ methodists
 methodized
 methodologies
 methodologist
+methoxide
 methoxides
 methoxy
 methoxyflurane
@@ -40308,6 +40324,7 @@ noncomputer
 noncoms
 nonconcern
 nonconcerns
+nonconclusions
 nonconcurred
 nonconcurrence
 nonconcurrences
@@ -40550,6 +40567,7 @@ nonmilitary
 nonminority
 nonmodern
 nonmonetarists
+nonmoral
 nonmotility
 nonmunicipal
 nonmusical
@@ -40660,6 +40678,7 @@ nonruminants
 nonrural
 nonsaponifiable
 nonschool
+nonscientific
 nonscientist
 nonseasonal
 nonsecretors
@@ -42051,6 +42070,7 @@ osteitides
 osteitis
 ostensorium
 ostentations
+osteoblast
 osteoblastic
 osteoblasts
 osteoclasts
@@ -42788,6 +42808,7 @@ overclassifying
 overcleaning
 overclear
 overcloud
+overclouded
 overclouding
 overclouds
 overcold
@@ -42891,6 +42912,7 @@ overestimates
 overestimation
 overestimations
 overevaluations
+overexaggerate
 overexercising
 overexertion
 overexertions
@@ -47531,6 +47553,7 @@ precooks
 precools
 precopulatory
 precreasing
+precritical
 precures
 precursors
 precuts
@@ -47568,6 +47591,7 @@ predicates
 predicative
 predictable
 predictably
+predicted
 predictive
 predictively
 predictor
@@ -47724,6 +47748,7 @@ prelusive
 prelusory
 preman
 premanufactured
+premanufactures
 premaritally
 premarketing
 premarriage
@@ -52699,6 +52724,7 @@ retroactions
 retroceded
 retrocession
 retrocessions
+retrodicted
 retrofit
 retrofitted
 retrofitting
@@ -53316,6 +53342,7 @@ robes
 robins
 roble
 roborants
+robotic
 robotically
 robotism
 robotization
@@ -54271,6 +54298,7 @@ sanghs
 sanguinarias
 sanguine
 sanguinely
+sanguineness
 sanidine
 sanidines
 sanitaries
@@ -55809,6 +55837,7 @@ servomotor
 servos
 sesquiterpene
 sessilities
+sessility
 sesspool
 sesterces
 sestertium
@@ -57654,6 +57683,7 @@ sneeze
 sneezer
 sneezes
 sneezeweeds
+sneezing
 snell
 sneller
 snelling
@@ -58461,6 +58491,7 @@ speculums
 sped
 speechless
 speechlessly
+speechwriter
 speedball
 speedballed
 speedboat
@@ -61329,6 +61360,7 @@ swampier
 swampiest
 swamping
 swampland
+swanherd
 swanherds
 swank
 swankest
@@ -64454,6 +64486,7 @@ trickster
 tricksters
 tricksy
 triclinic
+triclinium
 tricolette
 tricolor
 tricolors
@@ -65170,6 +65203,7 @@ twinflower
 twinflowers
 twinge
 twinged
+twinges
 twinging
 twining
 twinjet
@@ -67904,6 +67938,7 @@ vestigia
 vestigial
 vestigially
 vestigium
+vestlike
 vestry
 vestrymen
 vesturing
