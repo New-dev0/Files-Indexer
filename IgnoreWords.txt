@@ -5132,6 +5132,7 @@ befringe
 befringed
 befuddle
 befuddlement
+befuddlements
 beg
 begat
 begaze
@@ -7342,6 +7343,7 @@ brochettes
 brochure
 brochures
 brockages
+brocket
 brocks
 brogans
 brogueries
@@ -9919,6 +9921,7 @@ chicanes
 chicaning
 chicanos
 chicer
+chicest
 chichier
 chichiest
 chichis
@@ -12579,6 +12582,7 @@ contribution
 contributively
 contributors
 contriteness
+contritenesses
 contritions
 contrivances
 contrive
@@ -12757,6 +12761,7 @@ coplanar
 coplanarity
 coplots
 copolymer
+copolymeric
 copolymerize
 copolymers
 copout
@@ -14139,6 +14144,7 @@ culpa
 culpabilities
 culpability
 culpable
+culpableness
 culpablenesses
 culpably
 culprit
@@ -16476,6 +16482,7 @@ diapsids
 diarchic
 diarist
 diaristic
+diarists
 diarrhea
 diarrheic
 diarrhetic
@@ -18835,6 +18842,7 @@ eats
 eaux
 eavesdrop
 eavesdropper
+eavesdropping
 ebonies
 ebony
 ebooks
@@ -20948,6 +20956,7 @@ eviscerate
 eviscerates
 eviscerating
 evisceration
+evitable
 evited
 evites
 eviting
@@ -21590,6 +21599,7 @@ eyelike
 eyen
 eyeopener
 eyepieces
+eyepoints
 eyepoppers
 eyes
 eyeshine
@@ -26150,6 +26160,7 @@ gravimeters
 gravimetrically
 gravimetry
 gravitas
+gravitases
 gravitate
 gravitation
 gravitationally
@@ -28360,6 +28371,7 @@ homecomers
 homecoming
 homed
 homegrown
+homeland
 homeliest
 homelike
 homeliness
@@ -28413,6 +28425,7 @@ hommocks
 hommos
 homocercal
 homoeroticism
+homogametic
 homogamous
 homogenates
 homogeneities
@@ -33519,6 +33532,7 @@ lakhs
 lakier
 lakiest
 lakings
+lalland
 lallation
 lallations
 lallygags
@@ -34170,6 +34184,7 @@ leone
 leonine
 leopardess
 leopardesses
+leopards
 leotard
 leotarded
 leotards
@@ -34586,6 +34601,7 @@ linkman
 linkmen
 links
 linksman
+linksmen
 linkups
 linkwork
 linnet
@@ -40988,6 +41004,7 @@ nucleotides
 nucleus
 nucleuses
 nuclide
+nuclidic
 nudenesses
 nuder
 nudes
@@ -43524,6 +43541,7 @@ paddles
 paddocked
 paddywacked
 paddywacking
+padis
 padishah
 padle
 padlock
@@ -45843,6 +45861,7 @@ picrite
 picrites
 picrotoxins
 pics
+pictogram
 pictographies
 pictographs
 pictography
@@ -47265,6 +47284,7 @@ potboil
 potboiled
 potboilers
 potboiling
+potboils
 potboys
 poteen
 potences
@@ -48724,6 +48744,7 @@ prostrate
 prostration
 prostrations
 prostyle
+protagonist
 protamin
 protamines
 protea
@@ -49803,6 +49824,7 @@ quotient
 quoting
 qwerty
 qwertys
+rabat
 rabatos
 rabbet
 rabbeted
@@ -50305,6 +50327,7 @@ rayah
 rayahs
 rayas
 rayed
+raze
 razees
 razers
 razorback
@@ -50781,6 +50804,7 @@ reconsecrates
 reconsecrating
 reconsider
 reconsidering
+reconsiders
 reconsigns
 reconsolidate
 reconsolidated
@@ -51472,6 +51496,7 @@ rehearse
 rehearsed
 rehearsers
 rehearses
+reheated
 reheater
 reheeled
 rehemmed
@@ -53911,6 +53936,7 @@ rusticating
 rusticator
 rusticators
 rusticities
+rustics
 rustinesses
 rustle
 rustler
@@ -53961,6 +53987,7 @@ sabotage
 saboteur
 saboteurs
 sabras
+sabred
 sabres
 sabring
 sacahuiste
@@ -63419,6 +63446,7 @@ timocracy
 timorously
 timpani
 timpanum
+timpanums
 tinamou
 tinct
 tincted
@@ -63862,6 +63890,7 @@ tortrix
 torts
 tortuosities
 tortuousness
+tortuousnesses
 tortured
 torturer
 tortures
@@ -66157,6 +66186,7 @@ unease
 uneases
 uneasiest
 uneasy
+uneccentric
 uneconomical
 uneducated
 uneffaced
@@ -66688,6 +66718,7 @@ unravelled
 unravels
 unrazed
 unreached
+unreadable
 unreadiest
 unreadily
 unreal
@@ -67632,6 +67663,7 @@ varnas
 varnish
 varnished
 varnisher
+varnishers
 varnishing
 varnishy
 varoom
@@ -67881,6 +67913,7 @@ verglas
 verglases
 veridicalities
 veriest
+verification
 verifiers
 verify
 verily
@@ -68946,6 +68979,7 @@ wavies
 wavily
 waviness
 wavinesses
+wavy
 wawl
 wawled
 wawling
@@ -69193,6 +69227,7 @@ wheedled
 wheedler
 wheedles
 wheelbarrow
+wheelbarrowed
 wheelbarrowing
 wheelchairs
 wheeled
