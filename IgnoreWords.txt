@@ -1314,6 +1314,7 @@ aliveness
 aliyas
 aliyot
 alizarine
+alizarins
 alkahest
 alkahests
 alkalified
@@ -7917,6 +7918,7 @@ buttonholes
 buttonholing
 buttonhooks
 buttonwood
+buttressed
 buttresses
 buttressing
 butts
@@ -9933,6 +9935,7 @@ chiffchaffs
 chiffon
 chigetais
 chigger
+chiggers
 chignon
 chignoned
 chigoe
@@ -11137,6 +11140,7 @@ cocobolas
 cocomat
 coconspirator
 coconspirators
+coconut
 cocoon
 cocoplum
 cocoplums
@@ -17262,6 +17266,7 @@ disliked
 dislimned
 dislocate
 dislocating
+dislocation
 dislocations
 dislodge
 dislodged
@@ -17783,6 +17788,7 @@ dolling
 dollishly
 dollishness
 dollishnesses
+dollops
 dolly
 dollying
 dolman
@@ -20510,6 +20516,7 @@ erythrosins
 es
 escaladed
 escalades
+escalate
 escalates
 escalations
 escalators
@@ -25302,6 +25309,7 @@ girning
 girns
 girolles
 giros
+girosols
 girt
 girted
 gisarme
@@ -26777,6 +26785,7 @@ hackneys
 hacks
 hacksawing
 hacksawn
+hadal
 hading
 hadith
 hadj
@@ -29208,6 +29217,7 @@ hypervelocity
 hyperventilate
 hypervigilant
 hypervirulent
+hypethral
 hypha
 hyphenates
 hyphened
@@ -31457,6 +31467,7 @@ intitule
 intituled
 intitules
 intituling
+intolerableness
 intolerantly
 intombing
 intonating
@@ -31640,6 +31651,7 @@ inviter
 inviters
 inviting
 invitingly
+invocate
 invocated
 invocation
 invoice
@@ -31913,6 +31925,7 @@ isometric
 isometry
 isomorphic
 isomorphs
+isoniazid
 isooctane
 isooctanes
 isopachs
@@ -34405,6 +34418,7 @@ ligneous
 lignite
 lignitic
 lignosulfonates
+ligroine
 ligulae
 ligulas
 ligule
@@ -34650,6 +34664,7 @@ literalizes
 literalizing
 literariness
 literarinesses
+literately
 literations
 literator
 literature
@@ -36342,6 +36357,7 @@ mazourkas
 mazy
 mazzard
 mbaqanga
+mbira
 meadow
 meadowlands
 meadowlarks
@@ -36702,6 +36718,7 @@ merc
 mercantilism
 mercantilisms
 mercantilist
+mercapto
 mercaptopurine
 mercenaries
 mercenarily
@@ -37561,6 +37578,7 @@ misallots
 misallotting
 misalters
 misanalysis
+misanthrope
 misanthropies
 misanthropy
 misapplication
@@ -38127,6 +38145,7 @@ modifying
 modioli
 modiolus
 modish
+modishly
 modishness
 modistes
 modularities
@@ -41472,6 +41491,7 @@ oldster
 oldsters
 oldwife
 oldwives
+oldy
 olea
 oleaginous
 oleaginously
@@ -42061,6 +42081,7 @@ otalgias
 otalgic
 other
 others
+otherwhere
 otherwise
 otherworld
 otherworldly
@@ -43072,6 +43093,7 @@ overpressures
 overpricing
 overprizing
 overprocess
+overprocessed
 overprocessing
 overproduced
 overproduction
@@ -44511,6 +44533,7 @@ pectizes
 pectoral
 peculates
 peculating
+peculator
 peculiarities
 peculiarity
 peculiarly
@@ -47283,6 +47306,7 @@ powwows
 poxes
 poxing
 poxviruses
+poxy
 poyous
 pozoles
 pozzolanas
@@ -48608,6 +48632,7 @@ prosier
 prosily
 prosimians
 prosit
+prosodists
 prosody
 prosoma
 prosomal
@@ -52827,6 +52852,7 @@ revisit
 revisits
 revisory
 revisualization
+revitalising
 revitalizations
 revitalizes
 revitalizing
@@ -53766,6 +53792,7 @@ rumors
 rumouring
 rumours
 rumpled
+rumplier
 rumps
 rumpus
 rumpuses
@@ -53825,6 +53852,7 @@ rustical
 rusticals
 rusticated
 rusticating
+rusticator
 rusticators
 rusticities
 rustinesses
@@ -58567,6 +58595,7 @@ spiks
 spiky
 spilings
 spillage
+spiller
 spillikin
 spilling
 spillover
@@ -60156,6 +60185,7 @@ subchief
 subchiefs
 subclans
 subclass
+subclassed
 subclassify
 subclause
 subclavians
@@ -61379,6 +61409,7 @@ swell
 sweller
 swellfishes
 swellheaded
+swelling
 swells
 swelter
 sweltrier
@@ -62991,6 +63022,7 @@ thoracically
 thoracotomy
 thorites
 thorium
+thoriums
 thorn
 thornback
 thornbush
@@ -67159,6 +67191,7 @@ upthrusting
 uptight
 uptightness
 uptilted
+uptimes
 uptosses
 uptossing
 uptown
@@ -67410,6 +67443,7 @@ valuational
 valuator
 value
 valueless
+valuelessnesses
 values
 valuta
 valutas
@@ -67994,6 +68028,7 @@ vigilantism
 vigilantisms
 vigintillion
 vignerons
+vignetted
 vignetters
 vignettist
 vignettists
