@@ -1240,6 +1240,7 @@ alfaquins
 alfaquis
 alfilaria
 alfilarias
+alforjas
 algae
 algaecide
 algarrobas
@@ -1843,6 +1844,7 @@ anabas
 anabasis
 anabatic
 anabioses
+anabiotic
 anablepses
 anabranch
 anachronism
@@ -4392,6 +4394,7 @@ ballooning
 ballpark
 ballparks
 balls
+ballsiest
 bally
 ballyhoo
 ballyhooed
@@ -7287,6 +7290,7 @@ broader
 broadleaf
 broadleaves
 broadly
+broadswords
 broadtail
 broadtails
 brocades
@@ -9463,6 +9467,7 @@ chaleh
 chalet
 chalice
 chalices
+chalkiest
 chalky
 challahs
 challenging
@@ -13676,6 +13681,7 @@ crinkled
 crinklier
 crinoline
 crinolined
+crinolines
 crinums
 criollo
 criollos
@@ -17327,6 +17333,7 @@ dissatisfies
 dissave
 dissaves
 dissaving
+disseat
 disseated
 disseats
 dissect
@@ -17690,6 +17697,7 @@ doings
 doit
 doited
 dojo
+dolcettos
 doled
 dolefully
 doll
@@ -18626,6 +18634,7 @@ dystrophic
 dystrophy
 dysurias
 eager
+eagerer
 eagerly
 eagers
 eagle
@@ -20748,6 +20757,7 @@ evanescence
 evanescences
 evanesces
 evangel
+evangelical
 evangelism
 evangelistic
 evangelists
@@ -21029,6 +21039,7 @@ exfoliated
 exfoliates
 exfoliating
 exhalant
+exhalants
 exhalation
 exhalations
 exhaled
@@ -22984,6 +22995,7 @@ flowstones
 flub
 flubbed
 flubber
+flubs
 fluctuated
 fluctuating
 flued
@@ -24649,6 +24661,7 @@ gastroscopy
 gastrotrichs
 gastrovascular
 gastrula
+gastrulas
 gastrulation
 gasts
 gasworks
@@ -25261,6 +25274,7 @@ glares
 glarier
 glariest
 glaring
+glaringly
 glaringnesses
 glary
 glasnost
@@ -27267,6 +27281,7 @@ headliners
 headlock
 headlong
 headman
+headmaster
 headmasters
 headmasterships
 headmistress
@@ -27934,6 +27949,7 @@ hinging
 hinkier
 hinky
 hinnied
+hinnies
 hinny
 hins
 hint
@@ -30076,6 +30092,7 @@ incredulously
 increscent
 incriminate
 incrimination
+incriminatory
 incross
 incrossing
 incrustations
@@ -31113,6 +31130,7 @@ intermesh
 intermeshing
 intermezzi
 intermezzos
+intermingle
 intermingles
 intermission
 intermitotic
@@ -31660,6 +31678,7 @@ isallobar
 isallobaric
 isallobars
 isarithm
+isarithms
 isatin
 isatines
 isatinic
@@ -33550,6 +33569,7 @@ lated
 lateener
 lateens
 laten
+lateness
 latens
 latent
 later
@@ -38936,6 +38956,7 @@ musk
 muskegs
 musket
 muskie
+muskits
 muskmelon
 muskrat
 muskrats
@@ -42147,6 +42168,7 @@ outlearnt
 outlier
 outline
 outlined
+outliner
 outlived
 outliver
 outliving
@@ -42249,6 +42271,7 @@ outre
 outreached
 outreads
 outreasoned
+outreasoning
 outreasons
 outrebounded
 outrebounding
@@ -42885,6 +42908,7 @@ overregulations
 overreliance
 overreliances
 overreported
+overridden
 override
 overrife
 overrigid
@@ -44768,6 +44792,7 @@ perjurious
 perk
 perkiest
 perkiness
+perkinesses
 perkish
 permafrosts
 permanences
@@ -44775,6 +44800,7 @@ permanent
 permanently
 permanganate
 permanganates
+permeability
 permeably
 permeate
 permeating
@@ -46078,6 +46104,7 @@ players
 playfield
 playfulnesses
 playgoers
+playgoings
 playhouse
 playlet
 playlets
@@ -46151,6 +46178,7 @@ plerocercoid
 plerocercoids
 plethora
 plethysmogram
+plethysmographs
 pleura
 pleurae
 pleuras
@@ -48788,6 +48816,7 @@ pullulated
 pullulates
 pullup
 pulmonic
+pulper
 pulpers
 pulpily
 pulps
@@ -61270,6 +61299,7 @@ synchronic
 synchronically
 synchronicities
 synchronies
+synchronisation
 synchronised
 synchronises
 synchronism
@@ -61345,6 +61375,7 @@ syntactical
 syntactics
 syntagm
 syntagma
+syntagmas
 syntagms
 syntaxes
 syntheses
@@ -61666,6 +61697,7 @@ tanned
 tanners
 tannin
 tanning
+tannins
 tanrec
 tanrecs
 tantalates
@@ -63018,6 +63050,7 @@ tinders
 tine
 tineas
 tineid
+tineids
 tinfuls
 tinged
 tinges
@@ -66564,6 +66597,7 @@ untranslatable
 untraveled
 untread
 untreaded
+untreading
 untreads
 untreated
 untrod
@@ -68443,6 +68477,7 @@ waterhen
 waterhens
 waterily
 waterinesses
+waterishness
 waterishnesses
 waterlily
 waterlines
