@@ -233,6 +233,7 @@ accounting
 accountings
 accoutered
 accouterments
+accouters
 accoutred
 accoutres
 accreditations
@@ -5533,6 +5534,7 @@ bharals
 bheestie
 bheesties
 bhoot
+bhoots
 bhut
 bhuts
 biacetyls
@@ -8305,6 +8307,7 @@ canaille
 canailles
 canal
 canalboat
+canaled
 canaliculus
 canalising
 canalization
@@ -9213,6 +9216,7 @@ cellphone
 cellphones
 cellular
 cellulars
+cellulases
 cellule
 cellulites
 cellulitis
@@ -10467,6 +10471,7 @@ civie
 civies
 civil
 civilian
+civilianize
 civilisation
 civilisations
 civilised
@@ -20020,6 +20025,7 @@ eparchy
 epaulets
 epauletted
 epaulettes
+epazotes
 epeirogeny
 epergne
 epergnes
@@ -24333,6 +24339,7 @@ gallbladder
 galleasses
 galleins
 galleries
+gallery
 gallerygoers
 galleta
 galletas
@@ -27336,6 +27343,7 @@ hectograms
 hectoliter
 hectoliters
 hectometer
+hectometers
 hectors
 heddles
 heder
@@ -30215,6 +30223,7 @@ inductee
 inductees
 inductile
 induction
+inductions
 inductive
 inductors
 indued
@@ -30252,6 +30261,7 @@ ineffability
 ineffable
 ineffably
 ineffaceability
+ineffectual
 ineffectuality
 inefficaciously
 inefficient
@@ -31304,6 +31314,7 @@ intubation
 intubations
 intuiting
 intuition
+intuitional
 intuitionist
 intuitionists
 intumesce
@@ -36168,6 +36179,7 @@ medials
 median
 mediants
 mediastina
+mediated
 mediation
 mediations
 mediatize
@@ -36655,6 +36667,7 @@ metathetic
 metathoraces
 metathoracic
 metaxylem
+metaxylems
 metazoa
 metazoan
 metazoon
@@ -41437,6 +41450,7 @@ opposers
 opposite
 oppositely
 oppositeness
+opposition
 oppositions
 oppress
 oppressing
@@ -43318,6 +43332,7 @@ palletizing
 pallets
 pallettes
 pallia
+palliasses
 palliation
 palliations
 palliative
@@ -43990,6 +44005,7 @@ pathfinders
 pathless
 pathlessnesses
 pathobiologies
+pathogene
 pathognomonic
 pathologies
 pathologist
@@ -44243,6 +44259,7 @@ pediments
 pedlar
 pedlary
 pedlers
+pedocalic
 pedocals
 pedogeneses
 pedogenic
@@ -44538,6 +44555,7 @@ peregrin
 peregrinating
 peregrination
 peregrine
+pereion
 pereiopod
 peremptory
 perennated
@@ -48828,6 +48846,7 @@ purgings
 purification
 purifications
 purificatory
+purifier
 purist
 puristic
 puristically
@@ -48905,6 +48924,7 @@ puss
 pusses
 pussyfoot
 pussyfooters
+pussyfooting
 pussyfoots
 pustulant
 pustulating
@@ -49066,6 +49086,7 @@ quacksalvers
 quad
 quadding
 quadplexes
+quadrangle
 quadrangles
 quadrans
 quadrant
@@ -50307,6 +50328,7 @@ recompositions
 recomputed
 reconceived
 reconcentrate
+reconcentration
 reconceptions
 reconcilability
 reconcilable
@@ -51227,6 +51249,7 @@ relegated
 relegating
 relegations
 relending
+relent
 relets
 reletter
 relettering
@@ -52653,6 +52676,7 @@ richened
 richening
 richer
 riches
+richest
 richnesses
 richweed
 ricin
@@ -54158,6 +54182,7 @@ scalariform
 scalariformly
 scalation
 scalations
+scalawag
 scaldic
 scalding
 scale
@@ -56794,6 +56819,7 @@ sleazo
 sleazoid
 sleazoids
 sledded
+sledder
 sledders
 sledding
 sleddings
@@ -57835,6 +57861,7 @@ sowans
 sowbelly
 sowcar
 sowing
+soy
 soybean
 soymilk
 soymilks
@@ -59359,6 +59386,7 @@ straitening
 straitens
 straitest
 straitjacketing
+straitjackets
 straitly
 strake
 straked
@@ -62675,6 +62703,7 @@ thrusting
 thrusts
 thruway
 thruways
+thudded
 thudding
 thug
 thuggery
@@ -66335,6 +66364,7 @@ unstableness
 unstabler
 unstably
 unstack
+unstalked
 unstamped
 unstarred
 unstartling
@@ -66658,6 +66688,7 @@ upshifts
 upshooting
 upshoots
 upsilon
+upsilons
 upsized
 upslope
 upsoared
@@ -67112,6 +67143,7 @@ vats
 vatu
 vatus
 vaudevillians
+vaulted
 vaulter
 vaulters
 vaultiest
@@ -67329,6 +67361,7 @@ vermifuge
 vermifuges
 vermilion
 vermilioning
+vermillions
 vermis
 vermoulu
 vermouths
@@ -68468,6 +68501,7 @@ weedily
 weedy
 weekday
 weekending
+weekends
 weeklong
 weekly
 ween
@@ -68796,6 +68830,7 @@ whoresons
 whorishly
 whorled
 whortleberries
+whortleberry
 whortles
 whorts
 whose
