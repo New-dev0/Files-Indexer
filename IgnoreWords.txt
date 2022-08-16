@@ -932,6 +932,7 @@ agars
 agatewares
 agatize
 agatizes
+agatizing
 agave
 agaves
 agaze
@@ -2137,6 +2138,7 @@ animuses
 anion
 anions
 anis
+anise
 aniseed
 aniseeds
 anisette
@@ -4843,6 +4845,7 @@ bayards
 bayberries
 bayberry
 bayonetted
+bayonetting
 bayou
 bays
 baywood
@@ -6412,6 +6415,7 @@ blunger
 blungers
 blunges
 blunging
+blunt
 blunter
 blunting
 blurbed
@@ -6815,6 +6819,7 @@ bosonic
 bosques
 bosquet
 bossdoms
+bossily
 bossing
 bossisms
 bossy
@@ -6872,6 +6877,7 @@ bouldering
 bouldery
 boule
 boulevardier
+boulevards
 bouleversement
 boulles
 bounce
@@ -7771,6 +7777,7 @@ burgh
 burgher
 burglarized
 burglarproof
+burglars
 burgled
 burgles
 burgling
@@ -9811,6 +9818,7 @@ cheddite
 cheder
 cheechakos
 cheekbone
+cheekbones
 cheeked
 cheekier
 cheekiest
@@ -14720,6 +14728,7 @@ damaskeening
 dames
 damiana
 damianas
+dammed
 dammers
 damming
 dammit
@@ -15787,6 +15796,7 @@ denomination
 denoted
 denotive
 denouement
+denouncement
 denouncements
 denouncer
 dense
@@ -18521,6 +18531,7 @@ duellist
 duels
 duendes
 dueness
+duennas
 duennaship
 duennaships
 duet
@@ -18795,6 +18806,7 @@ earners
 earnestness
 earning
 earphone
+earphones
 earpiece
 earplug
 earplugs
@@ -20505,6 +20517,7 @@ eroticizing
 erotics
 erotism
 erotisms
+erotized
 erotogenic
 err
 errancies
@@ -20797,6 +20810,7 @@ eucritic
 eudaemonism
 eudaemonisms
 eudaimonism
+eudaimons
 eudemon
 eudemonia
 eudemons
@@ -24276,6 +24290,7 @@ fulnesses
 fulsomenesses
 fulvous
 fumarase
+fumarate
 fumaroles
 fumeless
 fumer
@@ -24523,6 +24538,7 @@ galabiyas
 galactorrhea
 galactosamine
 galactosemia
+galactosemic
 galactoside
 galactosides
 galangas
@@ -28219,6 +28235,7 @@ hiveless
 hives
 ho
 hoar
+hoarder
 hoarders
 hoardings
 hoards
@@ -30436,6 +30453,7 @@ indign
 indignant
 indignations
 indignly
+indigoid
 indigoids
 indigotin
 indinavir
@@ -31244,6 +31262,7 @@ interelectron
 interepidemic
 interesting
 interethnic
+interface
 interfaces
 interfaculty
 interferential
@@ -34434,6 +34453,7 @@ lifeguarded
 lifeless
 lifelessnesses
 lifelikenesses
+lifelines
 lifemanship
 lifers
 lifesaving
@@ -34457,6 +34477,7 @@ ligation
 ligative
 ligatured
 ligatures
+ligaturing
 ligers
 light
 lightbulb
@@ -37934,6 +37955,7 @@ misnumbered
 misnumbering
 misogamic
 misogamist
+misogamy
 misogynist
 misogyny
 misologies
@@ -38152,6 +38174,7 @@ moaner
 moaners
 moaning
 moaningly
+moans
 moat
 moats
 mobbishly
@@ -42090,6 +42113,7 @@ orthotropous
 oryxes
 os
 osar
+oscillated
 oscillograms
 oscillographies
 oscillography
@@ -42285,6 +42309,7 @@ outcharming
 outcheat
 outcheating
 outchide
+outcities
 outcity
 outclimbs
 outclomb
@@ -44059,6 +44084,7 @@ paranoiac
 paranoias
 paranoidal
 paranormals
+paranymphs
 parapeted
 paraph
 paraphrasable
@@ -46103,6 +46129,7 @@ pinwheel
 pinwork
 pinworms
 piny
+pinyons
 piolet
 piolets
 pion
@@ -50878,6 +50905,7 @@ recoupling
 recoupment
 recoups
 recourses
+recover
 recoverers
 recoveries
 recovery
@@ -52383,6 +52411,7 @@ reshaving
 reshined
 reshines
 reshingle
+reshingled
 reshingles
 reship
 reshipped
@@ -53627,6 +53656,7 @@ rosiest
 rosily
 rosiness
 rosinesses
+rosinols
 rosinous
 rosinweed
 rosolios
@@ -54880,6 +54910,7 @@ schnauzer
 schnecke
 schnecken
 schnitzels
+schnorkels
 schnorrer
 schnorrers
 schnoz
@@ -55909,6 +55940,7 @@ servantless
 servants
 served
 servers
+serves
 service
 serviceable
 serviceably
@@ -58387,6 +58419,7 @@ soviets
 sovkhozes
 sovran
 sovranty
+sowable
 sowans
 sowbelly
 sowcar
@@ -61656,6 +61689,7 @@ syllabize
 syllabizes
 syllabizing
 syllabled
+syllabling
 syllabub
 syllabuses
 syllogisms
@@ -62025,6 +62059,7 @@ talking
 talky
 tall
 tallaged
+tallaging
 tallaisim
 tallied
 tallier
