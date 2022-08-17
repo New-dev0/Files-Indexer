@@ -895,6 +895,7 @@ aflame
 aflatoxins
 afore
 aforehand
+aforementioned
 aforethought
 afraid
 afreets
@@ -3600,6 +3601,7 @@ astrodomes
 astrolabe
 astrologer
 astrological
+astrologies
 astrology
 astrometric
 astrometries
@@ -6087,6 +6089,7 @@ bituminizations
 bituminizes
 biunique
 biuniqueness
+bivalencies
 bivalent
 bivalve
 bivalved
@@ -7902,6 +7905,7 @@ bushbucks
 busheler
 bushelled
 busheller
+bushellers
 bushelling
 bushelmen
 bushes
@@ -8415,6 +8419,7 @@ camouflagic
 camouflaging
 campagna
 campaigned
+campaigner
 campaigners
 campanology
 camped
@@ -10860,6 +10865,7 @@ cleverer
 cleverish
 clew
 clewed
+cliche
 clientages
 clients
 cliffier
@@ -11756,6 +11762,7 @@ comedy
 comeliest
 comestible
 comet
+comfiest
 comfiness
 comfort
 comfortableness
@@ -12316,6 +12323,7 @@ conglutination
 congo
 congoes
 congou
+congratulate
 congratulates
 congratulating
 congratulation
@@ -14376,6 +14384,7 @@ curettes
 curetting
 curfew
 curfews
+curfs
 curiosa
 curious
 curiousness
@@ -17001,6 +17010,7 @@ dippers
 dippier
 dippiest
 dippy
+dipsades
 dipsomania
 dipsomaniacs
 dipsos
@@ -17749,6 +17759,7 @@ diuresis
 diuretic
 diurnal
 diurons
+divagation
 divalences
 divans
 divaricate
@@ -18045,6 +18056,7 @@ donzels
 doodads
 doodies
 doodlebug
+doodler
 doodlers
 doodles
 doody
@@ -18456,6 +18468,7 @@ driegh
 dries
 driest
 driftage
+driftiest
 driftingly
 drill
 drilling
@@ -22292,6 +22305,7 @@ feelings
 fees
 feeze
 feezed
+feigned
 feigner
 feigning
 feigns
@@ -26188,6 +26202,7 @@ graffiting
 graffitists
 graffito
 graftage
+graftages
 grafting
 graham
 grahams
@@ -26405,6 +26420,7 @@ greegree
 greeing
 greek
 greenbacker
+greenbacks
 greenbelts
 greenbrier
 greenbriers
@@ -26719,6 +26735,7 @@ guanines
 guanos
 guanosines
 guaranies
+guaranis
 guaranty
 guarddog
 guarded
@@ -31000,6 +31017,7 @@ inherences
 inhering
 inherit
 inheritableness
+inheritor
 inheritors
 inheritresses
 inheritrices
@@ -37204,6 +37222,7 @@ metallophones
 metallurgical
 metallurgically
 metallurgy
+metalmarks
 metalworks
 metameres
 metamerism
@@ -37796,6 +37815,7 @@ minipills
 miniscule
 miniscules
 minished
+minishes
 miniski
 miniskirt
 miniskis
@@ -42428,6 +42448,7 @@ ostosises
 ostraca
 ostracism
 ostracize
+ostracode
 ostracodes
 otalgia
 otalgias
@@ -43159,6 +43180,7 @@ overcommits
 overcommitted
 overcommitting
 overcompensate
+overcompliances
 overcomplicated
 overcompresses
 overconcern
@@ -43894,6 +43916,7 @@ pagodas
 pagurian
 pagurians
 pagurids
+pahoehoe
 paiks
 pail
 pailful
@@ -44831,6 +44854,7 @@ payouts
 payrolls
 pazazz
 pazazzes
+pe
 peaceableness
 peacefullest
 peacefulnesses
@@ -46606,6 +46630,7 @@ planation
 planchets
 planed
 planer
+planers
 planeside
 planesides
 planetaria
@@ -46631,6 +46656,7 @@ planlessness
 planlessnesses
 planned
 planosol
+plantable
 plantain
 plantains
 plantar
@@ -48937,6 +48963,7 @@ properdin
 properdins
 properer
 propers
+prophages
 prophase
 prophasic
 prophesied
@@ -50827,6 +50854,7 @@ rearrests
 rears
 rearticulate
 reascend
+reascended
 reascends
 reascent
 reasonably
@@ -51112,6 +51140,7 @@ recompenses
 recompiled
 recompositions
 recomputed
+recomputes
 reconceived
 reconcentrate
 reconcentration
@@ -52592,6 +52621,7 @@ requisitioning
 requite
 requiters
 rerack
+reradiate
 reradiated
 reradiating
 reradiations
@@ -54508,6 +54538,7 @@ saiyid
 saiyids
 sajous
 sakes
+sal
 salaaming
 salaams
 salabilities
@@ -54612,6 +54643,7 @@ salutatories
 salute
 salvageability
 salvageable
+salvager
 salvagers
 salvages
 salvaging
@@ -61232,6 +61264,7 @@ sulfitic
 sulfonamide
 sulfonamides
 sulfonate
+sulfonated
 sulfone
 sulfones
 sulfonyl
@@ -70491,6 +70524,7 @@ wristband
 wristbands
 wristier
 wristlock
+wrists
 wristwatch
 wristwatches
 writ
@@ -70768,6 +70802,7 @@ yogis
 yohimbe
 yohimbine
 yohimbines
+yokefellow
 yokels
 yokemate
 yokozuna
