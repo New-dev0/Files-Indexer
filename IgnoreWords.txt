@@ -850,6 +850,7 @@ afficionados
 affidavits
 affinal
 affine
+affinely
 affinity
 affirm
 affirmable
@@ -2499,6 +2500,7 @@ antioxidant
 antiozonant
 antipapal
 antiparty
+antipasti
 antipathy
 antipersonnel
 antiperspirants
@@ -4841,6 +4843,7 @@ batistes
 batlike
 batmen
 baton
+batrachian
 batrachians
 batsman
 batsmen
@@ -8249,6 +8252,7 @@ caladium
 caladiums
 calamander
 calamaries
+calamary
 calamine
 calamite
 calamondin
@@ -8491,6 +8495,7 @@ candent
 candescences
 candidature
 candider
+candidest
 candidnesses
 candids
 candies
@@ -13476,6 +13481,7 @@ courtesied
 courtesies
 courtezan
 courtezans
+courthouse
 courtlier
 courtroom
 courtrooms
@@ -14016,6 +14022,7 @@ crossbreeds
 crossbuck
 crosscourt
 crosscurrent
+crosscurrents
 crosscut
 crosscutting
 crosscuttings
@@ -14190,6 +14197,7 @@ cryptorchid
 cryptorchidisms
 cryptosporidium
 cryptozoologies
+crystal
 crystalize
 crystalizes
 crystallinities
@@ -14604,6 +14612,7 @@ cyanogen
 cyanogeneses
 cyanogenic
 cyanohydrin
+cyanotype
 cyanotypes
 cyanurate
 cyber
@@ -16210,6 +16219,7 @@ descanters
 descants
 descend
 descender
+descenders
 descendible
 describable
 describe
@@ -16495,6 +16505,7 @@ devisee
 devises
 devisor
 devitrified
+devitrify
 devocalized
 devoices
 devoir
@@ -18451,6 +18462,7 @@ drawing
 drawings
 drawknives
 drawler
+drawling
 drawnwork
 drawplates
 draws
@@ -22957,6 +22969,7 @@ fishhooks
 fishily
 fishiness
 fishings
+fishless
 fishline
 fishmeal
 fishmeals
@@ -26746,6 +26759,7 @@ groyne
 grub
 grubbed
 grubbier
+grubbiest
 grubbily
 grubbing
 grubby
@@ -28158,6 +28172,7 @@ heriot
 heritages
 heritor
 heritors
+heritrices
 herm
 herma
 hermae
@@ -28219,6 +28234,7 @@ hesitancy
 hesitant
 hesitaters
 hesitation
+hesitations
 hesitator
 hesitators
 hessonite
@@ -31823,6 +31839,7 @@ inthrals
 inthroned
 inti
 intifadah
+intifadehs
 intima
 intimacy
 intimae
@@ -36067,6 +36084,7 @@ maladministered
 maladministers
 maladroitly
 maladroitness
+malady
 malamutes
 malanders
 malanga
@@ -37490,6 +37508,7 @@ mickey
 mickles
 micklest
 micra
+microampere
 microanalysts
 microanatomies
 microbalance
@@ -37792,6 +37811,7 @@ milliluces
 milliluxes
 millime
 millimes
+millimeters
 millimho
 millimhos
 millimicrons
@@ -39957,6 +39977,7 @@ nascent
 naseberries
 naseberry
 nasion
+nasopharynx
 nastier
 nastiest
 nastily
@@ -41261,6 +41282,7 @@ noris
 norites
 norland
 norm
+normalcies
 normalcy
 normalise
 normalities
@@ -42412,6 +42434,7 @@ orismological
 orismology
 orle
 orles
+orlon
 orlons
 ormer
 ormolus
@@ -44148,6 +44171,7 @@ palleted
 palletise
 palletised
 palletises
+palletising
 palletization
 palletize
 palletizer
@@ -47184,6 +47208,7 @@ pokeys
 pokiest
 pokily
 pokinesses
+poking
 poky
 polarimetric
 polarimetries
@@ -48815,6 +48840,7 @@ proband
 probates
 probationally
 probationary
+probationer
 probative
 probe
 probenecid
@@ -53722,6 +53748,7 @@ ridgeling
 ridgels
 ridgetops
 ridgiest
+ridgils
 ridging
 ridglings
 ridicule
@@ -55656,6 +55683,7 @@ screes
 screwdriver
 screwiest
 screwinesses
+screwlike
 screwups
 screwworm
 screwworms
@@ -59943,6 +59971,7 @@ starry
 stars
 starship
 starters
+startling
 startlingly
 startsy
 startup
@@ -60929,6 +60958,7 @@ subdepot
 subdevelopment
 subdevelopments
 subdialect
+subdiscipline
 subdividable
 subdividers
 subdivision
@@ -64116,6 +64146,7 @@ tinkerer
 tinkertoy
 tinkled
 tinkler
+tinkliest
 tinkly
 tinner
 tinniest
@@ -65968,6 +65999,7 @@ typebar
 typebars
 typecast
 typecasts
+typed
 typefaces
 typefounders
 types
@@ -67040,6 +67072,7 @@ unicycling
 unicyclist
 unideaed
 unideological
+unidiomatic
 unific
 unifiers
 uniform
@@ -69217,6 +69250,7 @@ vowless
 vows
 vox
 voyage
+voyages
 voyageurs
 voyeur
 voyeuristic
@@ -70872,6 +70906,7 @@ yang
 yantra
 yap
 yapoks
+yapons
 yaps
 yar
 yardage
