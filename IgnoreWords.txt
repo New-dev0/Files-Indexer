@@ -1798,6 +1798,7 @@ amphibious
 amphibole
 amphibolite
 amphibolites
+amphibologies
 amphibrachic
 amphictyonic
 amphictyonies
@@ -2779,6 +2780,7 @@ apostatizing
 apostils
 apostle
 apostleship
+apostolate
 apostolic
 apostolicities
 apostrophes
@@ -5555,6 +5557,7 @@ beta
 betaine
 betake
 betaking
+betattering
 betelnut
 betels
 bethanked
@@ -8635,6 +8638,7 @@ capitalised
 capitalising
 capitalisms
 capitalist
+capitalistic
 capitalizations
 capitalized
 capitalizes
@@ -11165,6 +11169,7 @@ cobaltines
 cobaltite
 cobaltous
 cobber
+cobbers
 cobble
 cobbles
 cobblestones
@@ -17060,6 +17065,7 @@ direfully
 direnesses
 direst
 dirge
+dirgeful
 dirges
 dirham
 dirigisme
@@ -19643,6 +19649,7 @@ embrown
 embrowns
 embrued
 embrues
+embruing
 embrute
 embruted
 embryogenesis
@@ -23360,6 +23367,7 @@ flowstones
 flub
 flubbed
 flubber
+flubdub
 flubs
 fluctuated
 fluctuating
@@ -33122,6 +33130,7 @@ kelly
 keloidal
 kelpies
 kelping
+kelps
 kelter
 kelvins
 kemps
@@ -39647,6 +39656,7 @@ mycoplasmal
 mycoplasmas
 mycorhiza
 mycorhizae
+mycorhizas
 mycorrhizae
 mycorrhizal
 mydriases
@@ -43515,6 +43525,7 @@ overplanned
 overplanning
 overplans
 overplied
+overplotting
 overply
 overplying
 overpopulation
@@ -44565,6 +44576,7 @@ parring
 parritches
 parroket
 parroted
+parroter
 parroting
 parroty
 parrs
@@ -45087,6 +45099,7 @@ peke
 pekepoos
 pekoes
 pelage
+pele
 pelerine
 peles
 pelisse
@@ -45274,6 +45287,7 @@ peptid
 peptidase
 peptides
 peptidoglycan
+peptized
 peptizers
 peptizes
 peptonic
@@ -45480,6 +45494,7 @@ permanganate
 permanganates
 permeability
 permeably
+permeance
 permeate
 permeating
 permian
@@ -46915,6 +46930,7 @@ plotters
 plotties
 plotzed
 plotzes
+plotzing
 ploughers
 ploughs
 plowable
@@ -49507,6 +49523,7 @@ puff
 puffer
 puffiest
 puffily
+puffin
 pug
 pugaree
 puggarees
@@ -49651,6 +49668,7 @@ punters
 punties
 puntos
 punty
+pupa
 pupae
 pupas
 pupated
@@ -51411,6 +51429,7 @@ redevelopment
 redevelopments
 redeyes
 redfin
+redfish
 redhead
 redhorse
 rediae
@@ -52058,6 +52077,7 @@ reiterations
 reive
 reived
 reives
+rejacket
 rejacketed
 rejackets
 rejectees
@@ -58603,6 +58623,7 @@ solutions
 solvate
 solvated
 solve
+solvent
 solventless
 solves
 solvolytic
@@ -59884,6 +59905,7 @@ statolith
 stator
 stats
 statuary
+statue
 statuesque
 statuesquely
 statusy
@@ -59916,6 +59938,7 @@ steals
 stealth
 stealthier
 stealthiness
+steamboat
 steamboats
 steamed
 steamered
@@ -62465,6 +62488,7 @@ tains
 takable
 takahe
 take
+takeoff
 takeoffs
 takeovers
 taker
@@ -64035,6 +64059,7 @@ tirades
 tire
 tired
 tireder
+tirednesses
 tires
 tiresomely
 tiresomeness
@@ -64471,6 +64496,7 @@ toupee
 tourbillion
 tourbillons
 toured
+tourer
 tourers
 tourism
 tourmaline
@@ -66635,6 +66661,7 @@ undervalues
 undervests
 underwater
 underwear
+underweight
 underweights
 underwhelmed
 underwhelms
@@ -67013,6 +67040,7 @@ unjust
 unjustness
 unjustnesses
 unkempt
+unkennelled
 unkennelling
 unkent
 unkept
@@ -67220,6 +67248,7 @@ unprincipled
 unprivileged
 unprized
 unprofessed
+unprofitable
 unprofitably
 unprogrammable
 unprogrammed
@@ -67470,6 +67499,7 @@ unsteel
 unsteeling
 unsteels
 unsteps
+unsterilized
 unstitch
 unstitched
 unstoppable
@@ -68005,6 +68035,7 @@ vacillators
 vacuoles
 vacuous
 vacuousness
+vacuousnesses
 vagabond
 vagabondism
 vagabondisms
@@ -68092,6 +68123,7 @@ valvules
 vambraced
 vambraces
 vamoosed
+vamoosing
 vamose
 vamp
 vamped
@@ -68350,6 +68382,7 @@ venatical
 vendable
 vendables
 vendee
+vendibilities
 vendibly
 venditions
 vendue
@@ -69052,6 +69085,7 @@ voodooed
 voodooism
 voodooisms
 voraciousness
+voracity
 vorlages
 vortex
 vortical
@@ -70302,6 +70336,7 @@ wiverns
 wiz
 wizardly
 wizards
+wizen
 wizened
 wizes
 wizzen
