@@ -2352,6 +2352,7 @@ antibiotically
 antibiotics
 antiblackism
 antiboss
+antibourgeois
 antiburglar
 antibusing
 antic
@@ -3677,6 +3678,7 @@ atlantes
 atlatl
 atmas
 atmosphered
+atmospheric
 atmospherically
 atomic
 atomically
@@ -4325,6 +4327,7 @@ backwoods
 backwoodsmen
 backyards
 bacon
+bacteremic
 bacteria
 bacteriocins
 bacteriologist
@@ -5204,6 +5207,7 @@ begirds
 begirt
 beglad
 begladded
+beglads
 beglamor
 beglamoured
 beglamouring
@@ -10882,6 +10886,7 @@ cleverish
 clew
 clewed
 cliche
+clickwrap
 clientages
 clients
 cliffier
@@ -18643,6 +18648,7 @@ drunkard
 drunken
 drunker
 drupaceous
+drupe
 drupelet
 drupelets
 druse
@@ -18669,6 +18675,7 @@ duals
 dub
 dubber
 dubbin
+dubbings
 dubiously
 dubiousness
 dubitation
@@ -19433,6 +19440,7 @@ electroplate
 electroplates
 electropositive
 electroscope
+electrostatic
 electrosurgical
 electrotonic
 electrotyped
@@ -19953,6 +19961,7 @@ endogamy
 endogenic
 endogenies
 endogenous
+endogenously
 endogeny
 endometritis
 endomitoses
@@ -22646,6 +22655,7 @@ fictionization
 fictionizations
 fictitious
 fictitiousness
+ficus
 fiddleback
 fiddled
 fiddlehead
@@ -24337,6 +24347,7 @@ frizzing
 frizzle
 frizzles
 frizzlier
+fro
 frocks
 frogeyed
 frogfishes
@@ -34663,6 +34674,7 @@ liberalizations
 liberalize
 liberalizers
 liberalizes
+liberalness
 liberals
 liberated
 liberationists
@@ -35412,6 +35424,7 @@ lordings
 lordlier
 lordlike
 lordliness
+lordly
 lordoses
 lords
 lordship
@@ -37060,6 +37073,7 @@ menadione
 menadiones
 menads
 menages
+menarcheal
 menazon
 menazons
 mend
@@ -38601,6 +38615,7 @@ moisturises
 moisturize
 moisturizer
 mojarra
+mojarras
 molal
 molar
 molars
@@ -39025,6 +39040,7 @@ morphologist
 morphometries
 morphometry
 morphophonemics
+morphoses
 morphs
 morrions
 morris
@@ -39899,6 +39915,7 @@ narks
 narky
 narrate
 narrated
+narrater
 narrates
 narration
 narrational
@@ -41638,6 +41655,7 @@ observances
 observantly
 observants
 observation
+observatory
 observes
 observing
 observingly
@@ -42685,6 +42703,7 @@ outdebated
 outdebates
 outdeliver
 outdelivering
+outdesign
 outdesigned
 outdistances
 outdistancing
@@ -47392,6 +47411,7 @@ ponces
 ponchos
 ponder
 ponderable
+pondered
 ponderosa
 ponderously
 ponders
@@ -47918,6 +47938,7 @@ preadopted
 preadult
 preaged
 preallots
+preallotted
 preallotting
 prealter
 prealtering
@@ -47925,6 +47946,7 @@ preamplifier
 preamplifiers
 preanal
 preannounce
+preannounced
 preapplied
 preapplies
 preapplying
@@ -48588,6 +48610,7 @@ preventing
 preventive
 preventiveness
 preventives
+preview
 previewer
 previews
 previous
@@ -49005,6 +49028,7 @@ prompt
 promptbook
 prompter
 promptitudes
+promptnesses
 pronation
 pronely
 pronenesses
@@ -49091,6 +49115,7 @@ proportionate
 proportionated
 proportionates
 proportions
+proposal
 proposed
 proposers
 propositi
@@ -50099,6 +50124,7 @@ quarto
 quarts
 quartz
 quartzes
+quasars
 quash
 quasicrystal
 quasicrystals
@@ -52835,6 +52861,7 @@ reservoir
 reservoirs
 resetter
 resetters
+resetting
 resettle
 resettlement
 resettling
@@ -56040,6 +56067,7 @@ selvedges
 selves
 semainiers
 semanteme
+semantic
 semanticists
 semantics
 semaphoring
@@ -56851,6 +56879,7 @@ shinnying
 shinplasters
 shins
 shinsplints
+shiny
 shipboard
 shipboards
 shipless
@@ -61454,6 +61483,7 @@ summerwoods
 summery
 summiteer
 summoned
+summoner
 summoners
 summoning
 summonsing
@@ -61540,6 +61570,7 @@ superalloy
 superalloys
 superalterns
 superambitious
+superannuate
 superannuates
 superannuation
 superathletes
@@ -67157,6 +67188,7 @@ unmaliciously
 unmanful
 unmanlier
 unmanliest
+unmanliness
 unmanly
 unmans
 unmarrieds
@@ -67166,6 +67198,7 @@ unmasked
 unmasking
 unmatted
 unmatured
+unmechanized
 unmediated
 unmeetly
 unmelted
@@ -67892,6 +67925,7 @@ uptight
 uptightness
 uptilted
 uptimes
+uptoss
 uptosses
 uptossing
 uptown
@@ -70286,6 +70320,7 @@ wirelesses
 wireman
 wirephoto
 wirephotos
+wires
 wiretapping
 wiretaps
 wireways
