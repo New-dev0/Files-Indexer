@@ -1732,6 +1732,7 @@ amitotic
 amitriptylines
 ammine
 ammino
+ammocetes
 ammoniac
 ammoniacal
 ammoniacs
@@ -1753,6 +1754,7 @@ amniocenteses
 amniocentesis
 amnionic
 amnions
+amniote
 amniotes
 amniotic
 amobarbital
@@ -3383,6 +3385,7 @@ asker
 askew
 askewness
 askewnesses
+askings
 askoi
 askos
 aslope
@@ -3916,6 +3919,7 @@ autocoid
 autocratically
 autocrine
 autocross
+autocrosses
 autodidact
 autoecious
 autoecism
@@ -4512,6 +4516,7 @@ bandying
 baneful
 banefully
 bang
+bangers
 banging
 bangkok
 bangkoks
@@ -5999,6 +6004,7 @@ birles
 biro
 birring
 birrotch
+birses
 birth
 birthdays
 birthed
@@ -7832,6 +7838,7 @@ burglars
 burgled
 burgles
 burgling
+burgomaster
 burgomasters
 burgoos
 burgundies
@@ -9929,6 +9936,7 @@ chemoautotrophy
 chemokines
 chemoreception
 chemoreceptor
+chemoreceptors
 chemos
 chemosorb
 chemosorbed
@@ -11963,6 +11971,7 @@ complicated
 complice
 compliers
 complimentary
+complimented
 complimenting
 complin
 complying
@@ -12804,6 +12813,7 @@ coomb
 coombs
 cooncan
 coonhound
+coonhounds
 cooperages
 cooperated
 cooperates
@@ -14319,6 +14329,7 @@ cupidity
 cupola
 cupolas
 cuppa
+cupping
 cupreous
 cuprous
 cuprum
@@ -17538,6 +17549,7 @@ disrating
 disregard
 disregarding
 disregards
+disrelish
 disrelished
 disrelishes
 disremembered
@@ -18379,6 +18391,7 @@ draws
 drawshave
 drawshaves
 drawstring
+drawstrings
 drawtube
 drawtubes
 dray
@@ -18938,6 +18951,7 @@ earthlike
 earthly
 earthmen
 earthpeas
+earthquakes
 earthset
 earthsets
 earthshakers
@@ -19732,6 +19746,7 @@ enactment
 enactments
 enactors
 enalaprils
+enameled
 enamelers
 enamelists
 enamelled
@@ -20606,6 +20621,7 @@ ergodicities
 ergograph
 ergographs
 ergometric
+ergonovines
 ergot
 ergotamine
 ergotized
@@ -24459,6 +24475,7 @@ functionless
 functor
 fundament
 fundamentalism
+fundamentals
 funded
 funder
 funders
@@ -28004,6 +28021,7 @@ heralded
 heraldic
 heralding
 heraldist
+herb
 herbage
 herbaged
 herbalist
@@ -29121,6 +29139,7 @@ humph
 humpiness
 humpless
 humungous
+humuses
 humvee
 humvees
 hunch
@@ -35709,6 +35728,7 @@ machinabilities
 machinability
 machination
 machinator
+machinators
 machineable
 machined
 machineries
@@ -35952,6 +35972,7 @@ malcontentedly
 maldistribution
 maledict
 maledicting
+maledictions
 maledictory
 malefaction
 malefactions
@@ -41247,6 +41268,7 @@ nubbly
 nubby
 nubility
 nubilous
+nucellar
 nucelli
 nuchal
 nuchals
@@ -42211,6 +42233,7 @@ organizing
 organons
 organza
 organzine
+organzines
 orgasm
 orgasms
 orgeats
@@ -43238,6 +43261,7 @@ overexertions
 overexerts
 overexpand
 overexpanding
+overexpansion
 overexpectation
 overexplain
 overexplained
@@ -44428,6 +44452,7 @@ parkers
 parkings
 parkinsonisms
 parklike
+parkway
 parlance
 parlando
 parlay
@@ -48412,6 +48437,7 @@ pretrim
 prettier
 prettification
 prettifier
+prettifiers
 prettifying
 prettily
 prettiness
@@ -53623,6 +53649,7 @@ rinse
 rinsing
 riotously
 riotousness
+riots
 rip
 ripener
 ripeness
@@ -55946,6 +55973,7 @@ seminomas
 seminomata
 seminude
 seminudity
+semiofficially
 semiological
 semiologically
 semiologies
@@ -57490,6 +57518,7 @@ skinked
 skinker
 skinkers
 skinking
+skinless
 skinned
 skinners
 skinninesses
@@ -59556,6 +59585,7 @@ stadtholder
 stadtholderate
 stadtholderates
 stadtholders
+staffer
 staffers
 staffing
 stageable
@@ -59700,6 +59730,7 @@ starflower
 stargaze
 stargazer
 stargazers
+staringly
 starker
 starkness
 starlet
@@ -65224,6 +65255,7 @@ troughs
 trounce
 trounced
 trouncers
+trouncing
 troupe
 trouped
 trouper
@@ -68324,6 +68356,7 @@ verifiers
 verify
 verily
 verisimilarly
+verisms
 verist
 verists
 veritableness
@@ -68554,6 +68587,7 @@ vilest
 vilification
 vilifier
 vilifiers
+vill
 villa
 villadom
 villagers
@@ -70941,6 +70975,7 @@ zombifies
 zombiisms
 zona
 zonary
+zonate
 zonated
 zoneless
 zoner
