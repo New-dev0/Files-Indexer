@@ -448,6 +448,7 @@ actinomorphies
 actinomorphy
 actinomyces
 actinomycetous
+actinomycosis
 actinomycotic
 actinon
 action
@@ -1120,6 +1121,7 @@ airfares
 airfield
 airfields
 airflow
+airfoil
 airframes
 airfreight
 airfreighting
@@ -3471,6 +3473,7 @@ assiduous
 assiduously
 assign
 assignability
+assignable
 assignat
 assignee
 assigning
@@ -4054,6 +4057,7 @@ awaiter
 awaiters
 awaiting
 awaits
+awake
 awaken
 awakeners
 awakenings
@@ -4695,6 +4699,7 @@ bartenders
 bartending
 barterer
 bartisan
+baryes
 barytes
 barytons
 bas
@@ -4723,6 +4728,7 @@ basic
 basicity
 basidiomycetes
 basidiomycetous
+basifying
 basilar
 basilect
 basilicae
@@ -5418,6 +5424,7 @@ bereaved
 bereavements
 bereaver
 bereavers
+bereaving
 beret
 bergamot
 bergamots
@@ -14185,6 +14192,7 @@ cullers
 cullets
 cullied
 cullions
+cullis
 cullises
 culmed
 culminant
@@ -15083,6 +15091,7 @@ decadence
 decadences
 decadencies
 decadent
+decaf
 decagram
 decagrams
 decahedron
@@ -17545,6 +17554,7 @@ disseverment
 dissidences
 dissimilar
 dissimilarities
+dissimilarly
 dissimilated
 dissimilatory
 dissimilitudes
@@ -19106,6 +19116,7 @@ effaceable
 effacer
 effacing
 effect
+effected
 effector
 effectual
 effectually
@@ -19362,6 +19373,7 @@ elisions
 elitisms
 elixir
 elkhound
+ellipse
 elliptic
 ellipticals
 ells
@@ -19426,6 +19438,7 @@ emasculations
 embalm
 embalming
 embalmment
+embalmments
 embalms
 embanked
 embankments
@@ -19447,6 +19460,7 @@ embarring
 embassage
 embassages
 embassies
+embattlement
 embattling
 embay
 embaying
@@ -24918,6 +24932,7 @@ gastroscopy
 gastrotrichs
 gastrovascular
 gastrula
+gastrular
 gastrulas
 gastrulation
 gasts
@@ -26676,6 +26691,7 @@ guidance
 guidances
 guidebooks
 guided
+guideline
 guidelines
 guideposts
 guiders
@@ -28319,6 +28335,7 @@ hoards
 hoariest
 hoariness
 hoars
+hoarse
 hoarsened
 hoarsening
 hoarsens
@@ -29999,6 +30016,7 @@ implead
 impleader
 impleading
 impleads
+impledged
 implement
 implementor
 impletion
@@ -30800,6 +30818,7 @@ inflorescences
 influenceable
 influent
 influents
+influenza
 info
 infobahn
 infolder
@@ -31938,6 +31957,7 @@ irrationalism
 irrationalisms
 irrationalist
 irrationalistic
+irrationalists
 irrationalities
 irreality
 irreclaimably
@@ -32528,6 +32548,7 @@ jockos
 jockstrap
 jockstraps
 jocose
+jocosenesses
 jocular
 jocund
 jodhpurs
@@ -35857,6 +35878,7 @@ maledict
 maledicting
 maledictory
 malefaction
+malefactions
 malefactors
 maleficences
 malemiut
@@ -42474,6 +42496,7 @@ outdriving
 outdropping
 outdrunk
 outdueling
+outduelled
 outearned
 outeat
 outeating
@@ -42800,6 +42823,7 @@ outsprint
 outsprinted
 outsprints
 outstand
+outstanding
 outstare
 outstart
 outstated
@@ -43070,6 +43094,7 @@ overdiscounted
 overdocuments
 overdominances
 overdominant
+overdone
 overdose
 overdosed
 overdoses
@@ -44581,6 +44606,7 @@ patinized
 patins
 patissier
 patissiers
+patly
 patness
 patnesses
 patootie
@@ -47518,6 +47544,7 @@ poulticing
 poultry
 poultrymen
 poults
+pounce
 pounced
 pouncer
 pouncers
@@ -49085,6 +49112,7 @@ pruritic
 prussianise
 prussianises
 prussianize
+prussiate
 prussic
 pruta
 prutot
@@ -51347,6 +51375,7 @@ reengaged
 reengages
 reengineered
 reenjoy
+reenjoying
 reenlarge
 reenlarges
 reenlarging
@@ -58648,6 +58677,7 @@ spar
 sparable
 sparables
 spareable
+spared
 sparerib
 spares
 sparge
@@ -59783,6 +59813,7 @@ stereotypical
 stereotypically
 stereotypies
 stereotypy
+sterically
 sterigma
 sterilise
 sterilising
@@ -64915,6 +64946,7 @@ tripping
 trips
 triptan
 triptanes
+triptyca
 triptychs
 triremes
 trisaccharide
@@ -66207,6 +66239,7 @@ underdog
 underdone
 underdosed
 underdosing
+undereaten
 undereating
 undereats
 underemphasize
@@ -67876,6 +67909,7 @@ varicellas
 varicoceles
 varicolored
 varicose
+varicosed
 variedly
 variegate
 variegated
@@ -70101,6 +70135,7 @@ woodtones
 woodwaxen
 woodworkers
 woodworm
+woody
 wooer
 woof
 woofer
