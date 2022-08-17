@@ -1130,6 +1130,7 @@ airings
 airlifting
 airline
 airliner
+airmailing
 airmen
 airports
 airpower
@@ -2278,6 +2279,7 @@ antepasts
 antependium
 antepenult
 antepenultimas
+anterior
 anteverts
 anthelia
 anthelices
@@ -2827,6 +2829,7 @@ appetencies
 appetency
 appetisers
 appetising
+appetites
 appetitive
 appetizer
 appetizing
@@ -4724,6 +4727,7 @@ bashed
 bashers
 bashful
 bashing
+bashings
 basic
 basicity
 basidiomycetes
@@ -6958,6 +6962,7 @@ bowdlerised
 bowdlerising
 bowdlerizations
 bowdlerizes
+bowdlerizing
 bowed
 bowelled
 bowerbirds
@@ -6978,6 +6983,7 @@ bowlike
 bowling
 bowman
 bows
+bowsed
 bowshot
 bowshots
 bowstring
@@ -7641,6 +7647,7 @@ buhls
 buhlwork
 buhr
 build
+builddown
 builder
 builds
 buildups
@@ -8926,6 +8933,7 @@ cartelised
 cartelising
 cartelizations
 cartelize
+cartelized
 cartels
 cartes
 carthorses
@@ -10520,6 +10528,7 @@ circumference
 circumferences
 circumflex
 circumfluent
+circumfuse
 circumfusing
 circumfusion
 circumfusions
@@ -10582,6 +10591,7 @@ citrate
 citreous
 citric
 citriculturist
+citriculturists
 citrinins
 citrins
 citronellals
@@ -11275,6 +11285,7 @@ codriver
 cods
 codswallop
 coedit
+coedited
 coedits
 coeds
 coeducation
@@ -11990,6 +12001,7 @@ computerist
 computerizable
 computerize
 computerized
+computerizing
 computernik
 computerphobias
 computerphobic
@@ -13498,6 +13510,7 @@ coys
 cozenages
 cozening
 cozey
+cozeys
 cozie
 coziness
 cozy
@@ -14744,6 +14757,7 @@ dakoities
 dakoits
 dal
 dalapons
+dalasi
 dale
 daledh
 dales
@@ -15282,6 +15296,7 @@ decorativeness
 decorator
 decorators
 decorous
+decorousness
 decorticate
 decortications
 decorticator
@@ -15303,6 +15318,7 @@ decrepitate
 decrepitating
 decrepitudes
 decrescent
+decretive
 decrials
 decried
 decries
@@ -20889,6 +20905,7 @@ eudiometer
 eudiometers
 eudiometric
 eugenias
+eugenic
 eugenicist
 eugenics
 eugenist
@@ -29636,6 +29653,7 @@ ignorami
 ignoramuses
 ignorances
 ignorant
+ignorantly
 ignorantnesses
 ignore
 iguanians
@@ -30173,6 +30191,7 @@ inadmissibility
 inadmissible
 inadvertence
 inalienability
+inalienable
 inalienably
 inalterability
 inalterable
@@ -31330,6 +31349,7 @@ interconnecting
 interconnection
 interconnects
 interconverting
+interconverts
 intercooler
 intercorporate
 intercorrelate
@@ -34496,6 +34516,7 @@ liberty
 libidinal
 libidinously
 libido
+librae
 librarianship
 librate
 librated
@@ -35453,6 +35474,7 @@ lunchmeat
 lunchrooms
 lunchtime
 lunet
+lunets
 lunettes
 lungans
 lungee
@@ -36183,6 +36205,7 @@ marblers
 marbling
 marbly
 marcasites
+march
 marcher
 marches
 marchese
@@ -38869,6 +38892,7 @@ mosaicist
 mosaicists
 mosaicked
 mosaiclike
+mosaics
 moschate
 moschatels
 mosey
@@ -39566,6 +39590,7 @@ mythologically
 mythologize
 mythologized
 mythology
+mythopoetical
 mythos
 myxedematous
 myxedemic
@@ -39827,6 +39852,7 @@ neatnik
 neats
 nebbishy
 nebenkern
+nebenkerns
 nebulising
 nebulose
 nebulosities
@@ -40002,6 +40028,7 @@ nephridial
 nephrisms
 nephrite
 nephrites
+nephritic
 nephritises
 nephrologies
 nephrologist
@@ -40012,6 +40039,7 @@ nepotisms
 nepotists
 nerdier
 nerdiest
+nerds
 nerdy
 nereids
 nerol
@@ -50074,6 +50102,7 @@ racetrack
 racetrackers
 racewalk
 racewalkers
+racewalking
 racewalks
 raceway
 raceways
@@ -55233,6 +55262,7 @@ scotties
 scour
 scoured
 scourer
+scourgers
 scourges
 scourging
 scouring
@@ -57591,6 +57621,7 @@ slicken
 slickened
 slickenside
 slickers
+slickest
 slicknesses
 slickrock
 slicks
@@ -60266,6 +60297,7 @@ strickling
 stricks
 strict
 strictest
+stricture
 strictures
 stridden
 stride
@@ -61560,6 +61592,7 @@ surly
 surmise
 surmises
 surmounted
+surmullet
 surname
 surnamer
 surnamers
@@ -69710,6 +69743,7 @@ whumped
 whumping
 whupped
 whups
+why
 wicca
 wiccans
 wickapes
@@ -70647,6 +70681,7 @@ yukkier
 yukky
 yuks
 yules
+yuletide
 yum
 yummiest
 yummy
