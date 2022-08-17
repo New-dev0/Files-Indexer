@@ -1959,6 +1959,7 @@ anaphylactoid
 anaphylaxis
 anarch
 anarchies
+anarchism
 anarchist
 anarchy
 anarthrias
@@ -7229,6 +7230,7 @@ breakwall
 breakwater
 breastbones
 breastfeed
+breastpin
 breastpins
 breastplate
 breasts
@@ -7638,6 +7640,7 @@ budging
 budless
 budworms
 buffable
+buffaloberry
 buffaloed
 buffaloes
 buffalofish
@@ -12681,6 +12684,7 @@ contraries
 contrarieties
 contrariety
 contrarinesses
+contrasted
 contrastive
 contrasts
 contravene
@@ -13191,6 +13195,7 @@ cosec
 cosecants
 cosecs
 coseismals
+cosey
 coshers
 coshing
 cosie
@@ -14439,6 +14444,7 @@ curst
 curt
 curtail
 curtailers
+curtailment
 curtailments
 curtainless
 curtains
@@ -14711,6 +14717,7 @@ cytoplasms
 cytoplast
 cytoskeletal
 cytoskeleton
+cytoskeletons
 cytosols
 cytostatically
 cytostatics
@@ -15232,6 +15239,7 @@ decerned
 decertification
 decertifies
 decertify
+dechlorinates
 dechlorination
 deciares
 decidability
@@ -15446,6 +15454,7 @@ defeaters
 defeatism
 defeatures
 defecated
+defecating
 defecation
 defecator
 defect
@@ -15884,6 +15893,7 @@ denatured
 denazifies
 dendrimers
 dendrograms
+dendrological
 dendrologist
 dendrology
 denegations
@@ -16276,6 +16286,7 @@ despoilment
 despoliation
 despondence
 despondencies
+despondency
 despondent
 despondently
 despumate
@@ -17622,6 +17633,7 @@ disserted
 disserting
 disserve
 disserved
+disserves
 disserviceable
 disses
 disseverance
@@ -20017,6 +20029,7 @@ enfranchisement
 eng
 engage
 engaged
+engagedly
 engagements
 engagers
 engagingly
@@ -20446,6 +20459,7 @@ epigenists
 epigeous
 epiglottal
 epiglottic
+epigonism
 epigonisms
 epigrammatic
 epigrammatist
@@ -20834,6 +20848,7 @@ estivates
 estivator
 estivators
 estop
+estoppages
 estoppels
 estops
 estovers
@@ -21230,6 +21245,7 @@ excerpt
 excerpted
 excerpter
 excerpting
+excerption
 excerpts
 excess
 excessing
@@ -22376,6 +22392,7 @@ feminacy
 feminazi
 feminines
 femininities
+feminises
 feminism
 feministic
 feminities
@@ -25980,6 +25997,7 @@ godmothering
 godroon
 gods
 godships
+goer
 goethites
 gofer
 goffered
@@ -30218,6 +30236,7 @@ impressible
 impressing
 impression
 impressionist
+impressions
 impressive
 impressiveness
 impressment
@@ -30377,6 +30396,7 @@ incarcerate
 incarceration
 incarcerations
 incarnadining
+incarnated
 incarnates
 incases
 incasing
@@ -31231,6 +31251,7 @@ insetter
 insheathe
 insheathes
 insheaths
+inshrine
 inshrined
 inside
 insider
@@ -39234,6 +39255,7 @@ mudroom
 mudrooms
 mudslide
 mudslinger
+mudslingers
 mudslinging
 mudslingings
 mueddin
@@ -46655,6 +46677,7 @@ planchets
 planed
 planer
 planers
+planes
 planeside
 planesides
 planetaria
@@ -47904,9 +47927,11 @@ precarious
 precariousness
 precast
 precative
+precaution
 precede
 preceded
 precedences
+precedents
 precensor
 precensored
 precensoring
@@ -48899,6 +48924,7 @@ proletarianizes
 proletarians
 proliferations
 prolific
+prolificacies
 proline
 prolines
 prolixities
@@ -51926,6 +51952,7 @@ reifies
 reify
 reifying
 reign
+reigned
 reigning
 reignited
 reignition
@@ -52776,6 +52803,7 @@ reshingles
 reship
 reshipped
 reshipping
+reshod
 reshoe
 reshoed
 reshoes
@@ -56647,6 +56675,7 @@ sheets
 sheikh
 sheikhdom
 sheikhdoms
+sheikhs
 sheiks
 sheilas
 sheitan
@@ -60120,6 +60149,7 @@ stiller
 stillest
 stillier
 stillman
+stillrooms
 stills
 stilted
 stiltedly
@@ -63325,6 +63355,7 @@ tewed
 textbooks
 textile
 textless
+texts
 textuaries
 textuary
 texture
@@ -63973,6 +64004,7 @@ tinseled
 tinseling
 tinselling
 tinsmith
+tinsmithings
 tinsnips
 tinstone
 tint
@@ -68635,6 +68667,7 @@ vigilante
 vigilantes
 vigilantism
 vigilantisms
+vigilantly
 vigintillion
 vignerons
 vignetted
@@ -69785,6 +69818,7 @@ wheyfaced
 wheylike
 wheys
 whichsoever
+whid
 whidah
 whidahs
 whiffed
@@ -69880,6 +69914,7 @@ whitey
 whitherward
 whities
 whitish
+whitlow
 whits
 whitter
 whittle
