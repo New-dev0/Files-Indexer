@@ -84,6 +84,7 @@ absorptivity
 abstained
 abstainers
 abstaining
+abstains
 abstemiously
 abstemiousness
 absterge
@@ -2243,6 +2244,7 @@ anserine
 answer
 answerable
 answerer
+antae
 antagonisms
 antagonist
 antagonistic
@@ -4525,6 +4527,7 @@ bannerols
 bannister
 bannocks
 banns
+banqueters
 banquette
 banshie
 bantam
@@ -4594,6 +4597,7 @@ barflies
 bargaining
 barge
 bargeboard
+bargeboards
 barged
 bargees
 barges
@@ -4763,6 +4767,7 @@ bastinadoed
 bastioned
 bastions
 bat
+batch
 batcher
 bate
 bateau
@@ -7543,6 +7548,7 @@ buckbeans
 buckboard
 buckbrush
 buckbrushes
+buckeen
 buckeens
 buckers
 bucket
@@ -8731,6 +8737,7 @@ carcinogen
 carcinogenic
 carcinogenicity
 carcinoid
+carcinoids
 carcinoma
 carcinosarcoma
 cardamon
@@ -9204,6 +9211,7 @@ causeways
 causey
 causeys
 caustically
+causticities
 cauterants
 cauterization
 cautioners
@@ -10936,6 +10944,7 @@ cloven
 clovered
 cloverleaf
 cloves
+clowder
 clowning
 clownish
 clownishness
@@ -12080,6 +12089,7 @@ condensate
 condensations
 condenser
 condescend
+condescended
 condescends
 condescensions
 condign
@@ -13000,6 +13010,7 @@ corporators
 corporeal
 corporeality
 corporeally
+corporeities
 corposants
 corps
 corpses
@@ -16459,6 +16470,7 @@ dialects
 dialer
 dialers
 dialing
+dialings
 dialist
 diallages
 dialled
@@ -20938,6 +20950,7 @@ evanesces
 evangel
 evangelical
 evangelism
+evangelisms
 evangelistic
 evangelists
 evangelized
@@ -21022,6 +21035,7 @@ evonymus
 evonymuses
 evulsed
 evulsing
+evulsion
 evulsions
 evzone
 ewe
@@ -21641,6 +21655,7 @@ eyedropper
 eyefolds
 eyehooks
 eyelash
+eyeless
 eyelets
 eyeletted
 eyeletting
@@ -21823,6 +21838,7 @@ fallacies
 fallacious
 fallaciousness
 fallaleries
+fallbacks
 faller
 fallers
 fallible
@@ -23966,6 +23982,7 @@ frazzling
 freaked
 freakily
 freakinesses
+freakish
 freakishness
 freakout
 freaks
@@ -24207,6 +24224,7 @@ frowzily
 froze
 frozenly
 frozennesses
+fructify
 fructifying
 fructoses
 frugality
@@ -25253,6 +25271,7 @@ ghibli
 ghiblis
 ghosted
 ghostier
+ghosting
 ghostings
 ghostliest
 ghostly
@@ -26728,6 +26747,7 @@ gunroom
 gunrunner
 gunrunning
 gunsel
+gunsels
 gunshots
 gunslinger
 gunslinging
@@ -28117,6 +28137,7 @@ hierology
 hierophantic
 hierophants
 hierurgy
+hifalutin
 higgled
 higgler
 higgles
@@ -29355,6 +29376,7 @@ hypodermically
 hypoed
 hypogastric
 hypogeal
+hypogene
 hypoglossal
 hypoglossals
 hypoglycemic
@@ -29560,6 +29582,7 @@ ignite
 ignited
 igniter
 ignites
+ignition
 ignitors
 ignitron
 ignobility
@@ -36653,6 +36676,7 @@ megalomanias
 megalomanic
 megalopolis
 megalopolises
+megalopolitan
 megalops
 megalopses
 megaphoning
@@ -37747,6 +37771,7 @@ misbeginning
 misbegot
 misbehaved
 misbehaves
+misbehavior
 misbehaviors
 misbelief
 misbeliever
@@ -44076,6 +44101,7 @@ paragenesis
 paraglide
 paraglides
 paragliding
+paragon
 paragons
 paragraph
 paragraphed
@@ -44663,6 +44689,7 @@ peasantries
 peasants
 peascod
 pease
+peashooter
 peashooters
 peasoupers
 peatier
@@ -50178,6 +50205,7 @@ ramee
 ramees
 ramekin
 ramen
+ramets
 ramie
 ramies
 ramification
@@ -53652,6 +53680,7 @@ roomies
 roominesses
 rooming
 roommates
+roomy
 roorback
 rooser
 rooses
@@ -54001,6 +54030,7 @@ runarounds
 runback
 rundles
 rundlet
+rundowns
 rune
 runelike
 runes
@@ -56533,6 +56563,7 @@ shoe
 shoeblacks
 shoebox
 shoehorns
+shoeing
 shoelaces
 shoemakers
 shoepac
@@ -57683,6 +57714,7 @@ smaragdes
 smaragdite
 smaragdites
 smarm
+smart
 smarter
 smarties
 smartweeds
@@ -63544,6 +63576,7 @@ tilth
 tiltmeter
 tiltmeters
 tiltrotor
+tiltrotors
 tilts
 timbal
 timbale
@@ -68362,6 +68395,7 @@ vireo
 vireonine
 vireonines
 vires
+virescences
 virga
 virgas
 virgate
@@ -69867,6 +69901,7 @@ withes
 withholder
 withiest
 withindoors
+withing
 withins
 withouts
 withstood
