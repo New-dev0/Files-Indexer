@@ -1987,6 +1987,7 @@ anchoritically
 anchorless
 anchorpeople
 anchorwomen
+anchos
 anchovetas
 anchovettas
 anchylosed
@@ -2160,6 +2161,7 @@ anisole
 anisometropia
 anisometropias
 anisotropically
+anisotropy
 ankerite
 ankh
 anklet
@@ -2465,6 +2467,7 @@ antimodernist
 antimonarchists
 antimonic
 antimosquito
+antimusic
 antimycin
 antimycins
 antinarrative
@@ -2974,6 +2977,7 @@ arbiter
 arbiters
 arbitraged
 arbitragers
+arbitrament
 arbitrarinesses
 arbitrated
 arbitrates
@@ -5488,6 +5492,7 @@ besiege
 besieger
 besieging
 besliming
+besmearers
 besmears
 besmiled
 besmiles
@@ -7028,6 +7033,7 @@ boylas
 boys
 boysenberry
 brabble
+brabblers
 brabbles
 brace
 braced
@@ -8431,6 +8437,7 @@ canalising
 canalization
 canalizing
 canalled
+canaller
 canalling
 canape
 canapes
@@ -8524,6 +8531,7 @@ canoeists
 canola
 canolas
 canonical
+canonise
 canonised
 canonises
 canonising
@@ -10385,6 +10393,7 @@ chuckle
 chuckleheaded
 chuckleheads
 chuckler
+chucklers
 chuckles
 chuckwalla
 chuddah
@@ -10775,6 +10784,7 @@ claying
 clayish
 claymore
 claystone
+claystones
 cleanabilities
 cleanable
 cleaned
@@ -15602,6 +15612,7 @@ deifying
 deigning
 deindustrialize
 deinonychuses
+deionized
 deionizer
 deionizers
 deionizing
@@ -16604,6 +16615,7 @@ diatomite
 diatoms
 diatribe
 diazepams
+diazinon
 diazinons
 diazins
 diazo
@@ -17155,6 +17167,7 @@ discomfitures
 discomfort
 discomfortable
 discomforting
+discommend
 discommends
 discommode
 discommodes
@@ -24465,6 +24478,7 @@ funhouses
 funiculars
 funiculi
 funked
+funkers
 funkia
 funkier
 funkiness
@@ -24719,6 +24733,7 @@ gallonage
 gallonages
 gallons
 galloons
+galloot
 galloper
 gallops
 galluses
@@ -29107,6 +29122,7 @@ hungry
 hunk
 hunkey
 hunkeys
+hunkie
 hunky
 huns
 hunted
@@ -29590,6 +29606,7 @@ identifiers
 identifies
 identify
 identifying
+identikit
 identities
 identity
 ideogram
@@ -30857,6 +30874,7 @@ influenza
 info
 infobahn
 infolder
+infolders
 infomercials
 inform
 informal
@@ -33925,6 +33943,7 @@ larrikins
 larruped
 larrupers
 larruping
+lars
 larum
 larvae
 larvas
@@ -33939,6 +33958,7 @@ laryngitis
 laryngoscope
 laryngoscopes
 lasagna
+lasagne
 lasagnes
 lascivious
 lasciviousness
@@ -37366,6 +37386,7 @@ micrograph
 micrographed
 micrographic
 micrographing
+microhabitats
 microhms
 microimages
 microinch
@@ -39232,6 +39253,7 @@ multilingualism
 multilobe
 multilobes
 multimedia
+multimegawatt
 multimember
 multimetallic
 multimolecular
@@ -44297,6 +44319,7 @@ pararosanilines
 parasailing
 parasailings
 parasang
+parasangs
 parasexual
 parasexuality
 parashahs
@@ -44651,6 +44674,7 @@ patients
 patin
 patina
 patinae
+patinas
 patinated
 patinations
 patine
@@ -45206,6 +45230,7 @@ perennials
 perestroikas
 perfecta
 perfecters
+perfectest
 perfectible
 perfectionisms
 perfectionist
@@ -45376,6 +45401,7 @@ perpends
 perpents
 perpetrated
 perpetrating
+perpetration
 perpetrations
 perpetrator
 perpetrators
@@ -46340,6 +46366,7 @@ pion
 pions
 piosity
 pious
+pip
 pipage
 pipal
 pipeage
@@ -46643,6 +46670,7 @@ platyfish
 platyfishes
 platyhelminthic
 platypi
+platypus
 plausibilities
 plausibleness
 plausibly
@@ -49065,6 +49093,7 @@ protohistorian
 protohistorians
 protohistories
 protomartyr
+proton
 protonema
 protonemata
 protonematal
@@ -51135,6 +51164,7 @@ recrate
 recrates
 recreancies
 recreancy
+recreants
 recreating
 recreationists
 recreative
@@ -53411,6 +53441,7 @@ ribozymes
 ribs
 ribworts
 ricebird
+riced
 ricercar
 ricercari
 richen
@@ -59459,6 +59490,7 @@ squooshed
 squooshes
 squooshier
 squooshiest
+squushing
 sraddha
 sradha
 sri
@@ -63832,6 +63864,7 @@ tipped
 tippers
 tippet
 tipping
+tipsily
 tipstaff
 tipster
 tipsters
@@ -65788,6 +65821,7 @@ ultrahuman
 ultraist
 ultraleftism
 ultraleftists
+ultraliberalism
 ultraliberals
 ultralight
 ultralow
@@ -69248,6 +69282,7 @@ waterbeds
 waterbirds
 waterborne
 waterbus
+watercolorists
 watercooler
 watercraft
 watercrafts
