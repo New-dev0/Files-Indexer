@@ -5781,6 +5781,7 @@ bildungsroman
 bilevel
 bilevels
 bilgiest
+bilging
 bilharziases
 biliary
 bilinear
@@ -7082,6 +7083,7 @@ bracingly
 braciole
 bracioles
 bracken
+brackens
 bracket
 bracketing
 brackets
@@ -8575,6 +8577,7 @@ canonising
 canonist
 canonists
 canonizations
+canonize
 canonized
 canonizer
 canonry
@@ -8703,6 +8706,7 @@ capsizing
 capsomer
 capstan
 capstans
+capstones
 capsulate
 capsulated
 capsulizes
@@ -18653,6 +18657,7 @@ druggy
 drugmaker
 drugmakers
 druid
+drumbeater
 drumbeaters
 drumbeating
 drumbeatings
@@ -20857,6 +20862,7 @@ especially
 esperances
 espial
 espiegleries
+espouse
 espouses
 esprit
 espy
@@ -25873,6 +25879,7 @@ glossarial
 glossarists
 glossator
 glossators
+glossed
 glossemes
 glosser
 glossiest
@@ -26357,6 +26364,7 @@ granodiorite
 granola
 granolith
 granophyre
+grantable
 grantee
 grantees
 granters
@@ -27532,6 +27540,7 @@ harl
 harlequin
 harlequinades
 harlotries
+harlotry
 harlots
 harm
 harmful
@@ -28178,6 +28187,7 @@ herma
 hermae
 hermaean
 hermaphrodite
+hermeneutical
 hermeneutically
 hermeneutics
 hermetic
@@ -31624,6 +31634,7 @@ interjection
 interjectional
 interjector
 interjectory
+interjects
 interjoins
 interknitting
 interknot
@@ -31954,6 +31965,7 @@ inure
 inurement
 inurements
 inurn
+inurning
 inurnment
 inurnments
 inutile
@@ -33461,6 +33473,7 @@ kinked
 kinkiest
 kinkily
 kinkinesses
+kinsfolk
 kinsmen
 kiosks
 kippered
@@ -35270,6 +35283,7 @@ locoism
 locomotes
 locomoting
 locomotions
+locomotives
 locomotor
 locomotors
 locos
@@ -36653,6 +36667,7 @@ matchmark
 matchmarks
 matchstick
 matchsticks
+matchups
 matchwood
 matelasses
 matelotes
@@ -38370,6 +38385,7 @@ misquoters
 misquotes
 misrated
 misrating
+misreads
 misreckons
 misrecord
 misrecorded
@@ -43537,6 +43553,7 @@ overlabored
 overlaboring
 overlade
 overladen
+overlands
 overlap
 overlavish
 overlay
@@ -45080,6 +45097,7 @@ pecorino
 pecten
 pectic
 pectinaceous
+pectination
 pectized
 pectizes
 pectoral
@@ -45478,6 +45496,7 @@ perfusates
 perfused
 perfuses
 perfusion
+perhapses
 periapses
 periblems
 pericardia
@@ -46810,6 +46829,7 @@ planlessness
 planlessnesses
 planned
 planosol
+plans
 plantable
 plantain
 plantains
@@ -48205,6 +48225,7 @@ preexilic
 preexistences
 preexists
 preexperiment
+preexpose
 preexposes
 prefabbing
 prefabricates
@@ -52177,6 +52198,7 @@ reinvoke
 reinvokes
 reinvoking
 reinvolved
+reinvolves
 reissue
 reitbok
 reiterate
@@ -53525,6 +53547,7 @@ revocably
 revoice
 revoiced
 revoicing
+revoker
 revolter
 revolute
 revolutionaries
@@ -53573,6 +53596,7 @@ rewired
 rewires
 rewiring
 rewoke
+rewoken
 rewon
 reworded
 rework
@@ -56522,6 +56546,7 @@ settlers
 settling
 settlings
 settlors
+setts
 seventh
 seventhly
 sevenths
@@ -56782,6 +56807,7 @@ sheeniest
 sheening
 sheeny
 sheepberries
+sheepberry
 sheepcot
 sheepcotes
 sheepdog
@@ -57736,6 +57762,7 @@ skimobile
 skimobiles
 skimos
 skimp
+skimpiness
 skimping
 skimpy
 skinflicks
@@ -59752,6 +59779,7 @@ squinters
 squintest
 squinting
 squintingly
+squints
 squinty
 squirearchies
 squirearchy
@@ -59819,6 +59847,7 @@ staffing
 stageable
 stagecoach
 stagecoaches
+stageful
 stagefuls
 stagehand
 stagehands
@@ -60508,6 +60537,7 @@ strabismic
 strabismus
 strabismuses
 straddle
+strafed
 strafers
 straggle
 straggled
@@ -61903,6 +61933,7 @@ suprematism
 suprematist
 suprematists
 supreme
+supremely
 supremenesses
 supremes
 supremest
@@ -62363,6 +62394,7 @@ synchronized
 synchronous
 synchronously
 synchs
+syncom
 syncoms
 syncopal
 syncopate
@@ -62638,6 +62670,7 @@ tali
 talion
 talisman
 talismanically
+talismans
 talkable
 talkathon
 talkers
@@ -65789,6 +65822,7 @@ turbocharger
 turboelectric
 turbofan
 turbogenerator
+turbos
 turbulence
 turbulencies
 turbulently
@@ -68666,6 +68700,7 @@ versatility
 verse
 verseman
 versers
+verses
 versifications
 versified
 versifier
