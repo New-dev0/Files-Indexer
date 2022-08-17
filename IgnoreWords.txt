@@ -5639,6 +5639,7 @@ biassing
 biaxal
 biaxially
 bibbed
+bibberies
 bibbery
 bibelot
 bibless
@@ -6910,6 +6911,7 @@ boughs
 bought
 bougie
 bouillabaisse
+bouillon
 bouldered
 boulderer
 boulderers
@@ -9103,6 +9105,7 @@ catamaran
 catamarans
 catamite
 catamounts
+cataphoresis
 cataphylls
 cataplasms
 cataplexies
@@ -11311,6 +11314,7 @@ coeducationally
 coeducations
 coeffect
 coelacanth
+coelacanths
 coelenterates
 coelomata
 coelomate
@@ -13222,6 +13226,7 @@ coterminously
 cothurni
 cothurnus
 cotillion
+cotillon
 cotinga
 cotoneasters
 cotransduce
@@ -15388,6 +15393,7 @@ defacer
 defacers
 defacing
 defalcate
+defalcated
 defalcates
 defalcating
 defalcation
@@ -16235,6 +16241,7 @@ despisements
 despiser
 despises
 despising
+despiteful
 despites
 despiting
 despoiler
@@ -16276,6 +16283,7 @@ desuetude
 desugar
 desugared
 desugaring
+desugars
 desulfurizing
 desultoriness
 detach
@@ -16555,6 +16563,7 @@ dialyzes
 dialyzing
 diamagnet
 diamagnetic
+diamagnetism
 diamante
 diamantes
 diameter
@@ -17161,6 +17170,7 @@ discographic
 discolouring
 discolours
 discombobulate
+discombobulates
 discomfiting
 discomfiture
 discomfitures
@@ -22554,6 +22564,7 @@ fictionization
 fictionizations
 fictitious
 fictitiousness
+fiddleback
 fiddled
 fiddlehead
 fiddleheads
@@ -22991,6 +23002,7 @@ flaps
 flare
 flared
 flareup
+flash
 flashback
 flashbacks
 flashcard
@@ -24979,6 +24991,7 @@ gastrovascular
 gastrula
 gastrular
 gastrulas
+gastrulate
 gastrulation
 gasts
 gasworks
@@ -25276,6 +25289,7 @@ geotropisms
 gerah
 gerahs
 geranial
+geranials
 geraniums
 gerbilles
 gerbils
@@ -39155,6 +39169,7 @@ mudpuppies
 mudpuppy
 mudras
 mudrocks
+mudroom
 mudrooms
 mudslide
 mudslinger
@@ -43083,6 +43098,7 @@ overbuild
 overburdened
 overburdening
 overburned
+overburning
 overbuys
 overcall
 overcalled
@@ -43166,6 +43182,7 @@ overdirect
 overdirecting
 overdiscounted
 overdocuments
+overdoes
 overdominances
 overdominant
 overdone
@@ -49192,6 +49209,7 @@ pruning
 pruriences
 pruriencies
 pruriency
+prurigos
 pruritic
 prussianise
 prussianises
@@ -51181,6 +51199,7 @@ recrudescences
 recruited
 recruiter
 recruiting
+recruitments
 recrystallizing
 rectangular
 rectifiability
@@ -51806,6 +51825,7 @@ rehearsers
 rehearses
 reheated
 reheater
+reheel
 reheeled
 rehemmed
 rehinges
@@ -53066,6 +53086,7 @@ retransferring
 retransfers
 retransform
 retransformed
+retransforming
 retransforms
 retranslation
 retransmission
@@ -53212,6 +53233,7 @@ reverse
 reversers
 reversibilities
 reversibility
+reversibly
 revert
 revertant
 revertants
@@ -54927,6 +54949,7 @@ savoy
 savoys
 savvier
 savvies
+sawbill
 sawbills
 sawboneses
 sawbucks
@@ -56442,6 +56465,7 @@ shareholder
 shareholders
 shares
 sharewares
+shariahs
 sharias
 sharif
 sharifs
@@ -59021,6 +59045,7 @@ spike
 spiked
 spikelike
 spikenards
+spikily
 spiks
 spiky
 spilings
@@ -60220,6 +60245,7 @@ strabismus
 strabismuses
 straddle
 strafers
+straggle
 straggled
 straggler
 stragglers
@@ -61307,6 +61333,7 @@ sunscreening
 sunseekers
 sunshine
 sunshines
+sunshiny
 sunspot
 sunstones
 sunstruck
@@ -61399,6 +61426,7 @@ superfast
 superfatted
 superficial
 superfine
+superfirm
 superfluids
 superfluities
 superfluousness
@@ -62564,6 +62592,7 @@ tarts
 tartuffe
 tarzan
 tarzans
+tas
 taskbars
 tasking
 taskmaster
@@ -62747,6 +62776,7 @@ teenaged
 teenager
 teenagers
 teener
+teentsier
 tees
 teeterboards
 teetering
@@ -66533,6 +66563,7 @@ undoubting
 undramatically
 undramatized
 undraping
+undreamt
 undress
 undressing
 undrest
@@ -67282,6 +67313,7 @@ unsoundness
 unsoundnesses
 unsoured
 unsown
+unspeak
 unspeakably
 unspeaking
 unspeaks
@@ -69155,6 +69187,7 @@ warded
 wardenries
 wardens
 wardenship
+wardenships
 warding
 wardress
 wardrobes
@@ -69620,6 +69653,7 @@ wheeping
 wheeples
 wheeps
 wheezed
+wheezer
 wheezy
 whelkiest
 whelky
@@ -69987,6 +70021,7 @@ wines
 winesap
 winesaps
 wineskin
+wineskins
 wingbacks
 wingbows
 wingchairs
