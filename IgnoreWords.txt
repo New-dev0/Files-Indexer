@@ -782,6 +782,7 @@ aeroembolisms
 aerogrammes
 aerograms
 aerolites
+aerolith
 aerolitic
 aeromechanics
 aeromedicine
@@ -838,6 +839,7 @@ affective
 affectivities
 affectivity
 affectless
+affectlessness
 affenpinscher
 affenpinschers
 afferently
@@ -2393,6 +2395,7 @@ anticorrosives
 anticruelty
 anticult
 anticults
+anticultural
 anticyclone
 antidepressant
 antiderivative
@@ -3349,6 +3352,7 @@ ascetical
 asceticisms
 ascidia
 ascites
+asclepiad
 asclepiads
 ascocarp
 ascocarpic
@@ -3777,6 +3781,7 @@ attracter
 attractions
 attractors
 attributing
+attribution
 attributional
 attributions
 attributive
@@ -5387,6 +5392,7 @@ bends
 bendwise
 benedict
 benedictions
+benefactions
 beneficences
 beneficent
 beneficently
@@ -5559,6 +5565,7 @@ bestrewed
 bestrews
 bestrid
 bestrides
+bestrow
 bestrowed
 bestudding
 bestuds
@@ -6391,6 +6398,7 @@ bloomers
 bloomiest
 blooming
 bloomless
+blooped
 blooper
 bloopers
 bloops
@@ -6525,6 +6533,7 @@ boaster
 boastful
 boasting
 boasts
+boatable
 boatbuilders
 boatbuilding
 boated
@@ -12442,6 +12451,7 @@ conniver
 connivers
 connives
 conniving
+connoisseur
 connotation
 connotational
 connotations
@@ -14706,6 +14716,7 @@ cymars
 cymatia
 cymbal
 cymbaler
+cymbalers
 cymbalom
 cymbidium
 cyme
@@ -15274,6 +15285,7 @@ decennials
 decenniums
 decenter
 decentering
+decentest
 decently
 decentralize
 decentralizes
@@ -15818,6 +15830,7 @@ demagogically
 demagogs
 demagogue
 demagogueries
+demagogues
 demagoguing
 demandable
 demandant
@@ -17496,6 +17509,7 @@ disjoin
 disjointedness
 disjoints
 disjunct
+disjunction
 disjunctions
 disjunctive
 disjunctively
@@ -27583,6 +27597,7 @@ harpoon
 harpooned
 harpooners
 harpooning
+harpoons
 harpsichord
 harpsichordists
 harquebus
@@ -28977,6 +28992,7 @@ hornstone
 hornswoggles
 horntail
 hornworm
+hornworts
 horological
 horologists
 horology
@@ -29415,6 +29431,7 @@ hydrographer
 hydrography
 hydrokinetic
 hydrologic
+hydrological
 hydrolytic
 hydrolyzes
 hydromechanical
@@ -31649,6 +31666,7 @@ interjectional
 interjector
 interjectory
 interjects
+interjoined
 interjoins
 interknitting
 interknot
@@ -33090,6 +33108,7 @@ kallikrein
 kalmia
 kalong
 kalpa
+kalpacs
 kalpak
 kalpas
 kalsomined
@@ -34636,6 +34655,7 @@ leucocidins
 leucocyte
 leucocytes
 leucoplasts
+leudes
 leuds
 leukaemias
 leukemia
@@ -35632,6 +35652,7 @@ luck
 lucked
 lucking
 luckless
+lucratively
 lucrativeness
 lucrativenesses
 lucubrate
@@ -38706,6 +38727,7 @@ molesters
 molesting
 molests
 mollah
+mollie
 mollification
 mollified
 mollifier
@@ -40304,6 +40326,7 @@ nerdy
 nereids
 nerol
 neroli
+nerved
 nervelessnesses
 nerves
 nervier
@@ -40485,6 +40508,7 @@ nicker
 nickered
 nickering
 nickers
+nickled
 nickling
 nickname
 nicol
@@ -41847,6 +41871,7 @@ ochre
 ochreae
 ochrous
 ochry
+ocicat
 ocker
 ocotillo
 ocrea
@@ -43950,6 +43975,7 @@ oxyacetylene
 oxycodones
 oxygenate
 oxygenated
+oxygenates
 oxygenation
 oxygenations
 oxygenic
@@ -45755,6 +45781,7 @@ pervade
 pervaded
 pervader
 pervaders
+pervades
 pervasions
 pervasively
 pervasiveness
@@ -46692,6 +46719,7 @@ piso
 pisolites
 pisolith
 pisoliths
+pisser
 pissing
 pistareen
 pistareens
@@ -48310,6 +48338,7 @@ prehardens
 preharvest
 preheat
 preheaters
+preheats
 prehensilities
 prehensility
 prehistorian
@@ -49489,6 +49518,7 @@ prussic
 pruta
 prutot
 prutoth
+pryingly
 prythee
 psalmbooks
 psalmed
@@ -53936,6 +53966,7 @@ rippled
 ripplet
 ripplets
 rippling
+ripply
 riprapped
 ripraps
 rips
@@ -56871,6 +56902,7 @@ sheiks
 sheilas
 sheitan
 shekel
+sheldrakes
 shelf
 shelfful
 shellack
@@ -61377,6 +61409,7 @@ subvenes
 subventions
 subversions
 subversive
+subversively
 subversiveness
 subvert
 subverter
@@ -65499,6 +65532,7 @@ trochoid
 trochophore
 trocked
 trocking
+trod
 trog
 troglodyte
 trogs
@@ -69219,6 +69253,7 @@ voicing
 voicings
 void
 volante
+volatile
 volatilities
 volatilizations
 volatilize
