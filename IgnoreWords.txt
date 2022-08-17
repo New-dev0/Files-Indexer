@@ -1881,6 +1881,7 @@ anabioses
 anabiotic
 anablepses
 anabranch
+anachronic
 anachronism
 anachronistic
 anaclises
@@ -4582,6 +4583,7 @@ baptismal
 baptismally
 baptisms
 baptist
+baptistery
 baptizers
 barbal
 barbarianisms
@@ -10531,6 +10533,7 @@ cinchonic
 cinchonisms
 cincture
 cinderous
+cinders
 cine
 cinema
 cinematheque
@@ -10626,6 +10629,7 @@ cirrus
 cirsoid
 cisco
 ciscoes
+ciscos
 cislunar
 cisplatin
 cisplatins
@@ -12515,6 +12519,7 @@ consociational
 consociations
 consolation
 consolations
+consoler
 consolidated
 consolidates
 consolidating
@@ -13909,6 +13914,7 @@ crimsoned
 crimsoning
 crimsons
 cringer
+cringes
 cringing
 cringle
 cringles
@@ -23098,6 +23104,7 @@ flameproofs
 flames
 flamier
 flamiest
+flamines
 flammabilities
 flammable
 flamy
@@ -24434,6 +24441,7 @@ froths
 frothy
 frotteur
 frotteurs
+froufrou
 frouncing
 frouziest
 frowardnesses
@@ -24549,6 +24557,7 @@ fullness
 fulminated
 fulminates
 fulminating
+fulmines
 fulminic
 fulness
 fulnesses
@@ -24888,6 +24897,7 @@ galvanization
 galvanize
 galvanized
 galvanizing
+galvanometer
 galvanometers
 galvanoscopes
 galyac
@@ -25585,6 +25595,7 @@ gimleting
 gimlets
 gimmals
 gimmick
+gimmicked
 gimmicks
 gimmies
 gimping
@@ -26332,6 +26343,7 @@ grandaddies
 grandames
 grandaunt
 grandaunts
+grandbabies
 grandchild
 granddad
 granddaddy
@@ -29706,6 +29718,7 @@ icefall
 icehouse
 icekhanas
 icemaker
+ich
 ichneumon
 ichor
 ichorous
@@ -31537,6 +31550,7 @@ interceptions
 intercession
 intercessors
 interchange
+interchangeable
 interchanger
 intercity
 interclub
@@ -32410,6 +32424,7 @@ its
 itself
 ivermectin
 ivermectins
+ivies
 ivories
 ivory
 ivorybills
@@ -34670,6 +34685,7 @@ levulin
 levulose
 levying
 lewd
+lewder
 lewises
 lewisson
 lewissons
@@ -34819,6 +34835,7 @@ lifting
 liftmen
 ligamentous
 ligaments
+ligan
 ligands
 ligans
 ligation
@@ -40829,6 +40846,7 @@ nonconformed
 nonconforming
 nonconformisms
 nonconformists
+nonconformity
 nonconforms
 noncongruent
 nonconnection
@@ -42577,6 +42595,7 @@ osteal
 osteitides
 osteitis
 ostensorium
+ostentation
 ostentations
 osteoblast
 osteoblastic
@@ -43082,6 +43101,7 @@ outsit
 outsits
 outsitting
 outsized
+outsizes
 outskated
 outskirts
 outslick
@@ -44527,7 +44547,9 @@ parang
 parangs
 paranoiac
 paranoias
+paranoics
 paranoidal
+paranormalities
 paranormals
 paranymphs
 parapeted
@@ -46375,6 +46397,7 @@ picrites
 picrotoxins
 pics
 pictogram
+pictograph
 pictographies
 pictographs
 pictography
@@ -47546,6 +47569,7 @@ popping
 poppled
 poppy
 poppycock
+poppyhead
 pops
 popsicles
 popsies
@@ -51342,6 +51366,7 @@ recomputed
 recomputes
 reconceived
 reconcentrate
+reconcentrates
 reconcentration
 reconceptions
 reconcilability
@@ -51917,6 +51942,7 @@ refreshening
 refresher
 refreshers
 refreshes
+refreshing
 refreshment
 refreshments
 refries
@@ -52124,6 +52150,7 @@ reimport
 reimportation
 reimported
 reimports
+reimposed
 reimpositions
 reincarnate
 reincarnates
@@ -52255,6 +52282,7 @@ relabelled
 relabelling
 relacquer
 relacquered
+relapser
 relapsers
 relapses
 related
@@ -52870,6 +52898,7 @@ resailed
 resails
 resaluted
 resamples
+resampling
 resaw
 resaws
 rescale
@@ -55370,6 +55399,7 @@ scars
 scarted
 scarting
 scary
+scat
 scatback
 scathe
 scathed
@@ -57671,6 +57701,7 @@ skaldship
 skanker
 skankier
 skanking
+skateboarder
 skateboarding
 skateboards
 skater
@@ -60187,6 +60218,7 @@ stenos
 stenosis
 stenotherm
 stenotherms
+stenotype
 stenotypist
 stenotypy
 step
@@ -62443,6 +62475,7 @@ synesthesias
 synfuel
 synfuels
 syngases
+syngeneic
 syngenic
 synkarya
 synod
@@ -69335,6 +69368,7 @@ vulturous
 vulvar
 vulvate
 vum
+vying
 wabble
 wabbled
 wabblier
@@ -71229,6 +71263,7 @@ zestiest
 zesting
 zeugmas
 zibeline
+zibet
 zidovudine
 zig
 zigzagged
