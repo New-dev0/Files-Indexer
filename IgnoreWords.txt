@@ -2324,6 +2324,7 @@ anthills
 anthocyanins
 anthocyans
 anthodia
+anthodium
 anthoid
 anthologies
 anthologists
@@ -9412,6 +9413,7 @@ cedary
 ceders
 ceding
 cedis
+cedulas
 cees
 ceibas
 ceiler
@@ -10666,6 +10668,7 @@ circumlunar
 circumnavigated
 circumscissile
 circumscription
+circumspect
 circumspections
 circumstance
 circumvallate
@@ -15001,6 +15004,7 @@ danazol
 danazols
 dance
 danceable
+dances
 dandering
 dandiacal
 dandies
@@ -15849,6 +15853,7 @@ delightfully
 delights
 delightsome
 delime
+delimed
 delimes
 delimiter
 delineated
@@ -17483,6 +17488,7 @@ disequilibrates
 disequilibriums
 disestablish
 disestablished
+disestablishes
 disesteem
 disesteemed
 disesteeming
@@ -19578,6 +19584,7 @@ electropositive
 electroscope
 electrostatic
 electrosurgical
+electrotherapy
 electrotonic
 electrotyped
 electrotypes
@@ -22940,6 +22947,7 @@ finagle
 finagled
 finagler
 finagles
+finagling
 finalis
 finalised
 finalism
@@ -23013,6 +23021,7 @@ fioratura
 fioraturae
 fipple
 fique
+fiques
 fir
 fire
 firearmed
@@ -26346,6 +26355,7 @@ gormed
 gormless
 gorp
 gorps
+gorse
 gos
 gosh
 goshawks
@@ -26640,6 +26650,7 @@ graylag
 grayly
 grayouts
 graywater
+graywaters
 grazable
 grazeable
 grazer
@@ -33924,6 +33935,7 @@ kyanised
 kyanite
 kyanizing
 kyar
+kyars
 kybosh
 kyboshing
 kyes
@@ -34457,6 +34469,7 @@ lavatories
 lave
 laved
 laveered
+lavendering
 laverock
 laving
 lavrock
@@ -35184,6 +35197,7 @@ linksman
 linksmen
 linkups
 linkwork
+linkworks
 linnet
 linocuts
 linoleate
@@ -37462,6 +37476,7 @@ mesencephalic
 mesenchymal
 mesenchymes
 mesentera
+mesenteries
 mesenteron
 mesh
 meshier
@@ -37646,6 +37661,7 @@ methodists
 methodized
 methodologies
 methodologist
+methought
 methoxide
 methoxides
 methoxy
@@ -40908,6 +40924,7 @@ nomism
 nomistic
 nomogram
 nomographic
+nomography
 nomology
 noms
 nonabrasive
@@ -43053,6 +43070,7 @@ outflying
 outfool
 outfooling
 outfoots
+outfought
 outgain
 outgained
 outgaining
@@ -45242,6 +45260,7 @@ paxwax
 payables
 payably
 payback
+paycheck
 paychecks
 paydays
 payer
@@ -47849,6 +47868,7 @@ porrect
 porringer
 porringers
 port
+portabella
 portabellas
 portably
 portages
@@ -49965,6 +49985,7 @@ pulmonic
 pulper
 pulpers
 pulpily
+pulpital
 pulps
 pulpwoods
 pulques
@@ -51647,6 +51668,7 @@ reconnoitre
 reconnoitred
 reconquer
 reconquest
+recons
 reconsecrates
 reconsecrating
 reconsider
@@ -52167,6 +52189,7 @@ refounds
 refractile
 refraction
 refractive
+refractively
 refractiveness
 refractometers
 refractometric
@@ -52308,6 +52331,7 @@ regressor
 regretfulness
 regretfulnesses
 regrettable
+regrettably
 regretted
 regrinds
 regroom
@@ -57023,6 +57047,7 @@ shannies
 shantey
 shantis
 shantung
+shantytown
 shantytowns
 shapeliness
 shapeup
@@ -58378,6 +58403,7 @@ slogs
 slojd
 sloop
 sloops
+slop
 slope
 sloper
 sloping
@@ -59474,6 +59500,7 @@ specify
 specious
 speciousness
 specked
+specking
 speckle
 speckles
 specs
@@ -59650,6 +59677,7 @@ spilt
 spilths
 spinach
 spinachy
+spinals
 spinate
 spindle
 spindler
@@ -60589,6 +60617,7 @@ stickled
 sticklers
 stickles
 stickling
+stickman
 stickmen
 stickout
 stickouts
@@ -61387,6 +61416,7 @@ subjectivizing
 subjectless
 subjects
 subjoin
+subjoins
 subjugating
 subjugations
 subjugator
@@ -63197,6 +63227,7 @@ tarpaper
 tarpapers
 tarps
 tarradiddle
+tarragon
 tarragons
 tarried
 tarriers
@@ -63759,6 +63790,7 @@ terrarium
 terrariums
 terrases
 terrazzo
+terreen
 terrella
 terrenes
 terrepleins
@@ -64425,6 +64457,7 @@ tilak
 tilaks
 tilapia
 tilde
+tilefish
 tilefishes
 tilelike
 tiler
@@ -65813,6 +65846,7 @@ trogs
 troikas
 troilism
 troilites
+troilus
 trois
 troke
 trolled
@@ -70244,6 +70278,7 @@ welcomers
 welcoming
 weld
 welding
+weldment
 weldor
 weldors
 welfarism
