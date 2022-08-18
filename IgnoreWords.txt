@@ -594,6 +594,7 @@ adjunctive
 adjuration
 adjurations
 adjuratory
+adjuror
 adjustable
 adjusted
 adjutant
@@ -3357,6 +3358,7 @@ ascendence
 ascendents
 ascenders
 ascendible
+ascensive
 ascent
 ascents
 ascetic
@@ -4449,6 +4451,7 @@ baldies
 baldish
 baldly
 baldnesses
+baldpated
 baldpates
 baldric
 baldrick
@@ -7235,6 +7238,7 @@ brawest
 brawlier
 brawling
 brawls
+brawn
 brawnier
 brawniness
 braza
@@ -7565,6 +7569,7 @@ brownier
 brownnesses
 brownnosed
 brownnoser
+brownnosing
 browns
 brownshirts
 brownstones
@@ -8244,6 +8249,7 @@ caespitose
 caestus
 caesura
 caesural
+caesuric
 cafe
 cafes
 cafeterias
@@ -10224,6 +10230,7 @@ chirring
 chirrs
 chirruped
 chirrups
+chirrupy
 chiru
 chirurgeons
 chirus
@@ -10373,6 +10380,7 @@ choreas
 choreatic
 choreic
 choremen
+choreographed
 choreographies
 choreographs
 choreography
@@ -12874,6 +12882,7 @@ convoys
 convulsant
 convulsants
 convulse
+convulsed
 convulsionary
 convulsively
 cony
@@ -14308,6 +14317,7 @@ cuddler
 cuddlesome
 cuddly
 cuddy
+cudgeler
 cudgelling
 cudgels
 cuds
@@ -14994,6 +15004,7 @@ danglers
 danglier
 dangliest
 dangling
+dangly
 danio
 danish
 danishes
@@ -15615,6 +15626,7 @@ definitive
 definitively
 definitiveness
 definitives
+definitize
 definitizing
 definitude
 definitudes
@@ -17865,6 +17877,7 @@ disunity
 disuse
 disused
 disuses
+disyllabic
 disyoked
 dit
 ditas
@@ -18495,6 +18508,7 @@ drama
 dramas
 dramatically
 dramatist
+dramatists
 dramatizable
 dramatizations
 dramatizes
@@ -20224,6 +20238,7 @@ enjoyed
 enkephalin
 enkindled
 enkindles
+enlacements
 enlargements
 enlarger
 enlarges
@@ -22095,6 +22110,7 @@ fairly
 fairnesses
 fairway
 fairy
+fairyhood
 fairylands
 fairylike
 faithfulness
@@ -22545,6 +22561,7 @@ femtosecond
 fenagled
 fenagles
 fence
+fenceless
 fencelessnesses
 fencer
 fences
@@ -26738,6 +26755,7 @@ gripier
 griping
 gripman
 grippier
+gripple
 grippy
 gripsack
 gripsacks
@@ -35736,6 +35754,7 @@ lubricities
 lubricity
 lucarne
 lucarnes
+lucence
 lucences
 lucencies
 lucernes
@@ -38891,6 +38910,7 @@ money
 moneyed
 moneyers
 moneygrubbing
+moneymaker
 moneymakers
 moneys
 moneyworts
@@ -39401,6 +39421,7 @@ moussing
 moustache
 moustaches
 mousy
+mouthbreeder
 mouthed
 mouthfeels
 mouthier
@@ -43378,6 +43399,7 @@ ovals
 ovariectomies
 ovariole
 ovarioles
+ovariotomy
 ovately
 ovation
 ovenbird
@@ -45969,6 +45991,7 @@ petrogenetic
 petroglyph
 petrographer
 petrographic
+petrography
 petrolatum
 petrolatums
 petroleum
@@ -47669,6 +47692,7 @@ pontificating
 pontificators
 pontils
 pontine
+pontons
 pontoon
 pony
 ponying
@@ -50867,6 +50891,7 @@ ranchman
 ranchos
 rancidities
 rancidness
+rancored
 rancour
 randan
 randinesses
@@ -51113,6 +51138,7 @@ reacquainting
 reacquaints
 reacquiring
 reacted
+reaction
 reactionaries
 reactivating
 reactivation
@@ -56176,6 +56202,7 @@ securitizes
 security
 sedan
 sedate
+sedateness
 sedates
 sedatest
 sedations
@@ -60287,6 +60314,7 @@ stealable
 stealages
 stealers
 stealing
+stealings
 steals
 stealth
 stealthier
@@ -60838,6 +60866,7 @@ streamlet
 streamlined
 streamliner
 streamliners
+streamside
 streamsides
 streek
 streeker
@@ -62119,6 +62148,7 @@ supplementary
 supplementation
 supplemented
 supplenesses
+suppletions
 suppletory
 supplies
 support
@@ -62396,6 +62426,7 @@ swell
 sweller
 swellfishes
 swellheaded
+swellheads
 swelling
 swells
 swelter
@@ -63341,6 +63372,7 @@ telecommuters
 telecommuting
 teleconferences
 telefaxes
+telefilms
 telegramming
 telegrapher
 telegraphically
@@ -63916,6 +63948,7 @@ thermoperiodism
 thermophile
 thermophilous
 thermopile
+thermopiles
 thermoplastic
 thermoregulate
 thermoregulated
@@ -64842,6 +64875,7 @@ totalised
 totalism
 totalists
 totality
+totalized
 totalizing
 totaquines
 toted
@@ -68468,6 +68502,7 @@ valances
 vale
 valedictions
 valences
+valencias
 valentines
 valerates
 valerians
