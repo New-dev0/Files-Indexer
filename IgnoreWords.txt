@@ -2171,6 +2171,7 @@ anisole
 anisometropia
 anisometropias
 anisotropically
+anisotropism
 anisotropy
 ankerite
 ankh
@@ -2191,6 +2192,7 @@ annalists
 annals
 annas
 annatto
+annattos
 annelid
 annelids
 annexe
@@ -2681,6 +2683,7 @@ aperiodicity
 apers
 aperture
 apertures
+apetalies
 apetalous
 aphaereses
 aphaeretic
@@ -2704,6 +2707,7 @@ aphorises
 aphorism
 aphorists
 aphorized
+aphorizer
 aphorizers
 aphrodisiacal
 aphrodisiacs
@@ -3594,6 +3598,7 @@ astonishes
 astonishingly
 astonishments
 astony
+astound
 astounded
 astounding
 astrachan
@@ -4193,6 +4198,7 @@ azukis
 azulejos
 azure
 azygoses
+ba
 baal
 baalim
 baals
@@ -9182,6 +9188,7 @@ catboats
 catbrier
 catcall
 catcalling
+catchable
 catchall
 catcher
 catchflies
@@ -10250,6 +10257,7 @@ chlordane
 chlordanes
 chlordans
 chlorenchyma
+chlorenchymas
 chlorids
 chlorin
 chlorinations
@@ -10671,6 +10679,7 @@ cithrens
 citified
 citizeness
 citizenesses
+citizenries
 citizens
 citolas
 citole
@@ -20880,6 +20889,7 @@ escot
 escritoire
 escrow
 escudo
+esculent
 escutcheon
 eserines
 eskers
@@ -21945,6 +21955,7 @@ facecloths
 faceless
 facelessnesses
 facelifted
+facelifts
 faceplate
 facer
 facers
@@ -24666,6 +24677,7 @@ funkia
 funkier
 funkiness
 funks
+funnel
 funnelform
 funninesses
 funnymen
@@ -26357,6 +26369,7 @@ graftages
 grafting
 graham
 grahams
+grail
 grain
 grainer
 grainers
@@ -29516,6 +29529,7 @@ hygienic
 hygienically
 hygrometer
 hygrometers
+hygrometric
 hygroscopicity
 hylozoic
 hylozoism
@@ -29616,6 +29630,7 @@ hyperplasias
 hyperplastic
 hyperploidies
 hyperploids
+hyperploidy
 hyperpneas
 hyperpneic
 hyperpolarized
@@ -30483,6 +30498,7 @@ inartistic
 inartistically
 inattention
 inattentions
+inattentive
 inattentively
 inattentiveness
 inaudibilities
@@ -33860,6 +33876,7 @@ labret
 labrets
 labrum
 labrusca
+laburnums
 labyrinthine
 labyrinthodonts
 lac
@@ -34008,6 +34025,7 @@ lamebrained
 lamellae
 lamellar
 lamellately
+lamenesses
 lamentable
 lamentableness
 lamentably
@@ -34491,6 +34509,7 @@ ledgier
 ledgiest
 ledgy
 leeboard
+leeboards
 leech
 leek
 leer
@@ -39532,6 +39551,7 @@ multimember
 multimetallic
 multimolecular
 multinomials
+multinuclear
 multiorgasmic
 multipack
 multipacks
@@ -40996,6 +41016,7 @@ nonequivalence
 nonequivalences
 nonerotic
 nonessential
+nonestablished
 nonesuches
 nonethical
 nonethnic
@@ -41766,6 +41787,7 @@ oblong
 obnubilate
 obnubilates
 obnubilating
+obnubilations
 oboe
 obol
 obole
@@ -42316,6 +42338,7 @@ ophite
 ophites
 ophiuroid
 ophiuroids
+ophthalmoscopic
 opiate
 opiating
 opine
@@ -42552,6 +42575,7 @@ ornithine
 ornithines
 ornithischians
 ornithologist
+ornithologists
 ornithology
 ornithopter
 ornithopters
@@ -44366,6 +44390,7 @@ pamphleteered
 pams
 panaceas
 panaches
+panatelas
 panatella
 panbroiled
 pancaked
@@ -50416,6 +50441,7 @@ quinielas
 quinina
 quinines
 quinoa
+quinoid
 quinolone
 quinols
 quinone
@@ -52381,6 +52407,7 @@ relaxation
 relaxed
 relaxers
 relaxing
+relays
 relearn
 relearned
 releasable
@@ -54994,6 +55021,7 @@ sambuca
 sambucas
 samburs
 samech
+samechs
 samek
 samekh
 samekhs
@@ -55997,6 +56025,7 @@ searest
 searobins
 seascouts
 seasickness
+seasides
 seasonableness
 seasonal
 seasoner
@@ -61932,6 +61961,7 @@ superovulates
 superovulating
 superoxide
 superoxides
+superpatriotic
 superperson
 superpersons
 superphosphates
@@ -62911,6 +62941,7 @@ tankards
 tankas
 tanker
 tankfuls
+tanking
 tankinis
 tankless
 tankships
@@ -63048,6 +63079,7 @@ tatouays
 tats
 tatsois
 tatter
+tatterdemalion
 tatterdemalions
 tattersall
 tattie
@@ -63910,6 +63942,7 @@ thionate
 thionin
 thionine
 thionines
+thiophene
 thioridazine
 thiotepas
 thiouracil
@@ -69109,6 +69142,7 @@ virgas
 virgate
 virginalist
 virginalists
+virginally
 virgules
 viricidal
 viricides
@@ -71166,6 +71200,7 @@ yenta
 yente
 yeoman
 yeomen
+yerbas
 yerked
 yes
 yeshivahs
