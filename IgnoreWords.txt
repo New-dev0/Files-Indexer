@@ -382,6 +382,7 @@ acquiescently
 acquiescing
 acquired
 acquirement
+acquirements
 acquirer
 acquirers
 acquires
@@ -984,6 +985,7 @@ aggrade
 aggraded
 aggrandising
 aggrandizement
+aggrandizes
 aggravates
 aggregately
 aggregateness
@@ -1000,6 +1002,7 @@ agha
 aghast
 agileness
 agilenesses
+aging
 agings
 agio
 agios
@@ -1251,6 +1254,7 @@ alegars
 alehouse
 alehouses
 alencons
+alertly
 alertnesses
 ales
 aleuron
@@ -4286,6 +4290,7 @@ backhander
 backhanders
 backhaul
 backhauls
+backhoeing
 backing
 backland
 backlands
@@ -7172,6 +7177,7 @@ branchline
 branchlines
 branchy
 brander
+branding
 brandings
 brandished
 brandishes
@@ -7787,6 +7793,7 @@ bullwhip
 bully
 bullyboys
 bullyrag
+bullyragged
 bullyragging
 bullyrags
 bulrush
@@ -9986,6 +9993,7 @@ cheesinesses
 cheesy
 chefdoms
 cheffing
+chefs
 chelatable
 chelated
 chelations
@@ -11752,6 +11760,7 @@ colorimetric
 colorimetry
 colorism
 colorization
+colorizations
 colorize
 colorizer
 colorizers
@@ -12077,6 +12086,7 @@ compradores
 compradors
 comprehended
 comprehending
+comprehension
 compressed
 compresses
 compressible
@@ -17146,6 +17156,7 @@ directer
 directionality
 directionless
 directives
+directivities
 directivity
 directness
 director
@@ -19983,6 +19994,7 @@ encrimsons
 encrinite
 encroached
 encroacher
+encroaching
 encroachment
 encrustation
 encrusting
@@ -20514,6 +20526,7 @@ epazotes
 epeirogeny
 epergne
 epergnes
+epexegeses
 epexegesis
 epexegetical
 ephebe
@@ -21162,6 +21175,7 @@ euphoniums
 euphonized
 euphony
 euphorbia
+euphorbias
 euphoria
 euphoriants
 euphorias
@@ -21700,6 +21714,7 @@ explicit
 explicits
 exploded
 explodes
+exploitable
 exploitation
 exploitative
 explorational
@@ -25331,6 +25346,7 @@ gemmation
 gemmed
 gemmier
 gemmily
+gemminess
 gemmologies
 gemmology
 gemmule
@@ -25960,6 +25976,7 @@ glossators
 glossed
 glossemes
 glosser
+glossies
 glossiest
 glossinas
 glossiness
@@ -26434,6 +26451,7 @@ grandpapa
 grandparent
 grandparenthood
 grandparents
+grandpas
 grandsire
 grandsirs
 grandson
@@ -29605,6 +29623,7 @@ hypercube
 hyperemias
 hyperesthetic
 hypereutectoid
+hyperexcited
 hyperexcretion
 hyperextend
 hyperextensions
@@ -38111,6 +38130,7 @@ minx
 minyan
 minyanim
 mioses
+miquelet
 mir
 miracidia
 miracidium
@@ -45526,6 +45546,7 @@ pepperinesses
 peppers
 peppertrees
 peppery
+peppily
 peppiness
 pepping
 pepsinate
@@ -46429,6 +46450,7 @@ phytoplanktonic
 phytosterol
 phytotron
 pia
+piacular
 piaffing
 pianissimi
 pianissimo
@@ -47010,6 +47032,7 @@ plasters
 plasterworks
 plasticene
 plasticity
+plasticize
 plastidial
 plastisol
 plastisols
@@ -48049,6 +48072,7 @@ power
 powerful
 powerfully
 powerlessly
+powers
 pows
 powters
 powwows
@@ -48668,6 +48692,7 @@ presently
 presentment
 presentments
 presentness
+presentnesses
 preservability
 preservationist
 preservatives
@@ -49709,6 +49734,7 @@ psychometry
 psychoneuroses
 psychoneurotic
 psychoneurotics
+psychopathic
 psychopathics
 psychopathy
 psychophysical
@@ -58585,6 +58611,7 @@ sniffs
 sniffy
 snifters
 snigger
+sniggered
 sniggers
 sniggle
 sniggled
@@ -59007,6 +59034,7 @@ sonobuoy
 sonobuoys
 sonograms
 sonographies
+sonorities
 sonorous
 sonorousness
 sonorousnesses
@@ -60102,6 +60130,7 @@ stammerers
 stammers
 stamp
 stampeded
+stampeders
 stampeding
 stampless
 stamps
@@ -62767,6 +62796,7 @@ taco
 taconite
 tacrines
 tact
+tactfully
 tactic
 tactically
 tactics
@@ -64413,6 +64443,7 @@ tirades
 tire
 tired
 tireder
+tiredest
 tirednesses
 tires
 tiresomely
@@ -65570,6 +65601,7 @@ triplicate
 triplicated
 triplications
 triplicities
+triplicity
 triplite
 triploidies
 tripodic
@@ -66454,6 +66486,7 @@ unabjured
 unable
 unabraded
 unabsorbed
+unabused
 unabusive
 unacademic
 unacademically
@@ -68670,6 +68703,7 @@ vaw
 vawards
 vawntie
 veal
+vealer
 vealiest
 vealy
 vectorial
@@ -70647,6 +70681,7 @@ wisenheimer
 wisents
 wisest
 wish
+wishbone
 wishbones
 wished
 wishers
