@@ -1147,6 +1147,7 @@ airline
 airliner
 airmailing
 airmen
+airplanes
 airports
 airpower
 airpowers
@@ -10010,6 +10011,7 @@ cheekinesses
 cheeking
 cheepers
 cheeps
+cheer
 cheerers
 cheerfully
 cheerfulness
@@ -10316,6 +10318,7 @@ chlorenchymas
 chlorids
 chlorin
 chlorinations
+chlorinator
 chlorinators
 chlorinity
 chlorins
@@ -12535,6 +12538,7 @@ conning
 conniption
 conniver
 connivers
+connivery
 connives
 conniving
 connoisseur
@@ -13606,6 +13610,7 @@ cousinry
 cousins
 cousinships
 couteaux
+couter
 couth
 couthest
 couture
@@ -16347,6 +16352,7 @@ desalinizing
 desalted
 desalters
 desalts
+desand
 desands
 descant
 descanted
@@ -20339,6 +20345,7 @@ enneads
 ennoble
 ennobler
 ennuye
+enoki
 enokitake
 enokitakes
 enolase
@@ -23048,6 +23055,7 @@ finings
 finis
 finish
 finisher
+finishers
 finishes
 finishing
 finitely
@@ -24073,6 +24081,7 @@ foretaste
 foretasted
 foreteeth
 foretell
+foretellers
 forethought
 foretime
 foretoken
@@ -27550,6 +27559,7 @@ hamauls
 hambones
 hamboning
 hamburgers
+hamburgs
 hame
 hames
 hammada
@@ -28511,6 +28521,7 @@ heterophile
 heterophonies
 heterophony
 heterophyllies
+heterophyllous
 heterophylly
 heteroploid
 heteroploidies
@@ -29576,6 +29587,7 @@ huzzah
 huzzahing
 huzzaing
 hwan
+hyacinthine
 hyaenic
 hyalin
 hyalines
@@ -29784,6 +29796,7 @@ hypermnesic
 hypermodernist
 hypermodernists
 hyperons
+hyperopes
 hyperphagia
 hyperphysical
 hyperplane
@@ -30895,6 +30908,7 @@ inculpable
 inculpated
 inculpating
 inculpations
+inculpatory
 incumbencies
 incumbency
 incumbent
@@ -33700,6 +33714,7 @@ kines
 kinescope
 kinescopes
 kineses
+kinesthesias
 kinesthetic
 kinetic
 kinetically
@@ -33852,6 +33867,7 @@ knock
 knockabout
 knockabouts
 knockdown
+knockless
 knockouts
 knockwursts
 knolled
@@ -34098,6 +34114,7 @@ lactiferous
 lactobacillus
 lactose
 lacunae
+lacunaria
 lacunars
 lacunose
 lacy
@@ -36474,6 +36491,7 @@ mamaliga
 mambas
 mambo
 mamboes
+mamelukes
 mammae
 mammal
 mammalian
@@ -36985,6 +37003,7 @@ matriarchates
 matriarchs
 matrices
 matriculant
+matriculants
 matriculate
 matriculates
 matriculating
@@ -40635,6 +40654,7 @@ neumes
 neums
 neuralgic
 neurasthenic
+neurilemma
 neurilemmas
 neurine
 neuritic
@@ -40724,6 +40744,7 @@ newsletter
 newsletters
 newsmakers
 newsman
+newsmen
 newsmongers
 newspaper
 newspaperman
@@ -41794,6 +41815,7 @@ nullified
 nullifiers
 nullifies
 nulling
+nullipara
 nulliparous
 nullipore
 numb
@@ -44425,6 +44447,7 @@ painterly
 paintier
 paints
 paintworks
+pair
 paired
 pairings
 paisana
@@ -45843,6 +45866,7 @@ periapses
 periblems
 pericardia
 pericardial
+pericardium
 pericarp
 pericarps
 perichondria
@@ -45991,6 +46015,7 @@ perpetuation
 perpetuations
 perpetuities
 perphenazines
+perplex
 perplexer
 perplexing
 perplexity
@@ -47622,6 +47647,7 @@ poliomyelitis
 polios
 polisher
 polishing
+politburo
 politburos
 polite
 politenesses
@@ -48145,6 +48171,7 @@ postteen
 posttensioned
 posttensions
 posttransfusion
+posttraumatic
 posttreatment
 posttrial
 postulant
@@ -51495,6 +51522,7 @@ rebater
 rebaters
 rebates
 rebatos
+rebeck
 rebecks
 rebecs
 rebegan
@@ -53405,6 +53433,7 @@ resistants
 resisted
 resister
 resisters
+resistibilities
 resistibility
 resisting
 resistive
@@ -57035,6 +57064,7 @@ sforzandi
 sforzandos
 sforzato
 sha
+shabbatot
 shabbiness
 shabby
 shacklebone
@@ -64953,6 +64983,7 @@ toolmakers
 toolmaking
 toolmakings
 toom
+toon
 toonie
 toot
 tooth
@@ -67811,6 +67842,7 @@ unmechanized
 unmediated
 unmeetly
 unmelted
+unmemorable
 unmemorably
 unmended
 unmerited
@@ -68109,6 +68141,7 @@ unsheathes
 unshell
 unshelling
 unshells
+unshift
 unshifting
 unshifts
 unshirted
@@ -68675,6 +68708,7 @@ utilize
 utilizing
 utmost
 utmosts
+utopia
 utopianism
 utopianisms
 utopians
@@ -69986,6 +70020,7 @@ walkway
 walkways
 walkyrie
 wallaby
+wallas
 wallet
 walleye
 walleyes
