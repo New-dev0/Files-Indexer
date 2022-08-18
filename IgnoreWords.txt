@@ -389,6 +389,7 @@ acquisitional
 acquisitions
 acquisitive
 acquit
+acquittals
 acquittance
 acquitting
 acrasias
@@ -1333,6 +1334,7 @@ alizarine
 alizarins
 alkahest
 alkahests
+alkalies
 alkalified
 alkalifies
 alkalify
@@ -5445,6 +5447,7 @@ benumbed
 benumbing
 benumbs
 benzaldehydes
+benzene
 benzenes
 benzidin
 benzidines
@@ -8957,6 +8960,7 @@ carnivorous
 carnotites
 caroche
 caroches
+carol
 caroling
 caroller
 carolling
@@ -9034,6 +9038,7 @@ cartoonist
 cartoonists
 cartoonlike
 cartoons
+cartridges
 carts
 cartulary
 cartwheeling
@@ -13311,6 +13316,7 @@ cosurfactants
 cosy
 cotan
 cotangent
+cote
 coteau
 coted
 cotenancies
@@ -13363,6 +13369,7 @@ coulometries
 coulometry
 coulters
 coumaric
+coumarou
 councillor
 councilmanic
 councilor
@@ -15052,6 +15059,7 @@ databased
 databases
 databasing
 dataries
+datedly
 datedness
 datelines
 dates
@@ -15343,6 +15351,7 @@ decipherers
 deciphering
 decipherment
 deciphers
+decision
 decisioned
 decisioning
 deckels
@@ -16080,6 +16089,7 @@ departs
 dependabilities
 dependability
 dependable
+dependably
 dependance
 dependances
 dependant
@@ -17501,6 +17511,7 @@ disinfestant
 disinfestation
 disinfestations
 disinfesting
+disinflationary
 disinflations
 disinform
 disinforming
@@ -18022,6 +18033,7 @@ dog
 dogcart
 dogdoms
 dogears
+dogedoms
 doges
 dogeys
 dogface
@@ -19096,6 +19108,7 @@ earthworks
 earthworms
 earwig
 earwigging
+earwigs
 earwitness
 earworms
 easeful
@@ -19120,6 +19133,7 @@ eath
 eating
 eats
 eaux
+eaved
 eavesdrop
 eavesdropper
 eavesdropping
@@ -19762,6 +19776,7 @@ emeerate
 emend
 emendate
 emendates
+emendations
 emendators
 emender
 emenders
@@ -22297,6 +22312,7 @@ fatalist
 fatalists
 fatally
 fatbacks
+fatbird
 fatbirds
 fatefully
 fatefulness
@@ -26471,6 +26487,7 @@ graphitizations
 graphitized
 grapholects
 graphologies
+graphologist
 graphs
 grapier
 grapiest
@@ -27836,6 +27853,7 @@ headiness
 heading
 headings
 headlamp
+headland
 headless
 headlessness
 headliners
@@ -35939,6 +35957,7 @@ lyssa
 lyssas
 lytically
 lyttae
+lyttas
 ma
 macacos
 macadamia
@@ -36381,6 +36400,7 @@ manhandled
 manhandles
 manhandling
 manhattan
+manhattans
 manhood
 manhunt
 manhunts
@@ -36803,6 +36823,7 @@ matrilineally
 matrimonies
 matrimony
 matrix
+matronize
 matronized
 matronizes
 matrons
@@ -42814,6 +42835,7 @@ outbreaks
 outbred
 outbreed
 outbreedings
+outbreeds
 outbribe
 outbribes
 outbuilds
@@ -44606,6 +44628,7 @@ paralleled
 parallelepiped
 paralleling
 parallelisms
+parallelling
 parallels
 paralysed
 paralysing
@@ -47054,6 +47077,7 @@ playmakings
 playoffs
 playpens
 playroom
+playsuit
 playsuits
 playthings
 playwrightings
@@ -49569,6 +49593,7 @@ proxemic
 proxies
 proximal
 proximally
+proximateness
 pruderies
 prudes
 prudishly
@@ -56823,6 +56848,7 @@ shallowest
 shallows
 shaloms
 shalt
+shaly
 shamable
 shamably
 shaman
@@ -58854,6 +58880,7 @@ solicitants
 solicited
 soliciting
 solicitous
+solicitously
 solicitousness
 solicits
 solicitude
@@ -61172,6 +61199,7 @@ suberizes
 suberizing
 suberose
 subers
+subfamilies
 subfile
 subfiles
 subfixes
@@ -61338,6 +61366,7 @@ subplot
 subpoena
 subpoenaed
 subpoenaing
+subpoenas
 subpolar
 subpopulations
 subprimates
@@ -63165,6 +63194,7 @@ teaming
 teammate
 teammates
 teams
+teamster
 teamsters
 teamwork
 tearaways
@@ -64036,6 +64066,7 @@ threepence
 threeping
 threesomes
 threnodist
+threnodists
 threonines
 thresher
 thriftily
@@ -65631,6 +65662,7 @@ trochophore
 trocked
 trocking
 trod
+troffers
 trog
 troglodyte
 trogs
@@ -68258,6 +68290,7 @@ urger
 urges
 urging
 urial
+urials
 uric
 uricotelic
 uridines
@@ -70424,6 +70457,7 @@ wig
 wigeons
 wiggier
 wigglers
+wiggles
 wiggliest
 wiggly
 wigless
@@ -71403,6 +71437,7 @@ zestiest
 zesting
 zeugmas
 zibeline
+zibelines
 zibet
 zidovudine
 zig
