@@ -2803,6 +2803,7 @@ apothecia
 apothecial
 apothecium
 apothems
+apotheosized
 app
 appal
 appall
@@ -2992,6 +2993,7 @@ arbiter
 arbiters
 arbitraged
 arbitragers
+arbitrageur
 arbitrament
 arbitrarinesses
 arbitrated
@@ -3882,6 +3884,7 @@ aurorean
 auscultate
 auscultated
 auscultating
+auscultations
 ausform
 auspicated
 auspicates
@@ -11456,6 +11459,7 @@ cognac
 cognate
 cognately
 cognates
+cognation
 cognations
 cognises
 cognitional
@@ -15612,6 +15616,7 @@ deforce
 deforced
 deforcers
 deforces
+deforestation
 deforested
 deforesting
 deforests
@@ -16064,6 +16069,7 @@ dependances
 dependant
 dependants
 dependence
+dependences
 dependent
 depeoples
 depermed
@@ -16660,6 +16666,7 @@ dialogistic
 dialogs
 dialogue
 dialysate
+dialyzates
 dialyzers
 dialyzes
 dialyzing
@@ -18724,6 +18731,7 @@ dubbin
 dubbings
 dubiously
 dubiousness
+dubitably
 dubitation
 dubnium
 dubonnets
@@ -20739,6 +20747,7 @@ ergometric
 ergonovines
 ergot
 ergotamine
+ergotism
 ergotized
 erica
 ericaceous
@@ -22479,6 +22488,7 @@ feminities
 feminity
 feminizations
 feminizes
+fems
 femtosecond
 fenagled
 fenagles
@@ -25979,6 +25989,7 @@ glyceridic
 glycerin
 glycerinate
 glycerines
+glycerins
 glycerol
 glycerols
 glyceryl
@@ -26197,6 +26208,7 @@ goosiest
 goosy
 gor
 gorbellies
+gorbelly
 gorblimy
 gorcock
 gordita
@@ -29082,6 +29094,7 @@ hotbeds
 hotbloods
 hotboxes
 hotcake
+hotches
 hotching
 hotchpotches
 hotchpots
@@ -29247,6 +29260,7 @@ humbugging
 humdinger
 humdingers
 humectants
+humeral
 humerals
 humid
 humidex
@@ -30042,6 +30056,7 @@ immies
 immigrant
 immigrates
 immigration
+immigrations
 imminently
 immingles
 immiscible
@@ -30553,6 +30568,7 @@ incisory
 incisure
 incitant
 incitation
+incite
 incited
 incites
 incivilities
@@ -31058,6 +31074,7 @@ inflexions
 inflicters
 inflicting
 inflictions
+inflictive
 inflorescence
 inflorescences
 influenceable
@@ -31078,6 +31095,7 @@ informants
 information
 informations
 informative
+informatory
 informedly
 infos
 infotainments
@@ -31757,6 +31775,7 @@ interocean
 interoceptor
 interoceptors
 interoffice
+interorgan
 interparish
 interparticle
 interparty
@@ -31884,6 +31903,7 @@ inti
 intifadah
 intifadehs
 intima
+intimacies
 intimacy
 intimae
 intimal
@@ -36980,6 +37000,7 @@ medivacked
 medivacking
 medivacs
 medley
+medleys
 medulla
 medullae
 medullar
@@ -40760,6 +40781,7 @@ nonambiguous
 nonanimal
 nonanswer
 nonantibiotic
+nonantigenic
 nonarable
 nonarbitrary
 nonargument
@@ -50002,6 +50024,7 @@ puttylike
 puttyroots
 puzzledly
 puzzlements
+puzzler
 pyaemia
 pyaemias
 pyaemic
@@ -51190,6 +51213,7 @@ rebloomed
 reblooming
 reboard
 reboarded
+reboards
 rebodied
 rebodies
 reboiling
@@ -52953,6 +52977,7 @@ resealing
 researchable
 researcher
 researches
+researchist
 researchists
 reseason
 reseated
@@ -54753,6 +54778,7 @@ safranin
 safranine
 safranines
 safrol
+safroles
 sag
 saga
 sagacious
@@ -55759,6 +55785,7 @@ screecher
 screechiest
 screeching
 screed
+screeding
 screeners
 screenfuls
 screenlands
@@ -55828,6 +55855,7 @@ scrummaging
 scrunch
 scrunching
 scrupulosity
+scrupulousness
 scrutineers
 scrutinise
 scrutinises
@@ -58268,6 +58296,7 @@ smarm
 smart
 smarter
 smarties
+smartweed
 smartweeds
 smash
 smashed
@@ -60035,6 +60064,7 @@ stapes
 staph
 staphs
 staphylinid
+staphylococcic
 staphylococcus
 staple
 star
@@ -60638,6 +60668,7 @@ stranger
 stranges
 strangest
 strangle
+strangleholds
 strangler
 strangles
 straphanged
@@ -63379,6 +63410,7 @@ tenpounder
 tenrec
 tens
 tense
+tenseness
 tensenesses
 tenser
 tensilities
@@ -65416,6 +65448,7 @@ trindled
 trinitrotoluene
 trinity
 trinketed
+trinketer
 trinketries
 trinocular
 trinodal
@@ -67487,6 +67520,7 @@ unprofitable
 unprofitably
 unprogrammable
 unprogrammed
+unprogressive
 unprompted
 unpronounceable
 unpropitious
@@ -69085,6 +69119,7 @@ viscera
 viscerally
 viscidities
 viscidity
+viscidly
 viscoelastic
 viscoelasticity
 viscometers
