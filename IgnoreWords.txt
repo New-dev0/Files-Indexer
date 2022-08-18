@@ -101,6 +101,7 @@ abstractions
 abstractnesses
 abstractor
 abstractors
+abstrusely
 abstruseness
 abstruser
 abstrusity
@@ -2196,6 +2197,7 @@ ankylosaurs
 ankylosauruses
 ankylose
 ankyloses
+ankylosing
 ankylosis
 ankylostomiases
 anlases
@@ -6867,6 +6869,7 @@ boost
 boosterisms
 boosting
 boot
+bootable
 bootblacks
 booties
 booting
@@ -7594,6 +7597,7 @@ brucellas
 brucelloses
 brucine
 brugh
+bruised
 bruising
 bruited
 bruiters
@@ -8291,6 +8295,7 @@ cairds
 cairngorm
 caisson
 caissons
+caitiff
 cajeput
 cajoled
 cajoleries
@@ -9533,6 +9538,7 @@ centraler
 centralises
 centralism
 centralist
+centralists
 centralization
 centralize
 centralizing
@@ -10911,6 +10917,7 @@ clayish
 claymore
 claystone
 claystones
+claywares
 cleanabilities
 cleanable
 cleaned
@@ -11715,6 +11722,7 @@ colliders
 collides
 colliding
 collie
+collied
 collier
 colliers
 colliery
@@ -15212,6 +15220,7 @@ deadlining
 deadly
 deadpan
 deadpanner
+deadweights
 deaerated
 deaerates
 deaerating
@@ -16320,6 +16329,7 @@ derries
 derry
 dervish
 desalinates
+desalinating
 desalination
 desalinations
 desalinators
@@ -19816,6 +19826,7 @@ embrangle
 embranglement
 embrangles
 embrangling
+embrasure
 embrittle
 embrittles
 embrocate
@@ -20905,6 +20916,7 @@ erroneousnesses
 errorless
 errors
 errs
+ersatz
 ersatzes
 erstwhile
 eructated
@@ -21329,6 +21341,7 @@ eventful
 eventide
 events
 eventuated
+eventuating
 everglade
 everglades
 everlastingly
@@ -28832,6 +28845,7 @@ holier
 holies
 holily
 holism
+holisms
 holistically
 holk
 holked
@@ -29339,6 +29353,7 @@ howf
 howffs
 howked
 howled
+howlingly
 hoya
 hoyden
 hoydened
@@ -32861,6 +32876,7 @@ jellyroll
 jemidars
 jemmies
 jemmy
+jennet
 jeon
 jeopardies
 jeopardised
@@ -35652,6 +35668,7 @@ longleaves
 longly
 longship
 longshoremen
+longshoring
 longueur
 longways
 looby
@@ -40163,6 +40180,7 @@ naltrexones
 nam
 namaycushes
 nameable
+named
 namely
 namers
 nametag
@@ -42017,6 +42035,7 @@ obstructive
 obstructives
 obstructs
 obstruent
+obstruents
 obtain
 obtainability
 obtainable
@@ -49054,6 +49073,7 @@ prickings
 prickle
 prickliness
 pricklinesses
+prickly
 pricks
 pricky
 pricy
@@ -50059,6 +50079,7 @@ pulvillar
 pulvillus
 pulvinate
 pumas
+pumelo
 pumicer
 pumicing
 pumicites
@@ -51574,6 +51595,7 @@ rechanneled
 rechanneling
 rechannelling
 rechargeable
+recharger
 recharted
 rechartered
 recharts
@@ -54364,6 +54386,7 @@ robotic
 robotically
 robotism
 robotization
+robotize
 robotry
 robustas
 robuster
@@ -56532,6 +56555,7 @@ semen
 semens
 semestrial
 semi
+semiangle
 semiangles
 semiannually
 semiaquatic
@@ -57014,6 +57038,7 @@ shadowier
 shadowiest
 shadowing
 shadowy
+shadrach
 shads
 shaft
 shafted
@@ -58261,6 +58286,7 @@ slamdanced
 slamdances
 slamdancing
 slammer
+slamming
 slams
 slanderers
 slanderous
@@ -58562,6 +58588,7 @@ slushes
 slushier
 slushiest
 slushily
+slushiness
 sluttish
 slutty
 slyer
@@ -59297,6 +59324,7 @@ soroches
 sororally
 sorority
 soroses
+sorosis
 sorosises
 sorptions
 sorptive
@@ -60121,6 +60149,7 @@ squares
 squaring
 squarishnesses
 squashed
+squashers
 squashes
 squashier
 squashiest
@@ -63327,6 +63356,7 @@ tassets
 tassies
 tastable
 tasteful
+tastefulnesses
 tastelessness
 tastiest
 tatami
@@ -63704,6 +63734,7 @@ tenderometers
 tenders
 tendinous
 tendon
+tendonitis
 tendresse
 tendrilled
 tendrilous
@@ -63792,6 +63823,7 @@ teratogenicity
 teratogens
 teratologic
 teratologist
+teratoma
 teratomas
 teratomata
 terbias
@@ -64171,6 +64203,7 @@ thievery
 thievishness
 thigh
 thighbone
+thighbones
 thigmotaxes
 thigmotropisms
 thimble
@@ -67981,6 +68014,7 @@ unsafeties
 unsafety
 unsaintly
 unsalable
+unsalaried
 unsalted
 unsalvageable
 unsanctioned
@@ -71550,6 +71584,7 @@ yohimbe
 yohimbine
 yohimbines
 yokefellow
+yokefellows
 yokels
 yokemate
 yokozuna
