@@ -1588,6 +1588,7 @@ alumins
 aluminum
 aluminums
 alumna
+alumnae
 alumnus
 alumroots
 alumstone
@@ -2038,6 +2039,7 @@ ancylostomiasis
 and
 andante
 andantes
+andantino
 andesitic
 andesytes
 andirons
@@ -2593,6 +2595,7 @@ antiromantics
 antiroyalist
 antiroyalists
 antirust
+antisag
 antisecrecy
 antisentimental
 antiseparatist
@@ -2805,6 +2808,7 @@ apoptosis
 aporias
 aposiopesis
 aposiopetic
+aposporic
 apospories
 apospory
 apostasies
@@ -5181,6 +5185,7 @@ beech
 beechdrops
 beechiest
 beechmast
+beechmasts
 beechwood
 beechy
 beedi
@@ -11012,6 +11017,7 @@ cleverish
 clew
 clewed
 cliche
+clicks
 clickwrap
 clientages
 clients
@@ -11671,6 +11677,7 @@ coldhearted
 coldheartedness
 coldnesses
 cole
+coleader
 coleaders
 coleading
 coled
@@ -13330,6 +13337,7 @@ corslets
 cortexes
 cortically
 corticoids
+corticosterone
 corticotrophin
 corticotrophins
 cortisone
@@ -16935,6 +16943,7 @@ dictated
 dictating
 dictator
 dictators
+dictatorships
 dictionally
 dictionaries
 dictum
@@ -17192,6 +17201,7 @@ dionysiac
 diopsides
 diopsidic
 dioptases
+diorama
 dioramic
 diorites
 dioritic
@@ -21085,6 +21095,7 @@ espial
 espiegleries
 espouse
 espouses
+espresso
 esprit
 espy
 esquire
@@ -21557,6 +21568,7 @@ excitants
 excitation
 excitations
 excitatory
+excitedly
 excitements
 excites
 excitons
@@ -21579,6 +21591,7 @@ exclusivities
 exclusory
 excogitate
 excogitations
+excogitative
 excommunicate
 excommunicated
 excoriate
@@ -21715,6 +21728,7 @@ existentialists
 existentially
 exited
 exiting
+exits
 exobiologists
 exocrines
 exocyclic
@@ -22733,6 +22747,7 @@ feral
 ferbam
 feres
 feretory
+feriae
 ferial
 ferities
 ferlies
@@ -27018,6 +27033,7 @@ groupie
 groupoids
 groups
 groupthinks
+groupuscule
 groused
 grouses
 grouted
@@ -28427,6 +28443,7 @@ heptagon
 heptameters
 heptane
 heptarchs
+her
 heralded
 heraldic
 heralding
@@ -30671,6 +30688,7 @@ impulsed
 impulsion
 impulsive
 impulsiveness
+impure
 impurenesses
 impurest
 impurities
@@ -32499,6 +32517,7 @@ ironhearted
 ironic
 ironicalnesses
 ironings
+ironists
 ironizing
 ironlike
 ironman
@@ -34012,6 +34031,7 @@ koppas
 koppie
 koras
 korats
+kore
 korun
 koruna
 koshering
@@ -35209,6 +35229,7 @@ lightning
 lightplane
 lightplanes
 lightship
+lighttight
 lightwave
 lightweight
 lignan
@@ -36619,6 +36640,7 @@ mandamuses
 mandamusing
 mandarinates
 mandarinic
+mandated
 mandating
 mandator
 mandatories
@@ -42545,6 +42567,7 @@ onerously
 onerousnesses
 ongoing
 ongoingnesses
+onlay
 onload
 onlookers
 onlooking
@@ -43578,6 +43601,7 @@ outswearing
 outswears
 outsweep
 outsweeping
+outsweeps
 outswinging
 outswore
 outsworn
@@ -50729,6 +50753,7 @@ quassia
 quassin
 quatercentenary
 quaternaries
+quaternary
 quaternity
 quatre
 quatrefoil
@@ -55698,6 +55723,7 @@ satisfactions
 satisfactory
 satisfiable
 satisficed
+satisfices
 satisficing
 satisfier
 satisfies
@@ -57323,6 +57349,7 @@ shareabilities
 sharecrops
 shareholder
 shareholders
+sharer
 shares
 sharewares
 shariahs
@@ -59687,6 +59714,7 @@ spanworms
 spar
 sparable
 sparables
+spare
 spareable
 spared
 sparerib
@@ -63599,6 +63627,7 @@ tauter
 tautest
 tauting
 tautness
+tautologically
 tautologies
 tautologously
 tautonym
@@ -66802,6 +66831,7 @@ ubiquinone
 ubiquinones
 ubiquities
 ubiquitous
+ubiquitously
 ubiquitousness
 udometer
 ufological
@@ -68414,6 +68444,7 @@ untack
 untacks
 untagged
 untalented
+untamable
 untangle
 untangling
 untarnished
@@ -68561,6 +68592,7 @@ unwrap
 unwrinkling
 unwritten
 unyeaned
+unyoke
 unyokes
 unyoking
 unyoung
@@ -68637,6 +68669,7 @@ uplighting
 uplink
 uplinking
 uplinks
+upload
 uploaded
 uploads
 upmanships
@@ -69610,6 +69643,7 @@ vilifiers
 vill
 villa
 villadom
+villageries
 villagers
 villages
 villainesses
@@ -69936,6 +69970,7 @@ volubility
 volubly
 volumed
 volumes
+volumeter
 volumetrically
 voluming
 voluminosities
