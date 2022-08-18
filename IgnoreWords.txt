@@ -1082,6 +1082,7 @@ agrologic
 agronomy
 agrypnia
 agrypnias
+ags
 aguacate
 aguacates
 agues
@@ -1948,6 +1949,7 @@ analphabetism
 analphabetisms
 analphabets
 analysand
+analysands
 analyse
 analysed
 analyses
@@ -5274,6 +5276,7 @@ behavioral
 beheadal
 beheader
 beheaders
+beheads
 behinds
 beholds
 behoove
@@ -5697,6 +5700,7 @@ biasnesses
 biassed
 biassing
 biaxal
+biaxial
 biaxially
 bibbed
 bibberies
@@ -12077,6 +12081,7 @@ completive
 complexest
 complexified
 complexifies
+complexify
 complexioned
 complexities
 complexness
@@ -13552,6 +13557,7 @@ courageousness
 courages
 courant
 courante
+courants
 courier
 couriers
 courlan
@@ -13836,6 +13842,7 @@ creamwares
 creased
 creaseless
 creases
+creasing
 creatable
 created
 creatinines
@@ -14279,6 +14286,7 @@ cryptography
 cryptologic
 cryptological
 cryptologies
+cryptonyms
 cryptorchid
 cryptorchidisms
 cryptosporidium
@@ -17574,6 +17582,7 @@ disinherited
 disinheriting
 disinhibit
 disinhibiting
+disintegrate
 disintegrating
 disintegration
 disintegrations
@@ -19622,6 +19631,7 @@ elevated
 elevateds
 elevations
 elevators
+elevenses
 eleventh
 elevons
 elflock
@@ -20821,6 +20831,7 @@ erecter
 erectilities
 erectility
 erecting
+erection
 erective
 erectly
 eremites
@@ -24776,6 +24787,7 @@ furbearers
 furbelowed
 furbisher
 furbishers
+furbishing
 furcate
 furcately
 furcating
@@ -25284,6 +25296,7 @@ gauchos
 gaudier
 gaudies
 gaudily
+gaudinesses
 gauffered
 gauffers
 gauges
@@ -25800,6 +25813,7 @@ girns
 girolles
 giros
 girosols
+girsh
 girt
 girted
 gisarme
@@ -27741,6 +27755,7 @@ harpoons
 harpsichord
 harpsichordists
 harquebus
+harridan
 harries
 harrows
 harrumphed
@@ -30755,6 +30770,7 @@ incomplete
 incompletely
 incompressible
 inconceivably
+inconclusive
 inconformities
 inconformity
 incongruence
@@ -32275,6 +32291,7 @@ involver
 invulnerability
 invulnerably
 inwall
+inwalled
 inwardnesses
 inwards
 inweave
@@ -33748,6 +33765,7 @@ knapped
 knapper
 knapsacks
 knars
+knave
 knavishly
 knawel
 kneader
@@ -35444,6 +35462,7 @@ lobstermen
 lobstick
 lobsticks
 lobular
+lobulations
 lobworm
 lobworms
 locales
@@ -37064,6 +37083,7 @@ measled
 measles
 measly
 measurable
+measured
 measureless
 measurements
 measurer
@@ -38166,6 +38186,7 @@ minimalist
 minimalists
 minimals
 minimax
+minimaxes
 minimills
 minimizer
 minimizes
@@ -41513,6 +41534,7 @@ nonzero
 noo
 noodges
 noodles
+noodling
 noogies
 nookie
 nookies
@@ -47362,6 +47384,7 @@ plunkers
 plunking
 plunks
 plunky
+plural
 pluralist
 pluralists
 pluralities
@@ -54890,6 +54913,7 @@ ryegrasses
 ryot
 sab
 sabal
+sabals
 sabaton
 sabayon
 sabayons
@@ -57068,6 +57092,7 @@ sharklike
 sharks
 sharkskin
 sharkskins
+sharn
 sharns
 sharpers
 sharpest
@@ -57367,6 +57392,7 @@ shoddily
 shoe
 shoeblacks
 shoebox
+shoehorning
 shoehorns
 shoeing
 shoelaces
@@ -57442,6 +57468,7 @@ shortwaved
 shorty
 shotguns
 shotholes
+shotten
 shoulder
 shouted
 shouter
@@ -61474,6 +61501,7 @@ submerges
 submergible
 submerse
 submerses
+submersibles
 submersion
 submetacentric
 submetacentrics
@@ -63671,6 +63699,7 @@ tenosynovitis
 tenours
 tenpence
 tenpounder
+tenpounders
 tenrec
 tens
 tense
@@ -63838,6 +63867,7 @@ testae
 testament
 testamentary
 testate
+testcross
 testees
 testicles
 testicular
@@ -65653,6 +65683,7 @@ triers
 tries
 trifled
 triflers
+trifling
 trifocals
 trifold
 trifoliate
@@ -66230,6 +66261,7 @@ turnarounds
 turnbuckle
 turnbuckles
 turncoat
+turncoats
 turneries
 turners
 turning
@@ -69919,6 +69951,7 @@ warding
 wardress
 wardrobes
 wardships
+warehoused
 warehousers
 warehouses
 wareroom
@@ -71427,6 +71460,7 @@ yerbas
 yerked
 yes
 yeshivahs
+yeshivot
 yesses
 yessing
 yesterday
@@ -71469,6 +71503,7 @@ yodle
 yodlers
 yodles
 yoga
+yogas
 yoghs
 yoghurt
 yogic
