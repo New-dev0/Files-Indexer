@@ -559,6 +559,7 @@ adequatenesses
 adherence
 adherences
 adherends
+adherently
 adherers
 adheres
 adhesive
@@ -767,6 +768,7 @@ aeriest
 aerify
 aerifying
 aero
+aerobat
 aerobatic
 aerobes
 aerobicized
@@ -3909,6 +3911,7 @@ auscultated
 auscultating
 auscultations
 ausform
+ausforming
 auspicated
 auspicates
 auspicating
@@ -4798,6 +4801,7 @@ basidiomycetes
 basidiomycetous
 basifying
 basilar
+basilary
 basilect
 basilicae
 basilical
@@ -8358,6 +8362,7 @@ caldera
 caleches
 calefactories
 calefactory
+calendal
 calendared
 calendars
 calendered
@@ -8423,6 +8428,7 @@ callousing
 callously
 callow
 callownesses
+calls
 callus
 callusing
 calm
@@ -10083,6 +10089,7 @@ chessmen
 chest
 chestful
 chestier
+chestiest
 chestily
 chestnut
 chesty
@@ -11689,6 +11696,7 @@ collations
 collators
 colleagueship
 collectedness
+collectible
 collective
 collectively
 collectives
@@ -13725,6 +13733,7 @@ crackling
 cracknel
 cracks
 crackup
+crackups
 cradle
 cradler
 cradlers
@@ -14450,6 +14459,7 @@ cumbersomeness
 cumbias
 cumbrous
 cumin
+cummin
 cummins
 cumquat
 cumquats
@@ -18328,6 +18338,7 @@ dorsiventrality
 dorsiventrally
 dorsum
 dorty
+dory
 dos
 dosers
 doses
@@ -18476,6 +18487,7 @@ downstair
 downstairs
 downstate
 downstates
+downstream
 downswing
 downswings
 downthrows
@@ -19542,6 +19554,7 @@ elasmobranch
 elastase
 elastic
 elasticities
+elasticized
 elastomers
 elatedness
 elater
@@ -19860,6 +19873,7 @@ emeer
 emeerate
 emend
 emendate
+emendated
 emendates
 emendations
 emendators
@@ -23220,6 +23234,7 @@ flabellate
 flabelliform
 flack
 flacked
+flackeries
 flackery
 flacks
 flag
@@ -27069,6 +27084,7 @@ gueridon
 gueridons
 guernsey
 guernseys
+guerrilla
 guessable
 guesser
 guessers
@@ -27112,6 +27128,7 @@ guiltily
 guiltinesses
 guiltless
 guilty
+guimpe
 guimpes
 guinea
 guineas
@@ -34115,6 +34132,7 @@ ladylove
 ladyloves
 ladyship
 laetrile
+laevo
 lag
 lagend
 laggardness
@@ -42113,6 +42131,7 @@ oceanic
 oceanographies
 oceanography
 oceanologists
+ocellate
 oceloid
 ocelot
 ochered
@@ -48741,6 +48760,7 @@ prenticing
 prenumbers
 prenuptial
 preobtain
+preobtained
 preoccupancy
 preopening
 preoperative
@@ -49984,6 +50004,7 @@ puddly
 pudenda
 pudendal
 pudgiest
+pudgily
 pudginess
 pudginesses
 pudibund
@@ -50975,6 +50996,7 @@ rakees
 rakehell
 rakehelly
 rakeoff
+raker
 rakes
 raki
 rakishness
@@ -52798,6 +52820,7 @@ reminisced
 reminiscently
 reminiscing
 remints
+remise
 remises
 remising
 remissible
@@ -52935,6 +52958,7 @@ reordered
 reorganization
 reorganizations
 reorganized
+reorientate
 reorientated
 reorientates
 reoriented
@@ -53028,6 +53052,7 @@ replead
 repled
 repledges
 replenished
+replenishers
 repletely
 repleteness
 repletes
@@ -55096,6 +55121,7 @@ saggered
 saggering
 saggers
 saggiest
+sagging
 sagier
 sagittal
 sagittally
@@ -57902,6 +57928,7 @@ simitars
 simmer
 simmering
 simmers
+simoleons
 simoniac
 simoniacal
 simonies
@@ -59734,6 +59761,7 @@ spiderwort
 spiderworts
 spied
 spiegeleisens
+spiegels
 spiel
 spieled
 spiers
@@ -61963,6 +61991,7 @@ sully
 sulpha
 sulphates
 sulphid
+sulphide
 sulphides
 sulphite
 sulphur
@@ -62023,6 +62052,7 @@ sumptuousnesses
 sumpweeds
 sunback
 sunbath
+sunbathers
 sunbaths
 sunbelts
 sunbird
@@ -65883,6 +65913,7 @@ tristezas
 tristful
 tristfully
 tristich
+trisubstituted
 trisulfide
 trisulfides
 trisyllables
@@ -68722,6 +68753,7 @@ valerates
 valerians
 valeted
 valeting
+valetudinarian
 valetudinaries
 valgoid
 valiances
@@ -68983,6 +69015,7 @@ vegetative
 vegetist
 vegetive
 veggie
+veggies
 vegie
 vehemence
 vehemences
@@ -69838,6 +69871,7 @@ wadable
 wadded
 wadder
 wadders
+waddies
 wadding
 waddled
 waddlers
@@ -71823,6 +71857,7 @@ zoomorph
 zoomorphic
 zoonosis
 zoonotic
+zoophiles
 zoophilia
 zoophily
 zoophobia
