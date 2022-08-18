@@ -3210,6 +3210,7 @@ armlock
 armoire
 armonica
 armor
+armoring
 armors
 armory
 armour
@@ -9005,6 +9006,7 @@ carnalities
 carnallites
 carnassial
 carnaubas
+carnies
 carnified
 carnifies
 carnitines
@@ -9453,6 +9455,7 @@ ceilings
 ceilometers
 ceils
 cel
+celebratedness
 celebrity
 celebs
 celeriac
@@ -12611,6 +12614,7 @@ conservationist
 conservatism
 conservatisms
 conservative
+conservatized
 conservatizing
 conservatorial
 conservatorship
@@ -12702,6 +12706,7 @@ consubstantial
 consuetude
 consuetudes
 consul
+consulships
 consultancies
 consultantship
 consultantships
@@ -13310,6 +13315,7 @@ corsacs
 corsage
 corsair
 corselets
+corses
 corset
 corseted
 corsetiere
@@ -14370,6 +14376,7 @@ cubed
 cubical
 cubically
 cubicities
+cubics
 cubiform
 cubing
 cubitus
@@ -14727,6 +14734,7 @@ cuttings
 cuttle
 cuttled
 cuttlefish
+cuttles
 cuttling
 cutty
 cutup
@@ -17707,6 +17715,7 @@ disorient
 disorientate
 disorients
 disown
+disowned
 disownment
 disownments
 disparagements
@@ -19196,6 +19205,7 @@ earmarks
 earner
 earners
 earnestness
+earnestnesses
 earning
 earphone
 earphones
@@ -19837,6 +19847,7 @@ emblemized
 emblems
 embodiments
 embody
+embolectomies
 emboli
 embolies
 embolisms
@@ -25078,6 +25089,7 @@ galleasses
 galleins
 galleries
 gallery
+gallerygoer
 gallerygoers
 galleta
 galletas
@@ -26928,6 +26940,7 @@ grizzlers
 grizzles
 grizzlier
 grizzlies
+grizzliest
 grizzly
 groaned
 groans
@@ -32257,6 +32270,7 @@ intumescent
 intumesces
 inturn
 intussuscepting
+intussusception
 intwined
 intwisted
 inulase
@@ -34282,6 +34296,7 @@ laminating
 lamination
 laminator
 laming
+laminitises
 laminose
 lammergeier
 lammergeiers
@@ -37814,6 +37829,7 @@ metical
 meticals
 meticulosities
 meticulosity
+metier
 metis
 metisse
 metonymical
@@ -40301,6 +40317,7 @@ naphtha
 naphthenes
 naphthenic
 naphthols
+naphthyl
 naphtol
 napkin
 napkins
@@ -46570,6 +46587,7 @@ photolysis
 photolyzable
 photolyze
 photolyzes
+photomap
 photomapped
 photomask
 photomasks
@@ -48137,6 +48155,7 @@ postcollege
 postcollegiate
 postconception
 postconquest
+postconsonantal
 postcoronary
 postcoup
 postcrash
@@ -49482,6 +49501,7 @@ prognostics
 programed
 programer
 programmable
+programmables
 programme
 programmer
 programmers
@@ -51574,6 +51594,7 @@ reattachment
 reattachments
 reattain
 reattained
+reattains
 reattempted
 reattribute
 reattribution
@@ -53170,6 +53191,7 @@ replicabilities
 replicable
 replicas
 replicases
+replication
 replications
 replicative
 replicon
@@ -53477,6 +53499,7 @@ residence
 residency
 resident
 residential
+residents
 residua
 residuals
 residuary
@@ -57144,6 +57167,7 @@ sforzandos
 sforzato
 sha
 shabbatot
+shabbily
 shabbiness
 shabby
 shacklebone
@@ -57894,6 +57918,7 @@ sighting
 sightings
 sightless
 sightlessnesses
+sightlier
 sightliest
 sightlines
 sightly
@@ -59556,6 +59581,7 @@ sovietizes
 sovietizing
 soviets
 sovkhozes
+sovkhozy
 sovran
 sovranty
 sowable
@@ -59838,6 +59864,7 @@ spherical
 spherically
 spheroidal
 spheroidally
+spheroplast
 spherulites
 sphincter
 sphincteric
@@ -59877,6 +59904,7 @@ spiegels
 spiel
 spieled
 spiers
+spiffier
 spiffies
 spiffiest
 spiffing
@@ -60467,6 +60495,7 @@ stalemated
 stalker
 stalkers
 stalking
+stalkless
 stalky
 stallholder
 stallion
@@ -60928,6 +60957,7 @@ stipulations
 stipulator
 stipulatory
 stir
+stirp
 stirs
 stitch
 stitcheries
@@ -62476,6 +62506,7 @@ supine
 supinely
 supineness
 supinenesses
+supines
 supped
 supplant
 supplantations
@@ -66186,6 +66217,7 @@ trowels
 trowing
 trowth
 trowths
+troy
 truancies
 truanting
 truantries
@@ -69251,6 +69283,7 @@ ventriculus
 ventriloquies
 ventriloquism
 ventriloquist
+ventriloquistic
 ventriloquize
 ventriloquized
 ventriloquizing
@@ -69258,6 +69291,7 @@ ventriloquy
 venturer
 venturesomely
 venturousness
+venturousnesses
 venule
 venules
 vera
@@ -70267,6 +70301,7 @@ washers
 washerwomen
 washeteria
 washeterias
+washhouses
 washouts
 washstand
 washups
