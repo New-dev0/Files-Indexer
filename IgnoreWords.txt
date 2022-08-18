@@ -3782,6 +3782,7 @@ attractants
 attracter
 attractions
 attractors
+attributes
 attributing
 attribution
 attributional
@@ -4807,6 +4808,7 @@ bastardises
 bastardizations
 bastardize
 bastardized
+bastardly
 bastardy
 baste
 baster
@@ -5076,6 +5078,7 @@ bedding
 bedeafening
 bedeafens
 bedeck
+bedecking
 bedell
 bedells
 bedemen
@@ -5845,6 +5848,7 @@ bimetals
 bimethyl
 bimethyls
 bimodal
+bimodality
 bimolecular
 bimonthly
 binarisms
@@ -6088,6 +6092,7 @@ bitartrate
 bitchen
 bitchery
 bitchiest
+bitching
 bite
 biteable
 biter
@@ -7803,6 +7808,7 @@ buncoing
 buncos
 bundled
 bundlers
+bundling
 bundlings
 bundt
 bung
@@ -11452,6 +11458,7 @@ cogged
 cogitable
 cogitated
 cogitates
+cogitating
 cogitator
 cogitators
 cogito
@@ -17555,6 +17562,7 @@ disobeyer
 disobeying
 disobeys
 disobliges
+disorder
 disorderedly
 disorderedness
 disordering
@@ -19379,6 +19387,7 @@ egressions
 egrets
 eicosanoid
 eide
+eider
 eiderdown
 eidetic
 eidos
@@ -21155,6 +21164,7 @@ eustasy
 eustatic
 eustele
 eutaxy
+eutectoid
 eutectoids
 euthanasia
 euthanasic
@@ -22694,6 +22704,7 @@ fibrously
 fibsters
 fibulae
 fices
+fiche
 fiches
 ficin
 ficins
@@ -25443,6 +25454,7 @@ georgettes
 geostationary
 geosynclinal
 geosynclines
+geotactic
 geotaxes
 geotectonically
 geothermally
@@ -25474,6 +25486,7 @@ germinabilities
 germinability
 germinal
 germinant
+germinations
 germiness
 germinesses
 germplasm
@@ -25566,6 +25579,7 @@ gibes
 giblet
 gibs
 giddied
+giddies
 giddily
 giddiness
 giddy
@@ -25615,6 +25629,7 @@ gimbal
 gimbaled
 gimbaling
 gimballing
+gimcrack
 gimleting
 gimlets
 gimmals
@@ -31927,6 +31942,7 @@ intitules
 intituling
 intolerableness
 intolerantly
+intolerantness
 intombing
 intonating
 intonational
@@ -39632,6 +39648,7 @@ murdering
 murderously
 murderousness
 murders
+murein
 mures
 muriates
 muricate
@@ -41610,6 +41627,7 @@ nurturances
 nurturer
 nurturing
 nutating
+nutation
 nutbrown
 nutcase
 nutcracker
@@ -43254,6 +43272,7 @@ outwalked
 outwalks
 outwardnesses
 outwards
+outwasting
 outwatching
 outwear
 outwearies
@@ -44583,6 +44602,7 @@ parameterizing
 parametrization
 parametrized
 parametrizes
+parametrizing
 paramorph
 paramorphs
 paramos
@@ -47427,6 +47447,7 @@ polydactyly
 polydipsia
 polydipsias
 polydispersity
+polyelectrolyte
 polyembryonies
 polyembryony
 polyene
@@ -47615,6 +47636,7 @@ poppadoms
 poppadums
 popper
 poppets
+poppied
 popping
 poppled
 poppy
@@ -48318,6 +48340,7 @@ prefigurement
 prefigures
 prefile
 prefiled
+prefinancing
 prefire
 prefires
 prefiring
@@ -49032,6 +49055,7 @@ profanatory
 profane
 profaneness
 profanenesses
+profaner
 profaning
 professedly
 professes
@@ -50715,6 +50739,7 @@ ramble
 rambled
 rambling
 rambunctiously
+rambutans
 ramee
 ramees
 ramekin
@@ -52638,6 +52663,7 @@ reopening
 reopens
 reoperate
 reoperated
+reoperates
 reordered
 reorganization
 reorganizations
@@ -56909,6 +56935,7 @@ sheepshanks
 sheepskins
 sheerest
 sheering
+sheerly
 sheerness
 sheers
 sheesh
@@ -57938,6 +57965,7 @@ skysail
 skyscrapers
 skysurf
 skysurfer
+skysurfing
 skysurfs
 skywalks
 skyways
@@ -61495,6 +61523,7 @@ suckling
 sucky
 sucres
 sucrose
+sucroses
 suction
 suctional
 suctioning
@@ -62464,6 +62493,7 @@ synaesthesias
 synagog
 synagogal
 synagogue
+synalepha
 synanon
 synanons
 synapse
@@ -63346,6 +63376,7 @@ temptations
 tempted
 tempter
 tempting
+tempts
 tenability
 tenably
 tenaces
@@ -64846,6 +64877,7 @@ trachled
 trachoma
 trachomas
 trachytes
+trachytic
 tracing
 track
 trackable
@@ -65681,6 +65713,7 @@ trucks
 truculencies
 truculency
 truculently
+trudges
 true
 trueblues
 truebred
@@ -69953,6 +69986,7 @@ weeniest
 weens
 weensiest
 weensy
+weep
 weepies
 weepiness
 weepinesses
@@ -71000,6 +71034,7 @@ xylidins
 xylitol
 xylocarp
 xylocarps
+xylograph
 xylographical
 xylographies
 xylographing
