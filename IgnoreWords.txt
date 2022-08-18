@@ -1562,6 +1562,7 @@ altimetry
 altitudinal
 altocumuli
 altogether
+altogethers
 altoist
 altoists
 altos
@@ -4317,6 +4318,7 @@ backmost
 backout
 backouts
 backpacker
+backpacks
 backpedalled
 backpedals
 backroom
@@ -8133,6 +8135,7 @@ byproduct
 byres
 byrled
 byroad
+bys
 byssal
 byssi
 byssuses
@@ -8500,6 +8503,7 @@ campaigner
 campaigners
 campanology
 camped
+campers
 campesinos
 campfire
 campfires
@@ -10788,6 +10792,7 @@ claimant
 claimer
 clairaudience
 clairaudient
+clairaudiently
 clairvoyance
 clairvoyantly
 clam
@@ -13585,6 +13590,7 @@ cousinry
 cousins
 cousinships
 couteaux
+couth
 couthest
 couture
 coutures
@@ -19664,6 +19670,7 @@ eloigned
 eloigner
 eloigning
 eloinment
+eloins
 elongates
 elongation
 elope
@@ -20731,6 +20738,7 @@ epitome
 epitomic
 epitomical
 epitomize
+epitomizing
 epitopes
 epizoism
 epizoites
@@ -22433,6 +22441,7 @@ faulted
 faultfinders
 faultfinding
 faultlessnesses
+fauna
 faunal
 faunistically
 faunlike
@@ -23403,6 +23412,7 @@ fleshliest
 fleshly
 fleshments
 fleshpot
+fleshpots
 fletched
 fleuron
 flexagon
@@ -26596,6 +26606,7 @@ graptolite
 grapy
 grasp
 graspable
+grasper
 graspers
 graspingly
 graspingness
@@ -31516,6 +31527,7 @@ insemination
 insensibilities
 insensible
 insensibly
+insensitive
 insensitivities
 insentience
 insentiences
@@ -32666,6 +32678,7 @@ jackknife
 jackknifing
 jacklegs
 jacklight
+jacklighting
 jackplane
 jackpot
 jackpots
@@ -33556,6 +33569,7 @@ kickboxed
 kickboxers
 kicked
 kicker
+kickers
 kickier
 kicking
 kickoff
@@ -37048,6 +37062,7 @@ mazelike
 mazer
 mazes
 mazier
+maziest
 mazily
 mazourkas
 mazy
@@ -37434,6 +37449,7 @@ mercery
 merch
 merchandised
 merchandisers
+merchandized
 merchandizes
 merchant
 merchantable
@@ -42605,6 +42621,7 @@ orc
 orchard
 orchards
 orchestral
+orchestrated
 orchestraters
 orchestrates
 orchestrating
@@ -44725,6 +44742,7 @@ paracletes
 parader
 paradiddle
 paradigm
+paradigms
 paradisaic
 paradisaical
 paradisal
@@ -44894,6 +44912,7 @@ pares
 paresis
 paresthesias
 paresthetic
+paretic
 paretics
 pareve
 parfleches
@@ -44983,6 +45002,7 @@ partakers
 partakes
 partan
 partans
+parted
 parterre
 parthenocarpic
 parthenocarpies
@@ -45031,6 +45051,7 @@ partway
 party
 partyers
 partygoers
+parura
 parvenue
 parvenus
 parvis
@@ -45565,6 +45586,7 @@ penicillin
 penicillinase
 penicillins
 penicillium
+penicils
 penitence
 penitences
 penitent
@@ -45945,6 +45967,7 @@ persecutes
 persecuting
 persecution
 persecutive
+persecutor
 persecutors
 persecutory
 perses
@@ -47369,6 +47392,7 @@ plumosities
 plumped
 plumpen
 plumpened
+plumper
 plumule
 plumules
 plunder
@@ -52148,6 +52172,7 @@ refire
 refired
 refit
 refits
+refitting
 refixed
 reflag
 reflagged
@@ -54682,6 +54707,7 @@ royalty
 royster
 rubaboo
 rubaiyat
+rubasses
 rubbaboo
 rubbaboos
 rubbered
@@ -54996,6 +55022,7 @@ saddletrees
 sade
 sades
 sadhes
+sadhu
 sadhus
 sadis
 sadisms
@@ -56128,6 +56155,7 @@ scull
 sculled
 sculler
 sculling
+scullions
 sculls
 sculped
 sculping
@@ -59500,6 +59528,7 @@ speared
 spearfish
 spearfished
 spearheading
+spearlike
 spearman
 spearmen
 spearmints
@@ -60824,6 +60853,7 @@ stonewalls
 stoneware
 stonewares
 stonewashed
+stonework
 stoniest
 stoninesses
 stonish
@@ -62285,6 +62315,7 @@ supplemented
 supplenesses
 suppletions
 suppletory
+suppliantly
 supplies
 support
 supportable
@@ -65849,6 +65880,7 @@ trivialist
 trivialists
 trivialization
 trivialize
+triweekly
 troak
 troaking
 trocar
@@ -66454,6 +66486,7 @@ typesettings
 typestyles
 typewriter
 typewritten
+typey
 typhlitic
 typhlitis
 typhlitises
@@ -67413,6 +67446,7 @@ unfortunately
 unfossiliferous
 unfree
 unfreed
+unfreedom
 unfreeing
 unfreezes
 unfreezing
@@ -71291,6 +71325,7 @@ xenodiagnostic
 xenogamies
 xenogamy
 xenogeneic
+xenogenic
 xenogenies
 xenogeny
 xenograft
