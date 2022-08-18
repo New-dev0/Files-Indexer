@@ -986,6 +986,7 @@ aggrade
 aggraded
 aggrandising
 aggrandizement
+aggrandizers
 aggrandizes
 aggravates
 aggregately
@@ -4387,6 +4388,7 @@ badmouths
 baffing
 bafflegab
 bafflements
+baffler
 bafflingly
 bag
 bagasses
@@ -7175,6 +7177,7 @@ branch
 branches
 branchia
 branchier
+branchiest
 branching
 branchline
 branchlines
@@ -9395,6 +9398,7 @@ cebids
 ceca
 cecal
 cecity
+cecropias
 cecum
 cedarbird
 cedarbirds
@@ -9819,6 +9823,7 @@ charcoals
 chargehand
 charger
 charging
+chargrills
 charily
 chariness
 charinesses
@@ -10815,6 +10820,7 @@ clapping
 clapt
 claptraps
 claque
+clarences
 claries
 clarification
 clarifier
@@ -11671,6 +11677,7 @@ collectivizing
 collector
 collectors
 collectorship
+collectorships
 collects
 college
 collegers
@@ -13230,6 +13237,7 @@ corroborant
 corroborative
 corroborator
 corroded
+corrodible
 corrodies
 corrody
 corrosion
@@ -13317,6 +13325,7 @@ cosmopolite
 cosmopolites
 cosmopolitisms
 cosmos
+cosponsors
 cossack
 cosseted
 costal
@@ -14564,6 +14573,7 @@ curtsied
 curule
 curvature
 curve
+curveball
 curveballs
 curvedly
 curves
@@ -15636,6 +15646,7 @@ deflagrations
 deflates
 deflating
 deflation
+deflationary
 deflations
 deflators
 deflea
@@ -16328,6 +16339,7 @@ deserters
 desertic
 desertified
 desertifies
+desertify
 deserts
 deserve
 deservedly
@@ -20201,6 +20213,7 @@ engrafts
 engrail
 engrailing
 engrails
+engrains
 engram
 engramme
 engrammes
@@ -21080,6 +21093,7 @@ ethnohistory
 ethnologic
 ethnologies
 ethnology
+ethnonym
 ethnos
 ethnosciences
 ethogram
@@ -21691,6 +21705,7 @@ expended
 expenditures
 expends
 expensed
+experience
 experientially
 experiment
 experimentalist
@@ -24620,6 +24635,7 @@ fugacity
 fugato
 fugatos
 fuggier
+fugio
 fugios
 fugled
 fuglemen
@@ -25409,6 +25425,7 @@ genetical
 genetically
 geneticists
 genets
+genettes
 geniality
 geniculated
 genip
@@ -26294,6 +26311,7 @@ gores
 gorgeousness
 gorgeousnesses
 gorger
+gorgerin
 gorgers
 gorgeted
 gorgonizes
@@ -28823,6 +28841,7 @@ homecoming
 homed
 homegrown
 homeland
+homelessnesses
 homeliest
 homelike
 homeliness
@@ -31159,6 +31178,7 @@ inflexion
 inflexions
 inflicters
 inflicting
+infliction
 inflictions
 inflictive
 inflorescence
@@ -31666,6 +31686,7 @@ intercede
 interceders
 intercedes
 intercept
+intercepter
 intercepters
 interceptions
 intercession
@@ -33204,6 +33225,7 @@ kakis
 kalamatas
 kaleidoscopes
 kaleidoscopic
+kalewife
 kalewives
 kaleyard
 kalifate
@@ -36076,6 +36098,7 @@ macruran
 macrurans
 macula
 maculated
+maculation
 macule
 macumba
 macumbas
@@ -48408,6 +48431,7 @@ preen
 preenacts
 preener
 preeners
+preenrollment
 preens
 preerect
 preerects
@@ -48891,6 +48915,7 @@ prevued
 prevuing
 prewar
 prewarming
+prewarned
 prewarns
 prewashed
 preweaning
@@ -52092,6 +52117,7 @@ reformisms
 reformist
 reformulating
 reformulation
+refortification
 refortifies
 refought
 refounded
@@ -52658,6 +52684,7 @@ remodelled
 remodelling
 remodifies
 remoisten
+remoistened
 remoistens
 remolades
 remolds
@@ -55425,6 +55452,7 @@ saviors
 savorer
 savories
 savorily
+savorinesses
 savors
 savour
 savoured
@@ -56208,6 +56236,7 @@ sedatest
 sedations
 sedative
 sederunt
+sedgy
 sedilia
 sedilium
 sedimentable
@@ -61024,6 +61053,7 @@ strumatic
 strummer
 strumpet
 strung
+strunt
 strunting
 strunts
 struthious
@@ -63216,6 +63246,7 @@ taxemic
 taxicab
 taxicabs
 taxidermic
+taxies
 taximen
 taximeter
 taximeters
@@ -67005,6 +67036,7 @@ underlaid
 underlap
 underlapped
 underlay
+underlays
 underlets
 underlie
 underline
@@ -67200,6 +67232,7 @@ unentered
 unenthusiastic
 unequals
 unerotic
+unerringly
 unescapable
 unessential
 unestablished
@@ -70692,6 +70725,7 @@ wired
 wiredraw
 wiredrawing
 wiredrew
+wiregrass
 wirehair
 wirehaired
 wirelessed
@@ -70749,6 +70783,7 @@ witchings
 witchweeds
 witchy
 wited
+witenagemote
 witenagemots
 wites
 withdrawable
