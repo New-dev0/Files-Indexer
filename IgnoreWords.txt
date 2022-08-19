@@ -1517,6 +1517,7 @@ almost
 almsgiver
 almsgivings
 almsman
+almud
 almuds
 almug
 alnicos
@@ -1626,6 +1627,7 @@ amalgamators
 amalgams
 amanitin
 amanuenses
+amaranthine
 amaranths
 amarelles
 amarna
@@ -2346,6 +2348,7 @@ anthelia
 anthelices
 anthelions
 anthelix
+anthelixes
 anthelmintic
 anthelmintics
 antheming
@@ -5082,6 +5085,7 @@ beatifically
 beatifications
 beatify
 beating
+beatitude
 beau
 beauteousnesses
 beauticians
@@ -6201,6 +6205,7 @@ biters
 bites
 bitmap
 bitmapped
+bitstream
 bitstreams
 bitsy
 bitted
@@ -7576,6 +7581,7 @@ brogues
 broguish
 broider
 broidered
+broideries
 broiler
 broilers
 broiling
@@ -9523,6 +9529,7 @@ ceasefires
 ceaselessly
 ceasing
 cebids
+ceboid
 ceca
 cecal
 cecity
@@ -12207,6 +12214,7 @@ competing
 competitor
 competitors
 compilations
+compile
 compiles
 complacences
 complacently
@@ -13197,6 +13205,7 @@ copublish
 copublished
 copulae
 copulates
+copulating
 copulations
 copulatives
 copulatory
@@ -18942,6 +18951,7 @@ drone
 droned
 drones
 drongos
+droning
 droningly
 drool
 drooled
@@ -21384,6 +21394,7 @@ ethnohistorian
 ethnohistory
 ethnologic
 ethnologies
+ethnologist
 ethnology
 ethnonym
 ethnos
@@ -23036,6 +23047,7 @@ feuds
 feuilleton
 feuilletonism
 feuilletonist
+feuilletonists
 fever
 fevering
 feverish
@@ -25414,6 +25426,7 @@ ganged
 gangers
 gangland
 ganglial
+gangliar
 ganglier
 gangliest
 ganglionic
@@ -27901,6 +27914,7 @@ handkerchieves
 handled
 handleless
 handlers
+handles
 handless
 handling
 handlist
@@ -28351,6 +28365,7 @@ heartinesses
 heartlessly
 heartlessness
 heartlessnesses
+heartsick
 heartsickness
 heartsome
 heartsomely
@@ -29487,6 +29502,7 @@ hornbooks
 hornet
 hornier
 horniest
+hornily
 horniness
 horninesses
 horning
@@ -29808,6 +29824,7 @@ humuses
 humvee
 humvees
 hunch
+hunchback
 hunchbacked
 hunchbacks
 hunched
@@ -29837,6 +29854,7 @@ hurds
 hurlers
 hurleys
 hurlings
+hurrahing
 hurrahs
 hurrayed
 hurricane
@@ -30095,6 +30113,7 @@ hypermodernist
 hypermodernists
 hyperons
 hyperopes
+hyperparasitism
 hyperphagia
 hyperphysical
 hyperplane
@@ -33684,6 +33703,7 @@ kaliphs
 kalium
 kaliums
 kallikrein
+kallikreins
 kalmia
 kalong
 kalpa
@@ -36763,6 +36783,7 @@ malachites
 malacological
 malacologist
 malacologists
+malacology
 maladaptations
 maladaptive
 maladies
@@ -37734,6 +37755,7 @@ melaphyres
 melastome
 melatonin
 meld
+melded
 melders
 melding
 melee
@@ -41755,6 +41777,7 @@ nonintercourses
 noninterest
 nonintersecting
 nonintimidating
+nonintoxicant
 nonintoxicants
 nonintoxicating
 nonintrusive
@@ -47088,6 +47111,7 @@ phyllotaxy
 phylloxera
 phylogenetic
 phylogenies
+phylogeny
 physed
 physiatries
 physiatrist
@@ -48011,6 +48035,7 @@ podding
 podestas
 podgiest
 podgily
+podiatric
 podiatrist
 podiatry
 podites
@@ -51098,6 +51123,7 @@ quarterdecks
 quartered
 quarterers
 quarterfinal
+quarterfinalist
 quartering
 quarterlies
 quarterly
@@ -59429,6 +59455,7 @@ sneaps
 snecks
 snedded
 snedding
+sneds
 sneerful
 sneerier
 sneeriest
@@ -59574,6 +59601,7 @@ snufflier
 snuffliest
 snuffling
 snuffy
+snuggerie
 snuggery
 snugly
 snugness
@@ -59925,6 +59953,7 @@ sophistic
 sophisticates
 sophomore
 sopited
+sopiting
 sopor
 sopped
 soppier
@@ -60156,6 +60185,7 @@ sparkier
 sparkish
 sparkle
 sparkler
+sparklet
 sparklets
 sparklier
 sparkplug
@@ -62380,6 +62410,7 @@ substantivizing
 substate
 substituted
 substituting
+substitutional
 substitutions
 substitutive
 substrata
@@ -64426,6 +64457,7 @@ tenderly
 tenderometer
 tenderometers
 tenders
+tendinitis
 tendinous
 tendon
 tendonitis
@@ -65934,6 +65966,7 @@ tracks
 tract
 tractability
 tractional
+tractive
 tractors
 tradable
 trade
@@ -66659,6 +66692,7 @@ troilites
 troilus
 trois
 troke
+troking
 trolled
 trollers
 trolley
@@ -70728,6 +70762,7 @@ walruses
 waltz
 waltzer
 wamblier
+wamefou
 wamefuls
 wammuses
 wampished
