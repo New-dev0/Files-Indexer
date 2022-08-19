@@ -1490,6 +1490,7 @@ allusivenesses
 alluvia
 alluvion
 alluvium
+alluviums
 allyl
 allyls
 alma
@@ -2576,6 +2577,7 @@ antipsychotics
 antipyics
 antipyretic
 antipyretics
+antipyrines
 antiquarianisms
 antiquark
 antiquarks
@@ -3961,6 +3963,7 @@ autarchical
 autarkies
 autarkist
 autecology
+auteurists
 auteurs
 authentic
 authentically
@@ -7844,6 +7847,7 @@ bulkier
 bulkinesses
 bullace
 bullaces
+bullbrier
 bullbriers
 bulldoggings
 bulldyke
@@ -10772,6 +10776,7 @@ circumlocution
 circumlocutions
 circumlunar
 circumnavigated
+circumnavigates
 circumscissile
 circumscription
 circumspect
@@ -16377,6 +16382,7 @@ depravedly
 depravedness
 depravement
 depraving
+depravities
 deprecates
 deprecating
 deprecatingly
@@ -18397,6 +18403,7 @@ donative
 donator
 done
 donee
+doneness
 donenesses
 dong
 dongles
@@ -18582,6 +18589,7 @@ doves
 dovetail
 dovetailed
 dovetails
+dovishness
 dow
 dowagers
 dowdier
@@ -20422,6 +20430,7 @@ engagers
 engagingly
 engarlands
 engendering
+engild
 engine
 engineer
 engineered
@@ -22027,6 +22036,7 @@ expressionist
 expressionistic
 expressionless
 expressions
+expressiveness
 expressivity
 expressly
 expressos
@@ -22246,6 +22256,7 @@ fabled
 fabler
 fablers
 fables
+fabliaux
 fabling
 fabricants
 fabricate
@@ -22267,6 +22278,7 @@ faces
 facete
 facetiae
 facetious
+facetiousness
 facia
 facially
 facials
@@ -25210,6 +25222,7 @@ galax
 galbanum
 galeas
 galeate
+galena
 galenas
 galenic
 galenical
@@ -26553,6 +26566,7 @@ good
 goodby
 goodbyes
 goodbys
+goodish
 goodman
 goodmen
 goodness
@@ -27600,6 +27614,7 @@ haemin
 haemoid
 haems
 haen
+haeredes
 haeres
 haet
 haffit
@@ -30249,6 +30264,7 @@ ideograms
 ideographic
 ideography
 ideologic
+ideological
 ideologically
 ideologies
 ideologizes
@@ -35339,6 +35355,7 @@ licks
 lickspittles
 licorice
 lictor
+lidars
 lidding
 lidos
 lie
@@ -36645,6 +36662,7 @@ maintops
 maiolica
 mairs
 maisonette
+maisonettes
 maists
 majagua
 majaguas
@@ -36788,6 +36806,7 @@ mammary
 mammati
 mammatus
 mammer
+mammered
 mammers
 mammet
 mammets
@@ -37173,6 +37192,7 @@ mashgichim
 masjids
 mask
 maskable
+maskeg
 masker
 masklike
 masochisms
@@ -43027,6 +43047,7 @@ orderers
 ordering
 orderless
 orderliness
+orderlinesses
 orderly
 orders
 ordinand
@@ -46448,6 +46469,7 @@ pertinences
 pertinencies
 pertly
 pertness
+perturbable
 perturbation
 perturbational
 perturbations
@@ -47101,6 +47123,7 @@ picnickers
 picofarads
 picolin
 picomole
+picoted
 picoting
 picquet
 picrated
@@ -50981,6 +51004,7 @@ quarterfinal
 quartering
 quarterlies
 quarterly
+quartermaster
 quartermasters
 quarters
 quarterstaff
@@ -52857,6 +52881,7 @@ regreeted
 regreeting
 regress
 regressive
+regressiveness
 regressor
 regretfulness
 regretfulnesses
@@ -54927,6 +54952,7 @@ roguishly
 roguishnesses
 roiliest
 roiling
+roistered
 roisterers
 roisterous
 roisters
@@ -59744,6 +59770,7 @@ sonicator
 sonneteering
 sonneteers
 sonnetize
+sonnetized
 sonobuoy
 sonobuoys
 sonograms
@@ -59992,6 +60019,7 @@ spangles
 spaniel
 spanked
 spankings
+spanned
 spanning
 spanokopita
 spanokopitas
@@ -60096,6 +60124,7 @@ specking
 speckle
 speckles
 specs
+spectacled
 spectacles
 spectacular
 spectate
@@ -64318,6 +64347,7 @@ tensive
 tensor
 tensors
 tent
+tentacles
 tentative
 tentativeness
 tentatives
@@ -65487,6 +65517,7 @@ tootle
 tootled
 toots
 top
+topcoat
 topcross
 tope
 toped
@@ -69764,6 +69795,7 @@ verrucas
 versal
 versatileness
 versatilenesses
+versatilities
 versatility
 verse
 verseman
@@ -70565,6 +70597,7 @@ wamblier
 wamefuls
 wammuses
 wampished
+wampishing
 wampumpeag
 wamuses
 wand
@@ -71179,6 +71212,7 @@ whisht
 whisk
 whiskered
 whiskery
+whiskey
 whiskies
 whisper
 whisperers
@@ -72159,6 +72193,7 @@ yields
 yikes
 yill
 yipes
+yipped
 yippee
 yippies
 yipping
