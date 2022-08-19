@@ -2479,6 +2479,7 @@ antihunter
 antihysteric
 antijam
 antijamming
+antiking
 antikings
 antilabor
 antileft
@@ -3250,6 +3251,7 @@ arousers
 aroynt
 aroynting
 arpeggiated
+arpeggiating
 arpeggio
 arpeggios
 arpen
@@ -6802,6 +6804,7 @@ bongoes
 bongoist
 bongoists
 bonhomies
+boniest
 boniface
 bonifaces
 bonita
@@ -10351,6 +10354,7 @@ chlorenchyma
 chlorenchymas
 chlorids
 chlorin
+chlorinated
 chlorinations
 chlorinator
 chlorinators
@@ -11037,6 +11041,7 @@ cliffier
 cliffs
 clift
 clifts
+climate
 climates
 climatize
 climatological
@@ -16304,6 +16309,7 @@ depositor
 depositors
 depository
 depot
+deprave
 depravedly
 depravedness
 depravement
@@ -16613,6 +16619,7 @@ deterging
 deteriorating
 deterioration
 determent
+determinable
 determinably
 determinacies
 determinacy
@@ -20011,6 +20018,7 @@ empaneling
 empanelling
 empanels
 empathetically
+empathically
 empathizing
 empennages
 emperor
@@ -20768,6 +20776,7 @@ epigenists
 epigeous
 epiglottal
 epiglottic
+epigone
 epigonism
 epigonisms
 epigrammatic
@@ -22999,6 +23008,7 @@ fifes
 fifteen
 fifties
 fifty
+fig
 figged
 fight
 fighters
@@ -24448,6 +24458,7 @@ franc
 franchise
 franchisees
 franchiser
+franchises
 francium
 franciums
 francize
@@ -26284,6 +26295,7 @@ glycosylations
 glyph
 gnar
 gnarlier
+gnarling
 gnarls
 gnarr
 gnarrs
@@ -26962,6 +26974,7 @@ gripier
 griping
 gripman
 grippier
+grippiest
 gripple
 grippy
 gripsack
@@ -27140,6 +27153,7 @@ grumping
 grumps
 grungy
 grunions
+grunted
 grunter
 gruntle
 gruntled
@@ -28353,6 +28367,7 @@ helplessness
 helpmate
 helpmates
 helpmeets
+helps
 helve
 hem
 hemacytometer
@@ -32701,6 +32716,7 @@ isogon
 isogones
 isogonic
 isogonies
+isogons
 isografted
 isogriv
 isohels
@@ -39214,6 +39230,7 @@ monetarily
 monetarism
 monetises
 monetization
+monetizations
 monetizing
 money
 moneyed
@@ -40041,6 +40058,7 @@ murdering
 murderously
 murderousness
 murders
+mure
 murein
 mures
 muriates
@@ -40807,6 +40825,7 @@ neume
 neumes
 neums
 neuralgic
+neurally
 neurasthenic
 neurilemma
 neurilemmas
@@ -40987,6 +41006,7 @@ niggarded
 niggarding
 niggardliness
 niggardlinesses
+niggler
 nigglers
 niggling
 nigglings
@@ -41527,6 +41547,7 @@ nonman
 nonmanual
 nonmarital
 nonmarket
+nonmaterial
 nonmechanical
 nonmedical
 nonmembers
@@ -43086,6 +43107,7 @@ osteoclasts
 osteocyte
 osteocytes
 osteogenic
+osteoids
 osteological
 osteomalacia
 osteomyelitis
@@ -43605,6 +43627,7 @@ outsoars
 outsoles
 outsources
 outspan
+outsparkled
 outspeeded
 outspeeds
 outspell
@@ -44172,6 +44195,7 @@ overquick
 overrash
 overrate
 overrated
+overrating
 overreacher
 overreaches
 overreact
@@ -45176,6 +45200,7 @@ parled
 parles
 parleyed
 parleying
+parleys
 parliament
 parliamentary
 parliaments
@@ -48068,6 +48093,7 @@ pontificating
 pontificators
 pontils
 pontine
+ponton
 pontons
 pontoon
 pony
@@ -50365,6 +50391,7 @@ punctuations
 puncture
 puncturing
 punditic
+punditries
 pung
 pungency
 pungently
@@ -50865,6 +50892,7 @@ questionnaire
 quests
 quetzales
 quetzals
+queue
 queueing
 queuer
 queues
@@ -52280,6 +52308,7 @@ reductionist
 reductions
 reductivenesses
 reductor
+redundant
 reduplicated
 reduplicates
 reduplicating
@@ -54495,6 +54524,7 @@ rille
 rimer
 rimers
 rimfires
+riminess
 riming
 rimland
 rimless
@@ -55007,6 +55037,7 @@ rubbernecked
 rubbers
 rubbings
 rubbishes
+rubble
 rubbling
 rubdown
 rubefacient
@@ -55624,6 +55655,7 @@ sanguinarias
 sanguine
 sanguinely
 sanguineness
+sanguinity
 sanidine
 sanidines
 sanitaries
@@ -60822,6 +60854,7 @@ stearates
 steatopygia
 steatopygias
 steatorrhea
+steek
 steeked
 steelhead
 steelheads
@@ -64075,6 +64108,7 @@ tensenesses
 tenser
 tensilities
 tensiometries
+tensive
 tensor
 tensors
 tent
@@ -71792,6 +71826,7 @@ yardage
 yardages
 yardarm
 yardarms
+yardbirds
 yarder
 yarding
 yardlands
