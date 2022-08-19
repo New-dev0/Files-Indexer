@@ -374,6 +374,7 @@ acned
 acock
 aconitic
 aconitum
+aconitums
 acousticians
 acoustics
 acquaint
@@ -1318,6 +1319,7 @@ alienators
 aliening
 alienisms
 alienist
+alienists
 aliennesses
 alif
 aliform
@@ -3921,6 +3923,7 @@ auklets
 auks
 auld
 aulder
+aulic
 auntlier
 aunts
 aura
@@ -7560,6 +7563,7 @@ brogues
 broguish
 broider
 broidered
+broiler
 broilers
 broiling
 broils
@@ -10165,6 +10169,7 @@ chernozems
 cherry
 cherts
 cherub
+cherubic
 cheshires
 chessboards
 chesses
@@ -10496,6 +10501,7 @@ choragus
 choraguses
 chorale
 chorals
+chordal
 chording
 chords
 chorea
@@ -12631,6 +12637,7 @@ connecting
 connection
 connectional
 connections
+connective
 connectivities
 connects
 conner
@@ -17374,6 +17381,7 @@ dipterans
 dipterocarp
 dipteron
 diptyca
+diptycas
 diquats
 diram
 directedness
@@ -17461,6 +17469,7 @@ disappoints
 disapprobation
 disapprobations
 disapproval
+disapprove
 disapprover
 disarmament
 disarmaments
@@ -18795,6 +18804,7 @@ draymen
 drays
 dread
 dreadfully
+dreadfulnesses
 dreading
 dreadlocks
 dreads
@@ -21803,6 +21813,7 @@ exhalation
 exhalations
 exhaled
 exhalents
+exhaust
 exhausted
 exhausting
 exhaustion
@@ -22342,6 +22353,7 @@ faecal
 faeries
 faery
 fagged
+faggiest
 fagging
 faggoting
 faggotry
@@ -23331,6 +23343,7 @@ firmers
 firmness
 firmnesses
 firms
+firns
 firs
 firstborns
 firstfruits
@@ -25967,6 +25980,7 @@ giftwares
 giftwrap
 giftwrapped
 giftwrapping
+giftwraps
 gig
 gigabyte
 gigahertzes
@@ -28914,6 +28928,7 @@ himself
 hindbrains
 hinder
 hindering
+hindmost
 hindrance
 hindrances
 hinds
@@ -31908,6 +31923,7 @@ inspissates
 instabilities
 installed
 installs
+instals
 instances
 instant
 instantaneity
@@ -34880,6 +34896,7 @@ lazar
 lazarette
 lazarettes
 lazars
+lazied
 lazily
 laziness
 lazulite
@@ -34935,6 +34952,7 @@ leanest
 leaning
 leanings
 leanly
+leanness
 leans
 leant
 leaped
@@ -35227,6 +35245,7 @@ levelling
 levelnesses
 levels
 leveret
+leverets
 leviable
 leviathan
 leviathans
@@ -36591,6 +36610,7 @@ magnanimities
 magnanimous
 magnesias
 magnesite
+magnet
 magnetically
 magnetics
 magnetise
@@ -40006,6 +40026,7 @@ muesli
 mueslis
 muezzin
 muffed
+muffin
 muffineer
 mufflers
 muffles
@@ -43306,6 +43327,7 @@ otherwise
 otherworld
 otherworldly
 otic
+otiose
 otiosely
 otioseness
 otiosities
@@ -44321,6 +44343,7 @@ overoperate
 overoperated
 overopinionated
 overoptimism
+overoptimistic
 overorchestrate
 overorganized
 overornamented
@@ -47317,6 +47340,7 @@ pinnace
 pinnacle
 pinnae
 pinnated
+pinnately
 pinnation
 pinned
 pinning
@@ -49849,6 +49873,7 @@ projected
 projectile
 projecting
 projection
+projectionist
 projectionists
 projects
 projet
@@ -51099,6 +51124,7 @@ quicklime
 quickly
 quickness
 quicknesses
+quicks
 quicksand
 quickstep
 quid
@@ -53824,6 +53850,7 @@ reshingled
 reshingles
 reship
 reshipped
+reshipper
 reshipping
 reshod
 reshoe
@@ -55190,6 +55217,7 @@ roust
 roustabouts
 route
 routeman
+routemen
 router
 routes
 routine
@@ -56211,6 +56239,7 @@ scandalled
 scandalmonger
 scandalous
 scandalousness
+scandals
 scandias
 scandium
 scanner
@@ -56692,6 +56721,7 @@ sculped
 sculping
 sculptors
 sculptresses
+sculptural
 sculpturally
 sculpturesque
 scumbag
@@ -60766,6 +60796,7 @@ squooshier
 squooshiest
 squushing
 sraddha
+sraddhas
 sradha
 sri
 sris
@@ -62450,6 +62481,7 @@ sugarier
 sugariest
 sugarlike
 sugars
+sugary
 suggest
 suggesters
 suggestibility
@@ -63112,6 +63144,7 @@ swannery
 swanpan
 swans
 swanskins
+swap
 swapped
 swapper
 swappers
@@ -64471,6 +64504,7 @@ terrines
 territ
 territorial
 territorialisms
+territorialist
 territorialize
 territorialized
 territorials
@@ -66709,6 +66743,7 @@ tsades
 tsar
 tsardoms
 tsarevnas
+tsarinas
 tsarism
 tsarists
 tsaritza
