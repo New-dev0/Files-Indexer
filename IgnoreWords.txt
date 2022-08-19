@@ -1660,6 +1660,7 @@ ambient
 ambients
 ambiguities
 ambiguous
+ambiguously
 ambiguousness
 ambiguousnesses
 ambipolar
@@ -3881,6 +3882,7 @@ audient
 audile
 audiles
 audiobook
+audiobooks
 audiocassette
 audiocassettes
 audiologic
@@ -6021,6 +6023,7 @@ biopirate
 bioplasms
 bioptic
 bioreactor
+bioreactors
 bioregionalism
 bioregionalisms
 bioregions
@@ -6525,6 +6528,7 @@ bludgeon
 bludgeoned
 bludgeoning
 bludgeons
+blueball
 bluebeards
 bluebeats
 bluebell
@@ -6818,6 +6822,7 @@ bonefishing
 bonehead
 boneheaded
 boneheadedness
+bonemeals
 boneset
 bong
 bonged
@@ -8638,6 +8643,7 @@ candleberry
 candlefish
 candlefishes
 candlelight
+candlelighted
 candlelighter
 candlelit
 candlenuts
@@ -9235,6 +9241,7 @@ castoreums
 castors
 castrater
 castrates
+castrato
 castratory
 castratos
 casual
@@ -9424,6 +9431,7 @@ cauls
 causable
 causal
 causalgia
+causalgias
 causalgic
 causally
 causals
@@ -12401,6 +12409,7 @@ condolers
 condoles
 condom
 condominiums
+condonation
 condone
 condoned
 condoners
@@ -19355,6 +19364,7 @@ earwigging
 earwigs
 earwitness
 earworms
+eased
 easeful
 easements
 eases
@@ -20240,6 +20250,7 @@ encroacher
 encroaching
 encroachment
 encrustation
+encrusted
 encrusting
 encryption
 encryptions
@@ -28819,6 +28830,7 @@ hierarchical
 hierarchies
 hierarchize
 hieratic
+hierodule
 hieroglyphic
 hieroglyphical
 hieroglyphics
@@ -31127,6 +31139,7 @@ inculcator
 inculcators
 inculpable
 inculpated
+inculpates
 inculpating
 inculpations
 inculpatory
@@ -31304,6 +31317,7 @@ inducement
 inducer
 inducing
 induct
+inductances
 inducted
 inductee
 inductees
@@ -32213,6 +32227,7 @@ internucleonic
 internuncio
 interobserver
 interocean
+interoceanic
 interoceptor
 interoceptors
 interoffice
@@ -32618,6 +32633,7 @@ iolites
 ion
 ionicities
 ionicity
+ionises
 ioniums
 ionizations
 ionogenic
@@ -36114,6 +36130,7 @@ lovemaking
 lovemakings
 lover
 loves
+lovesick
 lovesicknesses
 lovingnesses
 lowballed
@@ -38932,6 +38949,7 @@ misnumbering
 misogamic
 misogamist
 misogamy
+misogynic
 misogynist
 misogyny
 misologies
@@ -45329,6 +45347,7 @@ parkinsonisms
 parklike
 parkway
 parlance
+parlances
 parlando
 parlay
 parlays
@@ -47446,6 +47465,7 @@ pixel
 pixels
 pixie
 pixieish
+pixinesses
 pizazzes
 pizzalike
 pizzaz
@@ -49097,6 +49117,7 @@ premature
 prematurely
 prematureness
 prematurenesses
+premaxillae
 premaxillaries
 premaxillary
 premed
@@ -51153,6 +51174,7 @@ quodlibet
 quodlibets
 quods
 quoining
+quoiting
 quoits
 quomodo
 quomodos
@@ -53281,6 +53303,7 @@ remotivated
 remotivates
 remotivating
 remoulade
+removabilities
 removablenesses
 removably
 removals
@@ -56876,6 +56899,7 @@ seedling
 seedlings
 seedpod
 seedpods
+seeds
 seedsmen
 seedstock
 seedtime
@@ -56932,6 +56956,7 @@ seisings
 seisins
 seism
 seismic
+seismical
 seismism
 seismogram
 seismographic
@@ -57186,6 +57211,7 @@ sensualized
 sensualizes
 sensually
 sensum
+sent
 sententia
 sentential
 sententious
@@ -57844,6 +57870,7 @@ shipment
 shippen
 shippens
 shipping
+shippings
 shippon
 ships
 shipside
@@ -58765,6 +58792,7 @@ slanderers
 slanderous
 slanderously
 slang
+slanged
 slangier
 slangiest
 slanginess
@@ -61125,6 +61153,7 @@ stereograms
 stereograph
 stereographed
 stereographic
+stereographies
 stereoisomeric
 stereoisomerism
 stereology
@@ -61859,6 +61888,7 @@ subcategorized
 subcategorizes
 subcavity
 subcellars
+subcells
 subcellular
 subcenter
 subcenters
@@ -62104,6 +62134,7 @@ suboxide
 subparallel
 subparts
 subpenaed
+subperiod
 subperiods
 subphase
 subphases
@@ -64262,6 +64293,7 @@ tenet
 tenia
 teniae
 tenias
+teniasis
 tennises
 tennists
 tenoner
@@ -67288,6 +67320,7 @@ unaesthetic
 unaffectedness
 unaffecting
 unaffectionate
+unaffluent
 unaffordable
 unafraid
 unageing
@@ -70306,6 +70339,7 @@ vorticist
 vorticists
 vorticity
 votaress
+votaries
 votarists
 votary
 voteless
@@ -71056,6 +71090,7 @@ whelped
 whelping
 whenas
 whenever
+whens
 whensoever
 wherefore
 whereinto
