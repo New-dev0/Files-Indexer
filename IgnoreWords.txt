@@ -940,6 +940,7 @@ agalloch
 agallochs
 agamete
 agametes
+agapanthus
 agapanthuses
 agape
 agapeic
@@ -1438,6 +1439,7 @@ allogamy
 allogeneic
 allografts
 allometries
+allometry
 allomorph
 allonym
 allopathies
@@ -2049,6 +2051,7 @@ andouillette
 androecia
 androgeneses
 androgenic
+androgynies
 androgynous
 andrologies
 andros
@@ -4006,6 +4009,7 @@ autohypnosis
 autohypnotic
 autoimmune
 autoloading
+autolysate
 autolysates
 autolysed
 autolysins
@@ -4361,6 +4365,7 @@ backslap
 backslapped
 backslapper
 backslappers
+backslides
 backspace
 backspaced
 backspacing
@@ -6536,6 +6541,7 @@ bluestone
 bluestones
 bluet
 bluetick
+bluetongues
 blueweeds
 bluewood
 bluff
@@ -7549,6 +7555,7 @@ bromine
 brominisms
 bromizes
 bromouracil
+bronchia
 bronchial
 bronchiectases
 bronchiectasis
@@ -8670,6 +8677,7 @@ canoed
 canoeists
 canola
 canolas
+canoness
 canonical
 canonise
 canonised
@@ -9341,6 +9349,7 @@ catholicates
 catholicity
 catholicizing
 catholicon
+catholicons
 catholicoses
 cathouse
 cationically
@@ -11151,6 +11160,7 @@ clostridial
 closure
 closures
 clot
+clothbound
 clotheshorses
 clotheslined
 clothespins
@@ -12297,6 +12307,7 @@ concho
 conchoidal
 conchoidally
 conchologists
+conchology
 conchy
 concierge
 conciliar
@@ -14265,6 +14276,7 @@ crows
 crozers
 croziers
 cruces
+crucian
 crucifers
 crucifies
 crucifix
@@ -15101,6 +15113,7 @@ dampers
 damping
 dampnesses
 damselfish
+damselfishes
 damselflies
 danazol
 danazols
@@ -17365,6 +17378,7 @@ disaffects
 disaffiliate
 disaffiliates
 disaffiliating
+disaffirming
 disaffirms
 disaggregate
 disaggregated
@@ -24048,6 +24062,7 @@ foraminiferal
 forams
 forays
 forbad
+forbare
 forbear
 forbearance
 forbearances
@@ -27028,6 +27043,7 @@ groin
 grommeting
 grommets
 groom
+groomer
 groomsmen
 grooved
 groovers
@@ -27373,6 +27389,7 @@ guttersnipes
 guttery
 guttiest
 gutting
+guttle
 guttler
 guttlers
 guttles
@@ -28246,6 +28263,7 @@ hectoliter
 hectoliters
 hectometer
 hectometers
+hector
 hectors
 heddles
 heder
@@ -29486,6 +29504,7 @@ housewifely
 houseworks
 housing
 houstonia
+houstonias
 hovel
 hovelling
 hovels
@@ -30416,6 +30435,7 @@ immoralism
 immoralisms
 immoralists
 immoralities
+immorality
 immortalised
 immortalises
 immortalising
@@ -30580,6 +30600,7 @@ imphees
 imping
 impingement
 impingements
+impingers
 impinges
 impings
 impiously
@@ -32369,6 +32390,7 @@ inurnments
 inutile
 inutilely
 inutility
+invades
 invaginated
 invaginating
 invalid
@@ -39542,6 +39564,7 @@ morenesses
 moreover
 moresques
 morganites
+morgue
 moribund
 morion
 morions
@@ -42642,6 +42665,7 @@ onload
 onlookers
 onlooking
 only
+onomastically
 onomastician
 onomatology
 onrush
@@ -43443,6 +43467,7 @@ outlined
 outliner
 outlived
 outliver
+outlivers
 outliving
 outloved
 outloves
@@ -45176,6 +45201,7 @@ parfleches
 parfocalized
 parfocalizes
 parfocalizing
+parges
 pargets
 pargetted
 pargylines
@@ -46045,6 +46071,7 @@ perfecto
 perfects
 perfidies
 perfidious
+perfidiously
 perfidiousness
 perforate
 perforated
@@ -47308,6 +47335,7 @@ pixie
 pixieish
 pizazzes
 pizzalike
+pizzaz
 pizzazzy
 pizzelle
 pizzelles
@@ -48220,6 +48248,7 @@ portionless
 portions
 portless
 portliest
+portmanteaux
 portraitures
 portray
 portrayed
@@ -52584,6 +52613,7 @@ refuels
 refuge
 refugium
 refulgence
+refundabilities
 refunds
 refurbish
 refurbisher
@@ -54551,6 +54581,7 @@ ringlike
 ringmaster
 ringside
 ringtail
+ringtaws
 ringtoss
 ringtosses
 ringworms
@@ -62692,6 +62723,7 @@ suppositional
 suppositions
 supposititious
 suppositories
+suppress
 suppression
 suppressors
 suppurate
@@ -62818,6 +62850,7 @@ suspicion
 suspicions
 suspicious
 suspiciously
+suspiciousness
 suspiration
 suspirations
 suspiring
@@ -70106,6 +70139,7 @@ vomiting
 vomitives
 vomito
 vomitous
+vomitus
 vomituses
 voodoo
 voodooed
@@ -70954,6 +70988,7 @@ whirrs
 whirs
 whishes
 whisht
+whisk
 whiskered
 whiskery
 whiskies
