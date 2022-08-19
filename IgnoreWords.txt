@@ -2248,6 +2248,7 @@ annelid
 annelids
 annexe
 annexes
+annexing
 annihilates
 annihilation
 annihilator
@@ -5595,6 +5596,7 @@ berks
 berlines
 berme
 bernicle
+bernicles
 berobed
 berretta
 berried
@@ -6062,6 +6064,7 @@ bioregionalisms
 bioregions
 bioremediation
 biorhythm
+bioscientific
 bioscientist
 bioscientists
 bioscopes
@@ -10356,6 +10359,7 @@ chinned
 chino
 chinquapins
 chins
+chinstraps
 chints
 chintzier
 chintziest
@@ -10871,6 +10875,7 @@ citadels
 citation
 citatory
 cite
+citers
 cithara
 cithrens
 citified
@@ -11008,6 +11013,7 @@ clarionets
 clarities
 clarkia
 claros
+clary
 clashers
 clashes
 clasping
@@ -12762,6 +12768,7 @@ conservative
 conservatized
 conservatizing
 conservatorial
+conservators
 conservatorship
 consider
 considerably
@@ -16074,6 +16081,7 @@ delegacy
 delegate
 delegated
 delegatees
+delegates
 delegating
 delegations
 delegators
@@ -17222,6 +17230,7 @@ digestibility
 digestible
 digestions
 digestive
+digestor
 digests
 diggings
 digital
@@ -18871,6 +18880,7 @@ drawings
 drawknives
 drawler
 drawling
+drawlingly
 drawnwork
 drawplates
 draws
@@ -19487,6 +19497,7 @@ easygoingness
 eat
 eaten
 eater
+eateries
 eatery
 eath
 eating
@@ -20659,6 +20670,7 @@ enrols
 enrooting
 enroots
 ens
+ensanguined
 ensanguines
 ensconce
 ensconcing
@@ -21600,6 +21612,7 @@ eutrophications
 eutrophy
 euxenite
 evacuates
+evacuative
 evacuator
 evacuee
 evaginates
@@ -21726,6 +21739,7 @@ exaltations
 exalters
 exalting
 exam
+examinable
 examinants
 examined
 examinee
@@ -24853,6 +24867,7 @@ friezes
 frigates
 frigging
 frighten
+frightened
 frightful
 frightfully
 frightfulness
@@ -28582,6 +28597,7 @@ hellbender
 hellbenders
 hellbox
 hellboxes
+helldivers
 helled
 hellenizations
 helleris
@@ -32639,6 +32655,7 @@ intumesces
 inturn
 intussuscepting
 intussusception
+intussusceptive
 intwined
 intwisted
 inulase
@@ -33762,6 +33779,7 @@ kaiserism
 kaiserisms
 kaisers
 kajeputs
+kakapo
 kaki
 kakiemon
 kakiemons
@@ -34423,6 +34441,7 @@ kuchen
 kuchens
 kudus
 kudzus
+kue
 kukri
 kukris
 kultur
@@ -35822,6 +35841,7 @@ lissomeness
 lissomenesses
 list
 listable
+listel
 listels
 listened
 listener
@@ -37121,6 +37141,7 @@ mannishly
 mannishness
 mannishnesses
 mannite
+mannitol
 mannitols
 mannoses
 manoeuvred
@@ -37262,6 +37283,7 @@ marjorams
 mark
 marka
 markas
+marked
 markedly
 marker
 markers
@@ -43380,6 +43402,7 @@ orphical
 orphisms
 orphreyed
 orpiment
+orpine
 orra
 orrices
 orris
@@ -45333,6 +45356,7 @@ paperhangers
 paperhangings
 papering
 papers
+paperweight
 paperwork
 paperworks
 papeterie
@@ -55053,6 +55077,7 @@ ritters
 ritual
 ritualism
 ritualist
+ritualistic
 ritualists
 ritually
 ritzier
@@ -55406,6 +55431,7 @@ roundballs
 roundednesses
 roundel
 rounder
+roundest
 roundheel
 roundhouse
 roundlet
@@ -60801,6 +60827,7 @@ sportivenesses
 sportscasters
 sportsmanlike
 sportsmanly
+sportsmen
 sportswomen
 sportswritings
 sporulates
@@ -60965,6 +60992,7 @@ squashes
 squashier
 squashiest
 squatnesses
+squattered
 squattest
 squatting
 squatty
@@ -61165,6 +61193,7 @@ stampless
 stamps
 stance
 stanchers
+stanchioned
 standardbred
 standardise
 standardises
@@ -65023,6 +65052,7 @@ thermoset
 thermostat
 thermostating
 thermostats
+thermostatted
 thermostatting
 thermotactic
 thermotaxis
@@ -66356,6 +66386,7 @@ trapnesting
 trapped
 trappers
 trapping
+trappings
 trappose
 trappous
 traprock
@@ -67116,6 +67147,7 @@ tumultuary
 tumultuous
 tumultuously
 tumultuousness
+tumulus
 tun
 tuna
 tunable
@@ -69203,6 +69235,7 @@ unweaned
 unweary
 unweave
 unweaves
+unweaving
 unwed
 unweetingly
 unweighed
@@ -70395,6 +70428,7 @@ virls
 viroid
 viroids
 virologic
+virologists
 virology
 virosis
 virtu
@@ -70514,6 +70548,7 @@ vivaciousness
 vivaciousnesses
 vivandiere
 vivaria
+vivary
 vive
 viverrine
 viverrines
