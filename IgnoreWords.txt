@@ -1674,6 +1674,7 @@ ambits
 amble
 ambles
 amblygonites
+amboinas
 ambos
 ambroids
 ambrosia
@@ -3635,6 +3636,7 @@ asthenospheric
 astheny
 asthmas
 astigmatic
+astigmatism
 astigmia
 astilbe
 astilbes
@@ -6644,6 +6646,7 @@ bobbles
 bobeches
 bobolink
 bobolinks
+bobsledder
 bobsleddings
 bobsleigh
 bobsleighs
@@ -7218,6 +7221,7 @@ brainiac
 brainier
 brainiest
 braining
+brainlessly
 brainpan
 brainpans
 brainpower
@@ -7779,6 +7783,7 @@ buffalofish
 buffaloing
 buffer
 buffered
+buffering
 buffest
 buffet
 buffeter
@@ -8629,6 +8634,7 @@ candidnesses
 candids
 candies
 candleberries
+candleberry
 candlefish
 candlefishes
 candlelight
@@ -12096,6 +12102,7 @@ commutates
 commutating
 commutation
 commutative
+commutativities
 commutativity
 commutator
 commute
@@ -13618,6 +13625,7 @@ counterproject
 counterprojects
 counterproposal
 counterprotest
+counterpuncher
 counterpunches
 counterpunching
 counterquestion
@@ -17007,6 +17015,7 @@ dickey
 dickie
 dickies
 dicking
+diclinism
 diclinous
 dicotyl
 dicotyledonous
@@ -22649,6 +22658,7 @@ fawnier
 fawningly
 fawnlike
 fawns
+fawny
 faxes
 faxing
 fayalite
@@ -23309,6 +23319,7 @@ firth
 fisc
 fiscalist
 fiscally
+fiscals
 fiscs
 fish
 fishbolts
@@ -24751,6 +24762,7 @@ froglets
 froglike
 frogman
 frogmarch
+frogmarched
 frogmarching
 frogs
 frolicked
@@ -27057,6 +27069,7 @@ grisliest
 grisly
 grist
 grister
+gristers
 gristlier
 gristliest
 gristliness
@@ -28073,6 +28086,7 @@ hatters
 hatting
 haughs
 haughtier
+haughtily
 haul
 haulage
 hauler
@@ -28105,6 +28119,7 @@ havering
 havers
 haversack
 havior
+haviour
 havocking
 hawed
 hawing
@@ -30203,6 +30218,7 @@ ideative
 idem
 idempotents
 identic
+identicalness
 identicalnesses
 identifiable
 identifiably
@@ -30396,6 +30412,7 @@ imbibe
 imbiber
 imbibers
 imbodied
+imbodying
 imbolden
 imboldening
 imboldens
@@ -31437,6 +31454,7 @@ inferable
 inferably
 inferences
 inferior
+inferiors
 infernally
 inferno
 inferrer
@@ -33486,6 +33504,7 @@ jurywomen
 jus
 jussive
 jussives
+justed
 juster
 justest
 justiciable
@@ -34929,6 +34948,7 @@ lectin
 lectins
 lection
 lectors
+lectotype
 lectured
 lecturers
 lecturing
@@ -35759,6 +35779,7 @@ lobotomize
 lobotomizing
 lobotomy
 lobscouse
+lobscouses
 lobster
 lobstering
 lobsterman
@@ -36516,6 +36537,7 @@ magalogues
 magazine
 magdalene
 maggot
+maggoty
 magi
 magic
 magical
@@ -40936,6 +40958,7 @@ neurobiological
 neurobiologist
 neuroblastomata
 neurochemical
+neurochemists
 neurocoel
 neurohormonal
 neurohumor
@@ -43125,6 +43148,7 @@ orphreyed
 orpiment
 orra
 orrices
+orris
 orrises
 orrisroot
 orthicon
@@ -43974,6 +43998,7 @@ overclouds
 overcold
 overcolored
 overcoloring
+overcomer
 overcomers
 overcommit
 overcommits
@@ -44394,6 +44419,7 @@ overspeculate
 overspender
 overspenders
 overspending
+overspends
 overspiced
 overspills
 overspins
@@ -47573,6 +47599,7 @@ plat
 platan
 platane
 platanes
+platans
 plate
 plateau
 plateaus
@@ -52349,6 +52376,7 @@ redintegration
 redip
 redirected
 redirecting
+redirection
 redirects
 redis
 rediscount
@@ -56728,6 +56756,7 @@ seawaters
 seaweed
 seaworthinesses
 seaworthy
+sebacic
 sebasic
 seborrhea
 seborrheas
@@ -57176,6 +57205,7 @@ sentinels
 sentries
 sepaloid
 separability
+separable
 separate
 separately
 separates
@@ -62684,6 +62714,7 @@ superlies
 superlight
 superliner
 superliners
+superlobbyist
 superloyalists
 superlunar
 superluxurious
@@ -66066,6 +66097,7 @@ trefoil
 trehalas
 trehaloses
 treillages
+trekker
 trellises
 trelliswork
 tremble
@@ -66157,6 +66189,7 @@ tribulation
 tribunate
 tribune
 tribuneships
+tribute
 tricarboxylic
 tricepses
 trichiases
@@ -66446,6 +66479,7 @@ trollopy
 trolls
 trombone
 trombones
+trombonist
 trombonists
 trommel
 trommels
@@ -68100,6 +68134,7 @@ unimportant
 unimpressive
 unindexed
 uningratiating
+uninhibited
 uninhibitedly
 uninitiate
 uninjured
