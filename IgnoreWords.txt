@@ -1278,6 +1278,7 @@ alertly
 alertnesses
 ales
 aleuron
+alewife
 alewives
 alexandrine
 alexandrites
@@ -1418,6 +1419,7 @@ allergen
 allergenic
 allergenicity
 allergic
+allergin
 allergins
 allergy
 allethrins
@@ -3934,6 +3936,7 @@ augments
 augured
 augurer
 augurers
+auguries
 auguring
 august
 auguster
@@ -11258,6 +11261,7 @@ closure
 closures
 clot
 clothbound
+clothe
 clotheshorses
 clotheslined
 clothespins
@@ -12021,6 +12025,7 @@ comaking
 comal
 comanaged
 comanagements
+comanager
 comatula
 combat
 combatant
@@ -12884,6 +12889,7 @@ consummator
 consummators
 consumptions
 consumptively
+consumptives
 contacted
 contactee
 contacting
@@ -16806,6 +16812,7 @@ detonatable
 detonator
 detouring
 detours
+detoxes
 detoxicants
 detoxicate
 detoxicated
@@ -17458,6 +17465,7 @@ dippy
 dipsades
 dipsomania
 dipsomaniacs
+dipsomanias
 dipsos
 dipstick
 dipsticks
@@ -19101,6 +19109,7 @@ drupes
 druse
 druses
 dryable
+dryad
 dryades
 dryadic
 dryasdusts
@@ -21130,6 +21139,7 @@ equitation
 equites
 equivalences
 equivalencies
+equivalent
 equivocalities
 equivocality
 equivocators
@@ -23504,6 +23514,7 @@ fishpole
 fishtails
 fishway
 fishways
+fishwife
 fishwives
 fishworms
 fissility
@@ -24126,6 +24137,7 @@ fogie
 fogless
 fogy
 fogyish
+fohn
 foibles
 foiling
 foils
@@ -27300,6 +27312,7 @@ grotesque
 grotesqueness
 grotesquenesses
 grottier
+grotto
 grotty
 grouchier
 grouchiest
@@ -28980,6 +28993,7 @@ hic
 hiccoughs
 hiccups
 hick
+hickeys
 hickories
 hid
 hidable
@@ -30940,6 +30954,7 @@ imposter
 imposters
 imposthume
 impostor
+impostors
 impostume
 impostumes
 imposture
@@ -35869,6 +35884,7 @@ literarinesses
 literately
 literations
 literator
+literators
 literature
 literatus
 liters
@@ -36205,6 +36221,7 @@ looney
 loonie
 loonier
 loonies
+loonily
 looninesses
 loons
 loony
@@ -41605,6 +41622,7 @@ nonattachment
 nonattendance
 nonattenders
 nonauthors
+nonautomated
 nonautomotive
 nonautonomous
 nonavailability
@@ -44389,6 +44407,7 @@ overfamiliar
 overfamiliarity
 overfar
 overfast
+overfastidious
 overfearing
 overfeeding
 overfertilizes
@@ -44447,6 +44466,7 @@ overheat
 overhold
 overholds
 overhomogenizes
+overhung
 overhunting
 overhuntings
 overhunts
@@ -48306,6 +48326,7 @@ politico
 politicoes
 politicos
 politics
+polities
 polka
 pollack
 pollard
@@ -48923,6 +48944,7 @@ pours
 poussette
 poussetted
 poussetting
+poussie
 poussies
 pouters
 poutiest
@@ -49954,6 +49976,7 @@ procrastinate
 procrastinated
 procrastinates
 procrastinating
+procrastinator
 procreating
 procreations
 procreator
@@ -53831,6 +53854,7 @@ reposedly
 reposeful
 reposers
 reposit
+reposited
 repositories
 repository
 repossession
@@ -53954,6 +53978,7 @@ requiters
 rerack
 reradiate
 reradiated
+reradiates
 reradiating
 reradiations
 reraise
@@ -57378,6 +57403,7 @@ semierect
 semifinalist
 semifinals
 semifluid
+semifluids
 semiformal
 semihobo
 semilethal
@@ -59615,6 +59641,7 @@ sneezing
 snell
 sneller
 snelling
+snells
 snibbing
 snickerers
 snickering
@@ -61114,6 +61141,7 @@ stagehands
 stages
 stagey
 stagflation
+stagflationary
 staggerbush
 staggerer
 staggers
@@ -61448,6 +61476,7 @@ stencilling
 stencils
 stenobaths
 stenographer
+stenographic
 stenographies
 stenography
 stenos
@@ -63588,6 +63617,7 @@ swotter
 swotting
 swound
 swounds
+swouning
 swum
 sybarite
 sybaritic
@@ -67246,6 +67276,7 @@ turncoat
 turncoats
 turneries
 turners
+turnery
 turning
 turnips
 turnoffs
@@ -67717,6 +67748,7 @@ unappealingly
 unappeasably
 unappetizing
 unappetizingly
+unapplied
 unappropriated
 unarguably
 unarm
@@ -69603,6 +69635,7 @@ utterance
 utterances
 uttering
 utterly
+utternesses
 utters
 uvarovite
 uveitic
@@ -71361,6 +71394,7 @@ well
 welladays
 wellaway
 wellcurb
+wellholes
 wellhouse
 wellies
 wellness
@@ -72778,6 +72812,7 @@ zoarium
 zocalo
 zocalos
 zodiacal
+zoea
 zoeae
 zoecia
 zoic
