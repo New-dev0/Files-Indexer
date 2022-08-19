@@ -432,6 +432,7 @@ acrophobes
 acrophobia
 acrosomal
 acrosomes
+acrospire
 acrospires
 acrostical
 acrostically
@@ -1206,6 +1207,7 @@ alanins
 alans
 alanyls
 alar
+alarm
 alarmable
 alarmed
 alarmisms
@@ -3634,6 +3636,7 @@ asterisks
 asterism
 asternal
 asteroid
+asteroids
 asthenia
 asthenosphere
 asthenospheres
@@ -3800,6 +3803,7 @@ attainable
 attainder
 attained
 attainment
+attains
 attainting
 attars
 attempering
@@ -4495,6 +4499,7 @@ bakshish
 bakshishing
 bal
 balance
+balanced
 balancer
 balboa
 balbriggan
@@ -4580,6 +4585,7 @@ banality
 banalize
 banalized
 banausic
+bancos
 banda
 bandage
 bandager
@@ -8593,6 +8599,7 @@ campers
 campesinos
 campfire
 campfires
+campgrounds
 camphenes
 camphines
 camphire
@@ -8655,6 +8662,7 @@ candlelighted
 candlelighter
 candlelit
 candlenuts
+candlepowers
 candlesnuffer
 candlesnuffers
 candlestick
@@ -9525,6 +9533,7 @@ ceilinged
 ceilings
 ceilometers
 ceils
+ceintures
 cel
 celebratedness
 celebrity
@@ -16017,6 +16026,7 @@ deletions
 delf
 delft
 delftware
+deliberately
 deliberateness
 deliberations
 deliberative
@@ -16076,6 +16086,7 @@ delusive
 delusivenesses
 delusory
 delusters
+deluxe
 delve
 delver
 delvers
@@ -16334,6 +16345,7 @@ depicters
 depicting
 depictions
 depictor
+depilator
 depilatories
 depilators
 deplaning
@@ -20512,6 +20524,7 @@ enlistees
 enlisters
 enlistments
 enlists
+enliven
 enlivener
 enlivening
 enmeshed
@@ -21999,6 +22012,7 @@ expletive
 explicable
 explicably
 explicate
+explicated
 explicates
 explicating
 explication
@@ -22619,6 +22633,7 @@ fast
 fastbacks
 fastballers
 fastballs
+fasteners
 faster
 fastest
 fastidiously
@@ -23339,6 +23354,7 @@ firkins
 firm
 firmaments
 firman
+firmer
 firmers
 firmness
 firmnesses
@@ -28378,6 +28394,7 @@ hedgehogs
 hedgehopping
 hedgehops
 hedgepig
+hedgepigs
 hedgerow
 hedgers
 hedgier
@@ -35740,6 +35757,7 @@ litten
 litterateur
 litterbag
 litterbags
+litterbugs
 littered
 litterer
 litterers
@@ -39386,6 +39404,7 @@ monandry
 monarch
 monarchial
 monarchical
+monarchies
 monarchists
 monarchs
 monarchy
@@ -45314,6 +45333,7 @@ parasitoid
 parasitoids
 parasitologic
 parasitological
+parasitologies
 parasitologist
 parasitologists
 parasitology
@@ -45723,6 +45743,7 @@ paunchier
 paunchinesses
 paunchy
 paupering
+pauperism
 pauperize
 pauperized
 pausal
@@ -50085,6 +50106,7 @@ proseminar
 prosencephala
 prosencephalic
 proser
+proses
 prosier
 prosily
 prosimians
@@ -50564,6 +50586,7 @@ pulvillus
 pulvinate
 pumas
 pumelo
+pumice
 pumicer
 pumicing
 pumicites
@@ -53565,6 +53588,7 @@ replicon
 replicons
 replied
 replies
+replot
 replots
 replow
 replowing
@@ -59931,6 +59955,7 @@ soulless
 souls
 soundboard
 sounded
+soundest
 soundings
 soundless
 soundly
@@ -60356,6 +60381,7 @@ spinnies
 spinny
 spinoff
 spinor
+spinose
 spinosely
 spinosities
 spins
@@ -62893,6 +62919,7 @@ superstore
 superstrata
 superstratum
 superstrength
+superstructural
 superstructure
 superstuds
 supersurgeon
@@ -64959,6 +64986,7 @@ thrive
 thriven
 thriving
 thrivingly
+thro
 throat
 throated
 throatier
@@ -66605,6 +66633,7 @@ tropine
 tropines
 tropism
 tropisms
+tropistic
 tropologic
 tropological
 tropologies
@@ -66999,6 +67028,7 @@ tussling
 tussocks
 tussor
 tussucks
+tutelages
 tutelars
 tutor
 tutorage
@@ -67598,6 +67628,7 @@ uncinaria
 uncinarias
 uncinate
 uncinematic
+uncirculated
 uncivil
 uncivilized
 unclaimed
@@ -68446,6 +68477,7 @@ unmolten
 unmoored
 unmoors
 unmoralities
+unmortised
 unmotivated
 unmourned
 unmovable
@@ -70574,6 +70606,7 @@ waisting
 waistings
 waists
 waitered
+waiters
 waitlist
 waitperson
 waitpersons
@@ -71070,6 +71103,7 @@ wendigos
 wending
 wends
 wennier
+went
 wentletrap
 weregilds
 werewolves
@@ -71551,6 +71585,7 @@ winners
 winning
 winningly
 winnow
+winnower
 winnowers
 winnowing
 winnows
