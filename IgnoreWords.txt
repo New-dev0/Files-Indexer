@@ -1631,6 +1631,7 @@ amaranthine
 amaranths
 amarelles
 amarna
+amarone
 amaryllises
 amas
 amassable
@@ -6012,6 +6013,7 @@ biofoulings
 biogases
 biogeneses
 biogenetic
+biogenetically
 biogeny
 biogeochemistry
 biogeographers
@@ -6975,6 +6977,7 @@ bopper
 boracic
 boracite
 boracites
+boral
 boras
 borating
 bordel
@@ -11119,6 +11122,7 @@ cliche
 clicks
 clickwrap
 clientages
+cliental
 clients
 cliffier
 cliffs
@@ -11602,6 +11606,7 @@ coenamor
 coenamors
 coenocytic
 coenure
+coenures
 coenzymatic
 coenzyme
 coequal
@@ -14455,6 +14460,7 @@ cryopreserve
 cryoprobes
 cryoprotectant
 cryoscopes
+cryoscopy
 cryostats
 cryosurgery
 cryotherapies
@@ -15607,6 +15613,7 @@ deciphers
 decision
 decisioned
 decisioning
+deck
 deckels
 deckers
 decking
@@ -15718,6 +15725,7 @@ decrement
 decremental
 decrepitate
 decrepitating
+decrepitations
 decrepitudes
 decrescent
 decretive
@@ -17056,6 +17064,7 @@ dichasial
 dichogamy
 dichondras
 dichotomies
+dichotomist
 dichotomizes
 dichotomous
 dichotomously
@@ -17530,6 +17539,7 @@ disaster
 disasters
 disastrous
 disavow
+disavower
 disavowers
 disavowing
 disbanding
@@ -18465,6 +18475,7 @@ donna
 donne
 donned
 donnerd
+donnered
 donnert
 donnickers
 donnikers
@@ -20409,6 +20420,7 @@ endothelia
 endothelial
 endothelioma
 endothelium
+endothermic
 endotoxins
 endotrophic
 endower
@@ -21460,6 +21472,7 @@ eudemons
 eudiometer
 eudiometers
 eudiometric
+eudiometrically
 eugenias
 eugenic
 eugenicist
@@ -23052,6 +23065,7 @@ fever
 fevering
 feverish
 feverishness
+feverishnesses
 feverweeds
 feverwort
 feverworts
@@ -27364,6 +27378,7 @@ guardhouses
 guardians
 guardrails
 guardroom
+guardrooms
 guayaberas
 guayule
 guayules
@@ -29301,6 +29316,7 @@ hominies
 hominoid
 hommocks
 hommos
+hommoses
 homocercal
 homoeroticism
 homogametic
@@ -31841,6 +31857,7 @@ innovativeness
 innovator
 inns
 innuendo
+innuendoed
 innumerable
 innumerably
 innumeracies
@@ -40250,6 +40267,7 @@ multiunit
 multiuser
 multivalence
 multivariate
+multiversities
 multiversity
 multivitamins
 multivoltine
@@ -42481,6 +42499,7 @@ obscurity
 obsecrate
 obsecrated
 obsecrates
+obsecrating
 observables
 observably
 observances
@@ -43392,6 +43411,7 @@ osteosarcomata
 osteoses
 osteotomies
 ostinati
+ostlers
 ostomate
 ostomates
 ostosises
@@ -45926,6 +45946,7 @@ peasoupers
 peatier
 peatiest
 peaveys
+peavies
 peavy
 pebbling
 peccadilloes
@@ -47597,6 +47618,7 @@ pittosporum
 pity
 piu
 pivotable
+pivotal
 pivoted
 pixel
 pixels
@@ -50228,6 +50250,7 @@ prostyle
 protagonist
 protamin
 protamines
+protases
 protea
 protean
 protect
@@ -51750,6 +51773,7 @@ ratcheted
 rateably
 ratels
 ratepayer
+rater
 raters
 ratfinks
 ratfish
@@ -56095,6 +56119,7 @@ sardonically
 sardonicisms
 sardonyx
 sardonyxes
+sards
 sargo
 sargos
 sari
@@ -57514,6 +57539,7 @@ sermonizers
 sermonizes
 sermons
 serodiagnosis
+serodiagnostic
 serologies
 serologists
 serology
@@ -57939,6 +57965,7 @@ sherberts
 sherds
 shereef
 shergottites
+sheriffdoms
 sherifs
 sherlock
 sherlocks
@@ -58799,6 +58826,7 @@ skiascopies
 skibob
 skibobber
 skibobbers
+skibobbings
 skibobs
 skiddier
 skiddiest
@@ -60535,6 +60563,7 @@ spittle
 spittlebug
 spittles
 spittoon
+spivs
 splash
 splashboards
 splasher
@@ -61726,6 +61755,7 @@ stratifies
 stratocracies
 stratocracy
 stratocumuli
+stratous
 stratovolcanoes
 stratovolcanos
 stratum
@@ -64852,6 +64882,7 @@ theres
 theretofore
 thereunder
 theriacal
+therians
 thermalization
 thermalize
 thermel
@@ -64989,6 +65020,7 @@ thirty
 thirtyish
 thisaway
 thistledowns
+thistliest
 thistly
 thitherwards
 thole
@@ -69342,6 +69374,7 @@ urethane
 urethans
 urethrae
 urethroscope
+urethroscopes
 urge
 urgently
 urger
@@ -71121,6 +71154,7 @@ weeder
 weedier
 weediest
 weedily
+weedless
 weedy
 weekday
 weekending
@@ -72310,6 +72344,7 @@ yeaned
 yeaning
 yeanlings
 yearbook
+yearbooks
 yearend
 yearn
 yeasayer
