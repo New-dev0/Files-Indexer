@@ -79,6 +79,7 @@ absorbance
 absorbancies
 absorbant
 absorbants
+absorbents
 absorptances
 absorptivity
 abstained
@@ -175,6 +176,7 @@ acceptabilities
 acceptability
 acceptable
 acceptableness
+acceptably
 acceptance
 acceptances
 acceptant
@@ -2310,6 +2312,7 @@ antarctic
 antbear
 antecede
 anteceded
+antecedences
 antecedents
 anteceding
 antecessor
@@ -5460,6 +5463,7 @@ bendable
 benday
 bendayed
 bendaying
+bendier
 bends
 bendwise
 benedict
@@ -5624,6 +5628,7 @@ bespangles
 bespangling
 bespattering
 bespoken
+bespouses
 besprinkled
 besteading
 bested
@@ -9456,6 +9461,7 @@ cavilers
 caviling
 cavilled
 cavillers
+cavilling
 cavils
 caving
 cavitary
@@ -13762,6 +13768,7 @@ cowpats
 cowpie
 cowpunchers
 cowries
+cowriter
 cowriting
 cowrote
 cows
@@ -14383,6 +14390,7 @@ cryoscopes
 cryostats
 cryosurgery
 cryotherapies
+cryotherapy
 cryotron
 crypt
 cryptal
@@ -15583,6 +15591,7 @@ decommissions
 decompensated
 decompensating
 decomposability
+decomposable
 decompose
 decomposed
 decomposers
@@ -17566,6 +17575,7 @@ discovery
 discreditable
 discreditably
 discredited
+discredits
 discreetest
 discreetly
 discreetnesses
@@ -18241,6 +18251,7 @@ dogedoms
 doges
 dogeys
 dogface
+dogfought
 dogged
 doggedly
 doggednesses
@@ -18272,6 +18283,7 @@ dognappers
 dogrobbers
 dogsledder
 dogsleds
+dogtooth
 dogtrot
 dogtrots
 dogtrotting
@@ -21159,6 +21171,7 @@ especial
 especially
 esperances
 espial
+espiegle
 espiegleries
 espouse
 espouses
@@ -23024,6 +23037,7 @@ fiduciary
 fief
 fiefdom
 fiefdoms
+fielded
 fieldfare
 fieldpieces
 fieldworks
@@ -23599,6 +23613,7 @@ flichter
 flichters
 flicked
 flickery
+flicking
 flics
 flied
 flies
@@ -33542,6 +33557,7 @@ kalong
 kalpa
 kalpacs
 kalpak
+kalpaks
 kalpas
 kalsomined
 kalsomines
@@ -34226,6 +34242,7 @@ kymography
 kyrie
 kyries
 kyte
+kythe
 kythes
 laagering
 lab
@@ -35424,6 +35441,7 @@ limpidness
 limpidnesses
 limpingly
 limpkins
+limps
 limpsiest
 limuli
 limulus
@@ -36056,6 +36074,7 @@ lovely
 lovemaking
 lovemakings
 lover
+loves
 lovesicknesses
 lovingnesses
 lowballed
@@ -36192,6 +36211,7 @@ lunching
 lunchmeat
 lunchrooms
 lunchtime
+lunchtimes
 lunet
 lunets
 lunettes
@@ -38669,6 +38689,7 @@ mischievous
 mischievously
 mischose
 mischosen
+miscibilities
 miscited
 misclaimed
 misclasses
@@ -40980,6 +41001,7 @@ newspaper
 newspaperman
 newspapers
 newspeak
+newspeople
 newspersons
 newsprint
 newsreader
@@ -41189,6 +41211,7 @@ nocks
 noctambulist
 noctiluca
 noctilucas
+noctuid
 nocturnally
 nocturnes
 nodalities
@@ -42525,6 +42548,7 @@ offprinted
 offramp
 offscourings
 offspring
+oft
 often
 oftenest
 ogam
@@ -42809,6 +42833,7 @@ ophite
 ophites
 ophiuroid
 ophiuroids
+ophthalmology
 ophthalmoscopic
 opiate
 opiating
@@ -43143,6 +43168,7 @@ osmotically
 osmunda
 osmundas
 osmundine
+osmundines
 osmunds
 ossa
 ossatures
@@ -43459,6 +43485,7 @@ outhomering
 outhomers
 outhouses
 outhowled
+outhumors
 outhunt
 outhustled
 outing
@@ -44189,6 +44216,7 @@ overmaster
 overmastered
 overmasters
 overmatching
+overmaturity
 overmelt
 overmighty
 overmilk
@@ -45358,6 +45386,7 @@ partitions
 partlet
 partlets
 partnered
+partnering
 partnerless
 partnership
 partnerships
@@ -51916,6 +51945,7 @@ recarpets
 recarried
 recarrying
 recautioned
+recautioning
 recces
 receded
 receipts
@@ -56800,6 +56830,7 @@ seeks
 seel
 seeled
 seeling
+seels
 seely
 seem
 seemers
@@ -58399,6 +58430,7 @@ sirdars
 sirens
 siring
 sirloins
+sirocco
 siroccos
 sirs
 siruped
@@ -63366,6 +63398,7 @@ tabanid
 tabanids
 tabarded
 tabards
+tabbed
 tabbises
 tabbouleh
 tabboulehs
@@ -63518,6 +63551,7 @@ talebearings
 talented
 talentless
 taler
+talesman
 talesmen
 taleysim
 tali
@@ -71853,6 +71887,7 @@ xeruses
 xi
 xiphoid
 xiphoids
+xylans
 xylem
 xylems
 xylidine
