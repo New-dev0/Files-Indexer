@@ -2000,6 +2000,7 @@ anamnesis
 ananke
 anankes
 anapest
+anaphases
 anaphor
 anaphora
 anaphorically
@@ -2430,6 +2431,7 @@ anticipators
 anticivic
 antick
 anticlassical
+anticlerical
 anticlericalism
 anticlericals
 anticlimactic
@@ -3482,6 +3484,7 @@ aspartame
 aspartate
 aspartates
 aspect
+aspects
 aspen
 aspens
 asperate
@@ -3904,6 +3907,7 @@ audiobook
 audiobooks
 audiocassette
 audiocassettes
+audiograms
 audiologic
 audiologists
 audiology
@@ -5353,6 +5357,7 @@ beheadal
 beheader
 beheaders
 beheads
+behest
 behinds
 beholds
 behoove
@@ -5735,6 +5740,7 @@ bewept
 bewhiskered
 bewig
 bewigging
+bewigs
 bewilder
 bewilderedly
 bewilderedness
@@ -9606,6 +9612,7 @@ celts
 cembalo
 cement
 cementa
+cemented
 cementers
 cementite
 cementitious
@@ -10429,6 +10436,7 @@ chlamydospores
 chlamys
 chloasmas
 chloasmata
+chloracnes
 chloral
 chloralose
 chloralosed
@@ -11610,6 +11618,7 @@ coemploys
 coempts
 coenamor
 coenamors
+coenduring
 coenocytic
 coenure
 coenures
@@ -12576,6 +12585,7 @@ confronting
 confuse
 confusedly
 confusednesses
+confuses
 confusing
 confuter
 confutes
@@ -13852,6 +13862,7 @@ cowpat
 cowpats
 cowpie
 cowpunchers
+cowrie
 cowries
 cowriter
 cowriting
@@ -14387,6 +14398,7 @@ crucifers
 crucifies
 crucifix
 cruciform
+cruciforms
 crudded
 cruddier
 crudding
@@ -15730,6 +15742,7 @@ decoupled
 decoupler
 decouplers
 decoupling
+decoyer
 decoyers
 decoying
 decreases
@@ -19361,6 +19374,7 @@ dysphagias
 dysphasic
 dysphemistic
 dysplasias
+dysplastic
 dyspnea
 dyspneic
 dyspnoea
@@ -20625,6 +20639,7 @@ enplaned
 enquires
 enrage
 enragedly
+enraging
 enravished
 enregister
 enregistered
@@ -23161,6 +23176,7 @@ fictionization
 fictionizations
 fictitious
 fictitiousness
+fictivenesses
 ficus
 fiddleback
 fiddled
@@ -23701,6 +23717,7 @@ flays
 flea
 fleabanes
 fleahopper
+fleam
 fleams
 fleaworts
 fleche
@@ -24604,6 +24621,7 @@ foxtail
 foxtails
 foxtrotted
 foxtrotting
+foxy
 foziest
 foziness
 fozinesses
@@ -27621,6 +27639,7 @@ gynaecium
 gynaecologies
 gynandries
 gynandromorph
+gynandromorphic
 gynandromorphy
 gynarchies
 gynecia
@@ -29924,6 +29943,7 @@ hurts
 husbanders
 husbandries
 hush
+hushaby
 hushed
 hushing
 hushpuppies
@@ -32954,6 +32974,7 @@ isocarboxazid
 isocarboxazids
 isocheim
 isocheims
+isochime
 isochimes
 isochores
 isochrone
@@ -33877,6 +33898,7 @@ keepings
 keeps
 keepsake
 keepsakes
+keeshonds
 keets
 keffiyahs
 kefir
@@ -41815,6 +41837,7 @@ nonideal
 nonidentical
 nonidentities
 nonidentity
+nonimages
 nonimmigrant
 nonimmune
 nonimplication
@@ -42125,6 +42148,7 @@ noontides
 noontimes
 noosing
 nopal
+noplace
 noradrenaline
 noradrenalins
 nordic
@@ -44696,6 +44720,7 @@ overtire
 overtired
 overtness
 overtnesses
+overtoil
 overtoiled
 overtone
 overtop
@@ -45223,6 +45248,7 @@ pangenetic
 pangens
 pangrams
 pangs
+panhandles
 panhandling
 panhuman
 panically
@@ -45356,6 +45382,7 @@ paradisaical
 paradisal
 paradise
 paradisiac
+paradisical
 parador
 paradores
 paradors
@@ -45719,6 +45746,7 @@ passkeys
 passless
 passover
 passport
+passuses
 passwords
 pastalike
 pastas
@@ -46620,6 +46648,7 @@ personally
 personalties
 personalty
 personas
+personate
 personated
 personating
 personator
@@ -54576,6 +54605,7 @@ reversers
 reversibilities
 reversibility
 reversibly
+reversos
 revert
 revertant
 revertants
@@ -54757,6 +54787,7 @@ rhodonite
 rhodora
 rhodoras
 rhombencephala
+rhombical
 rhombohedra
 rhomboidal
 rhombus
@@ -57656,6 +57687,7 @@ sessilities
 sessility
 sesspool
 sesterces
+sestertia
 sestertium
 sestine
 seta
@@ -57859,6 +57891,7 @@ shanghaied
 shanghaiers
 shanghaiing
 shanghais
+shank
 shankpiece
 shanks
 shannies
@@ -62359,6 +62392,7 @@ submicrogram
 submillimeter
 subminiature
 subminimal
+subminister
 subministers
 submit
 submits
@@ -70654,6 +70688,7 @@ vouchsafing
 voudon
 voudons
 voudoun
+voussoir
 vow
 vowers
 vowing
