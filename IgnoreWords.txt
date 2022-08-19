@@ -1281,6 +1281,7 @@ alforjas
 algae
 algaecide
 algarrobas
+algarrobo
 algebra
 algebraists
 algebras
@@ -4421,6 +4422,7 @@ bag
 bagasses
 bagatelle
 bagful
+baggages
 bagged
 baggies
 bagginess
@@ -6531,6 +6533,7 @@ bluestocking
 bluestone
 bluestones
 bluet
+bluetick
 blueweeds
 bluewood
 bluff
@@ -6915,6 +6918,7 @@ bop
 bopeep
 bopper
 boracic
+boracite
 boracites
 boras
 borating
@@ -7869,6 +7873,7 @@ bumptiousness
 bumptiousnesses
 bumpy
 bun
+bunchily
 buncoing
 buncos
 bundled
@@ -10159,6 +10164,7 @@ chickadee
 chickadees
 chickaree
 chickarees
+chickee
 chickenshit
 chickories
 chickory
@@ -10324,6 +10330,7 @@ chivareeing
 chivari
 chivariing
 chivvy
+chivy
 chivying
 chlamydes
 chlamydial
@@ -10685,6 +10692,7 @@ circadian
 circle
 circled
 circlets
+circling
 circuit
 circuitousness
 circuitry
@@ -11712,6 +11720,7 @@ colistin
 colistins
 colitic
 colitises
+collaborative
 collage
 collagenase
 collages
@@ -12729,6 +12738,7 @@ consultations
 consulted
 consulting
 consultive
+consultors
 consults
 consumable
 consumables
@@ -13397,6 +13407,7 @@ cosmoline
 cosmolines
 cosmolining
 cosmologies
+cosmologist
 cosmologists
 cosmology
 cosmonauts
@@ -13406,6 +13417,7 @@ cosmopolite
 cosmopolites
 cosmopolitisms
 cosmos
+cosponsored
 cosponsors
 cossack
 cosseted
@@ -20170,6 +20182,7 @@ encyclics
 encyclopaedia
 encyclopaedias
 encyclopaedic
+encyclopedias
 encyclopedism
 encysted
 encysting
@@ -23655,6 +23668,7 @@ floridnesses
 floristic
 florists
 floruits
+flossed
 flossie
 flossies
 flossy
@@ -23710,6 +23724,7 @@ fluffiest
 fluffily
 fluffiness
 fluffinesses
+fluid
 fluidal
 fluidally
 fluidextracts
@@ -25389,6 +25404,7 @@ gastnesses
 gastreas
 gastrectomies
 gastritic
+gastritides
 gastrocnemii
 gastronomical
 gastronomies
@@ -25479,6 +25495,7 @@ gazpacho
 gazpachos
 gear
 gearbox
+gearboxes
 gearcase
 gearcases
 gearchange
@@ -32593,6 +32610,7 @@ irresoluteness
 irresolvable
 irresponsible
 irresponsibles
+irresponsibly
 irretrievable
 irretrievably
 irreversibly
@@ -35597,6 +35615,7 @@ lixiviate
 lixiviated
 lixiviations
 llama
+lo
 loach
 loaches
 loaded
@@ -37048,6 +37067,7 @@ masterdom
 masterdoms
 mastered
 masteries
+mastering
 masterliness
 masterlinesses
 mastermind
@@ -38355,6 +38375,7 @@ minestrone
 minestrones
 minesweeping
 minesweepings
+mingier
 mingiest
 mingle
 mingler
@@ -38799,6 +38820,7 @@ mispatching
 misperceiving
 misperception
 misphrases
+misphrasing
 misplacements
 misplaces
 misplacing
@@ -39681,6 +39703,7 @@ mountaineer
 mountaineerings
 mountainside
 mountaintops
+mountainy
 mountebank
 mountebankeries
 mountebanks
@@ -42117,6 +42140,7 @@ objectivity
 objectors
 objects
 objets
+objurgated
 objurgates
 oblast
 oblasts
@@ -43872,6 +43896,7 @@ overdid
 overdirect
 overdirecting
 overdiscounted
+overdocumented
 overdocuments
 overdoes
 overdominances
@@ -46558,6 +46583,7 @@ phonies
 phoniness
 phonocardiogram
 phonogrammic
+phonograph
 phonographic
 phonographies
 phonolite
@@ -49245,6 +49271,7 @@ previewer
 previews
 previous
 prevised
+prevising
 previsional
 previsioning
 previsor
@@ -50731,6 +50758,7 @@ quantitation
 quantitative
 quantities
 quantity
+quantize
 quantized
 quantizer
 quantizers
@@ -50859,6 +50887,7 @@ quiescence
 quiescent
 quiet
 quieteners
+quieters
 quietism
 quietistic
 quietudes
@@ -55960,6 +55989,7 @@ scantlings
 scantly
 scants
 scanty
+scape
 scaped
 scapegoat
 scapegraces
@@ -55974,6 +56004,7 @@ scarecrow
 scarecrows
 scareder
 scareheads
+scaremonger
 scaremongers
 scarf
 scarfed
@@ -60026,6 +60057,7 @@ spined
 spinel
 spinelessness
 spinelessnesses
+spines
 spiniest
 spinifex
 spinifexes
@@ -60165,6 +60197,7 @@ spodumenes
 spoilage
 spoilsmen
 spoilsports
+spoilt
 spoke
 spoken
 spokes
@@ -66003,6 +66036,7 @@ tricolor
 tricolors
 tricorn
 tricorne
+tricornered
 tricorns
 tricotine
 tricotines
@@ -66715,6 +66749,7 @@ twibills
 twiddlers
 twiddles
 twiddlier
+twiddliest
 twiddling
 twiddly
 twiggen
