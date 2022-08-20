@@ -2430,6 +2430,7 @@ antichurch
 anticipant
 anticipants
 anticipating
+anticipations
 anticipators
 anticivic
 antick
@@ -6995,6 +6996,7 @@ boracites
 boral
 boras
 borating
+borborygmi
 bordel
 bordello
 bordering
@@ -12832,6 +12834,7 @@ consternating
 consternation
 consternations
 constituencies
+constituency
 constituently
 constituents
 constitutes
@@ -13939,6 +13942,7 @@ cracks
 crackup
 crackups
 cradle
+cradled
 cradler
 cradlers
 cradles
@@ -14380,6 +14384,7 @@ crotchety
 croton
 crouch
 crouching
+croup
 croupe
 croupy
 crousely
@@ -15827,6 +15832,7 @@ defalcator
 defalcators
 defamation
 defamations
+defamed
 defamer
 defaming
 defang
@@ -16411,6 +16417,7 @@ dependants
 dependence
 dependences
 dependent
+depending
 depeoples
 depermed
 deperming
@@ -19762,6 +19769,7 @@ egalites
 eger
 egers
 egesta
+egested
 eggars
 eggcups
 egger
@@ -22976,6 +22984,7 @@ fence
 fenceless
 fencelessnesses
 fencer
+fencerow
 fences
 fencible
 fencings
@@ -23075,6 +23084,7 @@ festers
 festivals
 festive
 festiveness
+festivities
 festoonery
 festoons
 fests
@@ -23135,6 +23145,7 @@ feverwort
 feverworts
 fewer
 fewnesses
+fey
 feyest
 fez
 fezes
@@ -24220,6 +24231,7 @@ foolishnesses
 foolproof
 fools
 foolscap
+foosball
 foosballs
 footage
 footbags
@@ -25482,6 +25494,7 @@ gametocytes
 gametogenesis
 gametogenic
 gametophytic
+gamin
 gamine
 gaminess
 gaminesses
@@ -27756,6 +27769,7 @@ hackneys
 hacks
 hacksawing
 hacksawn
+hacksaws
 hadal
 hading
 hadith
@@ -29661,6 +29675,7 @@ horsewoman
 horsinesses
 horste
 horticultures
+hosanna
 hosannaed
 hosannah
 hosannahs
@@ -31362,6 +31377,7 @@ incursion
 incursions
 incurvating
 incurvations
+incurvature
 incurves
 incurving
 incuse
@@ -32593,6 +32609,7 @@ intolerantness
 intombing
 intonating
 intonational
+intoner
 intoning
 intoxications
 intracardiac
@@ -33708,6 +33725,7 @@ junketeered
 junketeering
 junkier
 junkies
+junkmen
 junkyards
 junto
 juntos
@@ -34353,6 +34371,7 @@ knotlike
 knots
 knotted
 knotters
+knottier
 knotting
 knottings
 knotweeds
@@ -34600,6 +34619,7 @@ laddies
 laddish
 lade
 laden
+laders
 ladhoods
 ladle
 ladled
@@ -34971,6 +34991,7 @@ latte
 lattens
 latter
 lattin
+lattins
 latu
 lauan
 lauans
@@ -36022,6 +36043,7 @@ lobstick
 lobsticks
 lobular
 lobulations
+lobule
 lobworm
 lobworms
 locales
@@ -40855,6 +40877,7 @@ narwhale
 narwhales
 nasal
 nasalised
+nasalises
 nasalisms
 nasalities
 nasalizations
@@ -41153,6 +41176,7 @@ nephrostome
 nepotism
 nepotisms
 nepotists
+nerd
 nerdier
 nerdiest
 nerdinesses
@@ -44253,6 +44277,7 @@ overcalls
 overcame
 overcapacity
 overcasted
+overcasting
 overcasts
 overcaution
 overcautions
@@ -48521,6 +48546,7 @@ ponchos
 ponder
 ponderable
 pondered
+pondering
 ponderosa
 ponderously
 ponders
@@ -51885,6 +51911,7 @@ rasping
 raspingly
 rasps
 rassle
+rassled
 rassles
 rassling
 raster
@@ -56179,6 +56206,7 @@ sansculottism
 santalols
 santera
 santeras
+santerias
 santero
 santimu
 santir
@@ -61513,6 +61541,7 @@ stereoisomerism
 stereology
 stereophonic
 stereopticon
+stereoregular
 stereoscopies
 stereoscopy
 stereotactic
@@ -62165,6 +62194,7 @@ sturdies
 sturdinesses
 sturt
 sturts
+stutters
 styed
 styes
 stylar
@@ -64265,6 +64295,7 @@ tasteful
 tastefulnesses
 tastelessness
 tastiest
+tastily
 tatami
 tatars
 tatouay
@@ -66377,6 +66408,7 @@ transpiring
 transplantable
 transplanters
 transpontine
+transported
 transporters
 transports
 transposons
@@ -72061,6 +72093,7 @@ womanish
 womanishness
 womanising
 womanize
+womanizer
 womankind
 womanless
 womanliest
@@ -72257,6 +72290,7 @@ wots
 wotting
 wounded
 woundless
+wounds
 woundworts
 wove
 woven
@@ -72679,6 +72713,7 @@ yuppify
 yuppifying
 yurt
 ywis
+zabaglione
 zabajone
 zacaton
 zacatons
