@@ -2272,6 +2272,7 @@ announcements
 announcer
 announcers
 announcing
+annoy
 annoying
 annualize
 annualizing
@@ -3240,6 +3241,7 @@ ariettas
 ariettes
 ariose
 ariosi
+arioso
 arise
 arisen
 arises
@@ -4563,6 +4565,7 @@ baldpated
 baldpates
 baldric
 baldrick
+baldrics
 bale
 balefire
 baler
@@ -4636,6 +4639,7 @@ bandage
 bandager
 bandagers
 bandages
+bandanna
 bandannas
 bandeau
 banded
@@ -7031,6 +7035,7 @@ boral
 boras
 borating
 borborygmi
+bordeaux
 bordel
 bordello
 bordering
@@ -12840,6 +12845,7 @@ conservatizing
 conservatorial
 conservators
 conservatorship
+conservers
 consider
 considerably
 considerate
@@ -21130,6 +21136,7 @@ epimeres
 epimeric
 epimers
 epimysia
+epinaoi
 epinaos
 epinasties
 epineuria
@@ -21240,6 +21247,7 @@ equinoctial
 equinox
 equinoxes
 equipages
+equipments
 equipoises
 equipollence
 equipollent
@@ -21331,6 +21339,7 @@ erosiveness
 erosivities
 erotic
 erotica
+eroticism
 eroticists
 eroticizations
 eroticizing
@@ -24149,6 +24158,7 @@ fluoridations
 fluorimeter
 fluorimetric
 fluorimetries
+fluorimetry
 fluorinate
 fluorinates
 fluorination
@@ -24311,6 +24321,7 @@ folkmots
 folksiness
 folksinger
 folksong
+folktale
 folkway
 follicular
 folliculitis
@@ -30560,6 +30571,7 @@ iconographies
 iconography
 iconology
 iconoscopes
+iconostasis
 icons
 icosahedra
 icosahedral
@@ -30617,6 +30629,7 @@ ideophones
 ides
 idioblast
 idioblastic
+idiographic
 idiom
 idiomatically
 idiomorphic
@@ -31385,6 +31398,7 @@ inclinometers
 inclip
 inclipping
 inclips
+incloser
 inclosing
 inclosure
 includable
@@ -32383,6 +32397,7 @@ intent
 intentional
 intentionality
 intentions
+intentness
 intents
 interabangs
 interactants
@@ -40080,6 +40095,7 @@ mopier
 mopinesses
 mopish
 moppers
+moppet
 moppets
 moquettes
 mora
@@ -41077,6 +41093,7 @@ nasturtium
 natal
 natalities
 natations
+natatorium
 natatoriums
 natheless
 nathless
@@ -42710,6 +42727,7 @@ nystagmuses
 oafish
 oak
 oakiest
+oaky
 oar
 oarless
 oars
@@ -43777,6 +43795,7 @@ otoscopy
 ototoxicities
 ototoxicity
 ottar
+ottava
 ottavas
 ottomans
 ouabain
@@ -45047,6 +45066,7 @@ oviparous
 oviposit
 oviposited
 oviposition
+ovipositions
 oviraptor
 ovoid
 ovoidal
@@ -46918,6 +46938,7 @@ persnicketiness
 person
 persona
 personableness
+personae
 personage
 personalities
 personalizes
@@ -47810,6 +47831,7 @@ pinnacle
 pinnae
 pinnated
 pinnately
+pinnatifid
 pinnation
 pinned
 pinning
@@ -48582,6 +48604,7 @@ pollers
 pollex
 pollination
 pollinator
+pollinium
 pollinized
 pollist
 polliwog
@@ -53584,6 +53607,7 @@ reinvestigating
 reinvestigation
 reinvesting
 reinvestment
+reinvestments
 reinvigorated
 reinvoke
 reinvokes
@@ -54149,6 +54173,7 @@ reprimand
 reprints
 reprisals
 reprising
+repristinated
 repristinating
 repristination
 reprivatize
@@ -54886,6 +54911,7 @@ revelrous
 revenant
 revenge
 revengefully
+revengefulness
 revenging
 revenued
 revenues
@@ -55617,6 +55643,7 @@ roquets
 rosaceas
 rosanilin
 rosanilins
+rosaria
 rosaries
 rosary
 roscoe
@@ -59219,6 +59246,7 @@ skeletons
 skells
 skellums
 skelm
+skelped
 skelter
 skeltered
 skenes
@@ -59676,6 +59704,7 @@ sluice
 sluicing
 sluicy
 sluing
+slum
 slumber
 slumbered
 slumberer
@@ -66125,6 +66154,7 @@ tonettes
 toney
 tong
 tonga
+tonging
 tongman
 tongmen
 tongue
@@ -67371,6 +67401,7 @@ truthless
 tryout
 tryouts
 trypsins
+tryptamine
 tryptamines
 trysted
 tryster
@@ -69485,6 +69516,7 @@ untalented
 untamable
 untangle
 untangling
+untanned
 untarnished
 unteaches
 unteaching
@@ -70265,6 +70297,7 @@ vealer
 vealiest
 vealy
 vectorial
+vedalia
 vedalias
 vee
 veejay
@@ -70819,6 +70852,7 @@ vis
 visaed
 visard
 visas
+viscacha
 viscera
 viscerally
 viscidities
@@ -73107,6 +73141,7 @@ zestfulnesses
 zestier
 zestiest
 zesting
+zests
 zeugmas
 zibeline
 zibelines
