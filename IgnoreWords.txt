@@ -773,6 +773,7 @@ aeon
 aeonic
 aepyornises
 aequorin
+aerating
 aeration
 aerations
 aerator
@@ -1787,6 +1788,7 @@ aminities
 amino
 aminoacidurias
 aminopeptidase
+aminophylline
 aminopterin
 aminopterins
 amirates
@@ -4230,6 +4232,7 @@ awards
 awareness
 awash
 away
+awayness
 awaynesses
 awe
 aweather
@@ -6732,6 +6735,7 @@ boatbuilders
 boatbuilding
 boated
 boater
+boathooks
 boathouses
 boatings
 boatlift
@@ -7314,6 +7318,7 @@ bracteoles
 bractless
 brad
 bradawl
+bradoon
 bradycardia
 braggart
 braggers
@@ -11655,6 +11660,7 @@ cocultivating
 cocultivation
 coculture
 cocultures
+coculturing
 cocurators
 cod
 codas
@@ -12454,6 +12460,7 @@ computerizing
 computernik
 computerphobias
 computerphobic
+computes
 computist
 computists
 comrade
@@ -13476,6 +13483,7 @@ corned
 cornelian
 cornelians
 corner
+cornerman
 cornerstones
 cornerways
 cornerwise
@@ -15756,6 +15764,7 @@ decentres
 decentring
 deceptional
 deceptiveness
+decerebrated
 decerned
 decertification
 decertified
@@ -21888,6 +21897,7 @@ evildoers
 evildoings
 evilest
 eviller
+evillest
 evilness
 evils
 evince
@@ -24095,6 +24105,7 @@ floor
 floorage
 floorcloths
 floored
+flooring
 floors
 floorshow
 floorshows
@@ -26149,6 +26160,7 @@ geocentrically
 geochemical
 geochemically
 geochemists
+geochronologic
 geochronologies
 geocoronas
 geode
@@ -26390,6 +26402,7 @@ gimmies
 gimping
 gimpy
 gin
+gingals
 gingeley
 gingeli
 gingelies
@@ -26422,6 +26435,7 @@ ginnier
 ginning
 ginsengs
 ginzo
+ginzoes
 gipons
 gipper
 gippers
@@ -26712,6 +26726,7 @@ glover
 glowered
 glowering
 glowers
+glowfly
 glowing
 glowingly
 gloxinias
@@ -28904,6 +28919,7 @@ hemagogs
 hemal
 hematic
 hematics
+hematin
 hematines
 hematinics
 hematite
@@ -30176,6 +30192,7 @@ humpers
 humph
 humpiness
 humpless
+humpy
 hums
 humungous
 humuses
@@ -32502,6 +32519,7 @@ interaction
 interagency
 interallelic
 interarch
+interarched
 interbasin
 interbranch
 intercalary
@@ -42478,6 +42496,7 @@ nontalker
 nontalkers
 nontarget
 nontaxable
+nontaxes
 nonteaching
 nontechnical
 nonterminals
@@ -43608,6 +43627,7 @@ ora
 oraches
 oracularly
 oral
+oralists
 orality
 orals
 orangeade
@@ -43874,6 +43894,7 @@ ossifying
 osteal
 osteitides
 osteitis
+ostensibly
 ostensorium
 ostentation
 ostentations
@@ -46027,6 +46048,7 @@ parliaments
 parling
 parlor
 parlors
+parmesans
 parmigiana
 parmigiano
 parochial
@@ -47090,6 +47112,7 @@ persona
 personableness
 personae
 personage
+personalise
 personalities
 personalizes
 personally
@@ -49797,6 +49820,7 @@ prejudges
 prejudgment
 prejudgments
 prejudiced
+prejudices
 prejudicing
 prekindergarten
 prelapsarian
@@ -50821,6 +50845,7 @@ protamines
 protases
 protea
 protean
+proteases
 protect
 protectants
 protecter
@@ -53722,6 +53747,7 @@ reincarnates
 reincarnations
 reincited
 reincorporates
+reindeers
 reindexes
 reindictment
 reindictments
@@ -54350,6 +54376,7 @@ reprieval
 reprieve
 reprieved
 reprimand
+reprinters
 reprints
 reprisals
 reprising
@@ -56390,6 +56417,7 @@ sailboards
 sailboater
 sailcloths
 sailer
+sailfish
 sailing
 sails
 saimin
@@ -57232,6 +57260,7 @@ scissortails
 scissures
 sciurine
 sciuroid
+sclaffers
 sclaffing
 sclera
 sclerenchyma
@@ -60525,6 +60554,7 @@ solubilises
 solubilising
 solubilize
 solubilizing
+solubles
 solubly
 solunar
 solus
@@ -62238,6 +62268,7 @@ stokes
 stokesias
 stole
 stolen
+stolid
 stolidest
 stolidities
 stollens
@@ -66357,6 +66388,7 @@ tonally
 tone
 tonearms
 toneless
+tonelessly
 tonelessnesses
 tonemic
 toner
@@ -67165,6 +67197,7 @@ tribrachic
 tribrachs
 tribulate
 tribulation
+tribunary
 tribunate
 tribune
 tribuneships
@@ -67286,6 +67319,7 @@ trilinear
 trilingual
 triliteralism
 trilithon
+trilithons
 triliths
 triller
 trillers
@@ -70523,6 +70557,7 @@ vavasours
 vavassors
 vavs
 vaw
+vaward
 vawards
 vawntie
 veal
