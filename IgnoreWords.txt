@@ -3468,6 +3468,7 @@ ashcake
 ashcakes
 ashed
 ashen
+ashes
 ashfall
 ashier
 ashiness
@@ -5042,6 +5043,7 @@ bazillion
 bazillions
 bazoo
 bazooka
+bazookas
 bazooms
 bdellium
 beach
@@ -7271,6 +7273,7 @@ brackish
 brackishness
 brackishnesses
 bracted
+bracteoles
 bractless
 brad
 bradawl
@@ -8463,6 +8466,7 @@ caladiums
 calamander
 calamaries
 calamary
+calami
 calamine
 calamite
 calamondin
@@ -10420,6 +10424,7 @@ chirality
 chirkest
 chirographers
 chirographic
+chiromancer
 chiromancers
 chiromancies
 chironomids
@@ -11473,6 +11478,7 @@ coauthorships
 coax
 coaxed
 coaxer
+coaxially
 coaxing
 cobaltic
 cobaltines
@@ -12719,6 +12725,7 @@ conjoining
 conjugate
 conjugately
 conjugateness
+conjugational
 conjugationally
 conjunction
 conjunctional
@@ -13167,6 +13174,7 @@ cooee
 cooeed
 cooeeing
 cooees
+cooer
 cooey
 cooing
 cook
@@ -16470,6 +16478,7 @@ depeoples
 depermed
 deperming
 depersonalize
+depersonalized
 depersonalizing
 depicters
 depicting
@@ -17971,6 +17980,7 @@ dislodged
 dislodgement
 dislodgements
 dislodges
+dislodgment
 disloyal
 disloyalty
 dismalest
@@ -18153,6 +18163,7 @@ disseverance
 disseverances
 dissevering
 disseverment
+dissidence
 dissidences
 dissimilar
 dissimilarities
@@ -19905,6 +19916,7 @@ elapse
 elapsed
 elapsing
 elasmobranch
+elasmobranchs
 elastase
 elastic
 elasticities
@@ -26934,6 +26946,7 @@ governors
 governorships
 gowaned
 gowds
+gowks
 gown
 gowned
 gowns
@@ -29153,6 +29166,7 @@ hijab
 hijack
 hijacking
 hijra
+hijrah
 hilariousnesses
 hilarity
 hillbillies
@@ -33486,6 +33500,7 @@ jequirities
 jequirity
 jereed
 jerid
+jerids
 jerk
 jerker
 jerkier
@@ -36074,6 +36089,7 @@ liverishness
 liverishnesses
 liverleaf
 livers
+liverwort
 liverwurst
 liverwursts
 liverymen
@@ -39495,6 +39511,7 @@ misyoking
 mite
 miterers
 mitering
+miterwort
 miterworts
 mithers
 miticidal
@@ -39510,6 +39527,7 @@ mitochondrion
 mitogenicities
 mitomycins
 mitosis
+mitotically
 mitres
 mitrewort
 mitring
@@ -43266,6 +43284,7 @@ operationally
 operationism
 operationisms
 operative
+operativeness
 operativenesses
 operatives
 opercula
@@ -45235,6 +45254,7 @@ palatially
 palatialness
 palatialnesses
 palatinate
+palatinates
 palavered
 palaverer
 palaverers
@@ -47880,6 +47900,7 @@ pitifuller
 pitifullest
 pitiless
 pitilessly
+pitilessnesses
 pitmans
 pittance
 pittances
@@ -50325,6 +50346,7 @@ promo
 promontories
 promos
 promotable
+promoting
 promotiveness
 prompt
 promptbook
@@ -52065,6 +52087,7 @@ ratfinks
 ratfish
 rathe
 rather
+rathole
 ratholes
 rathskeller
 ratification
@@ -56664,6 +56687,7 @@ scamp
 scamped
 scamperer
 scamperers
+scampies
 scampish
 scamps
 scamster
@@ -60646,6 +60670,7 @@ sped
 speechless
 speechlessly
 speechwriter
+speed
 speedball
 speedballed
 speedboat
@@ -62253,6 +62278,7 @@ stropped
 stroppers
 stroppier
 stroppiest
+stropping
 strops
 stroud
 stroudings
@@ -64817,6 +64843,7 @@ tendance
 tendence
 tendencies
 tendencious
+tendency
 tendered
 tenderer
 tenderest
@@ -65651,6 +65678,7 @@ tighter
 tightfistedness
 tightly
 tightrope
+tightwad
 tightwire
 tightwires
 tigon
@@ -65895,6 +65923,7 @@ toenailing
 toenails
 toeplate
 toes
+tofus
 tofuttis
 tog
 toga
@@ -65953,6 +65982,7 @@ tollways
 toluate
 toluenes
 toluides
+toluidides
 toluidin
 toluids
 toluol
@@ -66591,6 +66621,7 @@ transvaluating
 transvaluations
 transvalue
 transvalues
+transvaluing
 transversal
 transverse
 transversely
@@ -69412,6 +69443,7 @@ untreaded
 untreading
 untreads
 untreated
+untrimmed
 untrod
 untrodden
 untrusses
@@ -71436,6 +71468,7 @@ waxer
 waxers
 waxes
 waxiest
+waxings
 waxplant
 waxweed
 waxwings
@@ -72050,6 +72083,7 @@ windowing
 windowpanes
 windows
 windowsill
+windpipe
 windpipes
 windproof
 windrowed
@@ -72533,6 +72567,7 @@ wrists
 wristwatch
 wristwatches
 writ
+writeable
 writer
 writerly
 writers
