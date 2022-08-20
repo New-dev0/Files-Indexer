@@ -231,6 +231,7 @@ accordance
 accorded
 accorder
 accorders
+accordingly
 accordions
 accosting
 accosts
@@ -2347,6 +2348,7 @@ antalkali
 antalkalis
 antarctic
 antbear
+ante
 antecede
 anteceded
 antecedences
@@ -5449,6 +5451,7 @@ beleaguer
 beleaguerment
 beleaguers
 beleaping
+beleaps
 belfried
 belfries
 belgas
@@ -5613,6 +5616,7 @@ benzoyls
 bepainting
 bepaints
 bepimpled
+bepimples
 bequeaths
 bequests
 berascals
@@ -5737,6 +5741,7 @@ bestrow
 bestrowed
 bestudding
 bestuds
+beswarm
 beswarmed
 beswarms
 bet
@@ -6585,6 +6590,7 @@ blooper
 bloopers
 bloops
 blossoms
+blotchier
 blotting
 blotty
 blousier
@@ -6899,6 +6905,7 @@ bombycid
 bombycids
 bonaci
 bonanza
+bondages
 bonded
 bondholders
 bonding
@@ -12419,6 +12426,7 @@ compulsivity
 compulsorily
 compulsory
 compunctious
+compurgations
 computabilities
 computable
 computations
@@ -15603,6 +15611,7 @@ deathlike
 deathwatches
 deaved
 deaves
+debacle
 debacles
 debagged
 debagging
@@ -19542,6 +19551,7 @@ dystaxia
 dystaxias
 dysthymia
 dysthymics
+dystocia
 dystocias
 dystonias
 dystopian
@@ -23677,6 +23687,7 @@ fisheyes
 fishgig
 fishhook
 fishhooks
+fishier
 fishily
 fishiness
 fishings
@@ -24067,6 +24078,7 @@ floorshow
 floorshows
 floorwalkers
 floosie
+floosies
 floozie
 floozies
 flophouse
@@ -29704,6 +29716,7 @@ honeysuckle
 honeysuckles
 hongi
 hongied
+hongies
 hongiing
 honied
 honkers
@@ -30841,6 +30854,7 @@ imbecilic
 imbecilities
 imbed
 imbedding
+imbeds
 imbibe
 imbiber
 imbibers
@@ -32050,6 +32064,7 @@ inhabitancy
 inhabitants
 inhalers
 inharmonious
+inharmoniously
 inharmony
 inhere
 inhered
@@ -34128,6 +34143,7 @@ kayaker
 kayaking
 kayaks
 kayles
+kazatski
 kazillions
 kazoo
 kbar
@@ -34229,6 +34245,7 @@ kerchiefed
 kerchieves
 kerchoo
 kerfed
+kerfing
 kermis
 kern
 kerne
@@ -35555,6 +35572,7 @@ lekythus
 lemma
 lemmatizes
 lemmatizing
+lemming
 lemminglike
 lemonish
 lemures
@@ -38958,6 +38976,7 @@ millionths
 milliosmol
 milliosmols
 millipede
+millipedes
 milliradians
 millirems
 millisecond
@@ -39700,6 +39719,7 @@ mobocracies
 mobocrat
 mobocratic
 mobocrats
+mobs
 mobster
 moccasins
 mochas
@@ -40415,6 +40435,7 @@ mouthfeels
 mouthier
 mouthiest
 mouthily
+mouthing
 mouthlike
 mouthpart
 mouthparts
@@ -43104,6 +43125,7 @@ odontoglossum
 odontoid
 odorant
 odorants
+odorful
 odorizing
 odorously
 odourful
@@ -44336,6 +44358,7 @@ outskated
 outskirts
 outslick
 outslicking
+outsmart
 outsmelling
 outsmelt
 outsmile
@@ -46249,6 +46272,7 @@ patriotisms
 patristic
 patristics
 patrol
+patrolled
 patroller
 patrolling
 patronal
@@ -48089,6 +48113,7 @@ pixie
 pixieish
 pixinesses
 pizazzes
+pizazzy
 pizzalike
 pizzaz
 pizzazzy
@@ -49102,6 +49127,7 @@ postembryonal
 postembryonic
 poster
 posterior
+posteriority
 posterities
 posterns
 posters
@@ -49152,6 +49178,7 @@ postmillennial
 postmodern
 postmodernism
 postmortems
+postnatal
 postnatally
 postneonatal
 postorbital
@@ -49840,6 +49867,7 @@ prepasting
 prepaving
 prepay
 prepaying
+prepayments
 prepensely
 preperformance
 prepill
@@ -50543,6 +50571,7 @@ pronenesses
 pronephra
 pronephric
 pronephros
+pronephroses
 pronged
 pronghorns
 prongs
@@ -50642,6 +50671,7 @@ proprietorial
 proprietorship
 proprietorships
 proprietress
+propriety
 proprioceptions
 proprioceptor
 props
@@ -52834,6 +52864,7 @@ reconcentrate
 reconcentrates
 reconcentration
 reconceptions
+reconceptualize
 reconcilability
 reconcilable
 reconciled
@@ -56160,6 +56191,7 @@ sabbatic
 sabbatical
 sabbats
 sabe
+saberlike
 sabermetrician
 sabermetrics
 sabin
@@ -69353,6 +69385,7 @@ unprompted
 unpronounceable
 unpropitious
 unprotected
+unproved
 unpucker
 unpunished
 unpurged
@@ -70845,6 +70878,7 @@ vignetted
 vignetters
 vignettist
 vignettists
+vigorishes
 vigorousness
 vigors
 vigour
@@ -71346,6 +71380,7 @@ wadmaal
 wadmels
 wadmoll
 wadmols
+wads
 wady
 waeful
 waesuck
