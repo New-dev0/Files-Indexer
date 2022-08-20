@@ -606,6 +606,7 @@ adjuratory
 adjuror
 adjustable
 adjusted
+adjustive
 adjutant
 adjutants
 adjuvant
@@ -1175,6 +1176,7 @@ airshows
 airsicknesses
 airspace
 airstreams
+airstrike
 airstrikes
 airt
 airthed
@@ -2565,6 +2567,7 @@ antinomianism
 antinomy
 antinovel
 antinovelist
+antinucleon
 antinucleons
 antinuker
 antinukes
@@ -3077,6 +3080,7 @@ arbitrates
 arbitrating
 arbitrations
 arbitrator
+arbitrators
 arboreal
 arboreally
 arbored
@@ -4200,6 +4204,7 @@ awarded
 awardees
 awarder
 awarders
+awards
 awareness
 awash
 away
@@ -4625,6 +4630,7 @@ bandages
 bandannas
 bandeau
 banded
+banderillas
 banderilleros
 banderoles
 banders
@@ -9814,6 +9820,7 @@ cestodes
 cestos
 cestus
 cestuses
+cesuras
 cetaceous
 cetane
 cetologies
@@ -14774,6 +14781,7 @@ curarized
 curarizes
 curarizing
 curate
+curating
 curatives
 curators
 curbers
@@ -16848,6 +16856,7 @@ detickers
 deticks
 detonability
 detonatable
+detonation
 detonator
 detouring
 detours
@@ -18031,6 +18040,7 @@ displume
 displumed
 displuming
 disport
+disported
 disports
 disposable
 disposables
@@ -18890,6 +18900,7 @@ drake
 drama
 dramas
 dramatically
+dramatisations
 dramatist
 dramatists
 dramatizable
@@ -21110,6 +21121,7 @@ epitheliums
 epithelization
 epithelizing
 epithet
+epithetic
 epitome
 epitomic
 epitomical
@@ -24096,6 +24108,7 @@ fluoroscopist
 fluoroses
 fluorosis
 fluorouracil
+fluorouracils
 fluorspars
 fluphenazine
 flurries
@@ -26109,6 +26122,7 @@ getup
 geum
 gewgawed
 geyserites
+gharries
 gharris
 gharry
 ghast
@@ -28162,6 +28176,7 @@ happenings
 happens
 happenstance
 happier
+happiest
 happinesses
 happy
 haptenes
@@ -29539,6 +29554,7 @@ honest
 honestest
 honesties
 honestly
+honesty
 honewort
 honeworts
 honeybees
@@ -34683,6 +34699,7 @@ lade
 laden
 laders
 ladhoods
+lading
 ladle
 ladled
 ladleful
@@ -35581,6 +35598,7 @@ liberated
 liberationists
 libertarians
 liberties
+libertinage
 libertine
 libertinisms
 liberty
@@ -36297,6 +36315,7 @@ looie
 look
 lookalike
 lookdowns
+looker
 lookers
 looksism
 lookup
@@ -38108,6 +38127,7 @@ mercer
 merceries
 mercerising
 mercerization
+mercerize
 mercerized
 mercery
 merces
@@ -42922,6 +42942,7 @@ off
 offal
 offed
 offended
+offenders
 offending
 offenseless
 offenses
@@ -43003,6 +43024,7 @@ oinks
 oiticicas
 okas
 okay
+okra
 olden
 older
 oldest
@@ -43553,6 +43575,7 @@ oryxes
 os
 osar
 oscillated
+oscillational
 oscillograms
 oscillographies
 oscillography
@@ -44606,6 +44629,7 @@ overlavish
 overlay
 overlays
 overleap
+overleaped
 overleaps
 overlearn
 overlearning
@@ -47917,6 +47941,7 @@ plaintivenesses
 plaister
 plaitings
 plaits
+plan
 planar
 planarias
 planarities
@@ -48843,6 +48868,7 @@ postcoup
 postcrash
 postcrisis
 postdating
+postdebate
 postdiluvian
 postdivestiture
 postdoc
@@ -52544,6 +52570,7 @@ recoined
 recollections
 recolonizes
 recoloring
+recomb
 recombinant
 recombinational
 recombing
@@ -56399,6 +56426,7 @@ saskatoons
 sassaby
 sassafrases
 sasses
+sassiest
 sassinesses
 sassy
 sassywood
@@ -57645,6 +57673,7 @@ sensitize
 sensitizer
 sensitizers
 sensitizing
+sensitometries
 sensorial
 sensorimotor
 sensual
@@ -58074,6 +58103,7 @@ shapeups
 shapewear
 shards
 shareabilities
+shareability
 sharecrops
 shareholder
 shareholders
@@ -58981,6 +59011,7 @@ sisals
 siskins
 sissyish
 sisterhoods
+sisters
 sistroid
 sistrum
 sistrums
@@ -63583,6 +63614,7 @@ swarajists
 sware
 swarmed
 swarmer
+swarming
 swart
 swarth
 swarthily
@@ -66486,6 +66518,7 @@ transmitted
 transmitters
 transmogrified
 transmogrifies
+transmogrifying
 transmutative
 transnational
 transnatural
@@ -66554,6 +66587,7 @@ trapshooter
 trapshooting
 trapunto
 trapuntos
+trash
 trashman
 trashmen
 trashy
@@ -69825,6 +69859,7 @@ valanced
 valances
 vale
 valedictions
+valedictorians
 valences
 valencias
 valentines
