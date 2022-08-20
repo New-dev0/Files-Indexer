@@ -375,6 +375,7 @@ acknowledgment
 acknowledgments
 acned
 acock
+acoelomate
 aconitic
 aconitum
 aconitums
@@ -900,6 +901,7 @@ afflicting
 afflictions
 afflictive
 afflictively
+affluence
 affluencies
 afford
 affordable
@@ -2168,6 +2170,7 @@ anglerfishes
 angleworm
 angleworms
 anglice
+anglicise
 anglicises
 anglicism
 anglicisms
@@ -4453,6 +4456,7 @@ backslap
 backslapped
 backslapper
 backslappers
+backslaps
 backslides
 backspace
 backspaced
@@ -5417,6 +5421,7 @@ beheader
 beheaders
 beheads
 behest
+behests
 behinds
 beholds
 behoove
@@ -5749,6 +5754,7 @@ bestrid
 bestrides
 bestrow
 bestrowed
+bestudded
 bestudding
 bestuds
 beswarm
@@ -7125,6 +7131,7 @@ botanically
 botanized
 botanizer
 botanizers
+botchery
 botchier
 botching
 botel
@@ -8264,6 +8271,7 @@ butters
 butterscotch
 butterwort
 buttheads
+butties
 butting
 buttinski
 buttinskies
@@ -9335,6 +9343,7 @@ caseworker
 caseworm
 caseworms
 cash
+cashbox
 cashes
 cashews
 cashier
@@ -10111,6 +10120,7 @@ charmeuse
 charmeuses
 charmingest
 charmingly
+charnel
 charpai
 charpoys
 charquid
@@ -11710,6 +11720,7 @@ codominant
 codon
 codrive
 codriver
+codrivers
 cods
 codswallop
 coedit
@@ -16896,6 +16907,7 @@ destruct
 destructed
 destructibility
 destruction
+destructionist
 destructiveness
 destructivity
 desuetude
@@ -17948,6 +17960,7 @@ disentitled
 disentitling
 disequilibrated
 disequilibrates
+disequilibria
 disequilibriums
 disestablish
 disestablished
@@ -18932,6 +18945,7 @@ downsized
 downslide
 downslope
 downspin
+downspins
 downspout
 downstages
 downstair
@@ -25041,6 +25055,7 @@ freewares
 freeway
 freeways
 freewheel
+freewheeled
 freewheelers
 freewill
 freewrite
@@ -30506,6 +30521,7 @@ hypermasculine
 hypermetabolic
 hypermeters
 hypermetropia
+hypermetropias
 hypermnesic
 hypermodernist
 hypermodernists
@@ -31952,6 +31968,7 @@ infantilizes
 infantilizing
 infantine
 infantry
+infants
 infarcted
 infarctions
 infare
@@ -35290,6 +35307,7 @@ lathiest
 lathing
 lathings
 lathworks
+lathy
 lati
 laticifers
 latifundio
@@ -37647,6 +37665,7 @@ marimbists
 marina
 marinade
 marinades
+marinating
 marination
 marinations
 marine
@@ -38641,6 +38660,7 @@ methodists
 methodized
 methodologies
 methodologist
+methodologists
 methought
 methoxide
 methoxides
@@ -40898,6 +40918,7 @@ musicologies
 musicology
 musjid
 musk
+muskeg
 muskegs
 musket
 muskie
@@ -45248,6 +45269,7 @@ overwore
 overworking
 overworn
 overwrites
+overwritten
 overwrote
 overzeal
 ovibos
@@ -45343,6 +45365,7 @@ oxytones
 oyes
 oyez
 oyezes
+oyster
 oystercatcher
 oystercatchers
 oysterer
@@ -45912,6 +45935,7 @@ paralysing
 paralysis
 paralytic
 paralytics
+paralyze
 paralyzed
 paralyzers
 paralyzes
@@ -59356,6 +59380,7 @@ singlet
 singletons
 singletrees
 sings
+singsong
 singularities
 singularizes
 sinh
@@ -60629,6 +60654,7 @@ somnambulations
 somnambulist
 somnifacient
 somnifacients
+somnolently
 soms
 sonance
 sonances
@@ -63131,9 +63157,11 @@ subsea
 subsecretary
 subsectors
 subsegments
+subseizures
 subsense
 subsenses
 subsequences
+subsequent
 subsequents
 subsere
 subserved
@@ -66565,6 +66593,7 @@ toro
 toroid
 torosity
 toroth
+torpedoed
 torpedoes
 torpid
 torpids
@@ -71064,6 +71093,7 @@ vincible
 vincula
 vinculums
 vindicates
+vindicating
 vindications
 vindicator
 vindictive
@@ -71346,6 +71376,7 @@ volcanologists
 voled
 volery
 voles
+volitant
 volitional
 volitive
 volkslied
@@ -71852,6 +71883,7 @@ waters
 watersheds
 watersides
 waterski
+waterthrushes
 waterweed
 waterwork
 waterzoois
@@ -71945,6 +71977,7 @@ wearable
 wearers
 wearinesses
 wearish
+wearisome
 wearisomenesses
 weasands
 weaselly
@@ -73395,6 +73428,7 @@ zanier
 zaniest
 zanyish
 zanzas
+zapateo
 zapateos
 zapper
 zappers
@@ -73488,6 +73522,7 @@ zinging
 zings
 zingy
 zinkenites
+zinkifies
 zinky
 zinnia
 zinnias
