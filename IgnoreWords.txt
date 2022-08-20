@@ -561,6 +561,7 @@ adenosine
 adenosines
 adenosis
 adenoviruses
+adenyls
 adeptness
 adeptnesses
 adequacies
@@ -4220,6 +4221,7 @@ awake
 awaken
 awakeners
 awakenings
+awakes
 awarded
 awardees
 awarder
@@ -5897,6 +5899,7 @@ biddability
 bidder
 bidders
 bidding
+biddings
 bided
 bidental
 biders
@@ -10789,6 +10792,7 @@ churchlier
 churchliest
 churchlinesses
 churchly
+churchmanship
 churchmen
 churchwomen
 churchy
@@ -10814,6 +10818,7 @@ ciborium
 ciboules
 cicadas
 cicatrization
+cicatrize
 cicatrizing
 cicerone
 ciceroni
@@ -12234,6 +12239,7 @@ commodifying
 commodiously
 commodities
 commodity
+commodores
 common
 commonality
 commonness
@@ -13397,6 +13403,7 @@ corbelled
 corbelling
 corbels
 corbie
+corbies
 corbinas
 corby
 cord
@@ -14198,6 +14205,7 @@ creaturehoods
 creaturely
 creatures
 creches
+credence
 credences
 credendum
 credential
@@ -17529,6 +17537,7 @@ dioestruses
 diol
 diolefins
 dionysiac
+dionysian
 diopsides
 diopsidic
 dioptases
@@ -20237,6 +20246,7 @@ emblazer
 emblazing
 emblazoned
 emblazoner
+emblazoning
 emblazonments
 emblematic
 emblematizes
@@ -20860,6 +20870,7 @@ ensign
 ensigns
 ensiled
 ensiles
+enskied
 enskies
 enskyed
 enslave
@@ -23476,6 +23487,7 @@ fill
 fillable
 fillagree
 fillagreed
+fillagreeing
 fille
 filles
 filleting
@@ -27414,6 +27426,7 @@ griffes
 griffs
 grift
 grifts
+grig
 grille
 grillers
 grills
@@ -29030,6 +29043,7 @@ hereinbefore
 hereon
 heresies
 heresy
+heretic
 heretically
 heretics
 heretrixes
@@ -29553,6 +29567,7 @@ hols
 holsteins
 holster
 holstered
+holydays
 holystone
 holystoned
 holystones
@@ -29666,6 +29681,7 @@ homophobia
 homophonies
 homophony
 homophylies
+homophyly
 homoplasy
 homopolymers
 homopteran
@@ -34955,6 +34971,7 @@ lambiest
 lambing
 lambkills
 lamblike
+lambrequin
 lambrusco
 lambruscos
 lambskins
@@ -35011,6 +35028,7 @@ lancelets
 lanceted
 lancewood
 lanciers
+lancinate
 lancinates
 lancinating
 landau
@@ -35966,6 +35984,7 @@ limn
 limner
 limners
 limning
+limnological
 limnologies
 limnologist
 limnology
@@ -39594,6 +39613,7 @@ misstopped
 misstricken
 misstruck
 misstyle
+misstyled
 misstyles
 misstyling
 missuses
@@ -44472,6 +44492,7 @@ outwearying
 outweep
 outweeping
 outweeps
+outweigh
 outwhirl
 outwhirling
 outwhirls
@@ -44555,6 +44576,7 @@ overbilled
 overbills
 overbite
 overbleach
+overbleaches
 overbleaching
 overblowing
 overboard
@@ -46591,6 +46613,7 @@ pemphixes
 pen
 penal
 penalise
+penalizations
 penalized
 penalizes
 penalty
@@ -47929,6 +47952,7 @@ pinkishnesses
 pinko
 pinkoes
 pinkroot
+pinks
 pinna
 pinnace
 pinnacle
@@ -52316,6 +52340,7 @@ ratine
 rating
 ratings
 ratio
+ratiocination
 ratiocinative
 ratiocinator
 ration
@@ -58255,6 +58280,7 @@ sexton
 sextos
 sexts
 sextuplets
+sextuplicate
 sextuplicated
 sexual
 sexuality
@@ -58478,6 +58504,7 @@ sheepherding
 sheepherdings
 sheepishnesses
 sheepshanks
+sheepshearers
 sheepskins
 sheerest
 sheering
@@ -62110,6 +62137,7 @@ stinkingly
 stinko
 stinks
 stinky
+stinted
 stipel
 stipels
 stipes
@@ -62728,6 +62756,7 @@ subclassify
 subclause
 subclavians
 subclerk
+subclimaxes
 subclustered
 subclusters
 subcode
@@ -62769,6 +62798,7 @@ subdevelopment
 subdevelopments
 subdialect
 subdiscipline
+subdistrict
 subdividable
 subdividers
 subdivision
@@ -65986,6 +66016,7 @@ tiltmeters
 tiltrotor
 tiltrotors
 tilts
+tiltyard
 timbal
 timbale
 timbales
@@ -66880,6 +66911,7 @@ transports
 transposons
 transsexual
 transsexualism
+transshape
 transshapes
 transshaping
 transship
@@ -67107,6 +67139,7 @@ tribune
 tribuneships
 tribute
 tricarboxylic
+trice
 tricepses
 trichiases
 trichiasis
@@ -67695,6 +67728,7 @@ tunably
 tundishes
 tune
 tuneable
+tuned
 tuneless
 tunelessly
 tuner
@@ -72400,6 +72434,7 @@ windrows
 windscreen
 windscreens
 windshields
+windsocks
 windsurfing
 windsurfings
 windsurfs
