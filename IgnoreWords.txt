@@ -748,6 +748,7 @@ advisories
 advocacies
 advocacy
 advocate
+advocative
 advocator
 advocators
 advowson
@@ -6986,6 +6987,7 @@ bookshelves
 bookshop
 bookshops
 bookstand
+bookstore
 bookstores
 boom
 boomboxes
@@ -11694,6 +11696,7 @@ coelostat
 coelostats
 coembodied
 coembodies
+coembody
 coemploy
 coemploying
 coemploys
@@ -11987,6 +11990,7 @@ collodion
 collodions
 collogue
 collogues
+colloidal
 colloids
 collop
 colloquial
@@ -13186,6 +13190,7 @@ conviviality
 convocation
 convoke
 convoker
+convokers
 convokes
 convoking
 convolute
@@ -21067,6 +21072,7 @@ ephemeris
 ephorates
 ephori
 ephors
+epiblastic
 epiblasts
 epibolies
 epiboly
@@ -22538,6 +22544,7 @@ fabling
 fabricants
 fabricate
 fabricates
+fabrics
 fabulates
 fabulating
 fabulously
@@ -24204,6 +24211,7 @@ flurry
 flushable
 flushed
 flushes
+flustered
 flusteredly
 flustering
 flusters
@@ -24670,6 +24678,7 @@ formicas
 forming
 formlessly
 formlessness
+formulae
 formulaically
 formularized
 formularizer
@@ -26430,6 +26439,7 @@ glacises
 glad
 gladden
 gladdened
+gladdener
 gladdeners
 gladdening
 gladding
@@ -27486,6 +27496,7 @@ grossing
 grossness
 grosz
 grosze
+groszy
 grot
 grotesque
 grotesqueness
@@ -27757,6 +27768,7 @@ gumweed
 gumweeds
 gumwoods
 gun
+gunboats
 gunfights
 gunfire
 gunites
@@ -36159,6 +36171,7 @@ litterer
 litterers
 littermates
 litters
+littery
 little
 littler
 littlest
@@ -37628,6 +37641,7 @@ masalas
 masas
 mascaraing
 mascarpones
+mascot
 masculines
 masculinise
 masculinised
@@ -37947,6 +37961,7 @@ medaillon
 medaillons
 medakas
 medaling
+medalist
 medallion
 medallions
 meddler
@@ -39797,6 +39812,7 @@ molls
 mollusca
 molluscicidal
 molluscs
+molluskans
 molly
 mollycoddlers
 mollycoddles
@@ -40843,6 +40859,7 @@ muzjiks
 muzziest
 muzzle
 muzzler
+muzzles
 myalgia
 myalgic
 myases
@@ -46896,6 +46913,7 @@ permafrosts
 permanences
 permanent
 permanently
+permanentness
 permanganate
 permanganates
 permeability
@@ -48062,6 +48080,7 @@ placated
 placaters
 placates
 placatory
+placeable
 placebo
 placeboes
 placeholder
@@ -54051,6 +54070,7 @@ repacified
 repack
 repackage
 repackagers
+repackaging
 repainted
 repainting
 repairability
@@ -58211,6 +58231,7 @@ shadowbox
 shadowboxed
 shadowboxes
 shadowed
+shadower
 shadowgraphies
 shadowier
 shadowiest
@@ -60316,6 +60337,7 @@ solemnity
 solemnization
 solemnizations
 solemnized
+solemnness
 solemnnesses
 soleplate
 soleprint
@@ -62672,6 +62694,7 @@ subcrustal
 subcults
 subcultural
 subcultured
+subculturing
 subcutis
 subcutises
 subdeacon
@@ -63303,6 +63326,7 @@ sunback
 sunbath
 sunbathers
 sunbaths
+sunbelt
 sunbelts
 sunbird
 sunbirds
@@ -67236,6 +67260,7 @@ tristezas
 tristful
 tristfully
 tristich
+tristichs
 trisubstituted
 trisulfide
 trisulfides
@@ -67251,6 +67276,7 @@ trithings
 tritium
 triton
 tritone
+triturable
 triturating
 trituration
 triturator
@@ -67547,6 +67573,7 @@ tucks
 tuckshop
 tufa
 tufaceous
+tufas
 tuff
 tuffaceous
 tuffet
@@ -67789,6 +67816,7 @@ tweezers
 tweezing
 twelfth
 twelvemo
+twelvemonths
 twelvemos
 twelves
 twenties
@@ -68875,6 +68903,7 @@ unfurls
 unfurnished
 unfussy
 ungainlier
+ungainliness
 ungainlinesses
 ungalled
 ungazing
@@ -69080,6 +69109,7 @@ unkindness
 unkissed
 unknitting
 unknots
+unknowabilities
 unknowability
 unknown
 unkosher
@@ -69868,6 +69898,7 @@ upshifted
 upshifts
 upshooting
 upshoots
+upside
 upsilon
 upsilons
 upsized
@@ -70730,6 +70761,7 @@ vicomte
 victimised
 victimising
 victimization
+victimized
 victimizes
 victimless
 victimologist
@@ -71881,6 +71913,7 @@ wettish
 wha
 whacks
 whaleback
+whaleboats
 whaleman
 whalers
 whales
@@ -72169,6 +72202,7 @@ widens
 wideout
 wider
 widespread
+widgeon
 widowerhood
 widowerhoods
 widowers
@@ -72567,6 +72601,7 @@ woodnote
 woodpecker
 woodpiles
 woodruff
+woodshed
 woodshedding
 woodsia
 woodsias
