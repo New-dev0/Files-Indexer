@@ -1729,6 +1729,7 @@ amenability
 amenably
 amend
 amenorrhea
+amenorrheic
 amens
 amentia
 aments
@@ -2454,6 +2455,7 @@ anticolonialist
 anticommunisms
 anticommunists
 anticompetitive
+anticonsumer
 anticonvulsant
 anticorrosives
 anticruelty
@@ -4492,6 +4494,7 @@ bagpipes
 bagpiping
 baguet
 baguets
+bagworms
 bah
 bahts
 bahuvrihis
@@ -5833,6 +5836,7 @@ bices
 bichromated
 bicipital
 bickered
+bickering
 bicomponent
 biconcavities
 biconditional
@@ -7188,6 +7192,7 @@ bowshot
 bowshots
 bowstring
 bowstringed
+bowstringing
 bowstrings
 bowwowed
 bowwowing
@@ -8337,6 +8342,7 @@ cacodemonic
 cacodemons
 cacodyls
 cacographical
+cacomixles
 cacomixls
 caconym
 caconymies
@@ -8917,6 +8923,7 @@ captaining
 captainships
 captioned
 captions
+captiously
 captivate
 captivates
 captivations
@@ -12445,6 +12452,7 @@ concisions
 conclude
 concluders
 concluding
+concocted
 concocter
 concocting
 concomitance
@@ -12966,6 +12974,7 @@ continentals
 continently
 contingence
 contingencies
+contingency
 continual
 continually
 continuances
@@ -16246,6 +16255,7 @@ democratization
 democratize
 democratized
 democratizers
+demode
 demodulation
 demodulations
 demographer
@@ -19538,6 +19548,7 @@ eaved
 eavesdrop
 eavesdropper
 eavesdropping
+ebbing
 ebonies
 ebony
 ebooks
@@ -22598,6 +22609,7 @@ falters
 fame
 familial
 familiar
+familiarised
 familiarises
 familiarising
 familiarities
@@ -22770,6 +22782,7 @@ fasteners
 faster
 fastest
 fastidiously
+fastings
 fastnesses
 fatalist
 fatalists
@@ -23077,6 +23090,7 @@ ferromagnetisms
 ferromanganese
 ferromanganeses
 ferrosilicons
+ferrotype
 ferruginous
 ferryboat
 ferrying
@@ -23393,6 +23407,7 @@ finfoots
 fingerboards
 fingerer
 fingerers
+fingerhold
 fingernail
 fingerpicked
 fingerpickings
@@ -23546,6 +23561,7 @@ fishways
 fishwife
 fishwives
 fishworms
+fissate
 fissility
 fissionability
 fissionable
@@ -27609,6 +27625,7 @@ gumweed
 gumweeds
 gumwoods
 gun
+gunfights
 gunfire
 gunites
 gunk
@@ -29643,6 +29660,7 @@ hornings
 hornist
 hornito
 hornless
+horns
 hornstone
 hornswoggles
 horntail
@@ -31460,6 +31478,7 @@ indexation
 indexed
 indexing
 indican
+indicans
 indicant
 indicants
 indicates
@@ -33193,6 +33212,7 @@ jabirus
 jabot
 jaboticabas
 jabs
+jacals
 jacamar
 jacana
 jacanas
@@ -34710,6 +34730,7 @@ lakhs
 lakier
 lakiest
 lakings
+lallan
 lalland
 lallation
 lallations
@@ -36044,6 +36065,7 @@ lobbed
 lobber
 lobby
 lobbyism
+lobbyists
 lobe
 lobed
 lobefins
@@ -40781,6 +40803,7 @@ naevoid
 naffs
 nagana
 nagged
+nagger
 naggier
 naggiest
 naiades
@@ -45649,6 +45672,7 @@ paretic
 paretics
 pareve
 parfleches
+parfocality
 parfocalized
 parfocalizes
 parfocalizing
@@ -48500,6 +48524,7 @@ polyphagia
 polyphagias
 polyphagies
 polyphenol
+polyphenolic
 polyphones
 polyphonies
 polyphonous
@@ -49329,6 +49354,7 @@ preerect
 preerecting
 preerects
 preestablishes
+preethical
 preexempted
 preexempts
 preexilic
@@ -54525,6 +54551,7 @@ retinitises
 retinoblastomas
 retinoid
 retinopathy
+retinoscopies
 retinted
 retinting
 retinue
@@ -55572,6 +55599,7 @@ rowlocks
 rowth
 rowths
 royalism
+royalist
 royalmast
 royals
 royalties
@@ -55606,6 +55634,7 @@ rubicundity
 rubier
 rubies
 rubiest
+rubigos
 rubles
 rubout
 rubouts
@@ -57443,6 +57472,7 @@ semiclassics
 semicolonial
 semicolons
 semicoma
+semiconducting
 semicured
 semicylindrical
 semideaf
@@ -61326,6 +61356,7 @@ staphylinid
 staphylococcic
 staphylococcus
 staple
+stapled
 star
 starboarding
 starboards
@@ -61934,6 +61965,7 @@ stramashes
 stramony
 strandednesses
 stranders
+strange
 strangely
 stranger
 stranges
@@ -68485,6 +68517,7 @@ unfitted
 unfix
 unfixing
 unflappable
+unflattering
 unflatteringly
 unfledged
 unflexed
@@ -70807,6 +70840,7 @@ vortical
 vorticist
 vorticists
 vorticity
+vorticose
 votaress
 votaries
 votarists
@@ -71613,6 +71647,7 @@ whimpering
 whimpers
 whims
 whimsey
+whimsicality
 whimsicalnesses
 whimsies
 whin
