@@ -89,6 +89,7 @@ abstains
 abstemiously
 abstemiousness
 absterge
+absterged
 abstinence
 abstinences
 abstinent
@@ -5706,6 +5707,7 @@ besotted
 bespangle
 bespangles
 bespangling
+bespatter
 bespattering
 bespoken
 bespouses
@@ -9123,6 +9125,7 @@ carelessness
 carer
 caressers
 caresses
+caressively
 caretaken
 caretaker
 caretaking
@@ -14367,7 +14370,9 @@ croakiest
 croakily
 croaking
 croc
+croceine
 croceines
+crocheter
 crocheters
 croci
 crocidolite
@@ -18842,6 +18847,7 @@ downgraded
 downhauls
 downhiller
 downinesses
+downless
 downlight
 downlights
 downlink
@@ -23026,6 +23032,7 @@ feeblemindedly
 feeblest
 feeblish
 feebly
+feebs
 feedbag
 feedboxes
 feedgrain
@@ -23219,6 +23226,7 @@ festivals
 festive
 festiveness
 festivities
+festivity
 festoonery
 festoons
 fests
@@ -23630,6 +23638,7 @@ firstfruits
 firsthand
 firstling
 firstly
+firstness
 firsts
 firth
 fisc
@@ -25749,6 +25758,7 @@ garishness
 garland
 garlic
 garlickier
+garlickiest
 garlicky
 garment
 garmenting
@@ -28975,6 +28985,7 @@ herds
 herdsman
 hereabouts
 hereafters
+hereaway
 heredes
 hereditament
 hereditarians
@@ -34119,6 +34130,7 @@ keelages
 keelboat
 keelboats
 keelhale
+keelhaled
 keelhales
 keelhaling
 keelhaul
@@ -34248,6 +34260,7 @@ khaddar
 khadi
 khafs
 khalif
+khalifas
 khalifate
 khalifs
 khans
@@ -34796,6 +34809,7 @@ lactiferous
 lactobacillus
 lactose
 lacunae
+lacunar
 lacunaria
 lacunars
 lacunose
@@ -35455,6 +35469,7 @@ legerdemain
 legerities
 legers
 leges
+legginess
 legging
 leggins
 leggy
@@ -42717,6 +42732,7 @@ nutritively
 nutritives
 nuts
 nutsier
+nutsy
 nutters
 nuttiest
 nuttily
@@ -43717,6 +43733,7 @@ oscillational
 oscillograms
 oscillographies
 oscillography
+oscilloscopes
 oscinine
 oscitancies
 osculant
@@ -46666,6 +46683,7 @@ peppiness
 pepping
 pepsinate
 pepsinates
+peptic
 peptid
 peptidase
 peptides
@@ -48570,6 +48588,7 @@ polecats
 poleless
 polemicizing
 polemics
+polemist
 polemize
 polemized
 polemizing
@@ -49168,6 +49187,7 @@ potentiations
 potentiators
 potentilla
 potentiometric
+potful
 potheads
 potheen
 pother
@@ -50172,6 +50192,7 @@ printmaker
 printmaking
 printmakings
 prion
+prions
 prioresses
 prioritization
 prioritizations
@@ -50818,6 +50839,7 @@ proxies
 proximal
 proximally
 proximateness
+prude
 pruderies
 prudes
 prudishly
@@ -54849,6 +54871,7 @@ retroceded
 retrocession
 retrocessions
 retrodicted
+retrodictions
 retrofit
 retrofitted
 retrofitting
@@ -56910,6 +56933,7 @@ scavengers
 scavenges
 scavenging
 scenarios
+scenarists
 scenas
 scend
 scene
@@ -59775,6 +59799,7 @@ slyer
 slyness
 slynesses
 smack
+smacked
 smacking
 smacks
 small
@@ -60098,6 +60123,7 @@ snowscapes
 snowshed
 snowshoe
 snowshoer
+snowshoes
 snowslide
 snowslides
 snowstorm
@@ -61023,6 +61049,7 @@ spiritist
 spiritlessly
 spirits
 spiritual
+spiritualisms
 spiritualize
 spiritually
 spiritualnesses
@@ -61055,6 +61082,7 @@ spittle
 spittlebug
 spittles
 spittoon
+spiv
 spivs
 splash
 splashboards
@@ -61873,6 +61901,7 @@ stereotypical
 stereotypically
 stereotypies
 stereotypy
+steric
 sterically
 sterigma
 sterilise
@@ -62240,6 +62269,7 @@ straphung
 strappadoes
 strappados
 strapped
+strappings
 strappy
 straps
 strass
@@ -64625,6 +64655,7 @@ tassets
 tassies
 tastable
 tasteful
+tastefulness
 tastefulnesses
 tastelessness
 tastiest
@@ -66825,6 +66856,7 @@ traumatized
 traumatizes
 traumatizing
 travailing
+travails
 traveler
 travelers
 traveling
@@ -70301,6 +70333,7 @@ vastity
 vasty
 vatfuls
 vatical
+vaticides
 vaticinal
 vaticinated
 vaticinating
@@ -72602,6 +72635,7 @@ workboxes
 workday
 workdays
 worked
+worker
 workfares
 workflow
 workforce
@@ -72767,6 +72801,7 @@ wurtzites
 wurzels
 wushu
 wussier
+wuther
 wuthers
 wyandotte
 wyes
