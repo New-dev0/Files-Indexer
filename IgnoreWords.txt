@@ -400,6 +400,7 @@ acquittals
 acquittance
 acquitting
 acrasias
+acre
 acreages
 acred
 acres
@@ -2854,6 +2855,7 @@ apophyses
 apoplexies
 apoptoses
 apoptosis
+apoptotic
 aporias
 aposiopesis
 aposiopetic
@@ -4116,6 +4118,7 @@ autosuggested
 autotetraploidy
 autotomic
 autotomized
+autotomizing
 autotoxic
 autotransformer
 autumn
@@ -4517,6 +4520,7 @@ bailies
 bailiffship
 bailiffships
 bailors
+bailouts
 bails
 bailsman
 bailsmen
@@ -4643,6 +4647,7 @@ bandies
 bandinesses
 banding
 banditry
+banditti
 bandogs
 bandoleer
 bandoleers
@@ -6703,6 +6708,7 @@ boated
 boater
 boathouses
 boatings
+boatlift
 boatnecks
 boatsmen
 boatyard
@@ -8522,6 +8528,7 @@ calendric
 calendrical
 calends
 calesas
+calescent
 calflike
 calfs
 calibrations
@@ -12047,6 +12054,7 @@ colour
 colourers
 colours
 colpitises
+colportage
 colportages
 colporteur
 colporteurs
@@ -13114,6 +13122,7 @@ converged
 convergences
 convergencies
 converges
+conversance
 conversances
 conversancies
 conversancy
@@ -15688,6 +15697,7 @@ deceptional
 deceptiveness
 decerned
 decertification
+decertified
 decertifies
 decertify
 dechlorinates
@@ -20425,6 +20435,7 @@ enchants
 enchase
 enchaser
 enchasing
+enchilada
 encina
 encipher
 encipherer
@@ -20556,6 +20567,7 @@ endosarc
 endoscopic
 endoscopically
 endoscopies
+endosmos
 endosmoses
 endosperms
 endostea
@@ -21142,6 +21154,7 @@ epistomes
 epistyles
 epitaphic
 epitases
+epitasis
 epitaxially
 epithelial
 epithelialize
@@ -21534,6 +21547,7 @@ etherizes
 etherizing
 ethically
 ethicalness
+ethicists
 ethicize
 ethinyls
 ethion
@@ -30942,6 +30956,7 @@ impawned
 impawns
 impeach
 impeachable
+impeacher
 impeachers
 impeaches
 impeaching
@@ -40174,6 +40189,7 @@ mossers
 mossiest
 mossinesses
 mossy
+mostly
 motet
 motets
 motherboard
@@ -44964,6 +44980,7 @@ overtures
 overturn
 overturns
 overurged
+overurges
 overuse
 overusing
 overutilizing
@@ -46315,6 +46332,7 @@ pedestal
 pedestaling
 pedestalled
 pedestalling
+pedestrianisms
 pedestrians
 pedicellate
 pedicle
@@ -47261,6 +47279,7 @@ phosphatization
 phosphatize
 phosphatizes
 phosphatizing
+phosphaturia
 phosphene
 phosphids
 phosphin
@@ -47435,6 +47454,7 @@ phyllite
 phyllitic
 phyllo
 phylloclades
+phyllodes
 phyllodium
 phylloids
 phyllome
@@ -47909,6 +47929,7 @@ pitchpole
 pitchpoles
 pitchpoling
 piteous
+piteously
 pithead
 pithecanthropi
 pithecoid
@@ -50293,6 +50314,7 @@ programme
 programmer
 programmers
 programming
+programmings
 programs
 progression
 progressive
@@ -52001,6 +52023,7 @@ rancidness
 rancored
 rancour
 randan
+randiness
 randinesses
 randomization
 randomizer
@@ -52131,6 +52154,7 @@ rationale
 rationales
 rationalists
 rationalities
+rationality
 rationalizable
 rationalizes
 rationalness
@@ -57989,6 +58013,7 @@ seventhly
 sevenths
 seventies
 seventieths
+severability
 severable
 several
 severally
@@ -59022,6 +59047,7 @@ singles
 singlestick
 singlet
 singletons
+singletrees
 sings
 singularities
 singularizes
@@ -63711,6 +63737,7 @@ swashbuckles
 swashed
 swathed
 swathers
+swathing
 swatter
 swatting
 swaybacks
@@ -64161,6 +64188,7 @@ tackily
 tacking
 tackle
 tackling
+tacklings
 tacks
 tacnode
 tacnodes
@@ -65672,6 +65700,7 @@ tiderip
 tiderips
 tides
 tideway
+tideways
 tidier
 tidiest
 tidily
@@ -67426,6 +67455,7 @@ tummies
 tumoral
 tumorigeneses
 tumorlike
+tumors
 tumping
 tumulose
 tumultuary
@@ -68813,6 +68843,7 @@ unify
 unilingual
 unillusioned
 unilobed
+unimaginable
 unimaginative
 unimpassioned
 unimportant
@@ -69477,6 +69508,7 @@ untreated
 untrimmed
 untrod
 untrodden
+untruest
 untrusses
 untrusting
 untrustworthy
@@ -69603,6 +69635,7 @@ update
 updater
 updates
 updating
+updived
 updives
 updraft
 upending
@@ -71792,6 +71825,7 @@ wheyfaced
 wheylike
 wheys
 whichsoever
+whickered
 whid
 whidah
 whidahs
@@ -72452,6 +72486,7 @@ wordsmithery
 wore
 work
 workableness
+workablenesses
 workaday
 workaholisms
 workbag
