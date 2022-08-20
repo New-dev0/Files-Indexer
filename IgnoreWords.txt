@@ -529,6 +529,7 @@ addicting
 adding
 additionally
 addle
+addlepated
 addles
 addling
 addressable
@@ -988,6 +989,7 @@ agger
 aggies
 aggiornamentos
 agglomerates
+agglomerating
 agglomerations
 agglutinability
 agglutinable
@@ -5951,6 +5953,7 @@ billie
 billies
 billings
 billingsgate
+billion
 billionaire
 billionaires
 billons
@@ -7997,6 +8000,7 @@ bunkoed
 bunkos
 bunkum
 bunkums
+bunn
 bunnies
 bunns
 bunrakus
@@ -8641,6 +8645,7 @@ campagna
 campaigned
 campaigner
 campaigners
+campanologies
 campanology
 camped
 campers
@@ -10853,6 +10858,7 @@ circumlunar
 circumnavigated
 circumnavigates
 circumscissile
+circumscribe
 circumscription
 circumspect
 circumspections
@@ -12252,6 +12258,7 @@ compellable
 compellations
 compelled
 compendiousness
+compendium
 compensated
 compensates
 compensating
@@ -13449,6 +13456,7 @@ corpus
 corpuscle
 corpuscles
 corpuscular
+corpuses
 corraded
 corrades
 corrading
@@ -15786,6 +15794,7 @@ decoyers
 decoying
 decreases
 decreasing
+decree
 decreers
 decrement
 decremental
@@ -16491,6 +16500,7 @@ deposable
 deposal
 deposed
 deposer
+deposers
 deposes
 depositaries
 depositary
@@ -17578,10 +17588,12 @@ disallowed
 disallowing
 disambiguated
 disambiguates
+disambiguating
 disambiguations
 disannulling
 disappearance
 disappearances
+disappeared
 disappearing
 disappears
 disappoint
@@ -20521,6 +20533,7 @@ endows
 endozoic
 endpapers
 endplates
+endplaying
 endrins
 ends
 enduing
@@ -22001,6 +22014,7 @@ exhorts
 exhumed
 exigencies
 exigently
+exiguity
 exiguous
 exiguousnesses
 exile
@@ -23316,6 +23330,7 @@ filed
 filefish
 filefishes
 filename
+filenames
 files
 filet
 filets
@@ -25144,6 +25159,7 @@ fullness
 fulminated
 fulminates
 fulminating
+fulmined
 fulmines
 fulminic
 fulness
@@ -26297,6 +26313,7 @@ glaceing
 glacial
 glacially
 glaciate
+glaciated
 glaciating
 glaciations
 glaciered
@@ -27377,6 +27394,7 @@ groundlings
 groundmass
 groundmasses
 groundsels
+groundsman
 groundswell
 groundswells
 groundwaters
@@ -29779,6 +29797,7 @@ hotly
 hotness
 hotnesses
 hotpress
+hotpresses
 hotrods
 hotshot
 hotspot
@@ -33576,6 +33595,7 @@ joggle
 joggles
 johannes
 johnboat
+johnboats
 johnnycake
 johnnycakes
 johns
@@ -39624,6 +39644,7 @@ mollycoddles
 mols
 moltenly
 molter
+molters
 molybdenite
 molybdenum
 mom
@@ -41528,6 +41549,7 @@ niobous
 nip
 nippers
 nippiness
+nippinesses
 nippingly
 nipple
 nippled
@@ -44792,6 +44814,7 @@ oversteering
 overstep
 overstimulate
 overstimulated
+overstimulates
 overstimulation
 overstirs
 overstocked
@@ -44820,6 +44843,7 @@ overtalk
 overtalkative
 overtalking
 overtame
+overtasked
 overtasking
 overtax
 overtaxations
@@ -45819,6 +45843,7 @@ parvenus
 parvis
 parvolin
 pas
+pascal
 paseo
 pash
 pasha
@@ -49316,6 +49341,7 @@ predictively
 predictor
 predicts
 predigest
+predigested
 predigesting
 predilections
 predischarge
@@ -49427,6 +49453,7 @@ preheats
 prehensilities
 prehensility
 prehistorian
+prehistorically
 prehistories
 preholiday
 preimplantation
@@ -56647,6 +56674,7 @@ scarred
 scars
 scarted
 scarting
+scarves
 scary
 scat
 scatback
@@ -58702,6 +58730,7 @@ signalises
 signalize
 signalized
 signalizing
+signaller
 signalling
 signalman
 signalmen
@@ -62024,6 +62053,7 @@ streaks
 streamers
 streamier
 streamiest
+streaming
 streamings
 streamlet
 streamlined
@@ -62978,6 +63008,7 @@ summarizations
 summarized
 summarizer
 summarizers
+summate
 summating
 summational
 summative
@@ -64176,6 +64207,7 @@ tamburas
 tame
 tameable
 tameless
+tameness
 tamenesses
 tamer
 tamers
@@ -68440,6 +68472,7 @@ uneasiest
 uneasy
 uneccentric
 uneconomical
+uneducable
 uneducated
 uneffaced
 unelected
@@ -70176,6 +70209,7 @@ venturousness
 venturousnesses
 venule
 venules
+venulous
 vera
 veracity
 verandahed
@@ -70382,6 +70416,7 @@ vicegeral
 vicegerencies
 vicenary
 vicennial
+viceregal
 viceroyalties
 viceroyalty
 viceroys
