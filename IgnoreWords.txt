@@ -2717,6 +2717,7 @@ anviled
 anvils
 anviltop
 anviltops
+anxiolytic
 anxious
 anxiousness
 anxiousnesses
@@ -5002,6 +5003,7 @@ batterie
 batteries
 battering
 battings
+battled
 battlefield
 battleground
 battlegrounds
@@ -9139,6 +9141,7 @@ carillonneur
 carillonneurs
 carillonning
 carillons
+carinated
 caring
 carioca
 cariogenic
@@ -11105,6 +11108,7 @@ claustra
 claustrophobe
 claustrophobias
 claustrum
+clavate
 claver
 clavered
 clavers
@@ -12219,6 +12223,7 @@ commune
 communed
 communer
 communers
+communicable
 communicant
 communicants
 communication
@@ -12857,6 +12862,7 @@ consociational
 consociations
 consolation
 consolations
+consoled
 consoler
 consolidated
 consolidates
@@ -13821,6 +13827,7 @@ countertrade
 countertrades
 countertrend
 countervailed
+countervailing
 countervails
 countian
 countians
@@ -16190,6 +16197,7 @@ delight
 delighted
 delightedly
 delightedness
+delightednesses
 delighter
 delightfully
 delights
@@ -19226,6 +19234,7 @@ dubbin
 dubbings
 dubiously
 dubiousness
+dubiousnesses
 dubitably
 dubitation
 dubnium
@@ -19399,6 +19408,7 @@ dustcover
 dusted
 dustheaps
 dustier
+dustily
 dustman
 dustoff
 dustpan
@@ -23281,6 +23291,7 @@ fibrefill
 fibril
 fibrilla
 fibrillar
+fibrillated
 fibrillations
 fibrin
 fibrinopeptides
@@ -25411,6 +25422,7 @@ fuzzes
 fuzziness
 fuzztones
 fylfot
+fylfots
 fytte
 gab
 gabardine
@@ -25699,6 +25711,7 @@ gardeners
 gardenia
 gardens
 garderobe
+garderobes
 garfish
 garganey
 gargantua
@@ -27284,6 +27297,7 @@ greenswards
 greenths
 greenwash
 greenwashes
+greenways
 greenwing
 greenwoods
 grees
@@ -27419,6 +27433,7 @@ groggy
 grogs
 grogshop
 groin
+grokked
 grommeting
 grommets
 groom
@@ -29532,6 +29547,7 @@ homier
 homiest
 homilies
 homily
+hominess
 hominians
 hominies
 hominoid
@@ -30503,6 +30519,7 @@ iatrogenic
 ibex
 ibices
 ibidem
+ibis
 iceberg
 icebergs
 iceblink
@@ -30540,6 +30557,7 @@ iconoclast
 iconoclastic
 iconographers
 iconographies
+iconography
 iconology
 iconoscopes
 icons
@@ -32772,6 +32790,7 @@ intravenous
 intravitam
 intreat
 intrenching
+intrepid
 intrepidity
 intrepidly
 intrepidness
@@ -39364,6 +39383,7 @@ misogamic
 misogamist
 misogamy
 misogynic
+misogynies
 misogynist
 misogyny
 misologies
@@ -42393,12 +42413,14 @@ normalizable
 normalizer
 normalizers
 normalizes
+normalizing
 normals
 normativeness
 normless
 normothermias
 normothermic
 northeastern
+northeasts
 norther
 northernmost
 northers
@@ -46614,6 +46636,7 @@ peptonizing
 peracids
 perambulate
 perambulation
+perambulators
 percale
 percales
 percaline
@@ -49153,6 +49176,7 @@ poundal
 pounding
 pour
 pourable
+pourboire
 pourboires
 poured
 pourer
@@ -55354,6 +55378,7 @@ riverbank
 riverbed
 riverbeds
 riverfronts
+riverhead
 riverheads
 riverlike
 rivers
@@ -58634,6 +58659,7 @@ showers
 showier
 showily
 showiness
+showpieces
 showplace
 showring
 showroom
@@ -59396,6 +59422,7 @@ slanty
 slapdashes
 slaphappier
 slaphappiest
+slapjacks
 slapper
 slapping
 slashed
@@ -59902,6 +59929,7 @@ snibbing
 snickerers
 snickering
 snickersnee
+snicks
 snidest
 sniffed
 sniffer
@@ -59997,6 +60025,7 @@ snowlands
 snowless
 snowmaker
 snowmakers
+snowmaking
 snowmen
 snowmobile
 snowmobilers
@@ -63886,6 +63915,7 @@ swotting
 swound
 swounds
 swouning
+swouns
 swum
 sybarite
 sybaritic
@@ -63937,6 +63967,7 @@ symbiote
 symbolise
 symbolised
 symbolist
+symbolization
 symbolized
 symbolizes
 symbolled
@@ -65028,6 +65059,7 @@ tergiversator
 teriyaki
 teriyakis
 term
+termer
 terminably
 terminal
 terminally
@@ -66129,6 +66161,7 @@ toolmakings
 toom
 toon
 toonie
+toons
 toot
 tooth
 toothache
@@ -66382,6 +66415,7 @@ toxemia
 toxemic
 toxic
 toxical
+toxically
 toxicants
 toxicologies
 toxicologist
@@ -67020,6 +67054,7 @@ trim
 trimer
 trimers
 trimeter
+trimethoprim
 trimethoprims
 trimetric
 trimetrogons
