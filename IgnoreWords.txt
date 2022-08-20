@@ -771,6 +771,7 @@ aequorin
 aeration
 aerations
 aerator
+aerenchymas
 aerie
 aeried
 aeriest
@@ -5265,6 +5266,7 @@ bedwetters
 beebread
 beech
 beechdrops
+beechier
 beechiest
 beechmast
 beechmasts
@@ -7309,6 +7311,7 @@ brainteaser
 brainteasers
 brainwash
 brainwasher
+brainwashers
 braise
 braised
 brakeless
@@ -7674,6 +7677,7 @@ bronzes
 bronzier
 bronzing
 bronzings
+brooch
 brooders
 broodily
 broodiness
@@ -10599,6 +10603,7 @@ chorea
 choreas
 choreatic
 choreic
+choreiform
 choremen
 choreographed
 choreographies
@@ -11403,6 +11408,7 @@ coadjutrices
 coadmire
 coadmires
 coadmiring
+coadmit
 coadmits
 coadmitted
 coadunate
@@ -15030,6 +15036,7 @@ cyborg
 cycadophytes
 cycas
 cycasin
+cyclamen
 cyclecar
 cyclecars
 cycled
@@ -18768,6 +18775,7 @@ dovening
 doves
 dovetail
 dovetailed
+dovetailing
 dovetails
 dovishness
 dow
@@ -19467,6 +19475,7 @@ dysphagia
 dysphagias
 dysphasic
 dysphemistic
+dysphonic
 dysplasias
 dysplastic
 dyspnea
@@ -21459,6 +21468,7 @@ esthesis
 esthete
 esthetic
 esthetician
+estimable
 estimably
 estimate
 estimating
@@ -24092,6 +24102,7 @@ fluking
 fluky
 fluming
 flummeries
+flummery
 flummoxes
 flumping
 flumps
@@ -26088,6 +26099,7 @@ gerahs
 geranial
 geranials
 geraniums
+gerardia
 gerbilles
 gerbils
 gerents
@@ -26821,6 +26833,7 @@ gonophore
 gonophores
 gonorrhea
 gonorrheal
+gonorrheas
 goober
 goobers
 good
@@ -32206,6 +32219,7 @@ inspire
 inspiring
 inspirit
 inspirited
+inspiriting
 inspiritingly
 inspissated
 inspissates
@@ -35361,6 +35375,7 @@ legalizers
 legally
 legals
 legatees
+legates
 legateship
 legateships
 legato
@@ -35611,6 +35626,7 @@ libeled
 libelees
 libelers
 libelists
+libellants
 libellee
 libelling
 libels
@@ -36134,6 +36150,7 @@ lobar
 lobate
 lobbed
 lobber
+lobbied
 lobby
 lobbyism
 lobbyists
@@ -37903,6 +37920,7 @@ meditating
 meditation
 meditative
 meditators
+mediumship
 medius
 medivac
 medivacked
@@ -38881,6 +38899,7 @@ mindfulnesses
 mindless
 minds
 mindset
+mindsets
 mine
 minelayers
 mineral
@@ -42874,6 +42893,7 @@ oceanariums
 oceanaut
 oceangoing
 oceanic
+oceanographic
 oceanographies
 oceanography
 oceanologists
@@ -44295,6 +44315,7 @@ outwears
 outwearying
 outweep
 outweeping
+outweeps
 outwhirl
 outwhirling
 outwhirls
@@ -44481,6 +44502,7 @@ overdecoration
 overdecorations
 overdemanding
 overdependence
+overdependent
 overdeveloped
 overdeveloping
 overdevelopment
@@ -45081,6 +45103,7 @@ ozocerite
 ozokerite
 ozonation
 ozonations
+ozones
 ozonide
 ozonides
 ozonise
@@ -45681,6 +45704,7 @@ paraquet
 paraquets
 pararosaniline
 pararosanilines
+parasail
 parasailing
 parasailings
 parasang
@@ -46429,6 +46453,7 @@ pendulum
 pendulums
 peneplain
 peneplane
+peneplanes
 penetrabilities
 penetrability
 penetrable
@@ -51831,6 +51856,7 @@ raffinose
 raffinoses
 raffishly
 raffled
+raffler
 rafflers
 raffles
 rafflesia
@@ -53884,6 +53910,7 @@ reopens
 reoperate
 reoperated
 reoperates
+reopposes
 reordered
 reorganization
 reorganizations
@@ -58441,6 +58468,7 @@ shlemiels
 shlepp
 shlepping
 shlimazels
+shlocks
 shlub
 shlump
 shlumped
@@ -59060,6 +59088,7 @@ sirvente
 sirventes
 sisals
 siskins
+sissiest
 sissyish
 sisterhoods
 sisters
@@ -65379,6 +65408,7 @@ thiophene
 thioridazine
 thiotepas
 thiouracil
+thiouracils
 thioureas
 thir
 thirams
@@ -68057,6 +68087,7 @@ unbonneted
 unbonnets
 unbosom
 unbottle
+unbottled
 unbottling
 unbowdlerized
 unbowed
@@ -71637,6 +71668,7 @@ wellies
 wellness
 wellsites
 welsh
+welshed
 welsher
 welshing
 weltanschauungs
@@ -72556,6 +72588,7 @@ wries
 wright
 wrights
 wring
+wringer
 wringing
 wrinkle
 wrinklier
@@ -72684,6 +72717,7 @@ yachtings
 yachts
 yachtsman
 yacked
+yaffed
 yaffing
 yags
 yahoo
@@ -72808,6 +72842,7 @@ yesternight
 yesteryears
 yestreens
 yeti
+yett
 yeuk
 yeuks
 yid
