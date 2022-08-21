@@ -589,6 +589,7 @@ adieu
 adieux
 adipose
 adiposity
+adipous
 adit
 adjacencies
 adjacent
@@ -10276,6 +10277,7 @@ checkpoints
 checkroom
 checkrooms
 checkrowing
+checkrows
 checks
 checksums
 checkup
@@ -12070,6 +12072,7 @@ colliery
 collieshangies
 collimates
 collimations
+collinearity
 collins
 collinsias
 collision
@@ -13208,6 +13211,7 @@ contritions
 contrivances
 contrive
 contrived
+contriver
 contrivers
 contrives
 controllability
@@ -14521,6 +14525,7 @@ crookneck
 croon
 crooners
 croons
+cropland
 cropped
 croppers
 croppie
@@ -16979,6 +16984,7 @@ desugars
 desulfurizing
 desultoriness
 detach
+detachabilities
 detachably
 detached
 detachedly
@@ -18463,6 +18469,7 @@ disused
 disuses
 disyllabic
 disyoked
+disyoking
 dit
 ditas
 ditchdigger
@@ -19385,6 +19392,7 @@ drypoints
 drysalters
 drystone
 drywall
+drywell
 drywells
 duad
 dualisms
@@ -19533,6 +19541,7 @@ dupe
 duper
 dupery
 duplexers
+duplexes
 duplications
 duplicative
 duplicator
@@ -19758,6 +19767,7 @@ earwitness
 earworms
 eased
 easeful
+easefully
 easements
 eases
 easier
@@ -20702,6 +20712,7 @@ ending
 endited
 endleaf
 endleafs
+endleaves
 endlessness
 endnote
 endobiotic
@@ -22097,6 +22108,7 @@ excerpts
 excess
 excessing
 exchangeable
+exchangers
 exchanging
 excide
 excided
@@ -24035,6 +24047,7 @@ flatuses
 flatwashes
 flatwise
 flatworms
+flaunt
 flaunted
 flauntiest
 flaunting
@@ -24547,6 +24560,7 @@ fontanel
 fontanelle
 fontanels
 fontina
+fontinas
 foodstuffs
 foofaraw
 foofaraws
@@ -27763,6 +27777,7 @@ gruel
 grueled
 grueler
 grueling
+gruelings
 grueller
 gruellers
 gruelling
@@ -29750,6 +29765,7 @@ homecoming
 homed
 homegrown
 homeland
+homelands
 homelessnesses
 homeliest
 homelike
@@ -34568,6 +34584,7 @@ kiddie
 kidding
 kiddo
 kiddoes
+kiddos
 kidlike
 kidnapee
 kidnapees
@@ -37164,6 +37181,7 @@ macaronies
 macaronis
 macaroon
 maccabaw
+macchia
 maccoboys
 mace
 maced
@@ -39528,6 +39546,7 @@ misconceivers
 misconceiving
 misconduct
 misconducts
+misconnecting
 misconnection
 misconnections
 misconnects
@@ -39681,6 +39700,7 @@ mislighting
 mislights
 mislike
 misliker
+mislikers
 mislived
 mislives
 mislocate
@@ -40890,6 +40910,7 @@ multiplications
 multiplicity
 multipliers
 multiplies
+multipole
 multipower
 multiproblem
 multiprocessors
@@ -42297,6 +42318,7 @@ nonconsumptions
 noncontact
 noncontract
 noncontributory
+noncontrolled
 nonconventional
 noncooperative
 noncooperators
@@ -43359,6 +43381,7 @@ ocularist
 oculars
 oculi
 oculomotor
+oda
 odahs
 oddball
 odder
@@ -44482,6 +44505,7 @@ outplace
 outplacement
 outplacements
 outplacing
+outplanning
 outplayed
 outplodding
 outplots
@@ -47096,7 +47120,9 @@ perennation
 perennations
 perennial
 perennials
+pereons
 peres
+perestroika
 perestroikas
 perfecta
 perfecters
@@ -49111,6 +49137,7 @@ polyphonous
 polyphyletic
 polypide
 polyploidies
+polyploids
 polyploidy
 polypores
 polypous
@@ -49445,6 +49472,7 @@ postimperial
 postin
 posting
 postinoculation
+postique
 postiques
 postisolation
 postlaunch
@@ -51777,6 +51805,7 @@ pyridic
 pyridoxal
 pyridoxamine
 pyridoxin
+pyridoxine
 pyridoxines
 pyriform
 pyrimidines
@@ -57064,6 +57093,7 @@ satisficed
 satisfices
 satisficing
 satisfier
+satisfiers
 satisfies
 satisfy
 satisfyingly
@@ -62469,6 +62499,7 @@ stipulations
 stipulator
 stipulatory
 stir
+stirk
 stirp
 stirrup
 stirs
@@ -65418,6 +65449,7 @@ temblors
 temerity
 temp
 temped
+tempeh
 tempehs
 temperament
 temperances
@@ -65972,6 +66004,7 @@ thickets
 thickhead
 thickish
 thicknesses
+thicks
 thicksets
 thieve
 thieved
@@ -70685,6 +70718,7 @@ vamp
 vamped
 vampiest
 vampire
+vampires
 vampirish
 vamps
 van
@@ -73088,6 +73122,7 @@ woodpiles
 woodruff
 woodshed
 woodshedding
+woodsheds
 woodsia
 woodsias
 woodsier
