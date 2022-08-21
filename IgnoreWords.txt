@@ -1768,6 +1768,7 @@ ameloblast
 amenability
 amenably
 amend
+amender
 amenorrhea
 amenorrheic
 amens
@@ -3394,6 +3395,7 @@ arroba
 arrogance
 arrogate
 arrogated
+arrogation
 arrogations
 arrogator
 arrowhead
@@ -6166,6 +6168,7 @@ biofouler
 biofoulers
 biofouling
 biofoulings
+biofuels
 biogases
 biogeneses
 biogenetic
@@ -10364,6 +10367,7 @@ checks
 checksums
 checkup
 checkups
+cheddars
 cheddite
 cheder
 cheechakos
@@ -10640,6 +10644,7 @@ chirpily
 chirps
 chirre
 chirred
+chirres
 chirring
 chirrs
 chirruped
@@ -10959,6 +10964,7 @@ chute
 chutes
 chutist
 chutists
+chutzpah
 chyles
 chylous
 chymist
@@ -14800,6 +14806,7 @@ crux
 cruzados
 cruzeiros
 crwth
+crybabies
 cryingly
 cryobiologies
 cryobiologist
@@ -14907,6 +14914,7 @@ cudweed
 cue
 cued
 cueing
+cues
 cuestas
 cuff
 cuffing
@@ -17623,6 +17631,7 @@ diglossias
 diglossic
 diglot
 diglots
+dignifying
 dignitaries
 dignitary
 dignities
@@ -18190,6 +18199,7 @@ disguisers
 disgust
 disgustful
 disgustingly
+disgusts
 dish
 dishabille
 disharmonies
@@ -21472,6 +21482,7 @@ episcopacy
 episcopally
 episcopate
 episcopates
+episiotomies
 episiotomy
 episodes
 epistemically
@@ -21706,6 +21717,7 @@ erythrismal
 erythrite
 erythroblast
 erythroblasts
+erythrocyte
 erythroid
 erythromycin
 erythromycins
@@ -33592,6 +33604,7 @@ irregularly
 irregulars
 irrelatively
 irrelevance
+irrelevances
 irrelevancies
 irrelevancy
 irrelevant
@@ -33689,6 +33702,7 @@ isocracies
 isocracy
 isodose
 isoelectric
+isoenzyme
 isoenzymes
 isoform
 isoforms
@@ -40203,6 +40217,7 @@ mobbishly
 mobcap
 mobcaps
 mobilises
+mobilities
 mobility
 mobilization
 mobocracies
@@ -42068,6 +42083,7 @@ neuropathically
 neurophysiology
 neuropterans
 neuroradiology
+neuroscience
 neuroscientist
 neuroscientists
 neurosecretions
@@ -44443,6 +44459,7 @@ ouabains
 oubliette
 oubliettes
 ouch
+oud
 ouds
 oughted
 oughting
@@ -44742,6 +44759,7 @@ outmastering
 outmasters
 outmatch
 outmatches
+outmode
 outmodes
 outmost
 outmoved
@@ -46521,6 +46539,7 @@ parfocality
 parfocalized
 parfocalizes
 parfocalizing
+parge
 parges
 pargeted
 pargets
@@ -47551,6 +47570,7 @@ permeability
 permeably
 permeance
 permeate
+permeates
 permeating
 permian
 permillages
@@ -51148,6 +51168,7 @@ proletarians
 proliferations
 prolific
 prolificacies
+prolificness
 proline
 prolines
 prolixities
@@ -52659,6 +52680,7 @@ radiolysis
 radiolytic
 radiomen
 radiometer
+radiometries
 radiometry
 radiomimetic
 radionuclides
@@ -54246,6 +54268,7 @@ regulus
 regurgitated
 regurgitating
 rehab
+rehabbed
 rehabilitant
 rehabilitants
 rehabilitates
@@ -54326,6 +54349,7 @@ reindictment
 reindictments
 reinduce
 reinduced
+reinduces
 reinducts
 reindustrialize
 reined
@@ -60487,6 +60511,7 @@ sloganize
 sloganizes
 slogger
 sloggers
+slogging
 slogs
 slojd
 sloop
@@ -62085,6 +62110,7 @@ sprayers
 sprays
 spreader
 sprees
+sprig
 sprigged
 sprigger
 spriggers
@@ -62753,6 +62779,7 @@ sternway
 steroid
 steroidal
 steroidogenic
+sterols
 stethoscope
 stetsons
 stevedored
@@ -63356,6 +63383,7 @@ studying
 stuff
 stuffinesses
 stuffing
+stuiver
 stuivers
 stulls
 stumbled
@@ -65324,6 +65352,7 @@ tamaraus
 tamarind
 tamarinds
 tamarisk
+tamarisks
 tambala
 tambalas
 tambour
@@ -65630,6 +65659,7 @@ teams
 teamster
 teamsters
 teamwork
+teapots
 tearaways
 teardrop
 teardrops
@@ -68406,6 +68436,7 @@ tsktsked
 tsooris
 tsores
 tsoris
+tsorriss
 tsouris
 tsunami
 tsunamic
@@ -69070,6 +69101,7 @@ unaligned
 unallayed
 unalleviated
 unallocated
+unallowed
 unalterable
 unambiguous
 unambitious
@@ -72670,10 +72702,12 @@ weakliness
 weaklinesses
 weaklings
 weakside
+weal
 wealds
 weals
 wealthier
 wealthy
+weanlings
 weaponed
 weaponized
 weaponizes
@@ -74193,6 +74227,7 @@ zedoary
 zein
 zek
 zeks
+zemindars
 zemindary
 zemstvo
 zemstvos
