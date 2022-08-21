@@ -231,6 +231,7 @@ accomplice
 accomplishment
 accomplishments
 accordance
+accordant
 accorded
 accorder
 accorders
@@ -1678,6 +1679,7 @@ amateurishness
 amateurism
 amateurisms
 amatively
+amativeness
 amativenesses
 amaurosis
 amaurotic
@@ -4354,6 +4356,7 @@ azotised
 azotises
 azotize
 azotizes
+azotobacters
 azoturia
 azukis
 azulejos
@@ -4552,6 +4555,7 @@ bagatelle
 bagful
 baggages
 bagged
+baggier
 baggies
 bagginess
 bagginesses
@@ -5302,6 +5306,7 @@ bedims
 bedirtied
 bedizenments
 bedizens
+bedlamite
 bedless
 bedmate
 bedmates
@@ -7763,6 +7768,7 @@ bromine
 brominisms
 bromizes
 bromouracil
+bronchi
 bronchia
 bronchial
 bronchiectases
@@ -8603,6 +8609,7 @@ calcicoles
 calciferol
 calcific
 calcifications
+calcified
 calcimining
 calcinations
 calcine
@@ -9865,6 +9872,7 @@ centrings
 centriole
 centrioles
 centripetal
+centripetally
 centrist
 centrists
 centroid
@@ -16831,6 +16839,7 @@ derivatization
 derivatizations
 derivatizing
 deriver
+derives
 derm
 derma
 dermas
@@ -20476,6 +20485,7 @@ embrues
 embruing
 embrute
 embruted
+embrutes
 embryogenesis
 embryological
 embryologies
@@ -22791,6 +22801,7 @@ facilitations
 facilitators
 facilities
 facing
+facsimile
 facsimiled
 facsimileing
 facsimiles
@@ -23685,6 +23696,7 @@ fillings
 filliping
 fillisters
 filmable
+filmdom
 filmdoms
 filmed
 filmically
@@ -26667,6 +26679,7 @@ giveback
 given
 givers
 gives
+giving
 gizmos
 gjetost
 glabellae
@@ -28574,6 +28587,7 @@ hardcores
 hardcourt
 hardener
 hardeners
+hardfisted
 hardhack
 hardhacks
 hardhat
@@ -28985,6 +28999,7 @@ hectors
 heddles
 heder
 hedgehogs
+hedgehopper
 hedgehopping
 hedgehops
 hedgepig
@@ -29445,6 +29460,7 @@ hexose
 hexoses
 hexyl
 hexylresorcinol
+hexyls
 hey
 heyday
 heydey
@@ -34249,6 +34265,7 @@ jupes
 jupons
 jurels
 juridic
+juridically
 jurisconsult
 jurisconsults
 jurisprudences
@@ -45102,6 +45119,7 @@ overexposing
 overextend
 overextending
 overextends
+overextension
 overextensions
 overextraction
 overextractions
@@ -47288,6 +47306,7 @@ periodically
 periodicities
 periodid
 periodizations
+periodontally
 periodontists
 periodontology
 perionychia
@@ -47870,6 +47889,7 @@ photoelectron
 photoelectrons
 photoengraves
 photoengraving
+photoexcited
 photofinisher
 photofinishers
 photofinishing
@@ -48909,6 +48929,7 @@ plyingly
 pneumas
 pneumatic
 pneumaticities
+pneumatology
 pneumatolytic
 pneumatophore
 pneumococcal
@@ -52132,6 +52153,7 @@ qubit
 qubyte
 qubytes
 queasinesses
+quebrachos
 queen
 queendom
 queendoms
@@ -52984,6 +53006,7 @@ rearmice
 rearming
 rearmost
 rearmouse
+rearms
 rearouse
 rearrangements
 rearrested
@@ -54615,6 +54638,7 @@ reperked
 reperking
 reperks
 repertories
+repetend
 repetends
 repetitions
 repetitious
@@ -55699,6 +55723,7 @@ rhombus
 rhonchi
 rhonchus
 rhotic
+rhubarb
 rhumb
 rhumbaing
 rhumbas
@@ -60975,6 +61000,7 @@ somewhither
 somital
 sommeliers
 somnambulates
+somnambulation
 somnambulations
 somnambulist
 somnambulists
@@ -62557,6 +62583,7 @@ stilbite
 stiletto
 stilettoes
 stillbirth
+stillbirths
 stillborn
 stillborns
 stiller
@@ -63169,6 +63196,7 @@ suave
 suavely
 suaver
 suavities
+subacidnesses
 subacrid
 subadolescents
 subadults
@@ -64584,6 +64612,7 @@ swoopier
 swoopiest
 swoops
 swoopy
+swoosh
 swooshing
 swopping
 swordfishes
@@ -67736,6 +67765,7 @@ trigeminal
 trigeminals
 triggered
 triggerfishes
+triggerman
 triggermen
 trigly
 triglycerides
@@ -68100,6 +68130,7 @@ tryptamines
 trysted
 tryster
 trysters
+trysts
 tsaddik
 tsaddikim
 tsade
@@ -68332,6 +68363,7 @@ turnons
 turnouts
 turnovers
 turnpikes
+turns
 turnsoles
 turnspits
 turnstiles
@@ -70582,6 +70614,7 @@ uraninite
 uraninites
 uranite
 uranologies
+uranology
 uranylic
 uranyls
 urase
@@ -71831,6 +71864,7 @@ voodoo
 voodooed
 voodooism
 voodooisms
+voraciously
 voraciousness
 voracity
 vorlages
@@ -73534,6 +73568,7 @@ xerophthalmic
 xerophytes
 xerophytic
 xerophytisms
+xerosere
 xeroseres
 xeroses
 xerox
