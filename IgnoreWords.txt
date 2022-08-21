@@ -1003,6 +1003,7 @@ agenizing
 agent
 agential
 agentings
+agentival
 agentives
 agentries
 ageratums
@@ -2659,6 +2660,7 @@ antiquark
 antiquarks
 antiquary
 antiquated
+antiquates
 antiquations
 antique
 antiquely
@@ -4691,6 +4693,7 @@ balm
 balmier
 balminess
 balminesses
+balmlike
 baloney
 baloneys
 bals
@@ -8782,6 +8785,7 @@ camas
 camases
 camass
 camber
+cambered
 cambia
 cambist
 cambium
@@ -10050,6 +10054,7 @@ chaises
 chakras
 chalah
 chalazae
+chalazas
 chalazions
 chalcedonies
 chalcedony
@@ -13331,6 +13336,7 @@ conventuals
 converged
 convergences
 convergencies
+convergent
 converges
 conversance
 conversances
@@ -16534,6 +16540,7 @@ demic
 demigoddess
 demijohn
 demilitarize
+demilitarizes
 demilunes
 demimondes
 demineralizing
@@ -17043,6 +17050,7 @@ despondency
 despondent
 despondently
 despumate
+desquamated
 desquamation
 desserts
 dessertspoon
@@ -18219,6 +18227,7 @@ disinherit
 disinherited
 disinheriting
 disinhibit
+disinhibited
 disinhibiting
 disintegrate
 disintegrating
@@ -19693,6 +19702,7 @@ dutchmen
 dutiable
 dutifully
 dutifulness
+duty
 duumvir
 duumvirates
 duumviri
@@ -21013,6 +21023,7 @@ enlargements
 enlarger
 enlarges
 enlighten
+enlightened
 enlightenment
 enlightenments
 enlightens
@@ -26344,6 +26355,7 @@ genderized
 genderizes
 genders
 genealogically
+genealogists
 generalcy
 generalised
 generalises
@@ -29594,6 +29606,7 @@ high
 highball
 highballing
 highballs
+highbrowisms
 highbrows
 highchair
 highchairs
@@ -34038,6 +34051,7 @@ jet
 jetbead
 jetlags
 jetlike
+jeton
 jetport
 jetports
 jets
@@ -35906,6 +35920,7 @@ legendries
 legends
 legerdemain
 legerities
+legerity
 legers
 leges
 legginess
@@ -40919,6 +40934,7 @@ mridangams
 muchachos
 muchly
 mucho
+mucilage
 mucilaginous
 mucilaginously
 mucin
@@ -43726,6 +43742,7 @@ olds
 oldsquaws
 oldster
 oldsters
+oldstyles
 oldwife
 oldwives
 oldy
@@ -47496,6 +47513,7 @@ permissibleness
 permission
 permitter
 permitting
+perms
 permutational
 permuted
 permuting
@@ -49307,6 +49325,7 @@ polyembryonies
 polyembryony
 polyene
 polyenic
+polyester
 polygamies
 polygamized
 polygamizes
@@ -51667,6 +51686,7 @@ puddlings
 puddly
 pudenda
 pudendal
+pudgier
 pudgiest
 pudgily
 pudginess
@@ -52254,6 +52274,7 @@ quarto
 quarts
 quartz
 quartzes
+quartzous
 quasars
 quash
 quasicrystal
@@ -53652,6 +53673,7 @@ redeployments
 redeposit
 redeposited
 redepositing
+redescend
 redescending
 redescribed
 redesign
@@ -54787,6 +54809,7 @@ replace
 replaceable
 replacing
 replanned
+replanted
 replants
 replasters
 replated
@@ -57902,6 +57925,7 @@ scrapbooks
 scrape
 scraped
 scraper
+scrapers
 scrapes
 scrapheap
 scrapheaps
@@ -57951,6 +57975,7 @@ screwdriver
 screwiest
 screwinesses
 screwlike
+screwup
 screwups
 screwworm
 screwworms
@@ -58126,6 +58151,7 @@ searches
 searchingly
 searest
 searobins
+seas
 seascouts
 seasickness
 seasides
@@ -59545,6 +59571,7 @@ shutterless
 shutters
 shuttle
 shuttlecock
+shuttlecocked
 shuttlecocking
 shuttled
 shuttleless
@@ -60578,6 +60605,7 @@ smidgin
 smiercases
 smilaxes
 smile
+smiler
 smilers
 smiles
 smileys
@@ -61161,6 +61189,7 @@ sonance
 sonances
 sonantal
 sonants
+sonars
 sonde
 sondes
 sone
@@ -65466,6 +65495,7 @@ taus
 taut
 tautaug
 tauted
+tautened
 tauter
 tautest
 tauting
@@ -68389,6 +68419,7 @@ tule
 tules
 tulips
 tulipwoods
+tullibee
 tullibees
 tumblebugs
 tumbled
@@ -70222,6 +70253,7 @@ unrevolutionary
 unrewarding
 unrhetorical
 unriddle
+unriddlers
 unriddling
 unrighteously
 unrip
@@ -71985,6 +72017,7 @@ volkslieder
 volleyballs
 volleyed
 volleys
+volosts
 volplane
 volplanes
 voltage
@@ -72591,6 +72624,7 @@ weatherability
 weatherboarded
 weatherboards
 weathercast
+weathered
 weatherglass
 weatherglasses
 weatherize
@@ -73979,6 +74013,7 @@ youngberries
 youngest
 youngish
 youngling
+youngnesses
 youngster
 youngsters
 younker
