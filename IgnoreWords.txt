@@ -524,6 +524,7 @@ adapt
 adaptable
 adaptation
 adaptations
+adapted
 adapter
 adapters
 adaptivity
@@ -4828,6 +4829,7 @@ baristas
 barites
 baritone
 barium
+barked
 barkeep
 barkentine
 barkers
@@ -4860,6 +4862,7 @@ baroreceptor
 barosaurs
 baroscopes
 barquentine
+barquentines
 barracker
 barracking
 barracks
@@ -6129,6 +6132,7 @@ biomathematics
 biome
 biomes
 biometers
+biometrician
 biometricians
 biometrics
 biomolecules
@@ -7011,6 +7015,7 @@ bookbinderies
 bookcase
 bookends
 bookful
+bookies
 bookish
 bookishness
 bookkeepers
@@ -9594,6 +9599,7 @@ cauliflowerets
 cauliflowers
 cauline
 caulis
+caulk
 caulked
 caulker
 cauls
@@ -10283,6 +10289,7 @@ cheerlessness
 cheeros
 cheese
 cheeseburgers
+cheesecake
 cheesecloth
 cheesecloths
 cheeseparing
@@ -10472,6 +10479,7 @@ chimpanzees
 chinaberries
 chinas
 chinbone
+chincapin
 chincapins
 chinchier
 chinchiest
@@ -13791,6 +13799,7 @@ couldst
 coulibiac
 coulibiacs
 coulis
+couloir
 coulometer
 coulometers
 coulometrically
@@ -14297,6 +14306,7 @@ cremate
 cremates
 cremation
 cremator
+crematoriums
 cremators
 crematory
 creme
@@ -17343,6 +17353,7 @@ dictating
 dictator
 dictators
 dictatorships
+dictional
 dictionally
 dictionaries
 dictum
@@ -24036,6 +24047,7 @@ fledged
 fledges
 fledgier
 fledgiest
+fledging
 fledglings
 fledgy
 fleeced
@@ -24325,6 +24337,7 @@ fluorouracil
 fluorouracils
 fluorspars
 fluphenazine
+fluphenazines
 flurries
 flurry
 flushable
@@ -24452,6 +24465,7 @@ foliar
 foliate
 foliating
 foliations
+folio
 folioing
 folkie
 folkishness
@@ -24623,6 +24637,7 @@ forecaddies
 forecasters
 forechecked
 forechecks
+foreclose
 forecloses
 foreclosure
 foreclosures
@@ -24732,6 +24747,7 @@ forewomen
 foreword
 foreworn
 foreyards
+forfeit
 forfeited
 forfeiting
 forfended
@@ -26081,6 +26097,7 @@ geisha
 gel
 gelandesprung
 gelant
+gelants
 gelati
 gelatines
 gelatinization
@@ -27436,6 +27453,7 @@ greenbelts
 greenbrier
 greenbriers
 greenbug
+greeneries
 greenery
 greenest
 greenfield
@@ -28782,6 +28800,7 @@ heartens
 heartfelt
 heartfree
 hearths
+hearties
 heartiest
 heartinesses
 heartlessly
@@ -31665,6 +31684,7 @@ incorporable
 incorporated
 incorporation
 incorporations
+incorporeity
 incorpse
 incorpses
 incorrect
@@ -31718,6 +31738,7 @@ incunables
 incunabula
 incur
 incurables
+incurably
 incuriosity
 incurious
 incurrence
@@ -33182,6 +33203,7 @@ invulnerability
 invulnerably
 inwall
 inwalled
+inwardly
 inwardness
 inwardnesses
 inwards
@@ -33450,6 +33472,7 @@ isophotal
 isophotes
 isopleth
 isoplethic
+isopods
 isoprene
 isoprenes
 isoprenoid
@@ -33474,6 +33497,7 @@ isotonicities
 isotope
 isotopic
 isotopically
+isotopies
 isotropies
 isotropy
 isotypic
@@ -33496,6 +33520,7 @@ italic
 italicised
 italicizes
 itch
+itchiest
 itching
 itchings
 item
@@ -37643,6 +37668,7 @@ manzanita
 manzanitas
 maplelike
 maplike
+mapmaker
 mappers
 maps
 mara
@@ -39682,6 +39708,7 @@ misquotes
 misrated
 misrating
 misreads
+misreckoned
 misreckons
 misrecord
 misrecorded
@@ -41923,6 +41950,7 @@ ninebarks
 ninefold
 nines
 ninety
+ninhydrin
 ninnies
 ninny
 ninon
@@ -43199,6 +43227,7 @@ occultisms
 occultists
 occupant
 occupants
+occupation
 occupational
 occupier
 occupiers
@@ -49232,6 +49261,7 @@ portioners
 portionless
 portions
 portless
+portlier
 portliest
 portmanteaux
 portraitures
@@ -51297,6 +51327,7 @@ puckerier
 puckeriest
 puckish
 puckishness
+pud
 puddlers
 puddlier
 puddlings
@@ -64164,6 +64195,7 @@ swappers
 swarajism
 swarajists
 sware
+swarf
 swarmed
 swarmer
 swarming
@@ -65507,6 +65539,7 @@ ternion
 ternions
 terns
 terpeneless
+terpineols
 terpinols
 terpsichorean
 terra
@@ -69508,6 +69541,7 @@ unmanlier
 unmanliest
 unmanliness
 unmanly
+unmannish
 unmans
 unmarrieds
 unmasculine
@@ -73431,6 +73465,7 @@ yodeller
 yodellers
 yodelling
 yodle
+yodler
 yodlers
 yodles
 yoga
