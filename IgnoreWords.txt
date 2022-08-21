@@ -3052,6 +3052,7 @@ appurtenant
 apraxias
 apricot
 apricots
+apriority
 aproning
 apropos
 apses
@@ -5668,6 +5669,7 @@ benthons
 bento
 bentonites
 bentonitic
+bentwood
 benumbed
 benumbing
 benumbs
@@ -6169,6 +6171,7 @@ biographically
 biohazard
 biohazards
 bioherm
+biologically
 biologist
 biolytic
 biomarkers
@@ -6744,6 +6747,7 @@ bluetongues
 blueweeds
 bluewood
 bluff
+bluffed
 bluffers
 bluffing
 bluffness
@@ -8112,6 +8116,7 @@ bumkin
 bummalo
 bumper
 bumpering
+bumpers
 bumpinesses
 bumpkinly
 bumpkins
@@ -10299,6 +10304,7 @@ chawbacon
 chawbacons
 chawer
 chawing
+chay
 chays
 chazan
 chazzan
@@ -14760,6 +14766,7 @@ crushable
 crushers
 crushing
 crustacea
+crustacean
 crustaceans
 crustaceous
 crustily
@@ -17412,6 +17419,7 @@ diazinons
 diazins
 diazo
 diazole
+diazonium
 diazoniums
 diazotizations
 diazotized
@@ -18542,6 +18550,7 @@ disulfids
 disulfoton
 disunions
 disuniter
+disunities
 disuniting
 disunity
 disuse
@@ -21079,6 +21088,7 @@ enshrines
 enshroud
 ensiform
 ensign
+ensigncy
 ensigns
 ensiled
 ensiles
@@ -21708,6 +21718,7 @@ escolars
 escot
 escritoire
 escrow
+escrows
 escudo
 esculent
 escutcheon
@@ -22740,6 +22751,7 @@ exuberances
 exuberated
 exuberates
 exudate
+exudates
 exudations
 exudative
 exude
@@ -24400,6 +24412,7 @@ flowerful
 floweriest
 flowerily
 flowering
+flowerless
 flowerpot
 flowing
 flowingly
@@ -25985,6 +25998,7 @@ gangers
 gangland
 ganglial
 gangliar
+gangliate
 ganglier
 gangliest
 ganglionic
@@ -27155,6 +27169,7 @@ goitrogenic
 goitrogenicity
 goitrogens
 golconda
+goldbricked
 goldbricking
 golden
 goldenest
@@ -27548,6 +27563,7 @@ gravelled
 gravelling
 gravelly
 gravels
+graven
 gravenesses
 graver
 gravesides
@@ -28634,6 +28650,7 @@ hardboots
 hardcase
 hardcores
 hardcourt
+harden
 hardener
 hardeners
 hardfisted
@@ -29242,6 +29259,7 @@ hemolyzing
 hemophiliac
 hemophiliacs
 hemopoieses
+hemorrhages
 hemorrhaging
 hemorrhoid
 hemorrhoidal
@@ -29592,6 +29610,7 @@ hijrah
 hike
 hilariousnesses
 hilarity
+hilding
 hillbillies
 hillbilly
 hilled
@@ -35986,6 +36005,7 @@ lepidotes
 leporid
 leprechaun
 leprechauns
+leprously
 leptins
 leptonic
 leptophos
@@ -39254,6 +39274,7 @@ mignons
 migraines
 migrant
 migrate
+migrational
 migrations
 migs
 mihrabs
@@ -39581,6 +39602,7 @@ misallotting
 misalters
 misanalysis
 misanthrope
+misanthropic
 misanthropies
 misanthropy
 misapplication
@@ -40765,6 +40787,7 @@ motorcar
 motorcycles
 motorcycling
 motorcyclist
+motordoms
 motored
 motorically
 motorising
@@ -42744,6 +42767,7 @@ nonparticipant
 nonparticipants
 nonparties
 nonpartisanship
+nonparty
 nonpasserine
 nonpasts
 nonpayment
@@ -43597,6 +43621,7 @@ offensives
 offered
 offering
 offerings
+offeror
 offerors
 offertory
 offhand
@@ -46419,6 +46444,7 @@ parges
 pargeted
 pargets
 pargetted
+pargings
 pargylines
 pariahs
 parians
@@ -48411,6 +48437,7 @@ pinkening
 pinkings
 pinkishness
 pinkishnesses
+pinknesses
 pinko
 pinkoes
 pinkroot
@@ -56442,6 +56469,7 @@ roundtrips
 roundup
 roundups
 roundwood
+roundworms
 rouped
 roupet
 roupier
@@ -56572,6 +56600,7 @@ ruffian
 ruffianism
 ruffianisms
 ruffianly
+ruffians
 ruffle
 ruffled
 rufflers
@@ -58458,7 +58487,9 @@ semises
 semiskilled
 semisolids
 semitonal
+semitonic
 semitonically
+semitrailers
 semitropic
 semitruck
 semitrucks
@@ -59204,6 +59235,7 @@ shiny
 shipboard
 shipboards
 shipless
+shiploads
 shipman
 shipmaster
 shipmasters
@@ -62607,6 +62639,7 @@ sternward
 sternway
 steroid
 steroidal
+steroidogenic
 stethoscope
 stetsons
 stevedored
@@ -65923,6 +65956,7 @@ terrases
 terrazzo
 terreen
 terrella
+terrenely
 terrenes
 terrepleins
 terrestrials
@@ -68761,6 +68795,7 @@ ultimatenesses
 ultimates
 ultimogeniture
 ultimogenitures
+ultracareful
 ultracautious
 ultraclean
 ultracompetent
