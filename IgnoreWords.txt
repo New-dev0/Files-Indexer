@@ -1365,6 +1365,7 @@ alimented
 alimony
 aline
 alinement
+aliners
 alines
 aliphatic
 aliquant
@@ -4827,6 +4828,7 @@ barhop
 barhopped
 barhops
 baric
+baring
 baristas
 barites
 baritone
@@ -4971,6 +4973,7 @@ basseting
 bassetting
 bassetts
 bassi
+bassly
 bassnesses
 bassoon
 bassos
@@ -6490,6 +6493,7 @@ blazered
 blazes
 blazon
 blazoned
+blazoners
 blazons
 bleacher
 bleacherites
@@ -8599,6 +8603,7 @@ calenders
 calendric
 calendrical
 calends
+calendula
 calesas
 calescent
 calflike
@@ -11288,6 +11293,7 @@ cleverish
 clew
 clewed
 cliche
+clicker
 clicks
 clickwrap
 clientages
@@ -14487,6 +14493,7 @@ crockets
 crocking
 crockpot
 crocodiles
+crocodilians
 crocoite
 crocus
 croft
@@ -14697,6 +14704,7 @@ cryoscopes
 cryoscopy
 cryostats
 cryosurgery
+cryosurgical
 cryotherapies
 cryotherapy
 cryotron
@@ -14965,6 +14973,7 @@ curetting
 curfew
 curfews
 curfs
+curios
 curiosa
 curious
 curiousness
@@ -17251,6 +17260,7 @@ diamin
 diamins
 diamond
 diamondbacks
+diamonded
 diamondiferous
 diandrous
 dianthus
@@ -18173,6 +18183,7 @@ disown
 disowned
 disownment
 disownments
+disparaged
 disparagements
 disparaging
 disparately
@@ -23001,6 +23012,7 @@ fascias
 fasciations
 fascicle
 fascicled
+fascicles
 fasciculations
 fascicules
 fasciculus
@@ -24076,6 +24088,7 @@ fleetingness
 fleetnesses
 flehmens
 fleishig
+flemished
 flemishes
 flemishing
 flench
@@ -25437,6 +25450,7 @@ fumers
 fumets
 fumette
 fumier
+fumigant
 fumigate
 fumigated
 fumigates
@@ -26573,6 +26587,7 @@ gitting
 give
 giveaway
 giveback
+given
 givers
 gives
 gizmos
@@ -27783,6 +27798,7 @@ gryphon
 guacamoles
 guaiacols
 guaiacs
+guaiocums
 guan
 guanabanas
 guanacos
@@ -28793,6 +28809,7 @@ healers
 heals
 health
 healthier
+healthiest
 healthiness
 heaper
 heaps
@@ -29455,6 +29472,7 @@ himself
 hindbrains
 hinder
 hindering
+hindguts
 hindmost
 hindrance
 hindrances
@@ -29874,6 +29892,7 @@ honkies
 honorableness
 honorably
 honorand
+honorarium
 honorary
 honored
 honoree
@@ -35819,6 +35838,7 @@ letching
 letdowns
 lethalities
 lethally
+lethals
 lethargy
 lethe
 letted
@@ -41828,6 +41848,7 @@ newsman
 newsmen
 newsmongers
 newspaper
+newspapering
 newspaperman
 newspapers
 newspeak
@@ -45306,6 +45327,7 @@ oversupplied
 oversupplies
 oversupply
 oversups
+oversweeten
 oversweetens
 overswing
 overtakes
@@ -47739,6 +47761,7 @@ photographic
 photographs
 photoinduction
 photoinductions
+photoionization
 photoionizing
 photojournalism
 photojournalist
@@ -51776,6 +51799,7 @@ pyrotechnical
 pyrotechnics
 pyroxene
 pyroxenes
+pyroxenites
 pyroxenitic
 pyroxenoid
 pyrrhic
@@ -54527,6 +54551,7 @@ repositories
 repository
 repossession
 repossessors
+repots
 repotted
 repotting
 repour
@@ -58315,6 +58340,7 @@ sequencies
 sequencing
 sequency
 sequential
+sequentially
 sequester
 sequestered
 sequesters
@@ -58937,6 +58963,7 @@ shirtdress
 shirtdresses
 shirting
 shirtmaker
+shirtmakers
 shirttailed
 shirty
 shists
@@ -59267,6 +59294,7 @@ sides
 sideshows
 sideslipping
 sideslips
+sidespin
 sidesplittingly
 sidestepped
 sidestepping
@@ -59753,6 +59781,7 @@ skippering
 skippets
 skirmisher
 skirmishers
+skirr
 skirred
 skirrs
 skirted
@@ -60544,6 +60573,7 @@ soberest
 sobering
 soberness
 sobernesses
+sobersided
 sobersidedness
 sobrieties
 sobriquets
@@ -61605,6 +61635,7 @@ spotless
 spotlessly
 spotlighting
 spotlights
+spottily
 spottiness
 spoused
 spousing
@@ -61794,6 +61825,7 @@ squidded
 squidding
 squiggles
 squiggling
+squilgeeing
 squillae
 squinching
 squinnied
@@ -66206,6 +66238,7 @@ ticklishnesses
 ticktacktoe
 ticktocked
 tictac
+tictacked
 tictacking
 tictacs
 tidally
@@ -68150,6 +68183,7 @@ tussling
 tussocks
 tussor
 tussucks
+tussur
 tutelages
 tutelars
 tutor
@@ -68386,6 +68420,7 @@ ukases
 uke
 ukeleles
 ulama
+ulamas
 ulcer
 ulcerate
 ulceration
