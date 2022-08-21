@@ -658,6 +658,7 @@ admits
 admittance
 admittedly
 admitter
+admitters
 admitting
 admix
 admixes
@@ -1660,6 +1661,7 @@ amah
 amain
 amalgam
 amalgamate
+amalgamations
 amalgamators
 amalgams
 amanitin
@@ -3819,6 +3821,7 @@ athelings
 athenaeum
 atherogenic
 atheroma
+atheromas
 atheromatous
 atheroscleroses
 atherosclerotic
@@ -8806,6 +8809,7 @@ campgrounds
 camphenes
 camphines
 camphire
+camphires
 camphol
 campiest
 campily
@@ -10033,6 +10037,7 @@ chalcedony
 chalcocite
 chalcogenides
 chalcogens
+chaldrons
 chaleh
 chalet
 chalice
@@ -11607,6 +11612,7 @@ coalyard
 coaming
 coamings
 coanchor
+coanchored
 coannexed
 coannexing
 coappear
@@ -12515,6 +12521,7 @@ complimentary
 complimented
 complimenting
 complin
+complines
 complying
 compo
 comport
@@ -15704,6 +15711,7 @@ dazednesses
 dazzler
 de
 deacidification
+deaconed
 deaconess
 deaconing
 deacons
@@ -21442,6 +21450,7 @@ epizoites
 epizootics
 epizooties
 epizootiologic
+epochs
 epodes
 eponyms
 epopees
@@ -24145,6 +24154,7 @@ flavorful
 flavorfully
 flavorings
 flavorous
+flavour
 flavoured
 flavoury
 flaw
@@ -24734,6 +24744,7 @@ forbearers
 forbearing
 forbears
 forbids
+forbode
 forboded
 forby
 forbye
@@ -26969,6 +26980,7 @@ glues
 glueynesses
 glug
 glugged
+gluhwein
 glum
 glumness
 glumpier
@@ -27238,6 +27250,7 @@ gorgerin
 gorgers
 gorgeted
 gorgonizes
+gorgons
 goriest
 gorillas
 gorinesses
@@ -27932,6 +27945,7 @@ guarders
 guardhouse
 guardhouses
 guardians
+guardianship
 guardrails
 guardroom
 guardrooms
@@ -28322,6 +28336,7 @@ hairdressings
 hairinesses
 hairlessnesses
 hairlike
+hairlines
 hairlock
 hairlocks
 hairpiece
@@ -29559,6 +29574,7 @@ hijack
 hijacking
 hijra
 hijrah
+hike
 hilariousnesses
 hilarity
 hillbillies
@@ -31178,6 +31194,7 @@ imbruting
 imbue
 imbued
 imbuement
+imid
 imidazoles
 imide
 imids
@@ -36270,6 +36287,7 @@ limberest
 limbi
 limbic
 limbier
+limbing
 limbos
 limbus
 limbuses
@@ -36407,10 +36425,12 @@ lions
 lip
 lipa
 lipectomy
+lipid
 lipides
 lipids
 lipin
 lipins
+lipocyte
 lipogeneses
 lipoid
 lipolyses
@@ -45325,6 +45345,7 @@ overpacked
 overpass
 overpassed
 overpay
+overpayments
 overpedal
 overpedalling
 overpeoples
@@ -48791,6 +48812,7 @@ please
 pleaser
 pleasingly
 pleasingness
+pleasurable
 pleasurableness
 pleasurably
 pleasureless
@@ -51149,6 +51171,7 @@ prorated
 prorates
 proreform
 prorogated
+prorogates
 prorogations
 prosaic
 prosaism
@@ -51856,6 +51879,7 @@ pushers
 pushes
 pushiness
 pushinesses
+pushover
 pushy
 pusillanimity
 pusillanimous
@@ -52375,6 +52399,7 @@ rabblement
 rabbles
 rabboni
 rabbonis
+rabic
 rabid
 rabidity
 rabidly
@@ -55155,6 +55180,7 @@ responding
 responds
 responsa
 response
+responsible
 responsions
 responsive
 responsiveness
@@ -57400,6 +57426,7 @@ scaleni
 scalepan
 scaler
 scales
+scaleups
 scalier
 scaling
 scallop
@@ -57810,6 +57837,7 @@ scrapples
 scraps
 scratchboard
 scratchboards
+scratcher
 scratchers
 scratches
 scratchiness
@@ -59284,6 +59312,7 @@ short
 shortage
 shorted
 shorten
+shortenings
 shorter
 shortfalls
 shorthairs
@@ -61940,6 +61969,7 @@ sprynesses
 spud
 spudding
 spumes
+spumiest
 spumoni
 spumy
 spunk
@@ -63306,6 +63336,7 @@ subcounties
 subcrustal
 subcults
 subcultural
+subculture
 subcultured
 subculturing
 subcutis
@@ -65312,6 +65343,7 @@ tasteful
 tastefulness
 tastefulnesses
 tastelessness
+tastes
 tastiest
 tastily
 tatami
@@ -68418,6 +68450,7 @@ turtlenecks
 turtler
 turtles
 tushed
+tushery
 tusker
 tuskers
 tusking
@@ -69046,6 +69079,7 @@ uncinarias
 uncinate
 uncinematic
 uncirculated
+uncircumcised
 uncivil
 uncivilized
 unclaimed
@@ -73515,6 +73549,7 @@ wrights
 wring
 wringer
 wringing
+wrings
 wrinkle
 wrinklier
 wristband
