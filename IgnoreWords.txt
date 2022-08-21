@@ -419,6 +419,7 @@ acridine
 acridines
 acridities
 acridity
+acridness
 acridnesses
 acriflavine
 acrimonies
@@ -1242,6 +1243,7 @@ alar
 alarm
 alarmable
 alarmed
+alarmedly
 alarmisms
 alarmist
 alarms
@@ -2521,6 +2523,7 @@ antiepilepsy
 antiepileptic
 antiepileptics
 antifamily
+antifascism
 antifascisms
 antifascist
 antifashionable
@@ -3459,6 +3462,7 @@ artlessly
 artlessness
 arts
 artwork
+arugola
 arugolas
 arugula
 aruspex
@@ -4056,6 +4060,7 @@ auspiciousness
 austereness
 austerest
 austerity
+australs
 autacoid
 autacoids
 autarch
@@ -8636,6 +8641,7 @@ calcified
 calcimining
 calcinations
 calcine
+calcining
 calcinoses
 calcinosis
 calcites
@@ -11996,6 +12002,7 @@ coiffeuse
 coiffeuses
 coiffure
 coiffures
+coigne
 coigns
 coilability
 coilers
@@ -13125,6 +13132,7 @@ construing
 consubstantial
 consuetude
 consuetudes
+consuetudinary
 consul
 consulates
 consulships
@@ -16100,6 +16108,7 @@ deduced
 deduces
 deducing
 deductibilities
+deductibility
 deductibles
 deduction
 deducts
@@ -19412,6 +19421,7 @@ drosophilas
 dross
 drossiest
 drossy
+drought
 droughtier
 droughtiness
 droughty
@@ -25333,6 +25343,7 @@ fretwork
 friar
 friaries
 friarly
+friars
 friary
 fribble
 fribbler
@@ -29949,6 +29960,7 @@ homicidal
 homicidally
 homie
 homier
+homies
 homiest
 homilies
 homily
@@ -30356,6 +30368,7 @@ hovering
 howdie
 howdied
 howdy
+howdying
 howes
 however
 howf
@@ -36259,6 +36272,7 @@ ligands
 ligans
 ligation
 ligative
+ligature
 ligatured
 ligatures
 ligaturing
@@ -36907,6 +36921,7 @@ loopinesses
 looping
 loosely
 loosen
+looseners
 looseness
 looses
 loosestrife
@@ -38026,6 +38041,7 @@ marred
 marrer
 marrers
 marriage
+marriageable
 married
 marrieds
 marrowfats
@@ -39334,6 +39350,7 @@ milkwort
 milkworts
 mill
 millage
+millboards
 millcakes
 milldams
 millefiori
@@ -41607,6 +41624,7 @@ nasalises
 nasalisms
 nasalities
 nasalizations
+nasalize
 nasalized
 nascencies
 nascency
@@ -43671,6 +43689,7 @@ ogrisms
 ohed
 ohia
 ohm
+ohmage
 ohmages
 ohmic
 ohmmeter
@@ -44058,6 +44077,7 @@ orchestrated
 orchestraters
 orchestrates
 orchestrating
+orchestrational
 orchestrators
 orchidaceous
 orchids
@@ -46080,6 +46100,7 @@ panaches
 panatelas
 panatella
 panbroiled
+panbroils
 pancaked
 pancetta
 panchax
@@ -47920,6 +47941,7 @@ phons
 phony
 phorate
 phorates
+phoresy
 phoronid
 phoronids
 phosgene
@@ -48615,6 +48637,7 @@ pittance
 pittances
 pittas
 pittosporum
+pituitary
 pity
 piu
 pivotable
@@ -50081,6 +50104,7 @@ precomputes
 preconceive
 preconceiving
 preconception
+preconcerted
 precondition
 preconditions
 preconizes
@@ -54426,6 +54450,7 @@ relinquish
 relinquishment
 relique
 reliquefies
+reliquefying
 reliques
 reliquiae
 relishable
@@ -55680,6 +55705,7 @@ revitalizes
 revitalizing
 revivable
 revivalisms
+revived
 revivification
 revivified
 revivifies
@@ -56027,6 +56053,7 @@ ringingly
 ringleaders
 ringlet
 ringleted
+ringlets
 ringlike
 ringmaster
 ringside
@@ -62697,6 +62724,7 @@ stifled
 stifles
 stifling
 stigmasterols
+stigmatically
 stigmatics
 stigmatist
 stigmatizations
@@ -67048,6 +67076,7 @@ toothwort
 toothy
 tootle
 tootled
+tootlers
 toots
 top
 topcoat
@@ -69778,6 +69807,7 @@ unideaed
 unideological
 unidiomatic
 unific
+unified
 unifiers
 uniform
 uniformitarians
@@ -70622,6 +70652,7 @@ upholster
 upholsters
 uphove
 uphroe
+upkeep
 uplanders
 upleapt
 uplift
@@ -71274,6 +71305,7 @@ velvety
 venatical
 vendable
 vendables
+vendace
 vendee
 vendibilities
 vendibly
@@ -71373,6 +71405,7 @@ verdancy
 verderor
 verderors
 verdin
+verditers
 verdure
 verdured
 verdurous
@@ -72852,6 +72885,7 @@ whinstones
 whip
 whipcord
 whipcords
+whiplash
 whiplike
 whippets
 whippier
@@ -73558,6 +73592,7 @@ worthwhileness
 worthy
 wots
 wotting
+wouldest
 wounded
 woundless
 wounds
