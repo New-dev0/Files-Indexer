@@ -320,6 +320,7 @@ acetonic
 acetous
 acetoxyls
 acetum
+acetylates
 acetylating
 acetylation
 acetylative
@@ -3040,6 +3041,7 @@ apses
 apsides
 apt
 apter
+apteral
 apterous
 aptest
 aptitude
@@ -7365,6 +7367,7 @@ brailling
 braincase
 brained
 brainiac
+brainiacs
 brainier
 brainiest
 braining
@@ -8329,6 +8332,7 @@ butyric
 butyrins
 butyrophenone
 butyrophenones
+butyryl
 buxom
 buxomer
 buxomly
@@ -8874,6 +8878,7 @@ canoeists
 canola
 canolas
 canoness
+canonic
 canonical
 canonise
 canonised
@@ -8888,6 +8893,7 @@ canonizer
 canonry
 canoodled
 canopic
+canopied
 canopy
 canorous
 canorousness
@@ -10362,6 +10368,7 @@ chestiest
 chestily
 chestnut
 chesty
+chetrums
 chevalet
 chevalets
 chevelures
@@ -14415,6 +14422,7 @@ crinite
 crinites
 crinkled
 crinklier
+crinkling
 crinoline
 crinolined
 crinolines
@@ -15259,6 +15267,7 @@ cypselae
 cysteamine
 cysteine
 cysteines
+cysticercosis
 cystine
 cystitis
 cystocarps
@@ -22179,6 +22188,7 @@ exemption
 exemptions
 exemptive
 exempts
+exenterate
 exenterated
 exenterates
 exenterations
@@ -22700,6 +22710,7 @@ facilitations
 facilitators
 facilities
 facing
+facsimiled
 facsimileing
 facsimiles
 fact
@@ -23422,6 +23433,7 @@ feyest
 fez
 fezes
 fezzed
+fiacres
 fiancee
 fiancees
 fianchettoed
@@ -23603,6 +23615,7 @@ filmography
 films
 filmsetter
 filmsettings
+filmstrip
 filmy
 filo
 filoplumes
@@ -26705,6 +26718,7 @@ glides
 gliff
 glim
 glimed
+glimmer
 glimpse
 glimpsed
 glimpser
@@ -27967,6 +27981,7 @@ gustily
 gustinesses
 gusto
 gustoes
+gusts
 gut
 gutlessness
 gutsiest
@@ -30264,6 +30279,7 @@ humitures
 hummer
 hummers
 hummocks
+hummocky
 humongous
 humoral
 humored
@@ -37282,6 +37298,7 @@ maharajas
 maharanis
 maharishis
 mahimahi
+mahimahis
 mahjongs
 mahlstick
 mahoganies
@@ -39707,6 +39724,7 @@ misquoters
 misquotes
 misrated
 misrating
+misread
 misreads
 misreckoned
 misreckons
@@ -43175,6 +43193,7 @@ obtains
 obtested
 obtesting
 obtests
+obtruded
 obtrusions
 obtrusive
 obtrusivenesses
@@ -44336,6 +44355,7 @@ outhaul
 outhearing
 outhears
 outhits
+outhitting
 outhomering
 outhomers
 outhouses
@@ -45355,6 +45375,7 @@ overwhelms
 overwily
 overwind
 overwinding
+overwinter
 overwintering
 overwinters
 overwithhold
@@ -46301,6 +46322,7 @@ party
 partyers
 partygoers
 parura
+parures
 parvenue
 parvenus
 parvis
@@ -46902,6 +46924,7 @@ pentad
 pentagon
 pentagonals
 pentagons
+pentagram
 pentahedrons
 pentameters
 pentamidine
@@ -55177,6 +55200,7 @@ retrials
 retributory
 retries
 retrievability
+retrieved
 retrimmed
 retro
 retroact
@@ -58526,6 +58550,7 @@ shackling
 shackoes
 shacks
 shadblow
+shadblows
 shadbush
 shadchan
 shaddock
@@ -60804,6 +60829,7 @@ sonorousnesses
 sonovox
 sonovoxes
 sons
+sonship
 sonsie
 sonsier
 sooks
@@ -61956,6 +61982,7 @@ standouts
 standpatters
 standpattism
 standpipe
+standpipes
 standpoint
 standpoints
 standstills
@@ -62270,6 +62297,7 @@ stethoscope
 stetsons
 stevedored
 stewable
+steward
 stewarded
 stewardess
 stewarding
@@ -62519,6 +62547,7 @@ storerooms
 stores
 storeship
 storeships
+storewide
 storey
 storeys
 storks
@@ -63238,6 +63267,7 @@ subpoenaing
 subpoenas
 subpolar
 subpopulations
+subprimate
 subprimates
 subprocess
 subproducts
@@ -64339,6 +64369,7 @@ swizzle
 swizzlers
 swizzling
 swobbed
+swobbers
 swobbing
 swooned
 swooner
@@ -65558,6 +65589,7 @@ terreen
 terrella
 terrenes
 terrepleins
+terrestrials
 terret
 terriers
 terrific
@@ -65736,6 +65768,7 @@ theatricals
 thebaines
 thebe
 theca
+thecae
 thecal
 thecate
 thecodont
@@ -65998,6 +66031,7 @@ threadiest
 threading
 threadless
 threads
+threadworm
 thready
 threap
 threaper
@@ -69711,6 +69745,7 @@ unreality
 unrealized
 unreally
 unreason
+unreasonably
 unreasoningly
 unrebuked
 unreconcilable
