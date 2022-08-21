@@ -3515,6 +3515,7 @@ ascorbic
 ascots
 ascribable
 ascribe
+ascribed
 ascribes
 ascus
 asdic
@@ -7213,6 +7214,7 @@ botanic
 botanica
 botanical
 botanically
+botanise
 botanized
 botanizer
 botanizers
@@ -7362,6 +7364,7 @@ boxhaul
 boxhauled
 boxhauling
 boxhauls
+boxier
 boxiest
 boxily
 boxinesses
@@ -10905,6 +10908,7 @@ chrysomelids
 chrysoprase
 chrysotiles
 chthonic
+chubasco
 chubascos
 chubbier
 chubbiest
@@ -12189,6 +12193,7 @@ colloquials
 colloquists
 colloquiums
 collotype
+collude
 colluding
 colluvium
 colluviums
@@ -16016,6 +16021,7 @@ declared
 declares
 declaring
 declass
+declasses
 declassified
 declassifies
 declassify
@@ -16936,6 +16942,7 @@ derogate
 derogatorily
 derogatory
 derrick
+derricks
 derries
 derry
 dervish
@@ -17255,6 +17262,7 @@ devitrify
 devocalized
 devoices
 devoir
+devoirs
 devolutionary
 devolutionist
 devolves
@@ -25703,6 +25711,7 @@ funhouses
 funiculars
 funiculi
 funked
+funker
 funkers
 funkia
 funkier
@@ -27228,6 +27237,7 @@ goitrogens
 golconda
 goldbricked
 goldbricking
+goldbugs
 golden
 goldenest
 goldenness
@@ -27281,6 +27291,7 @@ gonophores
 gonorrhea
 gonorrheal
 gonorrheas
+gonzo
 goober
 goobers
 good
@@ -29996,6 +30007,7 @@ homesickness
 homesites
 homespun
 homespuns
+homestands
 homestay
 homestays
 homestead
@@ -30767,6 +30779,7 @@ hylozoisms
 hylozoistic
 hymen
 hymeneally
+hymeneals
 hymenia
 hymeniums
 hymenoptera
@@ -37330,6 +37343,7 @@ luv
 lux
 luxes
 luxuriance
+luxuriances
 luxuriate
 lyard
 lyart
@@ -38972,6 +38986,7 @@ metallurgical
 metallurgically
 metallurgy
 metalmarks
+metalworkers
 metalworks
 metameres
 metamerism
@@ -39463,6 +39478,7 @@ millings
 milliohms
 million
 millionaires
+millionairess
 millionairesses
 millions
 millionths
@@ -40822,6 +40838,7 @@ mossers
 mossiest
 mossinesses
 mossy
+mostest
 mostly
 motet
 motets
@@ -51971,6 +51988,7 @@ purification
 purifications
 purificatory
 purifier
+purifiers
 purin
 purism
 purist
@@ -53648,6 +53666,7 @@ recruitments
 recrystallizing
 rectangle
 rectangular
+recti
 rectifiability
 rectifiable
 rectification
@@ -54021,7 +54040,9 @@ refiling
 refillable
 refilled
 refilling
+refilmed
 refinable
+refinanced
 refinancing
 refine
 refined
@@ -54305,6 +54326,7 @@ rehospitalizing
 rehouse
 rehumanizes
 rehung
+rehypnotized
 rehypnotizing
 reichsmark
 reidentifies
@@ -54514,6 +54536,7 @@ reliabilities
 reliability
 reliable
 reliableness
+reliablenesses
 reliables
 reliably
 reliance
@@ -56623,6 +56646,7 @@ rowable
 rowan
 rowanberry
 rowboats
+rowdies
 rowdiest
 rowdily
 rowdinesses
@@ -58680,6 +58704,7 @@ sensibler
 sensiblest
 sensillae
 sensillum
+sensing
 sensitise
 sensitively
 sensitivenesses
@@ -59436,6 +59461,7 @@ shoalier
 shoaling
 shoaly
 shoat
+shoats
 shockable
 shocked
 shocker
@@ -59879,6 +59905,7 @@ sillibub
 sillibubs
 silliness
 silly
+siloing
 silt
 siltiest
 silty
@@ -61110,6 +61137,7 @@ soiree
 sojourners
 sojourns
 sokol
+sol
 solace
 solacement
 solacer
@@ -62279,6 +62307,7 @@ squiggles
 squiggling
 squilgeeing
 squillae
+squinched
 squinching
 squinnied
 squinnier
@@ -62579,6 +62608,7 @@ statuesquely
 statusy
 statutable
 statutory
+staumrels
 staunched
 staunching
 staurolite
@@ -63723,6 +63753,7 @@ submitted
 submitters
 submucosa
 submultiple
+submunition
 subnasal
 subnational
 subnetworked
@@ -64712,6 +64743,7 @@ swampier
 swampiest
 swamping
 swampland
+swamplands
 swanherd
 swanherds
 swank
@@ -69380,6 +69412,7 @@ unconcern
 unconcernedness
 unconditionally
 unconfined
+unconformable
 unconformably
 unconformities
 unconfounded
@@ -70992,6 +71025,7 @@ uroscopies
 urostyles
 urp
 urped
+urps
 urticant
 urticarias
 urticated
@@ -72579,6 +72613,7 @@ watcheye
 watcheyes
 watchful
 watchfully
+watchfulness
 watchfulnesses
 watchmaker
 watchman
