@@ -9306,6 +9306,7 @@ cariogenic
 carioles
 caritas
 carjack
+carjacker
 carjacks
 carking
 carks
@@ -9968,6 +9969,7 @@ cerements
 ceremonialism
 ceremonialists
 ceremonially
+ceremoniousness
 ceric
 ceriphs
 cerises
@@ -15286,6 +15288,7 @@ cybernetical
 cybernetically
 cyberneticist
 cyberneticists
+cybernetics
 cyberpunks
 cybersex
 cybersexes
@@ -15395,12 +15398,14 @@ cystocarps
 cystocele
 cystoid
 cystolith
+cystoscopic
 cystoscopies
 cystoscopy
 cytidine
 cytochalasin
 cytochalasins
 cytogeneticist
+cytokines
 cytokinesis
 cytokinetic
 cytologic
@@ -16230,6 +16235,7 @@ defibrillators
 defibrinating
 deficient
 deficients
+deficit
 defier
 defiers
 defiladed
@@ -17317,6 +17323,7 @@ diabolizes
 diabolo
 diabolos
 diachrony
+diacidic
 diaconate
 diaconates
 diacritic
@@ -17657,6 +17664,7 @@ dilettantish
 dilettantisms
 diligently
 dillies
+dillydally
 diltiazems
 dilutenesses
 diluter
@@ -19190,6 +19198,7 @@ drabnesses
 dracena
 dracenas
 drachm
+drachms
 draconian
 draconic
 draffier
@@ -27143,6 +27152,7 @@ goanna
 goannas
 goat
 goatee
+goatfish
 goatherds
 goatish
 goats
@@ -28140,6 +28150,7 @@ gun
 gunboats
 gunfights
 gunfire
+gunflints
 gunites
 gunk
 gunlocks
@@ -30796,6 +30807,7 @@ hyperesthetic
 hypereutectoid
 hyperexcited
 hyperexcretion
+hyperexcretions
 hyperextend
 hyperextensions
 hyperfine
@@ -36453,6 +36465,7 @@ linerboards
 lines
 linesman
 linesmen
+lineups
 lingam
 lingcod
 lingcods
@@ -37703,6 +37716,7 @@ mallei
 mallemuck
 malleoli
 malleolus
+mallet
 malleus
 malmier
 malmseys
@@ -38263,6 +38277,7 @@ matinee
 matriarchates
 matriarchs
 matrices
+matricides
 matriculant
 matriculants
 matriculate
@@ -38748,6 +38763,7 @@ mentorship
 meoued
 meow
 meows
+meperidines
 mephitises
 merbromin
 merbromins
@@ -42225,6 +42241,7 @@ nightless
 nightlifes
 nightlong
 nightmarish
+nights
 nightscope
 nightshade
 nightspots
@@ -43217,6 +43234,7 @@ nullipore
 numb
 numbat
 numbats
+numbed
 number
 numberer
 numberless
@@ -43969,6 +43987,7 @@ operant
 operates
 operatic
 operatically
+operatics
 operation
 operationalists
 operationally
@@ -45716,6 +45735,7 @@ ovoid
 ovoidal
 ovoidals
 ovoli
+ovolo
 ovonic
 ovonics
 ovotestis
@@ -47000,6 +47020,7 @@ peckish
 peckishly
 pecky
 pecorino
+pecs
 pecten
 pectic
 pectinaceous
@@ -47254,6 +47275,7 @@ pentangle
 pentangles
 pentanol
 pentaploids
+pentarchies
 pentathlete
 pentathlon
 pentatonic
@@ -53703,6 +53725,7 @@ redesign
 redesigned
 redetermination
 redetermine
+redetermined
 redetermining
 redeveloped
 redevelopment
@@ -55643,6 +55666,7 @@ reuttered
 reutters
 revaccinate
 revaccinating
+revaccination
 revalidated
 revalidation
 revalorization
@@ -57358,6 +57382,7 @@ sarracenias
 sarsaparillas
 sarsars
 sarsen
+sarsenet
 sartor
 sartorial
 sash
@@ -58019,6 +58044,7 @@ scrimpy
 scrimshanders
 scrimshaw
 scrimshaws
+scripted
 scripter
 scriptures
 scriptwriter
@@ -58653,6 +58679,7 @@ sensualizes
 sensually
 sensum
 sent
+sentencer
 sententia
 sentential
 sententious
@@ -60424,6 +60451,7 @@ slipformed
 slipforming
 slipknots
 slipped
+slipperier
 slipping
 slippy
 slipsheet
@@ -64164,6 +64192,7 @@ sunned
 sunniest
 sunnily
 sunniness
+sunns
 sunporches
 sunproof
 sunrays
@@ -65197,6 +65226,7 @@ tailcoated
 tailcoats
 tailenders
 tailers
+tailfans
 tailfins
 tailing
 taillamps
@@ -67710,6 +67740,7 @@ traprock
 traps
 trapshooter
 trapshooting
+trapshootings
 trapunto
 trapuntos
 trash
@@ -70767,6 +70798,7 @@ uproariousness
 uprootal
 uprootedness
 uprootednesses
+uprooter
 uprooting
 uproots
 uprose
@@ -70946,6 +70978,8 @@ username
 ushered
 usherette
 usques
+usualness
+usuals
 usufruct
 usurers
 usurious
@@ -74000,6 +74034,7 @@ yippee
 yippies
 yipping
 yird
+yirds
 yirr
 yirring
 ylems
