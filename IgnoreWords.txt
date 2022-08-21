@@ -963,6 +963,7 @@ aftershave
 aftershaves
 aftertaste
 aftertastes
+aftertax
 afterwards
 afterwords
 afterworld
@@ -8044,6 +8045,7 @@ bulbils
 bulbs
 bulbul
 bulbuls
+bulge
 bulged
 bulger
 bulgers
@@ -9806,6 +9808,7 @@ celibate
 cell
 cellar
 cellarage
+cellarers
 cellarets
 cellarette
 cellaring
@@ -12732,6 +12735,7 @@ condemn
 condemnation
 condemner
 condemning
+condemnors
 condensate
 condensations
 condenser
@@ -12934,6 +12938,7 @@ conidial
 conidiophores
 conidium
 coniferous
+conifers
 coniine
 conioses
 coniums
@@ -15636,6 +15641,7 @@ darkle
 darklier
 darkliest
 darkling
+darklings
 darkly
 darkness
 darkrooms
@@ -16377,6 +16383,7 @@ deicer
 deicides
 deictics
 deifier
+deifiers
 deifies
 deiform
 deify
@@ -19654,6 +19661,7 @@ duper
 dupery
 duplexers
 duplexes
+duplexities
 duplications
 duplicative
 duplicator
@@ -20067,6 +20075,7 @@ editorship
 editresses
 editrices
 editrix
+editrixes
 edits
 educabilities
 educables
@@ -23862,6 +23871,7 @@ finishes
 finishing
 finitely
 finites
+finito
 finitude
 finitudes
 finked
@@ -24245,6 +24255,7 @@ fleeting
 fleetingly
 fleetingness
 fleetnesses
+flehmened
 flehmens
 fleishig
 flemished
@@ -26204,6 +26215,7 @@ gateless
 gatepost
 gaters
 gather
+gator
 gauchely
 gauchest
 gaucho
@@ -27479,6 +27491,7 @@ grandpas
 grandsire
 grandsirs
 grandson
+grange
 grangerism
 grangerisms
 granita
@@ -28187,6 +28200,7 @@ guttate
 guttations
 gutter
 guttered
+gutters
 guttersnipes
 guttery
 guttiest
@@ -28653,6 +28667,7 @@ happy
 haptenes
 haptoglobins
 harangued
+haranguer
 harangues
 harassers
 harassing
@@ -33962,6 +33977,7 @@ javelin
 javelina
 javelined
 javelining
+javelins
 jawans
 jawboner
 jawboning
@@ -34531,6 +34547,7 @@ kathodes
 katydid
 kauries
 kauris
+kaury
 kavakava
 kavakavas
 kavas
@@ -34792,6 +34809,7 @@ killock
 killocks
 kills
 kiln
+kilns
 kilobars
 kilobyte
 kilocurie
@@ -36237,6 +36255,7 @@ lickerish
 lickerishly
 lickerishness
 lickers
+licking
 lickings
 licks
 lickspittles
@@ -36760,6 +36779,7 @@ lockkeepers
 lockmaker
 lockmakers
 locknuts
+lockrams
 locks
 lockset
 locksmith
@@ -37630,6 +37650,7 @@ malapertnesses
 malaperts
 malaprop
 malapropism
+malapropists
 malaria
 malariologist
 malariologists
@@ -44515,6 +44536,7 @@ outcrossed
 outcrosses
 outcrowd
 outcry
+outcursing
 outdances
 outdancing
 outdare
@@ -45699,6 +45721,7 @@ ovonics
 ovotestis
 ovoviviparous
 ovoviviparously
+ovulary
 ovulate
 ovulated
 ovulations
@@ -53901,6 +53924,7 @@ reestablishment
 reested
 reestimate
 reesting
+reevaluating
 reeve
 reeves
 reeving
@@ -55146,6 +55170,7 @@ reshowered
 reshowing
 reshuffled
 reshuffling
+resided
 residence
 residency
 resident
@@ -57348,6 +57373,7 @@ sassiest
 sassinesses
 sassy
 sassywood
+satang
 satangs
 satanical
 satanically
@@ -57357,6 +57383,7 @@ satays
 satcheled
 sateen
 satem
+sates
 satiable
 satiate
 satiating
@@ -59322,6 +59349,7 @@ shirtmaker
 shirtmakers
 shirttailed
 shirty
+shist
 shists
 shitake
 shitakes
@@ -61278,6 +61306,7 @@ sorceress
 sorceries
 sorcerous
 sord
+sordid
 sordines
 sordini
 sords
@@ -62851,6 +62880,7 @@ stockjobber
 stockman
 stockpiled
 stockpot
+stockpots
 stockroom
 stocktaking
 stocktakings
@@ -63187,6 +63217,7 @@ stringily
 stringiness
 stringing
 stringless
+stringpiece
 stringpieces
 strings
 stringy
@@ -63435,6 +63466,7 @@ subclusters
 subcode
 subcodes
 subcollection
+subcolony
 subcommission
 subcommunities
 subcompacts
@@ -67239,6 +67271,7 @@ torturously
 torulae
 torulas
 torus
+tory
 tosses
 tossing
 tossup
@@ -67508,6 +67541,7 @@ tranquilizing
 tranquillizes
 tranquilness
 tranquilnesses
+transact
 transacted
 transaction
 transactional
@@ -71218,6 +71252,7 @@ vasotomies
 vassal
 vassalage
 vassalages
+vassals
 vastier
 vastitudes
 vastity
