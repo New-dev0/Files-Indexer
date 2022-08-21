@@ -864,6 +864,7 @@ affectable
 affectation
 affectations
 affected
+affecter
 affecters
 affecting
 affectionate
@@ -1184,6 +1185,7 @@ airplanes
 airports
 airpower
 airpowers
+airproofed
 airproofing
 airs
 airscape
@@ -4016,6 +4018,7 @@ auld
 aulder
 aulic
 auntlier
+auntly
 aunts
 aura
 aural
@@ -4054,6 +4057,7 @@ autacoids
 autarch
 autarchic
 autarchical
+autarchies
 autarkies
 autarkist
 autecism
@@ -4625,6 +4629,7 @@ baldrick
 baldrics
 bale
 balefire
+baleful
 baler
 balers
 balisaurs
@@ -5323,6 +5328,7 @@ bedrocks
 bedroll
 bedroom
 bedrugged
+bedrugs
 beds
 bedsheets
 bedside
@@ -5410,6 +5416,7 @@ befretted
 befriend
 befriended
 befriending
+befriends
 befringe
 befringed
 befuddle
@@ -5924,6 +5931,7 @@ bibliomanias
 bibliopegies
 bibliophilies
 bibliophilism
+bibliopolists
 bibliotheca
 bibliothecal
 bibliotherapy
@@ -8433,6 +8441,7 @@ cabanas
 cabbages
 cabbageworms
 cabbaging
+cabbalas
 cabbalist
 cabbalists
 cabbed
@@ -10155,6 +10164,7 @@ charabanc
 charabancs
 characid
 character
+charactered
 charactering
 characteristics
 characterizes
@@ -12592,6 +12602,7 @@ concealing
 concealments
 concededly
 conceders
+conceitedness
 conceive
 conceived
 conceives
@@ -13951,6 +13962,7 @@ counterplayer
 counterplays
 counterplot
 counterplots
+counterpointed
 counterpointing
 counterpoises
 counterpoising
@@ -14621,6 +14633,7 @@ crosspatch
 crosspatches
 crosspiece
 crossroads
+crossruffed
 crossruffs
 crosstown
 crosstree
@@ -16068,6 +16081,7 @@ deducts
 deedier
 deeding
 deedless
+deeds
 deedy
 deejaying
 deejays
@@ -18042,6 +18056,7 @@ diseasing
 diseconomies
 diseconomy
 disembark
+disembarks
 disembarrassed
 disembarrasses
 disembarrassing
@@ -18221,6 +18236,7 @@ dismals
 dismantlements
 dismantles
 dismasting
+dismay
 dismays
 dismembering
 dismemberments
@@ -21373,6 +21389,7 @@ epineuria
 epineurium
 epipelagic
 epiphanic
+epiphanies
 epiphenomenon
 epiphyseal
 epiphyses
@@ -25321,6 +25338,7 @@ frillers
 frillier
 fringing
 frisbees
+frise
 frisees
 friseur
 frisked
@@ -25648,6 +25666,7 @@ furrowers
 furrows
 furry
 further
+furtherances
 furthering
 furthest
 furtive
@@ -30794,6 +30813,7 @@ hypochlorites
 hypochondriacal
 hypochondrias
 hypochondriases
+hypocotyls
 hypocrites
 hypocritical
 hypoderma
@@ -31429,6 +31449,7 @@ implementor
 impletion
 impletions
 implicates
+implication
 implicative
 implicitly
 imploded
@@ -34330,6 +34351,7 @@ kaffiyahs
 kaffiyeh
 kafs
 kaftan
+kagu
 kagus
 kahuna
 kahunas
@@ -37843,6 +37865,7 @@ marbleises
 marbleising
 marbleize
 marbleized
+marbleizes
 marbleizing
 marblers
 marbling
@@ -39498,6 +39521,7 @@ misadded
 misaddressed
 misadds
 misadjust
+misadventure
 misadventures
 misadvise
 misadvising
@@ -40839,6 +40863,7 @@ mucous
 mucro
 mucronate
 mucrones
+mucus
 mudcapped
 mudcapping
 mudcat
@@ -44144,6 +44169,7 @@ orthogenetic
 orthogonalities
 orthomolecular
 orthonormal
+orthopedic
 orthopedically
 orthopedics
 orthopedist
@@ -46240,6 +46266,7 @@ paramyxoviruses
 parang
 parangs
 paranoiac
+paranoiacs
 paranoias
 paranoics
 paranoidal
@@ -55416,6 +55443,7 @@ retrofitted
 retrofitting
 retroflections
 retroflexes
+retroflexion
 retrogradation
 retrograded
 retrogradely
@@ -57681,6 +57709,7 @@ scollop
 scolloping
 scollops
 scolopendras
+scombrids
 sconcheons
 scone
 scooch
@@ -59696,6 +59725,7 @@ simulations
 simulator
 simulcasted
 simulcasts
+simultaneities
 simultaneity
 simultaneous
 simultaneously
@@ -61979,6 +62009,7 @@ squashers
 squashes
 squashier
 squashiest
+squatly
 squatnesses
 squattered
 squattest
@@ -64706,6 +64737,7 @@ sympodial
 symposiac
 symposiarch
 symposiarchs
+symposium
 symptom
 symptomatically
 symptomatologic
@@ -65768,6 +65800,7 @@ terbiums
 tercentenaries
 tercentennial
 tercet
+terebenes
 terebic
 terefah
 terephthalate
@@ -69413,6 +69446,7 @@ undressing
 undrest
 undrew
 undried
+undulant
 undular
 undulated
 undulled
@@ -69992,6 +70026,7 @@ unravelled
 unravels
 unrazed
 unreached
+unread
 unreadable
 unreadiest
 unreadily
