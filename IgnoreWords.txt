@@ -1328,6 +1328,7 @@ algology
 algometer
 algometers
 algometry
+algorithm
 algorithmic
 aliases
 aliasing
@@ -2615,6 +2616,7 @@ antipoaching
 antipodal
 antipodals
 antipodean
+antipole
 antipolitical
 antipolitics
 antipollution
@@ -3028,6 +3030,7 @@ approximative
 appulses
 appurtenances
 appurtenant
+apraxias
 apricot
 apricots
 aproning
@@ -4325,6 +4328,7 @@ azon
 azoted
 azotemia
 azotemias
+azotemic
 azotes
 azotised
 azotises
@@ -5823,6 +5827,7 @@ bewilder
 bewilderedly
 bewilderedness
 bewildering
+bewinged
 bewitcher
 bewitcheries
 bewitchery
@@ -16081,6 +16086,7 @@ defibrinating
 deficient
 deficients
 defier
+defiers
 defiladed
 defilement
 defiling
@@ -18880,6 +18886,7 @@ doughnuts
 doughtier
 doughtily
 doughtiness
+doughy
 doum
 douma
 doums
@@ -22215,6 +22222,7 @@ exhortative
 exhorting
 exhorts
 exhumed
+exigences
 exigencies
 exigently
 exiguity
@@ -24115,6 +24123,7 @@ flir
 flirtation
 flirtatiously
 flirted
+flit
 flite
 flited
 flits
@@ -25152,6 +25161,7 @@ friedcake
 friedcakes
 friend
 friended
+friending
 friendless
 friendlier
 friendliest
@@ -26137,6 +26147,7 @@ generalcy
 generalised
 generalises
 generalizable
+generalization
 generalize
 generalizer
 generalizes
@@ -29083,6 +29094,7 @@ hepatocyte
 hepatocytes
 hepatoma
 hepatomas
+hepatomegalies
 hepatomegaly
 hepatotoxicity
 hepcats
@@ -31408,6 +31420,7 @@ inaccessibly
 inaccuracies
 inaccurately
 inactions
+inactivation
 inactive
 inactivity
 inadequacies
@@ -32011,6 +32024,7 @@ infecting
 infection
 infectiousness
 infectivity
+infector
 infectors
 infecund
 infelicitous
@@ -32586,6 +32600,7 @@ interagency
 interallelic
 interarch
 interarched
+interarches
 interbasin
 interbranch
 intercalary
@@ -34615,6 +34630,7 @@ kis
 kishka
 kishke
 kismat
+kismet
 kismetic
 kissable
 kissed
@@ -36058,6 +36074,7 @@ limans
 limb
 limba
 limbeck
+limbed
 limberer
 limberest
 limbi
@@ -36082,6 +36099,7 @@ limitedly
 limitedness
 limiter
 limiters
+limitless
 limitlessness
 limitlessnesses
 limits
@@ -36835,6 +36853,7 @@ luger
 luggages
 luging
 lugsail
+lugubriously
 lugubriousness
 lullabied
 lullabies
@@ -40402,12 +40421,14 @@ mortals
 mortar
 mortarboard
 mortarboards
+mortared
 mortarless
 mortarmen
 mortgage
 mortgagees
 mortgagers
 mortgagor
+mortgagors
 mortice
 mortices
 mortification
@@ -40849,6 +40870,7 @@ muncher
 munches
 munchies
 mundane
+mundaneness
 mundanenesses
 mundanity
 mundungo
@@ -44751,6 +44773,7 @@ overcharge
 overchill
 overchilled
 overchills
+overcivil
 overclaims
 overclass
 overclasses
@@ -44883,6 +44906,7 @@ overexpansion
 overexpectation
 overexplain
 overexplained
+overexplains
 overexploit
 overexploited
 overexpose
@@ -47304,6 +47328,7 @@ pests
 pesty
 petabytes
 petal
+petaline
 petalled
 petaloid
 petard
@@ -49718,6 +49743,7 @@ precognition
 precombustions
 precommitment
 precommitments
+precompute
 precomputes
 preconceive
 preconceiving
@@ -50130,6 +50156,7 @@ presented
 presentencing
 presentient
 presentimental
+presentiments
 presenting
 presentism
 presently
@@ -50784,6 +50811,7 @@ propend
 propended
 propending
 propene
+propense
 propensities
 properdin
 properdins
@@ -55647,6 +55675,7 @@ ringworms
 rink
 rinsable
 rinse
+rinses
 rinsing
 riotously
 riotousness
@@ -56185,6 +56214,7 @@ rudeness
 rudenesses
 rudery
 rudesbies
+rudesby
 rudest
 rudiment
 rudimentarily
@@ -60838,6 +60868,7 @@ sostenuto
 sot
 soteriological
 soteriology
+soth
 soths
 sotol
 sotols
@@ -62320,6 +62351,7 @@ stipulator
 stipulatory
 stir
 stirp
+stirrup
 stirs
 stitch
 stitcheries
@@ -63215,6 +63247,7 @@ subsequences
 subsequent
 subsequents
 subsere
+subseres
 subserved
 subserviency
 subservient
@@ -65703,6 +65736,7 @@ theologies
 theologised
 theologising
 theologizes
+theologs
 theologue
 theomachies
 theomachy
@@ -73325,6 +73359,7 @@ yeasayers
 yeasty
 yecch
 yecchs
+yechs
 yeelins
 yegg
 yeggs
