@@ -373,6 +373,7 @@ acini
 acinose
 ackee
 ackees
+acknowledged
 acknowledgedly
 acknowledgment
 acknowledgments
@@ -2379,6 +2380,7 @@ antedating
 antediluvian
 antefixal
 anteing
+antemortem
 antennae
 antenuptial
 antepasts
@@ -3533,6 +3535,7 @@ askings
 askoi
 askos
 asks
+aslant
 aslope
 asocial
 asparagine
@@ -3800,6 +3803,7 @@ atemporal
 atenolol
 ates
 athanasies
+atheist
 atheistic
 atheistical
 atheistically
@@ -7906,6 +7910,7 @@ buckeen
 buckeens
 buckers
 bucket
+bucketed
 bucketfuls
 bucketing
 buckeye
@@ -7930,6 +7935,7 @@ budder
 budders
 buddied
 buddies
+budding
 buddings
 buddle
 buddleia
@@ -8090,6 +8096,7 @@ bung
 bungalow
 bungalows
 bunged
+bunghole
 bungholes
 bunging
 bungle
@@ -8891,6 +8898,7 @@ canny
 canoeable
 canoed
 canoeists
+canoers
 canola
 canolas
 canoness
@@ -10123,6 +10131,7 @@ charabanc
 charabancs
 characid
 character
+charactering
 characteristics
 characterizes
 characterizing
@@ -10338,6 +10347,7 @@ chemisms
 chemisorb
 chemisorbing
 chemisorptions
+chemo
 chemoautotrophy
 chemokines
 chemoreception
@@ -12587,6 +12597,7 @@ concerning
 concernments
 concerns
 concert
+concertednesses
 concertgoer
 concertinos
 concertize
@@ -21282,6 +21293,7 @@ epidermoid
 epiderms
 epidote
 epifaunas
+epigeic
 epigenetically
 epigenist
 epigenists
@@ -22430,6 +22442,7 @@ expertizing
 expertness
 expiate
 expiation
+expiatory
 expirations
 expiratory
 expired
@@ -22652,6 +22665,7 @@ extrusions
 extrusive
 extubate
 extubating
+exuberance
 exuberances
 exuberated
 exuberates
@@ -23701,6 +23715,7 @@ finenesses
 finer
 fineries
 fines
+finesse
 finesses
 finessing
 finfish
@@ -30537,6 +30552,7 @@ hydroquinone
 hydrosere
 hydroseres
 hydroski
+hydrosolic
 hydrospaces
 hydrosphere
 hydrospheres
@@ -40308,6 +40324,7 @@ monopody
 monopoles
 monopolies
 monopolise
+monopolised
 monopolises
 monopolist
 monopolists
@@ -41051,6 +41068,7 @@ murreys
 murrha
 murrine
 murrs
+murthers
 mus
 musca
 muscadel
@@ -42054,6 +42072,7 @@ niobiums
 niobous
 nip
 nippers
+nippiest
 nippiness
 nippinesses
 nippingly
@@ -44440,6 +44459,7 @@ outhomering
 outhomers
 outhouses
 outhowled
+outhumoring
 outhumors
 outhunt
 outhustled
@@ -45413,6 +45433,7 @@ overtimed
 overtimes
 overtimid
 overtiming
+overtips
 overtire
 overtired
 overtness
@@ -45427,6 +45448,7 @@ overtrades
 overtrain
 overtreat
 overtreatment
+overtreatments
 overtrimming
 overtrumping
 overture
@@ -47186,6 +47208,7 @@ periapses
 periblems
 pericardia
 pericardial
+pericarditis
 pericardium
 pericarp
 pericarps
@@ -48640,9 +48663,11 @@ platypi
 platypus
 plausibilities
 plausibleness
+plausiblenesses
 plausibly
 plausive
 playact
+playas
 playbill
 playbills
 playbook
@@ -49263,6 +49288,7 @@ poof
 poofter
 poofy
 pooler
+poolers
 poolhall
 poolhalls
 pooling
@@ -51558,6 +51584,7 @@ pumicer
 pumicing
 pumicites
 pummelling
+pummels
 pump
 pumped
 pumper
@@ -53961,6 +53988,7 @@ rehabilitants
 rehabilitates
 rehabilitating
 rehabilitation
+rehabilitations
 rehandle
 rehandled
 rehandles
@@ -56008,6 +56036,7 @@ rodenticides
 rodents
 rodeoing
 rodeos
+rodes
 rodsmen
 roe
 roebuck
@@ -57170,6 +57199,7 @@ sauropods
 saury
 sauted
 sauteed
+sauteing
 sauterne
 sauternes
 sautes
@@ -66272,6 +66302,7 @@ thunderstricken
 thunderstruck
 thunk
 thunks
+thuribles
 thurls
 thus
 thusly
@@ -66675,6 +66706,7 @@ tokonoma
 tolan
 tolanes
 tolans
+tolar
 tolarjev
 tolas
 tolbutamide
@@ -70470,6 +70502,7 @@ upthrusting
 uptight
 uptightness
 uptilted
+uptilts
 uptimes
 uptoss
 uptosses
@@ -70872,6 +70905,7 @@ vasa
 vascula
 vascularity
 vascularization
+vase
 vasectomies
 vasectomize
 vasectomized
@@ -73150,6 +73184,7 @@ woodlarks
 woodless
 woodlot
 woodman
+woodmen
 woodnote
 woodpecker
 woodpiles
