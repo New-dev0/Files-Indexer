@@ -80,6 +80,7 @@ absorbance
 absorbancies
 absorbant
 absorbants
+absorbencies
 absorbents
 absorptances
 absorptivity
@@ -6069,6 +6070,7 @@ bighted
 bigly
 bigness
 bignonias
+bigoses
 bigot
 bigotedly
 bigotry
@@ -8466,6 +8468,7 @@ buxomly
 buxomness
 buxomnesses
 buy
+buyable
 buyback
 buybacks
 buyout
@@ -9424,6 +9427,7 @@ carpooled
 carpooling
 carpools
 carpophores
+carpospore
 carps
 carpus
 carr
@@ -11444,6 +11448,7 @@ clench
 clencher
 clenches
 clenching
+cleomes
 cleped
 clepes
 cleping
@@ -13206,6 +13211,7 @@ consternating
 consternation
 consternations
 constipates
+constipating
 constituencies
 constituency
 constituently
@@ -15713,6 +15719,7 @@ dandling
 dandriffs
 danegelt
 daneworts
+danger
 dangering
 dangerous
 dangerously
@@ -17589,6 +17596,7 @@ diazotized
 diazotizes
 dib
 dibasic
+dibbed
 dibbing
 dibbled
 dibbuk
@@ -21325,6 +21333,7 @@ entasis
 entastic
 entente
 enter
+entera
 enteral
 enterally
 entered
@@ -25294,6 +25303,7 @@ fossilising
 fossilization
 fossilizations
 fossilized
+fossils
 foster
 fosterages
 fosterers
@@ -27175,6 +27185,7 @@ globalisms
 globalist
 globalize
 globalizes
+globated
 globbiest
 globefish
 globefishes
@@ -28995,6 +29006,7 @@ harmony
 harnessed
 harped
 harpies
+harpin
 harpings
 harpins
 harpist
@@ -30561,6 +30573,7 @@ hostilely
 hostilities
 hostility
 hostler
+hostlers
 hostly
 hot
 hotbeds
@@ -31220,6 +31233,7 @@ hypothecation
 hypothecators
 hypothecs
 hypothermias
+hypothermic
 hypothesizing
 hypothetically
 hypothyroidism
@@ -34404,6 +34418,7 @@ jigsawing
 jigsaws
 jihad
 jillions
+jills
 jimmies
 jimminy
 jimmying
@@ -35540,6 +35555,7 @@ lachrymosely
 lacily
 lacings
 laciniation
+laciniations
 lackadaisically
 lacked
 lackering
@@ -36559,6 +36575,7 @@ lickers
 licking
 lickings
 licks
+lickspittle
 lickspittles
 licorice
 lictor
@@ -37440,6 +37457,7 @@ lucences
 lucencies
 lucernes
 lucifer
+lucite
 luck
 lucked
 luckie
@@ -38592,6 +38610,7 @@ matrix
 matronize
 matronized
 matronizes
+matronly
 matrons
 matsah
 matsutakes
@@ -45870,6 +45889,7 @@ overprocessing
 overproduced
 overproduction
 overprogram
+overprogramed
 overprograming
 overprogrammed
 overpromise
@@ -53053,6 +53073,7 @@ radicates
 radicating
 radicchios
 radicel
+radicels
 radicle
 radicles
 radii
@@ -56170,6 +56191,7 @@ revenging
 revenued
 revenues
 reverb
+reverbed
 reverberant
 reverberantly
 reverberates
@@ -56574,6 +56596,7 @@ rimpled
 rimrock
 rimrocks
 rin
+rindless
 ringbarks
 ringbolt
 ringbolts
@@ -58923,6 +58946,7 @@ selectionists
 selective
 selectively
 selectiveness
+selectivenesses
 selectivities
 selectivity
 selectly
@@ -59634,6 +59658,7 @@ shaving
 shavings
 shawing
 shawls
+shawm
 she
 shea
 sheaf
@@ -59837,6 +59862,7 @@ shipmate
 shipmates
 shipmen
 shipment
+shipowner
 shippen
 shippens
 shipping
@@ -63795,6 +63821,7 @@ strobilations
 strobili
 strobilus
 stroboscopic
+strobotron
 stroke
 stroked
 stroll
@@ -63998,6 +64025,7 @@ subcaste
 subcategories
 subcategorized
 subcategorizes
+subcategory
 subcavity
 subcellars
 subcells
@@ -64507,6 +64535,7 @@ suddenness
 suddennesses
 sudds
 sudsed
+sudser
 sudsers
 sudsier
 sudsing
@@ -66402,6 +66431,7 @@ temperas
 temperate
 temperer
 temperers
+tempers
 tempested
 tempestuous
 tempestuousness
@@ -67028,6 +67058,7 @@ thole
 tholed
 tholepin
 tholing
+thong
 thongs
 thoracal
 thoracically
@@ -68313,6 +68344,7 @@ trapshootings
 trapunto
 trapuntos
 trash
+trashed
 trashing
 trashman
 trashmen
@@ -70260,6 +70292,7 @@ undoubting
 undrained
 undramatically
 undramatized
+undrapes
 undraping
 undreamt
 undress
@@ -72593,6 +72626,7 @@ vivace
 vivaces
 vivaciousness
 vivaciousnesses
+vivacity
 vivandiere
 vivaria
 vivary
@@ -74993,5 +75027,6 @@ zymologies
 zymosan
 zymosans
 zymosis
+zymurgies
 zyzzyva
 zyzzyvas
