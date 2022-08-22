@@ -1498,6 +1498,7 @@ allonym
 allopathies
 allopatric
 allopatrically
+allopatries
 allophone
 alloplasm
 alloplasms
@@ -1791,6 +1792,7 @@ ami
 amia
 amiabilities
 amiable
+amiableness
 amiablenesses
 amiably
 amianthus
@@ -4444,6 +4446,7 @@ back
 backache
 backbeats
 backbench
+backbencher
 backbenchers
 backbenches
 backbone
@@ -5095,6 +5098,7 @@ batsmen
 batt
 battalia
 battalion
+battalions
 batteau
 batteaux
 battement
@@ -6614,6 +6618,7 @@ blind
 blinder
 blindfold
 blindness
+blindnesses
 blindsided
 blindsides
 blindworms
@@ -7100,6 +7105,7 @@ bookishness
 bookkeepers
 bookkeeping
 booklets
+booklice
 booklouse
 bookmaker
 bookmakings
@@ -13261,6 +13267,7 @@ contes
 contest
 contestants
 contester
+contesting
 contextless
 contexts
 contextual
@@ -13631,6 +13638,7 @@ cordialities
 cordially
 cordials
 cordierite
+cordierites
 cordillera
 cordilleran
 cordites
@@ -18506,6 +18514,7 @@ disseize
 disseized
 disseizes
 disseizins
+dissembles
 disseminator
 disseminators
 dissension
@@ -21045,6 +21054,7 @@ engineer
 engineered
 engineers
 engineries
+engines
 enginous
 engirded
 engirdle
@@ -21167,6 +21177,7 @@ enrolled
 enrollees
 enroller
 enrollers
+enrolment
 enrols
 enrooting
 enroots
@@ -22588,6 +22599,7 @@ expecters
 expecting
 expectorated
 expectorating
+expectoration
 expectorations
 expedience
 expediences
@@ -27034,6 +27046,7 @@ glitteringly
 glitters
 glittery
 glitz
+glitziest
 gloaming
 gloamings
 gloams
@@ -28003,6 +28016,7 @@ grouting
 grouts
 grove
 groveled
+groveler
 grovelers
 groveless
 grovelingly
@@ -28099,6 +28113,7 @@ guanos
 guanosines
 guaranies
 guaranis
+guarantee
 guaranty
 guarddog
 guarded
@@ -30167,6 +30182,7 @@ homunculi
 hon
 honcho
 honchoed
+honchoing
 honda
 hondas
 hondle
@@ -31091,6 +31107,7 @@ ibex
 ibices
 ibidem
 ibis
+ibuprofen
 iceberg
 icebergs
 iceblink
@@ -35325,6 +35342,7 @@ labializes
 labializing
 labials
 labiates
+lability
 labiodental
 labiodentals
 labiovelar
@@ -36264,6 +36282,7 @@ levitates
 levitation
 levitator
 levo
+levodopa
 levogyre
 levulin
 levulose
@@ -37635,6 +37654,7 @@ mafias
 mafiosi
 mafiosos
 maftirs
+mag
 magalogues
 magazine
 magdalene
@@ -40790,6 +40810,7 @@ moot
 mootnesses
 mopboard
 mopboards
+moped
 moper
 moperies
 mopery
@@ -42285,6 +42306,7 @@ nextdoor
 nexuses
 ngwee
 niacin
+niacinamide
 niacinamides
 nialamide
 nibbing
@@ -43226,6 +43248,7 @@ nostalgic
 nostalgics
 nostalgist
 nostalgists
+nostoc
 nostrils
 nosy
 not
@@ -45695,6 +45718,7 @@ oversalts
 oversanguine
 oversaturate
 oversaturates
+oversaturation
 oversaturations
 oversave
 oversaving
@@ -48036,6 +48060,7 @@ phenolphthalein
 phenomenally
 phenomenologies
 phenomenologist
+phenothiazine
 phenothiazines
 phenotypic
 phenotypical
@@ -52573,6 +52598,7 @@ quickness
 quicknesses
 quicks
 quicksand
+quickset
 quickstep
 quid
 quiescence
@@ -52676,6 +52702,7 @@ quoits
 quomodo
 quomodos
 quorum
+quorums
 quotable
 quotas
 quotation
@@ -58001,6 +58028,7 @@ schrod
 schtick
 schticks
 schtik
+schuit
 schuits
 schul
 schuln
@@ -66451,6 +66479,7 @@ thankers
 thankfully
 thankfulness
 thanking
+thanklessness
 thankworthy
 that
 thataway
@@ -66852,6 +66881,7 @@ thunderclouds
 thunderhead
 thunderstone
 thunderstones
+thunderstorm
 thunderstricken
 thunderstruck
 thunk
@@ -67238,6 +67268,7 @@ toggled
 toggler
 togglers
 toggling
+togue
 toil
 toiled
 toilet
@@ -67689,6 +67720,7 @@ trackpad
 tracks
 tract
 tractability
+tractates
 tractional
 tractive
 tractors
@@ -69290,6 +69322,7 @@ unaffordable
 unafraid
 unageing
 unagile
+unaidedly
 unais
 unakite
 unakites
@@ -71000,6 +71033,7 @@ uploaded
 uploads
 upmanships
 upped
+uppercased
 upperclassmen
 uppercut
 uppercuts
@@ -73311,6 +73345,7 @@ who
 whoa
 whodunits
 whodunnit
+whodunnits
 wholehearted
 wholeheartedly
 wholemeal
