@@ -2368,6 +2368,7 @@ anoopsia
 anopheles
 anopias
 anorak
+anoraks
 anorectics
 anorexia
 anorexies
@@ -2835,6 +2836,7 @@ apetalies
 apetalous
 aphaereses
 aphaeretic
+aphagias
 aphasia
 aphasiac
 aphasias
@@ -2966,6 +2968,7 @@ appalled
 appalling
 appallingly
 appalls
+appaloosa
 appaloosas
 appanage
 apparel
@@ -4783,6 +4786,7 @@ bands
 bandsaws
 bandshells
 bandsmen
+bandstands
 bandwidth
 bandy
 bandying
@@ -7340,6 +7344,7 @@ bounding
 boundlessness
 boundlessnesses
 bounds
+bounteously
 bounteousnesses
 bountied
 bounties
@@ -7827,6 +7832,7 @@ brocket
 brocks
 brogans
 brogueries
+broguery
 brogues
 broguish
 broider
@@ -7850,6 +7856,7 @@ bromated
 bromating
 brome
 bromelain
+bromelains
 bromeliad
 bromelin
 bromes
@@ -10710,6 +10717,7 @@ chipper
 chippered
 chippers
 chippier
+chippiest
 chippy
 chips
 chiralities
@@ -12320,6 +12328,7 @@ colonializing
 colonially
 colonialness
 colonials
+colonic
 colonies
 colonisation
 colonise
@@ -14077,6 +14086,7 @@ counterattack
 counterattacked
 counterattacks
 counterbalance
+counterbalances
 counterbid
 counterbids
 counterblast
@@ -15678,6 +15688,7 @@ daltonism
 daltons
 damageabilities
 damageability
+damager
 damages
 damaging
 damans
@@ -21724,6 +21735,7 @@ equablenesses
 equably
 equal
 equalised
+equalitarian
 equalitarians
 equalities
 equalization
@@ -24360,6 +24372,7 @@ flannelettes
 flannelling
 flannelly
 flap
+flaperon
 flaperons
 flapjack
 flapjacks
@@ -25436,6 +25449,7 @@ fragmenting
 fragmentized
 fragrances
 fragrancy
+frags
 frailer
 frailly
 frails
@@ -25665,6 +25679,7 @@ frissons
 frith
 fritillaria
 fritillary
+frits
 frittata
 fritterer
 fritz
@@ -26435,6 +26450,7 @@ gassier
 gassiest
 gassily
 gassinesses
+gassings
 gassy
 gastight
 gastightnesses
@@ -27152,6 +27168,7 @@ gledes
 gleeful
 gleefulness
 gleefulnesses
+gleek
 gleeked
 gleeks
 gleemen
@@ -27588,6 +27605,7 @@ gorgonizes
 gorgons
 goriest
 gorillas
+gorily
 gorinesses
 gorm
 gormandised
@@ -37273,6 +37291,7 @@ lomeins
 loment
 lomenta
 lomentums
+loneliest
 lonelily
 lonelinesses
 lonesome
@@ -37457,6 +37476,7 @@ lovemakings
 lover
 loves
 lovesick
+lovesickness
 lovesicknesses
 lovingnesses
 lowballed
@@ -37608,6 +37628,7 @@ lunges
 lungfish
 lungfuls
 lungi
+lungis
 lungs
 lungworm
 lungworms
@@ -37858,6 +37879,7 @@ madder
 madders
 maddest
 madeleine
+mademoiselle
 maderize
 madhouses
 madmen
@@ -48126,6 +48148,7 @@ personas
 personate
 personated
 personating
+personations
 personator
 personators
 personhood
@@ -52482,6 +52505,7 @@ purity
 purl
 purled
 purlin
+purline
 purlines
 purling
 purlins
@@ -54243,6 +54267,7 @@ redefinition
 redelivered
 redeliveries
 redelivering
+redemanding
 redemands
 redemption
 redemptions
@@ -55002,6 +55027,7 @@ relacquered
 relapser
 relapsers
 relapses
+relate
 related
 relatedly
 relating
@@ -60741,6 +60767,7 @@ skews
 ski
 skiagraphs
 skiascopies
+skiascopy
 skibob
 skibobber
 skibobbers
@@ -61688,6 +61715,7 @@ softener
 softens
 softest
 softheaded
+softheads
 softies
 software
 softwares
@@ -62112,6 +62140,7 @@ spackles
 spaded
 spadework
 spadeworks
+spadilles
 spading
 spadixes
 spaed
@@ -63872,6 +63901,7 @@ striker
 strikers
 strikes
 striking
+stringcourse
 stringcourses
 stringed
 stringencies
@@ -64465,6 +64495,7 @@ subsolar
 subsonically
 subspace
 subspecialist
+subspecialize
 subspecializes
 subspecializing
 subspecialty
@@ -64670,6 +64701,7 @@ sugarcoat
 sugarcoated
 sugarcoating
 sugarer
+sugarhouse
 sugarier
 sugariest
 sugarlike
@@ -67618,6 +67650,7 @@ titillative
 titivate
 titivated
 titivating
+titivations
 titlark
 titlarks
 titleholder
@@ -73917,6 +73950,7 @@ widowerhood
 widowerhoods
 widowers
 widowhood
+widowing
 widows
 widths
 widthways
@@ -73956,6 +73990,7 @@ wildcatter
 wilded
 wildered
 wilderments
+wilderness
 wilders
 wildfire
 wildflowers
