@@ -1737,6 +1737,7 @@ ambles
 amblygonites
 amboinas
 ambos
+amboynas
 ambroids
 ambrosia
 ambrosias
@@ -7848,6 +7849,7 @@ broodily
 broodiness
 brooding
 broodmares
+brooked
 brookie
 brookies
 brookite
@@ -8280,6 +8282,7 @@ burr
 burrer
 burro
 burrow
+burrowed
 burrower
 burrowers
 burrows
@@ -10140,6 +10143,7 @@ chamfrains
 chamfrons
 chamise
 chamiso
+chammied
 chamois
 chamoised
 champacas
@@ -12000,6 +12004,7 @@ cognation
 cognations
 cognises
 cognitional
+cognitions
 cognizable
 cognizably
 cognizance
@@ -14008,6 +14013,7 @@ counterbid
 counterbids
 counterblast
 counterblasts
+counterblow
 counterblows
 counterchange
 countercharges
@@ -16084,6 +16090,7 @@ declines
 declinists
 declivitous
 deco
+decocting
 decocts
 decoder
 decodes
@@ -21484,6 +21491,7 @@ epidemic
 epidemics
 epidemiologic
 epidemiologies
+epidemiologist
 epidemiologists
 epidemiology
 epidermic
@@ -26750,6 +26758,7 @@ giddy
 giddyap
 giddying
 giddyup
+gie
 gieing
 gies
 gift
@@ -27851,6 +27860,7 @@ greynesses
 gridded
 gridder
 gridders
+griddle
 griddled
 griddling
 griding
@@ -29924,6 +29934,7 @@ hobbits
 hobblebush
 hobbled
 hobbledehoy
+hobblers
 hobby
 hobbyhorse
 hobbyists
@@ -33859,6 +33870,7 @@ isolines
 isomerases
 isomeric
 isomerism
+isomerization
 isomerize
 isomerous
 isometric
@@ -33920,6 +33932,7 @@ italianizes
 italianizing
 italic
 italicised
+italicizations
 italicizes
 itch
 itchiest
@@ -39497,6 +39510,7 @@ mignons
 migraines
 migrant
 migrate
+migrates
 migrational
 migrations
 migs
@@ -40992,6 +41006,7 @@ mothproof
 moths
 motific
 motifs
+motile
 motiles
 motion
 motioned
@@ -41011,6 +41026,7 @@ motliest
 motmots
 motocross
 motoneuron
+motoneurons
 motorbike
 motorbiked
 motorboater
@@ -43525,6 +43541,7 @@ oak
 oakiest
 oaky
 oar
+oarfish
 oarless
 oars
 oasthouses
@@ -44175,6 +44192,7 @@ operative
 operativeness
 operativenesses
 operatives
+operator
 opercula
 opercular
 operculated
@@ -45747,6 +45765,7 @@ oversee
 overseed
 overseeded
 overseeding
+overseeds
 overseeing
 overseen
 overseer
@@ -51108,6 +51127,7 @@ prismoidal
 prisoners
 prissy
 pristane
+pristanes
 pristine
 pristinely
 privatdozent
@@ -52626,6 +52646,7 @@ quiescence
 quiescent
 quiet
 quieteners
+quieter
 quieters
 quietism
 quietistic
@@ -52945,6 +52966,7 @@ railways
 rainbands
 rainbirds
 rainier
+rainiest
 raininess
 rainless
 rainmaker
@@ -53042,6 +53064,7 @@ ranchers
 ranchman
 ranchos
 rancidities
+rancidity
 rancidness
 rancored
 rancour
@@ -53939,6 +53962,7 @@ redescending
 redescribed
 redesign
 redesigned
+redesigns
 redetermination
 redetermine
 redetermined
@@ -54173,6 +54197,7 @@ reexecuted
 reexhibiting
 reexhibits
 reexpelling
+reexperience
 reexperienced
 reexplain
 reexplaining
@@ -54448,6 +54473,7 @@ regroove
 regrooves
 regrooving
 regroups
+regrows
 regrowths
 regular
 regularities
@@ -54999,6 +55025,7 @@ reorientates
 reoriented
 reorients
 reoutfit
+reoutfits
 reoxidation
 reoxidations
 rep
@@ -56456,6 +56483,7 @@ roaches
 roaching
 road
 roadabilities
+roadability
 roadbed
 roadblocked
 roadblocking
@@ -56582,6 +56610,7 @@ rollicked
 rollicking
 rolling
 rollings
+rollmop
 rollouts
 rollover
 rolls
@@ -58610,6 +58639,7 @@ seely
 seem
 seemers
 seemings
+seemlier
 seemliest
 seemlinesses
 seems
@@ -59311,6 +59341,7 @@ shammied
 shamming
 shammos
 shammosim
+shammy
 shamois
 shamos
 shamosim
@@ -63131,6 +63162,7 @@ stipulates
 stipulations
 stipulator
 stipulatory
+stipules
 stir
 stirk
 stirp
@@ -68198,6 +68230,7 @@ tribal
 tribalism
 tribalists
 tribals
+tribe
 tribes
 tribesman
 tribesmen
@@ -71138,6 +71171,7 @@ upstared
 upstart
 upstarting
 upstate
+upstater
 upstepped
 upstir
 upstood
@@ -72593,6 +72627,7 @@ wagging
 waggishnesses
 waggled
 waggles
+waggling
 waggon
 waggoners
 waggoning
