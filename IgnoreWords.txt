@@ -814,6 +814,7 @@ aerobraked
 aerobrakes
 aerodromes
 aeroducts
+aerodynamically
 aerodynes
 aeroelastic
 aeroelasticity
@@ -2530,6 +2531,7 @@ antidogmatic
 antidotal
 antidotes
 antidraft
+antidromic
 antidumping
 antielectron
 antielectrons
@@ -8837,6 +8839,7 @@ calyptras
 calyxes
 calzone
 calzones
+cam
 camailed
 camarillas
 camas
@@ -10037,6 +10040,7 @@ cerements
 ceremonialism
 ceremonialists
 ceremonially
+ceremonies
 ceremoniousness
 ceric
 ceriphs
@@ -13616,6 +13620,7 @@ coproduces
 coproduct
 coproductions
 coproducts
+copromoter
 coprophagies
 coprophagy
 coprophiliac
@@ -16462,6 +16467,7 @@ degauss
 degaussers
 degendered
 degendering
+degeneracies
 degenerate
 degenerating
 degenerative
@@ -18423,6 +18429,7 @@ disloyal
 disloyalty
 dismalest
 dismals
+dismantled
 dismantlements
 dismantles
 dismasting
@@ -21770,6 +21777,7 @@ erecting
 erection
 erective
 erectly
+erects
 eremites
 eremitisms
 eremuruses
@@ -24294,6 +24302,7 @@ flamens
 flameproofed
 flameproofs
 flames
+flamethrower
 flamier
 flamiest
 flamines
@@ -26551,6 +26560,7 @@ gemmed
 gemmier
 gemmily
 gemminess
+gemming
 gemmologies
 gemmology
 gemmule
@@ -28306,6 +28316,7 @@ guinea
 guineas
 guipures
 guiro
+guisard
 guises
 guising
 guitar
@@ -28916,6 +28927,7 @@ hardboots
 hardcase
 hardcores
 hardcourt
+hardedge
 harden
 hardener
 hardeners
@@ -30723,6 +30735,7 @@ humbled
 humbleness
 humblingly
 humbuggeries
+humbuggery
 humbugging
 humdinger
 humdingers
@@ -38599,6 +38612,7 @@ maturates
 maturational
 mature
 maturers
+maturest
 matza
 matzah
 matzo
@@ -40979,6 +40993,7 @@ mopey
 mopier
 mopinesses
 mopish
+mopokes
 moppers
 moppet
 moppets
@@ -42474,6 +42489,7 @@ newt
 newwavers
 nextdoor
 nexuses
+ngultrums
 ngwee
 niacin
 niacinamide
@@ -43103,6 +43119,7 @@ nonmarket
 nonmaterial
 nonmechanical
 nonmedical
+nonmeeting
 nonmembers
 nonmemberships
 nonmen
@@ -44931,6 +44948,7 @@ outdoorsy
 outdragged
 outdragging
 outdrags
+outdrank
 outdraw
 outdrawn
 outdraws
@@ -46852,6 +46870,7 @@ parching
 parchment
 pard
 pardah
+pardonableness
 pardoning
 pards
 pareira
@@ -47579,6 +47598,7 @@ penetrometers
 pengo
 penguin
 penholder
+penial
 penicillate
 penicillin
 penicillinase
@@ -47772,6 +47792,7 @@ peres
 perestroika
 perestroikas
 perfecta
+perfected
 perfecters
 perfectest
 perfectible
@@ -48246,6 +48267,7 @@ phenixes
 phenmetrazines
 phenobarbital
 phenobarbitals
+phenocopy
 phenocryst
 phenol
 phenolated
@@ -48303,6 +48325,7 @@ philologically
 philologists
 philomel
 philomelas
+philosopher
 philosophers
 philosophic
 philosophical
@@ -48858,6 +48881,7 @@ pinafored
 pinafores
 pinang
 pinangs
+pinas
 pinata
 pinballed
 pinballs
@@ -50849,6 +50873,7 @@ prenuptial
 preobtain
 preobtained
 preoccupancy
+preoccupies
 preopening
 preoperative
 preops
@@ -51714,6 +51739,7 @@ prosateur
 prosauropods
 prosciutto
 prosciuttos
+proscribes
 proscribing
 proscriptions
 prose
@@ -53178,6 +53204,7 @@ rallyists
 ralphed
 ramada
 ramate
+rambla
 ramble
 rambled
 rambling
@@ -57482,6 +57509,7 @@ sal
 salaaming
 salaams
 salabilities
+salability
 salable
 salably
 saladangs
@@ -57732,6 +57760,7 @@ santerias
 santero
 santimu
 santir
+santolina
 santolinas
 santols
 santonica
@@ -64308,6 +64337,7 @@ subskill
 subsocial
 subsocieties
 subsociety
+subsoil
 subsoiled
 subsoiler
 subsoiling
@@ -66673,6 +66703,7 @@ tetanizing
 tetchily
 tetchiness
 tether
+tetherball
 tetherballs
 tetotum
 tetrachords
@@ -68666,6 +68697,7 @@ triptan
 triptanes
 triptyca
 triptychs
+trireme
 triremes
 trisaccharide
 trisaccharides
@@ -69408,6 +69440,7 @@ tyrocidines
 tyronic
 tyrosine
 tyrosines
+tythe
 tzardoms
 tzarism
 tzarisms
@@ -71269,6 +71302,7 @@ upbuilds
 upby
 upchucking
 upchucks
+upclimbed
 upclimbing
 upclimbs
 upcountries
@@ -73138,6 +73172,7 @@ waterborne
 waterbus
 watercolorists
 watercooler
+watercourses
 watercraft
 watercrafts
 watercress
