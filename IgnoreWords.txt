@@ -6613,6 +6613,7 @@ blende
 blendes
 blennioid
 blepharoplasty
+blepharospasm
 blepharospasms
 blesbok
 blesbuck
@@ -7795,6 +7796,7 @@ brocades
 brocading
 brocatelles
 brocatels
+broccoli
 broccolis
 brochette
 brochettes
@@ -7933,6 +7935,7 @@ brunch
 bruncher
 brunette
 brunettes
+brunt
 brunts
 brushabilities
 brushability
@@ -13071,6 +13074,7 @@ connoisseur
 connotation
 connotational
 connotations
+connotatively
 connote
 connoted
 connotes
@@ -16333,6 +16337,7 @@ defibrillation
 defibrillations
 defibrillators
 defibrinating
+deficiencies
 deficient
 deficients
 deficit
@@ -25596,12 +25601,14 @@ frized
 frizers
 frizes
 frizettes
+frizz
 frizziest
 frizzing
 frizzle
 frizzles
 frizzlier
 fro
+frocking
 frocks
 frogeyed
 frogfishes
@@ -26539,6 +26546,7 @@ genderizes
 genders
 genealogically
 genealogists
+genealogy
 generalcy
 generalised
 generalises
@@ -28323,6 +28331,7 @@ gumweeds
 gumwoods
 gun
 gunboats
+guncottons
 gunfights
 gunfire
 gunflints
@@ -31318,6 +31327,7 @@ idoliser
 idolises
 idolization
 idolize
+idolized
 idolizes
 idolizing
 idoneous
@@ -32687,6 +32697,7 @@ inherences
 inhering
 inherit
 inheritableness
+inheritances
 inherited
 inheritor
 inheritors
@@ -35709,6 +35720,7 @@ langbeinite
 langlaufers
 langley
 langouste
+langoustine
 langoustines
 langrage
 langrels
@@ -39620,6 +39632,7 @@ miliary
 milieu
 milieux
 militance
+militances
 militants
 militaria
 militarily
@@ -40112,6 +40125,7 @@ misfocusing
 misfocussed
 misfocusses
 misfocussing
+misformed
 misforms
 misfortunes
 misframe
@@ -41096,6 +41110,7 @@ motivators
 motive
 motivelessly
 motivity
+motley
 motleyest
 motlier
 motliest
@@ -41200,6 +41215,7 @@ mouthpiece
 mouthwash
 mouthwateringly
 mouthy
+mouton
 moutons
 movabilities
 movable
@@ -41233,6 +41249,7 @@ mucilage
 mucilaginous
 mucilaginously
 mucin
+muck
 muckamucks
 muckier
 mucking
@@ -41729,6 +41746,7 @@ myope
 myopically
 myoses
 myositis
+myositises
 myosote
 myosotes
 myosotises
@@ -44809,6 +44827,7 @@ outcatches
 outcatching
 outcaught
 outcavil
+outcaviled
 outcaviling
 outcavilling
 outcavils
@@ -45976,6 +45995,7 @@ overurges
 overuse
 overusing
 overutilizing
+overvaluations
 overvoltages
 overvote
 overvoted
@@ -50723,6 +50743,7 @@ prematurenesses
 premaxillae
 premaxillaries
 premaxillary
+premeasuring
 premed
 premedieval
 premeditated
@@ -51563,6 +51584,7 @@ propers
 prophages
 prophase
 prophasic
+prophecy
 prophesied
 prophesiers
 prophesy
@@ -53233,6 +53255,7 @@ rareness
 rarer
 rareripes
 rares
+rarify
 rarities
 rasbora
 rasboras
@@ -56575,6 +56598,7 @@ riveter
 riveting
 rivetted
 rivieras
+riviere
 riving
 rivulets
 roached
@@ -59766,6 +59790,7 @@ shivas
 shivered
 shiverer
 shivers
+shives
 shivitis
 shlemiels
 shlepp
@@ -61380,6 +61405,7 @@ soberness
 sobernesses
 sobersided
 sobersidedness
+sobful
 sobrieties
 sobriquets
 sobs
@@ -61916,6 +61942,7 @@ spanning
 spanokopita
 spanokopitas
 spans
+spansules
 spanworms
 spar
 sparable
@@ -62329,6 +62356,7 @@ spline
 splined
 splines
 splining
+splints
 splitters
 splitting
 splodged
@@ -63893,6 +63921,7 @@ subclans
 subclass
 subclassed
 subclassify
+subclassifying
 subclause
 subclavians
 subclerk
@@ -65589,6 +65618,7 @@ tack
 tacker
 tackers
 tackets
+tackier
 tackifies
 tackily
 tacking
@@ -65825,6 +65855,7 @@ tannable
 tannages
 tanned
 tanners
+tannest
 tannin
 tanning
 tannins
@@ -68114,6 +68145,7 @@ transmutative
 transmuting
 transnational
 transnatural
+transoceanic
 transom
 transonic
 transparence
@@ -71101,6 +71133,7 @@ unwaveringly
 unwaxed
 unweaned
 unweary
+unweathered
 unweave
 unweaves
 unweaving
@@ -71555,6 +71588,7 @@ valeted
 valeting
 valetudinarian
 valetudinaries
+valetudinary
 valgoid
 valiances
 valiancy
@@ -73760,6 +73794,7 @@ windproof
 windrowed
 windrower
 windrowers
+windrowing
 windrows
 windscreen
 windscreens
