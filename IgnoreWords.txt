@@ -8900,6 +8900,7 @@ cancerous
 cancha
 cancroid
 cancroids
+candela
 candelabra
 candelabras
 candelabrum
@@ -9600,6 +9601,7 @@ catarrhs
 catastrophe
 catastrophes
 catastrophisms
+catatonically
 catboats
 catbrier
 catcall
@@ -11544,6 +11546,7 @@ clostridial
 closure
 closures
 clot
+cloth
 clothbound
 clothe
 clotheshorses
@@ -14745,6 +14748,7 @@ crouch
 crouching
 croup
 croupe
+croupous
 croupy
 crousely
 croutes
@@ -16354,6 +16358,7 @@ deforestation
 deforested
 deforesting
 deforests
+deformable
 deformalizes
 deformation
 deformational
@@ -17906,6 +17911,7 @@ dipterocarp
 dipteron
 diptyca
 diptycas
+diptychs
 diquats
 diram
 directedness
@@ -22260,6 +22266,7 @@ ewe
 ewes
 exacerbate
 exacerbated
+exacerbates
 exactable
 exactas
 exacter
@@ -22940,6 +22947,7 @@ fabricates
 fabrics
 fabulates
 fabulating
+fabulists
 fabulously
 fabulousness
 faceable
@@ -24394,6 +24402,7 @@ flics
 flied
 flies
 flight
+flightily
 flights
 flighty
 flimflammer
@@ -25686,6 +25695,7 @@ fugled
 fuglemen
 fugles
 fugu
+fuguing
 fuguists
 fulcrums
 fulfil
@@ -28382,6 +28392,7 @@ gyron
 gyrons
 gyropilot
 gyroplane
+gyroplanes
 gyroscope
 gyroscopically
 gyrostabilizer
@@ -30250,6 +30261,7 @@ hoodwinker
 hoodwinkers
 hoodwinking
 hooey
+hooeys
 hoof
 hoofbeat
 hoofbeats
@@ -30859,6 +30871,7 @@ hygeist
 hygieist
 hygienic
 hygienically
+hygrograph
 hygrometer
 hygrometers
 hygrometric
@@ -34493,6 +34506,7 @@ jumpiness
 jumping
 jumpingly
 jumps
+jun
 juncoes
 junctional
 junctions
@@ -40885,6 +40899,7 @@ morphing
 morphinic
 morphinisms
 morphins
+morphogen
 morphogenetic
 morphogenic
 morphogens
@@ -43291,6 +43306,7 @@ notochordal
 notoriety
 notwithstanding
 nought
+noughts
 noumenon
 nounal
 nounless
@@ -43690,6 +43706,7 @@ obviated
 obviates
 obviating
 obviations
+obviator
 obviators
 obviousnesses
 obvolute
@@ -46467,6 +46484,7 @@ paperhangings
 papering
 papers
 paperweight
+paperweights
 paperwork
 paperworks
 papeterie
@@ -46745,6 +46763,7 @@ paroled
 paroling
 parols
 paronomasia
+paronymic
 paronymous
 paroquet
 paroquets
@@ -47338,6 +47357,7 @@ peltation
 pelted
 peltered
 peltless
+pelvic
 pelycosaur
 pelycosaurs
 pemmican
@@ -47811,6 +47831,7 @@ personae
 personage
 personalise
 personalities
+personalize
 personalizes
 personally
 personalties
@@ -53608,6 +53629,7 @@ reciprocally
 reciprocating
 reciprocators
 reciprocities
+reciprocity
 recircle
 recirculated
 recirculating
@@ -54657,6 +54679,7 @@ relating
 relational
 relationships
 relatives
+relativisms
 relativists
 relativity
 relativized
@@ -54907,6 +54930,7 @@ reneger
 renegers
 reneges
 renegotiable
+renegotiate
 renegotiations
 renests
 renew
@@ -58633,6 +58657,7 @@ seismical
 seismism
 seismogram
 seismographic
+seismographies
 seismographs
 seismological
 seismologist
@@ -58838,6 +58863,7 @@ senecios
 senescent
 sengi
 senhor
+senhoras
 senhorita
 senhoritas
 senile
@@ -60052,6 +60078,7 @@ siliciums
 silicle
 silicone
 siliconized
+silicoses
 silicotic
 siliculae
 siliqua
@@ -62482,6 +62509,7 @@ squiggling
 squilgeeing
 squillae
 squinched
+squinches
 squinching
 squinnied
 squinnier
@@ -64407,6 +64435,7 @@ sunburns
 sunburst
 sundecks
 sunderer
+sunderers
 sundew
 sundews
 sundial
@@ -65596,6 +65625,7 @@ tamis
 tammie
 tammy
 tampalas
+tamped
 tamper
 tampered
 tampering
@@ -67383,6 +67413,7 @@ tonier
 tonishly
 tonnage
 tonneau
+tonner
 tonnish
 tonometer
 tonometers
@@ -68915,6 +68946,7 @@ tussled
 tussling
 tussocks
 tussor
+tussuck
 tussucks
 tussur
 tutelages
@@ -69067,6 +69099,7 @@ typesets
 typesetting
 typesettings
 typestyles
+typewrite
 typewriter
 typewritten
 typey
@@ -73709,6 +73742,7 @@ withers
 withes
 withholder
 withiest
+within
 withindoors
 withing
 withins
@@ -74571,6 +74605,7 @@ zonetimes
 zonked
 zonks
 zonula
+zonules
 zoochore
 zoochores
 zoogeny
