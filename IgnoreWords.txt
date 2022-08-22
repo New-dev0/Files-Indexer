@@ -1665,6 +1665,7 @@ am
 amadavats
 amadous
 amah
+amahs
 amain
 amalgam
 amalgamate
@@ -8618,6 +8619,7 @@ caissons
 caitiff
 cajeput
 cajoled
+cajolement
 cajoleries
 cajoles
 cajones
@@ -8946,6 +8948,7 @@ canned
 cannel
 cannelloni
 cannelon
+cannels
 canneries
 cannibalisms
 cannibalistic
@@ -10587,6 +10590,7 @@ chimb
 chimbley
 chimbleys
 chimblies
+chimbs
 chime
 chimera
 chimeras
@@ -11747,6 +11751,7 @@ coccids
 coccoid
 coccoids
 coccolith
+coccus
 cochair
 cochairman
 cochairperson
@@ -11755,6 +11760,7 @@ cochairs
 cochairwoman
 cochineal
 cochlea
+cochlear
 cochleas
 cochleate
 cocineras
@@ -11872,6 +11878,7 @@ codirection
 codirects
 codiscover
 codiscoverer
+codiscoverers
 codlings
 codominant
 codon
@@ -14247,6 +14254,7 @@ crabapple
 crabbed
 crabbedly
 crabbednesses
+crabbers
 crabbing
 crabgrasses
 crablike
@@ -14841,6 +14849,7 @@ cryophyte
 cryopreserve
 cryoprobes
 cryoprotectant
+cryoscope
 cryoscopes
 cryoscopy
 cryostats
@@ -15764,6 +15773,7 @@ daylight
 daylighted
 daylighting
 daylightings
+daylights
 daylilies
 daylit
 daymare
@@ -16169,6 +16179,7 @@ deedy
 deejaying
 deejays
 deem
+deemster
 deemsters
 deepening
 deepest
@@ -18882,6 +18893,7 @@ dolomitization
 dolomitizations
 dolomitized
 dolomitizes
+dolor
 doloroso
 dolorous
 dolors
@@ -23320,6 +23332,7 @@ fauvist
 faux
 fava
 favas
+fave
 favelas
 favorably
 favored
@@ -23499,6 +23512,7 @@ fencerow
 fences
 fencible
 fencings
+fended
 fender
 fendered
 fenderless
@@ -27164,6 +27178,7 @@ gnash
 gnashes
 gnat
 gnatcatchers
+gnathal
 gnathic
 gnathions
 gnathite
@@ -29801,6 +29816,7 @@ hissies
 hissiest
 hissing
 hissy
+histamine
 histamines
 histamins
 histidine
@@ -33364,6 +33380,7 @@ intriguants
 intriguer
 intriguingly
 intrinsical
+intrinsically
 introductorily
 introfying
 introgressants
@@ -34083,6 +34100,7 @@ jealously
 jealousness
 jealousy
 jee
+jeed
 jeeps
 jeer
 jeered
@@ -39677,6 +39695,7 @@ minoxidils
 minster
 minstrels
 minstrelsy
+mintage
 mintages
 minters
 mintier
@@ -40275,6 +40294,7 @@ mizzenmasts
 mizzle
 mizzling
 mizzly
+moaned
 moaner
 moaners
 moaning
@@ -40794,6 +40814,7 @@ morenesses
 moreover
 moresques
 morganites
+morgens
 morgue
 moribund
 moribundity
@@ -43445,6 +43466,7 @@ oarless
 oars
 oasthouses
 oatcake
+oatcakes
 oath
 oaves
 obconic
@@ -44166,6 +44188,7 @@ optics
 optima
 optimal
 optimalities
+optime
 optimised
 optimises
 optimisms
@@ -44613,6 +44636,7 @@ outbulge
 outbulges
 outbullying
 outburn
+outburned
 outbuying
 outbye
 outcapering
@@ -44620,6 +44644,7 @@ outcastes
 outcatches
 outcatching
 outcaught
+outcavil
 outcaviling
 outcavilling
 outcavils
@@ -49332,6 +49357,7 @@ poisoning
 poisonous
 poisons
 poisonwoods
+pokable
 poke
 pokeberry
 poked
@@ -49735,6 +49761,7 @@ portages
 portals
 portamenti
 portance
+portapak
 portapaks
 portative
 portcullis
@@ -56119,6 +56146,7 @@ ricksha
 rickshas
 rickshaw
 rickshaws
+ricocheting
 ricotta
 ricracs
 rictus
@@ -58743,6 +58771,7 @@ senarius
 senatorship
 senatorships
 sendable
+sended
 sendoffs
 sendups
 sene
@@ -60531,6 +60560,7 @@ slenderizes
 slenderly
 slenderness
 slendernesses
+sleuthhounds
 slice
 slicers
 slick
@@ -63669,6 +63699,7 @@ subculturing
 subcutis
 subcutises
 subdeacon
+subdeans
 subdebs
 subdecision
 subdecisions
@@ -65817,6 +65848,7 @@ teawares
 teazelling
 teazle
 teazled
+teazles
 teazling
 teched
 techies
@@ -65861,6 +65893,7 @@ teenager
 teenagers
 teener
 teentsier
+teenyboppers
 tees
 teeterboards
 teetering
@@ -66727,6 +66760,7 @@ thromboembolic
 thromboembolism
 thromboplastic
 thromboplastins
+thromboses
 thrombosis
 thromboxane
 thromboxanes
@@ -70309,6 +70343,7 @@ unmovable
 unmoved
 unmown
 unmuffle
+unmuffled
 unmuffling
 unmuzzles
 unnails
