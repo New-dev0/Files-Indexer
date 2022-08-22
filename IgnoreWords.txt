@@ -990,6 +990,7 @@ agave
 agaves
 agaze
 aged
+agedly
 ageisms
 ageist
 ageists
@@ -2358,6 +2359,7 @@ anorexia
 anorexies
 anorexy
 anorthic
+anorthitic
 anorthosites
 anosmias
 anosmic
@@ -6078,6 +6080,7 @@ billboarded
 billboarding
 billbugs
 billers
+billeted
 billeter
 billeters
 billets
@@ -10014,6 +10017,7 @@ cervelases
 cervelats
 cerveza
 cervices
+cervicitis
 cervicitises
 cervid
 cervix
@@ -14086,6 +14090,7 @@ countryman
 countrysides
 countrywoman
 countrywomen
+counts
 coup
 coupe
 coupes
@@ -19439,6 +19444,7 @@ droids
 droller
 drollery
 drolling
+drollness
 dromon
 drone
 droned
@@ -19544,6 +19550,7 @@ dryable
 dryad
 dryades
 dryadic
+dryasdust
 dryasdusts
 drying
 dryish
@@ -23597,6 +23604,7 @@ fests
 fetal
 fetas
 fetched
+fetching
 feted
 fetial
 fetiales
@@ -28610,6 +28618,7 @@ handbasket
 handbaskets
 handbill
 handbreadths
+handcart
 handclaps
 handcrafting
 handcuffs
@@ -28654,6 +28663,7 @@ handsewn
 handsful
 handshake
 handshakes
+handsome
 handsomely
 handsomeness
 handsomenesses
@@ -29695,6 +29705,7 @@ highlander
 highlands
 highlighting
 highroad
+hightailed
 hightailing
 highths
 highting
@@ -31166,6 +31177,7 @@ idolators
 idolatries
 idolatrousness
 idolise
+idolised
 idoliser
 idolises
 idolization
@@ -31773,6 +31785,7 @@ inalterableness
 inalterably
 inamorato
 inanely
+inaneness
 inaner
 inanes
 inanimatenesses
@@ -34441,6 +34454,7 @@ junkers
 junketeer
 junketeered
 junketeering
+junketers
 junkier
 junkies
 junkmen
@@ -35515,6 +35529,7 @@ landholders
 landings
 landladies
 landlady
+landlers
 landlessnesses
 landlocked
 landloper
@@ -36635,6 +36650,7 @@ liripipes
 liroth
 lis
 lisente
+lisle
 lisp
 lisper
 lisps
@@ -37041,6 +37057,7 @@ looting
 loots
 lop
 lope
+lopes
 lophophores
 loping
 lopped
@@ -38722,6 +38739,7 @@ melodramatising
 melodramatist
 melodramatizes
 meloid
+meloids
 melon
 melongene
 melons
@@ -40927,6 +40945,7 @@ motordoms
 motored
 motorically
 motorising
+motorists
 motorization
 motorizations
 motorize
@@ -43601,6 +43620,7 @@ obviable
 obviated
 obviates
 obviating
+obviations
 obviators
 obviousnesses
 obvolute
@@ -43909,6 +43929,7 @@ omegas
 omelet
 omelets
 omelettes
+omened
 omenta
 omental
 omicrons
@@ -45532,6 +45553,7 @@ overnew
 overnight
 overnighter
 overnighting
+overnutrition
 overoperate
 overoperated
 overopinionated
@@ -46186,6 +46208,7 @@ paloverde
 paloverdes
 palpability
 palpably
+palpate
 palpation
 palpator
 palpators
@@ -46705,6 +46728,7 @@ participating
 participation
 participations
 participator
+participators
 participatory
 participial
 participially
@@ -48279,6 +48303,7 @@ phyllo
 phylloclades
 phyllodes
 phyllodium
+phylloid
 phylloids
 phyllome
 phyllomes
@@ -49777,6 +49802,7 @@ possessors
 possets
 possibilities
 possibility
+possiblest
 possibly
 post
 postabortion
@@ -51296,6 +51322,7 @@ pronuclear
 pronuclei
 pronunciation
 proof
+proofreaders
 proofreading
 proofreads
 proofroom
@@ -57498,6 +57525,7 @@ sassiest
 sassinesses
 sassy
 sassywood
+sastruga
 satang
 satangs
 satanical
@@ -60326,6 +60354,7 @@ sklenting
 sklents
 skoal
 skoals
+skort
 skreeghs
 skreighed
 skulk
@@ -65379,6 +65408,7 @@ taker
 takers
 takes
 takeup
+takin
 talar
 talced
 talcing
@@ -65446,6 +65476,7 @@ tamarind
 tamarinds
 tamarisk
 tamarisks
+tamashas
 tambala
 tambalas
 tambour
@@ -67567,6 +67598,7 @@ traced
 tracheae
 tracheary
 tracheated
+tracheids
 tracheitis
 tracheostomies
 tracheotomies
@@ -68816,6 +68848,7 @@ twangle
 twanglers
 twangling
 twangy
+twankies
 twasome
 twattle
 tweak
@@ -69168,6 +69201,7 @@ unaccountable
 unaccountably
 unaccounted
 unaccrued
+unaccustomedly
 unacerbic
 unacknowledged
 unactorish
@@ -72059,6 +72093,7 @@ visitation
 visited
 visiter
 visiting
+visor
 visored
 visorless
 vista
