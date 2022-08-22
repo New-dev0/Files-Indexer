@@ -1,0 +1,9 @@
+mozilla-central: toolkit/components/extensions ... - Mercurial,https://hg.mozilla.org/mozilla-central/file/tip/toolkit/components/extensions/extensions-toolkit.manifest
+mozilla-central: browser/components/extensions ... - Mercurial,https://hg.mozilla.org/mozilla-central/file/tip/browser/components/extensions/extensions-browser.manifest
+extensions-browser.manifest - mozsearch - Searchfox,https://searchfox.org/mozilla-central/source/browser/components/extensions/extensions-browser.manifest
+Dapplo.Microsoft.Extensions.Hosting/application.manifest at master ...,https://github.com/dapplo/Dapplo.Microsoft.Extensions.Hosting/blob/master/samples/Dapplo.Hosting.Sample.MetroDemo/application.manifest
+newtab-dev/extensions.manifest at master - GitHub,https://github.com/mozilla/newtab-dev/blob/master/toolkit/mozapps/extensions/extensions.manifest
+toolkit/mozapps/extensions/extensions.manifest - Firefox - Fossies,https://fossies.org/linux/firefox/toolkit/mozapps/extensions/extensions.manifest
+/usr/lib/thunderbird-addons/extensions/{e2fda1a4 ... - APT Browse,https://www.apt-browse.org/browse/ubuntu/trusty/universe/amd64/xul-ext-lightning/1:24.4.0%2Bbuild1-0ubuntu1/file/usr/lib/thunderbird-addons/extensions/%257Be2fda1a4-762b-4020-b5ad-a41df1933103%257D/chrome.manifest
+/usr/lib/thunderbird-addons/extensions/{e2fda1a4 ... - APT Browse,https://www.apt-browse.org/browse/ubuntu/trusty/universe/amd64/xul-ext-lightning/1:24.4.0%2Bbuild1-0ubuntu1/file/usr/lib/thunderbird-addons/extensions/%257Be2fda1a4-762b-4020-b5ad-a41df1933103%257D/components/calWcapCalendarModule.manifest
+customProfileDirCUSTFF.extensions.readystate@openqa.org ...,https://jar-download.com/artifacts/org.seleniumhq.selenium.server/selenium-server-coreless/1.0.1/source-code/customProfileDirCUSTFF/extensions/readystate%40openqa.org/chrome.manifest
