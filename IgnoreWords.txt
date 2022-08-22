@@ -3814,6 +3814,7 @@ asyndetons
 atabal
 atabrine
 atactic
+ataghan
 ataghans
 atamans
 ataps
@@ -6680,6 +6681,7 @@ bloodied
 bloodies
 bloodiest
 bloodily
+bloodiness
 bloodings
 bloodlessness
 bloodletting
@@ -9215,6 +9217,7 @@ carbohydrate
 carbolics
 carbolized
 carbolizing
+carbon
 carbonadoes
 carbonados
 carbonaras
@@ -10110,6 +10113,7 @@ chalazions
 chalcedonies
 chalcedony
 chalcocite
+chalcogen
 chalcogenides
 chalcogens
 chaldrons
@@ -13815,6 +13819,7 @@ correspondency
 correspondent
 corresponding
 corresponsive
+corrida
 corridas
 corridor
 corrie
@@ -14947,6 +14952,7 @@ cubed
 cubical
 cubically
 cubicities
+cubicity
 cubics
 cubiform
 cubing
@@ -15588,6 +15594,7 @@ daisied
 daisies
 dakoities
 dakoits
+dakoity
 dal
 dalapons
 dalasi
@@ -17272,6 +17279,7 @@ detribalized
 detribalizes
 detriment
 detrimentals
+detriments
 detritions
 detritus
 detrusions
@@ -18499,6 +18507,7 @@ disrelish
 disrelished
 disrelishes
 disremembered
+disreputability
 disrepute
 disreputes
 disrespectfully
@@ -21352,6 +21361,7 @@ entreats
 entrechat
 entrecotes
 entree
+entremets
 entrench
 entrenched
 entrenching
@@ -23444,6 +23454,7 @@ fecklessness
 fecks
 fecula
 fecund
+fecundate
 fecundations
 fed
 fedayee
@@ -29296,6 +29307,7 @@ hegumeny
 heh
 heifers
 height
+heightening
 heightens
 heiled
 heinie
@@ -29529,6 +29541,7 @@ herby
 herculean
 hercules
 herd
+herders
 herdic
 herdlike
 herdmen
@@ -29893,6 +29906,7 @@ histiocytes
 histochemically
 histochemistry
 histogeneses
+histogenesis
 histogenetic
 histoid
 histologically
@@ -35149,6 +35163,7 @@ klutz
 klutziest
 klutzinesses
 klystrons
+knacked
 knacker
 knackery
 knacking
@@ -35371,6 +35386,7 @@ lab
 labanotations
 labarums
 labdanum
+labeled
 labelers
 labella
 labelled
@@ -37163,6 +37179,7 @@ lopes
 lophophores
 loping
 lopped
+lopper
 loppering
 loppers
 loppier
@@ -38175,6 +38192,7 @@ marbleized
 marbleizes
 marbleizing
 marblers
+marbles
 marbling
 marbly
 marcasites
@@ -39680,6 +39698,7 @@ mimetites
 mimic
 mimical
 mimicked
+mimickers
 mimicking
 mimicry
 mimics
@@ -43507,6 +43526,7 @@ nutcase
 nutcracker
 nutcrackers
 nutgall
+nuthouse
 nutlet
 nutlets
 nutmeat
@@ -47059,6 +47079,7 @@ patinas
 patinated
 patinations
 patine
+patined
 patining
 patinized
 patins
@@ -48364,6 +48385,7 @@ photoperiodisms
 photoperiods
 photophases
 photophobic
+photophore
 photophores
 photoplay
 photopolymers
@@ -56075,6 +56097,7 @@ revolute
 revolutionaries
 revolutionised
 revolutionises
+revolvable
 revolve
 revolved
 revolver
@@ -58707,6 +58730,7 @@ seise
 seised
 seisers
 seises
+seisin
 seisings
 seisins
 seism
@@ -62000,6 +62024,7 @@ speisses
 spelaean
 spelean
 speleological
+speleologies
 speleologist
 spellbind
 spellbinds
@@ -63586,6 +63611,7 @@ stripteasers
 stripy
 strive
 striven
+strivers
 striving
 strobe
 strobes
@@ -63651,6 +63677,7 @@ strychnic
 stubbier
 stubbiest
 stubbing
+stubble
 stubblier
 stubborn
 stubborner
@@ -63681,6 +63708,7 @@ stuffing
 stuiver
 stuivers
 stulls
+stultifies
 stumbled
 stumbling
 stumblingly
@@ -64812,6 +64840,7 @@ supplementary
 supplementation
 supplemented
 supplenesses
+supplest
 suppletions
 suppletory
 suppliantly
@@ -64867,6 +64896,7 @@ surenesses
 surer
 sureties
 surety
+suretyship
 suretyships
 surfacers
 surfaces
@@ -65548,6 +65578,7 @@ tahinis
 tahrs
 tahsildar
 taiga
+taigas
 taiglach
 tail
 tailbacks
@@ -68264,6 +68295,7 @@ tribes
 tribesman
 tribesmen
 triboelectric
+tribologies
 tribologists
 tribology
 tribrach
@@ -69376,6 +69408,7 @@ umps
 umpteenth
 umteenth
 unabashed
+unabashedly
 unabated
 unabating
 unabiding
@@ -72327,6 +72360,7 @@ vitellins
 vitelluses
 vitiate
 vitiates
+vitiating
 vitiations
 vitiator
 viticulturally
@@ -73827,6 +73861,7 @@ witnessing
 witney
 witneys
 wits
+witted
 wittiest
 wittily
 wittiness
