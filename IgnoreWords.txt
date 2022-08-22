@@ -4809,6 +4809,7 @@ bannering
 bannerols
 bannets
 bannister
+bannock
 bannocks
 banns
 banqueters
@@ -11428,6 +11429,7 @@ cleped
 clepes
 cleping
 clepsydra
+clept
 clergymen
 clergywoman
 clergywomen
@@ -14026,6 +14028,7 @@ counteracting
 counteractions
 counterargue
 counterargues
+counterarguing
 counterattack
 counterattacked
 counterattacks
@@ -14953,6 +14956,7 @@ cubage
 cubanelle
 cubanelles
 cubature
+cubbies
 cubbyhole
 cube
 cubeb
@@ -21685,6 +21689,7 @@ equilibristic
 equilibrium
 equilibriums
 equines
+equinities
 equinoctial
 equinox
 equinoxes
@@ -21724,6 +21729,7 @@ eradication
 eradicator
 eradicators
 erasabilities
+erasability
 erase
 erasers
 erasion
@@ -24463,6 +24469,7 @@ flimsinesses
 flimsy
 fling
 flinging
+flinkites
 flinted
 flintheads
 flintier
@@ -24526,6 +24533,7 @@ floodplain
 floodtides
 floor
 floorage
+floorcloth
 floorcloths
 floored
 flooring
@@ -25674,6 +25682,7 @@ frugs
 fruitage
 fruitages
 fruited
+fruiter
 fruiters
 fruitful
 fruitfuller
@@ -26773,6 +26782,7 @@ ghoulishness
 ghoulishnesses
 ghouls
 ghyll
+giant
 giantess
 giantesses
 giantism
@@ -27168,6 +27178,7 @@ glossiest
 glossinas
 glossiness
 glossitis
+glossographer
 glossolalia
 glossolalias
 glossolalist
@@ -27605,6 +27616,7 @@ graffitists
 graffito
 graftage
 graftages
+grafted
 grafting
 graham
 grahams
@@ -29350,6 +29362,7 @@ helicons
 helicopted
 helicoptered
 helicopts
+helilifting
 heliolatries
 heliometrically
 helios
@@ -30147,6 +30160,7 @@ homeopathies
 homeopathy
 homeostatic
 homeotherm
+homeothermies
 homeothermy
 homeotic
 homeplaces
@@ -30852,6 +30866,7 @@ hydride
 hydrilla
 hydrillas
 hydrocarbons
+hydroceles
 hydrocephalus
 hydrocephaluses
 hydrocracked
@@ -31869,6 +31884,7 @@ impugn
 impugned
 impugning
 impuissant
+impulse
 impulsed
 impulsion
 impulsive
@@ -31930,6 +31946,7 @@ inarched
 inarguable
 inarguably
 inarmed
+inarming
 inarms
 inarticulacy
 inarticulately
@@ -33620,6 +33637,7 @@ invincibly
 inviolability
 inviolable
 inviolably
+inviolateness
 invirile
 inviscid
 invisibilities
@@ -37710,6 +37728,7 @@ madrepore
 madreporian
 madreporite
 madrigal
+madrigalian
 madrilene
 madronas
 madronos
@@ -43142,6 +43161,7 @@ nonresponse
 nonrestrictive
 nonretractile
 nonretroactive
+nonrioters
 nonrival
 nonrubber
 nonruminant
@@ -44317,6 +44337,7 @@ oppugning
 ops
 opsin
 opsins
+opsonified
 opsonin
 opsonins
 opsonized
@@ -44654,6 +44675,7 @@ osteosarcomas
 osteosarcomata
 osteoses
 osteotomies
+ostiary
 ostinati
 ostlers
 ostomate
@@ -46906,6 +46928,7 @@ participially
 particular
 particularise
 particularised
+particularising
 particularists
 particularities
 particularizes
@@ -50534,6 +50557,7 @@ predomination
 predraft
 predried
 predrill
+predynastic
 preed
 preedit
 preedited
@@ -52630,6 +52654,7 @@ quassin
 quatercentenary
 quaternaries
 quaternary
+quaternities
 quaternity
 quatre
 quatrefoil
@@ -54603,6 +54628,7 @@ rehypnotized
 rehypnotizes
 rehypnotizing
 reichsmark
+reichsmarks
 reidentifies
 reif
 reifications
@@ -63036,6 +63062,7 @@ stemmata
 stemmatic
 stemmer
 stemmery
+stemmiest
 stemming
 stemmy
 stems
@@ -63749,6 +63776,7 @@ stumpiest
 stumpy
 stun
 stunk
+stunned
 stunner
 stunsails
 stuntednesses
@@ -64165,6 +64193,7 @@ subsequents
 subsere
 subseres
 subserved
+subserves
 subserviency
 subservient
 subshaft
@@ -64619,6 +64648,7 @@ superambitious
 superannuate
 superannuates
 superannuation
+superathlete
 superathletes
 superbank
 superbest
@@ -65881,6 +65911,7 @@ tarradiddle
 tarragon
 tarragons
 tarried
+tarrier
 tarriers
 tarries
 tarriest
@@ -66313,6 +66344,7 @@ tendinous
 tendon
 tendonitis
 tendresse
+tendril
 tendrilled
 tendrilous
 tendu
@@ -73173,6 +73205,7 @@ webpage
 webpages
 webs
 website
+websters
 webwork
 webworm
 webworms
@@ -74192,6 +74225,7 @@ wrecking
 wreckings
 wrens
 wrested
+wresting
 wrestle
 wrestled
 wrestler
@@ -74480,6 +74514,7 @@ yielding
 yields
 yikes
 yill
+yills
 yipes
 yipped
 yippee
