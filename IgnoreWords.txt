@@ -2646,6 +2646,7 @@ antiphonal
 antiphonals
 antiphonaries
 antiphons
+antipiracy
 antiplague
 antiplaque
 antipoaching
@@ -3902,6 +3903,7 @@ atrial
 atrociously
 atrociousnesses
 atrocity
+atrophia
 atrophied
 atropisms
 attaboy
@@ -5733,6 +5735,7 @@ bepaints
 bepimple
 bepimpled
 bepimples
+bequeathal
 bequeaths
 bequests
 berascals
@@ -10539,6 +10542,7 @@ chevalets
 chevelures
 cheviot
 chevre
+chevres
 chevy
 chevying
 chewier
@@ -11993,6 +11997,7 @@ coexisted
 coexistent
 coexisting
 coextends
+cofactor
 cofactors
 cofavorite
 cofeaturing
@@ -18461,6 +18466,7 @@ dispatch
 dispatchers
 dispel
 dispensaries
+dispensary
 dispensational
 dispensations
 dispensatory
@@ -18763,6 +18769,7 @@ diversely
 diversenesses
 diversifiers
 diversifies
+diversify
 diversifying
 diversionary
 diversionists
@@ -21504,6 +21511,7 @@ ephedras
 ephedrines
 ephemerae
 ephemeralities
+ephemerally
 ephemeras
 ephemeris
 ephorates
@@ -24745,6 +24753,7 @@ flyaways
 flybelt
 flybelts
 flyblew
+flyblowing
 flyblown
 flyboats
 flyboy
@@ -25618,6 +25627,7 @@ frizers
 frizes
 frizettes
 frizz
+frizzed
 frizziest
 frizzing
 frizzle
@@ -27632,6 +27642,7 @@ graduated
 graduating
 graduation
 graduations
+graduators
 gradus
 graduses
 graecized
@@ -30256,6 +30267,7 @@ homological
 homologies
 homologize
 homologized
+homologizer
 homologizes
 homologizing
 homologs
@@ -32381,6 +32393,7 @@ individuations
 indivisible
 indocilities
 indoctrination
+indoctrinations
 indolences
 indolently
 indoles
@@ -36393,6 +36406,7 @@ leveled
 leveler
 leveling
 levelled
+leveller
 levellers
 levelling
 levelnesses
@@ -37657,6 +37671,7 @@ lysosome
 lyssa
 lyssas
 lytically
+lytta
 lyttae
 lyttas
 ma
@@ -39784,6 +39799,7 @@ minacity
 minatory
 minaudieres
 minced
+mincemeats
 minces
 mincier
 minciest
@@ -39818,6 +39834,7 @@ minesweepings
 mingier
 mingiest
 mingle
+mingled
 mingler
 minglers
 miniaturists
@@ -41486,6 +41503,7 @@ multiversity
 multivitamins
 multivoltine
 multiwall
+multure
 multures
 mumble
 mumbled
@@ -41741,6 +41759,7 @@ mydriatic
 myelin
 myeline
 myelofibroses
+myelofibrosis
 myelogenous
 myeloid
 myeloma
@@ -47294,6 +47313,7 @@ peacekeepers
 peacekeepings
 peacemaker
 peacemaking
+peacenik
 peacetime
 peachblow
 peached
@@ -47926,6 +47946,7 @@ perovskite
 perovskites
 peroxidase
 peroxided
+peroxisomal
 peroxisome
 peroxisomes
 peroxy
@@ -49751,6 +49772,7 @@ polygraphic
 polygraphing
 polygynies
 polygynous
+polyhedrons
 polyhedroses
 polyhistor
 polyimides
@@ -50585,6 +50607,7 @@ predicaments
 predicate
 predicates
 predicative
+predictability
 predictable
 predictably
 predicted
@@ -53083,6 +53106,7 @@ rage
 raggedier
 raggedly
 raggies
+raggle
 raggy
 ragi
 ragis
@@ -53382,6 +53406,7 @@ rattletrap
 rattling
 ratton
 rattons
+rattoon
 rattooned
 rattrap
 ratty
@@ -54236,6 +54261,7 @@ redwood
 redye
 redyed
 ree
+reearning
 reearns
 reechiest
 reecho
@@ -58570,6 +58596,7 @@ scutcher
 scutches
 scute
 scutella
+scutellate
 scutiform
 scuts
 scuttering
@@ -60504,6 +60531,7 @@ sizes
 siziness
 sizing
 sizzler
+sizzles
 sizzling
 skag
 skags
@@ -66138,6 +66166,7 @@ teas
 teasable
 teased
 teasel
+teaseled
 teaseler
 teaselled
 teasers
@@ -66179,6 +66208,7 @@ technopop
 technopops
 tectites
 tectonics
+tectrix
 teddered
 teddering
 tedders
@@ -66319,6 +66349,7 @@ tellurizes
 tellurizing
 tellurometers
 tellurous
+telnet
 telneting
 telome
 telomere
@@ -66834,6 +66865,7 @@ thermoclines
 thermocouples
 thermoduric
 thermodynamics
+thermoelectric
 thermoform
 thermoformable
 thermograph
@@ -70186,6 +70218,7 @@ undogmatically
 undoing
 undoings
 undomestic
+undomesticated
 undone
 undotted
 undoubles
@@ -71029,6 +71062,7 @@ unstops
 unstrained
 unstrapped
 unstratified
+unstresses
 unstrung
 unstudied
 unsubdued
@@ -74221,6 +74255,7 @@ worminesses
 wormish
 wormroot
 worms
+wormwood
 worries
 worrisome
 worrit
