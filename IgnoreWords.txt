@@ -1925,6 +1925,7 @@ ampler
 amplexus
 amplidyne
 amplidynes
+amplifiers
 amplify
 amplifying
 amply
@@ -2042,6 +2043,7 @@ analysand
 analysands
 analyse
 analysed
+analyser
 analyses
 analysing
 analyte
@@ -8500,6 +8502,7 @@ byroad
 bys
 byssal
 byssi
+byssinosis
 byssuses
 bystander
 bystreet
@@ -10071,6 +10074,7 @@ ceruminous
 cerusite
 cerusites
 cerussite
+cervelas
 cervelases
 cervelats
 cerveza
@@ -10998,6 +11002,7 @@ chucklers
 chuckles
 chuckwalla
 chuddah
+chuddahs
 chuddars
 chudders
 chufas
@@ -12368,6 +12373,7 @@ coltsfoot
 colubrids
 colugo
 colugos
+columbaria
 columbaries
 columbarium
 columbium
@@ -14103,6 +14109,7 @@ countermines
 countermove
 counteroffers
 counterordering
+counterorders
 counterpart
 counterparts
 counterpetition
@@ -14692,6 +14699,7 @@ criticizing
 critique
 critiques
 critiquing
+critter
 critters
 critturs
 croaked
@@ -17156,6 +17164,7 @@ desirably
 desiring
 desirously
 desirousnesses
+desistance
 desk
 deskbound
 desktop
@@ -20357,6 +20366,7 @@ egocentrisms
 egoless
 egomaniac
 egomaniacally
+egomaniacs
 egomanias
 egregiously
 egregiousness
@@ -24600,6 +24610,7 @@ floppies
 floppiest
 floppiness
 floppy
+florally
 floras
 florescence
 florescences
@@ -26031,6 +26042,7 @@ gabardine
 gabardines
 gabbards
 gabbart
+gabber
 gabbier
 gabble
 gabbler
@@ -27502,6 +27514,7 @@ good
 goodby
 goodbyes
 goodbys
+goodie
 goodish
 goodliest
 goodman
@@ -31959,6 +31972,7 @@ impulsed
 impulsion
 impulsive
 impulsiveness
+impulsivenesses
 impure
 impurenesses
 impurest
@@ -32441,6 +32455,7 @@ indubitableness
 induced
 inducement
 inducer
+inducers
 inducing
 induct
 inductances
@@ -35017,6 +35032,7 @@ keypunching
 keyset
 keysters
 keystone
+keyways
 keyword
 khaddar
 khadi
@@ -35616,6 +35632,7 @@ ladylike
 ladylove
 ladyloves
 ladyship
+ladyships
 laetrile
 laevo
 lag
@@ -36527,6 +36544,7 @@ libidinously
 libido
 librae
 librarian
+librarians
 librarianship
 librate
 librated
@@ -37521,6 +37539,7 @@ lumpectomies
 lumped
 lumpen
 lumper
+lumpers
 lumpier
 lumpinesses
 lumping
@@ -40395,6 +40414,7 @@ missilery
 missilry
 missing
 missiologies
+missionary
 missioner
 missioners
 missionizations
@@ -41029,6 +41049,7 @@ moralizations
 moralizes
 moralizing
 morals
+moras
 morass
 morassy
 moratoria
@@ -44212,6 +44233,7 @@ omelet
 omelets
 omelettes
 omened
+omening
 omenta
 omental
 omicrons
@@ -44772,6 +44794,7 @@ osteomyelitises
 osteopathic
 osteopathy
 osteoplasty
+osteoporoses
 osteosarcomas
 osteosarcomata
 osteoses
@@ -46438,6 +46461,7 @@ palestra
 palestrae
 palestras
 paletots
+palets
 palette
 palettes
 palfrey
@@ -47416,6 +47440,7 @@ pech
 pechan
 pechans
 peched
+peching
 pechs
 peck
 peckerwood
@@ -48207,6 +48232,7 @@ pewit
 pewter
 pewterer
 pewterers
+peyote
 peyotes
 peytrel
 pfennige
@@ -49133,6 +49159,7 @@ pixels
 pixie
 pixieish
 pixinesses
+pixyish
 pizazzes
 pizazzy
 pizzalike
@@ -49741,6 +49768,7 @@ pollers
 pollex
 pollination
 pollinator
+polling
 pollinium
 pollinized
 pollist
@@ -54901,6 +54929,7 @@ rejustifying
 rejuvenate
 rejuvenated
 rejuvenates
+rejuvenating
 rejuvenator
 rejuvenescent
 rekeyboarded
@@ -56486,6 +56515,7 @@ rictuses
 rid
 riddances
 ridded
+ridder
 riddled
 riddler
 riddles
@@ -57351,6 +57381,7 @@ ryegrass
 ryegrasses
 ryot
 sab
+sabadilla
 sabal
 sabals
 sabaton
@@ -59937,6 +59968,7 @@ shockproof
 shod
 shoddier
 shoddies
+shoddiest
 shoddily
 shoe
 shoeblacks
@@ -71877,6 +71909,7 @@ variole
 varioles
 variolites
 varioloid
+variolous
 various
 variousness
 varistor
@@ -71951,6 +71984,7 @@ vaultingly
 vaunted
 vaunters
 vaus
+vavasor
 vavasour
 vavasours
 vavassors
@@ -73062,6 +73096,7 @@ wantonnesses
 wapentake
 wappenschawings
 wapping
+warbled
 warbonnets
 warcraft
 warcrafts
