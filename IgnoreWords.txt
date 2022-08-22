@@ -2783,6 +2783,7 @@ anytime
 anywheres
 anywise
 aorist
+aoristically
 aorists
 aortae
 aortas
@@ -6059,6 +6060,7 @@ bilabiate
 bilanders
 bilateralisms
 bilaterally
+bilberries
 bilberry
 bilbo
 bilbos
@@ -8730,6 +8732,7 @@ callas
 callback
 callbacks
 callboard
+callboards
 callboy
 callees
 callets
@@ -9205,6 +9208,7 @@ carboniferous
 carbonization
 carbonizations
 carbonize
+carbonnade
 carbons
 carbonylic
 carbora
@@ -9821,6 +9825,7 @@ celery
 celeste
 celestially
 celestine
+celestines
 celestite
 celestites
 celiacs
@@ -12159,6 +12164,7 @@ collectivised
 collectivist
 collectivistic
 collectivities
+collectivity
 collectivize
 collectivized
 collectivizing
@@ -12350,6 +12356,7 @@ combusts
 comeback
 comedic
 comedically
+comedienne
 comediennes
 comedies
 comedown
@@ -18874,6 +18881,7 @@ dojo
 dolcettos
 doled
 dolefully
+dolerite
 doll
 dollars
 dollhouse
@@ -19285,6 +19293,7 @@ drails
 drain
 drainable
 drainers
+draining
 drainpipe
 drainpipes
 drains
@@ -20232,6 +20241,7 @@ egested
 eggars
 eggcups
 egger
+eggheaded
 eggnog
 eggnogs
 eggshell
@@ -22736,6 +22746,7 @@ extemporising
 extemporizing
 extend
 extendabilities
+extendable
 extendednesses
 extenders
 extends
@@ -23424,6 +23435,7 @@ feedlot
 feeds
 feedstocks
 feedyards
+feelers
 feeling
 feelingly
 feelingnesses
@@ -24819,6 +24831,7 @@ footle
 footler
 footles
 footlessness
+footlessnesses
 footling
 footlocker
 footlockers
@@ -24894,6 +24907,7 @@ fords
 forearm
 forearmed
 forearms
+forebays
 forebear
 forebears
 foreboded
@@ -25023,6 +25037,7 @@ forfeit
 forfeited
 forfeiting
 forfended
+forfends
 forgathered
 forgathering
 forge
@@ -27050,6 +27065,7 @@ glomerules
 glomeruli
 glommed
 glomming
+gloom
 gloomed
 gloomier
 gloomiest
@@ -28946,6 +28962,7 @@ haulyard
 haunches
 haunt
 haunted
+hauntingly
 haunts
 hausfrau
 hausfrauen
@@ -29819,6 +29836,7 @@ hissy
 histamine
 histamines
 histamins
+histidin
 histidine
 histidins
 histiocytes
@@ -29993,6 +30011,7 @@ holoblastic
 holocaust
 holocene
 holoenzymes
+hologram
 holographed
 holographers
 holography
@@ -32564,6 +32583,7 @@ inherences
 inhering
 inherit
 inheritableness
+inherited
 inheritor
 inheritors
 inheritresses
@@ -32664,6 +32684,7 @@ innings
 innkeeper
 innkeepers
 innless
+innocency
 innocent
 innocently
 innocents
@@ -36256,6 +36277,7 @@ lexemic
 lexes
 lexical
 lexicalisation
+lexicalization
 lexicalized
 lexically
 lexicographer
@@ -38742,6 +38764,7 @@ mell
 mellotron
 mellowed
 mellower
+mellowness
 melodeon
 melodias
 melodic
@@ -41918,6 +41941,7 @@ necker
 neckings
 necklaced
 necklaces
+neckless
 necklike
 necklines
 neckpieces
@@ -49490,6 +49514,7 @@ polychrome
 polychromies
 polychromy
 polycrystal
+polycrystals
 polycythemia
 polycythemias
 polydactyl
@@ -54428,6 +54453,7 @@ rehouse
 rehumanizes
 rehung
 rehypnotized
+rehypnotizes
 rehypnotizing
 reichsmark
 reidentifies
@@ -55489,6 +55515,7 @@ respot
 respots
 resprang
 resprayed
+respread
 respreads
 respring
 resprouted
@@ -58301,6 +58328,7 @@ scurried
 scurry
 scurrying
 scurviest
+scutages
 scutched
 scutcheons
 scutcher
@@ -59094,6 +59122,7 @@ sexagenarians
 sexes
 sexiest
 sexily
+sexiness
 sexinesses
 sexism
 sexisms
@@ -59882,6 +59911,7 @@ sidewalls
 sidewinders
 sidled
 sidlers
+siege
 sieged
 sieging
 sienite
@@ -60019,6 +60049,7 @@ silliness
 silly
 siloing
 silt
+siltier
 siltiest
 silty
 silurid
@@ -62172,6 +62203,7 @@ spookiest
 spooking
 spooled
 spooler
+spoolers
 spools
 spoon
 spooned
@@ -65312,6 +65344,7 @@ tablecloth
 tablecloths
 tabled
 tablemate
+tablemates
 tables
 tablespoon
 tablespoonsful
@@ -72891,6 +72924,7 @@ weapons
 wear
 wearable
 wearers
+wearifully
 wearinesses
 wearish
 wearisome
@@ -74504,6 +74538,7 @@ zonks
 zonula
 zoochore
 zoochores
+zoogeny
 zoogeographer
 zoogeographic
 zoogeographical
