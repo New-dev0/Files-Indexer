@@ -1,0 +1,11 @@
+Packages.manifest - OpenWrt Downloads,https://downloads.openwrt.org/releases/18.06.1/targets/ramips/mt7620/packages/Packages.manifest
+https://archive.openwrt.org/releases/17.01.5/targe...,https://archive.openwrt.org/releases/17.01.5/targets/ramips/mt7621/packages/Packages.manifest
+Packages.manifest - PandoraBox,http://downloads.pangubox.com:6380/pandorabox/19.02/targets/qualcomm/ipq806x/packages/Packages.manifest
+https://downloads.asu.aparcar.org/immortalwrt/targ...,https://downloads.asu.aparcar.org/immortalwrt/targets/x86/generic/packages/Packages.manifest
+https://qtest.cc/releases/19.07.7/targets/x86/64/p...,https://qtest.cc/releases/19.07.7/targets/x86/64/packages/Packages.manifest
+https://mgmt.saar.freifunk.net/openwrt/releases/18...,https://mgmt.saar.freifunk.net/openwrt/releases/18.06.8/targets/lantiq/xway/packages/Packages.manifest
+https://mgmt.saar.freifunk.net/openwrt/snapshots/t...,https://mgmt.saar.freifunk.net/openwrt/snapshots/targets/mediatek/mt7622/packages/Packages.manifest
+https://downloads.lede-project.org/snapshots/targe...,https://downloads.lede-project.org/snapshots/targets/lantiq/xway/packages/Packages.manifest
+https://downloads.lede-project.org/snapshots/targe...,https://downloads.lede-project.org/snapshots/targets/ipq806x/generic/packages/Packages.manifest
+https://downloads.ffhb.de/opkg/modules/gluon-ffhb-...,https://downloads.ffhb.de/opkg/modules/gluon-ffhb-2018.2.1%2Bbremen1/sunxi/cortexa7/Packages.manifest
+https://fw.ffrn.de/images/nightly/sysupgrade/night...,https://fw.ffrn.de/images/nightly/sysupgrade/nightly.manifest
