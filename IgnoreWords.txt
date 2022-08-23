@@ -1103,6 +1103,7 @@ agones
 agonic
 agonise
 agonising
+agonist
 agonistes
 agonistic
 agonists
@@ -2027,6 +2028,7 @@ anageneses
 anaglyph
 anagnorises
 anagnorisis
+anagogically
 anagogy
 anagram
 anagrammatize
@@ -2077,6 +2079,7 @@ analyzation
 analyzations
 analyzes
 analyzing
+anamneses
 anamnesis
 ananke
 anankes
@@ -4297,6 +4300,7 @@ aversions
 aversives
 avertable
 averter
+averters
 averting
 avgases
 avianized
@@ -7836,6 +7840,7 @@ bringer
 bringers
 brings
 brinier
+brinies
 briniest
 brininesses
 brinksmanship
@@ -7951,6 +7956,7 @@ bronchospastic
 bronco
 broncobuster
 broncobusters
+brontosauruses
 bronzer
 bronzers
 bronzes
@@ -9432,6 +9438,7 @@ carefulnesses
 caregiver
 caregiving
 caregivings
+careless
 carelessly
 carelessness
 carer
@@ -11142,6 +11149,7 @@ churching
 churchings
 churchlier
 churchliest
+churchliness
 churchlinesses
 churchly
 churchmanship
@@ -13199,6 +13207,7 @@ conker
 conky
 connately
 connation
+connaturality
 connectedly
 connectedness
 connecter
@@ -14078,6 +14087,7 @@ cosmetologists
 cosmical
 cosmochemical
 cosmochemist
+cosmogenic
 cosmogonic
 cosmographical
 cosmographies
@@ -14136,6 +14146,7 @@ cotransduction
 cotransductions
 cotransfers
 cotransporting
+cottage
 cottager
 cottages
 cottagey
@@ -17541,6 +17552,7 @@ deviated
 deviating
 deviation
 deviationisms
+deviationist
 deviators
 device
 deviled
@@ -17580,6 +17592,7 @@ devotion
 devotionally
 devour
 devourers
+devouring
 dew
 dewans
 dewars
@@ -17850,6 +17863,7 @@ didjeridoo
 didjeridoos
 didjeridu
 dido
+didy
 didymium
 didymous
 didynamy
@@ -18285,6 +18299,7 @@ disassociations
 disaster
 disasters
 disastrous
+disastrously
 disavow
 disavower
 disavowers
@@ -22765,6 +22780,7 @@ exenterated
 exenterates
 exenterations
 exercise
+exerciser
 exercisers
 exercises
 exercitations
@@ -29858,6 +29874,7 @@ henge
 henges
 henhouse
 heniquens
+henley
 henleys
 hennaing
 hennas
@@ -31190,6 +31207,7 @@ hwan
 hyacinthine
 hyaenic
 hyalin
+hyaline
 hyalines
 hyalins
 hyalites
@@ -32350,6 +32368,7 @@ inaugurations
 inaugurators
 inauspiciously
 inbeing
+inbeings
 inboards
 inborn
 inbound
@@ -34846,6 +34865,7 @@ jokingly
 joky
 jollied
 jollier
+jollies
 jollified
 jollifies
 jollily
@@ -36854,6 +36874,7 @@ libelants
 libeled
 libelees
 libelers
+libelist
 libelists
 libellants
 libellee
@@ -44288,6 +44309,7 @@ obsessors
 obsidian
 obsolesce
 obsolescence
+obsolescent
 obsoleting
 obstetricians
 obstinate
@@ -45303,6 +45325,7 @@ outbacks
 outbaked
 outbakes
 outbalancing
+outbargaining
 outbargains
 outbark
 outbarked
@@ -45900,6 +45923,7 @@ ovariotomy
 ovately
 ovation
 ovenbird
+ovenlike
 ovenproof
 ovens
 overabundant
@@ -51552,6 +51576,7 @@ preservatives
 preserver
 preservers
 preservice
+preserving
 presets
 presettles
 preshape
@@ -56229,6 +56254,7 @@ reshod
 reshoe
 reshoed
 reshoes
+reshone
 reshoots
 reshot
 reshow
@@ -56948,6 +56974,7 @@ rheumy
 rhigolenes
 rhinal
 rhinencephalon
+rhinestone
 rhinestoned
 rhinestones
 rhino
@@ -62624,6 +62651,7 @@ soymilk
 soymilks
 soys
 soyuzes
+sozin
 sozines
 sozins
 space
@@ -66916,6 +66944,7 @@ teched
 techies
 techiest
 technetium
+technetiums
 technical
 technicalize
 technicalizes
@@ -68698,6 +68727,7 @@ toxicants
 toxicologies
 toxicologist
 toxicologists
+toxicology
 toxics
 toxins
 toxoid
@@ -70451,6 +70481,7 @@ unbacked
 unbaked
 unbalance
 unbalances
+unbalancing
 unbale
 unbaled
 unbales
@@ -70514,6 +70545,7 @@ unbrakes
 unbreakable
 unbreech
 unbridle
+unbright
 unbrowned
 unbruised
 unbrushed
@@ -73543,6 +73575,7 @@ voteless
 voters
 votes
 voting
+votively
 votiveness
 votives
 vouch
@@ -74995,6 +75028,7 @@ woody
 wooer
 woof
 woofer
+woofing
 wooingly
 wool
 wooler
@@ -75684,6 +75718,7 @@ zippering
 zippers
 zippiest
 zipping
+zircaloy
 zitherist
 zithers
 ziti
