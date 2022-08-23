@@ -1321,6 +1321,7 @@ alehouse
 alehouses
 alencons
 alerted
+alertest
 alertly
 alertnesses
 ales
@@ -7698,6 +7699,7 @@ breeches
 breeching
 breechloader
 breechloaders
+breeder
 breeding
 breedings
 breezed
@@ -7708,6 +7710,7 @@ breezing
 bregma
 bregmatic
 bremsstrahlungs
+brent
 brents
 brethren
 brevet
@@ -10427,6 +10430,7 @@ chatrooms
 chats
 chatted
 chatter
+chatterboxes
 chattered
 chatterer
 chatterers
@@ -11367,6 +11371,7 @@ clamours
 clampdown
 clamped
 clamper
+clampers
 clamping
 clams
 clamworms
@@ -12006,6 +12011,7 @@ codiscoverers
 codlings
 codominant
 codon
+codons
 codrive
 codriver
 codrivers
@@ -14045,6 +14051,7 @@ costlessly
 costrels
 costumeries
 costumes
+costumey
 costumier
 cosurfactants
 cosy
@@ -15127,6 +15134,7 @@ cuittled
 cuke
 culch
 culet
+culets
 culicid
 culinary
 cull
@@ -17754,6 +17762,7 @@ didacticism
 didacticisms
 didacts
 diddle
+diddlers
 diddles
 diddlies
 diddly
@@ -20680,6 +20689,7 @@ elucidated
 elucidating
 elucidative
 elucubrates
+elucubrations
 eluded
 eludes
 eluding
@@ -21364,6 +21374,7 @@ enregister
 enregistered
 enregistering
 enriched
+enricher
 enriches
 enrichments
 enrobe
@@ -25254,6 +25265,7 @@ forester
 foresters
 forestial
 forestland
+forestlands
 forestry
 forests
 foreswear
@@ -25463,6 +25475,7 @@ fourteeners
 fourth
 fourths
 fovea
+foveas
 foveate
 foveated
 foveiform
@@ -26081,6 +26094,7 @@ furrowers
 furrows
 furry
 further
+furtherance
 furtherances
 furthering
 furthest
@@ -31096,6 +31110,7 @@ hydrocracker
 hydrocrackings
 hydrocracks
 hydrodynamic
+hydrodynamical
 hydrofoil
 hydrofoils
 hydrogels
@@ -35759,6 +35774,7 @@ lacunae
 lacunar
 lacunaria
 lacunars
+lacunes
 lacunose
 lacy
 lad
@@ -41737,6 +41753,7 @@ multitalented
 multitasking
 multitaskings
 multitasks
+multiterminal
 multitiered
 multitone
 multitones
@@ -42760,6 +42777,7 @@ nickering
 nickers
 nickled
 nickling
+nicknack
 nickname
 nicol
 nicotiana
@@ -43898,6 +43916,7 @@ nutpick
 nutpicks
 nutraceuticals
 nutria
+nutrias
 nutrient
 nutriment
 nutritional
@@ -45445,6 +45464,7 @@ outranges
 outranks
 outrated
 outrating
+outrave
 outraved
 outre
 outreached
@@ -45925,6 +45945,7 @@ overfast
 overfastidious
 overfearing
 overfeeding
+overfertilize
 overfertilizes
 overfill
 overfilled
@@ -47009,6 +47030,7 @@ parajournalism
 parakeets
 parakite
 paralanguages
+paraldehyde
 paraldehydes
 paralegals
 parallactic
@@ -49454,6 +49476,7 @@ plaintively
 plaintiveness
 plaintivenesses
 plaister
+plaisters
 plaitings
 plaits
 plan
@@ -50078,6 +50101,7 @@ polygynous
 polyhedrons
 polyhedroses
 polyhistor
+polyhistoric
 polyimides
 polylysine
 polylysines
@@ -51130,6 +51154,7 @@ premodern
 premodifies
 premodify
 premoistened
+premoistens
 premolar
 premold
 premolded
@@ -54260,6 +54285,7 @@ reconfine
 reconfines
 reconfirmations
 reconfirming
+reconnaissances
 reconnect
 reconnected
 reconnecting
@@ -58236,6 +58262,7 @@ saturation
 saturations
 saturator
 saturators
+saturnalian
 saturnalianly
 saturniid
 saturniids
@@ -59601,6 +59628,7 @@ serialization
 serialized
 serializes
 serializing
+seriate
 seriated
 seriates
 seriatim
@@ -68332,6 +68360,7 @@ townies
 townish
 townless
 townlets
+townscape
 townscapes
 township
 townships
@@ -70068,6 +70097,7 @@ unarm
 unarmed
 unarrogant
 unarticulated
+unary
 unaspirated
 unassailability
 unassailably
@@ -70162,6 +70192,7 @@ unbridle
 unbrowned
 unbruised
 unbrushed
+unbuckles
 unbudgeably
 unbudging
 unbudgingly
@@ -70831,6 +70862,7 @@ unhandsome
 unhandy
 unhanging
 unhangs
+unhappily
 unhappiness
 unharmed
 unharnessed
@@ -72866,6 +72898,7 @@ viridescent
 viridians
 viridities
 viridity
+virilisms
 virility
 virilizes
 virion
@@ -74979,6 +75012,7 @@ yarmelkes
 yarmulkes
 yarn
 yarning
+yarrow
 yarrows
 yashmac
 yashmak
@@ -75341,6 +75375,7 @@ zonula
 zonules
 zoochore
 zoochores
+zooecium
 zoogeny
 zoogeographer
 zoogeographic
