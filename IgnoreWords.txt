@@ -4585,6 +4585,7 @@ bacteremic
 bacteria
 bacteriocins
 bacteriologist
+bacteriolysis
 bacteriolytic
 bacteriophages
 bacteriostasis
@@ -4932,6 +4933,7 @@ baritone
 barium
 barked
 barkeep
+barkeepers
 barkentine
 barkers
 barkiest
@@ -6830,6 +6832,7 @@ bluff
 bluffed
 bluffers
 bluffing
+bluffly
 bluffness
 bluffs
 bluish
@@ -8336,6 +8339,7 @@ burnish
 burnisher
 burnishers
 burnishings
+burnoose
 burnt
 burps
 burqa
@@ -12340,6 +12344,7 @@ cologarithm
 colombards
 colone
 colonelcies
+colones
 coloni
 colonialisms
 colonialist
@@ -14344,6 +14349,7 @@ cowpunchers
 cowrie
 cowries
 cowriter
+cowriters
 cowriting
 cowrote
 cows
@@ -16614,6 +16620,7 @@ dekaliter
 dekalitres
 dekameter
 delaine
+delaines
 delaminates
 delaminations
 delate
@@ -24088,6 +24095,7 @@ filterabilities
 filterability
 filterable
 filth
+filthier
 filthily
 filthinesses
 filtrated
@@ -27310,6 +27318,7 @@ gloom
 gloomed
 gloomier
 gloomiest
+gloomily
 glooms
 gloomy
 glop
@@ -28253,6 +28262,7 @@ grouters
 groutier
 grouting
 grouts
+grouty
 grove
 groveled
 groveler
@@ -30796,6 +30806,7 @@ hoya
 hoyden
 hoydened
 hoydening
+hoydenish
 hoyle
 hryvnas
 hryvnias
@@ -31167,6 +31178,7 @@ hyper
 hyperacid
 hyperacidities
 hyperacidity
+hyperactivities
 hyperarid
 hyperaware
 hyperawareness
@@ -32910,6 +32922,7 @@ inhuming
 inia
 inimically
 inimitable
+inion
 iniquities
 iniquitous
 iniquitousness
@@ -33635,6 +33648,7 @@ intimacies
 intimacy
 intimae
 intimal
+intimas
 intimated
 intimately
 intimatenesses
@@ -36880,6 +36894,7 @@ limpingly
 limpkins
 limps
 limpsiest
+limpsy
 limuli
 limulus
 limy
@@ -38536,6 +38551,7 @@ markhoor
 markhoors
 markings
 markka
+marksmanships
 markswoman
 markswomen
 marled
@@ -43521,6 +43537,7 @@ nonusers
 nonuses
 nonutilities
 nonvacant
+nonvalid
 nonvalidity
 nonvector
 nonvegetarian
@@ -43899,6 +43916,7 @@ oatcake
 oatcakes
 oath
 oaves
+oba
 obconic
 obduracies
 obdurately
@@ -45179,6 +45197,7 @@ outfielder
 outfight
 outfights
 outfigured
+outfiguring
 outfind
 outfired
 outfires
@@ -45454,6 +45473,7 @@ outserved
 outshames
 outshoots
 outshout
+outshouting
 outsider
 outsidernesses
 outsin
@@ -46525,6 +46545,7 @@ pagurians
 pagurids
 pahoehoe
 paik
+paiking
 paiks
 pail
 pailful
@@ -47430,6 +47451,7 @@ patricide
 patricides
 patrimonial
 patrimonies
+patrimony
 patriotically
 patriotisms
 patristic
@@ -49208,6 +49230,7 @@ pipinesses
 piping
 pipingly
 pipistrel
+pipistrels
 pipits
 pipkin
 pipkins
@@ -54404,6 +54427,7 @@ rediae
 redial
 redialing
 redictating
+redid
 redigested
 redigesting
 redigestion
@@ -55058,6 +55082,7 @@ reinvent
 reinvented
 reinventing
 reinventions
+reinvested
 reinvestigating
 reinvestigation
 reinvesting
@@ -55486,6 +55511,7 @@ repartition
 repasses
 repasting
 repasts
+repatching
 repatriate
 repatterned
 repaved
@@ -56575,6 +56601,7 @@ rhesus
 rhesuses
 rhetoric
 rhetorically
+rhetorician
 rheumatically
 rheumatism
 rheumatisms
@@ -61102,6 +61129,7 @@ slaying
 slays
 sleaving
 sleazebag
+sleazebags
 sleazeballs
 sleazes
 sleaziest
@@ -62105,6 +62133,7 @@ sorgo
 sorgos
 soricine
 soring
+sorites
 sorned
 sorners
 soroche
@@ -70036,6 +70065,7 @@ unbelts
 unbenign
 unbent
 unbilled
+unbinds
 unbitted
 unbitten
 unblenched
@@ -71753,6 +71783,7 @@ uptempos
 upthrust
 upthrusted
 upthrusting
+uptick
 uptight
 uptightness
 uptilted
@@ -71940,6 +71971,7 @@ vaccinia
 vacillate
 vacillates
 vacillating
+vacillation
 vacillations
 vacillators
 vacuities
@@ -72557,6 +72589,7 @@ vialing
 viand
 viands
 viatica
+viaticum
 viator
 viators
 vibracula
@@ -74248,6 +74281,7 @@ wingtips
 wining
 winked
 winking
+winkled
 winkles
 winkling
 winless
@@ -74381,6 +74415,7 @@ witney
 witneys
 wits
 witted
+witticism
 wittiest
 wittily
 wittiness
