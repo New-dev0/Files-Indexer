@@ -212,6 +212,7 @@ acclamation
 acclamations
 acclimated
 acclimates
+acclimatise
 acclimatised
 acclimatising
 acclimatization
@@ -989,6 +990,7 @@ agalloch
 agallochs
 agamete
 agametes
+agamous
 agapanthus
 agapanthuses
 agape
@@ -2884,6 +2886,7 @@ aphorizers
 aphrodisiacal
 aphrodisiacs
 aphrodites
+aphthae
 aphyllous
 apiaceous
 apian
@@ -12327,6 +12330,7 @@ collations
 collators
 colleague
 colleagueship
+collectedly
 collectedness
 collectible
 collective
@@ -13820,6 +13824,7 @@ cordierite
 cordierites
 cordillera
 cordilleran
+cordilleras
 cordites
 cordlesses
 cordobas
@@ -16254,6 +16259,7 @@ decidua
 deciduae
 deciduas
 deciduate
+deciduousness
 decigrams
 decile
 deciliter
@@ -17439,6 +17445,7 @@ detergent
 detergers
 deterges
 deterging
+deteriorate
 deteriorating
 deterioration
 determent
@@ -19441,6 +19448,7 @@ dowery
 dowie
 downbeat
 downbeats
+downbow
 downburst
 downbursts
 downcast
@@ -23630,6 +23638,7 @@ fatherlike
 fathers
 fathomed
 fathoms
+fatigability
 fatigable
 fatigue
 fatigues
@@ -25399,6 +25408,7 @@ forgivingnesses
 forgo
 forgoer
 forgoers
+forgoes
 forgoing
 forint
 forkball
@@ -29400,6 +29410,7 @@ hawked
 hawkie
 hawking
 hawkings
+hawkishness
 hawkmoth
 hawkmoths
 hawknose
@@ -37021,6 +37032,7 @@ limbeck
 limbed
 limberer
 limberest
+limbernesses
 limbi
 limbic
 limbier
@@ -40047,6 +40059,7 @@ mikra
 mikvos
 mil
 miladi
+miladies
 miladis
 milady
 milages
@@ -40506,6 +40519,7 @@ misdeal
 misdealing
 misdeals
 misdeed
+misdeeds
 misdeemed
 misdefine
 misdefining
@@ -42715,6 +42729,7 @@ nephrisms
 nephrite
 nephrites
 nephritic
+nephritides
 nephritises
 nephrologies
 nephrologist
@@ -46209,6 +46224,7 @@ overlabored
 overlaboring
 overlade
 overladen
+overlain
 overlands
 overlap
 overlavish
@@ -48891,6 +48907,7 @@ phosphatizes
 phosphatizing
 phosphaturia
 phosphene
+phosphides
 phosphids
 phosphin
 phosphins
@@ -51460,6 +51477,7 @@ preregistering
 preregisters
 preregistration
 prereleases
+prereleasing
 prerenal
 prerequire
 prerequired
@@ -52972,6 +52990,7 @@ pustulant
 pustulating
 putatively
 putoff
+putoffs
 putonghua
 putonghuas
 putrefied
@@ -53709,6 +53728,7 @@ rakeoff
 raker
 rakes
 raki
+rakishly
 rakishness
 rakishnesses
 raku
@@ -54586,6 +54606,7 @@ recruiter
 recruiting
 recruitments
 recrystallizing
+rectal
 rectangle
 rectangular
 recti
@@ -54963,6 +54984,7 @@ referrals
 refights
 refigure
 refigured
+refigures
 refile
 refiled
 refiling
@@ -54975,6 +54997,7 @@ refinanced
 refinancing
 refine
 refined
+refinement
 refiners
 refinish
 refinishers
@@ -56862,6 +56885,7 @@ rhabdomancy
 rhabdome
 rhabdomes
 rhabdovirus
+rhabdoviruses
 rhachis
 rhaphae
 rhaphe
@@ -64952,6 +64976,7 @@ subsidized
 subsidizer
 subsidizes
 subsist
+subsistence
 subsister
 subsisters
 subsites
@@ -66250,6 +66275,7 @@ syntonic
 syntony
 synura
 syphers
+syphilises
 syphilitic
 syphilitics
 syphiloid
@@ -66779,6 +66805,7 @@ taximeter
 taximeters
 taxis
 taxiways
+taxman
 taxmen
 taxol
 taxon
@@ -67072,6 +67099,7 @@ tempted
 tempter
 tempting
 tempts
+ten
 tenability
 tenably
 tenaces
@@ -67137,6 +67165,7 @@ tenors
 tenosynovitis
 tenours
 tenpence
+tenpences
 tenpenny
 tenpounder
 tenpounders
@@ -68443,6 +68472,7 @@ tora
 toras
 torchbearer
 torched
+torchere
 torches
 torchieres
 torchlike
@@ -69621,6 +69651,7 @@ tryouts
 trypsins
 tryptamine
 tryptamines
+tryste
 trysted
 tryster
 trysters
@@ -70166,6 +70197,7 @@ ulster
 ulsters
 ultimacies
 ultimacy
+ultimated
 ultimately
 ultimatenesses
 ultimates
@@ -71026,6 +71058,7 @@ unfastens
 unfastidious
 unfavorableness
 unfavorably
+unfavored
 unfavorite
 unfearing
 unfeelingly
@@ -73398,6 +73431,7 @@ volery
 voles
 volitant
 volitional
+volitions
 volitive
 volkslied
 volkslieder
@@ -74045,6 +74079,7 @@ weaves
 weazands
 web
 webbier
+webbiest
 webby
 webcams
 webcast
