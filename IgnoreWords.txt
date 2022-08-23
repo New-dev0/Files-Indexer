@@ -1036,6 +1036,7 @@ agglutinogens
 aggrade
 aggraded
 aggrandising
+aggrandized
 aggrandizement
 aggrandizers
 aggrandizes
@@ -3376,6 +3377,7 @@ armrests
 armsful
 army
 armyworm
+arnatto
 arnicas
 aroid
 aroids
@@ -9346,6 +9348,7 @@ cardinalship
 cardings
 cardio
 cardiogenic
+cardiograph
 cardiographies
 cardiographs
 cardioids
@@ -9618,6 +9621,7 @@ castoffs
 castoreum
 castoreums
 castors
+castrate
 castrater
 castrates
 castrato
@@ -14231,6 +14235,7 @@ countertrends
 countervailed
 countervailing
 countervails
+counterweight
 countian
 countians
 countinghouse
@@ -14472,6 +14477,7 @@ craniotomy
 crank
 crankcase
 crankcases
+cranked
 cranker
 crankiest
 crankinesses
@@ -17194,6 +17200,7 @@ desegregates
 desegregating
 desensitization
 desensitized
+desensitizer
 desensitizes
 desensitizing
 desert
@@ -21169,6 +21176,7 @@ endotoxins
 endotrophic
 endower
 endowment
+endowments
 endows
 endozoic
 endpapers
@@ -30414,6 +30422,7 @@ homogenise
 homogenization
 homogenizations
 homogenized
+homogenizers
 homogenizes
 homogenous
 homograft
@@ -31598,6 +31607,7 @@ illegalizing
 illegals
 illegibility
 illegitimacies
+iller
 illiberalities
 illiberality
 illiberalness
@@ -37806,6 +37816,7 @@ lutetiums
 lutfisk
 lutfisks
 luthern
+lutherns
 luv
 lux
 luxes
@@ -38795,6 +38806,7 @@ matrilineally
 matrimonies
 matrimony
 matrix
+matrixes
 matronize
 matronized
 matronizes
@@ -39089,6 +39101,7 @@ megaphoning
 megaplex
 megaplexes
 megapod
+megapodes
 megaproject
 megaprojects
 megara
@@ -47662,6 +47675,7 @@ pecten
 pectic
 pectinaceous
 pectination
+pectize
 pectized
 pectizes
 pectoral
@@ -47879,6 +47893,7 @@ pennoncel
 pennons
 penny
 pennycress
+pennycresses
 pennyweight
 pennywise
 pennywort
@@ -49384,6 +49399,7 @@ placarding
 placated
 placaters
 placates
+placation
 placatory
 placeable
 placebo
@@ -49828,6 +49844,7 @@ podophyllum
 podophyllums
 podsol
 podsolization
+podsolizations
 podsols
 podzol
 podzolization
@@ -51826,6 +51843,7 @@ proleptically
 proles
 proletarianizes
 proletarians
+proletary
 proliferations
 prolific
 prolificacies
@@ -55513,6 +55531,7 @@ reoutfit
 reoutfits
 reoxidation
 reoxidations
+reoxidizes
 rep
 repacified
 repack
@@ -57639,6 +57658,7 @@ sabermetrics
 sabin
 sabir
 sabirs
+sable
 sablefish
 sabot
 sabotage
@@ -57953,6 +57973,7 @@ samovars
 samoyeds
 samp
 sampan
+sample
 sampled
 sampling
 samplings
@@ -58459,6 +58480,7 @@ scatterbrain
 scatterbrained
 scatterbrains
 scatterers
+scattergood
 scattergrams
 scattergun
 scatterguns
@@ -60104,6 +60126,7 @@ shim
 shimmer
 shimmered
 shimmers
+shimmy
 shimmying
 shindys
 shiner
@@ -60304,6 +60327,7 @@ shouts
 shoved
 shoveled
 shovelful
+shovelfuls
 shoveling
 shovelled
 shovellers
@@ -62992,7 +63016,9 @@ spurners
 spurns
 spurrer
 spurrers
+spurriers
 spurry
+spurted
 spurtle
 spurtles
 spurts
@@ -64733,6 +64759,7 @@ subtopia
 subtopic
 subtorrid
 subtotal
+subtotally
 subtracter
 subtractions
 subtracts
@@ -66356,6 +66383,7 @@ tarmacked
 tarmacs
 tarnal
 tarnish
+tarnishes
 tarns
 tarocs
 taroks
@@ -68257,6 +68285,7 @@ touchy
 toughener
 toughens
 toughing
+toughish
 toughness
 toughnesses
 toughy
@@ -69180,6 +69209,7 @@ tropological
 tropologies
 tropology
 tropomyosin
+troponin
 troposphere
 tropotaxes
 tropotaxis
@@ -71457,6 +71487,7 @@ unstresses
 unstrung
 unstudied
 unsubdued
+unsubsidized
 unsuccess
 unsuitabilities
 unsuitability
@@ -72573,6 +72604,7 @@ vesiculation
 vesperal
 vespertilian
 vespiaries
+vessel
 vesseled
 vessels
 vestals
@@ -72647,6 +72679,7 @@ vicarates
 vicariant
 vicariate
 vicariously
+vicariousnesses
 vicarly
 vicarship
 vice
@@ -73370,6 +73403,7 @@ wamuses
 wand
 wandered
 wandering
+wanderings
 wanderlust
 wanderoo
 wands
@@ -74325,6 +74359,7 @@ winner
 winners
 winning
 winningly
+winnocks
 winnow
 winnower
 winnowers
