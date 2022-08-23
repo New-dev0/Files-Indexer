@@ -7049,6 +7049,7 @@ bombable
 bombarded
 bombarder
 bombardier
+bombasters
 bombasts
 bombazines
 bombinates
@@ -7694,6 +7695,7 @@ brewages
 breweries
 brewery
 brewing
+brewings
 brewises
 brewskies
 brewskis
@@ -13744,6 +13746,7 @@ corepressor
 corepressors
 corequisites
 coresearchers
+coresident
 coresidents
 corf
 corgi
@@ -15204,6 +15207,7 @@ curanderos
 curaras
 curares
 curari
+curaris
 curarization
 curarized
 curarizes
@@ -17341,6 +17345,7 @@ detonator
 detouring
 detours
 detoxes
+detoxicant
 detoxicants
 detoxicate
 detoxicated
@@ -18237,6 +18242,7 @@ discordantly
 discos
 discotheques
 discountable
+discountenance
 discountenanced
 discountenances
 discounting
@@ -19113,6 +19119,7 @@ donorships
 dons
 donsie
 donsy
+donzel
 donzels
 doodads
 doodies
@@ -23191,6 +23198,7 @@ faint
 fainter
 fainters
 faintest
+faintheartedly
 faintish
 faintly
 faints
@@ -23273,6 +23281,7 @@ familiarization
 familiarize
 familiarized
 familiarnesses
+familiars
 familism
 familisms
 familistic
@@ -23558,6 +23567,7 @@ feckless
 fecklessness
 fecks
 fecula
+feculences
 fecund
 fecundate
 fecundations
@@ -26362,6 +26372,7 @@ gardant
 gardened
 gardeners
 gardenia
+gardenias
 gardens
 garderobe
 garderobes
@@ -27188,6 +27199,7 @@ glibbest
 glibness
 glidepath
 glidepaths
+glider
 gliders
 glides
 gliff
@@ -27735,6 +27747,7 @@ grail
 grain
 grainer
 grainers
+graininess
 gram
 grama
 gramaries
@@ -30134,6 +30147,7 @@ hocuses
 hocussing
 hodad
 hodden
+hoddens
 hoddin
 hodgepodges
 hodoscopes
@@ -34993,6 +35007,7 @@ kelps
 kelter
 kelvins
 kemps
+ken
 kenafs
 kench
 kenches
@@ -38335,6 +38350,7 @@ mantillas
 mantis
 mantises
 mantle
+mantled
 mantles
 mantling
 mantraps
@@ -38797,6 +38813,7 @@ mazily
 mazourkas
 mazy
 mazzard
+mazzards
 mbaqanga
 mbira
 meadow
@@ -39531,6 +39548,7 @@ mice
 micell
 micellar
 miches
+miching
 mickey
 mickles
 micklest
@@ -46191,6 +46209,7 @@ overweighting
 overwetted
 overwhelmed
 overwhelms
+overwide
 overwily
 overwind
 overwinding
@@ -46744,6 +46763,7 @@ pantomime
 pantomimes
 pantomimic
 pantomimist
+pantos
 pantothenates
 pantries
 pantropic
@@ -47634,6 +47654,7 @@ peke
 pekepoos
 pekoes
 pelage
+pelagial
 pele
 pelerine
 peles
@@ -49688,6 +49709,7 @@ podsols
 podzol
 podzolization
 podzolizations
+podzolized
 podzolizing
 podzols
 poechore
@@ -51038,6 +51060,7 @@ prepossessions
 preposterously
 prepotency
 prepotently
+preppier
 preppiest
 preprandial
 preprice
@@ -55714,6 +55737,7 @@ reseda
 reseeking
 reseeks
 resees
+resegregated
 resegregation
 reseized
 reseizes
@@ -58323,6 +58347,7 @@ scenographer
 scenting
 scepter
 sceptic
+scepticism
 sceptics
 sceptred
 sceptring
@@ -62519,6 +62544,7 @@ spiritlessly
 spirits
 spiritual
 spiritualisms
+spiritualities
 spiritualize
 spiritually
 spiritualnesses
@@ -62655,6 +62681,7 @@ spoofs
 spookery
 spookiest
 spooking
+spooky
 spooled
 spooler
 spoolers
@@ -64126,6 +64153,7 @@ suballocation
 suballocations
 subaltern
 subantarctic
+subapical
 subaqueous
 subarachnoidal
 subarctic
@@ -64558,6 +64586,7 @@ subtopic
 subtorrid
 subtotal
 subtracter
+subtractions
 subtracts
 subtrahend
 subtreasury
@@ -67224,6 +67253,7 @@ thralldom
 thralled
 thrash
 thrashed
+thrashings
 thrasonical
 thrasonically
 thrave
@@ -69412,6 +69442,7 @@ tutties
 tutting
 tutus
 tuxedoed
+tuxedoes
 tuxedos
 tuyer
 tuyere
@@ -70346,6 +70377,7 @@ undertakes
 undertaking
 undertaxes
 undertenant
+undertenants
 undertint
 undertints
 undertow
@@ -71158,6 +71190,7 @@ unsettlednesses
 unsettlements
 unsettlingly
 unsew
+unsewed
 unsews
 unsexing
 unsexual
@@ -72564,6 +72597,7 @@ vinals
 vinas
 vinasse
 vinasses
+vinblastines
 vinca
 vincible
 vincula
@@ -73573,6 +73607,7 @@ weighs
 weight
 weighted
 weighter
+weightiest
 weightiness
 weightinesses
 weightless
