@@ -3799,6 +3799,7 @@ astrachan
 astrachans
 astraddle
 astragal
+astragals
 astrakhan
 astral
 astrally
@@ -4758,6 +4759,7 @@ bals
 balsamed
 balsams
 balustrades
+bambino
 bamboo
 bamboos
 bamboozle
@@ -7995,6 +7997,7 @@ brunt
 brunts
 brushabilities
 brushability
+brushback
 brushed
 brushers
 brushfires
@@ -9299,6 +9302,7 @@ carbonating
 carbonation
 carbonations
 carboniferous
+carboniums
 carbonization
 carbonizations
 carbonize
@@ -9638,6 +9642,7 @@ casuarinas
 casuistical
 casuists
 cat
+catabolically
 catabolite
 catabolites
 catabolizes
@@ -11418,6 +11423,7 @@ clasps
 claspt
 classable
 classed
+classes
 classicalities
 classicality
 classicist
@@ -15627,6 +15633,7 @@ cytomegalic
 cytomegalovirus
 cytons
 cytophilic
+cytophotometry
 cytoplasms
 cytoplast
 cytoskeletal
@@ -18452,6 +18459,7 @@ dishclouts
 disheartened
 dishearteningly
 disheartenment
+disheartenments
 disheartens
 dishelmed
 dishelms
@@ -18708,6 +18716,7 @@ disseized
 disseizes
 disseizins
 dissembles
+disseminated
 disseminator
 disseminators
 dissension
@@ -25489,6 +25498,7 @@ fowls
 foxfish
 foxfishes
 foxgloves
+foxhole
 foxholes
 foxhunters
 foxhunting
@@ -26119,6 +26129,7 @@ fusil
 fusileer
 fusileers
 fusiliers
+fusillade
 fusillades
 fusillading
 fusilli
@@ -29401,6 +29412,7 @@ headrooms
 headset
 headsets
 headshrinker
+headshrinkers
 headstand
 headstands
 headstay
@@ -30790,6 +30802,7 @@ housebound
 houseboy
 houseboys
 housebreakers
+housebreaking
 housebreaks
 housebroke
 housebroken
@@ -31116,6 +31129,7 @@ hydrofoils
 hydrogels
 hydrogen
 hydrogenate
+hydrogens
 hydrographer
 hydrography
 hydrokinetic
@@ -31434,6 +31448,7 @@ ibices
 ibidem
 ibis
 ibuprofen
+ice
 iceberg
 icebergs
 iceblink
@@ -32630,6 +32645,7 @@ inductile
 induction
 inductions
 inductive
+inductively
 inductors
 indued
 indulge
@@ -32995,6 +33011,7 @@ injectors
 injudiciously
 injudiciousness
 injunctive
+injure
 injuriousness
 injury
 ink
@@ -36509,6 +36526,7 @@ lekythoi
 lekythos
 lekythus
 lemma
+lemmata
 lemmatizes
 lemmatizing
 lemming
@@ -38801,6 +38819,7 @@ mateyness
 mateys
 mathematically
 mathematician
+mathematics
 mathematization
 mathematize
 mathematized
@@ -41914,6 +41933,7 @@ musket
 muskie
 muskits
 muskmelon
+muskox
 muskrat
 muskrats
 muskroot
@@ -45705,6 +45725,7 @@ ovenproof
 ovens
 overabundant
 overachieve
+overachieved
 overachievement
 overachieving
 overactions
@@ -45792,6 +45813,7 @@ overchill
 overchilled
 overchills
 overcivil
+overclaimed
 overclaims
 overclass
 overclasses
@@ -46498,6 +46520,7 @@ pace
 paced
 pacemakings
 pachinko
+pachisi
 pachouli
 pachydermatous
 pachyderms
@@ -49003,6 +49026,7 @@ pickerels
 pickerelweeds
 picket
 picketboat
+picketboats
 picketed
 picketer
 picketers
@@ -52284,6 +52308,7 @@ prurigos
 pruritic
 prussianise
 prussianises
+prussianization
 prussianize
 prussiate
 prussic
@@ -53832,6 +53857,7 @@ reaccrediting
 reaccused
 reaccusing
 reach
+reachers
 reaches
 reacquaint
 reacquainting
@@ -56549,6 +56575,7 @@ reviewal
 reviewed
 reviewers
 reviewing
+revile
 revilement
 reviling
 revisable
@@ -59074,6 +59101,7 @@ secessionists
 seclude
 secludedly
 secludes
+secluding
 seclusion
 seclusiveness
 seclusivenesses
@@ -59539,6 +59567,7 @@ separately
 separates
 separating
 separationists
+separations
 separatist
 separator
 sepic
@@ -59632,6 +59661,7 @@ seriate
 seriated
 seriates
 seriatim
+seriation
 seriations
 sericin
 sericulture
@@ -61255,10 +61285,12 @@ slendernesses
 sleuthhounds
 slice
 slicers
+slicing
 slick
 slicken
 slickened
 slickenside
+slicker
 slickers
 slickest
 slicknesses
@@ -63215,6 +63247,7 @@ stadtholders
 staffer
 staffers
 staffing
+stag
 stageable
 stagecoach
 stagecoaches
@@ -65596,6 +65629,7 @@ swaggie
 swaggies
 swagging
 swags
+swain
 swale
 swallow
 swallowers
@@ -67225,6 +67259,7 @@ theist
 theistic
 theistically
 thelitis
+thelitises
 thematics
 theme
 themed
