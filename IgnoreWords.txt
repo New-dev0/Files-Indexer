@@ -2614,6 +2614,7 @@ antikings
 antilabor
 antileft
 antileprosy
+antiliberalism
 antilibertarian
 antilife
 antiliterate
@@ -3869,6 +3870,7 @@ ataghans
 atamans
 ataps
 ataractic
+ataractics
 ataraxias
 ataraxics
 ataraxy
@@ -7223,6 +7225,7 @@ bookstores
 boom
 boomboxes
 boomer
+boomeranged
 boomier
 boomingly
 boomkin
@@ -8211,6 +8214,7 @@ bullbriers
 bulldoggings
 bulldyke
 bulldykes
+bulled
 bullet
 bulleted
 bulletin
@@ -9495,6 +9499,7 @@ carnitines
 carnivories
 carnivorous
 carnotites
+caroaches
 caroche
 caroches
 carol
@@ -11188,6 +11193,7 @@ cilia
 ciliary
 ciliately
 ciliation
+ciliolate
 cilium
 cimbalom
 cinched
@@ -12855,6 +12861,7 @@ conatus
 concatenate
 concatenation
 concave
+concavely
 concavities
 conceal
 concealers
@@ -14457,6 +14464,7 @@ cozening
 cozey
 cozeys
 cozie
+cozily
 coziness
 cozy
 cozying
@@ -20252,6 +20260,7 @@ earworms
 eased
 easeful
 easefully
+easels
 easements
 eases
 easier
@@ -23407,6 +23416,7 @@ falderals
 falderol
 falderols
 faldstool
+fall
 fallacies
 fallacious
 fallaciousness
@@ -25475,6 +25485,7 @@ fornent
 fornicate
 fornicates
 fornicating
+fornications
 fornix
 forrit
 forsaken
@@ -28770,6 +28781,7 @@ gypsyisms
 gyrate
 gyrating
 gyrational
+gyrenes
 gyres
 gyrocompasses
 gyrofrequency
@@ -29484,6 +29496,7 @@ headiness
 heading
 headings
 headlamp
+headlamps
 headland
 headless
 headlessness
@@ -29923,6 +29936,7 @@ heretrixes
 hereunder
 hereunto
 heriot
+heritabilities
 heritages
 heritor
 heritors
@@ -32815,6 +32829,7 @@ ineptnesses
 inequity
 inequivalve
 ineradicability
+ineradicable
 ineradicably
 inerrable
 inerrancies
@@ -35092,6 +35107,7 @@ kakiemon
 kakiemons
 kakis
 kalamatas
+kalams
 kaleidoscopes
 kaleidoscopic
 kalewife
@@ -39455,6 +39471,7 @@ mentioner
 mentioners
 mentored
 mentorship
+menudos
 meoued
 meow
 meows
@@ -41755,6 +41772,7 @@ mudfishes
 mudflap
 mudflat
 mudflow
+mudguard
 mudguards
 mudhen
 mudlark
@@ -43953,6 +43971,7 @@ nubbier
 nubbiest
 nubbin
 nubbiness
+nubbins
 nubble
 nubbles
 nubbliest
@@ -46437,6 +46456,7 @@ overspenders
 overspending
 overspends
 overspiced
+overspill
 overspills
 overspins
 overspreading
@@ -46756,6 +46776,7 @@ padshah
 padshahs
 paean
 paeanism
+paeanisms
 paeans
 paediatric
 paediatrician
@@ -47584,6 +47605,7 @@ pasteboard
 pastedowns
 pastel
 pastelist
+pastelists
 pastellist
 pastels
 pasters
@@ -50168,6 +50190,7 @@ polaron
 polarons
 polder
 polders
+poleaxed
 polecats
 poleless
 polemicizing
@@ -50925,6 +50948,7 @@ pranging
 prangs
 prankishly
 prankishness
+pranks
 prankster
 praos
 praseodymium
@@ -51468,6 +51492,7 @@ prepupa
 prepupae
 prepupas
 prequalify
+prequalifying
 prequels
 preradio
 prerecorded
@@ -53606,6 +53631,7 @@ radiobiologies
 radiobiologist
 radiobiologists
 radiobiology
+radiocarbon
 radiochemically
 radiochemists
 radioecologies
@@ -56817,6 +56843,7 @@ revolute
 revolutionaries
 revolutionised
 revolutionises
+revolutionized
 revolvable
 revolve
 revolved
@@ -58039,6 +58066,7 @@ sagely
 saggar
 saggared
 saggaring
+saggars
 sagger
 saggered
 saggering
@@ -60942,6 +60970,7 @@ silkaline
 silkalines
 silked
 silkie
+silkier
 silkiest
 silkolines
 silkweed
@@ -61689,6 +61718,7 @@ slumgullions
 slumgum
 slumgums
 slumism
+slumlord
 slumlords
 slummed
 slummers
@@ -62932,6 +62962,7 @@ spiks
 spiky
 spilings
 spillage
+spilled
 spiller
 spillikin
 spilling
@@ -66590,6 +66621,7 @@ tangles
 tanglier
 tango
 tangoed
+tangoing
 tangos
 tangs
 tanistry
@@ -71248,6 +71280,7 @@ unintimidated
 uninvited
 uninvoked
 unionisation
+unionisations
 unionise
 unionises
 unionism
@@ -74024,6 +74057,7 @@ waybills
 wayfarer
 wayfarings
 waypoint
+waypoints
 waywardness
 waywardnesses
 wazoos
@@ -75362,6 +75396,7 @@ yearbooks
 yearend
 yearn
 yearner
+yearningly
 yeasayer
 yeasayers
 yeasts
