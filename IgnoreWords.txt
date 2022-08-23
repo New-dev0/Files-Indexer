@@ -515,6 +515,7 @@ acupuncturist
 acupuncturists
 acutances
 acute
+acutely
 acuteness
 acutenesses
 acutes
@@ -760,6 +761,7 @@ adversariness
 adversarinesses
 adverseness
 adversity
+adverted
 advertent
 advertisement
 advertises
@@ -1401,6 +1403,7 @@ alimentation
 alimented
 alimony
 aline
+alined
 alinement
 aliners
 alines
@@ -3098,6 +3101,7 @@ appropriateness
 appropriations
 approver
 approves
+approving
 approximate
 approximated
 approximation
@@ -4159,6 +4163,7 @@ authorizing
 autism
 autist
 autistic
+autistically
 autistics
 autists
 auto
@@ -6695,6 +6700,7 @@ blessings
 blest
 blethered
 blights
+blimpishnesses
 blimy
 blind
 blinder
@@ -9941,6 +9947,7 @@ cedarbirds
 cedarwood
 cedary
 ceders
+cedilla
 ceding
 cedis
 cedulas
@@ -14306,6 +14313,7 @@ couples
 couplet
 couponings
 coupons
+courageous
 courageousness
 courages
 courant
@@ -16831,6 +16839,7 @@ demential
 demerara
 demeraran
 demerger
+demerit
 demerited
 demerits
 demesnes
@@ -20519,6 +20528,7 @@ eggars
 eggcups
 egger
 eggheaded
+eggless
 eggnog
 eggnogs
 eggshell
@@ -28188,6 +28198,7 @@ gregarines
 gregariously
 gregariousness
 greiges
+greisens
 gremials
 gremlin
 gremmie
@@ -30685,6 +30696,7 @@ hoosgows
 hoot
 hootches
 hootenanny
+hootier
 hooting
 hooved
 hoover
@@ -31503,6 +31515,7 @@ hypothecators
 hypothecs
 hypothermias
 hypothermic
+hypothesis
 hypothesizing
 hypothetically
 hypothyroidism
@@ -35097,6 +35110,7 @@ kamikaze
 kamikazes
 kanaka
 kanes
+kanjis
 kantar
 kantars
 kaoliangs
@@ -35227,6 +35241,7 @@ ken
 kenafs
 kench
 kenches
+kennel
 kenneling
 kennelled
 kennelling
@@ -35707,6 +35722,7 @@ koto
 kotow
 kotowing
 koumis
+koumises
 koumysses
 kouprey
 kouros
@@ -37942,6 +37958,7 @@ lutein
 luteinizations
 luteinized
 luteinizing
+luteins
 lutenists
 luteotrophins
 luteotropic
@@ -38301,6 +38318,7 @@ maladministered
 maladministers
 maladroitly
 maladroitness
+maladroits
 malady
 malamutes
 malanders
@@ -41397,6 +41415,7 @@ morbidity
 morbidness
 morbidnesses
 morbilli
+mordacities
 mordancy
 mordanted
 mordantly
@@ -45244,6 +45263,7 @@ outages
 outargues
 outarguing
 outasked
+outasks
 outate
 outbacks
 outbaked
@@ -47184,6 +47204,7 @@ parakite
 paralanguages
 paraldehyde
 paraldehydes
+paralegal
 paralegals
 parallactic
 parallax
@@ -49143,6 +49164,7 @@ picaros
 picayune
 picayunish
 piccolo
+piccoloists
 piceous
 picholine
 picholines
@@ -49706,6 +49728,7 @@ plasma
 plasmagels
 plasmalemma
 plasmatic
+plasmic
 plasmodesmata
 plasmogamy
 plasmoid
@@ -50740,6 +50763,7 @@ poteen
 potences
 potentate
 potential
+potentialities
 potentiality
 potentiate
 potentiated
@@ -52088,6 +52112,7 @@ promptbook
 prompter
 promptitudes
 promptnesses
+pronated
 pronation
 pronely
 pronenesses
@@ -60442,6 +60467,7 @@ shlumping
 shlumpy
 shmear
 shmo
+shmoozed
 shmoozes
 shmucks
 shnapps
@@ -60603,6 +60629,7 @@ shrieked
 shriekier
 shrieval
 shrieve
+shrift
 shriller
 shrillnesses
 shrills
@@ -61478,6 +61505,7 @@ slightly
 slightnesses
 slily
 slim
+slime
 slimeball
 slimeballs
 slimed
@@ -61781,6 +61809,7 @@ smothers
 smothery
 smouldered
 smouldering
+smudges
 smudginess
 smudging
 smudgy
@@ -63227,6 +63256,7 @@ sprug
 sprugs
 sprung
 spry
+spryest
 spryly
 sprynesses
 spud
@@ -64573,6 +64603,7 @@ subas
 subastral
 subatmospheric
 subatom
+subbase
 subbasement
 subbasements
 subbases
@@ -68548,6 +68579,7 @@ tourers
 tourism
 tourmaline
 tourney
+tourneyed
 tourneying
 tours
 touse
@@ -70437,6 +70469,7 @@ unburnable
 unburnt
 unbusted
 unbusy
+unbutton
 unbuttons
 uncage
 uncaging
@@ -70825,6 +70858,7 @@ undertaker
 undertakes
 undertaking
 undertaxes
+undertaxing
 undertenant
 undertenants
 undertint
@@ -72684,6 +72718,7 @@ venditions
 vendue
 vendues
 veneered
+veneerings
 veneers
 venenes
 venerableness
