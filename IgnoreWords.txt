@@ -2915,6 +2915,7 @@ apoenzymes
 apogamic
 apogeic
 apolipoprotein
+apolipoproteins
 apolitically
 apollos
 apolog
@@ -3014,6 +3015,7 @@ apperceive
 apperceived
 apperceiving
 appertained
+appertaining
 appestat
 appestats
 appetencies
@@ -3635,6 +3637,7 @@ aspiration
 aspirational
 aspirations
 aspired
+aspirins
 aspis
 aspish
 asrama
@@ -7184,6 +7187,7 @@ bookman
 bookmarker
 bookmarking
 bookoo
+bookplate
 bookracks
 bookshelf
 bookshelves
@@ -9716,6 +9720,7 @@ catchier
 catchiest
 catchments
 catchphrases
+catchpoles
 catchups
 catchword
 catchwords
@@ -12801,6 +12806,7 @@ computerizing
 computernik
 computerphobias
 computerphobic
+computers
 computes
 computist
 computists
@@ -14425,6 +14431,7 @@ crabbed
 crabbedly
 crabbednesses
 crabbers
+crabbiest
 crabbing
 crabgrasses
 crablike
@@ -15862,6 +15869,7 @@ daredeviltries
 dareful
 daric
 daringnesses
+darioles
 dark
 darked
 darken
@@ -26735,6 +26743,7 @@ gemmating
 gemmation
 gemmed
 gemmier
+gemmiest
 gemmily
 gemminess
 gemming
@@ -29082,6 +29091,7 @@ haplessly
 haplite
 haploids
 haploidy
+haplology
 haplontic
 haplopia
 haplopias
@@ -31129,6 +31139,7 @@ hydrid
 hydride
 hydrilla
 hydrillas
+hydrobiologies
 hydrocarbons
 hydroceles
 hydrocephalus
@@ -33205,6 +33216,7 @@ insistent
 insistently
 insister
 insisters
+insnarers
 insnares
 insobrieties
 insociabilities
@@ -35742,6 +35754,7 @@ labiodental
 labiodentals
 labiovelar
 labiovelars
+labor
 laboratories
 laborious
 laboriously
@@ -39450,6 +39463,7 @@ mesmerise
 mesmerisms
 mesmerists
 mesmerize
+mesmerized
 mesmerizing
 mesne
 mesnes
@@ -39777,6 +39791,7 @@ microinch
 microinject
 microinjected
 microinjection
+microinjections
 microloan
 microlux
 micromanage
@@ -41711,6 +41726,7 @@ multicolored
 multiconductor
 multicounty
 multicourse
+multicurie
 multicurrencies
 multiday
 multidialectal
@@ -44033,6 +44049,7 @@ obese
 obesities
 obesity
 obey
+obeyable
 obeyed
 obeyer
 obeying
@@ -44992,6 +45009,7 @@ orthopteran
 orthopterist
 orthopterists
 orthopteroid
+orthostatic
 orthotic
 orthotics
 orthotropous
@@ -46323,6 +46341,7 @@ overstretches
 overstrew
 overstrewed
 overstride
+overstrung
 overstudies
 overstuff
 oversubtle
@@ -47318,6 +47337,7 @@ parsnips
 parsonages
 parsonic
 parsonish
+parsons
 part
 partaker
 partakers
@@ -50064,6 +50084,7 @@ polled
 pollees
 pollen
 pollenate
+pollenated
 pollenates
 pollenating
 pollenizers
@@ -51273,6 +51294,7 @@ preportioning
 prepositional
 prepositions
 prepositive
+prepossessed
 prepossessions
 preposterously
 prepotency
@@ -51862,6 +51884,7 @@ prognathism
 prognathous
 prognose
 prognosed
+prognoses
 prognosticate
 prognosticates
 prognosticating
@@ -58806,6 +58829,7 @@ scotched
 scotching
 scoters
 scotia
+scotomas
 scotopia
 scotties
 scour
@@ -60081,6 +60105,7 @@ sheephead
 sheepherder
 sheepherding
 sheepherdings
+sheepish
 sheepishnesses
 sheepshanks
 sheepshearers
@@ -60342,6 +60367,7 @@ shoetree
 shoetrees
 shofars
 shofroth
+shog
 shogi
 shogis
 shogs
@@ -61501,6 +61527,7 @@ slummers
 slummier
 slummiest
 slummy
+slumpflations
 slumping
 slungshot
 slurb
@@ -61686,6 +61713,7 @@ snapback
 snapbacks
 snapped
 snappers
+snappier
 snappily
 snappishly
 snappishnesses
@@ -62610,6 +62638,7 @@ speedup
 speedwell
 speedwells
 speeling
+speered
 speils
 speired
 speirs
@@ -62665,6 +62694,7 @@ spessartites
 spewer
 spewers
 spewing
+spews
 sphagnums
 sphene
 sphenes
@@ -66149,6 +66179,7 @@ tachinid
 tachisme
 tachismes
 tachisms
+tachist
 tachiste
 tachistes
 tachometers
@@ -67322,6 +67353,7 @@ theorbo
 theoretic
 theoretically
 theories
+theorises
 theorize
 theorized
 theosophically
@@ -69916,6 +69948,7 @@ tyronic
 tyrosine
 tyrosines
 tythe
+tythes
 tzardoms
 tzarism
 tzarisms
@@ -73482,6 +73515,7 @@ wallet
 walleye
 walleyes
 walloped
+walloping
 wallopings
 wallops
 wallow
@@ -74150,6 +74184,7 @@ whiskered
 whiskery
 whiskey
 whiskies
+whisking
 whisper
 whisperers
 whispering
