@@ -1,0 +1,6 @@
+kinetic-live-server-ppc64el.manifest - Ubuntu CDimage,https://cdimage.ubuntu.com/ubuntu-server/daily-live/current/kinetic-live-server-ppc64el.manifest
+kinetic-live-server-s390x.manifest - Ubuntu CDimage,https://cdimage.ubuntu.com/ubuntu-server/daily-live/current/kinetic-live-server-s390x.manifest
+mirror.coganng.com/ubuntu-cdimage/21.10/ubuntu-21....,http://mirror.coganng.com/ubuntu-cdimage/21.10/ubuntu-21.10-beta-live-server-amd64.manifest
+https://cdimage.ubuntu.mirror.onlime.sl/releases/2...,https://cdimage.ubuntu.mirror.onlime.sl/releases/21.04/release/ubuntu-21.04-preinstalled-server-armhf%2Braspi.manifest
+https://cdimage.ubuntu.mirror.onlime.sl/releases/2...,https://cdimage.ubuntu.mirror.onlime.sl/releases/21.04/release/ubuntu-21.04-live-server-arm64.manifest
+kinetic-live-server-amd64.manifest - FTP Directory Listing,http://ftp.jaist.ac.jp/pub/Linux/ubuntu-cdimage/ubuntu-server/daily-live/current/kinetic-live-server-amd64.manifest

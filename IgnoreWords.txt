@@ -938,6 +938,7 @@ affronted
 affronts
 affusions
 afghan
+afghans
 aficionada
 aficionadas
 aficionados
@@ -2419,6 +2420,7 @@ anted
 antedate
 antedating
 antediluvian
+antefixae
 antefixal
 anteing
 antemortem
@@ -3350,6 +3352,7 @@ arkose
 armada
 armadas
 armagnacs
+armament
 armamentaria
 armamentarium
 armature
@@ -7386,6 +7389,7 @@ bounties
 bountiful
 bounty
 bourbon
+bourbonism
 bourbons
 bourg
 bourgeois
@@ -14934,6 +14938,7 @@ crowfoot
 crowing
 crownets
 crowning
+crownless
 crows
 crozers
 croziers
@@ -15540,6 +15545,7 @@ cyclin
 cycling
 cyclings
 cyclitol
+cyclize
 cyclized
 cyclizes
 cyclizing
@@ -15629,6 +15635,7 @@ cystolith
 cystoscopic
 cystoscopies
 cystoscopy
+cytaster
 cytidine
 cytochalasin
 cytochalasins
@@ -19601,6 +19608,7 @@ dreading
 dreadlocks
 dreads
 dream
+dreamboats
 dreamful
 dreamfully
 dreaminess
@@ -20401,6 +20409,7 @@ educed
 educible
 eduction
 eductor
+educts
 edulcorated
 edulcorating
 eel
@@ -21185,6 +21194,7 @@ endonucleolytic
 endopeptidases
 endoperoxide
 endoplasms
+endopolyploidy
 endoproct
 endorsable
 endorse
@@ -21840,6 +21850,7 @@ eposes
 epoxidizing
 epoxied
 epoxy
+epoxying
 epsilonic
 equablenesses
 equably
@@ -23235,6 +23246,7 @@ factionally
 factions
 factious
 factitiousness
+factoid
 factoidal
 factoids
 factorable
@@ -28579,6 +28591,7 @@ gunfire
 gunflints
 gunites
 gunk
+gunks
 gunlocks
 gunmetals
 gunned
@@ -28592,6 +28605,7 @@ gunnybag
 gunnysack
 gunpapers
 gunplays
+gunpoint
 gunpowder
 gunroom
 gunrunner
@@ -29690,6 +29704,7 @@ hematics
 hematin
 hematines
 hematinics
+hematins
 hematite
 hematomas
 hematopoiesis
@@ -30122,6 +30137,7 @@ hilt
 hilted
 hilting
 hiltless
+hilts
 hilum
 himations
 hims
@@ -33766,6 +33782,7 @@ intombing
 intonating
 intonational
 intoner
+intoners
 intoning
 intoxications
 intracardiac
@@ -34687,6 +34704,7 @@ jitterinesses
 jittery
 jiujutsu
 jiveass
+jives
 jivey
 jiving
 jo
@@ -36614,6 +36632,7 @@ leprously
 leptins
 leptonic
 leptophos
+leptosome
 leptospiral
 leptotene
 les
@@ -37549,6 +37568,7 @@ lophophores
 loping
 lopped
 lopper
+loppered
 loppering
 loppers
 loppier
@@ -38004,6 +38024,7 @@ machining
 machinists
 machismo
 machismos
+machoism
 machos
 machree
 machzor
@@ -42370,6 +42391,7 @@ naturalism
 naturalisms
 naturalize
 naturalized
+naturally
 natured
 natures
 naturopathic
@@ -42923,6 +42945,7 @@ nimblenesses
 nimbler
 nimbostrati
 nimbostratus
+nimbused
 nimming
 nincompoopery
 ninebarks
@@ -43597,6 +43620,7 @@ nonspecific
 nonspherical
 nonsporting
 nonstandard
+nonstaples
 nonstarter
 nonstatic
 nonstationary
@@ -44914,6 +44938,7 @@ orienteers
 orienter
 orienting
 orients
+orificial
 oriflammes
 origamis
 origanum
@@ -45085,6 +45110,7 @@ osteoporoses
 osteosarcomas
 osteosarcomata
 osteoses
+osteotome
 osteotomies
 ostiary
 ostinati
@@ -46263,6 +46289,7 @@ oversaturates
 oversaturation
 oversaturations
 oversave
+oversaves
 oversaving
 overscale
 overscoring
@@ -57019,6 +57046,7 @@ riotously
 riotousness
 riots
 rip
+ripcords
 ripener
 ripeness
 ripenesses
@@ -57627,6 +57655,7 @@ rumbustiously
 rumbustiousness
 rumen
 rumens
+rumina
 ruminated
 ruminates
 ruminating
@@ -61178,6 +61207,7 @@ skydive
 skydived
 skydives
 skydiving
+skying
 skyjacked
 skyjackers
 skylarked
@@ -69597,6 +69627,7 @@ tumultuousness
 tumulus
 tun
 tuna
+tunabilities
 tunable
 tunableness
 tunablenesses
@@ -69892,6 +69923,7 @@ typescript
 typescripts
 typeset
 typesets
+typesetter
 typesetting
 typesettings
 typestyles
@@ -70198,6 +70230,7 @@ unarm
 unarmed
 unarrogant
 unarticulated
+unartistic
 unary
 unaspirated
 unassailability
@@ -71963,6 +71996,7 @@ upstate
 upstater
 upstepped
 upstir
+upstirs
 upstood
 upstroke
 upsurged
@@ -73470,6 +73504,7 @@ waistcoat
 waister
 waisting
 waistings
+waistless
 waists
 waitered
 waiters
