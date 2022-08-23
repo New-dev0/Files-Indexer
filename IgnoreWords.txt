@@ -1302,6 +1302,7 @@ albuminurias
 albumoses
 alburnous
 alburnums
+alcades
 alcahests
 alcaics
 alcaldes
@@ -3771,6 +3772,7 @@ assumers
 assumes
 assuming
 assumpsit
+assumpsits
 assumption
 assumptions
 assurable
@@ -4287,6 +4289,7 @@ ave
 avellane
 avenger
 avenging
+avenses
 aventurin
 aventurine
 aventurines
@@ -6120,6 +6123,7 @@ bifocals
 bifoliate
 biformed
 bifunctional
+bifurcate
 bifurcating
 bifurcations
 big
@@ -10662,6 +10666,7 @@ chesty
 chetrums
 chevalet
 chevalets
+chevaliers
 chevelures
 cheviot
 chevre
@@ -13835,6 +13840,7 @@ corder
 corders
 cordialities
 cordially
+cordialnesses
 cordials
 cordierite
 cordierites
@@ -14655,6 +14661,7 @@ creative
 creatively
 creativenesses
 creativities
+creators
 creatural
 creature
 creaturehood
@@ -15931,6 +15938,7 @@ daredevil
 daredevilry
 daredeviltries
 dareful
+darers
 daric
 daringnesses
 darioles
@@ -16007,6 +16015,7 @@ daunomycin
 daunomycins
 daunter
 dauntless
+dauntlessness
 dauphines
 dauts
 daven
@@ -18463,6 +18472,7 @@ disembarks
 disembarrassed
 disembarrasses
 disembarrassing
+disembodied
 disembodies
 disembody
 disembodying
@@ -21728,6 +21738,7 @@ enzymologists
 enzymology
 enzyms
 eohippuses
+eoliths
 eolopile
 eolopiles
 eon
@@ -27023,6 +27034,7 @@ germanize
 germanizes
 germanizing
 germans
+germen
 germens
 germfree
 germicides
@@ -28562,6 +28574,7 @@ gueridons
 guernsey
 guernseys
 guerrilla
+guerrillas
 guessable
 guesser
 guessers
@@ -30191,6 +30204,7 @@ highlands
 highlighting
 highness
 highroad
+hight
 hightailed
 hightailing
 highths
@@ -30497,6 +30511,7 @@ holystones
 homager
 homages
 homaging
+hombre
 hombres
 homburgs
 homebodies
@@ -30857,6 +30872,7 @@ hosey
 hoseys
 hosieries
 hosiers
+hosing
 hospice
 hospices
 hospitalised
@@ -38506,6 +38522,7 @@ managerially
 managers
 managership
 managerships
+manakins
 mananas
 manas
 manches
@@ -38526,6 +38543,7 @@ mandola
 mandolins
 mandragoras
 mandrake
+mandrakes
 mandrel
 mandrill
 mandrils
@@ -41455,6 +41473,7 @@ moralistically
 moralizations
 moralizes
 moralizing
+morally
 morals
 moras
 morass
@@ -44221,6 +44240,7 @@ obituaries
 objected
 objectifies
 objection
+objectionable
 objections
 objective
 objectiveness
@@ -44933,6 +44953,7 @@ options
 optoelectronic
 optometers
 optometries
+optometrists
 optometry
 opts
 opulences
@@ -47413,6 +47434,7 @@ paretic
 paretics
 pareve
 parfleches
+parfocal
 parfocality
 parfocalized
 parfocalizes
@@ -55159,6 +55181,7 @@ refroze
 reft
 refuels
 refuge
+refugees
 refugium
 refulgence
 refundabilities
@@ -55804,6 +55827,7 @@ rentes
 rentiers
 renumber
 renumbers
+renunciations
 renunciative
 renunciatory
 renvoi
@@ -56176,6 +56200,7 @@ rescoring
 rescreening
 rescue
 rescuer
+rescues
 resculpted
 resculpting
 resealable
@@ -57769,6 +57794,7 @@ rudderpost
 ruddled
 ruddlemen
 ruddles
+ruddock
 rudds
 ruddy
 rudeness
@@ -61686,6 +61712,7 @@ slouchily
 slouching
 sloughiest
 sloughs
+sloven
 slovenlier
 slovenliest
 slovenly
@@ -63414,6 +63441,7 @@ squares
 squaring
 squarishnesses
 squashed
+squasher
 squashers
 squashes
 squashier
@@ -63857,6 +63885,7 @@ steersmen
 steeve
 steeves
 steeving
+stegodons
 stegosaurs
 stegosauruses
 stela
@@ -68894,6 +68923,7 @@ transacts
 transamination
 transaxle
 transaxles
+transcend
 transcended
 transcending
 transcends
@@ -71072,6 +71102,7 @@ unemotionally
 unemphatically
 unemployability
 unemployables
+unemployed
 unemployeds
 unemployment
 unemployments
@@ -72617,6 +72648,7 @@ variational
 variationally
 variations
 varicellas
+varices
 varicoceles
 varicolored
 varicose
@@ -72744,6 +72776,7 @@ vegan
 veganism
 vegetable
 vegetables
+vegetably
 vegetal
 vegetarian
 vegetarianisms
@@ -73799,6 +73832,7 @@ walrus
 walruses
 waltz
 waltzer
+wambled
 wamblier
 wamefou
 wamefuls
@@ -75088,6 +75122,7 @@ worker
 workfares
 workflow
 workforce
+workhorse
 workhorses
 workhour
 workhouse
