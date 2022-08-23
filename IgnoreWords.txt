@@ -3974,6 +3974,7 @@ attending
 attent
 attentional
 attentively
+attenuated
 attenuation
 attestant
 attestation
@@ -6854,6 +6855,7 @@ bluetick
 bluetongues
 blueweeds
 bluewood
+bluey
 bluff
 bluffed
 bluffers
@@ -9084,6 +9086,7 @@ cannonades
 cannonading
 cannonballed
 cannonballing
+cannoned
 cannoning
 cannulated
 cannulating
@@ -14221,6 +14224,7 @@ counterplans
 counterplay
 counterplayer
 counterplays
+counterplea
 counterplot
 counterplots
 counterpointed
@@ -14489,6 +14493,7 @@ craggy
 crake
 cram
 crambe
+crambo
 crambos
 crammed
 crammer
@@ -18061,6 +18066,7 @@ diosgenin
 dioxan
 dioxane
 dioxans
+dioxid
 dioxin
 dioxins
 dip
@@ -19077,6 +19083,7 @@ doffs
 dog
 dogcart
 dogdoms
+dogearing
 dogears
 dogedoms
 doges
@@ -27919,6 +27926,7 @@ grandaunt
 grandaunts
 grandbabies
 grandchild
+grandchildren
 granddad
 granddaddy
 granddads
@@ -28617,6 +28625,7 @@ gunnings
 gunny
 gunnybag
 gunnysack
+gunnysacks
 gunpapers
 gunplays
 gunpoint
@@ -31098,6 +31107,7 @@ husbandries
 hush
 hushaby
 hushed
+hushes
 hushing
 hushpuppies
 husk
@@ -35472,6 +35482,7 @@ kinked
 kinkiest
 kinkily
 kinkinesses
+kinks
 kinsfolk
 kinsmen
 kiosks
@@ -36206,6 +36217,7 @@ lated
 lateener
 lateens
 laten
+latencies
 lateness
 latens
 latent
@@ -36710,6 +36722,7 @@ leukopoietic
 leukorrhea
 leukotomies
 levanter
+levanters
 levanting
 levants
 levatores
@@ -38868,6 +38881,7 @@ matchsticks
 matchups
 matchwood
 matelasses
+matelot
 matelotes
 matelots
 materialises
@@ -40705,6 +40719,7 @@ missays
 misseats
 missend
 missending
+missends
 missenses
 missent
 misses
@@ -48219,6 +48234,7 @@ perfidiously
 perfidiousness
 perforate
 perforated
+perforates
 perforating
 perforation
 perforations
@@ -49443,6 +49459,7 @@ piratic
 piratically
 pirayas
 piriform
+pirn
 piroghi
 pirojki
 piroplasm
@@ -49455,6 +49472,7 @@ pirouetting
 pirozhki
 pirozhok
 pis
+piscatorial
 piscatory
 piscine
 piscivore
@@ -51452,6 +51470,7 @@ preshown
 preshrink
 preshrinks
 preshrunk
+preside
 presidencies
 presidential
 presidentship
@@ -54346,6 +54365,7 @@ reclusively
 recoal
 recoaled
 recoat
+recoats
 recocked
 recocks
 recode
@@ -55056,6 +55076,7 @@ regenerable
 regeneracies
 regenerately
 regeneration
+regenerations
 regenerator
 regental
 reges
@@ -57088,6 +57109,7 @@ ripoffs
 riposte
 ripostes
 ripper
+rippers
 ripping
 rippled
 ripplet
@@ -58645,6 +58667,7 @@ scatterbrained
 scatterbrains
 scatterers
 scattergood
+scattergram
 scattergrams
 scattergun
 scatterguns
@@ -59471,6 +59494,7 @@ semestrial
 semi
 semiangle
 semiangles
+semiannual
 semiannually
 semiaquatic
 semiarid
@@ -63179,6 +63203,7 @@ spudding
 spumes
 spumiest
 spumoni
+spumonis
 spumy
 spunk
 spunkies
@@ -66510,6 +66535,7 @@ tantalum
 tantara
 tantivies
 tantivy
+tanto
 tantra
 tantrism
 tanuki
@@ -68157,6 +68183,7 @@ tokenism
 tokers
 tokes
 toking
+tokologies
 tokonoma
 tolan
 tolanes
@@ -68848,6 +68875,7 @@ transvalue
 transvalues
 transvaluing
 transversal
+transversals
 transverse
 transversely
 trapans
@@ -71535,6 +71563,7 @@ unsalted
 unsalvageable
 unsanctioned
 unsatisfied
+unsaturate
 unsaturated
 unsaturates
 unsaved
@@ -71731,6 +71760,7 @@ untented
 untenured
 untested
 untether
+untethered
 untethering
 untethers
 unthinkably
@@ -72259,6 +72289,7 @@ vaginated
 vagotomy
 vagotonia
 vagotonic
+vagrantly
 vagrants
 vaguer
 vagus
@@ -72493,6 +72524,7 @@ vassals
 vastier
 vastitudes
 vastity
+vastly
 vasty
 vatfuls
 vatical
@@ -74033,6 +74065,7 @@ weirds
 weisenheimer
 weisenheimers
 wekas
+welchers
 welches
 welcomely
 welcomenesses
@@ -74163,6 +74196,7 @@ whenever
 whens
 whensoever
 wherefore
+wherein
 whereinto
 whereon
 wheresoever
@@ -74869,6 +74903,7 @@ workaday
 workaholisms
 workbag
 workbags
+workbaskets
 workbenches
 workboat
 workbox
