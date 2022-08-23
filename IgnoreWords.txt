@@ -1178,6 +1178,7 @@ airdate
 airdates
 airdrop
 airdropped
+airdropping
 airdrops
 airest
 airfares
@@ -3226,6 +3227,7 @@ archduchy
 archdukes
 archegonium
 archenemies
+archenteron
 archenterons
 archeology
 archerfish
@@ -6104,6 +6106,7 @@ bilateralisms
 bilaterally
 bilberries
 bilberry
+bilbies
 bilbo
 bilbos
 bilby
@@ -7049,6 +7052,7 @@ bombable
 bombarded
 bombarder
 bombardier
+bombards
 bombasters
 bombasts
 bombazines
@@ -7361,11 +7365,13 @@ bourgeon
 bourgeoned
 bourgs
 bourguignon
+bourree
 bourrees
 bourrides
 bouses
 bousing
 bousouki
+bout
 boutiques
 boutiquey
 boutonniere
@@ -9043,6 +9049,7 @@ canolas
 canoness
 canonic
 canonical
+canonicity
 canonise
 canonised
 canonises
@@ -10914,6 +10921,7 @@ choriamb
 choriambs
 choric
 choring
+chorioallantois
 chorion
 chorionic
 chorions
@@ -13564,6 +13572,7 @@ cookwares
 coolant
 coolants
 coolest
+coolish
 coolness
 coolnesses
 coolths
@@ -13672,6 +13681,7 @@ copulatory
 copurified
 copurifies
 copy
+copybook
 copyboy
 copycat
 copycats
@@ -14190,6 +14200,7 @@ counterthrusts
 countertrade
 countertrades
 countertrend
+countertrends
 countervailed
 countervailing
 countervails
@@ -14707,6 +14718,7 @@ crissa
 crisscrosses
 crisscrossing
 crista
+cristate
 crit
 criteria
 criterions
@@ -15628,6 +15640,7 @@ dafter
 daftest
 dag
 daggas
+dagger
 daggerlike
 daggers
 daggled
@@ -15939,6 +15952,7 @@ deadlined
 deadliness
 deadlining
 deadly
+deadmen
 deadpan
 deadpanner
 deadweights
@@ -16141,6 +16155,7 @@ deciliters
 decillion
 decimate
 decimates
+decimating
 decimation
 decimator
 decipherers
@@ -19810,6 +19825,7 @@ dumbfounder
 dumbfoundered
 dumbfoundering
 dumbfounding
+dumbfounds
 dumbhead
 dumbs
 dumbstruck
@@ -26662,6 +26678,7 @@ generalization
 generalize
 generalizer
 generalizes
+generalizing
 generally
 generals
 generation
@@ -27677,6 +27694,7 @@ goutily
 goutinesses
 gouts
 govern
+governance
 governances
 governed
 governess
@@ -32559,6 +32577,7 @@ inebriant
 inebriate
 inebriates
 inebriating
+inedibly
 ineducable
 ineffabilities
 ineffability
@@ -33060,6 +33079,7 @@ insinuates
 insinuating
 insinuatingly
 insinuators
+insipidities
 insipidity
 insistency
 insistent
@@ -36946,6 +36966,7 @@ lipstick
 lipsticked
 lipsticks
 liquates
+liquation
 liquations
 liquefaction
 liquefier
@@ -37799,6 +37820,7 @@ lytta
 lyttae
 lyttas
 ma
+mabes
 macacos
 macadamia
 macadamias
@@ -41718,6 +41740,7 @@ murker
 murkier
 murmured
 murmurer
+murmurers
 murmuring
 murmurous
 murmurs
@@ -42254,6 +42277,7 @@ nebulose
 nebulosities
 nebulous
 nebulously
+necessaries
 necessarily
 necessary
 necessitarian
@@ -44231,6 +44255,7 @@ oho
 oidia
 oidioid
 oilbird
+oilcloth
 oilcups
 oilers
 oiliest
@@ -44419,6 +44444,7 @@ oomiaks
 oompahs
 oomph
 oomphs
+oophorectomies
 oophyte
 oophytes
 ooralis
@@ -46018,6 +46044,7 @@ overreact
 overreactions
 overrefinements
 overregulate
+overregulated
 overregulates
 overregulating
 overregulations
@@ -51648,6 +51675,7 @@ prognosed
 prognosticate
 prognosticates
 prognosticating
+prognosticator
 prognosticators
 prognostics
 programed
@@ -54866,6 +54894,7 @@ reheated
 reheater
 reheel
 reheeled
+reheeling
 rehemmed
 rehinges
 rehire
@@ -60682,6 +60711,7 @@ sisals
 siskins
 sissiest
 sissyish
+sistered
 sisterhoods
 sisters
 sistroid
@@ -64531,6 +64561,7 @@ subspecies
 subspecific
 substage
 substages
+substantially
 substantialness
 substantiative
 substantival
@@ -68762,6 +68793,7 @@ tridents
 trienes
 triennials
 trienniums
+triens
 trientes
 trier
 trierarchy
@@ -68828,6 +68860,7 @@ trimethoprim
 trimethoprims
 trimetric
 trimetrogons
+trimly
 trimmed
 trimmer
 trimmers
@@ -71845,6 +71878,7 @@ vacillating
 vacillations
 vacillators
 vacuities
+vacuolate
 vacuoles
 vacuous
 vacuousness
@@ -72473,6 +72507,7 @@ vibratory
 vibratos
 vibrio
 vibrios
+vibrioses
 vicarage
 vicarate
 vicarates
