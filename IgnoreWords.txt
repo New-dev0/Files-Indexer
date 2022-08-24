@@ -1211,6 +1211,7 @@ airlifting
 airline
 airliner
 airmailing
+airman
 airmen
 airplanes
 airports
@@ -6190,6 +6191,7 @@ bilging
 bilharziases
 biliary
 bilinear
+biliverdin
 biliverdins
 bilk
 bilker
@@ -9703,6 +9705,7 @@ castigation
 castigations
 castle
 castled
+castling
 castoff
 castoffs
 castoreum
@@ -10486,6 +10489,7 @@ chartreuses
 chartularies
 chartulary
 charwomen
+chary
 chaseable
 chaser
 chasers
@@ -11633,6 +11637,7 @@ clerkships
 clever
 cleverer
 cleverish
+cleverness
 clew
 clewed
 cliche
@@ -11686,6 +11691,7 @@ clipt
 cliques
 cliquiest
 cliquing
+cliquishness
 clitellum
 cliticize
 clitics
@@ -16026,6 +16032,7 @@ dashy
 dassie
 dastard
 dastardliness
+dastardlinesses
 databanks
 databased
 databases
@@ -20367,6 +20374,7 @@ ebbing
 ebonies
 ebony
 ebooks
+ebullience
 ebulliences
 ebullient
 ebulliently
@@ -20818,6 +20826,7 @@ elhi
 elicit
 elicitation
 elided
+elides
 eligibilities
 eligible
 eliminates
@@ -22816,6 +22825,7 @@ executants
 executer
 executers
 executes
+executioner
 executioners
 executions
 executives
@@ -25910,6 +25920,7 @@ friary
 fribble
 fribbler
 fribbles
+fricassee
 fricasseed
 fricasseeing
 fricative
@@ -28265,6 +28276,7 @@ greegree
 greeing
 greek
 greenbacker
+greenbackisms
 greenbacks
 greenbelts
 greenbrier
@@ -29063,6 +29075,7 @@ hales
 halfback
 halfbeak
 halfbeaks
+halfhearted
 halflives
 halfpence
 halfpennies
@@ -43453,6 +43466,7 @@ noncola
 noncolas
 noncolored
 noncolors
+noncombat
 noncombative
 noncommercial
 noncommittally
@@ -44585,6 +44599,7 @@ octuples
 octuplex
 octuply
 octyl
+octyls
 ocular
 ocularist
 oculars
@@ -45247,6 +45262,7 @@ orologists
 orology
 oropharyngeal
 oropharynx
+oropharynxes
 orotund
 orotundities
 orotundity
@@ -45540,6 +45556,7 @@ outcrossed
 outcrosses
 outcrowd
 outcry
+outcrying
 outcursing
 outdances
 outdancing
@@ -45750,6 +45767,7 @@ outpasses
 outpatient
 outpatients
 outpeopled
+outpitched
 outpitied
 outplace
 outplacement
@@ -46414,6 +46432,7 @@ overlearning
 overlearns
 overlearnt
 overlend
+overlending
 overlengthening
 overlengthens
 overlet
@@ -46982,6 +47001,7 @@ painful
 painfully
 painfulness
 painfulnesses
+painkiller
 painkilling
 painlessness
 painstakingly
@@ -48612,6 +48632,7 @@ permanganates
 permeability
 permeably
 permeance
+permeant
 permeate
 permeates
 permeating
@@ -49555,6 +49576,7 @@ pimas
 pimentos
 pimped
 pimpernel
+pimping
 pimples
 pimpliest
 pimply
@@ -51135,6 +51157,7 @@ prattlingly
 prawning
 prawns
 praxeological
+praxeology
 praxes
 praxises
 pray
@@ -51321,6 +51344,7 @@ prededucts
 predefining
 predella
 predesignate
+predesignates
 predestinarians
 predestination
 predestinations
@@ -53478,6 +53502,7 @@ quartzes
 quartzous
 quasars
 quash
+quasi
 quasicrystal
 quasicrystals
 quasiparticles
@@ -53754,6 +53779,7 @@ rackingly
 rackle
 rackwork
 rackworks
+racon
 racons
 raconteur
 racoons
@@ -54417,6 +54443,7 @@ reassorts
 reassumed
 reassumes
 reassured
+reassures
 reassuring
 reata
 reattach
@@ -54787,6 +54814,7 @@ recoverers
 recoveries
 recovery
 recrate
+recrated
 recrates
 recreancies
 recreancy
@@ -55925,6 +55953,7 @@ reneges
 renegotiable
 renegotiate
 renegotiations
+renested
 renests
 renew
 renewabilities
@@ -58383,6 +58412,7 @@ saltatorial
 saltatory
 saltboxes
 saltbush
+saltcellar
 salter
 saltern
 saltiers
@@ -59941,6 +59971,7 @@ sensationalists
 sensationalized
 sensations
 sense
+sensed
 senseful
 sensei
 senseis
@@ -60323,6 +60354,7 @@ shah
 shahdom
 shahdoms
 shahs
+shaird
 shairns
 shaitan
 shaitans
@@ -66836,6 +66868,7 @@ tangoing
 tangos
 tangs
 tanistry
+tank
 tanka
 tankage
 tankages
@@ -67731,6 +67764,7 @@ theatricalism
 theatricalisms
 theatricalities
 theatricalize
+theatricalized
 theatricalizes
 theatricals
 thebaines
@@ -72503,6 +72537,7 @@ uredinium
 urediospore
 urediospores
 uredo
+uremia
 ureter
 ureteric
 ureters
