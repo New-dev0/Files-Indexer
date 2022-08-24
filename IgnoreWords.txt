@@ -2174,6 +2174,7 @@ androgeneses
 androgenic
 androgynies
 androgynous
+androids
 andrologies
 andros
 androsterone
@@ -2515,6 +2516,7 @@ antiarrhythmic
 antiars
 antiarthritic
 antiasthma
+antiauthority
 antiauxin
 antiauxins
 antibacterial
@@ -5373,6 +5375,7 @@ beblooding
 bebop
 bebops
 becalmed
+becalms
 becapping
 becaps
 becarpeted
@@ -8478,6 +8481,7 @@ burweeds
 burying
 bus
 busbar
+busboy
 busboys
 bush
 bushbucks
@@ -9450,6 +9454,7 @@ cardamons
 cardamums
 cardboards
 cardcase
+carder
 carders
 cardia
 cardigan
@@ -10732,6 +10737,7 @@ chevres
 chevrons
 chevy
 chevying
+chewers
 chewier
 chewiness
 chews
@@ -14129,6 +14135,7 @@ corticoids
 corticosterone
 corticotrophin
 corticotrophins
+corticotropin
 cortisone
 corulers
 corundum
@@ -15231,6 +15238,7 @@ crystalloid
 crystalloidal
 crystals
 ctenidium
+ctenophoran
 ctenophorans
 ctenophores
 cuadrillas
@@ -15254,6 +15262,7 @@ cubicity
 cubics
 cubiform
 cubing
+cubists
 cubitus
 cuboid
 cuboidal
@@ -16681,6 +16690,7 @@ deflea
 defleaed
 deflect
 deflecting
+deflections
 deflective
 deflector
 deflexed
@@ -21797,6 +21807,7 @@ enuf
 enumerabilities
 enumerate
 enumerated
+enumerating
 enumerations
 enumerative
 enunciable
@@ -29009,6 +29020,7 @@ habitude
 habitudes
 habitues
 haboobs
+habu
 habus
 hacek
 hachures
@@ -32753,6 +32765,7 @@ incorpse
 incorpses
 incorrect
 incorrectness
+incorrectnesses
 incorrigible
 incorrupted
 incorruptibles
@@ -35442,6 +35455,7 @@ kebob
 kecking
 keckle
 keckles
+keckling
 kecks
 kedged
 kedgerees
@@ -39308,6 +39322,7 @@ maxi
 maxillaries
 maxillary
 maxilliped
+maxillofacial
 maxim
 maxima
 maximalist
@@ -43485,6 +43500,7 @@ nominating
 nomination
 nominations
 nominee
+nominees
 nomism
 nomistic
 nomogram
@@ -46603,6 +46619,7 @@ overmanning
 overmantels
 overmaster
 overmastered
+overmastering
 overmasters
 overmatching
 overmaturity
@@ -47577,6 +47594,7 @@ parallel
 paralleled
 parallelepiped
 paralleling
+parallelism
 parallelisms
 parallelling
 parallels
@@ -50962,6 +50980,7 @@ posed
 poses
 poseurs
 poshest
+poshly
 poshness
 poshnesses
 posies
@@ -55591,6 +55610,7 @@ regionals
 regisseurs
 registerable
 registered
+registering
 registrants
 registration
 registrations
@@ -59723,6 +59743,7 @@ seatings
 seatmate
 seatmates
 seatworks
+seawall
 seawalls
 seawan
 seawants
@@ -62471,6 +62492,7 @@ snottily
 snottiness
 snout
 snoutiest
+snow
 snowbank
 snowbanks
 snowbell
@@ -62653,6 +62675,7 @@ softest
 softheaded
 softheads
 softies
+softish
 software
 softwares
 sogged
@@ -65523,6 +65546,7 @@ subtilization
 subtilizations
 subtilize
 subtitling
+subtlenesses
 subtler
 subtlest
 subtleties
@@ -66316,6 +66340,7 @@ sustained
 susurrant
 susurrated
 susurration
+susurrations
 sutlers
 sutra
 suttas
@@ -67235,6 +67260,7 @@ tasteful
 tastefulness
 tastefulnesses
 tastelessness
+tastemakers
 tastes
 tastiest
 tastily
@@ -67247,6 +67273,7 @@ tatsois
 tatter
 tatterdemalion
 tatterdemalions
+tattering
 tattersall
 tattie
 tattiness
@@ -67426,6 +67453,7 @@ tees
 teeterboards
 teetering
 teethe
+teethers
 teething
 teethings
 teethridge
@@ -69173,6 +69201,7 @@ toxicologist
 toxicologists
 toxicology
 toxics
+toxigenic
 toxins
 toxoid
 toxoids
@@ -69602,6 +69631,7 @@ trehalas
 trehaloses
 treillages
 trekker
+trekking
 treks
 trellises
 trelliswork
@@ -70423,6 +70453,7 @@ turpeth
 turpitudes
 turquoises
 turret
+turreted
 turtleback
 turtleheads
 turtleneck
@@ -71312,6 +71343,7 @@ underflow
 underflows
 underfoot
 underfund
+underfurs
 undergarment
 undergirt
 underglaze
@@ -72330,6 +72362,7 @@ unsteels
 unstemmed
 unsteps
 unsterilized
+unstinting
 unstintingly
 unstitch
 unstitched
@@ -72909,6 +72942,7 @@ vacuous
 vacuousness
 vacuousnesses
 vagabond
+vagabondages
 vagabondism
 vagabondisms
 vagally
@@ -73699,6 +73733,7 @@ vinosity
 vinous
 vintagers
 vintners
+vinylic
 violable
 violableness
 violas
