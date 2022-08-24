@@ -834,6 +834,7 @@ aerodynes
 aeroelastic
 aeroelasticity
 aeroembolisms
+aerogramme
 aerogrammes
 aerograms
 aerolites
@@ -2624,6 +2625,7 @@ antiheroine
 antiherpes
 antihistamine
 antihistaminics
+antihuman
 antihumanistic
 antihunter
 antihysteric
@@ -6910,6 +6912,7 @@ bluenoses
 blueprints
 blueshifts
 bluesman
+bluesmen
 bluestocking
 bluestone
 bluestones
@@ -10711,6 +10714,7 @@ cherishes
 chernozemic
 chernozems
 cherry
+cherrylike
 cherts
 cherub
 cherubic
@@ -12155,6 +12159,7 @@ codominant
 codon
 codons
 codrive
+codriven
 codriver
 codrivers
 cods
@@ -12725,6 +12730,7 @@ common
 commonality
 commonness
 commonnesses
+commonplaceness
 commonsensible
 commonsensical
 commonweal
@@ -15681,6 +15687,7 @@ cybernetically
 cyberneticist
 cyberneticists
 cybernetics
+cyberporns
 cyberpunks
 cybersex
 cybersexes
@@ -17013,6 +17020,7 @@ demographer
 demographic
 demography
 demoiselle
+demoiselles
 demolisher
 demolishers
 demolishment
@@ -17687,6 +17695,7 @@ devisor
 devitrified
 devitrify
 devocalized
+devocalizing
 devoices
 devoir
 devoirs
@@ -18875,6 +18884,7 @@ disqualifies
 disqualify
 disquantities
 disquiet
+disquietly
 disquiets
 disquietudes
 disrated
@@ -21473,6 +21483,7 @@ enfeoffment
 enfettered
 enfever
 enfiladed
+enflame
 enflamed
 enflaming
 enfleurage
@@ -23960,6 +23971,7 @@ feisty
 felafel
 feldscher
 feldschers
+felicitate
 felicitated
 felicitates
 felicitating
@@ -27849,6 +27861,7 @@ godded
 godetias
 godets
 godfathered
+godfathers
 godforsaken
 godlessly
 godlessness
@@ -28023,6 +28036,7 @@ gossamer
 gossip
 gossiper
 gossippers
+gossipy
 gossypol
 gossypols
 got
@@ -28868,6 +28882,7 @@ gunny
 gunnybag
 gunnysack
 gunnysacks
+gunpaper
 gunpapers
 gunplays
 gunpoint
@@ -29308,6 +29323,7 @@ handlist
 handmade
 handmaid
 handoff
+handpick
 handprint
 handrails
 handsaw
@@ -30213,6 +30229,7 @@ hesitance
 hesitancy
 hesitant
 hesitaters
+hesitating
 hesitation
 hesitations
 hesitator
@@ -31000,6 +31017,7 @@ horologists
 horology
 horoscopy
 horrible
+horriblenesses
 horribly
 horrid
 horrider
@@ -32111,6 +32129,7 @@ immaterialists
 immaterializes
 immaterializing
 immature
+immeasurable
 immediately
 immediateness
 immemorial
@@ -32320,6 +32339,7 @@ impervious
 imperviously
 imperviousness
 impetiginous
+impetigo
 impetrate
 impetrated
 impetrates
@@ -33469,6 +33489,7 @@ insalubrities
 insalubrity
 insaneness
 insanest
+insanitation
 insanitations
 insatiable
 insatiateness
@@ -34813,6 +34834,7 @@ jarovizing
 jarrahs
 jarring
 jars
+jarsful
 jarveys
 jasmin
 jasmins
@@ -35901,6 +35923,7 @@ knishes
 knits
 knitter
 knitting
+knobbier
 knobblier
 knobbly
 knobkerries
@@ -36001,6 +36024,7 @@ kouprey
 kouros
 koussos
 kowtower
+kowtows
 kraken
 kremlin
 kremlinologies
@@ -36042,6 +36066,7 @@ kunzites
 kurbash
 kurrajongs
 kurtas
+kurtosis
 kurus
 kussos
 kvas
@@ -40708,6 +40733,7 @@ misassemble
 misassign
 misassigned
 misassumption
+misatone
 misatoned
 misatoning
 misattribute
@@ -48000,6 +48026,7 @@ pat
 patacas
 patagia
 patagium
+patamars
 patchable
 patchboard
 patcher
@@ -48810,6 +48837,7 @@ permeation
 permeator
 permian
 permillages
+permissibility
 permissibleness
 permission
 permitter
@@ -49087,6 +49115,7 @@ phantasmagoric
 phantasmal
 phantasmata
 phantasying
+phantom
 pharaoh
 pharisaic
 pharisaically
@@ -56852,6 +56881,7 @@ restorals
 restoratives
 restorers
 restores
+restrained
 restrainedly
 restrainer
 restraining
@@ -57287,6 +57317,7 @@ rewash
 rewashing
 rewax
 rewaxed
+rewearing
 reweaved
 reweaves
 rewed
@@ -67111,6 +67142,7 @@ tangoed
 tangoing
 tangos
 tangs
+tangy
 tanistry
 tank
 tanka
@@ -70549,6 +70581,7 @@ twiddlier
 twiddliest
 twiddling
 twiddly
+twig
 twiggen
 twiggier
 twiggiest
@@ -70913,6 +70946,7 @@ unambiguous
 unambitious
 unamended
 unamortized
+unamplified
 unamused
 unanchored
 unanchors
@@ -73578,6 +73612,7 @@ vibratos
 vibrio
 vibrios
 vibrioses
+vibriosis
 vicarage
 vicarate
 vicarates
