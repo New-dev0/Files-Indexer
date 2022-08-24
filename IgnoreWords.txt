@@ -4787,6 +4787,7 @@ ballistics
 ballonet
 ballooning
 balloonings
+balloted
 ballpark
 ballparks
 balls
@@ -4892,6 +4893,7 @@ bankside
 banksides
 banner
 banneret
+bannerette
 bannerettes
 bannering
 bannerols
@@ -5784,6 +5786,7 @@ beneficing
 benefit
 benefited
 benefiter
+benefits
 benefitted
 benempt
 benevolentness
@@ -7554,6 +7557,7 @@ braced
 bracelet
 braceros
 brach
+brachets
 brachia
 brachial
 brachials
@@ -10959,6 +10963,7 @@ chloroformed
 chlorophyll
 chlorophylls
 chloropicrins
+chloroplast
 chloroplastic
 chloroprene
 chloroquine
@@ -15045,6 +15050,7 @@ crousely
 croutes
 croutons
 crowbar
+crowbarred
 crowbarring
 crowbars
 crowd
@@ -15613,6 +15619,7 @@ cutup
 cutups
 cutwork
 cuvette
+cuvettes
 cwms
 cyan
 cyanamide
@@ -16421,6 +16428,7 @@ decolletages
 decolonization
 decolorized
 decolorizer
+decolour
 decoloured
 decolouring
 decommissioned
@@ -17721,6 +17729,7 @@ dhoolies
 dhooti
 dhooties
 dhootis
+dhoti
 dhourras
 dhurna
 diabase
@@ -24434,6 +24443,7 @@ finmark
 finnickier
 finniest
 finning
+finnmark
 finocchio
 finocchios
 finochios
@@ -27950,6 +27960,7 @@ gorger
 gorgerin
 gorgers
 gorgeted
+gorgonized
 gorgonizes
 gorgons
 goriest
@@ -29487,6 +29498,7 @@ hashheads
 hashing
 hashishes
 hasp
+hasps
 hassel
 hassels
 hassiums
@@ -29563,6 +29575,7 @@ haute
 havarti
 havdalah
 have
+havelocks
 haven
 havens
 havered
@@ -34613,6 +34626,7 @@ ixtles
 izar
 izars
 izzards
+jabberer
 jabberers
 jabbers
 jabberwocky
@@ -36561,6 +36575,7 @@ laurel
 laureled
 laurelled
 laurelling
+laurels
 lav
 lava
 lavabo
@@ -39520,6 +39535,7 @@ megavolt
 megilla
 megillahs
 megs
+mehndi
 meiny
 meiotically
 meitnerium
@@ -42055,6 +42071,7 @@ mull
 mullah
 mullahism
 mullen
+mullens
 mullers
 mulligatawnies
 mulligatawny
@@ -42116,6 +42133,7 @@ multimedia
 multimegawatt
 multimember
 multimetallic
+multimillion
 multimolecular
 multinomials
 multinuclear
@@ -49149,6 +49167,7 @@ phloxes
 phlyctena
 phlyctenae
 phobia
+phobic
 phoebes
 phoenixes
 phonal
@@ -49572,6 +49591,7 @@ piecrusts
 piedmont
 piedmonts
 piefort
+pieforts
 pieplant
 pier
 pierces
@@ -50779,6 +50799,7 @@ poorest
 poorhouse
 pooris
 poormouthing
+poorness
 poos
 pop
 popedom
@@ -52073,6 +52094,7 @@ priestly
 prig
 priggery
 prigging
+priggism
 prigs
 prill
 prilling
@@ -53446,6 +53468,7 @@ pyrrolic
 pyrrols
 pyruvate
 pythonesses
+pythonic
 pythons
 pyuria
 pyurias
@@ -60836,6 +60859,7 @@ shitake
 shitakes
 shitless
 shittah
+shittier
 shittims
 shittimwoods
 shiva
@@ -61353,6 +61377,7 @@ silviculturally
 silviculture
 sima
 simas
+simazine
 simazines
 simile
 similitudes
@@ -62088,6 +62113,7 @@ slushier
 slushiest
 slushily
 slushiness
+sluttier
 sluttish
 slutty
 slyer
@@ -63566,6 +63592,7 @@ sportful
 sportfully
 sportfulness
 sportinesses
+sportingly
 sportively
 sportiveness
 sportivenesses
@@ -63759,6 +63786,7 @@ squeak
 squeaker
 squeakers
 squeakier
+squeal
 squealed
 squealers
 squealing
@@ -65534,6 +65562,7 @@ suckler
 suckles
 suckless
 suckling
+sucks
 sucky
 sucres
 sucrose
@@ -66302,6 +66331,7 @@ swarmer
 swarming
 swart
 swarth
+swarthier
 swarthily
 swarthinesses
 swartness
@@ -69594,6 +69624,7 @@ tribes
 tribesman
 tribesmen
 triboelectric
+tribological
 tribologies
 tribologists
 tribology
@@ -73248,6 +73279,7 @@ venules
 venulous
 vera
 veracity
+veranda
 verandahed
 verandahs
 verandas
@@ -74506,6 +74538,7 @@ weathered
 weatherglass
 weatherglasses
 weatherize
+weatherized
 weatherly
 weathermen
 weatherperson
@@ -74943,6 +74976,7 @@ whups
 why
 wicca
 wiccans
+wiches
 wickapes
 wicked
 wickeder
@@ -75413,6 +75447,7 @@ wooingly
 wool
 wooler
 woolers
+woolfells
 woolgathering
 woolgatherings
 woolhat
