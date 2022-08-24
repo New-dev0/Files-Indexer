@@ -389,6 +389,7 @@ acknowledgments
 acned
 acock
 acoelomate
+acoelomates
 aconitic
 aconitum
 aconitums
@@ -555,6 +556,7 @@ addle
 addlepated
 addles
 addling
+address
 addressable
 addressed
 addressee
@@ -1234,6 +1236,7 @@ airstreams
 airstrike
 airstrikes
 airt
+airth
 airthed
 airthing
 airtight
@@ -3871,6 +3874,7 @@ astronomer
 astronomical
 astrophysics
 astute
+astutely
 astuteness
 astutenesses
 asunder
@@ -12506,6 +12510,7 @@ colonise
 colonised
 colonists
 colonitis
+colonitises
 colonization
 colonized
 colonizers
@@ -13897,6 +13902,7 @@ corbelling
 corbels
 corbie
 corbies
+corbina
 corbinas
 corby
 cord
@@ -17769,6 +17775,7 @@ diagonals
 diagrammable
 diagrammatic
 diagrams
+diakineses
 dial
 dialect
 dialectally
@@ -21080,6 +21087,7 @@ emerald
 emergences
 emergency
 emergent
+emeries
 emerita
 emeriti
 emeroid
@@ -21182,6 +21190,7 @@ emulator
 emulators
 emulous
 emulsification
+emulsifications
 emulsifiers
 emulsifying
 emunctories
@@ -23852,6 +23861,7 @@ featherbedding
 featherbrain
 featherbrains
 featheredges
+featherhead
 featherheaded
 feathering
 feathers
@@ -26576,6 +26586,7 @@ galvanized
 galvanizing
 galvanometer
 galvanometers
+galvanoscope
 galvanoscopes
 galyac
 galyacs
@@ -27768,6 +27779,7 @@ gnostical
 gnosticisms
 gnostics
 gnotobiotic
+goad
 goaded
 goading
 goads
@@ -28426,6 +28438,7 @@ grills
 grillwork
 grilse
 grim
+grimaced
 grimacing
 grime
 grimes
@@ -28967,6 +28980,7 @@ habaneras
 habdalahs
 haberdashers
 habiliment
+habiliments
 habilitated
 habilitations
 habitabilities
@@ -29689,6 +29703,7 @@ headpin
 headquartered
 headquartering
 headrest
+headrests
 headrooms
 headset
 headsets
@@ -34553,6 +34568,7 @@ isoproterenol
 isopycnic
 isosmotically
 isospories
+isospory
 isostacies
 isostacy
 isostatic
@@ -37250,6 +37266,7 @@ liking
 likings
 lilies
 lilliputian
+lilt
 lilting
 liltingly
 lily
@@ -38187,6 +38204,7 @@ lustfulness
 lustier
 lustily
 lusting
+lustra
 lustrate
 lustrates
 lustration
@@ -41274,6 +41292,7 @@ moidore
 moil
 moiler
 moiling
+moils
 moire
 moist
 moisteners
@@ -43001,6 +43020,7 @@ nephritides
 nephritises
 nephrologies
 nephrologist
+nephropathies
 nephropathy
 nephrostome
 nepotism
@@ -44135,6 +44155,7 @@ noshes
 nosier
 nosiest
 nosily
+nosinesses
 nosings
 nosocomial
 nosologically
@@ -48469,6 +48490,7 @@ pentatonic
 penthouses
 pentlandites
 pentobarbital
+pentobarbitones
 pentodes
 pentose
 pentoses
@@ -50601,6 +50623,7 @@ polychotomy
 polychrome
 polychromies
 polychromy
+polyclonal
 polycrystal
 polycrystals
 polycythemia
@@ -54624,6 +54647,7 @@ reblent
 rebloom
 rebloomed
 reblooming
+reboant
 reboard
 reboarded
 reboards
@@ -63685,6 +63709,7 @@ spruce
 spruced
 sprucer
 spruces
+sprucest
 sprucing
 sprucy
 sprue
@@ -66436,6 +66461,7 @@ swingling
 swingy
 swinish
 swinishness
+swink
 swinneys
 swiping
 swiple
@@ -66504,6 +66530,7 @@ sybaritic
 sybaritically
 sybaritisms
 sycees
+syces
 sycophancies
 sycophancy
 sycophantic
@@ -69189,6 +69216,7 @@ traducing
 trafficable
 trafficked
 trafficker
+traffickers
 trafficking
 tragacanths
 tragedians
@@ -69252,6 +69280,7 @@ trample
 tramples
 trampoline
 trampolines
+trampolinist
 trams
 tramway
 tramways
@@ -69454,6 +69483,7 @@ trashing
 trashman
 trashmen
 trashy
+trass
 trauchled
 traumas
 traumata
@@ -69809,6 +69839,7 @@ triols
 trios
 trioxid
 trioxids
+trip
 tripacks
 tripe
 triphthongal
@@ -70743,6 +70774,7 @@ umbrageously
 umbral
 umbrettes
 umiac
+umiack
 umiacs
 umiaks
 umlaut
@@ -71091,6 +71123,7 @@ uncommoner
 uncommonness
 uncommonnesses
 uncompassionate
+uncompelling
 uncompensated
 uncomplicated
 uncomprehended
@@ -75106,6 +75139,7 @@ winching
 windages
 windbells
 windblast
+windbreaks
 windburned
 windburning
 windburnt
@@ -76120,6 +76154,7 @@ zincking
 zincky
 zincy
 zine
+zingani
 zingano
 zingara
 zingaro
