@@ -430,6 +430,7 @@ acridity
 acridness
 acridnesses
 acriflavine
+acriflavines
 acrimonies
 acrimoniously
 acrimoniousness
@@ -936,6 +937,7 @@ affluence
 affluencies
 afflux
 afford
+affordabilities
 affordable
 afforested
 afforests
@@ -1803,6 +1805,7 @@ amebas
 amebiases
 amebocyte
 ameboid
+amelcorn
 amelcorns
 ameliorates
 amelioratory
@@ -2654,6 +2657,7 @@ antimitotics
 antimodernist
 antimonarchists
 antimonic
+antimonopoly
 antimosquito
 antimusic
 antimycin
@@ -3004,6 +3008,7 @@ apothecial
 apothecium
 apothems
 apotheosized
+apotheosizes
 app
 appal
 appall
@@ -8511,6 +8516,7 @@ buskin
 buss
 bust
 bustard
+bustards
 buster
 busticated
 busticates
@@ -9554,6 +9560,7 @@ carnifies
 carnitines
 carnivories
 carnivorous
+carnivorousness
 carnotites
 caroaches
 caroche
@@ -10998,6 +11005,7 @@ choirboys
 choired
 choirs
 chokeberries
+chokebore
 chokecherries
 chokecherry
 choker
@@ -13101,6 +13109,7 @@ confabulating
 confecting
 confectioner
 confectioners
+confects
 confederacy
 confederated
 confederates
@@ -24825,6 +24834,7 @@ fledglings
 fledgy
 fleeced
 fleecer
+fleeching
 fleecing
 fleecy
 fleeringly
@@ -30052,6 +30062,7 @@ hennas
 hennery
 hennish
 hennishly
+henotheism
 henotheistic
 henotheists
 henries
@@ -30528,6 +30539,7 @@ hobblebush
 hobbled
 hobbledehoy
 hobblers
+hobbles
 hobby
 hobbyhorse
 hobbyists
@@ -32727,6 +32739,7 @@ inconvenience
 inconveniences
 inconveniencies
 inconveniencing
+inconveniency
 inconvertible
 inconvincible
 incony
@@ -35356,6 +35369,7 @@ kanjis
 kantar
 kantars
 kaoliangs
+kaolines
 kaolinic
 kaon
 kaons
@@ -35602,6 +35616,7 @@ kibbis
 kibbitz
 kibbitzer
 kibbitzing
+kibble
 kibbutz
 kibbutzim
 kibbutznik
@@ -37498,6 +37513,7 @@ lister
 listeria
 listerioses
 listlessness
+listlessnesses
 litany
 litas
 lite
@@ -40934,6 +40950,7 @@ mislocated
 mislocations
 mislodged
 mislodges
+mislying
 mismaking
 mismanaged
 mismanagement
@@ -44921,6 +44938,7 @@ olivinic
 ology
 ololiuqui
 ololiuquis
+oloroso
 olympiads
 omasa
 omasum
@@ -44971,6 +44989,7 @@ omophagias
 omophagic
 omophagy
 omphalos
+oms
 on
 onagers
 onanism
@@ -46998,6 +47017,7 @@ ozonize
 ozonizer
 ozonizers
 ozonizes
+ozonizing
 ozonosphere
 ozonospheres
 pablum
@@ -48768,6 +48788,7 @@ permeant
 permeate
 permeates
 permeating
+permeation
 permeator
 permian
 permillages
@@ -50390,6 +50411,7 @@ poachier
 poblano
 pochard
 pock
+pocked
 pocket
 pocketbooks
 pocketers
@@ -51318,6 +51340,7 @@ preachifying
 preachily
 preachiness
 preaching
+preachingly
 preachments
 preachy
 preact
@@ -51872,6 +51895,7 @@ presentable
 presentableness
 presentations
 presented
+presentees
 presentencing
 presentient
 presentimental
@@ -53292,6 +53316,7 @@ purls
 purple
 purpleheart
 purplehearts
+purples
 purplish
 purportedly
 purpose
@@ -54048,6 +54073,7 @@ raggle
 raggy
 ragi
 ragis
+raglan
 ragmen
 ragouted
 ragouts
@@ -55280,6 +55306,7 @@ reenactments
 reencounters
 reendow
 reendowed
+reendowing
 reenforce
 reenforced
 reenforcing
@@ -59248,6 +59275,7 @@ schmo
 schmoes
 schmoos
 schmoose
+schmooses
 schmoozers
 schnauzer
 schnecke
@@ -62018,6 +62046,7 @@ slobs
 sloes
 sloganeered
 sloganize
+sloganized
 sloganizes
 slogger
 sloggers
@@ -67040,6 +67069,7 @@ tanged
 tangelo
 tangelos
 tangency
+tangental
 tangential
 tangentially
 tangerine
@@ -68637,6 +68667,7 @@ tithing
 tithings
 tithonia
 titillate
+titillates
 titillation
 titillative
 titivate
@@ -68860,6 +68891,7 @@ tonus
 tonuses
 tony
 tool
+tooled
 toolhead
 toolheads
 toolholder
@@ -69690,6 +69722,7 @@ trichogynes
 trichoid
 trichologies
 trichologists
+trichology
 trichome
 trichomic
 trichomonacidal
@@ -73471,6 +73504,7 @@ veto
 vetoes
 vets
 vetting
+vexation
 vexations
 vexatious
 vexatiously
@@ -75082,6 +75116,7 @@ wiglets
 wigmakers
 wigs
 wigwagger
+wigwags
 wigwam
 wikiup
 wilco
