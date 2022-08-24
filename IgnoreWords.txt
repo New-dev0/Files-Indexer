@@ -802,6 +802,7 @@ aegises
 aeneous
 aeneus
 aeon
+aeonian
 aeonic
 aepyornises
 aequorin
@@ -1063,6 +1064,7 @@ aggregateness
 aggregatenesses
 aggregating
 aggregational
+aggregations
 aggress
 aggressed
 aggressions
@@ -5629,6 +5631,7 @@ begs
 beguiler
 beguilers
 begulfing
+begum
 begun
 behalves
 behaves
@@ -5919,6 +5922,7 @@ beseem
 beseeming
 beseems
 besetments
+besetter
 beshadowing
 beshames
 beshaming
@@ -8889,6 +8893,7 @@ calcitonin
 calcspar
 calcspars
 calctufa
+calctuffs
 calculable
 calculate
 calculatedly
@@ -10694,6 +10699,7 @@ cheloids
 chelonian
 chelonians
 chemises
+chemisettes
 chemism
 chemisms
 chemisorb
@@ -19672,6 +19678,7 @@ downlink
 downlinks
 download
 downloaded
+downloading
 downplayed
 downplaying
 downplays
@@ -22509,6 +22516,7 @@ ethionine
 ethionines
 ethmoid
 ethmoidal
+ethnarch
 ethnarchies
 ethnarchs
 ethnic
@@ -31357,6 +31365,7 @@ humbuggery
 humbugging
 humdinger
 humdingers
+humectant
 humectants
 humeral
 humerals
@@ -32402,6 +32411,7 @@ impersonal
 impersonalities
 impersonalize
 impersonalized
+impersonalizing
 impersonated
 impersonates
 impersonating
@@ -33709,6 +33719,7 @@ institutional
 institutionally
 instrokes
 instructively
+instructiveness
 instructor
 instructorship
 instructorships
@@ -35101,6 +35112,7 @@ jingko
 jingkoes
 jingle
 jingled
+jingliest
 jingling
 jingoish
 jingoisms
@@ -36937,6 +36949,7 @@ lefty
 leg
 legal
 legaleses
+legalised
 legalism
 legalist
 legalistically
@@ -38378,6 +38391,7 @@ lutfisk
 lutfisks
 luthern
 lutherns
+lutings
 luv
 lux
 luxes
@@ -39320,6 +39334,7 @@ masturbate
 masturbated
 masturbates
 masturbating
+masturbations
 masturbator
 match
 matchboard
@@ -42864,6 +42879,7 @@ narratologist
 narratology
 narrator
 narrow
+narrowed
 narrowest
 narwal
 narwhale
@@ -45614,6 +45630,7 @@ oscilloscopes
 oscinine
 oscitances
 oscitancies
+oscitant
 osculant
 osculum
 ose
@@ -46892,6 +46909,7 @@ overselling
 oversells
 oversensitive
 oversensitivity
+overseriously
 overservice
 oversets
 oversetting
@@ -48067,6 +48085,7 @@ passingly
 passional
 passionals
 passionless
+passivate
 passivations
 passive
 passively
@@ -52472,6 +52491,7 @@ prochurch
 proclaimer
 proclaimers
 proclamation
+proconsul
 proconsulates
 proconsulship
 procrastinate
@@ -54740,6 +54760,7 @@ reappropriating
 reapprove
 reapproved
 reaps
+rear
 rearers
 rearm
 rearmament
@@ -55327,6 +55348,7 @@ rediscovered
 rediscoveries
 rediscovery
 rediscuss
+rediscusses
 redisplays
 redisposed
 redisposing
@@ -57570,6 +57592,7 @@ rhyta
 rhythmic
 rhythmized
 rhythmizing
+rhythms
 rhytidomes
 rhyton
 ria
@@ -58163,6 +58186,7 @@ rotunda
 rotundities
 rotundness
 roturiers
+roubles
 rouches
 rouens
 roues
@@ -58823,6 +58847,7 @@ samadhis
 samaras
 samaritan
 samaritans
+samarskites
 samba
 sambaing
 sambal
@@ -60606,6 +60631,7 @@ settling
 settlings
 settlors
 setts
+sevens
 seventh
 seventhly
 sevenths
@@ -64087,6 +64113,7 @@ squirish
 squirmer
 squirmers
 squirmiest
+squirreled
 squirreling
 squirrelly
 squirters
@@ -67674,6 +67701,7 @@ telecommutes
 telecommuting
 teleconferences
 telecourses
+telefacsimiles
 telefax
 telefaxes
 telefilms
@@ -68768,6 +68796,7 @@ timesaver
 timesavers
 timesaving
 timeserver
+timeservers
 timeservings
 timework
 timeworkers
@@ -69120,6 +69149,7 @@ toons
 toot
 tooth
 toothache
+toothbrushings
 toothed
 toothing
 toothpaste
@@ -70665,6 +70695,7 @@ tussis
 tussises
 tussled
 tussling
+tussocked
 tussocks
 tussor
 tussores
@@ -70804,6 +70835,7 @@ tympani
 tympanic
 tympanist
 tympanites
+tympano
 tympanums
 tympany
 tynes
@@ -76003,6 +76035,7 @@ xanthomata
 xanthone
 xanthophyll
 xanthous
+xebecs
 xenia
 xenial
 xenias
@@ -76165,6 +76198,7 @@ yearner
 yearningly
 yeasayer
 yeasayers
+yeastiest
 yeasts
 yeasty
 yecch
@@ -76317,6 +76351,7 @@ yuks
 yules
 yuletide
 yum
+yummies
 yummiest
 yummy
 yupon
