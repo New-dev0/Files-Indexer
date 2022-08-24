@@ -1768,6 +1768,7 @@ amble
 ambles
 amblygonites
 amboinas
+ambones
 ambos
 amboynas
 ambroids
@@ -3696,6 +3697,7 @@ assaults
 assays
 assegai
 assegaied
+assegaiing
 assemblages
 assemblagist
 assemble
@@ -11151,6 +11153,7 @@ chrysolite
 chrysomelids
 chrysoprase
 chrysotiles
+chthonian
 chthonic
 chubasco
 chubascos
@@ -12514,6 +12517,7 @@ colorbred
 colorbreeding
 colorcast
 colorcasted
+colored
 colorer
 colorers
 colorfulness
@@ -12676,6 +12680,7 @@ commissariats
 commissars
 commissionaires
 commissioned
+commissioning
 commit
 committeewoman
 committing
@@ -13178,6 +13183,7 @@ congealing
 congealments
 congeals
 congelation
+congener
 congeneric
 congenerous
 congenial
@@ -13615,6 +13621,7 @@ controller
 controlment
 controls
 controversially
+controversies
 controverters
 controverts
 contumaciously
@@ -24540,6 +24547,7 @@ fishmeals
 fishmonger
 fishmongers
 fishpole
+fishpond
 fishtails
 fishway
 fishways
@@ -25221,6 +25229,7 @@ foliating
 foliations
 folio
 folioing
+foliose
 folkie
 folkishness
 folkishnesses
@@ -25752,6 +25761,7 @@ fractures
 fracturs
 frag
 fragged
+fragile
 fragmentally
 fragmentarily
 fragmentary
@@ -27038,6 +27048,7 @@ gentler
 gentling
 gentoo
 gentrices
+gentrification
 gentrifications
 gentrified
 gentrify
@@ -27860,6 +27871,7 @@ gonad
 gonadial
 gonadotropin
 gonadotropins
+gonads
 gondola
 gondolas
 gondoliers
@@ -28078,6 +28090,7 @@ gram
 grama
 gramaries
 gramarye
+gramaryes
 gramas
 gramercies
 gramineous
@@ -29381,6 +29394,7 @@ hardpan
 hardpans
 hardship
 hardstandings
+hardtack
 hardtops
 hardware
 hardwire
@@ -36796,6 +36810,7 @@ legislative
 legislatives
 legislators
 legislatorships
+legislature
 legists
 legit
 legitimacy
@@ -36845,6 +36860,7 @@ lemmatizes
 lemmatizing
 lemming
 lemminglike
+lemniscate
 lemonish
 lemony
 lemures
@@ -38603,6 +38619,7 @@ malleolus
 mallet
 malleus
 malmier
+malmsey
 malmseys
 malmy
 malnutritions
@@ -42414,6 +42431,7 @@ mycorhizae
 mycorhizas
 mycorrhizae
 mycorrhizal
+mycotoxins
 mydriases
 mydriatic
 myelin
@@ -42551,6 +42569,7 @@ naira
 nairus
 naissance
 naissances
+naively
 naiveness
 naivenesses
 naivete
@@ -42561,6 +42580,7 @@ nakedly
 nakedness
 nala
 nalas
+nalorphine
 naloxone
 naloxones
 naltrexones
@@ -43819,6 +43839,7 @@ nonnuclear
 nonnucleated
 nonnumerical
 nonnutritive
+nonobese
 nonobjective
 nonobjectivism
 nonobjectivist
@@ -45193,6 +45214,7 @@ orcins
 ordainers
 ordaining
 ordainment
+ordains
 ordeals
 order
 ordered
@@ -46481,6 +46503,7 @@ overkind
 overlabored
 overlaboring
 overlade
+overladed
 overladen
 overlain
 overlands
@@ -50464,6 +50487,7 @@ polemizing
 polenta
 poleward
 poleyn
+poleyns
 policeman
 policers
 polices
@@ -55713,6 +55737,7 @@ reinvoking
 reinvolved
 reinvolves
 reissue
+reissues
 reitbok
 reiterate
 reiterated
@@ -58515,6 +58540,7 @@ saltwater
 saltwort
 salubrity
 salukis
+saluretic
 salutarinesses
 salutary
 salutation
@@ -61426,6 +61452,7 @@ sinsemilla
 sinsemillas
 sinsyne
 sinter
+sinterability
 sintered
 sinters
 sinuate
@@ -61598,6 +61625,7 @@ skidway
 skied
 skies
 skiey
+skiffle
 skiffled
 skijorers
 skijoring
@@ -64051,6 +64079,7 @@ statistically
 statisticians
 statistics
 statives
+statoblast
 statoblasts
 statocyst
 statocysts
@@ -64872,6 +64901,7 @@ stuccoworks
 stuck
 stud
 studded
+studdings
 studentships
 studiers
 studio
@@ -65866,6 +65896,7 @@ supergovernment
 supergravities
 supergroup
 supergrowth
+superharden
 superheated
 superhelices
 superhelix
@@ -66662,6 +66693,7 @@ syrphian
 syrphid
 syrphids
 syruped
+syrupiest
 sysadmin
 sysop
 system
@@ -69507,6 +69539,7 @@ trepanations
 trepang
 trepanned
 trepanner
+trepanning
 trepans
 trephines
 trepidant
@@ -75589,6 +75622,7 @@ wronged
 wrongful
 wrongfulnesses
 wrongheadedly
+wrongly
 wrongness
 wrote
 wrung
@@ -75810,6 +75844,7 @@ yelping
 yenned
 yenning
 yenta
+yentas
 yente
 yeoman
 yeomen
