@@ -1478,6 +1478,7 @@ allegory
 allegretto
 allegrettos
 allegros
+allele
 alleles
 allelic
 allelomorphs
@@ -1912,6 +1913,7 @@ amortizes
 amortizing
 amosite
 amotions
+amount
 amoxicillin
 amoxycillins
 amp
@@ -4482,6 +4484,7 @@ babassu
 babassus
 babbitries
 babbitry
+babbittries
 babbitts
 babbled
 babblement
@@ -6712,6 +6715,7 @@ blepharospasm
 blepharospasms
 blesbok
 blesbuck
+blesbucks
 bless
 blessedest
 blessedly
@@ -6932,6 +6936,7 @@ blushingly
 blustered
 blusterer
 blusterers
+blustering
 blustery
 blype
 bo
@@ -8786,6 +8791,7 @@ cakes
 cakewalked
 cakewalkers
 cakewalks
+cakey
 cakier
 cakiest
 cakinesses
@@ -10319,6 +10325,7 @@ chammied
 chamois
 chamoised
 champacas
+champagne
 champagnes
 champer
 champertous
@@ -12802,6 +12809,7 @@ complexness
 compliance
 compliancies
 compliant
+complicacy
 complicated
 complice
 compliers
@@ -13601,6 +13609,7 @@ conventicle
 conventicler
 conventiclers
 conventionality
+conventioneers
 convents
 conventual
 conventuals
@@ -16935,6 +16944,7 @@ demographer
 demographic
 demography
 demoiselle
+demolisher
 demolishers
 demolishment
 demolitionists
@@ -18553,6 +18563,7 @@ disfigured
 disfigurements
 disfiguring
 disfrock
+disfunction
 disfurnish
 disfurnished
 disfurnishes
@@ -19493,6 +19504,7 @@ dovetailing
 dovetails
 dovishness
 dow
+dowager
 dowagers
 dowdier
 dowdyish
@@ -19732,6 +19744,7 @@ dreamworlds
 dreamy
 dreary
 drecky
+dredge
 dredged
 dredges
 drees
@@ -28048,6 +28061,7 @@ grandfather
 grandfatherly
 grandfathers
 grandiloquently
+grandioseness
 grandiosity
 grandma
 grandmama
@@ -28871,6 +28885,7 @@ haar
 habanera
 habaneras
 habdalahs
+haberdashers
 habiliment
 habilitated
 habilitations
@@ -30183,6 +30198,7 @@ heydeys
 hiatus
 hiatuses
 hibachi
+hibachis
 hibernated
 hibernates
 hibernators
@@ -31467,6 +31483,7 @@ hypergols
 hyperhidrosis
 hyperimmunize
 hyperimmunizing
+hyperinsulinism
 hyperinvolution
 hyperirritable
 hyperkeratosis
@@ -31750,6 +31767,7 @@ idiomatically
 idiomorphic
 idiopathies
 idiotical
+idiotically
 idiotypes
 idle
 idleness
@@ -31915,6 +31933,7 @@ imbeds
 imbibe
 imbiber
 imbibers
+imblazed
 imbodied
 imbodying
 imbolden
@@ -33746,6 +33765,7 @@ intermitotic
 intermits
 intermixed
 intermixes
+intermixing
 intermixtures
 intermodal
 intermodulation
@@ -34348,6 +34368,7 @@ islanding
 isle
 isled
 isleless
+isms
 isoantigen
 isoantigenic
 isoantigens
@@ -38375,6 +38396,7 @@ mailer
 mailing
 mailless
 maillot
+maills
 mailmen
 maims
 mainframes
@@ -44011,6 +44033,7 @@ notching
 note
 notebook
 notebooks
+notecards
 noter
 noteworthiness
 nother
@@ -45260,6 +45283,7 @@ oscillographies
 oscillography
 oscilloscopes
 oscinine
+oscitances
 oscitancies
 osculant
 osculum
@@ -46269,6 +46293,7 @@ overflooding
 overflow
 overflowed
 overflowing
+overflows
 overfly
 overfocus
 overfocusses
@@ -47795,6 +47820,7 @@ pathless
 pathlessnesses
 pathobiologies
 pathogene
+pathogens
 pathognomonic
 pathologies
 pathologist
@@ -51427,6 +51453,7 @@ preinterviewed
 preinterviews
 preinvasion
 preinvite
+prejudged
 prejudges
 prejudgment
 prejudgments
@@ -53790,6 +53817,7 @@ radiotelephones
 radiotherapist
 radiothoriums
 radishes
+radiums
 radome
 radomes
 radon
@@ -64266,6 +64294,7 @@ stokesias
 stole
 stolen
 stolid
+stolider
 stolidest
 stolidities
 stollens
@@ -67147,6 +67176,7 @@ telecommuters
 telecommutes
 telecommuting
 teleconferences
+telefax
 telefaxes
 telefilms
 telegramming
@@ -67377,6 +67407,7 @@ tenters
 tenthly
 tenths
 tentless
+tentlike
 tentmaker
 tentmakers
 tentoria
@@ -68447,6 +68478,7 @@ toil
 toiled
 toilet
 toileted
+toileting
 toiletries
 toils
 toilsomenesses
@@ -69382,6 +69414,7 @@ trichiases
 trichiasis
 trichina
 trichinas
+trichinize
 trichinoses
 trichinosis
 trichite
@@ -71361,6 +71394,7 @@ unhealthful
 unhealthiest
 unhealthiness
 unhealthinesses
+unheated
 unheedful
 unhelming
 unhelms
@@ -75434,6 +75468,7 @@ xenons
 xenophile
 xenophobia
 xenophobic
+xenotropic
 xeriscapes
 xeroderma
 xerodermae
