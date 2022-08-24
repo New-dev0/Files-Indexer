@@ -3077,6 +3077,7 @@ apportionable
 apposed
 apposes
 apposition
+appositions
 appositive
 appositively
 appraise
@@ -6077,6 +6078,7 @@ bibliotheca
 bibliothecal
 bibliotherapy
 bibliotist
+biblist
 biblists
 bibulous
 bicameralism
@@ -7663,6 +7665,7 @@ brattinesses
 brattish
 brattle
 brattles
+brattling
 bratwurst
 bratwursts
 braunite
@@ -8859,6 +8862,7 @@ calendric
 calendrical
 calends
 calendula
+calenture
 calesas
 calescent
 calflike
@@ -10377,6 +10381,7 @@ channelized
 channelizing
 channelling
 chanoyus
+chant
 chantable
 chanted
 chanteuse
@@ -12851,6 +12856,7 @@ comprisals
 comprised
 comprising
 comprized
+comprizes
 compromiser
 compromising
 compting
@@ -12970,6 +12976,7 @@ conciliators
 concinnity
 concisenesses
 concisions
+conclaves
 conclude
 concluders
 concluding
@@ -19233,6 +19240,7 @@ doit
 doited
 dojo
 dolcettos
+dolci
 doled
 dolefully
 dolerite
@@ -22079,6 +22087,7 @@ erectly
 erects
 eremites
 eremitisms
+eremurus
 eremuruses
 erenow
 erepsins
@@ -22820,6 +22829,7 @@ exegetics
 exegetist
 exegetists
 exemplar
+exemplarily
 exemplarinesses
 exemplarity
 exemplary
@@ -25391,6 +25401,7 @@ foreknows
 foreladies
 forelady
 forelimb
+forelocked
 forelocking
 foremanship
 foremanships
@@ -26572,6 +26583,7 @@ gane
 ganef
 ganevs
 gangbanged
+gangbangs
 gangbusters
 ganged
 gangers
@@ -27816,6 +27828,7 @@ gondola
 gondolas
 gondoliers
 gone
+goneness
 gonenesses
 goner
 gonfalon
@@ -28088,6 +28101,7 @@ granola
 granolith
 granoliths
 granophyre
+granophyres
 grantable
 grantee
 grantees
@@ -28432,6 +28446,7 @@ grogs
 grogshop
 groin
 grokked
+grokking
 grommeting
 grommets
 groom
@@ -29389,6 +29404,7 @@ harshen
 harshened
 harshening
 harshly
+harshness
 harslet
 hart
 hartal
@@ -36033,6 +36049,7 @@ lacunae
 lacunar
 lacunaria
 lacunars
+lacune
 lacunes
 lacunose
 lacy
@@ -37111,6 +37128,7 @@ lighthearted
 lightheartedly
 lighting
 lightings
+lightly
 lightnesses
 lightning
 lightplane
@@ -38885,6 +38903,7 @@ marled
 marlinespikes
 marling
 marlins
+marls
 marlstone
 marmalade
 marmites
@@ -39647,6 +39666,7 @@ meringue
 meringues
 merino
 merises
+merisis
 meristically
 merited
 meritless
@@ -40924,6 +40944,7 @@ missives
 missorted
 missound
 missounded
+misspaces
 misspeaks
 misspell
 misspend
@@ -42931,6 +42952,7 @@ networker
 networkings
 networks
 neum
+neumatic
 neume
 neumes
 neums
@@ -43119,6 +43141,7 @@ nielloed
 nielloing
 nieve
 nieves
+niffer
 niffered
 niffering
 niftiest
@@ -45363,6 +45386,7 @@ otalgia
 otalgias
 otalgic
 other
+othernesses
 others
 otherwhere
 otherwise
@@ -49994,6 +50018,7 @@ playfulnesses
 playgoers
 playgoings
 playhouse
+playless
 playlet
 playlets
 playlike
@@ -50425,6 +50450,7 @@ polyandry
 polyanthi
 polyanthus
 polyanthuses
+polybrid
 polybutadiene
 polycarbonates
 polycarpies
@@ -54229,6 +54255,7 @@ reacclimatizing
 reaccredit
 reaccreditation
 reaccrediting
+reaccuse
 reaccused
 reaccusing
 reach
@@ -55175,6 +55202,7 @@ refinancing
 refine
 refined
 refinement
+refiner
 refiners
 refinish
 refinishers
@@ -56348,6 +56376,7 @@ resentencing
 reserpines
 reservable
 reserve
+reserved
 reservedly
 reservednesses
 reserver
@@ -57360,6 +57389,7 @@ riotousness
 riots
 rip
 ripcords
+riped
 ripener
 ripeness
 ripenesses
@@ -60971,6 +61001,7 @@ side
 sideband
 sideboards
 sideburned
+sidecheck
 sidechecks
 sidedness
 sidednesses
@@ -63740,6 +63771,7 @@ stalag
 stalags
 stale
 stalemated
+stalest
 stalker
 stalkers
 stalking
@@ -64224,6 +64256,7 @@ stippled
 stipplings
 stipular
 stipulate
+stipulated
 stipulates
 stipulations
 stipulator
@@ -70750,6 +70783,7 @@ uncast
 uncataloged
 uncatchy
 uncategorizable
+uncaught
 uncaused
 uncelebrated
 unceremonious
@@ -74558,6 +74592,7 @@ wheyfaced
 wheylike
 wheys
 whichsoever
+whicker
 whickered
 whid
 whidah
