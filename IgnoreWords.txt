@@ -588,6 +588,7 @@ adequate
 adequatenesses
 adherence
 adherences
+adherend
 adherends
 adherently
 adherers
@@ -8877,6 +8878,7 @@ calix
 calk
 calkers
 calking
+calkings
 calks
 call
 callaloo
@@ -9111,6 +9113,7 @@ cannelloni
 cannelon
 cannels
 canneries
+canners
 cannibalisms
 cannibalistic
 cannibalization
@@ -14153,6 +14156,7 @@ coteau
 coted
 cotenancies
 coteries
+coterminous
 coterminously
 cothurni
 cothurnus
@@ -14485,6 +14489,7 @@ coxitides
 coxitis
 coxless
 coxswaining
+coydog
 coyer
 coying
 coynesses
@@ -15249,6 +15254,7 @@ cullied
 cullions
 cullis
 cullises
+culls
 culmed
 culminant
 culminate
@@ -17222,6 +17228,7 @@ depurator
 depurators
 deputable
 deputations
+depute
 deputizations
 deputize
 deputized
@@ -17961,6 +17968,7 @@ digamies
 digamma
 digenesis
 digenetic
+digest
 digested
 digestibility
 digestible
@@ -20730,6 +20738,7 @@ electrolytes
 electrolytic
 electrolyzed
 electrolyzing
+electromagnet
 electrometer
 electromyogram
 electronic
@@ -22092,6 +22101,7 @@ eroding
 erogenic
 eros
 erosely
+eroses
 erosible
 erosional
 erosionally
@@ -25941,6 +25951,7 @@ frizes
 frizettes
 frizz
 frizzed
+frizzies
 frizziest
 frizzing
 frizzle
@@ -27841,6 +27852,7 @@ goopiest
 goops
 gooral
 goos
+goosanders
 goose
 gooseberries
 goosed
@@ -29080,6 +29092,7 @@ halterbreaking
 haltering
 halters
 haltless
+halutzim
 halva
 halvahs
 halve
@@ -33158,6 +33171,7 @@ inholder
 inhomogeneity
 inhomogeneous
 inhuman
+inhumane
 inhumanities
 inhumanity
 inhumannesses
@@ -34353,6 +34367,7 @@ isochime
 isochimes
 isochores
 isochrone
+isochronism
 isochronous
 isochronously
 isochrons
@@ -36771,6 +36786,7 @@ lentils
 lentisks
 lentivirus
 lentiviruses
+lentoids
 leone
 leonine
 leopardess
@@ -37715,6 +37731,7 @@ loony
 loopholed
 loopinesses
 looping
+loops
 loosely
 loosen
 looseners
@@ -38927,6 +38944,7 @@ masculinist
 masculinity
 maser
 masers
+mash
 masher
 mashgichim
 masjids
@@ -42716,6 +42734,7 @@ negates
 negatived
 negatively
 negativenesses
+negatives
 negaton
 negatron
 neglecter
@@ -46007,6 +46026,7 @@ overanalyzes
 overanalyzing
 overanxieties
 overanxiety
+overapplication
 overarching
 overarm
 overarming
@@ -47872,6 +47892,7 @@ pavilion
 pavilioned
 pavin
 pavins
+pavior
 paviors
 paviser
 pavises
@@ -48916,6 +48937,7 @@ philatelically
 philatelist
 philatelists
 philharmonic
+philhellenic
 philhellenism
 philhellenisms
 philhellenists
@@ -48968,6 +48990,7 @@ phoenixes
 phonal
 phonate
 phonated
+phonates
 phonating
 phonation
 phonations
@@ -49939,6 +49962,7 @@ playbook
 playdown
 players
 playfield
+playfields
 playful
 playfulnesses
 playgoers
@@ -51785,6 +51809,7 @@ pretyping
 pretzel
 preunions
 preunited
+preunites
 prevailed
 prevailers
 prevailing
@@ -53650,6 +53675,7 @@ racewalking
 racewalks
 raceway
 raceways
+rachets
 rachial
 rachides
 rachitic
@@ -55584,6 +55610,7 @@ relapses
 relate
 related
 relatedly
+relatedness
 relating
 relational
 relationships
@@ -61466,6 +61493,7 @@ skreighed
 skulk
 skulked
 skulkers
+skulks
 skullcaps
 skullduggeries
 skunked
@@ -61991,6 +62019,7 @@ smuts
 smutted
 smuttier
 smuttiest
+smuttinesses
 snacked
 snacker
 snackers
@@ -62189,6 +62218,7 @@ snows
 snowscapes
 snowshed
 snowshoe
+snowshoeing
 snowshoer
 snowshoes
 snowslide
@@ -64370,6 +64400,7 @@ straggler
 stragglers
 stragglier
 straggling
+straight
 straightaway
 straightaways
 straightedge
@@ -65751,6 +65782,7 @@ supersedes
 supersell
 supersells
 supersessions
+supersex
 supersharp
 supershow
 supersinger
@@ -66242,6 +66274,7 @@ syllabize
 syllabizes
 syllabizing
 syllabled
+syllables
 syllabling
 syllabub
 syllabuses
@@ -69099,6 +69132,7 @@ transplantable
 transplanters
 transpontine
 transported
+transporter
 transporters
 transports
 transposons
@@ -74253,6 +74287,7 @@ webcams
 webcast
 webcasted
 webcasts
+weber
 webers
 webfed
 webfeet
