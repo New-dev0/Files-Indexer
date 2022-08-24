@@ -4107,6 +4107,7 @@ audiocassette
 audiocassettes
 audiograms
 audiologic
+audiologist
 audiologists
 audiology
 audiometers
@@ -4411,6 +4412,7 @@ away
 awayness
 awaynesses
 awe
+aweary
 aweather
 awed
 aweigh
@@ -6625,6 +6627,7 @@ blacklisting
 blackmailed
 blackmailer
 blackmailers
+blackmails
 blackpolls
 blacks
 blacksmithing
@@ -9502,6 +9505,7 @@ cardiomyopathy
 cardiopulmonary
 cardiotonic
 cardiotonics
+carditic
 carditises
 cardons
 cardoon
@@ -10798,6 +10802,7 @@ chickadees
 chickaree
 chickarees
 chickee
+chickening
 chickenshit
 chickories
 chickory
@@ -14059,6 +14064,7 @@ cornual
 cornucopia
 cornucopian
 cornute
+cornuted
 cornuto
 cornutos
 corollaries
@@ -14383,6 +14389,7 @@ countermelodies
 countermemo
 countermines
 countermove
+countermyths
 counteroffers
 counterordering
 counterorders
@@ -15376,6 +15383,7 @@ culminations
 culming
 culms
 culotte
+culottes
 culpa
 culpabilities
 culpability
@@ -15829,6 +15837,7 @@ cypselae
 cysteamine
 cysteine
 cysteines
+cysteins
 cysticercosis
 cystine
 cystinuria
@@ -20452,6 +20461,7 @@ earthshakers
 earthshaking
 earthshine
 earthshines
+earthstars
 earthward
 earthwards
 earthworks
@@ -24353,6 +24363,7 @@ fideists
 fidelista
 fidelities
 fidget
+fidgeter
 fidgeters
 fiducially
 fiduciaries
@@ -28279,6 +28290,7 @@ grangerisms
 granita
 granitelike
 granites
+granitewares
 granivorous
 granodiorite
 granola
@@ -28643,6 +28655,7 @@ groomer
 groomsmen
 grooved
 groovers
+grooves
 groovier
 groovy
 grope
@@ -28784,6 +28797,7 @@ grushie
 grutching
 gruyeres
 gryphon
+gryphons
 guacamoles
 guaiacols
 guaiacs
@@ -32483,6 +32497,7 @@ impoliteness
 impolitic
 impolitical
 impoliticly
+imponderably
 impone
 importance
 importances
@@ -35428,6 +35443,7 @@ kabeljous
 kabikis
 kabobs
 kabukis
+kachina
 kachinas
 kaddish
 kaddishes
@@ -36370,6 +36386,7 @@ laked
 lakefront
 lakelike
 lakeports
+laker
 lakes
 lakeshore
 lakh
@@ -36500,6 +36517,7 @@ lang
 langbeinite
 langlaufers
 langley
+langostinos
 langouste
 langoustine
 langoustines
@@ -39042,6 +39060,7 @@ mantraps
 mantras
 manually
 manubria
+manubrium
 manubriums
 manufactories
 manufactured
@@ -42140,6 +42159,7 @@ movable
 movableness
 moveables
 moved
+moveless
 movelessly
 movelessness
 moviedom
@@ -43196,6 +43216,7 @@ nephritides
 nephritises
 nephrologies
 nephrologist
+nephrons
 nephropathies
 nephropathy
 nephrostome
@@ -45603,6 +45624,7 @@ orthodoxy
 orthogenesis
 orthogenetic
 orthogonalities
+orthographic
 orthomolecular
 orthonormal
 orthopedic
@@ -47836,6 +47858,7 @@ parasynthetic
 paratactic
 parataxis
 parathion
+parathions
 paratroop
 paratrooper
 paratroops
@@ -49519,6 +49542,7 @@ photographer
 photographers
 photographic
 photographs
+photoinduced
 photoinduction
 photoinductions
 photoionization
@@ -50608,6 +50632,7 @@ pocky
 pocosin
 pocoson
 pod
+podagral
 podagric
 podagrous
 podding
@@ -51430,6 +51455,7 @@ powderless
 power
 powerful
 powerfully
+powerhouse
 powerlessly
 powers
 pows
@@ -53171,6 +53197,7 @@ psychokinetic
 psychologies
 psychologise
 psychologises
+psychologism
 psychologists
 psychologize
 psychologized
@@ -53785,6 +53812,7 @@ quagmiriest
 quags
 quahogs
 quai
+quaich
 quaiches
 quailing
 quainter
@@ -56976,6 +57004,7 @@ respooled
 respot
 respots
 resprang
+respray
 resprayed
 respread
 respreads
@@ -57183,6 +57212,7 @@ retinitides
 retinitises
 retinoblastomas
 retinoid
+retinoids
 retinopathy
 retinoscopies
 retinted
@@ -57784,6 +57814,7 @@ ringleted
 ringlets
 ringlike
 ringmaster
+ringnecks
 ringside
 ringtail
 ringtaw
@@ -57890,6 +57921,7 @@ roadability
 roadbed
 roadblocked
 roadblocking
+roadeos
 roadhouse
 roadhouses
 roadies
@@ -60693,6 +60725,7 @@ sextodecimo
 sexton
 sextos
 sexts
+sextuples
 sextuplets
 sextuplicate
 sextuplicated
@@ -69418,6 +69451,7 @@ toxicologists
 toxicology
 toxics
 toxigenic
+toxin
 toxins
 toxoid
 toxoids
@@ -75845,6 +75879,7 @@ worked
 worker
 workfares
 workflow
+workfolk
 workforce
 workhorse
 workhorses
