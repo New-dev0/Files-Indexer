@@ -1937,6 +1937,7 @@ ampersand
 amphibians
 amphibious
 amphibole
+amphibolies
 amphibolite
 amphibolites
 amphibologies
@@ -6769,6 +6770,7 @@ blini
 blinis
 blink
 blinkard
+blinker
 blinking
 blintz
 blintze
@@ -7772,6 +7774,7 @@ breastplate
 breasts
 breaststrokes
 breath
+breathabilities
 breathability
 breathe
 breathed
@@ -8717,6 +8720,7 @@ cachexia
 cachexias
 caching
 cachinnated
+cachinnates
 cachinnation
 cachou
 cachucha
@@ -11604,6 +11608,7 @@ clavicular
 clavier
 clavieristic
 claviers
+claviform
 clawback
 clawhammer
 clawing
@@ -11655,6 +11660,7 @@ cleistogamy
 clemency
 clement
 clench
+clenched
 clencher
 clenches
 clenching
@@ -18378,6 +18384,7 @@ disaffirming
 disaffirms
 disaggregate
 disaggregated
+disaggregative
 disagreeable
 disagreement
 disagrees
@@ -19108,6 +19115,7 @@ ditzinesses
 diuresis
 diuretic
 diurnal
+diuron
 diurons
 divagation
 divalences
@@ -19554,6 +19562,7 @@ doughboys
 doughface
 doughiest
 doughlike
+doughnutlike
 doughnuts
 doughtier
 doughtily
@@ -20128,6 +20137,7 @@ dumfounds
 dumka
 dumky
 dummkopfs
+dummy
 dummying
 dumortierite
 dump
@@ -20227,6 +20237,7 @@ dustoff
 dustpan
 dustrags
 duststorm
+dutchman
 dutchmen
 dutiable
 dutifully
@@ -21725,6 +21736,7 @@ enterotoxins
 enteroviral
 enterprising
 entertains
+enthalpies
 enthalpy
 enthral
 enthralled
@@ -26073,6 +26085,7 @@ frizz
 frizzed
 frizzies
 frizziest
+frizziness
 frizzing
 frizzle
 frizzles
@@ -26170,6 +26183,7 @@ fruitier
 fruitily
 fruiting
 fruition
+fruitions
 fruitless
 fruitlessly
 fruitlessnesses
@@ -27895,6 +27909,7 @@ goldbricked
 goldbricking
 goldbugs
 golden
+goldener
 goldenest
 goldenness
 goldennesses
@@ -33429,6 +33444,7 @@ innkeepers
 innless
 innocency
 innocent
+innocentest
 innocently
 innocents
 innocuousness
@@ -36135,6 +36151,7 @@ laborious
 laboriously
 laboriousness
 laborite
+laborites
 laborsaving
 labour
 labourers
@@ -36954,6 +36971,7 @@ lendable
 lenders
 lending
 lends
+length
 lengthen
 lengthener
 lengthens
@@ -37936,6 +37954,7 @@ loosely
 loosen
 looseners
 looseness
+loosenesses
 looses
 loosestrife
 loosestrifes
@@ -39526,6 +39545,7 @@ meditated
 meditating
 meditation
 meditative
+meditativeness
 meditators
 mediumship
 medius
@@ -41359,6 +41379,7 @@ moistens
 moister
 moistful
 moisture
+moisturise
 moisturised
 moisturises
 moisturize
@@ -43713,6 +43734,7 @@ nondecisions
 nondegenerate
 nondelegates
 nondeliveries
+nondelivery
 nondemands
 nondemocratic
 nondepartmental
@@ -44656,6 +44678,7 @@ obtested
 obtesting
 obtests
 obtruded
+obtruders
 obtrusions
 obtrusive
 obtrusivenesses
@@ -46084,6 +46107,7 @@ outsees
 outsell
 outserved
 outshames
+outshooting
 outshoots
 outshout
 outshouting
@@ -48249,6 +48273,7 @@ pearter
 peartest
 peartness
 peartnesses
+pearwood
 pearwoods
 peasantries
 peasants
@@ -48974,6 +48999,7 @@ pervaded
 pervader
 pervaders
 pervades
+pervasion
 pervasions
 pervasively
 pervasiveness
@@ -50862,6 +50888,7 @@ pontiffs
 pontificals
 pontificates
 pontificating
+pontificator
 pontificators
 pontils
 pontine
@@ -60834,6 +60861,7 @@ sheqels
 sherberts
 sherds
 shereef
+shergottite
 shergottites
 sheriffdoms
 sherifs
@@ -62144,6 +62172,7 @@ slowdown
 slowdowns
 slowed
 slower
+slowest
 slowish
 slowness
 slownesses
@@ -63336,6 +63365,7 @@ spelean
 speleological
 speleologies
 speleologist
+speleologists
 spellbind
 spellbinds
 spelldowns
@@ -64984,6 +65014,7 @@ strophe
 strophoid
 strophuli
 stropped
+stropper
 stroppers
 stroppier
 stroppiest
@@ -65016,6 +65047,7 @@ strunt
 strunting
 strunts
 struthious
+strutting
 strychnic
 stubbier
 stubbiest
@@ -70422,6 +70454,7 @@ turbine
 turbocar
 turbocars
 turbocharger
+turbochargers
 turboelectric
 turbofan
 turbogenerator
@@ -71083,6 +71116,7 @@ unburdened
 unburdening
 unburied
 unburnable
+unburned
 unburnt
 unbusted
 unbusy
@@ -74449,6 +74483,7 @@ warrantying
 warren
 warreners
 warrens
+warrigals
 warriors
 warsaw
 warship

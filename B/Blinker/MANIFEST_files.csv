@@ -1,0 +1,13 @@
+kinetic-live-server-arm64.manifest - Ubuntu CDimage,https://cdimage.ubuntu.com/ubuntu-server/daily-live/20220609/kinetic-live-server-arm64.manifest
+https://cdimage.ubuntu.com/ubuntu-server/daily-liv...,https://cdimage.ubuntu.com/ubuntu-server/daily-live/20220617/kinetic-live-server-s390x.manifest
+https://mirrors.aliyun.com/oldubuntu-releases/rele...,https://mirrors.aliyun.com/oldubuntu-releases/releases/16.04.4/ubuntu-16.04.3-preinstalled-server-armhf%2Braspi2.manifest
+ftp.dei.uc.pt/pub/linux/xubuntu/releases/18.10/rel...,http://ftp.dei.uc.pt/pub/linux/xubuntu/releases/18.10/release/xubuntu-18.10-desktop-amd64.manifest
+kinetic-desktop-amd64.manifest - FTP Directory Listing,http://ftp.uni-kl.de/pub/linux/ubuntu-dvd/ubuntu-budgie/daily-live/current/kinetic-desktop-amd64.manifest
+mint-dev-tools/filesystem.manifest at master - GitHub,https://github.com/linuxmint/mint-dev-tools/blob/master/usr/share/mint-dev-tools/manifests/mint-20-mate/filesystem.manifest
+Resetter/Parrot_4.7_MATE_64bit_.manifest at master - GitHub,https://github.com/gaining/Resetter/blob/master/Resetter/usr/lib/resetter/data/manifests/Parrot_4.7_MATE_64bit_.manifest
+ubuntu.interhost.co.il/18.04/ubuntu-18.04.3-live-s...,http://ubuntu.interhost.co.il/18.04/ubuntu-18.04.3-live-server-amd64.manifest
+ubuntu-18.04.2-live-server-amd64.manifest,http://ubuntu.interhost.co.il/18.04/ubuntu-18.04.2-live-server-amd64.manifest
+mirror.coganng.com/ubuntu-cdimage/21.10/ubuntu-21....,http://mirror.coganng.com/ubuntu-cdimage/21.10/ubuntu-21.10-beta-live-server-amd64.manifest
+https://ubuntu.cica.es/releases/releases/21.04/ubu...,https://ubuntu.cica.es/releases/releases/21.04/ubuntu-21.04-live-server-amd64.manifest
+https://storage.googleapis.com/ubuntu-os-gke-cloud...,https://storage.googleapis.com/ubuntu-os-gke-cloud/ubuntu-gke-1804-1-16-v20201020a.manifest
+https://storage.googleapis.com/ubuntu-os-gke-cloud...,https://storage.googleapis.com/ubuntu-os-gke-cloud/ubuntu-gke-1804-1-16-v20200330.manifest
