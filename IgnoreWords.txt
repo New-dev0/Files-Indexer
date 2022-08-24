@@ -3102,6 +3102,7 @@ appraisees
 appraisements
 appraisers
 appraising
+appraisive
 appreciable
 appreciated
 appreciating
@@ -3301,6 +3302,7 @@ archine
 archines
 archings
 archipelago
+architectonics
 architecture
 architrave
 archival
@@ -4333,6 +4335,7 @@ aversenesses
 aversions
 aversives
 avertable
+averted
 averter
 averters
 averting
@@ -4700,6 +4703,7 @@ bagginess
 bagginesses
 bagmen
 bagnio
+bagnios
 bagpipe
 bagpiper
 bagpipers
@@ -5631,6 +5635,7 @@ beheaders
 beheads
 behest
 behests
+behindhand
 behinds
 beholds
 behoove
@@ -5705,6 +5710,7 @@ belletrists
 bellflower
 bellhop
 bellicosities
+bellicosity
 bellies
 belligerence
 belligerences
@@ -11844,6 +11850,7 @@ clovered
 cloverleaf
 cloves
 clowder
+clowders
 clowning
 clownish
 clownishness
@@ -12020,6 +12027,7 @@ cocaptained
 cocaptaining
 cocaptains
 cocarboxylase
+cocarboxylases
 cocarcinogenic
 cocarcinogens
 cocatalyst
@@ -15765,8 +15773,10 @@ cymae
 cymars
 cymatia
 cymbal
+cymbaleer
 cymbaler
 cymbalers
+cymbalist
 cymbalom
 cymbidium
 cyme
@@ -15855,6 +15865,7 @@ dace
 daces
 dachas
 dachshund
+dacites
 dacker
 dackered
 dacoit
@@ -18990,6 +19001,7 @@ dissociability
 dissociable
 dissocial
 dissociate
+dissociating
 dissolute
 dissolutely
 dissolve
@@ -21547,6 +21559,7 @@ engram
 engramme
 engrammes
 engrammic
+engrave
 engraved
 engraver
 engravers
@@ -21889,6 +21902,7 @@ eolopile
 eolopiles
 eon
 eonisms
+eosin
 eosinic
 eosinophilia
 eosinophilias
@@ -24132,6 +24146,7 @@ fertilization
 fertilizations
 fertilizer
 fertilizes
+fertilizing
 ferula
 ferulas
 ferule
@@ -28708,6 +28723,7 @@ grumpily
 grumpiness
 grumping
 grumps
+grungers
 grungy
 grunions
 grunted
@@ -32104,6 +32120,7 @@ imbower
 imbowered
 imbowering
 imbowers
+imbricate
 imbricates
 imbrication
 imbrications
@@ -33719,6 +33736,7 @@ intellects
 intellectualist
 intelligencer
 intelligently
+intelligentsias
 intelligibility
 intemperance
 intemperately
@@ -34432,6 +34450,7 @@ ironclad
 ironed
 ironhearted
 ironic
+ironically
 ironicalnesses
 ironings
 ironists
@@ -34686,6 +34705,7 @@ itemizer
 itemizes
 itemizing
 iterant
+iterated
 iterating
 iteration
 iterations
@@ -35048,6 +35068,7 @@ jinker
 jinkers
 jinnee
 jinni
+jinnis
 jinrickshas
 jinrikisha
 jinriksha
@@ -36193,6 +36214,7 @@ lacked
 lackering
 lackluster
 lacks
+laconism
 laconisms
 lacquer
 lacquerer
@@ -37420,6 +37442,7 @@ lindy
 lineable
 lineality
 lineally
+lineamental
 linearised
 linearises
 linearize
@@ -41292,6 +41315,7 @@ mobster
 moccasins
 mochas
 mochila
+mochilas
 mockable
 mocker
 mockeries
@@ -43048,6 +43072,7 @@ neoliberals
 neolith
 neoliths
 neologies
+neologism
 neologist
 neologists
 neologizing
@@ -48200,6 +48225,7 @@ pawnee
 pawnees
 pawning
 pawpaw
+pawpaws
 paws
 pax
 paxes
@@ -53089,6 +53115,7 @@ psychotically
 psychotomimetic
 psychotropic
 psychotropics
+psychrometer
 psychrometries
 psychs
 psylliums
@@ -54691,6 +54718,7 @@ reassorting
 reassorts
 reassumed
 reassumes
+reassurances
 reassured
 reassures
 reassuring
@@ -54834,6 +54862,7 @@ receivers
 receivership
 receiving
 recement
+recensions
 recentrifuged
 recept
 reception
@@ -59850,6 +59879,7 @@ secpar
 secpars
 secrecies
 secret
+secretary
 secreted
 secretin
 secretins
@@ -62064,6 +62094,7 @@ slimeball
 slimeballs
 slimed
 slimier
+sliming
 slimly
 slimmed
 slimming
@@ -69653,6 +69684,7 @@ treacherous
 treachery
 treacliest
 treader
+treaders
 treading
 treadles
 treadmill
@@ -73132,6 +73164,7 @@ vanillin
 vanillins
 vanisher
 vanishers
+vanishes
 vanishing
 vanities
 vanned
@@ -76018,6 +76051,7 @@ yealings
 yeaned
 yeaning
 yeanlings
+year
 yearbook
 yearbooks
 yearend
@@ -76197,6 +76231,7 @@ zacaton
 zacatons
 zaffar
 zaffars
+zaffir
 zag
 zagging
 zaikai
