@@ -601,6 +601,7 @@ adherends
 adherently
 adherers
 adheres
+adhering
 adhesion
 adhesive
 adhesively
@@ -1133,6 +1134,7 @@ agorot
 agouti
 agouties
 agoutis
+agouty
 agrafe
 agrafes
 agraffe
@@ -1593,6 +1595,7 @@ alma
 almagest
 almanac
 almanacks
+almanacs
 almandines
 almandite
 almandites
@@ -7214,6 +7217,7 @@ bombards
 bombasters
 bombasts
 bombazines
+bomber
 bombinates
 bombination
 bombinations
@@ -11870,6 +11874,7 @@ clonicity
 clonism
 clonks
 clonuses
+cloots
 clop
 clopped
 cloques
@@ -14483,6 +14488,7 @@ counterproject
 counterprojects
 counterproposal
 counterprotest
+counterpunch
 counterpuncher
 counterpunches
 counterpunching
@@ -15627,6 +15633,7 @@ curriculums
 curried
 currier
 currieries
+curriery
 curry
 currycombing
 currying
@@ -17458,6 +17465,7 @@ deracinated
 deraigned
 deraigning
 derailleurs
+deranging
 derate
 derates
 derating
@@ -20686,6 +20694,7 @@ econometrician
 economic
 economies
 economises
+economising
 economist
 economists
 economizer
@@ -21746,6 +21755,7 @@ enjoins
 enjoyed
 enkephalin
 enkindled
+enkindler
 enkindles
 enlace
 enlacements
@@ -22466,6 +22476,7 @@ escalations
 escalators
 escallop
 escallops
+escalop
 escalope
 escaloping
 escapable
@@ -26819,6 +26830,7 @@ gallinule
 gallinules
 galliots
 gallipot
+gallium
 gallivant
 gallivanted
 gallivanting
@@ -29013,6 +29025,7 @@ guggle
 guggled
 guggles
 guggling
+guglet
 guglets
 guid
 guidance
@@ -31086,6 +31099,7 @@ homopteran
 homosex
 homosexual
 homosexually
+homosexuals
 homosocialities
 homospories
 homothallic
@@ -32642,6 +32656,7 @@ implementor
 impletion
 impletions
 implicates
+implicating
 implication
 implications
 implicative
@@ -34418,6 +34433,7 @@ intravascularly
 intravenous
 intravitam
 intreat
+intrenches
 intrenching
 intrepid
 intrepidity
@@ -35955,6 +35971,7 @@ kickback
 kickbacks
 kickball
 kickballs
+kickboards
 kickbox
 kickboxed
 kickboxers
@@ -36051,6 +36068,7 @@ kindheartedness
 kindle
 kindled
 kindles
+kindliness
 kindlinesses
 kindling
 kindnesses
@@ -36273,6 +36291,7 @@ kolkhozniki
 kolkhozniks
 kolkhozy
 kolkozy
+kolos
 komatiks
 kombus
 komondorock
@@ -37147,6 +37166,7 @@ leftist
 leftists
 leftmosts
 leftover
+lefts
 leftwards
 lefty
 leg
@@ -40516,6 +40536,7 @@ microcosms
 microcrystal
 microcrystals
 microcultures
+microcuries
 microcyte
 microearthquake
 microeconomics
@@ -40775,6 +40796,7 @@ milldams
 millefiori
 millefioris
 millenarian
+millenarianisms
 millennial
 millennialisms
 millennialists
@@ -41622,6 +41644,7 @@ mocktails
 mockup
 mocs
 mod
+modal
 modalities
 modality
 modals
@@ -41707,6 +41730,7 @@ mojarra
 mojarras
 mola
 molal
+molalities
 molar
 molars
 molas
@@ -45220,6 +45244,7 @@ offertories
 offertory
 offhand
 offhanded
+offhandedness
 office
 officeholders
 officers
@@ -45599,6 +45624,7 @@ opsonic
 opsonified
 opsonin
 opsonins
+opsonize
 opsonized
 opt
 opted
@@ -47181,6 +47207,7 @@ overshirt
 overshirts
 overshoe
 overshooting
+overshots
 overside
 oversides
 oversights
@@ -48494,6 +48521,7 @@ patrimonial
 patrimonies
 patrimony
 patriotically
+patriotism
 patriotisms
 patristic
 patristics
@@ -52514,6 +52542,7 @@ pretrained
 pretraining
 pretrains
 pretravel
+pretrial
 pretrials
 pretrim
 pretrimming
@@ -54075,6 +54104,7 @@ quadrumvirs
 quadruped
 quadrupedal
 quadrupeds
+quadruplicating
 quadruplicities
 quadruplicity
 quadrupling
@@ -59789,6 +59819,7 @@ schizogonous
 schizogony
 schizont
 schizonts
+schizophrenia
 schizophrenias
 schizophrenic
 schizophrenics
@@ -67911,6 +67942,7 @@ taximeter
 taximeters
 taxis
 taxiways
+taxless
 taxman
 taxmen
 taxol
@@ -68194,6 +68226,7 @@ temples
 templet
 temporalized
 temporalizing
+temporally
 temporals
 temporaries
 temporarily
@@ -73971,6 +74004,7 @@ vengefulnesses
 venges
 venging
 venial
+venine
 venins
 venipuncture
 venire
@@ -74900,6 +74934,7 @@ wakames
 wake
 wakeboarder
 wakeboards
+wakefully
 wakefulness
 wakeless
 waken
