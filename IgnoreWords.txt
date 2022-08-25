@@ -3141,6 +3141,7 @@ appropriated
 appropriately
 appropriateness
 appropriations
+appropriative
 approver
 approves
 approving
@@ -3605,6 +3606,7 @@ ascent
 ascents
 ascetic
 ascetical
+ascetically
 asceticisms
 ascidia
 ascites
@@ -4044,6 +4046,7 @@ attester
 attesting
 attestors
 atticisms
+atticist
 atticists
 atticizing
 attired
@@ -7980,6 +7983,7 @@ broadens
 broader
 broadleaf
 broadleaves
+broadloom
 broadly
 broadside
 broadswords
@@ -8801,6 +8805,7 @@ caddisworms
 caddy
 caddying
 cade
+cadelle
 cadences
 cadencies
 cadencing
@@ -10262,6 +10267,7 @@ cerebella
 cerebellum
 cerebellums
 cerebrate
+cerebrates
 cerebration
 cerebrations
 cerebroside
@@ -10859,6 +10865,7 @@ childcare
 childish
 childishly
 childishness
+childlessness
 childlessnesses
 childlier
 childlike
@@ -10930,6 +10937,7 @@ chinstraps
 chints
 chintzier
 chintziest
+chintzy
 chinwagging
 chionodoxa
 chionodoxas
@@ -20207,6 +20215,7 @@ duits
 duked
 dukedoms
 dulcetly
+dulcets
 dulciana
 dulcified
 dulcifies
@@ -21632,6 +21641,7 @@ engild
 engine
 engineer
 engineered
+engineering
 engineers
 engineries
 engines
@@ -22231,6 +22241,7 @@ equilibrants
 equilibrated
 equilibrations
 equilibratory
+equilibria
 equilibrist
 equilibristic
 equilibrium
@@ -24147,6 +24158,7 @@ fellowships
 felon
 feloniousness
 felons
+felsic
 felsite
 felspars
 felstone
@@ -26034,6 +26046,7 @@ fraternizing
 fraters
 frauds
 fraudulence
+fraudulences
 fraught
 fraulein
 frayed
@@ -28355,6 +28368,7 @@ grandparenthood
 grandparents
 grandpas
 grandsire
+grandsires
 grandsirs
 grandson
 grange
@@ -30071,6 +30085,7 @@ hegira
 hegumens
 hegumeny
 heh
+heifer
 heifers
 height
 heightening
@@ -30100,6 +30115,7 @@ helicons
 helicopted
 helicoptered
 helicopts
+helilift
 helilifting
 heliolatries
 heliometrically
@@ -31704,6 +31720,7 @@ hydrostatic
 hydrostatically
 hydrostats
 hydrotherapy
+hydrothermally
 hydrothoraxes
 hydrotropic
 hydrotropism
@@ -32561,6 +32578,7 @@ impletion
 impletions
 implicates
 implication
+implications
 implicative
 implicitly
 imploded
@@ -37651,6 +37669,7 @@ lingy
 linier
 lining
 linkable
+linker
 linkman
 linkmen
 links
@@ -40222,6 +40241,7 @@ metaphrase
 metaphysician
 metaphysics
 metaplasia
+metaplasias
 metaplasm
 metapsychology
 metasomatic
@@ -43350,6 +43370,7 @@ nestle
 nestled
 nestler
 nestlike
+nestling
 nestors
 nethermost
 netherworld
@@ -43855,6 +43876,7 @@ noncareer
 noncarriers
 noncash
 noncasual
+nonce
 noncelebrations
 noncelebrities
 noncellular
@@ -46159,6 +46181,7 @@ outlawed
 outlawries
 outleading
 outleaped
+outleaps
 outleapt
 outlearns
 outlearnt
@@ -50287,6 +50310,7 @@ pittas
 pittosporum
 pituitary
 pity
+pityingly
 piu
 pivotable
 pivotal
@@ -50625,6 +50649,7 @@ pliofilm
 pliskie
 pliskies
 plisse
+plodded
 ploidy
 plop
 plopped
@@ -51999,6 +52024,7 @@ preinvasion
 preinvite
 prejudged
 prejudges
+prejudging
 prejudgment
 prejudgments
 prejudiced
@@ -53423,6 +53449,7 @@ puds
 pueblos
 puerile
 puerilely
+puerilism
 puerpera
 puerperae
 puerperia
@@ -56780,6 +56807,7 @@ reprographics
 reprographies
 reproofs
 reprove
+reprover
 reprovers
 reprovisioned
 reps
@@ -57207,6 +57235,7 @@ restring
 restrive
 restrives
 restrooms
+restruck
 restructure
 restructured
 restructures
@@ -58095,6 +58124,7 @@ robotism
 robotization
 robotize
 robotry
+robs
 robustas
 robuster
 robustest
@@ -63776,6 +63806,7 @@ spiderwebs
 spiderwort
 spiderworts
 spied
+spiegel
 spiegeleisens
 spiegels
 spiel
@@ -67752,6 +67783,7 @@ teachableness
 teachablenesses
 teachably
 teacup
+teacups
 teahouse
 teahouses
 teakettles
@@ -72364,6 +72396,7 @@ unlively
 unloader
 unloading
 unloads
+unlobed
 unlocated
 unlocked
 unlocks
@@ -73187,6 +73220,7 @@ uptown
 uptrend
 upturned
 upward
+upwardness
 upwardnesses
 upwelled
 upwelling
@@ -75052,6 +75086,7 @@ weakliest
 weakliness
 weaklinesses
 weaklings
+weakons
 weakside
 weal
 wealds
