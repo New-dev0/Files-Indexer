@@ -959,6 +959,7 @@ afghans
 aficionada
 aficionadas
 aficionados
+afield
 aflame
 aflatoxins
 afore
@@ -2918,6 +2919,7 @@ aphorists
 aphorized
 aphorizer
 aphorizers
+aphorizes
 aphrodisiacal
 aphrodisiacs
 aphrodites
@@ -7456,6 +7458,7 @@ botryose
 botrytis
 bottle
 bottlebrushes
+bottlenecks
 bottlers
 bottlings
 bottom
@@ -8234,6 +8237,7 @@ bucktoothed
 bucolics
 budder
 budders
+buddhas
 buddied
 buddies
 budding
@@ -8955,6 +8959,7 @@ calesas
 calescent
 calflike
 calfs
+calibration
 calibrations
 calibrator
 caliche
@@ -10800,6 +10805,7 @@ chevalet
 chevalets
 chevaliers
 chevelures
+chevies
 cheviot
 chevre
 chevres
@@ -12150,6 +12156,7 @@ cockneyisms
 cockneys
 cockscomb
 cockshies
+cockshuts
 cockshy
 cockspur
 cockspurs
@@ -19740,6 +19747,7 @@ downcast
 downcasts
 downcourt
 downdraft
+downdrafts
 downer
 downers
 downfall
@@ -22735,6 +22743,7 @@ euphemist
 euphemistically
 euphemists
 euphemized
+euphemizes
 euphemizing
 euphenic
 euphenics
@@ -22784,6 +22793,7 @@ euthanizing
 euthenists
 eutherian
 eutrophications
+eutrophies
 eutrophy
 euxenite
 evacuates
@@ -23327,6 +23337,7 @@ explosions
 explosively
 explosiveness
 expo
+exponent
 exponential
 exponents
 exportability
@@ -34658,6 +34669,7 @@ ironlike
 ironman
 ironmen
 ironmongers
+ironweed
 ironwomen
 ironworker
 ironworks
@@ -35068,6 +35080,7 @@ jarlsberg
 jarovized
 jarovizing
 jarrahs
+jarred
 jarring
 jars
 jarsful
@@ -40778,6 +40791,7 @@ millisecond
 milliseconds
 millivolts
 milliwatt
+millpond
 millrace
 millruns
 mills
@@ -41138,6 +41152,7 @@ misdescriptions
 misdiagnosed
 misdiagnoses
 misdiagnosis
+misdid
 misdirections
 misdirects
 misdivide
@@ -41161,6 +41176,7 @@ misedit
 misedited
 miseducates
 miseducation
+misemphases
 misemphasize
 misemploy
 misemploying
@@ -43016,6 +43032,7 @@ nappa
 nappas
 napped
 napper
+nappes
 naprapathies
 naprapathy
 naproxen
@@ -44348,6 +44365,7 @@ nonsentences
 nonsequential
 nonserials
 nonserious
+nonsexist
 nonsexual
 nonshrink
 nonsignificant
@@ -45080,6 +45098,7 @@ octosyllables
 octothorp
 octothorps
 octrois
+octuple
 octupled
 octuples
 octuplex
@@ -46481,6 +46500,7 @@ outswore
 outsworn
 outswum
 outtakes
+outtalk
 outtalked
 outtalking
 outtasking
@@ -47042,6 +47062,7 @@ overrash
 overrate
 overrated
 overrating
+overreached
 overreacher
 overreaches
 overreact
@@ -49378,6 +49399,7 @@ petrifier
 petrifiers
 petrifying
 petrochemicals
+petrodollar
 petrogeneses
 petrogenesis
 petrogenetic
@@ -50217,6 +50239,7 @@ pintsized
 pinwales
 pinwheel
 pinwork
+pinworm
 pinworms
 piny
 pinyons
@@ -55711,6 +55734,7 @@ reeligibility
 reeligible
 reelings
 reels
+reembark
 reembarked
 reembody
 reembrace
@@ -56305,6 +56329,7 @@ relacquered
 relapser
 relapsers
 relapses
+relapsing
 relate
 related
 relatedly
@@ -65402,6 +65427,7 @@ strobila
 strobilae
 strobilation
 strobilations
+strobile
 strobili
 strobilus
 stroboscopic
@@ -66105,6 +66131,7 @@ succuba
 succubi
 succubus
 succulent
+succussed
 such
 suchlike
 sucker
@@ -69665,6 +69692,7 @@ tovarish
 tow
 towable
 toward
+towardlinesses
 toweled
 towelette
 towelettes
@@ -70424,6 +70452,7 @@ tripinnate
 triple
 tripled
 triples
+triplet
 tripletail
 triplicate
 triplicated
@@ -70807,6 +70836,7 @@ tufts
 tugger
 tugging
 tughriks
+tugriks
 tugs
 tui
 tuitional
@@ -70854,6 +70884,7 @@ tundishes
 tune
 tuneable
 tuned
+tunefully
 tuneless
 tunelessly
 tuner
@@ -73514,6 +73545,7 @@ valetudinaries
 valetudinary
 valgoid
 valiances
+valiancies
 valiancy
 valiant
 valiantly
@@ -75490,6 +75522,7 @@ whipcord
 whipcords
 whiplash
 whiplike
+whippers
 whippets
 whippier
 whippiest
@@ -76205,6 +76238,7 @@ worrited
 worriting
 worry
 worrywart
+worrywarts
 worse
 worsen
 worsening
@@ -76864,6 +76898,7 @@ zoologically
 zoologies
 zoomorph
 zoomorphic
+zoon
 zoonosis
 zoonotic
 zoophile
