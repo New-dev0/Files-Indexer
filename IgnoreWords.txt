@@ -4502,6 +4502,7 @@ azines
 azlons
 azo
 azoic
+azole
 azoles
 azon
 azoted
@@ -6282,6 +6283,7 @@ billowed
 billowing
 billows
 bilobed
+bilocular
 bilsteds
 biltong
 bima
@@ -9987,6 +9989,7 @@ caudations
 caudex
 caudillismo
 cauld
+cauldrons
 cauliflower
 cauliflowerets
 cauliflowers
@@ -10085,6 +10088,7 @@ ceders
 cedilla
 ceding
 cedis
+cedula
 cedulas
 cees
 ceibas
@@ -14770,6 +14774,7 @@ crapshoots
 crases
 crashers
 crashes
+crashworthiness
 crassitudes
 crassly
 crassness
@@ -16341,6 +16346,7 @@ debagging
 debark
 debarked
 debarkers
+debarks
 debarment
 debarring
 debased
@@ -17792,6 +17798,7 @@ deviousnesses
 devisable
 devisee
 devises
+devising
 devisor
 devitrified
 devitrify
@@ -20321,6 +20328,7 @@ durations
 durative
 durbars
 dure
+dures
 duress
 duresses
 durians
@@ -24010,6 +24018,7 @@ favelas
 favorably
 favored
 favorer
+favorers
 favorite
 favorites
 favors
@@ -25365,6 +25374,7 @@ flytiers
 flyting
 flytrap
 flyway
+flyways
 flyweight
 foal
 foals
@@ -26831,6 +26841,7 @@ gaminess
 gaminesses
 gaming
 gamins
+gamma
 gammed
 gammier
 gamming
@@ -33942,6 +33953,7 @@ interarch
 interarched
 interarches
 interbasin
+interbeds
 interbranch
 interbreeding
 intercalary
@@ -34179,6 +34191,7 @@ interposing
 interpretable
 interpretations
 interpreted
+interpreters
 interpretive
 interpretively
 interpupillary
@@ -34739,6 +34752,7 @@ isobaric
 isobarism
 isobars
 isobath
+isobutane
 isobutanes
 isobutyl
 isocaloric
@@ -36553,6 +36567,7 @@ laminator
 laming
 laminitises
 laminose
+lamister
 lammergeier
 lammergeiers
 lammergeyer
@@ -36955,6 +36970,7 @@ leadscrews
 leadsmen
 leadwork
 leadworks
+leadworts
 leafage
 leafhoppers
 leafiest
@@ -38736,6 +38752,7 @@ mafiosi
 mafiosos
 maftirs
 mag
+magalogs
 magalogues
 magazine
 magdalene
@@ -39030,6 +39047,7 @@ mandated
 mandating
 mandator
 mandatories
+mandators
 mandibulate
 mandola
 mandolins
@@ -40526,6 +40544,7 @@ microstates
 microstructural
 microstructures
 microsurgeries
+microsurgical
 microswitch
 microtechnique
 microtonalities
@@ -43053,6 +43072,7 @@ nationalisms
 nationality
 nationalize
 nationalizer
+nationalizers
 nationally
 nationals
 nationhood
@@ -44146,6 +44166,7 @@ nonlibrary
 nonlinearity
 nonliquid
 nonliquids
+nonliterary
 nonliterate
 nonlives
 nonliving
@@ -49062,6 +49083,7 @@ periosteal
 periostitis
 periotic
 peripatetic
+peripatus
 peripatuses
 peripeteia
 peripetia
@@ -51902,6 +51924,7 @@ predomination
 predraft
 predried
 predrill
+predry
 predynastic
 preed
 preedit
@@ -52576,6 +52599,7 @@ prioresses
 prioritization
 prioritizations
 priority
+priorship
 priorships
 priory
 prise
@@ -53523,6 +53547,7 @@ pulsate
 pulsated
 pulsatory
 pulsed
+pulsejets
 pulser
 pulsers
 pulses
@@ -55091,6 +55116,7 @@ recalculated
 recalculation
 recalibrated
 recalibrates
+recalibration
 recalibrations
 recall
 recallability
@@ -57564,6 +57590,7 @@ reverie
 reveries
 reverified
 reversal
+reversals
 reverse
 reversers
 reversibilities
@@ -59772,6 +59799,7 @@ sciuroid
 sclaffers
 sclaffing
 sclera
+sclereid
 sclerenchyma
 sclerites
 scleritis
@@ -62142,6 +62170,7 @@ skimobile
 skimobiles
 skimos
 skimp
+skimpily
 skimpiness
 skimping
 skimpy
@@ -64924,6 +64953,7 @@ stinted
 stipel
 stipels
 stipes
+stipitate
 stipple
 stippled
 stipplings
@@ -67041,6 +67071,7 @@ syllogistically
 syllogizes
 sylph
 sylphish
+sylphlike
 sylvan
 sylvanite
 sylvatic
@@ -74512,6 +74543,7 @@ voluntaryists
 volunteering
 volunteerisms
 volunteers
+voluptuary
 voluptuously
 volutes
 volutins
@@ -75366,6 +75398,7 @@ whereto
 wherewithal
 wherewiths
 wherried
+wherries
 wherrying
 whet
 whether
@@ -75872,6 +75905,7 @@ withdrawable
 withdrawal
 withdrawing
 withdrawn
+withdraws
 withe
 wither
 witherite
@@ -75984,6 +76018,7 @@ woodblocks
 woodborer
 woodbox
 woodchats
+woodchopper
 woodchoppers
 woodcock
 woodcutting
