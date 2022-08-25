@@ -52,6 +52,7 @@ abscisin
 abscisins
 abscissas
 abscond
+absconded
 absconder
 absconders
 abseils
@@ -3030,6 +3031,7 @@ appaloosas
 appanage
 apparel
 appareling
+apparels
 appealed
 appealer
 appealers
@@ -5668,6 +5670,7 @@ bejumbles
 bejumbling
 bekiss
 beknight
+beknighting
 beknot
 beknots
 beknotted
@@ -6988,6 +6991,7 @@ blustered
 blusterer
 blusterers
 blustering
+blusterous
 blustery
 blype
 bo
@@ -11910,6 +11914,7 @@ clumping
 clumpish
 clumsier
 clumsiest
+clumsiness
 clumsinesses
 clung
 clunked
@@ -14613,6 +14618,7 @@ coying
 coynesses
 coyotes
 coypou
+coypu
 coypus
 coys
 cozenages
@@ -19066,6 +19072,7 @@ distantness
 distaste
 distasted
 distaves
+distelfink
 distelfinks
 distempered
 distender
@@ -19620,6 +19627,7 @@ doughy
 doum
 douma
 doums
+doupionis
 douppionis
 dour
 dourah
@@ -19985,6 +19993,7 @@ droolier
 drooliest
 drooling
 droopily
+droops
 droopy
 dropforges
 dropforging
@@ -21289,6 +21298,7 @@ emulsifiers
 emulsifying
 emunctories
 emunctory
+emyd
 emydes
 emyds
 enabled
@@ -23132,6 +23142,7 @@ exotropias
 expand
 expanded
 expander
+expanders
 expanding
 expands
 expanse
@@ -23453,6 +23464,7 @@ exuvium
 eyeable
 eyeballed
 eyeballs
+eyebars
 eyebeam
 eyebeams
 eyeblink
@@ -24900,6 +24912,7 @@ flavorful
 flavorfully
 flavorings
 flavorous
+flavorsome
 flavour
 flavoured
 flavoury
@@ -25122,6 +25135,7 @@ flour
 floured
 flouring
 flourisher
+flourishers
 flourless
 flours
 flouted
@@ -28693,6 +28707,7 @@ groundlings
 groundmass
 groundmasses
 groundsels
+groundsheets
 groundsman
 groundswell
 groundswells
@@ -31628,6 +31643,7 @@ hydrostats
 hydrotherapy
 hydrothoraxes
 hydrotropic
+hydrotropism
 hydroxides
 hydroxyapatite
 hydroxylapatite
@@ -33005,6 +33021,7 @@ indeterministic
 index
 indexation
 indexed
+indexicals
 indexing
 indican
 indicans
@@ -36938,6 +36955,7 @@ ledger
 ledgier
 ledgiest
 ledgy
+lee
 leeboard
 leeboards
 leech
@@ -39844,6 +39862,7 @@ memorizable
 memorizations
 memorizers
 memsahibs
+menacer
 menacers
 menad
 menadione
@@ -44792,6 +44811,7 @@ obtainable
 obtained
 obtainers
 obtains
+obtected
 obtested
 obtesting
 obtests
@@ -45421,6 +45441,7 @@ orangerie
 orangeries
 orangs
 orangy
+orate
 orated
 orator
 oratorios
@@ -48841,6 +48862,7 @@ perfectionisms
 perfectionist
 perfectionistic
 perfectionists
+perfections
 perfectiveness
 perfectivity
 perfectness
@@ -49791,6 +49813,7 @@ piclorams
 picnicked
 picnicker
 picnickers
+picnics
 picofarads
 picolin
 picomole
@@ -52379,6 +52402,7 @@ primiparas
 primiparous
 primitively
 primitivism
+primitivisms
 primitivist
 primitivists
 primitivity
@@ -52408,6 +52432,7 @@ princesse
 principal
 principalships
 principe
+principi
 principia
 principle
 principles
@@ -56644,6 +56669,7 @@ reproductive
 reproductives
 reprogrammable
 reprogrammed
+reprogramming
 reprographic
 reprographics
 reprographies
@@ -57833,6 +57859,7 @@ riots
 rip
 ripcords
 riped
+ripened
 ripener
 ripeness
 ripenesses
@@ -59640,6 +59667,7 @@ scoopsful
 scootch
 scootched
 scootches
+scootching
 scooters
 scoping
 scopolamine
@@ -60981,6 +61009,7 @@ sheikhdom
 sheikhdoms
 sheikhs
 sheiks
+sheila
 sheilas
 sheitan
 shekel
@@ -63459,6 +63488,7 @@ specialism
 specialisms
 specialities
 specialization
+specializes
 specially
 specialty
 speciates
@@ -64245,6 +64275,7 @@ stainers
 stainlesses
 stainlessly
 stains
+stair
 staircases
 stairheads
 stairless
@@ -66869,6 +66900,7 @@ sylvites
 symbionts
 symbiosis
 symbiote
+symbolic
 symbolise
 symbolised
 symbolist
@@ -68689,6 +68721,7 @@ thyroxins
 thyrse
 thyrses
 thyrsus
+thysanurans
 tiara
 tiaras
 tibiae
@@ -69356,6 +69389,7 @@ totipotent
 totted
 tottered
 tottering
+tottery
 toucan
 toucans
 touch
@@ -75419,6 +75453,7 @@ wiggliest
 wiggly
 wights
 wigless
+wiglet
 wiglets
 wigmakers
 wigs
