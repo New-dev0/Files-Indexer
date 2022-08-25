@@ -580,6 +580,7 @@ adenines
 adenitis
 adenohypophyses
 adenoid
+adenoma
 adenomas
 adenomata
 adenosine
@@ -2862,6 +2863,7 @@ aorist
 aoristically
 aorists
 aortae
+aortal
 aortas
 aortographic
 aortographies
@@ -3465,6 +3467,7 @@ arpeggios
 arpen
 arpens
 arpent
+arpents
 arquebuses
 arracks
 arraigned
@@ -5055,6 +5058,7 @@ barographic
 baronage
 baroness
 baronesses
+baronet
 baronetage
 baronetcies
 baronnes
@@ -7747,6 +7751,7 @@ bravoes
 bravoing
 bravuras
 bravure
+braw
 brawest
 brawlier
 brawling
@@ -7870,6 +7875,7 @@ bricking
 bricklaying
 bricklayings
 bricks
+brickwork
 brickyards
 bridal
 bridally
@@ -7901,6 +7907,7 @@ brigadier
 brigading
 brigandage
 brigandines
+brigands
 brigantine
 brigantines
 brighten
@@ -12958,6 +12965,7 @@ comprehension
 compressed
 compresses
 compressible
+compressional
 compressions
 compressive
 compressors
@@ -12985,6 +12993,7 @@ compunctious
 compurgations
 computabilities
 computable
+computation
 computations
 computer
 computerdoms
@@ -14810,6 +14819,7 @@ creaseless
 creases
 creasing
 creatable
+create
 created
 creatinines
 creationisms
@@ -15634,6 +15644,7 @@ cushaws
 cushily
 cushiness
 cushions
+cushiony
 cusp
 cuspated
 cusped
@@ -17547,6 +17558,7 @@ desk
 deskbound
 deskman
 desktop
+desktops
 desman
 desmid
 desmids
@@ -19664,6 +19676,7 @@ dourest
 dourine
 dournesses
 douroucouli
+douroucoulis
 douse
 doux
 douzeper
@@ -22779,6 +22792,7 @@ evasive
 evasively
 evasivenesses
 even
+evened
 evenest
 evenhanded
 evening
@@ -24243,6 +24257,7 @@ ferrotype
 ferruginous
 ferryboat
 ferrying
+ferryman
 fertilenesses
 fertilization
 fertilizations
@@ -25321,6 +25336,7 @@ flyboats
 flyboy
 flyboys
 flybridge
+flyby
 flybys
 flyleaf
 flyless
@@ -27446,6 +27462,7 @@ giddied
 giddies
 giddily
 giddiness
+giddinesses
 giddy
 giddyap
 giddying
@@ -36023,6 +36040,7 @@ kiter
 kites
 kiths
 kiting
+kits
 kitsch
 kitschified
 kitschifies
@@ -36876,6 +36894,7 @@ lay
 layerages
 laying
 layman
+laymen
 layoff
 layout
 layouts
@@ -38067,6 +38086,7 @@ lomentums
 loneliest
 lonelily
 lonelinesses
+lonely
 lonesome
 lonesomely
 lonesomes
@@ -40089,6 +40109,7 @@ mesmerisms
 mesmerists
 mesmerize
 mesmerized
+mesmerizer
 mesmerizing
 mesne
 mesnes
@@ -44545,6 +44566,7 @@ nuchals
 nucleal
 nuclear
 nucleases
+nucleate
 nucleates
 nucleations
 nucleins
@@ -50016,6 +50038,7 @@ pillows
 pillowy
 pilonidal
 pilosities
+pilotage
 pilotages
 piloted
 pilothouses
@@ -50616,6 +50639,7 @@ plotties
 plotzed
 plotzes
 plotzing
+plough
 ploughers
 ploughs
 plowable
@@ -51609,6 +51633,7 @@ prankishness
 pranks
 prankster
 praos
+prase
 praseodymium
 prat
 prater
@@ -52174,6 +52199,7 @@ prerequisites
 prerevisionist
 prerinsed
 prerinsing
+prerogatived
 presa
 presageful
 presages
@@ -52603,6 +52629,7 @@ proceeds
 procephalic
 processability
 processed
+processer
 processes
 processible
 procession
@@ -52770,6 +52797,7 @@ projet
 prokaryote
 prokaryotes
 prokaryotic
+prolactins
 prolan
 prolans
 prolapsed
@@ -53634,6 +53662,7 @@ purplish
 purportedly
 purpose
 purposed
+purposeful
 purposeless
 purposelessly
 purposively
@@ -59638,6 +59667,7 @@ scholasticates
 scholiastic
 scholium
 scholiums
+schoolboys
 schoolgirl
 schoolings
 schoolkids
@@ -66622,6 +66652,7 @@ surlily
 surlinesses
 surly
 surmise
+surmised
 surmises
 surmounted
 surmullet
@@ -66750,6 +66781,7 @@ swanherd
 swanherds
 swank
 swankest
+swankiest
 swankily
 swanking
 swannery
@@ -67794,6 +67826,7 @@ technophiles
 technophobes
 technopop
 technopops
+tectal
 tectites
 tectonics
 tectrix
@@ -70599,6 +70632,7 @@ tsarism
 tsarists
 tsaritza
 tsatske
+tsetse
 tsetses
 tsimmes
 tsks
@@ -74362,6 +74396,7 @@ vocational
 vocationalism
 vocationalists
 vocationally
+vocatives
 voces
 vociferate
 vociferates
