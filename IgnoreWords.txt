@@ -1934,6 +1934,7 @@ amorphisms
 amorphous
 amorphousness
 amortise
+amortize
 amortizes
 amortizing
 amosite
@@ -2401,6 +2402,7 @@ annunciated
 annunciating
 annunciatory
 anoa
+anodization
 anodizations
 anodize
 anodized
@@ -5184,6 +5186,7 @@ basketful
 basketry
 basketwork
 basketworks
+basks
 basmati
 basmatis
 basophil
@@ -10678,6 +10681,7 @@ chay
 chays
 chazan
 chazzan
+chazzans
 cheap
 cheapened
 cheapens
@@ -11614,6 +11618,7 @@ clampers
 clamping
 clams
 clamworms
+clan
 clandestinity
 clanged
 clanger
@@ -12434,6 +12439,7 @@ coilers
 coin
 coinable
 coinage
+coincided
 coincidence
 coincidences
 coincides
@@ -13131,6 +13137,7 @@ conchie
 concho
 conchoidal
 conchoidally
+conchoids
 conchologists
 conchology
 conchy
@@ -17303,6 +17310,7 @@ denticulations
 dentiform
 dentifrice
 dentifrices
+dentils
 dentin
 dentinal
 dentine
@@ -18719,6 +18727,7 @@ discoverable
 discovered
 discoverer
 discovers
+discovert
 discovery
 discreditable
 discreditably
@@ -18892,6 +18901,7 @@ disinheriting
 disinhibit
 disinhibited
 disinhibiting
+disinhibits
 disintegrate
 disintegrating
 disintegration
@@ -22025,6 +22035,7 @@ entwisted
 entwists
 enucleates
 enucleation
+enucleations
 enuf
 enumerabilities
 enumerate
@@ -22702,6 +22713,7 @@ ethograms
 ethological
 ethos
 ethoxies
+ethoxy
 ethoxyl
 ethoxyls
 eths
@@ -24091,6 +24103,7 @@ fava
 favas
 fave
 favelas
+favorable
 favorably
 favored
 favorer
@@ -24308,6 +24321,7 @@ feral
 ferbam
 feres
 feretory
+feria
 feriae
 ferial
 ferities
@@ -25450,6 +25464,7 @@ flysheets
 flyspecked
 flyswatter
 flyswatters
+flytes
 flytiers
 flyting
 flytrap
@@ -31681,6 +31696,7 @@ hurries
 hurst
 hursts
 hurt
+hurter
 hurtful
 hurtfully
 hurtle
@@ -31909,6 +31925,7 @@ hypercritical
 hypercriticisms
 hypercritics
 hypercube
+hyperefficient
 hyperemias
 hyperesthetic
 hypereutectoid
@@ -32342,6 +32359,7 @@ illusively
 illusivenesses
 illusorinesses
 illusory
+illustrated
 illustrates
 illustrating
 illustrations
@@ -33899,6 +33917,7 @@ insouciantly
 insoul
 insouling
 inspanned
+inspans
 inspectors
 inspects
 inspheres
@@ -35516,6 +35535,7 @@ jubilations
 jubile
 jubilee
 juco
+judas
 juddered
 judged
 judgement
@@ -40498,6 +40518,7 @@ metronidazoles
 metronomes
 metronomical
 metroplexes
+metropolitans
 metrorrhagia
 mettle
 mettles
@@ -40736,6 +40757,7 @@ midspace
 midsummers
 midtown
 midtowns
+midwatch
 midwatches
 midweek
 midwife
@@ -44916,6 +44938,7 @@ nystagmus
 nystagmuses
 oafish
 oak
+oaken
 oakiest
 oaky
 oar
@@ -47150,6 +47173,7 @@ overpoweringly
 overpraises
 overprescribing
 overpressures
+overpriced
 overpricing
 overprizing
 overprocess
@@ -47343,6 +47367,7 @@ overtop
 overtopped
 overtopping
 overtrades
+overtrading
 overtrain
 overtreat
 overtreatment
@@ -51778,6 +51803,7 @@ poussetting
 poussie
 poussies
 pouters
+poutier
 poutiest
 powdered
 powderers
@@ -54014,6 +54040,7 @@ pyramiding
 pyranoid
 pyranosides
 pyrans
+pyrargyrites
 pyrenes
 pyres
 pyrethrin
@@ -54533,6 +54560,7 @@ radarscopes
 radded
 raddle
 raddles
+radiable
 radiale
 radially
 radiancies
@@ -59487,6 +59515,7 @@ sarsaparillas
 sarsars
 sarsen
 sarsenet
+sarsenets
 sartor
 sartorial
 sash
@@ -59916,6 +59945,7 @@ scholium
 scholiums
 schoolboys
 schoolgirl
+schoolgirls
 schoolings
 schoolkids
 schoolman
@@ -63855,6 +63885,7 @@ spearmints
 spearwort
 spearworts
 spec
+speccing
 specialest
 specialisation
 specialisations
@@ -69834,6 +69865,7 @@ toured
 tourer
 tourers
 tourism
+tourisms
 tourmaline
 tourney
 tourneyed
@@ -70762,6 +70794,7 @@ trophoblasts
 trophy
 tropic
 tropical
+tropicalize
 tropicals
 tropics
 tropine
@@ -73165,6 +73198,7 @@ untidy
 untidying
 untie
 untied
+unties
 until
 untillable
 untilled
@@ -74850,6 +74884,7 @@ vuggier
 vuggs
 vugh
 vugs
+vulcanisate
 vulcanisates
 vulcanisations
 vulcanised
