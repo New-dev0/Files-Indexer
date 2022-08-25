@@ -1349,6 +1349,7 @@ alegars
 alehouse
 alehouses
 alencons
+aleph
 alerted
 alertest
 alertly
@@ -5482,6 +5483,7 @@ bedding
 bedeafening
 bedeafens
 bedeck
+bedecked
 bedecking
 bedell
 bedells
@@ -5621,6 +5623,7 @@ begaze
 begazed
 begazes
 begazing
+beget
 begets
 beggaries
 beggarly
@@ -7472,6 +7475,7 @@ bottomry
 botts
 botulin
 botulinal
+botulinuses
 boubou
 boudoirs
 bouffe
@@ -8559,6 +8563,7 @@ bushido
 bushiness
 bushinesses
 bushing
+bushland
 bushless
 bushpig
 bushpigs
@@ -10431,6 +10436,7 @@ chameleons
 chamfered
 chamferer
 chamfering
+chamfers
 chamfrains
 chamfrons
 chamise
@@ -10565,6 +10571,7 @@ charked
 charks
 charladies
 charlady
+charlatanisms
 charlatanry
 charlatans
 charley
@@ -13113,6 +13120,7 @@ conchologists
 conchology
 conchy
 concierge
+concierges
 conciliar
 conciliate
 conciliated
@@ -15912,6 +15920,7 @@ cystocarps
 cystocele
 cystoid
 cystolith
+cystoscope
 cystoscopic
 cystoscopies
 cystoscopy
@@ -17270,6 +17279,7 @@ denticulated
 denticulation
 denticulations
 dentiform
+dentifrice
 dentifrices
 dentin
 dentinal
@@ -20303,6 +20313,7 @@ dunderheads
 dundrearies
 dunelike
 dungaree
+dungareed
 dungarees
 dunged
 dungeoning
@@ -20690,6 +20701,7 @@ ecoterrorist
 ecotourisms
 ecotourists
 ecotours
+ecotype
 ecru
 ecrus
 ecstatic
@@ -20902,6 +20914,7 @@ eisegeses
 eisteddfodic
 either
 ejaculate
+ejaculated
 ejaculates
 ejaculation
 ejaculations
@@ -21532,6 +21545,7 @@ endemicities
 endemism
 endgame
 ending
+endings
 endited
 endleaf
 endleafs
@@ -25305,6 +25319,7 @@ fluming
 flummeries
 flummery
 flummoxes
+flummoxing
 flumping
 flumps
 flung
@@ -29010,6 +29025,7 @@ guideposts
 guiders
 guideway
 guiding
+guidon
 guild
 guilders
 guildships
@@ -34754,6 +34770,7 @@ irrigably
 irrigated
 irrigation
 irrigators
+irriguous
 irritableness
 irritants
 irritated
@@ -34962,6 +34979,7 @@ jabbing
 jabirus
 jabot
 jaboticabas
+jabots
 jabs
 jacals
 jacamar
@@ -38269,6 +38287,7 @@ lorgnette
 lorgnons
 lorica
 loricae
+lories
 loriners
 lornness
 losablenesses
@@ -39005,6 +39024,7 @@ malleoli
 malleolus
 mallet
 malleus
+mallow
 malmier
 malmsey
 malmseys
@@ -41887,6 +41907,7 @@ monomania
 monomaniac
 monomaniacally
 monomaniacs
+monomanias
 monomer
 monomeric
 monometallic
@@ -44117,6 +44138,7 @@ nonexistent
 nonexistential
 nonexpendable
 nonexperimental
+nonexpert
 nonexploitive
 nonfactors
 nonfactual
@@ -45857,6 +45879,7 @@ oscillograms
 oscillographies
 oscillography
 oscilloscopes
+oscilloscopic
 oscinine
 oscitances
 oscitancies
@@ -46023,6 +46046,7 @@ outbidders
 outbitch
 outbitches
 outbleats
+outbless
 outblooming
 outblooms
 outbluff
@@ -48894,6 +48918,7 @@ pens
 pensee
 pensil
 pensionable
+pensionaries
 pensione
 pensioned
 pensioners
@@ -49098,6 +49123,7 @@ pericarditis
 pericardium
 pericarp
 pericarps
+perichondral
 perichondria
 pericope
 pericrania
@@ -51745,6 +51771,7 @@ prancers
 prances
 pranging
 prangs
+prankish
 prankishly
 prankishness
 pranks
@@ -52484,6 +52511,7 @@ pretorial
 pretournament
 pretrain
 pretrained
+pretraining
 pretrains
 pretravel
 pretrials
@@ -56320,6 +56348,7 @@ rejigs
 rejoice
 rejoiced
 rejoices
+rejoicingly
 rejoicings
 rejoin
 rejoining
@@ -65373,6 +65402,7 @@ streptothricin
 stressed
 stressful
 stressfully
+stressless
 stressor
 stressors
 stretch
@@ -69793,6 +69823,7 @@ traceability
 traceable
 traceably
 traced
+tracery
 tracheae
 tracheary
 tracheated
@@ -71265,6 +71296,7 @@ tyro
 tyrocidin
 tyrocidine
 tyrocidines
+tyrocidins
 tyronic
 tyrosine
 tyrosines
@@ -73307,6 +73339,7 @@ upspring
 upspringing
 upsprings
 upstaged
+upstagers
 upstanding
 upstandingness
 upstared
@@ -75191,6 +75224,7 @@ wax
 waxable
 waxbill
 waxed
+waxen
 waxer
 waxers
 waxes
@@ -75969,6 +76003,7 @@ wish
 wishbone
 wishbones
 wished
+wisher
 wishers
 wishes
 wishfulness
