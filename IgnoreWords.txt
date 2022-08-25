@@ -756,6 +756,7 @@ advantages
 advect
 advection
 advective
+advects
 adventitia
 adventitiously
 adventive
@@ -1075,6 +1076,7 @@ aggress
 aggressed
 aggressions
 aggressive
+aggressors
 aggrievedly
 aggro
 agha
@@ -2188,6 +2190,7 @@ andesytes
 andirons
 andouillette
 androecia
+androgen
 androgeneses
 androgenic
 androgynies
@@ -5859,6 +5862,7 @@ benefits
 benefitted
 benempt
 benevolentness
+benightedness
 benignancy
 benignities
 benignity
@@ -6745,6 +6749,7 @@ blastospores
 blastulae
 blastular
 blastulas
+blastulation
 blastulations
 blatancy
 blatant
@@ -13098,6 +13103,7 @@ concelebrates
 concelebration
 concent
 concentrating
+concentrations
 concentrative
 concentrator
 concentrators
@@ -14595,6 +14601,7 @@ courtrooms
 courts
 courtships
 couscous
+couscouses
 cousin
 cousinhood
 cousinly
@@ -21612,6 +21619,7 @@ endogenies
 endogenous
 endogenously
 endogeny
+endometrial
 endometritis
 endomitoses
 endomixis
@@ -25921,6 +25929,7 @@ formulate
 formulated
 formulates
 formulation
+formulations
 formulator
 formulators
 formulism
@@ -26509,6 +26518,7 @@ fugles
 fugu
 fuguing
 fuguists
+fulcrum
 fulcrums
 fulfil
 fulfilled
@@ -31478,6 +31488,7 @@ housefront
 houseguest
 household
 housekeep
+housekeeper
 housekeepings
 houseling
 houselling
@@ -36119,6 +36130,7 @@ kindheartedness
 kindle
 kindled
 kindles
+kindlessly
 kindliness
 kindlinesses
 kindling
@@ -36165,6 +36177,7 @@ kinkiest
 kinkily
 kinkinesses
 kinks
+kinos
 kinsfolk
 kinsmen
 kiosks
@@ -37347,6 +37360,7 @@ lent
 lentando
 lenten
 lenticular
+lenticule
 lentil
 lentils
 lentisks
@@ -43631,6 +43645,7 @@ neurulas
 neuston
 neutral
 neutralises
+neutralising
 neutralism
 neutralist
 neutralistic
@@ -45250,6 +45265,7 @@ oddsmaker
 odeons
 odic
 odious
+odiously
 odiousnesses
 odiums
 odograph
@@ -46547,6 +46563,7 @@ outscreaming
 outseeing
 outsees
 outsell
+outsells
 outserved
 outshames
 outshooting
@@ -47737,6 +47754,7 @@ paleographers
 paleographic
 paleographies
 paleography
+paleolith
 paleomagnetic
 paleomagnetism
 paleontologic
@@ -51320,6 +51338,7 @@ polyvalent
 polyvinyl
 polywaters
 polyzoans
+polyzoaries
 polyzoary
 polyzoic
 pom
@@ -52612,6 +52631,7 @@ pretrained
 pretraining
 pretrains
 pretravel
+pretreatments
 pretrial
 pretrials
 pretrim
@@ -53099,6 +53119,7 @@ promontories
 promos
 promotable
 promoting
+promotional
 promotiveness
 prompt
 promptbook
@@ -54930,6 +54951,7 @@ ratified
 ratifiers
 ratifies
 ratine
+ratines
 rating
 ratings
 ratio
@@ -55156,6 +55178,7 @@ reaped
 reapers
 reaping
 reappear
+reappearances
 reappearing
 reapplications
 reapplied
@@ -57123,6 +57146,7 @@ reregulates
 reregulating
 reregulation
 reregulations
+rerelease
 rereleasing
 reremice
 rerent
@@ -58193,6 +58217,7 @@ rimer
 rimers
 rimfires
 riminess
+riminesses
 riming
 rimland
 rimless
@@ -59433,6 +59458,7 @@ saphenae
 sapid
 sapiencies
 sapiency
+sapiently
 sapless
 saplessnesses
 sapodilla
@@ -60647,6 +60673,7 @@ selloff
 selloffs
 sellotaping
 sellout
+sellouts
 selsyns
 seltzers
 selva
@@ -62245,6 +62272,7 @@ sirupy
 sirvente
 sirventes
 sisals
+siskin
 siskins
 sissiest
 sissyish
@@ -66274,6 +66302,7 @@ subversiveness
 subvert
 subverter
 subverters
+subverts
 subvicars
 subviruses
 subvocalize
@@ -66425,6 +66454,7 @@ suldan
 sulfadiazine
 sulfas
 sulfatases
+sulfation
 sulfations
 sulfhydryls
 sulfid
@@ -66738,6 +66768,7 @@ superliners
 superlobbyist
 superloyalists
 superlunar
+superlunary
 superluxurious
 superluxury
 supermacho
@@ -67151,6 +67182,7 @@ sweepers
 sweeping
 sweepingness
 sweepings
+sweepstakes
 sweetbriar
 sweetbrier
 sweeten
@@ -69541,6 +69573,7 @@ tolas
 tolbutamide
 tolbutamides
 tole
+tolerable
 tolerant
 tolerantly
 toleration
@@ -72400,6 +72433,7 @@ unforced
 unforeseeable
 unforgivable
 unforgot
+unforked
 unforthcoming
 unfortunately
 unfossiliferous
@@ -75027,6 +75061,7 @@ waiters
 waitlist
 waitperson
 waitpersons
+waitress
 waitresses
 waitron
 waits
