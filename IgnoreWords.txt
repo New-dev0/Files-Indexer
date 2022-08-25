@@ -1747,6 +1747,7 @@ amaurosis
 amaurotic
 amaze
 amazedly
+amazement
 amazes
 amazonites
 ambagious
@@ -2350,6 +2351,7 @@ ankling
 ankus
 ankuses
 ankylosaurs
+ankylosaurus
 ankylosauruses
 ankylose
 ankyloses
@@ -5150,6 +5152,7 @@ basenesses
 baseplates
 baserunning
 baserunnings
+basest
 bash
 bashaws
 bashed
@@ -9216,6 +9219,7 @@ canker
 cankering
 cankerous
 cankers
+cankerworm
 cannabic
 cannabin
 cannabinoid
@@ -15140,6 +15144,7 @@ crossbarring
 crossbill
 crossbills
 crossbones
+crossbow
 crossbowmen
 crossbred
 crossbreed
@@ -16844,6 +16849,7 @@ deflowers
 defoamed
 defoamer
 defoaming
+defoams
 defocus
 defocused
 defocussed
@@ -17849,6 +17855,7 @@ devoir
 devoirs
 devolutionary
 devolutionist
+devolutions
 devolves
 devolving
 devon
@@ -18681,6 +18688,7 @@ discophile
 discophiles
 discordant
 discordantly
+discorded
 discos
 discotheques
 discountable
@@ -19310,6 +19318,7 @@ divined
 diviners
 divines
 divinising
+divinize
 divinized
 divisibility
 division
@@ -20890,6 +20899,7 @@ egocentricities
 egocentricity
 egocentrics
 egocentrisms
+egoist
 egoless
 egomaniac
 egomaniacally
@@ -24749,6 +24759,7 @@ fireflies
 firefly
 firehall
 fireless
+fireman
 firemanic
 firepan
 fireplace
@@ -25165,6 +25176,7 @@ flippest
 flipping
 flir
 flirtation
+flirtations
 flirtatiously
 flirted
 flit
@@ -26709,6 +26721,7 @@ gabbles
 gabbro
 gabbroic
 gabbroid
+gabbros
 gaberdine
 gabions
 gablelike
@@ -27424,6 +27437,7 @@ gerah
 gerahs
 geranial
 geranials
+geranium
 geraniums
 gerardia
 gerbilles
@@ -27474,6 +27488,7 @@ gesticulated
 gesticulations
 gesticulators
 gesturer
+gesturers
 gesturing
 gesundheit
 get
@@ -29046,6 +29061,7 @@ guildsmen
 guile
 guilefully
 guilelessly
+guilelessness
 guiles
 guillemet
 guillemets
@@ -29317,6 +29333,7 @@ hacksawing
 hacksawn
 hacksaws
 hadal
+haddest
 hading
 hadith
 hadj
@@ -35818,6 +35835,7 @@ keffiyahs
 kefir
 keg
 kegelers
+kegged
 kegger
 kegling
 keglings
@@ -39947,6 +39965,7 @@ megasses
 megastars
 megathere
 megatheres
+megaton
 megatonnage
 megatonnages
 megavitamin
@@ -40723,6 +40742,7 @@ mightier
 mightily
 mightinesses
 mignonette
+mignonettes
 mignons
 migraines
 migrant
@@ -44905,6 +44925,7 @@ obelisks
 obelism
 obelisms
 obelized
+obentos
 obese
 obesities
 obesity
@@ -45480,6 +45501,7 @@ oogamete
 oogamies
 oogonia
 oogonium
+ooh
 oolachan
 oolite
 oolith
@@ -48559,6 +48581,7 @@ paupering
 pauperism
 pauperize
 pauperized
+pauperizing
 pausal
 pause
 paused
@@ -51159,6 +51182,7 @@ polygamized
 polygamizes
 polygamy
 polygene
+polygenes
 polygeneses
 polyglot
 polyglotism
@@ -55601,6 +55625,7 @@ redarguing
 redated
 redates
 redating
+redbaiter
 redbaiters
 redbirds
 redbone
@@ -57106,6 +57131,7 @@ reseason
 reseated
 reseats
 reseau
+reseaus
 resectability
 resectable
 resected
@@ -57769,6 +57795,7 @@ revising
 revisionist
 revisions
 revisit
+revisited
 revisits
 revisory
 revisualization
@@ -59689,6 +59716,7 @@ scandals
 scandias
 scandium
 scanner
+scanning
 scansion
 scansions
 scant
@@ -60324,6 +60352,7 @@ secateur
 secateurs
 seccos
 secern
+secerning
 secessionists
 seclude
 secludedly
@@ -62355,6 +62384,7 @@ skis
 skited
 skiting
 skits
+skitter
 skittery
 skittishnesses
 skittles
@@ -66991,6 +67021,7 @@ swanherd
 swanherds
 swank
 swankest
+swankier
 swankiest
 swankily
 swanking
@@ -71562,6 +71593,7 @@ unallowed
 unalterable
 unambiguous
 unambitious
+unambivalently
 unamended
 unamortized
 unamplified
@@ -71715,6 +71747,7 @@ uncalculating
 uncalibrated
 uncalloused
 uncanceled
+uncanniest
 uncanninesses
 uncanny
 uncap
@@ -76341,6 +76374,7 @@ worrisome
 worrit
 worrited
 worriting
+worrits
 worry
 worrywart
 worrywarts
@@ -77052,6 +77086,7 @@ zymogene
 zymogenes
 zymogenic
 zymogens
+zymogram
 zymograms
 zymologies
 zymosan
