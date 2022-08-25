@@ -394,6 +394,7 @@ acoelomates
 aconitic
 aconitum
 aconitums
+acorns
 acousticians
 acoustics
 acquaint
@@ -6885,6 +6886,7 @@ bloodstream
 bloodstreams
 bloodsucker
 bloodthirstily
+bloodworts
 bloody
 bloomers
 bloomiest
@@ -11631,6 +11633,7 @@ clary
 clasher
 clashers
 clashes
+clasp
 clasping
 clasps
 claspt
@@ -12503,6 +12506,7 @@ collards
 collaret
 collarless
 collars
+collated
 collateralizes
 collateralizing
 collaterally
@@ -12753,6 +12757,7 @@ commanding
 commandment
 commando
 commands
+commas
 commemorating
 commemorations
 commemoratively
@@ -14700,6 +14705,7 @@ crackers
 crackhead
 crackings
 crackle
+crackleware
 cracklier
 crackling
 cracknel
@@ -16065,6 +16071,7 @@ damascene
 damaskeen
 damaskeened
 damaskeening
+damasks
 dames
 damiana
 damianas
@@ -17113,6 +17120,7 @@ demise
 demisemiquaver
 demises
 demissions
+demit
 demitasse
 demits
 demiurgic
@@ -22633,6 +22641,7 @@ ethnocentrism
 ethnocentrisms
 ethnographer
 ethnographers
+ethnographies
 ethnohistorian
 ethnohistory
 ethnologic
@@ -25755,6 +25764,7 @@ foretellers
 forethought
 foretime
 foretoken
+foretold
 foretooth
 foretops
 forever
@@ -25940,6 +25950,7 @@ fountain
 fountained
 fountaining
 fourdrinier
+fourdriniers
 fourfold
 fourgons
 fourpences
@@ -26305,6 +26316,7 @@ frontcourt
 frontes
 frontiers
 frontiersmen
+frontispiece
 frontispieces
 frontlets
 frontman
@@ -27283,6 +27295,7 @@ genocide
 genocides
 genome
 genomes
+genoms
 genotype
 genre
 genres
@@ -27850,6 +27863,7 @@ globoid
 globose
 globous
 globulars
+globulins
 glochid
 glochidium
 gloggs
@@ -28021,6 +28035,7 @@ goaded
 goading
 goads
 goal
+goaled
 goalmouth
 goalmouths
 goalpost
@@ -33085,6 +33100,7 @@ incuse
 incusing
 indabas
 indagates
+indagation
 indagators
 indamine
 indamines
@@ -34197,6 +34213,7 @@ interparticle
 interparty
 interpellated
 interpellator
+interpermeates
 interpermeating
 interphalangeal
 interphase
@@ -37505,6 +37522,7 @@ liers
 lieu
 lieve
 liever
+lifeblood
 lifeboat
 lifecare
 lifecares
@@ -38742,6 +38760,7 @@ macumbas
 madams
 madcap
 madcaps
+madded
 maddeningly
 madder
 madders
@@ -39445,6 +39464,7 @@ masker
 masklike
 masochisms
 masochist
+masochistic
 masochistically
 masochists
 masoned
@@ -42669,6 +42689,7 @@ murreys
 murrha
 murrine
 murrs
+murthering
 murthers
 mus
 musca
@@ -45173,6 +45194,7 @@ offering
 offerings
 offeror
 offerors
+offertories
 offertory
 offhand
 offhanded
@@ -49879,6 +49901,7 @@ physicalness
 physicals
 physician
 physicist
+physicists
 physicked
 physicking
 physics
@@ -52681,6 +52704,7 @@ privy
 prizefight
 prizefighters
 prizefights
+prizers
 prizing
 proa
 proabortion
@@ -52838,6 +52862,7 @@ profusion
 profusions
 prog
 progenies
+progenitors
 progeny
 progestational
 progestin
@@ -55671,6 +55696,7 @@ redtail
 redtop
 redtops
 redubbed
+reduced
 reducer
 reducers
 reduces
@@ -57252,6 +57278,7 @@ resprouting
 ressentiments
 restable
 restabled
+restabling
 restack
 restacked
 restaffed
@@ -60311,6 +60338,7 @@ sedatest
 sedations
 sedative
 sederunt
+sedge
 sedgy
 sedilia
 sedilium
@@ -60748,6 +60776,7 @@ septuplets
 sepulchral
 sepulchred
 sepulchres
+sequacious
 sequacities
 sequel
 sequelae
@@ -61779,6 +61808,7 @@ sifting
 siftings
 siganid
 sigh
+sigher
 sighter
 sighters
 sighting
@@ -62116,6 +62146,7 @@ size
 sized
 sizes
 siziness
+sizinesses
 sizing
 sizzler
 sizzles
@@ -68427,6 +68458,7 @@ tetanics
 tetanies
 tetanizations
 tetanizing
+tetchier
 tetchily
 tetchiness
 tether
@@ -69188,6 +69220,7 @@ tippet
 tipping
 tipsily
 tipstaff
+tipstaves
 tipster
 tipsters
 tipstock
@@ -73763,6 +73796,7 @@ vaticinal
 vaticinated
 vaticinating
 vaticination
+vaticinator
 vaticinators
 vats
 vatu
@@ -75155,6 +75189,7 @@ wawling
 waws
 wax
 waxable
+waxbill
 waxed
 waxer
 waxers
