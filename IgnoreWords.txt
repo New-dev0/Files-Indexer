@@ -3103,6 +3103,7 @@ appoints
 apportionable
 apposed
 apposes
+appositely
 apposition
 appositions
 appositive
@@ -3703,6 +3704,7 @@ aspiration
 aspirational
 aspirations
 aspired
+aspirers
 aspirins
 aspis
 aspish
@@ -4765,6 +4767,7 @@ bakemeats
 baker
 bakers
 bakeshop
+baklava
 baksheeshes
 bakshish
 bakshishing
@@ -9530,6 +9533,7 @@ cardiologies
 cardiologist
 cardiologists
 cardiomyopathy
+cardiopathies
 cardiopulmonary
 cardiotonic
 cardiotonics
@@ -13659,6 +13663,7 @@ continuations
 continuators
 continue
 continuer
+continuingly
 continuities
 continuo
 continuos
@@ -15607,6 +15612,7 @@ currying
 curse
 cursed
 cursedness
+curser
 cursers
 cursing
 cursive
@@ -17218,6 +17224,7 @@ denominate
 denominates
 denomination
 denominations
+denotations
 denoted
 denotive
 denouement
@@ -19979,6 +19986,7 @@ dressy
 drib
 dribbing
 dribble
+dribbler
 dribbles
 dribblets
 dribbling
@@ -22044,6 +22052,7 @@ ephebos
 ephedra
 ephedras
 ephedrines
+ephedrins
 ephemerae
 ephemeralities
 ephemerally
@@ -26351,6 +26360,7 @@ fruitions
 fruitless
 fruitlessly
 fruitlessnesses
+fruitlet
 fruitwoods
 frumpiest
 frusta
@@ -29294,6 +29304,7 @@ hagbuts
 hagfishes
 haggada
 haggadahs
+haggadas
 haggadic
 haggadistic
 haggardness
@@ -30693,6 +30704,7 @@ hirsuteness
 hirsutenesses
 hirsutisms
 hirudin
+hisn
 hispanidads
 hiss
 hissier
@@ -32770,6 +32782,7 @@ inappetences
 inapplicable
 inappositely
 inapproachable
+inappropriate
 inappropriately
 inaptitude
 inaptness
@@ -32783,6 +32796,7 @@ inarmed
 inarming
 inarms
 inarticulacy
+inarticulate
 inarticulately
 inarticulates
 inartistic
@@ -38323,6 +38337,7 @@ lowered
 lowermost
 lowers
 lowery
+lowes
 lowlanders
 lowlands
 lowlier
@@ -38331,6 +38346,7 @@ lowlights
 lowliheads
 lowlinesses
 lown
+lownesses
 lowrider
 lowriders
 lox
@@ -42371,6 +42387,7 @@ mudras
 mudrocks
 mudroom
 mudrooms
+mudsill
 mudslide
 mudslinger
 mudslingers
@@ -43564,6 +43581,7 @@ niched
 niches
 niching
 nick
+nickelic
 nickeling
 nickelous
 nicker
@@ -44842,6 +44860,7 @@ oblast
 oblasts
 oblate
 oblateness
+oblatory
 obligated
 obligates
 obligation
@@ -46902,6 +46921,7 @@ overlaboring
 overlade
 overladed
 overladen
+overlaid
 overlain
 overlands
 overlap
@@ -48208,6 +48228,7 @@ partons
 partook
 partridge
 partridgeberry
+partridges
 parts
 parturient
 parturitions
@@ -50033,6 +50054,7 @@ pigmented
 pigments
 pigmies
 pignolis
+pignut
 pigouts
 pigpen
 pigpens
@@ -50753,6 +50775,7 @@ plushily
 plushiness
 plussage
 plutocracy
+plutocrat
 plutonic
 plutonium
 plutoniums
@@ -51306,6 +51329,7 @@ portending
 portent
 porterage
 portered
+porteress
 porteresses
 porterhouses
 porthole
@@ -53456,6 +53480,7 @@ puckeriest
 puckish
 puckishness
 pud
+puddle
 puddlers
 puddlier
 puddlings
@@ -55807,6 +55832,7 @@ refillable
 refilled
 refilling
 refilmed
+refiltering
 refinable
 refinanced
 refinancing
@@ -56100,6 +56126,7 @@ rehospitalizing
 rehouse
 rehumanizes
 rehung
+rehydration
 rehypnotized
 rehypnotizes
 rehypnotizing
@@ -57283,6 +57310,7 @@ resultless
 results
 resume
 resumed
+resumer
 resumers
 resuming
 resummon
@@ -65113,6 +65141,7 @@ storeships
 storewide
 storey
 storeys
+stork
 storks
 storksbills
 stormbound
@@ -66642,6 +66671,7 @@ supports
 supposal
 supposals
 supposed
+supposedly
 supposer
 suppositional
 suppositions
@@ -66878,6 +66908,7 @@ swathing
 swatter
 swatting
 swaybacks
+swayed
 swayers
 swear
 swearer
@@ -67115,6 +67146,7 @@ sympodial
 symposiac
 symposiarch
 symposiarchs
+symposiasts
 symposium
 symptom
 symptomatically
@@ -67429,6 +67461,7 @@ tailwinds
 tains
 takable
 takahe
+takahes
 take
 takeoff
 takeoffs
@@ -73851,6 +73884,7 @@ venomed
 venoms
 vent
 ventage
+venter
 ventifact
 ventilated
 ventilating
@@ -76311,6 +76345,7 @@ xanthein
 xantheins
 xanthene
 xanthins
+xanthomas
 xanthomata
 xanthone
 xanthophyll
