@@ -59,6 +59,7 @@ abseils
 absence
 absentee
 absenters
+absenting
 absentminded
 absentmindedly
 absinth
@@ -3986,6 +3987,7 @@ atheromatous
 atheroscleroses
 atherosclerotic
 athetoid
+athletes
 athletically
 athleticism
 athletics
@@ -6101,6 +6103,7 @@ bewails
 beware
 bewared
 bewearying
+beweeping
 beweeps
 bewept
 bewhiskered
@@ -7414,6 +7417,7 @@ booziness
 bop
 bopeep
 bopper
+bopping
 boracic
 boracite
 boracites
@@ -9566,6 +9570,7 @@ carcases
 carcasses
 carcels
 carcinogen
+carcinogenesis
 carcinogenic
 carcinogenicity
 carcinoid
@@ -10162,6 +10167,7 @@ cedula
 cedulas
 cees
 ceibas
+ceiled
 ceiler
 ceilinged
 ceilings
@@ -11329,6 +11335,7 @@ chubascos
 chubbier
 chubbiest
 chubby
+chuckawalla
 chuckies
 chuckle
 chuckleheaded
@@ -13902,6 +13909,7 @@ convincing
 convincingness
 conviviality
 convocation
+convocational
 convoke
 convoker
 convokers
@@ -17698,6 +17706,7 @@ desiring
 desirously
 desirousnesses
 desistance
+desisted
 desk
 deskbound
 deskman
@@ -17930,6 +17939,7 @@ devilwoods
 deviousnesses
 devisable
 devisee
+devisers
 devises
 devising
 devisor
@@ -18167,6 +18177,7 @@ dibromide
 dicamba
 dicast
 dicasts
+dice
 dicentric
 dicers
 dicey
@@ -19150,6 +19161,7 @@ disremembered
 disreputability
 disrepute
 disreputes
+disrespected
 disrespectfully
 disrespecting
 disrobe
@@ -25535,6 +25547,7 @@ fluttering
 fluty
 fluviatile
 fluxes
+fluxion
 fluxional
 fluxions
 fluyts
@@ -26821,6 +26834,7 @@ futtock
 futureless
 futurelessness
 futures
+futurism
 futurisms
 futuristically
 futurities
@@ -27685,6 +27699,7 @@ gibberellins
 gibbering
 gibbeting
 gibbing
+gibbons
 gibbosities
 gibbous
 gibed
@@ -27965,6 +27980,7 @@ gleeks
 gleemen
 gleesome
 gleetiest
+gleeting
 glegnesses
 gleization
 glengarries
@@ -31031,6 +31047,7 @@ hoers
 hoes
 hog
 hogan
+hogans
 hogback
 hogbacks
 hogfish
@@ -33964,6 +33981,7 @@ insculping
 inseams
 insectan
 insectaries
+insecticides
 insectile
 insectivore
 insecure
@@ -36386,6 +36404,7 @@ knawel
 kneader
 kneaders
 kneads
+knee
 kneecap
 kneecappings
 kneeing
@@ -41733,6 +41752,7 @@ misting
 mistitle
 mistletoes
 mistook
+mistouched
 mistouching
 mistrace
 mistraces
@@ -42227,6 +42247,7 @@ montanes
 monteith
 montero
 montes
+month
 monthlong
 months
 monticule
@@ -42256,6 +42277,7 @@ mooleys
 mools
 moonbow
 mooncalf
+moonchild
 mooned
 mooners
 mooneyes
@@ -43535,6 +43557,7 @@ needinesses
 needle
 needlefishes
 needlelike
+needlers
 needles
 needless
 needlessly
@@ -47523,6 +47546,7 @@ overteach
 overteaching
 overthick
 overthin
+overthink
 overthought
 overthrew
 overthrowing
@@ -51747,6 +51771,7 @@ posology
 possessedly
 possessedness
 possessednesses
+possesses
 possessions
 possessive
 possessively
@@ -51820,6 +51845,7 @@ posthaste
 postheat
 postholocaust
 posthospital
+posthumous
 posthumously
 postiche
 posties
@@ -55093,6 +55119,7 @@ rareripes
 rares
 rarify
 rarities
+ras
 rasbora
 rasboras
 rascal
@@ -56735,6 +56762,7 @@ relays
 relearn
 relearned
 releasable
+releasers
 releasing
 relegated
 relegating
@@ -61255,6 +61283,7 @@ serosity
 serotinal
 serotine
 serotinies
+serotypes
 serous
 serovars
 serow
@@ -67148,6 +67177,7 @@ supplest
 suppletions
 suppletory
 suppliantly
+supplications
 supplies
 support
 supportable
@@ -67904,6 +67934,7 @@ tafferels
 taffeta
 taffrails
 tafia
+tagalong
 tagboard
 tagboards
 taggant
@@ -68586,6 +68617,7 @@ temperament
 temperances
 temperas
 temperate
+temperature
 temperer
 temperers
 tempers
@@ -70609,6 +70641,7 @@ trayful
 treacheries
 treacherous
 treachery
+treacle
 treacliest
 treader
 treaders
@@ -75010,6 +75043,7 @@ vizir
 vizirate
 vizirates
 vizor
+vizoring
 vizors
 vocable
 vocabs
@@ -75480,6 +75514,7 @@ warms
 warmth
 warmups
 warn
+warners
 warningly
 warns
 warpath
