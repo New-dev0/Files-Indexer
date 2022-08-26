@@ -3484,6 +3484,7 @@ armourers
 armouries
 armouring
 armours
+armpits
 armrest
 armrests
 armsful
@@ -5914,6 +5915,7 @@ benefiter
 benefits
 benefitted
 benempt
+benes
 benevolentness
 benightedness
 benignancy
@@ -8702,6 +8704,7 @@ busting
 bustle
 bustled
 bustline
+bustling
 busty
 busulfan
 busulfans
@@ -8947,6 +8950,7 @@ cads
 caducean
 caducei
 caeca
+caecilian
 caecilians
 caecum
 caeomas
@@ -11804,6 +11808,7 @@ claught
 claughted
 claughts
 claustra
+claustral
 claustrophobe
 claustrophobias
 claustrum
@@ -11924,6 +11929,7 @@ climax
 climaxes
 climbable
 climbdown
+climber
 climbers
 climbs
 clime
@@ -13368,6 +13374,7 @@ condyloid
 condyloma
 condylomata
 condylomatous
+cone
 coned
 coneflower
 coneflowers
@@ -13922,6 +13929,7 @@ controverts
 contumaciously
 contumacy
 contumelies
+contused
 conundrum
 convalescences
 convalescents
@@ -20027,6 +20035,7 @@ downriver
 downs
 downscale
 downscaled
+downscales
 downscaling
 downshift
 downshifted
@@ -24776,8 +24785,10 @@ fiddlestick
 fideisms
 fideists
 fidelista
+fidelistas
 fidelities
 fidget
+fidgeted
 fidgeter
 fidgeters
 fiducially
@@ -24910,6 +24921,7 @@ finagled
 finagler
 finagles
 finagling
+finales
 finalis
 finalised
 finalism
@@ -27936,6 +27948,7 @@ gingelly
 ginger
 gingerbreads
 gingerbready
+gingerlinesses
 gingerroots
 gingersnap
 gingersnaps
@@ -30166,6 +30179,7 @@ hasty
 hat
 hatable
 hatboxes
+hatch
 hatchabilities
 hatchable
 hatchback
@@ -32775,6 +32789,7 @@ immediately
 immediateness
 immemorial
 immemorially
+immensely
 immensity
 immensurable
 immerge
@@ -34062,6 +34077,7 @@ inlander
 inlanders
 inlayer
 inlayers
+inlet
 inlets
 inletting
 inlier
@@ -34101,6 +34117,7 @@ innovative
 innovatively
 innovativeness
 innovator
+innovatory
 inns
 innuendo
 innuendoed
@@ -40658,6 +40675,7 @@ merriness
 merrinesses
 merry
 merrythought
+mesarch
 mescal
 mesclun
 mesdemoiselles
@@ -42957,6 +42975,7 @@ muggar
 mugged
 muggee
 muggees
+muggers
 muggiest
 mugging
 muggurs
@@ -44055,6 +44074,7 @@ neutralistic
 neutralize
 neutralized
 neutralizer
+neutrals
 neutrino
 neutrinoless
 neutron
@@ -44556,6 +44576,7 @@ noncooperators
 noncore
 noncorroding
 noncounty
+noncoverage
 noncreative
 noncreativity
 noncredit
@@ -45461,6 +45482,7 @@ oblivions
 oblivious
 obliviously
 oblong
+obnoxiousnesses
 obnubilate
 obnubilates
 obnubilating
@@ -46170,6 +46192,7 @@ oral
 oralists
 orality
 orals
+orang
 orangeade
 orangerie
 orangeries
@@ -46314,6 +46337,7 @@ orlon
 orlons
 ormer
 ormolus
+ornament
 ornamental
 ornamentally
 ornamentals
@@ -48911,6 +48935,7 @@ passivations
 passive
 passively
 passivenesses
+passives
 passivity
 passkey
 passkeys
@@ -55904,6 +55929,7 @@ receivers
 receivership
 receiving
 recement
+recencies
 recensions
 recentrifuged
 recept
@@ -58828,6 +58854,7 @@ ripraps
 rips
 ripsawed
 ripsnorter
+ripsnorters
 ripsnorting
 riptide
 riser
@@ -61146,6 +61173,7 @@ segmentation
 segmenting
 segos
 segregant
+segregate
 segregation
 segregationists
 segs
@@ -61182,6 +61210,7 @@ seismographs
 seismological
 seismologist
 seismologists
+seismology
 seismometers
 seismometries
 seismometry
@@ -62420,6 +62449,7 @@ shuck
 shucker
 shuddering
 shuffle
+shuffleboard
 shunnable
 shunned
 shunners
@@ -62498,6 +62528,7 @@ sicklemic
 sicklier
 sickliest
 sickliness
+sickling
 sickly
 sickness
 sicknesses
@@ -64380,6 +64411,7 @@ sozins
 space
 spaceband
 spaced
+spaceflights
 spaceless
 spaceman
 spacer
@@ -71291,6 +71323,7 @@ triliteralism
 trilithon
 trilithons
 triliths
+trill
 triller
 trillers
 trilling
@@ -75205,6 +75238,7 @@ vimen
 vimineous
 vina
 vinaceous
+vinaigrette
 vinaigrettes
 vinal
 vinals
@@ -75408,6 +75442,7 @@ vittles
 vituline
 vituperate
 vituperated
+vituperating
 vituperation
 vituperations
 vivace
