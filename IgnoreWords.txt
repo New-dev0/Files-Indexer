@@ -612,6 +612,7 @@ adhesively
 adhesiveness
 adhesivenesses
 adhibit
+adiabatically
 adieu
 adieux
 adipose
@@ -2058,6 +2059,7 @@ anachronic
 anachronism
 anachronistic
 anaclises
+anaclisis
 anacoluthic
 anacoluthons
 anaconda
@@ -2094,6 +2096,7 @@ analgesias
 analgesic
 analgesics
 analgetics
+analities
 anality
 analogic
 analogical
@@ -3551,6 +3554,7 @@ arrowhead
 arrowlike
 arrowwoods
 arrowworm
+arrowworms
 ars
 arsenates
 arsenide
@@ -3936,6 +3940,7 @@ astrocytoma
 astrodomes
 astrolabe
 astrologer
+astrologers
 astrological
 astrologies
 astrology
@@ -7075,6 +7080,7 @@ blurbist
 blurredly
 blurrily
 blurring
+blurry
 blurt
 blurter
 blurting
@@ -7735,6 +7741,7 @@ brad
 bradawl
 bradoon
 bradycardia
+braggadocio
 braggart
 braggers
 braggier
@@ -7929,6 +7936,7 @@ brechan
 brechans
 brede
 bredes
+bree
 breechblocks
 breechclouts
 breeches
@@ -10450,6 +10458,7 @@ cessing
 cesspit
 cesspool
 cestas
+cesti
 cestodes
 cestos
 cestus
@@ -12561,6 +12570,7 @@ coins
 coinsurances
 coinsured
 coinsurer
+coinsurers
 cointerring
 cointreau
 cointreaus
@@ -12765,6 +12775,7 @@ colorbred
 colorbreeding
 colorcast
 colorcasted
+colorcasts
 colored
 colorer
 colorers
@@ -19649,6 +19660,7 @@ doglegs
 doglike
 dogmas
 dogmata
+dogmaticalness
 dogmatics
 dogmatism
 dogmatist
@@ -21694,6 +21706,7 @@ encipherer
 enciphering
 encipherments
 enciphers
+encircles
 enclasped
 enclasping
 enclave
@@ -23650,6 +23663,7 @@ expressivity
 expressly
 expressos
 expropriate
+expropriated
 expropriates
 expropriation
 expropriator
@@ -28942,6 +28956,7 @@ greenies
 greenishness
 greenishnesses
 greenkeeper
+greenlets
 greenlit
 greenmailer
 greenmails
@@ -28985,6 +29000,7 @@ grenadiers
 grew
 grewsome
 greyhound
+greyhounds
 greying
 greylag
 greyness
@@ -30910,6 +30926,7 @@ hexers
 hexobarbitals
 hexokinase
 hexones
+hexosaminidase
 hexosan
 hexose
 hexoses
@@ -34404,6 +34421,7 @@ intercity
 interclub
 intercoastal
 intercollegiate
+intercolonial
 intercompany
 intercompared
 intercomparing
@@ -38769,6 +38787,7 @@ lovablenesses
 lovably
 lovage
 lovages
+lovastatins
 lovats
 love
 loveably
@@ -47332,6 +47351,7 @@ overdubbing
 overdyed
 overdyeing
 overdyer
+overdyers
 overeager
 overeater
 overedit
@@ -47744,6 +47764,7 @@ overstride
 overstrung
 overstudies
 overstuff
+overstuffed
 oversubtle
 oversuds
 oversupped
@@ -51257,6 +51278,7 @@ pleiotropies
 plena
 plenaries
 plenarily
+plenches
 plenishes
 plenists
 plenteous
@@ -52860,6 +52882,7 @@ prepositional
 prepositions
 prepositive
 prepossessed
+prepossession
 prepossessions
 preposterously
 prepotency
@@ -52934,6 +52957,7 @@ prescribe
 prescribes
 prescribing
 prescripts
+prese
 preseasons
 preselecting
 preselection
@@ -56076,6 +56100,7 @@ recook
 recooked
 recopy
 recopying
+recordation
 recordations
 recordist
 recordists
@@ -56649,6 +56674,7 @@ refurnishing
 refusable
 refuse
 refusenik
+refuseniks
 refuser
 refuses
 refusing
@@ -58476,6 +58502,7 @@ rheology
 rheometer
 rheophil
 rheophiles
+rheotaxis
 rhesus
 rhesuses
 rhetoric
@@ -58831,6 +58858,7 @@ rivet
 riveted
 riveter
 riveting
+rivetingly
 rivetted
 rivieras
 riviere
@@ -62181,6 +62209,7 @@ shockers
 shocking
 shockingly
 shockproof
+shocks
 shod
 shoddier
 shoddies
@@ -66030,6 +66059,7 @@ strangled
 strangleholds
 strangler
 strangles
+strangulation
 straphanged
 straphangers
 straphanging
@@ -68127,6 +68157,7 @@ syrphids
 syruped
 syrupiest
 sysadmin
+sysadmins
 sysop
 system
 systematics
@@ -68499,6 +68530,7 @@ tapiocas
 tapir
 tapirs
 tapper
+tapping
 taprooms
 taqueria
 taquerias
@@ -71295,6 +71327,7 @@ triplications
 triplicities
 triplicity
 triplite
+triploid
 triploidies
 triploidy
 tripodic
@@ -73970,6 +74003,7 @@ unwiser
 unwished
 unwishing
 unwitted
+unwitting
 unwooed
 unworkability
 unworldlier
@@ -77607,6 +77641,7 @@ yukky
 yuks
 yules
 yuletide
+yuletides
 yum
 yummies
 yummiest
