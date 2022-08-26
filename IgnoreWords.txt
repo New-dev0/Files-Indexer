@@ -2064,6 +2064,7 @@ anadiplosis
 anadromous
 anaemic
 anaerobia
+anaerobic
 anaerobioses
 anaerobiosis
 anaesthesias
@@ -2480,6 +2481,7 @@ antecedents
 anteceding
 antecessor
 antecessors
+antechoirs
 anted
 antedate
 antedating
@@ -7120,6 +7122,7 @@ bobsleighs
 bobstays
 bobtail
 bobtailing
+bobtails
 bobwhite
 bobwhites
 bocces
@@ -11638,6 +11641,7 @@ cladistic
 cladistically
 cladistics
 cladoceran
+cladocerans
 cladode
 cladodes
 cladodial
@@ -13983,6 +13987,7 @@ coonhounds
 cooperages
 cooperated
 cooperates
+cooperating
 cooperation
 cooperations
 cooperatively
@@ -14410,6 +14415,7 @@ cosmopolitisms
 cosmos
 cosponsored
 cosponsors
+coss
 cossack
 cosseted
 costal
@@ -14720,6 +14726,7 @@ covetable
 coveter
 covetingly
 covetousnesses
+covets
 coveys
 covins
 cow
@@ -16394,6 +16401,7 @@ daylit
 daymare
 daymares
 dayroom
+dayrooms
 days
 dayside
 daysides
@@ -20216,6 +20224,7 @@ drizzlier
 drizzliest
 droid
 droids
+drolled
 droller
 drollery
 drolling
@@ -29650,6 +29659,7 @@ halfhearted
 halflives
 halfpence
 halfpennies
+halfpipes
 halftone
 halftrack
 halid
@@ -31503,6 +31513,7 @@ horological
 horologists
 horology
 horoscopy
+horrent
 horrible
 horriblenesses
 horribly
@@ -31901,6 +31912,7 @@ hussar
 hustle
 huswifes
 hutch
+hutched
 hutching
 hutlike
 huts
@@ -32290,6 +32302,7 @@ hyraces
 hyracoids
 hysons
 hyssop
+hysterectomies
 hysteresis
 hysterias
 iamb
@@ -34656,6 +34669,7 @@ intradermally
 intradoses
 intranets
 intransigeantly
+intransigeants
 intransigent
 intransigently
 intransigents
@@ -35095,6 +35109,7 @@ isodose
 isoelectric
 isoenzyme
 isoenzymes
+isoenzymic
 isoform
 isoforms
 isogamete
@@ -36232,6 +36247,7 @@ kickstarted
 kickstarting
 kickstarts
 kicky
+kidder
 kidders
 kiddie
 kidding
@@ -36583,6 +36599,7 @@ koussos
 kowtower
 kowtows
 kraken
+krauts
 kreeps
 kremlin
 kremlinologies
@@ -39523,6 +39540,7 @@ mansard
 mansards
 manse
 manses
+mansion
 manslaughter
 manslaughters
 mansuetude
@@ -39821,6 +39839,7 @@ masterminds
 masterpiece
 masterpieces
 masters
+mastersinger
 masthead
 mastheaded
 mastheads
@@ -42831,6 +42850,7 @@ multicounty
 multicourse
 multicurie
 multicurrencies
+multicurrency
 multiday
 multidialectal
 multidisc
@@ -43337,6 +43357,7 @@ nakedness
 nala
 nalas
 nalorphine
+nalorphines
 naloxone
 naloxones
 naltrexones
@@ -44328,6 +44349,7 @@ noncommittally
 noncommunity
 noncomparable
 noncompatible
+noncompetition
 noncompliance
 noncomplicated
 noncomplying
@@ -45433,6 +45455,7 @@ ochered
 ochering
 ochers
 ochlocracies
+ochlocracy
 ochre
 ochreae
 ochrous
@@ -49240,6 +49263,7 @@ penetrates
 penetrating
 penetrations
 penetrative
+penetrometer
 penetrometers
 pengo
 penguin
@@ -52312,6 +52336,7 @@ precipitated
 precipitately
 precipitateness
 precipitation
+precipitative
 precipitins
 precipitous
 precipitously
@@ -53995,6 +54020,7 @@ puffer
 puffiest
 puffily
 puffin
+puffins
 pug
 pugaree
 puggarees
@@ -55887,6 +55913,7 @@ recontouring
 reconvenes
 reconvening
 reconversion
+reconvert
 reconverts
 reconveys
 reconvicted
@@ -57203,6 +57230,7 @@ repellants
 repelled
 repellencies
 repellency
+repellents
 repeller
 repentances
 repentant
@@ -59036,6 +59064,7 @@ routinized
 routinizes
 routinizing
 roven
+rovers
 roving
 row
 rowable
@@ -59631,6 +59660,7 @@ samarskites
 samba
 sambaing
 sambal
+sambhur
 sambhurs
 sambo
 sambuca
@@ -62200,6 +62230,7 @@ shuttlecocked
 shuttlecocking
 shuttled
 shuttleless
+shuttles
 shvartze
 shvartzes
 shwanpans
@@ -64170,6 +64201,7 @@ spandex
 spandrels
 spang
 spangle
+spangled
 spangles
 spaniel
 spanked
@@ -64570,6 +64602,7 @@ spittles
 spittoon
 spiv
 spivs
+splake
 splash
 splashboards
 splasher
@@ -65903,6 +65936,7 @@ streptolysin
 streptolysins
 streptomycins
 streptothricin
+streptothricins
 stressed
 stressful
 stressfully
@@ -76702,6 +76736,7 @@ womanhoods
 womanise
 womanises
 womanish
+womanishly
 womanishness
 womanising
 womanize
