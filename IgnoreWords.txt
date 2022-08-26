@@ -2792,6 +2792,7 @@ antis
 antisag
 antiscorbutic
 antisecrecy
+antisense
 antisentimental
 antiseparatist
 antisepsis
@@ -6595,6 +6596,7 @@ biteable
 biter
 biters
 bites
+bitewings
 bitmap
 bitmapped
 bitstream
@@ -6951,6 +6953,7 @@ blowsily
 blowsy
 blowtorch
 blowtorches
+blowtorching
 blubbed
 blubber
 blubberer
@@ -10656,6 +10659,7 @@ chassepots
 chassis
 chastely
 chastener
+chasteners
 chastens
 chaster
 chastest
@@ -14991,6 +14995,7 @@ crenels
 crenshaw
 crenulated
 creodont
+creodonts
 creole
 creolise
 creolised
@@ -16505,6 +16510,7 @@ decameter
 decameters
 decamethonium
 decametric
+decamped
 decampments
 decamps
 decane
@@ -20638,6 +20644,7 @@ earth
 earthborn
 earthbound
 earthiest
+earthiness
 earthing
 earthlier
 earthlight
@@ -22999,6 +23006,7 @@ evictor
 evicts
 evidence
 evidenced
+evidencing
 evident
 evildoer
 evildoers
@@ -24775,6 +24783,7 @@ fingerposts
 fingerprinted
 fingerprintings
 fingers
+fingertip
 fingertips
 finial
 finialed
@@ -26059,6 +26068,7 @@ fossilizations
 fossilized
 fossils
 foster
+fosterage
 fosterages
 fosterers
 fosters
@@ -26352,6 +26362,7 @@ fricative
 frictionally
 frictionless
 frictionlessly
+fridge
 friedcake
 friedcakes
 friend
@@ -29342,6 +29353,7 @@ gynandromorphic
 gynandromorphy
 gynarchies
 gynecia
+gynecic
 gynecocracy
 gynecocratic
 gynecoid
@@ -29938,6 +29950,7 @@ hassled
 hassling
 hast
 hastately
+haste
 hasteful
 hasten
 hasteners
@@ -30029,6 +30042,7 @@ hawkmoth
 hawkmoths
 hawknose
 hawks
+hawkshaw
 hawkweed
 hawseholes
 hawsepipes
@@ -36425,6 +36439,7 @@ kola
 kolbasi
 kolbasis
 kolhozy
+kolinski
 kolkhos
 kolkhosy
 kolkhoznik
@@ -39730,6 +39745,7 @@ masturbations
 masturbator
 match
 matchboard
+matchbook
 matchboxes
 matching
 matchless
@@ -41593,6 +41609,7 @@ misreckoned
 misreckons
 misrecord
 misrecorded
+misrecording
 misrecords
 misrefer
 misreferences
@@ -43727,6 +43744,7 @@ neurosecretions
 neurosecretory
 neurosis
 neurosporas
+neurosurgeons
 neurosurgery
 neurotic
 neurotically
@@ -44661,6 +44679,7 @@ nontotalitarian
 nontraditional
 nontransferable
 nontreatments
+nontribal
 nontruths
 nonuniform
 nonunique
@@ -45617,6 +45636,7 @@ oncological
 oncologies
 oncomings
 ondograms
+oneiric
 oneirically
 oneiromancy
 onenesses
@@ -47226,6 +47246,7 @@ overloads
 overlooking
 overlorded
 overlords
+overlordship
 overloved
 overloving
 overly
@@ -53026,6 +53047,7 @@ proclaimer
 proclaimers
 proclamation
 proconsul
+proconsular
 proconsulates
 proconsulship
 procrastinate
@@ -53272,6 +53294,7 @@ pronuclear
 pronuclei
 pronunciation
 proof
+proofreader
 proofreaders
 proofreading
 proofreads
@@ -53607,6 +53630,7 @@ prude
 pruderies
 prudes
 prudishly
+pruinose
 prune
 prunella
 prunellos
@@ -54463,6 +54487,7 @@ quenching
 quenchless
 quenelle
 quercetin
+quercitrons
 querida
 queried
 querier
@@ -56461,6 +56486,7 @@ rehypnotizes
 rehypnotizing
 reichsmark
 reichsmarks
+reidentified
 reidentifies
 reif
 reifications
@@ -59849,6 +59875,7 @@ sayest
 sayings
 sayonaras
 says
+sayst
 sayyids
 scabbier
 scabbily
@@ -62414,6 +62441,7 @@ siskin
 siskins
 sissiest
 sissyish
+sister
 sistered
 sisterhoods
 sisters
@@ -63539,6 +63567,7 @@ solano
 solanum
 solanums
 solarises
+solarism
 solarium
 solarizations
 solarizing
@@ -65996,6 +66025,7 @@ subbases
 subbasin
 subbass
 subbasses
+subbing
 subblocks
 subbranch
 subbureau
@@ -68849,6 +68879,7 @@ tevatrons
 tewed
 textbooks
 textile
+textiles
 textless
 texts
 textuaries
@@ -71654,6 +71685,7 @@ uglification
 uglifier
 uglifiers
 uglify
+uglifying
 ugsome
 uhlans
 uintaite
@@ -73093,6 +73125,7 @@ unreally
 unreason
 unreasonably
 unreasoningly
+unreasons
 unrebuked
 unreconcilable
 unreconciled
@@ -75803,6 +75836,7 @@ wetness
 wetnesses
 wets
 wettabilities
+wetter
 wetting
 wettish
 wha
@@ -76642,6 +76676,7 @@ wormers
 wormgear
 wormgears
 wormhole
+wormiest
 wormil
 worminesses
 wormish
