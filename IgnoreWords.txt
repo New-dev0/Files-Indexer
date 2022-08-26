@@ -922,6 +922,7 @@ affinely
 affinity
 affirm
 affirmable
+affirmances
 affirmants
 affirmative
 affirmatively
@@ -2229,6 +2230,7 @@ anemophilous
 anencephalies
 anenst
 anergias
+aneroids
 anesthesia
 anesthetically
 anesthetics
@@ -3713,6 +3715,7 @@ asperses
 aspersive
 aspersors
 asphalt
+asphalts
 aspherical
 asphodels
 asphyxias
@@ -8096,6 +8099,7 @@ brominations
 bromine
 brominisms
 bromizes
+bromocriptines
 bromouracil
 bronchi
 bronchia
@@ -8245,6 +8249,7 @@ bubbled
 bubbleheaded
 bubbler
 bubblers
+bubby
 bubinga
 bubkes
 bubo
@@ -12736,6 +12741,7 @@ colporteur
 colporteurs
 cols
 coltish
+coltishly
 colts
 coltsfoot
 colubrids
@@ -12813,6 +12819,7 @@ comical
 comicality
 coming
 comingle
+comingles
 comitia
 comitial
 comities
@@ -16055,6 +16062,7 @@ dachshund
 dacites
 dacker
 dackered
+dackering
 dacoit
 dacoits
 dacquoises
@@ -16382,6 +16390,7 @@ deaconing
 deacons
 deactivate
 deactivated
+deactivation
 deactivations
 deactivator
 deadbolts
@@ -22207,6 +22216,7 @@ ephedrins
 ephemerae
 ephemeralities
 ephemerally
+ephemerals
 ephemeras
 ephemeris
 ephorates
@@ -23117,6 +23127,7 @@ excellently
 excelsior
 excelsiors
 except
+exceptional
 exceptionalisms
 exceptionality
 excerpt
@@ -26821,6 +26832,7 @@ fuzed
 fuzee
 fuzees
 fuzes
+fuzil
 fuzz
 fuzzes
 fuzziness
@@ -32014,6 +32026,7 @@ hyperacidities
 hyperacidity
 hyperactivities
 hyperarid
+hyperarousal
 hyperaware
 hyperawareness
 hyperbola
@@ -33641,6 +33654,7 @@ inflammatory
 inflate
 inflating
 inflationary
+inflationisms
 inflations
 inflected
 inflecting
@@ -33779,6 +33793,7 @@ inhibition
 inholder
 inhomogeneity
 inhomogeneous
+inhospitality
 inhuman
 inhumane
 inhumanities
@@ -37036,6 +37051,7 @@ lat
 latakias
 latches
 latching
+latecomer
 lated
 lateener
 lateens
@@ -39194,6 +39210,7 @@ maleficences
 malemiut
 malemute
 malenesses
+malevolences
 malfeasance
 malfeasances
 malfed
@@ -46004,6 +46021,7 @@ orienting
 orients
 orificial
 oriflammes
+origami
 origamis
 origanum
 origin
@@ -46188,6 +46206,7 @@ ostinati
 ostlers
 ostomate
 ostomates
+ostosis
 ostosises
 ostraca
 ostracism
@@ -47683,6 +47702,7 @@ oysters
 ozalid
 ozocerite
 ozokerite
+ozonated
 ozonation
 ozonations
 ozones
@@ -48259,6 +48279,7 @@ paralleling
 parallelism
 parallelisms
 parallelling
+parallelograms
 parallels
 paralysed
 paralysing
@@ -48611,6 +48632,7 @@ passless
 passover
 passport
 passuses
+password
 passwords
 pastalike
 pastas
@@ -49452,6 +49474,7 @@ perishes
 perishing
 perissodactyl
 peristaltic
+peristomial
 peristyle
 perithecia
 perithecial
@@ -50511,6 +50534,7 @@ pinks
 pinna
 pinnace
 pinnacle
+pinnacling
 pinnae
 pinnated
 pinnately
@@ -50983,6 +51007,7 @@ plenteous
 plenteousness
 plentifulness
 plentitude
+plenty
 plenum
 pleochroisms
 pleomorphic
@@ -58811,6 +58836,7 @@ rotgut
 roti
 rotiferan
 rotifers
+rotiform
 rotis
 rotisseries
 rotls
@@ -60257,6 +60283,7 @@ scollops
 scolopendras
 scombrids
 sconcheons
+sconcing
 scone
 scooch
 scoopers
@@ -61647,6 +61674,7 @@ shelterless
 shelty
 shelve
 shelved
+shelver
 shelvers
 shelves
 shelvier
@@ -61811,6 +61839,7 @@ shivers
 shives
 shivitis
 shlemiels
+shlep
 shlepp
 shlepping
 shlimazels
@@ -62085,6 +62114,7 @@ siccative
 siccatives
 sicced
 siccing
+sice
 sices
 sickbed
 sicked
@@ -63888,6 +63918,7 @@ sottishness
 sou
 souari
 souaris
+soubise
 soubrette
 soubrettes
 soucars
@@ -66459,6 +66490,7 @@ subterranean
 subtest
 subtests
 subtext
+subtexts
 subtextual
 subthreshold
 subtilenesses
@@ -71043,6 +71075,7 @@ trones
 troop
 troostite
 tropaeolums
+trope
 tropeolins
 trophallaxis
 trophic
@@ -71480,6 +71513,7 @@ tussuck
 tussucks
 tussur
 tutelages
+tutelaries
 tutelars
 tutor
 tutorage
@@ -73404,6 +73438,7 @@ unstrung
 unstudied
 unsubdued
 unsubsidized
+unsubtle
 unsuccess
 unsuitabilities
 unsuitability
