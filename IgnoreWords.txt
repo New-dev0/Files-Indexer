@@ -43,6 +43,7 @@ abrogable
 abrogate
 abrogated
 abrogations
+abrosia
 abruptions
 abruptness
 abruptnesses
@@ -309,6 +310,7 @@ acerbity
 acerola
 acerose
 acervuli
+aces
 acescent
 acetabulum
 acetamide
@@ -3386,6 +3388,7 @@ arenaceous
 arene
 arenes
 arenites
+areolate
 areolated
 areole
 areologies
@@ -4909,6 +4912,7 @@ bamboozle
 bamboozlements
 bamboozling
 bams
+ban
 banality
 banalize
 banalized
@@ -5013,6 +5017,7 @@ baptismal
 baptismally
 baptisms
 baptist
+baptisteries
 baptistery
 baptists
 baptizers
@@ -7433,6 +7438,7 @@ booty
 booze
 boozed
 boozers
+boozes
 boozily
 booziness
 bop
@@ -11453,6 +11459,7 @@ cider
 cigar
 cigaret
 cigarettes
+cigarillo
 cigarillos
 cigars
 cigs
@@ -12623,6 +12630,7 @@ collaret
 collarless
 collars
 collated
+collateralize
 collateralized
 collateralizes
 collateralizing
@@ -16376,6 +16384,7 @@ dataries
 datedly
 datedness
 datelines
+dater
 dates
 dating
 dato
@@ -16501,6 +16510,7 @@ dealt
 deaminases
 deaminated
 deamination
+deaminize
 deaminized
 deaminizes
 deaned
@@ -21462,6 +21472,7 @@ embroiler
 embroiling
 embroilment
 embrown
+embrowned
 embrowns
 embrued
 embrues
@@ -22423,6 +22434,7 @@ episcopate
 episcopates
 episiotomies
 episiotomy
+episode
 episodes
 episomal
 epistemically
@@ -26035,6 +26047,7 @@ foretold
 foretooth
 foretops
 forever
+forevernesses
 forewarns
 forewing
 forewings
@@ -26750,6 +26763,7 @@ fulsomenesses
 fulvous
 fumarase
 fumarate
+fumaric
 fumaroles
 fumeless
 fumer
@@ -27448,6 +27462,7 @@ gearheads
 gearless
 gears
 gearshifts
+gearwheels
 gecko
 geckos
 geds
@@ -28944,6 +28959,7 @@ gregarines
 gregariously
 gregariousness
 greiges
+greisen
 greisens
 gremials
 gremlin
@@ -34161,6 +34177,7 @@ insnares
 insnaring
 insobrieties
 insociabilities
+insociability
 insociably
 insolates
 insolating
@@ -34267,6 +34284,7 @@ insupportable
 insurabilities
 insurability
 insurances
+insurant
 insurer
 insurgencies
 insurgency
@@ -34876,6 +34894,7 @@ inverting
 invertor
 inverts
 invest
+investigational
 investigations
 investigative
 investigatory
@@ -35908,6 +35927,7 @@ junkyards
 junto
 juntos
 jupes
+jupon
 jupons
 jura
 jurels
@@ -36094,6 +36114,7 @@ kayaker
 kayaking
 kayaks
 kayles
+kayoing
 kazatski
 kazillions
 kazoo
@@ -43374,6 +43395,7 @@ mythopoetical
 mythos
 myxedematous
 myxedemic
+myxocyte
 myxoedema
 myxoma
 myxomas
@@ -45487,6 +45509,7 @@ obviator
 obviators
 obviousnesses
 obvolute
+oca
 ocarina
 occasional
 occasioned
@@ -50349,6 +50372,7 @@ phrasemakers
 phrasemakings
 phrasemonger
 phrasemongering
+phrasing
 phreaker
 phreakers
 phreakings
@@ -51141,6 +51165,7 @@ playas
 playbill
 playbills
 playbook
+playday
 playdown
 players
 playfield
@@ -57365,6 +57390,7 @@ replace
 replaceable
 replacing
 replanned
+replantations
 replanted
 replants
 replasters
@@ -58726,6 +58752,7 @@ rips
 ripsawed
 ripsnorter
 ripsnorting
+riptide
 riser
 risers
 risibilities
@@ -58912,6 +58939,7 @@ rolfs
 rollaway
 rolled
 roller
+rollers
 rollicked
 rollicking
 rolling
@@ -60579,6 +60607,7 @@ scoutcraft
 scouter
 scouther
 scouthering
+scouthers
 scouths
 scoutings
 scoutmaster
@@ -63850,6 +63879,7 @@ softener
 softens
 softest
 softheaded
+softheadedness
 softheads
 softies
 softish
@@ -65079,6 +65109,7 @@ squelchiest
 squelchy
 squidded
 squidding
+squiffiest
 squiggles
 squiggling
 squilgeeing
@@ -67029,6 +67060,7 @@ summability
 summae
 summand
 summands
+summaries
 summarise
 summarises
 summarising
@@ -71286,6 +71318,7 @@ tritheistical
 tritheists
 trithings
 tritium
+tritomas
 triton
 tritone
 triturable
@@ -71772,6 +71805,7 @@ turpentined
 turpentining
 turpeth
 turpitudes
+turquois
 turquoises
 turret
 turreted
@@ -76998,6 +77032,7 @@ wops
 wordage
 wordbook
 wordless
+wordlessness
 wordmonger
 wordplays
 words
