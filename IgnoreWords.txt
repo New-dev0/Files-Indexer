@@ -4311,6 +4311,7 @@ autolysates
 autolysed
 autolysins
 autolyzate
+autolyzed
 autolyzes
 autolyzing
 automaker
@@ -4695,6 +4696,7 @@ backspace
 backspaced
 backspacing
 backstabbings
+backstabs
 backstage
 backstamped
 backstamps
@@ -5165,6 +5167,7 @@ bartending
 bartends
 barterer
 bartisan
+bartizans
 baryes
 barytes
 barytons
@@ -5205,6 +5208,7 @@ basilect
 basilicae
 basilical
 basilisks
+basined
 basinet
 basinfuls
 basing
@@ -6804,6 +6808,7 @@ blazes
 blazon
 blazoned
 blazoners
+blazonries
 blazons
 bleacher
 bleacherites
@@ -7593,6 +7598,7 @@ bourguignon
 bourree
 bourrees
 bourrides
+bourtree
 bouses
 bousing
 bousouki
@@ -7853,6 +7859,7 @@ breaching
 breadbaskets
 breadboard
 breadboarded
+breadboards
 breadbox
 breadfruit
 breadfruits
@@ -7879,6 +7886,7 @@ breakthrough
 breakup
 breakwall
 breakwater
+bream
 breastbones
 breastfeed
 breastpin
@@ -8510,6 +8518,7 @@ bunters
 buntings
 buntline
 buntlines
+bunts
 bunyas
 buoyance
 buoyances
@@ -13093,6 +13102,7 @@ comprehended
 comprehending
 comprehension
 compressed
+compressedly
 compresses
 compressible
 compressional
@@ -13149,6 +13159,7 @@ comradery
 comradeships
 comsymp
 comsymps
+conation
 conations
 conative
 conatus
@@ -13492,6 +13503,7 @@ conjugationally
 conjunction
 conjunctional
 conjunctiva
+conjunctivae
 conjunctive
 conjuncture
 conjurer
@@ -17592,6 +17604,7 @@ deraigned
 deraigning
 derailleurs
 deranging
+derat
 derate
 derates
 derating
@@ -22211,6 +22224,7 @@ environments
 enviros
 envisages
 envois
+envoy
 envy
 envying
 envyingly
@@ -23899,6 +23913,7 @@ fading
 fadlike
 fados
 faecal
+faerie
 faeries
 faery
 fagged
@@ -26782,6 +26797,7 @@ furbearers
 furbelowed
 furbisher
 furbishers
+furbishes
 furbishing
 furcate
 furcately
@@ -28089,6 +28105,7 @@ globalist
 globalize
 globalizes
 globated
+globbier
 globbiest
 globefish
 globefishes
@@ -30132,6 +30149,7 @@ hawknose
 hawks
 hawkshaw
 hawkweed
+hawsehole
 hawseholes
 hawsepipes
 hawser
@@ -34479,6 +34497,7 @@ interning
 internist
 internments
 interns
+internship
 internships
 internucleon
 internucleonic
@@ -38454,6 +38473,7 @@ logotypes
 logotypies
 logotypy
 logrolled
+logrollers
 logrolls
 logs
 logways
@@ -39544,6 +39564,7 @@ mansion
 manslaughter
 manslaughters
 mansuetude
+manteau
 manteaus
 manteaux
 mantel
@@ -44225,6 +44246,7 @@ nominals
 nominating
 nomination
 nominations
+nominators
 nominee
 nominees
 nomism
@@ -45205,6 +45227,7 @@ nystagmic
 nystagmus
 nystagmuses
 oafish
+oafs
 oak
 oaken
 oakiest
@@ -45534,6 +45557,7 @@ odontoid
 odorant
 odorants
 odorful
+odoriferousness
 odorizing
 odorless
 odorously
@@ -48188,6 +48212,7 @@ pandore
 pandours
 pandowdies
 pandying
+pane
 panegyric
 panegyrically
 panegyrist
@@ -51431,6 +51456,7 @@ policy
 policyholders
 polies
 poling
+poliomyelitides
 poliomyelitis
 polios
 polisher
@@ -51439,6 +51465,7 @@ politburo
 politburos
 polite
 politenesses
+politer
 politesse
 politicalize
 politicalized
@@ -51519,6 +51546,7 @@ polychromy
 polyclonal
 polycrystal
 polycrystals
+polycystic
 polycythemia
 polycythemias
 polydactyl
@@ -53283,6 +53311,7 @@ professes
 professing
 professional
 professionalize
+professionals
 professor
 professorate
 professorates
@@ -53292,6 +53321,7 @@ professoriats
 proffered
 profferers
 proficiencies
+proficiently
 proficients
 profiled
 profiler
@@ -61467,7 +61497,9 @@ settling
 settlings
 settlors
 setts
+seven
 sevens
+seventeens
 seventh
 seventhly
 sevenths
@@ -68570,6 +68602,7 @@ technologized
 technology
 technophiles
 technophobes
+technophobia
 technopop
 technopops
 tectal
@@ -76510,6 +76543,7 @@ windowsill
 windpipe
 windpipes
 windproof
+windrow
 windrowed
 windrower
 windrowers
@@ -77639,6 +77673,7 @@ zygosities
 zygospores
 zygote
 zygotene
+zygotenes
 zygotic
 zymases
 zyme
