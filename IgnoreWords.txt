@@ -301,6 +301,7 @@ aceldama
 acentric
 acephalous
 acerate
+acerated
 acerbated
 acerbating
 acerber
@@ -1408,6 +1409,7 @@ alibies
 alibiing
 alicyclic
 alien
+alienability
 alienable
 alienage
 alienate
@@ -7974,6 +7976,7 @@ brigade
 brigaded
 brigades
 brigadier
+brigadiers
 brigading
 brigandage
 brigandines
@@ -8253,6 +8256,7 @@ bryozoans
 bubal
 bubaline
 bubals
+bubbies
 bubbled
 bubbleheaded
 bubbler
@@ -13688,6 +13692,7 @@ consumer
 consumerist
 consumerists
 consumes
+consummated
 consummative
 consummator
 consummators
@@ -14741,6 +14746,7 @@ cowpat
 cowpats
 cowpeas
 cowpie
+cowpoxes
 cowpunchers
 cowrie
 cowries
@@ -15492,6 +15498,7 @@ cud
 cudbears
 cuddies
 cuddle
+cuddled
 cuddler
 cuddles
 cuddlesome
@@ -19284,6 +19291,7 @@ distant
 distantness
 distaste
 distasted
+distastefulness
 distaves
 distelfink
 distelfinks
@@ -23724,6 +23732,7 @@ exudations
 exudative
 exude
 exuded
+exuding
 exultances
 exultancy
 exultant
@@ -25081,6 +25090,7 @@ flagstaffs
 flagstaves
 flagstick
 flail
+flairs
 flake
 flaker
 flakes
@@ -27361,6 +27371,7 @@ gearboxes
 gearcase
 gearcases
 gearchange
+gearchanges
 geared
 gearheads
 gearless
@@ -28297,6 +28308,7 @@ godlily
 godly
 godmother
 godmothering
+godown
 godroon
 gods
 godships
@@ -35852,6 +35864,7 @@ kabbalisms
 kabbalist
 kabeljou
 kabeljous
+kabiki
 kabikis
 kabobs
 kabukis
@@ -36431,6 +36444,7 @@ kneeling
 kneels
 kneepan
 knees
+kneesies
 knelling
 knells
 knelt
@@ -36916,6 +36930,7 @@ landings
 landladies
 landlady
 landlers
+landlessness
 landlessnesses
 landlocked
 landloper
@@ -41106,6 +41121,7 @@ millpond
 millrace
 millruns
 mills
+millwork
 millworks
 millwright
 milo
@@ -43201,6 +43217,7 @@ myriad
 myriapod
 myriopods
 myrmecological
+myrmecologies
 myrmecologist
 myrmecologists
 myrmecophile
@@ -43363,6 +43380,7 @@ naps
 narceine
 narcism
 narcissisms
+narcissist
 narcissists
 narcistic
 narcists
@@ -44392,6 +44410,7 @@ noneducation
 noneducational
 noneffective
 nonego
+nonelected
 nonelection
 nonelections
 nonelectronic
@@ -44436,6 +44455,7 @@ nonfarmer
 nonfattening
 nonfatty
 nonfeasance
+nonfederal
 nonfeminists
 nonfeudal
 nonfictions
@@ -47487,6 +47507,7 @@ overservice
 oversets
 oversetting
 oversewing
+oversewn
 overshaded
 oversharp
 overshirt
@@ -50622,6 +50643,7 @@ pintoes
 pintos
 pintsized
 pinwales
+pinweeds
 pinwheel
 pinwork
 pinworm
@@ -52014,6 +52036,7 @@ pottiest
 pottinesses
 pottles
 potty
+potzer
 potzers
 pouch
 pouchier
@@ -55532,6 +55555,7 @@ rebecks
 rebecs
 rebegan
 rebegin
+rebeginning
 rebegins
 rebel
 rebeldom
@@ -56087,6 +56111,7 @@ redressors
 redrew
 redried
 redrill
+redrilling
 redrives
 redroot
 redry
@@ -60471,6 +60496,7 @@ screenplays
 screenwriters
 screes
 screwdriver
+screwers
 screwiest
 screwinesses
 screwlike
@@ -61338,6 +61364,7 @@ serrying
 sers
 serum
 servable
+serval
 servantless
 servants
 served
@@ -62153,6 +62180,7 @@ shylock
 shylocked
 shylocking
 shynesses
+shyster
 si
 sialidan
 sials
@@ -63970,6 +63998,7 @@ soth
 soths
 sotol
 sotols
+sotted
 sottishly
 sottishness
 sou
@@ -66074,6 +66103,7 @@ stylar
 stylebook
 styled
 styleless
+styler
 styles
 stylets
 styli
@@ -66684,6 +66714,7 @@ sudsers
 sudsier
 sudsing
 sudsy
+sueded
 sueding
 suer
 suers
@@ -67611,6 +67642,7 @@ swots
 swotted
 swotter
 swotting
+swoun
 swound
 swounds
 swouning
@@ -70585,6 +70617,7 @@ transsonic
 transudates
 transudations
 transude
+transuded
 transudes
 transuding
 transuranium
@@ -74367,6 +74400,7 @@ vedalia
 vedalias
 vee
 veejay
+veejays
 veena
 veenas
 veep
@@ -76004,6 +76038,7 @@ whatnot
 whatnots
 whatsises
 whatsoever
+whaups
 wheal
 wheals
 wheatear
