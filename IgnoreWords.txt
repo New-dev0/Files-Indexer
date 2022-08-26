@@ -1463,6 +1463,7 @@ alkalifying
 alkalimeter
 alkaline
 alkalinization
+alkalinizing
 alkalise
 alkalises
 alkalising
@@ -2396,6 +2397,7 @@ annotators
 announcements
 announcer
 announcers
+announces
 announcing
 annoy
 annoying
@@ -4760,6 +4762,7 @@ baggier
 baggies
 bagginess
 bagginesses
+baghouses
 bagmen
 bagnio
 bagnios
@@ -10475,6 +10478,7 @@ chaleh
 chalet
 chalice
 chalices
+chalkboard
 chalkiest
 chalky
 challahs
@@ -12821,6 +12825,7 @@ comestible
 comet
 comfiest
 comfiness
+comfit
 comfort
 comfortableness
 comfortably
@@ -17101,6 +17106,7 @@ delay
 delayed
 dele
 delead
+deleading
 deleaved
 delectability
 delectably
@@ -18723,6 +18729,7 @@ disburden
 disbursals
 disburse
 disbursements
+disburser
 disbursing
 discalced
 discants
@@ -19392,6 +19399,7 @@ ditziest
 ditzinesses
 diuresis
 diuretic
+diuretics
 diurnal
 diuron
 diurons
@@ -22034,6 +22042,7 @@ ensurers
 enswathed
 enswathes
 entailers
+entailment
 entameba
 entamebae
 entamoeba
@@ -27618,6 +27627,7 @@ gerents
 gerfalcons
 geriatric
 geriatrician
+geriatrics
 german
 germander
 germane
@@ -30901,6 +30911,7 @@ hilling
 hilloaing
 hilloas
 hillock
+hillocked
 hillocky
 hilloes
 hillos
@@ -31958,6 +31969,7 @@ hydrocrackings
 hydrocracks
 hydrodynamic
 hydrodynamical
+hydroelectric
 hydrofoil
 hydrofoils
 hydrogels
@@ -34202,6 +34214,7 @@ integrate
 integrating
 integration
 integrationists
+integrative
 integrator
 integrators
 integument
@@ -35904,6 +35917,7 @@ kakiemons
 kakis
 kalamatas
 kalams
+kalanchoes
 kaleidoscopes
 kaleidoscopic
 kalewife
@@ -39336,6 +39350,7 @@ mammal
 mammalian
 mammalians
 mammalities
+mammality
 mammalogists
 mammals
 mammary
@@ -40811,6 +40826,7 @@ microfibrils
 microfiche
 microfiches
 microfilament
+microfilaments
 microfilaria
 microfilariae
 microfilmed
@@ -41460,6 +41476,7 @@ miscorrelations
 miscounting
 miscreants
 miscreated
+miscreating
 miscreation
 miscreations
 miscued
@@ -44418,6 +44435,7 @@ nonelementary
 nonemergencies
 nonemergency
 nonemployees
+nonemployments
 nonencapsulated
 nonending
 nonenergy
@@ -46785,6 +46803,7 @@ outseeing
 outsees
 outsell
 outsells
+outsert
 outserved
 outshames
 outshooting
@@ -48617,6 +48636,7 @@ particularising
 particularists
 particularities
 particularizes
+particulars
 particulate
 particulates
 partied
@@ -50575,6 +50595,7 @@ pinecones
 pineland
 pinelike
 pinene
+pinesap
 pinesaps
 pinewood
 pinewoods
@@ -51992,6 +52013,7 @@ potboils
 potboys
 poteen
 potences
+potent
 potentate
 potential
 potentialities
@@ -52075,6 +52097,7 @@ poussetted
 poussetting
 poussie
 poussies
+pouter
 pouters
 poutier
 poutiest
@@ -52368,6 +52391,7 @@ prediabetic
 predial
 predicaments
 predicate
+predicated
 predicates
 predicative
 predictability
@@ -52387,6 +52411,7 @@ prediscovery
 predisposed
 prednisolone
 prednisolones
+predominates
 predominating
 predomination
 predraft
@@ -55651,6 +55676,7 @@ recarrying
 recautioned
 recautioning
 recces
+recede
 receded
 receipts
 received
@@ -56793,6 +56819,7 @@ relate
 related
 relatedly
 relatedness
+relaters
 relating
 relational
 relationships
@@ -61721,6 +61748,7 @@ sheetings
 sheetless
 sheetlike
 sheetrock
+sheetrocked
 sheetrocking
 sheetrocks
 sheets
@@ -70417,6 +70445,7 @@ trainable
 trainband
 trainbearers
 trainee
+trainees
 traineeship
 trainer
 trainful
@@ -72990,6 +73019,7 @@ unit
 unitages
 unitarianism
 unitarianisms
+unitarians
 unitarily
 unite
 uniters
@@ -73837,6 +73867,7 @@ uprights
 uprise
 uprisen
 uprises
+uprising
 uprisings
 upriver
 uproarious
@@ -74112,6 +74143,7 @@ vagabondisms
 vagally
 vagaries
 vagariously
+vagary
 vagile
 vaginal
 vaginated
@@ -76653,6 +76685,7 @@ woe
 woefuller
 woful
 wofuller
+woks
 wold
 wolfberries
 wolfberry
@@ -76868,6 +76901,7 @@ worrywarts
 worse
 worsen
 worsening
+worset
 worsets
 worship
 worshiper
@@ -76946,6 +76980,7 @@ wricked
 wried
 wrier
 wries
+wriggler
 wright
 wrights
 wring
