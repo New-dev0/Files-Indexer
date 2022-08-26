@@ -935,6 +935,7 @@ affirmer
 affirming
 affixable
 affixal
+affixation
 affixers
 affixial
 affixment
@@ -1732,6 +1733,7 @@ amahs
 amain
 amalgam
 amalgamate
+amalgamation
 amalgamations
 amalgamators
 amalgams
@@ -3194,6 +3196,7 @@ apricots
 apriority
 aproning
 apropos
+apse
 apses
 apsides
 apt
@@ -9216,6 +9219,7 @@ camphines
 camphire
 camphires
 camphol
+campier
 campiest
 campily
 campiness
@@ -10034,6 +10038,7 @@ caterer
 caterers
 cateresses
 caterpillar
+caters
 caterwaul
 caterwauling
 cates
@@ -10556,6 +10561,7 @@ championed
 champions
 championships
 champleve
+champs
 chance
 chanced
 chancel
@@ -12478,6 +12484,7 @@ cognizances
 cognizant
 cognize
 cognizers
+cognizes
 cognizing
 cognomen
 cognomens
@@ -16803,6 +16810,7 @@ decorticator
 decorum
 decorums
 decoupage
+decouple
 decoupled
 decoupler
 decouplers
@@ -17023,6 +17031,7 @@ deformable
 deformalizes
 deformation
 deformational
+deformative
 deformed
 deformer
 deformers
@@ -17408,6 +17417,7 @@ denigrate
 denigrating
 denigrations
 denigrator
+denigrators
 denigratory
 denim
 denimed
@@ -21413,6 +21423,7 @@ emblazing
 emblazoned
 emblazoner
 emblazoning
+emblazonment
 emblazonments
 emblematic
 emblematizes
@@ -22958,6 +22969,7 @@ eucrite
 eucritic
 eudaemonism
 eudaemonisms
+eudaemonistic
 eudaimonism
 eudaimons
 eudemon
@@ -26094,6 +26106,7 @@ forkiness
 forkless
 forklifted
 forklifting
+forklike
 forlornest
 forlornness
 forlornnesses
@@ -27789,6 +27802,7 @@ ghostier
 ghosting
 ghostings
 ghostliest
+ghostliness
 ghostly
 ghostwriter
 ghostwriters
@@ -28389,6 +28403,7 @@ godets
 godfathered
 godfathers
 godforsaken
+godless
 godlessly
 godlessness
 godlikeness
@@ -29368,6 +29383,7 @@ gulled
 gullet
 gullets
 gulleys
+gulls
 gullying
 gulped
 gulpier
@@ -30680,6 +30696,7 @@ hepatotoxicity
 hepcats
 heptachlor
 heptagon
+heptagons
 heptameters
 heptane
 heptarchs
@@ -31502,6 +31519,7 @@ hoofer
 hoofers
 hoofing
 hoofprint
+hoofprints
 hook
 hookeys
 hookier
@@ -33147,6 +33165,7 @@ inalterability
 inalterable
 inalterableness
 inalterably
+inamoratas
 inamorato
 inanely
 inaneness
@@ -34327,6 +34346,7 @@ intelligently
 intelligentsias
 intelligibility
 intemperance
+intemperances
 intemperately
 intend
 intendants
@@ -35572,6 +35592,7 @@ jereed
 jerid
 jerids
 jerk
+jerked
 jerker
 jerkier
 jerkies
@@ -36285,6 +36306,7 @@ khalif
 khalifas
 khalifate
 khalifs
+khamsin
 khans
 khazen
 khazenim
@@ -37939,6 +37961,7 @@ lifecares
 lifeguarded
 lifeless
 lifelessnesses
+lifelike
 lifelikenesses
 lifelines
 lifemanship
@@ -45378,6 +45401,7 @@ oblast
 oblasts
 oblate
 oblateness
+oblatenesses
 oblatory
 obligated
 obligates
@@ -47123,6 +47147,7 @@ overachieved
 overachievement
 overachiever
 overachieving
+overacted
 overactions
 overactivities
 overactivity
@@ -53765,6 +53790,7 @@ prostitutor
 prostitutors
 prostomium
 prostrate
+prostrated
 prostration
 prostrations
 prostyle
@@ -55935,6 +55961,7 @@ recognised
 recognising
 recognizable
 recognizably
+recognized
 recognizer
 recognizers
 recognizes
@@ -57029,6 +57056,7 @@ relievers
 relieves
 relievos
 relighted
+religionists
 religionless
 religiose
 religiosity
@@ -60034,6 +60062,7 @@ sassiest
 sassinesses
 sassy
 sassywood
+sassywoods
 sastruga
 satang
 satangs
@@ -61149,6 +61178,7 @@ selfsameness
 selfsamenesses
 selfwards
 selkie
+sell
 sellable
 selle
 seller
@@ -65956,6 +65986,7 @@ strabismuses
 straddle
 strafed
 strafers
+strafes
 straggle
 straggled
 straggler
@@ -65995,6 +66026,7 @@ stranger
 stranges
 strangest
 strangle
+strangled
 strangleholds
 strangler
 strangles
@@ -69778,6 +69810,7 @@ tickings
 tickles
 ticklish
 ticklishnesses
+tickseeds
 ticktacktoe
 ticktocked
 ticktocking
@@ -71745,6 +71778,7 @@ turbocharger
 turbochargers
 turboelectric
 turbofan
+turbofans
 turbogenerator
 turbos
 turbulence
@@ -76146,6 +76180,7 @@ weep
 weepies
 weepiness
 weepinesses
+weeping
 weepingly
 weepings
 weeps
