@@ -1464,6 +1464,7 @@ alkalising
 alkalized
 alkalizer
 alkalizers
+alkalizes
 alkalizing
 alkaloids
 alkane
@@ -2210,6 +2211,7 @@ anecdotalisms
 anecdotalist
 anecdotalists
 anecdote
+anecdotes
 anecdotic
 anecdotically
 anecdotists
@@ -3225,6 +3227,7 @@ arabicas
 arabicization
 arabicize
 arabicized
+arabilities
 arabize
 arabizes
 arabizing
@@ -7525,6 +7528,7 @@ boule
 boulevardier
 boulevards
 bouleversement
+boulle
 boulles
 bounce
 bounced
@@ -8078,6 +8082,7 @@ bromeliad
 bromelin
 bromes
 brominated
+bromination
 brominations
 bromine
 brominisms
@@ -9144,6 +9149,7 @@ campaigner
 campaigners
 campanologies
 campanology
+campanula
 camped
 campers
 campesinos
@@ -12921,6 +12927,7 @@ compacted
 compacter
 compactest
 compacting
+compaction
 compactions
 compactly
 compactor
@@ -15879,6 +15886,7 @@ cycler
 cycleries
 cyclers
 cycles
+cycleways
 cyclicality
 cyclically
 cyclicly
@@ -17162,6 +17170,7 @@ demarking
 demast
 demasted
 dematerialize
+dematerialized
 deme
 demeaning
 demeanours
@@ -18491,6 +18500,7 @@ diplomata
 diplomate
 diplomates
 diplomatic
+diplomatist
 diplomats
 diplopias
 diplopic
@@ -19011,6 +19021,7 @@ disorderliness
 disorganize
 disorient
 disorientate
+disorienting
 disorients
 disown
 disowned
@@ -21035,6 +21046,7 @@ elaterids
 elaterite
 elateriums
 elaters
+elating
 elations
 elbowing
 eldercare
@@ -21629,6 +21641,7 @@ endgame
 ending
 endings
 endited
+endive
 endleaf
 endleafs
 endleaves
@@ -22496,6 +22509,7 @@ erotics
 erotism
 erotisms
 erotized
+erotizes
 erotogenic
 err
 errancies
@@ -27571,6 +27585,7 @@ gesticulant
 gesticulated
 gesticulations
 gesticulators
+gesticulatory
 gesturer
 gesturers
 gesturing
@@ -30350,6 +30365,7 @@ helotry
 helots
 help
 helped
+helper
 helpers
 helpful
 helping
@@ -36612,6 +36628,7 @@ lackadaisically
 lacked
 lackering
 lackluster
+lacklusters
 lacks
 laconism
 laconisms
@@ -37987,6 +38004,7 @@ liquifying
 liquorish
 lira
 liras
+liriope
 liripipes
 liroth
 lis
@@ -43631,6 +43649,7 @@ nescience
 nesciences
 nescient
 nescients
+nesses
 nestle
 nestled
 nestler
@@ -43921,6 +43940,7 @@ ninety
 ninhydrin
 ninnies
 ninny
+ninnyhammers
 ninon
 ninons
 niobite
@@ -46867,6 +46887,7 @@ overbears
 overbeating
 overbeats
 overbejeweled
+overbet
 overbetting
 overbidden
 overbilled
@@ -49029,6 +49050,7 @@ pemphixes
 pen
 penal
 penalise
+penalised
 penalizations
 penalized
 penalizes
@@ -51141,6 +51163,7 @@ pogonophorans
 pogromed
 pogroming
 pogromist
+pogroms
 poh
 poignance
 poignancies
@@ -54405,6 +54428,7 @@ quatrefoil
 quatrefoils
 quatres
 quattrocentos
+quaverer
 quaveringly
 quavery
 quayage
@@ -55059,6 +55083,7 @@ ration
 rational
 rationale
 rationales
+rationalistic
 rationalists
 rationalities
 rationality
@@ -56535,6 +56560,7 @@ reinvent
 reinvented
 reinventing
 reinventions
+reinvents
 reinvested
 reinvestigating
 reinvestigation
@@ -59045,6 +59071,7 @@ ruralist
 ruralists
 ruralite
 ruralizes
+ruses
 rush
 rushed
 rushee
@@ -60252,6 +60279,7 @@ scraighing
 scramble
 scrambles
 scramjets
+scrams
 scrannel
 scrannels
 scrap
@@ -62730,6 +62758,7 @@ slayable
 slayer
 slaying
 slays
+sleaves
 sleaving
 sleazebag
 sleazebags
@@ -63847,6 +63876,7 @@ sourly
 sournesses
 sourpusses
 sourwoods
+souters
 southbound
 southeast
 southeaster
@@ -64847,6 +64877,7 @@ stalactitic
 stalag
 stalags
 stale
+stalemate
 stalemated
 stalest
 stalker
@@ -69702,6 +69733,7 @@ tole
 tolerable
 tolerant
 tolerantly
+tolerated
 toleration
 tolerators
 tolidines
@@ -69881,6 +69913,7 @@ topsoiling
 topsoils
 topstitch
 topstitched
+toques
 toquets
 tor
 tora
@@ -72977,6 +73010,7 @@ unpersuasive
 unpick
 unpicked
 unpicking
+unpierced
 unpile
 unpiled
 unpiles
@@ -75116,6 +75150,7 @@ waddies
 wadding
 waddled
 waddlers
+waddling
 waddying
 waded
 waders
