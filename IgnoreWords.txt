@@ -176,6 +176,7 @@ acceding
 accelerando
 accelerates
 accelerative
+accelerators
 accenting
 accentor
 accentually
@@ -1838,6 +1839,7 @@ amebocyte
 ameboid
 amelcorn
 amelcorns
+ameliorate
 ameliorates
 amelioratory
 ameloblast
@@ -5517,6 +5519,7 @@ becquerels
 becrawled
 becrawling
 becrime
+becrimed
 becrimes
 becriming
 becrowding
@@ -7010,6 +7013,7 @@ bludgeoning
 bludgeons
 blueball
 bluebeards
+bluebeat
 bluebeats
 bluebell
 blueberry
@@ -7481,6 +7485,7 @@ boringnesses
 borings
 borked
 borking
+borks
 born
 borneol
 boronic
@@ -9788,6 +9793,7 @@ carrells
 carrels
 carrier
 carrions
+carritch
 carroch
 carroches
 carromed
@@ -10234,6 +10240,7 @@ celebs
 celeriac
 celeriacs
 celery
+celesta
 celeste
 celestially
 celestine
@@ -14503,6 +14510,7 @@ cotillion
 cotillon
 cotinga
 cotoneasters
+cotquean
 cotransduce
 cotransduced
 cotransduces
@@ -22694,6 +22702,7 @@ erudition
 erugo
 erugos
 erupted
+erupting
 eruption
 ervils
 eryngo
@@ -31538,6 +31547,7 @@ hoofing
 hoofprint
 hoofprints
 hook
+hookah
 hookeys
 hookier
 hooking
@@ -32110,6 +32120,7 @@ hydrologic
 hydrological
 hydrologists
 hydrolytic
+hydrolyzed
 hydrolyzes
 hydromechanical
 hydromechanics
@@ -33662,6 +33673,7 @@ indulin
 indult
 indults
 indurated
+indurates
 induration
 indurations
 indurative
@@ -35183,6 +35195,7 @@ isarithms
 isatin
 isatines
 isatinic
+isba
 ischaemia
 ischaemias
 ischemia
@@ -38480,6 +38493,7 @@ locally
 locater
 locating
 location
+locations
 locative
 locator
 locators
@@ -41190,6 +41204,7 @@ mildens
 milder
 mildest
 milding
+mildness
 mildnesses
 mileposts
 miler
@@ -47836,6 +47851,7 @@ overwatch
 overwatched
 overwaters
 overwearied
+overwearies
 overwearing
 overwears
 overweened
@@ -51552,6 +51568,7 @@ pokily
 pokinesses
 poking
 poky
+polarimeter
 polarimetric
 polarimetries
 polariscope
@@ -52050,6 +52067,7 @@ postaxial
 postbase
 postbellum
 postbox
+postboxes
 postcapitalist
 postcards
 postcava
@@ -52631,6 +52649,7 @@ preen
 preenacts
 preener
 preeners
+preening
 preenrollment
 preens
 preerect
@@ -53274,6 +53293,7 @@ principe
 principi
 principia
 principle
+principled
 principles
 prinks
 printabilities
@@ -53978,6 +53998,7 @@ prune
 prunella
 prunellos
 pruning
+prurience
 pruriences
 pruriencies
 pruriency
@@ -58527,6 +58548,7 @@ rhino
 rhinologies
 rhinovirus
 rhizobial
+rhizoctonias
 rhizoid
 rhizoidal
 rhizoids
@@ -60246,6 +60268,7 @@ saxophones
 saxophonists
 saxtuba
 saxtubas
+say
 sayed
 sayeds
 sayers
@@ -62876,6 +62899,7 @@ sixteenths
 sixtes
 sixth
 sixths
+sixtieths
 sixty
 sizable
 sizableness
@@ -62960,6 +62984,7 @@ skibobber
 skibobbers
 skibobbings
 skibobs
+skidded
 skiddier
 skiddiest
 skidding
@@ -65168,6 +65193,7 @@ squelchiest
 squelchy
 squidded
 squidding
+squiffed
 squiffiest
 squiggles
 squiggling
@@ -66873,6 +66899,7 @@ subtopia
 subtopic
 subtorrid
 subtotal
+subtotaled
 subtotally
 subtracter
 subtractions
@@ -70845,6 +70872,7 @@ transliterated
 transliterates
 transliteration
 translocated
+translocates
 translucences
 translucencies
 translucency
@@ -71663,6 +71691,7 @@ tubeless
 tuber
 tubercles
 tuberculars
+tuberculate
 tuberculated
 tuberculoid
 tuberculoses
@@ -72172,6 +72201,7 @@ ulpan
 ulpanim
 ulster
 ulsters
+ultima
 ultimacies
 ultimacy
 ultimated
@@ -72370,6 +72400,7 @@ unappetizing
 unappetizingly
 unapplied
 unappropriated
+unaptness
 unarguably
 unarm
 unarmed
@@ -72463,6 +72494,7 @@ unbowed
 unboxing
 unbraces
 unbracing
+unbraid
 unbraided
 unbraids
 unbrakes
@@ -75506,6 +75538,7 @@ volubly
 volumed
 volumes
 volumeter
+volumetric
 volumetrically
 voluming
 voluminosities
@@ -76101,6 +76134,7 @@ waypoint
 waypoints
 waywardness
 waywardnesses
+wayworn
 wazoos
 weaken
 weakeners
@@ -76563,6 +76597,7 @@ whooshing
 whoosis
 whopper
 whopping
+whops
 whoredoms
 whorehouse
 whoremaster
