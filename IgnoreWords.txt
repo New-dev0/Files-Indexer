@@ -1540,6 +1540,7 @@ alliteratively
 allobar
 allobars
 allocatable
+allocate
 allocates
 allocation
 allocations
@@ -2818,6 +2819,7 @@ antishark
 antislavery
 antisleep
 antislip
+antismoke
 antismokers
 antismoking
 antismuggling
@@ -5500,6 +5502,7 @@ becomings
 becoward
 becquerels
 becrawled
+becrawling
 becrime
 becrimes
 becriming
@@ -7800,6 +7803,7 @@ brashy
 brasilin
 brasilins
 brass
+brassarts
 brassbound
 brasserie
 brasseries
@@ -9188,6 +9192,7 @@ camouflaged
 camouflagic
 camouflaging
 campagna
+campaign
 campaigned
 campaigner
 campaigners
@@ -10183,6 +10188,7 @@ cecropias
 cecum
 cedarbird
 cedarbirds
+cedars
 cedarwood
 cedary
 ceders
@@ -11863,6 +11869,7 @@ clerkships
 clever
 cleverer
 cleverish
+cleverly
 cleverness
 clew
 clewed
@@ -12614,6 +12621,7 @@ collaret
 collarless
 collars
 collated
+collateralized
 collateralizes
 collateralizing
 collaterally
@@ -12988,6 +12996,7 @@ compacting
 compaction
 compactions
 compactly
+compactness
 compactor
 compactors
 companioned
@@ -17504,6 +17513,7 @@ deplaning
 deplete
 depleting
 depletions
+deplorably
 deplore
 deplored
 deplorer
@@ -22452,6 +22462,7 @@ eponyms
 epopees
 epos
 eposes
+epoxidation
 epoxidizing
 epoxied
 epoxy
@@ -24198,6 +24209,7 @@ fashing
 fashionableness
 fashionably
 fashioner
+fashionista
 fashionmonger
 fashionmongers
 fashions
@@ -27328,6 +27340,7 @@ gastrocnemii
 gastronomical
 gastronomies
 gastronomists
+gastropod
 gastropods
 gastroscopist
 gastroscopy
@@ -28504,6 +28517,7 @@ goriest
 gorillas
 gorily
 gorinesses
+goring
 gorm
 gormandised
 gormandising
@@ -29689,6 +29703,7 @@ halfback
 halfbeak
 halfbeaks
 halfhearted
+halfheartedly
 halflives
 halfpence
 halfpennies
@@ -30868,6 +30883,7 @@ hibachi
 hibachis
 hibernated
 hibernates
+hibernation
 hibernators
 hibiscuses
 hic
@@ -30931,6 +30947,7 @@ highlighting
 highness
 highroad
 hight
+hightail
 hightailed
 hightailing
 highths
@@ -31717,6 +31734,7 @@ housesits
 housetop
 housewares
 housewarming
+housewifeliness
 housewifely
 houseworks
 housing
@@ -32773,6 +32791,7 @@ immutable
 immutablenesses
 immy
 imp
+impacter
 impactful
 impacting
 impactions
@@ -36206,6 +36225,7 @@ keyboardists
 keyboards
 keybutton
 keycards
+keyholes
 keying
 keyless
 keynote
@@ -36580,6 +36600,7 @@ knurly
 koa
 kob
 kobolds
+kohlrabies
 koi
 koine
 kola
@@ -43452,6 +43473,7 @@ nappas
 napped
 napper
 nappes
+nappy
 naprapathies
 naprapathy
 naproxen
@@ -45689,6 +45711,7 @@ oilpapers
 oilskin
 oilskins
 oilstone
+oilstones
 oilway
 oinks
 oiticicas
@@ -50215,6 +50238,7 @@ photoduplicate
 photoed
 photoelectric
 photoelectron
+photoelectronic
 photoelectrons
 photoengraves
 photoengraving
@@ -53725,6 +53749,7 @@ protectress
 protectresses
 proteges
 protei
+proteides
 proteinic
 proteinurias
 protend
@@ -55802,6 +55827,7 @@ recipe
 recipient
 reciprocal
 reciprocally
+reciprocals
 reciprocating
 reciprocators
 reciprocities
@@ -59379,6 +59405,7 @@ ruthful
 ruthless
 ruthlessness
 ruths
+rutile
 rutiles
 rutin
 rutins
@@ -62939,6 +62966,7 @@ skyman
 skymen
 skyrocket
 skyrocketed
+skyrocketing
 skysail
 skyscrapers
 skysurf
@@ -65896,6 +65924,7 @@ straitest
 straitjacketing
 straitjackets
 straitly
+straitnesses
 strake
 straked
 stramashes
@@ -69107,6 +69136,7 @@ testimonials
 testiness
 testinesses
 testing
+testons
 testoons
 testosterone
 testudines
@@ -69198,6 +69228,7 @@ thanages
 thanatological
 thanatologist
 thanatologists
+thanatology
 thanatos
 thanes
 thank
@@ -70545,6 +70576,7 @@ trainee
 trainees
 traineeship
 trainer
+trainers
 trainful
 trainings
 trainloads
@@ -71671,6 +71703,7 @@ turgors
 turion
 turions
 turistas
+turk
 turkeys
 turkoises
 turks
@@ -72399,6 +72432,7 @@ uncirculated
 uncircumcised
 uncivil
 uncivilized
+unclad
 unclaimed
 unclamp
 unclamping
@@ -74216,6 +74250,7 @@ uxoriousnesses
 vacant
 vacatable
 vacate
+vacated
 vacates
 vacation
 vacationlands
