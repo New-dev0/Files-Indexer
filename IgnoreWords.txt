@@ -1065,6 +1065,7 @@ agglomerations
 agglutinability
 agglutinable
 agglutinated
+agglutination
 agglutinations
 agglutinogenic
 agglutinogens
@@ -8611,6 +8612,7 @@ buriers
 burin
 burka
 burke
+burked
 burker
 burladeros
 burlaps
@@ -9781,6 +9783,7 @@ carousals
 caroused
 carousel
 carpalia
+carpentered
 carpentering
 carper
 carpers
@@ -10202,6 +10205,7 @@ caving
 cavitary
 cavitating
 cavitations
+cavitied
 cavorters
 cavorts
 cay
@@ -13502,6 +13506,7 @@ congenerous
 congenial
 congenialities
 congeniality
+conger
 congest
 congestion
 congests
@@ -15995,6 +16000,7 @@ cyanobacteria
 cyanobacterium
 cyanocobalamin
 cyanocobalamine
+cyanoethylated
 cyanogen
 cyanogeneses
 cyanogenic
@@ -16415,6 +16421,7 @@ dartboards
 darter
 darters
 dartle
+dashboards
 dasheens
 dashi
 dashier
@@ -29626,6 +29633,7 @@ gyrenes
 gyres
 gyrocompasses
 gyrofrequency
+gyromagnetic
 gyron
 gyrons
 gyropilot
@@ -31830,6 +31838,7 @@ housedresses
 housefather
 housefathers
 housefront
+houseful
 houseguest
 household
 housekeep
@@ -34895,6 +34904,7 @@ introjecting
 intromission
 intromit
 intromitted
+intron
 introns
 introrse
 introspect
@@ -38021,6 +38031,7 @@ lickspittle
 lickspittles
 licorice
 lictor
+lidar
 lidars
 lidding
 lido
@@ -39079,6 +39090,7 @@ lusterwares
 lustfulness
 lustier
 lustily
+lustiness
 lusting
 lustra
 lustrate
@@ -40651,6 +40663,7 @@ mercerising
 mercerization
 mercerize
 mercerized
+mercerizing
 mercery
 merces
 merch
@@ -41126,6 +41139,7 @@ microradiograph
 microscopical
 microscopies
 microscopists
+microscopy
 microsecond
 microseconds
 microseism
@@ -42033,6 +42047,7 @@ misthinks
 mistiest
 mistily
 mistime
+mistiness
 mistinesses
 misting
 mistitle
@@ -51305,6 +51320,7 @@ playful
 playfulnesses
 playgoers
 playgoings
+playgroups
 playhouse
 playless
 playlet
@@ -51480,6 +51496,7 @@ plunderer
 plunderers
 plunders
 plunger
+plungers
 plunges
 plunked
 plunker
@@ -55026,6 +55043,7 @@ quintuplet
 quintuplicate
 quintuplicates
 quintupling
+quipped
 quippier
 quippiest
 quippus
@@ -58042,6 +58060,7 @@ resprang
 respray
 resprayed
 respread
+respreading
 respreads
 respring
 resprouted
@@ -58705,6 +58724,7 @@ ricebird
 riced
 ricer
 ricercar
+ricercare
 ricercari
 richen
 richened
@@ -64211,6 +64231,7 @@ somehow
 somersault
 somersaulting
 somersaults
+somerseted
 sometimes
 somewhere
 somewheres
@@ -65405,6 +65426,7 @@ staid
 staider
 staig
 staigs
+stain
 stainabilities
 stainer
 stainers
@@ -66880,6 +66902,7 @@ subsea
 subsecretary
 subsectors
 subsegments
+subseizure
 subseizures
 subsense
 subsenses
@@ -68107,6 +68130,7 @@ symbols
 symmetrical
 symmetricalness
 symmetrize
+sympathectomies
 sympathetics
 sympathise
 sympathised
@@ -74447,6 +74471,7 @@ urostyles
 urp
 urped
 urps
+ursa
 urticant
 urticarias
 urticated
@@ -76149,6 +76174,7 @@ waterfowler
 waterfowlers
 waterhen
 waterhens
+wateriest
 waterily
 waterinesses
 waterishness
@@ -77722,6 +77748,7 @@ yogin
 yogini
 yogins
 yogis
+yogurts
 yohimbe
 yohimbine
 yohimbines
