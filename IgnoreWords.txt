@@ -856,6 +856,7 @@ aerometers
 aeronaut
 aeronautical
 aeronautics
+aeronauts
 aeronomers
 aeronomies
 aeropause
@@ -2163,6 +2164,7 @@ anchoring
 anchoritically
 anchorless
 anchorpeople
+anchorpersons
 anchors
 anchorwomen
 anchos
@@ -3191,6 +3193,7 @@ aptitudinal
 aptnesses
 apyrase
 apyretic
+aqua
 aquacades
 aquacultural
 aquaculture
@@ -4775,6 +4778,7 @@ bailouts
 bails
 bailsman
 bailsmen
+bairn
 bairnish
 bairnlier
 bairns
@@ -6390,6 +6394,7 @@ biodiversities
 bioelectrical
 bioelectricity
 bioengineer
+bioengineering
 bioethical
 biofeedbacks
 biofouler
@@ -7920,6 +7925,7 @@ briards
 briarroots
 briarwoods
 bribee
+bribery
 bribes
 brickbat
 brickfield
@@ -10227,6 +10233,7 @@ censored
 censoring
 censors
 censual
+censure
 censured
 censuring
 censused
@@ -11305,6 +11312,7 @@ chronometer
 chronometrical
 chronometries
 chronon
+chrysalids
 chrysolite
 chrysomelids
 chrysoprase
@@ -12832,6 +12840,7 @@ commends
 commensally
 commensurate
 commentaries
+commentates
 commentating
 commentator
 commentators
@@ -13404,6 +13413,7 @@ congratulate
 congratulates
 congratulating
 congratulation
+congratulations
 congratulator
 congratulators
 congregants
@@ -19791,6 +19801,7 @@ douceur
 douceurs
 douched
 douches
+douching
 doughboy
 doughboys
 doughface
@@ -20249,6 +20260,7 @@ drumbling
 drumheads
 drumliest
 drumlike
+drummed
 drummers
 drumroll
 drumrolls
@@ -36775,6 +36787,7 @@ lambing
 lambkills
 lamblike
 lambrequin
+lambrequins
 lambrusco
 lambruscos
 lambskins
@@ -36795,6 +36808,7 @@ lamenters
 lamenting
 lamer
 lames
+lamest
 laminal
 laminar
 laminaria
@@ -39379,6 +39393,7 @@ maniple
 maniples
 manipulability
 manipulable
+manipular
 manipulars
 manipulatable
 manipulates
@@ -47204,6 +47219,7 @@ overissuances
 overissue
 overissued
 overissuing
+overjoy
 overjoyed
 overkill
 overkilled
@@ -47670,6 +47686,7 @@ ozokerite
 ozonation
 ozonations
 ozones
+ozonic
 ozonide
 ozonides
 ozonise
@@ -49108,6 +49125,7 @@ penetrate
 penetrated
 penetrates
 penetrating
+penetrations
 penetrative
 penetrometers
 pengo
@@ -49231,6 +49249,7 @@ pepperinesses
 peppers
 peppertrees
 peppery
+peppiest
 peppily
 peppiness
 pepping
@@ -49752,6 +49771,7 @@ phallocentric
 phallus
 phanerogam
 phanerophyte
+phantasm
 phantasmagoria
 phantasmagoric
 phantasmal
@@ -51504,6 +51524,7 @@ pompous
 poms
 ponce
 ponces
+poncho
 ponchos
 ponder
 ponderable
@@ -54294,6 +54315,7 @@ qanat
 qats
 qindar
 qindars
+qintar
 qiviut
 qiviuts
 qoph
@@ -55938,6 +55960,7 @@ rediscuss
 rediscusses
 redisplays
 redisposed
+redisposes
 redisposing
 redisposition
 redissolve
@@ -56699,6 +56722,7 @@ relettering
 reletting
 relevance
 relevances
+relevant
 relevantly
 releve
 reliabilities
@@ -59598,6 +59622,7 @@ santera
 santeras
 santerias
 santero
+santims
 santimu
 santir
 santolina
@@ -60844,6 +60869,7 @@ semanteme
 semantic
 semanticists
 semantics
+semaphored
 semaphoring
 semasiologies
 semasiology
@@ -63513,6 +63539,7 @@ soddened
 soddenness
 soddies
 soddy
+sodic
 sodomies
 sodomists
 sodomite
@@ -64680,6 +64707,7 @@ sputa
 sputnik
 sputniks
 sputter
+sputterer
 sputtering
 sputtery
 sputum
@@ -65172,6 +65200,7 @@ steeving
 stegodons
 stegosaurs
 stegosauruses
+stein
 stela
 stelae
 stelar
@@ -65958,6 +65987,7 @@ styles
 stylets
 styli
 styliform
+stylise
 stylises
 stylising
 stylists
@@ -66299,6 +66329,7 @@ subperiod
 subperiods
 subphase
 subphases
+subphylar
 subphylum
 subplot
 subpoena
@@ -66825,6 +66856,7 @@ superannuates
 superannuation
 superathlete
 superathletes
+superatoms
 superbank
 superbest
 superbitches
@@ -69364,6 +69396,7 @@ thyreoid
 thyristor
 thyrocalcitonin
 thyroglobulin
+thyroglobulins
 thyroidal
 thyroidectomies
 thyroiditis
@@ -70878,6 +70911,7 @@ triplicities
 triplicity
 triplite
 triploidies
+triploidy
 tripodic
 tripodies
 tripody
@@ -76721,6 +76755,7 @@ wounds
 woundworts
 wove
 woven
+wovens
 wowsers
 wrackful
 wraithlike
