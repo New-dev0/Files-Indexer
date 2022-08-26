@@ -3744,6 +3744,7 @@ aspirers
 aspirins
 aspis
 aspish
+asquint
 asrama
 assagai
 assagais
@@ -4618,6 +4619,7 @@ backbench
 backbencher
 backbenchers
 backbenches
+backbite
 backbone
 backboned
 backbreakers
@@ -8842,6 +8844,7 @@ cablecasting
 cablets
 cabling
 cabob
+cabobs
 cabochons
 cabotage
 cabrestos
@@ -10200,6 +10203,7 @@ ceintures
 cel
 celandines
 celebratedness
+celebrations
 celebrity
 celebs
 celeriac
@@ -12954,6 +12958,7 @@ communique
 communised
 communises
 communisms
+communistic
 communistically
 community
 communizations
@@ -15255,6 +15260,7 @@ crossbanding
 crossbandings
 crossbarred
 crossbarring
+crossbars
 crossbill
 crossbills
 crossbones
@@ -17129,6 +17135,7 @@ delead
 deleading
 deleaved
 delectability
+delectables
 delectably
 delectate
 delectating
@@ -17942,6 +17949,7 @@ deuterides
 deuteriums
 deuteron
 deuterons
+dev
 deva
 devaluations
 devalues
@@ -18351,6 +18359,7 @@ diffusivenesses
 diffusor
 diffusors
 digamies
+digamists
 digamma
 digenesis
 digenetic
@@ -20760,6 +20769,7 @@ eases
 easier
 easies
 easiest
+easinesses
 easter
 eastern
 easterner
@@ -22281,6 +22291,7 @@ ephemeralities
 ephemerally
 ephemerals
 ephemeras
+ephemerid
 ephemeris
 ephorates
 ephori
@@ -22606,6 +22617,7 @@ erotogenic
 err
 errancies
 errantries
+errata
 erratic
 erring
 erroneous
@@ -24966,6 +24978,7 @@ firer
 fireship
 fireside
 firestone
+firestorms
 firethorn
 firetrap
 firetraps
@@ -25580,6 +25593,7 @@ fluorouracil
 fluorouracils
 fluorspar
 fluorspars
+fluoxetine
 fluphenazine
 fluphenazines
 flurries
@@ -26293,6 +26307,7 @@ francize
 francized
 francs
 frangibilities
+frangible
 frangipane
 frankable
 franker
@@ -28711,6 +28726,7 @@ granulomatous
 granulose
 granulosis
 granum
+grapelike
 graperies
 grapevine
 grapevines
@@ -29996,6 +30012,7 @@ harmonized
 harmony
 harnessed
 harped
+harper
 harpies
 harpin
 harpings
@@ -34169,6 +34186,7 @@ instauration
 instead
 insteps
 instigate
+instigates
 instigation
 instiller
 instillers
@@ -35776,6 +35794,7 @@ judicable
 judicatories
 judicatory
 judicature
+judicatures
 judicial
 judicially
 judicious
@@ -39729,6 +39748,7 @@ marplots
 marque
 marqueteries
 marquetries
+marquis
 marquisate
 marquisates
 marquise
@@ -45024,6 +45044,7 @@ novelizing
 novellas
 novemdecillion
 novenae
+novercal
 novitiates
 novocaine
 now
@@ -50706,6 +50727,7 @@ pintadoes
 pintados
 pintails
 pintano
+pintas
 pintle
 pintles
 pinto
@@ -55874,6 +55896,7 @@ recompiled
 recompositions
 recomputed
 recomputes
+recon
 reconceived
 reconcentrate
 reconcentrates
@@ -57025,6 +57048,7 @@ remeasurement
 remeasuring
 remediated
 remediation
+remediations
 remediless
 remeeting
 remelted
@@ -61294,6 +61318,7 @@ separating
 separationists
 separations
 separatist
+separative
 separator
 sepic
 sepiolite
@@ -61380,6 +61405,7 @@ sergeant
 serger
 serging
 serial
+serialist
 serialization
 serialized
 serializes
@@ -64155,6 +64181,7 @@ souths
 southwesterly
 southwestern
 southwestward
+souvenir
 souvenirs
 souvlakia
 sovereignties
@@ -66280,6 +66307,7 @@ subcategories
 subcategorized
 subcategorizes
 subcategory
+subcauses
 subcavity
 subcellars
 subcells
@@ -67004,6 +67032,7 @@ sunchokes
 sundecks
 sunderer
 sunderers
+sundering
 sundew
 sundews
 sundial
@@ -67627,6 +67656,7 @@ sweetheart
 sweethearts
 sweetie
 sweeting
+sweetings
 sweetly
 sweetshop
 sweetshops
@@ -71474,6 +71504,7 @@ tuberculars
 tuberculated
 tuberculoid
 tuberculoses
+tuberculosis
 tuberculous
 tuberoid
 tuberoses
@@ -73594,6 +73625,7 @@ unspeaks
 unspectacular
 unsphere
 unsphering
+unspoilt
 unspoken
 unsportsmanlike
 unsprayed
@@ -75057,6 +75089,7 @@ virls
 viroid
 viroids
 virologic
+virological
 virologists
 virology
 virosis
@@ -75287,6 +75320,7 @@ volkslied
 volkslieder
 volleyballs
 volleyed
+volleyers
 volleys
 volosts
 volplane
@@ -75420,6 +75454,7 @@ vulgarization
 vulgarized
 vulgarizes
 vulgarly
+vulgo
 vulnerability
 vulnerable
 vulnerableness
