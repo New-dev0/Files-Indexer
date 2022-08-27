@@ -3177,6 +3177,7 @@ appointive
 appointor
 appoints
 apportionable
+appose
 apposed
 apposes
 appositely
@@ -8326,6 +8327,7 @@ bruiting
 bruits
 brulot
 brumby
+brumous
 brunch
 bruncher
 brunette
@@ -9055,6 +9057,7 @@ caffeine
 caffeinic
 caffs
 caftan
+caftaned
 cage
 cageful
 cagefuls
@@ -14069,6 +14072,7 @@ convened
 convenes
 convenience
 conveniences
+convening
 convent
 conventicle
 conventicler
@@ -14162,6 +14166,7 @@ cooker
 cookey
 cookhouses
 cookies
+cookless
 cookoff
 cookout
 cookshack
@@ -14303,6 +14308,7 @@ copyrighting
 copywriter
 coquets
 coquetted
+coquetting
 coquille
 coquilles
 coquinas
@@ -14489,6 +14495,7 @@ correctitudes
 corrective
 correctively
 correctives
+correctly
 correctnesses
 corrector
 correctors
@@ -15770,6 +15777,7 @@ culler
 cullers
 cullets
 cullied
+culling
 cullions
 cullis
 cullises
@@ -19287,6 +19295,7 @@ disinvited
 disinvites
 disinviting
 disjoin
+disjoins
 disjointedness
 disjoints
 disjunct
@@ -19696,6 +19705,7 @@ dives
 divestitures
 divests
 divesture
+dividable
 dividedly
 dividednesses
 dividendless
@@ -24288,6 +24298,7 @@ fallacies
 fallacious
 fallaciousness
 fallaleries
+fallals
 fallbacks
 faller
 fallers
@@ -29872,6 +29883,7 @@ ha
 haar
 habanera
 habaneras
+habanero
 habdalahs
 haberdashers
 habiliment
@@ -30255,6 +30267,7 @@ haole
 hap
 hapaxes
 haphazardly
+haphazardness
 haphtara
 haphtarah
 haphtarot
@@ -31339,6 +31352,7 @@ hilting
 hiltless
 hilts
 hilum
+hilus
 himations
 hims
 himself
@@ -34625,6 +34639,7 @@ instrumenting
 instruments
 insubordinate
 insubordinately
+insubordination
 insufficiencies
 insufficiency
 insufficient
@@ -36907,6 +36922,7 @@ kitten
 kittenishness
 kittenishnesses
 kitties
+kittiwake
 kittler
 kittles
 kitty
@@ -38432,6 +38448,7 @@ lilliputian
 lilt
 lilting
 liltingly
+lilts
 lily
 lilylike
 limacine
@@ -40846,6 +40863,7 @@ melodiously
 melodiousnesses
 melodise
 melodised
+melodising
 melodist
 melodizers
 melodramatises
@@ -46877,6 +46895,7 @@ osiered
 osiers
 osmics
 osmiridiums
+osmium
 osmol
 osmolalities
 osmolar
@@ -50013,6 +50032,7 @@ pentlandites
 pentobarbital
 pentobarbitones
 pentodes
+pentosans
 pentose
 pentoses
 penuchi
@@ -51338,6 +51358,7 @@ pinnation
 pinned
 pinning
 pinnulae
+pinnular
 pinny
 pinocle
 pinocytoses
@@ -51940,6 +51961,7 @@ plus
 plush
 plushily
 plushiness
+plushinesses
 plushy
 plussage
 plutocracy
@@ -54525,6 +54547,7 @@ prudishly
 pruinose
 prune
 prunella
+prunelles
 prunellos
 pruning
 prurience
@@ -56258,6 +56281,7 @@ reapproved
 reaps
 rear
 rearers
+rearguments
 rearm
 rearmament
 rearmaments
@@ -59110,6 +59134,7 @@ rheumatologist
 rheumier
 rheumiest
 rheumy
+rhigolene
 rhigolenes
 rhinal
 rhinencephalon
@@ -59781,6 +59806,7 @@ rouches
 rouens
 roues
 rouged
+rouges
 roughage
 roughages
 roughbacks
@@ -62526,6 +62552,7 @@ sharpness
 sharpshooters
 sharpy
 shashlick
+shashlicks
 shashlik
 shashliks
 shat
@@ -64753,6 +64780,7 @@ sombreros
 some
 somebodies
 somehow
+someplaces
 somersault
 somersaulting
 somersaults
@@ -68861,6 +68889,7 @@ sysadmins
 sysop
 system
 systematic
+systematically
 systematics
 systematism
 systematists
@@ -70009,6 +70038,7 @@ tetramer
 tetramers
 tetrameters
 tetramethyllead
+tetraploidies
 tetrapod
 tetrapods
 tetrarch
@@ -70796,6 +70826,7 @@ titanite
 titanium
 titbit
 titers
+titfers
 tithers
 tithing
 tithings
@@ -71551,6 +71582,7 @@ transients
 transilluminate
 transistorize
 transistors
+transited
 transitions
 transitive
 transitively
@@ -73973,6 +74005,7 @@ unimaginable
 unimaginative
 unimpassioned
 unimportant
+unimposing
 unimpressive
 unindexed
 uningratiating
@@ -77145,6 +77178,7 @@ wheelless
 wheelman
 wheelmen
 wheels
+wheelsmen
 wheeped
 wheeping
 wheeples
@@ -77490,6 +77524,7 @@ willingest
 willingly
 willingness
 williwaw
+willow
 willower
 willowier
 willy
