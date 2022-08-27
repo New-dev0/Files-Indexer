@@ -4636,6 +4636,7 @@ baccara
 baccaras
 bacchanalia
 bacchanalian
+bacchanalians
 bacchanals
 bacchant
 bacchante
@@ -5153,6 +5154,7 @@ baronet
 baronetage
 baronetcies
 baronnes
+baroque
 baroreceptor
 barosaur
 barosaurs
@@ -7960,6 +7962,7 @@ breathers
 breathes
 breathiest
 breathinesses
+breathlessness
 breaths
 breathtaking
 breathy
@@ -8956,6 +8959,7 @@ caddied
 caddies
 caddis
 caddised
+caddises
 caddisfly
 caddishly
 caddishness
@@ -10055,6 +10059,7 @@ catchier
 catchiest
 catchments
 catchphrases
+catchpole
 catchpoles
 catchups
 catchword
@@ -10226,6 +10231,7 @@ cavillers
 cavilling
 cavils
 caving
+cavings
 cavitary
 cavitating
 cavitations
@@ -10609,6 +10615,7 @@ chamiso
 chammied
 chamois
 chamoised
+chamoises
 champacas
 champagne
 champagnes
@@ -13491,6 +13498,7 @@ conflate
 conflates
 conflation
 conflict
+conflictions
 conflicts
 confluent
 conflux
@@ -18608,6 +18616,7 @@ dimnesses
 dimorphic
 dimouts
 dimple
+dimples
 dimpling
 dimwits
 din
@@ -21987,6 +21996,7 @@ enfeeble
 enfeeblements
 enfeeblers
 enfeebles
+enfeoffed
 enfeoffing
 enfeoffment
 enfettered
@@ -22031,6 +22041,7 @@ engirded
 engirdle
 engirds
 english
+englut
 englutted
 englutting
 engorge
@@ -23145,6 +23156,7 @@ euphuism
 euphuisms
 euphuistic
 euphuistically
+euphuists
 euploidy
 eurhythmics
 eurhythmies
@@ -24532,6 +24544,7 @@ fees
 feeze
 feezed
 feigned
+feignedly
 feigner
 feigning
 feigns
@@ -34086,6 +34099,7 @@ inhauls
 inhere
 inhered
 inherences
+inherent
 inhering
 inherit
 inheritableness
@@ -35496,6 +35510,7 @@ ivorybills
 ivylike
 ixias
 ixodid
+ixoras
 ixtles
 izar
 izars
@@ -36241,6 +36256,7 @@ kappas
 kaput
 karabiner
 karakul
+karat
 karats
 karmic
 kaross
@@ -38304,6 +38320,7 @@ lines
 linesman
 linesmen
 lineups
+linga
 lingam
 lingcod
 lingcods
@@ -41532,6 +41549,7 @@ mingle
 mingled
 mingler
 minglers
+miniaturistic
 miniaturists
 miniaturization
 miniaturize
@@ -47665,6 +47683,7 @@ overhunting
 overhuntings
 overhunts
 overhype
+overidealized
 overidealizes
 overidentified
 overidentifies
@@ -47757,6 +47776,7 @@ overmilked
 overmine
 overmined
 overmines
+overmix
 overmixed
 overmixing
 overmodest
@@ -48777,6 +48797,7 @@ paramyxovirus
 paramyxoviruses
 parang
 parangs
+paranoeas
 paranoiac
 paranoiacs
 paranoias
@@ -49918,6 +49939,7 @@ periodizations
 periodontally
 periodontists
 periodontology
+periods
 perionychia
 perionychium
 periosteal
@@ -51616,6 +51638,7 @@ plus
 plush
 plushily
 plushiness
+plushy
 plussage
 plutocracy
 plutocrat
@@ -60125,6 +60148,7 @@ sanctimonious
 sanction
 sanctionable
 sanctioning
+sanctuary
 sanctums
 sandable
 sandaling
@@ -61106,6 +61130,7 @@ scutches
 scute
 scutella
 scutellate
+scutellated
 scutiform
 scuts
 scuttering
@@ -61155,6 +61180,7 @@ seaports
 seaquake
 seaquakes
 searchable
+searcher
 searchers
 searches
 searchingly
@@ -64693,6 +64719,7 @@ sparklier
 sparkplug
 sparkplugged
 sparky
+sparling
 sparoid
 sparred
 sparriest
@@ -64792,6 +64819,7 @@ spectrum
 spectrums
 specula
 specular
+specularities
 speculates
 speculations
 speculative
@@ -66911,6 +66939,7 @@ subluxations
 submanager
 submanagers
 submandibular
+submandibulars
 submarined
 submarkets
 submaxillaries
@@ -68316,6 +68345,7 @@ synchronized
 synchronous
 synchronously
 synchs
+syncing
 syncom
 syncoms
 syncopal
@@ -74114,6 +74144,7 @@ unstitch
 unstitched
 unstoppable
 unstoppably
+unstopped
 unstopper
 unstoppered
 unstoppers
@@ -74370,6 +74401,7 @@ upgrade
 upgradeability
 upgradeable
 upgrades
+upgrowing
 upgrows
 upheap
 upheavals
@@ -74793,6 +74825,7 @@ valvula
 valvules
 vambraced
 vambraces
+vamoose
 vamoosed
 vamoosing
 vamose
@@ -76927,6 +76960,7 @@ wideout
 wider
 widespread
 widgeon
+widowbirds
 widowerhood
 widowerhoods
 widowers
@@ -78183,6 +78217,7 @@ zounds
 zowie
 zuz
 zwitterion
+zygapophysis
 zygomas
 zygomata
 zygomatics
