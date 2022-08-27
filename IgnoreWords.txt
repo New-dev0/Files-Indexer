@@ -3579,6 +3579,7 @@ artefact
 artefacts
 artels
 artemisia
+arterial
 arterials
 arteriogram
 arteriography
@@ -4198,6 +4199,7 @@ auditory
 audits
 augers
 aught
+aughts
 augite
 augitic
 augment
@@ -8776,6 +8778,7 @@ buttonballs
 buttonbush
 buttonbushes
 buttoner
+buttonhole
 buttonholed
 buttonholer
 buttonholers
@@ -9631,6 +9634,7 @@ carboxylic
 carboxyls
 carbuncles
 carbureted
+carburetor
 carburetted
 carburetters
 carburetting
@@ -9647,6 +9651,7 @@ carcases
 carcasses
 carcels
 carcinogen
+carcinogeneses
 carcinogenesis
 carcinogenic
 carcinogenicity
@@ -13698,6 +13703,7 @@ consistences
 consistency
 consistent
 consisting
+consistorial
 consociate
 consociating
 consociational
@@ -16217,6 +16223,7 @@ dado
 dadoed
 dadoes
 dados
+daedalian
 daemon
 daffed
 daffiest
@@ -21505,6 +21512,7 @@ emblemized
 emblems
 embodiments
 embody
+embolden
 embolectomies
 emboli
 embolies
@@ -22736,6 +22744,7 @@ errantries
 errata
 erratic
 erring
+erringly
 erroneous
 erroneousness
 erroneousnesses
@@ -25107,6 +25116,7 @@ firestorms
 firethorn
 firetrap
 firetraps
+firewood
 firewoods
 firing
 firings
@@ -25234,6 +25244,7 @@ flackeries
 flackery
 flacks
 flag
+flagellant
 flagellants
 flagellar
 flagellate
@@ -26243,6 +26254,7 @@ fornent
 fornicate
 fornicates
 fornicating
+fornication
 fornications
 fornix
 forrit
@@ -26582,6 +26594,7 @@ fretted
 fretters
 fretting
 fretwork
+friability
 friar
 friaries
 friarly
@@ -29548,6 +29561,7 @@ gunslinging
 gunwale
 gunwales
 guppies
+gurge
 gurged
 gurgle
 gurgles
@@ -31701,6 +31715,7 @@ hornswoggles
 horntail
 hornworm
 hornworts
+horologes
 horological
 horologists
 horology
@@ -33998,6 +34013,7 @@ ingathers
 ingeniousness
 ingenuous
 ingenuousnesses
+ingested
 ingestive
 ingests
 inglenooks
@@ -37282,6 +37298,7 @@ lapsable
 lapsers
 lapsible
 laptop
+laptops
 lapwings
 larcenies
 larcenous
@@ -37483,6 +37500,7 @@ lavendering
 laverock
 laverocks
 laving
+lavishing
 lavrock
 lawbook
 lawbooks
@@ -39339,6 +39357,7 @@ madrilene
 madronas
 madronos
 madtom
+maduro
 maduros
 madwoman
 madwomen
@@ -40636,6 +40655,7 @@ mensal
 mensas
 menschen
 mense
+menseful
 mensh
 menstruate
 menstruating
@@ -41198,6 +41218,7 @@ micturated
 micturitions
 mid
 midair
+midbrain
 midbrains
 midcult
 midden
@@ -42462,6 +42483,7 @@ monogrammed
 monogrammers
 monograms
 monograph
+monographic
 monographing
 monogyny
 monohybrid
@@ -43668,6 +43690,7 @@ naproxen
 naps
 narceine
 narcism
+narcissism
 narcissisms
 narcissist
 narcissists
@@ -44104,6 +44127,7 @@ neuroblastomata
 neurochemical
 neurochemists
 neurocoel
+neuroendocrine
 neurofibrillary
 neurohormonal
 neurohumor
@@ -48433,6 +48457,7 @@ pamphleteered
 pams
 panaceas
 panaches
+panama
 panatelas
 panatella
 panbroiled
@@ -56959,6 +56984,7 @@ rehearse
 rehearsed
 rehearsers
 rehearses
+rehearsing
 reheat
 reheated
 reheater
@@ -59901,6 +59927,7 @@ salinizations
 salinizing
 saliva
 salivary
+salivas
 salivates
 salivation
 salivator
@@ -63290,6 +63317,7 @@ slanguages
 slank
 slanted
 slanting
+slantingly
 slants
 slantways
 slanty
@@ -64114,6 +64142,7 @@ soilures
 soiree
 sojourners
 sojourns
+sokes
 sokol
 sol
 solace
@@ -64842,6 +64871,7 @@ spiegeleisens
 spiegels
 spiel
 spieled
+spier
 spiers
 spiffier
 spiffies
@@ -68008,6 +68038,7 @@ swifter
 swiftlets
 swiftness
 swig
+swigged
 swigging
 swillers
 swim
@@ -68417,6 +68448,7 @@ tacker
 tackers
 tackets
 tackier
+tackiest
 tackifies
 tackily
 tacking
@@ -69587,6 +69619,7 @@ theirselves
 theist
 theistic
 theistically
+theists
 thelitis
 thelitises
 thematics
@@ -73173,6 +73206,7 @@ undulated
 undulled
 undutiful
 undutifulnesses
+undyed
 undynamic
 uneagerly
 unearned
@@ -76042,6 +76076,7 @@ warbonnets
 warcraft
 warcrafts
 warded
+warden
 wardenries
 wardenry
 wardens
