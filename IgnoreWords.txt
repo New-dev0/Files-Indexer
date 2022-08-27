@@ -336,6 +336,7 @@ acetin
 acetone
 acetones
 acetonic
+acetophenetidin
 acetous
 acetoxyls
 acetum
@@ -397,6 +398,7 @@ acknowledgedly
 acknowledgment
 acknowledgments
 acned
+acnode
 acock
 acoelomate
 acoelomates
@@ -3620,6 +3622,7 @@ arthropathy
 arthropodan
 arthropods
 arthroscopes
+arthroscopies
 arthrosis
 artichoke
 artichokes
@@ -4012,6 +4015,7 @@ atactic
 ataghan
 ataghans
 atamans
+atamascos
 ataps
 ataractic
 ataractics
@@ -16391,6 +16395,7 @@ damageability
 damager
 damages
 damaging
+damagingly
 damans
 damar
 damars
@@ -22886,6 +22891,7 @@ erupted
 erupting
 eruption
 eruptive
+eruptives
 ervils
 eryngo
 eryngoes
@@ -23586,6 +23592,7 @@ exenterate
 exenterated
 exenterates
 exenterations
+exequatur
 exercise
 exerciser
 exercisers
@@ -24581,6 +24588,7 @@ featherhead
 featherheaded
 feathering
 feathers
+featherstitched
 featherstitches
 featherweight
 featherweights
@@ -27065,6 +27073,7 @@ funeral
 funerary
 funereally
 funest
+funfair
 funfairs
 funfest
 fungal
@@ -27250,6 +27259,7 @@ gadolinites
 gadoliniums
 gadroon
 gadrooned
+gadroonings
 gadroons
 gadwall
 gadwalls
@@ -33676,6 +33686,7 @@ inconstancies
 inconstancy
 inconstantly
 inconsumably
+incontestable
 incontestably
 incontinences
 incontinent
@@ -34416,6 +34427,7 @@ inquisitor
 inroads
 inrushing
 ins
+insalubrious
 insalubrities
 insalubrity
 insaneness
@@ -38381,6 +38393,7 @@ likening
 likers
 liking
 likings
+lilacs
 lilies
 lilliputian
 lilt
@@ -38726,6 +38739,7 @@ liverymen
 lives
 livestocks
 livetrap
+livetrapping
 lividly
 lividnesses
 livier
@@ -39992,6 +40006,7 @@ manmade
 manna
 manned
 mannequins
+mannered
 mannerism
 mannerist
 manneristic
@@ -41768,6 +41783,7 @@ minipills
 minis
 miniscule
 miniscules
+miniseries
 minished
 minishes
 miniski
@@ -42133,6 +42149,7 @@ miskeep
 misknew
 misknowledge
 misknown
+mislabel
 mislabeling
 mislabelling
 mislabels
@@ -43348,6 +43365,7 @@ mullahism
 mullen
 mullens
 mullers
+mullets
 mulligatawnies
 mulligatawny
 mulling
@@ -46063,6 +46081,7 @@ oculomotor
 oculus
 oda
 odahs
+odalisques
 oddball
 odder
 oddest
@@ -49892,6 +49911,7 @@ penmen
 pennames
 pennant
 penned
+penni
 pennia
 pennies
 penniless
@@ -51203,6 +51223,7 @@ pimentos
 pimped
 pimpernel
 pimping
+pimple
 pimples
 pimpliest
 pimply
@@ -52001,6 +52022,7 @@ poisers
 poises
 poisoned
 poisoner
+poisoners
 poisoning
 poisonous
 poisons
@@ -53919,6 +53941,7 @@ proettes
 profanation
 profanatory
 profane
+profaned
 profaneness
 profanenesses
 profaner
@@ -54303,6 +54326,7 @@ protases
 protea
 protean
 proteans
+proteas
 proteases
 protect
 protectants
@@ -57233,6 +57257,7 @@ regisseurs
 registerable
 registered
 registering
+registrable
 registrants
 registration
 registrations
@@ -58464,6 +58489,7 @@ restabled
 restabling
 restack
 restacked
+restacks
 restaffed
 restage
 restaged
@@ -58714,6 +58740,7 @@ retransmitted
 retransmitting
 retread
 retreaded
+retreads
 retreat
 retreated
 retreater
@@ -64493,6 +64520,7 @@ sofa
 sofabed
 sofabeds
 softback
+softbacks
 softball
 softballer
 softballers
@@ -72553,6 +72581,7 @@ tutors
 tutorship
 tutorships
 tutoyed
+tutoyer
 tutties
 tutting
 tutus
@@ -72605,6 +72634,7 @@ twerp
 twerps
 twibill
 twibills
+twiddler
 twiddlers
 twiddles
 twiddlier
@@ -73678,6 +73708,7 @@ unevaded
 unevener
 unevenly
 uneventful
+uneventfulness
 unevolved
 unexamined
 unexcelled
@@ -75033,6 +75064,7 @@ utterly
 utternesses
 utters
 uvarovite
+uvea
 uveitic
 uvula
 uvularly
@@ -76331,6 +76363,7 @@ wadders
 waddies
 wadding
 waddled
+waddler
 waddlers
 waddling
 waddying
@@ -77503,6 +77536,7 @@ winterberry
 winterer
 winterfeeding
 winterfeeds
+winterier
 wintering
 winterizations
 winterkill
@@ -78290,6 +78324,7 @@ yonis
 yonker
 yore
 youngberries
+younger
 youngest
 youngish
 youngling
