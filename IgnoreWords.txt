@@ -353,6 +353,7 @@ achiote
 achiral
 achlorhydria
 achondrite
+achondroplasia
 achondroplasias
 achromat
 achromatisms
@@ -497,6 +498,7 @@ actionable
 actionably
 actionless
 activating
+actively
 activism
 activistic
 activities
@@ -1056,6 +1058,7 @@ agentings
 agentival
 agentives
 agentries
+agents
 ageratums
 agers
 aggada
@@ -5238,6 +5241,7 @@ basenesses
 baseplates
 baserunning
 baserunnings
+bases
 basest
 bash
 bashaws
@@ -8665,6 +8669,7 @@ burnable
 burnables
 burned
 burner
+burnets
 burnies
 burnish
 burnisher
@@ -11829,6 +11834,7 @@ clarinets
 clarion
 clarioned
 clarionets
+clarions
 clarities
 clarkia
 claros
@@ -12863,6 +12869,7 @@ colorimeters
 colorimetric
 colorimetry
 colorism
+colorisms
 colorization
 colorizations
 colorize
@@ -14602,6 +14609,7 @@ cotransduces
 cotransduction
 cotransductions
 cotransfers
+cotransported
 cotransporting
 cottage
 cottager
@@ -23135,6 +23143,7 @@ eudiometrically
 eugenias
 eugenic
 eugenicist
+eugenicists
 eugenics
 eugenist
 eugeosyncline
@@ -25169,6 +25178,7 @@ firehall
 fireless
 fireman
 firemanic
+firemen
 firepan
 fireplace
 fireplug
@@ -28049,6 +28059,7 @@ gigot
 gigots
 gigue
 gigues
+gilbert
 gild
 gilded
 gildhall
@@ -28313,6 +28324,7 @@ glimpsing
 glims
 glint
 glintiest
+glioblastoma
 gliomata
 glissade
 glissader
@@ -28905,6 +28917,7 @@ grandfather
 grandfatherly
 grandfathers
 grandiloquently
+grandiose
 grandioseness
 grandiosity
 grandma
@@ -31570,6 +31583,7 @@ hommoses
 homocercal
 homoeroticism
 homogametic
+homogamies
 homogamous
 homogenates
 homogeneities
@@ -32678,6 +32692,7 @@ idealogue
 idealogy
 ideals
 ideas
+ideate
 ideates
 ideating
 ideative
@@ -34966,6 +34981,7 @@ intituled
 intitules
 intituling
 intolerableness
+intolerance
 intolerantly
 intolerantness
 intombing
@@ -38570,6 +38586,7 @@ litigate
 litigators
 litigiousness
 litmus
+litotic
 litres
 litten
 litterateur
@@ -39310,6 +39327,7 @@ lyophilizer
 lyophilizers
 lyophilizes
 lyophilizing
+lyrated
 lyrately
 lyre
 lyrebird
@@ -42548,6 +42566,7 @@ monitive
 monitored
 monitoring
 monitors
+monkery
 monkey
 monkeyish
 monkeypod
@@ -42764,6 +42783,7 @@ moonport
 moonquakes
 moons
 moonsail
+moonscapes
 moonseeds
 moonshine
 moonshined
@@ -42958,6 +42978,7 @@ mothering
 motherland
 motherlands
 motherlessness
+motherliness
 motherly
 mothers
 mothery
@@ -44261,6 +44282,7 @@ neurochemists
 neurocoel
 neuroendocrine
 neurofibrillary
+neurofibromas
 neurohormonal
 neurohumor
 neurohumoral
@@ -52924,6 +52946,7 @@ prediscovery
 predisposed
 prednisolone
 prednisolones
+predominancy
 predominates
 predominating
 predomination
@@ -54816,6 +54839,7 @@ pussyfoots
 pustulant
 pustulates
 pustulating
+pustulations
 putatively
 putoff
 putoffs
@@ -55076,6 +55100,7 @@ quantizer
 quantizers
 quantizes
 quantong
+quarantine
 quarantined
 quare
 quarks
@@ -56053,6 +56078,7 @@ reasonably
 reasoned
 reasonings
 reasonlessly
+reasons
 reassailing
 reassails
 reassemble
@@ -56063,6 +56089,7 @@ reassembly
 reasserted
 reassertions
 reassess
+reassessed
 reassesses
 reassessment
 reassessments
@@ -60856,6 +60883,7 @@ schmoes
 schmoos
 schmoose
 schmooses
+schmoozer
 schmoozers
 schmos
 schnauzer
@@ -61288,6 +61316,7 @@ seamster
 seamstress
 seances
 seapieces
+seaplanes
 seaports
 seaquake
 seaquakes
@@ -66568,6 +66597,7 @@ stretchy
 stretta
 streusel
 streusels
+strewed
 strewers
 strewing
 strewments
@@ -69196,6 +69226,7 @@ techies
 techiest
 technetium
 technetiums
+technetronic
 technical
 technicalize
 technicalizes
@@ -72943,6 +72974,7 @@ unburnt
 unbusted
 unbusy
 unbutton
+unbuttoned
 unbuttons
 uncage
 uncaging
@@ -74654,6 +74686,7 @@ upsweeping
 upsweeps
 upswelled
 upswells
+upswings
 upswung
 uptakes
 uptalked
@@ -75364,6 +75397,7 @@ verify
 verifying
 verily
 verisimilarly
+verisimilitude
 verisms
 verist
 verists
@@ -76934,6 +76968,7 @@ whipray
 whips
 whipsaw
 whipsawing
+whipsawn
 whipstitching
 whiptail
 whipworm
