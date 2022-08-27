@@ -252,6 +252,7 @@ accordions
 accosting
 accosts
 accountableness
+accountancies
 accountant
 accountants
 accounting
@@ -1674,6 +1675,7 @@ alpha
 alphabet
 alphabetically
 alphabeting
+alphabetization
 alphabetize
 alphabetized
 alphabetizers
@@ -5020,6 +5022,7 @@ bandstands
 bandwidth
 bandy
 bandying
+baneberries
 baneful
 banefully
 bang
@@ -11063,6 +11066,7 @@ chiaroscuro
 chiaroscuros
 chias
 chiasmas
+chiasmata
 chiasmatic
 chiasmic
 chiaus
@@ -11589,6 +11593,7 @@ cicisbei
 cicoree
 cicorees
 cider
+ciders
 cigar
 cigaret
 cigarettes
@@ -15319,6 +15324,7 @@ cricketed
 cricketer
 cricketers
 crickets
+crickey
 cricking
 cricoid
 cries
@@ -18468,6 +18474,7 @@ dichogamy
 dichondras
 dichotomies
 dichotomist
+dichotomized
 dichotomizes
 dichotomous
 dichotomously
@@ -18607,6 +18614,7 @@ digestives
 digestor
 digests
 diggings
+dights
 digital
 digitalin
 digitalins
@@ -19686,6 +19694,7 @@ divergence
 diverges
 diverging
 diversely
+diverseness
 diversenesses
 diversifiers
 diversifies
@@ -19848,6 +19857,7 @@ doggone
 doggoneder
 doggoner
 doggrel
+doggy
 dogie
 dogleg
 doglegged
@@ -21233,6 +21243,7 @@ eelpout
 eelworm
 eelworms
 eely
+eeriest
 eerily
 eerinesses
 effaceable
@@ -23907,6 +23918,7 @@ expulsed
 expulses
 expulsing
 expulsion
+expulsions
 expulsive
 expunctions
 expunge
@@ -24108,6 +24120,7 @@ eyepoints
 eyepoppers
 eyes
 eyeshine
+eyesights
 eyestalks
 eyestrain
 eyestrains
@@ -33056,6 +33069,7 @@ imid
 imidazoles
 imide
 imids
+imine
 imines
 imipramine
 imitable
@@ -37325,6 +37339,7 @@ laevo
 lag
 lagend
 lagered
+laggardly
 laggardness
 laggardnesses
 laggards
@@ -40713,6 +40728,7 @@ medievalist
 medievalists
 medievally
 medievals
+medigap
 medina
 medinas
 mediocre
@@ -42089,6 +42105,7 @@ misdefining
 misdemeanor
 misdescribing
 misdescriptions
+misdevelops
 misdiagnosed
 misdiagnoses
 misdiagnosis
@@ -42653,6 +42670,7 @@ molluscicidal
 molluscs
 molluskans
 molly
+mollycoddled
 mollycoddlers
 mollycoddles
 mols
@@ -46309,6 +46327,7 @@ oleanders
 oleaster
 olefine
 olefines
+olefinic
 oleic
 oleine
 oleins
@@ -47323,6 +47342,7 @@ outmasters
 outmatch
 outmatches
 outmode
+outmoded
 outmodes
 outmost
 outmoved
@@ -49238,6 +49258,7 @@ parlances
 parlando
 parlay
 parlays
+parle
 parled
 parles
 parleyed
@@ -52935,6 +52956,7 @@ praxeology
 praxes
 praxises
 pray
+prayed
 prayer
 prayerfulness
 prayers
@@ -53986,6 +54008,7 @@ prod
 prodders
 prodigal
 prodigalities
+prodigality
 prodigy
 prodromal
 prodromata
@@ -56057,6 +56080,7 @@ ratites
 ratlike
 ratlins
 ratoon
+ratooning
 ratoons
 ratos
 ratsbane
@@ -56617,6 +56641,7 @@ recomputes
 recon
 reconceived
 reconcentrate
+reconcentrated
 reconcentrates
 reconcentration
 reconceptions
@@ -58907,6 +58932,7 @@ revaluating
 revalue
 revaluing
 revamped
+revamper
 revampers
 revanches
 revarnish
@@ -59516,6 +59542,7 @@ roamers
 roan
 roans
 roar
+roared
 roarers
 roast
 roasted
@@ -63532,6 +63559,7 @@ situses
 six
 sixfold
 sixpence
+sixpenny
 sixteenmo
 sixteens
 sixteenth
@@ -64533,6 +64561,7 @@ soberest
 sobering
 soberness
 sobernesses
+sobers
 sobersided
 sobersidedness
 sobful
@@ -64993,6 +65022,7 @@ sourest
 sourly
 sournesses
 sourpusses
+sourwood
 sourwoods
 souters
 southbound
@@ -65628,6 +65658,7 @@ sporocarp
 sporocarps
 sporogeneses
 sporogenesis
+sporogenic
 sporogenous
 sporophores
 sporophyll
@@ -66838,6 +66869,7 @@ streetwise
 strength
 strengthen
 strengthener
+strengthening
 strengthens
 strenuosities
 strenuously
@@ -70499,6 +70531,7 @@ thudded
 thudding
 thug
 thuggery
+thuggish
 thuja
 thuliums
 thumbed
@@ -74729,6 +74762,7 @@ untwined
 untwist
 untwisted
 untwisting
+untypically
 ununbium
 unununium
 unurged
@@ -78467,6 +78501,7 @@ yuga
 yukkier
 yukky
 yuks
+yulan
 yules
 yuletide
 yuletides
