@@ -135,6 +135,7 @@ abusiveness
 abusivenesses
 abutment
 abuttal
+abuttals
 abutted
 abvolts
 abwatt
@@ -1600,6 +1601,7 @@ allowances
 allowancing
 allowed
 allowing
+alloxans
 alloy
 alloying
 alls
@@ -2058,6 +2060,7 @@ amyloid
 amyloidoses
 amyloidosis
 amyloids
+amylolytic
 amylopectin
 amyloplasts
 amylose
@@ -3696,6 +3699,7 @@ ascomycetous
 ascorbate
 ascorbates
 ascorbic
+ascosporic
 ascots
 ascribable
 ascribe
@@ -3761,6 +3765,7 @@ aspergilla
 asperity
 aspers
 asperses
+aspersions
 aspersive
 aspersors
 asphalt
@@ -3931,6 +3936,7 @@ asternal
 asteroid
 asteroids
 asthenia
+asthenics
 asthenosphere
 asthenospheres
 asthenospheric
@@ -4324,6 +4330,7 @@ autocatalyses
 autocatalytic
 autocephalies
 autochthonous
+autochthonously
 autocoid
 autocratically
 autocrine
@@ -9672,6 +9679,7 @@ carboxylate
 carboxylating
 carboxylic
 carboxyls
+carboyed
 carbuncles
 carbureted
 carburetor
@@ -13510,6 +13518,7 @@ confiding
 configuration
 configurations
 configurative
+configured
 configuring
 confine
 confined
@@ -18282,6 +18291,7 @@ diagnosis
 diagnostic
 diagnostically
 diagnostician
+diagnosticians
 diagnostics
 diagonalizable
 diagonalization
@@ -19326,6 +19336,7 @@ dispatchers
 dispel
 dispensaries
 dispensary
+dispensation
 dispensational
 dispensations
 dispensatory
@@ -26286,6 +26297,7 @@ forfeited
 forfeiting
 forfended
 forfends
+forgather
 forgathered
 forgathering
 forge
@@ -26996,6 +27008,7 @@ fumarase
 fumarate
 fumaric
 fumaroles
+fumbler
 fumeless
 fumer
 fumers
@@ -28689,6 +28702,7 @@ gollywog
 golosh
 goloshes
 gombeens
+gombo
 gombroons
 gomerel
 gomerils
@@ -29818,6 +29832,7 @@ habiliments
 habilitated
 habilitations
 habitabilities
+habitable
 habitablenesses
 habitably
 habitan
@@ -34743,6 +34758,7 @@ interfolds
 interfusing
 interfusions
 intergalactic
+intergang
 intergeneric
 interglacial
 intergrade
@@ -37114,6 +37130,7 @@ labiodental
 labiodentals
 labiovelar
 labiovelars
+labium
 labor
 laboratories
 laborious
@@ -38008,6 +38025,7 @@ leotards
 lepers
 lepidoptera
 lepidopteran
+lepidopterans
 lepidopterist
 lepidopterology
 lepidopterous
@@ -38220,6 +38238,7 @@ lichee
 lichened
 lichenin
 lichening
+lichenins
 lichenology
 lichenose
 lichenous
@@ -39280,6 +39299,7 @@ lupulins
 lurched
 lurches
 lurching
+lurdans
 lure
 lured
 lurers
@@ -43029,6 +43049,7 @@ mossinesses
 mossy
 mostest
 mostly
+mosts
 motet
 motets
 motherboard
@@ -43211,6 +43232,7 @@ mucin
 muck
 muckamucks
 muckier
+muckily
 mucking
 muckle
 mucklucks
@@ -46276,6 +46298,7 @@ onagers
 onanism
 onanistic
 onanists
+onboard
 once
 oncet
 oncidium
@@ -50502,6 +50525,7 @@ pharyngeal
 pharyngitides
 pharyngitis
 pharynx
+phaseouts
 phases
 phasmids
 phat
@@ -52755,6 +52779,7 @@ pragmatist
 pragmatistic
 pragmatists
 prairie
+prairies
 praiser
 praisers
 praiseworthily
@@ -57056,6 +57081,7 @@ reform
 reformate
 reformational
 reformations
+reformatted
 reformer
 reformisms
 reformist
@@ -61526,6 +61552,7 @@ securitizes
 security
 sedan
 sedate
+sedately
 sedateness
 sedates
 sedatest
@@ -63105,6 +63132,7 @@ signory
 signpost
 signposted
 signposts
+signs
 sike
 silage
 silane
@@ -64501,6 +64529,7 @@ solecists
 solecizing
 solei
 solely
+solemn
 solemner
 solemnify
 solemnity
@@ -66388,6 +66417,7 @@ stocky
 stockyard
 stodgier
 stodgily
+stodginess
 stodginesses
 stodging
 stogey
@@ -66703,6 +66733,7 @@ stricture
 strictures
 stridden
 stride
+striders
 stridor
 stridors
 stridulate
@@ -70201,6 +70232,7 @@ thoued
 thought
 thoughtfully
 thoughts
+thouing
 thousand
 thowless
 thraldom
@@ -74362,6 +74394,7 @@ unsonsie
 unsonsy
 unsophisticated
 unsorted
+unsought
 unsound
 unsounded
 unsounder
@@ -75346,6 +75379,7 @@ velamen
 velar
 velaria
 velarization
+velarizations
 velarized
 velarizing
 velate
@@ -77814,6 +77848,7 @@ worthlessly
 worths
 worthwhileness
 worthy
+wos
 wots
 wotting
 wouldest
