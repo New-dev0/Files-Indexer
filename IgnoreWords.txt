@@ -483,6 +483,7 @@ actinism
 actinium
 actiniums
 actinoid
+actinometric
 actinomorphies
 actinomorphy
 actinomyces
@@ -1234,6 +1235,7 @@ airflow
 airfoil
 airframes
 airfreight
+airfreighted
 airfreighting
 airiest
 airings
@@ -2881,6 +2883,7 @@ antiviruses
 antivitamins
 antivivisection
 antiwelfare
+antiwrinkle
 antler
 antlered
 antlions
@@ -3546,6 +3549,7 @@ arrearages
 arrears
 arrest
 arrestee
+arresters
 arresting
 arrestments
 arrests
@@ -4870,6 +4874,7 @@ baldrics
 bale
 balefire
 baleful
+balefulnesses
 baler
 balers
 balisaurs
@@ -8481,6 +8486,7 @@ bullhead
 bullheaded
 bullheadedly
 bullheadedness
+bullhorn
 bullhorns
 bullied
 bulling
@@ -10932,6 +10938,7 @@ chemos
 chemosorb
 chemosorbed
 chemosorbing
+chemosorbs
 chemostats
 chemosynthesis
 chemosynthetic
@@ -12643,6 +12650,7 @@ col
 cola
 colatitudes
 colby
+colcannons
 colchicines
 colcothars
 coldblood
@@ -23987,6 +23995,7 @@ fabulists
 fabulously
 fabulousness
 faceable
+facecloth
 facecloths
 faceless
 facelessnesses
@@ -25545,6 +25554,7 @@ flivvers
 floatages
 floatation
 floatels
+floaters
 floating
 floaty
 flocci
@@ -35337,6 +35347,7 @@ isocheim
 isocheims
 isochime
 isochimes
+isochor
 isochores
 isochrone
 isochronism
@@ -35394,6 +35405,7 @@ isomerous
 isometric
 isometry
 isomorphic
+isomorphous
 isomorphs
 isoniazid
 isooctane
@@ -37282,6 +37294,7 @@ lanknesses
 lanner
 lanners
 lanoline
+lanosities
 lantana
 lanthanides
 lanthanon
@@ -38648,6 +38661,7 @@ locomotions
 locomotives
 locomotor
 locomotors
+locomotory
 locos
 loculated
 locule
@@ -39167,6 +39181,7 @@ luteinized
 luteinizing
 luteins
 lutenists
+luteotrophin
 luteotrophins
 luteotropic
 lutes
@@ -41608,6 +41623,7 @@ mirages
 mirandize
 mire
 mirepoix
+mires
 mirex
 miri
 mirier
@@ -42167,6 +42183,7 @@ miticidal
 mitier
 mitiest
 mitigable
+mitigation
 mitigative
 mitigators
 mitigatory
@@ -43717,6 +43734,7 @@ narcissism
 narcissisms
 narcissist
 narcissists
+narcissus
 narcistic
 narcists
 narcoleptic
@@ -44165,6 +44183,7 @@ neurologies
 neurologist
 neuromas
 neuromast
+neuron
 neuronic
 neuropathically
 neurophysiology
@@ -45899,6 +45918,7 @@ officiaries
 officiary
 officiating
 officinal
+officinals
 offing
 offings
 offish
@@ -46379,6 +46399,7 @@ ordines
 ordnance
 ordnances
 ordo
+ordonnance
 ordonnances
 ordos
 ore
@@ -47029,6 +47050,7 @@ outpoll
 outpolled
 outpolls
 outpopulate
+outpopulates
 outpopulating
 outport
 outpost
@@ -47447,6 +47469,7 @@ overcompliances
 overcomplicated
 overcompresses
 overconcern
+overconfidence
 overconfident
 overconfidently
 overconsume
@@ -49020,6 +49043,7 @@ partygoers
 parura
 parures
 parvenue
+parvenues
 parvenus
 parvis
 parvolin
@@ -54668,6 +54692,7 @@ pussyfooters
 pussyfooting
 pussyfoots
 pustulant
+pustulates
 pustulating
 putatively
 putoff
@@ -54739,6 +54764,7 @@ pyrenes
 pyres
 pyrethrin
 pyrethrins
+pyrethrums
 pyrexes
 pyrexia
 pyrexial
@@ -58398,6 +58424,7 @@ retransmission
 retransmit
 retransmits
 retransmitted
+retransmitting
 retread
 retreaded
 retreat
@@ -61834,6 +61861,7 @@ service
 serviceable
 serviceably
 serviceberries
+servicemen
 services
 servicing
 servitudes
@@ -61899,6 +61927,7 @@ sewans
 sewed
 sewer
 sewerages
+sewerless
 sewerlike
 sewings
 sex
@@ -62828,6 +62857,7 @@ sike
 silage
 silane
 sild
+silds
 silence
 silences
 silencing
@@ -68378,6 +68408,7 @@ synthpop
 syntonic
 syntony
 synura
+sypher
 syphers
 syphilises
 syphilitic
@@ -69165,6 +69196,7 @@ telically
 teliospore
 telium
 tellable
+teller
 tellingly
 tells
 telltales
@@ -75162,6 +75194,7 @@ verification
 verifications
 verifiers
 verify
+verifying
 verily
 verisimilarly
 verisms
@@ -76854,6 +76887,7 @@ whosoever
 whump
 whumped
 whumping
+whumps
 whupped
 whups
 why
@@ -77795,6 +77829,7 @@ yerbas
 yerked
 yes
 yeshivahs
+yeshivas
 yeshivot
 yesses
 yessing
