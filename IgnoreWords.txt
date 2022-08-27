@@ -279,6 +279,7 @@ accumulatively
 accumulators
 accuracies
 accuracy
+accurate
 accurately
 accurateness
 accursed
@@ -2432,6 +2433,7 @@ annuitants
 annuity
 annularly
 annulation
+annulations
 annulet
 annulets
 annulment
@@ -6266,6 +6268,7 @@ bicomponent
 biconcavities
 biconditional
 biconditionals
+biconvex
 bicorne
 bicornes
 bicrons
@@ -13632,6 +13635,7 @@ conjunctivae
 conjunctive
 conjuncture
 conjurer
+conjurers
 conjuror
 conjurors
 conk
@@ -15098,6 +15102,7 @@ crazily
 craziness
 crazinesses
 crazing
+crazyweeds
 creaked
 creakiest
 creakinesses
@@ -16034,6 +16039,7 @@ cutty
 cutup
 cutups
 cutwork
+cutworm
 cuvette
 cuvettes
 cwms
@@ -16471,6 +16477,7 @@ darndest
 darneder
 darnedests
 darnel
+darnings
 dart
 dartboards
 darter
@@ -18848,6 +18855,7 @@ disaggregated
 disaggregative
 disagreeable
 disagreement
+disagreements
 disagrees
 disallowed
 disallowing
@@ -19781,6 +19789,7 @@ dogmatize
 dogmatizers
 dogmatizes
 dognap
+dognapers
 dognapped
 dognappers
 dogrobbers
@@ -21499,6 +21508,7 @@ emancipation
 emancipationist
 emancipators
 emasculate
+emasculating
 emasculations
 embalm
 embalming
@@ -26432,6 +26442,7 @@ foveolet
 fowling
 fowlpox
 fowls
+foxfire
 foxfish
 foxfishes
 foxgloves
@@ -28032,6 +28043,7 @@ gigglingly
 giggly
 giglet
 giglets
+giglots
 gigolos
 gigot
 gigots
@@ -28047,6 +28059,7 @@ gillers
 gillies
 gilling
 gillnet
+gilly
 gilt
 gilts
 gimbal
@@ -28273,6 +28286,7 @@ gleetiest
 gleeting
 glegnesses
 gleization
+gleizations
 glengarries
 glengarry
 gley
@@ -30017,6 +30031,7 @@ hamulate
 hamulous
 hamzahs
 hanaper
+hance
 hand
 handax
 handaxes
@@ -30536,6 +30551,7 @@ heartens
 heartfelt
 heartfree
 hearths
+hearthstone
 hearties
 heartiest
 heartiness
@@ -34234,6 +34250,7 @@ inmeshes
 innards
 innateness
 innermost
+innermosts
 inners
 innersoles
 innervated
@@ -38528,6 +38545,7 @@ lithemia
 lithenesses
 lither
 lithia
+lithias
 lithic
 lithified
 lithifies
@@ -40975,6 +40993,7 @@ metalled
 metallic
 metallics
 metalliferous
+metalling
 metallists
 metallizes
 metallizing
@@ -42333,6 +42352,7 @@ modem
 moderately
 moderateness
 moderating
+moderation
 moderator
 moderators
 moderatorship
@@ -44485,6 +44505,7 @@ ninny
 ninnyhammers
 ninon
 ninons
+niobic
 niobite
 niobium
 niobiums
@@ -46823,6 +46844,7 @@ outbitch
 outbitches
 outbleats
 outbless
+outbloomed
 outblooming
 outblooms
 outbluff
@@ -47507,6 +47529,7 @@ overcalling
 overcalls
 overcame
 overcapacity
+overcapitalized
 overcasted
 overcasting
 overcasts
@@ -48871,6 +48894,7 @@ paraph
 paraphrasable
 paraphrase
 paraphraser
+paraphrasing
 paraphs
 paraplegic
 paraplegics
@@ -50269,6 +50293,7 @@ petcocks
 petechia
 petechial
 petering
+petioles
 petit
 petiteness
 petitioners
@@ -50839,6 +50864,7 @@ picarooning
 picaroons
 picaros
 picayune
+picayunes
 picayunish
 piccolo
 piccoloists
@@ -51395,6 +51421,7 @@ plankton
 planlessness
 planlessnesses
 planned
+planner
 planosol
 plans
 plantable
@@ -54764,6 +54791,7 @@ purvey
 purveyances
 purveys
 push
+pushball
 pushcarts
 pushchairs
 pushdowns
@@ -54817,6 +54845,7 @@ puttyroots
 puzzledly
 puzzlements
 puzzler
+puzzlingly
 pyaemia
 pyaemias
 pyaemic
@@ -59361,6 +59390,7 @@ romantics
 romeo
 romeos
 romped
+romper
 rompish
 romps
 roms
@@ -63486,6 +63516,7 @@ slank
 slanted
 slanting
 slantingly
+slantly
 slants
 slantways
 slanty
@@ -63504,6 +63535,7 @@ slate
 slated
 slatelike
 slaters
+slathering
 slatier
 slatiest
 slatiness
@@ -64867,6 +64899,7 @@ specialities
 specialization
 specializes
 specially
+specialnesses
 specialty
 speciates
 species
@@ -68549,6 +68582,7 @@ sysadmin
 sysadmins
 sysop
 system
+systematic
 systematics
 systematism
 systematists
@@ -74206,6 +74240,7 @@ unsoundness
 unsoundnesses
 unsoured
 unsown
+unsparingly
 unspeak
 unspeakably
 unspeaking
