@@ -535,6 +535,7 @@ acuities
 aculeate
 aculeated
 acuminates
+acuminous
 acupressure
 acupressures
 acupunctures
@@ -576,6 +577,7 @@ addendums
 addicting
 adding
 additionally
+additives
 addle
 addlepated
 addles
@@ -1514,6 +1516,7 @@ alkoxy
 alkyd
 alkyds
 alkyl
+alkylated
 alkylating
 alkylation
 alkyls
@@ -3959,6 +3962,7 @@ asterism
 asterisms
 asternal
 asteroid
+asteroidal
 asteroids
 asthenia
 asthenics
@@ -4084,6 +4088,7 @@ atilt
 atlantes
 atlatl
 atmas
+atmosphere
 atmosphered
 atmospheric
 atmospherically
@@ -8268,6 +8273,7 @@ bromelains
 bromeliad
 bromelin
 bromes
+bromide
 brominated
 bromination
 brominations
@@ -9008,6 +9014,7 @@ cabob
 cabobs
 cabochons
 cabotage
+cabresto
 cabrestos
 cabrillas
 cabriole
@@ -10198,6 +10205,7 @@ catenating
 catenoid
 catenoids
 cater
+caterans
 catercorner
 catered
 caterer
@@ -11103,6 +11111,7 @@ chevalet
 chevalets
 chevaliers
 chevelures
+cheverons
 chevies
 cheviot
 chevre
@@ -11324,6 +11333,7 @@ chivalrous
 chivalrously
 chivareed
 chivareeing
+chivarees
 chivari
 chivariing
 chivvy
@@ -17226,6 +17236,7 @@ defensive
 defensiveness
 defer
 deference
+deferences
 deferentially
 deferents
 deferrable
@@ -17551,6 +17562,7 @@ demagoguing
 demandable
 demandant
 demander
+demanders
 demandingness
 demantoids
 demarcate
@@ -20042,6 +20054,7 @@ domelike
 domes
 domesday
 domestic
+domesticates
 domestications
 domesticity
 domestics
@@ -20982,6 +20995,7 @@ dybbukim
 dye
 dyeability
 dyeable
+dyeing
 dyer
 dying
 dyked
@@ -21386,6 +21400,7 @@ effloresced
 efflorescence
 efflorescences
 efflorescent
+effluence
 effluences
 effluents
 effluvia
@@ -22138,6 +22153,7 @@ endlessness
 endlessnesses
 endnote
 endobiotic
+endocardia
 endocardial
 endocarditises
 endocarps
@@ -23806,6 +23822,7 @@ exhilarated
 exhilarates
 exhilarating
 exhilarative
+exhort
 exhortations
 exhortative
 exhorted
@@ -29754,6 +29771,7 @@ guaranies
 guaranis
 guarantee
 guaranty
+guarantying
 guarddog
 guarded
 guardedly
@@ -32524,6 +32542,7 @@ huskinesses
 husking
 huskings
 husklike
+husks
 husky
 hussar
 hustle
@@ -34472,6 +34491,7 @@ ingressive
 ingroup
 ingroups
 ingrownness
+ingrowth
 ingrowths
 inguinal
 ingulf
@@ -35653,6 +35673,7 @@ ironlike
 ironman
 ironmen
 ironmongers
+ironware
 ironweed
 ironwomen
 ironwoods
@@ -36583,6 +36604,7 @@ juvenal
 juvenescent
 juveniles
 juvenility
+juxtapose
 juxtaposing
 kabab
 kababs
@@ -38149,6 +38171,7 @@ lecturing
 lecythus
 led
 lederhosen
+ledge
 ledger
 ledgier
 ledgiest
@@ -39299,6 +39322,7 @@ loonily
 looninesses
 loons
 loony
+loop
 loopholed
 loopinesses
 looping
@@ -45868,6 +45892,7 @@ notional
 notionalities
 notionality
 notochordal
+notorieties
 notoriety
 notwithstanding
 nought
@@ -45875,6 +45900,7 @@ noughts
 noumenon
 nounal
 nounless
+nourisher
 nourishing
 nourishment
 nouvelle
@@ -47929,6 +47955,7 @@ ovalbumins
 ovality
 ovalness
 ovals
+ovarian
 ovariectomies
 ovariectomy
 ovariole
@@ -48421,6 +48448,7 @@ overprogrammed
 overpromise
 overpromised
 overpromising
+overpromoted
 overprotect
 overprotected
 overpumps
@@ -49370,6 +49398,7 @@ paramagnet
 paramagnetic
 paramattas
 paramecia
+parameciums
 paramedical
 parament
 paraments
@@ -53009,6 +53038,7 @@ postponed
 postponement
 postponements
 postponer
+postpones
 postpose
 postposed
 postposes
@@ -56212,6 +56242,7 @@ rampart
 ramped
 rampikes
 rampion
+rampole
 ramrodding
 rams
 ramshorn
@@ -57597,6 +57628,7 @@ refrigerants
 refrigerates
 refrigerating
 refrigeration
+refront
 refroze
 reft
 refuels
@@ -59689,6 +59721,7 @@ rightnesses
 rights
 rightsizing
 righty
+rigid
 rigidification
 rigidities
 rigidity
@@ -61753,6 +61786,7 @@ screenlands
 screenplays
 screenwriters
 screes
+screwball
 screwdriver
 screwers
 screwiest
@@ -65092,6 +65126,7 @@ solicitously
 solicitousness
 solicits
 solicitude
+solidago
 solidarisms
 solidarist
 solidaristic
@@ -65445,6 +65480,7 @@ spacewalking
 spacewalks
 spaceward
 spacially
+spacier
 spaciest
 spaciously
 spaciousness
@@ -68762,6 +68798,7 @@ survey
 surveying
 surveyor
 survival
+survivals
 survivers
 survivorship
 susceptibility
@@ -71270,6 +71307,7 @@ titman
 titmen
 titmice
 titrates
+titrating
 titration
 titrations
 titrator
@@ -71671,6 +71709,7 @@ totems
 totipotent
 totted
 tottered
+totterers
 tottering
 tottery
 toucan
@@ -74017,6 +74056,7 @@ underlaid
 underlap
 underlapped
 underlay
+underlayments
 underlays
 underlets
 underlie
@@ -75422,6 +75462,7 @@ uptakes
 uptalked
 uptalks
 uptear
+uptearing
 uptempos
 upthrust
 upthrusted
