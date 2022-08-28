@@ -218,6 +218,7 @@ acclamation
 acclamations
 acclimated
 acclimates
+acclimations
 acclimatise
 acclimatised
 acclimatises
@@ -5015,6 +5016,7 @@ bandoliers
 bandoneon
 bandoneons
 bandora
+bandoras
 bandores
 bands
 bandsaws
@@ -6627,6 +6629,7 @@ birdbrained
 birdcage
 birdcages
 birddogged
+birddogging
 birded
 birder
 birders
@@ -12228,6 +12231,7 @@ clumped
 clumpier
 clumping
 clumpish
+clumplike
 clumsier
 clumsiest
 clumsiness
@@ -12318,6 +12322,7 @@ coassumes
 coast
 coastal
 coastally
+coastguards
 coastguardsmen
 coastings
 coastline
@@ -15445,6 +15450,7 @@ crojik
 crojiks
 cromlech
 crone
+cronyisms
 crook
 crooked
 crookedest
@@ -19513,6 +19519,7 @@ disseized
 disseizes
 disseizins
 dissembles
+disseminate
 disseminated
 disseminator
 disseminators
@@ -22395,6 +22402,7 @@ enterotoxin
 enterotoxins
 enteroviral
 enterprising
+entertaining
 entertains
 enthalpies
 enthalpy
@@ -25285,6 +25293,7 @@ firebrand
 firebreak
 firebreaks
 firebrick
+firebugs
 fireclay
 fireclays
 firecrackers
@@ -29476,6 +29485,7 @@ grotesquenesses
 grottier
 grotto
 grotty
+grouch
 grouchier
 grouchiest
 ground
@@ -33134,6 +33144,7 @@ immigrant
 immigrates
 immigration
 immigrations
+imminencies
 imminently
 immingles
 immiscible
@@ -33336,6 +33347,7 @@ impetuosity
 impetuous
 impetuousness
 impetus
+imphee
 imphees
 imping
 impingement
@@ -36223,6 +36235,7 @@ journaling
 journalist
 journalize
 journalizes
+journalizing
 journeyed
 journeyers
 journeymen
@@ -37690,6 +37703,7 @@ latencies
 lateness
 latens
 latent
+latently
 later
 laterad
 lateral
@@ -38103,6 +38117,7 @@ lends
 length
 lengthen
 lengthener
+lengthening
 lengthens
 lengthier
 lengthiest
@@ -38735,6 +38750,7 @@ literalize
 literalized
 literalizes
 literalizing
+literalness
 literariness
 literarinesses
 literately
@@ -42866,6 +42882,7 @@ monomaniacs
 monomanias
 monomer
 monomeric
+monomers
 monometallic
 monometallist
 monometer
@@ -43759,6 +43776,7 @@ mustelid
 mustelids
 muster
 mustering
+musters
 mustier
 mustily
 mustiness
@@ -45065,6 +45083,7 @@ noncrisis
 noncritical
 noncrossover
 noncrushable
+noncultivated
 noncultivation
 noncustodial
 nondairy
@@ -47741,6 +47760,7 @@ overate
 overattentions
 overawes
 overawing
+overbake
 overbalanced
 overbearing
 overbearingly
@@ -48094,6 +48114,7 @@ overloaded
 overloads
 overlooking
 overlorded
+overlording
 overlords
 overlordship
 overloved
@@ -48724,6 +48745,7 @@ palavers
 palazzos
 pale
 paleae
+paleate
 paleface
 palefaces
 paleness
@@ -51857,6 +51879,7 @@ plebeianly
 plebiscites
 plebs
 plecopterans
+plectrum
 pled
 pledgers
 pledges
@@ -52147,6 +52170,7 @@ pokeberry
 poked
 pokeweeds
 pokeys
+pokier
 pokiest
 pokily
 pokinesses
@@ -54505,6 +54529,7 @@ protonematal
 protons
 protopathic
 protophloems
+protoplanet
 protoplast
 protoplasts
 protopods
@@ -55077,6 +55102,7 @@ pursuer
 pursues
 pursuits
 pursuivants
+pursy
 purtenances
 purulence
 purulences
@@ -59188,6 +59214,7 @@ rheumatisms
 rheumatiz
 rheumatoid
 rheumatologist
+rheumatology
 rheumier
 rheumiest
 rheumy
@@ -63253,6 +63280,7 @@ siestas
 sieur
 sieved
 sievert
+sieverts
 sieves
 sifakas
 sifted
@@ -63399,6 +63427,7 @@ silvan
 silvans
 silvas
 silverberry
+silverer
 silverfishes
 silverinesses
 silverly
@@ -68427,6 +68456,7 @@ survival
 survivers
 survivorship
 susceptibility
+susceptible
 susceptibleness
 susceptibly
 susceptiveness
@@ -69118,6 +69148,7 @@ tailwater
 tailwaters
 tailwinds
 tains
+taint
 takable
 takahe
 takahes
@@ -70173,6 +70204,7 @@ thankworthy
 that
 thataway
 thatcher
+thatchers
 thatchiest
 thatching
 thaumaturge
@@ -72064,6 +72096,7 @@ triggermen
 trigly
 triglycerides
 triglyph
+triglyphical
 trignesses
 trigonometries
 trigos
@@ -77004,6 +77037,7 @@ wear
 wearable
 wearers
 wearifully
+wearilessly
 wearinesses
 wearingly
 wearish
@@ -78601,6 +78635,7 @@ zeatins
 zebec
 zebrafishes
 zebrano
+zebranos
 zebras
 zebrasses
 zebrawood
