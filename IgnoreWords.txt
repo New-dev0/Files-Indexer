@@ -664,6 +664,7 @@ adjuror
 adjustable
 adjusted
 adjustive
+adjustmental
 adjutant
 adjutants
 adjuvant
@@ -1010,6 +1011,7 @@ afterdeck
 afterdecks
 afterglow
 afterglows
+afterimage
 afterlife
 afterlives
 aftermarkets
@@ -4288,6 +4290,7 @@ auricle
 auricled
 auricula
 auriculate
+auris
 aurist
 aurochs
 aurorae
@@ -4396,6 +4399,7 @@ autolyzing
 automaker
 automan
 automat
+automatable
 automatic
 automatically
 automaticities
@@ -5683,6 +5687,7 @@ bedticks
 bedtime
 beduin
 bedumbed
+bedunce
 beduncing
 bedward
 bedwarf
@@ -8125,6 +8130,7 @@ brigades
 brigadier
 brigadiers
 brigading
+brigand
 brigandage
 brigandines
 brigands
@@ -9073,6 +9079,7 @@ caesar
 caesarian
 caesarians
 caesarisms
+caesars
 caespitose
 caestus
 caesura
@@ -9422,6 +9429,7 @@ candlesticks
 candlewood
 candlewoods
 candours
+candy
 candyfloss
 candytuft
 cane
@@ -9799,6 +9807,7 @@ careens
 career
 careering
 careerism
+careerist
 careerists
 careers
 careful
@@ -13386,6 +13395,7 @@ concatenate
 concatenation
 concave
 concavely
+concaving
 concavities
 conceal
 concealers
@@ -15508,6 +15518,7 @@ crossbandings
 crossbarred
 crossbarring
 crossbars
+crossbeams
 crossbill
 crossbills
 crossbones
@@ -17896,6 +17907,7 @@ derats
 deray
 derays
 deregulates
+dereliction
 derelicts
 derepresses
 derepression
@@ -19095,6 +19107,7 @@ disclimax
 disclosed
 discloses
 disclosures
+disco
 discographer
 discographers
 discographic
@@ -21525,6 +21538,7 @@ electrometer
 electromyogram
 electronic
 electronics
+electrophile
 electrophorese
 electroplate
 electroplated
@@ -23747,6 +23761,7 @@ exhilarating
 exhilarative
 exhortations
 exhortative
+exhorted
 exhorting
 exhorts
 exhumed
@@ -23941,6 +23956,7 @@ explosiveness
 expo
 exponent
 exponential
+exponentiations
 exponents
 exportability
 exportable
@@ -24381,6 +24397,7 @@ fallals
 fallbacks
 faller
 fallers
+fallibilities
 fallible
 fallibly
 falloff
@@ -27427,6 +27444,7 @@ galactosemia
 galactosemic
 galactoside
 galactosides
+galagos
 galangal
 galangas
 galantine
@@ -30613,6 +30631,7 @@ havdalah
 have
 havelocks
 haven
+havened
 havens
 havered
 haverels
@@ -31607,6 +31626,7 @@ hodad
 hodden
 hoddens
 hoddin
+hodgepodge
 hodgepodges
 hodoscopes
 hods
@@ -33503,6 +33523,7 @@ impowering
 impracticably
 impractical
 impracticality
+impractically
 imprecated
 imprecates
 imprecating
@@ -34592,6 +34613,7 @@ inscribing
 inscriptional
 inscriptively
 inscroll
+inscrolled
 inscrutable
 insculp
 insculped
@@ -41174,6 +41196,7 @@ meristically
 merited
 meritless
 meritocracies
+meritocrat
 meritocrats
 meritoriousness
 merk
@@ -47634,6 +47657,7 @@ outshooting
 outshoots
 outshout
 outshouting
+outshouts
 outsider
 outsidernesses
 outsin
@@ -48102,6 +48126,7 @@ overgilds
 overglamorize
 overglamorizing
 overglaze
+overglazed
 overgoad
 overgoads
 overgovern
@@ -49889,6 +49914,7 @@ peaveys
 peavies
 peavy
 pebbling
+pecan
 peccadilloes
 peccadillos
 peccant
@@ -51308,6 +51334,7 @@ picornavirus
 picot
 picoted
 picoting
+picowaves
 picquet
 picrated
 picrates
@@ -53823,6 +53850,7 @@ pretensionless
 pretensions
 preterite
 preterits
+preterminal
 pretermination
 preterminations
 pretermission
@@ -60528,6 +60556,7 @@ saintdom
 saintdoms
 sainted
 sainting
+saintlier
 saintliest
 saintlike
 saintlinesses
@@ -65324,6 +65353,7 @@ spare
 spareable
 spared
 sparerib
+sparers
 spares
 sparge
 spargers
@@ -65511,6 +65541,7 @@ spermagonia
 spermaries
 spermary
 spermatic
+spermatocytes
 spermatogeneses
 spermatogenic
 spermatophore
@@ -68851,6 +68882,7 @@ swooshing
 swopping
 swordfishes
 swordmen
+swordplayer
 swordtails
 swore
 swots
@@ -70504,6 +70536,7 @@ thickest
 thicket
 thickets
 thickhead
+thickheaded
 thickish
 thicknesses
 thicks
@@ -74763,6 +74796,7 @@ unsighting
 unsights
 unskilful
 unskilled
+unskillfulness
 unslakable
 unslick
 unslings
@@ -75963,6 +75997,7 @@ vernalizations
 vernalizes
 vernalizing
 vernicles
+vernier
 vernissage
 vernix
 veronicas
