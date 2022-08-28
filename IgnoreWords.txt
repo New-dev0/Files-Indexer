@@ -177,6 +177,7 @@ accedences
 acceding
 accelerando
 accelerates
+accelerating
 accelerative
 accelerators
 accenting
@@ -381,6 +382,7 @@ acidnesses
 acidophil
 acidophils
 acidosis
+acidotic
 acids
 acidulated
 acidulates
@@ -5773,6 +5775,7 @@ begging
 begin
 beginning
 begirded
+begirdling
 begirds
 begirt
 beglad
@@ -6133,6 +6136,7 @@ besnowed
 besnowing
 besnows
 besom
+besoothe
 besoothed
 besoothing
 besot
@@ -7993,6 +7997,7 @@ breadstuff
 breadstuffs
 breadthwise
 breadwinning
+break
 breakables
 breakages
 breaker
@@ -15447,6 +15452,7 @@ crocheters
 croci
 crocidolite
 crocine
+crocked
 crockeries
 crockery
 crocketed
@@ -19534,6 +19540,7 @@ dissects
 dissed
 disseise
 disseisee
+disseising
 disseize
 disseized
 disseizes
@@ -21831,6 +21838,7 @@ emotionalize
 emotionally
 emotionless
 emotionlessness
+emotive
 emotivity
 empale
 empalers
@@ -25131,6 +25139,7 @@ figurer
 figurine
 figwort
 fil
+filagree
 filagrees
 filamentous
 filarees
@@ -25740,6 +25749,7 @@ flimsies
 flimsily
 flimsinesses
 flimsy
+flinching
 fling
 flinging
 flinkites
@@ -28063,6 +28073,7 @@ gerah
 gerahs
 geranial
 geranials
+geraniols
 geranium
 geraniums
 gerardia
@@ -30058,6 +30069,7 @@ haggle
 haggled
 hagglers
 haggles
+hagiarchy
 hagiographers
 hagiographical
 hagiologic
@@ -31031,6 +31043,7 @@ hemolyzing
 hemophiliac
 hemophiliacs
 hemopoieses
+hemopoiesis
 hemorrhages
 hemorrhaging
 hemorrhoid
@@ -31536,6 +31549,7 @@ hoariness
 hoars
 hoarse
 hoarsened
+hoarsenesses
 hoarsening
 hoarsens
 hoarsest
@@ -34733,6 +34747,7 @@ insulin
 insulter
 insultingly
 insupportable
+insuppressible
 insurabilities
 insurability
 insurances
@@ -35850,6 +35865,7 @@ jackscrew
 jackstays
 jackstone
 jackstraw
+jacky
 jacobin
 jacobus
 jacobuses
@@ -36014,6 +36030,7 @@ jeers
 jees
 jefe
 jehad
+jehads
 jehus
 jejuna
 jejuneness
@@ -37893,6 +37910,7 @@ lazarette
 lazarettes
 lazars
 lazied
+lazier
 lazily
 laziness
 lazulite
@@ -39129,6 +39147,7 @@ longly
 longship
 longshoremen
 longshoring
+longsomeness
 longueur
 longways
 looby
@@ -39552,6 +39571,7 @@ lymphadenitises
 lymphangiograms
 lymphatics
 lymphoblast
+lymphocyte
 lymphocytic
 lymphocytosis
 lymphographic
@@ -42217,6 +42237,7 @@ misenrolls
 miser
 miserableness
 misericords
+miserly
 misesteem
 misesteemed
 misesteeming
@@ -47021,6 +47042,7 @@ ossa
 ossatures
 osseous
 ossetra
+ossia
 ossicular
 ossific
 ossification
@@ -47941,6 +47963,7 @@ overdiscounted
 overdocumented
 overdocuments
 overdoes
+overdog
 overdominances
 overdominant
 overdone
@@ -49519,6 +49542,7 @@ passementerie
 passer
 passerine
 passerines
+passersby
 passes
 passingly
 passional
@@ -57154,6 +57178,7 @@ reelings
 reels
 reembark
 reembarked
+reembarking
 reembody
 reembrace
 reembraces
@@ -58923,6 +58948,7 @@ retook
 retool
 retore
 retorn
+retorsion
 retorsions
 retort
 retortions
@@ -62626,6 +62652,7 @@ shamefulness
 shamefulnesses
 shamelessnesses
 shamisen
+shamisens
 shammed
 shammers
 shammes
@@ -64461,6 +64488,7 @@ snarl
 snarler
 snarlers
 snarliest
+snarls
 snatched
 snatcher
 snatches
@@ -64506,6 +64534,7 @@ snidest
 sniffed
 sniffer
 sniffier
+sniffiness
 sniffinesses
 sniffish
 sniffishly
@@ -64854,6 +64883,7 @@ solicits
 solicitude
 solidarisms
 solidarist
+solidaristic
 solidarists
 solider
 solidi
@@ -68888,6 +68918,7 @@ symposiarchs
 symposiasts
 symposium
 symptom
+symptomatic
 symptomatically
 symptomatologic
 symptomless
@@ -73041,6 +73072,7 @@ tyrocidins
 tyronic
 tyrosine
 tyrosines
+tyrothricins
 tythe
 tythes
 tzardoms
@@ -75696,6 +75728,7 @@ veiled
 veiler
 veilers
 veiling
+vein
 veiner
 veiners
 veinier
@@ -75750,6 +75783,7 @@ vendues
 veneered
 veneerings
 veneers
+venenates
 venenes
 venerableness
 venerablenesses
@@ -77782,6 +77816,7 @@ winglets
 wingman
 wingmen
 wingspan
+wingspans
 wingtip
 wingtips
 wining
