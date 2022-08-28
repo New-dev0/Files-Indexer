@@ -1547,6 +1547,7 @@ allelopathies
 allergen
 allergenic
 allergenicity
+allergens
 allergic
 allergin
 allergins
@@ -12817,6 +12818,7 @@ coleorhiza
 coles
 colessor
 coleus
+coleuses
 colewort
 coleworts
 colicines
@@ -15510,6 +15512,7 @@ cromlech
 crone
 cronyisms
 crook
+crookback
 crooked
 crookedest
 crookednesses
@@ -22013,6 +22016,7 @@ encashed
 encashment
 encashments
 encasing
+encaustic
 encaustics
 encephalitides
 encephalitogen
@@ -22153,6 +22157,7 @@ endogenic
 endogenies
 endogenous
 endogenously
+endogens
 endogeny
 endometrial
 endometritis
@@ -22513,6 +22518,7 @@ enticed
 enticement
 enticer
 enticers
+enticing
 enticingly
 entirely
 entireness
@@ -26101,6 +26107,7 @@ flyleaf
 flyless
 flyoff
 flyoffs
+flyover
 flyovers
 flypapers
 flyrodders
@@ -26148,6 +26155,7 @@ foetuses
 fogbound
 fogdog
 fogdogs
+fogey
 fogeyish
 fogeyisms
 fogeys
@@ -30333,6 +30341,7 @@ handbasket
 handbaskets
 handbill
 handbreadths
+handcar
 handcart
 handclaps
 handcrafting
@@ -31012,6 +31021,7 @@ helium
 hellacious
 hellbender
 hellbenders
+hellbent
 hellbox
 hellboxes
 helldivers
@@ -31363,6 +31373,7 @@ heterosis
 heterotopic
 heterotroph
 heterotrophic
+heterotrophs
 heterozygoses
 heterozygosis
 heterozygosity
@@ -40229,6 +40240,7 @@ mangling
 mango
 mangoes
 mangold
+mangonel
 mangonels
 mangosteen
 mangy
@@ -41087,6 +41099,7 @@ mellowness
 melodeon
 melodias
 melodic
+melodica
 melodicas
 melodiously
 melodiousnesses
@@ -42049,6 +42062,7 @@ minicomputer
 minicourse
 minidisc
 minified
+minifies
 minifying
 minikin
 minilab
@@ -42326,6 +42340,7 @@ misdiagnosed
 misdiagnoses
 misdiagnosis
 misdid
+misdirection
 misdirections
 misdirects
 misdivide
@@ -47410,6 +47425,7 @@ outdesigned
 outdistances
 outdistancing
 outdodge
+outdodges
 outdoer
 outdoers
 outdoes
@@ -52477,6 +52493,7 @@ pollenated
 pollenates
 pollenating
 pollenizers
+pollenoses
 pollenosis
 pollens
 poller
@@ -52578,6 +52595,7 @@ polymathy
 polymer
 polymerases
 polymeric
+polymerisation
 polymerises
 polymerising
 polymerized
@@ -55476,6 +55494,7 @@ pyrolysis
 pyrolyzable
 pyrolyzates
 pyrolyze
+pyrolyzer
 pyrolyzers
 pyrolyzing
 pyromancies
@@ -55747,6 +55766,7 @@ queue
 queueing
 queuer
 queues
+quey
 quezales
 quibblers
 quibbling
@@ -56520,6 +56540,7 @@ readopts
 readorning
 readouts
 ready
+readying
 reaffirm
 reaffirmations
 reaffirming
@@ -57969,6 +57990,7 @@ relaxing
 relays
 relearn
 relearned
+relearnt
 releasable
 releasers
 releasing
@@ -58490,6 +58512,7 @@ reproaching
 reproachingly
 reprobating
 reprobations
+reprobatory
 reprobe
 reprobed
 reprobes
@@ -59075,6 +59098,7 @@ reticulate
 reticulately
 reticulates
 reticulation
+reticulocyte
 reticulum
 reticulums
 retie
@@ -59125,6 +59149,7 @@ retouch
 retouching
 retraced
 retracer
+retracing
 retracks
 retractable
 retractile
@@ -60229,6 +60254,7 @@ rowdiest
 rowdily
 rowdinesses
 rowdyism
+rowed
 roweling
 rowelled
 rowels
@@ -61376,6 +61402,7 @@ scattergram
 scattergrams
 scattergun
 scatterguns
+scattering
 scattershot
 scaup
 scaups
@@ -62892,6 +62919,7 @@ sharkskin
 sharkskins
 sharn
 sharns
+sharper
 sharpers
 sharpest
 sharpie
@@ -64982,6 +65010,7 @@ softheadedness
 softheads
 softies
 softish
+softnesses
 software
 softwares
 sogged
@@ -65178,6 +65207,7 @@ songfulness
 songless
 songlike
 songsmith
+songster
 songwriter
 songwriters
 sonic
@@ -67211,6 +67241,7 @@ strenuosities
 strenuously
 strep
 streptobacilli
+streptococcic
 streptokinases
 streptolysin
 streptolysins
@@ -67321,6 +67352,7 @@ strolling
 stroma
 stromatic
 stromatolite
+stromatolites
 strongboxes
 stronger
 strongest
@@ -67982,6 +68014,7 @@ subvassal
 subvenes
 subvention
 subventions
+subversionary
 subversions
 subversive
 subversively
@@ -69101,6 +69134,7 @@ symposiac
 symposiacs
 symposiarch
 symposiarchs
+symposiast
 symposiasts
 symposium
 symptom
@@ -77165,6 +77199,7 @@ washhouses
 washing
 washouts
 washstand
+washstands
 washup
 washups
 washwoman
