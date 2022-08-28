@@ -5236,6 +5236,7 @@ barrators
 barratries
 barred
 barrel
+barrelage
 barrelhead
 barrelheads
 barrelhouse
@@ -7397,6 +7398,7 @@ bombasters
 bombasts
 bombazines
 bomber
+bombesin
 bombinates
 bombination
 bombinations
@@ -7660,6 +7662,7 @@ bottom
 bottomed
 bottomland
 bottomlands
+bottomlessly
 bottommost
 bottomry
 botts
@@ -10042,6 +10045,7 @@ casserole
 cassia
 cassimeres
 cassino
+cassinos
 cassowaries
 cassowary
 castabilities
@@ -10726,6 +10730,7 @@ chance
 chanced
 chancel
 chancellorship
+chancellory
 chancer
 chanceries
 chancier
@@ -11412,6 +11417,7 @@ chondromas
 chondrules
 chook
 chooks
+chooser
 choosey
 choosier
 choosiest
@@ -20043,6 +20049,7 @@ dominos
 donas
 donates
 donating
+donation
 donations
 donative
 donator
@@ -21407,6 +21414,7 @@ egocentricity
 egocentrics
 egocentrisms
 egoist
+egoistical
 egoless
 egomaniac
 egomaniacally
@@ -23666,6 +23674,7 @@ excurrent
 excursionists
 excursiveness
 excursivenesses
+excursuses
 excusableness
 excusatory
 excused
@@ -26298,6 +26307,7 @@ forbearances
 forbearers
 forbearing
 forbears
+forbidals
 forbids
 forbode
 forboded
@@ -28673,6 +28683,7 @@ glucuronide
 gluepot
 gluers
 glues
+glueyness
 glueynesses
 glug
 glugged
@@ -28760,6 +28771,7 @@ gnomic
 gnomist
 gnomons
 gnoses
+gnostic
 gnostical
 gnosticisms
 gnostics
@@ -29893,6 +29905,7 @@ gurnard
 gurnards
 gurnet
 gurshes
+gurus
 guruship
 guruships
 gushier
@@ -31577,6 +31590,7 @@ hitchhiking
 hither
 hitherto
 hitless
+hitter
 hitters
 hitting
 hive
@@ -32806,6 +32820,7 @@ hypocrites
 hypocritical
 hypoderma
 hypodermically
+hypodermises
 hypoed
 hypogastric
 hypogeal
@@ -34732,6 +34747,7 @@ inspiriting
 inspiritingly
 inspissated
 inspissates
+inspissators
 instabilities
 installed
 installments
@@ -35281,6 +35297,7 @@ intractably
 intraday
 intradermally
 intradoses
+intramolecular
 intranets
 intransigeantly
 intransigeants
@@ -35696,6 +35713,7 @@ islanding
 isle
 isled
 isleless
+isling
 isms
 isoantigen
 isoantigenic
@@ -36621,6 +36639,7 @@ karabiner
 karakul
 karat
 karats
+karmas
 karmic
 kaross
 karroo
@@ -36841,6 +36860,7 @@ khalifate
 khalifs
 khamsin
 khans
+khaphs
 khazen
 khazenim
 khazens
@@ -39892,6 +39912,7 @@ mahjongs
 mahlstick
 mahoganies
 mahogany
+mahonias
 mahouts
 mahzors
 maiden
@@ -44549,6 +44570,7 @@ nephelometry
 nephogram
 nephoscopes
 nephrectomize
+nephrectomized
 nephridia
 nephridial
 nephrisms
@@ -47424,6 +47446,7 @@ outgeneraling
 outgenerals
 outgive
 outgiving
+outgivings
 outglare
 outglared
 outglares
@@ -49838,6 +49861,7 @@ pawl
 pawn
 pawnage
 pawnbroker
+pawnbrokers
 pawnbroking
 pawnee
 pawnees
@@ -53428,6 +53452,7 @@ preexposes
 prefabbing
 prefabricates
 prefabrication
+prefaced
 prefacers
 prefaces
 prefaded
@@ -53899,6 +53924,7 @@ pretrials
 pretrim
 pretrimming
 prettier
+pretties
 prettification
 prettifier
 prettifiers
@@ -53989,6 +54015,7 @@ pricks
 pricky
 pricy
 prided
+pridefulnesses
 prides
 priedieus
 prier
@@ -56196,6 +56223,7 @@ rapport
 rapscallions
 rapt
 raptness
+raptor
 raptured
 raptures
 rapturousnesses
@@ -59054,6 +59082,7 @@ retransform
 retransformed
 retransforming
 retransforms
+retranslated
 retranslation
 retransmission
 retransmit
@@ -62706,6 +62735,7 @@ shaitan
 shaitans
 shakable
 shakeable
+shakedown
 shaken
 shakeout
 shakiest
@@ -69314,6 +69344,7 @@ tailenders
 tailers
 tailfans
 tailfins
+tailgate
 tailing
 taillamps
 taille
@@ -69930,6 +69961,7 @@ teleutospores
 televangelisms
 televangelist
 teleview
+televiews
 televise
 television
 televisions
@@ -71930,6 +71962,7 @@ transpirations
 transpire
 transpiring
 transplantable
+transplantation
 transplanters
 transpontine
 transported
@@ -73643,6 +73676,7 @@ unclassy
 unclawed
 uncleaned
 uncleanlier
+uncleanliness
 uncleanly
 uncleannesses
 unclear
@@ -75048,6 +75082,7 @@ unversed
 unvested
 unvexed
 unviable
+unvocal
 unwakened
 unwalled
 unwarier
