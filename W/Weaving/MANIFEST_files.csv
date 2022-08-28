@@ -1,0 +1,4 @@
+File revisions: services/sync/SyncComponents.manifest - Mercurial,https://hg.mozilla.org/mozilla-central/log/tip/services/sync/SyncComponents.manifest
+sdk/core2.manifest - fuchsia - Git at Google,https://fuchsia.googlesource.com/fuchsia/%2B/2e84a3915dce/sdk/core2.manifest
+sdk/manifests/core.modular.manifest - fuchsia - Git at Google,https://fuchsia.googlesource.com/fuchsia/%2B/refs/heads/main/sdk/manifests/core.modular.manifest
+LanguagePacksForWaterfox/sk.manifest at master - GitHub,https://github.com/hawkeye116477/LanguagePacksForWaterfox/blob/master/Classic/langpack-sk%2540waterfox/chrome/sk.manifest

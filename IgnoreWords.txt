@@ -280,6 +280,7 @@ acculturation
 accumulated
 accumulates
 accumulating
+accumulation
 accumulatively
 accumulators
 accuracies
@@ -1854,6 +1855,7 @@ ambulacrum
 ambulant
 ambulate
 ambulated
+ambulates
 ambulating
 ambulator
 ambulatories
@@ -4277,6 +4279,7 @@ augurer
 augurers
 auguries
 auguring
+augury
 august
 auguster
 augustest
@@ -4681,6 +4684,7 @@ babiest
 babirussas
 baboon
 baboonery
+baboonish
 baboons
 baboos
 babu
@@ -4822,6 +4826,7 @@ bacteremic
 bacteria
 bacteriocins
 bacteriologist
+bacteriolyses
 bacteriolysis
 bacteriolytic
 bacteriophages
@@ -6673,6 +6678,7 @@ birder
 birders
 birdfarm
 birdfarms
+birdfeed
 birdied
 birdies
 birdings
@@ -11228,6 +11234,7 @@ chiltepins
 chimaeras
 chimaeric
 chimaerism
+chimars
 chimb
 chimbley
 chimbleys
@@ -12500,6 +12507,7 @@ cockhorse
 cockhorses
 cockily
 cockiness
+cocking
 cockle
 cockleburs
 cockles
@@ -12938,6 +12946,7 @@ collocational
 collodion
 collodions
 collogue
+collogued
 collogues
 colloguing
 colloidal
@@ -19716,6 +19725,7 @@ distastefulness
 distaves
 distelfink
 distelfinks
+distemperature
 distempered
 distender
 distenders
@@ -20927,6 +20937,7 @@ dup
 dupe
 duper
 dupery
+dupes
 duplexers
 duplexes
 duplexities
@@ -23207,6 +23218,7 @@ essentializes
 essentially
 essentialness
 essentialnesses
+essentials
 essonites
 establish
 establishable
@@ -23482,6 +23494,7 @@ euthanasic
 euthanatize
 euthanatized
 euthanize
+euthanizes
 euthanizing
 euthenists
 eutherian
@@ -28235,6 +28248,7 @@ gerontocrats
 gerontologists
 gerontomorphic
 gerrymandered
+gerund
 gerundive
 gesellschaft
 gesneriad
@@ -30254,6 +30268,7 @@ hajjis
 hakes
 hakim
 hakims
+halachic
 halachist
 halakha
 halakhah
@@ -33631,6 +33646,7 @@ impostors
 impostume
 impostumes
 imposture
+impotences
 impotently
 impound
 impounded
@@ -33745,6 +33761,7 @@ inadequateness
 inadmissibility
 inadmissible
 inadvertence
+inadvisability
 inalienability
 inalienable
 inalienably
@@ -35449,6 +35466,7 @@ intruders
 intrudes
 intruding
 intrusively
+intrust
 intrusting
 intubate
 intubating
@@ -38848,6 +38866,7 @@ lingo
 lingonberry
 lingually
 linguinis
+linguisa
 linguist
 linguistical
 linguisticians
@@ -39680,6 +39699,7 @@ luring
 luringly
 lurk
 lurked
+lurker
 lurkers
 luscious
 lusciously
@@ -39896,6 +39916,7 @@ macronuclear
 macronuclei
 macronutrient
 macrophage
+macrophotograph
 macrophyte
 macroscales
 macroscopic
@@ -45670,6 +45691,7 @@ nonrecognition
 nonrecombinant
 nonrecourse
 nonrecyclable
+nonrecyclables
 nonreducing
 nonredundant
 nonrefillable
@@ -46291,6 +46313,7 @@ obsecrating
 observables
 observably
 observances
+observant
 observantly
 observants
 observation
@@ -47956,6 +47979,7 @@ outwalked
 outwalks
 outwardnesses
 outwards
+outwarred
 outwasting
 outwatching
 outwear
@@ -56513,6 +56537,7 @@ ravel
 raveling
 ravelled
 raveller
+ravels
 raven
 ravened
 ravening
@@ -59375,6 +59400,7 @@ reveling
 reveller
 revelments
 revelrous
+revels
 revenant
 revenge
 revengefully
@@ -62020,6 +62046,7 @@ seamarks
 seamlessness
 seamlike
 seamster
+seamsters
 seamstress
 seances
 seapieces
@@ -63172,6 +63199,7 @@ shewbreads
 shewed
 shews
 shh
+shiatsu
 shiatzu
 shiatzus
 shibah
@@ -63594,6 +63622,7 @@ sickeningly
 sickens
 sickest
 sickie
+sickies
 sickish
 sickishness
 sickishnesses
@@ -65192,6 +65221,7 @@ solidarists
 solider
 solidi
 solidified
+solidifies
 solidify
 solidity
 solidly
@@ -66246,6 +66276,7 @@ spud
 spudding
 spumes
 spumiest
+spumone
 spumoni
 spumonis
 spumy
@@ -67220,6 +67251,7 @@ straggling
 straight
 straightaway
 straightaways
+straightbreds
 straightedge
 straighter
 straightforward
@@ -69852,6 +69884,7 @@ taskbars
 tasking
 taskmaster
 taskworks
+tass
 tassel
 tasseled
 tasseling
@@ -70383,6 +70416,7 @@ teratogenesis
 teratogenicity
 teratogens
 teratologic
+teratological
 teratologist
 teratoma
 teratomas
@@ -77520,6 +77554,7 @@ weatherworn
 weave
 weavers
 weaves
+weaving
 weazands
 web
 webbier
