@@ -495,6 +495,7 @@ actinism
 actinium
 actiniums
 actinoid
+actinometer
 actinometric
 actinomorphies
 actinomorphy
@@ -2551,6 +2552,7 @@ anthelix
 anthelixes
 anthelmintic
 anthelmintics
+anthemed
 antheming
 anthems
 antherid
@@ -11981,6 +11983,7 @@ clayish
 claymore
 claystone
 claystones
+clayware
 claywares
 cleanabilities
 cleanable
@@ -12746,6 +12749,7 @@ coirs
 coition
 coitional
 coitions
+cojoin
 cojoined
 cojoining
 cojoins
@@ -12765,6 +12769,7 @@ coldblood
 coldcocks
 coldest
 coldhearted
+coldheartedly
 coldheartedness
 coldnesses
 cole
@@ -15852,6 +15857,7 @@ cultist
 cultivability
 cultivable
 cultivated
+cultivating
 cultivation
 cultivator
 cultivators
@@ -16416,6 +16422,7 @@ daikers
 dailies
 dailiness
 dailinesses
+dailyness
 dailynesses
 daimen
 daimio
@@ -20186,6 +20193,7 @@ douching
 doughboy
 doughboys
 doughface
+doughier
 doughiest
 doughlike
 doughnutlike
@@ -24769,6 +24777,7 @@ feisty
 felafel
 feldscher
 feldschers
+feldshers
 felicitate
 felicitated
 felicitates
@@ -25227,6 +25236,7 @@ finagled
 finagler
 finagles
 finagling
+final
 finales
 finalis
 finalised
@@ -28559,6 +28569,7 @@ globulars
 globulins
 glochid
 glochidium
+glochids
 gloggs
 glom
 glomerules
@@ -29083,6 +29094,7 @@ grammas
 grammatical
 grammaticality
 grammatically
+grammaticalness
 gramp
 grampas
 gran
@@ -29099,6 +29111,7 @@ grandchildren
 granddad
 granddaddy
 granddads
+granddams
 granddaughters
 grandest
 grandfather
@@ -30709,6 +30722,7 @@ headmasterships
 headmistress
 headmistresses
 headmost
+headphone
 headphones
 headpiece
 headpieces
@@ -32244,6 +32258,7 @@ huddler
 hueless
 huff
 huffed
+huffier
 huffiest
 huffiness
 huffing
@@ -33974,6 +33989,7 @@ indicators
 indicia
 indicias
 indictable
+indictees
 indicting
 indicts
 indies
@@ -34334,6 +34350,7 @@ ingeniousness
 ingenuous
 ingenuousnesses
 ingested
+ingestion
 ingestive
 ingests
 inglenooks
@@ -34375,6 +34392,7 @@ inhabitable
 inhabitancies
 inhabitancy
 inhabitants
+inhabitation
 inhalers
 inharmonious
 inharmoniously
@@ -35654,6 +35672,7 @@ isobath
 isobutane
 isobutanes
 isobutyl
+isobutylenes
 isocaloric
 isocarboxazid
 isocarboxazids
@@ -37972,6 +37991,7 @@ leaning
 leanings
 leanly
 leanness
+leannesses
 leans
 leant
 leaped
@@ -39621,6 +39641,7 @@ lysogenies
 lysogenise
 lysogenised
 lysogenizations
+lysogenize
 lysogenizes
 lysogenizing
 lysogeny
@@ -44044,6 +44065,7 @@ naevi
 naevoid
 naffs
 nagana
+naganas
 nagged
 nagger
 naggier
@@ -45132,6 +45154,7 @@ nonconventional
 noncooperative
 noncooperators
 noncore
+noncorrelations
 noncorroding
 noncounty
 noncoverage
@@ -46293,6 +46316,7 @@ odoriferousness
 odorizing
 odorless
 odorously
+odors
 odourful
 odyl
 odyles
@@ -53668,6 +53692,7 @@ prese
 preseasons
 preselecting
 preselection
+present
 presentable
 presentableness
 presentations
@@ -56900,6 +56925,7 @@ recruitments
 recrystallizing
 rectal
 rectangle
+rectangles
 rectangular
 recti
 rectifiability
@@ -58758,6 +58784,7 @@ restitute
 restitutes
 restitutions
 restive
+restiveness
 restless
 restlessness
 restock
@@ -59963,6 +59990,7 @@ rototillers
 rotted
 rottener
 rottenest
+rottenstones
 rotters
 rotting
 rottweilers
@@ -60726,6 +60754,7 @@ sandiest
 sanding
 sandlings
 sandlot
+sandmen
 sandpainting
 sandpapery
 sandpeeps
@@ -61683,6 +61712,7 @@ scutched
 scutcheons
 scutcher
 scutches
+scutching
 scute
 scutella
 scutellate
@@ -62155,6 +62185,7 @@ semis
 semises
 semiskilled
 semisolids
+semistiff
 semitonal
 semitonic
 semitonically
@@ -62172,6 +62203,7 @@ sempiternities
 sempstresses
 sen
 senarius
+senatorial
 senatorship
 senatorships
 sendable
@@ -62343,6 +62375,7 @@ seraphic
 seraphically
 seraphim
 seraphims
+serdab
 serein
 serenade
 serenatas
@@ -64564,6 +64597,7 @@ snippier
 snippiest
 snit
 snitcher
+snitchers
 sniveler
 snivelers
 sniveling
@@ -73611,6 +73645,7 @@ unconformable
 unconformably
 unconformities
 unconfounded
+uncongenial
 unconquerably
 unconscionably
 unconsciously
