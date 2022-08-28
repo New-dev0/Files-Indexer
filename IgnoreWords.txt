@@ -6448,6 +6448,7 @@ bilby
 bildungsroman
 bilevel
 bilevels
+bilge
 bilgiest
 bilging
 bilharziases
@@ -6553,6 +6554,7 @@ biochip
 biochips
 biocidal
 biocide
+biocides
 biocoenoses
 biocoenosis
 biocycle
@@ -7014,6 +7016,7 @@ blimpishnesses
 blimy
 blind
 blinder
+blindest
 blindfold
 blindness
 blindnesses
@@ -8209,6 +8212,7 @@ brinier
 brinies
 briniest
 brininesses
+brinish
 brinksmanship
 briquet
 briquette
@@ -9741,6 +9745,7 @@ caramel
 caramelize
 caramelized
 carangid
+carangids
 carangoid
 carapace
 carapaced
@@ -11196,6 +11201,7 @@ chickory
 chicks
 chickweeds
 chicle
+chicly
 chico
 chicory
 chicos
@@ -13924,6 +13930,7 @@ consignation
 consigned
 consignee
 consigner
+consigners
 consigning
 consigns
 consist
@@ -15660,6 +15667,7 @@ crouch
 crouching
 croup
 croupe
+croupiest
 croupous
 croupy
 crousely
@@ -16390,6 +16398,7 @@ cynically
 cynicism
 cynosures
 cyphered
+cyphering
 cypres
 cypresses
 cyprians
@@ -17446,6 +17455,7 @@ degressive
 degringolade
 degums
 degustations
+degusting
 degusts
 dehisce
 dehiscence
@@ -17791,6 +17801,7 @@ denotative
 denoted
 denotive
 denouement
+denouements
 denounce
 denouncement
 denouncements
@@ -20847,6 +20858,7 @@ duckers
 duckie
 duckier
 duckies
+duckling
 ducklings
 ducktails
 duckwalk
@@ -21967,6 +21979,7 @@ emission
 emissions
 emits
 emitting
+emmenagogues
 emmet
 emmetrope
 emmets
@@ -25007,6 +25020,7 @@ fencerow
 fences
 fencible
 fencings
+fend
 fended
 fender
 fendered
@@ -26708,6 +26722,7 @@ forswore
 forsworn
 forsythia
 fort
+forte
 fortepiano
 fortepianos
 forthcoming
@@ -27528,6 +27543,7 @@ gabbart
 gabber
 gabbier
 gabble
+gabbled
 gabbler
 gabbles
 gabbro
@@ -28967,6 +28983,7 @@ goddamndest
 goddamned
 goddams
 godded
+godetia
 godetias
 godets
 godfathered
@@ -29723,6 +29740,7 @@ grotesqueness
 grotesquenesses
 grottier
 grotto
+grottoed
 grotty
 grouch
 grouchier
@@ -30432,6 +30450,7 @@ hammerlocks
 hammers
 hammertoes
 hammily
+hamminesses
 hammock
 hammy
 hamper
@@ -31944,6 +31963,7 @@ homegrown
 homeland
 homelands
 homelessnesses
+homelier
 homeliest
 homelike
 homeliness
@@ -37602,6 +37622,7 @@ lacerated
 laceration
 lacerations
 lacerative
+lacertid
 lacewing
 lacewings
 lacewood
@@ -42235,6 +42256,7 @@ minimills
 minimized
 minimizer
 minimizes
+minimums
 mining
 miniparks
 minipills
@@ -42758,6 +42780,7 @@ misses
 missets
 misshapenly
 misshaper
+missies
 missilery
 missilry
 missing
@@ -44238,6 +44261,7 @@ myeline
 myelofibroses
 myelofibrosis
 myelogenous
+myelograms
 myeloid
 myeloma
 myelomata
@@ -44457,6 +44481,7 @@ narcoleptic
 narcoma
 narcos
 narcose
+narcotic
 narcotically
 narcotizing
 narcs
@@ -61147,6 +61172,7 @@ sandlings
 sandlot
 sandmen
 sandpainting
+sandpapered
 sandpapery
 sandpeeps
 sandpit
@@ -63658,6 +63684,7 @@ shtetel
 shtetl
 shtick
 shtickier
+shtickiest
 shticks
 shticky
 shtiks
@@ -67088,6 +67115,7 @@ stiffening
 stiffens
 stiffer
 stiffest
+stiffie
 stiffish
 stiffness
 stiffnesses
@@ -67316,6 +67344,7 @@ stork
 storks
 storksbills
 stormbound
+stormed
 stormier
 stormiest
 story
@@ -71642,6 +71671,7 @@ tolas
 tolbutamide
 tolbutamides
 tole
+tolerability
 tolerable
 tolerant
 tolerantly
@@ -72288,6 +72318,7 @@ transliterates
 transliteration
 translocated
 translocates
+translucence
 translucences
 translucencies
 translucency
@@ -72369,6 +72400,7 @@ trapdoors
 trapesed
 trapesing
 trapeze
+trapezist
 trapezium
 trapezohedra
 trapezoidal
@@ -74638,6 +74670,7 @@ unhandier
 unhandled
 unhands
 unhandsome
+unhandsomely
 unhandy
 unhanging
 unhangs
@@ -76475,6 +76508,7 @@ verticality
 vertically
 verticalness
 verticals
+vertices
 verticillate
 vertiginous
 vertiginously
@@ -77913,6 +77947,7 @@ wheelman
 wheelmen
 wheels
 wheelsmen
+wheen
 wheeped
 wheeping
 wheeples
