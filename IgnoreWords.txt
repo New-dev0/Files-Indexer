@@ -2173,6 +2173,7 @@ anamnesis
 ananke
 anankes
 anapest
+anapestic
 anaphases
 anaphor
 anaphora
@@ -2217,6 +2218,7 @@ anchorless
 anchorpeople
 anchorpersons
 anchors
+anchorwoman
 anchorwomen
 anchos
 anchovetas
@@ -2908,6 +2910,7 @@ antituberculous
 antitussive
 antitypes
 antiuniversity
+antiurban
 antiviolence
 antiviral
 antiviruses
@@ -6494,6 +6497,7 @@ bindles
 bindweed
 bine
 biners
+binge
 binged
 bingeing
 bingers
@@ -6516,6 +6520,7 @@ bioacoustics
 bioactive
 bioassay
 bioassayed
+biochemist
 biochemistry
 biochip
 biochips
@@ -8433,6 +8438,7 @@ buccaneers
 buccinators
 buck
 buckaroos
+buckayro
 buckayros
 buckbeans
 buckboard
@@ -9489,6 +9495,7 @@ cannoning
 cannulated
 cannulating
 canny
+canoe
 canoeable
 canoed
 canoeists
@@ -10632,6 +10639,7 @@ chaconnes
 chadars
 chador
 chadri
+chaebol
 chaetae
 chafed
 chafes
@@ -15738,6 +15746,7 @@ cryptogams
 cryptograms
 cryptographers
 cryptographic
+cryptographies
 cryptography
 cryptologic
 cryptological
@@ -17107,6 +17116,7 @@ decryptions
 decrypts
 decupled
 decupling
+decurion
 decurions
 decussates
 dedicated
@@ -17708,6 +17718,7 @@ denotative
 denoted
 denotive
 denouement
+denounce
 denouncement
 denouncements
 denouncer
@@ -22566,6 +22577,7 @@ entries
 entropic
 entropion
 entropions
+entrustment
 entrustments
 entry
 entwined
@@ -36304,6 +36316,7 @@ joes
 joey
 jog
 joggle
+joggled
 joggles
 johannes
 johnboat
@@ -39842,6 +39855,7 @@ maderize
 madhouses
 madmen
 madness
+madnesses
 madrasahs
 madrepore
 madreporian
@@ -42080,6 +42094,7 @@ minorcas
 minorities
 minoxidils
 minster
+minsters
 minstrels
 minstrelsy
 mintage
@@ -42279,6 +42294,7 @@ misconnecting
 misconnection
 misconnections
 misconnects
+misconstrued
 misconstrues
 miscook
 miscooking
@@ -47113,6 +47129,7 @@ orthostatic
 orthotic
 orthotics
 orthotropous
+oryx
 oryxes
 os
 osar
@@ -47608,6 +47625,7 @@ outpopulate
 outpopulates
 outpopulating
 outport
+outports
 outpost
 outposts
 outpourer
@@ -48088,6 +48106,7 @@ overdone
 overdose
 overdosed
 overdoses
+overdrafts
 overdramatize
 overdramatizing
 overdrank
@@ -51881,6 +51900,7 @@ plaitings
 plaits
 plan
 planar
+planarian
 planarias
 planarities
 planate
@@ -55809,6 +55829,7 @@ quipped
 quippier
 quippiest
 quippus
+quippy
 quips
 quipster
 quipsters
@@ -56286,6 +56307,7 @@ raspinesses
 rasping
 raspingly
 rasps
+raspy
 rassle
 rassled
 rassles
@@ -56771,6 +56793,7 @@ receiving
 recement
 recencies
 recensions
+recensors
 recentrifuged
 recept
 reception
@@ -57580,6 +57603,7 @@ refusing
 refutable
 refutals
 refutations
+refute
 refutes
 refuting
 regainers
@@ -58355,6 +58379,7 @@ replated
 replaying
 replead
 repled
+repledge
 repledges
 replenished
 replenishers
@@ -58466,6 +58491,7 @@ reproachingly
 reprobating
 reprobations
 reprobe
+reprobed
 reprobes
 reprobing
 reprocess
@@ -61301,6 +61327,7 @@ scapegoat
 scapegraces
 scaping
 scapose
+scapulars
 scapulary
 scar
 scarab
@@ -64982,6 +65009,7 @@ solanins
 solano
 solanum
 solanums
+solarise
 solarises
 solarism
 solarium
@@ -66481,6 +66509,7 @@ stashes
 stasima
 stat
 statable
+stateable
 statecraft
 statecrafts
 statehouses
@@ -69473,6 +69502,7 @@ tam
 tamable
 tamale
 tamals
+tamanduas
 tamaracks
 tamaraos
 tamaraus
@@ -70563,6 +70593,7 @@ thermidors
 thermionic
 thermionics
 thermistor
+thermit
 thermites
 thermochemist
 thermochemistry
@@ -73627,6 +73658,7 @@ unbuttons
 uncage
 uncaging
 uncake
+uncalcified
 uncalculated
 uncalculating
 uncalibrated
@@ -77076,6 +77108,7 @@ warn
 warners
 warningly
 warns
+warpages
 warpath
 warped
 warpers
@@ -77542,6 +77575,7 @@ wheals
 wheatear
 wheatlands
 wheatless
+whee
 wheedle
 wheedled
 wheedler
@@ -78033,6 +78067,7 @@ wintertimes
 wintle
 wintriness
 winze
+wipe
 wipeouts
 wipers
 wiping
