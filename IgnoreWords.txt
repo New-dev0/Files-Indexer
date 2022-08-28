@@ -1991,6 +1991,7 @@ amorousnesses
 amorphism
 amorphisms
 amorphous
+amorphously
 amorphousness
 amortise
 amortize
@@ -3055,6 +3056,7 @@ apochromatic
 apocopate
 apocopated
 apocrine
+apocryphal
 apocryphalness
 apod
 apodictically
@@ -7491,6 +7493,7 @@ bonspells
 bonteboks
 bonuses
 bony
+bonze
 bonzer
 bonzes
 boob
@@ -8037,6 +8040,7 @@ breadfruit
 breadfruits
 breading
 breadless
+breadlines
 breadnuts
 breadroots
 breads
@@ -8560,6 +8564,7 @@ bugseed
 bugseeds
 buhls
 buhlwork
+buhlworks
 buhr
 build
 builddown
@@ -10601,6 +10606,7 @@ cerebella
 cerebellum
 cerebellums
 cerebrate
+cerebrated
 cerebrates
 cerebration
 cerebrations
@@ -16534,6 +16540,7 @@ dainty
 dairying
 dairyings
 dairyman
+dais
 daises
 daishikis
 daisied
@@ -22074,6 +22081,7 @@ enamored
 enamour
 enamoured
 enamouring
+enamours
 enantiomeric
 enantiomorphism
 enantiomorphous
@@ -26133,6 +26141,7 @@ fluorination
 fluorine
 fluorines
 fluorins
+fluorite
 fluorites
 fluorocarbons
 fluorochromes
@@ -27658,6 +27667,7 @@ gallnuts
 gallonage
 gallonages
 gallons
+galloon
 galloons
 galloot
 galloper
@@ -27708,6 +27718,7 @@ gamers
 gamesmanship
 gamesmanships
 gamester
+gametic
 gametically
 gametocytes
 gametogenesis
@@ -28213,6 +28224,7 @@ geologist
 geologize
 geologized
 geomagnetically
+geomancer
 geomancers
 geomantic
 geometers
@@ -28506,6 +28518,7 @@ girdled
 girlfriend
 girlies
 girliest
+girls
 girning
 girns
 girolles
@@ -30536,6 +30549,7 @@ hansoms
 hantavirus
 hanted
 hanting
+hanumans
 hao
 haole
 hap
@@ -34856,6 +34870,7 @@ insinuators
 insipidities
 insipidity
 insipidly
+insistences
 insistency
 insistent
 insistently
@@ -35474,6 +35489,7 @@ intravascularly
 intravenous
 intravitam
 intreat
+intrenched
 intrenches
 intrenching
 intrepid
@@ -35801,6 +35817,7 @@ irreformability
 irrefragability
 irrefragable
 irrefragably
+irrefutable
 irregularly
 irregulars
 irrelatively
@@ -36161,6 +36178,7 @@ jammy
 jampacked
 jane
 janes
+jangle
 jangles
 janglier
 janiform
@@ -37791,6 +37809,7 @@ lanai
 lanais
 lancelet
 lancelets
+lancers
 lanceted
 lancewood
 lanciers
@@ -38035,6 +38054,7 @@ latinizing
 latitude
 latitudes
 latitudinal
+latitudinarian
 latke
 latkes
 latosol
@@ -46230,6 +46250,7 @@ nutwoods
 nuzzle
 nuzzled
 nuzzlers
+nuzzles
 nyalas
 nyctalopia
 nyctalopias
@@ -49112,6 +49133,7 @@ palaestrae
 palankeen
 palanquins
 palatabilities
+palatability
 palatable
 palatably
 palatal
@@ -49687,6 +49709,7 @@ parkas
 parker
 parkers
 parkings
+parkinsonian
 parkinsonisms
 parklike
 parkway
@@ -51661,6 +51684,7 @@ pierces
 pieridine
 pierogies
 pierrots
+piers
 pies
 pieta
 pieties
@@ -51951,6 +51975,7 @@ pistareens
 pistes
 pistol
 pistole
+pistoliers
 pistoling
 pistolled
 pistolling
@@ -57160,6 +57185,7 @@ reconducts
 reconfer
 reconferred
 reconferring
+reconfigure
 reconfiguring
 reconfine
 reconfines
@@ -59318,6 +59344,7 @@ retinting
 retinue
 retinued
 retirant
+retirants
 retire
 retiredness
 retirednesses
@@ -61277,6 +61304,7 @@ sartorial
 sash
 sashaying
 sashays
+sashed
 sashing
 sashless
 saskatoons
@@ -61420,6 +61448,7 @@ savvies
 sawbill
 sawbills
 sawboneses
+sawbuck
 sawbucks
 sawdusty
 sawed
@@ -61795,6 +61824,7 @@ scleroid
 scleroma
 scleromas
 sclerose
+sclerosed
 sclerotial
 sclerotic
 sclerotin
@@ -67863,6 +67893,7 @@ subduedly
 subduers
 subduing
 subdwarf
+subecho
 subechoes
 subeconomies
 subedited
@@ -68928,6 +68959,7 @@ surfier
 surfings
 surfman
 surfs
+surgeon
 surgery
 surgical
 surgically
@@ -73051,6 +73083,7 @@ tsatske
 tsetse
 tsetses
 tsimmes
+tsked
 tsks
 tsktsked
 tsooris
@@ -74537,6 +74570,7 @@ unforgivable
 unforgivingness
 unforgot
 unforked
+unformulated
 unforthcoming
 unfortunately
 unfossiliferous
@@ -77347,6 +77381,7 @@ wardenry
 wardens
 wardenship
 wardenships
+warders
 warding
 wardress
 wardrobes
