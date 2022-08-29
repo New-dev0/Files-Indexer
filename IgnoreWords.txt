@@ -310,6 +310,7 @@ aceldama
 aceldamas
 acentric
 acephalous
+acequias
 acerate
 acerated
 acerbated
@@ -5521,6 +5522,7 @@ beachier
 beachside
 beacon
 beacons
+bead
 beaders
 beadhouses
 beadier
@@ -10813,6 +10815,7 @@ champleve
 champs
 chance
 chanced
+chanceful
 chancel
 chancellorship
 chancellory
@@ -11111,6 +11114,7 @@ chelatable
 chelated
 chelations
 chelicera
+chelicerae
 cheloid
 cheloids
 chelonian
@@ -11311,6 +11315,7 @@ chinbone
 chinbones
 chincapin
 chincapins
+chincherinchee
 chinchier
 chinchiest
 chinchilla
@@ -13117,6 +13122,7 @@ colugos
 columbaria
 columbaries
 columbarium
+columbines
 columbium
 columella
 columellar
@@ -14884,6 +14890,7 @@ councilwomen
 counseled
 counselee
 counselings
+counselled
 counsellings
 counsellors
 counselorship
@@ -16002,6 +16009,7 @@ cultivating
 cultivation
 cultivator
 cultivators
+cultrate
 cults
 cultural
 culturally
@@ -19656,6 +19664,7 @@ dispossessed
 dispossession
 dispossessors
 disposure
+disposures
 dispraised
 dispraiser
 dispread
@@ -27448,6 +27457,7 @@ fungoids
 funguses
 funhouse
 funhouses
+funicle
 funiculars
 funiculi
 funked
@@ -28058,6 +28068,7 @@ gavelock
 gavelocks
 gavot
 gavotted
+gawkier
 gawkily
 gawking
 gawkish
@@ -29133,6 +29144,7 @@ gonging
 gongoristic
 gongs
 gonidic
+gonif
 goniff
 gonium
 gonococcal
@@ -30716,6 +30728,7 @@ hardtops
 hardware
 hardwire
 hardwired
+hardwiring
 hardworking
 hardy
 harebells
@@ -32925,6 +32938,7 @@ hyperacid
 hyperacidities
 hyperacidity
 hyperactivities
+hyperacuity
 hyperarid
 hyperarousal
 hyperaware
@@ -33616,6 +33630,7 @@ impartiality
 impartially
 impartments
 imparts
+impassabilities
 impassability
 impassable
 impassibilities
@@ -39544,6 +39559,7 @@ lookalike
 lookdowns
 looker
 lookers
+lookouts
 looksism
 lookup
 lookups
@@ -42176,6 +42192,7 @@ milkwort
 milkworts
 mill
 millage
+millboard
 millboards
 millcakes
 milldams
@@ -44670,6 +44687,7 @@ naturalized
 naturally
 natured
 natures
+naturopath
 naturopathic
 naturopathies
 naturopathy
@@ -46932,6 +46950,7 @@ ombudsmen
 omegas
 omelet
 omelets
+omelette
 omelettes
 omened
 omening
@@ -50597,6 +50616,7 @@ penmen
 pennames
 pennant
 penned
+penner
 penni
 pennia
 pennies
@@ -51317,6 +51337,7 @@ pheromones
 phi
 phial
 phials
+philabegs
 philadelphuses
 philandered
 philanderers
@@ -51575,6 +51596,7 @@ photosynthate
 photosynthesis
 photosynthetic
 photosystem
+photosystems
 phototaxes
 phototaxies
 phototoxic
@@ -54253,6 +54275,7 @@ presplit
 press
 pressboard
 pressed
+pressingly
 pressings
 pressmark
 pressruns
@@ -54893,6 +54916,7 @@ propanes
 propel
 propellant
 propellants
+propelled
 propels
 propend
 propended
@@ -57216,6 +57240,7 @@ reciprocal
 reciprocally
 reciprocals
 reciprocating
+reciprocations
 reciprocators
 reciprocities
 reciprocity
@@ -57718,6 +57743,7 @@ reeking
 reel
 reelections
 reeled
+reelers
 reeligibility
 reeligible
 reelings
@@ -60505,6 +60531,7 @@ rosinous
 rosinweed
 rosolios
 rostella
+rostellum
 rostellums
 rostral
 rostrate
@@ -61102,6 +61129,7 @@ salals
 salamandrine
 salamis
 salariats
+salaried
 salary
 sale
 saleable
@@ -62775,6 +62803,7 @@ senatorships
 sendable
 sended
 sendoffs
+sends
 sendups
 sene
 seneca
@@ -66830,6 +66859,7 @@ staking
 stalactites
 stalactitic
 stalag
+stalagmites
 stalags
 stale
 stalemate
@@ -68608,6 +68638,7 @@ sulci
 suldan
 sulfadiazine
 sulfas
+sulfatase
 sulfatases
 sulfation
 sulfations
@@ -68838,6 +68869,7 @@ superconducts
 superconfident
 supercontinents
 superconvenient
+supercool
 supercools
 supercop
 supercops
@@ -69888,6 +69920,7 @@ tailles
 tailless
 taillights
 taillike
+tailor
 tailorbird
 tailorbirds
 tailoring
@@ -74506,6 +74539,7 @@ underparts
 underpass
 underpasses
 underpay
+underpayment
 underpinned
 underpins
 underplayed
@@ -79640,6 +79674,7 @@ zooplanktons
 zoos
 zoosperm
 zoosporangium
+zoosporic
 zoosterol
 zootomic
 zootomist
