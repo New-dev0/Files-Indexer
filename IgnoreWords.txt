@@ -1120,6 +1120,7 @@ aggressions
 aggressive
 aggressors
 aggrievedly
+aggrievements
 aggro
 agha
 aghast
@@ -3307,6 +3308,7 @@ aquatics
 aquatint
 aquatinter
 aquatints
+aqueous
 aquiculture
 aquifer
 aquiferous
@@ -6919,6 +6921,7 @@ blanch
 blancher
 bland
 blander
+blandishes
 blandishing
 blandishment
 blanked
@@ -8248,6 +8251,7 @@ brislings
 briss
 brisses
 bristle
+bristled
 bristlelike
 bristletails
 bristliest
@@ -8755,6 +8759,7 @@ burans
 burb
 burble
 burblers
+burbles
 burbliest
 burbling
 burbly
@@ -9182,6 +9187,7 @@ cagefuls
 cageling
 cagelings
 cagers
+cageynesses
 cagier
 cagiest
 cagily
@@ -11040,6 +11046,7 @@ cheapskate
 cheapskates
 cheated
 cheaters
+cheats
 chebec
 chechako
 chechakos
@@ -14670,6 +14677,7 @@ corrasive
 correctable
 correcter
 correctest
+correction
 correctional
 correctitudes
 corrective
@@ -15371,6 +15379,7 @@ creasing
 creatable
 create
 created
+creatines
 creatinines
 creationisms
 creationist
@@ -16904,6 +16913,7 @@ dealated
 dealation
 dealerships
 dealfish
+dealfishes
 dealings
 deals
 dealt
@@ -17489,6 +17499,7 @@ degrade
 degraded
 degradedly
 degrader
+degrades
 degranulation
 degranulations
 degrease
@@ -21730,6 +21741,7 @@ electronic
 electronics
 electrophile
 electrophorese
+electrophoreses
 electroplate
 electroplated
 electroplates
@@ -21866,6 +21878,7 @@ emasculate
 emasculating
 emasculations
 embalm
+embalmers
 embalming
 embalmment
 embalmments
@@ -24769,6 +24782,7 @@ faro
 farolito
 faros
 farouche
+farraginous
 farrago
 farrier
 farrieries
@@ -26479,6 +26493,7 @@ footrest
 foots
 footsie
 footsies
+footslog
 footslogged
 footslogger
 footsloggers
@@ -28452,6 +28467,7 @@ ghoulishness
 ghoulishnesses
 ghouls
 ghyll
+ghylls
 giant
 giantess
 giantesses
@@ -28714,6 +28730,7 @@ glassfuls
 glasshouse
 glassily
 glassine
+glassing
 glassless
 glassmaker
 glassmaking
@@ -29185,6 +29202,7 @@ goony
 goop
 goopiest
 goops
+goopy
 gooral
 goos
 goosanders
@@ -29195,6 +29213,7 @@ goosefishes
 goosefoots
 goosegrasses
 gooseherds
+goosey
 goosiest
 goosy
 gor
@@ -30327,6 +30346,7 @@ haeredes
 haeres
 haet
 haffit
+haffits
 hafizes
 haft
 haftarah
@@ -30465,6 +30485,7 @@ halloos
 hallos
 hallot
 hallow
+hallowed
 halls
 halluces
 hallucinating
@@ -31309,6 +31330,7 @@ hemiacetal
 hemialgias
 hemic
 hemicellulose
+hemicelluloses
 hemicycle
 hemimorphic
 hemimorphism
@@ -33764,6 +33786,7 @@ implicating
 implication
 implications
 implicative
+implicatively
 implicitly
 implode
 imploded
@@ -37416,6 +37439,7 @@ kleptomania
 kleptomaniac
 kleptomaniacs
 kleptos
+klezmer
 klezmers
 klicks
 klik
@@ -38126,6 +38150,7 @@ lastings
 lastly
 lasts
 lat
+latakia
 latakias
 latches
 latching
@@ -40840,6 +40865,7 @@ martyrology
 marvel
 marvelously
 marvelousnesses
+marvels
 masala
 masalas
 masas
@@ -41658,6 +41684,7 @@ messengering
 messiah
 messiahship
 messiahships
+messianism
 messier
 messiest
 messieurs
@@ -42965,6 +42992,7 @@ mistranslates
 mistreated
 mistreatments
 mistress
+mistresses
 mistrust
 mistrusted
 mistrustfulness
@@ -48178,6 +48206,7 @@ outtakes
 outtalk
 outtalked
 outtalking
+outtask
 outtasking
 outtell
 outtelling
@@ -48873,6 +48902,7 @@ overstaffed
 overstates
 overstayed
 overstays
+oversteered
 oversteering
 overstep
 overstimulate
@@ -54597,9 +54627,11 @@ probabilistic
 probables
 proband
 probates
+probation
 probationally
 probationary
 probationer
+probationers
 probative
 probe
 probenecid
@@ -63785,6 +63817,7 @@ showdown
 showed
 showerers
 showerheads
+showering
 showerless
 showers
 showery
@@ -74724,6 +74757,7 @@ unenlarged
 unenriched
 unentered
 unenthusiastic
+unenvied
 unequals
 unerotic
 unerringly
@@ -77814,6 +77848,7 @@ wattled
 wattles
 wattless
 wattling
+wattmeter
 wattmeters
 watts
 wauchted
