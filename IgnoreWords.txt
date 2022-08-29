@@ -512,6 +512,7 @@ actionably
 actionless
 activating
 actively
+activeness
 activism
 activistic
 activities
@@ -3710,6 +3711,7 @@ ascariasis
 ascarid
 ascarides
 ascarids
+ascend
 ascendances
 ascendancies
 ascendancy
@@ -4031,6 +4033,7 @@ astronautics
 astronauts
 astronomer
 astronomical
+astrophotograph
 astrophysics
 astute
 astutely
@@ -4426,6 +4429,7 @@ automatable
 automatic
 automatically
 automaticities
+automaticity
 automating
 automation
 automatist
@@ -6549,6 +6553,7 @@ bioactive
 bioassay
 bioassayed
 biochemist
+biochemistries
 biochemistry
 biochip
 biochips
@@ -8796,6 +8801,7 @@ burnisher
 burnishers
 burnishings
 burnoose
+burnsides
 burnt
 burp
 burps
@@ -11863,6 +11869,7 @@ citizens
 citolas
 citole
 citoles
+citrals
 citrate
 citreous
 citric
@@ -13490,6 +13497,7 @@ concealments
 concededly
 conceders
 conceitedness
+conceivability
 conceive
 conceived
 conceives
@@ -14202,6 +14210,7 @@ contumacy
 contumelies
 contused
 conundrum
+convalescence
 convalescences
 convalescents
 convalescing
@@ -17646,6 +17655,7 @@ dematerialized
 deme
 demeaning
 demeanours
+dement
 dementedness
 dementednesses
 dementia
@@ -20797,6 +20807,7 @@ drumbling
 drumheads
 drumliest
 drumlike
+drumly
 drummed
 drummers
 drumroll
@@ -22954,6 +22965,7 @@ epizooties
 epizootiologic
 epochs
 epodes
+eponym
 eponyms
 epopees
 epos
@@ -24189,6 +24201,7 @@ extempore
 extemporise
 extemporised
 extemporising
+extemporizer
 extemporizing
 extend
 extendabilities
@@ -31078,6 +31091,7 @@ hedgers
 hedgier
 hedgingly
 hedonic
+hedonisms
 hedonist
 hedonists
 heeded
@@ -33457,6 +33471,7 @@ immodest
 immodesties
 immodesty
 immolate
+immolates
 immolating
 immolations
 immolator
@@ -34412,6 +34427,7 @@ inexcusably
 inexistence
 inexorableness
 inexpedience
+inexpediency
 inexpediently
 inexpensive
 inexpert
@@ -35249,6 +35265,7 @@ interlopers
 interloping
 interlude
 interlunary
+intermarriage
 intermarries
 intermarry
 intermarrying
@@ -35491,6 +35508,7 @@ intraday
 intradermally
 intradoses
 intramolecular
+intramurally
 intranets
 intransigeantly
 intransigeants
@@ -39592,6 +39610,7 @@ lovastatins
 lovats
 love
 loveably
+lovebird
 lovebirds
 lovebugs
 lovefests
@@ -41805,6 +41824,7 @@ microburst
 microbus
 microcap
 microcassette
+microcassettes
 microclimate
 microcline
 micrococcal
@@ -41985,6 +42005,7 @@ midship
 midshipman
 midshipmen
 midships
+midsize
 midsized
 midsole
 midspace
@@ -42442,6 +42463,7 @@ miscalculation
 miscalculations
 miscallers
 miscaptioning
+miscarried
 miscarry
 miscarrying
 miscast
@@ -48795,6 +48817,7 @@ overthin
 overthink
 overthought
 overthrew
+overthrow
 overthrowing
 overthrows
 overtightened
@@ -49742,6 +49765,7 @@ parlance
 parlances
 parlando
 parlay
+parlayed
 parlays
 parle
 parled
@@ -50042,6 +50066,7 @@ patin
 patina
 patinae
 patinas
+patinate
 patinated
 patinations
 patine
@@ -50966,6 +50991,7 @@ peruke
 perukes
 peruse
 perusers
+peruses
 perv
 pervade
 pervaded
@@ -54425,6 +54451,7 @@ privatdozents
 privateering
 privately
 privateness
+privatised
 privatising
 privatisms
 privatists
@@ -58763,6 +58790,7 @@ reprobing
 reprocess
 reprocessing
 reproducer
+reproduces
 reproducible
 reproducibles
 reproducing
@@ -61675,6 +61703,7 @@ scenic
 scenical
 scenics
 scenographer
+scenographers
 scenting
 scepter
 sceptic
@@ -64662,6 +64691,7 @@ sloppiest
 slopping
 slops
 slopwork
+slopworks
 sloshed
 sloshiest
 sloshing
@@ -66162,6 +66192,7 @@ spittle
 spittlebug
 spittles
 spittoon
+spitzes
 spiv
 spivs
 splake
@@ -68348,6 +68379,7 @@ suchlike
 suchness
 sucker
 suckers
+suckfish
 suckfishes
 suckiest
 suckle
@@ -75496,6 +75528,7 @@ unwalled
 unwarier
 unwariest
 unwarinesses
+unwarped
 unwarranted
 unwavering
 unwaveringly
@@ -75563,6 +75596,7 @@ upbore
 upbound
 upbow
 upbraid
+upbraided
 upbraider
 upbraiders
 upbraiding
@@ -76545,6 +76579,7 @@ vestigial
 vestigially
 vestigium
 vestlike
+vestment
 vestry
 vestrymen
 vesturing
