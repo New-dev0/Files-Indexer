@@ -88,6 +88,7 @@ absorbants
 absorbencies
 absorbents
 absorptances
+absorptivities
 absorptivity
 abstained
 abstainers
@@ -207,6 +208,7 @@ accessories
 accessorises
 accessorize
 accessorized
+accessorizes
 accidences
 accidentalness
 accidently
@@ -1215,6 +1217,7 @@ agrochemical
 agroforester
 agroforestries
 agrologic
+agronomists
 agronomy
 agrypnia
 agrypnias
@@ -1504,6 +1507,7 @@ aliquots
 alist
 alit
 aliteracies
+aliterate
 aliterates
 alive
 aliveness
@@ -9164,6 +9168,7 @@ caconymies
 cacophonous
 cacophonously
 cacophony
+cactoid
 cactus
 cadastral
 cadastre
@@ -9568,6 +9573,7 @@ candlewoods
 candours
 candy
 candyfloss
+candygrams
 candytuft
 cane
 canebrake
@@ -16556,6 +16562,7 @@ cystitis
 cystocarps
 cystocele
 cystoid
+cystoids
 cystolith
 cystoscope
 cystoscopic
@@ -20098,6 +20105,7 @@ divisors
 divorcee
 divorcement
 divorcements
+divorcer
 divorcers
 divorcing
 divorcive
@@ -21392,6 +21400,7 @@ earthward
 earthwards
 earthworks
 earthworms
+earwax
 earwig
 earwigging
 earwigs
@@ -21968,6 +21977,7 @@ elvishly
 elytrum
 em
 emaciate
+emaciates
 emaciations
 email
 emailing
@@ -26254,6 +26264,7 @@ flossie
 flossies
 flossy
 flotages
+flotas
 flotation
 flotations
 flotillas
@@ -28844,6 +28855,7 @@ glamourized
 glamourless
 glamourous
 glamours
+glams
 glancer
 glancers
 glances
@@ -28932,6 +28944,7 @@ glides
 gliff
 glim
 glimed
+glimes
 glimmer
 glimmerings
 glimpse
@@ -30390,6 +30403,7 @@ gypper
 gypseian
 gypsophila
 gypsophilas
+gypsum
 gypsums
 gypsydom
 gypsydoms
@@ -31444,6 +31458,7 @@ helper
 helpers
 helpful
 helping
+helpings
 helplessness
 helpmate
 helpmates
@@ -33765,6 +33780,7 @@ immunogenetics
 immunogenic
 immunogenicity
 immunogens
+immunologic
 immunologically
 immunologist
 immunology
@@ -37035,6 +37051,7 @@ juveniles
 juvenility
 juxtapose
 juxtaposing
+kaas
 kabab
 kababs
 kabala
@@ -38816,6 +38833,7 @@ leprechaun
 leprechauns
 leprously
 leptins
+leptocephalus
 leptonic
 leptophos
 leptosome
@@ -38848,6 +38866,7 @@ letterspacing
 letterspacings
 letting
 lettuce
+lettuces
 letup
 leu
 leucemia
@@ -40493,6 +40512,7 @@ mainsheet
 mainsheets
 mainspring
 mainsprings
+mainstream
 mainstreaming
 maintainable
 maintaining
@@ -42222,6 +42242,7 @@ microphotometry
 microphysics
 micropipet
 micropipets
+micropipettes
 microplankton
 micropore
 microprisms
@@ -42361,6 +42382,7 @@ migs
 mihrabs
 mijnheers
 mikados
+mike
 miked
 mikra
 mikvos
@@ -43347,6 +43369,7 @@ modifiability
 modification
 modifications
 modified
+modifier
 modifying
 modioli
 modiolus
@@ -46361,6 +46384,7 @@ nos
 nose
 nosebag
 nosed
+nosedived
 nosedives
 noseguard
 noseguards
@@ -51839,6 +51863,7 @@ photoplays
 photopolymers
 photoproduction
 photoreaction
+photoreactions
 photoreceptions
 photoreceptors
 photoreduce
@@ -53595,6 +53620,7 @@ postfix
 postfixal
 postform
 postformed
+postforming
 postfreeze
 postgame
 postglacial
@@ -61681,6 +61707,7 @@ sanitises
 sanitized
 sanitizes
 sanitoria
+sanity
 sanjak
 sannop
 sannups
@@ -62191,6 +62218,7 @@ schistose
 schistosomes
 schizier
 schiziest
+schizogonies
 schizogonous
 schizogony
 schizont
@@ -72567,6 +72595,7 @@ tovarich
 tovarish
 tow
 towable
+towage
 toward
 towardlinesses
 toweled
@@ -72758,6 +72787,7 @@ trampier
 trampiest
 trampish
 trample
+tramplers
 tramples
 trampoline
 trampolines
@@ -73293,6 +73323,7 @@ trilateral
 trilbies
 trilinear
 trilingual
+triliteral
 triliteralism
 trilithon
 trilithons
@@ -74688,6 +74719,7 @@ uncomfortable
 uncomfortably
 uncomic
 uncommoner
+uncommonly
 uncommonness
 uncommonnesses
 uncommunicative
@@ -76501,6 +76533,7 @@ vacationlands
 vaccinas
 vaccinator
 vaccinators
+vaccine
 vaccinia
 vacillate
 vacillates
@@ -78600,6 +78633,7 @@ whimpering
 whimpers
 whims
 whimsey
+whimsicalities
 whimsicality
 whimsicalnesses
 whimsies
@@ -79630,6 +79664,7 @@ yardsticks
 yardwand
 yardwands
 yardwork
+yardworks
 yare
 yarely
 yarest
