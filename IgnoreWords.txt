@@ -288,6 +288,7 @@ accuracy
 accurate
 accurately
 accurateness
+accuratenesses
 accursed
 accursedly
 accursedness
@@ -934,6 +935,7 @@ affecter
 affecters
 affecting
 affectionate
+affectionately
 affectionless
 affections
 affective
@@ -1273,6 +1275,7 @@ airframes
 airfreight
 airfreighted
 airfreighting
+airholes
 airiest
 airings
 airlifting
@@ -1316,6 +1319,7 @@ airwomen
 airworthinesses
 aisles
 ajee
+ajowan
 ajuga
 akees
 akelas
@@ -1347,6 +1351,7 @@ alarm
 alarmable
 alarmed
 alarmedly
+alarmism
 alarmisms
 alarmist
 alarms
@@ -7750,6 +7755,7 @@ botulinuses
 boubou
 boudoirs
 bouffe
+bougainvillaea
 bough
 boughless
 boughpot
@@ -7999,6 +8005,7 @@ brandy
 brandying
 brannigan
 branning
+branny
 brans
 brantail
 brantails
@@ -10232,6 +10239,7 @@ catamarans
 catamenial
 catamite
 catamounts
+cataphoreses
 cataphoresis
 cataphylls
 cataplasms
@@ -11730,6 +11738,7 @@ churchlinesses
 churchly
 churchmanship
 churchmen
+churchwardens
 churchwomen
 churchy
 churlishly
@@ -12865,6 +12874,7 @@ coiffure
 coiffures
 coigne
 coigns
+coil
 coilability
 coilers
 coin
@@ -16091,6 +16101,7 @@ cunctator
 cunctators
 cundum
 cuneate
+cuneated
 cuneatic
 cuneiform
 cuneiforms
@@ -16839,6 +16850,7 @@ daubiest
 daubing
 daughter
 daughters
+daundering
 daunomycin
 daunomycins
 daunter
@@ -23845,6 +23857,7 @@ excellently
 excelsior
 excelsiors
 except
+excepting
 exceptional
 exceptionalisms
 exceptionality
@@ -24355,6 +24368,7 @@ extinctions
 extincts
 extinguishable
 extinguisher
+extinguishing
 extinguishment
 extirpation
 extirpators
@@ -29086,6 +29100,7 @@ goaled
 goalmouth
 goalmouths
 goalpost
+goaltender
 goaltenders
 goaltending
 goaltendings
@@ -29685,6 +29700,7 @@ greenishness
 greenishnesses
 greenkeeper
 greenlets
+greenlighting
 greenlit
 greenmailer
 greenmails
@@ -30334,6 +30350,7 @@ haberdashers
 habiliment
 habiliments
 habilitated
+habilitates
 habilitations
 habitabilities
 habitable
@@ -33599,6 +33616,7 @@ immeshes
 immeshing
 immies
 immigrant
+immigrants
 immigrates
 immigration
 immigrations
@@ -36372,6 +36390,7 @@ jambe
 jambing
 jamboree
 jambs
+jamlike
 jammable
 jammed
 jammer
@@ -45545,6 +45564,7 @@ nonabsorptive
 nonacademics
 nonacceptances
 nonaccrual
+nonachievements
 nonacid
 nonacidic
 nonacids
@@ -46013,6 +46033,7 @@ nonpregnant
 nonproblem
 nonprofessional
 nonprofits
+nonprogram
 nonprogrammers
 nonprosses
 nonprossing
@@ -51325,6 +51346,7 @@ pettable
 pettedly
 petters
 pettiest
+pettifogged
 pettifogging
 pettifoggings
 pettinesses
@@ -53554,6 +53576,7 @@ potassiums
 potato
 potatobug
 potatoes
+potatory
 potbellied
 potboil
 potboiled
@@ -57966,6 +57989,7 @@ reexpelling
 reexperience
 reexperienced
 reexplain
+reexplained
 reexplaining
 reexplains
 reexplore
@@ -59122,6 +59146,7 @@ requests
 requiem
 requiems
 requiescat
+requin
 requirements
 requires
 requisite
@@ -59866,6 +59891,7 @@ reverses
 reversibilities
 reversibility
 reversibly
+reversioner
 reversos
 revert
 revertant
@@ -65408,6 +65434,7 @@ snow
 snowbank
 snowbanks
 snowbell
+snowbells
 snowbelt
 snowberries
 snowbird
@@ -65815,6 +65842,7 @@ sonneteering
 sonneteers
 sonnetize
 sonnetized
+sonnetizing
 sonobuoy
 sonobuoys
 sonograms
@@ -67262,6 +67290,7 @@ steepening
 steepens
 steepest
 steepish
+steeple
 steeplebush
 steeplechase
 steeplechaser
@@ -69925,6 +69954,7 @@ syrupiest
 sysadmin
 sysadmins
 sysop
+systaltic
 system
 systematic
 systematically
@@ -72209,6 +72239,7 @@ topsoiling
 topsoils
 topstitch
 topstitched
+topstone
 topworked
 toques
 toquets
@@ -72568,6 +72599,7 @@ tramples
 trampoline
 trampolines
 trampolinist
+tramps
 trams
 tramway
 tramways
@@ -74891,6 +74923,7 @@ unenjoyed
 unenlarged
 unenriched
 unentered
+unenterprising
 unenthusiastic
 unenvied
 unequals
@@ -77080,6 +77113,7 @@ villa
 villadom
 villageries
 villagers
+villagery
 villages
 villainesses
 villainies
@@ -77808,6 +77842,7 @@ warheads
 warhorse
 warier
 wariness
+warinesses
 warison
 warisons
 warked
