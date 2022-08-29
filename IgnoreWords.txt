@@ -2221,6 +2221,7 @@ anaphorically
 anaphrodisiacs
 anaphylactoid
 anaphylaxis
+anaplasias
 anaptyxes
 anarch
 anarchically
@@ -6789,6 +6790,7 @@ birthstones
 birthworts
 biryani
 biryanis
+biscotto
 biscuit
 bise
 bisect
@@ -7087,6 +7089,7 @@ blini
 blinis
 blink
 blinkard
+blinked
 blinker
 blinking
 blintz
@@ -11571,6 +11574,7 @@ choler
 choleraic
 cholers
 cholestasis
+cholestatic
 cholesterol
 choline
 cholines
@@ -16187,6 +16191,7 @@ cupulae
 cupular
 cur
 curability
+curable
 curablenesses
 curacao
 curacaos
@@ -16266,6 +16271,7 @@ curriery
 curry
 currycombing
 currying
+curs
 curse
 cursed
 cursedness
@@ -17507,6 +17513,7 @@ deflea
 defleaed
 deflect
 deflecting
+deflection
 deflections
 deflective
 deflector
@@ -19515,6 +19522,7 @@ disenchanters
 disenchantingly
 disenchants
 disencumbered
+disencumbering
 disencumbers
 disendowed
 disendowing
@@ -20594,6 +20602,7 @@ downloading
 downplayed
 downplaying
 downplays
+downpour
 downpours
 downrightness
 downriver
@@ -23308,6 +23317,7 @@ erosional
 erosionally
 erosiveness
 erosivities
+erosivity
 erotic
 erotica
 eroticism
@@ -24293,6 +24303,7 @@ explication
 explications
 explicit
 explicits
+explode
 exploded
 explodes
 exploitable
@@ -27418,6 +27429,7 @@ frotteur
 frotteurs
 froufrou
 frouncing
+frouzier
 frouziest
 frowardnesses
 frowns
@@ -27779,6 +27791,7 @@ gabions
 gablelike
 gables
 gabs
+gaby
 gadabouts
 gadarene
 gadgetries
@@ -28777,6 +28790,7 @@ girosols
 girsh
 girt
 girted
+girting
 gisarme
 gismo
 gismos
@@ -29088,6 +29102,7 @@ glug
 glugged
 gluhwein
 gluily
+gluiness
 glum
 glumness
 glumpier
@@ -31480,6 +31495,7 @@ hematines
 hematinics
 hematins
 hematite
+hematologist
 hematomas
 hematopoiesis
 hematopoietic
@@ -39523,6 +39539,7 @@ lividnesses
 livier
 liviers
 living
+livingly
 livingness
 livings
 livre
@@ -40187,6 +40204,7 @@ lutherns
 lutings
 luv
 lux
+luxates
 luxes
 luxuriance
 luxuriances
@@ -42385,6 +42403,7 @@ mikados
 mike
 miked
 mikra
+mikron
 mikvos
 mil
 miladi
@@ -44903,6 +44922,7 @@ nascency
 nascent
 naseberries
 naseberry
+nasial
 nasion
 nasopharynx
 nastier
@@ -45352,6 +45372,7 @@ neutrinoless
 neutron
 neutrons
 neutrophil
+neutrophils
 neve
 neverminds
 neves
@@ -45714,6 +45735,7 @@ nonadults
 nonaffiliated
 nonaffluent
 nonages
+nonaggressions
 nonagricultural
 nonambiguous
 nonanimal
@@ -45940,6 +45962,7 @@ nonets
 nonevent
 nonevidence
 nonevidences
+nonexclusive
 nonexecutives
 nonexempts
 nonexistences
@@ -50128,6 +50151,7 @@ parfocalized
 parfocalizes
 parfocalizing
 parge
+parged
 parges
 pargeted
 pargets
@@ -54305,6 +54329,7 @@ prelives
 preload
 prelocate
 prelocates
+prelogical
 prelude
 preluder
 preludial
@@ -54864,6 +54889,7 @@ prismatic
 prismoidal
 prisoners
 priss
+prissiest
 prissy
 pristane
 pristanes
@@ -55162,6 +55188,7 @@ promiscuity
 promised
 promisee
 promisees
+promises
 promising
 promisors
 promo
@@ -56246,6 +56273,7 @@ quackish
 quackism
 quacks
 quacksalvers
+quacky
 quad
 quadding
 quadplexes
@@ -65306,6 +65334,7 @@ smallish
 smallmouth
 smallnesses
 smallswords
+smaltines
 smalts
 smaragde
 smaragdes
@@ -65363,6 +65392,7 @@ smirk
 smirkers
 smirkily
 smirks
+smirky
 smit
 smite
 smiter
@@ -66888,6 +66918,7 @@ sprattled
 sprattles
 sprawl
 sprawled
+sprawlier
 sprawling
 sprawls
 sprawly
@@ -71277,6 +71308,7 @@ testosterone
 testudines
 testudo
 tet
+tetanic
 tetanics
 tetanies
 tetanizations
@@ -71539,6 +71571,7 @@ theurgist
 thew
 thewiest
 they
+thiamin
 thiamine
 thiamines
 thiazole
@@ -76549,6 +76582,7 @@ vacuousness
 vacuousnesses
 vagabond
 vagabondages
+vagabondish
 vagabondism
 vagabondisms
 vagally
@@ -77923,6 +77957,7 @@ waitstaff
 waive
 waived
 waivers
+wakame
 wakames
 wake
 wakeboarder
