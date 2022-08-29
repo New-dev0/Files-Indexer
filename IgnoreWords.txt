@@ -1186,6 +1186,7 @@ agons
 agora
 agorae
 agoraphobia
+agoraphobics
 agoras
 agorot
 agouti
@@ -2586,6 +2587,7 @@ antefixal
 anteing
 antemortem
 antennae
+antennules
 antenuptial
 antepasts
 antependium
@@ -5506,6 +5508,7 @@ battue
 batty
 bauble
 baud
+baudekins
 bauds
 bauhinias
 baulk
@@ -7218,6 +7221,7 @@ bluebeat
 bluebeats
 bluebell
 blueberry
+bluebill
 bluebirds
 bluebonnets
 bluebooks
@@ -9722,6 +9726,7 @@ capacitive
 capacitively
 capacitor
 capacity
+caparisons
 capelan
 capercaillies
 capercailzie
@@ -14010,6 +14015,7 @@ conqueror
 conquerors
 conquian
 conquistador
+conquistadors
 cons
 consanguinity
 conscience
@@ -21270,6 +21276,7 @@ dyer
 dying
 dyked
 dykes
+dynameter
 dynamically
 dynamistic
 dynamo
@@ -22703,6 +22710,7 @@ enregister
 enregistered
 enregistering
 enregisters
+enrich
 enriched
 enricher
 enriches
@@ -23729,6 +23737,7 @@ euphuisms
 euphuistic
 euphuistically
 euphuists
+euploids
 euploidy
 eurhythmics
 eurhythmies
@@ -26938,6 +26947,7 @@ fornication
 fornications
 fornix
 forrit
+forsake
 forsaken
 forsakes
 forsaking
@@ -27431,6 +27441,7 @@ froufrou
 frouncing
 frouzier
 frouziest
+frowardness
 frowardnesses
 frowns
 frows
@@ -28918,6 +28929,7 @@ gleamer
 gleamers
 gleamier
 gleaming
+gleams
 gleamy
 gleanable
 gleaned
@@ -31620,6 +31632,7 @@ heralded
 heraldic
 heralding
 heraldist
+heraldists
 herb
 herbage
 herbaged
@@ -36771,6 +36784,7 @@ jinrikisha
 jinriksha
 jinx
 jinxes
+jipijapa
 jipijapas
 jitterbug
 jitterbugs
@@ -39990,6 +40004,7 @@ lowriders
 lox
 loxodrome
 loxodromes
+loyal
 loyaler
 loyalest
 loyalism
@@ -40992,6 +41007,7 @@ marimbist
 marimbists
 marina
 marinade
+marinaded
 marinades
 marinating
 marination
@@ -41428,6 +41444,7 @@ meatiest
 meatily
 meatinesses
 meatless
+meatloaves
 meatman
 meatmen
 meatpacking
@@ -44008,6 +44025,7 @@ motionlessness
 motivate
 motivated
 motivation
+motivations
 motivator
 motivators
 motive
@@ -45200,6 +45218,7 @@ neoprene
 neoprenes
 neorealism
 neorealisms
+neorealist
 neorealistic
 neostigmine
 neostigmines
@@ -47550,6 +47569,7 @@ oratress
 oratresses
 oratrix
 orb
+orbed
 orbicularly
 orbiest
 orbit
@@ -48148,6 +48168,7 @@ outgoes
 outgoingnesses
 outgrins
 outgrosses
+outgrossing
 outguesses
 outguessing
 outguide
@@ -49063,6 +49084,7 @@ overpromote
 overpromoted
 overprotect
 overprotected
+overprotections
 overpumps
 overquick
 overrash
@@ -51149,6 +51171,7 @@ perfuses
 perfusion
 pergolas
 perhapses
+perianths
 periapses
 periblems
 pericardia
@@ -52228,6 +52251,7 @@ pilgrimaging
 piliform
 pilings
 pilis
+pillage
 pillaged
 pillagers
 pillages
@@ -53225,6 +53249,7 @@ polychromy
 polyclonal
 polycrystal
 polycrystals
+polycyclic
 polycystic
 polycythemia
 polycythemias
@@ -57285,6 +57310,7 @@ reales
 realest
 realgar
 realign
+realignments
 realigns
 realise
 realises
@@ -57807,6 +57833,7 @@ recrossing
 recrown
 recrowning
 recrowns
+recrudesced
 recrudescences
 recruited
 recruiter
@@ -57842,6 +57869,7 @@ recuperate
 recuperated
 recurred
 recurrences
+recurrent
 recurring
 recursion
 recursions
@@ -60781,6 +60809,7 @@ romanticisms
 romanticist
 romanticization
 romanticize
+romanticizes
 romanticizing
 romantics
 romeo
@@ -62319,6 +62348,7 @@ schrod
 schtick
 schticks
 schtik
+schtiks
 schuit
 schuits
 schul
@@ -65843,6 +65873,7 @@ sogginesses
 soigne
 soignee
 soil
+soilage
 soiling
 soilless
 soilures
@@ -68923,6 +68954,7 @@ succuba
 succubi
 succubus
 succulent
+succumbs
 succussed
 such
 suchlike
@@ -73012,6 +73044,7 @@ trapball
 trapballs
 trapdoor
 trapdoors
+trapes
 trapesed
 trapesing
 trapeze
@@ -75349,6 +75382,7 @@ unhusks
 unhygienic
 unhyphenated
 uniaxial
+unibody
 unicameral
 unicorn
 unicycle
@@ -76875,6 +76909,7 @@ veal
 vealer
 vealiest
 vealy
+vector
 vectorial
 vedalia
 vedalias
