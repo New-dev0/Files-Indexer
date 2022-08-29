@@ -2238,6 +2238,7 @@ anchorwomen
 anchos
 anchovetas
 anchovettas
+anchusa
 anchylosed
 anchylosing
 ancient
@@ -3720,6 +3721,7 @@ ascendancy
 ascendantly
 ascendants
 ascendence
+ascendencies
 ascendents
 ascenders
 ascendible
@@ -4400,6 +4402,7 @@ autogamies
 autogamy
 autogenous
 autogiro
+autogiros
 autograft
 autografted
 autografting
@@ -10154,6 +10157,7 @@ casual
 casually
 casualnesses
 casualties
+casuarina
 casuarinas
 casuistical
 casuistries
@@ -11516,6 +11520,7 @@ chopsocky
 chopsticks
 choragus
 choraguses
+choral
 chorale
 chorals
 chordal
@@ -17220,6 +17225,7 @@ decupled
 decupling
 decurion
 decurions
+decussated
 decussates
 dedicated
 dedicates
@@ -18060,6 +18066,7 @@ derisible
 derisively
 derisiveness
 derisivenesses
+derivation
 derivatively
 derivatization
 derivatizations
@@ -20032,6 +20039,7 @@ documentarians
 documentarist
 documentation
 documentational
+documentations
 documented
 documenters
 documenting
@@ -24391,6 +24399,7 @@ eyepoppers
 eyes
 eyeshine
 eyesights
+eyespot
 eyestalks
 eyestrain
 eyestrains
@@ -27660,6 +27669,7 @@ galateas
 galavanted
 galax
 galbanum
+gale
 galeas
 galeate
 galena
@@ -27997,6 +28007,7 @@ gated
 gatefold
 gatefolds
 gatehouse
+gatekeepers
 gateless
 gatepost
 gaters
@@ -29782,6 +29793,7 @@ grotty
 grouch
 grouchier
 grouchiest
+grouchily
 ground
 groundburst
 grounded
@@ -30424,6 +30436,7 @@ halliards
 hallmark
 hallmarked
 halloa
+halloas
 halloes
 halloing
 halloos
@@ -32024,6 +32037,7 @@ homeotherm
 homeothermies
 homeothermy
 homeotic
+homeplace
 homeplaces
 homeported
 homeporting
@@ -32577,6 +32591,7 @@ humates
 humblebees
 humbled
 humbleness
+humblenesses
 humblingly
 humbuggeries
 humbuggers
@@ -34861,8 +34876,10 @@ inquiringly
 inquisition
 inquisitions
 inquisitor
+inquisitors
 inroads
 inrushing
+inrushings
 ins
 insalubrious
 insalubrities
@@ -37248,6 +37265,7 @@ kina
 kinara
 kinases
 kinder
+kindergarten
 kindergarteners
 kindergartens
 kindergartner
@@ -39529,6 +39547,7 @@ loons
 loony
 loop
 loopholed
+loopily
 loopinesses
 looping
 loops
@@ -40462,6 +40481,7 @@ manganites
 manganous
 mange
 mangels
+manger
 mangier
 mangily
 manginess
@@ -46157,6 +46177,7 @@ novitiates
 novocaine
 now
 nowheres
+nowise
 nows
 nowts
 noxious
@@ -46721,6 +46742,7 @@ oesophagus
 oestrin
 oestrones
 oestrums
+oestrus
 ofay
 off
 offal
@@ -52682,6 +52704,7 @@ pointillism
 pointillisms
 pointillist
 pointlessly
+pointlessness
 pointmen
 points
 pointy
@@ -57973,6 +57996,7 @@ regental
 reges
 reggae
 regicide
+regild
 regilding
 regilds
 regilt
@@ -61399,6 +61423,7 @@ sari
 sarkier
 sarks
 sarky
+sarments
 sarode
 sarodes
 sarongs
@@ -65148,6 +65173,7 @@ snooker
 snookering
 snooking
 snool
+snools
 snooping
 snoot
 snooted
@@ -66330,6 +66356,7 @@ spokeswomen
 spoking
 spoliations
 spondaics
+spondee
 spondylitises
 sponge
 sponges
@@ -68694,6 +68721,7 @@ sunlamp
 sunlamps
 sunlands
 sunlight
+sunlike
 sunn
 sunnahs
 sunned
@@ -70061,6 +70089,7 @@ taqueria
 taquerias
 tarama
 taramas
+tarantas
 tarantella
 tarantism
 tarantist
@@ -70078,6 +70107,7 @@ tardyon
 tared
 targetable
 targeting
+tariff
 tariffing
 tariffs
 tarlatan
@@ -72805,6 +72835,7 @@ trifocals
 trifold
 trifoliate
 trifoliums
+triforia
 triform
 trifurcated
 trifurcates
@@ -73979,6 +74010,7 @@ unassociated
 unassumingness
 unassured
 unathletic
+unatoned
 unattended
 unattenuated
 unattractively
@@ -74706,6 +74738,7 @@ unformulated
 unforthcoming
 unfortunately
 unfossiliferous
+unframed
 unfree
 unfreed
 unfreedom
@@ -77702,6 +77735,7 @@ watersheds
 watersides
 waterski
 waterthrushes
+watertightness
 waterweed
 waterwork
 waterzoois
@@ -79182,6 +79216,7 @@ yealings
 yeaned
 yeaning
 yeanlings
+yeans
 year
 yearbook
 yearbooks
