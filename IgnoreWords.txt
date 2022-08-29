@@ -372,6 +372,7 @@ achromats
 achromous
 aciculum
 acidemia
+acidic
 acidifier
 acidifiers
 acidifies
@@ -1138,6 +1139,7 @@ agita
 agitatedly
 agitating
 agitation
+agitational
 agitative
 agitprop
 aglare
@@ -1200,6 +1202,7 @@ agribusinessmen
 agricultural
 agriculturist
 agriculturists
+agrimonies
 agrochemical
 agroforester
 agroforestries
@@ -1281,6 +1284,7 @@ airplanes
 airports
 airpower
 airpowers
+airproof
 airproofed
 airproofing
 airs
@@ -6259,6 +6263,7 @@ betted
 better
 bettered
 bettering
+betterments
 betters
 bettors
 between
@@ -6606,6 +6611,7 @@ biogeographies
 biographee
 biographic
 biographically
+biographies
 biohazard
 biohazards
 bioherm
@@ -9250,6 +9256,7 @@ calciferol
 calcific
 calcifications
 calcified
+calcifuge
 calcimining
 calcinations
 calcine
@@ -10582,6 +10589,7 @@ centimorgan
 centimorgans
 centner
 centones
+centra
 centraler
 centralises
 centralism
@@ -11494,6 +11502,7 @@ chokes
 chokey
 chokier
 chola
+cholangiogram
 cholangiograms
 cholas
 cholecystectomy
@@ -12468,6 +12477,7 @@ coarsenesses
 coarsens
 coarsest
 coassisting
+coassists
 coassumed
 coassumes
 coast
@@ -14971,6 +14981,7 @@ countermemo
 countermines
 countermove
 countermyths
+counteroffer
 counteroffers
 counterordering
 counterorders
@@ -18383,6 +18394,7 @@ dethroner
 deticker
 detickers
 deticks
+detinue
 detonability
 detonatable
 detonation
@@ -19032,6 +19044,7 @@ diobolons
 diocese
 diodes
 dioecisms
+dioecy
 dioestruses
 diol
 diolefins
@@ -20918,6 +20931,7 @@ dub
 dubber
 dubbin
 dubbings
+dubiosity
 dubiously
 dubiousness
 dubiousnesses
@@ -21134,6 +21148,7 @@ dwarfish
 dwarfishly
 dwarfism
 dwarfisms
+dwarfnesses
 dweebish
 dweebs
 dweeby
@@ -24448,6 +24463,7 @@ eyeshine
 eyesights
 eyespot
 eyestalks
+eyestone
 eyestrain
 eyestrains
 eyetooth
@@ -25900,6 +25916,7 @@ flatterers
 flatteries
 flatteringly
 flattery
+flattish
 flattop
 flatulencies
 flatulency
@@ -28997,6 +29014,7 @@ glycogeneses
 glycolic
 glycolipids
 glycols
+glyconic
 glyconics
 glycoproteins
 glycosidases
@@ -33378,6 +33396,7 @@ ignobility
 ignominiously
 ignorami
 ignoramuses
+ignorance
 ignorances
 ignorant
 ignorantly
@@ -35290,6 +35309,7 @@ interdiffuse
 interdiffused
 interdiffusion
 interdigitate
+interdigitates
 interdigitating
 interdigitation
 interdivisional
@@ -37488,6 +37508,7 @@ knacks
 knackwurst
 knapped
 knapper
+knaps
 knapsacks
 knars
 knave
@@ -40017,6 +40038,7 @@ lyart
 lyase
 lyases
 lycea
+lycee
 lychees
 lyches
 lychnis
@@ -42254,6 +42276,7 @@ millage
 millboard
 millboards
 millcakes
+milldam
 milldams
 millefiori
 millefioris
@@ -44383,6 +44406,7 @@ mutiny
 mutinying
 mutisms
 mutt
+muttered
 mutterers
 muttering
 mutters
@@ -44396,6 +44420,7 @@ mutualities
 mutualize
 mutualizes
 mutular
+muumuus
 muzjiks
 muzziest
 muzzle
@@ -44621,6 +44646,7 @@ nanotech
 nanotechnology
 nanotesla
 nanotube
+nans
 naoi
 napalm
 napalmed
@@ -44635,6 +44661,7 @@ naphthyl
 naphtol
 napkin
 napkins
+napless
 napoleon
 nappa
 nappas
@@ -52573,6 +52600,7 @@ plenum
 pleochroisms
 pleomorphic
 pleomorphisms
+pleonal
 pleonasm
 pleonasms
 pleonastic
@@ -53060,6 +53088,7 @@ polyphenolic
 polyphones
 polyphonies
 polyphonous
+polyphonously
 polyphyletic
 polypide
 polyploidies
@@ -56929,6 +56958,7 @@ raze
 razee
 razees
 razers
+razes
 razorback
 razorbill
 razorbills
@@ -57895,6 +57925,7 @@ reestablishment
 reested
 reestimate
 reesting
+reevaluates
 reevaluating
 reeve
 reeves
@@ -62623,6 +62654,7 @@ seedtime
 seedy
 seeing
 seek
+seekers
 seeks
 seel
 seeled
@@ -65707,6 +65739,7 @@ somersaulting
 somersaults
 somerseted
 sometimes
+somewhats
 somewhere
 somewheres
 somewhither
@@ -68108,6 +68141,7 @@ subbasses
 subbing
 subblocks
 subbranch
+subbreeds
 subbureau
 subcabinet
 subcaste
@@ -74127,6 +74161,7 @@ unallayed
 unalleviated
 unallocated
 unallowed
+unalterability
 unalterable
 unambiguous
 unambitious
