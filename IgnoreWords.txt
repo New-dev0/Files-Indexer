@@ -458,6 +458,7 @@ acrimonies
 acrimoniously
 acrimoniousness
 acritarch
+acritical
 acrobatically
 acrobatics
 acrocentrics
@@ -734,6 +735,7 @@ adoptability
 adoptees
 adoptionist
 adopts
+adorability
 adorable
 adorableness
 adorably
@@ -2207,6 +2209,7 @@ anaphylactoid
 anaphylaxis
 anaptyxes
 anarch
+anarchically
 anarchies
 anarchism
 anarchist
@@ -3013,6 +3016,7 @@ aphasia
 aphasiac
 aphasias
 aphasics
+aphelia
 apheretic
 aphetic
 aphid
@@ -5004,6 +5008,7 @@ balletomania
 balletomanias
 ballets
 ballgame
+ballhawk
 ballistae
 ballistic
 ballistically
@@ -5251,6 +5256,7 @@ barny
 barogram
 barograph
 barographic
+barometries
 baronage
 baroness
 baronesses
@@ -7795,6 +7801,7 @@ bourgeoise
 bourgeoises
 bourgeon
 bourgeoned
+bourgeoning
 bourgs
 bourguignon
 bourree
@@ -8931,6 +8938,7 @@ butcherers
 butchering
 butchers
 butchery
+butches
 bute
 butene
 butenes
@@ -11232,6 +11240,7 @@ chicanos
 chiccories
 chicer
 chicest
+chichi
 chichier
 chichiest
 chichis
@@ -11501,6 +11510,7 @@ chokers
 chokes
 chokey
 chokier
+choking
 chola
 cholangiogram
 cholangiograms
@@ -15816,6 +15826,7 @@ crumply
 crumps
 cruncher
 crunches
+crunchier
 crunchinesses
 crunching
 crunode
@@ -18201,6 +18212,7 @@ desertic
 desertified
 desertifies
 desertify
+desertifying
 deserts
 deserve
 deservedly
@@ -24803,6 +24815,7 @@ farmed
 farmer
 farmerette
 farmerettes
+farmhands
 farmhouse
 farmlands
 farmstead
@@ -25837,6 +25850,7 @@ flamenco
 flamencos
 flamens
 flameproofed
+flameproofing
 flameproofs
 flames
 flamethrower
@@ -27875,6 +27889,7 @@ gammons
 gammy
 gamodeme
 gamodemes
+gamp
 gamut
 gan
 ganache
@@ -32776,6 +32791,7 @@ hurlers
 hurleys
 hurling
 hurlings
+hurrah
 hurrahing
 hurrahs
 hurrayed
@@ -33103,6 +33119,7 @@ hyperstatic
 hypersthene
 hypertense
 hypertension
+hyperthyroid
 hyperthyroidism
 hypertonia
 hypertonias
@@ -34165,6 +34182,7 @@ includable
 includes
 including
 inclusion
+inclusive
 inclusivenesses
 incoercible
 incognita
@@ -36732,6 +36750,7 @@ journalizing
 journeyed
 journeyers
 journeymen
+journo
 jousting
 jousts
 jow
@@ -37585,6 +37604,7 @@ knubbier
 knuckleballs
 knuckled
 knuckler
+knucklers
 knucklier
 knurl
 knurled
@@ -39468,6 +39488,7 @@ lockkeepers
 lockmaker
 lockmakers
 locknuts
+lockouts
 lockrams
 locks
 lockset
@@ -40020,6 +40041,7 @@ lutenists
 luteotrophin
 luteotrophins
 luteotropic
+luteotropin
 lutes
 lutetiums
 lutfisk
@@ -40633,6 +40655,7 @@ manifoldnesses
 manihot
 manilas
 manilla
+manille
 manioca
 maniocas
 maniocs
@@ -43792,6 +43815,7 @@ motets
 motherboard
 mothered
 motherfuckers
+motherhood
 motherhoods
 motherhouse
 mothering
@@ -48794,6 +48818,7 @@ overmixing
 overmodest
 overmuch
 overmuches
+overmuscled
 overnear
 overnew
 overnight
@@ -54588,6 +54613,7 @@ primates
 primateship
 primatial
 primatologies
+primatology
 prime
 primed
 primeness
@@ -56300,6 +56326,7 @@ quincunx
 quincunxial
 quinellas
 quinic
+quinidine
 quinidines
 quiniela
 quinielas
@@ -62429,6 +62456,7 @@ scuts
 scuttering
 scuttlebutt
 scuttled
+scutwork
 scutworks
 scuzzball
 scyphate
@@ -62711,6 +62739,7 @@ seisins
 seism
 seismic
 seismical
+seismicity
 seismism
 seismogram
 seismographic
@@ -62787,6 +62816,7 @@ selves
 semainiers
 semanteme
 semantic
+semantically
 semanticists
 semantics
 semaphored
@@ -68324,6 +68354,7 @@ sublibrarians
 sublicensing
 sublieutenant
 sublieutenants
+sublimable
 sublimate
 sublimates
 sublimely
@@ -68613,6 +68644,7 @@ subverts
 subvicars
 subviruses
 subvocalize
+subvocalizing
 subway
 subwayed
 subwoofer
@@ -73907,6 +73939,7 @@ typologic
 typologically
 typologies
 typologists
+typology
 typp
 typps
 typy
@@ -74459,6 +74492,7 @@ uncomic
 uncommoner
 uncommonness
 uncommonnesses
+uncommunicative
 uncompassionate
 uncompelling
 uncompensated
@@ -77651,6 +77685,7 @@ waitron
 waits
 waitstaff
 waive
+waived
 waivers
 wakames
 wake
