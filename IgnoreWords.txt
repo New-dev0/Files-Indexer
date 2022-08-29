@@ -534,6 +534,7 @@ actually
 actuarial
 actuary
 actuate
+actuated
 actuates
 actuator
 acuities
@@ -1796,6 +1797,7 @@ amasser
 amasses
 amassing
 amassments
+amateurishly
 amateurishness
 amateurism
 amateurisms
@@ -3060,6 +3062,7 @@ apochromatic
 apocopate
 apocopated
 apocrine
+apocrypha
 apocryphal
 apocryphalness
 apod
@@ -4326,6 +4329,7 @@ aurochs
 aurorae
 auroral
 aurorean
+aurous
 auscultate
 auscultated
 auscultating
@@ -13902,6 +13906,7 @@ conoid
 conquer
 conquered
 conquerers
+conqueror
 conquerors
 conquian
 conquistador
@@ -17958,6 +17963,7 @@ depoliticizes
 depolymerizing
 depopulating
 depopulation
+deport
 deportable
 deportation
 deportations
@@ -19182,6 +19188,7 @@ disarmaments
 disarmer
 disarmingly
 disarrangements
+disarraying
 disarrays
 disarticulate
 disarticulated
@@ -22301,6 +22308,7 @@ endogenously
 endogens
 endogeny
 endometrial
+endometriosis
 endometritis
 endomitoses
 endomixis
@@ -25161,6 +25169,7 @@ fervencies
 fervor
 fervour
 fes
+fess
 fesses
 fesswise
 festally
@@ -28704,6 +28713,7 @@ glassworks
 glauconites
 glaucous
 glaucousnesses
+glazers
 glazier
 glaziers
 glaziery
@@ -31162,6 +31172,7 @@ hegumeny
 heh
 heifer
 heifers
+heigh
 height
 heightening
 heightens
@@ -31734,6 +31745,7 @@ hindmost
 hindrance
 hindrances
 hinds
+hindsight
 hinge
 hinged
 hinging
@@ -36046,6 +36058,7 @@ isolate
 isolated
 isolates
 isolating
+isolation
 isolationists
 isolations
 isoleads
@@ -41433,6 +41446,7 @@ mending
 menhaden
 menhir
 menial
+menials
 meningeal
 meninges
 meningioma
@@ -41848,6 +41862,7 @@ miaowed
 miaowing
 miaows
 miasmas
+miasmata
 miasmatic
 miasmic
 miaul
@@ -42369,6 +42384,7 @@ minorities
 minoxidils
 minster
 minsters
+minstrel
 minstrels
 minstrelsy
 mintage
@@ -42555,6 +42571,7 @@ misclassified
 misclassifies
 misclassify
 misclassifying
+miscode
 miscodes
 miscoin
 miscoined
@@ -43207,6 +43224,7 @@ monarch
 monarchial
 monarchical
 monarchies
+monarchist
 monarchists
 monarchs
 monarchy
@@ -45573,6 +45591,7 @@ nondancers
 nondances
 nondecisions
 nondegenerate
+nondegree
 nondelegates
 nondeliveries
 nondelivery
@@ -47177,6 +47196,7 @@ optimizes
 optimum
 option
 optionalities
+optionality
 optionals
 optionee
 options
@@ -49577,6 +49597,7 @@ papism
 papisms
 papist
 papistic
+papistries
 papists
 papovaviruses
 pappoose
@@ -49890,6 +49911,7 @@ pars
 parsers
 parses
 parsimonious
+parsimony
 parsley
 parsleyed
 parsleys
@@ -51530,6 +51552,7 @@ photophobic
 photophore
 photophores
 photoplay
+photoplays
 photopolymers
 photoproduction
 photoreaction
@@ -51861,6 +51884,7 @@ pilei
 pileous
 piles
 pileum
+pilferable
 pilferages
 pilfered
 pilferers
@@ -55288,6 +55312,7 @@ psychoanalyses
 psychoanalyst
 psychoanalyzed
 psychoanalyzes
+psychobabbler
 psychobabblers
 psychobabbles
 psychobiography
@@ -59733,6 +59758,7 @@ revoice
 revoiced
 revoicing
 revoker
+revokers
 revolter
 revolute
 revolutionaries
@@ -62959,6 +62985,7 @@ seriffed
 serigraphers
 serigraphies
 serigraphs
+serigraphy
 serine
 seringa
 serins
@@ -65114,6 +65141,7 @@ sneller
 snelling
 snells
 snibbing
+snickerer
 snickerers
 snickering
 snickersnee
@@ -67895,6 +67923,7 @@ stylized
 stylizer
 stylizers
 stylizing
+stylobate
 stylography
 stylolite
 stylolites
@@ -69521,6 +69550,7 @@ symbologies
 symbols
 symmetrical
 symmetricalness
+symmetrization
 symmetrize
 sympathectomies
 sympathetics
@@ -72435,6 +72465,7 @@ transitions
 transitive
 transitively
 transitiveness
+transitivities
 transitivity
 transitorily
 transitoriness
@@ -75663,6 +75694,7 @@ unwisely
 unwiser
 unwished
 unwishing
+unwits
 unwitted
 unwitting
 unwooed
@@ -77631,6 +77663,7 @@ warthogs
 wartiest
 wartime
 wartless
+wartlike
 warwork
 warworks
 warworn
@@ -78234,6 +78267,7 @@ whitewash
 whitewasher
 whitewashing
 whitey
+whithersoever
 whitherward
 whities
 whitish
@@ -78717,6 +78751,7 @@ womanishness
 womanising
 womanize
 womanizer
+womanizes
 womankind
 womanless
 womanlier
