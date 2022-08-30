@@ -5079,6 +5079,7 @@ balloonings
 balloted
 ballpark
 ballparks
+ballplayer
 balls
 ballsiest
 ballsy
@@ -6488,6 +6489,7 @@ bield
 bielding
 biennales
 biennia
+biennially
 biennium
 bifacially
 bifarious
@@ -7609,6 +7611,7 @@ bonne
 bonnets
 bonnier
 bonniness
+bonninesses
 bonnocks
 bonny
 bonobo
@@ -14157,6 +14160,7 @@ conservatizing
 conservatorial
 conservators
 conservatorship
+conserver
 conservers
 consider
 considerably
@@ -15343,6 +15347,7 @@ cowardliness
 cowbane
 cowbell
 cowberries
+cowbirds
 cowboy
 cowboying
 cowboys
@@ -15728,6 +15733,7 @@ criminalities
 criminalization
 criminalize
 criminalized
+criminate
 criminated
 criminates
 criminating
@@ -21894,6 +21900,7 @@ egomanias
 egregiously
 egregiousness
 egressed
+egression
 egressions
 egrets
 eicosanoid
@@ -24383,6 +24390,7 @@ expanse
 expansibilities
 expansible
 expansional
+expansionist
 expansionists
 expansivenesses
 expat
@@ -25583,6 +25591,7 @@ feuilleton
 feuilletonism
 feuilletonist
 feuilletonists
+feus
 fever
 fevering
 feverish
@@ -27154,6 +27163,7 @@ fortissimos
 fortitudes
 fortnightlies
 fortnightly
+fortnights
 fortressed
 fortresses
 fortunatenesses
@@ -29190,6 +29200,7 @@ glissader
 glissaders
 glissades
 glissandi
+glissando
 glissandos
 glisten
 glistening
@@ -30345,6 +30356,7 @@ grumping
 grumps
 grumpy
 grungers
+grungiest
 grungy
 grunions
 grunted
@@ -35175,6 +35187,7 @@ ingratiation
 ingratiatory
 ingratitude
 ingredient
+ingredients
 ingresses
 ingression
 ingressive
@@ -36990,6 +37003,7 @@ jicamas
 jiff
 jiffs
 jiffy
+jig
 jigaboos
 jigged
 jigger
@@ -37532,6 +37546,7 @@ keepings
 keeps
 keepsake
 keepsakes
+keeshonden
 keeshonds
 keesters
 keets
@@ -37828,6 +37843,7 @@ kinetoplast
 kinfolk
 kingbirds
 kingbolts
+kinged
 kingfish
 kingfisher
 kingfishes
@@ -39435,6 +39451,7 @@ lightheartedly
 lighting
 lightings
 lightly
+lightness
 lightnesses
 lightning
 lightplane
@@ -41904,6 +41921,7 @@ megillahs
 megohms
 megs
 mehndi
+meinies
 meiny
 meiotically
 meitnerium
@@ -41979,6 +41997,7 @@ meltage
 meltages
 meltdowns
 melters
+melting
 meltingly
 melton
 meltons
@@ -42399,6 +42418,7 @@ methylations
 methyldopas
 methylic
 methylphenidate
+methylxanthine
 metical
 meticals
 meticulosities
@@ -42666,6 +42686,7 @@ midlists
 midlives
 midmost
 midnight
+midnights
 midrash
 midrashic
 midrashoth
@@ -44335,6 +44356,7 @@ motioners
 motionlessness
 motivate
 motivated
+motivating
 motivation
 motivations
 motivator
@@ -52578,6 +52600,7 @@ pigfishes
 pigged
 piggery
 piggie
+pigginess
 piggish
 pigheaded
 pigheadedly
@@ -53954,6 +53977,7 @@ portray
 portrayals
 portrayed
 portraying
+portrays
 portress
 portside
 posada
@@ -54934,6 +54958,7 @@ prescience
 presciences
 prescientific
 presciently
+prescinding
 prescored
 prescoring
 prescreened
@@ -56712,6 +56737,7 @@ quadrature
 quadratures
 quadrennia
 quadrennial
+quadrennials
 quadrennium
 quadricep
 quadriceps
@@ -57976,6 +58002,7 @@ recement
 recencies
 recensions
 recensors
+recent
 recentrifuged
 recept
 reception
@@ -62273,6 +62300,7 @@ sapropel
 sapropels
 saprophyte
 saprophytic
+saprophytically
 sapsago
 sapwood
 saraband
@@ -62733,6 +62761,7 @@ schizophrenics
 schizopods
 schizzier
 schizziest
+schizzy
 schlemiels
 schlemihl
 schlemihls
@@ -64925,6 +64954,7 @@ signed
 signee
 signees
 signer
+signers
 significance
 significances
 significancy
@@ -70776,6 +70806,7 @@ tachist
 tachiste
 tachistes
 tachometers
+tachyarrhythmia
 tachycardias
 tachylites
 tachylyte
@@ -74668,6 +74699,7 @@ twinjets
 twinkie
 twinkler
 twinkles
+twinkling
 twinset
 twinship
 twirl
@@ -75932,6 +75964,7 @@ unicyclist
 unideaed
 unideological
 unidiomatic
+unidirectional
 unific
 unified
 unifiers
@@ -76171,6 +76204,7 @@ unmix
 unmixed
 unmixing
 unmodernized
+unmold
 unmolded
 unmolds
 unmolten
@@ -79753,6 +79787,7 @@ withdrawable
 withdrawal
 withdrawing
 withdrawn
+withdrawnnesses
 withdraws
 withe
 wither
