@@ -2943,6 +2943,7 @@ antisnob
 antisocialist
 antisocialists
 antispasmodic
+antispasmodics
 antispending
 antistat
 antistate
@@ -4940,6 +4941,7 @@ badmouths
 baffies
 baffing
 bafflegab
+bafflement
 bafflements
 baffler
 bafflingly
@@ -6039,6 +6041,7 @@ belon
 belong
 belonging
 belongingnesses
+belongings
 beloveds
 below
 belted
@@ -9774,6 +9777,7 @@ capelan
 capercaillies
 capercailzie
 capercailzies
+capered
 capering
 capes
 capeskins
@@ -9870,6 +9874,7 @@ car
 carabao
 carabid
 carabin
+carabine
 carabiners
 carabines
 carabinier
@@ -11780,6 +11785,7 @@ chronon
 chronotherapy
 chrysalids
 chrysolite
+chrysomelid
 chrysomelids
 chrysoprase
 chrysotiles
@@ -17797,6 +17803,7 @@ deliberations
 deliberative
 delicate
 delicious
+deliciousnesses
 delicts
 delight
 delighted
@@ -18240,6 +18247,7 @@ deprived
 deprivers
 depriving
 deprogramed
+deprograming
 deprogrammed
 deprogramming
 depside
@@ -22394,6 +22402,7 @@ enameller
 enamellers
 enamels
 enamored
+enamors
 enamour
 enamoured
 enamouring
@@ -24345,6 +24354,7 @@ expectorated
 expectorating
 expectoration
 expectorations
+expects
 expedience
 expediences
 expediency
@@ -25716,6 +25726,7 @@ filmdom
 filmdoms
 filmed
 filmically
+filmiest
 filmily
 filming
 filmis
@@ -28449,6 +28460,7 @@ gelcap
 gelcaps
 gelder
 geldings
+gelds
 gelee
 gelidly
 gelidness
@@ -29177,6 +29189,7 @@ glops
 gloried
 glorify
 glorioles
+glorious
 gloriously
 glory
 glorying
@@ -29364,6 +29377,7 @@ gobbledygook
 gobbler
 gobbles
 gobioid
+gobioids
 goblin
 gobo
 gobonee
@@ -32372,6 +32386,7 @@ hols
 holsteins
 holster
 holstered
+holstering
 holydays
 holystone
 holystoned
@@ -33254,6 +33269,7 @@ hyenine
 hyetal
 hygeist
 hygieist
+hygiene
 hygienic
 hygienically
 hygrograph
@@ -33463,6 +33479,7 @@ hypokalemias
 hypokalemic
 hypolimnion
 hypomagnesemia
+hypomagnesemias
 hypomanic
 hypomorph
 hypomorphs
@@ -38629,6 +38646,7 @@ laundress
 laundresses
 laundrette
 laundrettes
+laundry
 laundryman
 laura
 lauras
@@ -45329,6 +45347,7 @@ negligibly
 negotiability
 negotiate
 negotiating
+negotiators
 negritude
 negs
 negus
@@ -46984,6 +47003,7 @@ objectiveness
 objectivenesses
 objectivism
 objectivisms
+objectivist
 objectivists
 objectivity
 objectors
@@ -54287,6 +54307,7 @@ precensoring
 precensors
 precenting
 preceptors
+preceptorship
 precessed
 precesses
 precessing
@@ -57504,6 +57525,7 @@ reactors
 readableness
 readablenesses
 readably
+readapt
 readapted
 readapts
 readdicted
@@ -58032,6 +58054,7 @@ recopy
 recopying
 recordation
 recordations
+recordings
 recordist
 recordists
 records
@@ -59313,6 +59336,7 @@ reoperate
 reoperated
 reoperates
 reopposes
+reopposing
 reorchestration
 reordered
 reorganization
@@ -60519,6 +60543,7 @@ rhesuses
 rhetoric
 rhetorically
 rhetorician
+rheum
 rheumatically
 rheumatism
 rheumatisms
@@ -61732,6 +61757,7 @@ sailboard
 sailboarded
 sailboards
 sailboater
+sailboating
 sailcloths
 sailer
 sailfish
@@ -66487,6 +66513,7 @@ soughed
 sought
 souled
 soulful
+soulfully
 soulfulnesses
 soulless
 soulmates
@@ -68689,6 +68716,7 @@ suavities
 subacidnesses
 subacrid
 subadolescents
+subadult
 subadults
 subaerially
 subagencies
@@ -69291,6 +69319,7 @@ suffers
 sufficers
 sufficiencies
 sufficiently
+suffixed
 suffixes
 suffixions
 sufflates
@@ -71854,6 +71883,7 @@ thermograph
 thermographers
 thermographs
 thermography
+thermohaline
 thermojunctions
 thermolabile
 thermometry
@@ -72364,6 +72394,7 @@ timing
 timocracy
 timorously
 timpani
+timpanists
 timpanum
 timpanums
 tinamou
@@ -73219,6 +73250,7 @@ transferrers
 transferring
 transferrins
 transfiguring
+transfixes
 transfixt
 transform
 transformation
@@ -75003,6 +75035,7 @@ unchartered
 unchastenesses
 unchaster
 unchastest
+unchastities
 uncheckable
 unchecked
 unchic
@@ -75783,6 +75816,7 @@ unitizer
 unitizers
 unitizing
 unitrust
+unity
 univalved
 universal
 universalism
@@ -76807,6 +76841,7 @@ urinator
 urinators
 urinemia
 urinogenital
+urinometer
 urn
 urnlike
 urns
