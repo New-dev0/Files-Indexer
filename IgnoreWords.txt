@@ -1000,6 +1000,7 @@ afflux
 afford
 affordabilities
 affordable
+affordably
 afforested
 afforests
 affrayer
@@ -3125,6 +3126,7 @@ apodictically
 apodosis
 apoenzymes
 apogamic
+apogean
 apogeic
 apolipoprotein
 apolipoproteins
@@ -4385,6 +4387,7 @@ auric
 auricle
 auricled
 auricula
+auriculae
 auriculate
 auris
 aurist
@@ -4955,6 +4958,7 @@ bafflement
 bafflements
 baffler
 bafflingly
+baffs
 bag
 bagasses
 bagatelle
@@ -5593,6 +5597,7 @@ bdellium
 beach
 beachball
 beachballs
+beachcombed
 beached
 beachfront
 beachgoer
@@ -7784,6 +7789,7 @@ borzois
 bos
 boscage
 boschvarks
+boshes
 boshvarks
 boskage
 boskages
@@ -9939,6 +9945,7 @@ caraways
 carb
 carbamates
 carbamic
+carbamides
 carbamino
 carbides
 carbineers
@@ -13533,6 +13540,7 @@ compactly
 compactness
 compactor
 compactors
+companied
 companioned
 companions
 companionship
@@ -17765,6 +17773,7 @@ dehiscences
 dehiscent
 dehorned
 dehorner
+dehorting
 dehumanization
 dehumanizations
 dehumanizes
@@ -20116,6 +20125,7 @@ distich
 distichal
 distill
 distillates
+distillations
 distilleries
 distils
 distinctively
@@ -22110,6 +22120,7 @@ elints
 elision
 elisions
 elitisms
+elitists
 elixir
 elk
 elkhound
@@ -23532,6 +23543,7 @@ errs
 ersatz
 ersatzes
 erstwhile
+eruct
 eructated
 eructating
 eructation
@@ -28474,6 +28486,7 @@ gavelock
 gavelocks
 gavot
 gavotted
+gawker
 gawkier
 gawkily
 gawking
@@ -30238,6 +30251,7 @@ grooved
 groovers
 grooves
 groovier
+grooviest
 groovy
 grope
 groped
@@ -32364,6 +32378,7 @@ hobnobber
 hobnobbers
 hoboing
 hoboism
+hobos
 hobs
 hock
 hocker
@@ -32563,6 +32578,7 @@ homeyness
 homeys
 homicidal
 homicidally
+homicides
 homie
 homier
 homies
@@ -33506,6 +33522,7 @@ hyperpolarizing
 hyperpyrexia
 hyperpyrexias
 hyperrational
+hyperreactive
 hyperreactor
 hyperreactors
 hyperresponsive
@@ -35063,6 +35080,7 @@ infeoffs
 infer
 inferable
 inferably
+inference
 inferences
 inferior
 inferiors
@@ -41497,6 +41515,7 @@ massiness
 massing
 massive
 massively
+massiveness
 massivenesses
 massless
 mastabas
@@ -43224,6 +43243,7 @@ miscodes
 miscoin
 miscoined
 miscolored
+miscomputation
 miscomputations
 miscompute
 miscomputes
@@ -44736,6 +44756,7 @@ multipurpose
 multiracialism
 multirange
 multiregional
+multireligious
 multiscreen
 multisensory
 multisite
@@ -45775,6 +45796,7 @@ newmarket
 newmarkets
 newmown
 newness
+newsagent
 newsboys
 newscast
 newscasts
@@ -48823,6 +48845,7 @@ outsmelling
 outsmelt
 outsmile
 outsmoked
+outsnore
 outsnoring
 outsoared
 outsoars
@@ -49502,6 +49525,7 @@ overregulations
 overreliance
 overreliances
 overreported
+overrepresented
 overridden
 override
 overrife
@@ -51267,6 +51291,7 @@ pelletized
 pelletizer
 pelletizers
 pelletizes
+pellicle
 pellucid
 pelmets
 peloric
@@ -56585,6 +56610,7 @@ putridly
 putsches
 putt
 putted
+puttee
 puttees
 putter
 puttered
@@ -57518,6 +57544,7 @@ rashest
 rasp
 raspberries
 rasped
+raspers
 raspier
 raspiest
 raspiness
@@ -58848,6 +58875,7 @@ refurnished
 refurnishing
 refusable
 refuse
+refused
 refusenik
 refuseniks
 refuser
@@ -59745,6 +59773,7 @@ reprieved
 reprimand
 reprinters
 reprints
+reprisal
 reprisals
 reprising
 repristinated
@@ -61931,6 +61960,7 @@ safeties
 safety
 safetyman
 safflower
+safflowers
 saffron
 safranin
 safranine
@@ -63591,6 +63621,7 @@ semeiologies
 sememes
 semen
 semens
+semester
 semestrial
 semi
 semiangle
@@ -66353,6 +66384,7 @@ sockeyes
 socles
 socmen
 sod
+soda
 sodaless
 sodalities
 sodamide
@@ -71142,6 +71174,7 @@ taperstick
 tapestried
 tapestries
 tapestry
+tapestrying
 tapetal
 taphonomic
 taphouse
@@ -77768,6 +77801,7 @@ vermilioning
 vermillions
 vermis
 vermoulu
+vermouth
 vermouths
 vermuth
 vernacular
@@ -80702,6 +80736,7 @@ zincking
 zincky
 zincy
 zine
+zines
 zingani
 zingano
 zingara
