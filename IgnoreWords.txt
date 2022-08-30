@@ -2057,6 +2057,7 @@ amphictyony
 amphidiploidies
 amphigories
 amphimixes
+amphioxus
 amphioxuses
 amphiphile
 amphiploids
@@ -9679,6 +9680,7 @@ canopied
 canopy
 canorous
 canorousness
+cansful
 canso
 cantaloupes
 cantankerously
@@ -15944,6 +15946,7 @@ crustinesses
 crustless
 crustose
 crusty
+crutch
 crutching
 crux
 cruzadoes
@@ -17836,6 +17839,7 @@ dematerialized
 deme
 demeaning
 demeanours
+demeans
 dement
 dementedness
 dementednesses
@@ -19018,6 +19022,7 @@ diglossias
 diglossic
 diglot
 diglots
+dignify
 dignifying
 dignitaries
 dignitary
@@ -19148,6 +19153,7 @@ dinkums
 dinky
 dinnerless
 dinnertime
+dinnertimes
 dinnerwares
 dinning
 dino
@@ -21997,6 +22003,7 @@ eluate
 elucidated
 elucidating
 elucidative
+elucidators
 elucubrates
 elucubrations
 eluded
@@ -22285,6 +22292,7 @@ emptying
 empurple
 empurpling
 empyemata
+empyemic
 empyreal
 ems
 emu
@@ -25371,6 +25379,7 @@ ferule
 feruled
 ferules
 fervencies
+fervidity
 fervor
 fervour
 fes
@@ -25790,6 +25799,7 @@ firefighter
 firefighters
 firefights
 fireflies
+firefloods
 firefly
 firehall
 fireless
@@ -39023,6 +39033,7 @@ lexemic
 lexes
 lexical
 lexicalisation
+lexicalities
 lexicalization
 lexicalized
 lexically
@@ -39189,6 +39200,7 @@ ligaments
 ligan
 ligands
 ligans
+ligating
 ligation
 ligative
 ligature
@@ -40196,6 +40208,7 @@ lunulated
 lunule
 lupanar
 lupulins
+lurch
 lurched
 lurches
 lurching
@@ -41734,6 +41747,7 @@ melongene
 melons
 melphalans
 meltage
+meltages
 meltdowns
 melters
 meltingly
@@ -42440,6 +42454,7 @@ midtown
 midtowns
 midwatch
 midwatches
+midways
 midweek
 midwife
 midwiferies
@@ -42579,6 +42594,7 @@ millimolar
 millimole
 milline
 millineries
+millinery
 millings
 milliohms
 million
@@ -43047,6 +43063,7 @@ misgave
 misgive
 misgiving
 misgivings
+misgovernments
 misgraded
 misgrades
 misgrafting
@@ -44261,6 +44278,7 @@ mucus
 mudcapped
 mudcapping
 mudcat
+mudcats
 mudder
 muddied
 muddier
@@ -47043,6 +47061,7 @@ oceanic
 oceanographic
 oceanographies
 oceanography
+oceanologies
 oceanologists
 ocellate
 oceloid
@@ -47278,6 +47297,7 @@ oleaginous
 oleaginously
 oleanders
 oleaster
+oleasters
 olefine
 olefines
 olefinic
@@ -49052,6 +49072,7 @@ overlit
 overliteral
 overlived
 overloaded
+overloading
 overloads
 overlooking
 overlorded
@@ -52316,7 +52337,9 @@ pilei
 pileous
 piles
 pileum
+pileus
 pilferable
+pilferage
 pilferages
 pilfered
 pilferers
@@ -54461,6 +54484,7 @@ premeditating
 premeditations
 premeditative
 premeds
+premeet
 premenopausal
 premenstrual
 premie
@@ -56865,6 +56889,7 @@ radiolabeled
 radiolarian
 radiolarians
 radiologically
+radiologies
 radiologist
 radiologists
 radiolyses
@@ -63100,6 +63125,7 @@ seizer
 seizers
 seizins
 seizure
+seizures
 selamliks
 selcouth
 select
@@ -65275,6 +65301,7 @@ slipforming
 slipknots
 slipped
 slipperier
+slipperinesses
 slipping
 slippy
 slipsheet
@@ -68494,6 +68521,7 @@ suasion
 suasions
 suasiveness
 suasivenesses
+suasory
 suave
 suavely
 suaveness
@@ -69498,6 +69526,7 @@ supermasculine
 supermind
 superminds
 superminister
+supermodels
 supernatant
 supernates
 supernaturalist
@@ -70969,6 +70998,7 @@ teenaged
 teenager
 teenagers
 teener
+teenier
 teentsier
 teenyboppers
 tees
@@ -72633,6 +72663,7 @@ torquer
 torquers
 torr
 torrefies
+torrefy
 torrefying
 torrentially
 torrid
@@ -74465,6 +74496,7 @@ ultraquiet
 ultraradical
 ultrarare
 ultrararefied
+ultrarealist
 ultrarealistic
 ultrared
 ultrareds
@@ -75484,6 +75516,7 @@ unhyphenated
 uniaxial
 unibody
 unicameral
+unicellular
 unicorn
 unicycle
 unicycled
@@ -76549,6 +76582,7 @@ urbanising
 urbanisms
 urbanist
 urbanistic
+urbanistically
 urbanists
 urbanites
 urbanity
@@ -78885,6 +78919,7 @@ whitenesses
 whitening
 whitens
 whiteouts
+whiter
 whites
 whitewall
 whitewash
