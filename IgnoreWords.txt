@@ -2084,6 +2084,7 @@ ampler
 amplexus
 amplidyne
 amplidynes
+amplified
 amplifiers
 amplifies
 amplify
@@ -4444,6 +4445,7 @@ auto
 autoantibodies
 autobahns
 autobiographer
+autobiographic
 autobiography
 autobuses
 autocades
@@ -5965,6 +5967,7 @@ bejewel
 bejeweled
 bejeweling
 bejewels
+bejumbled
 bejumbles
 bejumbling
 bekiss
@@ -7045,6 +7048,7 @@ blastodiscs
 blastomycoses
 blastomycosis
 blastopore
+blastospore
 blastospores
 blastulae
 blastular
@@ -7218,6 +7222,7 @@ bloomier
 bloomiest
 blooming
 bloomless
+bloomy
 blooped
 blooper
 bloopers
@@ -9632,6 +9637,7 @@ candlestick
 candlesticks
 candlewood
 candlewoods
+candling
 candours
 candy
 candyfloss
@@ -13039,6 +13045,7 @@ coistril
 coition
 coitional
 coitions
+coitus
 cojoin
 cojoined
 cojoining
@@ -13312,6 +13319,7 @@ comal
 comanaged
 comanagements
 comanager
+comatiks
 comatula
 combat
 combatant
@@ -15115,6 +15123,7 @@ counterchanges
 countercharges
 countercheck
 counterclaim
+counterclaimed
 counterclaiming
 countercoups
 countercries
@@ -21285,6 +21294,7 @@ dunts
 duodecillions
 duodecimal
 duodecimals
+duodecimo
 duodena
 duolog
 duologue
@@ -25224,6 +25234,7 @@ fearers
 fearful
 fearfullest
 fearlessness
+fearlessnesses
 fears
 fearsome
 feased
@@ -25580,6 +25591,7 @@ fiascoes
 fiascos
 fib
 fibber
+fibbers
 fibbing
 fibered
 fiberfill
@@ -28882,6 +28894,7 @@ gillers
 gillies
 gilling
 gillnet
+gillnetter
 gilly
 gilt
 gilts
@@ -29537,6 +29550,7 @@ goodbys
 goodie
 goodish
 goodliest
+goodly
 goodman
 goodmen
 goodness
@@ -30079,6 +30093,7 @@ grimaced
 grimacing
 grime
 grimes
+grimiest
 grimily
 griminess
 griminesses
@@ -39921,6 +39936,7 @@ lodging
 lodicule
 lodicules
 loesses
+lofted
 loftiness
 loftless
 loftlike
@@ -40006,6 +40022,7 @@ loneliest
 lonelily
 lonelinesses
 lonely
+loneness
 lonesome
 lonesomely
 lonesomes
@@ -42267,6 +42284,7 @@ metasomatic
 metastably
 metastases
 metastasis
+metastasize
 metastasizes
 metastatically
 metatarsus
@@ -43206,6 +43224,7 @@ misenrolls
 miser
 miserableness
 misericords
+miserliness
 miserly
 misesteem
 misesteemed
@@ -43267,6 +43286,7 @@ mishitting
 mishmash
 mishmosh
 misidentified
+misidentifies
 misidentifying
 misimpression
 misimpressions
@@ -43319,6 +43339,7 @@ mismanaged
 mismanagement
 mismanagements
 mismanages
+mismarking
 mismarriage
 mismarriages
 mismatched
@@ -50172,6 +50193,7 @@ pantie
 pantile
 panting
 pantisocracy
+pantisocratist
 pantisocratists
 panto
 pantoffles
@@ -51741,6 +51763,7 @@ pervasions
 pervasively
 pervasiveness
 pervasivenesses
+perverseness
 pervert
 pervertedly
 pervertednesses
@@ -52166,6 +52189,7 @@ photogenic
 photogeologic
 photogeological
 photogeologist
+photogrammetric
 photogrammetry
 photographer
 photographers
@@ -54214,6 +54238,7 @@ practicing
 practicum
 practise
 practised
+praedial
 praenomen
 praenomina
 praesidia
@@ -54558,6 +54583,7 @@ prefaded
 prefades
 prefascist
 prefer
+preferable
 preferential
 preferments
 preferrer
@@ -60081,6 +60107,7 @@ restocks
 restoked
 restoral
 restorals
+restorative
 restoratives
 restorers
 restores
@@ -61250,6 +61277,7 @@ roseate
 roseately
 rosebays
 rosebud
+rosebuds
 rosebush
 rosefishes
 rosehip
@@ -61553,6 +61581,7 @@ rumbustiousness
 rumen
 rumens
 rumina
+ruminate
 ruminated
 ruminates
 ruminating
@@ -71951,6 +71980,7 @@ thereon
 theres
 theretofore
 thereunder
+theriac
 theriacal
 therians
 thermalization
@@ -75127,6 +75157,7 @@ unchancy
 unchangeable
 unchanging
 unchangingness
+unchanneled
 unchaperoned
 uncharged
 uncharges
@@ -76831,6 +76862,7 @@ upstarting
 upstate
 upstater
 upstepped
+upsteps
 upstir
 upstirs
 upstood
@@ -76945,6 +76977,7 @@ urinations
 urinator
 urinators
 urinemia
+urinemias
 urinogenital
 urinometer
 urn
@@ -77136,6 +77169,7 @@ valorising
 valorization
 valorizations
 valorized
+valorously
 valour
 valpolicellas
 valuable
@@ -80356,6 +80390,7 @@ yoks
 yolk
 yolkier
 yolks
+yon
 yoni
 yonic
 yonis
