@@ -376,6 +376,7 @@ achromat
 achromatisms
 achromatize
 achromatizes
+achromatizing
 achromats
 achromous
 aciculum
@@ -3935,6 +3936,7 @@ assented
 assenter
 assenters
 assenting
+assentive
 assentor
 assentors
 assents
@@ -9107,6 +9109,7 @@ buy
 buyable
 buyback
 buybacks
+buyoff
 buyout
 buys
 buzukis
@@ -14915,6 +14918,7 @@ corsets
 corslets
 cortexes
 cortically
+corticoid
 corticoids
 corticosterone
 corticotrophin
@@ -15262,6 +15266,7 @@ courtrooms
 courts
 courtships
 courtside
+courtsides
 couscous
 couscouses
 cousin
@@ -17180,6 +17185,7 @@ debridement
 debriding
 debriefed
 debriefs
+debris
 debruises
 debs
 debt
@@ -20965,6 +20971,7 @@ drillings
 drillmaster
 drills
 drink
+drinkabilities
 drinkability
 drinkables
 drinkably
@@ -21471,6 +21478,7 @@ earldom
 earldoms
 earless
 earlier
+earliness
 earlinesses
 earlock
 earlship
@@ -28614,6 +28622,7 @@ genuflects
 genuinenesses
 genus
 genuses
+geobotanical
 geobotanists
 geocentrically
 geochemical
@@ -29251,6 +29260,7 @@ glucinums
 glucocorticoids
 gluconates
 gluconeogeneses
+gluconeogenesis
 glucose
 glucosic
 glucosidase
@@ -29927,6 +29937,7 @@ greases
 greasiness
 greasing
 greatcoats
+greatens
 greathearted
 greatheartedly
 greatly
@@ -30202,6 +30213,7 @@ group
 groupable
 grouper
 groupie
+grouping
 groupoids
 groups
 groupthinks
@@ -30360,6 +30372,7 @@ guesstimated
 guesstimates
 guessworks
 guesting
+guests
 guffs
 guggle
 guggled
@@ -31914,6 +31927,7 @@ hessonites
 hetaeric
 hetaerism
 hetairas
+hetero
 heteroatom
 heteroclite
 heterocycles
@@ -32538,6 +32552,7 @@ homosexually
 homosexuals
 homosocialities
 homospories
+homotaxes
 homothallic
 homotransplants
 homozygosities
@@ -35991,6 +36006,7 @@ intracellular
 intracellularly
 intracity
 intracompany
+intracranial
 intractably
 intraday
 intradermally
@@ -41566,6 +41582,7 @@ may
 mayapples
 maybes
 maybird
+maybush
 maybushes
 maydays
 mayed
@@ -45051,6 +45068,7 @@ nam
 namaycushes
 nameable
 named
+namelessness
 namely
 namers
 nametag
@@ -45268,6 +45286,7 @@ neaten
 neatening
 neater
 neath
+neatherds
 neatly
 neatnik
 neats
@@ -45496,6 +45515,7 @@ nerves
 nervier
 nerviest
 nervines
+nervous
 nervousness
 nervousnesses
 nervules
@@ -47168,6 +47188,7 @@ obviating
 obviations
 obviator
 obviators
+obviously
 obviousnesses
 obvolute
 oca
@@ -48944,6 +48965,7 @@ overclass
 overclasses
 overclassified
 overclassifying
+overcleaned
 overcleaning
 overclear
 overclears
@@ -52470,6 +52492,7 @@ piggish
 pigheaded
 pigheadedly
 piglets
+pigment
 pigmentary
 pigmentations
 pigmented
@@ -57686,6 +57709,7 @@ reassemblies
 reassembling
 reassembly
 reasserted
+reassertion
 reassertions
 reassess
 reassessed
@@ -59956,6 +59980,7 @@ resplendent
 resplice
 resplicing
 resplit
+resplits
 respoken
 respond
 respondent
@@ -60756,6 +60781,7 @@ rifles
 rifling
 riflip
 rifting
+rig
 rigadoon
 rigadoons
 rigamarole
@@ -61205,6 +61231,7 @@ rosehip
 roselike
 roselle
 roselles
+rosemary
 roseolas
 roseries
 roseroot
@@ -62852,6 +62879,7 @@ scratchboards
 scratcher
 scratchers
 scratches
+scratchily
 scratchiness
 scrawlers
 scrawniest
@@ -63561,6 +63589,7 @@ senseis
 senselessness
 senselessnesses
 sensibilia
+sensibleness
 sensibler
 sensiblest
 sensillae
@@ -66804,6 +66833,7 @@ spectate
 spectated
 spectates
 spectator
+spectatorial
 spectatorship
 spectinomycin
 spectrally
@@ -67579,6 +67609,7 @@ stagily
 stagnances
 stagnant
 stagnantly
+stagnate
 stagnated
 stagnation
 stags
@@ -67960,6 +67991,7 @@ stereographic
 stereographies
 stereoisomeric
 stereoisomerism
+stereologically
 stereology
 stereophonic
 stereopticon
@@ -73062,6 +73094,7 @@ toxemic
 toxic
 toxical
 toxically
+toxicant
 toxicants
 toxicologies
 toxicologist
@@ -74409,6 +74442,7 @@ tussores
 tussuck
 tussucks
 tussur
+tut
 tutelages
 tutelaries
 tutelars
@@ -75744,6 +75778,7 @@ unhorsed
 unhorses
 unhostile
 unhoused
+unhouses
 unhousing
 unhuman
 unhumorous
