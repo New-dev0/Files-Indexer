@@ -3330,6 +3330,7 @@ aquacultures
 aquaculturist
 aquaculturists
 aquafarm
+aquafarming
 aquanauts
 aquaplanes
 aquaplaning
@@ -3582,6 +3583,7 @@ armillae
 arming
 armistices
 armlock
+armlocks
 armoire
 armonica
 armor
@@ -4873,6 +4875,7 @@ backstretches
 backstroke
 backswing
 backtracked
+backward
 backwardly
 backwardness
 backwardnesses
@@ -6331,6 +6334,7 @@ bewilder
 bewilderedly
 bewilderedness
 bewildering
+bewilderingly
 bewinged
 bewitcher
 bewitcheries
@@ -7632,6 +7636,7 @@ bookstore
 bookstores
 boom
 boomboxes
+boomed
 boomer
 boomeranged
 boomier
@@ -12230,6 +12235,7 @@ cleavers
 cleaves
 clef
 clefs
+cleft
 clefting
 clefts
 cleistogamic
@@ -13882,6 +13888,7 @@ confuses
 confusing
 confuter
 confutes
+confuting
 congaed
 congas
 conge
@@ -18497,6 +18504,7 @@ deters
 detersive
 detestable
 detestation
+dethatches
 dethatching
 dethroner
 deticker
@@ -24515,6 +24523,7 @@ extraordinaire
 extrapolated
 extrapolations
 extrapolator
+extrapolators
 extrapyramidal
 extrasensory
 extrasystoles
@@ -25328,6 +25337,7 @@ ferrelled
 ferret
 ferreter
 ferreters
+ferriage
 ferriages
 ferried
 ferriferous
@@ -26230,6 +26240,7 @@ floatation
 floatels
 floaters
 floating
+floatplane
 floaty
 flocci
 floccing
@@ -29813,6 +29824,7 @@ greed
 greedier
 greediest
 greedily
+greedinesses
 greedsome
 greedy
 greegree
@@ -33050,6 +33062,7 @@ hydrangea
 hydrant
 hydranths
 hydras
+hydrase
 hydrastis
 hydrate
 hydrates
@@ -35149,6 +35162,7 @@ inosculated
 inosculates
 inosculation
 inosine
+inosites
 inotropic
 inpatients
 inpour
@@ -40573,6 +40587,7 @@ mainframes
 mainlander
 mainlands
 mainlining
+mainmast
 mainmasts
 mains
 mainsail
@@ -41819,6 +41834,7 @@ menthene
 mentioned
 mentioner
 mentioners
+mentioning
 mentored
 mentorship
 menudos
@@ -41948,6 +41964,7 @@ mesocarps
 mesocyclones
 mesodermal
 mesogleal
+mesogleas
 mesomeres
 mesomorph
 mesomorphy
@@ -46049,6 +46066,7 @@ nonfeudal
 nonfictions
 nonfigurative
 nonfilamentous
+nonfilial
 nonfinal
 nonfinancial
 nonfluencies
@@ -46123,6 +46141,7 @@ nonintoxicating
 nonintrusive
 noninvolved
 noninvolvements
+nonirradiated
 nonirrigated
 nonirritant
 nonirritating
@@ -47138,6 +47157,7 @@ oestrin
 oestrones
 oestrums
 oestrus
+oestruses
 ofay
 off
 offal
@@ -48270,6 +48290,7 @@ outleaps
 outleapt
 outlearns
 outlearnt
+outlet
 outlier
 outline
 outlined
@@ -48484,6 +48505,7 @@ outsources
 outspan
 outspans
 outsparkled
+outspeaking
 outspeeded
 outspeeds
 outspell
@@ -49287,6 +49309,7 @@ overtasked
 overtasking
 overtax
 overtaxations
+overtaxed
 overteach
 overteaching
 overthick
@@ -50183,6 +50206,7 @@ parch
 parcheesis
 parchesis
 parching
+parchisis
 parchment
 pard
 pardah
@@ -51767,6 +51791,7 @@ phizes
 phlebitic
 phlebogram
 phlebograms
+phlebotomist
 phlebotomists
 phlebotomy
 phlegmier
@@ -53885,6 +53910,7 @@ pouch
 pouchier
 pouchiest
 poufed
+pouffes
 pouffs
 poulard
 poult
@@ -55242,6 +55268,7 @@ prolixities
 prolixity
 prolog
 prologed
+prologing
 prologists
 prologize
 prologized
@@ -63542,6 +63569,7 @@ serviceberries
 servicemen
 services
 servicing
+serviette
 servitudes
 servo
 servomechanism
@@ -65795,6 +65823,7 @@ snuffling
 snuffy
 snuggerie
 snuggery
+snuggles
 snugly
 snugness
 snugnesses
@@ -67407,6 +67436,7 @@ standpipes
 standpoint
 standpoints
 standstills
+standups
 stanged
 stanhopes
 stanine
@@ -69540,6 +69570,7 @@ superstars
 superstate
 superstations
 superstimulate
+superstimulated
 superstition
 superstitions
 superstitiously
@@ -70167,6 +70198,7 @@ syncretists
 syncretizing
 syncytia
 syncytial
+syncytium
 syndactyl
 syndactylism
 syndactyls
@@ -73332,6 +73364,7 @@ tribuneships
 tribute
 tricarboxylic
 trice
+tricep
 triceps
 tricepses
 trichiases
@@ -75023,6 +75056,7 @@ undergo
 undergod
 undergods
 undergoer
+undergoes
 undergone
 undergrad
 undergrads
@@ -78320,6 +78354,7 @@ waterborne
 waterbus
 watercolorists
 watercooler
+watercoolers
 watercourses
 watercraft
 watercrafts
