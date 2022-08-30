@@ -1405,6 +1405,7 @@ alcidine
 alcids
 alcohol
 alcoholically
+alcoholisms
 alcyonarians
 aldehydic
 alderflies
@@ -1536,6 +1537,7 @@ alkalizer
 alkalizers
 alkalizes
 alkalizing
+alkaloidal
 alkaloids
 alkaloses
 alkane
@@ -6946,6 +6948,7 @@ blade
 bladed
 bladeless
 bladelike
+blades
 blaeberries
 blaff
 blagging
@@ -12783,6 +12786,7 @@ coelentera
 coelenterates
 coelomata
 coelomate
+coelomic
 coeloms
 coelostat
 coelostats
@@ -13441,6 +13445,7 @@ companionship
 companionships
 companying
 comparatists
+comparatively
 comparativists
 comparator
 comparer
@@ -18137,6 +18142,7 @@ depraved
 depravedly
 depravedness
 depravement
+depraver
 depraving
 depravities
 deprecated
@@ -21513,6 +21519,7 @@ echinus
 echiuroids
 echograms
 echoic
+echoing
 echolalia
 echolalias
 echolalic
@@ -24725,6 +24732,7 @@ failingly
 failings
 failles
 fails
+failures
 fain
 faineance
 faineant
@@ -25865,6 +25873,7 @@ fissionables
 fissiped
 fissural
 fissured
+fissures
 fistfight
 fistfights
 fisticuff
@@ -27848,6 +27857,7 @@ gaging
 gagmen
 gagsters
 gahnite
+gahnites
 gaillardias
 gainable
 gained
@@ -28463,6 +28473,7 @@ gentlemanliness
 gentlemanly
 gentlemen
 gentlenesses
+gentleperson
 gentler
 gentling
 gentoo
@@ -28472,6 +28483,7 @@ gentrifications
 gentrified
 gentrify
 gentrifying
+gentry
 genua
 genuflect
 genuflections
@@ -29907,6 +29919,7 @@ griffs
 grift
 grifts
 grig
+grigris
 grillades
 grille
 grillers
@@ -30435,6 +30448,7 @@ gynecological
 gynecologies
 gynecomastia
 gyniatries
+gynoecia
 gynogeneses
 gynogenesis
 gynophobe
@@ -30583,6 +30597,7 @@ haggish
 haggishly
 haggle
 haggled
+haggler
 hagglers
 haggles
 hagiarchy
@@ -35139,6 +35154,7 @@ inpatients
 inpour
 inpoured
 inpouring
+inpours
 inputs
 inputting
 inquieted
@@ -40403,6 +40419,7 @@ macronutrient
 macrophage
 macrophotograph
 macrophyte
+macros
 macroscales
 macroscopic
 macroscopically
@@ -40667,6 +40684,7 @@ maligner
 maligning
 maligns
 malihini
+malihinis
 malines
 malingering
 malison
@@ -43125,6 +43143,7 @@ mispaged
 mispaging
 mispaint
 misparses
+misparsing
 misparted
 mispatching
 misperceiving
@@ -44645,6 +44664,7 @@ muttonchops
 muttonfish
 muttonfishes
 muttony
+mutts
 mutualistic
 mutualists
 mutualities
@@ -45493,6 +45513,7 @@ niched
 niches
 niching
 nick
+nicked
 nickelic
 nickeling
 nickelous
@@ -46532,6 +46553,7 @@ nouvelles
 novaculites
 novae
 novalike
+novelettish
 novelise
 novelises
 novelising
@@ -48522,6 +48544,7 @@ outtalked
 outtalking
 outtask
 outtasking
+outtasks
 outtell
 outtelling
 outtells
@@ -50359,6 +50382,7 @@ parvenue
 parvenues
 parvenus
 parvis
+parvo
 parvolin
 pas
 pascal
@@ -52485,6 +52509,7 @@ pirozhok
 pis
 piscatorial
 piscatory
+piscinal
 piscine
 piscivore
 pish
@@ -55295,6 +55320,7 @@ propagandist
 propagandistic
 propagandizer
 propagandizes
+propagations
 propagator
 propagators
 propanes
@@ -58047,6 +58073,7 @@ redoublers
 redoubtable
 redoubts
 redounded
+redounding
 redounds
 redout
 redouts
@@ -61283,6 +61310,7 @@ rupee
 rupiah
 rupiahs
 rupturing
+rural
 ruralises
 ruralist
 ruralists
@@ -61791,6 +61819,7 @@ sanitised
 sanitises
 sanitized
 sanitizes
+sanitizing
 sanitoria
 sanity
 sanjak
@@ -64973,6 +65002,7 @@ skulkers
 skulks
 skullcaps
 skullduggeries
+skulls
 skunked
 skunking
 skunkweed
@@ -69808,6 +69838,7 @@ swarth
 swarthier
 swarthily
 swarthinesses
+swarths
 swartness
 swarty
 swashbuckled
@@ -72132,6 +72163,7 @@ tingling
 tingly
 tings
 tinhorn
+tinier
 tinily
 tininess
 tinker
@@ -72696,6 +72728,7 @@ towable
 towage
 toward
 towardlinesses
+towboats
 toweled
 towelette
 towelettes
@@ -77362,6 +77395,7 @@ victualed
 victualer
 victualler
 victualling
+vicuna
 vicunas
 vid
 vide
@@ -77891,6 +77925,7 @@ vulgar
 vulgarer
 vulgarest
 vulgarian
+vulgarians
 vulgarised
 vulgarising
 vulgarism
