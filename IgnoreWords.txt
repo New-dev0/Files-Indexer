@@ -3094,6 +3094,7 @@ apishnesses
 apivorous
 aplenty
 aplite
+aplites
 aplombs
 apneas
 apnoea
@@ -8091,6 +8092,7 @@ brasserie
 brasseries
 brasses
 brassieres
+brassies
 brassiest
 brassinesses
 brat
@@ -9663,6 +9665,7 @@ cannikin
 cannikins
 canniness
 canninesses
+cannister
 cannoli
 cannonaded
 cannonades
@@ -13763,6 +13766,7 @@ concordances
 concordantly
 concordats
 concours
+concourse
 concourses
 concretenesses
 concreting
@@ -17478,6 +17482,7 @@ defalcator
 defalcators
 defamation
 defamations
+defame
 defamed
 defamer
 defaming
@@ -19554,6 +19559,7 @@ discreditable
 discreditably
 discredited
 discredits
+discreet
 discreetest
 discreetly
 discreetnesses
@@ -20992,6 +20998,7 @@ drooled
 droolier
 drooliest
 drooling
+drooped
 droopily
 droops
 droopy
@@ -21539,6 +21546,7 @@ eavesdropping
 ebbing
 ebon
 ebonies
+ebonises
 ebony
 ebooks
 ebullience
@@ -22368,6 +22376,7 @@ emyd
 emydes
 emyds
 enabled
+enablers
 enables
 enabling
 enacted
@@ -24026,6 +24035,7 @@ excavate
 excavates
 excavator
 excavators
+exceed
 exceeder
 exceeding
 exceeds
@@ -27771,6 +27781,7 @@ furbishes
 furbishing
 furcate
 furcately
+furcates
 furcating
 furcation
 furcations
@@ -28010,6 +28021,7 @@ gallants
 gallbladder
 galleasses
 galleins
+galleon
 galleries
 gallery
 gallerygoer
@@ -29868,6 +29880,7 @@ grayback
 graylag
 grayly
 grayouts
+graywacke
 graywater
 graywaters
 grazable
@@ -38861,6 +38874,7 @@ legatees
 legates
 legateship
 legateships
+legating
 legato
 legatos
 legend
@@ -39876,6 +39890,7 @@ logistically
 logistician
 logisticians
 logjam
+logjammed
 logjams
 lognormal
 lognormalities
@@ -42199,6 +42214,7 @@ meteorically
 meteorite
 meteorites
 meteoritic
+meteoriticist
 meteoroidal
 meteorologic
 meteorological
@@ -43120,6 +43136,7 @@ miserly
 misesteem
 misesteemed
 misesteeming
+misestimates
 misestimating
 misevaluate
 misevaluated
@@ -44410,6 +44427,7 @@ muffs
 mufti
 muftis
 mug
+mugful
 mugfuls
 muggar
 mugged
@@ -45090,6 +45108,7 @@ narrowly
 narwal
 narwhale
 narwhales
+narwhals
 nasal
 nasalised
 nasalises
@@ -46420,6 +46439,7 @@ nonrioters
 nonrival
 nonroyal
 nonrubber
+nonruling
 nonruminant
 nonruminants
 nonrural
@@ -51775,6 +51795,7 @@ phallocentric
 phallus
 phanerogam
 phanerophyte
+phantasies
 phantasm
 phantasmagoria
 phantasmagoric
@@ -52048,6 +52069,7 @@ photoelectrons
 photoengraves
 photoengraving
 photoengravings
+photoexcitation
 photoexcited
 photofinisher
 photofinishers
@@ -56032,6 +56054,7 @@ puerperia
 puerperium
 puff
 puffer
+puffier
 puffiest
 puffily
 puffin
@@ -56526,6 +56549,7 @@ quadrennia
 quadrennial
 quadrennium
 quadricep
+quadriceps
 quadricepses
 quadrics
 quadrilaterals
@@ -58833,6 +58857,7 @@ reinflations
 reinforcing
 reinforming
 reinfuses
+reinfusing
 reinitiated
 reinjecting
 reinjections
@@ -60726,6 +60751,7 @@ riling
 rille
 rimer
 rimers
+rimfire
 rimfires
 riminess
 riminesses
@@ -63518,6 +63544,7 @@ senti
 sentiences
 sentiencies
 sentiently
+sentients
 sentimental
 sentimentalised
 sentimentalist
@@ -63771,6 +63798,7 @@ severing
 severities
 seviches
 sevruga
+sewability
 sewable
 sewage
 sewan
@@ -65451,6 +65479,7 @@ slivovices
 slivovitz
 slivovitzes
 slob
+slobberer
 slobberers
 slobbering
 slobbers
@@ -67093,6 +67122,7 @@ sponsions
 sponson
 sponsons
 sponsor
+sponsored
 sponsorship
 sponsorships
 spontaneities
@@ -67635,6 +67665,7 @@ starkness
 starlet
 starlight
 starling
+starlings
 starnose
 starriest
 starry
@@ -70500,6 +70531,7 @@ tablemate
 tablemates
 tables
 tablespoon
+tablespoonfuls
 tablespoonsful
 tabletop
 tablets
@@ -71400,6 +71432,7 @@ tensenesses
 tenser
 tensilities
 tensiometries
+tensionless
 tensive
 tensor
 tensors
@@ -73371,6 +73404,7 @@ travesties
 travestying
 travoise
 travoises
+trawl
 trawled
 trawlerman
 trawley
@@ -77821,6 +77855,7 @@ viseed
 viselike
 vises
 vising
+vision
 visionally
 visionary
 visionless
