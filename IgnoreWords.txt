@@ -473,6 +473,7 @@ acrodont
 acrogenic
 acrogens
 acrolect
+acrolects
 acrolith
 acroliths
 acromegalies
@@ -2563,6 +2564,7 @@ anserine
 answer
 answerable
 answerer
+antacid
 antae
 antagonisms
 antagonist
@@ -4740,6 +4742,7 @@ babassus
 babbitries
 babbitry
 babbittries
+babbittry
 babbitts
 babbled
 babblement
@@ -5771,6 +5774,7 @@ bedrocks
 bedroll
 bedroom
 bedrugged
+bedrugging
 bedrugs
 beds
 bedsheets
@@ -6558,6 +6562,7 @@ billionaires
 billons
 billow
 billowed
+billowiest
 billowing
 billows
 bilobated
@@ -8650,6 +8655,7 @@ buffet
 buffeter
 buffeters
 buffets
+buffo
 buffoonish
 buffos
 buffs
@@ -10556,6 +10562,7 @@ ceiled
 ceiler
 ceilinged
 ceilings
+ceilometer
 ceilometers
 ceils
 ceintures
@@ -11676,6 +11683,7 @@ choroidal
 choroids
 chortle
 chortled
+chortlers
 choruses
 chorussing
 chosen
@@ -11847,6 +11855,7 @@ ciceroni
 cichlid
 cichlids
 cicisbei
+cicisbeo
 cicoree
 cicorees
 cider
@@ -12612,6 +12621,7 @@ cobb
 cobber
 cobbers
 cobble
+cobbler
 cobbles
 cobblestones
 cobbling
@@ -13150,6 +13160,7 @@ colluvium
 colluviums
 colly
 collyrium
+collyriums
 collywobbles
 colobomata
 colobus
@@ -13426,6 +13437,7 @@ communistic
 communistically
 community
 communizations
+communize
 communizes
 commutable
 commutate
@@ -14899,6 +14911,7 @@ coscripting
 cosec
 cosecants
 cosecs
+coseismal
 coseismals
 cosey
 coshers
@@ -15679,6 +15692,7 @@ crinites
 crinkled
 crinklier
 crinkling
+crinoids
 crinoline
 crinolined
 crinolines
@@ -25068,6 +25082,7 @@ fatigable
 fatigue
 fatigues
 fatless
+fatly
 fatness
 fatshedera
 fatsoes
@@ -27516,6 +27531,7 @@ frugality
 frugs
 fruitage
 fruitages
+fruitcakes
 fruited
 fruiter
 fruiters
@@ -27903,6 +27919,7 @@ gainfulnesses
 gaingiving
 gainliest
 gainsaid
+gainsay
 gainsayers
 gainsaying
 gainsays
@@ -34240,6 +34257,7 @@ inalterableness
 inalterably
 inamoratas
 inamorato
+inane
 inanely
 inaneness
 inaner
@@ -35494,6 +35512,7 @@ interbeds
 interbranch
 interbreeding
 intercalary
+intercalates
 intercalation
 intercalations
 intercampus
@@ -36993,6 +37012,7 @@ joylessness
 joylessnesses
 joyous
 joyousnesses
+joypopper
 joypopping
 joypops
 joyridden
@@ -38705,6 +38725,7 @@ learn
 learnedly
 learns
 lears
+leary
 leas
 leasebacks
 leasers
@@ -45599,6 +45620,7 @@ nictitates
 nidal
 nidate
 nidates
+nidation
 niddering
 niderings
 nides
@@ -58560,6 +58582,7 @@ regild
 regilding
 regilds
 regilt
+regimens
 regiment
 regimental
 regimentation
@@ -59496,6 +59519,7 @@ requests
 requiem
 requiems
 requiescat
+requiescats
 requin
 requirements
 requires
@@ -60214,6 +60238,7 @@ revenant
 revenge
 revengefully
 revengefulness
+revenger
 revenging
 revenued
 revenues
@@ -60746,6 +60771,7 @@ ritualism
 ritualist
 ritualistic
 ritualists
+ritualization
 ritually
 ritzier
 rivage
@@ -61424,6 +61450,7 @@ rusticator
 rusticators
 rusticities
 rustics
+rustiest
 rustinesses
 rustle
 rustler
@@ -61719,6 +61746,7 @@ salpids
 salpiform
 salpinges
 salpingitis
+salpinx
 sals
 salsa
 salsify
@@ -64860,6 +64888,7 @@ sirupy
 sirvente
 sirventes
 sisals
+sises
 siskin
 siskins
 sissiest
@@ -65275,6 +65304,7 @@ slicing
 slick
 slicken
 slickened
+slickens
 slickenside
 slicker
 slickers
@@ -67878,6 +67908,7 @@ stigmasterols
 stigmatically
 stigmatics
 stigmatist
+stigmatists
 stigmatizations
 stigmatize
 stigmatized
@@ -69305,6 +69336,7 @@ summerhouse
 summerlike
 summerlong
 summerly
+summersault
 summersaulted
 summersaulting
 summersets
@@ -70810,6 +70842,7 @@ tartrated
 tartrates
 tarts
 tartuffe
+tarty
 tarzan
 tarzans
 tas
@@ -71227,6 +71260,7 @@ tenacities
 tenaculum
 tenaculums
 tenailles
+tenancies
 tenant
 tenantable
 tenantless
@@ -75849,6 +75883,7 @@ unpeopled
 unpeoples
 unperceived
 unperceptive
+unpersuaded
 unpersuasive
 unpick
 unpicked
