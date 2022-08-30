@@ -6292,6 +6292,7 @@ besting
 bestirred
 bestowal
 bestowers
+bestows
 bestrewed
 bestrews
 bestrid
@@ -9080,6 +9081,7 @@ buttressed
 buttresses
 buttressing
 butts
+buttstock
 buttstocks
 butut
 bututs
@@ -16906,6 +16908,7 @@ danio
 danish
 danishes
 dankest
+dankness
 danknesses
 dans
 dap
@@ -18714,6 +18717,7 @@ dewclaw
 dewclawed
 dewclaws
 dewdrop
+dewfall
 dewfalls
 dewier
 dewiest
@@ -22076,6 +22080,7 @@ elocutionists
 eloigned
 eloigner
 eloigning
+eloiners
 eloinment
 eloins
 elongates
@@ -25216,6 +25221,7 @@ fazing
 fealties
 fear
 fearers
+fearful
 fearfullest
 fearlessness
 fears
@@ -26381,6 +26387,7 @@ floodlighted
 floodlighting
 floodplain
 floodtides
+flooey
 floor
 floorage
 floorcloth
@@ -27839,6 +27846,7 @@ furnishes
 furnishing
 furore
 furores
+furors
 furosemides
 furrieries
 furriery
@@ -31120,6 +31128,7 @@ harem
 hariana
 haring
 harissa
+harked
 harkeners
 harking
 harl
@@ -34706,6 +34715,7 @@ indemonstrable
 indene
 indenes
 indentation
+indentations
 indenting
 indents
 indenture
@@ -37183,6 +37193,7 @@ jujube
 jujuist
 jujus
 jujutsus
+jukebox
 jukes
 juking
 juku
@@ -37567,6 +37578,7 @@ ketotic
 kettle
 kettledrums
 kevel
+kevels
 kevils
 kewpie
 kewpies
@@ -38071,6 +38083,7 @@ kuna
 kundalinis
 kunzites
 kurbash
+kurgan
 kurrajongs
 kurtas
 kurtosis
@@ -38970,6 +38983,7 @@ legitimator
 legitimised
 legitimises
 legitimists
+legitimizations
 legitimize
 legitimized
 legitimizers
@@ -39123,6 +39137,7 @@ leukemias
 leukemic
 leukemics
 leukemogeneses
+leukocytes
 leukocytic
 leukocytosis
 leukoma
@@ -40303,6 +40318,7 @@ luminescent
 luminiferous
 luminist
 luminous
+luminousness
 lummoxes
 lump
 lumpectomies
@@ -40593,6 +40609,7 @@ macromere
 macromolecular
 macromolecules
 macron
+macrons
 macronuclear
 macronuclei
 macronutrient
@@ -42934,6 +42951,7 @@ minuteman
 minuteness
 minuter
 minutes
+minutest
 minutia
 minutiae
 minx
@@ -44576,6 +44594,7 @@ multilobe
 multilobes
 multimedia
 multimegawatt
+multimegawatts
 multimember
 multimetallic
 multimillion
@@ -45599,6 +45618,7 @@ neuronal
 neuronic
 neuropathically
 neurophysiology
+neuropsychology
 neuropterans
 neuroradiology
 neuroscience
@@ -55479,6 +55499,7 @@ proliferations
 prolific
 prolificacies
 prolificness
+prolificnesses
 proline
 prolines
 prolixities
@@ -57460,6 +57481,7 @@ rattlebrains
 rattler
 rattlesnakes
 rattletrap
+rattletraps
 rattling
 ratton
 rattons
@@ -57842,6 +57864,7 @@ recanalizes
 recane
 recaned
 recanes
+recantations
 recanter
 recanting
 recants
@@ -57958,6 +57981,7 @@ recleaned
 recleaning
 recleans
 reclinate
+recliner
 recliners
 reclines
 reclosable
@@ -58337,6 +58361,7 @@ redoxes
 redpoll
 redpolls
 redraft
+redrafts
 redraw
 redrawing
 redreams
@@ -67188,6 +67213,7 @@ spoken
 spokes
 spokesmanships
 spokespeople
+spokesperson
 spokespersons
 spokeswomen
 spoking
@@ -68036,6 +68062,7 @@ sterols
 stethoscope
 stetsons
 stevedored
+stevedoring
 stewable
 steward
 stewarded
@@ -69488,6 +69515,7 @@ sulphid
 sulphide
 sulphides
 sulphite
+sulphites
 sulphur
 sulphuring
 sulphurise
@@ -70236,6 +70264,7 @@ swiddens
 swifter
 swiftlets
 swiftness
+swiftnesses
 swig
 swigged
 swigging
@@ -70464,6 +70493,7 @@ synchronous
 synchronously
 synchs
 syncing
+synclines
 syncom
 syncoms
 syncopal
@@ -71618,6 +71648,7 @@ terminological
 terminologies
 terminus
 termitaria
+termitaries
 termitarium
 termitary
 termite
@@ -73929,6 +73960,7 @@ triumphs
 triune
 triunes
 triunity
+trivet
 trivial
 trivialised
 trivialist
@@ -74775,6 +74807,7 @@ ultraromantic
 ultraroyalist
 ultraroyalists
 ultras
+ultrasecret
 ultrasharp
 ultrasmall
 ultrasmart
@@ -76625,6 +76658,7 @@ unworthy
 unwove
 unwoven
 unwrap
+unwrapped
 unwrinkling
 unwritten
 unyeaned
@@ -76677,6 +76711,7 @@ upflinging
 upflings
 upflow
 upflung
+upfold
 upfolded
 upgathering
 upgaze
