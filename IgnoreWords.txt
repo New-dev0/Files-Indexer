@@ -359,6 +359,7 @@ acetylcholines
 acetyls
 achalasias
 ache
+achenes
 achenial
 achiever
 achieves
@@ -1091,6 +1092,7 @@ agent
 agential
 agentings
 agentival
+agentive
 agentives
 agentries
 agents
@@ -4331,6 +4333,7 @@ augite
 augitic
 augment
 augmentative
+augmenting
 augmentor
 augments
 augured
@@ -4747,6 +4750,7 @@ babiche
 babiches
 babiest
 babirussas
+babools
 baboon
 baboonery
 baboonish
@@ -5909,6 +5913,7 @@ begulfing
 begulfs
 begum
 begun
+behalf
 behalves
 behaves
 behaving
@@ -8451,6 +8456,7 @@ brooklimes
 brooks
 broom
 broomballer
+broomballers
 broomcorn
 broomed
 broomier
@@ -9090,6 +9096,7 @@ by
 bycatches
 byelaws
 bygones
+byline
 bylining
 bynames
 bypass
@@ -10563,6 +10570,7 @@ celeriacs
 celery
 celesta
 celeste
+celestes
 celestially
 celestine
 celestines
@@ -13708,6 +13716,7 @@ conciliators
 concinnity
 concisenesses
 concisions
+conclave
 conclaves
 conclude
 concluders
@@ -14027,6 +14036,7 @@ connoting
 conns
 connubialisms
 connubiality
+connubially
 conodonts
 conoid
 conquer
@@ -19979,6 +19989,7 @@ distantness
 distaste
 distasted
 distastefulness
+distasting
 distaves
 distelfink
 distelfinks
@@ -20328,6 +20339,7 @@ dolman
 dolmens
 dolomite
 dolomites
+dolomitic
 dolomitization
 dolomitizations
 dolomitized
@@ -20531,6 +20543,7 @@ doublenesses
 doubler
 doublespeak
 doublespeakers
+doublethinks
 doublets
 doubloons
 doublures
@@ -22590,6 +22603,7 @@ enfeoffing
 enfeoffment
 enfettered
 enfever
+enfevering
 enfiladed
 enflame
 enflamed
@@ -28475,6 +28489,7 @@ genocide
 genocides
 genome
 genomes
+genomics
 genoms
 genotype
 genre
@@ -31778,6 +31793,7 @@ herpesvirus
 herpesviruses
 herpetic
 herpetological
+herpetologist
 herpetologists
 herrenvolks
 herried
@@ -32556,6 +32572,7 @@ hooting
 hooved
 hoover
 hoovered
+hoovering
 hoovers
 hop
 hope
@@ -32892,6 +32909,7 @@ humbled
 humbleness
 humblenesses
 humblingly
+humbugged
 humbuggeries
 humbuggers
 humbuggery
@@ -37126,6 +37144,7 @@ justificatory
 justifying
 justle
 justled
+justles
 justs
 jut
 juts
@@ -37466,6 +37485,7 @@ khalifs
 khamsin
 khans
 khaphs
+khats
 khazen
 khazenim
 khazens
@@ -37598,6 +37618,7 @@ kinara
 kinases
 kinder
 kindergarten
+kindergartener
 kindergarteners
 kindergartens
 kindergartner
@@ -40005,6 +40026,7 @@ loutish
 loutishnesses
 louvre
 louvres
+lovabilities
 lovableness
 lovablenesses
 lovably
@@ -41178,6 +41200,7 @@ martyrly
 martyrologist
 martyrologists
 martyrology
+martyrs
 marvel
 marvelously
 marvelousnesses
@@ -41673,6 +41696,7 @@ megavitamin
 megavolt
 megilla
 megillahs
+megohms
 megs
 mehndi
 meiny
@@ -46202,6 +46226,7 @@ nonmetric
 nonmetro
 nonmetropolitan
 nonmigrant
+nonmilitants
 nonmilitary
 nonminority
 nonmodern
@@ -47355,6 +47380,7 @@ omening
 omenta
 omental
 omicrons
+ominously
 ominousness
 ominousnesses
 omissible
@@ -47425,6 +47451,7 @@ onomastically
 onomastician
 onomatology
 onrush
+onshore
 onside
 ontically
 ontogeneses
@@ -58942,6 +58969,7 @@ relock
 relocking
 relooking
 relooks
+relubricate
 relubricated
 relubricating
 relubrication
@@ -64749,6 +64777,7 @@ sinecure
 sinew
 sinewed
 sinewless
+sinews
 sinewy
 sinfonias
 sinfonie
@@ -66804,6 +66833,7 @@ spinor
 spinose
 spinosely
 spinosities
+spinous
 spins
 spinsterhood
 spinsters
@@ -75389,6 +75419,7 @@ unfocused
 unfoiled
 unfold
 unfolded
+unfolder
 unfoldment
 unfond
 unforced
@@ -76777,6 +76808,7 @@ vaingloriously
 vainglory
 vair
 vakeel
+vakeels
 valance
 valanced
 valances
@@ -76785,6 +76817,7 @@ valedictions
 valedictorians
 valences
 valencias
+valencies
 valentines
 valerates
 valerians
@@ -77136,6 +77169,7 @@ vendable
 vendables
 vendace
 vendee
+vendeuse
 vendibilities
 vendibly
 venditions
@@ -80283,6 +80317,7 @@ zooid
 zooier
 zooks
 zoolater
+zoologic
 zoologically
 zoologies
 zoomorph
