@@ -571,6 +571,7 @@ acutest
 acyclovir
 acylate
 acylated
+acylations
 acyloin
 ad
 adage
@@ -4026,6 +4027,7 @@ assorted
 assorter
 assortment
 assorts
+assuage
 assuagement
 assuagements
 assumability
@@ -5170,6 +5172,7 @@ bandinesses
 banding
 banditry
 banditti
+bandmate
 bandogs
 bandoleer
 bandoleers
@@ -5280,6 +5283,7 @@ barbiturate
 barbiturates
 barbless
 barbs
+barbule
 barbwires
 barca
 barcaroles
@@ -10755,6 +10759,7 @@ centals
 centares
 centaurea
 centaureas
+centauries
 centaurs
 centaury
 centavos
@@ -16796,6 +16801,7 @@ cytaster
 cytidine
 cytochalasin
 cytochalasins
+cytogenetic
 cytogeneticist
 cytokines
 cytokinesis
@@ -17905,6 +17911,7 @@ dekagram
 dekaliter
 dekalitres
 dekameter
+dekametres
 delaine
 delaines
 delaminates
@@ -18080,6 +18087,7 @@ demiurgical
 demivoltes
 demiworlds
 demob
+demobbed
 demobilize
 democracies
 democratization
@@ -18661,6 +18669,7 @@ detachedly
 detachedness
 detacher
 detachers
+detaching
 detachment
 detachments
 detailed
@@ -23061,6 +23070,7 @@ enskied
 enskies
 enskyed
 enslave
+enslaved
 enslavers
 enslaves
 ensnare
@@ -26396,6 +26406,7 @@ flatworms
 flaunt
 flaunted
 flauntiest
+flauntily
 flaunting
 flauntingly
 flaunty
@@ -29822,6 +29833,7 @@ gorger
 gorgerin
 gorgers
 gorgeted
+gorgon
 gorgonized
 gorgonizes
 gorgons
@@ -31251,6 +31263,7 @@ handworks
 handwoven
 handwringer
 handwringers
+handwriting
 handwrote
 handy
 handyperson
@@ -31920,6 +31933,7 @@ helped
 helper
 helpers
 helpful
+helpfulness
 helping
 helpings
 helplessness
@@ -37650,6 +37664,7 @@ kalewife
 kalewives
 kaleyard
 kalifate
+kalifates
 kalimbas
 kaliphs
 kalium
@@ -38853,6 +38868,7 @@ lark
 larker
 larkers
 larkier
+larkiest
 larkinesses
 larksome
 larkspur
@@ -40858,6 +40874,7 @@ lysogeny
 lysolecithin
 lysosomal
 lysosome
+lysozymes
 lyssa
 lyssas
 lytically
@@ -42958,6 +42975,7 @@ midiskirts
 midland
 midlands
 midlatitude
+midlife
 midline
 midlines
 midlists
@@ -43728,6 +43746,7 @@ misperceiving
 misperception
 misphrases
 misphrasing
+misplacement
 misplacements
 misplaces
 misplacing
@@ -46670,6 +46689,7 @@ nonfocal
 nonforfeitures
 nonfreezing
 nonfulfillments
+nonfunded
 nongame
 nongenetic
 nongeometrical
@@ -54802,6 +54822,7 @@ preblessing
 preboil
 preboiled
 prebook
+prebooked
 prebound
 prebreakfast
 prebudgets
@@ -55286,6 +55307,7 @@ prequalify
 prequalifying
 prequels
 preradio
+prerecession
 prerecorded
 prerecording
 prerectal
@@ -62607,6 +62629,7 @@ sandiest
 sanding
 sandlings
 sandlot
+sandlots
 sandmen
 sandpainting
 sandpapered
@@ -65399,6 +65422,7 @@ significancy
 significant
 significantly
 signification
+significations
 signifieds
 signifiers
 signifies
@@ -67682,6 +67706,7 @@ spirited
 spiritism
 spiritist
 spiritlessly
+spiritoso
 spirits
 spiritual
 spiritualisms
@@ -69947,6 +69972,7 @@ succours
 succuba
 succubi
 succubus
+succulence
 succulent
 succumbs
 succussed
@@ -70204,6 +70230,7 @@ sundowning
 sundowns
 sundrops
 sunfishes
+sunflowers
 sunglasses
 sunglows
 sunk
@@ -71868,6 +71895,7 @@ technologic
 technologically
 technologists
 technologized
+technologizes
 technology
 technophiles
 technophobes
@@ -73481,6 +73509,7 @@ toothing
 toothpaste
 toothpicks
 tooths
+toothsomely
 toothsomeness
 toothwort
 toothy
@@ -75041,6 +75070,7 @@ turgidness
 turgors
 turion
 turions
+turista
 turistas
 turk
 turkeys
@@ -75970,6 +76000,7 @@ undefiled
 undefoliated
 undelegated
 undelivered
+undeluded
 undependable
 underachieve
 underachieved
@@ -77831,6 +77862,7 @@ vamoose
 vamoosed
 vamoosing
 vamose
+vamosed
 vamp
 vamped
 vampiest
@@ -78081,6 +78113,7 @@ veinal
 veiner
 veiners
 veinier
+veiniest
 veining
 veinings
 veinlet
@@ -78643,6 +78676,7 @@ virtuousnesses
 virucide
 virulences
 virulencies
+virulency
 virus
 viruses
 virusoid
@@ -78735,6 +78769,7 @@ vitrics
 vitrification
 vitrifies
 vitrifying
+vitrine
 vitrines
 vitriol
 vitrioled
