@@ -3409,6 +3409,7 @@ arames
 arapaimas
 araroba
 araucaria
+araucarias
 arbalest
 arbalests
 arbelest
@@ -6078,6 +6079,7 @@ belong
 belonging
 belongingnesses
 belongings
+belons
 beloveds
 below
 belted
@@ -7403,6 +7405,7 @@ boardsailors
 boardwalks
 boarfish
 boarhound
+boarish
 boart
 boarts
 boas
@@ -15340,6 +15343,7 @@ coursing
 courteousness
 courteousnesses
 courter
+courtesan
 courtesied
 courtesies
 courtezan
@@ -15400,6 +15404,7 @@ coverup
 coves
 covetable
 coveter
+coveters
 covetingly
 covetousnesses
 covets
@@ -18541,6 +18546,7 @@ desisted
 desk
 deskbound
 deskman
+deskmen
 desktop
 desktops
 desman
@@ -21558,6 +21564,7 @@ dysphonic
 dysplasias
 dysplastic
 dyspnea
+dyspneal
 dyspneic
 dyspnoea
 dyspnoeas
@@ -22494,6 +22501,7 @@ employees
 employers
 employing
 employment
+empoisoned
 empoisoning
 empoisons
 emporium
@@ -23247,6 +23255,7 @@ epaulets
 epauletted
 epaulettes
 epazotes
+epeirogenic
 epeirogeny
 epergne
 epergnes
@@ -23333,6 +23342,7 @@ epigrammatic
 epigrammatist
 epigrammatists
 epigrammatizer
+epigrammatizes
 epigrammatizing
 epigraph
 epigrapher
@@ -23709,6 +23719,7 @@ escrows
 escudo
 esculent
 escutcheon
+eserine
 eserines
 eskers
 esne
@@ -29956,6 +29967,7 @@ grandmama
 grandmamas
 grandmotherly
 grandnephew
+grandness
 grandpapa
 grandparent
 grandparenthood
@@ -32359,6 +32371,7 @@ hinder
 hindering
 hindguts
 hindmost
+hindquarter
 hindrance
 hindrances
 hinds
@@ -37403,6 +37416,7 @@ judoists
 judoka
 juga
 jugate
+juggernaut
 juggernauts
 juggled
 juggler
@@ -39548,6 +39562,7 @@ lichenology
 lichenose
 lichenous
 liches
+lichi
 licht
 lichting
 lichtly
@@ -44263,6 +44278,7 @@ monorchids
 monorhyme
 monorhymed
 monosaccharide
+monosaccharides
 monosomic
 monostich
 monostichs
@@ -47471,6 +47487,7 @@ obsolesce
 obsolescence
 obsolescent
 obsoleting
+obstacle
 obstetricians
 obstinate
 obstinately
@@ -47690,6 +47707,7 @@ oestrones
 oestrums
 oestrus
 oestruses
+of
 ofay
 off
 offal
@@ -50089,6 +50107,7 @@ pachouli
 pachydermatous
 pachyderms
 pachysandra
+pachytene
 pacifiable
 pacifical
 pacification
@@ -52752,6 +52771,7 @@ pickadils
 pickaninnies
 pickaroon
 pickaroons
+pickax
 pickaxe
 pickaxed
 pickaxes
@@ -53316,6 +53336,7 @@ planlessness
 planlessnesses
 planned
 planner
+planning
 planosol
 plans
 plantable
@@ -54608,6 +54629,7 @@ pranced
 prancer
 prancers
 prances
+prandial
 pranging
 prangs
 prankish
@@ -56991,6 +57013,7 @@ qoph
 quaalude
 quack
 quackery
+quacking
 quackish
 quackism
 quacks
@@ -57906,6 +57929,7 @@ ravished
 ravisher
 ravishers
 ravishes
+ravishment
 rawest
 rawhide
 rawhided
@@ -60284,6 +60308,7 @@ resident
 residential
 residents
 resider
+resides
 residua
 residuals
 residuary
@@ -62265,6 +62290,7 @@ sailing
 sails
 saimin
 sained
+sainfoin
 saint
 saintdom
 saintdoms
@@ -64836,6 +64862,7 @@ shirtier
 shirting
 shirtmaker
 shirtmakers
+shirttail
 shirttailed
 shirttails
 shirty
@@ -65852,6 +65879,7 @@ slantly
 slants
 slantways
 slanty
+slap
 slapdashes
 slaphappier
 slaphappiest
@@ -65943,6 +65971,7 @@ sleepyheads
 sleet
 sleetier
 sleeting
+sleets
 sleeved
 sleighed
 sleight
@@ -69224,6 +69253,7 @@ stupendous
 stupendousness
 stupes
 stupidities
+stupidity
 stupor
 sturdier
 sturdies
@@ -70919,6 +70949,7 @@ sympathise
 sympathised
 sympathize
 sympathizer
+sympathizes
 sympatico
 sympatric
 sympatrically
@@ -70991,6 +71022,7 @@ syncopates
 syncopator
 syncopators
 syncope
+syncopic
 syncretise
 syncretised
 syncretises
@@ -75040,6 +75072,7 @@ tweet
 tweets
 tweezer
 tweezers
+tweezes
 tweezing
 twelfth
 twelvemo
@@ -78239,6 +78272,7 @@ vexations
 vexatious
 vexatiously
 vexatiousness
+vexatiousnesses
 vexed
 vexedness
 vexednesses
@@ -78492,6 +78526,7 @@ virologists
 virology
 virosis
 virtu
+virtuality
 virtue
 virtueless
 virtues
