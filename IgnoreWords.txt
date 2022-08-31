@@ -734,6 +734,7 @@ admixes
 admixt
 admixtures
 admonisher
+admonishers
 admonishing
 admonishment
 admonitions
@@ -2824,6 +2825,7 @@ antimacassars
 antiman
 antimarket
 antimask
+antimatter
 antimechanists
 antimeres
 antimeric
@@ -4126,6 +4128,7 @@ astronautical
 astronautics
 astronauts
 astronomer
+astronomers
 astronomical
 astrophotograph
 astrophysics
@@ -5223,6 +5226,7 @@ bankrupted
 bankrupting
 bankrupts
 banks
+banksia
 bankside
 banksides
 banner
@@ -5417,6 +5421,7 @@ barriers
 barrio
 barrooms
 bars
+barstools
 bartender
 bartenders
 bartending
@@ -6124,6 +6129,7 @@ bemisting
 bemixed
 bemixt
 bemoan
+bemoaned
 bemoans
 bemock
 bemocking
@@ -10588,6 +10594,7 @@ causalgic
 causally
 causals
 causation
+cause
 caused
 causeless
 causerie
@@ -12926,6 +12933,7 @@ codifying
 codirect
 codirected
 codirection
+codirector
 codirects
 codiscover
 codiscoverer
@@ -14670,6 +14678,7 @@ cookware
 cookwares
 coolant
 coolants
+coolers
 coolest
 coolish
 coolness
@@ -18064,6 +18073,7 @@ demarcates
 demarcation
 demarked
 demarking
+demarks
 demast
 demasted
 demasts
@@ -21472,6 +21482,7 @@ dunnite
 duns
 dunting
 dunts
+duo
 duodecillions
 duodecimal
 duodecimals
@@ -28621,6 +28632,7 @@ gastronomies
 gastronomists
 gastropod
 gastropods
+gastroscopies
 gastroscopist
 gastroscopy
 gastrotrichs
@@ -29668,6 +29680,7 @@ goaltendings
 goalward
 goanna
 goannas
+goas
 goat
 goatee
 goatfish
@@ -30203,6 +30216,7 @@ gravitate
 gravitation
 gravitationally
 gravitations
+gravitino
 gravitinos
 gravity
 gravlaks
@@ -30692,6 +30706,7 @@ guiding
 guidon
 guild
 guilders
+guilds
 guildships
 guildsmen
 guile
@@ -32511,6 +32526,7 @@ hirsels
 hirsute
 hirsuteness
 hirsutenesses
+hirsutism
 hirsutisms
 hirudin
 hisn
@@ -39791,6 +39807,7 @@ likability
 likableness
 likeable
 likeliest
+likelihoods
 likened
 likeness
 likenesses
@@ -40684,6 +40701,7 @@ lumbago
 lumbar
 lumbars
 lumber
+lumbered
 lumbering
 lumberjacks
 lumberman
@@ -42412,6 +42430,7 @@ menseful
 menseless
 mensh
 menshes
+mensing
 menstruate
 menstruating
 menstruations
@@ -44868,6 +44887,7 @@ mridangams
 muchachos
 muchly
 mucho
+mucidity
 mucilage
 mucilaginous
 mucilaginously
@@ -47395,6 +47415,7 @@ nunnery
 nunnish
 nuptialities
 nuptials
+nurds
 nurled
 nurling
 nurls
@@ -49308,6 +49329,7 @@ outwaits
 outwalk
 outwalked
 outwalks
+outwardness
 outwardnesses
 outwards
 outwarred
@@ -53673,6 +53695,7 @@ plentifulness
 plentitude
 plenty
 plenum
+pleochroic
 pleochroisms
 pleomorphic
 pleomorphisms
@@ -54285,6 +54308,7 @@ poods
 poof
 poofter
 poofy
+poohed
 pooler
 poolers
 poolhall
@@ -55008,6 +55032,7 @@ predesignate
 predesignates
 predesignating
 predestinarians
+predestinated
 predestination
 predestinations
 predestinators
@@ -55943,6 +55968,7 @@ profferers
 proficiencies
 proficiently
 proficients
+profile
 profiled
 profiler
 profiling
@@ -59427,6 +59453,7 @@ regularly
 regulate
 regulated
 regulates
+regulating
 regulations
 regulator
 reguline
@@ -59932,6 +59959,7 @@ rendered
 renderers
 rendering
 rendezvous
+rendible
 rendition
 renditions
 rends
@@ -62698,6 +62726,7 @@ sanddabs
 sanders
 sandflies
 sandglasses
+sandgrouse
 sandgrouses
 sandhog
 sandier
@@ -69161,6 +69190,7 @@ strategy
 strathspey
 strathspeys
 stratification
+stratifications
 stratifies
 stratocracies
 stratocracy
@@ -71902,6 +71932,7 @@ tea
 teaberries
 teaberry
 teabowl
+teabox
 teaboxes
 teacakes
 teachable
@@ -75538,6 +75569,7 @@ ultradry
 ultraexclusive
 ultrafeminine
 ultrafiches
+ultraheats
 ultraheavy
 ultrahip
 ultrahot
@@ -76746,6 +76778,7 @@ unknots
 unknowabilities
 unknowability
 unknowable
+unknowings
 unknown
 unkosher
 unlabeled
@@ -79673,6 +79706,7 @@ wearish
 wearisome
 wearisomenesses
 weasands
+weaseled
 weaselly
 weasons
 weather
@@ -81165,6 +81199,7 @@ yodelled
 yodeller
 yodellers
 yodelling
+yodels
 yodle
 yodler
 yodlers
