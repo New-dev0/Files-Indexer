@@ -2505,6 +2505,7 @@ annatto
 annattos
 annelid
 annelids
+annexation
 annexe
 annexes
 annexing
@@ -3249,6 +3250,7 @@ appertained
 appertaining
 appestat
 appestats
+appetences
 appetencies
 appetency
 appetisers
@@ -4360,6 +4362,7 @@ audition
 auditoria
 auditories
 auditorily
+auditoriums
 auditory
 audits
 augers
@@ -10158,6 +10161,7 @@ carnitines
 carnivories
 carnivorous
 carnivorousness
+carnosaur
 carnotites
 caroaches
 caroche
@@ -11314,6 +11318,7 @@ cheesiness
 cheesinesses
 cheesy
 chefdoms
+cheffed
 cheffing
 chefing
 chefs
@@ -12512,6 +12517,7 @@ closefisted
 closeness
 closers
 closest
+closet
 closeted
 closetful
 closetfuls
@@ -12798,6 +12804,7 @@ cockhorse
 cockhorses
 cockily
 cockiness
+cockinesses
 cocking
 cockle
 cockleburs
@@ -15082,6 +15089,7 @@ cosponsors
 coss
 cossack
 cosseted
+costa
 costal
 costally
 costard
@@ -17204,6 +17212,7 @@ deaerator
 deaerators
 deaf
 deafened
+deafening
 deafeningly
 deafenings
 deafnesses
@@ -18680,6 +18689,7 @@ determinacy
 determinantal
 determinate
 determinateness
+determinator
 determine
 determines
 determinist
@@ -20485,6 +20495,7 @@ dogmatize
 dogmatizers
 dogmatizes
 dognap
+dognaped
 dognapers
 dognapped
 dognappers
@@ -22697,6 +22708,7 @@ endemic
 endemical
 endemicities
 endemism
+enders
 endgame
 ending
 endings
@@ -24015,6 +24027,7 @@ euphuistically
 euphuists
 euploids
 euploidy
+eupneic
 eurhythmics
 eurhythmies
 eurokies
@@ -25714,6 +25727,7 @@ fevering
 feverish
 feverishness
 feverishnesses
+feverroot
 feverweeds
 feverwort
 feverworts
@@ -27608,6 +27622,7 @@ fretboard
 fretful
 fretsaws
 fretted
+fretter
 fretters
 fretting
 fretwork
@@ -32711,6 +32726,7 @@ homeyness
 homeys
 homicidal
 homicidally
+homicide
 homicides
 homie
 homier
@@ -40236,6 +40252,7 @@ lognormality
 lognormally
 logogram
 logogrammatic
+logographic
 logographically
 logoi
 logomach
@@ -40319,6 +40336,7 @@ lookalike
 lookdowns
 looker
 lookers
+lookout
 lookouts
 looksism
 lookup
@@ -45705,6 +45723,7 @@ needy
 neem
 neg
 negates
+negational
 negatived
 negatively
 negativeness
@@ -49121,6 +49140,7 @@ outsweep
 outsweeping
 outsweeps
 outswept
+outswims
 outswinging
 outswore
 outsworn
@@ -49647,6 +49667,7 @@ overmatching
 overmaturity
 overmedicating
 overmedication
+overmeek
 overmelt
 overmighty
 overmild
@@ -55262,6 +55283,7 @@ preselection
 present
 presentable
 presentableness
+presentably
 presentations
 presented
 presentees
@@ -56273,6 +56295,7 @@ provenders
 provenience
 proventriculi
 proverb
+proverbed
 provers
 proves
 providences
@@ -56750,6 +56773,7 @@ purgings
 purification
 purifications
 purificatory
+purified
 purifier
 purifiers
 purin
@@ -63441,6 +63465,7 @@ scrouging
 scroungiest
 scrounging
 scroungy
+scrubbable
 scrubbily
 scrubby
 scrublands
@@ -64573,6 +64598,7 @@ shareholders
 sharer
 shares
 sharewares
+sharia
 shariahs
 sharias
 sharif
@@ -65422,6 +65448,7 @@ silvics
 silviculturally
 silviculture
 sima
+simarubas
 simas
 simazine
 simazines
@@ -66885,6 +66912,7 @@ solvent
 solventless
 solver
 solves
+solvolysis
 solvolytic
 som
 somas
@@ -67201,6 +67229,7 @@ spaes
 spaghetti
 spaghettilike
 spaghettis
+spahi
 spahis
 spaldeen
 spall
@@ -70888,6 +70917,7 @@ sycophantic
 sycophantish
 sycophantisms
 sycophants
+sycoses
 syenite
 syenites
 syenitic
@@ -76671,6 +76701,7 @@ unorganized
 unoriginal
 unorthodoxy
 unostentatious
+unowned
 unpack
 unpackers
 unpainful
@@ -77219,6 +77250,7 @@ unworried
 unworthies
 unworthinesses
 unworthy
+unwound
 unwove
 unwoven
 unwrap
@@ -77492,6 +77524,7 @@ urethrae
 urethroscope
 urethroscopes
 urge
+urgency
 urgently
 urger
 urges
@@ -77771,6 +77804,7 @@ vanpoolings
 vanpools
 vanquished
 vanquishers
+vanquishing
 vantage
 vapid
 vapidities
@@ -81000,6 +81034,7 @@ yules
 yuletide
 yuletides
 yum
+yummier
 yummies
 yummiest
 yummy
