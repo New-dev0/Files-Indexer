@@ -3221,6 +3221,7 @@ appealingly
 appearances
 appeasable
 appease
+appeased
 appeasement
 appeasers
 appellative
@@ -6351,6 +6352,7 @@ betime
 betimes
 betise
 betokening
+beton
 betons
 betrayer
 betraying
@@ -11307,6 +11309,7 @@ chefdoms
 cheffing
 chefing
 chefs
+chegoe
 chelatable
 chelated
 chelations
@@ -12131,6 +12134,7 @@ citywide
 civets
 civic
 civicism
+civicisms
 civie
 civies
 civil
@@ -17693,6 +17697,7 @@ deflating
 deflation
 deflationary
 deflations
+deflator
 deflators
 deflea
 defleaed
@@ -18410,6 +18415,7 @@ dermatological
 dermatologist
 dermatome
 dermatomes
+dermatophyte
 dermatoses
 dermatosis
 dermestids
@@ -19868,6 +19874,7 @@ disinters
 disintoxicated
 disintoxication
 disinvested
+disinvesting
 disinvite
 disinvited
 disinvites
@@ -26751,6 +26758,7 @@ flyways
 flyweight
 foal
 foals
+foam
 foamable
 foamed
 foamflower
@@ -27116,6 +27124,7 @@ foretellers
 forethought
 foretime
 foretoken
+foretokened
 foretold
 foretooth
 foretops
@@ -27746,6 +27755,7 @@ fructify
 fructifying
 fructoses
 frugality
+frugally
 frugs
 fruitage
 fruitages
@@ -28489,6 +28499,7 @@ gastnesses
 gastreas
 gastrectomies
 gastrectomy
+gastrin
 gastritic
 gastritides
 gastrocnemii
@@ -28830,6 +28841,7 @@ geoprobes
 georgette
 georgettes
 geostationary
+geostrophically
 geosynclinal
 geosynclines
 geotactic
@@ -30956,6 +30968,7 @@ hairs
 hairsplitting
 hairsplittings
 hairsprays
+hairstreak
 hairstyling
 hairwork
 haj
@@ -32040,6 +32053,7 @@ hermeneutical
 hermeneutically
 hermeneutics
 hermetic
+hermetical
 hermeticism
 hermeticisms
 hermetism
@@ -33404,6 +33418,7 @@ hydrocarbons
 hydroceles
 hydrocephalus
 hydrocephaluses
+hydrocolloids
 hydrocracked
 hydrocracker
 hydrocrackings
@@ -41725,6 +41740,7 @@ mathematizes
 matilda
 matildas
 matinee
+matrass
 matriarchates
 matriarchs
 matrices
@@ -42122,6 +42138,7 @@ meliorisms
 meliorists
 melisma
 mell
+mellifluously
 mellotron
 mellowed
 mellower
@@ -42605,6 +42622,7 @@ metrics
 metrists
 metro
 metrological
+metrologies
 metrologist
 metrology
 metronidazole
@@ -43389,6 +43407,7 @@ miscorrelations
 miscounting
 miscreants
 miscreated
+miscreates
 miscreating
 miscreation
 miscreations
@@ -45546,6 +45565,7 @@ naysayers
 naysaying
 naysays
 nazification
+nazifications
 nazified
 nazis
 ne
@@ -53344,6 +53364,7 @@ platitudinarian
 platitudinize
 platitudinized
 platitudinizes
+platonically
 platonisms
 platooned
 platooning
@@ -56087,6 +56108,7 @@ protect
 protectants
 protecter
 protecting
+protectionisms
 protectionist
 protectionists
 protections
@@ -59738,6 +59760,7 @@ reoccur
 reoccurred
 reoccurrence
 reoffer
+reoiling
 reoils
 reopen
 reopening
@@ -62189,6 +62212,7 @@ sailboarded
 sailboards
 sailboater
 sailboating
+sailboatings
 sailcloths
 sailer
 sailfish
@@ -64702,6 +64726,7 @@ shimmers
 shimmy
 shimmying
 shin
+shinbone
 shindys
 shiner
 shiners
@@ -66683,6 +66708,7 @@ solei
 solely
 solemn
 solemner
+solemnified
 solemnify
 solemnity
 solemnization
@@ -68264,6 +68290,7 @@ stealings
 steals
 stealth
 stealthier
+stealthily
 stealthiness
 steamboat
 steamboats
@@ -68794,6 +68821,7 @@ straightaway
 straightaways
 straightbreds
 straightedge
+straightens
 straighter
 straightforward
 straightjacket
@@ -71917,6 +71945,7 @@ tenderly
 tenderometer
 tenderometers
 tenders
+tending
 tendinitis
 tendinous
 tendon
@@ -72465,6 +72494,7 @@ thimblerigs
 thimbleweed
 thimbleweeds
 thimerosals
+thinclad
 thinclads
 thindown
 thindowns
@@ -75131,6 +75161,7 @@ ubiquitous
 ubiquitously
 ubiquitousness
 udometer
+udometry
 ufological
 ufologies
 ufologists
@@ -75784,6 +75815,7 @@ undercount
 undercounts
 undercover
 undercrofts
+undercurrent
 undercutting
 underdeveloped
 underdog
@@ -76384,6 +76416,7 @@ unkindest
 unkindlier
 unkindness
 unkissed
+unknit
 unknitting
 unknots
 unknowabilities
@@ -77930,6 +77963,7 @@ venisons
 venographies
 venology
 venomed
+venomers
 venoms
 vent
 ventage
@@ -77985,6 +78019,7 @@ verbena
 verbenas
 verbicide
 verbicides
+verbid
 verbified
 verbify
 verbigeration
