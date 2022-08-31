@@ -1610,6 +1610,7 @@ alleviators
 alley
 alleyway
 alleyways
+allheal
 allheals
 alliable
 alliaceous
@@ -2201,6 +2202,7 @@ analgesics
 analgetics
 analities
 anality
+analog
 analogic
 analogical
 analogically
@@ -2864,6 +2866,7 @@ antiozonant
 antipapal
 antiparty
 antipasti
+antipasto
 antipathies
 antipathy
 antipersonnel
@@ -4139,6 +4142,7 @@ asyndetically
 asyndeton
 asyndetons
 atabal
+atabals
 atabrine
 atactic
 ataghan
@@ -4592,6 +4596,7 @@ avaunt
 ave
 avellane
 avenger
+avenges
 avenging
 avenses
 aventurin
@@ -5889,6 +5894,7 @@ beeps
 beeriest
 beeriness
 beerinesses
+beers
 beeswing
 beeswings
 beetle
@@ -8004,6 +8010,7 @@ boxballs
 boxberries
 boxberry
 boxcar
+boxers
 boxfish
 boxful
 boxhaul
@@ -13503,6 +13510,7 @@ comminuting
 comminutions
 commiseratingly
 commiseration
+commissar
 commissariat
 commissariats
 commissars
@@ -19246,6 +19254,7 @@ diker
 dikey
 diktat
 dilapidation
+dilatable
 dilatably
 dilatancy
 dilatants
@@ -20181,6 +20190,7 @@ dissonant
 dissuade
 dissuader
 dissuaders
+dissuading
 dissuasively
 dissuasiveness
 dissyllable
@@ -22105,6 +22115,7 @@ electee
 electing
 electioneer
 electioneered
+electioneering
 electiveness
 electors
 electresses
@@ -22163,6 +22174,7 @@ electrotherapy
 electrotonic
 electrotyped
 electrotypes
+electrotyping
 electroweak
 electrowinning
 electrum
@@ -24176,6 +24188,7 @@ evolute
 evolutes
 evolutionist
 evolutions
+evolvement
 evolving
 evonymus
 evonymuses
@@ -24723,6 +24736,7 @@ extendable
 extendednesses
 extenders
 extends
+extensibilities
 extensionality
 extensions
 extensity
@@ -28432,6 +28446,7 @@ garage
 garageman
 garages
 garaging
+garbagemen
 garbages
 garbagey
 garbagy
@@ -31928,6 +31943,7 @@ hematines
 hematinics
 hematins
 hematite
+hematocrit
 hematologist
 hematomas
 hematopoiesis
@@ -36634,6 +36650,7 @@ irreality
 irreclaimably
 irreconcilable
 irrecoverable
+irrecoverably
 irredeemably
 irredenta
 irredentas
@@ -37455,6 +37472,7 @@ juggler
 juggleries
 jugglers
 jugglery
+juggles
 jugglings
 jughead
 jugs
@@ -37904,6 +37922,7 @@ khats
 khazen
 khazenim
 khazens
+khedahs
 khedas
 khedival
 khedive
@@ -40400,6 +40419,7 @@ loppers
 loppier
 lops
 lopsided
+lopsidedly
 lopsidedness
 lopsidednesses
 loral
@@ -42353,6 +42373,7 @@ mentorship
 menudos
 meou
 meoued
+meouing
 meow
 meows
 meperidines
@@ -42597,6 +42618,7 @@ metastasis
 metastasize
 metastasizes
 metastatically
+metatarsal
 metatarsus
 metate
 metathesis
@@ -43468,6 +43490,7 @@ miscompute
 miscomputes
 misconceive
 misconceivers
+misconceives
 misconceiving
 misconduct
 misconducts
@@ -44889,6 +44912,7 @@ mulligatawny
 mulling
 mullions
 mullite
+mullock
 mullocky
 multiagency
 multiaxial
@@ -45747,6 +45771,7 @@ negativenesses
 negatives
 negaton
 negatron
+negatrons
 neglecter
 neglecters
 neglecting
@@ -48470,6 +48495,7 @@ osmiridiums
 osmium
 osmol
 osmolalities
+osmolality
 osmolar
 osmolarity
 osmols
@@ -51574,6 +51600,7 @@ peltasts
 peltately
 peltation
 pelted
+pelter
 peltered
 peltless
 pelvic
@@ -53645,6 +53672,7 @@ pluckiness
 plucking
 plug
 plugger
+plugola
 plumb
 plumbable
 plumbagos
@@ -57840,6 +57868,7 @@ rasboras
 rascal
 rascals
 rasers
+rash
 rasher
 rashest
 rasp
@@ -66149,6 +66178,7 @@ slop
 slope
 sloper
 sloping
+slopped
 sloppiest
 slopping
 slops
@@ -70850,6 +70880,7 @@ swindle
 swindled
 swindles
 swindling
+swineherd
 swinepox
 swing
 swingeing
@@ -71769,6 +71800,7 @@ teahouse
 teahouses
 teakettles
 teakwood
+tealike
 teals
 team
 teamaker
@@ -75311,6 +75343,7 @@ tzigane
 tzitzit
 tzuris
 ubieties
+ubiety
 ubique
 ubiquinone
 ubiquinones
@@ -77296,6 +77329,7 @@ unyoung
 unzipped
 unzipping
 unzips
+unzoned
 upbearers
 upbears
 upbeat
@@ -78220,6 +78254,7 @@ verifying
 verily
 verisimilarly
 verisimilitude
+verismo
 verisms
 verist
 verists
