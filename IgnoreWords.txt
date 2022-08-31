@@ -6086,6 +6086,7 @@ bemaddens
 bemas
 bemata
 bemeaned
+bemeaning
 bemeans
 bemedalled
 bemingle
@@ -10089,6 +10090,7 @@ caretakings
 caretook
 careworn
 carex
+carfares
 cargo
 cargoes
 carhop
@@ -10320,6 +10322,7 @@ casters
 castigates
 castigation
 castigations
+castigator
 castle
 castled
 castling
@@ -11096,6 +11099,7 @@ charbroils
 charcoal
 charcoaling
 charcoals
+charge
 chargehand
 charger
 charging
@@ -11720,6 +11724,7 @@ chophouse
 choplogic
 choppering
 choppier
+choppily
 choppiness
 choppy
 chops
@@ -26994,6 +26999,7 @@ foreby
 forebye
 forecaddie
 forecaddies
+forecastable
 forecasters
 forechecked
 forechecks
@@ -29139,6 +29145,7 @@ gladdening
 gladding
 gladelike
 gladiate
+gladiola
 gladioluses
 gladlier
 gladliest
@@ -30175,6 +30182,7 @@ greying
 greylag
 greyness
 greynesses
+greys
 gridded
 gridder
 gridders
@@ -30830,6 +30838,7 @@ hacks
 hacksawing
 hacksawn
 hacksaws
+hackworks
 hadal
 haddest
 hading
@@ -31181,6 +31190,7 @@ hap
 hapaxes
 haphazardly
 haphazardness
+haphazardnesses
 haphtara
 haphtarah
 haphtarot
@@ -32847,6 +32857,7 @@ hopelessness
 hopelessnesses
 hopes
 hophead
+hopheads
 hoplites
 hoppers
 hoppiest
@@ -34350,6 +34361,7 @@ implores
 imploringly
 implosive
 implosives
+implying
 impolicies
 impolicy
 impoliteness
@@ -37112,6 +37124,7 @@ jigged
 jigger
 jiggered
 jiggiest
+jigging
 jiggles
 jigglier
 jiggliest
@@ -38130,6 +38143,7 @@ knotweeds
 knout
 knouted
 knouting
+knouts
 knowable
 knower
 knowing
@@ -46850,6 +46864,7 @@ nonviolence
 nonviolent
 nonvirgin
 nonvisual
+nonvoluntary
 nonvoting
 nonwage
 nonwar
@@ -47015,6 +47030,7 @@ novelizer
 novelizers
 novelizing
 novellas
+novelties
 novemdecillion
 novenae
 novercal
@@ -47876,6 +47892,7 @@ oolith
 oolitic
 oologic
 oologists
+oolong
 oomiac
 oomiak
 oomiaks
@@ -49201,6 +49218,7 @@ overcalling
 overcalls
 overcame
 overcapacity
+overcapitalize
 overcapitalized
 overcasted
 overcasting
@@ -49834,6 +49852,7 @@ overweeningly
 overweighted
 overweighting
 overwetted
+overwetting
 overwhelmed
 overwhelms
 overwide
@@ -49972,6 +49991,7 @@ ozonic
 ozonide
 ozonides
 ozonise
+ozonising
 ozonize
 ozonizer
 ozonizers
@@ -49996,6 +50016,7 @@ pacifiable
 pacifical
 pacification
 pacificators
+pacificist
 pacificists
 pacified
 pacifier
@@ -50218,6 +50239,7 @@ palladium
 palladous
 pallet
 palleted
+palleting
 palletise
 palletised
 palletises
@@ -53895,6 +53917,7 @@ polyphonies
 polyphonous
 polyphonously
 polyphyletic
+polypi
 polypide
 polyploidies
 polyploids
@@ -56478,6 +56501,7 @@ pulsate
 pulsated
 pulsatory
 pulsed
+pulsejet
 pulsejets
 pulser
 pulsers
@@ -59502,6 +59526,7 @@ remarriage
 remarriages
 remaster
 remastered
+remastering
 rematch
 rematched
 rematches
@@ -62894,6 +62919,7 @@ scenographer
 scenographers
 scenting
 scepter
+sceptering
 sceptic
 scepticism
 sceptics
@@ -64703,6 +64729,7 @@ shirks
 shirrings
 shirtdress
 shirtdresses
+shirtfront
 shirtier
 shirting
 shirtmaker
@@ -68365,6 +68392,7 @@ sterigma
 sterile
 sterilise
 sterilising
+sterilities
 sterilization
 sterilize
 sterilizers
@@ -68387,6 +68415,7 @@ steroid
 steroidal
 steroidogenic
 sterols
+stertors
 stethoscope
 stetsons
 stevedored
@@ -69128,6 +69157,7 @@ suable
 suably
 suasion
 suasions
+suasive
 suasiveness
 suasivenesses
 suasory
@@ -69608,6 +69638,7 @@ subtotal
 subtotaled
 subtotally
 subtracter
+subtracters
 subtractions
 subtracts
 subtrahend
@@ -75943,6 +75974,7 @@ undressing
 undrest
 undrew
 undried
+undulance
 undulant
 undular
 undulated
@@ -79177,6 +79209,7 @@ waxes
 waxiest
 waxings
 waxplant
+waxplants
 waxweed
 waxwings
 waxwork
@@ -80423,6 +80456,7 @@ wrongfulnesses
 wrongheadedly
 wrongly
 wrongness
+wrongnesses
 wrote
 wrothful
 wrought
@@ -80654,6 +80688,7 @@ yells
 yelped
 yelper
 yelping
+yen
 yenned
 yenning
 yenta
