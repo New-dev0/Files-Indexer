@@ -1382,6 +1382,7 @@ alaska
 alated
 alation
 albacore
+albatrosses
 albedo
 albedos
 albeit
@@ -9023,6 +9024,7 @@ bushinesses
 bushing
 bushland
 bushless
+bushmen
 bushpig
 bushpigs
 bushrangers
@@ -17196,6 +17198,7 @@ deafenings
 deafnesses
 deair
 deaired
+deairing
 deairs
 dealated
 dealation
@@ -23098,6 +23101,7 @@ entoiled
 entomb
 entombment
 entomofaunae
+entomological
 entomologies
 entomologist
 entomologists
@@ -28244,8 +28248,10 @@ gallons
 galloon
 galloons
 galloot
+gallop
 galloper
 gallops
+gallows
 galluses
 galoot
 galop
@@ -30780,6 +30786,7 @@ gynophobe
 gynophobes
 gyoza
 gyp
+gyplures
 gypped
 gypper
 gypseian
@@ -30830,6 +30837,7 @@ habitably
 habitan
 habitant
 habitants
+habitation
 habitual
 habitualness
 habitualnesses
@@ -32702,6 +32710,7 @@ homogamous
 homogenates
 homogeneities
 homogeneity
+homogenies
 homogenise
 homogenization
 homogenizations
@@ -34613,6 +34622,7 @@ inboards
 inborn
 inbound
 inbounded
+inbounding
 inbreathe
 inbreathed
 inbreathes
@@ -41108,6 +41118,7 @@ malformations
 malfunction
 malfunctioning
 malgre
+malice
 malicious
 maliciousness
 malignance
@@ -41319,6 +41330,7 @@ manipulatory
 manito
 manitous
 manitus
+mankind
 manless
 manlike
 manly
@@ -42007,6 +42019,7 @@ meditation
 meditative
 meditativeness
 meditators
+medium
 mediumship
 medius
 medivac
@@ -42319,6 +42332,7 @@ mercurations
 mercurially
 mercurialnesses
 mercy
+mere
 merengue
 merengues
 merer
@@ -44420,6 +44434,7 @@ morions
 morn
 morning
 morocco
+moron
 moronic
 moronically
 moronism
@@ -46067,6 +46082,7 @@ niggarded
 niggarding
 niggardliness
 niggardlinesses
+niggle
 niggler
 nigglers
 nigglier
@@ -46436,6 +46452,7 @@ noncontract
 noncontributory
 noncontrolled
 nonconventional
+noncooperation
 noncooperative
 noncooperators
 noncore
@@ -49264,6 +49281,7 @@ overcapitalize
 overcapitalized
 overcasted
 overcasting
+overcastings
 overcasts
 overcaution
 overcautions
@@ -54825,6 +54843,7 @@ predigest
 predigested
 predigesting
 predilections
+predinner
 predischarge
 prediscovery
 predisposed
@@ -55474,6 +55493,7 @@ primage
 primages
 primal
 primaries
+primary
 primatal
 primatals
 primates
@@ -56355,6 +56375,7 @@ psychobabblers
 psychobabbles
 psychobiography
 psychobiologic
+psychobiologies
 psychodramas
 psychodramatic
 psychodynamic
@@ -59602,6 +59623,7 @@ remembered
 remembering
 remembrance
 remembrancer
+remembrances
 remended
 remerged
 remerging
@@ -60231,6 +60253,7 @@ reshot
 reshow
 reshowed
 reshowered
+reshowers
 reshowing
 reshuffled
 reshuffling
@@ -61669,6 +61692,7 @@ rotisseries
 rotls
 roto
 rotors
+rotos
 rototill
 rototillers
 rotted
@@ -62147,6 +62171,7 @@ sadistic
 sadly
 sadness
 sadnesses
+sadomasochism
 sadomasochist
 sadomasochistic
 sadomasochists
@@ -65033,6 +65058,7 @@ shticky
 shtiks
 shuck
 shucker
+shuckings
 shuddering
 shuffle
 shuffleboard
@@ -65429,6 +65455,7 @@ singularizes
 sinh
 sinhs
 sinicize
+sinicized
 sinisterly
 sink
 sinkers
@@ -66339,6 +66366,7 @@ snazzier
 snazziest
 sneaker
 sneakiest
+sneakily
 sneakiness
 sneaking
 sneaky
@@ -66421,6 +66449,7 @@ snooded
 snooding
 snoods
 snook
+snooked
 snooker
 snookering
 snooking
@@ -66451,6 +66480,7 @@ snottily
 snottiness
 snout
 snoutiest
+snouty
 snow
 snowbank
 snowbanks
@@ -71969,6 +71999,7 @@ teniae
 tenias
 teniasis
 tenner
+tennis
 tennises
 tennists
 tenoner
@@ -72882,6 +72913,8 @@ tiles
 tiling
 tillage
 tillandsia
+tilled
+tiller
 tillered
 tillering
 tillermen
@@ -74318,6 +74351,7 @@ trios
 trioxid
 trioxids
 trip
+tripack
 tripacks
 tripe
 triphthongal
@@ -78021,6 +78055,7 @@ verbicide
 verbicides
 verbid
 verbified
+verbifies
 verbify
 verbigeration
 verbiles
