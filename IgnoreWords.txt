@@ -2169,6 +2169,7 @@ anaerobic
 anaerobioses
 anaerobiosis
 anaesthesias
+anaesthetic
 anageneses
 anaglyph
 anagnorises
@@ -5108,6 +5109,7 @@ balsa
 balsamed
 balsams
 balustrades
+bam
 bambino
 bamboo
 bamboos
@@ -7476,6 +7478,7 @@ bog
 bogart
 bogey
 bogeyman
+bogged
 boggier
 boggiest
 bogginesses
@@ -10692,6 +10695,7 @@ cemeteries
 cenobite
 cenobitic
 cenospecies
+cenotaph
 cenozoic
 cense
 censer
@@ -13421,6 +13425,7 @@ commemorating
 commemorations
 commemoratively
 commemoratives
+commemorator
 commencement
 commencer
 commencers
@@ -14247,6 +14252,7 @@ consternation
 consternations
 constipates
 constipating
+constipations
 constituencies
 constituency
 constituently
@@ -14909,6 +14915,7 @@ correctly
 correctnesses
 corrector
 correctors
+corrects
 correlates
 correlational
 correlations
@@ -18371,6 +18378,7 @@ dermas
 dermatogens
 dermatoglyphics
 dermatological
+dermatologist
 dermatome
 dermatomes
 dermatoses
@@ -19597,6 +19605,7 @@ disconformity
 disconnects
 disconsolately
 disconsolation
+discontent
 discontented
 discontentedly
 discontentment
@@ -22218,6 +22227,7 @@ embarkments
 embarrass
 embarrassable
 embarrassedly
+embarrassment
 embarrassments
 embarring
 embassage
@@ -22331,6 +22341,7 @@ embryologists
 embryons
 embryos
 emceeing
+emdash
 eme
 emeer
 emeerate
@@ -24779,6 +24790,7 @@ eyepieces
 eyepoints
 eyepoppers
 eyes
+eyeshades
 eyeshine
 eyesights
 eyespot
@@ -31816,6 +31828,7 @@ hemitrope
 hemitropes
 hemline
 hemlines
+hemmed
 hemochromatoses
 hemochromatosis
 hemocyanin
@@ -33787,6 +33800,7 @@ idiom
 idiomatically
 idiomorphic
 idiopathies
+idiosyncratic
 idiotical
 idiotically
 idiotypes
@@ -37503,6 +37517,7 @@ karting
 kartings
 karyogamies
 karyokineses
+karyokinesis
 karyokinetic
 karyologies
 karyology
@@ -38428,6 +38443,7 @@ lallations
 lallygags
 lam
 lama
+lamasery
 lamb
 lambasted
 lambda
@@ -38586,6 +38602,7 @@ lankness
 lanknesses
 lanner
 lanners
+lanolin
 lanoline
 lanosities
 lantana
@@ -38997,6 +39014,7 @@ led
 lederhosen
 ledge
 ledger
+ledgers
 ledgier
 ledgiest
 ledgy
@@ -39306,6 +39324,7 @@ lexical
 lexicalisation
 lexicalities
 lexicalization
+lexicalizations
 lexicalized
 lexically
 lexicographer
@@ -40540,6 +40559,7 @@ lusty
 lusus
 lutanist
 luteal
+lutecium
 luteciums
 luted
 lutefisk
@@ -41733,6 +41753,7 @@ mayors
 mayorship
 mayos
 maypole
+maypop
 mayvins
 mayweed
 mayweeds
@@ -42365,6 +42386,7 @@ metalmarks
 metalworkers
 metalworks
 metameres
+metamerically
 metamerism
 metamers
 metamorphic
@@ -43241,6 +43263,7 @@ mischievousness
 mischose
 mischosen
 miscibilities
+miscitations
 miscited
 misclaimed
 misclasses
@@ -45775,6 +45798,7 @@ neurular
 neurulas
 neuston
 neutral
+neutralised
 neutralises
 neutralising
 neutralism
@@ -48472,6 +48496,7 @@ outcrosses
 outcrowd
 outcry
 outcrying
+outcurses
 outcursing
 outdances
 outdancing
@@ -48779,6 +48804,7 @@ outrebounds
 outreckoned
 outreckoning
 outreproduce
+outridden
 outrider
 outrig
 outrigged
@@ -49416,6 +49442,7 @@ overlies
 overlighted
 overlit
 overliteral
+overliterary
 overlived
 overloaded
 overloading
@@ -53653,6 +53680,7 @@ politicos
 politics
 polities
 polka
+polkas
 pollack
 pollard
 polled
@@ -56967,6 +56995,7 @@ quelled
 quellers
 quenched
 quencher
+quenchers
 quenches
 quenching
 quenchless
@@ -64246,6 +64275,7 @@ shambles
 shame
 shameable
 shamefaced
+shamefacedness
 shamefast
 shameful
 shamefully
@@ -64867,6 +64897,7 @@ shutterbug
 shuttered
 shutterless
 shutters
+shutting
 shuttle
 shuttlecock
 shuttlecocked
@@ -65915,6 +65946,7 @@ slungshot
 slurb
 slurban
 slurbs
+slurp
 slurping
 slurred
 slurrying
@@ -68531,6 +68563,7 @@ stopcock
 stopcocks
 stoped
 stoper
+stoplight
 stopoff
 stopoffs
 stoppage
@@ -69896,6 +69929,7 @@ supercargo
 supercargoes
 supercars
 supercautious
+superceding
 supercenters
 supercharger
 supercharges
@@ -74796,6 +74830,7 @@ twinkie
 twinkler
 twinkles
 twinkling
+twinklings
 twinset
 twinship
 twirl

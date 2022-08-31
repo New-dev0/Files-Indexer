@@ -1,0 +1,5 @@
+com.gradleup.auto.manifest - Gradle Plugin Portal,https://plugins.gradle.org/plugin/com.gradleup.auto.manifest
+com.coditory.manifest - Gradle Plugin Portal,https://plugins.gradle.org/plugin/com.coditory.manifest
+https://downloads.openwrt.org/releases/19.07.8/pac...,https://downloads.openwrt.org/releases/19.07.8/packages/mips_mips32/packages/Packages.manifest
+Packages.manifest - OpenWrt Downloads,https://downloads.openwrt.org/releases/18.06.2/packages/mips_24kc/packages/Packages.manifest
+downloads.openwrt.org/releases/18.06.5/packages/i3...,http://downloads.openwrt.org/releases/18.06.5/packages/i386_pentium/packages/Packages.manifest
