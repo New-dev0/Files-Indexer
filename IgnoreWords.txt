@@ -3180,6 +3180,7 @@ aposporic
 apospories
 apospory
 apostasies
+apostasy
 apostatised
 apostatises
 apostatizing
@@ -4267,6 +4268,7 @@ attentional
 attentions
 attentively
 attenuated
+attenuating
 attenuation
 attest
 attestant
@@ -4877,6 +4879,7 @@ backlash
 backlasher
 backlashes
 backlashing
+backless
 backlight
 backlist
 backlisted
@@ -6319,6 +6322,7 @@ bespouses
 besprinkled
 besteading
 bested
+bestial
 bestialities
 bestialized
 bestializes
@@ -7098,6 +7102,7 @@ blatant
 blate
 blather
 blathered
+blatherer
 blathering
 blathers
 blatherskite
@@ -11142,6 +11147,7 @@ charlatanisms
 charlatanry
 charlatans
 charley
+charlock
 charlotte
 charm
 charmed
@@ -14875,6 +14881,7 @@ cornetcy
 cornetist
 cornettists
 cornfield
+cornfields
 cornflakes
 cornhusk
 cornhuskings
@@ -16151,6 +16158,7 @@ cryptal
 cryptanalysis
 cryptanalytical
 cryptarithm
+cryptic
 cryptically
 cryptococci
 cryptococcosis
@@ -17341,6 +17349,7 @@ decapitations
 decapod
 decapodal
 decapodan
+decapodous
 decarbonated
 decarbonates
 decarbonizer
@@ -19725,6 +19734,7 @@ discriminator
 discrown
 discrowned
 discrowns
+discursive
 discursively
 discursiveness
 discus
@@ -20000,6 +20010,7 @@ dispersively
 dispersiveness
 dispersoids
 dispiritedly
+dispiriting
 dispiteous
 displace
 displaced
@@ -20103,6 +20114,7 @@ disseising
 disseize
 disseized
 disseizes
+disseizing
 disseizins
 dissembles
 disseminate
@@ -26225,6 +26237,7 @@ flabella
 flabellate
 flabelliform
 flabs
+flaccid
 flack
 flacked
 flackeries
@@ -28171,6 +28184,7 @@ gagaku
 gage
 gagged
 gagger
+gagging
 gaggled
 gaggles
 gaggling
@@ -34276,6 +34290,7 @@ impairers
 impairment
 impairments
 impairs
+impaled
 impalement
 impalements
 impales
@@ -35909,6 +35924,7 @@ intercooler
 intercorporate
 intercorrelate
 intercorrelated
+intercortical
 intercostal
 intercostals
 intercourses
@@ -47802,6 +47818,7 @@ ohmage
 ohmages
 ohmic
 ohmmeter
+ohms
 oho
 oidia
 oidioid
@@ -49537,6 +49554,7 @@ overfulfilling
 overgeneralize
 overgeneralizes
 overgenerous
+overgenerously
 overgild
 overgilding
 overgilds
@@ -49769,6 +49787,7 @@ overreported
 overrepresented
 overridden
 override
+overriding
 overrife
 overrigid
 overroast
@@ -49901,6 +49920,7 @@ overtalk
 overtalkative
 overtalking
 overtame
+overtart
 overtasked
 overtasking
 overtax
@@ -50168,6 +50188,7 @@ pacs
 paction
 pactions
 pacts
+pacy
 pad
 padauks
 padders
@@ -56032,6 +56053,7 @@ prophetesses
 prophethood
 prophethoods
 prophetical
+prophets
 prophylactic
 prophylaxes
 propine
@@ -56049,6 +56071,7 @@ propman
 propolis
 proponing
 proportion
+proportional
 proportionality
 proportionally
 proportionate
@@ -58060,6 +58083,7 @@ reafforested
 reafforesting
 reaggregate
 reaggregated
+reaggregates
 reaggregating
 reaggregation
 reaginic
@@ -58111,6 +58135,7 @@ reaping
 reappear
 reappearances
 reappearing
+reappears
 reapplications
 reapplied
 reapplies
@@ -60824,6 +60849,7 @@ reunited
 reunites
 reupholstering
 reusabilities
+reusables
 reused
 reuses
 reusing
@@ -61650,6 +61676,7 @@ roomfuls
 roomie
 roomier
 roomies
+roomily
 roominesses
 rooming
 roommates
@@ -70394,6 +70421,7 @@ superrealisms
 superromantic
 supersalesmen
 supersaturation
+superschools
 superscribes
 superscript
 superscripts
@@ -73669,6 +73697,7 @@ town
 townees
 townfolk
 townhome
+townhomes
 townies
 townish
 townless
@@ -74072,6 +74101,7 @@ trashmen
 trashy
 trass
 trauchled
+trauchles
 traumas
 traumata
 traumatically
@@ -74595,6 +74625,7 @@ trone
 trones
 troop
 trooper
+troopers
 troopials
 troostite
 tropaeolums
@@ -78012,6 +78043,7 @@ veiler
 veilers
 veiling
 vein
+veinal
 veiner
 veiners
 veinier
@@ -78104,6 +78136,7 @@ vent
 ventage
 venter
 ventifact
+ventilate
 ventilated
 ventilating
 ventilators
@@ -80078,6 +80111,7 @@ winch
 winched
 winchers
 winching
+windable
 windages
 windbells
 windblast
@@ -80095,6 +80129,7 @@ windgalls
 windigo
 windiness
 windinesses
+windingly
 windings
 windjammers
 windjamming
