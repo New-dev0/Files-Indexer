@@ -2590,6 +2590,7 @@ antagonistic
 antagonize
 antagonized
 antalgic
+antalgics
 antalkali
 antalkalis
 antarctic
@@ -9664,6 +9665,7 @@ candlelighted
 candlelighter
 candlelit
 candlenuts
+candlepin
 candlepowers
 candlesnuffer
 candlesnuffers
@@ -10156,6 +10158,7 @@ caroller
 carolling
 carotene
 carotenoid
+carotid
 carotidal
 carotins
 carousal
@@ -19231,6 +19234,7 @@ dilettantisms
 diligently
 dillies
 dillydally
+diltiazem
 diltiazems
 dilutenesses
 diluter
@@ -21385,6 +21389,7 @@ duodecimo
 duodena
 duolog
 duologue
+duomo
 duomos
 duopsonies
 dup
@@ -22583,6 +22588,7 @@ encipherer
 enciphering
 encipherments
 enciphers
+encircled
 encircles
 encircling
 enclasped
@@ -24694,6 +24700,7 @@ externalize
 externalizes
 externalizing
 externals
+externes
 externship
 externships
 exteroceptive
@@ -25221,6 +25228,7 @@ fascistic
 fascistically
 fascists
 fashed
+fashes
 fashing
 fashionableness
 fashionably
@@ -26733,6 +26741,7 @@ flysheets
 flyspecked
 flyswatter
 flyswatters
+flyte
 flytes
 flytiers
 flyting
@@ -28438,6 +28447,7 @@ garters
 gasaliers
 gasconader
 gasconaders
+gasconading
 gascons
 gaseities
 gaseous
@@ -28998,6 +29008,7 @@ gigglingly
 giggly
 giglet
 giglets
+giglot
 giglots
 gigolos
 gigot
@@ -29142,6 +29153,7 @@ gladdened
 gladdener
 gladdeners
 gladdening
+gladder
 gladding
 gladelike
 gladiate
@@ -29251,6 +29263,7 @@ gleemen
 gleesome
 gleetiest
 gleeting
+gleety
 glegnesses
 gleization
 gleizations
@@ -29837,6 +29850,7 @@ gradate
 gradation
 graded
 gradeless
+grader
 graders
 gradients
 gradine
@@ -30883,6 +30897,7 @@ hagberries
 hagborn
 hagbushes
 hagbuts
+hagfish
 hagfishes
 haggada
 haggadahs
@@ -32168,6 +32183,7 @@ hexagram
 hexahydrates
 hexameter
 hexamine
+hexamines
 hexapla
 hexaplar
 hexapodies
@@ -34370,6 +34386,7 @@ impolitical
 impoliticly
 imponderably
 impone
+import
 importance
 importances
 important
@@ -35133,6 +35150,7 @@ infantilizes
 infantilizing
 infantine
 infantry
+infantrymen
 infants
 infarcted
 infarctions
@@ -36755,6 +36773,7 @@ isthmus
 istle
 italianated
 italianised
+italianising
 italianizes
 italianizing
 italic
@@ -37704,6 +37723,7 @@ kenosises
 kenotic
 kenotrons
 kens
+kentledges
 kep
 kepi
 keps
@@ -42857,6 +42877,7 @@ midwinter
 midwinters
 midwives
 midwiving
+midyears
 mien
 miffiest
 miffiness
@@ -47104,6 +47125,7 @@ nudities
 nudity
 nudnicks
 nudzhed
+nugatory
 nuggets
 nuisances
 nuked
@@ -50323,6 +50345,7 @@ paly
 palynologic
 palynologically
 palynologies
+palynologist
 palynologists
 palynology
 pampa
@@ -51113,6 +51136,7 @@ patronizing
 patronly
 pattamar
 pattens
+patter
 patterer
 pattering
 patternings
@@ -51623,6 +51647,7 @@ peptid
 peptidase
 peptides
 peptidoglycan
+peptidoglycans
 peptized
 peptizers
 peptizes
@@ -55355,6 +55380,7 @@ preventiveness
 preventives
 preview
 previewer
+previewing
 previews
 previous
 prevised
@@ -58962,6 +58988,7 @@ reformulation
 refortification
 refortifies
 refought
+refoundations
 refounded
 refounding
 refounds
@@ -59158,6 +59185,7 @@ rehabilitates
 rehabilitating
 rehabilitation
 rehabilitations
+rehabs
 rehandle
 rehandled
 rehandles
@@ -59538,6 +59566,7 @@ remeasured
 remeasurement
 remeasuring
 remediated
+remediating
 remediation
 remediations
 remediless
@@ -62025,6 +62054,7 @@ sacahuiste
 sacatons
 saccade
 saccades
+saccadic
 saccate
 saccharase
 saccharases
@@ -67696,6 +67726,7 @@ sprawly
 sprayer
 sprayers
 sprays
+spreadabilities
 spreader
 sprees
 sprig
@@ -72080,6 +72111,7 @@ territorialist
 territorialize
 territorialized
 territorials
+terrorises
 terrorising
 terrorisms
 terrorist
@@ -76762,6 +76794,7 @@ unsexual
 unshackles
 unshaded
 unshakable
+unshakably
 unshaken
 unshamed
 unshared
@@ -77678,6 +77711,7 @@ varistor
 varix
 varlet
 varletry
+varmint
 varmints
 varnas
 varnish
@@ -79527,6 +79561,7 @@ whereinto
 whereon
 wheresoever
 whereto
+wherever
 wherewithal
 wherewiths
 wherried
