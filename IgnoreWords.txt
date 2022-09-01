@@ -216,6 +216,7 @@ accidences
 accidentalness
 accidently
 accidia
+accidie
 accipiters
 accipitrine
 accipitrines
@@ -817,6 +818,7 @@ advects
 adventitia
 adventitiously
 adventive
+adventives
 advents
 adventure
 adventurist
@@ -1035,6 +1037,7 @@ aficionados
 afield
 aflame
 aflatoxins
+aflutter
 afore
 aforehand
 aforementioned
@@ -1956,6 +1959,7 @@ amenability
 amenably
 amend
 amender
+amendment
 amenorrhea
 amenorrheic
 amens
@@ -4600,6 +4604,7 @@ autophytes
 autopilot
 autopilots
 autopsied
+autopsies
 autoradiogram
 autorotations
 autostrada
@@ -7105,6 +7110,7 @@ blade
 bladed
 bladeless
 bladelike
+bladers
 blades
 blaeberries
 blaff
@@ -7824,6 +7830,7 @@ boorish
 boorishness
 boorishnesses
 boors
+boos
 boost
 boosterisms
 boosting
@@ -8046,6 +8053,7 @@ bovids
 bovine
 bovinity
 bowdlerised
+bowdlerises
 bowdlerising
 bowdlerizations
 bowdlerizes
@@ -10299,6 +10307,7 @@ carpetbaggeries
 carpetbaggers
 carpetbags
 carpeting
+carpetweeds
 carpings
 carpogonia
 carpology
@@ -10778,6 +10787,7 @@ ceintures
 cel
 celandines
 celebratedness
+celebration
 celebrations
 celebrity
 celebs
@@ -12001,6 +12011,7 @@ chrysalids
 chrysolite
 chrysomelid
 chrysomelids
+chrysophyte
 chrysoprase
 chrysotiles
 chthonian
@@ -18806,6 +18817,7 @@ despoiler
 despoiling
 despoilment
 despoliation
+despond
 despondence
 despondencies
 despondency
@@ -19365,6 +19377,7 @@ dieters
 dietetic
 diether
 dietician
+dieting
 diets
 diff
 differed
@@ -27185,6 +27198,7 @@ folklorist
 folkloristic
 folkmote
 folkmots
+folksily
 folksiness
 folksinger
 folksong
@@ -30298,6 +30312,7 @@ granaries
 granary
 grandaddies
 grandames
+grandams
 grandaunt
 grandaunts
 grandbabies
@@ -31217,6 +31232,7 @@ habilitates
 habilitations
 habitabilities
 habitable
+habitableness
 habitablenesses
 habitably
 habitan
@@ -38045,6 +38061,7 @@ kalimbas
 kaliphs
 kalium
 kaliums
+kallidin
 kallikrein
 kallikreins
 kalmia
@@ -41251,6 +41268,7 @@ lyophilizer
 lyophilizers
 lyophilizes
 lyophilizing
+lyrate
 lyrated
 lyrately
 lyre
@@ -42343,6 +42361,7 @@ mausolea
 mausolean
 mausoleum
 mauves
+maverick
 mavie
 mavins
 mavis
@@ -46997,6 +47016,7 @@ noncoercive
 noncoherent
 noncola
 noncolas
+noncollector
 noncolored
 noncolors
 noncombat
@@ -47757,6 +47777,7 @@ nudenesses
 nuder
 nudes
 nudest
+nudgers
 nudges
 nudibranchs
 nudie
@@ -47919,6 +47940,7 @@ oafs
 oak
 oaken
 oakiest
+oaks
 oaky
 oar
 oarfish
@@ -51921,6 +51943,7 @@ pe
 peaceableness
 peacefuller
 peacefullest
+peacefully
 peacefulnesses
 peacekeeper
 peacekeepers
@@ -53602,6 +53625,7 @@ pilotless
 pilsener
 pilsners
 pimas
+pimento
 pimentos
 pimped
 pimpernel
@@ -55836,6 +55860,7 @@ prepaving
 prepay
 prepaying
 prepayments
+prepense
 prepensely
 preperformance
 prepill
@@ -59990,6 +60015,7 @@ regulations
 regulator
 reguline
 regulus
+regurgitate
 regurgitated
 regurgitating
 rehab
@@ -60459,6 +60485,7 @@ remorsefully
 remorsefulness
 remorses
 remote
+remotenesses
 remotion
 remotions
 remotivated
@@ -60538,6 +60565,7 @@ renovated
 renovating
 renovations
 renown
+renowning
 rentabilities
 rentable
 rente
@@ -63854,6 +63882,7 @@ schipperke
 schipperkes
 schismatical
 schismatize
+schismatizes
 schismatizing
 schist
 schistose
@@ -65777,6 +65806,7 @@ shoring
 shorl
 short
 shortage
+shortcut
 shorted
 shorten
 shortenings
@@ -69784,6 +69814,7 @@ straphangers
 straphanging
 straphangs
 straphung
+straplesses
 strappadoes
 strappados
 strapped
@@ -71508,6 +71539,7 @@ swag
 swagers
 swages
 swagger
+swaggerers
 swaggering
 swaggeringly
 swaggers
@@ -72700,6 +72732,7 @@ teethers
 teething
 teethings
 teethridge
+teetotalers
 teetotalism
 teetotalists
 teetotallers
@@ -80692,6 +80725,7 @@ whenas
 whenever
 whens
 whensoever
+whereabouts
 wherefore
 wherein
 whereinto
@@ -81128,6 +81162,7 @@ winking
 winkled
 winkles
 winkling
+winks
 winless
 winnable
 winner
