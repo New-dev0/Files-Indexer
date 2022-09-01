@@ -3929,6 +3929,7 @@ aspirating
 aspiration
 aspirational
 aspirations
+aspirator
 aspired
 aspirers
 aspirins
@@ -4481,6 +4482,7 @@ authority
 authorization
 authorizes
 authorizing
+authorship
 autism
 autist
 autistic
@@ -4962,6 +4964,7 @@ backwoods
 backwoodsmen
 backyards
 bacon
+bacons
 bacteremic
 bacteria
 bacteriocins
@@ -7981,6 +7984,7 @@ bourgeoned
 bourgeoning
 bourgs
 bourguignon
+bourn
 bourree
 bourrees
 bourrides
@@ -8327,6 +8331,7 @@ breeches
 breeching
 breechloader
 breechloaders
+breed
 breeder
 breeding
 breedings
@@ -14814,6 +14819,7 @@ coprophagy
 coprophiliac
 coprophilias
 coprophilous
+coproprietors
 coprosperity
 copse
 copses
@@ -15169,6 +15175,7 @@ cosmopolitisms
 cosmos
 cosponsored
 cosponsors
+cosponsorships
 coss
 cossack
 cosseted
@@ -17157,6 +17164,7 @@ darneder
 darnedests
 darnel
 darnings
+darshans
 dart
 dartboards
 darter
@@ -22608,6 +22616,7 @@ empanels
 empathetically
 empathically
 empathizing
+empathy
 empennages
 emperor
 emperors
@@ -25706,6 +25715,7 @@ fentanyls
 fenthions
 fenugreek
 fenuron
+feod
 feodary
 feoffed
 feoffee
@@ -27368,6 +27378,7 @@ formalins
 formalised
 formalising
 formalists
+formalization
 formalize
 formalizer
 formalizing
@@ -27405,6 +27416,7 @@ formulators
 formulism
 formulisms
 formulize
+formwork
 formworks
 formyl
 formyls
@@ -30524,6 +30536,7 @@ grody
 groggeries
 groggery
 groggy
+grograms
 grogs
 grogshop
 groin
@@ -34483,6 +34496,7 @@ impassiveness
 impassivities
 impassivity
 impasted
+impastes
 impasting
 impastoed
 impatience
@@ -37286,6 +37300,7 @@ jeeps
 jeer
 jeered
 jeerers
+jeering
 jeers
 jees
 jefe
@@ -39131,6 +39146,7 @@ latrines
 latte
 lattens
 latter
+lattice
 lattin
 lattins
 latu
@@ -42325,6 +42341,7 @@ megadyne
 megadynes
 megafauna
 megafaunae
+megafaunal
 megagametes
 megagametophyte
 megahertz
@@ -44098,6 +44115,7 @@ miswording
 miswords
 miswrit
 miswrite
+miswrites
 miswriting
 misyoking
 mite
@@ -45490,6 +45508,7 @@ mycobacterial
 mycobacterium
 mycoflorae
 mycologic
+mycologies
 mycologists
 mycophagist
 mycophagists
@@ -45930,6 +45949,7 @@ necrology
 necromancy
 necromantic
 necromantically
+necrophagous
 necrophilia
 necrophiliacs
 necrophilic
@@ -47182,6 +47202,7 @@ nonsugar
 nonsugars
 nonsuited
 nonsuiting
+nonsurgical
 nonsyllabic
 nonsystem
 nontalker
@@ -49675,6 +49696,7 @@ overcrowds
 overcultivation
 overcuring
 overcut
+overdeck
 overdecked
 overdecking
 overdecorated
@@ -53747,6 +53769,7 @@ platter
 platterful
 plattersful
 platting
+platy
 platyfish
 platyfishes
 platyhelminthic
@@ -56945,6 +56968,7 @@ pulsant
 pulsars
 pulsate
 pulsated
+pulsating
 pulsatory
 pulsed
 pulsejet
@@ -59347,6 +59371,7 @@ refiling
 refillable
 refilled
 refilling
+refills
 refilmed
 refiltering
 refinable
@@ -59871,6 +59896,7 @@ relearn
 relearned
 relearnt
 releasable
+release
 releasers
 releasing
 relegated
@@ -68762,6 +68788,7 @@ steadfastnesses
 steadied
 steadies
 steadiest
+steadiness
 steadings
 steads
 steaks
@@ -70557,6 +70584,7 @@ sunshines
 sunshiny
 sunspot
 sunstones
+sunstrokes
 sunstruck
 suntan
 suntanned
@@ -71201,6 +71229,7 @@ swillers
 swim
 swimmier
 swimmily
+swimmy
 swimsuit
 swindle
 swindled
@@ -72500,6 +72529,7 @@ tenpenny
 tenpounder
 tenpounders
 tenrec
+tenrecs
 tens
 tense
 tenseness
@@ -72736,6 +72766,7 @@ tetragons
 tetragrammaton
 tetragrams
 tetrahedrally
+tetrahedron
 tetralogies
 tetralogy
 tetramer
@@ -74558,6 +74589,7 @@ treehopper
 treehouse
 treehouses
 treelawn
+treelawns
 treelike
 treen
 treenails
@@ -76080,6 +76112,7 @@ unburned
 unburnt
 unbusted
 unbusy
+unbuttered
 unbutton
 unbuttoned
 unbuttons
@@ -78712,6 +78745,7 @@ vespiaries
 vessel
 vesseled
 vessels
+vesta
 vestals
 vestas
 vested
@@ -79075,6 +79109,7 @@ visuals
 vita
 vitae
 vital
+vitalised
 vitalising
 vitalism
 vitalistic
