@@ -155,6 +155,7 @@ acalephs
 acantha
 acanthae
 acanthi
+acanthocephalan
 acanthoid
 acanthous
 acanthuses
@@ -10149,6 +10150,7 @@ cardigan
 cardigans
 cardinal
 cardinality
+cardinals
 cardinalship
 cardings
 cardio
@@ -10918,6 +10920,7 @@ ceorlish
 cepes
 cephalexin
 cephalically
+cephalins
 cephalizations
 cephalopod
 cephaloridine
@@ -12249,6 +12252,7 @@ citric
 citriculture
 citriculturist
 citriculturists
+citrinin
 citrinins
 citrins
 citronellals
@@ -12777,6 +12781,7 @@ coagulating
 coal
 coalas
 coalers
+coalescence
 coalescences
 coalesces
 coalescing
@@ -20470,6 +20475,7 @@ disyllabic
 disyoked
 disyoking
 dit
+dita
 ditas
 ditchdigger
 ditchdiggers
@@ -23592,6 +23598,7 @@ epigraphy
 epigynies
 epigynous
 epilate
+epilates
 epilating
 epilation
 epilator
@@ -25383,6 +25390,7 @@ fancywork
 fancyworks
 fandangos
 fandom
+fane
 fanes
 fanfare
 fanfaron
@@ -26587,6 +26595,7 @@ flashlamp
 flashlights
 flashover
 flashovers
+flashy
 flask
 flasket
 flasks
@@ -29030,6 +29039,7 @@ generalised
 generalises
 generalizable
 generalization
+generalizations
 generalize
 generalizer
 generalizes
@@ -29980,6 +29990,7 @@ goldsmith
 goldurns
 golem
 golf
+golfed
 golfer
 golfers
 golfings
@@ -31693,6 +31704,7 @@ harmonizations
 harmonize
 harmonized
 harmony
+harness
 harnessed
 harped
 harper
@@ -38644,6 +38656,7 @@ kola
 kolacky
 kolbasi
 kolbasis
+kolbassi
 kolhozy
 kolinski
 kolkhos
@@ -40726,6 +40739,7 @@ longitudes
 longitudinally
 longjumps
 longleaves
+longline
 longly
 longship
 longshoremen
@@ -41545,6 +41559,7 @@ maladroitness
 maladroits
 malady
 malaguenas
+malaise
 malamutes
 malanders
 malanga
@@ -42026,6 +42041,7 @@ marriage
 marriageable
 married
 marrieds
+marrons
 marrowfats
 marry
 marsala
@@ -42955,6 +42971,7 @@ metacenters
 metacercaria
 metacercarial
 metafiction
+metafictionist
 metafictionists
 metagalactic
 metagalaxies
@@ -44275,6 +44292,7 @@ mistouching
 mistrace
 mistraces
 mistrals
+mistranscribing
 mistranslate
 mistranslated
 mistranslates
@@ -45987,6 +46005,7 @@ narratologist
 narratology
 narrator
 narrow
+narrowcasting
 narrowed
 narrowest
 narrowly
@@ -46613,6 +46632,7 @@ niggardlinesses
 niggle
 niggler
 nigglers
+niggles
 nigglier
 niggling
 nigglings
@@ -53553,6 +53573,7 @@ pinafores
 pinang
 pinangs
 pinas
+pinasters
 pinata
 pinballed
 pinballs
@@ -53985,6 +54006,7 @@ plateau
 plateaus
 plateglass
 platelet
+platelike
 platemakers
 platemaking
 platen
@@ -54435,6 +54457,7 @@ policers
 polices
 policies
 policy
+policyholder
 policyholders
 polies
 poling
@@ -54772,6 +54795,7 @@ pops
 popsicles
 popsies
 popularise
+popularises
 popularities
 popularity
 popularization
@@ -57650,6 +57674,7 @@ quadrangles
 quadrans
 quadrant
 quadrantal
+quadrants
 quadraphonic
 quadrate
 quadrates
@@ -57862,6 +57887,7 @@ queuer
 queues
 quey
 quezales
+quibble
 quibblers
 quibbling
 quickener
@@ -62703,6 +62729,7 @@ runabouts
 runaround
 runarounds
 runback
+rundle
 rundles
 rundlet
 rundlets
@@ -63014,6 +63041,7 @@ saleable
 saleratus
 saleratuses
 sales
+salesclerk
 salesclerks
 salesmanships
 salesperson
@@ -66529,6 +66557,7 @@ skydive
 skydived
 skydives
 skydiving
+skyhook
 skying
 skyjacked
 skyjackers
@@ -69596,6 +69625,7 @@ stormbound
 stormed
 stormier
 stormiest
+storms
 story
 storyboarded
 storyboarding
@@ -70268,6 +70298,7 @@ subjugating
 subjugations
 subjugator
 subjunctive
+subjunctives
 subkingdoms
 sublanguage
 sublanguages
@@ -71753,6 +71784,7 @@ symptomatologic
 symptomless
 symptoms
 syn
+synaeresis
 synaestheses
 synaesthesia
 synaesthesias
@@ -72210,6 +72242,7 @@ tang
 tanged
 tangelo
 tangelos
+tangences
 tangency
 tangental
 tangential
@@ -77507,6 +77540,7 @@ unnatural
 unnaturalness
 unnecessarily
 unnervingly
+unnewsworthy
 unnilhexiums
 unnilpentium
 unnoticeable
@@ -79296,6 +79330,7 @@ vilifiers
 vill
 villa
 villadom
+villae
 villageries
 villagers
 villagery
