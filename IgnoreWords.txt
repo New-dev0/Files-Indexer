@@ -1706,6 +1706,7 @@ almes
 almightinesses
 almighty
 almond
+almoner
 almoners
 almost
 almsgiver
@@ -2262,6 +2263,7 @@ anarchist
 anarchy
 anarthrias
 anastigmats
+anastomose
 anastomoses
 anastomosis
 anastrophes
@@ -3450,6 +3452,7 @@ arborizing
 arbors
 arborvitae
 arbovirus
+arbuscle
 arbuscles
 arbute
 arbutean
@@ -6684,6 +6687,7 @@ bindingness
 bindingnesses
 bindles
 bindweed
+bindweeds
 bine
 biners
 binge
@@ -11417,6 +11421,7 @@ cherts
 cherub
 cherubic
 cheshires
+chessboard
 chessboards
 chesses
 chessman
@@ -12702,6 +12707,7 @@ coalesces
 coalescing
 coalfield
 coalhole
+coalholes
 coaliest
 coalified
 coalify
@@ -12887,6 +12893,7 @@ cocounseling
 cocounselled
 cocoyam
 cocoyams
+cocozelles
 cocreate
 cocreated
 cocreating
@@ -20811,6 +20818,7 @@ dottinesses
 dottle
 dottrels
 double
+doubled
 doubleheader
 doublenesses
 doubler
@@ -29979,6 +29987,7 @@ gowns
 gownsman
 goyim
 goyish
+grabber
 grabbing
 grabbled
 grabbler
@@ -31766,6 +31775,7 @@ heaps
 heapy
 hearers
 hearings
+hearken
 hearkeners
 hearkening
 hearsays
@@ -33183,6 +33193,7 @@ hostly
 hot
 hotbeds
 hotbloods
+hotbox
 hotboxes
 hotcake
 hotcakes
@@ -38173,6 +38184,7 @@ kinetoplast
 kinfolk
 kingbirds
 kingbolts
+kingdom
 kinged
 kingfish
 kingfisher
@@ -38589,6 +38601,7 @@ lacewing
 lacewings
 lacewood
 lachrymal
+lachrymose
 lachrymosely
 lacily
 lacings
@@ -43892,6 +43905,7 @@ misrepresents
 misroute
 misroutes
 misrule
+miss
 missable
 missaid
 missay
@@ -46132,6 +46146,7 @@ neurosurgery
 neurotic
 neurotically
 neurotomy
+neurotoxins
 neurotropic
 neurulae
 neurular
@@ -46579,6 +46594,7 @@ noncandidacy
 noncapitalist
 noncapitalists
 noncarcinogen
+noncarcinogenic
 noncareer
 noncarriers
 noncash
@@ -46907,6 +46923,7 @@ nonmusical
 nonmusician
 nonmusicians
 nonmusics
+nonmutant
 nonmyelinated
 nonnasal
 nonnationals
@@ -47929,6 +47946,7 @@ offings
 offish
 offishness
 offkey
+offline
 offload
 offloads
 offprinted
@@ -50291,6 +50309,7 @@ pacas
 pace
 paced
 pacemakings
+pachas
 pachinko
 pachisi
 pachouli
@@ -51610,6 +51629,7 @@ peddler
 peddlers
 peddles
 peddling
+pederastic
 pedestal
 pedestaling
 pedestalled
@@ -53003,6 +53023,7 @@ picnickers
 picnics
 picofarads
 picolin
+picoline
 picomole
 picornavirus
 picot
@@ -53053,6 +53074,7 @@ pieforts
 pieplant
 pier
 pierces
+piercingly
 pieridine
 pierogies
 pierrots
@@ -56446,6 +56468,7 @@ protosteles
 protostelic
 prototrophies
 prototrophy
+prototype
 prototypes
 prototypic
 prototypically
@@ -57066,6 +57089,7 @@ putrefied
 putrefier
 putrescence
 putrescent
+putrescible
 putrescines
 putridities
 putridity
@@ -59338,6 +59362,7 @@ refrigeration
 refront
 refroze
 reft
+refuel
 refuels
 refuge
 refugees
@@ -61320,6 +61345,7 @@ rhododendrons
 rhodolite
 rhodomontades
 rhodonite
+rhodopsin
 rhodora
 rhodoras
 rhombencephala
@@ -65672,6 +65698,7 @@ simas
 simazine
 simazines
 simile
+similes
 similitudes
 simioid
 simitar
@@ -68055,6 +68082,7 @@ sportswritings
 sporular
 sporulates
 sporulating
+sporulative
 spot
 spotless
 spotlessly
@@ -68973,6 +69001,7 @@ stockbrokings
 stocked
 stocker
 stockers
+stockholder
 stockholders
 stockiest
 stockily
@@ -71304,6 +71333,7 @@ syndesmoses
 syndesmosis
 syndetic
 syndic
+syndical
 syndicalism
 syndicalisms
 syndicalists
@@ -72242,6 +72272,7 @@ tempestuousness
 tempi
 templars
 template
+temple
 templed
 temples
 templet
@@ -73440,6 +73471,7 @@ tittivates
 tittle
 tittup
 tittuped
+tittuppy
 titty
 titularies
 titularly
@@ -73613,6 +73645,7 @@ tonettes
 toney
 tong
 tonga
+tonged
 tonging
 tongman
 tongmen
@@ -77559,6 +77592,7 @@ upcurling
 upcurls
 upcurve
 upcurves
+updart
 updarts
 update
 updater
@@ -81458,6 +81492,7 @@ zippiest
 zipping
 zircaloy
 zitherist
+zitherists
 zithers
 ziti
 zitis
