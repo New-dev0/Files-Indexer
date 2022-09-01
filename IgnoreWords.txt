@@ -725,6 +725,7 @@ admissibilities
 admission
 admits
 admittance
+admitted
 admittedly
 admitter
 admitters
@@ -3298,6 +3299,7 @@ apportionable
 appose
 apposed
 apposes
+apposing
 appositely
 apposition
 appositions
@@ -5196,6 +5198,7 @@ bandsaws
 bandshells
 bandsmen
 bandstands
+bandwagon
 bandwidth
 bandy
 bandying
@@ -6165,6 +6168,7 @@ benders
 bendier
 bends
 bendwise
+bendy
 benedict
 benedictions
 benefactions
@@ -9437,6 +9441,7 @@ calamaris
 calamary
 calami
 calamine
+calamint
 calamite
 calamondin
 calamondins
@@ -10352,6 +10357,7 @@ casita
 casitas
 cask
 casked
+casketing
 casking
 casky
 casque
@@ -16224,6 +16230,7 @@ cryptococcosis
 cryptogamic
 cryptogamous
 cryptogams
+cryptogenic
 cryptograms
 cryptographers
 cryptographic
@@ -18147,6 +18154,7 @@ democratization
 democratize
 democratized
 democratizers
+democrats
 demode
 demodulation
 demodulations
@@ -18611,6 +18619,7 @@ desiderate
 desiderated
 desiderating
 desiderative
+designated
 designates
 designation
 designators
@@ -22575,6 +22584,7 @@ empales
 empanel
 empaneled
 empaneling
+empanelled
 empanelling
 empanels
 empathetically
@@ -23750,6 +23760,7 @@ erudition
 erugo
 erugos
 erupted
+eruptible
 erupting
 eruption
 eruptive
@@ -25628,6 +25639,7 @@ felstone
 felstones
 felt
 felting
+felucca
 felworts
 female
 feme
@@ -32431,6 +32443,7 @@ hierarchical
 hierarchies
 hierarchize
 hieratic
+hieratically
 hierodule
 hieroglyphic
 hieroglyphical
@@ -33023,6 +33036,7 @@ hoofprint
 hoofprints
 hook
 hookah
+hooked
 hookeys
 hookier
 hooking
@@ -34138,6 +34152,7 @@ ikebana
 ikons
 ileac
 ileostomy
+ileum
 ileuses
 ilex
 ilia
@@ -38885,6 +38900,7 @@ langshans
 langsyne
 langsynes
 languages
+langue
 langues
 languet
 languette
@@ -39814,6 +39830,7 @@ ligers
 light
 lightbulb
 lightbulbs
+lighted
 lightener
 lighterage
 lightered
@@ -41636,6 +41653,7 @@ mapmaker
 mappers
 maps
 mara
+marabou
 marabout
 marabouts
 maraca
@@ -43415,6 +43433,7 @@ ministry
 minitrack
 minium
 minivans
+miniver
 minivers
 minks
 minnesinger
@@ -44407,6 +44426,7 @@ monogenic
 monogenically
 monogenies
 monogeny
+monogrammatic
 monogrammed
 monogrammers
 monograms
@@ -44882,6 +44902,7 @@ mourningly
 mourns
 mousakas
 mouse
+mousebirds
 mouselike
 mousepad
 mousers
@@ -46923,6 +46944,7 @@ nonmaterial
 nonmechanical
 nonmedical
 nonmeeting
+nonmeetings
 nonmembers
 nonmemberships
 nonmen
@@ -48083,6 +48105,7 @@ olive
 olivine
 olivines
 olivinic
+olla
 ologies
 ology
 ololiuqui
@@ -48158,6 +48181,7 @@ oncogenicities
 oncologic
 oncological
 oncologies
+oncology
 oncomings
 ondograms
 oneiric
@@ -49685,6 +49709,7 @@ overestimation
 overestimations
 overevaluations
 overexaggerate
+overexcite
 overexercising
 overexertion
 overexertions
@@ -49889,6 +49914,7 @@ overmuch
 overmuches
 overmuscled
 overnear
+overneat
 overnew
 overnight
 overnighter
@@ -49906,6 +49932,7 @@ overpack
 overpackage
 overpackages
 overpacked
+overpacks
 overpass
 overpassed
 overpasses
@@ -50129,6 +50156,7 @@ overtimed
 overtimes
 overtimid
 overtiming
+overtipped
 overtips
 overtire
 overtired
@@ -53261,6 +53289,7 @@ pinko
 pinkoes
 pinkroot
 pinks
+pinky
 pinna
 pinnace
 pinnacle
@@ -53600,6 +53629,7 @@ plasma
 plasmagels
 plasmagene
 plasmalemma
+plasmasols
 plasmatic
 plasmic
 plasminogens
@@ -57770,6 +57800,7 @@ radioisotopes
 radioisotopic
 radiolabel
 radiolabeled
+radiolabelled
 radiolarian
 radiolarians
 radiologically
@@ -58850,6 +58881,7 @@ recruited
 recruiter
 recruiting
 recruitments
+recruits
 recrystallizing
 rectal
 rectangle
@@ -60844,6 +60876,7 @@ resurged
 resurging
 resurrect
 resurrecting
+resurrectional
 resurrectionist
 resurrects
 resurveying
@@ -72184,6 +72217,7 @@ telefacsimiles
 telefax
 telefaxes
 telefilms
+telegony
 telegramming
 telegrapher
 telegraphically
@@ -80227,6 +80261,7 @@ whiz
 whizzed
 whizzer
 whizzers
+whizzes
 whizzing
 whizzy
 who
