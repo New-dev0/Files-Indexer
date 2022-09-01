@@ -1438,6 +1438,7 @@ alee
 alegars
 alehouse
 alehouses
+alembic
 alencons
 aleph
 alerted
@@ -4375,6 +4376,7 @@ audiometric
 audiometry
 audiotaped
 audiotapes
+auditable
 auditees
 audition
 auditoria
@@ -8829,6 +8831,7 @@ bulkinesses
 bulking
 bullace
 bullaces
+bullate
 bullbrier
 bullbriers
 bulldog
@@ -11797,6 +11800,7 @@ choosing
 chop
 chophouse
 choplogic
+chopped
 choppering
 choppier
 choppily
@@ -13462,6 +13466,7 @@ combatants
 combative
 combativeness
 combativenesses
+combatted
 combatting
 combed
 combes
@@ -14495,6 +14500,7 @@ continently
 contingence
 contingencies
 contingency
+contingently
 continual
 continually
 continuances
@@ -16244,6 +16250,7 @@ cryptorchid
 cryptorchidisms
 cryptosporidium
 cryptozoologies
+crypts
 crystal
 crystalize
 crystalizes
@@ -18517,6 +18524,7 @@ deriver
 derives
 derm
 derma
+dermabrasion
 dermas
 dermatogens
 dermatoglyphics
@@ -20474,6 +20482,7 @@ diwans
 dizening
 dizenment
 dizenments
+dizzied
 dizzies
 dizziest
 dizzily
@@ -21045,6 +21054,7 @@ drag
 dragee
 dragged
 draggiest
+draggingly
 draggle
 draggled
 draggy
@@ -32546,6 +32556,7 @@ hint
 hinter
 hinterland
 hinterlands
+hinters
 hinting
 hipbone
 hipbones
@@ -32919,6 +32930,7 @@ homologizing
 homologs
 homologue
 homolytic
+homomorphic
 homomorphism
 homonuclear
 homonymic
@@ -34741,6 +34753,7 @@ inaccurately
 inactions
 inactivation
 inactive
+inactivities
 inactivity
 inadequacies
 inadequacy
@@ -35828,6 +35841,7 @@ insnarers
 insnares
 insnaring
 insobrieties
+insobriety
 insociabilities
 insociability
 insociably
@@ -36260,6 +36274,7 @@ interplays
 interpleaded
 interpleaders
 interpleading
+interpled
 interpoint
 interpolating
 interpolator
@@ -38980,6 +38995,7 @@ larger
 larges
 largess
 largesses
+largest
 largo
 lari
 lariating
@@ -43964,6 +43980,7 @@ missilery
 missilry
 missing
 missiologies
+mission
 missionary
 missioner
 missioners
@@ -44616,6 +44633,7 @@ moored
 moorfowls
 moorhen
 mooriest
+moorings
 moory
 moos
 moosebird
@@ -45637,6 +45655,7 @@ named
 namelessness
 namely
 namers
+names
 nametag
 nametags
 naming
@@ -46934,6 +46953,7 @@ nonliving
 nonloving
 nonlyric
 nonmainstream
+nonmajor
 nonmalignant
 nonmalleable
 nonman
@@ -48415,6 +48435,7 @@ oraches
 oracularly
 oral
 oralists
+oralities
 orality
 orals
 orang
@@ -48622,6 +48643,7 @@ orrises
 orrisroot
 orthicon
 ortho
+orthocenter
 orthocenters
 orthoclase
 orthoclases
@@ -53168,6 +53190,7 @@ pigpens
 pigskin
 pigskins
 pigsney
+pigsneys
 pigsty
 pigtailed
 pigweeds
@@ -53274,6 +53297,7 @@ pingrasses
 pinguid
 pinheadedness
 pinheadednesses
+pinholes
 pinier
 piniest
 pinion
@@ -53461,6 +53485,7 @@ pithed
 pithier
 pithiest
 pithiness
+pithless
 pithy
 pitiable
 pitiableness
@@ -55515,6 +55540,7 @@ prerogatived
 presa
 presageful
 presages
+presbyope
 presbyter
 presbyterially
 presbyters
@@ -56323,6 +56349,7 @@ proposed
 proposers
 propositi
 proposition
+propositional
 propositioned
 propositus
 propound
@@ -65568,6 +65595,7 @@ sidesteppers
 sidestepping
 sidesteps
 sidestrokes
+sideswipe
 sideswiping
 sidetrack
 sidetracking
@@ -68250,6 +68278,7 @@ spumoni
 spumonis
 spumy
 spunk
+spunkier
 spunkies
 spunkily
 spunkiness
@@ -68946,6 +68975,7 @@ stickseeds
 stickum
 stickums
 stickups
+stickweeds
 stickwork
 sticky
 stictions
@@ -70725,6 +70755,7 @@ supersecrecy
 supersedeas
 superseders
 supersedes
+superseding
 supersell
 supersells
 supersessions
@@ -73436,6 +73467,7 @@ tinkliest
 tinkly
 tinner
 tinniest
+tinnily
 tinning
 tinplate
 tinseled
@@ -73843,6 +73875,7 @@ torcs
 tore
 toreador
 toreadors
+torero
 tores
 toreutic
 torics
@@ -76471,6 +76504,7 @@ underwriters
 undescended
 undeserving
 undesignated
+undesirability
 undesirable
 undesirably
 undesired
@@ -78803,6 +78837,7 @@ vigintillion
 vignerons
 vignetted
 vignetters
+vignetting
 vignettist
 vignettists
 vigorishes
