@@ -893,6 +893,7 @@ aerobiosis
 aerobraked
 aerobrakes
 aerodromes
+aeroduct
 aeroducts
 aerodynamically
 aerodynes
@@ -1909,6 +1910,7 @@ ambits
 amble
 ambles
 amblygonites
+amblyopic
 amboinas
 ambones
 ambos
@@ -9096,6 +9098,7 @@ burse
 burseed
 burseeds
 bursiform
+bursitis
 bursitises
 bursted
 bursting
@@ -10461,6 +10464,7 @@ castrate
 castrater
 castrates
 castrato
+castrators
 castratory
 castratos
 casual
@@ -10687,6 +10691,7 @@ causticities
 cauterants
 cauterization
 cautioners
+cautions
 cautious
 cavalcade
 cavaleros
@@ -14478,6 +14483,7 @@ construction
 constructional
 constructions
 constructively
+constructivism
 constructivisms
 construed
 construer
@@ -18421,6 +18427,7 @@ dentin
 dentinal
 dentine
 dentins
+dentistry
 dents
 dentural
 denture
@@ -18459,6 +18466,7 @@ department
 departmentally
 departments
 departs
+depend
 dependabilities
 dependability
 dependable
@@ -18897,6 +18905,7 @@ determinateness
 determinator
 determine
 determines
+determinisms
 determinist
 deterministic
 determinists
@@ -18939,6 +18948,7 @@ detract
 detractively
 detractor
 detractors
+detracts
 detraining
 detrainments
 detribalized
@@ -19030,6 +19040,7 @@ devotionally
 devour
 devourers
 devouring
+devoutnesses
 dew
 dewans
 dewars
@@ -23579,6 +23590,7 @@ epidemiology
 epidermic
 epidermoid
 epiderms
+epididymal
 epidote
 epifaunas
 epifocal
@@ -23592,6 +23604,7 @@ epiglottic
 epigone
 epigonism
 epigonisms
+epigram
 epigrammatic
 epigrammatist
 epigrammatists
@@ -24224,6 +24237,7 @@ eugeosyncline
 euglena
 euglenid
 euglenids
+euglenoid
 euglobulin
 eukaryote
 eukaryotes
@@ -25904,6 +25918,7 @@ ferrosilicons
 ferrotype
 ferruginous
 ferrule
+ferry
 ferryboat
 ferrying
 ferryman
@@ -26686,6 +26701,7 @@ flayers
 flays
 flea
 fleabags
+fleabane
 fleabanes
 fleahopper
 fleam
@@ -28164,6 +28180,7 @@ fugal
 fugato
 fugatos
 fuggier
+fugging
 fugio
 fugios
 fugitivenesses
@@ -32613,6 +32630,7 @@ hey
 heyday
 heydey
 heydeys
+hiatal
 hiatus
 hiatuses
 hibachi
@@ -32776,6 +32794,7 @@ hipsters
 hirable
 hircine
 hireable
+hirees
 hires
 hirples
 hirselled
@@ -32986,6 +33005,7 @@ hollowware
 holly
 hollyhock
 holmic
+holmiums
 holoblastic
 holocaust
 holocene
@@ -39134,6 +39154,7 @@ landsmen
 landward
 lang
 langbeinite
+langbeinites
 langlaufers
 langley
 langostinos
@@ -41522,6 +41543,7 @@ mainsheet
 mainsheets
 mainspring
 mainsprings
+mainstays
 mainstream
 mainstreaming
 maintainable
@@ -52007,6 +52029,7 @@ peculiars
 pecuniary
 pedagogically
 pedagogy
+pedaled
 pedaler
 pedalers
 pedalier
@@ -54684,6 +54707,7 @@ polysyndeton
 polysyndetons
 polytechnic
 polytheisms
+polytheistical
 polythene
 polythenes
 polytonalities
@@ -55447,6 +55471,7 @@ precisians
 precited
 precleaned
 precleans
+preclear
 preclearances
 preclears
 precluding
@@ -55545,6 +55570,7 @@ predomination
 predraft
 predried
 predrill
+predrilled
 predry
 predynastic
 preed
@@ -57240,6 +57266,7 @@ pujahs
 puke
 pukes
 pukka
+pul
 pula
 pulchritudinous
 pule
@@ -64862,6 +64889,7 @@ sensorial
 sensorimotor
 sensual
 sensualisms
+sensualists
 sensualities
 sensualizations
 sensualize
@@ -66066,6 +66094,7 @@ signalers
 signaling
 signalised
 signalises
+signalizations
 signalize
 signalized
 signalizing
@@ -68368,6 +68397,7 @@ spiraea
 spiraeas
 spiraled
 spirally
+spirals
 spirant
 spirants
 spire
@@ -68999,6 +69029,7 @@ stampeding
 stampless
 stamps
 stance
+stanch
 stanchers
 stanchioned
 standardbred
@@ -75741,6 +75772,7 @@ tumescence
 tumesces
 tumidity
 tummies
+tummler
 tumoral
 tumorigeneses
 tumorlike
@@ -76058,6 +76090,7 @@ tymbal
 tympani
 tympanic
 tympanist
+tympanists
 tympanites
 tympano
 tympanums
@@ -79521,6 +79554,7 @@ viscosities
 viscounts
 viscounty
 viscously
+viscousnesses
 viscus
 viseed
 viselike
@@ -80272,6 +80306,7 @@ waterlily
 waterlines
 waterlogging
 waterlogs
+waterloos
 watermark
 waterproofers
 waterproofness
