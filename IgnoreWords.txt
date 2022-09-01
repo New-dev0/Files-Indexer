@@ -668,6 +668,7 @@ adjective
 adjectively
 adjoin
 adjoins
+adjoint
 adjourned
 adjourning
 adjournment
@@ -3326,6 +3327,7 @@ appraisive
 appreciable
 appreciated
 appreciating
+appreciation
 appreciatory
 apprehended
 apprehends
@@ -5692,6 +5694,7 @@ beadles
 beadman
 beadroll
 beadrolls
+beadsmen
 beadwork
 beady
 beagles
@@ -9625,6 +9628,7 @@ calvarian
 calvarias
 calve
 calves
+calx
 calycle
 calyculi
 calypsoes
@@ -10231,6 +10235,7 @@ carman
 carminative
 carnages
 carnalities
+carnallite
 carnallites
 carnassial
 carnaubas
@@ -10238,6 +10243,7 @@ carnies
 carnified
 carnifies
 carnitines
+carnivals
 carnivories
 carnivorous
 carnivorousness
@@ -11798,6 +11804,7 @@ cholangiogram
 cholangiograms
 cholas
 cholecystectomy
+cholecystitises
 cholelithiasis
 cholent
 choler
@@ -16837,6 +16844,7 @@ cyclostome
 cyclostyled
 cyclostyling
 cyclothymia
+cyclothymic
 cyclotron
 cyder
 cyders
@@ -17495,6 +17503,7 @@ decedent
 deceitful
 deceitfully
 deceitfulness
+deceive
 deceives
 decelerate
 decelerated
@@ -18288,6 +18297,7 @@ denazify
 dendrimers
 dendritic
 dendrograms
+dendroid
 dendrological
 dendrologist
 dendrology
@@ -23698,6 +23708,7 @@ equiponderant
 equipped
 equipping
 equips
+equiseta
 equitabilities
 equitability
 equitable
@@ -24710,6 +24721,7 @@ expatiating
 expatriate
 expatriates
 expatriating
+expatriation
 expatriations
 expatriatism
 expatriatisms
@@ -25507,6 +25519,7 @@ fatigable
 fatigue
 fatigues
 fatless
+fatlike
 fatly
 fatness
 fatshedera
@@ -25994,6 +26007,7 @@ fictionality
 fictionalizing
 fictionally
 fictioneering
+fictioneerings
 fictioneers
 fictionist
 fictionization
@@ -30429,6 +30443,7 @@ greenkeeper
 greenlets
 greenlighting
 greenlit
+greenly
 greenmailer
 greenmails
 greenness
@@ -31344,6 +31359,7 @@ halutzim
 halva
 halvahs
 halve
+halving
 ham
 hamadryad
 hamadryads
@@ -31747,6 +31763,7 @@ haute
 havarti
 havdalah
 have
+havelock
 havelocks
 haven
 havened
@@ -32489,6 +32506,7 @@ hexapodies
 hexapods
 hexapody
 hexarchies
+hexastichs
 hexed
 hexer
 hexers
@@ -38163,6 +38181,7 @@ khaddar
 khadi
 khafs
 khalif
+khalifa
 khalifas
 khalifate
 khalifs
@@ -42698,6 +42717,7 @@ merchanted
 merchanting
 merchantman
 merchantmen
+mercifully
 mercilessly
 mercurating
 mercuration
@@ -46677,6 +46697,7 @@ noise
 noisemaker
 noisemaking
 noisemakings
+noises
 noisette
 noisier
 noisily
@@ -51060,6 +51081,7 @@ parachutes
 parachutists
 paracletes
 parader
+parades
 paradiddle
 paradigm
 paradigms
@@ -51444,6 +51466,7 @@ pashminas
 pasodoble
 pasquil
 pasquils
+pasquinaded
 pasquinades
 pass
 passacaglia
@@ -51714,6 +51737,7 @@ payback
 paycheck
 paychecks
 paydays
+payees
 payer
 paygrade
 payload
@@ -52124,6 +52148,7 @@ penults
 penumbra
 penumbral
 penumbras
+penuries
 penurious
 penuriously
 penuriousnesses
@@ -52798,6 +52823,7 @@ philhellenic
 philhellenism
 philhellenisms
 philhellenists
+philippics
 philistine
 philistinism
 philistinisms
@@ -53488,6 +53514,7 @@ pinny
 pinocle
 pinocytoses
 pinocytosis
+pinoles
 pinon
 pinot
 pinpoint
@@ -59618,6 +59645,7 @@ refront
 refroze
 reft
 refuel
+refueling
 refuels
 refuge
 refugees
@@ -60054,6 +60082,7 @@ relicenses
 relicensure
 relied
 reliefs
+relier
 reliers
 relies
 reliever
@@ -62223,6 +62252,7 @@ roset
 roshis
 rosiest
 rosily
+rosined
 rosiness
 rosinesses
 rosinols
@@ -62282,6 +62312,7 @@ rouges
 roughage
 roughages
 roughbacks
+roughcast
 roughcasting
 roughdried
 roughdries
@@ -64854,6 +64885,7 @@ servicemen
 services
 servicing
 serviette
+servilenesses
 servitudes
 servo
 servomechanism
@@ -69133,6 +69165,7 @@ stertors
 stet
 stethoscope
 stetsons
+stevedore
 stevedored
 stevedoring
 stewable
@@ -80788,6 +80821,7 @@ windsurfs
 windswept
 windthrow
 windups
+windwards
 windway
 windways
 windy
@@ -80844,6 +80878,7 @@ winterfeeds
 winterier
 wintering
 winterizations
+winterized
 winterkill
 winterly
 wintertide
