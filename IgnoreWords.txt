@@ -1040,6 +1040,7 @@ aforethought
 aforetime
 afraid
 afreets
+afrits
 aft
 after
 afterbirth
@@ -4656,6 +4657,7 @@ avianizes
 aviaries
 aviary
 aviate
+aviated
 aviates
 aviators
 aviatrix
@@ -6378,6 +6380,7 @@ bespatter
 bespattering
 bespoken
 bespouses
+bespousing
 besprinkled
 besteading
 bested
@@ -6396,6 +6399,7 @@ bestrewed
 bestrews
 bestrid
 bestrides
+bestriding
 bestrow
 bestrowed
 bestudded
@@ -11957,6 +11961,7 @@ chromoprotein
 chromoproteins
 chromospheres
 chromy
+chromyl
 chromyls
 chronaxy
 chronic
@@ -13753,6 +13758,7 @@ compellations
 compelled
 compendiousness
 compendium
+compensate
 compensated
 compensates
 compensating
@@ -14334,6 +14340,7 @@ conscionable
 conscious
 consciouses
 consciously
+consciousness
 consciousnesses
 conscripted
 conscriptions
@@ -14666,6 +14673,7 @@ convened
 convenes
 convenience
 conveniences
+conveniency
 convening
 convent
 conventicle
@@ -16362,6 +16370,7 @@ cubical
 cubically
 cubicities
 cubicity
+cubicles
 cubics
 cubiform
 cubing
@@ -20929,6 +20938,7 @@ doters
 dotes
 dotier
 dotingly
+dots
 dottels
 dottier
 dottily
@@ -26401,6 +26411,7 @@ fishmonger
 fishmongers
 fishpole
 fishpond
+fishponds
 fishtails
 fishway
 fishways
@@ -27430,6 +27441,7 @@ foreyards
 forfeit
 forfeited
 forfeiting
+forfeitures
 forfended
 forfends
 forgather
@@ -29024,6 +29036,7 @@ generalizes
 generalizing
 generally
 generals
+generate
 generation
 generational
 generatrices
@@ -33699,6 +33712,7 @@ hurtle
 hurtless
 hurtling
 hurts
+husband
 husbanders
 husbandries
 hush
@@ -33820,6 +33834,7 @@ hydrometeor
 hydrometer
 hydrometric
 hydromorphic
+hydropath
 hydropathies
 hydropaths
 hydroperoxide
@@ -35269,6 +35284,7 @@ indecision
 indecisiveness
 indeclinable
 indecomposable
+indecorous
 indecorousness
 indecorums
 indeed
@@ -42821,6 +42837,7 @@ meritoriousness
 merk
 merl
 merlin
+merlins
 merlon
 merls
 mermaid
@@ -43575,6 +43592,7 @@ mincy
 mind
 mindedness
 mindful
+mindfully
 mindfulnesses
 mindless
 minds
@@ -45352,6 +45370,7 @@ multienzyme
 multiethnics
 multifaceted
 multifactor
+multifarious
 multifid
 multifilament
 multiflash
@@ -48373,6 +48392,7 @@ ology
 ololiuqui
 ololiuquis
 oloroso
+olympiad
 olympiads
 omasa
 omasum
@@ -49182,6 +49202,7 @@ outcross
 outcrossed
 outcrosses
 outcrowd
+outcrowded
 outcrowed
 outcry
 outcrying
@@ -53438,6 +53459,7 @@ pigged
 piggery
 piggie
 pigginess
+piggins
 piggish
 pigheaded
 pigheadedly
@@ -57802,6 +57824,7 @@ queernesses
 queleas
 quellable
 quelled
+queller
 quellers
 quenched
 quencher
@@ -59066,6 +59089,7 @@ recompenses
 recompile
 recompiled
 recompositions
+recomputation
 recomputed
 recomputes
 recon
@@ -64307,6 +64331,7 @@ secantly
 secateur
 secateurs
 seccos
+seceding
 secern
 secerning
 secessionists
@@ -64683,6 +64708,7 @@ semiround
 semirounds
 semis
 semises
+semishrubby
 semiskilled
 semisolids
 semistiff
@@ -69898,6 +69924,7 @@ structuring
 strudel
 struggled
 struggles
+struma
 strumatic
 strummer
 strumpet
@@ -73771,6 +73798,7 @@ timbales
 timbals
 timber
 timberdoodles
+timberhead
 timberheads
 timberline
 timberlines
@@ -74105,6 +74133,7 @@ tomographies
 tomography
 tonal
 tonally
+tondo
 tone
 tonearms
 toneless
@@ -75515,6 +75544,7 @@ truthful
 truthfully
 truthfulnesses
 truthless
+trying
 tryout
 tryouts
 trypsins
@@ -77131,6 +77161,7 @@ unguarded
 unguardednesses
 unguenta
 unguents
+unguentum
 ungula
 ungulae
 ungulate
@@ -77191,6 +77222,7 @@ unhumorous
 unhung
 unhurried
 unhusked
+unhusking
 unhusks
 unhygienic
 unhyphenated
@@ -77417,6 +77449,7 @@ unmanly
 unmannish
 unmans
 unmarketable
+unmarried
 unmarrieds
 unmasculine
 unmask
@@ -77565,6 +77598,7 @@ unpronounceable
 unpropitious
 unprotected
 unproved
+unprovoked
 unpruned
 unpucker
 unpunished
@@ -80587,6 +80621,7 @@ whidding
 whiffed
 whiffer
 whiffers
+whiffet
 whiffler
 whifflers
 whiffles
