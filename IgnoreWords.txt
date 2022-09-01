@@ -1022,6 +1022,7 @@ affricating
 affrighted
 affront
 affronted
+affronting
 affronts
 affusions
 afghan
@@ -2180,6 +2181,7 @@ anachronism
 anachronistic
 anaclises
 anaclisis
+anacolutha
 anacoluthic
 anacoluthons
 anaconda
@@ -5746,6 +5748,7 @@ beatifically
 beatifications
 beatify
 beating
+beatings
 beatitude
 beau
 beauteousnesses
@@ -11788,6 +11791,7 @@ chocoholics
 chocolate
 chocolatier
 chocolatiers
+choice
 choicely
 choiceness
 choicenesses
@@ -13111,6 +13115,7 @@ coffret
 coffs
 cofinanced
 cofinancing
+cofound
 cofounded
 cofounder
 cofounders
@@ -14542,6 +14547,7 @@ contentments
 conterminously
 contes
 contest
+contestant
 contestants
 contester
 contesting
@@ -17843,6 +17849,7 @@ deferred
 deferrer
 defervescences
 defiance
+defiances
 defibrillate
 defibrillates
 defibrillation
@@ -18133,6 +18140,7 @@ deliriously
 deliriousnesses
 delirium
 deliriums
+delis
 deliver
 deliverable
 deliverance
@@ -19091,6 +19099,7 @@ diagonalization
 diagonalizes
 diagonally
 diagonals
+diagramed
 diagrammable
 diagrammatic
 diagrams
@@ -24298,6 +24307,7 @@ evangelistic
 evangelists
 evangelized
 evangelizing
+evangels
 evanish
 evanished
 evanishes
@@ -30356,6 +30366,7 @@ grassland
 grasslands
 grassless
 grassplots
+grassroot
 grassy
 grate
 grated
@@ -30714,6 +30725,7 @@ group
 groupable
 grouper
 groupie
+groupies
 grouping
 groupoids
 groups
@@ -40051,6 +40063,7 @@ lignans
 ligneous
 lignite
 lignitic
+lignocelluloses
 lignosulfonates
 ligroine
 ligulae
@@ -40617,6 +40630,7 @@ logicless
 logics
 logiest
 loginesses
+logins
 logistically
 logistician
 logisticians
@@ -42744,6 +42758,7 @@ merc
 mercantilism
 mercantilisms
 mercantilist
+mercantilists
 mercapto
 mercaptopurine
 mercenaries
@@ -43576,6 +43591,7 @@ mineralizations
 mineralize
 mineralizing
 mineralogic
+mineralogical
 mineralogically
 minerals
 miners
@@ -45364,6 +45380,7 @@ multimember
 multimetallic
 multimillion
 multimolecular
+multinomial
 multinomials
 multinuclear
 multiorgasmic
@@ -46813,6 +46830,7 @@ nonaffluent
 nonages
 nonaggressions
 nonagricultural
+nonalignment
 nonambiguous
 nonanimal
 nonanswer
@@ -47925,6 +47943,7 @@ obnubilates
 obnubilating
 obnubilations
 oboe
+oboist
 obol
 obole
 obovate
@@ -52072,6 +52091,7 @@ penal
 penalise
 penalised
 penalizations
+penalize
 penalized
 penalizes
 penalizing
@@ -57968,6 +57988,7 @@ rabbins
 rabbit
 rabbitbrush
 rabbiting
+rabbitries
 rabbits
 rabbled
 rabblement
@@ -59391,6 +59412,7 @@ redrives
 redroot
 redry
 reds
+redshank
 redshift
 redshifted
 redshirt
@@ -61615,6 +61637,7 @@ reweighed
 reweighing
 reweld
 rewelded
+rewelds
 rewets
 rewetted
 rewiden
@@ -63313,6 +63336,7 @@ sardonicisms
 sardonyx
 sardonyxes
 sards
+saree
 sargo
 sargos
 sari
@@ -63765,6 +63789,7 @@ schmoes
 schmoos
 schmoose
 schmooses
+schmoozed
 schmoozer
 schmoozers
 schmos
@@ -66642,6 +66667,7 @@ sleet
 sleetier
 sleeting
 sleets
+sleeve
 sleeved
 sleighed
 sleight
@@ -70639,6 +70665,7 @@ suffrages
 suffragist
 suffuse
 suffuses
+suffusing
 suffusion
 sugarberries
 sugarbush
@@ -70911,6 +70938,7 @@ supercity
 supercivilized
 superclass
 superclasses
+supercluster
 superclusters
 supercoil
 supercoiled
@@ -71284,6 +71312,7 @@ surrejoinder
 surrendered
 surreptitious
 surrey
+surrogate
 surrogated
 surrounding
 surrounds
@@ -72260,6 +72289,7 @@ tardive
 tardy
 tardyon
 tared
+targes
 targetable
 targeting
 tariff
@@ -73358,6 +73388,7 @@ thionine
 thionines
 thiophene
 thioridazine
+thiosulfates
 thiotepas
 thiouracil
 thiouracils
@@ -74110,6 +74141,7 @@ tonnish
 tonometer
 tonometers
 tonoplast
+tonoplasts
 tonsil
 tonsils
 tonsured
@@ -78995,6 +79027,7 @@ vernalization
 vernalizations
 vernalizes
 vernalizing
+vernally
 vernicles
 vernier
 vernissage
@@ -79241,6 +79274,7 @@ villanelle
 villas
 villatic
 villeins
+villenages
 villose
 villosity
 villous
@@ -81201,6 +81235,7 @@ woodenware
 woodgrains
 woodhen
 woodie
+woodier
 woodies
 woodiest
 woodiness
