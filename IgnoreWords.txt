@@ -2780,6 +2780,7 @@ antifat
 antifatigue
 antifeminism
 antifilibuster
+antifoaming
 antifog
 antiforeclosure
 antiforeigner
@@ -3113,6 +3114,7 @@ aphthae
 aphyllous
 apiaceous
 apian
+apiary
 apically
 apiculate
 apiculi
@@ -7297,6 +7299,7 @@ bloodsucker
 bloodthirstily
 bloodworts
 bloody
+blooie
 bloomers
 bloomier
 bloomiest
@@ -10639,6 +10642,7 @@ cavalierly
 cavaliers
 cavalletti
 cavally
+cavalries
 cavalry
 cavalrymen
 cavatina
@@ -10815,6 +10819,7 @@ centers
 centesimal
 centesimo
 centesimos
+centiares
 centigrade
 centigram
 centile
@@ -13770,6 +13775,7 @@ composted
 composters
 composure
 composures
+compound
 compounded
 comprador
 compradore
@@ -15254,6 +15260,7 @@ counseled
 counselee
 counselings
 counselled
+counselling
 counsellings
 counsellors
 counselorship
@@ -22251,6 +22258,7 @@ electronics
 electrophile
 electrophorese
 electrophoreses
+electrophorus
 electroplate
 electroplated
 electroplates
@@ -25497,6 +25505,7 @@ fawns
 fawny
 faxes
 faxing
+fay
 fayalite
 faying
 fays
@@ -25893,6 +25902,7 @@ fibrillar
 fibrillated
 fibrillations
 fibrin
+fibrinoid
 fibrinopeptides
 fibroblastic
 fibrocystic
@@ -25997,6 +26007,7 @@ fil
 filagree
 filagrees
 filamentous
+filaments
 filarees
 filaria
 filariae
@@ -28075,6 +28086,7 @@ functionalistic
 functionalities
 functionally
 functionaries
+functioning
 functionless
 functor
 fundament
@@ -30896,6 +30908,7 @@ gushier
 gushiness
 gushingly
 gusset
+gussied
 gustable
 gustables
 gusted
@@ -31692,6 +31705,7 @@ hawsepipes
 hawser
 hawsers
 hay
+hayed
 hayers
 hayfield
 hayfields
@@ -43419,6 +43433,7 @@ minilab
 minimalism
 minimalist
 minimalists
+minimally
 minimals
 minimax
 minimaxes
@@ -43600,6 +43615,7 @@ misbiassing
 misbill
 misbilled
 misbilling
+misbills
 misbind
 misbinding
 misbinds
@@ -46047,6 +46063,7 @@ neoplasia
 neoplastic
 neoplasticism
 neoplasticisms
+neoplasties
 neoprene
 neoprenes
 neorealism
@@ -46481,6 +46498,7 @@ nitrofuran
 nitrogen
 nitroglycerine
 nitroglycerines
+nitroglycerins
 nitromethanes
 nitrosamine
 nitrosyls
@@ -47627,6 +47645,7 @@ obelisks
 obelism
 obelisms
 obelized
+obento
 obentos
 obese
 obeseness
@@ -48931,6 +48950,7 @@ outcrawling
 outcrawls
 outcries
 outcrop
+outcroppings
 outcross
 outcrossed
 outcrosses
@@ -51733,6 +51753,7 @@ pedogenic
 pedological
 pedologist
 pedologists
+pedophiles
 pedophilias
 peds
 peduncled
@@ -52724,6 +52745,7 @@ phonier
 phonies
 phoniness
 phonocardiogram
+phonogramic
 phonogrammic
 phonograph
 phonographic
@@ -61250,6 +61272,7 @@ reviewers
 reviewing
 revile
 revilement
+reviles
 reviling
 reviolating
 revisable
@@ -63001,6 +63024,7 @@ sarcology
 sarcomatosis
 sarcomatous
 sarcomere
+sarcophagus
 sarcophaguses
 sarcoplasm
 sarcous
@@ -63633,6 +63657,7 @@ scoters
 scotia
 scotomas
 scotopia
+scotopic
 scotties
 scour
 scoured
@@ -65599,6 +65624,7 @@ sideswipe
 sideswiping
 sidetrack
 sidetracking
+sidewall
 sidewalls
 sidewinders
 sidled
@@ -69632,6 +69658,7 @@ stupendousness
 stupes
 stupidities
 stupidity
+stupidnesses
 stupor
 sturdier
 sturdies
@@ -71857,6 +71884,7 @@ tankships
 tannable
 tannages
 tanned
+tanneries
 tanners
 tannest
 tannin
@@ -72203,6 +72231,7 @@ teenier
 teentsier
 teenyboppers
 tees
+teeter
 teeterboards
 teetering
 teethe
@@ -74010,6 +74039,7 @@ tourers
 tourism
 tourisms
 tourmaline
+tournament
 tourney
 tourneyed
 tourneying
@@ -74402,6 +74432,7 @@ transuded
 transudes
 transuding
 transuranium
+transvaluated
 transvaluating
 transvaluations
 transvalue
@@ -76988,6 +77019,7 @@ unlink
 unlinking
 unlisted
 unlistenable
+unlive
 unlived
 unlively
 unloader
@@ -80293,6 +80325,7 @@ whittles
 whittret
 whity
 whiz
+whizzbang
 whizzed
 whizzer
 whizzers
@@ -80783,6 +80816,7 @@ womenfolk
 womenfolks
 womenkind
 wommera
+wonderer
 wonderful
 wonderfully
 wonderfulness
@@ -81212,6 +81246,7 @@ yald
 yam
 yamen
 yammer
+yammered
 yammerers
 yammering
 yammers
