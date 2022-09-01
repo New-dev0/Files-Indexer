@@ -1339,6 +1339,7 @@ airward
 airways
 airwomen
 airworthinesses
+ais
 aisles
 aitches
 ajee
@@ -4991,6 +4992,7 @@ badmouths
 baffies
 baffing
 bafflegab
+bafflegabs
 bafflement
 bafflements
 baffler
@@ -5828,6 +5830,7 @@ bedights
 bedimple
 bedims
 bedirtied
+bedizening
 bedizenments
 bedizens
 bedlamite
@@ -6521,6 +6524,7 @@ biconvex
 bicorne
 bicornes
 bicrons
+biculturalisms
 bicuspid
 bicycle
 bicycles
@@ -12292,6 +12296,7 @@ clapping
 clapt
 claptraps
 claque
+claquer
 clarences
 claries
 clarification
@@ -13041,6 +13046,7 @@ coffled
 coffret
 coffs
 cofinanced
+cofinancing
 cofounded
 cofounder
 cofounders
@@ -13728,6 +13734,7 @@ compliancies
 compliant
 complicacy
 complicated
+complicating
 complice
 compliers
 complies
@@ -17453,6 +17460,7 @@ decentred
 decentres
 decentring
 deceptional
+deceptions
 deceptiveness
 decerebrated
 decerned
@@ -24588,6 +24596,7 @@ exospores
 exostoses
 exostosis
 exoterically
+exothermal
 exothermicities
 exothermicity
 exoticism
@@ -24890,6 +24899,7 @@ extrasensory
 extrasystoles
 extravagance
 extravagancy
+extravagant
 extravagates
 extravasate
 extravasated
@@ -25726,6 +25736,7 @@ ferromanganeses
 ferrosilicons
 ferrotype
 ferruginous
+ferrule
 ferryboat
 ferrying
 ferryman
@@ -27776,6 +27787,7 @@ frisbee
 frisbees
 frise
 frisees
+frisette
 friseur
 frisked
 friskers
@@ -28621,6 +28633,7 @@ gaslit
 gasogene
 gasogenes
 gasohol
+gasohols
 gasometer
 gasometers
 gasp
@@ -32788,6 +32801,7 @@ home
 homebodies
 homebody
 homeboys
+homebrew
 homebrews
 homebuilt
 homecomers
@@ -34628,6 +34642,7 @@ impregnableness
 impregnant
 impregnated
 impregnates
+impregnating
 impregnators
 impregning
 impregns
@@ -34865,6 +34880,7 @@ incisal
 incise
 incised
 incises
+incising
 incisions
 incisivenesses
 incisory
@@ -37326,6 +37342,7 @@ jib
 jibbed
 jibber
 jibbers
+jibe
 jibes
 jibingly
 jicamas
@@ -39792,6 +39809,7 @@ ligature
 ligatured
 ligatures
 ligaturing
+liger
 ligers
 light
 lightbulb
@@ -40418,6 +40436,7 @@ loins
 lolled
 loller
 lollers
+lollies
 lolling
 lollingly
 lollipops
@@ -40892,6 +40911,7 @@ luxes
 luxuriance
 luxuriances
 luxuriate
+lwei
 lyard
 lyart
 lyase
@@ -44385,6 +44405,7 @@ monogamists
 monogeneans
 monogenic
 monogenically
+monogenies
 monogeny
 monogrammed
 monogrammers
@@ -49442,6 +49463,7 @@ overactivity
 overacts
 overadjustment
 overadjustments
+overadvertise
 overadvertised
 overages
 overanalyzed
@@ -55944,6 +55966,7 @@ procrastinating
 procrastinator
 procreating
 procreations
+procreative
 procreator
 procrustean
 procryptic
@@ -57955,6 +57978,7 @@ randan
 randiness
 randinesses
 randomization
+randomizations
 randomizer
 randomnesses
 range
@@ -61621,6 +61645,7 @@ ripsnorter
 ripsnorters
 ripsnorting
 riptide
+riptides
 riser
 risers
 risibilities
@@ -61778,6 +61803,7 @@ rodents
 rodeoing
 rodeos
 rodes
+rodman
 rodsmen
 roe
 roebuck
@@ -61875,6 +61901,7 @@ rookies
 rookiest
 room
 roomed
+roomette
 roomful
 roomfuls
 roomie
@@ -63584,6 +63611,7 @@ scraichs
 scraighed
 scraighing
 scramble
+scrambler
 scrambles
 scramjets
 scrams
@@ -65804,6 +65832,7 @@ sintered
 sinters
 sinuate
 sinuates
+sinuating
 sinuations
 sinuous
 sinuously
@@ -68598,6 +68627,7 @@ statewide
 statically
 statices
 staticky
+statics
 stating
 station
 stational
@@ -69564,6 +69594,7 @@ stylists
 stylites
 stylitic
 stylitism
+stylization
 stylized
 stylizer
 stylizers
@@ -70698,6 +70729,7 @@ superstrike
 superstructural
 superstructure
 superstuds
+supersubtle
 supersurgeon
 supersystem
 supertankers
@@ -73079,6 +73111,7 @@ thrummiest
 thrumming
 thrummy
 thruputs
+thrush
 thrushes
 thrust
 thrusted
@@ -76998,6 +77031,7 @@ unostentatious
 unowned
 unpack
 unpackers
+unpaid
 unpainful
 unpaired
 unpalatability
@@ -79971,6 +80005,7 @@ wetting
 wettish
 wha
 whacks
+whale
 whaleback
 whaleboats
 whaleman
