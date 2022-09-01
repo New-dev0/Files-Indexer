@@ -3597,6 +3597,7 @@ argons
 argosies
 argosy
 argot
+argots
 arguer
 arguers
 argufied
@@ -3725,6 +3726,7 @@ arriviste
 arrivistes
 arroba
 arrogance
+arrogantly
 arrogate
 arrogated
 arrogating
@@ -9690,6 +9692,7 @@ camphines
 camphire
 camphires
 camphol
+camphor
 campier
 campiest
 campily
@@ -10571,6 +10574,7 @@ cathedrals
 cathedras
 cathepsin
 catheptic
+catheterization
 catheterized
 cathexes
 cathodally
@@ -14342,6 +14346,7 @@ conservers
 consider
 considerably
 considerate
+consideration
 considers
 consign
 consignation
@@ -19272,6 +19277,7 @@ diemaker
 dienes
 dieoff
 dieretic
+dieseled
 dieseling
 dieselizing
 diesels
@@ -23612,6 +23618,7 @@ epitomical
 epitomize
 epitomizing
 epitopes
+epizoic
 epizoism
 epizoisms
 epizoites
@@ -27671,6 +27678,7 @@ francs
 frangibilities
 frangible
 frangipane
+frangipanni
 frankable
 franker
 frankers
@@ -32168,6 +32176,7 @@ hemimorphisms
 hemiola
 hemiolas
 hemiolia
+hemiplegia
 hemiplegic
 hemiplegics
 hemipteran
@@ -32461,6 +32470,7 @@ hewing
 hews
 hex
 hexachords
+hexad
 hexade
 hexades
 hexadic
@@ -35115,6 +35125,7 @@ increate
 incredibilities
 incredibly
 incredulously
+incrementally
 increscent
 incriminate
 incrimination
@@ -35695,6 +35706,7 @@ inhuming
 inia
 inimically
 inimitable
+inimitableness
 inimitably
 inion
 iniquities
@@ -36272,6 +36284,7 @@ interlineations
 interlined
 interliner
 interlinked
+interlinks
 interloans
 interlock
 interlocked
@@ -36309,6 +36322,7 @@ intermingles
 intermission
 intermitotic
 intermits
+intermittency
 intermixed
 intermixes
 intermixing
@@ -36923,12 +36937,14 @@ irrevocably
 irridenta
 irrigable
 irrigably
+irrigate
 irrigated
 irrigation
 irrigators
 irriguous
 irritability
 irritableness
+irritancies
 irritant
 irritants
 irritate
@@ -40155,6 +40171,7 @@ lionhearted
 lionisers
 lionising
 lionize
+lionizes
 lions
 lip
 lipa
@@ -40800,6 +40817,7 @@ lowermost
 lowers
 lowery
 lowes
+lowlander
 lowlanders
 lowlands
 lowlier
@@ -43107,6 +43125,7 @@ micrograph
 micrographed
 micrographic
 micrographing
+microgrooves
 microhabitats
 microhms
 microimages
@@ -47517,6 +47536,7 @@ nth
 nuance
 nuanced
 nuances
+nub
 nubbier
 nubbiest
 nubbin
@@ -47545,6 +47565,7 @@ nucleoles
 nucleonics
 nucleons
 nucleophile
+nucleoplasmic
 nucleosides
 nucleosomes
 nucleosynthesis
@@ -48550,6 +48571,7 @@ opts
 opulences
 opulencies
 opulency
+opus
 opuscula
 opusculum
 opuses
@@ -50838,6 +50860,7 @@ pampean
 pampeans
 pampered
 pamperer
+pamperers
 pamphlet
 pamphleteer
 pamphleteered
@@ -54312,6 +54335,7 @@ polka
 polkas
 pollack
 pollard
+pollarding
 polled
 pollees
 pollen
@@ -58206,6 +58230,7 @@ ransomers
 ransoms
 rant
 ranted
+ranters
 rants
 ranulas
 ranunculuses
@@ -59964,6 +59989,7 @@ relabelled
 relabelling
 relacquer
 relacquered
+relanding
 relandscaped
 relapser
 relapsers
@@ -63037,6 +63063,7 @@ sandpapery
 sandpeeps
 sandpit
 sands
+sandshoe
 sandsoap
 sandstones
 sandstorm
@@ -65913,6 +65940,7 @@ sill
 sillers
 sillibub
 sillibubs
+sillimanite
 silliness
 silly
 siloing
@@ -69102,6 +69130,7 @@ steroidal
 steroidogenic
 sterols
 stertors
+stet
 stethoscope
 stetsons
 stevedored
@@ -71309,6 +71338,7 @@ sweeping
 sweepingness
 sweepings
 sweepstakes
+sweepy
 sweetbriar
 sweetbrier
 sweeten
@@ -71361,6 +71391,7 @@ swindled
 swindles
 swindling
 swineherd
+swineherds
 swinepox
 swing
 swingeing
@@ -72222,6 +72253,7 @@ tautnesses
 tautologically
 tautologies
 tautologously
+tautomer
 tautonym
 tavern
 taverna
@@ -72628,6 +72660,7 @@ tendril
 tendrilled
 tendrilous
 tendu
+tenebrific
 tenebrionid
 tenebrionids
 tenebrious
@@ -72682,6 +72715,7 @@ tenterhooks
 tenters
 tenthly
 tenths
+tentiest
 tentless
 tentlike
 tentmaker
@@ -79373,6 +79407,7 @@ vodoun
 vodous
 voe
 vogie
+vogued
 vogueings
 voguer
 voguers
