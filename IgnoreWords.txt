@@ -687,6 +687,7 @@ adjuration
 adjurations
 adjuratory
 adjuror
+adjurors
 adjustable
 adjusted
 adjustive
@@ -1140,6 +1141,7 @@ aggregatenesses
 aggregating
 aggregational
 aggregations
+aggregative
 aggress
 aggressed
 aggressions
@@ -5251,6 +5253,7 @@ bannerette
 bannerettes
 bannering
 bannerols
+bannet
 bannets
 bannister
 bannock
@@ -6526,6 +6529,7 @@ bicentenary
 biceps
 bices
 bichromated
+bichromates
 bicipital
 bickered
 bickering
@@ -9902,6 +9906,7 @@ capacitor
 capacity
 caparisons
 capelan
+capelins
 capercaillies
 capercailzie
 capercailzies
@@ -12968,6 +12973,7 @@ codfish
 codgers
 codices
 codicology
+codifiability
 codified
 codifiers
 codifying
@@ -17663,6 +17669,7 @@ decried
 decries
 decriminalized
 decriminalizing
+decrowned
 decrying
 decrypt
 decryptions
@@ -17673,6 +17680,7 @@ decurion
 decurions
 decussated
 decussates
+decussations
 dedicated
 dedicates
 deduced
@@ -23644,6 +23652,7 @@ equilibratory
 equilibria
 equilibrist
 equilibristic
+equilibrists
 equilibrium
 equilibriums
 equines
@@ -26501,6 +26510,7 @@ flatiron
 flatlands
 flatline
 flatliners
+flatlines
 flatlining
 flatlong
 flatmate
@@ -27759,6 +27769,7 @@ frenzied
 frenzies
 frenzy
 frenzying
+frequence
 frequences
 frequentation
 frequentative
@@ -30078,6 +30089,7 @@ gracioso
 graciousness
 grad
 gradate
+gradating
 gradation
 graded
 gradeless
@@ -31455,6 +31467,7 @@ hapkido
 hapless
 haplessly
 haplite
+haploidic
 haploids
 haploidy
 haplology
@@ -33146,6 +33159,7 @@ horas
 hordein
 hording
 horehound
+horehounds
 horizonal
 horizontal
 horizontalities
@@ -35837,6 +35851,7 @@ insensible
 insensibly
 insensitive
 insensitivities
+insensitivity
 insentience
 insentiences
 insentient
@@ -42007,6 +42022,7 @@ match
 matchboard
 matchbook
 matchboxes
+matched
 matching
 matchless
 matchlessly
@@ -42670,6 +42686,7 @@ merman
 meromorphic
 meropias
 meropic
+merozoite
 merozoites
 merrier
 merriest
@@ -43545,6 +43562,7 @@ mirage
 mirages
 mirandize
 mire
+mired
 mirepoix
 mires
 mirex
@@ -43911,6 +43929,7 @@ mismarking
 mismarriage
 mismarriages
 mismatched
+mismatches
 mismate
 mismates
 mismating
@@ -47655,6 +47674,7 @@ nystagmic
 nystagmus
 nystagmuses
 oafish
+oafishnesses
 oafs
 oak
 oaken
@@ -50268,6 +50288,7 @@ overurged
 overurges
 overuse
 overusing
+overutilize
 overutilizing
 overvaluations
 overvoltage
@@ -54443,6 +54464,7 @@ pommel
 pommelled
 pommels
 pommy
+pomo
 pomologies
 pomologist
 pomologists
@@ -54607,6 +54629,7 @@ portcullis
 portend
 portending
 portent
+portents
 porterage
 portered
 porteress
@@ -56792,6 +56815,7 @@ psychic
 psychical
 psychics
 psyching
+psychoacoustic
 psychoanalyses
 psychoanalyst
 psychoanalyzed
@@ -62334,6 +62358,7 @@ ruddled
 ruddlemen
 ruddles
 ruddock
+ruddocks
 rudds
 ruddy
 rudeness
@@ -64392,6 +64417,7 @@ semimat
 semimatt
 semimatte
 semimetallic
+semimetals
 semimild
 semimoist
 semimonthlies
@@ -64993,6 +65019,7 @@ shantis
 shantung
 shantytown
 shantytowns
+shapeable
 shapeliness
 shapely
 shapeup
@@ -70045,6 +70072,7 @@ subminiature
 subminimal
 subminister
 subministers
+submissions
 submit
 submits
 submittal
@@ -70432,6 +70460,7 @@ suicided
 suicides
 suing
 suit
+suitableness
 suitably
 suitcases
 suite
@@ -70920,6 +70949,7 @@ supplementary
 supplementation
 supplemented
 supplenesses
+supples
 supplest
 suppletion
 suppletions
@@ -71033,6 +71063,7 @@ surprints
 surprisal
 surprised
 surprisingly
+surprize
 surprizes
 surprizing
 surra
@@ -73858,6 +73889,7 @@ tonnish
 tonometer
 tonometers
 tonoplast
+tonsil
 tonsils
 tonsured
 tonsuring
@@ -74169,6 +74201,7 @@ toxicologies
 toxicologist
 toxicologists
 toxicology
+toxicosis
 toxics
 toxigenic
 toxin
@@ -74958,6 +74991,7 @@ trireme
 triremes
 trisaccharide
 trisaccharides
+trisected
 trisector
 trisemic
 trishaw
@@ -77615,6 +77649,7 @@ unthinkably
 unthinking
 unthreading
 unthreads
+unthreatening
 unthroned
 unthrones
 untidied
