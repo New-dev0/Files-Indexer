@@ -2957,6 +2957,7 @@ antiquates
 antiquations
 antique
 antiquely
+antiques
 antiquing
 antiquities
 antiquity
@@ -4948,6 +4949,7 @@ backhanders
 backhaul
 backhauls
 backhoeing
+backhoes
 backing
 backland
 backlands
@@ -5429,6 +5431,7 @@ barnacles
 barning
 barnlike
 barnstorm
+barnstormed
 barnstormer
 barnstorming
 barny
@@ -6295,6 +6298,7 @@ bentwood
 benumbed
 benumbing
 benumbs
+benzal
 benzaldehydes
 benzene
 benzenes
@@ -9023,6 +9027,7 @@ bumptiousness
 bumptiousnesses
 bumpy
 bun
+bunches
 bunchily
 bunching
 buncoing
@@ -10783,6 +10788,7 @@ cavalletti
 cavally
 cavalries
 cavalry
+cavalryman
 cavalrymen
 cavatina
 cavatine
@@ -12000,6 +12006,7 @@ chorographer
 chorographers
 chorographic
 chorography
+choroid
 choroidal
 choroids
 chortle
@@ -13948,6 +13955,7 @@ compos
 composedly
 composednesses
 composing
+compositionally
 compositors
 compost
 composted
@@ -14068,6 +14076,7 @@ conceptuality
 conceptualize
 conceptualized
 conceptualizer
+conceptualizers
 conceptually
 conceptus
 concerning
@@ -16972,6 +16981,7 @@ cycleries
 cyclers
 cycles
 cycleways
+cyclicalities
 cyclicality
 cyclically
 cyclicly
@@ -21856,6 +21866,7 @@ dusk
 dusked
 dusking
 dusks
+dustbin
 dustcover
 dusted
 duster
@@ -24554,6 +24565,7 @@ everydayness
 everydaynesses
 everymen
 everyone
+everyway
 everywhere
 everywoman
 evict
@@ -28204,6 +28216,7 @@ frized
 frizers
 frizes
 frizettes
+frizing
 frizz
 frizzed
 frizzies
@@ -28587,6 +28600,7 @@ fusillades
 fusillading
 fusilli
 fusillis
+fusional
 fusionism
 fusionisms
 fusionists
@@ -31638,6 +31652,7 @@ hallelujah
 halliards
 hallmark
 hallmarked
+hallmarks
 halloa
 halloas
 halloes
@@ -32578,6 +32593,7 @@ hemstitching
 henbit
 henbits
 henchman
+hencoop
 hencoops
 hendiadyses
 henge
@@ -34074,6 +34090,7 @@ hydrazines
 hydric
 hydrid
 hydride
+hydrids
 hydrilla
 hydrillas
 hydrobiologies
@@ -35142,6 +35159,7 @@ impregned
 impregning
 impregns
 impresario
+impresarios
 imprese
 impressed
 impresses
@@ -35547,6 +35565,7 @@ incurables
 incurably
 incuriosity
 incurious
+incuriousness
 incurrence
 incurs
 incursion
@@ -42272,6 +42291,7 @@ marbling
 marbly
 marcasites
 march
+marchen
 marcher
 marches
 marchese
@@ -46590,6 +46610,7 @@ needling
 needy
 neem
 neg
+negater
 negates
 negational
 negatived
@@ -48421,6 +48442,7 @@ obsessional
 obsessions
 obsessive
 obsessively
+obsessor
 obsessors
 obsidian
 obsolesce
@@ -50055,6 +50077,7 @@ outsprints
 outstand
 outstanding
 outstare
+outstaring
 outstart
 outstated
 outstates
@@ -52010,6 +52033,7 @@ pashadom
 pashadoms
 pashalik
 pashaliks
+pashas
 pashes
 pashminas
 pasodoble
@@ -53615,6 +53639,7 @@ photophases
 photophobic
 photophore
 photophores
+photopia
 photoplay
 photoplays
 photopolymers
@@ -54204,6 +54229,7 @@ piso
 pisolites
 pisolith
 pisoliths
+pisolitic
 pisser
 pissing
 pistareen
@@ -55532,6 +55558,7 @@ postulational
 postulator
 postulators
 posturers
+postures
 posturing
 postvaccinal
 postvaccination
@@ -62534,6 +62561,7 @@ ringleted
 ringlets
 ringlike
 ringmaster
+ringmasters
 ringnecks
 ringside
 ringtail
@@ -64778,6 +64806,7 @@ scute
 scutella
 scutellate
 scutellated
+scutellum
 scutiform
 scuts
 scuttering
@@ -68451,6 +68480,7 @@ southernnesses
 southernwood
 southings
 southland
+southpaws
 southron
 souths
 southwesterly
@@ -68563,6 +68593,7 @@ spares
 sparge
 spargers
 sparges
+sparids
 sparingly
 sparked
 sparker
@@ -76443,6 +76474,7 @@ turnbuckle
 turnbuckles
 turncoat
 turncoats
+turned
 turneries
 turners
 turnery
@@ -76691,6 +76723,7 @@ typifies
 typists
 typographed
 typographers
+typographically
 typographs
 typography
 typologic
@@ -80068,6 +80101,7 @@ virginally
 virgules
 viricidal
 viricides
+virid
 viridescent
 viridians
 viridities
@@ -80599,6 +80633,7 @@ waits
 waitstaff
 waive
 waived
+waiver
 waivers
 wakame
 wakames
