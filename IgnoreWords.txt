@@ -5412,6 +5412,7 @@ barn
 barnacles
 barning
 barnlike
+barnstorm
 barnstormer
 barnstorming
 barny
@@ -6062,6 +6063,7 @@ behest
 behests
 behindhand
 behinds
+beholder
 beholds
 behoove
 behooves
@@ -6171,6 +6173,7 @@ belters
 beltings
 beltless
 beltline
+beluga
 belugas
 bema
 bemadams
@@ -6648,6 +6651,7 @@ bighted
 bigly
 bigmouths
 bigness
+bignonia
 bignonias
 bigoses
 bigot
@@ -6716,6 +6720,7 @@ billowed
 billowiest
 billowing
 billows
+billy
 billycocks
 bilobated
 bilobed
@@ -7262,6 +7267,7 @@ blest
 blethered
 blights
 blimpishnesses
+blimps
 blimy
 blind
 blinder
@@ -11218,6 +11224,7 @@ chanted
 chanteuse
 chanting
 chants
+chanty
 chaos
 chaotically
 chap
@@ -12229,6 +12236,7 @@ circumnavigated
 circumnavigates
 circumscissile
 circumscribe
+circumscribing
 circumscription
 circumspect
 circumspections
@@ -19630,6 +19638,7 @@ dinoflagellates
 dinosaurs
 dinothere
 dinotheres
+dint
 dints
 diobolons
 diocese
@@ -19916,6 +19925,7 @@ discolouring
 discolours
 discombobulate
 discombobulates
+discomfited
 discomfiting
 discomfiture
 discomfitures
@@ -20036,6 +20046,7 @@ disencumbered
 disencumbering
 disencumbers
 disendowed
+disendowers
 disendowing
 disendowments
 disenfranchise
@@ -21222,6 +21233,7 @@ draftable
 drafters
 draftiest
 draftily
+draftinesses
 drafting
 draftings
 draftsmanship
@@ -25657,6 +25669,7 @@ fatigability
 fatigable
 fatigue
 fatigues
+fatiguingly
 fatless
 fatlike
 fatly
@@ -26890,6 +26903,7 @@ flits
 flitter
 flittered
 flitting
+flivver
 flivvers
 floatages
 floatation
@@ -27122,6 +27136,7 @@ fluttering
 fluty
 fluviatile
 fluxes
+fluxgates
 fluxion
 fluxional
 fluxions
@@ -32577,6 +32592,7 @@ heroinism
 heroins
 heroized
 heronries
+herons
 heros
 herpes
 herpesvirus
@@ -32917,6 +32933,7 @@ histologically
 histologist
 histologists
 histone
+histopathology
 histoplasmosis
 historic
 historical
@@ -35923,6 +35940,7 @@ inhibited
 inhibiter
 inhibiters
 inhibition
+inhibitors
 inholder
 inhomogeneity
 inhomogeneous
@@ -36909,6 +36927,7 @@ inveiglements
 inveigler
 inveiglers
 inveigles
+invented
 invention
 inventively
 inventiveness
@@ -38048,6 +38067,7 @@ jurisconsults
 jurisdiction
 jurisprudences
 jurist
+jurists
 jurors
 juryman
 jurywoman
@@ -42074,6 +42094,7 @@ maraschinos
 marasmus
 marasmuses
 marathoner
+marathoners
 marathonings
 marathons
 maraud
@@ -43356,6 +43377,7 @@ mickey
 mickles
 micklest
 micra
+micrified
 micrify
 microampere
 microanalysts
@@ -44067,6 +44089,7 @@ miscibilities
 miscitations
 miscited
 misclaimed
+misclaiming
 misclasses
 misclassified
 misclassifies
@@ -44981,6 +45004,7 @@ monsteras
 monstrosities
 monstrosity
 monstrousness
+monstrousnesses
 montadales
 montagnard
 montanes
@@ -46444,6 +46468,7 @@ nelumbium
 nelumbiums
 nelumbos
 nema
+nematicide
 nematicides
 nematocidal
 nematocide
@@ -49157,6 +49182,7 @@ oryxes
 os
 osar
 oscillated
+oscillation
 oscillational
 oscillograms
 oscillographies
@@ -50160,6 +50186,7 @@ overdid
 overdirect
 overdirecting
 overdiscounted
+overdocument
 overdocumented
 overdocuments
 overdoes
@@ -51559,6 +51586,7 @@ paratroops
 paravanes
 parawings
 parbakes
+parbaking
 parboiled
 parboiling
 parbuckle
@@ -52533,6 +52561,7 @@ perceiver
 perceivers
 perceiving
 percentage
+percental
 perception
 perceptional
 perceptive
@@ -53591,6 +53620,7 @@ picketer
 picketers
 picketing
 pickier
+pickiness
 pickinesses
 picking
 pickle
@@ -59533,6 +59563,7 @@ recyclables
 recycle
 recycled
 recycler
+recycles
 recycling
 redacted
 redacting
@@ -62648,6 +62679,7 @@ roseroot
 roseroots
 roseslug
 roset
+rosewater
 roshis
 rosiest
 rosily
@@ -70334,6 +70366,7 @@ stylise
 stylises
 stylising
 stylists
+stylite
 stylites
 stylitic
 stylitism
@@ -76128,6 +76161,7 @@ turncoats
 turneries
 turners
 turnery
+turnhall
 turning
 turnips
 turnoffs
@@ -79774,6 +79808,7 @@ visas
 viscacha
 viscera
 viscerally
+viscid
 viscidities
 viscidity
 viscidly
