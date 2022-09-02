@@ -4559,6 +4559,7 @@ autografted
 autografting
 autografts
 autograph
+autographed
 autographic
 autographically
 autographies
@@ -5606,6 +5607,7 @@ bathos
 bathrobes
 bathroom
 baths
+bathtubs
 bathwaters
 bathyal
 bathymetrically
@@ -5893,6 +5895,7 @@ bedlamite
 bedless
 bedmate
 bedmates
+bedplate
 bedplates
 bedpost
 bedposts
@@ -6651,6 +6654,7 @@ bigging
 biggings
 biggy
 bighted
+bights
 bigly
 bigmouths
 bigness
@@ -10057,6 +10061,7 @@ capsulated
 capsulizes
 captain
 captaincies
+captaincy
 captaining
 captainships
 captioned
@@ -18309,6 +18314,7 @@ demilitarize
 demilitarizes
 demilunes
 demimondes
+demineralizers
 demineralizing
 demirep
 demisable
@@ -18496,6 +18502,7 @@ denudates
 denudating
 denudations
 denudement
+denudements
 denuder
 denuders
 denudes
@@ -19105,6 +19112,7 @@ devoutnesses
 dew
 dewans
 dewars
+dewaterers
 dewaters
 dewaxes
 dewberry
@@ -21289,6 +21297,7 @@ dramaturges
 dramaturgical
 dramaturgies
 dramedies
+dramedy
 drammed
 drammocks
 dramshop
@@ -21938,6 +21947,7 @@ earmark
 earmarked
 earmarks
 earn
+earned
 earner
 earners
 earnestness
@@ -22507,6 +22517,7 @@ elevations
 elevators
 elevenses
 eleventh
+elevon
 elevons
 elflock
 elhi
@@ -24723,6 +24734,7 @@ exenterated
 exenterates
 exenterations
 exequatur
+exercisable
 exercise
 exerciser
 exercisers
@@ -27572,6 +27584,7 @@ forfeited
 forfeiting
 forfeitures
 forfended
+forfending
 forfends
 forgather
 forgathered
@@ -34396,6 +34409,7 @@ ideas
 ideate
 ideates
 ideating
+ideational
 ideative
 idem
 idempotents
@@ -35573,6 +35587,7 @@ individualizes
 individualizing
 individuals
 individuated
+individuating
 individuations
 indivisible
 indocilities
@@ -35690,6 +35705,7 @@ inertially
 inertias
 inertnesses
 inerts
+inescapable
 inescapably
 inevitabilities
 inevitability
@@ -38930,6 +38946,7 @@ kummel
 kummels
 kumquat
 kuna
+kundalini
 kundalinis
 kunzites
 kurbash
@@ -39668,6 +39685,7 @@ leadwork
 leadworks
 leadworts
 leafage
+leafhopper
 leafhoppers
 leafiest
 leafinesses
@@ -40419,6 +40437,7 @@ lingers
 lingo
 lingonberry
 lingually
+linguicas
 linguinis
 linguisa
 linguist
@@ -43517,6 +43536,7 @@ microsecond
 microseconds
 microseism
 microseismic
+microseisms
 microsomal
 microsome
 microsomes
@@ -44737,6 +44757,7 @@ moldy
 molecules
 molehill
 moleskins
+molestation
 molested
 molesters
 molesting
@@ -46226,6 +46247,7 @@ narrow
 narrowcasting
 narrowed
 narrowest
+narrowish
 narrowly
 narwal
 narwhale
@@ -46556,6 +46578,7 @@ nephogram
 nephoscopes
 nephrectomize
 nephrectomized
+nephrectomy
 nephridia
 nephridial
 nephrisms
@@ -49025,6 +49048,7 @@ ordo
 ordonnance
 ordonnances
 ordos
+ordures
 ore
 orectic
 oreide
@@ -49072,6 +49096,7 @@ orient
 oriental
 orientalisms
 orientalist
+orientalize
 orientalizes
 orientally
 orientals
@@ -49415,6 +49440,7 @@ outbuilt
 outbulge
 outbulged
 outbulges
+outbullies
 outbullying
 outburn
 outburned
@@ -55221,6 +55247,7 @@ postcoronary
 postcoup
 postcrash
 postcrisis
+postdated
 postdates
 postdating
 postdebate
@@ -56137,6 +56164,7 @@ presa
 presageful
 presages
 presbyope
+presbyopes
 presbyter
 presbyterially
 presbyters
@@ -61092,6 +61120,7 @@ repump
 repumped
 repurchased
 repurify
+repurpose
 repurposes
 repursue
 repursued
@@ -64809,6 +64838,7 @@ seemers
 seemings
 seemlier
 seemliest
+seemliness
 seemlinesses
 seems
 seepage
@@ -73177,6 +73207,7 @@ tenacities
 tenaculum
 tenaculums
 tenailles
+tenails
 tenancies
 tenant
 tenantable
@@ -76469,6 +76500,7 @@ tyrosines
 tyrothricins
 tythe
 tythes
+tzardom
 tzardoms
 tzarism
 tzarisms
@@ -78831,6 +78863,7 @@ usuriousnesses
 usurp
 usurped
 usurper
+utensils
 uterine
 uteruses
 utile
@@ -79689,6 +79722,7 @@ vigors
 vigour
 vigours
 vikings
+vilayets
 vilely
 vileness
 vilenesses
@@ -81802,6 +81836,7 @@ workplace
 workplaces
 workprint
 worksheet
+worksheets
 workstations
 worktables
 workup
