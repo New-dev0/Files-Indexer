@@ -187,6 +187,7 @@ accelerates
 accelerating
 accelerative
 accelerators
+accented
 accenting
 accentor
 accentually
@@ -4093,6 +4094,7 @@ assorts
 assuage
 assuagement
 assuagements
+assuages
 assumability
 assumably
 assume
@@ -5735,6 +5737,7 @@ beacon
 beacons
 bead
 beaders
+beadhouse
 beadhouses
 beadier
 beadiest
@@ -6372,6 +6375,7 @@ berrying
 berryless
 berrylike
 berserker
+berserkers
 berserkly
 berserks
 berthas
@@ -8614,6 +8618,7 @@ broadside
 broadswords
 broadtail
 broadtails
+brocade
 brocades
 brocading
 brocatelles
@@ -9509,6 +9514,7 @@ cadging
 cadi
 cadis
 cadmium
+cadre
 cads
 caducean
 caducei
@@ -12039,6 +12045,7 @@ chouse
 choused
 chousers
 choushes
+chowderhead
 chowderheaded
 chowed
 chowhound
@@ -15964,6 +15971,7 @@ crazing
 crazyweeds
 creaked
 creakiest
+creakily
 creakinesses
 creaky
 creamcups
@@ -17044,6 +17052,7 @@ cyclostyled
 cyclostyling
 cyclothymia
 cyclothymic
+cyclotomic
 cyclotron
 cyder
 cyders
@@ -17412,6 +17421,7 @@ dartboards
 darter
 darters
 dartle
+dash
 dashboards
 dasheens
 dashi
@@ -20156,6 +20166,7 @@ disemploying
 disenable
 disenchanters
 disenchantingly
+disenchantment
 disenchants
 disencumbered
 disencumbering
@@ -22865,6 +22876,7 @@ embryons
 embryos
 emceeing
 emdash
+emdashes
 eme
 emeer
 emeerate
@@ -24296,6 +24308,7 @@ estrums
 estuarine
 esurient
 etageres
+etamin
 etamine
 etamins
 etatist
@@ -26981,6 +26994,7 @@ flesh
 fleshers
 fleshes
 fleshier
+fleshinesses
 fleshings
 fleshless
 fleshliest
@@ -33729,6 +33743,7 @@ hospitalises
 hospitalising
 hospitality
 hospitalize
+hospitalized
 hospitia
 hospodar
 host
@@ -39708,6 +39723,7 @@ lathing
 lathings
 lathworks
 lathy
+lathyrisms
 lati
 laticifer
 laticifers
@@ -41550,6 +41566,7 @@ lustrum
 lusty
 lusus
 lutanist
+lutanists
 luteal
 lutecium
 luteciums
@@ -48477,6 +48494,7 @@ obovoid
 obscenely
 obscener
 obscenest
+obscenities
 obscurant
 obscurantic
 obscurantist
@@ -52343,6 +52361,7 @@ pavane
 paved
 pavement
 pavements
+pavers
 pavid
 pavilion
 pavilioned
@@ -53725,6 +53744,7 @@ photoreduces
 photoresists
 photos
 photosensitive
+photosensitized
 photosensitizes
 photoset
 photosets
@@ -54040,6 +54060,7 @@ pigskin
 pigskins
 pigsney
 pigsneys
+pigsticked
 pigsty
 pigtailed
 pigweeds
@@ -62479,6 +62500,7 @@ ricercari
 richen
 richened
 richening
+richens
 richer
 riches
 richest
@@ -64671,6 +64693,7 @@ scoutings
 scoutmaster
 scoutmasters
 scowdered
+scowing
 scowler
 scowling
 scows
@@ -65280,6 +65303,7 @@ semblable
 semblables
 semblably
 semeiologies
+semeiotics
 sememes
 semen
 semens
@@ -67563,6 +67587,7 @@ slubbered
 slubbering
 slubbing
 slubbings
+slubs
 sludge
 sludged
 sludging
@@ -68244,6 +68269,7 @@ solicitousness
 solicits
 solicitude
 solidago
+solidagos
 solidarisms
 solidarist
 solidaristic
@@ -71023,6 +71049,7 @@ subliming
 sublimits
 sublimity
 sublingual
+subliteracies
 subliterary
 subliterate
 subliterates
@@ -72464,6 +72491,7 @@ sympathizes
 sympatico
 sympatric
 sympatrically
+sympatries
 sympetalies
 sympetalous
 symphonic
@@ -74134,6 +74162,7 @@ thimblerigs
 thimbleweed
 thimbleweeds
 thimerosals
+thin
 thinclad
 thinclads
 thindown
@@ -74985,6 +75014,7 @@ topful
 topgallant
 topgallants
 tophe
+tophs
 topiary
 topically
 topics
@@ -77412,6 +77442,7 @@ uncomplicated
 uncomprehended
 uncompromisable
 uncomputerized
+unconcealed
 unconceivable
 unconcern
 unconcernedness
@@ -79212,6 +79243,7 @@ urticarias
 urticated
 urticates
 urtications
+urus
 uruses
 urushiols
 usableness
@@ -81315,6 +81347,7 @@ wendigos
 wending
 wends
 wennier
+wenny
 went
 wentletrap
 weregilds
@@ -81837,6 +81870,7 @@ wineskin
 wineskins
 wingbacks
 wingbows
+wingchair
 wingchairs
 winged
 winger
@@ -82463,6 +82497,7 @@ xylitol
 xylocarp
 xylocarps
 xylograph
+xylographic
 xylographical
 xylographies
 xylographing
