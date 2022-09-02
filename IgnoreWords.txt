@@ -3067,6 +3067,7 @@ anvils
 anviltop
 anviltops
 anxiolytic
+anxiolytics
 anxious
 anxiousness
 anxiousnesses
@@ -3506,6 +3507,7 @@ arcades
 arcadian
 arcadings
 arcana
+arcane
 arcanums
 arcatures
 arccosine
@@ -4630,6 +4632,7 @@ autosuggestions
 autotetraploidy
 autotomic
 autotomies
+autotomize
 autotomized
 autotomizing
 autotomy
@@ -6452,6 +6455,7 @@ betelnut
 betels
 bethanked
 bethanking
+bethels
 bethorned
 bethorning
 bethought
@@ -7336,6 +7340,7 @@ blondined
 blondines
 blondining
 blondish
+blonds
 bloodbath
 bloodcurdling
 blooded
@@ -8433,6 +8438,7 @@ brevet
 brevetcies
 breviaries
 breviary
+brevities
 brevity
 brewages
 breweries
@@ -10349,6 +10355,7 @@ carpetbaggers
 carpetbags
 carpeting
 carpetweeds
+carpingly
 carpings
 carpogonia
 carpology
@@ -12860,6 +12867,7 @@ coalfield
 coalhole
 coalholes
 coaliest
+coalifications
 coalified
 coalify
 coalifying
@@ -13738,6 +13746,7 @@ commonality
 commonness
 commonnesses
 commonplaceness
+commonsense
 commonsensible
 commonsensical
 commonweal
@@ -16399,6 +16408,7 @@ cryptal
 cryptanalysis
 cryptanalytical
 cryptarithm
+cryptarithms
 cryptic
 cryptically
 cryptococci
@@ -16555,6 +16565,7 @@ culprits
 cult
 cultch
 cultches
+culti
 cultic
 cultigen
 cultishly
@@ -25771,6 +25782,7 @@ fazes
 fazing
 fealties
 fear
+fearer
 fearers
 fearful
 fearfullest
@@ -26811,6 +26823,7 @@ flayer
 flayers
 flays
 flea
+fleabag
 fleabags
 fleabane
 fleabanes
@@ -28682,6 +28695,7 @@ galivants
 gall
 gallant
 gallantly
+gallantries
 gallants
 gallbladder
 galleasses
@@ -35299,6 +35313,7 @@ incitation
 incite
 incited
 incites
+incivil
 incivilities
 inclasped
 inclasps
@@ -35399,6 +35414,7 @@ incorporations
 incorporeity
 incorpse
 incorpses
+incorpsing
 incorrect
 incorrectness
 incorrectnesses
@@ -36224,6 +36240,7 @@ insinuated
 insinuates
 insinuating
 insinuatingly
+insinuator
 insinuators
 insipidities
 insipidity
@@ -37941,6 +37958,7 @@ jostlers
 jostling
 jotas
 jots
+jotters
 jotting
 joual
 jouk
@@ -39110,6 +39128,7 @@ lacteally
 lacteals
 lactiferous
 lactobacillus
+lactones
 lactose
 lacunae
 lacunar
@@ -39212,6 +39231,7 @@ lam
 lama
 lamasery
 lamb
+lambada
 lambasted
 lambda
 lambdas
@@ -43598,6 +43618,7 @@ middens
 middlebrows
 middled
 middleman
+middler
 middlers
 middles
 middleweight
@@ -43682,6 +43703,7 @@ mike
 miked
 mikra
 mikron
+mikvah
 mikvos
 mil
 miladi
@@ -47804,6 +47826,7 @@ normalizer
 normalizers
 normalizes
 normalizing
+normally
 normals
 normativeness
 normless
@@ -47883,6 +47906,7 @@ notebook
 notebooks
 notecards
 noter
+noters
 noteworthiness
 nother
 nothing
@@ -53835,6 +53859,7 @@ pilferage
 pilferages
 pilfered
 pilferers
+pilgarlics
 pilgrimages
 pilgrimaging
 piliform
@@ -54116,6 +54141,7 @@ pitifullest
 pitifully
 pitiless
 pitilessly
+pitilessness
 pitilessnesses
 pitmans
 pittance
@@ -56283,6 +56309,7 @@ presorts
 presplit
 press
 pressboard
+pressboards
 pressed
 pressingly
 pressings
@@ -65200,6 +65227,7 @@ sensoria
 sensorial
 sensorimotor
 sensual
+sensualism
 sensualisms
 sensualists
 sensualities
@@ -68725,6 +68753,7 @@ spiracle
 spiracles
 spiraea
 spiraeas
+spiral
 spiraled
 spirally
 spirals
@@ -69785,6 +69814,7 @@ stiffnesses
 stifled
 stifles
 stifling
+stigmas
 stigmasterols
 stigmatically
 stigmatics
@@ -73405,6 +73435,7 @@ terminals
 terminations
 terminator
 terminators
+terming
 termini
 terminological
 terminologies
@@ -73721,6 +73752,7 @@ thereon
 theres
 theretofore
 thereunder
+therewith
 theriac
 theriacal
 therians
@@ -77136,6 +77168,7 @@ uncritically
 uncropped
 uncrossed
 uncrosses
+uncrossing
 uncrowded
 uncrown
 uncrowned
@@ -78461,6 +78494,7 @@ untrusting
 untrustworthy
 untrusty
 untruth
+untruthful
 untruthfully
 untucking
 untucks
@@ -80075,6 +80109,7 @@ vocatives
 voces
 vociferate
 vociferates
+vociferating
 vociferator
 vociferous
 vociferously
