@@ -1286,6 +1286,7 @@ aigrette
 aigrettes
 ail
 ailanthus
+ailing
 ailurophiles
 ailurophobe
 aimful
@@ -4098,6 +4099,7 @@ assumpsits
 assumption
 assumptions
 assurable
+assure
 assuredly
 assuredness
 assurednesses
@@ -7431,6 +7433,7 @@ bludgeon
 bludgeoned
 bludgeoning
 bludgeons
+bludges
 blueball
 bluebeards
 bluebeat
@@ -9143,6 +9146,7 @@ burqa
 burqas
 burr
 burrer
+burriest
 burro
 burrow
 burrowed
@@ -10486,6 +10490,7 @@ cask
 casked
 casketing
 casking
+casks
 casky
 casque
 casqued
@@ -12346,6 +12351,7 @@ citronellas
 citronellol
 citronellols
 citrons
+citrulline
 citrullines
 cittern
 city
@@ -14817,6 +14823,7 @@ convey
 conveyancer
 conveyancers
 conveyances
+conveyed
 conveying
 conveyor
 conveyorise
@@ -15554,6 +15561,7 @@ counterstaining
 counterstated
 counterstating
 countersteps
+counterstrategy
 counterstream
 counterstreams
 counterstriking
@@ -20204,6 +20212,7 @@ disinclination
 disinclining
 disinfected
 disinfection
+disinfects
 disinfest
 disinfestant
 disinfestation
@@ -23138,6 +23147,7 @@ endonucleolytic
 endopeptidases
 endoperoxide
 endoplasms
+endopod
 endopolyploidy
 endoproct
 endorsable
@@ -25251,6 +25261,7 @@ exuding
 exultances
 exultancy
 exultant
+exultantly
 exultation
 exulted
 exultingly
@@ -25920,6 +25931,7 @@ felinely
 felinities
 felinity
 fellable
+fellah
 fellated
 fellates
 fellating
@@ -26200,6 +26212,7 @@ fibrillations
 fibrin
 fibrinoid
 fibrinopeptides
+fibrins
 fibroblastic
 fibrocystic
 fibroid
@@ -27136,6 +27149,7 @@ fluky
 fluming
 flummeries
 flummery
+flummox
 flummoxes
 flummoxing
 flumping
@@ -27576,6 +27590,7 @@ forerunners
 forerunning
 foresail
 foresails
+foresee
 foreseeability
 foreseer
 foreshadow
@@ -33341,6 +33356,7 @@ homomorphism
 homonuclear
 homonymic
 homonymies
+homonymy
 homoousians
 homophobes
 homophobia
@@ -33933,6 +33949,7 @@ hurrah
 hurrahing
 hurrahs
 hurrayed
+hurraying
 hurricane
 hurricanes
 hurried
@@ -34315,6 +34332,7 @@ hypochondriases
 hypocotyls
 hypocrites
 hypocritical
+hypocycloids
 hypoderma
 hypodermically
 hypodermises
@@ -37907,6 +37925,7 @@ jobs
 jockette
 jockey
 jockeyed
+jockeying
 jockos
 jockstrap
 jockstraps
@@ -40604,6 +40623,7 @@ liquidates
 liquidation
 liquidator
 liquidity
+liquidized
 liquidizes
 liquidly
 liquidnesses
@@ -44450,6 +44470,7 @@ mispaint
 misparses
 misparsing
 misparted
+mispatches
 mispatching
 misperceiving
 misperception
@@ -51259,6 +51280,7 @@ palindromists
 palingeneses
 palingenetic
 palinode
+palisaded
 palisades
 palisading
 palladia
@@ -52617,6 +52639,7 @@ pentarchies
 pentathlete
 pentathlon
 pentatonic
+penthouse
 penthouses
 pentlandites
 pentobarbital
@@ -53214,6 +53237,7 @@ phantasmagoria
 phantasmagoric
 phantasmal
 phantasmata
+phantasmic
 phantasying
 phantom
 pharaoh
@@ -56768,6 +56792,7 @@ procuratorial
 procurators
 procure
 procurement
+procurer
 procuresses
 procuring
 prod
@@ -58792,6 +58817,7 @@ randomizer
 randomnesses
 range
 rangers
+rangier
 ranginess
 ranging
 ranid
@@ -65376,6 +65402,7 @@ sequesters
 sequestrate
 sequestrated
 sequestrating
+sequin
 sequins
 sequitur
 ser
@@ -67875,6 +67902,7 @@ soccers
 sociably
 social
 socialises
+socialising
 socialisms
 socialist
 socialistic
@@ -70196,6 +70224,7 @@ strangled
 strangleholds
 strangler
 strangles
+strangling
 strangulate
 strangulation
 straphanged
@@ -71141,6 +71170,7 @@ succussed
 such
 suchlike
 suchness
+suchnesses
 sucker
 suckers
 suckfish
@@ -71832,6 +71862,7 @@ surmullet
 surname
 surnamer
 surnamers
+surnames
 surpasser
 surpassers
 surpassing
@@ -77618,6 +77649,7 @@ unexpurgated
 unfaded
 unfair
 unfairer
+unfairness
 unfaith
 unfaithful
 unfaithfully
@@ -78293,6 +78325,7 @@ unsalaried
 unsalted
 unsalvageable
 unsanctioned
+unsated
 unsatisfied
 unsaturate
 unsaturated
@@ -78886,6 +78919,7 @@ uranylic
 uranyls
 urase
 urases
+urates
 urbaner
 urbanest
 urbanise
@@ -81398,6 +81432,7 @@ wickapes
 wicked
 wickeder
 wickedest
+wickedly
 wickedness
 wickednesses
 wicker
