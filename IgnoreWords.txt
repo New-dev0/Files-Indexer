@@ -681,6 +681,7 @@ adjourning
 adjournment
 adjournments
 adjudge
+adjudged
 adjudges
 adjudging
 adjudicating
@@ -2045,6 +2046,7 @@ ammos
 ammunition
 amnesia
 amnesiac
+amnesias
 amnestic
 amnia
 amnio
@@ -9925,6 +9927,7 @@ cannikin
 cannikins
 canniness
 canninesses
+cannings
 cannister
 cannoli
 cannonaded
@@ -10126,6 +10129,7 @@ captured
 capturer
 captures
 capuche
+capuched
 capuchin
 caput
 capybara
@@ -12464,6 +12468,7 @@ clamping
 clams
 clamworms
 clan
+clandestine
 clandestinity
 clanged
 clanger
@@ -13253,6 +13258,7 @@ cofounders
 cofounding
 cofounds
 cogeneration
+cogenerations
 cogent
 cogged
 cogitable
@@ -14704,6 +14710,7 @@ contextualized
 contextualizes
 contexture
 contextures
+contiguities
 contiguously
 continentals
 continently
@@ -19800,6 +19807,7 @@ diplomates
 diplomatic
 diplomatist
 diplomats
+diplontic
 diplopias
 diplopic
 diplopods
@@ -20884,6 +20892,7 @@ dogmatism
 dogmatist
 dogmatists
 dogmatize
+dogmatizer
 dogmatizers
 dogmatizes
 dognap
@@ -26117,6 +26126,7 @@ ferrosilicons
 ferrotype
 ferruginous
 ferrule
+ferrules
 ferry
 ferryboat
 ferrying
@@ -27575,6 +27585,7 @@ forecasters
 forechecked
 forechecks
 foreclose
+foreclosed
 forecloses
 foreclosure
 foreclosures
@@ -33636,6 +33647,7 @@ horrid
 horrider
 horridest
 horrifically
+horrifying
 horrifyingly
 horror
 horse
@@ -36655,6 +36667,7 @@ interfiling
 interflow
 interflowed
 interflowing
+interfluve
 interfluvial
 interfold
 interfolds
@@ -39834,6 +39847,7 @@ leadenly
 leadenness
 leader
 leadiest
+leadings
 leadman
 leadoff
 leads
@@ -40110,6 +40124,7 @@ lentiviruses
 lentoids
 leone
 leonine
+leopard
 leopardess
 leopardesses
 leopards
@@ -42973,6 +42988,7 @@ megavitamin
 megavolt
 megilla
 megillahs
+megilph
 megohms
 megs
 mehndi
@@ -45267,6 +45283,7 @@ moonlet
 moonlets
 moonlight
 moonlighter
+moonlights
 moonport
 moonquakes
 moons
@@ -46019,6 +46036,7 @@ mushers
 mushes
 mushier
 mushiest
+mushinesses
 mushroomed
 mushrooming
 mushrooms
@@ -51292,6 +51310,7 @@ paisley
 pajama
 pajamaed
 pakeha
+pakehas
 pakoras
 pal
 palace
@@ -53239,6 +53258,7 @@ petering
 petioles
 petit
 petiteness
+petitenesses
 petitioners
 petnap
 petnapers
@@ -54975,6 +54995,7 @@ politely
 politenesses
 politer
 politesse
+politesses
 politicalize
 politicalized
 politically
@@ -56416,6 +56437,7 @@ presentableness
 presentably
 presentations
 presented
+presentee
 presentees
 presentencing
 presentient
@@ -59824,6 +59846,7 @@ rectors
 rectorships
 rectory
 rectrix
+recultivated
 recumbencies
 recumbent
 recuperate
@@ -68577,6 +68600,7 @@ spaes
 spaghetti
 spaghettilike
 spaghettis
+spagyrics
 spahi
 spahis
 spaldeen
@@ -71448,6 +71472,7 @@ sulked
 sulker
 sulkers
 sulkiest
+sulks
 sullage
 sullen
 sullener
@@ -73199,6 +73224,7 @@ teargassing
 tearing
 tearless
 tearooms
+tears
 tearstain
 tearstains
 teary
@@ -73428,6 +73454,7 @@ telsons
 temblor
 temblores
 temblors
+temerariously
 temerity
 temp
 temped
@@ -73928,6 +73955,7 @@ theobromines
 theocentric
 theocentrism
 theocratical
+theocrats
 theodolite
 theogony
 theologic
@@ -74506,6 +74534,7 @@ timeliest
 timeliness
 timeously
 timepieces
+timepleaser
 times
 timesaver
 timesavers
@@ -75364,6 +75393,7 @@ transacted
 transaction
 transactional
 transactions
+transactor
 transacts
 transamination
 transaxle
@@ -75956,6 +75986,7 @@ tripled
 triples
 triplet
 tripletail
+triplexes
 triplicate
 triplicated
 triplications
@@ -77911,6 +77942,7 @@ unhandsomely
 unhandy
 unhanging
 unhangs
+unhappiest
 unhappily
 unhappiness
 unharmed
@@ -79490,6 +79522,7 @@ vasodilatation
 vasodilatations
 vasodilator
 vasomotor
+vasopressins
 vasospasm
 vasospasms
 vasospastic
@@ -82025,6 +82058,7 @@ woodcock
 woodcutter
 woodcutting
 woodcuttings
+wooden
 woodener
 woodenheaded
 woodenheads
@@ -82358,6 +82392,7 @@ xenograft
 xenon
 xenons
 xenophile
+xenophobe
 xenophobia
 xenophobic
 xenotropic
