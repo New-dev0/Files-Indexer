@@ -5436,6 +5436,7 @@ baronesses
 baronet
 baronetage
 baronetcies
+baronies
 baronnes
 baroque
 baroreceptor
@@ -9799,6 +9800,7 @@ canalization
 canalizing
 canalled
 canaller
+canallers
 canalling
 canape
 canapes
@@ -9857,6 +9859,7 @@ canella
 canellas
 caners
 caneware
+canfield
 canful
 canfuls
 canids
@@ -11583,6 +11586,7 @@ chevelures
 cheverons
 chevies
 cheviot
+cheviots
 chevre
 chevres
 chevrons
@@ -17195,6 +17199,7 @@ daleths
 dalles
 dally
 dallying
+dalmatian
 dalmatic
 dalmatics
 dalton
@@ -17420,6 +17425,7 @@ daydreamlike
 daydreams
 daydreamy
 dayflower
+dayfly
 dayglow
 daylight
 daylighted
@@ -20318,6 +20324,7 @@ dispeopled
 dispeopling
 dispersals
 dispersedly
+dispersing
 dispersion
 dispersive
 dispersively
@@ -21572,6 +21579,7 @@ drumbeaters
 drumbeating
 drumbeatings
 drumbling
+drumfishes
 drumheads
 drumliest
 drumlike
@@ -21655,6 +21663,7 @@ due
 duecento
 duel
 duelists
+duelled
 duelli
 duelling
 duellist
@@ -23795,6 +23804,7 @@ epitases
 epitasis
 epitaxially
 epitaxic
+epitaxy
 epithelial
 epithelialize
 epithelialized
@@ -25471,6 +25481,7 @@ fallers
 fallibilities
 fallible
 fallibly
+falling
 falloff
 fallow
 falsehood
@@ -25510,6 +25521,7 @@ familistic
 faming
 famishing
 famishment
+famously
 famousness
 fan
 fanatical
@@ -29104,6 +29116,7 @@ gazogene
 gazogenes
 gazpacho
 gazpachos
+geanticlines
 gear
 gearbox
 gearboxes
@@ -29377,6 +29390,7 @@ gerenuks
 gerfalcons
 geriatric
 geriatrician
+geriatricians
 geriatrics
 german
 germander
@@ -34289,6 +34303,7 @@ hypocritical
 hypoderma
 hypodermically
 hypodermises
+hypoderms
 hypoed
 hypogastric
 hypogeal
@@ -36899,6 +36914,7 @@ intriguer
 intriguingly
 intrinsical
 intrinsically
+introduce
 introducers
 introductorily
 introfying
@@ -42898,6 +42914,7 @@ melisma
 mell
 mellifluent
 mellifluously
+melling
 mellotron
 mellowed
 mellower
@@ -47998,6 +48015,7 @@ nucleoles
 nucleonics
 nucleons
 nucleophile
+nucleophilic
 nucleoplasmic
 nucleosides
 nucleosomes
@@ -48278,6 +48296,7 @@ obliviously
 oblong
 obnoxiousnesses
 obnubilate
+obnubilated
 obnubilates
 obnubilating
 obnubilations
@@ -49519,6 +49538,7 @@ outcome
 outcomes
 outcook
 outcooking
+outcooks
 outcounted
 outcounts
 outcrawling
@@ -52035,6 +52055,7 @@ paternal
 paternalistic
 paternity
 paternoster
+paters
 path
 pathbreaking
 pathetical
@@ -53772,6 +53793,7 @@ piddler
 piddly
 pidginization
 pidginize
+pidginized
 pie
 piece
 pieced
@@ -56887,6 +56909,7 @@ proline
 prolines
 prolixities
 prolixity
+prolocutors
 prolog
 prologed
 prologing
@@ -57668,6 +57691,7 @@ punchiest
 punchinello
 punchinellos
 punctated
+punctation
 punctilio
 punctilious
 punctiliously
@@ -57749,6 +57773,7 @@ purfled
 purfles
 purflings
 purgative
+purgatives
 purgatory
 purgeable
 purges
@@ -57867,6 +57892,7 @@ putrescines
 putridities
 putridity
 putridly
+puts
 putsches
 putt
 putted
@@ -59105,6 +59131,7 @@ ream
 reamer
 reaming
 reanalyses
+reanimate
 reanimated
 reanimation
 reannexing
@@ -62894,6 +62921,7 @@ roundup
 roundups
 roundwood
 roundworms
+roup
 rouped
 roupet
 roupier
@@ -65692,6 +65720,7 @@ shannies
 shantey
 shantis
 shantung
+shantymen
 shantytown
 shantytowns
 shapeable
@@ -70151,6 +70180,7 @@ straplesses
 strappadoes
 strappados
 strapped
+strappier
 strappings
 strappy
 straps
@@ -70738,6 +70768,7 @@ subleased
 sublessee
 sublessor
 sublessors
+sublethally
 sublets
 sublevel
 sublibrarian
@@ -74038,6 +74069,7 @@ thromboxane
 thromboxanes
 thrombus
 throned
+thrones
 thronged
 throning
 throttles
@@ -74437,6 +74469,7 @@ titlist
 titman
 titmen
 titmice
+titrated
 titrates
 titrating
 titration
@@ -76385,6 +76418,7 @@ tweedier
 tweediness
 tweedled
 tweedles
+tweedy
 tween
 tweener
 tweeners
@@ -82005,6 +82039,7 @@ wreathes
 wreaths
 wreathy
 wreckage
+wreckages
 wrecker
 wreckers
 wreckful
