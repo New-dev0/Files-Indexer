@@ -56,6 +56,7 @@ abscond
 absconded
 absconder
 absconders
+abseil
 abseils
 absence
 absentee
@@ -837,6 +838,7 @@ adverted
 advertent
 advertisement
 advertises
+advertising
 advertize
 advertizes
 advisability
@@ -5973,6 +5975,7 @@ beetle
 beetlers
 beetling
 beetroots
+beeyard
 beeyards
 beezers
 befallen
@@ -8928,6 +8931,7 @@ bullfighting
 bullfinch
 bullfinches
 bullfrog
+bullfrogs
 bullhead
 bullheaded
 bullheadedly
@@ -9052,6 +9056,7 @@ burdener
 burdeners
 burdens
 burdensome
+burdies
 burdocks
 bureaucracy
 bureaucrat
@@ -11840,6 +11845,7 @@ chock
 chockablock
 chockful
 chockfull
+chocking
 chocks
 chocoholics
 chocolate
@@ -15177,6 +15183,7 @@ correctnesses
 corrector
 correctors
 corrects
+correlate
 correlates
 correlational
 correlations
@@ -31152,6 +31159,7 @@ gunfires
 gunflints
 gunites
 gunk
+gunkholed
 gunks
 gunky
 gunlocks
@@ -31285,6 +31293,7 @@ gypsyisms
 gyrate
 gyrating
 gyrational
+gyrator
 gyrenes
 gyres
 gyrocompasses
@@ -31524,6 +31533,7 @@ halloa
 halloas
 halloes
 halloing
+halloo
 halloos
 hallos
 hallot
@@ -32011,6 +32021,7 @@ hayings
 haylages
 hayloft
 haylofts
+haymakers
 haymow
 haymows
 hayrick
@@ -34785,6 +34796,7 @@ impanelled
 impanelling
 imparked
 imparking
+imparks
 imparted
 imparters
 impartialities
@@ -43212,6 +43224,7 @@ metaphysics
 metaplasia
 metaplasias
 metaplasm
+metaplasms
 metapsychology
 metasomatic
 metastably
@@ -44121,6 +44134,7 @@ miscooking
 miscopy
 miscorrelation
 miscorrelations
+miscounted
 miscounting
 miscreants
 miscreated
@@ -44474,6 +44488,7 @@ misthinks
 mistiest
 mistily
 mistime
+mistimed
 mistiness
 mistinesses
 misting
@@ -46283,6 +46298,7 @@ naturopathic
 naturopathies
 naturopathy
 naugahydes
+naughtier
 naughtily
 naughtinesses
 naumachia
@@ -50013,6 +50029,7 @@ overachieve
 overachieved
 overachievement
 overachiever
+overachieves
 overachieving
 overacted
 overactions
@@ -52308,6 +52325,7 @@ pegmatitic
 pehs
 peignoir
 peignoirs
+pein
 peined
 peining
 peins
@@ -52582,6 +52600,7 @@ percoid
 percoids
 percolate
 percolated
+percolations
 percussing
 percussion
 percussively
@@ -54368,6 +54387,7 @@ plenarily
 plenches
 plenishes
 plenists
+plenitudes
 plenteous
 plenteousness
 plentifulness
@@ -56226,6 +56246,7 @@ pressurizers
 prestamped
 prestamps
 prester
+presterilized
 presterilizes
 presterna
 presters
@@ -57617,6 +57638,7 @@ pupil
 pupilage
 pupilary
 pupillages
+puppet
 puppeteer
 puppeteered
 puppeteers
@@ -58102,6 +58124,7 @@ queenliness
 queenlinesses
 queenly
 queenside
+queerer
 queerish
 queerly
 queerness
@@ -62225,6 +62248,7 @@ riggers
 right
 righteousness
 righter
+rightest
 rightful
 rightfully
 righties
@@ -62392,6 +62416,7 @@ riverlike
 rivers
 riverwards
 riverweeds
+rives
 rivet
 riveted
 riveter
@@ -66895,6 +66920,7 @@ slacking
 slackly
 slackness
 slacks
+slag
 slagged
 slaggier
 slaggiest
@@ -70523,6 +70549,7 @@ subduce
 subduced
 subduces
 subduct
+subduction
 subducts
 subduedly
 subduers
@@ -72867,6 +72894,7 @@ tearless
 tearooms
 tearstain
 tearstains
+teary
 teas
 teasable
 teased
@@ -73905,6 +73933,7 @@ throbs
 thrombi
 thromboembolic
 thromboembolism
+thrombokinase
 thromboplastic
 thromboplastin
 thromboplastins
@@ -74155,6 +74184,7 @@ timberhead
 timberheads
 timberline
 timberlines
+timberwork
 timbrel
 timbrelled
 timecard
@@ -74416,6 +74446,7 @@ tokes
 toking
 tokologies
 tokonoma
+tokonomas
 tolan
 tolanes
 tolans
@@ -76508,6 +76539,7 @@ ultimatenesses
 ultimates
 ultimogeniture
 ultimogenitures
+ultrabasic
 ultracareful
 ultracautious
 ultraclean
@@ -77478,6 +77510,7 @@ unformulated
 unforthcoming
 unfortunately
 unfossiliferous
+unfounded
 unframed
 unfree
 unfreed
@@ -80388,6 +80421,7 @@ wapentake
 wappenschawings
 wapping
 warbled
+warbles
 warbonnets
 warcraft
 warcrafts
@@ -81510,6 +81544,7 @@ witching
 witchings
 witchweeds
 witchy
+wite
 wited
 witenagemote
 witenagemots
