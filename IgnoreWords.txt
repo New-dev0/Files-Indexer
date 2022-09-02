@@ -2736,6 +2736,7 @@ antiauxin
 antiauxins
 antibacklash
 antibacterial
+antibacterials
 antibillboard
 antibioses
 antibiotically
@@ -5011,6 +5012,7 @@ backstretches
 backstroke
 backswing
 backtracked
+backups
 backward
 backwardly
 backwardness
@@ -6784,6 +6786,7 @@ bimodality
 bimolecular
 bimonthly
 bimorphs
+binarism
 binarisms
 binary
 binately
@@ -9417,6 +9420,7 @@ cabezones
 cabezons
 cabildo
 cabined
+cabinetmakings
 cabinetry
 cabinetworks
 cabining
@@ -9617,6 +9621,7 @@ calctufa
 calctuffs
 calculable
 calculate
+calculated
 calculatedly
 calculation
 calculator
@@ -10279,6 +10284,7 @@ cared
 careen
 careens
 career
+careerer
 careering
 careerism
 careerist
@@ -18150,6 +18156,7 @@ degases
 degasser
 degassers
 degauss
+degaussed
 degaussers
 degendered
 degendering
@@ -19159,6 +19166,7 @@ devilfish
 devilfishes
 deviling
 devilish
+devilkin
 devilling
 devilry
 devils
@@ -19451,6 +19459,7 @@ dickering
 dickey
 dickie
 dickies
+dickiest
 dicking
 diclinism
 diclinous
@@ -20234,6 +20243,7 @@ dishelmed
 dishelms
 disherit
 disherited
+disheriting
 dishevel
 disheveled
 disheveling
@@ -20428,6 +20438,7 @@ disposures
 dispraised
 dispraiser
 dispread
+disprized
 disprizes
 disproof
 disproportion
@@ -21121,6 +21132,7 @@ dosimeters
 dosimetric
 dosimetries
 dosimetry
+dossal
 dossals
 dosser
 dosshouse
@@ -21846,6 +21858,7 @@ dupe
 duper
 dupery
 dupes
+duplex
 duplexers
 duplexes
 duplexities
@@ -25598,6 +25611,7 @@ famously
 famousness
 fan
 fanatical
+fanaticalness
 fanaticalnesses
 fanaticized
 fanaticizes
@@ -26859,6 +26873,7 @@ flatlining
 flatlong
 flatmate
 flatnesses
+flats
 flatted
 flatten
 flattened
@@ -27090,6 +27105,7 @@ flooring
 floors
 floorshow
 floorshows
+floorwalker
 floorwalkers
 floosie
 floosies
@@ -27797,6 +27813,7 @@ formulators
 formulism
 formulisms
 formulize
+formulizing
 formwork
 formworks
 formyl
@@ -28959,6 +28976,7 @@ gantlines
 gantlope
 gantlopes
 gantries
+ganymede
 ganymedes
 gaoled
 gaoler
@@ -30838,6 +30856,7 @@ gregariousness
 greiges
 greisen
 greisens
+gremial
 gremials
 gremlin
 gremmie
@@ -32851,6 +32870,7 @@ heterotrophs
 heterozygoses
 heterozygosis
 heterozygosity
+heterozygote
 heterozygotes
 heth
 heths
@@ -33997,6 +34017,7 @@ hungrier
 hungrily
 hungry
 hunk
+hunkers
 hunkey
 hunkeys
 hunkie
@@ -34628,6 +34649,7 @@ idolize
 idolized
 idolizes
 idolizing
+idoneity
 idoneous
 ids
 idyll
@@ -39687,6 +39709,7 @@ lathings
 lathworks
 lathy
 lati
+laticifer
 laticifers
 latifundio
 latifundios
@@ -41292,6 +41315,7 @@ lovelily
 loveliness
 lovelock
 lovelocks
+lovelornness
 lovely
 lovemaking
 lovemakings
@@ -44881,6 +44905,7 @@ modish
 modishly
 modishness
 modistes
+mods
 modularities
 modulars
 modulates
@@ -53352,6 +53377,7 @@ phantasmata
 phantasmic
 phantasying
 phantom
+phantoms
 pharaoh
 pharisaic
 pharisaically
@@ -53406,6 +53432,7 @@ phenocryst
 phenol
 phenolated
 phenolics
+phenologically
 phenologies
 phenolphthalein
 phenomenally
@@ -54668,6 +54695,7 @@ pleons
 pleopods
 plerocercoid
 plerocercoids
+plessors
 plethora
 plethysmogram
 plethysmographs
@@ -60309,6 +60337,7 @@ reforesting
 reforests
 reforge
 reform
+reformability
 reformate
 reformational
 reformations
@@ -61678,6 +61707,7 @@ resowed
 resowing
 respaced
 respaces
+respacing
 respeaking
 respeaks
 respecified
@@ -63253,6 +63283,7 @@ ruffians
 ruffle
 ruffled
 rufflers
+ruffles
 ruffly
 ruffs
 rug
@@ -64312,6 +64343,7 @@ scarf
 scarfed
 scarfpin
 scarfpins
+scarfskins
 scarification
 scarifiers
 scarifyingly
@@ -75385,6 +75417,7 @@ tranquilizer
 tranquilizers
 tranquilizes
 tranquilizing
+tranquillized
 tranquillizes
 tranquilness
 tranquilnesses
@@ -77291,6 +77324,7 @@ unchoked
 unchokes
 unchoreographed
 unchronicled
+unchurched
 uncia
 unciae
 uncially
@@ -81178,6 +81212,7 @@ weeder
 weedier
 weediest
 weedily
+weediness
 weedless
 weedy
 weekday
