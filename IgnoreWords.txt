@@ -377,6 +377,7 @@ achiote
 achiral
 achlorhydria
 achondrite
+achondrites
 achondroplasia
 achondroplasias
 achromat
@@ -3055,6 +3056,7 @@ antiwrinkle
 antler
 antlered
 antlions
+antonym
 antonymies
 antonymous
 antra
@@ -3464,6 +3466,7 @@ arame
 arames
 arapaimas
 araroba
+ararobas
 araucaria
 araucarias
 arbalest
@@ -6690,6 +6693,7 @@ bikini
 bikinis
 bilabial
 bilabiate
+bilander
 bilanders
 bilateralisms
 bilaterally
@@ -6955,6 +6959,7 @@ birdfarm
 birdfarms
 birdfeed
 birdied
+birdieing
 birdies
 birdings
 birdlife
@@ -7829,6 +7834,7 @@ bookends
 bookful
 bookies
 bookish
+bookishly
 bookishness
 bookkeepers
 bookkeeping
@@ -8975,6 +8981,7 @@ bullpen
 bullpens
 bullpout
 bullring
+bullrings
 bullrushes
 bulls
 bullsnake
@@ -12735,6 +12742,7 @@ closeable
 closedowns
 closefisted
 closeness
+closeouts
 closers
 closest
 closet
@@ -20154,6 +20162,7 @@ disfunction
 disfurnish
 disfurnished
 disfurnishes
+disfurnishing
 disfurnishments
 disgorged
 disgorging
@@ -20679,6 +20688,7 @@ diverticulosis
 divertimentos
 diverting
 divertissement
+divertissements
 dives
 divestitures
 divests
@@ -29291,6 +29301,7 @@ genitives
 genitors
 genitourinary
 genius
+geniuses
 genoas
 genocidal
 genocide
@@ -35258,6 +35269,7 @@ inaudibility
 inaudible
 inaudibly
 inaugurate
+inauguration
 inaugurations
 inaugurator
 inaugurators
@@ -37114,6 +37126,7 @@ invitingly
 invocate
 invocated
 invocation
+invocational
 invocations
 invoice
 invoke
@@ -38658,6 +38671,7 @@ kills
 kiln
 kilns
 kilobars
+kilobase
 kilobyte
 kilocurie
 kilocycle
@@ -38708,6 +38722,7 @@ kindlinesses
 kindling
 kindnesses
 kinemas
+kinematical
 kinematically
 kinematics
 kines
@@ -40414,6 +40429,7 @@ liltingly
 lilts
 lily
 lilylike
+lima
 limacine
 limans
 limb
@@ -47863,6 +47879,7 @@ noontides
 noontimes
 noosing
 nopal
+nopals
 noplace
 noradrenaline
 noradrenalins
@@ -48037,6 +48054,7 @@ nubbles
 nubbliest
 nubbly
 nubby
+nubias
 nubility
 nubilous
 nucellar
@@ -51722,6 +51740,7 @@ parasitologies
 parasitologist
 parasitologists
 parasitology
+parasitosis
 parasol
 parasympathetic
 parasyntheses
@@ -52415,6 +52434,7 @@ pedlers
 pedocalic
 pedocals
 pedogeneses
+pedogenetic
 pedogenic
 pedological
 pedologist
@@ -52888,6 +52908,7 @@ periphery
 periphrasis
 periphrastic
 periphyton
+periphytons
 periplasm
 periplasms
 periques
@@ -54000,6 +54021,7 @@ pinesap
 pinesaps
 pinewood
 pinewoods
+piney
 pinfeather
 pinfish
 pinfolded
@@ -54894,6 +54916,7 @@ politicoes
 politicos
 politics
 polities
+polity
 polka
 polkas
 pollack
@@ -58342,6 +58365,7 @@ quicksand
 quickset
 quickstep
 quid
+quids
 quiescence
 quiescent
 quiet
@@ -59828,6 +59852,7 @@ redigested
 redigesting
 redigestion
 redigestions
+redigests
 redigress
 redigressed
 reding
@@ -61090,6 +61115,7 @@ repletion
 repletions
 replevin
 replevined
+replevining
 replevy
 replica
 replicabilities
@@ -61566,6 +61592,7 @@ respirable
 respirator
 respirators
 respire
+respiring
 respiritualized
 respirometer
 respirometric
@@ -63621,6 +63648,7 @@ salverform
 salvia
 salvias
 salvific
+salvo
 salvoed
 salvors
 samadhis
@@ -64250,6 +64278,7 @@ schedule
 scheduled
 schedulers
 schedules
+scheelite
 scheelites
 schema
 schemas
@@ -66696,6 +66725,7 @@ simplifiers
 simplifies
 simplifying
 simplisms
+simplistically
 simulacrum
 simulacrums
 simulant
@@ -74393,6 +74423,7 @@ timework
 timeworkers
 timeworn
 timidities
+timidnesses
 timing
 timocracy
 timorously
@@ -74703,6 +74734,7 @@ tomograph
 tomographic
 tomographies
 tomography
+ton
 tonal
 tonally
 tondo
@@ -77624,6 +77656,7 @@ unentered
 unenterprising
 unenthusiastic
 unenvied
+unequally
 unequals
 unerotic
 unerringly
@@ -78215,6 +78248,7 @@ unquiet
 unquiets
 unquoted
 unraised
+unranked
 unraveled
 unraveling
 unravelled
@@ -81077,6 +81111,7 @@ welcoming
 weld
 welding
 weldment
+weldments
 weldor
 weldors
 welfarism
