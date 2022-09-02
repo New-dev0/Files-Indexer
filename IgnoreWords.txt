@@ -2387,6 +2387,7 @@ anenst
 anergias
 aneroids
 anesthesia
+anesthetic
 anesthetically
 anesthetics
 anesthetist
@@ -2692,6 +2693,7 @@ anthophilous
 anthozoans
 anthracene
 anthracite
+anthracitic
 anthranilate
 anthraquinones
 anthrax
@@ -6219,6 +6221,7 @@ bendier
 bends
 bendwise
 bendy
+bene
 benedict
 benedictions
 benefactions
@@ -7534,6 +7537,7 @@ bobberies
 bobbers
 bobbery
 bobbin
+bobbing
 bobble
 bobbles
 bobeches
@@ -7646,6 +7650,7 @@ boites
 bola
 bolar
 bolas
+bolases
 bold
 bolder
 boldest
@@ -13438,6 +13443,7 @@ colloguing
 colloidal
 colloids
 collop
+collops
 colloquial
 colloquiality
 colloquials
@@ -19475,6 +19481,7 @@ digitized
 digitizer
 digitizers
 digitonins
+digitoxigenin
 digitoxigenins
 digitoxins
 diglossias
@@ -22344,6 +22351,7 @@ ektexine
 ekuele
 elaborate
 elaborates
+elaboration
 elaborations
 elaborative
 elain
@@ -26404,6 +26412,7 @@ firebombing
 firebombs
 fireboxes
 firebrand
+firebrands
 firebreak
 firebreaks
 firebrick
@@ -32597,6 +32606,7 @@ hesitation
 hesitations
 hesitator
 hesitators
+hesperidium
 hessonite
 hessonites
 hetaeric
@@ -35957,6 +35967,7 @@ injection
 injective
 injector
 injectors
+injects
 injudiciously
 injudiciousness
 injunctive
@@ -36002,6 +36013,7 @@ innermost
 innermosts
 inners
 innersoles
+innerspring
 innervated
 innervates
 innervating
@@ -37846,6 +37858,7 @@ jolt
 jolted
 jolter
 joltier
+joltiest
 jolts
 jomon
 jones
@@ -38313,6 +38326,7 @@ kenotrons
 kens
 kentledges
 kep
+kephalin
 kepi
 keps
 kept
@@ -40698,6 +40712,7 @@ localizing
 locally
 locatable
 locater
+locaters
 locating
 location
 locations
@@ -40916,6 +40931,7 @@ loony
 loop
 loophole
 loopholed
+loopier
 loopily
 loopinesses
 looping
@@ -41527,6 +41543,7 @@ maduro
 maduros
 madwoman
 madwomen
+madzoon
 mae
 maelstrom
 maenad
@@ -43308,6 +43325,7 @@ mezereon
 mezereum
 mezes
 mezquite
+mezquites
 mezuza
 mezuzah
 mezuzahs
@@ -45070,6 +45088,7 @@ mora
 morae
 moraine
 morainic
+morale
 morales
 moralised
 moralises
@@ -45385,6 +45404,7 @@ moviola
 mow
 mowed
 mower
+mown
 moxa
 moxie
 mozetta
@@ -46634,6 +46654,7 @@ neurotropic
 neurulae
 neurular
 neurulas
+neustic
 neuston
 neutral
 neutralised
@@ -47879,6 +47900,7 @@ nucleotides
 nucleus
 nucleuses
 nuclide
+nuclides
 nuclidic
 nudenesses
 nuder
@@ -49822,6 +49844,7 @@ outstare
 outstart
 outstated
 outstates
+outstating
 outstay
 outstaying
 outsteer
@@ -50590,6 +50613,7 @@ overstimulate
 overstimulated
 overstimulates
 overstimulation
+overstirring
 overstirs
 overstocked
 overstocking
@@ -51597,6 +51621,7 @@ pariahs
 parians
 paris
 parishioners
+parities
 park
 parkade
 parkades
@@ -53140,6 +53165,7 @@ phillumenists
 philologically
 philologists
 philomel
+philomela
 philomelas
 philosopher
 philosophers
@@ -54847,6 +54873,7 @@ polysyndeton
 polysyndetons
 polytechnic
 polytheisms
+polytheistic
 polytheistical
 polythene
 polythenes
@@ -54875,6 +54902,7 @@ pomatum
 pomegranate
 pomegranates
 pomelos
+pomfret
 pommee
 pommel
 pommelled
@@ -61091,6 +61119,7 @@ resaw
 resaws
 rescale
 rescales
+reschedule
 rescheduling
 reschool
 reschooled
@@ -64657,6 +64686,7 @@ sedately
 sedateness
 sedates
 sedatest
+sedation
 sedations
 sedative
 sederunt
@@ -67745,6 +67775,7 @@ sol
 solace
 solacement
 solacer
+solacers
 solacing
 solanders
 solands
@@ -68124,6 +68155,7 @@ southbound
 southeast
 southeaster
 southeasterly
+southeasters
 southern
 southernnesses
 southernwood
@@ -75026,6 +75058,7 @@ transitivities
 transitivity
 transitorily
 transitoriness
+transits
 translatable
 translated
 translation
@@ -77272,6 +77305,7 @@ undoubting
 undrained
 undramatically
 undramatized
+undraped
 undrapes
 undraping
 undreamt
@@ -80474,6 +80508,7 @@ watchfully
 watchfulness
 watchfulnesses
 watchmaker
+watchmakers
 watchman
 watchouts
 watchword
