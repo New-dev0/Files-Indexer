@@ -4354,6 +4354,7 @@ attainment
 attains
 attainting
 attars
+attemper
 attempering
 attempers
 attemptable
@@ -11400,6 +11401,7 @@ chapt
 chapter
 chapteral
 chaptered
+char
 charabanc
 charabancs
 characid
@@ -13969,6 +13971,7 @@ companioned
 companions
 companionship
 companionships
+companionway
 companying
 comparatists
 comparative
@@ -19077,6 +19080,7 @@ desolatingly
 desolators
 desorb
 desorbed
+desorption
 desorptions
 despaired
 despatch
@@ -20669,6 +20673,7 @@ disseminate
 disseminated
 disseminator
 disseminators
+disseminule
 dissension
 dissented
 dissentient
@@ -22412,6 +22417,7 @@ ecotype
 ecru
 ecrus
 ecstatic
+ecstatically
 ectases
 ectoblasts
 ectoparasites
@@ -23164,6 +23170,7 @@ emulsification
 emulsifications
 emulsifiers
 emulsifying
+emulsion
 emunctories
 emunctory
 emyd
@@ -26211,6 +26218,7 @@ felting
 felucca
 felworts
 female
+females
 feme
 feminacies
 feminacy
@@ -26397,6 +26405,7 @@ fettuccine
 fettuccini
 fettucine
 fetuses
+feud
 feudal
 feudalist
 feudalists
@@ -29966,6 +29975,7 @@ girders
 girdingly
 girdle
 girdled
+girds
 girlfriend
 girlhoods
 girlies
@@ -30931,6 +30941,7 @@ gratings
 gratuity
 gratulatory
 graupel
+gravamens
 graveless
 gravelike
 graveling
@@ -35060,6 +35071,7 @@ imbricates
 imbrication
 imbrications
 imbroglio
+imbroglios
 imbrown
 imbrowns
 imbrue
@@ -38132,6 +38144,7 @@ jellies
 jellified
 jellify
 jelling
+jello
 jelly
 jellyfishes
 jellylike
@@ -39184,6 +39197,7 @@ kittenishness
 kittenishnesses
 kitties
 kittiwake
+kittled
 kittler
 kittles
 kitty
@@ -39752,6 +39766,7 @@ landaulet
 landaulets
 lander
 landfill
+landforms
 landgrave
 landgraves
 landholder
@@ -40839,6 +40854,7 @@ limestones
 limier
 limina
 limit
+limitable
 limitary
 limitation
 limitedly
@@ -41429,6 +41445,7 @@ longhead
 longheadedness
 longheads
 longhorns
+longhouse
 longicorns
 longing
 longings
@@ -44216,6 +44233,7 @@ milieu
 milieux
 militance
 militances
+militancy
 militants
 militaria
 militarily
@@ -45750,6 +45768,7 @@ morphemes
 morphemics
 morphia
 morphias
+morphic
 morphing
 morphinic
 morphinisms
@@ -46353,6 +46372,7 @@ murrain
 murrains
 murras
 murre
+murres
 murreys
 murrha
 murrine
@@ -47505,6 +47525,7 @@ niobium
 niobiums
 niobous
 nip
+nipas
 nippers
 nippiest
 nippiness
@@ -48299,6 +48320,7 @@ nonviewers
 nonviolence
 nonviolent
 nonvirgin
+nonvirile
 nonvisual
 nonvoluntary
 nonvoting
@@ -49042,6 +49064,7 @@ oddment
 oddsmaker
 odeons
 odic
+odiferous
 odious
 odiously
 odiousnesses
@@ -51447,6 +51470,7 @@ ox
 oxacillins
 oxalacetates
 oxalic
+oxalises
 oxaloacetate
 oxbloods
 oxbows
@@ -53893,6 +53917,7 @@ phimosis
 phis
 phizes
 phlebitic
+phlebitises
 phlebogram
 phlebograms
 phlebotomist
@@ -57276,6 +57301,7 @@ probationers
 probative
 probe
 probenecid
+probenecids
 prober
 probities
 probits
@@ -66930,6 +66956,7 @@ shrewder
 shrewdie
 shrewdnesses
 shrewed
+shrewing
 shrewishly
 shrewishness
 shrewlike
@@ -67658,6 +67685,7 @@ skipper
 skippered
 skippering
 skippets
+skirl
 skirmisher
 skirmishers
 skirr
@@ -69156,6 +69184,7 @@ spanked
 spankers
 spankings
 spanned
+spanner
 spanning
 spanokopita
 spanokopitas
@@ -73792,6 +73821,7 @@ teaseled
 teaseler
 teaselled
 teasers
+teases
 teashop
 teasing
 teasingly
@@ -74266,6 +74296,7 @@ terpolymer
 terpsichorean
 terra
 terraces
+terracing
 terrae
 terraform
 terraforming
@@ -74704,6 +74735,7 @@ thirst
 thirster
 thirsters
 thirstiest
+thirstiness
 thirsty
 thirteenth
 thirteenths
@@ -78670,6 +78702,7 @@ unitarily
 unite
 uniters
 unities
+uniting
 unitive
 unitization
 unitizations
@@ -80746,6 +80779,7 @@ violableness
 violas
 violates
 violation
+violet
 violets
 violinistic
 violoncellist
@@ -81371,6 +81405,7 @@ waltzer
 wambled
 wamblier
 wamefou
+wameful
 wamefuls
 wammuses
 wampished
