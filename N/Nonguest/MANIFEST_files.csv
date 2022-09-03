@@ -1,0 +1,4 @@
+https://downloads.openwrt.org/releases/19.07.8/pac...,https://downloads.openwrt.org/releases/19.07.8/packages/mips_mips32/packages/Packages.manifest
+Packages.manifest - PandoraBox,http://downloads.pangubox.com:6380/pandorabox/19.02/packages/mipsel_1004kc_dsp/base/Packages.manifest
+Packages.manifest - PandoraBox,http://downloads.pangubox.com:6380/pandorabox/19.01/packages/arm_cortex-a7_neon-vfpv4/base/Packages.manifest
+https://qtest.cc/releases/19.07.7/targets/x86/64/p...,https://qtest.cc/releases/19.07.7/targets/x86/64/packages/Packages.manifest
