@@ -1256,6 +1256,7 @@ agrees
 agribusinessman
 agribusinessmen
 agricultural
+agriculture
 agriculturist
 agriculturists
 agrimonies
@@ -1583,6 +1584,7 @@ alkalify
 alkalifying
 alkalimeter
 alkaline
+alkalinity
 alkalinization
 alkalinizing
 alkalise
@@ -1831,6 +1833,7 @@ altostratus
 altricial
 altruist
 altruists
+aludel
 alular
 alum
 alumina
@@ -8614,6 +8617,7 @@ brimstones
 brimstony
 brindled
 brine
+brineless
 bringer
 bringers
 brings
@@ -9926,6 +9930,7 @@ candelabra
 candelabras
 candelabrum
 candent
+candescence
 candescences
 candidature
 candider
@@ -10731,6 +10736,7 @@ catchups
 catchword
 catchwords
 catchy
+catclaw
 catecheses
 catechise
 catechises
@@ -11014,6 +11020,7 @@ celts
 cembalo
 cement
 cementa
+cementations
 cemented
 cementers
 cementite
@@ -14368,6 +14375,7 @@ conferval
 confervas
 confessed
 confesses
+confessing
 confession
 confessionalist
 confessionally
@@ -15617,6 +15625,7 @@ counsels
 countabilities
 countdowns
 countenancers
+countenancing
 counter
 counteracting
 counteractions
@@ -26340,6 +26349,7 @@ ferrotype
 ferruginous
 ferrule
 ferrules
+ferrums
 ferry
 ferryboat
 ferrying
@@ -26709,6 +26719,7 @@ finesse
 finesses
 finessing
 finfish
+finfishes
 finfoot
 finfoots
 fingerboards
@@ -27421,6 +27432,7 @@ fluidity
 fluidization
 fluidizing
 fluidly
+fluidram
 fluke
 flukes
 flukily
@@ -27515,6 +27527,7 @@ flyaways
 flybelt
 flybelts
 flyblew
+flyblow
 flyblowing
 flyblown
 flyboats
@@ -29391,6 +29404,7 @@ gauchos
 gaud
 gaudier
 gaudies
+gaudiest
 gaudily
 gaudinesses
 gauds
@@ -30465,6 +30479,7 @@ gobony
 gobs
 gobshite
 goby
+godchild
 goddammed
 goddamndest
 goddamned
@@ -31731,6 +31746,7 @@ habanero
 habdalahs
 haberdashers
 haberdashery
+habergeon
 habiliment
 habiliments
 habilitated
@@ -33570,6 +33586,7 @@ hologyny
 holohedral
 holometabolism
 holometabolisms
+holophytes
 holophytic
 holotype
 holotypic
@@ -43867,6 +43884,7 @@ methodized
 methodologies
 methodologist
 methodologists
+methodology
 methought
 methoxide
 methoxides
@@ -45364,6 +45382,7 @@ momentary
 momently
 momentousness
 momentum
+momi
 momism
 mommy
 moms
@@ -51853,6 +51872,7 @@ palmation
 palmations
 palmer
 palmers
+palmerworm
 palmette
 palmetto
 palmettoes
@@ -53380,6 +53400,7 @@ pericarp
 pericarps
 perichondral
 perichondria
+pericopal
 pericope
 pericrania
 pericranium
@@ -55096,6 +55117,7 @@ pledges
 pledget
 pledgets
 pledgors
+pleiad
 pleiades
 pleiads
 pleinairists
@@ -55255,6 +55277,7 @@ plushiness
 plushinesses
 plushy
 plussage
+plussages
 plutocracy
 plutocrat
 plutonic
@@ -57904,6 +57927,7 @@ protoplast
 protoplasts
 protopods
 protoporphyrin
+protostar
 protostars
 protosteles
 protostelic
@@ -60757,6 +60781,7 @@ refiltering
 refinable
 refinanced
 refinancing
+refinding
 refine
 refined
 refinement
@@ -63224,6 +63249,7 @@ ritualist
 ritualistic
 ritualists
 ritualization
+ritualizing
 ritually
 ritzier
 rivage
@@ -69270,6 +69296,7 @@ spates
 spathic
 spathose
 spathulate
+spatialities
 spatiotemporal
 spatted
 spattering
@@ -71807,6 +71834,7 @@ subtests
 subtext
 subtexts
 subtextual
+subtherapeutic
 subthreshold
 subtile
 subtilenesses
@@ -73700,6 +73728,7 @@ tassel
 tasseled
 tasseling
 tasses
+tasset
 tassets
 tassies
 tastable
@@ -75131,6 +75160,7 @@ tillered
 tillering
 tillermen
 tillites
+tills
 tils
 tilted
 tilters
@@ -75717,6 +75747,7 @@ tory
 tossed
 tosses
 tossing
+tosspot
 tossup
 tossups
 tost
@@ -76164,6 +76195,7 @@ transported
 transporter
 transporters
 transports
+transposition
 transposons
 transsexual
 transsexualism
@@ -76514,6 +76546,7 @@ trier
 trierarchy
 triers
 tries
+trifacial
 trifled
 triflers
 trifles
@@ -78743,6 +78776,7 @@ unitizer
 unitizers
 unitizing
 unitrust
+units
 unity
 univalved
 universal
@@ -83379,6 +83413,7 @@ youthquake
 youthquakes
 yow
 yowed
+yowes
 yowies
 yowing
 yowl
