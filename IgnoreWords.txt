@@ -146,6 +146,7 @@ abvolts
 abwatt
 aby
 abye
+abysm
 abysses
 academias
 academicians
@@ -933,6 +934,7 @@ aeronautics
 aeronauts
 aeronomers
 aeronomies
+aeronomy
 aeropause
 aerophobe
 aerophobes
@@ -1765,6 +1767,7 @@ alodium
 aloe
 aloft
 alogical
+aloha
 along
 aloof
 aloofly
@@ -4115,6 +4118,7 @@ assoiling
 assoilment
 assoilments
 assoils
+assonant
 assonantal
 assort
 assortative
@@ -4722,6 +4726,7 @@ averse
 averseness
 aversenesses
 aversions
+aversiveness
 aversives
 avertable
 averted
@@ -6987,6 +6992,7 @@ biotite
 biotites
 biotitic
 biotope
+biotopes
 biotron
 bioturbed
 biparental
@@ -7130,6 +7136,7 @@ bittered
 bittering
 bitternesses
 bitternuts
+bitterroots
 bittersweet
 bittersweetly
 bitterweed
@@ -8266,6 +8273,7 @@ brachets
 brachia
 brachial
 brachials
+brachiate
 brachiates
 brachiating
 brachiation
@@ -12769,6 +12777,7 @@ cliental
 clients
 cliffier
 cliffs
+cliffy
 clift
 clifts
 climate
@@ -12776,6 +12785,7 @@ climates
 climatize
 climatological
 climatologist
+climatologists
 climatology
 climax
 climaxes
@@ -19927,6 +19937,7 @@ dinothere
 dinotheres
 dint
 dints
+diobolon
 diobolons
 diocese
 diodes
@@ -26909,6 +26920,7 @@ fishwife
 fishwives
 fishworms
 fissate
+fissile
 fissility
 fissionability
 fissionable
@@ -27930,6 +27942,7 @@ forestaysails
 forester
 foresters
 forestial
+foresting
 forestland
 forestlands
 forestry
@@ -30398,6 +30411,7 @@ glycolipids
 glycols
 glyconic
 glyconics
+glycoprotein
 glycoproteins
 glycosidases
 glycosyl
@@ -33764,6 +33778,7 @@ homozygous
 homozygously
 homunculi
 hon
+honan
 honcho
 honchoed
 honchoing
@@ -34696,6 +34711,7 @@ hypervirulent
 hypethral
 hypha
 hyphemias
+hyphenate
 hyphenates
 hyphened
 hyphenic
@@ -37193,6 +37209,7 @@ interrogatee
 interrogatees
 interrogating
 interrogational
+interrogative
 interrogator
 interrogatories
 interrogatory
@@ -38538,6 +38555,7 @@ jugsful
 jugula
 jugular
 jugulars
+jugulated
 jugulates
 juice
 juiceheads
@@ -41140,6 +41158,7 @@ literalized
 literalizes
 literalizing
 literalness
+literals
 literariness
 literarinesses
 literately
@@ -43479,6 +43498,7 @@ melton
 meltons
 melts
 meltwater
+membered
 membership
 memberships
 membranal
@@ -43680,6 +43700,7 @@ merry
 merrymaker
 merrymakers
 merrythought
+mesally
 mesarch
 mescal
 mesclun
@@ -45479,6 +45500,7 @@ monitive
 monitored
 monitoring
 monitors
+monitorship
 monkery
 monkey
 monkeyish
@@ -45857,6 +45879,7 @@ mortarboards
 mortared
 mortarless
 mortarmen
+mortars
 mortgage
 mortgagees
 mortgagers
@@ -47396,6 +47419,7 @@ newsgroups
 newshound
 newsie
 newsiest
+newsinesses
 newsletter
 newsletters
 newsmakers
@@ -47563,6 +47587,7 @@ nimbostratus
 nimbused
 nimious
 nimming
+nims
 nincompoopery
 ninebark
 ninebarks
@@ -59402,6 +59427,7 @@ rallentando
 rallier
 rallies
 rally
+rallye
 rallyings
 rallyists
 ralphed
@@ -61261,6 +61287,7 @@ rejackets
 rejected
 rejectees
 rejecters
+rejection
 rejections
 rejective
 rejector
@@ -63490,6 +63517,7 @@ rondel
 rondos
 ronnels
 ronyons
+rood
 roofed
 roofing
 roofings
@@ -64021,6 +64049,7 @@ sabbatic
 sabbatical
 sabbats
 sabe
+sabering
 saberlike
 sabermetrician
 sabermetrics
@@ -68275,6 +68304,7 @@ smell
 smeller
 smellier
 smelliest
+smelted
 smelter
 smelteries
 smelters
@@ -69995,6 +70025,7 @@ sputtering
 sputtery
 sputum
 spy
+spying
 squabble
 squabblers
 squabbles
@@ -72533,6 +72564,7 @@ supersubtle
 supersurgeon
 supersystem
 supertankers
+superterrific
 superthick
 superthriller
 supertight
@@ -74809,6 +74841,7 @@ thionate
 thionin
 thionine
 thionines
+thionyls
 thiophene
 thioridazine
 thiosulfates
@@ -77865,6 +77898,7 @@ unbeatably
 unbecomingly
 unbecomingness
 unbeknown
+unbelief
 unbelievable
 unbelievers
 unbelieving
@@ -82475,6 +82509,7 @@ willinger
 willingest
 willingly
 willingness
+willingnesses
 williwaw
 willow
 willower
