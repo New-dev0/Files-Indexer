@@ -1191,6 +1191,7 @@ agiotages
 agisms
 agisted
 agita
+agitable
 agitatedly
 agitating
 agitation
@@ -2991,6 +2992,7 @@ antiquities
 antiquity
 antirachitic
 antiracisms
+antiradar
 antiradars
 antiradicalism
 antirationalism
@@ -6910,6 +6912,7 @@ biogases
 biogeneses
 biogenetic
 biogenetically
+biogenies
 biogeny
 biogeochemistry
 biogeographers
@@ -12459,6 +12462,7 @@ cite
 citers
 cithara
 cithrens
+citifications
 citified
 citizeness
 citizenesses
@@ -14265,6 +14269,7 @@ concocter
 concocting
 concomitance
 concomitances
+concomitantly
 concomitants
 concord
 concordances
@@ -15538,6 +15543,7 @@ costively
 costivenesses
 costlessly
 costrels
+costumed
 costumeries
 costumes
 costumey
@@ -20188,6 +20194,7 @@ dischargees
 discharger
 dischargers
 discipled
+discipleship
 discipleships
 disciplinary
 discipline
@@ -24128,6 +24135,7 @@ equalised
 equalitarian
 equalitarians
 equalities
+equality
 equalization
 equalizations
 equalizers
@@ -24713,6 +24721,7 @@ euryokies
 euryoky
 eurypterid
 eurythermic
+eurytherms
 eurytopic
 eustacies
 eustasies
@@ -27026,6 +27035,7 @@ flammabilities
 flammable
 flamy
 flan
+flancards
 flanerie
 flanger
 flanging
@@ -27798,6 +27808,7 @@ forceless
 forcemeat
 forcemeats
 forcible
+fordid
 fording
 fordless
 fordo
@@ -28032,6 +28043,7 @@ formulaically
 formularized
 formularizer
 formularizes
+formularizing
 formulary
 formulate
 formulated
@@ -30158,6 +30170,7 @@ gleaning
 gleanings
 glebeless
 gledes
+gleed
 gleeful
 gleefulness
 gleefulnesses
@@ -31897,6 +31910,7 @@ hairlocks
 hairpiece
 hairpin
 hairs
+hairsplitters
 hairsplitting
 hairsplittings
 hairsprays
@@ -34837,6 +34851,7 @@ iconoclastic
 iconographers
 iconographies
 iconography
+iconolatries
 iconology
 iconoscopes
 iconostasis
@@ -35234,6 +35249,7 @@ immunogens
 immunologic
 immunologically
 immunologist
+immunologists
 immunology
 immunomodulator
 immunotherapies
@@ -39126,6 +39142,7 @@ kindheartedly
 kindheartedness
 kindle
 kindled
+kindlers
 kindles
 kindlessly
 kindliness
@@ -44578,6 +44595,7 @@ misaddressed
 misadds
 misadjust
 misadjusted
+misadjusting
 misadventure
 misadventures
 misadvise
@@ -48950,6 +48968,7 @@ obtested
 obtesting
 obtests
 obtruded
+obtruder
 obtruders
 obtrusions
 obtrusive
@@ -51418,6 +51437,7 @@ overtrumping
 overture
 overtures
 overturn
+overturned
 overturns
 overurged
 overurges
@@ -51806,6 +51826,7 @@ paleographic
 paleographies
 paleography
 paleolith
+paleology
 paleomagnetic
 paleomagnetism
 paleontologic
@@ -52673,6 +52694,7 @@ pathbreaking
 pathetical
 pathetically
 pathfinders
+pathfinding
 pathless
 pathlessness
 pathlessnesses
@@ -53439,6 +53461,7 @@ periodical
 periodically
 periodicities
 periodid
+periodids
 periodizations
 periodontally
 periodontists
@@ -61403,6 +61426,7 @@ reluctancies
 reluctant
 reluctate
 reluctation
+relucted
 relume
 relumes
 relumines
@@ -63565,6 +63589,7 @@ rosily
 rosined
 rosiness
 rosinesses
+rosing
 rosinols
 rosinous
 rosinweed
@@ -65886,6 +65911,7 @@ semimoist
 semimonthlies
 semina
 seminar
+seminarian
 seminaries
 seminary
 seminatural
@@ -70648,6 +70674,7 @@ stickwork
 sticky
 stictions
 stied
+stiff
 stiffed
 stiffen
 stiffened
@@ -74536,6 +74563,7 @@ thanatologists
 thanatology
 thanatos
 thanes
+thaneships
 thank
 thanked
 thanker
@@ -75110,6 +75138,7 @@ tierce
 tierced
 tiercel
 tiercels
+tierceron
 tiercerons
 tiered
 tiering
@@ -75171,6 +75200,7 @@ tiltrotor
 tiltrotors
 tilts
 tiltyard
+timarau
 timbal
 timbale
 timbales
@@ -76140,6 +76170,7 @@ transits
 translatable
 translated
 translation
+translations
 translators
 transliterate
 transliterated
@@ -76237,6 +76268,7 @@ trapezist
 trapezium
 trapezohedra
 trapezohedrons
+trapezoid
 trapezoidal
 trapezoids
 traplines
@@ -77934,6 +77966,7 @@ uncategorizable
 uncaught
 uncaused
 unceasing
+unceasingly
 uncelebrated
 unceremonious
 unceremoniously
@@ -78590,6 +78623,7 @@ ungirds
 unglamorized
 unglazed
 ungloving
+unglue
 ungluing
 ungodliest
 ungotten
@@ -83184,6 +83218,7 @@ yacked
 yaffed
 yaffing
 yags
+yah
 yahoo
 yahoos
 yahrzeit
