@@ -1480,6 +1480,7 @@ alertly
 alertnesses
 ales
 aleuron
+aleurons
 alewife
 alewives
 alexandrine
@@ -2459,6 +2460,7 @@ anglicises
 anglicism
 anglicisms
 anglicization
+anglicize
 anglicized
 anglos
 angoras
@@ -5230,6 +5232,7 @@ ballyrag
 ballyragged
 ballyrags
 balm
+balmacaans
 balmier
 balminess
 balminesses
@@ -8124,6 +8127,7 @@ bountied
 bounties
 bountiful
 bounty
+bouquets
 bourbon
 bourbonism
 bourbons
@@ -8538,6 +8542,7 @@ bricks
 brickwork
 bricky
 brickyards
+bricolages
 bridal
 bridally
 bride
@@ -10237,6 +10242,7 @@ carbamates
 carbamic
 carbamides
 carbamino
+carbamoyls
 carbides
 carbineers
 carbines
@@ -15164,6 +15170,7 @@ copyrighted
 copyrighting
 copywriter
 coquets
+coquette
 coquetted
 coquetting
 coquille
@@ -16780,6 +16787,7 @@ cumulatively
 cumuliform
 cumulonimbi
 cumulonimbuses
+cumulus
 cunctation
 cunctations
 cunctator
@@ -18656,6 +18664,7 @@ denominate
 denominates
 denomination
 denominations
+denominators
 denotations
 denotative
 denoted
@@ -19583,6 +19592,7 @@ dickiest
 dicking
 diclinism
 diclinous
+dicot
 dicotyl
 dicotyledonous
 dicotyls
@@ -30069,6 +30079,7 @@ glazily
 glazing
 glazings
 gleam
+gleamed
 gleamer
 gleamers
 gleamier
@@ -31837,6 +31848,7 @@ halakha
 halakhah
 halakhic
 halakhists
+halakhoth
 halakic
 halakist
 halal
@@ -33413,6 +33425,7 @@ hoggers
 hogget
 hoggets
 hogging
+hoggs
 hogmanay
 hogmanays
 hogmane
@@ -34105,6 +34118,7 @@ hulky
 hullabaloos
 hulled
 huller
+hullo
 hulloa
 hulloas
 hulloed
@@ -37021,6 +37035,7 @@ interne
 internecine
 internee
 internees
+interneuronal
 interneurons
 interning
 internist
@@ -37489,6 +37504,7 @@ ion
 ionicities
 ionicity
 ionics
+ionise
 ionises
 ioniums
 ionizations
@@ -39947,6 +39963,7 @@ latinas
 latinization
 latinized
 latinizing
+latino
 latitude
 latitudes
 latitudinal
@@ -40338,6 +40355,7 @@ lemming
 lemminglike
 lemniscate
 lemonish
+lemonlike
 lemony
 lemures
 lemurine
@@ -44851,6 +44869,7 @@ misperceiving
 misperception
 misphrases
 misphrasing
+mispickel
 misplace
 misplacement
 misplacements
@@ -46160,6 +46179,7 @@ multiplexors
 multiplicands
 multiplication
 multiplications
+multiplicative
 multiplicity
 multipliers
 multiplies
@@ -54618,6 +54638,7 @@ pisolith
 pisoliths
 pisolitic
 pisser
+pisses
 pissing
 pistareen
 pistareens
@@ -59387,6 +59408,7 @@ ras
 rasbora
 rasboras
 rascal
+rascally
 rascals
 rased
 rasers
@@ -61964,6 +61986,7 @@ reshowers
 reshowing
 reshuffled
 reshuffling
+resid
 resided
 residence
 residency
@@ -63568,6 +63591,7 @@ rub
 rubaboo
 rubaiyat
 rubasses
+rubatos
 rubbaboo
 rubbaboos
 rubbered
@@ -65326,6 +65350,7 @@ seamstress
 seances
 seapieces
 seaplanes
+seaport
 seaports
 seaquake
 seaquakes
@@ -66294,6 +66319,7 @@ shameful
 shamefully
 shamefulness
 shamefulnesses
+shameless
 shamelessnesses
 shamisen
 shamisens
@@ -66686,6 +66712,7 @@ shmoozed
 shmoozes
 shmucks
 shnapps
+shnook
 shnooks
 shoaled
 shoalest
@@ -67284,6 +67311,7 @@ sincere
 sincerely
 sincerenesses
 sincipita
+sincipital
 sinciputs
 sinecure
 sinew
@@ -73057,6 +73085,7 @@ syphilises
 syphilitic
 syphilitics
 syphiloid
+syphon
 syphoning
 syren
 syringas
@@ -77336,6 +77365,7 @@ ufology
 uglier
 uglies
 uglification
+uglifications
 uglifier
 uglifiers
 uglifies
@@ -77371,6 +77401,7 @@ ulsters
 ultima
 ultimacies
 ultimacy
+ultimate
 ultimated
 ultimately
 ultimatenesses
@@ -79278,6 +79309,7 @@ unusualness
 unutilized
 unuttered
 unvalued
+unvarnished
 unveil
 unveiled
 unveiling
@@ -80910,6 +80942,7 @@ voguishly
 voice
 voiceful
 voicefulness
+voicelessly
 voicelessness
 voicelessnesses
 voiceover
@@ -81217,6 +81250,7 @@ wakame
 wakames
 wake
 wakeboarder
+wakeboardings
 wakeboards
 wakefully
 wakefulness
@@ -81741,6 +81775,7 @@ weightless
 weiner
 weir
 weird
+weirdest
 weirdie
 weirdies
 weirding
