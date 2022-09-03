@@ -6517,6 +6517,7 @@ bevatron
 bevel
 beveling
 bevelled
+beveller
 bevies
 bevomiting
 bevor
@@ -7149,6 +7150,7 @@ blackguards
 blackgum
 blackhead
 blackheart
+blackish
 blackjack
 blackleg
 blacklist
@@ -9207,6 +9209,7 @@ burweeds
 burying
 bus
 busbar
+busbies
 busboy
 busboys
 bused
@@ -11142,6 +11145,7 @@ cestodes
 cestos
 cestus
 cestuses
+cesurae
 cesuras
 cetaceans
 cetaceous
@@ -14004,6 +14008,7 @@ compradores
 compradors
 comprehended
 comprehending
+comprehends
 comprehension
 comprehensions
 compressed
@@ -14947,6 +14952,7 @@ cookshops
 cookstove
 cookware
 cookwares
+cooky
 coolant
 coolants
 coolers
@@ -19390,6 +19396,7 @@ diaphones
 diaphony
 diaphorases
 diaphoreses
+diaphoresis
 diaphoretic
 diaphoretics
 diaphragm
@@ -25019,6 +25026,7 @@ exotoxin
 exotoxins
 exotropias
 expand
+expandability
 expanded
 expander
 expanders
@@ -26500,6 +26508,7 @@ filthily
 filthinesses
 filtrated
 fimbrial
+fimbriate
 fin
 finagle
 finagled
@@ -27716,6 +27725,7 @@ forespoke
 forespoken
 forestage
 forestages
+forestal
 forestaller
 forestallments
 forestaysail
@@ -29174,6 +29184,7 @@ gastrular
 gastrulas
 gastrulate
 gastrulation
+gastrulations
 gasts
 gasworks
 gateaux
@@ -29752,6 +29763,7 @@ gingerroots
 gingersnap
 gingersnaps
 gingery
+gingham
 ginghams
 gingili
 gingilis
@@ -31106,6 +31118,7 @@ grouting
 grouts
 grouty
 grove
+grovel
 groveled
 groveler
 grovelers
@@ -32692,6 +32705,7 @@ hennery
 hennish
 hennishly
 henotheism
+henotheisms
 henotheistic
 henotheists
 henries
@@ -33740,6 +33754,7 @@ horsewhipper
 horsewoman
 horsinesses
 horste
+hortatively
 horticultural
 horticultures
 hosanna
@@ -37518,6 +37533,7 @@ isochime
 isochimes
 isochor
 isochores
+isochromosome
 isochrone
 isochronism
 isochronous
@@ -42445,6 +42461,7 @@ marina
 marinade
 marinaded
 marinades
+marinading
 marinating
 marination
 marinations
@@ -42653,6 +42670,7 @@ mastodons
 mastodont
 mastoid
 mastoiditises
+mastopexies
 masturbate
 masturbated
 masturbates
@@ -49407,6 +49425,7 @@ origamis
 origanum
 origin
 originalities
+originality
 originals
 originator
 orinasals
@@ -53141,6 +53160,7 @@ permeating
 permeation
 permeator
 permian
+permillage
 permillages
 permissibility
 permissibleness
@@ -54360,6 +54380,7 @@ piscivore
 pish
 pishers
 pishogue
+pisiform
 pisiforms
 piso
 pisolites
@@ -54905,6 +54926,7 @@ pneumatophores
 pneumococcal
 pneumococci
 pneumonitis
+pneumonitises
 poaceous
 poach
 poachable
@@ -58051,6 +58073,7 @@ purified
 purifier
 purifiers
 purin
+puris
 purism
 purist
 puristic
@@ -58451,6 +58474,7 @@ quarters
 quarterstaff
 quarterstaves
 quartette
+quartiers
 quartile
 quarto
 quarts
@@ -59173,6 +59197,7 @@ ratio
 ratiocination
 ratiocinative
 ratiocinator
+ratiocinators
 ration
 rational
 rationale
@@ -59914,6 +59939,7 @@ recrowning
 recrowns
 recrudesced
 recrudescences
+recruit
 recruited
 recruiter
 recruiting
@@ -61369,6 +61395,7 @@ reposeful
 reposers
 reposit
 reposited
+repositioning
 repositories
 repository
 reposits
@@ -61930,6 +61957,7 @@ resultantly
 resultful
 resultless
 results
+resumable
 resume
 resumed
 resumer
@@ -61970,6 +61998,7 @@ retacks
 retags
 retailored
 retails
+retained
 retainers
 retains
 retaken
@@ -62169,6 +62198,7 @@ retunes
 retuning
 returnable
 returner
+returners
 returning
 returns
 retuse
@@ -66288,6 +66318,7 @@ shinleaves
 shinnery
 shinney
 shinnied
+shinnies
 shinning
 shinnying
 shinplasters
@@ -71363,6 +71394,7 @@ subtunics
 subtype
 subtypes
 subunit
+subunits
 suburban
 suburbanise
 suburbanising
@@ -74498,6 +74530,7 @@ thyroiditis
 thyroiditises
 thyroids
 thyrotoxicoses
+thyrotoxicosis
 thyrotrophin
 thyrotropic
 thyrotropins
@@ -76689,6 +76722,7 @@ turquois
 turquoises
 turret
 turreted
+turtle
 turtleback
 turtleheads
 turtleneck
@@ -79779,6 +79813,7 @@ vellicate
 vellicated
 vellicates
 vellums
+velocimeter
 velocipede
 velociraptor
 velocity
