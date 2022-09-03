@@ -176,6 +176,7 @@ acarologies
 acarpous
 acarus
 acatalectics
+acaudal
 acaulose
 acceded
 accedence
@@ -4928,6 +4929,7 @@ bacchanals
 bacchant
 bacchante
 bacchantes
+bacchants
 bachelor
 bachelorhood
 bachelorhoods
@@ -7219,6 +7221,7 @@ blameful
 blamefully
 blameless
 blamelessnesses
+blames
 blameworthiness
 blameworthy
 blaming
@@ -10083,6 +10086,7 @@ capablenesses
 capabler
 capablest
 capably
+capacitance
 capacitate
 capacitation
 capacities
@@ -12192,6 +12196,7 @@ chuckleheads
 chuckler
 chucklers
 chuckles
+chuckling
 chuckwalla
 chuddah
 chuddahs
@@ -13894,6 +13899,7 @@ commune
 communed
 communer
 communers
+communicability
 communicable
 communicant
 communicants
@@ -16179,6 +16185,7 @@ crescive
 crescively
 cresols
 cress
+cresset
 cressets
 crest
 crestal
@@ -23003,6 +23010,7 @@ emender
 emenders
 emends
 emerald
+emerge
 emergences
 emergency
 emergent
@@ -23433,6 +23441,7 @@ enforces
 enforcing
 enframed
 enframement
+enframing
 enfranchisement
 eng
 engage
@@ -29021,6 +29030,7 @@ galoot
 galop
 galopade
 galoshed
+galoshes
 galumph
 galumphs
 galvanic
@@ -30308,6 +30318,7 @@ glycosylating
 glycosylations
 glyph
 gnar
+gnarl
 gnarlier
 gnarling
 gnarls
@@ -31006,6 +31017,7 @@ greenwashes
 greenways
 greenwing
 greenwoods
+greeny
 grees
 greet
 greeters
@@ -32259,6 +32271,7 @@ hasting
 hasty
 hat
 hatable
+hatbands
 hatboxes
 hatch
 hatchabilities
@@ -32907,6 +32920,7 @@ heritages
 heritor
 heritors
 heritrices
+herls
 herm
 herma
 hermae
@@ -32947,6 +32961,7 @@ heroinism
 heroins
 heroisms
 heroized
+heroizing
 heronries
 herons
 heros
@@ -33319,6 +33334,7 @@ hitting
 hive
 hiveless
 hives
+hm
 hmm
 ho
 hoar
@@ -37174,6 +37190,7 @@ intimation
 intimations
 intimidating
 intimidation
+intimidations
 intimidator
 intimist
 intinction
@@ -37260,6 +37277,7 @@ intron
 introns
 introrse
 introspect
+introspection
 introspections
 introspectively
 introverts
@@ -43371,6 +43389,7 @@ memorizers
 mems
 memsahibs
 men
+menace
 menacer
 menacers
 menad
@@ -43635,6 +43654,7 @@ metacenters
 metacercaria
 metacercarial
 metafiction
+metafictional
 metafictionist
 metafictionists
 metagalactic
@@ -47716,6 +47736,7 @@ nonconformity
 nonconforms
 noncongruent
 nonconnection
+nonconnections
 nonconservation
 nonconservative
 nonconstant
@@ -48424,6 +48445,7 @@ nubility
 nubilous
 nucellar
 nucelli
+nucellus
 nuchal
 nuchals
 nucleal
@@ -52013,6 +52035,7 @@ paraffin
 paraffines
 paraffining
 paraffins
+parafoil
 paraform
 paraforms
 paragenesis
@@ -56002,6 +56025,7 @@ pottage
 potteen
 potterers
 pottering
+pottery
 potties
 pottiest
 pottinesses
@@ -56055,6 +56079,7 @@ powdered
 powderers
 powderless
 power
+powerboats
 powerful
 powerfully
 powerhouse
@@ -58861,6 +58886,7 @@ quintes
 quintessences
 quintets
 quintile
+quintillion
 quintillions
 quintillionth
 quintillionths
@@ -60739,6 +60765,7 @@ refurnish
 refurnished
 refurnishing
 refusable
+refusals
 refuse
 refused
 refusenik
@@ -66911,6 +66938,7 @@ shuttle
 shuttlecock
 shuttlecocked
 shuttlecocking
+shuttlecocks
 shuttled
 shuttleless
 shuttles
@@ -67589,6 +67617,7 @@ skunkweeds
 skyborne
 skybox
 skyboxes
+skycap
 skycaps
 skydive
 skydived
@@ -68557,6 +68586,7 @@ solace
 solacement
 solacer
 solacers
+solaces
 solacing
 solan
 solanders
@@ -75186,6 +75216,7 @@ today
 toddled
 toddlerhoods
 tods
+toea
 toeas
 toed
 toehold
@@ -79031,6 +79062,7 @@ unsighting
 unsights
 unskilful
 unskilled
+unskillfully
 unskillfulness
 unslakable
 unsliced
@@ -79438,6 +79470,7 @@ uprated
 uprates
 uprating
 upreached
+uprear
 uprighting
 uprightnesses
 uprights
@@ -82027,6 +82060,7 @@ wholehearted
 wholeheartedly
 wholemeal
 wholenesses
+wholes
 wholesale
 wholesaled
 wholesaler
@@ -83397,6 +83431,7 @@ zoogeography
 zoogleae
 zoogloea
 zoogloeae
+zoogloeic
 zoography
 zooid
 zooier
