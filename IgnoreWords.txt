@@ -1427,6 +1427,7 @@ albite
 albites
 albizia
 album
+albumen
 albumens
 albumins
 albuminuria
@@ -4300,6 +4301,7 @@ atoneable
 atoned
 atonicity
 atonics
+atoningly
 atony
 atopies
 atrabilious
@@ -6107,6 +6109,7 @@ behest
 behests
 behindhand
 behinds
+behold
 beholder
 beholds
 behoove
@@ -8341,6 +8344,7 @@ brassieres
 brassies
 brassiest
 brassinesses
+brassing
 brat
 brattice
 bratticed
@@ -8697,6 +8701,7 @@ bronchiolar
 bronchioles
 bronchitic
 bronchogenic
+bronchoscopies
 bronchoscopists
 bronchospasms
 bronchospastic
@@ -9177,6 +9182,7 @@ burnables
 burned
 burner
 burnets
+burnie
 burnies
 burnish
 burnisher
@@ -10716,6 +10722,7 @@ caterpillar
 caters
 caterwaul
 caterwauling
+caterwauls
 cates
 catfight
 catfights
@@ -12498,6 +12505,7 @@ clamper
 clampers
 clamping
 clams
+clamshells
 clamworms
 clan
 clandestine
@@ -12822,6 +12830,7 @@ clothespin
 clothespins
 clothespresses
 clothiers
+clothlike
 cloths
 clots
 cloture
@@ -12937,6 +12946,7 @@ coagulate
 coagulating
 coal
 coalas
+coalbox
 coalers
 coalescence
 coalescences
@@ -14934,6 +14944,7 @@ convulsant
 convulsants
 convulse
 convulsed
+convulsion
 convulsionary
 convulsively
 cony
@@ -14968,6 +14979,7 @@ cookwares
 cooky
 coolant
 coolants
+cooled
 coolers
 coolest
 coolish
@@ -15949,6 +15961,7 @@ crapola
 crapped
 crappers
 crappie
+crappier
 crappiest
 crapping
 craps
@@ -20365,6 +20378,7 @@ disjunctive
 disjunctively
 disjunctives
 disjuncture
+disjunctures
 disk
 disked
 diskette
@@ -22993,6 +23007,7 @@ empathy
 empennages
 emperor
 emperors
+emperorships
 emphases
 emphasis
 emphasise
@@ -27515,6 +27530,7 @@ fondness
 fondnesses
 fondue
 fondueing
+fondues
 fonduing
 fons
 fontal
@@ -28107,6 +28123,7 @@ franticness
 franticnesses
 frapped
 frasses
+fraternalisms
 fraternally
 fraternities
 fraternity
@@ -33840,6 +33857,7 @@ hotchpots
 hotdog
 hotdogged
 hotdoggers
+hotdogging
 hotel
 hoteldoms
 hotelier
@@ -35008,6 +35026,7 @@ immunizer
 immunoblot
 immunoblots
 immunoblotting
+immunoblottings
 immunochemical
 immunochemistry
 immunochemists
@@ -35606,6 +35625,7 @@ inconsequential
 inconsequently
 inconsiderable
 inconsiderate
+inconsistence
 inconsistencies
 inconsistency
 inconsistent
@@ -36585,6 +36605,7 @@ insufflation
 insufflations
 insufflator
 insulants
+insularism
 insularisms
 insularity
 insulation
@@ -41329,6 +41350,7 @@ loricae
 lories
 loriners
 lornness
+losable
 losablenesses
 loser
 loses
@@ -49563,6 +49585,7 @@ orthopteran
 orthopterist
 orthopterists
 orthopteroid
+orthoptic
 orthostatic
 orthotic
 orthotics
@@ -52761,6 +52784,7 @@ pelt
 peltasts
 peltately
 peltation
+peltations
 pelted
 pelter
 peltered
@@ -53370,6 +53394,7 @@ pessimistic
 pessimistically
 pest
 pester
+pestered
 pesterer
 pesterers
 pestering
@@ -55292,6 +55317,7 @@ polymeric
 polymerisation
 polymerises
 polymerising
+polymerization
 polymerized
 polymerizing
 polymorphic
@@ -58287,6 +58313,7 @@ pyrenes
 pyres
 pyrethrin
 pyrethrins
+pyrethroid
 pyrethroids
 pyrethrums
 pyrexes
@@ -64923,6 +64950,7 @@ scribbles
 scribe
 scribes
 scries
+scrieve
 scrimmage
 scrimpers
 scrimpiest
@@ -66347,6 +66375,7 @@ shillalah
 shillelah
 shillelahs
 shills
+shily
 shim
 shimmer
 shimmered
@@ -68349,6 +68378,7 @@ solacement
 solacer
 solacers
 solacing
+solan
 solanders
 solands
 solanine
@@ -69400,6 +69430,7 @@ sportfisherman
 sportful
 sportfully
 sportfulness
+sportier
 sportinesses
 sportingly
 sportively
@@ -73421,6 +73452,7 @@ teamster
 teamsters
 teamwork
 teapots
+tear
 tearaways
 teardrop
 teardrops
@@ -73486,6 +73518,7 @@ technophobes
 technophobia
 technopop
 technopops
+techs
 tectal
 tectites
 tectonics
@@ -80482,6 +80515,7 @@ visitation
 visited
 visiter
 visiting
+visits
 visor
 visored
 visorless
@@ -82563,6 +82597,7 @@ writerly
 writers
 writhen
 writhers
+writhes
 writs
 written
 wrongdoers
