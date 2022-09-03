@@ -944,6 +944,7 @@ aesthesia
 aesthesias
 aesthetes
 aesthetical
+aesthetically
 aestheticism
 aestheticisms
 aesthetics
@@ -3112,6 +3113,7 @@ apace
 apache
 apaches
 apagoges
+apagogic
 apanage
 apanages
 apart
@@ -4094,6 +4096,7 @@ associative
 associativities
 assoiling
 assoilment
+assoilments
 assoils
 assonantal
 assort
@@ -4636,6 +4639,7 @@ automobiling
 automobilist
 automobilists
 automorphisms
+autonomically
 autonomies
 autonomist
 autonomists
@@ -6841,6 +6845,7 @@ binning
 binocles
 binocularities
 binoculars
+binomial
 binomially
 binomials
 bins
@@ -10006,6 +10011,7 @@ canonises
 canonising
 canonist
 canonists
+canonization
 canonizations
 canonize
 canonized
@@ -11848,6 +11854,7 @@ chipotle
 chipotles
 chipper
 chippered
+chippering
 chippers
 chippier
 chippiest
@@ -13056,7 +13063,9 @@ cobbles
 cobblestones
 cobbling
 cobby
+cobelligerent
 cobia
+cobias
 cobnut
 cobnuts
 cobra
@@ -13716,6 +13725,7 @@ columels
 column
 columneas
 columniation
+columnistic
 columnists
 colure
 colza
@@ -16044,6 +16054,7 @@ creakinesses
 creaky
 creamcups
 creamers
+creamery
 creamier
 creamily
 creaminess
@@ -16163,6 +16174,7 @@ crescents
 crescive
 crescively
 cresols
+cress
 cressets
 crest
 crestal
@@ -19233,6 +19245,7 @@ devastate
 devastated
 devastations
 devein
+develing
 develop
 developed
 developer
@@ -19368,6 +19381,7 @@ diacidic
 diaconate
 diaconates
 diacritic
+diacritical
 diadelphous
 diademed
 diademing
@@ -19510,6 +19524,7 @@ diazoniums
 diazotizations
 diazotized
 diazotizes
+diazotizing
 dib
 dibasic
 dibbed
@@ -25233,6 +25248,7 @@ exporting
 exposals
 expose
 exposed
+exposer
 exposing
 exposit
 exposited
@@ -28019,6 +28035,7 @@ fou
 fought
 foughten
 foulbrood
+foulbroods
 fouled
 fouler
 foulings
@@ -29477,6 +29494,7 @@ generals
 generate
 generation
 generational
+generationally
 generatrices
 generatrix
 generics
@@ -31902,6 +31920,7 @@ hammered
 hammerers
 hammering
 hammerkop
+hammerkops
 hammerless
 hammerlocks
 hammers
@@ -33119,6 +33138,7 @@ high
 highball
 highballing
 highballs
+highbrowism
 highbrowisms
 highbrows
 highchair
@@ -35001,6 +35021,7 @@ immanent
 immanentism
 immanentisms
 immanentists
+immaterial
 immaterialisms
 immaterialists
 immaterializes
@@ -36532,6 +36553,7 @@ inshrine
 inshrined
 inside
 insider
+insiders
 insidiousnesses
 insight
 insightful
@@ -38502,6 +38524,7 @@ kabbalah
 kabbalahs
 kabbalisms
 kabbalist
+kabbalists
 kabeljou
 kabeljous
 kabiki
@@ -40940,6 +40963,7 @@ list
 listable
 listel
 listels
+listenable
 listened
 listener
 listenership
@@ -51163,6 +51187,7 @@ overstrew
 overstrewed
 overstride
 overstrung
+overstudied
 overstudies
 overstuff
 overstuffed
@@ -52125,6 +52150,7 @@ pardah
 pardonableness
 pardoning
 pards
+parecisms
 pareira
 pareiras
 parenchymatous
@@ -54248,6 +54274,7 @@ pieties
 pietistic
 pietistically
 piezoelectric
+piffle
 piffled
 piffles
 piffling
@@ -57680,6 +57707,7 @@ protester
 protesters
 protests
 prothalli
+prothalluses
 prothonotaries
 prothonotary
 prothoraces
@@ -60406,6 +60434,7 @@ reefable
 reefier
 reefing
 reefs
+reefy
 reeject
 reejecting
 reek
@@ -61652,6 +61681,7 @@ reprogramming
 reprographic
 reprographics
 reprographies
+reproof
 reproofs
 reprove
 reprover
@@ -62945,6 +62975,7 @@ rinsable
 rinse
 rinses
 rinsing
+rioting
 riotously
 riotousness
 riots
@@ -66036,6 +66067,7 @@ setts
 setulose
 seven
 sevens
+seventeen
 seventeens
 seventh
 seventhly
@@ -67372,6 +67404,7 @@ skeen
 skeens
 skeets
 skein
+skeined
 skeining
 skeletal
 skeleton
@@ -71165,6 +71198,7 @@ subcenters
 subchapters
 subchief
 subchiefs
+subclaim
 subclans
 subclass
 subclassed
@@ -72382,6 +72416,7 @@ surpliced
 surplus
 surplusages
 surpluses
+surplusing
 surplussed
 surplusses
 surplussing
@@ -79833,6 +79868,7 @@ vaporizing
 vaporlike
 vaporous
 vapors
+vaporware
 vaporwares
 vapory
 vapour
@@ -80017,6 +80053,7 @@ veiled
 veiler
 veilers
 veiling
+veillike
 vein
 veinal
 veiner
@@ -80559,6 +80596,7 @@ vireo
 vireonine
 vireonines
 vires
+virescence
 virescences
 virga
 virgas
@@ -82420,6 +82458,7 @@ womanish
 womanishly
 womanishness
 womanising
+womanist
 womanize
 womanizer
 womanizes
