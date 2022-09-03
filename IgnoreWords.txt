@@ -4649,6 +4649,7 @@ autotomic
 autotomies
 autotomize
 autotomized
+autotomizes
 autotomizing
 autotomy
 autotoxic
@@ -9136,6 +9137,7 @@ burgh
 burgher
 burglariously
 burglarized
+burglarizing
 burglarproof
 burglars
 burgled
@@ -10022,6 +10024,7 @@ cantors
 cantos
 cantrap
 canular
+canulas
 canulated
 canulates
 canvasbacks
@@ -14091,6 +14094,7 @@ conceitedness
 conceivability
 conceive
 conceived
+conceivers
 conceives
 concelebrant
 concelebrates
@@ -16780,6 +16784,7 @@ curdles
 curdling
 curds
 cure
+curer
 curers
 curet
 curets
@@ -18134,6 +18139,7 @@ deforestation
 deforested
 deforesting
 deforests
+deform
 deformable
 deformalizes
 deformation
@@ -23929,6 +23935,7 @@ epitheliomas
 epithelium
 epitheliums
 epithelization
+epithelized
 epithelizing
 epithet
 epithetic
@@ -29902,6 +29909,7 @@ glancer
 glancers
 glances
 glancingly
+glandered
 glandless
 glandular
 glandularly
@@ -31537,6 +31545,7 @@ habaneras
 habanero
 habdalahs
 haberdashers
+haberdashery
 habiliment
 habiliments
 habilitated
@@ -33168,6 +33177,7 @@ histoid
 histologically
 histologist
 histologists
+histolysis
 histone
 histopathology
 histoplasmosis
@@ -33177,6 +33187,7 @@ historically
 historicity
 historicizing
 historiographer
+historiographic
 historiography
 history
 histrionics
@@ -39226,6 +39237,7 @@ kyak
 kyanise
 kyanised
 kyanite
+kyanize
 kyanizing
 kyar
 kyars
@@ -40308,6 +40320,7 @@ levelled
 leveller
 levellers
 levelling
+levelness
 levelnesses
 levels
 leveret
@@ -41006,6 +41019,7 @@ lobstermen
 lobstick
 lobsticks
 lobular
+lobularly
 lobulations
 lobule
 lobworm
@@ -41565,6 +41579,7 @@ lunulate
 lunulated
 lunule
 lupanar
+lupins
 lupulins
 lurch
 lurched
@@ -47891,6 +47906,7 @@ nonpunitive
 nonquantitative
 nonquota
 nonracial
+nonracially
 nonradioactive
 nonrailroad
 nonrandom
@@ -48446,6 +48462,7 @@ oasthouses
 oatcake
 oatcakes
 oath
+oatmeals
 oats
 oaves
 oba
@@ -49486,6 +49503,7 @@ orphans
 orphical
 orphically
 orphisms
+orphrey
 orphreyed
 orpiment
 orpine
@@ -54440,6 +54458,7 @@ pitilessly
 pitilessness
 pitilessnesses
 pitmans
+pitta
 pittance
 pittances
 pittas
@@ -55710,6 +55729,7 @@ postsynaptic
 postsyncing
 postteen
 posttensioned
+posttensioning
 posttensions
 posttransfusion
 posttraumatic
@@ -58626,6 +58646,7 @@ quinoid
 quinolone
 quinols
 quinone
+quinonoid
 quinquennials
 quinquennium
 quinsy
@@ -59070,6 +59091,7 @@ ranid
 ranis
 rank
 ranked
+ranker
 rankers
 rankings
 rankish
@@ -59287,6 +59309,7 @@ rawhide
 rawhided
 rawhiding
 rawin
+rawins
 rawinsondes
 rawish
 rawly
@@ -61529,6 +61552,7 @@ requiems
 requiescat
 requiescats
 requin
+requins
 requirements
 requires
 requisite
@@ -62688,6 +62712,7 @@ rightness
 rightnesses
 righto
 rights
+rightsize
 rightsizing
 righty
 rigid
@@ -64072,6 +64097,7 @@ saponin
 saponine
 saponins
 saporous
+sapors
 sapour
 sapphism
 sappiness
@@ -64780,6 +64806,7 @@ scowling
 scows
 scrabbliest
 scrabbling
+scrag
 scragged
 scraggily
 scragglier
@@ -65655,6 +65682,7 @@ septime
 septimes
 septuagenarians
 septum
+septums
 septupled
 septuplets
 sepulchral
@@ -65941,6 +65969,7 @@ shaddocks
 shade
 shaded
 shadeless
+shades
 shadiness
 shadoof
 shadoofs
@@ -66691,6 +66720,7 @@ sicked
 sickee
 sickees
 sicken
+sickeners
 sickening
 sickeningly
 sickens
@@ -76662,6 +76692,7 @@ turbulently
 turd
 tureens
 turf
+turfed
 turfgrasses
 turfing
 turfless
@@ -77571,6 +77602,7 @@ uncountable
 uncouplers
 uncouples
 uncourageous
+uncouthnesses
 uncover
 uncovers
 uncracked
@@ -79088,6 +79120,7 @@ upheave
 upheavers
 upheaves
 upheaving
+uphoard
 uphoarded
 uphoards
 uphold
@@ -82272,6 +82305,7 @@ woofer
 woofing
 wooingly
 wool
+woolen
 wooler
 woolers
 woolfells
@@ -82611,6 +82645,7 @@ xylophonists
 xylose
 xyloses
 xylyls
+xysti
 xystoi
 yabber
 yabbie
