@@ -1380,6 +1380,7 @@ akelas
 akene
 akimbo
 akin
+akinesia
 akinesias
 akinetic
 alabaster
@@ -3609,6 +3610,7 @@ ardebs
 ardency
 ardently
 ardor
+ardours
 arduously
 are
 areae
@@ -5989,6 +5991,7 @@ beechwood
 beechy
 beedi
 beedies
+beef
 beefalo
 beefaloes
 beefcake
@@ -6092,6 +6095,7 @@ begrimmed
 begroan
 begroaning
 begrudge
+begrudged
 begrudger
 begs
 beguiler
@@ -10118,6 +10122,7 @@ caplet
 caplin
 capo
 capoeira
+caponata
 caponatas
 caponier
 caponiers
@@ -11094,6 +11099,7 @@ cerated
 cerates
 ceratodus
 ceratoduses
+cercal
 cercaria
 cercarians
 cercises
@@ -11638,6 +11644,7 @@ cheongsams
 cheque
 chequering
 chequers
+cherimoya
 cherimoyas
 cherish
 cherishable
@@ -16210,6 +16217,7 @@ criminy
 crimp
 crimping
 crimples
+crimpling
 crimpy
 crimson
 crimsoned
@@ -19331,6 +19339,7 @@ dezinced
 dezincs
 dhak
 dhal
+dhals
 dharnas
 dhobis
 dhoolies
@@ -19426,6 +19435,7 @@ diamagnetism
 diamante
 diamantes
 diameter
+diametric
 diamin
 diamins
 diamond
@@ -20096,6 +20106,7 @@ discerning
 discernment
 discernments
 discharge
+dischargeable
 dischargee
 dischargees
 discharger
@@ -23970,6 +23981,7 @@ episomal
 epistemically
 epistemological
 epistemology
+episterna
 episternum
 epistle
 epistles
@@ -24761,6 +24773,7 @@ exactas
 exacter
 exacters
 exactest
+exactingly
 exactingness
 exactions
 exactness
@@ -26924,6 +26937,7 @@ flannel
 flannelets
 flannelette
 flannelettes
+flannelled
 flannelling
 flannelly
 flap
@@ -34894,6 +34908,7 @@ illusionistic
 illusive
 illusively
 illusivenesses
+illusoriness
 illusorinesses
 illusory
 illustrated
@@ -37832,6 +37847,7 @@ jackrabbits
 jackrolled
 jackrolls
 jackscrew
+jacksnipes
 jackstays
 jackstone
 jackstraw
@@ -38666,6 +38682,7 @@ keelless
 keen
 keened
 keener
+keening
 keenly
 keens
 keeper
@@ -41949,6 +41966,7 @@ maddest
 madeleine
 mademoiselle
 maderize
+maderizes
 maderizing
 madhouses
 madmen
@@ -46298,6 +46316,7 @@ mustelids
 muster
 mustering
 musters
+musth
 mustier
 mustily
 mustiness
@@ -50372,6 +50391,7 @@ outstroke
 outstrove
 outstudy
 outstunt
+outstunted
 outstunting
 outstunts
 outsulk
@@ -52426,6 +52446,7 @@ patamars
 patchable
 patchboard
 patcher
+patchers
 patches
 patchier
 patchiest
@@ -55374,6 +55395,7 @@ polygraph
 polygraphers
 polygraphic
 polygraphing
+polygraphists
 polygynies
 polygynous
 polyhedrons
@@ -59466,6 +59488,7 @@ razz
 razzamatazz
 razzberry
 razzed
+razzing
 razzmatazz
 re
 reabsorbed
@@ -63777,6 +63800,7 @@ sackbuts
 sackcloths
 sacker
 sacking
+sacklike
 saclike
 sacralize
 sacralizing
@@ -63949,6 +63973,7 @@ salicin
 salicine
 salicylate
 salicylates
+saliences
 saliencies
 salient
 saliently
@@ -67664,6 +67689,7 @@ sleekest
 sleekness
 sleeknesses
 sleeky
+sleepier
 sleepiest
 sleepings
 sleepovers
@@ -69301,6 +69327,7 @@ spinsterhood
 spinsters
 spinthariscope
 spinto
+spintos
 spinule
 spinulose
 spiny
@@ -69781,6 +69808,7 @@ squints
 squinty
 squirearchies
 squirearchy
+squireens
 squires
 squiring
 squirish
@@ -71647,6 +71675,7 @@ succulence
 succulent
 succumbs
 succussed
+succussing
 such
 suchlike
 suchness
@@ -74618,6 +74647,7 @@ thrombokinase
 thromboplastic
 thromboplastin
 thromboplastins
+thrombosed
 thromboses
 thrombosis
 thromboxane
@@ -74752,6 +74782,7 @@ tickings
 tickles
 ticklish
 ticklishnesses
+ticks
 tickseeds
 ticktacktoe
 ticktocked
@@ -75187,6 +75218,7 @@ tombacks
 tombless
 tombola
 tombolas
+tombolos
 tomboyishness
 tombstone
 tombstones
@@ -77087,6 +77119,7 @@ tying
 tyke
 tykes
 tymbal
+tympana
 tympani
 tympanic
 tympanies
@@ -80338,6 +80371,7 @@ vicariate
 vicariously
 vicariousnesses
 vicarly
+vicars
 vicarship
 vice
 vicegeral
@@ -80629,6 +80663,7 @@ visualities
 visualizations
 visualized
 visualizer
+visually
 visuals
 vita
 vitae
