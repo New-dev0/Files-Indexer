@@ -604,6 +604,7 @@ adaptations
 adapted
 adapter
 adapters
+adaptivities
 adaptivity
 adaptors
 addax
@@ -1336,6 +1337,7 @@ airframes
 airfreight
 airfreighted
 airfreighting
+airhead
 airholes
 airiest
 airings
@@ -1383,6 +1385,7 @@ ais
 aisles
 aitches
 ajee
+ajivas
 ajowan
 ajuga
 akees
@@ -1506,6 +1509,7 @@ alfilarias
 alforjas
 algae
 algaecide
+algal
 algarrobas
 algarrobo
 algebra
@@ -6247,6 +6251,7 @@ belligerences
 belligerency
 bellmen
 bellow
+bellowed
 bellowing
 bellows
 bellpulls
@@ -14662,6 +14667,7 @@ consecutive
 consecutiveness
 consent
 consented
+consenting
 consentingly
 consents
 consequences
@@ -17187,6 +17193,7 @@ cyborg
 cycadophytes
 cycas
 cycasin
+cyclamate
 cyclamen
 cyclecar
 cyclecars
@@ -17916,6 +17923,7 @@ decelerated
 decelerations
 deceleron
 decelerons
+decemviral
 decemvirate
 decemvirates
 decemviri
@@ -19344,6 +19352,7 @@ deuterides
 deuteriums
 deuteron
 deuterons
+deuterostome
 dev
 deva
 devaluates
@@ -20749,6 +20758,7 @@ disseminule
 dissension
 dissented
 dissentient
+dissentions
 dissents
 dissert
 dissertate
@@ -21756,6 +21766,7 @@ driegh
 dries
 driest
 driftage
+drifted
 drifter
 driftiest
 driftingly
@@ -21975,6 +21986,7 @@ dudishly
 due
 duecento
 duel
+dueling
 duelists
 duelled
 duelli
@@ -22076,6 +22088,7 @@ dunner
 dunness
 dunnite
 duns
+dunted
 dunting
 dunts
 duo
@@ -22487,6 +22500,7 @@ ecotourisms
 ecotourists
 ecotours
 ecotype
+ecotypes
 ecru
 ecrus
 ecstatic
@@ -29644,6 +29658,7 @@ gen
 gendarme
 gendarmes
 gender
+gendered
 gendering
 genderized
 genderizes
@@ -32975,6 +32990,7 @@ hemolyzes
 hemolyzing
 hemophiliac
 hemophiliacs
+hemophilias
 hemopoieses
 hemopoiesis
 hemorrhages
@@ -34966,6 +34982,7 @@ ideas
 ideate
 ideates
 ideating
+ideation
 ideational
 ideative
 idem
@@ -45337,6 +45354,7 @@ moat
 moats
 mobbers
 mobbishly
+mobbism
 mobcap
 mobcaps
 mobilises
@@ -45577,6 +45595,7 @@ mongol
 mongolism
 mongoloid
 mongoloids
+mongols
 mongoose
 mongrel
 mongrelize
@@ -46724,6 +46743,7 @@ mycorhizas
 mycorrhizae
 mycorrhizal
 mycotoxins
+mycs
 mydriases
 mydriatic
 myelin
@@ -46830,6 +46850,7 @@ myxomatoses
 myxomycete
 myxomycetes
 na
+naans
 nabbed
 nabbing
 nabis
@@ -52868,6 +52889,7 @@ patriarchs
 patriarchy
 patrician
 patricians
+patriciate
 patriciates
 patricidal
 patricide
@@ -57667,6 +57689,7 @@ progeny
 progestational
 progestin
 progestins
+progger
 progging
 proglottid
 prognathism
@@ -59308,6 +59331,7 @@ racemizations
 racemized
 racemizing
 racer
+races
 racetrack
 racetrackers
 racewalk
@@ -59469,6 +59493,7 @@ ragas
 ragbag
 rage
 raggedier
+raggediest
 raggedly
 raggies
 raggle
@@ -62707,6 +62732,7 @@ retorn
 retorsion
 retorsions
 retort
+retorting
 retortions
 retotal
 retotalling
@@ -63120,6 +63146,7 @@ rhombencephala
 rhombical
 rhombohedra
 rhomboidal
+rhomboideus
 rhombus
 rhonchi
 rhonchus
@@ -67916,6 +67943,7 @@ skinked
 skinker
 skinkers
 skinking
+skinks
 skinless
 skinned
 skinners
@@ -70026,6 +70054,7 @@ sporular
 sporulates
 sporulating
 sporulative
+sporules
 spot
 spotless
 spotlessly
@@ -74048,6 +74077,7 @@ teacup
 teacups
 teahouse
 teahouses
+teak
 teakettles
 teakwood
 tealike
@@ -75016,6 +75046,7 @@ thirties
 thirtieths
 thirty
 thirtyish
+this
 thisaway
 thistledowns
 thistliest
@@ -76991,6 +77022,7 @@ trochophore
 trocked
 trocking
 trod
+troffer
 troffers
 trog
 troglodyte
@@ -78750,6 +78782,8 @@ unfeigned
 unfeignedly
 unfence
 unfencing
+unfertilized
+unfetter
 unfettered
 unfetters
 unfiltered
@@ -80734,6 +80768,7 @@ verditers
 verdure
 verdured
 verdurous
+vergence
 verger
 vergers
 verglas
