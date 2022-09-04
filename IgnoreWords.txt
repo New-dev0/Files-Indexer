@@ -4094,6 +4094,7 @@ asserting
 assertion
 assertions
 assertiveness
+assertivenesses
 assertor
 asserts
 assess
@@ -4699,6 +4700,7 @@ autophagy
 autophytes
 autopilot
 autopilots
+autopsic
 autopsied
 autopsies
 autoradiogram
@@ -16320,6 +16322,7 @@ crepuscular
 crescendi
 crescendoes
 crescendoing
+crescendos
 crescents
 crescive
 crescively
@@ -16411,6 +16414,7 @@ cripe
 cripes
 crippled
 cripples
+crisis
 crisp
 crispate
 crispated
@@ -16891,6 +16895,7 @@ cultivation
 cultivator
 cultivators
 cultrate
+cultrated
 cults
 cultural
 culturally
@@ -17288,6 +17293,7 @@ cycloparaffin
 cycloparaffins
 cyclopean
 cyclopedia
+cyclopedias
 cyclopes
 cyclopropane
 cyclops
@@ -19559,6 +19565,7 @@ diabolizes
 diabolo
 diabolos
 diachrony
+diacid
 diacidic
 diaconate
 diaconates
@@ -22296,6 +22303,7 @@ dynamotor
 dynamotors
 dynastic
 dynatron
+dynein
 dynel
 dynes
 dynode
@@ -22595,6 +22603,7 @@ ectoplasms
 ectosarc
 ectotherm
 ectothermic
+ectotherms
 ectype
 ecumenically
 ecumenicism
@@ -23734,6 +23743,7 @@ enkindles
 enkindling
 enlace
 enlacements
+enlargement
 enlargements
 enlarger
 enlarges
@@ -25214,6 +25224,7 @@ exemplary
 exemplification
 exemplified
 exemplify
+exemplifying
 exemplum
 exempted
 exemption
@@ -27540,6 +27551,7 @@ florid
 floridity
 floridness
 floridnesses
+florist
 floristic
 floristries
 florists
@@ -29625,6 +29637,7 @@ gaur
 gaurs
 gauss
 gausses
+gauzier
 gauziest
 gauzy
 gave
@@ -36124,6 +36137,7 @@ incredibilities
 incredibleness
 incredibly
 incredulously
+incrementalism
 incrementally
 increscent
 incriminate
@@ -37395,6 +37409,7 @@ interparticle
 interparty
 interpellated
 interpellator
+interpellators
 interpermeates
 interpermeating
 interphalangeal
@@ -37413,6 +37428,7 @@ interpose
 interposed
 interposes
 interposing
+interpositions
 interpretable
 interpretations
 interpreted
@@ -37477,6 +37493,7 @@ intersterility
 interstice
 interstitially
 interstrand
+interstratifies
 interstratify
 intersystem
 interterminal
@@ -38253,6 +38270,7 @@ jackpots
 jackrabbits
 jackrolled
 jackrolls
+jacks
 jackscrew
 jacksnipes
 jackstays
@@ -38561,6 +38579,7 @@ jingko
 jingkoes
 jingle
 jingled
+jinglier
 jingliest
 jingling
 jingoish
@@ -41653,6 +41672,7 @@ lodicule
 lodicules
 loesses
 lofted
+loftier
 loftily
 loftiness
 loftless
@@ -44081,6 +44101,7 @@ metallics
 metalliferous
 metalling
 metallists
+metallize
 metallizes
 metallizing
 metallographer
@@ -45003,6 +45024,7 @@ mischiefs
 mischievous
 mischievously
 mischievousness
+mischoices
 mischose
 mischosen
 miscibilities
@@ -47619,6 +47641,7 @@ neurofibrillary
 neurofibromas
 neurogenic
 neurohormonal
+neurohormones
 neurohumor
 neurohumoral
 neurohypophyses
@@ -50289,6 +50312,7 @@ osteologies
 osteomalacia
 osteomyelitis
 osteomyelitises
+osteopath
 osteopathic
 osteopathy
 osteoplasty
@@ -51019,6 +51043,7 @@ outwind
 outwinded
 outwish
 outwished
+outwishes
 outwishing
 outwit
 outwitted
@@ -51048,6 +51073,7 @@ ovariotomy
 ovary
 ovately
 ovation
+oven
 ovenbird
 ovenlike
 ovenproof
@@ -52850,6 +52876,7 @@ particularising
 particularisms
 particularists
 particularities
+particularity
 particularizes
 particularly
 particulars
@@ -55482,6 +55509,7 @@ pleatless
 pleats
 pleb
 plebeianism
+plebeianisms
 plebeianly
 plebiscites
 plebs
@@ -61879,6 +61907,7 @@ remediating
 remediation
 remediations
 remediless
+remedying
 remeeting
 remelted
 remelts
@@ -62953,6 +62982,7 @@ retiree
 retirees
 retiring
 retiringnesses
+retitling
 retold
 retook
 retool
@@ -65457,6 +65487,7 @@ schmaltz
 schmalz
 schmalziest
 schmatte
+schmearing
 schmeering
 schmeers
 schmelzes
@@ -73248,6 +73279,7 @@ swabby
 swacked
 swaddle
 swaddled
+swaddles
 swag
 swagers
 swages
@@ -79193,6 +79225,7 @@ unhappiness
 unharmed
 unharnessed
 unharnesses
+unharvested
 unhasty
 unhatched
 unhatting
@@ -82354,6 +82387,7 @@ wavily
 waviness
 wavinesses
 wavy
+waw
 wawl
 wawled
 wawling
@@ -83954,6 +83988,7 @@ yodeller
 yodellers
 yodelling
 yodels
+yodhs
 yodle
 yodler
 yodlers
