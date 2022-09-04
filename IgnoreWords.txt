@@ -5214,6 +5214,7 @@ bakeshop
 baklava
 baksheeshes
 bakshish
+bakshishes
 bakshishing
 bal
 balance
@@ -9092,6 +9093,7 @@ buildups
 buirdly
 bulbed
 bulbils
+bulblet
 bulbous
 bulbs
 bulbul
@@ -9364,6 +9366,7 @@ busgirls
 bush
 bushbucks
 busheler
+busheling
 bushelled
 busheller
 bushellers
@@ -9718,6 +9721,7 @@ caiman
 caique
 cairds
 cairngorm
+cairngorms
 caisson
 caissons
 caitiff
@@ -11239,6 +11243,7 @@ cerated
 cerates
 ceratodus
 ceratoduses
+ceratoid
 cercal
 cercaria
 cercarians
@@ -12709,6 +12714,7 @@ clarification
 clarifier
 clarifies
 clarify
+clarinet
 clarinetists
 clarinets
 clarion
@@ -15754,6 +15760,7 @@ counselings
 counselled
 counselling
 counsellings
+counsellor
 counsellors
 counselorship
 counselorships
@@ -16524,6 +16531,7 @@ crookedest
 crookednesses
 crookeries
 crookneck
+crooks
 croon
 crooners
 croons
@@ -17710,6 +17718,7 @@ darter
 darters
 dartle
 dash
+dashboard
 dashboards
 dashed
 dasheens
@@ -19260,6 +19269,7 @@ desorb
 desorbed
 desorption
 desorptions
+despair
 despaired
 despatch
 desperadoes
@@ -21292,6 +21302,7 @@ dolefully
 dolerite
 doll
 dollars
+dolled
 dollhouse
 dollhouses
 dollies
@@ -23158,6 +23169,7 @@ embezzles
 embezzling
 embitter
 embittered
+embitterment
 embitters
 emblazed
 emblazer
@@ -24701,6 +24713,7 @@ estreating
 estreats
 estrogenic
 estrones
+estrual
 estrums
 estuarine
 esurient
@@ -24999,6 +25012,7 @@ eventful
 eventide
 events
 eventuated
+eventuates
 eventuating
 everglade
 everglades
@@ -26389,6 +26403,7 @@ feedboxes
 feedgrain
 feedgrains
 feedhole
+feeding
 feedlot
 feeds
 feedstocks
@@ -37037,6 +37052,7 @@ insolates
 insolating
 insolences
 insolently
+insoles
 insolubilities
 insolubility
 insolubilizes
@@ -37058,6 +37074,7 @@ inspans
 inspected
 inspectors
 inspects
+insphered
 inspheres
 inspiration
 inspirator
@@ -41001,6 +41018,7 @@ libations
 libbers
 libecchio
 libeccio
+libel
 libelants
 libeled
 libelees
@@ -49762,6 +49780,7 @@ omelet
 omelets
 omelette
 omelettes
+omen
 omened
 omening
 omenta
@@ -50306,6 +50325,7 @@ orthostatic
 orthotic
 orthotics
 orthotropous
+ortolans
 oryx
 oryxes
 os
@@ -59321,6 +59341,7 @@ quake
 quaker
 quakers
 quakier
+quakiest
 qualia
 qualification
 qualifications
@@ -60841,6 +60862,7 @@ recourses
 recover
 recoverers
 recoveries
+recovering
 recovery
 recrate
 recrated
@@ -61493,6 +61515,7 @@ regimenting
 regina
 reginae
 reginas
+regional
 regionalism
 regionalisms
 regionalists
@@ -63558,6 +63581,7 @@ rick
 ricketier
 rickeys
 ricking
+rickracks
 ricks
 ricksha
 rickshas
@@ -64128,8 +64152,10 @@ rostrum
 rotameter
 rotary
 rotas
+rotatable
 rotates
 rotating
+rotation
 rotations
 rotatively
 rotators
@@ -64187,6 +64213,7 @@ roughhewing
 roughhoused
 roughies
 roughleg
+roughlegs
 roughneck
 roughnecking
 roughnecks
@@ -65726,6 +65753,7 @@ scorbutic
 scorches
 scoreboard
 scorecard
+scorecards
 scored
 scorekeepers
 scoriae
@@ -72580,6 +72608,7 @@ suction
 suctional
 suctioning
 suctorian
+suctorians
 sudaries
 sudations
 sudatories
@@ -81835,6 +81864,7 @@ voicelessness
 voicelessnesses
 voiceover
 voiceovers
+voiceprints
 voicer
 voicing
 voicings
@@ -82734,6 +82764,7 @@ wergelds
 wergelts
 wergild
 wert
+wessand
 westbound
 westerlies
 westerner
@@ -83593,6 +83624,7 @@ wordage
 wordbook
 wordless
 wordlessness
+wordlessnesses
 wordmonger
 wordplays
 words
@@ -83695,6 +83727,7 @@ worths
 worthwhileness
 worthy
 wos
+wost
 wots
 wotting
 would
@@ -83975,6 +84008,7 @@ yaup
 yauped
 yauper
 yaupers
+yaupons
 yawed
 yawing
 yawl
@@ -84197,6 +84231,7 @@ zaffar
 zaffars
 zaffer
 zaffir
+zaffirs
 zag
 zagging
 zaikai
