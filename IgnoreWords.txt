@@ -244,6 +244,7 @@ acclimatizes
 acclivities
 accolade
 accolading
+accommodate
 accommodating
 accommodatingly
 accommodation
@@ -2611,6 +2612,7 @@ annunciating
 annunciatory
 anoa
 anoas
+anodal
 anodization
 anodizations
 anodize
@@ -6793,6 +6795,7 @@ bilging
 bilharziases
 biliary
 bilinear
+biliousness
 biliverdin
 biliverdins
 bilk
@@ -7263,6 +7266,7 @@ blameworthy
 blaming
 blanch
 blancher
+blanching
 bland
 blander
 blandishes
@@ -8594,6 +8598,7 @@ bridles
 bridling
 bridoon
 bridoons
+brie
 brief
 briefcase
 briefed
@@ -19427,6 +19432,7 @@ dexter
 dexterity
 dexterous
 dexterousness
+dexterousnesses
 dextral
 dextran
 dextrins
@@ -20423,6 +20429,7 @@ disgrace
 disgraced
 disgraceful
 disgracefulness
+disgracing
 disgruntle
 disgruntlement
 disgruntles
@@ -24384,6 +24391,7 @@ erythromycins
 erythron
 erythrons
 erythropoieses
+erythropoietic
 erythropoietin
 erythrosin
 erythrosins
@@ -24984,6 +24992,7 @@ excipients
 exciple
 excise
 excised
+excisemen
 excises
 excision
 excisional
@@ -26573,6 +26582,7 @@ fictionization
 fictionizations
 fictitious
 fictitiousness
+fictively
 fictivenesses
 ficus
 fiddleback
@@ -29209,6 +29219,7 @@ gaminesses
 gaming
 gamins
 gamma
+gammadion
 gammed
 gammier
 gamming
@@ -31037,6 +31048,7 @@ gravestone
 graveyard
 gravida
 gravidae
+gravidities
 gravidity
 gravies
 gravimeter
@@ -34840,6 +34852,7 @@ hyssop
 hysterectomies
 hysteresis
 hysterias
+hysterics
 iamb
 iambus
 iambuses
@@ -35797,6 +35810,7 @@ incinerate
 incinerated
 incinerates
 incinerator
+incipiences
 incipit
 incipits
 incisal
@@ -41222,6 +41236,7 @@ lithographers
 lithographing
 lithographs
 lithoidal
+lithological
 lithologically
 lithology
 lithophanes
@@ -42436,6 +42451,7 @@ malfunction
 malfunctioning
 malgre
 malice
+malices
 malicious
 maliciousness
 malignance
@@ -42909,6 +42925,7 @@ marsupials
 mart
 marted
 martellos
+martensite
 martensites
 martensitically
 martially
@@ -44802,6 +44819,7 @@ misconnecting
 misconnection
 misconnections
 misconnects
+misconstruction
 misconstrued
 misconstrues
 miscook
@@ -45005,6 +45023,7 @@ misnamed
 misnomer
 misnomered
 misnomers
+misnumber
 misnumbered
 misnumbering
 miso
@@ -45462,6 +45481,7 @@ momi
 momism
 mommy
 moms
+momsers
 momus
 momuses
 momzer
@@ -46517,6 +46537,7 @@ muse
 museologies
 museology
 muser
+musers
 museum
 musher
 mushers
@@ -47398,6 +47419,7 @@ neurosis
 neurosporas
 neurosurgeons
 neurosurgery
+neurosurgical
 neurotic
 neurotically
 neurotomy
@@ -49667,6 +49689,7 @@ optima
 optimal
 optimalities
 optime
+optimisations
 optimised
 optimises
 optimisms
@@ -52447,6 +52470,7 @@ pargylines
 pariahs
 parians
 paris
+parish
 parishioners
 parities
 park
@@ -53394,6 +53418,7 @@ perching
 percipience
 percipiences
 percipient
+percipients
 percoid
 percoids
 percolate
@@ -55186,6 +55211,7 @@ pleasingness
 pleasurable
 pleasurableness
 pleasurably
+pleasured
 pleasureless
 pleasures
 pleaters
@@ -57667,6 +57693,7 @@ proletarianizes
 proletarians
 proletary
 proliferations
+proliferative
 prolific
 prolificacies
 prolificness
@@ -59267,6 +59294,7 @@ racist
 racked
 rackers
 racketed
+racketeering
 racketier
 rackfuls
 racking
@@ -61119,6 +61147,7 @@ regretfulnesses
 regrettable
 regrettably
 regretted
+regretting
 regrinds
 regroom
 regroomed
@@ -62503,6 +62532,7 @@ resuscitations
 resuscitative
 resuspended
 reswallowed
+resynthesize
 resynthesizes
 resystematize
 resystematizing
@@ -62541,6 +62571,7 @@ retax
 retaxed
 retched
 retches
+retching
 reteam
 retear
 retears
@@ -66871,6 +66902,7 @@ shinney
 shinnied
 shinnies
 shinning
+shinny
 shinnying
 shinplasters
 shins
@@ -70919,6 +70951,7 @@ stollens
 stolonate
 stomachaches
 stomacher
+stomachic
 stomachics
 stomaching
 stomachs
@@ -77381,6 +77414,7 @@ turtler
 turtles
 tushed
 tushery
+tushies
 tusker
 tuskers
 tusking
@@ -78786,6 +78820,7 @@ unheroic
 unhesitatingly
 unhewn
 unhinged
+unhinging
 unhirable
 unhitched
 unholier
