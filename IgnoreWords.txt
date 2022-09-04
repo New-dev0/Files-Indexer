@@ -1309,6 +1309,7 @@ aiming
 aims
 ain
 aiolis
+air
 airbound
 airbrushed
 airbrushes
@@ -4755,6 +4756,7 @@ avocado
 avocadoes
 avocados
 avocation
+avocational
 avocationally
 avodires
 avoid
@@ -5045,6 +5047,7 @@ backslides
 backspace
 backspaced
 backspacing
+backstabbed
 backstabbings
 backstabs
 backstage
@@ -5329,6 +5332,7 @@ bangkok
 bangkoks
 bangles
 bangs
+banian
 banians
 baning
 banisher
@@ -6532,6 +6536,7 @@ betaine
 betake
 betaking
 betattering
+betaxed
 betelnut
 betels
 bethanked
@@ -7053,6 +7058,7 @@ birdwatch
 birefringences
 birefringent
 biriani
+birk
 birkies
 birks
 birl
@@ -8001,6 +8007,7 @@ boral
 borane
 boras
 borating
+borax
 borborygmi
 bordeaux
 bordel
@@ -10430,6 +10437,7 @@ caring
 carioca
 cariogenic
 carioles
+cariosities
 caritas
 carjack
 carjacker
@@ -10720,6 +10728,7 @@ cataplexy
 catapult
 catapulted
 catapulting
+cataract
 catarrh
 catarrhally
 catarrhines
@@ -14109,6 +14118,7 @@ composters
 composure
 composures
 compound
+compoundable
 compounded
 comprador
 compradore
@@ -15294,6 +15304,7 @@ corkier
 corkinesses
 corklike
 corkscrew
+corkscrews
 corkwood
 cormels
 cormlike
@@ -18069,6 +18080,7 @@ decretive
 decrials
 decried
 decries
+decriminalize
 decriminalized
 decriminalizing
 decrowned
@@ -20767,6 +20779,7 @@ dissolvers
 dissolves
 dissonant
 dissuade
+dissuaded
 dissuader
 dissuaders
 dissuading
@@ -22828,6 +22841,7 @@ elenchic
 elephantine
 elevated
 elevateds
+elevation
 elevations
 elevators
 elevenses
@@ -23357,6 +23371,7 @@ endangerments
 endarch
 endarchies
 endarterectomy
+endbrain
 endbrains
 endeared
 endearing
@@ -29052,6 +29067,7 @@ galangas
 galantine
 galateas
 galavanted
+galavants
 galax
 galbanum
 gale
@@ -34479,6 +34495,7 @@ hydrogen
 hydrogenate
 hydrogens
 hydrographer
+hydrographies
 hydrography
 hydrokinetic
 hydrologic
@@ -34981,6 +34998,7 @@ iffy
 ifs
 igg
 igloos
+ignatia
 igneous
 ignescents
 ignified
@@ -36914,6 +36932,7 @@ intensifiers
 intensifies
 intensional
 intensionally
+intensity
 intensively
 intensivenesses
 intensives
@@ -38901,6 +38920,7 @@ ken
 kenafs
 kench
 kenches
+kendos
 kennel
 kenneling
 kennelled
@@ -55764,6 +55784,7 @@ pomologies
 pomologist
 pomologists
 pomology
+pomos
 pomp
 pompadour
 pompadours
@@ -56609,6 +56630,7 @@ preedit
 preedited
 preediting
 preelect
+preelected
 preelecting
 preelectric
 preemergence
@@ -57355,8 +57377,10 @@ pristinely
 privatdozent
 privatdozents
 privateering
+privateers
 privately
 privateness
+privatest
 privatised
 privatising
 privatisms
@@ -65124,6 +65148,7 @@ schusser
 schusses
 schvartzes
 schwa
+schwarmereis
 sciamachy
 sciatica
 sciaticas
@@ -69721,6 +69746,7 @@ splake
 splash
 splashboards
 splasher
+splashier
 splashiest
 splashily
 splashiness
@@ -72342,6 +72368,7 @@ supercargo
 supercargoes
 supercars
 supercautious
+supercedes
 superceding
 supercenters
 supercharger
@@ -72395,6 +72422,7 @@ superficial
 superficiality
 superfine
 superfirm
+superfluidities
 superfluids
 superfluities
 superfluousness
@@ -72653,6 +72681,7 @@ suras
 surbase
 surbased
 surceasing
+surcingle
 surcingles
 surcoats
 surd
@@ -75666,6 +75695,7 @@ tootled
 tootlers
 toots
 top
+topazine
 topcoat
 topcross
 tope
@@ -76158,6 +76188,7 @@ transfections
 transferals
 transference
 transferential
+transferor
 transferrable
 transferred
 transferrer
@@ -79422,6 +79453,7 @@ unstrung
 unstudied
 unsubdued
 unsubsidized
+unsubstantially
 unsubtle
 unsuccess
 unsuitabilities
@@ -79994,6 +80026,7 @@ utopisms
 utopistic
 utopists
 utricles
+utricular
 utriculi
 utter
 utterance
@@ -80618,6 +80651,7 @@ veronicas
 verruca
 verrucas
 versal
+versant
 versatileness
 versatilenesses
 versatilities
@@ -83378,6 +83412,7 @@ yenta
 yentas
 yente
 yeoman
+yeomanries
 yeomen
 yerbas
 yerked
