@@ -2738,6 +2738,7 @@ anthropogenic
 anthropoid
 anthropologists
 anthropometries
+anthropometry
 anthropomorphs
 anthropophagies
 anthroposophies
@@ -4234,6 +4235,7 @@ astronomer
 astronomers
 astronomical
 astrophotograph
+astrophysicist
 astrophysics
 astute
 astutely
@@ -5661,6 +5663,7 @@ bastinade
 bastinades
 bastinado
 bastinadoed
+basting
 bastioned
 bastions
 bat
@@ -6619,6 +6622,7 @@ beyonds
 bezant
 bezants
 bezazzes
+bezil
 bezique
 bezoar
 bezzants
@@ -7306,6 +7310,7 @@ blastocyst
 blastocysts
 blastoderms
 blastodiscs
+blastoff
 blastomycoses
 blastomycosis
 blastopore
@@ -10612,6 +10617,7 @@ caseworker
 caseworm
 caseworms
 cash
+cashaws
 cashbox
 cashes
 cashews
@@ -13276,6 +13282,7 @@ codependencies
 codependent
 coderives
 coderiving
+coders
 codes
 codesign
 codesigning
@@ -23311,6 +23318,7 @@ encinas
 encipher
 encipherer
 enciphering
+encipherment
 encipherments
 enciphers
 encircled
@@ -25748,6 +25756,7 @@ faggots
 faggy
 fagin
 fagoted
+fagoter
 fagoters
 fagoting
 fagots
@@ -26610,6 +26619,7 @@ fiefdoms
 fiefs
 fielded
 fieldfare
+fieldfares
 fieldpieces
 fieldsman
 fieldstrips
@@ -30361,6 +30371,7 @@ glossolalia
 glossolalias
 glossolalist
 glossy
+glost
 glottal
 glottic
 glottides
@@ -30474,6 +30485,7 @@ gnatlike
 gnattier
 gnatty
 gnawable
+gnawed
 gnawer
 gnawers
 gnawingly
@@ -32757,6 +32769,7 @@ heehawing
 heeled
 heeler
 heelers
+heelings
 heelless
 heelpiece
 heelpieces
@@ -33362,6 +33375,7 @@ hillside
 hillsides
 hillslope
 hillslopes
+hilly
 hilt
 hilted
 hilting
@@ -33404,6 +33418,7 @@ hipless
 hiplike
 hippieish
 hippienesses
+hippier
 hippies
 hippish
 hippo
@@ -42886,6 +42901,7 @@ marmots
 marplot
 marplots
 marque
+marquessates
 marqueteries
 marquetries
 marquis
@@ -51185,6 +51201,7 @@ overlaboring
 overlade
 overladed
 overladen
+overlades
 overlaid
 overlain
 overlands
@@ -51710,6 +51727,7 @@ pacas
 pace
 paced
 pacemakings
+pachadom
 pachalics
 pachas
 pachinko
@@ -55275,6 +55293,7 @@ pleuron
 pleuropneumonia
 plews
 plex
+plexor
 plexus
 plexuses
 pliably
@@ -61368,6 +61387,7 @@ rejector
 rejectors
 rejects
 rejigged
+rejiggered
 rejiggers
 rejigs
 rejoice
@@ -63855,6 +63875,7 @@ royals
 royalties
 royalty
 royster
+roysters
 rub
 rubaboo
 rubaiyat
@@ -64173,6 +64194,7 @@ sack
 sackbuts
 sackcloths
 sacker
+sackfuls
 sacking
 sacklike
 saclike
@@ -64788,6 +64810,7 @@ saturnism
 satyagraha
 satyriasis
 satyrid
+satyrids
 satyrlike
 satyrs
 sauce
@@ -65486,6 +65509,7 @@ scrubbily
 scrubby
 scrublands
 scrubwoman
+scruffiness
 scruffinesses
 scruffy
 scrummaged
@@ -67132,6 +67156,7 @@ showery
 showier
 showily
 showiness
+showmanships
 showpieces
 showplace
 showring
@@ -73765,6 +73790,7 @@ tantrism
 tanuki
 tanzanite
 tao
+tap
 tapa
 tapadera
 tapaderas
@@ -74896,6 +74922,7 @@ thigh
 thighbone
 thighbones
 thigmotaxes
+thigmotaxis
 thigmotropisms
 thimble
 thimbleful
@@ -78503,6 +78530,7 @@ undertenant
 undertenants
 undertint
 undertints
+undertones
 undertow
 undertows
 undertrick
@@ -78788,6 +78816,7 @@ unhallowed
 unhallowing
 unhallows
 unhalved
+unhand
 unhandier
 unhandled
 unhands
@@ -79229,6 +79258,7 @@ unpurged
 unpuzzle
 unpuzzles
 unpuzzling
+unquaking
 unqualified
 unquelled
 unquestionable
@@ -79295,6 +79325,7 @@ unrented
 unrepair
 unrepeatable
 unrepentant
+unrepentantly
 unrepressed
 unrequited
 unreserve
@@ -79415,6 +79446,7 @@ unshakable
 unshakably
 unshaken
 unshamed
+unshaped
 unshared
 unsheathes
 unshell
@@ -79863,6 +79895,7 @@ uprooting
 uproots
 uprose
 uprouse
+uprousing
 uprush
 uprushed
 uprushing
@@ -80601,6 +80634,7 @@ ventilators
 ventilatory
 venting
 ventless
+ventrals
 ventricle
 ventricular
 ventriculi
@@ -81538,6 +81572,7 @@ wagged
 waggeries
 waggery
 wagging
+waggish
 waggishnesses
 waggled
 waggles
