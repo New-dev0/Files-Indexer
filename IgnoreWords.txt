@@ -4373,6 +4373,7 @@ attainability
 attainable
 attainder
 attained
+attainers
 attainment
 attains
 attainting
@@ -7670,6 +7671,7 @@ boathooks
 boathouses
 boatings
 boatlift
+boatloads
 boatnecks
 boatsmen
 boatyard
@@ -12438,6 +12440,7 @@ circumambulates
 circumcenters
 circumcircles
 circumcised
+circumcising
 circumcision
 circumcisions
 circumference
@@ -13906,6 +13909,7 @@ commencer
 commencers
 commences
 commencing
+commendably
 commendation
 commenders
 commending
@@ -15641,6 +15645,7 @@ cottoned
 cottons
 cottonseeds
 cottontail
+cottonweeds
 cottonwood
 coturnix
 coturnixes
@@ -16411,6 +16416,7 @@ croceine
 croceines
 crocheter
 crocheters
+crochets
 croci
 crocidolite
 crocine
@@ -21236,6 +21242,7 @@ domiciling
 dominancies
 dominantly
 dominations
+dominator
 dominators
 dominatrices
 domine
@@ -26705,6 +26712,7 @@ filched
 filches
 filching
 file
+fileable
 filed
 filefish
 filefishes
@@ -27152,6 +27160,7 @@ flareup
 flash
 flashback
 flashbacks
+flashbulbs
 flashcard
 flashcube
 flashed
@@ -27191,6 +27200,7 @@ flats
 flatted
 flatten
 flattened
+flatteners
 flattens
 flatter
 flatterers
@@ -27638,6 +27648,7 @@ flyoff
 flyoffs
 flyover
 flyovers
+flypaper
 flypapers
 flyrodders
 flysheets
@@ -28698,6 +28709,7 @@ fruitages
 fruitcakes
 fruited
 fruiter
+fruiterer
 fruiters
 fruitful
 fruitfuller
@@ -29198,6 +29210,7 @@ galloot
 gallop
 galloper
 gallops
+gallowglass
 gallows
 galluses
 galoot
@@ -32412,6 +32425,7 @@ harpsichord
 harpsichordists
 harquebus
 harridan
+harridans
 harries
 harrows
 harrumphed
@@ -33916,6 +33930,7 @@ honkies
 honky
 honorability
 honorableness
+honorablenesses
 honorably
 honorand
 honorarium
@@ -37322,6 +37337,7 @@ interrupted
 interrupters
 interruptible
 interrupting
+interruptive
 interrupts
 inters
 interscholastic
@@ -40614,6 +40630,7 @@ lensless
 lent
 lentando
 lenten
+lentic
 lenticular
 lenticule
 lentigines
@@ -45348,6 +45365,7 @@ mixer
 mixible
 mixture
 mixup
+mixups
 mizen
 mizenmast
 mizuna
@@ -46653,6 +46671,7 @@ musquashes
 mussed
 mussily
 mussinesses
+mustache
 mustaches
 mustachios
 mustang
@@ -49100,6 +49119,7 @@ obsolescent
 obsoleting
 obstacle
 obstetricians
+obstinacy
 obstinate
 obstinately
 obstinateness
@@ -55493,6 +55513,7 @@ pneumatophore
 pneumatophores
 pneumococcal
 pneumococci
+pneumoconiosis
 pneumonitis
 pneumonitises
 poaceous
@@ -55759,6 +55780,7 @@ polychotomy
 polychrome
 polychromies
 polychromy
+polycistronic
 polyclonal
 polycrystal
 polycrystals
@@ -60362,6 +60384,7 @@ reclaimer
 reclaimers
 reclaims
 reclames
+reclasp
 reclasped
 reclassify
 reclean
@@ -63316,6 +63339,7 @@ rigadoons
 rigamarole
 rigatonis
 rigaudon
+rigged
 riggers
 right
 righteousness
@@ -67449,6 +67473,7 @@ sideswipe
 sideswiping
 sidetrack
 sidetracking
+sidewalk
 sidewall
 sidewalls
 sidewinders
@@ -68765,6 +68790,7 @@ snoozles
 snore
 snored
 snores
+snorkeler
 snorkelers
 snorkeling
 snort
@@ -68984,6 +69010,7 @@ softnesses
 software
 softwares
 sogged
+sogginess
 sogginesses
 soigne
 soignee
@@ -71264,6 +71291,7 @@ strasses
 stratal
 strategic
 strategical
+strategies
 strategists
 strategized
 strategizes
@@ -71473,6 +71501,7 @@ strove
 strowing
 stroyer
 stroyers
+stroys
 struck
 strucken
 structuralisms
@@ -71707,6 +71736,7 @@ subcomponents
 subconsciouses
 subcontinent
 subcontinental
+subcontracting
 subcontracts
 subcontraries
 subcooled
@@ -75477,6 +75507,7 @@ timesaving
 timescale
 timeserver
 timeservers
+timeserving
 timeservings
 timework
 timeworkers
@@ -76216,6 +76247,7 @@ tractability
 tractates
 tractional
 tractive
+tractor
 tractors
 tradable
 trade
@@ -78972,6 +79004,7 @@ unhurried
 unhusked
 unhusking
 unhusks
+unhydrolyzed
 unhygienic
 unhyphenated
 uniaxial
@@ -79476,6 +79509,7 @@ unrumpled
 uns
 unsaddled
 unsaddles
+unsafely
 unsafeties
 unsafety
 unsaid
@@ -81581,6 +81615,7 @@ vulcanized
 vulcanizer
 vulcanizes
 vulcanizing
+vulcanologist
 vulcanologists
 vulcanology
 vulgar
