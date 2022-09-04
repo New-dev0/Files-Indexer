@@ -1,0 +1,9 @@
+Documentation/devicetree/bindings/media/video-interfaces.txt,https://android.googlesource.com/kernel/msm/%2B/android-msm-bullhead-3.10-marshmallow-dr/Documentation/devicetree/bindings/media/video-interfaces.txt
+Endpoint-Independent Mapping. An EIM - IETF,https://www.ietf.org/rfc/rfc5128.txt
+pci-endpoint.txt - The Linux Kernel Archives,https://www.kernel.org/doc/Documentation/PCI/endpoint/pci-endpoint.txt
+pci-endpoint-cfs.txt,https://www.kernel.org/doc/Documentation/PCI/endpoint/pci-endpoint-cfs.txt
+RFC 5353,https://www.rfc-editor.org/rfc/rfc5353.txt
+SecLists/common-api-endpoints-mazen160.txt at master - GitHub,https://github.com/danielmiessler/SecLists/blob/master/Discovery/Web-Content/common-api-endpoints-mazen160.txt
+Agent Readme - Trend Micro,https://docs.trendmicro.com/all/ent/tmeac/v1.0/en-us/tmeac_1.0_patch2_agent_readme.txt
+Readme - Trend Micro,http://docs.trendmicro.com/all/ent/tmes/v1.6_update5/en-us/tmes_1.6_update5_readme.txt
+Endpoints and Endpoint Names: A Proposed,http://mercury.lcs.mit.edu/~jnc/tech/endpoints.txt
