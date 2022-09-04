@@ -264,6 +264,7 @@ accorded
 accorder
 accorders
 accordingly
+accordionist
 accordions
 accosting
 accosts
@@ -2692,6 +2693,7 @@ antecedents
 anteceding
 antecessor
 antecessors
+antechapels
 antechoirs
 anted
 antedate
@@ -15510,6 +15512,7 @@ corrivals
 corroborant
 corroborative
 corroborator
+corroborees
 corrode
 corroded
 corrodible
@@ -23409,6 +23412,7 @@ enclave
 enclaves
 enclaving
 enclose
+encloser
 enclosers
 enclosure
 encodable
@@ -25148,6 +25152,7 @@ exculpating
 exculpation
 excurrent
 excursionists
+excursions
 excursiveness
 excursivenesses
 excursuses
@@ -25314,6 +25319,7 @@ exorbitances
 exorbitantly
 exorcise
 exorciser
+exorcisers
 exorcising
 exorcistical
 exorcize
@@ -29589,6 +29595,7 @@ gaum
 gaumed
 gaunt
 gaunter
+gauntlet
 gauntlets
 gauntly
 gauntnesses
@@ -31758,6 +31765,7 @@ gumption
 gumptions
 gumptious
 gumshoe
+gumshoes
 gumtree
 gumweed
 gumweeds
@@ -32192,6 +32200,7 @@ halvahs
 halve
 halving
 ham
+hamada
 hamadryad
 hamadryads
 hamal
@@ -33513,6 +33522,7 @@ hinds
 hindsight
 hinge
 hinged
+hinger
 hinging
 hinkier
 hinky
@@ -33699,6 +33709,7 @@ hogmenay
 hogmenays
 hognoses
 hognuts
+hogs
 hogshead
 hogtied
 hogwashes
@@ -34710,6 +34721,7 @@ hydroxylapatite
 hydroxylase
 hydroxylases
 hydroxylates
+hydroxyproline
 hydroxyurea
 hydroxyzines
 hyenas
@@ -37808,6 +37820,7 @@ ionise
 ionises
 ioniums
 ionizations
+ionizer
 ionogen
 ionogenic
 ionomers
@@ -40669,6 +40682,7 @@ lemmatizes
 lemmatizing
 lemming
 lemminglike
+lemmings
 lemniscate
 lemonish
 lemonlike
@@ -44012,6 +44026,7 @@ metacarpus
 metacenter
 metacenters
 metacercaria
+metacercariae
 metacercarial
 metafiction
 metafictional
@@ -44362,6 +44377,7 @@ microsecond
 microseconds
 microseism
 microseismic
+microseismicity
 microseisms
 microsomal
 microsome
@@ -49480,6 +49496,7 @@ offloads
 offprinted
 offramp
 offscourings
+offshoot
 offspring
 oft
 often
@@ -49966,6 +49983,7 @@ orderliness
 orderlinesses
 orderly
 orders
+ordinances
 ordinand
 ordinarier
 ordinaries
@@ -51775,6 +51793,7 @@ oviposited
 oviposition
 ovipositions
 oviraptor
+ovisacs
 ovoid
 ovoidal
 ovoidals
@@ -55763,6 +55782,7 @@ polaron
 polarons
 polder
 polders
+pole
 poleaxed
 polecats
 poleless
@@ -57500,6 +57520,7 @@ priapi
 priapisms
 price
 priceless
+pricers
 pricey
 priciest
 pricily
@@ -59235,6 +59256,7 @@ quattrocentos
 quaverer
 quaveringly
 quavery
+quay
 quayage
 quayages
 quaylike
@@ -59360,6 +59382,7 @@ quinone
 quinonoid
 quinquennials
 quinquennium
+quinsies
 quinsy
 quintain
 quintal
@@ -62433,6 +62456,7 @@ reserving
 reservist
 reservoir
 reservoirs
+resettable
 resetter
 resetters
 resetting
@@ -67106,6 +67130,7 @@ shikaree
 shikarees
 shikari
 shikars
+shikker
 shikseh
 shiksehs
 shikses
@@ -69580,6 +69605,7 @@ spacer
 spaces
 spaceship
 spacesuit
+spacewalked
 spacewalkers
 spacewalking
 spacewalks
@@ -70437,6 +70463,7 @@ squeezes
 squeezing
 squegged
 squelched
+squelcher
 squelches
 squelchier
 squelchiest
@@ -71633,6 +71660,7 @@ structuration
 structurations
 structure
 structureless
+structures
 structuring
 strudel
 struggled
@@ -74084,6 +74112,7 @@ targes
 targetable
 targeting
 tariff
+tariffed
 tariffing
 tariffs
 tarlatan
@@ -74137,6 +74166,7 @@ tarzan
 tarzans
 tas
 taskbars
+tasked
 tasking
 taskmaster
 taskworks
@@ -77523,6 +77553,7 @@ tullibees
 tumblebugs
 tumbled
 tumbler
+tumblerful
 tumblers
 tumblersful
 tumbrel
@@ -77538,6 +77569,7 @@ tummies
 tummler
 tumoral
 tumorigeneses
+tumorigenesis
 tumorlike
 tumors
 tumping
@@ -79670,6 +79702,7 @@ unscrews
 unscripted
 unscriptural
 unsealed
+unsealing
 unseam
 unseamed
 unseaming
@@ -80583,6 +80616,7 @@ vanpoolings
 vanpools
 vanquished
 vanquishers
+vanquishes
 vanquishing
 vantage
 vapid
@@ -80921,6 +80955,7 @@ venturer
 venturesomely
 venturousness
 venturousnesses
+venular
 venule
 venules
 venulous
