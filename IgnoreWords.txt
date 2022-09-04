@@ -2504,6 +2504,7 @@ anile
 anilinctus
 anilinctuses
 anilinguses
+anils
 animacy
 animadverted
 animadverts
@@ -6210,6 +6211,7 @@ belayed
 belayer
 belays
 belch
+belcher
 beldam
 beldames
 beldams
@@ -7138,6 +7140,7 @@ bisulfates
 bisulfide
 bisulfites
 bit
+bitable
 bitartrate
 bitchen
 bitchery
@@ -11003,6 +11006,7 @@ cees
 ceibas
 ceiled
 ceiler
+ceiling
 ceilinged
 ceilings
 ceilometer
@@ -14772,6 +14776,7 @@ constituently
 constituents
 constitutes
 constituting
+constitution
 constitutionals
 constitutively
 constrained
@@ -15354,6 +15359,7 @@ cornbraid
 cornbraiding
 cornbraids
 cornbread
+corncake
 corncakes
 corncrakes
 corncribs
@@ -18595,6 +18601,7 @@ demandant
 demander
 demanders
 demandingness
+demandingnesses
 demantoids
 demarcate
 demarcated
@@ -19673,6 +19680,7 @@ dicers
 dicey
 dichasia
 dichasial
+dichlorvoses
 dichogamy
 dichondras
 dichotomies
@@ -21911,6 +21919,7 @@ druggy
 drugmaker
 drugmakers
 druid
+druidic
 drumbeater
 drumbeaters
 drumbeating
@@ -24530,6 +24539,7 @@ essayistic
 essayists
 essential
 essentialisms
+essentialists
 essentialities
 essentializes
 essentially
@@ -24834,6 +24844,7 @@ evacuates
 evacuative
 evacuator
 evacuee
+evader
 evaginates
 evaluate
 evaluative
@@ -25026,6 +25037,7 @@ excerption
 excerpts
 excess
 excessing
+excessively
 exchangeable
 exchangers
 exchanging
@@ -25576,6 +25588,7 @@ extralogical
 extramarital
 extranuclear
 extraordinaire
+extrapolate
 extrapolated
 extrapolations
 extrapolator
@@ -27055,6 +27068,7 @@ fizzers
 fizzes
 fizziest
 fizzle
+fizzled
 fizzy
 fjeld
 fjelds
@@ -34243,6 +34257,7 @@ housekeepings
 housel
 houseling
 houselling
+housels
 housemaids
 housemaster
 housemate
@@ -41585,6 +41600,7 @@ logogram
 logogrammatic
 logographic
 logographically
+logographs
 logoi
 logomach
 logomachy
@@ -42335,6 +42351,7 @@ magalogs
 magalogues
 magazine
 magdalene
+mages
 maggot
 maggots
 maggoty
@@ -44015,6 +44032,7 @@ meteorite
 meteorites
 meteoritic
 meteoriticist
+meteoritics
 meteoroidal
 meteorologic
 meteorological
@@ -45074,6 +45092,7 @@ misleadingly
 misleads
 misleared
 mislearned
+mislearnt
 mislighting
 mislights
 mislike
@@ -55387,6 +55406,7 @@ plicated
 plicately
 plications
 plicatures
+plier
 plies
 plighted
 plighters
@@ -55480,6 +55500,7 @@ plunkers
 plunking
 plunks
 plunky
+pluperfects
 plural
 pluralist
 pluralists
@@ -55838,6 +55859,7 @@ polymer
 polymerases
 polymeric
 polymerisation
+polymerise
 polymerises
 polymerising
 polymerization
@@ -56390,6 +56412,7 @@ pottery
 potties
 pottiest
 pottinesses
+pottle
 pottles
 potty
 potzer
@@ -59754,6 +59777,7 @@ raptness
 raptor
 raptured
 raptures
+rapturing
 rapturousnesses
 rare
 rarefaction
@@ -60009,6 +60033,7 @@ reading
 readjusted
 readjustment
 readjustments
+readmissions
 readmitting
 readopts
 readorning
@@ -63021,6 +63046,7 @@ revivable
 revivalisms
 revived
 revivification
+revivifications
 revivified
 revivifies
 revivify
@@ -67776,6 +67802,7 @@ sinterability
 sintered
 sinters
 sinuate
+sinuately
 sinuates
 sinuating
 sinuations
@@ -71801,6 +71828,7 @@ suberic
 suberised
 suberization
 suberize
+suberized
 suberizes
 suberizing
 suberose
@@ -76264,6 +76292,7 @@ traditional
 traditionalisms
 traditionalized
 traditionalizes
+traditive
 traditor
 traducements
 traducer
@@ -76343,6 +76372,7 @@ tramplers
 tramples
 trampoline
 trampolines
+trampolining
 trampolinist
 tramps
 trams
@@ -78766,6 +78796,7 @@ unease
 uneases
 uneasiest
 uneasy
+uneaten
 uneccentric
 uneconomical
 uneducable
@@ -81189,6 +81220,7 @@ violableness
 violas
 violates
 violation
+violative
 violet
 violets
 violinistic
@@ -81383,6 +81415,7 @@ viverrine
 viverrines
 vivid
 vivider
+vividly
 vividnesses
 vivified
 vivifier
@@ -82159,6 +82192,7 @@ weal
 wealds
 weals
 wealthier
+wealthiness
 wealthy
 weaning
 weanlings
@@ -82789,6 +82823,7 @@ willingest
 willingly
 willingness
 willingnesses
+williwau
 williwaw
 willow
 willower
