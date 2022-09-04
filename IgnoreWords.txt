@@ -298,6 +298,7 @@ accumulated
 accumulates
 accumulating
 accumulation
+accumulations
 accumulatively
 accumulators
 accuracies
@@ -1699,6 +1700,7 @@ allopatries
 allophone
 alloplasm
 alloplasms
+allopolyploidy
 allosauruses
 allosteries
 allostery
@@ -2141,6 +2143,7 @@ amphictyonies
 amphictyony
 amphidiploidies
 amphigories
+amphimacer
 amphimixes
 amphioxus
 amphioxuses
@@ -3623,6 +3626,7 @@ architectonics
 architecture
 architrave
 archival
+archived
 archivists
 archivolt
 archly
@@ -8129,6 +8133,7 @@ bottlebrushes
 bottled
 bottlenecks
 bottlers
+bottles
 bottlings
 bottom
 bottomed
@@ -9351,6 +9356,7 @@ bushy
 busier
 business
 businessmen
+businessperson
 businesspersons
 businesswoman
 busk
@@ -15493,6 +15499,7 @@ corridor
 corrie
 corrigenda
 corrigibility
+corrival
 corrivals
 corroborant
 corroborative
@@ -16308,6 +16315,7 @@ cresylic
 cresyls
 cretinism
 cretinoid
+cretins
 cretonnes
 crevasse
 crevassed
@@ -17129,6 +17137,7 @@ cutest
 cutey
 cuteys
 cutgrass
+cuticula
 cuticulae
 cuticular
 cutin
@@ -17885,6 +17894,7 @@ debunker
 debunkers
 debunks
 debut
+debuts
 debye
 decadence
 decadences
@@ -19971,6 +19981,7 @@ dined
 diner
 dinero
 dineros
+dinette
 dingbat
 dingdong
 dingdonged
@@ -20376,6 +20387,7 @@ discreetly
 discreetnesses
 discrepantly
 discrete
+discretely
 discreteness
 discretion
 discriminant
@@ -23048,6 +23060,7 @@ embattlement
 embattling
 embay
 embaying
+embayments
 embays
 embed
 embedded
@@ -27488,6 +27501,7 @@ floridity
 floridness
 floridnesses
 floristic
+floristries
 florists
 floruits
 flossed
@@ -27701,6 +27715,7 @@ foaminess
 foamlike
 foamy
 fobbed
+focalised
 focalising
 focalizations
 focalize
@@ -28214,6 +28229,7 @@ forthwith
 fortified
 fortify
 fortifying
+fortis
 fortissimi
 fortissimos
 fortitudes
@@ -31678,6 +31694,7 @@ guises
 guising
 guitar
 guitarfishes
+guitarists
 guitars
 guitguit
 gulag
@@ -34075,6 +34092,7 @@ hornbeams
 hornbill
 hornblende
 hornblendes
+hornblendic
 hornbooks
 hornet
 hornier
@@ -39593,6 +39611,7 @@ koppie
 koras
 korats
 kore
+korma
 korun
 koruna
 koshering
@@ -41382,6 +41401,7 @@ little
 littler
 littlest
 littlish
+littorals
 liturgically
 liturgics
 liturgiologies
@@ -42855,6 +42875,7 @@ manubria
 manubrium
 manubriums
 manufactories
+manufactory
 manufactured
 manufactures
 manufacturings
@@ -43222,6 +43243,7 @@ mathematization
 mathematize
 mathematized
 mathematizes
+maths
 matilda
 matildas
 matinee
@@ -43299,6 +43321,7 @@ mawkishly
 mawn
 maxes
 maxi
+maxicoat
 maxillaries
 maxillary
 maxilliped
@@ -48045,6 +48068,7 @@ nonchurchgoer
 nonchurchgoers
 noncitizens
 nonclandestine
+nonclass
 nonclasses
 nonclassroom
 nonclinical
@@ -48575,6 +48599,7 @@ nontribal
 nontruths
 nonuniform
 nonunique
+nonuniqueness
 nonuple
 nonurban
 nonurgent
@@ -51076,6 +51101,7 @@ overcomplicated
 overcomplicates
 overcompresses
 overconcern
+overconcerns
 overconfidence
 overconfident
 overconfidently
@@ -51672,6 +51698,7 @@ overusing
 overutilize
 overutilizing
 overvaluations
+overvalue
 overvoltage
 overvoltages
 overvote
@@ -52157,6 +52184,7 @@ palpitating
 palpitations
 palps
 palpus
+palsgrave
 palship
 palsied
 palsies
@@ -54443,6 +54471,7 @@ photosystem
 photosystems
 phototaxes
 phototaxies
+phototaxis
 phototoxic
 phototubes
 phototypes
@@ -60697,6 +60726,7 @@ redarguing
 redated
 redates
 redating
+redbaited
 redbaiter
 redbaiters
 redbay
@@ -69275,6 +69305,7 @@ songless
 songlike
 songsmith
 songster
+songsters
 songwriter
 songwriters
 sonic
@@ -71119,6 +71150,7 @@ stocktaking
 stocktakings
 stocky
 stockyard
+stodges
 stodgier
 stodgily
 stodginess
@@ -71292,6 +71324,7 @@ straightaway
 straightaways
 straightbreds
 straightedge
+straighten
 straightens
 straighter
 straightforward
@@ -73447,6 +73480,7 @@ synaeresis
 synaestheses
 synaesthesia
 synaesthesias
+synaesthesis
 synagog
 synagogal
 synagogue
@@ -74721,6 +74755,7 @@ terrapin
 terraqueous
 terrarium
 terrariums
+terras
 terrases
 terrazzo
 terreen
