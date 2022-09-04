@@ -2789,6 +2789,7 @@ anticipators
 anticivic
 antick
 anticking
+anticks
 anticlassical
 anticlerical
 anticlericalism
@@ -4727,6 +4728,7 @@ averse
 averseness
 aversenesses
 aversions
+aversive
 aversiveness
 aversives
 avertable
@@ -8989,6 +8991,7 @@ buffeter
 buffeters
 buffets
 buffo
+buffoonery
 buffoonish
 buffos
 buffs
@@ -18347,6 +18350,7 @@ degenerate
 degenerating
 degenerative
 degerm
+degermed
 deglaciated
 deglamorize
 deglamorizes
@@ -22667,6 +22671,7 @@ eide
 eider
 eiderdown
 eidetic
+eidola
 eidos
 eigenmodes
 eight
@@ -23427,6 +23432,7 @@ endometritis
 endomitoses
 endomixis
 endomorphic
+endomorphies
 endomorphs
 endonuclease
 endonucleases
@@ -25733,6 +25739,7 @@ faggots
 faggy
 fagin
 fagoted
+fagoters
 fagoting
 fagots
 fail
@@ -31489,6 +31496,7 @@ guardianship
 guardrails
 guardroom
 guardrooms
+guars
 guayaberas
 guayule
 guayules
@@ -31699,6 +31707,7 @@ guttered
 gutters
 guttersnipes
 guttery
+guttier
 guttiest
 gutting
 guttle
@@ -35678,6 +35687,7 @@ inaptnesses
 inarable
 inarch
 inarched
+inarching
 inarguable
 inarguably
 inarmed
@@ -35817,6 +35827,7 @@ inclip
 inclipping
 inclips
 incloser
+inclosers
 inclosing
 inclosure
 includable
@@ -37546,6 +37557,7 @@ invigilators
 invigorates
 invigoration
 invigorator
+invincible
 invincibleness
 invincibly
 inviolability
@@ -38370,6 +38382,7 @@ jinx
 jinxes
 jipijapa
 jipijapas
+jism
 jitterbug
 jitterbugs
 jitteriness
@@ -41967,6 +41980,7 @@ luteinized
 luteinizing
 luteins
 lutenists
+luteolins
 luteotrophin
 luteotrophins
 luteotropic
@@ -42702,6 +42716,7 @@ mantlet
 mantling
 mantraps
 mantras
+mantua
 manually
 manubria
 manubrium
@@ -45150,6 +45165,7 @@ mistends
 misters
 misthink
 misthinks
+misthought
 mistiest
 mistily
 mistime
@@ -45347,6 +45363,7 @@ modulates
 modulation
 modulators
 module
+modules
 modulo
 modulus
 modus
@@ -48538,6 +48555,7 @@ notal
 notarially
 notaries
 notarization
+notarizations
 notarize
 notarizing
 notary
@@ -48631,6 +48649,7 @@ nubby
 nubias
 nubility
 nubilous
+nubuck
 nucellar
 nucelli
 nucellus
@@ -49262,6 +49281,7 @@ oft
 often
 oftenest
 ogam
+ogams
 ogdoad
 ogee
 ogees
@@ -56615,6 +56635,7 @@ prediscovery
 predisposed
 prednisolone
 prednisolones
+prednisone
 predominancy
 predominates
 predominating
@@ -61630,6 +61651,7 @@ renascent
 renationalized
 renationalizes
 renaturation
+renaturations
 renatures
 renaturing
 rencountering
@@ -61818,6 +61840,7 @@ replantation
 replantations
 replanted
 replants
+replaster
 replasters
 replated
 replaying
@@ -62703,6 +62726,7 @@ reunification
 reunifies
 reunions
 reunited
+reuniter
 reunites
 reupholstering
 reusabilities
@@ -66654,6 +66678,7 @@ shearlings
 shears
 sheas
 sheatfish
+sheath
 sheathed
 sheather
 sheaved
@@ -71690,6 +71715,7 @@ sublimable
 sublimate
 sublimates
 sublimely
+sublimenesses
 sublimer
 sublimers
 subliminally
@@ -72973,6 +72999,7 @@ sweven
 swidden
 swiddens
 swifter
+swiftest
 swiftlets
 swiftness
 swiftnesses
@@ -72994,6 +73021,7 @@ swineherds
 swinepox
 swing
 swingeing
+swinger
 swingers
 swinges
 swingingly
@@ -73956,6 +73984,7 @@ teargas
 teargassing
 tearing
 tearless
+tearoom
 tearooms
 tears
 tearstain
@@ -74405,6 +74434,7 @@ tergiversator
 teriyaki
 teriyakis
 term
+termagant
 termer
 terminably
 terminal
@@ -74449,6 +74479,7 @@ terrae
 terraform
 terraforming
 terrains
+terranes
 terrapin
 terraqueous
 terrarium
@@ -75178,6 +75209,7 @@ tidemarks
 tiderip
 tiderips
 tides
+tidewater
 tideway
 tideways
 tidier
@@ -76463,6 +76495,7 @@ trembled
 trembling
 tremendous
 tremolites
+tremolos
 tremor
 tremorous
 tremulousnesses
@@ -77364,6 +77397,7 @@ tussocked
 tussocks
 tussor
 tussores
+tussors
 tussuck
 tussucks
 tussur
@@ -78494,6 +78528,7 @@ undock
 undocking
 undocks
 undoctored
+undocumented
 undoer
 undoers
 undogmatic
