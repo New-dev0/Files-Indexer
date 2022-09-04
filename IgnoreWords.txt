@@ -1313,6 +1313,7 @@ aims
 ain
 aiolis
 air
+airbag
 airbound
 airbrushed
 airbrushes
@@ -2548,6 +2549,7 @@ anis
 anise
 aniseed
 aniseeds
+aniseikonia
 anises
 anisette
 anisettes
@@ -4610,6 +4612,7 @@ autobiographer
 autobiographic
 autobiography
 autobuses
+autocade
 autocades
 autocatalyses
 autocatalytic
@@ -4779,6 +4782,7 @@ avocados
 avocation
 avocational
 avocationally
+avocets
 avodires
 avoid
 avoidance
@@ -8424,6 +8428,7 @@ brashly
 brashness
 brashnesses
 brashy
+brasilein
 brasilin
 brasilins
 brass
@@ -13482,6 +13487,7 @@ coheaded
 coheading
 coheir
 coheiress
+coheiresses
 coheirs
 cohere
 coherence
@@ -16407,6 +16413,7 @@ crispy
 crissa
 crisscrosses
 crisscrossing
+crissum
 crista
 cristate
 crit
@@ -16627,6 +16634,7 @@ crump
 crumped
 crumpet
 crumpets
+crumpled
 crumply
 crumps
 cruncher
@@ -19701,6 +19709,7 @@ dicey
 dichasia
 dichasial
 dichlorvoses
+dichogamous
 dichogamy
 dichondras
 dichotomies
@@ -19893,6 +19902,7 @@ dikdiks
 diker
 dikey
 diktat
+diktats
 dilapidation
 dilatable
 dilatably
@@ -22337,6 +22347,7 @@ eardrops
 eardrum
 eardrums
 eared
+earful
 earfuls
 earl
 earlap
@@ -23838,6 +23849,7 @@ entailment
 entameba
 entamebae
 entamoeba
+entamoebas
 entangler
 entangles
 entasia
@@ -24615,6 +24627,7 @@ estrangers
 estranges
 estreating
 estreats
+estrogenic
 estrones
 estrums
 estuarine
@@ -24834,6 +24847,7 @@ eurhythmics
 eurhythmies
 eurokies
 eurokous
+euroky
 euros
 eurybath
 eurybaths
@@ -29075,6 +29089,7 @@ fuzee
 fuzees
 fuzes
 fuzil
+fuzils
 fuzing
 fuzz
 fuzzes
@@ -34317,6 +34332,7 @@ hover
 hovered
 hoverfly
 hovering
+hovers
 howdie
 howdied
 howdy
@@ -35270,6 +35286,7 @@ imbalms
 imbarking
 imbecilic
 imbecilities
+imbecility
 imbed
 imbedding
 imbeds
@@ -39224,6 +39241,7 @@ kibla
 kiblahs
 kibosh
 kiboshed
+kiboshing
 kick
 kickable
 kickback
@@ -39947,6 +39965,7 @@ lambruscos
 lambskins
 lame
 lamebrained
+lamebrains
 lamellae
 lamellar
 lamellately
@@ -40296,6 +40315,7 @@ laughable
 laughablenesses
 laughably
 laughed
+laugher
 laughers
 laughingstock
 laughlines
@@ -44606,6 +44626,7 @@ millwright
 milo
 milpa
 milters
+milting
 milts
 milty
 mimbar
@@ -46457,6 +46478,7 @@ multichambered
 multicharacter
 multicolor
 multicolored
+multicomponent
 multiconductor
 multicounty
 multicourse
@@ -50492,6 +50514,7 @@ outfly
 outflying
 outfool
 outfooling
+outfoot
 outfoots
 outfought
 outfrown
@@ -56706,6 +56729,7 @@ precava
 precede
 preceded
 precedences
+precedent
 precedents
 precensor
 precensored
@@ -57315,6 +57339,7 @@ pressurization
 pressurizations
 pressurize
 pressurizers
+pressworks
 prestamped
 prestamps
 prester
@@ -58926,6 +58951,7 @@ pyknic
 pyknics
 pyoderma
 pyodermas
+pyorrhea
 pyorrheas
 pyorrhoea
 pyorrhoeas
@@ -61903,6 +61929,7 @@ renests
 renew
 renewabilities
 renewability
+renewed
 renewer
 renews
 reniform
@@ -65829,6 +65856,7 @@ seamsters
 seamstress
 seances
 seapieces
+seaplane
 seaplanes
 seaport
 seaports
@@ -67751,6 +67779,7 @@ simarubas
 simas
 simazine
 simazines
+similarity
 simile
 similes
 similitudes
@@ -69987,6 +70016,7 @@ spiritual
 spiritualisms
 spiritualities
 spiritualize
+spiritualized
 spiritually
 spiritualness
 spiritualnesses
@@ -71362,6 +71392,7 @@ strangler
 strangles
 strangling
 strangulate
+strangulating
 strangulation
 straphanged
 straphangers
@@ -72458,6 +72489,7 @@ sulfonated
 sulfonates
 sulfone
 sulfones
+sulfonic
 sulfonium
 sulfonyl
 sulfonylureas
@@ -74892,6 +74924,7 @@ textile
 textiles
 textless
 texts
+textual
 textuaries
 textuary
 texture
@@ -81264,6 +81297,7 @@ vindicating
 vindications
 vindicator
 vindictive
+vindictively
 vindictiveness
 vined
 vinedresser
@@ -84144,6 +84178,7 @@ zounds
 zowie
 zuz
 zwitterion
+zwitterionic
 zygapophysis
 zygomas
 zygomata
