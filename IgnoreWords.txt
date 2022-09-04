@@ -56,6 +56,7 @@ abscond
 absconded
 absconder
 absconders
+absconding
 abseil
 abseils
 absence
@@ -99,6 +100,7 @@ abstains
 abstemious
 abstemiously
 abstemiousness
+abstention
 absterge
 absterged
 abstinence
@@ -3493,6 +3495,7 @@ aquarelles
 aquarellist
 aquaria
 aquarian
+aquarists
 aquarium
 aquariums
 aquatics
@@ -5883,6 +5886,7 @@ bearskins
 beast
 beasties
 beastliest
+beastliness
 beasts
 beatable
 beaten
@@ -8054,6 +8058,7 @@ boozers
 boozes
 boozily
 booziness
+boozinesses
 bop
 bopeep
 bopper
@@ -8121,6 +8126,7 @@ bosonic
 bosques
 bosquet
 bossdoms
+bossed
 bossily
 bossing
 bossism
@@ -8328,6 +8334,7 @@ boyishness
 boylas
 boys
 boysenberry
+bozos
 brabble
 brabbler
 brabblers
@@ -8837,6 +8844,7 @@ bronzer
 bronzers
 bronzes
 bronzier
+bronziest
 bronzing
 bronzings
 brooch
@@ -9807,6 +9815,7 @@ calfs
 calibration
 calibrations
 calibrator
+calices
 caliche
 calicles
 calicoes
@@ -11763,6 +11772,7 @@ chemosorbed
 chemosorbing
 chemosorbs
 chemostats
+chemosurgeries
 chemosynthesis
 chemosynthetic
 chemotactic
@@ -15438,6 +15448,7 @@ cornify
 cornifying
 cornily
 corniness
+corning
 cornmeals
 cornpones
 cornrow
@@ -15963,6 +15974,7 @@ cove
 coved
 covellines
 coven
+covenant
 covenantal
 covenantees
 covenanting
@@ -18059,6 +18071,7 @@ decimated
 decimates
 decimating
 decimation
+decimations
 decimator
 decipherers
 deciphering
@@ -20366,6 +20379,7 @@ disco
 discographer
 discographers
 discographic
+discoidal
 discolouring
 discolours
 discombobulate
@@ -23274,6 +23288,7 @@ emissary
 emission
 emissions
 emits
+emitted
 emitting
 emmenagogues
 emmers
@@ -24579,6 +24594,7 @@ eschar
 eschatology
 escheatable
 escheating
+escheators
 escheats
 eschewals
 eschewed
@@ -27634,6 +27650,7 @@ flubdub
 flubs
 fluctuated
 fluctuating
+flue
 flued
 fluently
 flues
@@ -30769,6 +30786,7 @@ gofferings
 goffers
 goggle
 goggles
+gogglier
 goglet
 goglets
 gogo
@@ -31275,6 +31293,7 @@ grazing
 grazings
 grease
 greaseball
+greased
 greaseproofs
 greasers
 greases
@@ -31315,6 +31334,7 @@ greenery
 greenest
 greenfield
 greenfields
+greenfinch
 greenfly
 greenheart
 greenhorns
@@ -32677,6 +32697,7 @@ hautbois
 hautboy
 haute
 havarti
+havartis
 havdalah
 have
 havelock
@@ -34539,6 +34560,7 @@ humiliation
 humiliations
 humiture
 humitures
+hummable
 hummer
 hummers
 hummock
@@ -40415,6 +40437,7 @@ laughably
 laughed
 laugher
 laughers
+laughing
 laughingstock
 laughlines
 laughs
@@ -40793,6 +40816,7 @@ lengthwise
 leniences
 leniencies
 lenite
+lenites
 lenition
 lenitively
 lens
@@ -44088,6 +44112,7 @@ messan
 messeigneurs
 messenger
 messengering
+messengers
 messiah
 messiahship
 messiahships
@@ -46231,6 +46256,7 @@ mortgagers
 mortgagor
 mortgagors
 mortice
+morticed
 mortices
 mortification
 mortified
@@ -48478,6 +48504,7 @@ nonirritating
 nonjoiner
 nonjudgmental
 nonjuries
+nonjurors
 nonkosher
 nonkoshers
 nonlandowner
@@ -58696,6 +58723,7 @@ puckish
 puckishness
 pud
 puddle
+puddler
 puddlers
 puddlier
 puddlings
@@ -61888,6 +61916,7 @@ relocation
 relocations
 relock
 relocking
+relocks
 relooking
 relooks
 relubricate
@@ -62156,6 +62185,7 @@ reoriented
 reorients
 reoutfit
 reoutfits
+reoviruses
 reoxidation
 reoxidations
 reoxidizes
@@ -64686,6 +64716,7 @@ sailcloths
 sailer
 sailfish
 sailing
+sailplanes
 sails
 saimin
 sained
@@ -67438,6 +67469,7 @@ shog
 shogi
 shogis
 shogs
+shogunates
 shojis
 sholom
 shone
@@ -75800,6 +75832,7 @@ timberlines
 timberwork
 timbrel
 timbrelled
+time
 timecard
 timekeeper
 timekeepings
@@ -76695,6 +76728,7 @@ transcends
 transcribe
 transcriber
 transcribers
+transcribes
 transcribing
 transcript
 transcriptases
@@ -79806,6 +79840,7 @@ unrevoked
 unrevolutionary
 unrewarding
 unrhetorical
+unrhymed
 unriddle
 unriddlers
 unriddling
