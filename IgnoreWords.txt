@@ -1922,6 +1922,7 @@ amas
 amassable
 amassed
 amasser
+amassers
 amasses
 amassing
 amassments
@@ -2929,6 +2930,7 @@ antijam
 antijamming
 antiking
 antikings
+antiknock
 antilabor
 antileft
 antileprosy
@@ -4955,6 +4957,7 @@ ayes
 ays
 ayurveda
 ayurvedas
+ayurvedic
 ayurvedics
 azalea
 azaleas
@@ -7611,6 +7614,7 @@ bloopers
 bloops
 blossoms
 blotchier
+blotless
 blotting
 blotto
 blotty
@@ -9541,6 +9545,7 @@ buttinski
 buttinskies
 buttinskis
 buttock
+button
 buttonballs
 buttonbush
 buttonbushes
@@ -9832,6 +9837,7 @@ calami
 calamine
 calamint
 calamite
+calamities
 calamondin
 calamondins
 calamus
@@ -10244,6 +10250,7 @@ cantdog
 canted
 canter
 cantered
+canters
 canthal
 cantharis
 canthaxanthins
@@ -12085,6 +12092,7 @@ chinquapins
 chins
 chinstraps
 chints
+chintz
 chintzier
 chintziest
 chintzy
@@ -12713,6 +12721,7 @@ civets
 civic
 civicism
 civicisms
+civics
 civie
 civies
 civil
@@ -19756,6 +19765,7 @@ dhoti
 dhourra
 dhourras
 dhurna
+dhurnas
 diabase
 diabasic
 diabetes
@@ -23840,6 +23850,7 @@ endothelioma
 endothelium
 endotherm
 endothermic
+endotoxic
 endotoxins
 endotrophic
 endower
@@ -24035,6 +24046,7 @@ enormities
 enormously
 enormousnesses
 enosis
+enosises
 enounced
 enounces
 enow
@@ -26756,6 +26768,7 @@ feretory
 feria
 feriae
 ferial
+ferias
 ferities
 ferlies
 ferly
@@ -29302,6 +29315,7 @@ funnelform
 funnelled
 funner
 funninesses
+funning
 funnymen
 funplexes
 fur
@@ -30869,6 +30883,7 @@ gluiest
 gluily
 gluiness
 glum
+glummest
 glumness
 glumpier
 glumpily
@@ -31598,6 +31613,7 @@ greenfield
 greenfields
 greenfinch
 greenfly
+greenheads
 greenheart
 greenhorns
 greenhouses
@@ -32240,6 +32256,7 @@ gynecocratic
 gynecoid
 gynecological
 gynecologies
+gynecology
 gynecomastia
 gyniatries
 gynoecia
@@ -33770,6 +33787,7 @@ hiccoughs
 hiccups
 hick
 hickeys
+hickies
 hickories
 hid
 hidable
@@ -37029,6 +37047,7 @@ ingredients
 ingresses
 ingression
 ingressive
+ingressiveness
 ingroup
 ingroups
 ingrownness
@@ -40312,6 +40331,7 @@ lade
 laded
 laden
 laders
+lades
 ladhoods
 lading
 ladle
@@ -41997,6 +42017,7 @@ lobos
 lobotomise
 lobotomised
 lobotomize
+lobotomized
 lobotomizing
 lobotomy
 lobscouse
@@ -43774,6 +43795,7 @@ maths
 matilda
 matildas
 matinee
+matings
 matrass
 matriarchates
 matriarchs
@@ -48886,6 +48908,7 @@ nonhome
 nonhomogeneous
 nonhomologous
 nonhormonal
+nonhospital
 nonhospitalized
 nonhousing
 nonhumans
@@ -53456,6 +53479,7 @@ partway
 party
 partyers
 partygoers
+partying
 parura
 parures
 parvenue
@@ -56878,6 +56902,7 @@ portered
 porteress
 porteresses
 porterhouses
+portfolio
 porthole
 portholes
 porticoed
@@ -59548,6 +59573,7 @@ purselike
 purser
 pursers
 pursier
+pursily
 pursiness
 pursinesses
 pursing
@@ -66177,6 +66203,7 @@ schmo
 schmoes
 schmoos
 schmoose
+schmoosed
 schmooses
 schmoozed
 schmoozer
@@ -73137,6 +73164,7 @@ subtleties
 subtlety
 subtly
 subtone
+subtonic
 subtopia
 subtopic
 subtorrid
@@ -76853,6 +76881,7 @@ tomatillo
 tomatillos
 tombac
 tombacks
+tombing
 tombless
 tombola
 tombolas
@@ -77536,6 +77565,7 @@ transmitters
 transmogrified
 transmogrifies
 transmogrifying
+transmutable
 transmutative
 transmuting
 transnational
@@ -77791,6 +77821,7 @@ triacids
 triadically
 triadism
 triadisms
+triaged
 triages
 triaging
 trialogue
@@ -78641,6 +78672,7 @@ tusker
 tuskers
 tusking
 tuskless
+tusklike
 tussahs
 tussal
 tussehs
@@ -79846,6 +79878,7 @@ unearthlinesses
 unease
 uneases
 uneasiest
+uneasinesses
 uneasy
 uneaten
 uneccentric
@@ -83463,6 +83496,7 @@ welkin
 well
 welladays
 wellaway
+wellborn
 wellcurb
 wellholes
 wellhouse
@@ -85159,6 +85193,7 @@ zoogleae
 zoogloea
 zoogloeae
 zoogloeic
+zoographies
 zoography
 zooid
 zooier
