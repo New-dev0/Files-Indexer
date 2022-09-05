@@ -195,6 +195,7 @@ accelerative
 accelerators
 accented
 accenting
+accentless
 accentor
 accentually
 accentuation
@@ -3690,6 +3691,7 @@ argala
 argental
 argentite
 argentums
+argil
 argillaceous
 argillite
 argils
@@ -5277,6 +5279,7 @@ ballads
 ballasters
 ballasting
 ballcarriers
+balled
 ballerina
 ballerinas
 ballers
@@ -8736,6 +8739,7 @@ briquettes
 brises
 brisked
 brisker
+briskets
 briskly
 brisling
 brislings
@@ -9377,6 +9381,7 @@ busbies
 busboy
 busboys
 bused
+busgirl
 busgirls
 bush
 bushbucks
@@ -15241,6 +15246,7 @@ cooperatives
 cooperator
 cooperators
 coopery
+coops
 coordinated
 coordinately
 coordinates
@@ -22681,6 +22687,7 @@ ecstatically
 ectases
 ectoblasts
 ectodermal
+ectomeric
 ectoparasites
 ectopia
 ectopias
@@ -22777,6 +22784,7 @@ eely
 eeriest
 eerily
 eerinesses
+eery
 effaceable
 effacer
 effacing
@@ -25064,6 +25072,7 @@ everglades
 everlastingly
 everlastingness
 evermore
+eversible
 eversion
 evert
 everting
@@ -26915,6 +26924,7 @@ filiates
 filibeg
 filibegs
 filibuster
+filibusterer
 filibusterers
 filibusters
 filicide
@@ -36094,6 +36104,7 @@ incapacity
 incarcerate
 incarceration
 incarcerations
+incardination
 incarnadining
 incarnated
 incarnates
@@ -43296,6 +43307,7 @@ marseille
 marseilles
 marses
 marsh
+marshal
 marshalcies
 marshaled
 marshaling
@@ -44765,6 +44777,7 @@ militaria
 militarily
 militarised
 militarises
+militarising
 militarism
 militaristic
 militarizations
@@ -47427,6 +47440,7 @@ nationally
 nationals
 nationhood
 native
+natively
 nativenesses
 nativism
 nativist
@@ -49831,6 +49845,7 @@ oleoresins
 olestras
 olfaction
 olfactions
+olfactive
 olibanum
 olibanums
 oligarchy
@@ -51381,6 +51396,7 @@ overcleaned
 overcleaning
 overclear
 overclears
+overclose
 overcloud
 overclouded
 overclouding
@@ -53249,6 +53265,7 @@ patencies
 patens
 patentabilities
 patentability
+pater
 paterfamilias
 paternal
 paternalistic
@@ -53561,6 +53578,7 @@ pedicular
 pediculate
 pediculous
 pedicures
+pedicuring
 pedicurist
 pedicurists
 pediform
@@ -54115,6 +54133,7 @@ permian
 permillage
 permillages
 permissibility
+permissible
 permissibleness
 permission
 permitter
@@ -54923,6 +54942,7 @@ picadors
 pical
 picaninnies
 picaninny
+picara
 picaras
 picaro
 picaroon
@@ -56549,6 +56569,7 @@ posits
 posole
 posoles
 posologic
+posologies
 posology
 possessedly
 possessedness
@@ -59140,6 +59161,7 @@ purposeless
 purposelessly
 purposively
 purpure
+purpures
 purpurin
 purpurins
 purr
@@ -62324,6 +62346,7 @@ reoperates
 reopposes
 reopposing
 reorchestration
+reordaining
 reordered
 reorganization
 reorganizations
@@ -66221,6 +66244,7 @@ searcher
 searchers
 searches
 searchingly
+searchlights
 searest
 searobins
 sears
@@ -66766,6 +66790,7 @@ sentencer
 sententia
 sentential
 sententious
+sententiousness
 senti
 sentiences
 sentiencies
@@ -71315,6 +71340,7 @@ stephanotises
 stepladder
 stepmothers
 stepparents
+stepped
 stepper
 steppes
 stepstool
@@ -72918,6 +72944,7 @@ sultanas
 sultanate
 sultaness
 sultanesses
+sultans
 sultrier
 sultrily
 sulu
@@ -75562,6 +75589,7 @@ thicks
 thicksets
 thieve
 thieved
+thieveries
 thievery
 thievishness
 thigh
@@ -77258,6 +77286,7 @@ trestle
 trestles
 trestleworks
 tret
+tretinoin
 tretinoins
 trevallies
 trevallys
@@ -79534,6 +79563,7 @@ unhesitatingly
 unhewn
 unhinged
 unhinging
+unhip
 unhirable
 unhitched
 unholier
@@ -79585,6 +79615,7 @@ unillusioned
 unilobed
 unimaginable
 unimaginative
+unimaginatively
 unimpassioned
 unimportant
 unimposing
@@ -80168,6 +80199,7 @@ unsmiling
 unsmoothed
 unsnagged
 unsnagging
+unsnags
 unsnap
 unsnapped
 unsnaps
@@ -80214,6 +80246,7 @@ unstableness
 unstabler
 unstably
 unstack
+unstacked
 unstalked
 unstamped
 unstarred
@@ -84409,6 +84442,7 @@ zaffir
 zaffirs
 zag
 zagging
+zaibatsu
 zaikai
 zaikais
 zamarra
@@ -84489,6 +84523,7 @@ zeugmas
 zibeline
 zibelines
 zibet
+zibeths
 zidovudine
 zidovudines
 zig
