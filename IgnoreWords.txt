@@ -2742,6 +2742,7 @@ antheses
 anthesis
 anthill
 anthills
+anthocyan
 anthocyanins
 anthocyans
 anthodia
@@ -3622,6 +3623,7 @@ archduchesses
 archduchies
 archduchy
 archdukes
+arched
 archegonium
 archenemies
 archenteron
@@ -7246,6 +7248,7 @@ bizarreness
 bizarreries
 bizarres
 bizarro
+biznaga
 biznagas
 bizonal
 bizones
@@ -7351,6 +7354,7 @@ blankly
 blankness
 blanks
 blare
+blares
 blaring
 blarneying
 blase
@@ -17528,6 +17532,7 @@ dado
 dadoed
 dadoes
 dados
+dads
 daedalian
 daemon
 daffed
@@ -17604,6 +17609,7 @@ dalesmen
 daleth
 daleths
 dalles
+dallier
 dally
 dallying
 dalmatian
@@ -20399,6 +20405,7 @@ discarded
 discarder
 discarders
 discased
+discases
 disced
 discepts
 discern
@@ -20489,6 +20496,7 @@ discountenances
 discounting
 discouragement
 discouragements
+discourager
 discouragers
 discourages
 discouraging
@@ -30487,6 +30495,7 @@ glassworks
 glauconites
 glaucous
 glaucousnesses
+glazer
 glazers
 glazier
 glaziers
@@ -33515,6 +33524,7 @@ heteroses
 heterosexual
 heterosexuals
 heterosis
+heterothallisms
 heterotopic
 heterotroph
 heterotrophic
@@ -33643,6 +33653,7 @@ highflyers
 highjack
 highjacks
 highlander
+highlanders
 highlands
 highlighting
 highly
@@ -34187,6 +34198,7 @@ honorableness
 honorablenesses
 honorably
 honorand
+honoraria
 honorarium
 honorary
 honored
@@ -35442,6 +35454,7 @@ illumination
 illuminative
 illuminator
 illumine
+illumined
 illumines
 illuming
 illumining
@@ -39360,6 +39373,7 @@ kerfing
 kermis
 kern
 kerne
+kerneling
 kernelly
 kernes
 kerosine
@@ -39641,6 +39655,7 @@ kiosks
 kippered
 kipperer
 kipperers
+kippers
 kipskin
 kipskins
 kirigami
@@ -40119,6 +40134,7 @@ laevo
 lag
 lagend
 lagered
+lagers
 laggard
 laggardly
 laggardness
@@ -45584,6 +45600,7 @@ missioner
 missioners
 missionizations
 missionized
+missionizer
 missionizes
 missis
 missives
@@ -48479,6 +48496,7 @@ nondelivery
 nondemands
 nondemocratic
 nondepartmental
+nondependents
 nondepleting
 nondeposition
 nondepressed
@@ -48659,6 +48677,7 @@ nonlawyers
 nonlevel
 nonliable
 nonlibrary
+nonlife
 nonlinearity
 nonliquid
 nonliquids
@@ -50989,6 +51008,7 @@ outposts
 outpour
 outpourer
 outpourers
+outpouring
 outpowering
 outpowers
 outpray
@@ -53455,6 +53475,7 @@ payoffs
 payors
 payouts
 payrolls
+pays
 pazazz
 pazazzes
 pe
@@ -55539,6 +55560,7 @@ plaister
 plaistering
 plaisters
 plait
+plaiting
 plaitings
 plaits
 plan
@@ -56237,6 +56259,7 @@ polyene
 polyenic
 polyester
 polyesters
+polygamic
 polygamies
 polygamized
 polygamizes
@@ -58398,6 +58421,7 @@ propitiousness
 propjet
 propman
 propolis
+proponent
 proponing
 proportion
 proportional
@@ -59143,6 +59167,7 @@ purflings
 purgative
 purgatives
 purgatory
+purge
 purgeable
 purges
 purgings
@@ -59252,6 +59277,7 @@ pustulates
 pustulating
 pustulations
 putatively
+putdowns
 putoff
 putoffs
 putonghua
@@ -60704,6 +60730,7 @@ rebottles
 rebought
 rebounded
 rebounder
+rebounders
 rebounds
 rebranching
 rebreed
@@ -64711,6 +64738,7 @@ rusticities
 rustics
 rustiest
 rustinesses
+rusting
 rustle
 rustler
 rustles
@@ -69409,6 +69437,7 @@ snuffliest
 snuffling
 snuffy
 snuggerie
+snuggeries
 snuggery
 snuggles
 snugly
@@ -69747,6 +69776,7 @@ sonance
 sonances
 sonantal
 sonants
+sonarmen
 sonars
 sonde
 sondes
@@ -72567,6 +72597,7 @@ subprograms
 subprojects
 subpubic
 subraces
+subregion
 subrents
 subreptions
 subreptitiously
@@ -77331,6 +77362,7 @@ triacetates
 triacids
 triadically
 triadism
+triadisms
 triages
 triaging
 trialogue
@@ -78427,6 +78459,7 @@ tyrosines
 tyrothricins
 tythe
 tythes
+tzaddikim
 tzardom
 tzardoms
 tzarism
@@ -82114,6 +82147,7 @@ volatilities
 volatilizations
 volatilize
 volatilizes
+volatilizing
 volcanisms
 volcanized
 volcanizing
@@ -83285,6 +83319,7 @@ whoopee
 whoopees
 whooper
 whoopers
+whooplas
 whoops
 whoosh
 whooshes
