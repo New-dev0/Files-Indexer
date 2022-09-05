@@ -3890,6 +3890,7 @@ artful
 artfulness
 artfulnesses
 arthralgias
+arthralgic
 arthritis
 arthrodeses
 arthrodesis
@@ -5250,6 +5251,7 @@ bakshish
 bakshishes
 bakshishing
 bal
+balaclavas
 balance
 balanced
 balancer
@@ -6699,6 +6701,7 @@ bewrap
 bewrapped
 bewrapt
 bewrayer
+bewrayers
 bewraying
 beylics
 beyliks
@@ -14492,6 +14495,7 @@ concomitances
 concomitantly
 concomitants
 concord
+concordance
 concordances
 concordantly
 concordats
@@ -17485,6 +17489,7 @@ cymbalers
 cymbalist
 cymbalom
 cymbidium
+cymbidiums
 cyme
 cymene
 cymenes
@@ -17756,6 +17761,7 @@ dandlers
 dandling
 dandriffs
 danegelt
+danegelts
 daneworts
 danged
 danger
@@ -17904,6 +17910,7 @@ dawns
 dawsonite
 dawt
 dawted
+dawties
 dawting
 day
 daybeds
@@ -20978,6 +20985,7 @@ disreputes
 disrespected
 disrespectfully
 disrespecting
+disrespects
 disrobe
 disrobed
 disrobers
@@ -23803,6 +23811,7 @@ endothelia
 endothelial
 endothelioma
 endothelium
+endotherm
 endothermic
 endotoxins
 endotrophic
@@ -26471,6 +26480,7 @@ favas
 fave
 favelas
 favella
+favellas
 favorable
 favorably
 favored
@@ -27556,6 +27566,7 @@ flavine
 flavones
 flavonoid
 flavonols
+flavoprotein
 flavoproteins
 flavorful
 flavorfully
@@ -31566,6 +31577,7 @@ greenly
 greenmailer
 greenmails
 greenness
+greenroom
 greenrooms
 greens
 greensand
@@ -35218,6 +35230,7 @@ hypertrophy
 hypertypical
 hyperurbanism
 hyperuricemia
+hyperuricemias
 hypervelocity
 hyperventilate
 hypervigilant
@@ -40589,6 +40602,7 @@ laryngectomized
 larynges
 laryngitic
 laryngitis
+laryngologies
 laryngology
 laryngoscope
 laryngoscopes
@@ -40764,6 +40778,7 @@ laveered
 lavendering
 laverock
 laverocks
+laves
 laving
 lavishing
 lavrock
@@ -41848,6 +41863,7 @@ liveability
 lived
 liveliest
 liveliness
+lively
 liven
 livener
 liveners
@@ -42323,6 +42339,7 @@ loves
 lovesick
 lovesickness
 lovesicknesses
+lovevines
 lovingnesses
 lowballed
 lowballing
@@ -45017,6 +45034,7 @@ miller
 millerite
 millers
 millesimal
+millesimally
 millhouse
 millhouses
 milliard
@@ -46624,6 +46642,7 @@ mosts
 motes
 motet
 motets
+mothball
 motherboard
 mothered
 motherfuckers
@@ -52138,6 +52157,7 @@ oversimplified
 oversimplifies
 oversimplifying
 oversize
+oversizes
 overskirt
 overslaugh
 oversleep
@@ -55566,6 +55586,7 @@ piperonals
 pipes
 pipestem
 pipestems
+pipestones
 pipette
 pipetted
 pipinesses
@@ -56997,6 +57018,7 @@ postulant
 postulational
 postulator
 postulators
+postured
 posturers
 postures
 posturing
@@ -57351,6 +57373,7 @@ precipitated
 precipitately
 precipitateness
 precipitates
+precipitating
 precipitation
 precipitative
 precipitins
@@ -61928,6 +61951,7 @@ regathering
 regathers
 regatta
 regauge
+regeared
 regelate
 regelated
 regelating
@@ -67660,6 +67684,7 @@ sheather
 sheaved
 sheaves
 shebeans
+shebeens
 shed
 shedders
 shedding
@@ -70525,6 +70550,7 @@ speediest
 speediness
 speedinesses
 speeding
+speedings
 speedo
 speedos
 speeds
@@ -71716,6 +71742,7 @@ stereotypy
 steric
 sterically
 sterigma
+sterigmas
 sterile
 sterilise
 sterilising
@@ -72143,6 +72170,7 @@ strangling
 strangulate
 strangulating
 strangulation
+strap
 straphanged
 straphangers
 straphanging
@@ -73503,6 +73531,7 @@ superfan
 superfarm
 superfast
 superfatted
+superfetation
 superficial
 superficiality
 superfine
@@ -73830,8 +73859,10 @@ surplusing
 surplussed
 surplusses
 surplussing
+surprinting
 surprints
 surprisal
+surprise
 surprised
 surprisingly
 surprize
@@ -74071,6 +74102,7 @@ swig
 swigged
 swigging
 swillers
+swilling
 swim
 swimmier
 swimmily
@@ -76165,6 +76197,7 @@ throwbacks
 thrown
 throwsters
 thrummer
+thrummers
 thrummiest
 thrumming
 thrummy
@@ -83169,6 +83202,7 @@ weaponizes
 weaponry
 weapons
 wear
+wearabilities
 wearable
 wearers
 wearies
@@ -84025,6 +84059,7 @@ withers
 withes
 withholder
 withholders
+withholds
 withiest
 within
 withindoors
