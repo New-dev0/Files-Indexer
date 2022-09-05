@@ -884,6 +884,7 @@ adze
 adzes
 adzukis
 aecia
+aecial
 aeciospores
 aecium
 aedes
@@ -4500,6 +4501,7 @@ auburns
 auctioned
 aucuba
 aucubas
+audacious
 audaciousness
 audacity
 audad
@@ -5796,6 +5798,7 @@ battlegrounds
 battlement
 battlemented
 battlements
+battler
 battlers
 battleships
 battue
@@ -9827,6 +9830,7 @@ calcimined
 calcimining
 calcinations
 calcine
+calcines
 calcining
 calcinoses
 calcinosis
@@ -10160,6 +10164,7 @@ canninesses
 cannings
 cannister
 cannoli
+cannonade
 cannonaded
 cannonades
 cannonading
@@ -11344,6 +11349,7 @@ certifiable
 certifiably
 certificate
 certification
+certifications
 certificatory
 certifier
 certifiers
@@ -11543,6 +11549,7 @@ chanoyus
 chant
 chantable
 chanted
+chanterelle
 chanteuse
 chanting
 chants
@@ -15707,6 +15714,7 @@ cosecants
 cosecs
 coseismal
 coseismals
+coses
 cosey
 coshers
 coshing
@@ -15858,6 +15866,7 @@ counteragents
 counterargue
 counterargues
 counterarguing
+counterargument
 counterattack
 counterattacked
 counterattacks
@@ -16423,6 +16432,7 @@ creole
 creolise
 creolised
 creolises
+creolization
 creolizations
 creolize
 creosol
@@ -21571,6 +21581,7 @@ doppelgangers
 dopy
 dorado
 dorbeetles
+dorbugs
 dore
 dories
 dorkier
@@ -21969,6 +21980,7 @@ dreg
 dreggier
 dreggiest
 dreggy
+dregs
 dreidels
 dreidls
 dreigh
@@ -22207,6 +22219,7 @@ duckier
 duckies
 duckling
 ducklings
+ducks
 ducktails
 duckwalk
 duckwalked
@@ -26395,6 +26408,7 @@ fatten
 fattens
 fatter
 fattest
+fattier
 fattiest
 fatuousness
 fatuousnesses
@@ -27708,6 +27722,7 @@ floorcloth
 floorcloths
 floored
 flooring
+floorings
 floors
 floorshow
 floorshows
@@ -31044,6 +31059,7 @@ goods
 goodwives
 goof
 goofballs
+goofier
 goofs
 goofy
 googlies
@@ -36316,6 +36332,7 @@ incompletely
 incompressible
 inconceivably
 inconclusive
+incondite
 inconformities
 inconformity
 incongruence
@@ -40622,6 +40639,7 @@ latte
 lattens
 latter
 lattice
+latticed
 latticing
 lattin
 lattins
@@ -44648,6 +44666,7 @@ microelements
 microfarads
 microfauna
 microfaunal
+microfibrillar
 microfibrils
 microfiche
 microfiches
@@ -47337,6 +47356,7 @@ mystique
 mythically
 mythicize
 mythicized
+mythicizers
 mythicizes
 mythier
 mythiest
@@ -47626,6 +47646,7 @@ naval
 navally
 nave
 navel
+navels
 navelworts
 navicert
 navigation
@@ -51870,6 +51891,7 @@ overmighty
 overmild
 overmilk
 overmilked
+overmilking
 overmine
 overmined
 overmines
@@ -52214,7 +52236,9 @@ oviposit
 oviposited
 oviposition
 ovipositions
+oviposits
 oviraptor
+oviraptors
 ovisacs
 ovoid
 ovoidal
@@ -52738,6 +52762,7 @@ panetella
 panetellas
 panettones
 panfishes
+panfries
 panfuls
 pangene
 pangenes
@@ -57722,6 +57747,7 @@ prescience
 presciences
 prescientific
 presciently
+prescinded
 prescinding
 prescored
 prescoring
@@ -59216,6 +59242,7 @@ pungently
 pungs
 puniest
 puniness
+puninesses
 punishers
 punishing
 punishments
@@ -60606,6 +60633,7 @@ reactivenesses
 reactivities
 reactor
 reactors
+readability
 readableness
 readablenesses
 readably
@@ -61507,6 +61535,7 @@ reeking
 reel
 reelections
 reeled
+reeler
 reelers
 reeligibility
 reeligible
@@ -69197,6 +69226,7 @@ smaragdite
 smaragdites
 smarm
 smarmier
+smarminesses
 smart
 smarter
 smarties
@@ -70891,6 +70921,7 @@ springings
 springlike
 springtide
 springtides
+springtimes
 springwaters
 springwood
 springwoods
@@ -75573,6 +75604,7 @@ textureless
 textures
 texturize
 texturizing
+thack
 thacked
 thacking
 thae
@@ -81247,6 +81279,7 @@ vamped
 vampiest
 vampire
 vampires
+vampiric
 vampirish
 vampirism
 vampirisms
@@ -82484,6 +82517,7 @@ vulnerability
 vulnerable
 vulnerableness
 vulnerably
+vulneraries
 vulnerary
 vulture
 vultures
@@ -84301,6 +84335,7 @@ wyandottes
 wyes
 wyles
 wyliecoat
+wyling
 wynds
 wyte
 wytes
