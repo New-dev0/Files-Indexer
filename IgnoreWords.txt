@@ -503,6 +503,7 @@ acroliths
 acromegalies
 acromegaly
 acromia
+acronic
 acronycal
 acropetal
 acropetally
@@ -713,6 +714,7 @@ adjunctly
 adjuration
 adjurations
 adjuratory
+adjures
 adjuror
 adjurors
 adjustable
@@ -7485,6 +7487,7 @@ blimy
 blind
 blinder
 blindest
+blindfish
 blindfold
 blindguts
 blindness
@@ -9928,6 +9931,7 @@ callousing
 callously
 callousness
 callow
+callowness
 callownesses
 calls
 callus
@@ -10021,6 +10025,7 @@ campaign
 campaigned
 campaigner
 campaigners
+campanili
 campanologies
 campanology
 campanula
@@ -10532,6 +10537,7 @@ careerist
 careerists
 careers
 careful
+carefullest
 carefully
 carefulnesses
 caregiver
@@ -11856,6 +11862,7 @@ chemurgies
 chenopod
 cheongsams
 cheque
+chequered
 chequering
 chequers
 cherimoya
@@ -11899,6 +11906,7 @@ chevres
 chevrons
 chevy
 chevying
+chewer
 chewers
 chewier
 chewiness
@@ -13217,6 +13225,7 @@ coalpits
 coalsack
 coalsacks
 coalshed
+coalsheds
 coaly
 coalyard
 coaming
@@ -19584,6 +19593,7 @@ develop
 developed
 developer
 developers
+developmentally
 deverbal
 deverbatives
 devest
@@ -20105,6 +20115,7 @@ dildoes
 dilettantes
 dilettanti
 dilettantish
+dilettantism
 dilettantisms
 diligently
 dillies
@@ -23359,6 +23370,7 @@ embrocate
 embrocates
 embrocation
 embrocations
+embroglio
 embroider
 embroidered
 embroiderers
@@ -27396,6 +27408,7 @@ flagstick
 flail
 flairs
 flake
+flaked
 flaker
 flakes
 flakier
@@ -28421,6 +28434,7 @@ formalising
 formalists
 formality
 formalization
+formalizations
 formalize
 formalizer
 formalizing
@@ -38371,6 +38385,7 @@ isogonic
 isogonies
 isogons
 isografted
+isograms
 isogriv
 isohels
 isolable
@@ -38599,6 +38614,7 @@ jambalaya
 jambe
 jambing
 jamboree
+jamborees
 jambs
 jamlike
 jammable
@@ -40375,6 +40391,7 @@ landaulets
 lander
 landfill
 landforms
+landgrab
 landgrave
 landgraves
 landholder
@@ -40744,6 +40761,7 @@ laxest
 laxness
 laxnesses
 lay
+layer
 layerages
 laying
 layman
@@ -40994,6 +41012,7 @@ leguminous
 legumins
 lehua
 lehuas
+leiomyoma
 leiomyomas
 leiomyomata
 leis
@@ -45617,6 +45636,7 @@ misparsing
 misparted
 mispatches
 mispatching
+mispenning
 misperceiving
 misperception
 misphrases
@@ -46143,6 +46163,7 @@ monkshood
 monoacidic
 monoacids
 monoamines
+monobasic
 monocarpic
 monochasial
 monochasium
@@ -46593,6 +46614,7 @@ motion
 motioned
 motioner
 motioners
+motionlessly
 motionlessness
 motivate
 motivated
@@ -47135,6 +47157,7 @@ mushrooms
 mushy
 music
 musical
+musicalise
 musicality
 musicalizations
 musicalized
@@ -47348,6 +47371,7 @@ mystically
 mysticete
 mysticetes
 mysticly
+mystics
 mystification
 mystifications
 mystified
@@ -48129,6 +48153,7 @@ nick
 nicked
 nickelic
 nickeling
+nickelodeon
 nickelous
 nicker
 nickered
@@ -48490,6 +48515,7 @@ noncaloric
 noncampus
 noncancerous
 noncandidacy
+noncandidate
 noncapitalist
 noncapitalists
 noncarcinogen
@@ -48661,6 +48687,7 @@ nonenergy
 nonengagement
 nonentities
 nonentries
+nonequilibria
 nonequivalence
 nonequivalences
 nonerotic
@@ -50663,6 +50690,7 @@ ostensibly
 ostensorium
 ostentation
 ostentations
+osteoarthritic
 osteoblast
 osteoblastic
 osteoblasts
@@ -51283,6 +51311,7 @@ outspan
 outspans
 outsparkled
 outspeaking
+outsped
 outspeeded
 outspeeds
 outspell
@@ -51424,6 +51453,7 @@ outwriting
 outwritten
 outwrought
 outyell
+outyelling
 ouzo
 ouzos
 ova
@@ -53712,6 +53742,7 @@ pectination
 pectize
 pectized
 pectizes
+pectizing
 pectoral
 peculates
 peculating
@@ -53757,6 +53788,7 @@ pedicuring
 pedicurist
 pedicurists
 pediform
+pedigree
 pedigreed
 pediment
 pedimental
@@ -56617,6 +56649,7 @@ poplins
 popliteus
 popover
 popovers
+poppadom
 poppadoms
 poppadums
 popper
@@ -59473,6 +59506,7 @@ pyes
 pygidial
 pygmean
 pygmies
+pygmoid
 pygmy
 pyins
 pyknic
@@ -62638,6 +62672,7 @@ repetends
 repetitions
 repetitious
 repetitiously
+repetitiveness
 rephotograph
 rephotographed
 rephotographing
@@ -63356,6 +63391,7 @@ retardants
 retardates
 retardation
 retarder
+retarding
 retards
 retaste
 retastes
@@ -65269,6 +65305,7 @@ samadhis
 samaras
 samaritan
 samaritans
+samarium
 samarskites
 samba
 sambaed
@@ -66940,6 +66977,7 @@ senhoritas
 senile
 senilely
 senilities
+sennachies
 sennight
 sennights
 sennit
@@ -67054,6 +67092,7 @@ septentrion
 septentrions
 septet
 septets
+septette
 septettes
 septical
 septicemia
@@ -69228,6 +69267,7 @@ smarm
 smarmier
 smarminesses
 smart
+smartass
 smarter
 smarties
 smartweed
@@ -72499,6 +72539,7 @@ subcollection
 subcolony
 subcommission
 subcommunities
+subcommunity
 subcompacts
 subcomponents
 subconsciouses
@@ -74965,6 +75006,7 @@ teasel
 teaseled
 teaseler
 teaselled
+teaser
 teasers
 teases
 teashop
@@ -75318,6 +75360,7 @@ tenrec
 tenrecs
 tens
 tense
+tensely
 tenseness
 tensenesses
 tenser
@@ -77534,6 +77577,7 @@ trespassers
 tressel
 tresses
 tressiest
+tressour
 tressures
 trestle
 trestles
@@ -78450,6 +78494,7 @@ twangers
 twanging
 twangle
 twanglers
+twangles
 twangling
 twangy
 twankies
@@ -80740,6 +80785,7 @@ unwove
 unwoven
 unwrap
 unwrapped
+unwrinkled
 unwrinkling
 unwritten
 unyeaned
@@ -82804,6 +82850,7 @@ warped
 warpers
 warplane
 warpower
+warpwise
 warragal
 warrant
 warranted
@@ -83878,6 +83925,7 @@ wistfulness
 wisting
 wists
 wit
+witchcrafts
 witched
 witches
 witchgrass
@@ -84285,6 +84333,7 @@ wringer
 wringing
 wrings
 wrinkle
+wrinkles
 wrinklier
 wrist
 wristband
@@ -84687,6 +84736,7 @@ yuckiness
 yucks
 yuga
 yukkier
+yukkiest
 yukky
 yuks
 yulan
