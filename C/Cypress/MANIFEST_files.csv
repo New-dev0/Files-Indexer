@@ -1,0 +1,4 @@
+https://mirrors.aliyun.com/openwrt/releases/21.02....,https://mirrors.aliyun.com/openwrt/releases/21.02.1/packages/aarch64_generic/base/Packages.manifest
+AGL/agl-demo-platform-crosssdk-raspberrypi3-20180726064603 ...,https://github.com/chorusmobility/AGL/blob/master/agl-demo-platform-crosssdk-raspberrypi3-20180726064603.rootfs.manifest
+https://downloads.lede-project.org/snapshots/targe...,https://downloads.lede-project.org/snapshots/targets/ipq806x/generic/packages/Packages.manifest
+https://qtest.cc/releases/19.07.7/targets/x86/64/p...,https://qtest.cc/releases/19.07.7/targets/x86/64/packages/Packages.manifest

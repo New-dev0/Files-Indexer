@@ -702,6 +702,7 @@ adjudge
 adjudged
 adjudges
 adjudging
+adjudicated
 adjudicating
 adjudications
 adjudicative
@@ -867,6 +868,7 @@ advertises
 advertising
 advertize
 advertizes
+advertizing
 advisability
 advisableness
 advisements
@@ -1096,6 +1098,7 @@ afterglows
 afterimage
 afterlife
 afterlives
+aftermarket
 aftermarkets
 aftermaths
 aftermost
@@ -4576,6 +4579,7 @@ auks
 auld
 aulder
 aulic
+aunt
 auntlier
 auntly
 aunts
@@ -6996,6 +7000,7 @@ bioacoustics
 bioactive
 bioassay
 bioassayed
+biocenoses
 biochemically
 biochemist
 biochemistries
@@ -9433,6 +9438,7 @@ busgirl
 busgirls
 bush
 bushbucks
+bushel
 busheler
 busheling
 bushelled
@@ -11444,6 +11450,7 @@ chagrins
 chai
 chained
 chaining
+chainmen
 chainsaws
 chaired
 chairing
@@ -16167,6 +16174,7 @@ cowpat
 cowpats
 cowpeas
 cowpie
+cowpokes
 cowpoxes
 cowpunchers
 cowrie
@@ -16386,6 +16394,7 @@ creamwares
 creased
 creaseless
 creases
+creasier
 creasing
 creatable
 create
@@ -17522,6 +17531,7 @@ cynosures
 cyphered
 cyphering
 cypres
+cypress
 cypresses
 cyprians
 cyprinoid
@@ -22940,6 +22950,7 @@ efficacities
 efficacity
 efficacy
 efficiencies
+efficiency
 efficient
 effigies
 effloresced
@@ -24399,6 +24410,7 @@ epidote
 epifaunas
 epifocal
 epigeic
+epigenetic
 epigenetically
 epigenist
 epigenists
@@ -25030,6 +25042,7 @@ eucalypti
 eucalyptol
 eucalyptols
 eucalypts
+eucalyptuses
 eucaryotes
 eucharises
 euchre
@@ -25595,6 +25608,7 @@ exophthalmuses
 exorbitances
 exorbitantly
 exorcise
+exorcised
 exorciser
 exorcisers
 exorcising
@@ -27388,6 +27402,7 @@ fittingnesses
 fivefold
 fiver
 fixating
+fixation
 fixations
 fixatives
 fixed
@@ -36050,6 +36065,7 @@ importuned
 importunely
 importuner
 importunities
+importunity
 imposable
 imposed
 imposers
@@ -36692,6 +36708,7 @@ indowed
 indoxyl
 indraft
 indri
+indubitability
 indubitableness
 induce
 induced
@@ -37056,6 +37073,7 @@ inhibited
 inhibiter
 inhibiters
 inhibition
+inhibitions
 inhibitors
 inholder
 inhomogeneity
@@ -37238,6 +37256,7 @@ insanitations
 insatiable
 insatiately
 insatiateness
+inscape
 inscribe
 inscribes
 inscribing
@@ -41206,6 +41225,7 @@ letdowns
 lethalities
 lethally
 lethals
+lethargic
 lethargy
 lethe
 letted
@@ -41695,6 +41715,7 @@ linoleate
 linoleates
 linoleum
 linos
+linotyping
 linsangs
 linseed
 linstock
@@ -42693,6 +42714,7 @@ lyricised
 lyricising
 lyricisms
 lyricize
+lyricons
 lyrics
 lyrisms
 lyrist
@@ -55322,6 +55344,7 @@ pickoff
 pickoffs
 pickpocket
 pickproof
+pickup
 pickups
 pickwicks
 picky
@@ -57204,6 +57227,7 @@ powwowed
 powwows
 poxes
 poxing
+poxvirus
 poxviruses
 poxy
 poyou
@@ -57781,6 +57805,7 @@ prenuptial
 preobtain
 preobtained
 preoccupancy
+preoccupied
 preoccupies
 preopening
 preoperative
@@ -57836,6 +57861,7 @@ prepotency
 prepotently
 preppier
 preppiest
+preppy
 preprandial
 preprice
 prepriced
@@ -60718,6 +60744,7 @@ ravisher
 ravishers
 ravishes
 ravishing
+ravishingly
 ravishment
 rawest
 rawhide
@@ -61028,6 +61055,7 @@ reboils
 rebook
 rebooked
 rebooks
+reboots
 rebop
 reborn
 rebottles
@@ -62879,6 +62907,7 @@ reposals
 reposed
 reposedly
 reposeful
+reposer
 reposers
 reposit
 reposited
@@ -66116,6 +66145,7 @@ schizogonous
 schizogony
 schizont
 schizonts
+schizophrenes
 schizophrenia
 schizophrenias
 schizophrenic
@@ -71125,6 +71155,7 @@ sprinters
 sprinting
 sprints
 sprite
+sprites
 sprits
 spritsails
 spritzed
@@ -74200,6 +74231,7 @@ swipples
 swirl
 swirled
 swirlingly
+swisher
 swishers
 swishes
 swishier
@@ -78993,6 +79025,7 @@ ultrasmooth
 ultrasonically
 ultrasound
 ultrasounds
+ultrastructure
 ultravacua
 ultravacuum
 ultravacuums
@@ -79983,6 +80016,7 @@ ungrateful
 ungratefulness
 ungreased
 unground
+ungual
 unguard
 unguarded
 unguardednesses
@@ -84292,6 +84326,7 @@ woofer
 woofing
 wooingly
 wool
+wooled
 woolen
 wooler
 woolers
