@@ -2639,6 +2639,7 @@ annulus
 annuluses
 annunciate
 annunciated
+annunciates
 annunciating
 annunciatory
 anoa
@@ -5039,6 +5040,7 @@ backbenchers
 backbenches
 backbite
 backbites
+backbitings
 backbone
 backboned
 backbreakers
@@ -9226,6 +9228,7 @@ bullyrags
 bulrush
 bulrushes
 bulwark
+bulwarked
 bulwarks
 bumbershoot
 bumbershoots
@@ -11615,6 +11618,7 @@ charcoals
 charge
 chargehand
 charger
+chargers
 charging
 chargrills
 charily
@@ -12556,6 +12560,7 @@ cipherers
 ciphering
 ciphertext
 ciphonies
+cipolin
 cipollino
 cipollinos
 circa
@@ -13897,6 +13902,7 @@ colonization
 colonized
 colonizers
 colonnade
+colonnades
 colons
 colonus
 colophonies
@@ -14293,6 +14299,7 @@ complot
 complying
 compo
 compone
+components
 comport
 comported
 comportment
@@ -14539,6 +14546,7 @@ condonation
 condone
 condoned
 condoners
+condones
 condoning
 condores
 condors
@@ -16120,6 +16128,7 @@ cowbirds
 cowboy
 cowboying
 cowboys
+cowcatchers
 cowed
 cower
 cowflaps
@@ -19406,6 +19415,7 @@ despising
 despiteful
 despites
 despiting
+despoiled
 despoiler
 despoiling
 despoilment
@@ -19417,6 +19427,7 @@ despondency
 despondent
 despondently
 despumate
+despumated
 desquamated
 desquamation
 desserts
@@ -22825,6 +22836,7 @@ edgier
 edginesses
 edging
 edgings
+edibility
 edictally
 edifications
 edifice
@@ -23524,6 +23536,7 @@ emptins
 emptying
 empurple
 empurpling
+empyemas
 empyemata
 empyemic
 empyreal
@@ -32966,6 +32979,7 @@ hazans
 hazard
 hazarder
 hazarders
+hazarding
 hazardous
 hazardousness
 hazel
@@ -34429,6 +34443,7 @@ hornblende
 hornblendes
 hornblendic
 hornbooks
+hornedness
 hornet
 hornier
 horniest
@@ -34527,6 +34542,7 @@ hospitalising
 hospitality
 hospitalize
 hospitalized
+hospitalizes
 hospitia
 hospodar
 host
@@ -37915,6 +37931,7 @@ intrenched
 intrenches
 intrenching
 intrepid
+intrepidities
 intrepidity
 intrepidly
 intrepidness
@@ -39309,6 +39326,7 @@ kame
 kamikaze
 kamikazes
 kanaka
+kane
 kanes
 kanjis
 kantar
@@ -43994,6 +44012,7 @@ megadynes
 megafauna
 megafaunae
 megafaunal
+megafaunas
 megagametes
 megagametophyte
 megahertz
@@ -44172,6 +44191,7 @@ menadione
 menadiones
 menads
 menage
+menageries
 menages
 menarcheal
 menazon
@@ -46841,6 +46861,7 @@ mudflow
 mudguard
 mudguards
 mudhen
+mudhens
 mudholes
 mudlark
 mudpuppies
@@ -46984,6 +47005,7 @@ multiparameter
 multiparas
 multiparty
 multipath
+multipede
 multipion
 multipiston
 multiplayer
@@ -47700,6 +47722,7 @@ nawabs
 nay
 nays
 naysaid
+naysayer
 naysayers
 naysaying
 naysays
@@ -47726,6 +47749,7 @@ nebbishy
 nebenkern
 nebenkerns
 nebulising
+nebulize
 nebulose
 nebulosities
 nebulous
@@ -48342,6 +48366,7 @@ nitrifiers
 nitrify
 nitrifying
 nitrile
+nitriles
 nitrites
 nitro
 nitrobenzene
@@ -53574,6 +53599,7 @@ patronizations
 patronized
 patronizing
 patronly
+patrons
 pattamar
 patted
 pattens
@@ -58860,6 +58886,7 @@ protractors
 protracts
 protrade
 protreptics
+protrude
 protruded
 protrudes
 protrusion
@@ -63569,6 +63596,7 @@ retroacting
 retroaction
 retroactions
 retroactive
+retroactivities
 retroceded
 retrocession
 retrocessions
@@ -65313,6 +65341,7 @@ salutatorians
 salutatories
 salutatory
 salute
+salvage
 salvageability
 salvageable
 salvager
@@ -68925,6 +68954,7 @@ slang
 slanged
 slangier
 slangiest
+slangily
 slanginess
 slanguages
 slank
@@ -72323,6 +72353,7 @@ strongmen
 strongyloidosis
 strontians
 strontium
+strontiums
 strook
 strophe
 strophoid
@@ -75810,6 +75841,7 @@ theorized
 theosophically
 theosophies
 therapeuses
+therapeutic
 therapsid
 there
 thereafter
@@ -81836,6 +81868,7 @@ vernicles
 vernier
 vernissage
 vernix
+veronica
 veronicas
 verruca
 verrucas
@@ -83015,6 +83048,7 @@ waterinesses
 waterishness
 waterishnesses
 waterjets
+waterless
 waterlily
 waterlines
 waterlogging
@@ -83990,6 +84024,7 @@ witherods
 withers
 withes
 withholder
+withholders
 withiest
 within
 withindoors
