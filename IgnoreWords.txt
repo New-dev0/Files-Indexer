@@ -3776,6 +3776,7 @@ armourers
 armouries
 armouring
 armours
+armoury
 armpits
 armrest
 armrests
@@ -3848,6 +3849,7 @@ arrogating
 arrogation
 arrogations
 arrogator
+arrondissements
 arrowhead
 arrowlike
 arrowwoods
@@ -4798,6 +4800,7 @@ aviated
 aviates
 aviators
 aviatrix
+aviatrixes
 avicular
 aviculture
 aviculturist
@@ -6594,6 +6597,7 @@ bestriding
 bestrow
 bestrowed
 bestsellerdom
+bestsellerdoms
 bestudded
 bestudding
 bestuds
@@ -9831,6 +9835,7 @@ calculus
 calculuses
 caldarium
 caldera
+caldron
 caleches
 calefactories
 calefactory
@@ -9906,6 +9911,7 @@ calloused
 callouses
 callousing
 callously
+callousness
 callow
 callownesses
 calls
@@ -14254,6 +14260,7 @@ comportment
 compos
 composedly
 composednesses
+composer
 composing
 compositionally
 compositors
@@ -14521,6 +14528,7 @@ confabbed
 confabbing
 confabulates
 confabulating
+confabulations
 confecting
 confectioner
 confectioners
@@ -15535,6 +15543,7 @@ coronations
 coronel
 coroner
 coroners
+coroneted
 coronographs
 corotate
 corotated
@@ -19642,6 +19651,7 @@ dhak
 dhal
 dhals
 dharnas
+dhobi
 dhobis
 dhoolies
 dhooti
@@ -26695,6 +26705,7 @@ fervor
 fervour
 fes
 fess
+fesse
 fesses
 fesswise
 festally
@@ -26920,6 +26931,7 @@ figurine
 figwort
 figworts
 fil
+fila
 filagree
 filagrees
 filamentous
@@ -46445,6 +46457,7 @@ mortmains
 morular
 morulation
 morulations
+mos
 mosaicist
 mosaicists
 mosaicked
@@ -46999,6 +47012,7 @@ murrain
 murrains
 murras
 murre
+murrelet
 murres
 murreys
 murrha
@@ -48134,6 +48148,7 @@ nihilists
 nihility
 nil
 nilgai
+nilghai
 nilghais
 nill
 nilpotent
@@ -49638,6 +49653,7 @@ occupiers
 occupies
 occupy
 occupying
+occurred
 occurrents
 occurs
 ocean
@@ -49987,6 +50003,7 @@ omnivorously
 omophagia
 omophagias
 omophagic
+omophagies
 omophagy
 omphalos
 oms
@@ -50821,6 +50838,7 @@ outdrunk
 outdueling
 outduelled
 outearned
+outearns
 outeat
 outeating
 outecho
@@ -52155,6 +52173,7 @@ owlish
 owls
 owned
 owner
+owners
 ownership
 ownerships
 owning
@@ -54268,6 +54287,7 @@ perseverances
 perseverating
 perseveration
 perseverative
+persevered
 persimmon
 persistence
 persistencies
@@ -55560,6 +55580,7 @@ plagiary
 plagued
 plaguer
 plagues
+plaguing
 plaices
 plaid
 plain
@@ -57161,6 +57182,7 @@ precipitins
 precipitous
 precipitously
 precipitousness
+precise
 precised
 precisely
 preciseness
@@ -57943,6 +57965,7 @@ primatologies
 primatology
 prime
 primed
+primely
 primeness
 primer
 primes
@@ -58535,6 +58558,7 @@ prosier
 prosily
 prosimians
 prosit
+prosodist
 prosodists
 prosody
 prosoma
@@ -64272,6 +64296,7 @@ rondos
 ronnels
 ronyons
 rood
+roods
 roofed
 roofing
 roofings
@@ -67106,6 +67131,7 @@ setae
 setiform
 setline
 setose
+setous
 setouts
 sets
 setscrew
@@ -67148,6 +67174,7 @@ severities
 severs
 seviches
 sevruga
+sevrugas
 sewability
 sewable
 sewage
@@ -67480,6 +67507,7 @@ sheilas
 sheitan
 shekel
 shekels
+sheldrake
 sheldrakes
 shelf
 shelfful
@@ -69419,6 +69447,7 @@ snowcaps
 snowdrift
 snowdrops
 snowfall
+snowfalls
 snowfield
 snowier
 snowily
@@ -70320,6 +70349,7 @@ spencer
 spences
 spendable
 spenders
+spendier
 spendiest
 spending
 spendthrifts
@@ -73592,6 +73622,7 @@ surreptitious
 surrey
 surrogate
 surrogated
+surrogating
 surrounding
 surrounds
 surtax
@@ -77087,6 +77118,7 @@ transgendered
 transgress
 transgressed
 transgresses
+transgression
 transgressions
 transgressive
 transgressor
@@ -77290,6 +77322,7 @@ treaders
 treading
 treadles
 treadmill
+treasure
 treasured
 treasurership
 treasurerships
@@ -80794,6 +80827,7 @@ uptoss
 uptosses
 uptossing
 uptown
+uptowner
 uptrend
 upturned
 upward
@@ -82900,6 +82934,7 @@ weasons
 weather
 weatherability
 weatherboarded
+weatherboarding
 weatherboards
 weathercast
 weathered
