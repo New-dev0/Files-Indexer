@@ -577,6 +577,7 @@ actuator
 acuities
 aculeate
 aculeated
+aculeus
 acuminates
 acuminous
 acupressure
@@ -3068,6 +3069,7 @@ antisexists
 antisexual
 antisexualities
 antishark
+antiskid
 antislavery
 antisleep
 antislip
@@ -4732,6 +4734,7 @@ autopsies
 autopsying
 autoradiogram
 autorotations
+autosomal
 autostrada
 autostradas
 autostrade
@@ -6395,6 +6398,7 @@ bene
 benedict
 benedictions
 benefactions
+beneficed
 beneficences
 beneficent
 beneficently
@@ -7017,6 +7021,7 @@ biographic
 biographical
 biographically
 biographies
+biogs
 biohazard
 biohazards
 bioherm
@@ -9053,6 +9058,7 @@ bucklering
 bucklers
 buckles
 bucko
+buckoes
 buckramed
 buckrams
 buckshees
@@ -10049,6 +10055,7 @@ canaled
 canaliculus
 canalising
 canalization
+canalize
 canalizing
 canalled
 canaller
@@ -11341,6 +11348,7 @@ certificatory
 certifier
 certifiers
 certify
+certitude
 ceruleans
 ceruloplasmin
 ceruloplasmins
@@ -11775,6 +11783,7 @@ cheered
 cheerers
 cheerfully
 cheerfulness
+cheerinesses
 cheering
 cheerios
 cheerlead
@@ -18416,6 +18425,7 @@ defenseman
 defensible
 defensive
 defensiveness
+defensives
 defer
 deference
 deferences
@@ -18942,6 +18952,7 @@ denitrated
 denitrating
 denitrification
 denitrifies
+denitrify
 denizens
 denning
 denominate
@@ -19013,6 +19024,7 @@ denyingly
 deodands
 deodara
 deodaras
+deodorant
 deodorants
 deodorization
 deontological
@@ -26797,6 +26809,7 @@ feudist
 feuds
 feuilleton
 feuilletonism
+feuilletonisms
 feuilletonist
 feuilletonists
 feus
@@ -30269,6 +30282,7 @@ gibbing
 gibbons
 gibbosities
 gibbous
+gibbously
 gibed
 gibes
 giblet
@@ -39299,6 +39313,7 @@ kashruths
 katakana
 katakanas
 katas
+katchinas
 katcinas
 katharsis
 kathode
@@ -41377,6 +41392,7 @@ lightning
 lightplane
 lightplanes
 lightship
+lightsome
 lighttight
 lightwave
 lightweight
@@ -43759,6 +43775,7 @@ meadowlands
 meadowlark
 meadowlarks
 meadowsweet
+meads
 meagerness
 meagernesses
 meal
@@ -50520,6 +50537,7 @@ orphisms
 orphrey
 orphreyed
 orpiment
+orpiments
 orpine
 orra
 orrices
@@ -51610,6 +51628,7 @@ overdrank
 overdrawing
 overdrawn
 overdress
+overdrew
 overdrinking
 overdriven
 overdrives
@@ -58577,6 +58596,7 @@ prosciuttos
 proscribe
 proscribes
 proscribing
+proscription
 proscriptions
 prose
 prosect
@@ -60503,6 +60523,7 @@ ravenously
 ravenousnesses
 ravens
 raves
+ravigotes
 ravines
 ravining
 ravins
@@ -61041,6 +61062,7 @@ recommencement
 recommences
 recommencing
 recommendable
+recommendations
 recommendatory
 recommended
 recommends
@@ -61743,6 +61765,7 @@ refront
 refroze
 reft
 refuel
+refueled
 refueling
 refuelled
 refuels
@@ -65818,6 +65841,7 @@ scatterguns
 scattering
 scattershot
 scaup
+scaupers
 scaups
 scaur
 scaurs
@@ -68288,6 +68312,7 @@ silked
 silkie
 silkier
 silkiest
+silklike
 silkolines
 silkweed
 silkweeds
@@ -71728,6 +71753,7 @@ stitching
 stitchwort
 stitchworts
 stithy
+stithying
 stivers
 stoae
 stoai
@@ -72405,6 +72431,7 @@ subblocks
 subbranch
 subbreeds
 subbureau
+subbureaus
 subcabinet
 subcaste
 subcategories
@@ -73165,6 +73192,7 @@ summerwood
 summerwoods
 summery
 summiteer
+summiting
 summoned
 summoner
 summoners
@@ -75231,6 +75259,7 @@ tenebrious
 tenebrism
 tenebrisms
 tenebrist
+tenebrists
 tenebrous
 tenesmic
 tenet
@@ -79380,6 +79409,7 @@ underpinned
 underpins
 underplayed
 underplot
+underpriced
 underproduction
 underproof
 underpropping
@@ -79689,6 +79719,7 @@ ungentle
 ungently
 ungentrified
 ungimmicky
+ungird
 ungirded
 ungirds
 unglamorized
@@ -82412,6 +82443,7 @@ vrow
 vuggier
 vuggs
 vugh
+vughs
 vugs
 vulcanisate
 vulcanisates
@@ -82621,6 +82653,7 @@ wallopings
 wallops
 wallow
 wallowed
+wallowers
 wallpaper
 wallpapers
 wallydrags
@@ -82872,6 +82905,7 @@ waterlogging
 waterlogs
 waterloos
 watermark
+waterpower
 waterproofers
 waterproofness
 waters
@@ -83659,6 +83693,7 @@ windless
 windlessly
 windmills
 window
+windowed
 windowing
 windowpanes
 windows
