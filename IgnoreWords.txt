@@ -721,6 +721,7 @@ adjustable
 adjusted
 adjustive
 adjustmental
+adjustors
 adjusts
 adjutant
 adjutants
@@ -1163,6 +1164,7 @@ aggadic
 agger
 aggies
 aggiornamentos
+agglomerate
 agglomerates
 agglomerating
 agglomerations
@@ -1318,6 +1320,7 @@ aigrets
 aigrette
 aigrettes
 ail
+ailanthic
 ailanthus
 ailing
 ailurophiles
@@ -10984,6 +10987,7 @@ catholically
 catholicate
 catholicates
 catholicity
+catholicized
 catholicizing
 catholicon
 catholicons
@@ -15062,6 +15066,7 @@ contemptibility
 contemptibly
 contemptuous
 contemptuously
+contender
 contends
 contentedly
 contentednesses
@@ -16474,6 +16479,7 @@ creosols
 creosotic
 creosoting
 crepey
+crepier
 crepiest
 creping
 crepitant
@@ -19922,6 +19928,7 @@ dicers
 dicey
 dichasia
 dichasial
+dichasium
 dichloroethane
 dichlorvoses
 dichogamous
@@ -28199,6 +28206,7 @@ footlessnesses
 footling
 footlocker
 footlockers
+footmarks
 footmen
 footnote
 footnoted
@@ -29004,6 +29012,7 @@ frolic
 frolicked
 frolicker
 frolickers
+frolicsome
 from
 fromage
 fromenty
@@ -32543,6 +32552,7 @@ hames
 hammada
 hammams
 hammed
+hammer
 hammered
 hammerers
 hammering
@@ -32837,6 +32847,7 @@ harry
 harshen
 harshened
 harshening
+harshens
 harshly
 harshness
 harslet
@@ -36682,6 +36693,7 @@ indoxyl
 indraft
 indri
 indubitableness
+induce
 induced
 inducement
 inducer
@@ -37048,6 +37060,7 @@ inhibitors
 inholder
 inhomogeneity
 inhomogeneous
+inhospitable
 inhospitality
 inhuman
 inhumane
@@ -40747,6 +40760,7 @@ laugher
 laughers
 laughing
 laughingstock
+laughingstocks
 laughlines
 laughs
 launces
@@ -41929,6 +41943,7 @@ loaf
 loafed
 loafing
 loamiest
+loaminesses
 loamless
 loams
 loamy
@@ -42264,6 +42279,7 @@ lordship
 lordships
 lore
 lorgnette
+lorgnon
 lorgnons
 lorica
 loricae
@@ -42911,6 +42927,7 @@ magnetos
 magnetosphere
 magnetospheres
 magnetospheric
+magnetrons
 magnificat
 magnificats
 magnificently
@@ -45340,6 +45357,7 @@ misallocation
 misallocations
 misallots
 misallotting
+misaltered
 misalters
 misanalysis
 misanthrope
@@ -49212,6 +49230,7 @@ noons
 noontide
 noontides
 noontimes
+noose
 noosing
 nopal
 nopals
@@ -49242,6 +49261,7 @@ normless
 normotensive
 normothermias
 normothermic
+northeasterly
 northeastern
 northeasts
 northeastwards
@@ -51181,6 +51201,7 @@ outliner
 outlived
 outliver
 outlivers
+outlives
 outliving
 outloved
 outloves
@@ -52108,6 +52129,7 @@ overregulating
 overregulations
 overreliance
 overreliances
+overreport
 overreported
 overrepresented
 overridden
@@ -52615,6 +52637,7 @@ paillard
 paillasse
 paillettes
 pails
+pailsful
 pained
 painful
 painfullest
@@ -54299,6 +54322,7 @@ perfuses
 perfusion
 pergolas
 perhapses
+peri
 perianths
 periapses
 periblems
@@ -63293,6 +63317,7 @@ respectfully
 respecting
 respectively
 respell
+respellings
 respelt
 respirable
 respirator
@@ -64723,6 +64748,7 @@ roughneck
 roughnecking
 roughnecks
 roughrider
+roughriders
 rouille
 roulade
 roulades
@@ -65994,6 +66020,7 @@ scarpers
 scarphs
 scarping
 scarred
+scarriest
 scars
 scarted
 scarting
@@ -66689,6 +66716,7 @@ secret
 secretariats
 secretary
 secreted
+secretest
 secretin
 secretins
 secretion
@@ -70152,6 +70180,7 @@ soother
 soothers
 soothes
 soothing
+soothingly
 soothingnesses
 soothly
 soothsay
@@ -70551,6 +70580,7 @@ spectre
 spectres
 spectrographic
 spectrometers
+spectrometries
 spectroscope
 spectroscopes
 spectrum
@@ -73025,6 +73055,7 @@ substantival
 substantivally
 substantives
 substantivize
+substantivizes
 substantivizing
 substate
 substituted
@@ -74739,6 +74770,7 @@ tallyho
 tallyhoing
 tallyman
 tallymen
+talmudic
 talmudism
 talmudisms
 taloned
@@ -79762,6 +79794,7 @@ undressing
 undrest
 undrew
 undried
+undrinkable
 undulance
 undulant
 undular
@@ -84475,6 +84508,7 @@ wrings
 wrinkle
 wrinkles
 wrinklier
+wrinkly
 wrist
 wristband
 wristbands
@@ -84584,6 +84618,7 @@ xeruses
 xi
 xiphoid
 xiphoids
+xis
 xylan
 xylans
 xylem
