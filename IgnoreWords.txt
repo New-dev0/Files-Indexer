@@ -270,6 +270,7 @@ accorders
 accordingly
 accordionist
 accordions
+accost
 accosting
 accosts
 accountableness
@@ -407,6 +408,7 @@ acidifiers
 acidifies
 acidify
 acidimeter
+acidimetric
 acidimetries
 acidities
 acidity
@@ -6590,6 +6592,7 @@ bestowal
 bestowers
 bestows
 bestrewed
+bestrewn
 bestrews
 bestrid
 bestrides
@@ -10025,6 +10028,7 @@ campier
 campiest
 campily
 campiness
+campinesses
 camping
 campo
 campongs
@@ -12507,6 +12511,7 @@ cinerary
 cinereous
 cingula
 cingular
+cingulate
 cinnabar
 cinnamic
 cinnamons
@@ -13435,6 +13440,7 @@ codiscover
 codiscoverer
 codiscoverers
 codiscovers
+codlin
 codlings
 codominant
 codon
@@ -14691,6 +14697,7 @@ congruities
 congruously
 congruousnesses
 coni
+conic
 conical
 conics
 conidial
@@ -18510,6 +18517,7 @@ defragger
 defraggers
 defraud
 defrauder
+defrayal
 defrayals
 defrayed
 defrayer
@@ -19388,6 +19396,7 @@ destrier
 destroy
 destroyed
 destroyers
+destroying
 destroys
 destruct
 destructed
@@ -22684,6 +22693,7 @@ ecocatastrophe
 ecocatastrophes
 ecocides
 ecofeminism
+ecofeminisms
 ecologic
 ecological
 ecologically
@@ -22801,6 +22811,7 @@ educative
 educators
 educe
 educed
+educes
 educible
 eduction
 eductor
@@ -22994,6 +23005,7 @@ elations
 elbowing
 eldercare
 elderlies
+elderliness
 elderlinesses
 elders
 elderships
@@ -25993,6 +26005,7 @@ facture
 faculties
 faculty
 fad
+fadable
 faddish
 faddishness
 faddishnesses
@@ -29723,6 +29736,7 @@ gasp
 gasper
 gaspereau
 gasps
+gassed
 gassier
 gassiest
 gassily
@@ -30823,6 +30837,7 @@ gnostical
 gnosticisms
 gnostics
 gnotobiotic
+gnotobiotically
 goad
 goaded
 goading
@@ -32684,6 +32699,7 @@ harmonically
 harmonics
 harmonies
 harmoniousness
+harmonists
 harmonium
 harmonizations
 harmonize
@@ -34029,6 +34045,7 @@ holydays
 holystone
 holystoned
 holystones
+holytides
 homager
 homages
 homaging
@@ -36447,6 +36464,7 @@ independencies
 indescribably
 indestructible
 indestructibly
+indeterminate
 indeterminisms
 indeterministic
 index
@@ -39354,6 +39372,7 @@ kelpies
 kelping
 kelps
 kelter
+kelters
 kelvins
 kemps
 ken
@@ -41087,6 +41106,7 @@ leukopoietic
 leukorrhea
 leukorrheas
 leukotomies
+levant
 levanter
 levanters
 levanting
@@ -41496,6 +41516,7 @@ lingo
 lingonberry
 lingually
 linguicas
+linguini
 linguinis
 linguisa
 linguist
@@ -44619,6 +44640,7 @@ microimages
 microinch
 microinject
 microinjected
+microinjecting
 microinjection
 microinjections
 microloan
@@ -48749,6 +48771,7 @@ nonmilitants
 nonmilitary
 nonminority
 nonmodern
+nonmolecular
 nonmonetarists
 nonmoral
 nonmotility
@@ -58830,6 +58853,7 @@ pseudopregnant
 pseudorandom
 pseudoscorpion
 pseudoscorpions
+pseuds
 pshawing
 pshaws
 psi
@@ -59693,6 +59717,7 @@ queenly
 queens
 queenside
 queerer
+queerest
 queerish
 queerly
 queerness
@@ -62702,6 +62727,7 @@ reproofs
 reprove
 reprover
 reprovers
+reproving
 reprovisioned
 reps
 reptile
@@ -66770,6 +66796,7 @@ semiology
 semiopaque
 semioses
 semiotic
+semiotician
 semioticist
 semioticists
 semiotics
@@ -69244,6 +69271,7 @@ smutted
 smuttier
 smuttiest
 smuttinesses
+smutting
 snacked
 snacker
 snackers
@@ -69355,6 +69383,7 @@ sniffling
 sniffly
 sniffs
 sniffy
+snifter
 snifters
 snigger
 sniggered
@@ -71031,6 +71060,7 @@ stabilization
 stabilized
 stabilizer
 stabilizing
+stableboys
 stabled
 stableman
 stablemates
@@ -72972,6 +73002,7 @@ sugarhouse
 sugarier
 sugariest
 sugarlike
+sugarloaves
 sugars
 sugary
 suggest
@@ -74342,6 +74373,7 @@ tagmemes
 tagrag
 tagrags
 tags
+tahini
 tahinis
 tahrs
 tahsildar
@@ -79193,6 +79225,7 @@ underachieved
 underachievers
 underachieving
 underact
+underacted
 underage
 underages
 underarm
@@ -79487,6 +79520,7 @@ unembarrassed
 unembellished
 unembittered
 unemotionally
+unemphatic
 unemphatically
 unemployability
 unemployables
@@ -80672,6 +80706,7 @@ upgathering
 upgaze
 upgazed
 upgird
+upgirded
 upgradabilities
 upgradable
 upgrade
