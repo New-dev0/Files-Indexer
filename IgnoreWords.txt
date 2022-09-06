@@ -4793,6 +4793,7 @@ availabilities
 availableness
 availing
 avalanches
+avalanching
 avant
 avaricious
 avariciously
@@ -7558,6 +7559,7 @@ blistery
 blithe
 blitheful
 blithely
+blither
 blithering
 blithers
 blithesome
@@ -12506,6 +12508,7 @@ chunkiest
 chunking
 chunks
 chunnels
+chuntered
 churched
 churches
 churchgoers
@@ -12547,6 +12550,7 @@ cibol
 cibols
 ciborium
 ciboules
+cicada
 cicadas
 cicatrization
 cicatrize
@@ -15247,6 +15251,7 @@ contumacy
 contumelies
 contused
 conundrum
+conurbations
 convalescence
 convalescences
 convalescents
@@ -18906,6 +18911,7 @@ demantoids
 demarcate
 demarcated
 demarcates
+demarcating
 demarcation
 demarked
 demarking
@@ -19189,6 +19195,7 @@ depictor
 depilator
 depilatories
 depilators
+depilatory
 deplaning
 deplete
 depleting
@@ -19579,6 +19586,7 @@ detaining
 detains
 detect
 detectabilities
+detectability
 detected
 detecter
 detecting
@@ -25021,6 +25029,7 @@ ethanols
 ethene
 ethenes
 ethereal
+ethereality
 etherealization
 etherealizes
 etherealnesses
@@ -25660,6 +25669,7 @@ exoenzyme
 exogamies
 exogamous
 exogen
+exogenism
 exogens
 exon
 exonerate
@@ -27472,6 +27482,7 @@ fitness
 fits
 fitters
 fittingnesses
+fittings
 fivefold
 fiver
 fixating
@@ -28692,6 +28703,7 @@ fossilization
 fossilizations
 fossilized
 fossils
+fossorial
 foster
 fosterage
 fosterages
@@ -31792,6 +31804,7 @@ grimaced
 grimacing
 grime
 grimes
+grimier
 grimiest
 grimily
 griminess
@@ -32613,6 +32626,7 @@ halls
 halluces
 hallucinating
 hallucinator
+hallucinators
 hallucinatory
 hallucinogens
 hallux
@@ -33247,6 +33261,7 @@ hearties
 heartiest
 heartiness
 heartinesses
+heartless
 heartlessly
 heartlessness
 heartlessnesses
@@ -40310,6 +40325,7 @@ kythes
 laagered
 laagering
 lab
+labanotation
 labanotations
 labarums
 labdanum
@@ -43167,6 +43183,7 @@ makeshift
 makeup
 makimonos
 making
+malabsorption
 malabsorptions
 malachites
 malacological
@@ -43578,6 +43595,7 @@ marbles
 marbling
 marbly
 marcasites
+marcellers
 march
 marchen
 marcher
@@ -47780,6 +47798,7 @@ nappas
 napped
 napper
 nappes
+nappinesses
 nappy
 naprapathies
 naprapathy
@@ -48898,6 +48917,7 @@ nondancer
 nondancers
 nondances
 nondecisions
+nondeforming
 nondegenerate
 nondegree
 nondelegates
@@ -50253,6 +50273,7 @@ oilcloth
 oilcloths
 oilcups
 oilers
+oilholes
 oiliest
 oilily
 oiliness
@@ -50445,6 +50466,7 @@ onward
 onyx
 onyxes
 oocytes
+oodles
 oogamete
 oogamies
 oogonia
@@ -51830,6 +51852,7 @@ overbred
 overbreeds
 overbriefed
 overbright
+overbrowsed
 overbrowses
 overbrowsing
 overbrutal
@@ -54225,6 +54248,7 @@ pendulousnesses
 pendulum
 pendulums
 peneplain
+peneplains
 peneplane
 peneplanes
 penetrabilities
@@ -60308,6 +60332,7 @@ quixotism
 quixotisms
 quixotry
 quizzers
+quizzical
 quizzicalities
 quizzing
 quod
@@ -66700,6 +66725,7 @@ scrouge
 scrouged
 scrouges
 scrouging
+scroungier
 scroungiest
 scrounging
 scroungy
@@ -68509,6 +68535,7 @@ shynesses
 shyster
 si
 sialidan
+sialidans
 sials
 sib
 sibbs
@@ -68574,6 +68601,7 @@ sidelong
 sideman
 sidemen
 sidepieces
+sidereal
 siderite
 siderites
 siderolite
@@ -70496,6 +70524,7 @@ sorta
 sortied
 sortieing
 sortilege
+sortition
 sostenuto
 sot
 soteriological
@@ -71215,6 +71244,7 @@ spoofing
 spoofs
 spookery
 spookiest
+spookily
 spooking
 spooky
 spooled
@@ -77265,6 +77295,7 @@ tornado
 tornillo
 toro
 toroid
+toroidal
 torosity
 toroth
 torpedoed
@@ -79030,6 +79061,7 @@ tyiyn
 tyke
 tykes
 tymbal
+tymbals
 tympana
 tympani
 tympanic
@@ -80456,6 +80488,7 @@ unjoints
 unjoyful
 unjudged
 unjust
+unjustly
 unjustness
 unjustnesses
 unkempt
@@ -84543,6 +84576,7 @@ woodlands
 woodlark
 woodlarks
 woodless
+woodlores
 woodlot
 woodman
 woodmen
@@ -85044,6 +85078,7 @@ yeller
 yelling
 yellow
 yellowed
+yellowish
 yellowlegs
 yellowtail
 yellowtails
