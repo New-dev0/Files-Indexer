@@ -552,6 +552,7 @@ actionless
 activating
 actively
 activeness
+activenesses
 activism
 activistic
 activities
@@ -3344,6 +3345,7 @@ apostrophising
 apostrophized
 apostrophizes
 apothecaries
+apothecary
 apothece
 apothecia
 apothecial
@@ -5265,6 +5267,7 @@ bakemeats
 baker
 bakers
 bakeshop
+bakewares
 baklava
 baksheeshes
 bakshish
@@ -9534,6 +9537,7 @@ butler
 butlery
 butte
 butted
+butter
 butterball
 butterburs
 butterfingers
@@ -11115,6 +11119,7 @@ cavendishes
 caver
 cavern
 caverns
+cavicorn
 cavie
 cavil
 caviled
@@ -15904,6 +15909,7 @@ coulibiac
 coulibiacs
 coulis
 couloir
+coulombs
 coulometer
 coulometers
 coulometrically
@@ -20150,6 +20156,7 @@ diglossias
 diglossic
 diglot
 diglots
+dignified
 dignifies
 dignify
 dignifying
@@ -21589,6 +21596,7 @@ donative
 donator
 done
 donee
+donees
 doneness
 donenesses
 dong
@@ -28031,6 +28039,7 @@ flustering
 flusters
 fluted
 flutelike
+fluting
 flutings
 flutter
 flutterboard
@@ -35283,6 +35292,7 @@ hypermodernist
 hypermodernists
 hyperons
 hyperopes
+hyperparasitic
 hyperparasitism
 hyperphagia
 hyperphysical
@@ -35417,6 +35427,7 @@ hypotenuses
 hypothalamic
 hypothecates
 hypothecation
+hypothecator
 hypothecators
 hypothecs
 hypothermias
@@ -36283,6 +36294,7 @@ inanely
 inaneness
 inaner
 inanes
+inanimately
 inanimatenesses
 inanities
 inanition
@@ -36551,6 +36563,7 @@ increate
 incredibilities
 incredibleness
 incredibly
+incredulous
 incredulously
 incrementalism
 incrementally
@@ -37006,6 +37019,7 @@ inflictive
 inflorescence
 inflorescences
 influenceable
+influencing
 influent
 influents
 influenza
@@ -43186,6 +43200,7 @@ malignantly
 maligned
 maligner
 maligning
+malignities
 maligns
 malihini
 malihinis
@@ -44010,6 +44025,7 @@ mealybugs
 mean
 meaners
 meanest
+meanies
 meaning
 meaningful
 meaningless
@@ -44681,6 +44697,7 @@ metazoan
 metazoon
 metempsychoses
 metencephala
+meteor
 meteoric
 meteorically
 meteorite
@@ -45986,6 +46003,7 @@ mistress
 mistresses
 mistrust
 mistrusted
+mistrustfully
 mistrustfulness
 mistrusts
 mistruth
@@ -47006,6 +47024,7 @@ mudder
 muddied
 muddier
 muddiest
+muddleheaded
 muddly
 muddy
 mudfish
@@ -53654,6 +53673,7 @@ pastoriums
 pastorly
 pastramis
 pastries
+pastromi
 pastromis
 pastry
 pasturages
@@ -54872,6 +54892,7 @@ pharisaically
 pharisee
 pharmacies
 pharmacist
+pharmacists
 pharmacodynamic
 pharmacognosy
 pharmacokinetic
@@ -58135,6 +58156,7 @@ prestigiously
 prestorage
 prestore
 prestored
+prestress
 prestressed
 prestressing
 prestrike
@@ -59700,6 +59722,7 @@ putoff
 putoffs
 putonghua
 putonghuas
+putrefaction
 putrefied
 putrefier
 putrefying
@@ -60922,6 +60945,7 @@ readapts
 readdicted
 readdicting
 readdicts
+readdresses
 readerly
 readers
 readership
@@ -66439,6 +66463,7 @@ scorecard
 scorecards
 scored
 scorekeepers
+scorepad
 scoriae
 scorifiers
 scorifies
@@ -69571,6 +69596,7 @@ smatterings
 smatters
 smaze
 smearier
+smectite
 smeddum
 smeek
 smeeks
@@ -71176,11 +71202,13 @@ sportful
 sportfully
 sportfulness
 sportier
+sportiest
 sportinesses
 sportingly
 sportively
 sportiveness
 sportivenesses
+sportscast
 sportscasters
 sportsmanlike
 sportsmanly
@@ -73748,6 +73776,7 @@ superficial
 superficiality
 superfine
 superfirm
+superfix
 superfluidities
 superfluids
 superfluities
@@ -75846,6 +75875,7 @@ terrorisms
 terrorist
 terrorists
 terrorizations
+terrorizing
 terrorless
 terrors
 tersely
@@ -79494,6 +79524,7 @@ uncheckable
 unchecked
 unchic
 unchilled
+unchivalrously
 unchlorinated
 unchoke
 unchoked
@@ -82263,6 +82294,7 @@ vibrio
 vibrios
 vibrioses
 vibriosis
+vibronic
 vicarage
 vicarate
 vicarates
@@ -84050,6 +84082,7 @@ wildish
 wildlife
 wildness
 wildwoods
+wilfully
 wilier
 wilily
 wilinesses
@@ -84286,6 +84319,7 @@ witenagemots
 wites
 withdrawable
 withdrawal
+withdrawals
 withdrawing
 withdrawn
 withdrawnnesses
@@ -84705,6 +84739,7 @@ wrongdoers
 wrongdoings
 wronged
 wrongful
+wrongfulness
 wrongfulnesses
 wrongheadedly
 wrongly
