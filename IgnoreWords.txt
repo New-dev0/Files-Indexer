@@ -182,6 +182,7 @@ acarpous
 acarus
 acatalectics
 acaudal
+acaulescent
 acaulose
 acceded
 accedence
@@ -5441,6 +5442,7 @@ bankcard
 bankits
 banknote
 bankrolled
+bankrolling
 bankrupt
 bankrupted
 bankrupting
@@ -6779,6 +6781,7 @@ bibliotist
 biblist
 biblists
 bibulous
+bibulousnesses
 bicameralism
 bicameralisms
 bicarb
@@ -8706,6 +8709,7 @@ bribable
 bribee
 bribery
 bribes
+bribing
 brickbat
 brickfield
 brickier
@@ -22695,6 +22699,7 @@ eases
 easier
 easies
 easiest
+easiness
 easinesses
 easter
 eastern
@@ -23873,6 +23878,7 @@ endured
 endurer
 endures
 enduring
+enduringly
 enduro
 endwise
 enemata
@@ -27871,6 +27877,7 @@ flounders
 flour
 floured
 flouring
+flourish
 flourisher
 flourishers
 flourless
@@ -29646,6 +29653,7 @@ galyak
 galyaks
 gam
 gamb
+gamba
 gambado
 gambas
 gambesons
@@ -30300,6 +30308,7 @@ germinations
 germiness
 germinesses
 germplasm
+gerontic
 gerontocratic
 gerontocrats
 gerontologists
@@ -31422,6 +31431,7 @@ granoliths
 granophyre
 granophyres
 grantable
+granted
 grantee
 grantees
 granters
@@ -32435,6 +32445,7 @@ hah
 hahnium
 hahniums
 haik
+haika
 haiku
 hail
 hails
@@ -32658,6 +32669,7 @@ handling
 handlist
 handmade
 handmaid
+handmaidens
 handoff
 handpick
 handprint
@@ -39235,6 +39247,7 @@ jumpable
 jumped
 jumper
 jumpers
+jumpiest
 jumpiness
 jumping
 jumpingly
@@ -39532,6 +39545,7 @@ keg
 kegelers
 kegged
 kegger
+kegging
 kegling
 keglings
 kegs
@@ -50285,6 +50299,7 @@ oncologic
 oncological
 oncologies
 oncology
+oncoming
 oncomings
 oncovirus
 ondograms
@@ -50464,6 +50479,7 @@ opposition
 oppositions
 oppress
 oppressing
+oppressively
 opprobrious
 opprobriums
 oppugn
@@ -51573,6 +51589,7 @@ outwardness
 outwardnesses
 outwards
 outwarred
+outwash
 outwasting
 outwatching
 outwear
@@ -53029,6 +53046,7 @@ panzer
 pap
 papa
 papacy
+papadams
 papadom
 papadum
 papain
@@ -56211,6 +56229,7 @@ ploughing
 ploughs
 plowable
 plowed
+plower
 plowhead
 plowheads
 plowlands
@@ -56617,6 +56636,7 @@ polygraphing
 polygraphists
 polygynies
 polygynous
+polyhedra
 polyhedrons
 polyhedroses
 polyhistor
@@ -59893,6 +59913,7 @@ qualifier
 qualitatively
 qualities
 qualms
+quamash
 quamashes
 quandang
 quangos
@@ -60119,6 +60140,7 @@ quintillion
 quintillions
 quintillionth
 quintillionths
+quintin
 quintins
 quints
 quintuple
@@ -61183,6 +61205,7 @@ recess
 recessional
 recessionals
 recessionary
+recessions
 recessively
 recessivenesses
 rechallenge
@@ -64875,6 +64898,7 @@ rowen
 rowens
 rower
 rowing
+rowlock
 rowlocks
 rowth
 rowths
@@ -70152,6 +70176,7 @@ somatically
 somatological
 somatomedin
 somatopleure
+somatosensory
 somatotrophin
 somatotrophins
 somberness
@@ -70995,6 +71020,7 @@ splurgy
 spluttered
 spluttering
 splutters
+spode
 spodes
 spodosols
 spodumenes
@@ -73093,6 +73119,7 @@ subsoil
 subsoiled
 subsoiler
 subsoiling
+subsoils
 subsolar
 subsonically
 subspace
@@ -73880,6 +73907,7 @@ supporting
 supportive
 supportiveness
 supports
+supposable
 supposal
 supposals
 supposed
@@ -73990,6 +74018,7 @@ surprize
 surprizes
 surprizing
 surra
+surras
 surreal
 surrealism
 surrealist
@@ -76818,6 +76847,7 @@ toileted
 toileting
 toiletries
 toils
+toilsomely
 toilsomenesses
 toilworn
 toit
@@ -77965,6 +77995,7 @@ triforia
 triform
 trifurcated
 trifurcates
+trifurcating
 trig
 trigeminal
 trigeminals
@@ -78371,6 +78402,7 @@ truthfully
 truthfulnesses
 truthless
 trying
+tryma
 tryout
 tryouts
 trypsins
@@ -79878,6 +79910,7 @@ unearthlinesses
 unease
 uneases
 uneasiest
+uneasily
 uneasinesses
 uneasy
 uneaten
@@ -83004,6 +83037,7 @@ wanigan
 wanion
 wanions
 wanked
+wanking
 wannabee
 wannabees
 wannabes
@@ -83911,6 +83945,7 @@ wifing
 wifty
 wig
 wigeons
+wiggery
 wiggier
 wiggiest
 wigglers
