@@ -1726,6 +1726,7 @@ allopatries
 allophone
 alloplasm
 alloplasms
+allopolyploids
 allopolyploidy
 allosauruses
 allosteries
@@ -13203,6 +13204,7 @@ clumsiest
 clumsiness
 clumsinesses
 clung
+clunk
 clunked
 clunker
 clunkiest
@@ -13551,6 +13553,7 @@ coemploying
 coemploys
 coempts
 coenamor
+coenamored
 coenamors
 coenduring
 coenocytic
@@ -13866,6 +13869,7 @@ collier
 colliers
 colliery
 collieshangies
+colligated
 colligates
 collimate
 collimated
@@ -14770,6 +14774,7 @@ congresswomen
 congruence
 congruences
 congruencies
+congruency
 congruently
 congruities
 congruously
@@ -15390,6 +15395,7 @@ copepod
 copers
 copes
 copesetic
+copestones
 copied
 copies
 copihue
@@ -17636,6 +17642,7 @@ dactylic
 dactylology
 dactylus
 dadaisms
+dadaist
 dadaistic
 dadas
 daddies
@@ -18593,6 +18600,7 @@ deforesting
 deforests
 deform
 deformable
+deformalize
 deformalizes
 deformation
 deformational
@@ -22298,6 +22306,7 @@ ducks
 ducktails
 duckwalk
 duckwalked
+duckweed
 ducky
 ducted
 ductile
@@ -22658,6 +22667,7 @@ earstone
 earth
 earthborn
 earthbound
+earthier
 earthiest
 earthiness
 earthing
@@ -23359,6 +23369,7 @@ embayments
 embays
 embed
 embedded
+embedment
 embeds
 embellish
 embellishers
@@ -28019,6 +28030,7 @@ flutterers
 fluttering
 fluty
 fluviatile
+fluxed
 fluxes
 fluxgates
 fluxing
@@ -31400,6 +31412,7 @@ grandiloquently
 grandiose
 grandioseness
 grandiosity
+grandly
 grandma
 grandmama
 grandmamas
@@ -31547,6 +31560,7 @@ gravida
 gravidae
 gravidities
 gravidity
+gravidly
 gravies
 gravimeter
 gravimeters
@@ -32933,6 +32947,7 @@ hastately
 haste
 hasteful
 hasten
+hastened
 hasteners
 hastier
 hastiness
@@ -34502,6 +34517,7 @@ hops
 hopsack
 hopsacking
 hopsacks
+hopscotch
 hopscotched
 hoptoad
 hoptoads
@@ -37529,6 +37545,7 @@ intellectively
 intellects
 intellectualist
 intelligencer
+intelligences
 intelligently
 intelligentsias
 intelligibility
@@ -39001,6 +39018,7 @@ jinni
 jinnis
 jinrickshas
 jinrikisha
+jinrikishas
 jinriksha
 jinx
 jinxes
@@ -40395,6 +40413,7 @@ lagune
 lahar
 laic
 laichs
+laicism
 laicizations
 laicize
 laicizes
@@ -41375,6 +41394,7 @@ liabilities
 liaise
 liaising
 lianes
+liangs
 liard
 liards
 liars
@@ -46919,6 +46939,7 @@ mowed
 mower
 mown
 moxa
+moxas
 moxie
 mozetta
 mozette
@@ -48029,6 +48050,7 @@ neonatologies
 neonatology
 neoned
 neons
+neoorthodoxies
 neophilia
 neophiliac
 neophyte
@@ -55636,6 +55658,7 @@ pinnately
 pinnatifid
 pinnation
 pinned
+pinner
 pinning
 pinnulae
 pinnular
@@ -61050,6 +61073,7 @@ reattribution
 reauthorization
 reauthorized
 reavail
+reave
 reavers
 reaving
 reavowing
@@ -61896,6 +61920,7 @@ refights
 refigure
 refigured
 refigures
+refiguring
 refile
 refiled
 refiling
@@ -64068,6 +64093,7 @@ rheumatisms
 rheumatiz
 rheumatoid
 rheumatologist
+rheumatologists
 rheumatology
 rheumier
 rheumiest
@@ -64212,6 +64238,7 @@ ridgebacks
 ridged
 ridgel
 ridgeling
+ridgelings
 ridgels
 ridgetops
 ridgiest
@@ -64939,6 +64966,7 @@ rubes
 rubescent
 rubicundities
 rubicundity
+rubidiums
 rubier
 rubies
 rubiest
@@ -64947,6 +64975,7 @@ rubles
 rubout
 rubouts
 rubrical
+rubricates
 rubrications
 rubricator
 rubrician
@@ -65929,6 +65958,7 @@ savoys
 savvier
 savvies
 savviest
+savviness
 sawbill
 sawbills
 sawboneses
@@ -66940,6 +66970,7 @@ seidels
 seifs
 seigneurial
 seigneuries
+seignior
 seigniorage
 seigniorages
 seigniors
@@ -72750,6 +72781,7 @@ subcategorizes
 subcategory
 subcauses
 subcavity
+subceiling
 subcellars
 subcells
 subcellular
@@ -73947,6 +73979,7 @@ surbased
 surceasing
 surcingle
 surcingles
+surcingling
 surcoats
 surd
 sure
@@ -80574,6 +80607,7 @@ unread
 unreadable
 unreadiest
 unreadily
+unreadiness
 unreal
 unrealistically
 unrealities
@@ -84326,6 +84360,7 @@ wonderful
 wonderfully
 wonderfulness
 wonderfulnesses
+wondering
 wonderland
 wonderlands
 wonk
