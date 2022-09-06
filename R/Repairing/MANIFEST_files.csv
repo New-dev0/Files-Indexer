@@ -1,0 +1,7 @@
+https://archive.openwrt.org/releases/packages-18.0...,https://archive.openwrt.org/releases/packages-18.06/mipsel_24kc_24kf/base/Packages.manifest
+https://downloads.openwrt.org/releases/18.06.9/pac...,https://downloads.openwrt.org/releases/18.06.9/packages/aarch64_cortex-a53/base/Packages.manifest
+https://mirrors.aliyun.com/openwrt/releases/21.02....,https://mirrors.aliyun.com/openwrt/releases/21.02.1/packages/aarch64_generic/base/Packages.manifest
+downloads.pangubox.com:6380/pandorabox/19.01/packa...,http://downloads.pangubox.com:6380/pandorabox/19.01/packages/arm_xscale/base/Packages.manifest
+https://downloads.pangubox.com:63443/pandorabox/18...,https://downloads.pangubox.com:63443/pandorabox/18.12/packages/arm_cortex-a15_neon-vfpv4/base/Packages.manifest
+https://usingpro.com/releases/packages-19.07/mipse...,https://usingpro.com/releases/packages-19.07/mipsel_24kc/base/Packages.manifest
+https://downloads.lede-project.org/snapshots/packa...,https://downloads.lede-project.org/snapshots/packages/arc_archs/packages/Packages.manifest

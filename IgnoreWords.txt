@@ -3702,6 +3702,7 @@ architecture
 architrave
 archival
 archived
+archiving
 archivists
 archivolt
 archly
@@ -4218,6 +4219,7 @@ associationist
 associations
 associative
 associativities
+associativity
 assoiling
 assoilment
 assoilments
@@ -4969,6 +4971,7 @@ axiologically
 axiologies
 axiom
 axiomatically
+axiomatization
 axiomatizations
 axiomatize
 axiomatized
@@ -6843,6 +6846,7 @@ bicarbs
 bice
 bicentenaries
 bicentenary
+bicentric
 biceps
 bices
 bichromated
@@ -9120,6 +9124,7 @@ bubal
 bubaline
 bubals
 bubbies
+bubble
 bubbled
 bubblegums
 bubbleheaded
@@ -10123,6 +10128,7 @@ camerapersons
 cames
 camions
 camisa
+camisade
 camise
 camises
 camlet
@@ -11729,6 +11735,7 @@ charactering
 characteristics
 characterizes
 characterizing
+characterless
 characters
 charade
 charbroil
@@ -14668,6 +14675,7 @@ concubinages
 concupiscence
 concupiscences
 concurred
+concurrence
 concurrent
 concurrently
 concuss
@@ -21647,6 +21655,7 @@ dogtrots
 dogtrotting
 dogvanes
 dogwatches
+dogy
 doiled
 doily
 doing
@@ -23217,6 +23226,7 @@ egomaniac
 egomaniacally
 egomaniacs
 egomanias
+egotistic
 egregiously
 egregiousness
 egressed
@@ -23697,6 +23707,7 @@ emmet
 emmetrope
 emmets
 emodin
+emollient
 emollients
 emoticon
 emoting
@@ -23705,6 +23716,7 @@ emotionalisms
 emotionalists
 emotionality
 emotionalize
+emotionalizing
 emotionally
 emotionless
 emotionlessness
@@ -26871,6 +26883,7 @@ felicitations
 felicitator
 felicities
 felicitous
+felicity
 felinely
 felinities
 felinity
@@ -30452,6 +30465,7 @@ geoidal
 geoids
 geologer
 geologic
+geologically
 geologist
 geologize
 geologized
@@ -34640,6 +34654,7 @@ hongies
 hongiing
 honied
 honkers
+honkeys
 honkies
 honky
 honorability
@@ -35506,6 +35521,7 @@ hypermetropic
 hypermnesic
 hypermodernist
 hypermodernists
+hypermutability
 hyperons
 hyperopes
 hyperparasitic
@@ -41537,6 +41553,7 @@ lepidotes
 leporid
 leprechaun
 leprechauns
+lepromatous
 leprously
 leptins
 leptocephalus
@@ -53542,6 +53559,7 @@ paradisical
 parador
 paradores
 paradors
+paradoses
 paradoxes
 paradoxical
 paradrop
@@ -55499,6 +55517,7 @@ photically
 photics
 photoautotroph
 photobiologic
+photobiological
 photobiologists
 photochemical
 photochemistry
@@ -57206,6 +57225,7 @@ pondered
 pondering
 ponderosa
 ponderously
+ponderousnesses
 ponders
 ponding
 pondweed
@@ -58917,6 +58937,7 @@ procrustean
 procryptic
 proctitises
 proctodea
+proctodeums
 proctologic
 proctologies
 proctologists
@@ -59045,6 +59066,7 @@ programs
 progression
 progressive
 progressively
+progressiveness
 progressivism
 progressivist
 progressivists
@@ -60345,6 +60367,7 @@ quaestor
 quaffer
 quag
 quagga
+quaggas
 quaggy
 quagmire
 quagmiriest
@@ -62787,6 +62810,7 @@ reinspecting
 reinspection
 reinspects
 reinspire
+reinspires
 reinstall
 reinstalled
 reinstalling
@@ -63288,6 +63312,7 @@ repainted
 repainting
 repairability
 repaired
+repairing
 repairmen
 repairs
 repand
@@ -64300,6 +64325,7 @@ revalorization
 revalorize
 revalorized
 revalorizing
+revaluate
 revaluated
 revaluates
 revaluating
@@ -67931,6 +67957,7 @@ serigraphies
 serigraphs
 serigraphy
 serine
+serines
 seringa
 serins
 seriousness
@@ -69032,6 +69059,7 @@ sigmoidal
 sigmoidally
 sigmoidoscopies
 signage
+signaled
 signalers
 signaling
 signalised
@@ -72185,6 +72213,7 @@ stars
 starship
 starters
 startle
+startlements
 startling
 startlingly
 startsy
@@ -72501,6 +72530,7 @@ stickhandles
 stickhandling
 stickiness
 stickinesses
+stickle
 stickled
 sticklers
 stickles
@@ -74546,6 +74576,7 @@ surfboarding
 surfboards
 surfed
 surfeited
+surfeiting
 surfers
 surffishes
 surfier
@@ -74916,6 +74947,7 @@ swoosh
 swooshing
 swopping
 swordfishes
+swordlike
 swordmen
 swordplayer
 swordtails
@@ -75255,6 +75287,7 @@ taboulehs
 tabouli
 tabour
 tabouret
+tabours
 tabs
 tabuing
 tabulable
@@ -76835,6 +76868,7 @@ thou
 thoued
 thought
 thoughtfully
+thoughtless
 thoughts
 thouing
 thousand
@@ -77632,6 +77666,7 @@ toping
 topis
 topkick
 topkicks
+toplessness
 toploftily
 toploftiness
 toplofty
