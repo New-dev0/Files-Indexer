@@ -1327,6 +1327,7 @@ aigret
 aigrets
 aigrette
 aigrettes
+aiguilles
 ail
 ailanthic
 ailanthus
@@ -1701,6 +1702,7 @@ alliable
 alliaceous
 alliance
 allicin
+allicins
 allies
 alligator
 alligators
@@ -2510,6 +2512,7 @@ angled
 angler
 anglerfish
 anglerfishes
+angles
 angleworm
 angleworms
 anglice
@@ -5460,6 +5463,7 @@ banknote
 bankrolled
 bankrolling
 bankrupt
+bankruptcies
 bankrupted
 bankrupting
 bankrupts
@@ -6998,6 +7002,7 @@ bind
 bindingly
 bindingness
 bindingnesses
+bindle
 bindles
 bindweed
 bindweeds
@@ -7640,6 +7645,7 @@ bloops
 blossoms
 blotchier
 blotless
+blottier
 blotting
 blotto
 blotty
@@ -13457,6 +13463,7 @@ cockle
 cockleburs
 cockles
 cockleshell
+cockloft
 cocklofts
 cockney
 cockneyfying
@@ -17303,6 +17310,7 @@ currieries
 curriery
 curry
 currycombing
+currycombs
 currying
 curs
 curse
@@ -19026,6 +19034,7 @@ demounts
 dempster
 demulsified
 demulsifying
+demultiplexers
 demurely
 demureness
 demurrages
@@ -23013,6 +23022,7 @@ effacer
 effacing
 effect
 effected
+effectively
 effector
 effectual
 effectually
@@ -25231,6 +25241,7 @@ eurybath
 eurybaths
 euryhaline
 euryokies
+euryokous
 euryoky
 eurypterid
 eurythermic
@@ -25367,6 +25378,7 @@ evolute
 evolutes
 evolutionist
 evolutions
+evolved
 evolvement
 evolving
 evonymus
@@ -26133,6 +26145,7 @@ fabling
 fabricants
 fabricate
 fabricates
+fabrication
 fabrics
 fabulates
 fabulating
@@ -27798,6 +27811,7 @@ fleying
 flichter
 flichters
 flicked
+flickered
 flickery
 flicking
 flics
@@ -29762,6 +29776,7 @@ gamekeeper
 gamers
 gamesmanship
 gamesmanships
+gamesomenesses
 gamester
 gametic
 gametically
@@ -33026,6 +33041,7 @@ haste
 hasteful
 hasten
 hastened
+hastener
 hasteners
 hastier
 hastiness
@@ -34588,6 +34604,7 @@ hopeful
 hopefuls
 hopelessness
 hopelessnesses
+hopers
 hopes
 hophead
 hopheads
@@ -38752,6 +38769,7 @@ jacana
 jacanas
 jacaranda
 jacinthes
+jacinths
 jack
 jackanapes
 jackanapeses
@@ -41290,6 +41308,7 @@ lemniscate
 lemniscates
 lemonish
 lemonlike
+lemons
 lemony
 lemures
 lemurine
@@ -44143,6 +44162,7 @@ mechanical
 mechanically
 mechanicians
 mechanics
+mechanisms
 mechanization
 mechanized
 mechanizers
@@ -48700,6 +48720,7 @@ noil
 noils
 noirish
 noise
+noiseless
 noisemaker
 noisemaking
 noisemakings
@@ -52461,6 +52482,7 @@ overstrains
 overstresses
 overstressing
 overstretches
+overstretching
 overstrew
 overstrewed
 overstride
@@ -52870,6 +52892,7 @@ paintable
 paintballs
 paintbrush
 painterly
+painters
 paintier
 paints
 paintworks
@@ -53149,6 +53172,7 @@ panleukopenia
 panmixis
 panned
 panner
+panners
 pannes
 panniers
 pannikin
@@ -53570,6 +53594,7 @@ parrokets
 parroted
 parroter
 parroting
+parrots
 parroty
 parrs
 parry
@@ -54420,6 +54445,7 @@ pepping
 pepsinate
 pepsinates
 peptic
+peptics
 peptid
 peptidase
 peptides
@@ -55777,6 +55803,7 @@ pinion
 pinites
 pinitol
 pink
+pinken
 pinkening
 pinkings
 pinkishness
@@ -59756,6 +59783,7 @@ purr
 purring
 purringly
 purrs
+purs
 pursed
 purselike
 purser
@@ -63350,6 +63378,7 @@ rescindments
 rescore
 rescoring
 rescreening
+rescreens
 rescue
 rescuer
 rescues
@@ -63952,6 +63981,7 @@ retroreflection
 retroreflective
 retroreflectors
 retrospecting
+retrospectively
 retrospects
 retrousse
 retroviral
@@ -67545,6 +67575,7 @@ sequin
 sequins
 sequitur
 ser
+sera
 seraglios
 serail
 serais
@@ -68352,6 +68383,7 @@ shopboys
 shophar
 shophars
 shophroth
+shopkeepers
 shoplift
 shoplifted
 shoplifts
@@ -73952,6 +73984,7 @@ superjumbos
 superlarge
 superlativeness
 superlatives
+superlay
 superlie
 superlies
 superlight
@@ -76657,6 +76690,7 @@ thyroiditises
 thyroids
 thyrotoxicoses
 thyrotoxicosis
+thyrotrophic
 thyrotrophin
 thyrotropic
 thyrotropins
@@ -81931,6 +81965,7 @@ varioloid
 variolous
 various
 variousness
+variousnesses
 varistor
 varix
 varlet
