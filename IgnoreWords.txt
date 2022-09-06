@@ -1985,6 +1985,7 @@ ambits
 amble
 ambles
 amblygonites
+amblyopias
 amblyopic
 amboinas
 ambones
@@ -3871,6 +3872,7 @@ arrestments
 arrests
 arrhizal
 arrhythmias
+arrises
 arrivers
 arrives
 arriviste
@@ -6681,6 +6683,7 @@ bethorning
 bethought
 beths
 bethumps
+betide
 betides
 betime
 betimes
@@ -9789,6 +9792,7 @@ cadency
 cadent
 cadenzas
 cades
+cadet
 cadets
 cadetship
 cadger
@@ -10700,6 +10704,7 @@ carol
 caroling
 caroller
 carolling
+caromed
 carotene
 carotenoid
 carotid
@@ -10828,6 +10833,7 @@ caseworm
 caseworms
 cash
 cashaws
+cashbook
 cashbox
 cashes
 cashews
@@ -13062,6 +13068,7 @@ climatologists
 climatology
 climax
 climaxes
+climaxing
 climbable
 climbdown
 climber
@@ -13335,6 +13342,7 @@ coappear
 coappeared
 coappearing
 coappears
+coapt
 coaptation
 coarctation
 coarctations
@@ -19949,6 +19957,7 @@ diapason
 diapasons
 diapause
 diapauses
+diapausing
 diapedeses
 diapedesis
 diapering
@@ -20539,6 +20548,7 @@ disallowing
 disambiguated
 disambiguates
 disambiguating
+disambiguation
 disambiguations
 disannulling
 disappearance
@@ -28921,6 +28931,7 @@ fraught
 fraughting
 fraulein
 frayed
+fraying
 frays
 frazzled
 frazzles
@@ -34580,6 +34591,7 @@ hooked
 hookeys
 hookier
 hooking
+hooklet
 hooklike
 hooknosed
 hooks
@@ -38779,6 +38791,7 @@ jabot
 jaboticabas
 jabots
 jabs
+jacales
 jacals
 jacamar
 jacana
@@ -40776,6 +40789,7 @@ lapidist
 lapillus
 lapin
 lapins
+lapis
 lapises
 lapped
 lappered
@@ -41195,6 +41209,7 @@ lee
 leeboard
 leeboards
 leech
+leeches
 leek
 leer
 leerily
@@ -41849,6 +41864,7 @@ linearized
 linearly
 lineations
 linebackers
+linebacking
 linebackings
 linebreedings
 linecastings
@@ -46400,6 +46416,7 @@ momi
 momism
 mommy
 moms
+momser
 momsers
 momus
 momuses
@@ -48728,6 +48745,7 @@ nodose
 nodosity
 nodous
 nods
+nodule
 nodulous
 nodus
 noel
@@ -48937,6 +48955,7 @@ nonconformed
 nonconforming
 nonconformisms
 nonconformists
+nonconformities
 nonconformity
 nonconforms
 noncongruent
@@ -50171,6 +50190,7 @@ octavo
 octillions
 octogenarian
 octogenarians
+octopi
 octoploid
 octoploids
 octopodan
@@ -53320,6 +53340,7 @@ paraboloids
 parachor
 parachors
 parachutes
+parachutist
 parachutists
 paracletes
 paracrine
@@ -54815,6 +54836,7 @@ personage
 personalise
 personalities
 personalize
+personalized
 personalizes
 personally
 personalties
@@ -55927,6 +55949,7 @@ pipkins
 pippin
 pipping
 pips
+pipsissewa
 pipy
 piquance
 piquances
@@ -56083,6 +56106,7 @@ placentals
 placentas
 placentation
 placentations
+placers
 placid
 placidness
 plackets
@@ -57133,6 +57157,7 @@ portcullis
 portend
 portending
 portent
+portentous
 portents
 porterage
 portered
@@ -60665,6 +60690,7 @@ railheads
 railing
 railings
 raillery
+railroad
 railroads
 railways
 rainbands
@@ -62459,6 +62485,7 @@ rehospitalizing
 rehouse
 rehumanizes
 rehung
+rehydrates
 rehydration
 rehypnotized
 rehypnotizes
@@ -63127,6 +63154,8 @@ replants
 replaster
 replasters
 replated
+replay
+replayed
 replaying
 replead
 repled
@@ -65027,6 +65056,7 @@ rototillers
 rotted
 rottener
 rottenest
+rottenly
 rottenstones
 rotters
 rotting
@@ -65366,6 +65396,7 @@ rusine
 rusk
 rusks
 russet
+russeting
 russets
 russetting
 russettings
@@ -69290,6 +69321,7 @@ skullcaps
 skullduggeries
 skulls
 skunked
+skunkier
 skunking
 skunkweed
 skunkweeds
@@ -70916,6 +70948,7 @@ spectates
 spectator
 spectatorial
 spectatorship
+specters
 spectinomycin
 spectrally
 spectre
@@ -73041,6 +73074,7 @@ subclause
 subclavians
 subclerk
 subclimaxes
+subcluster
 subclustered
 subclustering
 subclusters
@@ -85245,6 +85279,7 @@ yird
 yirds
 yirr
 yirring
+yirrs
 ylems
 yob
 yocked
