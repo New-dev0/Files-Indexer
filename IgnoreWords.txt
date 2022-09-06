@@ -7635,6 +7635,7 @@ blooded
 bloodfin
 bloodguilt
 bloodguiltiness
+bloodguilts
 bloodied
 bloodies
 bloodiest
@@ -12911,6 +12912,7 @@ clamshells
 clamworms
 clan
 clandestine
+clandestinely
 clandestinity
 clanged
 clanger
@@ -13832,6 +13834,7 @@ coining
 coinmate
 coinmates
 coins
+coinsurance
 coinsurances
 coinsured
 coinsurer
@@ -14848,6 +14851,7 @@ congenialities
 congeniality
 conger
 congest
+congesting
 congestion
 congests
 congius
@@ -17674,6 +17678,7 @@ cymous
 cynical
 cynically
 cynicism
+cynicisms
 cynosures
 cyphered
 cyphering
@@ -22502,6 +22507,7 @@ duffle
 duffles
 dugouts
 duh
+duikers
 duits
 duked
 dukedoms
@@ -26715,6 +26721,7 @@ faunal
 faunistically
 faunlike
 fauns
+fauve
 fauvism
 fauvist
 faux
@@ -27744,6 +27751,7 @@ flareup
 flash
 flashback
 flashbacks
+flashbulb
 flashbulbs
 flashcard
 flashcube
@@ -29963,6 +29971,7 @@ ganymedes
 gaoled
 gaoler
 gaols
+gap
 gape
 gapeseed
 gapeseeds
@@ -35706,6 +35715,7 @@ iciest
 icing
 icker
 ickiest
+icky
 iconical
 iconicities
 iconicity
@@ -36753,6 +36763,7 @@ incoordination
 incorporable
 incorporated
 incorporates
+incorporating
 incorporation
 incorporations
 incorporeity
@@ -36884,6 +36895,7 @@ indentures
 indenturing
 independence
 independencies
+independents
 indescribably
 indestructible
 indestructibly
@@ -37196,6 +37208,7 @@ infinitenesses
 infinites
 infinitesimal
 infinitesimals
+infinitive
 infinitively
 infinitude
 infirm
@@ -39130,6 +39143,7 @@ jellified
 jellify
 jelling
 jello
+jells
 jelly
 jellyfish
 jellyfishes
@@ -44099,6 +44113,7 @@ materialisms
 materialist
 materialities
 materialize
+materialized
 materializer
 materially
 materialness
@@ -47092,6 +47107,7 @@ motherlinesses
 motherly
 mothers
 mothery
+mothier
 mothlike
 mothproof
 moths
@@ -50327,6 +50343,7 @@ octadic
 octagon
 octagonally
 octahedron
+octahedrons
 octal
 octan
 octanes
@@ -50788,6 +50805,7 @@ operativeness
 operativenesses
 operatives
 operator
+operators
 opercula
 opercular
 operculated
@@ -52303,6 +52321,7 @@ overfertilizes
 overfill
 overfilled
 overfilling
+overfills
 overfish
 overfished
 overfishes
@@ -57996,6 +58015,7 @@ predetermines
 predetermining
 predevaluation
 predevelopment
+prediabeteses
 prediabetic
 predial
 predicaments
@@ -58328,6 +58348,7 @@ preposterously
 prepotency
 prepotently
 preppier
+preppies
 preppiest
 preppy
 preprandial
@@ -63185,6 +63206,7 @@ renigged
 renigs
 renin
 renins
+renitent
 rennase
 rennet
 rennets
@@ -65265,6 +65287,7 @@ rotundities
 rotundness
 roturiers
 roubles
+rouche
 rouches
 rouens
 roues
@@ -65365,6 +65388,7 @@ rowen
 rowens
 rower
 rowing
+rowings
 rowlock
 rowlocks
 rowth
@@ -65926,6 +65950,7 @@ salometer
 salon
 salons
 saloon
+saloop
 saloops
 salpids
 salpiform
@@ -67588,6 +67613,7 @@ semifluid
 semifluids
 semiformal
 semihobo
+semihobos
 semilegendary
 semilethal
 semilethals
@@ -71123,6 +71149,7 @@ speaning
 speared
 spearfish
 spearfished
+spearheaded
 spearheading
 spearlike
 spearman
@@ -71255,6 +71282,7 @@ spermagonia
 spermaries
 spermary
 spermatic
+spermatids
 spermatocytes
 spermatogeneses
 spermatogenic
@@ -72619,6 +72647,7 @@ stockinged
 stockist
 stockists
 stockjobber
+stockjobbers
 stockman
 stockpiled
 stockpot
@@ -72628,6 +72657,7 @@ stocktaking
 stocktakings
 stocky
 stockyard
+stodged
 stodges
 stodgier
 stodgily
@@ -73688,6 +73718,7 @@ substitutional
 substitutions
 substitutive
 substrata
+substratum
 substructural
 substructure
 subsume
@@ -77372,6 +77403,7 @@ tocsins
 tod
 today
 toddled
+toddlerhood
 toddlerhoods
 tods
 toea
@@ -79266,6 +79298,7 @@ turquois
 turquoises
 turret
 turreted
+turrical
 turtle
 turtleback
 turtleheads
@@ -81211,6 +81244,7 @@ unreserve
 unresistant
 unresponsive
 unresponsively
+unrest
 unrestful
 unrestored
 unrestraints
@@ -83824,6 +83858,7 @@ watchmaker
 watchmakers
 watchman
 watchouts
+watchtowers
 watchword
 water
 waterages
