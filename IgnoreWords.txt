@@ -681,6 +681,7 @@ adhesively
 adhesiveness
 adhesivenesses
 adhibit
+adhibited
 adiabatically
 adieu
 adieux
@@ -3264,6 +3265,7 @@ apicultural
 apiculture
 apicultures
 apiculturist
+apiculturists
 apiculus
 apiologies
 apish
@@ -9417,6 +9419,7 @@ burke
 burked
 burker
 burladeros
+burlap
 burlaps
 burler
 burlesks
@@ -16181,6 +16184,7 @@ cousinly
 cousinry
 cousins
 cousinships
+couteau
 couteaux
 couter
 couth
@@ -18747,6 +18751,7 @@ degreed
 degrees
 degressive
 degringolade
+degum
 degums
 degustations
 degusting
@@ -20202,6 +20207,7 @@ dights
 digital
 digitalin
 digitalins
+digitalizations
 digitalizing
 digitally
 digitate
@@ -30171,6 +30177,7 @@ gelatinize
 gelatinized
 gelatinizes
 gelatinizing
+gelatinous
 gelatinously
 gelation
 gelatis
@@ -31714,6 +31721,7 @@ greased
 greaseproofs
 greasers
 greases
+greasiest
 greasiness
 greasing
 greatcoats
@@ -34935,6 +34943,7 @@ huff
 huffed
 huffier
 huffiest
+huffily
 huffiness
 huffing
 huffs
@@ -34986,6 +34995,7 @@ humblebees
 humbled
 humbleness
 humblenesses
+humblers
 humblingly
 humbugged
 humbuggeries
@@ -42534,6 +42544,7 @@ loth
 loti
 lotoses
 lotted
+lotter
 lotteries
 lotting
 lotto
@@ -43572,6 +43583,7 @@ manoeuvring
 manometries
 manos
 manpack
+manpower
 manque
 manrope
 manropes
@@ -46097,6 +46109,7 @@ misstyled
 misstyles
 misstyling
 missuit
+missuited
 missuses
 missy
 mistake
@@ -46238,6 +46251,7 @@ mobilises
 mobilities
 mobility
 mobilization
+mobilized
 mobocracies
 mobocrat
 mobocratic
@@ -46514,6 +46528,7 @@ monochasium
 monochromatism
 monochromator
 monochromats
+monochromes
 monochromists
 monocle
 monocles
@@ -47709,6 +47724,7 @@ myrmecologist
 myrmecologists
 myrmecophile
 myrmidons
+myrobalan
 myrrhs
 myrtles
 mysid
@@ -48722,6 +48738,7 @@ noblest
 nobody
 nobs
 nocked
+nocking
 nocks
 noctambulist
 noctiluca
@@ -49644,6 +49661,7 @@ novelise
 novelises
 novelising
 novelizations
+novelized
 novelizer
 novelizers
 novelizing
@@ -52041,6 +52059,7 @@ overdecorations
 overdemanding
 overdependence
 overdependent
+overdesigns
 overdeveloped
 overdeveloping
 overdevelopment
@@ -52734,6 +52753,7 @@ oxtongue
 oxtongues
 oxy
 oxyacetylene
+oxyacid
 oxycodones
 oxygenate
 oxygenated
@@ -54505,6 +54525,7 @@ peptonizes
 peptonizing
 peracids
 perambulate
+perambulated
 perambulation
 perambulators
 percale
@@ -61713,6 +61734,7 @@ recreates
 recreating
 recreationists
 recreative
+recrement
 recrements
 recriminated
 recriminating
@@ -63316,6 +63338,7 @@ republicanizes
 republicanizing
 republicans
 republication
+republics
 republish
 republished
 republisher
@@ -64807,6 +64830,7 @@ rocketries
 rockfall
 rockfalls
 rockhopper
+rockhoppers
 rockhounding
 rockhoundings
 rockhounds
@@ -65682,6 +65706,7 @@ salicylate
 salicylates
 saliences
 saliencies
+saliency
 salient
 saliently
 salients
@@ -66477,6 +66502,7 @@ schizophrenias
 schizophrenic
 schizophrenics
 schizopods
+schizy
 schizzier
 schizziest
 schizzy
@@ -68457,6 +68483,7 @@ shopworn
 shoran
 shore
 shorebird
+shoreless
 shoreside
 shorewards
 shoring
@@ -70322,6 +70349,7 @@ sokol
 sol
 solace
 solacement
+solacements
 solacer
 solacers
 solaces
@@ -71084,6 +71112,7 @@ sphygmic
 sphygmographs
 sphygmus
 spicate
+spicated
 spiccato
 spiccatos
 spice
@@ -72882,6 +72911,7 @@ stubbing
 stubble
 stubbles
 stubblier
+stubbly
 stubborn
 stubborner
 stubbornest
@@ -77361,6 +77391,7 @@ toploftiness
 toplofty
 topminnow
 topmost
+topnotcher
 topnotchers
 topocentric
 topograph
@@ -82356,6 +82387,7 @@ verglas
 verglases
 veridicalities
 veriest
+verifiabilities
 verification
 verifications
 verifiers
@@ -83977,6 +84009,7 @@ wheelman
 wheelmen
 wheels
 wheelsmen
+wheelwrights
 wheen
 wheeped
 wheeping
@@ -84125,6 +84158,7 @@ whiten
 whiteners
 whitenesses
 whitening
+whitenings
 whitens
 whiteouts
 whiter
@@ -84304,6 +84338,7 @@ wigwags
 wigwam
 wikiup
 wilco
+wildcat
 wildcats
 wildcatter
 wilded
