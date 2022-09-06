@@ -1100,6 +1100,7 @@ aftercares
 afterclap
 afterdeck
 afterdecks
+aftereffect
 afterglow
 afterglows
 afterimage
@@ -1510,6 +1511,7 @@ alderwomen
 aldols
 aldosterone
 aldosterones
+aldosteronism
 aldrins
 aleatoric
 aleatory
@@ -1827,6 +1829,7 @@ alpenhorns
 alpenstock
 alpha
 alphabet
+alphabeted
 alphabetically
 alphabeting
 alphabetization
@@ -4293,6 +4296,7 @@ astragal
 astragals
 astragalus
 astrakhan
+astrakhans
 astral
 astrally
 astray
@@ -7583,6 +7587,7 @@ blithering
 blithers
 blithesome
 blithesomely
+blitzer
 blitzkrieg
 blizzards
 blizzardy
@@ -7594,6 +7599,7 @@ blob
 blockages
 blockers
 blockheads
+blockhouse
 blockier
 blocs
 blog
@@ -8587,6 +8593,7 @@ brassies
 brassiest
 brassinesses
 brassing
+brassware
 brat
 brattice
 bratticed
@@ -9157,6 +9164,7 @@ buddying
 budged
 budger
 budgerigars
+budget
 budgetary
 budgeted
 budgeteer
@@ -11163,6 +11171,7 @@ cavendishes
 caver
 cavern
 caverns
+caviares
 cavicorn
 cavie
 cavil
@@ -12719,6 +12728,7 @@ circumvention
 circumventions
 circumvents
 circumvolution
+circus
 circuses
 cires
 cirque
@@ -13517,6 +13527,7 @@ coconspirator
 coconspirators
 coconut
 cocoon
+cocoons
 cocoplum
 cocoplums
 cocottes
@@ -14147,6 +14158,7 @@ comfit
 comfort
 comfortableness
 comfortably
+comforted
 comforter
 comforters
 comforting
@@ -24533,6 +24545,7 @@ epicurisms
 epicuticles
 epicuticular
 epicyclic
+epicycloid
 epicycloidal
 epidemic
 epidemics
@@ -29775,6 +29788,7 @@ galluses
 galoot
 galop
 galopade
+galoshe
 galoshed
 galoshes
 galumph
@@ -30020,6 +30034,7 @@ gasogene
 gasogenes
 gasohol
 gasohols
+gasolines
 gasometer
 gasometers
 gasp
@@ -31596,6 +31611,7 @@ granularities
 granulate
 granulates
 granulation
+granulations
 granulators
 granule
 granules
@@ -35022,6 +35038,7 @@ humbuggeries
 humbuggers
 humbuggery
 humbugging
+humbugs
 humdinger
 humdingers
 humectant
@@ -35535,6 +35552,7 @@ hypolimnion
 hypomagnesemia
 hypomagnesemias
 hypomanic
+hypomanics
 hypomorph
 hypomorphs
 hyponasty
@@ -39664,6 +39682,7 @@ katharsis
 kathode
 kathodes
 katydid
+katzenjammers
 kauries
 kauris
 kaury
@@ -40899,6 +40918,7 @@ lashed
 lasher
 lashers
 lashes
+lashing
 lashkar
 lasing
 lasses
@@ -44265,6 +44285,7 @@ median
 mediants
 mediastina
 mediated
+mediates
 mediation
 mediations
 mediatize
@@ -51551,6 +51572,7 @@ outnumber
 outnumbers
 outoffice
 outorganize
+outorganized
 outorganizing
 outpace
 outpaces
@@ -56957,6 +56979,7 @@ polymerized
 polymerizing
 polymorphic
 polymorphically
+polymorphisms
 polymorphous
 polymorphously
 polyneuritises
@@ -59777,6 +59800,7 @@ pungs
 puniest
 puniness
 puninesses
+punishability
 punishers
 punishing
 punishments
@@ -64321,6 +64345,7 @@ rewash
 rewashing
 rewax
 rewaxed
+rewaxing
 rewearing
 reweaved
 reweaves
@@ -69165,6 +69190,7 @@ sissyish
 sister
 sistered
 sisterhoods
+sistering
 sisters
 sistroid
 sistrum
@@ -71691,6 +71717,7 @@ squashers
 squashes
 squashier
 squashiest
+squashing
 squat
 squatly
 squatnesses
@@ -72953,6 +72980,7 @@ strung
 strunt
 strunting
 strunts
+strut
 struthious
 strutting
 strychnic
@@ -75996,6 +76024,7 @@ tenner
 tennis
 tennises
 tennists
+tenoned
 tenoner
 tenoners
 tenorite
@@ -79081,6 +79110,7 @@ turnery
 turnhall
 turning
 turnips
+turnoff
 turnoffs
 turnon
 turnons
@@ -80940,6 +80970,7 @@ unpolled
 unpopularities
 unpotted
 unprecedented
+unprecedentedly
 unpregnant
 unpremeditated
 unprepossessing
@@ -81386,6 +81417,7 @@ untruthful
 untruthfully
 untucking
 untucks
+untunable
 untune
 untunes
 unturned
@@ -81962,6 +81994,7 @@ valiancy
 valiant
 valiantly
 valiantness
+valiants
 valid
 validated
 validating
@@ -83493,6 +83526,7 @@ wappenschawings
 wapping
 warbled
 warbles
+warbonnet
 warbonnets
 warcraft
 warcrafts
@@ -84400,6 +84434,7 @@ wiglets
 wigmakers
 wigs
 wigwagger
+wigwagging
 wigwags
 wigwam
 wikiup
