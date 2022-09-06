@@ -3594,6 +3594,7 @@ arbitrating
 arbitrations
 arbitrator
 arbitrators
+arbitresses
 arboreal
 arboreally
 arbored
@@ -5117,6 +5118,7 @@ backlashes
 backlashing
 backless
 backlight
+backlighted
 backlist
 backlisted
 backlit
@@ -7027,6 +7029,7 @@ bint
 binturong
 binturongs
 binuclear
+binucleate
 binucleated
 bioacoustics
 bioactive
@@ -9654,6 +9657,7 @@ bynames
 bypass
 bypassed
 bypast
+byplays
 byproduct
 byres
 byrled
@@ -12119,6 +12123,7 @@ chincherinchee
 chinchier
 chinchiest
 chinchilla
+chinchillas
 chinchy
 chine
 chines
@@ -12212,6 +12217,7 @@ chivareeing
 chivarees
 chivari
 chivariing
+chivied
 chivvy
 chivy
 chivying
@@ -14370,6 +14376,7 @@ compliance
 compliancies
 compliant
 complicacy
+complicate
 complicated
 complicating
 complice
@@ -14668,6 +14675,7 @@ confecting
 confectioner
 confectioners
 confects
+confederacies
 confederacy
 confederated
 confederates
@@ -18826,6 +18834,7 @@ deleing
 deles
 deleted
 deleterious
+deleteriousness
 deletes
 deletion
 deletions
@@ -19955,6 +19964,7 @@ diaphoresis
 diaphoretic
 diaphoretics
 diaphragm
+diaphragmatic
 diaphragming
 diaphyseal
 diaphysial
@@ -22100,6 +22110,7 @@ dreadlocks
 dreads
 dream
 dreamboats
+dreamers
 dreamful
 dreamfully
 dreamily
@@ -22226,6 +22237,7 @@ drooped
 droopily
 droops
 droopy
+dropcloth
 dropforges
 dropforging
 drophead
@@ -24965,6 +24977,7 @@ essentially
 essentialness
 essentialnesses
 essentials
+essoins
 essonites
 establish
 establishable
@@ -31064,6 +31077,7 @@ gnathic
 gnathions
 gnathite
 gnatlike
+gnats
 gnattier
 gnatty
 gnawable
@@ -33997,6 +34011,7 @@ hilding
 hillbillies
 hillbilly
 hilled
+hiller
 hillier
 hillinesses
 hilling
@@ -36904,6 +36919,7 @@ industries
 industriously
 industriousness
 industry
+indwell
 indwellers
 indwelling
 indwelt
@@ -40701,6 +40717,7 @@ langoustine
 langoustines
 langrage
 langrels
+langshan
 langshans
 langsyne
 langsynes
@@ -40874,6 +40891,7 @@ later
 laterad
 lateral
 lateraled
+lateralize
 lateralized
 lateralizing
 lateralling
@@ -41026,6 +41044,7 @@ laxest
 laxness
 laxnesses
 lay
+layaways
 layer
 layerages
 laying
@@ -41633,6 +41652,7 @@ lienal
 liens
 lier
 liers
+lies
 lieu
 lieve
 liever
@@ -46886,6 +46906,7 @@ mosques
 mosquito
 mosquitos
 moss
+mossback
 mosser
 mossers
 mossiest
@@ -47939,6 +47960,7 @@ nativists
 nativities
 natriureses
 natriuresis
+natriuretic
 natron
 natrons
 natter
@@ -52437,6 +52459,7 @@ oversights
 oversimple
 oversimplified
 oversimplifies
+oversimplify
 oversimplifying
 oversize
 oversizes
@@ -54329,6 +54352,7 @@ penitents
 penknives
 penlites
 penman
+penmanship
 penmen
 pennames
 pennant
@@ -54381,6 +54405,7 @@ pentahedrons
 pentameters
 pentamidine
 pentamidines
+pentane
 pentanes
 pentangle
 pentangles
@@ -59880,6 +59905,7 @@ puzzledly
 puzzleheaded
 puzzlements
 puzzler
+puzzlers
 puzzlingly
 pyaemia
 pyaemias
@@ -61201,6 +61227,7 @@ reascended
 reascends
 reascent
 reascents
+reason
 reasonably
 reasoned
 reasonings
@@ -65597,6 +65624,7 @@ salabilities
 salability
 salable
 salably
+salacity
 saladangs
 salals
 salamandrine
@@ -69523,6 +69551,7 @@ slipformed
 slipforming
 slipknots
 slipped
+slippered
 slipperier
 slipperinesses
 slipping
@@ -72572,6 +72601,7 @@ strappy
 straps
 strass
 strasses
+stratagem
 stratal
 strategic
 strategical
@@ -73132,6 +73162,7 @@ subinfeuded
 subinfeuds
 subinterval
 subirrigates
+subirrigation
 subirrigations
 subitems
 subjacency
@@ -74915,6 +74946,7 @@ tablespoonsful
 tableting
 tabletop
 tablets
+tabletted
 tabooing
 taboos
 taboulehs
@@ -76619,6 +76651,7 @@ thrustor
 thrusts
 thruway
 thruways
+thud
 thudded
 thudding
 thug
@@ -82770,6 +82803,7 @@ vista
 visualists
 visualities
 visualizations
+visualize
 visualized
 visualizer
 visually
@@ -82926,6 +82960,7 @@ voicings
 void
 volante
 volatile
+volatilised
 volatilities
 volatilizations
 volatilize
