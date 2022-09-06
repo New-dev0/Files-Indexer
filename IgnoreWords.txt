@@ -1136,6 +1136,7 @@ agapanthuses
 agape
 agapeic
 agar
+agarose
 agaroses
 agars
 agatewares
@@ -2297,6 +2298,7 @@ anaerobioses
 anaerobiosis
 anaesthesias
 anaesthetic
+anaesthetics
 anageneses
 anaglyph
 anagnorises
@@ -3768,6 +3770,7 @@ argufied
 argufier
 argufying
 argumenta
+argumentation
 argumentations
 argumentative
 argumentatively
@@ -5299,6 +5302,7 @@ bakers
 bakeshop
 bakewares
 baklava
+baklawa
 baksheeshes
 bakshish
 bakshishes
@@ -7863,6 +7867,7 @@ bobtailing
 bobtails
 bobwhite
 bobwhites
+bocce
 bocces
 boccie
 boccies
@@ -9315,6 +9320,7 @@ bulrush
 bulrushes
 bulwark
 bulwarked
+bulwarking
 bulwarks
 bumbershoot
 bumbershoots
@@ -14001,6 +14007,7 @@ colloquiums
 collotype
 collude
 colluding
+collusive
 colluvium
 colluviums
 colly
@@ -16256,6 +16263,7 @@ coverages
 coveralled
 coveralls
 covering
+covers
 coversine
 coverslips
 covertness
@@ -17433,6 +17441,7 @@ cusp
 cuspate
 cuspated
 cusped
+cuspidal
 cuspidate
 cuspidation
 cuspids
@@ -18308,6 +18317,7 @@ deceitfully
 deceitfulness
 deceive
 deceives
+deceiving
 decelerate
 decelerated
 decelerations
@@ -19034,6 +19044,7 @@ demises
 demissions
 demit
 demitasse
+demitasses
 demits
 demiurgic
 demiurgical
@@ -31360,6 +31371,7 @@ goodmen
 goodness
 goods
 goodwives
+gooeyness
 goof
 goofballs
 goofier
@@ -32736,6 +32748,7 @@ hallmark
 hallmarked
 hallmarks
 halloa
+halloaing
 halloas
 halloes
 halloing
@@ -35096,6 +35109,7 @@ humitures
 hummable
 hummer
 hummers
+hummingbirds
 hummock
 hummocks
 hummocky
@@ -36765,6 +36779,7 @@ incubations
 incubators
 incubatory
 incubi
+incudal
 incudate
 incudes
 inculcate
@@ -37980,6 +37995,7 @@ intermeddlers
 intermeddles
 intermeddling
 intermediacies
+intermediacy
 intermediated
 intermediation
 intermesh
@@ -40639,6 +40655,7 @@ lagune
 lahar
 laic
 laichs
+laicises
 laicism
 laicizations
 laicize
@@ -40743,6 +40760,7 @@ lamplight
 lampooners
 lampoonery
 lampooning
+lamppost
 lamprey
 lampshell
 lampyrid
@@ -43100,6 +43118,7 @@ macintosh
 mackerel
 mackintoshes
 mackle
+macle
 macled
 macles
 macon
@@ -44131,6 +44150,7 @@ maturers
 maturest
 matza
 matzah
+matzas
 matzo
 maud
 maudlin
@@ -48312,6 +48332,7 @@ neoclassicists
 neocolonialism
 neocolonialisms
 neocolonialist
+neocon
 neocons
 neoconservatism
 neoconservative
@@ -49035,6 +49056,7 @@ noncomparable
 noncompatible
 noncompetition
 noncompliance
+noncompliances
 noncomplicated
 noncomplying
 noncomposer
@@ -52353,6 +52375,7 @@ overissued
 overissuing
 overjoy
 overjoyed
+overjust
 overkill
 overkilled
 overkind
@@ -53079,6 +53102,7 @@ palatability
 palatable
 palatably
 palatal
+palatalization
 palatalizations
 palatalize
 palatalizes
@@ -56486,6 +56510,7 @@ pleather
 pleatless
 pleats
 pleb
+plebe
 plebeianism
 plebeianisms
 plebeianly
@@ -57333,6 +57358,7 @@ positive
 positivenesses
 positiver
 positivistic
+positivists
 positron
 positrons
 posits
@@ -59345,6 +59371,7 @@ protested
 protester
 protesters
 protests
+prothalamion
 prothalli
 prothalluses
 prothonotaries
@@ -59421,6 +59448,7 @@ provenience
 proventriculi
 proverb
 proverbed
+proverbs
 provers
 proves
 providences
@@ -62674,6 +62702,7 @@ reindictments
 reinduce
 reinduced
 reinduces
+reinducing
 reinducts
 reindustrialize
 reined
@@ -63481,6 +63510,7 @@ repursue
 repursued
 repursuing
 reputable
+reputably
 reputational
 reputes
 reputing
@@ -66749,6 +66779,7 @@ scissortails
 scissures
 sciurine
 sciuroid
+sclaffed
 sclaffers
 sclaffing
 sclera
@@ -69107,6 +69138,7 @@ simoons
 simp
 simpatico
 simpered
+simperer
 simperers
 simplemindedly
 simpleness
@@ -73372,6 +73404,7 @@ subjacent
 subject
 subjecting
 subjection
+subjectively
 subjectiveness
 subjectivise
 subjectivised
@@ -82309,6 +82342,7 @@ vaultingly
 vaunt
 vaunted
 vaunters
+vaunts
 vaus
 vavasor
 vavasour
@@ -85124,6 +85158,7 @@ wrath
 wrathier
 wrathiest
 wrathily
+wrathy
 wreaker
 wreakers
 wreaking
