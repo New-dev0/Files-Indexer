@@ -336,6 +336,7 @@ acedias
 aceldama
 aceldamas
 acentric
+acephalic
 acephalous
 acequias
 acerate
@@ -664,6 +665,7 @@ adenoviruses
 adenyls
 adeptness
 adeptnesses
+adepts
 adequacies
 adequate
 adequatenesses
@@ -2398,6 +2400,7 @@ anchoring
 anchoritically
 anchorless
 anchorpeople
+anchorperson
 anchorpersons
 anchors
 anchorwoman
@@ -3222,6 +3225,7 @@ aperture
 apertures
 apetalies
 apetalous
+apex
 aphaereses
 aphaeretic
 aphagias
@@ -9176,6 +9180,7 @@ buffeter
 buffeters
 buffets
 buffo
+buffooneries
 buffoonery
 buffoonish
 buffos
@@ -18098,6 +18103,7 @@ deadnesses
 deadpan
 deadpanner
 deadweights
+deadwoods
 deaerated
 deaerates
 deaerating
@@ -26374,6 +26380,7 @@ falsification
 falsifications
 falsifier
 falsifiers
+falsify
 falsities
 faltered
 falterers
@@ -33477,6 +33484,7 @@ helicopts
 helilift
 helilifting
 heliolatries
+heliometer
 heliometrically
 helios
 heliostat
@@ -35345,6 +35353,7 @@ hyperaware
 hyperawareness
 hyperbola
 hyperbolae
+hyperbolas
 hyperboles
 hyperbolical
 hyperbolically
@@ -43765,6 +43774,7 @@ markkas
 marksmanships
 markswoman
 markswomen
+markup
 marled
 marlinespikes
 marling
@@ -46390,6 +46400,7 @@ moldy
 molecules
 molehill
 moleskins
+molest
 molestation
 molested
 molesters
@@ -47723,6 +47734,7 @@ myrmecologies
 myrmecologist
 myrmecologists
 myrmecophile
+myrmidon
 myrmidons
 myrobalan
 myrrhs
@@ -47860,6 +47872,7 @@ nandins
 nanisms
 nankin
 nankins
+nannoplankton
 nannyish
 nanogram
 nanometer
@@ -50312,6 +50325,7 @@ offhanded
 offhandedness
 office
 officeholders
+officer
 officers
 official
 officialese
@@ -51803,6 +51817,7 @@ outtricking
 outtrump
 outtrumping
 outturns
+outvalue
 outvaunt
 outvaunted
 outvaunting
@@ -54855,6 +54870,7 @@ personableness
 personae
 personage
 personalise
+personalism
 personalities
 personalize
 personalized
@@ -57442,6 +57458,7 @@ potentiators
 potentilla
 potentiometric
 potful
+potfuls
 potheads
 potheen
 pother
@@ -58562,6 +58579,7 @@ primitivism
 primitivisms
 primitivist
 primitivists
+primitivities
 primitivity
 primly
 primmest
@@ -66587,6 +66605,7 @@ schusses
 schvartzes
 schwa
 schwarmereis
+schwas
 sciamachy
 sciatica
 sciaticas
@@ -68298,6 +68317,7 @@ shimmy
 shimmying
 shin
 shinbone
+shindig
 shindys
 shined
 shiner
@@ -69569,6 +69589,7 @@ slier
 slieve
 slieves
 slightly
+slightness
 slightnesses
 slights
 slily
@@ -71899,6 +71920,7 @@ standouts
 standpat
 standpatters
 standpattism
+standpattisms
 standpipe
 standpipes
 standpoint
@@ -71954,6 +71976,7 @@ starling
 starlings
 starnose
 starnoses
+starrier
 starriest
 starry
 stars
@@ -73149,6 +73172,7 @@ subdecision
 subdecisions
 subdepartment
 subdepot
+subdermal
 subdevelopment
 subdevelopments
 subdialect
@@ -73830,6 +73854,7 @@ summative
 summed
 summered
 summerhouse
+summering
 summerlike
 summerlong
 summerly
@@ -77840,6 +77865,7 @@ transaxle
 transaxles
 transcend
 transcended
+transcendently
 transcending
 transcends
 transcribe
@@ -78148,6 +78174,7 @@ trellising
 trelliswork
 tremble
 trembled
+tremblier
 trembling
 tremendous
 tremolites
@@ -78553,6 +78580,7 @@ troche
 trochee
 trochil
 trochili
+trochils
 trochilus
 trochlea
 trochlears
@@ -79178,6 +79206,7 @@ twinjet
 twinjets
 twinkie
 twinkler
+twinklers
 twinkles
 twinkling
 twinklings
@@ -79976,6 +80005,7 @@ undefoliated
 undelegated
 undelivered
 undeluded
+undemonstrative
 undependable
 underachieve
 underachieved
@@ -81601,6 +81631,7 @@ upstarting
 upstate
 upstater
 upstepped
+upstepping
 upsteps
 upstir
 upstirs
@@ -84086,6 +84117,7 @@ whimsicality
 whimsicalnesses
 whimsies
 whin
+whined
 whines
 whingding
 whinger
@@ -84250,6 +84282,7 @@ whumped
 whumping
 whumps
 whupped
+whupping
 whups
 why
 wicca
@@ -84603,6 +84636,7 @@ withdraws
 withe
 wither
 witherite
+witherites
 witherods
 withers
 withes
@@ -85134,6 +85168,7 @@ xysti
 xystoi
 yabber
 yabbie
+yabbies
 yabby
 yachter
 yachting
