@@ -2817,6 +2817,7 @@ antibioses
 antibiotically
 antibiotics
 antiblackism
+antibodies
 antiboss
 antibourgeois
 antiburglar
@@ -3707,6 +3708,7 @@ arenites
 areolate
 areolated
 areole
+areoles
 areologies
 arete
 arethusa
@@ -4001,6 +4003,7 @@ ascribable
 ascribe
 ascribed
 ascribes
+ascribing
 ascus
 asdic
 asdics
@@ -4816,6 +4819,7 @@ averted
 averter
 averters
 averting
+averts
 avgas
 avgases
 avgolemono
@@ -5373,6 +5377,7 @@ ban
 banality
 banalize
 banalized
+banana
 bananas
 banausic
 banco
@@ -5724,6 +5729,7 @@ basophil
 basophiles
 basophilia
 basophilic
+basque
 basques
 basseted
 basseting
@@ -5846,6 +5852,7 @@ bawdry
 bawdy
 bawl
 bawling
+bawls
 bawsunt
 bawtie
 bawties
@@ -12317,6 +12324,7 @@ chords
 chorea
 choreas
 choreatic
+choreguses
 choreic
 choreiform
 choremen
@@ -14143,6 +14151,7 @@ commissar
 commissariat
 commissariats
 commissars
+commissionaire
 commissionaires
 commissioned
 commissioning
@@ -19295,6 +19304,7 @@ derisively
 derisiveness
 derisivenesses
 derivation
+derivations
 derivatively
 derivatization
 derivatizations
@@ -28958,6 +28968,7 @@ friary
 fribble
 fribbler
 fribbles
+fribbling
 fricassee
 fricasseed
 fricasseeing
@@ -29932,6 +29943,7 @@ gasts
 gasworks
 gateaux
 gatecrash
+gatecrashing
 gated
 gatefold
 gatefolds
@@ -31031,6 +31043,7 @@ gobans
 gobbed
 gobbet
 gobbets
+gobbledegook
 gobbledegooks
 gobbledygook
 gobbler
@@ -33380,6 +33393,7 @@ hellgrammite
 hellgrammites
 hellholes
 hellhound
+hellhounds
 helling
 hellions
 hellish
@@ -38883,6 +38897,7 @@ jellify
 jelling
 jello
 jelly
+jellyfish
 jellyfishes
 jellylike
 jellyroll
@@ -43614,6 +43629,7 @@ marquise
 marquises
 marram
 marrano
+marranos
 marred
 marrer
 marrers
@@ -47846,6 +47862,7 @@ nautiluses
 navaids
 naval
 navally
+navar
 nave
 navel
 navels
@@ -48017,11 +48034,13 @@ nematocidal
 nematocide
 nematocyst
 nematocysts
+nematodes
 nematological
 nematologist
 nematology
 nemertine
 nemertines
+nemeses
 nemophila
 neoclassic
 neoclassicisms
@@ -48558,6 +48577,7 @@ noddies
 nodding
 noddled
 noddles
+noddy
 nodi
 nodical
 nodose
@@ -52339,6 +52359,7 @@ overstuff
 overstuffed
 oversubtle
 oversuds
+oversudsed
 oversupped
 oversupping
 oversupplied
@@ -55558,6 +55579,7 @@ pillage
 pillaged
 pillagers
 pillages
+pillaring
 pillarless
 pillars
 pillion
@@ -55995,6 +56017,7 @@ plantlike
 plantocracy
 plantsman
 plantsmen
+planulae
 planuloid
 plashers
 plashiest
@@ -57187,6 +57210,7 @@ potboils
 potboys
 poteen
 potences
+potencies
 potent
 potentate
 potential
@@ -63348,6 +63372,7 @@ resistive
 resistively
 resistivenesses
 resistivities
+resistivity
 resistlessness
 resistor
 resistors
@@ -63386,6 +63411,7 @@ resoles
 resolidifying
 resolute
 resoluter
+resolutest
 resolvable
 resolvents
 resonances
@@ -64371,6 +64397,7 @@ ringlets
 ringlike
 ringmaster
 ringmasters
+ringneck
 ringnecks
 ringside
 ringtail
@@ -65958,6 +65985,7 @@ savoys
 savvier
 savvies
 savviest
+savvily
 savviness
 sawbill
 sawbills
@@ -69090,6 +69118,7 @@ skylarker
 skylarks
 skylights
 skyline
+skylines
 skyman
 skymen
 skyrocket
@@ -71201,6 +71230,7 @@ sprays
 spreadabilities
 spreader
 spreaders
+spreading
 sprees
 sprig
 sprigged
@@ -71964,6 +71994,7 @@ stewy
 stey
 stibial
 stibine
+stibiums
 stich
 stichomythia
 stichomythies
@@ -72317,6 +72348,7 @@ strained
 strainer
 strainers
 straining
+strains
 straiten
 straitening
 straitens
@@ -77567,6 +77599,7 @@ transformative
 transformers
 transfuse
 transfused
+transfuses
 transfusional
 transfusions
 transgendered
@@ -83514,6 +83547,7 @@ weever
 weevers
 weevils
 weevily
+weeweed
 wefts
 weigelas
 weigelias
@@ -84294,6 +84328,7 @@ witty
 wivern
 wiverns
 wivers
+wiving
 wiz
 wizardly
 wizards
