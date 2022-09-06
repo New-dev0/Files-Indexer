@@ -124,6 +124,7 @@ abstrusity
 absurd
 absurder
 absurdest
+absurdisms
 absurdist
 absurdists
 absurdly
@@ -1210,6 +1211,7 @@ aggressed
 aggression
 aggressions
 aggressive
+aggressiveness
 aggressors
 aggrievedly
 aggrievements
@@ -5399,6 +5401,7 @@ baloneys
 bals
 balsa
 balsamed
+balsamic
 balsams
 balsas
 balustrades
@@ -12473,6 +12476,7 @@ chromates
 chromatic
 chromatically
 chromaticism
+chromaticity
 chromatids
 chromatograms
 chromatograph
@@ -14563,6 +14567,7 @@ concelebrant
 concelebrates
 concelebration
 concent
+concenter
 concentrating
 concentrations
 concentrative
@@ -15025,6 +15030,7 @@ conservatorship
 conserver
 conservers
 consider
+considerables
 considerably
 considerate
 consideration
@@ -16164,6 +16170,7 @@ countertrade
 countertrades
 countertrend
 countertrends
+countervail
 countervailed
 countervailing
 countervails
@@ -18526,6 +18533,7 @@ decurion
 decurions
 decussated
 decussates
+decussation
 decussations
 dedicated
 dedicates
@@ -21392,6 +21400,7 @@ ditchers
 ditching
 ditheism
 ditheisms
+ditheist
 ditheists
 dithered
 ditherers
@@ -21613,6 +21622,7 @@ dogmatics
 dogmatism
 dogmatist
 dogmatists
+dogmatizations
 dogmatize
 dogmatizer
 dogmatizers
@@ -25445,6 +25455,7 @@ evidencing
 evident
 evildoer
 evildoers
+evildoing
 evildoings
 evilest
 eviller
@@ -27692,6 +27703,7 @@ flamens
 flameproofed
 flameproofing
 flameproofs
+flamers
 flames
 flamethrower
 flamier
@@ -34504,6 +34516,7 @@ homiest
 homilies
 homily
 hominess
+hominesses
 hominians
 hominies
 hominoid
@@ -38059,6 +38072,7 @@ interpermeating
 interphalangeal
 interphase
 interphases
+interplanting
 interplants
 interplays
 interpleaded
@@ -38980,6 +38994,7 @@ jalopy
 jam
 jambalaya
 jambe
+jambes
 jambing
 jamboree
 jamborees
@@ -40426,6 +40441,7 @@ kudus
 kudzu
 kudzus
 kue
+kugel
 kukri
 kukris
 kultur
@@ -41286,6 +41302,7 @@ lecherous
 lecherously
 lecherousness
 lechers
+lechwes
 lecithin
 lecithinase
 lecithinases
@@ -42879,6 +42896,7 @@ lungis
 lungs
 lungworm
 lungworms
+lungwort
 lungyis
 lunier
 lunies
@@ -44040,6 +44058,7 @@ mastigophoran
 mastigophorans
 mastitic
 mastlike
+mastodon
 mastodons
 mastodont
 mastoid
@@ -44087,6 +44106,7 @@ materialnesses
 materials
 materiel
 materiels
+maternal
 maternally
 maternities
 matey
@@ -45809,6 +45829,7 @@ miscegenational
 miscegenations
 miscellanea
 miscellaneous
+miscellaneously
 miscellanies
 miscellanist
 mischannelled
@@ -47211,6 +47232,7 @@ mouthwatering
 mouthwateringly
 mouthy
 mouton
+moutonnee
 moutons
 movabilities
 movable
@@ -47319,6 +47341,7 @@ muffed
 muffin
 muffineer
 muffineers
+muffins
 mufflers
 muffles
 muffs
@@ -52599,6 +52622,7 @@ overseriously
 overservice
 oversets
 oversetting
+oversew
 oversewing
 oversewn
 overshaded
@@ -55138,6 +55162,7 @@ petrologies
 petrologists
 petrology
 petrols
+pets
 pettable
 pettedly
 petters
@@ -55313,6 +55338,7 @@ philistinism
 philistinisms
 phillumenist
 phillumenists
+philogyny
 philologically
 philologists
 philomel
@@ -63680,6 +63706,7 @@ reshapers
 resharpens
 reshaves
 reshaving
+reshes
 reshined
 reshines
 reshingle
@@ -65368,6 +65395,7 @@ rubbers
 rubbings
 rubbishes
 rubble
+rubblier
 rubbling
 rubdown
 rubefacient
@@ -67034,6 +67062,7 @@ scrummages
 scrummaging
 scrunch
 scrunches
+scrunchies
 scrunching
 scrupulosity
 scrupulousness
@@ -67844,6 +67873,7 @@ seres
 serest
 serf
 serfage
+serfdom
 serflike
 serge
 sergeancies
@@ -73395,6 +73425,7 @@ subinfeudating
 subinfeuded
 subinfeuds
 subinterval
+subintervals
 subirrigates
 subirrigation
 subirrigations
@@ -73781,6 +73812,7 @@ succorer
 succorers
 succoring
 succors
+succour
 succours
 succuba
 succubi
@@ -76833,6 +76865,7 @@ thrillers
 thrilling
 thrillingly
 thrive
+thrived
 thriven
 thriving
 thrivingly
@@ -77420,6 +77453,7 @@ tolls
 tollways
 toluate
 toluenes
+toluic
 toluides
 toluidides
 toluidin
@@ -82421,6 +82455,7 @@ veinules
 velamen
 velar
 velaria
+velarium
 velarization
 velarizations
 velarized
