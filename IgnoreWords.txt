@@ -965,6 +965,7 @@ aeroplane
 aerosats
 aerosolizations
 aerosolizing
+aerospaces
 aerostatics
 aesthesia
 aesthesias
@@ -1199,6 +1200,7 @@ aggregative
 aggregatively
 aggress
 aggressed
+aggression
 aggressions
 aggressive
 aggressors
@@ -1369,6 +1371,7 @@ airings
 airlifting
 airline
 airliner
+airlines
 airmailing
 airman
 airmen
@@ -9293,6 +9296,7 @@ bumptiousnesses
 bumpy
 bun
 bunches
+bunchier
 bunchily
 bunching
 buncoing
@@ -10600,6 +10604,7 @@ careless
 carelessly
 carelessness
 carer
+caress
 caressers
 caresses
 caressively
@@ -10728,6 +10733,7 @@ carrotin
 carrotins
 carrots
 carrottop
+carry
 carryall
 carryalls
 carryback
@@ -11404,6 +11410,7 @@ cerite
 ceriums
 cermets
 cero
+cerotypes
 cerous
 certainer
 certainest
@@ -14352,6 +14359,7 @@ complicating
 complice
 compliers
 complies
+complimentarily
 complimentary
 complimented
 complimenting
@@ -17773,6 +17781,7 @@ damans
 damar
 damars
 damascene
+damascened
 damaskeen
 damaskeened
 damaskeening
@@ -17860,6 +17869,7 @@ dapperly
 dapping
 dapple
 dappled
+daps
 dapsone
 darbar
 darbars
@@ -18381,6 +18391,7 @@ decorators
 decorous
 decorousness
 decorticate
+decorticating
 decortications
 decorticator
 decorum
@@ -19721,6 +19732,7 @@ devises
 devising
 devisor
 devitrified
+devitrifies
 devitrify
 devocalized
 devocalizing
@@ -27297,6 +27309,7 @@ finocchios
 finochios
 fioratura
 fioraturae
+fioriture
 fipple
 fique
 fiques
@@ -28968,6 +28981,7 @@ freshes
 freshing
 freshman
 freshmen
+freshnesses
 freshwaters
 fresnel
 fresnels
@@ -35948,6 +35962,7 @@ impacting
 impactions
 impactive
 impactor
+impactors
 impacts
 impainted
 impaints
@@ -36984,6 +36999,7 @@ infertility
 infestant
 infestation
 infestations
+infested
 infesters
 infesting
 infidelic
@@ -39428,6 +39444,7 @@ kaffiyahs
 kaffiyeh
 kafs
 kaftan
+kaftans
 kagu
 kagus
 kahuna
@@ -40267,6 +40284,7 @@ kwashiorkors
 kyack
 kyacks
 kyak
+kyaks
 kyanise
 kyanised
 kyanite
@@ -41821,6 +41839,7 @@ linotyping
 linsangs
 linseed
 linstock
+linted
 linter
 linters
 lintier
@@ -43096,6 +43115,7 @@ maillot
 maills
 mailman
 mailmen
+mailrooms
 maims
 mainframe
 mainframes
@@ -48793,6 +48813,7 @@ nonclinical
 nonclogging
 noncoercive
 noncoherent
+noncoincidence
 noncola
 noncolas
 noncollector
@@ -50002,6 +50023,7 @@ occulter
 occulters
 occulting
 occultisms
+occultist
 occultists
 occupant
 occupants
@@ -51854,6 +51876,7 @@ overclouded
 overclouding
 overclouds
 overcoaches
+overcoat
 overcold
 overcolored
 overcoloring
@@ -54616,6 +54639,7 @@ permission
 permitter
 permitting
 perms
+permutable
 permutational
 permuted
 permuting
@@ -56164,6 +56188,7 @@ playas
 playbill
 playbills
 playbook
+playboys
 playdate
 playday
 playdown
@@ -56919,6 +56944,7 @@ pop
 popcorns
 popedom
 popedoms
+popelike
 popes
 popguns
 popinjays
@@ -62757,6 +62783,7 @@ remodifies
 remoisten
 remoistened
 remoistens
+remolade
 remolades
 remolds
 remonetized
@@ -69590,6 +69617,7 @@ smacking
 smacks
 small
 smallage
+smallages
 smallclothes
 smallholder
 smallholding
@@ -71581,6 +71609,7 @@ stages
 stagey
 stagflation
 stagflationary
+staggard
 staggerbush
 staggerer
 staggers
@@ -72315,6 +72344,7 @@ stoper
 stoplight
 stopoff
 stopoffs
+stoppable
 stoppage
 stopped
 stoppered
@@ -72340,6 +72370,7 @@ stormbound
 stormed
 stormier
 stormiest
+storminesses
 storms
 story
 storyboarded
@@ -74276,6 +74307,7 @@ swap
 swapped
 swapper
 swappers
+swarajes
 swarajism
 swarajists
 sware
@@ -75122,6 +75154,7 @@ tapaderos
 tapalo
 taped
 tapeless
+tapelines
 tapenades
 tapered
 taperer
@@ -75309,6 +75342,7 @@ taxi
 taxicab
 taxicabs
 taxidermic
+taxidermies
 taxies
 taximen
 taximeter
@@ -77680,6 +77714,7 @@ transiencies
 transient
 transients
 transilluminate
+transistorise
 transistorize
 transistors
 transited
