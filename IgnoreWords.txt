@@ -1754,6 +1754,7 @@ allopatric
 allopatrically
 allopatries
 allophone
+allophonic
 alloplasm
 alloplasms
 allopolyploids
@@ -2055,6 +2056,7 @@ amelcorn
 amelcorns
 ameliorate
 ameliorates
+ameliorating
 amelioratory
 ameloblast
 amenability
@@ -2733,6 +2735,7 @@ anoraks
 anorectics
 anorexia
 anorexies
+anorexigenic
 anorexy
 anorthic
 anorthitic
@@ -6966,6 +6969,7 @@ bifurcate
 bifurcating
 bifurcations
 big
+bigamously
 bigarade
 bigarreau
 bigeminal
@@ -7834,6 +7838,7 @@ bluewood
 bluey
 bluff
 bluffed
+bluffer
 bluffers
 bluffing
 bluffly
@@ -8106,6 +8111,7 @@ bombycid
 bombycids
 bonaci
 bonanza
+bonanzas
 bondages
 bonded
 bondholders
@@ -11895,6 +11901,7 @@ charrs
 chars
 charted
 chartered
+charterer
 charterers
 charters
 charting
@@ -12992,6 +12999,7 @@ claimant
 claimants
 claimer
 clairaudience
+clairaudiences
 clairaudient
 clairaudiently
 clairvoyance
@@ -14866,6 +14874,7 @@ confectioners
 confects
 confederacies
 confederacy
+confederal
 confederated
 confederates
 confederating
@@ -15650,6 +15659,7 @@ copes
 copesetic
 copestones
 copied
+copiers
 copies
 copihue
 copihues
@@ -19565,6 +19575,7 @@ depths
 depurate
 depurated
 depurates
+depurating
 depurator
 depurators
 deputable
@@ -19949,6 +19960,7 @@ detrition
 detritions
 detritus
 detruded
+detrusion
 detrusions
 deuced
 deucedly
@@ -21747,6 +21759,7 @@ documenting
 dodderer
 doddering
 doddery
+dodecagons
 dodecahedra
 dodecahedral
 dodecaphonic
@@ -26427,6 +26440,7 @@ eyelike
 eyen
 eyeopener
 eyepieces
+eyepoint
 eyepoints
 eyepoppers
 eyes
@@ -30725,6 +30739,7 @@ geoprobes
 georgette
 georgettes
 geostationary
+geostrategic
 geostrophically
 geosynclinal
 geosynclines
@@ -32267,6 +32282,7 @@ gristliness
 grit
 griths
 grits
+gritted
 gritters
 grittiest
 grittinesses
@@ -33253,6 +33269,7 @@ haplopia
 haplopias
 haploses
 happen
+happenchance
 happenchances
 happened
 happening
@@ -36206,6 +36223,7 @@ illude
 illuded
 illuding
 illuminances
+illuminants
 illuminate
 illuminated
 illuminati
@@ -36533,6 +36551,7 @@ imperfectly
 imperfectness
 imperfects
 imperforate
+imperial
 imperialism
 imperialist
 imperialists
@@ -37620,6 +37639,7 @@ ingratiating
 ingratiation
 ingratiatory
 ingratitude
+ingratitudes
 ingredient
 ingredients
 ingresses
@@ -39717,6 +39737,7 @@ jounced
 jouncier
 jouncing
 jouncy
+journal
 journalese
 journaleses
 journaling
@@ -39987,6 +40008,7 @@ kalams
 kalanchoes
 kaleidoscopes
 kaleidoscopic
+kalends
 kalewife
 kalewives
 kaleyard
@@ -46187,6 +46209,7 @@ miscasting
 miscasts
 miscatalog
 miscataloged
+miscegenation
 miscegenational
 miscegenations
 miscellanea
@@ -49851,6 +49874,7 @@ nonplay
 nonplays
 nonpliant
 nonplus
+nonplussed
 nonplusses
 nonpoetic
 nonpoint
@@ -54005,6 +54029,7 @@ paramagnet
 paramagnetic
 paramattas
 paramecia
+paramecium
 parameciums
 paramedical
 parament
@@ -54774,6 +54799,7 @@ pedestalled
 pedestalling
 pedestrianisms
 pedestrians
+pediatricians
 pedicellate
 pedicle
 pedicles
@@ -55823,6 +55849,7 @@ phloxes
 phlyctena
 phlyctenae
 phobia
+phobias
 phobic
 phoebes
 phoebuses
@@ -60053,6 +60080,7 @@ pseudomorphism
 pseudonymity
 pseudopod
 pseudopodia
+pseudopods
 pseudopregnant
 pseudorandom
 pseudoscorpion
@@ -66350,6 +66378,7 @@ sagy
 sahibs
 sahuaros
 saice
+said
 saids
 saigas
 sail
@@ -67093,6 +67122,7 @@ scanty
 scape
 scaped
 scapegoat
+scapegrace
 scapegraces
 scaping
 scapose
@@ -68661,6 +68691,7 @@ shabbatot
 shabbily
 shabbiness
 shabby
+shack
 shacklebone
 shacklebones
 shackler
@@ -69806,6 +69837,7 @@ singsong
 singspiel
 singularities
 singularizes
+singularizing
 sinh
 sinhs
 sinicize
@@ -70133,6 +70165,7 @@ skyhook
 skying
 skyjacked
 skyjackers
+skyjacking
 skylarked
 skylarker
 skylarks
@@ -74768,6 +74801,7 @@ superabundant
 superachievers
 superactivity
 superadd
+superadditions
 superadds
 superagency
 superagent
@@ -84811,6 +84845,7 @@ weirds
 weisenheimer
 weisenheimers
 wekas
+welch
 welchers
 welches
 welching
