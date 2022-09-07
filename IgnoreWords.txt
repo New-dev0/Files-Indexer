@@ -1911,6 +1911,7 @@ alumine
 aluminic
 aluminize
 aluminized
+aluminizes
 alumins
 aluminum
 aluminums
@@ -3613,6 +3614,7 @@ arabizing
 arable
 arables
 aragonitic
+arak
 araks
 arame
 arames
@@ -4903,6 +4905,7 @@ aviculturist
 avid
 avifauna
 avifaunae
+avionic
 avisos
 avo
 avocado
@@ -6120,6 +6123,7 @@ becrusted
 becrusting
 becudgeled
 becudgelled
+becudgelling
 becurst
 bedabbles
 bedarkened
@@ -6462,6 +6466,7 @@ belters
 beltings
 beltless
 beltline
+beltways
 beluga
 belugas
 bema
@@ -12570,6 +12575,7 @@ chromatograph
 chromatographed
 chromatographer
 chromatography
+chromatolysis
 chromatophore
 chrome
 chromiest
@@ -13991,6 +13997,7 @@ coleus
 coleuses
 colewort
 coleworts
+colicin
 colicines
 colickiest
 colicky
@@ -18400,6 +18407,7 @@ decaf
 decagram
 decagrams
 decahedron
+decahedrons
 decalcified
 decaliter
 decaliters
@@ -18793,6 +18801,7 @@ deficiencies
 deficient
 deficients
 deficit
+deficits
 defier
 defiers
 defiladed
@@ -22899,6 +22908,7 @@ dyspeptics
 dysphagia
 dysphagias
 dysphagic
+dysphasias
 dysphasic
 dysphemistic
 dysphonic
@@ -23526,6 +23536,7 @@ electroweak
 electrowinning
 electrum
 electuary
+eledoisins
 eleemosynary
 elegance
 elegantly
@@ -30025,6 +30036,7 @@ galloot
 gallop
 galloper
 gallops
+gallous
 gallowglass
 gallows
 galluses
@@ -33757,6 +33769,7 @@ heigh
 height
 heightening
 heightens
+heighth
 heiled
 heinie
 heinously
@@ -42093,6 +42106,7 @@ ligaments
 ligan
 ligands
 ligans
+ligase
 ligating
 ligation
 ligative
@@ -43525,6 +43539,7 @@ maggot
 maggots
 maggoty
 magi
+magians
 magic
 magical
 magically
@@ -44045,6 +44060,7 @@ marabou
 marabout
 marabouts
 maraca
+maracas
 maranatha
 marantas
 maras
@@ -45386,6 +45402,7 @@ miasmata
 miasmatic
 miasmic
 miaul
+miauls
 mib
 micaceous
 micawber
@@ -47855,6 +47872,7 @@ mundungos
 mundungus
 mundunguses
 mungo
+municipalities
 municipality
 municipalize
 municipalizes
@@ -48968,6 +48986,7 @@ niches
 niching
 nick
 nicked
+nickel
 nickelic
 nickeling
 nickelodeon
@@ -49692,6 +49711,7 @@ nonmetric
 nonmetro
 nonmetropolitan
 nonmigrant
+nonmigratory
 nonmilitants
 nonmilitary
 nonminority
@@ -51205,6 +51225,7 @@ optimisations
 optimised
 optimises
 optimisms
+optimist
 optimization
 optimizations
 optimize
@@ -54773,6 +54794,7 @@ peke
 pekepoos
 pekoes
 pelage
+pelages
 pelagial
 pelagic
 pelagics
@@ -55368,6 +55390,7 @@ personification
 personifier
 personifies
 personifying
+personnels
 perspectival
 perspicacious
 perspicuity
@@ -58890,6 +58913,7 @@ prestigiously
 prestorage
 prestore
 prestored
+prestos
 prestress
 prestressed
 prestresses
@@ -59167,6 +59191,7 @@ prismatic
 prismoidal
 prisoners
 priss
+prissier
 prissiest
 prissy
 pristane
@@ -62426,6 +62451,7 @@ redemptions
 redemptive
 redenies
 redenying
+redeploy
 redeployed
 redeployment
 redeployments
@@ -64455,6 +64481,7 @@ retable
 retables
 retackle
 retacks
+retagging
 retags
 retailers
 retailored
@@ -64673,6 +64700,7 @@ retuse
 retwist
 retyped
 retypes
+retyping
 reunification
 reunifies
 reunions
@@ -65693,6 +65721,7 @@ rottweilers
 rotunda
 rotundities
 rotundness
+roturier
 roturiers
 roubles
 rouche
@@ -66375,6 +66404,7 @@ salsilla
 salsillas
 saltarello
 saltarellos
+saltation
 saltations
 saltatorial
 saltatory
@@ -70792,6 +70822,7 @@ snowblink
 snowblinks
 snowblower
 snowblowers
+snowboarded
 snowboarding
 snowbrushes
 snowcap
@@ -77946,6 +77977,7 @@ toked
 token
 tokened
 tokenism
+toker
 tokers
 tokes
 toking
@@ -80899,6 +80931,7 @@ undersigned
 undersized
 underskirts
 undersold
+underspin
 understaffing
 understaffings
 understandable
@@ -81024,6 +81057,7 @@ undutifulnesses
 undyed
 undynamic
 uneagerly
+unearmarked
 unearned
 unearthed
 unearthliest
@@ -82247,6 +82281,7 @@ upflow
 upflung
 upfold
 upfolded
+upfolds
 upgathering
 upgaze
 upgazed
