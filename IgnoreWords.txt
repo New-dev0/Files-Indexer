@@ -1395,6 +1395,7 @@ airmailing
 airman
 airmen
 airmobile
+airpark
 airplanes
 airports
 airpower
@@ -1589,6 +1590,7 @@ alibied
 alibies
 alibiing
 alicyclic
+alidad
 alien
 alienability
 alienable
@@ -2836,6 +2838,7 @@ antiair
 antiaircraft
 antialcohol
 antialcoholism
+antialien
 antianxiety
 antiaphrodisiac
 antiar
@@ -6917,6 +6920,7 @@ bidirectional
 bidis
 bids
 bield
+bielded
 bielding
 biennales
 biennia
@@ -8240,6 +8244,7 @@ bop
 bopeep
 bopper
 bopping
+bops
 boracic
 boracite
 boracites
@@ -13910,6 +13915,7 @@ coinsurances
 coinsured
 coinsurer
 coinsurers
+coinsures
 cointerring
 cointreau
 cointreaus
@@ -14529,6 +14535,7 @@ complying
 compo
 compone
 components
+compony
 comport
 comported
 comportment
@@ -14984,6 +14991,7 @@ coniferous
 conifers
 coniine
 conioses
+coniosis
 coniums
 conjectural
 conjecturer
@@ -19324,6 +19332,7 @@ dentistry
 dents
 dentural
 denture
+dentures
 denturists
 denuclearizes
 denudated
@@ -27960,6 +27969,7 @@ flax
 flaxier
 flaxiest
 flaxseed
+flaxy
 flay
 flayer
 flayers
@@ -27980,6 +27990,7 @@ flechette
 flecked
 fleckless
 flecky
+flection
 fled
 fledge
 fledged
@@ -28512,6 +28523,7 @@ fonder
 fondest
 fonding
 fondled
+fondles
 fondness
 fondnesses
 fondue
@@ -31257,6 +31269,7 @@ glummest
 glumness
 glumpier
 glumpily
+glunched
 glunches
 gluons
 glut
@@ -32112,6 +32125,7 @@ grinding
 grindingly
 grinds
 grindstone
+grindstones
 gringa
 gringos
 grinner
@@ -32301,6 +32315,7 @@ gruel
 grueled
 grueler
 grueling
+gruelingly
 gruelings
 grueller
 gruellers
@@ -33445,6 +33460,7 @@ hazardous
 hazardousness
 hazel
 hazelhen
+hazelnuts
 hazer
 hazers
 hazier
@@ -34468,6 +34484,7 @@ hocus
 hocuses
 hocussing
 hodad
+hodaddy
 hodden
 hoddens
 hoddin
@@ -35748,6 +35765,7 @@ hypochondriases
 hypocotyls
 hypocrites
 hypocritical
+hypocritically
 hypocycloids
 hypoderma
 hypodermically
@@ -37895,6 +37913,7 @@ instruments
 insubordinate
 insubordinately
 insubordination
+insufferably
 insufficiencies
 insufficiency
 insufficient
@@ -46748,6 +46767,8 @@ mols
 moltenly
 molter
 molters
+molts
+moly
 molybdenite
 molybdenum
 molybdous
@@ -49505,6 +49526,7 @@ nonhospitalized
 nonhousing
 nonhumans
 nonhunter
+nonhunters
 nonhysterical
 nonideal
 nonidentical
@@ -57652,6 +57674,7 @@ possesses
 possessions
 possessive
 possessively
+possessiveness
 possessor
 possessors
 possets
@@ -61100,6 +61123,7 @@ radular
 raffia
 raffias
 raffinate
+raffinates
 raffinose
 raffinoses
 raffishly
@@ -63707,6 +63731,7 @@ repositories
 repository
 reposits
 repossession
+repossessor
 repossessors
 repots
 repotted
@@ -66237,6 +66262,7 @@ sals
 salsa
 salsify
 salsilla
+salsillas
 saltarello
 saltarellos
 saltations
@@ -69137,6 +69163,7 @@ shunned
 shunners
 shunning
 shunpike
+shunpikers
 shunpikes
 shunpikings
 shuns
@@ -70924,6 +70951,7 @@ solfeggios
 solferino
 solgel
 solicitants
+solicitation
 solicited
 soliciting
 solicitous
@@ -71024,6 +71052,7 @@ somersaulting
 somersaults
 somerseted
 sometimes
+somewhat
 somewhats
 somewhere
 somewheres
@@ -71675,6 +71704,7 @@ spike
 spiked
 spikelike
 spikenards
+spikers
 spikily
 spiks
 spiky
@@ -74284,6 +74314,7 @@ suitlike
 suitors
 sukiyakis
 sukkah
+sukkoth
 sulcal
 sulci
 suldan
@@ -76213,6 +76244,7 @@ tectal
 tectites
 tectonics
 tectrix
+tectums
 ted
 teddered
 teddering
@@ -76811,6 +76843,7 @@ texture
 textureless
 textures
 texturize
+texturized
 texturizing
 thack
 thacked
@@ -83900,6 +83933,7 @@ waggoners
 waggoning
 waging
 wagonages
+wagoned
 wagoners
 wagonette
 wagoning
@@ -85665,6 +85699,7 @@ wurzels
 wushu
 wussier
 wuther
+wuthering
 wuthers
 wyandotte
 wyandottes
