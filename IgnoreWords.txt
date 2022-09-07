@@ -2045,6 +2045,7 @@ amebae
 amebas
 amebiases
 amebocyte
+amebocytes
 ameboid
 amelcorn
 amelcorns
@@ -3364,6 +3365,7 @@ apophthegms
 apophyllite
 apophyses
 apoplexies
+apoplexy
 apoptoses
 apoptosis
 apoptotic
@@ -5995,6 +5997,7 @@ beamed
 beamier
 beamishly
 beamless
+bean
 beanbags
 beaned
 beanie
@@ -9225,6 +9228,7 @@ buckskins
 buckteeth
 bucktooth
 bucktoothed
+bucolic
 bucolics
 budder
 budders
@@ -12556,6 +12560,7 @@ chromatographed
 chromatographer
 chromatography
 chromatophore
+chrome
 chromiest
 chrominance
 chrominances
@@ -14101,6 +14106,7 @@ collyriums
 collywobbles
 colobomata
 colobus
+colocate
 colocated
 colocates
 colocynths
@@ -14187,6 +14193,7 @@ colportages
 colporteur
 colporteurs
 cols
+colters
 coltish
 coltishly
 colts
@@ -15993,6 +16000,7 @@ coshers
 coshing
 cosie
 cosigned
+cosigners
 cosigns
 cosily
 cosine
@@ -17706,6 +17714,7 @@ cycloaddition
 cycloadditions
 cyclodextrin
 cyclogenesis
+cyclohexanes
 cyclohexanones
 cycloid
 cycloids
@@ -20269,6 +20278,7 @@ dictionaries
 dictum
 dictums
 dictyosomes
+dictyosteles
 dicyclies
 dicycly
 dicynodont
@@ -23390,6 +23400,7 @@ elaborations
 elaborative
 elain
 elains
+elan
 elaphine
 elapine
 elapse
@@ -23592,6 +23603,7 @@ elution
 elutriating
 elutriation
 elutriators
+eluvial
 eluviates
 eluviating
 eluviation
@@ -25002,6 +25014,7 @@ ericas
 erigeron
 eringos
 eriophyid
+eristic
 eristical
 ermined
 eroded
@@ -28005,6 +28018,7 @@ fleecer
 fleeching
 fleecing
 fleecy
+fleered
 fleeringly
 fleers
 flees
@@ -28651,6 +28665,7 @@ forceless
 forcemeat
 forcemeats
 forcible
+forcibleness
 fordid
 fording
 fordless
@@ -32222,6 +32237,7 @@ grossers
 grossing
 grossly
 grossness
+grossularites
 grosz
 grosze
 groszy
@@ -32532,6 +32548,7 @@ gumshoes
 gumtree
 gumweed
 gumweeds
+gumwood
 gumwoods
 gun
 gunboats
@@ -33533,6 +33550,7 @@ headset
 headsets
 headshrinker
 headshrinkers
+headsmen
 headstand
 headstands
 headstay
@@ -34707,6 +34725,7 @@ homogeneities
 homogeneity
 homogenies
 homogenise
+homogenising
 homogenization
 homogenizations
 homogenized
@@ -38161,6 +38180,7 @@ interjoined
 interjoins
 interknitting
 interknot
+interknots
 interlaced
 interlacements
 interlacing
@@ -42236,6 +42256,7 @@ lingula
 lingulae
 lingy
 linier
+liniest
 linin
 lining
 linkable
@@ -44573,6 +44594,7 @@ meddles
 medevacking
 medevacs
 medfly
+mediacy
 mediad
 mediaeval
 medial
@@ -46878,6 +46900,7 @@ monoacids
 monoamines
 monobasic
 monocarpic
+monocarps
 monochasial
 monochasium
 monochromatism
@@ -49640,6 +49663,7 @@ nonnaval
 nonnecessities
 nonnegotiable
 nonneural
+nonnews
 nonnoble
 nonnormative
 nonnovel
@@ -51745,6 +51769,7 @@ outfable
 outfables
 outfabling
 outface
+outfaces
 outfast
 outfawned
 outfawning
@@ -54120,6 +54145,7 @@ parting
 partisan
 partisanship
 partisanships
+partitas
 partitioners
 partitions
 partlet
@@ -58212,6 +58238,7 @@ preclearances
 preclears
 precluding
 precocious
+precocities
 precocity
 precognition
 precognitions
@@ -62702,6 +62729,7 @@ reflexiveness
 reflexivenesses
 reflexivities
 reflexivity
+reflexly
 reflies
 refloat
 reflooding
@@ -64335,6 +64363,7 @@ resuscitating
 resuscitation
 resuscitations
 resuscitative
+resuscitators
 resuspended
 resuspending
 reswallowed
@@ -64819,6 +64848,7 @@ rhachis
 rhaphae
 rhaphe
 rhaphes
+rhapsodical
 rhatany
 rhematic
 rheme
@@ -66191,6 +66221,7 @@ salaried
 salary
 sale
 saleable
+salep
 saleratus
 saleratuses
 sales
@@ -68325,6 +68356,7 @@ sestertium
 sestine
 seta
 setae
+setenants
 setiform
 setline
 setose
@@ -69924,6 +69956,7 @@ skyways
 skywriters
 skywrites
 skywriting
+skywritings
 skywrote
 slab
 slabber
@@ -72018,6 +72051,7 @@ spotless
 spotlessly
 spotlighting
 spotlights
+spotlit
 spottable
 spottily
 spottiness
@@ -74181,6 +74215,7 @@ succinctest
 succinctly
 succinctness
 succinic
+succor
 succorer
 succorers
 succoring
