@@ -1,0 +1,9 @@
+Packages.manifest - OpenWrt Downloads,https://downloads.openwrt.org/releases/18.06.1/targets/ramips/mt7620/packages/Packages.manifest
+Packages.manifest - OpenWrt Downloads,https://downloads.openwrt.org/releases/packages-19.07/mips_24kc/base/Packages.manifest
+AGL/agl-demo-platform-crosssdk-raspberrypi3-20180726064603 ...,https://github.com/chorusmobility/AGL/blob/master/agl-demo-platform-crosssdk-raspberrypi3-20180726064603.rootfs.manifest
+atomrpg/entities.manifest at master - GitHub,https://github.com/phobos2077/atomrpg/blob/master/Assets/StreamingAssets/entities.manifest
+turnkey-simplemachines-13.0rc2-wheezy-amd64.manifest - dotsrc.org,https://mirrors.dotsrc.org/turnkeylinux/metadata/turnkey-simplemachines/13.0rc2-wheezy-amd64/turnkey-simplemachines-13.0rc2-wheezy-amd64.manifest
+Packages.manifest - PandoraBox,http://downloads.pangubox.com:6380/pandorabox/19.02/packages/mipsel_1004kc_dsp/base/Packages.manifest
+https://downloads.pangubox.com:63443/pandorabox/18...,https://downloads.pangubox.com:63443/pandorabox/18.11/packages/mips_74kc_dsp2/base/Packages.manifest
+https://usingpro.com/snapshots/packages/mips_24kc/...,https://usingpro.com/snapshots/packages/mips_24kc/base/Packages.manifest
+https://mgmt.saar.freifunk.net/openwrt/snapshots/t...,https://mgmt.saar.freifunk.net/openwrt/snapshots/targets/lantiq/xway/packages/Packages.manifest
