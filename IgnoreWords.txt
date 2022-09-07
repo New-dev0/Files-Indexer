@@ -3341,6 +3341,7 @@ apoenzymes
 apogamic
 apogamies
 apogean
+apogee
 apogeic
 apolipoprotein
 apolipoproteins
@@ -5336,6 +5337,7 @@ bairn
 bairnish
 bairnlier
 bairns
+bait
 baited
 baiter
 baitfishes
@@ -7810,6 +7812,7 @@ blueheads
 blueish
 bluejack
 bluejacket
+bluejackets
 bluejays
 bluelines
 bluely
@@ -11842,6 +11845,7 @@ charbroils
 charcoal
 charcoaling
 charcoals
+charcuteries
 charge
 chargehand
 charger
@@ -12075,6 +12079,7 @@ chemisorbing
 chemisorptions
 chemo
 chemoautotrophy
+chemokine
 chemokines
 chemoreception
 chemoreceptor
@@ -15707,6 +15712,7 @@ copublishing
 copulae
 copulates
 copulating
+copulation
 copulations
 copulative
 copulatives
@@ -16394,6 +16400,7 @@ coven
 covenant
 covenantal
 covenantees
+covenanter
 covenanting
 covenantors
 cover
@@ -18218,6 +18225,7 @@ dauts
 daven
 davening
 davenport
+davit
 dawdle
 dawdled
 dawdler
@@ -21010,6 +21018,7 @@ diseconomy
 disembark
 disembarkations
 disembarks
+disembarrass
 disembarrassed
 disembarrasses
 disembarrassing
@@ -21349,6 +21358,7 @@ disrelished
 disrelishes
 disremembered
 disreputability
+disreputably
 disrepute
 disreputes
 disrespected
@@ -26992,6 +27002,7 @@ febrility
 fecal
 feces
 fecial
+fecials
 feckless
 fecklessness
 fecks
@@ -31559,6 +31570,7 @@ goldeye
 goldeyes
 goldfinch
 goldsmith
+goldurn
 goldurns
 golem
 golf
@@ -35018,6 +35030,7 @@ hoptoad
 hoptoads
 horas
 hordein
+hordeins
 hording
 horehound
 horehounds
@@ -35779,6 +35792,7 @@ hypermodernists
 hypermutability
 hyperons
 hyperopes
+hyperparasite
 hyperparasitic
 hyperparasitism
 hyperphagia
@@ -42248,6 +42262,7 @@ limit
 limitable
 limitary
 limitation
+limitational
 limitedly
 limitedness
 limiter
@@ -44126,6 +44141,7 @@ marbleizes
 marbleizing
 marblers
 marbles
+marblier
 marbling
 marbly
 marcasites
@@ -45848,6 +45864,7 @@ millpond
 millrace
 millruns
 mills
+millstreams
 millwork
 millworks
 millwright
@@ -46225,6 +46242,7 @@ miscook
 miscooking
 miscooks
 miscopy
+miscopying
 miscorrelation
 miscorrelations
 miscounted
@@ -46285,6 +46303,7 @@ misemphasized
 misemploy
 misemploying
 misemployment
+misenroll
 misenrolled
 misenrolling
 misenrolls
@@ -46574,6 +46593,7 @@ misstep
 misstepping
 misstopped
 misstricken
+misstriking
 misstruck
 misstyle
 misstyled
@@ -48049,6 +48069,7 @@ mustache
 mustaches
 mustachios
 mustang
+mustee
 mustees
 mustelid
 mustelids
@@ -49249,6 +49270,7 @@ noctilucas
 noctuid
 nocturnally
 nocturnes
+nocturns
 nod
 nodalities
 nodality
@@ -51534,6 +51556,7 @@ orthoepic
 orthogenesis
 orthogenetic
 orthogonalities
+orthogonality
 orthographic
 orthomolecular
 orthonormal
@@ -61829,6 +61852,7 @@ realign
 realignments
 realigns
 realise
+realised
 realises
 realising
 realisms
@@ -66044,6 +66068,7 @@ rummiest
 rumor
 rumored
 rumormongerings
+rumormongers
 rumors
 rumouring
 rumours
@@ -68692,6 +68717,7 @@ shakeable
 shakedown
 shaken
 shakeout
+shakeup
 shakiest
 shakiness
 shakinesses
@@ -70571,6 +70597,7 @@ smatterings
 smatters
 smaze
 smearier
+smeariest
 smectite
 smeddum
 smeek
@@ -74276,6 +74303,7 @@ substantivize
 substantivizes
 substantivizing
 substate
+substation
 substituted
 substituting
 substitutional
@@ -75880,6 +75908,7 @@ tacnode
 tacnodes
 taco
 taconite
+tacos
 tacrines
 tact
 tactfully
@@ -80260,6 +80289,7 @@ ultradry
 ultraexclusive
 ultrafeminine
 ultrafiches
+ultraglamorous
 ultraheats
 ultraheavy
 ultrahip
@@ -82805,6 +82835,7 @@ valorously
 valour
 valpolicellas
 valuable
+valuableness
 valuablenesses
 valuated
 valuates
@@ -83445,6 +83476,7 @@ vibrators
 vibratory
 vibratos
 vibrio
+vibrionic
 vibrios
 vibrioses
 vibriosis
@@ -84294,6 +84326,7 @@ wangled
 wangler
 wangun
 wanguns
+waniest
 wanigan
 wanion
 wanions
@@ -85646,6 +85679,7 @@ woodies
 woodiest
 woodiness
 wooding
+woodland
 woodlanders
 woodlands
 woodlark
@@ -86574,6 +86608,7 @@ zuz
 zwitterion
 zwitterionic
 zygapophysis
+zygoid
 zygomas
 zygomata
 zygomatics
