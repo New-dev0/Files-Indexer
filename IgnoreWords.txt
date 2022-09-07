@@ -5284,6 +5284,7 @@ bahuvrihis
 bailed
 bailee
 bailees
+bailers
 bailey
 bailie
 bailies
@@ -6153,6 +6154,7 @@ bedrugged
 bedrugging
 bedrugs
 beds
+bedsheet
 bedsheets
 bedside
 bedsides
@@ -6712,6 +6714,7 @@ betels
 bethanked
 bethanking
 bethels
+bethinking
 bethorned
 bethorning
 bethought
@@ -9566,6 +9569,7 @@ bushy
 busier
 business
 businessmen
+businesspeople
 businessperson
 businesspersons
 businesswoman
@@ -10073,6 +10077,7 @@ calmodulin
 calomel
 calorically
 calorics
+calories
 calorimeters
 calorimetry
 calory
@@ -11543,6 +11548,7 @@ cesuras
 cetaceans
 cetaceous
 cetane
+cete
 cetologies
 cetologist
 chablis
@@ -13214,6 +13220,7 @@ cloisters
 cloistral
 clomb
 clomiphene
+clomped
 clomping
 clomps
 clonal
@@ -13797,6 +13804,7 @@ cohere
 coherence
 coherences
 coherencies
+coherency
 coherently
 cohesions
 cohesiveness
@@ -20150,6 +20158,7 @@ dichlorvoses
 dichogamous
 dichogamy
 dichondras
+dichotic
 dichotomies
 dichotomist
 dichotomized
@@ -26966,6 +26975,7 @@ feministic
 feminities
 feminity
 feminizations
+feminized
 feminizes
 femora
 fems
@@ -29573,6 +29583,7 @@ funkier
 funkily
 funkiness
 funks
+funky
 funnel
 funnelform
 funnelled
@@ -30354,6 +30365,7 @@ gemmology
 gemmule
 gemmy
 gemologies
+gemology
 gemot
 gemote
 gemots
@@ -34169,6 +34181,7 @@ hijacking
 hijra
 hijrah
 hike
+hilarious
 hilariousnesses
 hilarity
 hilding
@@ -37551,6 +37564,7 @@ innovative
 innovatively
 innovativeness
 innovator
+innovators
 innovatory
 inns
 innuendo
@@ -39207,6 +39221,7 @@ jellylike
 jellyroll
 jellyrolls
 jemidars
+jemmied
 jemmies
 jemmy
 jennet
@@ -46349,6 +46364,7 @@ mistress
 mistresses
 mistrust
 mistrusted
+mistrustful
 mistrustfully
 mistrustfulness
 mistrusts
@@ -48893,6 +48909,7 @@ nitchies
 nite
 niter
 niterie
+nitery
 nites
 nitpick
 nitpicked
@@ -49345,6 +49362,7 @@ nonglamorous
 nonglare
 nongolfers
 nongonococcal
+nongraded
 nongranular
 nongreen
 nongregarious
@@ -49848,6 +49866,7 @@ notices
 notifiable
 notifier
 notifying
+notion
 notional
 notionalities
 notionality
@@ -50711,6 +50730,7 @@ omnifarious
 omnific
 omnificent
 omnimode
+omnipotent
 omnipotently
 omnipresences
 omnipresent
@@ -50768,6 +50788,7 @@ onomatology
 onrush
 onshore
 onside
+onstage
 ontically
 ontogeneses
 ontogenetically
@@ -54434,6 +54455,7 @@ pedicle
 pedicles
 pedicular
 pediculate
+pediculosis
 pediculous
 pedicures
 pedicuring
@@ -56174,6 +56196,7 @@ pinyons
 piolet
 piolets
 pion
+pioneering
 pions
 piosity
 pious
@@ -56641,6 +56664,7 @@ pleiades
 pleiads
 pleinairists
 pleiocene
+pleiotropic
 pleiotropies
 plena
 plenaries
@@ -56686,6 +56710,7 @@ plexus
 plexuses
 pliably
 pliant
+pliantly
 plicate
 plicated
 plicately
@@ -57886,6 +57911,7 @@ preachily
 preachiness
 preaching
 preachingly
+preachment
 preachments
 preachy
 preact
@@ -58024,6 +58050,7 @@ precluding
 precocious
 precocity
 precognition
+precognitions
 precombustions
 precommitment
 precommitments
@@ -58191,6 +58218,7 @@ prefires
 prefiring
 prefix
 prefixes
+prefixion
 prefixions
 preflight
 preflighted
@@ -61382,6 +61410,7 @@ reacclimatizes
 reacclimatizing
 reaccredit
 reaccreditation
+reaccredited
 reaccrediting
 reaccuse
 reaccused
@@ -62101,6 +62130,7 @@ redecoration
 redecorator
 reded
 rededicate
+rededicates
 rededication
 redeemer
 redeemers
@@ -64888,6 +64918,7 @@ riming
 rimland
 rimless
 rimming
+rimose
 rimosely
 rimpled
 rimrock
@@ -69234,6 +69265,7 @@ silt
 siltation
 siltier
 siltiest
+siltstone
 silty
 silurid
 silva
@@ -73397,6 +73429,7 @@ subbasses
 subbing
 subblocks
 subbranch
+subbranches
 subbreeds
 subbureau
 subbureaus
@@ -76215,6 +76248,7 @@ tempts
 ten
 tenabilities
 tenability
+tenablenesses
 tenably
 tenaces
 tenacious
@@ -83238,6 +83272,7 @@ visor
 visored
 visorless
 vista
+visualist
 visualists
 visualities
 visualizations
