@@ -935,6 +935,7 @@ aerobioses
 aerobiosis
 aerobraked
 aerobrakes
+aerodrome
 aerodromes
 aeroduct
 aeroducts
@@ -2446,6 +2447,7 @@ andouillette
 androecia
 androgen
 androgeneses
+androgenesis
 androgenic
 androgynies
 androgynous
@@ -3498,6 +3500,7 @@ appressoria
 appressorium
 apprise
 appriser
+apprises
 apprising
 apprizers
 approachable
@@ -5209,6 +5212,7 @@ bacon
 bacons
 bacteremic
 bacteria
+bacterin
 bacteriocins
 bacteriologist
 bacteriolyses
@@ -5383,6 +5387,7 @@ balloted
 ballpark
 ballparks
 ballplayer
+ballpoint
 balls
 ballsiest
 ballsy
@@ -5790,6 +5795,7 @@ bassos
 bassy
 bast
 bastardies
+bastardise
 bastardises
 bastardizations
 bastardize
@@ -7531,6 +7537,7 @@ bleared
 bleareyed
 blearier
 blearily
+blears
 bleat
 bleated
 bleats
@@ -9958,6 +9965,7 @@ calcitonin
 calcspar
 calcspars
 calctufa
+calctufas
 calctuffs
 calculable
 calculate
@@ -11473,6 +11481,7 @@ ceremonialists
 ceremonially
 ceremonies
 ceremoniousness
+cereus
 ceric
 ceriphs
 cerises
@@ -15108,6 +15117,7 @@ consternates
 consternating
 consternation
 consternations
+constipate
 constipated
 constipates
 constipating
@@ -17110,6 +17120,7 @@ cubage
 cubanelle
 cubanelles
 cubature
+cubatures
 cubbies
 cubbish
 cubbyhole
@@ -17992,6 +18003,7 @@ dareful
 darers
 daric
 daringnesses
+darings
 darioles
 dark
 darked
@@ -18802,6 +18814,7 @@ degendered
 degendering
 degeneracies
 degenerate
+degenerateness
 degenerating
 degenerative
 degerm
@@ -26210,6 +26223,7 @@ exultingly
 exurb
 exurbanite
 exurbanites
+exurbs
 exuviated
 exuviates
 exuvium
@@ -26869,6 +26883,7 @@ feint
 feinted
 feirie
 feist
+feistiest
 feistily
 feisty
 felafel
@@ -28657,6 +28672,7 @@ forestial
 foresting
 forestland
 forestlands
+forestries
 forestry
 forests
 foreswear
@@ -32019,6 +32035,7 @@ griskins
 grislier
 grisliest
 grisly
+grison
 grist
 grister
 gristers
@@ -32940,6 +32957,7 @@ handspike
 handsprings
 handstand
 handstands
+handworker
 handworks
 handwoven
 handwringer
@@ -35354,6 +35372,7 @@ hydromedusa
 hydromel
 hydromels
 hydrometeor
+hydrometeors
 hydrometer
 hydrometric
 hydromorphic
@@ -48208,6 +48227,7 @@ navel
 navels
 navelworts
 navicert
+naviculars
 navigation
 navigational
 navigations
@@ -48772,6 +48792,7 @@ nightgown
 nightgowns
 nightless
 nightlifes
+nightlives
 nightlong
 nightmarish
 nightmarishly
@@ -55625,6 +55646,7 @@ photosetting
 photospheres
 photospheric
 photostat
+photostated
 photosynthate
 photosynthesis
 photosynthetic
@@ -55884,6 +55906,7 @@ pie
 piece
 pieced
 pieces
+piecework
 piecrusts
 piedmont
 piedmonts
@@ -56643,6 +56666,7 @@ plicated
 plicately
 plications
 plicatures
+plied
 plier
 plies
 plighted
@@ -57469,6 +57493,7 @@ postcollegiate
 postconception
 postconquest
 postconsonantal
+postcopulatory
 postcoronary
 postcoup
 postcrash
@@ -61239,6 +61264,7 @@ rattons
 rattoon
 rattooned
 rattrap
+rattraps
 ratty
 raucity
 raucously
@@ -62368,6 +62394,7 @@ refastens
 refect
 refections
 refects
+refeeding
 refeeds
 refeeling
 refences
@@ -65209,6 +65236,7 @@ rootstocks
 rootworm
 rooty
 rope
+roped
 ropedancer
 ropedancers
 ropedancing
@@ -66182,6 +66210,7 @@ sanitizing
 sanitoria
 sanity
 sanjak
+sanjaks
 sannop
 sannups
 sannyasi
@@ -68911,6 +68940,7 @@ shvartze
 shvartzes
 shwanpans
 shwas
+shyers
 shylock
 shylocked
 shylocking
@@ -72094,6 +72124,7 @@ stalags
 stale
 stalemate
 stalemated
+staler
 stalest
 stalker
 stalkers
@@ -72578,6 +72609,7 @@ stilbenes
 stilbestrols
 stilbite
 stile
+stiles
 stiletto
 stilettoes
 stillbirth
@@ -73246,6 +73278,7 @@ stutters
 styed
 styes
 stylar
+stylate
 stylebook
 styled
 styleless
@@ -77242,6 +77275,7 @@ timeworn
 timidities
 timidnesses
 timing
+timocracies
 timocracy
 timorously
 timpani
@@ -83676,6 +83710,7 @@ wallow
 wallowed
 wallowers
 wallpaper
+wallpapering
 wallpapers
 wallyballs
 wallydrags
