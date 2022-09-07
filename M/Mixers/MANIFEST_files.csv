@@ -1,0 +1,5 @@
+kinetic-dvd-amd64.manifest - Ubuntu CDimage,https://cdimage.ubuntu.com/ubuntustudio/dvd/current/kinetic-dvd-amd64.manifest
+ubuntustudio-16.04.5-dvd-i386.manifest - Ubuntu CDimage,http://cdimage.ubuntu.com/ubuntustudio/releases/16.04/release/ubuntustudio-16.04.5-dvd-i386.manifest
+AGL/agl-demo-platform-crosssdk-raspberrypi3-20180726064603 ...,https://github.com/chorusmobility/AGL/blob/master/agl-demo-platform-crosssdk-raspberrypi3-20180726064603.rootfs.manifest
+Packages.manifest - OpenWrt Downloads,https://downloads.openwrt.org/releases/19.07.5/packages/arm_cortex-a9_vfpv3-d16/telephony/Packages.manifest
+ftp.uni-kl.de/pub/linux/ubuntu-dvd/ubuntustudio/dv...,http://ftp.uni-kl.de/pub/linux/ubuntu-dvd/ubuntustudio/dvd/pending/kinetic-dvd-amd64.manifest
