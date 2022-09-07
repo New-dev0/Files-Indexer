@@ -3616,6 +3616,7 @@ aragonitic
 araks
 arame
 arames
+araneidan
 arapaimas
 araroba
 ararobas
@@ -4197,6 +4198,7 @@ asserter
 asserting
 assertion
 assertions
+assertive
 assertiveness
 assertivenesses
 assertor
@@ -11636,6 +11638,7 @@ chai
 chained
 chaining
 chainmen
+chainsawed
 chainsaws
 chaired
 chairing
@@ -15075,6 +15078,7 @@ connoted
 connotes
 connoting
 conns
+connubialism
 connubialisms
 connubiality
 connubially
@@ -21212,6 +21216,7 @@ disown
 disowned
 disownment
 disownments
+disparage
 disparaged
 disparagements
 disparaging
@@ -21613,6 +21618,7 @@ divinize
 divinized
 divisibility
 division
+divisional
 divisionism
 divisionisms
 divisionists
@@ -23626,6 +23632,7 @@ eluviates
 eluviating
 eluviation
 elver
+elvers
 elvishly
 elytrum
 em
@@ -26554,6 +26561,7 @@ fairnesses
 fairway
 fairy
 fairyhood
+fairyisms
 fairylands
 fairylike
 faithfulness
@@ -29969,6 +29977,7 @@ galipot
 galipots
 galivant
 galivanted
+galivanting
 galivants
 gall
 gallant
@@ -37330,6 +37339,7 @@ inertnesses
 inerts
 inescapable
 inescapably
+inestimably
 inevitabilities
 inevitability
 inevitable
@@ -45113,6 +45123,7 @@ mesophyllic
 mesoscale
 mesosome
 mesosomes
+mesotheliomata
 mesothoracic
 mesothoraxes
 mesotron
@@ -45696,6 +45707,7 @@ militarize
 militarized
 military
 militiaman
+militiamen
 milk
 milkfish
 milkily
@@ -49006,6 +49018,7 @@ nieves
 niffer
 niffered
 niffering
+nifties
 niftiest
 niftily
 niggard
@@ -49605,6 +49618,7 @@ nonincumbents
 noninductive
 nonindustry
 noninfective
+noninflammable
 noninflationary
 noninfluences
 noninformation
@@ -50227,6 +50241,7 @@ numeracy
 numeral
 numerals
 numerary
+numerate
 numerated
 numerating
 numerators
@@ -50676,6 +50691,7 @@ oculomotor
 oculus
 oda
 odahs
+odalisque
 odalisques
 oddball
 odder
@@ -51689,6 +51705,7 @@ outbragged
 outbrags
 outbrave
 outbrawl
+outbrawls
 outbrazened
 outbrazening
 outbreaks
@@ -56363,6 +56380,7 @@ pinkening
 pinkings
 pinkishness
 pinkishnesses
+pinkness
 pinknesses
 pinko
 pinkoes
@@ -59031,6 +59049,7 @@ prickings
 prickle
 prickliness
 pricklinesses
+prickling
 prickly
 pricks
 pricky
@@ -59652,6 +59671,7 @@ prosecutor
 prosecutors
 proselyte
 proselytes
+proselyting
 proselytise
 proselytises
 proselytising
@@ -61196,6 +61216,7 @@ radiums
 radome
 radomes
 radon
+radons
 radula
 radular
 raffia
@@ -63610,6 +63631,7 @@ renunciations
 renunciative
 renunciatory
 renvoi
+renvois
 reobject
 reobjected
 reobserve
@@ -63901,6 +63923,7 @@ reptilia
 reptilian
 reptilium
 republican
+republicanisms
 republicanize
 republicanized
 republicanizes
@@ -63983,6 +64006,7 @@ reregulations
 rerelease
 rereleasing
 reremice
+rereminded
 rerent
 rerenting
 rerepeat
@@ -66633,6 +66657,7 @@ sarcocarps
 sarcoids
 sarcolemma
 sarcology
+sarcomata
 sarcomatosis
 sarcomatous
 sarcomere
@@ -67273,6 +67298,7 @@ scootches
 scootching
 scooted
 scooters
+scoped
 scoping
 scopolamine
 scopulate
@@ -67862,6 +67888,7 @@ seines
 seining
 seise
 seised
+seiser
 seisers
 seises
 seisin
@@ -69769,6 +69796,7 @@ situation
 situational
 situp
 situses
+sitzmark
 six
 sixfold
 sixpence
@@ -71941,6 +71969,7 @@ splashing
 splashy
 splat
 splatted
+splattered
 splattering
 splatters
 splayed
@@ -72320,6 +72349,7 @@ squeegees
 squeezabilities
 squeezability
 squeezable
+squeezed
 squeezers
 squeezes
 squeezing
@@ -73167,6 +73197,7 @@ stonish
 stony
 stonyhearted
 stood
+stooges
 stooging
 stook
 stooker
@@ -78555,6 +78586,7 @@ transaxle
 transaxles
 transcend
 transcended
+transcendent
 transcendently
 transcending
 transcends
@@ -84278,6 +84310,7 @@ wartiest
 wartime
 wartless
 wartlike
+warty
 warwork
 warworks
 warworn
@@ -85531,6 +85564,7 @@ woodsier
 woodsman
 woodstoves
 woodtones
+woodwax
 woodwaxen
 woodworkers
 woodworm
@@ -85717,6 +85751,7 @@ wrathier
 wrathiest
 wrathily
 wrathy
+wreaked
 wreaker
 wreakers
 wreaking
