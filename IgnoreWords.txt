@@ -4564,6 +4564,7 @@ attractance
 attractancy
 attractants
 attracter
+attraction
 attractions
 attractive
 attractors
@@ -9171,6 +9172,7 @@ brushers
 brushfires
 brushier
 brushiest
+brushlands
 brushoff
 brushwood
 brushwoods
@@ -10081,6 +10083,7 @@ calesas
 calescent
 calflike
 calfs
+calibers
 calibration
 calibrations
 calibrator
@@ -19554,6 +19557,7 @@ depresses
 depressive
 depressively
 depressives
+depressor
 depressors
 depressurized
 depressurizes
@@ -22799,6 +22803,7 @@ duolog
 duologue
 duomo
 duomos
+duopolies
 duopsonies
 dup
 dupe
@@ -26090,6 +26095,7 @@ expatriatism
 expatriatisms
 expectably
 expectative
+expectedly
 expectedness
 expecters
 expecting
@@ -27502,6 +27508,7 @@ figworts
 fil
 fila
 filagree
+filagreeing
 filagrees
 filamentary
 filamentous
@@ -28402,6 +28409,7 @@ fluorescent
 fluorescer
 fluoresces
 fluoric
+fluoridate
 fluoridation
 fluoridations
 fluorimeter
@@ -28885,6 +28893,7 @@ forestry
 forests
 foreswear
 foreswearing
+foreswore
 foresworn
 foretaste
 foretasted
@@ -31781,6 +31790,7 @@ government
 governmentalize
 governmentally
 governmentese
+governmenteses
 governors
 governorships
 gowaned
@@ -34064,6 +34074,7 @@ hepatotoxicity
 hepcats
 heptachlor
 heptagon
+heptagonal
 heptagons
 heptameters
 heptane
@@ -35214,6 +35225,7 @@ hotels
 hotfooted
 hotheaded
 hotheadedly
+hotheadednesses
 hothouse
 hothoused
 hothousing
@@ -36031,6 +36043,7 @@ iconographers
 iconographies
 iconography
 iconolatries
+iconological
 iconology
 iconoscopes
 iconostasis
@@ -36635,6 +36648,7 @@ implications
 implicative
 implicatively
 implicitly
+implicitness
 implode
 imploded
 implodes
@@ -38990,6 +39004,7 @@ irreproachable
 irresistibility
 irresolutely
 irresoluteness
+irresolutions
 irresolvable
 irresponsible
 irresponsibles
@@ -40145,6 +40160,7 @@ keelhaul
 keelhauling
 keeling
 keelless
+keelson
 keen
 keened
 keener
@@ -43965,6 +43981,7 @@ manfulness
 manfulnesses
 mangabeys
 mangaby
+manganate
 manganese
 manganeses
 manganites
@@ -47409,6 +47426,7 @@ morris
 morro
 morrows
 morse
+morsel
 morselled
 morselling
 mortalities
@@ -51810,6 +51828,7 @@ outboast
 outboasted
 outboasting
 outboasts
+outboxed
 outbragged
 outbrags
 outbrave
@@ -52518,6 +52537,7 @@ overbite
 overbleach
 overbleaches
 overbleaching
+overblouse
 overblowing
 overboard
 overboil
@@ -55056,6 +55076,7 @@ pentangle
 pentangles
 pentanol
 pentaploids
+pentaploidy
 pentarchies
 pentathlete
 pentathlon
@@ -57314,6 +57335,7 @@ poind
 poinded
 poinding
 poinsettia
+pointed
 pointedness
 pointier
 pointiest
@@ -57457,6 +57479,7 @@ polluted
 polluters
 pollutes
 pollution
+pollutions
 polo
 poloists
 polonaise
@@ -57515,6 +57538,7 @@ polygamy
 polygene
 polygenes
 polygeneses
+polygenesis
 polyglot
 polyglotism
 polyglots
@@ -58781,6 +58805,7 @@ prepackage
 prepackaged
 prepackages
 preparations
+preparative
 preparatively
 preparatives
 preparator
@@ -60081,6 +60106,7 @@ pseudonymity
 pseudopod
 pseudopodia
 pseudopods
+pseudopregnancy
 pseudopregnant
 pseudorandom
 pseudoscorpion
@@ -64246,6 +64272,7 @@ resetters
 resetting
 resettle
 resettlement
+resettlements
 resettling
 resewn
 resews
@@ -64799,6 +64826,7 @@ returning
 returns
 retuse
 retwist
+retwisting
 retyped
 retypes
 retyping
@@ -74120,6 +74148,7 @@ subleased
 sublessee
 sublessor
 sublessors
+sublethal
 sublethally
 sublets
 sublevel
@@ -74607,6 +74636,7 @@ sulfadiazine
 sulfas
 sulfatase
 sulfatases
+sulfated
 sulfation
 sulfations
 sulfhydryls
@@ -75487,6 +75517,7 @@ swingeing
 swinger
 swingers
 swinges
+swingier
 swingingly
 swingings
 swingles
@@ -76931,6 +76962,7 @@ terephthalate
 terete
 terga
 tergiversates
+tergiversations
 tergiversator
 teriyaki
 teriyakis
@@ -79250,6 +79282,7 @@ triers
 tries
 trifacial
 trifacials
+trifectas
 trifled
 triflers
 trifles
@@ -79413,6 +79446,7 @@ trisomic
 trisomies
 trisomy
 tristate
+triste
 tristezas
 tristful
 tristfully
@@ -81420,6 +81454,7 @@ unhelms
 unhelped
 unheralded
 unheroic
+unhesitating
 unhesitatingly
 unhewn
 unhinged
