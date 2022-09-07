@@ -913,6 +913,7 @@ aeonic
 aepyornises
 aequorin
 aequorins
+aerates
 aerating
 aeration
 aerations
@@ -2053,6 +2054,7 @@ amendment
 amenorrhea
 amenorrheic
 amens
+ament
 amentia
 aments
 amerce
@@ -2120,6 +2122,7 @@ ammoniating
 ammoniation
 ammonification
 ammonifying
+ammonite
 ammonites
 ammoniums
 ammonoid
@@ -5671,6 +5674,7 @@ barosaurs
 baroscopes
 barquentine
 barquentines
+barrable
 barracker
 barracking
 barracks
@@ -6668,6 +6672,7 @@ besnows
 besom
 besoothe
 besoothed
+besoothes
 besoothing
 besot
 besotted
@@ -10119,6 +10124,7 @@ calvarias
 calvary
 calve
 calves
+calvities
 calx
 calycle
 calyculi
@@ -19474,6 +19480,7 @@ deputizations
 deputize
 deputized
 deputizes
+deracinate
 deracinated
 deraigned
 deraigning
@@ -22720,6 +22727,7 @@ dustbin
 dustcover
 dusted
 duster
+dusters
 dustheaps
 dustier
 dustily
@@ -23536,6 +23544,7 @@ elucubrations
 eluded
 eludes
 eluding
+elusion
 elusions
 elusory
 elute
@@ -23979,6 +23988,7 @@ encrimsons
 encrinite
 encroached
 encroacher
+encroachers
 encroaching
 encroachment
 encrustation
@@ -27433,6 +27443,7 @@ filmstrip
 filmy
 filo
 filoplumes
+filos
 filovirus
 filter
 filterabilities
@@ -29098,6 +29109,7 @@ fraternizer
 fraternizers
 fraternizing
 fraters
+fratricide
 frauds
 fraudulence
 fraudulences
@@ -30123,6 +30135,7 @@ garnets
 garnished
 garnisheed
 garnisheeing
+garnishees
 garnishing
 garnishments
 garote
@@ -31846,6 +31859,7 @@ gratuity
 gratulatory
 graupel
 gravamens
+gravamina
 graveless
 gravelike
 graveling
@@ -32014,6 +32028,7 @@ gridders
 griddle
 griddled
 griddling
+gride
 griding
 gridiron
 gridironing
@@ -32227,6 +32242,7 @@ growlinesses
 growling
 growlingly
 grown
+grows
 growth
 growthiest
 growthiness
@@ -39016,6 +39032,7 @@ jabbers
 jabberwocky
 jabbing
 jabirus
+jaborandi
 jabot
 jaboticabas
 jabots
@@ -40622,6 +40639,7 @@ kyrie
 kyries
 kyte
 kythe
+kythed
 kythes
 laagered
 laagering
@@ -42531,6 +42549,7 @@ locule
 loculed
 locules
 loculicidal
+locum
 locums
 locust
 locustae
@@ -42821,6 +42840,7 @@ lout
 louted
 louting
 loutish
+loutishness
 loutishnesses
 louvre
 louvres
@@ -49947,6 +49967,7 @@ novemdecillion
 novenae
 novercal
 novitiates
+novobiocins
 novocaine
 now
 nowheres
@@ -50955,6 +50976,7 @@ ophite
 ophites
 ophiuroid
 ophiuroids
+ophthalmic
 ophthalmology
 ophthalmoscopic
 opiate
@@ -52147,6 +52169,7 @@ ouzos
 ova
 oval
 ovalbumins
+ovalities
 ovality
 ovalness
 ovals
@@ -55738,6 +55761,7 @@ photosensitized
 photosensitizes
 photoset
 photosets
+photosetter
 photosetting
 photospheres
 photospheric
@@ -57972,6 +57996,7 @@ preadapt
 preadaptation
 preadaptations
 preadaptive
+preadjusting
 preadmit
 preadmitted
 preadmitting
@@ -59444,6 +59469,7 @@ prosaism
 prosaisms
 prosaist
 prosateur
+prosateurs
 prosauropods
 prosciutto
 prosciuttos
@@ -62198,6 +62224,7 @@ redefinition
 redelivered
 redeliveries
 redelivering
+redelivery
 redemanding
 redemands
 redemption
@@ -65865,6 +65892,7 @@ sabot
 sabotage
 saboteur
 saboteurs
+sabra
 sabras
 sabred
 sabres
@@ -66398,6 +66426,7 @@ saprophyte
 saprophytic
 saprophytically
 sapsago
+sapsucker
 sapwood
 saraband
 sarabande
@@ -67021,6 +67050,7 @@ sclerosed
 sclerotial
 sclerotic
 sclerotin
+sclerous
 scoffed
 scoffing
 scofflaws
@@ -70193,6 +70223,7 @@ smallholding
 smallish
 smallmouth
 smallnesses
+smalls
 smallswords
 smaltines
 smalts
@@ -75115,6 +75146,7 @@ swordfishes
 swordlike
 swordmen
 swordplayer
+swordsmanship
 swordtails
 swore
 sworn
@@ -76428,6 +76460,7 @@ tentoria
 tentorial
 tentorium
 tents
+tenty
 tenues
 tenuis
 tenuity
@@ -78938,6 +78971,7 @@ trisaccharides
 trisected
 trisection
 trisector
+triseme
 trisemic
 trishaw
 triskele
@@ -81482,6 +81516,7 @@ unrobe
 unrobed
 unroll
 unrolled
+unromantically
 unroofs
 unrooted
 unroots
