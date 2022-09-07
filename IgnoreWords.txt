@@ -819,6 +819,7 @@ adrenochrome
 adroitest
 adroitly
 adroitnesses
+adscript
 adsorbate
 adsorbates
 adsorbent
@@ -3249,6 +3250,7 @@ aperture
 apertures
 apetalies
 apetalous
+apetaly
 apex
 aphaereses
 aphaeretic
@@ -4189,6 +4191,7 @@ assertions
 assertiveness
 assertivenesses
 assertor
+assertors
 asserts
 assess
 assessed
@@ -5067,6 +5070,7 @@ babiche
 babiches
 babiest
 babirussas
+babka
 babkas
 babools
 baboon
@@ -7645,6 +7649,7 @@ bloated
 bloater
 bloats
 blob
+blockading
 blockages
 blockers
 blockheads
@@ -9397,6 +9402,7 @@ bunchily
 bunching
 buncoing
 buncos
+bund
 bundled
 bundlers
 bundling
@@ -10591,6 +10597,7 @@ carbamides
 carbamino
 carbamoyls
 carbarns
+carbaryls
 carbides
 carbineers
 carbines
@@ -14336,6 +14343,7 @@ commode
 commodified
 commodify
 commodifying
+commodious
 commodiously
 commodities
 commodity
@@ -17815,6 +17823,7 @@ cytostatically
 cytostatics
 cytotaxonomic
 cytotaxonomy
+cytotechnology
 cytotoxicities
 cytotoxins
 czardas
@@ -19845,6 +19854,7 @@ detoxifications
 detoxified
 detoxifies
 detoxify
+detoxing
 detract
 detraction
 detractively
@@ -20161,6 +20171,7 @@ diatomite
 diatoms
 diatribe
 diatribes
+diatropic
 diazepams
 diazinon
 diazinons
@@ -22348,6 +22359,7 @@ driftiest
 driftingly
 drill
 drillable
+driller
 drilling
 drillings
 drillmaster
@@ -29489,6 +29501,7 @@ fucoses
 fucoxanthin
 fucoxanthins
 fucus
+fuddle
 fuddled
 fuddles
 fudged
@@ -29980,6 +29993,7 @@ gam
 gamb
 gamba
 gambado
+gambados
 gambas
 gambesons
 gambias
@@ -30535,6 +30549,7 @@ genua
 genuflect
 genuflections
 genuflects
+genuineness
 genuinenesses
 genus
 genuses
@@ -33648,6 +33663,7 @@ heelings
 heelless
 heelpiece
 heelpieces
+heelplates
 heelpost
 heeltap
 hefter
@@ -35530,6 +35546,7 @@ hygrometer
 hygrometers
 hygrometric
 hygroscopicity
+hyla
 hylozoic
 hylozoism
 hylozoisms
@@ -35935,6 +35952,7 @@ idiotypes
 idiotypic
 idle
 idleness
+idlenesses
 idler
 idling
 idly
@@ -36596,6 +36614,7 @@ impudency
 impudently
 impugn
 impugned
+impugners
 impugning
 impugns
 impuissant
@@ -37645,6 +37664,7 @@ inoculant
 inoculate
 inoculating
 inoculation
+inoculations
 inoculum
 inodorous
 inoperable
@@ -46788,6 +46808,7 @@ mongoloid
 mongoloids
 mongols
 mongoose
+mongos
 mongrel
 mongrelize
 mongrelizes
@@ -48432,6 +48453,7 @@ necrosing
 necrosis
 necrotizes
 necrotizing
+nectar
 nectarean
 nectarine
 nectarines
@@ -55219,6 +55241,7 @@ personification
 personifier
 personifies
 personifying
+perspectival
 perspicacious
 perspicuity
 perspicuousness
@@ -59495,6 +59518,7 @@ prosauropods
 prosciutto
 prosciuttos
 proscribe
+proscribed
 proscribes
 proscribing
 proscription
@@ -62541,6 +62565,7 @@ reexplained
 reexplaining
 reexplains
 reexplore
+reexploring
 reexport
 reexportation
 reexported
@@ -62606,6 +62631,7 @@ refitting
 refixed
 reflag
 reflagged
+reflagging
 reflated
 reflates
 reflating
@@ -63334,6 +63360,7 @@ remix
 remixture
 remobilizations
 remobilizes
+remobilizing
 remodeler
 remodelers
 remodeling
@@ -66232,6 +66259,7 @@ salvages
 salvaging
 salvation
 salvational
+salvations
 salve
 salved
 salverform
@@ -66251,6 +66279,7 @@ samba
 sambaed
 sambaing
 sambal
+sambar
 sambhur
 sambhurs
 sambo
@@ -67615,6 +67644,7 @@ sedulousnesses
 sedums
 see
 seeable
+seecatchie
 seed
 seedbed
 seedbeds
@@ -71291,9 +71321,11 @@ spalling
 spambot
 spammed
 spammers
+spamming
 span
 spanakopita
 spancel
+spanceled
 spanceling
 spancelled
 spancelling
@@ -74861,6 +74893,7 @@ surrejoinder
 surrendered
 surreptitious
 surrey
+surrogacy
 surrogate
 surrogated
 surrogating
@@ -78856,6 +78889,7 @@ trierarchy
 triers
 tries
 trifacial
+trifacials
 trifled
 triflers
 trifles
@@ -79139,6 +79173,7 @@ trophy
 tropic
 tropical
 tropicalize
+tropicalizes
 tropicals
 tropics
 tropine
