@@ -3383,6 +3383,7 @@ apostatizing
 apostils
 apostle
 apostleship
+apostleships
 apostolate
 apostolic
 apostolicities
@@ -4733,6 +4734,7 @@ autocades
 autocatalyses
 autocatalytic
 autocephalies
+autochthones
 autochthonous
 autochthonously
 autocoid
@@ -7711,6 +7713,7 @@ bloodstream
 bloodstreams
 bloodsucker
 bloodthirstily
+bloodwort
 bloodworts
 bloody
 blooie
@@ -19013,6 +19016,7 @@ delegated
 delegatees
 delegates
 delegating
+delegation
 delegations
 delegators
 deleing
@@ -19166,6 +19170,7 @@ demit
 demitasse
 demitasses
 demits
+demitted
 demiurgic
 demiurgical
 demivoltes
@@ -22575,6 +22580,7 @@ dubitably
 dubitation
 dubnium
 dubonnets
+ducally
 ducats
 duchesses
 duchies
@@ -26448,6 +26454,7 @@ factored
 factorials
 factories
 factorization
+factorizations
 factorize
 factors
 factorship
@@ -27823,6 +27830,7 @@ flagons
 flagpole
 flagrance
 flagrancy
+flagrant
 flagrantly
 flagship
 flagships
@@ -28851,6 +28859,7 @@ forgoers
 forgoes
 forgoing
 forint
+fork
 forkball
 forkballs
 forked
@@ -29308,6 +29317,7 @@ fribble
 fribbler
 fribbles
 fribbling
+fricandeaus
 fricassee
 fricasseed
 fricasseeing
@@ -31150,6 +31160,7 @@ glisten
 glistening
 glistens
 glister
+glistered
 glistering
 glitchier
 glitchy
@@ -37845,6 +37856,7 @@ insolates
 insolating
 insolences
 insolently
+insolents
 insoles
 insolubilities
 insolubility
@@ -38205,6 +38217,7 @@ interlock
 interlocked
 interlocking
 interlocutor
+interlocutors
 interlooping
 interloops
 interlope
@@ -42550,6 +42563,7 @@ lobby
 lobbyism
 lobbyists
 lobe
+lobectomies
 lobed
 lobefins
 lobelias
@@ -45920,6 +45934,7 @@ minx
 minyan
 minyanim
 mioses
+miosis
 miquelet
 mir
 miracidia
@@ -48049,6 +48064,7 @@ mydriases
 mydriatic
 myelin
 myeline
+myelitides
 myelofibroses
 myelofibrosis
 myelogenous
@@ -48395,6 +48411,7 @@ naturalized
 naturally
 natured
 natures
+naturist
 naturopath
 naturopathic
 naturopathies
@@ -50216,6 +50233,7 @@ nunnery
 nunnish
 nuptialities
 nuptials
+nurd
 nurds
 nurled
 nurling
@@ -51983,6 +52001,7 @@ outpresses
 outprice
 outprices
 outproduce
+outproduces
 outproducing
 outpromise
 outpromised
@@ -55425,6 +55444,7 @@ petrale
 petrales
 petrels
 petrifaction
+petrifications
 petrifier
 petrifiers
 petrifying
@@ -58459,6 +58479,7 @@ prehistorian
 prehistorically
 prehistories
 preholiday
+prehominids
 preignition
 preimplantation
 preimposed
@@ -58827,6 +58848,7 @@ prestore
 prestored
 prestress
 prestressed
+prestresses
 prestressing
 prestrike
 prestructured
@@ -59480,6 +59502,7 @@ propagandize
 propagandizer
 propagandizes
 propagations
+propagative
 propagator
 propagators
 propanes
@@ -60728,6 +60751,7 @@ quarto
 quarts
 quartz
 quartzes
+quartzites
 quartzous
 quasars
 quash
@@ -62274,6 +62298,7 @@ rectors
 rectorships
 rectory
 rectrix
+rectums
 recultivated
 recumbencies
 recumbent
@@ -62324,6 +62349,7 @@ redden
 reddishness
 reddles
 rede
+redear
 redecide
 redecorate
 redecorating
@@ -67100,6 +67126,7 @@ schoolings
 schoolkids
 schoolman
 schoolmaster
+schoolmasterish
 schoolmasters
 schoolroom
 schoolteacher
@@ -68153,6 +68180,7 @@ separating
 separationists
 separations
 separatist
+separatistic
 separative
 separator
 sepic
@@ -68626,6 +68654,7 @@ sharkskin
 sharkskins
 sharn
 sharns
+sharny
 sharpener
 sharpening
 sharpens
@@ -68983,7 +69012,9 @@ shoddier
 shoddies
 shoddiest
 shoddily
+shoddiness
 shoe
+shoebill
 shoeblacks
 shoebox
 shoehorning
@@ -71309,6 +71340,7 @@ sourer
 sourest
 sourly
 sournesses
+sourpuss
 sourpusses
 sourwood
 sourwoods
@@ -74280,6 +74312,7 @@ suer
 suers
 sues
 suets
+suety
 suffer
 sufferable
 sufferableness
@@ -76866,6 +76899,7 @@ tets
 teutonize
 tevatrons
 tewed
+tewing
 textbooks
 textile
 textiles
@@ -81495,6 +81529,7 @@ unpack
 unpackers
 unpaid
 unpainful
+unpainted
 unpaired
 unpalatability
 unpalatable
