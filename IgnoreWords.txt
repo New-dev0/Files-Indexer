@@ -117,6 +117,7 @@ abstractnesses
 abstractor
 abstractors
 abstricting
+abstricts
 abstrusely
 abstruseness
 abstruser
@@ -972,6 +973,7 @@ aerophytes
 aeroplane
 aerosats
 aerosolizations
+aerosolize
 aerosolizing
 aerospaces
 aerostatics
@@ -1164,6 +1166,7 @@ agendas
 agendums
 agenesis
 agenetic
+agenize
 agenizing
 agent
 agential
@@ -1443,6 +1446,7 @@ alackaday
 alacrities
 alacritous
 alacrity
+alamedas
 alamo
 alamode
 alamodes
@@ -5101,6 +5105,7 @@ backbencher
 backbenchers
 backbenches
 backbite
+backbiter
 backbites
 backbitings
 backbone
@@ -5304,6 +5309,7 @@ baited
 baiter
 baitfishes
 baiza
+baizes
 bakeapple
 baked
 bakelite
@@ -7145,6 +7151,7 @@ biometricians
 biometrics
 biomolecules
 biomorphic
+biomorphs
 bionomy
 bionts
 biophilia
@@ -8290,6 +8297,7 @@ bossism
 bossisms
 bossy
 boston
+bosun
 bot
 botanic
 botanica
@@ -8956,6 +8964,7 @@ broguish
 broider
 broidered
 broideries
+broidering
 broiler
 broilers
 broiling
@@ -10893,6 +10902,7 @@ caseinate
 caseloads
 casemate
 casemates
+caseose
 casernes
 caserns
 cases
@@ -12730,6 +12740,7 @@ cipollino
 cipollinos
 circa
 circadian
+circinate
 circle
 circled
 circlets
@@ -13164,6 +13175,7 @@ clinches
 clinching
 clingers
 clingfishes
+clinging
 clingstone
 clingy
 clinical
@@ -13925,6 +13937,7 @@ coleopterists
 coleoptile
 coleoptiles
 coleorhiza
+coleorhizae
 coles
 colessor
 coleus
@@ -15036,6 +15049,7 @@ consciouses
 consciously
 consciousness
 consciousnesses
+conscribing
 conscripted
 conscriptions
 consecrates
@@ -28027,6 +28041,7 @@ flinty
 flip
 flipbooks
 flipflop
+flipflopped
 flipflops
 flippancies
 flippant
@@ -28311,6 +28326,7 @@ flyboys
 flybridge
 flyby
 flybys
+flyings
 flyleaf
 flyless
 flymen
@@ -28538,6 +28554,7 @@ footstalks
 footstall
 footstalls
 footstep
+footstocks
 footstones
 footstools
 footsy
@@ -29263,6 +29280,7 @@ frilled
 friller
 frillers
 frillier
+frilliest
 fringing
 frisbee
 frisbees
@@ -33031,6 +33049,7 @@ hanking
 hanks
 hanky
 hansa
+hansas
 hanseatic
 hansel
 hanselled
@@ -38806,6 +38825,7 @@ isled
 isleless
 isling
 isms
+isoagglutinin
 isoalloxazines
 isoantibody
 isoantigen
@@ -44310,6 +44330,7 @@ mawn
 maxes
 maxi
 maxicoat
+maxilla
 maxillaries
 maxillary
 maxilliped
@@ -48225,6 +48246,7 @@ nationality
 nationalize
 nationalizer
 nationalizers
+nationalizing
 nationally
 nationals
 nationhood
@@ -52255,6 +52277,7 @@ overclassified
 overclassifying
 overcleaned
 overcleaning
+overcleans
 overclear
 overclearing
 overclears
@@ -54731,6 +54754,7 @@ pentaploids
 pentarchies
 pentathlete
 pentathlon
+pentathlons
 pentatonic
 penthouse
 penthouses
@@ -55297,6 +55321,7 @@ pettedly
 petters
 pettiest
 pettifogged
+pettifoggeries
 pettifogging
 pettifoggings
 pettinesses
@@ -56318,6 +56343,7 @@ pistoling
 pistolled
 pistolling
 pistols
+piston
 pistons
 pistou
 pita
@@ -58624,6 +58650,7 @@ presort
 presorted
 presorting
 presorts
+prespecifying
 presplit
 press
 pressboard
@@ -60830,6 +60857,7 @@ racecourse
 racehorse
 racehorses
 racemes
+racemization
 racemizations
 racemized
 racemizing
@@ -68015,6 +68043,7 @@ sequestrating
 sequin
 sequins
 sequitur
+sequoias
 ser
 sera
 seraglios
@@ -71193,6 +71222,7 @@ spaghettis
 spagyrics
 spahi
 spahis
+spake
 spaldeen
 spall
 spallable
@@ -73405,6 +73435,7 @@ stylus
 styluses
 stymie
 stymy
+stypsis
 stypsises
 styptics
 styrene
@@ -75042,6 +75073,7 @@ swishingly
 swiss
 switchbacks
 switchboards
+switcher
 switcheroo
 switcheroos
 switches
@@ -76843,6 +76875,7 @@ thermoremanence
 thermoscopes
 thermoses
 thermoset
+thermosphere
 thermostat
 thermostating
 thermostats
@@ -79003,6 +79036,7 @@ trolled
 trollers
 trolley
 trolleybuses
+trolleyed
 trolleying
 trollings
 trollops
@@ -81633,6 +81667,7 @@ unstinting
 unstintingly
 unstitch
 unstitched
+unstitching
 unstoppable
 unstoppably
 unstopped
