@@ -626,6 +626,7 @@ addax
 addaxes
 addends
 addendums
+adder
 addicting
 adding
 additionally
@@ -5517,6 +5518,7 @@ bannet
 bannets
 banning
 bannister
+bannisters
 bannock
 bannocks
 banns
@@ -6870,6 +6872,7 @@ biconditionals
 biconvex
 bicorne
 bicornes
+bicron
 bicrons
 biculturalisms
 bicuspid
@@ -8462,6 +8465,7 @@ boxball
 boxballs
 boxberries
 boxberry
+boxboards
 boxcar
 boxers
 boxfish
@@ -8865,6 +8869,7 @@ brimstony
 brindled
 brine
 brineless
+briner
 bringer
 bringers
 brings
@@ -10370,6 +10375,7 @@ cantilena
 cantilenas
 cantilever
 cantilevered
+cantilevering
 cantilevers
 cantillating
 cantillations
@@ -11217,6 +11223,7 @@ cavendishes
 caver
 cavern
 caverns
+caviar
 caviares
 cavicorn
 cavie
@@ -16931,6 +16938,7 @@ crotchetiness
 crotchety
 croton
 crouch
+crouched
 crouching
 croup
 croupe
@@ -17312,6 +17320,7 @@ cuniforms
 cunnilinctus
 cunnilinctuses
 cunning
+cunninger
 cunningest
 cunningnesses
 cunnings
@@ -22705,6 +22714,7 @@ dustoff
 dustpan
 dustrags
 duststorm
+dustups
 dutchman
 dutchmen
 dutiable
@@ -23061,6 +23071,7 @@ ecstatic
 ecstatically
 ectases
 ectoblasts
+ectoderm
 ectodermal
 ectomeric
 ectoparasites
@@ -24809,6 +24820,7 @@ equals
 equanimities
 equanimity
 equates
+equating
 equation
 equational
 equations
@@ -30051,6 +30063,7 @@ garbing
 garbled
 garbler
 garblers
+garbling
 garboard
 garboils
 garbology
@@ -30456,6 +30469,7 @@ gentian
 gentiles
 gentilesses
 gentilities
+gentled
 gentlefolks
 gentleman
 gentlemanliness
@@ -34101,6 +34115,7 @@ hiccoughs
 hiccupping
 hiccups
 hick
+hickey
 hickeys
 hickies
 hickories
@@ -36033,6 +36048,7 @@ imagism
 imagoes
 imagos
 imam
+imamate
 imamates
 imbalance
 imbalm
@@ -38465,6 +38481,7 @@ invectivenesses
 inveighers
 inveighing
 inveigle
+inveiglement
 inveiglements
 inveigler
 inveiglers
@@ -40015,6 +40032,7 @@ keynoter
 keynotes
 keypad
 keypads
+keypal
 keypals
 keypunchers
 keypunches
@@ -40108,6 +40126,7 @@ kidding
 kiddo
 kiddoes
 kiddos
+kiddy
 kidlike
 kidnapee
 kidnapees
@@ -42180,6 +42199,7 @@ lippered
 lippering
 lippers
 lippier
+lippiest
 lippiness
 lipreaders
 lipreading
@@ -44049,6 +44069,7 @@ martyrologists
 martyrology
 martyrs
 marvel
+marvelled
 marvelously
 marvelousnesses
 marvels
@@ -45451,6 +45472,7 @@ migraines
 migrant
 migrate
 migrates
+migration
 migrational
 migrations
 migs
@@ -46430,6 +46452,7 @@ mitsvah
 mitsvoth
 mitten
 mittens
+mittimus
 mity
 mitzvah
 mixedly
@@ -54224,6 +54247,7 @@ patronized
 patronizing
 patronly
 patrons
+patroons
 pattamar
 patted
 pattens
@@ -56275,6 +56299,7 @@ pishers
 pishogue
 pisiform
 pisiforms
+pismire
 piso
 pisolites
 pisolith
@@ -56295,6 +56320,7 @@ pistolling
 pistols
 pistons
 pistou
+pita
 pitapat
 pitas
 pitayas
@@ -61127,6 +61153,7 @@ rancored
 rancorously
 rancour
 randan
+randies
 randiness
 randinesses
 randomization
@@ -63352,6 +63379,7 @@ renvoi
 reobject
 reobjected
 reobserve
+reobserving
 reobtained
 reobtains
 reoccupied
@@ -64679,6 +64707,7 @@ rhinestones
 rhino
 rhinoceri
 rhinologies
+rhinoscopy
 rhinovirus
 rhizobial
 rhizoctonias
@@ -68821,6 +68850,7 @@ shoring
 shorl
 short
 shortage
+shortchanger
 shortcut
 shorted
 shorten
@@ -70946,6 +70976,7 @@ sophistic
 sophisticates
 sophistries
 sophomore
+sophs
 sopited
 sopiting
 sopor
@@ -73500,6 +73531,7 @@ subcurative
 subcutis
 subcutises
 subdeacon
+subdean
 subdeans
 subdebs
 subdecision
@@ -74623,6 +74655,7 @@ suppositions
 supposititious
 suppositories
 suppress
+suppressing
 suppression
 suppressors
 suppurate
@@ -77642,6 +77675,7 @@ tomatillo
 tomatillos
 tombac
 tombacks
+tombed
 tombing
 tombless
 tombola
@@ -85775,6 +85809,7 @@ yoks
 yolk
 yolkier
 yolks
+yomim
 yon
 yoni
 yonic
