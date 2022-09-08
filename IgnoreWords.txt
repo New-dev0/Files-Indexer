@@ -345,6 +345,7 @@ acequias
 acerate
 acerated
 acerbated
+acerbates
 acerbating
 acerber
 acerbity
@@ -1264,6 +1265,7 @@ agnomina
 agnosia
 agnosias
 agnosticisms
+agog
 agon
 agonal
 agones
@@ -1424,6 +1426,7 @@ airth
 airthed
 airthing
 airtight
+airtightness
 airting
 airts
 airward
@@ -3183,6 +3186,7 @@ antitoxins
 antitrade
 antitraditional
 antitragi
+antitruster
 antitrusters
 antitubercular
 antituberculous
@@ -6942,6 +6946,7 @@ bidding
 biddings
 bided
 bidental
+bider
 biders
 bidets
 bidi
@@ -11128,6 +11133,7 @@ catcalling
 catchable
 catchall
 catcher
+catches
 catchflies
 catchier
 catchiest
@@ -12951,6 +12957,7 @@ citrullines
 cittern
 city
 cityfied
+cityscape
 cityscapes
 cityward
 citywide
@@ -18101,6 +18108,7 @@ dandering
 dandiacal
 dandies
 dandified
+dandifies
 dandle
 dandler
 dandlers
@@ -18856,6 +18864,7 @@ defilement
 defiling
 definement
 definer
+defines
 definientia
 definite
 definitely
@@ -19354,6 +19363,7 @@ denied
 deniers
 denies
 denigrate
+denigrated
 denigrating
 denigrations
 denigrator
@@ -25022,6 +25032,7 @@ equilibristic
 equilibrists
 equilibrium
 equilibriums
+equimolal
 equines
 equinities
 equinoctial
@@ -25778,6 +25789,7 @@ exaptive
 exarchal
 exarchate
 exarchates
+exarchies
 exarchs
 exarchy
 exasperate
@@ -27088,6 +27100,7 @@ feelings
 fees
 feeze
 feezed
+feh
 feigned
 feignedly
 feigner
@@ -32489,6 +32502,7 @@ grume
 grummet
 grummets
 grumose
+grump
 grumphies
 grumphy
 grumpily
@@ -33859,6 +33873,7 @@ heifer
 heifers
 heigh
 height
+heightened
 heightening
 heightens
 heighth
@@ -39354,6 +39369,7 @@ jaditic
 jaeger
 jager
 jaggedest
+jaggednesses
 jaggery
 jagghery
 jaggy
@@ -42389,6 +42405,7 @@ lineations
 linebackers
 linebacking
 linebackings
+linebred
 linebreedings
 linecastings
 linecut
@@ -44527,6 +44544,7 @@ materiels
 maternal
 maternally
 maternities
+mates
 matey
 mateyness
 mateys
@@ -47455,6 +47473,7 @@ morphoses
 morphs
 morrions
 morris
+morrises
 morro
 morrows
 morse
@@ -55039,6 +55058,7 @@ penetrometer
 penetrometers
 pengo
 penguin
+penguins
 penholder
 penial
 penicillate
@@ -57104,6 +57124,7 @@ plenishes
 plenists
 plenitudes
 plenteous
+plenteously
 plenteousness
 plenteousnesses
 plentifulness
@@ -58309,6 +58330,7 @@ prase
 praseodymium
 prat
 prater
+praters
 prates
 pratfall
 pratfalls
@@ -58402,6 +58424,7 @@ prebids
 prebinds
 prebiological
 prebirth
+prebirths
 preblessing
 preboil
 preboiled
@@ -59335,6 +59358,7 @@ printmaking
 printmakings
 prion
 prions
+prioress
 prioresses
 prioritization
 prioritizations
@@ -62730,6 +62754,7 @@ redrew
 redried
 redrill
 redrilling
+redrive
 redriven
 redrives
 redroot
@@ -65085,6 +65110,7 @@ rewaxing
 rewearing
 reweaved
 reweaves
+reweaving
 rewed
 reweighed
 reweighing
@@ -66522,6 +66548,7 @@ salesrooms
 saleswomen
 salicin
 salicine
+salicins
 salicylate
 salicylates
 saliences
@@ -66992,6 +67019,7 @@ satyrlike
 satyrs
 sauce
 sauceboats
+sauceboxes
 sauced
 saucepan
 saucepot
@@ -67892,6 +67920,7 @@ seatworks
 seawall
 seawalls
 seawan
+seawans
 seawants
 seaward
 seaware
@@ -69924,6 +69953,7 @@ sinicize
 sinicized
 sinister
 sinisterly
+sinistrous
 sink
 sinkers
 sinkholes
@@ -70482,6 +70512,7 @@ slinkinesses
 slinking
 slinky
 slip
+slipcase
 slipcover
 slipcovered
 slipcovering
@@ -72013,6 +72044,7 @@ sphinx
 sphygmic
 sphygmographs
 sphygmus
+sphynxes
 spicas
 spicate
 spicated
@@ -72378,6 +72410,7 @@ spotlit
 spottable
 spottily
 spottiness
+spotty
 spoused
 spousing
 spouted
@@ -74600,6 +74633,7 @@ suddenness
 suddennesses
 sudds
 sudor
+sudors
 sudsed
 sudser
 sudsers
@@ -77132,6 +77166,7 @@ tessitura
 tessituras
 tessiture
 testa
+testability
 testable
 testaceans
 testae
