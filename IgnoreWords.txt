@@ -1593,6 +1593,7 @@ algometers
 algometry
 algorithm
 algorithmic
+algums
 aliases
 aliasing
 alibied
@@ -3299,6 +3300,7 @@ aphids
 aphis
 apholate
 apholates
+aphonia
 aphonic
 aphonics
 aphorise
@@ -5009,6 +5011,7 @@ awing
 awkward
 awkwardly
 awkwardnesses
+awlwort
 awlworts
 awning
 awninged
@@ -7067,6 +7070,7 @@ bilging
 bilharziases
 biliary
 bilinear
+bilingually
 biliousness
 biliverdin
 biliverdins
@@ -9521,6 +9525,7 @@ bunkering
 bunkers
 bunkhouse
 bunkmate
+bunkmates
 bunko
 bunkoed
 bunkos
@@ -10303,6 +10308,7 @@ campanologies
 campanology
 campanula
 camped
+camper
 campers
 campesinos
 campfire
@@ -11598,6 +11604,7 @@ cephalopod
 cephaloridine
 cephalosporin
 cephalothin
+cephalothorax
 cephalothoraxes
 cephalous
 ceps
@@ -12699,6 +12706,7 @@ chromyls
 chronaxie
 chronaxy
 chronic
+chronically
 chronicled
 chronicler
 chronicling
@@ -12985,6 +12993,7 @@ cite
 citer
 citers
 cithara
+cithren
 cithrens
 cities
 citifications
@@ -14757,6 +14766,7 @@ comradery
 comradeships
 comsymp
 comsymps
+comtes
 conation
 conations
 conative
@@ -16437,6 +16447,7 @@ couples
 couplet
 couponings
 coupons
+courage
 courageous
 courageousness
 courages
@@ -18663,6 +18674,7 @@ decisioning
 deck
 deckels
 deckers
+deckhouses
 decking
 deckles
 decks
@@ -27059,6 +27071,7 @@ fatshedera
 fatsoes
 fatsos
 fatten
+fatteners
 fattens
 fatter
 fattest
@@ -32406,6 +32419,7 @@ griminesses
 grimly
 grinches
 grind
+grinderies
 grinders
 grindery
 grinding
@@ -33865,6 +33879,7 @@ hearings
 hearken
 hearkeners
 hearkening
+hearkens
 hearsays
 hearsed
 heartaches
@@ -35387,6 +35402,7 @@ hotbox
 hotboxes
 hotcake
 hotcakes
+hotch
 hotches
 hotching
 hotchpot
@@ -36301,6 +36317,7 @@ idiographic
 idiom
 idiomatically
 idiomorphic
+idiopathic
 idiopathies
 idioplasms
 idiosyncratic
@@ -38329,6 +38346,7 @@ intellective
 intellectively
 intellects
 intellectualist
+intellectualize
 intelligencer
 intelligences
 intelligently
@@ -38859,6 +38877,7 @@ introjecting
 intromission
 intromit
 intromitted
+intromittent
 intron
 introns
 introrse
@@ -47810,6 +47829,7 @@ motormen
 motormouths
 motorships
 motorway
+motorways
 mott
 motte
 mottes
@@ -47829,6 +47849,7 @@ moulded
 mouldered
 moulders
 mouldier
+moulin
 moulins
 moulted
 moulter
@@ -50766,6 +50787,7 @@ obelized
 obento
 obentos
 obese
+obesely
 obeseness
 obesities
 obesity
@@ -52347,6 +52369,7 @@ outlier
 outline
 outlined
 outliner
+outlining
 outlived
 outliver
 outlivers
@@ -52679,6 +52702,7 @@ outwaits
 outwalk
 outwalked
 outwalks
+outwardly
 outwardness
 outwardnesses
 outwards
@@ -55157,6 +55181,7 @@ peewit
 peewits
 peg
 pegboard
+pegging
 peglike
 pegmatites
 pegmatitic
@@ -55354,6 +55379,7 @@ pentaploids
 pentaploidy
 pentarchies
 pentathlete
+pentathletes
 pentathlon
 pentathlons
 pentatonic
@@ -55887,6 +55913,7 @@ petioles
 petit
 petiteness
 petitenesses
+petition
 petitioners
 petnap
 petnapers
@@ -56871,6 +56898,7 @@ pipage
 pipal
 pipe
 pipeage
+pipeages
 pipeful
 pipefuls
 pipeless
@@ -59938,6 +59966,7 @@ promotabilities
 promotable
 promoting
 promotional
+promotive
 promotiveness
 prompt
 promptbook
@@ -60781,6 +60810,7 @@ puppets
 puppies
 pupping
 puppy
+puppylike
 pur
 puranas
 puranic
@@ -63665,6 +63695,7 @@ reinters
 reinterviews
 reintroduced
 reintroduction
+reintroductions
 reinvent
 reinvented
 reinventing
@@ -73598,6 +73629,7 @@ stimulators
 stimulus
 stingarees
 stingers
+stingier
 stingiest
 stingily
 stinginess
@@ -77367,6 +77399,7 @@ terefah
 terephthalate
 terete
 terga
+tergal
 tergiversates
 tergiversations
 tergiversator
@@ -81059,6 +81092,7 @@ unboned
 unbonnet
 unbonneted
 unbonnets
+unbooted
 unbosom
 unbottle
 unbottled
@@ -86491,6 +86525,7 @@ wryer
 wryest
 wryneck
 wrynecks
+wryness
 wrynesses
 wulfenite
 wulfenites
