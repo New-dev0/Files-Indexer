@@ -2916,6 +2916,7 @@ anticonsumer
 anticonvulsant
 anticonvulsants
 anticorrosives
+anticorruption
 anticruelty
 anticult
 anticults
@@ -9401,6 +9402,7 @@ bullocky
 bullpen
 bullpens
 bullpout
+bullpouts
 bullring
 bullrings
 bullrushes
@@ -9542,6 +9544,7 @@ burgling
 burgomaster
 burgomasters
 burgoos
+burgrave
 burgundies
 burial
 buriers
@@ -12040,6 +12043,7 @@ cheekiest
 cheekily
 cheekinesses
 cheeking
+cheep
 cheepers
 cheeps
 cheer
@@ -12806,6 +12810,7 @@ cinnabar
 cinnamic
 cinnamons
 cinnamony
+cinnamyl
 cinnamyls
 cinquain
 cinquefoils
@@ -16687,6 +16692,7 @@ creamily
 creaminess
 creaminesses
 creaming
+creampuff
 creampuffs
 creamware
 creamwares
@@ -18501,6 +18507,7 @@ deceives
 deceiving
 decelerate
 decelerated
+decelerates
 decelerations
 deceleron
 decelerons
@@ -24549,6 +24556,7 @@ ensurer
 ensurers
 enswathed
 enswathes
+entailer
 entailers
 entailment
 entameba
@@ -30249,6 +30257,7 @@ gapping
 gapy
 gar
 garage
+garaged
 garageman
 garages
 garaging
@@ -30459,6 +30468,7 @@ gavelock
 gavelocks
 gavot
 gavotted
+gawk
 gawked
 gawker
 gawkier
@@ -31147,6 +31157,7 @@ glances
 glancingly
 glandered
 glandless
+glands
 glandular
 glandularly
 glandule
@@ -35651,6 +35662,7 @@ hydrokinetic
 hydrologic
 hydrological
 hydrologists
+hydrolyte
 hydrolytic
 hydrolyzed
 hydrolyzes
@@ -37913,6 +37925,7 @@ inscrutable
 insculp
 insculped
 insculping
+inseam
 inseams
 insectan
 insectaries
@@ -39836,6 +39849,7 @@ judicial
 judicially
 judicious
 judiciously
+judiciousnesses
 judoist
 judoists
 judoka
@@ -46002,6 +46016,7 @@ miniaturistic
 miniaturists
 miniaturization
 miniaturize
+miniaturizing
 minibar
 minibike
 minibiker
@@ -46167,6 +46182,7 @@ misapprehend
 misapprehended
 misapprehending
 misapprehension
+misappropriate
 misarticulated
 misarticulating
 misassayed
@@ -46620,6 +46636,7 @@ missilry
 missing
 missiologies
 mission
+missional
 missionary
 missioner
 missioners
@@ -49474,6 +49491,7 @@ nonbrand
 nonbreakable
 nonbreathing
 nonbreeding
+noncabinet
 noncallable
 noncaloric
 noncampus
@@ -50034,6 +50052,7 @@ nonsystem
 nontalker
 nontalkers
 nontarget
+nontariff
 nontaxable
 nontaxes
 nonteaching
@@ -53097,6 +53116,7 @@ overseeds
 overseeing
 overseen
 overseer
+overseers
 oversees
 oversell
 overselling
@@ -54214,6 +54234,7 @@ pargeted
 pargets
 pargetted
 pargings
+pargyline
 pargylines
 pariahs
 parians
@@ -56837,6 +56858,7 @@ plaister
 plaistering
 plaisters
 plait
+plaiter
 plaiting
 plaitings
 plaits
@@ -62830,6 +62852,7 @@ reengaged
 reengagement
 reengages
 reengineered
+reengraves
 reenjoy
 reenjoying
 reenlarge
@@ -64273,6 +64296,7 @@ resensitizes
 resent
 resentence
 resentencing
+resentments
 reserpines
 reservable
 reserve
@@ -64382,6 +64406,7 @@ resistor
 resistors
 resists
 resite
+resited
 resiting
 resittings
 resizes
@@ -67366,6 +67391,7 @@ schoolgirls
 schoolings
 schoolkids
 schoolman
+schoolmarms
 schoolmaster
 schoolmasterish
 schoolmasters
@@ -67467,6 +67493,7 @@ scolders
 scoleces
 scolices
 scolioma
+scolioses
 scoliosis
 scollop
 scolloping
@@ -68508,6 +68535,7 @@ serendipities
 serendipitous
 serendipitously
 serenely
+sereneness
 serenenesses
 serenes
 serenest
@@ -69020,6 +69048,7 @@ sheldrakes
 shelf
 shelfful
 shellack
+shellacked
 shellacking
 shellackings
 shellacks
@@ -70058,6 +70087,7 @@ skelm
 skelped
 skelter
 skeltered
+skeltering
 skenes
 skep
 skeps
@@ -72207,6 +72237,7 @@ splints
 splitters
 splitting
 splodged
+splodges
 sploshes
 splotch
 splotched
@@ -75347,6 +75378,7 @@ sustentation
 susurrant
 susurrated
 susurrates
+susurrating
 susurration
 susurrations
 sutlers
@@ -75550,6 +75582,7 @@ swingling
 swingy
 swinish
 swinishness
+swinishnesses
 swink
 swinneys
 swiping
@@ -76802,6 +76835,7 @@ temporariness
 temporise
 temporises
 temporization
+temporizations
 temporize
 temporized
 temporizer
@@ -79877,6 +79911,7 @@ tumorigenesis
 tumorlike
 tumors
 tumping
+tumplines
 tumulose
 tumultuary
 tumultuous
