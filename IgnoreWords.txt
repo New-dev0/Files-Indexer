@@ -1554,6 +1554,7 @@ alertnesses
 ales
 aleuron
 aleurons
+alevin
 alewife
 alewives
 alexandrine
@@ -1565,6 +1566,7 @@ alfalfas
 alfaqui
 alfaquins
 alfaquis
+alfas
 alfilaria
 alfilarias
 alforjas
@@ -1591,6 +1593,7 @@ algology
 algometer
 algometers
 algometry
+algor
 algorithm
 algorithmic
 algums
@@ -2634,6 +2637,7 @@ animosity
 animus
 animuses
 anion
+anionic
 anions
 anis
 anise
@@ -3140,6 +3144,7 @@ antiromanticism
 antiromantics
 antiroyalist
 antiroyalists
+antirrhinum
 antirust
 antis
 antisag
@@ -3220,6 +3225,7 @@ antlions
 antonym
 antonymies
 antonymous
+antonyms
 antra
 antsiness
 antsinesses
@@ -8936,6 +8942,7 @@ bricolages
 bridal
 bridally
 bride
+brides
 bridesmaid
 bridesmaids
 bridewells
@@ -11781,6 +11788,7 @@ chalkboard
 chalkiest
 chalks
 chalky
+challa
 challahs
 challenging
 challot
@@ -14594,6 +14602,7 @@ comparative
 comparatively
 comparativists
 comparator
+compare
 comparer
 compares
 comparing
@@ -16529,6 +16538,7 @@ covenantees
 covenanter
 covenanting
 covenantors
+covenants
 cover
 coverage
 coverages
@@ -23485,6 +23495,7 @@ effect
 effected
 effectively
 effector
+effects
 effectual
 effectually
 effectualness
@@ -24230,6 +24241,7 @@ enchase
 enchaser
 enchasing
 enchilada
+enchiridia
 encina
 encinas
 encipher
@@ -37678,6 +37690,7 @@ inevitable
 inevitableness
 inevitably
 inexact
+inexactnesses
 inexcusableness
 inexcusably
 inexistence
@@ -42785,6 +42798,7 @@ lisente
 lisle
 lisp
 lisper
+lispers
 lisps
 lissom
 lissome
@@ -43763,6 +43777,7 @@ mace
 maced
 macedoines
 macer
+macerated
 macerater
 macerates
 maceration
@@ -44377,6 +44392,7 @@ mansards
 manse
 manses
 mansion
+mansions
 manslaughter
 manslaughters
 mansuetude
@@ -49321,6 +49337,7 @@ newcomers
 newel
 newer
 newfangled
+newfound
 newish
 newlywed
 newlyweds
@@ -50803,6 +50820,7 @@ oar
 oarfish
 oarless
 oars
+oarsmanships
 oarswomen
 oasthouses
 oatcake
@@ -53793,6 +53811,7 @@ packets
 packing
 packinghouse
 packinghouses
+packly
 packman
 packmen
 packness
@@ -58288,6 +58307,7 @@ postanal
 postapocalyptic
 postattack
 postaxial
+postbag
 postbase
 postbellum
 postbox
@@ -61470,6 +61490,7 @@ quinate
 quincentennial
 quincunx
 quincunxial
+quinela
 quinellas
 quinic
 quinidine
@@ -62542,6 +62563,7 @@ recaned
 recanes
 recantations
 recanter
+recanters
 recanting
 recants
 recap
@@ -64086,6 +64108,7 @@ remonstratively
 remonstrator
 remorsefully
 remorsefulness
+remorseless
 remorses
 remote
 remotenesses
@@ -66116,6 +66139,7 @@ roms
 rondeaux
 rondel
 rondos
+ronnel
 ronnels
 ronyons
 rood
@@ -66316,6 +66340,7 @@ roundednesses
 roundel
 rounder
 roundest
+roundheadedness
 roundheel
 roundhouse
 roundlet
@@ -66918,6 +66943,7 @@ saliva
 salivary
 salivas
 salivates
+salivating
 salivation
 salivator
 salivators
@@ -66976,6 +67002,7 @@ saltiest
 saltimboccas
 saltiness
 saltish
+saltlike
 saltpans
 saltpeter
 saltpeters
@@ -69846,6 +69873,7 @@ shriller
 shrillness
 shrillnesses
 shrills
+shrimp
 shrimpers
 shrimpiest
 shrimping
@@ -74679,6 +74707,7 @@ submersion
 submetacentric
 submetacentrics
 submicrogram
+submicron
 submillimeter
 subminiature
 subminimal
@@ -75488,6 +75517,7 @@ superorganic
 superorganism
 superorganisms
 superorgasm
+superorgasms
 superovulate
 superovulates
 superovulating
@@ -76049,6 +76079,7 @@ swizzle
 swizzlers
 swizzles
 swizzling
+swob
 swobbed
 swobbers
 swobbing
@@ -77091,6 +77122,7 @@ teethers
 teething
 teethings
 teethridge
+teetotal
 teetotalers
 teetotalism
 teetotalists
@@ -79026,6 +79058,7 @@ tourer
 tourers
 tourism
 tourisms
+touristic
 tourmaline
 tournament
 tourney
@@ -81583,6 +81616,7 @@ underpass
 underpasses
 underpay
 underpayment
+underpays
 underpinned
 underpins
 underplayed
@@ -83872,6 +83906,7 @@ verb
 verbal
 verbalizations
 verbalizers
+verbalizes
 verbalizing
 verbals
 verbatim
