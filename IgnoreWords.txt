@@ -1485,6 +1485,7 @@ alaska
 alated
 alation
 albacore
+albatas
 albatrosses
 albedo
 albedoes
@@ -8969,6 +8970,7 @@ briniest
 brininesses
 brinish
 brinksmanship
+brioches
 brionies
 briquet
 briquette
@@ -9468,6 +9470,7 @@ bumptiousness
 bumptiousnesses
 bumpy
 bun
+bunched
 bunches
 bunchier
 bunchily
@@ -12203,6 +12206,7 @@ chiaroscurists
 chiaroscuro
 chiaroscuros
 chias
+chiasm
 chiasmas
 chiasmata
 chiasmatic
@@ -19226,6 +19230,7 @@ demagnetizer
 demagnetizing
 demagog
 demagogically
+demagogies
 demagogs
 demagogue
 demagogueries
@@ -20747,6 +20752,7 @@ diplexer
 diploblastic
 diplococci
 diplodocus
+diplodocuses
 diploes
 diploic
 diploid
@@ -22251,6 +22257,7 @@ downfield
 downforce
 downforces
 downgraded
+downgrades
 downhauls
 downhiller
 downinesses
@@ -25927,6 +25934,7 @@ excoriate
 excoriated
 excoriating
 excoriation
+excrements
 excrescence
 excrescency
 excrescent
@@ -26573,6 +26581,7 @@ facers
 faces
 facete
 facetiae
+faceting
 facetious
 facetiousness
 facia
@@ -29548,6 +29557,7 @@ fritillaria
 fritillary
 frits
 frittata
+frittatas
 frittered
 fritterer
 fritz
@@ -30168,6 +30178,7 @@ gallivanted
 gallivanting
 gallivants
 galliwasp
+galliwasps
 gallnut
 gallnuts
 gallonage
@@ -33221,6 +33232,7 @@ hammerless
 hammerlocks
 hammers
 hammertoes
+hammier
 hammily
 hamminesses
 hammock
@@ -34229,6 +34241,7 @@ hereunder
 hereunto
 heriot
 heritabilities
+heritability
 heritages
 heritor
 heritors
@@ -38957,6 +38970,7 @@ inwardness
 inwardnesses
 inwards
 inweave
+inweaves
 inweaving
 inwind
 inwinding
@@ -40145,6 +40159,7 @@ kalends
 kalewife
 kalewives
 kaleyard
+kalian
 kalifate
 kalifates
 kalimbas
@@ -40258,6 +40273,7 @@ keckle
 keckles
 keckling
 kecks
+keddahs
 kedged
 kedgerees
 kedges
@@ -40422,6 +40438,7 @@ keypunching
 keyset
 keysters
 keystone
+keyway
 keyways
 keyword
 khaddar
@@ -41284,6 +41301,7 @@ landau
 landaulet
 landaulets
 lander
+landfalls
 landfill
 landforms
 landgrab
@@ -47464,6 +47482,7 @@ mopped
 moppers
 moppet
 moppets
+mopping
 moquettes
 mora
 morae
@@ -48220,6 +48239,7 @@ musk
 muskeg
 muskegs
 musket
+musketeer
 musketry
 muskie
 muskits
@@ -49213,6 +49233,7 @@ nice
 nicenesses
 nicer
 niceties
+nicety
 niche
 niched
 niches
@@ -52137,6 +52158,7 @@ outgain
 outgained
 outgaining
 outgains
+outgalloped
 outgallops
 outgambled
 outgas
@@ -55882,6 +55904,7 @@ pharyngitis
 pharynx
 phaseouts
 phases
+phasis
 phasmids
 phat
 phatic
@@ -56188,6 +56211,7 @@ photomosaic
 photomultiplier
 photomurals
 photonegative
+photonics
 photonuclear
 photooxidations
 photooxidized
@@ -57324,6 +57348,7 @@ plumelets
 plumerias
 plumes
 plumier
+plumiest
 plumiped
 plummet
 plummiest
@@ -58530,6 +58555,7 @@ prebuilds
 prebuilt
 prebuy
 prebuying
+precancel
 precanceled
 precancelled
 precancelling
@@ -60076,6 +60102,7 @@ protensively
 proteoglycan
 proteolytically
 proteome
+proteomes
 proteomic
 proteoses
 protest
@@ -61923,6 +61950,7 @@ ravels
 raven
 ravened
 ravening
+ravenlike
 ravenously
 ravenousnesses
 ravens
@@ -63596,6 +63624,7 @@ relabeled
 relabeling
 relabelled
 relabelling
+relabels
 relacquer
 relacquered
 reland
@@ -64329,6 +64358,7 @@ rerelease
 rereleasing
 reremice
 rereminded
+reremouse
 rerent
 rerenting
 rerepeat
@@ -67790,6 +67820,7 @@ screes
 screwball
 screwdriver
 screwdrivers
+screwer
 screwers
 screwiest
 screwinesses
@@ -76131,6 +76162,7 @@ tables
 tablespoon
 tablespoonfuls
 tablespoonsful
+tablet
 tableting
 tabletop
 tablets
@@ -76447,6 +76479,7 @@ tantalates
 tantalises
 tantalites
 tantalize
+tantalizes
 tantalizing
 tantalum
 tantara
@@ -86389,6 +86422,7 @@ xylyls
 xysti
 xystoi
 yabber
+yabbered
 yabbie
 yabbies
 yabby
@@ -86473,6 +86507,7 @@ yawned
 yawner
 yawners
 yawningly
+yawns
 yawp
 yawpings
 ycleped
