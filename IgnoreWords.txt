@@ -4400,6 +4400,7 @@ asymptotically
 asynapsis
 asynchronies
 asynchronously
+asyndetic
 asyndetically
 asyndeton
 asyndetons
@@ -5342,6 +5343,7 @@ bailie
 bailies
 bailiffship
 bailiffships
+bailments
 bailors
 bailouts
 bails
@@ -5858,6 +5860,7 @@ bast
 bastardies
 bastardise
 bastardises
+bastardization
 bastardizations
 bastardize
 bastardized
@@ -7287,6 +7290,7 @@ bipolarizing
 bipropellant
 bipropellants
 bipyramid
+bipyramidal
 biquadratic
 biradial
 biradical
@@ -8141,6 +8145,7 @@ bondsmen
 bondstones
 bone
 boneblacks
+boned
 bonefishes
 bonefishing
 bonehead
@@ -8980,6 +8985,7 @@ brisses
 bristle
 bristled
 bristlelike
+bristletail
 bristletails
 bristliest
 bristling
@@ -12864,6 +12870,7 @@ circuity
 circular
 circularised
 circularising
+circularization
 circularness
 circulates
 circulation
@@ -12942,6 +12949,7 @@ citadels
 citation
 citatory
 cite
+citer
 citers
 cithara
 cithrens
@@ -17811,6 +17819,7 @@ cycloaddition
 cycloadditions
 cyclodextrin
 cyclogenesis
+cyclohexane
 cyclohexanes
 cyclohexanones
 cycloid
@@ -20592,6 +20601,7 @@ dilution
 dilutions
 dilutive
 dilutor
+dilutors
 diluvia
 diluvial
 diluvian
@@ -21391,6 +21401,7 @@ disposure
 disposures
 dispraised
 dispraiser
+dispraisingly
 dispread
 disprized
 disprizes
@@ -26454,6 +26465,7 @@ extrinsically
 extrorse
 extroversion
 extrudabilities
+extrude
 extruders
 extrusions
 extrusive
@@ -27634,6 +27646,7 @@ filmable
 filmdom
 filmdoms
 filmed
+filmgoer
 filmically
 filmiest
 filmily
@@ -28319,6 +28332,7 @@ flooding
 floodlight
 floodlighted
 floodlighting
+floodlit
 floodplain
 floodplains
 floodtides
@@ -32392,6 +32406,7 @@ grocers
 grocery
 grodier
 grody
+grog
 groggeries
 groggery
 groggy
@@ -34788,6 +34803,7 @@ holloaing
 holloed
 holloes
 holloing
+holloo
 hollooed
 hollooing
 holloos
@@ -35457,6 +35473,7 @@ hulloas
 hulloed
 hum
 human
+humane
 humaneness
 humaner
 humanhoods
@@ -35782,6 +35799,7 @@ hydroxylates
 hydroxyproline
 hydroxyurea
 hydroxyzines
+hydrozoan
 hyenas
 hyenine
 hyetal
@@ -36470,6 +36488,7 @@ immigrant
 immigrants
 immigrates
 immigration
+immigrational
 immigrations
 imminencies
 imminent
@@ -37165,6 +37184,7 @@ incontestable
 incontestably
 incontinences
 incontinent
+incontrollable
 inconvenience
 inconveniences
 inconveniencies
@@ -37477,6 +37497,7 @@ ineducable
 ineffabilities
 ineffability
 ineffable
+ineffableness
 ineffably
 ineffaceability
 ineffectiveness
@@ -39782,6 +39803,7 @@ joiner
 joining
 joinings
 joint
+jointed
 jointednesses
 jointers
 jointly
@@ -52338,6 +52360,7 @@ outreckoning
 outreproduce
 outridden
 outrider
+outriding
 outrig
 outrigged
 outrigger
@@ -56518,6 +56541,7 @@ pigskins
 pigsney
 pigsneys
 pigsticked
+pigsticking
 pigsty
 pigtailed
 pigweeds
@@ -57964,6 +57988,7 @@ portapak
 portapaks
 portative
 portcullis
+portcullises
 portend
 portending
 portent
@@ -64671,6 +64696,7 @@ restocked
 restocking
 restocks
 restoked
+restoking
 restoral
 restorals
 restorative
@@ -65598,6 +65624,7 @@ ripsawn
 ripsnorter
 ripsnorters
 ripsnorting
+ripstops
 riptide
 riptides
 riser
@@ -67149,6 +67176,7 @@ savine
 saving
 saviors
 savorer
+savorier
 savories
 savorily
 savorinesses
@@ -67905,6 +67933,7 @@ scutches
 scutching
 scute
 scutella
+scutellar
 scutellate
 scutellated
 scutellum
@@ -72087,6 +72116,7 @@ spermatogenic
 spermatophore
 spermatophyte
 spermatozoid
+spermatozoids
 spermic
 spermicidal
 spermicides
@@ -80586,6 +80616,7 @@ ultrarealist
 ultrarealistic
 ultrared
 ultrareds
+ultrarich
 ultrarightist
 ultraromantic
 ultraroyalist
@@ -83654,6 +83685,7 @@ vertices
 verticillate
 vertiginous
 vertiginously
+vertigo
 vertigoes
 vertigos
 verts
@@ -84986,6 +85018,7 @@ web
 webbier
 webbiest
 webby
+webcam
 webcams
 webcast
 webcasted
@@ -85811,6 +85844,7 @@ withdrawnnesses
 withdraws
 withe
 wither
+witheringly
 witherite
 witherites
 witherods
@@ -86309,6 +86343,7 @@ xeroderma
 xerodermae
 xerodermas
 xerographies
+xerography
 xerophilous
 xerophily
 xerophthalmias
