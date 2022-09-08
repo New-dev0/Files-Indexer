@@ -2319,6 +2319,7 @@ anadems
 anadiploses
 anadiplosis
 anadromous
+anaemia
 anaemic
 anaerobia
 anaerobic
@@ -3379,6 +3380,7 @@ apophthegm
 apophthegms
 apophyllite
 apophyses
+apophysis
 apoplexies
 apoplexy
 apoptoses
@@ -5627,6 +5629,7 @@ barbwires
 barca
 barcaroles
 barchan
+bard
 barded
 bardes
 bardic
@@ -5785,6 +5788,7 @@ baseliner
 baseliners
 baselines
 basely
+basemen
 basements
 basenesses
 baseplates
@@ -5877,6 +5881,7 @@ bateau
 bateaux
 batfish
 batfishes
+batfowled
 batfowler
 batfowlers
 batfowling
@@ -6129,6 +6134,7 @@ becomes
 becoming
 becomings
 becoward
+becquerel
 becquerels
 becrawled
 becrawling
@@ -7119,6 +7125,7 @@ binge
 binged
 bingeing
 bingers
+binging
 bingoes
 binit
 binnacles
@@ -9854,6 +9861,7 @@ cabezones
 cabezons
 cabildo
 cabined
+cabinet
 cabinetmakings
 cabinetry
 cabinetworks
@@ -11827,6 +11835,7 @@ chapbooks
 chape
 chapeaus
 chaperonage
+chaperonages
 chaperone
 chaperoned
 chaperones
@@ -15893,6 +15902,7 @@ cornmeals
 cornpones
 cornrow
 cornrowed
+cornrows
 corns
 cornstalks
 cornu
@@ -17871,6 +17881,7 @@ cysteamine
 cysteine
 cysteines
 cysteins
+cysticercoid
 cysticercosis
 cystine
 cystinuria
@@ -25272,6 +25283,7 @@ esculent
 escutcheon
 eserine
 eserines
+eskar
 eskers
 esne
 esnes
@@ -26641,6 +26653,7 @@ faired
 fairest
 fairgoers
 fairground
+fairgrounds
 fairish
 fairishly
 fairlead
@@ -29584,6 +29597,7 @@ frothy
 frotteur
 frotteurs
 froufrou
+frounced
 frounces
 frouncing
 frouzier
@@ -32646,6 +32660,7 @@ guitarists
 guitars
 guitguit
 gulag
+gular
 guldens
 gulf
 gulfing
@@ -37045,6 +37060,7 @@ incloser
 inclosers
 inclosing
 inclosure
+inclosures
 includable
 includes
 including
@@ -37752,6 +37768,7 @@ inhospitable
 inhospitality
 inhuman
 inhumane
+inhumanely
 inhumanities
 inhumanity
 inhumannesses
@@ -39334,6 +39351,7 @@ jackknives
 jacklegs
 jacklight
 jacklighting
+jacklights
 jackplane
 jackpot
 jackpots
@@ -39789,6 +39807,7 @@ jotters
 jotting
 joual
 jouk
+jouks
 jounced
 jouncier
 jouncing
@@ -51127,6 +51146,7 @@ omitter
 omitters
 omitting
 ommatidia
+ommatidial
 omniarchs
 omnibuses
 omnicompetences
@@ -59439,6 +59459,7 @@ problems
 proboscideans
 proboscidian
 proboscis
+proboscises
 procambia
 procambial
 procambiums
@@ -60499,6 +60520,7 @@ puniest
 puniness
 puninesses
 punishability
+punisher
 punishers
 punishing
 punishments
@@ -61763,6 +61785,7 @@ ration
 rational
 rationale
 rationales
+rationalist
 rationalistic
 rationalists
 rationalities
@@ -62447,6 +62470,7 @@ recons
 reconsecrates
 reconsecrating
 reconsider
+reconsidered
 reconsidering
 reconsiders
 reconsigning
@@ -63004,6 +63028,7 @@ reflation
 reflations
 reflect
 reflecting
+reflection
 reflectional
 reflections
 reflectively
@@ -63538,6 +63563,7 @@ releasers
 releasing
 relegated
 relegating
+relegation
 relegations
 relending
 relent
@@ -69292,6 +69318,7 @@ shmaltzier
 shmear
 shmo
 shmoes
+shmooze
 shmoozed
 shmoozes
 shmucks
@@ -69448,6 +69475,7 @@ showery
 showier
 showily
 showiness
+showings
 showmanships
 showpieces
 showplace
@@ -72927,6 +72955,7 @@ stashes
 stasima
 stat
 statable
+statant
 stateable
 statecraft
 statecrafts
@@ -75085,6 +75114,7 @@ superminister
 supermodels
 supernatant
 supernates
+supernatural
 supernaturalist
 supernature
 supernatures
@@ -78245,6 +78275,7 @@ tolans
 tolar
 tolarjev
 tolas
+tolbooth
 tolbutamide
 tolbutamides
 tole
@@ -79130,6 +79161,7 @@ treacherous
 treachery
 treacle
 treacliest
+tread
 treader
 treaders
 treading
@@ -80675,6 +80707,7 @@ unavenged
 unaverted
 unavoidably
 unawake
+unawaked
 unawakened
 unawarded
 unawesome
@@ -82851,6 +82884,7 @@ usurious
 usuriousness
 usuriousnesses
 usurp
+usurpation
 usurped
 usurper
 utensils
@@ -84327,6 +84361,7 @@ waddling
 waddying
 waded
 waders
+wades
 wadies
 wading
 wadmaal
