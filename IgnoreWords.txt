@@ -69,6 +69,7 @@ absents
 absinth
 absolutely
 absolutes
+absolutest
 absolution
 absolutions
 absolutisms
@@ -9808,6 +9809,7 @@ buttonholer
 buttonholers
 buttonholes
 buttonholing
+buttonhooking
 buttonhooks
 buttonwood
 buttressed
@@ -14921,6 +14923,7 @@ concurred
 concurrence
 concurrent
 concurrently
+concurring
 concuss
 concussive
 condemn
@@ -16843,6 +16846,7 @@ creaturehoods
 creaturely
 creatures
 creches
+cred
 credence
 credences
 credendum
@@ -17727,6 +17731,7 @@ curves
 curvet
 curveting
 curvetted
+curviest
 cuscuses
 cusec
 cushat
@@ -17904,6 +17909,7 @@ cyclo
 cycloaddition
 cycloadditions
 cyclodextrin
+cyclodienes
 cyclogenesis
 cyclohexane
 cyclohexanes
@@ -21504,6 +21510,7 @@ disprizes
 disproof
 disproportion
 disproportional
+disprovable
 disprove
 disproved
 disproven
@@ -25386,6 +25393,7 @@ escape
 escaped
 escapee
 escapees
+escapement
 escapements
 escaper
 escapers
@@ -26756,6 +26764,7 @@ fadeouts
 fadging
 fading
 fadlike
+fado
 fados
 faecal
 faerie
@@ -29844,6 +29853,7 @@ fudging
 fuds
 fuehrer
 fuehrers
+fuel
 fueled
 fuelers
 fueling
@@ -31079,6 +31089,7 @@ ghostier
 ghostiest
 ghosting
 ghostings
+ghostlier
 ghostliest
 ghostliness
 ghostly
@@ -33904,6 +33915,7 @@ headsets
 headshrinker
 headshrinkers
 headsmen
+headsprings
 headstand
 headstands
 headstay
@@ -34097,6 +34109,7 @@ heists
 hejira
 hektare
 held
+heldentenors
 heliacally
 helically
 helices
@@ -35787,6 +35800,7 @@ hushed
 hushes
 hushing
 hushpuppies
+hushpuppy
 husk
 huskier
 huskily
@@ -35885,6 +35899,7 @@ hydrogen
 hydrogenate
 hydrogens
 hydrographer
+hydrographic
 hydrographies
 hydrography
 hydrokinetic
@@ -36684,6 +36699,7 @@ immortality
 immortalization
 immortalized
 immortalizer
+immortalizes
 immortally
 immotile
 immovablenesses
@@ -40725,6 +40741,7 @@ kilobase
 kilobyte
 kilocurie
 kilocycle
+kilocycles
 kilogausses
 kilogram
 kilohertzes
@@ -45656,6 +45673,7 @@ metaplasias
 metaplasm
 metaplasms
 metapsychology
+metasequoias
 metasomatic
 metastably
 metastases
@@ -47585,6 +47603,7 @@ moodiest
 moodily
 moodiness
 moods
+mooed
 mooing
 mool
 moolah
@@ -48733,6 +48752,7 @@ namelessnesses
 namely
 namers
 names
+namesake
 nametag
 nametags
 naming
@@ -49772,6 +49792,7 @@ nonastronomical
 nonatomic
 nonattachment
 nonattendance
+nonattendances
 nonattenders
 nonauthors
 nonautomated
@@ -51442,6 +51463,7 @@ omnipotently
 omnipresences
 omnipresent
 omnirange
+omniranges
 omniscience
 omnisciences
 omniscient
@@ -52531,6 +52553,7 @@ outpresses
 outprice
 outprices
 outproduce
+outproduced
 outproduces
 outproducing
 outpromise
@@ -54168,6 +54191,7 @@ pancreases
 pancreatins
 pancreozymin
 pancreozymins
+pancytopenias
 pandanus
 pandemic
 pandemonium
@@ -55054,6 +55078,7 @@ payment
 payoff
 payoffs
 payors
+payout
 payouts
 payrolls
 pays
@@ -56758,6 +56783,7 @@ pigeonholers
 pigeonholing
 pigeonite
 pigeonites
+pigeons
 pigfish
 pigfishes
 pigged
@@ -62861,6 +62887,7 @@ recopy
 recopying
 recordation
 recordations
+recorded
 recordings
 recordist
 recordists
@@ -64936,6 +64963,7 @@ respread
 respreading
 respreads
 respring
+resprings
 resprouted
 resprouting
 ressentiments
@@ -65538,6 +65566,7 @@ rezoned
 rezoning
 rhabdom
 rhabdomal
+rhabdomancer
 rhabdomancers
 rhabdomancy
 rhabdome
@@ -69165,6 +69194,7 @@ sewings
 sex
 sexagenarians
 sexagesimal
+sexdecillion
 sexes
 sexiest
 sexily
@@ -69613,6 +69643,7 @@ shiner
 shiners
 shines
 shingle
+shingled
 shinglers
 shingles
 shingling
@@ -76334,6 +76365,7 @@ syndicalisms
 syndicalists
 syndicated
 syndications
+syndicators
 syndromic
 syne
 synecdoche
@@ -80642,6 +80674,7 @@ twanged
 twangers
 twanging
 twangle
+twangled
 twanglers
 twangles
 twangling
@@ -84134,6 +84167,7 @@ viatica
 viaticum
 viator
 viators
+vibists
 vibracula
 vibraharp
 vibraharpist
@@ -86975,6 +87009,7 @@ yodlers
 yodles
 yoga
 yogas
+yogee
 yoghs
 yoghurt
 yogic
