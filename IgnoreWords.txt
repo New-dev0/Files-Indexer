@@ -2733,6 +2733,7 @@ anomalously
 anomalousness
 anomalousnesses
 anomaly
+anon
 anonymously
 anonymousnesses
 anonyms
@@ -5408,7 +5409,9 @@ baldric
 baldrick
 baldrics
 bale
+baleen
 balefire
+balefires
 baleful
 balefulnesses
 baler
@@ -6018,6 +6021,7 @@ beachheads
 beachier
 beachside
 beacon
+beaconing
 beacons
 bead
 beaders
@@ -7819,6 +7823,7 @@ blowsy
 blowtorch
 blowtorches
 blowtorching
+blowtubes
 blubbed
 blubber
 blubberer
@@ -9758,6 +9763,7 @@ butteries
 butteriest
 buttering
 butterless
+buttermilks
 butters
 butterscotch
 butterwort
@@ -12375,6 +12381,7 @@ chintzy
 chinwagging
 chionodoxa
 chionodoxas
+chip
 chipboards
 chipmuck
 chipmunk
@@ -14782,6 +14789,7 @@ concentrative
 concentrator
 concentrators
 concentrically
+concentricities
 concentricity
 conceptacles
 conceptional
@@ -16804,6 +16812,7 @@ credenza
 credenzas
 credible
 credit
+creditabilities
 creditability
 creditable
 creditableness
@@ -24451,6 +24460,7 @@ engineered
 engineering
 engineers
 engineries
+enginery
 engines
 enginous
 engirded
@@ -28849,6 +28859,7 @@ footsy
 footwall
 footwork
 footworks
+footworn
 foozler
 foozles
 foozling
@@ -29921,6 +29932,7 @@ funning
 funnymen
 funplexes
 fur
+furanose
 furanoside
 furbearer
 furbearers
@@ -33823,6 +33835,7 @@ headwaiters
 headways
 headwinds
 headwords
+headworks
 heady
 healed
 healer
@@ -35771,6 +35784,7 @@ hydrids
 hydrilla
 hydrillas
 hydrobiologies
+hydrobiology
 hydrocarbons
 hydroceles
 hydrocephalus
@@ -38768,6 +38782,7 @@ intonational
 intoner
 intoners
 intoning
+intoxicate
 intoxications
 intracardiac
 intracardial
@@ -41732,6 +41747,7 @@ laxest
 laxness
 laxnesses
 lay
+layaway
 layaways
 layer
 layerages
@@ -48578,6 +48594,7 @@ nails
 nainsook
 nainsooks
 naira
+nairu
 nairus
 naissance
 naissances
@@ -49514,6 +49531,7 @@ noble
 nobleman
 noblesses
 noblest
+noblewomen
 nobody
 nobs
 nocked
@@ -52568,6 +52586,7 @@ outsteered
 outsteers
 outstood
 outstretching
+outstridden
 outstrides
 outstripped
 outstripping
@@ -53609,6 +53628,7 @@ oxysomes
 oxytetracycline
 oxytocins
 oxytones
+oxyuriases
 oyes
 oyez
 oyezes
@@ -55148,6 +55168,7 @@ pelerine
 peles
 pelisse
 pelisses
+pelites
 pellagrins
 pellagrous
 pelletal
@@ -55193,6 +55214,7 @@ penalizes
 penalizing
 penalty
 penanced
+penancing
 penates
 pencel
 pencels
@@ -55235,6 +55257,7 @@ penguin
 penguins
 penholder
 penial
+penicil
 penicillate
 penicillin
 penicillinase
@@ -61151,6 +61174,7 @@ quangos
 quant
 quanta
 quantal
+quantally
 quantifies
 quanting
 quantitate
@@ -64045,6 +64069,7 @@ renowning
 rentabilities
 rentable
 rente
+rented
 renter
 rentes
 rentiers
@@ -64568,6 +64593,7 @@ reship
 reshipped
 reshipper
 reshipping
+reships
 reshod
 reshoe
 reshoed
@@ -64580,6 +64606,7 @@ reshowed
 reshowered
 reshowers
 reshowing
+reshown
 reshows
 reshuffled
 reshuffling
@@ -66012,6 +66039,7 @@ roorback
 roosed
 rooser
 rooses
+roosts
 root
 rootages
 rootcaps
@@ -67743,6 +67771,7 @@ scoliosis
 scollop
 scolloping
 scollops
+scolopendra
 scolopendras
 scombrids
 sconcheons
@@ -70185,6 +70214,7 @@ sink
 sinkers
 sinkholes
 sinking
+sinless
 sinlessly
 sinlessnesses
 sinned
@@ -70953,6 +70983,7 @@ smaragdites
 smarm
 smarmier
 smarminesses
+smarms
 smart
 smartass
 smarter
@@ -78113,6 +78144,7 @@ tiddlers
 tiddly
 tide
 tided
+tidelands
 tideless
 tidelike
 tidemarks
@@ -82420,6 +82452,7 @@ unselling
 unsells
 unsensational
 unsentimental
+unserious
 unserved
 unsetting
 unsettle
@@ -82803,6 +82836,7 @@ updates
 updating
 updived
 updives
+updiving
 updraft
 upending
 upflinging
@@ -83917,6 +83951,7 @@ vibrionic
 vibrios
 vibrioses
 vibriosis
+vibrissa
 vibronic
 vicarage
 vicarate
