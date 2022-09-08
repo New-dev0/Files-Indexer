@@ -2979,6 +2979,7 @@ antigen
 antigene
 antigenic
 antigenically
+antigenicities
 antiglare
 antigraft
 antigrowth
@@ -11354,6 +11355,7 @@ cavalryman
 cavalrymen
 cavatina
 cavatine
+cave
 caveating
 caved
 cavelike
@@ -14947,6 +14949,7 @@ conepatls
 confab
 confabbed
 confabbing
+confabs
 confabulates
 confabulating
 confabulations
@@ -19968,6 +19971,7 @@ detained
 detainees
 detainers
 detaining
+detainments
 detains
 detect
 detectabilities
@@ -21258,6 +21262,7 @@ dishing
 dishonesties
 dishonesty
 dishonorer
+dishonoring
 dishonors
 dishpan
 dishpans
@@ -24974,6 +24979,7 @@ epigraphy
 epigynies
 epigynous
 epilate
+epilated
 epilates
 epilating
 epilation
@@ -27643,6 +27649,7 @@ fila
 filagree
 filagreeing
 filagrees
+filament
 filamentary
 filamentous
 filaments
@@ -28941,6 +28948,7 @@ foredid
 foredoing
 foreface
 forefaces
+forefather
 forefeel
 forefend
 forefending
@@ -31015,6 +31023,7 @@ ghostings
 ghostliest
 ghostliness
 ghostly
+ghostwrite
 ghostwriter
 ghostwriters
 ghostwriting
@@ -31473,6 +31482,7 @@ glory
 glorying
 glossal
 glossarial
+glossarist
 glossarists
 glossator
 glossators
@@ -32407,6 +32417,7 @@ gringa
 gringos
 grinner
 grins
+griot
 griots
 grip
 griped
@@ -33483,6 +33494,7 @@ hardedge
 harden
 hardener
 hardeners
+hardenings
 hardfisted
 hardhack
 hardhacks
@@ -38499,6 +38511,7 @@ interjoins
 interknitting
 interknot
 interknots
+interlace
 interlaced
 interlacements
 interlacing
@@ -38766,6 +38779,7 @@ intinction
 intinctions
 intines
 intis
+intitle
 intitling
 intitule
 intituled
@@ -40185,6 +40199,7 @@ kaddishim
 kadi
 kadis
 kae
+kaf
 kaffir
 kaffiyahs
 kaffiyeh
@@ -41993,6 +42008,7 @@ legitimize
 legitimized
 legitimizers
 legitimizes
+legless
 legongs
 legrooms
 legume
@@ -51242,6 +51258,7 @@ olefinic
 oleic
 oleine
 oleins
+oleograph
 oleographs
 oleoresins
 olestras
@@ -53379,6 +53396,7 @@ overspins
 overspreading
 overstaff
 overstaffed
+overstate
 overstates
 overstayed
 overstays
@@ -56613,6 +56631,7 @@ piers
 pies
 pieta
 pieties
+pietist
 pietistic
 pietistically
 piezoelectric
@@ -56784,6 +56803,7 @@ pinkness
 pinknesses
 pinko
 pinkoes
+pinkos
 pinkroot
 pinks
 pinky
@@ -57113,6 +57133,7 @@ plangencies
 plangency
 plangently
 planimeter
+planimeters
 planimetrically
 planish
 planishers
@@ -61674,6 +61695,7 @@ raggedier
 raggediest
 raggedly
 raggies
+ragging
 raggle
 raggy
 ragi
@@ -62991,6 +63013,7 @@ redshirt
 redshirts
 redskin
 redskins
+redstarts
 redtail
 redtop
 redtops
@@ -72216,6 +72239,7 @@ speedsters
 speedup
 speedwell
 speedwells
+speeled
 speeling
 speered
 speering
@@ -72356,6 +72380,7 @@ spiked
 spikelike
 spikenards
 spikers
+spikes
 spikily
 spiks
 spiky
@@ -74401,6 +74426,7 @@ subdivision
 subdominant
 subdominants
 subdual
+subduals
 subduce
 subduced
 subduces
@@ -76683,6 +76709,7 @@ tarmacadam
 tarmacked
 tarmacs
 tarnal
+tarnations
 tarnish
 tarnishes
 tarns
@@ -77526,6 +77553,7 @@ tetrazoliums
 tetrazzini
 tetrode
 tetrodes
+tetrodotoxin
 tetrodotoxins
 tetroxid
 tetroxide
@@ -77672,6 +77700,7 @@ theoretically
 theories
 theorises
 theorists
+theorization
 theorize
 theorized
 theosophically
@@ -80064,6 +80093,7 @@ trumpeter
 truncating
 truncations
 truncheon
+truncheoned
 truncheons
 trundle
 trundling
@@ -82977,6 +83007,7 @@ upstepped
 upstepping
 upsteps
 upstir
+upstirred
 upstirs
 upstood
 upstroke
@@ -83921,6 +83952,7 @@ vexers
 vexil
 vexilla
 vexillologic
+vexillological
 vexillologist
 vexillologists
 viability
@@ -83988,6 +84020,7 @@ victim
 victimised
 victimising
 victimization
+victimizations
 victimized
 victimizes
 victimless
@@ -85313,6 +85346,7 @@ welladays
 wellaway
 wellborn
 wellcurb
+welled
 wellholes
 wellhouse
 wellies
@@ -86064,6 +86098,7 @@ wizen
 wizened
 wizes
 wizzen
+woaded
 woadwaxes
 woald
 woalds
