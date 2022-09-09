@@ -1637,6 +1637,7 @@ aliform
 alifs
 alighted
 alighting
+alights
 align
 aligners
 alignment
@@ -2431,6 +2432,7 @@ anaphylaxis
 anaplasias
 anaptyxes
 anarch
+anarchical
 anarchically
 anarchies
 anarchism
@@ -4205,6 +4207,7 @@ asphalts
 aspherical
 asphodels
 asphyxias
+asphyxiates
 asphyxiating
 asphyxies
 aspics
@@ -4240,6 +4243,7 @@ assassinates
 assassinating
 assassination
 assassinator
+assassinators
 assaulting
 assaultive
 assaultively
@@ -8897,6 +8901,7 @@ brazilwood
 brazing
 breacher
 breachers
+breaches
 breaching
 breadbaskets
 breadboard
@@ -11949,6 +11954,7 @@ chance
 chanced
 chanceful
 chancel
+chancellories
 chancellorship
 chancellory
 chancer
@@ -15168,6 +15174,7 @@ confident
 confidentially
 confides
 confiding
+confidingness
 configuration
 configurations
 configurative
@@ -15742,6 +15749,7 @@ contumaciously
 contumacy
 contumelies
 contused
+contuses
 conundrum
 conurbations
 convalescence
@@ -17248,6 +17256,7 @@ croissant
 crojik
 crojiks
 cromlech
+cromlechs
 crone
 cronyisms
 crook
@@ -22456,6 +22465,7 @@ doublespeak
 doublespeakers
 doublethinks
 doublets
+doubloon
 doubloons
 doublures
 doubted
@@ -24519,6 +24529,7 @@ encryption
 encryptions
 enculturate
 enculturated
+enculturation
 encumbered
 encumbrancer
 encyclic
@@ -24852,6 +24863,7 @@ enplane
 enplaned
 enquired
 enquires
+enquiry
 enrage
 enragedly
 enraging
@@ -24930,6 +24942,7 @@ ensphered
 ensphering
 enstatite
 ensued
+ensues
 ensure
 ensured
 ensurer
@@ -28048,6 +28061,7 @@ filthinesses
 filtrated
 fimbrial
 fimbriate
+fimbriation
 fimbriations
 fin
 finagle
@@ -33708,6 +33722,7 @@ handicapping
 handicaps
 handicrafters
 handicrafts
+handicraftsman
 handinesses
 handing
 handiwork
@@ -41823,6 +41838,7 @@ landgrave
 landgraves
 landholder
 landholders
+landholding
 landings
 landladies
 landlady
@@ -42572,6 +42588,7 @@ leses
 lesion
 lesioning
 lessee
+lessening
 lessens
 lessor
 letch
@@ -45583,6 +45600,7 @@ megatonnage
 megatonnages
 megavitamin
 megavolt
+megawatt
 megilla
 megillahs
 megilph
@@ -49094,6 +49112,7 @@ nabobisms
 nabobs
 nacho
 nacre
+nacred
 nada
 nadas
 nadir
@@ -52002,6 +52021,7 @@ opals
 opaqued
 opaquely
 opaqueness
+opaquenesses
 opaquer
 opaquing
 ope
@@ -53080,6 +53100,7 @@ outscore
 outscored
 outscores
 outscoring
+outscorn
 outscorns
 outscreaming
 outseeing
@@ -57636,6 +57657,7 @@ pizzelles
 pizzeria
 pizzle
 pizzles
+placably
 placard
 placarding
 placated
@@ -62141,6 +62163,7 @@ rabbet
 rabbeted
 rabbies
 rabbin
+rabbinate
 rabbinical
 rabbins
 rabbit
@@ -64758,6 +64781,7 @@ rennets
 rennin
 renographic
 renography
+renominating
 renotified
 renotifies
 renotify
@@ -66229,6 +66253,7 @@ ribonuclease
 ribonucleoside
 ribonucleotide
 ribose
+ribosome
 ribosomes
 ribozyme
 ribozymes
@@ -68699,6 +68724,7 @@ scrimpily
 scrimping
 scrimpit
 scrimpy
+scrims
 scrimshanders
 scrimshaw
 scrimshaws
@@ -69834,6 +69860,7 @@ shadoofs
 shadowbox
 shadowboxed
 shadowboxes
+shadowboxing
 shadowed
 shadower
 shadowgraphies
@@ -70616,6 +70643,7 @@ sicced
 siccing
 sice
 sices
+sickbays
 sickbed
 sicked
 sickee
@@ -71364,6 +71392,7 @@ slamdancing
 slammer
 slamming
 slams
+slander
 slanderers
 slanderous
 slanderously
@@ -78315,6 +78344,7 @@ testing
 testons
 testoons
 testosterone
+tests
 testudines
 testudo
 tet
@@ -80342,6 +80372,7 @@ tremulousnesses
 trenail
 trencher
 trenchers
+trenches
 trenching
 trendier
 trendies
@@ -80493,6 +80524,7 @@ tricksiness
 trickster
 tricksters
 tricksy
+triclads
 triclinia
 triclinic
 triclinium
@@ -81233,6 +81265,7 @@ turnoffs
 turnon
 turnons
 turnouts
+turnover
 turnovers
 turnpikes
 turns
@@ -84096,6 +84129,7 @@ uvulars
 uvulas
 uvulitis
 uxorially
+uxoricide
 uxoriously
 uxoriousnesses
 vacant
@@ -85186,6 +85220,7 @@ vital
 vitalised
 vitalising
 vitalism
+vitalisms
 vitalistic
 vitalists
 vitalities
