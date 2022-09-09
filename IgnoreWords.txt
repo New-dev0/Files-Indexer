@@ -1724,6 +1724,7 @@ allelomorphs
 allelopathies
 allergen
 allergenic
+allergenicities
 allergenicity
 allergens
 allergic
@@ -5276,6 +5277,7 @@ backslapped
 backslapper
 backslappers
 backslaps
+backslide
 backslides
 backspace
 backspaced
@@ -10341,6 +10343,7 @@ camellike
 camelopards
 camerae
 camerapersons
+camerlengos
 cames
 camions
 camisa
@@ -12897,6 +12900,7 @@ cicatrization
 cicatrize
 cicatrizing
 cicerone
+cicerones
 ciceroni
 cichlid
 cichlids
@@ -14220,6 +14224,7 @@ collaret
 collarless
 collars
 collated
+collateral
 collateralize
 collateralized
 collateralizes
@@ -14760,6 +14765,7 @@ complimenting
 complin
 complines
 complot
+complots
 complying
 compo
 compone
@@ -15625,6 +15631,7 @@ contraries
 contrarieties
 contrariety
 contrarinesses
+contrastable
 contrasted
 contrastive
 contrasts
@@ -21895,6 +21902,7 @@ divertimentos
 diverting
 divertissement
 divertissements
+diverts
 dives
 divestitures
 divests
@@ -24627,6 +24635,7 @@ engorge
 engorges
 engorging
 engraft
+engraftment
 engraftments
 engrafts
 engrail
@@ -26096,6 +26105,7 @@ excipients
 exciple
 excise
 excised
+exciseman
 excisemen
 excises
 excision
@@ -27948,6 +27958,7 @@ fines
 finesse
 finesses
 finessing
+finest
 finfish
 finfishes
 finfoot
@@ -28898,6 +28909,7 @@ foldaways
 foldboat
 foldboats
 folderol
+folderols
 foldout
 foldup
 foley
@@ -28992,6 +29004,7 @@ footbridge
 footbridges
 footcloths
 footdraggers
+footfault
 footfaults
 foothill
 foothills
@@ -29047,6 +29060,7 @@ foozles
 foozling
 fopped
 fopperies
+fopping
 foppish
 foppishly
 fops
@@ -30026,6 +30040,7 @@ fulmines
 fulminic
 fulness
 fulnesses
+fulsome
 fulsomenesses
 fulvous
 fumarase
@@ -37776,6 +37791,7 @@ indulge
 indulgers
 indulin
 induline
+indulines
 indult
 indults
 indurated
@@ -42577,6 +42593,7 @@ licencing
 licensable
 licensed
 licensees
+licensers
 licenses
 licensors
 licensures
@@ -43604,6 +43621,7 @@ lowermost
 lowers
 lowery
 lowes
+lowish
 lowlander
 lowlanders
 lowlands
@@ -44713,6 +44731,7 @@ margravines
 marguerite
 mariachi
 mariachis
+maricultures
 mariculturists
 marijuana
 marijuanas
@@ -46681,6 +46700,7 @@ misavers
 misaward
 misawarding
 misawards
+misbalance
 misbalances
 misbecomes
 misbecoming
@@ -49086,6 +49106,7 @@ nativities
 natriureses
 natriuresis
 natriuretic
+natriuretics
 natron
 natrons
 natter
@@ -49125,6 +49146,7 @@ nauseously
 nautch
 nautches
 nautical
+nautically
 nautili
 nautiloids
 nautilus
@@ -54367,6 +54389,7 @@ pamperers
 pamphlet
 pamphleteer
 pamphleteered
+pamphleteering
 pams
 panaceas
 panaches
@@ -56364,6 +56387,7 @@ phatically
 phatter
 pheasants
 phellems
+phellogens
 phelonia
 phelonion
 phenacetins
@@ -64188,6 +64212,7 @@ relent
 relets
 reletter
 relettering
+reletters
 reletting
 relevance
 relevances
@@ -67371,6 +67396,7 @@ samiel
 samiels
 samisen
 samisens
+samite
 samizdat
 samlet
 samosas
@@ -67465,6 +67491,7 @@ sanger
 sangers
 sangh
 sanghs
+sangria
 sanguinarias
 sanguine
 sanguinely
@@ -68335,6 +68362,7 @@ scrappinesses
 scrapping
 scrapple
 scrapples
+scrappy
 scraps
 scratchboard
 scratchboards
@@ -74119,6 +74147,7 @@ stockists
 stockjobber
 stockjobbers
 stockman
+stockpile
 stockpiled
 stockpilers
 stockpot
@@ -76123,6 +76152,7 @@ surrounding
 surrounds
 surtax
 surtaxes
+surveil
 surveillants
 surveilled
 surveils
@@ -76903,6 +76933,7 @@ tails
 tailskids
 tailslide
 tailspin
+tailspins
 tailwater
 tailwaters
 tailwinds
@@ -77095,6 +77126,7 @@ tantalates
 tantalises
 tantalites
 tantalize
+tantalizers
 tantalizes
 tantalizing
 tantalum
@@ -77561,6 +77593,7 @@ telethons
 teletype
 teletypes
 teletypewriters
+teleutospore
 teleutospores
 televangelisms
 televangelist
@@ -78448,6 +78481,7 @@ threnodist
 threnodists
 threonines
 thresher
+thresholds
 thriftily
 thriftinesses
 thriftless
@@ -79508,6 +79542,7 @@ tracheated
 tracheids
 tracheitis
 tracheostomies
+tracheostomy
 tracheotomies
 tracheotomy
 trachled
