@@ -863,6 +863,7 @@ advantage
 advantaged
 advantageous
 advantages
+advantaging
 advect
 advection
 advective
@@ -2039,6 +2040,7 @@ ambisexuals
 ambitioned
 ambitionless
 ambitions
+ambitiously
 ambitiousnesses
 ambits
 ambivalence
@@ -9050,6 +9052,7 @@ briefed
 briefing
 briefings
 briefless
+briefness
 brierroots
 briery
 bries
@@ -12669,6 +12672,7 @@ choired
 choiring
 choirs
 chokeberries
+chokeberry
 chokebore
 chokecherries
 chokecherry
@@ -15215,6 +15219,7 @@ conform
 conformance
 conformation
 conformer
+conformers
 conformism
 conformist
 conformists
@@ -16021,6 +16026,7 @@ copying
 copyist
 copyists
 copyreading
+copyright
 copyrighted
 copyrighting
 copywriter
@@ -19357,6 +19363,7 @@ deionizes
 deionizing
 deism
 deistically
+deists
 deities
 deity
 deixises
@@ -21824,6 +21831,7 @@ dissimulated
 dissimulates
 dissimulation
 dissimulations
+dissimulator
 dissimulators
 dissipate
 dissipated
@@ -24613,6 +24621,7 @@ endometriosis
 endometritis
 endomitoses
 endomixis
+endomixises
 endomorphic
 endomorphies
 endomorphs
@@ -27111,6 +27120,7 @@ fallibly
 falling
 falloff
 fallow
+falsefaces
 falsehood
 falsely
 falsenesses
@@ -41333,6 +41343,7 @@ knockabouts
 knockdown
 knockless
 knockouts
+knocks
 knockwursts
 knolled
 knollers
@@ -43067,6 +43078,7 @@ lingerers
 lingerie
 lingeringly
 lingers
+lingiest
 lingo
 lingonberry
 lingually
@@ -43804,6 +43816,7 @@ lovingly
 lovingnesses
 lowballed
 lowballing
+lowballs
 lowboys
 lowbred
 lowbrows
@@ -46026,6 +46039,7 @@ metallics
 metalliferous
 metalling
 metallists
+metallizations
 metallize
 metallizes
 metallizing
@@ -46118,6 +46132,7 @@ methanols
 methaqualone
 methaqualones
 methedrine
+metheglins
 methemoglobin
 methemoglobins
 methicillins
@@ -47307,6 +47322,7 @@ misrecorded
 misrecording
 misrecords
 misrefer
+misreference
 misreferences
 misreferred
 misreferring
@@ -48928,6 +48944,7 @@ mutinousnesses
 mutiny
 mutinying
 mutisms
+muts
 mutt
 muttered
 mutterers
@@ -52241,6 +52258,7 @@ ordains
 ordeals
 order
 ordered
+orderer
 orderers
 ordering
 orderless
@@ -54996,6 +55014,7 @@ parathions
 paratroop
 paratrooper
 paratroops
+paratyphoid
 paravanes
 parawings
 parbakes
@@ -55809,6 +55828,7 @@ pelletizer
 pelletizers
 pelletizes
 pellicle
+pellmells
 pellucid
 pelmets
 peloric
@@ -59074,6 +59094,7 @@ pouchiest
 poufed
 pouffes
 pouffs
+poufs
 poulard
 poularde
 poult
@@ -60409,6 +60430,7 @@ products
 proem
 proestruses
 proettes
+profamily
 profanation
 profanatory
 profane
@@ -62919,6 +62941,7 @@ ream
 reamer
 reaming
 reanalyses
+reanalyze
 reanimate
 reanimated
 reanimation
@@ -64869,6 +64892,7 @@ repanel
 repaneled
 repaneling
 repanelled
+repanels
 repapering
 repapers
 reparation
@@ -66132,6 +66156,7 @@ rhaphae
 rhaphe
 rhaphes
 rhapsodical
+rhapsodize
 rhatany
 rhematic
 rheme
@@ -70470,6 +70495,7 @@ shovellers
 shovelling
 shovels
 shovelsful
+shover
 shoves
 shoving
 showable
@@ -74994,6 +75020,7 @@ stud
 studded
 studdings
 studentships
+studier
 studiers
 studio
 studiousnesses
@@ -76348,6 +76375,7 @@ suppletory
 suppliantly
 supplications
 supplies
+supplying
 support
 supportable
 supported
@@ -78834,6 +78862,7 @@ thrilled
 thrillers
 thrilling
 thrillingly
+thrip
 thrive
 thrived
 thriven
@@ -79509,6 +79538,7 @@ tonicities
 tonicity
 tonics
 tonier
+toning
 tonishly
 tonnage
 tonneau
@@ -79600,6 +79630,7 @@ topographs
 topological
 topologically
 topologists
+toponym
 toponymic
 toponymical
 toponymies
@@ -80227,6 +80258,7 @@ trapesing
 trapeze
 trapezist
 trapezium
+trapezius
 trapezohedra
 trapezohedrons
 trapezoid
@@ -80436,6 +80468,7 @@ triathletes
 triathlon
 triathlons
 triaxial
+triaxialities
 triazin
 triazoles
 tribades
@@ -80831,6 +80864,7 @@ trooper
 troopers
 troopials
 troostite
+troostites
 tropaeolums
 trope
 tropeolins
@@ -87382,6 +87416,7 @@ wricked
 wried
 wrier
 wries
+wriggled
 wriggler
 wright
 wrights
