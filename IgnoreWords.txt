@@ -885,6 +885,7 @@ adverseness
 adversity
 adverted
 advertent
+adverting
 advertisement
 advertises
 advertising
@@ -1491,6 +1492,7 @@ alarms
 alarum
 alaruming
 alarums
+alary
 alas
 alaska
 alated
@@ -3131,6 +3133,7 @@ antiquates
 antiquations
 antique
 antiquely
+antiquer
 antiques
 antiquing
 antiquities
@@ -4532,6 +4535,7 @@ atonally
 atone
 atoneable
 atoned
+atoners
 atonicity
 atonics
 atoningly
@@ -5612,6 +5616,7 @@ bankcard
 bankits
 banknote
 bankrolled
+bankrollers
 bankrolling
 bankrupt
 bankruptcies
@@ -6995,6 +7000,7 @@ bicentenaries
 bicentenary
 bicentric
 biceps
+bicepses
 bices
 bichromated
 bichromates
@@ -7234,6 +7240,7 @@ biocide
 biocides
 biocoenoses
 biocoenosis
+bioconversions
 biocycle
 biodegradable
 biodegradation
@@ -9564,6 +9571,7 @@ bumpiness
 bumpinesses
 bumpkinly
 bumpkins
+bumptious
 bumptiousness
 bumptiousnesses
 bumpy
@@ -11981,6 +11989,7 @@ chaperoning
 chaperons
 chapes
 chapiter
+chaplaincies
 chaplains
 chapman
 chapmen
@@ -16001,6 +16010,7 @@ corby
 cord
 cordages
 cordate
+cordelle
 corder
 corders
 cordialities
@@ -16664,6 +16674,7 @@ covetingly
 covetousnesses
 covets
 coveys
+covin
 covins
 cow
 cowardliness
@@ -19990,6 +20001,7 @@ desiccation
 desiccations
 desiccative
 desiccators
+desiderata
 desiderate
 desiderated
 desiderating
@@ -20739,6 +20751,7 @@ digitate
 digitated
 digitately
 digitigrade
+digitizations
 digitize
 digitized
 digitizer
@@ -31477,6 +31490,7 @@ glaciate
 glaciated
 glaciating
 glaciations
+glacier
 glaciered
 glaciers
 glaciologies
@@ -35345,6 +35359,7 @@ homospories
 homotaxes
 homothallic
 homotransplants
+homozygosis
 homozygosities
 homozygote
 homozygotes
@@ -37218,6 +37233,7 @@ impressibility
 impressible
 impressing
 impression
+impressionable
 impressionist
 impressionists
 impressions
@@ -47029,6 +47045,7 @@ miskeep
 misknew
 misknowledge
 misknown
+misknows
 mislabel
 mislabeling
 mislabelling
@@ -47176,6 +47193,7 @@ misrepresents
 misroute
 misroutes
 misrule
+misrules
 miss
 missable
 missaid
@@ -48008,6 +48026,7 @@ morphemics
 morphia
 morphias
 morphic
+morphines
 morphing
 morphinic
 morphinisms
@@ -55106,6 +55125,7 @@ passional
 passionals
 passionless
 passivate
+passivating
 passivations
 passive
 passively
@@ -55370,6 +55390,7 @@ paygrade
 payload
 paymasters
 payment
+paynims
 payoff
 payoffs
 payors
@@ -60208,6 +60229,7 @@ produce
 produced
 producers
 produces
+producible
 productional
 productions
 productive
@@ -61259,6 +61281,7 @@ purdahs
 purebred
 purebreds
 puree
+pureed
 pureeing
 pureness
 purfle
@@ -62157,6 +62180,7 @@ raft
 rafted
 raftered
 rafting
+raga
 ragamuffin
 ragamuffins
 ragas
@@ -63233,6 +63257,7 @@ recouping
 recoupling
 recoupment
 recoups
+recourse
 recourses
 recover
 recovered
@@ -63315,6 +63340,7 @@ recusals
 recusancies
 recusant
 recusants
+recuse
 recused
 recut
 recyclables
@@ -63507,6 +63533,7 @@ redtail
 redtop
 redtops
 redubbed
+redubbing
 redubs
 reduce
 reduced
@@ -67616,6 +67643,7 @@ santolina
 santolinas
 santols
 santonica
+santonin
 santoor
 sapajou
 sapajous
@@ -69499,6 +69527,7 @@ sestertium
 sestine
 seta
 setae
+setbacks
 setenants
 setiform
 setline
@@ -71732,6 +71761,7 @@ snares
 snarfing
 snarfs
 snaring
+snarkily
 snarl
 snarler
 snarlers
@@ -73653,6 +73683,7 @@ stalky
 stall
 stallholder
 stallion
+stalwartness
 stalwartnesses
 stalworths
 stamened
@@ -83567,6 +83598,7 @@ uppercuts
 uppercutting
 uppermost
 uppers
+uppile
 uppings
 uppishnesses
 uppitiness
@@ -86022,6 +86054,7 @@ wennier
 wenny
 went
 wentletrap
+wentletraps
 weregilds
 werewolf
 werewolves
@@ -86920,6 +86953,7 @@ woopsed
 woopses
 wooralis
 woorari
+woos
 woozier
 woozily
 woozinesses
@@ -87096,6 +87130,7 @@ wrestled
 wrestler
 wrestlers
 wrestlings
+wretch
 wretcheder
 wretchedest
 wretchedness
