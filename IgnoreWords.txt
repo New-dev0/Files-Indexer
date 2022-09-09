@@ -4213,6 +4213,7 @@ assailant
 assailed
 assailer
 assailing
+assails
 assais
 assassin
 assassinates
@@ -7406,6 +7407,7 @@ birthdays
 birthed
 birthings
 birthmark
+birthmarks
 birthname
 birthplace
 birthplaces
@@ -8200,6 +8202,7 @@ bombshell
 bombsights
 bombycid
 bombycids
+bombyx
 bonaci
 bonanza
 bonanzas
@@ -8692,6 +8695,7 @@ brad
 bradawl
 bradoon
 bradycardia
+bradykinin
 braggadocio
 braggart
 braggers
@@ -9427,6 +9431,7 @@ bugling
 bugloss
 bugseed
 bugseeds
+buhl
 buhls
 buhlwork
 buhlworks
@@ -10340,6 +10345,7 @@ cames
 camions
 camisa
 camisade
+camisados
 camise
 camises
 camlet
@@ -11820,6 +11826,7 @@ chalazion
 chalazions
 chalcedonies
 chalcedony
+chalcids
 chalcocite
 chalcogen
 chalcogenides
@@ -12127,6 +12134,7 @@ cheapnesses
 cheapskate
 cheapskates
 cheated
+cheater
 cheaters
 cheats
 chebec
@@ -12435,6 +12443,7 @@ chinchy
 chine
 chines
 chining
+chinkapin
 chinkapins
 chinked
 chinking
@@ -13375,6 +13384,7 @@ clew
 clewed
 cliche
 clicker
+clickers
 clicks
 clickwrap
 clientages
@@ -14121,6 +14131,7 @@ coinsured
 coinsurer
 coinsurers
 coinsures
+cointer
 cointerring
 cointreau
 cointreaus
@@ -14496,6 +14507,7 @@ comingles
 comitia
 comitial
 comities
+comity
 comma
 commandants
 commandeer
@@ -21486,6 +21498,7 @@ disorderedness
 disordering
 disorderliness
 disorganize
+disorganized
 disorient
 disorientate
 disorienting
@@ -21646,6 +21659,7 @@ disseized
 disseizes
 disseizing
 disseizins
+dissemblers
 dissembles
 disseminate
 disseminated
@@ -21716,6 +21730,7 @@ dissuaded
 dissuader
 dissuaders
 dissuading
+dissuasive
 dissuasively
 dissuasiveness
 dissyllable
@@ -25980,6 +25995,7 @@ evolvement
 evolving
 evonymus
 evonymuses
+evulse
 evulsed
 evulsing
 evulsion
@@ -35970,6 +35986,7 @@ hybris
 hybristic
 hydathodes
 hydra
+hydracids
 hydrae
 hydralazine
 hydralazines
@@ -36347,6 +36364,7 @@ hypotenuses
 hypothalamic
 hypothalamus
 hypothecates
+hypothecating
 hypothecation
 hypothecator
 hypothecators
@@ -40197,6 +40215,7 @@ journeymen
 journo
 jousting
 jousts
+jovialty
 jow
 jowars
 jowl
@@ -46974,6 +46993,7 @@ mismeets
 mismove
 misname
 misnamed
+misnaming
 misnomer
 misnomered
 misnomers
@@ -47329,6 +47349,7 @@ modernised
 modernising
 modernities
 modernize
+modernizers
 modernizing
 modernly
 modernness
@@ -51970,6 +51991,7 @@ ordered
 orderers
 ordering
 orderless
+orderlies
 orderliness
 orderlinesses
 orderly
@@ -55249,6 +55271,7 @@ payback
 paycheck
 paychecks
 paydays
+payee
 payees
 payer
 paygrade
@@ -55360,6 +55383,7 @@ pecking
 peckish
 peckishly
 pecky
+pecorini
 pecorino
 pecs
 pecten
@@ -63984,6 +64008,7 @@ reinflates
 reinflating
 reinflations
 reinforce
+reinforcement
 reinforcing
 reinforming
 reinfuses
@@ -66481,6 +66506,7 @@ roque
 roqueted
 roqueting
 roquets
+rorquals
 rosacea
 rosaceas
 rosanilin
@@ -66930,6 +66956,7 @@ rustinesses
 rusting
 rustle
 rustler
+rustlers
 rustles
 rustless
 rustproof
@@ -70771,6 +70798,7 @@ skatoles
 skatols
 skeanes
 skeans
+skedaddlers
 skedaddles
 skedaddling
 skeed
@@ -71863,6 +71891,7 @@ socializations
 socialize
 socializer
 socializes
+socializing
 socially
 societally
 society
@@ -75382,6 +75411,7 @@ suffixed
 suffixes
 suffixions
 sufflates
+sufflating
 suffocated
 suffocates
 suffocatingly
@@ -77044,6 +77074,7 @@ tankard
 tankards
 tankas
 tanker
+tankful
 tankfuls
 tanking
 tankinis
@@ -78328,6 +78359,7 @@ thitherwards
 thole
 tholed
 tholeiite
+tholeiitic
 tholepin
 tholing
 tholoi
@@ -80952,6 +80984,7 @@ tweener
 tweeners
 tweeness
 tweenesses
+tweenies
 tweet
 tweets
 tweezer
@@ -83693,6 +83726,7 @@ uvula
 uvularly
 uvulars
 uvulas
+uvulitis
 uxorially
 uxoriously
 uxoriousnesses
@@ -85929,6 +85963,7 @@ wheelless
 wheelman
 wheelmen
 wheels
+wheelsman
 wheelsmen
 wheelwrights
 wheen
