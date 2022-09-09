@@ -1482,6 +1482,7 @@ alarmisms
 alarmist
 alarms
 alarum
+alaruming
 alarums
 alas
 alaska
@@ -4661,6 +4662,7 @@ audiologic
 audiologist
 audiologists
 audiology
+audiometer
 audiometers
 audiometric
 audiometry
@@ -12940,6 +12942,7 @@ cipherer
 cipherers
 ciphering
 ciphertext
+ciphertexts
 ciphonies
 cipolin
 cipollino
@@ -13275,6 +13278,7 @@ claystone
 claystones
 clayware
 claywares
+clean
 cleanabilities
 cleanability
 cleanable
@@ -14533,6 +14537,7 @@ commissionaire
 commissionaires
 commissioned
 commissioning
+commissures
 commit
 commits
 committeewoman
@@ -14961,6 +14966,7 @@ condemnors
 condensate
 condensations
 condenser
+condensing
 condescend
 condescended
 condescends
@@ -16019,6 +16025,7 @@ cornettists
 cornfield
 cornfields
 cornflakes
+cornflowers
 cornhusk
 cornhuskings
 corniced
@@ -24806,6 +24813,7 @@ enthral
 enthralled
 enthralling
 enthralls
+enthrone
 enthronement
 enthronements
 enthrones
@@ -30087,6 +30095,7 @@ furiously
 furler
 furlers
 furless
+furlong
 furlongs
 furmenties
 furmities
@@ -34402,6 +34411,7 @@ heptagons
 heptameters
 heptane
 heptarchs
+heptarchy
 her
 heralded
 heraldic
@@ -39860,6 +39870,7 @@ jellaba
 jellies
 jellified
 jellify
+jellifying
 jelling
 jello
 jells
@@ -40612,6 +40623,7 @@ keratitises
 keratoid
 keratoma
 keratose
+keratoses
 keratotic
 kerb
 kerbed
@@ -40643,6 +40655,7 @@ kerygmas
 kerygmata
 kerygmatic
 kestrels
+ketch
 ketches
 ketchup
 ketchups
@@ -41461,6 +41474,7 @@ lallan
 lalland
 lallation
 lallations
+lallygag
 lallygags
 lam
 lama
@@ -43814,6 +43828,7 @@ lyophile
 lyophiled
 lyophilises
 lyophilizations
+lyophilize
 lyophilizer
 lyophilizers
 lyophilizes
@@ -43938,6 +43953,7 @@ macrocytosis
 macroeconomic
 macroevolution
 macroevolutions
+macrofossil
 macrofossils
 macroglobulins
 macromere
@@ -44088,6 +44104,7 @@ maharajas
 maharanees
 maharanis
 maharishis
+mahatmas
 mahimahi
 mahimahis
 mahjongs
@@ -47549,6 +47566,7 @@ monograph
 monographic
 monographing
 monographs
+monogynous
 monogyny
 monohybrid
 monohybrids
@@ -47788,6 +47806,7 @@ morass
 morassy
 moratoria
 moratoriums
+moray
 morays
 morbid
 morbidity
@@ -47861,6 +47880,7 @@ morse
 morsel
 morselled
 morselling
+morsels
 mortalities
 mortally
 mortals
@@ -47869,6 +47889,7 @@ mortarboard
 mortarboards
 mortared
 mortarless
+mortarman
 mortarmen
 mortars
 mortgage
@@ -53921,6 +53942,7 @@ pachytene
 pacier
 pacifiable
 pacifical
+pacifically
 pacification
 pacificators
 pacificist
@@ -54642,6 +54664,7 @@ parceled
 parceling
 parcenaries
 parcener
+parceners
 parch
 parcheesis
 parchesis
@@ -61271,6 +61294,7 @@ pyrocatechol
 pyrocatechols
 pyroceram
 pyroclastic
+pyroelectric
 pyroelectricity
 pyrogenic
 pyrogenicities
@@ -61941,6 +61965,7 @@ ragamuffins
 ragas
 ragbag
 rage
+raggeder
 raggedier
 raggediest
 raggedly
@@ -63015,6 +63040,7 @@ recovered
 recoverers
 recoveries
 recovering
+recovers
 recovery
 recrate
 recrated
@@ -67647,6 +67673,7 @@ sawdusty
 sawed
 sawfly
 sawhorse
+sawhorses
 sawing
 sawlike
 sawlog
@@ -68081,6 +68108,7 @@ scollops
 scolopendra
 scolopendras
 scombrids
+sconcheon
 sconcheons
 sconcing
 scone
@@ -68105,6 +68133,7 @@ scoreboard
 scorecard
 scorecards
 scored
+scorekeeper
 scorekeepers
 scorepad
 scoriae
@@ -74859,6 +74888,7 @@ subliminally
 subliming
 sublimits
 sublimity
+sublines
 sublingual
 subliteracies
 subliterary
@@ -80656,6 +80686,7 @@ turbeths
 turbidimetric
 turbidities
 turbidity
+turbidly
 turbinal
 turbinals
 turbinate
@@ -80996,6 +81027,7 @@ tyrannicides
 tyrannised
 tyrannising
 tyrannize
+tyrannized
 tyrannizes
 tyrannosaurs
 tyrannously
@@ -82381,6 +82413,7 @@ unkent
 unkept
 unkind
 unkindest
+unkindled
 unkindlier
 unkindness
 unkissed
@@ -82427,6 +82460,7 @@ unlikelihood
 unlikelihoods
 unlikeness
 unlikenesses
+unlimbering
 unlimbers
 unlimitedly
 unlink
@@ -83253,6 +83287,7 @@ uplighting
 uplink
 uplinking
 uplinks
+uplit
 upload
 uploaded
 uploads
