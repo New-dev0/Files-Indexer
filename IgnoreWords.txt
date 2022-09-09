@@ -2039,6 +2039,7 @@ ambitionless
 ambitions
 ambitiousnesses
 ambits
+ambivalence
 ambivert
 amble
 ambles
@@ -2078,6 +2079,7 @@ ambushments
 amebae
 amebas
 amebiases
+amebiasis
 amebocyte
 amebocytes
 ameboid
@@ -2602,6 +2604,7 @@ angriest
 angrinesses
 angry
 angst
+anguish
 anguished
 anguishes
 angular
@@ -3580,6 +3583,7 @@ appressed
 appressoria
 appressorium
 apprise
+apprised
 appriser
 apprises
 apprising
@@ -4517,6 +4521,7 @@ atmospheric
 atmospherically
 atolls
 atomic
+atomical
 atomically
 atomicities
 atomies
@@ -5506,6 +5511,7 @@ ballistic
 ballistically
 ballistics
 ballonet
+ballonets
 ballooning
 balloonings
 balloted
@@ -5575,6 +5581,7 @@ bandinesses
 banding
 banditry
 banditti
+bandmasters
 bandmate
 bandogs
 bandoleer
@@ -8245,6 +8252,7 @@ bondholders
 bonding
 bondless
 bondmen
+bonds
 bondsmen
 bondstones
 bone
@@ -15867,6 +15875,7 @@ coombs
 cooncan
 coonhound
 coonhounds
+coontie
 cooperages
 cooperated
 cooperates
@@ -17360,6 +17369,7 @@ cruces
 crucial
 crucially
 crucian
+cruciferous
 crucifers
 crucifier
 crucifies
@@ -18463,6 +18473,7 @@ darnings
 darshans
 dart
 dartboards
+darted
 darter
 darters
 dartle
@@ -20597,6 +20608,7 @@ dibber
 dibbing
 dibbled
 dibbuk
+dibbukim
 dibromide
 dibromides
 dicamba
@@ -20935,6 +20947,7 @@ dinitrobenzene
 dinitrophenol
 dinked
 dinkeys
+dinkier
 dinkiest
 dinking
 dinkums
@@ -27225,6 +27238,7 @@ farmhands
 farmhouse
 farmlands
 farmstead
+farmsteads
 farmwife
 farmwives
 farmwork
@@ -27364,6 +27378,7 @@ faux
 fava
 favas
 fave
+favela
 favelas
 favella
 favellas
@@ -27544,6 +27559,7 @@ feloniousness
 felons
 felsic
 felsite
+felspar
 felspars
 felstone
 felstones
@@ -31613,6 +31629,7 @@ glarier
 glariest
 glaring
 glaringly
+glaringness
 glaringnesses
 glary
 glasnost
@@ -34300,6 +34317,7 @@ hector
 hectors
 heddles
 heder
+hedged
 hedgehogs
 hedgehopper
 hedgehopping
@@ -36754,6 +36772,7 @@ illative
 illatively
 illaudably
 illegalities
+illegality
 illegalizing
 illegals
 illegibility
@@ -42273,6 +42292,7 @@ leastways
 leatherbacks
 leathered
 leatherette
+leatherettes
 leathering
 leatherlike
 leathernecks
@@ -48255,6 +48275,7 @@ motorbus
 motorbusses
 motorcaded
 motorcades
+motorcading
 motorcar
 motorcycles
 motorcycling
@@ -50018,6 +50039,7 @@ nits
 nittier
 nittiest
 nitwit
+nitwits
 nixe
 nixies
 nizamates
@@ -52233,6 +52255,7 @@ organizes
 organizing
 organons
 organza
+organzas
 organzine
 organzines
 orgasm
@@ -58115,6 +58138,7 @@ pockmarked
 pockmarks
 pocky
 pococurante
+pocosens
 pocosin
 pocoson
 pod
@@ -59282,6 +59306,7 @@ precipes
 precipice
 precipices
 precipitable
+precipitancy
 precipitated
 precipitately
 precipitateness
@@ -65907,6 +65932,7 @@ revertant
 revertants
 reverter
 reverters
+reverting
 revertive
 revery
 revesting
@@ -66633,6 +66659,7 @@ roller
 rollers
 rollicked
 rollicking
+rollicky
 rolling
 rollings
 rollmop
@@ -66955,6 +66982,7 @@ royster
 roysters
 rub
 rubaboo
+rubaboos
 rubaiyat
 rubasses
 rubatos
@@ -67289,6 +67317,7 @@ sacking
 sackings
 sacklike
 saclike
+sacques
 sacralize
 sacralizing
 sacramental
@@ -68466,6 +68495,7 @@ sconcing
 scone
 scooch
 scooches
+scoop
 scoopers
 scoopful
 scoopsful
@@ -68675,6 +68705,7 @@ scrouge
 scrouged
 scrouges
 scrouging
+scrounged
 scroungier
 scroungiest
 scrounging
@@ -78650,6 +78681,7 @@ thongs
 thoracal
 thoracically
 thoracotomy
+thoria
 thorites
 thorium
 thoriums
@@ -81267,6 +81299,7 @@ tweaky
 tweed
 tweedier
 tweediness
+tweedinesses
 tweedled
 tweedles
 tweedy
@@ -82564,6 +82597,7 @@ unformulated
 unforthcoming
 unfortunately
 unfossiliferous
+unfound
 unfounded
 unframed
 unfree
@@ -84357,6 +84391,7 @@ vats
 vatu
 vatus
 vaudevillians
+vault
 vaulted
 vaulter
 vaulters
