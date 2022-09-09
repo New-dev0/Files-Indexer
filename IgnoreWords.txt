@@ -1364,6 +1364,7 @@ ail
 ailanthic
 ailanthus
 ailing
+ailurophile
 ailurophiles
 ailurophobe
 aimful
@@ -2086,6 +2087,7 @@ ameliorates
 ameliorating
 amelioratory
 ameloblast
+ameloblasts
 amenability
 amenably
 amend
@@ -6836,6 +6838,7 @@ bestrews
 bestrid
 bestrides
 bestriding
+bestrode
 bestrow
 bestrowed
 bestsellerdom
@@ -7076,6 +7079,7 @@ bigeminy
 bigeneric
 bigeyes
 bigfooted
+bigfooting
 biggie
 biggies
 bigging
@@ -14968,6 +14972,7 @@ concession
 concessionaire
 concessionary
 concessions
+concessive
 concha
 conchas
 conchie
@@ -16930,6 +16935,7 @@ creakily
 creakinesses
 creaky
 creamcups
+creamer
 creamers
 creamery
 creamier
@@ -21839,6 +21845,7 @@ distillates
 distillations
 distilleries
 distils
+distinctions
 distinctively
 distinctnesses
 distinguish
@@ -22903,6 +22910,7 @@ drowsinesses
 drowsy
 drub
 drubbed
+drubbers
 drubbings
 drudger
 drudgeries
@@ -23451,6 +23459,7 @@ ebulliences
 ebullient
 ebulliently
 ebullitions
+ecarte
 ecartes
 ecaudate
 eccentrically
@@ -25677,6 +25686,7 @@ estimate
 estimating
 estimative
 estimator
+estimators
 estivated
 estivates
 estivations
@@ -28513,6 +28523,7 @@ fleered
 fleeringly
 fleers
 flees
+fleeter
 fleeting
 fleetingly
 fleetingness
@@ -29754,6 +29765,7 @@ freighting
 fremd
 fremituses
 frena
+frenched
 frenches
 frenchified
 frenchify
@@ -31382,6 +31394,7 @@ gild
 gilded
 gilders
 gildhall
+gilding
 gilds
 gill
 giller
@@ -31997,6 +32010,7 @@ godown
 godroon
 gods
 godships
+godwit
 goer
 goethites
 gofer
@@ -38445,6 +38459,7 @@ insectaries
 insecticides
 insectile
 insectivore
+insects
 insecure
 insecurely
 insecureness
@@ -40765,6 +40780,7 @@ keloidal
 kelpies
 kelping
 kelps
+kelt
 kelter
 kelters
 kelvins
@@ -42206,6 +42222,7 @@ leaker
 leakier
 leakiest
 leakily
+leakiness
 leakinesses
 leakproof
 leaky
@@ -42308,6 +42325,7 @@ leftover
 lefts
 leftward
 leftwards
+leftwing
 lefty
 leg
 legal
@@ -50587,6 +50605,7 @@ nonperformers
 nonperforming
 nonperishable
 nonpersons
+nonpetroleum
 nonphonetic
 nonphotographic
 nonphysician
@@ -51538,6 +51557,7 @@ oddish
 oddity
 oddly
 oddment
+oddments
 oddsmaker
 odeons
 odic
@@ -54776,6 +54796,7 @@ parainfluenza
 parajournalism
 parakeets
 parakite
+paralanguage
 paralanguages
 paraldehyde
 paraldehydes
@@ -55242,6 +55263,7 @@ pastureland
 pasturelands
 pasturers
 pastures
+pasturing
 pat
 patacas
 patagia
@@ -55781,6 +55803,7 @@ penholder
 penial
 penicil
 penicillate
+penicillia
 penicillin
 penicillinase
 penicillins
@@ -57692,6 +57715,7 @@ plasmasols
 plasmatic
 plasmic
 plasminogens
+plasmodesmas
 plasmodesmata
 plasmogamies
 plasmogamy
@@ -61256,6 +61280,7 @@ punctilious
 punctiliously
 punctually
 punctuate
+punctuated
 punctuates
 punctuating
 punctuation
@@ -62588,6 +62613,7 @@ rattleboxes
 rattlebrain
 rattlebrains
 rattler
+rattles
 rattlesnakes
 rattletrap
 rattletraps
@@ -65164,6 +65190,7 @@ resentencing
 resentments
 reserpines
 reservable
+reservationist
 reserve
 reserved
 reservedly
@@ -68429,6 +68456,7 @@ scopolamine
 scopulate
 scorbutic
 scorches
+scorching
 scoreboard
 scorecard
 scorecards
@@ -69616,6 +69644,7 @@ seventhly
 sevenths
 seventies
 seventieths
+seventy
 severability
 severable
 several
@@ -74135,6 +74164,7 @@ stern
 sterner
 sternest
 sternite
+sternly
 sternnesses
 sternocostal
 sternum
@@ -75205,6 +75235,7 @@ sublieutenants
 sublimable
 sublimate
 sublimates
+sublimation
 sublimely
 sublimenesses
 sublimer
@@ -81450,6 +81481,7 @@ ulama
 ulamas
 ulcer
 ulcerate
+ulcerates
 ulceration
 ulcerations
 ulcerative
@@ -81788,6 +81820,7 @@ unbraided
 unbraids
 unbrakes
 unbreakable
+unbred
 unbreech
 unbridle
 unbright
@@ -83134,6 +83167,7 @@ unrip
 unriper
 unripest
 unripped
+unripping
 unrivaled
 unroasted
 unrobe
@@ -85431,6 +85465,7 @@ waffler
 wafflers
 waffliest
 waffling
+wafflings
 waftage
 wafter
 wafters
