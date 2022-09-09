@@ -935,6 +935,7 @@ aeration
 aerations
 aerator
 aerenchymas
+aerialist
 aerie
 aeried
 aeriest
@@ -2281,6 +2282,7 @@ ampullae
 ampullar
 ampullary
 ampuls
+amputate
 amputates
 amputating
 amputator
@@ -9311,6 +9313,7 @@ brumby
 brumous
 brunch
 bruncher
+brunchers
 brunette
 brunettes
 brunizems
@@ -10212,6 +10215,7 @@ calcines
 calcining
 calcinoses
 calcinosis
+calcite
 calcites
 calcitonin
 calcspar
@@ -14418,6 +14422,7 @@ colonnade
 colonnades
 colons
 colonus
+colony
 colophonies
 colophons
 colophony
@@ -15024,6 +15029,7 @@ conclusory
 concocted
 concocter
 concocting
+concoctors
 concomitance
 concomitances
 concomitantly
@@ -18791,6 +18797,7 @@ deceitful
 deceitfully
 deceitfulness
 deceive
+deceivers
 deceives
 deceiving
 decelerate
@@ -19887,6 +19894,7 @@ depriving
 deprogramed
 deprograming
 deprogrammed
+deprogrammer
 deprogramming
 depside
 depth
@@ -21493,6 +21501,7 @@ dishonors
 dishpan
 dishpans
 dishrags
+dishware
 dishwares
 dishwasher
 dishwater
@@ -21888,6 +21897,7 @@ distorts
 distractible
 distracts
 distrained
+distrainer
 distrainors
 distrains
 distraint
@@ -27005,6 +27015,7 @@ fagoter
 fagoters
 fagoting
 fagots
+faience
 fail
 failing
 failingly
@@ -28508,6 +28519,7 @@ flavour
 flavoured
 flavoury
 flaw
+flawier
 flawing
 flawlessly
 flaws
@@ -29719,6 +29731,7 @@ fratricide
 frauds
 fraudulence
 fraudulences
+fraudulentness
 fraught
 fraughting
 fraulein
@@ -30881,6 +30894,7 @@ gather
 gator
 gators
 gauchely
+gauchenesses
 gauchest
 gaucho
 gauchos
@@ -32997,6 +33011,7 @@ gryphon
 gryphons
 guacamoles
 guacharo
+guaiac
 guaiacols
 guaiacs
 guaiocums
@@ -36647,6 +36662,7 @@ identicalness
 identicalnesses
 identifiable
 identifiably
+identification
 identifications
 identified
 identifiers
@@ -42206,6 +42222,7 @@ lazied
 lazier
 lazily
 laziness
+lazuli
 lazulite
 lazybones
 lazying
@@ -42956,6 +42973,7 @@ limitless
 limitlessness
 limitlessnesses
 limits
+limmer
 limmers
 limn
 limner
@@ -49617,6 +49635,7 @@ nereids
 nerol
 neroli
 nervations
+nervature
 nerved
 nervelessnesses
 nerves
@@ -50909,6 +50928,7 @@ nosebag
 nosed
 nosedived
 nosedives
+nosegay
 noseguard
 noseguards
 noseless
@@ -55141,6 +55161,7 @@ participators
 participatory
 participial
 participially
+particle
 particular
 particularise
 particularised
@@ -59322,6 +59343,7 @@ precise
 precised
 precisely
 preciseness
+precisian
 precisians
 precited
 precleaned
@@ -59510,6 +59532,7 @@ prefixions
 preflight
 preflighted
 prefocuses
+prefocusing
 prefocussed
 prefocussing
 preform
@@ -60082,6 +60105,7 @@ pricily
 pricing
 pricked
 prickets
+prickiest
 pricking
 prickings
 prickle
@@ -60353,6 +60377,7 @@ produced
 producers
 produces
 producible
+producing
 productional
 productions
 productive
@@ -63471,6 +63496,7 @@ recusant
 recusants
 recuse
 recused
+recusing
 recut
 recyclables
 recycle
@@ -66396,6 +66422,7 @@ ringmasters
 ringneck
 ringnecks
 ringside
+ringsides
 ringtail
 ringtaw
 ringtaws
@@ -71456,6 +71483,7 @@ sleeved
 sleighed
 sleighs
 sleight
+sleights
 slenderer
 slenderest
 slenderizes
@@ -72551,6 +72579,7 @@ sophs
 sopited
 sopiting
 sopor
+soporiferous
 sopped
 soppier
 soppinesses
@@ -74069,6 +74098,7 @@ steatopygias
 steatorrhea
 steek
 steeked
+steeks
 steelhead
 steelheads
 steelie
@@ -75410,6 +75440,7 @@ subprofessional
 subprogram
 subprograms
 subprojects
+subproletariats
 subpubic
 subraces
 subregion
@@ -78682,6 +78713,7 @@ thoracal
 thoracically
 thoracotomy
 thoria
+thoric
 thorites
 thorium
 thoriums
@@ -80070,6 +80102,7 @@ translators
 transliterate
 transliterated
 transliterates
+transliterating
 transliteration
 translocated
 translocates
@@ -86214,6 +86247,7 @@ welsher
 welshing
 weltanschauungs
 weltering
+welters
 welterweight
 welterweights
 weltings
@@ -87191,6 +87225,7 @@ workweek
 worldbeat
 worldliness
 worldlinesses
+worldlings
 worldly
 worldviews
 wormer
