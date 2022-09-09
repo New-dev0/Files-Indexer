@@ -723,6 +723,7 @@ adjudge
 adjudged
 adjudges
 adjudging
+adjudicate
 adjudicated
 adjudicating
 adjudications
@@ -3693,6 +3694,7 @@ arbitraged
 arbitragers
 arbitrageur
 arbitrament
+arbitrariness
 arbitrarinesses
 arbitrated
 arbitrates
@@ -5969,6 +5971,7 @@ bathmats
 batholith
 batholiths
 bathos
+bathrobe
 bathrobes
 bathroom
 baths
@@ -7960,6 +7963,7 @@ bluffers
 bluffing
 bluffly
 bluffness
+bluffnesses
 bluffs
 bluish
 bluishness
@@ -9057,6 +9061,7 @@ brights
 brightwork
 brilliance
 brilliances
+brilliant
 brilliantines
 brilliants
 brillos
@@ -10734,6 +10739,7 @@ capstans
 capstones
 capsulate
 capsulated
+capsules
 capsulizes
 captain
 captaincies
@@ -13893,6 +13899,7 @@ cocoon
 cocoons
 cocoplum
 cocoplums
+cocos
 cocottes
 cocounsel
 cocounseled
@@ -14002,6 +14009,7 @@ coenamor
 coenamored
 coenamors
 coenduring
+coenocyte
 coenocytic
 coenure
 coenures
@@ -14065,6 +14073,7 @@ cofounds
 cogeneration
 cogenerations
 cogent
+cogently
 cogged
 cogitable
 cogitated
@@ -15631,6 +15640,7 @@ continuant
 continuate
 continuation
 continuations
+continuator
 continuators
 continue
 continuer
@@ -17879,6 +17889,7 @@ cuspidate
 cuspidation
 cuspids
 cuspis
+cusser
 cussers
 cusso
 cussos
@@ -19057,6 +19068,7 @@ defeat
 defeater
 defeaters
 defeatism
+defeatists
 defeatures
 defecated
 defecates
@@ -19761,6 +19773,7 @@ depicters
 depicting
 depictions
 depictor
+depigmentation
 depilator
 depilatories
 depilators
@@ -22216,6 +22229,7 @@ domelike
 domes
 domesday
 domestic
+domesticate
 domesticates
 domestications
 domesticity
@@ -25467,6 +25481,7 @@ eringos
 eriophyid
 eristic
 eristical
+erlking
 ermined
 eroded
 erodes
@@ -25880,6 +25895,7 @@ eulachans
 eulachon
 eulogias
 eulogises
+eulogising
 eulogistic
 eulogistically
 eulogists
@@ -27749,6 +27765,7 @@ feuilletonism
 feuilletonisms
 feuilletonist
 feuilletonists
+feuilletons
 feus
 fever
 fevering
@@ -35524,6 +35541,7 @@ hooped
 hooplas
 hoopless
 hoopoe
+hoopoos
 hoopskirts
 hoopster
 hoopsters
@@ -44302,6 +44320,7 @@ magnifier
 magniloquence
 magniloquent
 magnum
+magnums
 magot
 magots
 magpie
@@ -45692,6 +45711,7 @@ meningococcic
 meningococcus
 menisci
 meniscoid
+meniscuses
 meno
 menorrhagias
 menorrhea
@@ -57291,6 +57311,7 @@ pinballed
 pinballs
 pincer
 pinch
+pinchbecks
 pinchbug
 pinchbugs
 pinchcock
@@ -57359,6 +57380,7 @@ pinnulae
 pinnular
 pinny
 pinocle
+pinocytic
 pinocytoses
 pinocytosis
 pinoles
@@ -57926,6 +57948,7 @@ plexuses
 pliably
 pliant
 pliantly
+pliantness
 plicate
 plicated
 plicately
@@ -63214,6 +63237,7 @@ recommencement
 recommences
 recommencing
 recommendable
+recommendation
 recommendations
 recommendatory
 recommended
@@ -63989,6 +64013,7 @@ regalnesses
 regardant
 regarded
 regardfulnesses
+regardlessly
 regathered
 regathering
 regathers
@@ -66359,6 +66384,7 @@ rinsing
 rioting
 riotously
 riotousness
+riotousnesses
 riots
 rip
 ripcord
@@ -70176,6 +70202,7 @@ shipwright
 shires
 shirk
 shirked
+shirkers
 shirking
 shirks
 shirrings
@@ -70684,6 +70711,7 @@ significant
 significantly
 signification
 significations
+significs
 signifieds
 signifiers
 signifies
@@ -70814,6 +70842,7 @@ simoleons
 simoniac
 simoniacal
 simonies
+simonists
 simooms
 simoons
 simp
@@ -77443,6 +77472,7 @@ tarries
 tarriest
 tarrinesses
 tarring
+tarry
 tarrying
 tarsals
 tarsia
@@ -80425,6 +80455,7 @@ trienniums
 triens
 trientes
 trier
+trierarchs
 trierarchy
 triers
 tries
@@ -81662,6 +81693,7 @@ unaesthetic
 unaffectedness
 unaffecting
 unaffectionate
+unaffiliated
 unaffluent
 unaffordable
 unafraid
@@ -84158,6 +84190,7 @@ vandalizing
 vandals
 vandyke
 vandykes
+vane
 vaned
 vang
 vanguards
@@ -87114,6 +87147,7 @@ workplaces
 workprint
 worksheet
 worksheets
+workstation
 workstations
 worktables
 workup
@@ -87831,6 +87865,7 @@ zipping
 zips
 zircaloy
 zirconias
+zirconium
 zitherist
 zitherists
 zithers
