@@ -5556,6 +5556,7 @@ bandage
 bandager
 bandagers
 bandages
+bandaid
 bandanna
 bandannas
 bandeau
@@ -8129,6 +8130,7 @@ bogusness
 bogwood
 bogwoods
 bogy
+bogyism
 bogymen
 bohea
 boheas
@@ -8318,6 +8320,7 @@ bookies
 bookish
 bookishly
 bookishness
+bookishnesses
 bookkeepers
 bookkeeping
 booklets
@@ -8492,6 +8495,7 @@ botherations
 bothering
 bothersome
 bothriums
+botonee
 botonnee
 botryoidal
 botryose
@@ -12634,6 +12638,7 @@ choir
 choirboy
 choirboys
 choired
+choiring
 choirs
 chokeberries
 chokebore
@@ -16040,6 +16045,7 @@ cordwaineries
 cordwains
 core
 corecipients
+coredeem
 coredeeming
 coredeems
 coreigns
@@ -16917,6 +16923,7 @@ craziness
 crazinesses
 crazing
 crazyweeds
+creak
 creaked
 creakiest
 creakily
@@ -20148,6 +20155,7 @@ detainers
 detaining
 detainments
 detains
+detassel
 detect
 detectabilities
 detectability
@@ -20821,6 +20829,7 @@ dilettantism
 dilettantisms
 diligently
 dillies
+dillydallies
 dillydally
 diltiazem
 diltiazems
@@ -24795,6 +24804,7 @@ enow
 enows
 enplane
 enplaned
+enquired
 enquires
 enrage
 enragedly
@@ -27566,6 +27576,7 @@ fenthions
 fenugreek
 fenuron
 feod
+feodaries
 feodary
 feoffed
 feoffee
@@ -27594,6 +27605,7 @@ fermenting
 ferments
 fermi
 fermium
+fermiums
 fernier
 fernless
 ferns
@@ -32897,6 +32909,7 @@ gruesomest
 gruffer
 gruffest
 gruffly
+gruffnesses
 gruffs
 gruffy
 grugru
@@ -34510,6 +34523,7 @@ henceforth
 henchman
 hencoop
 hencoops
+hendiadys
 hendiadyses
 henge
 henges
@@ -35032,6 +35046,7 @@ hitchhiking
 hither
 hitherto
 hitless
+hits
 hitter
 hitters
 hitting
@@ -35987,6 +36002,7 @@ hurdled
 hurdles
 hurds
 hurl
+hurler
 hurlers
 hurley
 hurleys
@@ -39544,6 +39560,7 @@ irresponsibles
 irresponsibly
 irretrievable
 irretrievably
+irreverence
 irreversibly
 irrevocability
 irrevocable
@@ -40104,6 +40121,7 @@ jettying
 jetway
 jeu
 jew
+jewed
 jewel
 jeweled
 jeweler
@@ -42168,6 +42186,7 @@ leafhopper
 leafhoppers
 leafiest
 leafinesses
+leafless
 leafleteer
 leafleteers
 leafleting
@@ -48104,6 +48123,7 @@ mortisers
 mortises
 mortmain
 mortmains
+morulae
 morular
 morulation
 morulations
@@ -48586,6 +48606,7 @@ multivalence
 multivariate
 multiversities
 multiversity
+multivitamin
 multivitamins
 multivoltine
 multiwall
@@ -51227,6 +51248,7 @@ objectification
 objectifies
 objection
 objectionable
+objectionably
 objections
 objective
 objectiveness
@@ -52645,6 +52667,7 @@ outdrink
 outdrives
 outdriving
 outdropping
+outdrove
 outdrunk
 outdueling
 outduelled
@@ -54583,6 +54606,7 @@ panners
 pannes
 panniers
 pannikin
+pannikins
 panocha
 panochas
 panoches
@@ -56226,6 +56250,7 @@ perseverating
 perseveration
 perseverative
 persevered
+persiflages
 persimmon
 persistence
 persistencies
@@ -57631,6 +57656,7 @@ planked
 planking
 plankters
 plankton
+planktons
 planlessness
 planlessnesses
 planned
@@ -61496,6 +61522,7 @@ pyknic
 pyknics
 pyoderma
 pyodermas
+pyoid
 pyorrhea
 pyorrheas
 pyorrhoea
@@ -69496,6 +69523,7 @@ serosity
 serotinal
 serotine
 serotinies
+serotonins
 serotypes
 serous
 serovars
@@ -70104,6 +70132,7 @@ shipment
 shipowner
 shippen
 shippens
+shippers
 shipping
 shippings
 shippon
@@ -73538,6 +73567,7 @@ squelches
 squelchier
 squelchiest
 squelchy
+squeteague
 squidded
 squidding
 squiffed
@@ -74072,6 +74102,7 @@ stereologically
 stereology
 stereophonic
 stereophonies
+stereopses
 stereopticon
 stereoregular
 stereoscopies
@@ -75901,6 +75932,7 @@ superclusters
 supercoil
 supercoiled
 supercollider
+supercolliders
 supercomputers
 superconduct
 superconducted
@@ -77284,6 +77316,7 @@ tantalize
 tantalizers
 tantalizes
 tantalizing
+tantalizingly
 tantalum
 tantara
 tantivies
@@ -84843,6 +84876,7 @@ vinblastines
 vinca
 vincible
 vincula
+vinculum
 vinculums
 vindicable
 vindicates
@@ -84893,6 +84927,7 @@ viperfishes
 viperish
 viperously
 vipers
+virago
 virelay
 virelays
 viremia
