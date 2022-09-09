@@ -264,6 +264,7 @@ accommodator
 accompanies
 accompaniment
 accompaniments
+accompanist
 accompanists
 accompanying
 accomplice
@@ -274,6 +275,7 @@ accordant
 accorded
 accorder
 accorders
+according
 accordingly
 accordionist
 accordions
@@ -4570,6 +4572,7 @@ attempered
 attempering
 attempers
 attemptable
+attempted
 attendance
 attendant
 attended
@@ -8031,6 +8034,7 @@ bobbles
 bobeches
 bobolink
 bobolinks
+bobs
 bobsledder
 bobsleddings
 bobsleigh
@@ -9374,6 +9378,7 @@ buckskins
 buckteeth
 bucktooth
 bucktoothed
+buckytubes
 bucolic
 bucolics
 budder
@@ -14524,6 +14529,7 @@ comity
 comma
 commandants
 commandeer
+commandeered
 commanderships
 commanding
 commandment
@@ -14570,6 +14576,7 @@ comminutions
 commiseratingly
 commiseration
 commissar
+commissarial
 commissariat
 commissariats
 commissars
@@ -15216,6 +15223,7 @@ congratulator
 congratulators
 congregants
 congregate
+congregates
 congregating
 congregational
 congresses
@@ -19174,6 +19182,7 @@ deftness
 defueled
 defueling
 defuelled
+defunct
 defund
 defused
 defuser
@@ -29264,6 +29273,7 @@ foreworn
 foreyards
 forfeit
 forfeited
+forfeiter
 forfeiting
 forfeitures
 forfended
@@ -30142,6 +30152,7 @@ funner
 funnies
 funninesses
 funning
+funny
 funnymen
 funplexes
 fur
@@ -34097,6 +34108,7 @@ hearken
 hearkeners
 hearkening
 hearkens
+hears
 hearsays
 hearsed
 heartaches
@@ -35070,6 +35082,7 @@ hogs
 hogshead
 hogtied
 hogwashes
+hoicking
 hoiden
 hoidened
 hoise
@@ -38099,6 +38112,7 @@ ingrains
 ingrate
 ingratiate
 ingratiated
+ingratiates
 ingratiating
 ingratiation
 ingratiatory
@@ -40128,6 +40142,7 @@ jobber
 jobbers
 jobholder
 joblessness
+joblessnesses
 jobname
 jobnames
 jobs
@@ -42679,6 +42694,7 @@ lifesaving
 lifesavings
 lifespans
 lifestyle
+lifestyles
 lifetimes
 lifeways
 lifework
@@ -43711,6 +43727,7 @@ lugubriousness
 lullabied
 lullabies
 lullaby
+lulled
 luller
 lullers
 lulling
@@ -45326,6 +45343,7 @@ mediocrities
 meditated
 meditating
 meditation
+meditations
 meditative
 meditativeness
 meditators
@@ -46403,6 +46421,7 @@ millicuries
 millidegree
 millieme
 millier
+milliers
 milligal
 milligram
 milligrams
@@ -47569,6 +47588,7 @@ moneyed
 moneyers
 moneygrubbing
 moneygrubbings
+moneylenders
 moneymaker
 moneymakers
 moneys
@@ -48245,6 +48265,7 @@ moxas
 moxie
 moxies
 mozetta
+mozettas
 mozette
 mozo
 mozos
@@ -49385,6 +49406,7 @@ neonatologies
 neonatology
 neoned
 neons
+neoorthodox
 neoorthodoxies
 neophilia
 neophiliac
@@ -53762,6 +53784,7 @@ overspreading
 overstaff
 overstaffed
 overstate
+overstatements
 overstates
 overstayed
 overstays
@@ -60055,6 +60078,7 @@ proactive
 probabilisms
 probabilist
 probabilistic
+probabilists
 probables
 proband
 probated
@@ -67985,6 +68009,7 @@ scarf
 scarfed
 scarfpin
 scarfpins
+scarfskin
 scarfskins
 scarification
 scarifiers
@@ -68284,6 +68309,7 @@ scootches
 scootching
 scooted
 scooters
+scoots
 scoped
 scoping
 scopolamine
@@ -70536,6 +70562,7 @@ silane
 sild
 silds
 silence
+silenced
 silences
 silencing
 sileni
@@ -73946,6 +73973,7 @@ stereographic
 stereographies
 stereoisomeric
 stereoisomerism
+stereological
 stereologically
 stereology
 stereophonic
@@ -76086,6 +76114,7 @@ sural
 suras
 surbase
 surbased
+surbases
 surceasing
 surcingle
 surcingles
@@ -79604,6 +79633,7 @@ trade
 tradeable
 tradecraft
 traded
+trademark
 trademarked
 tradeoff
 trader
@@ -79841,6 +79871,7 @@ transmitted
 transmitters
 transmogrified
 transmogrifies
+transmogrify
 transmogrifying
 transmountain
 transmutable
@@ -80952,6 +80983,7 @@ turnstiles
 turnstone
 turntable
 turntables
+turnups
 turnvereins
 turpentine
 turpentined
@@ -82754,6 +82786,7 @@ unmuffle
 unmuffled
 unmuffling
 unmuzzles
+unmyelinated
 unnails
 unnatural
 unnaturalness
@@ -82792,6 +82825,7 @@ unpatentable
 unpeeled
 unpegging
 unpenning
+unpeople
 unpeopled
 unpeoples
 unperceived
@@ -84067,6 +84101,7 @@ varoom
 varoomed
 varooms
 varsity
+varus
 varuses
 varve
 varves
