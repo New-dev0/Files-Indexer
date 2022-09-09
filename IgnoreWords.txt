@@ -447,6 +447,7 @@ acknowledgedly
 acknowledgment
 acknowledgments
 acme
+acne
 acned
 acnode
 acock
@@ -3646,6 +3647,7 @@ aquilinities
 aquilinity
 ar
 arabesk
+arabesks
 arabesque
 arabica
 arabicas
@@ -9249,6 +9251,7 @@ brucine
 brucines
 brugh
 bruised
+bruiser
 bruising
 bruited
 bruiters
@@ -11145,6 +11148,7 @@ castellan
 castellans
 caster
 casters
+castigate
 castigates
 castigation
 castigations
@@ -14703,6 +14707,7 @@ complainants
 complained
 complains
 complaint
+complaints
 complaisances
 complaisant
 complaisantly
@@ -19773,6 +19778,7 @@ deprivation
 deprivations
 deprive
 deprived
+depriver
 deprivers
 depriving
 deprogramed
@@ -20238,6 +20244,7 @@ devisor
 devitrified
 devitrifies
 devitrify
+devocalize
 devocalized
 devocalizing
 devoices
@@ -27903,6 +27910,7 @@ finalised
 finalism
 finalist
 finalities
+finalizes
 financed
 financial
 financially
@@ -28226,6 +28234,7 @@ flambeing
 flambes
 flamboyances
 flamelike
+flamen
 flamenco
 flamencos
 flamens
@@ -28513,6 +28522,7 @@ floatages
 floatation
 floatels
 floaters
+floatier
 floating
 floatplane
 floaty
@@ -35379,6 +35389,7 @@ hooped
 hooplas
 hoopless
 hoopoe
+hoopskirts
 hoopster
 hoopsters
 hoorahed
@@ -36490,6 +36501,7 @@ idioblast
 idioblastic
 idiographic
 idiom
+idiomatic
 idiomatically
 idiomorphic
 idiopathic
@@ -37267,6 +37279,7 @@ inaudibility
 inaudible
 inaudibly
 inaugurate
+inaugurates
 inauguration
 inaugurations
 inaugurator
@@ -39462,6 +39475,7 @@ isentropic
 isinglass
 island
 islander
+islanders
 islanding
 isle
 isled
@@ -42252,6 +42266,7 @@ lek
 lekked
 leks
 lekvar
+lekythi
 lekythoi
 lekythos
 lekythus
@@ -44151,6 +44166,7 @@ maiasaur
 maiden
 maidenheads
 maidish
+maids
 maidservants
 maieutic
 maigre
@@ -48733,6 +48749,7 @@ mynahs
 mynas
 myocardia
 myocardial
+myocardium
 myoclonuses
 myoelectric
 myoelectrical
@@ -48859,6 +48876,7 @@ nailbrush
 nailed
 nailer
 nailers
+nailfold
 nailheads
 nails
 nainsook
@@ -49357,6 +49375,7 @@ nephrons
 nephropathies
 nephropathy
 nephrostome
+nephrotoxic
 nepotism
 nepotisms
 nepotists
@@ -49675,6 +49694,7 @@ nightdress
 nightgown
 nightgowns
 nightie
+nightingale
 nightless
 nightlifes
 nightlives
@@ -55332,6 +55352,7 @@ peched
 peching
 pechs
 peck
+peckers
 peckerwood
 peckerwoods
 peckier
@@ -59086,6 +59107,7 @@ predacious
 predate
 predated
 predates
+predating
 predatism
 predeceases
 predecessor
@@ -60307,6 +60329,7 @@ propagations
 propagative
 propagator
 propagators
+propagule
 propanes
 propel
 propellant
@@ -62593,6 +62616,7 @@ reapply
 reapplying
 reappointing
 reappointments
+reappraise
 reappraised
 reappraising
 reappropriate
@@ -63235,6 +63259,7 @@ redepositing
 redescend
 redescending
 redescribed
+redescribing
 redesign
 redesigned
 redesigns
@@ -72239,6 +72264,7 @@ soricine
 soring
 sorites
 sorned
+sorner
 sorners
 soroche
 soroches
@@ -72939,6 +72965,7 @@ splines
 splining
 splintering
 splints
+split
 splitters
 splitting
 splodged
@@ -75169,6 +75196,7 @@ subtend
 subtended
 subtends
 subterranean
+subterraneanly
 subtest
 subtests
 subtext
@@ -75537,6 +75565,7 @@ sunback
 sunbath
 sunbathers
 sunbaths
+sunbeamy
 sunbelt
 sunbelts
 sunbird
@@ -75778,6 +75807,7 @@ supermind
 superminds
 superminister
 supermodels
+supernal
 supernatant
 supernates
 supernatural
@@ -77779,6 +77809,7 @@ teriyakis
 term
 termagant
 termer
+terminableness
 terminably
 terminal
 terminally
@@ -79165,6 +79196,7 @@ toponymical
 toponymies
 toponymists
 toponyms
+toponymy
 topos
 topotype
 topped
@@ -85594,6 +85626,7 @@ wayfarer
 wayfarings
 waypoint
 waypoints
+wayside
 waywardness
 waywardnesses
 wayworn
@@ -86339,6 +86372,7 @@ windscreen
 windscreens
 windshields
 windsocks
+windsurfed
 windsurfing
 windsurfings
 windsurfs
@@ -86909,6 +86943,7 @@ wrist
 wristband
 wristbands
 wristier
+wristlet
 wristlock
 wrists
 wristwatch
