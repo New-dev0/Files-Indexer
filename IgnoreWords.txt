@@ -632,6 +632,7 @@ adaptivity
 adaptors
 addax
 addaxes
+addenda
 addends
 addendums
 adder
@@ -3424,6 +3425,7 @@ apostasy
 apostatised
 apostatises
 apostatizing
+apostille
 apostils
 apostle
 apostleship
@@ -3699,6 +3701,7 @@ arborizing
 arbors
 arborvitae
 arbovirus
+arbs
 arbuscle
 arbuscles
 arbute
@@ -8734,6 +8737,7 @@ brakeman
 brakemen
 brakiest
 braking
+braky
 bramble
 brambled
 brambling
@@ -8873,6 +8877,7 @@ breakfasts
 breakings
 breakneck
 breakout
+breaks
 breakthrough
 breakup
 breakwall
@@ -9229,6 +9234,7 @@ brownier
 brownnesses
 brownnosed
 brownnoser
+brownnosers
 brownnoses
 brownnosing
 browns
@@ -10874,6 +10880,7 @@ carefullest
 carefully
 carefulnesses
 caregiver
+caregivers
 caregiving
 caregivings
 careless
@@ -18176,6 +18183,7 @@ dailyness
 dailynesses
 daimen
 daimio
+daimon
 daimons
 daimyo
 daintier
@@ -21725,6 +21733,7 @@ distemperate
 distemperature
 distemperatures
 distempered
+distend
 distender
 distenders
 distending
@@ -24014,6 +24023,7 @@ emblazoning
 emblazonment
 emblazonments
 emblematic
+emblematized
 emblematizes
 embleming
 emblemize
@@ -24444,6 +24454,7 @@ endogenous
 endogenously
 endogens
 endogeny
+endometria
 endometrial
 endometriosis
 endometritis
@@ -24774,6 +24785,7 @@ ensphered
 ensphering
 enstatite
 ensued
+ensure
 ensured
 ensurer
 ensurers
@@ -29454,6 +29466,7 @@ fozinesses
 fozy
 fracas
 fracases
+fractals
 fracted
 fraction
 fractionalize
@@ -31038,6 +31051,7 @@ geophysical
 geophysically
 geophysicist
 geophysics
+geophytic
 geopolitics
 geoponic
 geoponics
@@ -33443,6 +33457,7 @@ hamburgs
 hame
 hames
 hammada
+hammal
 hammams
 hammed
 hammer
@@ -33740,6 +33755,7 @@ harquebus
 harridan
 harridans
 harries
+harrower
 harrows
 harrumphed
 harrumphing
@@ -37398,6 +37414,7 @@ incommode
 incommoded
 incommoding
 incommodity
+incommunicable
 incommunicably
 incommutable
 incommutably
@@ -43061,6 +43078,7 @@ livers
 liverwort
 liverwurst
 liverwursts
+livery
 liverymen
 lives
 livestocks
@@ -45029,6 +45047,7 @@ mavins
 mavis
 mavises
 mavourneen
+mawing
 mawkishly
 mawn
 maxes
@@ -47537,6 +47556,7 @@ monoclinic
 monoclonal
 monocots
 monocotyl
+monocotyledons
 monocotyls
 monocracies
 monocrat
@@ -51623,6 +51643,7 @@ oncologies
 oncology
 oncoming
 oncomings
+oncornavirus
 oncovirus
 ondograms
 oneiric
@@ -51808,6 +51829,7 @@ oppositions
 oppress
 oppressing
 oppressively
+oppressor
 opprobrious
 opprobriums
 oppugn
@@ -57498,6 +57520,7 @@ platelet
 platelike
 platemakers
 platemaking
+platemakings
 platen
 plater
 platesful
@@ -59841,6 +59864,7 @@ primogenitor
 primordia
 primordially
 primp
+primped
 primping
 primps
 primroses
@@ -61437,6 +61461,7 @@ quadrivalent
 quadrivalents
 quadrivia
 quadrivial
+quadroons
 quadrumvir
 quadrumvirates
 quadrumvirs
@@ -64101,6 +64126,7 @@ relearned
 relearnt
 releasable
 release
+releaser
 releasers
 releasing
 relegated
@@ -66738,6 +66764,7 @@ ruga
 rugate
 rugby
 ruggeder
+ruggedize
 ruggedizing
 ruggedly
 ruggedness
@@ -66823,6 +66850,7 @@ runkling
 runless
 runlets
 running
+runoff
 runoffs
 runout
 runovers
@@ -71080,6 +71108,7 @@ sleets
 sleeve
 sleeved
 sleighed
+sleighs
 sleight
 slenderer
 slenderest
@@ -71983,6 +72012,7 @@ solidaristic
 solidarists
 solider
 solidi
+solidification
 solidified
 solidifies
 solidify
@@ -75964,6 +75994,7 @@ surfboards
 surfed
 surfeited
 surfeiting
+surfer
 surfers
 surffishes
 surfier
@@ -76178,6 +76209,7 @@ swathers
 swathing
 swatter
 swatting
+sway
 swaybacks
 swayed
 swayers
@@ -81714,6 +81746,7 @@ unctuously
 unctuousnesses
 uncuff
 uncuffs
+uncultivable
 uncurable
 uncurably
 uncurb
@@ -83302,6 +83335,7 @@ uphold
 upholders
 upholster
 upholstered
+upholsterers
 upholsters
 uphove
 uphroe
@@ -85324,6 +85358,7 @@ warners
 warningly
 warnings
 warns
+warp
 warpages
 warpath
 warped
