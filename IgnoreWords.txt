@@ -227,6 +227,7 @@ accessorises
 accessorize
 accessorized
 accessorizes
+acciaccatura
 accidences
 accidentalness
 accidently
@@ -1463,6 +1464,7 @@ alackaday
 alacrities
 alacritous
 alacrity
+alameda
 alamedas
 alamo
 alamode
@@ -7263,6 +7265,7 @@ biohazard
 biohazards
 bioherm
 biologically
+biologies
 biologisms
 biologist
 biolytic
@@ -9237,6 +9240,7 @@ browed
 browless
 browned
 browner
+brownest
 brownie
 brownier
 brownnesses
@@ -10771,6 +10775,7 @@ carbamic
 carbamides
 carbamino
 carbamoyls
+carbamyls
 carbarns
 carbaryls
 carbides
@@ -13603,6 +13608,7 @@ clumsier
 clumsiest
 clumsiness
 clumsinesses
+clumsy
 clung
 clunk
 clunked
@@ -13885,6 +13891,7 @@ codebtors
 codecs
 coded
 codefendant
+codeinas
 codeine
 codeless
 codependences
@@ -14429,6 +14436,7 @@ columella
 columellar
 columels
 column
+columnal
 columneas
 columniation
 columnistic
@@ -19169,6 +19177,7 @@ defuelled
 defund
 defused
 defuser
+defusers
 defuses
 defuzed
 defuzes
@@ -19273,6 +19282,7 @@ dekaliter
 dekalitres
 dekameter
 dekametres
+deke
 deked
 delaine
 delaines
@@ -20134,6 +20144,7 @@ determinacy
 determinantal
 determinate
 determinateness
+determinatives
 determinator
 determine
 determines
@@ -37981,6 +37992,7 @@ infinitively
 infinitude
 infirm
 infirmed
+infirms
 infixation
 infixations
 infixed
@@ -39205,6 +39217,7 @@ inventresses
 invents
 inverities
 inverity
+inverness
 invernesses
 inversed
 inverses
@@ -42596,6 +42609,7 @@ licensees
 licensers
 licenses
 licensors
+licensure
 licensures
 licentiate
 licentiates
@@ -44494,6 +44508,7 @@ manganese
 manganeses
 manganites
 manganous
+mangas
 mange
 mangels
 manger
@@ -45065,6 +45080,7 @@ matting
 mattings
 mattins
 mattock
+mattoids
 mattrass
 mattresses
 maturate
@@ -46083,6 +46099,7 @@ microfilaments
 microfilaria
 microfilariae
 microfilmed
+microfilmer
 microflorae
 microfloral
 microforms
@@ -48124,6 +48141,7 @@ mottes
 mottling
 motto
 motts
+mouches
 mouching
 mouchoir
 moufflons
@@ -50776,6 +50794,7 @@ notebook
 notebooks
 notecards
 notecase
+notepad
 noter
 noters
 notes
@@ -52996,6 +53015,7 @@ outthrobbed
 outthrow
 outthrown
 outthrows
+outthrust
 outtowered
 outtowering
 outtrade
@@ -54574,6 +54594,7 @@ pappoose
 pappooses
 pappous
 pappus
+pappy
 paprica
 papricas
 paprika
@@ -55336,6 +55357,7 @@ peacockiest
 peacocks
 peacocky
 peafowl
+peafowls
 peag
 peages
 peags
@@ -56509,6 +56531,7 @@ phlegmy
 phloem
 phlogiston
 phlogistons
+phlogopite
 phlorizin
 phlorizins
 phlox
@@ -57941,6 +57964,7 @@ podiatrist
 podiatry
 podites
 podium
+podiums
 podocarp
 podomere
 podomeres
@@ -60600,6 +60624,7 @@ protend
 protending
 protensively
 proteoglycan
+proteolysis
 proteolytically
 proteome
 proteomes
@@ -61287,6 +61312,7 @@ pushinesses
 pushover
 pushovers
 pushrod
+pushup
 pushups
 pushy
 pusillanimity
@@ -62921,6 +62947,7 @@ rechanneled
 rechanneling
 rechannelling
 rechargeable
+recharged
 recharger
 recharges
 recharted
@@ -64362,6 +64389,7 @@ remembrancer
 remembrances
 remended
 remerged
+remerges
 remerging
 remex
 remiges
@@ -69395,6 +69423,7 @@ servicemen
 services
 servicing
 serviette
+servile
 servilenesses
 servitudes
 servo
@@ -70258,6 +70287,7 @@ shuddering
 shuddery
 shuffle
 shuffleboard
+shuffleboards
 shunnable
 shunned
 shunners
@@ -81932,6 +81962,7 @@ underdosing
 undereaten
 undereating
 undereats
+undereducated
 underemphasize
 underemphasizes
 underemployment
@@ -82980,6 +83011,7 @@ unsayables
 unscarred
 unscented
 unschooled
+unscramblers
 unscrambles
 unscrambling
 unscrew
@@ -84002,6 +84034,7 @@ variegate
 variegated
 variegates
 variegators
+varier
 variers
 varieties
 variety
@@ -85718,6 +85751,7 @@ wealthier
 wealthiness
 wealthy
 weaning
+weanling
 weanlings
 weaponed
 weaponized
@@ -86697,6 +86731,7 @@ womanlier
 womanliest
 womanlike
 womanliness
+womanly
 womans
 womb
 wombats
