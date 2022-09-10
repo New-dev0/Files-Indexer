@@ -4606,6 +4606,7 @@ attain
 attainability
 attainable
 attainder
+attainders
 attained
 attainers
 attainment
@@ -5065,6 +5066,7 @@ awaken
 awakeners
 awakenings
 awakes
+awardable
 awarded
 awardees
 awarder
@@ -5549,6 +5551,7 @@ ballonets
 ballooning
 balloonings
 balloted
+balloting
 ballpark
 ballparks
 ballplayer
@@ -7197,6 +7200,7 @@ bilking
 billabongs
 billboarded
 billboarding
+billbug
 billbugs
 billers
 billeted
@@ -9171,6 +9175,7 @@ bristletails
 bristliest
 bristling
 bristly
+bristols
 britannias
 britches
 britt
@@ -12254,6 +12259,7 @@ cheapens
 cheapest
 cheapness
 cheapnesses
+cheaps
 cheapskate
 cheapskates
 cheated
@@ -12702,6 +12708,7 @@ chloroplastic
 chloroprene
 chloroquine
 chloroses
+chlorosis
 chlorothiazide
 chlorothiazides
 chlorotic
@@ -17197,6 +17204,7 @@ crestings
 crests
 cresylic
 cresyls
+cretics
 cretinism
 cretinoid
 cretins
@@ -17986,6 +17994,7 @@ curvet
 curveting
 curvetted
 curviest
+curvy
 cuscuses
 cusec
 cushat
@@ -19187,6 +19196,7 @@ defeasance
 defeasances
 defeasibilities
 defeat
+defeated
 defeater
 defeaters
 defeatism
@@ -19984,6 +19994,7 @@ depredations
 depredator
 depredators
 depredatory
+depressed
 depresses
 depressive
 depressively
@@ -23162,6 +23173,7 @@ duchesses
 duchies
 duchy
 duci
+duck
 duckbills
 ducker
 duckers
@@ -27523,6 +27535,7 @@ fault
 faulted
 faultfinders
 faultfinding
+faultfindings
 faultiness
 faultlessnesses
 fauna
@@ -30323,6 +30336,7 @@ fulgurates
 fulguration
 fulham
 fullback
+fullbloods
 fulleries
 fullest
 fullfaces
@@ -30812,6 +30826,7 @@ gametogenic
 gametophytic
 gamin
 gamine
+gamines
 gaminess
 gaminesses
 gaming
@@ -32228,6 +32243,7 @@ godhoods
 godless
 godlessly
 godlessness
+godlessnesses
 godlikeness
 godlikenesses
 godlily
@@ -39178,6 +39194,7 @@ intermat
 intermats
 intermatted
 intermatting
+intermeddled
 intermeddler
 intermeddlers
 intermeddles
@@ -40727,6 +40744,7 @@ julep
 juleps
 julienne
 julienned
+juliennes
 jumbals
 jumbled
 jumblers
@@ -43582,6 +43600,7 @@ loaminesses
 loamless
 loams
 loamy
+loaner
 loaning
 loanword
 loath
@@ -45295,6 +45314,7 @@ marvelled
 marvelously
 marvelousnesses
 marvels
+maryjanes
 masala
 masalas
 masas
@@ -52578,6 +52598,7 @@ organzines
 orgasm
 orgasms
 orgastic
+orgeat
 orgeats
 orgiast
 orgiastic
@@ -52705,6 +52726,7 @@ orthogenetic
 orthogonalities
 orthogonality
 orthographic
+orthography
 orthomolecular
 orthonormal
 orthopedic
@@ -54413,6 +54435,7 @@ overwrites
 overwritten
 overwrote
 overzeal
+overzealous
 ovibos
 ovicide
 oviducal
@@ -54522,6 +54545,7 @@ oxytocin
 oxytocins
 oxytones
 oxyuriases
+oxyuriasis
 oyes
 oyez
 oyezes
@@ -57364,6 +57388,7 @@ physiatry
 physical
 physicalisms
 physicalist
+physicalists
 physicality
 physicalness
 physicals
@@ -59559,6 +59584,7 @@ preachment
 preachments
 preachy
 preact
+preacted
 preacts
 preadapt
 preadaptation
@@ -60044,6 +60070,7 @@ prenatal
 prenomen
 prenomens
 prenominated
+prenoon
 prenotification
 prenotifying
 prenotion
@@ -60860,6 +60887,7 @@ prokaryote
 prokaryotes
 prokaryotic
 prolactins
+prolamin
 prolan
 prolans
 prolapsed
@@ -60935,6 +60963,7 @@ promulge
 pronated
 pronating
 pronation
+prone
 pronely
 pronenesses
 pronephra
@@ -65648,6 +65677,7 @@ reseizes
 reseizing
 reseizure
 reseizures
+reselected
 reselecting
 resell
 reseller
@@ -67771,6 +67801,7 @@ sacrilege
 sacrileges
 sacrilegious
 sacrings
+sacrist
 sacristans
 sacrosanctities
 sacrosanctity
@@ -67859,6 +67890,7 @@ sagittally
 sagittary
 sagittate
 sagos
+sags
 saguaro
 sagy
 sahibs
@@ -69009,6 +69041,7 @@ scowing
 scowler
 scowling
 scows
+scrabbled
 scrabbliest
 scrabbling
 scrag
@@ -71822,6 +71855,7 @@ slapjacks
 slapper
 slapping
 slapstick
+slash
 slashed
 slashers
 slashings
@@ -77251,6 +77285,7 @@ sybaritic
 sybaritically
 sybaritisms
 sycamines
+sycamore
 sycees
 syces
 sycophancies
