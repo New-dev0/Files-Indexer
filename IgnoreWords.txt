@@ -2233,8 +2233,10 @@ amortizing
 amosite
 amotions
 amount
+amounts
 amours
 amoxicillin
+amoxycillin
 amoxycillins
 amp
 amped
@@ -8714,6 +8716,7 @@ bowlers
 bowless
 bowlfuls
 bowlike
+bowline
 bowling
 bowman
 bows
@@ -10254,6 +10257,7 @@ calamander
 calamaries
 calamaris
 calamary
+calamata
 calami
 calamine
 calamint
@@ -10714,6 +10718,7 @@ cantor
 cantors
 cantos
 cantrap
+cantus
 canular
 canulas
 canulated
@@ -11374,6 +11379,7 @@ catarrhs
 catastrophe
 catastrophes
 catastrophisms
+catastrophists
 catatonia
 catatonically
 catboats
@@ -11710,6 +11716,7 @@ cense
 censer
 censing
 censored
+censorial
 censoring
 censors
 censual
@@ -11992,6 +11999,7 @@ chalybeates
 cham
 chamade
 chamades
+chamaephyte
 chamber
 chamberlain
 chamberlains
@@ -19834,6 +19842,7 @@ densest
 densified
 densifying
 densitometers
+densitometric
 density
 dental
 dentalia
@@ -27743,6 +27752,7 @@ fellmongerings
 fellmongers
 fellowing
 fellowly
+fellowman
 fellowshiping
 fellowshipped
 fellowships
@@ -31141,6 +31151,7 @@ gauzy
 gave
 gavel
 gaveled
+gavelkind
 gavelling
 gavelock
 gavelocks
@@ -33348,6 +33359,7 @@ guipures
 guiro
 guisard
 guise
+guised
 guises
 guising
 guitar
@@ -35201,6 +35213,7 @@ hights
 highwaymen
 hijab
 hijack
+hijacker
 hijacking
 hijra
 hijrah
@@ -38076,6 +38089,7 @@ independents
 indescribably
 indestructible
 indestructibly
+indeterminacy
 indeterminate
 indeterminisms
 indeterministic
@@ -39824,6 +39838,7 @@ iroko
 iron
 ironclad
 ironed
+ironer
 ironhearted
 ironic
 ironically
@@ -42314,6 +42329,7 @@ latakia
 latakias
 latches
 latching
+latchstring
 latecomer
 latecomers
 lated
@@ -44935,6 +44951,7 @@ manatee
 manatees
 manches
 manchineel
+manciples
 mandalas
 mandalic
 mandamus
@@ -53955,6 +53972,7 @@ overfar
 overfast
 overfastidious
 overfearing
+overfed
 overfeeding
 overfertilize
 overfertilizes
@@ -57517,6 +57535,7 @@ piccoloists
 piceous
 picholine
 picholines
+piciform
 pick
 pickaback
 pickabacked
@@ -58283,6 +58302,7 @@ playfields
 playful
 playfulness
 playfulnesses
+playgirl
 playgoers
 playgoings
 playgroups
@@ -58343,6 +58363,7 @@ pledgers
 pledges
 pledget
 pledgets
+pledgor
 pledgors
 pleiad
 pleiades
@@ -58936,6 +58957,7 @@ polysorbate
 polysorbates
 polystyrenes
 polysulfides
+polysynaptic
 polysyndeton
 polysyndetons
 polytechnic
@@ -59771,6 +59793,7 @@ preclear
 preclearances
 preclears
 precluding
+preclusive
 precocious
 precociously
 precocities
@@ -61522,6 +61545,7 @@ psychoanalyses
 psychoanalyst
 psychoanalyzed
 psychoanalyzes
+psychoanalyzing
 psychobabbler
 psychobabblers
 psychobabbles
@@ -62643,6 +62667,7 @@ racializing
 racially
 racier
 raciness
+racinesses
 racing
 racings
 racism
@@ -71614,6 +71639,7 @@ sizable
 sizableness
 sizablenesses
 size
+sizeable
 sized
 sizes
 siziness
@@ -72638,6 +72664,7 @@ snowmakers
 snowmaking
 snowmen
 snowmobile
+snowmobiler
 snowmobilers
 snowmold
 snowpacks
@@ -73840,6 +73867,7 @@ splenetically
 splenetics
 splents
 spleuchans
+splice
 splicer
 splicers
 spliff
@@ -78652,6 +78680,7 @@ tensenesses
 tenser
 tensilities
 tensiometries
+tensiometry
 tensioners
 tensionless
 tensive
@@ -79322,6 +79351,7 @@ thrave
 thrawed
 thrawing
 thrawn
+thraws
 threadbareness
 threader
 threaders
@@ -81413,6 +81443,7 @@ tropologies
 tropology
 tropomyosin
 troponin
+tropopauses
 troposphere
 tropospheres
 tropotaxes
@@ -84774,6 +84805,7 @@ valerates
 valerians
 valeted
 valeting
+valets
 valetudinarian
 valetudinaries
 valetudinary
@@ -84944,6 +84976,7 @@ variegates
 variegators
 varier
 variers
+varietals
 varieties
 variety
 variform
@@ -86229,6 +86262,7 @@ wair
 wairs
 waistcoat
 waister
+waisters
 waisting
 waistings
 waistless
@@ -87920,6 +87954,7 @@ wrangled
 wrangles
 wrangling
 wrap
+wraparound
 wraparounds
 wrapped
 wrappers
