@@ -2087,6 +2087,7 @@ ambuscading
 ambushed
 ambusher
 ambushers
+ambushing
 ambushment
 ambushments
 amebae
@@ -3409,6 +3410,7 @@ apocrypha
 apocryphal
 apocryphalness
 apod
+apodal
 apodictically
 apodosis
 apoenzymes
@@ -5887,6 +5889,7 @@ barrio
 barrooms
 bars
 barstools
+bartend
 bartender
 bartenders
 bartending
@@ -10678,6 +10681,7 @@ cantatrice
 cantdog
 canted
 canteen
+canteens
 canter
 cantered
 canters
@@ -11119,6 +11123,7 @@ carpetbaggers
 carpetbags
 carpeting
 carpetweeds
+carpi
 carpingly
 carpings
 carpogonia
@@ -16442,6 +16447,7 @@ cosmeticize
 cosmeticizing
 cosmetologists
 cosmical
+cosmid
 cosmochemical
 cosmochemist
 cosmogenic
@@ -22244,6 +22250,7 @@ doctrinaire
 doctrinairisms
 docudrama
 docudramas
+documentable
 documentalist
 documentarians
 documentarist
@@ -24628,6 +24635,7 @@ enclasping
 enclave
 enclaves
 enclaving
+enclitics
 enclose
 encloser
 enclosers
@@ -28836,6 +28844,7 @@ flirtation
 flirtations
 flirtatiously
 flirted
+flirty
 flit
 flite
 flited
@@ -29194,6 +29203,7 @@ fogie
 fogless
 fogy
 fogyish
+foh
 fohn
 foibles
 foiling
@@ -32713,6 +32723,7 @@ grasslands
 grassless
 grassplots
 grassroot
+grassroots
 grassy
 grate
 grated
@@ -32745,6 +32756,7 @@ gravels
 graven
 gravenesses
 graver
+gravers
 gravesides
 gravesite
 gravesites
@@ -36687,6 +36699,7 @@ hypo
 hypoallergenic
 hypoblast
 hypocalcemias
+hypocenter
 hypochlorite
 hypochlorites
 hypochondriacal
@@ -36710,6 +36723,7 @@ hypoglossal
 hypoglossals
 hypoglycemic
 hypogynies
+hypogynous
 hypoing
 hypokalemia
 hypokalemias
@@ -36731,6 +36745,7 @@ hypophysis
 hypopituitarism
 hypoplasia
 hypoplasias
+hypopnea
 hypopneas
 hypopyons
 hypospadiases
@@ -37830,6 +37845,7 @@ incognita
 incognitas
 incognitos
 incognizant
+incogs
 incoherent
 incombustibles
 income
@@ -38270,6 +38286,7 @@ inexpedience
 inexpediency
 inexpediently
 inexpensive
+inexpensiveness
 inexperiences
 inexpert
 inexpertly
@@ -41972,6 +41989,7 @@ lallan
 lalland
 lallation
 lallations
+lalled
 lallygag
 lallygags
 lam
@@ -54809,6 +54827,7 @@ paleontological
 paleontologist
 paleosols
 paleozoic
+paleozoological
 paleozoologist
 paleozoologists
 paler
@@ -59058,6 +59077,7 @@ populistic
 porcelain
 porcelainize
 porcelainizes
+porcellaneous
 porches
 porcini
 porcinis
@@ -59843,6 +59863,7 @@ preemergence
 preemergent
 preemie
 preeminence
+preeminently
 preemployment
 preempted
 preemptions
@@ -59873,6 +59894,7 @@ preexists
 preexperiment
 preexpose
 preexposes
+preexposing
 prefabbing
 prefabricates
 prefabrication
@@ -59887,6 +59909,7 @@ prefer
 preferable
 preferably
 preference
+preferences
 preferential
 preferments
 preferrer
@@ -61460,6 +61483,7 @@ psyched
 psychedelia
 psychedelic
 psychedelics
+psyches
 psychiatries
 psychiatrists
 psychiatry
@@ -61851,6 +61875,7 @@ purist
 puristic
 puristically
 puritan
+puritanic
 puritanism
 puritanisms
 puritans
@@ -62721,6 +62746,7 @@ raffinates
 raffinose
 raffinoses
 raffishly
+raffishness
 raffled
 raffler
 rafflers
@@ -65079,6 +65105,7 @@ remixture
 remobilizations
 remobilizes
 remobilizing
+remodeled
 remodeler
 remodelers
 remodeling
@@ -65193,6 +65220,7 @@ renown
 renowning
 rentabilities
 rentable
+rentals
 rente
 rented
 renter
@@ -66997,6 +67025,7 @@ roadies
 roadkill
 roadkills
 roadrunners
+roads
 roadstead
 roadsteads
 roadster
@@ -69489,6 +69518,7 @@ sedimentation
 sedimenting
 sedimentologic
 sedimentologies
+sedimentology
 sediments
 seditions
 seditiousness
@@ -72215,6 +72245,7 @@ smallholder
 smallholding
 smallish
 smallmouth
+smallmouths
 smallnesses
 smalls
 smallswords
@@ -76580,6 +76611,7 @@ superfluidities
 superfluids
 superfluities
 superfluousness
+superfund
 supergene
 supergiants
 superglue
@@ -79277,6 +79309,7 @@ threaper
 threaps
 threated
 threatener
+threateners
 threatening
 threateningly
 threatens
@@ -87515,6 +87548,7 @@ within
 withindoors
 withing
 withins
+without
 withouts
 withstands
 withstood
@@ -88623,6 +88657,7 @@ zymogens
 zymogram
 zymograms
 zymologies
+zymolyses
 zymosan
 zymosans
 zymosis
