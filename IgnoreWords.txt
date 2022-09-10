@@ -1881,6 +1881,7 @@ alpenstock
 alpha
 alphabet
 alphabeted
+alphabetic
 alphabetically
 alphabeting
 alphabetization
@@ -3106,6 +3107,7 @@ antipersonnel
 antiperspirants
 antipesticide
 antiphlogistic
+antiphon
 antiphonal
 antiphonals
 antiphonaries
@@ -5096,6 +5098,7 @@ axially
 axil
 axilla
 axillars
+axillary
 axils
 axiological
 axiologically
@@ -6859,6 +6862,7 @@ bestirred
 bestowal
 bestowers
 bestows
+bestrew
 bestrewed
 bestrewn
 bestrews
@@ -7754,6 +7758,7 @@ blenched
 blencher
 blend
 blende
+blender
 blendes
 blends
 blennioid
@@ -8484,6 +8489,7 @@ borzoi
 borzois
 bos
 boscage
+boschboks
 boschvarks
 boshes
 boshvarks
@@ -13748,6 +13754,7 @@ coalify
 coalifying
 coalitionists
 coalitions
+coalless
 coalpits
 coalsack
 coalsacks
@@ -20160,6 +20167,7 @@ despoilment
 despoliation
 despond
 despondence
+despondences
 despondencies
 despondency
 despondent
@@ -26244,6 +26252,7 @@ excelsior
 excelsiors
 except
 excepting
+exceptionable
 exceptional
 exceptionalisms
 exceptionality
@@ -27677,6 +27686,7 @@ fenuron
 feod
 feodaries
 feodary
+feoff
 feoffed
 feoffee
 feoffees
@@ -28455,6 +28465,7 @@ flancards
 flanerie
 flanger
 flanging
+flank
 flanker
 flankers
 flannel
@@ -30598,6 +30609,7 @@ galleys
 galliasses
 gallic
 gallican
+gallicization
 gallicizations
 gallicized
 galling
@@ -36830,6 +36842,7 @@ ihrams
 ikebana
 ikons
 ileac
+ileitides
 ileitis
 ileostomy
 ileum
@@ -38285,6 +38298,7 @@ ingatherings
 ingathers
 ingeniously
 ingeniousness
+ingenuity
 ingenuous
 ingenuousnesses
 ingested
@@ -40841,6 +40855,7 @@ keddahs
 kedged
 kedgerees
 kedges
+keef
 keefs
 keeked
 keeking
@@ -44289,6 +44304,7 @@ macrofossils
 macroglobulins
 macromere
 macromolecular
+macromolecule
 macromolecules
 macron
 macrons
@@ -44893,6 +44909,7 @@ manufacturings
 manumits
 manure
 manured
+manurer
 manward
 manwards
 manwise
@@ -45905,6 +45922,7 @@ mercuration
 mercurations
 mercurially
 mercurialnesses
+mercuric
 mercy
 mere
 merengue
@@ -45975,6 +45993,7 @@ meshing
 meshugah
 meshugga
 meshworks
+mesial
 mesially
 mesically
 mesmeric
@@ -46801,6 +46820,7 @@ minimills
 minimise
 minimized
 minimizer
+minimizers
 minimizes
 minimums
 mining
@@ -47471,6 +47491,7 @@ mistouched
 mistouching
 mistrace
 mistraces
+mistracing
 mistrals
 mistranscribing
 mistranslate
@@ -53372,6 +53393,7 @@ ovariectomies
 ovariectomy
 ovariole
 ovarioles
+ovariotomies
 ovariotomy
 ovary
 ovately
@@ -56637,6 +56659,7 @@ phagedena
 phagedenas
 phages
 phagocytic
+phagocytize
 phagocytized
 phagocytose
 phagocytosed
@@ -58082,6 +58105,7 @@ pliably
 pliant
 pliantly
 pliantness
+plica
 plicate
 plicated
 plicately
@@ -60010,6 +60034,7 @@ press
 pressboard
 pressboards
 pressed
+pressers
 pressingly
 pressings
 pressmark
@@ -69743,6 +69768,7 @@ serosity
 serotinal
 serotine
 serotinies
+serotoninergic
 serotonins
 serotypes
 serous
@@ -74948,6 +74974,7 @@ stringcourse
 stringcourses
 stringed
 stringencies
+stringent
 stringer
 stringhalts
 stringier
@@ -76416,6 +76443,7 @@ supineness
 supinenesses
 supines
 supped
+supping
 supplant
 supplantations
 supplanted
@@ -78854,6 +78882,7 @@ thoron
 thorons
 thorough
 thoroughbraces
+thoroughbreds
 thorougher
 thoroughest
 thoroughly
@@ -82706,6 +82735,7 @@ unexpurgated
 unfaded
 unfair
 unfairer
+unfairest
 unfairness
 unfaith
 unfaithful
@@ -82728,6 +82758,7 @@ unfeelingnesses
 unfeigned
 unfeignedly
 unfence
+unfences
 unfencing
 unfertilized
 unfetter
@@ -85943,6 +85974,7 @@ warpath
 warped
 warpers
 warplane
+warplanes
 warpower
 warpwise
 warragal
@@ -86608,6 +86640,7 @@ whirrs
 whirs
 whishes
 whisht
+whishts
 whisk
 whiskered
 whiskery
@@ -87145,6 +87178,7 @@ wobblies
 wobblinesses
 wobegone
 woe
+woebegoneness
 woefuller
 woful
 wofuller
@@ -87379,6 +87413,7 @@ wormroot
 wormroots
 worms
 wormwood
+wormwoods
 worries
 worrisome
 worrit
