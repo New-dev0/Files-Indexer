@@ -3607,6 +3607,7 @@ approachable
 approaching
 approbate
 approbates
+approbation
 appropriate
 appropriated
 appropriately
@@ -5935,6 +5936,7 @@ bask
 basked
 basketballs
 basketful
+basketfuls
 basketry
 basketwork
 basketworks
@@ -6722,6 +6724,7 @@ benzidines
 benzidins
 benzoates
 benzocaines
+benzofuran
 benzofurans
 benzoic
 benzoins
@@ -10315,6 +10318,7 @@ calk
 calkers
 calking
 calkings
+calkins
 calks
 call
 callaloo
@@ -14836,6 +14840,7 @@ competing
 competitiveness
 competitor
 competitors
+compilation
 compilations
 compile
 compiles
@@ -17991,6 +17996,7 @@ customarily
 customarinesses
 customer
 customhouses
+customise
 customizer
 customizes
 customs
@@ -25737,6 +25743,7 @@ escolar
 escolars
 escot
 escritoire
+escritoires
 escrow
 escrows
 escuage
@@ -30665,6 +30672,7 @@ gallinule
 gallinules
 galliots
 gallipot
+gallipots
 gallium
 gallivant
 gallivanted
@@ -32857,6 +32865,7 @@ grigris
 grillades
 grille
 grillers
+grilling
 grills
 grillwork
 grilse
@@ -39537,6 +39546,7 @@ inveterate
 inveterately
 inviability
 inviably
+invidiousness
 invigilate
 invigilated
 invigilates
@@ -39596,6 +39606,7 @@ involved
 involvement
 involvements
 involver
+involves
 invulnerability
 invulnerably
 inwall
@@ -40699,6 +40710,7 @@ jurally
 jurels
 juridic
 juridically
+juries
 jurisconsult
 jurisconsults
 jurisdiction
@@ -46232,6 +46244,7 @@ metaxylem
 metaxylems
 metazoa
 metazoan
+metazoans
 metazoon
 metempsychoses
 metencephala
@@ -47681,6 +47694,7 @@ moaning
 moaningly
 moans
 moat
+moatlike
 moats
 mobber
 mobbers
@@ -47860,6 +47874,7 @@ mols
 moltenly
 molter
 molters
+molting
 molts
 moly
 molybdenite
@@ -48619,6 +48634,7 @@ muchnesses
 mucho
 mucidity
 mucilage
+mucilages
 mucilaginous
 mucilaginously
 mucin
@@ -48905,6 +48921,7 @@ mundungos
 mundungus
 mundunguses
 mungo
+mungoose
 municipalities
 municipality
 municipalize
@@ -49237,6 +49254,7 @@ mystification
 mystifications
 mystified
 mystifiers
+mystifying
 mystique
 mythically
 mythicize
@@ -50117,6 +50135,7 @@ nighed
 nighest
 nighs
 night
+nightcap
 nightcaps
 nightclothes
 nightclubber
@@ -52946,6 +52965,7 @@ outdrawn
 outdraws
 outdreaming
 outdressed
+outdrew
 outdrink
 outdrives
 outdriving
@@ -54927,6 +54947,7 @@ pantisocratist
 pantisocratists
 panto
 pantoffles
+pantographic
 pantomime
 pantomimed
 pantomimes
@@ -55517,6 +55538,7 @@ pastitsos
 pastless
 pastnesses
 pastor
+pastorales
 pastorali
 pastoralism
 pastoralisms
@@ -55990,6 +56012,7 @@ peles
 pelisse
 pelisses
 pelites
+pellagras
 pellagrins
 pellagrous
 pelletal
@@ -62602,6 +62625,7 @@ ragman
 ragmen
 ragouted
 ragouts
+ragpickers
 ragtimes
 ragtops
 ragweeds
@@ -62627,6 +62651,7 @@ railroads
 railways
 rainbands
 rainbirds
+raincoats
 rainier
 rainiest
 raininess
@@ -62647,6 +62672,7 @@ raiseable
 raised
 raisers
 raises
+raisin
 raisiny
 raisonne
 raita
@@ -65204,6 +65230,7 @@ replicabilities
 replicable
 replicas
 replicases
+replicate
 replication
 replications
 replicative
@@ -65917,6 +65944,7 @@ retardation
 retarder
 retarding
 retards
+retarget
 retaste
 retastes
 retax
@@ -70615,6 +70643,7 @@ shoe
 shoebill
 shoeblacks
 shoebox
+shoeboxes
 shoehorning
 shoehorns
 shoeing
@@ -74628,6 +74657,7 @@ stigmatists
 stigmatizations
 stigmatize
 stigmatized
+stigmatizing
 stilbenes
 stilbestrols
 stilbite
@@ -79293,6 +79323,7 @@ tiddledywinks
 tiddler
 tiddlers
 tiddly
+tiddlywinks
 tide
 tided
 tidelands
@@ -80256,6 +80287,7 @@ trainer
 trainers
 trainful
 trainings
+trainload
 trainloads
 trainmen
 trainway
@@ -80856,6 +80888,7 @@ trifold
 trifoliate
 trifoliums
 triforia
+triforium
 triform
 trifurcated
 trifurcates
@@ -86707,6 +86740,7 @@ whenas
 whenever
 whens
 whensoever
+whereabout
 whereabouts
 wherefore
 wherein
@@ -88052,6 +88086,7 @@ yodelling
 yodels
 yodhs
 yodle
+yodled
 yodler
 yodlers
 yodles
