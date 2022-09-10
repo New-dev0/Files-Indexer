@@ -6027,6 +6027,7 @@ bathrobe
 bathrobes
 bathroom
 baths
+bathtub
 bathtubs
 bathwaters
 bathyal
@@ -6348,6 +6349,7 @@ bedrocks
 bedroll
 bedroom
 bedroomed
+bedrooms
 bedrugged
 bedrugging
 bedrugs
@@ -6419,6 +6421,7 @@ beeswing
 beeswings
 beetle
 beetlers
+beetles
 beetling
 beetroots
 beeyard
@@ -7147,6 +7150,7 @@ biggie
 biggies
 bigging
 biggings
+biggish
 biggy
 bighead
 bighted
@@ -8600,6 +8604,7 @@ boubou
 boucles
 boudoirs
 bouffe
+bouffes
 bougainvillaea
 bough
 boughless
@@ -12653,6 +12658,7 @@ chiselled
 chiseller
 chisels
 chital
+chitchat
 chitchats
 chitchatting
 chitling
@@ -12974,6 +12980,7 @@ chug
 chugalugs
 chugger
 chukka
+chukkars
 chukkas
 chukkers
 chum
@@ -19690,6 +19697,7 @@ democrats
 demode
 demodulation
 demodulations
+demoed
 demographer
 demographic
 demography
@@ -19871,6 +19879,7 @@ deny
 denying
 denyingly
 deodands
+deodar
 deodara
 deodaras
 deodorant
@@ -26762,6 +26771,7 @@ explodes
 exploitable
 exploitation
 exploitative
+exploiters
 exploitive
 explorational
 explorations
@@ -27082,6 +27092,7 @@ facecloths
 faceless
 facelessnesses
 facelifted
+facelifting
 facelifts
 faceplate
 facer
@@ -29827,6 +29838,7 @@ fracases
 fractals
 fracted
 fraction
+fractional
 fractionalize
 fractionalized
 fractionalizing
@@ -33983,6 +33995,7 @@ hangs
 hangtags
 haniwa
 hanked
+hankered
 hankerer
 hankerers
 hankering
@@ -34240,6 +34253,7 @@ hatefulness
 hater
 haters
 hates
+hath
 hating
 hatmakers
 hatrack
@@ -35749,6 +35763,7 @@ hooches
 hoochie
 hoochies
 hoodednesses
+hoodie
 hoodies
 hoodiest
 hooding
@@ -36412,6 +36427,7 @@ hydroceles
 hydrocephalus
 hydrocephaluses
 hydrochloride
+hydrocolloid
 hydrocolloids
 hydrocracked
 hydrocracker
@@ -37527,6 +37543,7 @@ impound
 impounded
 impounder
 impounders
+impoundment
 impoundments
 impounds
 impoverisher
@@ -38678,6 +38695,7 @@ innovatory
 inns
 innuendo
 innuendoed
+innuendoing
 innumerable
 innumerably
 innumeracies
@@ -43322,6 +43340,7 @@ lingerers
 lingerie
 lingeringly
 lingers
+lingier
 lingiest
 lingo
 lingonberry
@@ -46803,6 +46822,7 @@ miles
 milesian
 milestone
 milestones
+milfoil
 milfoils
 milia
 miliarias
@@ -46876,6 +46896,7 @@ milliers
 milligal
 milligram
 milligrams
+millihenries
 millihenry
 millihenrys
 milliluces
@@ -48911,6 +48932,7 @@ multiform
 multiformities
 multifunctional
 multigenic
+multigerm
 multigroup
 multiheaded
 multihull
@@ -50511,6 +50533,7 @@ nonaffiliated
 nonaffluent
 nonages
 nonaggressions
+nonagons
 nonagricultural
 nonalignment
 nonambiguous
@@ -53696,6 +53719,7 @@ overbeats
 overbed
 overbejeweled
 overbet
+overbets
 overbetting
 overbidden
 overbilled
@@ -54262,6 +54286,7 @@ oversensitive
 oversensitivity
 overseriously
 overservice
+overserviced
 oversets
 oversetting
 oversew
@@ -54773,6 +54798,7 @@ paladin
 palaestra
 palaestrae
 palaestras
+palais
 palankeen
 palanquins
 palatabilities
@@ -63506,6 +63532,7 @@ rebounds
 rebranching
 rebreed
 rebreeds
+rebroadcast
 rebuff
 rebuffing
 rebuffs
@@ -69258,6 +69285,7 @@ scullions
 sculls
 sculped
 sculping
+sculpt
 sculptor
 sculptors
 sculptresses
@@ -72755,6 +72783,7 @@ sodas
 sodbusters
 soddened
 soddenness
+soddennesses
 soddies
 soddy
 sodic
@@ -77361,6 +77390,7 @@ syllogizing
 sylph
 sylphish
 sylphlike
+sylphy
 sylvae
 sylvan
 sylvanite
@@ -79349,6 +79379,7 @@ throatier
 throatiness
 throating
 throatlatch
+throats
 throb
 throbbed
 throbs
@@ -81396,6 +81427,7 @@ trotyls
 troubadour
 troublemakers
 troublemaking
+troublemakings
 troubles
 troubleshoot
 troubleshooters
@@ -82305,6 +82337,7 @@ unaccustomedly
 unacerbic
 unacknowledged
 unactorish
+unaddressed
 unadeptly
 unadjusted
 unadoptable
@@ -84623,6 +84656,7 @@ usurp
 usurpation
 usurped
 usurper
+ute
 utensils
 uterine
 uteruses
@@ -88661,6 +88695,7 @@ zymolyses
 zymosan
 zymosans
 zymosis
+zymotic
 zymurgies
 zyzzyva
 zyzzyvas
