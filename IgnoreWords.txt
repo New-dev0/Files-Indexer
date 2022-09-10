@@ -1166,6 +1166,7 @@ agar
 agarose
 agaroses
 agars
+agas
 agatewares
 agatize
 agatizes
@@ -12440,6 +12441,7 @@ chicly
 chico
 chicory
 chicos
+chider
 chides
 chiefdom
 chiefdoms
@@ -14622,6 +14624,7 @@ comma
 commandants
 commandeer
 commandeered
+commandeering
 commanderships
 commanding
 commandment
@@ -16099,6 +16102,7 @@ corby
 cord
 cordages
 cordate
+cordately
 cordelle
 corder
 corders
@@ -18565,6 +18569,7 @@ datelines
 dater
 dates
 dating
+datively
 dato
 datos
 datum
@@ -29360,6 +29365,7 @@ foreground
 foreguts
 forehand
 forehanded
+forehandedly
 foreign
 foreignisms
 foreignnesses
@@ -29452,6 +29458,7 @@ foretooth
 foretops
 forever
 forevernesses
+forewarning
 forewarns
 forewing
 forewings
@@ -30750,6 +30757,7 @@ gandering
 gane
 ganef
 ganevs
+gang
 gangbanged
 gangbangs
 gangbuster
@@ -31394,6 +31402,7 @@ gesticulated
 gesticulations
 gesticulators
 gesticulatory
+gesturally
 gesturer
 gesturers
 gesturing
@@ -31544,6 +31553,7 @@ gimbaling
 gimballing
 gimbals
 gimcrack
+gimcrackery
 gimleting
 gimlets
 gimmals
@@ -36834,6 +36844,7 @@ igg
 igloos
 ignatia
 igneous
+ignescent
 ignescents
 ignified
 ignify
@@ -37085,6 +37096,7 @@ immodest
 immodesties
 immodesty
 immolate
+immolated
 immolates
 immolating
 immolations
@@ -37524,6 +37536,7 @@ inanely
 inaneness
 inaner
 inanes
+inanimate
 inanimately
 inanimatenesses
 inanities
@@ -37953,6 +37966,7 @@ indigenization
 indigenizations
 indigenize
 indigenized
+indigenizing
 indigenous
 indigenousness
 indigested
@@ -38498,6 +38512,7 @@ innermosts
 inners
 innersoles
 innerspring
+innervate
 innervated
 innervates
 innervating
@@ -38762,6 +38777,7 @@ instructorships
 instrument
 instrumental
 instrumentalism
+instrumentality
 instrumentation
 instrumenting
 instruments
@@ -39127,6 +39143,7 @@ interparty
 interpellated
 interpellator
 interpellators
+interpermeated
 interpermeates
 interpermeating
 interphalangeal
@@ -46196,6 +46213,7 @@ meteoritics
 meteoroidal
 meteorologic
 meteorological
+meteorologist
 meteorology
 metepa
 metepas
@@ -49084,6 +49102,7 @@ mycophagist
 mycophagists
 mycophagy
 mycophile
+mycoplasma
 mycoplasmal
 mycoplasmas
 mycorhiza
@@ -51150,6 +51169,7 @@ nourishing
 nourishment
 nouvelle
 nouvelles
+nova
 novaculites
 novae
 novalike
@@ -51640,6 +51660,7 @@ occipita
 occipital
 occipitally
 occiputs
+occluded
 occluding
 occlusions
 occlusive
@@ -53696,6 +53717,7 @@ overestimation
 overestimations
 overevaluations
 overexaggerate
+overexaggerates
 overexcite
 overexercising
 overexertion
@@ -55938,6 +55960,7 @@ pelletizes
 pellicle
 pellmells
 pellucid
+pellucidly
 pelmets
 peloric
 pelorus
@@ -59651,6 +59674,7 @@ preerects
 prees
 preestablishes
 preethical
+preexcites
 preexempted
 preexempts
 preexilic
@@ -59904,6 +59928,7 @@ preperformance
 prepill
 preplaces
 preplacing
+preponderancies
 preponderancy
 preponderantly
 preponderated
@@ -61838,6 +61863,7 @@ pyroceram
 pyroclastic
 pyroelectric
 pyroelectricity
+pyrogallol
 pyrogenic
 pyrogenicities
 pyrolas
@@ -62566,6 +62592,7 @@ rainspouts
 rainwashed
 rainwashes
 rainwater
+raisable
 raiseable
 raised
 raisers
@@ -65152,6 +65179,7 @@ repolls
 repopularized
 repopularizes
 repopulated
+repopulates
 repopulations
 reportable
 reportage
@@ -71334,6 +71362,7 @@ skeletons
 skells
 skellums
 skelm
+skelp
 skelped
 skelter
 skeltered
@@ -74290,6 +74319,7 @@ steamrolling
 steamship
 steamy
 stearates
+steatite
 steatopygia
 steatopygias
 steatorrhea
@@ -77262,6 +77292,7 @@ syren
 syringas
 syringe
 syringing
+syringomyelic
 syrinx
 syrinxes
 syrphian
@@ -77384,6 +77415,7 @@ tactfully
 tactic
 tactically
 tactics
+tactile
 taction
 tactlessly
 tactlessness
@@ -77508,6 +77540,7 @@ tallaging
 tallaisim
 tallied
 tallier
+tallies
 tallish
 tallithes
 tallithim
@@ -85946,6 +85979,7 @@ wandered
 wandering
 wanderings
 wanderlust
+wanderlusts
 wanderoo
 wands
 wane
@@ -86186,6 +86220,7 @@ waterlogging
 waterlogs
 waterloos
 watermark
+watermarking
 waterpower
 waterproof
 waterproofers
