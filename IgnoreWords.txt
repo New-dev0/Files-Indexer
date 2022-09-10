@@ -85,6 +85,7 @@ absolvers
 absolves
 absonant
 absorb
+absorbabilities
 absorbance
 absorbancies
 absorbant
@@ -2064,6 +2065,7 @@ amboinas
 ambones
 ambos
 amboynas
+ambroid
 ambroids
 ambrosia
 ambrosias
@@ -6978,6 +6980,7 @@ beweeps
 bewept
 bewhiskered
 bewig
+bewigged
 bewigging
 bewigs
 bewilder
@@ -9628,6 +9631,7 @@ bullishly
 bullishness
 bullishnesses
 bullnecked
+bullnecks
 bullnose
 bullocky
 bullpen
@@ -11814,6 +11818,7 @@ cephalins
 cephalizations
 cephalopod
 cephaloridine
+cephaloridines
 cephalosporin
 cephalothin
 cephalothorax
@@ -12181,6 +12186,7 @@ charmed
 charmer
 charmeuse
 charmeuses
+charminger
 charmingest
 charmingly
 charnel
@@ -13038,6 +13044,7 @@ chute
 chutes
 chutist
 chutists
+chutnee
 chutneys
 chutzpa
 chutzpah
@@ -13048,6 +13055,7 @@ chymist
 chymists
 chymotrypsin
 chytrid
+chytrids
 cibol
 cibols
 ciborium
@@ -15095,6 +15103,7 @@ conceptualizer
 conceptualizers
 conceptually
 conceptus
+concern
 concerning
 concernments
 concerns
@@ -17182,6 +17191,7 @@ cremini
 crenated
 crenately
 crenature
+crenel
 crenelated
 crenelates
 crenelating
@@ -25342,6 +25352,7 @@ epazotes
 epeirogenic
 epeirogenically
 epeirogeny
+epenthetic
 epergne
 epergnes
 epexegeses
@@ -25533,6 +25544,7 @@ epizoic
 epizoism
 epizoisms
 epizoites
+epizoon
 epizootics
 epizooties
 epizootiologic
@@ -33361,6 +33373,7 @@ guilt
 guiltily
 guiltinesses
 guiltless
+guiltlessnesses
 guilty
 guimpe
 guimpes
@@ -34033,6 +34046,7 @@ hanseatic
 hansel
 hanselled
 hanselling
+hansels
 hanses
 hansom
 hansoms
@@ -34457,6 +34471,7 @@ headsets
 headshrinker
 headshrinkers
 headsmen
+headspaces
 headsprings
 headstand
 headstands
@@ -38647,6 +38662,7 @@ injudiciousness
 injunctive
 injurable
 injure
+injurer
 injuriousness
 injury
 ink
@@ -39972,6 +39988,7 @@ ischaemias
 ischemia
 ischemic
 ischia
+ischiatic
 ischium
 iseikonia
 iseikonic
@@ -40119,6 +40136,7 @@ issei
 issuable
 issuably
 issuance
+issuant
 issuers
 issues
 isthmian
@@ -43683,6 +43701,7 @@ lobar
 lobate
 lobbed
 lobber
+lobbers
 lobbied
 lobby
 lobbyism
@@ -44404,6 +44423,7 @@ lyddites
 lye
 lyes
 lymphadenitises
+lymphangiogram
 lymphangiograms
 lymphatics
 lymphoblast
@@ -45049,6 +45069,7 @@ manifestant
 manifestation
 manifested
 manifester
+manifesting
 manifestly
 manifestos
 manifests
@@ -45537,6 +45558,7 @@ mates
 matey
 mateyness
 mateys
+math
 mathematically
 mathematician
 mathematicians
@@ -52128,6 +52150,7 @@ ogreism
 ogres
 ogress
 ogresses
+ogrism
 ogrisms
 ohed
 ohia
@@ -57817,6 +57840,7 @@ pinewood
 pinewoods
 piney
 pinfeather
+pinfeathers
 pinfish
 pinfolded
 pinfolds
@@ -63506,6 +63530,7 @@ reattain
 reattained
 reattains
 reattempted
+reattempts
 reattribute
 reattributes
 reattribution
@@ -65106,6 +65131,7 @@ remarkably
 remarketed
 remarketing
 remarkets
+remarking
 remarque
 remarques
 remarriage
@@ -68273,6 +68299,7 @@ sandcrack
 sanddabs
 sanders
 sandflies
+sandglass
 sandglasses
 sandgrouse
 sandgrouses
@@ -71296,6 +71323,7 @@ sightliest
 sightlines
 sightly
 sights
+sightsee
 sightseeing
 sightseen
 sightseers
@@ -73422,6 +73450,7 @@ sparables
 spare
 spareable
 spared
+sparenesses
 sparerib
 sparers
 spares
@@ -78557,6 +78586,7 @@ tellurometers
 tellurous
 telnet
 telneting
+telocentric
 telome
 telomere
 telomeres
@@ -80588,6 +80618,7 @@ traipse
 traipses
 traipsing
 trait
+traitor
 traitorously
 traitors
 traject
@@ -80968,6 +80999,7 @@ trellising
 trelliswork
 tremble
 trembled
+trembler
 tremblier
 trembling
 tremendous
@@ -81423,6 +81455,7 @@ trolley
 trolleybuses
 trolleyed
 trolleying
+trollies
 trollings
 trollops
 trollopy
@@ -84733,6 +84766,7 @@ utilitarianisms
 utility
 utilizable
 utilize
+utilizers
 utilizing
 utmost
 utmosts
@@ -85092,6 +85126,7 @@ vaticination
 vaticinator
 vaticinators
 vats
+vatting
 vatu
 vatus
 vaudevillians
