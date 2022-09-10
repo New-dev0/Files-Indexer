@@ -1415,6 +1415,7 @@ airmailing
 airman
 airmen
 airmobile
+airns
 airpark
 airplanes
 airports
@@ -3841,6 +3842,7 @@ arena
 arenaceous
 arene
 arenes
+arenite
 arenites
 areolate
 areolated
@@ -6901,6 +6903,7 @@ beths
 bethumps
 betide
 betides
+betiding
 betime
 betimes
 betise
@@ -10473,6 +10476,7 @@ campus
 campuses
 campusing
 campylobacters
+camshaft
 can
 canaille
 canailles
@@ -10659,6 +10663,7 @@ cantillating
 cantillations
 cantina
 cantle
+cantles
 canton
 cantonment
 cantor
@@ -13527,6 +13532,7 @@ clippable
 clipped
 clipper
 clippers
+clipping
 clippings
 clips
 clipsheet
@@ -15415,6 +15421,7 @@ connubialism
 connubialisms
 connubiality
 connubially
+conodont
 conodonts
 conoid
 conquer
@@ -16518,6 +16525,7 @@ counteracting
 counteractions
 counteragents
 counterargue
+counterargued
 counterargues
 counterarguing
 counterargument
@@ -19198,6 +19206,7 @@ defiers
 defiladed
 defilement
 defiling
+define
 definement
 definer
 defines
@@ -19628,6 +19637,7 @@ demon
 demonesses
 demonetizations
 demonetizes
+demoniacal
 demoniacally
 demonic
 demonical
@@ -30857,6 +30867,7 @@ garote
 garoted
 garotes
 garoting
+garotted
 garotters
 garottes
 garotting
@@ -38313,6 +38324,7 @@ ingeniously
 ingeniousness
 ingenuity
 ingenuous
+ingenuousness
 ingenuousnesses
 ingested
 ingestion
@@ -41294,6 +41306,7 @@ kissing
 kistful
 kistfuls
 kists
+kitbags
 kitchen
 kitchenets
 kitchenettes
@@ -42493,6 +42506,7 @@ legates
 legateship
 legateships
 legating
+legation
 legato
 legatos
 legend
@@ -43967,6 +43981,7 @@ luger
 luggages
 luging
 lugsail
+lugubrious
 lugubriously
 lugubriousness
 lullabied
@@ -44111,6 +44126,7 @@ lustration
 lustrations
 lustred
 lustring
+lustrings
 lustrous
 lustrousnesses
 lustrum
@@ -46757,6 +46773,7 @@ miming
 mina
 minacious
 minacity
+minae
 minatory
 minaudieres
 minced
@@ -50101,6 +50118,7 @@ nincompoopery
 ninebark
 ninebarks
 ninefold
+ninepins
 nines
 nineties
 ninety
@@ -52834,6 +52852,7 @@ outcursing
 outdances
 outdancing
 outdare
+outdared
 outdares
 outdaring
 outdate
@@ -52841,6 +52860,7 @@ outdatedly
 outdatednesses
 outdating
 outdazzle
+outdazzled
 outdazzling
 outdebated
 outdebates
@@ -53745,6 +53765,7 @@ overglamorizing
 overglaze
 overglazed
 overgoad
+overgoaded
 overgoads
 overgovern
 overgoverning
@@ -53857,6 +53878,7 @@ overlorded
 overlording
 overlords
 overlordship
+overlove
 overloved
 overloving
 overly
@@ -56972,6 +56994,7 @@ photobiologic
 photobiological
 photobiologists
 photochemical
+photochemist
 photochemistry
 photochemists
 photochromic
@@ -58256,6 +58279,7 @@ plyingly
 pneumas
 pneumatic
 pneumaticities
+pneumatics
 pneumatology
 pneumatolytic
 pneumatophore
@@ -59013,6 +59037,7 @@ postgame
 postglacial
 postgrad
 postgrads
+postgraduate
 postgraduates
 postgraduation
 postharvest
@@ -61094,6 +61119,7 @@ provincializing
 provincially
 provincials
 provisionally
+provisionals
 provisionary
 provisoes
 provisory
@@ -61974,6 +62000,7 @@ qualifiedly
 qualifier
 qualitatively
 qualities
+qualmishness
 qualms
 quamash
 quamashes
@@ -63466,6 +63493,7 @@ reconceptualize
 reconcilability
 reconcilable
 reconciled
+reconcilements
 reconciliations
 reconciliatory
 reconciling
@@ -66518,6 +66546,7 @@ rightsizing
 righty
 rigid
 rigidification
+rigidifying
 rigidities
 rigidity
 rigidnesses
@@ -68993,6 +69022,7 @@ scuttled
 scutwork
 scutworks
 scuzzball
+scuzzy
 scyphate
 scyphi
 scyphozoan
@@ -76941,6 +76971,7 @@ swooning
 swooningly
 swoons
 swoony
+swooped
 swoopier
 swoopiest
 swoops
@@ -77428,6 +77459,7 @@ takable
 takahe
 takahes
 take
+takedown
 takeoff
 takeoffs
 takeover
@@ -79237,6 +79269,7 @@ til
 tilak
 tilaks
 tilapia
+tilbury
 tilde
 tilefish
 tilefishes
@@ -83999,6 +84032,7 @@ uppercutting
 uppermost
 uppers
 uppile
+uppiling
 uppings
 uppishnesses
 uppitiness
@@ -87746,6 +87780,7 @@ yammers
 yamulka
 yang
 yantra
+yantras
 yap
 yapoks
 yapons
