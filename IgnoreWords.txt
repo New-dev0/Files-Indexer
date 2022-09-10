@@ -4559,6 +4559,7 @@ atomized
 atomizer
 atomizes
 atomizing
+atomy
 atonable
 atonalism
 atonalisms
@@ -4688,6 +4689,7 @@ auberge
 aubretia
 auburn
 auburns
+auction
 auctioned
 auctioning
 aucuba
@@ -5589,6 +5591,7 @@ banco
 bancos
 banda
 bandage
+bandaged
 bandager
 bandagers
 bandages
@@ -9477,6 +9480,7 @@ buddy
 buddying
 budged
 budger
+budgerigar
 budgerigars
 budget
 budgetary
@@ -13480,6 +13484,7 @@ cleping
 clepsydra
 clept
 clerestories
+clergy
 clergymen
 clergywoman
 clergywomen
@@ -15542,6 +15547,7 @@ consolidates
 consolidating
 consolidation
 consolidators
+consols
 consomme
 consonant
 consonants
@@ -20209,6 +20215,7 @@ despiser
 despises
 despising
 despiteful
+despitefulness
 despites
 despiting
 despoiled
@@ -21167,6 +21174,7 @@ diptycas
 diptychs
 diquats
 diram
+directed
 directedness
 directer
 direction
@@ -22739,6 +22747,7 @@ drabnesses
 dracena
 dracenas
 drachm
+drachma
 drachms
 draconian
 draconic
@@ -26505,6 +26514,7 @@ exhibitive
 exhibitors
 exhibitory
 exhibits
+exhilarate
 exhilarated
 exhilarates
 exhilarating
@@ -28687,6 +28697,7 @@ fleecing
 fleecy
 fleeing
 fleered
+fleering
 fleeringly
 fleers
 flees
@@ -29096,6 +29107,7 @@ foals
 foam
 foamable
 foamed
+foamer
 foamflower
 foamflowers
 foaminess
@@ -34180,6 +34192,7 @@ hatting
 haughs
 haughtier
 haughtily
+haughtiness
 haul
 haulage
 hauler
@@ -35836,6 +35849,7 @@ horsehairs
 horsehide
 horsehides
 horselaughs
+horseless
 horselike
 horsemanships
 horsemint
@@ -39803,6 +39817,7 @@ irreverently
 irreversibly
 irrevocability
 irrevocable
+irrevocableness
 irrevocably
 irridenta
 irrigable
@@ -40494,6 +40509,7 @@ joint
 jointed
 jointednesses
 jointers
+jointless
 jointly
 jointresses
 joints
@@ -46349,6 +46365,7 @@ metonymical
 metonymies
 metope
 metopes
+metopon
 metralgias
 metrazols
 metre
@@ -47656,6 +47673,7 @@ miswrit
 miswrite
 miswrites
 miswriting
+misyoke
 misyoking
 mite
 miter
@@ -49261,6 +49279,7 @@ mysids
 mysosts
 mystagogies
 mystagogue
+mysteries
 mysteriously
 mystery
 mystic
@@ -49545,6 +49564,7 @@ naturalisms
 naturalize
 naturalized
 naturally
+naturalness
 natured
 natures
 naturist
@@ -51531,6 +51551,7 @@ obeliscal
 obelisks
 obelism
 obelisms
+obelize
 obelized
 obento
 obentos
@@ -58446,6 +58467,7 @@ podiatric
 podiatrist
 podiatry
 podites
+poditic
 podium
 podiums
 podocarp
@@ -59607,6 +59629,7 @@ precipice
 precipices
 precipitable
 precipitancy
+precipitate
 precipitated
 precipitately
 precipitateness
@@ -62682,6 +62705,7 @@ raincoats
 rainier
 rainiest
 raininess
+raininesses
 rainless
 rainmaker
 rainmaking
@@ -63135,6 +63159,7 @@ readier
 readies
 readinesses
 reading
+readings
 readjusted
 readjustment
 readjustments
@@ -63782,6 +63807,7 @@ rectorships
 rectory
 rectrix
 rectums
+rectus
 recultivated
 recumbencies
 recumbent
@@ -64862,6 +64888,7 @@ reluctancies
 reluctant
 reluctate
 reluctation
+reluctations
 relucted
 relucting
 relume
@@ -65361,6 +65388,7 @@ reproachers
 reproachfully
 reproaching
 reproachingly
+reprobance
 reprobating
 reprobations
 reprobatory
@@ -67374,6 +67402,7 @@ rubrical
 rubricates
 rubrications
 rubricator
+rubricators
 rubrician
 rubricians
 rubrics
@@ -70902,6 +70931,7 @@ shutdown
 shuted
 shutes
 shuteye
+shuteyes
 shuting
 shutoffs
 shutout
@@ -72168,6 +72198,7 @@ smitheries
 smithers
 smithies
 smiths
+smithsonites
 smithy
 smiting
 smock
@@ -72790,6 +72821,7 @@ solution
 solutions
 solvate
 solvated
+solvation
 solve
 solvent
 solventless
@@ -79918,6 +79950,7 @@ topgallants
 tophe
 tophs
 topiary
+topicalities
 topically
 topics
 toping
@@ -82097,6 +82130,7 @@ umbrellaing
 umbrettes
 umiac
 umiack
+umiacks
 umiacs
 umiaks
 umlaut
@@ -87045,6 +87079,7 @@ widespread
 widgeon
 widget
 widowbirds
+widowered
 widowerhood
 widowerhoods
 widowers
