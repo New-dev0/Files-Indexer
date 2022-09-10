@@ -1932,6 +1932,7 @@ although
 altimeters
 altimetries
 altimetry
+altitude
 altitudinal
 altocumuli
 altogether
@@ -4895,6 +4896,7 @@ autohypnoses
 autohypnosis
 autohypnotic
 autoimmune
+autoinfections
 autoing
 autoloading
 autolysate
@@ -8014,6 +8016,7 @@ bluely
 bluenose
 bluenosed
 bluenoses
+bluepoint
 blueprints
 blueshifts
 bluesman
@@ -10715,6 +10718,7 @@ cantles
 canton
 cantonment
 cantor
+cantorial
 cantors
 cantos
 cantrap
@@ -10829,6 +10833,7 @@ capsizing
 capsomer
 capstan
 capstans
+capstone
 capstones
 capsulate
 capsulated
@@ -12864,6 +12869,7 @@ choroids
 chortle
 chortled
 chortlers
+chorused
 choruses
 chorussing
 chosen
@@ -13417,6 +13423,7 @@ classism
 classists
 classlessness
 classon
+classy
 clast
 clasts
 clathrate
@@ -14743,6 +14750,7 @@ commissars
 commissionaire
 commissionaires
 commissioned
+commissioners
 commissioning
 commissures
 commit
@@ -24121,6 +24129,7 @@ electroplating
 electropositive
 electroscope
 electrostatic
+electrosurgery
 electrosurgical
 electrotherapy
 electrotonic
@@ -25145,6 +25154,7 @@ enterostomal
 enterotoxin
 enterotoxins
 enteroviral
+enteroviruses
 enterprising
 entertaining
 entertainments
@@ -28496,6 +28506,7 @@ fitfulness
 fitfulnesses
 fitness
 fits
+fittable
 fitters
 fittingnesses
 fittings
@@ -36921,6 +36932,7 @@ identifiably
 identification
 identifications
 identified
+identifier
 identifiers
 identifies
 identify
@@ -37036,6 +37048,7 @@ ileitides
 ileitis
 ileostomy
 ileum
+ileus
 ileuses
 ilex
 ilia
@@ -37299,6 +37312,7 @@ immunogenicity
 immunogens
 immunologic
 immunologically
+immunologies
 immunologist
 immunologists
 immunology
@@ -39428,6 +39442,7 @@ interventions
 intervertebral
 interviewed
 interviewees
+interviewer
 intervillage
 intervisibility
 intervocalic
@@ -43690,6 +43705,7 @@ lobotomy
 lobscouse
 lobscouses
 lobster
+lobstered
 lobstering
 lobsterman
 lobstermen
@@ -45042,6 +45058,7 @@ manihot
 manilas
 manilla
 manille
+manilles
 manioca
 maniocas
 maniocs
@@ -51496,6 +51513,7 @@ nullifiers
 nullifies
 nulling
 nullipara
+nulliparas
 nulliparous
 nullipore
 numb
@@ -51634,6 +51652,7 @@ nystagmic
 nystagmus
 nystagmuses
 oafish
+oafishly
 oafishnesses
 oafs
 oak
@@ -52665,6 +52684,7 @@ orgiasts
 orgone
 orgulous
 orgy
+oribis
 oriels
 orient
 oriental
@@ -59486,6 +59506,7 @@ potzers
 pouch
 pouchier
 pouchiest
+pouchy
 poufed
 pouffes
 pouffs
@@ -61829,6 +61850,7 @@ punditries
 pung
 pungency
 pungently
+pungle
 pungs
 puniest
 puniness
@@ -62877,6 +62899,7 @@ raised
 raisers
 raises
 raisin
+raisings
 raisiny
 raisonne
 raita
@@ -69202,6 +69225,7 @@ screenplays
 screenwriters
 screes
 screwball
+screwbean
 screwdriver
 screwdrivers
 screwer
@@ -69477,6 +69501,7 @@ secantly
 secateur
 secateurs
 seccos
+secedes
 seceding
 secern
 secerning
@@ -69754,6 +69779,7 @@ sells
 selsyns
 seltzers
 selva
+selvage
 selvas
 selvedge
 selvedges
@@ -72479,6 +72505,7 @@ snapped
 snappers
 snappier
 snappily
+snappiness
 snappishly
 snappishnesses
 snaps
@@ -73640,6 +73667,7 @@ spherier
 spheroidal
 spheroidally
 spheroplast
+spherular
 spherulites
 spherulitic
 sphincter
@@ -76608,6 +76636,7 @@ supercars
 supercautious
 supercedes
 superceding
+supercenter
 supercenters
 supercharger
 supercharges
@@ -78396,6 +78425,7 @@ teethridge
 teetotal
 teetotalers
 teetotalism
+teetotalist
 teetotalists
 teetotallers
 teetotally
@@ -79351,6 +79381,7 @@ thrave
 thrawed
 thrawing
 thrawn
+thrawnly
 thraws
 threadbareness
 threader
@@ -83498,6 +83529,7 @@ unitizer
 unitizers
 unitizing
 unitrust
+unitrusts
 units
 unity
 univalved
@@ -85836,6 +85868,7 @@ vitalization
 vitalize
 vitalizer
 vitalizes
+vitalnesses
 vitals
 vitamines
 vitamins
@@ -86201,6 +86234,7 @@ waesucks
 wafering
 waff
 waffie
+waffies
 waffing
 waffle
 waffled
@@ -86216,6 +86250,7 @@ wafts
 wafture
 wag
 wage
+waged
 wageless
 wager
 wagered
