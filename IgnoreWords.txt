@@ -2450,6 +2450,7 @@ anastomose
 anastomoses
 anastomosis
 anastrophes
+anatases
 anathemas
 anathematize
 anathematized
@@ -5711,6 +5712,7 @@ barbarizations
 barbarizes
 barbarizing
 barbarous
+barbasco
 barbecuers
 barbecuing
 barbed
@@ -11497,6 +11499,7 @@ caustically
 causticities
 cauterants
 cauterization
+cautery
 cautioners
 cautions
 cautious
@@ -11746,6 +11749,7 @@ centuple
 centupling
 centurial
 centuries
+centurions
 century
 ceorlish
 ceorls
@@ -12597,6 +12601,7 @@ chirres
 chirring
 chirrs
 chirruped
+chirruping
 chirrups
 chirrupy
 chiru
@@ -13313,6 +13318,7 @@ clapt
 claptraps
 claque
 claquer
+claqueur
 clarences
 clarets
 claries
@@ -13895,6 +13901,7 @@ cockamamy
 cockapoo
 cockatoo
 cockatoos
+cockatrice
 cockatrices
 cockbill
 cockbilled
@@ -19061,6 +19068,7 @@ decriminalize
 decriminalized
 decriminalizing
 decrowned
+decry
 decrying
 decrypt
 decryptions
@@ -21960,6 +21968,7 @@ distorting
 distortions
 distorts
 distractible
+distractingly
 distracts
 distrained
 distrainer
@@ -28126,6 +28135,7 @@ filth
 filthier
 filthily
 filthinesses
+filths
 filtrated
 fimbrial
 fimbriate
@@ -30483,6 +30493,7 @@ fuzils
 fuzing
 fuzz
 fuzzes
+fuzziest
 fuzziness
 fuzztones
 fyce
@@ -30807,6 +30818,7 @@ gapeworms
 gaping
 gapingly
 gapless
+gaposis
 gapped
 gapping
 gapy
@@ -32758,6 +32770,7 @@ greensick
 greensickness
 greensicknesses
 greenskeeper
+greenstones
 greenstuff
 greenstuffs
 greensward
@@ -36401,6 +36414,7 @@ hymenopteron
 hymenopterons
 hymenopterous
 hymens
+hymnal
 hymnary
 hymnbook
 hymnbooks
@@ -38075,6 +38089,7 @@ industrial
 industrialism
 industrialisms
 industrialize
+industrializing
 industrially
 industrials
 industries
@@ -43283,6 +43298,7 @@ liquefying
 liquid
 liquidambars
 liquidates
+liquidating
 liquidation
 liquidator
 liquidity
@@ -45395,6 +45411,7 @@ matzas
 matzo
 maud
 maudlin
+mauds
 mauger
 maul
 mauler
@@ -47542,6 +47559,7 @@ mistouching
 mistrace
 mistraces
 mistracing
+mistrained
 mistrals
 mistranscribing
 mistranslate
@@ -49079,6 +49097,7 @@ muzzle
 muzzled
 muzzler
 muzzles
+muzzling
 myalgia
 myalgic
 myases
@@ -55156,6 +55175,7 @@ parbuckling
 parcel
 parceled
 parceling
+parcels
 parcenaries
 parcener
 parceners
@@ -55249,6 +55269,7 @@ parmesans
 parmigiana
 parmigiano
 parochial
+parochialism
 parodic
 parodical
 parodied
@@ -55502,6 +55523,7 @@ patacas
 patagia
 patagium
 patamars
+patch
 patchable
 patchboard
 patcher
@@ -56383,6 +56405,7 @@ periphytons
 periplasm
 periplasms
 periques
+peris
 perisarc
 periscope
 perish
@@ -66554,6 +66577,7 @@ rigaudon
 rigged
 riggers
 right
+righted
 righteousness
 righter
 rightest
@@ -68754,6 +68778,7 @@ scopulate
 scorbutic
 scorches
 scorching
+scorchingly
 scoreboard
 scorecard
 scorecards
@@ -69433,6 +69458,7 @@ selloffs
 sellotaping
 sellout
 sellouts
+sells
 selsyns
 seltzers
 selva
@@ -70647,6 +70673,7 @@ shorty
 shotguns
 shotholes
 shotten
+shotting
 shoulder
 shouted
 shouter
@@ -71287,6 +71314,7 @@ sitology
 sitosterol
 sitosterols
 sits
+sitters
 sitting
 sittings
 situate
@@ -77438,6 +77466,7 @@ tagboard
 tagboards
 taggant
 tagged
+tagger
 tagliatelles
 taglines
 tagmemes
@@ -80252,6 +80281,7 @@ tranquilizers
 tranquilizes
 tranquilizing
 tranquillized
+tranquillizers
 tranquillizes
 tranquilness
 tranquilnesses
@@ -82258,6 +82288,7 @@ unchairing
 unchairs
 unchallengeable
 unchancy
+unchangeability
 unchangeable
 unchanging
 unchangingness
@@ -83319,6 +83350,7 @@ unmyelinated
 unnails
 unnatural
 unnaturalness
+unnaturalnesses
 unnecessarily
 unnervingly
 unnewsworthy
@@ -85915,6 +85947,7 @@ wake
 wakeboarder
 wakeboardings
 wakeboards
+waked
 wakefully
 wakefulness
 wakeless
@@ -86082,6 +86115,7 @@ warpwise
 warragal
 warrant
 warranted
+warrantee
 warranter
 warrantied
 warranties
@@ -86376,6 +86410,7 @@ weatherproofing
 weathers
 weatherworn
 weave
+weaved
 weavers
 weaves
 weaving
