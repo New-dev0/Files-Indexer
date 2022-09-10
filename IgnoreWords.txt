@@ -91,6 +91,7 @@ absorbancies
 absorbant
 absorbants
 absorbencies
+absorbency
 absorbents
 absorptances
 absorptivities
@@ -1230,6 +1231,7 @@ aggrandized
 aggrandizement
 aggrandizers
 aggrandizes
+aggravated
 aggravates
 aggregately
 aggregateness
@@ -9589,6 +9591,7 @@ bulged
 bulger
 bulgers
 bulges
+bulghurs
 bulgiest
 bulging
 bulgingly
@@ -10986,6 +10989,7 @@ carcinogenicity
 carcinoid
 carcinoids
 carcinoma
+carcinomata
 carcinosarcoma
 cardamon
 cardamons
@@ -12619,6 +12623,7 @@ chinking
 chinks
 chinned
 chino
+chinoiserie
 chinoiseries
 chinooks
 chinquapins
@@ -15403,6 +15408,7 @@ conglomeration
 conglomerations
 conglomerative
 conglomerator
+conglomerators
 conglutinate
 conglutinating
 conglutination
@@ -18620,6 +18626,7 @@ darkey
 darkies
 darking
 darkle
+darkles
 darklier
 darkliest
 darkling
@@ -18758,6 +18765,7 @@ dazednesses
 dazzler
 de
 deacidification
+deacidifies
 deaconed
 deaconess
 deaconing
@@ -24322,6 +24330,7 @@ embargo
 embargoes
 embargoing
 embark
+embarkation
 embarkations
 embarking
 embarkment
@@ -25491,6 +25500,7 @@ epimeres
 epimeric
 epimers
 epimysia
+epimysium
 epinaoi
 epinaos
 epinasties
@@ -26945,6 +26955,7 @@ exteriorised
 exteriorising
 exteriorities
 exteriority
+exteriorized
 exterminate
 exterminates
 exterminating
@@ -28555,6 +28566,7 @@ fixations
 fixatives
 fixed
 fixedness
+fixednesses
 fixer
 fixes
 fixit
@@ -31038,6 +31050,7 @@ garibaldis
 garigues
 garish
 garishness
+garishnesses
 garland
 garlic
 garlickier
@@ -31082,6 +31095,7 @@ garrulousness
 gartered
 garters
 gasaliers
+gascon
 gasconader
 gasconaders
 gasconading
@@ -32611,6 +32625,7 @@ grad
 gradate
 gradating
 gradation
+gradational
 graded
 gradeless
 grader
@@ -35842,6 +35857,7 @@ hooding
 hoodlike
 hoodlumish
 hoodlumism
+hoodlumisms
 hoodlums
 hoodmold
 hoodooed
@@ -41194,6 +41210,7 @@ keitloas
 kellies
 kelly
 keloidal
+keloids
 kelpies
 kelping
 kelps
@@ -41503,6 +41520,7 @@ kinesthetic
 kinetic
 kinetically
 kineticists
+kinetics
 kinetins
 kinetoplast
 kinfolk
@@ -46277,6 +46295,7 @@ merls
 mermaid
 merman
 meromorphic
+meropia
 meropias
 meropic
 merozoite
@@ -48462,6 +48481,7 @@ moonstruck
 moonwalk
 moonwalked
 moonwalking
+moonwalks
 moonwort
 moonworts
 moony
@@ -49735,6 +49755,7 @@ nationality
 nationalize
 nationalizer
 nationalizers
+nationalizes
 nationalizing
 nationally
 nationals
@@ -51958,6 +51979,7 @@ ocarina
 occasional
 occasioned
 occasions
+occidental
 occidentalized
 occidentalizing
 occidentally
@@ -58420,6 +58442,7 @@ plaza
 pleaches
 pleaching
 pleadable
+pleader
 pleaders
 pleadingly
 pleads
@@ -61960,6 +61983,7 @@ puparia
 pupas
 pupate
 pupated
+pupates
 pupation
 pupfish
 pupfishes
@@ -62357,6 +62381,7 @@ quadruped
 quadrupedal
 quadrupeds
 quadruple
+quadrupled
 quadruplicating
 quadruplicities
 quadruplicity
@@ -70897,6 +70922,7 @@ shipping
 shippings
 shippon
 ships
+shipshape
 shipside
 shipsides
 shipway
@@ -72134,6 +72160,7 @@ sleepwalker
 sleepwalks
 sleepwear
 sleepy
+sleepyhead
 sleepyheads
 sleet
 sleetier
@@ -74102,6 +74129,7 @@ sporophyll
 sporopollenins
 sporotrichoses
 sporozoa
+sporozoal
 sporozoic
 sporozoite
 sporozoites
@@ -76532,6 +76560,7 @@ sulked
 sulker
 sulkers
 sulkiest
+sulkily
 sulks
 sullage
 sullen
@@ -77662,6 +77691,7 @@ syncretised
 syncretises
 syncretistic
 syncretists
+syncretizes
 syncretizing
 syncytia
 syncytial
@@ -79565,6 +79595,7 @@ throttling
 through
 throughither
 throughly
+throughput
 throughputs
 throwaway
 throwbacks
@@ -82960,6 +82991,7 @@ undefended
 undefiled
 undefinable
 undefoliated
+undeformed
 undelegated
 undelivered
 undeluded
@@ -84769,6 +84801,7 @@ urn
 urnlike
 urns
 urochrome
+urodele
 urodeles
 urogenous
 urokinases
@@ -85092,6 +85125,7 @@ variables
 variance
 variances
 variants
+variate
 variating
 variation
 variational
@@ -85197,6 +85231,7 @@ vats
 vatting
 vatu
 vatus
+vaudevilles
 vaudevillians
 vault
 vaulted
