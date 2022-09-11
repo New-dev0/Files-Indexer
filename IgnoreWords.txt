@@ -5680,6 +5680,7 @@ banditry
 banditti
 bandmasters
 bandmate
+bandog
 bandogs
 bandoleer
 bandoleers
@@ -6274,6 +6275,7 @@ beauticians
 beautified
 beautifier
 beautifiers
+beautifies
 beautifullest
 beautifulnesses
 beautifying
@@ -11342,6 +11344,7 @@ caseloads
 casemate
 casemates
 caseose
+caserne
 casernes
 caserns
 cases
@@ -12259,6 +12262,7 @@ charger
 chargers
 charging
 chargrilled
+chargrilling
 chargrills
 charier
 charily
@@ -13677,6 +13681,7 @@ cleverer
 cleverish
 cleverly
 cleverness
+clevernesses
 clevises
 clew
 clewed
@@ -13763,6 +13768,7 @@ clocker
 clocking
 clocks
 clockwork
+cloddiest
 cloddish
 cloddishnesses
 clodhoppers
@@ -13953,6 +13959,7 @@ coal
 coalas
 coalbox
 coalers
+coalesced
 coalescence
 coalescences
 coalesces
@@ -16753,6 +16760,7 @@ counselling
 counsellings
 counsellor
 counsellors
+counselor
 counselorship
 counselorships
 counsels
@@ -17506,6 +17514,7 @@ critically
 criticise
 criticised
 criticises
+criticising
 criticism
 criticizers
 criticizing
@@ -19233,6 +19242,7 @@ decolletage
 decolletages
 decolonization
 decolor
+decolorizations
 decolorized
 decolorizer
 decolour
@@ -19620,6 +19630,7 @@ degressive
 degringolade
 degum
 degums
+degustation
 degustations
 degusting
 degusts
@@ -20372,6 +20383,7 @@ desertified
 desertifies
 desertify
 desertifying
+deserting
 deserts
 deserve
 deservedly
@@ -20590,6 +20602,7 @@ detestation
 dethatches
 dethatching
 dethroner
+dethroners
 deticker
 detickers
 deticks
@@ -23109,6 +23122,7 @@ drawings
 drawknives
 drawled
 drawler
+drawlier
 drawliest
 drawling
 drawlingly
@@ -23653,6 +23667,7 @@ dwindling
 dwines
 dwining
 dyable
+dyad
 dyadics
 dyads
 dyarchic
@@ -33181,6 +33196,7 @@ greenbelts
 greenbrier
 greenbriers
 greenbug
+greenbugs
 greener
 greeneries
 greenery
@@ -35064,6 +35080,7 @@ helve
 hem
 hemacytometer
 hemacytometers
+hemagglutinate
 hemagglutinated
 hemagglutinates
 hemagglutinin
@@ -36025,6 +36042,7 @@ homologue
 homolytic
 homomorphic
 homomorphism
+homomorphisms
 homonuclear
 homonymic
 homonymies
@@ -39460,6 +39478,7 @@ intercessor
 intercessors
 interchange
 interchangeable
+interchanged
 interchanger
 interchangers
 intercity
@@ -42313,6 +42332,7 @@ lacquerer
 lacquering
 lacquerwares
 lacqueyed
+lacrimal
 lacrimations
 lacs
 lactalbumins
@@ -46691,6 +46711,7 @@ mesnes
 mesoblast
 mesocarp
 mesocarps
+mesocyclone
 mesocyclones
 mesodermal
 mesoderms
@@ -50290,6 +50311,7 @@ needles
 needless
 needlessly
 needlessnesses
+needlewoman
 needlework
 needleworker
 needling
@@ -50520,6 +50542,7 @@ neurilemmas
 neurine
 neuritic
 neuritis
+neuroanatomies
 neuroanatomist
 neuroanatomists
 neurobiological
@@ -53685,6 +53708,7 @@ outgas
 outgasses
 outgassing
 outgaze
+outgazed
 outgeneral
 outgeneraling
 outgenerals
@@ -55525,6 +55549,7 @@ pandered
 panderer
 panderers
 panders
+pandies
 pandit
 pandoors
 pandora
@@ -56450,6 +56475,7 @@ peacemaker
 peacemakers
 peacemaking
 peacenik
+peaces
 peacetime
 peach
 peachblow
@@ -59996,6 +60022,7 @@ potlatch
 potlatches
 potline
 potpies
+potpourri
 pots
 potshard
 potshards
@@ -62810,6 +62837,7 @@ quadrupedal
 quadrupeds
 quadruple
 quadrupled
+quadruplicate
 quadruplicating
 quadruplicities
 quadruplicity
@@ -65782,6 +65810,7 @@ renal
 rename
 renascence
 renascent
+renationalize
 renationalized
 renationalizes
 renaturation
@@ -66521,6 +66550,7 @@ resowing
 respaced
 respaces
 respacing
+respades
 respeaking
 respeaks
 respecified
@@ -67271,6 +67301,7 @@ rhodamine
 rhodamins
 rhodic
 rhodium
+rhodochrosite
 rhododendron
 rhododendrons
 rhodolite
@@ -68569,6 +68600,7 @@ sagittate
 sagos
 sags
 saguaro
+saguaros
 sagy
 sahibs
 sahuaros
@@ -73393,6 +73425,7 @@ socagers
 socages
 soccer
 soccers
+sociableness
 sociably
 social
 socialises
@@ -75116,6 +75149,7 @@ standdowns
 standers
 standing
 standish
+standoff
 standoffish
 standoffishness
 standoffs
@@ -81444,6 +81478,7 @@ transmogrifying
 transmountain
 transmutable
 transmutative
+transmutes
 transmuting
 transnational
 transnatural
