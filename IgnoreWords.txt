@@ -366,6 +366,7 @@ aces
 acescent
 aceta
 acetabulum
+acetals
 acetamid
 acetamide
 acetamides
@@ -819,6 +820,7 @@ adopt
 adoptabilities
 adoptability
 adoptees
+adopters
 adoptionist
 adopts
 adorability
@@ -3538,6 +3540,7 @@ appaloosa
 appaloosas
 appals
 appanage
+apparatus
 apparel
 appareling
 apparels
@@ -13371,6 +13374,7 @@ cithara
 cithren
 cithrens
 cities
+citification
 citifications
 citified
 citizeness
@@ -14823,6 +14827,7 @@ comediennes
 comedies
 comedown
 comedy
+comelier
 comeliest
 comelily
 comeliness
@@ -15114,6 +15119,7 @@ complin
 complines
 complot
 complots
+comply
 complying
 compo
 compone
@@ -18359,6 +18365,7 @@ cyberneticist
 cyberneticists
 cybernetics
 cyberporns
+cyberpunk
 cyberpunks
 cybersex
 cybersexes
@@ -23281,6 +23288,7 @@ drizzlier
 drizzliest
 droid
 droids
+droits
 drolled
 droller
 drollery
@@ -23728,6 +23736,7 @@ dyscrasic
 dysenteries
 dysentery
 dysfunction
+dysfunctional
 dysgeneses
 dysgenesis
 dysgenic
@@ -24328,6 +24337,7 @@ electioneer
 electioneered
 electioneering
 electiveness
+electoral
 electors
 electresses
 electret
@@ -26452,6 +26462,7 @@ euryokies
 euryokous
 euryoky
 eurypterid
+eurytherm
 eurythermic
 eurytherms
 eurytopic
@@ -34123,6 +34134,7 @@ hairlock
 hairlocks
 hairpiece
 hairpin
+hairpins
 hairs
 hairsplitters
 hairsplitting
@@ -38592,6 +38604,7 @@ indivisible
 indocilities
 indoctrination
 indoctrinations
+indoctrinators
 indolences
 indolently
 indoles
@@ -41130,6 +41143,7 @@ journalizes
 journalizing
 journeyed
 journeyers
+journeyman
 journeymen
 journo
 jousting
@@ -41429,6 +41443,7 @@ kamacite
 kame
 kamikaze
 kamikazes
+kamseen
 kanaka
 kane
 kanes
@@ -43285,6 +43300,7 @@ lenite
 lenites
 lenition
 lenitively
+lenity
 lens
 lense
 lenses
@@ -44560,6 +44576,7 @@ lovelily
 loveliness
 lovelock
 lovelocks
+lovelorn
 lovelornness
 lovely
 lovemaking
@@ -47005,6 +47022,7 @@ metrorrhagia
 mettle
 mettles
 mettlesome
+meuniere
 mew
 mewed
 mewled
@@ -48903,6 +48921,7 @@ moored
 moorfowls
 moorhen
 mooriest
+mooring
 moorings
 moory
 moos
@@ -51368,6 +51387,7 @@ nonfluids
 nonfluorescent
 nonflying
 nonfocal
+nonforfeiture
 nonforfeitures
 nonfreezing
 nonfulfillments
@@ -58065,6 +58085,7 @@ phytoflagellate
 phytoid
 phytol
 phytoliths
+phytologies
 phytols
 phyton
 phytopathogen
@@ -60811,6 +60832,7 @@ prepositional
 prepositions
 prepositive
 prepossessed
+prepossessing
 prepossession
 prepossessions
 preposterously
@@ -66238,6 +66260,7 @@ reprovers
 reproving
 reprovisioned
 reps
+reptant
 reptile
 reptilia
 reptilian
@@ -66816,6 +66839,7 @@ retaking
 retaliate
 retaliating
 retaliation
+retaliative
 retaliatory
 retallied
 retallies
@@ -67586,6 +67610,7 @@ riminesses
 riming
 rimland
 rimless
+rimmer
 rimming
 rimose
 rimosely
@@ -73873,6 +73898,7 @@ soppier
 soppinesses
 sopranino
 sopraninos
+soprano
 sora
 soras
 sorbabilities
@@ -75857,6 +75883,7 @@ stoolie
 stoolies
 stoopballs
 stooper
+stoopers
 stooping
 stopcock
 stopcocks
@@ -75907,6 +75934,7 @@ stotin
 stotinka
 stott
 stotted
+stotting
 stound
 stounded
 stounds
@@ -78414,6 +78442,7 @@ syrphid
 syrphids
 syruped
 syrupiest
+syruplike
 sysadmin
 sysadmins
 sysop
@@ -78554,6 +78583,7 @@ tagalong
 tagboard
 tagboards
 taggant
+taggants
 tagged
 tagger
 tagliatelles
@@ -81111,6 +81141,7 @@ totemisms
 totemist
 totemites
 totems
+tother
 totipotencies
 totipotent
 totted
@@ -83461,6 +83492,7 @@ unchastest
 unchastities
 uncheckable
 unchecked
+unchewable
 unchic
 unchilled
 unchivalrously
@@ -85513,6 +85545,7 @@ urtications
 urus
 uruses
 urushiols
+usable
 usableness
 usablenesses
 usage
@@ -87320,6 +87353,7 @@ warningly
 warnings
 warns
 warp
+warpage
 warpages
 warpath
 warped
@@ -87762,6 +87796,7 @@ wellaway
 wellborn
 wellcurb
 welled
+wellheads
 wellholes
 wellhouse
 wellie
