@@ -622,6 +622,7 @@ acutest
 acyclovir
 acylate
 acylated
+acylating
 acylations
 acyloin
 acyloins
@@ -1685,6 +1686,7 @@ aliterate
 aliterates
 alive
 aliveness
+aliya
 aliyas
 aliyot
 alizarine
@@ -1918,6 +1920,7 @@ alphosis
 alphyl
 alphyls
 alpine
+alpinisms
 alsikes
 also
 altar
@@ -3984,6 +3987,7 @@ armsful
 army
 armyworm
 arnatto
+arnattos
 arnicas
 aroid
 aroids
@@ -6523,6 +6527,7 @@ begloomed
 begoggled
 begonia
 begonias
+begorah
 begorrah
 begot
 begotten
@@ -12871,6 +12876,7 @@ chondrocranium
 chondrocraniums
 chondroma
 chondromas
+chondrule
 chondrules
 chook
 chooks
@@ -23707,6 +23713,7 @@ ears
 earshots
 earsplitting
 earstone
+earstones
 earth
 earthborn
 earthbound
@@ -28304,6 +28311,7 @@ fiftyish
 fig
 figged
 fight
+fighter
 fighters
 fighting
 fightings
@@ -28444,6 +28452,7 @@ financings
 finbacks
 finch
 find
+finder
 finding
 findings
 fined
@@ -28688,6 +28697,7 @@ fixednesses
 fixer
 fixes
 fixit
+fixities
 fixity
 fixtures
 fixure
@@ -29068,6 +29078,7 @@ flocculant
 flocculants
 flocculate
 flocculated
+flocculates
 flocculating
 flocculations
 floccule
@@ -30894,6 +30905,7 @@ galabiyas
 galactorrhea
 galactosamine
 galactosemia
+galactosemias
 galactosemic
 galactoside
 galactosides
@@ -31045,6 +31057,7 @@ gametocytes
 gametogenesis
 gametogenic
 gametophytic
+gamily
 gamin
 gamine
 gamines
@@ -31095,6 +31108,7 @@ gangrene
 gangrenes
 gangstas
 gangsterdoms
+gangsterism
 gangsters
 gangue
 gangues
@@ -31386,6 +31400,7 @@ gazogene
 gazogenes
 gazpacho
 gazpachos
+gazumping
 geanticlines
 gear
 gearbox
@@ -33756,6 +33771,7 @@ gynogenesis
 gynophobe
 gynophobes
 gyoza
+gyozas
 gyp
 gyplures
 gypped
@@ -36156,6 +36172,7 @@ horselaughs
 horseless
 horselike
 horsemanships
+horsemen
 horsemint
 horseplay
 horsepower
@@ -39313,6 +39330,7 @@ intercepters
 interceptions
 interceptors
 intercession
+intercessor
 intercessors
 interchange
 interchangeable
@@ -40898,6 +40916,7 @@ jomon
 jones
 jonesing
 jonnycake
+jordan
 jordans
 jorum
 jorums
@@ -40992,6 +41011,7 @@ judicature
 judicatures
 judicial
 judicially
+judiciaries
 judicious
 judiciously
 judiciousnesses
@@ -42171,6 +42191,7 @@ lactiferous
 lactobacillus
 lactones
 lactose
+lacuna
 lacunae
 lacunar
 lacunaria
@@ -44019,6 +44040,7 @@ locomotor
 locomotors
 locomotory
 locos
+locoweeds
 loculated
 locule
 loculed
@@ -57102,6 +57124,7 @@ personnels
 perspectival
 perspicacious
 perspicuity
+perspicuously
 perspicuousness
 perspiration
 persuade
@@ -61636,6 +61659,7 @@ proteides
 proteinic
 proteinurias
 protend
+protended
 protending
 protensively
 proteoglycan
@@ -61900,6 +61924,7 @@ psychohistories
 psychokinetic
 psychologies
 psychologise
+psychologised
 psychologises
 psychologism
 psychologists
@@ -62297,6 +62322,7 @@ purpures
 purpurin
 purpurins
 purr
+purred
 purring
 purringly
 purrs
@@ -64935,6 +64961,7 @@ regild
 regilding
 regilds
 regilt
+regime
 regimens
 regiment
 regimental
@@ -66825,6 +66852,7 @@ reverses
 reversibilities
 reversibility
 reversibly
+reversing
 reversioner
 reversos
 revert
@@ -67771,6 +67799,7 @@ rottener
 rottenest
 rottenly
 rottenstones
+rotter
 rotters
 rotting
 rottweilers
@@ -73412,6 +73441,7 @@ solvolysis
 solvolytic
 som
 somas
+somata
 somatic
 somatically
 somatological
@@ -77638,6 +77668,7 @@ sweepingnesses
 sweepings
 sweepstakes
 sweepy
+sweer
 sweetbriar
 sweetbrier
 sweeten
@@ -78201,6 +78232,7 @@ tafferels
 taffeta
 taffrails
 tafia
+tafias
 tagalong
 tagboard
 tagboards
@@ -78938,6 +78970,7 @@ teliospore
 telium
 tellable
 teller
+tellies
 tellingly
 tells
 telltales
@@ -81980,6 +82013,7 @@ trues
 truest
 truffes
 trug
+truing
 truism
 truistic
 trumeau
@@ -87688,6 +87722,7 @@ whomp
 whomped
 whomping
 whomsoever
+whoofed
 whoofing
 whoop
 whooped
