@@ -9637,6 +9637,7 @@ bulkheads
 bulkier
 bulkinesses
 bulking
+bulks
 bullace
 bullaces
 bullate
@@ -13207,6 +13208,7 @@ circuit
 circuitousness
 circuitries
 circuitry
+circuits
 circuity
 circular
 circularised
@@ -13572,6 +13574,7 @@ cleaving
 clef
 clefs
 cleft
+clefted
 clefting
 clefts
 cleistogamic
@@ -14608,6 +14611,7 @@ colony
 colophonies
 colophons
 colophony
+color
 colorably
 colorado
 colorant
@@ -16551,6 +16555,7 @@ cosmochemical
 cosmochemist
 cosmogenic
 cosmogonic
+cosmogonical
 cosmographical
 cosmographies
 cosmography
@@ -16935,6 +16940,7 @@ cowbell
 cowberries
 cowbirds
 cowboy
+cowboyed
 cowboying
 cowboys
 cowcatchers
@@ -17217,6 +17223,7 @@ credential
 credentialed
 credentialism
 credentialisms
+credentialled
 credentialling
 credenza
 credenzas
@@ -17346,6 +17353,7 @@ crickey
 cricking
 cricoid
 cries
+criminal
 criminalistics
 criminalities
 criminalization
@@ -18306,6 +18314,7 @@ cyclopropane
 cyclops
 cyclorama
 cycloramas
+cycloramic
 cyclosporine
 cyclosporines
 cyclostome
@@ -18619,6 +18628,7 @@ dandler
 dandlers
 dandling
 dandriffs
+dandyish
 danegelt
 danegelts
 daneworts
@@ -18693,6 +18703,7 @@ darlings
 darn
 darnation
 darndest
+darndests
 darneder
 darnedests
 darnel
@@ -20702,6 +20713,7 @@ diabolize
 diabolizes
 diabolo
 diabolos
+diachronically
 diachrony
 diacid
 diacidic
@@ -23235,6 +23247,7 @@ drumbeaters
 drumbeating
 drumbeatings
 drumbling
+drumfire
 drumfishes
 drumheads
 drumlier
@@ -23444,6 +23457,7 @@ duodecimals
 duodecimo
 duodena
 duolog
+duologs
 duologue
 duomo
 duomos
@@ -23846,6 +23860,7 @@ econometrically
 econometrician
 economic
 economies
+economised
 economises
 economising
 economist
@@ -24797,6 +24812,7 @@ encrinite
 encroached
 encroacher
 encroachers
+encroaches
 encroaching
 encroachment
 encrustation
@@ -25524,6 +25540,7 @@ epidermic
 epidermoid
 epiderms
 epididymal
+epididymides
 epidote
 epifaunas
 epifocal
@@ -26894,6 +26911,7 @@ explanative
 explanatively
 explanatorily
 explantation
+explantations
 explanted
 expletive
 explicable
@@ -34783,6 +34801,7 @@ heelpieces
 heelplates
 heelpost
 heeltap
+heezing
 hefter
 hefting
 hefts
@@ -37501,6 +37520,7 @@ imp
 impacter
 impactful
 impacting
+impaction
 impactions
 impactive
 impactor
@@ -44406,6 +44426,7 @@ luftmenschen
 lugeing
 luger
 luggages
+lugger
 luging
 lugsail
 lugubrious
@@ -44418,6 +44439,7 @@ lulled
 luller
 lullers
 lulling
+lulls
 lulu
 lulus
 lum
@@ -47846,6 +47868,7 @@ misprice
 misprices
 mispricing
 misprinted
+misprinting
 misprints
 misprized
 misprizer
@@ -57307,6 +57330,7 @@ phenacetins
 phenacite
 phenacites
 phenakites
+phenanthrenes
 phenate
 phenazin
 phencyclidines
@@ -58811,6 +58835,7 @@ pluralities
 pluralize
 pluralizing
 plurally
+pluripotent
 plus
 plush
 plushily
@@ -60685,6 +60710,7 @@ prestige
 prestigeful
 prestigious
 prestigiously
+presto
 prestorage
 prestore
 prestored
@@ -61916,6 +61942,7 @@ ptui
 ptyalin
 ptyalism
 pub
+puberal
 pubertal
 puberulent
 pubescence
@@ -66681,6 +66708,7 @@ reunites
 reupholstering
 reusabilities
 reusables
+reuse
 reused
 reuses
 reusing
@@ -69757,6 +69785,7 @@ seasides
 seasonable
 seasonableness
 seasonal
+seasonally
 seasonals
 seasoner
 seasons
@@ -72652,6 +72681,7 @@ smart
 smartass
 smarter
 smarties
+smartness
 smartweed
 smartweeds
 smash
@@ -80578,6 +80608,7 @@ toras
 torchbearer
 torched
 torchere
+torcheres
 torches
 torchieres
 torchiest
@@ -83073,6 +83104,7 @@ unclearest
 unclench
 unclenches
 unclinched
+unclinching
 unclip
 unclipped
 unclipping
@@ -85664,6 +85696,7 @@ ventriloquize
 ventriloquized
 ventriloquizing
 ventriloquy
+vents
 venturer
 venturesomely
 venturously
@@ -86394,6 +86427,7 @@ volatilizes
 volatilizing
 volcanisms
 volcanized
+volcanizes
 volcanizing
 volcano
 volcanologic
@@ -86450,6 +86484,7 @@ volunteers
 voluptuaries
 voluptuary
 voluptuously
+volute
 volutes
 volutins
 volvas
