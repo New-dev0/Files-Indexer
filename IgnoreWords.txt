@@ -361,6 +361,7 @@ acerose
 acervuli
 aces
 acescent
+aceta
 acetabulum
 acetamide
 acetamides
@@ -657,6 +658,7 @@ address
 addressable
 addressed
 addressee
+addressers
 addresses
 addressing
 adduced
@@ -1428,6 +1430,7 @@ airmobile
 airns
 airpark
 airplanes
+airport
 airports
 airpower
 airpowers
@@ -3044,6 +3047,7 @@ antihelixes
 antihero
 antiheroes
 antiheroine
+antiheroines
 antiherpes
 antihistamine
 antihistaminics
@@ -3515,6 +3519,7 @@ apparently
 appealed
 appealer
 appealers
+appealing
 appealingly
 appearances
 appeasable
@@ -8463,6 +8468,7 @@ boomed
 boomer
 boomeranged
 boomier
+boomiest
 boomingly
 boomkin
 boomlets
@@ -10834,6 +10840,7 @@ capitulum
 capless
 caplet
 caplin
+caplins
 capo
 capoeira
 caponata
@@ -11333,6 +11340,7 @@ castellans
 caster
 casters
 castigate
+castigated
 castigates
 castigation
 castigations
@@ -11794,6 +11802,7 @@ centesimos
 centiares
 centigrade
 centigram
+centigrams
 centile
 centiles
 centiliter
@@ -12996,6 +13005,7 @@ chronologers
 chronologically
 chronologies
 chronologists
+chronology
 chronometer
 chronometrical
 chronometries
@@ -22444,6 +22454,7 @@ dojo
 dolabrate
 dolcettos
 dolci
+dole
 doled
 dolefully
 dolerite
@@ -24608,6 +24619,7 @@ employable
 employe
 employed
 employees
+employer
 employers
 employing
 employment
@@ -27687,6 +27699,7 @@ favelas
 favella
 favellas
 favorable
+favorablenesses
 favorably
 favored
 favorer
@@ -37448,6 +37461,7 @@ immunomodulator
 immunotherapies
 immunotherapy
 immure
+immurements
 immuring
 immutabilities
 immutable
@@ -37694,6 +37708,7 @@ impostume
 impostumes
 imposture
 impotences
+impotency
 impotently
 impound
 impounded
@@ -40451,6 +40466,7 @@ japanize
 japanized
 japanizes
 japanizing
+japanned
 japanner
 japans
 jape
@@ -42958,6 +42974,7 @@ lemminglike
 lemmings
 lemniscate
 lemniscates
+lemnisci
 lemon
 lemonish
 lemonlike
@@ -44828,6 +44845,7 @@ magnetises
 magnetising
 magnetisms
 magnetites
+magnetizations
 magnetize
 magnetizing
 magnetographs
@@ -52339,6 +52357,7 @@ oilstone
 oilstones
 oilway
 oinks
+ointments
 oiticicas
 okas
 okay
@@ -54321,6 +54340,7 @@ overloaded
 overloading
 overloads
 overlooking
+overlord
 overlorded
 overlording
 overlords
@@ -55312,6 +55332,7 @@ pantheon
 panthers
 pantie
 pantile
+pantiles
 panting
 pantisocracy
 pantisocratist
@@ -57580,6 +57601,7 @@ photosystems
 phototaxes
 phototaxies
 phototaxis
+phototaxy
 phototoxic
 phototubes
 phototypes
@@ -63025,6 +63047,7 @@ raffler
 rafflers
 raffles
 rafflesia
+rafflesias
 raft
 rafted
 raftered
@@ -65643,6 +65666,7 @@ repinned
 repinning
 replace
 replaceable
+replaced
 replacements
 replacing
 replanned
@@ -66854,6 +66878,7 @@ rhaphe
 rhaphes
 rhapsodical
 rhapsodize
+rhapsody
 rhatany
 rhematic
 rheme
@@ -67672,6 +67697,7 @@ roughies
 roughleg
 roughlegs
 roughneck
+roughnecked
 roughnecking
 roughnecks
 roughrider
@@ -69355,6 +69381,7 @@ scoutmasters
 scow
 scowdered
 scowing
+scowled
 scowler
 scowling
 scows
@@ -74704,6 +74731,7 @@ stamp
 stampeded
 stampeders
 stampeding
+stampers
 stampless
 stamps
 stance
@@ -76281,6 +76309,7 @@ subreptitiously
 subrogating
 subrogation
 subrogations
+subrule
 subs
 subsale
 subsample
@@ -76439,6 +76468,7 @@ subtunic
 subtunics
 subtype
 subtypes
+subumbrellas
 subunit
 subunits
 suburban
@@ -80862,6 +80892,7 @@ trammels
 tramontane
 tramped
 tramper
+trampers
 trampier
 trampiest
 trampish
@@ -82748,6 +82779,7 @@ unatoned
 unattainable
 unattended
 unattenuated
+unattested
 unattractively
 unau
 unaudited
@@ -87420,6 +87452,7 @@ whips
 whipsaw
 whipsawing
 whipsawn
+whipsnakes
 whipstitching
 whiptail
 whipworm
@@ -87981,6 +88014,7 @@ woebegoneness
 woefuller
 woful
 wofuller
+wogs
 woks
 wold
 wolfberries
@@ -88031,6 +88065,7 @@ wonderfulnesses
 wondering
 wonderland
 wonderlands
+wonderwork
 wondrousness
 wonk
 wonkier
