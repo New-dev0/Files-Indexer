@@ -5131,6 +5131,7 @@ aweigh
 awes
 awesomely
 awesomeness
+awesomenesses
 awfuller
 awfullest
 awfully
@@ -6444,6 +6445,7 @@ beedies
 beef
 beefalo
 beefaloes
+beefalos
 beefcake
 beefcakes
 beefeater
@@ -10135,6 +10137,7 @@ byssuses
 bystander
 bystreet
 bystreets
+bytalks
 byte
 bytes
 byway
@@ -13576,6 +13579,7 @@ clayey
 claying
 clayish
 claymore
+claypan
 claystone
 claystones
 clayware
@@ -14195,6 +14199,7 @@ codicology
 codifiability
 codified
 codifiers
+codifies
 codifying
 codirect
 codirected
@@ -15559,6 +15564,7 @@ coniosis
 coniums
 conjectural
 conjecture
+conjectured
 conjecturer
 conjecturers
 conjectures
@@ -16407,6 +16413,7 @@ cornify
 cornifying
 cornily
 corniness
+corninesses
 corning
 cornmeals
 cornpones
@@ -17385,6 +17392,7 @@ creviced
 crewcuts
 crewels
 crewing
+crewman
 crewmate
 crewneck
 crewnecks
@@ -19876,6 +19884,7 @@ demographic
 demography
 demoiselle
 demoiselles
+demolished
 demolisher
 demolishers
 demolishment
@@ -23784,6 +23793,7 @@ earthmen
 earthmover
 earthpeas
 earthquakes
+earthrise
 earths
 earthset
 earthsets
@@ -27077,6 +27087,7 @@ expurgator
 expurgatorial
 expurgatory
 exquisite
+exquisitely
 exquisites
 exsanguination
 exsanguinations
@@ -27251,6 +27262,7 @@ exultancy
 exultant
 exultantly
 exultation
+exultations
 exulted
 exultingly
 exurb
@@ -27855,6 +27867,7 @@ fears
 fearsome
 fearsomeness
 feased
+feasing
 feasted
 feasters
 featest
@@ -34418,6 +34431,7 @@ hardy
 harebells
 hared
 harem
+harems
 hariana
 haring
 harissa
@@ -40919,6 +40933,7 @@ job
 jobber
 jobbers
 jobholder
+jobless
 joblessness
 joblessnesses
 jobname
@@ -42116,6 +42131,7 @@ kue
 kugel
 kukri
 kukris
+kulak
 kultur
 kummel
 kummels
@@ -44018,6 +44034,7 @@ loafed
 loafing
 loamiest
 loaminesses
+loaming
 loamless
 loams
 loamy
@@ -46974,6 +46991,7 @@ microcrystal
 microcrystals
 microculture
 microcultures
+microcurie
 microcuries
 microcyte
 microearthquake
@@ -51780,6 +51798,7 @@ noticers
 notices
 notifiable
 notifier
+notifies
 notifying
 notion
 notional
@@ -53374,6 +53393,7 @@ oud
 ouds
 oughted
 oughting
+ouguiyas
 ouistiti
 ouph
 ouphs
@@ -56502,6 +56522,7 @@ pedalos
 pedantic
 pedantically
 pedantries
+pedate
 pedately
 peddle
 peddler
@@ -58899,6 +58920,7 @@ plodded
 ploidy
 plop
 plopped
+plopping
 plops
 plosion
 plosions
@@ -59152,6 +59174,7 @@ pokily
 pokinesses
 poking
 poky
+pol
 polarimeter
 polarimetric
 polarimetries
@@ -66647,6 +66670,7 @@ retags
 retailers
 retailored
 retails
+retain
 retained
 retainers
 retains
@@ -66676,6 +66700,7 @@ retaxed
 retched
 retches
 retching
+reteaching
 reteam
 retear
 retears
@@ -69533,6 +69558,7 @@ scleritis
 scleroid
 scleroma
 scleromas
+scleromata
 sclerose
 sclerosed
 sclerotial
@@ -69738,6 +69764,7 @@ scribe
 scribes
 scries
 scrieve
+scrieving
 scrimmage
 scrimper
 scrimpers
@@ -70214,6 +70241,7 @@ seismometers
 seismometries
 seismometry
 seisms
+seisor
 seisors
 seitans
 seizer
@@ -75093,6 +75121,7 @@ starnose
 starnoses
 starrier
 starriest
+starring
 starry
 stars
 starship
@@ -77464,6 +77493,7 @@ suppletion
 suppletions
 suppletory
 suppliantly
+supplicant
 supplications
 supplies
 supplying
@@ -78606,6 +78636,7 @@ tantalates
 tantalises
 tantalites
 tantalize
+tantalizer
 tantalizers
 tantalizes
 tantalizing
@@ -82925,6 +82956,7 @@ ululations
 ulvas
 umami
 umbel
+umbeled
 umbellate
 umbellets
 umbellifer
@@ -83669,6 +83701,7 @@ underwater
 underwear
 underweight
 underweights
+underwent
 underwhelm
 underwhelmed
 underwhelms
@@ -83870,6 +83903,7 @@ unfitness
 unfitted
 unfix
 unfixing
+unflappability
 unflappable
 unflattering
 unflatteringly
@@ -87597,6 +87631,7 @@ westernisations
 westernised
 westernize
 westerns
+westings
 westmost
 wests
 westward
