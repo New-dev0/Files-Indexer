@@ -1737,6 +1737,7 @@ allegorist
 allegorization
 allegorizations
 allegorize
+allegorizes
 allegory
 allegretto
 allegrettos
@@ -3224,6 +3225,7 @@ antismoking
 antismuggling
 antismut
 antisnob
+antisocial
 antisocialist
 antisocialists
 antispasmodic
@@ -4919,6 +4921,7 @@ automaker
 automan
 automat
 automatable
+automates
 automatic
 automatically
 automaticities
@@ -5070,6 +5073,7 @@ avulses
 avulsing
 avulsion
 avulsions
+avuncular
 awaited
 awaiter
 awaiters
@@ -5754,6 +5758,7 @@ barbells
 barbering
 barbers
 barbershop
+barbet
 barbicel
 barbies
 barbing
@@ -6684,6 +6689,7 @@ bemocks
 bemuddle
 bemuddled
 bemuddling
+bemurmur
 bemurmured
 bemuse
 bemusedly
@@ -14407,6 +14413,7 @@ coleoptiles
 coleorhiza
 coleorhizae
 coles
+coleseeds
 colessor
 coleus
 coleuses
@@ -17917,6 +17924,7 @@ cupboard
 cupboards
 cupel
 cupeled
+cupeler
 cupelers
 cupeling
 cupellation
@@ -19973,6 +19981,7 @@ department
 departmentally
 departments
 departs
+departures
 depend
 dependabilities
 dependability
@@ -21273,6 +21282,7 @@ dippier
 dippiest
 dippy
 dipsades
+dipshits
 dipsomania
 dipsomaniacs
 dipsomanias
@@ -21525,6 +21535,7 @@ discontinuances
 discontinuation
 discontinue
 discontinues
+discontinuing
 discontinuities
 discophile
 discophiles
@@ -22533,6 +22544,7 @@ donkeys
 donna
 donne
 donned
+donnee
 donnees
 donnerd
 donnered
@@ -23724,6 +23736,7 @@ ebonics
 ebonies
 ebonises
 ebonizes
+ebons
 ebony
 ebooks
 ebullience
@@ -25186,6 +25199,7 @@ ensure
 ensured
 ensurer
 ensurers
+ensuring
 enswathed
 enswathes
 entablature
@@ -25577,6 +25591,7 @@ epitasis
 epitaxially
 epitaxic
 epitaxy
+epithalamiums
 epithelial
 epithelialize
 epithelialized
@@ -29965,6 +29980,7 @@ fracture
 fracturers
 fractures
 fracturs
+fraenum
 frag
 fragged
 fragile
@@ -31186,6 +31202,7 @@ gastrectomy
 gastrin
 gastritic
 gastritides
+gastritises
 gastrocnemii
 gastronomical
 gastronomies
@@ -35278,6 +35295,7 @@ hied
 hieing
 hierarch
 hierarchal
+hierarchic
 hierarchical
 hierarchies
 hierarchize
@@ -35591,6 +35609,7 @@ hokiest
 hoking
 hokku
 hokums
+hokypokies
 hold
 holdall
 holddowns
@@ -37847,6 +37866,7 @@ inarguably
 inarmed
 inarming
 inarms
+inarticulacies
 inarticulacy
 inarticulate
 inarticulately
@@ -39327,6 +39347,7 @@ interjectory
 interjects
 interjoined
 interjoins
+interknitted
 interknitting
 interknot
 interknots
@@ -44786,6 +44807,7 @@ magisterial
 magisterially
 magisterium
 magistracies
+magistracy
 magistrally
 magistrate
 magistratical
@@ -50247,6 +50269,7 @@ neurologic
 neurological
 neurologies
 neurologist
+neurology
 neuromas
 neuromast
 neuron
@@ -56800,6 +56823,7 @@ periphyton
 periphytons
 periplasm
 periplasms
+peripter
 periques
 peris
 perisarc
@@ -58032,6 +58056,7 @@ pinocytoses
 pinocytosis
 pinoles
 pinon
+pinons
 pinot
 pinpoint
 pinpointing
@@ -58728,6 +58753,7 @@ plussages
 plutocracy
 plutocrat
 plutonic
+plutonisms
 plutonium
 plutoniums
 pluviose
@@ -59853,6 +59879,7 @@ preadmit
 preadmitted
 preadmitting
 preadolescent
+preadolescents
 preadopted
 preadopting
 preadult
@@ -67179,6 +67206,7 @@ ripoff
 ripoffs
 riposte
 ripostes
+rippable
 ripped
 ripper
 rippers
@@ -67305,6 +67333,7 @@ roasters
 roasts
 robalo
 robbed
+robber
 robberies
 robbins
 robe
@@ -71356,6 +71385,7 @@ shylocking
 shynesses
 shyster
 si
+sialid
 sialidan
 sialidans
 sials
@@ -71683,6 +71713,7 @@ simplices
 simplicial
 simplicities
 simplifications
+simplified
 simplifiers
 simplifies
 simplifying
@@ -81231,6 +81262,7 @@ trephining
 trepidant
 treponemal
 treponematoses
+tres
 trespass
 trespassed
 trespassers
@@ -83233,6 +83265,7 @@ underplot
 underpriced
 underproduction
 underproof
+underprop
 underpropping
 underprops
 underrate
@@ -85594,6 +85627,7 @@ verglases
 veridicalities
 veriest
 verifiabilities
+verifiability
 verification
 verifications
 verifiers
@@ -85932,6 +85966,7 @@ vindicates
 vindicating
 vindications
 vindicator
+vindicatory
 vindictive
 vindictively
 vindictiveness
