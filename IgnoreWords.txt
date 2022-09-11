@@ -222,6 +222,7 @@ accepter
 accepting
 acceptor
 accesses
+accessibility
 accessible
 accessibly
 accessioning
@@ -364,6 +365,7 @@ aces
 acescent
 aceta
 acetabulum
+acetamid
 acetamide
 acetamides
 acetaminophens
@@ -1174,6 +1176,7 @@ agapanthuses
 agape
 agapeic
 agar
+agaric
 agarose
 agaroses
 agars
@@ -5148,6 +5151,7 @@ axiological
 axiologically
 axiologies
 axiom
+axiomatic
 axiomatically
 axiomatization
 axiomatizations
@@ -9474,6 +9478,7 @@ bryologist
 bryology
 bryonies
 bryophyllums
+bryophytes
 bryozoans
 bubal
 bubaline
@@ -12979,6 +12984,7 @@ chromite
 chromiums
 chromo
 chromocenters
+chromodynamics
 chromogen
 chromogens
 chromomeres
@@ -13467,6 +13473,7 @@ classed
 classes
 classicalities
 classicality
+classicism
 classicist
 classicists
 classico
@@ -15085,6 +15092,7 @@ computer
 computerdoms
 computereses
 computerise
+computerised
 computerises
 computerising
 computerist
@@ -19864,6 +19872,7 @@ denationalizing
 denaturalize
 denaturalizes
 denaturalizing
+denaturation
 denaturations
 denature
 denatured
@@ -20404,6 +20413,7 @@ desugar
 desugared
 desugaring
 desugars
+desulfuring
 desulfurizing
 desultoriness
 detach
@@ -25245,6 +25255,7 @@ enteritises
 enterococcus
 enterocoele
 enterocoelic
+enterocoelous
 enterokinase
 enterons
 enterostomal
@@ -25355,6 +25366,7 @@ entwisting
 entwists
 enucleate
 enucleates
+enucleating
 enucleation
 enucleations
 enuf
@@ -28582,6 +28594,7 @@ fishily
 fishiness
 fishings
 fishless
+fishlike
 fishline
 fishmeal
 fishmeals
@@ -29229,6 +29242,7 @@ fluorometry
 fluoroscopes
 fluoroscoping
 fluoroscopist
+fluoroscopists
 fluoroses
 fluorosis
 fluorouracil
@@ -31480,6 +31494,7 @@ genetic
 genetical
 genetically
 geneticists
+genetics
 genets
 genettes
 geneva
@@ -37569,6 +37584,7 @@ impellors
 impels
 impend
 impendent
+impends
 impenetrability
 impenetrable
 impenitent
@@ -38912,6 +38928,7 @@ inosculates
 inosculation
 inosine
 inosites
+inositols
 inotropic
 inpatients
 inpour
@@ -46497,6 +46514,7 @@ messaline
 messan
 messeigneurs
 messenger
+messengered
 messengering
 messengers
 messiah
@@ -46951,6 +46969,7 @@ middlers
 middles
 middleweight
 middlingly
+middlings
 midfielder
 midfielders
 midge
@@ -47823,6 +47842,7 @@ mispoised
 mispoising
 mispositioning
 mispositions
+misprice
 misprices
 mispricing
 misprinted
@@ -49568,6 +49588,7 @@ mylonites
 mynah
 mynahs
 mynas
+mynheers
 myocardia
 myocardial
 myocardium
@@ -53326,6 +53347,7 @@ outcrossed
 outcrosses
 outcrowd
 outcrowded
+outcrowding
 outcrowds
 outcrowed
 outcry
@@ -53771,6 +53793,7 @@ outsprinted
 outsprints
 outstand
 outstanding
+outstandingly
 outstare
 outstaring
 outstart
@@ -63997,6 +64020,7 @@ reclaims
 reclames
 reclasp
 reclasped
+reclassifies
 reclassify
 reclean
 recleaned
@@ -64255,6 +64279,7 @@ recursion
 recursions
 recursiveness
 recurvate
+recurve
 recurves
 recusal
 recusals
@@ -66757,6 +66782,7 @@ reverter
 reverters
 reverting
 revertive
+reverts
 revery
 revesting
 revetment
@@ -67187,6 +67213,7 @@ riled
 rilievi
 riling
 rille
+rilling
 rimer
 rimers
 rimester
@@ -72640,6 +72667,7 @@ smattering
 smatterings
 smatters
 smaze
+smazes
 smearier
 smeariest
 smears
@@ -74837,6 +74865,7 @@ starflower
 stargaze
 stargazer
 stargazers
+stargazing
 stargazings
 staringly
 starker
@@ -76382,6 +76411,7 @@ subsider
 subsiders
 subsidiarity
 subsidised
+subsidises
 subsidising
 subsidization
 subsidize
@@ -80305,6 +80335,7 @@ toilworn
 toit
 tokamak
 tokamaks
+tokays
 toked
 token
 tokened
@@ -80701,6 +80732,7 @@ tourers
 tourism
 tourisms
 touristic
+touristy
 tourmaline
 tournament
 tourney
@@ -85122,6 +85154,7 @@ vacillation
 vacillations
 vacillators
 vacuities
+vacuolar
 vacuolate
 vacuolated
 vacuoles
@@ -85711,6 +85744,7 @@ veritablenesses
 verite
 verity
 vermeil
+vermeils
 vermes
 vermian
 vermicelli
@@ -88513,6 +88547,7 @@ xerophytisms
 xerosere
 xeroseres
 xeroses
+xerothermic
 xerox
 xeroxing
 xeruses
