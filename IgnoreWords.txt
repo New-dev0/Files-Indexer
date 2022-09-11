@@ -1873,6 +1873,7 @@ almighty
 almond
 almoner
 almoners
+almonry
 almost
 almsgiver
 almsgivings
@@ -1921,6 +1922,7 @@ alphyl
 alphyls
 alpine
 alpinisms
+alsike
 alsikes
 also
 altar
@@ -2898,6 +2900,7 @@ anthodia
 anthodium
 anthoid
 anthologies
+anthologist
 anthologists
 anthologized
 anthologizers
@@ -8040,6 +8043,7 @@ bluebell
 blueberry
 bluebill
 bluebirds
+bluebloods
 bluebonnets
 bluebooks
 bluecap
@@ -8195,6 +8199,7 @@ bocces
 boccie
 boccies
 boccis
+boches
 bock
 bocks
 bodacious
@@ -9466,6 +9471,7 @@ brusquenesses
 brusquerie
 brut
 brutal
+brutalises
 brutalising
 brutalities
 brutalizations
@@ -12435,6 +12441,7 @@ chegoe
 chelatable
 chelated
 chelates
+chelating
 chelations
 chelicera
 chelicerae
@@ -12784,6 +12791,7 @@ chlorenchyma
 chlorenchymas
 chlorids
 chlorin
+chlorinate
 chlorinated
 chlorinations
 chlorinator
@@ -13484,6 +13492,7 @@ claspt
 classable
 classed
 classes
+classical
 classicalities
 classicality
 classicism
@@ -14480,6 +14489,7 @@ collapses
 collapsing
 collarbones
 collards
+collared
 collaret
 collarless
 collars
@@ -19008,6 +19018,7 @@ decamped
 decampments
 decamps
 decane
+decanted
 decanter
 decanting
 decants
@@ -19041,6 +19052,7 @@ decayless
 decays
 deceased
 decedent
+deceit
 deceitful
 deceitfully
 deceitfulness
@@ -19801,6 +19813,7 @@ demisable
 demise
 demisemiquaver
 demises
+demising
 demissions
 demit
 demitasse
@@ -24837,6 +24850,7 @@ encroachment
 encrustation
 encrusted
 encrusting
+encrypting
 encryption
 encryptions
 enculturate
@@ -24883,6 +24897,7 @@ endemic
 endemical
 endemicities
 endemism
+endermic
 enders
 endgame
 ending
@@ -25770,6 +25785,7 @@ equitability
 equitable
 equitation
 equites
+equities
 equivalences
 equivalencies
 equivalent
@@ -26059,6 +26075,7 @@ esthete
 esthetic
 esthetician
 estheticism
+estheticisms
 estimable
 estimably
 estimate
@@ -27975,6 +27992,7 @@ fenceless
 fencelessnesses
 fencer
 fencerow
+fencers
 fences
 fencible
 fencings
@@ -29104,6 +29122,7 @@ floodlit
 floodplain
 floodplains
 floodtides
+floodwaters
 flooey
 floor
 floorage
@@ -29978,6 +29997,7 @@ foundation
 foundationally
 foundationless
 founded
+foundered
 founders
 founding
 foundries
@@ -33226,6 +33246,7 @@ gripmen
 gripper
 grippier
 grippiest
+grippingly
 gripple
 grippy
 grips
@@ -35428,6 +35449,7 @@ highlighting
 highly
 highness
 highroad
+highroads
 hight
 hightail
 hightailed
@@ -36996,6 +37018,7 @@ hypomanics
 hypomorph
 hypomorphs
 hyponasty
+hyponea
 hyponoia
 hyponyms
 hypopharynges
@@ -37261,6 +37284,7 @@ ignore
 iguanians
 iguanid
 iguanodon
+iguanodons
 ihrams
 ikebana
 ikons
@@ -42459,6 +42483,7 @@ languishment
 languor
 languorously
 languors
+langur
 laniard
 lank
 lankest
@@ -44739,6 +44764,7 @@ lysogeny
 lysolecithin
 lysosomal
 lysosome
+lysozyme
 lysozymes
 lyssa
 lyssas
@@ -45011,6 +45037,7 @@ mainframe
 mainframes
 mainlander
 mainlands
+mainline
 mainlining
 mainmast
 mainmasts
@@ -49085,6 +49112,7 @@ mozos
 mozzetta
 mozzettas
 mridangams
+mu
 muchachos
 muchly
 muchnesses
@@ -49867,6 +49895,7 @@ napless
 napoleon
 nappa
 nappas
+nappe
 napped
 napper
 nappes
@@ -56361,6 +56390,7 @@ peched
 peching
 pechs
 peck
+pecked
 peckers
 peckerwood
 peckerwoods
@@ -59637,6 +59667,7 @@ postdating
 postdebate
 postdiluvian
 postdivestiture
+postdivorce
 postdoc
 postdoctoral
 postdoctorate
@@ -59712,6 +59743,7 @@ postnatal
 postnatally
 postneonatal
 postoperatively
+postops
 postorbital
 postorgasmic
 postpollination
@@ -60851,6 +60883,7 @@ prevailing
 prevails
 prevalence
 prevalent
+prevalently
 prevaluing
 prevaricate
 prevaricated
@@ -65106,6 +65139,7 @@ reichsmark
 reichsmarks
 reidentified
 reidentifies
+reidentifying
 reif
 reifications
 reifies
@@ -65437,6 +65471,7 @@ relumes
 relumines
 relumining
 relying
+remade
 remailed
 remaindering
 remainders
@@ -66310,6 +66345,7 @@ resoluter
 resolutes
 resolutest
 resolvable
+resolve
 resolvents
 resonances
 resonantly
@@ -68637,6 +68673,7 @@ sandalwoods
 sandarac
 sandaracs
 sandbag
+sandbagged
 sandbaggers
 sandbagging
 sandbags
@@ -71441,6 +71478,7 @@ shrewdly
 shrewdnesses
 shrewed
 shrewing
+shrewish
 shrewishly
 shrewishness
 shrewlike
@@ -75927,6 +75965,7 @@ structuralisms
 structuralist
 structuralize
 structuralized
+structurally
 structuration
 structurations
 structure
@@ -77007,6 +77046,7 @@ sunspot
 sunstones
 sunstrokes
 sunstruck
+sunsuit
 suntan
 suntanned
 suntans
@@ -78322,6 +78362,7 @@ talesmen
 taleysim
 tali
 talion
+talipeds
 talipots
 talisman
 talismanically
@@ -80716,6 +80757,7 @@ torr
 torrefies
 torrefy
 torrefying
+torrential
 torrentially
 torrid
 torridities
@@ -82144,6 +82186,7 @@ tubulating
 tubule
 tubulins
 tubulose
+tubulure
 tubulures
 tuchun
 tuckered
@@ -83562,6 +83605,7 @@ undid
 undidactic
 undigested
 undigestible
+undiluted
 undiplomatic
 undirected
 undisciplined
@@ -84434,6 +84478,7 @@ unsavoury
 unsawed
 unsayable
 unsayables
+unscanned
 unscarred
 unscented
 unschooled
@@ -84792,6 +84837,7 @@ unwits
 unwitted
 unwitting
 unwooed
+unworkabilities
 unworkability
 unworldlier
 unworldliest
@@ -85066,6 +85112,7 @@ uranyls
 urase
 urases
 urates
+urbanely
 urbaner
 urbanest
 urbanise
@@ -86493,6 +86540,7 @@ volatilizations
 volatilize
 volatilizes
 volatilizing
+volcanicity
 volcanisms
 volcanized
 volcanizes
@@ -86831,6 +86879,7 @@ walkups
 walkway
 walkways
 walkyrie
+walkyries
 wall
 wallaby
 wallas
