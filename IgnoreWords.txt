@@ -2655,6 +2655,7 @@ angst
 anguish
 anguished
 anguishes
+anguishing
 angular
 angularly
 angulate
@@ -3340,6 +3341,7 @@ aorists
 aortae
 aortal
 aortas
+aortic
 aortographic
 aortographies
 aoudads
@@ -3970,6 +3972,7 @@ armamentarium
 armature
 armatured
 armbands
+armchairs
 armed
 armet
 armfuls
@@ -6320,6 +6323,7 @@ beclamor
 beclamoring
 beclamors
 beclasp
+beclasped
 beclasping
 beclasps
 becloaks
@@ -8584,6 +8588,7 @@ borborygmi
 bordeaux
 bordel
 bordello
+border
 bordering
 borderland
 bordure
@@ -9454,6 +9459,7 @@ brownnoser
 brownnosers
 brownnoses
 brownnosing
+brownouts
 browns
 brownshirt
 brownshirts
@@ -14095,6 +14101,7 @@ cochairs
 cochairwoman
 cochampions
 cochineal
+cochins
 cochlea
 cochlear
 cochleas
@@ -16307,6 +16314,7 @@ copyist
 copyists
 copyreading
 copyright
+copyrightable
 copyrighted
 copyrighting
 copywriter
@@ -17057,6 +17065,7 @@ cowpats
 cowpeas
 cowpie
 cowpokes
+cowpox
 cowpoxes
 cowpunchers
 cowrie
@@ -19270,6 +19279,7 @@ decomposes
 decompositions
 decompound
 decompress
+decompresses
 decompressing
 deconcentrate
 deconcentrating
@@ -21558,6 +21568,7 @@ disarticulated
 disarticulating
 disassemble
 disassembled
+disassembles
 disassemblies
 disassembling
 disassociate
@@ -33807,6 +33818,7 @@ gunrunner
 gunrunning
 gunsel
 gunsels
+gunship
 gunships
 gunshots
 gunslinger
@@ -36255,6 +36267,7 @@ horehounds
 horizonal
 horizontal
 horizontalities
+horizontality
 horizontally
 hormogonium
 hormonal
@@ -37697,6 +37710,7 @@ immure
 immurements
 immuring
 immutabilities
+immutability
 immutable
 immutablenesses
 immy
@@ -39025,6 +39039,7 @@ initiative
 initiatives
 initiatory
 injectables
+injected
 injection
 injective
 injector
@@ -43353,6 +43368,7 @@ lettuces
 letup
 leu
 leucemia
+leucemias
 leucin
 leucines
 leucite
@@ -43821,6 +43837,7 @@ linguisticians
 linguists
 lingula
 lingulae
+lingular
 lingy
 linier
 liniest
@@ -44207,6 +44224,7 @@ lockup
 locofoco
 locoing
 locoism
+locoisms
 locomote
 locomotes
 locomoting
@@ -44554,6 +44572,7 @@ lovesicknesses
 lovevines
 lovingly
 lovingnesses
+low
 lowballed
 lowballing
 lowballs
@@ -44848,6 +44867,7 @@ lycopods
 lyddites
 lye
 lyes
+lyings
 lymphadenitises
 lymphangiogram
 lymphangiograms
@@ -47266,6 +47286,7 @@ midwinter
 midwinters
 midwives
 midwiving
+midyear
 midyears
 mien
 miffiest
@@ -48180,6 +48201,7 @@ misstarting
 misstated
 misstates
 missteered
+missteering
 misstep
 misstepping
 misstopped
@@ -50686,6 +50708,7 @@ newspersons
 newsprint
 newsreader
 newsreaders
+newsreel
 newsrooms
 newsstand
 newsstands
@@ -53096,6 +53119,7 @@ orby
 orc
 orceins
 orchard
+orchardists
 orchards
 orchestral
 orchestras
@@ -60030,6 +60054,7 @@ potherbs
 pothering
 potholders
 pothole
+pothook
 pothooks
 pothos
 pothouse
@@ -60322,6 +60347,7 @@ precensored
 precensoring
 precensors
 precenting
+precents
 preceptors
 preceptorship
 precessed
@@ -61100,6 +61126,7 @@ previewing
 previews
 previous
 prevised
+previses
 prevising
 previsional
 previsioning
@@ -63588,6 +63615,7 @@ randinesses
 randomization
 randomizations
 randomizer
+randomizers
 randomnesses
 range
 rangers
@@ -73556,6 +73584,7 @@ soigne
 soignee
 soil
 soilage
+soilborne
 soiling
 soilless
 soilures
@@ -73864,6 +73893,7 @@ sordini
 sords
 soreheaded
 soreheads
+sorels
 sorely
 sorenesses
 sorer
@@ -77794,6 +77824,7 @@ suspensefulness
 suspenser
 suspension
 suspensions
+suspensive
 suspensors
 suspensory
 suspicion
@@ -81663,6 +81694,7 @@ treader
 treaders
 treading
 treadles
+treadling
 treadmill
 treasure
 treasured
@@ -86424,6 +86456,7 @@ vigilantisms
 vigilantly
 vigintillion
 vignerons
+vignette
 vignetted
 vignetters
 vignetting
@@ -87585,6 +87618,7 @@ weatherglasses
 weathering
 weatherize
 weatherized
+weatherizes
 weatherly
 weathermen
 weatherperson
@@ -88500,6 +88534,7 @@ wizened
 wizes
 wizzen
 woaded
+woadwaxen
 woadwaxes
 woald
 woalds
