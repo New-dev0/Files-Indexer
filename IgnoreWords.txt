@@ -619,6 +619,7 @@ acylate
 acylated
 acylations
 acyloin
+acyloins
 ad
 adage
 adagio
@@ -3694,6 +3695,7 @@ aquilegias
 aquiline
 aquilinities
 aquilinity
+aquiver
 ar
 arabesk
 arabesks
@@ -6171,6 +6173,7 @@ beaked
 beakless
 beamed
 beamier
+beaming
 beamishly
 beamless
 beams
@@ -6469,6 +6472,7 @@ befuddle
 befuddlement
 befuddlements
 beg
+begalls
 begat
 begaze
 begazed
@@ -14192,6 +14196,7 @@ coevolutions
 coevolved
 coevolves
 coexecutor
+coexerts
 coexisted
 coexistent
 coexisting
@@ -19329,6 +19334,7 @@ deficient
 deficients
 deficit
 deficits
+defied
 defier
 defiers
 defiladed
@@ -25303,6 +25309,7 @@ entwist
 entwisted
 entwisting
 entwists
+enucleate
 enucleates
 enucleation
 enucleations
@@ -27229,6 +27236,7 @@ factualist
 factually
 factualnesses
 facture
+facula
 faculties
 faculty
 fad
@@ -28246,6 +28254,7 @@ files
 filet
 filets
 filial
+filiate
 filiates
 filibeg
 filibegs
@@ -30291,6 +30300,7 @@ frosh
 frost
 frostbit
 frostbite
+frostbites
 frostbiting
 frosted
 frostfish
@@ -32078,6 +32088,7 @@ gloat
 gloated
 gloater
 gloaters
+gloating
 gloatingly
 globalising
 globalism
@@ -34870,6 +34881,7 @@ hemitropes
 hemline
 hemlines
 hemmed
+hemming
 hemochromatoses
 hemochromatosis
 hemocyanin
@@ -35456,6 +35468,7 @@ hm
 hmm
 ho
 hoar
+hoard
 hoarder
 hoarders
 hoardings
@@ -37710,6 +37723,7 @@ improbably
 improbities
 improperly
 impropernesses
+improv
 improvable
 improve
 improved
@@ -38344,6 +38358,7 @@ indwelt
 inearth
 inebriant
 inebriate
+inebriated
 inebriates
 inebriating
 inedibly
@@ -39831,6 +39846,7 @@ involutional
 involutions
 involve
 involved
+involvedly
 involvement
 involvements
 involver
@@ -43852,6 +43868,7 @@ lockrams
 locks
 lockset
 locksmith
+locksmithing
 locksmithings
 locksmiths
 lockstitches
@@ -48156,6 +48173,7 @@ momenta
 momentarily
 momentary
 momently
+momentous
 momentousness
 momentum
 momi
@@ -50620,6 +50638,7 @@ noisier
 noisily
 noising
 noisy
+nolos
 nom
 nomads
 nomarch
@@ -51104,6 +51123,7 @@ nonmusician
 nonmusicians
 nonmusics
 nonmutant
+nonmutants
 nonmyelinated
 nonnasal
 nonnational
@@ -51609,6 +51629,7 @@ nudities
 nudity
 nudnicks
 nudzhed
+nudzhing
 nugatory
 nuggets
 nuisances
@@ -56248,6 +56269,7 @@ pedologists
 pedometer
 pedophiles
 pedophilias
+pedros
 peds
 peduncled
 pedunculate
@@ -57021,6 +57043,7 @@ petcocks
 petechia
 petechial
 petering
+petiolar
 petioles
 petit
 petiteness
@@ -57918,6 +57941,7 @@ pinchpenny
 pincushion
 pinders
 pindling
+pineal
 pinealectomize
 pinealectomized
 pinecones
@@ -58162,6 +58186,7 @@ pitilessly
 pitilessness
 pitilessnesses
 pitmans
+pitons
 pitta
 pittance
 pittances
@@ -58615,6 +58640,7 @@ plugger
 plugola
 plumb
 plumbable
+plumbago
 plumbagos
 plumbeous
 plumber
@@ -67944,6 +67970,7 @@ rutins
 ruts
 rutted
 ruttier
+ruttily
 ruttiness
 ruttinesses
 ruttish
@@ -70750,6 +70777,7 @@ sheepmen
 sheepshanks
 sheepshearers
 sheepskins
+sheered
 sheerest
 sheering
 sheerly
@@ -71488,6 +71516,7 @@ signora
 signoras
 signore
 signori
+signories
 signorina
 signorine
 signory
@@ -73367,6 +73396,7 @@ sortied
 sortieing
 sortilege
 sortition
+sostenuti
 sostenuto
 sot
 soteriological
@@ -78366,6 +78396,7 @@ tattooing
 tattooist
 tattoos
 tatty
+taught
 taunt
 tauntingly
 tauon
@@ -79748,6 +79779,7 @@ ticketed
 ticketing
 ticketless
 tickets
+ticking
 tickings
 tickles
 ticklish
@@ -80946,6 +80978,7 @@ transpire
 transpiring
 transplantable
 transplantation
+transplanter
 transplanters
 transpontine
 transported
@@ -83239,6 +83272,7 @@ underwhelm
 underwhelmed
 underwhelms
 underwings
+underwood
 underwoods
 underwool
 underwork
@@ -86181,6 +86215,7 @@ voicings
 void
 volante
 volatile
+volatiles
 volatilised
 volatilities
 volatilizations
