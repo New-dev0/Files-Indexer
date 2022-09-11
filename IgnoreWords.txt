@@ -310,6 +310,7 @@ accruable
 accruals
 accrue
 accruement
+acculturate
 acculturated
 acculturates
 acculturation
@@ -961,6 +962,7 @@ aero
 aerobat
 aerobatic
 aerobes
+aerobic
 aerobicized
 aerobicizing
 aerobics
@@ -4215,6 +4217,7 @@ ashlars
 ashler
 ashless
 ashman
+ashmen
 ashore
 ashplant
 ashram
@@ -6720,6 +6723,7 @@ bemusedly
 bemusements
 bemusing
 bemuzzled
+benamed
 bench
 bencher
 benchlands
@@ -8787,6 +8791,7 @@ bowse
 bowsed
 bowshot
 bowshots
+bowsprits
 bowstring
 bowstringed
 bowstringing
@@ -9426,6 +9431,7 @@ brownnosers
 brownnoses
 brownnosing
 browns
+brownshirt
 brownshirts
 brownstones
 browsed
@@ -11713,6 +11719,7 @@ cees
 ceibas
 ceiled
 ceiler
+ceilidhs
 ceiling
 ceilinged
 ceilings
@@ -17379,6 +17386,7 @@ cribs
 cribworks
 cricetid
 cricked
+cricket
 cricketed
 cricketer
 cricketers
@@ -18215,6 +18223,7 @@ cutinise
 cutinised
 cutinized
 cutinizes
+cutinizing
 cutins
 cutlas
 cutlases
@@ -21850,6 +21859,7 @@ disinterments
 disinterring
 disinters
 disintoxicated
+disintoxicating
 disintoxication
 disinvested
 disinvesting
@@ -28674,6 +28684,7 @@ fishmongers
 fishpole
 fishpond
 fishponds
+fishtailed
 fishtails
 fishway
 fishways
@@ -30092,6 +30103,7 @@ fractural
 fracture
 fracturers
 fractures
+fracturing
 fracturs
 fraenum
 frag
@@ -32892,6 +32904,7 @@ grandparent
 grandparenthood
 grandparents
 grandpas
+grands
 grandsire
 grandsires
 grandsirs
@@ -32911,6 +32924,7 @@ granolith
 granoliths
 granophyre
 granophyres
+grans
 grantable
 granted
 grantee
@@ -35089,6 +35103,7 @@ hencoop
 hencoops
 hendiadys
 hendiadyses
+henequen
 henge
 henges
 henhouse
@@ -35576,6 +35591,7 @@ hirudin
 hisn
 hispanidads
 hiss
+hisses
 hissier
 hissies
 hissiest
@@ -39137,6 +39153,7 @@ insistent
 insistently
 insister
 insisters
+insnared
 insnarers
 insnares
 insnaring
@@ -39377,6 +39394,7 @@ interchangeable
 interchanger
 interchangers
 intercity
+interclan
 interclub
 intercoastal
 intercollegiate
@@ -40592,6 +40610,7 @@ janisary
 janissary
 janitorial
 janizary
+japan
 japanize
 japanized
 japanizes
@@ -40636,6 +40655,7 @@ jasmins
 jasper
 jaspers
 jasperware
+jasperwares
 jaspery
 jaspilites
 jassid
@@ -52342,6 +52362,7 @@ octuple
 octupled
 octuples
 octuplex
+octupling
 octuply
 octyl
 octyls
@@ -55663,6 +55684,7 @@ paralytic
 paralytics
 paralyze
 paralyzed
+paralyzer
 paralyzers
 paralyzes
 paralyzing
@@ -61834,6 +61856,7 @@ provisos
 provitamin
 provocateur
 provocation
+provocative
 provoker
 provokers
 provokes
@@ -62433,6 +62456,7 @@ pusley
 pusleys
 puss
 pusses
+pussley
 pusslike
 pussyfoot
 pussyfooters
@@ -69836,6 +69860,7 @@ scythes
 scything
 seabag
 seabeach
+seabeaches
 seabed
 seabirds
 seaboards
@@ -72593,6 +72618,7 @@ slipform
 slipformed
 slipforming
 slipknots
+slipless
 slipped
 slippered
 slipperier
@@ -73811,6 +73837,7 @@ soyuzes
 sozin
 sozines
 sozins
+spa
 space
 spaceband
 spaced
@@ -74710,6 +74737,7 @@ squattest
 squatting
 squatty
 squawbush
+squawbushes
 squawk
 squawkers
 squawroot
@@ -76613,6 +76641,7 @@ substate
 substation
 substituted
 substituting
+substitution
 substitutional
 substitutions
 substitutive
@@ -79226,6 +79255,7 @@ tenter
 tentered
 tenterhooks
 tenters
+tenth
 tenthly
 tenths
 tentiest
@@ -84758,6 +84788,7 @@ untillable
 untilled
 untimed
 untimelier
+untimeliness
 untimely
 untimeous
 untiringly
@@ -85918,6 +85949,7 @@ verily
 verisimilarly
 verisimilitude
 verismo
+verismos
 verisms
 verist
 verists
@@ -86917,6 +86949,7 @@ walkyries
 wall
 wallaby
 wallas
+wallboards
 wallet
 walleye
 walleyes
@@ -88151,6 +88184,7 @@ wiseguy
 wiselier
 wisely
 wisenheimer
+wisent
 wisents
 wisest
 wish
@@ -88525,6 +88559,7 @@ worshiper
 worshipers
 worshipful
 worshiping
+worships
 worst
 worsting
 worsts
