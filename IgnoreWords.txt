@@ -3366,6 +3366,7 @@ aphonics
 aphorise
 aphorises
 aphorism
+aphorisms
 aphorists
 aphorized
 aphorizer
@@ -5113,6 +5114,7 @@ awninged
 awnings
 awnless
 awny
+awoken
 awol
 awols
 axal
@@ -10789,6 +10791,7 @@ capeskins
 capework
 capful
 capias
+capiases
 capillaries
 capillarities
 capita
@@ -15549,6 +15552,7 @@ consciouses
 consciously
 consciousness
 consciousnesses
+conscribes
 conscribing
 conscripted
 conscriptions
@@ -16421,6 +16425,7 @@ corrodies
 corrody
 corrosion
 corrosive
+corrosivenesses
 corrugated
 corrugates
 corruptibility
@@ -18001,6 +18006,7 @@ curried
 currier
 currieries
 curriery
+currs
 curry
 currycombing
 currycombs
@@ -21491,6 +21497,7 @@ disconcertments
 disconcerts
 disconformities
 disconformity
+disconnectedly
 disconnects
 disconsolately
 disconsolation
@@ -22640,6 +22647,7 @@ doter
 doters
 dotes
 dotier
+doting
 dotingly
 dots
 dottels
@@ -23602,6 +23610,7 @@ early
 earmark
 earmarked
 earmarks
+earmuffs
 earn
 earned
 earner
@@ -25098,6 +25107,7 @@ enrollees
 enroller
 enrollers
 enrolling
+enrollment
 enrollments
 enrolment
 enrols
@@ -26915,6 +26925,7 @@ exsecants
 exsect
 exsection
 exsects
+exserted
 exsertile
 exsiccated
 exsiccates
@@ -27047,6 +27058,7 @@ extremeness
 extremenesses
 extremism
 extremisms
+extremists
 extremum
 extrications
 extrinsic
@@ -28297,6 +28309,7 @@ filterers
 filth
 filthier
 filthily
+filthiness
 filthinesses
 filths
 filtrated
@@ -32351,6 +32364,7 @@ godly
 godmother
 godmothering
 godown
+godowns
 godroon
 gods
 godships
@@ -33812,6 +33826,7 @@ haimish
 haint
 hairball
 hairballs
+hairbands
 haircut
 haircuts
 haircutter
@@ -37462,6 +37477,7 @@ impeccabilities
 impeccably
 impeccant
 impecuniosities
+impecuniosity
 impecuniously
 impecuniousness
 impedance
@@ -42980,6 +42996,7 @@ lethargy
 lethe
 letted
 letterboxings
+letterman
 lettermen
 letterpress
 letterpresses
@@ -43910,6 +43927,7 @@ logicize
 logicizing
 logicless
 logics
+logier
 logiest
 loginesses
 logins
@@ -46267,6 +46285,7 @@ merer
 meres
 merganser
 mergees
+mergences
 mergers
 merging
 meridians
@@ -57831,6 +57850,7 @@ pilferage
 pilferages
 pilfered
 pilferers
+pilfering
 pilgarlics
 pilgrimages
 pilgrimaging
@@ -62919,6 +62939,7 @@ raffinose
 raffinoses
 raffishly
 raffishness
+raffle
 raffled
 raffler
 rafflers
@@ -65335,6 +65356,7 @@ remythologizing
 renail
 renal
 rename
+renascence
 renascent
 renationalized
 renationalizes
@@ -70510,6 +70532,7 @@ shadowgraphies
 shadowgraphs
 shadowier
 shadowiest
+shadowiness
 shadowinesses
 shadowing
 shadowy
@@ -71927,6 +71950,7 @@ skip
 skipjack
 skipjacks
 skiplanes
+skippable
 skipped
 skipper
 skippered
@@ -75369,6 +75393,7 @@ straitest
 straitjacketing
 straitjackets
 straitly
+straitness
 straitnesses
 strake
 straked
@@ -76130,6 +76155,7 @@ suboscines
 suboval
 subovate
 suboxide
+subparagraphs
 subparallel
 subparts
 subpenaed
@@ -77756,6 +77782,7 @@ synoptical
 synoptically
 synostosis
 synovia
+synovitis
 synovitises
 syntactical
 syntactics
@@ -79215,6 +79242,7 @@ theins
 theirs
 theirselves
 theism
+theisms
 theist
 theistic
 theistically
@@ -79485,6 +79513,7 @@ thorp
 thorps
 thou
 thoued
+though
 thought
 thoughtfully
 thoughtless
@@ -79858,6 +79887,7 @@ timekeepings
 timelessness
 timeliest
 timeliness
+timely
 timeously
 timepieces
 timepleaser
@@ -80906,6 +80936,7 @@ transparency
 transparent
 transparentized
 transparentizes
+transparentness
 transpersonal
 transpierce
 transpierces
@@ -81328,6 +81359,7 @@ triglycerides
 triglyph
 triglyphical
 trignesses
+trigonometrical
 trigonometries
 trigos
 trigram
@@ -81498,6 +81530,7 @@ triumphed
 triumphs
 triune
 triunes
+triunities
 triunity
 trivet
 trivial
@@ -85995,6 +86028,7 @@ visuals
 vita
 vitae
 vital
+vitalise
 vitalised
 vitalising
 vitalism
@@ -88907,5 +88941,6 @@ zymosans
 zymosis
 zymotic
 zymurgies
+zymurgy
 zyzzyva
 zyzzyvas
