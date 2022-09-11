@@ -4984,6 +4984,7 @@ autostrade
 autosuggest
 autosuggested
 autosuggestions
+autotetraploid
 autotetraploidy
 autotomic
 autotomies
@@ -5816,6 +5817,7 @@ barehanded
 barehanding
 barehands
 bareheaded
+bareness
 baresark
 barfed
 barfing
@@ -6736,6 +6738,7 @@ bends
 bendwise
 bendy
 bene
+beneath
 benedict
 benedictions
 benefactions
@@ -6762,6 +6765,7 @@ benefits
 benefitted
 benempt
 benes
+benevolences
 benevolentness
 benightedness
 benignancy
@@ -7144,6 +7148,7 @@ bicycles
 bicycling
 bicyclists
 bidarkas
+bidarkee
 biddabilities
 biddability
 bidder
@@ -9749,6 +9754,7 @@ bunching
 buncoing
 buncos
 bund
+bundists
 bundled
 bundlers
 bundling
@@ -12035,6 +12041,7 @@ chairmans
 chairmanship
 chairpersons
 chairwomen
+chaise
 chaises
 chakras
 chalah
@@ -13431,6 +13438,7 @@ clamorously
 clamors
 clamoured
 clamours
+clamp
 clampdown
 clamped
 clamper
@@ -13498,6 +13506,7 @@ classicality
 classicism
 classicist
 classicists
+classicizing
 classico
 classiest
 classification
@@ -14378,6 +14387,7 @@ coigns
 coil
 coilability
 coilers
+coiling
 coin
 coinable
 coinage
@@ -14835,6 +14845,7 @@ commination
 commingles
 comminutes
 comminuting
+comminution
 comminutions
 commiseratingly
 commiseration
@@ -21428,6 +21439,7 @@ disaffects
 disaffiliate
 disaffiliates
 disaffiliating
+disaffirm
 disaffirming
 disaffirms
 disaggregate
@@ -21467,6 +21479,7 @@ disarmaments
 disarmer
 disarmingly
 disarrangements
+disarrayed
 disarraying
 disarrays
 disarticulate
@@ -33786,6 +33799,7 @@ gynecologies
 gynecology
 gynecomastia
 gyniatries
+gyniatry
 gynoecia
 gynogeneses
 gynogenesis
@@ -37270,6 +37284,7 @@ ignition
 ignitions
 ignitors
 ignitron
+ignobilities
 ignobility
 ignobleness
 ignominiously
@@ -37906,6 +37921,7 @@ impudency
 impudently
 impugn
 impugned
+impugner
 impugners
 impugning
 impugns
@@ -40575,6 +40591,7 @@ janiform
 janisary
 janissary
 janitorial
+janizary
 japanize
 japanized
 japanizes
@@ -40940,6 +40957,7 @@ jomon
 jones
 jonesing
 jonnycake
+joram
 jordan
 jordans
 jorum
@@ -43948,6 +43966,7 @@ loaded
 loading
 loadings
 loadmaster
+loadstar
 loaf
 loafed
 loafing
@@ -48516,6 +48535,7 @@ monogamic
 monogamies
 monogamist
 monogamists
+monogastric
 monogeneans
 monogenic
 monogenically
@@ -61749,6 +61769,7 @@ prototrophic
 prototrophies
 prototrophy
 prototype
+prototyped
 prototypes
 prototypic
 prototypically
@@ -69330,6 +69351,7 @@ schmaltz
 schmalz
 schmalziest
 schmatte
+schmear
 schmearing
 schmeering
 schmeers
@@ -71989,6 +72011,7 @@ sinlessnesses
 sinned
 sinner
 sinners
+sinoatrial
 sinologies
 sinologist
 sinologists
@@ -72452,6 +72475,7 @@ sleazeballs
 sleazes
 sleaziest
 sleazily
+sleaziness
 sleazo
 sleazoid
 sleazoids
@@ -77465,6 +77489,7 @@ surgeon
 surgery
 surgical
 surgically
+surging
 suricate
 suricates
 surimi
@@ -78658,6 +78683,7 @@ tastable
 tasteful
 tastefulness
 tastefulnesses
+tasteless
 tastelessness
 tastelessnesses
 tastemakers
@@ -80959,6 +80985,7 @@ toyshops
 trabeate
 trabeation
 trabecula
+trabeculae
 trabeculate
 traceabilities
 traceability
@@ -81577,6 +81604,7 @@ tricepses
 trichiases
 trichiasis
 trichina
+trichinal
 trichinas
 trichinize
 trichinizes
@@ -82043,6 +82071,7 @@ trucks
 truculencies
 truculency
 truculently
+trudgen
 trudges
 true
 trueblues
@@ -83340,6 +83369,7 @@ uncurls
 uncustomarily
 uncustomary
 uncynically
+undamaged
 undanceable
 undatable
 undated
@@ -83734,6 +83764,7 @@ unexpected
 unexpended
 unexpired
 unexploded
+unexpressed
 unexpurgated
 unfaded
 unfair
@@ -83770,6 +83801,7 @@ unfetters
 unfiltered
 unfindable
 unfit
+unfitly
 unfitness
 unfitted
 unfix
@@ -85014,6 +85046,7 @@ uprouse
 uprousing
 uprush
 uprushed
+uprushes
 uprushing
 upsadaisy
 upscale
@@ -85432,6 +85465,7 @@ van
 vanadiate
 vanadium
 vanadiums
+vanadous
 vandal
 vandalise
 vandalised
@@ -87298,6 +87332,7 @@ weaselly
 weasons
 weather
 weatherability
+weatherboard
 weatherboarded
 weatherboarding
 weatherboards
