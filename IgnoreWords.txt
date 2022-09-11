@@ -1239,6 +1239,7 @@ agglutinogens
 aggrade
 aggraded
 aggrandising
+aggrandize
 aggrandized
 aggrandizement
 aggrandizers
@@ -4569,6 +4570,7 @@ atheoretical
 atherogenic
 atheroma
 atheromas
+atheromata
 atheromatous
 atheroscleroses
 atherosclerotic
@@ -4581,6 +4583,7 @@ athodyd
 athodyds
 athrocytes
 athwartship
+athwartships
 atilt
 atlantes
 atlatl
@@ -6128,6 +6131,7 @@ battlements
 battler
 battlers
 battleships
+battling
 battue
 batty
 bauble
@@ -10238,6 +10242,7 @@ cad
 cadastral
 cadastre
 cadaver
+cadaverine
 cadaverines
 cadaverous
 cadavers
@@ -19970,6 +19975,7 @@ denazifies
 denazify
 dendrimers
 dendritic
+dendrogram
 dendrograms
 dendroid
 dendrological
@@ -24201,6 +24207,7 @@ eidos
 eigenmodes
 eight
 eighteen
+eighteens
 eighteenths
 eightfold
 eighties
@@ -24421,6 +24428,7 @@ elms
 elmy
 elocution
 elocutionists
+elocutions
 elodeas
 eloigned
 eloigner
@@ -27323,6 +27331,7 @@ eyestrains
 eyetooth
 eyewash
 eyewashes
+eyewink
 eyewitness
 eyewitnesses
 eying
@@ -27571,6 +27580,7 @@ familiarity
 familiarization
 familiarize
 familiarized
+familiarly
 familiarnesses
 familiars
 familism
@@ -31357,6 +31367,7 @@ gasometers
 gasp
 gasper
 gaspereau
+gaspereaux
 gasps
 gassed
 gassier
@@ -33802,6 +33813,7 @@ gusto
 gustoes
 gusts
 gut
+gutbucket
 gutlessness
 gutsiest
 gutsinesses
@@ -38320,6 +38332,7 @@ incorrectnesses
 incorrigible
 incorrupted
 incorruptibles
+incorruptibly
 incorruptly
 increasable
 increasing
@@ -38856,6 +38869,7 @@ ingatherings
 ingathers
 ingeniously
 ingeniousness
+ingenue
 ingenuity
 ingenuous
 ingenuousness
@@ -41484,6 +41498,7 @@ keelson
 keen
 keened
 keener
+keeners
 keening
 keenly
 keens
@@ -42378,6 +42393,7 @@ lagunas
 lagune
 lahar
 laic
+laically
 laichs
 laicises
 laicism
@@ -42999,8 +43015,10 @@ learns
 lears
 leary
 leas
+leasable
 leasebacks
 leased
+leaseholders
 leasers
 least
 leasts
@@ -44109,6 +44127,7 @@ locales
 localised
 localises
 localising
+localism
 localities
 localizable
 localization
@@ -52328,6 +52347,7 @@ occasional
 occasioned
 occasions
 occidental
+occidentalize
 occidentalized
 occidentalizing
 occidentally
@@ -52776,6 +52796,7 @@ onrush
 onshore
 onside
 onstage
+onstream
 ontically
 ontogeneses
 ontogenetically
@@ -59173,6 +59194,7 @@ pointiest
 pointillism
 pointillisms
 pointillist
+pointillists
 pointlessly
 pointlessness
 pointmen
@@ -62803,6 +62825,7 @@ quagga
 quaggas
 quaggy
 quagmire
+quagmires
 quagmiriest
 quags
 quahogs
@@ -63572,6 +63595,7 @@ rapper
 rapping
 rappini
 rapport
+raps
 rapscallions
 rapt
 raptness
@@ -64751,6 +64775,7 @@ redyed
 ree
 reearning
 reearns
+reechier
 reechiest
 reecho
 reechy
@@ -66873,6 +66898,7 @@ retroaction
 retroactions
 retroactive
 retroactivities
+retrocede
 retroceded
 retrocession
 retrocessions
@@ -66892,6 +66918,7 @@ retrograding
 retrogressed
 retrogressing
 retrogression
+retrogressions
 retrogressive
 retrogressively
 retronym
@@ -67765,6 +67792,7 @@ rolfer
 rolfers
 rolfing
 rolfs
+roll
 rollaway
 rolled
 roller
@@ -69946,6 +69974,7 @@ scyphi
 scyphozoan
 scyphozoans
 scyphus
+scythed
 scythes
 scything
 seabag
@@ -70124,6 +70153,7 @@ securances
 securely
 securement
 securements
+securest
 securitizations
 securitize
 securitized
@@ -71913,6 +71943,7 @@ signifieds
 signifiers
 signifies
 signify
+signifyings
 signing
 signior
 signiories
@@ -76155,6 +76186,7 @@ stuccoworks
 stuck
 stud
 studded
+studdie
 studdings
 studentships
 studier
@@ -80354,6 +80386,7 @@ timberdoodles
 timberhead
 timberheads
 timberings
+timberland
 timberline
 timberlines
 timberwork
@@ -81961,6 +81994,7 @@ trips
 triptan
 triptanes
 triptyca
+triptych
 triptychs
 trireme
 triremes
@@ -83946,6 +83980,7 @@ unflexed
 unflinching
 unflinchingly
 unfluted
+unflyable
 unfocused
 unfoiled
 unfold
