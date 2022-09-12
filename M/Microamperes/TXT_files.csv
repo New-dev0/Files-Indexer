@@ -1,0 +1,20 @@
+https://www.kernel.org/doc/Documentation/devicetre...,https://www.kernel.org/doc/Documentation/devicetree/bindings/regulator/da9211.txt
+"ams,as3645a.txt",https://www.kernel.org/doc/Documentation/devicetree/bindings/leds/ams%252Cas3645a.txt
+Documentation/devicetree/bindings/opp/opp.txt - kernel/msm,https://android.googlesource.com/kernel/msm/%2B/android-7.1.0_r0.2/Documentation/devicetree/bindings/opp/opp.txt
+Documentation/devicetree/bindings/regulator/regulator.txt - Google Git,https://android.googlesource.com/kernel/msm/%2B/android-msm-bullhead-3.10-marshmallow-dr/Documentation/devicetree/bindings/regulator/regulator.txt
+"Documentation/devicetree/bindings/leds/ams,as3645a.txt - hafnium ...",https://review.trustedfirmware.org/plugins/gitiles/hafnium/third_party/linux/%2B/b4b6d4a02fa8aa8187d426b508fb7f3b69df0dcc/Documentation/devicetree/bindings/leds/ams%252Cas3645a.txt
+Documentation/devicetree/bindings/regulator/da9211.txt - Gitiles,https://review.trustedfirmware.org/plugins/gitiles/hafnium/third_party/linux/%2B/b4b6d4a02fa8aa8187d426b508fb7f3b69df0dcc/Documentation/devicetree/bindings/regulator/da9211.txt
+Misc. construction hints,http://amasci.com/emotor/hints.txt
+ebf-buster-linux/battery.txt at master - GitHub,https://github.com/Embedfire/ebf-buster-linux/blob/master/Documentation/devicetree/bindings/power/supply/battery.txt
+opp.txt - Yocto git,http://git.yoctoproject.org/cgit/cgit.cgi/linux-yocto-4.6/plain/Documentation/devicetree/bindings/opp/opp.txt
+ufshcd-pltfrm.txt,http://www.macs.hw.ac.uk/~hwloidl/hackspace/linux/Documentation/devicetree/bindings/ufs/ufshcd-pltfrm.txt
+cmtcards.txt - hpcalc.org,https://www.hpcalc.org/hp48/docs/misc/cmtcards.txt
+Documentation/devicetree/bindings/regulator/da9211.txt - linux-4.4 ...,https://nv-tegra.nvidia.com/r/plugins/gitiles/linux-4.4/%2B/cf377ad7d42c566356d79049536d9cb37499cb77/Documentation/devicetree/bindings/regulator/da9211.txt
+Documentation/devicetree/bindings/leds/common.txt - Linux source ...,https://elixir.bootlin.com/linux/v4.5/source/Documentation/devicetree/bindings/leds/common.txt
+Documentation/devicetree/bindings/regulator/tps65218.txt · mainline,https://gitlab.sdu.dk/sdurobotics/linux-kernels/kernel/-/blob/mainline/Documentation/devicetree/bindings/regulator/tps65218.txt
+Documentation - devicetree - bindings - leds - common.txt,https://gitlab.freedesktop.org/drm/msm/blob/cd2a3bf02625ffad02a6b9f7df758ee36cf12769/Documentation/devicetree/bindings/leds/common.txt
+Documentation/devicetree/bindings/mfd/max77693.txt · master · 徐嵩 ...,https://gitlab.boonray.com/song.xu/linux-local/blob/master/Documentation/devicetree/bindings/mfd/max77693.txt
+Full text of ... - Internet Archive,https://archive.org/stream/EICO_electrical_equipment_manuals_schematics_images/Eico-680-Instruction-Manual_djvu.txt
+https://jcprg.org/master/exfor/O/o1194.txt,https://jcprg.org/master/exfor/O/o1194.txt
+Documentation/devicetree/bindings/power/supply/bq24190.txt - Gitiles,https://gerrit.cesnet.cz/plugins/gitiles/github/torvalds/linux/%2B/9d216211fded20fff301d0317af3238d8383634c/Documentation/devicetree/bindings/power/supply/bq24190.txt
+ecmage.txt,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/greenland/summit/gisp2/ecm/ecmage.txt
