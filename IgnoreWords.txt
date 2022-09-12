@@ -98,6 +98,7 @@ absorptances
 absorptivities
 absorptivity
 abstained
+abstainer
 abstainers
 abstaining
 abstains
@@ -158,6 +159,7 @@ abye
 abysm
 abysses
 academias
+academic
 academicians
 academicisms
 academism
@@ -1294,6 +1296,7 @@ agitatedly
 agitating
 agitation
 agitational
+agitations
 agitative
 agitprop
 aglare
@@ -5458,6 +5461,7 @@ backstreet
 backstretches
 backstroke
 backswing
+backswords
 backtracked
 backups
 backward
@@ -5911,6 +5915,7 @@ baritone
 barium
 barked
 barkeep
+barkeeper
 barkeepers
 barkentine
 barkers
@@ -8473,6 +8478,7 @@ bondmen
 bonds
 bondsmen
 bondstones
+bonducs
 bone
 boneblacks
 boned
@@ -9022,6 +9028,7 @@ bran
 branch
 branches
 branchia
+branchiae
 branchier
 branchiest
 branching
@@ -10617,6 +10624,7 @@ calve
 calves
 calvities
 calx
+calxes
 calycle
 calycles
 calyculi
@@ -11110,6 +11118,7 @@ carbolics
 carbolized
 carbolizing
 carbon
+carbonades
 carbonadoes
 carbonadoing
 carbonados
@@ -13619,6 +13628,7 @@ claptraps
 claque
 claquer
 claqueur
+clarence
 clarences
 clarets
 claries
@@ -13727,6 +13737,7 @@ cleanest
 cleaning
 cleanlier
 cleanly
+cleanness
 cleannesses
 cleanse
 cleanses
@@ -15657,6 +15668,7 @@ conger
 congest
 congesting
 congestion
+congestive
 congests
 congius
 conglobated
@@ -19267,6 +19279,7 @@ decarboxylase
 decarboxylases
 decarburization
 decarburizes
+decares
 decasualization
 decasyllabic
 decasyllabics
@@ -20817,6 +20830,7 @@ detriments
 detrition
 detritions
 detritus
+detrude
 detruded
 detrusion
 detrusions
@@ -21711,6 +21725,7 @@ disapproval
 disapprove
 disapprover
 disapproves
+disapproving
 disarmament
 disarmaments
 disarmer
@@ -32110,6 +32125,7 @@ gesso
 gest
 gestalt
 gestaltists
+gestapo
 gestated
 gestates
 gestating
@@ -33735,6 +33751,7 @@ groundling
 groundlings
 groundmass
 groundmasses
+groundouts
 groundsels
 groundsheets
 groundsman
@@ -35736,6 +35753,7 @@ hexagonal
 hexagonally
 hexagons
 hexagram
+hexahedron
 hexahydrates
 hexameter
 hexamine
@@ -45570,6 +45588,7 @@ maintainer
 maintaining
 maintains
 maintenance
+maintenances
 maintops
 maiolica
 mairs
@@ -46230,6 +46249,7 @@ masers
 mash
 masher
 mashgichim
+mashie
 masjids
 mask
 maskable
@@ -46607,6 +46627,7 @@ medaling
 medalist
 medallion
 medallions
+meddled
 meddler
 meddlers
 meddles
@@ -48381,6 +48402,7 @@ misleads
 misleared
 mislearned
 mislearnt
+mislight
 mislighting
 mislights
 mislike
@@ -51569,6 +51591,7 @@ noncommunity
 noncomparable
 noncompatible
 noncompetition
+noncompetitor
 noncompliance
 noncompliances
 noncomplicated
@@ -54430,6 +54453,7 @@ outserved
 outserves
 outshames
 outshined
+outshoot
 outshooting
 outshoots
 outshout
@@ -58593,6 +58617,7 @@ picnicker
 picnickers
 picnics
 picofarads
+picogram
 picolin
 picoline
 picomole
@@ -62528,6 +62553,7 @@ proximally
 proximateness
 proximity
 prude
+prudence
 pruderies
 prudes
 prudishly
@@ -64220,6 +64246,7 @@ ratatats
 ratatouille
 ratbag
 ratcheted
+rateable
 rateably
 rated
 ratels
@@ -69498,6 +69525,7 @@ sandworm
 sandworms
 sandwort
 sandworts
+sanely
 sanenesses
 sanest
 sanga
@@ -73652,6 +73680,7 @@ smirching
 smirk
 smirkers
 smirkily
+smirking
 smirks
 smirky
 smit
@@ -75140,6 +75169,7 @@ spitzes
 spiv
 spivs
 splake
+splanchnic
 splash
 splashboards
 splasher
@@ -78194,6 +78224,7 @@ superstructure
 superstuds
 supersubtle
 supersurgeon
+supersymmetry
 supersystem
 supertankers
 supertaxes
@@ -84629,6 +84660,7 @@ unenclosed
 unendearing
 unending
 unendingly
+unendurableness
 unenforceable
 unenjoyed
 unenlarged
@@ -85560,6 +85592,7 @@ unstarred
 unstartling
 unstate
 unstated
+unsteadied
 unsteadier
 unsteadies
 unsteadily
@@ -86111,6 +86144,7 @@ urinalyses
 urinalysis
 urinaries
 urinary
+urinated
 urinates
 urination
 urinations
@@ -86127,6 +86161,7 @@ urochrome
 urodele
 urodeles
 urogenous
+urokinase
 urokinases
 urolith
 uroliths
