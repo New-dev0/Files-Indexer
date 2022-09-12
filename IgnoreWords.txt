@@ -819,6 +819,7 @@ adonis
 adopt
 adoptabilities
 adoptability
+adoptee
 adoptees
 adopters
 adoptionist
@@ -2529,6 +2530,7 @@ anchyloses
 anchylosing
 ancient
 ancientest
+anciently
 ancientness
 ancientnesses
 ancientries
@@ -3338,6 +3340,7 @@ anyon
 anyplace
 anything
 anytime
+anywhere
 anywheres
 anywise
 aorist
@@ -9501,6 +9504,7 @@ brunch
 bruncher
 brunchers
 brunches
+brunets
 brunette
 brunettes
 brunizems
@@ -12655,6 +12659,7 @@ chicory
 chicos
 chider
 chides
+chidingly
 chiefdom
 chiefdoms
 chiefer
@@ -19303,6 +19308,7 @@ decollation
 decolletage
 decolletages
 decolonization
+decolonizations
 decolor
 decolorizations
 decolorized
@@ -21388,6 +21394,7 @@ dinkeys
 dinkier
 dinkiest
 dinking
+dinkum
 dinkums
 dinky
 dinnerless
@@ -23242,6 +23249,7 @@ dreamworld
 dreamworlds
 dreamy
 dreariest
+dreariness
 dreary
 drecky
 dredge
@@ -23994,6 +24002,7 @@ ecdysial
 ecdysis
 ecdyson
 ecdysone
+ecesic
 ecesises
 echard
 eched
@@ -26059,6 +26068,7 @@ erotized
 erotizes
 erotogenic
 err
+errable
 errancies
 errantries
 errata
@@ -28470,6 +28480,7 @@ fiddleheads
 fiddler
 fiddlestick
 fideisms
+fideistic
 fideists
 fidelista
 fidelistas
@@ -30757,6 +30768,7 @@ fugled
 fuglemen
 fugles
 fugu
+fugue
 fugues
 fuguing
 fuguists
@@ -31671,6 +31683,7 @@ gelidly
 gelidness
 gelidnesses
 gelignite
+gellant
 gelled
 gelling
 gels
@@ -35017,6 +35030,7 @@ heckler
 hecklers
 heckles
 heckling
+hecks
 hectare
 hectares
 hectic
@@ -35122,6 +35136,7 @@ heliostat
 heliotrope
 heliotropisms
 heliotype
+heliotyped
 heliotypes
 heliotyping
 heliozoans
@@ -37297,6 +37312,7 @@ hysons
 hyssop
 hysterectomies
 hysteresis
+hysteria
 hysterias
 hysterics
 iamb
@@ -40466,6 +40482,7 @@ irritatingly
 irritative
 irruptions
 irruptively
+irrupts
 isagoge
 isagogics
 isallobar
@@ -41269,6 +41286,7 @@ jubilee
 juco
 judas
 juddered
+juddering
 judged
 judgement
 judgements
@@ -41565,6 +41583,7 @@ karyosomes
 karyotin
 karyotins
 karyotype
+karyotypic
 karyotypically
 kasbahs
 kasha
@@ -43592,6 +43611,7 @@ libelling
 libels
 liber
 liberalise
+liberalised
 liberalising
 liberalism
 liberalisms
@@ -44160,6 +44180,7 @@ liturgically
 liturgics
 liturgiologies
 liturgiologist
+liturgism
 liturgisms
 liturgist
 livabilities
@@ -51746,6 +51767,7 @@ nonreligious
 nonrenewable
 nonresidence
 nonresidencies
+nonresonant
 nonrespondents
 nonresponse
 nonrestricted
@@ -52043,6 +52065,7 @@ nounless
 nourisher
 nourishing
 nourishment
+nourishments
 nouvelle
 nouvelles
 nova
@@ -59860,6 +59883,7 @@ populism
 populisms
 populist
 populistic
+populousnesses
 porcelain
 porcelainize
 porcelainizes
@@ -61487,6 +61511,7 @@ probabilistic
 probabilists
 probables
 proband
+probang
 probated
 probates
 probation
@@ -63785,6 +63810,7 @@ rankings
 rankish
 rankle
 rankled
+ranpike
 ransacking
 ransom
 ransomed
@@ -65416,6 +65442,7 @@ regiving
 reglazed
 reglorified
 reglorifies
+regloss
 reglossing
 reglow
 reglowed
@@ -67078,6 +67105,7 @@ retiree
 retirees
 retiring
 retiringnesses
+retitle
 retitling
 retold
 retook
@@ -70491,6 +70519,7 @@ seemlier
 seemliest
 seemliness
 seemlinesses
+seemly
 seems
 seepage
 seepages
@@ -73193,6 +73222,7 @@ smallmouths
 smallnesses
 smalls
 smallswords
+smalt
 smaltines
 smalts
 smaragde
@@ -75825,6 +75855,7 @@ stigmatically
 stigmatics
 stigmatist
 stigmatists
+stigmatization
 stigmatizations
 stigmatize
 stigmatized
@@ -80817,6 +80848,7 @@ tissue
 tissuey
 tissuing
 titanates
+titanesses
 titania
 titanias
 titanic
@@ -81518,6 +81550,7 @@ tragic
 tragical
 tragically
 tragicomedies
+tragicomedy
 tragicomic
 tragicomical
 tragics
@@ -83792,6 +83825,7 @@ unconvincingly
 uncooked
 uncooled
 uncorrected
+uncorrupt
 uncorseted
 uncountable
 uncouplers
@@ -88054,6 +88088,7 @@ whatchamacallit
 whatever
 whatnot
 whatnots
+whatsis
 whatsises
 whatsoever
 whaups
