@@ -106,6 +106,7 @@ abstemious
 abstemiously
 abstemiousness
 abstention
+abstentious
 absterge
 absterged
 abstinence
@@ -704,6 +705,7 @@ adeptness
 adeptnesses
 adepts
 adequacies
+adequacy
 adequate
 adequatenesses
 adherence
@@ -5792,6 +5794,7 @@ bankrupting
 bankrupts
 banks
 banksia
+banksias
 bankside
 banksides
 banner
@@ -8091,6 +8094,7 @@ bloopers
 bloops
 blossoms
 blotchier
+blotching
 blotless
 blotted
 blottier
@@ -10300,6 +10304,7 @@ cachepots
 cacheting
 cachexia
 cachexias
+cachexic
 caching
 cachinnated
 cachinnates
@@ -18681,6 +18686,7 @@ cytoplasts
 cytoskeletal
 cytoskeleton
 cytoskeletons
+cytosol
 cytosols
 cytostatically
 cytostatics
@@ -21845,6 +21851,7 @@ discommends
 discommode
 discommodes
 discompose
+discomposed
 discomposing
 discomposure
 discomposures
@@ -22267,6 +22274,7 @@ disprovable
 disprove
 disproved
 disproven
+disproving
 disputant
 disputatious
 disputatiously
@@ -22521,6 +22529,7 @@ ditchdigger
 ditchdiggers
 ditchers
 ditching
+dite
 ditheism
 ditheisms
 ditheist
@@ -24155,6 +24164,7 @@ echoism
 echolalia
 echolalias
 echolalic
+echolocation
 echolocations
 echoviruses
 echt
@@ -25511,6 +25521,7 @@ enrich
 enriched
 enricher
 enriches
+enriching
 enrichments
 enrobe
 enrobed
@@ -26475,6 +26486,7 @@ ethicists
 ethicize
 ethinyls
 ethion
+ethionamides
 ethionine
 ethionines
 ethmoid
@@ -26720,6 +26732,7 @@ evaporations
 evaporators
 evaporite
 evaporitic
+evasions
 evasive
 evasively
 evasivenesses
@@ -31912,6 +31925,7 @@ generalizing
 generally
 generals
 generate
+generates
 generation
 generational
 generationally
@@ -32524,6 +32538,7 @@ gleaned
 gleaner
 gleaning
 gleanings
+gleans
 glebeless
 gledes
 gleed
@@ -33288,6 +33303,7 @@ grantable
 granted
 grantee
 grantees
+granter
 granters
 grants
 grantsmanships
@@ -33893,6 +33909,7 @@ guanosines
 guaranies
 guaranis
 guarantee
+guarantied
 guaranty
 guarantying
 guarddog
@@ -34511,6 +34528,7 @@ ham
 hamada
 hamadryad
 hamadryads
+hamadryases
 hamal
 hamantaschen
 hamauls
@@ -37716,6 +37734,7 @@ ignorant
 ignorantly
 ignorantnesses
 ignore
+iguanian
 iguanians
 iguanid
 iguanodon
@@ -39633,6 +39652,7 @@ instances
 instant
 instantaneity
 instantaneous
+instantiated
 instantiates
 instantly
 instantness
@@ -53045,6 +53065,7 @@ offprinted
 offramp
 offscourings
 offshoot
+offside
 offspring
 oft
 often
@@ -56094,6 +56115,7 @@ panpipes
 pans
 pansexuality
 pansophies
+pantalones
 pantaloon
 pantdress
 pantdresses
@@ -57358,6 +57380,7 @@ pentagonals
 pentagons
 pentagram
 pentahedrons
+pentamerous
 pentameters
 pentamidine
 pentamidines
@@ -63505,6 +63528,7 @@ quasiparticles
 quasiperiodic
 quassia
 quassin
+quassins
 quatercentenary
 quaternaries
 quaternary
@@ -64008,6 +64032,7 @@ rainproof
 rainproofed
 rainproofing
 rainspouts
+rainsqualls
 rainwashed
 rainwashes
 rainwater
@@ -67113,6 +67138,7 @@ resoled
 resoles
 resolidifying
 resolute
+resoluteness
 resoluter
 resolutes
 resolutest
@@ -70304,6 +70330,7 @@ scone
 scooch
 scooches
 scoop
+scooper
 scoopers
 scoopful
 scoopsful
@@ -70619,6 +70646,7 @@ scutellum
 scutiform
 scuts
 scuttering
+scutters
 scuttlebutt
 scuttled
 scutwork
@@ -75465,6 +75493,7 @@ spryly
 sprynesses
 spud
 spudded
+spudders
 spudding
 spumes
 spumiest
@@ -77115,6 +77144,7 @@ subcurative
 subcutis
 subcutises
 subdeacon
+subdealer
 subdean
 subdeans
 subdebs
@@ -84962,6 +84992,7 @@ unionises
 unionism
 unionists
 unionized
+unionizer
 unionizers
 unions
 uniparentally
@@ -85951,6 +85982,7 @@ uppers
 uppile
 uppiling
 uppings
+uppishly
 uppishnesses
 uppitiness
 uppity
@@ -86659,6 +86691,7 @@ vegetive
 veggie
 veggies
 vegie
+vegies
 vehemence
 vehemences
 vehemency
@@ -86966,6 +86999,7 @@ vessel
 vesseled
 vessels
 vesta
+vestal
 vestals
 vestas
 vested
@@ -90176,6 +90210,7 @@ zings
 zingy
 zinkenites
 zinkifies
+zinkify
 zinky
 zinnia
 zinnias
