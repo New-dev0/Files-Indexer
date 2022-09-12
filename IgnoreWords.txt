@@ -11960,6 +11960,7 @@ ceratodus
 ceratoduses
 ceratoid
 ceratopsian
+ceratopsians
 cercal
 cercaria
 cercarians
@@ -15239,6 +15240,7 @@ concealments
 conceded
 concededly
 conceders
+conceitedly
 conceitedness
 conceivability
 conceive
@@ -16062,6 +16064,7 @@ convalescing
 convecting
 convectional
 convector
+convects
 convened
 convenes
 convenience
@@ -16796,6 +16799,7 @@ counsels
 countabilities
 countdowns
 countenancers
+countenances
 countenancing
 counter
 counteracting
@@ -19540,6 +19544,7 @@ definitudes
 deflagrate
 deflagrates
 deflagrations
+deflated
 deflates
 deflating
 deflation
@@ -20088,6 +20093,7 @@ dentalium
 dentaliums
 dentally
 dentals
+dentately
 dentation
 dentations
 denticle
@@ -22640,6 +22646,7 @@ dollishly
 dollishness
 dollishnesses
 dolloped
+dolloping
 dollops
 dolly
 dollying
@@ -23076,6 +23083,7 @@ drafted
 drafters
 draftiest
 draftily
+draftiness
 draftinesses
 drafting
 draftings
@@ -23255,6 +23263,7 @@ drifted
 drifter
 driftiest
 driftingly
+drifty
 drill
 drillable
 driller
@@ -23807,6 +23816,7 @@ eagre
 eanling
 eanlings
 ear
+earache
 earaches
 earbuds
 eardrops
@@ -24302,6 +24312,7 @@ ekistics
 ekpwele
 ektexine
 ekuele
+el
 elaborate
 elaborates
 elaboration
@@ -26835,6 +26846,7 @@ exemplify
 exemplifying
 exemplum
 exempted
+exempting
 exemption
 exemptions
 exemptive
@@ -27067,6 +27079,7 @@ expertizes
 expertizing
 expertness
 expiate
+expiating
 expiation
 expiatory
 expirations
@@ -29308,6 +29321,7 @@ florid
 floridity
 floridness
 floridnesses
+florins
 florist
 floristic
 floristries
@@ -32034,6 +32048,7 @@ giglet
 giglets
 giglot
 giglots
+gigolo
 gigolos
 gigot
 gigots
@@ -32720,6 +32735,7 @@ goloshes
 gombeens
 gombo
 gombroons
+gomerals
 gomerel
 gomerils
 gomers
@@ -35153,6 +35169,7 @@ hematopoietic
 hematoses
 hematoxylin
 hematoxylins
+hematozoa
 hematozoon
 hematuric
 hemelytron
@@ -35779,6 +35796,7 @@ hives
 hm
 hmm
 ho
+hoagie
 hoar
 hoard
 hoarder
@@ -49445,6 +49463,7 @@ mulcted
 muled
 muleteer
 muleteers
+mulishly
 mull
 mullah
 mullahism
@@ -50424,6 +50443,7 @@ negotiate
 negotiating
 negotiators
 negritude
+negrophobias
 negs
 negus
 neif
@@ -57144,6 +57164,7 @@ performance
 performances
 performatives
 performing
+performs
 perfume
 perfumer
 perfumeries
@@ -57361,6 +57382,7 @@ persecutory
 perses
 perseverance
 perseverances
+perseverated
 perseverating
 perseveration
 perseverative
@@ -57943,6 +57965,7 @@ photomap
 photomapped
 photomask
 photomasks
+photomechanical
 photometers
 photometrically
 photometry
@@ -61342,6 +61365,7 @@ prismoidal
 prisoners
 priss
 prissier
+prissies
 prissiest
 prissy
 pristane
@@ -67643,6 +67667,7 @@ rimming
 rimose
 rimosely
 rimpled
+rimples
 rimrock
 rimrocks
 rin
@@ -67730,6 +67755,7 @@ riser
 risers
 risibilities
 risible
+risibles
 risings
 risker
 riskers
@@ -67840,6 +67866,7 @@ roble
 roborants
 robotic
 robotically
+robotics
 robotism
 robotization
 robotize
@@ -70651,6 +70678,7 @@ sempiternally
 sempiternities
 sempstresses
 sen
+senarii
 senarius
 senatorial
 senatorship
@@ -72282,6 +72310,7 @@ sings
 singsong
 singspiel
 singularities
+singularized
 singularizes
 singularizing
 sinh
@@ -74840,6 +74869,7 @@ sprat
 sprattle
 sprattled
 sprattles
+sprattling
 sprawl
 sprawled
 sprawlier
@@ -76676,6 +76706,7 @@ subjects
 subjoin
 subjoins
 subjugating
+subjugation
 subjugations
 subjugator
 subjunctive
@@ -78632,6 +78663,7 @@ taigas
 taiglach
 tail
 tailbacks
+tailboard
 tailboards
 tailbone
 tailcoated
@@ -81167,6 +81199,7 @@ totalists
 totality
 totalized
 totalizing
+totally
 totaquines
 toted
 totemisms
@@ -84941,6 +84974,7 @@ unsnaps
 unsnarl
 unsnarling
 unsociabilities
+unsociability
 unsociable
 unsold
 unsoldering
@@ -88376,6 +88410,7 @@ windmills
 window
 windowed
 windowing
+windowless
 windowpanes
 windows
 windowsill
