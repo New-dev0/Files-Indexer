@@ -2175,6 +2175,7 @@ amidine
 amidines
 amido
 amidogens
+amidone
 amidones
 amidship
 amie
@@ -6583,6 +6584,7 @@ begrudger
 begs
 beguiler
 beguilers
+beguiling
 begulfing
 begulfs
 begum
@@ -14779,6 +14781,7 @@ colugos
 columbaria
 columbaries
 columbarium
+columbine
 columbines
 columbium
 columella
@@ -15760,6 +15763,7 @@ considerate
 consideration
 considers
 consign
+consignable
 consignation
 consigned
 consignee
@@ -16120,6 +16124,7 @@ convey
 conveyancer
 conveyancers
 conveyances
+conveyancings
 conveyed
 conveying
 conveyor
@@ -27439,6 +27444,7 @@ fabricants
 fabricate
 fabricates
 fabrication
+fabricators
 fabrics
 fabulates
 fabulating
@@ -30009,6 +30015,7 @@ forked
 forkedly
 forker
 forkers
+forkful
 forkfuls
 forkiest
 forkiness
@@ -30054,6 +30061,7 @@ formlessly
 formlessness
 formulae
 formulaically
+formularies
 formularized
 formularizer
 formularizes
@@ -33178,6 +33186,7 @@ gratings
 gratuity
 gratulatory
 graupel
+graupels
 gravamens
 gravamina
 graveless
@@ -33724,6 +33733,7 @@ guesstimate
 guesstimated
 guesstimates
 guessworks
+guested
 guesting
 guests
 guffs
@@ -37565,6 +37575,7 @@ illustrates
 illustrating
 illustrations
 illustrative
+illustratively
 illustriously
 illustriousness
 illuvial
@@ -39928,6 +39939,7 @@ interweave
 interweaved
 interweaving
 interwork
+interworked
 interworking
 interworkings
 interworks
@@ -40221,6 +40233,7 @@ involucra
 involucral
 involucres
 involuntariness
+involuntary
 involute
 involuting
 involutional
@@ -41566,6 +41579,7 @@ kayaks
 kayles
 kayoing
 kazatski
+kazatsky
 kazillions
 kazoo
 kbar
@@ -43142,6 +43156,7 @@ leatherettes
 leathering
 leatherlike
 leathernecks
+leathers
 leathery
 leave
 leavened
@@ -44547,6 +44562,7 @@ losable
 losablenesses
 loser
 loses
+losingly
 losings
 losses
 lossless
@@ -44939,6 +44955,7 @@ lymphangiogram
 lymphangiograms
 lymphatics
 lymphoblast
+lymphoblastic
 lymphocyte
 lymphocytic
 lymphocytosis
@@ -46776,6 +46793,7 @@ merry
 merrymaker
 merrymakers
 merrythought
+merrythoughts
 mesally
 mesarch
 mescal
@@ -47156,6 +47174,7 @@ microcultures
 microcurie
 microcuries
 microcyte
+microcytes
 microearthquake
 microeconomics
 microelectrodes
@@ -48982,6 +49001,7 @@ moose
 moosebird
 moot
 mootnesses
+moots
 mopboard
 mopboards
 moped
@@ -49813,6 +49833,7 @@ mustering
 musters
 musth
 mustier
+mustiest
 mustily
 mustiness
 mustinesses
@@ -51703,6 +51724,7 @@ nonresidence
 nonresidencies
 nonrespondents
 nonresponse
+nonrestricted
 nonrestrictive
 nonretractile
 nonretroactive
@@ -53281,6 +53303,7 @@ organzas
 organzine
 organzines
 orgasm
+orgasmed
 orgasms
 orgastic
 orgeat
@@ -53859,6 +53882,7 @@ outguns
 outhandle
 outhandled
 outhandles
+outhandling
 outhaul
 outhearing
 outhears
@@ -55723,6 +55747,7 @@ panned
 panner
 panners
 pannes
+pannier
 panniers
 pannikin
 pannikins
@@ -59507,6 +59532,7 @@ polyacrylamides
 polyalcohols
 polyamide
 polyamides
+polyamine
 polyamines
 polyandry
 polyanthi
@@ -64311,6 +64337,7 @@ rebutters
 rebuttoned
 rebuy
 rebuying
+rec
 recalculate
 recalculated
 recalculation
@@ -64714,6 +64741,7 @@ recurring
 recursion
 recursions
 recursiveness
+recursivenesses
 recurvate
 recurve
 recurves
@@ -66073,6 +66101,7 @@ reorientated
 reorientates
 reorientations
 reoriented
+reorienting
 reorients
 reoutfit
 reoutfits
@@ -70775,6 +70804,7 @@ sensitivenesses
 sensitives
 sensitivities
 sensitize
+sensitized
 sensitizer
 sensitizers
 sensitizing
@@ -74280,6 +74310,7 @@ spartan
 sparteines
 spasm
 spasming
+spasmodic
 spasmolytic
 spasms
 spastic
@@ -75990,6 +76021,7 @@ stopping
 stoppled
 stoppling
 stopwatch
+storages
 storehouse
 storekeeper
 storekeepers
@@ -77905,6 +77937,7 @@ surra
 surras
 surreal
 surrealism
+surrealisms
 surrealist
 surrealists
 surrejoinder
@@ -81872,6 +81905,7 @@ treks
 trellises
 trellising
 trelliswork
+trematode
 tremble
 trembled
 trembler
@@ -83924,6 +83958,7 @@ underpay
 underpayment
 underpays
 underpinned
+underpinnings
 underpins
 underplayed
 underplot
