@@ -939,6 +939,7 @@ adzes
 adzukis
 aecia
 aecial
+aecidia
 aeciospores
 aecium
 aedes
@@ -1347,6 +1348,7 @@ agraphias
 agrarians
 agravic
 agree
+agreeablenesses
 agreeably
 agreement
 agreements
@@ -2144,6 +2146,7 @@ ameliorating
 amelioratory
 ameloblast
 ameloblasts
+amenabilities
 amenability
 amenably
 amend
@@ -2495,6 +2498,7 @@ anarchies
 anarchism
 anarchist
 anarchy
+anarthria
 anarthrias
 anastigmats
 anastomose
@@ -6565,6 +6569,7 @@ befriending
 befriends
 befringe
 befringed
+befringes
 befuddle
 befuddlement
 befuddlements
@@ -10965,6 +10970,7 @@ capitella
 capitols
 capitularies
 capitulary
+capitulates
 capitulations
 capitulum
 capless
@@ -13263,6 +13269,7 @@ chymists
 chymotrypsin
 chytrid
 chytrids
+ciao
 cibol
 cibols
 ciborium
@@ -15270,6 +15277,7 @@ compulsivity
 compulsorily
 compulsory
 compunction
+compunctions
 compunctious
 compurgations
 computabilities
@@ -15996,6 +16004,7 @@ contains
 contaminant
 contaminates
 contaminating
+contaminative
 contaminator
 conte
 contemplate
@@ -16255,6 +16264,7 @@ cook
 cookable
 cookbook
 cooker
+cookers
 cookey
 cookhouses
 cookies
@@ -17776,6 +17786,7 @@ crotchety
 croton
 crouch
 crouched
+crouches
 crouching
 croup
 croupe
@@ -30389,6 +30400,7 @@ fracturers
 fractures
 fracturing
 fracturs
+fractus
 fraenum
 frag
 fragged
@@ -34194,6 +34206,7 @@ habitably
 habitan
 habitant
 habitants
+habitat
 habitation
 habited
 habitual
@@ -35292,6 +35305,7 @@ hellions
 hellish
 hellishly
 hellishness
+helloed
 helloes
 helloing
 hells
@@ -39568,6 +39582,7 @@ instances
 instant
 instantaneity
 instantaneous
+instantiates
 instantly
 instantness
 instants
@@ -41595,6 +41610,7 @@ juxtapose
 juxtaposed
 juxtaposes
 juxtaposing
+ka
 kaas
 kabab
 kababs
@@ -43328,6 +43344,7 @@ leapt
 learier
 learn
 learnedly
+learnings
 learns
 lears
 leary
@@ -46121,6 +46138,7 @@ marshmallowy
 marshy
 marsupials
 mart
+martagon
 marted
 martellos
 martensite
@@ -48653,6 +48671,7 @@ mnemonically
 moaned
 moaner
 moaners
+moanful
 moaning
 moaningly
 moans
@@ -51722,6 +51741,7 @@ nonhousing
 nonhumans
 nonhunter
 nonhunters
+nonhunting
 nonhysterical
 nonideal
 nonidentical
@@ -54078,6 +54098,7 @@ outgains
 outgalloped
 outgallops
 outgambled
+outgambles
 outgas
 outgasses
 outgassing
@@ -57716,6 +57737,7 @@ personifying
 personnels
 perspectival
 perspicacious
+perspicaciously
 perspicuity
 perspicuously
 perspicuousness
@@ -58046,6 +58068,7 @@ philistinism
 philistinisms
 phillumenist
 phillumenists
+philodendron
 philogyny
 philologically
 philologists
@@ -58454,6 +58477,7 @@ piastres
 piazzas
 pibroch
 pica
+picachos
 picadillos
 picador
 picadores
@@ -59255,6 +59279,7 @@ playful
 playfulness
 playfulnesses
 playgirl
+playgoer
 playgoers
 playgoings
 playgroups
@@ -61061,6 +61086,7 @@ preluder
 preludial
 preluding
 prelunch
+preluncheon
 prelusive
 prelusory
 preman
@@ -61968,6 +61994,7 @@ prolapses
 prolapsing
 proleg
 prolegomenon
+prolegs
 prolepses
 prolepsis
 proleptic
@@ -62842,6 +62869,7 @@ puncture
 puncturing
 punditic
 punditries
+punditry
 pung
 pungency
 pungently
@@ -66017,6 +66045,7 @@ relaxants
 relaxation
 relaxations
 relaxed
+relaxedness
 relaxers
 relaxing
 relays
@@ -66603,6 +66632,7 @@ repression
 repressionist
 repressive
 repressively
+repressor
 repressurize
 repressurized
 reprice
@@ -80805,6 +80835,7 @@ thurls
 thus
 thusly
 thuya
+thwacked
 thwacking
 thwacks
 thwarter
@@ -85326,6 +85357,7 @@ unscrewing
 unscrews
 unscripted
 unscriptural
+unscrupulously
 unsealed
 unsealing
 unseam
@@ -85631,6 +85663,7 @@ unvested
 unvexed
 unviable
 unvocal
+unvoiced
 unwakened
 unwalled
 unwarier
@@ -86170,6 +86203,7 @@ vagotonia
 vagotonic
 vagrantly
 vagrants
+vagueness
 vaguer
 vagus
 vail
@@ -87806,6 +87840,7 @@ wantonly
 wantonnesses
 wany
 wapentake
+wappenschawing
 wappenschawings
 wapping
 warbled
