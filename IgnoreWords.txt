@@ -413,6 +413,7 @@ achiness
 achiote
 achiral
 achlorhydria
+acholias
 achondrite
 achondrites
 achondroplasia
@@ -7134,6 +7135,7 @@ biasing
 biasnesses
 biassed
 biassing
+biathlete
 biaxal
 biaxial
 biaxially
@@ -10612,6 +10614,7 @@ camelhair
 camellia
 camellike
 camelopards
+cameoed
 camerae
 camerapersons
 camerlengos
@@ -14245,6 +14248,7 @@ coculturing
 cocurators
 cod
 codas
+codded
 codder
 codders
 coddlers
@@ -14314,6 +14318,7 @@ coelacanths
 coelentera
 coelenterate
 coelenterates
+coelenteron
 coelomata
 coelomate
 coelomic
@@ -21728,6 +21733,8 @@ discographer
 discographers
 discographic
 discoidal
+discoloration
+discoloring
 discolouring
 discolours
 discombobulate
@@ -24183,6 +24190,7 @@ editrixes
 edits
 educabilities
 educables
+educate
 educated
 educating
 educational
@@ -28685,6 +28693,7 @@ financier
 financiering
 financings
 finbacks
+finca
 finch
 find
 finder
@@ -29690,6 +29699,7 @@ foliaged
 foliar
 foliate
 foliating
+foliation
 foliations
 folio
 folioing
@@ -32803,6 +32813,7 @@ golfings
 golgothas
 goliard
 goliaths
+golliwogs
 golly
 gollywog
 golosh
@@ -33221,6 +33232,7 @@ grassplots
 grassroot
 grassroots
 grassy
+grat
 grate
 grated
 gratefulnesses
@@ -36117,6 +36129,7 @@ homeplaces
 homeported
 homeporting
 homeroom
+homerooms
 homes
 homeschooler
 homeschoolers
@@ -36147,6 +36160,7 @@ homie
 homier
 homies
 homiest
+homiletics
 homilies
 homily
 hominess
@@ -38999,6 +39013,7 @@ inflorescences
 influenceable
 influencing
 influent
+influentially
 influents
 influenza
 info
@@ -39044,6 +39059,7 @@ infuriations
 infuscate
 infuse
 infused
+infusibilities
 infusibleness
 ingate
 ingather
@@ -39261,6 +39277,7 @@ innovativeness
 innovator
 innovators
 innovatory
+innoxious
 inns
 innuendo
 innuendoed
@@ -45154,6 +45171,7 @@ machree
 machzor
 machzors
 macintosh
+mack
 mackerel
 mackintoshes
 mackle
@@ -49320,6 +49338,7 @@ motoneuron
 motoneurons
 motorbike
 motorbiked
+motorbiking
 motorboater
 motorbus
 motorbusses
@@ -52017,6 +52036,7 @@ noseguard
 noseguards
 noseless
 noselike
+nosepieces
 nosewheel
 nosewheels
 nosh
@@ -56525,6 +56545,7 @@ patentability
 pater
 paterfamilias
 paternal
+paternalisms
 paternalistic
 paternity
 paternoster
@@ -60900,6 +60921,7 @@ prelusory
 preman
 premanufactured
 premanufactures
+premarital
 premaritally
 premarket
 premarketing
@@ -61396,6 +61418,7 @@ pridefulnesses
 prides
 priedieu
 priedieus
+priedieux
 prier
 priest
 priested
@@ -62593,6 +62616,7 @@ pulsate
 pulsated
 pulsates
 pulsating
+pulsative
 pulsatory
 pulsed
 pulsejet
@@ -65133,6 +65157,7 @@ reembraces
 reembroidering
 reemerged
 reemergence
+reemergences
 reemerges
 reemerging
 reemission
@@ -67820,6 +67845,7 @@ rilievi
 riling
 rille
 rilling
+rim
 rimer
 rimers
 rimester
@@ -69150,6 +69176,7 @@ sancta
 sanctification
 sanctifications
 sanctified
+sanctifier
 sanctifies
 sanctify
 sanctifying
@@ -69575,6 +69602,7 @@ sayyids
 scabbier
 scabbily
 scabble
+scabbled
 scabbling
 scabby
 scabietic
@@ -70834,6 +70862,7 @@ semis
 semises
 semishrubby
 semiskilled
+semisoft
 semisolids
 semistiff
 semitonal
@@ -75929,6 +75958,7 @@ stile
 stiles
 stiletto
 stilettoes
+stilettos
 stillbirth
 stillbirths
 stillborn
@@ -77586,6 +77616,7 @@ sunray
 sunrays
 sunrise
 sunroofs
+sunroom
 sunrooms
 sunscreening
 sunseekers
@@ -80984,6 +81015,7 @@ toastier
 toasting
 toastmaster
 toastmistresses
+toasts
 toasty
 tobacco
 tobacconists
@@ -83095,6 +83127,7 @@ twerps
 twibill
 twibills
 twibils
+twiddle
 twiddler
 twiddlers
 twiddles
@@ -84176,6 +84209,7 @@ underwhelm
 underwhelmed
 underwhelms
 underwings
+underwire
 underwood
 underwoods
 underwool
@@ -89357,6 +89391,7 @@ xylographs
 xyloid
 xylol
 xylophage
+xylophone
 xylophones
 xylophonist
 xylophonists
