@@ -2206,6 +2206,7 @@ ammoniacs
 ammoniates
 ammoniating
 ammoniation
+ammoniations
 ammonification
 ammonifying
 ammonite
@@ -6043,6 +6044,7 @@ bassetts
 bassi
 bassinets
 bassly
+bassness
 bassnesses
 basso
 bassoon
@@ -7364,6 +7366,7 @@ bindles
 bindweed
 bindweeds
 bine
+biner
 biners
 binge
 binged
@@ -7562,6 +7565,7 @@ birdlife
 birdlike
 birdlimed
 birdman
+birdmen
 birds
 birdseed
 birdseye
@@ -11606,6 +11610,7 @@ catlin
 catling
 catlings
 catnap
+catnapper
 catnapping
 catnips
 catoptric
@@ -12567,6 +12572,7 @@ chestily
 chestnut
 chestnuts
 chesty
+cheth
 chetrums
 chevalet
 chevalets
@@ -13737,6 +13743,7 @@ clinches
 clinching
 clingers
 clingfishes
+clingier
 clinging
 clingstone
 clingy
@@ -15016,6 +15023,7 @@ companions
 companionship
 companionships
 companionway
+company
 companying
 comparatists
 comparative
@@ -17317,6 +17325,7 @@ creatural
 creature
 creaturehood
 creaturehoods
+creatureliness
 creaturely
 creatures
 creches
@@ -18953,6 +18962,7 @@ deactivator
 deadbolts
 deadened
 deadener
+deadens
 deader
 deadeye
 deadfall
@@ -20149,6 +20159,7 @@ dependants
 dependence
 dependences
 dependent
+dependents
 depending
 depeoples
 depermed
@@ -21616,6 +21627,7 @@ disbursements
 disburser
 disbursing
 discalced
+discanting
 discants
 discardable
 discarded
@@ -25379,6 +25391,7 @@ ensnares
 ensnaring
 ensnarled
 ensorcel
+ensorcelling
 ensorcellment
 ensorcellments
 ensouled
@@ -26896,6 +26909,7 @@ exigencies
 exigently
 exiguity
 exiguous
+exiguously
 exiguousnesses
 exile
 exiles
@@ -26909,6 +26923,7 @@ existentialists
 existentially
 exited
 exiting
+exitless
 exits
 exobiologists
 exocrines
@@ -39652,6 +39667,7 @@ interlarded
 interlayered
 interlays
 interleave
+interleaved
 interlends
 interlibrary
 interline
@@ -45496,6 +45512,7 @@ mangaby
 manganate
 manganese
 manganeses
+manganin
 manganites
 manganous
 mangas
@@ -49562,6 +49579,7 @@ multitiered
 multitone
 multitones
 multitudes
+multiunion
 multiunit
 multiuser
 multivalence
@@ -50150,6 +50168,7 @@ narrowest
 narrowish
 narrowly
 narwal
+narwhal
 narwhale
 narwhales
 narwhals
@@ -55601,6 +55620,7 @@ pancratiums
 pancreas
 pancreases
 pancreatins
+pancreatitis
 pancreozymin
 pancreozymins
 pancytopenias
@@ -56853,6 +56873,7 @@ penetrabilities
 penetrability
 penetrable
 penetralia
+penetrance
 penetrances
 penetrate
 penetrated
@@ -57830,6 +57851,7 @@ phosphin
 phosphins
 phosphite
 phosphites
+phosphokinases
 phospholipase
 phospholipid
 phosphoprotein
@@ -58894,6 +58916,7 @@ plausibleness
 plausiblenesses
 plausibly
 plausive
+playability
 playact
 playacting
 playactings
@@ -59244,6 +59267,7 @@ poenology
 poesies
 poetasters
 poetess
+poetic
 poeticism
 poeticize
 poeticized
@@ -61204,6 +61228,7 @@ pricy
 prided
 pridefulnesses
 prides
+priedieu
 priedieus
 prier
 priest
@@ -62133,6 +62158,7 @@ pseudomonad
 pseudomonas
 pseudomorph
 pseudomorphism
+pseudonymities
 pseudonymity
 pseudopod
 pseudopodal
@@ -62448,6 +62474,7 @@ puncher
 punchers
 punches
 punchiest
+punchily
 punchinello
 punchinellos
 punctated
@@ -65140,6 +65167,7 @@ refoundations
 refounded
 refounding
 refounds
+refracted
 refractile
 refraction
 refractive
@@ -67785,6 +67813,7 @@ roadways
 roadwork
 roadworks
 roadworthiness
+roadworthy
 roam
 roamer
 roamers
@@ -73192,6 +73221,7 @@ smuttier
 smuttiest
 smuttinesses
 smutting
+smutty
 snacked
 snacker
 snackers
@@ -75319,6 +75349,7 @@ starving
 starwort
 starworts
 stash
+stashed
 stashes
 stasima
 stat
@@ -79418,6 +79449,7 @@ tenails
 tenancies
 tenant
 tenantable
+tenanted
 tenantless
 tenantries
 tenantry
@@ -81858,6 +81890,7 @@ triathlon
 triathlons
 triaxial
 triaxialities
+triaxiality
 triazin
 triazoles
 tribades
@@ -83431,6 +83464,7 @@ unbuttons
 uncage
 uncaging
 uncake
+uncakes
 uncaking
 uncalcified
 uncalculated
@@ -85575,6 +85609,7 @@ uteruses
 utile
 utilidor
 utilise
+utiliser
 utilisers
 utilises
 utilitarianism

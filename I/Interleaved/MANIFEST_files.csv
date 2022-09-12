@@ -1,0 +1,6 @@
+Packages.manifest - OpenWrt Downloads,https://downloads.openwrt.org/releases/17.01.0/packages/mipsel_24kc/packages/Packages.manifest
+https://downloads.openwrt.org/releases/17.01.6/pac...,https://downloads.openwrt.org/releases/17.01.6/packages/i386_i486/packages/Packages.manifest
+AGL/agl-demo-platform-crosssdk-raspberrypi3-20180726064603 ...,https://github.com/chorusmobility/AGL/blob/master/agl-demo-platform-crosssdk-raspberrypi3-20180726064603.rootfs.manifest
+https://usingpro.com/releases/packages-18.06/arm_c...,https://usingpro.com/releases/packages-18.06/arm_cortex-a5_neon-vfpv4/packages/Packages.manifest
+https://downloads.lede-project.org/snapshots/packa...,https://downloads.lede-project.org/snapshots/packages/arc_archs/packages/Packages.manifest
+https://www.1666999.xyz/snapshots/packages/x86_64/...,https://www.1666999.xyz/snapshots/packages/x86_64/packages/Packages.manifest

@@ -1,0 +1,10 @@
+[PDF] ExitLess OS Services for SGX Enclaves - Eleos - Mark Silberstein,https://marksilberstein.com/wp-content/uploads/2020/02/cr-eurosys17sgx.pdf
+[PDF] (Mostly) Exitless VM Protection from Untrusted Hypervisor through ...,https://www.usenix.org/system/files/sec20summer_mi_prepub.pdf
+[PDF] Bare-Metal Performance for Virtual Machines with ... - CS Technion,https://www.cs.technion.ac.il/~dan/papers/eli-cacm-2016.pdf
+[PDF] Torwards a more Scalable KVM Hypervisor - Linux Foundation Events,https://events19.linuxfoundation.org/wp-content/uploads/2017/12/Torwards-a-More-Scalable-KVM-Hypervisor-Wanpeng-Li-Tencent-Cloud.pdf
+Bare-metal performance for virtual machines with exitless interrupts,https://dl.acm.org/doi/pdf/10.1145/2845648
+Towards exitless and efficient paravirtual I/O - ACM Digital Library,https://dl.acm.org/doi/pdf/10.1145/2367589.2367593
+[PDF] ELI: Bare-Metal Performance for I/O Virtualization - Haifux,http://haifux.org/lectures/266/eli_haifux.pdf
+[PDF] Eleos: Exit-Less OS Services for SGX Enclaves,https://www.systor.org/2017/slides/eleos_systor17.pdf
+[PDF] Lightweight Kernel Isolation with Virtualization and VM Functions,https://www.cse.psu.edu/~trj1/papers/vee20.pdf
+[PDF] DID project: Direct Interrupt Delivery,https://www3.cs.stonybrook.edu/~live3/DID-draft.pdf
