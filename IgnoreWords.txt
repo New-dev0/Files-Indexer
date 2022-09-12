@@ -43,6 +43,7 @@ abrogable
 abrogate
 abrogated
 abrogations
+abrogators
 abrosia
 abruptions
 abruptness
@@ -1710,6 +1711,7 @@ alkalimeter
 alkaline
 alkalinity
 alkalinization
+alkalinizes
 alkalinizing
 alkalise
 alkalises
@@ -2467,6 +2469,7 @@ ananke
 anankes
 anapest
 anapestic
+anaphase
 anaphases
 anaphor
 anaphora
@@ -7090,6 +7093,7 @@ bewitchments
 beworm
 beworming
 beworms
+beworries
 beworry
 bewrap
 bewrapped
@@ -9610,6 +9614,7 @@ bucko
 buckoes
 buckramed
 buckrams
+buckshee
 buckshees
 buckshot
 buckskins
@@ -13387,6 +13392,7 @@ cisplatins
 cissies
 cissoid
 cissoids
+cissy
 cist
 cistern
 cisterna
@@ -17791,6 +17797,7 @@ crumblier
 crumbliest
 crumbling
 crumbly
+crumbums
 crumby
 crumhorn
 crumhorns
@@ -17804,6 +17811,7 @@ crumped
 crumpet
 crumpets
 crumpled
+crumpling
 crumply
 crumps
 cruncher
@@ -20938,6 +20946,7 @@ dialectologist
 dialectologists
 dialectology
 dialects
+dialed
 dialer
 dialers
 dialing
@@ -23425,6 +23434,7 @@ drowsy
 drub
 drubbed
 drubbers
+drubbing
 drubbings
 drudger
 drudgeries
@@ -24676,6 +24686,7 @@ emblazoning
 emblazonment
 emblazonments
 emblematic
+emblematically
 emblematized
 emblematizes
 embleming
@@ -25118,6 +25129,7 @@ endogenous
 endogenously
 endogens
 endogeny
+endolymph
 endometria
 endometrial
 endometriosis
@@ -29381,6 +29393,7 @@ floristries
 florists
 floruits
 flossed
+flosses
 flossie
 flossies
 flossy
@@ -29601,6 +29614,7 @@ foamer
 foamflower
 foamflowers
 foaminess
+foaming
 foamlike
 foamy
 fobbed
@@ -33294,6 +33308,7 @@ greasiest
 greasiness
 greasing
 greatcoats
+greatened
 greatens
 greathearted
 greatheartedly
@@ -33777,6 +33792,7 @@ guessworks
 guested
 guesting
 guests
+guffaws
 guffs
 guggle
 guggled
@@ -38959,6 +38975,7 @@ inflames
 inflammable
 inflammatorily
 inflammatory
+inflatables
 inflate
 inflating
 inflationary
@@ -39756,6 +39773,7 @@ interlaid
 interlapping
 interlaps
 interlarded
+interlards
 interlayered
 interlays
 interleave
@@ -50256,6 +50274,7 @@ narcists
 narcoleptic
 narcoleptics
 narcoma
+narcomas
 narcos
 narcose
 narcotic
@@ -54387,6 +54406,7 @@ outwritten
 outwrought
 outyell
 outyelling
+outyield
 outyielding
 ouzo
 ouzos
@@ -61734,6 +61754,7 @@ programmers
 programming
 programmings
 programs
+progressed
 progression
 progressive
 progressively
@@ -63218,6 +63239,7 @@ quay
 quayage
 quayages
 quaylike
+quaysides
 qubit
 qubyte
 qubytes
@@ -64117,6 +64139,7 @@ reaches
 reacquaint
 reacquainting
 reacquaints
+reacquired
 reacquiring
 reactant
 reacted
@@ -65800,6 +65823,7 @@ relativizes
 relativizing
 relaunder
 relaundered
+relaunders
 relaxable
 relaxants
 relaxation
@@ -67529,6 +67553,7 @@ rheotaxis
 rhesus
 rhesuses
 rhetoric
+rhetorical
 rhetorically
 rhetorician
 rheum
@@ -68861,6 +68886,7 @@ sage
 sagebrush
 sagebrushes
 sagely
+sager
 saggar
 saggared
 saggaring
@@ -69108,6 +69134,7 @@ samovars
 samoyeds
 samp
 sampan
+samphires
 sample
 sampled
 sampling
@@ -69582,6 +69609,7 @@ scaleups
 scalier
 scaliest
 scaling
+scallawag
 scallion
 scallop
 scalloper
@@ -72807,6 +72835,7 @@ skylarked
 skylarker
 skylarks
 skylights
+skylike
 skyline
 skylines
 skyman
@@ -74821,6 +74850,7 @@ splattered
 splattering
 splatters
 splayed
+splayfeet
 splaying
 splays
 spleen
@@ -75957,6 +75987,7 @@ stir
 stirabout
 stirk
 stirp
+stirrers
 stirrup
 stirrups
 stirs
@@ -78432,6 +78463,7 @@ syllabub
 syllabuses
 syllogisms
 syllogist
+syllogistic
 syllogistically
 syllogizes
 syllogizing
@@ -84281,6 +84313,7 @@ unerringly
 unescapable
 unessential
 unestablished
+unethical
 unevaded
 unevener
 unevenly
@@ -85377,6 +85410,7 @@ unwavering
 unwaveringly
 unwaxed
 unweaned
+unwearable
 unweariedly
 unweary
 unweathered
@@ -86719,6 +86753,7 @@ viewing
 viewings
 viewpoints
 viewy
+viga
 vigil
 vigilant
 vigilante
