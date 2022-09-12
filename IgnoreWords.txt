@@ -133,6 +133,7 @@ absurdisms
 absurdist
 absurdists
 absurdly
+absurdnesses
 absurds
 abuilding
 abulia
@@ -1458,6 +1459,7 @@ airscape
 airscrews
 airshed
 airsheds
+airships
 airshot
 airshow
 airshows
@@ -1552,6 +1554,7 @@ albizia
 album
 albumen
 albumens
+albuminous
 albumins
 albuminuria
 albuminurias
@@ -3242,6 +3245,7 @@ antiromantics
 antiroyalist
 antiroyalists
 antirrhinum
+antirrhinums
 antirust
 antis
 antisag
@@ -3632,6 +3636,7 @@ appointive
 appointor
 appoints
 apportionable
+apportions
 appose
 apposed
 apposes
@@ -4391,6 +4396,7 @@ assign
 assignability
 assignable
 assignat
+assignats
 assignee
 assigning
 assignments
@@ -5248,6 +5254,7 @@ azathioprines
 azedarachs
 azeotropes
 azeotropies
+azeotropy
 azimuths
 azines
 azlons
@@ -7683,6 +7690,7 @@ biter
 biters
 bites
 bitewings
+bitingly
 bitmap
 bitmapped
 bitstream
@@ -10594,6 +10602,7 @@ calves
 calvities
 calx
 calycle
+calycles
 calyculi
 calypsoes
 calypsos
@@ -11105,6 +11114,7 @@ carboxylase
 carboxylate
 carboxylated
 carboxylating
+carboxylations
 carboxylic
 carboxyls
 carboyed
@@ -12328,6 +12338,7 @@ charcoaling
 charcoals
 charcuteries
 charge
+charged
 chargehand
 charger
 chargers
@@ -14900,6 +14911,7 @@ comelily
 comeliness
 comestible
 comet
+comethers
 cometic
 comets
 comfiest
@@ -15541,6 +15553,7 @@ confine
 confined
 confinement
 confiner
+confines
 confirm
 confirmands
 confirmation
@@ -16851,6 +16864,7 @@ councillor
 councillors
 councilmanic
 councilor
+councilors
 councilwomen
 counseled
 counselee
@@ -18115,6 +18129,7 @@ cumquat
 cumquats
 cumshaw
 cumulates
+cumulating
 cumulation
 cumulations
 cumulative
@@ -20033,6 +20048,7 @@ demolitions
 demon
 demonesses
 demonetizations
+demonetize
 demonetizes
 demoniacal
 demoniacally
@@ -23151,6 +23167,7 @@ dracena
 dracenas
 drachm
 drachma
+drachmai
 drachms
 draconian
 draconic
@@ -23214,6 +23231,7 @@ dramatizes
 dramaturg
 dramaturge
 dramaturges
+dramaturgic
 dramaturgical
 dramaturgies
 dramedies
@@ -23852,6 +23870,7 @@ dyslectic
 dyslexias
 dyslexic
 dyslogistically
+dysmenorrheas
 dysmenorrheic
 dyspepsias
 dyspepsies
@@ -25567,6 +25586,7 @@ enthusing
 enthymemes
 enticed
 enticement
+enticements
 enticer
 enticers
 enticing
@@ -41881,6 +41901,7 @@ kewpie
 kewpies
 kex
 kexes
+keyboard
 keyboarded
 keyboarders
 keyboardists
@@ -44863,6 +44884,7 @@ lucences
 lucencies
 lucerne
 lucernes
+lucidness
 lucifer
 lucite
 luck
@@ -45469,6 +45491,7 @@ majaguas
 majesty
 majolica
 majordomos
+majorette
 majoring
 majoritarian
 majority
@@ -48616,6 +48639,7 @@ mobocratic
 mobocrats
 mobs
 mobster
+mobsters
 moc
 moccasins
 mocha
@@ -51761,6 +51785,7 @@ nonmolecular
 nonmonetarists
 nonmoral
 nonmotility
+nonmotorized
 nonmunicipal
 nonmusical
 nonmusician
@@ -55886,6 +55911,7 @@ panegyrist
 panel
 paneling
 panelist
+panelists
 panelled
 panelling
 panellings
@@ -58564,6 +58590,7 @@ pigsty
 pigtailed
 pigweeds
 piing
+pika
 pikeman
 pikemen
 pikers
@@ -58619,6 +58646,7 @@ pilothouses
 piloting
 pilotless
 pilsener
+pilseners
 pilsners
 pimas
 pimento
@@ -60689,6 +60717,7 @@ precisely
 preciseness
 precisian
 precisians
+precisionists
 precited
 precleaned
 precleans
@@ -61921,6 +61950,7 @@ prologued
 prologues
 prologuing
 prologuized
+prolong
 prolongation
 prolongations
 prolonged
@@ -63730,6 +63760,7 @@ radiotelemetric
 radiotelemetry
 radiotelephone
 radiotelephones
+radiotherapies
 radiotherapist
 radiothoriums
 radishes
@@ -64789,6 +64820,7 @@ reconfigures
 reconfiguring
 reconfine
 reconfines
+reconfirmation
 reconfirmations
 reconfirming
 reconnaissances
@@ -71333,6 +71365,7 @@ seven
 sevens
 seventeen
 seventeens
+seventeenth
 seventh
 seventhly
 sevenths
@@ -72483,6 +72516,7 @@ sillimanite
 silliness
 silly
 silo
+siloed
 siloing
 siloxanes
 silt
@@ -86566,6 +86600,7 @@ venule
 venules
 venulous
 vera
+veraciousness
 veracity
 veranda
 verandahed
