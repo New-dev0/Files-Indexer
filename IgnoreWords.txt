@@ -1001,6 +1001,7 @@ aeromedicines
 aerometer
 aerometers
 aeronaut
+aeronautic
 aeronautical
 aeronautics
 aeronauts
@@ -8389,6 +8390,7 @@ boldfacing
 boldly
 boldness
 bolds
+bole
 bolections
 boleti
 boletus
@@ -13655,6 +13657,7 @@ claudications
 claught
 claughted
 claughts
+clauses
 claustra
 claustral
 claustrophobe
@@ -17168,6 +17171,7 @@ cowpie
 cowpokes
 cowpox
 cowpoxes
+cowpuncher
 cowpunchers
 cowrie
 cowries
@@ -19159,6 +19163,7 @@ debearding
 debeards
 debilitation
 debilities
+debility
 debiting
 debits
 debonair
@@ -21643,6 +21648,7 @@ disaffirms
 disaggregate
 disaggregated
 disaggregative
+disagree
 disagreeable
 disagreement
 disagreements
@@ -28387,6 +28393,7 @@ fes
 fess
 fesse
 fesses
+fessing
 fesswise
 festally
 fester
@@ -30633,6 +30640,7 @@ friller
 frillers
 frillier
 frilliest
+frillings
 fringing
 frisbee
 frisbees
@@ -31511,6 +31519,7 @@ garlickiest
 garlicky
 garment
 garmenting
+garner
 garnered
 garnets
 garnished
@@ -33010,6 +33019,7 @@ gospeler
 gospelers
 gospellers
 gossamer
+gossan
 gossip
 gossiper
 gossipmonger
@@ -36766,6 +36776,7 @@ huffing
 huffs
 hugely
 hugeous
+hugged
 hugger
 hugs
 huh
@@ -40688,6 +40699,7 @@ isogons
 isografted
 isograms
 isogriv
+isohel
 isohels
 isolable
 isolate
@@ -40944,6 +40956,7 @@ jampacked
 jane
 janes
 jangle
+jangler
 jangles
 janglier
 jangly
@@ -41366,6 +41379,7 @@ jovialty
 jow
 jowars
 jowl
+jowliest
 jowly
 jows
 joyances
@@ -50178,6 +50192,7 @@ myrmecological
 myrmecologies
 myrmecologist
 myrmecologists
+myrmecology
 myrmecophile
 myrmidon
 myrmidons
@@ -54204,6 +54219,7 @@ outpowering
 outpowers
 outpray
 outprays
+outpreach
 outpreached
 outpreen
 outpreened
@@ -56070,6 +56086,7 @@ papyrology
 parabiotic
 parabiotically
 parables
+parabola
 paraboloid
 paraboloidal
 paraboloids
@@ -56604,6 +56621,7 @@ pasturelands
 pasturers
 pastures
 pasturing
+pasty
 pat
 patacas
 patagia
@@ -56726,6 +56744,7 @@ pattens
 patter
 patterer
 pattering
+patterned
 patternings
 patternless
 patterns
@@ -57980,6 +57999,7 @@ philadelphuses
 philander
 philandered
 philanderers
+philanders
 philanthropical
 philanthropies
 philanthropists
@@ -58802,6 +58822,7 @@ pipeless
 pipeline
 pipelined
 piperazine
+piperines
 piperonals
 pipes
 pipestem
@@ -61890,6 +61911,7 @@ progressivity
 progs
 progun
 prohibit
+prohibition
 prohibitionist
 prohibitionists
 prohibitions
@@ -62973,6 +62995,7 @@ pushiness
 pushinesses
 pushover
 pushovers
+pushpin
 pushrod
 pushup
 pushups
@@ -64290,6 +64313,7 @@ readably
 readapt
 readapted
 readapts
+readdict
 readdicted
 readdicting
 readdicts
@@ -68829,6 +68853,7 @@ russets
 russetting
 russettings
 russety
+rustable
 rustic
 rustical
 rusticals
@@ -68920,6 +68945,7 @@ saccharifies
 saccharimeters
 saccharine
 saccharinity
+saccharoidal
 sacculation
 sacculations
 saccule
@@ -69390,6 +69416,7 @@ sanitoria
 sanity
 sanjak
 sanjaks
+sank
 sannop
 sannups
 sannyasi
@@ -70968,6 +70995,7 @@ semipious
 semipolitical
 semipopular
 semiporcelains
+semipornography
 semipostal
 semiprecious
 semipro
@@ -71847,6 +71875,7 @@ shim
 shimmer
 shimmered
 shimmers
+shimmery
 shimmy
 shimmying
 shin
@@ -77529,6 +77558,7 @@ sugarer
 sugarhouse
 sugarier
 sugariest
+sugarless
 sugarlike
 sugarloaves
 sugars
@@ -77979,6 +78009,7 @@ superposes
 superpositions
 superpower
 superpowered
+superpowerful
 superpowers
 superpremium
 superprofits
@@ -80364,6 +80395,7 @@ therians
 thermalization
 thermalize
 thermalizes
+therme
 thermel
 thermic
 thermidor
@@ -82546,6 +82578,7 @@ trippets
 trippiest
 tripping
 trippingly
+trippings
 trips
 triptan
 triptanes
@@ -85762,6 +85795,7 @@ upraising
 uprated
 uprates
 uprating
+upreach
 upreached
 uprear
 upright
@@ -88569,6 +88603,7 @@ whomping
 whomsoever
 whoofed
 whoofing
+whoofs
 whoop
 whooped
 whoopee
