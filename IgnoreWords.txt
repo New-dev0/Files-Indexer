@@ -1658,6 +1658,7 @@ alienable
 alienage
 alienate
 alienators
+alienees
 aliening
 alienisms
 alienist
@@ -8453,6 +8454,7 @@ boneheaded
 boneheadedness
 bonemeals
 boneset
+boneyest
 bonfire
 bong
 bonged
@@ -11273,6 +11275,7 @@ caroller
 carolling
 caromed
 carotene
+carotenes
 carotenoid
 carotid
 carotidal
@@ -11306,6 +11309,7 @@ carpus
 carr
 carrack
 carracks
+carrageen
 carrageenins
 carrageens
 carrefour
@@ -11366,6 +11370,7 @@ cartulary
 cartwheeling
 cartwheels
 caruncle
+carvacrols
 carvings
 caryatides
 caryopses
@@ -11760,6 +11765,7 @@ cavitations
 cavitied
 cavorters
 cavorts
+cavy
 caws
 cay
 cayman
@@ -12127,6 +12133,7 @@ chairmans
 chairmanship
 chairpersons
 chairwomen
+chais
 chaise
 chaises
 chakras
@@ -16850,6 +16857,7 @@ counselorships
 counsels
 countabilities
 countdowns
+countenance
 countenancers
 countenances
 countenancing
@@ -17453,6 +17461,7 @@ creole
 creolise
 creolised
 creolises
+creolising
 creolization
 creolizations
 creolize
@@ -25029,6 +25038,7 @@ encloser
 enclosers
 enclosure
 encodable
+encode
 encoded
 encodes
 encoding
@@ -28003,6 +28013,7 @@ favela
 favelas
 favella
 favellas
+faveolate
 favisms
 favorable
 favorablenesses
@@ -29167,6 +29178,7 @@ flawlessly
 flaws
 flawy
 flax
+flaxes
 flaxier
 flaxiest
 flaxseed
@@ -31591,6 +31603,7 @@ gaters
 gather
 gator
 gators
+gauche
 gauchely
 gauchenesses
 gauchest
@@ -34642,6 +34655,7 @@ hardware
 hardwire
 hardwired
 hardwiring
+hardwood
 hardworking
 hardy
 harebells
@@ -36191,6 +36205,7 @@ homogenates
 homogeneities
 homogeneity
 homogenies
+homogenisations
 homogenise
 homogenising
 homogenization
@@ -37172,6 +37187,7 @@ hyperinsulinism
 hyperinvolution
 hyperirritable
 hyperkeratosis
+hyperkineses
 hyperkinesia
 hyperkinesias
 hyperkinesis
@@ -42176,6 +42192,7 @@ kleptomaniacs
 kleptos
 klezmer
 klezmers
+klick
 klicks
 klik
 kliks
@@ -42519,6 +42536,7 @@ lacewood
 lachrymal
 lachrymose
 lachrymosely
+laciest
 lacily
 lacings
 laciniation
@@ -43194,6 +43212,7 @@ leadsmen
 leadwork
 leadworks
 leadworts
+leady
 leafage
 leafhopper
 leafhoppers
@@ -44937,6 +44956,7 @@ lungs
 lungworm
 lungworms
 lungwort
+lungworts
 lungyis
 lunier
 lunies
@@ -55166,6 +55186,7 @@ overstretches
 overstretching
 overstrew
 overstrewed
+overstrews
 overstride
 overstrung
 overstudied
@@ -59591,6 +59612,7 @@ poling
 poliomyelitides
 poliomyelitis
 polios
+polished
 polisher
 polishing
 politburo
@@ -60750,6 +60772,7 @@ prednisolones
 prednisone
 predominances
 predominancy
+predominant
 predominates
 predominating
 predomination
@@ -61765,6 +61788,7 @@ profound
 profoundly
 profoundness
 profuse
+profusely
 profuseness
 profusenesses
 profusion
@@ -64286,6 +64310,7 @@ realpolitik
 reals
 realter
 realtering
+realters
 ream
 reamer
 reaming
@@ -65516,6 +65541,7 @@ regiment
 regimental
 regimentation
 regimenting
+regiments
 regina
 reginae
 reginas
@@ -65985,6 +66011,7 @@ reluctation
 reluctations
 relucted
 relucting
+relucts
 relume
 relumes
 relumines
@@ -69573,6 +69600,7 @@ savorier
 savories
 savorily
 savorinesses
+savorless
 savors
 savour
 savoured
@@ -70544,6 +70572,7 @@ sectoring
 secularise
 secularism
 secularisms
+secularistic
 secularization
 secularizer
 secularizing
@@ -71583,6 +71612,7 @@ sheath
 sheathe
 sheathed
 sheather
+sheathes
 sheaved
 sheaves
 shebang
@@ -73172,6 +73202,7 @@ slitter
 slitters
 slitting
 sliver
+slivered
 sliverer
 sliverers
 slivovic
@@ -77726,6 +77757,7 @@ supercolliders
 supercomputers
 superconduct
 superconducted
+superconductors
 superconducts
 superconfident
 supercontinents
@@ -78718,6 +78750,7 @@ synoptical
 synoptically
 synostosis
 synovia
+synovial
 synovitis
 synovitises
 syntactical
@@ -80866,6 +80899,7 @@ timidnesses
 timing
 timocracies
 timocracy
+timocratic
 timorously
 timpani
 timpanists
@@ -85207,6 +85241,7 @@ unshaken
 unshamed
 unshaped
 unshared
+unsharp
 unsheathes
 unshell
 unshelled
