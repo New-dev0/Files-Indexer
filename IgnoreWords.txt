@@ -3006,6 +3006,7 @@ anticodon
 anticold
 anticollision
 anticolonial
+anticolonialism
 anticolonialist
 anticommunisms
 anticommunists
@@ -3777,6 +3778,7 @@ arbitrageur
 arbitrament
 arbitrariness
 arbitrarinesses
+arbitrate
 arbitrated
 arbitrates
 arbitrating
@@ -6781,6 +6783,7 @@ bendier
 bends
 bendwise
 bendy
+bendys
 bene
 beneath
 benedict
@@ -8307,6 +8310,7 @@ boggiest
 bogginesses
 bogging
 boggish
+boggler
 bogglers
 boggling
 boggy
@@ -9471,6 +9475,7 @@ browner
 brownest
 brownie
 brownier
+brownness
 brownnesses
 brownnosed
 brownnoser
@@ -13597,6 +13602,7 @@ classism
 classists
 classlessness
 classon
+classons
 classy
 clast
 clasts
@@ -15553,6 +15559,7 @@ confusedly
 confusednesses
 confuses
 confusing
+confutations
 confuter
 confutes
 confuting
@@ -16627,6 +16634,7 @@ corruptnesses
 corsacs
 corsage
 corsair
+corse
 corselets
 corses
 corset
@@ -23730,6 +23738,7 @@ duumvirs
 duvets
 duvetynes
 duxelles
+dwarf
 dwarfed
 dwarfer
 dwarfest
@@ -27499,6 +27508,7 @@ faciends
 facies
 facile
 facilely
+facilenesses
 facilitate
 facilitated
 facilitation
@@ -29424,6 +29434,7 @@ flubdub
 flubs
 fluctuated
 fluctuating
+fluctuation
 flue
 flued
 fluently
@@ -31273,6 +31284,7 @@ gamekeeper
 gamers
 gamesmanship
 gamesmanships
+gamesmen
 gamesomenesses
 gamester
 gametic
@@ -33702,6 +33714,7 @@ guacharo
 guaiac
 guaiacols
 guaiacs
+guaiacums
 guaiocums
 guan
 guanabanas
@@ -38619,6 +38632,7 @@ indican
 indicans
 indicant
 indicants
+indicate
 indicates
 indications
 indicatives
@@ -41195,6 +41209,7 @@ jollifies
 jollily
 jolliness
 jollinesses
+jolly
 jollyboats
 jollying
 jolt
@@ -44062,6 +44077,7 @@ liquidizes
 liquidly
 liquidnesses
 liquids
+liquifies
 liquifying
 liquorish
 lira
@@ -45512,6 +45528,7 @@ mambas
 mambo
 mamboes
 mamelukes
+mamies
 mamluks
 mammae
 mammal
@@ -46581,6 +46598,7 @@ meliorisms
 meliorists
 melisma
 mell
+mellific
 mellifluent
 mellifluously
 melling
@@ -52062,6 +52080,7 @@ noughts
 noumenon
 nounal
 nounless
+nourished
 nourisher
 nourishing
 nourishment
@@ -53483,6 +53502,7 @@ orthogenetic
 orthogonalities
 orthogonality
 orthographic
+orthographies
 orthography
 orthomolecular
 orthonormal
@@ -54375,6 +54395,7 @@ oval
 ovalbumins
 ovalities
 ovality
+ovally
 ovalness
 ovals
 ovarian
@@ -54706,6 +54727,7 @@ overfocussing
 overfond
 overfoul
 overfrank
+overfulfilled
 overfulfilling
 overfunding
 overgeneralize
@@ -60678,6 +60700,7 @@ preed
 preedit
 preedited
 preediting
+preedits
 preelect
 preelected
 preelecting
@@ -62927,6 +62950,7 @@ pyriform
 pyrimidines
 pyritic
 pyritical
+pyritous
 pyro
 pyrocatechol
 pyrocatechols
@@ -63245,6 +63269,7 @@ questers
 question
 questionary
 questioned
+questioner
 questioners
 questionless
 questionnaire
@@ -65685,6 +65710,7 @@ reinvolve
 reinvolved
 reinvolves
 reissue
+reissued
 reissues
 reitbok
 reiterate
@@ -67483,6 +67509,7 @@ rhapsodical
 rhapsodize
 rhapsody
 rhatany
+rhea
 rheboks
 rhematic
 rheme
@@ -67746,6 +67773,7 @@ rigidification
 rigidifying
 rigidities
 rigidity
+rigidness
 rigidnesses
 rigmaroles
 rigor
@@ -68190,6 +68218,7 @@ ropier
 ropiest
 roping
 roque
+roquelaures
 roqueted
 roqueting
 roquets
@@ -69362,6 +69391,7 @@ satires
 satirical
 satirically
 satirised
+satirising
 satirists
 satirize
 satirizers
@@ -72101,6 +72131,7 @@ sics
 siddurs
 side
 sideband
+sideboard
 sideboards
 sideburned
 sidecheck
@@ -75780,6 +75811,7 @@ sternway
 steroid
 steroidal
 steroidogenic
+steroids
 sterols
 stertors
 stet
@@ -83317,6 +83349,7 @@ ultramodernists
 ultramontanism
 ultrapatriotic
 ultraphysical
+ultraprecision
 ultraquiet
 ultraradical
 ultrarare
@@ -86895,6 +86928,7 @@ viscus
 viseed
 viselike
 vises
+visibilities
 vising
 vision
 visionally
@@ -89617,6 +89651,7 @@ zanier
 zaniest
 zanyish
 zanzas
+zapateado
 zapateo
 zapateos
 zapper
