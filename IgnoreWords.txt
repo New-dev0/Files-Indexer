@@ -5398,6 +5398,7 @@ backfilled
 backfilling
 backfire
 backfired
+backfires
 backfit
 backfitting
 backflip
@@ -11760,6 +11761,7 @@ caudex
 caudillismo
 cauld
 cauldrons
+caulicle
 cauliflower
 cauliflowerets
 cauliflowers
@@ -19227,6 +19229,7 @@ debarks
 debarment
 debarring
 debased
+debasements
 debases
 debate
 debated
@@ -21800,6 +21803,7 @@ disavow
 disavower
 disavowers
 disavowing
+disbanded
 disbanding
 disbandments
 disbar
@@ -22493,6 +22497,7 @@ distichal
 distill
 distillates
 distillations
+distiller
 distilleries
 distils
 distinctions
@@ -23840,6 +23845,7 @@ duplication
 duplications
 duplicative
 duplicator
+duplicators
 duplicitous
 duplicitously
 duplicity
@@ -24283,6 +24289,7 @@ ectype
 ecumenically
 ecumenicism
 ecumenicist
+ecumenicists
 ecumenicities
 ecumenicity
 ecumenics
@@ -24632,6 +24639,7 @@ electrosurgery
 electrosurgical
 electrotherapy
 electrotonic
+electrotype
 electrotyped
 electrotyper
 electrotypes
@@ -25123,6 +25131,7 @@ encapsulate
 encapsulated
 encapsulates
 encapsulation
+encapsuled
 encapsules
 encapsuling
 encase
@@ -31147,6 +31156,7 @@ furcula
 furcular
 furfurals
 furfuran
+furibund
 furiously
 furler
 furlers
@@ -34111,6 +34121,7 @@ gummiest
 gumminesses
 gumming
 gummite
+gummites
 gummoses
 gummosis
 gummy
@@ -37299,6 +37310,7 @@ hygrograph
 hygrometer
 hygrometers
 hygrometric
+hygrophytes
 hygroscopicity
 hyla
 hylozoic
@@ -39540,6 +39552,7 @@ inosculates
 inosculation
 inosine
 inosites
+inositol
 inositols
 inotropic
 inpatients
@@ -40309,6 +40322,7 @@ intolerableness
 intolerance
 intolerantly
 intolerantness
+intomb
 intombing
 intombs
 intonating
@@ -41990,6 +42004,7 @@ kellies
 kelly
 keloidal
 keloids
+kelpie
 kelpies
 kelping
 kelps
@@ -42958,6 +42973,7 @@ laminating
 lamination
 laminator
 laming
+laminins
 laminitises
 laminose
 lamister
@@ -44142,6 +44158,7 @@ lily
 lilylike
 lima
 limacine
+limacons
 limans
 limb
 limba
@@ -45313,6 +45330,7 @@ lycopene
 lycopenes
 lycopodium
 lycopods
+lycra
 lyddites
 lye
 lyes
@@ -46121,6 +46139,7 @@ maraschino
 maraschinos
 marasmus
 marasmuses
+marathon
 marathoner
 marathoners
 marathonings
@@ -46287,6 +46306,7 @@ marshmallow
 marshmallows
 marshmallowy
 marshy
+marsupial
 marsupials
 mart
 martagon
@@ -50705,6 +50725,7 @@ naturopathies
 naturopathy
 naugahydes
 naughtier
+naughties
 naughtily
 naughtinesses
 naumachia
@@ -54261,6 +54282,7 @@ outfoot
 outfoots
 outfought
 outfrown
+outfrowns
 outgain
 outgained
 outgaining
@@ -58958,6 +58980,7 @@ piney
 pinfeather
 pinfeathers
 pinfish
+pinfishes
 pinfolded
 pinfolds
 pingoes
@@ -62735,6 +62758,7 @@ pseudomonad
 pseudomonas
 pseudomorph
 pseudomorphism
+pseudomorphs
 pseudonymities
 pseudonymity
 pseudopod
@@ -64924,6 +64948,7 @@ recentrifuged
 recept
 reception
 receptionist
+receptive
 receptivities
 receptivity
 receptor
@@ -65729,6 +65754,7 @@ reflexivenesses
 reflexivities
 reflexivity
 reflexly
+reflexology
 reflies
 refloat
 refloating
@@ -72016,6 +72042,7 @@ sheepmen
 sheepshanks
 sheepshearers
 sheepskins
+sheepwalks
 sheered
 sheerest
 sheering
@@ -75008,6 +75035,7 @@ spectrums
 specula
 specular
 specularities
+specularity
 speculate
 speculates
 speculations
@@ -84205,6 +84233,7 @@ unbundle
 unburden
 unburdened
 unburdening
+unburdens
 unburied
 unburnable
 unburned
@@ -85084,6 +85113,7 @@ unifiers
 uniform
 uniformitarians
 uniformness
+uniformnesses
 unify
 unilingual
 unillusioned
@@ -85425,6 +85455,7 @@ unpointed
 unpolarized
 unpoliced
 unpolished
+unpolite
 unpolitical
 unpolled
 unpopularities
@@ -88529,6 +88560,7 @@ wedgelike
 wedgier
 wedgiest
 wedging
+wedlocks
 weds
 weeder
 weedier
@@ -89113,6 +89145,7 @@ willer
 willers
 willet
 willful
+willfully
 willfulness
 willfulnesses
 willie
@@ -89795,6 +89828,7 @@ writhes
 writs
 written
 wrongdoers
+wrongdoing
 wrongdoings
 wronged
 wrongful
@@ -90195,6 +90229,7 @@ yucked
 yuckier
 yuckiest
 yuckiness
+yuckinesses
 yucks
 yuga
 yukkier
