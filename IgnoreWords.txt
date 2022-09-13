@@ -1356,6 +1356,7 @@ agraphias
 agrarians
 agravic
 agree
+agreeabilities
 agreeablenesses
 agreeably
 agreement
@@ -1903,6 +1904,7 @@ almighty
 almond
 almoner
 almoners
+almonries
 almonry
 almost
 almsgiver
@@ -2967,6 +2969,7 @@ anthropophagies
 anthroposophies
 anthuriums
 anti
+antiabortionist
 antiaggression
 antiaging
 antiair
@@ -3831,6 +3834,7 @@ arborized
 arborizing
 arbors
 arborvitae
+arborvitaes
 arbovirus
 arbs
 arbuscle
@@ -5397,6 +5401,7 @@ backfitting
 backflip
 backflows
 backgammon
+backgammons
 background
 backgrounder
 backgrounders
@@ -5700,6 +5705,7 @@ balsamed
 balsamic
 balsams
 balsas
+balustraded
 balustrades
 bam
 bambino
@@ -5707,6 +5713,7 @@ bamboo
 bamboos
 bamboozle
 bamboozlements
+bamboozles
 bamboozling
 bams
 ban
@@ -10754,6 +10761,7 @@ canary
 canasta
 cancelable
 cancelation
+canceled
 canceling
 cancellers
 cancerous
@@ -16479,6 +16487,7 @@ copywriter
 coquets
 coquette
 coquetted
+coquettes
 coquetting
 coquettishly
 coquille
@@ -24336,6 +24345,7 @@ educible
 eduction
 eductions
 eductor
+eductors
 educts
 edulcorated
 edulcorating
@@ -26511,6 +26521,7 @@ ethionine
 ethionines
 ethmoid
 ethmoidal
+ethmoids
 ethnarch
 ethnarchies
 ethnarchs
@@ -29849,6 +29860,7 @@ foliage
 foliaged
 foliar
 foliate
+foliated
 foliating
 foliation
 foliations
@@ -30744,6 +30756,7 @@ frisees
 frises
 frisette
 friseur
+friseurs
 frisked
 friskers
 friskier
@@ -32065,6 +32078,7 @@ geologist
 geologize
 geologized
 geomagnetically
+geomagnetisms
 geomancer
 geomancers
 geomantic
@@ -34317,6 +34331,7 @@ hacker
 hackers
 hackie
 hacking
+hackler
 hacklier
 hackling
 hackmatack
@@ -35558,6 +35573,7 @@ hents
 heparin
 hepatics
 hepatitis
+hepatitises
 hepatizes
 hepatocyte
 hepatocytes
@@ -38774,6 +38790,7 @@ incunabula
 incur
 incurables
 incurably
+incuriosities
 incuriosity
 incurious
 incuriousness
@@ -42378,6 +42395,7 @@ klick
 klicks
 klik
 kliks
+klisters
 klongs
 kloofs
 kludgey
@@ -46495,6 +46513,7 @@ maturational
 mature
 maturers
 maturest
+matutinally
 matza
 matzah
 matzas
@@ -50271,6 +50290,7 @@ mycologies
 mycologists
 mycophagist
 mycophagists
+mycophagous
 mycophagy
 mycophile
 mycoplasma
@@ -55331,6 +55351,7 @@ oversave
 oversaves
 oversaving
 overscale
+overscores
 overscoring
 overscrupulous
 oversecretions
@@ -57446,6 +57467,7 @@ pentlandites
 pentobarbital
 pentobarbitones
 pentodes
+pentomic
 pentosans
 pentose
 pentoses
@@ -58322,6 +58344,7 @@ phosphenes
 phosphides
 phosphids
 phosphin
+phosphine
 phosphins
 phosphite
 phosphites
@@ -58510,6 +58533,7 @@ phuts
 phycocyanins
 phycoerythrin
 phycoerythrins
+phycologist
 phycologists
 phycomycetes
 phyla
@@ -60542,6 +60566,7 @@ postured
 posturers
 postures
 posturing
+posturist
 postvaccinal
 postvaccination
 postvagotomy
@@ -61845,6 +61870,7 @@ priory
 prise
 prised
 prisere
+priseres
 prises
 prism
 prismatic
@@ -72827,6 +72853,7 @@ simitars
 simmer
 simmering
 simmers
+simoleon
 simoleons
 simoniac
 simoniacal
@@ -76183,6 +76210,7 @@ stenographer
 stenographic
 stenographies
 stenography
+stenokous
 stenos
 stenosis
 stenotherm
@@ -77649,6 +77677,7 @@ suburbanized
 suburbs
 subvarieties
 subvassal
+subvened
 subvenes
 subvention
 subventions
@@ -79007,6 +79036,7 @@ synchronisation
 synchronised
 synchronises
 synchronism
+synchronistic
 synchronize
 synchronized
 synchronous
@@ -81427,10 +81457,12 @@ toasted
 toastier
 toasting
 toastmaster
+toastmasters
 toastmistresses
 toasts
 toasty
 tobacco
+tobaccoes
 tobacconists
 tobaccos
 tobogganed
@@ -82036,6 +82068,7 @@ tradeoff
 trader
 traders
 trades
+tradescantia
 tradescantias
 traditional
 traditionalisms
@@ -84068,6 +84101,7 @@ unbearably
 unbeared
 unbears
 unbeatably
+unbecoming
 unbecomingly
 unbecomingness
 unbeknown
@@ -85897,6 +85931,7 @@ unwieldiest
 unwieldiness
 unwifely
 unwillingly
+unwinder
 unwinding
 unwinds
 unwinnable
