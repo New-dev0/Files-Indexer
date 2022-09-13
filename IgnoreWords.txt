@@ -778,6 +778,7 @@ adjuvants
 adman
 admass
 admasses
+admeasurement
 admeasures
 admeasuring
 administering
@@ -1356,6 +1357,7 @@ agranulocytoses
 agranulocytosis
 agraphia
 agraphias
+agrarian
 agrarians
 agravic
 agree
@@ -1603,6 +1605,7 @@ alcyonarians
 aldehyde
 aldehydic
 alderflies
+aldermanic
 alderwomen
 aldols
 aldosterone
@@ -7307,6 +7310,7 @@ bidi
 bidialectalism
 bidirectional
 bidis
+bidonville
 bids
 bield
 bielded
@@ -8607,6 +8611,7 @@ boogey
 boogeying
 boogeyman
 boogied
+boogieing
 boogiemen
 boogying
 boohooing
@@ -9235,6 +9240,7 @@ breakup
 breakwall
 breakwater
 bream
+breams
 breastbones
 breastfeed
 breasting
@@ -10205,6 +10211,7 @@ butteries
 butteriest
 buttering
 butterless
+buttermilk
 buttermilks
 butters
 butterscotch
@@ -11849,6 +11856,7 @@ caustically
 causticities
 cauterants
 cauterization
+cauterizations
 cautery
 cautioners
 cautions
@@ -18991,6 +18999,7 @@ damper
 dampers
 damping
 dampnesses
+damps
 damselfish
 damselfishes
 damselflies
@@ -19336,6 +19345,7 @@ debeards
 debilitation
 debilities
 debility
+debit
 debiting
 debits
 debonair
@@ -27110,6 +27120,7 @@ exclaimer
 exclaimers
 exclaims
 exclamations
+exclamatory
 exclave
 excluded
 excluder
@@ -27815,6 +27826,7 @@ facetiae
 faceting
 facetious
 facetiousness
+facets
 facia
 facial
 facially
@@ -28105,6 +28117,7 @@ fanwise
 fanzine
 fanzines
 faquir
+farad
 faradaic
 faradic
 faradising
@@ -35947,6 +35960,7 @@ heterologous
 heterologously
 heterolysis
 heteromorphic
+heteronomous
 heteronyms
 heterophil
 heterophile
@@ -37741,6 +37755,7 @@ hypotonia
 hypotonicity
 hypoxemia
 hypoxia
+hypoxias
 hypsometer
 hypsometers
 hypsometric
@@ -49215,6 +49230,7 @@ moldinesses
 moldwarp
 moldwarps
 moldy
+molecularly
 molecules
 molehill
 moleskins
@@ -51971,6 +51987,7 @@ nonconservative
 nonconstant
 nonconstructive
 nonconsumer
+nonconsumers
 nonconsumption
 nonconsumptions
 noncontact
@@ -52226,6 +52243,7 @@ nonmarital
 nonmarket
 nonmaterial
 nonmature
+nonmeat
 nonmechanical
 nonmedical
 nonmeeting
@@ -53443,6 +53461,7 @@ oiling
 oilman
 oilpaper
 oilpapers
+oilseed
 oilseeds
 oilskin
 oilskins
@@ -59666,6 +59685,7 @@ plastidial
 plastisol
 plastisols
 plastocyanin
+plastocyanins
 plastoquinones
 plastral
 plat
@@ -62299,6 +62319,7 @@ procrastinated
 procrastinates
 procrastinating
 procrastinator
+procreate
 procreating
 procreations
 procreative
@@ -64416,6 +64437,7 @@ railroads
 railways
 rainbands
 rainbirds
+rainbows
 raincoats
 rainier
 rainiest
@@ -65000,6 +65022,7 @@ rearming
 rearmost
 rearmouse
 rearms
+rearousal
 rearousals
 rearouse
 rearrangements
@@ -65213,6 +65236,7 @@ received
 receiver
 receivers
 receivership
+receiverships
 receiving
 recement
 recencies
@@ -67376,6 +67400,7 @@ reseating
 reseats
 reseau
 reseaus
+reseaux
 resectability
 resectable
 resected
@@ -68245,6 +68270,7 @@ rewelds
 rewets
 rewetted
 rewiden
+rewidening
 rewinded
 rewinder
 rewins
@@ -68304,6 +68330,7 @@ rheology
 rheometer
 rheophil
 rheophiles
+rheostatic
 rheotaxis
 rhesus
 rhesuses
@@ -70356,6 +70383,7 @@ says
 sayst
 sayyids
 scabbier
+scabbiest
 scabbily
 scabble
 scabbled
@@ -70487,6 +70515,7 @@ scarifyingly
 scarious
 scarlatinal
 scarlatinas
+scarless
 scarlets
 scarpered
 scarpers
@@ -72266,6 +72295,7 @@ shariahs
 sharias
 sharif
 sharifs
+sharked
 sharklike
 sharks
 sharkskin
@@ -72959,6 +72989,7 @@ sickishness
 sickishnesses
 sicklemia
 sicklemic
+sicklied
 sicklier
 sickliest
 sickliness
@@ -76243,6 +76274,7 @@ stairlike
 stairs
 stairstep
 stairstepping
+stairwell
 stairwells
 staithe
 staithes
@@ -76558,6 +76590,7 @@ steersmen
 steeve
 steeves
 steeving
+stegodon
 stegodons
 stegosaurs
 stegosauruses
@@ -82007,6 +82040,7 @@ tomenta
 tomentum
 tomfooleries
 tomfoolery
+tomfools
 tommed
 tommies
 tomming
@@ -85019,6 +85053,7 @@ underprop
 underpropping
 underprops
 underrate
+underrated
 underrating
 underreacted
 underreacting
