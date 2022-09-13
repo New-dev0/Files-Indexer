@@ -8758,6 +8758,7 @@ borrowing
 borrowings
 borrows
 borschts
+borsht
 borstals
 bortz
 borzoi
@@ -9444,6 +9445,7 @@ broadbands
 broadbean
 broadbeans
 broadbill
+broadbills
 broadcasted
 broadcasters
 broadcloth
@@ -12062,6 +12064,7 @@ centerless
 centerpiece
 centerpieces
 centers
+centeses
 centesimal
 centesimo
 centesimos
@@ -15011,6 +15014,7 @@ columnistic
 columnists
 colure
 colures
+coly
 colza
 coma
 comakers
@@ -15148,6 +15152,7 @@ commissar
 commissarial
 commissariat
 commissariats
+commissaries
 commissars
 commissionaire
 commissionaires
@@ -19968,6 +19973,7 @@ dehiscent
 dehorned
 dehorner
 dehorting
+dehorts
 dehumanization
 dehumanizations
 dehumanizes
@@ -28498,6 +28504,7 @@ fellowshipped
 fellowships
 felon
 feloniousness
+felonry
 felons
 felsic
 felsite
@@ -29590,6 +29597,7 @@ flichter
 flichters
 flicked
 flickered
+flickers
 flickery
 flicking
 flics
@@ -29939,6 +29947,7 @@ flypapers
 flyrodders
 flysheets
 flyspecked
+flyspecking
 flyswatter
 flyswatters
 flyte
@@ -36429,6 +36438,7 @@ holdovers
 holdup
 holdups
 hole
+holey
 holibuts
 holiday
 holidayed
@@ -45785,6 +45795,7 @@ maelstrom
 maenad
 maenadic
 maenadism
+maes
 maestosos
 maestri
 maffia
@@ -46159,6 +46170,7 @@ mandating
 mandator
 mandatories
 mandators
+mandatory
 mandibulate
 mandola
 mandolins
@@ -46628,6 +46640,7 @@ masseteric
 masseters
 masseur
 masseurs
+masseuse
 massiest
 massif
 massifs
@@ -48863,6 +48876,7 @@ misquote
 misquoters
 misquotes
 misraises
+misraising
 misrated
 misrating
 misread
@@ -52781,6 +52795,7 @@ nucleoles
 nucleonics
 nucleons
 nucleophile
+nucleophiles
 nucleophilic
 nucleoplasmic
 nucleosides
@@ -54608,6 +54623,7 @@ outhowled
 outhumoring
 outhumors
 outhunt
+outhunted
 outhustled
 outing
 outings
@@ -57216,6 +57232,7 @@ patine
 patined
 patining
 patinized
+patinizes
 patins
 patissier
 patissiers
@@ -57602,6 +57619,7 @@ pelecypod
 pelecypods
 pelerine
 peles
+pelicans
 pelisse
 pelisses
 pelites
@@ -57849,6 +57867,7 @@ peptics
 peptid
 peptidase
 peptides
+peptidic
 peptidoglycan
 peptidoglycans
 peptized
@@ -60709,6 +60728,7 @@ portside
 posada
 pose
 posed
+poser
 poses
 poseurs
 poshest
@@ -61373,6 +61393,7 @@ predesignate
 predesignates
 predesignating
 predestinarians
+predestinate
 predestinated
 predestination
 predestinations
@@ -62844,6 +62865,7 @@ protect
 protectants
 protecter
 protecting
+protection
 protectionisms
 protectionist
 protectionists
@@ -66208,6 +66230,7 @@ regaled
 regaler
 regaling
 regality
+regally
 regalnesses
 regardant
 regarded
@@ -70474,6 +70497,7 @@ scamp
 scamped
 scamperer
 scamperers
+scampers
 scampies
 scampish
 scamps
@@ -74848,6 +74872,7 @@ solitaires
 solitaries
 solitarily
 solitariness
+solitarinesses
 solitary
 solitons
 solitude
@@ -74937,6 +74962,7 @@ sonantal
 sonants
 sonarmen
 sonars
+sonatas
 sonde
 sondes
 sone
@@ -76778,6 +76804,7 @@ stickfuls
 stickhandlers
 stickhandles
 stickhandling
+stickiest
 stickiness
 stickinesses
 stickle
@@ -79776,6 +79803,7 @@ tagger
 tagliatelles
 taglines
 tagmemes
+tagmemics
 tagrag
 tagrags
 tags
@@ -80947,6 +80975,7 @@ tetragrams
 tetrahedrally
 tetrahedron
 tetrahedrons
+tetrahymena
 tetralogies
 tetralogy
 tetramer
@@ -83783,6 +83812,7 @@ tumblerful
 tumblers
 tumblersful
 tumbrel
+tumbrels
 tumbrils
 tumefactions
 tumefies
@@ -84985,6 +85015,7 @@ undercounts
 undercover
 undercrofts
 undercurrent
+undercuts
 undercutting
 underdeveloped
 underdog
@@ -88300,6 +88331,7 @@ vowless
 vows
 vox
 voyage
+voyaged
 voyages
 voyageurs
 voyeur
@@ -89076,6 +89108,7 @@ weisenheimer
 weisenheimers
 wekas
 welch
+welched
 welchers
 welches
 welching
@@ -89160,6 +89193,7 @@ wetter
 wetting
 wettish
 wha
+whack
 whacks
 whale
 whaleback
@@ -89348,6 +89382,7 @@ whishes
 whisht
 whishts
 whisk
+whisked
 whiskered
 whiskery
 whiskey
