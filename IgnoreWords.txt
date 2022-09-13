@@ -2456,6 +2456,7 @@ analcites
 analemma
 analemmas
 analemmata
+analeptic
 analgesias
 analgesic
 analgesics
@@ -3606,6 +3607,7 @@ appealer
 appealers
 appealing
 appealingly
+appeals
 appearances
 appeasable
 appease
@@ -4096,6 +4098,7 @@ arpen
 arpens
 arpent
 arpents
+arquebus
 arquebuses
 arracks
 arraigned
@@ -4139,6 +4142,7 @@ arrogations
 arrogator
 arrondissements
 arrowhead
+arrowing
 arrowlike
 arrowwoods
 arrowworm
@@ -9559,6 +9563,7 @@ brose
 broses
 brosy
 brothered
+brotherhood
 brotherhoods
 brotherliness
 brothers
@@ -10744,6 +10749,7 @@ camouflageable
 camouflaged
 camouflagic
 camouflaging
+camp
 campagna
 campaign
 campaigned
@@ -12508,6 +12514,7 @@ chartreuse
 chartreuses
 chartularies
 chartulary
+charwoman
 charwomen
 chary
 chaseable
@@ -14138,6 +14145,7 @@ cnidarian
 cnidarians
 coacervations
 coach
+coachers
 coaching
 coachwork
 coacting
@@ -16349,6 +16357,7 @@ convokers
 convokes
 convoking
 convolute
+convolutes
 convolved
 convolves
 convolving
@@ -19127,6 +19136,7 @@ daunomycins
 daunter
 dauntless
 dauntlessness
+dauphine
 dauphines
 dauting
 dauts
@@ -20175,6 +20185,7 @@ demits
 demitted
 demiurgic
 demiurgical
+demivolt
 demivoltes
 demiworlds
 demob
@@ -24559,6 +24570,7 @@ eicosanoid
 eide
 eider
 eiderdown
+eiders
 eidetic
 eidola
 eidos
@@ -24639,6 +24651,7 @@ elderlies
 elderliness
 elderlinesses
 elders
+eldership
 elderships
 eldest
 elecampane
@@ -25603,6 +25616,7 @@ enmeshed
 enmeshes
 enmeshing
 enmeshment
+enmeshments
 enmities
 enmity
 ennead
@@ -28177,6 +28191,7 @@ fasten
 fasteners
 faster
 fastest
+fastidious
 fastidiously
 fasting
 fastings
@@ -35245,6 +35260,7 @@ headgates
 headgear
 headgears
 headhunt
+headhunted
 headhunter
 headhunts
 headier
@@ -38709,6 +38725,7 @@ incardination
 incarnadining
 incarnated
 incarnates
+incarnating
 incases
 incasing
 incaution
@@ -46537,6 +46554,7 @@ massage
 massager
 massages
 massaging
+massas
 masscult
 masses
 masseteric
@@ -49898,6 +49916,7 @@ mousetrapped
 mousetraps
 mousiest
 mousiness
+mousings
 moussaka
 mousseline
 moussing
@@ -52871,6 +52890,7 @@ nystagmus
 nystagmuses
 oafish
 oafishly
+oafishness
 oafishnesses
 oafs
 oak
@@ -54775,6 +54795,7 @@ outsmelt
 outsmile
 outsmoked
 outsnore
+outsnores
 outsnoring
 outsoared
 outsoars
@@ -64382,6 +64403,7 @@ rake
 raked
 rakees
 rakehell
+rakehells
 rakehelly
 rakeoff
 raker
@@ -65236,6 +65258,7 @@ reclaims
 reclames
 reclasp
 reclasped
+reclasps
 reclassifies
 reclassify
 reclean
@@ -65784,6 +65807,7 @@ reembody
 reembrace
 reembraces
 reembroidering
+reemerge
 reemerged
 reemergence
 reemergences
@@ -66326,6 +66350,7 @@ reinflating
 reinflations
 reinforce
 reinforcement
+reinforces
 reinforcing
 reinforming
 reinfuses
@@ -68318,6 +68343,7 @@ riata
 riatas
 rib
 ribald
+ribaldly
 ribaldry
 ribalds
 ribands
@@ -68409,6 +68435,7 @@ ridiculers
 ridicules
 ridiculing
 ridiculously
+riding
 ridings
 ridley
 ridleys
@@ -70613,6 +70640,7 @@ sciaticas
 science
 sciences
 sciential
+scientific
 scientism
 scientisms
 scientist
@@ -72951,6 +72979,7 @@ sifters
 sifting
 siftings
 siganid
+siganids
 sigh
 sighed
 sigher
@@ -76423,6 +76452,7 @@ stearates
 steatite
 steatopygia
 steatopygias
+steatopygic
 steatopygous
 steatorrhea
 steek
@@ -77109,6 +77139,7 @@ strengthener
 strengtheners
 strengthening
 strengthens
+strengths
 strenuosities
 strenuously
 strep
@@ -77321,6 +77352,7 @@ studlier
 studly
 studs
 studworks
+study
 studying
 stuff
 stuffier
@@ -82464,6 +82496,7 @@ tramlines
 trammed
 trammeler
 trammelers
+trammeling
 trammels
 tramontane
 tramped
@@ -85986,6 +86019,7 @@ unsights
 unsigned
 unskilful
 unskilled
+unskillful
 unskillfully
 unskillfulness
 unslakable
@@ -90564,6 +90598,7 @@ zapateos
 zapper
 zappers
 zappy
+zaps
 zaptiahs
 zaptieh
 zaratites
