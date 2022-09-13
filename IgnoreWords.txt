@@ -5944,6 +5944,7 @@ baresark
 barfed
 barfing
 barflies
+barfly
 bargained
 bargaining
 barge
@@ -12257,6 +12258,7 @@ chaff
 chaffered
 chafferer
 chafferers
+chaffering
 chaffinches
 chaffs
 chafing
@@ -14391,6 +14393,7 @@ cockup
 cocoanuts
 cocoas
 cocobolas
+cocobolo
 cocobolos
 cocomat
 coconspirator
@@ -14894,6 +14897,7 @@ colobus
 colocate
 colocated
 colocates
+colocynth
 colocynths
 cologarithm
 colombards
@@ -19382,8 +19386,10 @@ decadent
 decaf
 decagram
 decagrams
+decahedra
 decahedron
 decahedrons
+decal
 decalcified
 decaliter
 decaliters
@@ -21114,6 +21120,7 @@ dexy
 deys
 dezinc
 dezinced
+dezincing
 dezincs
 dhak
 dhal
@@ -23853,6 +23860,7 @@ dulcinea
 dulia
 dull
 duller
+dulling
 dullness
 dullsville
 dulness
@@ -25328,6 +25336,7 @@ encroachers
 encroaches
 encroaching
 encroachment
+encroachments
 encrustation
 encrusted
 encrusting
@@ -28660,6 +28669,7 @@ festive
 festiveness
 festivities
 festivity
+festooneries
 festoonery
 festoons
 fests
@@ -30815,6 +30825,7 @@ fremituses
 frena
 frenched
 frenches
+frenchification
 frenchified
 frenchify
 frenchifying
@@ -31698,6 +31709,7 @@ ganef
 ganevs
 gang
 gangbanged
+gangbanger
 gangbangs
 gangbuster
 gangbusters
@@ -35469,6 +35481,7 @@ hectic
 hectical
 hecticly
 hectograms
+hectograph
 hectoliter
 hectoliters
 hectometer
@@ -35954,6 +35967,7 @@ heterogonic
 heterogonies
 heterogony
 heterograft
+heterokaryon
 heterokaryons
 heterokaryoses
 heterologous
@@ -40793,6 +40807,7 @@ iodin
 iodinates
 iodine
 iodised
+iodises
 iodisms
 iodize
 iodized
@@ -46944,6 +46959,7 @@ mechanically
 mechanicians
 mechanics
 mechanisms
+mechanist
 mechanization
 mechanized
 mechanizers
@@ -47748,6 +47764,7 @@ miasmata
 miasmatic
 miasmic
 miaul
+miauled
 miauls
 mib
 micaceous
@@ -50750,6 +50767,7 @@ naissances
 naively
 naiveness
 naivenesses
+naives
 naivete
 naivetes
 naiveties
@@ -53870,6 +53888,7 @@ opus
 opuscula
 opusculum
 opuses
+oquassa
 or
 ora
 oraches
@@ -55170,6 +55189,7 @@ overcloud
 overclouded
 overclouding
 overclouds
+overcoached
 overcoaches
 overcoat
 overcold
@@ -55330,6 +55350,7 @@ overfamiliarity
 overfar
 overfast
 overfastidious
+overfear
 overfearing
 overfed
 overfeeding
@@ -61930,6 +61951,7 @@ presumes
 presuming
 presumingly
 presummit
+presummits
 presumption
 presumptions
 presumptively
@@ -63409,6 +63431,7 @@ punkinesses
 punkins
 punky
 punner
+punnet
 punningly
 punsters
 punt
@@ -64528,6 +64551,7 @@ ramosity
 ramous
 ramp
 rampage
+rampaged
 rampageousness
 rampager
 rampagers
@@ -70392,6 +70416,7 @@ scabby
 scabietic
 scabiouses
 scablands
+scablike
 scabrousnesses
 scad
 scaffold
@@ -72825,6 +72850,7 @@ showy
 shoyu
 shred
 shredders
+shredding
 shreds
 shrew
 shrewder
@@ -74172,6 +74198,7 @@ smatterings
 smatters
 smaze
 smazes
+smearer
 smearier
 smeariest
 smears
@@ -75376,6 +75403,7 @@ spectacular
 spectate
 spectated
 spectates
+spectating
 spectator
 spectatorial
 spectatorship
@@ -78285,6 +78313,7 @@ suiters
 suitings
 suitlike
 suitors
+sukiyaki
 sukiyakis
 sukkah
 sukkoth
@@ -79124,6 +79153,7 @@ sway
 swaybacks
 swayed
 swayers
+swaying
 swear
 swearer
 swearers
@@ -79342,6 +79372,7 @@ syllabicated
 syllabicates
 syllabication
 syllabics
+syllabifies
 syllabify
 syllabifying
 syllabism
@@ -83927,6 +83958,7 @@ turreted
 turrical
 turtle
 turtleback
+turtlebacks
 turtleheads
 turtleneck
 turtlenecks
@@ -84240,6 +84272,7 @@ uglifiers
 uglifies
 uglify
 uglifying
+uglily
 ugliness
 ugsome
 uhlans
@@ -86251,6 +86284,7 @@ untack
 untacked
 untacks
 untagged
+untainted
 untalented
 untamable
 untangle
@@ -87204,6 +87238,7 @@ vault
 vaulted
 vaulter
 vaulters
+vaultier
 vaultiest
 vaulting
 vaultingly
