@@ -1600,6 +1600,7 @@ alcohol
 alcoholically
 alcoholisms
 alcyonarians
+aldehyde
 aldehydic
 alderflies
 alderwomen
@@ -3843,6 +3844,7 @@ arboreal
 arboreally
 arbored
 arborescences
+arborescent
 arboretums
 arboricultural
 arborist
@@ -4809,6 +4811,7 @@ attrit
 attrite
 attrites
 attriting
+attrits
 attritted
 attritting
 attuned
@@ -5017,6 +5020,7 @@ autographically
 autographies
 autography
 autogyro
+autogyros
 autoharps
 autohypnoses
 autohypnosis
@@ -7558,6 +7562,7 @@ biomarkers
 biomass
 biomasses
 biomaterials
+biomathematical
 biomathematics
 biome
 biomes
@@ -11407,6 +11412,7 @@ carotidal
 carotins
 carousal
 carousals
+carouse
 caroused
 carousel
 carpalia
@@ -11625,6 +11631,7 @@ catacomb
 catadioptric
 catalase
 catalases
+catalectic
 catalectics
 catalepsies
 cataleptic
@@ -12939,6 +12946,7 @@ chionodoxas
 chip
 chipboards
 chipmuck
+chipmucks
 chipmunk
 chipotle
 chipotles
@@ -16341,6 +16349,7 @@ conveying
 conveyor
 conveyorise
 conveyorised
+conveyorises
 conveyorization
 conveyorize
 conveyorizes
@@ -23869,6 +23878,7 @@ dumped
 dumper
 dumpier
 dumpiest
+dumpinesses
 dumpling
 dumps
 dumpsite
@@ -25875,6 +25885,7 @@ entries
 entropic
 entropion
 entropions
+entrusted
 entrustment
 entrustments
 entry
@@ -27575,6 +27586,7 @@ extents
 extenuate
 extenuates
 extenuating
+extenuations
 extenuator
 extenuators
 extenuatory
@@ -27590,6 +27602,7 @@ extermination
 exterminations
 exterminator
 exterminators
+extermining
 extern
 external
 externalisation
@@ -36330,6 +36343,7 @@ hodgepodges
 hodoscopes
 hods
 hoecakes
+hoedowns
 hoelike
 hoers
 hoes
@@ -39310,6 +39324,7 @@ infantilizes
 infantilizing
 infantine
 infantry
+infantryman
 infantrymen
 infants
 infarcted
@@ -40998,6 +41013,7 @@ isochor
 isochores
 isochromosome
 isochrone
+isochrones
 isochronism
 isochronous
 isochronously
@@ -43115,6 +43131,7 @@ lambrequins
 lambrusco
 lambruscos
 lambskins
+lamby
 lame
 lamebrained
 lamebrains
@@ -45710,6 +45727,7 @@ madeiras
 madeleine
 mademoiselle
 maderize
+maderized
 maderizes
 maderizing
 madhouses
@@ -52491,6 +52509,7 @@ nonword
 nonwork
 nonworking
 nonwoven
+nonwovens
 nonwriters
 nonyl
 nonzero
@@ -53430,6 +53449,7 @@ oilskins
 oilstone
 oilstones
 oilway
+oinking
 oinks
 ointments
 oiticicas
@@ -58582,6 +58602,7 @@ phonogrammic
 phonograph
 phonographic
 phonographies
+phonography
 phonolite
 phonologic
 phonologists
@@ -59209,6 +59230,7 @@ pinfish
 pinfishes
 pinfolded
 pinfolds
+pinging
 pingoes
 pingrasses
 pinguid
@@ -60489,6 +60511,7 @@ ponying
 ponytail
 poo
 pooch
+pooches
 poodles
 poods
 poof
@@ -63145,6 +63168,7 @@ pubis
 public
 publically
 publication
+publications
 publicised
 publicity
 publicized
@@ -63691,6 +63715,7 @@ pyronines
 pyrophoric
 pyrophosphate
 pyrosises
+pyrostat
 pyrostats
 pyrotechnic
 pyrotechnical
@@ -65488,6 +65513,7 @@ recreative
 recrement
 recrements
 recriminated
+recriminates
 recriminating
 recriminatory
 recrosses
@@ -66077,6 +66103,7 @@ refreeze
 refreezes
 refreezing
 refresh
+refreshen
 refreshened
 refreshening
 refresher
@@ -66840,6 +66867,7 @@ renests
 renew
 renewabilities
 renewability
+renewals
 renewed
 renewer
 renews
@@ -69307,6 +69335,7 @@ ruggedly
 ruggedness
 ruggers
 rugola
+rugolas
 rugosa
 rugose
 rugosely
@@ -79984,6 +80013,7 @@ tardiest
 tardigrade
 tardily
 tardive
+tardo
 tardy
 tardyon
 tared
@@ -81927,6 +81957,7 @@ tolerantly
 tolerated
 toleration
 tolerators
+toles
 tolidines
 tolidins
 toling
@@ -82528,6 +82559,7 @@ trammed
 trammeler
 trammelers
 trammeling
+trammelled
 trammels
 tramontane
 tramped
@@ -83552,6 +83584,7 @@ trustingly
 trustingnesses
 trustor
 trusts
+trusty
 truthful
 truthfully
 truthfulnesses
@@ -86836,6 +86869,7 @@ vagile
 vaginal
 vaginated
 vaginitises
+vaginoses
 vagotomy
 vagotonia
 vagotonic
@@ -89859,6 +89893,7 @@ wonners
 wont
 wonted
 wontedly
+wontons
 woo
 woodbin
 woodbind

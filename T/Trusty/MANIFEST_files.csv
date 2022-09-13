@@ -1,0 +1,9 @@
+ubuntu-base-14.04.4-core-armhf.manifest - Ubuntu CDimage,http://cdimage.ubuntu.com/ubuntu-base/releases/trusty/release/ubuntu-base-14.04.4-core-armhf.manifest
+https://ftp.nluug.nl/os/Linux/distr/ubuntu-release...,https://ftp.nluug.nl/os/Linux/distr/ubuntu-releases/.manifest
+https://mirrors.aliyun.com/oldubuntu-releases/rele...,https://mirrors.aliyun.com/oldubuntu-releases/releases/12.04.4/ubuntu-12.04.5-desktop-amd64.manifest
+ftp.dei.uc.pt/pub/linux/xubuntu/releases/trusty/re...,http://ftp.dei.uc.pt/pub/linux/xubuntu/releases/trusty/release/xubuntu-14.04-desktop-amd64.manifest
+/usr/lib/thunderbird-addons/extensions/{e2fda1a4 ... - APT Browse,https://www.apt-browse.org/browse/ubuntu/trusty/universe/amd64/xul-ext-lightning/1:24.4.0%2Bbuild1-0ubuntu1/file/usr/lib/thunderbird-addons/extensions/%257Be2fda1a4-762b-4020-b5ad-a41df1933103%257D/components/calStorageCalendar.manifest
+/usr/lib/thunderbird-addons/extensions/{e2fda1a4 ... - APT Browse,https://www.apt-browse.org/browse/ubuntu/trusty/universe/amd64/xul-ext-lightning/1:24.4.0%2Bbuild1-0ubuntu1/file/usr/lib/thunderbird-addons/extensions/%257Be2fda1a4-762b-4020-b5ad-a41df1933103%257D/chrome.manifest
+scaleway-image-tools/public-images.manifest at master · ben0x539 ...,https://github.com/ben0x539/scaleway-image-tools/blob/master/public-images.manifest
+repo.ugm.ac.id/iso/lubuntu/trusty/release/lubuntu-...,http://repo.ugm.ac.id/iso/lubuntu/trusty/release/lubuntu-14.04.1-desktop-amd64%2Bmac.manifest
+mirror.rise.ph/ubuntu-iso/14.04/ubuntu-14.04.5-des...,http://mirror.rise.ph/ubuntu-iso/14.04/ubuntu-14.04.5-desktop-i386.manifest
