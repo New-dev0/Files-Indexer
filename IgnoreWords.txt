@@ -937,6 +937,7 @@ advocator
 advocators
 advowson
 advowsons
+adwoman
 adynamias
 adytum
 adze
@@ -3227,6 +3228,7 @@ antiquarks
 antiquary
 antiquated
 antiquates
+antiquation
 antiquations
 antique
 antiquely
@@ -4359,6 +4361,7 @@ assassinating
 assassination
 assassinator
 assassinators
+assassins
 assaulting
 assaultive
 assaultively
@@ -6175,6 +6178,7 @@ battalions
 batteau
 batteaux
 battement
+battements
 batten
 battener
 battens
@@ -12686,6 +12690,7 @@ chevalet
 chevalets
 chevaliers
 chevelures
+cheveron
 cheverons
 chevies
 cheviot
@@ -13224,6 +13229,7 @@ chubbier
 chubbiest
 chubby
 chuckawalla
+chucked
 chuckies
 chuckle
 chuckleheaded
@@ -17745,6 +17751,7 @@ crookeries
 crookneck
 crooks
 croon
+crooner
 crooners
 croons
 cropland
@@ -19224,6 +19231,7 @@ debiting
 debits
 debonair
 debonairly
+debonairness
 debone
 deboned
 deboning
@@ -20648,6 +20656,7 @@ desorption
 desorptions
 despair
 despaired
+despairer
 despatch
 desperadoes
 desperados
@@ -21422,6 +21431,7 @@ dilatoriness
 dilatorinesses
 dildoe
 dildoes
+dilemmas
 dilettantes
 dilettanti
 dilettantish
@@ -25013,6 +25023,7 @@ empoisoned
 empoisoning
 empoisons
 emporium
+emporiums
 empowered
 empowerment
 empressement
@@ -27476,6 +27487,7 @@ extortionary
 extortionate
 extortions
 extorts
+extrabold
 extracellular
 extracranial
 extract
@@ -35695,6 +35707,7 @@ hesitation
 hesitations
 hesitator
 hesitators
+hesperidins
 hesperidium
 hessonite
 hessonites
@@ -38349,6 +38362,7 @@ imprisons
 improbable
 improbably
 improbities
+impromptus
 improperly
 impropernesses
 improv
@@ -40265,6 +40279,7 @@ intoner
 intoners
 intoning
 intorted
+intoxicant
 intoxicate
 intoxications
 intracardiac
@@ -42580,6 +42595,7 @@ kultur
 kummel
 kummels
 kumquat
+kumquats
 kuna
 kundalini
 kundalinis
@@ -45537,6 +45553,7 @@ magnetises
 magnetising
 magnetisms
 magnetites
+magnetization
 magnetizations
 magnetize
 magnetizing
@@ -50961,6 +50978,7 @@ nervier
 nerviest
 nervines
 nerviness
+nervosities
 nervous
 nervousness
 nervousnesses
@@ -51840,6 +51858,7 @@ nonhormonal
 nonhospital
 nonhospitalized
 nonhousing
+nonhuman
 nonhumans
 nonhunter
 nonhunters
@@ -52711,6 +52730,7 @@ oblasts
 oblate
 oblateness
 oblatenesses
+oblations
 oblatory
 obligated
 obligates
@@ -56421,6 +56441,7 @@ paravanes
 parawings
 parbakes
 parbaking
+parboil
 parboiled
 parboiling
 parbuckle
@@ -57393,6 +57414,7 @@ penstemon
 penstemons
 penster
 penstock
+pentacle
 pentacles
 pentad
 pentagon
@@ -57412,6 +57434,7 @@ pentanol
 pentaploids
 pentaploidy
 pentarchies
+pentarchs
 pentathlete
 pentathletes
 pentathlon
@@ -57674,6 +57697,7 @@ peripetias
 peripeties
 peripety
 peripherally
+peripheries
 periphery
 periphrasis
 periphrastic
@@ -61867,6 +61891,7 @@ proa
 proabortion
 proactions
 proactive
+proas
 probabilisms
 probabilist
 probabilistic
@@ -62689,6 +62714,7 @@ psoriasis
 psoriatic
 psst
 pst
+psych
 psyche
 psyched
 psychedelia
@@ -65625,6 +65651,7 @@ reflated
 reflates
 reflating
 reflation
+reflationary
 reflations
 reflect
 reflecting
@@ -68660,6 +68687,7 @@ rotating
 rotation
 rotations
 rotatively
+rotator
 rotators
 rotatory
 rotavirus
@@ -68852,6 +68880,7 @@ rubigos
 rubles
 rubout
 rubouts
+rubric
 rubrical
 rubricates
 rubrications
@@ -70187,6 +70216,7 @@ schlemiels
 schlemihl
 schlemihls
 schlep
+schlepp
 schlepped
 schlocks
 schlocky
@@ -72733,6 +72763,7 @@ silkalines
 silked
 silkie
 silkier
+silkies
 silkiest
 silklike
 silkolines
@@ -73328,6 +73359,7 @@ slave
 slaved
 slaveholder
 slaveholding
+slaveholdings
 slavered
 slaverer
 slaverers
@@ -82879,6 +82911,7 @@ troak
 troaked
 troaking
 trocar
+trochal
 trochanter
 trochanteral
 trochanters
@@ -83016,6 +83049,7 @@ troweler
 trowelers
 troweling
 troweller
+trowelling
 trowels
 trowing
 trowth
@@ -87177,6 +87211,7 @@ videodisks
 videographer
 videographers
 videographies
+videography
 videolands
 videophile
 videotaping
