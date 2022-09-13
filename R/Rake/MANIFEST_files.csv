@@ -1,0 +1,11 @@
+kinetic-desktop-amd64.manifest - Ubuntu CDimage,https://cdimage.ubuntu.com/ubuntu-budgie/daily-live/current/kinetic-desktop-amd64.manifest
+https://cdimage.ubuntu.com/ubuntu-budgie/daily-liv...,https://cdimage.ubuntu.com/ubuntu-budgie/daily-live/20220909/kinetic-desktop-amd64.manifest
+Resetter/LinuxMint_19_X-Cinnamon_64bit_.manifest at master,https://github.com/gaining/Resetter/blob/master/Resetter/usr/lib/resetter/data/manifests/LinuxMint_19_X-Cinnamon_64bit_.manifest
+Resetter/Parrot_4.7_MATE_64bit_.manifest at master - GitHub,https://github.com/gaining/Resetter/blob/master/Resetter/usr/lib/resetter/data/manifests/Parrot_4.7_MATE_64bit_.manifest
+Packages.manifest - OpenWrt Downloads,https://downloads.openwrt.org/releases/17.01.0/packages/mipsel_24kc/packages/Packages.manifest
+https://downloads.openwrt.org/releases/17.01.6/pac...,https://downloads.openwrt.org/releases/17.01.6/packages/i386_i486/packages/Packages.manifest
+https://mirror.phx1.us.spryservers.net/centos/8-st...,https://mirror.phx1.us.spryservers.net/centos/8-stream/isos/aarch64/CentOS-Stream-8-aarch64-latest-dvd1.iso.manifest
+https://mirror.phx1.us.spryservers.net/almalinux/8...,https://mirror.phx1.us.spryservers.net/almalinux/8/isos/ppc64le/AlmaLinux-8.6-ppc64le-dvd.iso.manifest
+https://mirrors.aliyun.com/centos-vault/8.0.1905/i...,https://mirrors.aliyun.com/centos-vault/8.0.1905/isos/aarch64/CentOS-8-aarch64-1905-dvd1.iso.manifest
+downloads.pangubox.com:6380/pandorabox/19.01/packa...,http://downloads.pangubox.com:6380/pandorabox/19.01/packages/mipsel_1004kc_dsp/packages/Packages.manifest
+https://mirrors.xtom.jp/centos-stream/9-stream/Bas...,https://mirrors.xtom.jp/centos-stream/9-stream/BaseOS/s390x/iso/CentOS-Stream-9-20220726.1-s390x-dvd1.iso.manifest
