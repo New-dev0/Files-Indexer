@@ -5433,6 +5433,7 @@ backfire
 backfired
 backfires
 backfit
+backfitted
 backfitting
 backflip
 backflows
@@ -11050,6 +11051,7 @@ capacitively
 capacitor
 capacity
 caparisons
+cape
 capelan
 capelins
 capercaillies
@@ -11680,6 +11682,7 @@ catamite
 catamounts
 cataphoreses
 cataphoresis
+cataphoric
 cataphylls
 cataplasms
 cataplexies
@@ -11703,6 +11706,7 @@ catbrier
 catcall
 catcalled
 catcalling
+catch
 catchable
 catchall
 catcher
@@ -14381,6 +14385,7 @@ cockle
 cockleburs
 cockles
 cockleshell
+cockleshells
 cockloft
 cocklofts
 cockney
@@ -16348,6 +16353,7 @@ conversances
 conversancies
 conversancy
 conversant
+conversational
 conversations
 conversazioni
 converse
@@ -18450,6 +18456,7 @@ curliness
 curlinesses
 curling
 curlings
+curlpaper
 curls
 curlycues
 curmudgeonly
@@ -21861,6 +21868,7 @@ disaccording
 disaccords
 disaccustoms
 disadvantage
+disadvantaged
 disadvantages
 disadvantaging
 disaffected
@@ -22435,6 +22443,7 @@ disposition
 dispositive
 dispossess
 dispossessed
+dispossessing
 dispossession
 dispossessors
 disposure
@@ -22946,6 +22955,7 @@ dogmatizers
 dogmatizes
 dognap
 dognaped
+dognaper
 dognapers
 dognapped
 dognappers
@@ -23039,6 +23049,7 @@ domineer
 domineered
 domineering
 domineeringness
+dominical
 dominicker
 dominickers
 dominie
@@ -24960,6 +24971,7 @@ embarrassable
 embarrassedly
 embarrassment
 embarrassments
+embarred
 embarring
 embassage
 embassages
@@ -30305,6 +30317,7 @@ foreguts
 forehand
 forehanded
 forehandedly
+foreheads
 foreign
 foreignisms
 foreignnesses
@@ -34402,6 +34415,7 @@ gussy
 gustable
 gustables
 gustative
+gustatorily
 gusted
 gustily
 gustinesses
@@ -39126,6 +39140,7 @@ independents
 indescribably
 indestructible
 indestructibly
+indeterminacies
 indeterminacy
 indeterminate
 indeterminisms
@@ -40840,6 +40855,7 @@ inwound
 inwove
 inwoven
 iodate
+iodating
 iodation
 iodations
 iodid
@@ -41024,6 +41040,7 @@ irritate
 irritated
 irritatingly
 irritative
+irrupted
 irruptions
 irruptively
 irrupts
@@ -42967,6 +42984,7 @@ laagering
 lab
 labanotation
 labanotations
+labarum
 labarums
 labdanum
 labeled
@@ -43685,6 +43703,7 @@ layup
 lazar
 lazarette
 lazarettes
+lazaretto
 lazars
 lazied
 lazier
@@ -44837,6 +44856,7 @@ lo
 loach
 loaches
 loaded
+loader
 loading
 loadings
 loadmaster
@@ -46961,6 +46981,7 @@ mealtime
 mealybug
 mealybugs
 mean
+meander
 meaners
 meanest
 meanies
@@ -47421,6 +47442,7 @@ merchanted
 merchanting
 merchantman
 merchantmen
+merchants
 mercifully
 mercilessly
 mercurating
@@ -48957,6 +48979,7 @@ missenses
 missent
 misses
 missets
+misshaped
 misshapenly
 misshaper
 missies
@@ -51323,6 +51346,7 @@ nephropathies
 nephropathy
 nephrostome
 nephrotoxic
+nephrotoxicity
 nepotism
 nepotisms
 nepotists
@@ -53128,6 +53152,7 @@ obliquely
 obliqueness
 obliquenesses
 obliquing
+obliquities
 obliterate
 obliterated
 obliterative
@@ -53260,6 +53285,7 @@ ocarina
 occasional
 occasioned
 occasions
+occident
 occidental
 occidentalize
 occidentalized
@@ -54752,6 +54778,7 @@ outpatient
 outpatients
 outpeopled
 outpitched
+outpitching
 outpitied
 outplace
 outplacement
@@ -62678,6 +62705,7 @@ pronota
 pronounce
 pronounced
 pronouncedly
+pronouncement
 pronouncements
 pronouncer
 pronouncers
@@ -63940,6 +63968,7 @@ quaggy
 quagmire
 quagmires
 quagmiriest
+quagmiry
 quags
 quahogs
 quai
@@ -66657,6 +66686,7 @@ relabelling
 relabels
 relacquer
 relacquered
+relacquers
 reland
 relanding
 relandscaped
@@ -70382,6 +70412,7 @@ saul
 saults
 saunaed
 saunter
+saunterer
 saunters
 saurels
 saurians
@@ -76662,6 +76693,7 @@ steatorrhea
 steek
 steeked
 steeks
+steeled
 steelhead
 steelheads
 steelie
@@ -77245,6 +77277,7 @@ stramashes
 stramony
 strandednesses
 stranders
+strands
 strange
 strangely
 stranger
@@ -85869,6 +85902,7 @@ unmelted
 unmemorable
 unmemorably
 unmended
+unmentionables
 unmerited
 unmerry
 unmesh
@@ -90603,6 +90637,7 @@ yawningly
 yawns
 yawp
 yawpings
+yaws
 ycleped
 yclept
 yeahs
