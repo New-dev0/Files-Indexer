@@ -372,6 +372,7 @@ aces
 acescent
 aceta
 acetabulum
+acetaldehydes
 acetals
 acetamid
 acetamide
@@ -6996,6 +6997,7 @@ bescorched
 bescorches
 bescours
 bescreen
+bescreening
 beseech
 beseeches
 beseeching
@@ -7818,6 +7820,7 @@ blackcaps
 blackcock
 blackcocks
 blackdamp
+blacken
 blackened
 blackening
 blackenings
@@ -8969,6 +8972,7 @@ boyfriends
 boyhood
 boyishly
 boyishness
+boyishnesses
 boylas
 boys
 boysenberry
@@ -10353,6 +10357,7 @@ cachexic
 caching
 cachinnated
 cachinnates
+cachinnating
 cachinnation
 cachou
 cachucha
@@ -14251,6 +14256,7 @@ cobra
 cobwebbiest
 cobwebbing
 cocain
+cocainism
 cocainization
 cocainize
 cocainized
@@ -17164,6 +17170,7 @@ courant
 courante
 courantos
 courants
+courgettes
 courier
 couriers
 courlan
@@ -21219,6 +21226,7 @@ diastrophisms
 diatessaron
 diathermanous
 diathermic
+diathesis
 diatom
 diatomaceous
 diatomite
@@ -27569,6 +27577,7 @@ extolments
 extorted
 extortionary
 extortionate
+extortionately
 extortions
 extorts
 extrabold
@@ -30930,6 +30939,7 @@ frostbit
 frostbite
 frostbites
 frostbiting
+frostbitten
 frosted
 frostfish
 frostfishes
@@ -32099,6 +32109,7 @@ genotype
 genre
 genres
 genseng
+gentamicins
 genteel
 genteeler
 genteelest
@@ -34845,6 +34856,7 @@ haplontic
 haplopia
 haplopias
 haploses
+haplotypes
 happen
 happenchance
 happenchances
@@ -35159,6 +35171,7 @@ haymows
 hayrick
 hayricks
 hayride
+hayrides
 hays
 hayseed
 hazanim
@@ -40158,6 +40171,7 @@ intermediacies
 intermediacy
 intermediated
 intermediation
+intermedin
 intermesh
 intermeshing
 intermezzi
@@ -40410,6 +40424,7 @@ intoxicate
 intoxications
 intracardiac
 intracardial
+intracardially
 intracellular
 intracellularly
 intracity
@@ -41839,6 +41854,7 @@ juxtapose
 juxtaposed
 juxtaposes
 juxtaposing
+juxtapositional
 ka
 kaas
 kabab
@@ -44700,6 +44716,7 @@ lobo
 lobos
 lobotomise
 lobotomised
+lobotomises
 lobotomize
 lobotomized
 lobotomizing
@@ -46478,6 +46495,7 @@ massacres
 massage
 massager
 massages
+massaging
 masscult
 masses
 masseteric
@@ -50566,6 +50584,7 @@ myxomycetes
 na
 naans
 nabbed
+nabber
 nabbing
 nabis
 naboberies
@@ -51006,6 +51025,7 @@ neifs
 neigh
 neighbored
 neighboring
+neighborliness
 neighborly
 neighbors
 neighbour
@@ -53220,6 +53240,7 @@ of
 ofay
 off
 offal
+offbeat
 offed
 offended
 offenders
@@ -55806,6 +55827,7 @@ oxtongues
 oxy
 oxyacetylene
 oxyacid
+oxyacids
 oxycodones
 oxygenate
 oxygenated
@@ -57137,6 +57159,7 @@ paviors
 paviser
 pavises
 pavisses
+pavonine
 paw
 pawed
 pawing
@@ -58663,6 +58686,7 @@ phragmoplast
 phrase
 phrasemaker
 phrasemakers
+phrasemaking
 phrasemakings
 phrasemonger
 phrasemongering
@@ -61060,6 +61084,7 @@ precancelled
 precancelling
 precancer
 precarious
+precariously
 precariousness
 precast
 precative
@@ -61162,6 +61187,7 @@ preconvictions
 precooked
 precooking
 precooks
+precool
 precools
 precopulatory
 precreasing
@@ -65808,6 +65834,7 @@ refects
 refeeding
 refeeds
 refeeling
+refel
 refences
 refencing
 refer
@@ -67679,6 +67706,7 @@ retempered
 retempering
 retempers
 retems
+retenes
 retention
 retentions
 retentive
@@ -73886,6 +73914,7 @@ slumgullions
 slumgum
 slumgums
 slumism
+slumisms
 slumlord
 slumlords
 slummed
@@ -76717,6 +76746,7 @@ stodginess
 stodginesses
 stodging
 stogey
+stogies
 stogy
 stoically
 stoichiometric
@@ -79063,6 +79093,7 @@ swob
 swobbed
 swobbers
 swobbing
+swollen
 swooned
 swooner
 swoonier
@@ -80795,6 +80826,7 @@ thawed
 thawer
 thawless
 thearchies
+thearchy
 theatergoer
 theatergoers
 theatergoing
@@ -82270,6 +82302,7 @@ trackman
 trackmen
 trackpad
 tracks
+trackside
 tract
 tractability
 tractates
@@ -84331,6 +84364,7 @@ unbecomingness
 unbeknown
 unbelief
 unbelievable
+unbelievably
 unbelievers
 unbelieving
 unbelievingly
@@ -87399,6 +87433,7 @@ vibraharpist
 vibrant
 vibraphone
 vibraphonist
+vibrate
 vibrated
 vibration
 vibrationless
