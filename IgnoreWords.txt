@@ -5834,6 +5834,7 @@ banknote
 bankrolled
 bankrollers
 bankrolling
+bankrolls
 bankrupt
 bankruptcies
 bankrupted
@@ -7861,6 +7862,7 @@ blackhead
 blackheart
 blackish
 blackjack
+blackland
 blackleg
 blacklist
 blacklisters
@@ -9742,6 +9744,7 @@ buckskins
 buckteeth
 bucktooth
 bucktoothed
+buckyballs
 buckytubes
 bucolic
 bucolics
@@ -11454,6 +11457,7 @@ carrageen
 carrageenins
 carrageens
 carrefour
+carrell
 carrells
 carrels
 carrier
@@ -17431,6 +17435,7 @@ crafter
 craftier
 craftiest
 craftily
+craftiness
 craftinesses
 crafting
 crafts
@@ -18361,6 +18366,7 @@ cupidity
 cupola
 cupolas
 cuppa
+cuppiest
 cupping
 cupreous
 cuprous
@@ -19955,6 +19961,7 @@ degrades
 degranulation
 degranulations
 degrease
+degreasing
 degreed
 degrees
 degressive
@@ -20205,6 +20212,7 @@ demijohn
 demijohns
 demilitarize
 demilitarizes
+demilitarizing
 demilune
 demilunes
 demimondes
@@ -21324,6 +21332,7 @@ dibbing
 dibbled
 dibbuk
 dibbukim
+dibenzofuran
 dibromide
 dibromides
 dicamba
@@ -28247,6 +28256,7 @@ fasting
 fastings
 fastnesses
 fatalist
+fatalistic
 fatalists
 fatally
 fatback
@@ -31972,6 +31982,7 @@ gauges
 gauging
 gaum
 gaumed
+gaun
 gaunt
 gaunter
 gauntlet
@@ -34415,6 +34426,7 @@ guyline
 guyots
 guzzle
 guzzler
+guzzling
 gwine
 gybe
 gybed
@@ -34748,6 +34760,7 @@ hallways
 halm
 halo
 halobiont
+halobionts
 halocarbon
 halogen
 halogenate
@@ -34901,6 +34914,7 @@ hang
 hangable
 hangar
 hangbird
+hanging
 hangings
 hangman
 hangnail
@@ -35588,6 +35602,7 @@ heliometrically
 helios
 heliostat
 heliotrope
+heliotropic
 heliotropisms
 heliotype
 heliotyped
@@ -40109,6 +40124,7 @@ intercept
 intercepter
 intercepters
 interceptions
+interceptor
 interceptors
 intercession
 intercessor
@@ -40591,6 +40607,7 @@ intrigants
 intriguant
 intriguants
 intriguer
+intrigues
 intriguingly
 intrinsical
 intrinsically
@@ -41407,6 +41424,7 @@ jaspery
 jaspilites
 jassid
 jato
+jauk
 jauked
 jauking
 jauks
@@ -41940,6 +41958,7 @@ jurisdiction
 jurisprudences
 jurisprudents
 jurist
+juristic
 jurists
 jurors
 juryman
@@ -44775,6 +44794,7 @@ liverishnesses
 liverleaf
 livers
 liverwort
+liverworts
 liverwurst
 liverwursts
 livery
@@ -48972,6 +48992,7 @@ missuses
 missy
 mistake
 mistaken
+mistakers
 mistaking
 mistbow
 mistbows
@@ -52880,6 +52901,7 @@ numerology
 numerous
 numerously
 numerousness
+numinousnesses
 nummary
 nummular
 nun
@@ -54194,6 +54216,7 @@ oscitances
 oscitancies
 oscitant
 osculant
+oscule
 osculum
 ose
 osetra
@@ -64241,6 +64264,7 @@ rabbinical
 rabbins
 rabbit
 rabbitbrush
+rabbited
 rabbiting
 rabbitries
 rabbits
@@ -64479,6 +64503,7 @@ railings
 raillery
 railroad
 railroads
+rails
 railways
 rainbands
 rainbirds
@@ -65366,6 +65391,7 @@ reckon
 reckoner
 reckoners
 reckoning
+reckonings
 reclad
 recladded
 reclads
@@ -66622,6 +66648,7 @@ relational
 relationships
 relatives
 relativisms
+relativistic
 relativists
 relativity
 relativized
@@ -71552,6 +71579,7 @@ selenite
 selenitic
 seleniums
 selenologist
+selenology
 selfdom
 selfed
 selfheal
@@ -74258,6 +74286,7 @@ smirch
 smirched
 smirching
 smirk
+smirker
 smirkers
 smirkily
 smirking
@@ -77702,6 +77731,7 @@ subcortical
 subcostal
 subcostals
 subcounties
+subcritical
 subcrustal
 subcult
 subcults
@@ -81790,6 +81820,7 @@ tinctured
 tinctures
 tincturing
 tinder
+tinderboxes
 tinders
 tine
 tineas
@@ -84959,6 +84990,7 @@ undecideds
 undecillion
 undecillions
 undeciphered
+undecomposed
 undecorated
 undefaced
 undefeated
@@ -87219,6 +87251,7 @@ vasa
 vascula
 vascularity
 vascularization
+vasculums
 vase
 vasectomies
 vasectomize
@@ -87250,6 +87283,7 @@ vastitudes
 vastity
 vastly
 vasty
+vat
 vatfuls
 vatical
 vaticides
@@ -89028,6 +89062,7 @@ webworm
 webworms
 wedder
 wedders
+wedel
 wedeled
 wedeling
 wedelns
