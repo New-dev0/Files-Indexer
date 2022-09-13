@@ -1370,6 +1370,7 @@ agriculturist
 agriculturists
 agrimonies
 agrochemical
+agrochemicals
 agroforester
 agroforestries
 agrologic
@@ -1770,6 +1771,7 @@ allayed
 allee
 allegedly
 alleger
+allegoric
 allegorically
 allegoricalness
 allegories
@@ -1811,6 +1813,7 @@ alliaceous
 alliance
 allicin
 allicins
+allied
 allies
 alligator
 alligators
@@ -2621,6 +2624,7 @@ anemones
 anemophilous
 anencephalies
 anenst
+anent
 anergias
 aneroids
 anesthesia
@@ -6778,6 +6782,7 @@ belongings
 belons
 beloveds
 below
+belt
 belted
 belter
 belters
@@ -9089,6 +9094,7 @@ brasiers
 brasilein
 brasilin
 brasilins
+brasils
 brass
 brassarts
 brassbound
@@ -10163,6 +10169,7 @@ buttermilks
 butters
 butterscotch
 butterwort
+buttery
 buttheads
 butties
 butting
@@ -11845,6 +11852,7 @@ cavitied
 cavorters
 cavorts
 cavy
+caw
 caws
 cay
 cayman
@@ -25507,6 +25515,7 @@ enkindles
 enkindling
 enlace
 enlacements
+enlaces
 enlargement
 enlargements
 enlarger
@@ -29850,6 +29859,7 @@ fogger
 foggers
 foggier
 foggiest
+fogginess
 fogginesses
 foghorn
 foghorns
@@ -31096,6 +31106,7 @@ funfair
 funfairs
 funfest
 fungal
+fungals
 fungible
 fungibles
 fungicidal
@@ -34883,6 +34894,7 @@ harming
 harmless
 harmlessly
 harmlessness
+harmlessnesses
 harmonic
 harmonically
 harmonics
@@ -37643,6 +37655,7 @@ ichthyosaurian
 icicle
 iciest
 icing
+icings
 icker
 ickiest
 icky
@@ -41808,6 +41821,7 @@ kaifs
 kail
 kailyard
 kain
+kainites
 kainits
 kaiserdom
 kaiserism
@@ -45793,6 +45807,7 @@ malformations
 malfunction
 malfunctioning
 malgre
+malic
 malice
 malices
 malicious
@@ -49546,6 +49561,7 @@ mortarman
 mortarmen
 mortars
 mortgage
+mortgagee
 mortgagees
 mortgagers
 mortgagor
@@ -53430,6 +53446,7 @@ oologies
 oologists
 oolong
 oomiac
+oomiack
 oomiak
 oomiaks
 oompahs
@@ -55450,6 +55467,7 @@ overslipped
 overslipping
 oversoak
 oversoaked
+oversoaks
 oversouls
 overspecializes
 overspeculate
@@ -58895,6 +58913,7 @@ pilferages
 pilfered
 pilferers
 pilfering
+pilgarlic
 pilgarlics
 pilgrimages
 pilgrimaging
@@ -59756,6 +59775,7 @@ pneumococcal
 pneumococci
 pneumoconiosis
 pneumograph
+pneumonic
 pneumonitis
 pneumonitises
 pneumothoraces
@@ -60066,6 +60086,7 @@ polyene
 polyenic
 polyester
 polyesters
+polyethylenes
 polygamic
 polygamies
 polygamized
@@ -61589,6 +61610,7 @@ preslaughter
 preslices
 presoak
 presoaks
+presolved
 presolves
 presolving
 presort
@@ -67679,6 +67701,7 @@ retroacting
 retroaction
 retroactions
 retroactive
+retroactively
 retroactivities
 retrocede
 retroceded
@@ -68028,6 +68051,7 @@ rheumatologists
 rheumatology
 rheumier
 rheumiest
+rheums
 rheumy
 rhigolene
 rhigolenes
@@ -68362,6 +68386,7 @@ ripper
 rippers
 ripping
 rippled
+rippler
 ripples
 ripplet
 ripplets
@@ -68414,6 +68439,7 @@ ritualists
 ritualization
 ritualizing
 ritually
+ritzes
 ritzier
 rivage
 rivages
@@ -69461,6 +69487,7 @@ salifies
 salifying
 salimetries
 salina
+salinization
 salinizations
 salinizing
 saliva
@@ -70636,6 +70663,7 @@ screwups
 screwworm
 screwworms
 scribbler
+scribblers
 scribbles
 scribe
 scribes
@@ -72875,6 +72903,7 @@ silvae
 silvan
 silvans
 silvas
+silverbacks
 silverberry
 silverer
 silverfishes
@@ -74528,6 +74557,7 @@ somersault
 somersaulting
 somersaults
 somerseted
+somethings
 sometimes
 somewhat
 somewhats
@@ -75605,6 +75635,7 @@ sprinklering
 sprinklers
 sprinkles
 sprinkling
+sprinklings
 sprinted
 sprinters
 sprinting
@@ -79349,6 +79380,7 @@ tacts
 tactual
 tactually
 tad
+tadpoles
 tads
 taekwondo
 taekwondos
@@ -79360,6 +79392,7 @@ taffeta
 taffrails
 tafia
 tafias
+tag
 tagalong
 tagboard
 tagboards
@@ -81476,6 +81509,7 @@ titlist
 titman
 titmen
 titmice
+titrants
 titrated
 titrates
 titrating
@@ -90286,6 +90320,7 @@ zapper
 zappers
 zappy
 zaptiahs
+zaptieh
 zaratites
 zarebas
 zareeba
