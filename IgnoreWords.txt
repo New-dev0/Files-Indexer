@@ -3823,6 +3823,7 @@ arbitrate
 arbitrated
 arbitrates
 arbitrating
+arbitrational
 arbitrations
 arbitrator
 arbitrators
@@ -4433,6 +4434,7 @@ assigning
 assignments
 assignors
 assimilability
+assimilated
 assimilationism
 assimilationist
 assimilative
@@ -5165,6 +5167,7 @@ avouchments
 avow
 avowable
 avowably
+avowals
 avower
 avowing
 avows
@@ -9182,6 +9185,7 @@ breadthwise
 breadwinning
 break
 breakables
+breakage
 breakages
 breaker
 breakers
@@ -9555,6 +9559,7 @@ brownie
 brownier
 brownness
 brownnesses
+brownnose
 brownnosed
 brownnoser
 brownnosers
@@ -10755,6 +10760,7 @@ camshaft
 can
 canaille
 canailles
+canakins
 canal
 canalboat
 canaled
@@ -14377,6 +14383,7 @@ codeless
 codependences
 codependencies
 codependent
+coderived
 coderives
 coderiving
 coders
@@ -24623,6 +24630,7 @@ electroless
 electrologies
 electrology
 electrolyses
+electrolyte
 electrolytes
 electrolytic
 electrolyzed
@@ -25504,6 +25512,7 @@ enisle
 enisled
 enisling
 enjambement
+enjambements
 enjoinder
 enjoinders
 enjoins
@@ -25898,6 +25907,7 @@ ephedras
 ephedrines
 ephedrins
 ephemerae
+ephemeral
 ephemeralities
 ephemerally
 ephemerals
@@ -27438,6 +27448,7 @@ expurgatory
 exquisite
 exquisitely
 exquisites
+exsanguinates
 exsanguination
 exsanguinations
 exscind
@@ -28105,6 +28116,7 @@ fasteners
 faster
 fastest
 fastidiously
+fasting
 fastings
 fastnesses
 fatalist
@@ -30406,6 +30418,7 @@ fossettes
 fossick
 fossicked
 fossicks
+fossilise
 fossilised
 fossilises
 fossilising
@@ -31895,6 +31908,7 @@ geds
 geed
 geegaw
 geekdom
+geeked
 geekiest
 geekinesses
 geeky
@@ -35201,6 +35215,7 @@ headstays
 headstone
 headwaiters
 headways
+headwind
 headwinds
 headwords
 headworks
@@ -35587,6 +35602,7 @@ henceforth
 henchman
 hencoop
 hencoops
+hendecasyllable
 hendiadys
 hendiadyses
 henequen
@@ -41498,6 +41514,7 @@ joked
 jokers
 jokes
 jokester
+jokier
 jokiest
 jokinesses
 joking
@@ -42059,6 +42076,7 @@ keratitis
 keratitises
 keratoid
 keratoma
+keratomas
 keratose
 keratoses
 keratotic
@@ -42366,6 +42384,7 @@ kinkinesses
 kinks
 kino
 kinos
+kins
 kinsfolk
 kinship
 kinsmen
@@ -43164,6 +43183,7 @@ lardlike
 lardon
 lardoons
 laree
+largando
 largehearted
 largemouth
 largenesses
@@ -44273,6 +44293,7 @@ linecut
 linecuts
 lined
 lineman
+linerboard
 linerboards
 lines
 linesman
@@ -48089,6 +48110,7 @@ mining
 miniparks
 minipills
 minis
+minischool
 miniscule
 miniscules
 miniseries
@@ -50735,6 +50757,7 @@ naturalness
 natured
 natures
 naturist
+naturists
 naturopath
 naturopathic
 naturopathies
@@ -52732,6 +52755,7 @@ oaks
 oaky
 oar
 oarfish
+oarfishes
 oarless
 oarlike
 oars
@@ -57197,6 +57221,7 @@ pecorini
 pecorino
 pecs
 pecten
+pectens
 pectic
 pectinaceous
 pectination
@@ -57459,6 +57484,7 @@ penmanship
 penmen
 pennames
 pennant
+pennate
 penned
 penner
 penni
@@ -58189,6 +58215,7 @@ pharmacopeial
 pharmacopoeias
 pharming
 pharos
+pharoses
 pharyngal
 pharyngals
 pharyngeal
@@ -63239,6 +63266,7 @@ purple
 purpleheart
 purplehearts
 purples
+purplest
 purplish
 purportedly
 purpose
@@ -63819,6 +63847,7 @@ quinina
 quinines
 quinoa
 quinoid
+quinol
 quinolone
 quinols
 quinone
@@ -68837,6 +68866,7 @@ rouged
 rouges
 roughage
 roughages
+roughback
 roughbacks
 roughcast
 roughcasting
@@ -72444,6 +72474,7 @@ shortish
 shortlist
 shortlists
 shortly
+shortness
 shortsighted
 shortsightedly
 shortstop
@@ -72496,6 +72527,7 @@ showmanships
 showpieces
 showplace
 showring
+showrings
 showroom
 showstopper
 showstoppers
@@ -76210,6 +76242,7 @@ stearates
 steatite
 steatopygia
 steatopygias
+steatopygous
 steatorrhea
 steek
 steeked
@@ -87249,6 +87282,7 @@ vexillological
 vexillologist
 vexillologists
 viability
+viaduct
 viaducts
 vial
 vialing
@@ -89462,6 +89496,7 @@ wiverns
 wivers
 wiving
 wiz
+wizard
 wizardly
 wizards
 wizen
