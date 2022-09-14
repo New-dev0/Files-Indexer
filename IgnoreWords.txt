@@ -6554,6 +6554,7 @@ bedside
 bedsides
 bedsits
 bedsonias
+bedspring
 bedsprings
 bedstand
 bedstead
@@ -7416,6 +7417,7 @@ bilections
 bilevel
 bilevels
 bilge
+bilgier
 bilgiest
 bilging
 bilharziases
@@ -12238,6 +12240,7 @@ certainties
 certifiable
 certifiably
 certificate
+certificated
 certification
 certifications
 certificatory
@@ -12685,6 +12688,7 @@ checkmarking
 checkmarks
 checkmating
 checkoff
+checkoffs
 checkouts
 checkpoint
 checkpoints
@@ -16838,6 +16842,7 @@ corporeally
 corporeities
 corposants
 corps
+corpse
 corpses
 corpulently
 corpus
@@ -17003,6 +17008,7 @@ cosmopolite
 cosmopolites
 cosmopolitisms
 cosmos
+cosmotron
 cosponsored
 cosponsors
 cosponsorships
@@ -18043,6 +18049,7 @@ crownets
 crowning
 crownless
 crows
+crowstepped
 crozers
 croziers
 cruces
@@ -20465,6 +20472,7 @@ dentalium
 dentaliums
 dentally
 dentals
+dentate
 dentately
 dentation
 dentations
@@ -26691,6 +26699,7 @@ esthesis
 esthete
 esthetic
 esthetician
+estheticians
 estheticism
 estheticisms
 estimable
@@ -27603,6 +27612,7 @@ explodes
 exploitable
 exploitation
 exploitative
+exploited
 exploiters
 exploitive
 explorational
@@ -28309,6 +28319,7 @@ farther
 farthing
 farthingale
 farting
+fartlek
 fartleks
 fas
 fascia
@@ -33340,6 +33351,7 @@ goliaths
 golliwogs
 golly
 gollywog
+gollywogs
 golosh
 goloshes
 gombeens
@@ -35831,6 +35843,7 @@ hematoxylins
 hematozoa
 hematozoon
 hematuric
+hemelytra
 hemelytron
 hemelytrum
 hemerythrins
@@ -38264,6 +38277,7 @@ ilmenites
 image
 imaged
 imager
+imageries
 images
 imaginable
 imaginably
@@ -40267,6 +40281,7 @@ interarch
 interarched
 interarches
 interbasin
+interbedding
 interbeds
 interbranch
 interbred
@@ -40363,6 +40378,7 @@ interfertility
 interfiber
 interfiles
 interfiling
+interfirm
 interflow
 interflowed
 interflowing
@@ -43055,6 +43071,7 @@ kryolith
 krypton
 kuchen
 kuchens
+kudo
 kudus
 kudzu
 kudzus
@@ -44752,6 +44769,7 @@ linsangs
 linseed
 linstock
 linted
+lintel
 linter
 linters
 lintier
@@ -46166,6 +46184,7 @@ majuscule
 majuscules
 makable
 makars
+makeable
 makebate
 makefasts
 makeovers
@@ -46906,6 +46925,7 @@ masturbations
 masturbator
 masurium
 mat
+matadors
 match
 matchboard
 matchbook
@@ -51083,6 +51103,7 @@ nappy
 naprapathies
 naprapathy
 naproxen
+naproxens
 naps
 narceine
 narcism
@@ -52491,6 +52512,7 @@ nonlife
 nonlinearity
 nonliquid
 nonliquids
+nonliteral
 nonliterary
 nonliterate
 nonlives
@@ -53144,6 +53166,7 @@ nursed
 nursemaid
 nursemaids
 nurseryman
+nurserymen
 nursling
 nurturance
 nurturances
@@ -53784,6 +53807,7 @@ olestras
 olfaction
 olfactions
 olfactive
+olfactories
 olibanum
 olibanums
 oligarchy
@@ -54424,6 +54448,7 @@ os
 osar
 oscillated
 oscillates
+oscillating
 oscillation
 oscillational
 oscillatory
@@ -63383,6 +63408,7 @@ psi
 psilocin
 psilocybins
 psilophyte
+psilophytic
 psilosis
 psilotic
 psittacine
@@ -63527,6 +63553,7 @@ puckered
 puckerier
 puckeriest
 puckish
+puckishly
 puckishness
 pud
 puddle
@@ -64887,6 +64914,7 @@ ranching
 ranchless
 ranchman
 ranchmen
+rancho
 ranchos
 rancidities
 rancidity
@@ -75900,6 +75928,7 @@ sphinx
 sphygmic
 sphygmographs
 sphygmus
+sphygmuses
 sphynxes
 spicas
 spicate
@@ -76931,6 +76960,7 @@ steatopygous
 steatorrhea
 steek
 steeked
+steeking
 steeks
 steeled
 steelhead
@@ -82266,6 +82296,7 @@ titlist
 titman
 titmen
 titmice
+titmouse
 titrants
 titrated
 titrates
@@ -82919,6 +82950,7 @@ tradecraft
 traded
 trademark
 trademarked
+trademarks
 tradeoff
 trader
 traders
@@ -83401,6 +83433,7 @@ trendinesses
 trendoid
 trends
 trendsetter
+trendsetters
 trendsetting
 trepan
 trepanation
@@ -87520,6 +87553,7 @@ vara
 varactor
 varactors
 varia
+variability
 variable
 variablenesses
 variables
@@ -89136,6 +89170,7 @@ washups
 washwoman
 washwomen
 washy
+waspiest
 wasps
 wassailer
 wassailing
