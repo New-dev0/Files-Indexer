@@ -2901,6 +2901,7 @@ anovulatory
 anoxemia
 anoxias
 ansae
+ansate
 anserine
 answer
 answerable
@@ -4552,6 +4553,7 @@ asterias
 asteriated
 asterisk
 asterisked
+asteriskless
 asterisks
 asterism
 asterisms
@@ -5054,6 +5056,7 @@ autoloading
 autolysate
 autolysates
 autolysed
+autolysing
 autolysins
 autolyzate
 autolyzed
@@ -6638,6 +6641,7 @@ befinger
 befingered
 befingering
 befit
+befits
 befitted
 beflag
 beflagging
@@ -8252,6 +8256,7 @@ bluefin
 bluefins
 bluefish
 bluegills
+bluegrasses
 bluegum
 blueheads
 blueish
@@ -8934,6 +8939,7 @@ bourg
 bourgeois
 bourgeoise
 bourgeoises
+bourgeoisifies
 bourgeoisify
 bourgeon
 bourgeoned
@@ -10249,6 +10255,7 @@ butted
 butter
 butterball
 butterburs
+butterfat
 butterfingers
 butterflied
 butterflies
@@ -12414,6 +12421,7 @@ champagne
 champagnes
 champaign
 champer
+champerties
 champertous
 champerty
 champignons
@@ -12541,6 +12549,7 @@ chargehand
 charger
 chargers
 charging
+chargrill
 chargrilled
 chargrilling
 chargrills
@@ -23469,6 +23478,7 @@ downsides
 downsize
 downsized
 downslide
+downslides
 downslope
 downspin
 downspins
@@ -24347,6 +24357,7 @@ earthlight
 earthlights
 earthlike
 earthlinesses
+earthlings
 earthly
 earthmen
 earthmover
@@ -26709,6 +26720,7 @@ essaying
 essayistic
 essayists
 essential
+essentialism
 essentialisms
 essentialists
 essentialities
@@ -27753,6 +27765,7 @@ extemporise
 extemporised
 extemporises
 extemporising
+extemporize
 extemporizer
 extemporizing
 extend
@@ -31399,6 +31412,7 @@ fumarate
 fumaric
 fumaroles
 fumbler
+fumbling
 fumeless
 fumer
 fumers
@@ -32166,6 +32180,7 @@ gaun
 gaunt
 gaunter
 gauntlet
+gauntleted
 gauntleting
 gauntlets
 gauntly
@@ -33805,6 +33820,7 @@ grappler
 grapplers
 grappling
 graptolite
+graptolites
 grapy
 grasp
 graspable
@@ -35040,6 +35056,7 @@ handcar
 handcart
 handclaps
 handcrafting
+handcuffed
 handcuffs
 handed
 handedness
@@ -39037,6 +39054,7 @@ incaution
 incautions
 incautiously
 incendiaries
+incenses
 incensing
 incenters
 incentive
@@ -39085,6 +39103,7 @@ incitant
 incitation
 incite
 incited
+incitements
 inciter
 incites
 incivil
@@ -39198,6 +39217,7 @@ incorporates
 incorporating
 incorporation
 incorporations
+incorporeal
 incorporeity
 incorpse
 incorpses
@@ -42730,6 +42750,7 @@ killdeer
 killdeers
 killed
 killies
+killing
 killjoy
 killock
 killocks
@@ -47393,6 +47414,7 @@ megagametes
 megagametophyte
 megahertz
 megahit
+megahits
 megakaryocytic
 megaloblastic
 megalomania
@@ -48750,6 +48772,7 @@ misaltered
 misalters
 misanalysis
 misanthrope
+misanthropes
 misanthropic
 misanthropies
 misanthropy
@@ -53546,6 +53569,7 @@ obviable
 obviated
 obviates
 obviating
+obviation
 obviations
 obviator
 obviators
@@ -60626,6 +60650,7 @@ poleward
 poleyn
 poleyns
 policeman
+policer
 policers
 polices
 policies
@@ -66553,6 +66578,7 @@ reformer
 reformisms
 reformist
 reformists
+reformulated
 reformulating
 reformulation
 refortification
@@ -75808,6 +75834,7 @@ sparkplugged
 sparky
 sparling
 sparoid
+sparoids
 sparred
 sparriest
 sparrowlike
@@ -77438,6 +77465,7 @@ stockiest
 stockily
 stockinet
 stockinettes
+stocking
 stockinged
 stockist
 stockists
@@ -77921,6 +77949,7 @@ stroyers
 stroys
 struck
 strucken
+structuralism
 structuralisms
 structuralist
 structuralize
@@ -83983,6 +84012,7 @@ trochophore
 trocked
 trocking
 trod
+trode
 troffer
 troffers
 trog
@@ -85653,6 +85683,7 @@ undersell
 undersells
 underset
 undershirt
+undershirts
 undershoot
 undershorts
 underside
@@ -86228,6 +86259,7 @@ unknots
 unknowabilities
 unknowability
 unknowable
+unknowingly
 unknowings
 unknown
 unkosher
@@ -86285,6 +86317,7 @@ unlocks
 unloosed
 unloosened
 unloosening
+unlooses
 unloosing
 unlovable
 unloved
@@ -88343,6 +88376,7 @@ viewings
 viewpoints
 viewy
 viga
+vigas
 vigesimal
 vigil
 vigilant
@@ -88741,6 +88775,7 @@ voices
 voicing
 voicings
 void
+volant
 volante
 volatile
 volatiles
