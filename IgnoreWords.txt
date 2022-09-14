@@ -161,6 +161,7 @@ abysm
 abysses
 academias
 academic
+academically
 academicians
 academicisms
 academism
@@ -2020,6 +2021,7 @@ aluminic
 aluminize
 aluminized
 aluminizes
+aluminizing
 alumins
 aluminum
 aluminums
@@ -6830,6 +6832,7 @@ beluga
 belugas
 bema
 bemadams
+bemadden
 bemaddens
 bemas
 bemata
@@ -6993,6 +6996,7 @@ berkelium
 berks
 berlines
 berme
+bermes
 berming
 bernicle
 bernicles
@@ -8637,8 +8641,10 @@ bookish
 bookishly
 bookishness
 bookishnesses
+bookkeeper
 bookkeepers
 bookkeeping
+bookkeepings
 booklets
 booklice
 booklouse
@@ -9749,6 +9755,7 @@ buckteeth
 bucktooth
 bucktoothed
 buckyballs
+buckytube
 buckytubes
 bucolic
 bucolics
@@ -9902,6 +9909,7 @@ bullring
 bullrings
 bullrushes
 bulls
+bullshitting
 bullsnake
 bullweed
 bullweeds
@@ -19075,6 +19083,7 @@ dankest
 dankness
 danknesses
 dans
+danseurs
 dap
 daphne
 daphnes
@@ -21015,6 +21024,7 @@ detrude
 detruded
 detrusion
 detrusions
+detumescent
 deuced
 deucedly
 deuteranope
@@ -21725,6 +21735,7 @@ dionysian
 diopsides
 diopsidic
 dioptases
+dioptres
 diorama
 dioramic
 diorites
@@ -22260,6 +22271,7 @@ dishware
 dishwares
 dishwasher
 dishwater
+disillusioning
 disillusionment
 disincentive
 disincentives
@@ -26102,6 +26114,7 @@ epicyclic
 epicycloid
 epicycloidal
 epidemic
+epidemical
 epidemically
 epidemics
 epidemiologic
@@ -27783,6 +27796,7 @@ exultations
 exulted
 exultingly
 exurb
+exurban
 exurbanite
 exurbanites
 exurbs
@@ -30155,6 +30169,7 @@ foosballs
 footage
 footbags
 football
+footballer
 footballs
 footbaths
 footboard
@@ -37197,6 +37212,7 @@ hulloa
 hulloas
 hulloed
 hullooed
+hulloos
 hum
 human
 humane
@@ -42808,6 +42824,7 @@ knowledge
 knowns
 knubbier
 knuckleballs
+knucklebones
 knuckled
 knuckler
 knucklers
@@ -43028,6 +43045,7 @@ labradorites
 labradors
 labret
 labrets
+labroids
 labrum
 labrusca
 laburnums
@@ -44041,6 +44059,7 @@ leopards
 leotard
 leotarded
 leotards
+leper
 lepers
 lepidoptera
 lepidopteran
@@ -44666,6 +44685,7 @@ liquates
 liquation
 liquations
 liquefaction
+liquefied
 liquefier
 liquefiers
 liquefying
@@ -45458,6 +45478,7 @@ luminescent
 luminiferous
 luminist
 luminous
+luminously
 luminousness
 lummoxes
 lump
@@ -58035,6 +58056,7 @@ perfectivity
 perfectness
 perfecto
 perfects
+perfervid
 perfidies
 perfidious
 perfidiously
@@ -58972,6 +58994,7 @@ phyllaries
 phyllite
 phyllitic
 phyllo
+phylloclade
 phylloclades
 phyllodes
 phyllodium
@@ -62327,6 +62350,7 @@ prismatic
 prismoidal
 prisoners
 priss
+prisses
 prissier
 prissies
 prissiest
@@ -65292,6 +65316,7 @@ rebuild
 rebuilding
 rebuilds
 rebuke
+rebuked
 rebuker
 rebukes
 rebuking
@@ -66794,6 +66819,7 @@ relishable
 relishes
 relishing
 relist
+relive
 relived
 relives
 reliving
@@ -67284,6 +67310,7 @@ repositioning
 repositories
 repository
 reposits
+repossesses
 repossession
 repossessor
 repossessors
@@ -68141,6 +68168,7 @@ retrofitting
 retroflections
 retroflexes
 retroflexion
+retroflexions
 retrogradation
 retrograded
 retrogradely
@@ -69486,6 +69514,7 @@ ruga
 rugate
 rugby
 ruggeder
+ruggedizations
 ruggedize
 ruggedizing
 ruggedly
@@ -70900,6 +70929,7 @@ sciuroid
 sclaffed
 sclaffers
 sclaffing
+sclaffs
 sclera
 sclereid
 sclerenchyma
@@ -71245,6 +71275,7 @@ scurrility
 scurry
 scurrying
 scurviest
+scurvy
 scut
 scutages
 scutched
@@ -79811,6 +79842,7 @@ tabouli
 taboulis
 tabour
 tabouret
+tabouring
 tabours
 tabs
 tabuing
@@ -80174,6 +80206,7 @@ tapestry
 tapestrying
 tapetal
 taphonomic
+taphonomist
 taphouse
 tapiocas
 tapir
@@ -80765,6 +80798,7 @@ tendresse
 tendril
 tendrilled
 tendrilous
+tends
 tendu
 tenebrific
 tenebrionid
@@ -85746,6 +85780,7 @@ unitarianisms
 unitarians
 unitarily
 unite
+uniter
 uniters
 unities
 uniting
