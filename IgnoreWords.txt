@@ -6530,6 +6530,7 @@ bedpost
 bedposts
 bedquilts
 bedraggled
+bedraggling
 bedrid
 bedridden
 bedrivel
@@ -11411,6 +11412,7 @@ carlings
 carlins
 carlish
 carloads
+carmagnole
 carmakers
 carman
 carminative
@@ -11509,6 +11511,7 @@ carryout
 carryover
 carryovers
 cart
+carte
 carted
 cartelise
 cartelised
@@ -11593,6 +11596,7 @@ cashmeres
 cashoo
 casimeres
 casing
+casini
 casino
 casita
 casitas
@@ -12521,6 +12525,7 @@ chariness
 charinesses
 charing
 charism
+charisma
 charismas
 charismata
 charismatics
@@ -19401,6 +19406,7 @@ debaucher
 debauchery
 debeak
 debeaked
+debeaking
 debeaks
 debearding
 debeards
@@ -25578,6 +25584,7 @@ endurer
 endures
 enduring
 enduringly
+enduringness
 enduro
 endwise
 enemata
@@ -26133,6 +26140,7 @@ epicontinental
 epicotyl
 epicotyls
 epicrania
+epicritic
 epics
 epicure
 epicurean
@@ -27378,6 +27386,7 @@ exhorts
 exhumed
 exigences
 exigencies
+exigent
 exigently
 exiguity
 exiguous
@@ -28727,6 +28736,7 @@ ferrosilicons
 ferrotype
 ferruginous
 ferrule
+ferruled
 ferrules
 ferrums
 ferry
@@ -29567,6 +29577,7 @@ flauntily
 flaunting
 flauntingly
 flaunty
+flautists
 flavanol
 flavanone
 flavin
@@ -32965,6 +32976,7 @@ gloater
 gloaters
 gloating
 gloatingly
+globalises
 globalising
 globalism
 globalisms
@@ -34055,6 +34067,7 @@ grody
 grog
 groggeries
 groggery
+grogginesses
 groggy
 grograms
 grogs
@@ -35208,6 +35221,7 @@ harrower
 harrows
 harrumphed
 harrumphing
+harrumphs
 harry
 harshen
 harshened
@@ -35913,6 +35927,7 @@ hepatomegalies
 hepatomegaly
 hepatotoxicity
 hepcats
+hepper
 heptachlor
 heptagon
 heptagonal
@@ -44500,6 +44515,7 @@ lignitic
 lignocelluloses
 lignosulfonates
 ligroine
+ligroines
 ligulae
 ligulas
 ligule
@@ -46069,6 +46085,7 @@ mainframes
 mainlander
 mainlands
 mainline
+mainliners
 mainlining
 mainmast
 mainmasts
@@ -49466,6 +49483,7 @@ momently
 momentous
 momentousness
 momentum
+momentums
 momi
 momism
 momisms
@@ -51204,6 +51222,7 @@ nazis
 ne
 neap
 near
+nearest
 nearing
 nearly
 nears
@@ -51460,6 +51479,7 @@ nerdiest
 nerdinesses
 nerds
 nerdy
+nereid
 nereids
 nerol
 neroli
@@ -52947,6 +52967,7 @@ nubby
 nubias
 nubility
 nubilous
+nubs
 nubuck
 nucellar
 nucelli
@@ -53149,6 +53170,7 @@ nymphomanias
 nystagmic
 nystagmus
 nystagmuses
+nystatin
 oafish
 oafishly
 oafishness
@@ -55785,6 +55807,7 @@ overplans
 overplanted
 overplied
 overplotting
+overpluses
 overply
 overplying
 overpopulating
@@ -58367,6 +58390,7 @@ perpetuated
 perpetuates
 perpetuation
 perpetuations
+perpetuator
 perpetuities
 perphenazines
 perplex
@@ -63760,6 +63784,7 @@ purposeful
 purposeless
 purposelessly
 purposively
+purpura
 purpure
 purpures
 purpurin
@@ -65868,6 +65893,7 @@ recycling
 redacted
 redacting
 redactions
+redan
 redans
 redargued
 redarguing
@@ -67282,6 +67308,7 @@ repayments
 repays
 repealer
 repealing
+repeals
 repeat
 repeatable
 repeaters
@@ -73072,6 +73099,7 @@ shovelsful
 shover
 shoves
 shoving
+show
 showable
 showbiz
 showbizzes
@@ -79573,6 +79601,7 @@ swivet
 swivets
 swiving
 swizzle
+swizzler
 swizzlers
 swizzles
 swizzling
@@ -79620,6 +79649,7 @@ sybarites
 sybaritic
 sybaritically
 sybaritisms
+syboes
 sycamines
 sycamore
 sycees
@@ -80068,6 +80098,7 @@ tailbacks
 tailboard
 tailboards
 tailbone
+tailcoat
 tailcoated
 tailcoats
 tailenders
@@ -80808,6 +80839,7 @@ tellurometers
 tellurous
 telnet
 telneting
+telnetting
 telocentric
 telome
 telomere
@@ -83296,6 +83328,7 @@ trencher
 trenchers
 trenches
 trenching
+trended
 trendier
 trendies
 trendiest
@@ -85099,6 +85132,7 @@ uncocked
 uncocking
 uncocks
 uncoded
+uncodified
 uncoerced
 uncoercively
 uncoffined
@@ -88074,6 +88108,7 @@ viewings
 viewpoints
 viewy
 viga
+vigesimal
 vigil
 vigilant
 vigilante
