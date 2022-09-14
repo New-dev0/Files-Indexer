@@ -3331,6 +3331,7 @@ antistate
 antistories
 antistory
 antistrike
+antistrophic
 antistudent
 antisubmarine
 antisubversive
@@ -10517,6 +10518,7 @@ cageynesses
 cagier
 cagiest
 cagily
+caginess
 caginesses
 caging
 cahoots
@@ -11696,6 +11698,7 @@ catalyzed
 catalyzer
 catamaran
 catamarans
+catamenia
 catamenial
 catamite
 catamounts
@@ -13304,6 +13307,7 @@ chromogen
 chromogens
 chromomeres
 chromomeric
+chromonema
 chromonematic
 chromoplasts
 chromoprotein
@@ -14083,6 +14087,7 @@ closeout
 closeouts
 closers
 closest
+closestools
 closet
 closeted
 closetful
@@ -16303,6 +16308,7 @@ contrastable
 contrasted
 contrastive
 contrasts
+contrasty
 contravene
 contravener
 contredanses
@@ -17049,6 +17055,7 @@ cottonwood
 cottonwoods
 coturnix
 coturnixes
+cotyledon
 cotyledons
 cotylosaurs
 couched
@@ -18666,6 +18673,7 @@ cyanided
 cyanides
 cyaniding
 cyanin
+cyanine
 cyanines
 cyanins
 cyanite
@@ -27222,6 +27230,7 @@ exclusivists
 exclusivities
 exclusory
 excogitate
+excogitation
 excogitations
 excogitative
 excommunicate
@@ -28383,6 +28392,7 @@ faultfinders
 faultfinding
 faultfindings
 faultiness
+faultlessly
 faultlessnesses
 fauna
 faunal
@@ -32201,6 +32211,7 @@ gemmated
 gemmates
 gemmating
 gemmation
+gemmations
 gemmed
 gemmier
 gemmiest
@@ -32489,6 +32500,7 @@ get
 getable
 getaways
 gets
+gettered
 getting
 getup
 geum
@@ -33251,6 +33263,7 @@ goffering
 gofferings
 goffers
 goggle
+goggler
 goggles
 gogglier
 goglet
@@ -39733,6 +39746,7 @@ inimitably
 inion
 iniquities
 iniquitous
+iniquitously
 iniquitousness
 iniquity
 initial
@@ -39860,6 +39874,7 @@ inoperculates
 inopportunely
 inorganic
 inorganically
+inosculate
 inosculated
 inosculates
 inosculation
@@ -40094,6 +40109,7 @@ insufficiency
 insufficient
 insufficiently
 insufflate
+insufflated
 insufflation
 insufflations
 insufflator
@@ -40290,6 +40306,7 @@ interfaculty
 interfamilial
 interferential
 interferer
+interfering
 interferometry
 interferons
 interfertility
@@ -41776,6 +41793,7 @@ jockos
 jockstrap
 jockstraps
 jocose
+jocoseness
 jocosenesses
 jocular
 jocund
@@ -46657,6 +46675,7 @@ marrer
 marrers
 marriage
 marriageable
+marriages
 married
 marrieds
 marrons
@@ -48353,6 +48372,7 @@ mimbar
 mimbars
 mime
 mimed
+mimeograph
 mimeographs
 mimeos
 mimer
@@ -51698,6 +51718,7 @@ nicknaming
 nicol
 nicotiana
 nicotianas
+nicotin
 nicotinamide
 nicotinic
 nicotins
@@ -53137,6 +53158,7 @@ oak
 oaken
 oakiest
 oaks
+oakums
 oaky
 oar
 oarfish
@@ -59802,6 +59824,7 @@ planarias
 planarities
 planate
 planation
+planch
 planchets
 planed
 planenesses
@@ -68468,6 +68491,7 @@ revolutionises
 revolutionising
 revolutionized
 revolutionizer
+revolutionizing
 revolvable
 revolve
 revolved
@@ -72770,6 +72794,7 @@ shiftlessly
 shiftlessnesses
 shifts
 shigellas
+shigelloses
 shikaree
 shikarees
 shikari
@@ -74284,6 +74309,7 @@ slouching
 sloughier
 sloughiest
 sloughs
+sloughy
 sloven
 slovenlier
 slovenliest
@@ -75340,6 +75366,7 @@ sou
 souari
 souaris
 soubise
+soubises
 soubrette
 soubrettes
 soucars
@@ -75705,6 +75732,7 @@ speleological
 speleologies
 speleologist
 speleologists
+speleology
 spellbind
 spellbinds
 spelldowns
@@ -79145,6 +79173,7 @@ surbase
 surbased
 surbases
 surceasing
+surcharges
 surcingle
 surcingles
 surcingling
@@ -79911,6 +79940,7 @@ tabers
 tabetics
 tabid
 tablas
+tablature
 tablatures
 tableaus
 tablecloth
@@ -81615,6 +81645,7 @@ thrashings
 thrasonical
 thrasonically
 thrave
+thrawart
 thrawed
 thrawing
 thrawn
@@ -87092,6 +87123,7 @@ usableness
 usablenesses
 usage
 usages
+usaunces
 used
 usefulness
 user
@@ -87224,6 +87256,7 @@ vakeels
 valance
 valanced
 valances
+valancing
 vale
 valedictions
 valedictorians
@@ -88048,6 +88081,7 @@ vigilantes
 vigilantism
 vigilantisms
 vigilantly
+vigils
 vigintillion
 vignerons
 vignette
@@ -88958,6 +88992,7 @@ warsle
 warsled
 warsles
 warstle
+warstled
 warstles
 warstling
 warthog
