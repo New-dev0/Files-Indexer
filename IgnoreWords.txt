@@ -3438,6 +3438,7 @@ apathetic
 apathies
 apatosaur
 apatosaurs
+apatosaurus
 apatosauruses
 ape
 aped
@@ -3867,6 +3868,7 @@ arboreally
 arbored
 arborescences
 arborescent
+arboreta
 arboretums
 arboricultural
 arborist
@@ -6867,6 +6869,7 @@ bemedalled
 bemingle
 bemingled
 bemingles
+bemires
 bemiring
 bemisted
 bemisting
@@ -8629,6 +8632,7 @@ bonobo
 bonsai
 bonspell
 bonspells
+bonspiels
 bonteboks
 bonuses
 bony
@@ -8678,6 +8682,7 @@ bookkeeper
 bookkeepers
 bookkeeping
 bookkeepings
+booklet
 booklets
 booklice
 booklouse
@@ -14759,6 +14764,7 @@ coiffes
 coiffeurs
 coiffeuse
 coiffeuses
+coiffing
 coiffure
 coiffures
 coigne
@@ -18352,6 +18358,7 @@ culler
 cullers
 cullets
 cullied
+cullies
 culling
 cullions
 cullis
@@ -19061,6 +19068,7 @@ dalesmen
 daleth
 daleths
 dalles
+dalliance
 dallier
 dally
 dallying
@@ -21507,6 +21515,7 @@ dicot
 dicotyl
 dicotyledonous
 dicotyls
+dicoumarin
 dicoumarol
 dicoumarols
 dicrotisms
@@ -21563,6 +21572,7 @@ dies
 dieseled
 dieseling
 dieselized
+dieselizes
 dieselizing
 diesels
 diesters
@@ -21796,6 +21806,7 @@ dingle
 dingleberries
 dingoes
 dinitrobenzene
+dinitrobenzenes
 dinitrophenol
 dinked
 dinkeys
@@ -23419,6 +23430,7 @@ dovetailing
 dovetails
 dovishness
 dow
+dowable
 dowager
 dowagers
 dowdier
@@ -24293,6 +24305,7 @@ dystrophic
 dystrophy
 dysurias
 dyvours
+each
 eager
 eagerer
 eagerly
@@ -30191,6 +30204,7 @@ foehn
 foeman
 foemen
 foes
+foetal
 foetors
 foetus
 foetuses
@@ -30537,6 +30551,7 @@ foreshank
 foresheet
 foreshock
 foreshores
+foreshowed
 foreshowing
 foreshown
 foreshows
@@ -33127,6 +33142,7 @@ gloppiest
 gloppy
 glops
 gloried
+glorification
 glorify
 glorioles
 glorious
@@ -33663,6 +33679,7 @@ gradiometer
 gradualism
 gradualnesses
 graduals
+graduand
 graduated
 graduates
 graduating
@@ -33899,6 +33916,7 @@ gravidly
 gravies
 gravimeter
 gravimeters
+gravimetric
 gravimetrically
 gravimetry
 gravitas
@@ -35482,6 +35500,7 @@ hawed
 hawing
 hawkbill
 hawked
+hawker
 hawkie
 hawking
 hawkings
@@ -37525,6 +37544,7 @@ hunkey
 hunkeys
 hunkie
 hunky
+hunnish
 huns
 hunted
 hunters
@@ -38292,6 +38312,7 @@ illegalizing
 illegals
 illegibility
 illegitimacies
+illegitimately
 iller
 illiberalisms
 illiberalities
@@ -43642,6 +43663,7 @@ lanthanides
 lanthanon
 lanthorns
 lanugo
+lanugos
 lanyard
 lap
 laparoscope
@@ -43978,6 +44000,7 @@ leachabilities
 leachability
 leachate
 leachates
+leached
 leaches
 lead
 leaded
@@ -44042,6 +44065,7 @@ leapt
 learier
 learn
 learnedly
+learning
 learnings
 learns
 lears
@@ -66124,6 +66148,7 @@ redbaited
 redbaiter
 redbaiters
 redbay
+redbird
 redbirds
 redbone
 redbones
@@ -69679,6 +69704,7 @@ roughhewed
 roughhewing
 roughhoused
 roughies
+roughing
 roughleg
 roughlegs
 roughneck
@@ -74499,6 +74525,7 @@ slipcase
 slipcover
 slipcovered
 slipcovering
+slipdress
 slipe
 sliped
 slipes
@@ -76626,6 +76653,7 @@ spying
 squabble
 squabblers
 squabbles
+squabbling
 squabs
 squad
 squadded
@@ -77469,6 +77497,7 @@ stoae
 stoai
 stoats
 stob
+stobbing
 stobs
 stoccata
 stoccatas
@@ -80991,6 +81020,7 @@ teffs
 tefillin
 teflon
 teg
+tegmentum
 tegminal
 teguas
 teguments
@@ -81492,6 +81522,7 @@ testiest
 testifier
 testifiers
 testifies
+testifying
 testimonials
 testiness
 testinesses
@@ -81742,6 +81773,7 @@ thermochemist
 thermochemistry
 thermochemists
 thermoclines
+thermocouple
 thermocouples
 thermoduric
 thermodynamics
@@ -82118,6 +82150,7 @@ thylacines
 thylakoids
 thyme
 thymectomized
+thymectomizes
 thymectomizing
 thymectomy
 thymes
@@ -90019,6 +90052,7 @@ whistlers
 whistlings
 white
 whitecomb
+whitecombs
 whiteface
 whitefishes
 whiteflies
@@ -90226,6 +90260,7 @@ wilderness
 wilders
 wildfire
 wildflowers
+wildfowl
 wildfowlers
 wildfowling
 wildfowlings
