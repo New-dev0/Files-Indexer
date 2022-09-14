@@ -1850,6 +1850,7 @@ allografts
 allometries
 allometry
 allomorph
+allomorphs
 allonym
 allopathies
 allopatric
@@ -9474,6 +9475,7 @@ brittling
 britzkas
 bro
 broach
+broached
 broacher
 broadbands
 broadbean
@@ -10973,6 +10975,7 @@ cannoned
 cannoneer
 cannoning
 cannot
+cannulas
 cannulated
 cannulating
 canny
@@ -11165,6 +11168,7 @@ capsulate
 capsulated
 capsules
 capsulizes
+capsulizing
 captain
 captaincies
 captaincy
@@ -18206,6 +18210,7 @@ cryptonyms
 cryptorchid
 cryptorchidism
 cryptorchidisms
+cryptorchids
 cryptosporidium
 cryptozoologies
 crypts
@@ -18544,6 +18549,7 @@ curser
 cursers
 cursing
 cursive
+cursively
 cursivenesses
 cursor
 cursoriness
@@ -19491,6 +19497,7 @@ decamped
 decampments
 decamps
 decane
+decantation
 decanted
 decanter
 decanting
@@ -20502,6 +20509,7 @@ dentural
 denture
 dentures
 denturists
+denuclearized
 denuclearizes
 denudated
 denudates
@@ -22771,6 +22779,7 @@ distrusted
 distrustfully
 distrusts
 disturbances
+disturbed
 disturbers
 disturbingly
 disturbs
@@ -25860,6 +25869,7 @@ enshrinee
 enshrinees
 enshrinements
 enshrines
+enshrining
 enshroud
 ensiform
 ensign
@@ -26303,6 +26313,7 @@ epitaxially
 epitaxic
 epitaxy
 epithalamiums
+epithelia
 epithelial
 epithelialize
 epithelialized
@@ -31857,6 +31868,7 @@ gammier
 gamming
 gammon
 gammoner
+gammoners
 gammoning
 gammons
 gammy
@@ -33601,6 +33613,7 @@ gradine
 gradiometer
 gradualism
 gradualnesses
+graduals
 graduated
 graduates
 graduating
@@ -35565,6 +35578,7 @@ healthiness
 heaper
 heaps
 heapy
+hearer
 hearers
 hearings
 hearken
@@ -35627,6 +35641,7 @@ heathland
 heathlands
 heathless
 heaths
+heatproof
 heaumes
 heaven
 heavenlier
@@ -42716,6 +42731,7 @@ kilovolts
 kilowatt
 kilt
 kiltie
+kilties
 kiltlike
 kilty
 kimchee
@@ -43882,6 +43898,7 @@ lazarette
 lazarettes
 lazaretto
 lazars
+lazes
 lazied
 lazier
 lazily
@@ -44327,6 +44344,7 @@ levelly
 levelness
 levelnesses
 levels
+leverages
 leveret
 leverets
 leviable
@@ -48919,6 +48937,7 @@ miserly
 misesteem
 misesteemed
 misesteeming
+misestimate
 misestimates
 misestimating
 misevaluate
@@ -51638,6 +51657,7 @@ neuroanatomist
 neuroanatomists
 neurobiological
 neurobiologist
+neurobiology
 neuroblastomata
 neurochemical
 neurochemists
@@ -53824,6 +53844,7 @@ olestras
 olfaction
 olfactions
 olfactive
+olfactometer
 olfactories
 olibanum
 olibanums
@@ -54973,6 +54994,7 @@ outmastered
 outmastering
 outmasters
 outmatch
+outmatched
 outmatches
 outmode
 outmoded
@@ -55577,6 +55599,7 @@ overdog
 overdominances
 overdominant
 overdone
+overdosages
 overdose
 overdosed
 overdoses
@@ -58409,6 +58432,7 @@ periwinkles
 perjurer
 perjures
 perjurious
+perjury
 perk
 perkiest
 perkiness
@@ -60880,6 +60904,7 @@ ponytail
 poo
 pooch
 pooches
+poodle
 poodles
 poods
 poof
@@ -61099,6 +61124,7 @@ postcava
 postcaval
 postcavas
 postclassic
+postcodes
 postcollege
 postcollegiate
 postconception
@@ -61408,6 +61434,7 @@ practised
 practitioner
 praedial
 praefect
+praelect
 praenomen
 praenomina
 praesidia
@@ -61571,6 +61598,7 @@ precanceled
 precancelled
 precancelling
 precancer
+precapitalist
 precarious
 precariously
 precariousness
@@ -68580,6 +68608,7 @@ reviolating
 revisable
 revisals
 reviser
+revisers
 revises
 revising
 revisionisms
@@ -70462,6 +70491,7 @@ sannups
 sannyasi
 sannyasin
 sannyasis
+sans
 sansculottish
 sansculottism
 sansei
@@ -78204,6 +78234,7 @@ subirrigations
 subitems
 subjacency
 subjacent
+subjacently
 subject
 subjecting
 subjection
@@ -88706,6 +88737,7 @@ voluntarist
 voluntaristic
 voluntary
 voluntaryism
+voluntaryisms
 voluntaryist
 voluntaryists
 volunteering
@@ -90067,6 +90099,7 @@ wildness
 wildwoods
 wilfully
 wilier
+wiliest
 wilily
 wilinesses
 wiling
@@ -90611,6 +90644,7 @@ worldlinesses
 worldlings
 worldly
 worldviews
+worm
 wormer
 wormers
 wormgear
@@ -91033,6 +91067,7 @@ yellowy
 yells
 yelped
 yelper
+yelpers
 yelping
 yelps
 yen
