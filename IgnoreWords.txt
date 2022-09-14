@@ -635,6 +635,7 @@ acyclovir
 acylate
 acylated
 acylating
+acylation
 acylations
 acyloin
 acyloins
@@ -3474,6 +3475,7 @@ aphorise
 aphorises
 aphorism
 aphorisms
+aphorist
 aphorists
 aphorized
 aphorizer
@@ -8377,6 +8379,7 @@ bobeches
 bobolink
 bobolinks
 bobs
+bobsledded
 bobsledder
 bobsleddings
 bobsleigh
@@ -8576,6 +8579,7 @@ bondmen
 bonds
 bondsmen
 bondstones
+bonduc
 bonducs
 bone
 boneblacks
@@ -9129,6 +9133,7 @@ braky
 bramble
 brambled
 brambling
+brambly
 bran
 branch
 branches
@@ -13389,6 +13394,7 @@ chuckler
 chucklers
 chuckles
 chuckling
+chucks
 chuckwalla
 chuddah
 chuddahs
@@ -17030,6 +17036,7 @@ costal
 costally
 costard
 costars
+costate
 costers
 costively
 costivenesses
@@ -20215,6 +20222,7 @@ deliriousnesses
 delirium
 deliriums
 delis
+delists
 deliver
 deliverable
 deliverance
@@ -26091,6 +26099,7 @@ enviro
 environ
 environing
 environmental
+environmentally
 environments
 enviros
 envisages
@@ -28396,6 +28405,7 @@ fastnesses
 fatalist
 fatalistic
 fatalists
+fatalities
 fatally
 fatback
 fatbacks
@@ -31740,6 +31750,7 @@ galivanting
 galivants
 gall
 gallant
+gallanting
 gallantly
 gallantries
 gallants
@@ -34678,6 +34689,7 @@ habanera
 habaneras
 habanero
 habdalahs
+haberdasher
 haberdashers
 haberdashery
 habergeon
@@ -40793,6 +40805,7 @@ intransitivity
 intraocular
 intrapersonal
 intrapreneurs
+intrapsychic
 intraspecies
 intraspecific
 intrastate
@@ -44015,6 +44028,7 @@ lecherous
 lecherously
 lecherousness
 lechers
+lechwe
 lechwes
 lecithin
 lecithinase
@@ -44884,6 +44898,7 @@ liquids
 liquifies
 liquifying
 liquor
+liquored
 liquorish
 lira
 liras
@@ -49396,6 +49411,7 @@ mobility
 mobilization
 mobilized
 mobocracies
+mobocracy
 mobocrat
 mobocratic
 mobocrats
@@ -52517,6 +52533,7 @@ noninstrumental
 nonintellectual
 noninteracting
 noninteractive
+nonintercourse
 nonintercourses
 noninterest
 nonintersecting
@@ -55028,6 +55045,7 @@ outplacement
 outplacements
 outplacing
 outplanning
+outplans
 outplayed
 outplodding
 outplots
@@ -56524,6 +56542,7 @@ paint
 paintable
 paintballs
 paintbrush
+painterlinesses
 painterly
 painters
 paintier
@@ -57254,6 +57273,7 @@ parotitic
 parotitises
 parous
 paroxysms
+parquet
 parqueting
 parquetry
 parr
@@ -59604,6 +59624,7 @@ pindling
 pineal
 pinealectomize
 pinealectomized
+pineapple
 pinecones
 pineland
 pinelike
@@ -62426,6 +62447,7 @@ previsioning
 previsit
 previsor
 prevued
+prevues
 prevuing
 prewar
 prewarm
@@ -63268,6 +63290,7 @@ protohistorians
 protohistories
 protomartyr
 proton
+protonate
 protonema
 protonemata
 protonematal
@@ -63313,6 +63336,7 @@ protruded
 protrudes
 protrusion
 protrusions
+protuberances
 protuberant
 protuberantly
 protyls
@@ -64970,6 +64994,7 @@ rancored
 rancorously
 rancour
 randan
+randans
 randies
 randiness
 randinesses
@@ -71196,6 +71221,7 @@ scirrhoid
 scirrhous
 scirrhus
 scissile
+scission
 scissor
 scissors
 scissortail
@@ -71327,6 +71353,7 @@ scows
 scrabbled
 scrabbliest
 scrabbling
+scrabbly
 scrag
 scragged
 scraggily
@@ -73377,6 +73404,7 @@ shuts
 shutter
 shutterbug
 shuttered
+shuttering
 shutterless
 shutters
 shutting
@@ -74826,6 +74854,7 @@ snecks
 snedded
 snedding
 sneds
+sneer
 sneerful
 sneerier
 sneeriest
@@ -75203,6 +75232,7 @@ solate
 solated
 solating
 soldan
+soldered
 solders
 soldiered
 soldiering
@@ -75937,6 +75967,7 @@ spermatic
 spermatids
 spermatocytes
 spermatogeneses
+spermatogenesis
 spermatogenic
 spermatophore
 spermatophyte
@@ -80282,6 +80313,7 @@ tailspin
 tailspins
 tailwater
 tailwaters
+tailwind
 tailwinds
 tains
 taint
@@ -83566,6 +83598,7 @@ tribe
 tribes
 tribesman
 tribesmen
+tribespeople
 triboelectric
 tribological
 tribologies
@@ -89227,6 +89260,7 @@ washerwomen
 washeteria
 washeterias
 washhouses
+washiest
 washing
 washouts
 washstand
@@ -90080,6 +90114,7 @@ wilco
 wildcat
 wildcats
 wildcatter
+wildebeests
 wilded
 wildered
 wilderments
