@@ -1400,6 +1400,7 @@ ahis
 ahistoric
 ahorse
 ahoy
+ahs
 aid
 aided
 aider
@@ -2219,6 +2220,7 @@ amidine
 amidines
 amido
 amidogens
+amidol
 amidone
 amidones
 amidship
@@ -6762,6 +6764,7 @@ belays
 belch
 belcher
 belchers
+belching
 beldam
 beldames
 beldams
@@ -12505,6 +12508,7 @@ characters
 charade
 charbroil
 charbroiled
+charbroilers
 charbroiling
 charbroils
 charcoal
@@ -19837,6 +19841,7 @@ defendants
 defended
 defender
 defending
+defenestrate
 defenestration
 defenestrations
 defensed
@@ -22017,6 +22022,7 @@ disbursals
 disburse
 disbursements
 disburser
+disbursers
 disbursing
 discalced
 discanting
@@ -22122,6 +22128,7 @@ discountenance
 discountenanced
 discountenances
 discounting
+discouraged
 discouragement
 discouragements
 discourager
@@ -30986,6 +30993,7 @@ frescoes
 frescoing
 frescoist
 fresh
+freshen
 freshened
 freshening
 fresher
@@ -37637,6 +37645,7 @@ hydroxylapatite
 hydroxylase
 hydroxylases
 hydroxylates
+hydroxyls
 hydroxyproline
 hydroxyurea
 hydroxyzines
@@ -38233,6 +38242,7 @@ illusionism
 illusionisms
 illusionist
 illusionistic
+illusionists
 illusive
 illusively
 illusivenesses
@@ -38429,6 +38439,7 @@ immunoblottings
 immunochemical
 immunochemistry
 immunochemists
+immunocompetent
 immunodeficient
 immunodiagnoses
 immunodiffusion
@@ -39019,6 +39030,7 @@ inclipping
 inclips
 incloser
 inclosers
+incloses
 inclosing
 inclosure
 inclosures
@@ -39238,6 +39250,7 @@ indene
 indenes
 indentation
 indentations
+indented
 indenting
 indents
 indenture
@@ -39828,6 +39841,7 @@ inklings
 inkpot
 inkpots
 inkstands
+inkstone
 inkwell
 inkwells
 inky
@@ -40160,6 +40174,7 @@ insulin
 insulter
 insulting
 insultingly
+insuperable
 insupportable
 insuppressible
 insurabilities
@@ -40366,6 +40381,7 @@ intergraded
 intergrades
 intergrading
 intergraft
+intergrafts
 intergrowth
 intergrowths
 interim
@@ -47317,6 +47333,7 @@ megascopically
 megasporangia
 megasporangium
 megaspore
+megasporic
 megasporophylls
 megass
 megasse
@@ -49361,6 +49378,7 @@ moderately
 moderateness
 moderating
 moderation
+moderations
 moderator
 moderators
 moderatorship
@@ -51431,6 +51449,7 @@ neoliths
 neologies
 neologism
 neologist
+neologistic
 neologists
 neologizing
 neology
@@ -54213,6 +54232,7 @@ ordos
 ordures
 ore
 orectic
+orective
 oreide
 oreodonts
 organa
@@ -56724,6 +56744,7 @@ panickier
 panickiest
 panics
 paniculate
+panicum
 panicums
 panier
 panini
@@ -61977,6 +61998,7 @@ prepare
 prepared
 preparedly
 preparers
+prepares
 prepasted
 prepastes
 prepasting
@@ -63300,6 +63322,7 @@ pruriently
 prurigos
 pruritic
 prussianise
+prussianised
 prussianises
 prussianising
 prussianization
@@ -66049,6 +66072,7 @@ redistricts
 redivide
 redivisions
 redivorced
+redivorces
 redivorcing
 redlegs
 redlined
@@ -67165,6 +67189,7 @@ removing
 rems
 remudas
 remunerates
+remuneration
 remunerators
 remuneratory
 remythologized
@@ -69153,6 +69178,7 @@ robotize
 robotry
 robots
 robs
+robust
 robustas
 robuster
 robustest
@@ -72660,6 +72686,7 @@ shashlik
 shashliks
 shat
 shatter
+shatterer
 shatterers
 shatteringly
 shaugh
@@ -73790,6 +73817,7 @@ situational
 situp
 situses
 sitzmark
+sitzmarks
 six
 sixfold
 sixpence
@@ -76227,6 +76255,7 @@ sportier
 sportiest
 sportinesses
 sportingly
+sportive
 sportively
 sportiveness
 sportivenesses
@@ -77645,6 +77674,7 @@ stridulations
 stridulous
 strifes
 strigil
+strigils
 strike
 strikebreaker
 strikebreakers
@@ -77977,6 +78007,7 @@ subclavians
 subclerk
 subclerks
 subclimaxes
+subclinically
 subcluster
 subclustered
 subclustering
@@ -84675,6 +84706,7 @@ ultraconvenient
 ultracritical
 ultrademocratic
 ultradense
+ultradistant
 ultradry
 ultraexclusive
 ultrafeminine
@@ -85179,6 +85211,7 @@ uncombed
 uncomfortable
 uncomfortably
 uncomic
+uncommercial
 uncommoner
 uncommonly
 uncommonness
@@ -86611,6 +86644,7 @@ unstrained
 unstrapped
 unstratified
 unstresses
+unstring
 unstrings
 unstrung
 unstudied
@@ -88040,6 +88074,7 @@ vibraharp
 vibraharpist
 vibrant
 vibraphone
+vibraphones
 vibraphonist
 vibrate
 vibrated
