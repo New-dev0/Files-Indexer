@@ -1986,6 +1986,7 @@ alterabilities
 alterability
 alterants
 altercated
+altercates
 altercation
 alterers
 alterities
@@ -2684,6 +2685,7 @@ angeluses
 angered
 angina
 anginous
+angiogeneses
 angiogenesis
 angiogenic
 angiogram
@@ -5104,6 +5106,7 @@ autopsied
 autopsies
 autopsying
 autoradiogram
+autorotates
 autorotations
 autosomal
 autostrada
@@ -6429,6 +6432,7 @@ bebeerus
 beblood
 beblooding
 bebop
+bebopper
 bebops
 becalmed
 becalms
@@ -8248,6 +8252,7 @@ bluebell
 blueberry
 bluebill
 bluebirds
+blueblood
 bluebloods
 bluebonnets
 bluebooks
@@ -12468,6 +12473,7 @@ chang
 change
 changeabilities
 changeability
+changeably
 changed
 changeful
 changefully
@@ -13918,6 +13924,7 @@ clay
 clayey
 claying
 clayish
+claylike
 claymore
 claypan
 claystone
@@ -16692,6 +16699,7 @@ copyrightable
 copyrighted
 copyrighting
 copywriter
+copywriters
 coquets
 coquette
 coquetted
@@ -20579,6 +20587,7 @@ deoxygenate
 deoxygenates
 deoxygenations
 depainting
+departees
 departing
 department
 departmentally
@@ -23611,6 +23620,7 @@ drainpipes
 drains
 drake
 drama
+dramady
 dramas
 dramatically
 dramatisations
@@ -30535,6 +30545,7 @@ forequarter
 forequarters
 foreranks
 forereach
+forereaches
 forereaching
 forerunners
 forerunning
@@ -33938,6 +33949,7 @@ grayfishes
 graylag
 graylings
 grayly
+grayness
 grayouts
 grayscale
 graywacke
@@ -37782,6 +37794,7 @@ hygrometers
 hygrometric
 hygrophytes
 hygroscopicity
+hygrostats
 hyla
 hylozoic
 hylozoism
@@ -38400,6 +38413,7 @@ imamate
 imamates
 imbalance
 imbalm
+imbalming
 imbalms
 imbarking
 imbecilic
@@ -39404,6 +39418,7 @@ indicants
 indicate
 indicates
 indications
+indicative
 indicatives
 indicators
 indicia
@@ -39708,6 +39723,7 @@ infights
 infill
 infiltrations
 infiltrative
+infiltrator
 infinitely
 infiniteness
 infinitenesses
@@ -41996,6 +42012,7 @@ johnsongrass
 johnsons
 joinable
 joinder
+joinders
 joiner
 joining
 joinings
@@ -44735,10 +44752,12 @@ limbeck
 limbed
 limberer
 limberest
+limbering
 limbernesses
 limbi
 limbic
 limbier
+limbiest
 limbing
 limbos
 limbus
@@ -55672,6 +55691,7 @@ overcultivation
 overcure
 overcuring
 overcut
+overdear
 overdeck
 overdecked
 overdecking
@@ -59555,6 +59575,7 @@ pierces
 piercingly
 pieridine
 pierogies
+pierrot
 pierrots
 piers
 pies
@@ -59604,6 +59625,7 @@ pigskins
 pigsney
 pigsneys
 pigsticked
+pigsticker
 pigsticking
 pigsty
 pigtailed
@@ -59838,6 +59860,7 @@ pipestems
 pipestones
 pipette
 pipetted
+pipetting
 pipinesses
 piping
 pipingly
@@ -66283,6 +66306,7 @@ redons
 redouble
 redoubler
 redoublers
+redoubles
 redoubtable
 redoubts
 redounded
@@ -66522,6 +66546,7 @@ referable
 refereed
 refereeing
 references
+referenda
 referendum
 referential
 referral
@@ -72336,6 +72361,7 @@ sensitometries
 sensor
 sensoria
 sensorial
+sensorially
 sensorimotor
 sensual
 sensualism
@@ -72702,6 +72728,7 @@ sextuples
 sextuplets
 sextuplicate
 sextuplicated
+sextuplicates
 sexual
 sexuality
 sexualized
@@ -75502,6 +75529,7 @@ somnambulist
 somnambulists
 somnifacient
 somnifacients
+somnolences
 somnolently
 soms
 sonance
@@ -76014,6 +76042,7 @@ speedball
 speedballed
 speedboat
 speedboatings
+speedboats
 speeders
 speediest
 speediness
@@ -77438,6 +77467,7 @@ stiltedly
 stilts
 stimes
 stimulant
+stimulated
 stimulating
 stimulator
 stimulators
@@ -78486,6 +78516,7 @@ submittal
 submittals
 submitted
 submitters
+submitting
 submucosa
 submultiple
 submunition
@@ -84848,6 +84879,7 @@ tyrannic
 tyrannical
 tyrannicide
 tyrannicides
+tyrannise
 tyrannised
 tyrannising
 tyrannize
@@ -85026,6 +85058,7 @@ ululant
 ululates
 ululating
 ululations
+ulva
 ulvas
 umami
 umbel
@@ -85058,6 +85091,7 @@ umiac
 umiack
 umiacks
 umiacs
+umiak
 umiaks
 umlaut
 umlauting
@@ -91329,6 +91363,7 @@ yohimbine
 yohimbines
 yokefellow
 yokefellows
+yokel
 yokels
 yokemate
 yokozuna
