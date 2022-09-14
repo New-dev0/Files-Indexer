@@ -6951,6 +6951,7 @@ benignities
 benignity
 benison
 benisons
+benjamin
 benjamins
 bennets
 bennies
@@ -7180,6 +7181,7 @@ betrayer
 betraying
 betrotheds
 betroths
+betta
 betted
 better
 bettered
@@ -11087,6 +11089,7 @@ canvassed
 canvasser
 canvassers
 canvassing
+canyon
 canyoning
 canyonings
 canyons
@@ -12388,6 +12391,7 @@ chaleh
 chalet
 chalice
 chalices
+chalk
 chalkboard
 chalkiest
 chalks
@@ -16363,6 +16367,7 @@ contrail
 contraindicate
 contraindicates
 contralateral
+contralto
 contraltos
 contraposition
 contrapositions
@@ -23073,6 +23078,7 @@ doggednesses
 doggerel
 doggeries
 doggiest
+doggish
 doggone
 doggoneder
 doggoner
@@ -23712,6 +23718,7 @@ dreaminesses
 dreaming
 dreamland
 dreamlands
+dreamlessly
 dreamlessness
 dreamlessnesses
 dreams
@@ -32027,6 +32034,7 @@ garaged
 garageman
 garages
 garaging
+garbage
 garbagemen
 garbages
 garbagey
@@ -33892,6 +33900,7 @@ grassy
 grat
 grate
 grated
+gratefulness
 gratefulnesses
 grateless
 grater
@@ -35012,6 +35021,7 @@ hallot
 halloth
 hallow
 hallowed
+hallowing
 halls
 hallucal
 halluces
@@ -35452,6 +35462,7 @@ hatcheries
 hatchers
 hatchery
 hatchet
+hatchets
 hatchlings
 hatchments
 hatchway
@@ -36833,6 +36844,7 @@ homemakers
 homemaking
 homeomorphic
 homeomorphism
+homeomorphisms
 homeopath
 homeopathically
 homeopathies
@@ -37785,6 +37797,7 @@ hydroxylapatite
 hydroxylase
 hydroxylases
 hydroxylates
+hydroxylations
 hydroxyls
 hydroxyproline
 hydroxyurea
@@ -45529,6 +45542,7 @@ lopsidedly
 lopsidedness
 lopsidednesses
 lopstick
+lopsticks
 loral
 lorazepam
 lorazepams
@@ -46683,6 +46697,7 @@ manoeuvres
 manoeuvring
 manometers
 manometries
+manorialism
 manos
 manpack
 manpower
@@ -47003,6 +47018,7 @@ masochists
 masoned
 masonites
 masqueraded
+masquerader
 masqueraders
 masquerading
 masquers
@@ -51668,6 +51684,7 @@ neotenic
 neoteny
 neotropic
 neotropics
+neotype
 neotypes
 nepenthean
 nepeta
@@ -51742,6 +51759,7 @@ nestler
 nestlike
 nestling
 nestors
+nests
 nethermost
 netherworld
 netiquette
@@ -55157,6 +55175,7 @@ outpatient
 outpatients
 outpeopled
 outpitched
+outpitches
 outpitching
 outpitied
 outplace
@@ -64032,6 +64051,7 @@ purin
 purines
 puris
 purism
+purisms
 purist
 puristic
 puristically
@@ -68443,6 +68463,7 @@ retches
 retching
 reteaching
 reteam
+reteams
 retear
 retears
 retell
@@ -70819,6 +70840,7 @@ satanists
 satays
 satcheled
 sateen
+sateens
 satem
 sates
 satiable
@@ -71125,6 +71147,7 @@ scarfskins
 scarification
 scarifiers
 scarifyingly
+scariness
 scarious
 scarlatinal
 scarlatinas
@@ -71139,6 +71162,7 @@ scarriest
 scars
 scarted
 scarting
+scarts
 scarves
 scary
 scat
@@ -71186,6 +71210,7 @@ scenographer
 scenographers
 scenting
 scepter
+sceptered
 sceptering
 sceptic
 scepticism
@@ -75750,6 +75775,7 @@ soulfulnesses
 soulless
 soulmates
 souls
+soundalike
 soundboard
 sounded
 soundest
@@ -76496,6 +76522,7 @@ spoonerism
 spoonerisms
 spooney
 spoonful
+spooniest
 spoonily
 spooning
 spoons
@@ -77992,6 +78019,7 @@ stringy
 strip
 striped
 stripeless
+stripier
 striping
 striplings
 stripper
@@ -78911,6 +78939,7 @@ sufferers
 suffers
 sufficers
 sufficiencies
+sufficient
 sufficiently
 suffixed
 suffixes
@@ -80648,6 +80677,7 @@ tangier
 tanginess
 tangles
 tanglier
+tangly
 tango
 tangoed
 tangoing
@@ -87756,6 +87786,7 @@ valvar
 valveless
 valvelets
 valvelike
+valves
 valving
 valvula
 valvules
@@ -88294,6 +88325,7 @@ versatilities
 versatility
 verse
 verseman
+versemen
 versers
 verses
 versifications
@@ -88369,6 +88401,7 @@ vetivert
 veto
 vetoes
 vets
+vetter
 vetting
 vexation
 vexations
@@ -90453,6 +90486,7 @@ wingchair
 wingchairs
 winged
 winger
+wingers
 wingless
 winglets
 wingman
@@ -91143,6 +91177,7 @@ xi
 xiphoid
 xiphoids
 xis
+xu
 xylan
 xylans
 xylem
