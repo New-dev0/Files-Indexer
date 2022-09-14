@@ -1085,6 +1085,7 @@ affectlessness
 affenpinscher
 affenpinschers
 afferently
+afferents
 affiance
 affianced
 affiancing
@@ -1803,6 +1804,7 @@ allegros
 allele
 alleles
 allelic
+allelomorphisms
 allelomorphs
 allelopathies
 allergen
@@ -13079,6 +13081,7 @@ chital
 chitchat
 chitchats
 chitchatting
+chitins
 chitling
 chitlings
 chiton
@@ -13854,6 +13857,7 @@ classon
 classons
 classy
 clast
+clastic
 clasts
 clathrate
 clattered
@@ -18019,6 +18023,7 @@ crosspiece
 crossroads
 crossruffed
 crossruffs
+crosstalks
 crosstown
 crosstree
 crosstrees
@@ -19784,6 +19789,7 @@ deeding
 deedless
 deeds
 deedy
+deejay
 deejaying
 deejays
 deem
@@ -20972,6 +20978,7 @@ desugaring
 desugars
 desulfuring
 desulfurizing
+desulfurs
 desultoriness
 detach
 detachabilities
@@ -24024,6 +24031,7 @@ dummkopfs
 dummy
 dummying
 dumortierite
+dumortierites
 dump
 dumpcart
 dumped
@@ -29027,6 +29035,7 @@ fiefs
 fielded
 fieldfare
 fieldfares
+fielding
 fieldpieces
 fieldsman
 fieldstrips
@@ -29062,6 +29071,7 @@ figurate
 figurative
 figuratively
 figured
+figurehead
 figurer
 figurine
 figwort
@@ -31418,6 +31428,7 @@ functionaries
 functioning
 functionless
 functor
+fund
 fundament
 fundamentalism
 fundamentalist
@@ -32265,6 +32276,7 @@ gelation
 gelatis
 gelcap
 gelcaps
+gelded
 gelder
 geldings
 gelds
@@ -33657,6 +33669,7 @@ gramarye
 gramaryes
 gramas
 gramercies
+gramercy
 gramineous
 gramma
 grammarian
@@ -38278,6 +38291,7 @@ illuded
 illuding
 illuminance
 illuminances
+illuminant
 illuminants
 illuminate
 illuminated
@@ -38756,6 +38770,7 @@ imposition
 impossibilities
 impossibility
 impossible
+impossibleness
 impossibly
 impost
 imposted
@@ -40885,6 +40900,7 @@ intwisted
 inulase
 inulases
 inulin
+inundate
 inundates
 inundating
 inure
@@ -41576,6 +41592,7 @@ jalousies
 jam
 jambalaya
 jambe
+jambeau
 jambes
 jambing
 jamboree
@@ -48433,6 +48450,7 @@ millesimally
 millhouse
 millhouses
 milliard
+milliares
 milliaries
 milliary
 millibar
@@ -51276,6 +51294,7 @@ naturally
 naturalness
 natured
 natures
+naturisms
 naturist
 naturists
 naturopath
@@ -51603,6 +51622,7 @@ neroli
 nervations
 nervature
 nerved
+nervelessly
 nervelessnesses
 nerves
 nervier
@@ -52015,6 +52035,7 @@ nitpicky
 nitrated
 nitrations
 nitres
+nitrid
 nitride
 nitrided
 nitrides
@@ -56966,6 +56987,7 @@ parabiotic
 parabiotically
 parables
 parabola
+parabolas
 paraboloid
 paraboloidal
 paraboloids
@@ -58182,6 +58204,7 @@ peones
 people
 peopleless
 peopler
+peoplers
 peoples
 pep
 peperomia
@@ -66339,6 +66362,7 @@ reendowed
 reendowing
 reenforce
 reenforced
+reenforces
 reenforcing
 reengaged
 reengagement
@@ -66867,6 +66891,7 @@ reinforcing
 reinforming
 reinfuses
 reinfusing
+reinhabits
 reinitiated
 reinjecting
 reinjections
@@ -67306,6 +67331,7 @@ renationalized
 renationalizes
 renaturation
 renaturations
+renature
 renatures
 renaturing
 rencountering
@@ -69897,6 +69923,7 @@ runkled
 runkling
 runless
 runlets
+runners
 running
 runoff
 runoffs
@@ -70033,6 +70060,7 @@ saccharimeters
 saccharine
 saccharinity
 saccharoidal
+saccharometers
 sacculation
 sacculations
 saccule
@@ -72278,6 +72306,7 @@ separate
 separately
 separates
 separating
+separationist
 separationists
 separations
 separatist
@@ -74810,6 +74839,7 @@ snappers
 snappier
 snappily
 snappiness
+snappish
 snappishly
 snappishnesses
 snaps
@@ -81636,6 +81666,7 @@ therewith
 theriac
 theriacal
 therians
+therm
 thermalization
 thermalize
 thermalizes
@@ -82988,6 +83019,7 @@ toyos
 toyshop
 toyshops
 trabeate
+trabeated
 trabeation
 trabecula
 trabeculae
@@ -84301,6 +84333,7 @@ tumescence
 tumesces
 tumescing
 tumidity
+tumidly
 tummies
 tummler
 tumoral
@@ -87011,6 +87044,7 @@ upbraided
 upbraider
 upbraiders
 upbraiding
+upbringing
 upbuild
 upbuilding
 upbuilds
@@ -91133,6 +91167,7 @@ yetts
 yeuk
 yeuking
 yeuks
+yeuky
 yid
 yids
 yield
