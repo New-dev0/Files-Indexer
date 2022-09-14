@@ -846,6 +846,7 @@ adorer
 adoring
 adoringly
 adorn
+adorned
 adorning
 adornments
 ados
@@ -7986,6 +7987,7 @@ blastulation
 blastulations
 blatancy
 blatant
+blatantly
 blate
 blather
 blathered
@@ -9230,6 +9232,7 @@ brazier
 brazil
 brazils
 brazilwood
+brazilwoods
 brazing
 breacher
 breachers
@@ -11767,6 +11770,7 @@ catechization
 catechizations
 catechized
 catechizer
+catechizers
 catechol
 catecholamine
 catechols
@@ -12462,6 +12466,7 @@ chanted
 chanterelle
 chanteuse
 chanting
+chantors
 chants
 chanty
 chaos
@@ -14943,6 +14948,7 @@ colloquists
 colloquiums
 collotype
 collude
+colluded
 colluding
 collusive
 colluvium
@@ -19380,6 +19386,7 @@ deanship
 dearest
 dearie
 dearies
+dearness
 dears
 dearth
 dearths
@@ -20053,6 +20060,7 @@ dehiscences
 dehiscent
 dehorned
 dehorner
+dehorning
 dehorting
 dehorts
 dehumanization
@@ -20984,6 +20992,7 @@ detections
 detective
 detector
 detectors
+detects
 detent
 detentes
 detention
@@ -22315,6 +22324,7 @@ dishiest
 dishing
 dishonesties
 dishonesty
+dishonorable
 dishonorer
 dishonoring
 dishonors
@@ -22374,6 +22384,7 @@ disinvite
 disinvited
 disinvites
 disinviting
+disjecting
 disjoin
 disjoins
 disjointedness
@@ -23201,6 +23212,7 @@ doorkeepers
 doorknob
 doorknobs
 doormen
+doornail
 doornails
 doorpost
 doors
@@ -28096,6 +28108,7 @@ fairyhood
 fairyisms
 fairylands
 fairylike
+faithed
 faithfulness
 faithfulnesses
 faithfuls
@@ -29103,6 +29116,7 @@ filmiest
 filmily
 filming
 filmis
+filmland
 filmlands
 filmlike
 filmmaker
@@ -34013,6 +34027,7 @@ grim
 grimaced
 grimacing
 grime
+grimed
 grimes
 grimier
 grimiest
@@ -37893,6 +37908,7 @@ hypogeous
 hypoglossal
 hypoglossals
 hypoglycemic
+hypoglycemics
 hypogynies
 hypogynous
 hypoing
@@ -51077,6 +51093,7 @@ nanotesla
 nanotube
 nans
 naoi
+naos
 napalm
 napalmed
 napalming
@@ -63008,6 +63025,7 @@ propolis
 proponent
 proponing
 proportion
+proportionable
 proportional
 proportionality
 proportionally
@@ -64200,6 +64218,7 @@ quagmires
 quagmiriest
 quagmiry
 quags
+quahaugs
 quahogs
 quai
 quaich
@@ -65857,6 +65876,7 @@ recopying
 recordation
 recordations
 recorded
+recorder
 recordings
 recordist
 recordists
@@ -66111,6 +66131,7 @@ rednecks
 redo
 redock
 redocked
+redoes
 redolent
 redonning
 redons
@@ -67625,6 +67646,7 @@ republicanizes
 republicanizing
 republicans
 republication
+republications
 republics
 republish
 republished
@@ -70383,6 +70405,7 @@ sandlot
 sandlots
 sandmen
 sandpainting
+sandpaintings
 sandpapered
 sandpapering
 sandpapery
@@ -70455,6 +70478,7 @@ santolina
 santolinas
 santols
 santonica
+santonicas
 santonin
 santoor
 sapajou
@@ -72465,6 +72489,7 @@ severs
 seviches
 sevruga
 sevrugas
+sew
 sewability
 sewable
 sewage
@@ -73975,6 +74000,7 @@ skilfully
 skilled
 skillet
 skillets
+skillful
 skillfully
 skillfulness
 skills
@@ -74357,6 +74383,7 @@ slipslop
 slipslops
 slipstreamed
 slipstreaming
+slipways
 slit
 slither
 slithered
@@ -74703,6 +74730,7 @@ snailed
 snaillike
 snake
 snakebirds
+snakebite
 snakebites
 snakefishes
 snakeheads
@@ -80632,6 +80660,7 @@ tax
 taxa
 taxably
 taxations
+taxemes
 taxemic
 taxi
 taxicab
@@ -83364,6 +83393,7 @@ treasures
 treasuries
 treasuring
 treasury
+treat
 treatability
 treatable
 treated
@@ -85137,6 +85167,7 @@ unchallengeable
 unchancy
 unchangeability
 unchangeable
+unchangeably
 unchanging
 unchangingness
 unchanneled
@@ -86562,6 +86593,7 @@ unshamed
 unshaped
 unshared
 unsharp
+unsheathe
 unsheathes
 unshell
 unshelled
@@ -87166,6 +87198,7 @@ urbanistically
 urbanists
 urbanites
 urbanity
+urbanization
 urbanizations
 urbanized
 urbanizing
@@ -87266,6 +87299,7 @@ username
 ushered
 usherette
 usquebae
+usquebaes
 usques
 usualness
 usuals
@@ -90700,6 +90734,7 @@ wricked
 wried
 wrier
 wries
+wriest
 wriggled
 wriggler
 wright
