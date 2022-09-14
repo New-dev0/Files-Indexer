@@ -860,6 +860,7 @@ adroitest
 adroitly
 adroitnesses
 adscript
+adsorb
 adsorbate
 adsorbates
 adsorbent
@@ -1582,6 +1583,7 @@ albumins
 albuminuria
 albuminurias
 albumoses
+albums
 alburnous
 alburnums
 alcades
@@ -2947,6 +2949,7 @@ anthelixes
 anthelmintic
 anthelmintics
 anthemed
+anthemic
 antheming
 anthems
 antherid
@@ -3112,6 +3115,7 @@ antifouling
 antifraud
 antifreeze
 antifriction
+antifungal
 antifungals
 antifur
 antigambling
@@ -14798,6 +14802,7 @@ colicky
 colicweeds
 colies
 coliform
+colinear
 colinearities
 coliphage
 coliphages
@@ -19868,6 +19873,7 @@ definitude
 definitudes
 deflagrate
 deflagrates
+deflagration
 deflagrations
 deflated
 deflates
@@ -26915,6 +26921,7 @@ euryokous
 euryoky
 eurypterid
 eurytherm
+eurythermal
 eurythermic
 eurytherms
 eurytopic
@@ -28449,6 +28456,7 @@ feats
 featured
 feaze
 feazes
+feazing
 febricities
 febricity
 febrility
@@ -29104,6 +29112,7 @@ fineness
 finenesses
 finer
 fineries
+finery
 fines
 finesse
 finesses
@@ -31537,6 +31546,7 @@ gabs
 gaby
 gadabouts
 gadarene
+gadget
 gadgetries
 gadgetry
 gadgets
@@ -32357,6 +32367,7 @@ geometrically
 geometrician
 geometricians
 geometrics
+geometries
 geometrise
 geometrised
 geometrises
@@ -33762,6 +33773,7 @@ graylag
 graylings
 grayly
 grayouts
+grayscale
 graywacke
 graywater
 graywaters
@@ -35803,6 +35815,7 @@ hemoglobinurias
 hemoglobinuric
 hemolymph
 hemolymphs
+hemolysis
 hemolytic
 hemolyzed
 hemolyzes
@@ -36022,6 +36035,7 @@ hessonite
 hessonites
 hetaeric
 hetaerism
+hetaira
 hetairas
 hetero
 heteroatom
@@ -36973,6 +36987,7 @@ horsecars
 horsefeathers
 horseflesh
 horsefleshes
+horsefly
 horsehair
 horsehairs
 horsehide
@@ -39570,6 +39585,7 @@ infractors
 infrahuman
 infrahumans
 infraspecific
+infrastructures
 infrequences
 infrequencies
 infrequent
@@ -39896,6 +39912,7 @@ insecure
 insecurely
 insecureness
 insecurities
+inseminate
 inseminated
 inseminating
 insemination
@@ -40794,6 +40811,7 @@ inverting
 invertor
 inverts
 invest
+investigating
 investigational
 investigations
 investigative
@@ -41388,6 +41406,7 @@ jaggednesses
 jagger
 jaggery
 jagghery
+jaggiest
 jaggy
 jaguar
 jaguarondi
@@ -41520,6 +41539,7 @@ jawlines
 jaws
 jaybird
 jayhawker
+jays
 jayvees
 jaywalkers
 jaywalks
@@ -45645,6 +45665,7 @@ luxes
 luxuriance
 luxuriances
 luxuriate
+luxuriously
 lwei
 lyard
 lyart
@@ -46154,6 +46175,7 @@ malled
 mallee
 mallei
 mallemuck
+malleolar
 malleoli
 malleolus
 mallet
@@ -50038,6 +50060,7 @@ motorless
 motorman
 motormen
 motormouths
+motorship
 motorships
 motortrucks
 motorway
@@ -51916,6 +51939,7 @@ noising
 noisy
 nolos
 nom
+noma
 nomads
 nomarch
 nomas
@@ -54291,6 +54315,7 @@ oscillated
 oscillates
 oscillation
 oscillational
+oscillatory
 oscillograms
 oscillographies
 oscillography
@@ -55100,6 +55125,7 @@ outthrust
 outtowered
 outtowering
 outtrade
+outtrades
 outtrading
 outtraveled
 outtrick
@@ -60860,6 +60886,7 @@ positing
 position
 positions
 positive
+positiveness
 positivenesses
 positiver
 positivistic
@@ -63722,6 +63749,7 @@ purulencies
 purvey
 purveyances
 purveys
+puses
 push
 pushball
 pushcarts
@@ -65911,6 +65939,7 @@ redistilled
 redistills
 redistributions
 redistrict
+redistricting
 redistricts
 redivide
 redivisions
@@ -76370,6 +76399,7 @@ squirrelly
 squirter
 squirters
 squirting
+squish
 squishiest
 squishing
 squishy
@@ -76694,6 +76724,7 @@ statutable
 statutory
 staumrels
 staunched
+staunchest
 staunching
 staurolite
 staurolitic
@@ -86078,6 +86109,7 @@ unpledged
 unpliable
 unpliant
 unplowed
+unplugs
 unplumbed
 unpointed
 unpolarized
@@ -86761,6 +86793,7 @@ uplifters
 uplifts
 uplighted
 uplighting
+uplights
 uplink
 uplinking
 uplinks
@@ -87184,6 +87217,7 @@ valiants
 valid
 validated
 validating
+validities
 validity
 validness
 validnesses
@@ -90886,6 +90920,7 @@ ytterbic
 ytterbiums
 yttrias
 yuan
+yucas
 yuch
 yuck
 yucked
