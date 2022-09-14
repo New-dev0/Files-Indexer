@@ -4161,6 +4161,7 @@ arsenates
 arsenide
 arsenides
 arsenite
+arsenous
 arshins
 arsine
 arsines
@@ -6581,6 +6582,7 @@ beefcakes
 beefeater
 beefier
 beefiest
+beefily
 beefiness
 beefing
 beefs
@@ -8421,6 +8423,7 @@ boffola
 boffos
 bog
 bogart
+bogbeans
 bogey
 bogeyman
 bogged
@@ -8617,6 +8620,7 @@ boodler
 boodling
 boody
 booed
+booger
 boogermen
 boogey
 boogeying
@@ -14313,6 +14317,7 @@ cobby
 cobelligerent
 cobia
 cobias
+cobles
 cobnut
 cobnuts
 cobra
@@ -18065,6 +18070,7 @@ crumpled
 crumpling
 crumply
 crumps
+crunchable
 cruncher
 crunches
 crunchier
@@ -19880,6 +19886,7 @@ deflections
 deflective
 deflector
 deflexed
+deflexions
 defloration
 deflowered
 deflowerer
@@ -22802,6 +22809,7 @@ divider
 dividers
 divides
 dividual
+divination
 divinatory
 divine
 divined
@@ -24053,6 +24061,7 @@ dusters
 dustheaps
 dustier
 dustily
+dusting
 dustman
 dustoff
 dustpan
@@ -25827,6 +25836,7 @@ ensuring
 enswathed
 enswathes
 entablature
+entail
 entailer
 entailers
 entailment
@@ -27028,6 +27038,7 @@ evillest
 evilness
 evils
 evince
+evinced
 eviscerate
 eviscerates
 eviscerating
@@ -27188,6 +27199,7 @@ exclusion
 exclusionary
 exclusions
 exclusive
+exclusiveness
 exclusives
 exclusivist
 exclusivists
@@ -27929,6 +27941,7 @@ factorizations
 factorize
 factors
 factorship
+factory
 factorylike
 factotum
 factotums
@@ -29478,6 +29491,7 @@ flasket
 flasks
 flatbeds
 flatboat
+flatboats
 flatcaps
 flatcar
 flatcars
@@ -29512,6 +29526,7 @@ flatulency
 flatulent
 flatus
 flatuses
+flatwares
 flatwashes
 flatwise
 flatworms
@@ -30876,6 +30891,7 @@ freezable
 freezer
 freezers
 freezes
+freezingly
 freight
 freightage
 freightages
@@ -33743,6 +33759,7 @@ gray
 grayback
 grayfishes
 graylag
+graylings
 grayly
 grayouts
 graywacke
@@ -44881,6 +44898,7 @@ loading
 loadings
 loadmaster
 loadstar
+loadstars
 loaf
 loafed
 loafing
@@ -47070,6 +47088,7 @@ meddled
 meddler
 meddlers
 meddles
+medevacing
 medevacking
 medevacs
 medfly
@@ -48862,6 +48881,7 @@ mislocations
 mislodged
 mislodges
 mislying
+mismake
 mismaking
 mismanaged
 mismanagement
@@ -52686,6 +52706,7 @@ normalizes
 normalizing
 normally
 normals
+normative
 normativeness
 normless
 normotensive
@@ -55529,6 +55550,7 @@ overheat
 overhold
 overholds
 overhomogenizes
+overhonor
 overhung
 overhunting
 overhuntings
@@ -57485,6 +57507,7 @@ peacher
 peachers
 peaches
 peachy
+peacing
 peacock
 peacockiest
 peacocks
@@ -61030,6 +61053,7 @@ postvaccination
 postvagotomy
 postwar
 pot
+potabilities
 potable
 potablenesses
 potables
@@ -67495,6 +67519,7 @@ reremouse
 rerent
 rerenting
 rerepeat
+rereviewing
 rereviews
 rerigging
 rerigs
@@ -68254,6 +68279,7 @@ revealment
 revealments
 reveals
 revegetate
+revegetation
 revegetations
 revehent
 reveilles
@@ -69702,6 +69728,7 @@ sabbatic
 sabbatical
 sabbats
 sabe
+sabered
 sabering
 saberlike
 sabermetrician
@@ -70474,6 +70501,7 @@ savarins
 save
 saveable
 saved
+saver
 savers
 savin
 savine
@@ -70851,6 +70879,7 @@ schoolgirls
 schoolings
 schoolkids
 schoolman
+schoolmarmish
 schoolmarms
 schoolmaster
 schoolmasterish
@@ -78322,6 +78351,7 @@ succession
 successional
 successive
 successively
+successiveness
 successor
 succinct
 succincter
@@ -81971,6 +82001,7 @@ tints
 tintypes
 tinware
 tinwares
+tinworks
 tip
 tipcart
 tipis
@@ -83707,6 +83738,7 @@ troupe
 trouped
 trouper
 troupers
+troupials
 trouser
 trousseaus
 troutier
@@ -86933,6 +86965,7 @@ urge
 urgency
 urgently
 urger
+urgers
 urges
 urging
 urial
@@ -88367,6 +88400,7 @@ volleyballs
 volleyed
 volleyers
 volleys
+volost
 volosts
 volplane
 volplaned
@@ -90027,6 +90061,7 @@ withstands
 withstood
 witless
 witlessly
+witlessnesses
 witlings
 witloof
 witnesser
