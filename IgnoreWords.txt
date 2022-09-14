@@ -3826,6 +3826,7 @@ araks
 arame
 arames
 araneidan
+arapaima
 arapaimas
 araroba
 ararobas
@@ -8888,6 +8889,7 @@ bouncer
 bouncers
 bouncing
 bound
+boundable
 boundaries
 bounded
 boundednesses
@@ -11060,6 +11062,7 @@ capablest
 capably
 capacitance
 capacitate
+capacitating
 capacitation
 capacities
 capacitive
@@ -15829,6 +15832,7 @@ congests
 congius
 conglobated
 conglobates
+conglobations
 conglobe
 conglobed
 conglomerated
@@ -18639,6 +18643,7 @@ cutties
 cuttingly
 cuttings
 cuttle
+cuttlebone
 cuttled
 cuttlefish
 cuttles
@@ -22454,6 +22459,7 @@ disploding
 displosion
 displume
 displumed
+displumes
 displuming
 disport
 disported
@@ -25173,6 +25179,7 @@ emmet
 emmetrope
 emmets
 emodin
+emodins
 emollient
 emollients
 emoticon
@@ -25438,6 +25445,7 @@ endarchies
 endarterectomy
 endbrain
 endbrains
+endear
 endeared
 endearing
 endears
@@ -26580,6 +26588,7 @@ escuage
 escudo
 esculent
 escutcheon
+esemplastic
 eserine
 eserines
 eskar
@@ -28742,6 +28751,7 @@ fester
 festers
 festivals
 festive
+festively
 festiveness
 festivities
 festivity
@@ -31414,6 +31424,7 @@ furmities
 furmity
 furnace
 furnaced
+furnacing
 furnish
 furnished
 furnishers
@@ -35841,6 +35852,7 @@ hempier
 hempseeds
 hempy
 hems
+hemstitched
 hemstitcher
 hemstitching
 henbit
@@ -37510,6 +37522,7 @@ hydrodynamical
 hydroelectric
 hydrofoil
 hydrofoils
+hydrogel
 hydrogels
 hydrogen
 hydrogenate
@@ -37853,6 +37866,7 @@ hypotenuse
 hypotenuses
 hypothalamic
 hypothalamus
+hypothec
 hypothecates
 hypothecating
 hypothecation
@@ -38151,6 +38165,7 @@ illogics
 illude
 illuded
 illuding
+illuminance
 illuminances
 illuminants
 illuminate
@@ -40817,6 +40832,7 @@ investigations
 investigative
 investigatory
 investing
+investitures
 investment
 investments
 investors
@@ -42839,6 +42855,7 @@ knopped
 knops
 knosp
 knot
+knotholes
 knotlike
 knots
 knotted
@@ -48020,6 +48037,7 @@ microphotometry
 microphysics
 micropipet
 micropipets
+micropipette
 micropipettes
 microplankton
 micropore
@@ -51324,10 +51342,12 @@ nematodes
 nematological
 nematologist
 nematology
+nemerteans
 nemertine
 nemertines
 nemeses
 nemophila
+nene
 neoclassic
 neoclassicisms
 neoclassicists
@@ -53834,6 +53854,7 @@ oogonia
 oogonium
 ooh
 oolachan
+oolachans
 oolite
 oolith
 oolitic
@@ -54644,6 +54665,7 @@ outdreaming
 outdressed
 outdrew
 outdrink
+outdriven
 outdrives
 outdriving
 outdropping
@@ -54897,6 +54919,7 @@ outpull
 outpulling
 outpunch
 outpupil
+outpursue
 outpursued
 outpushed
 output
@@ -55132,6 +55155,7 @@ outtrick
 outtricking
 outtrump
 outtrumping
+outtrumps
 outturns
 outvalue
 outvaunt
@@ -55404,6 +55428,7 @@ overdemanding
 overdependence
 overdependent
 overdesigns
+overdetermined
 overdeveloped
 overdeveloping
 overdevelopment
@@ -55535,6 +55560,7 @@ overfrank
 overfulfilled
 overfulfilling
 overfunding
+overfussy
 overgeneralize
 overgeneralizes
 overgenerous
@@ -56704,6 +56730,7 @@ paparazzi
 paparazzo
 papaya
 papayan
+papayas
 paperback
 paperbacks
 paperbark
@@ -67737,6 +67764,7 @@ resilvers
 resin
 resinated
 resinates
+resinified
 resinify
 resinifying
 resining
@@ -68415,6 +68443,7 @@ revitalized
 revitalizes
 revitalizing
 revivable
+revival
 revivalisms
 revived
 revivification
@@ -72050,6 +72079,7 @@ septarium
 septenaries
 septennially
 septentrion
+septentrional
 septentrions
 septet
 septets
@@ -74783,6 +74813,7 @@ snuggles
 snugly
 snugness
 snugnesses
+snugs
 snye
 so
 soaks
@@ -79090,6 +79121,7 @@ suppressors
 suppurate
 suppurations
 supramolecular
+supraorbital
 suprarational
 suprarenals
 supremacies
@@ -85071,6 +85103,7 @@ unconformable
 unconformably
 unconformities
 unconfounded
+unconfusing
 uncongenial
 unconquerably
 unconscionably
@@ -87641,6 +87674,7 @@ venographies
 venology
 venomed
 venomers
+venomousness
 venoms
 vent
 ventage
@@ -89875,6 +89909,7 @@ windchill
 windchills
 windfall
 windfalls
+windflaw
 windflowers
 windgall
 windgalls
