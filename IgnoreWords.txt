@@ -918,6 +918,7 @@ adverbials
 adversaries
 adversariness
 adversarinesses
+adversatives
 adverseness
 adversity
 adverted
@@ -935,6 +936,7 @@ advisableness
 advisements
 adviser
 advises
+advising
 advisories
 advocacies
 advocacy
@@ -5918,6 +5920,7 @@ baptist
 baptisteries
 baptistery
 baptists
+baptize
 baptizers
 barbal
 barbarianisms
@@ -6419,6 +6422,7 @@ beau
 beaut
 beauteousnesses
 beauticians
+beautifications
 beautified
 beautifier
 beautifiers
@@ -11671,6 +11675,7 @@ cassia
 cassimeres
 cassino
 cassinos
+cassoulets
 cassowaries
 cassowary
 castabilities
@@ -13488,6 +13493,7 @@ churchwomen
 churchy
 churlishly
 churls
+churned
 churning
 churnings
 churr
@@ -14184,6 +14190,7 @@ clothbound
 clothe
 clotheshorses
 clotheslined
+clotheslining
 clothespin
 clothespins
 clothespresses
@@ -19954,6 +19961,7 @@ defiance
 defiances
 defibrillate
 defibrillates
+defibrillating
 defibrillation
 defibrillations
 defibrillators
@@ -23915,6 +23923,7 @@ drubbing
 drubbings
 drudger
 drudgeries
+drudgery
 drudges
 drudging
 drugged
@@ -27168,6 +27177,7 @@ eventuates
 eventuating
 everglade
 everglades
+everlasting
 everlastingly
 everlastingness
 everlastings
@@ -32754,6 +32764,7 @@ gibbosities
 gibbous
 gibbously
 gibed
+gibers
 gibes
 giblet
 giblets
@@ -37802,6 +37813,7 @@ hydrosere
 hydroseres
 hydroski
 hydroskis
+hydrosol
 hydrosolic
 hydrospaces
 hydrosphere
@@ -41305,6 +41317,7 @@ irrationalist
 irrationalistic
 irrationalists
 irrationalities
+irrationally
 irreality
 irreclaimably
 irreconcilable
@@ -41826,6 +41839,7 @@ jaybird
 jayhawker
 jays
 jayvees
+jaywalked
 jaywalkers
 jaywalks
 jazzed
@@ -42165,6 +42179,7 @@ jovialty
 jow
 jowars
 jowl
+jowlier
 jowliest
 jowliness
 jowly
@@ -45402,6 +45417,7 @@ logia
 logic
 logical
 logicalities
+logically
 logicalnesses
 logicians
 logicised
@@ -46104,6 +46120,7 @@ macers
 mach
 maches
 machetes
+machicolations
 machinabilities
 machinability
 machinate
@@ -46603,6 +46620,7 @@ mandatory
 mandibulate
 mandola
 mandolins
+mandragora
 mandragoras
 mandrake
 mandrakes
@@ -47410,6 +47428,7 @@ mechanics
 mechanisms
 mechanist
 mechanization
+mechanize
 mechanized
 mechanizers
 mechanizes
@@ -50215,6 +50234,7 @@ morosities
 morphed
 morpheme
 morphemes
+morphemically
 morphemics
 morphia
 morphias
@@ -51369,6 +51389,7 @@ narrowed
 narrowest
 narrowish
 narrowly
+narthex
 narwal
 narwhal
 narwhale
@@ -53002,6 +53023,7 @@ nontobacco
 nontonal
 nontonic
 nontotalitarian
+nontoxic
 nontraditional
 nontransferable
 nontreatments
@@ -56474,6 +56496,7 @@ owse
 ox
 oxacillins
 oxalacetates
+oxalated
 oxalating
 oxalic
 oxalises
@@ -56943,6 +56966,7 @@ pamphleteering
 pams
 panaceas
 panaches
+panada
 panama
 panatelas
 panatella
@@ -58204,6 +58228,7 @@ penalizing
 penalty
 penanced
 penancing
+penang
 penates
 pencel
 pencels
@@ -64397,6 +64422,7 @@ qintar
 qiviut
 qiviuts
 qoph
+qophs
 quaalude
 quack
 quackery
@@ -74785,6 +74811,7 @@ sludging
 sludgy
 slue
 slued
+slues
 sluffed
 sluffing
 slugabeds
@@ -77180,6 +77207,7 @@ startsy
 startup
 starvation
 starvations
+starve
 starveling
 starvelings
 starving
@@ -77963,6 +77991,7 @@ streakily
 streakinesses
 streaking
 streaks
+streamed
 streamers
 streamier
 streamiest
@@ -85786,6 +85815,7 @@ undercurrent
 undercuts
 undercutting
 underdeveloped
+underdo
 underdog
 underdone
 underdosed
@@ -87306,6 +87336,7 @@ upbuild
 upbuilding
 upbuilds
 upby
+upcasting
 upchucking
 upchucks
 upclimbed
@@ -89010,6 +89041,7 @@ void
 volant
 volante
 volatile
+volatilenesses
 volatiles
 volatilised
 volatilities
@@ -89185,6 +89217,7 @@ vulgarising
 vulgarism
 vulgarisms
 vulgarization
+vulgarizations
 vulgarize
 vulgarized
 vulgarizes
@@ -89581,6 +89614,7 @@ wast
 wastable
 wastage
 wastebasket
+wastefulness
 wastefulnesses
 wasteland
 wastepaper
@@ -90074,6 +90108,7 @@ wheeples
 wheeps
 wheezed
 wheezer
+wheezier
 wheezy
 whelkiest
 whelky
