@@ -1499,6 +1499,7 @@ airspace
 airstreams
 airstrike
 airstrikes
+airstrip
 airt
 airted
 airth
@@ -5114,6 +5115,7 @@ autopsied
 autopsies
 autopsying
 autoradiogram
+autorotated
 autorotates
 autorotations
 autosomal
@@ -6740,6 +6742,7 @@ behaves
 behaving
 behavior
 behavioral
+behaviorally
 beheadal
 beheader
 beheaders
@@ -8388,6 +8391,7 @@ boatable
 boatbills
 boatbuilders
 boatbuilding
+boatbuildings
 boated
 boater
 boathooks
@@ -8497,6 +8501,7 @@ bogwood
 bogwoods
 bogy
 bogyism
+bogyman
 bogymen
 bohea
 boheas
@@ -9109,6 +9114,7 @@ brackets
 brackish
 brackishness
 brackishnesses
+braconid
 bracted
 bracteoles
 bractless
@@ -16771,6 +16777,7 @@ cordages
 cordate
 cordately
 cordelle
+cordelled
 corder
 corders
 cordialities
@@ -17498,6 +17505,7 @@ cowpuncher
 cowpunchers
 cowrie
 cowries
+cowrite
 cowriter
 cowriters
 cowrites
@@ -18602,6 +18610,7 @@ curr
 curragh
 currajong
 currant
+currejong
 currencies
 current
 currentness
@@ -22529,6 +22538,7 @@ dismembering
 dismemberments
 dismissions
 dismissive
+dismount
 dismounting
 disobeyer
 disobeying
@@ -23790,6 +23800,7 @@ dressmaking
 dressmakings
 dressy
 drib
+dribbed
 dribbing
 dribble
 dribbler
@@ -24567,6 +24578,7 @@ eclectic
 eclecticisms
 eclipse
 eclipser
+eclipsis
 ecliptic
 ecliptics
 eclosion
@@ -24650,6 +24662,7 @@ edaphic
 edaphically
 eddied
 eddies
+eddoes
 eddy
 edelweiss
 edemas
@@ -26813,6 +26826,7 @@ establish
 establishable
 established
 establisher
+establishers
 establishment
 estaminets
 estancia
@@ -28739,6 +28753,7 @@ felicitous
 felicity
 felids
 felinely
+felines
 felinities
 felinity
 fella
@@ -28899,6 +28914,7 @@ ferromanganese
 ferromanganeses
 ferrosilicons
 ferrotype
+ferrotyping
 ferruginous
 ferrule
 ferruled
@@ -31947,6 +31963,7 @@ galyaks
 gam
 gamb
 gamba
+gambades
 gambado
 gambados
 gambas
@@ -33711,6 +33728,7 @@ gowds
 gowks
 gown
 gowned
+gowning
 gowns
 gownsman
 goy
@@ -34307,6 +34325,7 @@ grossing
 grossly
 grossness
 grossularites
+grossulars
 grosz
 grosze
 groszy
@@ -37926,6 +37945,7 @@ hyperboreans
 hypercalcemic
 hypercatalectic
 hypercautious
+hypercharge
 hypercomplex
 hypercorrectly
 hypercritical
@@ -39611,6 +39631,7 @@ inductively
 inductors
 indued
 indulge
+indulged
 indulgers
 indulin
 induline
@@ -42727,6 +42748,7 @@ ketchup
 ketchups
 ketene
 ketenes
+ketogeneses
 ketogenesis
 ketogenic
 ketol
@@ -44818,6 +44840,7 @@ likeness
 likenesses
 likening
 likers
+likest
 liking
 likings
 lilacs
@@ -44831,6 +44854,7 @@ lily
 lilylike
 lima
 limacine
+limacon
 limacons
 limans
 limb
@@ -48447,6 +48471,7 @@ mid
 midair
 midbrain
 midbrains
+midcourse
 midcult
 midden
 middens
@@ -52149,6 +52174,7 @@ nightscopes
 nightshade
 nightspots
 nightstands
+nighttide
 nighttime
 nighttimes
 nightwalker
@@ -53831,6 +53857,7 @@ octad
 octadic
 octagon
 octagonally
+octahedral
 octahedron
 octahedrons
 octal
@@ -60770,6 +60797,7 @@ poind
 poinded
 poinding
 poinsettia
+pointe
 pointed
 pointedness
 pointier
@@ -61172,6 +61200,7 @@ ponytail
 poo
 pooch
 pooches
+pood
 poodle
 poodles
 poods
@@ -75905,6 +75934,7 @@ soundproof
 soundproofed
 soundstage
 soundstages
+soup
 soupcon
 souped
 soupiest
@@ -81613,6 +81643,7 @@ terminably
 terminal
 terminally
 terminals
+terminational
 terminations
 terminatively
 terminator
@@ -88506,6 +88537,7 @@ vestals
 vestas
 vested
 vestees
+vestiaries
 vestibule
 vestibuled
 vestibuling
@@ -90596,6 +90628,7 @@ windrowing
 windrows
 windscreen
 windscreens
+windshield
 windshields
 windsocks
 windsurfed
@@ -91150,6 +91183,7 @@ wreakers
 wreaking
 wreaks
 wreathe
+wreather
 wreathers
 wreathes
 wreathing
@@ -91549,6 +91583,7 @@ yodeller
 yodellers
 yodelling
 yodels
+yodh
 yodhs
 yodle
 yodled
