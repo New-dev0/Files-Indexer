@@ -2065,6 +2065,7 @@ amalgamators
 amalgams
 amanitin
 amanuenses
+amanuensis
 amaranthine
 amaranths
 amarelles
@@ -7959,6 +7960,7 @@ blancher
 blanching
 bland
 blander
+blandest
 blandishes
 blandishing
 blandishment
@@ -12475,6 +12477,7 @@ chancres
 chancroid
 chancroids
 chandelier
+chandeliers
 chandelled
 chandelles
 chandler
@@ -15046,6 +15049,7 @@ colonization
 colonized
 colonizers
 colonnade
+colonnaded
 colonnades
 colons
 colonus
@@ -18665,6 +18669,7 @@ cusped
 cuspidal
 cuspidate
 cuspidation
+cuspidors
 cuspids
 cuspis
 cusser
@@ -20947,6 +20952,7 @@ desmosomes
 desolateness
 desolaters
 desolatingly
+desolator
 desolators
 desorb
 desorbed
@@ -24016,6 +24022,7 @@ ductile
 ducting
 ductwork
 duddy
+dude
 dudgeons
 dudishly
 due
@@ -29177,6 +29184,7 @@ filets
 filial
 filiate
 filiates
+filiating
 filibeg
 filibegs
 filibuster
@@ -29986,6 +29994,7 @@ florid
 floridity
 floridness
 floridnesses
+floriferous
 florins
 florist
 floristic
@@ -31611,6 +31620,7 @@ furore
 furores
 furors
 furosemides
+furred
 furrieries
 furriery
 furrily
@@ -35851,6 +35861,7 @@ hefts
 hegaris
 hegemonies
 hegemons
+hegemony
 hegira
 hegumens
 hegumeny
@@ -36061,6 +36072,7 @@ hemostat
 hemostatic
 hemostatics
 hemostats
+hemotoxic
 hempen
 hempier
 hempseeds
@@ -40113,6 +40125,7 @@ inosites
 inositol
 inositols
 inotropic
+inpatient
 inpatients
 inpour
 inpoured
@@ -45152,6 +45165,7 @@ littler
 littlest
 littlish
 littorals
+liturgic
 liturgically
 liturgics
 liturgiologies
@@ -47542,6 +47556,7 @@ megapodes
 megaproject
 megaprojects
 megara
+megaron
 megascopic
 megascopically
 megasporangia
@@ -50388,6 +50403,7 @@ motorways
 mott
 motte
 mottes
+mottler
 mottling
 motto
 motts
@@ -50690,6 +50706,7 @@ multilingualism
 multilingually
 multilobe
 multilobes
+multimanned
 multimedia
 multimegawatt
 multimegawatts
@@ -53393,6 +53410,7 @@ nutcase
 nutcracker
 nutcrackers
 nutgall
+nutgrasses
 nuthouse
 nutlet
 nutlets
@@ -53828,6 +53846,7 @@ odiferous
 odious
 odiously
 odiousnesses
+odist
 odiums
 odograph
 odometers
@@ -54473,6 +54492,7 @@ ore
 orectic
 orective
 oreide
+oreodont
 oreodonts
 organa
 organdie
@@ -54718,6 +54738,7 @@ ossification
 ossifications
 ossifrages
 ossifying
+ossuary
 osteal
 osteitides
 osteitis
@@ -55017,6 +55038,7 @@ outfabling
 outface
 outfaces
 outfast
+outfasted
 outfawned
 outfawning
 outfeast
@@ -55459,6 +55481,7 @@ outtalk
 outtalked
 outtalking
 outtask
+outtasked
 outtasking
 outtasks
 outtell
@@ -58755,6 +58778,7 @@ personifies
 personifying
 personnels
 perspectival
+perspexes
 perspicacious
 perspicaciously
 perspicuity
@@ -58923,6 +58947,7 @@ petulant
 petuntzes
 pew
 pewit
+pews
 pewter
 pewterer
 pewterers
@@ -67634,6 +67659,7 @@ repanelled
 repanels
 repapering
 repapers
+reparably
 reparation
 reparks
 repartees
@@ -74402,6 +74428,7 @@ skysurfing
 skysurfs
 skywalks
 skyways
+skywrite
 skywriters
 skywrites
 skywriting
@@ -75307,6 +75334,7 @@ socagers
 socages
 soccer
 soccers
+sociable
 sociableness
 sociably
 social
@@ -76971,6 +76999,7 @@ staghounds
 stagier
 stagiest
 stagily
+stagings
 stagnances
 stagnant
 stagnantly
@@ -82035,6 +82064,7 @@ thirsty
 thirteenth
 thirteenths
 thirties
+thirtieth
 thirtieths
 thirty
 thirtyish
@@ -83449,6 +83479,7 @@ transeunt
 transfected
 transfecting
 transfections
+transfer
 transferals
 transference
 transferential
@@ -86524,6 +86555,7 @@ unmakers
 unmaking
 unmaliciously
 unmanageably
+unmanaged
 unmanful
 unmanlier
 unmanliest
@@ -87527,6 +87559,7 @@ urbanizations
 urbanized
 urbanizing
 urbanologies
+urbanologist
 urbanologists
 urbanology
 urceolate
@@ -88845,6 +88878,7 @@ vitiates
 vitiating
 vitiations
 vitiator
+viticultural
 viticulturally
 viticulture
 viticulturists
@@ -91803,6 +91837,7 @@ zygoid
 zygomas
 zygomata
 zygomatics
+zygose
 zygosities
 zygospore
 zygospores
