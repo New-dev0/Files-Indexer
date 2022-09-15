@@ -1704,6 +1704,7 @@ alienability
 alienable
 alienage
 alienate
+alienations
 alienators
 alienees
 aliening
@@ -3405,6 +3406,7 @@ antonymies
 antonymous
 antonyms
 antra
+antrum
 antsiness
 antsinesses
 anural
@@ -4067,6 +4069,7 @@ ariettes
 ariose
 ariosi
 arioso
+ariosos
 arise
 arisen
 arises
@@ -4135,6 +4138,7 @@ arouse
 aroused
 arouser
 arousers
+arouses
 aroynt
 aroynted
 aroynting
@@ -5102,6 +5106,7 @@ automaticity
 automating
 automation
 automatist
+automatizations
 automatize
 automatized
 automatizes
@@ -5972,6 +5977,7 @@ barbiturates
 barbless
 barbs
 barbule
+barbwire
 barbwires
 barca
 barcaroles
@@ -7041,6 +7047,7 @@ berberines
 berberins
 berberis
 berberises
+berceuse
 berceuses
 berdache
 bereaved
@@ -11769,6 +11776,7 @@ catabolites
 catabolizes
 catabolizing
 catachresis
+catachrestical
 cataclysm
 cataclysmically
 catacomb
@@ -11946,6 +11954,7 @@ cattie
 cattiest
 cattily
 cattiness
+cattinesses
 catting
 cattish
 cattishly
@@ -14094,6 +14103,7 @@ clewed
 cliche
 clicker
 clickers
+clicking
 clicks
 clickwrap
 clientages
@@ -15392,6 +15402,7 @@ communicative
 communicatively
 communicator
 communicators
+communion
 communique
 communise
 communised
@@ -26769,6 +26780,7 @@ erysipelas
 erysipelases
 erythema
 erythorbate
+erythorbates
 erythremia
 erythremias
 erythrism
@@ -30127,6 +30139,7 @@ flotas
 flotation
 flotations
 flotillas
+flotsam
 flounce
 flouncier
 flounciest
@@ -30285,6 +30298,7 @@ flutterers
 fluttering
 fluty
 fluviatile
+flux
 fluxed
 fluxes
 fluxgates
@@ -33219,6 +33233,7 @@ glib
 glibber
 glibbest
 glibness
+glide
 glided
 glidepath
 glidepaths
@@ -35188,6 +35203,7 @@ hallucinating
 hallucinator
 hallucinators
 hallucinatory
+hallucinogenic
 hallucinogens
 hallux
 hallways
@@ -36589,6 +36605,7 @@ hieroglyphs
 hierology
 hierophantic
 hierophants
+hierurgies
 hierurgy
 hifalutin
 higgled
@@ -37138,6 +37155,7 @@ homospories
 homotaxes
 homothallic
 homotransplants
+homozygoses
 homozygosis
 homozygosities
 homozygote
@@ -40263,6 +40281,7 @@ innumeracies
 innumeracy
 innumerate
 innumerates
+inobservant
 inoculant
 inoculate
 inoculating
@@ -41698,6 +41717,7 @@ isotherms
 isotone
 isotonic
 isotonicities
+isotonicity
 isotope
 isotopic
 isotopically
@@ -45315,6 +45335,7 @@ lithologically
 lithology
 lithophanes
 lithophytes
+lithopone
 lithos
 lithospheres
 lithospheric
@@ -50265,6 +50286,7 @@ moo
 mooch
 moochers
 mooches
+mooching
 moodier
 moodiest
 moodily
@@ -50773,6 +50795,7 @@ mudder
 muddied
 muddier
 muddiest
+muddily
 muddleheaded
 muddly
 muddy
@@ -53991,6 +54014,7 @@ ochering
 ochers
 ochlocracies
 ochlocracy
+ochlocrats
 ochre
 ochreae
 ochroid
@@ -56147,6 +56171,7 @@ overfulfilling
 overfunding
 overfussy
 overgeneralize
+overgeneralized
 overgeneralizes
 overgenerous
 overgenerously
@@ -56551,6 +56576,7 @@ oversweeten
 oversweetened
 oversweetening
 oversweetens
+oversweetnesses
 overswing
 overtake
 overtakes
@@ -60164,6 +60190,7 @@ pioneering
 pions
 piosity
 pious
+piously
 pip
 pipage
 pipal
@@ -68231,6 +68258,7 @@ requisitenesses
 requisition
 requisitioning
 requite
+requiter
 requiters
 rerack
 reradiate
@@ -69260,6 +69288,7 @@ rheme
 rhemes
 rhenium
 rheniums
+rheobase
 rheobases
 rheobasic
 rheological
@@ -72686,6 +72715,7 @@ seneca
 senecas
 senecio
 senecios
+senectitude
 senescent
 sengi
 senhor
@@ -77656,6 +77686,7 @@ stein
 stela
 stelae
 stelar
+stele
 stelene
 steles
 stelic
@@ -82523,6 +82554,7 @@ throbs
 throes
 thrombi
 thrombin
+thrombocytes
 thromboembolic
 thromboembolism
 thrombokinase
@@ -87111,6 +87143,7 @@ unredeemable
 unreel
 unreeling
 unreels
+unreeve
 unreeved
 unreeves
 unreeving
@@ -89033,6 +89066,7 @@ viniest
 vinifera
 viniferas
 vinifications
+vinified
 vinifies
 vining
 vinosities
@@ -90370,6 +90404,7 @@ whappers
 whaps
 wharf
 wharfage
+wharfed
 wharfinger
 wharfmaster
 wharfmasters
