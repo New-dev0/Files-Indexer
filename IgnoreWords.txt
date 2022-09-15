@@ -1779,6 +1779,7 @@ alkaloids
 alkaloses
 alkane
 alkanet
+alkenes
 alkie
 alkine
 alkines
@@ -5483,6 +5484,7 @@ backbreaking
 backcasts
 backchat
 backchecking
+backcloth
 backcountries
 backcourtmen
 backcourts
@@ -8209,6 +8211,7 @@ blondining
 blondish
 blonds
 bloodbath
+bloodbaths
 bloodcurdling
 blooded
 bloodfin
@@ -23763,6 +23766,7 @@ draftsperson
 draftspersons
 drag
 dragee
+dragees
 dragged
 draggiest
 dragging
@@ -25113,6 +25117,7 @@ electromyogram
 electronic
 electronics
 electrophile
+electrophilic
 electrophorese
 electrophoreses
 electrophorus
@@ -25620,6 +25625,7 @@ enatic
 encaenia
 encage
 encaged
+encages
 encampment
 encapsulate
 encapsulated
@@ -28587,6 +28593,7 @@ farmerette
 farmerettes
 farmhands
 farmhouse
+farmland
 farmlands
 farmstead
 farmsteads
@@ -29625,6 +29632,7 @@ firsthand
 firstling
 firstly
 firstness
+firstnesses
 firsts
 firth
 fisc
@@ -30908,6 +30916,7 @@ formalizer
 formalizing
 formalnesses
 formals
+formamides
 format
 formates
 formatively
@@ -31299,6 +31308,7 @@ frenetic
 frenetically
 freneticism
 freneticisms
+frenetics
 frenula
 frenulum
 frenulums
@@ -33324,6 +33334,7 @@ glissade
 glissader
 glissaders
 glissades
+glissading
 glissandi
 glissando
 glissandos
@@ -33984,6 +33995,7 @@ grammatically
 grammaticalness
 gramp
 grampas
+grams
 gran
 granadilla
 granaries
@@ -37504,6 +37516,7 @@ hosels
 hosen
 hosepipe
 hoser
+hosers
 hoses
 hosey
 hoseys
@@ -39052,6 +39065,7 @@ impishly
 impishness
 implacabilities
 implacable
+implant
 implantable
 implantation
 implantations
@@ -45033,6 +45047,7 @@ lightweight
 lignan
 lignans
 ligneous
+lignifying
 lignite
 lignitic
 lignocelluloses
@@ -45276,6 +45291,7 @@ lipogeneses
 lipoid
 lipolyses
 lipolytic
+lipoproteins
 liposomal
 liposuctions
 lipotropic
@@ -46290,6 +46306,7 @@ lymphoid
 lymphomatoses
 lymphs
 lynched
+lynches
 lynching
 lynxes
 lyophile
@@ -46832,6 +46849,7 @@ mammillated
 mammitides
 mammocked
 mammogram
+mammographies
 mammon
 mammonist
 mammons
@@ -51167,6 +51185,7 @@ murderously
 murderousness
 murders
 mure
+mured
 murein
 mures
 muriates
@@ -54330,6 +54349,7 @@ ointments
 oiticicas
 okas
 okay
+okeydoke
 okra
 olden
 older
@@ -54787,6 +54807,7 @@ orchils
 orcin
 orcinol
 orcins
+ordainer
 ordainers
 ordaining
 ordainment
@@ -56798,6 +56819,7 @@ ovulated
 ovulations
 ovule
 ovum
+owe
 owed
 owlets
 owlish
@@ -67618,6 +67640,7 @@ relativity
 relativized
 relativizes
 relativizing
+relators
 relaunder
 relaundered
 relaunders
@@ -68324,6 +68347,7 @@ repugning
 repugns
 repulser
 repulses
+repulsing
 repulsions
 repulsively
 repump
@@ -75425,6 +75449,7 @@ smudginess
 smudging
 smudgy
 smug
+smuggle
 smuggled
 smuggler
 smuggles
@@ -78825,6 +78850,7 @@ subclassed
 subclassify
 subclassifying
 subclause
+subclauses
 subclavians
 subclerk
 subclerks
@@ -79332,6 +79358,7 @@ subversiveness
 subvert
 subverter
 subverters
+subverting
 subverts
 subvicars
 subviruses
@@ -79960,6 +79987,7 @@ supersells
 supersessions
 supersex
 supersexes
+supersexuality
 supersharp
 supershow
 supershows
@@ -85408,6 +85436,7 @@ tying
 tyiyn
 tyke
 tykes
+tylosin
 tymbal
 tymbals
 tympana
@@ -86700,6 +86729,7 @@ ungainliness
 ungainlinesses
 ungalled
 ungarbed
+ungarnished
 ungazing
 ungenial
 ungentle
@@ -87296,6 +87326,7 @@ unrepair
 unrepeatable
 unrepentant
 unrepentantly
+unrepresented
 unrepressed
 unrequited
 unreserve
@@ -88150,6 +88181,7 @@ usherette
 usquebae
 usquebaes
 usques
+usually
 usualness
 usuals
 usufruct
@@ -88219,6 +88251,7 @@ vacate
 vacated
 vacates
 vacation
+vacationing
 vacationlands
 vaccinas
 vaccinator
@@ -88760,6 +88793,7 @@ ventriloquized
 ventriloquizing
 ventriloquy
 vents
+venture
 venturer
 venturesomely
 venturously
@@ -92212,6 +92246,7 @@ zigged
 zigzagged
 zigzagger
 zigzaggers
+zigzaggy
 zilch
 zillah
 zillahs
