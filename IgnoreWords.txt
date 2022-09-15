@@ -1048,6 +1048,7 @@ aesthetical
 aesthetically
 aestheticism
 aestheticisms
+aestheticizing
 aesthetics
 aestivate
 aestivated
@@ -7667,6 +7668,7 @@ biostrome
 biostromes
 biosyntheses
 biosynthesis
+biosystematic
 biosystematics
 biosystematist
 biosystematists
@@ -9960,6 +9962,7 @@ bullion
 bullishly
 bullishness
 bullishnesses
+bullmastiffs
 bullnecked
 bullnecks
 bullnose
@@ -12351,6 +12354,7 @@ chaconnes
 chadars
 chador
 chadri
+chads
 chaebol
 chaetae
 chafed
@@ -12661,6 +12665,7 @@ chassepot
 chassepots
 chassis
 chastely
+chastened
 chastener
 chasteners
 chastens
@@ -16008,6 +16013,7 @@ conjugational
 conjugationally
 conjunction
 conjunctional
+conjunctions
 conjunctiva
 conjunctivae
 conjunctive
@@ -21846,6 +21852,7 @@ dinging
 dingle
 dingleberries
 dingoes
+dinitro
 dinitrobenzene
 dinitrobenzenes
 dinitrophenol
@@ -23040,6 +23047,7 @@ dockers
 docketed
 dockhands
 docking
+docklands
 dockyard
 doctorates
 doctored
@@ -23150,6 +23158,7 @@ doit
 doited
 dojo
 dolabrate
+dolce
 dolcettos
 dolci
 dole
@@ -32868,6 +32877,7 @@ gingerbreads
 gingerbready
 gingered
 gingerlinesses
+gingerroot
 gingerroots
 gingersnap
 gingersnaps
@@ -33288,6 +33298,7 @@ glutamines
 glutaraldehyde
 glutaraldehydes
 glutei
+glutelin
 glutethimides
 gluteus
 glutinous
@@ -33403,6 +33414,7 @@ gobans
 gobbed
 gobbet
 gobbets
+gobbled
 gobbledegook
 gobbledegooks
 gobbledygook
@@ -35651,6 +35663,7 @@ headgears
 headhunt
 headhunted
 headhunter
+headhunting
 headhunts
 headier
 headily
@@ -42852,6 +42865,7 @@ kidnappers
 kidnapping
 kidnaps
 kidney
+kidskin
 kidskins
 kidvid
 kief
@@ -43343,6 +43357,7 @@ kyte
 kythe
 kythed
 kythes
+laager
 laagered
 laagering
 lab
@@ -46736,6 +46751,7 @@ mannerless
 mannerliness
 mannerlinesses
 manners
+mannikin
 mannishly
 mannishness
 mannishnesses
@@ -46954,6 +46970,7 @@ marlstone
 marmalade
 marmites
 marmots
+marooning
 marplot
 marplots
 marque
@@ -48405,6 +48422,7 @@ microsurgeries
 microsurgical
 microswitch
 microtechnique
+microtome
 microtonalities
 microtonality
 microtonally
@@ -48787,6 +48805,7 @@ minimizers
 minimizes
 minimums
 mining
+minipark
 miniparks
 minipills
 minis
@@ -49806,6 +49825,7 @@ monadnocks
 monandry
 monarch
 monarchial
+monarchic
 monarchical
 monarchies
 monarchist
@@ -51557,6 +51577,7 @@ necessitarian
 necessitate
 necessitates
 necessitation
+necessitations
 necessitous
 necessitousness
 necessity
@@ -52378,6 +52399,7 @@ nonanswer
 nonantagonistic
 nonantibiotic
 nonantigenic
+nonaqueous
 nonarable
 nonarbitrary
 nonargument
@@ -52539,6 +52561,7 @@ noncounty
 noncoverage
 noncreative
 noncreativity
+noncredentialed
 noncredit
 noncrimes
 noncriminals
@@ -52973,6 +52996,7 @@ nonsocialist
 nonsocialists
 nonspeaker
 nonspecific
+nonspectacular
 nonspherical
 nonsporting
 nonstandard
@@ -64314,6 +64338,7 @@ pyramid
 pyramidal
 pyramiding
 pyranoid
+pyranose
 pyranosides
 pyrans
 pyrargyrites
@@ -66580,6 +66605,7 @@ reengineered
 reengraves
 reenjoy
 reenjoying
+reenjoys
 reenlarge
 reenlarges
 reenlarging
@@ -66745,6 +66771,7 @@ refly
 refocused
 refocusing
 refocussing
+refolded
 refolds
 reforest
 reforestation
@@ -67559,6 +67586,7 @@ rendition
 renditions
 rends
 renegading
+renege
 reneged
 reneger
 renegers
@@ -68120,6 +68148,7 @@ resensitizes
 resent
 resentence
 resentencing
+resentment
 resentments
 reserpines
 reservable
@@ -70537,6 +70566,7 @@ salons
 saloon
 saloop
 saloops
+salpians
 salpids
 salpiform
 salpinges
@@ -71395,6 +71425,7 @@ schnorrers
 schnoz
 schnozz
 schnozzes
+scholarly
 scholars
 scholarships
 scholasticates
@@ -76554,6 +76585,7 @@ spoilt
 spoke
 spoken
 spokes
+spokesmanship
 spokesmanships
 spokesmen
 spokespeople
@@ -85006,6 +85038,7 @@ typic
 typical
 typicalities
 typicality
+typically
 typier
 typiest
 typification
@@ -88195,6 +88228,7 @@ velarizing
 velate
 velcros
 veld
+velds
 veldts
 veliger
 veligers
@@ -88926,6 +88960,7 @@ vitrines
 vitriol
 vitrioled
 vitriolling
+vitriols
 vittae
 vittled
 vittles
