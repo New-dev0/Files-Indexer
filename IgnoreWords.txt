@@ -4309,6 +4309,7 @@ ascorbate
 ascorbates
 ascorbic
 ascosporic
+ascot
 ascots
 ascribable
 ascribe
@@ -6075,6 +6076,7 @@ barrelage
 barrelhead
 barrelheads
 barrelhouse
+barrelhouses
 barrelled
 barrelling
 barrels
@@ -6136,6 +6138,7 @@ bashed
 bashers
 bashful
 bashfulness
+bashfulnesses
 bashing
 bashings
 basic
@@ -7048,6 +7051,7 @@ bernicles
 berobed
 berouged
 berretta
+berrettas
 berried
 berries
 berrying
@@ -10157,6 +10161,7 @@ burner
 burnets
 burnie
 burnies
+burning
 burnish
 burnisher
 burnishers
@@ -12344,6 +12349,7 @@ cestus
 cestuses
 cesurae
 cesuras
+cetacean
 cetaceans
 cetaceous
 cetane
@@ -15737,6 +15743,7 @@ concurrent
 concurrently
 concurring
 concuss
+concussion
 concussive
 condemn
 condemnation
@@ -19339,6 +19346,7 @@ daubing
 daubs
 daughter
 daughters
+daundered
 daundering
 daunomycin
 daunomycins
@@ -21187,6 +21195,7 @@ detruded
 detrusion
 detrusions
 detumescent
+deuce
 deuced
 deucedly
 deuteranope
@@ -24558,6 +24567,7 @@ echinodermatous
 echinoderms
 echinus
 echiuroids
+echoed
 echograms
 echoic
 echoing
@@ -25720,6 +25730,7 @@ endothelioma
 endothelium
 endotherm
 endothermic
+endothermies
 endotoxic
 endotoxins
 endotrophic
@@ -32055,6 +32066,7 @@ gangsterism
 gangsters
 gangue
 gangues
+gangway
 ganjah
 ganjahs
 ganjas
@@ -35164,6 +35176,7 @@ hamstringing
 hamulate
 hamulous
 hamulus
+hamza
 hamzahs
 hanaper
 hance
@@ -39513,6 +39526,7 @@ indicant
 indicants
 indicate
 indicates
+indication
 indications
 indicative
 indicatives
@@ -40759,6 +40773,7 @@ internuncio
 interobserver
 interocean
 interoceanic
+interoceptive
 interoceptor
 interoceptors
 interoffice
@@ -41045,6 +41060,7 @@ intrusively
 intrust
 intrusting
 intubate
+intubated
 intubating
 intubation
 intubations
@@ -43438,6 +43454,7 @@ labyrinthodonts
 lac
 laccolith
 laccolithic
+lace
 laced
 laceless
 lacelike
@@ -47080,6 +47097,7 @@ masalas
 masas
 mascaraing
 mascarpones
+mascons
 mascot
 masculines
 masculinise
@@ -47803,6 +47821,7 @@ meningococcal
 meningococci
 meningococcic
 meningococcus
+meninx
 menisci
 meniscoid
 meniscuses
@@ -48710,6 +48729,7 @@ millstreams
 millwork
 millworks
 millwright
+milneb
 milnebs
 milo
 milpa
@@ -58056,6 +58076,7 @@ peavy
 pebbling
 pebbly
 pecan
+peccadillo
 peccadilloes
 peccadillos
 peccant
@@ -59729,6 +59750,7 @@ piedmont
 piedmonts
 piefort
 pieforts
+piehole
 pieplant
 pier
 pierces
@@ -60310,6 +60332,7 @@ plantocracy
 plantsman
 plantsmen
 planulae
+planular
 planuloid
 plashers
 plashiest
@@ -62988,6 +63011,7 @@ processes
 processible
 procession
 processionals
+processioning
 processors
 prochoice
 prochurch
@@ -64353,6 +64377,7 @@ pyknic
 pyknics
 pyoderma
 pyodermas
+pyogenic
 pyoid
 pyorrhea
 pyorrheas
@@ -64724,6 +64749,7 @@ questioner
 questioners
 questionless
 questionnaire
+questors
 quests
 quetzales
 quetzals
@@ -68207,6 +68233,7 @@ resews
 resh
 reshapers
 resharpens
+reshaven
 reshaves
 reshaving
 reshes
@@ -69313,6 +69340,7 @@ rigger
 riggers
 right
 righted
+righteously
 righteousness
 righter
 rightest
@@ -70236,6 +70264,7 @@ rushiest
 rushings
 rushlight
 rushlike
+rushy
 rusine
 rusk
 rusks
@@ -71960,6 +71989,7 @@ sealery
 sealift
 sealifts
 seals
+seam
 seamanship
 seamanships
 seamark
@@ -73903,6 +73933,7 @@ signage
 signaled
 signalers
 signaling
+signalise
 signalised
 signalises
 signalizations
@@ -75610,6 +75641,7 @@ solicitously
 solicitousness
 solicits
 solicitude
+solicitudes
 solidago
 solidagos
 solidarisms
@@ -88622,6 +88654,7 @@ vicarate
 vicarates
 vicariant
 vicariate
+vicarious
 vicariously
 vicariousnesses
 vicarly
@@ -90983,6 +91016,7 @@ woodtones
 woodwax
 woodwaxen
 woodworkers
+woodworking
 woodworm
 woody
 wooer
@@ -91709,6 +91743,7 @@ zanders
 zanier
 zanies
 zaniest
+zany
 zanyish
 zanzas
 zapateado
