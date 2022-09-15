@@ -1790,6 +1790,7 @@ alkylated
 alkylates
 alkylating
 alkylation
+alkylic
 alkyls
 all
 allanite
@@ -3827,6 +3828,7 @@ aquariums
 aquatics
 aquatint
 aquatinter
+aquatinters
 aquatints
 aquavit
 aqueous
@@ -4684,6 +4686,7 @@ ataractics
 ataraxias
 ataraxics
 ataraxy
+atavism
 atavistic
 atavistically
 ataxias
@@ -5437,6 +5440,7 @@ babying
 babyish
 babyishly
 babyproofed
+babysit
 babysits
 bacalao
 bacca
@@ -8431,6 +8435,7 @@ boatbuilders
 boatbuilding
 boatbuildings
 boated
+boatel
 boater
 boathooks
 boathouses
@@ -12418,6 +12423,7 @@ chadri
 chads
 chaebol
 chaetae
+chaetopod
 chafed
 chafes
 chaff
@@ -13590,6 +13596,7 @@ ciborium
 ciboules
 cicada
 cicadas
+cicatrice
 cicatrization
 cicatrize
 cicatrizing
@@ -15332,6 +15339,7 @@ commentating
 commentator
 commentators
 commerced
+commercial
 commercialises
 commercialisms
 commercialist
@@ -18246,6 +18254,7 @@ crudest
 crudities
 crudity
 cruds
+crueler
 crueller
 cruelly
 cruelnesses
@@ -21358,6 +21367,7 @@ devolving
 devon
 devoted
 devotedly
+devotedness
 devotednesses
 devotees
 devotements
@@ -23520,6 +23530,7 @@ doubleheader
 doublenesses
 doubler
 doublespeak
+doublespeaker
 doublespeakers
 doublethink
 doublethinks
@@ -26905,6 +26916,7 @@ espial
 espiegle
 espiegleries
 espionages
+esplanades
 espouse
 espouses
 espresso
@@ -27346,6 +27358,7 @@ evildoer
 evildoers
 evildoing
 evildoings
+eviler
 evilest
 eviller
 evillest
@@ -28188,6 +28201,7 @@ eyre
 eyrie
 eyrir
 eyry
+fab
 fabaceous
 fabber
 fabbest
@@ -29906,6 +29920,7 @@ flawlessly
 flaws
 flawy
 flax
+flaxen
 flaxes
 flaxier
 flaxiest
@@ -31958,6 +31973,7 @@ gainsaying
 gainsays
 gainst
 gaited
+gaiter
 gaiters
 gal
 galabia
@@ -47175,6 +47191,7 @@ marled
 marlinespikes
 marling
 marlins
+marlinspike
 marls
 marlstone
 marmalade
@@ -50566,6 +50583,7 @@ moseyed
 moseying
 mosh
 moshav
+moshers
 moshing
 moshings
 mosk
@@ -58186,6 +58204,7 @@ paws
 pax
 paxes
 paxwax
+pay
 payables
 payably
 payback
@@ -58423,6 +58442,7 @@ peesweep
 peesweeps
 peeve
 peevish
+peevishly
 peevishnesses
 peewee
 peewees
@@ -60258,6 +60278,7 @@ pipes
 pipestem
 pipestems
 pipestones
+pipets
 pipette
 pipetted
 pipetting
@@ -60489,6 +60510,7 @@ plaitings
 plaits
 plan
 planar
+planaria
 planarian
 planarias
 planarities
@@ -67703,6 +67725,7 @@ remade
 remailed
 remaindering
 remainders
+remained
 remaining
 remakers
 remakes
@@ -71540,6 +71563,7 @@ scanty
 scape
 scaped
 scapegoat
+scapegoating
 scapegrace
 scapegraces
 scaping
@@ -73600,6 +73624,7 @@ shigelloses
 shikaree
 shikarees
 shikari
+shikarring
 shikars
 shikker
 shikseh
@@ -76181,6 +76206,7 @@ sortieing
 sortilege
 sortileges
 sortition
+sos
 sostenuti
 sostenuto
 sot
@@ -78175,6 +78201,7 @@ stoppered
 stopping
 stoppled
 stoppling
+stops
 stopwatch
 storages
 storehouse
@@ -79471,6 +79498,7 @@ sulfhydryls
 sulfid
 sulfides
 sulfinpyrazone
+sulfinpyrazones
 sulfinyl
 sulfite
 sulfitic
@@ -81484,6 +81512,7 @@ teaspoonful
 teaspoonfuls
 teaspoons
 teataster
+teatasters
 teats
 teawares
 teazelling
@@ -82284,6 +82313,7 @@ theophanies
 theophany
 theophylline
 theorbo
+theorbos
 theoretic
 theoretically
 theories
@@ -84540,6 +84570,7 @@ trippiest
 tripping
 trippingly
 trippings
+trippy
 trips
 triptan
 triptanes
@@ -87924,6 +87955,7 @@ uptalked
 uptalks
 uptear
 uptearing
+uptears
 uptempos
 upthrown
 upthrust
@@ -87996,6 +88028,7 @@ ureal
 ureas
 uredia
 uredinia
+urediniospores
 uredinium
 urediospore
 urediospores
@@ -88199,6 +88232,7 @@ vaguer
 vagus
 vail
 vailing
+vain
 vainest
 vainglories
 vainglorious
@@ -89499,6 +89533,7 @@ voluming
 voluminosities
 voluminosity
 voluminous
+voluminousness
 voluntaries
 voluntarily
 voluntarinesses
