@@ -699,6 +699,7 @@ ademption
 adenine
 adenines
 adenitis
+adenocarcinoma
 adenohypophyses
 adenoid
 adenoma
@@ -9866,6 +9867,7 @@ bucket
 bucketed
 bucketfuls
 bucketing
+buckets
 buckeye
 buckeyes
 buckhounds
@@ -11720,6 +11722,7 @@ caseworker
 caseworm
 caseworms
 cash
+cashable
 cashaws
 cashbook
 cashbox
@@ -15144,6 +15147,7 @@ colocynths
 cologarithm
 cologne
 colombards
+colon
 colone
 colonelcies
 colones
@@ -16137,6 +16141,7 @@ conjunctivae
 conjunctive
 conjuncture
 conjunctures
+conjuntos
 conjurer
 conjurers
 conjuror
@@ -19570,6 +19575,7 @@ deadlight
 deadlined
 deadliness
 deadlining
+deadlocking
 deadly
 deadmen
 deadnesses
@@ -22187,6 +22193,7 @@ disablers
 disables
 disabling
 disabusal
+disabusals
 disabuse
 disaccharidase
 disaccord
@@ -31084,6 +31091,7 @@ fosterages
 fosterers
 fosters
 fou
+fouettes
 fought
 foughten
 foulbrood
@@ -36928,6 +36936,7 @@ hitter
 hitters
 hitting
 hive
+hived
 hiveless
 hives
 hm
@@ -38459,6 +38468,7 @@ icebound
 icebox
 icebreakers
 icecap
+icecaps
 icefall
 icehouse
 icehouses
@@ -42602,6 +42612,7 @@ jumbals
 jumble
 jumbled
 jumblers
+jumbles
 jumbling
 jumbo
 jumbos
@@ -46065,6 +46076,7 @@ lowlander
 lowlanders
 lowlands
 lowlier
+lowliest
 lowlifer
 lowlifers
 lowlights
@@ -47499,6 +47511,7 @@ matchboard
 matchbook
 matchboxes
 matched
+matcher
 matching
 matchless
 matchlessly
@@ -49183,6 +49196,7 @@ minsters
 minstrel
 minstrels
 minstrelsy
+mint
 mintage
 mintages
 minters
@@ -49212,6 +49226,7 @@ miracidium
 miracle
 miracles
 miraculous
+miradors
 mirage
 mirages
 mirandize
@@ -51127,6 +51142,7 @@ multipion
 multipiston
 multiplayer
 multiples
+multiplet
 multiplex
 multiplexed
 multiplexor
@@ -55796,6 +55812,7 @@ outsells
 outsert
 outserved
 outserves
+outshame
 outshames
 outshined
 outshoot
@@ -60283,6 +60300,7 @@ pinfolded
 pinfolds
 pinging
 pingoes
+pingrass
 pingrasses
 pinguid
 pinheadedness
@@ -61442,6 +61460,7 @@ polymorphously
 polymorphs
 polyneuritises
 polynomials
+polynyi
 polyol
 polyolefin
 polyolefins
@@ -61739,6 +61758,7 @@ portraying
 portrays
 portress
 portside
+portulaca
 posada
 pose
 posed
@@ -66536,6 +66556,7 @@ reconciliatory
 reconciling
 recondenses
 recondensing
+reconditely
 recondition
 reconditioned
 reconduct
@@ -67447,6 +67468,7 @@ rehabilitates
 rehabilitating
 rehabilitation
 rehabilitations
+rehabilitative
 rehabs
 rehammered
 rehandle
@@ -67743,6 +67765,7 @@ relegation
 relegations
 relending
 relent
+relenting
 relets
 reletter
 relettering
@@ -71188,6 +71211,7 @@ sandhog
 sandier
 sandiest
 sanding
+sandlike
 sandling
 sandlings
 sandlot
@@ -73843,6 +73867,7 @@ shirrings
 shirtdress
 shirtdresses
 shirtfront
+shirtfronts
 shirtier
 shirting
 shirtmaker
@@ -77124,6 +77149,7 @@ spooky
 spooled
 spooler
 spoolers
+spoolings
 spools
 spoon
 spooned
@@ -78584,6 +78610,7 @@ strewing
 strewments
 strewn
 stria
+striata
 striate
 striates
 striations
@@ -80929,6 +80956,7 @@ synthesizes
 synthetase
 synthetases
 synthpop
+synths
 syntonic
 syntony
 synura
@@ -83765,6 +83793,7 @@ tourers
 tourism
 tourisms
 touristic
+touristically
 touristy
 tourmaline
 tournament
@@ -85032,6 +85061,7 @@ trustfulness
 trustiness
 trustinesses
 trustingly
+trustingness
 trustingnesses
 trustor
 trusts
@@ -85093,6 +85123,7 @@ tubate
 tubbable
 tubbed
 tubbers
+tubbier
 tubbiest
 tubbiness
 tubbinesses
@@ -86754,6 +86785,7 @@ unfavorableness
 unfavorably
 unfavored
 unfavorite
+unfeared
 unfearing
 unfeelingly
 unfeelingnesses
@@ -89832,6 +89864,7 @@ vulgarize
 vulgarized
 vulgarizes
 vulgarly
+vulgates
 vulgo
 vulguses
 vulnerability
@@ -91085,6 +91118,7 @@ wildfowls
 wilding
 wildings
 wildish
+wildlands
 wildlife
 wildness
 wildwoods
@@ -91271,6 +91305,7 @@ wiredrew
 wiregrass
 wirehair
 wirehaired
+wirehairs
 wirelessed
 wirelesses
 wireman
