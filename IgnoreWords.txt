@@ -1108,6 +1108,7 @@ affinity
 affirm
 affirmable
 affirmances
+affirmant
 affirmants
 affirmative
 affirmatively
@@ -3052,6 +3053,7 @@ antibusing
 antic
 anticaking
 antically
+anticancer
 anticapitalisms
 anticensorship
 antichoice
@@ -4307,6 +4309,7 @@ ascetical
 ascetically
 asceticisms
 ascidia
+ascidians
 ascites
 asclepiad
 asclepiads
@@ -4753,6 +4756,7 @@ atonally
 atone
 atoneable
 atoned
+atonements
 atoners
 atonia
 atonicity
@@ -10873,6 +10877,7 @@ camisade
 camisados
 camise
 camises
+camisoles
 camlet
 cammie
 cammies
@@ -11557,6 +11562,7 @@ carpetbaggeries
 carpetbaggers
 carpetbags
 carpeting
+carpets
 carpetweeds
 carpi
 carpingly
@@ -12715,6 +12721,7 @@ chastisements
 chastiser
 chastises
 chastities
+chat
 chatchke
 chateaubriand
 chateaus
@@ -15810,6 +15817,7 @@ condoned
 condoners
 condones
 condoning
+condor
 condores
 condors
 conducers
@@ -15881,6 +15889,7 @@ confessor
 confessors
 confetti
 confidantes
+confidences
 confident
 confidentially
 confides
@@ -17121,6 +17130,7 @@ cosmographical
 cosmographies
 cosmography
 cosmoline
+cosmolined
 cosmolines
 cosmolining
 cosmologies
@@ -17857,6 +17867,7 @@ crenellated
 crenelled
 crenels
 crenshaw
+crenshaws
 crenulated
 creodont
 creodonts
@@ -23670,6 +23681,7 @@ drabbing
 drabbled
 drabness
 drabnesses
+drabs
 dracena
 dracenas
 drachm
@@ -26976,6 +26988,7 @@ ethenes
 ethereal
 ethereality
 etherealization
+etherealize
 etherealizes
 etherealnesses
 etherization
@@ -27590,6 +27603,7 @@ exhaustion
 exhaustive
 exhaustively
 exhaustivities
+exhaustivity
 exhaustless
 exhaustlessly
 exhaustlessness
@@ -31152,6 +31166,7 @@ freebie
 freeboards
 freeboot
 freedman
+freedmen
 freedom
 freedoms
 freedwomen
@@ -33584,6 +33599,7 @@ goldeneye
 goldeneyes
 goldenness
 goldennesses
+goldenrods
 goldenseal
 goldenseals
 goldeye
@@ -34680,6 +34696,7 @@ guitars
 guitguit
 gulag
 gular
+gulches
 guldens
 gulf
 gulfing
@@ -36439,6 +36456,7 @@ heterologously
 heterolysis
 heteromorphic
 heteronomous
+heteronomy
 heteronyms
 heterophil
 heterophile
@@ -37226,6 +37244,7 @@ hoofprint
 hoofprints
 hook
 hookah
+hookas
 hooked
 hookeys
 hookier
@@ -37895,6 +37914,7 @@ hydrokinetic
 hydrologic
 hydrological
 hydrologists
+hydrolysates
 hydrolyte
 hydrolytic
 hydrolyzed
@@ -37974,6 +37994,7 @@ hygrometer
 hygrometers
 hygrometric
 hygrophytes
+hygroscopic
 hygroscopicity
 hygrostats
 hyla
@@ -38901,6 +38922,7 @@ imperils
 imperiousness
 imperishability
 imperishable
+imperishables
 imperiums
 impermissibly
 impersonal
@@ -40972,6 +40994,7 @@ intertwists
 interuniversity
 interurban
 interval
+intervale
 intervallic
 intervalometer
 intervalometers
@@ -46046,6 +46069,7 @@ lunula
 lunulate
 lunulated
 lunule
+luny
 lupanar
 lupins
 lupulins
@@ -47315,6 +47339,7 @@ matchwood
 mated
 matelasses
 matelot
+matelote
 matelotes
 matelots
 materialises
@@ -49088,6 +49113,7 @@ misassays
 misassemble
 misassign
 misassigned
+misassigning
 misassigns
 misassumption
 misatone
@@ -50652,6 +50678,7 @@ mousy
 mouthbreeder
 mouthed
 mouthfeels
+mouthfuls
 mouthier
 mouthiest
 mouthily
@@ -53782,6 +53809,7 @@ oblivions
 oblivious
 obliviously
 oblong
+obnoxious
 obnoxiousnesses
 obnubilate
 obnubilated
@@ -55837,6 +55865,7 @@ overawing
 overbake
 overbaking
 overbalanced
+overbalancing
 overbearing
 overbearingly
 overbears
@@ -63469,6 +63498,7 @@ prophase
 prophasic
 prophecy
 prophesied
+prophesier
 prophesiers
 prophesy
 prophesying
@@ -73320,6 +73350,7 @@ shears
 sheas
 sheatfish
 sheath
+sheathbill
 sheathe
 sheathed
 sheather
@@ -80171,6 +80202,7 @@ swashbuckler
 swashbucklers
 swashbuckles
 swashed
+swatches
 swathed
 swathers
 swathing
@@ -86054,6 +86086,7 @@ underboss
 underbought
 underbred
 underbrim
+underbrims
 underbrush
 underbud
 underbudding
@@ -89452,6 +89485,7 @@ voyeuristic
 vroom
 vrooms
 vrouw
+vrouws
 vrow
 vuggier
 vuggs
@@ -91896,6 +91930,7 @@ yuppifies
 yuppify
 yuppifying
 yurt
+yutz
 ywis
 zabaglione
 zabajone
