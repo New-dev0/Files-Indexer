@@ -91,6 +91,7 @@ absorbance
 absorbancies
 absorbant
 absorbants
+absorbed
 absorbencies
 absorbency
 absorbents
@@ -1107,6 +1108,7 @@ affidavits
 affinal
 affine
 affinely
+affines
 affinity
 affirm
 affirmable
@@ -3100,6 +3102,7 @@ anticompetitive
 anticonsumer
 anticonvulsant
 anticonvulsants
+anticonvulsives
 anticorrosives
 anticorruption
 anticruelty
@@ -10383,6 +10386,7 @@ buttonballs
 buttonbush
 buttonbushes
 buttoner
+buttoners
 buttonhole
 buttonholed
 buttonholer
@@ -12137,6 +12141,7 @@ ceils
 ceintures
 cel
 celandines
+celebrated
 celebratedness
 celebration
 celebrations
@@ -12694,6 +12699,7 @@ charities
 charivaris
 chark
 charked
+charking
 charks
 charladies
 charlady
@@ -13082,6 +13088,7 @@ childlikenesses
 childly
 children
 chile
+chili
 chiliadal
 chiliarchs
 chiliast
@@ -14742,6 +14749,7 @@ coemploying
 coemploys
 coempt
 coempts
+coenacted
 coenamor
 coenamored
 coenamors
@@ -16014,6 +16022,7 @@ confusedly
 confusednesses
 confuses
 confusing
+confusion
 confutations
 confuter
 confutes
@@ -16891,6 +16900,7 @@ cordialnesses
 cordials
 cordierite
 cordierites
+cordiform
 cordillera
 cordilleran
 cordilleras
@@ -19646,6 +19656,7 @@ debauched
 debauchee
 debauchees
 debaucher
+debauchers
 debauchery
 debeak
 debeaked
@@ -25432,6 +25443,7 @@ embrocates
 embrocation
 embrocations
 embroglio
+embroglios
 embroider
 embroidered
 embroiderers
@@ -26072,6 +26084,7 @@ enneads
 ennoble
 ennobler
 ennuye
+ennuyee
 enoki
 enokitake
 enokitakes
@@ -26338,6 +26351,7 @@ enumerable
 enumerate
 enumerated
 enumerating
+enumeration
 enumerations
 enumerative
 enunciable
@@ -34450,6 +34464,7 @@ gripiest
 griping
 gripman
 gripmen
+gripped
 gripper
 grippier
 grippiest
@@ -46112,6 +46127,7 @@ lucubrating
 luculent
 luculently
 lude
+ludicrous
 ludicrousnesses
 luffed
 luftmenschen
@@ -46539,6 +46555,7 @@ madmen
 madness
 madnesses
 madrasahs
+madre
 madrepore
 madreporian
 madreporite
@@ -49325,6 +49342,7 @@ misbuild
 misbuilds
 misbuilt
 misbuttoned
+miscalculate
 miscalculated
 miscalculating
 miscalculation
@@ -49562,6 +49580,7 @@ misjoinders
 misjudging
 misjudgment
 miskeep
+miskick
 misknew
 misknowledge
 misknown
@@ -55437,6 +55456,7 @@ outfables
 outfabling
 outface
 outfaces
+outfall
 outfast
 outfasted
 outfawned
@@ -57974,6 +57994,7 @@ parturitions
 partway
 party
 partyers
+partygoer
 partygoers
 partying
 parura
@@ -59315,6 +59336,7 @@ petit
 petiteness
 petitenesses
 petition
+petitionary
 petitioners
 petnap
 petnapers
@@ -63100,6 +63122,7 @@ prewarns
 prewashed
 preweaning
 prewiring
+prework
 preworked
 preworking
 preworn
@@ -66130,6 +66153,7 @@ reasonlessly
 reasons
 reassailing
 reassails
+reassemblage
 reassemble
 reassembles
 reassemblies
@@ -70246,6 +70270,7 @@ rotates
 rotating
 rotation
 rotations
+rotative
 rotatively
 rotator
 rotators
@@ -70280,6 +70305,7 @@ rottweilers
 rotunda
 rotundities
 rotundness
+rotundnesses
 roturier
 roturiers
 roubles
@@ -75615,6 +75641,7 @@ sneering
 sneesh
 sneeze
 sneezer
+sneezers
 sneezes
 sneezeweeds
 sneezing
@@ -75686,6 +75713,7 @@ snoods
 snook
 snooked
 snooker
+snookered
 snookering
 snooking
 snool
@@ -75992,6 +76020,7 @@ solders
 soldiered
 soldiering
 soldierings
+soldiers
 soldiership
 soldierships
 solecise
@@ -77363,6 +77392,7 @@ squatty
 squawbush
 squawbushes
 squawk
+squawked
 squawkers
 squawroot
 squawroots
@@ -77487,6 +77517,7 @@ stacks
 stackups
 stacte
 stactes
+stades
 stadia
 stadias
 stadium
@@ -82314,6 +82345,7 @@ thairms
 thalami
 thalamus
 thalassaemias
+thalassemias
 thalassic
 thalassocracies
 thalassocracy
@@ -85339,6 +85371,7 @@ tussling
 tussocked
 tussocks
 tussor
+tussore
 tussores
 tussors
 tussuck
@@ -87657,6 +87690,7 @@ unsubtle
 unsuccess
 unsuitabilities
 unsuitability
+unsullied
 unsunk
 unsupportable
 unsurpassable
@@ -89319,6 +89353,7 @@ violative
 violet
 violets
 violinistic
+violinists
 violoncellist
 violoncellists
 violone
