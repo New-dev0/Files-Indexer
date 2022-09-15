@@ -127,6 +127,7 @@ abstricts
 abstruse
 abstrusely
 abstruseness
+abstrusenesses
 abstruser
 abstrusity
 absurd
@@ -3004,6 +3005,7 @@ anthrax
 anthropical
 anthropogenic
 anthropoid
+anthropologies
 anthropologist
 anthropologists
 anthropometries
@@ -5937,6 +5939,7 @@ baptistery
 baptists
 baptize
 baptizers
+barb
 barbal
 barbarianisms
 barbarians
@@ -10632,6 +10635,7 @@ cakey
 cakier
 cakiest
 cakinesses
+caking
 caky
 calabash
 calabashes
@@ -11328,6 +11332,7 @@ carbolized
 carbolizing
 carbon
 carbonades
+carbonadoed
 carbonadoes
 carbonadoing
 carbonados
@@ -12266,6 +12271,7 @@ cephalothin
 cephalothorax
 cephalothoraxes
 cephalous
+cepheids
 ceps
 ceraceous
 ceramal
@@ -19147,6 +19153,7 @@ daisies
 dakoities
 dakoits
 dakoity
+daks
 dal
 dalapon
 dalapons
@@ -24976,6 +24983,7 @@ elations
 elatives
 elbowing
 eldercare
+eldercares
 elderlies
 elderliness
 elderlinesses
@@ -25736,6 +25744,7 @@ endomorphs
 endonuclease
 endonucleases
 endonucleolytic
+endoparasitism
 endopeptidases
 endoperoxide
 endoplasm
@@ -30041,6 +30050,7 @@ floodlighting
 floodlit
 floodplain
 floodplains
+floods
 floodtides
 floodwaters
 flooey
@@ -30151,6 +30161,7 @@ fluctuating
 fluctuation
 flue
 flued
+fluency
 fluently
 flues
 fluff
@@ -30814,6 +30825,7 @@ formalnesses
 formals
 format
 formates
+formatively
 formatives
 formats
 formatters
@@ -32925,6 +32937,7 @@ gilts
 gimbal
 gimbaled
 gimbaling
+gimballed
 gimballing
 gimbals
 gimcrack
@@ -35185,6 +35198,7 @@ halters
 haltless
 halutzim
 halva
+halvah
 halvahs
 halve
 halving
@@ -35546,6 +35560,7 @@ harvest
 harvestable
 harvested
 harvesting
+harvestman
 harvestmen
 harvesttime
 harvesttimes
@@ -39341,6 +39356,7 @@ inclosure
 inclosures
 includable
 includes
+includible
 including
 inclusion
 inclusive
@@ -47715,6 +47731,7 @@ megasporophylls
 megass
 megasse
 megasses
+megastar
 megastars
 megathere
 megatheres
@@ -49303,6 +49320,7 @@ misframe
 misframed
 misfunction
 misfunctioned
+misfunctioning
 misfunctions
 misgauge
 misgave
@@ -50852,6 +50870,7 @@ multifarious
 multifid
 multifilament
 multiflash
+multifoil
 multiform
 multiformities
 multifunctional
@@ -55577,6 +55596,7 @@ outslick
 outslicking
 outsmart
 outsmelling
+outsmells
 outsmelt
 outsmile
 outsmoked
@@ -58710,6 +58730,7 @@ perfumy
 perfusates
 perfused
 perfuses
+perfusing
 perfusion
 pergolas
 perhapses
@@ -61282,6 +61303,7 @@ ponce
 ponces
 poncho
 ponchos
+poncing
 ponder
 ponderable
 pondered
@@ -66123,6 +66145,7 @@ rechews
 rechoosing
 rechose
 rechosen
+recidivisms
 recidivist
 recidivistic
 recipe
@@ -69005,6 +69028,7 @@ reverbed
 reverberant
 reverberantly
 reverberates
+reverberating
 reverberation
 reverberative
 reverberatory
@@ -69807,6 +69831,7 @@ rolfing
 rolfs
 roll
 rollaway
+rollback
 rolled
 roller
 rollers
@@ -70313,6 +70338,7 @@ rumouring
 rumours
 rumple
 rumpled
+rumples
 rumplier
 rumps
 rumpus
@@ -71116,6 +71142,7 @@ satanism
 satanists
 satays
 satcheled
+satchels
 sateen
 sateens
 satem
@@ -73507,6 +73534,7 @@ shinsplints
 shiny
 shipboard
 shipboards
+shipbuilder
 shipbuilding
 shiplaps
 shipless
@@ -74652,6 +74680,7 @@ skysails
 skyscraper
 skyscrapers
 skysurf
+skysurfed
 skysurfer
 skysurfing
 skysurfs
@@ -76762,6 +76791,7 @@ spoilsmen
 spoilsports
 spoilt
 spoke
+spoked
 spoken
 spokes
 spokesmanship
@@ -82309,6 +82339,7 @@ thiouracils
 thioureas
 thir
 thirams
+thirds
 thirls
 thirst
 thirster
@@ -82532,6 +82563,7 @@ thunderbolts
 thunderclap
 thunderclaps
 thunderclouds
+thunderer
 thunderhead
 thunderstone
 thunderstones
@@ -83420,6 +83452,7 @@ toughness
 toughnesses
 toughy
 toupee
+touracos
 tourbillion
 tourbillons
 toured
@@ -88437,6 +88470,7 @@ vellicated
 vellicates
 vellums
 velocimeter
+velocimeters
 velocipede
 velociraptor
 velocity
@@ -90046,6 +90080,7 @@ weaponry
 weapons
 wear
 wearabilities
+wearability
 wearable
 wearers
 wearies
