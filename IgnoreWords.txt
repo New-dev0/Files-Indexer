@@ -1880,6 +1880,7 @@ allotment
 allotments
 allotrope
 allotropic
+allotropy
 allotter
 allotters
 allotypies
@@ -5232,6 +5233,7 @@ avowals
 avower
 avowing
 avows
+avulse
 avulsed
 avulses
 avulsing
@@ -5492,6 +5494,7 @@ backings
 backland
 backlands
 backlash
+backlashed
 backlasher
 backlashes
 backlashing
@@ -7427,6 +7430,7 @@ bigoses
 bigot
 bigotedly
 bigotry
+bigwig
 bigwigs
 bihourly
 bijection
@@ -9213,6 +9217,7 @@ brants
 bras
 brash
 brasher
+brashier
 brashly
 brashness
 brashnesses
@@ -12615,6 +12620,7 @@ charismas
 charismata
 charismatics
 charitable
+charitableness
 charitably
 charities
 charivaris
@@ -13631,6 +13637,7 @@ circuitry
 circuits
 circuity
 circular
+circularise
 circularised
 circularising
 circularization
@@ -16075,6 +16082,7 @@ connoted
 connotes
 connoting
 conns
+connubial
 connubialism
 connubialisms
 connubiality
@@ -17213,6 +17221,7 @@ counsellings
 counsellor
 counsellors
 counselor
+counselors
 counselorship
 counselorships
 counsels
@@ -18150,6 +18159,7 @@ crows
 crowstepped
 crozers
 croziers
+cru
 cruces
 crucial
 crucially
@@ -22202,6 +22212,7 @@ disco
 discographer
 discographers
 discographic
+discography
 discoidal
 discoloration
 discoloring
@@ -23717,6 +23728,7 @@ draughted
 draughtier
 draughts
 draughtsman
+draughty
 drave
 drawable
 drawback
@@ -24894,6 +24906,7 @@ eject
 ejecta
 ejected
 ejective
+ejectives
 ejectors
 ejects
 eke
@@ -28046,6 +28059,7 @@ eyeblink
 eyeblinks
 eyebolts
 eyebrows
+eyecup
 eyedropper
 eyefolds
 eyefuls
@@ -32872,6 +32886,7 @@ gillnetter
 gilly
 gillyflowers
 gilt
+giltheads
 gilts
 gimbal
 gimbaled
@@ -35365,6 +35380,7 @@ hardbacks
 hardboard
 hardboot
 hardboots
+hardbound
 hardbounds
 hardcase
 hardcores
@@ -35817,6 +35833,7 @@ heathendoms
 heathenish
 heathenisms
 heathenized
+heathenizes
 heathenries
 heathens
 heather
@@ -37029,6 +37046,7 @@ homonuclear
 homonymic
 homonymies
 homonymy
+homoousian
 homoousians
 homophobes
 homophobia
@@ -48375,12 +48393,14 @@ microforms
 microfossil
 microfossils
 microfungus
+microgametocyte
 microgram
 micrograms
 micrograph
 micrographed
 micrographic
 micrographing
+micrographs
 microgrooves
 microhabitats
 microhms
@@ -55182,6 +55202,7 @@ outgasses
 outgassing
 outgaze
 outgazed
+outgazes
 outgeneral
 outgeneraling
 outgenerals
@@ -57375,6 +57396,7 @@ paraphrasing
 paraphs
 paraplegic
 paraplegics
+parapsychology
 paraquet
 paraquets
 pararosaniline
@@ -58637,6 +58659,7 @@ pericarp
 pericarps
 perichondral
 perichondria
+pericopae
 pericopal
 pericope
 pericrania
@@ -60526,6 +60549,7 @@ plenarily
 plenches
 plenishes
 plenists
+plenitude
 plenitudes
 plenteous
 plenteously
@@ -61081,6 +61105,7 @@ polymorphically
 polymorphisms
 polymorphous
 polymorphously
+polymorphs
 polyneuritises
 polynomials
 polyol
@@ -67185,6 +67210,7 @@ reinforcing
 reinforming
 reinfuses
 reinfusing
+reinhabit
 reinhabits
 reinitiated
 reinjecting
@@ -71573,6 +71599,7 @@ scissortail
 scissortails
 scissures
 sciurine
+sciurines
 sciuroid
 sclaffed
 sclaffers
@@ -73474,6 +73501,7 @@ shlumped
 shlumping
 shlumpy
 shmaltzier
+shmaltziest
 shmear
 shmo
 shmoes
@@ -75325,6 +75353,7 @@ snot
 snottily
 snottiness
 snout
+snouted
 snoutiest
 snouty
 snow
@@ -76327,6 +76356,7 @@ spending
 spendthrifts
 spendy
 spense
+sperm
 spermacetis
 spermagonia
 spermaries
@@ -79633,6 +79663,7 @@ supersell
 supersells
 supersessions
 supersex
+supersexes
 supersharp
 supershow
 supershows
@@ -81228,6 +81259,7 @@ techniques
 technocrat
 technocratic
 technologic
+technological
 technologically
 technologists
 technologized
@@ -81919,6 +81951,7 @@ thankfulness
 thanking
 thanklessness
 thankworthy
+tharms
 that
 thataway
 thatcher
@@ -86786,6 +86819,7 @@ unpatentable
 unpeeled
 unpegging
 unpenning
+unpens
 unpeople
 unpeopled
 unpeoples
@@ -89831,6 +89865,7 @@ wavelet
 wavelike
 wavellites
 waveoff
+wavered
 waveringly
 wavers
 wavery
