@@ -1589,6 +1589,7 @@ albizia
 album
 albumen
 albumens
+albumin
 albuminous
 albumins
 albuminuria
@@ -3678,6 +3679,7 @@ appestats
 appetences
 appetencies
 appetency
+appetiser
 appetisers
 appetising
 appetites
@@ -7444,6 +7446,7 @@ bijective
 bijugate
 biked
 biker
+bikes
 bikeways
 bikini
 bikinis
@@ -12494,6 +12497,7 @@ champions
 championships
 champleve
 champs
+champy
 chance
 chanced
 chanceful
@@ -14340,6 +14344,7 @@ coadmiring
 coadmit
 coadmits
 coadmitted
+coadmitting
 coadunate
 coagencies
 coagula
@@ -16875,6 +16880,7 @@ corncake
 corncakes
 corncrakes
 corncribs
+corneal
 corned
 cornelian
 cornelians
@@ -17690,6 +17696,7 @@ crapping
 craps
 crapshoots
 crases
+crashed
 crashers
 crashes
 crashworthiness
@@ -19597,6 +19604,7 @@ decadence
 decadences
 decadencies
 decadent
+decadently
 decaf
 decagram
 decagrams
@@ -19714,6 +19722,7 @@ decile
 deciliter
 deciliters
 decillion
+decimalization
 decimate
 decimated
 decimates
@@ -21081,6 +21090,7 @@ destructed
 destructibility
 destruction
 destructionist
+destructive
 destructiveness
 destructivity
 desuetude
@@ -29773,6 +29783,7 @@ flathead
 flatiron
 flatlands
 flatline
+flatliner
 flatliners
 flatlines
 flatlining
@@ -34352,6 +34363,7 @@ groin
 groins
 grokked
 grokking
+groks
 grommeting
 grommets
 groom
@@ -42667,6 +42679,7 @@ kbars
 keas
 kebab
 kebars
+kebbie
 kebbocks
 kebbuck
 kebbucks
@@ -44018,6 +44031,7 @@ latewoods
 lather
 latherer
 lathers
+lathes
 lathi
 lathier
 lathiest
@@ -48079,6 +48093,7 @@ mesophyllic
 mesoscale
 mesosome
 mesosomes
+mesospheric
 mesotheliomata
 mesothoracic
 mesothoraxes
@@ -48723,6 +48738,7 @@ millennialists
 millennium
 milleped
 millepede
+millepeds
 millepore
 miller
 millerite
@@ -49071,6 +49087,7 @@ misawarding
 misawards
 misbalance
 misbalances
+misbecame
 misbecomes
 misbecoming
 misbegin
@@ -50062,6 +50079,7 @@ monogenic
 monogenically
 monogenies
 monogeny
+monogramed
 monogrammatic
 monogrammed
 monogrammers
@@ -50269,6 +50287,7 @@ moory
 moos
 moose
 moosebird
+moosewood
 moot
 mootnesses
 moots
@@ -50694,6 +50713,7 @@ mucopeptides
 mucoproteins
 mucor
 mucosa
+mucosal
 mucosas
 mucous
 mucro
@@ -57886,6 +57906,7 @@ paterfamilias
 paternal
 paternalisms
 paternalistic
+paternally
 paternity
 paternoster
 paters
@@ -58954,6 +58975,7 @@ perspiration
 persuade
 persuaded
 persuader
+persuaders
 persuades
 persuading
 persuasible
@@ -61048,6 +61070,7 @@ polluters
 pollutes
 pollution
 pollutions
+pollutive
 polo
 poloists
 polonaise
@@ -61239,6 +61262,7 @@ pommelled
 pommels
 pommy
 pomo
+pomological
 pomologies
 pomologist
 pomologists
@@ -62118,6 +62142,7 @@ prededuct
 prededucted
 prededucting
 prededucts
+predefined
 predefining
 predella
 predeparture
@@ -68310,6 +68335,7 @@ resews
 resh
 reshapers
 resharpens
+reshave
 reshaven
 reshaves
 reshaving
@@ -68937,6 +68963,7 @@ revaluing
 revamped
 revamper
 revampers
+revamping
 revanches
 revanchist
 revarnish
@@ -70964,6 +70991,7 @@ saphenae
 sapid
 sapiencies
 sapiency
+sapient
 sapiently
 sapless
 saplessnesses
@@ -74388,6 +74416,7 @@ size
 sizeable
 sized
 sizes
+siziest
 siziness
 sizinesses
 sizing
@@ -79572,6 +79601,7 @@ supererogatory
 superette
 superexpensive
 superexpresses
+superfamily
 superfan
 superfarm
 superfast
@@ -82095,6 +82125,7 @@ theologs
 theologue
 theomachies
 theomachy
+theonomous
 theophanies
 theophany
 theophylline
@@ -82391,6 +82422,7 @@ three
 threeped
 threepence
 threepences
+threepenny
 threeping
 threeps
 threesomes
@@ -90171,6 +90203,7 @@ welching
 welcomely
 welcomenesses
 welcomers
+welcomes
 welcoming
 weld
 welded
@@ -90807,6 +90840,7 @@ wingtips
 wining
 winked
 winking
+winkle
 winkled
 winkles
 winkling
@@ -91200,6 +91234,7 @@ workhorses
 workhour
 workhouse
 workings
+workingwoman
 workingwomen
 worklessness
 workloads
