@@ -229,6 +229,7 @@ accepted
 acceptees
 accepter
 accepting
+acceptive
 acceptor
 accesses
 accessibility
@@ -5324,6 +5325,7 @@ axels
 axeman
 axemen
 axenically
+axes
 axial
 axiality
 axially
@@ -5678,6 +5680,7 @@ bailies
 bailiffship
 bailiffships
 bailments
+bailor
 bailors
 bailouts
 bails
@@ -7561,6 +7564,7 @@ bimensal
 bimester
 bimetal
 bimetallic
+bimetallistic
 bimetals
 bimethyl
 bimethyls
@@ -8181,6 +8185,7 @@ blithe
 blitheful
 blithely
 blither
+blithered
 blithering
 blithers
 blithesome
@@ -9138,6 +9143,7 @@ braced
 bracelet
 braceros
 brach
+brachet
 brachets
 brachia
 brachial
@@ -10560,6 +10566,7 @@ cad
 cadastral
 cadastre
 cadaver
+cadaveric
 cadaverine
 cadaverines
 cadaverous
@@ -12051,6 +12058,7 @@ cavatine
 cave
 caveating
 caved
+cavefishes
 cavelike
 caveman
 cavendishes
@@ -13002,6 +13010,7 @@ chiasmas
 chiasmata
 chiasmatic
 chiasmic
+chiasms
 chiaus
 chibouque
 chic
@@ -15245,6 +15254,7 @@ comakers
 comaking
 comal
 comanaged
+comanagement
 comanagements
 comanager
 comatiks
@@ -18025,6 +18035,7 @@ crimson
 crimsoned
 crimsoning
 crimsons
+cringed
 cringer
 cringes
 cringing
@@ -19892,6 +19903,7 @@ deconcentrating
 deconcentration
 deconditioning
 deconditions
+decongestant
 decongesting
 decongestion
 decongestive
@@ -21764,6 +21776,7 @@ diestrum
 diestrums
 diestrus
 diestruses
+dietary
 dieted
 dieter
 dieters
@@ -25138,6 +25151,7 @@ electroplates
 electroplating
 electropositive
 electroscope
+electroshocks
 electrostatic
 electrosurgery
 electrosurgical
@@ -27712,6 +27726,7 @@ exhorted
 exhorting
 exhorts
 exhumation
+exhume
 exhumed
 exigences
 exigencies
@@ -29669,6 +29684,7 @@ fishier
 fishily
 fishiness
 fishings
+fishkill
 fishless
 fishlike
 fishline
@@ -30078,6 +30094,7 @@ flimsy
 flinching
 fling
 flinging
+flinkite
 flinkites
 flinted
 flintheads
@@ -30274,6 +30291,7 @@ fluffiest
 fluffily
 fluffiness
 fluffinesses
+fluffy
 flugelhorns
 fluid
 fluidal
@@ -32161,6 +32179,7 @@ gambling
 gamboge
 gamboges
 gambol
+gamboling
 gambolled
 gambols
 gambrel
@@ -35329,6 +35348,7 @@ halving
 ham
 hamada
 hamadryad
+hamadryades
 hamadryads
 hamadryases
 hamal
@@ -37536,6 +37556,7 @@ hoser
 hosers
 hoses
 hosey
+hoseyed
 hoseys
 hosieries
 hosiers
@@ -40863,6 +40884,7 @@ interindividual
 interindustry
 interinfluence
 interinfluences
+interinvolve
 interinvolving
 interionic
 interiorise
@@ -41883,6 +41905,7 @@ ivorybills
 ivylike
 ixias
 ixodid
+ixodids
 ixoras
 ixtles
 izar
@@ -43858,6 +43881,7 @@ lambdas
 lambdoid
 lambed
 lambencies
+lambent
 lambers
 lamberts
 lambies
@@ -50605,6 +50629,7 @@ mortarman
 mortarmen
 mortars
 mortgage
+mortgaged
 mortgagee
 mortgagees
 mortgagers
@@ -52592,6 +52617,7 @@ nobelium
 nobility
 noble
 nobleman
+noblesse
 noblesses
 noblest
 noblewomen
@@ -58260,6 +58286,7 @@ pawnage
 pawnbroker
 pawnbrokers
 pawnbroking
+pawnbrokings
 pawnee
 pawnees
 pawning
@@ -60534,6 +60561,7 @@ plafond
 plagal
 plagiaries
 plagiarise
+plagiarised
 plagiarisms
 plagiaristic
 plagiarized
@@ -63785,6 +63813,7 @@ proses
 prosier
 prosily
 prosimians
+prosinesses
 prosit
 prosobranchs
 prosodist
@@ -70099,6 +70128,7 @@ roofs
 rooftop
 rooftops
 rook
+rookeries
 rookery
 rookier
 rookies
@@ -71601,6 +71631,7 @@ scampies
 scampish
 scamps
 scamster
+scamsters
 scandal
 scandaling
 scandalise
@@ -76103,6 +76134,7 @@ somersault
 somersaulting
 somersaults
 somerseted
+somersetted
 somethings
 sometimes
 somewhat
@@ -80362,6 +80394,7 @@ swamplands
 swanherd
 swanherds
 swank
+swanker
 swankest
 swankier
 swankiest
@@ -86021,6 +86054,7 @@ uncanninesses
 uncanny
 uncanonical
 uncap
+uncapable
 uncapped
 uncaptioned
 uncapturable
@@ -86118,6 +86152,7 @@ unclearer
 unclearest
 unclench
 unclenches
+unclimbable
 unclinched
 unclinching
 unclip
