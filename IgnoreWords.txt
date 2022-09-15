@@ -4248,6 +4248,7 @@ artichoke
 artichokes
 article
 articled
+articulable
 articulacies
 articulate
 articulated
@@ -4264,6 +4265,7 @@ artificialities
 artificialness
 artilleries
 artillerist
+artillerists
 artilleryman
 artillerymen
 artiness
@@ -11126,6 +11128,7 @@ canteen
 canteens
 canter
 cantered
+cantering
 canters
 canthal
 cantharis
@@ -12978,6 +12981,7 @@ cheviot
 cheviots
 chevre
 chevres
+chevrets
 chevrons
 chevy
 chevying
@@ -13028,6 +13032,7 @@ chicks
 chickweeds
 chicle
 chicly
+chicnesses
 chico
 chicory
 chicos
@@ -14944,6 +14949,7 @@ coking
 coky
 col
 cola
+colas
 colatitudes
 colby
 colbys
@@ -15119,6 +15125,7 @@ colocates
 colocynth
 colocynths
 cologarithm
+cologne
 colombards
 colone
 colonelcies
@@ -17993,6 +18000,7 @@ crickey
 cricking
 cricoid
 cries
+crimes
 criminal
 criminalistics
 criminalities
@@ -18114,6 +18122,7 @@ crojiks
 cromlech
 cromlechs
 crone
+cronyism
 cronyisms
 crook
 crookback
@@ -22779,6 +22788,7 @@ disqualifies
 disqualify
 disqualifying
 disquantities
+disquantity
 disquiet
 disquietly
 disquiets
@@ -25078,6 +25088,7 @@ electret
 electrical
 electrically
 electricians
+electricities
 electrified
 electrifies
 electrifying
@@ -27651,6 +27662,7 @@ exergual
 exergue
 exergues
 exerted
+exerting
 exertive
 exerts
 exes
@@ -27873,6 +27885,7 @@ expertness
 expiate
 expiating
 expiation
+expiator
 expiatory
 expirations
 expiratory
@@ -32725,6 +32738,7 @@ gentrices
 gentrification
 gentrifications
 gentrified
+gentrifiers
 gentrify
 gentrifying
 gentry
@@ -33495,6 +33509,7 @@ glutaraldehyde
 glutaraldehydes
 glutei
 glutelin
+glutenous
 glutethimides
 gluteus
 glutinous
@@ -35826,6 +35841,7 @@ hayride
 hayrides
 hays
 hayseed
+haywards
 hazanim
 hazans
 hazard
@@ -37224,6 +37240,7 @@ homophyly
 homoplasy
 homopolymers
 homopteran
+homopterans
 homosex
 homosexual
 homosexually
@@ -41524,6 +41541,7 @@ irenics
 irides
 iridescences
 iridium
+iridologies
 iridologist
 iridology
 iridosmines
@@ -42287,6 +42305,7 @@ jipijapas
 jism
 jitterbug
 jitterbugs
+jittered
 jitteriness
 jitterinesses
 jittery
@@ -45805,6 +45824,7 @@ loofa
 loofahs
 loofas
 looie
+looing
 look
 lookalike
 lookdowns
@@ -51638,6 +51658,7 @@ napalming
 nape
 napery
 naphtha
+naphthalenes
 naphthenes
 naphthenic
 naphthols
@@ -52070,6 +52091,7 @@ nephelines
 nephelinic
 nephelinite
 nephelinites
+nephelite
 nephelometers
 nephelometry
 nephogram
@@ -61091,6 +61113,7 @@ pogromist
 pogroms
 pogy
 poh
+poi
 poignance
 poignancies
 poignantly
@@ -70562,6 +70585,7 @@ runways
 rupee
 rupiah
 rupiahs
+ruptures
 rupturing
 rural
 ruralises
@@ -72273,6 +72297,7 @@ scuzzball
 scuzzy
 scyphate
 scyphi
+scyphistoma
 scyphozoan
 scyphozoans
 scyphus
@@ -75047,6 +75072,7 @@ slendernesses
 slept
 sleuthhounds
 slewed
+slewing
 slice
 slicers
 slicing
@@ -76897,6 +76923,7 @@ spites
 spitfire
 spitfires
 spitted
+spitter
 spitters
 spitting
 spittle
@@ -84336,6 +84363,7 @@ trevallies
 trevallys
 trevet
 trevets
+trews
 triac
 triacetates
 triacids
@@ -84606,6 +84634,7 @@ tripletail
 triplexes
 triplicate
 triplicated
+triplication
 triplications
 triplicities
 triplicity
@@ -85401,6 +85430,7 @@ twirl
 twirled
 twirlers
 twirling
+twirp
 twister
 twisters
 twistier
@@ -90509,6 +90539,7 @@ welshed
 welsher
 welshing
 weltanschauungs
+welted
 weltering
 welters
 welterweight
@@ -90922,6 +90953,7 @@ widowers
 widowhood
 widowing
 widows
+width
 widths
 widthway
 widthways
@@ -91017,6 +91049,7 @@ willows
 willowwares
 willowy
 willy
+wimbles
 wimmin
 wimpiest
 wimpish
@@ -92326,6 +92359,7 @@ zonetimes
 zonked
 zonks
 zonula
+zonulae
 zonules
 zoochore
 zoochores
@@ -92415,6 +92449,7 @@ zymogram
 zymograms
 zymologies
 zymolyses
+zymometer
 zymosan
 zymosans
 zymosis
