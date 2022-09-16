@@ -322,6 +322,7 @@ accruable
 accruals
 accrue
 accruement
+accrues
 acculturate
 acculturated
 acculturates
@@ -4000,6 +4001,7 @@ archetypally
 archfoe
 archfoes
 archil
+archils
 archimandrite
 archimandrites
 archine
@@ -6644,6 +6646,7 @@ bedposts
 bedquilts
 bedraggled
 bedraggling
+bedrenches
 bedrid
 bedridden
 bedrivel
@@ -9654,6 +9657,7 @@ broadleaves
 broadloom
 broadly
 broadside
+broadsided
 broadswords
 broadtail
 broadtails
@@ -9966,6 +9970,7 @@ budgie
 budging
 budless
 budlike
+budworm
 budworms
 buffable
 buffaloberry
@@ -11393,6 +11398,7 @@ caracolling
 caracols
 caracul
 carafe
+carafes
 carambola
 caramel
 caramelize
@@ -11735,6 +11741,7 @@ cartoonist
 cartoonists
 cartoonlike
 cartoons
+cartopper
 cartridges
 carts
 cartulary
@@ -12332,6 +12339,7 @@ centimorgans
 centner
 centones
 centra
+central
 centraler
 centralises
 centralism
@@ -19221,6 +19229,7 @@ cytotaxonomic
 cytotaxonomy
 cytotechnology
 cytotoxicities
+cytotoxicity
 cytotoxins
 czardas
 czardom
@@ -21861,6 +21870,7 @@ didjeridu
 dido
 didy
 didymium
+didymiums
 didymous
 didynamy
 die
@@ -24838,6 +24848,7 @@ echinoderm
 echinodermatous
 echinoderms
 echinus
+echiuroid
 echiuroids
 echoed
 echograms
@@ -25910,6 +25921,7 @@ endamage
 endamaged
 endamages
 endameba
+endamebic
 endamoebas
 endanger
 endangering
@@ -38586,6 +38598,7 @@ hypostatization
 hypostatize
 hypostatized
 hypostatizes
+hypostatizing
 hypostome
 hypostomes
 hypotensions
@@ -39025,6 +39038,7 @@ immanentism
 immanentisms
 immanentists
 immaterial
+immaterialism
 immaterialisms
 immaterialists
 immaterializes
@@ -39262,6 +39276,7 @@ imperials
 imperiled
 imperiling
 imperilled
+imperilling
 imperils
 imperiousness
 imperishability
@@ -39492,6 +39507,7 @@ impugner
 impugners
 impugning
 impugns
+impuissance
 impuissant
 impulse
 impulsed
@@ -40235,6 +40251,7 @@ infants
 infarcted
 infarctions
 infare
+infatuated
 infatuations
 infaunae
 infaunal
@@ -43615,6 +43632,7 @@ knackwurst
 knapped
 knapper
 knaps
+knapsacked
 knapsacks
 knarry
 knars
@@ -44478,6 +44496,7 @@ latitudinarian
 latke
 latkes
 latosol
+latosols
 latria
 latrines
 latte
@@ -46516,6 +46535,7 @@ lustred
 lustring
 lustrings
 lustrous
+lustrousness
 lustrousnesses
 lustrum
 lusty
@@ -50202,6 +50222,7 @@ moans
 moat
 moatlike
 moats
+mobbed
 mobber
 mobbers
 mobbishly
@@ -60557,6 +60578,7 @@ pimply
 pimpmobile
 pimps
 pina
+pinaceous
 pinafored
 pinafores
 pinang
@@ -61967,6 +61989,7 @@ pops
 popsicles
 popsies
 popularise
+popularised
 popularises
 popularities
 popularity
@@ -62591,6 +62614,7 @@ prebinds
 prebiological
 prebirth
 prebirths
+preblessed
 preblessing
 preboil
 preboiled
@@ -64278,6 +64302,7 @@ protesters
 protests
 prothalamion
 prothalli
+prothallus
 prothalluses
 prothesis
 prothonotaries
@@ -67431,6 +67456,7 @@ reeving
 reexamine
 reexamines
 reexecuted
+reexhibited
 reexhibiting
 reexhibits
 reexpelling
@@ -73493,6 +73519,7 @@ serdab
 sered
 serein
 serenade
+serenades
 serenatas
 serenate
 serendipities
@@ -74985,6 +75012,7 @@ sinister
 sinisterly
 sinistrous
 sink
+sinkable
 sinkers
 sinkholes
 sinking
@@ -76755,6 +76783,7 @@ sotols
 sotted
 sottishly
 sottishness
+sottishnesses
 sou
 souari
 souaris
@@ -76854,6 +76883,7 @@ sowans
 sowars
 sowbelly
 sowcar
+sowcars
 sower
 sowing
 soy
@@ -80639,6 +80669,7 @@ surbases
 surceasing
 surcharges
 surcingle
+surcingled
 surcingles
 surcingling
 surcoats
@@ -81963,6 +81994,7 @@ taut
 tautaug
 tauted
 tautened
+tautens
 tauter
 tautest
 tauting
@@ -87298,6 +87330,7 @@ ungloving
 unglue
 ungluing
 ungodliest
+ungodliness
 ungodly
 ungotten
 ungowned
@@ -90149,6 +90182,7 @@ volitions
 volitive
 volkslied
 volkslieder
+volley
 volleyballs
 volleyed
 volleyers
@@ -91135,6 +91169,7 @@ wether
 wetness
 wetnesses
 wets
+wetsuits
 wettabilities
 wetter
 wetting
