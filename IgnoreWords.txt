@@ -738,6 +738,7 @@ adiabatically
 adieu
 adieux
 adipoceres
+adipocyte
 adipose
 adiposity
 adipous
@@ -2662,6 +2663,7 @@ anecdotes
 anecdotic
 anecdotically
 anecdotists
+anelasticity
 anele
 aneled
 aneles
@@ -16054,6 +16056,7 @@ congealer
 congealing
 congealments
 congeals
+congeeing
 congelation
 congener
 congeneric
@@ -19982,6 +19985,7 @@ decoying
 decreases
 decreasing
 decree
+decreed
 decreers
 decrement
 decremental
@@ -25133,6 +25137,7 @@ electing
 electioneer
 electioneered
 electioneering
+electively
 electiveness
 electoral
 electors
@@ -25478,6 +25483,7 @@ embroider
 embroidered
 embroiderers
 embroidering
+embroil
 embroiler
 embroiling
 embroilment
@@ -26083,6 +26089,7 @@ enkindling
 enlace
 enlacements
 enlaces
+enlarged
 enlargement
 enlargements
 enlarger
@@ -27503,6 +27510,7 @@ exactness
 exaggerate
 exaggeratedly
 exaggeratedness
+exaggeration
 exaggerations
 exaggerator
 exahertz
@@ -30262,6 +30270,7 @@ floridity
 floridness
 floridnesses
 floriferous
+florilegium
 florins
 florist
 floristic
@@ -30282,6 +30291,7 @@ flotsam
 flounce
 flouncier
 flounciest
+flouncing
 flouncings
 flouncy
 flounders
@@ -35124,6 +35134,7 @@ habiliment
 habiliments
 habilitated
 habilitates
+habilitation
 habilitations
 habitabilities
 habitable
@@ -40130,6 +40141,7 @@ infighters
 infightings
 infights
 infill
+infiltrate
 infiltrations
 infiltrative
 infiltrator
@@ -46183,6 +46195,7 @@ luculently
 lude
 ludicrous
 ludicrousnesses
+luetic
 luffed
 luftmenschen
 lugeing
@@ -46559,6 +46572,7 @@ macroevolution
 macroevolutions
 macrofossil
 macrofossils
+macroglobulin
 macroglobulins
 macromere
 macromolecular
@@ -54334,6 +54348,7 @@ odiums
 odograph
 odometers
 odometries
+odonate
 odonates
 odontoblast
 odontoblasts
@@ -57909,6 +57924,7 @@ pargylines
 parhelion
 pariahs
 parians
+parings
 paris
 parish
 parishioners
@@ -61473,6 +61489,7 @@ polyenic
 polyester
 polyesters
 polyethylenes
+polygala
 polygamic
 polygamies
 polygamized
@@ -65520,6 +65537,7 @@ radiobiologist
 radiobiologists
 radiobiology
 radiocarbon
+radiochemical
 radiochemically
 radiochemists
 radioecologies
@@ -68282,6 +68300,7 @@ repeat
 repeatable
 repeaters
 repeating
+repeg
 repegged
 repegging
 repellant
@@ -75211,6 +75230,7 @@ sleekest
 sleekly
 sleekness
 sleeknesses
+sleeks
 sleeky
 sleepier
 sleepiest
@@ -76337,6 +76357,7 @@ sonnetize
 sonnetized
 sonnetizes
 sonnetizing
+sonnetting
 sonobuoy
 sonobuoys
 sonograms
@@ -79610,6 +79631,7 @@ succorer
 succorers
 succoring
 succors
+succotash
 succour
 succours
 succuba
@@ -80287,6 +80309,7 @@ suppletions
 suppletory
 suppliantly
 supplicant
+supplicated
 supplications
 supplies
 supplying
@@ -81023,6 +81046,7 @@ synodical
 synoicous
 synonymes
 synonymic
+synonymists
 synonymity
 synonymize
 synonymously
@@ -81320,6 +81344,7 @@ talismanically
 talismans
 talkable
 talkathon
+talkback
 talkers
 talkie
 talkier
@@ -81873,6 +81898,7 @@ teflon
 teg
 tegmentum
 tegminal
+tegua
 teguas
 teguments
 tegumina
@@ -83454,6 +83480,7 @@ toenails
 toeplate
 toes
 toffies
+tofts
 tofu
 tofus
 tofuttis
@@ -85602,6 +85629,7 @@ twilight
 twilights
 twilit
 twilling
+twillings
 twin
 twined
 twines
@@ -88086,6 +88114,7 @@ upending
 upflinging
 upflings
 upflow
+upflowed
 upflung
 upfold
 upfolded
@@ -88701,6 +88730,7 @@ vapourer
 vapourers
 vapours
 vaquero
+var
 vara
 varactor
 varactors
@@ -89456,6 +89486,7 @@ vindicatory
 vindictive
 vindictively
 vindictiveness
+vine
 vineal
 vined
 vinedresser
@@ -89824,6 +89855,7 @@ voltage
 voltages
 voltaism
 voltmeter
+voltmeters
 volts
 volubilities
 volubility
@@ -90233,6 +90265,7 @@ wardenship
 wardenships
 warders
 warding
+wardless
 wardress
 wardrobes
 wardship
@@ -90428,6 +90461,7 @@ waterinesses
 waterishness
 waterishnesses
 waterjets
+waterleafs
 waterless
 waterlily
 waterlines
@@ -92574,6 +92608,7 @@ zonules
 zoochore
 zoochores
 zooecium
+zoogamete
 zoogenic
 zoogeny
 zoogeographer
