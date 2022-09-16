@@ -6292,6 +6292,7 @@ bastardy
 baste
 baster
 basters
+bastes
 bastille
 bastinade
 bastinades
@@ -12069,6 +12070,7 @@ cats
 catsuit
 catsuits
 catsup
+cattail
 cattails
 cattalo
 cattaloes
@@ -13975,6 +13977,7 @@ clachan
 clachans
 clachs
 clacking
+clacks
 clad
 claddagh
 claddings
@@ -17977,6 +17980,7 @@ creatable
 create
 created
 creatines
+creating
 creatinines
 creationisms
 creationist
@@ -23999,6 +24003,7 @@ drama
 dramady
 dramas
 dramatically
+dramatisation
 dramatisations
 dramatist
 dramatists
@@ -24300,6 +24305,7 @@ drumroll
 drumrolls
 drumstick
 drumsticks
+drunk
 drunkard
 drunken
 drunker
@@ -29523,6 +29529,7 @@ fiddlestick
 fideisms
 fideistic
 fideists
+fidelismo
 fidelista
 fidelistas
 fidelities
@@ -30728,6 +30735,7 @@ fohn
 foibles
 foiling
 foils
+foilsman
 foin
 foining
 foins
@@ -31798,6 +31806,7 @@ frouzier
 frouziest
 frowardness
 frowardnesses
+frowningly
 frowns
 frows
 frowsier
@@ -35498,6 +35507,7 @@ hairsprays
 hairstreak
 hairstyling
 hairwork
+hairworms
 haj
 hajis
 hajj
@@ -36376,6 +36386,7 @@ hedgers
 hedgier
 hedgingly
 hedonic
+hedonics
 hedonisms
 hedonist
 hedonists
@@ -38996,6 +39007,7 @@ illumines
 illuming
 illumining
 illuminism
+illuminisms
 illuminists
 illusional
 illusionism
@@ -39725,6 +39737,7 @@ incapacitation
 incapacitations
 incapacity
 incarcerate
+incarcerating
 incarceration
 incarcerations
 incardination
@@ -39989,6 +40002,7 @@ indagates
 indagation
 indagator
 indagators
+indamin
 indamine
 indamines
 indamins
@@ -40818,6 +40832,7 @@ inside
 insider
 insiders
 insidiously
+insidiousness
 insidiousnesses
 insight
 insightful
@@ -41307,6 +41322,7 @@ interneuronal
 interneurons
 interning
 internist
+internment
 internments
 interns
 internship
@@ -42528,6 +42544,7 @@ jerreed
 jerreeds
 jerricans
 jerrids
+jerrycan
 jerseyed
 jess
 jessamine
@@ -44086,6 +44103,7 @@ lacteals
 lactiferous
 lactobacillus
 lactones
+lactonic
 lactose
 lacuna
 lacunae
@@ -45258,6 +45276,7 @@ liberals
 liberated
 liberation
 liberationists
+libertarianism
 libertarianisms
 libertarians
 liberties
@@ -48776,6 +48795,7 @@ metastases
 metastasis
 metastasize
 metastasizes
+metastatic
 metastatically
 metatarsal
 metatarsus
@@ -53041,6 +53061,7 @@ nocturnally
 nocturnes
 nocturns
 nod
+nodal
 nodalities
 nodality
 nodded
@@ -53325,6 +53346,7 @@ noncrossover
 noncrushable
 noncultivated
 noncultivation
+noncurrent
 noncustodial
 nondairy
 nondancer
@@ -54760,6 +54782,7 @@ offscourings
 offshoot
 offside
 offspring
+offstages
 oft
 often
 oftenest
@@ -55746,6 +55769,7 @@ outbuilt
 outbulge
 outbulged
 outbulges
+outbulking
 outbullies
 outbullying
 outburn
@@ -57254,6 +57278,7 @@ overweeningly
 overweighted
 overweighting
 overweights
+overwets
 overwetted
 overwetting
 overwhelmed
@@ -57717,6 +57742,7 @@ pallier
 palling
 palm
 palmar
+palmary
 palmated
 palmately
 palmation
@@ -61796,6 +61822,7 @@ poloniums
 pols
 poltroonery
 poltroons
+poly
 polyacrylamide
 polyacrylamides
 polyalcohols
@@ -67291,6 +67318,7 @@ redeposited
 redepositing
 redescend
 redescending
+redescribe
 redescribed
 redescribing
 redesign
@@ -67419,6 +67447,7 @@ redstarts
 redtail
 redtop
 redtops
+redub
 redubbed
 redubbing
 redubs
@@ -72336,6 +72365,7 @@ schema
 schemas
 schematically
 schematization
+schematize
 schematized
 schematizes
 schematizing
@@ -78220,6 +78250,7 @@ stanch
 stanchers
 stanchioned
 standardbred
+standardbreds
 standardise
 standardised
 standardises
@@ -85544,6 +85575,7 @@ trotters
 trotting
 trotyls
 troubadour
+troublemaker
 troublemakers
 troublemaking
 troublemakings
@@ -86588,6 +86620,7 @@ unattested
 unattractively
 unau
 unaudited
+unaus
 unauthentic
 unautomated
 unavailingly
@@ -91522,6 +91555,7 @@ whipstitching
 whiptail
 whipworm
 whirled
+whirler
 whirlers
 whirlier
 whirliest
@@ -92398,6 +92432,7 @@ wove
 woven
 wovens
 wowsers
+wracked
 wrackful
 wraithlike
 wrang
