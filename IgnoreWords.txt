@@ -1721,6 +1721,7 @@ alienability
 alienable
 alienage
 alienate
+alienated
 alienations
 alienators
 alienees
@@ -7983,6 +7984,7 @@ blab
 blabber
 blabbermouths
 blabbing
+blabs
 black
 blackamoor
 blackball
@@ -8061,6 +8063,7 @@ blamed
 blameful
 blamefully
 blameless
+blamelessly
 blamelessnesses
 blames
 blameworthiness
@@ -8078,6 +8081,7 @@ blandishment
 blanked
 blanker
 blankest
+blanketed
 blanketflower
 blanketflowers
 blanketlike
@@ -9636,6 +9640,7 @@ brittled
 brittlenesses
 brittlest
 brittling
+britzka
 britzkas
 bro
 broach
@@ -10771,6 +10776,7 @@ calathi
 calcanea
 calcanei
 calcar
+calcaria
 calceate
 calcedony
 calces
@@ -17713,6 +17719,7 @@ cowled
 cowlicks
 cowlings
 cowmen
+coworker
 cowpat
 cowpats
 cowpeas
@@ -19021,6 +19028,7 @@ cyanamide
 cyanamides
 cyanamids
 cyanate
+cyanates
 cyanic
 cyanided
 cyanides
@@ -24457,6 +24465,7 @@ dunghill
 dunghills
 dungiest
 dunging
+dunked
 dunker
 dunkers
 dunlin
@@ -24829,6 +24838,7 @@ ecclesiasticism
 ecclesiastics
 ecclesiological
 ecclesiologist
+ecclesiologists
 ecclesiology
 ecdyses
 ecdysial
@@ -26025,6 +26035,7 @@ endoscopes
 endoscopic
 endoscopically
 endoscopies
+endoscopy
 endosmos
 endosmoses
 endosperms
@@ -26754,6 +26765,7 @@ epistolary
 epistolers
 epistomes
 epistyles
+epitaphial
 epitaphic
 epitases
 epitasis
@@ -27473,6 +27485,7 @@ euthanizes
 euthanizing
 euthenists
 eutherian
+eutrophic
 eutrophications
 eutrophies
 eutrophy
@@ -28711,6 +28724,7 @@ fancyworks
 fandangos
 fandom
 fane
+fanegada
 fanes
 fanfare
 fanfaron
@@ -30384,6 +30398,7 @@ floppy
 flora
 florally
 floras
+floreated
 florescence
 florescences
 florescent
@@ -33029,6 +33044,7 @@ geoprobe
 geoprobes
 georgette
 georgettes
+geoscience
 geosciences
 geostationary
 geostrategic
@@ -35200,6 +35216,7 @@ gymnastic
 gymnastically
 gymnasts
 gymnosophist
+gymnospermies
 gynaecea
 gynaecia
 gynaecium
@@ -36628,6 +36645,7 @@ heptane
 heptarchs
 heptarchy
 her
+herald
 heralded
 heraldic
 heralding
@@ -36986,6 +37004,7 @@ hijacking
 hijra
 hijrah
 hike
+hilar
 hilarious
 hilariousnesses
 hilarity
@@ -42720,6 +42739,7 @@ journaling
 journalist
 journalize
 journalized
+journalizer
 journalizes
 journalizing
 journeyed
@@ -44795,6 +44815,7 @@ leeches
 leek
 leer
 leerily
+leeriness
 leerinesses
 leery
 lees
@@ -45906,6 +45927,7 @@ localizers
 localizing
 locally
 locatable
+locate
 locater
 locaters
 locating
@@ -52925,6 +52947,7 @@ nitrogen
 nitroglycerine
 nitroglycerines
 nitroglycerins
+nitrolic
 nitromethanes
 nitrosamine
 nitrosyls
@@ -59005,6 +59028,7 @@ penciler
 penciling
 pencilings
 pencillers
+pencilling
 pencillings
 pencils
 pend
@@ -62295,6 +62319,7 @@ postrace
 postretirement
 postriders
 postriot
+posts
 postseason
 postshow
 poststimulatory
@@ -64505,6 +64530,7 @@ psephologists
 psephology
 pseudepigraph
 pseudepigraphy
+pseudo
 pseudoclassic
 pseudocoel
 pseudocoels
@@ -66325,6 +66351,7 @@ rawish
 rawly
 rawnesses
 rax
+raxed
 raxing
 raya
 rayah
@@ -67861,6 +67888,7 @@ reharden
 rehardened
 rehardens
 rehashed
+rehear
 reheard
 rehearings
 rehears
@@ -68776,6 +68804,7 @@ reproachfulness
 reproaching
 reproachingly
 reprobance
+reprobate
 reprobating
 reprobations
 reprobatory
@@ -70559,6 +70588,7 @@ roms
 rondeaux
 rondel
 rondos
+rondures
 ronnel
 ronnels
 ronyons
@@ -78073,6 +78103,7 @@ stalklike
 stalky
 stall
 stallholder
+stalling
 stallion
 stalwartness
 stalwartnesses
@@ -86475,6 +86506,7 @@ unawake
 unawaked
 unawakened
 unawarded
+unawed
 unawesome
 unbacked
 unbaked
@@ -88640,6 +88672,7 @@ upsweeping
 upsweeps
 upswelled
 upswells
+upswing
 upswinging
 upswings
 upswung
@@ -89544,6 +89577,7 @@ vernalizing
 vernally
 vernicles
 vernier
+verniers
 vernissage
 vernissages
 vernix
@@ -92950,6 +92984,7 @@ zirconias
 zirconium
 zitherist
 zitherists
+zithern
 zithers
 ziti
 zitis
