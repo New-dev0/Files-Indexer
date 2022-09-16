@@ -936,6 +936,7 @@ advertent
 adverting
 advertise
 advertisement
+advertiser
 advertises
 advertising
 advertize
@@ -3208,6 +3209,7 @@ antilogy
 antilynching
 antimacassars
 antimagnetic
+antimale
 antiman
 antimarket
 antimask
@@ -3433,6 +3435,7 @@ antsinesses
 anural
 anuran
 anuretic
+anuria
 anuric
 anuses
 anviled
@@ -4432,6 +4435,7 @@ asphodels
 asphyxias
 asphyxiates
 asphyxiating
+asphyxiations
 asphyxies
 aspic
 aspics
@@ -5423,6 +5427,7 @@ azotize
 azotizes
 azotobacters
 azoturia
+azuki
 azukis
 azulejos
 azure
@@ -8577,6 +8582,7 @@ bogles
 bogs
 bogus
 bogusness
+bogusnesses
 bogwood
 bogwoods
 bogy
@@ -9309,6 +9315,7 @@ brassbound
 brasserie
 brasseries
 brasses
+brassica
 brassieres
 brassies
 brassiest
@@ -10366,6 +10373,7 @@ butanone
 butch
 butcher
 butcherers
+butcheries
 butchering
 butchers
 butchery
@@ -13156,6 +13164,7 @@ chimerical
 chimerically
 chimerism
 chimerisms
+chimers
 chimleys
 chimney
 chimneylike
@@ -17184,6 +17193,7 @@ corticotrophin
 corticotrophins
 corticotropin
 cortisone
+coruler
 corulers
 corundum
 corundums
@@ -25334,6 +25344,7 @@ elucidating
 elucidative
 elucidators
 elucubrates
+elucubration
 elucubrations
 eluded
 eludes
@@ -27101,6 +27112,7 @@ estimator
 estimators
 estivated
 estivates
+estivating
 estivations
 estivator
 estivators
@@ -27497,6 +27509,7 @@ eviscerates
 eviscerating
 evisceration
 evitable
+evite
 evited
 evites
 eviting
@@ -28456,6 +28469,7 @@ faggiest
 fagging
 faggoted
 faggoting
+faggotings
 faggotry
 faggots
 faggy
@@ -30659,6 +30673,7 @@ fonder
 fondest
 fonding
 fondled
+fondler
 fondles
 fondly
 fondness
@@ -32038,6 +32053,7 @@ fuzz
 fuzzes
 fuzziest
 fuzziness
+fuzzing
 fuzztones
 fyce
 fylfot
@@ -35861,6 +35877,7 @@ hatchers
 hatchery
 hatchet
 hatchets
+hatchling
 hatchlings
 hatchments
 hatchway
@@ -40581,6 +40598,7 @@ insatiately
 insatiateness
 inscape
 inscribe
+inscribed
 inscribes
 inscribing
 inscriptional
@@ -46471,6 +46489,7 @@ lyddites
 lye
 lyes
 lyings
+lymphadenitis
 lymphadenitises
 lymphangiogram
 lymphangiograms
@@ -48742,6 +48761,7 @@ microbes
 microbial
 microbic
 microbiological
+microbiologists
 microbiology
 microbreweries
 microbrewery
@@ -50142,6 +50162,7 @@ modernisation
 modernise
 modernised
 modernising
+modernist
 modernities
 modernize
 modernizers
@@ -50277,6 +50298,7 @@ momentarily
 momentary
 momently
 momentous
+momentously
 momentousness
 momentum
 momentums
@@ -50455,6 +50477,7 @@ monohybrid
 monohybrids
 monohydroxy
 monolayer
+monolayers
 monolingual
 monolith
 monolog
@@ -50497,6 +50520,7 @@ monopod
 monopode
 monopodium
 monopody
+monopole
 monopoles
 monopolies
 monopolise
@@ -54603,6 +54627,7 @@ olfaction
 olfactions
 olfactive
 olfactometer
+olfactometers
 olfactories
 olibanum
 olibanums
@@ -56569,6 +56594,7 @@ overinflations
 overinform
 overinforming
 overinforms
+overing
 overingenious
 overingenuity
 overinsistent
@@ -59694,6 +59720,7 @@ phenylketonuric
 phenylthioureas
 phenytoin
 phereses
+pheresis
 pheromonal
 pheromone
 pheromones
@@ -60484,6 +60511,7 @@ pinnace
 pinnacle
 pinnacling
 pinnae
+pinnate
 pinnated
 pinnately
 pinnatifid
@@ -62194,6 +62222,7 @@ pots
 potshard
 potshards
 potshot
+potshots
 potsies
 potstones
 pottage
@@ -67792,6 +67821,7 @@ reinstitute
 reinsurance
 reinsurances
 reinsures
+reintegrated
 reintegration
 reintegrations
 reinter
@@ -68127,6 +68157,7 @@ reminisced
 reminiscently
 reminiscers
 reminiscing
+reminted
 remints
 remise
 remises
@@ -71800,6 +71831,7 @@ scabietic
 scabiouses
 scablands
 scablike
+scabrousness
 scabrousnesses
 scad
 scaffold
@@ -85821,6 +85853,7 @@ typesets
 typesetter
 typesetting
 typesettings
+typestyle
 typestyles
 typewrite
 typewriter
@@ -87351,6 +87384,7 @@ unkissed
 unknit
 unknitting
 unknots
+unknotted
 unknowabilities
 unknowability
 unknowable
@@ -88526,6 +88560,7 @@ urticant
 urticarias
 urticated
 urticates
+urticating
 urtications
 urus
 uruses
