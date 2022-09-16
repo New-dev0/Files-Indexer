@@ -1108,6 +1108,7 @@ affiches
 afficionado
 afficionados
 affidavits
+affiliated
 affiliating
 affinal
 affine
@@ -3409,6 +3410,7 @@ antivivisection
 antiwear
 antiweed
 antiwelfare
+antiwhaling
 antiwrinkle
 antler
 antlered
@@ -5005,6 +5007,7 @@ ausforming
 auspicated
 auspicates
 auspicating
+auspiciously
 auspiciousness
 austereness
 austerest
@@ -8294,6 +8297,7 @@ bloviations
 blowback
 blowball
 blowby
+blowbys
 blowdown
 blowgun
 blowguns
@@ -12261,6 +12265,7 @@ centeses
 centesimal
 centesimo
 centesimos
+centesis
 centiares
 centigrade
 centigram
@@ -13705,6 +13710,7 @@ cinquain
 cinquefoils
 cions
 cioppino
+cipher
 cipherer
 cipherers
 ciphering
@@ -23253,6 +23259,7 @@ documenters
 documenting
 dodderer
 doddering
+dodders
 doddery
 dodecagons
 dodecahedra
@@ -26395,6 +26402,7 @@ envelopes
 envelopment
 envelopments
 envelops
+envenom
 envenomed
 envenoming
 envenomizations
@@ -29092,6 +29100,7 @@ ferments
 fermi
 fermium
 fermiums
+fern
 fernier
 fernless
 ferns
@@ -31028,6 +31037,7 @@ formworks
 formyl
 formyls
 fornent
+fornical
 fornicate
 fornicates
 fornicating
@@ -36688,6 +36698,7 @@ hexamine
 hexamines
 hexapla
 hexaplar
+hexaplas
 hexapodies
 hexapods
 hexapody
@@ -37356,6 +37367,7 @@ honeyeater
 honeyed
 honeyguides
 honeying
+honeymoon
 honeymooners
 honeymoons
 honeypots
@@ -43314,6 +43326,7 @@ kingfisher
 kingfishes
 kinghoods
 kinging
+kingless
 kinglets
 kingliest
 kinglinesses
@@ -45419,6 +45432,7 @@ liquefied
 liquefier
 liquefiers
 liquefying
+liqueur
 liquid
 liquidambars
 liquidates
@@ -46689,6 +46703,7 @@ magnificat
 magnificats
 magnificently
 magnifier
+magnify
 magniloquence
 magniloquences
 magniloquent
@@ -48239,6 +48254,7 @@ merchantmen
 merchants
 mercifully
 mercilessly
+mercs
 mercurating
 mercuration
 mercurations
@@ -50217,6 +50233,7 @@ monarch
 monarchial
 monarchic
 monarchical
+monarchically
 monarchies
 monarchist
 monarchists
@@ -50234,6 +50251,7 @@ monaxon
 monaxons
 monazites
 monellins
+monerans
 monetarily
 monetarism
 monetised
@@ -51999,6 +52017,7 @@ neckless
 necklike
 necklines
 neckpieces
+necrological
 necrologies
 necrologist
 necrology
@@ -54245,6 +54264,7 @@ ocreate
 octachord
 octad
 octadic
+octads
 octagon
 octagonally
 octahedral
@@ -54732,6 +54752,7 @@ operagoing
 operagoings
 operand
 operant
+operas
 operates
 operatic
 operatically
@@ -56262,6 +56283,7 @@ overdependence
 overdependent
 overdesigns
 overdetermined
+overdevelop
 overdeveloped
 overdeveloping
 overdevelopment
@@ -57807,6 +57829,7 @@ parasyntheses
 parasynthetic
 paratactic
 paratactical
+parataxes
 parataxis
 parathion
 parathions
@@ -58292,6 +58315,7 @@ patronise
 patronised
 patronization
 patronizations
+patronize
 patronized
 patronizing
 patronly
@@ -58545,6 +58569,7 @@ pedestalled
 pedestalling
 pedestrianisms
 pedestrians
+pediatric
 pediatricians
 pedicellate
 pedicle
@@ -62389,6 +62414,7 @@ precipice
 precipices
 precipitable
 precipitancy
+precipitantness
 precipitate
 precipitated
 precipitately
@@ -64558,6 +64584,7 @@ punishments
 punition
 punitiveness
 punji
+punk
 punka
 punkas
 punkier
@@ -65273,6 +65300,7 @@ quintans
 quinte
 quintes
 quintessences
+quintessential
 quintets
 quintile
 quintillion
@@ -67783,6 +67811,7 @@ relatedness
 relaters
 relating
 relational
+relations
 relationships
 relatives
 relativisms
@@ -72614,6 +72643,7 @@ secularism
 secularisms
 secularistic
 secularization
+secularize
 secularizer
 secularizing
 securances
@@ -73631,6 +73661,7 @@ shashlick
 shashlicks
 shashlik
 shashliks
+shaslik
 shat
 shatter
 shatterer
@@ -81441,6 +81472,7 @@ tantalates
 tantalises
 tantalites
 tantalize
+tantalized
 tantalizer
 tantalizers
 tantalizes
@@ -88716,6 +88748,7 @@ variousnesses
 varistor
 varix
 varlet
+varletries
 varletry
 varmint
 varmints
@@ -88917,6 +88950,7 @@ velveted
 velveteens
 velvetiest
 velvety
+venal
 venatical
 vend
 vendable
@@ -90908,6 +90942,7 @@ whingding
 whinger
 whinges
 whiniest
+whininesses
 whining
 whinnied
 whinnier
