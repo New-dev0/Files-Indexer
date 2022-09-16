@@ -481,6 +481,7 @@ acnode
 acock
 acoelomate
 acoelomates
+acolytes
 aconitic
 aconitum
 aconitums
@@ -1933,6 +1934,7 @@ allurer
 alluringly
 allusion
 allusive
+allusively
 allusivenesses
 alluvia
 alluvion
@@ -4855,6 +4857,7 @@ attentional
 attentions
 attentively
 attenuated
+attenuates
 attenuating
 attenuation
 attest
@@ -9086,6 +9089,7 @@ bourree
 bourrees
 bourrides
 boursin
+boursins
 bourtree
 bouses
 bousing
@@ -10217,6 +10221,7 @@ bureaucrat
 bureaucrateses
 bureaucratise
 bureaucratize
+bureaucratized
 bureaucrats
 bureaux
 buret
@@ -11626,6 +11631,7 @@ carnosaur
 carnotites
 carns
 caroaches
+carobs
 caroche
 caroches
 carol
@@ -14478,6 +14484,7 @@ coadmitted
 coadmitting
 coadunate
 coagencies
+coagents
 coagula
 coagulabilities
 coagulability
@@ -14529,6 +14536,7 @@ coapt
 coaptation
 coarctation
 coarctations
+coarse
 coarseness
 coarsenesses
 coarsens
@@ -16847,6 +16855,7 @@ copiousnesses
 coplanar
 coplanarity
 coplots
+coplotted
 copolymer
 copolymeric
 copolymerize
@@ -21659,6 +21668,7 @@ dialogs
 dialogue
 dialoguers
 dialysate
+dialytic
 dialyzates
 dialyzers
 dialyzes
@@ -21693,6 +21703,7 @@ diaphanous
 diaphanously
 diaphanousness
 diaphones
+diaphonies
 diaphony
 diaphorases
 diaphoreses
@@ -22988,6 +22999,7 @@ dissertating
 dissertation
 dissertational
 dissertations
+dissertator
 dissertators
 disserted
 disserting
@@ -23591,6 +23603,7 @@ doorway
 doorways
 dooryard
 dooryards
+doozer
 doozers
 doozie
 dopa
@@ -24818,6 +24831,7 @@ echidna
 echidnas
 echinacea
 echinate
+eching
 echini
 echinococci
 echinoderm
@@ -24898,6 +24912,7 @@ ectoderm
 ectodermal
 ectomeric
 ectoparasites
+ectoparasitic
 ectopia
 ectopias
 ectopic
@@ -28656,6 +28671,7 @@ fan
 fanatical
 fanaticalness
 fanaticalnesses
+fanaticism
 fanaticized
 fanaticizes
 fanaticizing
@@ -28937,6 +28953,7 @@ fawningly
 fawnlike
 fawns
 fawny
+faxed
 faxes
 faxing
 fay
@@ -32983,6 +33000,7 @@ geophysical
 geophysically
 geophysicist
 geophysics
+geophytes
 geophytic
 geopolitics
 geoponic
@@ -34008,6 +34026,7 @@ gorcock
 gordita
 gorditas
 gores
+gorgeously
 gorgeousness
 gorgeousnesses
 gorger
@@ -41229,6 +41248,7 @@ interphase
 interphases
 interplanting
 interplants
+interplaying
 interplays
 interpleaded
 interpleaders
@@ -44948,6 +44968,7 @@ leporid
 leprechaun
 leprechauns
 lepromatous
+leprosarium
 leprously
 leptins
 leptocephalus
@@ -48994,6 +49015,7 @@ microvolts
 microwatt
 microwatts
 microwavable
+microwave
 microwaves
 microworld
 microworlds
@@ -49089,6 +49111,7 @@ mignonette
 mignonettes
 mignons
 migraines
+migrainous
 migrant
 migrate
 migrates
@@ -50429,6 +50452,7 @@ monellins
 monerans
 monetarily
 monetarism
+monetary
 monetised
 monetises
 monetization
@@ -51753,6 +51777,7 @@ myologies
 myologist
 myologists
 myology
+myoma
 myomatous
 myope
 myopically
@@ -56932,6 +56957,7 @@ oversensitivity
 overseriously
 overservice
 overserviced
+overservices
 oversets
 oversetting
 oversew
@@ -58799,6 +58825,7 @@ pedlers
 pedocalic
 pedocals
 pedogeneses
+pedogenesis
 pedogenetic
 pedogenic
 pedological
@@ -66472,6 +66499,7 @@ reasoned
 reasonings
 reasonlessly
 reasons
+reassailed
 reassailing
 reassails
 reassemblage
@@ -73858,6 +73886,7 @@ shantung
 shantymen
 shantytown
 shantytowns
+shapable
 shapeable
 shapeliness
 shapely
@@ -75251,6 +75280,7 @@ skited
 skiting
 skits
 skitter
+skittering
 skittery
 skittishnesses
 skittles
@@ -86957,6 +86987,7 @@ understandingly
 understatements
 understates
 understating
+understeering
 understory
 understrapper
 understrength
@@ -87515,6 +87546,7 @@ unknit
 unknitting
 unknots
 unknotted
+unknotting
 unknowabilities
 unknowability
 unknowable
@@ -87824,6 +87856,7 @@ unrecovered
 unrecyclable
 unredeemable
 unreel
+unreeler
 unreeling
 unreels
 unreeve
@@ -88228,6 +88261,7 @@ untucks
 untunable
 untune
 untunes
+untuning
 unturned
 untutored
 untwine
@@ -89271,6 +89305,7 @@ veneerings
 veneers
 venenates
 venenes
+venenose
 venerableness
 venerablenesses
 venerably
