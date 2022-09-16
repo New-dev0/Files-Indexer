@@ -2991,6 +2991,7 @@ anthelmintics
 anthemed
 anthemic
 antheming
+anthemion
 anthems
 antherid
 antheridial
@@ -4328,6 +4329,7 @@ ascendible
 ascensive
 ascent
 ascents
+ascertain
 ascetic
 ascetical
 ascetically
@@ -6610,6 +6612,7 @@ bedizens
 bedlam
 bedlamite
 bedless
+bedmaker
 bedmate
 bedmates
 bedplate
@@ -10085,6 +10088,7 @@ bumfuzzle
 bumfuzzles
 bumkin
 bummalo
+bump
 bumper
 bumpering
 bumpers
@@ -15142,6 +15146,7 @@ colloquials
 colloquists
 colloquiums
 collotype
+collotypies
 collude
 colluded
 colludes
@@ -16678,6 +16683,7 @@ convolved
 convolves
 convolving
 convolvuluses
+convoyed
 convoys
 convulsant
 convulsants
@@ -23598,6 +23604,7 @@ dotier
 doting
 dotingly
 dots
+dottel
 dottels
 dottier
 dottily
@@ -25894,6 +25901,7 @@ endonucleolytic
 endoparasitism
 endopeptidases
 endoperoxide
+endoperoxides
 endoplasm
 endoplasms
 endopod
@@ -30324,6 +30332,7 @@ flowerpot
 flowery
 flowing
 flowingly
+flown
 flows
 flowstone
 flowstones
@@ -31914,6 +31923,7 @@ furors
 furosemides
 furred
 furrieries
+furriers
 furriery
 furrily
 furriner
@@ -35276,6 +35286,7 @@ haint
 hairball
 hairballs
 hairbands
+hairbrushes
 haircut
 haircuts
 haircutter
@@ -35345,6 +35356,7 @@ halidom
 halidome
 halidomes
 halidoms
+halids
 haling
 halites
 halitoses
@@ -36827,6 +36839,7 @@ highting
 hightops
 hights
 highwaymen
+highways
 hijab
 hijack
 hijacker
@@ -38817,6 +38830,7 @@ imaginativeness
 imagine
 imaginer
 imagism
+imagists
 imagoes
 imagos
 imam
@@ -41653,6 +41667,7 @@ iron
 ironclad
 ironed
 ironer
+ironhanded
 ironhearted
 ironic
 ironically
@@ -41815,6 +41830,7 @@ isochimes
 isochor
 isochores
 isochromosome
+isochronally
 isochrone
 isochrones
 isochronism
@@ -46634,6 +46650,7 @@ madronas
 madrone
 madronos
 madtom
+madtoms
 maduro
 maduros
 madwoman
@@ -49423,6 +49440,7 @@ miscalculating
 miscalculation
 miscalculations
 miscall
+miscalled
 miscallers
 miscaptioned
 miscaptioning
@@ -49759,6 +49777,7 @@ misplans
 misplays
 mispleading
 mispleads
+mispoint
 mispointed
 mispoise
 mispoised
@@ -51318,6 +51337,7 @@ muonic
 muonium
 mura
 muraenids
+mural
 muralist
 muralists
 muralled
@@ -51382,6 +51402,7 @@ musculature
 musculoskeletal
 muse
 museologies
+museologist
 museology
 muser
 musers
@@ -53214,6 +53235,7 @@ nonjoiner
 nonjudgmental
 nonjuries
 nonjurors
+nonjusticiable
 nonkosher
 nonkoshers
 nonlandowner
@@ -53920,6 +53942,7 @@ nutritional
 nutritionally
 nutritionist
 nutritionists
+nutritious
 nutritiousness
 nutritive
 nutritively
@@ -54953,6 +54976,7 @@ orchestrates
 orchestrating
 orchestrational
 orchestrators
+orchid
 orchidaceous
 orchids
 orchil
@@ -55967,6 +55991,7 @@ outstriven
 outstriving
 outstroke
 outstrove
+outstudied
 outstudy
 outstunt
 outstunted
@@ -59210,6 +59235,7 @@ permillages
 permissibility
 permissible
 permissibleness
+permissibly
 permission
 permitter
 permitting
@@ -61788,6 +61814,7 @@ porosity
 porousnesses
 porphyria
 porphyrias
+porphyries
 porphyropsins
 porphyry
 porpoise
@@ -65270,6 +65297,7 @@ quieter
 quieters
 quietism
 quietistic
+quiets
 quietudes
 quietuses
 quiff
@@ -68423,6 +68451,7 @@ reposedly
 reposeful
 reposer
 reposers
+reposes
 reposit
 reposited
 repositioning
@@ -73537,6 +73566,7 @@ shads
 shaft
 shafted
 shafts
+shaggiest
 shaggily
 shagginess
 shagging
@@ -73785,6 +73815,7 @@ shekel
 shekels
 sheldrake
 sheldrakes
+shelduck
 shelf
 shelfful
 shellack
@@ -76777,6 +76808,7 @@ specialisms
 specialities
 specialization
 specializes
+specializing
 specially
 specialnesses
 specialty
@@ -76788,6 +76820,7 @@ specifier
 specifiers
 specifies
 specify
+specimens
 specious
 speciousness
 specked
@@ -84165,6 +84198,7 @@ trampolines
 trampolining
 trampolinist
 tramps
+tramroads
 trams
 tramway
 tramways
@@ -84394,6 +84428,7 @@ traplines
 trapnest
 trapnesting
 trapped
+trapper
 trappers
 trapping
 trappings
