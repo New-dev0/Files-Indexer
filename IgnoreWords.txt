@@ -2270,6 +2270,7 @@ amidol
 amidone
 amidones
 amidship
+amidst
 amie
 amies
 amiga
@@ -6128,6 +6129,7 @@ baronetcies
 baronies
 baronnes
 baroque
+baroquely
 baroreceptor
 barosaur
 barosaurs
@@ -7706,6 +7708,7 @@ biogases
 biogeneses
 biogenetic
 biogenetically
+biogenic
 biogenies
 biogeny
 biogeochemistry
@@ -10072,6 +10075,7 @@ bullbaiting
 bullbrier
 bullbriers
 bulldog
+bulldoggers
 bulldoggings
 bulldyke
 bulldykes
@@ -10736,6 +10740,7 @@ caique
 cairds
 cairngorm
 cairngorms
+cairny
 caisson
 caissons
 caitiff
@@ -11376,6 +11381,7 @@ captaining
 captains
 captainships
 captioned
+captioning
 captions
 captiously
 captivate
@@ -19202,6 +19208,7 @@ cysteines
 cysteins
 cysticercoid
 cysticercosis
+cysticercus
 cystine
 cystinuria
 cystitis
@@ -23790,6 +23797,7 @@ doux
 douzeper
 douzepers
 dovecote
+dovecotes
 dovecots
 dovekey
 dovekie
@@ -26043,6 +26051,7 @@ endorsee
 endorsements
 endorses
 endorsive
+endorsor
 endosarc
 endoscopes
 endoscopic
@@ -26578,6 +26587,7 @@ enwombing
 enwrapping
 enwreathed
 enwreathes
+enzootics
 enzym
 enzymatically
 enzymes
@@ -35142,6 +35152,7 @@ gunned
 gunnel
 gunnels
 gunnen
+gunner
 gunneries
 gunners
 gunning
@@ -36248,6 +36259,7 @@ hearsays
 hearsed
 heartaches
 heartbeat
+heartbeats
 heartbreaker
 heartbreaking
 heartbroken
@@ -45077,6 +45089,7 @@ lessee
 lessening
 lessens
 lessor
+lessors
 letch
 letched
 letching
@@ -53634,6 +53647,7 @@ nonperforming
 nonperishable
 nonpersons
 nonpetroleum
+nonphilosopher
 nonphonetic
 nonphotographic
 nonphysician
@@ -53731,6 +53745,7 @@ nonserious
 nonsexist
 nonsexual
 nonshrink
+nonsigner
 nonsignificant
 nonsimultaneous
 nonskater
@@ -54299,6 +54314,7 @@ obeahism
 obeahisms
 obeli
 obeliscal
+obelise
 obelisks
 obelism
 obelisms
@@ -56088,6 +56104,7 @@ outpromises
 outpull
 outpulling
 outpunch
+outpunching
 outpupil
 outpursue
 outpursued
@@ -57833,6 +57850,7 @@ panetelas
 panetella
 panetellas
 panettones
+panettoni
 panfishes
 panfries
 panfuls
@@ -58422,6 +58440,7 @@ pash
 pasha
 pashadom
 pashadoms
+pashalic
 pashalik
 pashaliks
 pashas
@@ -59965,6 +59984,7 @@ philanderers
 philanders
 philanthropical
 philanthropies
+philanthropist
 philanthropists
 philanthropoid
 philanthropoids
@@ -60236,6 +60256,7 @@ photoreceptors
 photoreduce
 photoreduced
 photoreduces
+photoresist
 photoresists
 photos
 photosensitive
@@ -63991,6 +64012,7 @@ programmings
 programs
 progressed
 progression
+progressions
 progressive
 progressively
 progressiveness
@@ -65638,6 +65660,7 @@ quincentennial
 quinces
 quincunx
 quincunxial
+quindecillions
 quinela
 quinellas
 quinic
@@ -66355,6 +66378,7 @@ raunch
 raunchiest
 raunchiness
 raunchinesses
+rauwolfias
 ravagements
 ravager
 ravages
@@ -75837,6 +75861,7 @@ slowpokes
 slows
 sloyd
 sloyds
+slub
 slubbed
 slubber
 slubbered
@@ -76488,6 +76513,7 @@ soever
 sofa
 sofabed
 sofabeds
+sofar
 softback
 softbacks
 softball
@@ -77801,6 +77827,7 @@ springboard
 springbok
 springer
 springers
+springes
 springinesses
 springings
 springlike
@@ -80318,6 +80345,7 @@ sumptuously
 sumptuousnesses
 sumpweeds
 sunback
+sunbaked
 sunbath
 sunbathers
 sunbaths
@@ -84589,6 +84617,7 @@ trammeler
 trammelers
 trammeling
 trammelled
+trammelling
 trammels
 tramontane
 tramped
@@ -89589,6 +89618,7 @@ verdurous
 vergence
 verger
 vergers
+verging
 verglas
 verglases
 veridicalities
@@ -89838,6 +89868,7 @@ victorious
 victoriously
 victoriousness
 victors
+victresses
 victual
 victualed
 victualer
@@ -91321,6 +91352,7 @@ whalers
 whales
 whaling
 wham
+whammed
 whangee
 whangees
 whangs
@@ -92258,6 +92290,7 @@ workbags
 workbaskets
 workbenches
 workboat
+workbook
 workbox
 workboxes
 workday
@@ -92638,6 +92671,7 @@ yardages
 yardarm
 yardarms
 yardbirds
+yarded
 yarder
 yarding
 yardlands
@@ -93151,6 +93185,7 @@ zori
 zoril
 zorilla
 zorillas
+zorille
 zorilles
 zorillo
 zouave
