@@ -2972,6 +2972,7 @@ antefixal
 anteing
 antemortem
 antennae
+antennular
 antennules
 antenuptial
 antepasts
@@ -3191,6 +3192,7 @@ antiking
 antikings
 antiknock
 antilabor
+antileak
 antileft
 antileprosy
 antiliberalism
@@ -4194,6 +4196,7 @@ arresters
 arresting
 arrestive
 arrestments
+arrestor
 arrests
 arrhizal
 arrhythmias
@@ -4961,6 +4964,7 @@ augmentative
 augmenting
 augmentor
 augments
+augur
 augured
 augurer
 augurers
@@ -8223,6 +8227,7 @@ blockers
 blockheads
 blockhouse
 blockier
+blockish
 blocs
 blog
 bloggings
@@ -9084,6 +9089,7 @@ bowdlerizing
 bowed
 bowel
 bowelled
+bowels
 bowerbirds
 bowered
 bowers
@@ -10243,6 +10249,7 @@ burnishers
 burnishings
 burnoose
 burnous
+burnouses
 burnsides
 burnt
 burp
@@ -14216,6 +14223,7 @@ clinker
 clinkering
 clinks
 clinometers
+clinquants
 cliometrician
 clipboards
 clippable
@@ -19083,6 +19091,7 @@ cymene
 cymenes
 cymling
 cymlings
+cymlins
 cymograph
 cymol
 cymophane
@@ -19866,6 +19875,7 @@ deciphering
 decipherment
 deciphers
 decision
+decisional
 decisioned
 decisioning
 deck
@@ -25536,6 +25546,7 @@ emerge
 emergences
 emergency
 emergent
+emergents
 emeries
 emerita
 emeriti
@@ -29388,6 +29399,7 @@ fieldfares
 fielding
 fieldpieces
 fieldsman
+fieldstripping
 fieldstrips
 fieldworks
 fiend
@@ -33728,6 +33740,7 @@ goblin
 gobo
 gobonee
 gobony
+gobos
 gobs
 gobshite
 goby
@@ -38457,6 +38470,7 @@ hypophysis
 hypopituitarism
 hypoplasia
 hypoplasias
+hypoplastic
 hypopnea
 hypopneas
 hypopyon
@@ -38771,6 +38785,7 @@ illogic
 illogicalities
 illogicality
 illogicalness
+illogicalnesses
 illogics
 illude
 illuded
@@ -41377,6 +41392,7 @@ intromittent
 intron
 introns
 introrse
+intros
 introspect
 introspection
 introspections
@@ -42541,6 +42557,7 @@ jotas
 jots
 jotters
 jotting
+jottings
 joual
 jouk
 jouks
@@ -58198,6 +58215,7 @@ pastellists
 pastels
 pasters
 pasteups
+pasteurise
 pasteurised
 pasteurises
 pasteurizations
@@ -59704,6 +59722,7 @@ philosophizing
 philosophy
 philtering
 philtra
+philtre
 philtred
 philtres
 philtring
@@ -61744,6 +61763,7 @@ popcorns
 popedom
 popedoms
 popelike
+poperies
 popes
 popguns
 popinjays
@@ -67188,6 +67208,7 @@ reenjoys
 reenlarge
 reenlarges
 reenlarging
+reenlist
 reenlisted
 reenlisting
 reenlistment
@@ -68946,6 +68967,7 @@ respirators
 respire
 respiring
 respiritualized
+respiritualizes
 respirometer
 respirometric
 respirometries
@@ -69797,6 +69819,7 @@ rickettsiae
 rickety
 rickeys
 ricking
+rickrack
 rickracks
 ricks
 ricksha
@@ -73538,6 +73561,7 @@ shadblow
 shadblows
 shadbush
 shadchan
+shadchanim
 shaddock
 shaddocks
 shade
@@ -74141,6 +74165,7 @@ shoreless
 shoreside
 shorewards
 shoring
+shorings
 shorl
 short
 shortage
@@ -74797,6 +74822,7 @@ sinusoid
 sinusoidally
 sinusoids
 sipe
+sipes
 siphon
 siphonage
 siphonal
@@ -75984,6 +76010,7 @@ snufflier
 snuffliest
 snuffling
 snuffy
+snugged
 snuggerie
 snuggeries
 snuggery
@@ -76553,6 +76580,7 @@ soundest
 soundings
 soundless
 soundly
+soundman
 soundmen
 soundness
 soundproof
@@ -76813,6 +76841,7 @@ specially
 specialnesses
 specialty
 speciates
+speciation
 species
 specifications
 specified
@@ -80289,6 +80318,7 @@ superstructure
 superstuds
 supersubtle
 supersurgeon
+supersymmetries
 supersymmetry
 supersystem
 supertankers
@@ -80511,6 +80541,7 @@ susceptible
 susceptibleness
 susceptibly
 susceptiveness
+sushis
 suslik
 suspect
 suspended
@@ -81728,6 +81759,7 @@ tautomer
 tautonym
 tavern
 taverna
+taverner
 tavs
 tawdries
 tawer
@@ -87900,6 +87932,7 @@ unswathe
 unswathing
 unswayed
 unswear
+unswearing
 unswears
 unswerving
 unswore
@@ -88520,6 +88553,7 @@ utopists
 utricles
 utricular
 utriculi
+uts
 utter
 utterance
 utterances
@@ -88840,6 +88874,7 @@ vasa
 vascula
 vascularity
 vascularization
+vasculature
 vasculums
 vase
 vasectomies
