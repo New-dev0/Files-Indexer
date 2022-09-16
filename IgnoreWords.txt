@@ -3323,6 +3323,7 @@ antiracisms
 antiradar
 antiradars
 antiradicalism
+antirape
 antirational
 antirationalism
 antirationalist
@@ -4953,6 +4954,7 @@ audiometric
 audiometry
 audiotaped
 audiotapes
+audiotaping
 auditable
 auditees
 audition
@@ -7497,6 +7499,7 @@ biggings
 biggish
 biggy
 bighead
+bigheaded
 bighted
 bights
 bigly
@@ -7906,6 +7909,7 @@ bisulfites
 bit
 bitable
 bitartrate
+bitched
 bitchen
 bitchery
 bitchiest
@@ -11313,6 +11317,7 @@ capped
 cappelletti
 cappers
 cappuccinos
+capric
 capriccio
 caprice
 caprices
@@ -17356,6 +17361,7 @@ coturnixes
 cotyledon
 cotyledons
 cotylosaurs
+cotype
 couched
 coucher
 couches
@@ -18171,6 +18177,7 @@ criticised
 criticises
 criticising
 criticism
+criticisms
 criticizers
 criticizing
 critique
@@ -21165,6 +21172,7 @@ desiderated
 desiderating
 desiderations
 desiderative
+desideratum
 designated
 designates
 designation
@@ -31496,6 +31504,7 @@ frenzying
 frequence
 frequences
 frequencies
+frequency
 frequentation
 frequentative
 frequenter
@@ -38512,6 +38521,7 @@ hypocritically
 hypocycloids
 hypoderma
 hypodermically
+hypodermis
 hypodermises
 hypoderms
 hypoed
@@ -39800,6 +39810,7 @@ incorruptibles
 incorruptibly
 incorruptly
 increasable
+increaser
 increasing
 increate
 incredibilities
@@ -41909,6 +41920,7 @@ isling
 isms
 isoagglutinin
 isoalloxazines
+isoantibodies
 isoantibody
 isoantigen
 isoantigenic
@@ -47177,6 +47189,7 @@ maneuver
 maneuverability
 maneuverable
 maneuvered
+maneuverer
 manful
 manfulness
 manfulnesses
@@ -48410,6 +48423,7 @@ mercurations
 mercurially
 mercurialnesses
 mercuric
+mercuries
 mercy
 mere
 merengue
@@ -48748,6 +48762,7 @@ metricizes
 metricizing
 metrics
 metrists
+metritis
 metro
 metrological
 metrologies
@@ -49658,6 +49673,7 @@ misdeemed
 misdefine
 misdefining
 misdemeanor
+misdescribe
 misdescribing
 misdescriptions
 misdeveloping
@@ -52921,6 +52937,7 @@ noirish
 noise
 noiseless
 noisemaker
+noisemakers
 noisemaking
 noisemakings
 noises
@@ -58338,6 +58355,7 @@ pastellist
 pastellists
 pastels
 pasters
+pasteup
 pasteups
 pasteurise
 pasteurised
@@ -59382,6 +59400,7 @@ permissible
 permissibleness
 permissibly
 permission
+permitted
 permitter
 permitting
 perms
@@ -61533,6 +61552,7 @@ polenta
 poleward
 poleyn
 poleyns
+policed
 policeman
 policer
 policers
@@ -61839,6 +61859,7 @@ pondweed
 pondweeds
 pone
 ponged
+pongee
 pongid
 poniard
 poniarding
@@ -66202,6 +66223,7 @@ ravenlike
 ravenously
 ravenousnesses
 ravens
+ravers
 raves
 ravigotes
 ravine
@@ -68273,6 +68295,7 @@ remolds
 remonetized
 remonstrance
 remonstrances
+remonstrantly
 remonstrate
 remonstration
 remonstratively
@@ -69635,6 +69658,7 @@ reversos
 revert
 revertant
 revertants
+reverted
 reverter
 reverters
 reverting
@@ -70472,6 +70496,7 @@ rooftops
 rook
 rookeries
 rookery
+rookie
 rookier
 rookies
 rookiest
@@ -70847,6 +70872,7 @@ ruffle
 ruffled
 rufflers
 ruffles
+ruffling
 ruffly
 ruffs
 rug
@@ -72104,6 +72130,7 @@ scenting
 scepter
 sceptered
 sceptering
+scepters
 sceptic
 scepticism
 sceptics
@@ -74099,6 +74126,7 @@ shimmer
 shimmered
 shimmers
 shimmery
+shimmied
 shimmy
 shimmying
 shin
@@ -81457,6 +81485,7 @@ taekwondo
 taekwondos
 taels
 taenia
+taffarel
 tafferel
 tafferels
 taffeta
@@ -85781,6 +85810,7 @@ tutorship
 tutorships
 tutoyed
 tutoyer
+tuts
 tutties
 tutting
 tutus
@@ -88019,6 +88049,7 @@ unsoundest
 unsoundly
 unsoundness
 unsoundnesses
+unsourced
 unsoured
 unsowed
 unsown
@@ -90252,6 +90283,7 @@ vulnerableness
 vulnerably
 vulneraries
 vulnerary
+vulpine
 vulture
 vultures
 vulturous
@@ -90259,6 +90291,7 @@ vulvar
 vulvate
 vum
 vying
+vyingly
 wab
 wabble
 wabbled
@@ -91091,6 +91124,7 @@ whappers
 whaps
 wharf
 wharfage
+wharfages
 wharfed
 wharfinger
 wharfmaster
@@ -91681,6 +91715,7 @@ wipeouts
 wipers
 wiping
 wirable
+wire
 wired
 wiredraw
 wiredrawing
