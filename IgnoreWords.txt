@@ -5461,6 +5461,7 @@ babbled
 babblement
 babels
 babesias
+babesioses
 babesiosis
 babiche
 babiches
@@ -7953,6 +7954,7 @@ bitumen
 bituminization
 bituminizations
 bituminizes
+bituminous
 biunique
 biuniqueness
 bivalencies
@@ -9276,6 +9278,7 @@ brainteasers
 brainwash
 brainwasher
 brainwashers
+brainwashes
 braise
 braised
 brakeless
@@ -9987,6 +9990,7 @@ buffet
 buffeted
 buffeter
 buffeters
+buffeting
 buffets
 buffo
 buffooneries
@@ -13349,6 +13353,7 @@ chlorinated
 chlorinations
 chlorinator
 chlorinators
+chlorine
 chlorinity
 chlorins
 chlorobenzene
@@ -22134,6 +22139,7 @@ dinkeys
 dinkier
 dinkiest
 dinking
+dinkly
 dinkum
 dinkums
 dinky
@@ -23269,6 +23275,7 @@ divisionisms
 divisionists
 divisions
 divisive
+divisiveness
 divisors
 divorcee
 divorcement
@@ -32386,6 +32393,7 @@ gametically
 gametocytes
 gametogenesis
 gametogenic
+gametogenous
 gametophytic
 gamily
 gamin
@@ -35465,6 +35473,7 @@ haled
 halenesses
 haleru
 hales
+halest
 halfback
 halfbeak
 halfbeaks
@@ -38255,6 +38264,7 @@ hydrogel
 hydrogels
 hydrogen
 hydrogenate
+hydrogenations
 hydrogens
 hydrographer
 hydrographic
@@ -41740,6 +41750,7 @@ iodinates
 iodine
 iodised
 iodises
+iodism
 iodisms
 iodize
 iodized
@@ -42663,6 +42674,7 @@ jollily
 jolliness
 jollinesses
 jolly
+jollyboat
 jollyboats
 jollying
 jolt
@@ -44002,6 +44014,7 @@ lactates
 lactating
 lactational
 lactations
+lacteal
 lacteally
 lacteals
 lactiferous
@@ -45641,6 +45654,7 @@ liquorish
 lira
 liras
 liriope
+liripipe
 liripipes
 lirot
 liroth
@@ -51048,6 +51062,7 @@ motorbiked
 motorbiking
 motorboater
 motorbus
+motorbuses
 motorbusses
 motorcaded
 motorcades
@@ -51568,6 +51583,7 @@ murrelet
 murres
 murreys
 murrha
+murrhine
 murrine
 murrs
 murry
@@ -51755,6 +51771,7 @@ mycorhizas
 mycorrhizae
 mycorrhizal
 mycotoxins
+mycoviruses
 mycs
 mydriases
 mydriasis
@@ -53498,6 +53515,7 @@ nonmusics
 nonmutant
 nonmutants
 nonmyelinated
+nonnarrative
 nonnasal
 nonnational
 nonnationals
@@ -62173,6 +62191,7 @@ postcrisis
 postdated
 postdates
 postdating
+postdeadline
 postdebate
 postdiluvian
 postdivestiture
@@ -62413,6 +62432,7 @@ pouncers
 pounces
 pound
 poundal
+poundals
 pounding
 pour
 pourable
@@ -63879,6 +63899,7 @@ prognathous
 prognose
 prognosed
 prognoses
+prognosing
 prognosticate
 prognosticates
 prognosticating
@@ -65911,6 +65932,7 @@ rainbands
 rainbirds
 rainbows
 raincoats
+rained
 rainier
 rainiest
 raininess
@@ -67596,6 +67618,7 @@ reformate
 reformational
 reformations
 reformatted
+reformatting
 reformer
 reformisms
 reformist
@@ -68239,6 +68262,7 @@ reman
 remanding
 remands
 remanence
+remanences
 remanent
 remanning
 remans
@@ -73127,6 +73151,7 @@ seleniferous
 selenite
 selenitic
 seleniums
+selenological
 selenologist
 selenology
 selfdom
@@ -74010,6 +74035,7 @@ shebang
 shebeans
 shebeens
 shed
+shedable
 shedders
 shedding
 sheds
@@ -76757,6 +76783,7 @@ sorptive
 sorrel
 sorrels
 sorrier
+sorrinesses
 sorrowers
 sorrowful
 sorrowfulness
@@ -79124,6 +79151,7 @@ strongman
 strongmen
 strongyloidosis
 strontians
+strontias
 strontium
 strontiums
 strook
@@ -79519,6 +79547,7 @@ subinfeuded
 subinfeuds
 subinterval
 subintervals
+subirrigate
 subirrigates
 subirrigating
 subirrigation
@@ -81640,6 +81669,7 @@ talcum
 talcums
 talebearer
 talebearings
+taleggio
 taleggios
 talented
 talentless
@@ -82681,6 +82711,7 @@ terrorless
 terrors
 tersely
 terseness
+terser
 tertial
 tertiaries
 tertiary
@@ -85184,6 +85215,7 @@ triplite
 triploid
 triploidies
 triploidy
+tripod
 tripodal
 tripodic
 tripodies
@@ -85834,6 +85866,7 @@ turtler
 turtles
 tushed
 tushery
+tushie
 tushies
 tusker
 tuskers
@@ -92294,6 +92327,7 @@ wries
 wriest
 wriggled
 wriggler
+wriggly
 wright
 wrights
 wring
@@ -92782,6 +92816,7 @@ zaibatsu
 zaikai
 zaikais
 zamarra
+zamarras
 zamindar
 zamindaris
 zanders
