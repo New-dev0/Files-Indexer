@@ -1189,6 +1189,7 @@ aftereffect
 afterglow
 afterglows
 afterimage
+afterimages
 afterlife
 afterlives
 aftermarket
@@ -8627,6 +8628,7 @@ bolometers
 bolometrically
 boloney
 bolos
+bolshevism
 bolshevized
 bolshevizing
 bolshies
@@ -12556,6 +12558,7 @@ champignons
 champing
 championed
 champions
+championship
 championships
 champleve
 champs
@@ -15711,6 +15714,7 @@ conations
 conative
 conatus
 concatenate
+concatenating
 concatenation
 concave
 concavely
@@ -17461,6 +17465,7 @@ countersue
 countersues
 countersuit
 countersuits
+countersunk
 countertactic
 countertenors
 counterterrors
@@ -18362,6 +18367,7 @@ crustacean
 crustaceans
 crustaceous
 crustal
+crusted
 crustily
 crustinesses
 crustless
@@ -25214,6 +25220,7 @@ elephant
 elephantine
 elevated
 elevateds
+elevating
 elevation
 elevations
 elevators
@@ -34450,6 +34457,7 @@ griminesses
 grimly
 grinches
 grind
+grindelia
 grinderies
 grinders
 grindery
@@ -34472,6 +34480,7 @@ gripiest
 griping
 gripman
 gripmen
+grippe
 gripped
 gripper
 grippier
@@ -34606,6 +34615,7 @@ groundworks
 group
 groupable
 grouper
+groupers
 groupie
 groupies
 grouping
@@ -35424,6 +35434,7 @@ handbarrows
 handbasket
 handbaskets
 handbill
+handbills
 handbreadths
 handcar
 handcart
@@ -39866,6 +39877,7 @@ indocilities
 indoctrination
 indoctrinations
 indoctrinators
+indole
 indolences
 indolently
 indoles
@@ -43846,6 +43858,7 @@ laggards
 lagger
 laggers
 lagging
+laggings
 lagnappe
 lagnappes
 lagoons
@@ -45362,6 +45375,7 @@ lipolyses
 lipolytic
 lipoproteins
 liposomal
+liposuction
 liposuctions
 lipotropic
 lipotropies
@@ -48103,6 +48117,7 @@ mend
 mendable
 mendaciousness
 mendacity
+mended
 mendelevium
 mendicancies
 mendicants
@@ -52532,6 +52547,7 @@ nighttime
 nighttimes
 nightwalker
 nighty
+nigritude
 nigritudes
 nigrosin
 nigrosines
@@ -53074,6 +53090,7 @@ nongeometrical
 nonghetto
 nonglamorous
 nonglare
+nonglazed
 nongolfers
 nongonococcal
 nongraded
@@ -53328,6 +53345,7 @@ nonrenewable
 nonreproductive
 nonresidence
 nonresidencies
+nonresidents
 nonresonant
 nonrespondents
 nonresponse
@@ -54814,6 +54832,7 @@ optimized
 optimizers
 optimizes
 optimum
+optimums
 option
 optionalities
 optionality
@@ -55606,6 +55625,7 @@ outleaped
 outleaping
 outleaps
 outleapt
+outlearn
 outlearns
 outlearnt
 outlet
@@ -57100,6 +57120,7 @@ padlocking
 padlocks
 padnag
 padnags
+padouk
 padri
 padrone
 padroni
@@ -58906,6 +58927,7 @@ percoids
 percolate
 percolated
 percolations
+percussed
 percusses
 percussing
 percussion
@@ -60118,6 +60140,7 @@ piedmonts
 piefort
 pieforts
 piehole
+pieing
 pieplant
 pier
 pierces
@@ -61034,6 +61057,7 @@ plumpened
 plumper
 plumule
 plumules
+plumulose
 plunder
 plundered
 plunderer
@@ -61204,6 +61228,7 @@ pointillism
 pointillisms
 pointillist
 pointillists
+pointing
 pointlessly
 pointlessness
 pointmen
@@ -62041,6 +62066,7 @@ potstones
 pottage
 potteen
 potterers
+potteries
 pottering
 pottery
 potties
@@ -64058,6 +64084,7 @@ provincialized
 provincializing
 provincially
 provincials
+proviruses
 provisionally
 provisionals
 provisionary
@@ -64978,6 +65005,7 @@ quaker
 quakers
 quakier
 quakiest
+quakingly
 qualia
 qualification
 qualifications
@@ -67927,6 +67955,7 @@ rememberability
 rememberable
 remembered
 remembering
+remembers
 remembrance
 remembrancer
 remembrances
@@ -75041,6 +75070,7 @@ slap
 slapdashes
 slaphappier
 slaphappiest
+slapjack
 slapjacks
 slapper
 slapping
@@ -76081,6 +76111,7 @@ solferino
 solgel
 solicitants
 solicitation
+solicitations
 solicited
 soliciting
 solicitous
@@ -77631,6 +77662,7 @@ stalker
 stalkers
 stalking
 stalkless
+stalklike
 stalky
 stall
 stallholder
@@ -81899,6 +81931,7 @@ telnet
 telneting
 telnetting
 telocentric
+telocentrics
 telome
 telomere
 telomeres
@@ -84938,6 +84971,7 @@ troth
 trothplighting
 troths
 trotline
+trotter
 trotters
 trotting
 trotyls
@@ -88517,6 +88551,7 @@ vambraced
 vambraces
 vamoose
 vamoosed
+vamooses
 vamoosing
 vamose
 vamosed
