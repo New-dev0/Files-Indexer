@@ -1833,6 +1833,7 @@ alleles
 allelic
 allelomorphisms
 allelomorphs
+allelopathic
 allelopathies
 allergen
 allergenic
@@ -5385,6 +5386,7 @@ axones
 axons
 axoplasm
 axseed
+axseeds
 ay
 ayahuasca
 ayahuascas
@@ -7497,6 +7499,7 @@ bigwigs
 bihourly
 bijection
 bijective
+bijoux
 bijugate
 biked
 biker
@@ -14027,6 +14030,7 @@ classicizing
 classico
 classier
 classiest
+classifiable
 classification
 classifications
 classified
@@ -16613,6 +16617,7 @@ convenes
 convenience
 conveniences
 conveniency
+convenient
 convening
 convent
 conventicle
@@ -18690,6 +18695,7 @@ cupferron
 cupfuls
 cupid
 cupidity
+cupids
 cupola
 cupolas
 cuppa
@@ -20716,6 +20722,7 @@ deniers
 denies
 denigrate
 denigrated
+denigrates
 denigrating
 denigrations
 denigrator
@@ -22180,6 +22187,7 @@ dipterocarp
 dipteron
 diptyca
 diptycas
+diptych
 diptychs
 diquats
 diram
@@ -23001,6 +23009,7 @@ distaffs
 distained
 distains
 distal
+distances
 distancing
 distant
 distantness
@@ -26280,6 +26289,7 @@ enterer
 enteric
 enteritis
 enteritises
+enterobiases
 enterococcus
 enterocoele
 enterocoelic
@@ -27598,6 +27608,7 @@ excerpts
 excess
 excessing
 excessively
+exchangeability
 exchangeable
 exchangers
 exchanging
@@ -28113,6 +28124,7 @@ extemporizing
 extend
 extendabilities
 extendable
+extendedness
 extendednesses
 extenders
 extends
@@ -32047,6 +32059,7 @@ gabbro
 gabbroic
 gabbroid
 gabbros
+gabby
 gaberdine
 gabfests
 gabion
@@ -33107,6 +33120,7 @@ giftwrapped
 giftwrapping
 giftwraps
 gig
+giga
 gigabits
 gigabyte
 gigacycles
@@ -34262,6 +34276,7 @@ grassy
 grat
 grate
 grated
+gratefuller
 gratefulness
 gratefulnesses
 grateless
@@ -35113,6 +35128,7 @@ gyplures
 gypped
 gypper
 gypseian
+gypseous
 gypsophila
 gypsophilas
 gypsum
@@ -41373,6 +41389,7 @@ intriguant
 intriguants
 intriguer
 intrigues
+intriguing
 intriguingly
 intrinsical
 intrinsically
@@ -41637,6 +41654,7 @@ ionomers
 ionone
 ionones
 ionophore
+ionophores
 ionosonde
 ionospheric
 ionospherically
@@ -44864,6 +44882,7 @@ lesbos
 leses
 lesion
 lesioning
+lesions
 lessee
 lessening
 lessens
@@ -45333,6 +45352,7 @@ linearised
 linearises
 linearize
 linearized
+linearizing
 linearly
 lineations
 linebackers
@@ -46229,6 +46249,7 @@ lude
 ludicrous
 ludicrousnesses
 luetic
+luetics
 luffed
 luftmenschen
 lugeing
@@ -48146,6 +48167,7 @@ memberships
 membranal
 membrane
 membranous
+membranously
 meme
 memento
 mementoes
@@ -48882,6 +48904,7 @@ microworlds
 micrurgies
 micrurgy
 mics
+micturate
 micturated
 micturitions
 mid
@@ -53166,6 +53189,7 @@ nonflying
 nonfocal
 nonforfeiture
 nonforfeitures
+nonformal
 nonfreezing
 nonfulfillments
 nonfunded
@@ -56465,6 +56489,7 @@ overflowing
 overflown
 overflows
 overfly
+overflying
 overfocus
 overfocusses
 overfocussing
@@ -59070,6 +59095,7 @@ perfecters
 perfectest
 perfectible
 perfection
+perfectionism
 perfectionisms
 perfectionist
 perfectionistic
@@ -74553,6 +74579,7 @@ signee
 signees
 signer
 signers
+signeted
 signeting
 significance
 significances
@@ -78409,6 +78436,7 @@ stockade
 stockaded
 stockading
 stockage
+stockbreeders
 stockbrokerage
 stockbrokers
 stockbroking
@@ -80330,6 +80358,7 @@ supertight
 supertonic
 supervened
 supervenient
+supervening
 supervirtuoso
 supervirtuosos
 supervise
@@ -80943,6 +80972,7 @@ symbionts
 symbiosis
 symbiote
 symbolic
+symbolical
 symbolise
 symbolised
 symbolist
@@ -80956,6 +80986,7 @@ symbols
 symmetrical
 symmetricalness
 symmetrization
+symmetrizations
 symmetrize
 symmetrizes
 sympathectomies
@@ -84759,6 +84790,7 @@ trickily
 trickiness
 trickinesses
 trickish
+trickishnesses
 trickle
 trickles
 trickling
@@ -86429,6 +86461,7 @@ unclosing
 unclothe
 unclothed
 uncloud
+unclouded
 unclouding
 uncloying
 unclutter
@@ -86484,6 +86517,7 @@ unconfused
 unconfusing
 uncongenial
 unconquerably
+unconscionable
 unconscionably
 unconsciously
 unconsciousness
@@ -87969,6 +88003,7 @@ untethers
 unthawed
 unthinkably
 unthinking
+unthinks
 unthreading
 unthreads
 unthreatening
