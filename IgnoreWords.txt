@@ -3937,6 +3937,7 @@ arbiters
 arbitraged
 arbitragers
 arbitrageur
+arbitral
 arbitrament
 arbitrariness
 arbitrarinesses
@@ -4737,6 +4738,7 @@ astutenesses
 asunder
 aswirl
 asylums
+asymmetry
 asymptotic
 asymptotically
 asynapsis
@@ -7669,6 +7671,7 @@ bimodal
 bimodality
 bimolecular
 bimonthly
+bimorph
 bimorphs
 binarism
 binarisms
@@ -10457,6 +10460,7 @@ busk
 buskers
 buskin
 busking
+buskins
 buss
 bussed
 bust
@@ -14288,6 +14292,7 @@ clearings
 clearly
 clearstories
 clearwings
+cleat
 cleats
 cleavable
 cleavages
@@ -17695,6 +17700,7 @@ counterstriking
 counterstroke
 counterstruck
 countersue
+countersued
 countersues
 countersuit
 countersuits
@@ -19472,6 +19478,7 @@ dahabiyas
 dahl
 dahls
 daidzein
+daidzeins
 daiker
 daikered
 daikering
@@ -20016,6 +20023,7 @@ decasualization
 decasyllabic
 decasyllabics
 decathlete
+decathletes
 decathlon
 decay
 decayed
@@ -20144,6 +20152,7 @@ declivitous
 deco
 decocting
 decocts
+decode
 decoder
 decodes
 decoding
@@ -20737,6 +20746,7 @@ delocalize
 delocalizes
 delocalizing
 delouses
+delphinia
 delphiniums
 deltic
 deltoidei
@@ -22809,6 +22819,7 @@ disentailed
 disentails
 disentangle
 disentanglement
+disenthral
 disenthrall
 disenthralled
 disenthrals
@@ -23590,6 +23601,7 @@ dogfought
 dogged
 doggedly
 doggednesses
+dogger
 doggerel
 doggeries
 doggiest
@@ -24582,6 +24594,7 @@ dulciana
 dulcified
 dulcifies
 dulcifying
+dulcimer
 dulcimers
 dulcimore
 dulcinea
@@ -33149,6 +33162,7 @@ genealogies
 genealogists
 genealogy
 generalcy
+generalisation
 generalised
 generalises
 generalizable
@@ -35226,6 +35240,7 @@ guanethidines
 guanidine
 guanidins
 guanines
+guano
 guanos
 guanosines
 guaranies
@@ -37487,6 +37502,7 @@ hoardings
 hoards
 hoariest
 hoariness
+hoarinesses
 hoars
 hoarse
 hoarsened
@@ -38118,6 +38134,7 @@ hosers
 hoses
 hosey
 hoseyed
+hoseying
 hoseys
 hosieries
 hosiers
@@ -38559,6 +38576,7 @@ hybristic
 hydathode
 hydathodes
 hydra
+hydracid
 hydracids
 hydrae
 hydralazine
@@ -41777,6 +41795,7 @@ intestacy
 intestate
 intestinally
 intestines
+inthral
 inthrall
 inthralled
 inthralls
@@ -42848,6 +42867,7 @@ jesters
 jesting
 jestings
 jests
+jesuit
 jesuitic
 jesuitical
 jesuitically
@@ -43898,6 +43918,7 @@ kingdom
 kinged
 kingfish
 kingfisher
+kingfishers
 kingfishes
 kinghoods
 kinging
@@ -50503,6 +50524,7 @@ missives
 missorted
 missound
 missounded
+misspace
 misspaces
 misspeaks
 misspell
@@ -50562,6 +50584,7 @@ mistrace
 mistraces
 mistracing
 mistrained
+mistrains
 mistrals
 mistranscribing
 mistranslate
@@ -55271,6 +55294,7 @@ olingo
 olingos
 olivary
 olive
+olives
 olivine
 olivines
 olivinic
@@ -55736,6 +55760,7 @@ organize
 organizers
 organizes
 organizing
+organochlorine
 organochlorines
 organons
 organza
@@ -56934,6 +56959,7 @@ overcaution
 overcautions
 overcentralized
 overcharge
+overcharged
 overchill
 overchilled
 overchills
@@ -59622,6 +59648,7 @@ pentanes
 pentangle
 pentangles
 pentanol
+pentaploidies
 pentaploids
 pentaploidy
 pentarchies
@@ -60063,6 +60090,7 @@ personalize
 personalized
 personalizes
 personally
+personals
 personalties
 personalty
 personas
@@ -63733,6 +63761,7 @@ prepupa
 prepupae
 prepupas
 preputial
+prequalified
 prequalify
 prequalifying
 prequels
@@ -64545,6 +64574,7 @@ prolusion
 prom
 promethium
 prometric
+prominences
 promines
 promiscuity
 promised
@@ -68928,6 +68958,7 @@ remising
 remissible
 remissibly
 remission
+remissions
 remissness
 remit
 remitment
@@ -71460,6 +71491,7 @@ rubaboo
 rubaboos
 rubaiyat
 rubasses
+rubati
 rubatos
 rubbaboo
 rubbaboos
@@ -81032,6 +81064,7 @@ supercluster
 superclusters
 supercoil
 supercoiled
+supercoiling
 supercollider
 supercolliders
 supercomputers
@@ -81961,6 +81994,7 @@ synanon
 synanons
 synapse
 synapsis
+synaptosomes
 synarthroses
 syncarp
 syncarpies
@@ -83587,6 +83621,7 @@ theatricalize
 theatricalized
 theatricalizes
 theatricals
+thebaine
 thebaines
 thebe
 theca
