@@ -1753,6 +1753,7 @@ alike
 alikeness
 alikenesses
 aliment
+alimentary
 alimentation
 alimented
 alimony
@@ -6721,6 +6722,7 @@ bedtime
 beduin
 bedumbed
 bedunce
+bedunced
 bedunces
 beduncing
 bedward
@@ -15879,6 +15881,7 @@ computerist
 computerizable
 computerize
 computerized
+computerizes
 computerizing
 computernik
 computerphobias
@@ -17406,6 +17409,7 @@ cosmochemist
 cosmogenic
 cosmogonic
 cosmogonical
+cosmogonies
 cosmographical
 cosmographies
 cosmography
@@ -18573,6 +18577,7 @@ crushable
 crushed
 crushers
 crushing
+crushproof
 crustacea
 crustacean
 crustaceans
@@ -19679,6 +19684,7 @@ dassies
 dastard
 dastardliness
 dastardlinesses
+dasyures
 databanks
 databased
 databases
@@ -24222,6 +24228,7 @@ dreamworld
 dreamworlds
 dreamy
 dreariest
+drearily
 dreariness
 dreary
 drecky
@@ -25250,6 +25257,7 @@ effluviums
 effort
 effortful
 effortfulnesses
+effortlessness
 efforts
 effronteries
 effrontery
@@ -25574,6 +25582,7 @@ elope
 eloped
 elopement
 eloper
+eloquence
 eloquences
 eluant
 eluate
@@ -27388,6 +27397,7 @@ estranger
 estrangers
 estranges
 estrayed
+estreated
 estreating
 estreats
 estrins
@@ -33437,6 +33447,7 @@ giblets
 gibs
 giddied
 giddies
+giddiest
 giddily
 giddiness
 giddinesses
@@ -36939,6 +36950,7 @@ hereditament
 hereditaments
 hereditarians
 heredity
+herein
 hereinbefore
 hereon
 heresies
@@ -37035,6 +37047,7 @@ hesperidins
 hesperidium
 hessonite
 hessonites
+het
 hetaeric
 hetaerism
 hetaira
@@ -39417,6 +39430,7 @@ immovablenesses
 immovables
 immune
 immunes
+immunise
 immunises
 immunity
 immunized
@@ -42570,6 +42584,7 @@ jalapenos
 jalapin
 jalop
 jalopies
+jaloppies
 jaloppy
 jalops
 jalopy
@@ -44967,6 +44982,7 @@ lazied
 lazier
 lazily
 laziness
+lazing
 lazuli
 lazulite
 lazybones
@@ -47433,6 +47449,7 @@ maligned
 maligner
 maligning
 malignities
+malignity
 maligns
 malihini
 malihinis
@@ -47657,6 +47674,7 @@ manipulable
 manipular
 manipulars
 manipulatable
+manipulated
 manipulates
 manipulations
 manipulative
@@ -47679,6 +47697,7 @@ mannered
 mannerism
 mannerist
 manneristic
+mannerists
 mannerless
 mannerliness
 mannerlinesses
@@ -49316,6 +49335,7 @@ micromanaged
 micromanagement
 micromanagers
 micromanaging
+micromere
 micromeres
 micrometeorite
 micrometeoritic
@@ -53121,6 +53141,7 @@ nidal
 nidate
 nidates
 nidation
+nidations
 niddering
 niderings
 nides
@@ -58254,6 +58275,7 @@ panzer
 pap
 papa
 papacy
+papadam
 papadams
 papadom
 papadum
@@ -59041,6 +59063,7 @@ pavers
 pavid
 pavilion
 pavilioned
+pavillons
 pavin
 pavins
 pavior
@@ -59623,6 +59646,7 @@ perceivers
 perceiving
 percentage
 percental
+percents
 percept
 perceptibly
 perception
@@ -71712,6 +71736,7 @@ sacramentalists
 sacramentals
 sacrarium
 sacredness
+sacrificer
 sacrificers
 sacrifices
 sacrificially
@@ -77679,6 +77704,7 @@ speculate
 speculates
 speculations
 speculative
+speculator
 speculum
 speculums
 sped
@@ -78065,6 +78091,7 @@ spodosols
 spodumenes
 spoilage
 spoils
+spoilsman
 spoilsmen
 spoilsports
 spoilt
@@ -80756,6 +80783,7 @@ summertime
 summerwood
 summerwoods
 summery
+summit
 summited
 summiteer
 summiting
@@ -82267,6 +82295,7 @@ tallows
 tallowy
 tallyho
 tallyhoing
+tallyhos
 tallyman
 tallymen
 talmudic
@@ -86488,6 +86517,7 @@ tuyer
 tuyere
 tuyeres
 tuyers
+twa
 twaddling
 twae
 twaes
@@ -87846,6 +87876,7 @@ unfamiliarly
 unfamous
 unfancy
 unfasten
+unfastened
 unfastening
 unfastens
 unfastidious
@@ -88017,6 +88048,7 @@ unhip
 unhirable
 unhitched
 unholier
+unholy
 unhood
 unhoods
 unhook
@@ -90765,6 +90797,7 @@ vociferate
 vociferates
 vociferating
 vociferator
+vociferators
 vociferous
 vociferously
 vocoder
@@ -91902,6 +91935,7 @@ whelming
 whelped
 whelping
 whenas
+whencesoever
 whenever
 whens
 whensoever
@@ -93361,6 +93395,7 @@ yonis
 yonker
 yore
 youngberries
+youngberry
 younger
 youngest
 youngish
