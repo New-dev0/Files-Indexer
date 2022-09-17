@@ -675,6 +675,7 @@ addax
 addaxes
 addenda
 addends
+addendum
 addendums
 adder
 addicting
@@ -1987,6 +1988,7 @@ alogical
 aloha
 alohas
 aloin
+alonenesses
 along
 aloof
 aloofly
@@ -3216,6 +3218,7 @@ antileak
 antileft
 antileprosy
 antiliberalism
+antiliberals
 antilibertarian
 antilife
 antilifers
@@ -4412,6 +4415,7 @@ ashore
 ashplant
 ashram
 ashrams
+ashtrays
 aside
 asinine
 asininities
@@ -4456,6 +4460,7 @@ aspherical
 asphodel
 asphodels
 asphyxias
+asphyxiate
 asphyxiates
 asphyxiating
 asphyxiations
@@ -7711,6 +7716,7 @@ bioengineer
 bioengineering
 bioengineerings
 bioethical
+biofeedback
 biofeedbacks
 biofouler
 biofoulers
@@ -8998,6 +9004,7 @@ boson
 bosonic
 bosques
 bosquet
+bossdom
 bossdoms
 bossed
 bossily
@@ -10680,6 +10687,7 @@ cadaveric
 cadaverine
 cadaverines
 cadaverous
+cadaverously
 cadavers
 caddice
 caddices
@@ -12009,6 +12017,7 @@ catchphrases
 catchpole
 catchpoles
 catchpolls
+catchup
 catchups
 catchword
 catchwords
@@ -20650,6 +20659,7 @@ delocalization
 delocalizations
 delocalize
 delocalizes
+delocalizing
 delouses
 delphiniums
 deltic
@@ -21932,6 +21942,7 @@ dicrotisms
 dicta
 dictated
 dictating
+dictations
 dictator
 dictators
 dictatorships
@@ -29719,6 +29730,7 @@ fillagrees
 fille
 filler
 filles
+fillet
 filleting
 fillies
 filling
@@ -30259,6 +30271,7 @@ flavonoid
 flavonols
 flavoprotein
 flavoproteins
+flavor
 flavorful
 flavorfully
 flavorings
@@ -32943,6 +32956,7 @@ gelcap
 gelcaps
 gelded
 gelder
+gelders
 geldings
 gelds
 gelee
@@ -33238,6 +33252,7 @@ gerontomorphic
 gerrymandered
 gerund
 gerundive
+gerunds
 gesellschaft
 gesneriad
 gesneriads
@@ -34883,6 +34898,7 @@ grommets
 groom
 groomer
 groomsmen
+groove
 grooved
 groovers
 grooves
@@ -38445,6 +38461,7 @@ hydrokinetic
 hydrologic
 hydrological
 hydrologists
+hydrolysate
 hydrolysates
 hydrolyte
 hydrolytic
@@ -40416,6 +40433,7 @@ inexplicit
 inexpressibly
 inexpugnable
 inextricability
+infall
 infallibility
 infallibly
 infamous
@@ -40882,6 +40900,7 @@ insatiability
 insatiable
 insatiately
 insatiateness
+insatiatenesses
 inscape
 inscribe
 inscribed
@@ -42033,6 +42052,7 @@ ironwomen
 ironwoods
 ironworker
 ironworks
+irradiances
 irradiate
 irradiates
 irradiative
@@ -46881,6 +46901,7 @@ lysogenicities
 lysogenies
 lysogenise
 lysogenised
+lysogenization
 lysogenizations
 lysogenize
 lysogenizes
@@ -47426,6 +47447,7 @@ mandamuses
 mandamusing
 mandarinates
 mandarinic
+mandarins
 mandated
 mandating
 mandator
@@ -49338,6 +49360,7 @@ midweek
 midwife
 midwiferies
 midwifery
+midwifes
 midwifing
 midwinter
 midwinters
@@ -52072,6 +52095,7 @@ mysids
 mysosts
 mystagogies
 mystagogue
+mystagogy
 mysteries
 mysteriously
 mystery
@@ -58070,6 +58094,7 @@ pantheist
 pantheistically
 pantheists
 pantheon
+panther
 panthers
 pantie
 pantile
@@ -66765,6 +66790,7 @@ realtering
 realters
 ream
 reamer
+reamers
 reaming
 reanalyses
 reanalyze
@@ -68312,6 +68338,8 @@ reinventing
 reinventions
 reinvents
 reinvested
+reinvestigated
+reinvestigates
 reinvestigating
 reinvestigation
 reinvesting
@@ -70031,6 +70059,7 @@ reversibility
 reversibly
 reversing
 reversioner
+reverso
 reversos
 revert
 revertant
@@ -76092,6 +76121,7 @@ sluffing
 slugabeds
 slugfests
 sluggard
+sluggardly
 sluggardness
 sluggardnesses
 slugged
@@ -80582,6 +80612,7 @@ sunbirds
 sunblock
 sunbonnets
 sunbows
+sunburn
 sunburned
 sunburning
 sunburns
@@ -84131,6 +84162,7 @@ toadflaxes
 toadish
 toadstones
 toadstool
+toadstools
 toady
 toadying
 toadyish
@@ -89010,6 +89042,7 @@ uptalks
 uptear
 uptearing
 uptears
+uptempo
 uptempos
 upthrown
 upthrust
@@ -89278,6 +89311,7 @@ vagariously
 vagary
 vagile
 vaginal
+vaginas
 vaginated
 vaginitises
 vaginoses
@@ -91579,6 +91613,7 @@ wetproof
 wets
 wetsuits
 wettabilities
+wettability
 wetter
 wetting
 wettish
