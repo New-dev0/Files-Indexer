@@ -1,0 +1,11 @@
+focal-desktop-amd64.manifest - Ubuntu CDImage,https://cdimage.ubuntu.com/focal/daily-live/manual/focal-desktop-amd64.manifest
+kinetic-desktop-amd64.manifest - Ubuntu CDImage,https://cdimage.ubuntu.com/daily-live/20220909/kinetic-desktop-amd64.manifest
+https://mirrors.aliyun.com/oldubuntu-releases/rele...,https://mirrors.aliyun.com/oldubuntu-releases/releases/16.04.4/ubuntu-16.04-desktop-amd64.manifest
+https://mirrors.aliyun.com/oldubuntu-releases/rele...,https://mirrors.aliyun.com/oldubuntu-releases/releases/15.10/ubuntu-15.10-desktop-amd64.manifest
+mirror.rise.ph/ubuntu-iso/16.04/ubuntu-16.04.5-des...,http://mirror.rise.ph/ubuntu-iso/16.04/ubuntu-16.04.5-desktop-i386.manifest
+mint-dev-tools/filesystem.manifest at master - ubuntu-18.04 - GitHub,https://github.com/linuxmint/mint-dev-tools/blob/master/usr/share/mint-dev-tools/manifests/ubuntu-18.04/filesystem.manifest
+ubuntu.interhost.co.il/18.04/ubuntu-18.04-beta2-de...,http://ubuntu.interhost.co.il/18.04/ubuntu-18.04-beta2-desktop-amd64.manifest
+ubuntu.interhost.co.il/17.10.1/ubuntu-17.10-beta2-...,http://ubuntu.interhost.co.il/17.10.1/ubuntu-17.10-beta2-desktop-amd64.manifest
+CentOS-Stream-8-ppc64le-latest-dvd1.iso.manifest,https://mirrors.radwebhosting.com/centos/8-stream/isos/ppc64le/CentOS-Stream-8-ppc64le-latest-dvd1.iso.manifest
+https://jp.mirror.coganng.com/ubuntu-cdimage/jammy...,https://jp.mirror.coganng.com/ubuntu-cdimage/jammy/ubuntu-22.04-beta-desktop-amd64.manifest
+ubuntu-21.04-desktop-amd64.manifest - FTP Directory Listing,https://ubuntu.cica.es/releases/21.04/ubuntu-21.04-desktop-amd64.manifest

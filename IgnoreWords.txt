@@ -209,6 +209,7 @@ accelerando
 accelerated
 accelerates
 accelerating
+acceleration
 accelerations
 accelerative
 accelerators
@@ -4142,6 +4143,7 @@ armbands
 armchairs
 armed
 armet
+armful
 armfuls
 armhole
 armiger
@@ -9509,6 +9511,7 @@ breaths
 breathtaking
 breathy
 breccias
+brecciate
 brecciated
 brecciates
 brecciation
@@ -9778,6 +9781,7 @@ bronchiolar
 bronchioles
 bronchitic
 bronchogenic
+bronchos
 bronchoscopies
 bronchoscopists
 bronchospasms
@@ -11108,6 +11112,7 @@ canard
 canaries
 canary
 canasta
+cancel
 cancelable
 cancelation
 canceled
@@ -11310,6 +11315,7 @@ canzonas
 canzones
 canzonet
 canzonets
+caoutchoucs
 capabilities
 capability
 capable
@@ -19385,6 +19391,7 @@ dag
 daggas
 dagger
 daggered
+daggering
 daggerlike
 daggers
 daggle
@@ -27171,6 +27178,7 @@ erythrons
 erythropoieses
 erythropoietic
 erythropoietin
+erythropoietins
 erythrosin
 erythrosins
 es
@@ -30118,6 +30126,7 @@ flaggingly
 flaggings
 flagitious
 flagitiously
+flagless
 flagmen
 flagon
 flagons
@@ -31616,6 +31625,7 @@ freebees
 freebie
 freeboards
 freeboot
+freeboots
 freedman
 freedmen
 freedom
@@ -32267,6 +32277,7 @@ futhork
 futile
 futileness
 futilitarianism
+futilitarians
 futility
 futtock
 futureless
@@ -35888,6 +35899,7 @@ hangout
 hangovers
 hangs
 hangtags
+hangul
 haniwa
 hanked
 hankered
@@ -36471,6 +36483,7 @@ hebes
 hebetate
 hebetation
 hebetic
+hebetude
 hebraization
 hebraizes
 hebraizing
@@ -43130,6 +43143,7 @@ jurywomen
 jus
 jussive
 jussives
+just
 justed
 juster
 justest
@@ -43195,6 +43209,7 @@ kadis
 kae
 kaf
 kaffir
+kaffiyah
 kaffiyahs
 kaffiyeh
 kaffiyehs
@@ -47208,6 +47223,7 @@ mainframes
 mainlander
 mainlands
 mainline
+mainliner
 mainliners
 mainlining
 mainmast
@@ -47667,6 +47683,7 @@ maplike
 mapmaker
 mappers
 maps
+mar
 mara
 marabou
 marabout
@@ -48883,6 +48900,7 @@ metacenters
 metacercaria
 metacercariae
 metacercarial
+metaethics
 metafiction
 metafictional
 metafictionist
@@ -50023,6 +50041,7 @@ misenroll
 misenrolled
 misenrolling
 misenrolls
+misenters
 miser
 miserableness
 miserere
@@ -55760,6 +55779,7 @@ ostensibly
 ostensorium
 ostentation
 ostentations
+ostentatiously
 osteoarthritic
 osteoblast
 osteoblastic
@@ -58785,6 +58805,7 @@ patens
 patentabilities
 patentability
 patenting
+patently
 pater
 paterfamilias
 paternal
@@ -65311,6 +65332,7 @@ purposed
 purposeful
 purposeless
 purposelessly
+purposelessness
 purposively
 purpura
 purpure
@@ -69238,6 +69260,7 @@ rerecording
 reredos
 reregister
 reregistered
+reregistration
 reregistrations
 reregulated
 reregulates
@@ -72152,6 +72175,7 @@ sarins
 sarkier
 sarks
 sarky
+sarment
 sarments
 sarode
 sarodes
@@ -72203,6 +72227,7 @@ satiations
 satieties
 satiety
 satinette
+satinpod
 satinwoods
 satires
 satirical
@@ -72721,6 +72746,7 @@ schusser
 schusses
 schvartzes
 schwa
+schwarmerei
 schwarmereis
 schwas
 sciamachy
@@ -81715,6 +81741,7 @@ synchroscopes
 synchs
 syncing
 synclinal
+syncline
 synclines
 syncom
 syncoms
@@ -82677,6 +82704,7 @@ telefilms
 telegony
 telegramming
 telegrapher
+telegraphers
 telegraphically
 telegraphies
 telegraphist
@@ -83596,6 +83624,7 @@ thoro
 thoron
 thorons
 thorough
+thoroughbass
 thoroughbraces
 thoroughbreds
 thorougher
@@ -85062,6 +85091,7 @@ transmigrates
 transmigrating
 transmigration
 transmigratory
+transmissible
 transmissivity
 transmissometer
 transmits
@@ -88994,6 +89024,7 @@ uprear
 uprears
 upright
 uprighting
+uprightly
 uprightnesses
 uprights
 uprise
@@ -89573,6 +89604,7 @@ variole
 varioles
 variolites
 varioloid
+varioloids
 variolous
 various
 variousness
@@ -89797,6 +89829,7 @@ venditions
 vendors
 vendue
 vendues
+veneer
 veneered
 veneerings
 veneers
@@ -90815,6 +90848,7 @@ vulgarize
 vulgarized
 vulgarizes
 vulgarly
+vulgars
 vulgates
 vulgo
 vulguses
@@ -91105,6 +91139,7 @@ warked
 warless
 warlike
 warlock
+warlordism
 warm
 warmaker
 warmed
