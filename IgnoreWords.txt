@@ -9069,6 +9069,7 @@ bounce
 bounced
 bouncer
 bouncers
+bouncily
 bouncing
 bound
 boundable
@@ -9320,6 +9321,7 @@ branchless
 branchline
 branchlines
 branchy
+brand
 brander
 branding
 brandings
@@ -15409,6 +15411,7 @@ combust
 combustible
 combustibles
 combusting
+combustions
 combustive
 combustor
 combusts
@@ -16078,6 +16081,7 @@ confides
 confiding
 confidingness
 configuration
+configurational
 configurations
 configurative
 configured
@@ -16841,6 +16845,7 @@ cooperated
 cooperates
 cooperating
 cooperation
+cooperationists
 cooperations
 cooperatively
 cooperativeness
@@ -17802,6 +17807,7 @@ crabapple
 crabbed
 crabbedly
 crabbednesses
+crabber
 crabbers
 crabbiest
 crabbing
@@ -18791,6 +18797,7 @@ cuppa
 cuppiest
 cupping
 cupreous
+cupric
 cuprous
 cuprum
 cupsful
@@ -19376,6 +19383,7 @@ daises
 daishikis
 daisied
 daisies
+dakerhen
 dakoities
 dakoits
 dakoity
@@ -20427,6 +20435,7 @@ degrees
 degressive
 degringolade
 degum
+degummed
 degums
 degustation
 degustations
@@ -21136,6 +21145,7 @@ dermatoses
 dermatosis
 dermestids
 dermic
+dermises
 dermoid
 dermoids
 derms
@@ -25584,6 +25594,7 @@ emblematizes
 embleming
 emblemize
 emblemized
+emblemizing
 emblems
 embodiments
 embody
@@ -25821,6 +25832,7 @@ emunctory
 emyd
 emydes
 emyds
+enable
 enabled
 enablers
 enables
@@ -32275,6 +32287,7 @@ gaillardias
 gainable
 gained
 gainer
+gainful
 gainfully
 gainfulness
 gainfulnesses
@@ -33184,6 +33197,7 @@ gesticulations
 gesticulator
 gesticulators
 gesticulatory
+gestural
 gesturally
 gesturer
 gesturers
@@ -34091,6 +34105,7 @@ googolplexes
 gooiest
 gooky
 goombay
+goon
 gooney
 goony
 goop
@@ -46100,6 +46115,7 @@ logarithmically
 logarithms
 logbooks
 loges
+loggats
 logged
 loggerhead
 loggets
@@ -47724,6 +47740,7 @@ mart
 martagon
 marted
 martellos
+martens
 martensite
 martensites
 martensitically
@@ -50563,6 +50580,7 @@ momus
 momuses
 momzer
 momzers
+monachal
 monacid
 monacidic
 monad
@@ -51795,6 +51813,7 @@ musty
 mutability
 mutable
 mutagen
+mutagenesis
 mutagenicities
 mutagenicity
 mutagens
@@ -52455,6 +52474,7 @@ negotiability
 negotiate
 negotiating
 negotiators
+negotiatory
 negritude
 negrophobias
 negs
@@ -58180,6 +58200,7 @@ paraph
 paraphrasable
 paraphrase
 paraphraser
+paraphrases
 paraphrasing
 paraphs
 paraplegic
@@ -63836,6 +63857,7 @@ priviest
 privilege
 privity
 privy
+prize
 prizefight
 prizefighters
 prizefights
@@ -64200,6 +64222,7 @@ pronuclear
 pronuclei
 pronunciation
 proof
+proofer
 proofreader
 proofreaders
 proofreading
@@ -68056,6 +68079,7 @@ reidentifies
 reidentifying
 reif
 reifications
+reifiers
 reifies
 reify
 reifying
@@ -69295,6 +69319,7 @@ reslating
 resmelted
 resmelts
 resmooth
+resmoothing
 resmooths
 resoak
 resoaked
@@ -70467,6 +70492,7 @@ risibles
 risings
 risker
 riskers
+riskiest
 riskily
 riskiness
 risking
@@ -72104,6 +72130,7 @@ saveable
 saved
 saver
 savers
+saves
 savin
 savine
 saving
@@ -73698,6 +73725,7 @@ ser
 sera
 seraglios
 serail
+serails
 serais
 seral
 serapes
@@ -76144,6 +76172,7 @@ smote
 smother
 smothers
 smothery
+smoulder
 smouldered
 smouldering
 smudges
@@ -76541,6 +76570,7 @@ socket
 socketed
 socketing
 sockeyes
+socle
 socles
 socmen
 sod
@@ -77219,6 +77249,7 @@ spasticity
 spat
 spate
 spates
+spathed
 spathic
 spathose
 spathulate
@@ -84243,6 +84274,7 @@ toploftily
 toploftiness
 toplofty
 topminnow
+topminnows
 topmost
 topnotcher
 topnotchers
@@ -88087,6 +88119,7 @@ unraveling
 unravelled
 unravels
 unrazed
+unreachable
 unreached
 unread
 unreadable
@@ -91139,6 +91172,7 @@ wayfarings
 waypoint
 waypoints
 wayside
+waysides
 waywardness
 waywardnesses
 wayworn
@@ -91959,6 +91993,7 @@ winesap
 winesaps
 wineskin
 wineskins
+winesops
 wingbacks
 wingbows
 wingchair
