@@ -3816,6 +3816,7 @@ apprizers
 approachable
 approaching
 approbate
+approbated
 approbates
 approbation
 appropriate
@@ -8892,6 +8893,7 @@ bookshops
 bookstand
 bookstore
 bookstores
+bookworm
 boom
 boomboxes
 boomed
@@ -9475,6 +9477,7 @@ breadroots
 breads
 breadstuff
 breadstuffs
+breadths
 breadthwise
 breadwinning
 break
@@ -13887,6 +13890,7 @@ circularise
 circularised
 circularising
 circularization
+circularize
 circularness
 circulates
 circulation
@@ -15217,6 +15221,7 @@ collateralizing
 collaterally
 collation
 collations
+collator
 collators
 colleague
 colleagueship
@@ -15887,6 +15892,7 @@ conations
 conative
 conatus
 concatenate
+concatenated
 concatenating
 concatenation
 concave
@@ -17370,6 +17376,7 @@ coseismal
 coseismals
 coses
 cosey
+coshering
 coshers
 coshing
 cosie
@@ -19230,6 +19237,7 @@ cyclosporine
 cyclosporines
 cyclostome
 cyclostyled
+cyclostyles
 cyclostyling
 cyclothymia
 cyclothymic
@@ -21066,6 +21074,7 @@ depolarizer
 depolarizers
 depolarizing
 depolish
+depolishes
 depoliticize
 depoliticized
 depoliticizes
@@ -22688,6 +22697,7 @@ discretion
 discriminable
 discriminant
 discriminants
+discriminated
 discriminating
 discrimination
 discriminator
@@ -25179,6 +25189,7 @@ eelpout
 eelworm
 eelworms
 eely
+eerier
 eeriest
 eerily
 eerinesses
@@ -27078,6 +27089,7 @@ eremuruses
 erenow
 erepsins
 erethic
+erethism
 erg
 ergastoplasm
 ergastoplasms
@@ -38457,6 +38469,7 @@ hybridoma
 hybrids
 hybris
 hybristic
+hydathode
 hydathodes
 hydra
 hydracids
@@ -40104,6 +40117,7 @@ incorrigible
 incorrupted
 incorruptibles
 incorruptibly
+incorruption
 incorruptly
 increasable
 increaser
@@ -42718,6 +42732,7 @@ jerids
 jerk
 jerked
 jerker
+jerkers
 jerkier
 jerkies
 jerkiest
@@ -44158,6 +44173,7 @@ kyanise
 kyanised
 kyanite
 kyanize
+kyanized
 kyanizing
 kyar
 kyars
@@ -44203,6 +44219,7 @@ labializations
 labializes
 labializing
 labials
+labiated
 labiates
 labilities
 lability
@@ -44870,6 +44887,7 @@ laverock
 laverocks
 laves
 laving
+lavish
 lavishing
 lavrock
 lavrocks
@@ -47598,6 +47616,7 @@ manifests
 manifoldness
 manifoldnesses
 manihot
+manikins
 manilas
 manilla
 manille
@@ -48976,6 +48995,7 @@ metalworks
 metameres
 metamerically
 metamerism
+metamerisms
 metamers
 metamorphic
 metamorphism
@@ -51383,6 +51403,7 @@ motorcyclist
 motordoms
 motored
 motorically
+motorise
 motorising
 motorists
 motorization
@@ -53495,6 +53516,7 @@ noncombat
 noncombative
 noncommercial
 noncommitment
+noncommitments
 noncommittally
 noncommunist
 noncommunity
@@ -54692,6 +54714,7 @@ observes
 observing
 observingly
 obsess
+obsesses
 obsession
 obsessional
 obsessions
@@ -56906,6 +56929,7 @@ overdrawing
 overdrawn
 overdress
 overdressed
+overdressing
 overdrew
 overdrinking
 overdriven
@@ -57236,6 +57260,7 @@ overpoweringly
 overpraises
 overprescribing
 overpressures
+overprice
 overpriced
 overpricing
 overprints
@@ -62338,6 +62363,7 @@ poops
 poor
 poorest
 poorhouse
+poori
 pooris
 poormouthing
 poorness
@@ -67986,6 +68012,7 @@ reflection
 reflectional
 reflections
 reflectively
+reflectivities
 reflectivity
 reflectorized
 reflectorizes
@@ -68899,6 +68926,7 @@ renovating
 renovations
 renovator
 renown
+renowned
 renowning
 rentabilities
 rentability
@@ -71238,6 +71266,7 @@ rousingly
 rousseau
 roust
 roustabouts
+rouster
 route
 routed
 routeman
@@ -81087,6 +81116,7 @@ supertonic
 supervened
 supervenient
 supervening
+supervirile
 supervirtuoso
 supervirtuosos
 supervise
@@ -82484,6 +82514,7 @@ tastiest
 tastily
 tat
 tatami
+tatar
 tatars
 tatouay
 tatouays
@@ -82526,6 +82557,7 @@ tautologies
 tautologously
 tautomer
 tautonym
+tautonyms
 tavern
 taverna
 taverner
@@ -89334,6 +89366,7 @@ ushered
 usherette
 usquebae
 usquebaes
+usquebaugh
 usques
 usually
 usualness
@@ -89539,6 +89572,7 @@ valvelike
 valves
 valving
 valvula
+valvular
 valvules
 vambraced
 vambraces
@@ -90295,6 +90329,7 @@ videography
 videolands
 videophile
 videophones
+videotaped
 videotaping
 videotexes
 videotext
