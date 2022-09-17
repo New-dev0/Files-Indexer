@@ -6651,6 +6651,7 @@ bedeafens
 bedeck
 bedecked
 bedecking
+bedel
 bedell
 bedells
 bedemen
@@ -7967,6 +7968,7 @@ bitartrate
 bitched
 bitchen
 bitchery
+bitchier
 bitchiest
 bitching
 bite
@@ -8067,6 +8069,7 @@ blackguardisms
 blackguards
 blackgum
 blackhead
+blackheads
 blackheart
 blackish
 blackjack
@@ -8572,6 +8575,7 @@ bobbers
 bobbery
 bobbin
 bobbing
+bobbins
 bobble
 bobbles
 bobeches
@@ -12831,6 +12835,7 @@ characterizing
 characterless
 characters
 charade
+charases
 charbroil
 charbroiled
 charbroilers
@@ -12989,6 +12994,7 @@ cheap
 cheapened
 cheapens
 cheapest
+cheapjack
 cheapness
 cheapnesses
 cheaps
@@ -14379,6 +14385,7 @@ clinks
 clinometers
 clinquants
 cliometrician
+clipboard
 clipboards
 clippable
 clipped
@@ -18705,6 +18712,7 @@ cuckold
 cuckolding
 cuckolds
 cuckoo
+cuckooed
 cuckooflower
 cuckooflowers
 cuckooing
@@ -22828,6 +22836,7 @@ disgruntling
 disguisement
 disguiser
 disguisers
+disguises
 disgust
 disgustful
 disgustingly
@@ -26931,6 +26940,7 @@ epistatic
 epistaxes
 epistemically
 epistemological
+epistemologist
 epistemology
 episterna
 episternum
@@ -28228,6 +28238,7 @@ expediency
 expedient
 expediently
 expedients
+expediter
 expedites
 expediting
 expedition
@@ -29950,6 +29961,7 @@ finnickier
 finniest
 finning
 finnmark
+finnmarks
 finocchio
 finocchios
 finochios
@@ -34253,6 +34265,7 @@ goodby
 goodbyes
 goodbys
 goodie
+goodies
 goodish
 goodlier
 goodliest
@@ -35598,6 +35611,7 @@ hackwork
 hackworks
 hadal
 haddest
+haddock
 hade
 hades
 hading
@@ -36183,6 +36197,7 @@ hartal
 hartals
 hartebeest
 hartebeests
+harts
 hartshorn
 hartshorns
 harumphing
@@ -42436,6 +42451,7 @@ italianizing
 italic
 italicised
 italicizations
+italicize
 italicizes
 itch
 itchiest
@@ -44237,6 +44253,7 @@ kythes
 laager
 laagered
 laagering
+laari
 lab
 labanotation
 labanotations
@@ -47101,6 +47118,7 @@ macles
 macon
 macons
 macrames
+macroaggregate
 macroaggregated
 macrocosmically
 macrocosms
@@ -47208,6 +47226,7 @@ mag
 magalogs
 magalogues
 magazine
+magdalen
 magdalene
 magenta
 mages
@@ -50399,6 +50418,7 @@ misremembered
 misrenders
 misreported
 misreporting
+misrepresenting
 misrepresents
 misroute
 misroutes
@@ -56904,6 +56924,7 @@ overcomplicated
 overcomplicates
 overcompresses
 overconcern
+overconcerned
 overconcerns
 overconfidence
 overconfidences
@@ -60921,6 +60942,7 @@ piffles
 piffling
 pigboat
 pigboats
+pigeonhole
 pigeonholer
 pigeonholers
 pigeonholing
@@ -62434,6 +62456,7 @@ poplar
 poplin
 poplins
 popliteus
+poplitic
 popover
 popovers
 poppadom
@@ -62948,6 +62971,7 @@ praesidia
 praesidium
 praetorial
 praetorian
+praetors
 pragmatic
 pragmatical
 pragmatically
@@ -63018,6 +63042,7 @@ preabsorbed
 preabsorbing
 preabsorbs
 preaccuse
+preaccused
 preached
 preacher
 preaches
@@ -64783,6 +64808,7 @@ proteomes
 proteomic
 proteoses
 protest
+protestant
 protestation
 protestations
 protested
@@ -70847,6 +70873,7 @@ ritualizing
 ritually
 ritzes
 ritzier
+ritzinesses
 rivage
 rivages
 rival
@@ -75430,6 +75457,7 @@ sill
 sillers
 sillibub
 sillibubs
+sillily
 sillimanite
 silliness
 silly
@@ -77093,6 +77121,7 @@ solions
 solipsism
 solipsistically
 solipsists
+soliquid
 solitaire
 solitaires
 solitaries
@@ -78278,6 +78307,7 @@ springers
 springes
 springinesses
 springings
+springlet
 springlike
 springtide
 springtides
@@ -84614,6 +84644,7 @@ toothache
 toothbrushings
 toothed
 toothing
+toothless
 toothpaste
 toothpicks
 tooths
@@ -86384,6 +86415,7 @@ turbofans
 turbogenerator
 turbojet
 turbos
+turbot
 turbulence
 turbulencies
 turbulently
@@ -86439,6 +86471,7 @@ turnovers
 turnpikes
 turns
 turnsoles
+turnspit
 turnspits
 turnstiles
 turnstone
@@ -88867,6 +88900,7 @@ untangling
 untanned
 untapped
 untarnished
+untasted
 unteaches
 unteaching
 untechnical
@@ -91483,6 +91517,7 @@ waterhens
 wateriest
 waterily
 waterinesses
+waterings
 waterishness
 waterishnesses
 waterjets
