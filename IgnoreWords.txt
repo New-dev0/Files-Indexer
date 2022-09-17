@@ -295,6 +295,7 @@ accorders
 according
 accordingly
 accordionist
+accordionists
 accordions
 accost
 accosting
@@ -4929,6 +4930,7 @@ aubade
 aubades
 auberge
 aubretia
+aubrietas
 auburn
 auburns
 auction
@@ -7698,6 +7700,7 @@ bioelectrical
 bioelectricity
 bioengineer
 bioengineering
+bioengineerings
 bioethical
 biofeedbacks
 biofouler
@@ -11380,6 +11383,7 @@ captaincies
 captaincy
 captaining
 captains
+captainship
 captainships
 captioned
 captioning
@@ -11440,6 +11444,7 @@ caravanning
 caravanserai
 caravel
 caravels
+caraway
 caraways
 carb
 carbamates
@@ -16379,6 +16384,7 @@ consigns
 consist
 consisted
 consistences
+consistencies
 consistency
 consistent
 consistently
@@ -17673,6 +17679,7 @@ covariate
 covariates
 covariation
 covariations
+covarying
 cove
 coved
 covellines
@@ -24645,6 +24652,7 @@ dynamotor
 dynamotors
 dynastic
 dynatron
+dyne
 dynein
 dynel
 dynes
@@ -25503,6 +25511,7 @@ emasculating
 emasculations
 emasculators
 embalm
+embalmed
 embalmers
 embalming
 embalmment
@@ -28430,6 +28439,7 @@ eyebolts
 eyebrows
 eyecup
 eyedropper
+eyedroppers
 eyefolds
 eyefuls
 eyehooks
@@ -29778,6 +29788,7 @@ finites
 finito
 finitude
 finitudes
+fink
 finked
 finks
 finless
@@ -30823,6 +30834,7 @@ fontinas
 foodstuffs
 foofaraw
 foofaraws
+fooleries
 foolfish
 foolhardier
 foolhardiness
@@ -32803,6 +32815,7 @@ gazogene
 gazogenes
 gazpacho
 gazpachos
+gazumper
 gazumping
 geanticlines
 gear
@@ -38433,6 +38446,7 @@ hylozoic
 hylozoism
 hylozoisms
 hylozoistic
+hylozoists
 hymen
 hymeneally
 hymeneals
@@ -38815,6 +38829,7 @@ ideates
 ideating
 ideation
 ideational
+ideations
 ideative
 idem
 idempotents
@@ -40090,6 +40105,7 @@ indifference
 indifferencies
 indifferent
 indifferentisms
+indifferentist
 indifferently
 indigen
 indigences
@@ -42906,6 +42922,7 @@ juicer
 juicier
 juicing
 jujitsu
+juju
 jujube
 jujubes
 jujuist
@@ -48669,6 +48686,7 @@ mesogleal
 mesogleas
 mesomeres
 mesomorph
+mesomorphies
 mesomorphy
 mesonephric
 mesons
@@ -56723,6 +56741,7 @@ overevaluations
 overexaggerate
 overexaggerates
 overexcite
+overexcites
 overexercising
 overexertion
 overexertions
@@ -56733,6 +56752,7 @@ overexpansion
 overexpectation
 overexplain
 overexplained
+overexplaining
 overexplains
 overexploit
 overexploited
@@ -57287,6 +57307,7 @@ overwide
 overwily
 overwind
 overwinding
+overwinds
 overwinter
 overwintering
 overwinters
@@ -63679,6 +63700,7 @@ priestly
 prig
 priggery
 prigging
+priggish
 priggism
 priggisms
 prigs
@@ -65805,6 +65827,7 @@ rabbeted
 rabbies
 rabbin
 rabbinate
+rabbinates
 rabbinical
 rabbins
 rabbit
@@ -66536,6 +66559,7 @@ readerships
 readied
 readier
 readies
+readiest
 readinesses
 reading
 readings
@@ -67722,6 +67746,7 @@ reflies
 refloat
 refloating
 reflooding
+reflower
 reflowering
 reflows
 refluences
@@ -70131,6 +70156,7 @@ rhyming
 rhyolitic
 rhyta
 rhythmic
+rhythmists
 rhythmized
 rhythmizing
 rhythms
@@ -70301,6 +70327,7 @@ rightnesses
 righto
 rights
 rightsize
+rightsizes
 rightsizing
 righty
 rigid
@@ -70593,6 +70620,7 @@ rocking
 rockingly
 rocklike
 rockoons
+rockrose
 rockroses
 rockshaft
 rockslides
@@ -70834,6 +70862,7 @@ rotavirus
 rotaviruses
 rotches
 rotenone
+rotenones
 rotes
 rotgut
 roti
@@ -71778,6 +71807,7 @@ sangarees
 sangars
 sanger
 sangers
+sangfroids
 sangh
 sanghs
 sangria
@@ -80042,6 +80072,7 @@ subtunic
 subtunics
 subtype
 subtypes
+subulate
 subumbrellas
 subunit
 subunits
@@ -83879,6 +83910,7 @@ titbit
 titers
 titfer
 titfers
+tithable
 tithers
 tithing
 tithings
@@ -89128,6 +89160,7 @@ valiants
 valid
 validated
 validating
+validation
 validities
 validity
 validness
@@ -89828,6 +89861,7 @@ viatica
 viaticum
 viator
 viators
+vibist
 vibists
 vibracula
 vibraharp
@@ -89973,6 +90007,7 @@ vilest
 vilification
 vilifier
 vilifiers
+vilipended
 vill
 villa
 villadom
