@@ -4438,6 +4438,7 @@ aspens
 asperate
 asperates
 asperating
+asperges
 aspergilla
 asperity
 aspers
@@ -6185,6 +6186,7 @@ barricade
 barricaded
 barricades
 barricadoes
+barricadoing
 barricados
 barriers
 barrio
@@ -8547,6 +8549,7 @@ bobs
 bobsledded
 bobsledder
 bobsleddings
+bobsleds
 bobsleigh
 bobsleighs
 bobstays
@@ -11975,6 +11978,7 @@ catastrophisms
 catastrophists
 catatonia
 catatonically
+catatonics
 catboats
 catbrier
 catcall
@@ -13731,6 +13735,7 @@ chylous
 chymist
 chymists
 chymotrypsin
+chymotrypsins
 chytrid
 chytrids
 ciao
@@ -14059,6 +14064,7 @@ clanged
 clanger
 clangers
 clanging
+clangoring
 clangoured
 clangours
 clankier
@@ -15738,6 +15744,7 @@ comply
 complying
 compo
 compone
+component
 components
 compony
 comport
@@ -17528,6 +17535,7 @@ counterguerilla
 counterimages
 counterinstance
 countermanded
+countermanding
 countermarched
 countermarching
 countermeasures
@@ -20081,6 +20089,7 @@ decongestion
 decongestive
 decongests
 deconsecrate
+deconstruct
 deconstructive
 deconstructs
 decontaminate
@@ -21843,6 +21852,7 @@ dibbukim
 dibenzofuran
 dibromide
 dibromides
+dibs
 dicamba
 dicambas
 dicast
@@ -25267,6 +25277,7 @@ ektexine
 ekuele
 el
 elaborate
+elaboratenesses
 elaborates
 elaboration
 elaborations
@@ -28380,6 +28391,7 @@ extragalactic
 extrahepatic
 extrajudicial
 extralimital
+extralinguistic
 extraliterary
 extralogical
 extramarital
@@ -30414,6 +30426,7 @@ floccule
 flocculent
 flocculus
 flock
+flocked
 flockier
 flockless
 flocks
@@ -32306,6 +32319,7 @@ gainfully
 gainfulness
 gainfulnesses
 gaingiving
+gainless
 gainliest
 gainsaid
 gainsay
@@ -33448,6 +33462,7 @@ girders
 girdingly
 girdle
 girdled
+girdles
 girds
 girlfriend
 girlhoods
@@ -35110,6 +35125,7 @@ guillemots
 guillotined
 guillotines
 guilt
+guiltiest
 guiltily
 guiltinesses
 guiltless
@@ -44650,6 +44666,7 @@ latrines
 latte
 lattens
 latter
+lattes
 lattice
 latticed
 latticing
@@ -44859,6 +44876,7 @@ leapers
 leapt
 learier
 learn
+learned
 learnedly
 learning
 learnings
@@ -45076,6 +45094,7 @@ lemons
 lemony
 lemures
 lemurine
+lemuroid
 lendable
 lenders
 lending
@@ -48863,6 +48882,7 @@ metathoracic
 metaxylem
 metaxylems
 metazoa
+metazoal
 metazoan
 metazoans
 metazoon
@@ -56782,6 +56802,7 @@ overestimation
 overestimations
 overevaluations
 overexaggerate
+overexaggerated
 overexaggerates
 overexcite
 overexcites
@@ -60443,6 +60464,7 @@ phylogenetic
 phylogenies
 phylogeny
 physed
+physeds
 physiatries
 physiatrist
 physiatrists
@@ -63870,6 +63892,7 @@ privateers
 privately
 privateness
 privatest
+privation
 privatised
 privatising
 privatisms
@@ -64761,6 +64784,7 @@ psyching
 psychoacoustic
 psychoanalyses
 psychoanalyst
+psychoanalytic
 psychoanalyzed
 psychoanalyzes
 psychoanalyzing
@@ -65639,6 +65663,7 @@ quatrefoils
 quatres
 quattrocentos
 quaverer
+quavering
 quaveringly
 quavery
 quay
@@ -67860,6 +67885,7 @@ refrainer
 refrainment
 refrangibility
 refrangible
+refrangibleness
 refreeze
 refreezes
 refreezing
@@ -67917,6 +67943,7 @@ refutes
 refuting
 regainers
 regaining
+regains
 regale
 regaled
 regaler
@@ -70648,6 +70675,7 @@ robustly
 rocaille
 rocailles
 rocambole
+rocamboles
 rochets
 rock
 rockabies
@@ -75802,6 +75830,7 @@ slenderness
 slendernesses
 slept
 sleuthhounds
+slew
 slewed
 slewing
 slice
@@ -79349,6 +79378,7 @@ striped
 stripeless
 stripier
 striping
+stripling
 striplings
 stripper
 stripping
@@ -79472,6 +79502,7 @@ studentships
 studier
 studiers
 studio
+studiously
 studiousnesses
 studlier
 studly
@@ -79505,6 +79536,7 @@ stunned
 stunner
 stuns
 stunsails
+stunt
 stuntednesses
 stunting
 stuntman
@@ -79563,6 +79595,7 @@ stylus
 styluses
 stymie
 stymy
+stymying
 stypsis
 stypsises
 styptics
@@ -81768,6 +81801,7 @@ tachisms
 tachist
 tachiste
 tachistes
+tachistoscopic
 tachometers
 tachyarrhythmia
 tachycardias
@@ -91044,6 +91078,7 @@ wastebasket
 wastefulness
 wastefulnesses
 wasteland
+wastelots
 wastepaper
 wastepapers
 waster
