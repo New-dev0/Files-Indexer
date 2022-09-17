@@ -1405,6 +1405,7 @@ agrarians
 agravic
 agree
 agreeabilities
+agreeable
 agreeablenesses
 agreeably
 agreement
@@ -3016,6 +3017,7 @@ antependium
 antepenult
 antepenultimas
 anterior
+anteriorly
 antetype
 anteverting
 anteverts
@@ -6471,6 +6473,7 @@ bazooka
 bazookas
 bazooms
 bdellium
+be
 beach
 beachball
 beachballs
@@ -8958,6 +8961,7 @@ bootblacks
 booted
 booties
 booting
+bootlaces
 bootleg
 bootlegged
 bootlegger
@@ -9055,6 +9059,7 @@ bossdom
 bossdoms
 bossed
 bossily
+bossinesses
 bossing
 bossism
 bossisms
@@ -15618,6 +15623,7 @@ commie
 commies
 commination
 commingles
+commingling
 comminutes
 comminuting
 comminution
@@ -19073,6 +19079,7 @@ curtseying
 curtsied
 curule
 curvature
+curvatures
 curve
 curveball
 curveballed
@@ -23424,6 +23431,7 @@ ditsinesses
 ditsy
 dittany
 dittoed
+dittoing
 ditty
 ditz
 ditziest
@@ -24740,6 +24748,7 @@ durability
 durablenesses
 durably
 duralumins
+durances
 durations
 durative
 durbars
@@ -31849,6 +31858,7 @@ frequency
 frequentation
 frequentative
 frequenter
+frequenters
 frequentest
 frequently
 frere
@@ -35727,6 +35737,7 @@ haftaras
 haftaroth
 hafted
 haftorah
+haftorot
 hafts
 hag
 hagadic
@@ -35883,6 +35894,7 @@ halls
 hallucal
 halluces
 hallucinating
+hallucination
 hallucinator
 hallucinators
 hallucinatory
@@ -41617,6 +41629,7 @@ intermediacies
 intermediacy
 intermediated
 intermediation
+intermediations
 intermedin
 intermesh
 intermeshing
@@ -42858,6 +42871,7 @@ jemmied
 jemmies
 jemmy
 jennet
+jennets
 jeon
 jeopardies
 jeopardised
@@ -43432,6 +43446,7 @@ kaki
 kakiemon
 kakiemons
 kakis
+kalamata
 kalamatas
 kalams
 kalanchoes
@@ -46205,6 +46220,7 @@ litmus
 litotic
 litres
 litten
+litter
 litterateur
 litterbag
 litterbags
@@ -49139,6 +49155,7 @@ metallic
 metallics
 metalliferous
 metalling
+metallist
 metallists
 metallizations
 metallize
@@ -49274,6 +49291,7 @@ methyldopas
 methylic
 methylphenidate
 methylxanthine
+meticais
 metical
 meticals
 meticulosities
@@ -53856,6 +53874,7 @@ nonexistential
 nonexpendable
 nonexperimental
 nonexpert
+nonexperts
 nonexploitive
 nonextant
 nonfactors
@@ -54662,6 +54681,7 @@ nurturing
 nutates
 nutating
 nutation
+nutational
 nutations
 nutbrown
 nutcase
@@ -57122,6 +57142,7 @@ overdrinking
 overdriven
 overdrives
 overdrove
+overdry
 overdrying
 overdub
 overdubbing
@@ -58899,6 +58920,7 @@ parturient
 parturitions
 partway
 party
+partyer
 partyers
 partygoer
 partygoers
@@ -60877,6 +60899,7 @@ physis
 physostigmine
 physostigmines
 phytanes
+phytins
 phytochemical
 phytochemically
 phytochemistry
@@ -63622,6 +63645,7 @@ prelibation
 prelibations
 prelim
 prelimiting
+preliterate
 prelives
 preload
 prelocate
@@ -67797,6 +67821,7 @@ redbone
 redbones
 redbreasts
 redbud
+redcoats
 redd
 redden
 redder
@@ -69498,6 +69523,7 @@ repudiated
 repudiation
 repudiationist
 repudiations
+repudiators
 repugnancies
 repugnancy
 repugnantly
@@ -70466,6 +70492,7 @@ revivified
 revivifies
 revivify
 reviving
+reviviscences
 revocably
 revocations
 revoice
@@ -70669,6 +70696,7 @@ rhymesters
 rhyming
 rhyolitic
 rhyta
+rhythm
 rhythmic
 rhythmists
 rhythmized
@@ -74000,6 +74028,7 @@ semioticist
 semioticists
 semiotics
 semipalmated
+semiparasitic
 semipermeable
 semipious
 semipolitical
@@ -75800,6 +75829,7 @@ sippets
 sips
 sirdar
 sirdars
+sire
 sirens
 siring
 sirloins
@@ -76976,6 +77006,7 @@ snubbed
 snubber
 snubbier
 snubbiest
+snubbiness
 snubby
 snubness
 snubs
@@ -83646,6 +83677,7 @@ thanatologists
 thanatology
 thanatos
 thanes
+thaneship
 thaneships
 thank
 thanked
@@ -85707,6 +85739,7 @@ trepanned
 trepanner
 trepanning
 trepans
+trephinations
 trephines
 trephining
 trepidant
@@ -85914,6 +85947,7 @@ trigly
 triglycerides
 triglyph
 triglyphical
+triglyphs
 trignesses
 trigonometrical
 trigonometries
@@ -93763,6 +93797,7 @@ zeroes
 zeros
 zest
 zester
+zesters
 zestfulnesses
 zestier
 zestiest
