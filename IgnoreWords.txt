@@ -3002,6 +3002,7 @@ antepenult
 antepenultimas
 anterior
 antetype
+anteverting
 anteverts
 anthelia
 anthelices
@@ -8975,6 +8976,7 @@ borneol
 boron
 boronic
 borons
+borosilicates
 borough
 boroughs
 borrelias
@@ -10710,6 +10712,7 @@ cadencies
 cadencing
 cadency
 cadent
+cadenza
 cadenzas
 cades
 cadet
@@ -25769,6 +25772,7 @@ emic
 emigrants
 emigration
 emigrations
+emigre
 eminency
 eminently
 emir
@@ -27003,6 +27007,7 @@ equivalent
 equivalently
 equivocalities
 equivocality
+equivocalnesses
 equivocations
 equivocators
 equivoke
@@ -30699,6 +30704,7 @@ flurry
 flushable
 flushed
 flushes
+flushing
 flustered
 flusteredly
 flustering
@@ -31159,6 +31165,7 @@ foresightedness
 foresightful
 foresights
 foreskin
+forespeak
 forespoke
 forespoken
 forestage
@@ -31975,6 +31982,7 @@ fucus
 fuddle
 fuddled
 fuddles
+fuddy
 fudged
 fudges
 fudging
@@ -33126,6 +33134,7 @@ geobotanists
 geocentrically
 geochemical
 geochemically
+geochemistry
 geochemists
 geochronologic
 geochronologies
@@ -45322,6 +45331,7 @@ leverets
 leviable
 leviathan
 leviathans
+levied
 levier
 levies
 levigate
@@ -56536,6 +56546,7 @@ outvoice
 outvoices
 outvoicing
 outvotes
+outwait
 outwaited
 outwaiting
 outwaits
@@ -60547,6 +60558,7 @@ physiatries
 physiatrist
 physiatrists
 physiatry
+physic
 physical
 physicalisms
 physicalist
@@ -62561,6 +62573,7 @@ postops
 postorbital
 postorgasmic
 postpollination
+postponable
 postpone
 postponed
 postponement
@@ -62909,6 +62922,7 @@ prearranging
 preassigns
 preassured
 preassuring
+preatomic
 preattune
 preattuned
 preattunes
@@ -63028,6 +63042,7 @@ precocities
 precocity
 precognition
 precognitions
+precolonial
 precombustions
 precommitment
 precommitments
@@ -64418,6 +64433,7 @@ propitiated
 propitiates
 propitiating
 propitiators
+propitiatory
 propitiously
 propitiousness
 propjet
@@ -64568,6 +64584,7 @@ prostitutors
 prostomium
 prostrate
 prostrated
+prostrating
 prostration
 prostrations
 prostyle
@@ -64697,6 +64714,7 @@ protuberantly
 protyls
 proudest
 proudful
+proudness
 proudnesses
 provably
 provenance
@@ -65600,6 +65618,7 @@ quadrilaterals
 quadrille
 quadrilles
 quadrillions
+quadriplegias
 quadriplegic
 quadrivalent
 quadrivalents
@@ -67409,6 +67428,7 @@ rectory
 rectrix
 rectums
 rectus
+recultivate
 recultivated
 recumbencies
 recumbent
@@ -70397,6 +70417,7 @@ ricksha
 rickshas
 rickshaw
 rickshaws
+ricochet
 ricocheted
 ricocheting
 ricotta
@@ -72290,6 +72311,7 @@ savoriest
 savorily
 savorinesses
 savorless
+savorous
 savors
 savour
 savoured
@@ -74717,6 +74739,7 @@ shoepacs
 shoestrings
 shoetree
 shoetrees
+shofar
 shofars
 shofroth
 shog
@@ -75673,6 +75696,7 @@ skirter
 skirters
 skirtings
 skirtless
+skirts
 skis
 skited
 skiting
@@ -76329,6 +76353,7 @@ smoulder
 smouldered
 smouldering
 smudges
+smudgiest
 smudginess
 smudging
 smudgy
@@ -77565,6 +77590,7 @@ spelter
 spelunk
 spelunked
 spelunking
+spence
 spencer
 spences
 spendable
@@ -77851,6 +77877,7 @@ splendor
 splendour
 splenectomies
 splenectomize
+splenectomy
 splenetically
 splenetics
 splenomegalies
@@ -83411,6 +83438,7 @@ thermoscopes
 thermoses
 thermoset
 thermosphere
+thermospheres
 thermostable
 thermostat
 thermostating
@@ -86754,6 +86782,7 @@ unaccompanied
 unaccountable
 unaccountably
 unaccounted
+unaccredited
 unaccrued
 unaccustomedly
 unacerbic
@@ -87090,6 +87119,7 @@ unclearer
 unclearest
 unclench
 unclenches
+uncliched
 unclimbable
 unclinched
 unclinching
@@ -88147,6 +88177,7 @@ unmuffle
 unmuffled
 unmuffling
 unmuzzles
+unmuzzling
 unmyelinated
 unnails
 unnameable
@@ -88159,6 +88190,7 @@ unnewsworthy
 unnilhexiums
 unnilpentium
 unnoticeable
+unnoticed
 unobservable
 unobserved
 unobtainable
@@ -88554,6 +88586,7 @@ unsphere
 unsphering
 unspiritual
 unspoilt
+unspoke
 unspoken
 unsportsmanlike
 unsprayed
@@ -88687,6 +88720,7 @@ unto
 untouchable
 untouched
 untoward
+untowardly
 untowardness
 untowardnesses
 untraceable
@@ -93013,6 +93047,7 @@ yearend
 yearlong
 yearn
 yearner
+yearners
 yearningly
 yeasayer
 yeasayers
