@@ -249,6 +249,7 @@ acciaccatura
 accidences
 accidentally
 accidentalness
+accidentals
 accidently
 accidia
 accidie
@@ -735,6 +736,7 @@ adherence
 adherences
 adherend
 adherends
+adherent
 adherently
 adherers
 adheres
@@ -2139,6 +2141,7 @@ amateurishly
 amateurishness
 amateurism
 amateurisms
+amateurs
 amatively
 amativeness
 amativenesses
@@ -2754,6 +2757,7 @@ angiogeneses
 angiogenesis
 angiogenic
 angiogram
+angiograms
 angiologies
 angiology
 angioplasty
@@ -4578,6 +4582,7 @@ assessment
 asset
 assetless
 assets
+asseverated
 asseverates
 asseverative
 assiduous
@@ -5538,6 +5543,7 @@ babying
 babyish
 babyishly
 babyproofed
+babyproofs
 babysit
 babysits
 bacalao
@@ -8140,6 +8146,7 @@ blaming
 blanch
 blancher
 blanching
+blancmange
 bland
 blander
 blandest
@@ -10272,6 +10279,7 @@ bunging
 bungle
 bungler
 bunglers
+bungling
 bunglings
 bungs
 bunions
@@ -10694,6 +10702,7 @@ cabob
 cabobs
 caboched
 cabochons
+caboodle
 caboodles
 cabotage
 cabresta
@@ -13941,6 +13950,7 @@ circularising
 circularization
 circularize
 circularness
+circulatable
 circulates
 circulation
 circulative
@@ -21028,6 +21038,7 @@ densifying
 densitometers
 densitometric
 density
+dent
 dental
 dentalia
 dentalities
@@ -27906,6 +27917,7 @@ exactness
 exaggerate
 exaggeratedly
 exaggeratedness
+exaggerating
 exaggeration
 exaggerations
 exaggerator
@@ -29647,6 +29659,7 @@ fettuccine
 fettuccini
 fettucine
 fetuses
+feu
 feud
 feudal
 feudalist
@@ -33329,6 +33342,7 @@ geoidal
 geoids
 geologer
 geologic
+geological
 geologically
 geologist
 geologize
@@ -36964,6 +36978,7 @@ henceforth
 henchman
 hencoop
 hencoops
+hendecasyllabic
 hendecasyllable
 hendiadys
 hendiadyses
@@ -37372,6 +37387,7 @@ hijab
 hijack
 hijacker
 hijacking
+hijinks
 hijra
 hijrah
 hike
@@ -43304,6 +43320,7 @@ junctional
 junctions
 jungle
 junglegyms
+junglelike
 jungly
 juniorate
 juniorates
@@ -46320,6 +46337,7 @@ loather
 loathes
 loathful
 loathly
+loathnesses
 loathsomeness
 lob
 lobar
@@ -47326,6 +47344,7 @@ maffia
 maffick
 mafficked
 mafficker
+mafficking
 mafficks
 mafia
 mafias
@@ -53959,6 +53978,7 @@ nonindustry
 noninfective
 noninflammable
 noninflationary
+noninflectional
 noninfluences
 noninformation
 noninformations
@@ -56250,6 +56270,7 @@ outcharm
 outcharming
 outcheat
 outcheating
+outchidden
 outchide
 outcities
 outcity
@@ -60791,6 +60812,7 @@ phototaxes
 phototaxies
 phototaxis
 phototaxy
+phototelegraphy
 phototoxic
 phototubes
 phototypes
@@ -61602,6 +61624,7 @@ planate
 planation
 planch
 planchets
+planchettes
 planed
 planenesses
 planer
@@ -63237,6 +63260,7 @@ preapplying
 preapprove
 prearm
 prearming
+prearms
 prearranged
 prearrangement
 prearrangements
@@ -64384,6 +64408,7 @@ procedurals
 procedure
 procedures
 proceed
+proceeded
 proceeder
 proceeders
 proceeding
@@ -65785,6 +65810,7 @@ pyic
 pyins
 pyknic
 pyknics
+pylorus
 pyoderma
 pyodermas
 pyogenic
@@ -69008,6 +69034,7 @@ remended
 remerged
 remerges
 remerging
+remet
 remex
 remiges
 remigial
@@ -71848,6 +71875,7 @@ ruttiness
 ruttinesses
 ruttish
 ruttishly
+ruttishnesses
 rutty
 rye
 ryegrass
@@ -74295,6 +74323,7 @@ serest
 serf
 serfage
 serfdom
+serfdoms
 serflike
 serge
 sergeancies
@@ -79275,6 +79304,7 @@ steroidal
 steroidogenic
 steroids
 sterols
+stertorously
 stertors
 stet
 stethoscope
@@ -79657,6 +79687,7 @@ straddle
 strafed
 strafers
 strafes
+strafing
 straggle
 straggled
 straggler
@@ -81883,6 +81914,7 @@ swishing
 swishingly
 swiss
 switchable
+switchbacked
 switchbacks
 switchboards
 switcher
@@ -83037,6 +83069,7 @@ teethings
 teethridge
 teetotal
 teetotalers
+teetotaling
 teetotalism
 teetotalist
 teetotalists
@@ -83614,6 +83647,7 @@ tetraploid
 tetraploidies
 tetrapod
 tetrapods
+tetrapyrrole
 tetrarch
 tetrarchic
 tetrarchs
@@ -88490,6 +88524,7 @@ unleased
 unleashed
 unleavened
 unlet
+unlettered
 unleveled
 unleveling
 unlevels
