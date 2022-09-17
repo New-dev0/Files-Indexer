@@ -589,6 +589,7 @@ actinometric
 actinomorphies
 actinomorphy
 actinomyces
+actinomycetes
 actinomycetous
 actinomycosis
 actinomycotic
@@ -680,7 +681,9 @@ addends
 addendum
 addendums
 adder
+adders
 addicting
+addiction
 adding
 additionally
 additives
@@ -1792,6 +1795,7 @@ alkalinization
 alkalinizes
 alkalinizing
 alkalise
+alkalised
 alkalises
 alkalising
 alkalize
@@ -9026,6 +9030,7 @@ boskage
 boskages
 boskier
 boskiest
+bosom
 bosoms
 bosomy
 boson
@@ -10299,6 +10304,7 @@ burbs
 burden
 burdener
 burdeners
+burdening
 burdens
 burdensome
 burdies
@@ -13451,6 +13457,7 @@ chlordanes
 chlordans
 chlorenchyma
 chlorenchymas
+chloridic
 chlorids
 chlorin
 chlorinate
@@ -15515,6 +15522,7 @@ comelier
 comeliest
 comelily
 comeliness
+comembers
 comestible
 comet
 comethers
@@ -16050,6 +16058,7 @@ concupiscence
 concupiscences
 concurred
 concurrence
+concurrencies
 concurrency
 concurrent
 concurrently
@@ -16082,6 +16091,7 @@ conditioners
 conditions
 condole
 condolence
+condolent
 condolers
 condoles
 condom
@@ -18152,6 +18162,7 @@ creeshes
 creeshing
 cremate
 cremates
+cremating
 cremation
 cremations
 cremator
@@ -20556,6 +20567,7 @@ dehisced
 dehiscence
 dehiscences
 dehiscent
+dehorn
 dehorned
 dehorner
 dehorning
@@ -21085,6 +21097,7 @@ depilators
 depilatory
 deplaning
 deplete
+depleter
 depleting
 depletions
 deplorably
@@ -25238,6 +25251,7 @@ effect
 effected
 effectively
 effector
+effectors
 effects
 effectual
 effectually
@@ -26755,6 +26769,7 @@ enwheeled
 enwheeling
 enwomb
 enwombing
+enwound
 enwrapping
 enwreathed
 enwreathes
@@ -28448,6 +28463,7 @@ extents
 extenuate
 extenuates
 extenuating
+extenuation
 extenuations
 extenuator
 extenuators
@@ -29386,6 +29402,7 @@ femininities
 feminises
 feminising
 feminism
+feminisms
 feministic
 feminities
 feminity
@@ -32218,6 +32235,7 @@ fungal
 fungals
 fungible
 fungibles
+fungic
 fungicidal
 fungicide
 fungicides
@@ -35529,6 +35547,7 @@ gyp
 gyplures
 gypped
 gypper
+gyppers
 gypseian
 gypseous
 gypsophila
@@ -43620,6 +43639,7 @@ kerria
 kerrias
 kerries
 kerry
+kersey
 kerseymere
 kerseymeres
 kerygma
@@ -52351,6 +52371,7 @@ nagged
 nagger
 naggier
 naggiest
+naggingly
 naggy
 naiades
 naiads
@@ -54510,6 +54531,7 @@ numberer
 numberers
 numberless
 numbers
+numbest
 numbfish
 numbfishes
 numbing
@@ -55060,6 +55082,7 @@ oedipally
 oeillade
 oenophile
 oenophiles
+oersted
 oersteds
 oes
 oesophagi
@@ -55392,6 +55415,7 @@ oolite
 oolith
 oolitic
 oologic
+oological
 oologies
 oologists
 oolong
@@ -57034,6 +57058,7 @@ overdrove
 overdrying
 overdub
 overdubbing
+overdubs
 overdyed
 overdyeing
 overdyer
@@ -57150,6 +57175,7 @@ overglaze
 overglazed
 overgoad
 overgoaded
+overgoading
 overgoads
 overgovern
 overgoverning
@@ -60699,6 +60725,7 @@ phrenology
 phrensies
 phrensy
 phthalate
+phthalates
 phthalein
 phthaleins
 phthalocyanine
@@ -61659,6 +61686,7 @@ playgoers
 playgoings
 playgroups
 playhouse
+playing
 playless
 playlet
 playlets
@@ -62675,6 +62703,7 @@ postclassic
 postcodes
 postcollege
 postcollegiate
+postcolonial
 postconception
 postconquest
 postconsonantal
@@ -63325,6 +63354,7 @@ predictability
 predictable
 predictably
 predicted
+predicting
 predictive
 predictively
 predictor
@@ -71380,6 +71410,7 @@ routeman
 routemen
 router
 routes
+routh
 routine
 routinely
 routing
@@ -78877,6 +78908,7 @@ statocysts
 statolith
 statoliths
 stator
+stators
 stats
 statuary
 statue
@@ -80119,6 +80151,7 @@ subducts
 subdue
 subduedly
 subduers
+subdues
 subduing
 subdwarf
 subecho
@@ -80237,6 +80270,7 @@ sublimable
 sublimate
 sublimates
 sublimation
+sublime
 sublimely
 sublimenesses
 sublimer
@@ -89521,6 +89555,7 @@ ute
 utensil
 utensils
 uterine
+uterus
 uteruses
 utile
 utilidor
