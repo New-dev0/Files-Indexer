@@ -2694,6 +2694,7 @@ anemic
 anemologies
 anemology
 anemometer
+anemometry
 anemones
 anemophilous
 anencephalies
@@ -3228,6 +3229,7 @@ antilifers
 antiliterate
 antilittering
 antilogarithms
+antilogies
 antilogs
 antilogy
 antilynching
@@ -11831,6 +11833,7 @@ carvacrols
 carvings
 caryatides
 caryopses
+caryotin
 casa
 casaba
 casabas
@@ -17310,6 +17313,7 @@ corruptible
 corruptionists
 corruptions
 corruptnesses
+corruptors
 corsacs
 corsage
 corsair
@@ -20537,6 +20541,7 @@ dehydrogenates
 dehydrogenation
 deice
 deicer
+deicers
 deicide
 deicides
 deictics
@@ -22638,6 +22643,7 @@ discontinuing
 discontinuities
 discophile
 discophiles
+discordancy
 discordant
 discordantly
 discorded
@@ -23186,6 +23192,7 @@ dissolved
 dissolver
 dissolvers
 dissolves
+dissonance
 dissonant
 dissuade
 dissuaded
@@ -26519,6 +26526,7 @@ enteric
 enteritis
 enteritises
 enterobiases
+enterobiasis
 enterococcus
 enterocoele
 enterocoelic
@@ -27288,6 +27296,7 @@ essayed
 essayer
 essayers
 essaying
+essayist
 essayistic
 essayists
 essential
@@ -31976,6 +31985,7 @@ frumpiest
 frusta
 frustrate
 frustrating
+frustratingly
 frustules
 frustum
 frutescent
@@ -33829,6 +33839,7 @@ glommed
 glomming
 gloom
 gloomed
+gloomful
 gloomier
 gloomiest
 gloomily
@@ -34067,6 +34078,7 @@ godchild
 goddammed
 goddamndest
 goddamned
+goddamnedest
 goddams
 godded
 goddess
@@ -35036,6 +35048,7 @@ growthiness
 growthinesses
 growthy
 groyne
+groynes
 grub
 grubbed
 grubbers
@@ -35066,6 +35079,7 @@ gruesomer
 gruesomest
 gruffer
 gruffest
+gruffily
 gruffly
 gruffnesses
 gruffs
@@ -36551,6 +36565,7 @@ heedful
 heedfulness
 heeding
 heedlessly
+heedlessnesses
 heeds
 heehaw
 heehawing
@@ -42786,6 +42801,7 @@ jiggles
 jigglier
 jiggliest
 jiggling
+jiggy
 jiglike
 jigsawing
 jigsaws
@@ -43168,6 +43184,7 @@ juster
 justest
 justiciable
 justiciar
+justiciars
 justifiability
 justifiable
 justifiably
@@ -44044,6 +44061,7 @@ korma
 korun
 koruna
 koruny
+koshered
 koshering
 koshers
 koss
@@ -50361,6 +50379,7 @@ misspeaks
 misspell
 misspellings
 misspend
+misspending
 misstamp
 misstamped
 misstarting
@@ -52098,6 +52117,7 @@ myoclonuses
 myoelectric
 myoelectrical
 myofibrils
+myofilament
 myogenic
 myoglobin
 myographs
@@ -53808,6 +53828,7 @@ nonmodern
 nonmolecular
 nonmonetarists
 nonmoral
+nonmortal
 nonmotility
 nonmotorized
 nonmunicipal
@@ -60346,6 +60367,7 @@ phonons
 phonos
 phonotactic
 phonotype
+phonotypy
 phons
 phony
 phorate
@@ -60550,6 +60572,7 @@ phreatophytic
 phrenitis
 phrenologies
 phrenology
+phrensies
 phrensy
 phthalate
 phthalein
@@ -61073,6 +61096,7 @@ pions
 piosity
 pious
 piously
+piousnesses
 pip
 pipage
 pipal
@@ -64806,6 +64830,7 @@ provolone
 provost
 provosts
 prow
+prowar
 prower
 prowesses
 prowest
@@ -67112,6 +67137,7 @@ recapping
 recaptured
 recapturing
 recarpet
+recarpeting
 recarpets
 recarried
 recarry
@@ -71163,6 +71189,7 @@ roughers
 roughhewed
 roughhewing
 roughhoused
+roughhouses
 roughies
 roughing
 roughleg
@@ -73496,6 +73523,7 @@ segregates
 segregation
 segregationists
 segs
+segueing
 seguidilla
 seicento
 seidel
@@ -77309,6 +77337,7 @@ sourwoods
 souse
 sousliks
 souters
+south
 southbound
 southeast
 southeaster
@@ -78475,6 +78504,7 @@ stags
 stagy
 staid
 staider
+staidly
 staig
 staigs
 stain
@@ -84866,6 +84896,7 @@ trackmen
 trackpad
 tracks
 trackside
+trackways
 tract
 tractability
 tractates
@@ -89729,6 +89760,7 @@ vaultier
 vaultiest
 vaulting
 vaultingly
+vaultings
 vaunt
 vaunted
 vaunters
@@ -89985,6 +90017,7 @@ verditers
 verdure
 verdured
 verdurous
+verge
 vergence
 verger
 vergers
@@ -90194,6 +90227,7 @@ vibronic
 vicarage
 vicarate
 vicarates
+vicariances
 vicariant
 vicariate
 vicarious
@@ -92551,6 +92585,7 @@ wonners
 wont
 wonted
 wontedly
+wonting
 wontons
 woo
 woodbin
