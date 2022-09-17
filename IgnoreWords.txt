@@ -947,6 +947,7 @@ advertiser
 advertises
 advertising
 advertize
+advertizements
 advertizes
 advertizing
 advisability
@@ -1958,6 +1959,7 @@ almandite
 almandites
 alme
 almeh
+almehs
 almemar
 almes
 almightinesses
@@ -5846,6 +5848,7 @@ ballpoint
 balls
 ballsiest
 ballsy
+ballute
 bally
 ballyhoo
 ballyhooed
@@ -8420,6 +8423,7 @@ blueish
 bluejack
 bluejacket
 bluejackets
+bluejacks
 bluejays
 blueline
 bluelines
@@ -9665,6 +9669,7 @@ brittled
 brittlenesses
 brittlest
 brittling
+britts
 britzka
 britzkas
 bro
@@ -13925,6 +13930,7 @@ citadels
 citation
 citatory
 cite
+cited
 citer
 citers
 cithara
@@ -16027,6 +16033,7 @@ conducive
 conductance
 conductances
 conducting
+conduction
 conductive
 conductivity
 conductorial
@@ -16715,6 +16722,7 @@ convectional
 convector
 convects
 convened
+convener
 convenes
 convenience
 conveniences
@@ -20878,6 +20886,7 @@ denounce
 denouncement
 denouncements
 denouncer
+denouncing
 dense
 densely
 denseness
@@ -21557,6 +21566,7 @@ deviationist
 deviative
 deviators
 device
+devil
 deviled
 devilfish
 devilfishes
@@ -24381,6 +24391,7 @@ dualism
 dualisms
 dualistically
 dualizes
+dualizing
 duals
 dub
 dubber
@@ -29700,6 +29711,7 @@ fillings
 filliping
 fillisters
 fillo
+fillos
 filmable
 filmdom
 filmdoms
@@ -29795,6 +29807,7 @@ fingerers
 fingerhold
 fingerings
 fingernail
+fingerpick
 fingerpicked
 fingerpickings
 fingerposts
@@ -31349,6 +31362,7 @@ fossilising
 fossilization
 fossilizations
 fossilized
+fossilizes
 fossils
 fossorial
 foster
@@ -33721,6 +33735,7 @@ globalisms
 globalist
 globalize
 globalizes
+globally
 globated
 globbier
 globbiest
@@ -35103,6 +35118,7 @@ guidebooks
 guided
 guideline
 guidelines
+guidepost
 guideposts
 guiders
 guideway
@@ -35450,6 +35466,7 @@ hacks
 hacksawing
 hacksawn
 hacksaws
+hackwork
 hackworks
 hadal
 haddest
@@ -35852,6 +35869,7 @@ hansoms
 hantavirus
 hanted
 hanting
+hanuman
 hanumans
 hao
 haole
@@ -40055,6 +40073,7 @@ incurrence
 incurs
 incursion
 incursions
+incursive
 incurvating
 incurvations
 incurvature
@@ -49257,6 +49276,7 @@ midiskirts
 midland
 midlands
 midlatitude
+midlegs
 midlife
 midline
 midlines
@@ -53005,6 +53025,7 @@ nighty
 nigritude
 nigritudes
 nigrosin
+nigrosine
 nigrosines
 nihil
 nihilisms
@@ -53117,6 +53138,7 @@ nob
 nobbiest
 nobbily
 nobble
+nobbled
 nobblers
 nobbles
 nobby
@@ -57479,6 +57501,7 @@ oxy
 oxyacetylene
 oxyacid
 oxyacids
+oxycodone
 oxycodones
 oxygenate
 oxygenated
@@ -58323,6 +58346,7 @@ parchisis
 parchment
 pard
 pardah
+pardee
 pardonableness
 pardoning
 pards
@@ -60234,6 +60258,7 @@ phosphatizing
 phosphaturia
 phosphene
 phosphenes
+phosphid
 phosphides
 phosphids
 phosphin
@@ -62661,6 +62686,7 @@ pouter
 pouters
 poutier
 poutiest
+pouting
 powdered
 powderers
 powderless
@@ -62757,6 +62783,7 @@ prattling
 prattlingly
 prau
 prawner
+prawners
 prawning
 prawns
 praxeological
@@ -63489,6 +63516,7 @@ preservers
 preservice
 preserving
 presets
+presettlement
 presettles
 preshape
 preshapes
@@ -66934,6 +66962,7 @@ recalls
 recamier
 recanalization
 recanalizations
+recanalize
 recanalized
 recanalizes
 recane
@@ -67102,6 +67131,7 @@ recodifying
 recognise
 recognised
 recognising
+recognizability
 recognizable
 recognizably
 recognized
@@ -67711,6 +67741,7 @@ reexecuted
 reexhibited
 reexhibiting
 reexhibits
+reexpel
 reexpelling
 reexperience
 reexperienced
@@ -77328,6 +77359,7 @@ spawn
 spawners
 spawning
 spawns
+speak
 speakable
 speakeasies
 speakeasy
@@ -81112,6 +81144,7 @@ suspiciously
 suspiciousness
 suspiration
 suspirations
+suspire
 suspired
 suspiring
 suss
@@ -89844,6 +89877,7 @@ verniers
 vernissage
 vernissages
 vernix
+vernixes
 veronica
 veronicas
 verruca
@@ -91506,6 +91540,7 @@ wetbacks
 wether
 wetness
 wetnesses
+wetproof
 wets
 wetsuits
 wettabilities
