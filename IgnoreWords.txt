@@ -1151,6 +1151,7 @@ affixment
 affixments
 affixtures
 afflatus
+afflict
 afflicted
 afflicter
 afflicters
@@ -2187,6 +2188,7 @@ ambivert
 amble
 ambles
 amblygonites
+amblyopia
 amblyopias
 amblyopic
 amboinas
@@ -3933,6 +3935,7 @@ araroba
 ararobas
 araucaria
 araucarias
+arb
 arbalest
 arbalests
 arbelest
@@ -4545,6 +4548,7 @@ assembly
 assemblyman
 assemblymen
 assemblywoman
+assemblywomen
 assentation
 assentations
 assented
@@ -8391,6 +8395,7 @@ blooper
 bloopers
 bloops
 blossoms
+blotches
 blotchier
 blotchily
 blotching
@@ -10518,6 +10523,7 @@ butterburs
 buttered
 butterfat
 butterfingers
+butterfishes
 butterflied
 butterflies
 butterfly
@@ -13652,6 +13658,7 @@ chowsed
 chresard
 chresards
 chrestomathies
+chrismon
 chrismons
 christen
 christened
@@ -16770,6 +16777,7 @@ contrasts
 contrasty
 contravene
 contravener
+contravention
 contredanses
 contribute
 contributed
@@ -21309,6 +21317,7 @@ derriere
 derries
 derry
 dervish
+desacralized
 desalinated
 desalinates
 desalinating
@@ -29320,6 +29329,7 @@ fedexed
 fedexing
 fedora
 feds
+feebleminded
 feeblemindedly
 feebler
 feeblest
@@ -38724,6 +38734,7 @@ hygeist
 hygeists
 hygieist
 hygiene
+hygienes
 hygienic
 hygienically
 hygienist
@@ -38929,6 +38940,7 @@ hypo
 hypoallergenic
 hypoblast
 hypocalcemias
+hypocaust
 hypocenter
 hypochlorite
 hypochlorites
@@ -44286,6 +44298,7 @@ kurtas
 kurtosis
 kurus
 kussos
+kuvaszok
 kvas
 kvases
 kvass
@@ -46036,6 +46049,7 @@ lipids
 lipin
 lipins
 lipless
+liplike
 lipocyte
 lipogeneses
 lipoid
@@ -48229,6 +48243,7 @@ matadors
 match
 matchboard
 matchbook
+matchbox
 matchboxes
 matched
 matcher
@@ -50281,6 +50296,7 @@ misfocussed
 misfocusses
 misfocussing
 misformed
+misforming
 misforms
 misfortunes
 misframe
@@ -50428,6 +50444,7 @@ mispaints
 misparses
 misparsing
 misparted
+misparting
 mispatches
 mispatching
 mispenning
@@ -53950,6 +53967,7 @@ nonirradiated
 nonirrigated
 nonirritant
 nonirritating
+nonissue
 nonjoiner
 nonjudgmental
 nonjuries
@@ -54441,6 +54459,7 @@ nought
 noughts
 noumenon
 nounal
+nounally
 nounless
 nourished
 nourisher
@@ -65285,6 +65304,7 @@ puccoons
 puces
 pucker
 puckered
+puckerer
 puckerier
 puckeriest
 puckish
@@ -66139,6 +66159,7 @@ quickeners
 quickening
 quicker
 quickest
+quickie
 quicklime
 quickly
 quickness
@@ -67360,6 +67381,7 @@ recarpets
 recarried
 recarry
 recarrying
+recataloged
 recautioned
 recautioning
 recces
@@ -67512,6 +67534,7 @@ recoined
 recollections
 recolonizations
 recolonizes
+recolonizing
 recoloring
 recomb
 recombinant
@@ -69730,6 +69753,7 @@ resight
 resighting
 resights
 resignations
+resigned
 resignedly
 resignedness
 resigner
@@ -72414,6 +72438,7 @@ saprophytic
 saprophytically
 saps
 sapsago
+sapsagos
 sapsucker
 sapwood
 saraband
@@ -74106,6 +74131,7 @@ sensualizes
 sensually
 sensum
 sent
+sentence
 sentencer
 sententia
 sentential
@@ -75417,6 +75443,7 @@ siege
 sieged
 sieging
 sienite
+sierozems
 sierra
 sierran
 sierras
@@ -75457,6 +75484,7 @@ sigil
 sigla
 sigloi
 sigma
+sigmas
 sigmate
 sigmoidal
 sigmoidally
@@ -79703,6 +79731,7 @@ straws
 strawworm
 strawy
 straying
+strays
 streak
 streakers
 streakily
@@ -80544,6 +80573,7 @@ substantiate
 substantiative
 substantival
 substantivally
+substantiveness
 substantives
 substantivize
 substantivizes
@@ -80679,6 +80709,7 @@ successive
 successively
 successiveness
 successor
+succinate
 succinct
 succincter
 succinctest
@@ -82277,6 +82308,7 @@ tacit
 tacitness
 tacitnesses
 tack
+tackboards
 tacker
 tackers
 tackets
@@ -83155,6 +83187,7 @@ temple
 templed
 temples
 templet
+temporal
 temporalized
 temporalizing
 temporally
@@ -89212,6 +89245,7 @@ unwove
 unwoven
 unwrap
 unwrapped
+unwrinkle
 unwrinkled
 unwrinkling
 unwritten
@@ -93813,6 +93847,7 @@ zoic
 zoisite
 zombie
 zombielike
+zombies
 zombification
 zombifications
 zombifies
