@@ -6470,6 +6470,7 @@ bauhinias
 baulk
 baulkiest
 bausond
+bauxite
 bauxites
 bauxitic
 bawcocks
@@ -7857,6 +7858,7 @@ bioregions
 bioremediation
 biorhythm
 biorhythmic
+biosafety
 bioscience
 bioscientific
 bioscientist
@@ -8275,6 +8277,7 @@ bleareyed
 blearier
 blearily
 blears
+bleary
 bleat
 bleated
 bleats
@@ -9527,6 +9530,7 @@ brawls
 brawn
 brawnier
 brawniness
+brayer
 braza
 braze
 brazed
@@ -10975,6 +10979,7 @@ calculus
 calculuses
 caldarium
 caldera
+calderas
 caldron
 caldrons
 caleches
@@ -16145,6 +16150,7 @@ concomitants
 concord
 concordance
 concordances
+concordant
 concordantly
 concordats
 concours
@@ -16805,6 +16811,7 @@ continuant
 continuate
 continuation
 continuations
+continuative
 continuator
 continuators
 continue
@@ -23079,6 +23086,7 @@ disinflations
 disinform
 disinforming
 disinforms
+disingenuous
 disingenuously
 disinherit
 disinherited
@@ -24764,6 +24772,7 @@ dullsville
 dulness
 dulses
 duma
+dumbbell
 dumbcanes
 dumbed
 dumbfounder
@@ -32377,6 +32386,7 @@ fulminated
 fulminates
 fulminating
 fulminations
+fulmine
 fulmined
 fulmines
 fulminic
@@ -32514,6 +32524,7 @@ furiously
 furler
 furlers
 furless
+furling
 furlong
 furlongs
 furmenties
@@ -32531,6 +32542,7 @@ furor
 furore
 furores
 furors
+furosemide
 furosemides
 furred
 furrieries
@@ -32655,6 +32667,7 @@ gaberdine
 gabfests
 gabion
 gabions
+gable
 gabled
 gablelike
 gables
@@ -33021,6 +33034,7 @@ gargantua
 gargantuan
 garget
 gargety
+gargle
 gargled
 garglers
 gargoyle
@@ -33943,6 +33957,7 @@ gladsomer
 gladsomest
 gladstone
 glady
+glaikit
 glair
 glaire
 glaires
@@ -34209,6 +34224,7 @@ glovers
 glowered
 glowering
 glowers
+glowflies
 glowfly
 glowing
 glowingly
@@ -36255,6 +36271,7 @@ handworks
 handwoven
 handwringer
 handwringers
+handwrit
 handwriting
 handwrote
 handy
@@ -37256,6 +37273,7 @@ heredes
 hereditament
 hereditaments
 hereditarians
+hereditary
 heredity
 herein
 hereinbefore
@@ -42760,6 +42778,7 @@ issuable
 issuably
 issuance
 issuant
+issued
 issuers
 issues
 isthmian
@@ -43173,6 +43192,7 @@ jewelling
 jewelries
 jewelweed
 jewfish
+jewing
 jezail
 jezails
 jezebel
@@ -45548,6 +45568,7 @@ legendized
 legendizing
 legendries
 legends
+leger
 legerdemain
 legerities
 legerity
@@ -45740,6 +45761,7 @@ lethe
 letted
 letter
 letterboxings
+letterings
 letterman
 lettermen
 letterpress
@@ -47767,6 +47789,7 @@ malacological
 malacologist
 malacologists
 malacology
+malacostracans
 maladaptations
 maladaptive
 maladies
@@ -51323,6 +51346,7 @@ monkey
 monkeyish
 monkeypod
 monkeypots
+monkeyshines
 monkfishes
 monkhoods
 monks
@@ -51653,6 +51677,7 @@ morbidity
 morbidness
 morbidnesses
 morbilli
+morceau
 mordacities
 mordancy
 mordanted
@@ -52153,6 +52178,7 @@ multicell
 multichain
 multichambered
 multicharacter
+multicity
 multicolor
 multicolored
 multicomponent
@@ -57977,6 +58003,7 @@ overtame
 overtart
 overtasked
 overtasking
+overtaught
 overtax
 overtaxations
 overtaxed
@@ -60490,6 +60517,7 @@ perspicuity
 perspicuously
 perspicuousness
 perspiration
+persuadable
 persuade
 persuaded
 persuader
@@ -61324,6 +61352,7 @@ piclorams
 picnicked
 picnicker
 picnickers
+picnicky
 picnics
 picofarads
 picogram
@@ -61384,6 +61413,7 @@ piehole
 pieing
 pieplant
 pier
+piercers
 pierces
 piercing
 piercingly
@@ -70322,6 +70352,7 @@ restage
 restaged
 restaging
 restamp
+restamps
 restartable
 restarted
 restate
@@ -74662,6 +74693,7 @@ sered
 serein
 serenade
 serenades
+serenading
 serenatas
 serenate
 serendipities
@@ -75574,6 +75606,7 @@ shortsightedly
 shortstop
 shortwaved
 shorty
+shotgunning
 shotguns
 shotholes
 shotten
@@ -82453,6 +82486,7 @@ symbolization
 symbolized
 symbolizes
 symbolled
+symbolling
 symbologies
 symbology
 symbols
@@ -90366,6 +90400,7 @@ vampirish
 vampirism
 vampirisms
 vamps
+vampy
 van
 vanadiate
 vanadium
