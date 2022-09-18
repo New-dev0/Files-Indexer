@@ -3791,6 +3791,7 @@ appoints
 apportionable
 apportioned
 apportions
+apposable
 appose
 apposed
 apposes
@@ -4286,6 +4287,7 @@ arsenates
 arsenide
 arsenides
 arsenite
+arsenites
 arsenous
 arshins
 arsine
@@ -5752,6 +5754,7 @@ baggier
 baggies
 bagginess
 bagginesses
+baghouse
 baghouses
 bagmen
 bagnio
@@ -7600,6 +7603,7 @@ bikeways
 bikini
 bikinis
 bilabial
+bilabials
 bilabiate
 bilander
 bilanders
@@ -8852,6 +8856,7 @@ bonne
 bonnets
 bonnie
 bonnier
+bonnily
 bonniness
 bonninesses
 bonnocks
@@ -10900,6 +10905,7 @@ calcific
 calcifications
 calcified
 calcifuge
+calcifying
 calcimined
 calcimining
 calcinations
@@ -11188,6 +11194,7 @@ candela
 candelabra
 candelabras
 candelabrum
+candelabrums
 candent
 candescence
 candescences
@@ -12632,6 +12639,7 @@ cesspool
 cestas
 cesti
 cestodes
+cestoid
 cestos
 cestus
 cestuses
@@ -15673,6 +15681,7 @@ commodity
 commodores
 common
 commonality
+commoner
 commonness
 commonnesses
 commonplaceness
@@ -19797,6 +19806,7 @@ davening
 davenport
 davit
 davy
+daw
 dawdle
 dawdled
 dawdler
@@ -23070,6 +23080,7 @@ disown
 disowned
 disownment
 disownments
+disowns
 disparage
 disparaged
 disparagements
@@ -23451,6 +23462,7 @@ diuresis
 diuretic
 diuretics
 diurnal
+diurnally
 diuron
 diurons
 divagation
@@ -29070,6 +29082,7 @@ farcicalities
 farcy
 fard
 farded
+fardel
 fardels
 farding
 fards
@@ -32681,6 +32694,7 @@ galumphs
 galvanic
 galvanically
 galvanises
+galvanising
 galvanism
 galvanization
 galvanize
@@ -33208,6 +33222,7 @@ genealogically
 genealogies
 genealogists
 genealogy
+generable
 generalcy
 generalisation
 generalised
@@ -33784,6 +33799,7 @@ glairier
 glairing
 glairs
 glairy
+glaive
 glaived
 glamorise
 glamorised
@@ -34276,6 +34292,7 @@ goitre
 goitrogenic
 goitrogenicity
 goitrogens
+goitrous
 golconda
 goldbricked
 goldbricking
@@ -36256,6 +36273,7 @@ harmonies
 harmoniousness
 harmonists
 harmonium
+harmoniums
 harmonizations
 harmonize
 harmonized
@@ -38268,6 +38286,7 @@ hotspots
 hotted
 hottie
 hotties
+hottish
 houdah
 houdahs
 hound
@@ -49684,6 +49703,7 @@ miked
 mikra
 mikron
 mikvah
+mikveh
 mikvos
 mil
 miladi
@@ -52260,6 +52280,7 @@ muttered
 mutterers
 muttering
 mutters
+mutton
 muttonchops
 muttonfish
 muttonfishes
@@ -56764,6 +56785,7 @@ outspread
 outspreading
 outspreads
 outspring
+outsprings
 outsprint
 outsprinted
 outsprints
@@ -60245,6 +60267,7 @@ pervasions
 pervasively
 pervasiveness
 pervasivenesses
+perverse
 perverseness
 pervert
 pervertedly
@@ -66546,6 +66569,7 @@ radiothoriums
 radishes
 radiums
 radius
+radiuses
 radome
 radomes
 radon
@@ -67197,6 +67221,7 @@ reapplied
 reapplies
 reapply
 reapplying
+reappointed
 reappointing
 reappointments
 reappraise
@@ -67396,6 +67421,7 @@ recalibrations
 recall
 recallability
 recallable
+recaller
 recallers
 recalls
 recamier
@@ -68292,6 +68318,7 @@ reflexions
 reflexively
 reflexiveness
 reflexivenesses
+reflexives
 reflexivities
 reflexivity
 reflexly
@@ -74384,6 +74411,7 @@ serotoninergic
 serotonins
 serotypes
 serous
+serovar
 serovars
 serow
 serows
@@ -75021,6 +75049,7 @@ shipment
 shipowner
 shippen
 shippens
+shipper
 shippers
 shipping
 shippings
@@ -75286,6 +75315,7 @@ shrewlike
 shrewmouse
 shrieked
 shriekier
+shrieks
 shrieval
 shrieve
 shrieved
@@ -78650,6 +78680,7 @@ squatly
 squatnesses
 squattered
 squattest
+squattiest
 squatting
 squatty
 squawbush
@@ -79582,6 +79613,7 @@ stoners
 stones
 stonewalled
 stonewallers
+stonewalling
 stonewalls
 stoneware
 stonewares
@@ -82887,6 +82919,7 @@ tawie
 tawney
 tawneys
 tawnier
+tawnies
 tawnily
 tawniness
 tawninesses
@@ -82936,6 +82969,7 @@ teachable
 teachableness
 teachablenesses
 teachably
+teaching
 teacup
 teacups
 teahouse
@@ -91230,6 +91264,7 @@ votiveness
 votives
 vouch
 voucher
+vouchered
 vouchsafes
 vouchsafing
 voudon
