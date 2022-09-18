@@ -1,0 +1,10 @@
+jammy-desktop-amd64.manifest - Ubuntu CDImage,https://cdimage.ubuntu.com/kubuntu/jammy/daily-live/20220915/jammy-desktop-amd64.manifest
+kinetic-desktop-amd64.manifest - Ubuntu CDimage,https://cdimage.ubuntu.com/kubuntu/daily-live/current/kinetic-desktop-amd64.manifest
+mint-dev-tools/filesystem.manifest at master - GitHub,https://github.com/linuxmint/mint-dev-tools/blob/master/usr/share/mint-dev-tools/manifests/mint-20-mate/filesystem.manifest
+Resetter/LinuxMint_19_X-Cinnamon_64bit_.manifest at master,https://github.com/gaining/Resetter/blob/master/Resetter/usr/lib/resetter/data/manifests/LinuxMint_19_X-Cinnamon_64bit_.manifest
+https://mirrors.aliyun.com/oldubuntu-releases/rele...,https://mirrors.aliyun.com/oldubuntu-releases/releases/12.04.4/ubuntu-12.04-preinstalled-server-armhf%2Bomap.manifest
+https://mirrors.aliyun.com/oldubuntu-releases/rele...,https://mirrors.aliyun.com/oldubuntu-releases/releases/hoary/ubuntu-5.04-live-amd64.manifest
+ftp.twaren.net/ubuntu-dvd/kubuntu/releases/10.04/a...,http://ftp.twaren.net/ubuntu-dvd/kubuntu/releases/10.04/alpha-3/lucid-desktop-i386.manifest
+ftp.twaren.net/ubuntu-dvd/kubuntu/releases/6.06.1/...,http://ftp.twaren.net/ubuntu-dvd/kubuntu/releases/6.06.1/release.1/kubuntu-6.06.1-dvd-i386.manifest
+ykf.ca.distfiles.macports.org/trisquel/iso/trisque...,http://ykf.ca.distfiles.macports.org/trisquel/iso/trisquel_10.0.1_amd64.iso.manifest
+Untitled,http://cdimage.blankonlinux.or.id/rilis/blankon-minimalist/5.0/blankon-minimalist-5.0-cdlive-i386.manifest
