@@ -2560,6 +2560,7 @@ analogisms
 analogized
 analogizes
 analogizing
+analogously
 analogousness
 analogousnesses
 analogs
@@ -9803,6 +9804,7 @@ broadleaf
 broadleaves
 broadloom
 broadly
+broads
 broadside
 broadsided
 broadswords
@@ -10513,6 +10515,7 @@ bushwhackers
 bushy
 busier
 business
+businessman
 businessmen
 businesspeople
 businessperson
@@ -10968,6 +10971,7 @@ calculuses
 caldarium
 caldera
 caldron
+caldrons
 caleches
 calefactories
 calefactory
@@ -16878,6 +16882,7 @@ controlled
 controller
 controlment
 controls
+controversial
 controversially
 controversies
 controverter
@@ -21275,6 +21280,7 @@ depositaries
 depositary
 deposited
 depositing
+deposition
 depositor
 depositors
 depository
@@ -23114,6 +23120,7 @@ dislikeable
 disliked
 dislimned
 dislocate
+dislocated
 dislocating
 dislocation
 dislocations
@@ -23504,6 +23511,7 @@ disunity
 disuse
 disused
 disuses
+disvaluing
 disyllabic
 disyllables
 disyoked
@@ -26223,6 +26231,7 @@ enchase
 enchaser
 enchasing
 enchilada
+enchiladas
 enchiridia
 encina
 encinas
@@ -32830,6 +32839,7 @@ galyacs
 galyak
 galyaks
 gam
+gamay
 gamb
 gamba
 gambades
@@ -34903,6 +34913,7 @@ gratefulnesses
 grateless
 grater
 graters
+gratification
 gratifications
 gratifier
 gratify
@@ -35460,6 +35471,7 @@ guardhouses
 guardians
 guardianship
 guardianships
+guarding
 guardrails
 guardroom
 guardrooms
@@ -35780,6 +35792,7 @@ gyrate
 gyrating
 gyrational
 gyrator
+gyrators
 gyrenes
 gyres
 gyrocompasses
@@ -36010,6 +36023,7 @@ halberd
 halbert
 haled
 halenesses
+haler
 haleru
 hales
 halest
@@ -40289,6 +40303,7 @@ incessancy
 incessant
 incessantly
 incest
+incestuous
 incestuousness
 inched
 incher
@@ -40448,6 +40463,7 @@ incorruptibles
 incorruptibly
 incorruption
 incorruptly
+incorruptnesses
 increasable
 increaser
 increasing
@@ -40982,6 +40998,7 @@ informations
 informative
 informatory
 informedly
+informer
 infos
 infotainments
 infought
@@ -43190,6 +43207,7 @@ jingliest
 jingling
 jingoes
 jingoish
+jingoism
 jingoisms
 jingoist
 jingoistic
@@ -44121,6 +44139,7 @@ kindergarteners
 kindergartens
 kindergartner
 kindergartners
+kindhearted
 kindheartedly
 kindheartedness
 kindle
@@ -45310,6 +45329,7 @@ laziness
 lazing
 lazuli
 lazulite
+lazurite
 lazybones
 lazying
 lazyish
@@ -46417,6 +46437,7 @@ lithophanes
 lithophytes
 lithopone
 lithos
+lithosols
 lithospheres
 lithospheric
 lithotomies
@@ -50229,6 +50250,7 @@ miosis
 miquelet
 mir
 miracidia
+miracidial
 miracidium
 miracle
 miracles
@@ -58156,6 +58178,7 @@ oysterer
 oysterers
 oystering
 oysterings
+oysterman
 oystermen
 oysters
 ozalid
@@ -61000,6 +61023,7 @@ photolyze
 photolyzes
 photomap
 photomapped
+photomaps
 photomask
 photomasks
 photomechanical
@@ -64231,6 +64255,7 @@ preslaughter
 presliced
 preslices
 presoak
+presoaked
 presoaks
 presolved
 presolves
@@ -69634,6 +69659,7 @@ replaceable
 replaced
 replacements
 replacing
+replan
 replanned
 replant
 replantation
@@ -72951,6 +72977,7 @@ sauerbraten
 saul
 saults
 saunaed
+saunas
 saunter
 saunterer
 sauntering
@@ -75516,6 +75543,7 @@ shortlist
 shortlists
 shortly
 shortness
+shortnesses
 shortsighted
 shortsightedly
 shortstop
@@ -81872,6 +81900,7 @@ surd
 sure
 surefire
 surefooted
+surefootedness
 surely
 sureness
 surenesses
@@ -83287,6 +83316,7 @@ teahouse
 teahouses
 teak
 teakettles
+teaks
 teakwood
 tealike
 teals
@@ -85222,6 +85252,7 @@ toolrooms
 toom
 toon
 toonie
+toonies
 toons
 toot
 tooth
@@ -85805,6 +85836,7 @@ transferring
 transferrins
 transfiguring
 transfixes
+transfixing
 transfixt
 transform
 transformation
@@ -92224,6 +92256,7 @@ waxers
 waxes
 waxiest
 waxings
+waxlike
 waxplant
 waxplants
 waxweed
@@ -92353,6 +92386,7 @@ wedging
 wedlocks
 weds
 weeder
+weeders
 weedier
 weediest
 weedily
@@ -94212,6 +94246,7 @@ zeppole
 zeppoli
 zeptosecond
 zerk
+zerks
 zeroes
 zeros
 zest
