@@ -150,6 +150,7 @@ abusable
 abuse
 abused
 abusers
+abuses
 abusive
 abusiveness
 abusivenesses
@@ -1913,6 +1914,7 @@ allometries
 allometry
 allomorph
 allomorphs
+allonge
 allonym
 allopathies
 allopatric
@@ -2789,6 +2791,7 @@ anglicises
 anglicism
 anglicisms
 anglicization
+anglicizations
 anglicize
 anglicized
 anglos
@@ -7287,6 +7290,7 @@ besieger
 besieging
 beslime
 besliming
+besmear
 besmearers
 besmears
 besmiled
@@ -7492,6 +7496,7 @@ bibless
 biblically
 biblicism
 biblike
+bibliographer
 bibliographic
 bibliographies
 bibliolaters
@@ -9107,6 +9112,7 @@ boson
 bosonic
 bosques
 bosquet
+boss
 bossdom
 bossdoms
 bossed
@@ -15074,6 +15080,8 @@ coenamors
 coenduring
 coenocyte
 coenocytic
+coenosarc
+coenosarcs
 coenure
 coenures
 coenurus
@@ -17832,6 +17840,7 @@ countersuit
 countersuits
 countersunk
 countertactic
+countertactics
 countertenors
 counterterrors
 counterthrusts
@@ -20759,6 +20768,7 @@ deiform
 deify
 deifying
 deigning
+deil
 deils
 deindustrialize
 deinonychuses
@@ -21284,6 +21294,7 @@ depoliticize
 depoliticized
 depoliticizes
 depolymerizing
+deponed
 depopulating
 depopulation
 deport
@@ -22091,6 +22102,7 @@ diaspores
 diastatic
 diastemas
 diastemata
+diaster
 diasters
 diastoles
 diastrophic
@@ -33000,6 +33012,7 @@ gaoler
 gaols
 gap
 gape
+gapers
 gapeseed
 gapeseeds
 gapeworms
@@ -33192,6 +33205,7 @@ gatekeepers
 gateless
 gatepost
 gaters
+gates
 gather
 gating
 gator
@@ -39060,6 +39074,7 @@ hyperboloids
 hyperboreans
 hypercalcemic
 hypercatalectic
+hypercatalexes
 hypercautious
 hypercharge
 hypercomplex
@@ -41606,6 +41621,7 @@ insusceptible
 inswathe
 inswathes
 inswathing
+intact
 intaglio
 intaglioing
 intake
@@ -47047,6 +47063,7 @@ lovebirds
 lovebugs
 lovefests
 loveless
+lovelessness
 lovelessnesses
 lovelier
 lovelies
@@ -47580,6 +47597,7 @@ maddeningly
 madder
 madders
 maddest
+madeira
 madeiras
 madeleine
 mademoiselle
@@ -53865,6 +53883,7 @@ noh
 nohow
 noil
 noils
+noir
 noirish
 noise
 noiseless
@@ -56040,6 +56059,7 @@ opulencies
 opulency
 opus
 opuscula
+opuscule
 opusculum
 opuses
 oquassa
@@ -60756,6 +60776,7 @@ phantoms
 pharaoh
 pharisaic
 pharisaically
+pharisaism
 pharisee
 pharmacies
 pharmacist
@@ -63191,6 +63212,7 @@ postdates
 postdating
 postdeadline
 postdebate
+postdepression
 postdiluvian
 postdivestiture
 postdivorce
@@ -65519,6 +65541,7 @@ prussianises
 prussianising
 prussianization
 prussianize
+prussianized
 prussiate
 prussic
 pruta
@@ -67095,6 +67118,7 @@ rampancy
 rampant
 rampantly
 rampart
+ramparts
 ramped
 rampikes
 rampion
@@ -68227,6 +68251,7 @@ redbirds
 redbone
 redbones
 redbreasts
+redbricks
 redbud
 redcoats
 redd
@@ -75862,6 +75887,7 @@ sickishness
 sickishnesses
 sicklemia
 sicklemic
+sickles
 sicklied
 sicklier
 sickliest
@@ -78679,6 +78705,7 @@ spite
 spited
 spitefullest
 spitefully
+spitefulnesses
 spites
 spitfire
 spitfires
@@ -79367,6 +79394,7 @@ standbys
 standdowns
 standers
 standing
+standings
 standish
 standoff
 standoffish
@@ -80173,6 +80201,7 @@ straitjackets
 straitly
 straitness
 straitnesses
+straits
 strake
 straked
 stramashes
@@ -82785,6 +82814,7 @@ tableful
 tablemate
 tablemates
 tables
+tablesful
 tablespoon
 tablespoonfuls
 tablespoonsful
@@ -83651,6 +83681,7 @@ televisor
 televisual
 telex
 telexes
+telexing
 telfords
 telic
 telically
@@ -87683,6 +87714,7 @@ umbles
 umbo
 umbonate
 umbones
+umbra
 umbrageously
 umbral
 umbrellaed
@@ -88819,6 +88851,7 @@ unhorsed
 unhorses
 unhostile
 unhoused
+unhouseled
 unhouses
 unhousing
 unhuman
@@ -92731,6 +92764,7 @@ whensoever
 whereabout
 whereabouts
 wherefore
+wherefrom
 wherein
 whereinto
 whereon
@@ -92793,6 +92827,7 @@ whimsies
 whin
 whined
 whiner
+whiners
 whines
 whingding
 whinger
