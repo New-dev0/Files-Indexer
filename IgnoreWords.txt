@@ -4962,6 +4962,7 @@ attraction
 attractions
 attractive
 attractors
+attributable
 attributes
 attributing
 attribution
@@ -5326,6 +5327,7 @@ aviary
 aviate
 aviated
 aviates
+aviator
 aviators
 aviatrix
 aviatrixes
@@ -8132,6 +8134,7 @@ blacksmiths
 blackthorn
 blacktop
 blacktopped
+blacktopping
 blacktops
 blackwater
 bladder
@@ -8660,6 +8663,7 @@ bodegas
 bodement
 bodes
 bodhisattva
+bodhisattvas
 bodices
 bodily
 boding
@@ -11117,6 +11121,7 @@ camellike
 camelopards
 cameoed
 camerae
+cameramen
 camerapersons
 camerlengos
 cames
@@ -12331,6 +12336,7 @@ cavy
 caw
 caws
 cay
+cayennes
 cayman
 caymans
 cayuse
@@ -19581,6 +19587,7 @@ dainties
 daintiness
 daintinesses
 dainty
+dairies
 dairying
 dairyings
 dairyman
@@ -21015,6 +21022,7 @@ demurring
 demyelinating
 demythologized
 demythologizer
+demythologizers
 denari
 denarius
 denars
@@ -22795,6 +22803,7 @@ disconcerts
 disconformities
 disconformity
 disconnectedly
+disconnection
 disconnects
 disconsolately
 disconsolation
@@ -24078,6 +24087,7 @@ douse
 doux
 douzeper
 douzepers
+dovecot
 dovecote
 dovecotes
 dovecots
@@ -24610,6 +24620,7 @@ dryly
 dryopithecine
 drypoints
 drys
+drysalter
 drysalters
 drystone
 drywall
@@ -27718,6 +27729,7 @@ eucritic
 eudaemonism
 eudaemonisms
 eudaemonistic
+eudaimon
 eudaimonism
 eudaimons
 eudemon
@@ -35676,6 +35688,7 @@ guyots
 guzzle
 guzzler
 guzzling
+gweduc
 gwine
 gybe
 gybed
@@ -37760,6 +37773,7 @@ hogwashes
 hoicking
 hoiden
 hoidened
+hoidens
 hoise
 hoises
 hoist
@@ -39421,6 +39435,7 @@ ilia
 ilk
 ilka
 ill
+illation
 illations
 illative
 illatively
@@ -45647,6 +45662,7 @@ lethargic
 lethargy
 lethe
 letted
+letter
 letterboxings
 letterman
 lettermen
@@ -46768,6 +46784,7 @@ loonie
 loonier
 loonies
 loonily
+looniness
 looninesses
 loons
 loony
@@ -48935,6 +48952,7 @@ melodeon
 melodias
 melodic
 melodica
+melodically
 melodicas
 melodiously
 melodiousnesses
@@ -49282,6 +49300,7 @@ mestiza
 mestizas
 mestizo
 mestizoes
+mestranol
 mestranols
 met
 metabolically
@@ -50119,6 +50138,7 @@ ministates
 ministerial
 ministrant
 ministrants
+ministration
 ministrations
 ministry
 minitrack
@@ -56457,6 +56477,7 @@ outcroppings
 outcross
 outcrossed
 outcrosses
+outcrossing
 outcrowd
 outcrowded
 outcrowding
@@ -64195,6 +64216,7 @@ pressurize
 pressurizers
 pressworks
 prestamped
+prestamping
 prestamps
 prester
 presterilized
@@ -64728,6 +64750,7 @@ profitwise
 profligacies
 profligate
 profligately
+profluent
 proforma
 profound
 profoundly
@@ -66045,6 +66068,7 @@ pyridoxin
 pyridoxine
 pyridoxines
 pyriform
+pyrimethamine
 pyrimidines
 pyritic
 pyritical
@@ -67102,6 +67126,7 @@ rating
 ratings
 ratio
 ratiocination
+ratiocinations
 ratiocinative
 ratiocinator
 ratiocinators
@@ -68648,6 +68673,7 @@ regelating
 regency
 regenerable
 regeneracies
+regenerate
 regenerately
 regeneration
 regenerations
@@ -71381,6 +71407,7 @@ rockabies
 rockabilly
 rockable
 rockabye
+rockaways
 rocker
 rockers
 rockery
@@ -71751,6 +71778,7 @@ rousingly
 rousseau
 roust
 roustabouts
+rousted
 rouster
 route
 routed
@@ -75490,6 +75518,7 @@ showrings
 showroom
 showstopper
 showstoppers
+showtimes
 showy
 shoyu
 shred
@@ -79287,6 +79316,7 @@ statisms
 statist
 statistic
 statistically
+statistician
 statisticians
 statistics
 stative
@@ -88639,6 +88669,7 @@ unimaginable
 unimaginative
 unimaginatively
 unimpassioned
+unimpeded
 unimportant
 unimposing
 unimpressive
@@ -89176,6 +89207,7 @@ unsaturate
 unsaturated
 unsaturates
 unsaved
+unsavory
 unsavoury
 unsawed
 unsayable
@@ -90299,6 +90331,7 @@ varicoceles
 varicolored
 varicose
 varicosed
+varicosis
 variedly
 variegate
 variegated
@@ -90534,6 +90567,7 @@ vend
 vendable
 vendables
 vendace
+vendaces
 vendee
 vendeuse
 vendibilities
@@ -91895,6 +91929,7 @@ warpower
 warpwise
 warragal
 warrant
+warrantableness
 warranted
 warrantee
 warrantees
