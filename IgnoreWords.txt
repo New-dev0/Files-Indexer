@@ -8093,6 +8093,7 @@ blackcaps
 blackcock
 blackcocks
 blackdamp
+blackdamps
 blacken
 blackened
 blackening
@@ -9612,6 +9613,7 @@ breeding
 breedings
 breezed
 breezeless
+breeziest
 breezily
 breeziness
 breezing
@@ -14154,6 +14156,7 @@ cladograms
 clads
 clafoutis
 clag
+clagged
 clags
 claimable
 claimant
@@ -19729,6 +19732,7 @@ darbar
 darbars
 darbies
 darbs
+dare
 daredevil
 daredevilry
 daredeviltries
@@ -20021,6 +20025,7 @@ debeaking
 debeaks
 debearding
 debeards
+debilitated
 debilitation
 debilities
 debility
@@ -20053,6 +20058,7 @@ debunker
 debunkers
 debunks
 debut
+debutant
 debuts
 debye
 decadence
@@ -26160,6 +26166,7 @@ encase
 encasements
 encash
 encashed
+encashing
 encashment
 encashments
 encasing
@@ -27997,6 +28004,7 @@ exaggerator
 exahertz
 exahertzes
 exaltations
+exalter
 exalters
 exalting
 exam
@@ -28328,6 +28336,7 @@ exorcised
 exorciser
 exorcisers
 exorcising
+exorcism
 exorcistical
 exorcize
 exorcized
@@ -31361,6 +31370,7 @@ foreignisms
 foreignnesses
 forejudge
 forejudges
+forejudging
 foreknow
 foreknowledge
 foreknown
@@ -31491,6 +31501,7 @@ forgetters
 forgings
 forgivable
 forgiveness
+forgivenesses
 forgivingness
 forgivingnesses
 forgo
@@ -40835,6 +40846,7 @@ inferrer
 inferrible
 infertility
 infestant
+infestants
 infestation
 infestations
 infested
@@ -44133,6 +44145,7 @@ kippers
 kipskin
 kipskins
 kirigami
+kirk
 kirkman
 kirn
 kirned
@@ -44828,6 +44841,7 @@ landings
 landladies
 landlady
 landlers
+landless
 landlessness
 landlessnesses
 landlocked
@@ -44883,6 +44897,7 @@ languisher
 languishers
 languishing
 languishment
+languishments
 languor
 languorously
 languors
@@ -47170,6 +47185,7 @@ lustrousnesses
 lustrum
 lusty
 lusus
+lususes
 lutanist
 lutanists
 luteal
@@ -47532,6 +47548,7 @@ magnetos
 magnetosphere
 magnetospheres
 magnetospheric
+magnetron
 magnetrons
 magnificat
 magnificats
@@ -49316,6 +49333,7 @@ metallurgical
 metallurgically
 metallurgy
 metalmarks
+metalworker
 metalworkers
 metalworks
 metameres
@@ -53394,6 +53412,7 @@ nibble
 nibbled
 nibbler
 nibblers
+nibbling
 niblick
 niblicks
 nicad
@@ -53966,6 +53985,7 @@ nondepartmental
 nondependents
 nondepleting
 nondeposition
+nondepositions
 nondepressed
 nondescript
 nondescriptive
@@ -56608,6 +56628,7 @@ outhumors
 outhunt
 outhunted
 outhustled
+outhustling
 outing
 outings
 outintrigue
@@ -59602,6 +59623,7 @@ pedestrianisms
 pedestrians
 pediatric
 pediatricians
+pedicab
 pedicellate
 pedicle
 pedicles
@@ -60203,6 +60225,7 @@ periwig
 periwigs
 periwinkles
 perjurer
+perjurers
 perjures
 perjurious
 perjury
@@ -67214,6 +67237,7 @@ razzmatazz
 re
 reabsorbed
 reabsorbing
+reaccede
 reacceded
 reaccelerated
 reaccent
@@ -68691,6 +68715,7 @@ regrants
 regrated
 regreen
 regreened
+regreet
 regreeted
 regreeting
 regress
@@ -73278,6 +73303,7 @@ schoolmaster
 schoolmasterish
 schoolmasters
 schoolroom
+schoolrooms
 schoolteacher
 schoolteachers
 schooltimes
@@ -73550,6 +73576,7 @@ screed
 screeding
 screeners
 screenfuls
+screenings
 screenlands
 screenplays
 screenwriters
@@ -78370,6 +78397,7 @@ spinneries
 spinnery
 spinney
 spinnies
+spinning
 spinny
 spinoff
 spinor
@@ -78894,6 +78922,7 @@ squeezes
 squeezing
 squegged
 squegging
+squelch
 squelched
 squelcher
 squelches
@@ -79757,6 +79786,7 @@ stolidest
 stolidities
 stollens
 stolonate
+stolonic
 stomachaches
 stomacher
 stomachic
@@ -81058,6 +81088,7 @@ sudsier
 sudsing
 sudsy
 sueded
+suedes
 sueding
 suer
 suers
@@ -85505,6 +85536,7 @@ traders
 trades
 tradescantia
 tradescantias
+trading
 traditional
 traditionalisms
 traditionalized
@@ -86757,6 +86789,7 @@ tufts
 tugger
 tugging
 tughriks
+tugrik
 tugriks
 tugs
 tui
@@ -90719,6 +90752,7 @@ version
 versions
 verso
 verst
+verste
 versts
 vertebra
 vertebrate
@@ -94092,6 +94126,7 @@ zidovudine
 zidovudines
 zig
 zigged
+zigging
 zigzagged
 zigzagger
 zigzaggers
