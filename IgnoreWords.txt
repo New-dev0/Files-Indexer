@@ -356,6 +356,7 @@ accusative
 accusatives
 accusatory
 accusers
+accustom
 accustomation
 accustomations
 accustomedness
@@ -9879,6 +9880,7 @@ brooder
 brooders
 broodily
 broodiness
+broodinesses
 brooding
 broodmares
 brooked
@@ -13263,6 +13265,7 @@ chiaus
 chibouque
 chic
 chica
+chicalotes
 chicaneries
 chicanes
 chicaning
@@ -14796,6 +14799,7 @@ cobles
 cobnut
 cobnuts
 cobra
+cobras
 cobwebbiest
 cobwebbing
 cocain
@@ -14852,6 +14856,7 @@ cockbilled
 cockbilling
 cockbills
 cockboats
+cockchafer
 cockchafers
 cocker
 cockered
@@ -20029,6 +20034,7 @@ debone
 deboned
 deboning
 debouch
+debouched
 debride
 debridement
 debriding
@@ -21815,6 +21821,7 @@ dewars
 dewaterers
 dewaters
 dewaxes
+dewberries
 dewberry
 dewclaw
 dewclawed
@@ -24938,6 +24945,7 @@ dyskinesia
 dyslectic
 dyslexias
 dyslexic
+dyslexics
 dyslogistically
 dysmenorrheas
 dysmenorrheic
@@ -25510,6 +25518,7 @@ ejectors
 ejects
 eke
 eked
+ekistic
 ekistics
 ekpwele
 ektexine
@@ -27283,6 +27292,7 @@ ergot
 ergotamine
 ergotism
 ergotized
+ergots
 erica
 ericaceous
 ericas
@@ -27695,6 +27705,7 @@ eucaryotes
 eucharises
 euchre
 euchred
+euclases
 eucrite
 eucritic
 eudaemonism
@@ -30005,6 +30016,7 @@ filo
 filoplumes
 filos
 filovirus
+filoviruses
 filter
 filterabilities
 filterability
@@ -35657,6 +35669,7 @@ gwine
 gybe
 gybed
 gybes
+gym
 gymkhana
 gymnast
 gymnastic
@@ -38184,6 +38197,7 @@ hornbill
 hornblende
 hornblendes
 hornblendic
+hornbook
 hornbooks
 hornedness
 hornet
@@ -47543,6 +47557,7 @@ maharishis
 mahatmas
 mahimahi
 mahimahis
+mahjongg
 mahjongs
 mahlstick
 mahoes
@@ -51321,6 +51336,7 @@ monopolists
 monopolizations
 monopolize
 monopolizer
+monopolizers
 monopolizing
 monopsonies
 monopsonistic
@@ -52884,6 +52900,7 @@ nazis
 ne
 neap
 near
+nearby
 nearest
 nearing
 nearly
@@ -64806,6 +64823,7 @@ prologued
 prologues
 prologuing
 prologuized
+prologuizing
 prolong
 prolongation
 prolongations
@@ -66714,6 +66732,7 @@ raffinose
 raffinoses
 raffishly
 raffishness
+raffishnesses
 raffle
 raffled
 raffler
@@ -67850,6 +67869,7 @@ recontaminates
 recontaminating
 recontoured
 recontouring
+recontours
 reconvenes
 reconvening
 reconversion
@@ -71620,6 +71640,7 @@ rotted
 rottener
 rottenest
 rottenly
+rottenstone
 rottenstones
 rotter
 rotters
@@ -71680,6 +71701,7 @@ roundest
 roundheadedness
 roundheel
 roundhouse
+roundhouses
 roundlet
 roundlets
 roundnesses
@@ -73348,6 +73370,7 @@ sclerotial
 sclerotic
 sclerotin
 sclerotizations
+sclerotized
 sclerous
 scoffed
 scoffing
@@ -74700,6 +74723,7 @@ sexologists
 sexology
 sexploitation
 sexploitations
+sexpots
 sext
 sextain
 sextans
@@ -74810,6 +74834,7 @@ shallowed
 shallower
 shallowest
 shallowly
+shallowness
 shallows
 shaloms
 shalt
@@ -75585,6 +75610,7 @@ sibilators
 sibling
 sibs
 sibyl
+sibylic
 sic
 siccative
 siccatives
@@ -75886,6 +75912,7 @@ simarubas
 simas
 simazine
 simazines
+similarities
 similarity
 simile
 similes
@@ -76600,6 +76627,7 @@ slipformed
 slipforming
 slipknots
 slipless
+slipouts
 slipped
 slippered
 slipperier
@@ -77683,6 +77711,7 @@ sophisms
 sophist
 sophistic
 sophisticates
+sophisticating
 sophistries
 sophomore
 sophs
@@ -81412,6 +81441,7 @@ superexpensive
 superexpresses
 superfamily
 superfan
+superfans
 superfarm
 superfast
 superfatted
@@ -83063,6 +83093,7 @@ tautogs
 tautologically
 tautologies
 tautologously
+tautology
 tautomer
 tautonym
 tautonyms
@@ -84457,6 +84488,7 @@ thyristor
 thyrocalcitonin
 thyroglobulin
 thyroglobulins
+thyroid
 thyroidal
 thyroidectomies
 thyroiditis
@@ -86661,6 +86693,7 @@ tuatera
 tuateras
 tub
 tubae
+tubaist
 tubal
 tubas
 tubate
@@ -87305,6 +87338,7 @@ ultradense
 ultradistant
 ultradry
 ultraexclusive
+ultrafamiliar
 ultrafeminine
 ultrafiches
 ultraglamorous
@@ -91741,6 +91775,7 @@ wannest
 wannigan
 wannigans
 want
+wantage
 wanted
 wanter
 wanters
