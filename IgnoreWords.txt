@@ -759,6 +759,7 @@ adieux
 adipoceres
 adipocyte
 adipose
+adiposis
 adiposity
 adipous
 adit
@@ -3136,6 +3137,7 @@ antically
 anticancer
 anticapitalisms
 anticensorship
+antichlor
 antichoice
 antichoicers
 anticholesterol
@@ -6583,6 +6585,7 @@ bearberries
 bearcats
 beardedness
 bearding
+beardtongue
 bearers
 beargrass
 beargrasses
@@ -7518,6 +7521,7 @@ bibliotheca
 bibliothecae
 bibliothecal
 bibliotherapy
+bibliotic
 bibliotist
 biblist
 biblists
@@ -9027,6 +9031,7 @@ bootlaces
 bootleg
 bootlegged
 bootlegger
+bootlegging
 bootless
 bootlessnesses
 bootlick
@@ -10781,6 +10786,7 @@ cabstands
 cachalot
 cachalots
 cachepots
+caches
 cacheting
 cachexia
 cachexias
@@ -13510,6 +13516,7 @@ chirred
 chirres
 chirring
 chirrs
+chirrup
 chirruped
 chirruping
 chirrups
@@ -18374,6 +18381,7 @@ crescendi
 crescendoes
 crescendoing
 crescendos
+crescent
 crescents
 crescive
 crescively
@@ -19803,6 +19811,7 @@ dapperly
 dapping
 dapple
 dappled
+dappling
 daps
 dapsone
 darbar
@@ -20718,6 +20727,7 @@ degerm
 degermed
 deglaciated
 deglamorize
+deglamorized
 deglamorizes
 deglamorizing
 degradations
@@ -24661,6 +24671,7 @@ druggist
 druggy
 drugmaker
 drugmakers
+drugstore
 druid
 druidic
 drumbeater
@@ -25351,6 +25362,7 @@ ecrus
 ecstatic
 ecstatically
 ectases
+ectatic
 ectoblasts
 ectoderm
 ectodermal
@@ -31949,6 +31961,7 @@ franking
 frankness
 franknesses
 frankpledge
+franseria
 frantic
 franticness
 franticnesses
@@ -36895,6 +36908,7 @@ heartworms
 hearty
 heat
 heatable
+heated
 heater
 heath
 heathbird
@@ -37846,6 +37860,7 @@ hobblers
 hobbles
 hobby
 hobbyhorse
+hobbyist
 hobbyists
 hobgoblins
 hoblike
@@ -39200,6 +39215,7 @@ hypersthene
 hypertense
 hypertension
 hypertext
+hyperthermias
 hyperthyroid
 hyperthyroidism
 hypertonia
@@ -39328,6 +39344,7 @@ hypothyroidism
 hypotonia
 hypotonicity
 hypoxemia
+hypoxemic
 hypoxia
 hypoxias
 hypsometer
@@ -41152,6 +41169,7 @@ ingraft
 ingrafted
 ingrafting
 ingrafts
+ingrain
 ingrained
 ingraining
 ingrains
@@ -45398,6 +45416,7 @@ lawman
 lawmen
 lawns
 lawny
+laws
 lawsuit
 lawyer
 lawyering
@@ -46489,6 +46508,7 @@ listening
 lister
 listeria
 listerioses
+listers
 listlessly
 listlessness
 listlessnesses
@@ -59808,6 +59828,7 @@ pectens
 pectic
 pectinaceous
 pectination
+pectinesterase
 pectize
 pectized
 pectizes
@@ -64764,6 +64785,7 @@ prisses
 prissier
 prissies
 prissiest
+prissing
 prissy
 pristane
 pristanes
@@ -66167,6 +66189,7 @@ pushers
 pushes
 pushiness
 pushinesses
+pushingly
 pushover
 pushovers
 pushpin
@@ -68960,6 +68983,7 @@ regma
 regmata
 regnal
 regnancies
+regnancy
 regnum
 regoliths
 regorge
@@ -69985,6 +70009,7 @@ reprographies
 reproof
 reproofs
 reproval
+reprovals
 reprove
 reprover
 reprovers
@@ -71067,6 +71092,7 @@ rewon
 reword
 reworded
 rewords
+rewore
 rework
 reworked
 reworking
@@ -71679,6 +71705,7 @@ rocky
 rococo
 rodding
 rode
+rodent
 rodenticides
 rodents
 rodeoing
@@ -72958,6 +72985,7 @@ saponins
 saporous
 sapors
 sapour
+sapphire
 sapphism
 sappiest
 sappiness
@@ -73448,6 +73476,7 @@ scenics
 scenographer
 scenographers
 scenting
+scents
 scepter
 sceptered
 sceptering
@@ -74217,6 +74246,7 @@ securances
 securely
 securement
 securements
+secures
 securest
 securitizations
 securitize
@@ -74472,6 +74502,7 @@ semiautomatics
 semibald
 semibreves
 semicentennial
+semicentennials
 semicircle
 semicircles
 semicivilized
@@ -77519,6 +77550,7 @@ snowcapped
 snowcaps
 snowdrift
 snowdrops
+snowed
 snowfall
 snowfalls
 snowfield
@@ -79225,6 +79257,7 @@ squidded
 squidding
 squiffed
 squiffiest
+squiggle
 squiggles
 squiggling
 squilgeeing
@@ -83604,6 +83637,7 @@ teed
 teel
 teem
 teemers
+teeming
 teemingly
 teemingness
 teemingnesses
@@ -94138,6 +94172,7 @@ yawners
 yawningly
 yawns
 yawp
+yawpers
 yawpings
 yaws
 ycleped
