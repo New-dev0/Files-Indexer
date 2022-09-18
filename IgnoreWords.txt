@@ -424,6 +424,7 @@ achenes
 achenial
 achier
 achievable
+achievement
 achievements
 achiever
 achieves
@@ -2621,6 +2622,7 @@ anathematizing
 anatomic
 anatomically
 anatomised
+anatomists
 anatomized
 anatomizing
 anatropous
@@ -5879,6 +5881,7 @@ ballerina
 ballerinas
 ballers
 balletic
+balletomane
 balletomania
 balletomanias
 ballets
@@ -17278,6 +17281,7 @@ cornerwise
 cornet
 cornetcy
 cornetist
+cornettist
 cornettists
 cornfield
 cornfields
@@ -20164,6 +20168,7 @@ deciliter
 deciliters
 decillion
 decimalization
+decimalize
 decimate
 decimated
 decimates
@@ -21570,6 +21575,7 @@ desugared
 desugaring
 desugars
 desulfuring
+desulfurized
 desulfurizing
 desulfurs
 desultoriness
@@ -25859,6 +25865,7 @@ embordering
 emborders
 embosking
 embosks
+embossable
 embosses
 embossing
 embossments
@@ -31573,6 +31580,7 @@ fort
 forte
 fortepiano
 fortepianos
+fortes
 forthcoming
 forthrightly
 forthwith
@@ -34097,6 +34105,7 @@ glouts
 glove
 gloved
 glover
+glovers
 glowered
 glowering
 glowers
@@ -34705,6 +34714,7 @@ grandsire
 grandsires
 grandsirs
 grandson
+grandstands
 grange
 granger
 grangerism
@@ -36126,6 +36136,7 @@ handsomely
 handsomeness
 handsomenesses
 handspike
+handspring
 handsprings
 handstand
 handstands
@@ -44200,6 +44211,7 @@ kneepad
 kneepan
 knees
 kneesies
+knell
 knelled
 knelling
 knells
@@ -45462,6 +45474,7 @@ leishmania
 leishmanial
 leishmaniases
 leistered
+leisure
 leisureliness
 leisurelinesses
 leitmotifs
@@ -48008,6 +48021,7 @@ manyfold
 manyplies
 manzanita
 manzanitas
+maple
 maplelike
 maplike
 mapmaker
@@ -53082,6 +53096,7 @@ nephelinites
 nephelite
 nephelometers
 nephelometry
+nephews
 nephogram
 nephoscopes
 nephrectomize
@@ -57687,6 +57702,7 @@ overseriously
 overservice
 overserviced
 overservices
+overservicing
 oversets
 oversetting
 oversew
@@ -58997,6 +59013,7 @@ participatory
 participial
 participially
 particle
+particleboard
 particular
 particularise
 particularised
@@ -59738,6 +59755,7 @@ penetrate
 penetrated
 penetrates
 penetrating
+penetratingly
 penetrations
 penetrative
 penetrometer
@@ -61448,6 +61466,7 @@ pintsized
 pinwales
 pinweeds
 pinwheel
+pinwheeled
 pinwork
 pinworm
 pinworms
@@ -63884,6 +63903,7 @@ preparators
 prepare
 prepared
 preparedly
+preparer
 preparers
 prepares
 prepasted
@@ -65403,6 +65423,7 @@ psychrometer
 psychrometers
 psychrometries
 psychs
+psyllid
 psylliums
 ptarmigan
 pteranodon
@@ -65720,6 +65741,7 @@ pureeing
 pureness
 purfle
 purfled
+purfler
 purfles
 purflings
 purgative
@@ -67988,6 +68010,7 @@ redelivery
 redemanding
 redemands
 redemption
+redemptioners
 redemptions
 redemptive
 redenies
@@ -70010,6 +70033,7 @@ resorters
 resought
 resounded
 resoundingly
+resourcefulness
 resow
 resowed
 resowing
@@ -70601,6 +70625,7 @@ reviling
 reviolating
 revisable
 revisals
+revised
 reviser
 revisers
 revises
@@ -71286,6 +71311,7 @@ rockabye
 rocker
 rockers
 rockery
+rocket
 rocketed
 rocketeer
 rocketeers
@@ -72351,6 +72377,7 @@ salutatorians
 salutatories
 salutatory
 salute
+saluter
 salvage
 salvageability
 salvageable
@@ -73410,6 +73437,7 @@ scraiching
 scraichs
 scraighed
 scraighing
+scraighs
 scramble
 scrambler
 scrambles
@@ -77896,6 +77924,7 @@ spang
 spangle
 spangled
 spangles
+spangling
 spaniel
 spanked
 spankers
@@ -82088,6 +82117,7 @@ swoopiest
 swoops
 swoopy
 swoosh
+swooshes
 swooshing
 swopping
 swordfishes
@@ -83985,6 +84015,7 @@ thermites
 thermochemist
 thermochemistry
 thermochemists
+thermocline
 thermoclines
 thermocouple
 thermocouples
@@ -84825,6 +84856,7 @@ togas
 togate
 togated
 togaviruses
+together
 togged
 toggeries
 toggery
@@ -87987,6 +88019,7 @@ underjaw
 underkill
 underkills
 underlaid
+underlain
 underlap
 underlapped
 underlay
@@ -93837,6 +93870,7 @@ yowes
 yowies
 yowing
 yowl
+yowlers
 yowling
 yowls
 yows
@@ -93907,6 +93941,7 @@ zaniest
 zany
 zanyish
 zanzas
+zap
 zapateado
 zapateo
 zapateos
