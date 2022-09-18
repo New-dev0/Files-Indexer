@@ -1495,6 +1495,7 @@ airdrops
 airer
 airers
 airest
+airfare
 airfares
 airfield
 airfields
@@ -2914,6 +2915,7 @@ announces
 announcing
 annoy
 annoying
+annoys
 annualize
 annualizing
 annuitant
@@ -3556,6 +3558,7 @@ apex
 aphaereses
 aphaeretic
 aphagias
+aphanite
 aphasia
 aphasiac
 aphasias
@@ -5064,6 +5067,7 @@ auld
 aulder
 aulic
 aunt
+aunties
 auntlier
 auntly
 aunts
@@ -5952,6 +5956,7 @@ bananas
 banausic
 banco
 bancos
+band
 banda
 bandage
 bandaged
@@ -7032,6 +7037,7 @@ belong
 belonging
 belongingnesses
 belongings
+belongs
 belons
 beloveds
 below
@@ -7964,6 +7970,7 @@ birthname
 birthplace
 birthplaces
 birthrate
+births
 birthstone
 birthstones
 birthworts
@@ -9588,6 +9595,7 @@ breather
 breathers
 breathes
 breathiest
+breathiness
 breathinesses
 breathlessness
 breaths
@@ -12823,6 +12831,7 @@ chancre
 chancres
 chancroid
 chancroids
+chancrous
 chandelier
 chandeliers
 chandelled
@@ -19094,6 +19103,7 @@ currejong
 currencies
 current
 currentness
+curricle
 curriculum
 curriculums
 curried
@@ -19490,6 +19500,7 @@ cytotoxins
 czardas
 czardom
 czarevitch
+czarevitches
 czarevna
 czarevnas
 czarina
@@ -26299,6 +26310,7 @@ endeared
 endearing
 endearment
 endears
+endeavor
 endeavored
 endeavour
 endeavouring
@@ -27619,6 +27631,7 @@ ethanolamine
 ethanols
 ethene
 ethenes
+ethephon
 ethereal
 ethereality
 etherealization
@@ -28111,6 +28124,7 @@ excite
 excitedly
 excitements
 excites
+exciton
 excitons
 excitors
 exclaim
@@ -31736,6 +31750,7 @@ fowling
 fowlpox
 fowls
 fox
+foxed
 foxes
 foxfire
 foxfish
@@ -32539,6 +32554,7 @@ fuss
 fussbudgets
 fusses
 fussily
+fussiness
 fussy
 fustics
 fustier
@@ -35429,6 +35445,7 @@ guardhouse
 guardhouses
 guardians
 guardianship
+guardianships
 guardrails
 guardroom
 guardrooms
@@ -35744,6 +35761,7 @@ gypsydom
 gypsydoms
 gypsyism
 gypsyisms
+gyrally
 gyrate
 gyrating
 gyrational
@@ -38308,6 +38326,7 @@ hosanna
 hosannaed
 hosannah
 hosannahs
+hose
 hosed
 hoselike
 hosels
@@ -41517,6 +41536,7 @@ integrability
 integralities
 integrally
 integrals
+integrand
 integrate
 integrating
 integration
@@ -42029,6 +42049,7 @@ intitule
 intituled
 intitules
 intituling
+intolerability
 intolerableness
 intolerance
 intolerantly
@@ -44371,6 +44392,7 @@ komatiks
 kombus
 komondorock
 komondorok
+konked
 koodoo
 kook
 kookaburra
@@ -47520,6 +47542,7 @@ maggot
 maggots
 maggoty
 magi
+magian
 magians
 magic
 magical
@@ -55734,6 +55757,7 @@ opacifier
 opacifies
 opah
 opalesce
+opalescence
 opalescent
 opalescently
 opalesces
@@ -56473,6 +56497,7 @@ outcrawling
 outcrawls
 outcries
 outcrop
+outcropping
 outcroppings
 outcross
 outcrossed
@@ -57856,6 +57881,7 @@ overstretching
 overstrew
 overstrewed
 overstrews
+overstridden
 overstride
 overstrung
 overstudied
@@ -60164,6 +60190,7 @@ perigees
 perigons
 perigyny
 perikaryal
+periling
 perilla
 perillas
 perilled
@@ -60818,6 +60845,7 @@ phonies
 phoniness
 phonocardiogram
 phonogramic
+phonogramically
 phonogrammic
 phonograph
 phonographic
@@ -67389,6 +67417,7 @@ realms
 realness
 realnesses
 realpolitik
+realpolitiks
 reals
 realter
 realtering
@@ -70829,6 +70858,7 @@ rewoken
 rewon
 reword
 reworded
+rewords
 rework
 reworked
 reworking
@@ -76462,6 +76492,7 @@ slaggiest
 slagging
 slags
 slain
+slaker
 slakers
 slaking
 slalom
@@ -81150,6 +81181,7 @@ suffocations
 suffocative
 suffrage
 suffrages
+suffragettes
 suffragist
 suffuse
 suffuses
@@ -82468,6 +82500,7 @@ syndicators
 syndromic
 syne
 synecdoche
+synecdoches
 synecdochical
 synecdochically
 synecological
@@ -84106,6 +84139,7 @@ therapeutic
 therapies
 therapsid
 there
+thereabout
 thereafter
 thereat
 therein
@@ -88453,6 +88487,7 @@ unfavored
 unfavorite
 unfeared
 unfearing
+unfeeling
 unfeelingly
 unfeelingnesses
 unfeigned
