@@ -5246,6 +5246,7 @@ automatizations
 automatize
 automatized
 automatizes
+automaton
 automatons
 automats
 automobile
@@ -7929,6 +7930,7 @@ biphasic
 bipinnate
 bipinnately
 biplane
+bipods
 bipolar
 bipolarities
 bipolarity
@@ -11267,6 +11269,7 @@ canceling
 cancellers
 cancerous
 cancha
+canchas
 cancroid
 cancroids
 candela
@@ -12482,6 +12485,7 @@ cellphone
 cellphones
 cellular
 cellulars
+cellulase
 cellulases
 cellule
 cellulite
@@ -14899,6 +14903,7 @@ coccoid
 coccoids
 coccolith
 coccus
+coccyxes
 cochair
 cochaired
 cochairman
@@ -15527,6 +15532,7 @@ colonists
 colonitis
 colonitises
 colonization
+colonizationist
 colonized
 colonizers
 colonnade
@@ -22907,6 +22913,7 @@ disconcerts
 disconformities
 disconformity
 disconnectedly
+disconnecting
 disconnection
 disconnects
 disconsolately
@@ -23521,6 +23528,7 @@ distensible
 distention
 distich
 distichal
+distichous
 distill
 distillates
 distillations
@@ -24412,6 +24420,7 @@ dramaturge
 dramaturges
 dramaturgic
 dramaturgical
+dramaturgically
 dramaturgies
 dramedies
 dramedy
@@ -30880,6 +30889,7 @@ flog
 flogging
 flogs
 flokati
+flong
 flongs
 flooding
 floodlight
@@ -32774,6 +32784,7 @@ gaffer
 gaffers
 gaffing
 gagaku
+gagakus
 gage
 gagged
 gagger
@@ -39623,6 +39634,7 @@ illegalizing
 illegals
 illegibility
 illegitimacies
+illegitimate
 illegitimately
 iller
 illiberalisms
@@ -44019,6 +44031,7 @@ kentledges
 kep
 kephalin
 kepi
+keppen
 kepping
 keps
 kept
@@ -44538,6 +44551,7 @@ knubbier
 knuckleballs
 knucklebones
 knuckled
+knucklehead
 knuckler
 knucklers
 knucklier
@@ -45296,6 +45310,7 @@ laterals
 laterborn
 laterites
 laterize
+laterized
 latest
 latewoods
 lather
@@ -45339,6 +45354,7 @@ latter
 lattes
 lattice
 latticed
+latticeworks
 latticing
 lattin
 lattins
@@ -46878,6 +46894,7 @@ logier
 logiest
 loginesses
 logins
+logistical
 logistically
 logistician
 logisticians
@@ -49433,6 +49450,7 @@ mesally
 mesarch
 mescal
 mesclun
+mescluns
 mesdemoiselles
 meseemeth
 meseems
@@ -51313,6 +51331,7 @@ moldboard
 moldboards
 molded
 molders
+moldiness
 moldinesses
 moldwarp
 moldwarps
@@ -52589,6 +52608,7 @@ muskegs
 musket
 musketeer
 musketry
+muskets
 muskie
 muskits
 muskmelon
@@ -57272,6 +57292,7 @@ outthrow
 outthrown
 outthrows
 outthrust
+outtower
 outtowered
 outtowering
 outtrade
@@ -66304,6 +66325,7 @@ pygmoid
 pygmy
 pyic
 pyins
+pyjamas
 pyknic
 pyknics
 pylorus
@@ -67565,6 +67587,7 @@ reaccuse
 reaccused
 reaccusing
 reach
+reachable
 reachers
 reaches
 reacquaint
@@ -69251,6 +69274,7 @@ reinvestigation
 reinvesting
 reinvestment
 reinvestments
+reinvigorate
 reinvigorated
 reinvigorators
 reinvites
@@ -72145,6 +72169,7 @@ rubberlike
 rubbernecked
 rubbers
 rubbings
+rubbish
 rubbishes
 rubble
 rubblier
@@ -72250,6 +72275,7 @@ rugose
 rugosely
 rugosities
 rugulose
+ruin
 ruinable
 ruinate
 ruinated
@@ -73161,6 +73187,7 @@ satisfy
 satisfyingly
 satori
 satoris
+satrap
 satraps
 satsumas
 saturable
@@ -74313,6 +74340,7 @@ seduce
 seducer
 seducive
 seduction
+seductiveness
 seductivenesses
 seductress
 sedulousness
@@ -81945,6 +81973,7 @@ superovulating
 superoxide
 superoxides
 superpatriotic
+superpatriotism
 superperson
 superpersons
 superphosphates
@@ -85246,6 +85275,7 @@ titrator
 titrators
 titrimetric
 titterer
+tittering
 titters
 titties
 tittivated
@@ -88881,6 +88911,7 @@ ungainlinesses
 ungalled
 ungarbed
 ungarnished
+ungated
 ungazing
 ungenial
 ungentle
@@ -89954,6 +89985,7 @@ unwishing
 unwits
 unwitted
 unwitting
+unwooded
 unwooed
 unworkabilities
 unworkability
@@ -90428,6 +90460,7 @@ utters
 uvarovite
 uvea
 uveitic
+uveitis
 uvula
 uvularly
 uvulars
@@ -91474,6 +91507,7 @@ violas
 violates
 violation
 violative
+violators
 violet
 violets
 violinistic
@@ -92462,6 +92496,7 @@ waterweed
 waterwork
 waterzoois
 wattest
+watthour
 watthours
 wattle
 wattlebirds
