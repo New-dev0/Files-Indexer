@@ -2495,6 +2495,7 @@ anabaena
 anabaenas
 anabaptisms
 anabas
+anabases
 anabasis
 anabatic
 anabioses
@@ -4048,6 +4049,7 @@ archenterons
 archeology
 archerfish
 archerfishes
+archers
 archesporia
 archesporial
 archesporium
@@ -10931,6 +10933,7 @@ calcedony
 calces
 calcic
 calcicoles
+calcicolous
 calciferol
 calcific
 calcifications
@@ -13607,6 +13610,7 @@ cholecystectomy
 cholecystitises
 cholelithiasis
 cholent
+cholents
 choler
 choleraic
 cholers
@@ -17637,6 +17641,7 @@ coulee
 coulibiac
 coulibiacs
 coulis
+coulisse
 couloir
 coulombs
 coulometer
@@ -20962,6 +20967,7 @@ democracies
 democratization
 democratize
 democratized
+democratizer
 democratizers
 democrats
 demode
@@ -21573,6 +21579,7 @@ despondencies
 despondency
 despondent
 despondently
+despotic
 despumate
 despumated
 desquamated
@@ -22196,6 +22203,7 @@ dielectrics
 diemaker
 dienes
 dieoff
+dieoffs
 dieretic
 dies
 dieseled
@@ -27699,6 +27707,7 @@ ethylenic
 ethyls
 ethyne
 ethynes
+ethynyl
 ethynyls
 etiolate
 etiolates
@@ -28302,6 +28311,7 @@ exigences
 exigencies
 exigent
 exigently
+exiguities
 exiguity
 exiguous
 exiguously
@@ -31170,6 +31180,7 @@ folksong
 folktale
 folktales
 folkway
+folky
 follicles
 follicular
 folliculitis
@@ -32452,6 +32463,7 @@ funny
 funnymen
 funplexes
 fur
+furane
 furanose
 furanoside
 furbearer
@@ -33577,6 +33589,7 @@ gesneriads
 gesso
 gest
 gestalt
+gestalten
 gestaltists
 gestapo
 gestated
@@ -34751,6 +34764,7 @@ granddads
 granddams
 granddaughters
 grandee
+grandees
 grandest
 grandeurs
 grandfather
@@ -36629,6 +36643,7 @@ hazer
 hazers
 hazier
 haziest
+hazily
 haziness
 hazinesses
 hazing
@@ -42466,6 +42481,7 @@ irrationally
 irreality
 irreclaimably
 irreconcilable
+irreconcilably
 irrecoverable
 irrecoverably
 irredeemably
@@ -43965,6 +43981,7 @@ kheths
 khets
 khi
 khirkahs
+khis
 khoums
 ki
 kiang
@@ -46028,6 +46045,7 @@ ligures
 likabilities
 likability
 likableness
+like
 likeable
 likeliest
 likelihoods
@@ -49132,6 +49150,7 @@ meows
 meperidine
 meperidines
 mephitises
+meprobamate
 merbromin
 merbromins
 merc
@@ -49739,6 +49758,7 @@ microspherical
 microsporangia
 microsporangium
 microspore
+microsporophyll
 microstates
 microstructural
 microstructures
@@ -53254,6 +53274,7 @@ nesciences
 nescient
 nescients
 nesses
+nested
 nestle
 nestled
 nestler
@@ -65669,6 +65690,7 @@ pule
 puler
 pules
 pulicide
+pulingly
 pulings
 pulis
 pull
@@ -66308,6 +66330,7 @@ quantizer
 quantizers
 quantizes
 quantong
+quantum
 quarantine
 quarantined
 quare
@@ -70981,6 +71004,7 @@ rhubarb
 rhumb
 rhumbaing
 rhumbas
+rhumbs
 rhymer
 rhymers
 rhymester
@@ -72929,6 +72953,7 @@ saults
 saunaed
 saunter
 saunterer
+sauntering
 saunters
 saurels
 saurians
@@ -74369,6 +74394,7 @@ semivowels
 semiworks
 semiyearly
 sempervivum
+sempervivums
 sempiternally
 sempiternities
 sempstresses
@@ -76326,6 +76352,7 @@ skijorers
 skijoring
 skilful
 skilfully
+skill
 skilled
 skillet
 skillets
@@ -76697,6 +76724,7 @@ slingshot
 slingshots
 slink
 slinkier
+slinkiest
 slinkinesses
 slinking
 slinky
@@ -84975,6 +85003,7 @@ tobacco
 tobaccoes
 tobacconists
 tobaccos
+toboggan
 tobogganed
 tobogganist
 tobogganists
@@ -86969,6 +86998,7 @@ turbine
 turbiths
 turbocar
 turbocars
+turbocharged
 turbocharger
 turbochargers
 turboelectric
@@ -89715,6 +89745,7 @@ upflung
 upfold
 upfolded
 upfolds
+upfront
 upgathering
 upgaze
 upgazed
@@ -91650,6 +91681,7 @@ vulnerary
 vulpine
 vulture
 vultures
+vulturish
 vulturous
 vulvar
 vulvate
@@ -93048,6 +93080,7 @@ wingspan
 wingspans
 wingtip
 wingtips
+winier
 wining
 winked
 winking
@@ -93689,6 +93722,7 @@ xanthate
 xanthein
 xantheins
 xanthene
+xanthin
 xanthins
 xanthomas
 xanthomata
@@ -93897,6 +93931,7 @@ yegg
 yeggs
 yelk
 yell
+yelled
 yeller
 yelling
 yellow
