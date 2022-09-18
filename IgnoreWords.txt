@@ -980,6 +980,7 @@ adytum
 adze
 adzes
 adzukis
+ae
 aecia
 aecial
 aecidia
@@ -3066,6 +3067,7 @@ anthranilate
 anthraquinones
 anthrax
 anthropical
+anthropocentric
 anthropogenic
 anthropoid
 anthropologies
@@ -15247,6 +15249,7 @@ coleorhiza
 coleorhizae
 coles
 coleseeds
+colessee
 colessor
 coleus
 coleuses
@@ -25104,6 +25107,7 @@ ecdysis
 ecdyson
 ecdysone
 ecesic
+ecesis
 ecesises
 echard
 eched
@@ -25163,6 +25167,7 @@ ecologist
 ecology
 econometrically
 econometrician
+econometrists
 economic
 economies
 economised
@@ -25321,6 +25326,7 @@ effector
 effectors
 effects
 effectual
+effectualities
 effectually
 effectualness
 effectuated
@@ -25839,6 +25845,7 @@ embowed
 embowel
 emboweled
 emboweling
+embowelled
 embowelling
 embowels
 embower
@@ -25928,6 +25935,7 @@ emetic
 emetine
 emeu
 emeus
+emeute
 emic
 emigrants
 emigration
@@ -29115,6 +29123,7 @@ farmwives
 farmwork
 farmworker
 farmyards
+farnesses
 faro
 farolito
 faros
@@ -29743,6 +29752,7 @@ fibril
 fibrilla
 fibrillar
 fibrillated
+fibrillation
 fibrillations
 fibrin
 fibrinoid
@@ -29945,6 +29955,7 @@ filmographies
 filmography
 films
 filmsetter
+filmsetting
 filmsettings
 filmstrip
 filmy
@@ -30815,6 +30826,7 @@ fluidises
 fluidities
 fluidity
 fluidization
+fluidizers
 fluidizing
 fluidly
 fluidram
@@ -34993,6 +35005,7 @@ grieving
 grievousness
 grievousnesses
 griffes
+griffon
 griffs
 grift
 grifts
@@ -36107,6 +36120,7 @@ hangs
 hangtags
 hangul
 haniwa
+hank
 hanked
 hankered
 hankerer
@@ -36644,6 +36658,7 @@ heartsome
 heartsomely
 heartstring
 heartstrings
+heartthrob
 heartthrobs
 heartworms
 hearty
@@ -41013,6 +41028,7 @@ injuriousness
 injury
 ink
 inkberries
+inkblots
 inker
 inkhorn
 inkier
@@ -44307,6 +44323,7 @@ krill
 krimmer
 krimmers
 kris
+krona
 krone
 kroner
 kroon
@@ -46074,6 +46091,7 @@ linter
 linters
 lintier
 linting
+lintol
 lintols
 lints
 lintwhite
@@ -46476,6 +46494,7 @@ locustae
 locution
 locutions
 lode
+loden
 lodes
 lodestar
 lodestars
@@ -53964,6 +53983,7 @@ nongregarious
 nonguest
 nonguests
 nonhalogenated
+nonharmonic
 nonhemolytic
 nonheroic
 nonhierarchical
@@ -60465,6 +60485,7 @@ phat
 phatic
 phatically
 phatter
+pheasant
 pheasants
 phellems
 phellogens
@@ -61291,6 +61312,7 @@ pinfish
 pinfishes
 pinfolded
 pinfolds
+pinger
 pinging
 pingoes
 pingrass
@@ -62001,6 +62023,7 @@ pluckiness
 plucking
 plug
 plugger
+plugless
 plugola
 plugugly
 plumb
@@ -63965,6 +63988,7 @@ preshapes
 preshaping
 preship
 preshipping
+preships
 preshowing
 preshown
 preshrink
@@ -65586,6 +65610,7 @@ punky
 punner
 punnet
 punningly
+punny
 punsters
 punt
 punter
@@ -66454,6 +66479,7 @@ racings
 racism
 racisms
 racist
+racists
 racked
 rackers
 racketed
@@ -72109,6 +72135,7 @@ sailer
 sailfish
 sailing
 sailplanes
+sailplaning
 sails
 saimin
 sained
@@ -75430,6 +75457,7 @@ sialid
 sialidan
 sialidans
 sials
+siamangs
 sib
 sibbs
 sibilancy
@@ -75666,6 +75694,7 @@ siliciums
 silicle
 silicone
 siliconized
+silicons
 silicoses
 silicotic
 siliculae
@@ -77032,6 +77061,7 @@ snowdrops
 snowfall
 snowfalls
 snowfield
+snowfields
 snowier
 snowily
 snowlands
@@ -79281,6 +79311,7 @@ stereograph
 stereographed
 stereographic
 stereographies
+stereographs
 stereoisomeric
 stereoisomerism
 stereological
@@ -80444,6 +80475,7 @@ sublessors
 sublethal
 sublethally
 sublets
+subletting
 sublevel
 sublibrarian
 sublibrarians
@@ -84783,6 +84815,7 @@ tolidins
 toling
 toll
 tollbars
+tollbooths
 tollhouse
 tolling
 tollman
@@ -88114,6 +88147,7 @@ unelectrified
 unembarrassed
 unembellished
 unembittered
+unemotional
 unemotionally
 unemphatic
 unemphatically
@@ -90355,6 +90389,7 @@ ventilators
 ventilatory
 venting
 ventless
+ventrally
 ventrals
 ventricle
 ventricular
