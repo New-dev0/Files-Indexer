@@ -541,6 +541,7 @@ acrimoniousness
 acritarch
 acritarchs
 acritical
+acrobatic
 acrobatically
 acrobatics
 acrocentrics
@@ -1362,6 +1363,7 @@ aglow
 agly
 aglycon
 aglycone
+aglycones
 aglycons
 agmas
 agnate
@@ -2058,6 +2060,7 @@ alternants
 alternated
 alternating
 alternation
+alternative
 alternator
 alternators
 alters
@@ -2594,6 +2597,7 @@ anapest
 anapestic
 anaphase
 anaphases
+anaphasic
 anaphor
 anaphora
 anaphorically
@@ -7159,6 +7163,7 @@ benthons
 bento
 bentonites
 bentonitic
+bentos
 bentwood
 benumbed
 benumbing
@@ -13169,6 +13174,7 @@ cheesily
 cheesiness
 cheesinesses
 cheesy
+chefdom
 chefdoms
 cheffed
 cheffing
@@ -18512,6 +18518,7 @@ crooked
 crookedest
 crookednesses
 crookeries
+crookery
 crookneck
 crooks
 croon
@@ -19307,6 +19314,7 @@ cyanocobalamine
 cyanoethylated
 cyanogen
 cyanogeneses
+cyanogenesis
 cyanogenic
 cyanohydrin
 cyanotype
@@ -20379,6 +20387,7 @@ decrowned
 decry
 decrying
 decrypt
+decryption
 decryptions
 decrypts
 decupled
@@ -22275,6 +22284,7 @@ digamies
 digamists
 digamma
 digammas
+digamous
 digamy
 digenesis
 digenetic
@@ -23489,6 +23499,7 @@ distributor
 distributors
 district
 districted
+districts
 distrust
 distrusted
 distrustfully
@@ -25637,6 +25648,7 @@ electrochemical
 electrocute
 electrocuted
 electrocutes
+electrocuting
 electrocution
 electrodeposits
 electrodes
@@ -32393,6 +32405,7 @@ fumigates
 fumigation
 fuming
 fumitories
+fumitory
 fumuli
 fumulus
 fumy
@@ -32974,6 +32987,7 @@ garaged
 garageman
 garages
 garaging
+garb
 garbage
 garbagemen
 garbages
@@ -40527,6 +40541,7 @@ incurs
 incursion
 incursions
 incursive
+incurvated
 incurvating
 incurvations
 incurvature
@@ -42821,6 +42836,7 @@ jacamar
 jacana
 jacanas
 jacaranda
+jacinth
 jacinthes
 jacinths
 jack
@@ -42977,6 +42993,7 @@ jarina
 jarinas
 jarl
 jarlsberg
+jarosite
 jarovized
 jarovizing
 jarrahs
@@ -47336,6 +47353,7 @@ lymphographies
 lymphography
 lymphoid
 lymphomatoses
+lymphomatosis
 lymphs
 lynched
 lynches
@@ -51905,6 +51923,7 @@ mountebankeries
 mountebanks
 mounted
 mounter
+mounters
 mounting
 mountings
 mourned
@@ -55727,6 +55746,7 @@ ongoing
 ongoingnesses
 oniony
 onlay
+onlays
 online
 onload
 onlooker
@@ -55827,6 +55847,7 @@ openmouthedly
 openmouthedness
 openness
 opennesses
+openworks
 opera
 operabilities
 operable
@@ -59854,6 +59875,7 @@ pelycosaur
 pelycosaurs
 pemican
 pemmican
+pemmicans
 pemoline
 pemolines
 pemphixes
@@ -61320,6 +61342,7 @@ picrates
 picric
 picrite
 picrites
+picrotoxin
 picrotoxins
 pics
 pictogram
@@ -61649,6 +61672,7 @@ pipeages
 pipeful
 pipefuls
 pipeless
+pipelike
 pipeline
 pipelined
 piperazine
@@ -70952,6 +70976,7 @@ rheobases
 rheobasic
 rheological
 rheologically
+rheologies
 rheologist
 rheology
 rheometer
@@ -76233,6 +76258,7 @@ sitarists
 sitcom
 sitcoms
 sites
+sith
 sithence
 sithens
 siting
@@ -81162,6 +81188,7 @@ such
 suchlike
 suchness
 suchnesses
+suck
 sucker
 suckers
 suckfish
@@ -82293,6 +82320,7 @@ switchgrasses
 switching
 switchyard
 switchyards
+swithe
 swither
 swithly
 swived
@@ -87809,6 +87837,7 @@ unbottle
 unbottled
 unbottling
 unbound
+unboundednesses
 unbowdlerized
 unbowed
 unboxing
@@ -90699,6 +90728,7 @@ vengefulnesses
 venges
 venging
 venial
+venialities
 venially
 venine
 venins
@@ -91253,6 +91283,7 @@ viridities
 viridity
 virilisms
 virility
+virilized
 virilizes
 virion
 virl
@@ -91715,6 +91746,7 @@ vulture
 vultures
 vulturish
 vulturous
+vulva
 vulvar
 vulvate
 vum
@@ -92679,6 +92711,7 @@ whimbrel
 whimbrels
 whimper
 whimpered
+whimperer
 whimpering
 whimpers
 whims
@@ -94277,6 +94310,7 @@ zillahs
 zillion
 zillions
 zillionth
+zin
 zinc
 zincate
 zincites
@@ -94398,6 +94432,7 @@ zooplanktons
 zoos
 zoosperm
 zoosporangium
+zoospore
 zoospores
 zoosporic
 zoosterol
