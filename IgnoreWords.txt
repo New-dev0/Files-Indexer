@@ -3194,6 +3194,7 @@ antidesiccant
 antidevelopment
 antidogmatic
 antidotal
+antidoted
 antidotes
 antidoting
 antidraft
@@ -3494,6 +3495,7 @@ antler
 antlered
 antlike
 antlions
+antonomasias
 antonym
 antonymies
 antonymous
@@ -4772,6 +4774,7 @@ astrology
 astrometric
 astrometries
 astronaut
+astronautic
 astronautical
 astronautics
 astronauts
@@ -7411,6 +7414,7 @@ beton
 betons
 betrayer
 betraying
+betrays
 betrotheds
 betroths
 betta
@@ -8038,6 +8042,7 @@ bishoprics
 bisks
 bismuth
 bismuthic
+bismuths
 bisnaga
 bisons
 bisontine
@@ -15346,6 +15351,7 @@ coking
 coky
 col
 cola
+colanders
 colas
 colatitudes
 colby
@@ -17035,6 +17041,7 @@ conversos
 convertaplane
 convertaplanes
 converter
+convertibility
 convertibly
 convertiplane
 convertor
@@ -18181,6 +18188,7 @@ crambo
 crambos
 crammed
 crammer
+cramoisie
 cramoisy
 cramp
 cramped
@@ -22438,6 +22446,7 @@ dignities
 digraphically
 digraphs
 digressing
+digressional
 digressively
 dihedral
 dihedrals
@@ -24636,6 +24645,7 @@ drizzlier
 drizzliest
 droid
 droids
+droit
 droits
 drolled
 droller
@@ -24818,6 +24828,7 @@ ducking
 duckling
 ducklings
 ducks
+ducktail
 ducktails
 duckwalk
 duckwalked
@@ -30500,6 +30511,7 @@ fitness
 fits
 fittable
 fitters
+fittest
 fittingnesses
 fittings
 fivefold
@@ -32052,6 +32064,7 @@ fraudulentness
 fraught
 fraughting
 fraulein
+fraxinella
 frayed
 fraying
 frays
@@ -35690,6 +35703,7 @@ guglets
 guid
 guidance
 guidances
+guide
 guidebooks
 guided
 guideline
@@ -42316,6 +42330,7 @@ intracranial
 intractably
 intraday
 intradermally
+intrados
 intradoses
 intramolecular
 intramurally
@@ -44129,6 +44144,7 @@ kernes
 kerosine
 kerplunked
 kerplunking
+kerplunks
 kerria
 kerrias
 kerries
@@ -44902,6 +44918,7 @@ lacrimals
 lacrimations
 lacs
 lactalbumins
+lactams
 lactases
 lactate
 lactates
@@ -45506,6 +45523,7 @@ lavrocks
 lawbook
 lawbooks
 lawbreakings
+lawful
 lawgiver
 lawgivings
 lawless
@@ -51483,6 +51501,7 @@ monadical
 monadisms
 monadnock
 monadnocks
+monads
 monandry
 monarch
 monarchial
@@ -51754,6 +51773,7 @@ monteith
 montero
 montes
 month
+monthlies
 monthlong
 months
 monticule
@@ -59470,6 +59490,7 @@ partisan
 partisanship
 partisanships
 partitas
+partition
 partitioners
 partitions
 partlet
@@ -60795,6 +60816,7 @@ peruke
 peruked
 perukes
 peruse
+peruser
 perusers
 peruses
 perv
@@ -67698,6 +67720,7 @@ reactant
 reacted
 reaction
 reactionaries
+reactionaryisms
 reactivating
 reactivation
 reactive
@@ -72502,6 +72525,7 @@ russetting
 russettings
 russety
 rustable
+rusted
 rustic
 rustical
 rusticals
@@ -73492,6 +73516,7 @@ scalls
 scallywag
 scallywags
 scalogram
+scalograms
 scaloppine
 scaloppines
 scalpel
@@ -74357,6 +74382,7 @@ second
 secondaries
 secondarily
 secondary
+seconde
 seconder
 seconders
 secondes
@@ -79247,6 +79273,7 @@ springbok
 springer
 springers
 springes
+springier
 springinesses
 springings
 springlet
@@ -79454,6 +79481,7 @@ squinting
 squintingly
 squints
 squinty
+squire
 squirearchies
 squirearchy
 squireens
@@ -82994,6 +83022,7 @@ synoptically
 synostosis
 synovia
 synovial
+synovias
 synovitis
 synovitises
 syntactical
@@ -83345,6 +83374,7 @@ tamarisks
 tamashas
 tambac
 tambacs
+tambak
 tambala
 tambalas
 tambour
@@ -86002,6 +86032,7 @@ toxoplasmic
 toxoplasmosis
 toyed
 toyless
+toylike
 toyo
 toyon
 toyos
@@ -86738,6 +86769,7 @@ trident
 tridental
 tridents
 trienes
+triennial
 triennials
 trienniums
 triens
@@ -87755,6 +87787,7 @@ typestyle
 typestyles
 typewrite
 typewriter
+typewrites
 typewritten
 typey
 typhlitic
@@ -88579,6 +88612,7 @@ underbred
 underbrim
 underbrims
 underbrush
+underbrushes
 underbud
 underbudding
 underbuying
@@ -92096,6 +92130,7 @@ vrouws
 vrow
 vuggier
 vuggs
+vuggy
 vugh
 vughs
 vugs
