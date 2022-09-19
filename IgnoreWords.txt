@@ -6298,6 +6298,7 @@ barriers
 barrio
 barrooms
 bars
+barstool
 barstools
 bartend
 bartender
@@ -17824,6 +17825,7 @@ counterblow
 counterblows
 counterchange
 counterchanges
+counterchanging
 countercharges
 countercheck
 counterclaim
@@ -25499,6 +25501,7 @@ eddies
 eddo
 eddoes
 eddy
+eddying
 edelweiss
 edemas
 edemata
@@ -26224,6 +26227,7 @@ emmers
 emmet
 emmetrope
 emmets
+emmys
 emodin
 emodins
 emollient
@@ -28719,6 +28723,7 @@ expo
 exponent
 exponential
 exponentials
+exponentiation
 exponentiations
 exponents
 exportability
@@ -29299,6 +29304,7 @@ fanatics
 fancied
 fancier
 fanciers
+fancified
 fanciful
 fancifully
 fancifulness
@@ -30596,6 +30602,7 @@ flagellating
 flagellation
 flagellations
 flagellin
+flagellum
 flageolets
 flaggers
 flaggier
@@ -32306,6 +32313,7 @@ friseurs
 frisked
 friskers
 friskier
+friskiest
 frisks
 frisky
 frissons
@@ -33584,6 +33592,7 @@ generates
 generation
 generational
 generationally
+generators
 generatrices
 generatrix
 generics
@@ -46745,6 +46754,7 @@ lithotripter
 litigate
 litigators
 litigiousness
+litigiousnesses
 litmus
 litotic
 litres
@@ -48632,6 +48642,7 @@ marriages
 married
 marrieds
 marrons
+marrowbone
 marrowfats
 marry
 marrying
@@ -52466,6 +52477,7 @@ multichain
 multichambered
 multicharacter
 multicity
+multicoated
 multicolor
 multicolored
 multicomponent
@@ -54307,6 +54319,7 @@ noncoincidence
 noncola
 noncolas
 noncollector
+noncolor
 noncolored
 noncolorfast
 noncolors
@@ -55272,6 +55285,7 @@ nunnations
 nunnery
 nunnish
 nuptialities
+nuptially
 nuptials
 nurd
 nurds
@@ -55458,6 +55472,7 @@ oblatory
 obligated
 obligates
 obligation
+obligations
 obligato
 obligator
 obligatorily
@@ -55696,6 +55711,7 @@ octants
 octapeptide
 octarchies
 octavo
+octets
 octillions
 octogenarian
 octogenarians
@@ -57193,6 +57209,7 @@ outpouring
 outpowering
 outpowers
 outpray
+outprayed
 outprays
 outpreach
 outpreached
@@ -58374,6 +58391,7 @@ overwarmed
 overwarms
 overwatch
 overwatched
+overwatered
 overwatering
 overwaters
 overwearied
@@ -59851,6 +59869,7 @@ patulent
 paucities
 paucity
 paulownias
+paunch
 paunched
 paunches
 paunchier
@@ -68309,6 +68328,7 @@ recollections
 recolonizations
 recolonizes
 recolonizing
+recolor
 recoloring
 recomb
 recombinant
@@ -69336,6 +69356,7 @@ rehung
 rehydrate
 rehydrates
 rehydration
+rehydrations
 rehypnotized
 rehypnotizes
 rehypnotizing
@@ -69701,6 +69722,7 @@ relumining
 relying
 remade
 remailed
+remails
 remaindering
 remainders
 remained
@@ -71733,6 +71755,7 @@ ringtosses
 ringworms
 rink
 rinning
+rins
 rinsable
 rinse
 rinses
@@ -74126,6 +74149,7 @@ scratchers
 scratches
 scratchily
 scratchiness
+scratchinesses
 scrawlers
 scrawniest
 scrawny
@@ -74492,6 +74516,7 @@ sectarianized
 sectarianizes
 sectarians
 sectaries
+sectary
 sectile
 sectionalism
 sectioned
@@ -78699,6 +78724,7 @@ speakable
 speakeasies
 speakeasy
 speaker
+speakerphone
 speakers
 speaking
 speakings
@@ -78899,6 +78925,7 @@ spheroidal
 spheroidally
 spheroplast
 spherular
+spherulite
 spherulites
 spherulitic
 sphincter
@@ -79880,6 +79907,7 @@ stateliness
 stately
 statements
 stateroom
+staterooms
 staters
 stateside
 statesman
@@ -81296,6 +81324,7 @@ sublimer
 sublimers
 subliminally
 subliming
+sublimit
 sublimits
 sublimity
 sublines
@@ -84556,6 +84585,7 @@ tetrapods
 tetrapyrrole
 tetrarch
 tetrarchic
+tetrarchies
 tetrarchs
 tetraspores
 tetrasporic
@@ -86156,6 +86186,7 @@ tracheary
 tracheated
 tracheids
 tracheitis
+tracheoles
 tracheostomies
 tracheostomy
 tracheotomies
@@ -87793,6 +87824,7 @@ twilling
 twillings
 twin
 twined
+twiners
 twines
 twinflower
 twinflowers
@@ -88749,6 +88781,7 @@ undereats
 undereducated
 underemphasize
 underemphasizes
+underemployed
 underemployment
 underestimate
 underestimated
@@ -89167,6 +89200,7 @@ unfrock
 unfrocked
 unfroze
 unfrozen
+unfunded
 unfurling
 unfurls
 unfurnished
@@ -94048,6 +94082,7 @@ woolie
 woolies
 wooliness
 woollies
+woolliest
 woolliness
 woollinesses
 woolly
