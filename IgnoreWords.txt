@@ -3428,6 +3428,7 @@ antirrhinums
 antirust
 antis
 antisag
+antisciences
 antiscorbutic
 antisecrecy
 antisense
@@ -4661,6 +4662,7 @@ assistances
 assistant
 assistants
 assistantship
+assisted
 assister
 assistive
 assistor
@@ -7558,6 +7560,7 @@ bibliologies
 bibliomaniacal
 bibliomanias
 bibliopegies
+bibliopegist
 bibliophile
 bibliophilies
 bibliophilism
@@ -10585,6 +10588,7 @@ bushelling
 bushelmen
 bushes
 bushfires
+bushgoat
 bushido
 bushiness
 bushinesses
@@ -11544,6 +11548,7 @@ capacity
 caparisons
 cape
 capelan
+capelin
 capelins
 capercaillies
 capercailzie
@@ -13575,6 +13580,7 @@ chiralities
 chirality
 chirked
 chirkest
+chirmed
 chirographers
 chirographic
 chiromancer
@@ -14763,6 +14769,7 @@ cloys
 clozapines
 club
 clubable
+clubbed
 clubber
 clubbiest
 clubbiness
@@ -21573,6 +21580,7 @@ derided
 derider
 deriders
 deriding
+deridingly
 deringers
 derisible
 derisively
@@ -22854,6 +22862,7 @@ disaffiliate
 disaffiliates
 disaffiliating
 disaffirm
+disaffirmances
 disaffirming
 disaffirms
 disaggregate
@@ -23537,6 +23546,7 @@ disseized
 disseizes
 disseizing
 disseizins
+disseizor
 dissemblers
 dissembles
 disseminate
@@ -25287,6 +25297,7 @@ earlships
 early
 earmark
 earmarked
+earmarking
 earmarks
 earmuffs
 earn
@@ -25423,6 +25434,7 @@ ecesis
 ecesises
 echard
 eched
+echelle
 echelles
 echelon
 echeloned
@@ -28037,6 +28049,7 @@ eulogistic
 eulogistically
 eulogists
 eulogium
+eulogized
 eulogizer
 eulogizes
 eulogizing
@@ -30206,6 +30219,7 @@ fifes
 fifteen
 fifths
 fifties
+fiftieth
 fifty
 fiftyish
 fig
@@ -34785,6 +34799,7 @@ gondolas
 gondoliers
 gone
 gonef
+gonefs
 goneness
 gonenesses
 goner
@@ -36462,6 +36477,7 @@ hammers
 hammertoes
 hammier
 hammily
+hamminess
 hamminesses
 hammock
 hammy
@@ -57258,6 +57274,7 @@ outlier
 outline
 outlined
 outliner
+outliners
 outlining
 outlived
 outliver
@@ -60856,6 +60873,7 @@ perkiest
 perkiness
 perkinesses
 perkish
+permafrost
 permafrosts
 permanences
 permanent
@@ -62805,6 +62823,7 @@ plowshare
 plowshares
 ploys
 pluck
+plucked
 pluckiness
 plucking
 plug
@@ -63636,6 +63655,7 @@ possiblest
 possibly
 post
 postabortion
+postage
 postals
 postanal
 postapocalyptic
@@ -63663,6 +63683,7 @@ postconsonantal
 postcopulatory
 postcoronary
 postcoup
+postcranial
 postcrash
 postcrisis
 postdated
@@ -66209,6 +66230,7 @@ publicized
 publicizes
 publicizing
 publicnesses
+publics
 published
 publisher
 publishing
@@ -66278,6 +66300,7 @@ pugrees
 puisne
 puisnes
 puissances
+puja
 pujah
 pujahs
 puke
@@ -67859,6 +67882,7 @@ rauwolfias
 ravagements
 ravager
 ravages
+ravaging
 rave
 raved
 ravel
@@ -70543,6 +70567,7 @@ rerelease
 rereleasing
 reremice
 rereminded
+rereminds
 reremouse
 rerent
 rerenting
@@ -70823,6 +70848,7 @@ resorters
 resought
 resounded
 resoundingly
+resounds
 resourcefulness
 resow
 resowed
@@ -82250,6 +82276,7 @@ superbombs
 superbright
 superbug
 superbureaucrat
+supercabinet
 supercabinets
 supercargo
 supercargoes
@@ -83177,6 +83204,7 @@ sympetalies
 sympetalous
 symphonic
 symphonically
+symphonious
 symphoniously
 symphonist
 symphonists
@@ -84045,6 +84073,7 @@ teachablenesses
 teachably
 teaching
 teacup
+teacupfuls
 teacups
 teahouse
 teahouses
@@ -89008,6 +89037,7 @@ undergrad
 undergrads
 undergraduate
 undergraduates
+underground
 undergrounder
 undergrounds
 underhand
@@ -89728,6 +89758,7 @@ unlinked
 unlinking
 unlisted
 unlistenable
+unliterary
 unlive
 unlived
 unlively
@@ -91050,6 +91081,7 @@ valentine
 valentines
 valerates
 valerians
+vales
 valeted
 valeting
 valets
@@ -91514,6 +91546,7 @@ venology
 venomed
 venomers
 venomousness
+venomousnesses
 venoms
 vent
 ventage
@@ -94601,6 +94634,7 @@ xebecs
 xenia
 xenial
 xenias
+xenobiotic
 xenobiotics
 xenoblast
 xenocryst
@@ -94754,6 +94788,7 @@ yauped
 yauper
 yaupers
 yaupons
+yaups
 yaw
 yawed
 yawing
