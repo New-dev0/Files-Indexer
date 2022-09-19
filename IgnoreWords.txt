@@ -497,6 +497,7 @@ acock
 acoelomate
 acoelomates
 acolytes
+aconites
 aconitic
 aconitum
 aconitums
@@ -3791,6 +3792,7 @@ appendants
 appendectomies
 appendent
 appendents
+appendicectomy
 appendicitis
 appendicitises
 appendicular
@@ -6966,6 +6968,7 @@ beglamoured
 beglamouring
 beglamours
 begloomed
+beglooming
 begoggled
 begonia
 begonias
@@ -9237,6 +9240,7 @@ bottle
 bottlebrushes
 bottled
 bottlenecks
+bottler
 bottlers
 bottles
 bottlings
@@ -16614,6 +16618,7 @@ conidium
 coniferous
 conifers
 coniine
+coniines
 conioses
 coniosis
 coniums
@@ -20694,6 +20699,7 @@ defecated
 defecates
 defecating
 defecation
+defecations
 defecator
 defect
 defecting
@@ -22777,6 +22783,7 @@ diplodocuses
 diploes
 diploic
 diploid
+diploidic
 diploidies
 diploidy
 diplomacies
@@ -23409,6 +23416,7 @@ disorganize
 disorganized
 disorient
 disorientate
+disorientations
 disorienting
 disorients
 disown
@@ -23441,6 +23449,7 @@ dispensational
 dispensations
 dispensatory
 dispenser
+dispensers
 dispensing
 dispeople
 dispeopled
@@ -23951,6 +23960,7 @@ docudrama
 docudramas
 documentable
 documentalist
+documentarian
 documentarians
 documentarist
 documentation
@@ -24131,6 +24141,7 @@ dominicker
 dominickers
 dominie
 dominies
+dominion
 dominique
 dominiques
 dominium
@@ -28317,6 +28328,7 @@ evulsions
 evzone
 ewe
 ewes
+exabytes
 exacerbate
 exacerbated
 exacerbates
@@ -32437,6 +32449,7 @@ frisette
 friseur
 friseurs
 frisked
+frisker
 friskers
 friskier
 friskiest
@@ -35335,6 +35348,7 @@ gravure
 gravy
 gray
 grayback
+grayest
 grayfishes
 grayhound
 graylag
@@ -36766,6 +36780,7 @@ hardpan
 hardpans
 hardship
 hardstandings
+hardstands
 hardtack
 hardtops
 hardware
@@ -37307,6 +37322,7 @@ heelpost
 heeltap
 heezing
 hefter
+heftiness
 hefting
 hefts
 hegaris
@@ -39781,6 +39797,7 @@ ideogram
 ideogrammic
 ideograms
 ideographic
+ideographically
 ideography
 ideologic
 ideological
@@ -41724,6 +41741,7 @@ inpour
 inpoured
 inpouring
 inpours
+input
 inputs
 inputters
 inputting
@@ -44481,6 +44499,7 @@ kibbutzim
 kibbutznik
 kibbutzniks
 kibe
+kibitzed
 kibitzer
 kibitzers
 kibitzing
@@ -49375,6 +49394,7 @@ meditation
 meditations
 meditative
 meditativeness
+meditator
 meditators
 medium
 mediumship
@@ -56895,6 +56915,7 @@ osmundine
 osmundines
 osmunds
 ossa
+ossature
 ossatures
 osseous
 ossetra
@@ -59732,6 +59753,7 @@ parr
 parrakeet
 parred
 parrels
+parricidal
 parricides
 parring
 parritches
@@ -59877,6 +59899,7 @@ passed
 passee
 passel
 passementerie
+passenger
 passer
 passerine
 passerines
@@ -67333,6 +67356,7 @@ quixotical
 quixotically
 quixotism
 quixotisms
+quixotries
 quixotry
 quizzers
 quizzical
@@ -67405,6 +67429,7 @@ racemizing
 racer
 races
 racetrack
+racetracker
 racetrackers
 racewalk
 racewalkers
@@ -67980,6 +68005,7 @@ raucously
 raucousness
 raucousnesses
 raunch
+raunches
 raunchiest
 raunchiness
 raunchinesses
@@ -71709,6 +71735,7 @@ rheometer
 rheophil
 rheophiles
 rheostatic
+rheostats
 rheotaxis
 rhesus
 rhesuses
@@ -75298,6 +75325,7 @@ sensitizer
 sensitizers
 sensitizing
 sensitometer
+sensitometric
 sensitometries
 sensor
 sensoria
@@ -75434,6 +75462,7 @@ seraphims
 serdab
 sered
 serein
+sereins
 serenade
 serenades
 serenading
@@ -75460,6 +75489,7 @@ serge
 sergeancies
 sergeancy
 sergeant
+serged
 serger
 serging
 serial
@@ -79840,6 +79870,7 @@ squashiest
 squashing
 squat
 squatly
+squatness
 squatnesses
 squatted
 squattered
@@ -85124,6 +85155,7 @@ thermionics
 thermistor
 thermit
 thermites
+thermochemical
 thermochemist
 thermochemistry
 thermochemists
@@ -85944,6 +85976,7 @@ tobacconists
 tobaccos
 toboggan
 tobogganed
+tobogganing
 tobogganist
 tobogganists
 toboggans
@@ -87554,6 +87587,7 @@ troopers
 troopials
 troostite
 troostites
+tropaeolum
 tropaeolums
 trope
 tropeolins
@@ -94858,6 +94892,7 @@ yachting
 yachtings
 yachts
 yachtsman
+yachtsmen
 yacked
 yaffed
 yaffing
