@@ -414,6 +414,7 @@ acetous
 acetoxyls
 acetum
 acetylate
+acetylated
 acetylates
 acetylating
 acetylation
@@ -2408,6 +2409,7 @@ ampere
 amperes
 amperometric
 ampersand
+amphetamine
 amphibia
 amphibian
 amphibians
@@ -10923,6 +10925,7 @@ caftaned
 cage
 cageful
 cagefuls
+cagelike
 cageling
 cagelings
 cagers
@@ -13064,6 +13067,7 @@ charrier
 charring
 charrs
 chars
+chart
 charted
 chartered
 charterer
@@ -14081,6 +14085,7 @@ circularize
 circularness
 circulatable
 circulates
+circulating
 circulation
 circulative
 circulator
@@ -17043,6 +17048,7 @@ convertaplanes
 converter
 convertibility
 convertibly
+converting
 convertiplane
 convertor
 convertors
@@ -20141,6 +20147,7 @@ debagged
 debagging
 debark
 debarked
+debarker
 debarkers
 debarks
 debarment
@@ -20539,6 +20546,7 @@ deerflies
 deerhounds
 deerlike
 deerskin
+deerskins
 deerstalker
 deerstalkers
 deerweeds
@@ -25733,6 +25741,7 @@ elastase
 elastic
 elasticities
 elasticized
+elastomeric
 elastomers
 elatedness
 elater
@@ -30497,6 +30506,7 @@ fists
 fistulas
 fistulate
 fitch
+fitchee
 fitches
 fitchet
 fitchets
@@ -30859,6 +30869,7 @@ fliest
 flight
 flightiest
 flightily
+flightiness
 flightless
 flights
 flighty
@@ -31777,6 +31788,7 @@ formularizer
 formularizes
 formularizing
 formulary
+formulas
 formulate
 formulated
 formulates
@@ -33807,6 +33819,7 @@ getup
 geum
 gewgawed
 geyserites
+gharials
 gharries
 gharris
 gharry
@@ -34836,6 +34849,7 @@ governed
 governess
 governessy
 government
+governmentalist
 governmentalize
 governmentally
 governmentese
@@ -39096,6 +39110,7 @@ hydrophane
 hydrophobic
 hydrophone
 hydrophones
+hydrophyte
 hydrophytes
 hydropic
 hydroplanes
@@ -49684,6 +49699,7 @@ metalmarks
 metalworker
 metalworkers
 metalworks
+metamer
 metameres
 metamerically
 metamerism
@@ -50221,6 +50237,7 @@ militancy
 militants
 militaria
 militarily
+militarise
 militarised
 militarises
 militarising
@@ -51423,6 +51440,7 @@ moldboard
 moldboards
 molded
 molders
+moldier
 moldiness
 moldinesses
 moldwarp
@@ -52785,6 +52803,7 @@ muttonfish
 muttonfishes
 muttony
 mutts
+mutualist
 mutualistic
 mutualists
 mutualities
@@ -56578,6 +56597,7 @@ osmol
 osmolalities
 osmolality
 osmolar
+osmolarities
 osmolarity
 osmols
 osmometer
@@ -57024,6 +57044,7 @@ outjockey
 outjockeyed
 outjockeying
 outjuggle
+outjuggles
 outjump
 outjumped
 outjumps
@@ -58306,6 +58327,7 @@ overutilize
 overutilizing
 overvaluations
 overvalue
+overvaluing
 overvoltage
 overvoltages
 overvote
@@ -60066,6 +60088,7 @@ pedunculate
 peebeen
 peed
 peeing
+peekaboo
 peeking
 peeks
 peel
@@ -61086,6 +61109,7 @@ phenylketonuria
 phenylketonuric
 phenylthioureas
 phenytoin
+phenytoins
 phereses
 pheresis
 pheromonal
@@ -61672,6 +61696,7 @@ pidginized
 pie
 piece
 pieced
+piecemeal
 pieces
 piecework
 piecrusts
@@ -70181,6 +70206,7 @@ reproductives
 reprogrammable
 reprogrammed
 reprogramming
+reprographers
 reprographic
 reprographics
 reprographies
@@ -74595,6 +74621,7 @@ seisors
 seitans
 seizer
 seizers
+seizin
 seizins
 seizure
 seizures
@@ -77379,6 +77406,7 @@ smaragde
 smaragdes
 smaragdite
 smaragdites
+smaragds
 smarm
 smarmier
 smarminesses
@@ -81397,6 +81425,7 @@ subsoils
 subsolar
 subsonically
 subspace
+subspaces
 subspecialist
 subspecialize
 subspecializes
@@ -81817,6 +81846,7 @@ summerwood
 summerwoods
 summery
 summit
+summital
 summited
 summiteer
 summiting
@@ -81990,6 +82020,7 @@ supercriminal
 supercriminals
 supercurrent
 superdiplomat
+supered
 supereffective
 superefficiency
 superefficient
@@ -82282,6 +82313,7 @@ suppressing
 suppression
 suppressors
 suppurate
+suppurated
 suppurations
 supramolecular
 supraorbital
@@ -82408,6 +82440,7 @@ surrogated
 surrogating
 surrounding
 surrounds
+surroyals
 surtax
 surtaxes
 surtitle
@@ -85311,6 +85344,7 @@ tingly
 tings
 tinhorn
 tinier
+tiniest
 tinily
 tininess
 tinker
@@ -92948,6 +92982,7 @@ weldor
 weldors
 welfarism
 welfarist
+welfarists
 welkin
 well
 welladays
