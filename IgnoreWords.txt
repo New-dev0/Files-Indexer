@@ -4648,6 +4648,7 @@ assimilatory
 assistance
 assistances
 assistant
+assistants
 assistantship
 assister
 assistive
@@ -5599,6 +5600,7 @@ babysit
 babysits
 bacalao
 bacca
+baccae
 baccalaureate
 baccara
 baccaras
@@ -16004,6 +16006,7 @@ completeness
 completers
 completion
 completive
+complex
 complexations
 complexest
 complexified
@@ -17784,6 +17787,7 @@ coulters
 coumaric
 coumarou
 coumarous
+council
 councillor
 councillors
 councilmanic
@@ -19217,6 +19221,7 @@ curetting
 curfew
 curfews
 curfs
+curial
 curios
 curiosa
 curious
@@ -25866,6 +25871,7 @@ electrosurgery
 electrosurgical
 electrotherapy
 electrotonic
+electrotonuses
 electrotype
 electrotyped
 electrotyper
@@ -30163,6 +30169,7 @@ fighting
 fightings
 fights
 figments
+figs
 figuline
 figulines
 figurate
@@ -36389,6 +36396,7 @@ hammering
 hammerkop
 hammerkops
 hammerless
+hammerlock
 hammerlocks
 hammers
 hammertoes
@@ -37872,6 +37880,7 @@ hindquarter
 hindrance
 hindrances
 hinds
+hindshank
 hindsight
 hinge
 hinged
@@ -37902,6 +37911,7 @@ hippish
 hippo
 hippocampal
 hippocampi
+hippocrases
 hippodrome
 hippodromes
 hippogriffs
@@ -40706,6 +40716,7 @@ inconspicuous
 inconspicuously
 inconstancies
 inconstancy
+inconstant
 inconstantly
 inconsumably
 incontestable
@@ -40766,6 +40777,7 @@ incrustations
 incrusted
 incrusting
 incrusts
+incubate
 incubated
 incubates
 incubation
@@ -42404,6 +42416,7 @@ intrados
 intradoses
 intramolecular
 intramurally
+intranasal
 intranets
 intransigeances
 intransigeantly
@@ -45785,6 +45798,7 @@ lederhosen
 ledge
 ledger
 ledgers
+ledges
 ledgier
 ledgiest
 ledgy
@@ -55899,6 +55913,7 @@ oghamic
 ogives
 ogle
 ogled
+oglers
 ogles
 ogre
 ogreish
@@ -56275,6 +56290,7 @@ oppidan
 oppidans
 oppilant
 oppilate
+oppilates
 oppilating
 opponencies
 opponency
@@ -58908,6 +58924,7 @@ palmer
 palmers
 palmerworm
 palmette
+palmettes
 palmetto
 palmettoes
 palming
@@ -59804,6 +59821,7 @@ pathlessness
 pathlessnesses
 pathobiologies
 pathogene
+pathogeneses
 pathogenies
 pathogens
 pathognomonic
@@ -61400,6 +61418,7 @@ photocompose
 photocomposed
 photocomposer
 photocomposes
+photoconductive
 photocopied
 photocopies
 photocopying
@@ -64639,6 +64658,7 @@ prese
 preseasons
 preselecting
 preselection
+preselects
 present
 presentable
 presentableness
@@ -67003,6 +67023,7 @@ quinate
 quincentennial
 quinces
 quincunx
+quincunxes
 quincunxial
 quindecillions
 quinela
@@ -67458,6 +67479,7 @@ ramillie
 rammed
 rammer
 rammier
+ramming
 rammish
 rammy
 ramona
@@ -68611,6 +68633,7 @@ redating
 redbaited
 redbaiter
 redbaiters
+redbaiting
 redbay
 redbird
 redbirds
@@ -72065,6 +72088,7 @@ rollicky
 rolling
 rollings
 rollmop
+rollout
 rollouts
 rollover
 rolls
@@ -74790,6 +74814,7 @@ selsyns
 seltzers
 selva
 selvage
+selvaged
 selvas
 selvedge
 selvedges
@@ -76868,6 +76893,7 @@ skepticisms
 skeptics
 skerries
 skerry
+sketchbook
 sketchbooks
 sketchier
 sketchpads
@@ -77564,6 +77590,7 @@ smew
 smidgeon
 smidges
 smidgin
+smiercase
 smiercases
 smilaxes
 smile
@@ -85134,6 +85161,7 @@ thrones
 thronged
 throning
 throttled
+throttlers
 throttles
 throttling
 through
@@ -86899,6 +86927,7 @@ trickish
 trickishnesses
 trickle
 trickles
+tricklier
 trickling
 trickly
 tricksier
@@ -87372,6 +87401,7 @@ trumpery
 trumpet
 trumpeted
 trumpeter
+trumping
 truncating
 truncations
 truncheon
@@ -88231,6 +88261,7 @@ unabjured
 unable
 unabraded
 unabsorbed
+unabsorbent
 unabused
 unabusive
 unacademic
@@ -89527,6 +89558,7 @@ unlade
 unladen
 unlades
 unlading
+unlash
 unlashed
 unlashes
 unlashing
@@ -91805,6 +91837,7 @@ vincible
 vincula
 vinculum
 vinculums
+vindaloos
 vindicable
 vindicates
 vindicating
@@ -91968,6 +92001,7 @@ visitations
 visited
 visiter
 visiting
+visitor
 visits
 visor
 visored
@@ -92968,6 +93002,7 @@ weatherboarded
 weatherboarding
 weatherboards
 weathercast
+weathercasters
 weathered
 weatherglass
 weatherglasses
