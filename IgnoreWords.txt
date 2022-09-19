@@ -467,6 +467,7 @@ acidity
 acidness
 acidnesses
 acidophil
+acidophilic
 acidophils
 acidosis
 acidotic
@@ -4475,6 +4476,7 @@ ascribe
 ascribed
 ascribes
 ascribing
+ascriptions
 ascus
 asdic
 asdics
@@ -6086,6 +6088,7 @@ banjaxed
 banjaxes
 banjoist
 banjos
+bankability
 bankable
 bankbook
 bankcard
@@ -6286,6 +6289,7 @@ barracudas
 barrage
 barraged
 barraging
+barramundas
 barramundi
 barramundis
 barranca
@@ -13368,6 +13372,7 @@ chertiest
 cherts
 cherub
 cherubic
+chervils
 cheshires
 chessboard
 chessboards
@@ -14417,6 +14422,7 @@ clasps
 claspt
 classable
 classed
+classers
 classes
 classic
 classical
@@ -22516,6 +22522,7 @@ dights
 digital
 digitalin
 digitalins
+digitalis
 digitalizations
 digitalizing
 digitally
@@ -25414,6 +25421,7 @@ eavesdropped
 eavesdropper
 eavesdropping
 ebbing
+ebbs
 ebon
 ebonics
 ebonies
@@ -27318,6 +27326,7 @@ epidemiologist
 epidemiologists
 epidemiology
 epidermic
+epidermises
 epidermoid
 epiderms
 epididymal
@@ -28207,6 +28216,7 @@ evening
 evenings
 evenness
 evens
+evensong
 evensongs
 event
 eventful
@@ -30217,6 +30227,7 @@ fiefdom
 fiefdoms
 fiefs
 fielded
+fielder
 fieldfare
 fieldfares
 fielding
@@ -34382,6 +34393,7 @@ glib
 glibber
 glibbest
 glibness
+glibnesses
 glide
 glided
 glidepath
@@ -41322,6 +41334,7 @@ infesters
 infesting
 infidelic
 infielder
+infielders
 infields
 infighters
 infightings
@@ -42520,6 +42533,7 @@ intracellularly
 intracity
 intracompany
 intracranial
+intractable
 intractably
 intraday
 intradermally
@@ -43689,6 +43703,7 @@ jocular
 jocularities
 jocund
 jocundity
+jocundly
 jodhpurs
 joes
 joey
@@ -45130,6 +45145,7 @@ lactations
 lacteal
 lacteally
 lacteals
+lactean
 lactiferous
 lactobacillus
 lactones
@@ -45711,6 +45727,7 @@ lavalike
 lavallieres
 lavash
 lavashes
+lavation
 lavatories
 lave
 laved
@@ -48006,6 +48023,7 @@ madmen
 madness
 madnesses
 madrasahs
+madrassa
 madrassah
 madre
 madrepore
@@ -51015,6 +51033,7 @@ misease
 miseating
 misedit
 misedited
+misediting
 miseducates
 miseducation
 miseducations
@@ -52937,6 +52956,7 @@ muskeg
 muskegs
 musket
 musketeer
+musketeers
 musketry
 muskets
 muskie
@@ -63592,6 +63612,7 @@ porkpie
 porky
 pornier
 porno
+pornographer
 pornographies
 poromerics
 porose
@@ -64148,6 +64169,7 @@ preadaptation
 preadaptations
 preadaptive
 preadjusting
+preadmission
 preadmit
 preadmitted
 preadmitting
@@ -64402,6 +64424,7 @@ predisposed
 prednisolone
 prednisolones
 prednisone
+prednisones
 predominances
 predominancy
 predominant
@@ -65908,6 +65931,7 @@ protectresses
 proteges
 protei
 proteides
+proteinaceous
 proteinic
 proteinurias
 protend
@@ -67884,6 +67908,7 @@ rationalizable
 rationalizes
 rationalizing
 rationalness
+rationalnesses
 rationed
 rationing
 rations
@@ -72291,6 +72316,7 @@ romaine
 romaines
 romancers
 romancing
+romanised
 romanises
 romanising
 romanizations
@@ -72528,6 +72554,7 @@ roughnecking
 roughnecks
 roughrider
 roughriders
+roughs
 rouille
 roulade
 roulades
@@ -75955,6 +75982,7 @@ shellfisheries
 shellfishery
 shellfishes
 shellier
+shelliest
 shelta
 sheltas
 shelter
@@ -84706,6 +84734,7 @@ termor
 terms
 termtime
 termtimes
+tern
 ternary
 ternate
 ternately
@@ -85682,6 +85711,7 @@ timing
 timocracies
 timocracy
 timocratic
+timocratical
 timorously
 timpani
 timpanists
@@ -86897,6 +86927,7 @@ traverser
 travertine
 travertines
 travesties
+travesty
 travestying
 travoise
 travoises
@@ -87458,6 +87489,7 @@ trois
 troke
 troked
 troking
+troll
 trolled
 trollers
 trolley
@@ -89639,6 +89671,7 @@ uniformitarians
 uniformness
 uniformnesses
 unify
+unilaterally
 unilingual
 unillusioned
 unilobed
@@ -92275,6 +92308,7 @@ vitamines
 vitamins
 vitellin
 vitellins
+vitellogeneses
 vitelluses
 vitiable
 vitiate
@@ -94815,6 +94849,7 @@ yang
 yantra
 yantras
 yap
+yapok
 yapoks
 yapons
 yaps
