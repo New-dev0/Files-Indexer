@@ -386,6 +386,7 @@ acervuli
 aces
 acescent
 aceta
+acetabular
 acetabulum
 acetaldehydes
 acetals
@@ -910,6 +911,7 @@ adulterators
 adulterers
 adulteresses
 adulteries
+adulterine
 adultery
 adulthood
 adultness
@@ -5722,6 +5724,7 @@ backstabs
 backstage
 backstamped
 backstamps
+backstay
 backstitches
 backstop
 backstopping
@@ -7656,6 +7659,7 @@ bigoses
 bigot
 bigotedly
 bigotry
+bigtime
 bigwig
 bigwigs
 bihourly
@@ -14004,6 +14008,7 @@ cicoree
 cicorees
 cider
 ciders
+cig
 cigar
 cigaret
 cigarettes
@@ -16686,6 +16691,7 @@ considerables
 considerably
 considerate
 consideration
+considerations
 considers
 consign
 consignable
@@ -23022,6 +23028,7 @@ discover
 discoverable
 discovered
 discoverer
+discoveries
 discovers
 discovert
 discovery
@@ -26399,6 +26406,7 @@ encephalopathy
 enchain
 enchained
 enchainment
+enchains
 enchant
 enchanter
 enchanters
@@ -30271,6 +30279,7 @@ filthiness
 filthinesses
 filths
 filtrated
+filtrating
 fimbrial
 fimbriate
 fimbriation
@@ -31188,6 +31197,7 @@ fluorometric
 fluorometries
 fluorometry
 fluoroscopes
+fluoroscopic
 fluoroscoping
 fluoroscopist
 fluoroscopists
@@ -33428,6 +33438,7 @@ gawkishly
 gawpers
 gawps
 gawsie
+gawsy
 gayals
 gaydar
 gaydars
@@ -35541,6 +35552,7 @@ groundmasses
 groundouts
 groundsels
 groundsheets
+groundskeepers
 groundsman
 groundswell
 groundswells
@@ -35695,6 +35707,7 @@ guarddog
 guarded
 guardedly
 guardedness
+guardednesses
 guarder
 guarders
 guardhouse
@@ -36133,6 +36146,7 @@ haemal
 haematal
 haematic
 haematin
+haematins
 haematite
 haemic
 haemin
@@ -37402,6 +37416,7 @@ hendecasyllable
 hendiadys
 hendiadyses
 henequen
+henequins
 henge
 henges
 henhouse
@@ -43412,6 +43427,7 @@ jetbead
 jetfoils
 jetlags
 jetlike
+jetliner
 jeton
 jetport
 jetports
@@ -44760,6 +44776,7 @@ koumis
 koumises
 koumysses
 kouprey
+koupreys
 kouros
 koussos
 kowtower
@@ -44923,6 +44940,7 @@ labrets
 labroids
 labrum
 labrusca
+labs
 laburnums
 labyrinthine
 labyrinthodonts
@@ -48830,6 +48848,7 @@ matcher
 matching
 matchless
 matchlessly
+matchlocks
 matchmake
 matchmaker
 matchmakers
@@ -49654,6 +49673,7 @@ mesosomes
 mesospheric
 mesotheliomata
 mesothoracic
+mesothorax
 mesothoraxes
 mesotron
 mesotrons
@@ -50436,6 +50456,7 @@ mincier
 minciest
 mincy
 mind
+minded
 mindedness
 mindful
 mindfully
@@ -53622,6 +53643,7 @@ nereid
 nereids
 nerol
 neroli
+nertz
 nervations
 nervature
 nerved
@@ -55470,6 +55492,7 @@ oblatenesses
 oblations
 oblatory
 obligated
+obligately
 obligates
 obligation
 obligations
@@ -57519,6 +57542,7 @@ outwill
 outwilling
 outwind
 outwinded
+outwinds
 outwish
 outwished
 outwishes
@@ -58100,6 +58124,7 @@ overpedal
 overpedalling
 overpeopled
 overpeoples
+overpeopling
 overpersuade
 overpersuades
 overpersuasion
@@ -61011,6 +61036,7 @@ petrologists
 petrology
 petrols
 pets
+petsais
 pettable
 pettedly
 petters
@@ -73380,6 +73406,7 @@ satanism
 satanists
 satays
 satcheled
+satchelfuls
 satchels
 sateen
 sateens
@@ -77460,6 +77487,7 @@ sluttier
 sluttiest
 sluttish
 slutty
+sly
 slyer
 slyness
 slynesses
@@ -79009,6 +79037,7 @@ spinals
 spinate
 spindle
 spindler
+spindles
 spindlier
 spindliest
 spindrifts
@@ -85066,6 +85095,7 @@ thrillers
 thrilling
 thrillingly
 thrip
+thrips
 thrive
 thrived
 thriven
@@ -89200,6 +89230,7 @@ unfrock
 unfrocked
 unfroze
 unfrozen
+unfruitful
 unfunded
 unfurling
 unfurls
@@ -90247,6 +90278,7 @@ unwariness
 unwarinesses
 unwarped
 unwarranted
+unwasheds
 unwatched
 unwavering
 unwaveringly
@@ -90361,6 +90393,7 @@ updating
 updived
 updives
 updiving
+updove
 updraft
 upending
 upflinging
@@ -92902,6 +92935,7 @@ weals
 wealthier
 wealthiness
 wealthy
+weaned
 weaning
 weanling
 weanlings
@@ -93844,6 +93878,7 @@ wisting
 wists
 wit
 witans
+witch
 witchcrafts
 witched
 witches
