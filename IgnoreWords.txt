@@ -2328,6 +2328,7 @@ aminopeptidase
 aminophylline
 aminopterin
 aminopterins
+aminopyrine
 aminopyrines
 amins
 amirates
@@ -2342,6 +2343,7 @@ ammocetes
 ammoniac
 ammoniacal
 ammoniacs
+ammoniate
 ammoniates
 ammoniating
 ammoniation
@@ -6301,6 +6303,7 @@ barrettes
 barricade
 barricaded
 barricades
+barricadoed
 barricadoes
 barricadoing
 barricados
@@ -12983,6 +12986,7 @@ chapbooks
 chape
 chapeaus
 chapel
+chapels
 chaperonage
 chaperonages
 chaperone
@@ -13278,6 +13282,7 @@ chelating
 chelations
 chelicera
 chelicerae
+chelipeds
 cheloid
 cheloids
 chelonian
@@ -13912,6 +13917,7 @@ chucked
 chuckies
 chucking
 chuckle
+chucklehead
 chuckleheaded
 chuckleheads
 chuckler
@@ -15413,6 +15419,7 @@ coleorhiza
 coleorhizae
 coles
 coleseeds
+coleslaws
 colessee
 colessor
 coleus
@@ -16280,6 +16287,7 @@ concretizing
 concubinages
 concupiscence
 concupiscences
+concur
 concurred
 concurrence
 concurrencies
@@ -21524,6 +21532,7 @@ deraigned
 deraigning
 derailing
 derailleurs
+derangers
 deranging
 derat
 derate
@@ -25626,6 +25635,7 @@ effervesce
 effervescences
 effervescent
 effervesces
+effervescing
 effete
 effetenesses
 efficacities
@@ -26037,6 +26047,7 @@ emancipators
 emasculate
 emasculating
 emasculations
+emasculator
 emasculators
 embalm
 embalmed
@@ -28768,6 +28779,7 @@ exposits
 expostulatory
 exposures
 expounders
+expounding
 expounds
 expressage
 expressages
@@ -30511,6 +30523,7 @@ fisher
 fisherfolk
 fishermen
 fishery
+fishes
 fisheye
 fisheyes
 fishgig
@@ -31765,6 +31778,7 @@ forgeries
 forges
 forgetful
 forgetfulness
+forgetfulnesses
 forgetive
 forgets
 forgettable
@@ -35761,6 +35775,7 @@ guernseys
 guerrilla
 guerrillas
 guessable
+guessed
 guesser
 guessers
 guesses
@@ -36235,6 +36250,7 @@ hail
 hails
 hailstone
 hailstorm
+hailstorms
 haimish
 haint
 hairball
@@ -45824,6 +45840,7 @@ leeboards
 leech
 leeches
 leek
+leeks
 leer
 leerily
 leeriness
@@ -51394,6 +51411,7 @@ mobbishly
 mobbism
 mobcap
 mobcaps
+mobiles
 mobilises
 mobilities
 mobility
@@ -53358,6 +53376,7 @@ naughtinesses
 naumachia
 naumachiae
 naumachies
+nauplial
 nauplius
 nausea
 nauseant
@@ -56958,6 +56977,7 @@ outcoach
 outcoaching
 outcome
 outcomes
+outcompetes
 outcook
 outcooking
 outcooks
@@ -59212,6 +59232,7 @@ papistic
 papistries
 papists
 papovaviruses
+pappadam
 pappoose
 pappooses
 pappous
@@ -62004,6 +62025,7 @@ pineal
 pinealectomize
 pinealectomized
 pineapple
+pinecone
 pinecones
 pineland
 pinelike
@@ -63258,6 +63280,7 @@ polytheistic
 polytheistical
 polythene
 polythenes
+polytonal
 polytonalities
 polytonality
 polytype
@@ -65005,6 +65028,7 @@ primage
 primages
 primal
 primaries
+primarily
 primary
 primatal
 primatals
@@ -69597,6 +69621,7 @@ rejective
 rejector
 rejectors
 rejects
+rejig
 rejigged
 rejiggered
 rejiggers
@@ -73679,6 +73704,7 @@ scaleni
 scalepan
 scaler
 scales
+scaletail
 scaletails
 scaleups
 scalier
@@ -75036,6 +75062,7 @@ sensately
 sensating
 sensational
 sensationalise
+sensationalised
 sensationalises
 sensationalisms
 sensationalist
@@ -76098,6 +76125,7 @@ shorewards
 shoring
 shorings
 shorl
+shorls
 short
 shortage
 shortchanger
@@ -79743,6 +79771,7 @@ stack
 stacked
 stacker
 stacking
+stackless
 stacks
 stackups
 stacte
@@ -80058,6 +80087,7 @@ steadiers
 steadies
 steadiest
 steadiness
+steading
 steadings
 steads
 steaks
@@ -82126,6 +82156,7 @@ superabsorbents
 superabundance
 superabundances
 superabundant
+superabundantly
 superachievers
 superactivity
 superadd
@@ -83997,6 +84028,7 @@ teaser
 teasers
 teases
 teashop
+teashops
 teasing
 teasingly
 teaspoonful
@@ -84297,6 +84329,7 @@ tempts
 ten
 tenabilities
 tenability
+tenable
 tenablenesses
 tenably
 tenaces
@@ -89772,6 +89805,7 @@ unpeopled
 unpeoples
 unperceived
 unperceptive
+unperformed
 unpersuaded
 unpersuasive
 unpick
@@ -90540,6 +90574,7 @@ uppityness
 uppropped
 upraise
 upraised
+upraises
 upraising
 uprated
 uprates
