@@ -1037,6 +1037,7 @@ aerobiological
 aerobiology
 aerobioses
 aerobiosis
+aerobrake
 aerobraked
 aerobrakes
 aerodrome
@@ -2739,6 +2740,7 @@ aneled
 aneles
 anemia
 anemic
+anemographs
 anemologies
 anemology
 anemometer
@@ -3069,6 +3071,7 @@ anthelixes
 anthelmintic
 anthelmintics
 anthemed
+anthemia
 anthemic
 antheming
 anthemion
@@ -11116,6 +11119,7 @@ calipees
 calipers
 caliph
 caliphal
+calisayas
 calisthenic
 calix
 calk
@@ -15774,6 +15778,7 @@ comeliest
 comelily
 comeliness
 comembers
+comer
 comestible
 comet
 comethers
@@ -16161,6 +16166,7 @@ computerised
 computerises
 computerising
 computerist
+computerists
 computerizable
 computerize
 computerized
@@ -16293,6 +16299,7 @@ conclusory
 concocted
 concocter
 concocting
+concoctive
 concoctors
 concocts
 concomitance
@@ -19375,6 +19382,7 @@ cushats
 cushaws
 cushily
 cushiness
+cushioning
 cushions
 cushiony
 cusp
@@ -19774,6 +19782,7 @@ dagos
 daguerreotypies
 daguerreotyping
 daguerreotypist
+daguerreotypy
 dah
 dahabeahs
 dahabiah
@@ -23165,6 +23174,7 @@ disencumbers
 disendowed
 disendowers
 disendowing
+disendowment
 disendowments
 disenfranchise
 disenfranchised
@@ -24218,6 +24228,7 @@ dorado
 dorbeetles
 dorbugs
 dore
+dorhawk
 dories
 dorkier
 dorkinesses
@@ -25124,6 +25135,7 @@ durrs
 durst
 dusk
 dusked
+duskinesses
 dusking
 dusks
 dustbin
@@ -30389,6 +30401,7 @@ finca
 finch
 find
 finder
+finders
 finding
 findings
 fine
@@ -36918,6 +36931,7 @@ haunch
 haunches
 haunt
 haunted
+haunter
 haunting
 hauntingly
 haunts
@@ -39532,6 +39546,7 @@ hypocrites
 hypocritical
 hypocritically
 hypocycloids
+hypoderm
 hypoderma
 hypodermically
 hypodermis
@@ -43492,6 +43507,7 @@ jennets
 jeon
 jeopardies
 jeopardised
+jeopardises
 jeopardize
 jeopardized
 jeopardizes
@@ -44915,6 +44931,7 @@ krone
 kroner
 kroon
 krubut
+krullers
 krumhorn
 krumhorns
 krumkakes
@@ -46019,6 +46036,7 @@ legumin
 leguminous
 legumins
 legwarmer
+legwork
 lehayims
 lehr
 lehua
@@ -53027,6 +53045,7 @@ mycelia
 mycelian
 mycelium
 myceloid
+mycetoma
 mycetomas
 mycetomata
 mycetomatous
@@ -53816,6 +53835,7 @@ netlike
 netminder
 netop
 netops
+netsuke
 netsukes
 nettable
 netter
@@ -54691,6 +54711,7 @@ nonglazed
 nongolfers
 nongonococcal
 nongraded
+nongraduate
 nongranular
 nongreen
 nongregarious
@@ -54902,6 +54923,7 @@ nonplayer
 nonplays
 nonpliant
 nonplus
+nonplused
 nonplussed
 nonplusses
 nonpoetic
@@ -55145,6 +55167,7 @@ normless
 normotensive
 normothermias
 normothermic
+northbound
 northeasterly
 northeastern
 northeasts
@@ -55236,6 +55259,7 @@ nother
 nothing
 nothingness
 nothingnesses
+nothings
 noticeable
 noticed
 noticers
@@ -57177,6 +57201,7 @@ outflank
 outflanks
 outflies
 outfloated
+outfloats
 outflowing
 outflown
 outflows
@@ -58360,6 +58385,7 @@ oversalted
 oversalts
 oversanguine
 oversaturate
+oversaturated
 oversaturates
 oversaturation
 oversaturations
@@ -58546,6 +58572,7 @@ overurges
 overuse
 overusing
 overutilize
+overutilizes
 overutilizing
 overvaluations
 overvalue
@@ -62242,6 +62269,7 @@ pipeless
 pipelike
 pipeline
 pipelined
+piper
 piperazine
 piperines
 piperonals
@@ -64234,6 +64262,7 @@ prechosen
 precieux
 precincts
 preciosity
+preciousnesses
 precipes
 precipice
 precipices
@@ -69491,6 +69520,7 @@ regroove
 regrooved
 regrooves
 regrooving
+regrouping
 regroups
 regrows
 regrowths
@@ -70073,6 +70103,7 @@ remotivations
 remoulade
 remounted
 removabilities
+removableness
 removablenesses
 removably
 removals
@@ -71691,6 +71722,7 @@ rhombical
 rhombohedra
 rhomboidal
 rhomboideus
+rhombs
 rhombus
 rhonchi
 rhonchus
@@ -84062,6 +84094,7 @@ tawsing
 tax
 taxa
 taxably
+taxation
 taxations
 taxemes
 taxemic
@@ -89233,6 +89266,7 @@ undidactic
 undigested
 undigestible
 undiluted
+undines
 undiplomatic
 undirected
 undisciplined
@@ -94695,6 +94729,7 @@ xeriscapes
 xeroderma
 xerodermae
 xerodermas
+xerographically
 xerographies
 xerography
 xerophilous
