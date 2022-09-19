@@ -411,6 +411,7 @@ acetin
 acetone
 acetones
 acetonic
+acetonitriles
 acetophenetidin
 acetous
 acetoxyls
@@ -869,6 +870,7 @@ adoptability
 adoptee
 adoptees
 adopters
+adoptionisms
 adoptionist
 adopts
 adorability
@@ -3513,6 +3515,7 @@ antonymies
 antonymous
 antonyms
 antra
+antrorse
 antrum
 antsiness
 antsinesses
@@ -3831,6 +3834,7 @@ appointor
 appoints
 apportionable
 apportioned
+apportionment
 apportions
 apposable
 appose
@@ -4662,6 +4666,7 @@ assistive
 assistor
 assists
 assizes
+asslike
 associateship
 associateships
 associating
@@ -7239,6 +7244,7 @@ benzoles
 benzophenone
 benzophenones
 benzoyls
+bepaint
 bepainting
 bepaints
 bepimple
@@ -12261,6 +12267,7 @@ categorically
 categorised
 categorises
 categorising
+categorization
 categorize
 catena
 catenae
@@ -12932,6 +12939,7 @@ chancer
 chanceries
 chancier
 chanciest
+chanciness
 chancinesses
 chancing
 chancre
@@ -13989,6 +13997,7 @@ churls
 churned
 churning
 churnings
+churns
 churr
 churrs
 chute
@@ -17309,6 +17318,7 @@ coproprietors
 coprosperity
 copse
 copses
+copter
 copublish
 copublished
 copublishing
@@ -19708,6 +19718,7 @@ dacron
 dactylic
 dactylology
 dactylus
+dada
 dadaisms
 dadaist
 dadaistic
@@ -25628,6 +25639,7 @@ effacing
 effect
 effected
 effectively
+effectiveness
 effector
 effectors
 effects
@@ -28981,6 +28993,7 @@ extraversion
 extravert
 extraverts
 extreme
+extremely
 extremeness
 extremenesses
 extremism
@@ -34218,6 +34231,7 @@ glairs
 glairy
 glaive
 glaived
+glam
 glamorise
 glamorised
 glamorization
@@ -35179,6 +35193,7 @@ graspers
 graspingly
 graspingness
 graspingnesses
+grass
 grasshopper
 grasshoppers
 grassier
@@ -35872,6 +35887,7 @@ gulled
 gullet
 gullets
 gulleys
+gullibility
 gulling
 gulls
 gullying
@@ -36904,6 +36920,7 @@ havers
 haversack
 havior
 haviour
+havocker
 havockers
 havocking
 hawala
@@ -38524,6 +38541,7 @@ hooplas
 hoopless
 hoopoe
 hoopoos
+hoops
 hoopskirts
 hoopster
 hoopsters
@@ -43695,6 +43713,7 @@ jolts
 jomon
 jones
 jonesed
+joneses
 jonesing
 jonnycake
 joram
@@ -47230,6 +47249,7 @@ looker
 lookers
 lookout
 lookouts
+looks
 looksism
 lookup
 lookups
@@ -52714,6 +52734,7 @@ mummifies
 mummify
 mumming
 mumms
+mump
 mumper
 mumping
 mums
@@ -59978,6 +59999,7 @@ pattypans
 patulent
 paucities
 paucity
+paulownia
 paulownias
 paunch
 paunched
@@ -60428,6 +60450,7 @@ penicillinase
 penicillins
 penicillium
 penicils
+peninsulas
 penitence
 penitences
 penitent
@@ -60436,6 +60459,7 @@ penitently
 penitents
 penknife
 penknives
+penlight
 penlites
 penman
 penmanship
@@ -63662,6 +63686,7 @@ postembryonal
 postembryonic
 poster
 posterior
+posteriorities
 posteriority
 posterities
 posterns
@@ -66944,6 +66969,7 @@ quarters
 quarterstaff
 quarterstaves
 quartette
+quartettes
 quartiers
 quartile
 quarto
@@ -68021,6 +68047,7 @@ realized
 realizers
 realizes
 reallocate
+reallocation
 reallocations
 reallot
 reallots
@@ -68922,6 +68949,7 @@ reduplicates
 reduplicating
 reduplication
 reduplications
+reduplicative
 redwares
 redwing
 redwood
@@ -69386,6 +69414,7 @@ regrades
 regrading
 regrafted
 regrafting
+regrafts
 regranting
 regrants
 regrated
@@ -71717,6 +71746,7 @@ riddles
 ride
 rideable
 riders
+riderships
 rides
 ridgeback
 ridgebacks
@@ -77639,6 +77669,7 @@ smartass
 smarter
 smarties
 smartness
+smartnesses
 smartweed
 smartweeds
 smash
@@ -85779,6 +85810,7 @@ toea
 toeas
 toed
 toehold
+toeholds
 toeless
 toelike
 toenailing
@@ -87186,6 +87218,7 @@ tripled
 triples
 triplet
 tripletail
+tripletails
 triplets
 triplexes
 triplicate
@@ -87674,6 +87707,7 @@ tumbrels
 tumbrils
 tumefactions
 tumefies
+tumefy
 tumefying
 tumesced
 tumescence
@@ -87916,6 +87950,7 @@ twaes
 twain
 twanged
 twangers
+twangiest
 twanging
 twangle
 twangled
