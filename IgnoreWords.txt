@@ -2032,6 +2032,7 @@ alpha
 alphabet
 alphabeted
 alphabetic
+alphabetical
 alphabetically
 alphabeting
 alphabetization
@@ -6344,6 +6345,7 @@ basic
 basicity
 basidiomycetes
 basidiomycetous
+basifiers
 basifixed
 basifying
 basilar
@@ -8940,6 +8942,7 @@ bonniness
 bonninesses
 bonnocks
 bonny
+bonnyclabbers
 bonobo
 bonsai
 bonspell
@@ -17410,6 +17413,7 @@ cornbread
 corncake
 corncakes
 corncrakes
+corncrib
 corncribs
 corneal
 corned
@@ -17901,6 +17905,7 @@ countersigning
 countersink
 countersinking
 countersniper
+counterspells
 counterspy
 counterstaining
 counterstated
@@ -19817,6 +19822,7 @@ damps
 damselfish
 damselfishes
 damselflies
+damsons
 danazol
 danazols
 dance
@@ -25368,6 +25374,7 @@ echinoderms
 echinus
 echiuroid
 echiuroids
+echo
 echoed
 echograms
 echoic
@@ -28365,6 +28372,7 @@ excuses
 execrable
 execrablenesses
 execrate
+execrated
 execrates
 execrating
 execration
@@ -31454,6 +31462,7 @@ footpads
 footpath
 footrace
 footrest
+footrests
 footrope
 foots
 footsie
@@ -32651,6 +32660,7 @@ fur
 furane
 furanose
 furanoside
+furazolidone
 furbearer
 furbearers
 furbelowed
@@ -36817,6 +36827,7 @@ hawkie
 hawking
 hawkings
 hawkishness
+hawklike
 hawkmoth
 hawkmoths
 hawknose
@@ -37215,6 +37226,7 @@ hellions
 hellish
 hellishly
 hellishness
+hellkite
 helloed
 helloes
 helloing
@@ -40448,6 +40460,7 @@ inaudibility
 inaudible
 inaudibly
 inaugurate
+inaugurated
 inaugurates
 inaugurating
 inauguration
@@ -46104,6 +46117,7 @@ lezzy
 liabilities
 liaise
 liaising
+liane
 lianes
 liangs
 liard
@@ -50837,6 +50851,7 @@ misevaluate
 misevaluated
 misevaluation
 misfeasance
+misfeasors
 misfeed
 misfeeding
 misfielded
@@ -52600,6 +52615,7 @@ municipalizes
 municipally
 municipals
 munificence
+munificences
 munificently
 muniments
 munis
@@ -55802,6 +55818,7 @@ offkey
 offline
 offload
 offloads
+offprint
 offprinted
 offramp
 offscourings
@@ -58310,6 +58327,7 @@ overtrades
 overtrading
 overtrain
 overtreat
+overtreating
 overtreatment
 overtreatments
 overtrimming
@@ -60955,6 +60973,7 @@ pets
 pettable
 pettedly
 petters
+petticoats
 pettiest
 pettifogged
 pettifoggeries
@@ -61370,6 +61389,7 @@ photomaps
 photomask
 photomasks
 photomechanical
+photometer
 photometers
 photometrically
 photometry
@@ -63671,6 +63691,7 @@ potshard
 potshards
 potshot
 potshots
+potsie
 potsies
 potstones
 pottage
@@ -70784,6 +70805,7 @@ resurfacer
 resurfacers
 resurfacing
 resurged
+resurgence
 resurgent
 resurges
 resurging
@@ -71357,6 +71379,7 @@ rhetorically
 rhetorician
 rheum
 rheumatically
+rheumatics
 rheumatism
 rheumatisms
 rheumatiz
@@ -73199,6 +73222,7 @@ sapors
 sapour
 sapphire
 sapphism
+sapphists
 sappiest
 sappiness
 sappinesses
@@ -74608,6 +74632,7 @@ seismogram
 seismographic
 seismographies
 seismographs
+seismography
 seismological
 seismologist
 seismologists
@@ -78709,6 +78734,7 @@ spectre
 spectres
 spectrograms
 spectrographic
+spectrographies
 spectrometers
 spectrometries
 spectroscope
@@ -79546,6 +79572,7 @@ sris
 stab
 stabber
 stabbers
+stabilise
 stabilised
 stabilises
 stabilising
@@ -82828,6 +82855,7 @@ syli
 sylis
 syllabaries
 syllabi
+syllabic
 syllabically
 syllabicated
 syllabicates
@@ -83892,6 +83920,7 @@ teenager
 teenagers
 teener
 teenier
+teensy
 teentsier
 teenyboppers
 tees
@@ -85849,6 +85878,7 @@ toroid
 toroidal
 torosity
 toroth
+torous
 torpedoed
 torpedoes
 torpid
@@ -86283,6 +86313,7 @@ transcript
 transcriptases
 transcriptional
 transcultural
+transcutaneous
 transdermal
 transduced
 transducer
@@ -88424,6 +88455,7 @@ uncials
 uncinal
 uncinaria
 uncinarias
+uncinariases
 uncinate
 uncinematic
 uncirculated
@@ -88835,6 +88867,7 @@ underuse
 underused
 underusing
 underutilize
+underutilizes
 underutilizing
 undervaluations
 undervalues
@@ -92856,6 +92889,7 @@ weazands
 web
 webbier
 webbiest
+webbing
 webby
 webcam
 webcams
@@ -94592,6 +94626,7 @@ yogurts
 yohimbe
 yohimbine
 yohimbines
+yoicks
 yokefellow
 yokefellows
 yokel
