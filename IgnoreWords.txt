@@ -939,6 +939,7 @@ adventives
 advents
 adventure
 adventurer
+adventuresses
 adventurism
 adventurist
 adventurous
@@ -5275,6 +5276,7 @@ autopsic
 autopsied
 autopsies
 autopsist
+autopsy
 autopsying
 autoradiogram
 autorotated
@@ -5845,6 +5847,7 @@ baker
 bakers
 bakeshop
 bakewares
+bakings
 baklava
 baklawa
 baksheeshes
@@ -16358,6 +16361,7 @@ confessions
 confessor
 confessors
 confetti
+confetto
 confidantes
 confidences
 confident
@@ -16718,6 +16722,7 @@ constantan
 constantans
 constative
 constatives
+constellates
 constellating
 constellatory
 consternate
@@ -17724,6 +17729,7 @@ cotylosaurs
 cotype
 couched
 coucher
+couchers
 couches
 couchette
 cougar
@@ -23343,6 +23349,7 @@ disported
 disports
 disposable
 disposables
+dispose
 disposed
 disposer
 disposers
@@ -27512,6 +27519,7 @@ erotogenic
 err
 errable
 errancies
+errancy
 errantries
 errata
 erratic
@@ -29497,6 +29505,7 @@ faultlessly
 faultlessnesses
 fauna
 faunal
+faunally
 faunistically
 faunlike
 fauns
@@ -30574,6 +30583,7 @@ flaked
 flaker
 flakes
 flakier
+flakily
 flakiness
 flaky
 flam
@@ -30949,6 +30959,7 @@ floosies
 floozie
 floozies
 floozy
+flop
 flophouse
 flophouses
 flopover
@@ -34605,6 +34616,7 @@ goldeye
 goldeyes
 goldfinch
 goldfinches
+goldfish
 goldsmith
 goldurn
 goldurns
@@ -40180,6 +40192,7 @@ importances
 important
 importation
 importer
+importers
 importing
 importunateness
 importuned
@@ -40492,6 +40505,7 @@ incestuous
 incestuousness
 inched
 incher
+inchmeal
 inchoate
 inchoateness
 inchoatives
@@ -43668,6 +43682,7 @@ jugular
 jugulars
 jugulated
 jugulates
+jugum
 juice
 juiceheads
 juiceless
@@ -44185,6 +44200,7 @@ khalifate
 khalifs
 khamsin
 khan
+khanates
 khans
 khaph
 khaphs
@@ -46377,10 +46393,12 @@ limps
 limpsiest
 limpsy
 limuli
+limuloids
 limulus
 limy
 lin
 linage
+linalools
 lincomycins
 lindanes
 linden
@@ -49348,6 +49366,7 @@ meningococci
 meningococcic
 meningococcus
 meninx
+meniscal
 menisci
 meniscoid
 meniscuses
@@ -50188,6 +50207,7 @@ militarised
 militarises
 militarising
 militarism
+militarist
 militaristic
 militarizations
 militarize
@@ -50696,6 +50716,7 @@ miscopy
 miscopying
 miscorrelation
 miscorrelations
+miscount
 miscounted
 miscounting
 miscounts
@@ -54277,6 +54298,7 @@ noncontrolled
 nonconventional
 noncooperation
 noncooperative
+noncooperator
 noncooperators
 noncore
 noncorrelations
@@ -59186,6 +59208,7 @@ paraquets
 pararosaniline
 pararosanilines
 parasail
+parasailed
 parasailing
 parasailings
 parasang
@@ -63418,6 +63441,7 @@ posteriority
 posterities
 posterns
 posters
+posteruptive
 postexperience
 postfaces
 postfault
@@ -64132,6 +64156,7 @@ preferments
 preferrer
 preferrers
 prefiguration
+prefigure
 prefigurement
 prefigures
 prefile
@@ -66017,6 +66042,7 @@ pullback
 pullbacks
 pulled
 pullets
+pulling
 pullman
 pullout
 pullouts
@@ -66122,6 +66148,7 @@ punditries
 punditry
 pung
 pungency
+pungent
 pungently
 pungle
 pungs
@@ -73572,6 +73599,7 @@ scat
 scatback
 scathe
 scathed
+scatological
 scatology
 scats
 scatted
@@ -74881,6 +74909,7 @@ separability
 separable
 separate
 separately
+separateness
 separates
 separating
 separationist
@@ -75633,6 +75662,7 @@ shill
 shillalah
 shillelah
 shillelahs
+shilling
 shills
 shily
 shim
@@ -79825,6 +79855,7 @@ steamfitters
 steamier
 steamiest
 steaminess
+steaming
 steamroll
 steamroller
 steamrollered
@@ -83567,6 +83598,7 @@ tastemakers
 tastes
 tastiest
 tastily
+tastiness
 tat
 tatami
 tatar
@@ -84206,6 +84238,7 @@ terete
 terga
 tergal
 tergiversates
+tergiversation
 tergiversations
 tergiversator
 teriyaki
@@ -90817,6 +90850,7 @@ variation
 variational
 variationally
 variations
+varicella
 varicellas
 varices
 varicoceles
@@ -93352,6 +93386,7 @@ wifeys
 wifing
 wifty
 wig
+wigeon
 wigeons
 wiggery
 wiggier

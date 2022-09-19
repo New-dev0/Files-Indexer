@@ -1,0 +1,4 @@
+kubuntu-18.04.5-desktop-i386.manifest - Ubuntu CDImage,https://cdimage.ubuntu.com/kubuntu/releases/18.04/release/kubuntu-18.04.5-desktop-i386.manifest
+kubuntu-18.04.5-desktop-amd64.manifest - Ubuntu CDImage,http://cdimage.ubuntu.com/kubuntu/releases/18.04/release/kubuntu-18.04.5-desktop-amd64.manifest
+mozilla-keychain/chrome.manifest at master - GitHub,https://github.com/jfitzell/mozilla-keychain/blob/master/chrome.manifest
+CentOS-Stream-8-x86_64-latest-dvd1.iso.manifest - Nexril,http://mirror.dal.nexril.net/centos/8-stream/isos/x86_64/CentOS-Stream-8-x86_64-latest-dvd1.iso.manifest
