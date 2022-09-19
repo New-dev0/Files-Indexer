@@ -1123,6 +1123,7 @@ affectionately
 affectionless
 affections
 affective
+affectively
 affectivities
 affectivity
 affectless
@@ -5665,6 +5666,7 @@ backfit
 backfitted
 backfitting
 backflip
+backflow
 backflows
 backgammon
 backgammons
@@ -5762,6 +5764,7 @@ bacteremic
 bacteria
 bacterin
 bacteriocins
+bacteriological
 bacteriologist
 bacteriolyses
 bacteriolysis
@@ -6129,6 +6132,7 @@ baptisms
 baptist
 baptisteries
 baptistery
+baptistry
 baptists
 baptize
 baptizers
@@ -10079,6 +10083,7 @@ brushiest
 brushlands
 brushoff
 brushoffs
+brushups
 brushwood
 brushwoods
 brushwork
@@ -11904,6 +11909,7 @@ carnivorousness
 carnosaur
 carnotites
 carns
+carny
 caroaches
 carobs
 caroch
@@ -11913,6 +11919,7 @@ carol
 carolers
 caroli
 caroling
+carolled
 caroller
 carolling
 caromed
@@ -12308,6 +12315,7 @@ catholics
 cathouse
 cationically
 catjang
+catkinate
 catlike
 catlin
 catling
@@ -13694,6 +13702,7 @@ choired
 choirgirls
 choiring
 choirs
+choke
 chokeberries
 chokeberry
 chokebore
@@ -21031,6 +21040,7 @@ delivered
 deliverer
 deliverers
 delivering
+delivers
 deliveryman
 delly
 delocalization
@@ -22866,6 +22876,7 @@ disappoints
 disapprobation
 disapprobations
 disapproval
+disapprovals
 disapprove
 disapprover
 disapproves
@@ -28991,6 +29002,7 @@ extubating
 exuberance
 exuberances
 exuberantly
+exuberate
 exuberated
 exuberates
 exudate
@@ -33964,6 +33976,7 @@ gibbously
 gibed
 gibers
 gibes
+gibing
 giblet
 giblets
 gibs
@@ -36147,6 +36160,7 @@ hacker
 hackers
 hackie
 hacking
+hackle
 hackler
 hacklier
 hackling
@@ -36684,6 +36698,7 @@ hardworking
 hardy
 harebells
 hared
+hareem
 harem
 harems
 hariana
@@ -40850,6 +40865,7 @@ incursion
 incursions
 incursive
 incurvated
+incurvates
 incurvating
 incurvations
 incurvature
@@ -41541,6 +41557,7 @@ inmesh
 inmeshed
 inmeshes
 inmost
+inn
 innards
 innateness
 innermost
@@ -41878,6 +41895,7 @@ insurgencies
 insurgency
 insurgents
 insuring
+insurmountably
 insurrection
 insusceptible
 inswathe
@@ -45066,6 +45084,7 @@ laddish
 lade
 laded
 laden
+ladened
 laders
 lades
 ladhoods
@@ -47337,6 +47356,7 @@ louped
 loups
 lour
 loured
+lours
 loused
 louses
 lousewort
@@ -49012,6 +49032,7 @@ maumetries
 maumets
 maun
 maund
+maundered
 maunderers
 maunders
 maundy
@@ -49943,6 +49964,7 @@ meticulosity
 metier
 metis
 metisse
+metonym
 metonymical
 metonymies
 metope
@@ -52650,6 +52672,7 @@ multisite
 multiskilled
 multisource
 multistage
+multistate
 multistoried
 multistranded
 multisyllabic
@@ -54993,6 +55016,7 @@ nonvalid
 nonvalidity
 nonvector
 nonvegetarian
+nonvegetarians
 nonvenomous
 nonvested
 nonveterans
@@ -56434,6 +56458,7 @@ orangy
 orate
 orated
 orator
+oratories
 oratorio
 oratorios
 oratress
@@ -60854,6 +60879,7 @@ perovskites
 peroxidase
 peroxide
 peroxided
+peroxides
 peroxisomal
 peroxisome
 peroxisomes
@@ -64802,6 +64828,7 @@ pressurization
 pressurizations
 pressurize
 pressurizers
+presswork
 pressworks
 prestamped
 prestamping
@@ -65071,6 +65098,7 @@ primps
 primroses
 prims
 primsie
+primula
 primulas
 primus
 primuses
@@ -65555,6 +65583,7 @@ propel
 propellant
 propellants
 propelled
+propellors
 propels
 propend
 propended
@@ -72443,6 +72472,7 @@ routinized
 routinizes
 routinizing
 roven
+rover
 rovers
 roving
 row
@@ -73868,6 +73898,7 @@ scenical
 scenics
 scenographer
 scenographers
+scenography
 scenting
 scents
 scepter
@@ -74383,6 +74414,7 @@ scufflers
 scuffling
 sculches
 sculker
+sculks
 scull
 sculled
 sculler
@@ -74530,6 +74562,7 @@ seasonableness
 seasonal
 seasonally
 seasonals
+seasoned
 seasoner
 seasons
 seastrands
@@ -76526,6 +76559,7 @@ signeted
 signeting
 significance
 significances
+significancies
 significancy
 significant
 significantly
@@ -93641,6 +93675,7 @@ wickers
 wickets
 wicking
 wickings
+wickiups
 wicks
 wicopies
 wicopy
