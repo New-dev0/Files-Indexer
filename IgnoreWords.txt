@@ -11611,6 +11611,7 @@ carabines
 carabinier
 carabiniere
 carabiniers
+caracal
 caracals
 caracaras
 caracoling
@@ -14501,6 +14502,7 @@ cliffs
 cliffy
 clift
 clifts
+climactically
 climate
 climates
 climatic
@@ -14827,6 +14829,7 @@ coast
 coastal
 coastally
 coaster
+coastguardmen
 coastguards
 coastguardsmen
 coasting
@@ -14946,6 +14949,7 @@ cockers
 cockeye
 cockeyedly
 cockeyedness
+cockeyednesses
 cockfighting
 cockhorse
 cockhorses
@@ -15457,6 +15461,7 @@ colliery
 collieshangies
 colligated
 colligates
+colligations
 collimate
 collimated
 collimates
@@ -15955,6 +15960,7 @@ completeness
 completers
 completion
 completive
+complexations
 complexest
 complexified
 complexifies
@@ -18138,6 +18144,7 @@ craftinesses
 crafting
 crafts
 craftsman
+craftsmanship
 craftsmanships
 craftspersons
 craftwork
@@ -19729,6 +19736,7 @@ damar
 damars
 damascene
 damascened
+damascening
 damaskeen
 damaskeened
 damaskeening
@@ -23456,6 +23464,7 @@ dissidence
 dissidences
 dissimilar
 dissimilarities
+dissimilarity
 dissimilarly
 dissimilated
 dissimilatory
@@ -34035,6 +34044,7 @@ gladdest
 gladding
 gladelike
 gladiate
+gladiator
 gladiola
 gladioluses
 gladlier
@@ -34301,6 +34311,7 @@ glossolalias
 glossolalist
 glossy
 glost
+glosts
 glottal
 glottic
 glottides
@@ -35471,6 +35482,7 @@ groveless
 grovelingly
 grovellers
 grow
+growers
 growing
 growl
 growlers
@@ -35888,6 +35900,7 @@ gynecoid
 gynecologic
 gynecological
 gynecologies
+gynecologist
 gynecology
 gynecomastia
 gyniatries
@@ -37422,6 +37435,7 @@ hernias
 herniate
 herniated
 herniates
+herniating
 herniation
 herniations
 herns
@@ -38725,6 +38739,7 @@ hum
 human
 humane
 humaneness
+humanenesses
 humaner
 humanhoods
 humanist
@@ -38926,6 +38941,7 @@ hyalin
 hyaline
 hyalines
 hyalins
+hyalite
 hyalites
 hyaloplasm
 hyaloplasms
@@ -40420,6 +40436,7 @@ incarnadining
 incarnated
 incarnates
 incarnating
+incase
 incases
 incasing
 incaution
@@ -49621,6 +49638,7 @@ metaplasms
 metapsychology
 metasequoias
 metasomatic
+metastabilities
 metastably
 metastases
 metastasis
@@ -58317,6 +58335,7 @@ oxidable
 oxidant
 oxidases
 oxidate
+oxidation
 oxidations
 oxidative
 oxide
@@ -59834,6 +59853,7 @@ peasants
 peascod
 peascods
 pease
+peases
 peashooter
 peashooters
 peasoupers
@@ -60286,6 +60306,7 @@ peptized
 peptizers
 peptizes
 peptonic
+peptonized
 peptonizes
 peptonizing
 peracids
@@ -60993,6 +61014,7 @@ philander
 philandered
 philanderers
 philanders
+philanthropic
 philanthropical
 philanthropies
 philanthropist
@@ -64834,6 +64856,7 @@ prisses
 prissier
 prissies
 prissiest
+prissiness
 prissing
 prissy
 pristane
@@ -65285,6 +65308,7 @@ prophet
 prophetesses
 prophethood
 prophethoods
+prophetic
 prophetical
 prophets
 prophylactic
@@ -67536,6 +67560,7 @@ rawhided
 rawhiding
 rawin
 rawins
+rawinsonde
 rawinsondes
 rawish
 rawly
@@ -69463,6 +69488,7 @@ relishable
 relishes
 relishing
 relist
+relisting
 relive
 relived
 relives
@@ -71667,6 +71693,7 @@ roadhouses
 roadies
 roadkill
 roadkills
+roadless
 roadrunners
 roads
 roadstead
@@ -71717,6 +71744,7 @@ robustest
 robustiously
 robustiousness
 robustly
+robustnesses
 rocaille
 rocailles
 rocambole
@@ -72584,6 +72612,7 @@ safest
 safeties
 safety
 safetyman
+safetymen
 safflower
 safflowers
 saffron
@@ -79081,6 +79110,7 @@ spottable
 spottily
 spottiness
 spotty
+spousal
 spoused
 spousing
 spouted
@@ -79267,6 +79297,7 @@ squashing
 squat
 squatly
 squatnesses
+squatted
 squattered
 squattest
 squattiest
@@ -83724,6 +83755,7 @@ teetotal
 teetotalers
 teetotaling
 teetotalism
+teetotalisms
 teetotalist
 teetotalists
 teetotallers
@@ -84136,6 +84168,7 @@ termini
 terminological
 terminologies
 terminus
+terminuses
 termitaria
 termitaries
 termitarium
@@ -85609,6 +85642,7 @@ topotype
 topped
 toppers
 topping
+topples
 toppr
 topsail
 topsails
@@ -93164,6 +93198,7 @@ whortleberry
 whortles
 whorts
 whose
+whosesoever
 whosever
 whosis
 whoso
