@@ -275,6 +275,7 @@ acclimatize
 acclimatizer
 acclimatizes
 acclivities
+acclivous
 accolade
 accolading
 accommodate
@@ -890,6 +891,7 @@ adrenalin
 adrenalins
 adrenalized
 adrenally
+adrenergic
 adrenochrome
 adroitest
 adroitly
@@ -1967,6 +1969,7 @@ allspices
 allude
 alluding
 allured
+allurement
 allurements
 allurer
 alluringly
@@ -3006,6 +3009,7 @@ answer
 answerable
 answered
 answerer
+anta
 antacid
 antae
 antagonisms
@@ -5377,6 +5381,7 @@ avid
 avifauna
 avifaunae
 avifaunas
+avigators
 avionic
 avisos
 avo
@@ -10015,6 +10020,7 @@ browless
 browned
 browner
 brownest
+brownfields
 brownie
 brownier
 brownness
@@ -14016,6 +14022,7 @@ cigaret
 cigarettes
 cigarillo
 cigarillos
+cigarlike
 cigars
 cigs
 ciguatera
@@ -14280,6 +14287,7 @@ claimable
 claimant
 claimants
 claimer
+claimers
 clairaudience
 clairaudiences
 clairaudient
@@ -15768,6 +15776,7 @@ commando
 commands
 commas
 commemorating
+commemoration
 commemorations
 commemoratively
 commemoratives
@@ -18047,6 +18056,7 @@ covenant
 covenantal
 covenantees
 covenanter
+covenanters
 covenanting
 covenantors
 covenants
@@ -27490,6 +27500,7 @@ eradicator
 eradicators
 erasabilities
 erasability
+erasable
 erase
 erasers
 erasing
@@ -31753,6 +31764,7 @@ forger
 forgeries
 forges
 forgetful
+forgetfulness
 forgetive
 forgets
 forgettable
@@ -33905,6 +33917,7 @@ ghostlier
 ghostliest
 ghostliness
 ghostly
+ghosts
 ghostwrite
 ghostwriter
 ghostwriters
@@ -34553,6 +34566,7 @@ gnawn
 gnaws
 gneiss
 gneisses
+gneissic
 gneissoid
 gneissose
 gnocchi
@@ -44188,6 +44202,7 @@ kenosises
 kenotic
 kenotrons
 kens
+kentledge
 kentledges
 kep
 kephalin
@@ -45612,6 +45627,7 @@ lawbreakings
 lawful
 lawgiver
 lawgivings
+lawings
 lawless
 lawlessly
 lawlike
@@ -48275,6 +48291,7 @@ managerially
 managers
 managership
 managerships
+manakin
 manakins
 mananas
 manas
@@ -49784,6 +49801,7 @@ metamerism
 metamerisms
 metamers
 metamorphic
+metamorphically
 metamorphism
 metamorphose
 metamorphosed
@@ -51503,6 +51521,7 @@ moisture
 moisturise
 moisturised
 moisturises
+moisturising
 moisturize
 moisturizer
 moisturizing
@@ -54405,6 +54424,7 @@ nonconforms
 noncongruent
 nonconnection
 nonconnections
+nonconsensual
 nonconservation
 nonconservative
 nonconstant
@@ -56841,6 +56861,7 @@ outarguing
 outasked
 outasks
 outate
+outback
 outbacker
 outbacks
 outbaked
@@ -65939,6 +65960,7 @@ pschent
 psephite
 psephites
 psephitic
+psephological
 psephologist
 psephologists
 psephology
@@ -67442,6 +67464,7 @@ raker
 rakes
 raki
 raking
+rakis
 rakishly
 rakishness
 rakishnesses
@@ -67662,6 +67685,7 @@ ratatats
 ratatouille
 ratbag
 ratcheted
+ratchets
 rateable
 rateably
 rated
@@ -70316,6 +70340,7 @@ reprocess
 reprocessing
 reproducer
 reproduces
+reproducibility
 reproducible
 reproducibles
 reproducing
@@ -74000,6 +74025,7 @@ scintigraphy
 scintilla
 scintillas
 scintillated
+scintillates
 scintillating
 sciolisms
 sciolist
@@ -75064,6 +75090,7 @@ sensum
 sent
 sentence
 sentencer
+sentencing
 sententia
 sentential
 sententious
@@ -78654,6 +78681,7 @@ spackle
 spackles
 spaded
 spadefish
+spadefuls
 spadework
 spadeworks
 spadilles
@@ -79711,6 +79739,7 @@ stablishment
 stablishments
 stably
 staccati
+stack
 stacked
 stacker
 stacking
@@ -80646,6 +80675,7 @@ straight
 straightaway
 straightaways
 straightbreds
+straighted
 straightedge
 straighten
 straightens
@@ -84189,6 +84219,7 @@ tellurides
 tellurion
 tellurions
 tellurium
+telluriums
 tellurize
 tellurized
 tellurizes
@@ -87857,6 +87888,7 @@ twelvemos
 twelves
 twenties
 twentieths
+twenty
 twerp
 twerps
 twibill
@@ -92537,6 +92569,7 @@ waker
 wakes
 wakikis
 waking
+wale
 waled
 walers
 walkabout
@@ -94034,6 +94067,7 @@ womanist
 womanize
 womanizer
 womanizes
+womanizing
 womankind
 womanless
 womanlier
@@ -94218,6 +94252,7 @@ workingwomen
 worklessness
 workloads
 workman
+workmanlike
 workmanly
 workmanship
 workout
