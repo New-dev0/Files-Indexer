@@ -3517,6 +3517,7 @@ anxiousness
 anxiousnesses
 any
 anybodies
+anybody
 anyhow
 anyon
 anyplace
@@ -4311,6 +4312,7 @@ arrowworm
 arrowworms
 ars
 arsenates
+arsenics
 arsenide
 arsenides
 arsenite
@@ -4801,6 +4803,7 @@ atactic
 ataghan
 ataghans
 atamans
+atamasco
 atamascos
 ataps
 ataractic
@@ -6050,6 +6053,7 @@ bankbook
 bankcard
 bankits
 banknote
+bankroll
 bankrolled
 bankrollers
 bankrolling
@@ -6164,6 +6168,7 @@ barehands
 bareheaded
 bareness
 baresark
+barf
 barfed
 barfing
 barflies
@@ -8261,6 +8266,7 @@ blastular
 blastulas
 blastulation
 blastulations
+blatancies
 blatancy
 blatant
 blatantly
@@ -9370,6 +9376,7 @@ brace
 braced
 bracelet
 braceros
+bracers
 brach
 brachet
 brachets
@@ -11399,6 +11406,7 @@ canonize
 canonized
 canonizer
 canonry
+canoodle
 canoodled
 canopic
 canopied
@@ -12956,6 +12964,7 @@ chapman
 chapmen
 chappati
 chappatis
+chapped
 chappie
 chapping
 chapt
@@ -20105,6 +20114,7 @@ deathwatches
 deathy
 deaved
 deaves
+deaving
 debacle
 debacles
 debagged
@@ -23959,6 +23969,7 @@ domiciling
 dominancies
 dominantly
 dominate
+dominates
 dominations
 dominator
 dominators
@@ -25494,6 +25505,7 @@ educes
 educible
 eduction
 eductions
+eductive
 eductor
 eductors
 educts
@@ -25720,6 +25732,7 @@ elect
 elected
 electee
 electing
+election
 electioneer
 electioneered
 electioneering
@@ -35809,6 +35822,7 @@ gunwales
 guppies
 gurge
 gurged
+gurges
 gurgle
 gurgles
 gurglets
@@ -36488,6 +36502,7 @@ harborside
 harbour
 harbouring
 hard
+hardasses
 hardbacks
 hardboard
 hardboot
@@ -41341,6 +41356,7 @@ injure
 injurer
 injuriousness
 injury
+injustice
 ink
 inkberries
 inkblots
@@ -43072,6 +43088,7 @@ jailbirds
 jailhouse
 jailing
 jailor
+jake
 jakes
 jalap
 jalapenos
@@ -43867,6 +43884,7 @@ kamacite
 kame
 kamikaze
 kamikazes
+kampong
 kamseen
 kanaka
 kane
@@ -44464,6 +44482,7 @@ klisters
 klongs
 kloofs
 kludgey
+kludgier
 kludgiest
 klutz
 klutziest
@@ -58632,6 +58651,7 @@ palazzi
 palazzos
 pale
 paleae
+paleal
 paleate
 paleface
 palefaces
@@ -58820,6 +58840,7 @@ pancreozymins
 pancytopenias
 pandanus
 pandemic
+pandemics
 pandemonium
 pandered
 panderer
@@ -60398,6 +60419,7 @@ perfectionistic
 perfectionists
 perfections
 perfectiveness
+perfectives
 perfectivity
 perfectness
 perfecto
@@ -60976,6 +60998,7 @@ phenologically
 phenologies
 phenolphthalein
 phenomena
+phenomenalistic
 phenomenally
 phenomenologies
 phenomenologist
@@ -64932,6 +64955,7 @@ procambial
 procambiums
 procarbazine
 procarps
+procathedral
 procathedrals
 procedural
 procedurally
@@ -67169,6 +67193,7 @@ rainbirds
 rainbows
 raincoats
 rained
+rainfall
 rainier
 rainiest
 raininess
@@ -67992,6 +68017,7 @@ recautioning
 recces
 recede
 receded
+receipt
 receipts
 received
 receiver
@@ -68921,6 +68947,7 @@ refrain
 refrained
 refrainer
 refrainment
+reframe
 refrangibility
 refrangible
 refrangibleness
@@ -75010,6 +75037,7 @@ serpigo
 serpigoes
 serpigos
 serranids
+serrano
 serranoid
 serrating
 serration
@@ -75694,6 +75722,7 @@ shlepp
 shlepping
 shleps
 shlimazels
+shlockier
 shlocks
 shlocky
 shlub
@@ -78650,6 +78679,7 @@ spenders
 spendier
 spendiest
 spending
+spends
 spendthrifts
 spendy
 spense
@@ -80080,6 +80110,7 @@ stingier
 stingiest
 stingily
 stinginess
+stinginesses
 stinging
 stingingly
 stingless
@@ -84911,6 +84942,7 @@ thunderclaps
 thunderclouds
 thunderer
 thunderhead
+thunders
 thunderstone
 thunderstones
 thunderstorm
@@ -90918,6 +90950,7 @@ vegetarians
 vegetate
 vegetates
 vegetating
+vegetation
 vegetative
 vegetatively
 vegetist
@@ -92927,6 +92960,7 @@ wheedle
 wheedled
 wheedler
 wheedles
+wheel
 wheelbarrow
 wheelbarrowed
 wheelbarrowing
@@ -93529,6 +93563,7 @@ wirier
 wiriest
 wirily
 wirra
+wis
 wise
 wiseasses
 wiseguy
