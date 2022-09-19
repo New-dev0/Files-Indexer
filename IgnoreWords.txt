@@ -1856,6 +1856,7 @@ allantoids
 allantoin
 allantois
 allayed
+allays
 allee
 allegedly
 alleger
@@ -5817,6 +5818,7 @@ bag
 bagasses
 bagatelle
 bagful
+bagfuls
 baggages
 bagged
 baggier
@@ -6658,6 +6660,7 @@ beating
 beatings
 beatitude
 beau
+beaus
 beaut
 beauteousnesses
 beauticians
@@ -7635,6 +7638,7 @@ biennia
 biennially
 biennium
 biers
+biface
 bifacially
 bifarious
 biffing
@@ -10415,6 +10419,7 @@ bunglers
 bungling
 bunglings
 bungs
+bunion
 bunions
 bunk
 bunkering
@@ -11685,6 +11690,7 @@ carambola
 caramel
 caramelize
 caramelized
+caramelizing
 carangid
 carangids
 carangoid
@@ -15679,6 +15685,7 @@ colostrums
 colour
 colourers
 colours
+colpitis
 colpitises
 colportage
 colportages
@@ -16249,6 +16256,7 @@ concessionaires
 concessionary
 concessions
 concessive
+conch
 concha
 conchae
 conchas
@@ -29315,6 +29323,7 @@ fallaciousness
 fallaleries
 fallals
 fallbacks
+fallboard
 faller
 fallers
 fallibilities
@@ -31292,6 +31301,7 @@ flustering
 flusters
 fluted
 flutelike
+fluter
 fluting
 flutings
 flutter
@@ -32613,6 +32623,7 @@ fuggier
 fugging
 fugio
 fugios
+fugitive
 fugitivenesses
 fugled
 fuglemen
@@ -35849,6 +35860,7 @@ guidepost
 guideposts
 guiders
 guideway
+guideways
 guiding
 guidon
 guild
@@ -37794,6 +37806,7 @@ hexarchy
 hexastichs
 hexed
 hexer
+hexereis
 hexers
 hexobarbitals
 hexokinase
@@ -41685,6 +41698,7 @@ inquiringly
 inquisition
 inquisitions
 inquisitor
+inquisitorially
 inquisitors
 inroads
 inrushing
@@ -44623,6 +44637,7 @@ kipskins
 kirigami
 kirk
 kirkman
+kirkmen
 kirn
 kirned
 kirns
@@ -45602,6 +45617,7 @@ latosol
 latosols
 latria
 latrines
+lats
 latte
 lattens
 latter
@@ -47263,6 +47279,7 @@ lookalike
 lookdowns
 looker
 lookers
+lookism
 lookout
 lookouts
 looks
@@ -47677,6 +47694,7 @@ lusted
 lustering
 lusterless
 lusters
+lusterware
 lusterwares
 lustfulness
 lustier
@@ -48372,6 +48390,7 @@ manat
 manatee
 manatees
 manches
+manchet
 manchineel
 manciples
 mandalas
@@ -52478,6 +52497,7 @@ muckle
 muckluck
 mucklucks
 muckraked
+mucky
 mucluc
 muclucs
 mucocutaneous
@@ -54756,6 +54776,7 @@ nonlawyers
 nonlegume
 nonlevel
 nonliable
+nonlibrarians
 nonlibrary
 nonlife
 nonlinearity
@@ -56787,6 +56808,7 @@ osmics
 osmiridiums
 osmium
 osmol
+osmolal
 osmolalities
 osmolality
 osmolar
@@ -60590,6 +60612,7 @@ peperomia
 peperomias
 pepino
 pepla
+peplumed
 peponidas
 peponium
 pepper
@@ -65659,6 +65682,7 @@ prophetic
 prophetical
 prophets
 prophylactic
+prophylactics
 prophylaxes
 propine
 propines
@@ -67162,6 +67186,7 @@ quinines
 quinoa
 quinoid
 quinol
+quinolins
 quinolone
 quinols
 quinone
@@ -74451,6 +74476,7 @@ scrunchies
 scrunching
 scrupulosity
 scrupulousness
+scrutable
 scrutineers
 scrutinise
 scrutinises
@@ -76244,6 +76270,7 @@ shortsightedly
 shortstop
 shortwaved
 shorty
+shotgunned
 shotgunning
 shotguns
 shotholes
@@ -78499,6 +78526,7 @@ songfests
 songfully
 songfulness
 songless
+songlessly
 songlike
 songsmith
 songster
@@ -80802,6 +80830,7 @@ straighten
 straightens
 straighter
 straightforward
+straighting
 straightjacket
 straightjackets
 straightly
@@ -82330,6 +82359,7 @@ superelite
 supereminence
 supereminences
 supereminent
+supereminently
 supererogations
 supererogatory
 superette
@@ -87629,6 +87659,7 @@ tsimmes
 tsked
 tsks
 tsktsked
+tsktsking
 tsktsks
 tsooris
 tsores
@@ -89845,6 +89876,7 @@ unmolten
 unmoored
 unmoors
 unmoralities
+unmorality
 unmortised
 unmotivated
 unmourned
@@ -91122,6 +91154,7 @@ valorizations
 valorized
 valorously
 valour
+valours
 valpolicellas
 valuable
 valuableness
@@ -94308,6 +94341,7 @@ woodworm
 woody
 wooer
 woof
+woofed
 woofer
 woofing
 wooingly
@@ -94806,6 +94840,7 @@ yawpings
 yaws
 ycleped
 yclept
+yea
 yeahs
 yealings
 yeaned
