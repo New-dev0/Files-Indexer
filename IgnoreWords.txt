@@ -1382,6 +1382,7 @@ agitprop
 aglare
 agleam
 aglee
+aglitter
 aglow
 agly
 aglycon
@@ -3779,6 +3780,7 @@ appaloosa
 appaloosas
 appals
 appanage
+appanages
 apparatus
 apparel
 appareling
@@ -4689,6 +4691,7 @@ assistances
 assistant
 assistants
 assistantship
+assistantships
 assisted
 assister
 assistive
@@ -4880,6 +4883,7 @@ atenolol
 ates
 athanasies
 athanasy
+atheism
 atheist
 atheistic
 atheistical
@@ -5963,6 +5967,7 @@ balkiness
 balking
 balklines
 ballade
+balladeer
 balladists
 balladries
 balladry
@@ -6272,6 +6277,7 @@ barleys
 barlow
 barmaid
 barman
+barmie
 barmier
 barmy
 barn
@@ -6321,6 +6327,7 @@ barranca
 barrancas
 barranco
 barrancos
+barrater
 barrator
 barrators
 barratries
@@ -8148,6 +8155,7 @@ bitewings
 bitingly
 bitmap
 bitmapped
+bitsiest
 bitstream
 bitstreams
 bitsy
@@ -11375,6 +11383,7 @@ cancelation
 canceled
 canceling
 cancellers
+cancelling
 cancerous
 cancha
 canchas
@@ -15180,6 +15189,7 @@ codeless
 codependences
 codependencies
 codependent
+coderive
 coderived
 coderives
 coderiving
@@ -17989,6 +17999,7 @@ countermarching
 countermeasure
 countermeasures
 countermelodies
+countermelody
 countermemo
 countermen
 countermines
@@ -18265,6 +18276,7 @@ coypu
 coypus
 coys
 cozenages
+cozener
 cozening
 cozey
 cozeys
@@ -18696,6 +18708,7 @@ crispens
 crisper
 crispers
 crispest
+crisphead
 crisply
 crispness
 crispnesses
@@ -32229,6 +32242,7 @@ fraena
 fraenum
 frag
 fragged
+fraggings
 fragile
 fragmentally
 fragmentarily
@@ -33543,6 +33557,7 @@ gastreas
 gastrectomies
 gastrectomy
 gastrin
+gastrins
 gastritic
 gastritides
 gastritises
@@ -33976,6 +33991,7 @@ geotactic
 geotaxes
 geotectonically
 geothermally
+geotropically
 geotropism
 geotropisms
 gerah
@@ -34415,6 +34431,7 @@ glandules
 glares
 glarier
 glariest
+glarinesses
 glaring
 glaringly
 glaringness
@@ -36255,6 +36272,7 @@ gypseian
 gypseous
 gypsophila
 gypsophilas
+gypster
 gypsum
 gypsums
 gypsydom
@@ -36695,6 +36713,7 @@ handmaid
 handmaidens
 handoff
 handout
+handover
 handpick
 handprint
 handrails
@@ -42403,6 +42422,7 @@ intermesh
 intermeshing
 intermezzi
 intermezzos
+interminable
 intermingle
 intermingled
 intermingles
@@ -44062,6 +44082,7 @@ jujitsu
 juju
 jujube
 jujubes
+jujuisms
 jujuist
 jujus
 jujutsus
@@ -46344,6 +46365,7 @@ lethargy
 lethe
 letted
 letter
+letterboxed
 letterboxings
 letterforms
 letterings
@@ -48948,6 +48970,7 @@ marlinespikes
 marling
 marlins
 marlinspike
+marlite
 marls
 marlstone
 marmalade
@@ -49570,6 +49593,7 @@ megahertz
 megahit
 megahits
 megakaryocytic
+megaliths
 megaloblastic
 megalomania
 megalomaniacal
@@ -50844,6 +50868,7 @@ minicourse
 minidisc
 minified
 minifies
+minify
 minifying
 minikin
 minilab
@@ -53577,6 +53602,7 @@ narrowed
 narrowest
 narrowish
 narrowly
+narrownesses
 narthex
 narwal
 narwhal
@@ -53642,6 +53668,7 @@ natter
 natters
 nattier
 nattily
+nattiness
 naturalised
 naturalising
 naturalism
@@ -53795,6 +53822,7 @@ neddy
 nee
 needer
 needful
+needfuls
 needier
 neediest
 needily
@@ -57687,6 +57715,7 @@ outrocking
 outrocks
 outroll
 outrolling
+outrolls
 outrooted
 outrooting
 outroots
@@ -59420,6 +59449,7 @@ pangenes
 pangenesis
 pangenetic
 pangens
+panging
 pangrams
 pangs
 panhandles
@@ -60923,6 +60953,7 @@ perching
 percipience
 percipiences
 percipient
+percipiently
 percipients
 percoid
 percoids
@@ -62228,6 +62259,7 @@ piggie
 pigginess
 piggins
 piggish
+piggybacks
 pigheaded
 pigheadedly
 pigheadedness
@@ -73258,6 +73290,7 @@ sacralize
 sacralizing
 sacrals
 sacramental
+sacramentalist
 sacramentalists
 sacramentals
 sacrarium
@@ -74675,6 +74708,7 @@ screaking
 screaks
 screamer
 screamers
+screaming
 screamingly
 screams
 scree
@@ -92531,6 +92565,7 @@ viruses
 virusoid
 virusoids
 vis
+visa
 visaed
 visaged
 visard
