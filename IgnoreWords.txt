@@ -2827,6 +2827,7 @@ angleworm
 angleworms
 anglice
 anglicise
+anglicised
 anglicises
 anglicism
 anglicisms
@@ -6715,6 +6716,7 @@ beautifiers
 beautifies
 beautifullest
 beautifulnesses
+beautify
 beautifying
 beauts
 beauty
@@ -10887,6 +10889,7 @@ cabezone
 cabezones
 cabezons
 cabildo
+cabin
 cabined
 cabinet
 cabinetmakings
@@ -14220,6 +14223,7 @@ circulator
 circumambulate
 circumambulated
 circumambulates
+circumcenter
 circumcenters
 circumcircles
 circumcised
@@ -15918,6 +15922,7 @@ commentates
 commentating
 commentator
 commentators
+commenter
 commerced
 commercial
 commercialises
@@ -16890,6 +16895,7 @@ constative
 constatives
 constellates
 constellating
+constellations
 constellatory
 consternate
 consternated
@@ -16995,6 +17001,7 @@ contains
 contaminant
 contaminates
 contaminating
+contaminations
 contaminative
 contaminator
 conte
@@ -17633,6 +17640,7 @@ coroner
 coroners
 coroneted
 coronographs
+coronoid
 corotate
 corotated
 corotates
@@ -22293,6 +22301,7 @@ dialectally
 dialectical
 dialectically
 dialectician
+dialecticians
 dialectics
 dialectologist
 dialectologists
@@ -29592,6 +29601,7 @@ fantoms
 fanwise
 fanzine
 fanzines
+faqir
 faquir
 farad
 faradaic
@@ -31644,6 +31654,7 @@ fonding
 fondled
 fondler
 fondles
+fondling
 fondly
 fondness
 fondnesses
@@ -38249,6 +38260,7 @@ historical
 historically
 historicity
 historicizing
+historied
 historiographer
 historiographic
 historiography
@@ -38419,6 +38431,7 @@ holked
 holks
 hollaed
 hollaing
+holler
 hollering
 hollies
 holloaing
@@ -40922,6 +40935,7 @@ incited
 incitements
 inciter
 incites
+inciting
 incivil
 incivilities
 inclasped
@@ -45582,6 +45596,7 @@ landlocked
 landloper
 landlopers
 landlordism
+landlords
 landlubberly
 landlubbers
 landlubbing
@@ -47908,6 +47923,7 @@ lunulated
 lunule
 luny
 lupanar
+lupanars
 lupins
 lupulins
 lurch
@@ -51244,6 +51260,7 @@ misdiagnosed
 misdiagnoses
 misdiagnosis
 misdid
+misdirect
 misdirection
 misdirections
 misdirects
@@ -51478,6 +51495,7 @@ misplacements
 misplaces
 misplacing
 misplan
+misplanned
 misplanning
 misplans
 misplays
@@ -55636,6 +55654,7 @@ nucleosomes
 nucleosynthesis
 nucleosynthetic
 nucleotidases
+nucleotide
 nucleotides
 nucleus
 nucleuses
@@ -57030,6 +57049,7 @@ orpiment
 orpiments
 orpine
 orra
+orrery
 orrices
 orris
 orrises
@@ -57884,6 +57904,7 @@ outstripped
 outstripping
 outstrips
 outstriven
+outstrives
 outstriving
 outstroke
 outstrove
@@ -59236,6 +59257,7 @@ palaestrae
 palaestras
 palais
 palankeen
+palankeens
 palanquins
 palatabilities
 palatability
@@ -59432,6 +59454,7 @@ panaceas
 panaches
 panada
 panama
+panamas
 panatelas
 panatella
 panbroiled
@@ -61592,6 +61615,7 @@ pharmacologists
 pharmacology
 pharmacopeial
 pharmacopoeias
+pharmacotherapy
 pharming
 pharos
 pharoses
@@ -62038,6 +62062,7 @@ phylaxis
 phylaxises
 phyle
 phyleses
+phylesis
 phylesises
 phyletically
 phyllaries
@@ -64799,6 +64824,7 @@ prefile
 prefiled
 prefinancing
 prefire
+prefired
 prefires
 prefiring
 prefix
@@ -73357,6 +73383,7 @@ sacrificer
 sacrificers
 sacrifices
 sacrificially
+sacrificing
 sacrilege
 sacrileges
 sacrilegious
@@ -76152,6 +76179,7 @@ shannies
 shantey
 shantis
 shantung
+shanty
 shantymen
 shantytown
 shantytowns
@@ -76267,6 +76295,7 @@ sheepberries
 sheepberry
 sheepcot
 sheepcotes
+sheepcots
 sheepdog
 sheephead
 sheepherder
@@ -77781,6 +77810,7 @@ sleazes
 sleaziest
 sleazily
 sleaziness
+sleazinesses
 sleazo
 sleazoid
 sleazoids
@@ -81380,6 +81410,7 @@ strenuosities
 strenuously
 strep
 streptobacilli
+streptococcal
 streptococcic
 streptokinases
 streptolysin
@@ -82104,6 +82135,7 @@ subrogations
 subrule
 subs
 subsale
+subsales
 subsample
 subsampled
 subsamples
@@ -84338,6 +84370,7 @@ tardyon
 tared
 targes
 targetable
+targeted
 targeting
 tariff
 tariffed
@@ -89319,6 +89352,7 @@ uncomfortably
 uncomic
 uncommercial
 uncommoner
+uncommonest
 uncommonly
 uncommonness
 uncommonnesses
@@ -90376,6 +90410,7 @@ unoffered
 unofficially
 unoiled
 unopen
+unopened
 unordered
 unorganized
 unoriginal
