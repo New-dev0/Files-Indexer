@@ -160,6 +160,7 @@ abutment
 abuttal
 abuttals
 abutted
+abutter
 abvolts
 abwatt
 aby
@@ -499,6 +500,7 @@ acock
 acoelomate
 acoelomates
 acolytes
+aconite
 aconites
 aconitic
 aconitum
@@ -915,6 +917,7 @@ adulating
 adulator
 adulterant
 adulterants
+adulterated
 adulterations
 adulterators
 adulterers
@@ -9635,6 +9638,7 @@ bravas
 brave
 braved
 bravely
+bravenesses
 braveries
 bravi
 braving
@@ -14414,6 +14418,7 @@ clanged
 clanger
 clangers
 clanging
+clangor
 clangoring
 clangoured
 clangours
@@ -15632,6 +15637,7 @@ colloquiality
 colloquials
 colloquists
 colloquiums
+colloquy
 collotype
 collotypies
 collude
@@ -22011,6 +22017,7 @@ detonator
 detour
 detouring
 detours
+detox
 detoxes
 detoxicant
 detoxicants
@@ -22659,6 +22666,7 @@ diligently
 dillies
 dillydallies
 dillydally
+dillydallying
 diltiazem
 diltiazems
 dilutenesses
@@ -23701,6 +23709,7 @@ dissociating
 dissoluble
 dissolute
 dissolutely
+dissolutenesses
 dissolve
 dissolved
 dissolver
@@ -41712,6 +41721,7 @@ injectors
 injects
 injudiciously
 injudiciousness
+injunction
 injunctive
 injurable
 injure
@@ -44293,6 +44303,7 @@ karabiner
 karakul
 karat
 karats
+karma
 karmas
 karmic
 kaross
@@ -47366,6 +47377,7 @@ logographs
 logoi
 logomach
 logomachy
+logon
 logorrhea
 logotypes
 logotypies
@@ -49020,6 +49032,7 @@ martyrologist
 martyrologists
 martyrology
 martyrs
+martyry
 marvel
 marvelled
 marvelously
@@ -51802,6 +51815,7 @@ moisteners
 moistening
 moistens
 moister
+moistest
 moistful
 moistness
 moisture
@@ -52269,6 +52283,7 @@ mootnesses
 moots
 mopboard
 mopboards
+mope
 moped
 moper
 moperies
@@ -56013,6 +56028,7 @@ occupant
 occupants
 occupation
 occupational
+occupationally
 occupied
 occupier
 occupiers
@@ -56487,6 +56503,7 @@ oodles
 oogamete
 oogamies
 oogamous
+oogenies
 oogonia
 oogonium
 ooh
@@ -59072,6 +59089,7 @@ paganises
 paganising
 paganist
 paganists
+paganize
 paganized
 paganizers
 paganizing
@@ -64473,6 +64491,7 @@ precipes
 precipice
 precipices
 precipitable
+precipitance
 precipitancy
 precipitantness
 precipitate
@@ -64645,6 +64664,7 @@ preemptor
 preemptors
 preempts
 preen
+preenacted
 preenacts
 preener
 preeners
@@ -70645,6 +70665,7 @@ repoll
 repolls
 repopularized
 repopularizes
+repopularizing
 repopulated
 repopulates
 repopulations
@@ -72401,6 +72422,7 @@ roaster
 roasters
 roasts
 robalo
+roband
 robbed
 robber
 robberies
@@ -75439,6 +75461,7 @@ senescent
 sengi
 senhor
 senhoras
+senhores
 senhorita
 senhoritas
 senile
@@ -75525,6 +75548,7 @@ sentiences
 sentiencies
 sentiently
 sentients
+sentiment
 sentimental
 sentimentalised
 sentimentalises
@@ -78837,6 +78861,7 @@ sonicates
 sonication
 sonicator
 sonneteering
+sonneteerings
 sonneteers
 sonnetize
 sonnetized
@@ -80101,6 +80126,7 @@ squiffiest
 squiggle
 squiggles
 squiggling
+squiggly
 squilgeeing
 squilla
 squillae
@@ -82766,6 +82792,7 @@ supernaturalist
 supernature
 supernatures
 supernormality
+supernormally
 supernovae
 supernovas
 supernutritions
@@ -87109,6 +87136,7 @@ transvaluated
 transvaluating
 transvaluations
 transvalue
+transvalued
 transvalues
 transvaluing
 transversal
@@ -88725,6 +88753,7 @@ ultravacuums
 ultraviolences
 ultraviolent
 ultraviolet
+ultravirilities
 ultravirility
 ululant
 ululates
@@ -89179,6 +89208,7 @@ uncoercively
 uncoffined
 uncoffining
 uncoffins
+uncoiled
 uncoined
 uncollected
 uncollectibles
@@ -90245,6 +90275,7 @@ unobtrusive
 unoffered
 unofficially
 unoiled
+unopen
 unordered
 unorganized
 unoriginal
@@ -92454,6 +92485,7 @@ virgates
 virginalist
 virginalists
 virginally
+virginities
 virgules
 viricidal
 viricides
@@ -93342,6 +93374,7 @@ wat
 watap
 watape
 watchable
+watchables
 watchband
 watchcase
 watchdogged
@@ -93747,6 +93780,7 @@ wessand
 westbound
 wester
 westerlies
+westerly
 western
 westerner
 westernisations
@@ -95507,6 +95541,7 @@ zerk
 zerks
 zeroes
 zeros
+zeroth
 zest
 zester
 zesters
