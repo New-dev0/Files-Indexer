@@ -39,6 +39,7 @@ abridging
 abridgment
 abridgments
 abroach
+abroad
 abrogable
 abrogate
 abrogated
@@ -1488,6 +1489,7 @@ ail
 ailanthic
 ailanthus
 ailing
+ails
 ailurophile
 ailurophiles
 ailurophobe
@@ -1868,6 +1870,7 @@ allays
 allee
 allegedly
 alleger
+allegiants
 allegoric
 allegorically
 allegoricalness
@@ -2191,6 +2194,7 @@ ambari
 ambaries
 ambassador
 ambassadors
+ambassadress
 ambassadresses
 ambeer
 ambergris
@@ -4930,6 +4934,7 @@ atomy
 atonable
 atonalism
 atonalisms
+atonalist
 atonalities
 atonally
 atone
@@ -6551,6 +6556,7 @@ bauds
 bauhinias
 baulk
 baulkiest
+baulking
 bausond
 bauxite
 bauxites
@@ -8348,6 +8354,7 @@ blate
 blather
 blathered
 blatherer
+blatherers
 blathering
 blathers
 blatherskite
@@ -10089,6 +10096,7 @@ brownshirts
 brownstones
 browsed
 browsers
+browsing
 brr
 brucellas
 brucelloses
@@ -10410,6 +10418,7 @@ bumfuzzles
 bumkin
 bummalo
 bummed
+bummest
 bump
 bumper
 bumpering
@@ -14835,6 +14844,7 @@ clubmen
 clubroot
 clubs
 clubwoman
+clue
 clueless
 cluing
 clumber
@@ -18533,6 +18543,7 @@ crenelations
 creneled
 crenellated
 crenelled
+crenelling
 crenels
 crenshaw
 crenshaws
@@ -19406,6 +19417,7 @@ curtly
 curtnesses
 curtsey
 curtseying
+curtseys
 curtsied
 curule
 curvature
@@ -32927,6 +32939,7 @@ furrily
 furriner
 furriness
 furrinesses
+furrowed
 furrower
 furrowers
 furrows
@@ -33683,6 +33696,7 @@ geisha
 gel
 gelable
 gelandesprung
+gelandesprungs
 gelant
 gelants
 gelati
@@ -34252,6 +34266,7 @@ gip
 gipons
 gipper
 gippers
+gips
 gipsies
 gipsy
 giraffe
@@ -35723,6 +35738,7 @@ grot
 grotesque
 grotesqueness
 grotesquenesses
+grots
 grottier
 grotto
 grottoed
@@ -43846,6 +43862,7 @@ jointednesses
 jointers
 jointless
 jointly
+jointress
 jointresses
 joints
 jointured
@@ -46317,6 +46334,7 @@ lethe
 letted
 letter
 letterboxings
+letterforms
 letterings
 letterman
 lettermen
@@ -48573,6 +48591,7 @@ mandibulate
 mandioca
 mandiocas
 mandola
+mandoline
 mandolins
 mandragora
 mandragoras
@@ -49284,6 +49303,7 @@ maximally
 maximals
 maximin
 maximins
+maximise
 maximises
 maximising
 maximites
@@ -49686,6 +49706,7 @@ membranously
 meme
 memento
 mementoes
+mementos
 memes
 memetics
 memo
@@ -57049,6 +57070,7 @@ osteogenic
 osteoids
 osteological
 osteologies
+osteologist
 osteomalacia
 osteomyelitis
 osteomyelitises
@@ -65907,6 +65929,7 @@ prophylaxes
 propine
 propines
 propinquities
+propionates
 propitiate
 propitiated
 propitiates
@@ -66736,6 +66759,7 @@ puppy
 puppyhoods
 puppylike
 pur
+purana
 puranas
 puranic
 purblind
@@ -67502,6 +67526,7 @@ quotas
 quotation
 quotations
 quote
+quoted
 quoters
 quotes
 quotha
@@ -67599,6 +67624,7 @@ raconteur
 racoons
 racquet
 racquetballs
+rad
 radars
 radarscope
 radarscopes
@@ -70005,6 +70031,7 @@ reknitting
 reknots
 reknotted
 reknotting
+relabel
 relabeled
 relabeling
 relabelled
@@ -72100,6 +72127,7 @@ rifles
 rifling
 riflip
 rift
+rifted
 rifting
 riftless
 rig
@@ -75877,6 +75905,7 @@ shacklers
 shackling
 shackoes
 shacks
+shad
 shadblow
 shadblows
 shadbush
@@ -76953,6 +76982,7 @@ silhouettes
 silhouetting
 silhouettist
 silicas
+siliceous
 silicic
 silicides
 silicification
@@ -77660,6 +77690,7 @@ sleeky
 sleepier
 sleepiest
 sleepings
+sleepless
 sleepovers
 sleepwalked
 sleepwalker
@@ -86262,6 +86293,7 @@ tomatillo
 tomatillos
 tombac
 tombacks
+tombak
 tombed
 tombing
 tombless
@@ -86402,6 +86434,7 @@ topis
 topkick
 topkicks
 toplessness
+toplessnesses
 toploftily
 toploftiness
 toplofty
@@ -86887,6 +86920,7 @@ tranquilizers
 tranquilizes
 tranquilizing
 tranquillized
+tranquillizer
 tranquillizers
 tranquillizes
 tranquilness
@@ -94225,6 +94259,7 @@ wimpling
 wince
 winced
 wincer
+winces
 winch
 winched
 winchers
