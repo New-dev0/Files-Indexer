@@ -161,6 +161,7 @@ abuttal
 abuttals
 abutted
 abutter
+abutting
 abvolts
 abwatt
 aby
@@ -3768,6 +3769,7 @@ apostolicities
 apostrophes
 apostrophic
 apostrophise
+apostrophised
 apostrophising
 apostrophized
 apostrophizes
@@ -6284,6 +6286,7 @@ barkeep
 barkeeper
 barkeepers
 barkentine
+barkentines
 barkers
 barkiest
 barkless
@@ -9556,6 +9559,7 @@ brainiac
 brainiacs
 brainier
 brainiest
+braininesses
 braining
 brainlessly
 brainlessnesses
@@ -12824,6 +12828,7 @@ cerecloths
 cered
 cerements
 ceremonialism
+ceremonialisms
 ceremonialists
 ceremonially
 ceremonies
@@ -13575,6 +13580,7 @@ children
 chile
 chili
 chiliadal
+chiliadic
 chiliarchs
 chiliast
 chilidog
@@ -15051,6 +15057,7 @@ cobaltous
 cobb
 cobber
 cobbers
+cobbier
 cobble
 cobbler
 cobbles
@@ -27432,6 +27439,7 @@ ephemerals
 ephemeras
 ephemerid
 ephemeris
+ephemeron
 ephoral
 ephorates
 ephori
@@ -28095,6 +28103,7 @@ etherealization
 etherealize
 etherealizes
 etherealnesses
+etherifies
 etherization
 etherizations
 etherizer
@@ -31306,6 +31315,7 @@ floppiest
 floppiness
 floppy
 flora
+florae
 florally
 floras
 floreated
@@ -34390,6 +34400,7 @@ girlhoods
 girlies
 girliest
 girls
+girn
 girning
 girns
 girolles
@@ -37556,6 +37567,7 @@ helicoptered
 helicopts
 helilift
 helilifting
+heliograph
 heliolatries
 heliometer
 heliometrically
@@ -38129,6 +38141,7 @@ high
 highball
 highballing
 highballs
+highbinder
 highborn
 highboy
 highbrowism
@@ -44270,6 +44283,7 @@ jussives
 just
 justed
 juster
+justers
 justest
 justiciable
 justiciar
@@ -47564,6 +47578,7 @@ longhorns
 longhouse
 longicorns
 longing
+longingly
 longings
 longish
 longitudes
@@ -50749,6 +50764,7 @@ mildest
 milding
 mildness
 mildnesses
+mileages
 mileposts
 miler
 milers
@@ -50919,6 +50935,7 @@ minae
 minatory
 minaudieres
 minced
+mincemeat
 mincemeats
 minces
 mincier
@@ -53033,6 +53050,7 @@ multimember
 multimetallic
 multimillion
 multimolecular
+multination
 multinomial
 multinomials
 multinuclear
@@ -53513,6 +53531,7 @@ mythicizers
 mythicizes
 mythier
 mythiest
+mythmaker
 mythographers
 mythography
 mythologer
@@ -56710,6 +56729,7 @@ opaquer
 opaquing
 ope
 openabilities
+openability
 openable
 opencast
 opened
@@ -57813,6 +57833,7 @@ outraved
 outre
 outreached
 outreads
+outreason
 outreasoned
 outreasoning
 outreasons
@@ -57837,6 +57858,7 @@ outrivalling
 outrivals
 outroar
 outroared
+outroaring
 outrock
 outrocking
 outrocks
@@ -59752,6 +59774,7 @@ parachutists
 paracletes
 paracrine
 parader
+paraders
 parades
 paradiddle
 paradigm
@@ -64750,6 +64773,7 @@ predates
 predating
 predations
 predatism
+predators
 predebate
 predeceases
 predecessor
@@ -69755,6 +69779,7 @@ reformulating
 reformulation
 refortification
 refortifies
+refortifying
 refought
 refound
 refoundations
@@ -71194,6 +71219,7 @@ resetting
 resettle
 resettlement
 resettlements
+resettles
 resettling
 resewn
 resews
@@ -71941,6 +71967,7 @@ reviewers
 reviewing
 revile
 revilement
+revilements
 reviles
 reviling
 reviolating
@@ -72198,6 +72225,7 @@ rhythms
 rhytidomes
 rhyton
 ria
+rials
 rialtos
 riantly
 riata
@@ -73480,6 +73508,7 @@ saddlebreds
 saddlecloth
 saddlecloths
 saddleries
+saddlers
 saddlery
 saddletree
 saddletrees
@@ -74499,6 +74528,7 @@ scheelite
 scheelites
 schema
 schemas
+schematic
 schematically
 schematization
 schematize
@@ -76207,6 +76237,7 @@ shaman
 shamanic
 shamanistic
 shamble
+shambled
 shambles
 shame
 shameable
@@ -80301,6 +80332,7 @@ squeal
 squealed
 squealers
 squealing
+squeals
 squeamish
 squeamishly
 squeamishness
@@ -87784,6 +87816,7 @@ trigrams
 trigraph
 trigraphs
 trigs
+trihalomethanes
 trihedron
 trihybrid
 trihydroxy
@@ -92229,6 +92262,7 @@ venule
 venules
 venulous
 vera
+veracious
 veraciousness
 veracity
 veranda
@@ -92797,6 +92831,7 @@ viscounty
 viscously
 viscousnesses
 viscus
+vised
 viseed
 viselike
 vises
