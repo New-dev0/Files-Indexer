@@ -3536,6 +3536,7 @@ anuretic
 anuria
 anuric
 anuses
+anvil
 anviled
 anvils
 anviltop
@@ -4320,6 +4321,7 @@ arrestor
 arrests
 arrhizal
 arrhythmias
+arris
 arrises
 arrivers
 arrives
@@ -4663,6 +4665,7 @@ assigning
 assignments
 assignors
 assimilability
+assimilable
 assimilated
 assimilationism
 assimilationist
@@ -11632,6 +11635,7 @@ capric
 capriccio
 caprice
 caprices
+capricious
 capriciousness
 caprifications
 caprifig
@@ -13931,6 +13935,7 @@ chronicled
 chronicler
 chronicling
 chronics
+chronobiologic
 chronobiology
 chronogram
 chronograms
@@ -21101,6 +21106,7 @@ deliverers
 delivering
 delivers
 deliveryman
+dellies
 delly
 delocalization
 delocalizations
@@ -25001,6 +25007,7 @@ dueness
 duennas
 duennaship
 duennaships
+dues
 duet
 dueting
 duettist
@@ -31841,6 +31848,7 @@ foreswore
 foresworn
 foretaste
 foretasted
+foretasting
 foreteeth
 foretell
 foretellers
@@ -32274,6 +32282,7 @@ free
 freebaser
 freebasers
 freebases
+freebasing
 freebee
 freebees
 freebie
@@ -33428,6 +33437,7 @@ garrulousness
 gartered
 garters
 gasaliers
+gasbag
 gascon
 gasconader
 gasconaders
@@ -33851,6 +33861,7 @@ geodetics
 geognosies
 geographer
 geographers
+geographic
 geographically
 geography
 geohydrologic
@@ -38581,6 +38592,7 @@ honour
 honoured
 honourer
 honouring
+hons
 hooch
 hooches
 hoochie
@@ -39434,6 +39446,7 @@ hyperacidities
 hyperacidity
 hyperactivities
 hyperacuity
+hyperaesthesias
 hyperarid
 hyperarousal
 hyperaware
@@ -40737,6 +40750,7 @@ incaution
 incautions
 incautiously
 incendiaries
+incendiarism
 incenses
 incensing
 incenters
@@ -42038,6 +42052,7 @@ intarsias
 integer
 integers
 integrability
+integral
 integralities
 integrally
 integrals
@@ -42640,6 +42655,7 @@ introit
 introject
 introjecting
 intromission
+intromissions
 intromit
 intromitted
 intromittent
@@ -48597,6 +48613,7 @@ manipulars
 manipulatable
 manipulated
 manipulates
+manipulation
 manipulations
 manipulative
 manipulatively
@@ -50414,6 +50431,7 @@ midlines
 midlist
 midlists
 midlives
+midmonths
 midmost
 midnight
 midnights
@@ -56572,6 +56590,7 @@ optimised
 optimises
 optimisms
 optimist
+optimistically
 optimization
 optimizations
 optimize
@@ -57492,6 +57511,7 @@ outpress
 outpressed
 outpresses
 outprice
+outpriced
 outprices
 outproduce
 outproduced
@@ -64081,6 +64101,7 @@ pounces
 pound
 poundal
 poundals
+poundcakes
 pounding
 pour
 pourable
@@ -67652,6 +67673,7 @@ ragweeds
 ragworts
 rah
 raia
+raias
 raid
 raided
 raids
@@ -69271,6 +69293,7 @@ reexhibiting
 reexhibits
 reexpel
 reexpelling
+reexpels
 reexperience
 reexperienced
 reexplain
@@ -69567,6 +69590,7 @@ regisseurs
 registerable
 registered
 registering
+registers
 registrable
 registrants
 registration
@@ -69581,6 +69605,7 @@ regloss
 reglossing
 reglow
 reglowed
+reglues
 regma
 regmata
 regnal
@@ -70927,6 +70952,7 @@ resilvers
 resin
 resinated
 resinates
+resined
 resinified
 resinify
 resinifying
@@ -71722,6 +71748,7 @@ rewrote
 reynard
 rezero
 rezeroes
+rezeros
 rezoned
 rezoning
 rhabdocoeles
@@ -75640,6 +75667,7 @@ setous
 setouts
 sets
 setscrew
+sett
 settee
 setter
 setters
@@ -76682,6 +76710,7 @@ siderite
 siderites
 siderolite
 siderolites
+sideroses
 siderotic
 sides
 sideshows
@@ -78627,6 +78656,7 @@ sombrely
 sombreros
 some
 somebodies
+somedeal
 somehow
 someplaces
 somersault
@@ -82533,6 +82563,7 @@ superfluous
 superfluousness
 superfund
 supergene
+supergiant
 supergiants
 superglue
 superglued
@@ -87610,6 +87641,7 @@ trombonists
 trommel
 trommels
 trompe
+tromped
 tromping
 tromps
 trona
@@ -91592,6 +91624,7 @@ vawntie
 veal
 vealer
 vealiest
+veals
 vealy
 vector
 vectorial
@@ -93754,6 +93787,7 @@ whines
 whingding
 whinger
 whinges
+whinier
 whiniest
 whininesses
 whining
@@ -94338,6 +94372,7 @@ witlessly
 witlessnesses
 witlings
 witloof
+witness
 witnesser
 witnessers
 witnesses
