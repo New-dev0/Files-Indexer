@@ -231,6 +231,7 @@ acceptably
 acceptance
 acceptances
 acceptant
+acceptations
 accepted
 acceptees
 accepter
@@ -597,6 +598,7 @@ actiniums
 actinoid
 actinoids
 actinometer
+actinometers
 actinometric
 actinomorphies
 actinomorphy
@@ -1183,6 +1185,7 @@ afflictively
 affluence
 affluences
 affluencies
+affluents
 afflux
 afford
 affordabilities
@@ -6185,6 +6188,7 @@ barbers
 barbershop
 barbet
 barbicel
+barbie
 barbies
 barbing
 barbitones
@@ -12539,6 +12543,7 @@ ceilidhs
 ceiling
 ceilinged
 ceilings
+ceilis
 ceilometer
 ceilometers
 ceils
@@ -17704,6 +17709,7 @@ corticosterone
 corticotrophin
 corticotrophins
 corticotropin
+corticotropins
 cortisone
 coruler
 corulers
@@ -18573,6 +18579,7 @@ crest
 crestal
 crestings
 crests
+cresyl
 cresylic
 cresyls
 cretics
@@ -19635,6 +19642,7 @@ cyclostyled
 cyclostyles
 cyclostyling
 cyclothymia
+cyclothymias
 cyclothymic
 cyclotomic
 cyclotron
@@ -23179,6 +23187,7 @@ discursive
 discursively
 discursiveness
 discus
+discuses
 discussants
 discussed
 discusses
@@ -23559,6 +23568,7 @@ disquiet
 disquietly
 disquiets
 disquietudes
+disquisition
 disrated
 disrates
 disrating
@@ -35971,6 +35981,7 @@ guilefully
 guilelessly
 guilelessness
 guiles
+guiling
 guillemet
 guillemets
 guillemots
@@ -37263,6 +37274,7 @@ hearty
 heat
 heatable
 heated
+heatedly
 heater
 heath
 heathbird
@@ -37444,6 +37456,7 @@ hellbenders
 hellbent
 hellbox
 hellboxes
+helldiver
 helldivers
 hellebores
 helled
@@ -37707,6 +37720,7 @@ hereditarians
 hereditary
 heredity
 herein
+hereinafter
 hereinbefore
 hereon
 heresies
@@ -38999,6 +39013,7 @@ howes
 however
 howf
 howffs
+howfs
 howked
 howks
 howled
@@ -41972,6 +41987,7 @@ inspiritingly
 inspirits
 inspissated
 inspissates
+inspissating
 inspissators
 instabilities
 installed
@@ -42205,6 +42221,7 @@ intercrop
 intercropped
 intercrosses
 intercrossing
+interculture
 intercurrent
 intercut
 intercuts
@@ -43096,6 +43113,7 @@ irritatingly
 irritative
 irrupted
 irruptions
+irruptive
 irruptively
 irrupts
 isagoge
@@ -44376,6 +44394,7 @@ keg
 kegelers
 kegged
 kegger
+keggers
 kegging
 kegling
 keglings
@@ -45987,6 +46006,7 @@ leasebacks
 leased
 leaseholders
 leasers
+leashing
 least
 leasts
 leastways
@@ -47108,6 +47128,7 @@ loach
 loaches
 loaded
 loader
+loaders
 loading
 loadings
 loadmaster
@@ -49926,6 +49947,7 @@ mesodermal
 mesoderms
 mesogleal
 mesogleas
+mesogloea
 mesomeres
 mesomorph
 mesomorphies
@@ -60197,6 +60219,7 @@ patrons
 patronymic
 patroons
 pats
+patsies
 pattamar
 patted
 pattens
@@ -60980,6 +61003,7 @@ perigeal
 perigee
 perigees
 perigons
+perigynies
 perigyny
 perikaryal
 periling
@@ -61430,6 +61454,7 @@ phantasmal
 phantasmata
 phantasmic
 phantast
+phantasts
 phantasying
 phantom
 phantoms
@@ -63423,6 +63448,7 @@ polychromies
 polychromy
 polycistronic
 polyclonal
+polycot
 polycrystal
 polycrystals
 polycyclic
@@ -65716,6 +65742,7 @@ prolans
 prolapsed
 prolapses
 prolapsing
+prolate
 proleg
 prolegomenon
 prolegs
@@ -66713,6 +66740,7 @@ puranas
 puranic
 purblind
 purblindly
+purblindness
 purchase
 purchaser
 purchasers
@@ -66998,6 +67026,7 @@ pyrolyzers
 pyrolyzing
 pyromancies
 pyromancy
+pyromania
 pyromaniac
 pyromaniacal
 pyrometer
@@ -73080,6 +73109,7 @@ rustproof
 rustproofed
 rusty
 rutabaga
+ruth
 rutherfordium
 rutherfordiums
 ruthful
@@ -83944,6 +83974,7 @@ tallitim
 tallitoth
 tallits
 tallness
+tallol
 tallols
 tallowed
 tallows
@@ -84777,6 +84808,7 @@ tenorite
 tenorites
 tenors
 tenosynovitis
+tenour
 tenours
 tenpence
 tenpences
@@ -87324,6 +87356,7 @@ tribuneships
 tribute
 tricarboxylic
 trice
+triced
 tricep
 triceps
 tricepses
@@ -89733,6 +89766,7 @@ unfussy
 ungainlier
 ungainliness
 ungainlinesses
+ungallant
 ungalled
 ungarbed
 ungarnished
@@ -94134,6 +94168,7 @@ wildcatter
 wildebeests
 wilded
 wildered
+wildering
 wilderments
 wilderness
 wilders
