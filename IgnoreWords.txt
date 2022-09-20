@@ -223,6 +223,7 @@ accenting
 accentless
 accentor
 accentually
+accentuate
 accentuation
 accept
 acceptabilities
@@ -1619,6 +1620,7 @@ alang
 alanin
 alanins
 alans
+alants
 alanyls
 alar
 alarm
@@ -6115,6 +6117,7 @@ banishments
 banister
 banjaxed
 banjaxes
+banjaxing
 banjoist
 banjos
 bankability
@@ -6775,6 +6778,7 @@ becrime
 becrimed
 becrimes
 becriming
+becrowded
 becrowding
 becrowds
 becrust
@@ -7069,6 +7073,7 @@ beknotting
 bel
 belaboring
 belabors
+belabour
 belaced
 beladying
 belatedly
@@ -8564,6 +8569,7 @@ blooper
 bloopers
 bloops
 blossoms
+blot
 blotches
 blotchier
 blotchily
@@ -9949,6 +9955,7 @@ broadly
 broads
 broadside
 broadsided
+broadsword
 broadswords
 broadtail
 broadtails
@@ -12047,6 +12054,7 @@ carritch
 carroch
 carroches
 carromed
+carroms
 carronade
 carrotin
 carrotins
@@ -21650,6 +21658,7 @@ deputable
 deputations
 depute
 deputed
+deputies
 deputizations
 deputize
 deputized
@@ -27415,6 +27424,7 @@ epicycloidal
 epidemic
 epidemical
 epidemically
+epidemicity
 epidemics
 epidemiologic
 epidemiologies
@@ -33305,6 +33315,7 @@ gambusias
 game
 gamed
 gamekeeper
+gamenesses
 gamers
 gamesmanship
 gamesmanships
@@ -36696,6 +36707,7 @@ handicaps
 handicrafters
 handicrafts
 handicraftsman
+handier
 handinesses
 handing
 handiwork
@@ -39308,6 +39320,7 @@ hutch
 hutched
 hutching
 hutlike
+hutment
 huts
 hutted
 hutting
@@ -39368,6 +39381,7 @@ hydrazines
 hydric
 hydrid
 hydride
+hydrides
 hydrids
 hydrilla
 hydrillas
@@ -41252,6 +41266,7 @@ individuating
 individuations
 indivisible
 indocilities
+indocility
 indoctrination
 indoctrinations
 indoctrinators
@@ -41270,6 +41285,7 @@ indorsers
 indorsing
 indorsor
 indowed
+indowing
 indoxyl
 indraft
 indri
@@ -42003,6 +42019,7 @@ insolubilizing
 insolubles
 insolvencies
 insolvent
+insomnia
 insomniac
 insomniacs
 insomuch
@@ -42784,6 +42801,7 @@ intumesce
 intumesced
 intumescent
 intumesces
+intumescing
 inturn
 intussuscepted
 intussuscepting
@@ -48359,6 +48377,7 @@ mainframes
 mainlander
 mainlands
 mainline
+mainlined
 mainliner
 mainliners
 mainlining
@@ -48812,6 +48831,7 @@ manufactory
 manufactured
 manufactures
 manufacturings
+manumission
 manumits
 manure
 manured
@@ -49479,6 +49499,7 @@ medaka
 medakas
 medaling
 medalist
+medalists
 medallion
 medallions
 meddled
@@ -55301,6 +55322,7 @@ nontonic
 nontotalitarian
 nontoxic
 nontraditional
+nontragic
 nontransferable
 nontreatments
 nontribal
@@ -59683,6 +59705,7 @@ paralysing
 paralysis
 paralytic
 paralytics
+paralyzation
 paralyze
 paralyzed
 paralyzer
@@ -62014,6 +62037,7 @@ phylloxera
 phylogenetic
 phylogenies
 phylogeny
+phylon
 physed
 physeds
 physiatries
@@ -62631,6 +62655,7 @@ pitchpoles
 pitchpoling
 piteous
 piteously
+piteousness
 pithead
 pithecanthropi
 pithecoid
@@ -64517,6 +64542,7 @@ prechoosing
 prechosen
 precieux
 precincts
+preciosities
 preciosity
 preciousnesses
 precipes
@@ -65274,6 +65300,7 @@ pretrained
 pretraining
 pretrains
 pretravel
+pretreated
 pretreatments
 pretrial
 pretrials
@@ -67410,6 +67437,7 @@ questioner
 questioners
 questionless
 questionnaire
+questionnaires
 questors
 quests
 quetzales
@@ -81306,6 +81334,7 @@ streeling
 streetcar
 streetlamp
 streetlight
+streets
 streetscapes
 streetwalker
 streetwise
@@ -82381,6 +82410,7 @@ sugarcanes
 sugarcoat
 sugarcoated
 sugarcoating
+sugarcoats
 sugarer
 sugarhouse
 sugarier
@@ -83434,6 +83464,7 @@ switcheroos
 switches
 switchgrasses
 switching
+switchmen
 switchyard
 switchyards
 swithe
@@ -87003,6 +87034,7 @@ transcendently
 transcending
 transcends
 transcribe
+transcribed
 transcriber
 transcribers
 transcribes
@@ -90808,6 +90840,7 @@ untether
 untethered
 untethering
 untethers
+unthanked
 unthawed
 unthinkably
 unthinking
@@ -93476,6 +93509,7 @@ waters
 watersheds
 watersides
 waterski
+waterspouts
 waterthrushes
 watertightness
 waterweed
@@ -95589,6 +95623,7 @@ zeugmas
 zibeline
 zibelines
 zibet
+zibeth
 zibeths
 zidovudine
 zidovudines
