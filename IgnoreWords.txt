@@ -98,6 +98,7 @@ absorbencies
 absorbency
 absorbents
 absorptances
+absorptions
 absorptivities
 absorptivity
 abstained
@@ -1560,6 +1561,7 @@ airpark
 airplanes
 airport
 airports
+airposts
 airpower
 airpowers
 airproof
@@ -2087,6 +2089,7 @@ alphyl
 alphyls
 alpine
 alpinisms
+alpinist
 alsike
 alsikes
 also
@@ -4457,6 +4460,7 @@ artists
 artlessly
 artlessness
 arts
+artsiness
 artwork
 arugola
 arugolas
@@ -8869,6 +8873,7 @@ boff
 boffed
 boffin
 boffins
+boffo
 boffola
 boffos
 bog
@@ -16025,6 +16030,7 @@ commodity
 commodores
 common
 commonality
+commonalties
 commoner
 commonness
 commonnesses
@@ -17164,6 +17170,7 @@ contrapositions
 contraption
 contraptions
 contrapuntists
+contrarian
 contraries
 contrarieties
 contrariety
@@ -19916,6 +19923,7 @@ dados
 dads
 daedalian
 daemon
+daemons
 daffed
 daffier
 daffiest
@@ -21196,6 +21204,7 @@ deliberateness
 deliberations
 deliberative
 deliberatively
+delicacy
 delicate
 delicious
 deliciousnesses
@@ -23623,6 +23632,7 @@ dispeopling
 dispersals
 dispersants
 dispersedly
+disperses
 dispersing
 dispersion
 dispersive
@@ -27242,6 +27252,7 @@ enteral
 enterally
 entered
 enterer
+enterers
 enteric
 enteritis
 enteritises
@@ -34499,6 +34510,7 @@ gladdening
 gladder
 gladdest
 gladding
+glade
 gladelike
 gladiate
 gladiator
@@ -35343,6 +35355,7 @@ gramaryes
 gramas
 gramercies
 gramercy
+gramicidin
 gramineous
 gramma
 grammarian
@@ -41460,6 +41473,7 @@ inductors
 indued
 indulge
 indulged
+indulgent
 indulgers
 indulin
 induline
@@ -43442,6 +43456,7 @@ isolationists
 isolations
 isolators
 isoleads
+isoleucine
 isoleucines
 isoline
 isolines
@@ -47785,6 +47800,7 @@ lotus
 lotuslands
 louche
 loud
+louden
 loudened
 louder
 loudest
@@ -48220,6 +48236,7 @@ lyricisms
 lyricize
 lyricons
 lyrics
+lyrism
 lyrisms
 lyrist
 lysate
@@ -50138,6 +50155,7 @@ merl
 merlin
 merlins
 merlon
+merlots
 merls
 mermaid
 merman
@@ -53639,6 +53657,7 @@ nabobish
 nabobism
 nabobisms
 nabobs
+nabs
 nacho
 nachos
 nacre
@@ -53992,6 +54011,7 @@ necessitations
 necessitous
 necessitousness
 necessity
+neck
 neckband
 neckbands
 neckcloth
@@ -54728,6 +54748,7 @@ nod
 nodal
 nodalities
 nodality
+nodally
 nodded
 nodders
 noddies
@@ -55663,6 +55684,7 @@ nostologies
 nostrils
 nosy
 not
+nota
 notabilia
 notabilities
 notable
@@ -65376,6 +65398,7 @@ preservers
 preservice
 preserving
 presets
+presettle
 presettlement
 presettles
 preshape
@@ -65590,6 +65613,7 @@ previewers
 previewing
 previews
 previous
+previse
 prevised
 previses
 prevising
@@ -67356,6 +67380,7 @@ pyrolized
 pyrolizes
 pyrolizing
 pyrology
+pyrolusite
 pyrolusites
 pyrolyses
 pyrolysis
@@ -70916,6 +70941,7 @@ replantations
 replanted
 replants
 replaster
+replastered
 replasters
 replated
 replating
@@ -76769,6 +76795,7 @@ shiverer
 shivers
 shives
 shivitis
+shlemiel
 shlemiels
 shlep
 shlepp
@@ -76904,6 +76931,7 @@ shortia
 shortias
 shortie
 shorties
+shorting
 shortish
 shortlist
 shortlists
@@ -77117,6 +77145,7 @@ sibilation
 sibilations
 sibilators
 sibling
+siblings
 sibs
 sibyl
 sibylic
@@ -80529,6 +80558,7 @@ sris
 stab
 stabber
 stabbers
+stabiles
 stabilise
 stabilised
 stabilises
@@ -83608,6 +83638,7 @@ sware
 swarf
 swarmed
 swarmer
+swarmers
 swarming
 swart
 swarth
@@ -85518,6 +85549,7 @@ tetracid
 tetracycline
 tetracyclines
 tetradic
+tetradrachm
 tetrads
 tetradynamous
 tetrafluorides
@@ -89912,6 +89944,7 @@ undersized
 underskirts
 undersold
 underspin
+understaffed
 understaffing
 understaffings
 understandable
@@ -90486,6 +90519,7 @@ unjustly
 unjustness
 unjustnesses
 unkempt
+unkend
 unkennelled
 unkennelling
 unkent
@@ -95923,6 +95957,7 @@ zealousness
 zeals
 zeatins
 zebec
+zebecks
 zebrafishes
 zebrano
 zebranos
