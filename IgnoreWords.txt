@@ -4361,6 +4361,7 @@ arrowwoods
 arrowworm
 arrowworms
 ars
+arsenals
 arsenates
 arsenics
 arsenide
@@ -10222,6 +10223,7 @@ buckbrush
 buckbrushes
 buckeen
 buckeens
+buckeroo
 buckers
 bucket
 bucketed
@@ -14899,6 +14901,7 @@ clutter
 cluttering
 cluttery
 clypeate
+clypeus
 clysters
 cnidae
 cnidarian
@@ -15244,6 +15247,7 @@ coedited
 coedits
 coeds
 coeducation
+coeducational
 coeducationally
 coeducations
 coeffect
@@ -17009,6 +17013,7 @@ contemporizing
 contempt
 contemptibility
 contemptibly
+contempts
 contemptuous
 contemptuously
 contender
@@ -19207,6 +19212,7 @@ culpable
 culpableness
 culpablenesses
 culpably
+culpae
 culprit
 culprits
 cult
@@ -19854,6 +19860,7 @@ daft
 dafter
 daftest
 dag
+dagga
 daggas
 dagger
 daggered
@@ -21430,6 +21437,7 @@ denseness
 denser
 densest
 densified
+densify
 densifying
 densitometers
 densitometric
@@ -23489,6 +23497,7 @@ disorderedly
 disorderedness
 disordering
 disorderliness
+disorganization
 disorganize
 disorganized
 disorient
@@ -25191,6 +25200,7 @@ duodena
 duolog
 duologs
 duologue
+duomi
 duomo
 duomos
 duopolies
@@ -27398,6 +27408,7 @@ epicarp
 epicedia
 epicedium
 epicene
+epicenes
 epicenism
 epicenters
 epicentra
@@ -29192,6 +29203,7 @@ exurbanites
 exurbs
 exuviated
 exuviates
+exuviations
 exuvium
 eyeable
 eyeballed
@@ -31864,6 +31876,7 @@ foreordaining
 foreordains
 foreordination
 foreparts
+forepast
 forepaw
 forepeak
 forequarter
@@ -40461,6 +40474,7 @@ imperishability
 imperishable
 imperishables
 imperiums
+impermanence
 impermissibly
 impersonal
 impersonalities
@@ -42469,6 +42483,7 @@ interne
 internecine
 internee
 internees
+interneuron
 interneuronal
 interneurons
 interning
@@ -44333,6 +44348,7 @@ kaolinic
 kaon
 kaons
 kapa
+kapellmeister
 kapellmeisters
 kaph
 kappa
@@ -46831,6 +46847,7 @@ limuloids
 limulus
 limy
 lin
+linable
 linage
 linalools
 lincomycins
@@ -47253,6 +47270,7 @@ lobscouse
 lobscouses
 lobster
 lobstered
+lobsterers
 lobstering
 lobsterman
 lobstermen
@@ -48426,6 +48444,7 @@ makefasts
 makeovers
 maker
 makereadies
+makeready
 makers
 makeshift
 makeup
@@ -50430,6 +50449,7 @@ microinjecting
 microinjection
 microinjections
 microloan
+microloans
 microlux
 micromanage
 micromanaged
@@ -54027,6 +54047,7 @@ nephrotoxicity
 nepotism
 nepotisms
 nepotists
+neptunium
 nerd
 nerdier
 nerdiest
@@ -57429,6 +57450,7 @@ outfaces
 outfall
 outfast
 outfasted
+outfasts
 outfawned
 outfawning
 outfeast
@@ -61351,6 +61373,7 @@ pertained
 pertaining
 pertains
 pertest
+pertinaciously
 pertinence
 pertinences
 pertinencies
@@ -61657,6 +61680,7 @@ philabegs
 philadelphuses
 philander
 philandered
+philanderer
 philanderers
 philanders
 philanthropic
@@ -62236,6 +62260,7 @@ pieced
 piecemeal
 pieces
 piecework
+pieceworker
 piecrusts
 piedmont
 piedmonts
@@ -62833,6 +62858,7 @@ planlessness
 planlessnesses
 planned
 planner
+planners
 planning
 planosol
 plans
@@ -69925,6 +69951,7 @@ reign
 reigned
 reigning
 reignited
+reigniting
 reignition
 reimage
 reimaged
@@ -71047,6 +71074,7 @@ resentence
 resentencing
 resentment
 resentments
+resents
 reserpines
 reservable
 reservationist
@@ -71333,6 +71361,7 @@ restfully
 restfulness
 restfulnesses
 restiform
+restimulate
 restimulated
 restimulating
 restitched
@@ -72371,6 +72400,7 @@ ripsawn
 ripsnorter
 ripsnorters
 ripsnorting
+ripstop
 ripstops
 riptide
 riptides
@@ -79131,6 +79161,7 @@ sourwood
 sourwoods
 souse
 sousliks
+soutanes
 souters
 south
 southbound
@@ -81518,6 +81549,7 @@ structures
 structuring
 strudel
 struggled
+strugglers
 struggles
 struma
 strumatic
@@ -83150,6 +83182,7 @@ surreal
 surrealism
 surrealisms
 surrealist
+surrealistic
 surrealists
 surrejoinder
 surrendered
@@ -85762,6 +85795,7 @@ throughly
 throughput
 throughputs
 throwaway
+throwback
 throwbacks
 thrown
 throwsters
@@ -90748,6 +90782,7 @@ unstack
 unstacked
 unstalked
 unstamped
+unstandardized
 unstarred
 unstartling
 unstate
