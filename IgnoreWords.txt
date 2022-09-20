@@ -281,6 +281,7 @@ acclimatizes
 acclivities
 acclivous
 accolade
+accoladed
 accolading
 accommodate
 accommodating
@@ -1791,6 +1792,7 @@ alighted
 alighting
 alights
 align
+aligner
 aligners
 alignment
 alike
@@ -11686,6 +11688,7 @@ caprifications
 caprifig
 caprifigs
 caprine
+capriole
 caprioled
 caprioles
 caprioling
@@ -14684,6 +14687,7 @@ climber
 climbers
 climbs
 clime
+clinal
 clinally
 clinch
 clinches
@@ -16589,6 +16593,7 @@ confound
 confoundedly
 confraternities
 confraternity
+confrere
 confront
 confrontal
 confrontational
@@ -17716,6 +17721,7 @@ corrigibility
 corrival
 corrivals
 corroborant
+corroborations
 corroborative
 corroborator
 corroborees
@@ -19779,6 +19785,7 @@ cytochalasins
 cytochemical
 cytogenetic
 cytogeneticist
+cytogeneticists
 cytokines
 cytokinesis
 cytokinetic
@@ -22330,6 +22337,7 @@ dialogue
 dialoguers
 dialysate
 dialytic
+dialyzate
 dialyzates
 dialyzers
 dialyzes
@@ -26456,6 +26464,7 @@ emoticon
 emoting
 emotion
 emotionalisms
+emotionalistic
 emotionalists
 emotionality
 emotionalize
@@ -27075,6 +27084,7 @@ enrollment
 enrollments
 enrolment
 enrols
+enroot
 enrooting
 enroots
 ens
@@ -33344,6 +33354,7 @@ gamers
 gamesmanship
 gamesmanships
 gamesmen
+gamesomeness
 gamesomenesses
 gamester
 gametic
@@ -34277,6 +34288,7 @@ gimmals
 gimme
 gimmick
 gimmicked
+gimmickries
 gimmicks
 gimmies
 gimping
@@ -36489,6 +36501,7 @@ hahnium
 hahniums
 haik
 haika
+haiks
 haiku
 hail
 hails
@@ -36636,6 +36649,7 @@ halophyte
 halothanes
 halt
 halterbreaking
+halterbroken
 haltering
 halters
 haltless
@@ -40328,6 +40342,7 @@ immune
 immunes
 immunise
 immunises
+immunising
 immunity
 immunized
 immunizer
@@ -40988,6 +41003,7 @@ incomparability
 incomparable
 incompatibility
 incompatible
+incompetence
 incompetences
 incompetency
 incompetent
@@ -49764,6 +49780,7 @@ melodiously
 melodiousnesses
 melodise
 melodised
+melodises
 melodising
 melodist
 melodizers
@@ -50672,6 +50689,7 @@ mikra
 mikron
 mikvah
 mikveh
+mikvehs
 mikvos
 mil
 miladi
@@ -57718,6 +57736,7 @@ outpulling
 outpunch
 outpunching
 outpupil
+outpupils
 outpursue
 outpursued
 outpushed
@@ -71852,6 +71871,7 @@ revertive
 reverts
 revery
 revesting
+revests
 revetment
 revetting
 revibrate
@@ -72270,6 +72290,7 @@ rig
 rigadoon
 rigadoons
 rigamarole
+rigatoni
 rigatonis
 rigaudon
 rigged
@@ -79039,6 +79060,7 @@ sophisticating
 sophistries
 sophomore
 sophs
+sophy
 sopited
 sopiting
 sopor
@@ -79137,6 +79159,7 @@ soubise
 soubises
 soubrette
 soubrettes
+soucar
 soucars
 souchongs
 soudan
@@ -80066,6 +80089,7 @@ springlet
 springlike
 springtide
 springtides
+springtime
 springtimes
 springwaters
 springwood
@@ -82467,6 +82491,7 @@ suffuse
 suffuses
 suffusing
 suffusion
+suffusive
 sugarberries
 sugarbush
 sugarcane
@@ -82744,6 +82769,7 @@ superalterns
 superambitious
 superannuate
 superannuates
+superannuating
 superannuation
 superathlete
 superathletes
@@ -83304,6 +83330,7 @@ sveltely
 svelteness
 sveltenesses
 svelter
+swabbed
 swabbie
 swabbies
 swabby
@@ -84345,6 +84372,7 @@ tapirs
 tapper
 tapping
 taprooms
+taps
 taqueria
 taquerias
 taradiddle
@@ -85223,6 +85251,7 @@ tessitura
 tessituras
 tessiture
 testa
+testabilities
 testability
 testable
 testaceans
@@ -85231,6 +85260,7 @@ testae
 testament
 testamentary
 testate
+testates
 testators
 testatrixes
 testcross
@@ -85443,6 +85473,7 @@ theologic
 theologically
 theologies
 theologised
+theologises
 theologising
 theologize
 theologizes
@@ -85936,6 +85967,7 @@ thyrotrophin
 thyrotropic
 thyrotropins
 thyroxin
+thyroxines
 thyroxins
 thyrse
 thyrses
@@ -89545,6 +89577,7 @@ underexposure
 underexposures
 underfeed
 underfeeds
+underfinanced
 underflow
 underflows
 underfoot
@@ -90366,6 +90399,7 @@ unmiters
 unmitre
 unmitring
 unmix
+unmixable
 unmixed
 unmixing
 unmixt
@@ -92800,6 +92834,7 @@ vivary
 vive
 viverrine
 viverrines
+vivers
 vivid
 vivider
 vividly
