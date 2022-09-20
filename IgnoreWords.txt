@@ -922,6 +922,7 @@ adulterants
 adulterated
 adulterations
 adulterators
+adulterer
 adulterers
 adulteresses
 adulteries
@@ -1259,6 +1260,7 @@ aftertax
 afterwards
 afterwords
 afterworld
+afterworlds
 aftosa
 aftosas
 agalloch
@@ -2227,6 +2229,7 @@ ambipolar
 ambisexual
 ambisexuality
 ambisexuals
+ambition
 ambitioned
 ambitionless
 ambitions
@@ -9177,6 +9180,7 @@ boraces
 boracic
 boracite
 boracites
+borage
 boral
 borane
 boras
@@ -11609,6 +11613,7 @@ capablenesses
 capabler
 capablest
 capably
+capaciousnesses
 capacitance
 capacitate
 capacitating
@@ -12111,6 +12116,7 @@ cartopper
 cartridges
 carts
 cartulary
+cartwheel
 cartwheeling
 cartwheels
 caruncle
@@ -15675,6 +15681,7 @@ colluded
 colludes
 colluding
 collusive
+colluvial
 colluvium
 colluviums
 colly
@@ -16292,6 +16299,7 @@ concededly
 conceders
 conceitedly
 conceitedness
+conceiting
 conceivability
 conceive
 conceived
@@ -19848,6 +19856,7 @@ dacquoises
 dacron
 dactylic
 dactylology
+dactyls
 dactylus
 dada
 dadaisms
@@ -21847,6 +21856,7 @@ designates
 designation
 designators
 designedly
+designments
 designs
 desilver
 desilvered
@@ -25024,6 +25034,7 @@ drying
 dryish
 dryland
 dryly
+drynesses
 dryopithecine
 drypoints
 drys
@@ -26881,6 +26892,7 @@ enervating
 enervation
 enervations
 enervator
+enervators
 enface
 enfacing
 enfeeble
@@ -28128,6 +28140,7 @@ ethylated
 ethylates
 ethylbenzene
 ethylbenzenes
+ethylene
 ethylenic
 ethyls
 ethyne
@@ -30701,6 +30714,7 @@ firestorms
 firethorn
 firetrap
 firetraps
+firewall
 firewood
 firewoods
 firing
@@ -36492,6 +36506,7 @@ hagiographers
 hagiographical
 hagiologic
 hagiology
+hagioscope
 hagridden
 hagrides
 hagriding
@@ -42418,6 +42433,7 @@ interjector
 interjectory
 interjects
 interjoined
+interjoining
 interjoins
 interknitted
 interknitting
@@ -46971,6 +46987,7 @@ linoleum
 linos
 linotype
 linotyping
+lins
 linsangs
 linseed
 linstock
@@ -49354,6 +49371,7 @@ mattock
 mattoids
 mattrass
 mattresses
+matts
 maturate
 maturates
 maturational
@@ -56442,6 +56460,7 @@ olefinic
 oleic
 oleine
 oleins
+oleo
 oleograph
 oleographs
 oleoresins
@@ -58589,6 +58608,7 @@ overoperate
 overoperated
 overopinionated
 overoptimism
+overoptimisms
 overoptimistic
 overorchestrate
 overorganized
@@ -61256,6 +61276,7 @@ perkiest
 perkiness
 perkinesses
 perkish
+perm
 permafrost
 permafrosts
 permanences
@@ -61981,6 +62002,7 @@ photomontage
 photomontages
 photomosaic
 photomultiplier
+photomural
 photomurals
 photonegative
 photonics
@@ -63571,6 +63593,7 @@ polling
 pollinium
 pollinized
 pollist
+pollists
 polliwog
 pollster
 pollsters
@@ -69381,6 +69404,7 @@ redskin
 redskins
 redstarts
 redtail
+redtails
 redtop
 redtops
 redub
@@ -72599,6 +72623,7 @@ rockable
 rockabye
 rockaways
 rocker
+rockeries
 rockers
 rockery
 rocket
@@ -74748,6 +74773,7 @@ scowler
 scowling
 scows
 scrabbled
+scrabblier
 scrabbliest
 scrabbling
 scrabbly
@@ -75563,6 +75589,7 @@ semisoft
 semisolids
 semistiff
 semitonal
+semitones
 semitonic
 semitonically
 semitrailers
@@ -76075,6 +76102,7 @@ shadblows
 shadbush
 shadchan
 shadchanim
+shadchans
 shaddock
 shaddocks
 shade
@@ -77719,6 +77747,7 @@ slabber
 slabbing
 slabs
 slack
+slacked
 slackened
 slackeners
 slackening
@@ -80784,6 +80813,7 @@ stemmas
 stemmata
 stemmatic
 stemmer
+stemmeries
 stemmery
 stemmiest
 stemming
@@ -81477,6 +81507,7 @@ stricture
 strictures
 stridden
 stride
+strider
 striders
 stridor
 stridors
@@ -89376,6 +89407,7 @@ uncoffins
 uncoiled
 uncoined
 uncollected
+uncollectible
 uncollectibles
 uncolored
 uncombed
@@ -89706,6 +89738,7 @@ undertaker
 undertakes
 undertaking
 undertax
+undertaxed
 undertaxes
 undertaxing
 undertenant
@@ -92928,6 +92961,7 @@ voices
 voicing
 voicings
 void
+voiding
 volant
 volante
 volatile
@@ -93115,6 +93149,7 @@ vulgarised
 vulgarising
 vulgarism
 vulgarisms
+vulgarity
 vulgarization
 vulgarizations
 vulgarize
