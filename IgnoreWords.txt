@@ -1450,6 +1450,7 @@ agreeably
 agreement
 agreements
 agrees
+agribusiness
 agribusinessman
 agribusinessmen
 agricultural
@@ -16589,6 +16590,7 @@ confirmands
 confirmation
 confirmations
 confirmatory
+confirmedness
 confirmednesses
 confirmer
 confirmers
@@ -22719,6 +22721,7 @@ diktat
 diktats
 dilapidation
 dilapidations
+dilatability
 dilatable
 dilatably
 dilatancy
@@ -24684,6 +24687,7 @@ draffier
 draffiest
 draffs
 draffy
+draft
 draftable
 drafted
 drafters
@@ -33042,6 +33046,7 @@ furnished
 furnishers
 furnishes
 furnishing
+furnitures
 furor
 furore
 furores
@@ -36275,6 +36280,7 @@ gushingly
 gusset
 gusseted
 gussied
+gussies
 gussy
 gustable
 gustables
@@ -37540,6 +37546,7 @@ hegemonies
 hegemons
 hegemony
 hegira
+hegumenies
 hegumens
 hegumeny
 heh
@@ -41344,6 +41351,7 @@ indiscernible
 indiscipline
 indisciplines
 indiscreet
+indiscretion
 indiscretions
 indiscriminate
 indispensable
@@ -42875,6 +42883,7 @@ introgression
 introit
 introject
 introjecting
+introjections
 intromission
 intromissions
 intromit
@@ -45068,6 +45077,7 @@ kneads
 knee
 kneecap
 kneecappings
+kneecaps
 kneeing
 kneeling
 kneels
@@ -45408,6 +45418,7 @@ lacewood
 lachrymal
 lachrymose
 lachrymosely
+lachrymosity
 laciest
 lacily
 lacings
@@ -46316,6 +46327,7 @@ legers
 leges
 legginess
 legging
+leggings
 leggins
 leggy
 legibilities
@@ -48076,6 +48088,7 @@ lutecium
 luteciums
 luted
 lutefisk
+lutefisks
 lutein
 luteinizations
 luteinize
@@ -59628,6 +59641,7 @@ pangenesis
 pangenetic
 pangens
 panging
+pangolins
 pangrams
 pangs
 panhandles
@@ -61648,6 +61662,7 @@ petsais
 pettable
 pettedly
 petters
+petticoat
 petticoats
 pettiest
 pettifogged
@@ -61765,6 +61780,7 @@ phencyclidines
 phenetic
 pheneticist
 pheneticists
+phenetol
 phenetole
 phenetoles
 phenixes
@@ -65263,6 +65279,7 @@ presbyters
 presbytery
 preschedule
 prescheduled
+prescheduling
 preschoolers
 preschools
 prescience
@@ -65522,6 +65539,7 @@ preventiveness
 preventives
 preview
 previewer
+previewers
 previewing
 previews
 previous
@@ -66879,6 +66897,7 @@ pulsers
 pulses
 pulsing
 pulsions
+pulsojets
 pulverise
 pulverizations
 pulverized
@@ -67235,6 +67254,7 @@ pyorrhoea
 pyorrhoeas
 pyoses
 pyracantha
+pyracanthas
 pyralid
 pyralidids
 pyralids
@@ -68357,6 +68377,7 @@ rationalists
 rationalities
 rationality
 rationalizable
+rationalization
 rationalizes
 rationalizing
 rationalness
@@ -71651,6 +71672,7 @@ retaste
 retastes
 retax
 retaxed
+retaxing
 retched
 retches
 retching
@@ -73236,6 +73258,7 @@ ruffles
 ruffling
 ruffly
 ruffs
+rufiyaa
 rug
 ruga
 rugate
@@ -80386,6 +80409,7 @@ squelchier
 squelchiest
 squelchy
 squeteague
+squibs
 squidded
 squidding
 squiffed
@@ -81281,6 +81305,7 @@ stomodeum
 stompers
 stomping
 stomps
+stone
 stonechat
 stonechats
 stonecrops
@@ -81825,6 +81850,7 @@ stupor
 sturdier
 sturdies
 sturdinesses
+sturgeons
 sturt
 sturts
 stutters
@@ -83116,6 +83142,7 @@ supersalesmen
 supersaturation
 superschools
 superscout
+superscouts
 superscribes
 superscript
 superscripts
@@ -83483,6 +83510,7 @@ swallow
 swallowable
 swallowers
 swallowtail
+swam
 swamies
 swamis
 swamp
@@ -84613,6 +84641,7 @@ tat
 tatami
 tatar
 tatars
+tate
 tatouay
 tatouays
 tats
@@ -85994,6 +86023,7 @@ thrummers
 thrummiest
 thrumming
 thrummy
+thrums
 thruputs
 thrush
 thrushes
@@ -86674,6 +86704,7 @@ tonier
 toning
 tonishly
 tonnage
+tonnages
 tonneau
 tonner
 tonnish
@@ -88976,6 +89007,7 @@ ultimogenitures
 ultrabasic
 ultracareful
 ultracautious
+ultracivilized
 ultraclean
 ultracompetent
 ultraconvenient
@@ -91601,6 +91633,7 @@ urogenous
 urokinase
 urokinases
 urolith
+urolithiasis
 uroliths
 urological
 urologies
@@ -92164,6 +92197,7 @@ veinlike
 veins
 veinule
 veinules
+veiny
 velamen
 velar
 velaria
@@ -94904,6 +94938,7 @@ wobegone
 woe
 woebegoneness
 woefuller
+woefulnesses
 woful
 wofuller
 wogs
