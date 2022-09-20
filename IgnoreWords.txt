@@ -4135,6 +4135,7 @@ archesporia
 archesporial
 archesporium
 archetypally
+archfiend
 archfoe
 archfoes
 archiepiscopal
@@ -6146,6 +6147,7 @@ banjos
 bankability
 bankable
 bankbook
+bankbooks
 bankcard
 bankits
 banknote
@@ -7632,6 +7634,7 @@ bibliographic
 bibliographies
 bibliolaters
 bibliologies
+bibliology
 bibliomaniacal
 bibliomanias
 bibliopegies
@@ -9254,6 +9257,7 @@ boscage
 boschboks
 boschvarks
 boshes
+boshvark
 boshvarks
 boskage
 boskages
@@ -10860,6 +10864,7 @@ bwanas
 by
 bycatches
 byelaws
+byes
 bygones
 byline
 bylines
@@ -19511,6 +19516,7 @@ curtseying
 curtseys
 curtsied
 curule
+curvacious
 curvature
 curvatures
 curve
@@ -20688,6 +20694,7 @@ decongests
 deconsecrate
 deconsecrated
 deconstruct
+deconstructing
 deconstructive
 deconstructs
 decontaminate
@@ -22500,6 +22507,7 @@ dibs
 dicamba
 dicambas
 dicast
+dicastic
 dicasts
 dice
 dicentric
@@ -23651,6 +23659,7 @@ disposer
 disposers
 disposing
 disposition
+dispositions
 dispositive
 dispossess
 dispossessed
@@ -25044,6 +25053,7 @@ drumbeaters
 drumbeating
 drumbeatings
 drumble
+drumbled
 drumbling
 drumfire
 drumfishes
@@ -26194,6 +26204,7 @@ elflock
 elhi
 elicit
 elicitation
+elicitations
 elicitors
 elided
 elides
@@ -26558,6 +26569,7 @@ emperorships
 emphases
 emphasis
 emphasise
+emphasizes
 emphasizing
 emphatic
 emphysemas
@@ -35738,6 +35750,7 @@ grigris
 grillades
 grille
 grillers
+grilles
 grilling
 grills
 grillwork
@@ -36316,6 +36329,7 @@ gutsy
 gutta
 guttae
 guttate
+guttated
 guttations
 gutter
 guttered
@@ -38096,6 +38110,7 @@ hexed
 hexer
 hexereis
 hexers
+hexobarbital
 hexobarbitals
 hexokinase
 hexones
@@ -39889,6 +39904,7 @@ hypostatizes
 hypostatizing
 hypostome
 hypostomes
+hypotactic
 hypotensions
 hypotensive
 hypotenuse
@@ -40586,6 +40602,7 @@ imperishable
 imperishables
 imperiums
 impermanence
+impermissible
 impermissibly
 impersonal
 impersonalities
@@ -41299,6 +41316,7 @@ independents
 indescribably
 indestructible
 indestructibly
+indeterminably
 indeterminacies
 indeterminacy
 indeterminate
@@ -42184,6 +42202,7 @@ inspissator
 inspissators
 instabilities
 installed
+installment
 installments
 installs
 instals
@@ -52907,6 +52926,7 @@ mucilages
 mucilaginous
 mucilaginously
 mucin
+mucinous
 muck
 muckamucks
 muckier
@@ -55225,6 +55245,7 @@ nonliterate
 nonlives
 nonliving
 nonloving
+nonluminous
 nonlyric
 nonmainstream
 nonmajor
@@ -55508,6 +55529,7 @@ nonurban
 nonurgent
 nonusers
 nonuses
+nonusing
 nonutilities
 nonvacant
 nonvalid
@@ -58729,6 +58751,7 @@ overpasses
 overpast
 overpay
 overpayments
+overpays
 overpedal
 overpedalling
 overpeopled
@@ -60276,6 +60299,7 @@ pasquils
 pasquinaded
 pasquinades
 pass
+passable
 passacaglia
 passacaglias
 passado
@@ -62832,6 +62856,7 @@ pistareens
 pistes
 pistol
 pistole
+pistoleer
 pistoliers
 pistoling
 pistolled
@@ -65788,6 +65813,7 @@ prizefighters
 prizefights
 prizers
 prizes
+prizewinner
 prizing
 proa
 proabortion
@@ -66127,6 +66153,7 @@ promptness
 promptnesses
 proms
 promulge
+promulges
 pronated
 pronating
 pronation
@@ -71850,6 +71877,7 @@ retroactively
 retroactivities
 retrocede
 retroceded
+retroceding
 retrocession
 retrocessions
 retrodicted
@@ -77497,6 +77525,7 @@ sinisterly
 sinistrous
 sink
 sinkable
+sinkage
 sinkers
 sinkholes
 sinking
@@ -80377,6 +80406,7 @@ squarenesses
 squares
 squaring
 squarishnesses
+squark
 squashed
 squasher
 squashers
@@ -82328,6 +82358,7 @@ subproletariats
 subpubic
 subraces
 subregion
+subrent
 subrents
 subreptions
 subreptitiously
@@ -86521,6 +86552,7 @@ toadfish
 toadfishes
 toadflaxes
 toadish
+toads
 toadstones
 toadstool
 toadstools
@@ -90276,6 +90308,7 @@ unheedful
 unhelming
 unhelms
 unhelped
+unhelpfully
 unheralded
 unheroic
 unhesitating
@@ -92547,6 +92580,7 @@ vestigially
 vestigium
 vestlike
 vestment
+vestmental
 vestry
 vestrymen
 vests
@@ -96033,6 +96067,7 @@ zonks
 zonula
 zonulae
 zonules
+zoo
 zoochore
 zoochores
 zooecium
