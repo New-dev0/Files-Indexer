@@ -2904,6 +2904,7 @@ anisole
 anisoles
 anisometropia
 anisometropias
+anisometropic
 anisotropically
 anisotropism
 anisotropy
@@ -8165,6 +8166,7 @@ bivalve
 bivalved
 bivinyl
 bivouac
+bivouacks
 bivouacs
 biweeklies
 biyearly
@@ -8637,6 +8639,7 @@ bluetongues
 blueweeds
 bluewood
 bluey
+blueys
 bluff
 bluffed
 bluffer
@@ -8792,6 +8795,7 @@ bodybuildings
 bodycheck
 bodychecked
 bodychecks
+bodyguard
 bodyguarded
 bodyguarding
 bodyguards
@@ -15484,6 +15488,7 @@ coleus
 coleuses
 colewort
 coleworts
+colic
 colicin
 colicines
 colickiest
@@ -18878,6 +18883,7 @@ cruddy
 crude
 crudely
 crudeness
+cruder
 crudest
 crudities
 crudity
@@ -20400,6 +20406,7 @@ deceiving
 decelerate
 decelerated
 decelerates
+decelerating
 decelerations
 deceleron
 decelerons
@@ -24251,6 +24258,7 @@ dopa
 dopamines
 dopants
 dopas
+dope
 doped
 doper
 dopers
@@ -25205,6 +25213,7 @@ duumvir
 duumvirates
 duumviri
 duumvirs
+duvet
 duvets
 duvetynes
 duxelles
@@ -28691,6 +28700,7 @@ exonumists
 exonym
 exopeptidases
 exophthalmic
+exophthalmos
 exophthalmoses
 exophthalmus
 exophthalmuses
@@ -34319,6 +34329,7 @@ glady
 glaikit
 glair
 glaire
+glaired
 glaires
 glairier
 glairing
@@ -35932,6 +35943,7 @@ guidelines
 guidepost
 guideposts
 guiders
+guides
 guideway
 guideways
 guiding
@@ -37421,6 +37433,7 @@ hellbent
 hellbox
 hellboxes
 helldivers
+hellebores
 helled
 hellenizations
 hellenize
@@ -38551,6 +38564,7 @@ honeybuns
 honeycomb
 honeycombed
 honeycombing
+honeycombs
 honeydew
 honeydews
 honeyeater
@@ -39914,6 +39928,7 @@ ignobilities
 ignobility
 ignobleness
 ignominiously
+ignominy
 ignorami
 ignoramuses
 ignorance
@@ -45012,6 +45027,7 @@ krona
 krone
 kroner
 kroon
+krooni
 krubut
 krullers
 krumhorn
@@ -47372,6 +47388,7 @@ longueurs
 longways
 looby
 looey
+loof
 loofa
 loofahs
 loofas
@@ -48722,6 +48739,7 @@ maple
 maplelike
 maplike
 mapmaker
+mapped
 mappers
 maps
 mar
@@ -51402,6 +51420,7 @@ misshaped
 misshapenly
 misshaper
 missies
+missile
 missilery
 missilry
 missing
@@ -53602,6 +53621,7 @@ navicert
 naviculars
 navigation
 navigational
+navigationally
 navigations
 navigators
 navvies
@@ -53643,6 +53663,7 @@ nebulising
 nebulize
 nebulose
 nebulosities
+nebulosity
 nebulous
 nebulously
 necessaries
@@ -58798,6 +58819,7 @@ oxides
 oxidic
 oxidiser
 oxidisers
+oxidized
 oxidizer
 oxidizers
 oxidizes
@@ -59169,6 +59191,7 @@ pallidness
 pallidnesses
 pallier
 palling
+pallium
 palm
 palmar
 palmary
@@ -59599,6 +59622,7 @@ paraphraser
 paraphrases
 paraphrasing
 paraphs
+paraphyses
 paraplegic
 paraplegics
 parapsychology
@@ -62094,6 +62118,7 @@ piers
 pies
 pieta
 pieties
+pietisms
 pietist
 pietistic
 pietistically
@@ -65870,6 +65895,7 @@ propping
 propraetors
 propretor
 propria
+proprietaries
 proprieties
 proprietor
 proprietorial
@@ -68914,6 +68940,7 @@ recurves
 recusal
 recusals
 recusancies
+recusancy
 recusant
 recusants
 recuse
@@ -69046,6 +69073,7 @@ rediscovery
 rediscuss
 rediscusses
 rediscussing
+redisplay
 redisplays
 redisposed
 redisposes
@@ -69315,6 +69343,7 @@ refaces
 refall
 refallen
 refalling
+refashion
 refashioned
 refashions
 refastened
@@ -73958,6 +73987,7 @@ scablike
 scabrousness
 scabrousnesses
 scad
+scads
 scaffold
 scaffolded
 scaffoldings
@@ -75304,6 +75334,7 @@ sempstresses
 sen
 senarii
 senarius
+senate
 senatorial
 senatorship
 senatorships
@@ -82502,6 +82533,7 @@ supercity
 supercivilized
 superclass
 superclasses
+superclub
 supercluster
 superclusters
 supercoil
@@ -84797,6 +84829,7 @@ terai
 teraohm
 teratism
 teratisms
+teratogeneses
 teratogenesis
 teratogenicity
 teratogens
@@ -86255,6 +86288,7 @@ toolings
 toolmakers
 toolmaking
 toolmakings
+toolroom
 toolrooms
 toom
 toon
@@ -89486,6 +89520,7 @@ undular
 undulated
 undulates
 undulating
+undulations
 undulled
 undutiful
 undutifulnesses
