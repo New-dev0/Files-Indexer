@@ -8661,6 +8661,7 @@ blowball
 blowby
 blowbys
 blowdown
+blowed
 blowgun
 blowguns
 blowhards
@@ -10545,6 +10546,7 @@ bun
 bunched
 bunches
 bunchier
+bunchiest
 bunchily
 bunching
 buncoing
@@ -14542,6 +14544,7 @@ clamoured
 clamours
 clamp
 clampdown
+clampdowns
 clamped
 clamper
 clampers
@@ -14786,6 +14789,7 @@ climactically
 climate
 climates
 climatic
+climatically
 climatize
 climatizing
 climatological
@@ -22335,6 +22339,7 @@ deviling
 devilish
 devilkin
 devilling
+devilment
 devilry
 devils
 deviltries
@@ -23873,6 +23878,7 @@ disseat
 disseated
 disseats
 dissect
+dissected
 dissecting
 dissectors
 dissects
@@ -24244,6 +24250,7 @@ dockages
 docker
 dockers
 docketed
+dockets
 dockhands
 docking
 docklands
@@ -25757,6 +25764,7 @@ ebbs
 ebon
 ebonics
 ebonies
+ebonised
 ebonises
 ebonising
 ebonizes
@@ -26114,6 +26122,7 @@ egomaniacally
 egomaniacs
 egomanias
 egotistic
+egregious
 egregiously
 egregiousness
 egressed
@@ -27249,6 +27258,7 @@ ennobler
 ennuye
 ennuyee
 enoki
+enokidake
 enokitake
 enokitakes
 enolase
@@ -28110,6 +28120,7 @@ escapers
 escapes
 escapism
 escapisms
+escapists
 escapologies
 escapologist
 escar
@@ -29406,6 +29417,7 @@ extravasating
 extravehicular
 extraversion
 extravert
+extraverted
 extraverts
 extreme
 extremely
@@ -29528,6 +29540,7 @@ fabricators
 fabrics
 fabulates
 fabulating
+fabulist
 fabulists
 fabulously
 fabulousness
@@ -33201,6 +33214,7 @@ funnelform
 funnelled
 funnels
 funner
+funnest
 funnies
 funninesses
 funning
@@ -36816,6 +36830,7 @@ hairlike
 hairlines
 hairlock
 hairlocks
+hairnet
 hairpiece
 hairpin
 hairpins
@@ -44565,6 +44580,7 @@ junkier
 junkies
 junking
 junkmen
+junks
 junkyards
 junto
 juntos
@@ -48176,6 +48192,7 @@ luau
 lubber
 lubbers
 lube
+lubed
 lubes
 lubing
 lubricants
@@ -52217,6 +52234,7 @@ mobbishly
 mobbism
 mobcap
 mobcaps
+mobile
 mobiles
 mobilises
 mobilities
@@ -55057,6 +55075,7 @@ noels
 noes
 noesises
 noetic
+nog
 noggin
 noggs
 noh
@@ -57192,6 +57211,7 @@ opioids
 opisthobranch
 opiums
 opossum
+opossums
 oppidan
 oppidans
 oppilant
@@ -58311,6 +58331,7 @@ outshouting
 outshouts
 outsider
 outsidernesses
+outsights
 outsin
 outsing
 outsinging
@@ -58322,6 +58343,7 @@ outsitting
 outsized
 outsizes
 outskated
+outskirt
 outskirts
 outslick
 outslicking
@@ -60487,6 +60509,7 @@ paroquets
 parosmia
 parotic
 parotitic
+parotitis
 parotitises
 parous
 paroxysms
@@ -61024,6 +61047,7 @@ peartness
 peartnesses
 pearwood
 pearwoods
+peas
 peasantries
 peasants
 peascod
@@ -61501,6 +61525,7 @@ perambulate
 perambulated
 perambulation
 perambulators
+perborates
 percale
 percales
 percaline
@@ -62101,6 +62126,7 @@ phanerogam
 phanerophyte
 phantasies
 phantasm
+phantasma
 phantasmagoria
 phantasmagoric
 phantasmal
@@ -65630,6 +65656,7 @@ preprocessing
 preprocessor
 preprocessors
 preproduction
+preprograming
 preprogrammed
 preps
 prepubertal
@@ -67145,6 +67172,7 @@ psychrometries
 psychs
 psyllid
 psylliums
+psywars
 ptarmigan
 pteranodon
 pteridine
@@ -68475,6 +68503,7 @@ ragtops
 ragweeds
 ragworts
 rah
+rai
 raia
 raias
 raid
@@ -71320,6 +71349,7 @@ replay
 replayed
 replaying
 replead
+repleader
 repled
 repledge
 repledges
@@ -76431,6 +76461,7 @@ serged
 serger
 serging
 serial
+serialised
 serialist
 serialization
 serialized
@@ -78576,6 +78607,7 @@ slinking
 slinky
 slip
 slipcase
+slipcased
 slipcover
 slipcovered
 slipcovering
@@ -91351,6 +91383,7 @@ unreinforced
 unrelated
 unrelenting
 unrelentingly
+unreliabilities
 unreliability
 unreluctant
 unremarkable
@@ -92171,6 +92204,7 @@ ureotelisms
 ureter
 ureteric
 ureters
+urethan
 urethane
 urethans
 urethra
@@ -94834,6 +94868,7 @@ whencesoever
 whenever
 whens
 whensoever
+where
 whereabout
 whereabouts
 wherefore

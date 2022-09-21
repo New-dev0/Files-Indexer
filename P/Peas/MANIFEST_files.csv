@@ -1,0 +1,10 @@
+focal-desktop-amd64.manifest - Ubuntu CDImage,https://cdimage.ubuntu.com/focal/daily-live/manual/focal-desktop-amd64.manifest
+kinetic-desktop-amd64.manifest - Ubuntu CDImage,https://cdimage.ubuntu.com/xubuntu/daily-live/current/kinetic-desktop-amd64.manifest
+https://mirrors.aliyun.com/oldubuntu-releases/rele...,https://mirrors.aliyun.com/oldubuntu-releases/releases/12.04.4/ubuntu-12.04-desktop-powerpc.manifest
+ftp.jaist.ac.jp/pub/Linux/ubuntu-cdimage/daily-liv...,http://ftp.jaist.ac.jp/pub/Linux/ubuntu-cdimage/daily-live/current/kinetic-desktop-amd64.manifest
+ftp.jaist.ac.jp/pub/Linux/ubuntu-cdimage/daily-pre...,http://ftp.jaist.ac.jp/pub/Linux/ubuntu-cdimage/daily-preinstalled/current/kinetic-preinstalled-desktop-arm64%2Braspi.manifest
+Resetter/LinuxMint_19_X-Cinnamon_64bit_.manifest at master,https://github.com/gaining/Resetter/blob/master/Resetter/usr/lib/resetter/data/manifests/LinuxMint_19_X-Cinnamon_64bit_.manifest
+mint-dev-tools/filesystem.manifest at master - GitHub,https://github.com/linuxmint/mint-dev-tools/blob/master/usr/share/mint-dev-tools/manifests/mint-20-mate/filesystem.manifest
+ftp.ntua.gr/mirror/GNOME/misc/ubuntu-gnome-remix/u...,http://ftp.ntua.gr/mirror/GNOME/misc/ubuntu-gnome-remix/ubuntu-gnome-12.10-desktop-i386.manifest
+ftp.uni-kl.de/pub/linux/ubuntu-dvd/daily-live/pend...,http://ftp.uni-kl.de/pub/linux/ubuntu-dvd/daily-live/pending/kinetic-desktop-amd64.manifest
+ubuntu.interhost.co.il/18.04/ubuntu-18.04-beta2-de...,http://ubuntu.interhost.co.il/18.04/ubuntu-18.04-beta2-desktop-amd64.manifest
