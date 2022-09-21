@@ -9842,6 +9842,7 @@ breechclouts
 breeched
 breeches
 breeching
+breechings
 breechloader
 breechloaders
 breed
@@ -12205,6 +12206,7 @@ caryotin
 casa
 casaba
 casabas
+casbah
 casbahs
 cascabel
 cascable
@@ -17919,6 +17921,7 @@ coseismal
 coseismals
 coses
 cosey
+coshered
 coshering
 coshers
 coshing
@@ -18487,6 +18490,7 @@ crafts
 craftsman
 craftsmanship
 craftsmanships
+craftsmen
 craftspersons
 craftwork
 crag
@@ -19399,6 +19403,7 @@ cumbers
 cumbersome
 cumbersomeness
 cumbias
+cumbrances
 cumbrous
 cumin
 cummin
@@ -20413,6 +20418,7 @@ deadlight
 deadlined
 deadliness
 deadlining
+deadlocked
 deadlocking
 deadly
 deadmen
@@ -20854,6 +20860,7 @@ decussates
 decussation
 decussations
 dedicated
+dedicatee
 dedicates
 dedicating
 deduced
@@ -22729,6 +22736,7 @@ dietician
 dieting
 diets
 diff
+differ
 differed
 difference
 differentia
@@ -25071,6 +25079,7 @@ drooliest
 drooling
 drooped
 droopily
+droopingly
 droops
 droopy
 dropcloth
@@ -27272,6 +27281,7 @@ ensemble
 enserfed
 enserfing
 enserfment
+enserfs
 ensheathe
 ensheathes
 enshrine
@@ -29613,6 +29623,7 @@ fainters
 faintest
 faintheartedly
 faintish
+faintishnesses
 faintly
 faints
 fair
@@ -33336,6 +33347,7 @@ gabs
 gaby
 gadabouts
 gadarene
+gadders
 gadget
 gadgetries
 gadgetry
@@ -34744,6 +34756,7 @@ gleaning
 gleanings
 gleans
 glebeless
+glebes
 gledes
 gleed
 gleeful
@@ -40342,6 +40355,7 @@ illatively
 illaudably
 illegalities
 illegality
+illegalization
 illegalizing
 illegals
 illegibility
@@ -41396,6 +41410,7 @@ incuriosity
 incurious
 incuriousness
 incurrence
+incurrent
 incurs
 incursion
 incursions
@@ -42934,6 +42949,7 @@ intervene
 intervener
 intervenes
 intervening
+intervenor
 intervention
 interventionism
 interventions
@@ -45050,6 +45066,7 @@ killdeers
 killed
 killies
 killing
+killings
 killjoy
 killock
 killocks
@@ -47106,6 +47123,7 @@ limb
 limba
 limbeck
 limbed
+limber
 limberer
 limberest
 limbering
@@ -47365,6 +47383,7 @@ liquored
 liquorish
 lira
 liras
+lire
 liriope
 liripipe
 liripipes
@@ -52863,6 +52882,7 @@ mortifying
 mortiser
 mortisers
 mortises
+mortising
 mortmain
 mortmains
 morulae
@@ -53037,6 +53057,7 @@ mountings
 mourned
 mourners
 mournful
+mournfully
 mourning
 mourningly
 mourns
@@ -58394,6 +58415,7 @@ outwore
 outworker
 outworn
 outwrestles
+outwrit
 outwrite
 outwriting
 outwritten
@@ -66212,6 +66234,7 @@ professor
 professorate
 professorates
 professorial
+professoriat
 professoriates
 professoriats
 proffered
@@ -66857,6 +66880,7 @@ prunella
 prunelles
 prunellos
 pruning
+prunus
 prurience
 pruriences
 pruriencies
@@ -72436,6 +72460,7 @@ rewiden
 rewidening
 rewinded
 rewinder
+rewinding
 rewins
 rewire
 rewired
@@ -73284,6 +73309,7 @@ roseslug
 roset
 rosette
 rosewater
+rosewood
 roshis
 rosiest
 rosily
@@ -77664,6 +77690,7 @@ silkweed
 silkweeds
 silkworm
 sill
+siller
 sillers
 sillibub
 sillibubs
@@ -82009,6 +82036,7 @@ strigils
 strike
 strikebreaker
 strikebreakers
+strikebreakings
 strikeouts
 strikeovers
 striker
@@ -85793,6 +85821,7 @@ testabilities
 testability
 testable
 testaceans
+testaceous
 testacies
 testae
 testament
@@ -86795,6 +86824,7 @@ tire
 tired
 tireder
 tiredest
+tiredly
 tirednesses
 tires
 tiresome
@@ -86927,6 +86957,7 @@ toehold
 toeholds
 toeless
 toelike
+toenailed
 toenailing
 toenails
 toeplate
@@ -88060,6 +88091,7 @@ tres
 trespass
 trespassed
 trespassers
+trespassing
 tressel
 tresses
 tressiest
@@ -91092,6 +91124,7 @@ unprecedentedly
 unpregnant
 unprejudiced
 unpremeditated
+unpreparedness
 unprepossessing
 unpressed
 unpressured
@@ -92375,6 +92408,7 @@ vaporish
 vaporishness
 vaporishnesses
 vaporising
+vaporization
 vaporizations
 vaporize
 vaporizes
@@ -95549,6 +95583,7 @@ woozy
 wops
 wordage
 wordbook
+wordings
 wordless
 wordlessness
 wordlessnesses
