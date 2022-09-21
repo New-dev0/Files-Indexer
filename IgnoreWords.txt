@@ -3236,6 +3236,7 @@ anticolonial
 anticolonialism
 anticolonialist
 anticommunisms
+anticommunist
 anticommunists
 anticompetitive
 anticonsumer
@@ -6616,6 +6617,7 @@ battleships
 battling
 battue
 batty
+baubees
 bauble
 baud
 baudekins
@@ -13622,6 +13624,7 @@ chiefest
 chiefs
 chiefships
 chieftaincy
+chieftains
 chield
 chiffchaffs
 chiffon
@@ -16830,6 +16833,7 @@ conjugateness
 conjugational
 conjugationally
 conjugations
+conjunct
 conjunction
 conjunctional
 conjunctions
@@ -17516,6 +17520,7 @@ copped
 copperah
 copperas
 copperases
+copperplates
 coppersmiths
 coppery
 coppiced
@@ -22014,6 +22019,7 @@ desirability
 desirableness
 desirables
 desirably
+desired
 desiring
 desirously
 desirousnesses
@@ -25429,6 +25435,7 @@ dures
 duress
 duresses
 durians
+durmasts
 durn
 durneder
 durning
@@ -26039,6 +26046,7 @@ effuses
 effusing
 effusion
 effusions
+effusively
 effusiveness
 effusivenesses
 efs
@@ -27483,6 +27491,7 @@ enucleation
 enucleations
 enuf
 enumerabilities
+enumerability
 enumerable
 enumerate
 enumerated
@@ -34413,6 +34422,7 @@ gibbered
 gibberellins
 gibbering
 gibberishes
+gibbeted
 gibbeting
 gibbing
 gibbons
@@ -36220,6 +36230,7 @@ guaranties
 guaranty
 guarantying
 guarddog
+guarddogs
 guarded
 guardedly
 guardedness
@@ -38601,6 +38612,7 @@ hobs
 hock
 hocker
 hockey
+hockeys
 hocks
 hockshop
 hockshops
@@ -39268,6 +39280,7 @@ hotelman
 hotelmen
 hotels
 hotfooted
+hotfoots
 hotheaded
 hotheadedly
 hotheadednesses
@@ -40049,6 +40062,7 @@ hypomorphs
 hyponasty
 hyponea
 hyponoia
+hyponym
 hyponyms
 hypopharynges
 hypopharynxes
@@ -40190,6 +40204,7 @@ idealism
 idealisms
 idealist
 idealists
+idealities
 ideality
 idealize
 idealized
@@ -41858,6 +41873,7 @@ inflatables
 inflate
 inflating
 inflationary
+inflationism
 inflationisms
 inflations
 inflected
@@ -42462,6 +42478,7 @@ insurant
 insurer
 insurers
 insurgence
+insurgences
 insurgencies
 insurgency
 insurgents
@@ -54367,6 +54384,7 @@ neoliberalism
 neoliberals
 neolith
 neoliths
+neologic
 neologies
 neologism
 neologist
@@ -59981,6 +59999,7 @@ pantile
 pantiles
 panting
 pantisocracy
+pantisocratical
 pantisocratist
 pantisocratists
 panto
@@ -63092,6 +63111,7 @@ piscinal
 piscine
 piscivore
 pish
+pished
 pishers
 pishogue
 pisiform
@@ -64708,6 +64728,7 @@ potiches
 potlache
 potlatch
 potlatches
+potlatching
 potline
 potpies
 potpourri
@@ -69111,6 +69132,7 @@ rebaiting
 rebaptism
 rebaptisms
 rebaptized
+rebaptizes
 rebaptizing
 rebar
 rebated
@@ -70220,6 +70242,7 @@ refueling
 refuelled
 refuels
 refuge
+refuged
 refugees
 refuging
 refugium
@@ -70993,6 +71016,7 @@ rendered
 renderers
 rendering
 rendezvous
+rendezvoused
 rendible
 rendition
 renditions
@@ -72137,6 +72161,7 @@ retransform
 retransformed
 retransforming
 retransforms
+retranslate
 retranslated
 retranslation
 retransmission
@@ -72246,6 +72271,7 @@ revalidated
 revalidating
 revalidation
 revalorization
+revalorizations
 revalorize
 revalorized
 revalorizing
@@ -77409,6 +77435,7 @@ shuttleless
 shuttles
 shvartze
 shvartzes
+shwanpan
 shwanpans
 shwas
 shyers
@@ -80351,6 +80378,7 @@ splake
 splanchnic
 splash
 splashboards
+splashdowns
 splasher
 splashers
 splashier
@@ -86177,6 +86205,7 @@ thickets
 thickhead
 thickheaded
 thickish
+thickly
 thicknesses
 thicks
 thicksets
@@ -87912,6 +87941,7 @@ trapezoids
 traplines
 trapnest
 trapnesting
+trapnests
 trapped
 trapper
 trappers
@@ -88754,6 +88784,7 @@ tryouts
 trypsins
 tryptamine
 tryptamines
+trysail
 tryste
 trysted
 tryster
@@ -89069,6 +89100,7 @@ turtleneck
 turtlenecks
 turtler
 turtles
+turtlings
 tushed
 tushery
 tushie
@@ -89733,6 +89765,7 @@ unbecomingly
 unbecomingness
 unbeknown
 unbelief
+unbeliefs
 unbelievable
 unbelievably
 unbelievers
@@ -93161,6 +93194,7 @@ vilenesses
 viler
 vilest
 vilification
+vilified
 vilifier
 vilifiers
 vilipended
@@ -94704,6 +94738,7 @@ wherefore
 wherefrom
 wherein
 whereinto
+whereof
 whereon
 wheresoever
 whereto
