@@ -6309,6 +6309,7 @@ bareheaded
 barely
 bareness
 baresark
+barest
 barf
 barfed
 barfing
@@ -9598,6 +9599,7 @@ bracioles
 bracken
 brackens
 bracket
+bracketed
 bracketing
 brackets
 brackish
@@ -10020,6 +10022,7 @@ bristols
 britannias
 britches
 briths
+brits
 britt
 brittania
 brittanias
@@ -11444,6 +11447,7 @@ campaigned
 campaigner
 campaigners
 campaigns
+campanile
 campanili
 campanologies
 campanology
@@ -12462,6 +12466,7 @@ catechols
 catechumens
 catechus
 categorically
+categories
 categorised
 categorises
 categorising
@@ -16173,6 +16178,7 @@ communise
 communised
 communises
 communisms
+communist
 communistic
 communistically
 communities
@@ -16575,6 +16581,7 @@ concurrent
 concurrently
 concurring
 concuss
+concussing
 concussion
 concussive
 condemn
@@ -19459,6 +19466,7 @@ cummins
 cumquat
 cumquats
 cumshaw
+cumulate
 cumulates
 cumulating
 cumulation
@@ -21498,6 +21506,7 @@ demivolt
 demivoltes
 demiworld
 demiworlds
+demo
 demob
 demobbed
 demobilize
@@ -23680,6 +23689,7 @@ disinvites
 disinviting
 disjecting
 disjoin
+disjoining
 disjoins
 disjointedness
 disjoints
@@ -33374,6 +33384,7 @@ fustier
 fustiest
 fustigate
 fustigating
+fustigations
 fustinesses
 fusulinids
 futharcs
@@ -35274,6 +35285,7 @@ goitrogenicity
 goitrogens
 goitrous
 golconda
+goldarn
 goldbricked
 goldbricking
 goldbugs
@@ -36700,6 +36712,7 @@ haberdasher
 haberdashers
 haberdashery
 habergeon
+habile
 habiliment
 habiliments
 habilitated
@@ -36979,6 +36992,7 @@ halo
 halobiont
 halobionts
 halocarbon
+haloes
 halogen
 halogenate
 halogenated
@@ -39665,6 +39679,7 @@ hunky
 hunnish
 huns
 hunted
+huntedly
 hunter
 hunters
 huntings
@@ -40134,6 +40149,7 @@ hypocritically
 hypocycloids
 hypoderm
 hypoderma
+hypodermic
 hypodermically
 hypodermis
 hypodermises
@@ -40397,6 +40413,7 @@ idolism
 idolization
 idolize
 idolized
+idolizer
 idolizes
 idolizing
 idoneity
@@ -43992,6 +44009,7 @@ jam
 jambalaya
 jambe
 jambeau
+jambeaux
 jambes
 jambing
 jamboree
@@ -45454,6 +45472,7 @@ knightlinesses
 knightly
 knishes
 knits
+knittable
 knitter
 knitting
 knitwear
@@ -45585,6 +45604,7 @@ koussos
 kowtower
 kowtows
 kraal
+kraals
 kraken
 krakens
 krauts
@@ -45914,6 +45934,7 @@ lakeports
 laker
 lakes
 lakeshore
+lakeshores
 lakh
 lakhs
 lakier
@@ -46598,6 +46619,7 @@ lectern
 lectin
 lectins
 lection
+lections
 lectors
 lectotype
 lectured
@@ -48658,6 +48680,7 @@ macon
 macons
 macrame
 macrames
+macro
 macroaggregate
 macroaggregated
 macrocosmically
@@ -51816,6 +51839,7 @@ misesteeming
 misestimate
 misestimates
 misestimating
+misestimation
 misevaluate
 misevaluated
 misevaluation
@@ -55371,6 +55395,7 @@ nonconsumption
 nonconsumptions
 noncontact
 noncontagious
+noncontemporary
 noncontiguous
 noncontract
 noncontributory
@@ -61735,6 +61760,7 @@ pericycles
 pericyclic
 periderm
 peridia
+peridium
 peridotites
 perigeal
 perigee
@@ -64377,6 +64403,7 @@ pomaded
 pomades
 pomanders
 pomatum
+pome
 pomegranate
 pomegranates
 pomelos
@@ -67368,6 +67395,7 @@ pukka
 pul
 pula
 pulchritude
+pulchritudes
 pulchritudinous
 pule
 puler
@@ -76625,6 +76653,7 @@ sers
 serum
 servable
 serval
+servanthood
 servantless
 servants
 served
@@ -88120,6 +88149,7 @@ transported
 transporter
 transporters
 transports
+transpose
 transposition
 transposons
 transsexual
@@ -89418,6 +89448,7 @@ tweeners
 tweeness
 tweenesses
 tweenies
+tweens
 tweet
 tweets
 tweezer
@@ -89928,6 +89959,7 @@ unapplied
 unappropriated
 unaptness
 unarguably
+unargued
 unarm
 unarmed
 unarrogant
@@ -94232,6 +94264,7 @@ waltzer
 wambled
 wamblier
 wamefou
+wamefous
 wameful
 wamefuls
 wammuses
@@ -94612,6 +94645,7 @@ wayworn
 wazoos
 weaken
 weakeners
+weakens
 weakhearted
 weakish
 weakishly
@@ -96760,6 +96794,7 @@ zoochores
 zooecium
 zoogamete
 zoogenic
+zoogenies
 zoogeny
 zoogeographer
 zoogeographic
