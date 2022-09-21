@@ -11698,6 +11698,7 @@ capitella
 capitols
 capitularies
 capitulary
+capitulate
 capitulates
 capitulations
 capitulum
@@ -12713,6 +12714,7 @@ censored
 censorial
 censoring
 censors
+censorship
 censual
 censure
 censured
@@ -19068,6 +19070,7 @@ crusade
 crusaded
 crusaders
 crusading
+crusado
 crusadoes
 cruse
 cruses
@@ -19892,6 +19895,7 @@ czarism
 czarisms
 czarists
 czaritzas
+dab
 dabbed
 dabble
 dabbled
@@ -22599,6 +22603,7 @@ didactical
 didacticism
 didacticisms
 didacts
+didactyl
 diddle
 diddlers
 diddles
@@ -32239,6 +32244,7 @@ fortnightly
 fortnights
 fortressed
 fortresses
+fortuitous
 fortunatenesses
 fortune
 fortuned
@@ -33585,6 +33591,7 @@ gardai
 gardant
 gardened
 gardeners
+gardenful
 gardenia
 gardenias
 gardens
@@ -36039,6 +36046,7 @@ grumbles
 grumblingly
 grumbly
 grume
+grumes
 grummet
 grummets
 grumose
@@ -37683,6 +37691,7 @@ hellholes
 hellhound
 hellhounds
 helling
+hellion
 hellions
 hellish
 hellishly
@@ -43105,6 +43114,7 @@ invirile
 inviscid
 invisibilities
 invisibility
+invisibleness
 invisibles
 invisibly
 invitation
@@ -44982,6 +44992,7 @@ kinescope
 kinescopes
 kineses
 kinesthesias
+kinesthesis
 kinesthetic
 kinetic
 kinetically
@@ -45762,6 +45773,7 @@ landlubberly
 landlubbers
 landlubbing
 landman
+landmark
 landmarked
 landmasses
 landmen
@@ -47463,6 +47475,7 @@ lobule
 lobworm
 lobworms
 locales
+localise
 localised
 localises
 localising
@@ -49269,6 +49282,7 @@ martini
 martins
 martyr
 martyrdom
+martyred
 martyrization
 martyrizations
 martyrize
@@ -50676,6 +50690,7 @@ micropipets
 micropipette
 micropipettes
 microplankton
+microplanktons
 micropore
 microporosity
 microprisms
@@ -51480,6 +51495,7 @@ misenters
 miser
 miserableness
 miserere
+misericorde
 misericords
 miserliness
 miserlinesses
@@ -54169,6 +54185,7 @@ neoclassicists
 neocolonialism
 neocolonialisms
 neocolonialist
+neocolonialists
 neocon
 neocons
 neoconservatism
@@ -56476,6 +56493,7 @@ offended
 offenders
 offending
 offends
+offense
 offenseless
 offenses
 offensively
@@ -60529,6 +60547,7 @@ patly
 patness
 patnesses
 patootie
+patriarch
 patriarchal
 patriarchies
 patriarchs
@@ -61252,6 +61271,7 @@ perdie
 perditions
 perdu
 perdue
+perdues
 perdurability
 perdurably
 perdured
@@ -62342,6 +62362,7 @@ phytanes
 phytins
 phytochemical
 phytochemically
+phytochemist
 phytochemistry
 phytochrome
 phytoflagellate
@@ -64375,6 +64396,7 @@ postmortems
 postnatal
 postnatally
 postneonatal
+postoperative
 postoperatively
 postops
 postorbital
@@ -65233,6 +65255,7 @@ prenotification
 prenotifying
 prenotion
 prenticing
+prenumbering
 prenumbers
 prenuptial
 preobtain
@@ -65400,6 +65423,7 @@ presentations
 presented
 presentee
 presentees
+presentenced
 presentencing
 presentient
 presentimental
@@ -68645,6 +68669,7 @@ reactivities
 reactor
 reactors
 readability
+readable
 readableness
 readablenesses
 readably
@@ -69492,6 +69517,7 @@ redhorse
 rediae
 redial
 redialing
+redictate
 redictating
 redid
 redigested
@@ -79344,6 +79370,7 @@ sordid
 sordines
 sordini
 sords
+sorehead
 soreheaded
 soreheads
 sorels
@@ -80597,6 +80624,7 @@ stabilize
 stabilized
 stabilizer
 stabilizing
+stableboy
 stableboys
 stabled
 stableman
@@ -84332,6 +84360,7 @@ taffarel
 tafferel
 tafferels
 taffeta
+taffetas
 taffrails
 tafia
 tafias
@@ -87275,6 +87304,7 @@ traders
 trades
 tradescantia
 tradescantias
+tradesman
 trading
 traditional
 traditionalisms
@@ -88166,6 +88196,7 @@ tritium
 tritomas
 triton
 tritone
+tritons
 triturable
 triturating
 trituration
@@ -90334,6 +90365,7 @@ unguentum
 ungula
 ungulae
 ungulate
+ungulates
 unhailed
 unhairer
 unhairers
@@ -93924,6 +93956,7 @@ waterspouts
 waterthrushes
 watertightness
 waterweed
+waterweeds
 waterwork
 waterzoois
 wattest
@@ -93948,6 +93981,7 @@ wauled
 wauling
 wave
 waved
+waveforms
 waveguide
 wavelength
 wavelengths
@@ -94287,6 +94321,7 @@ wetting
 wettish
 wha
 whack
+whackers
 whacks
 whale
 whaleback
