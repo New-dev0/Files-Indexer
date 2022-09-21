@@ -12479,6 +12479,7 @@ catheterization
 catheterized
 cathexes
 cathodally
+cathodes
 cathodic
 catholically
 catholicate
@@ -14413,6 +14414,7 @@ citified
 citizeness
 citizenesses
 citizenries
+citizenry
 citizens
 citizenships
 citolas
@@ -16698,6 +16700,7 @@ conflicts
 confluent
 conflux
 confluxes
+confocal
 confocally
 conform
 conformance
@@ -17602,6 +17605,7 @@ coquettishly
 coquille
 coquilles
 coquinas
+coquito
 coracle
 coracles
 coracoid
@@ -27126,8 +27130,10 @@ engines
 enginous
 engirded
 engirdle
+engirdles
 engirds
 english
+englishing
 englut
 englutted
 englutting
@@ -28432,6 +28438,7 @@ euphemist
 euphemistically
 euphemists
 euphemized
+euphemizers
 euphemizes
 euphemizing
 euphenic
@@ -31809,6 +31816,7 @@ fogy
 fogyish
 foh
 fohn
+foible
 foibles
 foiling
 foils
@@ -34469,6 +34477,7 @@ gigantisms
 gigatons
 gigged
 gigging
+giggle
 giggled
 giggler
 gigglier
@@ -35038,6 +35047,7 @@ gnarlier
 gnarling
 gnarls
 gnarr
+gnarred
 gnarrs
 gnars
 gnash
@@ -35898,6 +35908,7 @@ grievousnesses
 griffe
 griffes
 griffon
+griffons
 griffs
 grift
 grifts
@@ -36562,6 +36573,7 @@ gypper
 gyppers
 gypseian
 gypseous
+gypsies
 gypsophila
 gypsophilas
 gypster
@@ -42853,6 +42865,7 @@ interphase
 interphases
 interplanting
 interplants
+interplay
 interplaying
 interplays
 interpleaded
@@ -43064,6 +43077,7 @@ intradoses
 intramolecular
 intramurally
 intranasal
+intranet
 intranets
 intransigeances
 intransigeantly
@@ -44283,6 +44297,7 @@ joked
 jokers
 jokes
 jokester
+jokey
 jokier
 jokiest
 jokinesses
@@ -50145,6 +50160,7 @@ melon
 melongene
 melons
 melphalans
+melt
 meltabilities
 meltage
 meltages
@@ -50157,6 +50173,7 @@ meltons
 melts
 meltwater
 membered
+members
 membership
 memberships
 membranal
@@ -50226,6 +50243,7 @@ menials
 meningeal
 meninges
 meningioma
+meningiomas
 meningitic
 meningococcal
 meningococci
@@ -50367,6 +50385,7 @@ merlots
 merls
 mermaid
 merman
+meroblastic
 meromorphic
 meropia
 meropias
@@ -51938,6 +51957,7 @@ misroute
 misroutes
 misrule
 misrules
+misruling
 miss
 missable
 missaid
@@ -62592,6 +62612,7 @@ phytosterol
 phytotron
 pia
 piacular
+piaffe
 piaffing
 pianissimi
 pianissimo
@@ -62920,6 +62941,7 @@ pinecones
 pineland
 pinelike
 pinene
+pineries
 pinesap
 pinesaps
 pinewood
@@ -64159,6 +64181,7 @@ polyploidies
 polyploids
 polyploidy
 polypodies
+polypods
 polypores
 polypous
 polyps
@@ -66626,6 +66649,7 @@ prosect
 prosected
 prosects
 prosecution
+prosecutions
 prosecutor
 prosecutors
 proselyte
@@ -71188,6 +71212,7 @@ repellencies
 repellency
 repellents
 repeller
+repels
 repentances
 repentant
 repentantly
@@ -71828,6 +71853,7 @@ resplendencies
 resplendency
 resplendent
 resplice
+resplices
 resplicing
 resplit
 resplits
@@ -73456,6 +73482,7 @@ roundhouses
 roundlet
 roundlets
 roundnesses
+roundsman
 roundsmen
 roundtable
 roundtables
@@ -73883,6 +73910,7 @@ sacculation
 sacculations
 saccule
 sacerdotal
+sacerdotalists
 sacerdotally
 sachem
 sachemic
@@ -76808,6 +76836,7 @@ sheafs
 shealing
 sheals
 sheared
+shearers
 shearing
 shearings
 shearlegs
@@ -82617,6 +82646,7 @@ sublimity
 sublines
 sublingual
 subliteracies
+subliteracy
 subliterary
 subliterate
 subliterates
@@ -83781,6 +83811,7 @@ suricate
 suricates
 surimi
 surimis
+surjections
 surliest
 surlily
 surlinesses
@@ -83788,6 +83819,7 @@ surly
 surmise
 surmised
 surmises
+surmising
 surmount
 surmounted
 surmullet
@@ -91308,6 +91340,7 @@ unrobed
 unroll
 unrolled
 unromantically
+unroofed
 unroofs
 unrooted
 unroots
@@ -91682,6 +91715,7 @@ unversed
 unvested
 unvexed
 unviable
+unvisited
 unvocal
 unvoiced
 unwakened
@@ -95276,6 +95310,7 @@ wintertide
 wintertides
 wintertimes
 wintle
+wintrier
 wintriness
 wintrinesses
 winze
