@@ -2791,6 +2791,7 @@ anemometer
 anemometry
 anemones
 anemophilous
+anencephalic
 anencephalies
 anenst
 anent
@@ -4159,6 +4160,7 @@ archesporia
 archesporial
 archesporium
 archetypally
+archetypes
 archfiend
 archfoe
 archfoes
@@ -6133,6 +6135,7 @@ bandinesses
 banding
 banditry
 banditti
+bandmaster
 bandmasters
 bandmate
 bandog
@@ -6165,6 +6168,7 @@ bangkok
 bangkoks
 bangles
 bangs
+bangtails
 banian
 banians
 baning
@@ -7043,6 +7047,7 @@ befuddle
 befuddlement
 befuddlements
 beg
+begalling
 begalls
 begat
 begaze
@@ -9329,6 +9334,7 @@ boss
 bossdom
 bossdoms
 bossed
+bossier
 bossily
 bossinesses
 bossing
@@ -12401,6 +12407,7 @@ catapult
 catapulted
 catapulting
 cataract
+cataractous
 catarrh
 catarrhally
 catarrhines
@@ -21838,6 +21845,7 @@ depreciatingly
 depreciation
 depreciations
 depreciative
+depreciator
 depredate
 depredates
 depredations
@@ -22701,6 +22709,7 @@ diclinism
 diclinous
 dicot
 dicotyl
+dicotyledon
 dicotyledonous
 dicotyls
 dicoumarin
@@ -25495,6 +25504,7 @@ durometer
 duros
 durras
 durrie
+durries
 durrs
 durst
 dusk
@@ -25642,6 +25652,7 @@ dystonias
 dystopian
 dystopias
 dystrophic
+dystrophies
 dystrophy
 dysurias
 dyvours
@@ -31835,6 +31846,7 @@ foamy
 fobbed
 focalised
 focalising
+focalization
 focalizations
 focalize
 focalized
@@ -35255,6 +35267,7 @@ goglets
 gogo
 gogos
 goings
+goiters
 goitre
 goitrogenic
 goitrogenicity
@@ -41756,6 +41769,7 @@ industrial
 industrialism
 industrialisms
 industrialize
+industrializes
 industrializing
 industrially
 industrials
@@ -46146,6 +46160,7 @@ laptop
 laptops
 lapwings
 larcenies
+larcenist
 larcenous
 larceny
 larch
@@ -49243,6 +49258,7 @@ manipulation
 manipulations
 manipulative
 manipulatively
+manipulator
 manipulators
 manipulatory
 manito
@@ -50658,6 +50674,7 @@ metamorphosed
 metanalysis
 metanephroi
 metanephros
+metaphase
 metaphoric
 metaphors
 metaphosphate
@@ -55579,6 +55596,7 @@ nonintoxicants
 nonintoxicating
 nonintrusive
 noninvolved
+noninvolvement
 noninvolvements
 nonirradiated
 nonirrigated
@@ -56521,6 +56539,7 @@ obsecrate
 obsecrated
 obsecrates
 obsecrating
+obsequiousness
 observables
 observably
 observances
@@ -58502,6 +58521,7 @@ outtrade
 outtrades
 outtrading
 outtraveled
+outtravelled
 outtrick
 outtricking
 outtrump
@@ -59582,6 +59602,7 @@ oxymoronically
 oxymorons
 oxyphile
 oxyphiles
+oxyphilic
 oxyphils
 oxysalts
 oxysomes
@@ -62054,6 +62075,7 @@ petabytes
 petal
 petaline
 petalled
+petalody
 petaloid
 petard
 petards
@@ -62072,6 +62094,7 @@ petiteness
 petitenesses
 petition
 petitionary
+petitioner
 petitioners
 petnap
 petnapers
@@ -63491,6 +63514,7 @@ planter
 planters
 plantigrade
 plantigrades
+planting
 plantings
 plantlike
 plantocracy
@@ -63746,6 +63770,7 @@ plica
 plicate
 plicated
 plicately
+plication
 plications
 plicatures
 plied
@@ -68405,6 +68430,7 @@ radarscopes
 radded
 raddle
 raddles
+raddling
 radiable
 radiale
 radially
@@ -69466,6 +69492,7 @@ recharger
 recharges
 recharted
 rechartered
+recharters
 recharts
 rechauffes
 recheat
@@ -78436,6 +78463,7 @@ slabbing
 slabs
 slack
 slacked
+slacken
 slackened
 slackeners
 slackening
@@ -78576,6 +78604,7 @@ sleepiest
 sleepings
 sleepless
 sleepovers
+sleeps
 sleepwalked
 sleepwalker
 sleepwalks
@@ -79327,6 +79356,7 @@ snugged
 snuggerie
 snuggeries
 snuggery
+snuggies
 snuggles
 snugly
 snugness
@@ -81290,6 +81320,7 @@ staphylococcus
 staple
 stapled
 star
+starboarded
 starboarding
 starboards
 starchier
@@ -82454,6 +82485,7 @@ stupendousness
 stupes
 stupidities
 stupidity
+stupidly
 stupidnesses
 stupor
 sturdier
@@ -84836,6 +84868,7 @@ taekwondos
 taels
 taenia
 taffarel
+taffarels
 tafferel
 tafferels
 taffeta
@@ -85164,6 +85197,7 @@ taramas
 tarantas
 tarantella
 tarantism
+tarantisms
 tarantist
 tarantists
 tarboosh
@@ -95267,6 +95301,7 @@ wigeons
 wiggery
 wiggier
 wiggiest
+wiggled
 wigglers
 wiggles
 wiggliest
