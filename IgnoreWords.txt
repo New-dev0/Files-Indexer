@@ -4453,6 +4453,7 @@ artilleryman
 artillerymen
 artiness
 artiodactyl
+artisans
 artisanships
 artist
 artistes
@@ -7686,6 +7687,7 @@ bichromates
 bicipital
 bickered
 bickering
+bicolor
 bicomponent
 biconcavities
 biconditional
@@ -9660,6 +9662,7 @@ bras
 brash
 brasher
 brashier
+brashiest
 brashly
 brashness
 brashnesses
@@ -11865,6 +11868,7 @@ carbonaras
 carbonating
 carbonation
 carbonations
+carbonic
 carboniferous
 carboniums
 carbonization
@@ -14105,6 +14109,7 @@ chuffs
 chug
 chugalugs
 chugger
+chukar
 chukka
 chukkars
 chukkas
@@ -15607,6 +15612,7 @@ coles
 coleseeds
 coleslaws
 colessee
+colessees
 colessor
 coleus
 coleuses
@@ -16063,6 +16069,7 @@ commonweal
 commotions
 commove
 commoves
+communalist
 communality
 communalize
 communalized
@@ -16384,6 +16391,7 @@ concentrators
 concentrically
 concentricities
 concentricity
+concept
 conceptacles
 conceptional
 concepts
@@ -17795,6 +17803,7 @@ corridas
 corridor
 corrie
 corrigenda
+corrigendum
 corrigibility
 corrival
 corrivals
@@ -18557,6 +18566,7 @@ crazily
 craziness
 crazinesses
 crazing
+crazy
 crazyweeds
 creak
 creaked
@@ -25710,6 +25720,7 @@ echeveria
 echidna
 echidnas
 echinacea
+echinaceas
 echinate
 eching
 echini
@@ -26150,6 +26161,7 @@ electrocuted
 electrocutes
 electrocuting
 electrocution
+electrodeposit
 electrodeposits
 electrodes
 electrodialyses
@@ -28747,6 +28759,7 @@ excused
 excuser
 excusers
 excuses
+exec
 execrable
 execrablenesses
 execrate
@@ -29949,6 +29962,7 @@ favorably
 favored
 favorer
 favorers
+favoring
 favorite
 favorites
 favors
@@ -31639,6 +31653,7 @@ flyboys
 flybridge
 flyby
 flybys
+flyer
 flyings
 flyleaf
 flyless
@@ -33209,6 +33224,7 @@ futileness
 futilitarianism
 futilitarians
 futility
+futons
 futtock
 futureless
 futurelessness
@@ -37971,6 +37987,7 @@ heredes
 hereditament
 hereditaments
 hereditarians
+hereditarily
 hereditary
 heredity
 herein
@@ -46682,6 +46699,7 @@ leukopoietic
 leukorrhea
 leukorrheas
 leukotomies
+leukotriene
 levant
 levanter
 levanters
@@ -46787,6 +46805,7 @@ liberalistic
 liberalization
 liberalizations
 liberalize
+liberalized
 liberalizers
 liberalizes
 liberalness
@@ -51170,6 +51189,7 @@ minify
 minifying
 minikin
 minilab
+minilabs
 minimalism
 minimalist
 minimalists
@@ -53300,6 +53320,7 @@ mumbles
 mumbling
 mummed
 mummeries
+mummied
 mummies
 mummification
 mummifications
@@ -56069,6 +56090,7 @@ nuttiest
 nuttily
 nuttinesses
 nutting
+nuttings
 nutwood
 nutwoods
 nuzzle
@@ -60440,6 +60462,7 @@ passive
 passively
 passivenesses
 passives
+passivisms
 passivities
 passivity
 passkey
@@ -62274,6 +62297,7 @@ photoproduction
 photoreaction
 photoreactions
 photoreceptions
+photoreceptor
 photoreceptors
 photoreduce
 photoreduced
@@ -66220,6 +66244,7 @@ proletarianizes
 proletarians
 proletaries
 proletary
+proliferate
 proliferations
 proliferative
 prolific
@@ -66754,6 +66779,7 @@ prussic
 pruta
 prutot
 prutoth
+pryers
 pryingly
 prythee
 psalmbooks
@@ -71964,6 +71990,7 @@ retotal
 retotalling
 retotals
 retouch
+retouched
 retouching
 retraced
 retracer
@@ -76531,6 +76558,7 @@ shankpiece
 shanks
 shannies
 shantey
+shanti
 shantis
 shantung
 shanty
@@ -79534,6 +79562,7 @@ soundly
 soundman
 soundmen
 soundness
+soundnesses
 soundproof
 soundproofed
 soundstage
@@ -80315,6 +80344,7 @@ spooniest
 spoonily
 spooning
 spoons
+spoonsful
 spoony
 spoor
 spoors
@@ -85237,6 +85267,7 @@ telic
 telically
 teliospore
 telium
+tell
 tellable
 teller
 tellies
@@ -88258,6 +88289,7 @@ tristful
 tristfully
 tristich
 tristichs
+tristimulus
 trisubstituted
 trisulfide
 trisulfides
@@ -92629,6 +92661,7 @@ verdured
 verdurous
 verge
 vergence
+vergences
 verger
 vergers
 verging
@@ -93452,6 +93485,7 @@ vomitus
 vomituses
 voodoo
 voodooed
+voodooing
 voodooism
 voodooisms
 voraciously
@@ -94905,6 +94939,7 @@ winch
 winched
 winchers
 winching
+wind
 windable
 windages
 windbells
