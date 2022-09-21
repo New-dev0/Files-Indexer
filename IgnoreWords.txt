@@ -4564,6 +4564,7 @@ asininities
 ask
 askance
 asker
+askers
 askew
 askewness
 askewnesses
@@ -6095,6 +6096,7 @@ bandaid
 bandana
 bandanna
 bandannas
+bandbox
 bandeau
 banded
 banderillas
@@ -6473,6 +6475,7 @@ basketballs
 basketful
 basketfuls
 basketry
+baskets
 basketwork
 basketworks
 basking
@@ -7201,6 +7204,7 @@ belters
 beltings
 beltless
 beltline
+beltlines
 beltways
 beluga
 belugas
@@ -7851,6 +7855,7 @@ billowing
 billows
 billy
 billycocks
+bilobate
 bilobated
 bilobed
 bilocular
@@ -8994,6 +8999,7 @@ boltless
 boltlike
 boltropes
 bolus
+boluses
 bomb
 bombable
 bombarded
@@ -10031,6 +10037,7 @@ brogues
 broguish
 broider
 broidered
+broiderers
 broideries
 broidering
 broiler
@@ -10692,6 +10699,7 @@ bused
 busgirl
 busgirls
 bush
+bushbuck
 bushbucks
 bushel
 busheler
@@ -18824,6 +18832,7 @@ criterions
 criterium
 criticalities
 critically
+criticasters
 criticise
 criticised
 criticises
@@ -18878,6 +18887,7 @@ cronyism
 cronyisms
 crook
 crookback
+crookbacked
 crooked
 crookedest
 crookednesses
@@ -19446,6 +19456,7 @@ curdles
 curdling
 curds
 cure
+cured
 curer
 curers
 curet
@@ -21641,6 +21652,7 @@ depicting
 depictions
 depictor
 depigmentation
+depilated
 depilator
 depilatories
 depilators
@@ -23338,6 +23350,7 @@ discriminated
 discriminating
 discrimination
 discriminator
+discriminatory
 discrown
 discrowned
 discrowns
@@ -27771,6 +27784,7 @@ equinoctial
 equinoctials
 equinox
 equinoxes
+equip
 equipages
 equipments
 equipoises
@@ -28350,6 +28364,7 @@ euphonium
 euphoniums
 euphonized
 euphonizes
+euphonizing
 euphony
 euphorbia
 euphorbias
@@ -28679,6 +28694,7 @@ exclaims
 exclamations
 exclamatory
 exclave
+excludability
 excluded
 excluder
 excluders
@@ -30418,6 +30434,7 @@ fibroblastic
 fibrocystic
 fibroid
 fibroids
+fibroma
 fibromatous
 fibromyalgia
 fibronectin
@@ -30425,6 +30442,7 @@ fibronectins
 fibrosarcoma
 fibrous
 fibrously
+fibs
 fibsters
 fibulae
 fices
@@ -32594,6 +32612,7 @@ frequences
 frequencies
 frequency
 frequentation
+frequentations
 frequentative
 frequenter
 frequenters
@@ -33679,6 +33698,7 @@ gascons
 gaseities
 gaseous
 gashed
+gasholder
 gasholders
 gasification
 gasifications
@@ -34531,6 +34551,7 @@ glaciologies
 glacis
 glacises
 glad
+gladded
 gladden
 gladdened
 gladdener
@@ -35925,6 +35946,7 @@ groschen
 grosgrains
 grosser
 grossers
+grosses
 grossing
 grossly
 grossness
@@ -37564,6 +37586,7 @@ hectical
 hecticly
 hectograms
 hectograph
+hectographs
 hectoliter
 hectoliters
 hectometer
@@ -38886,6 +38909,7 @@ hoodlums
 hoodmold
 hoodooed
 hoodooisms
+hoodoos
 hoodwink
 hoodwinker
 hoodwinkers
@@ -41162,6 +41186,7 @@ incompletely
 incompressible
 inconceivably
 inconclusive
+inconclusively
 incondite
 inconformities
 inconformity
@@ -41332,6 +41357,7 @@ indefeasibility
 indefeasible
 indefectible
 indefectibly
+indefensibility
 indefensible
 indefensibly
 indefinability
@@ -42475,6 +42501,7 @@ intercooler
 intercorporate
 intercorrelate
 intercorrelated
+intercorrelates
 intercortical
 intercostal
 intercostals
@@ -45548,6 +45575,7 @@ lacteals
 lactean
 lactiferous
 lactobacillus
+lactogenic
 lactones
 lactonic
 lactose
@@ -46942,6 +46970,7 @@ lignosulfonates
 ligroine
 ligroines
 ligulae
+ligular
 ligulas
 ligule
 ligules
@@ -47259,6 +47288,7 @@ lissomeness
 lissomenesses
 list
 listable
+listee
 listel
 listels
 listenable
@@ -47310,6 +47340,7 @@ lither
 lithia
 lithias
 lithic
+lithification
 lithified
 lithifies
 lithiums
@@ -57165,6 +57196,7 @@ organizing
 organochlorine
 organochlorines
 organons
+organosol
 organza
 organzas
 organzine
@@ -60863,6 +60895,7 @@ pedestrians
 pediatric
 pediatricians
 pedicab
+pedicabs
 pedicellate
 pedicle
 pedicles
@@ -62185,6 +62218,7 @@ photogeologist
 photogeology
 photogrammetric
 photogrammetry
+photograph
 photographer
 photographers
 photographic
@@ -63268,6 +63302,7 @@ playability
 playact
 playacting
 playactings
+playacts
 playas
 playbill
 playbills
@@ -64318,6 +64353,7 @@ postcaval
 postcavas
 postclassic
 postcodes
+postcoital
 postcollege
 postcollegiate
 postcolonial
@@ -64489,6 +64525,7 @@ potatobug
 potatoes
 potatory
 potbellied
+potbelly
 potboil
 potboiled
 potboilers
@@ -64650,6 +64687,7 @@ praenomen
 praenomina
 praesidia
 praesidium
+praesidiums
 praetorial
 praetorian
 praetors
@@ -67963,6 +68001,7 @@ rabbited
 rabbiting
 rabbitries
 rabbits
+rabble
 rabbled
 rabblement
 rabbler
@@ -69687,6 +69726,7 @@ reearns
 reechier
 reechiest
 reecho
+reechoes
 reechy
 reedbirds
 reedbuck
@@ -72643,6 +72683,7 @@ rimples
 rimrock
 rimrocks
 rin
+rind
 rindless
 ringbarks
 ringbolt
@@ -74890,6 +74931,7 @@ scintillas
 scintillated
 scintillates
 scintillating
+scintillator
 sciolisms
 sciolist
 sciolistic
@@ -76223,6 +76265,7 @@ sesspools
 sesterces
 sestertia
 sestertium
+sestets
 sestina
 sestine
 seta
@@ -79052,6 +79095,7 @@ softest
 softheaded
 softheadedness
 softheads
+softhearted
 softies
 softish
 softnesses
@@ -79551,6 +79595,7 @@ soviets
 sovkhozes
 sovkhozy
 sovran
+sovranly
 sovrans
 sovranty
 sowable
@@ -79590,6 +79635,7 @@ spacial
 spacially
 spacier
 spaciest
+spacings
 spaciously
 spaciousness
 spaciousnesses
@@ -80098,6 +80144,7 @@ spirometric
 spirometries
 spirometry
 spirula
+spirulae
 spirulina
 spirulinas
 spit
@@ -82847,6 +82894,7 @@ suicided
 suicides
 suing
 suit
+suitability
 suitableness
 suitably
 suitcases
@@ -84087,6 +84135,7 @@ synanon
 synanons
 synapse
 synapsis
+synaptic
 synaptosomes
 synarthroses
 syncarp
@@ -84179,6 +84228,7 @@ synesthesia
 synesthesias
 synfuel
 synfuels
+syngamies
 syngases
 syngeneic
 syngenic
@@ -86447,6 +86497,7 @@ timbale
 timbales
 timbals
 timber
+timberdoodle
 timberdoodles
 timberhead
 timberheads
@@ -87211,6 +87262,7 @@ towels
 tower
 towered
 towering
+towhead
 towheaded
 towie
 town
@@ -88241,6 +88293,7 @@ triunities
 triunity
 trivet
 trivial
+trivialise
 trivialised
 trivialist
 trivialists
@@ -88298,6 +88351,7 @@ trolley
 trolleybuses
 trolleyed
 trolleying
+trolleys
 trollies
 trolling
 trollings
@@ -88410,6 +88464,7 @@ trowing
 trowth
 trowths
 troy
+troys
 truancies
 truanting
 truantly
@@ -91990,6 +92045,7 @@ vaguer
 vagus
 vail
 vailing
+vails
 vain
 vainest
 vainglories
@@ -93179,6 +93235,7 @@ vitrioled
 vitriolling
 vitriols
 vittae
+vittate
 vittled
 vittles
 vituline
