@@ -2160,6 +2160,7 @@ alumstone
 alumstones
 alunite
 alunites
+alveolarly
 alveolars
 alveolate
 alvine
@@ -3769,6 +3770,7 @@ aposiopesis
 aposiopetic
 aposporic
 apospories
+aposporous
 apospory
 apostasies
 apostasy
@@ -3947,6 +3949,7 @@ appropriately
 appropriateness
 appropriations
 appropriative
+appropriator
 approvable
 approver
 approves
@@ -10986,6 +10989,7 @@ cabochons
 caboodle
 caboodles
 cabotage
+cabotages
 cabresta
 cabresto
 cabrestos
@@ -12415,6 +12419,7 @@ catechise
 catechises
 catechising
 catechismal
+catechisms
 catechization
 catechizations
 catechized
@@ -14929,6 +14934,7 @@ cloudscapes
 clough
 cloughs
 clours
+clouted
 clouters
 clove
 cloven
@@ -15784,6 +15790,7 @@ colobus
 colocate
 colocated
 colocates
+colocating
 colocynth
 colocynths
 cologarithm
@@ -16611,6 +16618,7 @@ confederated
 confederates
 confederating
 conferee
+conferees
 conferences
 conferencings
 conferential
@@ -17897,6 +17905,7 @@ corynebacteria
 corynebacterial
 coryneform
 coryphaei
+coryphaeus
 coryzal
 coryzas
 coscript
@@ -19256,6 +19265,7 @@ cubics
 cubiform
 cubing
 cubisms
+cubist
 cubists
 cubitus
 cuboid
@@ -23400,6 +23410,7 @@ discursively
 discursiveness
 discus
 discuses
+discuss
 discussants
 discussed
 discusses
@@ -24613,6 +24624,7 @@ doughiest
 doughlike
 doughnutlike
 doughnuts
+doughs
 doughtier
 doughtily
 doughtiness
@@ -26444,6 +26456,7 @@ embeds
 embellish
 embellisher
 embellishers
+embellishes
 embellishments
 ember
 embezzle
@@ -34026,6 +34039,7 @@ gemology
 gemot
 gemote
 gemots
+gems
 gemsbok
 gemsboks
 gemsbuck
@@ -37144,6 +37158,7 @@ hardnoses
 hardpack
 hardpan
 hardpans
+hardset
 hardship
 hardstanding
 hardstandings
@@ -37862,6 +37877,7 @@ hemic
 hemicellulose
 hemicelluloses
 hemicycle
+hemihydrated
 hemimetabolous
 hemimorphic
 hemimorphism
@@ -38356,6 +38372,7 @@ hijab
 hijack
 hijacker
 hijacking
+hijacks
 hijinks
 hijra
 hijrah
@@ -39932,6 +39949,7 @@ hypersthene
 hypertense
 hypertension
 hypertext
+hypertexts
 hyperthermias
 hyperthyroid
 hyperthyroidism
@@ -55210,6 +55228,7 @@ nondancer
 nondancers
 nondances
 nondecisions
+nondecreasing
 nondeforming
 nondegenerate
 nondegree
@@ -58175,6 +58194,7 @@ outsells
 outsert
 outserved
 outserves
+outsets
 outshame
 outshames
 outshined
@@ -59721,6 +59741,7 @@ palletizing
 pallets
 pallettes
 pallia
+palliasse
 palliasses
 palliation
 palliations
@@ -66223,6 +66244,7 @@ proforma
 profound
 profoundly
 profoundness
+profounds
 profuse
 profusely
 profuseness
@@ -66712,6 +66734,7 @@ protohistories
 protomartyr
 proton
 protonate
+protonations
 protonema
 protonemata
 protonematal
@@ -67176,6 +67199,7 @@ pulses
 pulsing
 pulsions
 pulsojets
+pulverable
 pulverise
 pulverizations
 pulverized
@@ -69108,6 +69132,7 @@ reboots
 rebop
 reborn
 rebottles
+rebottling
 rebought
 rebounded
 rebounder
@@ -72256,6 +72281,7 @@ reverberation
 reverberative
 reverberatory
 reverbing
+reverbs
 revere
 reverence
 reverenced
@@ -75733,6 +75759,7 @@ seepage
 seepages
 seeped
 seepiest
+seepy
 seersucker
 seersuckers
 seethed
@@ -78688,6 +78715,7 @@ smidges
 smidgin
 smiercase
 smiercases
+smilax
 smilaxes
 smile
 smiled
@@ -78802,6 +78830,7 @@ snailed
 snaillike
 snake
 snakebirds
+snakebit
 snakebite
 snakebites
 snakefishes
@@ -80358,6 +80387,7 @@ splurges
 splurgiest
 splurging
 splurgy
+splutter
 spluttered
 spluttering
 splutters
@@ -85407,6 +85437,7 @@ temp
 temped
 tempeh
 tempehs
+temper
 temperament
 temperances
 temperas
@@ -86725,6 +86756,7 @@ tinplate
 tinseled
 tinseling
 tinselling
+tinsels
 tinsmith
 tinsmithings
 tinsmiths
@@ -89009,6 +89041,7 @@ tushed
 tushery
 tushie
 tushies
+tushy
 tusker
 tuskers
 tusking
@@ -91476,6 +91509,7 @@ untasted
 unteaches
 unteaching
 untechnical
+untempered
 untenabilities
 untenability
 untenable
@@ -95048,6 +95082,7 @@ windages
 windbells
 windblast
 windbreaks
+windburn
 windburned
 windburning
 windburns
