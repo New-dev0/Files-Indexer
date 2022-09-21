@@ -3389,6 +3389,7 @@ antipasto
 antipathies
 antipathy
 antipersonnel
+antiperspirant
 antiperspirants
 antipesticide
 antiphlogistic
@@ -5022,6 +5023,7 @@ attempering
 attempers
 attemptable
 attempted
+attempters
 attendance
 attendant
 attended
@@ -5647,6 +5649,7 @@ babbittry
 babbitts
 babbled
 babblement
+babbling
 babels
 babesias
 babesioses
@@ -7670,6 +7673,7 @@ bice
 bicentenaries
 bicentenary
 bicentric
+bicep
 biceps
 bicepses
 bices
@@ -10662,6 +10666,7 @@ burrows
 burrs
 burry
 bursa
+bursas
 burse
 burseed
 burseeds
@@ -14072,6 +14077,7 @@ chucked
 chuckies
 chucking
 chuckle
+chuckled
 chucklehead
 chuckleheaded
 chuckleheads
@@ -17140,6 +17146,7 @@ continuos
 continuum
 conto
 contort
+contorting
 contortionists
 contoured
 contours
@@ -19110,6 +19117,7 @@ cryogenic
 cryogenics
 cryogens
 cryogeny
+cryonics
 cryophyte
 cryopreserve
 cryopreserved
@@ -28629,6 +28637,7 @@ excerpts
 excess
 excessing
 excessively
+exchange
 exchangeability
 exchangeable
 exchanger
@@ -29614,6 +29623,7 @@ falsifiers
 falsify
 falsities
 falsity
+faltboats
 faltered
 falterers
 falters
@@ -31495,6 +31505,7 @@ fluidization
 fluidizers
 fluidizing
 fluidly
+fluidnesses
 fluidram
 fluish
 fluke
@@ -36698,6 +36709,7 @@ halflives
 halfpence
 halfpennies
 halfpipes
+halftimes
 halftone
 halftrack
 halid
@@ -41251,6 +41263,7 @@ incudal
 incudate
 incudes
 inculcate
+inculcated
 inculcation
 inculcator
 inculcators
@@ -42238,6 +42251,7 @@ inspissating
 inspissator
 inspissators
 instabilities
+install
 installed
 installment
 installments
@@ -46401,6 +46415,7 @@ legerities
 legerity
 legers
 leges
+legged
 legginess
 legging
 leggings
@@ -50397,6 +50412,7 @@ metatarsus
 metate
 metathesis
 metathetic
+metathetical
 metathoraces
 metathoracic
 metaxylem
@@ -55419,6 +55435,7 @@ nonplusses
 nonpoetic
 nonpoint
 nonpoisonous
+nonpolar
 nonpolitically
 nonpolitician
 nonpoor
@@ -57533,6 +57550,7 @@ outboast
 outboasted
 outboasting
 outboasts
+outbound
 outboxed
 outbragged
 outbrags
@@ -59302,6 +59320,7 @@ pac
 pacas
 pace
 paced
+pacemaking
 pacemakings
 pachadom
 pachalics
@@ -61991,6 +62010,7 @@ philtred
 philtres
 philtring
 philtrum
+phimoses
 phimosis
 phis
 phizes
@@ -66750,6 +66770,7 @@ psilocin
 psilocybins
 psilophyte
 psilophytic
+psiloses
 psilosis
 psilotic
 psittacine
@@ -68782,6 +68803,7 @@ reappear
 reappearances
 reappearing
 reappears
+reapplication
 reapplications
 reapplied
 reapplies
@@ -69687,6 +69709,7 @@ reeducating
 reeducations
 reedy
 reefable
+reefers
 reefier
 reefing
 reefs
@@ -72323,6 +72346,7 @@ rheumatoid
 rheumatologist
 rheumatologists
 rheumatology
+rheumic
 rheumier
 rheumiest
 rheums
@@ -82910,6 +82934,7 @@ sultanesses
 sultans
 sultrier
 sultrily
+sultry
 sulu
 summability
 summae
@@ -83816,6 +83841,7 @@ swineherd
 swineherds
 swinepox
 swing
+swingbys
 swingeing
 swinger
 swingers
@@ -87003,6 +87029,7 @@ tores
 toreutic
 torics
 tories
+torment
 tormenters
 tormentil
 tormentors
@@ -87865,6 +87892,7 @@ triaxialities
 triaxiality
 triazin
 triazoles
+tribade
 tribades
 tribadic
 tribadisms
@@ -89053,6 +89081,7 @@ typology
 typp
 typps
 typy
+tyramine
 tyrannic
 tyrannical
 tyrannicide
@@ -91751,6 +91780,7 @@ urediospore
 urediospores
 uredo
 uremia
+ureotelisms
 ureter
 ureteric
 ureters
@@ -93384,6 +93414,7 @@ votaries
 votarists
 votary
 voteless
+voter
 voters
 votes
 voting
@@ -94180,6 +94211,7 @@ weens
 weensiest
 weensy
 weep
+weepie
 weepies
 weepiness
 weepinesses
@@ -95092,6 +95124,7 @@ wizen
 wizened
 wizes
 wizzen
+wizzens
 woaded
 woadwaxen
 woadwaxes
@@ -95154,6 +95187,7 @@ wombs
 womenfolk
 womenfolks
 womenkind
+womera
 wommera
 wonderer
 wonderful
@@ -95912,6 +95946,7 @@ youngsters
 younker
 youpon
 your
+yourselves
 yous
 youthen
 youthened
