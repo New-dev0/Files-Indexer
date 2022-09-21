@@ -2104,6 +2104,7 @@ altarpiece
 alter
 alterabilities
 alterability
+alterant
 alterants
 altercated
 altercates
@@ -3488,6 +3489,7 @@ antisag
 antisciences
 antiscorbutic
 antisecrecy
+antisegregation
 antisense
 antisentimental
 antiseparatist
@@ -10206,6 +10208,7 @@ browns
 brownshirt
 brownshirts
 brownstones
+browridges
 browsed
 browsers
 browsing
@@ -13603,6 +13606,7 @@ chiaus
 chibouque
 chic
 chica
+chicalote
 chicalotes
 chicaneries
 chicanes
@@ -14194,6 +14198,7 @@ churchly
 churchmanship
 churchmanships
 churchmen
+churchwarden
 churchwardens
 churchwomen
 churchy
@@ -14364,6 +14369,7 @@ circumfusions
 circumjacent
 circumlocution
 circumlocutions
+circumlocutory
 circumlunar
 circumnavigated
 circumnavigates
@@ -20066,6 +20072,7 @@ daggles
 dagoba
 dagoes
 dagos
+daguerreotyped
 daguerreotypies
 daguerreotyping
 daguerreotypist
@@ -20495,6 +20502,7 @@ deaminize
 deaminized
 deaminizes
 deaned
+deaning
 deans
 deanship
 dearest
@@ -20956,6 +20964,7 @@ defamed
 defamer
 defaming
 defang
+defanged
 defat
 defats
 defatted
@@ -21926,6 +21935,7 @@ dermas
 dermatogens
 dermatoglyphics
 dermatological
+dermatologies
 dermatologist
 dermatome
 dermatomes
@@ -23148,6 +23158,7 @@ directorate
 directorial
 directories
 directors
+directorship
 directory
 directrice
 directrices
@@ -28486,6 +28497,7 @@ euphemizing
 euphenic
 euphenics
 euphonies
+euphoniously
 euphoniousness
 euphonium
 euphoniums
@@ -29511,6 +29523,7 @@ eyepoint
 eyepoints
 eyepoppers
 eyes
+eyeshade
 eyeshades
 eyeshine
 eyesights
@@ -36592,6 +36605,7 @@ gymnastically
 gymnastics
 gymnasts
 gymnosophist
+gymnosperm
 gymnospermies
 gynaecea
 gynaecia
@@ -38341,6 +38355,7 @@ hexamines
 hexapla
 hexaplar
 hexaplas
+hexapod
 hexapodies
 hexapods
 hexapody
@@ -39637,6 +39652,7 @@ hunky
 hunnish
 huns
 hunted
+hunter
 hunters
 huntings
 hunts
@@ -46305,6 +46321,7 @@ latu
 lauan
 lauans
 laudableness
+laudablenesses
 laudanum
 laudation
 laudative
@@ -47617,6 +47634,7 @@ livability
 liveability
 lived
 liveliest
+livelihood
 livelihoods
 liveliness
 lively
@@ -50206,6 +50224,7 @@ mellotron
 mellowed
 mellower
 mellowness
+mells
 melodeon
 melodias
 melodic
@@ -51108,6 +51127,7 @@ miffiest
 miffiness
 miffinesses
 miffing
+miffy
 migg
 miggs
 mightier
@@ -54183,6 +54203,7 @@ natalities
 natations
 natatorium
 natatoriums
+natatory
 natheless
 nathless
 nationalised
@@ -55622,6 +55643,7 @@ nonmigratory
 nonmilitants
 nonmilitary
 nonminority
+nonmodal
 nonmodern
 nonmolecular
 nonmonetarists
@@ -58491,6 +58513,7 @@ outvaunt
 outvaunted
 outvaunting
 outvie
+outvied
 outvoice
 outvoices
 outvoicing
@@ -63564,6 +63587,7 @@ platting
 platy
 platyfish
 platyfishes
+platyhelminth
 platyhelminthic
 platypi
 platypus
@@ -64964,6 +64988,7 @@ practitioner
 praedial
 praefect
 praelect
+praelected
 praemunire
 praenomen
 praenomina
@@ -66086,6 +66111,7 @@ prim
 primage
 primages
 primal
+primalities
 primaries
 primarily
 primary
@@ -66220,6 +66246,7 @@ privy
 prize
 prizefight
 prizefighters
+prizefightings
 prizefights
 prizer
 prizers
@@ -73576,6 +73603,7 @@ roughnecks
 roughrider
 roughriders
 roughs
+rouging
 rouille
 rouilles
 roulade
@@ -76926,6 +76954,7 @@ shat
 shatter
 shatterer
 shatterers
+shattering
 shatteringly
 shaugh
 shaughs
@@ -77380,6 +77409,7 @@ shorted
 shorten
 shortener
 shortenings
+shortens
 shorter
 shortfalls
 shorthairs
@@ -81568,6 +81598,7 @@ stereophonies
 stereopses
 stereopticon
 stereoregular
+stereoscope
 stereoscopies
 stereoscopy
 stereospecific
@@ -81815,6 +81846,7 @@ stockjobber
 stockjobbers
 stockjobbings
 stockman
+stockmen
 stockpile
 stockpiled
 stockpilers
@@ -83334,6 +83366,7 @@ sulphites
 sulphur
 sulphuring
 sulphurise
+sulphurised
 sulphurising
 sulphurs
 sulphury
@@ -85421,6 +85454,7 @@ technical
 technicalize
 technicalized
 technicalizes
+technicals
 technician
 technicians
 technics
@@ -93443,6 +93477,7 @@ vintners
 vinylic
 violable
 violableness
+violaceous
 violas
 violates
 violation
