@@ -1210,6 +1210,7 @@ affrayer
 affrayers
 affraying
 affricating
+affright
 affrighted
 affront
 affronted
@@ -1561,6 +1562,7 @@ airpark
 airplanes
 airport
 airports
+airpost
 airposts
 airpower
 airpowers
@@ -4363,6 +4365,7 @@ arrhizal
 arrhythmias
 arris
 arrises
+arrive
 arrivers
 arrives
 arriviste
@@ -9230,6 +9233,7 @@ borage
 boral
 borane
 boras
+borates
 borating
 borax
 borborygmi
@@ -10509,6 +10513,7 @@ bumpiness
 bumpinesses
 bumpkinly
 bumpkins
+bumps
 bumptious
 bumptiousness
 bumptiousnesses
@@ -10801,6 +10806,7 @@ butterburs
 buttered
 butterfat
 butterfingers
+butterfish
 butterfishes
 butterflied
 butterflies
@@ -13613,6 +13619,7 @@ chiggers
 chignon
 chignoned
 chigoe
+chigoes
 chilblain
 childbearings
 childbed
@@ -17155,6 +17162,7 @@ continual
 continually
 continuances
 continuant
+continuants
 continuate
 continuation
 continuations
@@ -19948,6 +19956,7 @@ dacker
 dackered
 dackering
 dacoit
+dacoities
 dacoits
 dacoity
 dacquoises
@@ -22162,6 +22171,7 @@ deters
 detersive
 detestable
 detestation
+detesting
 dethatches
 dethatching
 dethroner
@@ -25911,6 +25921,7 @@ educe
 educed
 educes
 educible
+educing
 eduction
 eductions
 eductive
@@ -32992,6 +33003,7 @@ fulguration
 fulham
 fullback
 fullbloods
+fulled
 fulleries
 fullest
 fullfaces
@@ -33761,6 +33773,7 @@ gassily
 gassinesses
 gassings
 gassy
+gasted
 gastight
 gastightnesses
 gasting
@@ -38592,6 +38605,7 @@ hoiden
 hoidened
 hoidens
 hoise
+hoised
 hoises
 hoist
 hoisted
@@ -42441,6 +42455,7 @@ intellectualist
 intellectualize
 intelligencer
 intelligences
+intelligent
 intelligently
 intelligentsias
 intelligibility
@@ -43330,6 +43345,7 @@ irksome
 irksomeness
 iroko
 iron
+ironbarks
 ironclad
 ironed
 ironer
@@ -43831,6 +43847,7 @@ japanned
 japanner
 japans
 jape
+japed
 japer
 japers
 japery
@@ -51834,6 +51851,7 @@ misrelated
 misrelates
 misrelies
 misremembered
+misrendering
 misrenders
 misreported
 misreporting
@@ -52005,6 +52023,7 @@ mitiest
 mitigable
 mitigation
 mitigative
+mitigator
 mitigators
 mitigatory
 mitis
@@ -54552,6 +54571,7 @@ newsdealers
 newsdesk
 newsdesks
 newsgirl
+newsgirls
 newsgroups
 newshound
 newsie
@@ -61149,6 +61169,7 @@ penguins
 penholder
 penial
 penicil
+penicillamine
 penicillate
 penicillia
 penicillin
@@ -64731,6 +64752,7 @@ practitioner
 praedial
 praefect
 praelect
+praemunire
 praenomen
 praenomina
 praesidia
@@ -65986,6 +66008,7 @@ prize
 prizefight
 prizefighters
 prizefights
+prizer
 prizers
 prizes
 prizewinner
@@ -67745,6 +67768,7 @@ quarriers
 quarrying
 quarryings
 quarryman
+quartan
 quarte
 quarterbacking
 quarterbacks
@@ -74512,6 +74536,7 @@ savagenesses
 savageries
 savagery
 savagest
+savagism
 savannah
 savannas
 savants
@@ -74915,6 +74940,7 @@ scholasticisms
 scholiastic
 scholium
 scholiums
+schoolbags
 schoolboys
 schoolgirl
 schoolgirls
@@ -76306,6 +76332,7 @@ servilenesses
 servitudes
 servo
 servomechanism
+servomechanisms
 servomotor
 servos
 sesame
@@ -78423,6 +78450,7 @@ sloping
 slopped
 sloppiest
 sloppily
+sloppiness
 slopping
 slops
 slopwork
@@ -78776,6 +78804,7 @@ snares
 snarfing
 snarfs
 snaring
+snark
 snarkily
 snarks
 snarl
@@ -83787,6 +83816,7 @@ swaggies
 swagging
 swags
 swain
+swainish
 swale
 swallow
 swallowable
@@ -86107,6 +86137,7 @@ thionines
 thionyls
 thiophen
 thiophene
+thiophens
 thioridazine
 thiosulfates
 thiotepas
@@ -86437,6 +86468,7 @@ ticketless
 tickets
 ticking
 tickings
+ticklers
 tickles
 ticklish
 ticklishnesses
@@ -89370,6 +89402,7 @@ ultraroyalists
 ultras
 ultrasecret
 ultrasharp
+ultrashort
 ultraslick
 ultrasmall
 ultrasmart
@@ -94084,6 +94117,7 @@ waterfowler
 waterfowlers
 waterhen
 waterhens
+waterier
 wateriest
 waterily
 waterinesses
@@ -95944,6 +95978,7 @@ yellowed
 yellowfins
 yellowish
 yellowlegs
+yellows
 yellowtail
 yellowtails
 yellowthroat
