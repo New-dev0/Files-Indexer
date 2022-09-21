@@ -3941,6 +3941,7 @@ appropriately
 appropriateness
 appropriations
 appropriative
+approvable
 approver
 approves
 approving
@@ -7142,6 +7143,7 @@ belfries
 belgas
 belie
 belied
+belief
 beliefs
 belier
 beliers
@@ -7374,6 +7376,7 @@ bergamots
 bergeres
 berhyme
 berhymes
+beribboned
 beriberi
 beriberis
 berimbau
@@ -10596,6 +10599,7 @@ burdocks
 bureaucracy
 bureaucrat
 bureaucrateses
+bureaucratic
 bureaucratise
 bureaucratize
 bureaucratized
@@ -14159,6 +14163,7 @@ churr
 churrs
 chute
 chutes
+chuting
 chutist
 chutists
 chutnee
@@ -14292,6 +14297,7 @@ circulating
 circulation
 circulative
 circulator
+circumambient
 circumambulate
 circumambulated
 circumambulates
@@ -14796,10 +14802,12 @@ cliquing
 cliquishness
 clitellum
 cliticize
+cliticizing
 clitics
 clitorectomy
 clitoridectomy
 clitorises
+clivers
 clivias
 cloaca
 cloacal
@@ -17355,6 +17363,7 @@ convulse
 convulsed
 convulsion
 convulsionary
+convulsions
 convulsively
 cony
 cooch
@@ -27634,6 +27643,7 @@ epilator
 epileptically
 epileptics
 epileptiform
+epileptoid
 epilimnia
 epilimnion
 epilog
@@ -31090,6 +31100,7 @@ flappy
 flaps
 flare
 flared
+flares
 flareup
 flash
 flashback
@@ -38466,6 +38477,7 @@ hitchhiking
 hither
 hitherto
 hitless
+hitman
 hits
 hitter
 hitters
@@ -39595,6 +39607,7 @@ hydrase
 hydrastis
 hydrate
 hydrates
+hydrations
 hydrator
 hydrators
 hydraulically
@@ -41367,6 +41380,7 @@ indecisiveness
 indeclinable
 indecomposable
 indecorous
+indecorously
 indecorousness
 indecorums
 indeed
@@ -44568,6 +44582,7 @@ kalsomined
 kalsomines
 kalyptra
 kalyptras
+kamaaina
 kamaainas
 kamacite
 kame
@@ -45261,6 +45276,7 @@ knopped
 knops
 knosp
 knot
+knothole
 knotholes
 knotlike
 knots
@@ -45555,6 +45571,7 @@ lachrymosity
 laciest
 lacily
 lacings
+laciniate
 laciniation
 laciniations
 lack
@@ -46278,6 +46295,7 @@ leadworks
 leadworts
 leady
 leafage
+leafed
 leafhopper
 leafhoppers
 leafiest
@@ -48427,6 +48445,7 @@ macled
 macles
 macon
 macons
+macrame
 macrames
 macroaggregate
 macroaggregated
@@ -49952,6 +49971,7 @@ meiny
 meiotically
 meitnerium
 melamed
+melamine
 melancholia
 melancholiacs
 melancholias
@@ -51703,6 +51723,7 @@ mismarriages
 mismatched
 mismatches
 mismate
+mismated
 mismates
 mismating
 mismeets
@@ -53379,6 +53400,7 @@ mural
 muralist
 muralists
 muralled
+murderess
 murderesses
 murdering
 murderously
@@ -55139,6 +55161,7 @@ noncultivated
 noncultivation
 noncurrent
 noncustodial
+noncyclic
 nondairy
 nondancer
 nondancers
@@ -60016,6 +60039,7 @@ paragenesis
 paraglide
 paraglides
 paragliding
+paragoge
 paragon
 paragons
 paragraph
@@ -68124,6 +68148,7 @@ radicalise
 radicalises
 radicalising
 radicalisms
+radicalization
 radicalizations
 radicalize
 radicalized
@@ -76943,6 +76968,7 @@ shiverer
 shivers
 shives
 shivitis
+shlemiehls
 shlemiel
 shlemiels
 shlep
@@ -77297,6 +77323,7 @@ siblings
 sibs
 sibyl
 sibylic
+sibyllic
 sic
 siccative
 siccatives
@@ -77684,9 +77711,11 @@ singles
 singlestick
 singlet
 singletons
+singletree
 singletrees
 sings
 singsong
+singsongs
 singspiel
 singularities
 singularized
@@ -78382,6 +78411,7 @@ slogger
 sloggers
 slogging
 slogs
+sloid
 slojd
 sloop
 sloops
@@ -80354,6 +80384,7 @@ sporangial
 sporangiophores
 sporangium
 spores
+sporicides
 sporocarp
 sporocarps
 sporogeneses
@@ -90990,6 +91021,7 @@ unpucker
 unpunished
 unpurged
 unpuzzle
+unpuzzled
 unpuzzles
 unpuzzling
 unquaking
@@ -92247,6 +92279,7 @@ vaporizes
 vaporizing
 vaporlike
 vaporous
+vaporousnesses
 vapors
 vaporware
 vaporwares
@@ -92450,6 +92483,7 @@ vegetist
 vegetive
 veggie
 veggies
+vegging
 vegie
 vegies
 vehemence
@@ -95812,6 +95846,7 @@ yantras
 yap
 yapok
 yapoks
+yapon
 yapons
 yaps
 yar
