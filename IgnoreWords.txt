@@ -3061,6 +3061,7 @@ answer
 answerable
 answered
 answerer
+answering
 anta
 antacid
 antae
@@ -3322,6 +3323,7 @@ antijamming
 antiking
 antikings
 antiknock
+antiknocks
 antilabor
 antileak
 antileft
@@ -5067,6 +5069,7 @@ atticizing
 attired
 attires
 attiring
+attitude
 attitudes
 attitudinise
 attitudinised
@@ -9212,6 +9215,7 @@ bootblacks
 booted
 booties
 booting
+bootjacks
 bootlaces
 bootleg
 bootlegged
@@ -10710,6 +10714,7 @@ bursting
 burstone
 bursts
 burthen
+burthened
 burthening
 burtons
 burweed
@@ -16857,6 +16862,7 @@ conky
 connately
 connation
 connaturality
+connected
 connectedly
 connectedness
 connecter
@@ -18430,6 +18436,7 @@ coxitides
 coxitis
 coxless
 coxswaining
+coxswains
 coydog
 coyer
 coying
@@ -24125,6 +24132,7 @@ diverted
 diverter
 diverters
 diverticulosis
+divertimenti
 divertimentos
 diverting
 divertissement
@@ -25973,6 +25981,7 @@ eductive
 eductor
 eductors
 educts
+edulcorate
 edulcorated
 edulcorating
 eel
@@ -28882,6 +28891,7 @@ exenterated
 exenterates
 exenterations
 exequatur
+exequy
 exercisable
 exercise
 exerciser
@@ -29341,6 +29351,7 @@ extracranial
 extract
 extracted
 extractions
+extractive
 extractives
 extractor
 extractors
@@ -32389,6 +32400,7 @@ foscarnet
 foscarnets
 foss
 fossate
+fosses
 fossette
 fossettes
 fossick
@@ -33930,6 +33942,7 @@ gavelock
 gavelocks
 gavot
 gavotted
+gavotting
 gawk
 gawked
 gawker
@@ -35372,6 +35385,7 @@ gossamer
 gossan
 gossip
 gossiper
+gossipers
 gossiping
 gossipmonger
 gossippers
@@ -36633,6 +36647,7 @@ habitant
 habitants
 habitat
 habitation
+habitations
 habited
 habitual
 habitualness
@@ -37591,6 +37606,7 @@ hearkens
 hears
 hearsays
 hearsed
+hearses
 heartaches
 heartbeat
 heartbeats
@@ -45082,6 +45098,7 @@ kidskins
 kidvid
 kief
 kiefs
+kielbasas
 kielbasi
 kielbasy
 kier
@@ -47794,6 +47811,7 @@ logicised
 logicises
 logicising
 logicize
+logicizes
 logicizing
 logicless
 logics
@@ -49002,6 +49020,7 @@ mammitides
 mammocked
 mammogram
 mammographies
+mammography
 mammon
 mammonist
 mammons
@@ -49756,6 +49775,7 @@ mavourneen
 mawing
 mawkishly
 mawn
+maxed
 maxes
 maxi
 maxicoat
@@ -54192,6 +54212,7 @@ navels
 navelworts
 navicert
 naviculars
+navigating
 navigation
 navigational
 navigationally
@@ -56984,6 +57005,7 @@ onerousnesses
 ongoing
 ongoingnesses
 oniony
+onium
 onlay
 onlays
 online
@@ -58269,6 +58291,7 @@ outsidernesses
 outsin
 outsing
 outsinging
+outsings
 outsinned
 outsit
 outsits
@@ -59586,6 +59609,7 @@ paddleboard
 paddler
 paddles
 paddocked
+paddywack
 paddywacked
 paddywacking
 padis
@@ -61625,6 +61649,7 @@ perineal
 perineuria
 perineurium
 periodates
+periodic
 periodical
 periodically
 periodicities
@@ -69139,6 +69164,7 @@ reattribution
 reauthorization
 reauthorized
 reavail
+reavails
 reave
 reavers
 reaving
@@ -70136,6 +70162,7 @@ refit
 refits
 refitting
 refixed
+refixing
 reflag
 reflagged
 reflagging
@@ -70959,6 +70986,7 @@ remit
 remitment
 remitments
 remittance
+remitted
 remittent
 remitters
 remittor
@@ -75813,6 +75841,7 @@ seedpods
 seeds
 seedsmen
 seedstock
+seedstocks
 seedtime
 seedtimes
 seedy
@@ -79331,6 +79360,7 @@ softhearted
 softies
 softish
 softnesses
+softshell
 software
 softwares
 sogged
@@ -80533,6 +80563,7 @@ spookiest
 spookily
 spookiness
 spooking
+spooks
 spooky
 spooled
 spooler
@@ -81801,6 +81832,7 @@ stopcock
 stopcocks
 stoped
 stoper
+stopes
 stoplight
 stopoff
 stopoffs
@@ -85771,6 +85803,7 @@ terminably
 terminal
 terminally
 terminals
+terminated
 termination
 terminational
 terminations
@@ -94168,6 +94201,7 @@ warrens
 warrigals
 warriors
 warsaw
+warsaws
 warship
 warships
 warsle
@@ -95550,6 +95584,7 @@ woodbind
 woodbins
 woodblocks
 woodborer
+woodborers
 woodbox
 woodchats
 woodchopper
