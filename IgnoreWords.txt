@@ -572,6 +572,7 @@ acroliths
 acromegalies
 acromegaly
 acromia
+acromion
 acronic
 acronycal
 acropetal
@@ -3284,6 +3285,7 @@ antifashions
 antifat
 antifatigue
 antifeminism
+antifeminist
 antifilibuster
 antifoaming
 antifog
@@ -5059,6 +5061,7 @@ attenuating
 attenuation
 attest
 attestant
+attestants
 attestation
 attestations
 attester
@@ -10787,6 +10790,7 @@ bust
 bustard
 bustards
 buster
+bustic
 busticated
 busticates
 bustics
@@ -13276,6 +13280,7 @@ charlatanisms
 charlatanry
 charlatans
 charley
+charleys
 charlock
 charlotte
 charm
@@ -14943,6 +14948,7 @@ cloths
 clots
 cloture
 cloud
+cloudberries
 cloudbursts
 cloudier
 cloudiest
@@ -18050,6 +18056,7 @@ cottager
 cottages
 cottagey
 cottar
+cottars
 cottas
 cottered
 cottier
@@ -22121,6 +22128,7 @@ destabilizes
 destained
 destaining
 destains
+destines
 destitute
 destituted
 destituteness
@@ -28309,6 +28317,7 @@ etherealnesses
 etherifies
 etherization
 etherizations
+etherize
 etherizer
 etherizers
 etherizes
@@ -30254,6 +30263,7 @@ fellowshipped
 fellowships
 felon
 feloniousness
+felonries
 felonry
 felons
 felsic
@@ -32325,6 +32335,7 @@ formals
 formamides
 format
 formates
+formations
 formatively
 formatives
 formats
@@ -33291,6 +33302,7 @@ furtherance
 furtherances
 furthered
 furthering
+furthermost
 furthest
 furtive
 furtively
@@ -36708,6 +36720,7 @@ hackle
 hackler
 hacklier
 hackling
+hackly
 hackmatack
 hackmatacks
 hackneying
@@ -43394,6 +43407,7 @@ inwinds
 inwound
 inwove
 inwoven
+inwrought
 iodate
 iodating
 iodation
@@ -51020,6 +51034,7 @@ midcourse
 midcult
 midden
 middens
+middlebrow
 middlebrows
 middled
 middleman
@@ -53563,6 +53578,7 @@ munis
 munitioning
 munitions
 munnion
+muns
 munster
 muntins
 muntjac
@@ -53813,6 +53829,7 @@ mycorhizae
 mycorhizas
 mycorrhizae
 mycorrhizal
+mycotic
 mycotoxins
 mycoviruses
 mycs
@@ -57768,6 +57785,7 @@ outacting
 outacts
 outadd
 outadds
+outage
 outages
 outargue
 outargues
@@ -60187,6 +60205,7 @@ papyrologists
 papyrology
 parabiotic
 parabiotically
+parablast
 parable
 parables
 parabola
@@ -64315,6 +64334,7 @@ pomelos
 pomfret
 pommee
 pommel
+pommeled
 pommelled
 pommels
 pommy
@@ -64579,6 +64599,7 @@ possessedly
 possessedness
 possessednesses
 possesses
+possessing
 possessions
 possessive
 possessively
@@ -68559,6 +68580,7 @@ raisings
 raisiny
 raisonne
 raita
+raj
 rajahs
 rajas
 rake
@@ -70026,6 +70048,7 @@ reeditions
 reedlike
 reedlings
 reedmen
+reeds
 reeducate
 reeducating
 reeducations
@@ -71049,6 +71072,7 @@ remittor
 remix
 remixture
 remobilizations
+remobilize
 remobilizes
 remobilizing
 remodeled
@@ -71310,6 +71334,7 @@ repercussive
 reperked
 reperking
 reperks
+repertoire
 repertories
 repetend
 repetends
@@ -72699,6 +72724,7 @@ rhinoceri
 rhinologies
 rhinoscopy
 rhinovirus
+rhizobia
 rhizobial
 rhizoctonias
 rhizoid
@@ -73551,6 +73577,7 @@ roughrider
 roughriders
 roughs
 rouille
+rouilles
 roulade
 roulades
 rouletted
@@ -75660,6 +75687,7 @@ seacock
 seacocks
 seacrafts
 seadrome
+seadromes
 seafarers
 seafaring
 seafarings
@@ -83986,6 +84014,7 @@ susceptiveness
 sushis
 suslik
 suspect
+suspecting
 suspended
 suspender
 suspenders
@@ -84073,6 +84102,7 @@ swam
 swamies
 swamis
 swamp
+swamped
 swampers
 swampier
 swampiest
@@ -84239,6 +84269,7 @@ swingings
 swingles
 swingletrees
 swingling
+swings
 swingy
 swinish
 swinishness
@@ -85752,6 +85783,7 @@ tenours
 tenpence
 tenpences
 tenpenny
+tenpins
 tenpounder
 tenpounders
 tenrec
@@ -91473,6 +91505,7 @@ unsaved
 unsavory
 unsavoury
 unsawed
+unsawn
 unsayable
 unsayables
 unscanned
@@ -93603,6 +93636,7 @@ vitrine
 vitrines
 vitriol
 vitrioled
+vitriolled
 vitriolling
 vitriols
 vittae
@@ -96552,6 +96586,7 @@ zests
 zeugmas
 zibeline
 zibelines
+zibelline
 zibet
 zibeth
 zibeths
