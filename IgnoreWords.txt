@@ -1261,6 +1261,7 @@ afterpain
 afterpains
 afterpiece
 afterpieces
+afters
 aftershave
 aftershaves
 aftertaste
@@ -8235,6 +8236,7 @@ bitchiest
 bitching
 bite
 biteable
+biteplate
 biteplates
 biter
 biters
@@ -8741,6 +8743,7 @@ bluenose
 bluenosed
 bluenoses
 bluepoint
+blueprint
 blueprints
 blueshifts
 bluesman
@@ -14147,6 +14150,7 @@ chubasco
 chubascos
 chubbier
 chubbiest
+chubbiness
 chubby
 chuckawalla
 chucked
@@ -21296,6 +21300,7 @@ dekameter
 dekametres
 deke
 deked
+dekeing
 deking
 delaine
 delaines
@@ -25826,6 +25831,7 @@ ecchymoses
 ecchymosis
 ecclesiae
 ecclesiastic
+ecclesiastical
 ecclesiasticism
 ecclesiastics
 ecclesiological
@@ -33711,6 +33717,7 @@ gammy
 gamodeme
 gamodemes
 gamp
+gamps
 gamut
 gan
 ganache
@@ -34313,6 +34320,7 @@ geohydrologic
 geohydrologies
 geohydrologist
 geohydrologists
+geohydrology
 geoid
 geoidal
 geoids
@@ -36703,6 +36711,7 @@ gyve
 gyved
 gyves
 ha
+haaf
 haar
 habanera
 habaneras
@@ -38161,6 +38170,7 @@ herbier
 herbiest
 herbivory
 herbless
+herbologies
 herbology
 herbs
 herby
@@ -40302,6 +40312,7 @@ iconoclasms
 iconoclast
 iconoclastic
 iconographers
+iconographic
 iconographies
 iconography
 iconolatries
@@ -41751,6 +41762,7 @@ inducer
 inducers
 induces
 inducibilities
+inducibility
 inducing
 induct
 inductances
@@ -41856,6 +41868,7 @@ inertnesses
 inerts
 inescapable
 inescapably
+inestimable
 inestimably
 inevitabilities
 inevitability
@@ -42641,6 +42654,7 @@ intellections
 intellective
 intellectively
 intellects
+intellectual
 intellectualist
 intellectualize
 intelligencer
@@ -47068,6 +47082,7 @@ libertine
 libertinisms
 liberty
 libidinal
+libidinally
 libidinously
 libido
 librae
@@ -48330,6 +48345,7 @@ lulu
 lulus
 lum
 lumbago
+lumbagos
 lumbar
 lumbars
 lumber
@@ -48854,6 +48870,7 @@ magnificats
 magnificently
 magnifier
 magnify
+magnifying
 magniloquence
 magniloquences
 magniloquent
@@ -49727,6 +49744,7 @@ mastodon
 mastodons
 mastodont
 mastoid
+mastoiditis
 mastoiditises
 mastopexies
 masturbate
@@ -51128,6 +51146,7 @@ midmonths
 midmost
 midnight
 midnights
+midrange
 midrash
 midrashic
 midrashoth
@@ -55186,6 +55205,7 @@ nome
 nomen
 nomenclator
 nomenclatorial
+nomenclators
 nomenclature
 nomina
 nominal
@@ -55274,6 +55294,7 @@ nonbeing
 nonbeings
 nonbeliever
 nonbelievers
+nonbelligerents
 nonbetting
 nonbinary
 nonbiological
@@ -59580,6 +59601,7 @@ oxeyes
 oxfords
 oxidable
 oxidant
+oxidase
 oxidases
 oxidate
 oxidation
@@ -63697,6 +63719,7 @@ playwriting
 plaza
 pleaches
 pleaching
+plead
 pleadable
 pleader
 pleaders
@@ -64483,6 +64506,7 @@ poof
 poofter
 poofy
 poohed
+pooing
 pooler
 poolers
 poolhall
@@ -68892,6 +68916,7 @@ ratals
 ratanies
 ratans
 ratany
+rataplan
 rataplans
 ratatat
 ratatats
@@ -72024,6 +72049,7 @@ respected
 respecters
 respectful
 respectfully
+respectfulness
 respecting
 respectively
 respell
@@ -73797,6 +73823,7 @@ rubout
 rubouts
 rubric
 rubrical
+rubricate
 rubricates
 rubrications
 rubricator
@@ -79735,6 +79762,7 @@ somedeal
 somehow
 someplaces
 somersault
+somersaulted
 somersaulting
 somersaults
 somerseted
@@ -82715,6 +82743,7 @@ subdividers
 subdivision
 subdominant
 subdominants
+subduably
 subdual
 subduals
 subduce
@@ -83360,6 +83389,7 @@ suiters
 suitings
 suitlike
 suitors
+suits
 sukiyaki
 sukiyakis
 sukkah
@@ -85708,6 +85738,7 @@ tell
 tellable
 teller
 tellies
+telling
 tellingly
 tells
 telltales
@@ -89110,6 +89141,7 @@ tuberculosis
 tuberculous
 tuberoid
 tuberoses
+tuberosities
 tuberous
 tubes
 tubeworks
@@ -92243,6 +92275,7 @@ upsweeping
 upsweeps
 upswelled
 upswells
+upswept
 upswing
 upswinging
 upswings
@@ -94171,6 +94204,7 @@ waifs
 wailed
 wailers
 wailfully
+wain
 wainscotings
 wainscotted
 wainscotting
@@ -96604,6 +96638,7 @@ zamarra
 zamarras
 zamindar
 zamindaris
+zanana
 zanders
 zanier
 zanies
