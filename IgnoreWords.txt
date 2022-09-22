@@ -693,6 +693,7 @@ adaptable
 adaptation
 adaptations
 adapted
+adaptednesses
 adapter
 adapters
 adaptivities
@@ -5994,6 +5995,7 @@ balaclavas
 balance
 balanced
 balancer
+balata
 balboa
 balbriggan
 balconied
@@ -8551,6 +8553,7 @@ blindest
 blindfish
 blindfold
 blindguts
+blindly
 blindness
 blindnesses
 blindsided
@@ -8607,6 +8610,7 @@ blocs
 blog
 bloggings
 blogs
+blonde
 blondest
 blondine
 blondined
@@ -10725,6 +10729,7 @@ burnishings
 burnoose
 burnous
 burnouses
+burnout
 burnsides
 burnt
 burp
@@ -15474,6 +15479,7 @@ coequating
 coerce
 coerced
 coercers
+coerces
 coercible
 coercibly
 coercing
@@ -16099,6 +16105,7 @@ commending
 commends
 commensally
 commensurate
+commensuration
 commentaries
 commentates
 commentating
@@ -16344,6 +16351,7 @@ complicated
 complicating
 complication
 complice
+complicities
 compliers
 complies
 complimentarily
@@ -23797,6 +23805,7 @@ disparaged
 disparagements
 disparages
 disparaging
+disparate
 disparately
 disparatenesses
 disparity
@@ -26723,6 +26732,7 @@ emerita
 emeriti
 emeroid
 emersed
+emes
 emetic
 emetine
 emeu
@@ -29578,6 +29588,7 @@ eyepieces
 eyepoint
 eyepoints
 eyepoppers
+eyers
 eyes
 eyeshade
 eyeshades
@@ -33152,6 +33163,7 @@ fugal
 fugato
 fugatos
 fuggier
+fuggily
 fugging
 fugio
 fugios
@@ -34561,6 +34573,7 @@ gibbering
 gibberishes
 gibbeted
 gibbeting
+gibbetted
 gibbing
 gibbons
 gibbosities
@@ -35558,6 +35571,7 @@ governmenteses
 governors
 governorships
 gowaned
+gowd
 gowds
 gowks
 gown
@@ -36418,6 +36432,7 @@ guesses
 guesstimate
 guesstimated
 guesstimates
+guesswork
 guessworks
 guested
 guesting
@@ -45101,6 +45116,7 @@ ketogenesis
 ketogenic
 ketol
 ketones
+ketonuria
 ketotic
 kettle
 kettledrums
@@ -46406,6 +46422,7 @@ lauan
 lauans
 laudableness
 laudablenesses
+laudably
 laudanum
 laudation
 laudative
@@ -46526,6 +46543,7 @@ layperson
 laypersons
 lays
 layup
+layups
 lazar
 lazarette
 lazarettes
@@ -55158,6 +55176,7 @@ nobbiest
 nobbily
 nobble
 nobbled
+nobbler
 nobblers
 nobbles
 nobby
@@ -56653,6 +56672,7 @@ obsolescent
 obsolesces
 obsoleting
 obstacle
+obstetrician
 obstetricians
 obstinacy
 obstinate
@@ -56959,6 +56979,7 @@ offprint
 offprinted
 offramp
 offscourings
+offsetting
 offshoot
 offside
 offspring
@@ -58444,6 +58465,7 @@ outsaw
 outsay
 outsays
 outscheme
+outschemes
 outscheming
 outscolded
 outscolding
@@ -63555,6 +63577,7 @@ planarias
 planarities
 planate
 planation
+planations
 planch
 planchets
 planchettes
@@ -67522,6 +67545,7 @@ pulsojets
 pulverable
 pulverise
 pulverizations
+pulverize
 pulverized
 pulverizer
 pulverizers
@@ -67792,6 +67816,7 @@ puss
 pusses
 pussley
 pusslike
+pussycats
 pussyfoot
 pussyfooters
 pussyfooting
@@ -68815,6 +68840,7 @@ ramped
 rampikes
 rampion
 rampole
+ramps
 ramrodding
 rams
 ramshorn
@@ -68852,6 +68878,7 @@ randomization
 randomizations
 randomizer
 randomizers
+randomizing
 randomnesses
 range
 rangers
@@ -73556,6 +73583,7 @@ roomie
 roomier
 roomies
 roomily
+roominess
 roominesses
 rooming
 roommates
@@ -74407,6 +74435,7 @@ salifies
 salifying
 salimetries
 salina
+salines
 salinization
 salinizations
 salinizing
@@ -77403,6 +77432,7 @@ shirtsleeved
 shirttail
 shirttailed
 shirttails
+shirtwaist
 shirty
 shist
 shists
@@ -84168,6 +84198,7 @@ surrejoinder
 surrendered
 surreptitious
 surrey
+surrogacies
 surrogacy
 surrogate
 surrogated
@@ -85937,6 +85968,7 @@ tendon
 tendonitis
 tendresse
 tendril
+tendriled
 tendrilled
 tendrilous
 tends
@@ -86347,6 +86379,7 @@ thankfully
 thankfulness
 thanking
 thanklessness
+thanksgivings
 thankworthy
 tharms
 that
@@ -88986,6 +89019,7 @@ troponin
 tropopauses
 troposphere
 tropospheres
+tropospheric
 tropotaxes
 tropotaxis
 trot
@@ -89529,6 +89563,7 @@ twasome
 twattle
 tweak
 tweakier
+tweaking
 tweaky
 tweed
 tweedier
