@@ -272,6 +272,7 @@ acclamation
 acclamations
 acclimated
 acclimates
+acclimating
 acclimations
 acclimatise
 acclimatised
@@ -2596,6 +2597,7 @@ anaesthesias
 anaesthetic
 anaesthetics
 anageneses
+anagenesis
 anaglyph
 anagnorises
 anagnorisis
@@ -2792,6 +2794,7 @@ anemometer
 anemometry
 anemones
 anemophilous
+anemosis
 anencephalic
 anencephalies
 anenst
@@ -4489,6 +4492,7 @@ arts
 artsier
 artsiness
 artwork
+arty
 arugola
 arugolas
 arugula
@@ -5242,6 +5246,7 @@ auspicates
 auspicating
 auspiciously
 auspiciousness
+austere
 austereness
 austerest
 austerity
@@ -6344,6 +6349,7 @@ barkentines
 barkers
 barkiest
 barkless
+barky
 barleduc
 barleys
 barlow
@@ -8573,6 +8579,7 @@ blithers
 blithesome
 blithesomely
 blitzer
+blitzes
 blitzkrieg
 blizzards
 blizzardy
@@ -10561,6 +10568,7 @@ bumptiousness
 bumptiousnesses
 bumpy
 bun
+bunch
 bunched
 bunches
 bunchier
@@ -10614,6 +10622,7 @@ buntline
 buntlines
 bunts
 bunyas
+buoyage
 buoyance
 buoyances
 buoyancy
@@ -16148,6 +16157,7 @@ commonsense
 commonsensible
 commonsensical
 commonweal
+commonwealth
 commotions
 commove
 commoves
@@ -16661,6 +16671,7 @@ confabs
 confabulates
 confabulating
 confabulations
+confabulators
 confecting
 confectioner
 confectioners
@@ -21912,6 +21923,7 @@ deracinated
 deraigned
 deraigning
 derailing
+derailleur
 derailleurs
 derangers
 deranging
@@ -26995,6 +27007,7 @@ endangering
 endangerments
 endarch
 endarchies
+endarchy
 endarterectomy
 endbrain
 endbrains
@@ -36415,6 +36428,7 @@ guideway
 guideways
 guiding
 guidon
+guids
 guild
 guilders
 guildhall
@@ -41998,6 +42012,7 @@ infixes
 infixing
 inflamers
 inflames
+inflaming
 inflammable
 inflammables
 inflammatorily
@@ -48308,6 +48323,7 @@ luckinesses
 lucking
 luckless
 lucks
+lucrative
 lucratively
 lucrativeness
 lucrativenesses
@@ -55469,6 +55485,7 @@ nondepressed
 nondescript
 nondescriptive
 nondescripts
+nondestructive
 nondevelopments
 nondiabetics
 nondialyzable
@@ -56113,6 +56130,7 @@ notary
 notated
 notating
 notation
+notch
 notchback
 notchbacks
 notcher
@@ -68173,6 +68191,7 @@ queerish
 queerly
 queerness
 queernesses
+queers
 queleas
 quellable
 quelled
@@ -68431,6 +68450,7 @@ racetrack
 racetracker
 racetrackers
 racewalk
+racewalked
 racewalkers
 racewalking
 racewalks
@@ -68504,6 +68524,7 @@ radicalizations
 radicalize
 radicalized
 radicalizing
+radicalnesses
 radicals
 radicands
 radicate
@@ -71297,6 +71318,7 @@ renotifies
 renotify
 renounced
 renouncement
+renouncer
 renounces
 renouncing
 renovascular
@@ -73289,6 +73311,7 @@ roads
 roadstead
 roadsteads
 roadster
+roadsters
 roadways
 roadwork
 roadworks
@@ -75132,6 +75155,7 @@ scarphs
 scarping
 scarred
 scarriest
+scarring
 scars
 scarted
 scarting
@@ -76942,6 +76966,7 @@ shamefulness
 shamefulnesses
 shameless
 shamelessnesses
+shames
 shamisen
 shamisens
 shammed
@@ -79333,6 +79358,7 @@ snottiness
 snout
 snouted
 snoutiest
+snouting
 snouty
 snow
 snowbank
@@ -79376,6 +79402,7 @@ snowmold
 snowpacks
 snowplow
 snowplowing
+snowplows
 snows
 snowscapes
 snowshed
@@ -82501,6 +82528,7 @@ study
 studying
 stuff
 stuffier
+stuffiness
 stuffinesses
 stuffing
 stuffs
@@ -83889,6 +83917,7 @@ superstimulated
 superstition
 superstitions
 superstitiously
+superstock
 superstocks
 superstore
 superstrata
@@ -88963,6 +88992,7 @@ trousseaus
 trousseaux
 troutier
 troutiest
+trouty
 trouvere
 trouveres
 trove
@@ -91068,6 +91098,7 @@ unific
 unified
 unifiers
 uniform
+uniformest
 uniformitarians
 uniformness
 uniformnesses
@@ -95258,6 +95289,7 @@ whoosh
 whooshes
 whooshing
 whoosis
+whopped
 whopper
 whopping
 whops
@@ -95610,6 +95642,7 @@ wirephoto
 wirephotos
 wires
 wiretapper
+wiretappers
 wiretapping
 wiretaps
 wireways
@@ -96344,6 +96377,7 @@ yarded
 yarder
 yarding
 yardlands
+yardmasters
 yardmen
 yards
 yardstick
@@ -96799,6 +96833,7 @@ zoarium
 zocalo
 zocalos
 zodiacal
+zodiacs
 zoea
 zoeae
 zoecia
